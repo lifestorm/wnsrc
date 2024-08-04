@@ -1,0 +1,8 @@
+
+database:
+  adapter: "mysqloo"
+  hostname: "game-host1.willard.network"
+  username: "u22_CByQ3itev9"
+  password: "b@P^wnfu@+r@LKS^9VEikqay"
+  database: "s22_ixhl2rp_polish"
+  port: 3306

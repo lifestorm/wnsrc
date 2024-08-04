@@ -1,0 +1,182 @@
+[00:15:27	]Lorf has connected.
+[00:16:29	]Lorf loaded the character 'marta'
+[00:16:46	]marta has given himself a combine_filter.
+[00:16:46	]marta has gained a 'Combine Filter' #3635.
+[00:16:54	]marta ran 'Equip' on item 'Combine Filter' (#3635)
+[00:16:59	]marta ran 'EquipUn' on item 'Combine Filter' (#3635)
+[00:17:06	]marta has given himself a highquality_filter.
+[00:17:06	]marta has gained a 'High-Quality Filter' #3636.
+[00:17:16	]marta ran 'Equip' on item 'High-Quality Filter' (#3636)
+[00:17:23	]marta entered observer.
+[00:17:24	]marta exited observer at their location.
+[00:18:40	]marta used command '/AreaEdit'.
+[00:19:16	]marta used command '/CharSetGasPoints ^ 50'.
+[00:19:29	]marta entered observer.
+[00:19:42	]marta exited observer at their location.
+[00:20:11	]marta used command '/CharSetGasPoints ^ 90'.
+[00:20:19	]marta used command '/CharSetGasPoints ^ 95'.
+[00:20:21	]marta used command '/CharSetGasPoints ^ 99'.
+[00:20:24	]marta used command '/CharSetGasPoints ^ 100'.
+[00:20:33	]marta used command '/CharSetGasPoints ^ 120'.
+[00:20:54	]marta ran 'EquipUn' on item 'High-Quality Filter' (#3636)
+[00:21:24	]marta has taken 5 damage from ix_item.
+[00:21:53	]marta has spawned a 'NPC [429][npc_cscanner]'.
+[00:22:00	]marta has spawned a 'NPC [429][npc_vj_test_humanply]'.
+[00:22:09	]marta has spawned a 'Entity [429][npc_zombierun_prone]'.
+[00:22:16	]marta has spawned a 'NPC [429][npc_vj_gonome_cop]'.
+[00:22:28	]marta has used a context menu option with the name: vj_pr_npc_allyme
+[00:22:38	]marta has used a context menu option with the name: vj_pr_npc_guard
+[00:22:45	]marta has used a context menu option with the name: vj_pr_npc_wander
+[00:22:50	]marta has used a context menu option with the name: rb655_make_animatable
+[00:22:57	]marta has used a context menu option with the name: rb655_make_ragdoll
+[00:23:01	]marta has used a context menu option with the name: rb655_dissolve
+[00:23:21	]marta has given himself a makeshift_filter.
+[00:23:21	]marta has gained a 'Makeshift Filter' #3637.
+[00:23:35	]marta ran 'Equip' on item 'High-Quality Filter' (#3636)
+[00:23:38	]marta ran 'Replace' on item 'Combine Filter' (#3635)
+[00:23:40	]marta ran 'Replace' on item 'Makeshift Filter' (#3637)
+[00:23:43	]marta entered observer.
+[00:23:46	]marta exited observer at their location.
+[00:23:52	]marta has taken 61 damage from worldspawn.
+[00:23:55	]marta ran SAM command 'slay' with arguments: '^'
+[00:24:01	]marta used command '/CharSetGasPoints ^ 0'.
+[00:24:22	]marta entered observer.
+[00:24:24	]marta exited observer at their location.
+[00:25:00	]marta has spawned a wireless_microphone.
+[00:25:04	]marta ran 'take' on item 'Wireless Microphone' (#3638)
+[00:25:04	]marta has gained a 'Wireless Microphone' #3638.
+[00:25:16	]marta has given himself a broadcasting_device.
+[00:25:16	]marta has gained a 'Broadcasting Device' #3639.
+[00:25:36	]marta used command '/BroadcastMe elo'.
+[00:25:44	]marta used command '/LocalBroadcastMe eki'.
+[00:25:55	]marta used command '/LocalBroadcastMe witam'.
+[00:26:02	]marta used command '/LocalBroadcastMe witam 199'.
+[00:26:11	]marta used command '/Broadcast elo'.
+[00:26:33	]marta used command '/LocalBroadcastMe witam 20000'.
+[00:26:33	]marta entered observer.
+[00:26:38	]marta used command '/LocalBroadcastMe witam 20000'.
+[00:26:42	]marta used command '/LocalBroadcastMe witam 20000'.
+[00:27:08	]marta exited observer at their location.
+[00:27:12	]marta ran 'take' on item 'Large Bag' (#3322)
+[00:27:12	]marta has gained a 'Large Bag' #3322.
+[00:27:12	]marta has gained a 'Blood Syringe' #3352.
+[00:27:33	]marta ran 'drop' on item 'Large Bag' (#3322)
+[00:27:33	]marta has lost a 'Large Bag' #3322.
+[00:27:33	]marta has lost a 'Blood Syringe' #3352.
+[00:27:37	]marta destroyed a 'Large Bag' #3322.
+[00:27:45	]marta has given himself a broken_cpuniform.
+[00:27:45	]marta has gained a 'Broken CP Uniform' #3640.
+[00:27:54	]marta ran 'drop' on item 'CP Uniform' (#3633)
+[00:27:54	]marta has lost a 'CP Uniform' #3633.
+[00:29:16	]marta has given himself a comp_charcoal_refill.
+[00:29:23	]marta ran 'drop' on item 'File Box' (#3548)
+[00:29:23	]marta has lost a 'File Box' #3548.
+[00:29:25	]marta has given himself a comp_charcoal_refill.
+[00:29:25	]marta has gained a 'Charcoal Filter Refill' #3641.
+[00:30:16	]marta has given himself a head_gasmask.
+[00:30:16	]marta has gained a 'Gas Mask' #3642.
+[00:30:30	]marta ran 'drop' on item 'CP Mask' (#3632)
+[00:30:31	]marta ran 'drop' on item 'CP Mask' (#3632)
+[00:30:32	]marta ran 'Replace' on item 'High-Quality Filter' (#3636)
+[00:30:33	]marta ran 'EquipUn' on item 'High-Quality Filter' (#3636)
+[00:30:37	]marta ran 'drop' on item 'CP Mask' (#3632)
+[00:30:37	]marta has lost a 'CP Mask' #3632.
+[00:30:45	]marta ran 'Equip' on item 'Combine Filter' (#3635)
+[00:30:49	]marta ran 'EquipUn' on item 'Combine Filter' (#3635)
+[00:30:56	]marta destroyed a 'CP Mask' #3632.
+[00:30:58	]marta destroyed a 'CP Uniform' #3633.
+[00:31:00	]marta entered observer.
+[00:31:01	]marta exited observer at their location.
+[00:31:01	]marta entered observer.
+[00:31:06	]marta exited observer at their location.
+[00:31:13	]marta has given himself a breach.
+[00:31:20	]marta ran 'drop' on item 'CP Captain Uniform' (#3631)
+[00:31:20	]marta has lost a 'CP Captain Uniform' #3631.
+[00:31:21	]marta ran 'drop' on item 'Broken CP Uniform' (#3640)
+[00:31:21	]marta has lost a 'Broken CP Uniform' #3640.
+[00:31:22	]marta ran 'drop' on item 'CP Command Uniform' (#3630)
+[00:31:22	]marta has lost a 'CP Command Uniform' #3630.
+[00:31:23	]marta ran 'drop' on item 'High-Quality Filter' (#3636)
+[00:31:23	]marta has lost a 'High-Quality Filter' #3636.
+[00:31:23	]marta ran 'drop' on item 'Makeshift Filter' (#3637)
+[00:31:23	]marta has lost a 'Makeshift Filter' #3637.
+[00:31:26	]marta has given himself a breach.
+[00:31:26	]marta has gained a 'Breaching Charge' #3643.
+[00:31:27	]marta entered observer.
+[00:31:28	]marta exited observer at their location.
+[00:31:30	]marta ran 'Place' on item 'Breaching Charge' (#3643)
+[00:31:36	]env_explosion destroyed a 'CP Command Uniform' #3630.
+[00:31:38	]marta destroyed a 'CP Captain Uniform' #3631.
+[00:31:39	]marta destroyed a 'Makeshift Filter' #3637.
+[00:31:41	]marta destroyed a 'Broken CP Uniform' #3640.
+[00:31:49	]marta destroyed a 'High-Quality Filter' #3636.
+[00:31:52	]marta entered observer.
+[00:31:57	]marta exited observer at their location.
+[00:31:59	]marta entered observer.
+[00:32:04	]marta exited observer at their location.
+[00:32:10	]marta used command '/ActSit'.
+[00:32:15	]marta used command '/ActSit 2'.
+[00:32:16	]marta used command '/ExitAct'.
+[00:32:17	]marta used command '/ActSit 2'.
+[00:32:21	]marta used command '/ExitAct'.
+[00:32:25	]marta used command '/ActSit 2'.
+[00:32:30	]marta used command '/ActSit 3'.
+[00:32:31	]marta used command '/ExitAct'.
+[00:32:32	]marta used command '/ActSit 3'.
+[00:32:33	]marta used command '/ExitAct'.
+[00:32:36	]marta used command '/ActSit 3'.
+[00:32:46	]marta used command '/ExitAct'.
+[00:32:49	]marta used command '/ActSit 4'.
+[00:33:04	]marta used command '/ExitAct'.
+[00:33:06	]marta used command '/ActSit 5'.
+[00:33:16	]marta used command '/ExitAct'.
+[00:33:18	]marta used command '/ActSit 6'.
+[00:33:28	]marta used command '/ExitAct'.
+[00:33:32	]marta used command '/ActSit 7'.
+[00:33:44	]marta used command '/ExitAct'.
+[00:33:46	]marta used command '/ActSit 8'.
+[00:33:56	]marta used command '/ExitAct'.
+[00:34:10	]marta has spawned a 'Vehicle [428][prop_vehicle_prisoner_pod]'.
+[00:34:13	]marta used command '/ActSit 8'.
+[00:34:15	]marta used command '/ExitAct'.
+[00:34:21	]marta used command '/ActSit 8'.
+[00:34:22	]marta used command '/ExitAct'.
+[00:34:25	]marta used command '/ActSit 8'.
+[00:34:27	]marta used command '/ExitAct'.
+[00:34:30	]marta used command '/ActSit 8'.
+[00:34:31	]marta used command '/ExitAct'.
+[00:34:34	]marta used command '/ActSit 8'.
+[00:34:36	]marta used command '/ExitAct'.
+[00:34:41	]marta has used a context menu option with the name: remove
+[00:34:44	]marta has spawned a 'Vehicle [428][prop_vehicle_prisoner_pod]'.
+[00:34:46	]marta has used a context menu option with the name: collision_off
+[00:34:49	]marta used command '/ActSit 8'.
+[00:34:51	]marta used command '/ExitAct'.
+[00:34:54	]marta used command '/ActSit 8'.
+[00:35:04	]marta used command '/ExitAct'.
+[00:35:11	]marta used command '/ActSit 8'.
+[00:35:33	]marta used command '/ExitAct'.
+[00:35:36	]marta has spawned a 'Vehicle [430][prop_vehicle_prisoner_pod]'.
+[00:36:01	]marta entered observer.
+[00:36:02	]marta entered observer.
+[00:36:05	]marta exited observer at their location.
+[00:36:08	]marta has used a context menu option with the name: skin
+[00:36:10	]marta has used a context menu option with the name: skin
+[00:36:12	]marta has used a context menu option with the name: rb655_make_animatable
+[00:36:19	]marta has used a context menu option with the name: bodygroups
+[00:36:26	]marta has used a context menu option with the name: rb655_animatable_body_xy
+[00:36:28	]marta has used a context menu option with the name: rb655_animatable_ragdoll_on_dmg
+[00:36:33	]marta has used a context menu option with the name: bodygroups
+[00:36:38	]marta has used a context menu option with the name: bodygroups
+[00:36:44	]marta has used a context menu option with the name: bodygroups
+[00:36:51	]marta has used a context menu option with the name: bodygroups
+[00:36:55	]marta has used a context menu option with the name: bodygroups
+[00:37:12	]marta has used a context menu option with the name: bodygroups
+[00:37:27	]marta has used a context menu option with the name: bodygroups
+[00:37:32	]marta has used a context menu option with the name: bodygroups
+[00:37:51	]marta has used a context menu option with the name: bodygroups
+[00:38:04	]marta has used a context menu option with the name: skin
+[00:38:10	]marta has used a context menu option with the name: bodygroups
+[00:38:20	]marta has used a context menu option with the name: bodygroups
+[00:38:26	]marta has used a context menu option with the name: rb655_dissolve
+[00:38:30	]Lorf (STEAM_0:0:83902827) has disconnected.

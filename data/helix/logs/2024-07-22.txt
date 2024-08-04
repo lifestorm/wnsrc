@@ -1,0 +1,1053 @@
+[18:54:52	]inkaaz has connected.
+[18:55:08	]inkaaz loaded the character 'Henryk Cweles'
+[18:55:52	]Henryk Cweles set music to '"willardnetworks/charactercreation/wn_phaneron.mp3"'.
+[18:56:04	]Henryk Cweles entered observer.
+[18:56:05	]Henryk Cweles exited observer.
+[18:56:15	]Henryk Cweles entered observer.
+[18:56:15	]Henryk Cweles exited observer at their location.
+[18:56:15	]Henryk Cweles entered observer.
+[18:57:45	]Henryk Cweles exited observer at their location.
+[18:57:50	]Henryk Cweles ran 'take' on item 'Brązowy uniform' (#50800)
+[18:57:50	]Henryk Cweles has gained a 'Brązowy uniform' #50800.
+[18:58:03	]Henryk Cweles used command '/PlyWhitelist ^ civil'.
+[19:00:16	]inkaaz created the character 'C17:RCT.YELLO-45'
+[19:00:16	]Henryk Cweles has gained level 10 in the Prędkość skill.
+[19:00:16	]inkaaz loaded the character 'C17:RCT.YELLO-45'
+[19:00:16	]C17:RCT.YELLO-45 has gained a 'Karta identyfikacyjna #95926' #50829.
+[19:00:16	]C17:RCT.YELLO-45 has gained a 'PDA Kombinatu' #50830.
+[19:00:16	]C17:RCT.YELLO-45 has gained a 'Lightweight Functionary Uniform (City 8)' #50831.
+[19:00:16	]C17:RCT.YELLO-45 has gained a 'Maska przeciwgazowa PMG-5 (AUG)' #50832.
+[19:00:16	]C17:RCT.YELLO-45 has gained a 'Mała torba' #50833.
+[19:00:16	]C17:RCT.YELLO-45 has gained a 'Duża torba' #50834.
+[19:00:57	]C17:RCT.YELLO-45 has changed C17:RCT.YELLO-45's bodygroups.
+[19:02:15	]C17:RCT.YELLO-45 used command '/Dispatch test'.
+[19:02:51	][IC] C17:RCT.YELLO-45: <:: 2. ::>
+[19:02:53	][IC] C17:RCT.YELLO-45: <:: 2 2. ::>
+[19:02:57	][IC] C17:RCT.YELLO-45: <:: 2 2 2 2. ::>
+[19:03:03	][IC] C17:RCT.YELLO-45: <:: 10-2. ::>
+[19:03:07	][IC] C17:RCT.YELLO-45: <:: 10-2. ::>
+[19:04:29	]C17:RCT.YELLO-45 entered observer.
+[19:04:33	]C17:RCT.YELLO-45 exited observer at their location.
+[19:04:34	]C17:RCT.YELLO-45 entered observer.
+[19:04:44	]C17:RCT.YELLO-45 exited observer at their location.
+[19:05:48	]C17:CPT.VICTOR-01 used command '/CharSetName ^ C17:CPT.VICTOR-01'.
+[19:05:53	]C17:CPT.VICTOR-01 ran 'Equip' on item 'PDA Kombinatu' (#50830)
+[19:07:27	]C17:CpT.VICTOR-01 used command '/CharSetName ^ C17:CpT.VICTOR-01'.
+[19:08:14	][IC] C17:CpT.VICTOR-01: <:: Test. ::>
+[19:08:27	]C17:CpT.VICTOR-01 set cityIndex to '24'.
+[19:08:53	][IC] C17:CpT.VICTOR-01: <:: Haha. ::>
+[19:09:00	][IC] C17:CpT.VICTOR-01: <:: Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. Haha. ::>
+[19:09:42	]C17:CpT.VICTOR-01 entered observer.
+[19:09:55	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:10:16	]C17:CpT.VICTOR-01 entered observer.
+[19:10:41	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:10:42	]C17:CpT.VICTOR-01 entered observer.
+[19:11:34	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:11:35	]C17:CpT.VICTOR-01 has spawned a musicradio_cmb.
+[19:11:37	]C17:CpT.VICTOR-01 ran 'Deploy' on item 'Radio Benefaktor' (#50835)
+[19:11:46	]C17:CpT.VICTOR-01 has taken 10 damage from wn_musicradio.
+[19:11:46	]C17:CpT.VICTOR-01 has taken 5 damage from wn_musicradio.
+[19:11:46	]C17:CpT.VICTOR-01 has taken 5 damage from wn_musicradio.
+[19:14:54	]C17:CpT.VICTOR-01 entered observer.
+[19:15:03	]C17:CpT.VICTOR-01 has spawned a 'NPC [395][npc_vj_hla_zombieclassic]'.
+[19:15:05	]C17:CpT.VICTOR-01 has spawned a 'NPC [407][npc_vj_hla_zombieclassic_hl2]'.
+[19:15:08	]C17:CpT.VICTOR-01 has spawned a 'NPC [408][npc_vj_hla_zombieclassic_hl2]'.
+[19:15:08	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:15:12	]C17:CpT.VICTOR-01 has spawned a 'NPC [395][npc_vj_hla_zombiegunner]'.
+[19:15:14	]C17:CpT.VICTOR-01 has spawned a 'NPC [406][npc_vj_hla_zombieclassic]'.
+[19:15:17	]C17:CpT.VICTOR-01 has spawned a 'NPC [395][npc_vj_hla_zombieclassic_hl2]'.
+[19:15:27	]C17:CpT.VICTOR-01 has spawned a 'NPC [406][npc_vj_hla_zombieclassic]'.
+[19:15:38	]C17:CpT.VICTOR-01 has spawned a 'NPC [395][npc_vj_hla_zombie_unused]'.
+[19:15:51	]C17:CpT.VICTOR-01 has taken 20 damage from Zombie.
+[19:15:59	]C17:CpT.VICTOR-01 has taken 20 damage from Zombie.
+[19:16:08	]C17:CpT.VICTOR-01 has hit npc_vj_hla_zombieclassic dealing 7 damage (CritChance was 0.00).
+[19:16:08	]C17:CpT.VICTOR-01 has damaged npc_vj_hla_zombieclassic, dealing 8.5 with ix_hands
+[19:16:10	]C17:CpT.VICTOR-01 has hit npc_vj_hla_zombieclassic dealing 7 damage (CritChance was 0.00).
+[19:16:10	]C17:CpT.VICTOR-01 has damaged npc_vj_hla_zombieclassic, dealing 8.5 with ix_hands
+[19:16:10	]C17:CpT.VICTOR-01 has taken 20 damage from Zombie.
+[19:16:12	]C17:CpT.VICTOR-01 has hit npc_vj_hla_zombieclassic dealing 7 damage (CritChance was 0.00).
+[19:16:12	]C17:CpT.VICTOR-01 has damaged npc_vj_hla_zombieclassic, dealing 8.5 with ix_hands
+[19:16:13	]C17:CpT.VICTOR-01 has hit npc_vj_hla_zombieclassic dealing 7 damage (CritChance was 0.00).
+[19:16:13	]C17:CpT.VICTOR-01 has damaged npc_vj_hla_zombieclassic, dealing 8.5 with ix_hands
+[19:16:16	]C17:CpT.VICTOR-01 has hit npc_vj_hla_zombieclassic dealing 7 damage (CritChance was 0.00).
+[19:16:16	]C17:CpT.VICTOR-01 has damaged npc_vj_hla_zombieclassic, dealing 8.5 with ix_hands
+[19:16:21	]C17:CpT.VICTOR-01 has hit npc_vj_hla_zombieclassic dealing 7 damage (CritChance was 0.00).
+[19:16:21	]C17:CpT.VICTOR-01 has damaged npc_vj_hla_zombieclassic, dealing 8.5 with ix_hands
+[19:16:22	]C17:CpT.VICTOR-01 has hit npc_vj_hla_zombieclassic dealing 7 damage (CritChance was 0.00).
+[19:16:23	]C17:CpT.VICTOR-01 has damaged npc_vj_hla_zombieclassic, dealing 8.5 with ix_hands
+[19:16:28	]C17:CpT.VICTOR-01 has hit npc_vj_hla_hcrab dealing 7 damage (CritChance was 0.00).
+[19:16:28	]C17:CpT.VICTOR-01 has damaged npc_vj_hla_hcrab, dealing 8.5 with ix_hands
+[19:16:34	]C17:CpT.VICTOR-01 has hit npc_vj_hla_hcrab dealing 7 damage (CritChance was 0.00).
+[19:16:34	]C17:CpT.VICTOR-01 has damaged npc_vj_hla_hcrab, dealing 8.5 with ix_hands
+[19:16:35	]C17:CpT.VICTOR-01 has hit npc_vj_hla_hcrab dealing 7 damage (CritChance was 0.00).
+[19:16:35	]C17:CpT.VICTOR-01 has damaged npc_vj_hla_hcrab, dealing 8.5 with ix_hands
+[19:17:11	]C17:CpT.VICTOR-01 has given himself a health_kit.
+[19:17:11	]C17:CpT.VICTOR-01 has gained a 'Apteczka' #50836.
+[19:17:15	]C17:CpT.VICTOR-01 ran 'use' on item 'Apteczka' (#50836)
+[19:17:15	]C17:CpT.VICTOR-01 has performed the 'Use Apteczka' action, gaining 57 experience in medicine.
+[19:17:15	]C17:CpT.VICTOR-01 was disinfected by C17:CpT.VICTOR-01 for 250 seconds.
+[19:17:15	]C17:CpT.VICTOR-01 was bandaged by C17:CpT.VICTOR-01 for 56 HP.
+[19:18:36	]C17:CpT.VICTOR-01 is fully healed.
+[19:19:22	]C17:CpT.VICTOR-01 entered observer.
+[19:19:23	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:19:27	]inkaaz (STEAM_0:0:50287200) has disconnected.
+[19:23:40	]inkaaz has connected.
+[19:23:57	]inkaaz loaded the character 'C17:CpT.VICTOR-01'
+[19:25:05	]C17:CpT.VICTOR-01 has spawned a 'Entity [392][gmod_sent_vehicle_fphysics_base]'.
+[19:25:07	]C17:CpT.VICTOR-01 has spawned a 'Entity [392][gmod_sent_vehicle_fphysics_base]'.
+[19:25:09	]C17:CpT.VICTOR-01 has used a context menu option with the name: skin
+[19:25:11	]C17:CpT.VICTOR-01 has used a context menu option with the name: rb655_vehicle_enter
+[19:27:24	][ME] C17:CpT.VICTOR-01: daje znak ręką „PRZEGRUPOWAĆ SIĘ”.
+[19:27:39	][ME] C17:CpT.VICTOR-01: daje znak ręką „STOP”.
+[19:27:48	][ME] C17:CpT.VICTOR-01: daje znak ręką „NAPRZÓD”.
+[19:28:09	][ME] C17:CpT.VICTOR-01: daje znak ręką „NAPRZÓD”.
+[19:28:10	][ME] C17:CpT.VICTOR-01: daje znak ręką „PRZEGRUPOWAĆ SIĘ”.
+[19:28:13	][ME] C17:CpT.VICTOR-01: daje znak ręką „NAPRZÓD”.
+[19:28:21	][ME] C17:CpT.VICTOR-01: daje znak ręką „PRZEGRUPOWAĆ SIĘ”.
+[19:28:46	][ME] C17:CpT.VICTOR-01: daje znak ręką „NAPRZÓD”.
+[19:28:47	][ME] C17:CpT.VICTOR-01: daje znak ręką „STOP”.
+[19:28:48	][ME] C17:CpT.VICTOR-01: daje znak ręką „PRZEGRUPOWAĆ SIĘ”.
+[19:28:55	][ME] C17:CpT.VICTOR-01: daje znak ręką „NAPRZÓD”.
+[19:28:56	][ME] C17:CpT.VICTOR-01: daje znak ręką „STOP”.
+[19:28:56	][ME] C17:CpT.VICTOR-01: daje znak ręką „PRZEGRUPOWAĆ SIĘ”.
+[19:31:57	]C17:CpT.VICTOR-01 entered observer.
+[19:32:17	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:36:29	]C17:CpT.VICTOR-01 entered observer.
+[19:36:32	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:36:55	]C17:CpT.VICTOR-01 entered observer.
+[19:36:55	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:40:16	]C17:CpT.VICTOR-01 entered observer.
+[19:40:16	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:40:21	]C17:CpT.VICTOR-01 entered observer.
+[19:40:21	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:40:22	]C17:CpT.VICTOR-01 entered observer.
+[19:40:22	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:40:22	]C17:CpT.VICTOR-01 has taken 44 damage from worldspawn.
+[19:40:23	]C17:CpT.VICTOR-01 entered observer.
+[19:40:24	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:43:16	]C17:CpT.VICTOR-01 ran SAM command 'hp' with arguments: '^' '100'
+[19:43:17	]C17:CpT.VICTOR-01 is fully healed.
+[19:43:36	]C17:CpT.VICTOR-01 entered observer.
+[19:43:37	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:43:53	]C17:CpT.VICTOR-01 entered observer.
+[19:43:54	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:45:26	]C17:CpT.VICTOR-01 entered observer.
+[19:45:35	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:50:17	]C17:CpT.VICTOR-01 entered observer.
+[19:50:18	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:51:41	]C17:CpT.VICTOR-01 entered observer.
+[19:51:42	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:51:43	]C17:CpT.VICTOR-01 entered observer.
+[19:51:43	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:51:56	]C17:CpT.VICTOR-01 entered observer.
+[19:51:57	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:52:54	]C17:CpT.VICTOR-01 entered observer.
+[19:52:55	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:52:58	]C17:CpT.VICTOR-01 entered observer.
+[19:53:00	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:53:41	]C17:CpT.VICTOR-01 entered observer.
+[19:53:42	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:53:42	]C17:CpT.VICTOR-01 entered observer.
+[19:54:39	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:56:34	]C17:CpT.VICTOR-01 entered observer.
+[19:57:54	]C17:CpT.VICTOR-01 has spawned a 'Entity [416][gmod_sent_vehicle_fphysics_base]'.
+[19:58:13	]C17:CpT.VICTOR-01 exited observer at their location.
+[19:59:21	]C17:CpT.VICTOR-01 has spawned a 'Entity [416][wn_crop]'.
+[19:59:25	]C17:CpT.VICTOR-01 has spawned a 'Entity [416][ix_vein_coal]'.
+[19:59:27	]C17:CpT.VICTOR-01 has spawned a 'Entity [417][ix_vein_gold]'.
+[20:01:57	]C17:CpT.VICTOR-01 has spawned a 'Entity [416][gmod_sent_vehicle_fphysics_base]'.
+[20:02:23	]C17:CpT.VICTOR-01 entered observer.
+[20:02:58	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:02:58	]C17:CpT.VICTOR-01 entered observer.
+[20:02:59	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:03:00	]C17:CpT.VICTOR-01 entered observer.
+[20:03:14	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:03:16	]C17:CpT.VICTOR-01 entered observer.
+[20:03:16	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:06:07	]Mensu has connected.
+[20:06:47	]C17:CpT.VICTOR-01 entered observer.
+[20:07:10	][AltChecker] Mensu joined without a cookie, but matched installation with existing cookie. Certainty 3/5
+[20:08:01	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:08:16	]C17:CpT.VICTOR-01 entered observer.
+[20:08:34	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:08:44	]C17:CpT.VICTOR-01 entered observer.
+[20:08:49	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:08:58	]Mensu created the character 'RE RE REER ER'
+[20:08:58	]Mensu loaded the character 'RE RE REER ER'
+[20:08:58	]RE RE REER ER has gained a 'Jasnoszara opaska' #50837.
+[20:08:58	]RE RE REER ER has gained a 'Karta identyfikacyjna #97921' #50838.
+[20:08:58	]RE RE REER ER has gained a 'Czarny uniform' #50839.
+[20:08:58	]RE RE REER ER has gained a 'Czarne luźne spodnie' #50840.
+[20:08:58	]RE RE REER ER has gained a 'Buty z brązowej skóry' #50841.
+[20:08:58	]RE RE REER ER has gained a 'Okulary' #50842.
+[20:09:12	]C17:CpT.VICTOR-01 has given himself a stunstick.
+[20:09:12	]C17:CpT.VICTOR-01 has gained a 'CV-2000 Pałka Paralizująca' #50843.
+[20:09:13	][IC] RE RE REER ER: Siema albino.
+[20:09:15	]C17:CpT.VICTOR-01 ran 'Equip' on item 'CV-2000 Pałka Paralizująca' (#50843)
+[20:09:17	][IC] C17:CpT.VICTOR-01: <:: Wiesz co. ::>
+[20:09:20	][IC] RE RE REER ER: Co.
+[20:09:23	][IC] C17:CpT.VICTOR-01: <:: Gówno. ::>
+[20:09:27	]C17:CpT.VICTOR-01 has critically hit RE RE REER ER dealing 24 damage (CritChance was 0.88).
+[20:09:27	]RE RE REER ER has taken 24 damage from C17:CpT.VICTOR-01.
+[20:09:28	]C17:CpT.VICTOR-01 has critically hit RE RE REER ER dealing 24 damage (CritChance was 0.88).
+[20:09:28	]RE RE REER ER has taken 24 damage from C17:CpT.VICTOR-01.
+[20:09:29	]RE RE REER ER was just knocked out due to: hit by stunstick owned by C17:CpT.VICTOR-01
+[20:09:31	][IC] RE RE REER ER: Zjedz je równo.
+[20:09:42	][IC] RE RE REER ER: I caca.
+[20:09:56	]RE RE REER ER used command '/CharGetUp'.
+[20:10:00	]C17:CpT.VICTOR-01 used command '/PlyWhitelist re civil'.
+[20:10:09	]Mensu has unloaded their "RE RE REER ER" character.
+[20:10:25	][IC] C17:CpT.VICTOR-01: <:: Haha. ::>
+[20:10:33	][IC] C17:CpT.VICTOR-01: <:: Podnieś tą puszkę. ::>
+[20:10:40	][IC] C17:CpT.VICTOR-01: <:: Ty to przewróciłeś, ty to podnosisz! ::>
+[20:11:28	]C17:CpT.VICTOR-01 has spawned a musicradio_cmb.
+[20:11:29	]C17:CpT.VICTOR-01 ran 'Deploy' on item 'Radio Benefaktor' (#50844)
+[20:11:36	]Mensu loaded the character 'RE RE REER ER'
+[20:11:42	][IC] RE RE REER ER: Cooldawn.
+[20:11:43	][IC] RE RE REER ER: Tjest.
+[20:11:45	][IC] RE RE REER ER: Na postać.
+[20:11:46	][IC] RE RE REER ER: Całe te.
+[20:11:55	][IC] C17:CpT.VICTOR-01: <:: Jaki cooldown. ::>
+[20:12:03	][IC] RE RE REER ER: No że muszę odczekać 5 minut przed stworzeniem nowej postaci.
+[20:12:06	][IC] C17:CpT.VICTOR-01: <:: Lol. ::>
+[20:12:16	]C17:CpT.VICTOR-01 set charCreateInterval to '1'.
+[20:12:23	]C17:CpT.VICTOR-01 has spawned a musicradio_reb.
+[20:12:25	]C17:CpT.VICTOR-01 ran 'Deploy' on item 'Rebel Radio' (#50845)
+[20:12:40	]C17:CpT.VICTOR-01 ran SAM command 'setrank' with arguments: 're' 'superadmin'
+[20:12:45	]RE RE REER ER entered observer.
+[20:13:05	]RE RE REER ER exited observer.
+[20:13:10	][IC] RE RE REER ER: VC?
+[20:13:15	][IC] C17:CpT.VICTOR-01: <:: Okok. ::>
+[20:13:28	]C17:CpT.VICTOR-01 used command '/Amputate tf'.
+[20:13:47	]C17:CpT.VICTOR-01 has used a context menu option with the name: remove
+[20:13:54	]RE RE REER ER has taken 5 damage from wn_musicradio.
+[20:13:54	]RE RE REER ER has taken 5 damage from wn_musicradio.
+[20:14:01	]RE RE REER ER has taken 5 damage from wn_musicradio.
+[20:14:01	]RE RE REER ER has taken 5 damage from wn_musicradio.
+[20:14:05	]Mensu has unloaded their "RE RE REER ER" character.
+[20:14:15	]C17:CpT.VICTOR-01 entered observer.
+[20:14:16	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:14:20	]C17:CpT.VICTOR-01 entered observer.
+[20:14:22	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:14:23	]C17:CpT.VICTOR-01 entered observer.
+[20:14:24	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:14:26	]C17:CpT.VICTOR-01 entered observer.
+[20:14:29	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:14:41	]C17:CpT.VICTOR-01 entered observer.
+[20:14:44	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:14:45	]C17:CpT.VICTOR-01 entered observer.
+[20:15:12	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:15:29	]C17:CpT.VICTOR-01 entered observer.
+[20:15:35	]Mensu created the character 'C24:RCT.YELLO-60'
+[20:15:35	]Mensu has gained level 5 in the Broń palna skill.
+[20:15:35	]Mensu has gained level 10 in the Prędkość skill.
+[20:15:35	]Mensu loaded the character 'C24:RCT.YELLO-60'
+[20:15:35	]C24:RCT.YELLO-60 has gained a 'Karta identyfikacyjna #00131' #50846.
+[20:15:35	]C24:RCT.YELLO-60 has gained a 'PDA Kombinatu' #50847.
+[20:15:35	]C24:RCT.YELLO-60 has gained a 'Lightweight Functionary Uniform (City 8)' #50848.
+[20:15:35	]C24:RCT.YELLO-60 has gained a 'Maska przeciwgazowa PMG-5 (AUG)' #50849.
+[20:15:35	]C24:RCT.YELLO-60 has gained a 'Mała torba' #50850.
+[20:15:35	]C24:RCT.YELLO-60 has gained a 'Duża torba' #50851.
+[20:15:42	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:15:54	]C24:RCT.YELLO-60 ran 'combine' on item 'Mała torba' (#50850)
+[20:16:18	][IC] C17:CpT.VICTOR-01: <:: Wyidentyfikuj się. ::>
+[20:16:25	]C17:CpT.VICTOR-01 used command '/ID'.
+[20:16:29	]C24:RCT.YELLO-60 ran 'combine' on item 'Mała torba' (#50850)
+[20:16:55	]C24:RCT.YELLO-60 ran 'Equip' on item 'PDA Kombinatu' (#50847)
+[20:17:37	]C17:CpT.VICTOR-01 entered observer.
+[20:17:37	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:18:21	]C17:CpT.VICTOR-01 entered observer.
+[20:18:22	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:18:33	]C24:CpT.YELLO-60 entered observer.
+[20:19:00	]C17:CpT.VICTOR-01 entered observer.
+[20:19:00	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:19:02	]C17:CpT.VICTOR-01 entered observer.
+[20:19:06	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:19:08	]C17:CpT.VICTOR-01 entered observer.
+[20:19:08	]C24:CpT.YELLO-60 exited observer.
+[20:19:12	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:19:38	]C17:CpT.VICTOR-01 has used a context menu option with the name: remove
+[20:19:39	]C17:CpT.VICTOR-01 has used a context menu option with the name: remove
+[20:19:47	]C24:CpT.YELLO-60 entered observer.
+[20:19:48	]C24:CpT.YELLO-60 exited observer.
+[20:19:51	]C24:CpT.YELLO-60 entered observer.
+[20:20:00	]C24:CpT.YELLO-60 exited observer.
+[20:20:06	]C17:CpT.VICTOR-01 entered observer.
+[20:20:06	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:20:56	]C17:CpT.VICTOR-01 has spawned 'models/willardnetworks/hecu/male_07.mdl'.
+[20:21:06	]C17:CpT.VICTOR-01 has spawned 'models/wn7new/metropolice_rebel/male_03.mdl'.
+[20:21:07	]C17:CpT.VICTOR-01 has spawned 'models/wn7new/metropolice_c8/male_06.mdl'.
+[20:21:08	]C17:CpT.VICTOR-01 has spawned 'models/wn7new/metropolice/male_04.mdl'.
+[20:21:38	]C17:CpT.VICTOR-01 has spawned a cca_coat_overseer.
+[20:21:43	]C17:CpT.VICTOR-01 has spawned a cca_coat_overseer_armored.
+[20:21:46	]C24:CpT.YELLO-60 ran 'take' on item 'Overseer - opancerzony' (#50853)
+[20:21:46	]C24:CpT.YELLO-60 has gained a 'Overseer - opancerzony' #50853.
+[20:21:48	]C24:CpT.YELLO-60 ran 'take' on item 'Overseer' (#50852)
+[20:21:48	]C24:CpT.YELLO-60 has gained a 'Overseer' #50852.
+[20:21:51	]C17:CpT.VICTOR-01 entered observer.
+[20:21:52	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:21:53	]C17:CpT.VICTOR-01 has spawned a cca_legs_overseer.
+[20:22:05	]C17:CpT.VICTOR-01 has spawned a shoes_dress_shoes.
+[20:22:06	]C24:CpT.YELLO-60 ran 'combine' on item 'Mała torba' (#50850)
+[20:22:23	]C24:CpT.YELLO-60 ran 'take' on item 'Spodnie Overseera' (#50854)
+[20:22:23	]C24:CpT.YELLO-60 has gained a 'Spodnie Overseera' #50854.
+[20:22:24	]C24:CpT.YELLO-60 ran 'take' on item 'Eleganckie buty' (#50855)
+[20:22:24	]C24:CpT.YELLO-60 has gained a 'Eleganckie buty' #50855.
+[20:22:31	]C17:CpT.VICTOR-01 entered observer.
+[20:22:32	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:22:37	]C24:CpT.YELLO-60 ran 'combine' on item 'Mała torba' (#50850)
+[20:23:46	]C24:CpT.YELLO-60 entered observer.
+[20:23:46	]C24:CpT.YELLO-60 exited observer.
+[20:23:47	]C24:CpT.YELLO-60 entered observer.
+[20:23:48	]C24:CpT.YELLO-60 exited observer.
+[20:24:48	]C17:CpT.VICTOR-01 has spawned a uniform_cp_com.
+[20:24:51	]C17:CpT.VICTOR-01 ran 'take' on item 'Lekki mundur dowództwa' (#50856)
+[20:24:52	]C17:CpT.VICTOR-01 ran 'take' on item 'Lekki mundur dowództwa' (#50856)
+[20:24:55	]C17:CpT.VICTOR-01 ran 'take' on item 'Lekki mundur dowództwa' (#50856)
+[20:24:56	]C17:CpT.VICTOR-01 ran 'take' on item 'Lekki mundur dowództwa' (#50856)
+[20:24:57	]C24:CpT.YELLO-60 ran 'take' on item 'Lekki mundur dowództwa' (#50856)
+[20:24:57	]C17:CpT.VICTOR-01 ran 'take' on item 'Lekki mundur dowództwa' (#50856)
+[20:24:58	]C24:CpT.YELLO-60 ran 'take' on item 'Lekki mundur dowództwa' (#50856)
+[20:24:59	]C17:CpT.VICTOR-01 has given himself a uniform_cp_com.
+[20:24:59	]C17:CpT.VICTOR-01 has gained a 'Lekki mundur dowództwa' #50857.
+[20:25:15	]C24:CpT.YELLO-60 entered observer.
+[20:25:17	]C24:CpT.YELLO-60 exited observer.
+[20:25:17	]C24:CpT.YELLO-60 entered observer.
+[20:25:18	]C24:CpT.YELLO-60 exited observer.
+[20:25:29	]C17:CpT.VICTOR-01 ran 'take' on item 'Lekki mundur dowództwa' (#50856)
+[20:25:34	]C17:CpT.VICTOR-01 has used a context menu option with the name: remove
+[20:25:41	]C17:CpT.VICTOR-01 has spawned a uniform_ofc.
+[20:25:43	]C17:CpT.VICTOR-01 ran 'take' on item 'Mundur Kapitana CP' (#50858)
+[20:25:46	]C17:CpT.VICTOR-01 has used a context menu option with the name: remove
+[20:25:48	]C17:CpT.VICTOR-01 has given himself a uniform_ofc.
+[20:25:48	]C17:CpT.VICTOR-01 has gained a 'Mundur Kapitana CP' #50859.
+[20:25:50	]C17:CpT.VICTOR-01 ran 'combine' on item 'Mała torba' (#50833)
+[20:26:36	]C24:CpT.YELLO-60 has spawned 'models/wn7new/metropolice/male_04.mdl'.
+[20:26:36	]C17:CpT.VICTOR-01 has given himself a uniform_cp_riot.
+[20:26:36	]C17:CpT.VICTOR-01 has gained a 'Riot Functionary Uniform' #50860.
+[20:26:49	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:26:51	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:26:53	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:26:53	]C17:CpT.VICTOR-01 has given himself a uniform_com.
+[20:26:53	]C17:CpT.VICTOR-01 has gained a 'Średni mundur dowództwa' #50861.
+[20:26:56	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:26:59	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:27:08	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:27:16	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:27:20	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:27:26	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:27:41	]C24:CpT.YELLO-60 has spawned 'models/wn7new/metropolice_c8/female_01.mdl'.
+[20:27:46	]C24:CpT.YELLO-60 has spawned 'models/wn7new/metropolice_c8/female_03.mdl'.
+[20:27:47	]C24:CpT.YELLO-60 has spawned 'models/wn7new/metropolice_rebel/female_03.mdl'.
+[20:27:49	]C24:CpT.YELLO-60 has spawned 'models/wn7new/metropolice/male_02.mdl'.
+[20:27:49	]C17:CpT.VICTOR-01 used command '/PlyWhitelist ^ overwatch'.
+[20:27:51	]C24:CpT.YELLO-60 has spawned 'models/wn7new/metropolice_c8/male_07.mdl'.
+[20:27:53	]C17:CpT.VICTOR-01 used command '/PlyWhitelist ^ transhuman'.
+[20:27:53	]C24:CpT.YELLO-60 has spawned 'models/wn7new/metropolice/female_04.mdl'.
+[20:27:57	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:28:13	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:28:15	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:28:17	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:28:21	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:28:27	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:28:31	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:28:36	]inkaaz created the character 'S10/OWS.GHOST-30'
+[20:28:36	]C17:CpT.VICTOR-01 has gained level 40 in the Broń palna skill.
+[20:28:36	]C17:CpT.VICTOR-01 has gained level 40 in the Prędkość skill.
+[20:28:36	]inkaaz loaded the character 'S10/OWS.GHOST-30'
+[20:28:36	]S10/OWS.GHOST-30 has gained a 'Mała torba' #50862.
+[20:28:36	]S10/OWS.GHOST-30 has gained a 'Duża torba' #50863.
+[20:28:36	]S10/OWS.GHOST-30 has gained a 'Flashlight' #50864.
+[20:28:36	]S10/OWS.GHOST-30 has gained a 'PDA Kombinatu' #50865.
+[20:28:36	]S10/OWS.GHOST-30 has gained a 'Uniform OTA' #50866.
+[20:28:36	]S10/OWS.GHOST-30 has gained a 'Maska OTA' #50867.
+[20:28:36	]S10/OWS.GHOST-30 has gained a 'Sprzęt zjazdowy' #50868.
+[20:28:36	]S10/OWS.GHOST-30 has gained a 'Ładownica na magazynki' #50869.
+[20:28:36	]S10/OWS.GHOST-30 has gained a 'Ładownica na amunicję' #50870.
+[20:28:38	]S10/OWS.GHOST-30 entered observer.
+[20:28:39	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:28:39	]C24:CpT.YELLO-60 entered observer.
+[20:28:43	]S10/OWS.GHOST-30 exited observer at their location.
+[20:28:56	]C24:CpT.YELLO-60 exited observer.
+[20:28:58	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:29:09	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:29:20	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:29:24	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:29:27	]C24:CpT.YELLO-60 entered observer.
+[20:29:35	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:29:39	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:29:46	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:29:49	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:30:03	]C24:CpT.YELLO-60 exited observer.
+[20:30:10	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:30:15	]S10/OWS.GHOST-30 has given himself a uniform_ord.
+[20:30:15	]S10/OWS.GHOST-30 has gained a 'Uniform OTA - Ordinal' #50871.
+[20:30:17	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:30:25	]C24:CpT.YELLO-60 has spawned 'models/willardnetworks/citizens/female_01.mdl'.
+[20:30:30	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:30:31	]C24:CpT.YELLO-60 entered observer.
+[20:30:31	]C24:CpT.YELLO-60 exited observer.
+[20:30:32	][IC] S10/OWS.GHOST-30: <:: Copy, accepted. Updating cognitive suppression biodats. Update complete in T-Minus three seconds. Dissonance resolved. ::>
+[20:30:35	][IC] S10/OWS.GHOST-30: <:: Dfwagwa. ::>
+[20:30:39	][IC] S10/OWS.GHOST-30: <:: Chuj. ::>
+[20:30:42	][IC] C24:CpT.YELLO-60: <:: CHUJ. ::>
+[20:30:54	][IC] S10/OWS.GHOST-30: <:: Dwafwag. ::>
+[20:31:03	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:31:16	]C24:CpT.YELLO-60 has spawned 'models/willardnetworks/hecu/female_06.mdl'.
+[20:31:22	]S10/OWS.GHOST-30 entered observer.
+[20:31:24	]S10/OWS.GHOST-30 exited observer at their location.
+[20:31:24	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:31:40	]C24:CpT.YELLO-60 has spawned 'models/willardnetworks/conscripts/male_07.mdl'.
+[20:31:48	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:31:50	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:31:54	]C24:CpT.YELLO-60 has used a context menu option with the name: bodygroups
+[20:32:05	]C24:CpT.YELLO-60 entered observer.
+[20:32:06	]C24:CpT.YELLO-60 exited observer.
+[20:33:14	]S10/OWS.GHOST-30 has spawned a riotshield.
+[20:33:15	]S10/OWS.GHOST-30 ran 'take' on item 'Tarcza Balistyczna' (#50872)
+[20:33:15	]S10/OWS.GHOST-30 has gained a 'Tarcza Balistyczna' #50872.
+[20:33:21	]S10/OWS.GHOST-30 has spawned a riotshield.
+[20:33:22	]S10/OWS.GHOST-30 ran 'take' on item 'Tarcza Balistyczna' (#50873)
+[20:33:22	]S10/OWS.GHOST-30 has gained a 'Tarcza Balistyczna' #50873.
+[20:33:25	]S10/OWS.GHOST-30 has spawned a riotshield.
+[20:33:27	]C24:CpT.YELLO-60 has taken 5 damage from ix_item.
+[20:33:35	]S10/OWS.GHOST-30 ran 'take' on item 'Tarcza Balistyczna' (#50874)
+[20:33:35	]S10/OWS.GHOST-30 has gained a 'Tarcza Balistyczna' #50874.
+[20:33:46	]S10/OWS.GHOST-30 has spawned a riotshield.
+[20:34:00	]S10/OWS.GHOST-30 ran 'drop' on item 'Uniform OTA' (#50866)
+[20:34:00	]S10/OWS.GHOST-30 has lost a 'Uniform OTA' #50866.
+[20:34:02	]S10/OWS.GHOST-30 has used a context menu option with the name: remove
+[20:34:06	]S10/OWS.GHOST-30 ran 'take' on item 'Tarcza Balistyczna' (#50875)
+[20:34:06	]S10/OWS.GHOST-30 has gained a 'Tarcza Balistyczna' #50875.
+[20:34:08	]S10/OWS.GHOST-30 ran 'Equip' on item 'Tarcza Balistyczna' (#50875)
+[20:34:12	]S10/OWS.GHOST-30 ran 'Equip' on item 'Tarcza Balistyczna' (#50875)
+[20:34:13	]S10/OWS.GHOST-30 ran 'Equip' on item 'Tarcza Balistyczna' (#50875)
+[20:34:14	]S10/OWS.GHOST-30 ran 'Equip' on item 'Tarcza Balistyczna' (#50875)
+[20:34:15	]S10/OWS.GHOST-30 ran 'Equip' on item 'Tarcza Balistyczna' (#50875)
+[20:34:17	]S10/OWS.GHOST-30 ran 'Equip' on item 'Tarcza Balistyczna' (#50875)
+[20:34:19	]S10/OWS.GHOST-30 ran 'Equip' on item 'Tarcza Balistyczna' (#50875)
+[20:34:22	]S10/OWS.GHOST-30 ran 'Equip' on item 'Tarcza Balistyczna' (#50875)
+[20:34:23	]S10/OWS.GHOST-30 ran 'drop' on item 'Tarcza Balistyczna' (#50875)
+[20:34:23	]S10/OWS.GHOST-30 has lost a 'Tarcza Balistyczna' #50875.
+[20:34:32	]inkaaz loaded the character 'C17:CpT.VICTOR-01'
+[20:34:43	]C17:CpT.VICTOR-01 ran 'drop' on item 'Mundur Kapitana CP' (#50859)
+[20:34:43	]C17:CpT.VICTOR-01 has lost a 'Mundur Kapitana CP' #50859.
+[20:34:44	]C17:CpT.VICTOR-01 ran 'drop' on item 'Lightweight Functionary Uniform (City 8)' (#50831)
+[20:34:44	]C17:CpT.VICTOR-01 has lost a 'Lightweight Functionary Uniform (City 8)' #50831.
+[20:34:45	]C17:CpT.VICTOR-01 ran 'drop' on item 'Lekki mundur dowództwa' (#50857)
+[20:34:45	]C17:CpT.VICTOR-01 has lost a 'Lekki mundur dowództwa' #50857.
+[20:34:45	]C17:CpT.VICTOR-01 ran 'drop' on item 'Riot Functionary Uniform' (#50860)
+[20:34:45	]C17:CpT.VICTOR-01 has lost a 'Riot Functionary Uniform' #50860.
+[20:34:47	]C17:CpT.VICTOR-01 has used a context menu option with the name: remove
+[20:34:48	]C17:CpT.VICTOR-01 has used a context menu option with the name: remove
+[20:34:48	]C17:CpT.VICTOR-01 has used a context menu option with the name: remove
+[20:34:49	]C17:CpT.VICTOR-01 has used a context menu option with the name: remove
+[20:35:12	]C17:CpT.VICTOR-01 has used a context menu option with the name: remove
+[20:35:15	]C17:CpT.VICTOR-01 has given himself a riotshield.
+[20:35:15	]C17:CpT.VICTOR-01 has gained a 'Tarcza Balistyczna' #50876.
+[20:36:05	]C17:CpT.VICTOR-01 ran 'Equip' on item 'Tarcza Balistyczna' (#50876)
+[20:36:07	]C17:CpT.VICTOR-01 ran 'Equip' on item 'Tarcza Balistyczna' (#50876)
+[20:36:10	]C24:CpT.YELLO-60 entered observer.
+[20:36:11	]C17:CpT.VICTOR-01 ran 'EquipUn' on item 'CV-2000 Pałka Paralizująca' (#50843)
+[20:36:12	]C17:CpT.VICTOR-01 ran 'Equip' on item 'Tarcza Balistyczna' (#50876)
+[20:36:14	]C17:CpT.VICTOR-01 ran 'Equip' on item 'Tarcza Balistyczna' (#50876)
+[20:36:17	]C17:CpT.VICTOR-01 ran 'Equip' on item 'Tarcza Balistyczna' (#50876)
+[20:36:17	]C17:CpT.VICTOR-01 ran 'Equip' on item 'Tarcza Balistyczna' (#50876)
+[20:36:18	]C17:CpT.VICTOR-01 ran 'Equip' on item 'Tarcza Balistyczna' (#50876)
+[20:36:19	]C17:CpT.VICTOR-01 ran 'Equip' on item 'Tarcza Balistyczna' (#50876)
+[20:36:19	]C17:CpT.VICTOR-01 ran 'Equip' on item 'Tarcza Balistyczna' (#50876)
+[20:36:20	]C17:CpT.VICTOR-01 ran 'drop' on item 'Tarcza Balistyczna' (#50876)
+[20:36:20	]C17:CpT.VICTOR-01 has lost a 'Tarcza Balistyczna' #50876.
+[20:36:21	]C17:CpT.VICTOR-01 has used a context menu option with the name: remove
+[20:36:30	]C24:CpT.YELLO-60 exited observer at their location.
+[20:36:38	]C24:CpT.YELLO-60 entered observer.
+[20:36:39	]C24:CpT.YELLO-60 exited observer at their location.
+[20:37:04	]C24:CpT.YELLO-60 has spawned a mask_com.
+[20:37:05	]C24:CpT.YELLO-60 ran 'take' on item 'Zaawansowana maska przeciwgazowa PMG-5 (AUG)' (#50877)
+[20:37:05	]C24:CpT.YELLO-60 has gained a 'Zaawansowana maska przeciwgazowa PMG-5 (AUG)' #50877.
+[20:37:11	]C24:CpT.YELLO-60 has spawned a uniform_s24.
+[20:37:12	]C24:CpT.YELLO-60 ran 'take' on item 'Uniform Summit 24 Elite' (#50878)
+[20:37:15	]C24:CpT.YELLO-60 ran 'take' on item 'Uniform Summit 24 Elite' (#50878)
+[20:37:56	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[20:37:56	]C24:CpT.YELLO-60 has spawned a 'Weapon [403][weapon_vj_ak47]'.
+[20:37:56	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[20:37:56	]C24:CpT.YELLO-60 has spawned a 'Weapon [407][weapon_vj_ak47]'.
+[20:37:56	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[20:37:56	]C24:CpT.YELLO-60 has spawned a 'Weapon [408][weapon_vj_ak47]'.
+[20:38:06	]C17:CpT.VICTOR-01 entered observer.
+[20:38:08	]C24:CpT.YELLO-60 destroyed a 'Uniform Summit 24 Elite' #50878.
+[20:38:22	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:38:44	]C17:CpT.VICTOR-01 entered observer.
+[20:38:44	]C17:CpT.VICTOR-01 exited observer at their location.
+[20:38:49	]C24:CpT.YELLO-60 has hit C17:CpT.VICTOR-01 dealing 6 damage (CritChance was 0.00).
+[20:38:49	]C17:CpT.VICTOR-01 has taken 6 damage from C24:CpT.YELLO-60.
+[20:39:15	]inkaaz loaded the character 'wortygont'
+[20:39:19	]wortygont ran SAM command 'goto' with arguments: 'yello'
+[20:39:20	]wortygont is fully healed.
+[20:39:39	]wortygont used command '/UnlockShackles ^'.
+[20:40:28	]wortygont entered observer.
+[20:40:29	]wortygont exited observer at their location.
+[20:40:58	][VORT] wortygont has healed C24:CpT.YELLO-60
+[20:41:00	]C24:CpT.YELLO-60 is fully healed.
+[20:41:03	]C24:CpT.YELLO-60 has spawned a cmb_spas12.
+[20:41:17	]C24:CpT.YELLO-60 ran 'take' on item 'Spas-12' (#50879)
+[20:41:17	]C24:CpT.YELLO-60 has gained a 'Spas-12' #50879.
+[20:41:19	]C24:CpT.YELLO-60 ran 'Equip' on item 'Spas-12' (#50879)
+[20:41:27	]wortygont used command '/CharGiveFlag ^ *'.
+[20:41:29	]wortygont used command '/CharGiveFlag ^ q'.
+[20:41:43	][VORT] wortygont: chuj
+[20:41:48	]C24:CpT.YELLO-60 has spawned a xen_pie.
+[20:41:51	]C24:CpT.YELLO-60 ran 'take' on item 'Ciasto Xen' (#50880)
+[20:41:51	]C24:CpT.YELLO-60 has gained a 'Ciasto Xen' #50880.
+[20:42:21	]C24:CpT.YELLO-60 has spawned a magazine_shotgun.
+[20:42:23	]C24:CpT.YELLO-60 ran 'take' on item '8-nabojowy magazynek do Shotguna' (#50881)
+[20:42:23	]C24:CpT.YELLO-60 has gained a '8-nabojowy magazynek do Shotguna' #50881.
+[20:42:24	]C24:CpT.YELLO-60 has spawned a magazine_shotgun5.
+[20:42:25	]C24:CpT.YELLO-60 ran 'take' on item '5-nabojowy magazynek do Shotguna' (#50882)
+[20:42:25	]C24:CpT.YELLO-60 has gained a '5-nabojowy magazynek do Shotguna' #50882.
+[20:42:59	]C24:CpT.YELLO-60 has spawned a bullets_buckshot.
+[20:43:00	]C24:CpT.YELLO-60 ran 'take' on item 'Amunicja śrutowa do strzelb' (#50883)
+[20:43:00	]C24:CpT.YELLO-60 has gained a 'Amunicja śrutowa do strzelb' #50883.
+[20:43:02	]C24:CpT.YELLO-60 ran 'combine' on item '5-nabojowy magazynek do Shotguna' (#50882)
+[20:43:03	]C24:CpT.YELLO-60 ran 'combine' on item '8-nabojowy magazynek do Shotguna' (#50881)
+[20:43:06	]C24:CpT.YELLO-60 has lost a '8-nabojowy magazynek do Shotguna' #50881.
+[20:43:19	]C24:CpT.YELLO-60 has critically hit wortygont dealing 11 damage (CritChance was 0.60).
+[20:43:19	]wortygont has taken 11 damage from C24:CpT.YELLO-60.
+[20:43:19	]C24:CpT.YELLO-60 has hit wortygont dealing 9 damage (CritChance was 0.60).
+[20:43:19	]wortygont has taken 9 damage from C24:CpT.YELLO-60.
+[20:43:19	]C24:CpT.YELLO-60 has critically hit wortygont dealing 11 damage (CritChance was 0.60).
+[20:43:19	]wortygont has taken 11 damage from C24:CpT.YELLO-60.
+[20:43:19	]C24:CpT.YELLO-60 has critically hit wortygont dealing 11 damage (CritChance was 0.60).
+[20:43:19	]wortygont has taken 11 damage from C24:CpT.YELLO-60.
+[20:43:19	]C24:CpT.YELLO-60 has critically hit wortygont dealing 11 damage (CritChance was 0.60).
+[20:43:19	]wortygont has taken 11 damage from C24:CpT.YELLO-60.
+[20:43:19	]C24:CpT.YELLO-60 has critically hit wortygont dealing 11 damage (CritChance was 0.60).
+[20:43:19	]wortygont has taken 11 damage from C24:CpT.YELLO-60.
+[20:43:19	]C24:CpT.YELLO-60 has critically hit wortygont dealing 11 damage (CritChance was 0.60).
+[20:43:19	]wortygont has taken 11 damage from C24:CpT.YELLO-60.
+[20:43:19	]C24:CpT.YELLO-60 has critically hit wortygont dealing 11 damage (CritChance was 0.60).
+[20:43:19	]wortygont has taken 11 damage from C24:CpT.YELLO-60.
+[20:43:32	]C24:CpT.YELLO-60 has critically hit wortygont dealing 11 damage (CritChance was 0.60).
+[20:43:32	]wortygont has taken 11 damage from C24:CpT.YELLO-60.
+[20:43:32	]C24:CpT.YELLO-60 has critically hit wortygont dealing 11 damage (CritChance was 0.60).
+[20:43:32	]wortygont has taken 11 damage from C24:CpT.YELLO-60.
+[20:43:32	]C24:CpT.YELLO-60 has critically hit wortygont dealing 11 damage (CritChance was 0.60).
+[20:43:32	]wortygont has taken 11 damage from C24:CpT.YELLO-60.
+[20:43:32	]C24:CpT.YELLO-60 has hit wortygont dealing 9 damage (CritChance was 0.60).
+[20:43:32	]wortygont has taken 9 damage from C24:CpT.YELLO-60.
+[20:43:32	]C24:CpT.YELLO-60 has hit wortygont dealing 9 damage (CritChance was 0.60).
+[20:43:32	]wortygont has taken 9 damage from C24:CpT.YELLO-60.
+[20:43:32	]C24:CpT.YELLO-60 has critically hit wortygont dealing 11 damage (CritChance was 0.60).
+[20:43:32	]wortygont has taken 11 damage from C24:CpT.YELLO-60.
+[20:43:32	]C24:CpT.YELLO-60 has hit wortygont dealing 9 damage (CritChance was 0.60).
+[20:43:32	]wortygont has taken 9 damage from C24:CpT.YELLO-60.
+[20:43:32	]C24:CpT.YELLO-60 has hit wortygont dealing 9 damage (CritChance was 0.60).
+[20:43:32	]wortygont has taken 9 damage from C24:CpT.YELLO-60.
+[20:43:34	]C24:CpT.YELLO-60 has critically hit wortygont dealing 11 damage (CritChance was 0.60).
+[20:43:34	]wortygont has taken 11 damage from C24:CpT.YELLO-60.
+[20:43:34	]C24:CpT.YELLO-60 has critically hit wortygont dealing 11 damage (CritChance was 0.60).
+[20:43:34	]wortygont has taken 11 damage from C24:CpT.YELLO-60.
+[20:43:34	]C24:CpT.YELLO-60 has critically hit wortygont dealing 11 damage (CritChance was 0.60).
+[20:43:34	]wortygont has taken 11 damage from C24:CpT.YELLO-60.
+[20:43:34	]C24:CpT.YELLO-60 has critically hit wortygont dealing 11 damage (CritChance was 0.60).
+[20:43:34	]wortygont was knocked unconscious and is bleeding out.
+[20:43:59	]wortygont has dropped: Fedora dla Vortigaunta (#50825); Sweter dla Vortigaunta (#50827);
+[20:43:59	]wortygont was just killed due to: accepting their death
+[20:44:02	]wortygont entered observer.
+[20:44:08	]wortygont exited observer at their location.
+[20:44:12	]wortygont is admin-searching C24:CpT.YELLO-60's inventory.
+[20:44:12	]wortygont has used a context menu option with the name: ixviewinventory
+[20:44:25	]wortygont has closed C24:CpT.YELLO-60's inventory.
+[20:44:28	]C24:CpT.YELLO-60 ran 'removeMag' on item 'Spas-12' (#50879)
+[20:44:28	]C24:CpT.YELLO-60 is removing a mag while reloading: Item ID: #(50879) Ammo: 0
+[20:44:28	]C24:CpT.YELLO-60 has gained a '8-nabojowy magazynek do Shotguna' #50881.
+[20:44:30	]C24:CpT.YELLO-60 ran 'combine' on item '8-nabojowy magazynek do Shotguna' (#50881)
+[20:44:31	]wortygont entered observer.
+[20:44:32	]wortygont exited observer at their location.
+[20:44:37	]C24:CpT.YELLO-60 has lost a '8-nabojowy magazynek do Shotguna' #50881.
+[20:44:54	]C24:CpT.YELLO-60 entered observer.
+[20:44:58	]C24:CpT.YELLO-60 exited observer at their location.
+[20:45:07	]wortygont has hit C24:CpT.YELLO-60 dealing 36 damage (CritChance was 0.00).
+[20:45:07	]C24:CpT.YELLO-60 has taken 36 damage from wortygont.
+[20:45:07	][VORT] wortygont has damaged C24:CpT.YELLO-60 dealing 40 with vortslam
+[20:45:11	]C24:CpT.YELLO-60 entered observer.
+[20:45:15	]C24:CpT.YELLO-60 exited observer at their location.
+[20:45:18	]C24:CpT.YELLO-60 entered observer.
+[20:45:41	]C24:CpT.YELLO-60 exited observer at their location.
+[20:45:56	]wortygont entered observer.
+[20:45:58	]wortygont exited observer at their location.
+[20:46:00	]C24:CpT.YELLO-60 has critically hit wortygont dealing 11 damage (CritChance was 0.60).
+[20:46:00	]wortygont has taken 11 damage from C24:CpT.YELLO-60.
+[20:46:01	]C24:CpT.YELLO-60 has critically hit wortygont dealing 11 damage (CritChance was 0.60).
+[20:46:01	]wortygont has taken 11 damage from C24:CpT.YELLO-60.
+[20:46:02	]C24:CpT.YELLO-60 has hit wortygont dealing 9 damage (CritChance was 0.60).
+[20:46:02	]wortygont has taken 9 damage from C24:CpT.YELLO-60.
+[20:46:02	]C24:CpT.YELLO-60 has critically hit wortygont dealing 11 damage (CritChance was 0.60).
+[20:46:02	]wortygont has taken 11 damage from C24:CpT.YELLO-60.
+[20:46:03	]C24:CpT.YELLO-60 entered observer.
+[20:46:05	]C24:CpT.YELLO-60 exited observer at their location.
+[20:46:18	]C24:CpT.YELLO-60 ran 'removeMag' on item 'Spas-12' (#50879)
+[20:46:18	]C24:CpT.YELLO-60 is removing a mag while reloading: Item ID: #(50879) Ammo: 0
+[20:46:18	]C24:CpT.YELLO-60 has gained a '8-nabojowy magazynek do Shotguna' #50881.
+[20:46:20	]C24:CpT.YELLO-60 ran 'combine' on item '8-nabojowy magazynek do Shotguna' (#50881)
+[20:46:22	]C24:CpT.YELLO-60 has lost a '8-nabojowy magazynek do Shotguna' #50881.
+[20:46:23	]C24:CpT.YELLO-60 entered observer.
+[20:46:27	]wortygont entered observer.
+[20:46:30	]C24:CpT.YELLO-60 exited observer at their location.
+[20:46:30	]wortygont exited observer at their location.
+[20:46:30	]C24:CpT.YELLO-60 entered observer.
+[20:46:31	]C24:CpT.YELLO-60 exited observer at their location.
+[20:46:32	]C24:CpT.YELLO-60 entered observer.
+[20:46:39	]wortygont entered observer.
+[20:46:40	]wortygont exited observer at their location.
+[20:46:41	]C24:CpT.YELLO-60 exited observer at their location.
+[20:46:57	]C24:CpT.YELLO-60 entered observer.
+[20:46:57	]C24:CpT.YELLO-60 exited observer at their location.
+[20:46:58	]C24:CpT.YELLO-60 entered observer.
+[20:47:00	]C24:CpT.YELLO-60 exited observer at their location.
+[20:47:07	]C24:CpT.YELLO-60 has hit wortygont dealing 9 damage (CritChance was 0.60).
+[20:47:07	]wortygont has taken 9 damage from C24:CpT.YELLO-60.
+[20:47:07	]C24:CpT.YELLO-60 has hit wortygont dealing 9 damage (CritChance was 0.60).
+[20:47:07	]wortygont has taken 9 damage from C24:CpT.YELLO-60.
+[20:47:07	]C24:CpT.YELLO-60 has hit wortygont dealing 9 damage (CritChance was 0.60).
+[20:47:07	]wortygont has taken 9 damage from C24:CpT.YELLO-60.
+[20:47:07	]C24:CpT.YELLO-60 has critically hit wortygont dealing 11 damage (CritChance was 0.60).
+[20:47:07	]wortygont has taken 11 damage from C24:CpT.YELLO-60.
+[20:47:07	]C24:CpT.YELLO-60 has critically hit wortygont dealing 11 damage (CritChance was 0.60).
+[20:47:07	]wortygont has taken 11 damage from C24:CpT.YELLO-60.
+[20:47:20	]wortygont entered observer.
+[20:47:23	]wortygont exited observer at their location.
+[20:47:35	]C24:CpT.YELLO-60 entered observer.
+[20:47:50	]C24:CpT.YELLO-60 exited observer at their location.
+[20:47:51	]wortygont entered observer.
+[20:47:51	]C24:CpT.YELLO-60 entered observer.
+[20:47:51	]wortygont exited observer at their location.
+[20:47:55	]C24:CpT.YELLO-60 exited observer at their location.
+[20:47:56	]C24:CpT.YELLO-60 entered observer.
+[20:47:56	]C24:CpT.YELLO-60 exited observer at their location.
+[20:47:57	]C24:CpT.YELLO-60 entered observer.
+[20:48:06	]C24:CpT.YELLO-60 exited observer at their location.
+[20:48:06	]C24:CpT.YELLO-60 entered observer.
+[20:48:21	]C24:CpT.YELLO-60 exited observer at their location.
+[20:48:24	]wortygont ran SAM command 'hp' with arguments: '^' '100'
+[20:48:29	]C24:CpT.YELLO-60 entered observer.
+[20:48:32	]C24:CpT.YELLO-60 exited observer at their location.
+[20:49:42	][IC] wortygont: Jebać cepe.
+[20:49:48	][IC] wortygont: Hdwp.
+[20:49:50	][IC] wortygont: Jp.
+[20:49:54	][IC] wortygont: Jcp.
+[20:50:02	]wortygont has hit C24:CpT.YELLO-60 dealing 7 damage (CritChance was 0.00).
+[20:50:02	]C24:CpT.YELLO-60 has taken 7 damage from wortygont.
+[20:50:02	]wortygont has damaged C24:CpT.YELLO-60, dealing 8.5 with ix_hands
+[20:50:18	]wortygont has spawned a 'NPC [408][npc_vj_hla_hcrab]'.
+[20:50:27	]wortygont has spawned a 'NPC [408][npc_vj_hla_ocrab]'.
+[20:50:30	]wortygont has taken 20 damage from April 2020 Headcrab.
+[20:50:41	]wortygont has spawned a 'NPC [408][npc_vj_hla_fcrab]'.
+[20:50:52	]wortygont has spawned a 'NPC [408][npc_vj_hla_zombiearmored]'.
+[20:50:56	]wortygont has spawned a 'NPC [443][npc_vj_hla_zombieclassic]'.
+[20:51:02	]wortygont has spawned a 'NPC [408][npc_vj_hla_antlion]'.
+[20:51:09	]wortygont has taken 13 damage from Antlion.
+[20:51:11	]wortygont has spawned a 'NPC [442][npc_vj_hla_antlion_spitter]'.
+[20:51:20	]wortygont has taken 15 damage from Antlion Spitter.
+[20:51:24	]wortygont has spawned a 'NPC [408][npc_vj_hla_jellyb]'.
+[20:51:50	]wortygont has spawned a 'Entity [408][gmod_sent_vehicle_fphysics_base]'.
+[20:55:05	]C24:CpT.YELLO-60 has gone afk.
+[20:55:30	]C24:CpT.YELLO-60 is no longer afk. Total time spent AFK: 320
+[20:55:33	]wortygont ran SAM command 'hp' with arguments: '^' '100'
+[20:55:39	]wortygont has used a context menu option with the name: remove
+[20:56:53	]C24:CpT.YELLO-60 entered observer.
+[20:56:53	]wortygont entered observer.
+[20:56:54	]wortygont exited observer at their location.
+[20:56:54	]C24:CpT.YELLO-60 exited observer at their location.
+[20:56:57	]wortygont entered observer.
+[20:56:58	]C24:CpT.YELLO-60 entered observer.
+[20:56:59	]wortygont exited observer at their location.
+[20:57:00	]wortygont entered observer.
+[20:57:00	]wortygont exited observer at their location.
+[20:57:01	]wortygont entered observer.
+[20:57:02	]wortygont exited observer at their location.
+[20:57:02	]wortygont entered observer.
+[20:57:03	]C24:CpT.YELLO-60 exited observer at their location.
+[20:57:05	]C24:CpT.YELLO-60 entered observer.
+[20:57:05	]C24:CpT.YELLO-60 exited observer at their location.
+[20:57:06	]C24:CpT.YELLO-60 entered observer.
+[20:57:07	]C24:CpT.YELLO-60 exited observer at their location.
+[20:57:35	]C24:CpT.YELLO-60 has spawned a bird_nest.
+[20:57:37	]wortygont exited observer at their location.
+[20:57:38	]C24:CpT.YELLO-60 ran 'take' on item 'Bird Nest' (#50884)
+[20:57:38	]C24:CpT.YELLO-60 has gained a 'Bird Nest' #50884.
+[20:57:42	]C24:CpT.YELLO-60 ran 'Place' on item 'Bird Nest' (#50884)
+[20:58:17	]wortygont entered observer.
+[20:58:30	]C24:CpT.YELLO-60 entered observer.
+[20:59:07	]C24:CpT.YELLO-60 exited observer at their location.
+[20:59:07	]C24:CpT.YELLO-60 entered observer.
+[20:59:08	]C24:CpT.YELLO-60 exited observer at their location.
+[20:59:08	]C24:CpT.YELLO-60 entered observer.
+[20:59:09	]C24:CpT.YELLO-60 exited observer at their location.
+[20:59:09	]C24:CpT.YELLO-60 entered observer.
+[20:59:11	]C24:CpT.YELLO-60 exited observer at their location.
+[20:59:12	]C24:CpT.YELLO-60 entered observer.
+[20:59:12	]C24:CpT.YELLO-60 exited observer at their location.
+[20:59:12	]C24:CpT.YELLO-60 entered observer.
+[20:59:13	]C24:CpT.YELLO-60 exited observer at their location.
+[20:59:15	]C24:CpT.YELLO-60 entered observer.
+[20:59:16	]C24:CpT.YELLO-60 exited observer at their location.
+[20:59:17	]C24:CpT.YELLO-60 entered observer.
+[20:59:17	]C24:CpT.YELLO-60 exited observer at their location.
+[20:59:18	]C24:CpT.YELLO-60 entered observer.
+[20:59:19	]C24:CpT.YELLO-60 exited observer at their location.
+[20:59:19	]C24:CpT.YELLO-60 entered observer.
+[20:59:19	]C24:CpT.YELLO-60 exited observer at their location.
+[20:59:20	]C24:CpT.YELLO-60 entered observer.
+[20:59:22	]C24:CpT.YELLO-60 exited observer at their location.
+[20:59:24	]wortygont exited observer at their location.
+[20:59:26	]C24:CpT.YELLO-60 entered observer.
+[20:59:26	]C24:CpT.YELLO-60 exited observer at their location.
+[20:59:27	]C24:CpT.YELLO-60 entered observer.
+[20:59:32	]wortygont entered observer.
+[20:59:48	]wortygont exited observer at their location.
+[20:59:56	]C24:CpT.YELLO-60 exited observer at their location.
+[20:59:57	]inkaaz loaded the character 'C17:CpT.VICTOR-01'
+[21:00:05	][IC] C17:CpT.VICTOR-01: <:: . ::>
+[21:00:23	]C24:i5.Victor-01 used command '/CharSetName ^ C24:i5.Victor-01'.
+[21:00:29	]C24:i5.Victor-01 entered observer.
+[21:00:33	]C24:i5.Victor-01 exited observer at their location.
+[21:00:52	]C24:CpT.YELLO-60 entered observer.
+[21:00:53	]C24:CpT.YELLO-60 exited observer at their location.
+[21:00:54	]C24:CpT.YELLO-60 entered observer.
+[21:00:55	]C24:CpT.YELLO-60 exited observer at their location.
+[21:00:56	]C24:CpT.YELLO-60 entered observer.
+[21:00:56	]C24:CpT.YELLO-60 exited observer at their location.
+[21:00:57	]C24:CpT.YELLO-60 entered observer.
+[21:00:57	]C24:CpT.YELLO-60 exited observer at their location.
+[21:01:07	]C24:CpT.YELLO-60 entered observer.
+[21:01:08	]C24:CpT.YELLO-60 exited observer at their location.
+[21:01:08	]C24:CpT.YELLO-60 entered observer.
+[21:01:09	]C24:CpT.YELLO-60 exited observer at their location.
+[21:01:10	]C24:CpT.YELLO-60 entered observer.
+[21:01:10	]C24:i5.Victor-01 entered observer.
+[21:01:12	]C24:CpT.YELLO-60 exited observer at their location.
+[21:01:12	]C24:CpT.YELLO-60 entered observer.
+[21:01:26	]C24:CpT.YELLO-60 exited observer at their location.
+[21:01:27	]C24:CpT.YELLO-60 entered observer.
+[21:01:29	]C24:CpT.YELLO-60 exited observer at their location.
+[21:01:30	]C24:CpT.YELLO-60 entered observer.
+[21:01:31	]C24:CpT.YELLO-60 exited observer at their location.
+[21:01:32	]C24:CpT.YELLO-60 entered observer.
+[21:01:32	]C24:CpT.YELLO-60 exited observer at their location.
+[21:01:32	]C24:CpT.YELLO-60 entered observer.
+[21:01:33	]C24:CpT.YELLO-60 exited observer at their location.
+[21:01:33	]C24:CpT.YELLO-60 entered observer.
+[21:01:33	]C24:CpT.YELLO-60 exited observer at their location.
+[21:01:33	]C24:CpT.YELLO-60 entered observer.
+[21:01:33	]C24:CpT.YELLO-60 exited observer at their location.
+[21:01:35	]C24:CpT.YELLO-60 entered observer.
+[21:01:36	]C24:CpT.YELLO-60 exited observer at their location.
+[21:01:37	]C24:CpT.YELLO-60 entered observer.
+[21:01:37	]C24:CpT.YELLO-60 exited observer at their location.
+[21:01:38	]C24:CpT.YELLO-60 entered observer.
+[21:01:40	]C24:CpT.YELLO-60 exited observer at their location.
+[21:01:40	]C24:CpT.YELLO-60 entered observer.
+[21:01:41	]C24:CpT.YELLO-60 exited observer at their location.
+[21:01:42	]C24:CpT.YELLO-60 entered observer.
+[21:01:49	]C24:i5.Victor-01 exited observer at their location.
+[21:01:52	]C24:CpT.YELLO-60 exited observer at their location.
+[21:01:57	]C24:CpT.YELLO-60 entered observer.
+[21:01:57	]C24:CpT.YELLO-60 exited observer at their location.
+[21:01:59	]C24:i5.Victor-01 entered observer.
+[21:02:00	]C24:i5.Victor-01 exited observer at their location.
+[21:02:02	]inkaaz (STEAM_0:0:50287200) has disconnected.
+[21:02:52	]C24:CpT.YELLO-60 entered observer.
+[21:02:52	]C24:CpT.YELLO-60 exited observer at their location.
+[21:02:53	]C24:CpT.YELLO-60 entered observer.
+[21:02:54	]C24:CpT.YELLO-60 exited observer at their location.
+[21:02:55	]C24:CpT.YELLO-60 entered observer.
+[21:02:55	]C24:CpT.YELLO-60 exited observer at their location.
+[21:02:55	]C24:CpT.YELLO-60 entered observer.
+[21:02:56	]C24:CpT.YELLO-60 exited observer at their location.
+[21:02:57	]C24:CpT.YELLO-60 entered observer.
+[21:02:58	]C24:CpT.YELLO-60 exited observer at their location.
+[21:02:58	]C24:CpT.YELLO-60 entered observer.
+[21:02:59	]C24:CpT.YELLO-60 exited observer at their location.
+[21:03:00	]C24:CpT.YELLO-60 entered observer.
+[21:03:00	]C24:CpT.YELLO-60 exited observer at their location.
+[21:03:01	]C24:CpT.YELLO-60 entered observer.
+[21:03:02	]C24:CpT.YELLO-60 exited observer at their location.
+[21:04:13	]C24:CpT.YELLO-60 entered observer.
+[21:04:22	]C24:CpT.YELLO-60 exited observer at their location.
+[21:04:22	]C24:CpT.YELLO-60 entered observer.
+[21:04:22	]C24:CpT.YELLO-60 exited observer at their location.
+[21:04:23	]C24:CpT.YELLO-60 entered observer.
+[21:04:30	]C24:CpT.YELLO-60 exited observer at their location.
+[21:04:38	]Mensu has unloaded their "C24:CpT.YELLO-60" character.
+[21:05:10	]Mensu loaded the character 'C24:CpT.YELLO-60'
+[21:05:12	]C24:CpT.YELLO-60 entered observer.
+[21:05:13	]C24:CpT.YELLO-60 exited observer at their location.
+[21:05:13	]C24:CpT.YELLO-60 entered observer.
+[21:05:15	]C24:CpT.YELLO-60 exited observer at their location.
+[21:06:21	]C24:CpT.YELLO-60 entered observer.
+[21:06:27	]C24:CpT.YELLO-60 exited observer at their location.
+[21:08:44	]C24:CpT.YELLO-60 used command '/PTCreate'.
+[21:08:46	]C24:CpT.YELLO-60 used command '/PTCreate 1'.
+[21:09:05	]C24:CpT.YELLO-60 wyrzucił(a) 12 z 20 (+0 from Zręczność).
+[21:09:05	]C24:CpT.YELLO-60 used command '/Roll agility'.
+[21:09:40	]C24:CpT.YELLO-60 has spawned a cmb_spikewall.
+[21:09:47	]C24:CpT.YELLO-60 ran 'drop' on item 'Spas-12' (#50879)
+[21:09:47	]C24:CpT.YELLO-60 has lost a 'Spas-12' #50879.
+[21:09:48	]C24:CpT.YELLO-60 ran 'take' on item 'Ciężka Strzelba Overwatch' (#50885)
+[21:09:48	]C24:CpT.YELLO-60 has gained a 'Ciężka Strzelba Overwatch' #50885.
+[21:09:50	]C24:CpT.YELLO-60 ran 'Equip' on item 'Ciężka Strzelba Overwatch' (#50885)
+[21:10:09	]C24:CpT.YELLO-60 ran 'drop' on item 'Maska przeciwgazowa PMG-5 (AUG)' (#50849)
+[21:10:09	]C24:CpT.YELLO-60 has lost a 'Maska przeciwgazowa PMG-5 (AUG)' #50849.
+[21:10:10	]C24:CpT.YELLO-60 ran 'drop' on item 'Mała torba' (#50850)
+[21:10:10	]C24:CpT.YELLO-60 has lost a 'Mała torba' #50850.
+[21:10:11	]C24:CpT.YELLO-60 ran 'drop' on item '5-nabojowy magazynek do Shotguna' (#50882)
+[21:10:11	]C24:CpT.YELLO-60 has lost a '5-nabojowy magazynek do Shotguna' #50882.
+[21:10:12	]C24:CpT.YELLO-60 ran 'drop' on item 'Bird Nest' (#50884)
+[21:10:12	]C24:CpT.YELLO-60 has lost a 'Bird Nest' #50884.
+[21:10:12	]C24:CpT.YELLO-60 ran 'drop' on item 'Ciasto Xen' (#50880)
+[21:10:12	]C24:CpT.YELLO-60 has lost a 'Ciasto Xen' #50880.
+[21:12:03	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:03	]C24:CpT.YELLO-60 has spawned a 'Entity [439][arccw_ammo_buckshot_large]'.
+[21:12:04	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:04	]C24:CpT.YELLO-60 has spawned a 'Entity [440][arccw_ammo_buckshot_large]'.
+[21:12:04	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:04	]C24:CpT.YELLO-60 has spawned a 'Entity [441][arccw_ammo_buckshot_large]'.
+[21:12:04	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:04	]C24:CpT.YELLO-60 has spawned a 'Entity [436][arccw_ammo_buckshot_large]'.
+[21:12:04	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:04	]C24:CpT.YELLO-60 has spawned a 'Entity [442][arccw_ammo_buckshot_large]'.
+[21:12:06	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:06	]C24:CpT.YELLO-60 has spawned a 'Entity [436][arccw_ammo_sniper_large]'.
+[21:12:06	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:06	]C24:CpT.YELLO-60 has spawned a 'Entity [439][arccw_ammo_sniper_large]'.
+[21:12:06	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:06	]C24:CpT.YELLO-60 has spawned a 'Entity [440][arccw_ammo_sniper_large]'.
+[21:12:07	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:07	]C24:CpT.YELLO-60 has spawned a 'Entity [441][arccw_ammo_sniper_large]'.
+[21:12:08	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:08	]C24:CpT.YELLO-60 has spawned a 'Entity [436][arccw_ammo_pistol_large]'.
+[21:12:08	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:08	]C24:CpT.YELLO-60 has spawned a 'Entity [439][arccw_ammo_pistol_large]'.
+[21:12:09	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:09	]C24:CpT.YELLO-60 has spawned a 'Entity [440][arccw_ammo_pistol_large]'.
+[21:12:10	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:10	]C24:CpT.YELLO-60 has spawned a 'Entity [436][arccw_ammo_plinking_large]'.
+[21:12:10	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:10	]C24:CpT.YELLO-60 has spawned a 'Entity [439][arccw_ammo_plinking_large]'.
+[21:12:10	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:10	]C24:CpT.YELLO-60 has spawned a 'Entity [440][arccw_ammo_plinking_large]'.
+[21:12:12	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:12	]C24:CpT.YELLO-60 has spawned a 'Entity [436][arccw_ammo_smg1_grenade_large]'.
+[21:12:12	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:12	]C24:CpT.YELLO-60 has spawned a 'Entity [439][arccw_ammo_smg1_grenade_large]'.
+[21:12:12	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:12	]C24:CpT.YELLO-60 has spawned a 'Entity [440][arccw_ammo_smg1_grenade_large]'.
+[21:12:14	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:14	]C24:CpT.YELLO-60 has spawned a 'Entity [436][arccw_ammo_ar2_large]'.
+[21:12:14	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:14	]C24:CpT.YELLO-60 has spawned a 'Entity [439][arccw_ammo_ar2_large]'.
+[21:12:14	]C24:CpT.YELLO-60 has fired a toolgun with the name: creator
+[21:12:14	]C24:CpT.YELLO-60 has spawned a 'Entity [440][arccw_ammo_ar2_large]'.
+[21:12:30	]C24:CpT.YELLO-60 has spawned a magazine_pulse100.
+[21:12:32	]C24:CpT.YELLO-60 ran 'take' on item '150-nabojowy magazynek do Suppresora' (#50886)
+[21:12:32	]C24:CpT.YELLO-60 has gained a '150-nabojowy magazynek do Suppresora' #50886.
+[21:12:41	]C24:CpT.YELLO-60 has spawned a magazine_heavypulse.
+[21:12:42	]C24:CpT.YELLO-60 ran 'take' on item '24-nabojowy magazynek do Hammera' (#50887)
+[21:12:42	]C24:CpT.YELLO-60 has gained a '24-nabojowy magazynek do Hammera' #50887.
+[21:13:00	]C24:CpT.YELLO-60 has spawned a ar2ammo.
+[21:13:01	]C24:CpT.YELLO-60 ran 'take' on item 'Pulse-Rifle Energy' (#50888)
+[21:13:01	]C24:CpT.YELLO-60 has gained a 'Pulse-Rifle Energy' #50888.
+[21:13:03	]C24:CpT.YELLO-60 has spawned a ar2ammo.
+[21:13:06	]C24:CpT.YELLO-60 ran 'take' on item 'Pulse-Rifle Energy' (#50889)
+[21:13:06	]C24:CpT.YELLO-60 has gained a 'Pulse-Rifle Energy' #50889.
+[21:13:07	]C24:CpT.YELLO-60 has spawned a shotgunammo.
+[21:13:08	]C24:CpT.YELLO-60 ran 'take' on item 'Shotgun Shells' (#50890)
+[21:13:08	]C24:CpT.YELLO-60 has gained a 'Shotgun Shells' #50890.
+[21:13:51	]C24:CpT.YELLO-60 has spawned a magazine_pulse30.
+[21:13:52	]C24:CpT.YELLO-60 ran 'take' on item '30-nabojowy magazynek do broni Pulsacyjnej' (#50891)
+[21:13:52	]C24:CpT.YELLO-60 has gained a '30-nabojowy magazynek do broni Pulsacyjnej' #50891.
+[21:14:30	]C24:CpT.YELLO-60 has spawned a cmb_spas12.
+[21:14:32	]C24:CpT.YELLO-60 ran 'drop' on item 'Ciężka Strzelba Overwatch' (#50885)
+[21:14:32	]C24:CpT.YELLO-60 has lost a 'Ciężka Strzelba Overwatch' #50885.
+[21:14:35	]C24:CpT.YELLO-60 ran 'take' on item 'Spas-12' (#50892)
+[21:14:35	]C24:CpT.YELLO-60 has gained a 'Spas-12' #50892.
+[21:14:38	]C24:CpT.YELLO-60 ran 'Equip' on item 'Spas-12' (#50892)
+[21:14:49	]C24:CpT.YELLO-60 has spawned a magazine_shotgun.
+[21:14:50	]C24:CpT.YELLO-60 ran 'take' on item '8-nabojowy magazynek do Shotguna' (#50893)
+[21:14:50	]C24:CpT.YELLO-60 has gained a '8-nabojowy magazynek do Shotguna' #50893.
+[21:14:51	]C24:CpT.YELLO-60 has spawned a magazine_shotgun.
+[21:14:52	]C24:CpT.YELLO-60 ran 'take' on item '8-nabojowy magazynek do Shotguna' (#50894)
+[21:14:52	]C24:CpT.YELLO-60 has gained a '8-nabojowy magazynek do Shotguna' #50894.
+[21:14:53	]C24:CpT.YELLO-60 has spawned a magazine_shotgun.
+[21:14:53	]C24:CpT.YELLO-60 ran 'take' on item '8-nabojowy magazynek do Shotguna' (#50895)
+[21:14:53	]C24:CpT.YELLO-60 has gained a '8-nabojowy magazynek do Shotguna' #50895.
+[21:15:25	]C24:CpT.YELLO-60 has dropped: Zaawansowana maska przeciwgazowa PMG-5 (AUG) (#50877); 8-nabojowy magazynek do Shotguna (#50895); Lightweight Functionary Uniform (City 8) (#50848); Overseer (#50852); 150-nabojowy magazynek do Suppresora (#50886); Eleganckie buty (#50855); 8-nabojowy magazynek do Shotguna (#50894); Pulse-Rifle Energy (#50888); Pulse-Rifle Energy (#50889); Spodnie Overseera (#50854); Shotgun Shells (#50890); 8-nabojowy magazynek do Shotguna (#50893); 30-nabojowy magazynek do broni Pulsacyjnej (#50891); 24-nabojowy magazynek do Hammera (#50887); Spas-12 (#50892);
+[21:15:25	]C24:CpT.YELLO-60 ran SAM command 'slay' with arguments: 'yello'
+[21:15:32	]C24:CpT.YELLO-60 entered observer.
+[21:15:37	]C24:CpT.YELLO-60 exited observer at their location.
+[21:15:41	]C24:CpT.YELLO-60 ran 'take' on item 'Spas-12' (#50879)
+[21:15:41	]C24:CpT.YELLO-60 has gained a 'Spas-12' #50879.
+[21:15:43	]C24:CpT.YELLO-60 ran 'take' on item '5-nabojowy magazynek do Shotguna' (#50882)
+[21:15:43	]C24:CpT.YELLO-60 has gained a '5-nabojowy magazynek do Shotguna' #50882.
+[21:15:45	]C24:CpT.YELLO-60 ran 'Equip' on item 'Spas-12' (#50879)
+[21:15:54	]C24:CpT.YELLO-60 has spawned a magazine_shotgun.
+[21:15:54	]C24:CpT.YELLO-60 has spawned a magazine_shotgun.
+[21:15:56	]C24:CpT.YELLO-60 ran 'take' on item '8-nabojowy magazynek do Shotguna' (#50897)
+[21:15:56	]C24:CpT.YELLO-60 has gained a '8-nabojowy magazynek do Shotguna' #50897.
+[21:15:58	]C24:CpT.YELLO-60 ran 'take' on item '8-nabojowy magazynek do Shotguna' (#50898)
+[21:15:58	]C24:CpT.YELLO-60 has gained a '8-nabojowy magazynek do Shotguna' #50898.
+[21:16:04	]C24:CpT.YELLO-60 has spawned a shotgunammo.
+[21:16:04	]C24:CpT.YELLO-60 has spawned a shotgunammo.
+[21:16:05	]C24:CpT.YELLO-60 has spawned a shotgunammo.
+[21:16:06	]C24:CpT.YELLO-60 ran 'use' on item 'Shotgun Shells' (#50899)
+[21:16:07	]C24:CpT.YELLO-60 ran 'take' on item 'Shotgun Shells' (#50901)
+[21:16:07	]C24:CpT.YELLO-60 has gained a 'Shotgun Shells' #50901.
+[21:16:09	]C24:CpT.YELLO-60 ran 'take' on item 'Shotgun Shells' (#50900)
+[21:16:09	]C24:CpT.YELLO-60 has gained a 'Shotgun Shells' #50900.
+[21:16:11	]C24:CpT.YELLO-60 ran 'use' on item 'Shotgun Shells' (#50900)
+[21:16:41	]C24:CpT.YELLO-60 has spawned a shotgunammo.
+[21:16:42	]C24:CpT.YELLO-60 ran 'take' on item 'Shotgun Shells' (#50902)
+[21:16:42	]C24:CpT.YELLO-60 has gained a 'Shotgun Shells' #50902.
+[21:16:48	]C24:CpT.YELLO-60 ran 'use' on item 'Shotgun Shells' (#50901)
+[21:17:05	]C24:CpT.YELLO-60 entered observer.
+[21:17:07	]C24:CpT.YELLO-60 exited observer at their location.
+[21:17:10	]C24:CpT.YELLO-60 opened the 'Dropped Items' #3230 container.
+[21:17:11	]C24:CpT.YELLO-60 closed the 'Dropped Items' #3230 container.
+[21:17:12	]C24:CpT.YELLO-60 opened the 'Dropped Items' #3230 container.
+[21:17:15	]C24:CpT.YELLO-60 has gained a 'Zaawansowana maska przeciwgazowa PMG-5 (AUG)' #50877 from a container with the name 'Dropped Items' #3230.
+[21:17:16	]C24:CpT.YELLO-60 has gained a 'Overseer' #50852 from a container with the name 'Dropped Items' #3230.
+[21:17:17	]C24:CpT.YELLO-60 has gained a 'Spodnie Overseera' #50854 from a container with the name 'Dropped Items' #3230.
+[21:17:18	]C24:CpT.YELLO-60 has gained a 'Eleganckie buty' #50855 from a container with the name 'Dropped Items' #3230.
+[21:17:19	]C24:CpT.YELLO-60 has gained a 'Rozwalony uniform CP' #50896 from a container with the name 'Dropped Items' #3230.
+[21:17:24	]C24:CpT.YELLO-60 has gained a 'Shotgun Shells' #50890 from a container with the name 'Dropped Items' #3230.
+[21:17:26	]C24:CpT.YELLO-60 closed the 'Dropped Items' #3230 container.
+[21:17:38	]C24:CpT.YELLO-60 ran 'drop' on item 'Rozwalony uniform CP' (#50896)
+[21:17:38	]C24:CpT.YELLO-60 has lost a 'Rozwalony uniform CP' #50896.
+[21:17:44	]C24:CpT.YELLO-60 ran 'combine' on item 'Duża torba' (#50851)
+[21:20:00	]C24:CpT.YELLO-60 has spawned a mask_ota.
+[21:20:03	]C24:CpT.YELLO-60 ran 'take' on item 'Maska OTA' (#50903)
+[21:20:03	]C24:CpT.YELLO-60 has gained a 'Maska OTA' #50903.
+[21:20:17	]C24:CpT.YELLO-60 has spawned a uniform_ota.
+[21:20:18	]C24:CpT.YELLO-60 ran 'take' on item 'Uniform OTA' (#50904)
+[21:20:18	]C24:CpT.YELLO-60 has gained a 'Uniform OTA' #50904.
+[21:20:42	][IC] C24:CpT.YELLO-60: Re.
+[21:20:50	][IC] C24:CpT.YELLO-60: <:: Re. ::>
+[21:20:52	][IC] C24:CpT.YELLO-60: <:: Re. ::>
+[21:20:55	][IC] C24:CpT.YELLO-60: <:: APPLY. ::>
+[21:20:58	][IC] C24:CpT.YELLO-60: <:: Re. ::>
+[21:21:01	][IC] C24:CpT.YELLO-60: <:: JEBAĆ PIS. ::>
+[21:21:07	][IC] C24:CpT.YELLO-60: <:: Freeze. ::>
+[21:21:14	][IC] C24:CpT.YELLO-60: <:: Copy. ::>
+[21:21:17	][IC] C24:CpT.YELLO-60: <:: Copy. ::>
+[21:21:18	][IC] C24:CpT.YELLO-60: <:: Copy. ::>
+[21:21:21	][IC] C24:CpT.YELLO-60: <:: Apply. ::>
+[21:21:23	][IC] C24:CpT.YELLO-60: <:: Potwierdzam. ::>
+[21:21:29	][IC] C24:CpT.YELLO-60: <:: Tak. ::>
+[21:21:30	][IC] C24:CpT.YELLO-60: <:: Haha. ::>
+[21:21:41	]C24:CpT.YELLO-60 ran 'drop' on item 'Uniform OTA' (#50904)
+[21:21:44	]C24:CpT.YELLO-60 ran 'drop' on item 'Uniform OTA' (#50904)
+[21:21:58	]C24:CpT.YELLO-60 has spawned a uniform_c8_rl.
+[21:21:59	]C24:CpT.YELLO-60 ran 'take' on item 'Rank Leader Uniform (City 8)' (#50905)
+[21:21:59	]C24:CpT.YELLO-60 has gained a 'Rank Leader Uniform (City 8)' #50905.
+[21:22:28	][IC] C24:CpT.YELLO-60: <:: Wyidentyfikuj się. ::>
+[21:22:31	][IC] C24:CpT.YELLO-60: <:: Zrozumiano. ::>
+[21:22:38	][IC] C24:CpT.YELLO-60: <:: Zrozumiano. ::>
+[21:23:00	][IC] C24:CpT.YELLO-60: <:: Stój! ::>
+[21:23:07	][IC] C24:CpT.YELLO-60: <:: Stój! ::>
+[21:23:10	][IC] C24:CpT.YELLO-60: <:: Zrozumiano. ::>
+[21:23:13	][IC] C24:CpT.YELLO-60: <:: Wyidentyfikuj się. ::>
+[21:23:45	]C24:CpT.YELLO-60 entered observer.
+[21:23:45	]C24:CpT.YELLO-60 exited observer at their location.
+[21:23:58	]C24:CpT.YELLO-60 has fired a toolgun with the name: camera
+[21:24:08	]C24:CpT.YELLO-60 used command '/ActDown'.
+[21:25:13	]C24:CpT.YELLO-60 entered observer.
+[21:25:16	]C24:CpT.YELLO-60 exited observer at their location.
+[21:25:41	]C24:CpT.YELLO-60 entered observer.
+[21:26:39	]C24:CpT.YELLO-60 exited observer at their location.
+[21:26:42	]C24:CpT.YELLO-60 entered observer.
+[21:27:06	]C24:CpT.YELLO-60 exited observer at their location.
+[21:27:07	]C24:CpT.YELLO-60 entered observer.
+[21:28:11	]C24:CpT.YELLO-60 exited observer at their location.
+[21:28:13	]C24:CpT.YELLO-60 has spawned a cca_bureaucratic_armored.
+[21:28:14	]C24:CpT.YELLO-60 ran 'take' on item 'Biurokratyczny Diabeł - opancerzony' (#50906)
+[21:28:14	]C24:CpT.YELLO-60 has gained a 'Biurokratyczny Diabeł - opancerzony' #50906.
+[21:29:35	]C24:CpT.YELLO-60 entered observer.
+[21:30:18	]C24:CpT.YELLO-60 exited observer at their location.
+[21:30:19	]C24:CpT.YELLO-60 entered observer.
+[21:30:20	]C24:CpT.YELLO-60 exited observer at their location.
+[21:30:25	]C24:CpT.YELLO-60 entered observer.
+[21:30:26	]C24:CpT.YELLO-60 exited observer at their location.
+[21:30:36	]C24:CpT.YELLO-60 entered observer.
+[21:31:36	]C24:CpT.YELLO-60 exited observer at their location.
+[21:31:37	]C24:CpT.YELLO-60 entered observer.
+[21:34:16	]Mensu (STEAM_0:0:31675788) has disconnected.
+[21:49:42	]Mensu has connected.
+[21:56:05	]Mensu loaded the character 'C24:CpT.YELLO-60'
+[21:56:15	]C24:CpT.YELLO-60 entered observer.
+[21:56:51	]C24:CpT.YELLO-60 exited observer at their location.
+[21:58:11	]C24:CpT.YELLO-60 entered observer.
+[21:58:26	]C24:CpT.YELLO-60 exited observer at their location.
+[21:58:34	]C24:CpT.YELLO-60 has fired a toolgun with the name: camera
+[22:00:35	]Mensu has unloaded their "C24:CpT.YELLO-60" character.
+[22:00:40	]Mensu loaded the character 'RE RE REER ER'
+[22:00:50	]RE RE REER ER has spawned a cca_executive.
+[22:00:51	]RE RE REER ER ran 'take' on item 'Executive' (#50907)
+[22:00:51	]RE RE REER ER has gained a 'Executive' #50907.
+[22:00:56	]RE RE REER ER has spawned a cca_executive_armored.
+[22:00:58	]RE RE REER ER has spawned a cca_executive_armored.
+[22:00:59	]RE RE REER ER ran 'take' on item 'The Executive - opancerzony' (#50909)
+[22:00:59	]RE RE REER ER has gained a 'The Executive - opancerzony' #50909.
+[22:01:00	]RE RE REER ER entered observer.
+[22:01:01	]RE RE REER ER exited observer at their location.
+[22:01:05	]RE RE REER ER has spawned a cca_coat_overseer.
+[22:01:07	]RE RE REER ER ran 'take' on item 'Overseer' (#50910)
+[22:01:07	]RE RE REER ER has gained a 'Overseer' #50910.
+[22:01:10	]RE RE REER ER has spawned a cca_legs_overseer.
+[22:01:11	]RE RE REER ER ran 'take' on item 'Spodnie Overseera' (#50911)
+[22:01:11	]RE RE REER ER has gained a 'Spodnie Overseera' #50911.
+[22:01:20	]RE RE REER ER has spawned a shoes_red.
+[22:01:21	]RE RE REER ER ran 'take' on item 'Ciemnoczerwone buty' (#50912)
+[22:01:21	]RE RE REER ER has gained a 'Ciemnoczerwone buty' #50912.
+[22:01:55	]RE RE REER ER has fired a toolgun with the name: camera
+[22:02:16	]RE RE REER ER entered observer.
+[22:02:59	]RE RE REER ER has spawned 'models/wn7new/metropolice/male_02.mdl'.
+[22:03:00	]RE RE REER ER has spawned 'models/willardnetworks/citizens/female_01.mdl'.
+[22:03:01	]RE RE REER ER has spawned 'models/willardnetworks/citizens/female_04.mdl'.
+[22:03:06	]RE RE REER ER has spawned 'models/wn7new/metropolice_c8/female_01.mdl'.
+[22:03:07	]RE RE REER ER has spawned 'models/wn7new/metropolice_rebel/female_02.mdl'.
+[22:03:41	]RE RE REER ER exited observer at their location.
+[22:04:00	]RE RE REER ER entered observer.
+[22:04:05	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:04:10	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:04:16	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:04:28	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:04:30	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:04:35	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:04:40	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:06:16	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:06:28	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:06:34	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:06:38	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:06:41	]RE RE REER ER has used a context menu option with the name: skin
+[22:06:46	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:06:49	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:07:03	]RE RE REER ER has used a context menu option with the name: skin
+[22:07:10	]RE RE REER ER has used a context menu option with the name: skin
+[22:07:13	]RE RE REER ER has used a context menu option with the name: skin
+[22:07:15	]RE RE REER ER has used a context menu option with the name: skin
+[22:07:20	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:07:25	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:07:28	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:07:31	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:12:35	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:12:42	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:12:47	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:12:50	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:12:54	]RE RE REER ER has used a context menu option with the name: skin
+[22:12:57	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:13:03	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:13:07	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:13:12	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:13:18	]RE RE REER ER has used a context menu option with the name: bodygroups
+[22:13:23	]Mensu (STEAM_0:0:31675788) has disconnected.

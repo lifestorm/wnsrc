@@ -1,0 +1,640 @@
+[01:20:33	]Lorf has connected.
+[01:21:15	]Lorf loaded the character 'Jola Karnaś'
+[01:21:57	]Jola Karnaś has given himself a beard_razor.
+[01:21:57	]Jola Karnaś has gained a 'Hairdresser tools' #412.
+[01:22:00	]Jola Karnaś ran 'Style' on item 'Hairdresser tools' (#412)
+[01:27:39	]Lorf has connected.
+[01:28:16	]Lorf loaded the character 'Jola Karnaś'
+[01:29:38	]Jola Karnaś entered observer.
+[01:29:39	]Jola Karnaś exited observer at their location.
+[01:29:46	]Jola Karnaś entered observer.
+[01:29:49	]Jola Karnaś exited observer at their location.
+[01:30:22	]Jola Karnaś entered observer.
+[01:30:26	]Jola Karnaś exited observer at their location.
+[01:30:27	]Jola Karnaś entered observer.
+[01:30:29	]Jola Karnaś exited observer at their location.
+[01:30:46	]Jola Karnaś has given himself a capda.
+[01:30:46	]Jola Karnaś has gained a 'PDA Administracji Miasta' #413.
+[01:30:50	]Jola Karnaś ran 'Equip' on item 'PDA Administracji Miasta' (#413)
+[01:31:33	]Jola Karnaś entered observer.
+[01:31:47	]Jola Karnaś used command '/CreateApartment'.
+[01:32:56	]Jola Karnaś used command '/SetApartmentDoor'.
+[01:32:58	]Jola Karnaś exited observer at their location.
+[01:33:04	]Jola Karnaś used command '/DoorBuy'.
+[01:33:06	]Jola Karnaś used command '/DoorBuy'.
+[01:33:07	]Jola Karnaś entered observer.
+[01:34:12	]Jola Karnaś exited observer at their location.
+[01:36:13	]Jola Karnaś used command '/PlyWhitelist ^ bisne'.
+[01:36:17	]Jola Karnaś used command '/PlyWhitelist ^ bis'.
+[01:36:26	]Jola Karnaś used command '/PlyWhitelist ^ department'.
+[01:36:32	]Jola Karnaś used command '/PlyWhitelist ^ cca'.
+[01:36:34	]Jola Karnaś used command '/PlyWhitelist ^ cab'.
+[01:36:40	]Jola Karnaś used command '/PlyWhitelist ^ administration'.
+[01:36:52	]Lorf has unloaded their "Jola Karnaś" character.
+[01:37:51	]Lorf created the character 'Marcin Natyszkiewicz'
+[01:37:51	]Lorf loaded the character 'Marcin Natyszkiewicz'
+[01:37:51	]Marcin Natyszkiewicz has gained a 'Karta identyfikacyjna #09113' #414.
+[01:37:51	]Marcin Natyszkiewicz has gained a 'PDA Kombinatu' #415.
+[01:38:03	]Marcin Natyszkiewicz has given himself a cca_legs_realist.
+[01:38:03	]Marcin Natyszkiewicz has gained a 'Spodnie 'Realista'' #416.
+[01:38:05	]Marcin Natyszkiewicz has given himself a cca_realist.
+[01:38:05	]Marcin Natyszkiewicz has gained a 'Realista' #417.
+[01:38:10	]Marcin Natyszkiewicz has given himself a shoes_dress_shoes.
+[01:38:11	]Marcin Natyszkiewicz has gained a 'Eleganckie buty' #418.
+[01:38:17	]Marcin Natyszkiewicz has given himself a hands_medical_gloves.
+[01:38:17	]Marcin Natyszkiewicz has gained a 'Rękawiczki medyczne' #419.
+[01:39:12	]Marcin Natyszkiewicz ran 'Equip' on item 'PDA Kombinatu' (#415)
+[01:39:21	]Marcin Natyszkiewicz has given himself a capda.
+[01:39:21	]Marcin Natyszkiewicz has gained a 'PDA Administracji Miasta' #420.
+[01:40:12	]Marcin Natyszkiewicz ran 'Equip' on item 'PDA Administracji Miasta' (#420)
+[01:40:15	]Marcin Natyszkiewicz ran 'EquipUn' on item 'PDA Kombinatu' (#415)
+[01:40:16	]Marcin Natyszkiewicz ran 'Equip' on item 'PDA Administracji Miasta' (#420)
+[01:40:52	]Marcin Natyszkiewicz entered observer.
+[01:40:54	]Marcin Natyszkiewicz exited observer at their location.
+[01:41:04	]Marcin Natyszkiewicz entered observer.
+[01:41:05	]Marcin Natyszkiewicz exited observer at their location.
+[01:41:21	]Marcin Natyszkiewicz used command '/ID'.
+[01:42:08	]Marcin Natyszkiewicz entered observer.
+[01:42:12	]Marcin Natyszkiewicz exited observer at their location.
+[01:42:14	]Marcin Natyszkiewicz entered observer.
+[01:42:17	]Marcin Natyszkiewicz exited observer at their location.
+[01:42:33	]Marcin Natyszkiewicz ran 'EquipUn' on item 'PDA Administracji Miasta' (#420)
+[01:42:34	]Marcin Natyszkiewicz ran 'Equip' on item 'PDA Kombinatu' (#415)
+[01:42:59	]Marcin Natyszkiewicz entered observer.
+[01:43:00	]Marcin Natyszkiewicz exited observer at their location.
+[01:43:05	]Marcin Natyszkiewicz entered observer.
+[01:43:06	]Marcin Natyszkiewicz exited observer at their location.
+[01:43:06	]Marcin Natyszkiewicz entered observer.
+[01:43:09	]Marcin Natyszkiewicz exited observer at their location.
+[01:43:10	]Marcin Natyszkiewicz entered observer.
+[01:43:12	]Marcin Natyszkiewicz exited observer at their location.
+[01:43:15	]Marcin Natyszkiewicz entered observer.
+[01:43:16	]Marcin Natyszkiewicz exited observer at their location.
+[01:43:17	]Marcin Natyszkiewicz entered observer.
+[01:43:19	]Marcin Natyszkiewicz exited observer at their location.
+[01:43:21	]Marcin Natyszkiewicz entered observer.
+[01:43:22	]Marcin Natyszkiewicz exited observer at their location.
+[01:43:33	]Marcin Natyszkiewicz entered observer.
+[01:43:34	]Marcin Natyszkiewicz exited observer at their location.
+[01:43:36	]Marcin Natyszkiewicz entered observer.
+[01:43:36	]Marcin Natyszkiewicz exited observer at their location.
+[01:43:38	]Marcin Natyszkiewicz entered observer.
+[01:43:40	]Marcin Natyszkiewicz exited observer at their location.
+[01:43:43	]Marcin Natyszkiewicz entered observer.
+[01:43:45	]Marcin Natyszkiewicz exited observer at their location.
+[01:43:46	]Marcin Natyszkiewicz entered observer.
+[01:43:48	]Marcin Natyszkiewicz exited observer at their location.
+[01:44:02	]Marcin Natyszkiewicz has given himself a pda_cwu.
+[01:44:02	]Marcin Natyszkiewicz has gained a 'CWU PDA' #421.
+[01:44:05	]Marcin Natyszkiewicz ran 'EquipUn' on item 'PDA Kombinatu' (#415)
+[01:44:27	]Marcin Natyszkiewicz has given himself a pda_cmu.
+[01:44:27	]Marcin Natyszkiewicz has gained a 'CMU PDA' #422.
+[01:45:53	]Marcin Natyszkiewicz used command '/PlyWhitelist ^ cwu'.
+[01:46:01	]Marcin Natyszkiewicz used command '/PlyWhitelist ^ worker'.
+[01:46:04	]Lorf has unloaded their "Marcin Natyszkiewicz" character.
+[01:47:44	]Lorf created the character 'Makumba Polak'
+[01:47:44	]Lorf loaded the character 'Makumba Polak'
+[01:47:44	]Makumba Polak has gained a 'Karta identyfikacyjna #09774' #423.
+[01:47:44	]Makumba Polak has gained a 'CWU PDA' #424.
+[01:47:44	]Makumba Polak has gained a 'CWU Member Access Keycard' #425.
+[01:47:44	]Makumba Polak has gained a 'Okulary' #426.
+[01:47:55	]Makumba Polak ran 'Open' on item 'CWU PDA' (#424)
+[01:48:12	]Makumba Polak ran 'SetAccessLevel' on item 'CWU Member Access Keycard' (#425)
+[01:48:17	]Makumba Polak ran 'SetAccessLevel' on item 'CWU Management Access Keycard' (#425)
+[01:48:17	]Makumba Polak ran 'SetAccessLevel' on item 'CWU Member Access Keycard' (#425)
+[01:48:26	]Makumba Polak ran 'Bind' on item 'CWU Management Access Keycard' (#425)
+[01:48:32	]Makumba Polak ran 'Open' on item 'CWU PDA' (#424)
+[01:48:53	]Makumba Polak used command '/ID'.
+[01:48:58	]Makumba Polak ran 'Open' on item 'CWU PDA' (#424)
+[01:50:31	]Makumba Polak has given himself a torso_red_worker_jacket.
+[01:50:31	]Makumba Polak has gained a 'Czerwona kurtka robotnicza' #427.
+[01:50:36	]Makumba Polak has given himself a head_hardhat.
+[01:50:36	]Makumba Polak has gained a 'Kask ochronny' #428.
+[01:50:41	]Makumba Polak has given himself a legs_civilian_red.
+[01:50:41	]Makumba Polak has gained a 'Czerwone spodnie' #429.
+[01:50:51	]Makumba Polak has given himself a shoes_leather_dark.
+[01:50:51	]Makumba Polak has gained a 'Buty z czarnej skóry' #430.
+[01:51:13	]Makumba Polak has given himself a legs_jumpsuit_black.
+[01:51:13	]Makumba Polak has gained a 'Czarne luźne spodnie' #431.
+[01:51:15	]Makumba Polak has given himself a legs_civilian_black.
+[01:51:15	]Makumba Polak has gained a 'Czarne spodnie' #432.
+[01:51:30	]Makumba Polak entered observer.
+[01:51:34	]Makumba Polak exited observer at their location.
+[01:51:57	]Makumba Polak has spawned a card_diamonds_6.
+[01:52:06	]Makumba Polak has spawned a card_clubs_4.
+[01:52:09	]Makumba Polak has spawned a card_spades_king.
+[01:52:15	]Makumba Polak has spawned a card_deck.
+[01:52:19	]Makumba Polak ran 'PullRandom' on item 'Talia 52 kart' (#436)
+[01:52:19	]Makumba Polak has gained a '9 kier' #471.
+[01:52:22	]Makumba Polak ran 'PullRandom' on item 'Talia 52 kart' (#436)
+[01:52:22	]Makumba Polak has gained a '9 pik' #484.
+[01:52:24	]Makumba Polak ran 'PullRandom' on item 'Talia 52 kart' (#436)
+[01:52:24	]Makumba Polak has gained a '5 karo' #454.
+[01:52:29	]Makumba Polak has used a context menu option with the name: rb655_dissolve
+[01:52:31	]Makumba Polak has used a context menu option with the name: rb655_dissolve
+[01:52:31	]env_entity_dissolver destroyed a 'Talia 52 kart' #436.
+[01:52:33	]Makumba Polak has used a context menu option with the name: rb655_dissolve
+[01:52:33	]env_entity_dissolver destroyed a 'król pik' #435.
+[01:52:34	]Makumba Polak has used a context menu option with the name: rb655_dissolve
+[01:52:35	]env_entity_dissolver destroyed a '4 trefl' #434.
+[01:52:36	]env_entity_dissolver destroyed a '6 karo' #433.
+[01:52:52	]Makumba Polak has given himself a cwu_radio.
+[01:52:52	]Makumba Polak has gained a 'CWU Radio' #489.
+[01:52:55	]Makumba Polak ran 'ToggleOn' on item 'CWU Radio' (#489)
+[01:53:21	]Makumba Polak used command '/Radio Halo halo, tutaj ryba, zgłoś się akwarium'.
+[01:54:50	]Makumba Polak entered observer.
+[01:55:01	]Makumba Polak exited observer at their location.
+[01:55:18	]Makumba Polak has given himself a rave.
+[01:55:18	]Makumba Polak has gained a 'RAVE' #490.
+[01:55:20	]Makumba Polak ran 'Consume' on item 'RAVE' (#490)
+[01:55:20	]Makumba Polak has gained a level 5 short boost in Siła.
+[01:56:10	]Makumba Polak used command '/RemoveDrugEffects ^'.
+[01:56:16	]Makumba Polak has given himself a drug_sunshinevodka.
+[01:56:16	]Makumba Polak has gained a 'Wódka 'Sunshine'' #491.
+[01:56:46	]Makumba Polak entered observer.
+[01:56:48	]Makumba Polak exited observer at their location.
+[01:57:24	]Makumba Polak has given himself a drink_bourbon.
+[01:57:24	]Makumba Polak has gained a 'Bourbon' #492.
+[01:57:27	]Makumba Polak ran 'Consume' on item 'Bourbon' (#492)
+[01:57:27	]Makumba Polak has gained a level 4 long boost in Siła.
+[01:57:27	]Makumba Polak has gained a level -2 long boost in Percepcja.
+[01:57:27	]Makumba Polak has gained a 'Pusta butelka po bourbonie' #493.
+[01:57:39	]Makumba Polak ran 'Consume' on item 'Wódka 'Sunshine'' (#491)
+[01:57:39	]Makumba Polak has wasted a level 3 long boost in Siła (current: 0; target: 4).
+[01:57:39	]Makumba Polak has gained a level 3 long boost in Zręczność.
+[01:57:39	]Makumba Polak has gained a level -3 long boost in Inteligencja.
+[01:57:39	]Makumba Polak has gained a 'Pusta butelka po wódce' #494.
+[01:57:44	]Makumba Polak has given himself a drug_speed.
+[01:57:44	]Makumba Polak has gained a 'Speed' #495.
+[01:57:47	]Makumba Polak ran 'use' on item 'Speed' (#495)
+[01:57:47	]Makumba Polak has gained a level 6 short boost in Zręczność.
+[01:57:47	]Makumba Polak has gained a 'Pusta puszka po wodzie Breen'a' #496.
+[01:57:52	]Makumba Polak has given himself a drug_darkshot.
+[01:57:52	]Makumba Polak has gained a 'Dark Shot' #497.
+[01:57:53	]Makumba Polak has given himself a drug_bobmix.
+[01:57:54	]Makumba Polak has gained a 'Bob's Trail Mix' #498.
+[01:57:55	]Makumba Polak has given himself a drug_blueberry.
+[01:57:55	]Makumba Polak has gained a 'Blue Berry' #499.
+[01:57:55	]Makumba Polak has given himself a drug_artificialfun.
+[01:57:55	]Makumba Polak has gained a 'Artificial Fun' #500.
+[01:58:02	]Makumba Polak ran 'use' on item 'Artificial Fun' (#500)
+[01:58:02	]Makumba Polak extended their level 5 short boost in Siła.
+[01:58:02	]Makumba Polak has gained a level -3 short boost in Inteligencja.
+[01:58:02	]Makumba Polak has gained a level -3 short boost in Percepcja.
+[01:58:02	]Makumba Polak has gained a 'PUsty słoik' #501.
+[01:58:06	]Makumba Polak ran 'use' on item 'Blue Berry' (#499)
+[01:58:06	]Makumba Polak has updated their Siła short boost target to -2 (current : 5).
+[01:58:06	]Makumba Polak has gained a level 5 short boost in Inteligencja.
+[01:58:06	]Makumba Polak has gained a level 5 short boost in Percepcja.
+[01:58:06	]Makumba Polak has gained a 'Kawałki szkła' #502.
+[01:58:08	]Makumba Polak ran 'use' on item 'Bob's Trail Mix' (#498)
+[01:58:08	]Makumba Polak has updated their Siła short boost target to 3 (current : 5).
+[01:58:08	]Makumba Polak has wasted a level 5 short boost in Zręczność (current: 2; target: 6).
+[01:58:08	]Makumba Polak has wasted a level -5 short boost in Inteligencja (current: 0; target: 5).
+[01:58:08	]Makumba Polak has wasted a level 5 short boost in Percepcja (current: 0; target: 5).
+[01:58:08	]Makumba Polak has gained a 'Pusta puszka po Bob Water' #503.
+[01:58:11	]Makumba Polak ran 'use' on item 'Dark Shot' (#497)
+[01:58:11	]Makumba Polak has gained a level 6 short boost in Siła.
+[01:58:11	]Makumba Polak has wasted a level 6 short boost in Zręczność (current: 2; target: 6).
+[01:58:11	]Makumba Polak has wasted a level -5 short boost in Percepcja (current: 0; target: 5).
+[01:58:11	]Makumba Polak has gained a 'PUsty słoik' #504.
+[01:58:16	]Makumba Polak used command '/RemoveDrugEffects ^'.
+[01:58:20	]Makumba Polak has given himself a drug_proteinkiller.
+[01:58:20	]Makumba Polak has gained a 'Protein Killer' #505.
+[01:58:22	]Makumba Polak ran 'Consume' on item 'Protein Killer' (#505)
+[01:58:22	]Makumba Polak has wasted a level 3 long boost in Siła (current: 0; target: 4).
+[01:58:22	]Makumba Polak has updated their Inteligencja long boost target to -3 (current : 0).
+[01:58:22	]Makumba Polak has gained a level 2 long boost in Percepcja.
+[01:58:22	]Makumba Polak has gained a 'Plastik' #506.
+[01:58:28	]Makumba Polak has given himself a drug_proteinkiller.
+[01:58:28	]Makumba Polak has gained a 'Protein Killer' #507.
+[01:58:36	]Makumba Polak has given himself a drug_milkyway.
+[01:58:36	]Makumba Polak has gained a 'Milky Way' #508.
+[01:58:54	]Makumba Polak ran 'Consume' on item 'Milky Way' (#508)
+[01:58:54	]Makumba Polak has wasted a level -3 long boost in Siła (current: 0; target: 4).
+[01:58:54	]Makumba Polak has wasted a level -3 long boost in Zręczność (current: 0; target: 3).
+[01:58:54	]Makumba Polak has gained a level 4 long boost in Inteligencja.
+[01:58:54	]Makumba Polak has gained a level 4 long boost in Percepcja.
+[01:58:54	]Makumba Polak has gained a 'Pusty kartonik po mleku' #509.
+[01:59:00	]Makumba Polak ran 'Consume' on item 'Protein Killer' (#507)
+[01:59:00	]Makumba Polak has wasted a level 3 long boost in Siła (current: 0; target: 4).
+[01:59:00	]Makumba Polak has wasted a level -3 long boost in Inteligencja (current: 0; target: 4).
+[01:59:00	]Makumba Polak has wasted a level 2 long boost in Percepcja (current: 0; target: 4).
+[01:59:00	]Makumba Polak has gained a 'Plastik' #510.
+[01:59:03	]Makumba Polak has given himself a drug_amph_a.
+[01:59:03	]Makumba Polak has gained a 'Amfetamina KLASY A' #511.
+[01:59:04	]Makumba Polak has given himself a drug_amph_b.
+[01:59:04	]Makumba Polak has gained a 'Amfetamina KLASY B' #512.
+[01:59:51	]Makumba Polak ran 'Consume' on item 'Amfetamina KLASY B' (#512)
+[01:59:51	]Makumba Polak has gained a level 5 long boost in Siła.
+[01:59:51	]Makumba Polak has wasted a level 3 long boost in Zręczność (current: 0; target: 3).
+[01:59:51	]Makumba Polak has wasted a level -3 long boost in Inteligencja (current: 0; target: 4).
+[01:59:51	]Makumba Polak has wasted a level 3 long boost in Percepcja (current: 0; target: 4).
+[01:59:51	]Makumba Polak has gained a 'Strzykawka' #513.
+[01:59:56	]Makumba Polak ran 'Consume' on item 'Amfetamina KLASY A' (#511)
+[01:59:56	]Makumba Polak has gained a level 6 long boost in Siła.
+[01:59:56	]Makumba Polak has gained a level 4 long boost in Zręczność.
+[01:59:56	]Makumba Polak has wasted a level -4 long boost in Inteligencja (current: 0; target: 4).
+[01:59:56	]Makumba Polak has gained a level 5 long boost in Percepcja.
+[01:59:56	]Makumba Polak has gained a 'Strzykawka' #514.
+[02:00:06	]Makumba Polak has given himself a drug_happypie.
+[02:00:06	]Makumba Polak has gained a 'Szczęśliwy placuszek' #515.
+[02:00:09	]Makumba Polak ran 'Consume' on item 'Szczęśliwy placuszek' (#515)
+[02:00:09	]Makumba Polak has wasted a level 5 long boost in Siła (current: 0; target: 6).
+[02:00:09	]Makumba Polak has gained a level 5 long boost in Zręczność.
+[02:00:12	]Makumba Polak has given himself a drug_artificialfun.
+[02:00:12	]Makumba Polak has gained a 'Artificial Fun' #516.
+[02:00:13	]Makumba Polak has given himself a drug_blueberry.
+[02:00:13	]Makumba Polak has gained a 'Blue Berry' #517.
+[02:00:14	]Makumba Polak has given himself a drug_bobmix.
+[02:00:14	]Makumba Polak has gained a 'Bob's Trail Mix' #518.
+[02:00:15	]Makumba Polak has given himself a drug_darkshot.
+[02:00:15	]Makumba Polak has gained a 'Dark Shot' #519.
+[02:00:15	]Makumba Polak has given himself a drug_demon.
+[02:00:15	]Makumba Polak has gained a 'Demon's Bees' #520.
+[02:00:16	]Makumba Polak has given himself a drug_injectedapple.
+[02:00:24	]Makumba Polak ran 'use' on item 'Demon's Bees' (#520)
+[02:00:24	]Makumba Polak has updated their Siła short boost target to 4 (current : 6).
+[02:00:24	]Makumba Polak has updated their Zręczność short boost target to 4 (current : 6).
+[02:00:24	]Makumba Polak has updated their Inteligencja short boost target to -7 (current : 5).
+[02:00:24	]Makumba Polak has gained a level 6 short boost in Percepcja.
+[02:00:25	]Makumba Polak ran 'use' on item 'Dark Shot' (#519)
+[02:00:25	]Makumba Polak extended their level 6 short boost in Siła.
+[02:00:25	]Makumba Polak extended their level 6 short boost in Zręczność.
+[02:00:25	]Makumba Polak has wasted a level -5 short boost in Percepcja (current: 5; target: 6).
+[02:00:25	]Makumba Polak has gained a 'PUsty słoik' #522.
+[02:00:26	]Makumba Polak ran 'use' on item 'Bob's Trail Mix' (#518)
+[02:00:26	]Makumba Polak has updated their Siła short boost target to 3 (current : 6).
+[02:00:26	]Makumba Polak has updated their Zręczność short boost target to 5 (current : 6).
+[02:00:26	]Makumba Polak has updated their Inteligencja short boost target to -5 (current : 5).
+[02:00:26	]Makumba Polak has wasted a level 5 short boost in Percepcja (current: 5; target: 6).
+[02:00:26	]Makumba Polak has gained a 'Pusta puszka po Bob Water' #523.
+[02:00:26	]Makumba Polak ran 'use' on item 'Blue Berry' (#517)
+[02:00:26	]Makumba Polak has wasted a level -2 short boost in Siła (current: 6; target: 3).
+[02:00:26	]Makumba Polak extended their level 5 short boost in Inteligencja.
+[02:00:26	]Makumba Polak has wasted a level 5 short boost in Percepcja (current: 5; target: 6).
+[02:00:26	]Makumba Polak has gained a 'Kawałki szkła' #524.
+[02:00:27	]Makumba Polak ran 'use' on item 'Artificial Fun' (#516)
+[02:00:27	]Makumba Polak has updated their Siła short boost target to 5 (current : 6).
+[02:00:27	]Makumba Polak has updated their Inteligencja short boost target to -3 (current : 5).
+[02:00:27	]Makumba Polak has wasted a level -3 short boost in Percepcja (current: 5; target: 6).
+[02:00:27	]Makumba Polak has gained a 'PUsty słoik' #525.
+[02:00:30	]Makumba Polak has given himself a drug_injectedapple.
+[02:00:30	]Makumba Polak has gained a 'Jabłko' #526.
+[02:00:35	]Makumba Polak ran 'Consume' on item 'Jabłko' (#526)
+[02:00:35	]Makumba Polak has wasted a level -2 long boost in Siła (current: 0; target: 6).
+[02:00:35	]Makumba Polak has wasted a level 2 long boost in Zręczność (current: 0; target: 5).
+[02:00:35	]Makumba Polak has wasted a level 3 long boost in Percepcja (current: 0; target: 5).
+[02:00:40	]Makumba Polak used command '/RemoveDrugEffects ^'.
+[02:00:42	]Makumba Polak has given himself a drug_injectedapple.
+[02:00:42	]Makumba Polak has gained a 'Jabłko' #527.
+[02:00:53	]Makumba Polak ran 'Consume' on item 'Jabłko' (#527)
+[02:00:53	]Makumba Polak has wasted a level -2 long boost in Siła (current: 0; target: 6).
+[02:00:53	]Makumba Polak has wasted a level 2 long boost in Zręczność (current: 0; target: 5).
+[02:00:53	]Makumba Polak has wasted a level 3 long boost in Percepcja (current: 0; target: 5).
+[02:01:05	]Makumba Polak has given himself a drug_injectedapple.
+[02:01:05	]Makumba Polak has gained a 'Jabłko' #528.
+[02:01:07	]Makumba Polak ran 'Consume' on item 'Jabłko' (#528)
+[02:01:07	]Makumba Polak has wasted a level -2 long boost in Siła (current: 0; target: 6).
+[02:01:07	]Makumba Polak has wasted a level 2 long boost in Zręczność (current: 0; target: 5).
+[02:01:07	]Makumba Polak has wasted a level 3 long boost in Percepcja (current: 0; target: 5).
+[02:01:08	]Makumba Polak entered observer.
+[02:01:10	]Makumba Polak exited observer at their location.
+[02:01:14	]Makumba Polak has given himself a drug_spikedtea.
+[02:01:14	]Makumba Polak has gained a 'Zaprawiona kubek herbaty' #529.
+[02:01:16	]Makumba Polak ran 'Consume' on item 'Zaprawiona kubek herbaty' (#529)
+[02:01:16	]Makumba Polak has wasted a level 2 long boost in Inteligencja (current: 0; target: 4).
+[02:01:16	]Makumba Polak has wasted a level 2 long boost in Percepcja (current: 0; target: 5).
+[02:01:16	]Makumba Polak has gained a 'Pusty kubek' #530.
+[02:01:20	]Makumba Polak has given himself a drug_spikedcoffee.
+[02:01:20	]Makumba Polak has gained a 'Zaprawiona kubek kawy' #531.
+[02:01:22	]Makumba Polak ran 'Consume' on item 'Zaprawiona kubek kawy' (#531)
+[02:01:22	]Makumba Polak has wasted a level 3 long boost in Zręczność (current: 0; target: 5).
+[02:02:01	]Makumba Polak has given himself a drug_xp.
+[02:02:01	]Makumba Polak has gained a 'XP' #533.
+[02:02:03	]Makumba Polak ran 'use' on item 'XP' (#533)
+[02:02:03	]Makumba Polak extended their level 6 short boost in Siła.
+[02:02:03	]Makumba Polak extended their level 6 short boost in Zręczność.
+[02:02:03	]Makumba Polak has gained a level 6 short boost in Inteligencja.
+[02:02:03	]Makumba Polak extended their level 6 short boost in Percepcja.
+[02:02:06	]Makumba Polak has given himself a rave.
+[02:02:06	]Makumba Polak has gained a 'RAVE' #535.
+[02:02:08	]Makumba Polak ran 'Consume' on item 'RAVE' (#535)
+[02:02:08	]Makumba Polak has updated their Siła short boost target to 5 (current : 6).
+[02:02:20	]Makumba Polak has used a context menu option with the name: rb655_dissolve
+[02:02:22	]env_entity_dissolver destroyed a 'Pusta brązowa butelka' #534.
+[02:02:28	]Makumba Polak used command '/RemoveDrugEffects ^'.
+[02:02:57	]Makumba Polak has given himself a rave.
+[02:02:57	]Makumba Polak has gained a 'RAVE' #536.
+[02:02:59	]Makumba Polak ran 'Consume' on item 'RAVE' (#536)
+[02:02:59	]Makumba Polak has updated their Siła short boost target to 5 (current : 6).
+[02:03:31	]Makumba Polak used command '/RemoveDrugEffects ^'.
+[02:03:35	]Makumba Polak ran 'Use' on item 'Strzykawka' (#513)
+[02:03:35	]Makumba Polak has gained a 'Strzykawką z krwią' #537.
+[02:03:38	]Makumba Polak ran 'drop' on item 'Strzykawką z krwią' (#537)
+[02:03:38	]Makumba Polak has lost a 'Strzykawką z krwią' #537.
+[02:03:41	]Makumba Polak ran 'Use' on item 'Strzykawka' (#513)
+[02:03:41	]Makumba Polak has gained a 'Strzykawką z krwią' #538.
+[02:03:42	]Makumba Polak ran 'drop' on item 'Strzykawką z krwią' (#538)
+[02:03:42	]Makumba Polak has lost a 'Strzykawką z krwią' #538.
+[02:03:45	]Makumba Polak has used a context menu option with the name: rb655_dissolve
+[02:03:46	]Makumba Polak has used a context menu option with the name: rb655_dissolve
+[02:03:47	]env_entity_dissolver destroyed a 'Strzykawką z krwią' #538.
+[02:03:48	]env_entity_dissolver destroyed a 'Strzykawką z krwią' #537.
+[02:09:14	]Makumba Polak has gone afk.
+[02:19:29	]Makumba Polak is no longer afk. Total time spent AFK: 910
+[02:19:30	]Makumba Polak ran 'drop' on item 'PUsty słoik' (#522)
+[02:19:30	]Makumba Polak has lost a 'PUsty słoik' #522.
+[02:19:31	]Makumba Polak ran 'drop' on item 'Pusta puszka po Bob Water' (#523)
+[02:19:31	]Makumba Polak has lost a 'Pusta puszka po Bob Water' #523.
+[02:19:31	]Makumba Polak ran 'drop' on item 'Pusty kartonik po mleku' (#509)
+[02:19:31	]Makumba Polak has lost a 'Pusty kartonik po mleku' #509.
+[02:19:32	]Makumba Polak ran 'drop' on item 'Pusty kubek' (#530)
+[02:19:32	]Makumba Polak has lost a 'Pusty kubek' #530.
+[02:19:33	]Makumba Polak ran 'drop' on item 'PUsty słoik' (#525)
+[02:19:33	]Makumba Polak has lost a 'PUsty słoik' #525.
+[02:19:33	]Makumba Polak ran 'drop' on item 'PUsty słoik' (#504)
+[02:19:33	]Makumba Polak has lost a 'PUsty słoik' #504.
+[02:19:34	]Makumba Polak ran 'drop' on item 'Pusta puszka po Bob Water' (#503)
+[02:19:34	]Makumba Polak has lost a 'Pusta puszka po Bob Water' #503.
+[02:19:34	]Makumba Polak ran 'split' on item 'Kawałki szkła' (#502)
+[02:19:34	]Makumba Polak has gained a 'Kawałki szkła' #539.
+[02:19:39	]Makumba Polak ran 'drop' on item 'Kawałki szkła' (#502)
+[02:19:39	]Makumba Polak has lost a 'Kawałki szkła' #502.
+[02:19:39	]Makumba Polak ran 'drop' on item 'Kawałki szkła' (#539)
+[02:19:39	]Makumba Polak has lost a 'Kawałki szkła' #539.
+[02:19:40	]Makumba Polak ran 'drop' on item 'Pusta butelka po wódce' (#494)
+[02:19:40	]Makumba Polak has lost a 'Pusta butelka po wódce' #494.
+[02:19:41	]Makumba Polak ran 'drop' on item 'Czerwone spodnie' (#429)
+[02:19:41	]Makumba Polak has lost a 'Czerwone spodnie' #429.
+[02:19:42	]Makumba Polak ran 'drop' on item 'PUsty słoik' (#501)
+[02:19:42	]Makumba Polak has lost a 'PUsty słoik' #501.
+[02:19:42	]Makumba Polak ran 'split' on item 'Plastik' (#506)
+[02:19:42	]Makumba Polak has gained a 'Plastik' #540.
+[02:19:43	]Makumba Polak ran 'drop' on item 'Plastik' (#506)
+[02:19:43	]Makumba Polak has lost a 'Plastik' #506.
+[02:19:44	]Makumba Polak ran 'drop' on item 'Pusta puszka po wodzie Breen'a' (#496)
+[02:19:44	]Makumba Polak has lost a 'Pusta puszka po wodzie Breen'a' #496.
+[02:19:45	]Makumba Polak ran 'drop' on item 'Pusta butelka po bourbonie' (#493)
+[02:19:45	]Makumba Polak has lost a 'Pusta butelka po bourbonie' #493.
+[02:19:46	]Makumba Polak ran 'drop' on item 'Plastik' (#540)
+[02:19:46	]Makumba Polak has lost a 'Plastik' #540.
+[02:19:47	]Makumba Polak ran 'drop' on item '9 pik' (#484)
+[02:19:47	]Makumba Polak has lost a '9 pik' #484.
+[02:19:47	]Makumba Polak ran 'drop' on item '9 kier' (#471)
+[02:19:47	]Makumba Polak has lost a '9 kier' #471.
+[02:19:48	]Makumba Polak ran 'drop' on item '5 karo' (#454)
+[02:19:48	]Makumba Polak has lost a '5 karo' #454.
+[02:19:54	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:54	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:54	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:54	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:55	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:55	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:55	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:55	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:55	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:56	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:56	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:56	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:56	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:56	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:56	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:57	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:57	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:57	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:57	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:57	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:58	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:58	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:58	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:58	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:58	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:59	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:59	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:59	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:59	]Makumba Polak has fired a toolgun with the name: remover
+[02:19:59	]Makumba Polak has fired a toolgun with the name: remover
+[02:20:00	]Makumba Polak has fired a toolgun with the name: remover
+[02:20:00	]Makumba Polak has fired a toolgun with the name: remover
+[02:20:00	]Makumba Polak has fired a toolgun with the name: remover
+[02:20:00	]Makumba Polak has fired a toolgun with the name: remover
+[02:20:00	]Makumba Polak has fired a toolgun with the name: remover
+[02:20:01	]Makumba Polak has fired a toolgun with the name: remover
+[02:20:01	]Makumba Polak has fired a toolgun with the name: remover
+[02:20:02	]Makumba Polak has fired a toolgun with the name: remover
+[02:20:02	]Makumba Polak has fired a toolgun with the name: remover
+[02:20:02	]Makumba Polak has fired a toolgun with the name: remover
+[02:20:07	]Makumba Polak has given himself a comp_adhesive.
+[02:20:07	]Makumba Polak has gained a 'Klej' #541.
+[02:21:15	]Makumba Polak has given himself a comp_metal.
+[02:21:15	]Makumba Polak has gained a 'Złom' #542.
+[02:21:15	]Makumba Polak has given himself a comp_metal.
+[02:21:15	]Makumba Polak has gained a 'Złom' #543.
+[02:21:16	]Makumba Polak has given himself a comp_metal.
+[02:21:16	]Makumba Polak has gained a 'Złom' #544.
+[02:21:17	]Makumba Polak has given himself a comp_metal.
+[02:21:17	]Makumba Polak has gained a 'Złom' #545.
+[02:21:17	]Makumba Polak has given himself a comp_metal.
+[02:21:17	]Makumba Polak has gained a 'Złom' #546.
+[02:21:19	]Makumba Polak has given himself a comp_metal.
+[02:21:19	]Makumba Polak has gained a 'Złom' #547.
+[02:21:23	]Makumba Polak has given himself a comp_nails_screws.
+[02:21:23	]Makumba Polak has gained a 'Pudełko gwoździ' #548.
+[02:21:24	]Makumba Polak has given himself a comp_nails_screws.
+[02:21:24	]Makumba Polak has gained a 'Pudełko gwoździ' #549.
+[02:21:25	]Makumba Polak has given himself a comp_nails_screws.
+[02:21:25	]Makumba Polak has gained a 'Pudełko gwoździ' #550.
+[02:21:26	]Makumba Polak has given himself a comp_nails_screws.
+[02:21:26	]Makumba Polak has gained a 'Pudełko gwoździ' #551.
+[02:21:39	]Makumba Polak has given himself a tool_toolkit.
+[02:21:39	]Makumba Polak has gained a 'Skrzynka z narzędziami' #552.
+[02:21:43	]Makumba Polak has performed the 'Craft Mikser do chemii' action, gaining 200 experience in crafting.
+[02:21:43	]Makumba Polak has gained a 'Mikser do chemii' #553.
+[02:22:31	]Lorf has unloaded their "Makumba Polak" character.
+[02:22:34	]Lorf loaded the character 'Jola Karnaś'
+[02:22:46	]Lorf has unloaded their "Jola Karnaś" character.
+[02:22:52	]Lorf loaded the character 'Marcin Natyszkiewicz'
+[02:23:07	]Marcin Natyszkiewicz has given himself a beard_razor.
+[02:23:07	]Marcin Natyszkiewicz has gained a 'Hairdresser tools' #554.
+[02:23:10	]Marcin Natyszkiewicz ran 'Style' on item 'Hairdresser tools' (#554)
+[02:23:20	]Marcin Natyszkiewicz ran 'Style' on item 'Hairdresser tools' (#554)
+[02:23:53	]Marcin Natyszkiewicz used command '/CharSetBodygroup ^ beard 3'.
+[02:23:57	]Marcin Natyszkiewicz used command '/CharSetBodygroup ^ beard 2'.
+[02:23:59	]Marcin Natyszkiewicz used command '/CharSetBodygroup ^ beard 4'.
+[02:24:00	]Marcin Natyszkiewicz used command '/CharSetBodygroup ^ beard 6'.
+[02:24:02	]Marcin Natyszkiewicz used command '/CharSetBodygroup ^ beard 7'.
+[02:24:04	]Marcin Natyszkiewicz used command '/CharSetBodygroup ^ beard 4'.
+[02:24:05	]Marcin Natyszkiewicz used command '/CharSetBodygroup ^ beard 3'.
+[02:24:07	]Marcin Natyszkiewicz used command '/CharSetBodygroup ^ beard 2'.
+[02:24:30	]Marcin Natyszkiewicz entered observer.
+[02:24:34	]Marcin Natyszkiewicz exited observer at their location.
+[02:24:35	]Marcin Natyszkiewicz entered observer.
+[02:24:36	]Marcin Natyszkiewicz exited observer at their location.
+[02:24:41	]Marcin Natyszkiewicz entered observer.
+[02:24:42	]Marcin Natyszkiewicz exited observer at their location.
+[02:24:51	]Marcin Natyszkiewicz entered observer.
+[02:25:24	]Marcin Natyszkiewicz exited observer at their location.
+[02:25:37	]Marcin Natyszkiewicz has given himself a flashlight.
+[02:25:37	]Marcin Natyszkiewicz has gained a 'Flashlight' #555.
+[02:25:40	]Marcin Natyszkiewicz entered observer.
+[02:25:43	]Marcin Natyszkiewicz exited observer at their location.
+[02:25:43	]Marcin Natyszkiewicz entered observer.
+[02:25:46	]Marcin Natyszkiewicz exited observer at their location.
+[02:25:47	]Marcin Natyszkiewicz entered observer.
+[02:26:08	]Marcin Natyszkiewicz has given himself a ic_cluster_hive.
+[02:26:08	]Marcin Natyszkiewicz has gained a 'clusterItemName' #556.
+[02:26:09	]Marcin Natyszkiewicz has given himself a ic_coarctate_mucus.
+[02:26:09	]Marcin Natyszkiewicz has gained a 'coarctateItemName' #557.
+[02:26:21	]Marcin Natyszkiewicz exited observer at their location.
+[02:26:22	]Marcin Natyszkiewicz has taken 11 damage from worldspawn.
+[02:26:23	]Marcin Natyszkiewicz entered observer.
+[02:26:24	]Marcin Natyszkiewicz exited observer at their location.
+[02:26:25	]Marcin Natyszkiewicz has taken 75 damage from worldspawn.
+[02:26:36	]Marcin Natyszkiewicz ran 'use' on item 'coarctateItemName' (#557)
+[02:26:36	]Marcin Natyszkiewicz has performed the 'Use coarctateItemName' action, gaining 20 experience in medicine.
+[02:26:52	]Marcin Natyszkiewicz has given himself a health_kit.
+[02:26:52	]Marcin Natyszkiewicz has gained a 'Apteczka' #558.
+[02:27:00	]Marcin Natyszkiewicz ran 'use' on item 'Apteczka' (#558)
+[02:27:00	]Marcin Natyszkiewicz has performed the 'Use Apteczka' action, gaining 178 experience in medicine.
+[02:27:00	]Marcin Natyszkiewicz was disinfected by Marcin Natyszkiewicz for 210 seconds.
+[02:27:00	]Marcin Natyszkiewicz was bandaged by Marcin Natyszkiewicz for 75 HP.
+[02:27:06	]Marcin Natyszkiewicz ran 'use' on item 'Apteczka' (#558)
+[02:27:06	]Marcin Natyszkiewicz has performed the 'Use Apteczka' action, gaining 1 experience in medicine.
+[02:27:06	]Marcin Natyszkiewicz was disinfected by Marcin Natyszkiewicz for 210 seconds.
+[02:27:06	]Marcin Natyszkiewicz was bandaged by Marcin Natyszkiewicz for 75 HP.
+[02:27:08	]Marcin Natyszkiewicz has given himself a firstaid.
+[02:27:08	]Marcin Natyszkiewicz has gained a 'Apteczka pierwszej pomocy' #559.
+[02:27:10	]Marcin Natyszkiewicz has given himself a health_vial.
+[02:27:10	]Marcin Natyszkiewicz has gained a 'Ampułka lecznicza' #560.
+[02:27:12	]Marcin Natyszkiewicz has given himself a adrenaline.
+[02:27:12	]Marcin Natyszkiewicz has gained a 'Adrenalina' #561.
+[02:27:28	]Marcin Natyszkiewicz ran 'use' on item 'Apteczka pierwszej pomocy' (#559)
+[02:27:28	]Marcin Natyszkiewicz tried to disinfect Marcin Natyszkiewicz but the wound was already clean.
+[02:27:28	]Marcin Natyszkiewicz was bandaged by Marcin Natyszkiewicz for 50 HP.
+[02:27:31	]Marcin Natyszkiewicz ran 'use' on item 'Apteczka pierwszej pomocy' (#559)
+[02:27:31	]Marcin Natyszkiewicz tried to disinfect Marcin Natyszkiewicz but the wound was already clean.
+[02:27:31	]Marcin Natyszkiewicz was bandaged by Marcin Natyszkiewicz for 50 HP.
+[02:27:33	]Marcin Natyszkiewicz ran 'use' on item 'Ampułka lecznicza' (#560)
+[02:27:33	]Marcin Natyszkiewicz tried to disinfect Marcin Natyszkiewicz but the wound was already clean.
+[02:27:33	]Marcin Natyszkiewicz was bandaged by Marcin Natyszkiewicz for 50 HP.
+[02:27:34	]Marcin Natyszkiewicz ran 'split' on item 'Adrenalina' (#561)
+[02:27:34	]Marcin Natyszkiewicz has gained a 'Adrenalina' #562.
+[02:27:35	]Marcin Natyszkiewicz ran 'use' on item 'Adrenalina' (#561)
+[02:27:35	]Marcin Natyszkiewicz has gained a level 4 short boost in Zręczność.
+[02:28:06	]Marcin Natyszkiewicz has given himself a drink_saline.
+[02:28:06	]Marcin Natyszkiewicz has gained a 'Sól fizjologiczna' #563.
+[02:28:07	]Marcin Natyszkiewicz has given himself a bloodbag.
+[02:28:07	]Marcin Natyszkiewicz has gained a 'Torebka z krwią' #564.
+[02:28:14	]Marcin Natyszkiewicz ran 'use' on item 'Torebka z krwią' (#564)
+[02:28:14	]Marcin Natyszkiewicz tried to disinfect Marcin Natyszkiewicz but the wound was already clean.
+[02:28:14	]Marcin Natyszkiewicz was bandaged by Marcin Natyszkiewicz for 32 HP.
+[02:28:19	]Marcin Natyszkiewicz ran 'Consume' on item 'Sól fizjologiczna' (#563)
+[02:28:27	]Marcin Natyszkiewicz has given himself a surgerykit.
+[02:28:27	]Marcin Natyszkiewicz has gained a 'Zestaw chirurgiczny' #565.
+[02:28:48	]Marcin Natyszkiewicz has given himself a comp_stitched_cloth.
+[02:28:48	]Marcin Natyszkiewicz has gained a 'Zszyty materiał' #566.
+[02:28:52	]Marcin Natyszkiewicz ran 'split' on item 'Zestaw chirurgiczny' (#565)
+[02:28:52	]Marcin Natyszkiewicz has gained a 'Zestaw chirurgiczny' #567.
+[02:29:06	]Marcin Natyszkiewicz has given himself a comp_stitched_cloth.
+[02:29:06	]Marcin Natyszkiewicz has gained a 'Zszyty materiał' #568.
+[02:29:10	]Marcin Natyszkiewicz ran 'split' on item 'Zestaw chirurgiczny' (#565)
+[02:29:10	]Marcin Natyszkiewicz has gained a 'Zestaw chirurgiczny' #569.
+[02:29:12	]Marcin Natyszkiewicz ran 'use' on item 'Zestaw chirurgiczny' (#569)
+[02:29:12	]Marcin Natyszkiewicz was disinfected by Marcin Natyszkiewicz for 206 seconds.
+[02:29:12	]Marcin Natyszkiewicz was bandaged by Marcin Natyszkiewicz for 70 HP.
+[02:29:12	]Marcin Natyszkiewicz has gained a 'Zszyty materiał' #570.
+[02:29:13	]Marcin Natyszkiewicz ran 'use' on item 'Zestaw chirurgiczny' (#567)
+[02:29:13	]Marcin Natyszkiewicz was disinfected by Marcin Natyszkiewicz for 206 seconds.
+[02:29:13	]Marcin Natyszkiewicz was bandaged by Marcin Natyszkiewicz for 70 HP.
+[02:29:13	]Marcin Natyszkiewicz has gained a 'Zszyty materiał' #571.
+[02:29:27	]Marcin Natyszkiewicz ran 'use' on item 'Zestaw chirurgiczny' (#565)
+[02:29:27	]Marcin Natyszkiewicz was disinfected by Marcin Natyszkiewicz for 206 seconds.
+[02:29:27	]Marcin Natyszkiewicz was bandaged by Marcin Natyszkiewicz for 70 HP.
+[02:29:27	]Marcin Natyszkiewicz has gained a 'Zszyty materiał' #572.
+[02:29:32	]Marcin Natyszkiewicz ran 'use' on item 'Torebka z krwią' (#564)
+[02:29:32	]Marcin Natyszkiewicz tried to disinfect Marcin Natyszkiewicz but the wound was already clean.
+[02:29:32	]Marcin Natyszkiewicz was bandaged by Marcin Natyszkiewicz for 32 HP.
+[02:29:46	]Marcin Natyszkiewicz has given himself a disinfected_bandage.
+[02:29:46	]Marcin Natyszkiewicz has gained a 'Bandaż ze środkiem dezynfekującym' #573.
+[02:29:52	]Marcin Natyszkiewicz ran 'use' on item 'Bandaż ze środkiem dezynfekującym' (#573)
+[02:29:52	]Marcin Natyszkiewicz tried to disinfect Marcin Natyszkiewicz but the wound was already clean.
+[02:29:52	]Marcin Natyszkiewicz was bandaged by Marcin Natyszkiewicz for 16 HP.
+[02:29:54	]Marcin Natyszkiewicz entered observer.
+[02:29:55	]Marcin Natyszkiewicz exited observer at their location.
+[02:29:57	]Marcin Natyszkiewicz entered observer.
+[02:29:57	]Marcin Natyszkiewicz exited observer at their location.
+[02:30:07	]Marcin Natyszkiewicz entered observer.
+[02:30:08	]Marcin Natyszkiewicz exited observer at their location.
+[02:30:09	]Marcin Natyszkiewicz has taken 11 damage from worldspawn.
+[02:30:20	]Marcin Natyszkiewicz has spawned a 'NPC [484][npc_vj_hlr2_com_elite]'.
+[02:30:21	]Marcin Natyszkiewicz has taken 3 damage from Overwatch Elite.
+[02:30:21	]Marcin Natyszkiewicz has taken 12 damage from Overwatch Elite.
+[02:30:21	]Marcin Natyszkiewicz has taken 3 damage from Overwatch Elite.
+[02:30:21	]Marcin Natyszkiewicz has taken 3 damage from Overwatch Elite.
+[02:30:21	]Marcin Natyszkiewicz has taken 12 damage from Overwatch Elite.
+[02:30:21	]Marcin Natyszkiewicz has taken 12 damage from Overwatch Elite.
+[02:30:22	]Marcin Natyszkiewicz has taken 12 damage from Overwatch Elite.
+[02:30:40	]Marcin Natyszkiewicz has spawned a 'NPC [484][npc_vj_hlrof_assassin_male]'.
+[02:30:40	]Marcin Natyszkiewicz has taken 5 damage from Black Ops Male Assassin.
+[02:30:40	]Marcin Natyszkiewicz has taken 5 damage from Black Ops Male Assassin.
+[02:30:40	]Marcin Natyszkiewicz has taken 5 damage from Black Ops Male Assassin.
+[02:30:41	]Marcin Natyszkiewicz has taken 5 damage from Black Ops Male Assassin.
+[02:30:45	]Marcin Natyszkiewicz has spawned a 'NPC [484][npc_vj_hlrof_assassin_male]'.
+[02:30:45	]Marcin Natyszkiewicz was knocked unconscious and is bleeding out.
+[02:30:51	]Marcin Natyszkiewicz ran SAM command 'slay' with arguments: '^'
+[02:31:05	]Marcin Natyszkiewicz entered observer.
+[02:31:10	]Marcin Natyszkiewicz exited observer at their location.
+[02:31:25	]Marcin Natyszkiewicz entered observer.
+[02:31:39	]Marcin Natyszkiewicz exited observer at their location.
+[02:32:00	]Marcin Natyszkiewicz has given himself a lrr_mc.
+[02:32:03	]Marcin Natyszkiewicz has spawned a lrr_mc.
+[02:32:04	]Marcin Natyszkiewicz ran 'setRadioOn' on item 'Multi-Channel Long-Range Radio' (#574)
+[02:32:10	]Marcin Natyszkiewicz ran 'setRadioOff' on item 'Multi-Channel Long-Range Radio' (#574)
+[02:32:12	]Marcin Natyszkiewicz has spawned a lrr_mc.
+[02:32:15	]Marcin Natyszkiewicz ran 'setRadioOn' on item 'Multi-Channel Long-Range Radio' (#575)
+[02:32:20	]Marcin Natyszkiewicz has spawned a lrr.
+[02:32:22	]Marcin Natyszkiewicz ran 'ToggleOn' on item 'Long-Range Radio' (#576)
+[02:32:24	]Marcin Natyszkiewicz ran 'VolumeUp' on item 'Long-Range Radio' (#576)
+[02:32:28	]Marcin Natyszkiewicz ran 'ToggleOff' on item 'Long-Range Radio' (#576)
+[02:32:30	]Marcin Natyszkiewicz has used a context menu option with the name: rb655_dissolve
+[02:32:31	]Marcin Natyszkiewicz has used a context menu option with the name: rb655_dissolve
+[02:32:32	]Marcin Natyszkiewicz has used a context menu option with the name: rb655_dissolve
+[02:32:32	]env_entity_dissolver destroyed a 'Long-Range Radio' #576.
+[02:32:33	]env_entity_dissolver destroyed a 'Multi-Channel Long-Range Radio' #575.
+[02:32:34	]env_entity_dissolver destroyed a 'Multi-Channel Long-Range Radio' #574.
+[02:33:01	]Marcin Natyszkiewicz has given himself a fedora_brown.
+[02:33:01	]Marcin Natyszkiewicz has gained a 'Brązowa fedora' #577.
+[02:33:11	]Lorf (STEAM_0:0:83902827) has disconnected.
+[12:24:20	]Pozytyw has connected.
+[12:26:48	]Pozytyw created the character 'Bonaventura Flamenco'
+[12:26:48	]Bonaventura Flamenco has gained a 'Light Grey Armband' #578.
+[12:26:48	]Bonaventura Flamenco has gained a 'Karta identyfikacyjna #10437' #579.
+[12:26:48	]Bonaventura Flamenco has gained a 'Czarny uniform' #580.
+[12:26:48	]Bonaventura Flamenco has gained a 'Zielone luźne spodnie' #581.
+[12:26:48	]Bonaventura Flamenco has gained a 'Buty z brązowej skóry' #582.
+[12:26:49	]Pozytyw loaded the character 'Bonaventura Flamenco'
+[12:26:54	]Bonaventura Flamenco entered observer.
+[12:26:55	]Bonaventura Flamenco exited observer at their location.
+[12:26:55	]Bonaventura Flamenco entered observer.
+[12:26:56	]Bonaventura Flamenco exited observer at their location.
+[12:26:58	]Bonaventura Flamenco ran 'drop' on item 'Zielone luźne spodnie' (#581)
+[12:26:58	]Bonaventura Flamenco has lost a 'Zielone luźne spodnie' #581.
+[12:26:59	]Bonaventura Flamenco ran 'drop' on item 'Czarny uniform' (#580)
+[12:26:59	]Bonaventura Flamenco has lost a 'Czarny uniform' #580.
+[12:27:01	]Bonaventura Flamenco ran 'take' on item 'Czarny uniform' (#580)
+[12:27:01	]Bonaventura Flamenco has gained a 'Czarny uniform' #580.
+[12:27:02	]Bonaventura Flamenco ran 'take' on item 'Zielone luźne spodnie' (#581)
+[12:27:02	]Bonaventura Flamenco has gained a 'Zielone luźne spodnie' #581.
+[12:27:23	]Bonaventura Flamenco ran 'Equip' on item 'Light Grey Armband' (#578)
+[12:27:28	]Bonaventura Flamenco entered observer.
+[12:27:45	]Bonaventura Flamenco exited observer at their location.
+[12:29:35	][IC] Bonaventura Flamenco: Shit!
+[12:29:41	][IC] Bonaventura Flamenco: Cheese.
+[12:29:43	][IC] Bonaventura Flamenco: Ehe.
+[12:29:47	][IC] Bonaventura Flamenco: CP.
+[12:29:50	][IC] Bonaventura Flamenco: Cp!
+[12:29:52	][IC] Bonaventura Flamenco: Help.
+[12:29:57	]Bonaventura Flamenco entered observer.
+[12:29:58	]Bonaventura Flamenco exited observer at their location.
+[12:30:02	]Pozytyw (STEAM_0:0:84397718) has disconnected.

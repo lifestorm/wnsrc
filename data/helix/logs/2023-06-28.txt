@@ -1,0 +1,1039 @@
+[01:23:24	]Lorf has connected.
+[01:24:07	]Lorf loaded the character 'S10/OWS.GHOST-13'
+[01:24:50	]S10/OWS.GHOST-13 has spawned a uniform_valkyrie.
+[01:24:52	]S10/OWS.GHOST-13 ran 'take' on item 'OTA Valkyrie Uniform' (#4062)
+[01:24:52	]S10/OWS.GHOST-13 has gained a 'OTA Valkyrie Uniform' #4062.
+[01:25:41	]S10/OWS.GHOST-13 has spawned a uniform_ord.
+[01:25:42	]S10/OWS.GHOST-13 ran 'take' on item 'OTA Ordinal Uniform' (#4063)
+[01:25:42	]S10/OWS.GHOST-13 has gained a 'OTA Ordinal Uniform' #4063.
+[01:25:54	]S10/OWS.GHOST-13 has spawned a uniform_owc.
+[01:25:57	]S10/OWS.GHOST-13 ran 'take' on item 'OTA Squad Leader Uniform' (#4064)
+[01:25:57	]S10/OWS.GHOST-13 has gained a 'OTA Squad Leader Uniform' #4064.
+[01:26:20	]S10/OWS.GHOST-13 entered observer.
+[01:26:24	]S10/OWS.GHOST-13 exited observer at their location.
+[01:27:25	]S10/OWS.GHOST-13 ran 'Equip' on item 'Combine PDA' (#3949)
+[01:27:43	]S10/OWS.GHOST-13 has spawned a improved_ration.
+[01:27:47	]S10/OWS.GHOST-13 has used a context menu option with the name: rb655_dissolve
+[01:27:49	]env_entity_dissolver destroyed a 'Improved Ration' #4065.
+[01:27:51	]S10/OWS.GHOST-13 has spawned a improved_ration.
+[01:27:53	]S10/OWS.GHOST-13 ran 'take' on item 'Improved Ration' (#4066)
+[01:27:53	]S10/OWS.GHOST-13 has gained a 'Improved Ration' #4066.
+[01:27:56	]S10/OWS.GHOST-13 has spawned a ration.
+[01:27:58	]S10/OWS.GHOST-13 ran 'take' on item 'Ration' (#4067)
+[01:27:58	]S10/OWS.GHOST-13 has gained a 'Ration' #4067.
+[01:27:59	]S10/OWS.GHOST-13 has spawned a underclass_ration.
+[01:28:00	]S10/OWS.GHOST-13 ran 'take' on item 'Underclass Ration' (#4068)
+[01:28:00	]S10/OWS.GHOST-13 has gained a 'Underclass Ration' #4068.
+[01:28:10	]S10/OWS.GHOST-13 has spawned a loyalist_ration.
+[01:28:12	]S10/OWS.GHOST-13 ran 'take' on item 'Loyalist Ration' (#4069)
+[01:28:12	]S10/OWS.GHOST-13 has gained a 'Loyalist Ration' #4069.
+[01:28:17	]S10/OWS.GHOST-13 has spawned a trueloyal_ration.
+[01:28:18	]S10/OWS.GHOST-13 ran 'take' on item 'True Loyalist Ration' (#4070)
+[01:28:18	]S10/OWS.GHOST-13 has gained a 'True Loyalist Ration' #4070.
+[01:28:31	]S10/OWS.GHOST-13 has spawned a civil_protection_ration.
+[01:28:33	]S10/OWS.GHOST-13 ran 'take' on item 'Civil Protection Ration' (#4071)
+[01:28:33	]S10/OWS.GHOST-13 has gained a 'Civil Protection Ration' #4071.
+[01:28:35	]S10/OWS.GHOST-13 ran 'drop' on item 'OTA Charger Uniform' (#3954)
+[01:28:36	]S10/OWS.GHOST-13 ran 'drop' on item 'OTA Ordinal Uniform' (#4063)
+[01:28:37	]S10/OWS.GHOST-13 ran 'drop' on item 'OTA Ordinal Uniform' (#4063)
+[01:28:53	]S10/OWS.GHOST-13 ran 'Open' on item 'Improved Ration' (#4066)
+[01:28:56	]S10/OWS.GHOST-13 ran 'Open' on item 'Underclass Ration' (#4068)
+[01:28:57	]S10/OWS.GHOST-13 ran 'Open' on item 'Ration' (#4067)
+[01:29:01	]S10/OWS.GHOST-13 ran 'Open' on item 'Loyalist Ration' (#4069)
+[01:30:17	]S10/OWS.GHOST-13 ran SAM command 'menu' with arguments: ''
+[01:30:27	]S10/OWS.GHOST-13 ran SAM command 'setrankid' with arguments: 'STEAM_0:1:146784845' 'user'
+[01:30:38	]S10/OWS.GHOST-13 ran SAM command 'menu' with arguments: ''
+[01:49:43	]Lorf has connected.
+[01:50:29	]Lorf loaded the character 'S10/OWS.GHOST-13'
+[01:50:56	]S10/OWS.GHOST-13 has spawned a civil_protection_ration.
+[01:50:58	]S10/OWS.GHOST-13 ran 'take' on item 'Civil Protection Ration' (#4072)
+[01:50:58	]S10/OWS.GHOST-13 has gained a 'Civil Protection Ration' #4072.
+[01:51:05	]S10/OWS.GHOST-13 has spawned a trueloyal_ration.
+[01:51:06	]S10/OWS.GHOST-13 ran 'take' on item 'True Loyalist Ration' (#4073)
+[01:51:06	]S10/OWS.GHOST-13 has gained a 'True Loyalist Ration' #4073.
+[01:51:41	]S10/OWS.GHOST-13 ran 'Open' on item 'Underclass Ration' (#4068)
+[01:51:41	]S10/OWS.GHOST-13 has gained a 'Artificial Paste' #4074.
+[01:51:41	]S10/OWS.GHOST-13 has gained a 'Breen's Water' #4075.
+[01:51:46	]S10/OWS.GHOST-13 ran 'Consume' on item 'Breen's Water' (#4075)
+[01:51:46	]S10/OWS.GHOST-13 has gained a 'Empty Breen's Water' #4076.
+[01:51:47	]S10/OWS.GHOST-13 ran 'Consume' on item 'Artificial Paste' (#4074)
+[01:51:47	]S10/OWS.GHOST-13 has gained a 'Empty Jar' #4077.
+[01:51:49	]S10/OWS.GHOST-13 ran 'drop' on item 'Empty Jar' (#4077)
+[01:51:49	]S10/OWS.GHOST-13 has lost a 'Empty Jar' #4077.
+[01:51:50	]S10/OWS.GHOST-13 ran 'drop' on item 'Empty Breen's Water' (#4076)
+[01:51:50	]S10/OWS.GHOST-13 has lost a 'Empty Breen's Water' #4076.
+[01:51:53	]S10/OWS.GHOST-13 ran 'Open' on item 'Ration' (#4067)
+[01:51:53	]S10/OWS.GHOST-13 has gained a 'Artificial Paste' #4078.
+[01:51:53	]S10/OWS.GHOST-13 has gained a 'Breen's Water' #4079.
+[01:51:53	]S10/OWS.GHOST-13 has gained a 'Basic Credits Coupon' #4080.
+[01:51:56	]S10/OWS.GHOST-13 ran 'Consume' on item 'Artificial Paste' (#4078)
+[01:51:56	]S10/OWS.GHOST-13 has gained a 'Empty Jar' #4081.
+[01:51:56	]S10/OWS.GHOST-13 ran 'Consume' on item 'Breen's Water' (#4079)
+[01:51:56	]S10/OWS.GHOST-13 has gained a 'Empty Breen's Water' #4082.
+[01:51:59	]S10/OWS.GHOST-13 ran 'drop' on item 'Empty Breen's Water' (#4082)
+[01:51:59	]S10/OWS.GHOST-13 has lost a 'Empty Breen's Water' #4082.
+[01:51:59	]S10/OWS.GHOST-13 ran 'drop' on item 'Empty Jar' (#4081)
+[01:51:59	]S10/OWS.GHOST-13 has lost a 'Empty Jar' #4081.
+[01:52:06	]S10/OWS.GHOST-13 entered observer.
+[01:52:21	]S10/OWS.GHOST-13 exited observer at their location.
+[01:52:26	]S10/OWS.GHOST-13 ran 'Open' on item 'Improved Ration' (#4066)
+[01:52:26	]S10/OWS.GHOST-13 has gained a 'Apple' #4083.
+[01:52:26	]S10/OWS.GHOST-13 has gained a 'Watermelon Slice' #4084.
+[01:52:26	]S10/OWS.GHOST-13 has gained a 'Breen's Water' #4085.
+[01:52:26	]S10/OWS.GHOST-13 has gained a 'Basic Credits Coupon' #4086.
+[01:52:34	]S10/OWS.GHOST-13 ran 'Consume' on item 'Apple' (#4083)
+[01:52:35	]S10/OWS.GHOST-13 ran 'Consume' on item 'Watermelon Slice' (#4084)
+[01:52:37	]S10/OWS.GHOST-13 ran 'Consume' on item 'Breen's Water' (#4085)
+[01:52:37	]S10/OWS.GHOST-13 has gained a 'Empty Breen's Water' #4087.
+[01:52:39	]S10/OWS.GHOST-13 ran 'drop' on item 'Empty Breen's Water' (#4087)
+[01:52:39	]S10/OWS.GHOST-13 has lost a 'Empty Breen's Water' #4087.
+[01:52:45	]S10/OWS.GHOST-13 ran 'Open' on item 'Loyalist Ration' (#4069)
+[01:52:45	]S10/OWS.GHOST-13 has gained a 'Watermelon Slice' #4088.
+[01:52:45	]S10/OWS.GHOST-13 has gained a 'Apple' #4089.
+[01:52:45	]S10/OWS.GHOST-13 has gained a 'Sparkling Breen's Water' #4090.
+[01:52:45	]S10/OWS.GHOST-13 has gained a 'Medium Credits Coupon' #4091.
+[01:52:59	]S10/OWS.GHOST-13 ran 'Consume' on item 'Sparkling Breen's Water' (#4090)
+[01:52:59	]S10/OWS.GHOST-13 has gained a 'Empty Breen's Water' #4092.
+[01:53:00	]S10/OWS.GHOST-13 ran 'Consume' on item 'Apple' (#4089)
+[01:53:02	]S10/OWS.GHOST-13 ran 'Consume' on item 'Watermelon Slice' (#4088)
+[01:53:06	]S10/OWS.GHOST-13 ran 'drop' on item 'Empty Breen's Water' (#4092)
+[01:53:06	]S10/OWS.GHOST-13 has lost a 'Empty Breen's Water' #4092.
+[01:53:11	]S10/OWS.GHOST-13 ran 'Open' on item 'True Loyalist Ration' (#4073)
+[01:53:11	]S10/OWS.GHOST-13 has gained a 'Union Choco' #4093.
+[01:53:11	]S10/OWS.GHOST-13 has gained a 'Salmon Steak' #4094.
+[01:53:11	]S10/OWS.GHOST-13 has gained a 'Sparkling Breen's Water' #4095.
+[01:53:11	]S10/OWS.GHOST-13 has gained a 'Medium Credits Coupon' #4096.
+[01:53:17	]S10/OWS.GHOST-13 ran 'Consume' on item 'Union Choco' (#4093)
+[01:53:17	]S10/OWS.GHOST-13 has gained a 'Plastic garbage' #4097.
+[01:53:23	]S10/OWS.GHOST-13 ran 'Consume' on item 'Salmon Steak' (#4094)
+[01:53:23	]S10/OWS.GHOST-13 has gained a level 5 long boost in Inteligencja.
+[01:53:23	]S10/OWS.GHOST-13 has gained a level 5 long boost in Percepcja.
+[01:53:26	]S10/OWS.GHOST-13 ran 'Consume' on item 'Sparkling Breen's Water' (#4095)
+[01:53:26	]S10/OWS.GHOST-13 has gained a 'Empty Breen's Water' #4098.
+[01:53:56	]S10/OWS.GHOST-13 ran 'Open' on item 'Civil Protection Ration' (#4072)
+[01:53:56	]S10/OWS.GHOST-13 has gained a 'Metropolice Supplements' #4099.
+[01:53:56	]S10/OWS.GHOST-13 has gained a 'Soda Bob Brawn' #4100.
+[01:53:56	]S10/OWS.GHOST-13 has gained a 'Medium Credits Coupon' #4101.
+[01:54:10	]S10/OWS.GHOST-13 ran 'Consume' on item 'Metropolice Supplements' (#4099)
+[01:54:10	]S10/OWS.GHOST-13 has gained a level 3 long boost in Siła.
+[01:54:11	]S10/OWS.GHOST-13 ran 'Consume' on item 'Soda Bob Brawn' (#4100)
+[01:54:11	]S10/OWS.GHOST-13 has wasted a level 1 long boost in Percepcja (current: 0; target: 5).
+[01:54:11	]S10/OWS.GHOST-13 has gained a level 2 long boost in Zręczność.
+[01:54:18	]S10/OWS.GHOST-13 has spawned a priority_ration.
+[01:54:22	]S10/OWS.GHOST-13 ran 'take' on item 'Priority Loyalist Ration' (#4102)
+[01:54:22	]S10/OWS.GHOST-13 has gained a 'Priority Loyalist Ration' #4102.
+[01:54:54	]S10/OWS.GHOST-13 ran 'Open' on item 'Priority Loyalist Ration' (#4102)
+[01:54:54	]S10/OWS.GHOST-13 has gained a 'Union Choco' #4103.
+[01:54:54	]S10/OWS.GHOST-13 has gained a 'Salmon Steak' #4104.
+[01:54:54	]S10/OWS.GHOST-13 has gained a 'Sparkling Breen's Water' #4105.
+[01:54:54	]S10/OWS.GHOST-13 has gained a 'Priority Credits Coupon' #4106.
+[01:55:02	]S10/OWS.GHOST-13 ran 'Consume' on item 'Union Choco' (#4103)
+[01:55:02	]S10/OWS.GHOST-13 has gained a 'Plastic garbage' #4107.
+[01:55:04	]S10/OWS.GHOST-13 ran 'Consume' on item 'Salmon Steak' (#4104)
+[01:55:04	]S10/OWS.GHOST-13 has wasted a level 5 long boost in Inteligencja (current: 0; target: 5).
+[01:55:04	]S10/OWS.GHOST-13 has wasted a level 5 long boost in Percepcja (current: 0; target: 5).
+[01:55:05	]S10/OWS.GHOST-13 ran 'Consume' on item 'Sparkling Breen's Water' (#4105)
+[01:55:05	]S10/OWS.GHOST-13 has gained a 'Empty Breen's Water' #4108.
+[01:55:21	]S10/OWS.GHOST-13 ran 'Use' on item 'Priority Credits Coupon' (#4106)
+[01:55:37	]S10/OWS.GHOST-13 ran 'Use' on item 'Medium Credits Coupon' (#4101)
+[01:55:38	]S10/OWS.GHOST-13 ran 'Use' on item 'Medium Credits Coupon' (#4096)
+[01:55:48	]S10/OWS.GHOST-13 used command '/CreateCid ^'.
+[01:55:48	]S10/OWS.GHOST-13 has gained a '#07451's Identity Card' #4109.
+[01:55:57	]S10/OWS.GHOST-13 ran 'Use' on item 'Priority Credits Coupon' (#4106)
+[01:56:02	]S10/OWS.GHOST-13 ran 'Use' on item 'Priority Credits Coupon' (#4106)
+[01:56:05	]S10/OWS.GHOST-13 ran 'Use' on item 'Priority Credits Coupon' (#4106)
+[01:56:07	]S10/OWS.GHOST-13 has used a coupon at a ration dispenser, gaining 30 credits.
+[01:56:10	]S10/OWS.GHOST-13 ran 'Use' on item 'Medium Credits Coupon' (#4101)
+[01:56:13	]S10/OWS.GHOST-13 has used a coupon at a ration dispenser, gaining 20 credits.
+[01:56:15	]S10/OWS.GHOST-13 ran 'Use' on item 'Medium Credits Coupon' (#4096)
+[01:56:17	]S10/OWS.GHOST-13 has used a coupon at a ration dispenser, gaining 20 credits.
+[01:56:18	]S10/OWS.GHOST-13 ran 'Use' on item 'Medium Credits Coupon' (#4091)
+[01:56:19	]S10/OWS.GHOST-13 ran 'Use' on item 'Medium Credits Coupon' (#4091)
+[01:56:22	]S10/OWS.GHOST-13 has used a coupon at a ration dispenser, gaining 20 credits.
+[01:56:23	]S10/OWS.GHOST-13 ran 'Use' on item 'Basic Credits Coupon' (#4086)
+[01:56:24	]S10/OWS.GHOST-13 ran 'Use' on item 'Basic Credits Coupon' (#4086)
+[01:56:27	]S10/OWS.GHOST-13 has used a coupon at a ration dispenser, gaining 15 credits.
+[01:56:29	]S10/OWS.GHOST-13 ran 'Use' on item 'Basic Credits Coupon' (#4080)
+[01:56:31	]S10/OWS.GHOST-13 has used a coupon at a ration dispenser, gaining 15 credits.
+[01:57:59	]S10/OWS.GHOST-13 used command '/PTCreate'.
+[01:58:10	]S10/OWS.GHOST-13 used command '/PTCreate'.
+[01:58:19	]S10/OWS.GHOST-13 used command '/PTCreate 12'.
+[01:59:08	]S10/OWS.GHOST-13 used command '/PTLeave'.
+[01:59:10	]S10/OWS.GHOST-13 used command '/PTCreate'.
+[01:59:20	]S10/OWS.GHOST-13 entered observer.
+[01:59:23	]Lorf has unloaded their "S10/OWS.GHOST-13" character.
+[01:59:28	]Lorf loaded the character 'S10:SCN-5'
+[01:59:56	]S10:SCN-5 used command '/VisorStatus jw'.
+[02:00:39	]S10:SCN-5 used command '/VisorStatus blue'.
+[02:01:02	]S10:SCN-5 used command '/VisorStatus blue'.
+[02:01:14	]S10:SCN-5 used command '/VisorStatus yellow'.
+[02:01:25	]S10:SCN-5 used command '/VisorStatus unrest'.
+[02:01:34	]S10:SCN-5 used command '/VisorStatus offline'.
+[02:02:27	]Lorf has unloaded their "S10:SCN-5" character.
+[02:02:31	]Lorf loaded the character 'C17:RCT.YELLO-91'
+[02:02:39	]C17:RCT.YELLO-91 entered observer.
+[02:02:42	]C17:RCT.YELLO-91 exited observer at their location.
+[02:02:56	]C17:RCT.YELLO-91 entered observer.
+[02:02:57	]C17:RCT.YELLO-91 exited observer at their location.
+[02:03:06	]C17:RCT.YELLO-91 used command '/WaypointAdd test 12 red'.
+[02:03:11	]C17:RCT.YELLO-91 entered observer.
+[02:04:22	]C17:RCT.YELLO-91 used command '/Radio test'.
+[02:04:33	]C17:RCT.YELLO-91 used command '/Radio test'.
+[02:04:53	]C17:RCT.YELLO-91 ran 'ToggleOn' on item 'Handheld Radio' (#4035)
+[02:05:31	]C17:RCT.YELLO-91 used command '/SC 1-1'.
+[02:05:36	]C17:RCT.YELLO-91 used command '/Radio test'.
+[02:05:51	]C17:RCT.YELLO-91 used command '/SC QT1'.
+[02:05:53	]C17:RCT.YELLO-91 used command '/Radio 1'.
+[02:06:07	]C17:RCT.YELLO-91 used command '/SC tac-3'.
+[02:06:10	]C17:RCT.YELLO-91 used command '/Radio test'.
+[02:06:34	]C17:RCT.YELLO-91 used command '/SC cmb'.
+[02:06:38	]C17:RCT.YELLO-91 used command '/Radio test'.
+[02:07:00	]C17:RCT.YELLO-91 exited observer at their location.
+[02:07:18	]C17:RCT.YELLO-91 entered observer.
+[02:07:36	]C17:RCT.YELLO-91 has pressed the "CA_SocialInfection" map button.
+[02:08:11	]C17:RCT.YELLO-91 used command '/PlyWhitelist ^ mcp'.
+[02:08:14	]Lorf has unloaded their "C17:RCT.YELLO-91" character.
+[02:08:25	]Lorf created the character '21121212121'
+[02:08:25	]Lorf loaded the character '21121212121'
+[02:08:25	]21121212121 has gained a '#16651's Identity Card' #4110.
+[02:08:25	]21121212121 has gained a 'Combine PDA' #4111.
+[02:08:34	]21121212121 entered observer.
+[02:08:40	]21121212121 exited observer at their location.
+[02:08:50	]21121212121 ran 'Equip' on item 'Combine PDA' (#4111)
+[02:09:12	]21121212121 ran 'Write' on item 'Potrzebujemy pracowników!' (#3784)
+[02:09:15	]21121212121 ran 'Write' on item 'Potrzebujemy pracowników!' (#3784)
+[02:09:27	]21121212121 entered observer.
+[02:09:31	]21121212121 exited observer at their location.
+[02:09:35	]21121212121 ran 'take' on item 'CWU PDA' (#3677)
+[02:09:35	]21121212121 has gained a 'CWU PDA' #3677.
+[02:09:38	]21121212121 ran 'Write' on item 'Notepad' (#3785)
+[02:09:43	]21121212121 ran 'drop' on item 'CWU PDA' (#3677)
+[02:09:43	]21121212121 has lost a 'CWU PDA' #3677.
+[02:09:45	]21121212121 ran 'take' on item 'CWU PDA' (#3677)
+[02:09:45	]21121212121 has gained a 'CWU PDA' #3677.
+[02:09:55	]21121212121 ran 'Write' on item 'Paper' (#3760)
+[02:10:01	]21121212121 ran 'Write' on item 'Seksior' (#3780)
+[02:10:17	]21121212121 ran 'Write' on item 'Newspaper' (#3686)
+[02:10:37	]21121212121 ran SAM command 'slay' with arguments: '^'
+[02:10:52	]Lorf (STEAM_0:0:83902827) has disconnected.
+[17:34:11	]tomasz hedzik has connected.
+[17:34:53	]tomasz hedzik loaded the character 'C17:RCT.YELLO-91'
+[17:37:55	]C17:RCT.YELLO-91 ran 'Equip' on item 'Combine PDA' (#3647)
+[17:39:05	]C17:RCT.YELLO-91 used command '/PTCreate'.
+[17:39:13	]C17:RCT.YELLO-91 used command '/PTCreate'.
+[17:44:16	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[17:44:22	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[17:44:24	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[17:44:25	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[17:44:34	]C17:RCT.YELLO-91 ran 'ToggleOn' on item 'Handheld Radio' (#3650)
+[17:44:38	]C17:RCT.YELLO-91 used command '/Radio Hej'.
+[17:44:41	][IC] C17:RCT.YELLO-91: <:: Move back, right now! ::>
+[17:45:16	]C17:RCT.YELLO-91 used command '/Radio 10-4'.
+[17:45:20	]C17:RCT.YELLO-91 used command '/Radio 10-8'.
+[17:46:06	][IC] C17:RCT.YELLO-91: <:: 10-0, 10-0; viscerator is hunting!. ::>
+[17:46:11	][IC] C17:RCT.YELLO-91: <:: 10-0. ::>
+[17:46:13	][IC] C17:RCT.YELLO-91: <:: 10-9. ::>
+[17:46:14	][IC] C17:RCT.YELLO-91: <:: 10-15. ::>
+[17:46:17	][IC] C17:RCT.YELLO-91: <:: 999. ::>
+[17:46:20	][IC] C17:RCT.YELLO-91: <:: Code 0. ::>
+[17:46:23	][IC] C17:RCT.YELLO-91: <:: Shots fired; hostile malignants here. ::>
+[17:46:27	][IC] C17:RCT.YELLO-91: <:: Officer down. ::>
+[17:46:28	][IC] C17:RCT.YELLO-91: <:: Dwon. ::>
+[17:46:30	][IC] C17:RCT.YELLO-91: <:: Down. ::>
+[17:46:35	][IC] C17:RCT.YELLO-91: <:: 10-25 suscpet. ::>
+[17:46:37	][IC] C17:RCT.YELLO-91: <:: Any unit, report in with 10-25 as suspect. ::>
+[17:46:41	][IC] C17:RCT.YELLO-91: <:: Any unit, report in with 10-25 as suspect. ::>
+[17:47:09	]C17:RCT.YELLO-91 ran 'channel' on item 'Handheld Radio' (#3650)
+[17:47:11	]C17:RCT.YELLO-91 ran 'qt' on item 'Handheld Radio' (#3650)
+[17:47:14	]C17:RCT.YELLO-91 ran 'qt' on item 'Handheld Radio' (#3650)
+[17:47:16	]C17:RCT.YELLO-91 ran 'qt' on item 'Handheld Radio' (#3650)
+[17:47:18	][IC] C17:RCT.YELLO-91: <:: Unit is on-duty; 10-8. ::>
+[17:47:23	]C17:RCT.YELLO-91 used command '/Radio test'.
+[17:47:27	]C17:RCT.YELLO-91 ran 'channel' on item 'Handheld Radio' (#3650)
+[17:47:29	]C17:RCT.YELLO-91 used command '/Radio test'.
+[17:47:56	]C17:RCT.YELLO-91 used command '/UnitRadio YELLO-91 Help'.
+[17:48:00	]C17:RCT.YELLO-91 used command '/UnitRadio YELLO-91 Test'.
+[17:49:38	]tomasz hedzik created the character 'C17:RCT.YELLO-23'
+[17:49:38	]C17:RCT.YELLO-91 has gained level 5 in the Broń palna skill.
+[17:49:38	]C17:RCT.YELLO-91 has gained level 10 in the Prędkość skill.
+[17:49:38	]tomasz hedzik loaded the character 'C17:RCT.YELLO-23'
+[17:49:38	]C17:RCT.YELLO-23 has gained a '#17582's Identity Card' #4112.
+[17:49:38	]C17:RCT.YELLO-23 has gained a 'Combine PDA' #4113.
+[17:49:38	]C17:RCT.YELLO-23 has gained a 'CP Uniform' #4114.
+[17:49:38	]C17:RCT.YELLO-23 has gained a 'CP Mask' #4115.
+[17:49:38	]C17:RCT.YELLO-23 has gained a 'Handheld Radio' #4116.
+[17:49:38	]C17:RCT.YELLO-23 has gained a 'Small Bag' #4117.
+[17:49:38	]C17:RCT.YELLO-23 has gained a 'Large Bag' #4118.
+[17:50:01	]C17:RCT.YELLO-23 ran 'ToggleOn' on item 'Handheld Radio' (#4116)
+[17:50:01	]C17:RCT.YELLO-23 ran 'Equip' on item 'Combine PDA' (#4113)
+[17:50:04	]C17:RCT.YELLO-23 ran 'SetCredits' on item '#17582's Identity Card' (#4112)
+[17:50:35	]C17:RCT.YELLO-23 ran SAM command 'noclip' with arguments: ''
+[17:50:37	]C17:RCT.YELLO-23 ran SAM command 'noclip' with arguments: ''
+[17:51:28	]C17:RCT.YELLO-23 ran 'Write' on item 'Seksior' (#3782)
+[17:51:32	]C17:RCT.YELLO-23 ran 'Write' on item 'Seksior' (#3782)
+[17:51:41	]C17:RCT.YELLO-23 ran 'Write' on item 'Newspaper' (#3686)
+[17:51:56	]tomasz hedzik (STEAM_0:0:422062415) has disconnected.
+[17:56:32	]tomasz hedzik has connected.
+[17:58:13	]tomasz hedzik loaded the character 'C17:RCT.YELLO-23'
+[17:58:31	]C17:RCT.YELLO-23 ran SAM command 'noclip' with arguments: ''
+[17:58:32	]C17:RCT.YELLO-23 ran SAM command 'noclip' with arguments: ''
+[18:04:18	]tomasz hedzik has connected.
+[18:05:10	]tomasz hedzik loaded the character 'C17:RCT.YELLO-23'
+[18:05:28	]Inkaaz has connected.
+[18:06:01	]Inkaaz loaded the character 'Kotek Loxiego'
+[18:06:01	]C17:RCT.YELLO-23 ran SAM command 'noclip' with arguments: ''
+[18:06:02	]C17:RCT.YELLO-23 ran SAM command 'noclip' with arguments: ''
+[18:06:05	]Kotek Loxiego is fully healed.
+[18:06:34	]C24:OFC.UNION-15 used command '/CharSetName yello C24:OFC.UNION-15'.
+[18:07:59	]C24:OFC.UNION-15 has given himself a uniform_cp_com.
+[18:07:59	]C24:OFC.UNION-15 has gained a 'CP Command Uniform' #4119.
+[18:08:00	]Kotek Loxiego ran SAM command 'mapreset' with arguments: ''
+[18:08:24	]C24:OFC.UNION-15 ran 'drop' on item 'CP Uniform' (#4114)
+[18:08:24	]C24:OFC.UNION-15 has lost a 'CP Uniform' #4114.
+[18:08:54	]C24:OFC.UNION-15 ran SAM command 'noclip' with arguments: ''
+[18:08:54	]C24:OFC.UNION-15 ran SAM command 'noclip' with arguments: ''
+[18:09:01	]Inkaaz has unloaded their "Kotek Loxiego" character.
+[18:09:09	]Inkaaz loaded the character 'C17:RL.Union-88'
+[18:09:10	]C17:RL.Union-88 entered observer.
+[18:09:13	]C17:RL.Union-88 exited observer.
+[18:09:14	]C17:RL.Union-88 is fully healed.
+[18:09:40	]C17:RL.Union-88 entered observer.
+[18:09:42	]C17:RL.Union-88 exited observer at their location.
+[18:09:47	][IC] C24:OFC.UNION-15: <:: Nie dzialaja mi te uprawnienia. ::>
+[18:09:54	][IC] C17:RL.Union-88: <:: Ofc. ::>
+[18:09:55	][IC] C17:RL.Union-88: <:: Xd. ::>
+[18:10:02	][IC] C24:OFC.UNION-15: <:: Nie ma OFC? ::>
+[18:10:03	][IC] C24:OFC.UNION-15: <:: Aha. ::>
+[18:10:09	][IC] C17:RL.Union-88: <:: Wyslalem ci. ::>
+[18:10:11	][IC] C17:RL.Union-88: <:: Nawet co jest. ::>
+[18:10:14	][IC] C17:RL.Union-88: <:: Koles. ::>
+[18:10:27	]C24:RL.UNION-14 used command '/CharSetName C24:OFC. C24:RL.UNION-14'.
+[18:10:39	][IC] C24:RL.UNION-14: <:: A to spoko dziala. ::>
+[18:10:42	]C24:RL.UNION-14 used command '/PTCreate'.
+[18:13:08	][IC] C17:RL.Union-88: <:: Fonty. ::>
+[18:13:12	][IC] C17:RL.Union-88: <:: Będę musiał naprawić. ::>
+[18:13:18	][IC] C17:RL.Union-88: <:: Widzę że też tutaj food jest. ::>
+[18:13:23	][IC] C17:RL.Union-88: <:: I kurwa nie mieści się to jedno gón o. ::>
+[18:13:24	][IC] C17:RL.Union-88: <:: Gównó. ::>
+[18:13:26	][IC] C17:RL.Union-88: <:: Gówno. ::>
+[18:13:33	][IC] C24:RL.UNION-14: <:: Najwyżej nie odpalę tej opcji. ::>
+[18:13:38	][IC] C24:RL.UNION-14: <:: Tylko pokaże te najwazniejszs. ::>
+[18:14:28	][IC] C17:RL.Union-88: <:: Hinty wyłącz. ::>
+[18:14:30	][IC] C17:RL.Union-88: <:: Bo nie tłumaczyłem. ::>
+[18:14:31	][IC] C17:RL.Union-88: <:: Xd. ::>
+[18:14:33	][IC] C17:RL.Union-88: <:: XD. ::>
+[18:14:40	][IC] C24:RL.UNION-14: <:: Dobrze. ::>
+[18:14:59	][IC] C24:RL.UNION-14: <:: Wyłączone. ::>
+[18:20:39	]C17:RL.Union-88 has gone afk.
+[18:21:49	]C17:RL.Union-88 is no longer afk. Total time spent AFK: 365
+[18:26:10	]C24:RL.UNION-14 has gone afk.
+[18:26:25	]C24:RL.UNION-14 is no longer afk. Total time spent AFK: 310
+[18:27:23	]C24:RL.UNION-14 has changed C24:RL.UNION-14's bodygroups.
+[18:27:34	]C24:RL.UNION-14 has spawned a mask_com.
+[18:27:37	]C24:RL.UNION-14 ran 'take' on item 'Advanced CP Mask' (#4120)
+[18:27:37	]C24:RL.UNION-14 has gained a 'Advanced CP Mask' #4120.
+[18:27:46	]C24:RL.UNION-14 ran 'drop' on item 'CP Mask' (#4115)
+[18:27:46	]C24:RL.UNION-14 has lost a 'CP Mask' #4115.
+[18:27:49	]C17:RL.Union-88 has gone afk.
+[18:28:00	]C24:RL.UNION-14 has fired a toolgun with the name: remover
+[18:28:02	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[18:28:04	]C24:RL.UNION-14 has fired a toolgun with the name: remover
+[18:28:20	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[18:34:25	]C24:RL.UNION-14 has gone afk.
+[18:34:54	]C17:RL.Union-88 is no longer afk. Total time spent AFK: 720
+[18:35:10	]C24:RL.UNION-14 is no longer afk. Total time spent AFK: 340
+[18:37:08	]C17:RL.Union-88 has taken 5 damage from C24:RL.UNION-14.
+[18:37:08	]C24:RL.UNION-14 has damaged C17:RL.Union-88, dealing 5 with ix_hands
+[18:37:15	]C17:RL.Union-88 has taken 5 damage from C24:RL.UNION-14.
+[18:37:15	]C24:RL.UNION-14 has damaged C17:RL.Union-88, dealing 5.0003 with ix_hands
+[18:37:16	]C17:RL.Union-88 has taken 5 damage from C24:RL.UNION-14.
+[18:37:16	]C24:RL.UNION-14 has damaged C17:RL.Union-88, dealing 5.0006 with ix_hands
+[18:37:18	]C17:RL.Union-88 has taken 5 damage from C24:RL.UNION-14.
+[18:37:18	]C24:RL.UNION-14 has damaged C17:RL.Union-88, dealing 5.0009 with ix_hands
+[18:37:44	][IC] C17:RL.Union-88: <:: Awfawgwa. ::>
+[18:38:11	]Inkaaz has unloaded their "C17:RL.Union-88" character.
+[18:38:14	]Inkaaz loaded the character 'Kash'Ash'
+[18:38:16	]Kash'Ash entered observer.
+[18:38:19	]Kash'Ash exited observer at their location.
+[18:38:19	]Kash'Ash is fully healed.
+[18:38:35	]Kash'Ash has spawned a xen_stew.
+[18:38:37	]Kash'Ash ran 'take' on item 'Xenian Stew' (#4121)
+[18:38:37	]Kash'Ash has gained a 'Xenian Stew' #4121.
+[18:38:38	]Kash'Ash has spawned a ing_xen_extract.
+[18:38:39	]Kash'Ash ran 'take' on item 'Antlion Extract' (#4122)
+[18:38:39	]Kash'Ash has gained a 'Antlion Extract' #4122.
+[18:38:49	][IC] Kash'Ash: Ah...
+[18:38:53	][IC] Kash'Ash: Shaaaaa!
+[18:38:58	][IC] Kash'Ash: Dey'nach? *Unintelligible*.
+[18:39:02	][IC] Kash'Ash: Dey'nahh?
+[18:39:05	][IC] C24:RL.UNION-14: <:: XD. ::>
+[18:39:08	][IC] C24:RL.UNION-14: <:: Poprawiles. ::>
+[18:39:09	]Kash'Ash ran 'Consume' on item 'Antlion Extract' (#4122)
+[18:39:11	][IC] C24:RL.UNION-14: <:: Te wiadomosci systemwoe? ::>
+[18:39:28	][IC] Kash'Ash: Says (to you).
+[18:39:30	][IC] Kash'Ash: Chuj.
+[18:39:31	][IC] Kash'Ash: Xd.
+[18:39:52	][IC] Kash'Ash: Mówi (do Ciebie)?
+[18:39:59	][IC] C24:RL.UNION-14: <:: Tak. ::>
+[18:43:42	]Inkaaz has unloaded their "Kash'Ash" character.
+[18:43:45	]Inkaaz loaded the character 'S10/OWS.GHOST-14'
+[18:43:50	]S10/OWS.GHOST-14 is fully healed.
+[18:43:55	][SPA] S10/OWS.GHOST-14: dwafgwa
+[18:45:55	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[18:45:58	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[18:47:50	][WSPA] S10/OWS.GHOST-14: dfwa
+[18:50:57	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[18:51:01	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[18:51:22	]S10/OWS.GHOST-14 used command '/Radio ^'.
+[18:52:57	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[18:55:25	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[18:55:26	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[18:55:26	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[18:55:27	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[19:00:09	]Inkaaz has connected.
+[19:00:37	]Inkaaz loaded the character 'Kotek Loxiego'
+[19:00:42	]Kotek Loxiego is fully healed.
+[19:00:43	][IC] Kotek Loxiego: Fwa.
+[19:00:59	]tomasz hedzik has connected.
+[19:01:23	]Inkaaz has unloaded their "Kotek Loxiego" character.
+[19:01:26	]Inkaaz loaded the character 'S10/OWS.GHOST-14'
+[19:01:31	]S10/OWS.GHOST-14 is fully healed.
+[19:01:34	]tomasz hedzik loaded the character 'C24:RL.UNION-14'
+[19:01:37	]S10/OWS.GHOST-14 used command '/BecomeClass EOW'.
+[19:01:51	]S10/OWS.GHOST-14 used command '/CharSetClass ^ EOW'.
+[19:01:54	]S10/OWS.GHOST-14 used command '/CharSetClass ^ ORD'.
+[19:02:19	]Lorf has connected.
+[19:02:30	]S10/OWS.GHOST-14 used command '/CharSetClass ^ Elite'.
+[19:03:01	]S10/OWS.GHOST-14 ran 'Equip' on item 'Combine PDA' (#2787)
+[19:03:07	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[19:03:11	]Lorf (STEAM_0:0:83902827) deleted character 'C17:RCT.YELLO-91'
+[19:03:14	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[19:03:19	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[19:03:25	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[19:03:28	]S10/OWS.GHOST-14 has gained level 42 in the Prędkość skill.
+[19:03:41	]Lorf created the character 'C17:RCT.YELLO-06'
+[19:03:41	]Lorf has gained level 5 in the Broń palna skill.
+[19:03:41	]Lorf has gained level 10 in the Prędkość skill.
+[19:03:41	]Lorf loaded the character 'C17:RCT.YELLO-06'
+[19:03:41	]C17:RCT.YELLO-06 has gained a '#18515's Identity Card' #4123.
+[19:03:41	]C17:RCT.YELLO-06 has gained a 'Combine PDA' #4124.
+[19:03:41	]C17:RCT.YELLO-06 has gained a 'CP Uniform' #4125.
+[19:03:41	]C17:RCT.YELLO-06 has gained a 'CP Mask' #4126.
+[19:03:42	]C17:RCT.YELLO-06 has gained a 'Handheld Radio' #4127.
+[19:03:42	]C17:RCT.YELLO-06 has gained a 'Small Bag' #4128.
+[19:03:42	]C17:RCT.YELLO-06 has gained a 'Large Bag' #4129.
+[19:04:18	]C17:RCT.YELLO-06 entered observer.
+[19:04:29	]C17:RCT.YELLO-06 exited observer at their location.
+[19:04:29	]C17:RCT.YELLO-06 entered observer.
+[19:04:31	][OOC] C24:RL.UNION-14: Podajcie mi jakikolwiek nick IC obywatela
+[19:04:35	][OOC] C24:RL.UNION-14: Ktory jest w bazie
+[19:04:38	][OOC] C17:RCT.YELLO-06: marta
+[19:04:41	][OOC] C24:RL.UNION-14: marta, dobrze
+[19:04:50	]C17:RCT.YELLO-06 ran 'Equip' on item 'Combine PDA' (#4124)
+[19:05:02	][OOC] C24:RL.UNION-14: Nie znajduje mi jej
+[19:05:03	]Lorf has unloaded their "C17:RCT.YELLO-06" character.
+[19:05:11	]Lorf loaded the character 'C17:RCT.YELLO-06'
+[19:05:13	]C24:RL.UNION-14 used command '/PTCreate'.
+[19:05:15	][OOC] C17:RCT.YELLO-06: Jednak maria
+[19:05:16	]C17:RCT.YELLO-06 entered observer.
+[19:05:26	][OOC] C24:RL.UNION-14: jest :)
+[19:05:42	][OOC] C24:RL.UNION-14: Zróbcie jakieś zgłoszenie wykroczeń
+[19:05:47	][OOC] C24:RL.UNION-14: W sensie dajcie dwa
+[19:05:48	]S10/OWS.GHOST-14 entered observer.
+[19:05:49	]S10/OWS.GHOST-14 exited observer at their location.
+[19:05:52	][OOC] C24:RL.UNION-14: Jedno jakieś sensowne a drugie gówno warte
+[19:05:53	]Lorf has unloaded their "C17:RCT.YELLO-06" character.
+[19:05:57	]Lorf loaded the character 'Maria'
+[19:05:59	]Maria entered observer.
+[19:06:25	]Maria has spawned a 'Entity [487][ix_terminal]'.
+[19:06:27	]Maria exited observer at their location.
+[19:06:32	]S10/OWS.GHOST-14 has spawned a 'Entity [488][ix_terminal]'.
+[19:06:43	]Inkaaz has unloaded their "S10/OWS.GHOST-14" character.
+[19:06:50	]Inkaaz loaded the character 'Hiroto Nakamura'
+[19:06:52	]Inkaaz has unloaded their "Hiroto Nakamura" character.
+[19:06:55	]C24:RL.UNION-14 used command '/PTCreate'.
+[19:06:55	]Inkaaz loaded the character 'Kotek Loxiego'
+[19:06:57	]Kotek Loxiego entered observer.
+[19:07:02	]Inkaaz has unloaded their "Kotek Loxiego" character.
+[19:07:07	]Maria entered observer.
+[19:07:29	]Lorf has unloaded their "Maria" character.
+[19:07:41	]Lorf (STEAM_0:0:83902827) deleted character 'C17:RCT.YELLO-06'
+[19:07:58	]Lorf created the character 'Jan Koko'
+[19:07:58	]Lorf loaded the character 'Jan Koko'
+[19:07:59	]Jan Koko has gained a 'Light Grey Armband' #4130.
+[19:07:59	]Jan Koko has gained a '#19450's Identity Card' #4131.
+[19:08:00	]Jan Koko entered observer.
+[19:08:08	]Jan Koko exited observer at their location.
+[19:08:37	]Jan Koko entered observer.
+[19:08:37	]Jan Koko exited observer at their location.
+[19:09:00	]Jan Koko has given himself a secn_radio.
+[19:09:00	]Jan Koko has gained a 'Security Council Radio' #4132.
+[19:09:04	]Jan Koko has given himself a pda.
+[19:09:04	]Jan Koko has gained a 'Combine PDA' #4133.
+[19:09:07	]Jan Koko ran 'Equip' on item 'Combine PDA' (#4133)
+[19:09:55	]Jan Koko entered observer.
+[19:10:02	]Jan Koko ran 'Equip' on item 'Light Grey Armband' (#4130)
+[19:10:32	]C24:RL.UNION-14 used command '/PTCreate'.
+[19:10:34	]C24:RL.UNION-14 used command '/PTCreate 5'.
+[19:10:44	]C24:RL.UNION-14 used command '/PTLeave'.
+[19:10:46	]C24:RL.UNION-14 used command '/PTJoin 5'.
+[19:10:48	]C24:RL.UNION-14 used command '/PTLeave'.
+[19:11:19	]Jan Koko exited observer at their location.
+[19:11:19	]Jan Koko entered observer.
+[19:11:28	]Jan Koko exited observer at their location.
+[19:12:11	]Jan Koko has given himself a cca_heartwick.
+[19:12:11	]Jan Koko has gained a 'The Heartwick' #4134.
+[19:12:12	]Jan Koko has given himself a cca_legs_heartwick.
+[19:12:12	]Jan Koko has gained a 'The Heartwick Trousers' #4135.
+[19:12:25	]Inkaaz has gone afk.
+[19:12:37	]Jan Koko has given himself a cca_bureaucrat.
+[19:12:37	]Jan Koko has gained a 'The Bureaucrat' #4136.
+[19:12:38	]Jan Koko has given himself a cca_legs_bureaucrat.
+[19:12:38	]Jan Koko has gained a 'The Bureaucrat Trousers' #4137.
+[19:12:50	]Jan Koko has given himself a head_gasmask2.
+[19:12:50	]Jan Koko has gained a 'M40' #4138.
+[19:12:58	]Jan Koko has given himself a shoes_dress_shoes.
+[19:12:58	]Jan Koko has gained a 'Dress Shoes' #4139.
+[19:13:04	]Jan Koko has given himself a hands_medical_gloves.
+[19:13:04	]Jan Koko has gained a 'Medical Gloves' #4140.
+[19:13:38	]Inkaaz created the character 'Giovanni Rossi'
+[19:13:38	]Inkaaz loaded the character 'Giovanni Rossi'
+[19:13:38	]Giovanni Rossi is no longer afk. Total time spent AFK: 370
+[19:13:38	]Giovanni Rossi has gained a 'Light Grey Armband' #4141.
+[19:13:38	]Giovanni Rossi has gained a '#20387's Identity Card' #4142.
+[19:13:40	]Giovanni Rossi entered observer.
+[19:13:48	]Giovanni Rossi exited observer at their location.
+[19:14:01	][OOC] C24:RL.UNION-14: OK mam nagrane CAD
+[19:14:10	][OOC] C24:RL.UNION-14: teraz mozna te kamery
+[19:14:11	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[19:14:24	][LOOC] Giovanni Rossi: nie wiem czy działają mordo
+[19:14:26	]Jan Koko has given himself a largebag.
+[19:14:26	]Jan Koko has gained a 'Large Bag' #4143.
+[19:14:29	][OOC] Giovanni Rossi: nie wiem czy działają
+[19:14:36	]Giovanni Rossi ran 'Equip' on item 'Light Grey Armband' (#4141)
+[19:14:39	]Giovanni Rossi ran 'EquipUn' on item 'Light Grey Armband' (#4141)
+[19:14:40	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[19:14:41	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[19:14:41	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[19:14:42	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[19:14:44	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[19:14:46	][IC] C24:RL.UNION-14: <:: Na pana jana koko. ::>
+[19:14:47	][IC] C24:RL.UNION-14: <:: Zglosilem. ::>
+[19:14:49	]Giovanni Rossi entered observer.
+[19:14:49	][IC] C24:RL.UNION-14: <:: B.O.L. ::>
+[19:14:50	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[19:14:51	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[19:14:54	][IC] C24:RL.UNION-14: <:: Co ja taki duzy. ::>
+[19:14:57	]Giovanni Rossi exited observer at their location.
+[19:14:58	][IC] Jan Koko: XD.
+[19:14:59	][IC] C24:RL.UNION-14: <:: Ktos mi kurwa size dal. ::>
+[19:15:02	][IC] C24:RL.UNION-14: <:: A nie. ::>
+[19:15:05	][IC] C24:RL.UNION-14: <:: To ty sobie zmineiles. ::>
+[19:15:06	][IC] Jan Koko: No chyba że ja jestem mały.
+[19:15:07	][IC] C24:RL.UNION-14: <:: XD. ::>
+[19:15:10	][IC] Jan Koko: Ale dlaczego jestem taki mały.
+[19:15:13	][IC] C24:RL.UNION-14: <:: Oni wzrost uwzgledniaja? ::>
+[19:15:18	][IC] C24:RL.UNION-14: <:: O KURWA. ::>
+[19:15:21	][IC] C24:RL.UNION-14: <:: Ale zajebiste. ::>
+[19:15:26	][IC] Giovanni Rossi: Nie on chyba.
+[19:15:29	][IC] Giovanni Rossi: Zmienione miał.
+[19:15:35	][IC] Giovanni Rossi: Aż sprawdzę.
+[19:15:36	][IC] Jan Koko: Nic sobie nie zmieniałem.
+[19:15:38	]Inkaaz has unloaded their "Giovanni Rossi" character.
+[19:15:40	][IC] Jan Koko: To nowa postać.
+[19:15:45	]C24:RL.UNION-14 has spawned a 'NPC [489][npc_combine_camera]'.
+[19:15:56	]Inkaaz created the character 'Andrea Bozo'
+[19:15:56	]Inkaaz loaded the character 'Andrea Bozo'
+[19:15:56	]Andrea Bozo has gained a 'Light Grey Armband' #4144.
+[19:15:56	]Andrea Bozo has gained a '#21326's Identity Card' #4145.
+[19:16:00	]Andrea Bozo ran 'Equip' on item 'Light Grey Armband' (#4144)
+[19:16:00	][IC] C24:RL.UNION-14: <:: We podejsc do tej kamery. ::>
+[19:16:01	]Andrea Bozo entered observer.
+[19:16:08	]Andrea Bozo exited observer at their location.
+[19:16:11	][IC] Andrea Bozo: XDD.
+[19:16:13	][IC] Andrea Bozo: Halo.
+[19:16:28	][IC] Andrea Bozo: 180vs179.
+[19:16:31	][IC] C24:RL.UNION-14: <:: XD. ::>
+[19:16:38	]Inkaaz has unloaded their "Andrea Bozo" character.
+[19:16:39	][IC] Jan Koko: Niby spoko ale trochę przesada.
+[19:16:44	][IC] C24:RL.UNION-14: <:: Chujowe nie dziala. ::>
+[19:16:53	][IC] C24:RL.UNION-14: <:: Wczesniej robilo chyba zdjecia. ::>
+[19:16:54	][IC] C24:RL.UNION-14: <:: Albo czekaj wiem. ::>
+[19:17:02	][IC] Jan Koko: Scanner można pokazać.
+[19:17:05	][IC] Jan Koko: On robi zdjecia.
+[19:17:18	]Lorf has unloaded their "Jan Koko" character.
+[19:17:19	]C24:RL.UNION-14 has spawned a 'Entity [486][ix_console]'.
+[19:17:24	]Lorf (STEAM_0:0:83902827) deleted character 'S10:SCN-5'
+[19:17:33	]Inkaaz created the character 'Giga czad'
+[19:17:33	]Inkaaz loaded the character 'Giga czad'
+[19:17:34	]Giga czad has gained a 'Flashlight' #4146.
+[19:17:34	]Giga czad has gained a 'Black Armband' #4147.
+[19:17:34	]Giga czad has gained a '#22267's Identity Card' #4148.
+[19:17:34	]Giga czad has gained a 'Civilian Jumpsuit' #4149.
+[19:17:34	]Giga czad has gained a 'Jumpsuit Trousers' #4150.
+[19:17:34	]Giga czad has gained a 'Worn Dark Shoes' #4151.
+[19:17:36	]Giga czad entered observer.
+[19:17:44	]Giga czad exited observer at their location.
+[19:17:46	]Lorf loaded the character '21121212121'
+[19:17:51	]21121212121 used command '/PlyWhitelist ^ scanner'.
+[19:17:55	]21121212121 used command '/PlyWhitelist ^ scan'.
+[19:17:55	][IC] C24:RL.UNION-14: <:: Chujnia nie dziala. ::>
+[19:17:59	]21121212121 used command '/PlyWhitelist ^ dispatch'.
+[19:18:00	][IC] C24:RL.UNION-14: <:: To combine camera pokazmy. ::>
+[19:18:00	][IC] Giga czad: Dobrze wiemy.
+[19:18:02	][IC] Giga czad: Ze to przecietny.
+[19:18:03	][IC] Giga czad: Obywatel.
+[19:18:04	]21121212121 used command '/PlyWhitelist ^ overwatch'.
+[19:18:07	][IC] Giga czad: Bedzie tak wygladal.
+[19:18:07	]Lorf has unloaded their "21121212121" character.
+[19:18:12	][OOC] C24:RL.UNION-14: jak Combine Camera dziala?
+[19:18:16	][OOC] C24:RL.UNION-14: w sensie SCanner
+[19:18:17	][OOC] C24:RL.UNION-14: sory
+[19:18:24	]Lorf created the character 'S10:SCN-3'
+[19:18:24	]Lorf loaded the character 'S10:SCN-3'
+[19:18:25	]Giga czad used command '/PlyWhitelist ^ scanner'.
+[19:18:29	][OOC] C24:RL.UNION-14: ktos pamietam latal 
+[19:18:31	][OOC] C24:RL.UNION-14: i zdjecia robil
+[19:18:31	][OOC] Giga czad: po nicku
+[19:18:45	]S10:SCN-3 ran SAM command 'goto' with arguments: 'unio'
+[19:18:49	]Giga czad entered observer.
+[19:18:50	]Giga czad exited observer at their location.
+[19:18:51	]Giga czad entered observer.
+[19:18:54	]Giga czad exited observer at their location.
+[19:19:00	]Giga czad ran SAM command 'bring' with arguments: 'scn'
+[19:19:02	]Giga czad entered observer.
+[19:19:03	][OOC] C24:RL.UNION-14: i co wtedy dostajesz
+[19:19:03	]Giga czad exited observer at their location.
+[19:19:05	][OOC] C24:RL.UNION-14: pillsa?
+[19:19:10	][OOC] Giga czad: niee entity
+[19:19:12	][OOC] Giga czad: jest całe
+[19:19:23	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[19:19:25	]Giga czad entered observer.
+[19:19:27	]Giga czad exited observer at their location.
+[19:19:28	]Giga czad entered observer.
+[19:19:28	]C24:RL.UNION-14 ran SAM command 'noclip' with arguments: ''
+[19:19:29	]Giga czad exited observer at their location.
+[19:19:38	][OOC] S10:SCN-3: robie zdjęcia?
+[19:19:45	][OOC] C24:RL.UNION-14: tak
+[19:20:02	][IC] Giga czad: Aaaaaaagh!
+[19:20:10	][OOC] C24:RL.UNION-14: Dobra, daj chwile Lorf - nie piszcie nic na czat'cie. Zrób zdjęcie mnie i inkaaza jak skocze
+[19:20:12	][IC] Giga czad: God... Damn... It...
+[19:21:05	][OOC] S10:SCN-3: Nie wiem czy na zdjęciu widać że cp jest na niebiesko
+[19:21:09	][OOC] C24:RL.UNION-14: widac
+[19:21:16	][IC] Giga czad: *Coughing*.
+[19:21:24	][IC] Giga czad: Ugh... Agh.
+[19:21:27	][OOC] C24:RL.UNION-14: odczekaj chwilke jak stane w miejscu i wtedy - po prostu zeby bylo zdjecie osobno mnie i inkaaza
+[19:21:34	]Inkaaz has unloaded their "Giga czad" character.
+[19:21:38	]Inkaaz loaded the character 'Giovanni Rossi'
+[19:21:39	]Giovanni Rossi entered observer.
+[19:21:41	][OOC] C24:RL.UNION-14: i potem w scannera tez sie zmienie
+[19:21:44	]Giovanni Rossi exited observer at their location.
+[19:21:47	][OOC] S10:SCN-3: ok
+[19:22:50	]Giovanni Rossi used command '/ActStand 2'.
+[19:22:51	]Giovanni Rossi used command '/ExitAct'.
+[19:22:52	]Giovanni Rossi used command '/ActStand 3'.
+[19:22:53	]Giovanni Rossi used command '/ExitAct'.
+[19:22:54	]Giovanni Rossi used command '/ActStand 4'.
+[19:23:01	]Giovanni Rossi used command '/ExitAct'.
+[19:23:09	]S10:SCN-3 used command '/VisorStatus offline'.
+[19:23:22	]S10:SCN-3 used command '/VisorStatus blue'.
+[19:23:22	][OOC] C24:RL.UNION-14: ok mam
+[19:23:26	]Lorf has unloaded their "S10:SCN-3" character.
+[19:23:30	]Lorf loaded the character 'Jan Koko'
+[19:23:34	]Jan Koko entered observer.
+[19:23:41	]Jan Koko exited observer at their location.
+[19:23:48	]S10:SCN-5 used command '/CharSetName Union S10:SCN-5'.
+[19:23:55	][OOC] S10:SCN-5: i teraz pillsa zazywam ta?
+[19:24:05	][OOC] Jan Koko: Nie, nadajesz sobie wl overwatch ai
+[19:24:11	][OOC] S10:SCN-5: ok
+[19:24:23	]S10:SCN-5 used command '/PlyWhitelist scn-5 OverwatchAI'.
+[19:24:27	]S10:SCN-5 used command '/PlyWhitelist scn-5 Overwatch'.
+[19:24:33	][OOC] Jan Koko: Jak stworzysz postać to wyłącz 3 osobe a potem klikasz alt aby uruchomić kamere
+[19:24:42	]tomasz hedzik created the character 'S10:SCN-3'
+[19:24:43	]tomasz hedzik loaded the character 'S10:SCN-3'
+[19:25:04	]Lorf has unloaded their "Jan Koko" character.
+[19:25:12	]Lorf (STEAM_0:0:83902827) deleted character '21121212121'
+[19:25:39	]Lorf created the character 'Andre Kakas'
+[19:25:40	]Lorf loaded the character 'Andre Kakas'
+[19:25:40	]Andre Kakas has gained a 'Light Grey Armband' #4152.
+[19:25:40	]Andre Kakas has gained a '#25102's Identity Card' #4153.
+[19:25:43	]Andre Kakas entered observer.
+[19:25:48	]Andre Kakas exited observer at their location.
+[19:26:00	]Andre Kakas entered observer.
+[19:26:00	]Andre Kakas exited observer at their location.
+[19:26:42	]Giovanni Rossi used command '/ViewInfo ^'.
+[19:26:53	][OOC] S10:SCN-3: ok zajebiscie
+[19:26:55	][OOC] S10:SCN-3: super jest ta kamera
+[19:26:58	][OOC] Andre Kakas: Pokazujemy ota?
+[19:27:02	][OOC] Andre Kakas: oni są chyba na czerwono
+[19:27:03	]Inkaaz has unloaded their "Giovanni Rossi" character.
+[19:27:07	][OOC] S10:SCN-3: mozemy
+[19:27:08	]Inkaaz loaded the character 'Giovanni Rossi'
+[19:27:11	]Lorf has unloaded their "Andre Kakas" character.
+[19:27:11	]Giovanni Rossi entered observer.
+[19:27:12	]Giovanni Rossi exited observer at their location.
+[19:27:14	]Giovanni Rossi entered observer.
+[19:27:16	]Lorf loaded the character 'S10/OWS.GHOST-13'
+[19:27:16	]Giovanni Rossi exited observer at their location.
+[19:27:18	]S10/OWS.GHOST-13 entered observer.
+[19:27:20	][IC] Giovanni Rossi: *Coughing*.
+[19:27:21	]S10/OWS.GHOST-13 exited observer at their location.
+[19:27:26	][OOC] S10/OWS.GHOST-13: jestem na czerwono?
+[19:27:28	][OOC] S10:SCN-3: tak
+[19:27:30	][OOC] S10/OWS.GHOST-13: co to jest XDD
+[19:27:33	][OOC] S10:SCN-3: ale jestes tez bardzo malutki
+[19:27:34	][OOC] S10/OWS.GHOST-13: Ile kurwa ja mam
+[19:27:51	][OOC] S10/OWS.GHOST-13: Trzeba ten wzrost wyjebać 
+[19:27:55	][OOC] S10/OWS.GHOST-13: bo to przesada xd
+[19:28:06	][OOC] S10/OWS.GHOST-13: Stworze postać normalnego wzrostu poczekaj
+[19:28:07	]Lorf has unloaded their "S10/OWS.GHOST-13" character.
+[19:28:15	]Lorf loaded the character 'S10:SCN-3'
+[19:28:17	]Lorf has unloaded their "S10:SCN-3" character.
+[19:28:20	]Lorf (STEAM_0:0:83902827) deleted character 'S10:SCN-3'
+[19:28:36	]Lorf created the character 'S10/OWS.GHOST-31'
+[19:28:36	]Lorf has gained level 40 in the Broń palna skill.
+[19:28:36	]Lorf has gained level 40 in the Prędkość skill.
+[19:28:36	]Lorf loaded the character 'S10/OWS.GHOST-31'
+[19:28:36	]S10/OWS.GHOST-31 has gained a 'Small Bag' #4154.
+[19:28:36	]S10/OWS.GHOST-31 has gained a 'Large Bag' #4155.
+[19:28:36	]S10/OWS.GHOST-31 has gained a 'Flashlight' #4156.
+[19:28:36	]S10/OWS.GHOST-31 has gained a 'Combine PDA' #4157.
+[19:28:36	]S10/OWS.GHOST-31 has gained a 'OTA Uniform' #4158.
+[19:28:36	]S10/OWS.GHOST-31 has gained a 'OTA Mask' #4159.
+[19:28:36	]S10/OWS.GHOST-31 has gained a 'Rappel Gear' #4160.
+[19:28:36	]S10/OWS.GHOST-31 has gained a 'Magazine Pouch' #4161.
+[19:28:36	]S10/OWS.GHOST-31 has gained a 'Ammunition Pouch' #4162.
+[19:28:39	]S10/OWS.GHOST-31 entered observer.
+[19:28:43	]S10/OWS.GHOST-31 exited observer at their location.
+[19:29:27	]Giovanni Rossi used command '/ViewInfo ^'.
+[19:29:42	]Giovanni Rossi entered observer.
+[19:29:42	]Giovanni Rossi exited observer at their location.
+[19:29:44	]Inkaaz has unloaded their "Giovanni Rossi" character.
+[19:29:50	]Inkaaz loaded the character 'Giovanni Rossi'
+[19:29:54	][OOC] S10:SCN-3: ok mam
+[19:30:08	][OOC] S10:SCN-3: chyba tyle co?
+[19:30:14	][OOC] S10/OWS.GHOST-31: Bariery można pokazać niby
+[19:30:18	][OOC] S10/OWS.GHOST-31: bo fajnie działają
+[19:30:24	][OOC] S10:SCN-3: No to dawać
+[19:30:27	][OOC] S10:SCN-3: ja postąc zmieniam
+[19:30:32	][OOC] Giovanni Rossi: to wszystko na raz tak pokazujemy?
+[19:30:36	][OOC] S10:SCN-3: albo ch8uj
+[19:30:37	][OOC] S10:SCN-3: combine camera
+[19:30:39	][OOC] S10:SCN-3: PDA
+[19:30:40	][OOC] S10:SCN-3: i tyle
+[19:30:48	][OOC] S10:SCN-3: znaczy scanner
+[19:30:59	][OOC] S10:SCN-3: dobra ide to sklejac mam nadzieje ze wszystko jest na miejscu
+[19:31:05	][OOC] S10:SCN-3: jak nie bedzie to sie zwolamy jeszcze ra
+[19:31:11	]tomasz hedzik (STEAM_0:0:422062415) has disconnected.
+[19:31:17	]S10/OWS.GHOST-31 used command '/Announce koniec kurwa'.
+[19:31:25	]S10/OWS.GHOST-31 used command '/Announce wypierdalać do domu'.
+[19:31:50	]Giovanni Rossi has disabled the willardresize plugin for next restart.
+[19:32:28	]S10/OWS.GHOST-31 has given himself a breach.
+[19:32:28	]S10/OWS.GHOST-31 has gained a 'Breaching Charge' #4163.
+[19:32:31	]S10/OWS.GHOST-31 ran 'Place' on item 'Breaching Charge' (#4163)
+[19:33:31	]S10/OWS.GHOST-31 ran 'Equip' on item 'Rappel Gear' (#4160)
+[19:33:36	]S10/OWS.GHOST-31 entered observer.
+[19:33:39	]S10/OWS.GHOST-31 exited observer at their location.
+[19:33:41	]S10/OWS.GHOST-31 entered observer.
+[19:33:45	]S10/OWS.GHOST-31 exited observer at their location.
+[19:33:59	]S10/OWS.GHOST-31 entered observer.
+[19:34:02	]S10/OWS.GHOST-31 exited observer at their location.
+[19:34:04	]S10/OWS.GHOST-31 entered observer.
+[19:34:14	]S10/OWS.GHOST-31 exited observer at their location.
+[19:34:24	]S10/OWS.GHOST-31 entered observer.
+[19:34:28	]S10/OWS.GHOST-31 exited observer at their location.
+[19:34:31	]S10/OWS.GHOST-31 has taken 14 damage from worldspawn.
+[19:34:31	]S10/OWS.GHOST-31 entered observer.
+[19:34:34	]S10/OWS.GHOST-31 exited observer at their location.
+[19:34:41	]S10/OWS.GHOST-31 entered observer.
+[19:34:45	]S10/OWS.GHOST-31 exited observer at their location.
+[19:34:56	]S10/OWS.GHOST-31 entered observer.
+[19:34:59	]S10/OWS.GHOST-31 exited observer at their location.
+[19:35:31	]Giovanni Rossi entered observer.
+[19:35:31	]Giovanni Rossi exited observer at their location.
+[19:36:07	]Giovanni Rossi has given himself a fiveseven.
+[19:36:07	]Giovanni Rossi has gained a 'FiveSeven' #4164.
+[19:36:10	]Giovanni Rossi ran 'Equip' on item 'FiveSeven' (#4164)
+[19:36:50	]S10/OWS.GHOST-31 entered observer.
+[19:36:54	]S10/OWS.GHOST-31 exited observer at their location.
+[19:37:10	]S10/OWS.GHOST-31 has given himself a breach.
+[19:37:10	]S10/OWS.GHOST-31 has gained a 'Breaching Charge' #4165.
+[19:37:10	]S10/OWS.GHOST-31 entered observer.
+[19:37:13	]S10/OWS.GHOST-31 exited observer at their location.
+[19:37:25	]S10/OWS.GHOST-31 ran 'Place' on item 'Breaching Charge' (#4165)
+[19:37:34	]Giovanni Rossi entered observer.
+[19:37:36	]Giovanni Rossi exited observer at their location.
+[19:37:49	]S10/OWS.GHOST-31 ran 'drop' on item 'Ammunition Pouch' (#4162)
+[19:37:49	]S10/OWS.GHOST-31 has lost a 'Ammunition Pouch' #4162.
+[19:37:52	]S10/OWS.GHOST-31 ran 'take' on item 'Ammunition Pouch' (#4162)
+[19:37:52	]S10/OWS.GHOST-31 has gained a 'Ammunition Pouch' #4162.
+[19:38:22	]S10/OWS.GHOST-31 ran 'drop' on item 'Magazine Pouch' (#4161)
+[19:38:22	]S10/OWS.GHOST-31 has lost a 'Magazine Pouch' #4161.
+[19:38:32	]S10/OWS.GHOST-31 ran 'take' on item 'Magazine Pouch' (#4161)
+[19:38:32	]S10/OWS.GHOST-31 has gained a 'Magazine Pouch' #4161.
+[19:38:38	]S10/OWS.GHOST-31 entered observer.
+[19:38:40	]S10/OWS.GHOST-31 exited observer at their location.
+[19:38:52	]Giovanni Rossi ran 'drop' on item 'FiveSeven' (#4164)
+[19:38:52	]Giovanni Rossi has lost a 'FiveSeven' #4164.
+[19:39:03	]S10/OWS.GHOST-31 entered observer.
+[19:39:05	]S10/OWS.GHOST-31 exited observer at their location.
+[19:39:13	]S10/OWS.GHOST-31 used command '/Amputate'.
+[19:39:15	]S10/OWS.GHOST-31 used command '/Amputate'.
+[19:39:30	]S10/OWS.GHOST-31 has given himself a zip_tie.
+[19:39:30	]S10/OWS.GHOST-31 has gained a 'Zip Tie' #4166.
+[19:39:31	]S10/OWS.GHOST-31 has given himself a wn_zip_tie.
+[19:39:31	]S10/OWS.GHOST-31 has gained a 'Ziptie' #4167.
+[19:39:40	]S10/OWS.GHOST-31 entered observer.
+[19:39:43	]S10/OWS.GHOST-31 ran 'Use' on item 'Zip Tie' (#4166)
+[19:39:45	]S10/OWS.GHOST-31 exited observer at their location.
+[19:39:59	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the left leg dealing 0 damage (CritChance was 1.01).
+[19:39:59	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the left leg dealing 0 damage (CritChance was 1.01).
+[19:39:59	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the left leg dealing 0 damage (CritChance was 1.01).
+[19:39:59	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the left leg dealing 0 damage (CritChance was 1.01).
+[19:39:59	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the left leg dealing 7 damage (CritChance was 1.01).
+[19:39:59	]Giovanni Rossi has taken 6 damage from S10/OWS.GHOST-31.
+[19:40:04	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the right leg dealing 7 damage (CritChance was 1.01).
+[19:40:04	]Giovanni Rossi has taken 6 damage from S10/OWS.GHOST-31.
+[19:40:16	]S10/OWS.GHOST-31 entered observer.
+[19:40:17	]S10/OWS.GHOST-31 exited observer at their location.
+[19:40:43	]S10/OWS.GHOST-31 entered observer.
+[19:40:50	]S10/OWS.GHOST-31 exited observer at their location.
+[19:40:51	]S10/OWS.GHOST-31 entered observer.
+[19:40:52	]S10/OWS.GHOST-31 exited observer at their location.
+[19:40:57	]S10/OWS.GHOST-31 entered observer.
+[19:40:58	]S10/OWS.GHOST-31 exited observer at their location.
+[19:41:07	]Giovanni Rossi entered observer.
+[19:41:09	]Giovanni Rossi exited observer at their location.
+[19:41:09	]Giovanni Rossi entered observer.
+[19:41:10	]Giovanni Rossi exited observer at their location.
+[19:41:16	]S10/OWS.GHOST-31 entered observer.
+[19:41:19	]S10/OWS.GHOST-31 exited observer at their location.
+[19:41:25	]Giovanni Rossi entered observer.
+[19:41:25	]Giovanni Rossi exited observer at their location.
+[19:41:54	]S10/OWS.GHOST-31 entered observer.
+[19:41:59	]S10/OWS.GHOST-31 exited observer at their location.
+[19:43:05	]Giovanni Rossi entered observer.
+[19:43:11	]S10/OWS.GHOST-31 entered observer.
+[19:43:32	]Giovanni Rossi exited observer at their location.
+[19:43:33	]Giovanni Rossi has pressed the "BOE_Applause" map button.
+[19:43:36	]Giovanni Rossi has pressed the "BOE_Intro" map button.
+[19:43:38	]Giovanni Rossi has pressed the "BOE_Set2Camera" map button.
+[19:43:48	]S10/OWS.GHOST-31 exited observer at their location.
+[19:43:58	]S10/OWS.GHOST-31 used command '/ActType'.
+[19:43:59	]S10/OWS.GHOST-31 used command '/ExitAct'.
+[19:44:03	]S10/OWS.GHOST-31 used command '/ActType'.
+[19:44:08	]Giovanni Rossi used command '/ActStand 5'.
+[19:44:16	]Giovanni Rossi used command '/ExitAct'.
+[19:44:17	]S10/OWS.GHOST-31 used command '/ExitAct'.
+[19:44:23	]S10/OWS.GHOST-31 has pressed the "BOE_Laugher" map button.
+[19:44:30	]Giovanni Rossi is fully healed.
+[19:44:32	]S10/OWS.GHOST-31 has pressed the "BOE_TechnicalIssues" map button.
+[19:44:35	]Giovanni Rossi entered observer.
+[19:44:36	]Giovanni Rossi exited observer at their location.
+[19:44:44	]S10/OWS.GHOST-31 has pressed the "BOE_Intermission" map button.
+[19:44:47	]S10/OWS.GHOST-31 has pressed the "BOE_Set2Camera" map button.
+[19:44:54	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the chest dealing 0 damage (CritChance was 1.01).
+[19:44:54	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the chest dealing 25 damage (CritChance was 1.01).
+[19:44:54	]Giovanni Rossi has taken 25 damage from S10/OWS.GHOST-31.
+[19:44:54	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the chest dealing 0 damage (CritChance was 1.01).
+[19:44:54	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the chest dealing 25 damage (CritChance was 1.01).
+[19:44:54	]Giovanni Rossi has taken 25 damage from S10/OWS.GHOST-31.
+[19:44:54	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the chest dealing 0 damage (CritChance was 1.01).
+[19:44:54	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the chest dealing 25 damage (CritChance was 1.01).
+[19:44:54	]Giovanni Rossi has taken 25 damage from S10/OWS.GHOST-31.
+[19:44:54	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the chest dealing 0 damage (CritChance was 1.01).
+[19:44:54	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the chest dealing 25 damage (CritChance was 1.01).
+[19:44:54	]Giovanni Rossi has taken 25 damage from S10/OWS.GHOST-31.
+[19:44:56	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the right leg dealing 0 damage (CritChance was 1.01).
+[19:44:56	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the right leg dealing 7 damage (CritChance was 1.01).
+[19:44:56	]Giovanni Rossi has taken 6 damage from S10/OWS.GHOST-31.
+[19:44:56	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the chest dealing 0 damage (CritChance was 1.01).
+[19:44:56	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the chest dealing 25 damage (CritChance was 1.01).
+[19:44:56	]Giovanni Rossi has taken 25 damage from S10/OWS.GHOST-31.
+[19:44:57	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the head dealing 0 damage (CritChance was 1.01).
+[19:44:57	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the head dealing 27 damage (CritChance was 1.01).
+[19:44:57	]Giovanni Rossi has taken 27 damage from S10/OWS.GHOST-31.
+[19:44:57	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the head dealing 0 damage (CritChance was 1.01).
+[19:44:57	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the head dealing 27 damage (CritChance was 1.01).
+[19:44:57	]Giovanni Rossi has taken 27 damage from S10/OWS.GHOST-31.
+[19:44:57	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the chest dealing 0 damage (CritChance was 1.01).
+[19:44:57	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the chest dealing 0 damage (CritChance was 1.01).
+[19:44:57	]S10/OWS.GHOST-31 has critically hit Giovanni Rossi in the chest dealing 25 damage (CritChance was 1.01).
+[19:44:57	]Giovanni Rossi has taken 25 damage from S10/OWS.GHOST-31.
+[19:44:57	]S10/OWS.GHOST-31 has taken 1000 damage from Giovanni Rossi.
+[19:45:00	]S10/OWS.GHOST-31 entered observer.
+[19:45:01	]Giovanni Rossi entered observer.
+[19:45:03	]Giovanni Rossi exited observer at their location.
+[19:45:05	]Giovanni Rossi is fully healed.
+[19:45:10	]Lorf has unloaded their "S10/OWS.GHOST-31" character.
+[19:45:14	]Giovanni Rossi entered observer.
+[19:45:14	]Lorf loaded the character 'Jan Koko'
+[19:45:19	]Giovanni Rossi has pressed the "BOE_CloseupCamera" map button.
+[19:45:20	]Giovanni Rossi has pressed the "BOE_NewsIntro" map button.
+[19:45:21	]Jan Koko entered observer.
+[19:45:27	]Jan Koko exited observer at their location.
+[19:45:29	]Giovanni Rossi used command '/Broadcast HEJ!!'.
+[19:45:35	]Giovanni Rossi has pressed the "BOE_RationAnnouncement" map button.
+[19:45:58	]Jan Koko used command '/ViewInfo ^'.
+[19:46:20	]Jan Koko used command '/ViewInfo ^'.
+[19:47:04	]Lorf has unloaded their "Jan Koko" character.
+[19:47:07	]Lorf loaded the character 'Jan Koko'
+[19:47:30	]Jan Koko has given himself a cca_coat_overseer.
+[19:47:30	]Jan Koko has gained a 'The Overseer' #4168.
+[19:47:39	]Jan Koko has given himself a cca_legs_overseer.
+[19:47:39	]Jan Koko has gained a 'Overseer Pants' #4169.
+[19:48:00	]Jan Koko has given himself a fedora_brown.
+[19:48:00	]Jan Koko has gained a 'Brown Fedora' #4170.
+[19:48:05	]Jan Koko has given himself a head_fedora.
+[19:48:05	]Jan Koko has gained a 'Black Fedora' #4171.
+[19:48:19	]Jan Koko has given himself a 70sglasses.
+[19:48:19	]Jan Koko has gained a '70s Glasses' #4172.
+[19:48:32	]Jan Koko has given himself a hands_gloves.
+[19:48:32	]Jan Koko has gained a 'Gloves' #4173.
+[19:49:35	]Jan Koko has spawned a 'Entity [488][npc_zombie_prone]'.
+[19:49:40	]Jan Koko has spawned a 'Entity [495][npc_zombie_slump]'.
+[19:49:45	]Jan Koko has spawned a 'Entity [508][npc_zombierun_slump]'.
+[19:49:49	]Jan Koko has spawned a 'Entity [511][npc_zombine_slump_attack]'.
+[19:49:55	]Jan Koko has spawned a 'Entity [511][npc_zombie_slump_attack]'.
+[19:50:02	]Jan Koko has spawned a 'Entity [514][npc_zombierun_prone]'.
+[19:50:09	]Giovanni Rossi has pressed the "BOE_TechnicalIssues" map button.
+[19:50:33	]Giovanni Rossi has damaged npc_zombie, dealing 5 with ix_hands
+[19:50:40	]Giovanni Rossi has damaged npc_zombie, dealing 5 with ix_hands
+[19:50:48	]Giovanni Rossi has damaged npc_zombie, dealing 5 with ix_hands
+[19:50:50	]Giovanni Rossi has damaged npc_zombie, dealing 5 with ix_hands
+[19:50:51	]Giovanni Rossi has damaged npc_zombie, dealing 5 with ix_hands
+[19:50:52	]Giovanni Rossi has damaged npc_zombie, dealing 5 with ix_hands
+[19:50:54	]Giovanni Rossi has damaged npc_zombie, dealing 5 with ix_hands
+[19:50:55	]Giovanni Rossi has damaged npc_zombie, dealing 5 with ix_hands
+[19:50:57	]Giovanni Rossi has damaged npc_zombie, dealing 5 with ix_hands
+[19:50:58	]Giovanni Rossi has damaged npc_zombie, dealing 5 with ix_hands
+[19:50:59	]Giovanni Rossi has damaged npc_zombie, dealing 5 with ix_hands
+[19:51:01	]Giovanni Rossi has damaged npc_zombie, dealing 5 with ix_hands
+[19:51:03	]Giovanni Rossi has damaged npc_zombie, dealing 5 with ix_hands
+[19:51:04	]Giovanni Rossi has damaged npc_zombie, dealing 5 with ix_hands
+[19:51:06	]Jan Koko has spawned a 'Entity [494][ent_mannable_combinecannon]'.
+[19:51:07	]Giovanni Rossi has damaged npc_zombie, dealing 5 with ix_hands
+[19:51:08	]Giovanni Rossi has damaged npc_zombie, dealing 5 with ix_hands
+[19:51:09	]Giovanni Rossi has taken 10 damage from zombie512.
+[19:51:10	]Giovanni Rossi has damaged npc_zombie, dealing 5 with ix_hands
+[19:51:10	]Giovanni Rossi is fully healed.
+[19:51:12	]Giovanni Rossi has damaged npc_zombie, dealing 5 with ix_hands
+[19:51:12	]Jan Koko has spawned a 'Entity [494][ent_mannable_airboatgun]'.
+[19:51:13	]Giovanni Rossi has damaged npc_zombie, dealing 5 with ix_hands
+[19:51:14	]Giovanni Rossi has damaged npc_zombie, dealing 5 with ix_hands
+[19:51:18	]Giovanni Rossi has taken 4 damage from Jan Koko.
+[19:51:18	]Giovanni Rossi has taken 6 damage from Jan Koko.
+[19:51:18	]Giovanni Rossi has taken 8 damage from Jan Koko.
+[19:51:19	]Giovanni Rossi has taken 8 damage from Jan Koko.
+[19:51:20	]Giovanni Rossi is fully healed.
+[19:51:20	]Jan Koko has taken 5 damage from Giovanni Rossi.
+[19:51:20	]Giovanni Rossi has damaged Jan Koko, dealing 5 with ix_hands
+[19:51:21	]Jan Koko has taken 5 damage from Giovanni Rossi.
+[19:51:21	]Giovanni Rossi has damaged Jan Koko, dealing 5.0003 with ix_hands
+[19:51:25	]Giovanni Rossi has taken 39 damage from Jan Koko.
+[19:51:25	]Jan Koko has taken 18 damage from Giovanni Rossi.
+[19:51:25	]Jan Koko has taken 4 damage from Giovanni Rossi.
+[19:51:25	]Jan Koko has taken 8 damage from Giovanni Rossi.
+[19:51:25	]Giovanni Rossi has taken 78 damage from Jan Koko.
+[19:51:25	]Jan Koko has taken 24 damage from Giovanni Rossi.
+[19:51:25	]Jan Koko has taken 24 damage from Giovanni Rossi.
+[19:51:26	]Jan Koko was knocked unconscious and is bleeding out.
+[19:51:26	]Jan Koko was killed while bleeding out.
+[19:51:26	]Giovanni Rossi has killed Jan Koko with ent_mannable_airboatgun.
+[19:51:30	]Giovanni Rossi is fully healed.
+[19:51:31	]Jan Koko entered observer.
+[19:51:32	]Giovanni Rossi has pressed the "BOE_Anthem" map button.
+[19:51:40	]Jan Koko exited observer at their location.
+[19:51:42	]Giovanni Rossi used command '/ActStand 3'.
+[19:51:43	]Giovanni Rossi used command '/ExitAct'.
+[19:51:44	]Giovanni Rossi used command '/ActStand 2'.
+[19:51:55	]Jan Koko used command '/ActStand 1'.
+[19:52:03	]Jan Koko used command '/ExitAct'.
+[19:52:03	]Giovanni Rossi used command '/ExitAct'.
+[19:52:06	]Jan Koko has taken 5 damage from Giovanni Rossi.
+[19:52:06	]Giovanni Rossi has damaged Jan Koko, dealing 5.0006 with ix_hands
+[19:52:06	]Jan Koko used command '/ActStand 2'.
+[19:52:08	]Jan Koko used command '/ExitAct'.
+[19:52:10	]Jan Koko used command '/ActStand 3'.
+[19:52:14	]Giovanni Rossi used command '/ActStand 3'.
+[19:52:16	]Jan Koko used command '/ExitAct'.
+[19:52:16	]Giovanni Rossi used command '/ExitAct'.
+[19:52:18	]Giovanni Rossi used command '/ActStand 3'.
+[19:52:18	]Jan Koko used command '/ActStand 4'.
+[19:52:20	]Jan Koko used command '/ExitAct'.
+[19:52:21	]Jan Koko used command '/ActStand 5'.
+[19:52:23	]Jan Koko used command '/ExitAct'.
+[19:52:27	]Jan Koko used command '/ActStand 5'.
+[19:52:28	]Jan Koko used command '/ExitAct'.
+[19:52:36	]Giovanni Rossi used command '/ExitAct'.
+[19:52:39	]Giovanni Rossi used command '/ActStand 3'.
+[19:52:39	]Jan Koko has spawned a 'Entity [500][wn_scaffold]'.
+[19:52:39	]Jan Koko has taken 5 damage from wn_scaffold.
+[19:52:39	]Jan Koko has taken 10 damage from wn_scaffold.
+[19:52:41	]Giovanni Rossi used command '/ExitAct'.
+[19:52:45	]Jan Koko entered observer.
+[19:52:49	]Jan Koko has spawned a 'Entity [500][wn_scaffold]'.
+[19:52:52	]Jan Koko exited observer at their location.
+[19:53:00	]Jan Koko has spawned a 'Entity [501][wn_scaffold]'.
+[19:53:07	]Jan Koko has spawned a 'Entity [501][mmod_laserdot]'.
+[19:53:12	]Jan Koko has spawned a 'Entity [501][ix_trashspawner]'.
+[19:53:15	]Jan Koko has spawned a 'Entity [501][wn_washing_factory]'.
+[19:53:21	]Jan Koko has spawned a 'Entity [501][hl2r_rpg]'.
+[19:53:55	]Jan Koko has spawned 'models/props_c17/FurnitureTable001a.mdl'.
+[19:54:14	]Jan Koko has spawned a 'Entity [488][pfx7_03]'.
+[19:54:19	]Jan Koko has spawned a 'Entity [488][pfx7_01]'.
+[19:54:33	]Jan Koko entered observer.
+[19:55:21	]Jan Koko has taken 5 damage from worldspawn.
+[19:55:23	]Jan Koko has taken 5 damage from worldspawn.
+[19:55:26	]Jan Koko exited observer at their location.
+[19:55:31	]Jan Koko entered observer.
+[19:55:33	]Jan Koko exited observer at their location.
+[19:55:40	]Jan Koko has taken 5 damage from worldspawn.
+[19:55:42	]Jan Koko has taken 5 damage from worldspawn.
+[19:55:44	]Jan Koko has taken 5 damage from worldspawn.
+[19:55:46	]Jan Koko entered observer.
+[19:55:46	]Jan Koko has taken 5 damage from worldspawn.
+[19:55:48	]Jan Koko exited observer at their location.
+[19:56:23	]Jan Koko has taken 5 damage from worldspawn.
+[19:56:25	]Jan Koko has taken 5 damage from worldspawn.
+[19:56:33	]Jan Koko has taken 5 damage from worldspawn.
+[19:56:35	]Jan Koko has taken 5 damage from worldspawn.
+[19:56:54	]Jan Koko entered observer.
+[19:57:02	]Jan Koko has pressed the "CA_JudgementWaiver" map button.
+[19:57:03	]Jan Koko has pressed the "CA_JudgementWaiver" map button.
+[19:57:50	]Giovanni Rossi has gone afk.
+[19:57:56	]Jan Koko set judgementWaiverPermission to '"STEAM_0:0:83902827;"'.
+[19:57:59	]Jan Koko has pressed the "CA_JudgementWaiver" map button.
+[19:58:00	]Jan Koko has pressed the "CA_JudgementWaiver" map button.
+[19:58:03	]Jan Koko exited observer at their location.
+[19:58:05	]Jan Koko has pressed the "CA_JudgementWaiver" map button.
+[19:58:13	]Jan Koko set judgementWaiverPermission to '"STEAM_0:0:83902827"'.
+[19:58:17	]Jan Koko has pressed the "CA_JudgementWaiver" map button.
+[19:58:18	]Jan Koko entered observer.
+[19:58:32	]Jan Koko exited observer at their location.
+[19:58:36	]Jan Koko entered observer.
+[19:59:28	]Jan Koko exited observer at their location.
+[20:00:13	]Jan Koko entered observer.
+[20:00:23	]Lorf has unloaded their "Jan Koko" character.
+[20:00:30	]Lorf (STEAM_0:0:83902827) deleted character 'S10/OWS.GHOST-13'
+[20:00:40	]Lorf created the character 'S10:SCN-9'
+[20:00:40	]Lorf loaded the character 'S10:SCN-9'
+[20:01:13	]S10:OCIN:AI used command '/CharSetName ^ S10:OCIN:AI'.
+[20:01:15	]S10:OCIN:AI entered observer.
+[20:01:15	]S10:OCIN:AI entered observer.
+[20:01:21	]S10:OCIN:AI entered observer.
+[20:01:22	]S10:OCIN:AI entered observer.
+[20:01:26	]S10:OCIN:AI ran SAM command 'slay' with arguments: '^'
+[20:01:29	]S10:OCIN:AI entered observer.
+[20:01:30	]S10:OCIN:AI exited observer at their location.
+[20:01:32	]S10:OCIN:AI entered observer.
+[20:01:41	]S10:OCIN:AI used command '/I CHUJ'.
+[20:01:51	]S10:OCIN:AI used command '/CCP witam'.
+[20:01:58	]S10:OCIN:AI used command '/COTA witam'.
+[20:02:16	]S10:OCIN:AI exited observer at their location.
+[20:02:23	]S10:OCIN:AI entered observer.
+[20:02:41	]S10:OCIN:AI used command '/CCP CIVIL INSURRECTION'.
+[20:03:13	]S10:OCIN:AI used command '/Dispatch ASSUME POSITIONS'.
+[20:03:25	]Giovanni Rossi is no longer afk. Total time spent AFK: 630
+[20:03:31	]Inkaaz (STEAM_0:0:50287200) has disconnected.
+[20:03:32	]Lorf (STEAM_0:0:83902827) has disconnected.

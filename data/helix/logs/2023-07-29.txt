@@ -1,0 +1,94 @@
+[05:12:12	]The Duża skrzynia container (#0) was removed due to inactivity.
+[05:12:12	]The Skrzynia container (#0) was removed due to inactivity.
+[05:12:12	]The DUŻA METALOWA SZAFA - JEDZENIE container (#0) was removed due to inactivity.
+[05:12:12	]The DUŻA METALOWA SZAFA - NAPOJE container (#0) was removed due to inactivity.
+[05:12:12	]The DUŻA METALOWA SZAFA - MATERIAŁY  container (#0) was removed due to inactivity.
+[05:12:12	]The DUŻA METALOWA SZAFA - MATERIAŁY  container (#0) was removed due to inactivity.
+[05:12:12	]The Duża metalowa szafa container (#0) was removed due to inactivity.
+[05:12:12	]The Duża metalowa szafa container (#0) was removed due to inactivity.
+[05:12:12	]The DUŻA METALOWA SZAFA - MATERIAŁY  container (#0) was removed due to inactivity.
+[05:12:12	]The DUŻA METALOWA SZAFA - MATERIAŁY  container (#0) was removed due to inactivity.
+[05:12:12	]The Duża lodówka container (#0) was removed due to inactivity.
+[05:15:05	]tomasz hedzik has connected.
+[05:16:34	]tomasz hedzik loaded the character 'C24:RL.UNION-1'
+[05:17:20	][IC] C24:RL.UNION-1: <:: Zgłaszam obywatela chętnego na wykonanie dobrowolnych prac społecznych; T94-322. 10-4. Jednostka na służbie; 10-8. Podnieś tą puszkę. Podnieś. Tą. Puszkę. ::>
+[05:17:38	][IC] C24:RL.UNION-1: <:: Podnieś tą puszkę. Podnieś. Tą. Puszkę. Powiedziałem podnieś tą puszkę, teraz włóż ją do śmietnika. Powiedziałem włóż ją do śmietnika! ::>
+[05:17:48	][IC] C24:RL.UNION-1: <:: Ty to przewróciłeś, ty to podnosisz! ::>
+[05:17:57	][IC] C24:RL.UNION-1: <:: 10-0, 10-0; viscerator poluje. ::>
+[05:18:04	]C24:RL.UNION-1 is fully healed.
+[05:18:05	]tomasz hedzik loaded the character 'S10:SCN-3'
+[05:18:44	]S10:SCN-3 used command '/Dispatch anti-citizen'.
+[05:19:08	]S10:SCN-3 used command '/Radio report radios'.
+[05:19:12	]S10:SCN-3 used command '/Radio report ration'.
+[05:19:14	]S10:SCN-3 used command '/Radio report ratios'.
+[05:19:37	]S10:SCN-3 used command '/Radio Mission failure'.
+[05:19:49	]S10:SCN-3 used command '/Radio Mission failure2'.
+[05:19:51	]S10:SCN-3 used command '/Radio Mission failure 2'.
+[05:20:55	]tomasz hedzik loaded the character 'Gwok Eun Sun'
+[05:22:19	][PICKUP DISPENSER] tomasz hedzik ( Gwok Eun Sun ) picked up an item from the pickup dispenser.
+[05:22:19	]Gwok Eun Sun has gained a 'Klucz do mieszkania' #6757.
+[05:22:26	]Gwok Eun Sun ran 'AssignCID' on item 'Klucz do mieszkania' (#6395)
+[05:23:05	]Gwok Eun Sun has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[05:23:15	]Gwok Eun Sun has spawned 'models/props_c17/shelfunit01a.mdl'.
+[05:23:37	]Gwok Eun Sun has spawned a usable entity class 'ix_couch' with model 'models/props_c17/furniturecouch001a.mdl'.
+[05:23:37	]Gwok Eun Sun has used a context menu option with the name: ixusableentitycreate
+[05:23:39	]Gwok Eun Sun used command '/ActSit 2'.
+[05:23:42	]Gwok Eun Sun used command '/ExitAct'.
+[05:23:43	]Gwok Eun Sun used command '/ActSit 1'.
+[05:23:45	]Gwok Eun Sun used command '/ExitAct'.
+[05:23:46	]Gwok Eun Sun used command '/ActSit 3'.
+[05:23:49	]Gwok Eun Sun used command '/ExitAct'.
+[05:23:50	]Gwok Eun Sun used command '/ActSit 4'.
+[05:23:52	]Gwok Eun Sun used command '/ExitAct'.
+[05:23:54	]Gwok Eun Sun used command '/ActSit 5'.
+[05:23:56	]Gwok Eun Sun used command '/ExitAct'.
+[05:23:58	]Gwok Eun Sun used command '/ActSit 6'.
+[05:24:01	]Gwok Eun Sun used command '/ExitAct'.
+[05:24:02	]Gwok Eun Sun used command '/ActSit 7'.
+[05:24:05	]Gwok Eun Sun used command '/ExitAct'.
+[05:24:06	]Gwok Eun Sun used command '/ActSit 8'.
+[05:24:09	]Gwok Eun Sun used command '/ExitAct'.
+[05:24:32	]Gwok Eun Sun ran 'RequestCp' on item 'Pager' (#5552)
+[05:24:34	]Gwok Eun Sun ran 'RequestCwu' on item 'Pager' (#5552)
+[05:24:36	]Gwok Eun Sun ran 'Open' on item 'CMU PDA' (#5486)
+[05:24:46	]Gwok Eun Sun has used a context menu option with the name: rb655_dissolve
+[05:24:47	]Gwok Eun Sun has used a context menu option with the name: remove
+[05:25:07	]Gwok Eun Sun used command '/CharDesc'.
+[05:25:18	]Gwok Eun Sun used command '/DoorBuy'.
+[05:26:03	][IC] Gwok Eun Sun: Aaaaaaa!
+[05:26:09	][IC] Gwok Eun Sun: Rany... Déjà vu.
+[05:26:15	][IC] Gwok Eun Sun: *Kaszle*.
+[05:26:16	][IC] Gwok Eun Sun: *Kaszle*.
+[05:26:17	][IC] Gwok Eun Sun: *Kaszle*.
+[05:26:18	][IC] Gwok Eun Sun: *Kaszle*.
+[05:26:22	][IC] Gwok Eun Sun: Kombinat!
+[05:26:26	][IC] Gwok Eun Sun: Nie wiem jak ty, ale ja jestem gotów przyłączyć się do Civil Protection tylko po to, żeby dostać przyzwoity posiłek.
+[05:26:38	][IC] Gwok Eun Sun: Gówno.
+[05:26:42	][IC] Gwok Eun Sun: E.
+[05:26:43	][IC] Gwok Eun Sun: E.
+[05:26:45	][IC] Gwok Eun Sun: E.
+[05:26:48	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp.
+[05:26:49	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp.
+[05:26:51	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo.
+[05:26:52	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo.
+[05:26:53	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo.
+[05:26:54	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo.
+[05:26:55	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo.
+[05:26:57	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo.
+[05:26:59	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo.
+[05:27:03	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo.
+[05:27:04	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo fdsafdsa.
+[05:27:05	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo fdsafdsa.
+[05:27:06	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo fdsafdsa.
+[05:27:06	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo fdsafdsa.
+[05:27:07	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo fdsafdsa.
+[05:27:08	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo fdsafdsa.
+[05:27:09	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo fdsafdsa.
+[05:27:10	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo fdsafdsa.
+[05:27:11	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo fdsafdsa.
+[05:27:15	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo fdsafdsa.
+[05:27:16	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo fdsafdsa.
+[05:27:17	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo fdsafdsa fdafasdfasdfdsa.
+[05:27:18	][IC] Gwok Eun Sun: Fposdjfopjdasfpojfopadsjpf asdfjposadfjopsdafjp sdafjoppdsfapojjdfjopsaaojpfdsaa sfadpojjpo fdsafdsa fdafasdfasdfdsa.
+[05:27:28	][KOR] Gwok Eun Sun: HEj
+[05:27:55	]tomasz hedzik (STEAM_0:0:422062415) has disconnected.

@@ -1,0 +1,717 @@
+[00:00:01	]C17:RCT.YELLO-59 has used a context menu option with the name: rb655_func_movelinear_close
+[00:00:01	]Takajin Amano has gained a 'Magazynek do Tichar 15rnd' #1159.
+[00:00:01	]Takajin Amano has lost a 'Magazynek do Tichar 15rnd' #1147.
+[00:00:03	]C17:RCT.YELLO-59 has used a context menu option with the name: rb655_func_movelinear_open
+[00:00:05	]C17:RCT.YELLO-78 has added area "Biuro Administratora".
+[00:00:09	]Takajin Amano has gained a 'Magazynek do Tichar 15rnd' #1147.
+[00:00:09	]Takajin Amano has lost a 'Magazynek do Tichar 15rnd' #1145.
+[00:00:15	]C17:RCT.YELLO-59 has spawned a 'NPC [661][npc_vj_overwatch_assassin_z]'.
+[00:00:17	]Takajin Amano has taken 1 damage from Overwatch Assassin.
+[00:00:18	]Takajin Amano has taken 5 damage from Overwatch Assassin.
+[00:00:18	]Takajin Amano has taken 5 damage from Overwatch Assassin.
+[00:00:18	]Takajin Amano has taken 5 damage from Overwatch Assassin.
+[00:00:18	]Takajin Amano has taken 5 damage from Overwatch Assassin.
+[00:00:19	]Takajin Amano has gained a 'Magazynek do Tichar 15rnd' #1145.
+[00:00:19	]Takajin Amano has lost a 'Magazynek do Tichar 15rnd' #1147.
+[00:00:26	]C17:RCT.YELLO-59 has spawned a 'Entity [675][obj_vj_hopper_mine_z]'.
+[00:00:29	]Takajin Amano has taken 30 damage from obj_vj_hopper_mine_z.
+[00:00:33	]C17:RCT.YELLO-59 has spawned a 'Entity [676][obj_vj_hopper_mine_z]'.
+[00:00:36	]Takajin Amano has taken 30 damage from obj_vj_hopper_mine_z.
+[00:00:42	]C17:RCT.YELLO-59 has spawned a 'Entity [676][obj_vj_hopper_mine_z]'.
+[00:00:43	]C17:RCT.YELLO-59 has spawned a 'Entity [632][obj_vj_hopper_mine_z]'.
+[00:00:45	]C17:RCT.YELLO-59 has spawned a 'Entity [708][obj_vj_hopper_mine_z]'.
+[00:00:46	]C17:RCT.YELLO-59 has spawned a 'Entity [676][obj_vj_hopper_mine_z]'.
+[00:00:47	]C17:RCT.YELLO-59 has spawned a 'Entity [710][obj_vj_hopper_mine_z]'.
+[00:00:48	]Takajin Amano has gained a 'Magazynek do Tichar 15rnd' #1147.
+[00:00:48	]Takajin Amano was knocked unconscious and is bleeding out.
+[00:01:01	]C17:RCT.YELLO-59 ran SAM command 'hp' with arguments: 'taka' '100'
+[00:01:05	]Takajin Amano is no longer unconscious from critical wounds.
+[00:01:05	]Takajin Amano is fully healed.
+[00:01:05	]C17:RCT.YELLO-59 used command '/CharStopBleedout taka'.
+[00:01:07	]Takajin Amano used command '/CharGetUp'.
+[00:01:08	]Takajin Amano used command '/CharGetUp'.
+[00:01:09	]Takajin Amano used command '/CharGetUp'.
+[00:01:10	]Takajin Amano is no longer unconscious from critical wounds.
+[00:01:10	]Takajin Amano used command '/CharGetUp'.
+[00:01:12	]Takajin Amano ran SAM command 'slay' with arguments: '^'
+[00:01:25	]Takajin Amano has given himself a adrenaline.
+[00:01:25	]Takajin Amano has gained a 'Adrenalina' #1178.
+[00:01:27	]Takajin Amano ran 'use' on item 'Adrenalina' (#1178)
+[00:01:27	]Takajin Amano has gained a level 4 short boost in Zręczność.
+[00:01:30	]Takajin Amano is fully healed.
+[00:01:30	]C17:RCT.YELLO-78 has added area "Blok Mieszkalny 3 - Skrzydło Północne".
+[00:01:31	]Takajin Amano ran 'use' on item 'Adrenalina' (#1178)
+[00:01:31	]Takajin Amano has wasted a level 4 short boost in Zręczność (current: 0; target: 4).
+[00:01:32	]Takajin Amano ran 'use' on item 'Adrenalina' (#1178)
+[00:01:32	]Takajin Amano has wasted a level 4 short boost in Zręczność (current: 0; target: 4).
+[00:01:35	]Takajin Amano is fully healed.
+[00:01:37	]Takajin Amano entered observer.
+[00:01:54	]Takajin Amano has used a context menu option with the name: rb655_dissolve
+[00:01:55	]Takajin Amano has used a context menu option with the name: rb655_dissolve
+[00:01:56	]C17:RCT.YELLO-78 has added area "Blok Mieszkalny 3 - Skrzydło Południowe".
+[00:01:58	]Takajin Amano has used a context menu option with the name: rb655_dissolve
+[00:02:05	]Takajin Amano exited observer at their location.
+[00:02:07	]Takajin Amano has used a context menu option with the name: rb655_dissolve
+[00:02:08	]Takajin Amano entered observer.
+[00:02:23	]C17:RCT.YELLO-78 has added area "Blok Mieszkalny 3 - Skrzydło Zachodnie".
+[00:02:25	]Takajin Amano exited observer at their location.
+[00:02:28	]Takajin Amano entered observer.
+[00:02:29	]C17:RCT.YELLO-59 has used a context menu option with the name: remove
+[00:02:41	]Takajin Amano exited observer at their location.
+[00:03:02	]C17:RCT.YELLO-78 has added area "Blok Mieszkalny 2 - Skrzydło Północne".
+[00:03:05	]Takajin Amano entered observer.
+[00:03:12	]Takajin Amano exited observer at their location.
+[00:03:17	]Takajin Amano entered observer.
+[00:03:18	]Takajin Amano exited observer at their location.
+[00:03:23	]Takajin Amano entered observer.
+[00:03:24	]Takajin Amano exited observer at their location.
+[00:03:25	]Takajin Amano entered observer.
+[00:03:25	]C17:RCT.YELLO-59 exited observer at their location.
+[00:03:41	]Takajin Amano exited observer at their location.
+[00:03:41	]Takajin Amano entered observer.
+[00:03:42	]Takajin Amano exited observer at their location.
+[00:03:43	]Takajin Amano entered observer.
+[00:03:45	]Takajin Amano exited observer at their location.
+[00:03:47	]C17:RCT.YELLO-59 entered observer.
+[00:03:52	]C17:RCT.YELLO-78 has added area "Blok Mieszkalny 2 - Skrzydło Południowe".
+[00:03:56	]Takajin Amano has spawned a 'Entity [633][ix_rationdispenser]'.
+[00:04:25	]C17:RCT.YELLO-59 exited observer at their location.
+[00:04:27	]C17:RCT.YELLO-59 entered observer.
+[00:04:35	]C17:RCT.YELLO-59 has fired a toolgun with the name: light
+[00:04:50	]C17:RCT.YELLO-78 has removed area "Park na Triumph Street".
+[00:04:51	]Takajin Amano entered observer.
+[00:04:52	]Takajin Amano exited observer at their location.
+[00:05:06	]C17:RCT.YELLO-78 has added area "Park na Triumph Street".
+[00:05:13	]C17:RCT.YELLO-59 has spawned 'models/hunter/blocks/cube05x05x05.mdl'.
+[00:05:18	]C17:RCT.YELLO-59 exited observer at their location.
+[00:05:26	]C17:RCT.YELLO-78 has removed area "Park na Triumph Street".
+[00:05:32	]C17:RCT.YELLO-59 entered observer.
+[00:05:42	]C17:RCT.YELLO-59 exited observer at their location.
+[00:05:49	]C17:RCT.YELLO-59 has spawned 'models/xqm/jetbody3.mdl'.
+[00:05:50	]Takajin Amano has acquired his ration, gaining 0 credits, 0 wages and a ration ration.
+[00:05:50	]C17:RCT.YELLO-78 has added area "Park na Triumph Street".
+[00:05:52	]C17:RCT.YELLO-59 entered observer.
+[00:06:00	]C17:RCT.YELLO-59 exited observer at their location.
+[00:06:03	]Takajin Amano ran 'take' on item 'Racja żywnościowa' (#1179)
+[00:06:03	]Takajin Amano has gained a 'Racja żywnościowa' #1179.
+[00:06:05	]Takajin Amano ran 'Open' on item 'Racja żywnościowa' (#1179)
+[00:06:07	]Takajin Amano ran 'take' on item 'Syntetyczna papka' (#1180)
+[00:06:07	]Takajin Amano has gained a 'Syntetyczna papka' #1180.
+[00:06:09	]Takajin Amano ran 'Consume' on item 'Syntetyczna papka' (#1180)
+[00:06:10	]Takajin Amano ran 'take' on item 'Woda Breena' (#1181)
+[00:06:10	]Takajin Amano has gained a 'Woda Breena' #1181.
+[00:06:11	]Takajin Amano ran 'Consume' on item 'Woda Breena' (#1181)
+[00:06:13	]Takajin Amano ran 'take' on item 'Podstawowy kupon na Kredyty.' (#1182)
+[00:06:13	]Takajin Amano has gained a 'Podstawowy kupon na Kredyty.' #1182.
+[00:06:14	]Takajin Amano ran 'Use' on item 'Podstawowy kupon na Kredyty.' (#1182)
+[00:06:16	]C17:RCT.YELLO-78 has removed area "Blok Priorytetowy".
+[00:06:16	]Takajin Amano ran 'Use' on item 'Podstawowy kupon na Kredyty.' (#1182)
+[00:06:20	]Takajin Amano ran 'Use' on item 'Podstawowy kupon na Kredyty.' (#1182)
+[00:06:29	]C17:RCT.YELLO-59 has given himself a drug_demon.
+[00:06:30	]C17:RCT.YELLO-59 has gained a 'Demon's Bees' #1185.
+[00:06:33	]C17:RCT.YELLO-59 ran 'use' on item 'Demon's Bees' (#1185)
+[00:06:33	]C17:RCT.YELLO-59 has gained a level 4 short boost in Siła.
+[00:06:33	]C17:RCT.YELLO-59 has gained a level 4 short boost in Zręczność.
+[00:06:33	]C17:RCT.YELLO-59 has gained a level -7 short boost in Inteligencja.
+[00:06:33	]C17:RCT.YELLO-59 has gained a level 6 short boost in Percepcja.
+[00:06:33	]C17:RCT.YELLO-59 has gained a 'Strzykawka' #1186.
+[00:06:43	]C17:RCT.YELLO-59 used command '/RemoveDrugEffects ^'.
+[00:06:45	]C17:RCT.YELLO-59 entered observer.
+[00:06:45	]C17:RCT.YELLO-78 has added area "Priorytetowy Blok Mieszkalny".
+[00:06:47	]Takajin Amano has used a context menu option with the name: rb655_dissolve
+[00:06:48	]C17:RCT.YELLO-59 exited observer at their location.
+[00:06:49	]C17:RCT.YELLO-59 entered observer.
+[00:06:49	]env_entity_dissolver destroyed a 'Pusty słoik' #1183.
+[00:06:51	]Takajin Amano has used a context menu option with the name: rb655_dissolve
+[00:06:52	]C17:RCT.YELLO-59 has spawned a drug_spikedcoffee.
+[00:06:53	]env_entity_dissolver destroyed a 'Pusta puszka po wodzie Breen'a' #1184.
+[00:07:01	]Takajin Amano entered observer.
+[00:07:01	]Takajin Amano exited observer at their location.
+[00:07:03	]Takajin Amano entered observer.
+[00:07:08	]Takajin Amano exited observer at their location.
+[00:07:08	]Takajin Amano entered observer.
+[00:07:09	]C17:RCT.YELLO-59 used command '/RemoveDrugEffects ^'.
+[00:07:11	]Takajin Amano exited observer at their location.
+[00:07:13	]Takajin Amano entered observer.
+[00:07:38	]C17:RCT.YELLO-78 has added area "Blok Produkcyjny".
+[00:07:46	]C17:RCT.YELLO-59 has used a context menu option with the name: rb655_manhack_jam
+[00:07:46	]Takajin Amano has used a context menu option with the name: rb655_manhack_jam
+[00:07:49	]Takajin Amano has used a context menu option with the name: rb655_dissolve
+[00:07:57	]C17:RCT.YELLO-59 exited observer at their location.
+[00:07:57	]C17:RCT.YELLO-59 entered observer.
+[00:07:59	]C17:RCT.YELLO-78 has added area "Strefa Biurowa CWU".
+[00:08:02	]Takajin Amano exited observer at their location.
+[00:09:11	]C17:RCT.YELLO-78 has added area "Lobby Szpitalu".
+[00:09:14	]Takajin Amano used command '/SpawnAdd Civil Protection'.
+[00:09:21	]Takajin Amano used command '/SpawnAdd Civil Protection'.
+[00:09:23	]Takajin Amano entered observer.
+[00:09:25	]Takajin Amano exited observer at their location.
+[00:09:25	]Takajin Amano entered observer.
+[00:09:26	]Takajin Amano exited observer at their location.
+[00:09:27	]C17:RCT.YELLO-59 exited observer at their location.
+[00:09:27	]Takajin Amano entered observer.
+[00:09:27	]Takajin Amano exited observer at their location.
+[00:09:28	]Takajin Amano entered observer.
+[00:09:28	]C17:RCT.YELLO-59 entered observer.
+[00:09:28	]C17:RCT.YELLO-59 exited observer at their location.
+[00:09:29	]Takajin Amano exited observer at their location.
+[00:09:29	]C17:RCT.YELLO-59 entered observer.
+[00:09:30	]Takajin Amano used command '/SpawnAdd Civil Protection'.
+[00:09:30	]Takajin Amano entered observer.
+[00:09:31	]Takajin Amano exited observer at their location.
+[00:09:32	]Takajin Amano entered observer.
+[00:09:34	]Takajin Amano exited observer at their location.
+[00:09:34	]Takajin Amano entered observer.
+[00:09:35	]tomasz hedzik has connected.
+[00:09:35	]Takajin Amano exited observer at their location.
+[00:09:35	]Takajin Amano entered observer.
+[00:09:36	]Takajin Amano exited observer at their location.
+[00:09:36	]Takajin Amano entered observer.
+[00:09:37	]Takajin Amano exited observer at their location.
+[00:09:37	]Takajin Amano entered observer.
+[00:09:38	]Takajin Amano exited observer at their location.
+[00:09:39	]Takajin Amano used command '/SpawnAdd Civil Protection'.
+[00:09:39	]Takajin Amano entered observer.
+[00:09:41	]Takajin Amano exited observer at their location.
+[00:09:43	]Takajin Amano used command '/SpawnAdd Civil Protection'.
+[00:09:43	]Takajin Amano entered observer.
+[00:09:44	]Takajin Amano exited observer at their location.
+[00:09:48	]Takajin Amano used command '/SpawnAdd Civil Protection'.
+[00:09:48	]Takajin Amano entered observer.
+[00:10:05	]C17:RCT.YELLO-78 has added area "Szpital".
+[00:10:06	]Takajin Amano exited observer at their location.
+[00:10:08	]Takajin Amano entered observer.
+[00:10:12	]Takajin Amano exited observer at their location.
+[00:10:12	]Takajin Amano entered observer.
+[00:10:13	]Takajin Amano exited observer at their location.
+[00:10:13	]C17:RCT.YELLO-59 exited observer at their location.
+[00:10:15	]C17:RCT.YELLO-59 entered observer.
+[00:10:20	]tomasz hedzik loaded the character 'Austin Adamczyk'
+[00:10:22	]Austin Adamczyk has taken 45 damage from worldspawn.
+[00:10:25	]C17:RCT.YELLO-59 exited observer at their location.
+[00:10:32	][IC] Austin Adamczyk: He.
+[00:10:34	][IC] Austin Adamczyk: !heal adamczyk 100.
+[00:10:36	]Takajin Amano has spawned 'models/sleepjie/bulletinboard.mdl'.
+[00:10:40	]Austin Adamczyk ran SAM command 'hp' with arguments: 'adamczyk' '100'
+[00:10:45	]Austin Adamczyk is fully healed.
+[00:10:54	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:10:55	]Takajin Amano has spawned 'models/sleepjie/bulletinboard.mdl'.
+[00:11:01	]C17:RCT.YELLO-59 has spawned 'models/props_combine/combine_interface001.mdl'.
+[00:11:04	]C17:RCT.YELLO-59 has spawned 'models/props_combine/combine_interface001a.mdl'.
+[00:11:14	][IC] C17:RCT.YELLO-59: Models/props_combine/combine_interface001a.mdl.
+[00:11:18	]C17:RCT.YELLO-78 has added area "Strefa Biurowa CMU".
+[00:11:21	]C17:RCT.YELLO-59 has spawned 'models/props_combine/combine_interface002.mdl'.
+[00:11:23	]Takajin Amano has spawned 'models/props_combine/pickup_dispenser3.mdl'.
+[00:11:25	]C17:RCT.YELLO-59 has spawned 'models/props_combine/combine_interface003.mdl'.
+[00:11:26	]Austin Adamczyk used command '/AreaEdit'.
+[00:11:29	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:11:37	]C17:RCT.YELLO-59 has spawned 'models/props_combine/pickup_dispenser3.mdl'.
+[00:11:38	]Austin Adamczyk used command '/AreaEdit'.
+[00:11:47	]Takajin Amano has fired a toolgun with the name: submaterial
+[00:11:50	]Takajin Amano has fired a toolgun with the name: submaterial
+[00:11:52	]Takajin Amano has fired a toolgun with the name: submaterial
+[00:11:53	]Takajin Amano has fired a toolgun with the name: submaterial
+[00:11:55	]Takajin Amano has fired a toolgun with the name: submaterial
+[00:11:58	]Takajin Amano has fired a toolgun with the name: submaterial
+[00:12:01	]Takajin Amano has fired a toolgun with the name: submaterial
+[00:12:02	]C17:RCT.YELLO-59 has spawned 'models/willardnetworks/props_combine/combine_dispenser.mdl'.
+[00:12:03	]Takajin Amano has fired a toolgun with the name: submaterial
+[00:12:04	]Takajin Amano has fired a toolgun with the name: submaterial
+[00:12:06	]Takajin Amano has fired a toolgun with the name: submaterial
+[00:12:09	]Takajin Amano has fired a toolgun with the name: submaterial
+[00:12:10	]Takajin Amano has fired a toolgun with the name: submaterial
+[00:12:27	]Takajin Amano has spawned 'models/willardnetworks/props/civilterminal7.mdl'.
+[00:12:27	]C17:RCT.YELLO-59 has spawned 'models/props_combine/combine_interface001a.mdl'.
+[00:12:38	]Takajin Amano has fired a toolgun with the name: submaterial
+[00:12:40	]Takajin Amano entered observer.
+[00:12:41	]Takajin Amano exited observer at their location.
+[00:12:43	]Takajin Amano has fired a toolgun with the name: submaterial
+[00:12:46	]Takajin Amano has fired a toolgun with the name: submaterial
+[00:13:01	]Takajin Amano has used a context menu option with the name: remove
+[00:13:08	]C17:RCT.YELLO-59 has spawned 'models/props_combine/combine_interface001a.mdl'.
+[00:13:11	]Takajin Amano has fired a toolgun with the name: submaterial
+[00:13:28	]Takajin Amano has fired a toolgun with the name: submaterial
+[00:13:34	]Takajin Amano has fired a toolgun with the name: submaterial
+[00:13:35	]Takajin Amano has fired a toolgun with the name: submaterial
+[00:13:50	]Takajin Amano has fired a toolgun with the name: submaterial
+[00:14:09	]Takajin Amano has fired a toolgun with the name: remover
+[00:14:09	]Takajin Amano has fired a toolgun with the name: remover
+[00:14:11	]C17:RCT.YELLO-59 has used a context menu option with the name: remove
+[00:14:19	]C17:RCT.YELLO-59 has spawned 'models/hlvr/combine_hazardprops/combinehazardprops_warningsign.mdl'.
+[00:14:25	]C17:RCT.YELLO-78 exited observer at their location.
+[00:14:26	]Inkaaz (STEAM_0:0:50287200) has disconnected (timed out).
+[00:14:27	]C17:RCT.YELLO-59 has spawned 'models/wn7new/combine_cremator/cremator.mdl'.
+[00:14:34	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:14:35	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:14:36	]C17:RCT.YELLO-78 entered observer.
+[00:14:36	]C17:RCT.YELLO-59 has spawned 'models/willard/combine/pickup_dispenser_new.mdl'.
+[00:14:37	]C17:RCT.YELLO-78 exited observer at their location.
+[00:14:50	][IC] Austin Adamczyk: Hej.
+[00:15:12	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:15:13	]C17:RCT.YELLO-78 entered observer.
+[00:15:14	]Austin Adamczyk used command '/AreaEdit'.
+[00:15:16	]C17:RCT.YELLO-78 used command '/AreaEdit'.
+[00:15:20	]C17:RCT.YELLO-59 has spawned 'models/props_combine/pickup_dispenser3.mdl'.
+[00:15:32	]C17:RCT.YELLO-59 has used a context menu option with the name: remove
+[00:15:36	]C17:RCT.YELLO-78 exited observer at their location.
+[00:15:40	]C17:RCT.YELLO-59 has used a context menu option with the name: remove
+[00:15:46	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:15:54	]C17:RCT.YELLO-78 entered observer.
+[00:15:58	]C17:RCT.YELLO-59 has spawned a 'Entity [615][ix_vendor]'.
+[00:16:01	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:16:12	]C17:RCT.YELLO-59 has spawned 'models/willard/combine/checkin.mdl'.
+[00:16:14	]C17:RCT.YELLO-59 has spawned 'models/willard/combine/parcel.mdl'.
+[00:16:24	]Austin Adamczyk has given himself a flashlight.
+[00:16:24	]Austin Adamczyk has gained a 'Flashlight' #1188.
+[00:16:43	]C17:RCT.YELLO-59 used the 'John Doe' vendor.
+[00:16:48	]C17:RCT.YELLO-59 has used a context menu option with the name: vendor_edit
+[00:16:56	]C17:RCT.YELLO-59 entered observer.
+[00:16:57	]C17:RCT.YELLO-59 exited observer at their location.
+[00:17:12	]C17:RCT.YELLO-59 has fired a toolgun with the name: nocollideworld
+[00:18:17	]C17:RCT.YELLO-59 has used a context menu option with the name: vendor_edit
+[00:18:36	]C17:RCT.YELLO-78 has added area "Blok Dystrybucyjny 1".
+[00:18:41	]Austin Adamczyk has added area "Przedmieścia Podziemia".
+[00:18:45	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:18:49	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:18:50	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:18:54	]Austin Adamczyk has taken 28 damage from worldspawn.
+[00:19:05	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:19:05	]C17:RCT.YELLO-59 used the 'John Doe' vendor.
+[00:19:07	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:19:08	]C17:RCT.YELLO-59 has used a context menu option with the name: vendor_edit
+[00:19:09	]Austin Adamczyk has taken 28 damage from worldspawn.
+[00:19:19	]Austin Adamczyk ran SAM command 'hp' with arguments: 'adamczyk' '100'
+[00:19:20	]Austin Adamczyk is fully healed.
+[00:19:27	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:19:27	]C17:RCT.YELLO-59 used the 'Terminal CCA' vendor.
+[00:19:29	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:19:31	]Austin Adamczyk used command '/AreaEdit'.
+[00:19:32	]C17:RCT.YELLO-59 has used a context menu option with the name: vendor_edit
+[00:19:34	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:19:59	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:20:00	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:20:01	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:20:09	]Austin Adamczyk used command '/AreaEdit'.
+[00:20:12	]Austin Adamczyk has removed area "Przedmieścia Podziemia".
+[00:20:17	]C17:RCT.YELLO-59 has used a context menu option with the name: bodygroups
+[00:20:34	]C17:RCT.YELLO-59 has used a context menu option with the name: bodygroups
+[00:20:58	]C17:RCT.YELLO-78 has removed area "Blok Dystrybucyjny 1".
+[00:20:59	]C17:RCT.YELLO-59 used the 'Terminal Overwatch' vendor.
+[00:21:03	]C17:RCT.YELLO-59 entered observer.
+[00:21:06	]C17:RCT.YELLO-59 exited observer at their location.
+[00:21:15	]Austin Adamczyk has added area "Ukryta Piwnica".
+[00:21:40	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:21:54	]C17:RCT.YELLO-78 exited observer at their location.
+[00:22:13	]C17:RCT.YELLO-78 entered observer.
+[00:22:19	]Austin Adamczyk has added area "Korytarz do kanałów".
+[00:22:25	]C17:RCT.YELLO-78 exited observer at their location.
+[00:22:29	]C17:RCT.YELLO-78 entered observer.
+[00:22:32	]C17:RCT.YELLO-59 has used a context menu option with the name: vendor_edit
+[00:22:36	]C17:RCT.YELLO-59 entered observer.
+[00:22:58	]Austin Adamczyk has added area "Tunel".
+[00:23:17	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:23:25	]C17:RCT.YELLO-78 has added area "Lokal 1 - Triumph Street".
+[00:23:38	]Austin Adamczyk ran SAM command 'noclip' with arguments: ''
+[00:23:58	]Austin Adamczyk used command '/AreaEdit'.
+[00:24:00	]Austin Adamczyk has removed area "Ukryta Piwnica".
+[00:24:05	]Austin Adamczyk has removed area "Korytarz do kanałów".
+[00:24:17	]tomasz hedzik has unloaded their "Austin Adamczyk" character.
+[00:24:21	]tomasz hedzik loaded the character 'C17:RCT.YELLO-27'
+[00:24:26	]C17:RCT.YELLO-27 is fully healed.
+[00:24:31	]C17:RCT.YELLO-78 has added area "Lokal 2 - Triumph Street".
+[00:25:17	]C17:RCT.YELLO-78 has added area "Lokal 3 - Triumph Street".
+[00:25:32	]tomasz hedzik has unloaded their "C17:RCT.YELLO-27" character.
+[00:25:37	]tomasz hedzik loaded the character 'S10/OWS.GHOST-55'
+[00:25:39	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:25:42	]S10/OWS.GHOST-55 is fully healed.
+[00:25:43	]C17:RCT.YELLO-78 has added area "Lokal 4 - Triumph Street".
+[00:26:55	]Lorf (STEAM_0:0:83902827) has disconnected.
+[00:27:11	]C17:RCT.YELLO-78 has added area "Lokal 5 - Victory Square".
+[00:27:45	]C17:RCT.YELLO-78 has added area "Lokal 6 - Victory Square".
+[00:27:56	][OOC] S10/OWS.GHOST-55: Szukam początku kurwa tych kanałów
+[00:28:28	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:28:36	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:28:40	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:28:46	][OOC] S10/OWS.GHOST-55: jusz widze!
+[00:28:48	]S10/OWS.GHOST-55 used command '/AreaEdit'.
+[00:28:49	]C17:RCT.YELLO-78 has added area "Lokal 7 - Victory Square".
+[00:28:55	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:29:05	][OOC] C17:RCT.YELLO-78: brawo!!!!!
+[00:29:40	]S10/OWS.GHOST-55 has added area "Winda do kanałów".
+[00:29:44	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:29:56	]S10/OWS.GHOST-55 ran SAM command 'slay' with arguments: 'ghost' '100'
+[00:30:06	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:30:14	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:30:20	]C17:RCT.YELLO-78 has added area "Lokal 8 - Victory Square".
+[00:30:24	][OOC] S10/OWS.GHOST-55: Szkoda, że to obiera nazwę główną, a nie tą kombinatową
+[00:31:46	]C17:RCT.YELLO-78 has added area "Lokal 9 - Victory Square".
+[00:33:48	][OOC] S10/OWS.GHOST-55: sory że tym tak spamię, ale szukam wszystkich chatterów Dispatch
+[00:33:55	][OOC] C17:RCT.YELLO-78: czym spamisz
+[00:33:59	][IC] S10/OWS.GHOST-55: <:: A czyli nie slyszysz tego? ::>
+[00:34:03	][OOC] C17:RCT.YELLO-78: ty to sobie puszczasz tylko
+[00:34:05	][OOC] S10/OWS.GHOST-55: A czyli nie slyszysz tego?
+[00:34:10	][OOC] C17:RCT.YELLO-78: nie
+[00:34:15	][OOC] S10/OWS.GHOST-55: To dobrze :)
+[00:34:21	][OOC] C17:RCT.YELLO-78: :)
+[00:34:46	]C17:RCT.YELLO-78 has added area "Lokal 10".
+[00:35:26	]C17:RCT.YELLO-78 has added area "Lokal 11".
+[00:35:43	]C17:RCT.YELLO-78 has added area "Lokal 12".
+[00:37:03	]Recik (STEAM_0:1:57940784) has disconnected.
+[00:39:36	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:39:42	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:39:44	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:39:46	]S10/OWS.GHOST-55 used command '/AreaEdit'.
+[00:40:49	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:40:51	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:42:07	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:42:08	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:45:29	]S10/OWS.GHOST-55 has added area "Wschodnia Fawela".
+[00:45:31	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:45:33	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:45:49	]S10/OWS.GHOST-55 has added area "Fawela".
+[00:46:10	]S10/OWS.GHOST-55 has added area "Zachodnia Fawela".
+[00:46:31	]S10/OWS.GHOST-55 has added area "Północna Fawela".
+[00:47:00	]S10/OWS.GHOST-55 has added area "Winda CCA - kanały".
+[00:47:23	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:49:08	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:49:10	]S10/OWS.GHOST-55 used command '/AreaEdit'.
+[00:49:20	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:49:21	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:49:22	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:49:30	]S10/OWS.GHOST-55 has removed area "Winda CCA - kanały".
+[00:52:12	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:52:42	]S10/OWS.GHOST-55 has added area "Fawela - projekty mieszkalne".
+[00:53:22	]S10/OWS.GHOST-55 has added area "Projekty mieszalne - pierwsze piętro".
+[00:53:38	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:53:57	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:54:20	]S10/OWS.GHOST-55 used command '/AreaEdit'.
+[00:54:36	]S10/OWS.GHOST-55 has taken 1 damage from env_fire.
+[00:55:11	]S10/OWS.GHOST-55 has added area "Fawela północna".
+[00:55:23	]S10/OWS.GHOST-55 has removed area "Północna Fawela".
+[00:55:58	]S10/OWS.GHOST-55 has removed area "Fawela północna".
+[00:56:21	]S10/OWS.GHOST-55 has added area "Północna Fawela".
+[00:56:26	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:56:35	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:56:58	]S10/OWS.GHOST-55 used command '/AreaEdit'.
+[00:57:20	]S10/OWS.GHOST-55 has added area "PRojekty mieszkalne - wschód".
+[00:57:23	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:57:28	]S10/OWS.GHOST-55 used command '/AreaEdit'.
+[00:57:58	]S10/OWS.GHOST-55 has added area "Projekty mieszkalne - piwnica".
+[00:58:00	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[00:58:08	]S10/OWS.GHOST-55 has removed area "Projekty mieszalne - pierwsze piętro".
+[00:58:17	]S10/OWS.GHOST-55 is fully healed.
+[00:58:25	]S10/OWS.GHOST-55 has added area "Projekty mieszklane - pierwsze piętro".
+[00:58:55	]S10/OWS.GHOST-55 has removed area "Fawela - projekty mieszkalne".
+[00:59:00	]S10/OWS.GHOST-55 has removed area "PRojekty mieszkalne - wschód".
+[00:59:14	]S10/OWS.GHOST-55 has added area "Projekty mieszkalne - wschód".
+[00:59:37	]S10/OWS.GHOST-55 has added area "Przejście do kanalizacji".
+[00:59:54	]S10/OWS.GHOST-55 has added area "Wejście do kanalizacji".
+[01:00:22	]S10/OWS.GHOST-55 has added area "Wyjście z kanalizacji".
+[01:01:14	]S10/OWS.GHOST-55 has added area "Opuszczone metro - pierwszy korytarz".
+[01:01:46	]S10/OWS.GHOST-55 has added area "Opuszczone lobby".
+[01:03:31	]S10/OWS.GHOST-55 has added area "Pierwszy stopień - opuszczone metro".
+[01:03:42	]S10/OWS.GHOST-55 has added area "Drugi stopień - opuszczone metro".
+[01:03:44	]S10/OWS.GHOST-55 has removed area "Drugi stopień - opuszczone metro".
+[01:03:58	]S10/OWS.GHOST-55 has added area "Drugi stopień - opuszczone metro".
+[01:06:05	]S10/OWS.GHOST-55 has added area "Winda CCA - wyjście z kanałów".
+[01:06:28	]S10/OWS.GHOST-55 has added area "Winda CCA - wejście do kanałów".
+[01:06:31	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[01:07:27	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[01:07:32	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[01:07:39	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[01:07:44	]S10/OWS.GHOST-55 used command '/AreaEdit'.
+[01:08:14	]S10/OWS.GHOST-55 has added area "Południowe Metro".
+[01:08:18	]S10/OWS.GHOST-55 has removed area "Południowe Metro".
+[01:08:22	]S10/OWS.GHOST-55 has removed area "Pierwszy stopień - opuszczone metro".
+[01:08:25	]S10/OWS.GHOST-55 has removed area "Opuszczone metro - pierwszy korytarz".
+[01:08:59	]S10/OWS.GHOST-55 has added area "Północne Metro".
+[01:09:03	]S10/OWS.GHOST-55 has removed area "Północne Metro".
+[01:09:05	]S10/OWS.GHOST-55 has removed area "Drugi stopień - opuszczone metro".
+[01:09:40	]S10/OWS.GHOST-55 has added area "Północne Metro".
+[01:10:28	]S10/OWS.GHOST-55 has added area "Południowe Metro".
+[01:11:05	]S10/OWS.GHOST-55 has added area "Metro - Główne Lobby".
+[01:11:31	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[01:11:33	]S10/OWS.GHOST-55 ran SAM command 'noclip' with arguments: ''
+[01:11:47	]S10/OWS.GHOST-55 has removed area "Winda CCA - wyjście z kanałów".
+[01:12:03	]S10/OWS.GHOST-55 has added area "Winda CCA - wyjście z metro".
+[03:29:31	]Recik has connected.
+[03:34:42	]Recik loaded the character 'C17:RCT.YELLO-78'
+[03:34:53	]C17:RCT.YELLO-78 entered observer.
+[03:35:01	]C17:RCT.YELLO-78 exited observer at their location.
+[03:35:58	]C17:RCT.YELLO-78 entered observer.
+[03:36:00	]C17:RCT.YELLO-78 exited observer at their location.
+[03:36:03	]C17:RCT.YELLO-78 entered observer.
+[03:36:04	]C17:RCT.YELLO-78 exited observer at their location.
+[03:36:08	]C17:RCT.YELLO-78 entered observer.
+[03:36:16	]C17:RCT.YELLO-78 used command '/AreaEdit'.
+[03:36:24	]C17:RCT.YELLO-78 exited observer at their location.
+[03:36:29	]C17:RCT.YELLO-78 entered observer.
+[03:42:11	]C17:RCT.YELLO-78 przeszedł w tryb AFK.
+[03:43:11	]C17:RCT.YELLO-78 nie jest już AFK. Całkowity czas spędzony AFK:  355
+[03:49:11	]C17:RCT.YELLO-78 przeszedł w tryb AFK.
+[05:54:15	]Recik (STEAM_0:1:57940784) has disconnected (timed out).
+[11:08:03	]Recik has connected.
+[11:08:46	]Recik loaded the character 'C17:RCT.YELLO-78'
+[11:08:59	]C17:RCT.YELLO-78 entered observer.
+[11:10:15	]C17:RCT.YELLO-78 used command '/AreaEdit'.
+[11:10:50	]C17:RCT.YELLO-78 exited observer at their location.
+[11:10:55	]C17:RCT.YELLO-78 entered observer.
+[11:13:52	]C17:RCT.YELLO-78 exited observer at their location.
+[11:14:02	]C17:RCT.YELLO-78 entered observer.
+[11:15:52	]C17:RCT.YELLO-78 has removed area "Wyjście z kanalizacji".
+[11:15:59	]C17:RCT.YELLO-78 has removed area "Wejście do kanalizacji".
+[11:17:22	]C17:RCT.YELLO-78 exited observer at their location.
+[11:17:52	]C17:RCT.YELLO-78 used command '/PlyWhitelist ^ ota'.
+[11:17:55	]Recik has unloaded their "C17:RCT.YELLO-78" character.
+[11:18:03	]Recik created the character 'S10/OWS.GHOST-74'
+[11:18:03	]Recik has gained level 40 in the Broń palna skill.
+[11:18:03	]Recik has gained level 40 in the Prędkość skill.
+[11:18:03	]Recik loaded the character 'S10/OWS.GHOST-74'
+[11:18:03	]S10/OWS.GHOST-74 has gained a 'Mała torba' #1189.
+[11:18:04	]S10/OWS.GHOST-74 has gained a 'Duża torba' #1190.
+[11:18:04	]S10/OWS.GHOST-74 has gained a 'Flashlight' #1191.
+[11:18:04	]S10/OWS.GHOST-74 has gained a 'PDA Kombinatu' #1192.
+[11:18:04	]S10/OWS.GHOST-74 has gained a 'Uniform OTA' #1193.
+[11:18:04	]S10/OWS.GHOST-74 has gained a 'Maska OTA' #1194.
+[11:18:04	]S10/OWS.GHOST-74 has gained a 'Rappel Gear' #1195.
+[11:18:04	]S10/OWS.GHOST-74 has gained a 'Ładownica na magazynki' #1196.
+[11:18:04	]S10/OWS.GHOST-74 has gained a 'Ładownica na amunicję' #1197.
+[11:18:07	]S10/OWS.GHOST-74 entered observer.
+[11:19:04	]S10/OWS.GHOST-74 used command '/AreaEdit'.
+[11:19:11	]S10/OWS.GHOST-74 has removed area "Przejście do kanalizacji".
+[11:20:02	]S10/OWS.GHOST-74 has added area "Północna Część Willard Street".
+[11:20:08	]S10/OWS.GHOST-74 has removed area "Zachodnia Część Willard Street".
+[11:20:23	]S10/OWS.GHOST-74 has removed area "Południowa Część Willard Street  ".
+[11:20:43	]S10/OWS.GHOST-74 has added area "Zachodnia Część Willard Street".
+[11:21:43	]S10/OWS.GHOST-74 exited observer at their location.
+[11:21:47	]S10/OWS.GHOST-74 ran SAM command 'slay' with arguments: '^'
+[11:21:54	]S10/OWS.GHOST-74 entered observer.
+[11:22:02	]S10/OWS.GHOST-74 exited observer at their location.
+[11:22:04	]S10/OWS.GHOST-74 ran SAM command 'slay' with arguments: '^'
+[11:22:06	]S10/OWS.GHOST-74 entered observer.
+[11:22:15	]S10/OWS.GHOST-74 exited observer at their location.
+[11:22:16	]S10/OWS.GHOST-74 entered observer.
+[11:22:18	]S10/OWS.GHOST-74 exited observer at their location.
+[11:22:21	]S10/OWS.GHOST-74 ran SAM command 'slay' with arguments: '^'
+[11:22:25	]S10/OWS.GHOST-74 entered observer.
+[11:22:28	]S10/OWS.GHOST-74 exited observer at their location.
+[11:23:14	]S10/OWS.GHOST-74 ran SAM command 'slay' with arguments: '^'
+[11:23:18	]S10/OWS.GHOST-74 entered observer.
+[11:23:30	]S10/OWS.GHOST-74 has used a context menu option with the name: remove
+[11:23:44	]S10/OWS.GHOST-74 used command '/AreaEdit'.
+[11:24:18	]S10/OWS.GHOST-74 has removed area "Projekty mieszklane - pierwsze piętro".
+[11:24:32	]S10/OWS.GHOST-74 has removed area "Blok Mieszkalny 3 - Skrzydło Zachodnie".
+[11:25:11	]S10/OWS.GHOST-74 has removed area "Blok Mieszkalny 3 - Skrzydło Południowe".
+[11:25:14	]S10/OWS.GHOST-74 has removed area "Blok Mieszkalny 3 - Skrzydło Północne".
+[11:25:28	]S10/OWS.GHOST-74 has added area "Blok Mieszkalny 3 - Skrzydło Północne".
+[11:25:52	]S10/OWS.GHOST-74 has added area "Blok Mieszkalny 3 - Skrzydło Wschodnie".
+[11:26:11	]S10/OWS.GHOST-74 has added area "Blok Mieszkalny 3 - Skrzydło Zachodnie".
+[11:26:37	]S10/OWS.GHOST-74 has removed area "Blok Mieszkalny 2 - Skrzydło Północne".
+[11:26:58	]S10/OWS.GHOST-74 has added area "Blok Mieszkalny 2 - Skrzydło Wschodnie".
+[11:27:18	]S10/OWS.GHOST-74 has removed area "Blok Mieszkalny 2 - Skrzydło Południowe".
+[11:27:50	]S10/OWS.GHOST-74 has added area "Blok Mieszkalny 2 - Skrzydło Zachodnie".
+[11:28:53	]S10/OWS.GHOST-74 has removed area "Zachodnia Część Triumph Street".
+[11:29:17	]S10/OWS.GHOST-74 has added area "Północna Część Triumph Street".
+[11:29:21	]S10/OWS.GHOST-74 has removed area "Południowa Część Triumph Street ".
+[11:29:55	]S10/OWS.GHOST-74 has added area "Zachodnia Część Triumph Street".
+[11:30:27	]S10/OWS.GHOST-74 has removed area "Zachodnia Fawela".
+[11:30:29	]S10/OWS.GHOST-74 has removed area "Fawela".
+[11:30:31	]S10/OWS.GHOST-74 has removed area "Wschodnia Fawela".
+[11:31:04	]S10/OWS.GHOST-74 has added area "Strefa Wykluczenia - Slumsy".
+[11:31:21	]S10/OWS.GHOST-74 exited observer at their location.
+[11:31:26	]S10/OWS.GHOST-74 entered observer.
+[11:32:02	]S10/OWS.GHOST-74 has removed area "Północna Fawela".
+[11:33:25	]S10/OWS.GHOST-74 has added area "Strefa Wykluczenia - Podwórko".
+[11:33:43	]S10/OWS.GHOST-74 has removed area "Strefa Wykluczenia - Slumsy".
+[11:34:05	]S10/OWS.GHOST-74 has added area "Strefa Wykluczenia - Slumsy".
+[11:34:11	]S10/OWS.GHOST-74 has removed area "Projekty mieszkalne - piwnica".
+[11:34:15	]S10/OWS.GHOST-74 has removed area "Projekty mieszkalne - wschód".
+[11:35:29	]S10/OWS.GHOST-74 has added area "Jaskinia Wortygontów".
+[11:35:45	]S10/OWS.GHOST-74 has removed area "Jaskinia Wortygontów".
+[11:36:15	]S10/OWS.GHOST-74 has added area "Gazownia".
+[11:36:21	]S10/OWS.GHOST-74 exited observer at their location.
+[11:36:48	]Recik has unloaded their "S10/OWS.GHOST-74" character.
+[11:36:51	]Recik loaded the character 'John Veles'
+[11:36:53	]John Veles entered observer.
+[11:36:56	]John Veles is fully healed.
+[11:37:01	]John Veles exited observer at their location.
+[11:38:17	]John Veles used command '/AreaEdit'.
+[11:38:24	]John Veles has removed area "Gazownia".
+[11:38:37	]John Veles has added area "Gazownia".
+[11:38:40	]John Veles has removed area "Gazownia".
+[11:38:47	]John Veles used command '/AreaEdit'.
+[11:38:59	]John Veles has added area "Gazownia".
+[11:39:06	]John Veles has taken 50 damage from worldspawn.
+[11:39:11	]John Veles was knocked unconscious and is bleeding out.
+[11:39:16	]John Veles was killed while bleeding out.
+[11:39:16	]worldspawn has killed John Veles.
+[11:39:26	]Recik has unloaded their "John Veles" character.
+[11:39:30	]Recik loaded the character 'S10/OWS.GHOST-74'
+[11:39:33	]S10/OWS.GHOST-74 entered observer.
+[11:39:34	]S10/OWS.GHOST-74 exited observer at their location.
+[11:39:57	]Recik has unloaded their "S10/OWS.GHOST-74" character.
+[11:40:01	]Recik loaded the character 'C17:RCT.YELLO-78'
+[11:40:06	]C17:RCT.YELLO-78 entered observer.
+[11:40:10	]C17:RCT.YELLO-78 exited observer at their location.
+[11:40:11	]C17:RCT.YELLO-78 entered observer.
+[11:40:12	]C17:RCT.YELLO-78 exited observer at their location.
+[11:40:12	]C17:RCT.YELLO-78 entered observer.
+[11:40:13	]C17:RCT.YELLO-78 exited observer at their location.
+[11:40:13	]C17:RCT.YELLO-78 entered observer.
+[11:40:14	]C17:RCT.YELLO-78 exited observer at their location.
+[11:40:26	]C17:RCT.YELLO-78 has taken 50 damage from worldspawn.
+[11:40:31	]C17:RCT.YELLO-78 was knocked unconscious and is bleeding out.
+[11:40:36	]C17:RCT.YELLO-78 was killed while bleeding out.
+[11:40:36	]worldspawn has killed C17:RCT.YELLO-78.
+[11:40:40	]C17:RCT.YELLO-78 used command '/CharGetUp'.
+[11:40:47	]Recik has unloaded their "C17:RCT.YELLO-78" character.
+[11:40:52	]Recik loaded the character 'adadas dasdas'
+[11:40:53	]adadas dasdas entered observer.
+[11:40:57	]adadas dasdas is fully healed.
+[11:41:01	]adadas dasdas exited observer at their location.
+[11:41:17	]adadas dasdas has taken 50 damage from worldspawn.
+[11:41:36	]adadas dasdas set GasVorts to '[false]'.
+[11:42:16	]adadas dasdas has given himself a head_gasmask.
+[11:42:16	]adadas dasdas has gained a 'Maska gazowa' #1198.
+[11:42:17	]adadas dasdas has given himself a head_gasmask2.
+[11:42:17	]adadas dasdas has gained a 'Maska gazowa M40' #1199.
+[11:42:42	]adadas dasdas has given himself a vortigaunt_head_fedora.
+[11:42:42	]adadas dasdas has gained a 'Fedora dla Vortigaunta' #1200.
+[11:43:00	]Recik has unloaded their "adadas dasdas" character.
+[11:43:03	]Recik loaded the character 'C17:RCT.YELLO-78'
+[11:43:21	]C17:RCT.YELLO-78 has given himself a combine_filter.
+[11:43:21	]C17:RCT.YELLO-78 has gained a 'Filtr Kombinatu' #1201.
+[11:43:21	]C17:RCT.YELLO-78 has given himself a highquality_filter.
+[11:43:21	]C17:RCT.YELLO-78 has gained a 'Filtr wysokiej jakości' #1202.
+[11:43:22	]C17:RCT.YELLO-78 has given himself a makeshift_filter.
+[11:43:22	]C17:RCT.YELLO-78 has gained a 'Filtr domowej roboty' #1203.
+[11:43:41	]C17:RCT.YELLO-78 ran 'Equip' on item 'Filtr Kombinatu' (#1201)
+[11:43:46	]C17:RCT.YELLO-78 entered observer.
+[11:44:00	]C17:RCT.YELLO-78 exited observer at their location.
+[11:44:08	]C17:RCT.YELLO-78 has taken 50 damage from worldspawn.
+[11:44:16	]C17:RCT.YELLO-78 ran 'EquipUn' on item 'Filtr Kombinatu' (#1201)
+[11:44:22	]C17:RCT.YELLO-78 ran 'Equip' on item 'Filtr wysokiej jakości' (#1202)
+[11:44:28	]C17:RCT.YELLO-78 was knocked unconscious and is bleeding out.
+[11:44:33	]C17:RCT.YELLO-78 was killed while bleeding out.
+[11:44:33	]worldspawn has killed C17:RCT.YELLO-78.
+[11:44:38	]C17:RCT.YELLO-78 entered observer.
+[11:44:50	]C17:RCT.YELLO-78 used command '/AreaEdit'.
+[11:44:54	]C17:RCT.YELLO-78 has removed area "Zbrojownia".
+[11:44:57	]C17:RCT.YELLO-78 has removed area "Gazownia".
+[11:45:46	]C17:RCT.YELLO-78 has added area "Gazownia - 1".
+[11:45:48	]C17:RCT.YELLO-78 exited observer at their location.
+[11:45:49	]C17:RCT.YELLO-78 ran 'EquipUn' on item 'Filtr wysokiej jakości' (#1202)
+[11:46:46	]C17:RCT.YELLO-78 set gasPointGainScale to '5'.
+[11:47:27	]C17:RCT.YELLO-78 set areaTickTime to '0.1'.
+[11:47:48	]C17:RCT.YELLO-78 used command '/AreaEdit'.
+[11:48:06	]C17:RCT.YELLO-78 has added area "Gazownia 2".
+[11:48:34	]C17:RCT.YELLO-78 used command '/AreaEdit'.
+[11:48:36	]C17:RCT.YELLO-78 has removed area "Gazownia 2".
+[11:48:45	]C17:RCT.YELLO-78 has added area "Prawa komora".
+[11:51:23	]C17:RCT.YELLO-78 ran 'Equip' on item 'Filtr Kombinatu' (#1201)
+[11:51:48	]C17:RCT.YELLO-78 ran 'EquipUn' on item 'Filtr Kombinatu' (#1201)
+[11:51:49	]C17:RCT.YELLO-78 ran 'Equip' on item 'Filtr wysokiej jakości' (#1202)
+[11:52:01	]C17:RCT.YELLO-78 ran 'EquipUn' on item 'Filtr wysokiej jakości' (#1202)
+[11:52:02	]C17:RCT.YELLO-78 entered observer.
+[11:52:05	]C17:RCT.YELLO-78 used command '/AreaEdit'.
+[11:52:07	]C17:RCT.YELLO-78 has removed area "Gazownia - 1".
+[11:52:09	]C17:RCT.YELLO-78 has removed area "Prawa komora".
+[11:52:18	]C17:RCT.YELLO-78 has added area "lewa komora".
+[11:52:19	]C17:RCT.YELLO-78 exited observer at their location.
+[11:52:38	]C17:RCT.YELLO-78 has taken 5 damage from worldspawn.
+[11:52:43	]C17:RCT.YELLO-78 has taken 5 damage from worldspawn.
+[11:52:48	]C17:RCT.YELLO-78 has taken 5 damage from worldspawn.
+[11:52:49	]C17:RCT.YELLO-78 ran 'Equip' on item 'Filtr wysokiej jakości' (#1202)
+[11:52:53	]C17:RCT.YELLO-78 has taken 5 damage from worldspawn.
+[11:52:58	]C17:RCT.YELLO-78 has taken 5 damage from worldspawn.
+[11:53:03	]C17:RCT.YELLO-78 has taken 5 damage from worldspawn.
+[11:53:18	]C17:RCT.YELLO-78 has taken 5 damage from worldspawn.
+[11:53:26	]C17:RCT.YELLO-78 ran 'EquipUn' on item 'Filtr wysokiej jakości' (#1202)
+[11:53:28	]C17:RCT.YELLO-78 has taken 5 damage from worldspawn.
+[11:53:31	]C17:RCT.YELLO-78 ran 'Equip' on item 'Filtr wysokiej jakości' (#1202)
+[11:53:33	]C17:RCT.YELLO-78 has taken 5 damage from worldspawn.
+[11:53:34	]C17:RCT.YELLO-78 ran 'EquipUn' on item 'Filtr wysokiej jakości' (#1202)
+[11:53:48	]C17:RCT.YELLO-78 set gasPointGainScale to '1'.
+[11:53:50	]C17:RCT.YELLO-78 set areaTickTime to '1'.
+[11:53:55	]C17:RCT.YELLO-78 used command '/AreaEdit'.
+[11:53:58	]C17:RCT.YELLO-78 has removed area "lewa komora".
+[11:54:01	]C17:RCT.YELLO-78 entered observer.
+[11:54:03	]C17:RCT.YELLO-78 exited observer at their location.
+[11:54:07	]C17:RCT.YELLO-78 entered observer.
+[11:54:11	]C17:RCT.YELLO-78 exited observer at their location.
+[11:54:36	]Recik has unloaded their "C17:RCT.YELLO-78" character.
+[11:54:40	]Recik loaded the character 'S10/OWS.GHOST-74'
+[11:54:43	]S10/OWS.GHOST-74 used command '/AreaEdit'.
+[11:54:52	]S10/OWS.GHOST-74 has added area "New Area".
+[11:55:10	]S10/OWS.GHOST-74 used command '/AreaEdit'.
+[11:55:14	]S10/OWS.GHOST-74 has removed area "New Area".
+[11:55:29	]S10/OWS.GHOST-74 entered observer.
+[11:56:33	]Recik has unloaded their "S10/OWS.GHOST-74" character.
+[11:56:36	]Recik loaded the character 'C17:RCT.YELLO-78'
+[11:56:43	]C17:RCT.YELLO-78 used command '/CharSetGasPoints ^ 100'.
+[11:56:49	]C17:RCT.YELLO-78 entered observer.
+[11:56:49	]C17:RCT.YELLO-78 exited observer at their location.
+[11:57:58	]C17:RCT.YELLO-78 used command '/CharSetGasPoints ^ 101'.
+[11:58:03	]C17:RCT.YELLO-78 used command '/CharSetGasPoints ^ 110'.
+[11:58:07	]C17:RCT.YELLO-78 used command '/CharSetGasPoints ^ 200'.
+[11:58:16	]C17:RCT.YELLO-78 has died from lethal poison levels.
+[11:58:33	]C17:RCT.YELLO-78 entered observer.
+[11:58:36	]C17:RCT.YELLO-78 exited observer at their location.
+[11:58:39	]C17:RCT.YELLO-78 used command '/AreaEdit'.
+[11:58:55	]C17:RCT.YELLO-78 has added area "Gaz".
+[11:59:31	]C17:RCT.YELLO-78 set gasPointInjuryScale to '5'.
+[12:00:06	]C17:RCT.YELLO-78 ran SAM command 'hp' with arguments: '^' '1'
+[12:00:28	]C17:RCT.YELLO-78 set gasPointGainScale to '5'.
+[12:01:31	]C17:RCT.YELLO-78 ran SAM command 'hp' with arguments: '^' '80'
+[12:02:23	]C17:RCT.YELLO-78 set gasPointGainScale to '5'.
+[12:02:45	]C17:RCT.YELLO-78 set areaTickTime to '0.1'.
+[12:03:00	]C17:RCT.YELLO-78 set areaTickTime to '4'.
+[12:03:14	]C17:RCT.YELLO-78 set areaTickTime to '1'.
+[12:04:46	]C17:RCT.YELLO-78 set gasPointRecoveryPenalty to '5'.
+[12:10:56	]C17:RCT.YELLO-78 has given himself a surgerykit.
+[12:10:56	]C17:RCT.YELLO-78 has gained a 'Zestaw chirurgiczny' #1204.
+[12:11:17	]C17:RCT.YELLO-78 has given himself a bandage.
+[12:11:17	]C17:RCT.YELLO-78 has gained a 'Bandaż' #1205.
+[12:11:18	]C17:RCT.YELLO-78 has given himself a makeshift_bandage.
+[12:11:18	]C17:RCT.YELLO-78 has gained a 'Własnoręczny bandaż' #1206.
+[12:11:19	]C17:RCT.YELLO-78 has given himself a disinfected_bandage.
+[12:11:19	]C17:RCT.YELLO-78 has gained a 'Bandaż ze środkiem dezynfekującym' #1207.
+[12:13:37	][IC] C17:RCT.YELLO-78: <:: HASŁO DO SZAFKI TO 123. ::>
+[12:14:17	]C17:RCT.YELLO-78 used command '/ActInjured'.
+[12:14:28	]C17:RCT.YELLO-78 has given himself a rave.
+[12:14:28	]C17:RCT.YELLO-78 has gained a 'RAVE' #1208.
+[12:14:45	]C17:RCT.YELLO-78 ran 'Consume' on item 'RAVE' (#1208)
+[12:14:45	]C17:RCT.YELLO-78 has gained a level 5 short boost in Siła.
+[12:14:52	]C17:RCT.YELLO-78 used command '/ExitAct'.
+[12:16:28	]C17:RCT.YELLO-78 used command '/RemoveDrugEffects ^'.
+[12:16:38	]C17:RCT.YELLO-78 entered observer.
+[12:16:46	]C17:RCT.YELLO-78 exited observer at their location.
+[12:18:07	]C17:RCT.YELLO-78 used command '/CheckCrime'.
+[12:24:05	]C17:RCT.YELLO-78 used command '/CheckPetty'.
+[12:24:18	]C17:RCT.YELLO-78 used command '/CheckPlayerSmugglerPickupItems ^'.
+[12:27:02	]C17:RCT.YELLO-78 used command '/CharSetGasPoints ^ 179'.
+[12:27:05	]C17:RCT.YELLO-78 used command '/CharSetGasPoints ^ 181'.
+[12:27:06	]C17:RCT.YELLO-78 has died from lethal poison levels.
+[12:27:22	]C17:RCT.YELLO-78 used command '/AreaEdit'.
+[12:27:28	]C17:RCT.YELLO-78 has removed area "Gaz".
+[12:29:54	]C17:RCT.YELLO-78 entered observer.
+[12:30:15	]C17:RCT.YELLO-78 has added area "Zbrojownia".
+[12:30:59	]C17:RCT.YELLO-78 has removed area "Tunel".
+[12:31:16	]C17:RCT.YELLO-78 has removed area "Winda do kanałów".
+[12:32:31	]C17:RCT.YELLO-78 exited observer at their location.
+[12:32:38	]C17:RCT.YELLO-78 entered observer.
+[12:32:40	]C17:RCT.YELLO-78 exited observer at their location.
+[12:32:44	]C17:RCT.YELLO-78 entered observer.
+[12:32:49	]C17:RCT.YELLO-78 exited observer at their location.
+[12:32:51	]C17:RCT.YELLO-78 entered observer.
+[12:33:08	]C17:RCT.YELLO-78 has given himself a flashlight.
+[12:33:08	]C17:RCT.YELLO-78 has gained a 'Flashlight' #1209.
+[12:33:14	]C17:RCT.YELLO-78 exited observer at their location.
+[12:33:16	]C17:RCT.YELLO-78 entered observer.
+[12:33:25	]C17:RCT.YELLO-78 exited observer at their location.
+[12:33:30	]C17:RCT.YELLO-78 entered observer.
+[12:34:08	]C17:RCT.YELLO-78 exited observer at their location.
+[12:34:17	]C17:RCT.YELLO-78 entered observer.
+[12:34:44	]C17:RCT.YELLO-78 exited observer at their location.
+[12:34:49	]C17:RCT.YELLO-78 entered observer.
+[12:37:19	]Recik (STEAM_0:1:57940784) has disconnected.

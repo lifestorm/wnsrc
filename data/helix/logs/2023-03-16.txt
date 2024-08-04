@@ -1,0 +1,824 @@
+[23:08:00	]Loxy has connected.
+[23:09:02	]Loxy loaded the character 'Maciek Dąbrowski'
+[23:09:09	]Maciek Dąbrowski entered observer.
+[23:11:18	][INFESTATION] Maciek Dąbrowski (STEAM_0:1:421238310)  has entered Infestation Edit Mode.
+[23:11:18	]Maciek Dąbrowski used command '/InfestationEdit'.
+[23:11:32	][INFESTATION] Maciek Dąbrowski (STEAM_0:1:421238310) has exited Infestation Edit Mode.
+[23:12:19	]Maciek Dąbrowski exited observer at their location.
+[23:12:19	]Maciek Dąbrowski entered observer.
+[23:12:30	]Maciek Dąbrowski exited observer at their location.
+[23:12:31	]Maciek Dąbrowski entered observer.
+[23:12:41	]Maciek Dąbrowski exited observer at their location.
+[23:12:47	]Maciek Dąbrowski entered observer.
+[23:16:33	]Chogacz has connected.
+[23:17:06	][AltChecker] Chogacz joined without a cookie, but matched installation with existing cookie. Certainty 3/5
+[23:17:14	]Chogacz loaded the character 'C17:RCT.YELLO-57'
+[23:17:21	]C17:RCT.YELLO-57 ran 'drop' on item 'applicatorItemName' (#3030)
+[23:17:21	]C17:RCT.YELLO-57 has lost a 'applicatorItemName' #3030.
+[23:17:23	]C17:RCT.YELLO-57 has used a context menu option with the name: remove
+[23:17:25	]C17:RCT.YELLO-57 ran 'drop' on item 'Flashlight' (#3025)
+[23:17:25	]C17:RCT.YELLO-57 has lost a 'Flashlight' #3025.
+[23:17:27	]C17:RCT.YELLO-57 has used a context menu option with the name: remove
+[23:17:47	]C17:RCT.YELLO-57 has given himself a uniform_auxcp.
+[23:17:47	]C17:RCT.YELLO-57 has gained a 'Auxiliary Unit Uniform' #3033.
+[23:17:58	]C17:RCT.YELLO-57 ran 'drop' on item 'Auxiliary Unit Uniform' (#3033)
+[23:17:58	]C17:RCT.YELLO-57 has lost a 'Auxiliary Unit Uniform' #3033.
+[23:18:00	]C17:RCT.YELLO-57 has used a context menu option with the name: collision_off
+[23:18:01	]C17:RCT.YELLO-57 has used a context menu option with the name: remove
+[23:18:05	]C17:RCT.YELLO-57 has given himself a uniform_cp.
+[23:18:05	]C17:RCT.YELLO-57 has gained a 'CP Uniform' #3034.
+[23:18:07	]C17:RCT.YELLO-57 has given himself a mask_cp.
+[23:18:07	]C17:RCT.YELLO-57 has gained a 'CP Mask' #3035.
+[23:18:42	]C17:RCT.YELLO-57 has given himself a mp7a1.
+[23:18:42	]C17:RCT.YELLO-57 has gained a 'MP7A1' #3036.
+[23:18:50	]C17:RCT.YELLO-57 has given himself a magazine_mp_30rnd.
+[23:18:50	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3037.
+[23:18:51	]C17:RCT.YELLO-57 has given himself a magazine_mp_30rnd.
+[23:18:51	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3038.
+[23:18:51	]C17:RCT.YELLO-57 has given himself a magazine_mp_30rnd.
+[23:18:51	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3039.
+[23:18:52	]C17:RCT.YELLO-57 has given himself a magazine_mp_30rnd.
+[23:18:52	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3040.
+[23:19:03	]C17:RCT.YELLO-57 has given himself a bullets_smg1.
+[23:19:03	]C17:RCT.YELLO-57 has gained a 'Sub-machinegun Bullets' #3041.
+[23:19:04	]C17:RCT.YELLO-57 has given himself a bullets_smg1.
+[23:19:04	]C17:RCT.YELLO-57 has gained a 'Sub-machinegun Bullets' #3042.
+[23:19:05	]C17:RCT.YELLO-57 has given himself a bullets_smg1.
+[23:19:05	]C17:RCT.YELLO-57 has gained a 'Sub-machinegun Bullets' #3043.
+[23:19:06	]C17:RCT.YELLO-57 has given himself a bullets_smg1.
+[23:19:06	]C17:RCT.YELLO-57 has gained a 'Sub-machinegun Bullets' #3044.
+[23:19:07	]C17:RCT.YELLO-57 ran 'combine' on item '30rnd MP-magazine' (#3039)
+[23:19:07	]C17:RCT.YELLO-57 ran 'combine' on item '30rnd MP-magazine' (#3038)
+[23:19:08	]C17:RCT.YELLO-57 ran 'combine' on item '30rnd MP-magazine' (#3040)
+[23:19:09	]C17:RCT.YELLO-57 ran 'combine' on item '30rnd MP-magazine' (#3037)
+[23:19:10	]C17:RCT.YELLO-57 ran 'Equip' on item 'MP7A1' (#3036)
+[23:19:11	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3040.
+[23:19:14	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3040.
+[23:19:14	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3039.
+[23:19:29	]C17:RCT.YELLO-57 ran SAM command 'goto' with arguments: 'maciek'
+[23:19:29	]Maciek Dąbrowski exited observer at their location.
+[23:19:33	]Maciek Dąbrowski ran 'drop' on item 'EMP Device' (#1325)
+[23:19:33	]Maciek Dąbrowski has lost a 'EMP Device' #1325.
+[23:19:33	]Maciek Dąbrowski ran 'use' on item 'Basic Yellow Pill' (#1048)
+[23:19:33	]Maciek Dąbrowski has gained a level 3 short boost in Perception.
+[23:19:34	]Maciek Dąbrowski ran 'drop' on item 'Stitched Cloth' (#1032)
+[23:19:34	]Maciek Dąbrowski has lost a 'Stitched Cloth' #1032.
+[23:19:35	]Maciek Dąbrowski ran 'drop' on item 'Blue Light Kevlar Uniform' (#1177)
+[23:19:35	]Maciek Dąbrowski has lost a 'Blue Light Kevlar Uniform' #1177.
+[23:19:36	]Maciek Dąbrowski ran 'drop' on item 'Black Weather Jacket' (#935)
+[23:19:36	]Maciek Dąbrowski has lost a 'Black Weather Jacket' #935.
+[23:19:36	]Maciek Dąbrowski ran 'drop' on item 'Green Light Kevlar Uniform' (#1094)
+[23:19:36	]Maciek Dąbrowski has lost a 'Green Light Kevlar Uniform' #1094.
+[23:19:38	]Maciek Dąbrowski has used a context menu option with the name: remove
+[23:19:39	]Maciek Dąbrowski has used a context menu option with the name: remove
+[23:19:39	]Maciek Dąbrowski has used a context menu option with the name: remove
+[23:19:40	]Maciek Dąbrowski has used a context menu option with the name: remove
+[23:19:41	]Maciek Dąbrowski has used a context menu option with the name: remove
+[23:19:42	]Maciek Dąbrowski ran 'drop' on item 'Bandana' (#1097)
+[23:19:42	]Maciek Dąbrowski has lost a 'Bandana' #1097.
+[23:19:43	]Maciek Dąbrowski ran 'drop' on item 'Desert Eagle' (#1021)
+[23:19:43	]Maciek Dąbrowski has lost a 'Desert Eagle' #1021.
+[23:19:44	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3039.
+[23:19:44	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3038.
+[23:19:45	]Maciek Dąbrowski ran 'drop' on item 'Kitchen Knife' (#941)
+[23:19:45	]Maciek Dąbrowski has lost a 'Kitchen Knife' #941.
+[23:19:47	]Maciek Dąbrowski ran 'drop' on item 'Adrenaline' (#1041)
+[23:19:47	]Maciek Dąbrowski has lost a 'Adrenaline' #1041.
+[23:19:47	]Maciek Dąbrowski ran 'drop' on item 'Flare' (#959)
+[23:19:47	]Maciek Dąbrowski has lost a 'Flare' #959.
+[23:19:48	]Maciek Dąbrowski ran 'drop' on item 'Black Jumpsuit Trousers' (#10)
+[23:19:48	]Maciek Dąbrowski has lost a 'Black Jumpsuit Trousers' #10.
+[23:19:50	]Maciek Dąbrowski ran 'drop' on item 'Black Jumpsuit' (#9)
+[23:19:50	]Maciek Dąbrowski has lost a 'Black Jumpsuit' #9.
+[23:19:52	]Maciek Dąbrowski has used a context menu option with the name: remove
+[23:19:52	]Maciek Dąbrowski has used a context menu option with the name: remove
+[23:19:53	]Maciek Dąbrowski has used a context menu option with the name: bone_manipulate
+[23:19:55	]Maciek Dąbrowski has used a context menu option with the name: remove
+[23:19:56	]Maciek Dąbrowski has used a context menu option with the name: remove
+[23:19:57	]Maciek Dąbrowski has used a context menu option with the name: remove
+[23:19:58	]C17:RCT.YELLO-57 entered observer.
+[23:19:58	]Maciek Dąbrowski has used a context menu option with the name: remove
+[23:19:59	]C17:RCT.YELLO-57 exited observer.
+[23:19:59	]Maciek Dąbrowski has used a context menu option with the name: remove
+[23:20:02	]Maciek Dąbrowski ran 'combine' on item 'Suitcase' (#7)
+[23:20:02	]Maciek Dąbrowski ran 'combine' on item 'Suitcase' (#7)
+[23:20:04	]Maciek Dąbrowski ran 'Equip' on item 'Suitcase' (#7)
+[23:20:12	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3038.
+[23:20:12	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3039.
+[23:20:31	]Snakeiter has connected.
+[23:20:36	]Maciek Dąbrowski has given himself a frag_grenade.
+[23:20:36	]Maciek Dąbrowski has gained a 'Frag Grenade' #3045.
+[23:20:37	]Maciek Dąbrowski ran 'drop' on item 'Frag Grenade' (#3045)
+[23:20:37	]Maciek Dąbrowski has lost a 'Frag Grenade' #3045.
+[23:20:40	]Maciek Dąbrowski ran 'take' on item 'Frag Grenade' (#3045)
+[23:20:40	]Maciek Dąbrowski has gained a 'Frag Grenade' #3045.
+[23:20:41	]Maciek Dąbrowski ran 'Equip' on item 'Frag Grenade' (#3045)
+[23:20:57	]Maciek Dąbrowski has given himself a frag_grenade.
+[23:20:57	]Maciek Dąbrowski has gained a 'Frag Grenade' #3046.
+[23:20:58	]Maciek Dąbrowski ran 'drop' on item 'Frag Grenade' (#3046)
+[23:20:58	]Maciek Dąbrowski has lost a 'Frag Grenade' #3046.
+[23:21:01	]Maciek Dąbrowski ran 'take' on item 'Frag Grenade' (#3046)
+[23:21:01	]Maciek Dąbrowski has gained a 'Frag Grenade' #3046.
+[23:21:02	]Maciek Dąbrowski ran 'Equip' on item 'Frag Grenade' (#3046)
+[23:21:11	]Maciek Dąbrowski was knocked unconscious and is bleeding out.
+[23:21:11	]C17:RCT.YELLO-57 has taken 44 damage from Maciek Dąbrowski.
+[23:21:15	]Snakeiter loaded the character 'Ch'ui'
+[23:21:17	]Maciek Dąbrowski ran SAM command 'slay' with arguments: '^'
+[23:21:18	]Ch'ui entered observer.
+[23:21:21	]Maciek Dąbrowski has given himself a frag_grenade.
+[23:21:21	]Maciek Dąbrowski has gained a 'Frag Grenade' #3047.
+[23:21:28	]Maciek Dąbrowski ran 'Equip' on item 'Suitcase' (#7)
+[23:21:28	]Ch'ui exited observer at their location.
+[23:21:30	]Ch'ui entered observer.
+[23:21:35	]Maciek Dąbrowski ran 'drop' on item 'Smoke Grenade' (#954)
+[23:21:35	]Maciek Dąbrowski has lost a 'Smoke Grenade' #954.
+[23:21:37	]Maciek Dąbrowski has used a context menu option with the name: remove
+[23:21:40	]Maciek Dąbrowski entered observer.
+[23:21:47	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3039.
+[23:21:47	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3038.
+[23:21:49	]Maciek Dąbrowski exited observer at their location.
+[23:21:50	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3038.
+[23:21:50	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3039.
+[23:21:50	]Ch'ui exited observer at their location.
+[23:21:52	]Ch'ui entered observer.
+[23:21:53	]Maciek Dąbrowski has spawned a deagle.
+[23:21:53	]Ch'ui exited observer at their location.
+[23:21:54	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3039.
+[23:21:54	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3038.
+[23:21:56	]Ch'ui entered observer.
+[23:21:57	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3038.
+[23:21:57	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3039.
+[23:21:58	][IC] Ch'ui: Citizen.
+[23:22:01	]Maciek Dąbrowski has used a context menu option with the name: remove
+[23:22:03	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3039.
+[23:22:03	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3038.
+[23:22:15	]Ch'ui exited observer at their location.
+[23:22:18	]Ch'ui entered observer.
+[23:22:18	]Ch'ui exited observer at their location.
+[23:22:19	]Ch'ui has taken 4 damage from worldspawn.
+[23:22:21	]Ch'ui entered observer.
+[23:22:22	]Ch'ui exited observer at their location.
+[23:22:24	]Ch'ui entered observer.
+[23:22:24	]Ch'ui exited observer at their location.
+[23:22:25	]Ch'ui has taken 14 damage from worldspawn.
+[23:22:25	]Ch'ui entered observer.
+[23:22:26	]Ch'ui exited observer at their location.
+[23:22:29	]Ch'ui entered observer.
+[23:22:30	]Ch'ui exited observer at their location.
+[23:22:30	]Ch'ui entered observer.
+[23:22:31	]Ch'ui exited observer at their location.
+[23:22:32	]Ch'ui entered observer.
+[23:22:33	]Ch'ui exited observer at their location.
+[23:22:36	]Ch'ui entered observer.
+[23:22:36	]Ch'ui exited observer at their location.
+[23:22:38	]Ch'ui entered observer.
+[23:22:49	]Ch'ui exited observer at their location.
+[23:22:49	]Ch'ui entered observer.
+[23:22:53	]Ch'ui exited observer at their location.
+[23:22:56	]Ch'ui entered observer.
+[23:23:17	]Ch'ui exited observer at their location.
+[23:23:18	]Ch'ui entered observer.
+[23:23:24	]Ch'ui ran SAM command 'goto' with arguments: 'maciek'
+[23:23:25	]Ch'ui exited observer at their location.
+[23:23:25	]Ch'ui entered observer.
+[23:23:26	]Ch'ui exited observer at their location.
+[23:23:33	]Snakeiter has unloaded their "Ch'ui" character.
+[23:23:39	]Snakeiter loaded the character 'C24:i4.UNION-20'
+[23:23:41	]C24:i4.UNION-20 entered observer.
+[23:23:48	]C24:i4.UNION-20 exited observer at their location.
+[23:23:48	]C24:i4.UNION-20 entered observer.
+[23:23:49	]C24:i4.UNION-20 exited observer at their location.
+[23:24:14	]C24:i4.UNION-20 entered observer.
+[23:24:16	]C24:i4.UNION-20 exited observer at their location.
+[23:24:16	]C24:i4.UNION-20 entered observer.
+[23:24:21	]C24:i4.UNION-20 used command '/AreaEdit'.
+[23:24:24	]Maciek Dąbrowski used command '/AreaEdit'.
+[23:24:26	]Maciek Dąbrowski entered observer.
+[23:24:29	]C24:i4.UNION-20 has removed area "Zagazowane gówno".
+[23:24:41	]Maciek Dąbrowski exited observer at their location.
+[23:24:42	]C24:i4.UNION-20 exited observer at their location.
+[23:24:53	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3038.
+[23:24:53	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3039.
+[23:24:56	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3039.
+[23:24:56	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3038.
+[23:25:00	]C24:i4.UNION-20 entered observer.
+[23:25:01	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3038.
+[23:25:01	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3039.
+[23:25:04	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3039.
+[23:25:04	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3038.
+[23:25:07	]Maciek Dąbrowski used command '/ToggleRaise'.
+[23:25:08	]C24:i4.UNION-20 exited observer at their location.
+[23:25:09	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3038.
+[23:25:09	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3039.
+[23:25:10	]C24:i4.UNION-20 entered observer.
+[23:25:11	]C24:i4.UNION-20 exited observer at their location.
+[23:25:16	]C24:i4.UNION-20 entered observer.
+[23:25:31	]C17:RCT.YELLO-57 used command '/ToggleRaise mb5'.
+[23:25:38	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3039.
+[23:25:38	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3038.
+[23:25:58	]C24:i4.UNION-20 exited observer at their location.
+[23:26:03	]C24:i4.UNION-20 used command '/ToggleRaise'.
+[23:26:07	]C24:i4.UNION-20 used command '/ToggleRaise'.
+[23:26:25	]C24:i4.UNION-20 used command '/ToggleRaise'.
+[23:26:28	]C24:i4.UNION-20 entered observer.
+[23:26:35	]C24:i4.UNION-20 used command '/ToggleRaise'.
+[23:26:41	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:26:45	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:26:53	]C24:i4.UNION-20 exited observer at their location.
+[23:27:05	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:27:07	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:27:07	]C24:i4.UNION-20 entered observer.
+[23:27:09	]C24:i4.UNION-20 exited observer at their location.
+[23:27:09	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:27:13	]C24:i4.UNION-20 entered observer.
+[23:27:14	]C24:i4.UNION-20 exited observer at their location.
+[23:27:14	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:27:17	]C24:i4.UNION-20 entered observer.
+[23:27:19	]C24:i4.UNION-20 exited observer at their location.
+[23:27:19	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:27:21	]C24:i4.UNION-20 entered observer.
+[23:27:25	]C24:i4.UNION-20 exited observer at their location.
+[23:27:27	]C24:i4.UNION-20 entered observer.
+[23:27:28	]C24:i4.UNION-20 exited observer at their location.
+[23:27:28	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:27:30	]C24:i4.UNION-20 entered observer.
+[23:27:31	]C24:i4.UNION-20 exited observer at their location.
+[23:27:31	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:27:40	]C24:i4.UNION-20 entered observer.
+[23:27:40	]C24:i4.UNION-20 exited observer at their location.
+[23:27:44	]C24:i4.UNION-20 entered observer.
+[23:27:44	]C24:i4.UNION-20 exited observer at their location.
+[23:27:45	]C24:i4.UNION-20 entered observer.
+[23:27:47	]C24:i4.UNION-20 exited observer at their location.
+[23:27:49	]C24:i4.UNION-20 entered observer.
+[23:28:26	]C24:i4.UNION-20 exited observer at their location.
+[23:28:29	]C24:i4.UNION-20 entered observer.
+[23:28:29	]C24:i4.UNION-20 exited observer at their location.
+[23:28:31	]C24:i4.UNION-20 entered observer.
+[23:28:43	]C24:i4.UNION-20 exited observer at their location.
+[23:28:48	]C24:i4.UNION-20 entered observer.
+[23:28:49	]Eustachy Motyka has connected.
+[23:28:56	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:29:00	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:29:02	]C24:i4.UNION-20 exited observer at their location.
+[23:29:04	]C24:i4.UNION-20 ran 'drop' on item 'Assault Rifle Ammo' (#2935)
+[23:29:04	]C24:i4.UNION-20 has lost a 'Assault Rifle Ammo' #2935.
+[23:29:09	]C24:i4.UNION-20 has used a context menu option with the name: collision_off
+[23:29:10	]C24:i4.UNION-20 has used a context menu option with the name: remove
+[23:29:12	]C24:i4.UNION-20 entered observer.
+[23:29:34	]C24:i4.UNION-20 exited observer at their location.
+[23:29:35	]C24:i4.UNION-20 entered observer.
+[23:29:37	]C24:i4.UNION-20 exited observer at their location.
+[23:29:38	]C24:i4.UNION-20 entered observer.
+[23:29:44	]Eustachy Motyka loaded the character 'Barbara Kwarc'
+[23:29:47	][OOC] Barbara Kwarc: siema
+[23:29:48	]Barbara Kwarc entered observer.
+[23:29:49	]Barbara Kwarc is fully healed.
+[23:30:02	]Maciek Dąbrowski entered observer.
+[23:30:05	]C24:i4.UNION-20 exited observer at their location.
+[23:30:14	]Maciek Dąbrowski exited observer at their location.
+[23:30:19	]Maciek Dąbrowski ran SAM command 'bring' with arguments: '*'
+[23:30:20	]Barbara Kwarc exited observer at their location.
+[23:30:21	]Barbara Kwarc entered observer.
+[23:30:22	]Barbara Kwarc exited observer at their location.
+[23:30:22	]Barbara Kwarc entered observer.
+[23:30:23	]Barbara Kwarc exited observer at their location.
+[23:30:24	]Barbara Kwarc entered observer.
+[23:30:24	]Barbara Kwarc exited observer at their location.
+[23:30:26	]C24:i4.UNION-20 used command '/ToggleRaise'.
+[23:30:29	]C24:i4.UNION-20 used command '/ToggleRaise'.
+[23:30:40	]Barbara Kwarc has given himself a flashlight.
+[23:30:40	]Barbara Kwarc has gained a 'Flashlight' #3049.
+[23:30:40	]C17:RCT.YELLO-57 has given himself a flashlight.
+[23:30:41	]C17:RCT.YELLO-57 has gained a 'Flashlight' #3050.
+[23:30:51	]Barbara Kwarc ran 'drop' on item 'MP7A1' (#1211)
+[23:30:51	]Barbara Kwarc has lost a 'MP7A1' #1211.
+[23:30:56	]Barbara Kwarc has used a context menu option with the name: remove
+[23:30:58	]Barbara Kwarc ran 'drop' on item '30rnd MP-magazine' (#1225)
+[23:30:58	]Barbara Kwarc has lost a '30rnd MP-magazine' #1225.
+[23:31:06	]Maciek Dąbrowski has used a context menu option with the name: remove
+[23:31:11	]C24:i4.UNION-20 entered observer.
+[23:31:12	]C24:i4.UNION-20 exited observer at their location.
+[23:31:13	]Maciek Dąbrowski ran SAM command 'mapreset' with arguments: ''
+[23:31:15	]Maciek Dąbrowski ran SAM command 'mapreset' with arguments: ''
+[23:31:21	]C24:i4.UNION-20 entered observer.
+[23:31:25	]C24:i4.UNION-20 exited observer at their location.
+[23:31:25	]C24:i4.UNION-20 has given himself a magazine_usp_15rnd.
+[23:31:25	]C24:i4.UNION-20 has gained a '17rnd Usp-magazine' #3051.
+[23:31:26	]C24:i4.UNION-20 has given himself a magazine_usp_15rnd.
+[23:31:26	]C24:i4.UNION-20 has gained a '17rnd Usp-magazine' #3052.
+[23:31:29	]C17:RCT.YELLO-57 has given himself a combine_filter.
+[23:31:29	]C17:RCT.YELLO-57 has gained a 'Combine Filter' #3053.
+[23:31:31	]C24:i4.UNION-20 entered observer.
+[23:31:33	]C17:RCT.YELLO-57 ran 'Equip' on item 'Combine Filter' (#3053)
+[23:31:38	]C24:i4.UNION-20 exited observer at their location.
+[23:31:42	][IC] C24:i4.UNION-20: <:: Hej. ::>
+[23:31:44	][IC] Barbara Kwarc: Hej.
+[23:31:45	][IC] C24:i4.UNION-20: <:: Piękna jesteś. ::>
+[23:31:46	][IC] C17:RCT.YELLO-57: <:: Shit! ::>
+[23:31:46	][IC] Barbara Kwarc: Sex.
+[23:31:55	][IC] C24:i4.UNION-20: <:: Hej. ::>
+[23:31:56	][ME] C17:RCT.YELLO-57: ma seks
+[23:31:59	][IC] C24:i4.UNION-20: <:: Piękny jesteś. ::>
+[23:32:04	]Maciek Dąbrowski set voiceDistance to '885.8'.
+[23:32:05	]Maciek Dąbrowski set voiceDistance to '961.3'.
+[23:32:05	]Maciek Dąbrowski set voiceDistance to '1015.9'.
+[23:32:05	]Barbara Kwarc entered observer.
+[23:32:06	]Barbara Kwarc exited observer at their location.
+[23:32:34	]Barbara Kwarc ran 'drop' on item '30rnd MP-magazine' (#1214)
+[23:32:34	]Barbara Kwarc has lost a '30rnd MP-magazine' #1214.
+[23:32:35	]Barbara Kwarc ran 'drop' on item '30rnd MP-magazine' (#1222)
+[23:32:35	]Barbara Kwarc has lost a '30rnd MP-magazine' #1222.
+[23:32:35	]Barbara Kwarc ran 'drop' on item '30rnd MP-magazine' (#1223)
+[23:32:35	]Barbara Kwarc has lost a '30rnd MP-magazine' #1223.
+[23:32:36	]Barbara Kwarc ran 'drop' on item '30rnd MP-magazine' (#1216)
+[23:32:36	]Barbara Kwarc has lost a '30rnd MP-magazine' #1216.
+[23:32:36	]Barbara Kwarc ran 'drop' on item '30rnd MP-magazine' (#1224)
+[23:32:36	]Barbara Kwarc has lost a '30rnd MP-magazine' #1224.
+[23:32:38	]Maciek Dąbrowski ran SAM command 'mapreset' with arguments: ''
+[23:32:39	]Maciek Dąbrowski ran SAM command 'mapreset' with arguments: ''
+[23:32:41	]C24:i4.UNION-20 entered observer.
+[23:32:42	]C24:i4.UNION-20 exited observer at their location.
+[23:32:55	]C24:i4.UNION-20 ran 'Equip' on item 'Combine Filter' (#2934)
+[23:32:57	]C24:i4.UNION-20 ran 'EquipUn' on item 'Combine Filter' (#2934)
+[23:33:04	]C24:i4.UNION-20 entered observer.
+[23:33:12	]C24:i4.UNION-20 exited observer at their location.
+[23:33:15	]C24:i4.UNION-20 ran 'drop' on item 'CP Mask' (#895)
+[23:33:15	]C24:i4.UNION-20 has lost a 'CP Mask' #895.
+[23:33:17	]C24:i4.UNION-20 ran 'take' on item 'CP Mask' (#895)
+[23:33:17	]C24:i4.UNION-20 has gained a 'CP Mask' #895.
+[23:33:19	]C24:i4.UNION-20 entered observer.
+[23:33:23	]C24:i4.UNION-20 exited observer at their location.
+[23:33:39	]Maciek Dąbrowski ran 'Equip' on item 'Frag Grenade' (#3047)
+[23:34:47	]Maciek Dąbrowski ran 'EquipUn' on item 'Frag Grenade' (#3047)
+[23:35:08	]Barbara Kwarc entered observer.
+[23:35:10	]Barbara Kwarc exited observer at their location.
+[23:35:41	]Maciek Dąbrowski ran 'Equip' on item 'Frag Grenade' (#3047)
+[23:35:50	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3038.
+[23:35:50	]C17:RCT.YELLO-57 was knocked unconscious and is bleeding out.
+[23:35:50	]C24:i4.UNION-20 was knocked unconscious and is bleeding out.
+[23:36:14	]C24:i4.UNION-20 ran SAM command 'slay' with arguments: 'c24'
+[23:36:17	]C24:i4.UNION-20 entered observer.
+[23:36:19	]C17:RCT.YELLO-57 was killed while bleeding out.
+[23:36:19	]Barbara Kwarc has killed C17:RCT.YELLO-57 with ix_hands.
+[23:37:17	]C24:i4.UNION-20 used command '/ToggleRaise'.
+[23:37:19	]C17:RCT.YELLO-57 ran 'Equip' on item 'MP7A1' (#3036)
+[23:37:22	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:37:24	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3039.
+[23:37:27	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:37:33	]C17:RCT.YELLO-57 ran SAM command 'goto' with arguments: 'maciek'
+[23:37:39	]C24:i4.UNION-20 exited observer at their location.
+[23:37:39	]C24:i4.UNION-20 entered observer.
+[23:37:41	]C17:RCT.YELLO-57 has taken 5 damage from Barbara Kwarc.
+[23:37:41	]C17:RCT.YELLO-57 ran SAM command 'bring' with arguments: 'Union'
+[23:37:41	]C24:i4.UNION-20 exited observer at their location.
+[23:37:43	]C24:i4.UNION-20 entered observer.
+[23:37:43	]C24:i4.UNION-20 exited observer at their location.
+[23:37:56	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:37:57	]Maciek Dąbrowski entered observer.
+[23:38:00	]Maciek Dąbrowski exited observer at their location.
+[23:38:01	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:38:03	]Maciek Dąbrowski has given himself a frag_grenade.
+[23:38:03	]Maciek Dąbrowski has gained a 'Frag Grenade' #3054.
+[23:38:07	]Maciek Dąbrowski entered observer.
+[23:38:11	]Maciek Dąbrowski exited observer at their location.
+[23:38:14	]Barbara Kwarc used command '/CharGiveFlag barbara'.
+[23:38:21	]Maciek Dąbrowski has given himself a flashlight.
+[23:38:21	]Maciek Dąbrowski has gained a 'Flashlight' #3055.
+[23:38:26	]Barbara Kwarc used command '/CharGiveFlag barbara'.
+[23:38:27	]Barbara Kwarc used command '/CharGiveFlag Barbara Kwarc CJLMNQUaceinpqrt'.
+[23:38:41	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:38:44	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:38:44	]C24:i4.UNION-20 entered observer.
+[23:38:45	]C24:i4.UNION-20 exited observer at their location.
+[23:38:46	]C24:i4.UNION-20 entered observer.
+[23:38:46	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:38:47	]C24:i4.UNION-20 exited observer at their location.
+[23:38:48	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:39:34	]Maciek Dąbrowski ran 'Equip' on item 'Frag Grenade' (#3054)
+[23:39:44	]Barbara Kwarc was knocked unconscious and is bleeding out.
+[23:39:44	]Maciek Dąbrowski was knocked unconscious and is bleeding out.
+[23:39:49	][IC] C24:i4.UNION-20: <:: Stop. ::>
+[23:40:00	]C24:i4.UNION-20 ran 'Equip' on item 'USP-45' (#1174)
+[23:40:01	][ME] Barbara Kwarc: sra
+[23:40:04	][ME] Barbara Kwarc: sra
+[23:40:05	]C24:i4.UNION-20 used command '/ToggleRaise'.
+[23:40:06	][ME] Barbara Kwarc: sra
+[23:40:08	][ME] Barbara Kwarc: sra
+[23:40:49	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:40:52	]Maciek Dąbrowski ran SAM command 'slay' with arguments: '^'
+[23:40:55	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:40:55	]Maciek Dąbrowski entered observer.
+[23:41:01	]C24:i4.UNION-20 has given himself a bullets_pistol.
+[23:41:01	]C24:i4.UNION-20 has gained a '9mm Pistol Bullets' #3056.
+[23:41:01	]C24:i4.UNION-20 has given himself a bullets_pistol.
+[23:41:01	]C24:i4.UNION-20 has gained a '9mm Pistol Bullets' #3057.
+[23:41:07	]C24:i4.UNION-20 ran 'combine' on item '17rnd Usp-magazine' (#3051)
+[23:41:08	]C24:i4.UNION-20 has lost a '17rnd Usp-magazine' #3051.
+[23:41:09	]Barbara Kwarc was just killed due to: accepting their death
+[23:41:12	]Barbara Kwarc entered observer.
+[23:41:16	]Maciek Dąbrowski exited observer at their location.
+[23:41:21	]Barbara Kwarc exited observer at their location.
+[23:41:25	]C24:i4.UNION-20 entered observer.
+[23:41:26	]C17:RCT.YELLO-57 has taken 5 damage from Barbara Kwarc.
+[23:41:33	]Barbara Kwarc entered observer.
+[23:41:38	]C17:RCT.YELLO-57 has taken 5 damage from Barbara Kwarc.
+[23:41:39	]C24:i4.UNION-20 exited observer at their location.
+[23:41:41	]Barbara Kwarc exited observer at their location.
+[23:41:45	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:41:45	]C24:i4.UNION-20 entered observer.
+[23:41:47	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:41:59	]Barbara Kwarc entered observer.
+[23:41:59	]C24:i4.UNION-20 exited observer at their location.
+[23:42:00	]Barbara Kwarc exited observer at their location.
+[23:42:04	]Maciek Dąbrowski entered observer.
+[23:42:09	]C24:i4.UNION-20 has given himself a magazine_usp_15rnd.
+[23:42:09	]C24:i4.UNION-20 has gained a '17rnd Usp-magazine' #3058.
+[23:42:09	]C24:i4.UNION-20 has given himself a magazine_usp_15rnd.
+[23:42:09	]C24:i4.UNION-20 has gained a '17rnd Usp-magazine' #3059.
+[23:42:12	]Maciek Dąbrowski exited observer at their location.
+[23:42:12	]Barbara Kwarc entered observer.
+[23:42:13	]C24:i4.UNION-20 ran 'combine' on item '17rnd Usp-magazine' (#3059)
+[23:42:13	]Maciek Dąbrowski entered observer.
+[23:42:14	]C24:i4.UNION-20 ran 'combine' on item '17rnd Usp-magazine' (#3058)
+[23:42:15	]C24:i4.UNION-20 ran 'combine' on item '17rnd Usp-magazine' (#3058)
+[23:42:16	]C24:i4.UNION-20 has gained a '17rnd Usp-magazine' #3051.
+[23:42:16	]C24:i4.UNION-20 has lost a '17rnd Usp-magazine' #3059.
+[23:42:18	]C24:i4.UNION-20 entered observer.
+[23:42:19	]Maciek Dąbrowski exited observer at their location.
+[23:42:21	]C24:i4.UNION-20 ran 'combine' on item '17rnd Usp-magazine' (#3052)
+[23:42:21	]Maciek Dąbrowski ran SAM command 'bring' with arguments: '*'
+[23:42:23	]C24:i4.UNION-20 exited observer at their location.
+[23:42:23	]C24:i4.UNION-20 entered observer.
+[23:42:24	]C24:i4.UNION-20 exited observer at their location.
+[23:42:38	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:42:41	]Barbara Kwarc exited observer at their location.
+[23:43:05	]Maciek Dąbrowski entered observer.
+[23:43:17	]Maciek Dąbrowski exited observer at their location.
+[23:43:23	]Barbara Kwarc entered observer.
+[23:43:25	]Maciek Dąbrowski ran SAM command 'bring' with arguments: 'barbara'
+[23:43:27	]Barbara Kwarc exited observer at their location.
+[23:43:45	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:44:01	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:44:17	]C24:i4.UNION-20 has gained level 10 in the Guns skill.
+[23:44:17	]C24:i4.UNION-20 has critically hit Maciek Dąbrowski in the right leg dealing 3 damage (CritChance was 0.88).
+[23:44:17	]Maciek Dąbrowski has taken 2 damage from C24:i4.UNION-20.
+[23:44:17	]C24:i4.UNION-20 has gained a '17rnd Usp-magazine' #3059.
+[23:44:17	]C24:i4.UNION-20 has lost a '17rnd Usp-magazine' #3058.
+[23:44:18	]C17:RCT.YELLO-57 has taken 28 damage from Barbara Kwarc.
+[23:44:20	]C24:i4.UNION-20 has critically hit Barbara Kwarc in the left arm dealing 3 damage (CritChance was 0.88).
+[23:44:20	]Barbara Kwarc has taken 2 damage from C24:i4.UNION-20.
+[23:44:20	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the stomach dealing 11 damage (CritChance was 0.97).
+[23:44:20	]Barbara Kwarc has taken 11 damage from C17:RCT.YELLO-57.
+[23:44:20	]C24:i4.UNION-20 has hit Barbara Kwarc in the right leg dealing 3 damage (CritChance was 0.88).
+[23:44:20	]Barbara Kwarc has taken 2 damage from C24:i4.UNION-20.
+[23:44:21	]C24:i4.UNION-20 has gained level 11 in the Guns skill.
+[23:44:21	]C24:i4.UNION-20 has critically hit Barbara Kwarc in the stomach dealing 9 damage (CritChance was 0.88).
+[23:44:21	]Barbara Kwarc has taken 9 damage from C24:i4.UNION-20.
+[23:44:22	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3039.
+[23:44:22	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3037.
+[23:44:22	]C24:i4.UNION-20 has gained a '17rnd Usp-magazine' #3058.
+[23:44:22	]C24:i4.UNION-20 has lost a '17rnd Usp-magazine' #3051.
+[23:44:25	]C24:i4.UNION-20 has taken 29 damage from Barbara Kwarc.
+[23:44:26	]C24:i4.UNION-20 has taken 7 damage from Barbara Kwarc.
+[23:44:26	]C24:i4.UNION-20 has taken 7 damage from Barbara Kwarc.
+[23:44:26	]C24:i4.UNION-20 has taken 29 damage from Barbara Kwarc.
+[23:44:26	]C24:i4.UNION-20 has taken 29 damage from Barbara Kwarc.
+[23:44:26	]Maciek Dąbrowski has gained level 40 in the Guns skill.
+[23:44:26	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the head dealing 10 damage (CritChance was 1.01).
+[23:44:26	]C24:i4.UNION-20 has taken 10 damage from Maciek Dąbrowski.
+[23:44:26	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the left arm dealing 3 damage (CritChance was 1.01).
+[23:44:26	]C24:i4.UNION-20 has taken 2 damage from Maciek Dąbrowski.
+[23:44:26	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the chest dealing 9 damage (CritChance was 1.01).
+[23:44:26	]C24:i4.UNION-20 has taken 9 damage from Maciek Dąbrowski.
+[23:44:26	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the left arm dealing 3 damage (CritChance was 1.01).
+[23:44:26	]C24:i4.UNION-20 has taken 2 damage from Maciek Dąbrowski.
+[23:44:26	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the right arm dealing 0 damage (CritChance was 1.01).
+[23:44:26	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the right arm dealing 0 damage (CritChance was 1.01).
+[23:44:26	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the right arm dealing 0 damage (CritChance was 1.01).
+[23:44:26	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the right arm dealing 3 damage (CritChance was 1.01).
+[23:44:26	]C24:i4.UNION-20 has taken 2 damage from Maciek Dąbrowski.
+[23:44:27	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the chest dealing 11 damage (CritChance was 0.97).
+[23:44:27	]Barbara Kwarc has taken 11 damage from C17:RCT.YELLO-57.
+[23:44:27	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the head dealing 12 damage (CritChance was 0.97).
+[23:44:27	]Barbara Kwarc has taken 12 damage from C17:RCT.YELLO-57.
+[23:44:27	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the left arm dealing 3 damage (CritChance was 0.97).
+[23:44:27	]Barbara Kwarc has taken 3 damage from C17:RCT.YELLO-57.
+[23:44:27	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the chest dealing 11 damage (CritChance was 0.97).
+[23:44:27	]Barbara Kwarc has taken 11 damage from C17:RCT.YELLO-57.
+[23:44:27	]C24:i4.UNION-20 has gained a '17rnd Usp-magazine' #3051.
+[23:44:27	]C24:i4.UNION-20 was knocked unconscious and is bleeding out.
+[23:44:27	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the head dealing 12 damage (CritChance was 0.97).
+[23:44:27	]Barbara Kwarc has taken 12 damage from C17:RCT.YELLO-57.
+[23:44:27	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the chest dealing 11 damage (CritChance was 0.97).
+[23:44:27	]Barbara Kwarc has taken 11 damage from C17:RCT.YELLO-57.
+[23:44:27	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the stomach dealing 11 damage (CritChance was 0.97).
+[23:44:27	]Barbara Kwarc has taken 11 damage from C17:RCT.YELLO-57.
+[23:44:28	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the right arm dealing 3 damage (CritChance was 0.97).
+[23:44:28	]Barbara Kwarc was knocked unconscious and is bleeding out.
+[23:44:29	]Maciek Dąbrowski has hit C17:RCT.YELLO-57 in the chest dealing 6 damage (CritChance was 0.40).
+[23:44:29	]C17:RCT.YELLO-57 has taken 6 damage from Maciek Dąbrowski.
+[23:44:29	]C17:RCT.YELLO-57 has critically hit Maciek Dąbrowski in the stomach dealing 5 damage (CritChance was 0.97).
+[23:44:29	]Maciek Dąbrowski has taken 4 damage from C17:RCT.YELLO-57.
+[23:44:29	]C17:RCT.YELLO-57 has critically hit Maciek Dąbrowski in the head dealing 12 damage (CritChance was 0.97).
+[23:44:29	]Maciek Dąbrowski has taken 12 damage from C17:RCT.YELLO-57.
+[23:44:29	]C17:RCT.YELLO-57 has critically hit Maciek Dąbrowski in the left arm dealing 0 damage (CritChance was 0.97).
+[23:44:29	]C17:RCT.YELLO-57 has critically hit Maciek Dąbrowski in the left arm dealing 3 damage (CritChance was 0.97).
+[23:44:29	]Maciek Dąbrowski has taken 3 damage from C17:RCT.YELLO-57.
+[23:44:29	]C17:RCT.YELLO-57 has critically hit Maciek Dąbrowski in the left arm dealing 3 damage (CritChance was 0.97).
+[23:44:29	]Maciek Dąbrowski has taken 3 damage from C17:RCT.YELLO-57.
+[23:44:30	]C17:RCT.YELLO-57 has hit Maciek Dąbrowski in the left arm dealing 0 damage (CritChance was 0.97).
+[23:44:30	]C17:RCT.YELLO-57 has critically hit Maciek Dąbrowski in the left arm dealing 3 damage (CritChance was 0.97).
+[23:44:30	]Maciek Dąbrowski has taken 3 damage from C17:RCT.YELLO-57.
+[23:44:32	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3037.
+[23:44:32	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3040.
+[23:44:35	]Maciek Dąbrowski has gained level 41 in the Guns skill.
+[23:44:35	]Maciek Dąbrowski has critically hit C17:RCT.YELLO-57 in the left leg dealing 3 damage (CritChance was 0.40).
+[23:44:35	]C17:RCT.YELLO-57 has taken 2 damage from Maciek Dąbrowski.
+[23:44:35	]Maciek Dąbrowski has hit C17:RCT.YELLO-57 in the left arm dealing 3 damage (CritChance was 0.40).
+[23:44:35	]C17:RCT.YELLO-57 has taken 2 damage from Maciek Dąbrowski.
+[23:44:35	]Maciek Dąbrowski has hit C17:RCT.YELLO-57 in the stomach dealing 6 damage (CritChance was 0.40).
+[23:44:35	]C17:RCT.YELLO-57 has taken 6 damage from Maciek Dąbrowski.
+[23:44:35	]Maciek Dąbrowski has hit C17:RCT.YELLO-57 in the right arm dealing 3 damage (CritChance was 0.40).
+[23:44:35	]C17:RCT.YELLO-57 has taken 2 damage from Maciek Dąbrowski.
+[23:44:36	]C17:RCT.YELLO-57 has critically hit Maciek Dąbrowski in the left leg dealing 3 damage (CritChance was 0.97).
+[23:44:36	]Maciek Dąbrowski has taken 3 damage from C17:RCT.YELLO-57.
+[23:44:36	]Maciek Dąbrowski has critically hit C17:RCT.YELLO-57 in the right arm dealing 3 damage (CritChance was 1.01).
+[23:44:36	]C17:RCT.YELLO-57 has taken 2 damage from Maciek Dąbrowski.
+[23:44:36	]Maciek Dąbrowski has critically hit C17:RCT.YELLO-57 in the stomach dealing 9 damage (CritChance was 1.01).
+[23:44:36	]C17:RCT.YELLO-57 has taken 9 damage from Maciek Dąbrowski.
+[23:44:36	]Maciek Dąbrowski has critically hit C17:RCT.YELLO-57 in the right arm dealing 3 damage (CritChance was 1.01).
+[23:44:36	]C17:RCT.YELLO-57 has taken 2 damage from Maciek Dąbrowski.
+[23:44:40	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3040.
+[23:44:40	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3038.
+[23:44:45	]C17:RCT.YELLO-57 has critically hit Maciek Dąbrowski in the head dealing 0 damage (CritChance was 0.97).
+[23:44:45	]C17:RCT.YELLO-57 has critically hit Maciek Dąbrowski in the head dealing 12 damage (CritChance was 0.97).
+[23:44:45	]Maciek Dąbrowski has taken 12 damage from C17:RCT.YELLO-57.
+[23:44:53	]Maciek Dąbrowski ran 'Equip' on item 'Helsing Bolt Rifle' (#1018)
+[23:44:59	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the right leg dealing 0 damage (CritChance was 0.97).
+[23:44:59	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the right leg dealing 10 damage (CritChance was 0.97).
+[23:44:59	]Barbara Kwarc was killed while bleeding out.
+[23:44:59	]C17:RCT.YELLO-57 has killed Barbara Kwarc with player.
+[23:45:03	]C17:RCT.YELLO-57 has critically hit Maciek Dąbrowski in the stomach dealing 11 damage (CritChance was 0.97).
+[23:45:03	]Maciek Dąbrowski has taken 11 damage from C17:RCT.YELLO-57.
+[23:45:04	]C24:i4.UNION-20 was just killed due to: accepting their death
+[23:45:05	]C24:i4.UNION-20 entered observer.
+[23:45:06	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:45:09	]Barbara Kwarc entered observer.
+[23:45:31	]Barbara Kwarc exited observer at their location.
+[23:45:38	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:45:39	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:45:49	]C17:RCT.YELLO-57 entered observer.
+[23:45:52	]Barbara Kwarc entered observer.
+[23:45:54	]Barbara Kwarc exited observer at their location.
+[23:45:57	]Maciek Dąbrowski entered observer.
+[23:45:58	]Barbara Kwarc entered observer.
+[23:45:59	]C17:RCT.YELLO-57 has given himself a bullets_smg1.
+[23:45:59	]C17:RCT.YELLO-57 has gained a 'Sub-machinegun Bullets' #3060.
+[23:46:00	]C17:RCT.YELLO-57 has given himself a bullets_smg1.
+[23:46:00	]C17:RCT.YELLO-57 has gained a 'Sub-machinegun Bullets' #3061.
+[23:46:00	]C17:RCT.YELLO-57 has given himself a bullets_smg1.
+[23:46:01	]C17:RCT.YELLO-57 has gained a 'Sub-machinegun Bullets' #3062.
+[23:46:01	]C17:RCT.YELLO-57 has given himself a bullets_smg1.
+[23:46:01	]C17:RCT.YELLO-57 has gained a 'Sub-machinegun Bullets' #3063.
+[23:46:02	]C17:RCT.YELLO-57 has given himself a bullets_smg1.
+[23:46:02	]C17:RCT.YELLO-57 has gained a 'Sub-machinegun Bullets' #3064.
+[23:46:03	]C17:RCT.YELLO-57 ran 'combine' on item '30rnd MP-magazine' (#3040)
+[23:46:03	]C17:RCT.YELLO-57 ran 'combine' on item '30rnd MP-magazine' (#3039)
+[23:46:04	]C17:RCT.YELLO-57 ran 'combine' on item '30rnd MP-magazine' (#3037)
+[23:46:04	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3038.
+[23:46:04	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3040.
+[23:46:06	]C17:RCT.YELLO-57 ran 'combine' on item '30rnd MP-magazine' (#3038)
+[23:46:09	]C17:RCT.YELLO-57 ran SAM command 'goto' with arguments: 'maciek'
+[23:46:09	]C17:RCT.YELLO-57 exited observer.
+[23:46:13	]C17:RCT.YELLO-57 ran SAM command 'hp' with arguments: '^' '100'
+[23:46:14	]C17:RCT.YELLO-57 is fully healed.
+[23:46:17	]C17:RCT.YELLO-57 ran SAM command 'armor' with arguments: '^' '40'
+[23:46:21	]C17:RCT.YELLO-57 ran SAM command 'goto' with arguments: 'maciek'
+[23:46:22	]C24:i4.UNION-20 exited observer at their location.
+[23:46:22	]Maciek Dąbrowski ran SAM command 'bring' with arguments: '*'
+[23:46:22	]Barbara Kwarc exited observer at their location.
+[23:46:23	]Maciek Dąbrowski exited observer at their location.
+[23:46:26	]C24:i4.UNION-20 used command '/ToggleRaise'.
+[23:46:32	]C24:i4.UNION-20 used command '/ToggleRaise'.
+[23:46:37	]C17:RCT.YELLO-57 used command '/ActArrest'.
+[23:46:38	]C17:RCT.YELLO-57 used command '/ExitAct'.
+[23:46:41	]Barbara Kwarc used command '/ActArrest'.
+[23:46:43	]Barbara Kwarc used command '/ExitAct'.
+[23:46:45	]C17:RCT.YELLO-57 used command '/ActCheck'.
+[23:46:46	]C17:RCT.YELLO-57 used command '/ExitAct'.
+[23:46:59	]Barbara Kwarc used command '/ActArrest 2'.
+[23:47:01	]Barbara Kwarc used command '/ExitAct'.
+[23:47:04	]Barbara Kwarc used command '/ActArrest 3'.
+[23:47:09	]C17:RCT.YELLO-57 used command '/ActArrest 2'.
+[23:47:11	]C17:RCT.YELLO-57 used command '/ExitAct'.
+[23:47:44	]C24:i4.UNION-20 entered observer.
+[23:47:50	]C24:i4.UNION-20 exited observer at their location.
+[23:47:51	]C24:i4.UNION-20 entered observer.
+[23:47:52	]C24:i4.UNION-20 exited observer at their location.
+[23:47:53	]C24:i4.UNION-20 entered observer.
+[23:47:53	]C24:i4.UNION-20 exited observer at their location.
+[23:47:55	]C24:i4.UNION-20 entered observer.
+[23:47:58	]C24:i4.UNION-20 exited observer at their location.
+[23:48:00	]C24:i4.UNION-20 entered observer.
+[23:48:00	]C24:i4.UNION-20 exited observer at their location.
+[23:49:15	]C17:RCT.YELLO-57 has taken 50 damage from Maciek Dąbrowski.
+[23:49:15	]C17:RCT.YELLO-57 has taken 50 damage from Maciek Dąbrowski.
+[23:49:17	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3040.
+[23:49:17	]C17:RCT.YELLO-57 was knocked unconscious and is bleeding out.
+[23:49:18	]C24:i4.UNION-20 has taken 50 damage from Maciek Dąbrowski.
+[23:49:18	]C24:i4.UNION-20 has taken 50 damage from Maciek Dąbrowski.
+[23:49:18	]C24:i4.UNION-20 was knocked unconscious and is bleeding out.
+[23:49:19	]Barbara Kwarc used command '/ExitAct'.
+[23:49:33	]C17:RCT.YELLO-57 ran SAM command 'slay' with arguments: '^'
+[23:49:37	]C17:RCT.YELLO-57 ran SAM command 'goto' with arguments: 'maciek'
+[23:49:41	]C17:RCT.YELLO-57 ran 'Equip' on item 'MP7A1' (#3036)
+[23:50:23	]C24:i4.UNION-20 ran SAM command 'slay' with arguments: '^'
+[23:50:26	]C24:i4.UNION-20 entered observer.
+[23:50:28	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:50:30	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3040.
+[23:50:31	]C24:i4.UNION-20 exited observer at their location.
+[23:50:33	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:50:37	]C24:i4.UNION-20 entered observer.
+[23:50:50	]C24:i4.UNION-20 used command '/ToggleRaise'.
+[23:51:09	]Maciek Dąbrowski entered observer.
+[23:51:09	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:51:11	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the head dealing 0 damage (CritChance was 0.25).
+[23:51:11	]Barbara Kwarc has critically hit C17:RCT.YELLO-57 in the head dealing 8 damage (CritChance was 0.25).
+[23:51:11	]C17:RCT.YELLO-57 has taken 8 damage from Barbara Kwarc.
+[23:51:11	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the head dealing 0 damage (CritChance was 0.25).
+[23:51:11	]Barbara Kwarc has critically hit C17:RCT.YELLO-57 in the head dealing 8 damage (CritChance was 0.25).
+[23:51:11	]C17:RCT.YELLO-57 has taken 8 damage from Barbara Kwarc.
+[23:51:11	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the head dealing 0 damage (CritChance was 0.25).
+[23:51:11	]Barbara Kwarc has critically hit C17:RCT.YELLO-57 in the head dealing 8 damage (CritChance was 0.25).
+[23:51:11	]C17:RCT.YELLO-57 has taken 8 damage from Barbara Kwarc.
+[23:51:11	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the head dealing 0 damage (CritChance was 0.25).
+[23:51:11	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the head dealing 4 damage (CritChance was 0.25).
+[23:51:11	]C17:RCT.YELLO-57 has taken 4 damage from Barbara Kwarc.
+[23:51:11	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the head dealing 0 damage (CritChance was 0.25).
+[23:51:11	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the head dealing 4 damage (CritChance was 0.25).
+[23:51:11	]C17:RCT.YELLO-57 has taken 4 damage from Barbara Kwarc.
+[23:51:11	]Barbara Kwarc has critically hit C17:RCT.YELLO-57 in the head dealing 0 damage (CritChance was 0.25).
+[23:51:11	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the head dealing 4 damage (CritChance was 0.25).
+[23:51:11	]C17:RCT.YELLO-57 has taken 4 damage from Barbara Kwarc.
+[23:51:11	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the head dealing 0 damage (CritChance was 0.25).
+[23:51:11	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the head dealing 0 damage (CritChance was 0.25).
+[23:51:11	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the head dealing 0 damage (CritChance was 0.25).
+[23:51:11	]Barbara Kwarc has critically hit C17:RCT.YELLO-57 in the head dealing 0 damage (CritChance was 0.25).
+[23:51:11	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the head dealing 0 damage (CritChance was 0.25).
+[23:51:11	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the head dealing 4 damage (CritChance was 0.25).
+[23:51:11	]C17:RCT.YELLO-57 has taken 4 damage from Barbara Kwarc.
+[23:51:11	]Barbara Kwarc has critically hit C17:RCT.YELLO-57 in the head dealing 0 damage (CritChance was 0.84).
+[23:51:11	]Barbara Kwarc has critically hit C17:RCT.YELLO-57 in the head dealing 0 damage (CritChance was 0.84).
+[23:51:11	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the head dealing 0 damage (CritChance was 0.84).
+[23:51:11	]Barbara Kwarc has critically hit C17:RCT.YELLO-57 in the head dealing 0 damage (CritChance was 0.84).
+[23:51:11	]Barbara Kwarc has critically hit C17:RCT.YELLO-57 in the head dealing 0 damage (CritChance was 0.84).
+[23:51:11	]Barbara Kwarc has critically hit C17:RCT.YELLO-57 in the head dealing 0 damage (CritChance was 0.84).
+[23:51:11	]Barbara Kwarc has critically hit C17:RCT.YELLO-57 in the head dealing 8 damage (CritChance was 0.84).
+[23:51:11	]C17:RCT.YELLO-57 has taken 8 damage from Barbara Kwarc.
+[23:51:12	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the chest dealing 11 damage (CritChance was 0.97).
+[23:51:12	]Barbara Kwarc has taken 11 damage from C17:RCT.YELLO-57.
+[23:51:12	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the head dealing 12 damage (CritChance was 0.97).
+[23:51:12	]Barbara Kwarc has taken 12 damage from C17:RCT.YELLO-57.
+[23:51:12	]C17:RCT.YELLO-57 has hit Barbara Kwarc in the head dealing 6 damage (CritChance was 0.97).
+[23:51:12	]Barbara Kwarc has taken 6 damage from C17:RCT.YELLO-57.
+[23:51:12	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the head dealing 12 damage (CritChance was 0.97).
+[23:51:12	]Barbara Kwarc has taken 12 damage from C17:RCT.YELLO-57.
+[23:51:12	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the left arm dealing 0 damage (CritChance was 0.97).
+[23:51:12	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the left arm dealing 0 damage (CritChance was 0.97).
+[23:51:12	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the left arm dealing 3 damage (CritChance was 0.97).
+[23:51:12	]Barbara Kwarc has taken 3 damage from C17:RCT.YELLO-57.
+[23:51:12	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the chest dealing 11 damage (CritChance was 0.97).
+[23:51:12	]Barbara Kwarc has taken 11 damage from C17:RCT.YELLO-57.
+[23:51:12	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the head dealing 12 damage (CritChance was 0.97).
+[23:51:12	]Barbara Kwarc has taken 12 damage from C17:RCT.YELLO-57.
+[23:51:12	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the right arm dealing 3 damage (CritChance was 0.97).
+[23:51:12	]Barbara Kwarc has taken 3 damage from C17:RCT.YELLO-57.
+[23:51:13	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the left arm dealing 0 damage (CritChance was 0.97).
+[23:51:13	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the left arm dealing 3 damage (CritChance was 0.97).
+[23:51:13	]Barbara Kwarc has taken 3 damage from C17:RCT.YELLO-57.
+[23:51:15	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the chest dealing 11 damage (CritChance was 0.97).
+[23:51:15	]Barbara Kwarc has taken 11 damage from C17:RCT.YELLO-57.
+[23:51:15	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the chest dealing 11 damage (CritChance was 0.97).
+[23:51:15	]Barbara Kwarc has taken 11 damage from C17:RCT.YELLO-57.
+[23:51:16	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3040.
+[23:51:16	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3039.
+[23:51:18	]Barbara Kwarc has critically hit C17:RCT.YELLO-57 in the left leg dealing 2 damage (CritChance was 0.84).
+[23:51:18	]C17:RCT.YELLO-57 has taken 2 damage from Barbara Kwarc.
+[23:51:19	]Barbara Kwarc has critically hit C17:RCT.YELLO-57 in the left arm dealing 2 damage (CritChance was 0.84).
+[23:51:19	]C17:RCT.YELLO-57 has taken 2 damage from Barbara Kwarc.
+[23:51:23	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the stomach dealing 11 damage (CritChance was 0.97).
+[23:51:23	]Barbara Kwarc was knocked unconscious and is bleeding out.
+[23:51:24	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the left leg dealing 0 damage (CritChance was 0.97).
+[23:51:24	]C17:RCT.YELLO-57 has critically hit Barbara Kwarc in the left leg dealing 10 damage (CritChance was 0.97).
+[23:51:24	]Barbara Kwarc was killed while bleeding out.
+[23:51:24	]C17:RCT.YELLO-57 has killed Barbara Kwarc with player.
+[23:51:27	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:52:02	]Barbara Kwarc entered observer.
+[23:52:06	]Barbara Kwarc exited observer at their location.
+[23:52:09	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the right leg dealing 3 damage (CritChance was 0.38).
+[23:52:09	]C17:RCT.YELLO-57 has taken 2 damage from Barbara Kwarc.
+[23:52:13	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the right leg dealing 3 damage (CritChance was 0.38).
+[23:52:13	]C17:RCT.YELLO-57 has taken 2 damage from Barbara Kwarc.
+[23:52:14	]Maciek Dąbrowski exited observer at their location.
+[23:52:15	]Barbara Kwarc has critically hit C17:RCT.YELLO-57 in the left leg dealing 3 damage (CritChance was 0.38).
+[23:52:15	]C17:RCT.YELLO-57 has taken 2 damage from Barbara Kwarc.
+[23:52:17	]Maciek Dąbrowski ran SAM command 'bring' with arguments: '*'
+[23:52:38	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the right leg dealing 3 damage (CritChance was 0.33).
+[23:52:38	]C17:RCT.YELLO-57 has taken 2 damage from Barbara Kwarc.
+[23:52:38	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the right leg dealing 3 damage (CritChance was 0.33).
+[23:52:38	]C17:RCT.YELLO-57 has taken 2 damage from Barbara Kwarc.
+[23:52:39	]Barbara Kwarc has critically hit C17:RCT.YELLO-57 in the right leg dealing 3 damage (CritChance was 0.33).
+[23:52:39	]C17:RCT.YELLO-57 has taken 2 damage from Barbara Kwarc.
+[23:52:40	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the right leg dealing 3 damage (CritChance was 0.33).
+[23:52:40	]C17:RCT.YELLO-57 has taken 2 damage from Barbara Kwarc.
+[23:52:40	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the right leg dealing 3 damage (CritChance was 0.33).
+[23:52:40	]C17:RCT.YELLO-57 has taken 2 damage from Barbara Kwarc.
+[23:52:42	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the right leg dealing 3 damage (CritChance was 0.33).
+[23:52:42	]C17:RCT.YELLO-57 has taken 2 damage from Barbara Kwarc.
+[23:52:42	]Barbara Kwarc has critically hit C17:RCT.YELLO-57 in the right leg dealing 3 damage (CritChance was 0.33).
+[23:52:42	]C17:RCT.YELLO-57 has taken 2 damage from Barbara Kwarc.
+[23:52:43	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the right leg dealing 3 damage (CritChance was 0.33).
+[23:52:43	]C17:RCT.YELLO-57 has taken 2 damage from Barbara Kwarc.
+[23:52:43	]C24:i4.UNION-20 exited observer at their location.
+[23:52:43	]Barbara Kwarc has hit C17:RCT.YELLO-57 in the right leg dealing 3 damage (CritChance was 0.33).
+[23:52:43	]C17:RCT.YELLO-57 has taken 2 damage from Barbara Kwarc.
+[23:52:43	]C24:i4.UNION-20 entered observer.
+[23:52:43	]Barbara Kwarc has critically hit C17:RCT.YELLO-57 in the right leg dealing 3 damage (CritChance was 0.33).
+[23:52:43	]C17:RCT.YELLO-57 has taken 2 damage from Barbara Kwarc.
+[23:52:44	]C24:i4.UNION-20 exited observer at their location.
+[23:52:46	]Barbara Kwarc has hit C24:i4.UNION-20 in the left leg dealing 3 damage (CritChance was 0.11).
+[23:52:46	]C24:i4.UNION-20 has taken 2 damage from Barbara Kwarc.
+[23:52:48	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:52:49	]C24:i4.UNION-20 is fully healed.
+[23:52:50	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:52:59	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the head dealing 11 damage (CritChance was 0.30).
+[23:52:59	]C24:i4.UNION-20 has taken 11 damage from Maciek Dąbrowski.
+[23:52:59	]Maciek Dąbrowski has hit C24:i4.UNION-20 in the head dealing 5 damage (CritChance was 0.30).
+[23:52:59	]C24:i4.UNION-20 has taken 5 damage from Maciek Dąbrowski.
+[23:53:00	]Maciek Dąbrowski has hit C24:i4.UNION-20 in the head dealing 5 damage (CritChance was 0.30).
+[23:53:00	]C24:i4.UNION-20 has taken 5 damage from Maciek Dąbrowski.
+[23:53:00	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the head dealing 11 damage (CritChance was 0.30).
+[23:53:00	]C24:i4.UNION-20 has taken 11 damage from Maciek Dąbrowski.
+[23:53:00	]Maciek Dąbrowski has hit C24:i4.UNION-20 in the head dealing 5 damage (CritChance was 0.30).
+[23:53:00	]C24:i4.UNION-20 has taken 5 damage from Maciek Dąbrowski.
+[23:53:00	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the head dealing 11 damage (CritChance was 0.30).
+[23:53:00	]C24:i4.UNION-20 has taken 11 damage from Maciek Dąbrowski.
+[23:53:00	]Maciek Dąbrowski has gained level 42 in the Guns skill.
+[23:53:00	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the head dealing 11 damage (CritChance was 1.01).
+[23:53:00	]C24:i4.UNION-20 has taken 11 damage from Maciek Dąbrowski.
+[23:53:00	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the head dealing 11 damage (CritChance was 1.01).
+[23:53:00	]C24:i4.UNION-20 has taken 11 damage from Maciek Dąbrowski.
+[23:53:00	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the head dealing 11 damage (CritChance was 1.01).
+[23:53:00	]C24:i4.UNION-20 has taken 11 damage from Maciek Dąbrowski.
+[23:53:00	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the head dealing 0 damage (CritChance was 1.01).
+[23:53:00	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the head dealing 11 damage (CritChance was 1.01).
+[23:53:00	]C24:i4.UNION-20 has taken 11 damage from Maciek Dąbrowski.
+[23:53:00	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the head dealing 11 damage (CritChance was 1.01).
+[23:53:00	]C24:i4.UNION-20 has taken 11 damage from Maciek Dąbrowski.
+[23:53:00	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the head dealing 11 damage (CritChance was 1.01).
+[23:53:00	]C24:i4.UNION-20 has taken 11 damage from Maciek Dąbrowski.
+[23:53:02	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:53:05	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3039.
+[23:53:05	]C17:RCT.YELLO-57 has lost a '30rnd MP-magazine' #3038.
+[23:53:07	]C24:i4.UNION-20 has taken 30 damage from Barbara Kwarc.
+[23:53:09	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:53:10	]C17:RCT.YELLO-57 used command '/ToggleRaise'.
+[23:53:10	]C17:RCT.YELLO-57 has gained a '30rnd MP-magazine' #3038.
+[23:53:10	]C17:RCT.YELLO-57 was knocked unconscious and is bleeding out.
+[23:53:25	]Maciek Dąbrowski has critically hit C17:RCT.YELLO-57 in the right leg dealing 0 damage (CritChance was 1.01).
+[23:53:25	]Maciek Dąbrowski has critically hit C17:RCT.YELLO-57 in the right leg dealing 9 damage (CritChance was 1.01).
+[23:53:25	]C17:RCT.YELLO-57 was killed while bleeding out.
+[23:53:25	]Maciek Dąbrowski has killed C17:RCT.YELLO-57 with player.
+[23:53:28	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the head dealing 0 damage (CritChance was 1.01).
+[23:53:28	]Maciek Dąbrowski has gained level 43 in the Guns skill.
+[23:53:28	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the head dealing 11 damage (CritChance was 1.01).
+[23:53:28	]C24:i4.UNION-20 was knocked unconscious and is bleeding out.
+[23:53:29	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the right leg dealing 0 damage (CritChance was 1.01).
+[23:53:29	]Maciek Dąbrowski has critically hit C24:i4.UNION-20 in the right leg dealing 9 damage (CritChance was 1.01).
+[23:53:29	]C24:i4.UNION-20 was killed while bleeding out.
+[23:53:29	]Maciek Dąbrowski has killed C24:i4.UNION-20 with player.
+[23:53:33	]Loxy (STEAM_0:1:421238310) has disconnected.
+[23:53:33	]C24:i4.UNION-20 entered observer.
+[23:53:45	]C17:RCT.YELLO-57 ran SAM command 'goto' with arguments: 'union'
+[23:53:46	]C17:RCT.YELLO-57 entered observer.
+[23:53:51	]C17:RCT.YELLO-57 exited observer.
+[23:53:51	]C17:RCT.YELLO-57 entered observer.
+[23:53:51	]C17:RCT.YELLO-57 exited observer.
+[23:53:52	]C17:RCT.YELLO-57 entered observer.
+[23:53:53	]C17:RCT.YELLO-57 exited observer.
+[23:53:55	]C17:RCT.YELLO-57 entered observer.
+[23:53:56	]C17:RCT.YELLO-57 exited observer.
+[23:53:58	]C17:RCT.YELLO-57 entered observer.
+[23:53:58	]C17:RCT.YELLO-57 exited observer.
+[23:53:59	]C17:RCT.YELLO-57 entered observer.
+[23:53:59	]C17:RCT.YELLO-57 exited observer.
+[23:54:00	]C17:RCT.YELLO-57 entered observer.
+[23:54:03	]Snakeiter (STEAM_0:1:146784845) has disconnected.
+[23:54:11	]C17:RCT.YELLO-57 exited observer.
+[23:54:14	]Chogacz (STEAM_0:1:36976287) has disconnected.
+[23:54:53	]Barbara Kwarc entered observer.
+[23:54:57	]Barbara Kwarc exited observer at their location.
+[23:54:58	]Barbara Kwarc entered observer.
+[23:55:02	]Barbara Kwarc exited observer at their location.
+[23:55:06	]Eustachy Motyka (STEAM_0:1:87353214) has disconnected.

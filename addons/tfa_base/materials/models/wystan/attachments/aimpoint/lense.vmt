@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$baseTexture  "models\wystan\attachment2\aimpoint\lense"
+	$envmap  "env_cubemap"
+	$envmapmask  "models\wystan\attachment2\aimpoint\mask"
+}

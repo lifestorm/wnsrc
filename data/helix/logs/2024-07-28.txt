@@ -1,0 +1,457 @@
+[00:44:19	]Mensu has connected.
+[01:11:16	]Mensu created the character 'C24:RCT.YELLO-27'
+[01:11:16	]Mensu has gained level 5 in the Broń palna skill.
+[01:11:16	]Mensu has gained level 10 in the Prędkość skill.
+[01:11:16	]Mensu loaded the character 'C24:RCT.YELLO-27'
+[01:11:16	]C24:RCT.YELLO-27 has gained a 'Karta identyfikacyjna #40491' #51140.
+[01:11:16	]C24:RCT.YELLO-27 has gained a 'PDA Kombinatu' #51141.
+[01:11:16	]C24:RCT.YELLO-27 has gained a 'Lightweight Functionary Uniform (City 8)' #51142.
+[01:11:16	]C24:RCT.YELLO-27 has gained a 'Maska przeciwgazowa PMG-5 (AUG)' #51143.
+[01:11:16	]C24:RCT.YELLO-27 has gained a 'Mała torba' #51144.
+[01:11:16	]C24:RCT.YELLO-27 has gained a 'Duża torba' #51145.
+[01:11:51	]C24:RCT.YELLO-27 entered observer.
+[01:12:36	]C24:RCT.YELLO-27 exited observer at their location.
+[01:12:42	]C24:RCT.YELLO-27 has spawned a mask_com.
+[01:12:44	]C24:RCT.YELLO-27 ran 'take' on item 'Zaawansowana maska przeciwgazowa PMG-5 (AUG)' (#51146)
+[01:12:44	]C24:RCT.YELLO-27 has gained a 'Zaawansowana maska przeciwgazowa PMG-5 (AUG)' #51146.
+[01:12:54	]C24:RCT.YELLO-27 ran 'drop' on item 'Maska przeciwgazowa PMG-5 (AUG)' (#51143)
+[01:12:54	]C24:RCT.YELLO-27 has lost a 'Maska przeciwgazowa PMG-5 (AUG)' #51143.
+[01:14:52	]C24:RCT.YELLO-27 has changed C24:RCT.YELLO-27's bodygroups.
+[01:15:40	][IC] C24:RCT.YELLO-27: <:: Haha. ::>
+[01:15:45	][IC] C24:RCT.YELLO-27: <:: Ice. ::>
+[01:15:47	][IC] C24:RCT.YELLO-27: <:: Gemini. ::>
+[01:15:48	][IC] C24:RCT.YELLO-27: <:: Helix. ::>
+[01:15:49	][IC] C24:RCT.YELLO-27: <:: VICE. ::>
+[01:16:17	]C24:RCT.YELLO-27 entered observer.
+[01:16:35	]C24:RCT.YELLO-27 has spawned a cmb_hkusp.
+[01:16:37	]C24:RCT.YELLO-27 exited observer at their location.
+[01:17:35	]C24:RCT.YELLO-27 has spawned a res_deagle.
+[01:17:37	]C24:RCT.YELLO-27 ran 'take' on item 'Deagle' (#51148)
+[01:17:37	]C24:RCT.YELLO-27 has gained a 'Deagle' #51148.
+[01:17:49	]C24:RCT.YELLO-27 ran 'Equip' on item 'Deagle' (#51148)
+[01:18:04	]C24:RCT.YELLO-27 has fired a toolgun with the name: camera
+[01:19:17	]C24:RCT.YELLO-27 has fired a toolgun with the name: camera
+[01:19:47	]C24:RCT.YELLO-27 has changed C24:RCT.YELLO-27's bodygroups.
+[01:20:26	]C24:RCT.YELLO-27 has changed C24:RCT.YELLO-27's bodygroups.
+[01:20:37	]C24:RCT.YELLO-27 has changed C24:RCT.YELLO-27's bodygroups.
+[01:20:43	]C24:RCT.YELLO-27 has changed C24:RCT.YELLO-27's bodygroups.
+[01:20:53	]C24:RCT.YELLO-27 has changed C24:RCT.YELLO-27's bodygroups.
+[01:22:35	]C24:RCT.YELLO-27 has spawned a magazine_usp.
+[01:22:38	]C24:RCT.YELLO-27 ran 'take' on item '17-nabojowy magazynek do USP' (#51149)
+[01:22:38	]C24:RCT.YELLO-27 has gained a '17-nabojowy magazynek do USP' #51149.
+[01:23:00	]C24:RCT.YELLO-27 has spawned a bullets_pistol.
+[01:23:01	]C24:RCT.YELLO-27 ran 'take' on item 'Amunicja kalibru 9mm' (#51150)
+[01:23:01	]C24:RCT.YELLO-27 has gained a 'Amunicja kalibru 9mm' #51150.
+[01:23:11	]C24:RCT.YELLO-27 ran 'combine' on item '17-nabojowy magazynek do USP' (#51149)
+[01:23:35	]C24:RCT.YELLO-27 has spawned a magazine_deagle.
+[01:23:37	]C24:RCT.YELLO-27 ran 'take' on item '7-nabojowy magazynek do Deagle'a' (#51151)
+[01:23:37	]C24:RCT.YELLO-27 has gained a '7-nabojowy magazynek do Deagle'a' #51151.
+[01:23:42	]C24:RCT.YELLO-27 has spawned a bullets_357.
+[01:23:43	]C24:RCT.YELLO-27 ran 'take' on item 'Amunicja .357' (#51152)
+[01:23:43	]C24:RCT.YELLO-27 has gained a 'Amunicja .357' #51152.
+[01:23:44	]C24:RCT.YELLO-27 ran 'combine' on item '7-nabojowy magazynek do Deagle'a' (#51151)
+[01:23:46	]C24:RCT.YELLO-27 has lost a '7-nabojowy magazynek do Deagle'a' #51151.
+[01:24:01	]C24:RCT.YELLO-27 has spawned a magazine_deagle.
+[01:24:02	]C24:RCT.YELLO-27 has spawned a magazine_deagle.
+[01:24:02	]C24:RCT.YELLO-27 has spawned a magazine_deagle.
+[01:24:03	]C24:RCT.YELLO-27 has spawned a magazine_deagle.
+[01:24:08	]C24:RCT.YELLO-27 ran 'take' on item '7-nabojowy magazynek do Deagle'a' (#51155)
+[01:24:08	]C24:RCT.YELLO-27 has gained a '7-nabojowy magazynek do Deagle'a' #51155.
+[01:24:09	]C24:RCT.YELLO-27 ran 'take' on item '7-nabojowy magazynek do Deagle'a' (#51154)
+[01:24:09	]C24:RCT.YELLO-27 has gained a '7-nabojowy magazynek do Deagle'a' #51154.
+[01:24:12	]C24:RCT.YELLO-27 ran 'take' on item '7-nabojowy magazynek do Deagle'a' (#51156)
+[01:24:12	]C24:RCT.YELLO-27 has gained a '7-nabojowy magazynek do Deagle'a' #51156.
+[01:24:13	]C24:RCT.YELLO-27 ran 'take' on item '7-nabojowy magazynek do Deagle'a' (#51153)
+[01:24:13	]C24:RCT.YELLO-27 has gained a '7-nabojowy magazynek do Deagle'a' #51153.
+[01:24:17	]C24:RCT.YELLO-27 ran 'combine' on item '7-nabojowy magazynek do Deagle'a' (#51155)
+[01:24:18	]C24:RCT.YELLO-27 ran 'combine' on item '7-nabojowy magazynek do Deagle'a' (#51156)
+[01:24:20	]C24:RCT.YELLO-27 has spawned a bullets_357.
+[01:24:21	]C24:RCT.YELLO-27 ran 'take' on item 'Amunicja .357' (#51157)
+[01:24:21	]C24:RCT.YELLO-27 has gained a 'Amunicja .357' #51157.
+[01:24:23	]C24:RCT.YELLO-27 ran 'combine' on item '7-nabojowy magazynek do Deagle'a' (#51154)
+[01:24:23	]C24:RCT.YELLO-27 ran 'combine' on item '7-nabojowy magazynek do Deagle'a' (#51156)
+[01:24:25	]C24:RCT.YELLO-27 ran 'combine' on item '7-nabojowy magazynek do Deagle'a' (#51153)
+[01:24:25	]C24:RCT.YELLO-27 has gained a '7-nabojowy magazynek do Deagle'a' #51151.
+[01:24:25	]C24:RCT.YELLO-27 has lost a '7-nabojowy magazynek do Deagle'a' #51156.
+[01:24:35	]C24:RCT.YELLO-27 has spawned a 'NPC [542][npc_vj_hlr1a_securityguard]'.
+[01:24:49	]C24:RCT.YELLO-27 has spawned a 'NPC [542][npc_vj_hlr1a_ivan]'.
+[01:24:55	]C24:RCT.YELLO-27 has spawned a 'NPC [542][npc_vj_hlrof_otis]'.
+[01:25:02	]C24:RCT.YELLO-27 has spawned a 'NPC [542][npc_vj_hlr1_scientist]'.
+[01:25:07	]C24:RCT.YELLO-27 has spawned a 'NPC [542][npc_vj_hlrdc_keller]'.
+[01:25:15	]C24:RCT.YELLO-27 entered observer.
+[01:25:16	]C24:RCT.YELLO-27 has spawned a 'NPC [542][npc_vj_hlrbs_rosenberg]'.
+[01:25:26	]C24:RCT.YELLO-27 has spawned a 'NPC [542][npc_vj_hlr1a_securityguard]'.
+[01:25:29	]C24:RCT.YELLO-27 has spawned a 'NPC [542][npc_vj_hlr1a_securityguard]'.
+[01:25:33	]C24:RCT.YELLO-27 has spawned a 'NPC [542][npc_vj_hlr1a_hgrunt]'.
+[01:25:38	]C24:RCT.YELLO-27 exited observer at their location.
+[01:25:39	]C24:RCT.YELLO-27 entered observer.
+[01:25:42	]C24:RCT.YELLO-27 has spawned a 'NPC [542][npc_vj_hlr1a_hgrunt_serg]'.
+[01:25:46	]C24:RCT.YELLO-27 has spawned a 'NPC [544][npc_vj_hlr1a_hgrunt_sergm]'.
+[01:25:50	]C24:RCT.YELLO-27 has spawned a 'NPC [542][npc_vj_hlr1a_scientist]'.
+[01:25:59	]C24:RCT.YELLO-27 has spawned a 'NPC [542][npc_vj_hlrof_assassin_male]'.
+[01:26:01	]C24:RCT.YELLO-27 has spawned a 'NPC [544][npc_vj_hlr1_assassin_female]'.
+[01:26:52	]C24:RCT.YELLO-27 has spawned a 'NPC [542][npc_vj_hlrof_cleansuitsci]'.
+[01:26:57	]C24:RCT.YELLO-27 has spawned a 'NPC [542][npc_vj_hlr1_headcrab_baby]'.
+[01:27:03	]C24:RCT.YELLO-27 exited observer at their location.
+[01:27:04	]C24:RCT.YELLO-27 has fired a toolgun with the name: camera
+[01:27:09	]C24:RCT.YELLO-27 has gained a '7-nabojowy magazynek do Deagle'a' #51156.
+[01:27:09	]C24:RCT.YELLO-27 has lost a '7-nabojowy magazynek do Deagle'a' #51155.
+[01:27:41	]Mensu (STEAM_0:0:31675788) has disconnected.
+[13:22:17	]Mensu has connected.
+[13:24:03	]Mensu loaded the character 'C24:RCT.YELLO-27'
+[13:24:30	]C24:RCT.YELLO-27 entered observer.
+[13:24:44	]C24:RCT.YELLO-27 exited observer at their location.
+[13:25:21	][IC] C24:RCT.YELLO-27: <:: Via. ::>
+[13:25:25	][ME] C24:RCT.YELLO-27: I'm doing a flip
+[13:25:29	][IT] C24:RCT.YELLO-27: window
+[13:25:44	]Mensu has unloaded their "C24:RCT.YELLO-27" character.
+[13:28:18	]Mensu loaded the character 'C24:RCT.YELLO-27'
+[13:29:34	]C24:RCT.YELLO-27 ran 'Equip' on item 'PDA Kombinatu' (#51141)
+[13:30:01	]C24:RCT.YELLO-27 entered observer.
+[13:30:07	]C24:RCT.YELLO-27 exited observer at their location.
+[13:32:40	]C24:RCT.YELLO-27 used command '/PlyWhitelist Yello vortiguant'.
+[13:32:49	]C24:RCT.YELLO-27 used command '/PlyWhitelist yello xen'.
+[13:33:01	]C24:RCT.YELLO-27 used command '/PlyWhitelist yello vort'.
+[13:33:05	]Mensu has unloaded their "C24:RCT.YELLO-27" character.
+[13:34:00	]Mensu created the character 'Rer erer erre'
+[13:34:00	]Mensu loaded the character 'Rer erer erre'
+[13:34:00	]Rer erer erre has gained a 'Haki Vortigaunta' #51158.
+[13:34:00	]Rer erer erre has gained a 'Kajdany Vortigaunta' #51159.
+[13:34:00	]Rer erer erre has gained a 'Obroża Vortigaunta' #51160.
+[13:34:13	]Rer erer erre has fired a toolgun with the name: camera
+[13:36:16	]Rer erer erre entered observer.
+[13:36:16	]Rer erer erre exited observer at their location.
+[13:36:52	]Rer erer erre has spawned a vortigaunt_torso_cwu.
+[13:36:53	]Rer erer erre ran 'take' on item 'Uniform roboczy dla Vortigaunta' (#51161)
+[13:36:53	]Rer erer erre has gained a 'Uniform roboczy dla Vortigaunta' #51161.
+[13:36:54	]Rer erer erre has spawned a vortigaunt_torso_sweater.
+[13:36:55	]Rer erer erre ran 'take' on item 'Sweter dla Vortigaunta' (#51162)
+[13:36:55	]Rer erer erre has gained a 'Sweter dla Vortigaunta' #51162.
+[13:36:56	]Rer erer erre has spawned a vortigaunt_torso_light2.
+[13:36:57	]Rer erer erre ran 'take' on item 'Własnoręczna narzuta Vortigaunta' (#51163)
+[13:36:57	]Rer erer erre has gained a 'Własnoręczna narzuta Vortigaunta' #51163.
+[13:36:59	]Rer erer erre has spawned a vortigaunt_torso_armor.
+[13:37:00	]Rer erer erre ran 'take' on item 'Płyta z Antlion Guarda dla Vortigaunta' (#51164)
+[13:37:00	]Rer erer erre has gained a 'Płyta z Antlion Guarda dla Vortigaunta' #51164.
+[13:37:01	]Rer erer erre has spawned a vortigaunt_meat02.
+[13:37:04	]Rer erer erre has spawned a vortigaunt_meat01.
+[13:37:06	]Rer erer erre ran 'take' on item 'Pas z pożywienia' (#51166)
+[13:37:06	]Rer erer erre has gained a 'Pas z pożywienia' #51166.
+[13:37:07	]Rer erer erre ran 'take' on item 'Pas z mięsem z obrzeży' (#51165)
+[13:37:07	]Rer erer erre has gained a 'Pas z mięsem z obrzeży' #51165.
+[13:37:09	]Rer erer erre has spawned a vortigaunt_head_boonie.
+[13:37:10	]Rer erer erre ran 'take' on item 'Kapelusz typu 'Boonie' dla Vortigaunta' (#51167)
+[13:37:10	]Rer erer erre has gained a 'Kapelusz typu 'Boonie' dla Vortigaunta' #51167.
+[13:37:11	]Rer erer erre has spawned a vortigaunt_head_flatcap.
+[13:37:12	]Rer erer erre ran 'take' on item 'Kaszkiet dla Vortigaunta' (#51168)
+[13:37:12	]Rer erer erre has gained a 'Kaszkiet dla Vortigaunta' #51168.
+[13:37:15	]Rer erer erre has spawned a vortigaunt_head_helmet.
+[13:37:17	]Rer erer erre ran 'take' on item 'Hełm Vortigaunta' (#51169)
+[13:37:17	]Rer erer erre has gained a 'Hełm Vortigaunta' #51169.
+[13:37:18	]Rer erer erre has spawned a vortigaunt_head_fedora.
+[13:37:21	]Rer erer erre ran 'take' on item 'Fedora dla Vortigaunta' (#51170)
+[13:37:21	]Rer erer erre has gained a 'Fedora dla Vortigaunta' #51170.
+[13:37:22	]Rer erer erre has spawned a vortigaunt_torso_doc.
+[13:37:23	]Rer erer erre ran 'take' on item 'Fartuch Vortigaunta z odznaką' (#51171)
+[13:37:23	]Rer erer erre has gained a 'Fartuch Vortigaunta z odznaką' #51171.
+[13:37:24	]Rer erer erre has spawned a vortigaunt_bandages.
+[13:37:25	]Rer erer erre ran 'take' on item 'Bandaże dla Vortigaunta' (#51172)
+[13:37:25	]Rer erer erre has gained a 'Bandaże dla Vortigaunta' #51172.
+[13:37:26	]Rer erer erre has spawned a vortigaunt_torso_hoodie.
+[13:37:27	]Rer erer erre ran 'take' on item 'Bluza Vortigaunta' (#51173)
+[13:37:27	]Rer erer erre has gained a 'Bluza Vortigaunta' #51173.
+[13:37:28	]Rer erer erre has spawned a vortigaunt_bandana.
+[13:37:29	]Rer erer erre ran 'take' on item 'Bandana dla Vortigaunta' (#51174)
+[13:37:29	]Rer erer erre has gained a 'Bandana dla Vortigaunta' #51174.
+[13:39:36	]Mensu has unloaded their "Rer erer erre" character.
+[13:39:45	]Mensu loaded the character 'C24:RCT.YELLO-27'
+[13:39:57	]C24:RCT.YELLO-27 has changed C24:RCT.YELLO-27's bodygroups.
+[13:40:03	]C24:RCT.YELLO-27 has gained a '7-nabojowy magazynek do Deagle'a' #51155.
+[13:40:03	]C24:RCT.YELLO-27 has lost a '7-nabojowy magazynek do Deagle'a' #51154.
+[13:40:09	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1a_hgrunt_serg]'.
+[13:40:10	]C24:RCT.YELLO-27 has taken 1 damage from Alpha Human Sergeant.
+[13:40:11	]C24:RCT.YELLO-27 has taken 1 damage from Alpha Human Sergeant.
+[13:40:11	]C24:RCT.YELLO-27 has taken 5 damage from Alpha Human Sergeant.
+[13:40:11	]C24:RCT.YELLO-27 has taken 5 damage from Alpha Human Sergeant.
+[13:40:11	]C24:RCT.YELLO-27 has taken 1 damage from Alpha Human Sergeant.
+[13:40:11	]C24:RCT.YELLO-27 has taken 5 damage from Alpha Human Sergeant.
+[13:40:11	]C24:RCT.YELLO-27 has taken 1 damage from Alpha Human Sergeant.
+[13:40:11	]C24:RCT.YELLO-27 has taken 1 damage from Alpha Human Sergeant.
+[13:40:15	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1a_scientist]'.
+[13:40:15	]C24:RCT.YELLO-27 is fully healed.
+[13:40:18	]C24:RCT.YELLO-27 has critically hit npc_vj_hlr1a_scientist in the head dealing 55 damage (CritChance was 0.13).
+[13:40:22	]C24:RCT.YELLO-27 has gained a '7-nabojowy magazynek do Deagle'a' #51154.
+[13:40:22	]C24:RCT.YELLO-27 has lost a '7-nabojowy magazynek do Deagle'a' #51155.
+[13:40:27	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1_cockroach]'.
+[13:40:35	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlrof_penguinnest]'.
+[13:40:40	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1_rat]'.
+[13:40:57	]C24:RCT.YELLO-27 has gained a '7-nabojowy magazynek do Deagle'a' #51155.
+[13:40:57	]C24:RCT.YELLO-27 has lost a '7-nabojowy magazynek do Deagle'a' #51153.
+[13:41:01	]C24:RCT.YELLO-27 has critically hit npc_vj_hlr1_rat dealing 48 damage (CritChance was 0.64).
+[13:41:05	]C24:RCT.YELLO-27 entered observer.
+[13:41:12	]C24:RCT.YELLO-27 exited observer at their location.
+[13:41:23	]C24:RCT.YELLO-27 entered observer.
+[13:41:23	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1a_headcrab]'.
+[13:41:29	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1_rat]'.
+[13:41:32	]C24:RCT.YELLO-27 has spawned a 'NPC [532][npc_vj_hlr1_rat]'.
+[13:41:40	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1_rat]'.
+[13:41:43	]C24:RCT.YELLO-27 exited observer at their location.
+[13:41:58	]C24:RCT.YELLO-27 has hit npc_vj_hlr1_rat dealing 7 damage (CritChance was 0.00).
+[13:41:58	]C24:RCT.YELLO-27 has damaged npc_vj_hlr1_rat, dealing 8.5 with ix_hands
+[13:42:17	]C24:RCT.YELLO-27 has spawned a 'NPC [532][npc_vj_hlr1_houndeye]'.
+[13:42:18	]C24:RCT.YELLO-27 entered observer.
+[13:42:20	]C24:RCT.YELLO-27 exited observer at their location.
+[13:42:22	]C24:RCT.YELLO-27 entered observer.
+[13:42:34	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1_tentacle]'.
+[13:42:37	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlrsv_tor]'.
+[13:42:49	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlrof_shocktrooper]'.
+[13:42:53	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlrof_voltigore_baby]'.
+[13:42:57	]C24:RCT.YELLO-27 has spawned a 'NPC [532][npc_vj_hlrof_voltigore]'.
+[13:42:59	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1_osprey]'.
+[13:43:07	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1_securityguard]'.
+[13:43:14	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1a_scientist]'.
+[13:43:17	]C24:RCT.YELLO-27 has spawned a 'NPC [532][npc_vj_hlr1a_scientist]'.
+[13:43:20	]C24:RCT.YELLO-27 has spawned a 'NPC [536][npc_vj_hlr1a_securityguard]'.
+[13:43:30	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1a_scientist]'.
+[13:43:31	]C24:RCT.YELLO-27 has spawned a 'NPC [532][npc_vj_hlr1a_scientist]'.
+[13:43:32	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1a_scientist]'.
+[13:43:33	]C24:RCT.YELLO-27 has spawned a 'NPC [532][npc_vj_hlr1a_scientist]'.
+[13:43:34	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1a_scientist]'.
+[13:43:35	]C24:RCT.YELLO-27 has spawned a 'NPC [532][npc_vj_hlr1a_scientist]'.
+[13:43:42	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1a_aliengrunt]'.
+[13:43:53	]C24:RCT.YELLO-27 has spawned a 'NPC [532][npc_vj_hlr1_aliengrunt]'.
+[13:43:56	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1_alienslave]'.
+[13:44:15	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1a_bullsquid]'.
+[13:44:21	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1_aflock]'.
+[13:44:26	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1_controlsphere]'.
+[13:44:29	]C24:RCT.YELLO-27 exited observer at their location.
+[13:44:32	]C24:RCT.YELLO-27 entered observer.
+[13:44:36	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1_ichthyosaur]'.
+[13:44:38	]C24:RCT.YELLO-27 exited observer at their location.
+[13:44:41	]C24:RCT.YELLO-27 has taken 35 damage from Ichthyosaur.
+[13:44:48	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlr1_hgrunt_serg]'.
+[13:44:51	]C24:RCT.YELLO-27 has spawned a 'NPC [531][npc_vj_hlrof_hgrunt_med]'.
+[13:44:52	]C24:RCT.YELLO-27 has taken 5 damage from Human Grunt Medic.
+[13:44:52	]C24:RCT.YELLO-27 has taken 5 damage from Human Grunt Medic.
+[13:44:53	]C24:RCT.YELLO-27 has taken 5 damage from Human Grunt Medic.
+[13:44:55	]C24:RCT.YELLO-27 has spawned a 'NPC [536][npc_vj_hlrof_hgrunt]'.
+[13:44:56	]C24:RCT.YELLO-27 has taken 2 damage from Human Grunt.
+[13:44:57	]C24:RCT.YELLO-27 has taken 15 damage from Human Grunt.
+[13:44:57	]C24:RCT.YELLO-27 has taken 18 damage from Human Grunt.
+[13:44:59	]C24:RCT.YELLO-27 has taken 2 damage from Human Grunt.
+[13:45:00	]C24:RCT.YELLO-27 has taken 4 damage from Human Grunt.
+[13:45:01	]C24:RCT.YELLO-27 has taken 6 damage from Human Grunt.
+[13:45:01	]C24:RCT.YELLO-27 has taken 11 damage from Human Grunt.
+[13:45:03	]C24:RCT.YELLO-27 has taken 6 damage from Human Grunt.
+[13:45:04	]C24:RCT.YELLO-27 has taken 1 damage from Human Grunt.
+[13:45:04	]C24:RCT.YELLO-27 has taken 9 damage from Human Grunt.
+[13:45:05	]C24:RCT.YELLO-27 has taken 12 damage from Human Grunt.
+[13:45:05	]C24:RCT.YELLO-27 has taken 2 damage from Human Grunt.
+[13:45:06	]C24:RCT.YELLO-27 has gained a '7-nabojowy magazynek do Deagle'a' #51153.
+[13:45:06	]C24:RCT.YELLO-27 was knocked unconscious and is bleeding out.
+[13:45:27	]C24:RCT.YELLO-27 has dropped: Deagle (#51148); 7-nabojowy magazynek do Deagle'a (#51156); 17-nabojowy magazynek do USP (#51149); Lightweight Functionary Uniform (City 8) (#51142); 7-nabojowy magazynek do Deagle'a (#51154); 7-nabojowy magazynek do Deagle'a (#51151); 1x Amunicja .357 (#51157); 7-nabojowy magazynek do Deagle'a (#51153); Zaawansowana maska przeciwgazowa PMG-5 (AUG) (#51146); 103x Amunicja kalibru 9mm (#51150); 7-nabojowy magazynek do Deagle'a (#51155);
+[13:45:27	]C24:RCT.YELLO-27 was just killed due to: accepting their death
+[13:45:34	]C24:RCT.YELLO-27 entered observer.
+[13:45:42	]C24:RCT.YELLO-27 exited observer at their location.
+[13:45:47	]C24:RCT.YELLO-27 opened the 'Dropped Items' #3333 container.
+[13:45:47	]C24:RCT.YELLO-27 closed the 'Dropped Items' #3333 container.
+[13:45:49	]C24:RCT.YELLO-27 opened the 'Dropped Items' #3333 container.
+[13:45:51	]C24:RCT.YELLO-27 has gained a 'Zaawansowana maska przeciwgazowa PMG-5 (AUG)' #51146 from a container with the name 'Dropped Items' #3333.
+[13:45:52	]C24:RCT.YELLO-27 has gained a 'Deagle' #51148 from a container with the name 'Dropped Items' #3333.
+[13:45:54	]C24:RCT.YELLO-27 has gained a '7-nabojowy magazynek do Deagle'a' #51155 from a container with the name 'Dropped Items' #3333.
+[13:45:55	]C24:RCT.YELLO-27 has gained a '7-nabojowy magazynek do Deagle'a' #51151 from a container with the name 'Dropped Items' #3333.
+[13:45:57	]C24:RCT.YELLO-27 has gained a '7-nabojowy magazynek do Deagle'a' #51153 from a container with the name 'Dropped Items' #3333.
+[13:45:58	]C24:RCT.YELLO-27 has gained a '7-nabojowy magazynek do Deagle'a' #51154 from a container with the name 'Dropped Items' #3333.
+[13:45:59	]C24:RCT.YELLO-27 has gained a 'Amunicja .357' #51157 from a container with the name 'Dropped Items' #3333.
+[13:46:01	]C24:RCT.YELLO-27 has gained a '17-nabojowy magazynek do USP' #51149 from a container with the name 'Dropped Items' #3333.
+[13:46:02	]C24:RCT.YELLO-27 has gained a '7-nabojowy magazynek do Deagle'a' #51156 from a container with the name 'Dropped Items' #3333.
+[13:46:03	]C24:RCT.YELLO-27 has gained a 'Amunicja kalibru 9mm' #51150 from a container with the name 'Dropped Items' #3333.
+[13:46:04	]C24:RCT.YELLO-27 closed the 'Dropped Items' #3333 container.
+[13:46:21	]C24:RCT.YELLO-27 entered observer.
+[13:46:27	]C24:RCT.YELLO-27 exited observer at their location.
+[13:46:27	]C24:RCT.YELLO-27 entered observer.
+[13:46:28	]C24:RCT.YELLO-27 exited observer at their location.
+[13:46:28	]C24:RCT.YELLO-27 entered observer.
+[13:46:34	]C24:RCT.YELLO-27 exited observer at their location.
+[13:46:35	]C24:RCT.YELLO-27 entered observer.
+[13:46:42	]C24:RCT.YELLO-27 exited observer at their location.
+[13:46:45	]C24:RCT.YELLO-27 entered observer.
+[13:46:46	]C24:RCT.YELLO-27 exited observer at their location.
+[13:47:08	]C24:RCT.YELLO-27 entered observer.
+[13:47:21	]C24:RCT.YELLO-27 exited observer at their location.
+[13:48:30	]C24:RCT.YELLO-27 entered observer.
+[13:48:34	]C24:RCT.YELLO-27 exited observer at their location.
+[13:48:34	]C24:RCT.YELLO-27 entered observer.
+[13:48:36	]C24:RCT.YELLO-27 exited observer at their location.
+[13:48:36	]C24:RCT.YELLO-27 entered observer.
+[13:48:37	]C24:RCT.YELLO-27 exited observer at their location.
+[13:48:37	]C24:RCT.YELLO-27 entered observer.
+[13:48:41	]C24:RCT.YELLO-27 exited observer at their location.
+[13:48:42	]C24:RCT.YELLO-27 entered observer.
+[13:48:44	]C24:RCT.YELLO-27 exited observer at their location.
+[13:48:44	]C24:RCT.YELLO-27 entered observer.
+[13:48:45	]C24:RCT.YELLO-27 exited observer at their location.
+[13:48:48	]C24:RCT.YELLO-27 entered observer.
+[13:48:57	]C24:RCT.YELLO-27 exited observer at their location.
+[13:48:58	]C24:RCT.YELLO-27 entered observer.
+[13:49:01	]C24:RCT.YELLO-27 exited observer at their location.
+[13:49:03	]C24:RCT.YELLO-27 entered observer.
+[13:49:03	]C24:RCT.YELLO-27 exited observer at their location.
+[13:49:03	]C24:RCT.YELLO-27 entered observer.
+[13:49:11	]C24:RCT.YELLO-27 exited observer at their location.
+[13:49:11	]C24:RCT.YELLO-27 entered observer.
+[13:49:12	]C24:RCT.YELLO-27 exited observer at their location.
+[13:49:13	]C24:RCT.YELLO-27 entered observer.
+[13:49:14	]C24:RCT.YELLO-27 exited observer at their location.
+[13:49:14	]C24:RCT.YELLO-27 entered observer.
+[13:49:15	]C24:RCT.YELLO-27 exited observer at their location.
+[13:49:16	]C24:RCT.YELLO-27 entered observer.
+[13:49:16	]C24:RCT.YELLO-27 exited observer at their location.
+[13:49:17	]C24:RCT.YELLO-27 entered observer.
+[13:49:17	]C24:RCT.YELLO-27 exited observer at their location.
+[13:49:18	]C24:RCT.YELLO-27 entered observer.
+[13:49:20	]C24:RCT.YELLO-27 exited observer at their location.
+[13:54:45	]C24:RCT.YELLO-27 has gone afk.
+[14:32:39	]C24:RCT.YELLO-27 entered observer.
+[14:32:40	]C24:RCT.YELLO-27 is no longer afk. Total time spent AFK: 2570
+[14:34:43	]C24:RCT.YELLO-27 has spawned a 'Entity [554][sent_vj_xen_hair]'.
+[14:34:45	]C24:RCT.YELLO-27 exited observer at their location.
+[14:34:46	]C24:RCT.YELLO-27 entered observer.
+[14:34:47	]C24:RCT.YELLO-27 exited observer at their location.
+[14:34:48	]C24:RCT.YELLO-27 entered observer.
+[14:34:50	]C24:RCT.YELLO-27 has spawned a 'NPC [554][npc_vj_hlr1_xen_cannon]'.
+[14:34:51	]C24:RCT.YELLO-27 exited observer at their location.
+[14:34:52	]C24:RCT.YELLO-27 entered observer.
+[14:34:57	]C24:RCT.YELLO-27 has spawned a 'Entity [554][sent_vj_xen_plant_light]'.
+[14:34:59	]C24:RCT.YELLO-27 exited observer at their location.
+[14:35:00	]C24:RCT.YELLO-27 entered observer.
+[14:35:00	]C24:RCT.YELLO-27 exited observer at their location.
+[14:35:02	]C24:RCT.YELLO-27 has spawned a 'Entity [588][sent_vj_xen_plant_light]'.
+[14:35:06	]C24:RCT.YELLO-27 entered observer.
+[14:35:14	]C24:RCT.YELLO-27 has spawned a 'NPC [554][npc_vj_hlrof_pitdrone]'.
+[14:35:22	]C24:RCT.YELLO-27 has spawned a 'NPC [554][npc_vj_hlr1a_scientist]'.
+[14:41:10	]C24:RCT.YELLO-27 has gone afk.
+[15:00:30	]C24:RCT.YELLO-27 is no longer afk. Total time spent AFK: 1455
+[15:02:16	]Mensu (STEAM_0:0:31675788) has disconnected.
+[21:50:57	]inkaaz has connected.
+[21:51:29	]inkaaz loaded the character 'Henryk Cweles'
+[21:51:30	]Henryk Cweles has taken 5 damage from worldspawn.
+[22:03:23	]Henryk Cweles has gone afk.
+[22:04:16	]inkaaz (STEAM_0:0:50287200) has disconnected.
+[23:27:18	]Mensu has connected.
+[23:29:12	]Mensu loaded the character 'C24:RCT.YELLO-27'
+[23:31:42	]lopata180 has connected.
+[23:32:05	][AltChecker] lopata180 joined for the first time, generating new cookie.
+[23:39:40	]C24:RCT.YELLO-27 used command '/PlyWhitelist lopata civil'.
+[23:41:47	]lopata180 created the character 'regvrgwwgw dwfwfw'
+[23:41:47	]lopata180 loaded the character 'regvrgwwgw dwfwfw'
+[23:41:47	]regvrgwwgw dwfwfw has gained a 'Walizka' #51175.
+[23:41:47	]regvrgwwgw dwfwfw has gained a 'Flashlight' #51176.
+[23:41:47	]regvrgwwgw dwfwfw has gained a 'Jasnoszara opaska' #51177.
+[23:41:47	]regvrgwwgw dwfwfw has gained a 'Karta identyfikacyjna #44571' #51178.
+[23:42:25	]lopata180 has unloaded their "regvrgwwgw dwfwfw" character.
+[23:44:25	]lopata180 created the character 'C24:RCT.YELLO-04'
+[23:44:25	]lopata180 has gained level 5 in the Broń palna skill.
+[23:44:25	]lopata180 has gained level 10 in the Prędkość skill.
+[23:44:25	]lopata180 loaded the character 'C24:RCT.YELLO-04'
+[23:44:25	]C24:RCT.YELLO-04 has gained a 'Karta identyfikacyjna #46614' #51179.
+[23:44:25	]C24:RCT.YELLO-04 has gained a 'PDA Kombinatu' #51180.
+[23:44:25	]C24:RCT.YELLO-04 has gained a 'Lightweight Functionary Uniform (City 8)' #51181.
+[23:44:25	]C24:RCT.YELLO-04 has gained a 'Maska przeciwgazowa PMG-5 (AUG)' #51182.
+[23:44:25	]C24:RCT.YELLO-04 has gained a 'Mała torba' #51183.
+[23:44:25	]C24:RCT.YELLO-04 has gained a 'Duża torba' #51184.
+[23:44:40	]C24:RCT.YELLO-04 ran 'drop' on item 'PDA Kombinatu' (#51180)
+[23:44:40	]C24:RCT.YELLO-04 has lost a 'PDA Kombinatu' #51180.
+[23:44:49	]C24:RCT.YELLO-04 ran 'take' on item 'PDA Kombinatu' (#51180)
+[23:44:49	]C24:RCT.YELLO-04 has gained a 'PDA Kombinatu' #51180.
+[23:45:12	]C24:RCT.YELLO-27 has gone afk.
+[23:45:19	]C24:RCT.YELLO-27 entered observer.
+[23:45:22	]C24:RCT.YELLO-27 is no longer afk. Total time spent AFK: 305
+[23:45:45	]C24:RCT.YELLO-27 ran SAM command 'goto' with arguments: '04'
+[23:45:47	]C24:RCT.YELLO-27 exited observer at their location.
+[23:46:37	]C24:RCT.YELLO-27 entered observer.
+[23:46:39	]C24:RCT.YELLO-27 exited observer at their location.
+[23:47:14	]C24:RCT.YELLO-27 entered observer.
+[23:47:14	]C24:RCT.YELLO-27 exited observer at their location.
+[23:47:15	]C24:RCT.YELLO-27 entered observer.
+[23:47:23	]C24:RCT.YELLO-27 ran SAM command 'goto' with arguments: '04'
+[23:47:24	]C24:RCT.YELLO-27 exited observer at their location.
+[23:48:15	]C24:RCT.YELLO-27 entered observer.
+[23:48:20	]C24:RCT.YELLO-27 has spawned a 'Vehicle [595][prop_vehicle_jeep]'.
+[23:48:26	]C24:RCT.YELLO-27 exited observer at their location.
+[23:48:35	]C24:RCT.YELLO-27 entered observer.
+[23:49:01	]C24:RCT.YELLO-27 exited observer at their location.
+[23:50:21	]C24:RCT.YELLO-27 entered observer.
+[23:50:37	]C24:RCT.YELLO-27 exited observer at their location.
+[23:52:02	][IC] C24:RCT.YELLO-27: <:: Wyidentyfikuj się. ::>
+[23:52:06	][IC] C24:RCT.YELLO-27: <:: Rozejść się! ::>
+[23:52:12	][IC] C24:RCT.YELLO-27: <:: Haha. ::>
+[23:52:17	][IC] C24:RCT.YELLO-27: <:: No. ::>
+[23:52:19	][IC] C24:RCT.YELLO-27: <:: Nie. ::>
+[23:52:21	][IC] C24:RCT.YELLO-27: <:: Y. ::>
+[23:52:28	][IC] C24:RCT.YELLO-04: <:: Haha. ::>
+[23:52:35	][IC] C24:RCT.YELLO-27: <:: Ice. ::>
+[23:52:36	][IC] C24:RCT.YELLO-27: <:: VICE. ::>
+[23:52:38	][IC] C24:RCT.YELLO-27: <:: XRAY. ::>
+[23:52:40	][IC] C24:RCT.YELLO-27: <:: Biotic. ::>
+[23:52:52	]C24:RCT.YELLO-27 entered observer.
+[23:53:47	]C24:RCT.YELLO-27 ran SAM command 'bring' with arguments: '04'
+[23:53:49	]C24:RCT.YELLO-27 exited observer at their location.
+[23:53:57	]C24:RCT.YELLO-27 entered observer.
+[23:54:15	]C24:RCT.YELLO-27 exited observer at their location.
+[23:54:19	][IC] C24:RCT.YELLO-27: <:: !teleport 04. ::>
+[23:54:23	]C24:RCT.YELLO-27 ran SAM command 'bring' with arguments: '04'
+[23:54:58	]C24:RCT.YELLO-27 entered observer.
+[23:55:21	]C24:RCT.YELLO-27 has spawned a 'NPC [597][npc_headcrab]'.
+[23:55:29	]C24:RCT.YELLO-04 has taken 18 damage from worldspawn.
+[23:55:39	]C24:RCT.YELLO-27 has spawned a 'NPC [597][npc_vj_ez2_gonome]'.
+[23:55:39	]C24:RCT.YELLO-04 has taken 14 damage from worldspawn.
+[23:56:08	]C24:RCT.YELLO-27 has spawned a 'NPC [597][npc_vj_hale_life_gonome_overcharged]'.
+[23:56:11	]C24:RCT.YELLO-04 has taken 21 damage from Gonome (Overcharged).
+[23:56:11	]C24:RCT.YELLO-04 has taken 21 damage from Gonome (Overcharged).
+[23:56:12	]C24:RCT.YELLO-04 has taken 4 damage from worldspawn.
+[23:56:13	]C24:RCT.YELLO-04 has taken 4 damage from worldspawn.
+[23:56:14	]C24:RCT.YELLO-04 has taken 4 damage from worldspawn.
+[23:56:15	]C24:RCT.YELLO-27 exited observer at their location.
+[23:56:15	]C24:RCT.YELLO-04 has taken 4 damage from worldspawn.
+[23:56:16	]C24:RCT.YELLO-04 has taken 4 damage from worldspawn.
+[23:56:18	]C24:RCT.YELLO-27 entered observer.
+[23:56:19	]C24:RCT.YELLO-27 exited observer at their location.
+[23:56:20	]C24:RCT.YELLO-27 entered observer.
+[23:56:31	]C24:RCT.YELLO-27 exited observer at their location.
+[23:56:34	]C24:RCT.YELLO-27 ran SAM command 'bring' with arguments: '04'
+[23:56:37	]C24:RCT.YELLO-27 has spawned a 'NPC [597][npc_vj_ez2_gonome]'.
+[23:56:40	]C24:RCT.YELLO-27 has taken 10 damage from obj_vj_gonome_spit.
+[23:56:40	]C24:RCT.YELLO-04 has taken 10 damage from obj_vj_gonome_spit.
+[23:56:44	]C24:RCT.YELLO-27 has spawned a 'NPC [597][npc_vj_ez2_gonome_fem]'.
+[23:56:46	]C24:RCT.YELLO-27 has spawned a 'NPC [597][npc_vj_hale_life_gonome_2]'.
+[23:56:49	]C24:RCT.YELLO-27 has spawned a 'NPC [598][npc_vj_hl_gn_sol]'.
+[23:56:53	]C24:RCT.YELLO-27 has spawned a 'NPC [597][npc_vj_half_life_op4_gonome]'.
+[23:56:56	]C24:RCT.YELLO-27 has spawned a 'NPC [597][npc_fastzombie]'.
+[23:56:59	]C24:RCT.YELLO-27 has spawned a 'NPC [598][npc_fastzombie]'.
+[23:57:09	]C24:RCT.YELLO-27 has spawned a 'NPC [597][npc_barnacle]'.
+[23:57:23	]C24:RCT.YELLO-27 has spawned a 'NPC [597][npc_headcrab]'.
+[23:57:26	]C24:RCT.YELLO-27 has taken 5 damage from npc_headcrab.
+[23:57:28	]C24:RCT.YELLO-27 has spawned a 'NPC [598][npc_headcrab_black]'.
+[23:57:30	]C24:RCT.YELLO-27 has spawned a 'NPC [597][npc_headcrab_fast]'.
+[23:57:30	]C24:RCT.YELLO-27 has taken 5 damage from npc_headcrab_fast.
+[23:57:34	]C24:RCT.YELLO-27 entered observer.
+[23:57:34	]C24:RCT.YELLO-27 has spawned a 'NPC [597][npc_antlionguard]'.
+[23:57:37	]C24:RCT.YELLO-27 has spawned a 'NPC [597][npc_antlion]'.
+[23:57:40	]C24:RCT.YELLO-27 exited observer at their location.
+[23:57:54	]C24:RCT.YELLO-27 has spawned a 'NPC [597][npc_vj_hlrof_penguinnest]'.
+[23:57:58	]C24:RCT.YELLO-27 has spawned a 'NPC [597][npc_vj_hlrof_penguin]'.
+[23:57:59	]C24:RCT.YELLO-04 has taken 10 damage from Penguin.
+[23:58:01	]C24:RCT.YELLO-27 has spawned a 'NPC [597][npc_vj_hlrof_penguin]'.
+[23:58:02	]C24:RCT.YELLO-27 has taken 10 damage from Penguin.
+[23:58:09	]C24:RCT.YELLO-27 has spawned a 'NPC [597][npc_vj_hlr1_rat]'.
+[23:58:39	]C24:RCT.YELLO-27 has spawned a rpg.
+[23:58:53	]C24:RCT.YELLO-27 has spawned a stunstick.
+[23:58:56	]C24:RCT.YELLO-04 ran 'take' on item 'CV-2000 Pałka Paralizująca' (#51186)
+[23:58:56	]C24:RCT.YELLO-04 has gained a 'CV-2000 Pałka Paralizująca' #51186.
+[23:58:59	]C24:RCT.YELLO-27 has spawned a gen_awp.
+[23:59:04	]C24:RCT.YELLO-04 ran 'Equip' on item 'CV-2000 Pałka Paralizująca' (#51186)
+[23:59:18	]C24:RCT.YELLO-04 ran 'take' on item 'AWP' (#51187)
+[23:59:18	]C24:RCT.YELLO-04 has gained a 'AWP' #51187.
+[23:59:32	]C24:RCT.YELLO-04 ran 'EquipUn' on item 'CV-2000 Pałka Paralizująca' (#51186)
+[23:59:54	]C24:RCT.YELLO-04 ran 'Equip' on item 'CV-2000 Pałka Paralizująca' (#51186)

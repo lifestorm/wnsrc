@@ -1,0 +1,103 @@
+[16:04:56	]Loxy has connected.
+[16:05:50	]Loxy (STEAM_0:1:421238310) has disconnected (timed out).
+[16:10:30	]Loxy has connected.
+[16:26:59	]Loxy loaded the character 'Dwad sa WDAWD'
+[16:27:09	]Dwad sa WDAWD ran SAM command 'noclip' with arguments: ''
+[16:27:24	]Dwad sa WDAWD has acquired his ration, gaining 0 credits, 0 wages and a ration ration.
+[16:27:36	]Dwad sa WDAWD ran 'Open' on item 'Racja żywnościowa' (#32327)
+[16:27:36	]Dwad sa WDAWD has gained a 'Syntetyczna papka' #32328.
+[16:27:36	]Dwad sa WDAWD has gained a 'Woda Breena' #32329.
+[16:27:36	]Dwad sa WDAWD has gained a 'Kupon na 15 Kredytów' #32330.
+[16:27:41	]Dwad sa WDAWD ran 'Consume' on item 'Woda Breena' (#32329)
+[16:27:41	]Dwad sa WDAWD has gained a 'Pusta puszka po wodzie Breen'a' #32331.
+[16:27:42	]Dwad sa WDAWD ran 'Consume' on item 'Syntetyczna papka' (#32328)
+[16:27:42	]Dwad sa WDAWD has gained a 'Pusty słoik' #32332.
+[16:27:45	]Dwad sa WDAWD ran 'Use' on item 'Kupon na 15 Kredytów' (#32330)
+[16:33:59	]Dwad sa WDAWD przeszedł w tryb AFK.
+[16:34:19	]Dwad sa WDAWD nie jest już AFK. Całkowity czas spędzony AFK:  315
+[16:34:49	]Dwad sa WDAWD used command '/CharGiveCredits daw 100'.
+[16:34:51	][IC] Dwad sa WDAWD: Adaw.
+[16:34:58	]Dwad sa WDAWD used command '/CharGiveCredits dwad 100'.
+[16:35:20	]Dwad sa WDAWD set rationInterval to '1'.
+[16:35:34	]Dwad sa WDAWD used command '/SetTimeScale 5'.
+[16:35:57	]Dwad sa WDAWD used command '/SetTimeScale 1'.
+[16:36:05	]Loxy loaded the character 'Craig Pearce'
+[16:36:14	]Craig Pearce used command '/CharGiveCredits craig 100'.
+[16:36:15	]Craig Pearce entered observer.
+[16:36:24	]Craig Pearce set rationInterval to '1.5'.
+[16:36:30	]Craig Pearce has acquired his ration, gaining 0 credits, 0 wages and a underclass_ration ration.
+[16:37:08	]Craig Pearce ran 'Open' on item 'Racja żywnościowa podklasy' (#32333)
+[16:37:08	]Craig Pearce has gained a 'Syntetyczna papka' #32334.
+[16:37:08	]Craig Pearce has gained a 'Woda Breena' #32335.
+[16:37:19	]Loxy loaded the character 'Hejajdfa ad AW d'
+[16:42:49	]Hejajdfa ad AW d przeszedł w tryb AFK.
+[16:43:36	]Loxy (STEAM_0:1:421238310) has disconnected.
+[16:50:18	]Loxy has connected.
+[16:51:07	]Loxy loaded the character 'Loxy'
+[16:51:21	]Loxy used command '/CharGiveCredits loxy 150'.
+[16:51:22	]Loxy entered observer.
+[16:51:40	]Loxy has acquired his ration, gaining 0 credits, 0 wages and a ration ration.
+[16:51:56	]Loxy ran 'Open' on item 'Racja żywnościowa' (#32336)
+[16:51:56	]Loxy has gained a 'Syntetyczna papka' #32337.
+[16:51:56	]Loxy has gained a 'Woda Breena' #32338.
+[16:51:56	]Loxy has gained a 'Kupon na 15 Kredytów' #32339.
+[16:52:15	]Loxy loaded the character 'Craig Pearce'
+[16:52:27	]Craig Pearce used command '/CharSetCredits craig 170'.
+[16:52:28	]Craig Pearce entered observer.
+[16:52:52	]Loxy loaded the character 'Hejajdfa ad AW d'
+[16:52:55	][IC] Hejajdfa ad AW d: Asd.
+[16:53:03	]Hejajdfa ad AW d used command '/CharSetCredits hejajdfa 200'.
+[16:53:04	]Hejajdfa ad AW d entered observer.
+[16:53:16	]Hejajdfa ad AW d used command '/CharSetCredits hejajdfa 175'.
+[16:53:25	]Hejajdfa ad AW d has acquired his ration, gaining 0 credits, 0 wages and a ration ration.
+[16:53:37	]Hejajdfa ad AW d ran 'take' on item 'Racja żywnościowa' (#32340)
+[16:53:37	]Hejajdfa ad AW d has gained a 'Racja żywnościowa' #32340.
+[16:59:52	]Hejajdfa ad AW d przeszedł w tryb AFK.
+[17:04:37	]Hejajdfa ad AW d nie jest już AFK. Całkowity czas spędzony AFK:  580
+[17:09:37	]Hejajdfa ad AW d przeszedł w tryb AFK.
+[17:19:07	]Hejajdfa ad AW d nie jest już AFK. Całkowity czas spędzony AFK:  865
+[17:24:07	]Hejajdfa ad AW d przeszedł w tryb AFK.
+[17:28:02	]Hejajdfa ad AW d nie jest już AFK. Całkowity czas spędzony AFK:  530
+[17:34:57	]Hejajdfa ad AW d exited observer.
+[17:35:04	]Hejajdfa ad AW d entered observer.
+[17:39:18	]Hejajdfa ad AW d used command '/SetDatafilePoints hej 150'.
+[17:39:30	]Loxy (STEAM_0:1:421238310) deleted character 'Kraw'
+[17:39:46	]Loxy created the character 'Frawnd Wadaw'
+[17:39:46	]Frawnd Wadaw has gained a 'Latarka' #32341.
+[17:39:46	]Frawnd Wadaw has gained a 'Karta identyfikacyjna #19074' #32342.
+[17:39:46	]Loxy loaded the character 'Frawnd Wadaw'
+[17:39:54	]Frawnd Wadaw entered observer.
+[17:39:56	][IC] Frawnd Wadaw: Yadaw.
+[17:40:04	]Frawnd Wadaw used command '/SetDatafilePoints Frawnd 175'.
+[17:40:13	]Frawnd Wadaw has acquired his ration, gaining 0 credits, 0 wages and a loyalist_ration ration.
+[17:40:26	]Frawnd Wadaw ran 'take' on item 'Racja żywnościowa Lojalisty' (#32343)
+[17:40:26	]Frawnd Wadaw has gained a 'Racja żywnościowa Lojalisty' #32343.
+[17:41:39	]Frawnd Wadaw ran 'Open' on item 'Racja żywnościowa Lojalisty' (#32343)
+[17:41:39	]Frawnd Wadaw has gained a 'Kawałek arbuza' #32344.
+[17:41:39	]Frawnd Wadaw has gained a 'Jabłko' #32345.
+[17:41:39	]Frawnd Wadaw has gained a 'Gazowana woda Breen'a' #32346.
+[17:41:39	]Frawnd Wadaw has gained a 'Kupon na 20 Kredytów' #32347.
+[17:41:42	]Frawnd Wadaw ran 'Consume' on item 'Gazowana woda Breen'a' (#32346)
+[17:41:42	]Frawnd Wadaw has gained a 'Pusta puszka po wodzie Breen'a' #32348.
+[17:41:43	]Frawnd Wadaw ran 'Consume' on item 'Kawałek arbuza' (#32344)
+[17:41:44	]Frawnd Wadaw ran 'Consume' on item 'Jabłko' (#32345)
+[17:42:05	]Loxy loaded the character 'Hejajdfa ad AW d'
+[17:44:13	]Hejajdfa ad AW d entered observer.
+[17:45:11	]Loxy (STEAM_0:1:421238310) has disconnected.
+[17:54:11	]Loxy has connected.
+[17:54:58	]Loxy (STEAM_0:1:421238310) deleted character 'Frawnd Wadaw'
+[17:55:40	]Loxy loaded the character 'Hejajdfa ad AW d'
+[17:56:02	][IC] Hejajdfa ad AW d: Asdas.
+[17:56:17	]Hejajdfa ad AW d used command '/PlyWhitelist hej vor'.
+[17:57:13	]Loxy created the character 'Nahkar ar'
+[17:57:13	]Loxy loaded the character 'Nahkar ar'
+[17:57:13	]Nahkar ar has gained a 'Haki Vortigaunta' #32349.
+[17:57:13	]Nahkar ar has gained a 'Kajdany Vortigaunta' #32350.
+[17:57:13	]Nahkar ar has gained a 'Obroża Vortigaunta' #32351.
+[17:57:18	]Nahkar ar used command '/vortessence'.
+[17:57:34	]Loxy (STEAM_0:1:421238310) deleted character 'Nahkar ar'
+[17:57:59	]Loxy created the character 'AdwdaDW Ad AWd'
+[17:57:59	]Loxy loaded the character 'AdwdaDW Ad AWd'
+[17:57:59	]AdwdaDW Ad AWd has gained a 'Karta identyfikacyjna #22222' #32352.
+[17:57:59	]AdwdaDW Ad AWd has gained a 'Brązowe spodnie dla Vortigaunta' #32353.
+[18:04:00	]Loxy (STEAM_0:1:421238310) has disconnected.

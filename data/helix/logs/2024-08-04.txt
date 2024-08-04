@@ -1,0 +1,759 @@
+[00:01:30	]Mensu created the character 'C24:RCT.YELLO-94'
+[00:01:30	]Mensu has gained level 5 in the Broń palna skill.
+[00:01:30	]Mensu has gained level 10 in the Prędkość skill.
+[00:01:31	]Mensu loaded the character 'C24:RCT.YELLO-94'
+[00:01:31	]C24:RCT.YELLO-94 is no longer afk. Total time spent AFK: 625
+[00:01:31	]C24:RCT.YELLO-94 has gained a 'Karta identyfikacyjna #22014' #442.
+[00:01:31	]C24:RCT.YELLO-94 has gained a 'PDA Kombinatu' #443.
+[00:01:31	]C24:RCT.YELLO-94 has gained a 'Lightweight Functionary Uniform (City 8)' #444.
+[00:01:31	]C24:RCT.YELLO-94 has gained a 'Maska przeciwgazowa PMG-5 (AUG)' #445.
+[00:01:31	]C24:RCT.YELLO-94 has gained a 'Mała torba' #446.
+[00:01:31	]C24:RCT.YELLO-94 has gained a 'Duża torba' #447.
+[00:05:21	]Pocieszny created the character 'C24:RCT.YELLO-40'
+[00:05:21	]Pocieszny has gained level 5 in the Broń palna skill.
+[00:05:21	]Pocieszny has gained level 10 in the Prędkość skill.
+[00:05:22	]Pocieszny loaded the character 'C24:RCT.YELLO-40'
+[00:05:22	]C24:RCT.YELLO-40 has gained a 'Karta identyfikacyjna #22713' #448.
+[00:05:22	]C24:RCT.YELLO-40 has gained a 'PDA Kombinatu' #449.
+[00:05:22	]C24:RCT.YELLO-40 has gained a 'Lightweight Functionary Uniform (City 8)' #450.
+[00:05:22	]C24:RCT.YELLO-40 has gained a 'Maska przeciwgazowa PMG-5 (AUG)' #451.
+[00:05:22	]C24:RCT.YELLO-40 has gained a 'Mała torba' #452.
+[00:05:22	]C24:RCT.YELLO-40 has gained a 'Duża torba' #453.
+[00:05:52	]C24:RCT.YELLO-40 ran 'combine' on item 'Mała torba' (#452)
+[00:06:01	]C24:RCT.YELLO-94 has changed C24:RCT.YELLO-94's bodygroups.
+[00:06:23	]C24:RCT.YELLO-40 used command '/CharDesc'.
+[00:06:24	]C24:RCT.YELLO-40 used command '/CharDesc'.
+[00:06:30	]C24:RCT.YELLO-40 used command '/CharDesc'.
+[00:06:33	]C24:RCT.YELLO-40 used command '/CharDesc'.
+[00:06:38	]C24:RCT.YELLO-94 entered observer.
+[00:06:39	]C24:RCT.YELLO-94 exited observer.
+[00:06:53	]C24:RCT.YELLO-94 used command '/CharGiveFlag e'.
+[00:07:38	]C24:RCT.YELLO-40 used command '/CharDesc'.
+[00:08:38	]C24:RCT.YELLO-40 ran 'Equip' on item 'PDA Kombinatu' (#449)
+[00:08:41	][IC] C24:RCT.YELLO-94: 94.
+[00:09:46	]C24:RCT.YELLO-40 has changed C24:RCT.YELLO-40's bodygroups.
+[00:10:08	]C24:RCT.YELLO-40 has changed C24:RCT.YELLO-40's bodygroups.
+[00:10:34	]C24:RCT.YELLO-40 has changed C24:RCT.YELLO-40's bodygroups.
+[00:11:07	]Mensu has unloaded their "C24:RCT.YELLO-94" character.
+[00:11:11	]Mensu loaded the character 'C24:RCT.YELLO-94'
+[00:11:54	]Console ran SAM command 'giverank' with arguments: 'yello-94' 'superadmin'
+[00:12:24	]C24:RCT.YELLO-94 has fired a toolgun with the name: camera
+[00:12:36	]C24:RCT.YELLO-94 has spawned a mask_com.
+[00:12:38	]C24:RCT.YELLO-94 ran 'take' on item 'Zaawansowana maska przeciwgazowa PMG-5 (AUG)' (#454)
+[00:12:38	]C24:RCT.YELLO-94 has gained a 'Zaawansowana maska przeciwgazowa PMG-5 (AUG)' #454.
+[00:13:20	]C24:RCT.YELLO-94 has changed C24:RCT.YELLO-94's bodygroups.
+[00:13:38	]C24:RCT.YELLO-40 has changed C24:RCT.YELLO-40's bodygroups.
+[00:13:55	]C24:RCT.YELLO-94 has spawned a cca_coat_overseer.
+[00:13:59	]C24:RCT.YELLO-94 has spawned a cca_coat_overseer_armored.
+[00:14:00	]C24:RCT.YELLO-94 ran 'take' on item 'Overseer - opancerzony' (#456)
+[00:14:00	]C24:RCT.YELLO-94 has gained a 'Overseer - opancerzony' #456.
+[00:14:06	]C24:RCT.YELLO-94 has fired a toolgun with the name: remover
+[00:14:09	]C24:RCT.YELLO-40 has changed C24:RCT.YELLO-40's bodygroups.
+[00:14:15	]C24:RCT.YELLO-94 has spawned a cca_legs_overseer.
+[00:14:16	]C24:RCT.YELLO-94 ran 'take' on item 'Spodnie Overseera' (#457)
+[00:14:16	]C24:RCT.YELLO-94 has gained a 'Spodnie Overseera' #457.
+[00:14:28	]C24:RCT.YELLO-40 has changed C24:RCT.YELLO-40's bodygroups.
+[00:14:34	]C24:RCT.YELLO-40 has changed C24:RCT.YELLO-40's bodygroups.
+[00:14:53	]C24:RCT.YELLO-40 has changed C24:RCT.YELLO-40's bodygroups.
+[00:15:35	]C24:RCT.YELLO-94 has spawned a cmb_hkusp.
+[00:15:37	]C24:RCT.YELLO-94 has spawned a cmb_hkusp.
+[00:15:39	]C24:RCT.YELLO-94 ran 'take' on item 'HK USP .45' (#459)
+[00:15:39	]C24:RCT.YELLO-94 has gained a 'HK USP .45' #459.
+[00:15:42	]C24:RCT.YELLO-94 ran 'Equip' on item 'HK USP .45' (#459)
+[00:16:07	]C24:RCT.YELLO-40 ran 'take' on item 'HK USP .45' (#458)
+[00:16:07	]C24:RCT.YELLO-40 has gained a 'HK USP .45' #458.
+[00:16:13	]C24:RCT.YELLO-40 ran 'Equip' on item 'HK USP .45' (#458)
+[00:16:54	]C24:RCT.YELLO-94 has spawned a magazine_usp.
+[00:16:55	]C24:RCT.YELLO-94 has spawned a magazine_usp.
+[00:17:07	]C24:RCT.YELLO-40 ran 'EquipUn' on item 'HK USP .45' (#458)
+[00:17:08	]C24:RCT.YELLO-40 ran 'drop' on item 'HK USP .45' (#458)
+[00:17:08	]C24:RCT.YELLO-40 has lost a 'HK USP .45' #458.
+[00:17:11	]C24:RCT.YELLO-94 has used a context menu option with the name: remove
+[00:17:16	]C24:RCT.YELLO-40 ran 'take' on item '17-nabojowy magazynek do USP' (#460)
+[00:17:16	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[00:17:19	]C24:RCT.YELLO-94 has spawned a pistolammo.
+[00:17:21	]C24:RCT.YELLO-94 has spawned a pistolammo.
+[00:17:27	]C24:RCT.YELLO-40 ran 'use' on item '9mm Pistol Bullets' (#463)
+[00:17:36	]C24:RCT.YELLO-40 ran 'take' on item '9mm Pistol Bullets' (#462)
+[00:17:36	]C24:RCT.YELLO-40 has gained a '9mm Pistol Bullets' #462.
+[00:17:40	]C24:RCT.YELLO-40 ran 'take' on item '17-nabojowy magazynek do USP' (#461)
+[00:17:40	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[00:17:49	]C24:RCT.YELLO-40 ran 'use' on item '9mm Pistol Bullets' (#462)
+[00:18:06	]C24:RCT.YELLO-94 has spawned a stunstick.
+[00:18:09	]C24:RCT.YELLO-40 ran 'take' on item 'CV-2000 Pałka Paralizująca' (#464)
+[00:18:09	]C24:RCT.YELLO-40 has gained a 'CV-2000 Pałka Paralizująca' #464.
+[00:18:11	]C24:RCT.YELLO-40 ran 'Equip' on item 'CV-2000 Pałka Paralizująca' (#464)
+[00:18:20	]C24:RCT.YELLO-40 ran 'EquipUn' on item 'PDA Kombinatu' (#449)
+[00:21:27	]C24:RCT.YELLO-94 has spawned a cmb_hkusp.
+[00:22:13	]C24:RCT.YELLO-40 ran 'take' on item 'HK USP .45' (#465)
+[00:22:13	]C24:RCT.YELLO-40 has gained a 'HK USP .45' #465.
+[00:22:17	]C24:RCT.YELLO-40 ran 'Equip' on item 'HK USP .45' (#465)
+[00:22:37	]C24:RCT.YELLO-94 has spawned a pistolammo.
+[00:22:40	]C24:RCT.YELLO-94 ran 'take' on item '9mm Pistol Bullets' (#466)
+[00:22:40	]C24:RCT.YELLO-94 has gained a '9mm Pistol Bullets' #466.
+[00:22:41	]C24:RCT.YELLO-94 has spawned a pistolammo.
+[00:22:42	]C24:RCT.YELLO-94 ran 'take' on item '9mm Pistol Bullets' (#467)
+[00:22:42	]C24:RCT.YELLO-94 has gained a '9mm Pistol Bullets' #467.
+[00:22:53	]C24:RCT.YELLO-40 ran 'EquipUn' on item 'HK USP .45' (#465)
+[00:22:53	]C24:RCT.YELLO-94 has spawned a magazine_usp.
+[00:22:54	]C24:RCT.YELLO-40 ran 'Equip' on item 'HK USP .45' (#465)
+[00:22:55	]C24:RCT.YELLO-94 ran 'take' on item '17-nabojowy magazynek do USP' (#468)
+[00:22:55	]C24:RCT.YELLO-94 has gained a '17-nabojowy magazynek do USP' #468.
+[00:22:56	]C24:RCT.YELLO-94 has spawned a magazine_usp.
+[00:22:58	]C24:RCT.YELLO-94 ran 'take' on item '17-nabojowy magazynek do USP' (#469)
+[00:22:58	]C24:RCT.YELLO-94 has gained a '17-nabojowy magazynek do USP' #469.
+[00:22:58	]C24:RCT.YELLO-94 has spawned a magazine_usp.
+[00:23:01	]C24:RCT.YELLO-94 ran 'take' on item '17-nabojowy magazynek do USP' (#470)
+[00:23:01	]C24:RCT.YELLO-94 has gained a '17-nabojowy magazynek do USP' #470.
+[00:23:10	]C24:RCT.YELLO-94 ran 'use' on item '9mm Pistol Bullets' (#466)
+[00:23:11	]C24:RCT.YELLO-94 ran 'use' on item '9mm Pistol Bullets' (#467)
+[00:23:21	]C24:RCT.YELLO-94 has spawned a bullets_pistol.
+[00:23:21	]C24:RCT.YELLO-94 has spawned a bullets_pistol.
+[00:23:22	]C24:RCT.YELLO-94 has spawned a bullets_pistol.
+[00:23:23	]C24:RCT.YELLO-94 has spawned a bullets_pistol.
+[00:23:23	]C24:RCT.YELLO-40 ran 'take' on item 'Amunicja kalibru 9mm' (#471)
+[00:23:23	]C24:RCT.YELLO-40 has gained a 'Amunicja kalibru 9mm' #471.
+[00:23:24	]C24:RCT.YELLO-40 ran 'take' on item 'Amunicja kalibru 9mm' (#472)
+[00:23:24	]C24:RCT.YELLO-40 has gained a 'Amunicja kalibru 9mm' #472.
+[00:23:24	]C24:RCT.YELLO-94 ran 'take' on item 'Amunicja kalibru 9mm' (#474)
+[00:23:24	]C24:RCT.YELLO-94 has gained a 'Amunicja kalibru 9mm' #474.
+[00:23:25	]C24:RCT.YELLO-40 ran 'take' on item 'Amunicja kalibru 9mm' (#473)
+[00:23:25	]C24:RCT.YELLO-40 has gained a 'Amunicja kalibru 9mm' #473.
+[00:23:27	]C24:RCT.YELLO-94 ran 'combine' on item '17-nabojowy magazynek do USP' (#468)
+[00:23:28	]C24:RCT.YELLO-94 ran 'combine' on item '17-nabojowy magazynek do USP' (#469)
+[00:23:29	]C24:RCT.YELLO-94 ran 'combine' on item '17-nabojowy magazynek do USP' (#470)
+[00:23:37	]C24:RCT.YELLO-40 ran 'combine' on item '17-nabojowy magazynek do USP' (#461)
+[00:23:38	]C24:RCT.YELLO-40 ran 'combine' on item '17-nabojowy magazynek do USP' (#460)
+[00:23:43	]C24:RCT.YELLO-94 has lost a '17-nabojowy magazynek do USP' #470.
+[00:23:44	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[00:24:00	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[00:24:00	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[00:24:01	]C24:RCT.YELLO-94 has gained a '17-nabojowy magazynek do USP' #470.
+[00:24:01	]C24:RCT.YELLO-94 has lost a '17-nabojowy magazynek do USP' #469.
+[00:24:10	]C24:RCT.YELLO-94 has gained a '17-nabojowy magazynek do USP' #469.
+[00:24:10	]C24:RCT.YELLO-94 has lost a '17-nabojowy magazynek do USP' #468.
+[00:24:16	]C24:RCT.YELLO-40 ran 'combine' on item '17-nabojowy magazynek do USP' (#461)
+[00:24:17	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[00:24:17	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[00:24:24	]C24:RCT.YELLO-40 ran 'combine' on item '17-nabojowy magazynek do USP' (#460)
+[00:24:24	]C24:RCT.YELLO-94 has spawned a stunstick.
+[00:24:26	]C24:RCT.YELLO-40 ran 'removeMag' on item 'HK USP .45' (#465)
+[00:24:26	]C24:RCT.YELLO-40 is removing a mag while reloading: Item ID: #(465) Ammo: 16
+[00:24:26	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[00:24:27	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[00:24:33	]C24:RCT.YELLO-40 ran 'removeMag' on item 'HK USP .45' (#465)
+[00:24:33	]C24:RCT.YELLO-40 is removing a mag while reloading: Item ID: #(465) Ammo: 17
+[00:24:33	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[00:24:34	]C24:RCT.YELLO-40 ran 'combine' on item '17-nabojowy magazynek do USP' (#461)
+[00:24:45	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[00:24:53	]C24:RCT.YELLO-40 ran 'removeMag' on item 'HK USP .45' (#465)
+[00:24:53	]C24:RCT.YELLO-40 is removing a mag while reloading: Item ID: #(465) Ammo: 16
+[00:24:53	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[00:24:53	]C24:RCT.YELLO-94 ran 'take' on item 'CV-2000 Pałka Paralizująca' (#475)
+[00:24:53	]C24:RCT.YELLO-94 has gained a 'CV-2000 Pałka Paralizująca' #475.
+[00:24:55	]C24:RCT.YELLO-94 ran 'Equip' on item 'CV-2000 Pałka Paralizująca' (#475)
+[00:24:55	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[00:25:01	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[00:25:01	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[00:25:08	]C24:RCT.YELLO-40 ran 'removeMag' on item 'HK USP .45' (#465)
+[00:25:08	]C24:RCT.YELLO-40 is removing a mag while reloading: Item ID: #(465) Ammo: 16
+[00:25:08	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[00:25:21	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[00:25:28	]C24:RCT.YELLO-94 has gained a '17-nabojowy magazynek do USP' #468.
+[00:25:28	]C24:RCT.YELLO-94 has lost a '17-nabojowy magazynek do USP' #469.
+[00:25:48	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[00:25:48	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[00:26:01	]C24:RCT.YELLO-94 ran 'Equip' on item 'PDA Kombinatu' (#443)
+[00:26:05	]C24:RCT.YELLO-40 has critically hit C24:RCT.YELLO-94 dealing 24 damage (CritChance was 0.38).
+[00:26:05	]C24:RCT.YELLO-94 has taken 24 damage from C24:RCT.YELLO-40.
+[00:26:06	]C24:RCT.YELLO-94 is fully healed.
+[00:26:08	]C24:RCT.YELLO-40 has critically hit C24:RCT.YELLO-94 dealing 24 damage (CritChance was 0.38).
+[00:26:08	]C24:RCT.YELLO-94 has taken 24 damage from C24:RCT.YELLO-40.
+[00:26:09	]C24:RCT.YELLO-94 has hit C24:RCT.YELLO-40 dealing 19 damage (CritChance was 0.37).
+[00:26:09	]C24:RCT.YELLO-40 has taken 19 damage from C24:RCT.YELLO-94.
+[00:26:10	]C24:RCT.YELLO-40 has critically hit C24:RCT.YELLO-94 dealing 24 damage (CritChance was 0.38).
+[00:26:10	]C24:RCT.YELLO-94 has taken 24 damage from C24:RCT.YELLO-40.
+[00:26:10	]C24:RCT.YELLO-40 has hit C24:RCT.YELLO-94 dealing 19 damage (CritChance was 0.38).
+[00:26:10	]C24:RCT.YELLO-94 has taken 19 damage from C24:RCT.YELLO-40.
+[00:26:11	]C24:RCT.YELLO-94 is fully healed.
+[00:26:12	]C24:RCT.YELLO-40 is fully healed.
+[00:26:46	]C24:RCT.YELLO-40 ran 'combine' on item '17-nabojowy magazynek do USP' (#460)
+[00:26:47	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[00:26:47	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[00:26:54	]C24:RCT.YELLO-40 ran 'combine' on item '17-nabojowy magazynek do USP' (#461)
+[00:26:55	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[00:26:55	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[00:27:57	]C24:RCT.YELLO-40 has changed C24:RCT.YELLO-40's bodygroups.
+[00:28:07	]C24:RCT.YELLO-40 has changed C24:RCT.YELLO-40's bodygroups.
+[00:28:18	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[00:28:18	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[00:28:36	]C24:RCT.YELLO-94 has gained a '17-nabojowy magazynek do USP' #469.
+[00:28:36	]C24:RCT.YELLO-94 has lost a '17-nabojowy magazynek do USP' #468.
+[00:29:04	]C24:RCT.YELLO-94 has spawned a shoes_bloke.
+[00:29:08	]C24:RCT.YELLO-94 ran 'take' on item 'Ciemne buty' (#476)
+[00:29:08	]C24:RCT.YELLO-94 has gained a 'Ciemne buty' #476.
+[00:29:25	]C24:RCT.YELLO-94 entered observer.
+[00:29:33	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[00:29:33	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[00:29:38	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[00:29:38	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[00:29:49	]C24:RCT.YELLO-94 exited observer.
+[00:30:21	]C24:RCT.YELLO-40 has changed C24:RCT.YELLO-40's bodygroups.
+[00:30:36	]C24:RCT.YELLO-40 ran 'removeMag' on item 'HK USP .45' (#465)
+[00:30:36	]C24:RCT.YELLO-40 is removing a mag while reloading: Item ID: #(465) Ammo: 15
+[00:30:36	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[00:30:39	]C24:RCT.YELLO-40 ran 'combine' on item '17-nabojowy magazynek do USP' (#460)
+[00:31:58	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[00:32:21	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[00:32:21	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[00:33:09	]C24:RCT.YELLO-40 used command '/CharDesc'.
+[00:33:14	]C24:RCT.YELLO-40 used command '/CharDesc'.
+[00:33:14	]C24:RCT.YELLO-40 used command '/CharDesc'.
+[00:33:14	]C24:RCT.YELLO-94 used command '/CharDesc'.
+[00:33:16	]C24:RCT.YELLO-94 used command '/CharDesc'.
+[00:33:17	]C24:RCT.YELLO-94 used command '/CharDesc'.
+[00:33:17	]C24:RCT.YELLO-40 used command '/CharDesc'.
+[00:33:17	]C24:RCT.YELLO-94 used command '/CharDesc'.
+[00:33:19	]C24:RCT.YELLO-94 used command '/CharDesc'.
+[00:33:20	]C24:RCT.YELLO-94 used command '/CharDesc'.
+[00:33:21	]C24:RCT.YELLO-94 used command '/CharDesc'.
+[00:33:24	]C24:RCT.YELLO-94 used command '/CharDesc'.
+[00:33:25	]C24:RCT.YELLO-94 used command '/CharDesc'.
+[00:33:30	]C24:RCT.YELLO-40 used command '/CharDesc'.
+[00:35:05	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[00:35:05	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[00:35:32	][IC] C24:RCT.YELLO-94: <:: E. ::>
+[00:35:36	][IC] C24:RCT.YELLO-40: <:: E. ::>
+[00:35:40	][IC] C24:RCT.YELLO-40: <:: Obywatelu. ::>
+[00:35:47	][IC] C24:RCT.YELLO-40: <:: After me. ::>
+[00:35:51	][IC] C24:RCT.YELLO-40: <:: Wyidentyfikuj się. ::>
+[00:36:20	]C24:RCT.YELLO-40 used command '/ID'.
+[00:36:44	]C24:Chf.YELLO-94 used command '/CharSetName 94 C24:Chf.YELLO-94'.
+[00:37:03	][IC] C24:Chf.YELLO-94: <:: W. ::>
+[00:37:15	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[00:37:15	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[00:37:20	]C24:RL.YELLO-94 used command '/CharSetName 94 C24:RL.YELLO-94'.
+[00:37:21	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[00:37:21	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[00:37:26	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[00:37:26	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[00:37:31	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[00:37:31	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[00:37:36	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[00:37:36	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[00:37:44	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[00:37:44	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[00:37:49	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[00:37:49	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[00:37:59	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[00:37:59	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[00:38:06	][IC] C24:RL.YELLO-94: <:: W. ::>
+[00:38:10	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[00:38:10	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[00:38:25	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[00:38:25	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[00:38:48	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[00:38:48	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[00:38:59	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[00:38:59	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[00:39:04	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[00:39:04	]C24:RCT.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[00:39:04	]C224:ChF.YELLO-94 used command '/CharSetName 94 C224:ChF.YELLO-94'.
+[00:39:09	]C24:RCT.YELLO-40 ran 'removeMag' on item 'HK USP .45' (#465)
+[00:39:09	]C24:RCT.YELLO-40 is removing a mag while reloading: Item ID: #(465) Ammo: 16
+[00:39:09	]C24:RCT.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[00:39:11	]C24:RCT.YELLO-40 ran 'combine' on item '17-nabojowy magazynek do USP' (#461)
+[00:39:12	]C24:RCT.YELLO-40 ran 'combine' on item '17-nabojowy magazynek do USP' (#460)
+[00:39:51	][IC] C224:ChF.YELLO-94: <:: Joshua. ::>
+[00:40:00	]C24:RCT.YELLO-40 used command '/ID'.
+[00:40:20	]C24:i3.YELLO-40 used command '/ActSit'.
+[00:40:22	]C24:i3.YELLO-40 used command '/ExitAct'.
+[00:45:03	]C24:i3.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[00:45:08	]C24:i3.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[00:45:08	]C24:i3.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[00:46:04	]C24:i3.YELLO-40 ran 'combine' on item 'Mała torba' (#452)
+[00:47:09	]C224:ChF.YELLO-94 entered observer.
+[00:47:11	]C224:ChF.YELLO-94 exited observer.
+[00:47:42	]C24:i3.YELLO-40 has changed C24:i3.YELLO-40's bodygroups.
+[00:48:43	]C24:i3.YELLO-40 has changed C24:i3.YELLO-40's bodygroups.
+[00:49:00	]C224:ChF.YELLO-94 entered observer.
+[00:49:05	]C24:i3.YELLO-40 has changed C24:i3.YELLO-40's bodygroups.
+[00:49:09	]C224:ChF.YELLO-94 exited observer.
+[00:52:32	]C24:i3.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[00:52:32	]C24:i3.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[00:52:38	]C24:i3.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[00:52:38	]C24:i3.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[00:52:39	]C224:ChF.YELLO-94 has spawned a flashlight.
+[00:52:40	]C224:ChF.YELLO-94 has spawned a flashlight.
+[00:52:53	]C24:i3.YELLO-40 ran 'take' on item 'Latarka' (#478)
+[00:52:53	]C24:i3.YELLO-40 has gained a 'Latarka' #478.
+[00:52:55	]C224:ChF.YELLO-94 has spawned a flashlight.
+[00:53:11	]C24:i3.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[00:53:11	]C24:i3.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[00:53:20	]C224:ChF.YELLO-94 ran 'take' on item 'Latarka' (#479)
+[00:53:20	]C224:ChF.YELLO-94 has gained a 'Latarka' #479.
+[00:53:34	]C24:i3.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[00:53:34	]C24:i3.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[00:54:40	]C224:ChF.YELLO-94 entered observer.
+[00:54:53	]C224:ChF.YELLO-94 exited observer.
+[00:54:54	]C224:ChF.YELLO-94 entered observer.
+[00:55:19	]C224:ChF.YELLO-94 exited observer.
+[00:55:20	]C224:ChF.YELLO-94 entered observer.
+[00:55:20	]C224:ChF.YELLO-94 exited observer.
+[00:57:07	]C224:ChF.YELLO-94 has taken 21 damage from worldspawn.
+[00:58:51	]C24:i3.YELLO-40 ran 'Equip' on item 'PDA Kombinatu' (#449)
+[01:01:45	][IC] C224:ChF.YELLO-94: <:: Wyidentyfikuj się. ::>
+[01:01:48	][IC] C224:ChF.YELLO-94: <:: .apply. ::>
+[01:01:52	][IC] C24:i3.YELLO-40: <:: Wyidentyfikuj się. ::>
+[01:01:57	][IC] C224:ChF.YELLO-94: <:: Obywatelu. ::>
+[01:02:00	][IC] C224:ChF.YELLO-94: <:: .citizen. ::>
+[01:02:04	][IC] C24:i3.YELLO-40: <:: Obywatelu. ::>
+[01:02:05	][IC] C224:ChF.YELLO-94: <:: Rozejść się! ::>
+[01:02:08	][IC] C24:i3.YELLO-40: <:: Rozejść się! ::>
+[01:02:09	][IC] C224:ChF.YELLO-94: <:: .isolate. ::>
+[01:02:13	][IC] C224:ChF.YELLO-94: <:: Stój! ::>
+[01:02:16	][IC] C224:ChF.YELLO-94: <:: .freeze. ::>
+[01:02:17	][IC] C24:i3.YELLO-40: <:: Stój! ::>
+[01:02:19	][IC] C224:ChF.YELLO-94: <:: Zrozumiano. ::>
+[01:02:21	][IC] C224:ChF.YELLO-94: <:: .copy. ::>
+[01:02:21	][IC] C24:i3.YELLO-40: <:: Zrozumiano. ::>
+[01:02:22	][IC] C224:ChF.YELLO-94: <:: Nie. ::>
+[01:02:24	][IC] C224:ChF.YELLO-94: <:: .nope. ::>
+[01:02:24	][IC] C24:i3.YELLO-40: <:: No. ::>
+[01:02:26	][IC] C24:i3.YELLO-40: <:: No. ::>
+[01:02:27	][IC] C224:ChF.YELLO-94: <:: Haha. ::>
+[01:02:28	][IC] C24:i3.YELLO-40: <:: Haha. ::>
+[01:02:29	][IC] C224:ChF.YELLO-94: <:: Haha. ::>
+[01:02:31	][IC] C24:i3.YELLO-40: <:: Haha. ::>
+[01:02:31	][IC] C224:ChF.YELLO-94: <:: .haha. ::>
+[01:02:36	][IC] C24:i3.YELLO-40: <:: Haha. ::>
+[01:02:41	][IC] C224:ChF.YELLO-94: <:: Ice. ::>
+[01:02:43	][IC] C224:ChF.YELLO-94: <:: VICE. ::>
+[01:02:46	][IC] C24:i3.YELLO-40: <:: VICE. ::>
+[01:02:46	][IC] C224:ChF.YELLO-94: <:: Helix. ::>
+[01:02:51	][IC] C224:ChF.YELLO-94: <:: HERO. ::>
+[01:02:52	][IC] C24:i3.YELLO-40: <:: Helix. ::>
+[01:02:53	][IC] C224:ChF.YELLO-94: <:: VICE. ::>
+[01:02:55	][IC] C24:i3.YELLO-40: <:: HERO. ::>
+[01:02:58	][IC] C224:ChF.YELLO-94: <:: UNION. ::>
+[01:02:59	][IC] C224:ChF.YELLO-94: <:: Sword. ::>
+[01:03:17	]C224:ChF.YELLO-94 used command '/PTCreate'.
+[01:03:30	]C24:i3.YELLO-40 used command '/PTCreate'.
+[01:03:34	]C24:i3.YELLO-40 used command '/PTCreate 1'.
+[01:03:36	]C224:ChF.YELLO-94 used command '/PTJoin 1'.
+[01:04:09	][IC] C224:ChF.YELLO-94: <:: C24. ::>
+[01:04:11	][IC] C224:ChF.YELLO-94: <:: I3. ::>
+[01:04:20	][IC] C224:ChF.YELLO-94: <:: YELLOW. ::>
+[01:04:23	][IC] C224:ChF.YELLO-94: <:: 40. ::>
+[01:04:38	][IC] C224:ChF.YELLO-94: <:: C24:i3.SWORD-40. ::>
+[01:04:44	][IC] C224:ChF.YELLO-94: <:: C24:I3.GEMINI-40. ::>
+[01:07:10	]C224:ChF.YELLO-94 has acquired his ration, gaining 0 credits, 0 wages and a civil_protection_ration ration.
+[01:07:24	]C24:i3.YELLO-40 ran 'Open' on item 'Racja żywnościowa Civil Protection' (#480)
+[01:07:24	]C24:i3.YELLO-40 has gained a 'Suplementy Civil Protection' #481.
+[01:07:24	]C24:i3.YELLO-40 has gained a 'Soda Bob Brawn' #482.
+[01:07:24	]C24:i3.YELLO-40 has gained a 'Średni Kupon na 20 Kredytów' #483.
+[01:07:29	]C24:i3.YELLO-40 has acquired his ration, gaining 0 credits, 0 wages and a civil_protection_ration ration.
+[01:07:42	]C24:i3.YELLO-40 ran 'Open' on item 'Racja żywnościowa Civil Protection' (#484)
+[01:07:42	]C24:i3.YELLO-40 has gained a 'Suplementy Civil Protection' #485.
+[01:07:42	]C24:i3.YELLO-40 has gained a 'Soda Bob Brawn' #486.
+[01:07:42	]C24:i3.YELLO-40 has gained a 'Średni Kupon na 20 Kredytów' #487.
+[01:08:17	]C24:i3.YELLO-40 ran 'Consume' on item 'Suplementy Civil Protection' (#485)
+[01:08:17	]C24:i3.YELLO-40 has gained a level 3 long boost in Siła.
+[01:08:19	]C24:i3.YELLO-40 ran 'Consume' on item 'Suplementy Civil Protection' (#481)
+[01:08:19	]C24:i3.YELLO-40 has wasted a level 3 long boost in Siła (current: 0; target: 3).
+[01:08:20	]C24:i3.YELLO-40 ran 'Consume' on item 'Soda Bob Brawn' (#482)
+[01:08:20	]C24:i3.YELLO-40 has gained a level 1 long boost in Percepcja.
+[01:08:20	]C24:i3.YELLO-40 has gained a level 2 long boost in Zręczność.
+[01:08:21	]C24:i3.YELLO-40 ran 'Consume' on item 'Soda Bob Brawn' (#486)
+[01:08:21	]C24:i3.YELLO-40 has wasted a level 1 long boost in Percepcja (current: 0; target: 1).
+[01:08:21	]C24:i3.YELLO-40 has wasted a level 2 long boost in Zręczność (current: 0; target: 2).
+[01:08:44	]C224:ChF.YELLO-94 has gained a '17-nabojowy magazynek do USP' #468.
+[01:08:44	]C224:ChF.YELLO-94 has lost a '17-nabojowy magazynek do USP' #469.
+[01:08:48	]C24:i3.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[01:08:48	]C24:i3.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[01:08:52	]C224:ChF.YELLO-94 has gained a '17-nabojowy magazynek do USP' #469.
+[01:08:52	]C224:ChF.YELLO-94 has lost a '17-nabojowy magazynek do USP' #468.
+[01:08:53	]C24:i3.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[01:08:53	]C24:i3.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[01:10:04	][IC] C224:ChF.YELLO-94: <:: Obywatelu. ::>
+[01:10:14	][IC] C224:ChF.YELLO-94: <:: Face wall. ::>
+[01:10:16	][IC] C224:ChF.YELLO-94: <:: Face the wlal. ::>
+[01:10:16	][IC] C24:i3.YELLO-40: <:: Wall. ::>
+[01:10:18	][IC] C24:i3.YELLO-40: <:: Wall. ::>
+[01:10:20	][IC] C24:i3.YELLO-40: <:: Face wall. ::>
+[01:10:50	][IC] C224:ChF.YELLO-94: <:: Ruszaj! ::>
+[01:11:16	][IC] C24:i3.YELLO-40: <:: Rzuć broń, na ziemie! ::>
+[01:12:01	][IC] C24:i3.YELLO-40: <:: Twoja żona mnie nie lubi, prawda? ::>
+[01:12:06	][IC] C224:ChF.YELLO-94: <:: Strasznie bolą mnie stopy. ::>
+[01:12:13	][IC] C24:i3.YELLO-40: <:: Strefa 404. ::>
+[01:12:20	][IC] C224:ChF.YELLO-94: <:: Obywatelu. ::>
+[01:12:23	][IC] C224:ChF.YELLO-94: <:: Pod ściane. ::>
+[01:12:23	][IC] C224:ChF.YELLO-94: <:: Ruszaj! ::>
+[01:12:52	]C224:ChF.YELLO-94 has gained a '17-nabojowy magazynek do USP' #468.
+[01:12:52	]C224:ChF.YELLO-94 has lost a '17-nabojowy magazynek do USP' #469.
+[01:17:50	]C24:i3.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[01:17:50	]C24:i3.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[01:18:04	]C24:i3.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[01:18:04	]C24:i3.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[01:18:10	]C24:i3.YELLO-40 ran 'combine' on item '17-nabojowy magazynek do USP' (#461)
+[01:18:20	]C24:i3.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[01:18:20	]C24:i3.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[01:18:35	]C24:i3.YELLO-40 ran 'removeMag' on item 'HK USP .45' (#465)
+[01:18:35	]C24:i3.YELLO-40 is removing a mag while reloading: Item ID: #(465) Ammo: 17
+[01:18:35	]C24:i3.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[01:19:00	][IC] C24:i3.YELLO-40: <:: Ruszaj! ::>
+[01:19:04	][IC] C224:ChF.YELLO-94: <:: Odsuń się, natychmiast! ::>
+[01:19:07	][IC] C24:i3.YELLO-40: <:: Odsuń się, natychmiast! ::>
+[01:19:14	][IC] C224:ChF.YELLO-94: <:: Moveback2. ::>
+[01:19:14	][IC] C24:i3.YELLO-40: <:: Odsuń się, natychmiast! ::>
+[01:19:26	][IC] C224:ChF.YELLO-94: <:: Rozejść się! ::>
+[01:19:29	][IC] C224:ChF.YELLO-94: <:: Interlock. ::>
+[01:19:38	][IC] C224:ChF.YELLO-94: <:: Interlock pt-1. ::>
+[01:19:43	][IC] C24:i3.YELLO-40: <:: Interlock. ::>
+[01:19:48	][IC] C224:ChF.YELLO-94: <:: 944;  Interlock pt-1. ::>
+[01:20:12	][IC] C224:ChF.YELLO-94: <:: 40 interlock pt-1. ::>
+[01:20:25	]C224:ChF.YELLO-94 used command '/Radio rere'.
+[01:20:34	]C24:i3.YELLO-40 used command '/Radio CODE PURPLE, 10-20 PLAZA'.
+[01:20:49	]C224:ChF.YELLO-94 used command '/Radio 40; Code Purple, 10-20 plaza'.
+[01:20:56	]C224:ChF.YELLO-94 used command '/Radio 40;'.
+[01:21:45	]C224:ChF.YELLO-94 has changed C224:ChF.YELLO-94's bodygroups.
+[01:21:51	]C224:ChF.YELLO-94 has changed C224:ChF.YELLO-94's bodygroups.
+[01:21:52	]C224:ChF.YELLO-94 has changed C224:ChF.YELLO-94's bodygroups.
+[01:21:59	]C224:ChF.YELLO-94 has changed C224:ChF.YELLO-94's bodygroups.
+[01:22:07	]C224:ChF.YELLO-94 has changed C224:ChF.YELLO-94's bodygroups.
+[01:22:58	]C24:i3.YELLO-40 has changed C24:i3.YELLO-40's bodygroups.
+[01:23:12	]C24:i3.YELLO-40 has changed C24:i3.YELLO-40's bodygroups.
+[01:23:29	]C24:i3.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[01:23:41	]C24:i3.YELLO-40 has hit C224:ChF.YELLO-94 in the head dealing 15 damage (CritChance was 0.08).
+[01:23:41	]C224:ChF.YELLO-94 has taken 15 damage from C24:i3.YELLO-40.
+[01:23:43	]C24:i3.YELLO-40 has hit C224:ChF.YELLO-94 in the head dealing 15 damage (CritChance was 0.08).
+[01:23:43	]C224:ChF.YELLO-94 has taken 15 damage from C24:i3.YELLO-40.
+[01:23:46	]C24:i3.YELLO-40 has hit C224:ChF.YELLO-94 in the head dealing 15 damage (CritChance was 0.13).
+[01:23:46	]C224:ChF.YELLO-94 has taken 15 damage from C24:i3.YELLO-40.
+[01:23:47	]C24:i3.YELLO-40 has hit C224:ChF.YELLO-94 in the head dealing 15 damage (CritChance was 0.13).
+[01:23:47	]C224:ChF.YELLO-94 has taken 15 damage from C24:i3.YELLO-40.
+[01:23:49	]C24:i3.YELLO-40 has hit C224:ChF.YELLO-94 in the head dealing 15 damage (CritChance was 0.13).
+[01:23:49	]C224:ChF.YELLO-94 has taken 15 damage from C24:i3.YELLO-40.
+[01:23:50	]C24:i3.YELLO-40 has hit C224:ChF.YELLO-94 in the head dealing 15 damage (CritChance was 0.13).
+[01:23:50	]C224:ChF.YELLO-94 has taken 15 damage from C24:i3.YELLO-40.
+[01:23:52	]C24:i3.YELLO-40 has hit C224:ChF.YELLO-94 in the head dealing 15 damage (CritChance was 0.13).
+[01:23:52	]C224:ChF.YELLO-94 has taken 15 damage from C24:i3.YELLO-40.
+[01:23:53	]C24:i3.YELLO-40 has hit C224:ChF.YELLO-94 in the head dealing 15 damage (CritChance was 0.13).
+[01:23:53	]C224:ChF.YELLO-94 has gained a '17-nabojowy magazynek do USP' #469.
+[01:23:53	]C224:ChF.YELLO-94 was knocked unconscious and is bleeding out.
+[01:24:01	]C24:i3.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[01:24:01	]C24:i3.YELLO-40 has lost a '17-nabojowy magazynek do USP' #460.
+[01:24:11	]C24:i3.YELLO-40 has gained a '17-nabojowy magazynek do USP' #460.
+[01:24:11	]C24:i3.YELLO-40 has lost a '17-nabojowy magazynek do USP' #461.
+[01:24:24	]C224:ChF.YELLO-94 has dropped: Maska przeciwgazowa PMG-5 (AUG) (#445); Lightweight Functionary Uniform (City 8) (#444); Zaawansowana maska przeciwgazowa PMG-5 (AUG) (#454); HK USP .45 (#459); Overseer - opancerzony (#456); Spodnie Overseera (#457); 17-nabojowy magazynek do USP (#470); 17-nabojowy magazynek do USP (#468); 17-nabojowy magazynek do USP (#469); 69x Amunicja kalibru 9mm (#474); CV-2000 Pałka Paralizująca (#475); Latarka (#479); Ciemne buty (#476);
+[01:24:24	]C224:ChF.YELLO-94 was just killed due to: accepting their death
+[01:24:36	]C224:ChF.YELLO-94 ran SAM command 'goto' with arguments: '40'
+[01:24:37	]C224:ChF.YELLO-94 opened the 'Dropped Items' #137 container.
+[01:24:40	]C224:ChF.YELLO-94 has gained a 'Overseer - opancerzony' #456 from a container with the name 'Dropped Items' #137.
+[01:24:43	]C224:ChF.YELLO-94 has gained a 'HK USP .45' #459 from a container with the name 'Dropped Items' #137.
+[01:24:46	]C224:ChF.YELLO-94 has gained a 'Maska przeciwgazowa PMG-5 (AUG)' #445 from a container with the name 'Dropped Items' #137.
+[01:24:47	]C224:ChF.YELLO-94 has gained a 'Spodnie Overseera' #457 from a container with the name 'Dropped Items' #137.
+[01:24:48	]C224:ChF.YELLO-94 has gained a '17-nabojowy magazynek do USP' #470 from a container with the name 'Dropped Items' #137.
+[01:24:49	]C224:ChF.YELLO-94 has gained a '17-nabojowy magazynek do USP' #469 from a container with the name 'Dropped Items' #137.
+[01:24:50	]C224:ChF.YELLO-94 has gained a '17-nabojowy magazynek do USP' #468 from a container with the name 'Dropped Items' #137.
+[01:24:51	]C224:ChF.YELLO-94 has gained a 'CV-2000 Pałka Paralizująca' #475 from a container with the name 'Dropped Items' #137.
+[01:24:53	]C224:ChF.YELLO-94 has gained a 'Latarka' #479 from a container with the name 'Dropped Items' #137.
+[01:24:54	]C224:ChF.YELLO-94 has gained a 'Ciemne buty' #476 from a container with the name 'Dropped Items' #137.
+[01:24:55	]C224:ChF.YELLO-94 has gained a 'Amunicja kalibru 9mm' #474 from a container with the name 'Dropped Items' #137.
+[01:24:56	]C224:ChF.YELLO-94 has gained a 'Zaawansowana maska przeciwgazowa PMG-5 (AUG)' #454 from a container with the name 'Dropped Items' #137.
+[01:24:57	]C224:ChF.YELLO-94 closed the 'Dropped Items' #137 container.
+[01:25:27	]C24:i3.YELLO-40 ran 'EquipUn' on item 'HK USP .45' (#465)
+[01:25:27	]C24:i3.YELLO-40 has gained a '17-nabojowy magazynek do USP' #461.
+[01:25:30	]C24:i3.YELLO-40 ran 'combine' on item 'Amunicja kalibru 9mm' (#472)
+[01:25:30	]C24:i3.YELLO-40 ran 'combine' on item '17-nabojowy magazynek do USP' (#461)
+[01:25:31	]C24:i3.YELLO-40 ran 'combine' on item '17-nabojowy magazynek do USP' (#460)
+[01:25:36	]Mensu (STEAM_0:0:31675788) has disconnected.
+[01:25:39	]Pocieszny has unloaded their "C24:i3.YELLO-40" character.
+[01:25:45	]Pocieszny (STEAM_0:1:75539087) has disconnected.
+[10:55:44	]Pogus has connected.
+[10:56:31	]Pogus loaded the character 'Mokebe Siurson'
+[10:56:45	]Mokebe Siurson entered observer.
+[10:58:47	]Mokebe Siurson exited observer at their location.
+[10:58:51	]Mokebe Siurson entered observer.
+[10:59:18	]Mokebe Siurson exited observer at their location.
+[10:59:38	]Mokebe Siurson has spawned 'models/props_debris/destroyedceiling01a.mdl'.
+[10:59:47	]Mokebe Siurson has used a context menu option with the name: remove
+[10:59:52	]Mokebe Siurson entered observer.
+[11:00:03	]Mokebe Siurson exited observer at their location.
+[11:00:08	]Mokebe Siurson has spawned 'models/props_debris/concrete_spawnhole001a.mdl'.
+[11:00:42	]Mokebe Siurson entered observer.
+[11:01:06	]Mokebe Siurson exited observer at their location.
+[11:01:12	]Mokebe Siurson has spawned 'models/props_debris/destroyedceiling01b.mdl'.
+[11:01:16	]Mokebe Siurson has used a context menu option with the name: remove
+[11:01:19	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:01:22	]Mokebe Siurson has used a context menu option with the name: remove
+[11:01:23	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall002a.mdl'.
+[11:02:15	]Mokebe Siurson has fired a toolgun with the name: stacker_improved
+[11:02:15	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall002a.mdl'.
+[11:02:19	]Mokebe Siurson has used a context menu option with the name: remove
+[11:02:43	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall002a.mdl'.
+[11:03:10	]Mokebe Siurson has used a context menu option with the name: remove
+[11:03:21	]Mokebe Siurson has spawned 'models/props_debris/wall001a_base.mdl'.
+[11:03:24	]Mokebe Siurson has used a context menu option with the name: remove
+[11:03:30	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:03:41	]Mokebe Siurson has used a context menu option with the name: remove
+[11:03:43	]Mokebe Siurson has used a context menu option with the name: remove
+[11:03:50	]Mokebe Siurson entered observer.
+[11:03:53	]Mokebe Siurson exited observer at their location.
+[11:03:54	]Mokebe Siurson entered observer.
+[11:03:54	]Mokebe Siurson exited observer at their location.
+[11:04:24	]Mokebe Siurson entered observer.
+[11:04:42	]Mokebe Siurson exited observer at their location.
+[11:05:06	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:05:32	]Mokebe Siurson has used a context menu option with the name: remove
+[11:05:41	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:05:53	]Mokebe Siurson has used a context menu option with the name: remove
+[11:06:07	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:06:12	]Mokebe Siurson has used a context menu option with the name: remove
+[11:06:38	]Mokebe Siurson has used a context menu option with the name: remove
+[11:06:48	]Mokebe Siurson has spawned 'models/props_debris/tile_wall001a.mdl'.
+[11:06:51	]Mokebe Siurson has used a context menu option with the name: ignite
+[11:06:52	]Mokebe Siurson has used a context menu option with the name: remove
+[11:06:55	]Mokebe Siurson has spawned 'models/props_debris/tile_wall001a_base.mdl'.
+[11:06:57	]Mokebe Siurson has used a context menu option with the name: remove
+[11:07:05	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall002a.mdl'.
+[11:07:11	]Mokebe Siurson entered observer.
+[11:07:12	]Mokebe Siurson exited observer at their location.
+[11:07:24	]Mokebe Siurson entered observer.
+[11:07:24	]Mokebe Siurson exited observer at their location.
+[11:07:25	]Mokebe Siurson entered observer.
+[11:07:52	]Mokebe Siurson exited observer at their location.
+[11:08:09	]Mokebe Siurson has used a context menu option with the name: remove
+[11:08:11	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:08:56	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:09:08	]Mokebe Siurson has used a context menu option with the name: remove
+[11:09:16	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:09:29	]Mokebe Siurson has used a context menu option with the name: remove
+[11:09:44	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:09:49	]Mokebe Siurson has used a context menu option with the name: remove
+[11:09:56	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:10:04	]Mokebe Siurson has used a context menu option with the name: remove
+[11:10:11	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:10:19	]Mokebe Siurson has used a context menu option with the name: remove
+[11:10:28	]Mokebe Siurson has spawned 'models/props_debris/concrete_spawnchunk001a.mdl'.
+[11:10:32	]Mokebe Siurson has used a context menu option with the name: remove
+[11:10:50	]Mokebe Siurson has spawned 'models/props_debris/concrete_section128wall002a.mdl'.
+[11:10:54	]Mokebe Siurson has used a context menu option with the name: remove
+[11:10:58	]Mokebe Siurson has spawned 'models/props_debris/plaster_floorpile002a.mdl'.
+[11:10:58	]Mokebe Siurson has taken 50 damage from prop_physics.
+[11:10:58	]Mokebe Siurson was knocked unconscious and is bleeding out.
+[11:12:40	]Mokebe Siurson has dropped: Latarka (#166); Czarna opaska (#167);
+[11:12:40	]Mokebe Siurson was just killed due to: accepting their death
+[11:12:43	]Mokebe Siurson entered observer.
+[11:12:58	]Mokebe Siurson exited observer at their location.
+[11:13:09	]Mokebe Siurson has used a context menu option with the name: remove
+[11:13:11	]Mokebe Siurson has used a context menu option with the name: remove
+[11:13:17	]Mokebe Siurson has spawned 'models/props_debris/concrete_cornerpile01a.mdl'.
+[11:13:20	]Mokebe Siurson has used a context menu option with the name: remove
+[11:13:41	]Mokebe Siurson entered observer.
+[11:13:46	]Mokebe Siurson exited observer at their location.
+[11:14:21	]Mokebe Siurson has spawned 'models/props_debris/concrete_debris256pile001a.mdl'.
+[11:14:21	]Mokebe Siurson was knocked unconscious and is bleeding out.
+[11:14:39	]Mokebe Siurson has dropped: Latarka (#166); Czarna opaska (#167);
+[11:14:39	]Mokebe Siurson was just killed due to: accepting their death
+[11:14:42	]Mokebe Siurson entered observer.
+[11:14:56	]Mokebe Siurson has used a context menu option with the name: remove
+[11:14:58	]Mokebe Siurson has used a context menu option with the name: remove
+[11:14:59	]Mokebe Siurson exited observer at their location.
+[11:15:02	]Mokebe Siurson has spawned 'models/props_debris/concrete_debris128pile001a.mdl'.
+[11:15:08	]Mokebe Siurson has used a context menu option with the name: remove
+[11:15:09	]Mokebe Siurson has spawned 'models/props_debris/concrete_debris128pile001b.mdl'.
+[11:15:21	]Mokebe Siurson entered observer.
+[11:15:25	]Mokebe Siurson has spawned 'models/props_debris/concrete_debris256pile001a.mdl'.
+[11:15:27	]Mokebe Siurson has used a context menu option with the name: remove
+[11:15:33	]Mokebe Siurson has spawned 'models/props_debris/concrete_debris128pile001a.mdl'.
+[11:15:38	]Mokebe Siurson has used a context menu option with the name: remove
+[11:15:45	]Mokebe Siurson has spawned 'models/props_debris/broken_pile001a.mdl'.
+[11:15:47	]Mokebe Siurson has used a context menu option with the name: remove
+[11:15:49	]Mokebe Siurson has spawned 'models/props_debris/plaster_ceilingpile001a.mdl'.
+[11:15:53	]Mokebe Siurson has used a context menu option with the name: remove
+[11:16:17	]Mokebe Siurson has used a context menu option with the name: remove
+[11:16:20	]Mokebe Siurson has used a context menu option with the name: remove
+[11:16:28	]Mokebe Siurson has spawned 'models/props_debris/walldestroyed09g.mdl'.
+[11:16:30	]Mokebe Siurson has used a context menu option with the name: remove
+[11:16:36	]Mokebe Siurson exited observer at their location.
+[11:16:37	]Mokebe Siurson entered observer.
+[11:16:37	]Mokebe Siurson exited observer at their location.
+[11:16:40	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:17:11	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:17:17	]Mokebe Siurson has enabled persistence for 'models/props_debris/plaster_wall001a.mdl'.
+[11:17:17	]Mokebe Siurson has used a context menu option with the name: persist
+[11:17:20	]Mokebe Siurson has used a context menu option with the name: remove
+[11:17:28	]Mokebe Siurson has disabled persistence for 'models/props_debris/plaster_wall001a.mdl'.
+[11:17:28	]Mokebe Siurson has used a context menu option with the name: persist_end
+[11:17:30	]Mokebe Siurson has used a context menu option with the name: remove
+[11:17:36	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:17:46	]Mokebe Siurson has used a context menu option with the name: remove
+[11:17:48	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:18:30	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:19:28	]Mokebe Siurson has used a context menu option with the name: remove
+[11:20:15	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:20:19	]Mokebe Siurson has used a context menu option with the name: remove
+[11:21:01	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:21:10	]Mokebe Siurson has used a context menu option with the name: remove
+[11:21:17	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:21:26	]Mokebe Siurson has used a context menu option with the name: remove
+[11:21:38	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:21:43	]Mokebe Siurson has used a context menu option with the name: remove
+[11:22:00	]Mokebe Siurson has enabled persistence for 'models/props_debris/plaster_wall001a.mdl'.
+[11:22:00	]Mokebe Siurson has used a context menu option with the name: persist
+[11:22:06	]Mokebe Siurson has spawned 'models/props_debris/plaster_ceilingpile001b.mdl'.
+[11:22:11	]Mokebe Siurson has used a context menu option with the name: remove
+[11:22:17	]Mokebe Siurson has spawned 'models/props_debris/concrete_debris128pile001b.mdl'.
+[11:23:22	]Mokebe Siurson has spawned 'models/props_debris/concrete_debris128pile001b.mdl'.
+[11:23:28	]Mokebe Siurson has used a context menu option with the name: remove
+[11:23:33	]Mokebe Siurson has spawned 'models/props_debris/concrete_debris128pile001b.mdl'.
+[11:23:44	]Mokebe Siurson has used a context menu option with the name: remove
+[11:24:14	]Mokebe Siurson has used a context menu option with the name: remove
+[11:24:17	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:25:19	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:25:37	]Mokebe Siurson has used a context menu option with the name: remove
+[11:26:08	]Mokebe Siurson has spawned 'models/props_debris/plaster_wall001a.mdl'.
+[11:26:11	]Mokebe Siurson has used a context menu option with the name: remove
+[11:26:17	]Mokebe Siurson has enabled persistence for 'models/props_debris/plaster_wall001a.mdl'.
+[11:26:17	]Mokebe Siurson has used a context menu option with the name: persist
+[11:26:22	]Mokebe Siurson has enabled persistence for 'models/props_debris/concrete_debris128pile001b.mdl'.
+[11:26:22	]Mokebe Siurson has used a context menu option with the name: persist
+[11:27:07	]Mokebe Siurson has spawned 'models/props_debris/concrete_debris256barricade001a.mdl'.
+[11:27:08	]Mokebe Siurson entered observer.
+[11:27:15	]Mokebe Siurson has used a context menu option with the name: remove
+[11:27:21	]Mokebe Siurson has spawned 'models/props_debris/concrete_debris128pile001b.mdl'.
+[11:27:28	]Mokebe Siurson has used a context menu option with the name: remove
+[11:27:30	]Mokebe Siurson has spawned 'models/props_debris/concrete_debris128pile001a.mdl'.
+[11:27:58	]Mokebe Siurson exited observer at their location.
+[11:28:11	]Mokebe Siurson entered observer.
+[11:29:29	]Mokebe Siurson exited observer at their location.
+[11:31:25	]Mokebe Siurson entered observer.
+[11:32:59	]Mokebe Siurson exited observer at their location.
+[11:32:59	]Mokebe Siurson entered observer.
+[11:33:00	]Mokebe Siurson exited observer at their location.
+[11:33:04	]Mokebe Siurson has spawned 'models/props_debris/concrete_debris128pile001a.mdl'.
+[11:33:05	]Mokebe Siurson entered observer.
+[11:33:28	]Mokebe Siurson has used a context menu option with the name: remove
+[11:33:33	]Mokebe Siurson has used a context menu option with the name: remove
+[11:33:35	]Mokebe Siurson exited observer at their location.
+[11:33:37	]Mokebe Siurson has spawned 'models/props_debris/rebar004a_32.mdl'.
+[11:33:40	]Mokebe Siurson has used a context menu option with the name: remove
+[11:33:41	]Mokebe Siurson has spawned 'models/props_debris/rebar002d_96.mdl'.
+[11:34:03	]Mokebe Siurson has used a context menu option with the name: remove
+[11:34:06	]Mokebe Siurson has spawned 'models/props_debris/concrete_spawnchunk001a.mdl'.
+[11:34:14	]Mokebe Siurson has used a context menu option with the name: remove
+[11:34:21	]Mokebe Siurson has spawned 'models/props_debris/concrete_chunk08a.mdl'.
+[11:34:26	]Mokebe Siurson has used a context menu option with the name: remove
+[11:35:13	]Mokebe Siurson entered observer.
+[11:35:42	]Mokebe Siurson has spawned 'models/props_debris/concrete_section128wall001b.mdl'.
+[11:36:10	]Mokebe Siurson has used a context menu option with the name: remove
+[11:36:11	]Mokebe Siurson exited observer at their location.
+[11:36:13	]Mokebe Siurson has spawned 'models/props_debris/concrete_section128wall001a.mdl'.
+[11:36:16	]Mokebe Siurson has used a context menu option with the name: remove
+[11:36:18	]Mokebe Siurson has spawned 'models/props_debris/concrete_section128wall001b.mdl'.
+[11:36:21	]Mokebe Siurson has used a context menu option with the name: remove
+[11:36:23	]Mokebe Siurson has spawned 'models/props_debris/concrete_section128wall001c.mdl'.
+[11:37:06	]Mokebe Siurson has spawned 'models/props_debris/concrete_section128wall001c.mdl'.
+[11:37:18	]Mokebe Siurson has used a context menu option with the name: remove
+[11:37:21	]Mokebe Siurson has used a context menu option with the name: remove
+[11:37:26	]Mokebe Siurson has spawned 'models/props_debris/concrete_section128wall001b.mdl'.
+[11:37:31	]Mokebe Siurson has spawned 'models/props_debris/concrete_section128wall002a.mdl'.
+[11:37:38	]Mokebe Siurson has used a context menu option with the name: remove
+[11:37:51	]Mokebe Siurson has used a context menu option with the name: remove
+[11:37:55	]Mokebe Siurson has spawned 'models/props_debris/concrete_section128floor001a.mdl'.
+[11:37:57	]Mokebe Siurson has used a context menu option with the name: remove
+[11:38:25	]Mokebe Siurson has spawned 'models/props_debris/concrete_section128wall002a.mdl'.
+[11:38:46	]Mokebe Siurson has spawned 'models/props_debris/concrete_section128wall001a.mdl'.
+[11:38:50	]Mokebe Siurson has used a context menu option with the name: remove
+[11:39:42	]Mokebe Siurson has fired a toolgun with the name: stacker_improved
+[11:39:44	]Mokebe Siurson has spawned 'models/props_debris/concrete_section128wall002a.mdl'.
+[11:39:57	]Mokebe Siurson has used a context menu option with the name: remove
+[11:40:18	]Mokebe Siurson has spawned 'models/props_debris/concrete_section128wall002a.mdl'.
+[11:40:27	]Mokebe Siurson entered observer.
+[11:40:33	]Mokebe Siurson has used a context menu option with the name: remove
+[11:40:42	]Mokebe Siurson has spawned 'models/props_debris/concrete_section128wall002a.mdl'.
+[11:40:52	]Mokebe Siurson exited observer at their location.
+[11:41:08	]Mokebe Siurson has used a context menu option with the name: remove
+[11:41:28	]Mokebe Siurson has fired a toolgun with the name: stacker_improved
+[11:41:30	]Mokebe Siurson has fired a toolgun with the name: stacker_improved
+[11:41:32	]Mokebe Siurson has spawned 'models/props_debris/concrete_section128wall002a.mdl'.
+[11:41:54	]Mokebe Siurson entered observer.
+[11:42:01	]Mokebe Siurson exited observer at their location.
+[11:42:03	]Mokebe Siurson entered observer.
+[11:42:03	]Mokebe Siurson exited observer at their location.
+[11:42:09	]Mokebe Siurson has used a context menu option with the name: remove
+[11:42:12	]Mokebe Siurson has spawned 'models/props_debris/concrete_section128wall002a.mdl'.
+[11:42:14	]Mokebe Siurson entered observer.
+[11:42:33	]Mokebe Siurson has enabled persistence for 'models/props_debris/concrete_section128wall002a.mdl'.
+[11:42:33	]Mokebe Siurson has used a context menu option with the name: persist
+[11:42:40	]Mokebe Siurson has spawned 'models/props_debris/prison_wallchunk001c.mdl'.
+[11:42:53	]Mokebe Siurson has used a context menu option with the name: remove
+[11:43:50	]Mokebe Siurson exited observer at their location.
+[11:44:38	]Mokebe Siurson has spawned 'models/props_interiors/sofa_chair02.mdl'.
+[11:44:43	]Mokebe Siurson has used a context menu option with the name: remove
+[11:45:10	]Mokebe Siurson entered observer.
+[11:45:11	]Mokebe Siurson exited observer at their location.
+[11:49:10	]Pogus (STEAM_0:1:198653546) has disconnected.
+[14:59:41	]Mensu has connected.
+[15:22:30	]Mensu loaded the character 'C224:ChF.YELLO-94'
+[15:22:50	][IC] C224:ChF.YELLO-94: <:: W. ::>
+[15:23:16	][IC] C224:ChF.YELLO-94: <:: W. ::>
+[15:23:37	]C24:Ovr.ICE-1 used command '/CharSetName 94 C24:Ovr.ICE-1'.
+[15:24:35	]C24:Ovr.ICE-1 has changed C24:Ovr.ICE-1's bodygroups.
+[15:24:35	]C24:Ovr.ICE-1 has changed C24:Ovr.ICE-1's bodygroups.
+[15:24:48	]C24:Ovr.ICE-1 entered observer.
+[15:27:31	]C24:Ovr.ICE-1 exited observer.
+[15:27:31	]C24:Ovr.ICE-1 entered observer.
+[15:27:34	]C24:Ovr.ICE-1 exited observer.
+[15:36:30	]C24:Ovr.ICE-1 has gone afk.
+[15:38:15	]C24:Ovr.ICE-1 is no longer afk. Total time spent AFK: 400
+[15:44:45	]C24:Ovr.ICE-1 has gone afk.
+[15:45:20	]Pogus has connected.
+[15:46:06	]Pogus loaded the character 'Mokebe Siurson'
+[15:46:12	]Mokebe Siurson has used a context menu option with the name: remove
+[15:46:26	]Mokebe Siurson entered observer.
+[15:46:28	]Mokebe Siurson exited observer at their location.
+[15:46:35	]C24:Ovr.ICE-1 is no longer afk. Total time spent AFK: 405
+[15:46:46	]Mokebe Siurson used command '/PlyWhitelist Mokebe MPF'.
+[15:46:52	]Mokebe Siurson used command '/PlyWhitelist Mokebe Civil'.
+[15:52:06	]Mokebe Siurson has gone afk.
+[15:52:09	]Mroczny has connected.
+[15:53:06	]Mroczny loaded the character 'C24:RCT.YELLO-37'
+[15:54:21	]C24:RCT.YELLO-37 used command '/CharDesc'.
+[15:54:22	]C24:RCT.YELLO-37 used command '/CharDesc'.
+[15:54:23	]C24:RCT.YELLO-37 used command '/CharDesc'.
+[15:56:40	][IC] C24:Ovr.ICE-1: <:: C24. ::>
+[15:56:44	][IC] C24:RCT.YELLO-37: <:: Chuj. ::>
+[15:56:56	]C24:RCT.YELLO-37 is fully healed.
+[15:57:24	]C24:Ovr.ICE-1 used command '/CharSetName 37 C24:i2.ICE-4'.
+[15:59:46	]C24:i2.ICE-4 used command '/SC tac-3'.
+[16:01:02	]Pogus created the character 'C24:RCT.YELLO-16'
+[16:01:02	]Mokebe Siurson has gained level 5 in the Broń palna skill.
+[16:01:02	]Mokebe Siurson has gained level 10 in the Prędkość skill.
+[16:01:02	]Pogus loaded the character 'C24:RCT.YELLO-16'
+[16:01:02	]C24:RCT.YELLO-16 is no longer afk. Total time spent AFK: 835
+[16:01:02	]C24:RCT.YELLO-16 has gained a 'Karta identyfikacyjna #23414' #488.
+[16:01:02	]C24:RCT.YELLO-16 has gained a 'PDA Kombinatu' #489.
+[16:01:02	]C24:RCT.YELLO-16 has gained a 'Lightweight Functionary Uniform (City 8)' #490.
+[16:01:02	]C24:RCT.YELLO-16 has gained a 'Maska przeciwgazowa PMG-5 (AUG)' #491.
+[16:01:02	]C24:RCT.YELLO-16 has gained a 'Mała torba' #492.
+[16:01:02	]C24:RCT.YELLO-16 has gained a 'Duża torba' #493.
+[16:01:45	]Yuri "Killa" Tarkov has connected.
+[16:02:00	]Cole has connected.
+[16:02:18	]Yuri "Killa" Tarkov loaded the character 'Skibidi Toilet'
+[16:02:33	]Skibidi Toilet used command '/PlyWhitelist toilet mpf'.
+[16:02:35	]Skibidi Toilet used command '/PlyWhitelist toilet cp'.
+[16:02:43	]Yuri "Killa" Tarkov has unloaded their "Skibidi Toilet" character.
+[16:04:01	]C24:i2.ICE-4 has gained level 11 in the Prędkość skill.
+[16:04:08	]Mensu (STEAM_0:0:31675788) has disconnected.
+[16:05:09	]Yuri "Killa" Tarkov created the character 'C24:RCT.YELLO-21'
+[16:05:09	]Yuri "Killa" Tarkov has gained level 5 in the Broń palna skill.
+[16:05:09	]Yuri "Killa" Tarkov has gained level 10 in the Prędkość skill.
+[16:05:09	]Yuri "Killa" Tarkov loaded the character 'C24:RCT.YELLO-21'
+[16:05:09	]C24:RCT.YELLO-21 has gained a 'Karta identyfikacyjna #24117' #494.
+[16:05:09	]C24:RCT.YELLO-21 has gained a 'PDA Kombinatu' #495.
+[16:05:09	]C24:RCT.YELLO-21 has gained a 'Lightweight Functionary Uniform (City 8)' #496.
+[16:05:09	]C24:RCT.YELLO-21 has gained a 'Maska przeciwgazowa PMG-5 (AUG)' #497.
+[16:05:09	]C24:RCT.YELLO-21 has gained a 'Mała torba' #498.
+[16:05:09	]C24:RCT.YELLO-21 has gained a 'Duża torba' #499.

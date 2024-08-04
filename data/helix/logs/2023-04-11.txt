@@ -1,0 +1,852 @@
+[18:05:28	]tomasz hedzik has connected.
+[18:07:51	]tomasz hedzik loaded the character 'Marcin Pulaski'
+[18:16:51	]Marcin Pulaski has gone afk.
+[18:24:26	]Marcin Pulaski is no longer afk. Total time spent AFK: 750
+[18:32:56	]Marcin Pulaski has gone afk.
+[18:36:41	]Marcin Pulaski is no longer afk. Total time spent AFK: 520
+[18:37:35	]Marcin Pulaski has spawned a paper.
+[18:37:53	]Marcin Pulaski ran 'Write' on item 'Paper' (#3644)
+[18:39:35	]Marcin Pulaski used command '/CharFallOver'.
+[18:39:38	]Marcin Pulaski used command '/CharGetUp'.
+[18:40:26	]Marcin Pulaski used command '/CharGetUp'.
+[18:40:36	]Marcin Pulaski used command '/CharFallOver'.
+[18:40:37	]Marcin Pulaski used command '/CharGetUp'.
+[18:40:38	]Marcin Pulaski used command '/CharGetUp'.
+[18:40:39	]Marcin Pulaski used command '/CharGetUp'.
+[18:40:43	]Marcin Pulaski used command '/CharGetUp'.
+[18:42:18	]Marcin Pulaski has spawned a cit_computer.
+[18:43:04	]tomasz hedzik created the character 'C17:RCT.YELLO-91'
+[18:43:04	]Marcin Pulaski has gained level 30 in the Broń palna skill.
+[18:43:04	]Marcin Pulaski has gained level 30 in the Prędkość skill.
+[18:43:04	]tomasz hedzik loaded the character 'C17:RCT.YELLO-91'
+[18:43:04	]C17:RCT.YELLO-91 has gained a '#00235's Identity Card' #3646.
+[18:43:04	]C17:RCT.YELLO-91 has gained a 'Combine PDA' #3647.
+[18:43:04	]C17:RCT.YELLO-91 has gained a 'CP Uniform' #3648.
+[18:43:04	]C17:RCT.YELLO-91 has gained a 'CP Mask' #3649.
+[18:43:04	]C17:RCT.YELLO-91 has gained a 'Handheld Radio' #3650.
+[18:43:04	]C17:RCT.YELLO-91 has gained a 'Small Bag' #3651.
+[18:43:04	]C17:RCT.YELLO-91 has gained a 'Large Bag' #3652.
+[18:43:10	]C17:RCT.YELLO-91 has spawned a cit_computer.
+[18:43:11	]C17:RCT.YELLO-91 ran 'Place' on item 'Citizen Computer' (#3653)
+[18:48:34	]C17:RCT.YELLO-91 has gone afk.
+[18:49:29	]C17:RCT.YELLO-91 is no longer afk. Total time spent AFK: 350
+[18:49:47	]C17:RCT.YELLO-91 used command '/GroupInvite Siema'.
+[18:55:42	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[18:55:43	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[18:56:50	]C17:RCT.YELLO-91 has spawned a newspaper.
+[18:56:51	]C17:RCT.YELLO-91 ran 'Write' on item 'Newspaper' (#3654)
+[18:57:02	]C17:RCT.YELLO-91 has spawned a notepad.
+[18:57:03	]C17:RCT.YELLO-91 ran 'Write' on item 'Notepad' (#3655)
+[18:57:08	]C17:RCT.YELLO-91 has spawned a paper.
+[18:57:09	]C17:RCT.YELLO-91 ran 'Write' on item 'Paper' (#3656)
+[18:57:19	]C17:RCT.YELLO-91 has spawned a newspaper_printer.
+[18:57:21	]C17:RCT.YELLO-91 has spawned a newspaper_printer.
+[18:57:25	]C17:RCT.YELLO-91 ran 'take' on item 'Newspaper Printer' (#3658)
+[18:57:25	]C17:RCT.YELLO-91 has gained a 'Newspaper Printer' #3658.
+[18:57:30	]C17:RCT.YELLO-91 ran 'Place' on item 'Newspaper Printer' (#3658)
+[18:57:37	]C17:RCT.YELLO-91 ran 'take' on item 'Newspaper Printer' (#3659)
+[18:57:37	]C17:RCT.YELLO-91 has gained a 'Newspaper Printer' #3659.
+[18:57:41	]C17:RCT.YELLO-91 ran 'Place' on item 'Newspaper Printer' (#3659)
+[19:01:13	]C17:RCT.YELLO-91 has spawned a cmru_radio.
+[19:01:15	]C17:RCT.YELLO-91 ran 'ToggleOn' on item 'CMRU Radio' (#3661)
+[19:01:17	]C17:RCT.YELLO-91 ran 'ToggleOff' on item 'CMRU Radio' (#3661)
+[19:01:19	]C17:RCT.YELLO-91 has spawned a cmru_radio.
+[19:01:20	]C17:RCT.YELLO-91 has spawned a pda_cmu.
+[19:01:22	]C17:RCT.YELLO-91 ran 'take' on item 'CMRU PDA' (#3663)
+[19:01:22	]C17:RCT.YELLO-91 has gained a 'CMRU PDA' #3663.
+[19:01:34	]C17:RCT.YELLO-91 ran 'Equip' on item 'Combine PDA' (#3647)
+[19:01:51	]Chogacz has connected.
+[19:01:52	]C17:RCT.YELLO-91 has spawned a pos_terminal.
+[19:01:55	]C17:RCT.YELLO-91 ran 'take' on item 'POS Terminal' (#3664)
+[19:01:55	]C17:RCT.YELLO-91 has gained a 'POS Terminal' #3664.
+[19:01:57	]C17:RCT.YELLO-91 ran 'Bind' on item 'POS Terminal' (#3664)
+[19:02:35	]Chogacz loaded the character 'Zacku zack'
+[19:02:42	]Zacku zack ran SAM command 'goto' with arguments: 'Yello'
+[19:02:49	]Zacku zack ran 'Equip' on item 'Suitcase' (#3440)
+[19:02:51	]Zacku zack ran 'EquipUn' on item 'Suitcase' (#3445)
+[19:02:53	]Zacku zack ran 'Equip' on item 'Suitcase' (#3445)
+[19:02:55	]Zacku zack ran 'EquipUn' on item 'Suitcase' (#3446)
+[19:02:55	]Zacku zack ran 'Equip' on item 'Suitcase' (#3446)
+[19:03:02	]Zacku zack ran 'EquipUn' on item 'Suitcase' (#3448)
+[19:03:03	]Zacku zack ran 'Equip' on item 'Suitcase' (#3440)
+[19:03:04	]Zacku zack ran 'EquipUn' on item 'Suitcase' (#3440)
+[19:03:05	]Zacku zack ran 'Equip' on item 'Suitcase' (#3445)
+[19:03:06	]Zacku zack ran 'EquipUn' on item 'Suitcase' (#3445)
+[19:03:08	]Zacku zack ran 'Equip' on item 'Suitcase' (#3446)
+[19:03:09	]Zacku zack ran 'EquipUn' on item 'Suitcase' (#3446)
+[19:03:40	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[19:03:41	][IC] Zacku zack: Napisz na dsc.
+[19:03:41	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[19:03:43	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[19:03:44	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[19:04:02	]C17:RCT.YELLO-91 has spawned a capda.
+[19:04:05	]C17:RCT.YELLO-91 ran 'take' on item 'Civil Administration PDA' (#3665)
+[19:04:05	]C17:RCT.YELLO-91 has gained a 'Civil Administration PDA' #3665.
+[19:04:06	]C17:RCT.YELLO-91 ran 'Equip' on item 'Civil Administration PDA' (#3665)
+[19:04:07	]C17:RCT.YELLO-91 ran 'Equip' on item 'Civil Administration PDA' (#3665)
+[19:04:37	][IC] C17:RCT.YELLO-91: Wiem wiem tylko szukam.
+[19:09:35	]Zacku zack has gone afk.
+[19:13:25	][IC] C17:RCT.YELLO-91: Ogarniam pogode.
+[19:13:28	][IC] C17:RCT.YELLO-91: Zeby parowala sie.
+[19:13:31	][IC] C17:RCT.YELLO-91: Z genewą.
+[19:13:32	][IC] C17:RCT.YELLO-91: Faktyczną.
+[19:22:50	]Zacku zack is no longer afk. Total time spent AFK: 1090
+[19:23:04	]Zacku zack has given himself a med_computer.
+[19:23:04	]Zacku zack has gained a 'Medical Computer' #3666.
+[19:23:09	]Zacku zack ran 'Place' on item 'Medical Computer' (#3666)
+[19:23:13	]Zacku zack ran 'Place' on item 'Medical Computer' (#3667)
+[19:23:29	]C17:RCT.YELLO-91 has gone afk.
+[19:23:49	]C17:RCT.YELLO-91 is no longer afk. Total time spent AFK: 315
+[19:24:08	][IC] Zacku zack: Dsc.
+[19:29:19	]C17:RCT.YELLO-91 has gone afk.
+[19:29:20	]Zacku zack has gone afk.
+[19:32:10	]Zacku zack is no longer afk. Total time spent AFK: 465
+[19:35:55	]Zacku zack has given himself a pda.
+[19:35:55	]Zacku zack has gained a 'Combine PDA' #3668.
+[19:35:59	]Zacku zack ran 'Equip' on item 'Combine PDA' (#3668)
+[19:41:10	]Zacku zack has gone afk.
+[19:52:09	]C17:RCT.YELLO-91 is no longer afk. Total time spent AFK: 1665
+[19:56:23	][IC] C17:RCT.YELLO-91: JEST KURWa.
+[19:56:25	][IC] C17:RCT.YELLO-91: DZIALA.
+[19:56:28	][IC] C17:RCT.YELLO-91: POGODA ZINTEGROWANA.
+[19:56:30	][IC] C17:RCT.YELLO-91: Z POGODĄ GENEWY.
+[20:00:19	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[20:06:30	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[20:06:32	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[20:06:36	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[20:06:38	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[20:06:39	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[20:06:41	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[20:11:31	]Recik has connected.
+[20:11:46	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[20:11:50	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[20:11:51	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[20:12:30	]Recik (STEAM_0:1:57940784) deleted character 'dadaddadsdas'
+[20:12:38	]Recik loaded the character 'dasfasdsafasfdasfasfda'
+[20:12:45	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[20:13:00	][IC] dasfasdsafasfdasfasfda: .
+[20:13:12	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[20:13:14	]dasfasdsafasfdasfasfda used command '/PlyWhitelist dasfasdsafasfdasfasfda Protection'.
+[20:13:22	]Recik has unloaded their "dasfasdsafasfdasfasfda" character.
+[20:14:28	]Recik created the character 'C17:RCT.YELLO-97'
+[20:14:28	]Recik has gained level 30 in the Broń palna skill.
+[20:14:28	]Recik has gained level 30 in the Prędkość skill.
+[20:14:28	]Recik loaded the character 'C17:RCT.YELLO-97'
+[20:14:28	]C17:RCT.YELLO-97 has gained a '#01130's Identity Card' #3669.
+[20:14:28	]C17:RCT.YELLO-97 has gained a 'Combine PDA' #3670.
+[20:14:28	]C17:RCT.YELLO-97 has gained a 'CP Uniform' #3671.
+[20:14:28	]C17:RCT.YELLO-97 has gained a 'CP Mask' #3672.
+[20:14:28	]C17:RCT.YELLO-97 has gained a 'Handheld Radio' #3673.
+[20:14:28	]C17:RCT.YELLO-97 has gained a 'Small Bag' #3674.
+[20:14:28	]C17:RCT.YELLO-97 has gained a 'Large Bag' #3675.
+[20:15:09	][IC] C17:RCT.YELLO-97: Elo.
+[20:15:11	][IC] C17:RCT.YELLO-91: Elo.
+[20:15:11	]C17:RCT.YELLO-97 ran 'Equip' on item 'Combine PDA' (#3670)
+[20:15:14	][IC] C17:RCT.YELLO-91: Ej pochwale ci sie.
+[20:15:18	][IC] C17:RCT.YELLO-91: Udalo mi sie zintegrowac.
+[20:15:22	][IC] C17:RCT.YELLO-91: Pogode.
+[20:15:26	][IC] C17:RCT.YELLO-91: Jest teraz taka.
+[20:15:28	][IC] C17:RCT.YELLO-91: Jaka jest w genewie.
+[20:15:30	][IC] C17:RCT.YELLO-91: :OOOOOOOOOOO.
+[20:15:32	][IC] C17:RCT.YELLO-97: Wow.
+[20:15:46	][IC] C17:RCT.YELLO-97: Next gen.
+[20:16:34	][IC] C17:RCT.YELLO-91: Aha jeszcze cos.
+[20:16:37	]C17:RCT.YELLO-91 ran SAM command 'bring' with arguments: 'zacku'
+[20:16:40	]Zacku zack is no longer afk. Total time spent AFK: 2425
+[20:16:41	][IC] C17:RCT.YELLO-91: Dam wam inva.
+[20:16:43	][IC] C17:RCT.YELLO-91: Do grupy.
+[20:16:50	][IC] C17:RCT.YELLO-91: Bo tam w komputerez cywilnym jest jakas opcja z grupami.
+[20:17:02	]C17:RCT.YELLO-91 used command '/GroupInvite siemaneczko'.
+[20:17:04	]Recik has unloaded their "C17:RCT.YELLO-97" character.
+[20:17:05	]C17:RCT.YELLO-91 used command '/GroupInvite siemaneczko'.
+[20:17:12	]Recik loaded the character 'Konfident'
+[20:17:12	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[20:17:14	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[20:17:15	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[20:17:16	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[20:17:16	]Konfident is fully healed.
+[20:17:20	][IC] Konfident: .
+[20:17:36	]Konfident used command '/PlyWhitelist konfident worker'.
+[20:18:03	]Recik has unloaded their "Konfident" character.
+[20:18:06	]Recik (STEAM_0:1:57940784) deleted character 'dsadas'
+[20:18:35	]Recik created the character 'sddas asdadas'
+[20:18:36	]Recik loaded the character 'sddas asdadas'
+[20:18:36	]sddas asdadas has gained a '#02027's Identity Card' #3676.
+[20:18:36	]sddas asdadas has gained a 'CWU PDA' #3677.
+[20:18:36	]sddas asdadas has gained a 'CWU Member Access Keycard' #3678.
+[20:18:45	]sddas asdadas ran 'Open' on item 'CWU PDA' (#3677)
+[20:18:45	]C17:RCT.YELLO-91 used command '/GroupInvite siemaneczko'.
+[20:18:59	]sddas asdadas ran 'Open' on item 'CWU PDA' (#3677)
+[20:19:01	][IC] C17:RCT.YELLO-91: Kurwa to i tak.
+[20:19:03	][IC] C17:RCT.YELLO-91: Nie sprwadzimy teog.
+[20:19:07	][IC] C17:RCT.YELLO-91: Co to kurwa jest jeszcze jedna osobe trzeba.
+[20:19:07	][IC] sddas asdadas: .
+[20:19:15	][IC] C17:RCT.YELLO-91: Jaaa pierdole.......
+[20:19:15	]sddas asdadas ran 'Open' on item 'CWU PDA' (#3677)
+[20:19:37	]Recik has unloaded their "sddas asdadas" character.
+[20:19:43	]Recik loaded the character 'C17:RCT.YELLO-97'
+[20:19:57	]C17:RCT.YELLO-97 entered observer.
+[20:19:57	]C17:RCT.YELLO-97 exited observer at their location.
+[20:21:40	]Zacku zack has gone afk.
+[20:22:44	]C17:RCT.YELLO-97 has changed C17:RCT.YELLO-97's bodygroups.
+[20:22:56	][IC] C17:RCT.YELLO-97: <:: Jak wygladam. ::>
+[20:23:35	]C17:RCT.YELLO-97 has changed C17:RCT.YELLO-97's bodygroups.
+[20:24:09	]C17:RCT.YELLO-91 has gone afk.
+[20:25:07	]Recik has unloaded their "C17:RCT.YELLO-97" character.
+[20:25:13	]Recik loaded the character 'Konfident'
+[20:25:15	]Konfident entered observer.
+[20:25:21	]Konfident exited observer at their location.
+[20:25:50	]Zacku zack is no longer afk. Total time spent AFK: 545
+[20:26:57	]Konfident ran SAM command 'bring' with arguments: 'zacku'
+[20:28:13	]Konfident has fired a toolgun with the name: advdupe2
+[20:28:13	]Konfident has spawned a 'Entity [460][ix_terminal]'.
+[20:29:46	][IC] Konfident: Daj se uprawnienia do tego.
+[20:29:54	][IC] Konfident: I napisz jakis message.
+[20:30:03	][IC] Zacku zack: Ten communion dac?
+[20:30:08	][IC] Zacku zack: Zostac komunistom?
+[20:30:10	][IC] Konfident: Ta.
+[20:30:15	][IC] Konfident: Komunie swiete.
+[20:30:18	][IC] Konfident: Swieta.
+[20:30:22	][IC] Zacku zack: No mam.
+[20:30:39	][IC] Zacku zack: Wyslalem.
+[20:30:49	][IC] Zacku zack: Moze to komunikacja poprostu nazwac czy cso.
+[20:31:03	]Zacku zack entered observer.
+[20:31:04	]Zacku zack exited observer.
+[20:31:05	]Zacku zack entered observer.
+[20:31:06	]Zacku zack exited observer.
+[20:31:10	][IC] Konfident: Nic tam nie ma.
+[20:31:19	][IC] Konfident: Oprocz 2 moich wiadomosci.
+[20:31:37	][IC] Zacku zack: No jak.
+[20:31:39	][IC] Zacku zack: Mikrocypek jest.
+[20:31:44	][IC] Zacku zack: A masz poziom lojalisty dodany?
+[20:31:59	][IC] Konfident: Nie.
+[20:32:04	][IC] Konfident: Dalem 3 wiadomosci juz tam.
+[20:32:08	][IC] Zacku zack: No ja mam jakies kropki.
+[20:32:12	][IC] Zacku zack: I miikrocypek moj.
+[20:32:18	][IC] Konfident: Poka screena.
+[20:32:54	]C17:RCT.YELLO-91 is no longer afk. Total time spent AFK: 820
+[20:32:59	]Zacku zack used command '/ID'.
+[20:33:02	][IC] Konfident: Czekaj.
+[20:33:09	][IC] Konfident: Jaka masz frakcje.
+[20:33:13	][IC] Zacku zack: Citizen.
+[20:33:23	][IC] Zacku zack: No a ty CMU.
+[20:33:24	][IC] Konfident: Mozesz dawac te permity?
+[20:33:24	][IC] Zacku zack: Debilu.
+[20:33:26	][IC] Zacku zack: Moge.
+[20:33:28	][IC] Konfident: To czkeaj.
+[20:33:32	]Recik has unloaded their "Konfident" character.
+[20:33:37	]Recik loaded the character 'Joe Morgan'
+[20:33:40	]Joe Morgan ran SAM command 'goto' with arguments: 'zacku'
+[20:33:41	]Joe Morgan entered observer.
+[20:33:42	]Joe Morgan exited observer at their location.
+[20:33:42	]Joe Morgan is fully healed.
+[20:33:43	][IC] Joe Morgan: Daj.
+[20:33:45	][IC] Joe Morgan: Joe morgan.
+[20:33:51	][IC] Zacku zack: G masz.
+[20:34:03	][IC] Joe Morgan: Aha.
+[20:34:04	][IC] Joe Morgan: XD.
+[20:34:05	][IC] Zacku zack: W sumie glupie ze jako cywil mozesz.
+[20:34:09	][IC] Zacku zack: Dawac wszystko wszystkim.
+[20:34:14	][IC] Zacku zack: I co dziala.
+[20:34:16	][IC] Zacku zack: A cidu nie masz.
+[20:34:19	]Zacku zack used command '/CreateCid Morgan'.
+[20:34:20	]Joe Morgan has gained a '#79142's Identity Card' #3679.
+[20:34:21	][IC] Zacku zack: Masz.
+[20:34:31	][IC] Zacku zack: Ty no daelm.
+[20:34:34	][IC] Zacku zack: Ci cid.
+[20:34:34	]Joe Morgan ran 'drop' on item '#79142's Identity Card' (#3066)
+[20:34:34	]Joe Morgan has lost a '#79142's Identity Card' #3066.
+[20:34:41	]Joe Morgan ran 'drop' on item '#79142's Identity Card' (#3679)
+[20:34:41	]Joe Morgan has lost a '#79142's Identity Card' #3679.
+[20:34:45	]Zacku zack used command '/CreateCid Joe Morgan'.
+[20:34:45	]Joe Morgan has gained a '#79142's Identity Card' #3680.
+[20:34:50	][IC] Zacku zack: Cipka cipka.
+[20:34:53	][IC] Joe Morgan: Robie nowego.
+[20:34:55	]Zacku zack used command '/ID'.
+[20:34:58	]Zacku zack used command '/ID chuj'.
+[20:34:59	]Recik has unloaded their "Joe Morgan" character.
+[20:35:00	]Zacku zack used command '/ID'.
+[20:35:01	]Zacku zack used command '/ID'.
+[20:35:03	]Recik (STEAM_0:1:57940784) deleted character 'Joe Morgan'
+[20:35:45	]Recik created the character 'jeo bviden'
+[20:35:45	]Recik loaded the character 'jeo bviden'
+[20:35:45	]jeo bviden has gained a '#02926's Identity Card' #3681.
+[20:35:47	]jeo bviden entered observer.
+[20:35:48	]jeo bviden exited observer at their location.
+[20:35:49	]jeo bviden entered observer.
+[20:35:51	]jeo bviden exited observer at their location.
+[20:36:08	][IC] Zacku zack: Masz.
+[20:36:22	][IC] jeo bviden: Pusto.
+[20:36:26	][IC] Zacku zack: To nie wiem.
+[20:36:32	][IC] Zacku zack: Drapie mnie ta komunia.
+[20:36:57	][IC] jeo bviden: To ogloszenia parafialne.
+[20:37:06	][IC] jeo bviden: Dla mlodych komunistow.
+[20:37:41	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[20:37:45	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[20:37:56	][IC] jeo bviden: Ty.
+[20:37:59	][IC] Zacku zack: No.
+[20:38:03	][IC] jeo bviden: Moze to trafia np do jakiegos kompa CA albo CP.
+[20:38:07	][IC] Zacku zack: Moze.
+[20:38:09	][IC] Zacku zack: Sprawdz.
+[20:38:17	]Recik has unloaded their "jeo bviden" character.
+[20:38:24	]Recik loaded the character 'C17:RCT.YELLO-97'
+[20:38:26	]C17:RCT.YELLO-97 entered observer.
+[20:38:27	]C17:RCT.YELLO-91 has spawned a floppydisk.
+[20:38:29	]C17:RCT.YELLO-97 exited observer at their location.
+[20:38:32	]C17:RCT.YELLO-91 ran 'Name' on item 'Floppy Disk' (#3682)
+[20:38:34	]C17:RCT.YELLO-91 ran 'Name' on item 'Floppy Disk' (#3682)
+[20:38:38	]C17:RCT.YELLO-91 ran 'Name' on item 'Test' (#3682)
+[20:38:40	]C17:RCT.YELLO-91 has spawned a cit_computer.
+[20:38:45	]C17:RCT.YELLO-91 ran 'take' on item 'Test' (#3682)
+[20:38:45	]C17:RCT.YELLO-91 has gained a 'Test' #3682.
+[20:38:51	]C17:RCT.YELLO-91 ran 'Place' on item 'Test' (#3682)
+[20:38:56	]C17:RCT.YELLO-91 ran 'Place' on item 'Test' (#3682)
+[20:38:57	]C17:RCT.YELLO-91 ran 'Place' on item 'Citizen Computer' (#3683)
+[20:39:00	]C17:RCT.YELLO-91 ran 'Place' on item 'Test' (#3682)
+[20:39:00	]C17:RCT.YELLO-91 has lost a 'Test' #3682.
+[20:39:40	]C17:RCT.YELLO-97 has spawned a 'Entity [465][ix_cwuterminal]'.
+[20:39:44	]C17:RCT.YELLO-97 has spawned a 'Entity [465][ix_terminal]'.
+[20:39:47	]C17:RCT.YELLO-97 has spawned a 'Entity [465][ix_pickupterminal]'.
+[20:39:48	]C17:RCT.YELLO-97 has spawned a 'Entity [467][ix_workshiftterminal]'.
+[20:39:52	]C17:RCT.YELLO-97 has spawned a 'Entity [465][ix_cwuterminal]'.
+[20:40:01	][IC] C17:RCT.YELLO-97: <:: Nwm wnm wnm. ::>
+[20:40:17	][IC] Zacku zack: Chujc ipk.
+[20:40:19	][IC] Zacku zack: Cipka.
+[20:40:43	]C17:RCT.YELLO-91 has spawned a 'NPC [477][npc_combine_camera]'.
+[20:40:56	][IC] Zacku zack: Zmien sien a cwu pozniej.
+[20:41:00	][IC] Zacku zack: I wez przetlumacz w datapadzie.
+[20:41:09	][IC] Zacku zack: Active permits i active wages.
+[20:41:11	]C17:RCT.YELLO-91 has spawned a pda.
+[20:41:12	][IC] Zacku zack: W sensie wejdz w te zakladki.
+[20:41:14	][IC] Zacku zack: I zrob tak jak ja.
+[20:41:15	]C17:RCT.YELLO-91 has given himself a pda.
+[20:41:15	]C17:RCT.YELLO-91 has gained a 'Combine PDA' #3685.
+[20:41:17	][IC] Zacku zack: Plz.
+[20:41:31	][IC] C17:RCT.YELLO-97: <:: Ale cwu nie ma takiego pada chyba. ::>
+[20:41:35	]Recik has unloaded their "C17:RCT.YELLO-97" character.
+[20:41:41	]Recik loaded the character 'sddas asdadas'
+[20:41:42	]sddas asdadas entered observer.
+[20:41:44	]Zacku zack has spawned a newspaper.
+[20:41:45	]sddas asdadas exited observer at their location.
+[20:41:48	]Zacku zack ran 'Write' on item 'Newspaper' (#3686)
+[20:41:51	]sddas asdadas ran 'Open' on item 'CWU PDA' (#3677)
+[20:42:02	]sddas asdadas ran 'drop' on item 'CWU PDA' (#3677)
+[20:42:02	]sddas asdadas has lost a 'CWU PDA' #3677.
+[20:42:37	]sddas asdadas has fired a toolgun with the name: creator
+[20:42:37	]sddas asdadas has spawned a 'Weapon [469][weapon_capda]'.
+[20:42:45	]sddas asdadas has fired a toolgun with the name: creator
+[20:42:45	]sddas asdadas has spawned a 'Weapon [469][weapon_capda]'.
+[20:42:47	]Zacku zack ran 'Write' on item 'Newspaper' (#3686)
+[20:42:49	]sddas asdadas has fired a toolgun with the name: creator
+[20:42:49	]sddas asdadas has spawned a 'Weapon [469][weapon_capda]'.
+[20:42:51	]sddas asdadas entered observer.
+[20:42:52	]sddas asdadas exited observer at their location.
+[20:43:17	]Recik has unloaded their "sddas asdadas" character.
+[20:43:24	]Recik (STEAM_0:1:57940784) deleted character 'dasfasdsafasfdasfasfda'
+[20:44:41	]Recik created the character 'Rak d'
+[20:44:41	]Recik loaded the character 'Rak d'
+[20:44:41	]Rak d has gained a '#03827's Identity Card' #3687.
+[20:44:41	]Rak d has gained a 'Combine PDA' #3688.
+[20:44:41	]Rak d has gained a 'Burgundy' #3689.
+[20:44:41	]Rak d has gained a 'Realist Trousers' #3690.
+[20:44:41	]Rak d has gained a 'Dress Shoes' #3691.
+[20:44:41	]Rak d has gained a 'Glasses' #3692.
+[20:44:43	]Rak d entered observer.
+[20:44:47	]Rak d exited observer at their location.
+[20:44:55	]Rak d ran 'Equip' on item 'Combine PDA' (#3688)
+[20:45:43	]C17:RCT.YELLO-91 has spawned a musicradio2.
+[20:45:45	]C17:RCT.YELLO-91 ran 'Deploy' on item 'Vintage Radio' (#3693)
+[20:46:08	]C17:RCT.YELLO-91 has spawned a musicradio5.
+[20:46:09	]C17:RCT.YELLO-91 ran 'take' on item 'Western Radio' (#3694)
+[20:46:09	]C17:RCT.YELLO-91 has gained a 'Western Radio' #3694.
+[20:46:13	]C17:RCT.YELLO-91 ran 'Deploy' on item 'Western Radio' (#3694)
+[20:49:13	]Zacku zack has taken 10 damage from wn_rebel_radio3.
+[20:49:14	]Zacku zack used command '/ToggleRaise'.
+[20:49:16	]Zacku zack used command '/ToggleRaise'.
+[20:49:20	][IC] C17:RCT.YELLO-91: <:: Niezla nuta tu leci. ::>
+[20:49:26	][IC] C17:RCT.YELLO-91: <:: Only you. ::>
+[20:49:27	][IC] Zacku zack: Slychac voice wgl?
+[20:49:27	][IC] C17:RCT.YELLO-91: <:: Dojebana jest. ::>
+[20:49:31	][IC] C17:RCT.YELLO-91: <:: Nie. ::>
+[20:49:33	][IC] Zacku zack: Aha.
+[20:49:35	][IC] Zacku zack: T ogadalem.
+[20:49:38	][IC] Zacku zack: Sam do siebie.
+[20:49:38	]C17:RCT.YELLO-91 set allowVoice to '[true]'.
+[20:49:39	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[20:49:40	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[20:50:11	]Rak d has gone afk.
+[20:51:21	]Rak d is no longer afk. Total time spent AFK: 365
+[20:51:44	]Zacku zack ran 'Write' on item 'Newspaper' (#3686)
+[20:51:46	]C17:RCT.YELLO-91 ran 'Write' on item 'Newspaper' (#3686)
+[20:51:53	]C17:RCT.YELLO-91 ran 'Write' on item 'Newspaper' (#3686)
+[20:52:00	]C17:RCT.YELLO-91 ran 'take' on item 'Newspaper' (#3686)
+[20:52:00	]C17:RCT.YELLO-91 has gained a 'Newspaper' #3686.
+[20:52:04	]C17:RCT.YELLO-91 ran 'Write' on item 'Newspaper' (#3686)
+[20:52:16	]C17:RCT.YELLO-91 ran 'Write' on item 'Newspaper' (#3686)
+[20:52:36	]Zacku zack has spawned a paper.
+[20:52:41	]Zacku zack ran 'Write' on item 'Paper' (#3695)
+[20:54:58	]Recik (STEAM_0:1:57940784) has disconnected.
+[20:57:15	]C17:RCT.YELLO-91 has spawned a 'Entity [452][stormfox_digitalclock]'.
+[20:57:22	]C17:RCT.YELLO-91 has spawned a 'Entity [452][stormfox_weekweather]'.
+[20:57:32	]C17:RCT.YELLO-91 has used a context menu option with the name: rb655_make_animatable
+[20:57:36	]C17:RCT.YELLO-91 has used a context menu option with the name: rb655_dissolve
+[20:57:38	]C17:RCT.YELLO-91 has used a context menu option with the name: rb655_dissolve
+[20:57:41	]C17:RCT.YELLO-91 has spawned a 'Entity [454][env_atmosphere]'.
+[20:57:44	]C17:RCT.YELLO-91 has spawned a 'Entity [468][stormfox_weekweather]'.
+[20:57:46	]C17:RCT.YELLO-91 has used a context menu option with the name: rb655_make_animatable
+[20:57:50	]C17:RCT.YELLO-91 has spawned a 'Entity [454][stormfox_digitalclock]'.
+[20:57:56	]C17:RCT.YELLO-91 has spawned a 'Entity [468][stormfox_clock]'.
+[20:58:01	]C17:RCT.YELLO-91 has used a context menu option with the name: rb655_make_animatable
+[20:58:04	]C17:RCT.YELLO-91 has used a context menu option with the name: rb655_dissolve
+[20:59:03	]C17:RCT.YELLO-91 has spawned a 'Entity [453][stormfox_digitalclock]'.
+[20:59:31	]Zacku zack has spawned a capda.
+[20:59:34	]Zacku zack ran 'take' on item 'Civil Administration PDA' (#3696)
+[20:59:34	]Zacku zack has gained a 'Civil Administration PDA' #3696.
+[20:59:48	]Zacku zack has spawned a book.
+[20:59:53	]Zacku zack ran 'Write' on item 'Book' (#3697)
+[21:01:00	]Zacku zack entered observer.
+[21:01:06	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[21:01:16	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[21:01:18	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[21:01:26	]Zacku zack exited observer.
+[21:01:27	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[21:01:28	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[21:01:37	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[21:01:38	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[21:01:39	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[21:03:04	]Zacku zack ran 'Write' on item 'Book' (#3697)
+[21:03:09	]Zacku zack ran 'Write' on item 'Book' (#3697)
+[21:03:29	]C17:RCT.YELLO-91 ran 'Write' on item 'Book' (#3697)
+[21:04:06	]Zacku zack ran 'Equip' on item 'Civil Administration PDA' (#3696)
+[21:04:10	]Zacku zack ran 'EquipUn' on item 'Combine PDA' (#3668)
+[21:04:10	]Zacku zack ran 'Equip' on item 'Civil Administration PDA' (#3696)
+[21:04:51	]Zacku zack used command '/PlyWhitelist Zacku Civil Administration'.
+[21:04:59	]Chogacz has unloaded their "Zacku zack" character.
+[21:06:03	]Chogacz created the character 'Seks kocham'
+[21:06:03	]Chogacz loaded the character 'Seks kocham'
+[21:06:03	]Seks kocham has gained a '#04730's Identity Card' #3698.
+[21:06:03	]Seks kocham has gained a 'Combine PDA' #3699.
+[21:06:07	]Seks kocham ran SAM command 'goto' with arguments: 'yello'
+[21:06:12	]Seks kocham has given himself a capda.
+[21:06:12	]Seks kocham has gained a 'Civil Administration PDA' #3700.
+[21:06:16	]Seks kocham ran 'Equip' on item 'Civil Administration PDA' (#3700)
+[21:11:24	]C17:RCT.YELLO-91 has changed C17:RCT.YELLO-91's bodygroups.
+[21:13:54	]Seks kocham has given himself a audiobook_reading.
+[21:13:54	]Seks kocham has gained a '[Audio Player] Learn to Read' #3701.
+[21:14:43	]Seks kocham has spawned a musicradio4.
+[21:14:45	]Seks kocham ran 'Deploy' on item 'Synth Radio' (#3702)
+[21:14:53	]Seks kocham has used a context menu option with the name: remove
+[21:14:56	]Seks kocham has spawned a television.
+[21:14:57	]Seks kocham ran 'Place' on item 'Television' (#3703)
+[21:15:02	]Seks kocham entered observer.
+[21:15:02	]Seks kocham exited observer.
+[21:15:13	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[21:15:13	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[21:16:00	]Seks kocham used command '/Broadcast seks'.
+[21:16:10	]Seks kocham has used a context menu option with the name: remove
+[21:16:13	]Seks kocham has used a context menu option with the name: remove
+[21:16:27	]Seks kocham has spawned a turret_placer.
+[21:16:31	]Seks kocham ran 'take' on item 'Turret Placer' (#3704)
+[21:16:31	]Seks kocham has gained a 'Turret Placer' #3704.
+[21:16:37	]Seks kocham ran 'place' on item 'Turret Placer' (#3704)
+[21:16:52	]Seks kocham used command '/ToggleRaise'.
+[21:16:54	]Seks kocham has hit npc_turret_floor dealing 12 damage (CritChance was 0.42).
+[21:16:56	]Seks kocham has hit C17:RCT.YELLO-91 in the stomach dealing 12 damage (CritChance was 0.17).
+[21:16:56	]C17:RCT.YELLO-91 has taken 12 damage from Seks kocham.
+[21:16:59	]C17:RCT.YELLO-91 is fully healed.
+[21:17:08	]Seks kocham has hit npc_turret_floor dealing 12 damage (CritChance was 0.40).
+[21:17:08	]Seks kocham has hit npc_turret_floor dealing 12 damage (CritChance was 0.40).
+[21:17:08	]Seks kocham has hit npc_turret_floor dealing 12 damage (CritChance was 0.40).
+[21:17:08	]Seks kocham has hit npc_turret_floor dealing 12 damage (CritChance was 0.40).
+[21:17:09	]C17:RCT.YELLO-91 has used a context menu option with the name: rb655_self_destruct
+[21:17:26	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[21:17:27	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[21:17:27	]Seks kocham has spawned a rolledposter.
+[21:17:32	]Seks kocham ran 'take' on item 'Rolled Poster' (#3705)
+[21:17:32	]Seks kocham has gained a 'Rolled Poster' #3705.
+[21:17:36	]Seks kocham ran 'drop' on item 'Rolled Poster' (#3705)
+[21:17:36	]Seks kocham has lost a 'Rolled Poster' #3705.
+[21:17:40	]Seks kocham ran 'take' on item 'Rolled Poster' (#3705)
+[21:17:40	]Seks kocham has gained a 'Rolled Poster' #3705.
+[21:18:00	][OOC] Seks kocham: cho tu
+[21:18:10	]Seks kocham used command '/ToggleRaise'.
+[21:18:12	]Seks kocham has hit C17:RCT.YELLO-91 in the left leg dealing 5 damage (CritChance was 0.42).
+[21:18:12	]C17:RCT.YELLO-91 has taken 5 damage from Seks kocham.
+[21:18:12	]Seks kocham has hit C17:RCT.YELLO-91 in the left leg dealing 5 damage (CritChance was 0.42).
+[21:18:12	]C17:RCT.YELLO-91 has taken 5 damage from Seks kocham.
+[21:18:13	]Seks kocham has critically hit C17:RCT.YELLO-91 in the left leg dealing 5 damage (CritChance was 0.42).
+[21:18:13	]C17:RCT.YELLO-91 has taken 5 damage from Seks kocham.
+[21:18:14	]Seks kocham has hit C17:RCT.YELLO-91 in the right leg dealing 5 damage (CritChance was 0.42).
+[21:18:14	]C17:RCT.YELLO-91 was knocked unconscious and is bleeding out.
+[21:18:15	]Seks kocham used command '/ToggleRaise'.
+[21:18:17	]Seks kocham used command '/ToggleRaise'.
+[21:18:19	]Seks kocham has hit C17:RCT.YELLO-91 in the right leg dealing 0 damage (CritChance was 0.42).
+[21:18:19	]Seks kocham has hit C17:RCT.YELLO-91 in the right leg dealing 10 damage (CritChance was 0.42).
+[21:18:19	]C17:RCT.YELLO-91 was killed while bleeding out.
+[21:18:19	]Seks kocham has killed C17:RCT.YELLO-91 with player.
+[21:18:27	]Seks kocham destroyed a 'Newspaper Printer' #3660.
+[21:18:35	]C17:RCT.YELLO-91 ran SAM command 'goto' with arguments: 'seks'
+[21:18:37	]Seks kocham used command '/CheckCrime'.
+[21:18:43	]Seks kocham ran 'drop' on item 'Rolled Poster' (#3705)
+[21:18:43	]Seks kocham has lost a 'Rolled Poster' #3705.
+[21:18:47	]C17:RCT.YELLO-91 ran 'take' on item 'Rolled Poster' (#3705)
+[21:18:47	]C17:RCT.YELLO-91 has gained a 'Rolled Poster' #3705.
+[21:18:59	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[21:19:00	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[21:19:04	][IC] Seks kocham: /check crime.
+[21:19:11	]C17:RCT.YELLO-91 used command '/CheckCrime'.
+[21:19:16	]Seks kocham used command '/CheckCrime'.
+[21:20:07	]Seks kocham used command '/CheckCrime'.
+[21:20:15	]Seks kocham used command '/CheckStaff'.
+[21:20:19	]Seks kocham used command '/CheckStaff'.
+[21:20:29	]Seks kocham used command '/CheckPetty'.
+[21:20:36	]C17:RCT.YELLO-91 used command '/CheckPetty'.
+[21:21:49	]Seks kocham has fired a toolgun with the name: creator
+[21:21:50	]Seks kocham has fired a toolgun with the name: creator
+[21:21:50	]Seks kocham has fired a toolgun with the name: creator
+[21:21:50	]Seks kocham has fired a toolgun with the name: creator
+[21:21:51	]Seks kocham has fired a toolgun with the name: creator
+[21:21:52	]Seks kocham has fired a toolgun with the name: creator
+[21:21:52	]Seks kocham has fired a toolgun with the name: creator
+[21:21:58	]Seks kocham has spawned a 'NPC [436][npc_turret_floor]'.
+[21:22:31	]C17:RCT.YELLO-91 has fired a toolgun with the name: tesla
+[21:22:32	]C17:RCT.YELLO-91 has fired a toolgun with the name: tesla
+[21:22:33	]C17:RCT.YELLO-91 has fired a toolgun with the name: tesla
+[21:22:48	]C17:RCT.YELLO-91 has fired a toolgun with the name: tesla
+[21:22:54	]Seks kocham has given himself a quality_green.
+[21:22:54	]Seks kocham has gained a 'Quality Green Pill' #3706.
+[21:22:55	]Seks kocham has given himself a quality_red.
+[21:22:55	]Seks kocham has gained a 'Quality Red Pill' #3707.
+[21:22:56	]Seks kocham has given himself a quality_blue.
+[21:22:56	]Seks kocham has gained a 'Quality Blue Pill' #3708.
+[21:22:57	]Seks kocham has given himself a quality_yellow.
+[21:22:57	]Seks kocham has gained a 'Quality Yellow Pill' #3709.
+[21:22:59	]C17:RCT.YELLO-91 has fired a toolgun with the name: tesla
+[21:23:03	]C17:RCT.YELLO-91 has fired a toolgun with the name: tesla
+[21:23:06	]Seks kocham ran 'drop' on item 'Quality Red Pill' (#3707)
+[21:23:06	]Seks kocham has lost a 'Quality Red Pill' #3707.
+[21:23:07	]Seks kocham ran 'drop' on item 'Quality Green Pill' (#3706)
+[21:23:07	]Seks kocham has lost a 'Quality Green Pill' #3706.
+[21:23:08	]Seks kocham ran 'split' on item 'Quality Yellow Pill' (#3709)
+[21:23:08	]Seks kocham has gained a 'Quality Yellow Pill' #3710.
+[21:23:10	]Seks kocham ran 'drop' on item 'Quality Yellow Pill' (#3710)
+[21:23:10	]Seks kocham has lost a 'Quality Yellow Pill' #3710.
+[21:23:11	]Seks kocham ran 'split' on item 'Quality Blue Pill' (#3708)
+[21:23:11	]Seks kocham has gained a 'Quality Blue Pill' #3711.
+[21:23:12	]Seks kocham ran 'drop' on item 'Quality Blue Pill' (#3711)
+[21:23:12	]Seks kocham has lost a 'Quality Blue Pill' #3711.
+[21:23:14	]Seks kocham ran 'use' on item 'Quality Yellow Pill' (#3709)
+[21:23:14	]Seks kocham has gained a level 7 short boost in Percepcja.
+[21:23:15	]Seks kocham ran 'use' on item 'Quality Blue Pill' (#3708)
+[21:23:15	]Seks kocham has gained a level 7 short boost in Inteligencja.
+[21:23:16	]C17:RCT.YELLO-91 has fired a toolgun with the name: glow
+[21:23:18	]C17:RCT.YELLO-91 has fired a toolgun with the name: glow
+[21:23:19	]C17:RCT.YELLO-91 has fired a toolgun with the name: glow
+[21:23:23	]C17:RCT.YELLO-91 has fired a toolgun with the name: energyball
+[21:23:26	]Seks kocham has given himself a adrenaline.
+[21:23:26	]Seks kocham has gained a 'Adrenaline' #3712.
+[21:23:27	]C17:RCT.YELLO-91 has fired a toolgun with the name: energyball
+[21:23:31	]C17:RCT.YELLO-91 has fired a toolgun with the name: energyball
+[21:23:37	]C17:RCT.YELLO-91 has fired a toolgun with the name: steam
+[21:23:42	]Seks kocham has given himself a bandage.
+[21:23:42	]Seks kocham has gained a 'Bandage Roll' #3713.
+[21:23:44	]C17:RCT.YELLO-91 has fired a toolgun with the name: steam
+[21:23:45	]C17:RCT.YELLO-91 has fired a toolgun with the name: steam
+[21:23:53	]C17:RCT.YELLO-91 has fired a toolgun with the name: sparks
+[21:23:59	]C17:RCT.YELLO-91 has fired a toolgun with the name: sparks
+[21:24:05	]C17:RCT.YELLO-91 has fired a toolgun with the name: smoke_trail
+[21:24:06	]C17:RCT.YELLO-91 has fired a toolgun with the name: smoke_trail
+[21:24:06	]C17:RCT.YELLO-91 has fired a toolgun with the name: smoke_trail
+[21:24:09	]C17:RCT.YELLO-91 has fired a toolgun with the name: smoke_trail
+[21:24:11	]C17:RCT.YELLO-91 has fired a toolgun with the name: smoke_trail
+[21:24:16	]C17:RCT.YELLO-91 has fired a toolgun with the name: smoke_trail
+[21:24:19	]C17:RCT.YELLO-91 has fired a toolgun with the name: smoke_trail
+[21:24:22	]C17:RCT.YELLO-91 has fired a toolgun with the name: smoke_trail
+[21:24:35	]Seks kocham has spawned a tool_vehiclebench.
+[21:24:37	]Seks kocham ran 'Bolt' on item 'Vehicle Workbench' (#3714)
+[21:24:40	]Seks kocham ran 'Use' on item 'Vehicle Workbench' (#3714)
+[21:24:43	]C17:RCT.YELLO-91 has fired a toolgun with the name: smoke
+[21:24:53	]Seks kocham has spawned a 'Entity [463][ix_cmbcontainer]'.
+[21:24:56	]C17:RCT.YELLO-91 has fired a toolgun with the name: tesla
+[21:25:03	]C17:RCT.YELLO-91 ran 'Bolt' on item 'Vehicle Workbench' (#3714)
+[21:25:05	]C17:RCT.YELLO-91 ran 'PackUp' on item 'Vehicle Workbench' (#3714)
+[21:25:16	]C17:RCT.YELLO-91 has fired a toolgun with the name: tesla
+[21:25:17	]Seks kocham has given himself a cmbkey.
+[21:25:17	]Seks kocham has gained a 'Key-card for CMB Crate' #3715.
+[21:25:21	]C17:RCT.YELLO-91 has fired a toolgun with the name: tesla
+[21:25:27	]C17:RCT.YELLO-91 has fired a toolgun with the name: tesla
+[21:25:31	]C17:RCT.YELLO-91 has fired a toolgun with the name: tesla
+[21:26:02	]Seks kocham set PlayersToLoot to '1'.
+[21:26:26	]Seks kocham has spawned a 'Entity [464][ix_supplycontainer]'.
+[21:26:31	]Seks kocham has fired a toolgun with the name: remover
+[21:26:31	]Seks kocham has fired a toolgun with the name: remover
+[21:26:32	]Seks kocham has fired a toolgun with the name: remover
+[21:26:32	]Seks kocham has fired a toolgun with the name: remover
+[21:26:32	]Seks kocham has fired a toolgun with the name: remover
+[21:26:32	]Seks kocham has fired a toolgun with the name: remover
+[21:26:33	]Seks kocham has fired a toolgun with the name: remover
+[21:26:36	]Seks kocham has spawned a 'Entity [441][ix_militarycontainer]'.
+[21:26:38	]Seks kocham has spawned a 'Entity [444][ix_infestationcontainer]'.
+[21:26:39	]Seks kocham has spawned a 'Entity [445][ix_cmbcontainer]'.
+[21:26:41	]Seks kocham has spawned a 'Entity [446][ix_basiccontainer]'.
+[21:26:42	]Seks kocham has spawned a 'Entity [463][ix_advancedcontainer]'.
+[21:27:03	]Seks kocham has given himself a cmbkey.
+[21:27:03	]Seks kocham has gained a 'Key-card for CMB Crate' #3722.
+[21:27:03	]Seks kocham has given himself a militarykey.
+[21:27:04	]Seks kocham has gained a 'Key-card for Military Crate' #3723.
+[21:27:46	]C17:RCT.YELLO-91 has spawned a combine_card.
+[21:28:07	]C17:RCT.YELLO-91 has given himself a chess_dummy.
+[21:28:08	]C17:RCT.YELLO-91 has gained a 'Chess Table Assembly Kit' #3729.
+[21:28:14	]Seks kocham ran 'take' on item 'Basic Yellow Pill' (#3730)
+[21:28:14	]Seks kocham has gained a 'Basic Yellow Pill' #3730.
+[21:28:19	]C17:RCT.YELLO-91 has given himself a chess_dummy.
+[21:28:19	]C17:RCT.YELLO-91 has gained a 'Chess Table Assembly Kit' #3731.
+[21:28:26	]C17:RCT.YELLO-91 has spawned a militarykey.
+[21:28:27	]C17:RCT.YELLO-91 has spawned a cmbkey.
+[21:28:59	]Seks kocham has given himself a tool_toolkit.
+[21:28:59	]Seks kocham has gained a 'Toolkit' #3734.
+[21:29:03	]C17:RCT.YELLO-91 has given himself a tool_toolkit.
+[21:29:03	]C17:RCT.YELLO-91 has gained a 'Toolkit' #3735.
+[21:29:13	]Seks kocham has given himself a tool_knife.
+[21:29:13	]Seks kocham has gained a 'Kitchen Knife' #3736.
+[21:29:18	]C17:RCT.YELLO-91 has given himself a tool_wrench.
+[21:29:18	]C17:RCT.YELLO-91 has gained a 'Wrench' #3737.
+[21:29:19	]Seks kocham has given himself a tool_wrench.
+[21:29:19	]Seks kocham has gained a 'Wrench' #3738.
+[21:29:26	]Seks kocham has given himself a crowbar.
+[21:29:31	]Seks kocham has spawned a crowbar.
+[21:29:35	]Seks kocham ran 'drop' on item 'Toolkit' (#3734)
+[21:29:35	]Seks kocham has lost a 'Toolkit' #3734.
+[21:29:37	]Seks kocham ran 'take' on item 'Crowbar' (#3739)
+[21:29:39	]Seks kocham ran 'drop' on item 'Kitchen Knife' (#3736)
+[21:29:39	]Seks kocham has lost a 'Kitchen Knife' #3736.
+[21:29:40	]Seks kocham ran 'drop' on item '[Audio Player] Learn to Read' (#3701)
+[21:29:40	]Seks kocham has lost a '[Audio Player] Learn to Read' #3701.
+[21:29:40	]C17:RCT.YELLO-91 has given himself a crowbar.
+[21:29:40	]C17:RCT.YELLO-91 has gained a 'Crowbar' #3740.
+[21:29:41	]Seks kocham ran 'drop' on item 'Combine PDA' (#3699)
+[21:29:41	]Seks kocham has lost a 'Combine PDA' #3699.
+[21:29:42	]Seks kocham ran 'EquipUn' on item 'Civil Administration PDA' (#3700)
+[21:30:50	]C17:RCT.YELLO-91 ran 'take' on item 'Toolkit' (#3734)
+[21:30:50	]C17:RCT.YELLO-91 has gained a 'Toolkit' #3734.
+[21:31:04	]Seks kocham has given himself a cmbkey.
+[21:31:04	]Seks kocham has gained a 'Key-card for CMB Crate' #3742.
+[21:31:04	]Seks kocham has given himself a cmbkey.
+[21:31:04	]Seks kocham has gained a 'Key-card for CMB Crate' #3743.
+[21:31:05	]Seks kocham has given himself a cmbkey.
+[21:31:05	]Seks kocham has gained a 'Key-card for CMB Crate' #3744.
+[21:31:06	]Seks kocham has given himself a cmbkey.
+[21:31:06	]Seks kocham has gained a 'Key-card for CMB Crate' #3745.
+[21:31:12	]Seks kocham has spawned a 'Entity [441][ix_cmbcontainer]'.
+[21:31:12	]Seks kocham has spawned a 'Entity [444][ix_cmbcontainer]'.
+[21:31:13	]Seks kocham has spawned a 'Entity [445][ix_cmbcontainer]'.
+[21:31:14	]Seks kocham has spawned a 'Entity [451][ix_cmbcontainer]'.
+[21:31:32	]Seks kocham has fired a toolgun with the name: remover
+[21:31:32	]Seks kocham has fired a toolgun with the name: remover
+[21:31:33	]Seks kocham has fired a toolgun with the name: remover
+[21:31:34	]Seks kocham has fired a toolgun with the name: remover
+[21:31:54	]Seks kocham ran 'take' on item 'Flare' (#3749)
+[21:31:54	]Seks kocham has gained a 'Flare' #3749.
+[21:31:56	]Seks kocham ran 'Equip' on item 'Flare' (#3749)
+[21:31:57	]Seks kocham used command '/ToggleRaise'.
+[21:32:03	]C17:RCT.YELLO-91 has taken 10 damage from tfa_rustalpha_flare_thrown.
+[21:32:48	]Seks kocham has spawned a 'Entity [441][pfx1_08_~a]'.
+[21:32:50	]Seks kocham has fired a toolgun with the name: creator
+[21:32:50	]Seks kocham has spawned a 'Entity [444][pfx1_08_~a]'.
+[21:32:50	]Seks kocham has fired a toolgun with the name: creator
+[21:32:50	]Seks kocham has spawned a 'Entity [445][pfx1_08_~a]'.
+[21:32:50	]Seks kocham has fired a toolgun with the name: creator
+[21:32:50	]Seks kocham has spawned a 'Entity [451][pfx1_08_~a]'.
+[21:32:51	]Seks kocham has fired a toolgun with the name: creator
+[21:32:51	]Seks kocham has spawned a 'Entity [475][pfx1_08_~a]'.
+[21:33:13	]Seks kocham has fired a toolgun with the name: creator
+[21:33:13	]Seks kocham has spawned a 'Entity [441][ix_newspaperprinter]'.
+[21:33:22	]Seks kocham used command '/ToggleRaise'.
+[21:33:29	]Seks kocham has spawned a black_ink.
+[21:33:32	]Seks kocham has spawned a black_ink.
+[21:33:39	]Seks kocham has given himself a paper.
+[21:33:39	]Seks kocham has gained a 'Paper' #3756.
+[21:33:41	]Seks kocham has given himself a paper.
+[21:33:41	]Seks kocham has gained a 'Paper' #3757.
+[21:33:43	]Seks kocham ran 'drop' on item 'Paper' (#3757)
+[21:33:43	]Seks kocham has lost a 'Paper' #3757.
+[21:33:44	]Seks kocham ran 'drop' on item 'Paper' (#3756)
+[21:33:44	]Seks kocham has lost a 'Paper' #3756.
+[21:34:20	]Seks kocham has given himself a pda.
+[21:34:20	]Seks kocham has gained a 'Combine PDA' #3758.
+[21:34:22	]Seks kocham ran 'Equip' on item 'Combine PDA' (#3758)
+[21:34:33	][IC] Seks kocham: .
+[21:35:15	]Seks kocham ordered a shipment
+[21:35:42	]Seks kocham has spawned a paper.
+[21:35:43	]Seks kocham has spawned a paper.
+[21:35:43	]Seks kocham has spawned a paper.
+[21:35:43	]Seks kocham has spawned a paper.
+[21:35:43	]Seks kocham has spawned a paper.
+[21:35:43	]Seks kocham has spawned a paper.
+[21:35:43	]Seks kocham has spawned a paper.
+[21:35:44	]Seks kocham has spawned a paper.
+[21:35:44	]Seks kocham has spawned a paper.
+[21:35:44	]Seks kocham has spawned a paper.
+[21:35:52	]Seks kocham has spawned a newspaper_printer.
+[21:36:16	]Seks kocham ran 'take' on item 'Newspaper Printer' (#3769)
+[21:36:16	]Seks kocham has gained a 'Newspaper Printer' #3769.
+[21:36:20	]Seks kocham ran 'Place' on item 'Newspaper Printer' (#3769)
+[21:36:24	]C17:RCT.YELLO-91 ran 'take' on item 'Crowbar' (#3739)
+[21:36:52	]Seks kocham has spawned a paper.
+[21:36:54	]Seks kocham has spawned a paper.
+[21:36:55	]Seks kocham has spawned a paper.
+[21:36:58	]Seks kocham has spawned a black_ink.
+[21:37:13	]Seks kocham ordered a shipment
+[21:37:23	]Seks kocham took 'Newspaper' from the shipment
+[21:37:23	]Seks kocham has gained a 'Newspaper' #3774.
+[21:37:24	]Seks kocham took 'Newspaper' from the shipment
+[21:37:24	]Seks kocham has gained a 'Newspaper' #3775.
+[21:37:24	]Seks kocham took 'Newspaper' from the shipment
+[21:37:24	]Seks kocham has gained a 'Newspaper' #3776.
+[21:37:24	]Seks kocham took 'Newspaper' from the shipment
+[21:37:24	]Seks kocham has gained a 'Newspaper' #3777.
+[21:37:25	]Seks kocham took 'Newspaper' from the shipment
+[21:37:25	]Seks kocham has gained a 'Newspaper' #3778.
+[21:37:25	]Seks kocham took 'Newspaper' from the shipment
+[21:37:25	]Seks kocham has gained a 'Newspaper' #3779.
+[21:37:25	]Seks kocham took 'Newspaper' from the shipment
+[21:37:25	]Seks kocham has gained a 'Newspaper' #3780.
+[21:37:25	]Seks kocham took 'Newspaper' from the shipment
+[21:37:26	]Seks kocham has gained a 'Newspaper' #3781.
+[21:37:26	]Seks kocham took 'Newspaper' from the shipment
+[21:37:26	]Seks kocham has gained a 'Newspaper' #3782.
+[21:37:26	]Seks kocham took 'Newspaper' from the shipment
+[21:37:26	]Seks kocham has gained a 'Newspaper' #3783.
+[21:37:40	]Seks kocham ran 'drop' on item 'Seksior' (#3779)
+[21:37:40	]Seks kocham has lost a 'Seksior' #3779.
+[21:37:41	]Seks kocham ran 'drop' on item 'Seksior' (#3776)
+[21:37:41	]Seks kocham has lost a 'Seksior' #3776.
+[21:37:42	]Seks kocham ran 'drop' on item 'Seksior' (#3775)
+[21:37:42	]Seks kocham has lost a 'Seksior' #3775.
+[21:37:43	]Seks kocham ran 'drop' on item 'Seksior' (#3778)
+[21:37:43	]Seks kocham has lost a 'Seksior' #3778.
+[21:37:43	]Seks kocham ran 'drop' on item 'Seksior' (#3774)
+[21:37:43	]Seks kocham has lost a 'Seksior' #3774.
+[21:37:44	]Seks kocham ran 'drop' on item 'Seksior' (#3777)
+[21:37:44	]Seks kocham has lost a 'Seksior' #3777.
+[21:37:44	]Seks kocham ran 'drop' on item 'Seksior' (#3783)
+[21:37:44	]Seks kocham has lost a 'Seksior' #3783.
+[21:37:45	]Seks kocham ran 'drop' on item 'Seksior' (#3782)
+[21:37:45	]Seks kocham has lost a 'Seksior' #3782.
+[21:37:46	]Seks kocham ran 'drop' on item 'Seksior' (#3780)
+[21:37:46	]Seks kocham has lost a 'Seksior' #3780.
+[21:37:47	]Seks kocham ran 'drop' on item 'Seksior' (#3781)
+[21:37:47	]Seks kocham has lost a 'Seksior' #3781.
+[21:38:17	]C17:RCT.YELLO-91 ran 'take' on item 'Seksior' (#3781)
+[21:38:17	]C17:RCT.YELLO-91 has gained a 'Seksior' #3781.
+[21:38:18	]C17:RCT.YELLO-91 ran 'Write' on item 'Seksior' (#3780)
+[21:38:21	]C17:RCT.YELLO-91 ran 'Write' on item 'Seksior' (#3781)
+[21:38:26	]C17:RCT.YELLO-91 ran 'drop' on item 'Newspaper' (#3686)
+[21:38:26	]C17:RCT.YELLO-91 has lost a 'Newspaper' #3686.
+[21:38:37	]C17:RCT.YELLO-91 ran 'drop' on item 'Seksior' (#3781)
+[21:38:37	]C17:RCT.YELLO-91 has lost a 'Seksior' #3781.
+[21:39:02	]Seks kocham has spawned 'models/props_junk/PlasticCrate01a.mdl'.
+[21:39:03	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[21:39:17	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[21:39:23	]Seks kocham ran 'Write' on item 'Seksior' (#3781)
+[21:40:15	]Seks kocham has spawned 'models/c24_v3_infected/subway_plant_container.mdl'.
+[21:40:29	]C17:RCT.YELLO-91 has spawned 'models/wn/suppressor.mdl'.
+[21:40:33	]C17:RCT.YELLO-91 has spawned 'models/wn/wallhammer.mdl'.
+[21:41:03	]C17:RCT.YELLO-91 has spawned 'models/hlvr/combine_hazardprops/combinehazardprops_crate.mdl'.
+[21:41:05	]C17:RCT.YELLO-91 has spawned 'models/hlvr/combine_hazardprops/combinehazardprops_detector.mdl'.
+[21:41:10	]C17:RCT.YELLO-91 has spawned 'models/hlvr/distillery_gunk/distillerygunk_gunk.mdl'.
+[21:41:33	]C17:RCT.YELLO-91 has spawned 'models/sleepjie/bulletinboard.mdl'.
+[21:41:41	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[21:41:43	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[21:41:52	]C17:RCT.YELLO-91 has spawned 'models/sleepjie/bulletinboard.mdl'.
+[21:42:26	]C17:RCT.YELLO-91 has spawned 'models/sleepjie/bulletinboard.mdl'.
+[21:42:58	]C17:RCT.YELLO-91 has spawned 'models/willardnetworks/posters/wn_poster_1.mdl'.
+[21:43:04	]C17:RCT.YELLO-91 has spawned 'models/willardnetworks/foods/pickled.mdl'.
+[21:43:10	]C17:RCT.YELLO-91 has spawned 'models/willardnetworks/skills/bandaid.mdl'.
+[21:43:14	]C17:RCT.YELLO-91 has spawned 'models/freeman/arcade_pacman.mdl'.
+[21:43:21	]C17:RCT.YELLO-91 has spawned 'models/freeman/arcade_invaders.mdl'.
+[21:43:29	]C17:RCT.YELLO-91 has spawned 'models/freeman/arcade_pong.mdl'.
+[21:43:34	]C17:RCT.YELLO-91 has spawned 'models/fruity/pda.mdl'.
+[21:43:37	]C17:RCT.YELLO-91 has spawned 'models/fishy/furniture/piano_seat.mdl'.
+[21:43:45	]C17:RCT.YELLO-91 has spawned a paper.
+[21:43:51	]C17:RCT.YELLO-91 ran 'drop' on item 'Toolkit' (#3734)
+[21:43:51	]C17:RCT.YELLO-91 has lost a 'Toolkit' #3734.
+[21:43:52	]C17:RCT.YELLO-91 ran 'drop' on item 'Toolkit' (#3735)
+[21:43:52	]C17:RCT.YELLO-91 has lost a 'Toolkit' #3735.
+[21:43:57	]C17:RCT.YELLO-91 has spawned a notepad.
+[21:44:02	]C17:RCT.YELLO-91 has spawned a paper.
+[21:44:03	]C17:RCT.YELLO-91 has spawned a newspaper.
+[21:44:07	]C17:RCT.YELLO-91 ran 'Write' on item 'Paper' (#3784)
+[21:44:18	]C17:RCT.YELLO-91 ran 'take' on item 'Potrzebujemy pracowników!' (#3784)
+[21:44:18	]C17:RCT.YELLO-91 has gained a 'Potrzebujemy pracowników!' #3784.
+[21:44:23	]C17:RCT.YELLO-91 has given himself a pin.
+[21:44:23	]C17:RCT.YELLO-91 has gained a 'Pin' #3788.
+[21:44:42	]C17:RCT.YELLO-91 has spawned 'models/sleepjie/bulletinboard.mdl'.
+[21:44:44	]C17:RCT.YELLO-91 has taken 5 damage from prop_physics.
+[21:44:59	]C17:RCT.YELLO-91 ran 'Pin' on item 'Pin' (#3788)
+[21:45:02	]Seks kocham has given himself a flashlight.
+[21:45:02	]Seks kocham has gained a 'Flashlight' #3789.
+[21:45:03	]C17:RCT.YELLO-91 ran 'Pin' on item 'Pin' (#3788)
+[21:45:06	]Seks kocham used command '/ToggleRaise'.
+[21:45:09	]C17:RCT.YELLO-91 ran 'zTear' on item 'Potrzebujemy pracowników!' (#3784)
+[21:45:16	]C17:RCT.YELLO-91 ran 'drop' on item 'Potrzebujemy pracowników!' (#3784)
+[21:45:16	]C17:RCT.YELLO-91 has lost a 'Potrzebujemy pracowników!' #3784.
+[21:45:17	]C17:RCT.YELLO-91 ran 'Pin' on item 'Pin' (#3788)
+[21:45:18	]Seks kocham used command '/ToggleRaise'.
+[21:45:21	]C17:RCT.YELLO-91 ran 'Write' on item 'Potrzebujemy pracowników!' (#3784)
+[21:45:28	]C17:RCT.YELLO-91 has spawned 'models/sleepjie/opensign2.mdl'.
+[21:45:29	]C17:RCT.YELLO-91 has spawned 'models/sleepjie/opensign2.mdl'.
+[21:45:36	]C17:RCT.YELLO-91 has spawned 'models/props_combine/pickup_dispenser3.mdl'.
+[21:45:44	]C17:RCT.YELLO-91 has spawned 'models/willard/radiobob.mdl'.
+[21:45:50	]C17:RCT.YELLO-91 has spawned 'models/labware/grad1.mdl'.
+[21:45:51	]C17:RCT.YELLO-91 has spawned 'models/labware/grad2.mdl'.
+[21:45:53	]C17:RCT.YELLO-91 has spawned 'models/fiveeyesprops/prop_trophy.mdl'.
+[21:45:56	]C17:RCT.YELLO-91 has spawned 'models/willard/smelter.mdl'.
+[21:46:01	]C17:RCT.YELLO-91 has spawned 'models/willard/combine/checkin.mdl'.
+[21:46:06	]C17:RCT.YELLO-91 has spawned 'models/willardnetworks/posters/wn_poster_1.mdl'.
+[21:46:07	]C17:RCT.YELLO-91 has spawned 'models/willardnetworks/props/chips3.mdl'.
+[21:46:15	]C17:RCT.YELLO-91 has spawned 'models/willardnetworks/props/trash01.mdl'.
+[21:46:17	]C17:RCT.YELLO-91 has spawned 'models/willardnetworks/props/trash02.mdl'.
+[21:46:23	]C17:RCT.YELLO-91 has spawned 'models/wn7new/combine_cremator/cremator.mdl'.
+[21:46:32	]C17:RCT.YELLO-91 has spawned 'models/willardnetworks/cigarettes/lighter.mdl'.
+[21:46:35	]C17:RCT.YELLO-91 has spawned 'models/c24_v3_combine/combinewall_skybox01.mdl'.
+[21:46:41	]Seks kocham has spawned 'models/industrial_uniforms/industrial_uniform2.mdl'.
+[21:46:46	]C17:RCT.YELLO-91 has spawned 'models/sleepjie/bulletinboard.mdl'.
+[21:47:14	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[21:47:17	]Seks kocham has given himself a pin.
+[21:47:18	]Seks kocham has gained a 'Pin' #3790.
+[21:47:18	]C17:RCT.YELLO-91 ran SAM command 'noclip' with arguments: ''
+[21:47:21	]Seks kocham has given himself a newspaper.
+[21:47:21	]Seks kocham has gained a 'Newspaper' #3791.
+[21:47:23	]C17:RCT.YELLO-91 has given himself a paper.
+[21:47:23	]C17:RCT.YELLO-91 has gained a 'Paper' #3792.
+[21:47:24	]C17:RCT.YELLO-91 has given himself a pin.
+[21:47:24	]C17:RCT.YELLO-91 has gained a 'Pin' #3793.
+[21:47:27	]C17:RCT.YELLO-91 ran 'Write' on item 'Paper' (#3792)
+[21:47:46	]C17:RCT.YELLO-91 ran 'drop' on item 'Poszukujemy pracowników!!' (#3792)
+[21:47:46	]C17:RCT.YELLO-91 has lost a 'Poszukujemy pracowników!!' #3792.
+[21:47:50	]Seks kocham ran 'drop' on item 'Newspaper' (#3791)
+[21:47:50	]Seks kocham has lost a 'Newspaper' #3791.
+[21:47:59	]Seks kocham ran 'Pin' on item 'Pin' (#3790)
+[21:48:19	]C17:RCT.YELLO-91 ran 'Pin' on item 'Pin' (#3793)
+[21:48:24	]C17:RCT.YELLO-91 ran 'Write' on item 'Poszukujemy pracowników!!' (#3792)
+[21:48:31	]C17:RCT.YELLO-91 ran 'Write' on item 'Poszukujemy pracowników!!' (#3792)
+[21:48:34	]C17:RCT.YELLO-91 ran 'Write' on item 'Newspaper' (#3791)
+[21:48:44	]C17:RCT.YELLO-91 ran 'take' on item 'Poszukujemy pracowników!!' (#3792)
+[21:48:44	]C17:RCT.YELLO-91 has gained a 'Poszukujemy pracowników!!' #3792.
+[21:48:50	]C17:RCT.YELLO-91 ran 'take' on item 'Newspaper' (#3791)
+[21:48:50	]C17:RCT.YELLO-91 has gained a 'Newspaper' #3791.
+[21:49:10	]Seks kocham has spawned a safe.
+[21:49:15	]Seks kocham ran 'take' on item 'Safe' (#3794)
+[21:49:15	]Seks kocham has gained a 'Safe' #3794.
+[21:49:18	]Seks kocham ran 'Place' on item 'Safe' (#3794)
+[21:49:36	]Seks kocham ran 'drop' on item 'Safe' (#3794)
+[21:49:36	]Seks kocham has lost a 'Safe' #3794.
+[21:49:54	]Seks kocham ran 'take' on item 'Safe' (#3794)
+[21:49:54	]Seks kocham has gained a 'Safe' #3794.
+[21:50:56	]Seks kocham has given himself a request_device.
+[21:50:56	]Seks kocham has gained a 'Request Device' #3795.
+[21:50:58	]Seks kocham ran 'Bind' on item 'Request Device' (#3795)
+[21:51:12	]Seks kocham ran 'RequestCp' on item 'Request Device' (#3795)
+[21:52:11	]tomasz hedzik (STEAM_0:0:422062415) has disconnected.
+[21:52:12	]Chogacz (STEAM_0:1:36976287) has disconnected.

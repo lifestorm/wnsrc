@@ -1,0 +1,173 @@
+[18:36:11	]inkaaz has connected.
+[18:36:11	]inkaaz (STEAM_0:0:50287200) has disconnected.
+[18:39:23	]inkaaz has connected.
+[18:39:23	]inkaaz (STEAM_0:0:50287200) has disconnected.
+[18:43:03	]inkaaz has connected.
+[18:43:03	]inkaaz (STEAM_0:0:50287200) has disconnected.
+[18:45:10	]inkaaz has connected.
+[18:45:10	]inkaaz (STEAM_0:0:50287200) has disconnected.
+[19:07:18	]inkaaz has connected.
+[19:07:29	][AltChecker] inkaaz joined for the first time, generating new cookie.
+[19:10:26	]inkaaz created the character 'Henryk Cweles'
+[19:10:26	]Henryk Cweles has gained a 'Walizka' #1.
+[19:10:26	]Henryk Cweles has gained a 'Flashlight' #2.
+[19:10:26	]Henryk Cweles has gained a 'Jasnoszara opaska' #3.
+[19:10:26	]Henryk Cweles has gained a 'Karta identyfikacyjna #03254' #4.
+[19:10:26	]Henryk Cweles has gained a 'Uniform cywilny' #5.
+[19:10:26	]Henryk Cweles has gained a 'Cywilne luźne spodnie' #6.
+[19:10:26	]Henryk Cweles has gained a 'Buty z czarnej skóry' #7.
+[19:10:26	]Henryk Cweles has gained a 'Okulary' #8.
+[19:10:27	]inkaaz loaded the character 'Henryk Cweles'
+[19:11:07	]Henryk Cweles ran 'Equip' on item 'Jasnoszara opaska' (#3)
+[19:11:39	]Henryk Cweles ran 'drop' on item 'Uniform cywilny' (#5)
+[19:11:39	]Henryk Cweles has lost a 'Uniform cywilny' #5.
+[19:13:09	]inkaaz (STEAM_0:0:50287200) has disconnected (timed out).
+[19:21:26	]inkaaz has connected.
+[19:21:46	]Console ran SAM command 'setrank' with arguments: 'inkaaz' 'superadmin'
+[19:25:34	]inkaaz (STEAM_0:0:50287200) has disconnected.
+[19:35:44	]inkaaz has connected.
+[19:40:52	]inkaaz has connected.
+[19:42:13	]inkaaz created the character 'Henryk Cweles'
+[19:42:13	]inkaaz loaded the character 'Henryk Cweles'
+[19:42:13	]Henryk Cweles has gained a 'Walizka' #50796.
+[19:42:13	]Henryk Cweles has gained a 'Flashlight' #50797.
+[19:42:13	]Henryk Cweles has gained a 'Jasnoszara opaska' #50798.
+[19:42:13	]Henryk Cweles has gained a 'Karta identyfikacyjna #91942' #50799.
+[19:42:13	]Henryk Cweles has gained a 'Brązowy uniform' #50800.
+[19:42:13	]Henryk Cweles has gained a 'Cywilne luźne spodnie' #50801.
+[19:42:52	]Henryk Cweles ran 'Equip' on item 'Jasnoszara opaska' (#50798)
+[19:42:53	]Henryk Cweles ran 'Equip' on item 'Walizka' (#50796)
+[19:43:01	]Henryk Cweles ran 'drop' on item 'Brązowy uniform' (#50800)
+[19:43:01	]Henryk Cweles has lost a 'Brązowy uniform' #50800.
+[19:43:28	]Henryk Cweles entered observer.
+[19:43:30	]Henryk Cweles exited observer.
+[19:43:37	]Henryk Cweles entered observer.
+[19:43:38	]Henryk Cweles exited observer.
+[19:43:38	]Henryk Cweles entered observer.
+[19:43:39	]Henryk Cweles exited observer.
+[19:43:39	]Henryk Cweles entered observer.
+[19:43:39	]Henryk Cweles exited observer.
+[19:43:55	]Henryk Cweles has spawned 'models/weapons/c_ordinalriflearccw.mdl'.
+[19:44:01	]Henryk Cweles has spawned 'models/newvegas/wn_ghost.mdl'.
+[19:44:06	]Henryk Cweles has spawned a legs_jumpsuit_brown.
+[19:44:15	]Henryk Cweles has spawned a legs_black_padded_pants.
+[19:44:18	]Henryk Cweles entered observer.
+[19:44:23	]Henryk Cweles exited observer.
+[19:52:16	]inkaaz has connected.
+[19:52:44	]inkaaz loaded the character 'Henryk Cweles'
+[19:53:08	]Henryk Cweles has spawned a buttoned_white.
+[19:58:26	]inkaaz has connected.
+[19:58:51	]inkaaz loaded the character 'Henryk Cweles'
+[20:38:01	]inkaaz has connected.
+[20:38:14	]inkaaz loaded the character 'Henryk Cweles'
+[20:38:21	]Henryk Cweles entered observer.
+[20:38:22	]Henryk Cweles exited observer.
+[20:38:23	]Henryk Cweles entered observer.
+[20:38:23	]Henryk Cweles exited observer.
+[20:41:42	]Henryk Cweles has spawned a musicradio_cmb.
+[20:41:45	]Henryk Cweles ran 'Deploy' on item 'Radio Benefaktor' (#50805)
+[20:42:12	]Henryk Cweles entered observer.
+[20:42:13	]Henryk Cweles exited observer.
+[20:42:29	]Henryk Cweles has taken 5 damage from wn_musicradio.
+[20:43:13	]Henryk Cweles has spawned a tuner_cmb.
+[20:43:15	]Henryk Cweles ran 'take' on item 'Tuner radiowy zatwierdzony przez Kombinat' (#50806)
+[20:43:15	]Henryk Cweles has gained a 'Tuner radiowy zatwierdzony przez Kombinat' #50806.
+[20:43:18	]Henryk Cweles ran 'install' on item 'Tuner radiowy zatwierdzony przez Kombinat' (#50806)
+[20:43:23	]Henryk Cweles has spawned a tuner_reb.
+[20:43:24	]Henryk Cweles ran 'take' on item 'Tuner radiowy ruchu oporu' (#50807)
+[20:43:24	]Henryk Cweles has gained a 'Tuner radiowy ruchu oporu' #50807.
+[20:43:26	]Henryk Cweles ran 'install' on item 'Tuner radiowy ruchu oporu' (#50807)
+[20:43:31	]Henryk Cweles has spawned a musicradio_reb.
+[20:43:33	]Henryk Cweles ran 'take' on item 'Rebel Radio' (#50808)
+[20:43:33	]Henryk Cweles has gained a 'Rebel Radio' #50808.
+[20:43:35	]Henryk Cweles ran 'Deploy' on item 'Rebel Radio' (#50808)
+[20:47:20	]Henryk Cweles has spawned a 'NPC [168][npc_vj_hla_fcrab]'.
+[20:47:21	]Henryk Cweles entered observer.
+[20:47:27	]Henryk Cweles exited observer.
+[20:47:27	]Henryk Cweles entered observer.
+[20:47:32	]Henryk Cweles has spawned a 'NPC [168][npc_vj_hla_ocrab]'.
+[20:47:35	]Henryk Cweles has spawned a 'NPC [172][npc_vj_hla_zombie_unused]'.
+[20:47:39	]Henryk Cweles has spawned a 'NPC [168][npc_vj_hla_zombieclassic]'.
+[20:47:41	]Henryk Cweles has spawned a 'NPC [172][npc_vj_hla_zombiegunner]'.
+[20:47:56	]Henryk Cweles has spawned a 'NPC [168][npc_vj_hla_zombiereviver]'.
+[20:48:04	]Henryk Cweles has spawned a 'NPC [168][npc_vj_hla_zombie]'.
+[20:48:26	]Henryk Cweles has spawned a 'NPC [168][npc_antlion_schizo_drone]'.
+[20:48:53	]Henryk Cweles has spawned a anatomia_tom1.
+[20:48:55	]Henryk Cweles ran 'take' on item 'Anatomia Człowieka - Adam Bochenek' (#50809)
+[20:48:55	]Henryk Cweles has gained a 'Anatomia Człowieka - Adam Bochenek' #50809.
+[20:49:30	]Henryk Cweles has spawned a ccr_fatigues.
+[20:49:30	]Henryk Cweles exited observer.
+[20:49:32	]Henryk Cweles has spawned a ccr_fatigues.
+[20:49:33	]Henryk Cweles ran 'take' on item 'Strój polowy CCR' (#50811)
+[20:49:33	]Henryk Cweles has gained a 'Strój polowy CCR' #50811.
+[20:49:46	]Henryk Cweles has spawned a ccr_vest.
+[20:49:47	]Henryk Cweles has spawned a ccr_beret.
+[20:49:50	]Henryk Cweles ran 'take' on item 'Kamizelka Kuloodporna CCR' (#50812)
+[20:49:50	]Henryk Cweles has gained a 'Kamizelka Kuloodporna CCR' #50812.
+[20:49:55	]Henryk Cweles ran 'take' on item 'Czerwony beret' (#50813)
+[20:49:55	]Henryk Cweles has gained a 'Czerwony beret' #50813.
+[20:50:10	]Henryk Cweles entered observer.
+[20:50:10	]Henryk Cweles exited observer.
+[20:50:45	]inkaaz (STEAM_0:0:50287200) has disconnected.
+[21:36:16	]inkaaz has connected.
+[21:36:31	]inkaaz loaded the character 'Henryk Cweles'
+[21:36:47	]Henryk Cweles entered observer.
+[21:36:48	]Henryk Cweles exited observer.
+[21:36:58	]Henryk Cweles entered observer.
+[21:37:04	]Henryk Cweles has spawned a collab_coral.
+[21:37:05	]Henryk Cweles exited observer.
+[21:37:06	]Henryk Cweles entered observer.
+[21:37:08	]Henryk Cweles exited observer.
+[21:37:09	]Henryk Cweles has taken 5 damage from worldspawn.
+[21:37:26	]Henryk Cweles entered observer.
+[21:37:27	]Henryk Cweles exited observer.
+[21:38:54	]Henryk Cweles entered observer.
+[21:38:55	]Henryk Cweles exited observer.
+[21:38:56	]Henryk Cweles entered observer.
+[21:38:56	]Henryk Cweles exited observer.
+[21:57:22	]inkaaz has connected.
+[21:57:37	]inkaaz loaded the character 'Henryk Cweles'
+[21:57:48	]Henryk Cweles has spawned a buttoned_beige.
+[21:57:49	]Henryk Cweles ran 'take' on item 'Beżowa koszula zapinana na guziki' (#50815)
+[21:57:49	]Henryk Cweles has gained a 'Beżowa koszula zapinana na guziki' #50815.
+[21:58:24	]Henryk Cweles entered observer.
+[21:58:24	]Henryk Cweles exited observer.
+[21:59:25	]Henryk Cweles entered observer.
+[21:59:25	]Henryk Cweles exited observer.
+[21:59:53	]Henryk Cweles entered observer.
+[21:59:54	]Henryk Cweles exited observer.
+[22:06:37	]Henryk Cweles has gone afk.
+[22:08:42	]Henryk Cweles is no longer afk. Total time spent AFK: 420
+[22:08:49	]Henryk Cweles has spawned a cca_emir_armored.
+[22:08:51	]Henryk Cweles has spawned a cca_emir_armored.
+[22:08:52	]Henryk Cweles has spawned a cca_emir.
+[22:08:54	]Henryk Cweles has spawned a cca_emir_armored.
+[22:08:56	]Henryk Cweles has spawned a cca_emir_armored.
+[22:08:57	]Henryk Cweles has taken 5 damage from ix_item.
+[22:09:00	]Henryk Cweles has spawned a cca_urban_armored.
+[22:09:02	]Henryk Cweles ran 'take' on item 'Miejscowy Autokrata - opancerzony' (#50821)
+[22:09:02	]Henryk Cweles has gained a 'Miejscowy Autokrata - opancerzony' #50821.
+[22:09:32	]Henryk Cweles used command '/PlyWhitelist henryk vortigaunt'.
+[22:10:49	]inkaaz created the character 'wortygont'
+[22:10:49	]inkaaz loaded the character 'wortygont'
+[22:10:49	]wortygont has gained a 'Haki Vortigaunta' #50822.
+[22:10:49	]wortygont has gained a 'Kajdany Vortigaunta' #50823.
+[22:10:49	]wortygont has gained a 'Obroża Vortigaunta' #50824.
+[22:11:01	]wortygont used command '/vortessence'.
+[22:12:29	]wortygont has given himself a vortigaunt_head_fedora.
+[22:12:29	]wortygont has gained a 'Fedora dla Vortigaunta' #50825.
+[22:12:40	]wortygont has given himself a vortigaunt_trousers_darkgreen.
+[22:12:40	]wortygont has gained a 'Ciemnoszare spodnie dla Vortigaunta' #50826.
+[22:13:04	]wortygont used command '/UnlockShackles ^'.
+[22:13:16	]wortygont has given himself a vortigaunt_torso_sweater.
+[22:13:16	]wortygont has gained a 'Sweter dla Vortigaunta' #50827.
+[22:13:37	]wortygont has given himself a vortigaunt_trousers_dark.
+[22:13:37	]wortygont has gained a 'Ciemne spodnie dla Vortigaunta' #50828.
+[22:15:38	]wortygont has spawned a 'Entity [395][gmod_sent_vehicle_fphysics_base]'.
+[22:15:40	]wortygont entered observer.
+[22:15:41	]wortygont has spawned a 'Entity [395][gmod_sent_vehicle_fphysics_base]'.
+[22:15:42	]wortygont exited observer.
+[22:17:21	]wortygont entered observer.
+[22:17:28	]wortygont exited observer.
+[22:17:28	]wortygont has taken 80 damage from worldspawn.
+[22:17:33	]inkaaz (STEAM_0:0:50287200) has disconnected.

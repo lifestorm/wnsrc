@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	$baseTexture  "models\wystan\attachment2\akrail\newscope"
+	$bumpmap "null-bumpmap"
+	$phongexponenttexture "color/white"
+
+	$phong "1"
+	$phongalbedotint "1"
+	$phongboost "32"
+	$phongexponent "16"
+	$phongfresnelranges "[0.5 0.75 1.0]"
+
+}
+

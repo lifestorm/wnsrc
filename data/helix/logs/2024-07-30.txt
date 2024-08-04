@@ -1,0 +1,2752 @@
+[18:23:26	]inkaaz has connected.
+[18:23:50	]inkaaz loaded the character 'Henryk Cweles'
+[18:23:52	]Henryk Cweles entered observer.
+[18:23:55	]Henryk Cweles is fully healed.
+[18:25:28	]Henryk Cweles exited observer at their location.
+[18:25:39	]Henryk Cweles entered observer.
+[18:25:46	][INFESTATION] Henryk Cweles (STEAM_0:0:50287200)  has entered Infestation Edit Mode.
+[18:25:46	]Henryk Cweles used command '/InfestationEdit'.
+[18:26:06	]Henryk Cweles exited observer at their location.
+[18:26:07	]Henryk Cweles entered observer.
+[18:26:11	]Henryk Cweles exited observer at their location.
+[18:26:11	]Henryk Cweles has taken 27 damage from worldspawn.
+[18:26:13	]Henryk Cweles entered observer.
+[18:26:23	][INFESTATION] Henryk Cweles (STEAM_0:0:50287200) has exited Infestation Edit Mode.
+[18:27:25	]Henryk Cweles exited observer at their location.
+[18:27:27	]Henryk Cweles entered observer.
+[18:29:00	]Henryk Cweles exited observer at their location.
+[18:29:14	]Henryk Cweles has given himself a flashlight.
+[18:29:14	]Henryk Cweles has gained a 'Latarka' #51213.
+[18:29:43	]Henryk Cweles entered observer.
+[18:31:23	]Henryk Cweles exited observer at their location.
+[18:31:28	]Henryk Cweles entered observer.
+[18:31:34	]Henryk Cweles exited observer at their location.
+[18:31:43	]Henryk Cweles has taken 0 damage from worldspawn.
+[18:31:45	]Henryk Cweles has taken 2 damage from worldspawn.
+[18:31:47	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:31:49	]Henryk Cweles entered observer.
+[18:31:49	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:31:52	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:31:54	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:32:04	]Henryk Cweles exited observer at their location.
+[18:32:45	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:32:47	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:32:48	]Henryk Cweles ran SAM command 'hp' with arguments: '^' '500'
+[18:32:49	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:32:50	]Henryk Cweles is fully healed.
+[18:32:51	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:32:53	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:32:55	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:32:55	]Henryk Cweles is fully healed.
+[18:32:57	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:32:59	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:33:00	]Henryk Cweles entered observer.
+[18:33:00	]Henryk Cweles is fully healed.
+[18:33:01	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:33:03	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:33:05	]Henryk Cweles is fully healed.
+[18:33:05	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:33:07	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:33:10	]Henryk Cweles is fully healed.
+[18:33:13	]Matty has connected.
+[18:33:15	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:33:18	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:33:20	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:33:20	]Henryk Cweles is fully healed.
+[18:33:22	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:33:24	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:33:25	]Henryk Cweles is fully healed.
+[18:33:26	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:33:28	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:33:30	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:33:30	]Henryk Cweles is fully healed.
+[18:33:32	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:33:34	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:33:35	]Henryk Cweles is fully healed.
+[18:33:36	]Henryk Cweles has taken 4 damage from worldspawn.
+[18:33:39	]Matty loaded the character 'Johann Wagner'
+[18:33:40	]Henryk Cweles is fully healed.
+[18:33:41	]Johann Wagner was knocked unconscious and is bleeding out.
+[18:33:42	]Henryk Cweles exited observer at their location.
+[18:33:49	]Johann Wagner used command '/CharStopBleedout johann'.
+[18:33:53	]Johann Wagner ran SAM command 'hp' with arguments: '^' '100'
+[18:33:54	]Johann Wagner is no longer unconscious from critical wounds.
+[18:33:54	]Johann Wagner is fully healed.
+[18:33:56	]Johann Wagner entered observer.
+[18:34:06	]Johann Wagner ran SAM command 'goto' with arguments: 'cwel'
+[18:34:10	]Johann Wagner exited observer at their location.
+[18:35:22	][IC] Henryk Cweles: O kurw.
+[18:35:46	]Johann Wagner entered observer.
+[18:35:49	]Johann Wagner exited observer at their location.
+[18:35:58	]Johann Wagner used command '/ToggleRaise'.
+[18:36:50	]Johann Wagner entered observer.
+[18:37:06	]Henryk Cweles used command '/CharSetGasPoints ^ 50'.
+[18:37:10	]Henryk Cweles used command '/CharSetGasPoints ^ 120'.
+[18:37:13	]Johann Wagner used command '/ToggleRaise'.
+[18:37:14	]Johann Wagner exited observer at their location.
+[18:37:18	]Johann Wagner entered observer.
+[18:37:18	]Johann Wagner exited observer at their location.
+[18:37:20	]Johann Wagner has hit Henryk Cweles in the right leg dealing 2 damage (CritChance was 0.00).
+[18:37:20	]Henryk Cweles has taken 2 damage from Johann Wagner.
+[18:37:20	]Johann Wagner has hit Henryk Cweles in the stomach dealing 15 damage (CritChance was 0.00).
+[18:37:20	]Henryk Cweles has taken 15 damage from Johann Wagner.
+[18:37:20	]Henryk Cweles is fully healed.
+[18:37:30	]Henryk Cweles used command '/CharSetGasPoints ^ 60'.
+[18:37:34	]Henryk Cweles used command '/CharSetGasPoints ^ 0'.
+[18:37:41	]Johann Wagner used command '/ToggleRaise'.
+[18:37:44	]Johann Wagner has hit Henryk Cweles in the stomach dealing 15 damage (CritChance was 0.00).
+[18:37:44	]Henryk Cweles has taken 15 damage from Johann Wagner.
+[18:37:45	]Henryk Cweles is fully healed.
+[18:37:52	]Johann Wagner entered observer.
+[18:38:10	]Johann Wagner exited observer at their location.
+[18:38:29	][FRE] Henryk Cweles: chuj jebany cwel
+[18:38:35	][IC] Johann Wagner: O czym ty pierdolisz.
+[18:38:43	]Johann Wagner used command '/ToggleRaise'.
+[18:38:45	]Johann Wagner has hit Henryk Cweles in the chest dealing 0 damage (CritChance was 0.00).
+[18:38:45	]Johann Wagner has hit Henryk Cweles in the chest dealing 0 damage (CritChance was 0.00).
+[18:38:45	]Johann Wagner has hit Henryk Cweles in the chest dealing 15 damage (CritChance was 0.00).
+[18:38:45	]Henryk Cweles has taken 15 damage from Johann Wagner.
+[18:38:46	]Johann Wagner has hit Henryk Cweles in the chest dealing 0 damage (CritChance was 0.00).
+[18:38:46	]Johann Wagner has hit Henryk Cweles in the chest dealing 15 damage (CritChance was 0.00).
+[18:38:46	]Henryk Cweles has taken 15 damage from Johann Wagner.
+[18:38:46	]Johann Wagner used command '/ToggleRaise'.
+[18:38:50	]Henryk Cweles entered observer.
+[18:38:50	]Henryk Cweles is fully healed.
+[18:38:54	]Johann Wagner entered observer.
+[18:39:00	][INFESTATION] Henryk Cweles (STEAM_0:0:50287200)  has entered Infestation Edit Mode.
+[18:39:00	]Henryk Cweles used command '/InfestationEdit'.
+[18:39:02	]Johann Wagner exited observer at their location.
+[18:39:07	][INFESTATION] Henryk Cweles (STEAM_0:0:50287200) has exited Infestation Edit Mode.
+[18:39:13	]Henryk Cweles exited observer at their location.
+[18:39:15	]Johann Wagner entered observer.
+[18:39:16	]Henryk Cweles destroyed a 'Trash Bin' #51203.
+[18:39:17	]Henryk Cweles entered observer.
+[18:39:18	]Johann Wagner exited observer at their location.
+[18:39:20	]Johann Wagner entered observer.
+[18:39:23	][INFESTATION] Henryk Cweles (STEAM_0:0:50287200)  has entered Infestation Edit Mode.
+[18:39:23	]Henryk Cweles used command '/InfestationEdit'.
+[18:39:27	]Johann Wagner opened the 'Bird Nest' #3237 container.
+[18:39:28	]Johann Wagner closed the 'Bird Nest' #3237 container.
+[18:39:42	]Johann Wagner used command '/PlyWhitelist johann bird'.
+[18:39:44	]Henryk Cweles has spawned 'models/props_unique/wheelchair01.mdl'.
+[18:39:47	]Matty has unloaded their "Johann Wagner" character.
+[18:39:59	]Henryk Cweles exited observer at their location.
+[18:40:02	]Henryk Cweles has used a context menu option with the name: remove
+[18:40:09	]Matty created the character 'Kra Kra'
+[18:40:09	]Henryk Cweles has spawned 'models/jq/hlvr/props/infestation/p1/rock_1.mdl'.
+[18:40:11	]Henryk Cweles has spawned 'models/jq/hlvr/props/xenpack/xen_headcrab_cluster002.mdl'.
+[18:40:15	]Henryk Cweles has spawned 'models/jq/hlvr/props/xenpack/xen_flat_blob01_barrel_mush01.mdl'.
+[18:40:16	]Henryk Cweles entered observer.
+[18:40:16	]Matty loaded the character 'C24:RCT.YELLO-12'
+[18:40:18	]Henryk Cweles exited observer at their location.
+[18:40:21	]C24:RCT.YELLO-12 is fully healed.
+[18:40:37	]C24:RCT.YELLO-12 ran SAM command 'goto' with arguments: 'cweles'
+[18:40:39	]Henryk Cweles has spawned 'models/jq/hlvr/props/xenpack/xen_blob_corner_small_blob002.mdl'.
+[18:40:42	]Henryk Cweles has spawned 'models/jq/hlvr/props/xenpack/xen_flat_blob01.mdl'.
+[18:40:45	]Henryk Cweles has spawned 'models/jq/hlvr/props/xen/xen_foam_floor_wall001.mdl'.
+[18:41:00	][INFESTATION] Henryk Cweles (STEAM_0:0:50287200) created a new erebus-Class "ERUPCJA GARAŻOWA" Infestation Zone.
+[18:41:39	]C24:RCT.YELLO-12 has spawned a ic_cryogenic_liquid.
+[18:41:40	]C24:RCT.YELLO-12 has spawned a infestation_detector.
+[18:41:45	]C24:RCT.YELLO-12 has spawned a ic_caustic_solution.
+[18:41:46	]C24:RCT.YELLO-12 has spawned a ic_hydrocarbon_foam.
+[18:41:47	]C24:RCT.YELLO-12 has spawned a ic_anti_xenian_viviral.
+[18:41:49	]C24:RCT.YELLO-12 has spawned a ic_tank.
+[18:42:04	]C24:RCT.YELLO-12 ran 'take' on item 'detectorItemName' (#51215)
+[18:42:04	]C24:RCT.YELLO-12 has gained a 'detectorItemName' #51215.
+[18:42:09	]C24:RCT.YELLO-12 ran 'Calibrate' on item 'detectorItemName' (#51215)
+[18:42:14	]C24:RCT.YELLO-12 ran 'drop' on item 'detectorItemName' (#51215)
+[18:42:14	]C24:RCT.YELLO-12 has lost a 'detectorItemName' #51215.
+[18:42:18	]Henryk Cweles ran 'Calibrate' on item 'detectorItemName' (#51215)
+[18:42:19	]Henryk Cweles ran 'take' on item 'detectorItemName' (#51215)
+[18:42:19	]Henryk Cweles has gained a 'detectorItemName' #51215.
+[18:42:22	]Henryk Cweles ran 'Calibrate' on item 'detectorItemName' (#51215)
+[18:42:25	][INFESTATION] Henryk Cweles (STEAM_0:0:50287200) has exited Infestation Edit Mode.
+[18:42:28	]Henryk Cweles ran 'Calibrate' on item 'detectorItemName' (#51215)
+[18:42:30	]Henryk Cweles ran 'Calibrate' on item 'detectorItemName' (#51215)
+[18:42:34	]Henryk Cweles ran 'Calibrate' on item 'detectorItemName' (#51215)
+[18:42:41	]C24:RCT.YELLO-12 ran 'Insert' on item 'causticItemName' (#51216)
+[18:42:56	]Henryk Cweles has spawned 'models/barn/barndoor1.mdl'.
+[18:43:08	]C24:RCT.YELLO-12 ran 'take' on item 'hydrocarbonItemName' (#51217)
+[18:43:08	]C24:RCT.YELLO-12 has gained a 'hydrocarbonItemName' #51217.
+[18:43:12	]C24:RCT.YELLO-12 ran 'Insert' on item 'hydrocarbonItemName' (#51217)
+[18:43:13	]Henryk Cweles has spawned 'models/scene_building/sewer_system/tunnel_door.mdl'.
+[18:43:13	]C24:RCT.YELLO-12 ran 'take' on item 'tankItemName' (#51219)
+[18:43:13	]Henryk Cweles entered observer.
+[18:43:16	]Henryk Cweles has used a context menu option with the name: skin
+[18:43:19	]C24:RCT.YELLO-12 ran 'drop' on item 'Żywica' (#51075)
+[18:43:19	]C24:RCT.YELLO-12 has lost a 'Żywica' #51075.
+[18:43:19	]Henryk Cweles exited observer at their location.
+[18:43:20	]C24:RCT.YELLO-12 ran 'drop' on item 'Akumulator (Naładowany)' (#51043)
+[18:43:20	]C24:RCT.YELLO-12 has lost a 'Akumulator (Naładowany)' #51043.
+[18:43:22	]C24:RCT.YELLO-12 has used a context menu option with the name: rb655_dissolve
+[18:43:23	]C24:RCT.YELLO-12 has used a context menu option with the name: rb655_dissolve
+[18:43:24	]env_entity_dissolver destroyed a 'Akumulator (Naładowany)' #51043.
+[18:43:25	]C24:RCT.YELLO-12 ran 'take' on item 'tankItemName' (#51219)
+[18:43:25	]env_entity_dissolver destroyed a 'Żywica' #51075.
+[18:43:31	]C24:RCT.YELLO-12 ran 'take' on item 'tankItemName' (#51219)
+[18:43:31	]C24:RCT.YELLO-12 has gained a 'tankItemName' #51219.
+[18:43:38	]C24:RCT.YELLO-12 ran 'drop' on item 'tankItemName' (#51219)
+[18:43:53	]C24:RCT.YELLO-12 has spawned a ic_hose.
+[18:43:54	]C24:RCT.YELLO-12 ran 'take' on item 'hoseItemName' (#51220)
+[18:43:54	]C24:RCT.YELLO-12 has gained a 'hoseItemName' #51220.
+[18:43:56	]C24:RCT.YELLO-12 ran 'Attach' on item 'hoseItemName' (#51220)
+[18:44:08	]C24:RCT.YELLO-12 has spawned a applicator.
+[18:44:10	]C24:RCT.YELLO-12 ran 'take' on item 'applicatorItemName' (#51221)
+[18:44:10	]C24:RCT.YELLO-12 has gained a 'applicatorItemName' #51221.
+[18:44:14	]C24:RCT.YELLO-12 ran 'Attach' on item 'applicatorItemName' (#51221)
+[18:44:26	]C24:RCT.YELLO-12 ran 'Insert' on item 'hydrocarbonItemName' (#51217)
+[18:44:35	]C24:RCT.YELLO-12 has gained a 'applicatorItemName' #51222.
+[18:44:38	]C24:RCT.YELLO-12 ran 'Equip' on item 'applicatorItemName' (#51222)
+[18:44:44	]C24:RCT.YELLO-12 ran 'Equip' on item 'applicatorItemName' (#51222)
+[18:44:47	]C24:RCT.YELLO-12 has gained a 'hoseItemName' #51223.
+[18:44:49	]C24:RCT.YELLO-12 ran 'Connect' on item 'hoseItemName' (#51223)
+[18:44:53	]C24:RCT.YELLO-12 ran 'Connect' on item 'hoseItemName' (#51223)
+[18:44:57	]C24:RCT.YELLO-12 ran 'Equip' on item 'applicatorItemName' (#51222)
+[18:44:58	]C24:RCT.YELLO-12 ran 'Attach' on item 'applicatorItemName' (#51222)
+[18:45:00	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[18:45:22	]Henryk Cweles entered observer.
+[18:45:23	]Henryk Cweles exited observer at their location.
+[18:45:27	]C24:RCT.YELLO-12 ran 'EquipUn' on item 'applicatorItemName' (#51222)
+[18:45:29	]C24:RCT.YELLO-12 ran 'take' on item 'causticItemName' (#51216)
+[18:45:29	]C24:RCT.YELLO-12 has gained a 'causticItemName' #51216.
+[18:45:32	]C24:RCT.YELLO-12 ran 'Insert' on item 'causticItemName' (#51216)
+[18:45:38	]C24:RCT.YELLO-12 ran 'Equip' on item 'applicatorItemName' (#51222)
+[18:45:39	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[18:45:53	]C24:RCT.YELLO-12 ran 'Insert' on item 'causticItemName' (#51216)
+[18:46:08	]Henryk Cweles entered observer.
+[18:46:08	]Henryk Cweles exited observer at their location.
+[18:46:35	]C24:RCT.YELLO-12 ran 'take' on item 'cryogenicItemname' (#51214)
+[18:46:35	]C24:RCT.YELLO-12 has gained a 'cryogenicItemname' #51214.
+[18:46:38	]C24:RCT.YELLO-12 ran 'Insert' on item 'cryogenicItemname' (#51214)
+[18:46:40	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[18:46:58	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[18:47:28	]C24:RCT.YELLO-12 ran 'ConnectDis' on item 'hoseItemName' (#51223)
+[18:47:29	]C24:RCT.YELLO-12 ran 'EquipUn' on item 'applicatorItemName' (#51222)
+[18:47:34	]C24:RCT.YELLO-12 ran 'ConnectDis' on item 'hoseItemName' (#51223)
+[18:47:40	]C24:RCT.YELLO-12 has used a context menu option with the name: rb655_dissolve
+[18:47:41	]C24:RCT.YELLO-12 has used a context menu option with the name: rb655_dissolve
+[18:47:43	]env_entity_dissolver destroyed a 'viviralItemName' #51218.
+[18:47:43	]C24:RCT.YELLO-12 has used a context menu option with the name: rb655_dissolve
+[18:47:45	]C24:RCT.YELLO-12 has used a context menu option with the name: rb655_dissolve
+[18:47:47	]C24:RCT.YELLO-12 has used a context menu option with the name: rb655_dissolve
+[18:47:47	][IC] Henryk Cweles: Models/scene_building/small_rooms/1door.mdl.
+[18:47:49	]C24:RCT.YELLO-12 ran 'drop' on item 'hoseItemName' (#51223)
+[18:47:49	]C24:RCT.YELLO-12 has lost a 'hoseItemName' #51223.
+[18:47:50	]C24:RCT.YELLO-12 ran 'drop' on item 'applicatorItemName' (#51222)
+[18:47:50	]C24:RCT.YELLO-12 has lost a 'applicatorItemName' #51222.
+[18:47:52	]C24:RCT.YELLO-12 has used a context menu option with the name: rb655_dissolve
+[18:47:53	]C24:RCT.YELLO-12 has used a context menu option with the name: rb655_dissolve
+[18:47:54	]env_entity_dissolver destroyed a 'applicatorItemName' #51222.
+[18:47:55	]env_entity_dissolver destroyed a 'hoseItemName' #51223.
+[18:47:58	]Henryk Cweles has spawned 'models/scene_building/sewer_system/tunnel_pipe_long.mdl'.
+[18:47:59	]Henryk Cweles entered observer.
+[18:48:01	]C24:RCT.YELLO-12 entered observer.
+[18:48:02	]Henryk Cweles exited observer at their location.
+[18:48:04	]C24:RCT.YELLO-12 exited observer at their location.
+[18:48:05	]Henryk Cweles has spawned 'models/scene_building/sewer_system/tunnel_3sec.mdl'.
+[18:48:11	]Henryk Cweles entered observer.
+[18:48:14	]Henryk Cweles has spawned 'models/scene_building/sewer_system/tunnel_2sec.mdl'.
+[18:48:15	]Henryk Cweles has spawned 'models/scene_building/sewer_system/tunnel_3sec.mdl'.
+[18:48:16	]C24:RCT.YELLO-12 entered observer.
+[18:48:22	]Henryk Cweles has spawned 'models/scene_building/sewer_system/tunnel_pipe_ent.mdl'.
+[18:48:25	]C24:RCT.YELLO-12 exited observer at their location.
+[18:48:29	]Henryk Cweles has spawned 'models/scene_building/sewer_system/tunnel_pipe_ent_gate.mdl'.
+[18:48:33	]C24:RCT.YELLO-12 has spawned a rave.
+[18:48:33	]Henryk Cweles has used a context menu option with the name: skin
+[18:48:36	]C24:RCT.YELLO-12 ran 'Consume' on item 'RAVE' (#51224)
+[18:48:36	]C24:RCT.YELLO-12 has gained a level 5 short boost in Siła.
+[18:48:36	]Henryk Cweles exited observer at their location.
+[18:48:42	]Henryk Cweles has fired a toolgun with the name: nocollideworld
+[18:48:58	]Henryk Cweles entered observer.
+[18:48:58	]Henryk Cweles has spawned 'models/scene_building/sewer_system/tunnel_pipe_long.mdl'.
+[18:48:59	]C24:RCT.YELLO-12 entered observer.
+[18:49:01	]Henryk Cweles has used a context menu option with the name: skin
+[18:49:03	]Henryk Cweles has used a context menu option with the name: skin
+[18:49:04	]Henryk Cweles has used a context menu option with the name: skin
+[18:49:06	]C24:RCT.YELLO-12 exited observer at their location.
+[18:49:06	]Henryk Cweles has fired a toolgun with the name: rb655_easy_bodygroup
+[18:49:10	]Henryk Cweles exited observer at their location.
+[18:49:39	][IC] C24:RCT.YELLO-12: O japierdole ale mały.
+[18:50:11	]C24:RCT.YELLO-12 used command '/RemoveDrugEffects yello-12'.
+[18:50:14	]C24:RCT.YELLO-12 has spawned a drug_spikedcoffee.
+[18:50:16	]C24:RCT.YELLO-12 ran 'Consume' on item 'Zaprawiona kubek kawy' (#51225)
+[18:50:16	]C24:RCT.YELLO-12 has gained a level 3 long boost in Zręczność.
+[18:50:16	]C24:RCT.YELLO-12 has gained a 'Pusty kubek po kawie' #51226.
+[18:50:21	]C24:RCT.YELLO-12 used command '/RemoveDrugEffects yello-12'.
+[18:50:24	]C24:RCT.YELLO-12 has spawned a drug_transhumano.
+[18:50:26	]C24:RCT.YELLO-12 ran 'use' on item 'Transhumano' (#51227)
+[18:50:26	]C24:RCT.YELLO-12 extended their level 5 short boost in Siła.
+[18:50:26	]C24:RCT.YELLO-12 has gained a level -5 short boost in Zręczność.
+[18:50:26	]C24:RCT.YELLO-12 has gained a level -3 short boost in Inteligencja.
+[18:50:26	]C24:RCT.YELLO-12 has gained a level 6 short boost in Percepcja.
+[18:50:26	]C24:RCT.YELLO-12 has gained a 'Plastik' #51228.
+[18:50:41	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[18:50:44	]C24:RCT.YELLO-12 has hit Henryk Cweles dealing 7 damage (CritChance was 0.00).
+[18:50:44	]Henryk Cweles has taken 7 damage from C24:RCT.YELLO-12.
+[18:50:44	]C24:RCT.YELLO-12 has damaged Henryk Cweles, dealing 8.5 with ix_hands
+[18:50:45	]C24:RCT.YELLO-12 has hit Henryk Cweles dealing 7 damage (CritChance was 0.00).
+[18:50:45	]Henryk Cweles has taken 7 damage from C24:RCT.YELLO-12.
+[18:50:45	]C24:RCT.YELLO-12 has damaged Henryk Cweles, dealing 8.50051 with ix_hands
+[18:50:45	]Henryk Cweles is fully healed.
+[18:50:46	]C24:RCT.YELLO-12 has hit Henryk Cweles dealing 7 damage (CritChance was 0.00).
+[18:50:46	]Henryk Cweles has taken 7 damage from C24:RCT.YELLO-12.
+[18:50:46	]C24:RCT.YELLO-12 has damaged Henryk Cweles, dealing 8.50102 with ix_hands
+[18:50:47	]C24:RCT.YELLO-12 has hit Henryk Cweles dealing 7 damage (CritChance was 0.00).
+[18:50:47	]Henryk Cweles has taken 7 damage from C24:RCT.YELLO-12.
+[18:50:47	]C24:RCT.YELLO-12 has damaged Henryk Cweles, dealing 8.50153 with ix_hands
+[18:50:48	]C24:RCT.YELLO-12 has hit Henryk Cweles dealing 7 damage (CritChance was 0.00).
+[18:50:48	]Henryk Cweles has taken 7 damage from C24:RCT.YELLO-12.
+[18:50:48	]C24:RCT.YELLO-12 has damaged Henryk Cweles, dealing 8.50204 with ix_hands
+[18:50:49	]C24:RCT.YELLO-12 has hit Henryk Cweles dealing 7 damage (CritChance was 0.00).
+[18:50:49	]Henryk Cweles has taken 7 damage from C24:RCT.YELLO-12.
+[18:50:49	]C24:RCT.YELLO-12 has damaged Henryk Cweles, dealing 8.50255 with ix_hands
+[18:50:49	]C24:RCT.YELLO-12 has hit Henryk Cweles dealing 7 damage (CritChance was 0.00).
+[18:50:49	]Henryk Cweles has taken 7 damage from C24:RCT.YELLO-12.
+[18:50:49	]C24:RCT.YELLO-12 has damaged Henryk Cweles, dealing 8.50306 with ix_hands
+[18:50:50	]Henryk Cweles is fully healed.
+[18:50:50	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[18:50:58	]C24:RCT.YELLO-12 used command '/RemoveDrugEffects yello-12'.
+[18:50:59	]C24:RCT.YELLO-12 has spawned a drug_happypie.
+[18:51:03	]C24:RCT.YELLO-12 ran 'Consume' on item 'Szczęśliwy placuszek' (#51229)
+[18:51:03	]C24:RCT.YELLO-12 has gained a level 5 long boost in Siła.
+[18:51:03	]C24:RCT.YELLO-12 has gained a level 5 long boost in Zręczność.
+[18:51:15	][IC] Henryk Cweles: Models/scene_building/sewer_system/tunnel_pipe_ent_gate.mdl.
+[18:51:22	]C24:RCT.YELLO-12 entered observer.
+[18:51:33	][OOC] C24:RCT.YELLO-12: co ty robisz w tym garażu inkaaz
+[18:51:38	]Henryk Cweles entered observer.
+[18:51:50	]C24:RCT.YELLO-12 has spawned a drug_thirdeye.
+[18:51:52	]C24:RCT.YELLO-12 ran 'use' on item 'The Third Eye' (#51230)
+[18:51:52	]C24:RCT.YELLO-12 has updated their Siła short boost target to -5 (current : 5).
+[18:51:52	]C24:RCT.YELLO-12 has wasted a level -4 short boost in Zręczność (current: -5; target: 0).
+[18:51:52	]C24:RCT.YELLO-12 has gained a level 6 short boost in Inteligencja.
+[18:51:52	]C24:RCT.YELLO-12 extended their level 6 short boost in Percepcja.
+[18:51:52	]C24:RCT.YELLO-12 has gained a 'Strzykawka' #51231.
+[18:51:59	]C24:RCT.YELLO-12 exited observer at their location.
+[18:52:02	]C24:RCT.YELLO-12 has spawned a drug_milkyway.
+[18:52:03	]C24:RCT.YELLO-12 ran 'Consume' on item 'Droga Mleczna' (#51232)
+[18:52:03	]C24:RCT.YELLO-12 has wasted a level -3 long boost in Siła (current: 0; target: 5).
+[18:52:03	]C24:RCT.YELLO-12 has wasted a level -3 long boost in Zręczność (current: 0; target: 5).
+[18:52:03	]C24:RCT.YELLO-12 has gained a level 4 long boost in Inteligencja.
+[18:52:03	]C24:RCT.YELLO-12 has gained a level 4 long boost in Percepcja.
+[18:52:03	]C24:RCT.YELLO-12 has gained a 'Pusty kartonik po mleku' #51233.
+[18:52:04	][OOC] Henryk Cweles: super sekretny tunnel z mózgogrzybem
+[18:52:05	]C24:RCT.YELLO-12 has spawned a sapphire_dust.
+[18:52:06	]C24:RCT.YELLO-12 ran 'Consume' on item 'Star Dust' (#51234)
+[18:52:06	]C24:RCT.YELLO-12 has updated their Siła short boost target to -3 (current : 5).
+[18:52:06	]C24:RCT.YELLO-12 extended their level 6 short boost in Percepcja.
+[18:52:06	]C24:RCT.YELLO-12 has wasted a level 5 short boost in Inteligencja (current: -3; target: 6).
+[18:52:09	]C24:RCT.YELLO-12 entered observer.
+[18:52:09	]C24:RCT.YELLO-12 exited observer at their location.
+[18:52:17	]Henryk Cweles exited observer at their location.
+[18:52:18	]Henryk Cweles entered observer.
+[18:52:18	]Henryk Cweles exited observer at their location.
+[18:52:28	][OOC] Henryk Cweles: ale nie moga znalezc skad te scenebuild propy są
+[18:52:32	][OOC] C24:RCT.YELLO-12: japierdole stary ale faza
+[18:52:41	]Henryk Cweles has used a context menu option with the name: bone_manipulate
+[18:52:44	]Henryk Cweles has used a context menu option with the name: bone_manipulate
+[18:52:45	]Henryk Cweles has used a context menu option with the name: bone_manipulate
+[18:52:47	]Henryk Cweles has used a context menu option with the name: bone_manipulate
+[18:52:52	]Henryk Cweles has set C24:RCT.YELLO-12's description to gnój.
+[18:52:52	]Henryk Cweles has used a context menu option with the name: ixsetchardescription
+[18:53:00	]C24:RCT.YELLO-12 used command '/CharDesc'.
+[18:53:04	]Henryk Cweles entered observer.
+[18:53:11	]Henryk Cweles exited observer at their location.
+[18:53:18	]C24:RCT.YELLO-12 used command '/CharDesc'.
+[18:53:43	]Henryk Cweles entered observer.
+[18:53:45	]Henryk Cweles exited observer at their location.
+[18:53:47	]Henryk Cweles entered observer.
+[18:53:58	]Henryk Cweles exited observer at their location.
+[18:54:01	]Henryk Cweles entered observer.
+[18:54:02	]Henryk Cweles exited observer at their location.
+[18:54:05	]Henryk Cweles entered observer.
+[18:54:07	]Henryk Cweles exited observer at their location.
+[18:54:16	]C24:RCT.YELLO-12 used command '/RemoveDrugEffects yello'.
+[18:54:26	]C24:RCT.YELLO-12 is fully healed.
+[18:54:26	]Henryk Cweles entered observer.
+[18:54:30	]Henryk Cweles exited observer at their location.
+[18:54:41	]C24:RCT.YELLO-12 entered observer.
+[18:54:45	]C24:RCT.YELLO-12 entered observer.
+[18:54:45	]C24:RCT.YELLO-12 exited observer at their location.
+[18:54:51	]C24:RCT.YELLO-12 is fully healed.
+[18:54:58	]C24:RCT.YELLO-12 entered observer.
+[18:54:59	]C24:RCT.YELLO-12 entered observer.
+[18:55:00	]C24:RCT.YELLO-12 exited observer at their location.
+[18:55:06	]C24:RCT.YELLO-12 is fully healed.
+[18:55:26	]Henryk Cweles entered observer.
+[18:55:48	]Henryk Cweles exited observer at their location.
+[18:56:07	]Henryk Cweles entered observer.
+[18:56:09	]Henryk Cweles exited observer at their location.
+[18:57:04	]Henryk Cweles used command '/CharSetModel ^ models/vj_hlr/decay/wheelchair_sci.mdl'.
+[18:57:25	]Henryk Cweles used command '/CharSetModel ^ models/vj_hlr/hl1/agrunt.mdl'.
+[18:58:00	]C24:RCT.YELLO-12 entered observer.
+[18:58:01	]C24:RCT.YELLO-12 entered observer.
+[18:58:04	]Henryk Cweles used command '/CharSetModel ^ models/vj_hlr/sven/tor.mdl'.
+[18:58:08	]C24:RCT.YELLO-12 exited observer at their location.
+[18:58:08	]C24:RCT.YELLO-12 entered observer.
+[18:58:10	]C24:RCT.YELLO-12 exited observer at their location.
+[18:58:11	]C24:RCT.YELLO-12 entered observer.
+[18:58:14	][OOC] Henryk Cweles: król wortygontów
+[18:58:14	]C24:RCT.YELLO-12 exited observer at their location.
+[18:58:20	]C24:RCT.YELLO-12 entered observer.
+[18:58:31	]C24:RCT.YELLO-12 is fully healed.
+[18:59:11	]C24:RCT.YELLO-12 entered observer.
+[18:59:17	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[18:59:21	]C24:RCT.YELLO-12 entered observer.
+[18:59:22	]C24:RCT.YELLO-12 destroyed a 'Granat błyskowy' #51018.
+[18:59:50	]C24:RCT.YELLO-12 exited observer at their location.
+[18:59:52	]Henryk Cweles used command '/CharSetModel ^ models/vj_hlr/opfor/strooper.mdl'.
+[18:59:59	]C24:RCT.YELLO-12 entered observer.
+[19:00:03	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[19:00:05	]C24:RCT.YELLO-12 exited observer at their location.
+[19:00:20	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[19:00:24	]C24:RCT.YELLO-12 has hit Henryk Cweles in the head dealing 23 damage (CritChance was 0.10).
+[19:00:24	]Henryk Cweles has taken 23 damage from C24:RCT.YELLO-12.
+[19:00:24	]C24:RCT.YELLO-12 has hit Henryk Cweles in the head dealing 23 damage (CritChance was 0.12).
+[19:00:24	]Henryk Cweles has taken 23 damage from C24:RCT.YELLO-12.
+[19:00:24	]C24:RCT.YELLO-12 has hit Henryk Cweles in the head dealing 23 damage (CritChance was 0.12).
+[19:00:24	]Henryk Cweles has taken 23 damage from C24:RCT.YELLO-12.
+[19:00:24	]C24:RCT.YELLO-12 has hit Henryk Cweles in the head dealing 23 damage (CritChance was 0.12).
+[19:00:24	]Henryk Cweles has taken 23 damage from C24:RCT.YELLO-12.
+[19:00:25	]Henryk Cweles is fully healed.
+[19:00:25	]C24:RCT.YELLO-12 has critically hit Henryk Cweles in the left arm dealing 20 damage (CritChance was 0.37).
+[19:00:25	]Henryk Cweles has taken 20 damage from C24:RCT.YELLO-12.
+[19:00:25	]C24:RCT.YELLO-12 has critically hit Henryk Cweles in the left arm dealing 20 damage (CritChance was 0.37).
+[19:00:25	]Henryk Cweles has taken 20 damage from C24:RCT.YELLO-12.
+[19:00:25	]C24:RCT.YELLO-12 has hit Henryk Cweles in the chest dealing 23 damage (CritChance was 0.37).
+[19:00:25	]Henryk Cweles has taken 23 damage from C24:RCT.YELLO-12.
+[19:00:25	]C24:RCT.YELLO-12 has hit Henryk Cweles in the chest dealing 23 damage (CritChance was 0.37).
+[19:00:25	]Henryk Cweles has taken 23 damage from C24:RCT.YELLO-12.
+[19:00:28	]C24:RCT.YELLO-12 has critically hit Henryk Cweles in the chest dealing 25 damage (CritChance was 0.37).
+[19:00:28	]Henryk Cweles has taken 25 damage from C24:RCT.YELLO-12.
+[19:00:28	]C24:RCT.YELLO-12 has hit Henryk Cweles in the chest dealing 23 damage (CritChance was 0.37).
+[19:00:28	]Henryk Cweles has taken 23 damage from C24:RCT.YELLO-12.
+[19:00:28	]C24:RCT.YELLO-12 has hit Henryk Cweles in the chest dealing 23 damage (CritChance was 0.37).
+[19:00:28	]Henryk Cweles has taken 23 damage from C24:RCT.YELLO-12.
+[19:00:28	]C24:RCT.YELLO-12 has hit Henryk Cweles in the chest dealing 23 damage (CritChance was 0.37).
+[19:00:28	]Henryk Cweles has taken 23 damage from C24:RCT.YELLO-12.
+[19:00:28	]C24:RCT.YELLO-12 has hit Henryk Cweles in the chest dealing 23 damage (CritChance was 0.37).
+[19:00:28	]Henryk Cweles has taken 23 damage from C24:RCT.YELLO-12.
+[19:00:28	]C24:RCT.YELLO-12 has hit Henryk Cweles in the chest dealing 23 damage (CritChance was 0.37).
+[19:00:28	]Henryk Cweles has taken 23 damage from C24:RCT.YELLO-12.
+[19:00:32	]Henryk Cweles used command '/CharSetModel ^ models/vj_hlr/decay/wheelchair_sci.mdl'.
+[19:00:46	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[19:00:48	]C24:RCT.YELLO-12 has hit Henryk Cweles in the chest dealing 8 damage (CritChance was 0.37).
+[19:00:48	]Henryk Cweles has taken 8 damage from C24:RCT.YELLO-12.
+[19:00:52	]C24:RCT.YELLO-12 has hit Henryk Cweles in the right arm dealing 5 damage (CritChance was 0.37).
+[19:00:52	]Henryk Cweles has taken 5 damage from C24:RCT.YELLO-12.
+[19:00:52	]C24:RCT.YELLO-12 has hit Henryk Cweles in the right arm dealing 5 damage (CritChance was 0.37).
+[19:00:52	]Henryk Cweles has taken 5 damage from C24:RCT.YELLO-12.
+[19:00:55	]C24:RCT.YELLO-12 has critically hit Henryk Cweles in the stomach dealing 8 damage (CritChance was 0.49).
+[19:00:55	]Henryk Cweles has taken 8 damage from C24:RCT.YELLO-12.
+[19:00:58	]C24:RCT.YELLO-12 has hit Henryk Cweles in the right arm dealing 5 damage (CritChance was 0.37).
+[19:00:58	]Henryk Cweles has taken 5 damage from C24:RCT.YELLO-12.
+[19:00:58	]C24:RCT.YELLO-12 has hit Henryk Cweles in the right arm dealing 5 damage (CritChance was 0.37).
+[19:00:58	]Henryk Cweles has taken 5 damage from C24:RCT.YELLO-12.
+[19:00:59	]C24:RCT.YELLO-12 has hit Henryk Cweles in the chest dealing 8 damage (CritChance was 0.37).
+[19:00:59	]Henryk Cweles was knocked unconscious and is bleeding out.
+[19:01:10	]C24:RCT.YELLO-12 used command '/CharStopBleedout cwel'.
+[19:01:12	]Henryk Cweles used command '/CharGetUp'.
+[19:01:13	]Henryk Cweles used command '/CharGetUp'.
+[19:01:14	]C24:RCT.YELLO-12 ran SAM command 'hp' with arguments: 'cweles' '100'
+[19:01:15	]Henryk Cweles is no longer unconscious from critical wounds.
+[19:01:15	]Henryk Cweles is fully healed.
+[19:01:33	]Henryk Cweles has dropped: Komputer Obywatela (#51044); detectorItemName (#51132); RAVE (#51035); Latarka (#51213); Strój polowy CCR (#51055); Kamizelka Kuloodporna CCR (#51056); Hełm balistyczny (#51057); Rękawiczki medyczne (#51050); Łosoś (#51122); detectorItemName (#51215);
+[19:01:33	]Henryk Cweles ran SAM command 'slay' with arguments: '^'
+[19:01:37	]Henryk Cweles entered observer.
+[19:01:37	]Henryk Cweles exited observer at their location.
+[19:01:38	]Henryk Cweles entered observer.
+[19:01:40	]Henryk Cweles exited observer at their location.
+[19:01:42	]Henryk Cweles entered observer.
+[19:01:44	]Henryk Cweles exited observer at their location.
+[19:02:00	]Henryk Cweles used command '/CharStopBleedout ^'.
+[19:02:10	][OOC] Henryk Cweles: admin sektora
+[19:02:25	]Henryk Cweles has used a context menu option with the name: remove
+[19:02:28	]Henryk Cweles entered observer.
+[19:02:28	]Henryk Cweles exited observer at their location.
+[19:02:29	]Henryk Cweles entered observer.
+[19:02:30	]Henryk Cweles exited observer at their location.
+[19:02:34	]Henryk Cweles entered observer.
+[19:02:34	]Henryk Cweles exited observer at their location.
+[19:02:38	]Henryk Cweles entered observer.
+[19:02:39	]Henryk Cweles exited observer at their location.
+[19:02:39	][OOC] C24:RCT.YELLO-12: co ci zbugowalem
+[19:02:39	]Henryk Cweles entered observer.
+[19:02:40	]Henryk Cweles exited observer at their location.
+[19:02:41	][OOC] C24:RCT.YELLO-12: chuja ci zbugowalem
+[19:02:42	]Henryk Cweles entered observer.
+[19:02:43	]Henryk Cweles exited observer at their location.
+[19:02:49	][OOC] Henryk Cweles: dales mi hp na bleedoucie!!
+[19:02:49	]Henryk Cweles entered observer.
+[19:02:51	]Henryk Cweles exited observer at their location.
+[19:02:57	][OOC] C24:RCT.YELLO-12: dalem ci 100 po anulowaniu bleed outa
+[19:03:10	][OOC] Henryk Cweles: moja postac jest uposledzona
+[19:03:12	][OOC] Henryk Cweles: po tym wypadku!!!
+[19:03:19	][OOC] C24:RCT.YELLO-12: mam dobrego prawnik
+[19:03:20	][OOC] C24:RCT.YELLO-12: a
+[19:03:28	]Henryk Cweles entered observer.
+[19:03:29	]Henryk Cweles exited observer at their location.
+[19:03:33	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[19:03:49	]C24:RCT.YELLO-12 entered observer.
+[19:03:52	]C24:RCT.YELLO-12 exited observer at their location.
+[19:04:04	]C24:RCT.YELLO-12 used command '/CharGiveItem yello toolkit 1'.
+[19:04:08	]C24:RCT.YELLO-12 entered observer.
+[19:04:37	]Henryk Cweles entered observer.
+[19:04:38	]Henryk Cweles exited observer at their location.
+[19:05:02	]C24:RCT.YELLO-12 exited observer at their location.
+[19:05:03	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[19:05:07	]C24:RCT.YELLO-12 has hit Henryk Cweles in the right leg dealing 8 damage (CritChance was 0.37).
+[19:05:07	]Henryk Cweles has taken 8 damage from C24:RCT.YELLO-12.
+[19:05:07	]C24:RCT.YELLO-12 has critically hit Henryk Cweles in the stomach dealing 13 damage (CritChance was 0.49).
+[19:05:07	]Henryk Cweles has taken 13 damage from C24:RCT.YELLO-12.
+[19:05:14	]C24:RCT.YELLO-12 has critically hit Henryk Cweles in the chest dealing 13 damage (CritChance was 0.37).
+[19:05:14	]Henryk Cweles has taken 13 damage from C24:RCT.YELLO-12.
+[19:05:14	]C24:RCT.YELLO-12 has hit Henryk Cweles in the chest dealing 12 damage (CritChance was 0.37).
+[19:05:14	]Henryk Cweles has taken 12 damage from C24:RCT.YELLO-12.
+[19:05:15	]Henryk Cweles has spawned a 'NPC [608][npc_vj_crabsynth2_z]'.
+[19:05:15	]C24:RCT.YELLO-12 has critically hit Henryk Cweles in the left arm dealing 10 damage (CritChance was 0.37).
+[19:05:15	]Henryk Cweles has taken 10 damage from C24:RCT.YELLO-12.
+[19:05:15	]C24:RCT.YELLO-12 has hit Henryk Cweles in the left arm dealing 8 damage (CritChance was 0.37).
+[19:05:15	]Henryk Cweles has taken 8 damage from C24:RCT.YELLO-12.
+[19:05:15	]C24:RCT.YELLO-12 has critically hit Henryk Cweles in the left arm dealing 10 damage (CritChance was 0.37).
+[19:05:15	]Henryk Cweles has taken 10 damage from C24:RCT.YELLO-12.
+[19:05:15	]C24:RCT.YELLO-12 has critically hit Henryk Cweles in the left arm dealing 10 damage (CritChance was 0.37).
+[19:05:15	]Henryk Cweles has taken 10 damage from C24:RCT.YELLO-12.
+[19:05:15	]C24:RCT.YELLO-12 has hit Henryk Cweles in the chest dealing 12 damage (CritChance was 0.37).
+[19:05:15	]Henryk Cweles has taken 12 damage from C24:RCT.YELLO-12.
+[19:05:15	]C24:RCT.YELLO-12 has hit Henryk Cweles in the chest dealing 12 damage (CritChance was 0.37).
+[19:05:15	]Henryk Cweles was knocked unconscious and is bleeding out.
+[19:05:16	]C24:RCT.YELLO-12 has taken 60 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 1 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 1 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 1 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 1 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 1 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 1 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 1 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 1 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 1 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 1 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 1 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 1 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:18	]C24:RCT.YELLO-12 was knocked unconscious and is bleeding out.
+[19:05:21	]Henryk Cweles used command '/CharStopBleedout ^'.
+[19:05:23	]Henryk Cweles ran SAM command 'hp' with arguments: '^' '100'
+[19:05:25	]Henryk Cweles is no longer unconscious from critical wounds.
+[19:05:25	]Henryk Cweles is fully healed.
+[19:05:34	]C24:RCT.YELLO-12 used command '/CharStopBleedout yello'.
+[19:05:36	]C24:RCT.YELLO-12 ran SAM command 'hp' with arguments: '^' '100'
+[19:05:36	]C24:RCT.YELLO-12 is no longer unconscious from critical wounds.
+[19:05:36	]C24:RCT.YELLO-12 is fully healed.
+[19:05:37	]C24:RCT.YELLO-12 entered observer.
+[19:05:44	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[19:05:45	]C24:RCT.YELLO-12 exited observer at their location.
+[19:05:46	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:47	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:47	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:47	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:47	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:47	]Henryk Cweles has taken 40 damage from Crab Synth.
+[19:05:47	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:47	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:47	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:47	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:48	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:48	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:48	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:48	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:48	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:48	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:48	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:48	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:48	]Henryk Cweles has taken 40 damage from Crab Synth.
+[19:05:48	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:49	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:49	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:49	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:49	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:49	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:49	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:49	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:49	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:49	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:50	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:50	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:50	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:50	]Henryk Cweles has taken 3 damage from Crab Synth.
+[19:05:50	]Henryk Cweles has taken 3 damage from Crab Synth.
+[19:05:50	]Henryk Cweles has taken 3 damage from Crab Synth.
+[19:05:50	]Henryk Cweles has taken 3 damage from Crab Synth.
+[19:05:50	]Henryk Cweles has taken 3 damage from Crab Synth.
+[19:05:51	]Henryk Cweles has taken 3 damage from Crab Synth.
+[19:05:51	]Henryk Cweles was knocked unconscious and is bleeding out.
+[19:05:51	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:51	]C24:RCT.YELLO-12 has taken 1 damage from Crab Synth.
+[19:05:51	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:51	]C24:RCT.YELLO-12 has taken 1 damage from Crab Synth.
+[19:05:51	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:51	]C24:RCT.YELLO-12 has taken 1 damage from Crab Synth.
+[19:05:51	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:51	]C24:RCT.YELLO-12 has taken 1 damage from Crab Synth.
+[19:05:51	]Henryk Cweles used command '/CharGetUp'.
+[19:05:51	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:51	]C24:RCT.YELLO-12 has taken 1 damage from Crab Synth.
+[19:05:51	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:51	]C24:RCT.YELLO-12 has taken 1 damage from Crab Synth.
+[19:05:52	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:52	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:52	]C24:RCT.YELLO-12 has taken 3 damage from Crab Synth.
+[19:05:52	]C24:RCT.YELLO-12 has taken 6 damage from Crab Synth.
+[19:05:54	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:55	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:55	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:55	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:55	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:55	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:55	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:55	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:55	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:55	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:56	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:56	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:56	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:56	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:56	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:56	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:56	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:56	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:56	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:57	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:57	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:57	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:57	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:57	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:57	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:57	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:05:57	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:57	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:58	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:05:58	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:06:03	]C24:RCT.YELLO-12 entered observer.
+[19:06:06	]Henryk Cweles was just killed due to: accepting their death
+[19:06:07	]Henryk Cweles entered observer.
+[19:06:08	]Henryk Cweles exited observer at their location.
+[19:06:09	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:06:09	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:06:09	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:06:09	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:06:09	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:06:09	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:06:09	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:06:09	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:06:10	]Henryk Cweles entered observer.
+[19:06:10	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:06:10	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:06:10	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:06:10	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 18 damage (CritChance was 0.62).
+[19:06:10	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:06:10	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:06:10	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:06:10	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:06:10	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:06:11	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:06:11	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:06:11	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:06:11	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 22 damage (CritChance was 0.62).
+[19:06:13	]Henryk Cweles exited observer at their location.
+[19:06:13	]Henryk Cweles entered observer.
+[19:06:14	]Henryk Cweles exited observer at their location.
+[19:06:15	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[19:06:17	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:17	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:17	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:17	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:17	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:17	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:17	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:17	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:18	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:18	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:18	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:18	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:18	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:18	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:18	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:18	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:18	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:18	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:18	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:18	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:18	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:18	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:18	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:18	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:19	]C24:RCT.YELLO-12 exited observer at their location.
+[19:06:21	]C24:RCT.YELLO-12 entered observer.
+[19:06:21	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:21	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:21	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:21	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:21	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:21	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:21	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:21	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:22	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:22	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:22	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:22	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:22	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:22	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:23	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:23	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:23	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:23	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:23	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:23	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:23	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:23	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:24	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:24	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:24	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:24	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:24	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:24	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:24	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:24	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:25	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:25	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:25	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:25	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:25	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:25	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:25	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:25	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:26	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:26	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:26	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:26	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:26	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:26	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:26	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:26	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:27	]Henryk Cweles entered observer.
+[19:06:27	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:27	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:27	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:27	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:27	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:28	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:28	]C24:RCT.YELLO-12 has critically hit npc_vj_crabsynth2_z dealing 12 damage (CritChance was 0.60).
+[19:06:28	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:28	]C24:RCT.YELLO-12 has hit npc_vj_crabsynth2_z dealing 9 damage (CritChance was 0.60).
+[19:06:32	]Henryk Cweles exited observer at their location.
+[19:06:32	]Henryk Cweles entered observer.
+[19:06:34	]Henryk Cweles exited observer at their location.
+[19:06:37	]C24:RCT.YELLO-12 exited observer at their location.
+[19:06:42	][OOC] C24:RCT.YELLO-12: inkaaz
+[19:06:45	][OOC] C24:RCT.YELLO-12: patrz na ten terminal
+[19:06:47	][OOC] C24:RCT.YELLO-12: to jest zjebane
+[19:06:52	][OOC] Henryk Cweles: to napraw
+[19:06:59	][OOC] C24:RCT.YELLO-12: chodzi o ilość sparków
+[19:07:00	]Henryk Cweles has spawned a tool_toolkit.
+[19:07:02	][OOC] C24:RCT.YELLO-12: i odległość
+[19:07:05	]C24:RCT.YELLO-12 ran 'take' on item 'Skrzynka z narzędziami' (#51235)
+[19:07:05	]C24:RCT.YELLO-12 has gained a 'Skrzynka z narzędziami' #51235.
+[19:07:10	][OOC] Henryk Cweles: strach sie bać
+[19:07:12	][OOC] Henryk Cweles: musisz odegrac rp
+[19:07:38	]Henryk Cweles has given himself a tool_toolkit.
+[19:07:38	]Henryk Cweles has gained a 'Skrzynka z narzędziami' #51236.
+[19:07:39	]C24:RCT.YELLO-12 ran 'RepairObject' on item 'Skrzynka z narzędziami' (#51235)
+[19:07:40	]Henryk Cweles ran 'RepairObject' on item 'Skrzynka z narzędziami' (#51236)
+[19:07:48	][OOC] Henryk Cweles: bez akcji /me
+[19:07:53	][OOC] Henryk Cweles: aha...
+[19:07:58	]C24:RCT.YELLO-12 has fixed a Pickup Terminal
+[19:08:09	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[19:08:14	]C24:RCT.YELLO-12 has hit Henryk Cweles in the right arm dealing 2 damage (CritChance was 0.00).
+[19:08:14	]Henryk Cweles has taken 2 damage from C24:RCT.YELLO-12.
+[19:08:21	]C24:RCT.YELLO-12 entered observer.
+[19:08:26	]Henryk Cweles entered observer.
+[19:08:28	]Henryk Cweles exited observer at their location.
+[19:08:29	]Henryk Cweles entered observer.
+[19:08:29	]Henryk Cweles exited observer at their location.
+[19:08:30	]C24:RCT.YELLO-12 exited observer at their location.
+[19:08:30	]Henryk Cweles entered observer.
+[19:08:31	]Henryk Cweles exited observer at their location.
+[19:08:31	]C24:RCT.YELLO-12 entered observer.
+[19:08:32	]C24:RCT.YELLO-12 exited observer at their location.
+[19:08:33	]C24:RCT.YELLO-12 entered observer.
+[19:08:35	]C24:RCT.YELLO-12 exited observer at their location.
+[19:08:36	]C24:RCT.YELLO-12 entered observer.
+[19:08:53	]C24:RCT.YELLO-12 exited observer at their location.
+[19:08:54	]C24:RCT.YELLO-12 entered observer.
+[19:09:06	]C24:RCT.YELLO-12 exited observer at their location.
+[19:09:07	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[19:09:29	][OOC] C24:RCT.YELLO-12: strzelanie w cwelów pomaga mi sie skupić
+[19:09:30	]C24:RCT.YELLO-12 entered observer.
+[19:09:32	]C24:RCT.YELLO-12 exited observer at their location.
+[19:09:41	]C24:RCT.YELLO-12 entered observer.
+[19:10:00	]Henryk Cweles entered observer.
+[19:10:02	]Henryk Cweles exited observer at their location.
+[19:10:03	]Henryk Cweles entered observer.
+[19:10:04	]Henryk Cweles exited observer at their location.
+[19:10:05	]Henryk Cweles entered observer.
+[19:10:05	]Henryk Cweles exited observer at their location.
+[19:10:07	]C24:RCT.YELLO-12 exited observer at their location.
+[19:10:07	]C24:RCT.YELLO-12 entered observer.
+[19:10:07	]C24:RCT.YELLO-12 exited observer at their location.
+[19:10:08	]C24:RCT.YELLO-12 entered observer.
+[19:10:08	]C24:RCT.YELLO-12 exited observer at their location.
+[19:10:09	]C24:RCT.YELLO-12 entered observer.
+[19:10:09	]Henryk Cweles entered observer.
+[19:10:10	]C24:RCT.YELLO-12 exited observer at their location.
+[19:10:11	]C24:RCT.YELLO-12 entered observer.
+[19:10:13	]Henryk Cweles exited observer at their location.
+[19:10:13	]C24:RCT.YELLO-12 exited observer at their location.
+[19:10:14	]C24:RCT.YELLO-12 entered observer.
+[19:10:19	]C24:RCT.YELLO-12 exited observer at their location.
+[19:10:20	]C24:RCT.YELLO-12 entered observer.
+[19:10:20	]C24:RCT.YELLO-12 exited observer at their location.
+[19:10:21	]C24:RCT.YELLO-12 entered observer.
+[19:10:23	]C24:RCT.YELLO-12 exited observer at their location.
+[19:10:23	]C24:RCT.YELLO-12 entered observer.
+[19:10:23	]C24:RCT.YELLO-12 exited observer at their location.
+[19:10:24	]C24:RCT.YELLO-12 entered observer.
+[19:10:26	]C24:RCT.YELLO-12 exited observer at their location.
+[19:10:26	]C24:RCT.YELLO-12 entered observer.
+[19:10:27	]C24:RCT.YELLO-12 exited observer at their location.
+[19:10:27	]C24:RCT.YELLO-12 entered observer.
+[19:10:28	]C24:RCT.YELLO-12 exited observer at their location.
+[19:10:29	]C24:RCT.YELLO-12 entered observer.
+[19:10:31	]C24:RCT.YELLO-12 exited observer at their location.
+[19:10:38	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[19:10:49	]C24:RCT.YELLO-12 has hit Henryk Cweles in the right arm dealing 10 damage (CritChance was 0.00).
+[19:10:49	]Henryk Cweles has taken 10 damage from C24:RCT.YELLO-12.
+[19:10:49	][VORT] C24:RCT.YELLO-12 has damaged Henryk Cweles dealing 15 with vortpyro
+[19:10:49	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:49	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:49	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:49	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:50	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:50	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:50	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:50	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:50	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:51	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:51	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:51	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:51	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:51	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:52	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:52	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:52	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:52	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:52	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:53	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:53	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:53	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:53	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:53	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:54	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:54	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:54	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:54	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:54	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:55	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:55	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:55	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:55	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:55	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:56	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:56	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:56	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:56	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:56	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:57	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:57	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:57	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:57	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:57	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:58	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:58	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:58	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:58	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:58	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:59	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:59	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:59	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:59	]Henryk Cweles has taken 1 damage from entityflame.
+[19:10:59	]Henryk Cweles has taken 1 damage from entityflame.
+[19:11:00	]Henryk Cweles has taken 1 damage from entityflame.
+[19:11:00	]Henryk Cweles has taken 1 damage from entityflame.
+[19:11:00	]Henryk Cweles has taken 1 damage from entityflame.
+[19:11:00	]Henryk Cweles has taken 1 damage from entityflame.
+[19:11:00	]Henryk Cweles has taken 1 damage from entityflame.
+[19:11:01	]Henryk Cweles has taken 1 damage from entityflame.
+[19:11:05	]Henryk Cweles has dropped: Skrzynka z narzędziami (#51236);
+[19:11:05	]Henryk Cweles ran SAM command 'slay' with arguments: '^'
+[19:11:12	]Henryk Cweles entered observer.
+[19:11:13	]Henryk Cweles exited observer at their location.
+[19:11:14	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[19:11:22	]C24:RCT.YELLO-12 has gained level 6 in the Broń palna skill.
+[19:11:25	]C24:RCT.YELLO-12 entered observer.
+[19:11:25	]C24:RCT.YELLO-12 exited observer at their location.
+[19:11:26	]C24:RCT.YELLO-12 entered observer.
+[19:11:29	]C24:RCT.YELLO-12 exited observer at their location.
+[19:11:30	]C24:RCT.YELLO-12 entered observer.
+[19:11:32	]C24:RCT.YELLO-12 exited observer at their location.
+[19:11:33	]C24:RCT.YELLO-12 entered observer.
+[19:11:34	]C24:RCT.YELLO-12 exited observer at their location.
+[19:11:35	]C24:RCT.YELLO-12 entered observer.
+[19:11:37	]C24:RCT.YELLO-12 exited observer at their location.
+[19:11:38	]C24:RCT.YELLO-12 entered observer.
+[19:11:58	]C24:RCT.YELLO-12 exited observer at their location.
+[19:11:59	]C24:RCT.YELLO-12 entered observer.
+[19:11:59	]C24:RCT.YELLO-12 exited observer at their location.
+[19:12:00	]C24:RCT.YELLO-12 entered observer.
+[19:12:02	]C24:RCT.YELLO-12 exited observer at their location.
+[19:12:03	]C24:RCT.YELLO-12 entered observer.
+[19:12:06	]C24:RCT.YELLO-12 exited observer at their location.
+[19:12:06	]Henryk Cweles entered observer.
+[19:12:06	]C24:RCT.YELLO-12 entered observer.
+[19:12:07	]C24:RCT.YELLO-12 exited observer at their location.
+[19:12:08	]C24:RCT.YELLO-12 entered observer.
+[19:12:10	]Henryk Cweles exited observer at their location.
+[19:12:11	]C24:RCT.YELLO-12 exited observer at their location.
+[19:12:13	]C24:RCT.YELLO-12 entered observer.
+[19:12:15	]C24:RCT.YELLO-12 exited observer at their location.
+[19:12:16	]C24:RCT.YELLO-12 entered observer.
+[19:12:18	]C24:RCT.YELLO-12 exited observer at their location.
+[19:12:20	]C24:RCT.YELLO-12 entered observer.
+[19:12:21	]C24:RCT.YELLO-12 exited observer at their location.
+[19:12:23	]C24:RCT.YELLO-12 entered observer.
+[19:12:25	]C24:RCT.YELLO-12 exited observer at their location.
+[19:12:26	]C24:RCT.YELLO-12 entered observer.
+[19:12:27	]C24:RCT.YELLO-12 exited observer at their location.
+[19:12:28	]Henryk Cweles entered observer.
+[19:12:30	]C24:RCT.YELLO-12 entered observer.
+[19:12:31	]C24:RCT.YELLO-12 exited observer at their location.
+[19:12:31	]Henryk Cweles exited observer at their location.
+[19:12:31	]C24:RCT.YELLO-12 entered observer.
+[19:12:35	]C24:RCT.YELLO-12 exited observer at their location.
+[19:12:36	]C24:RCT.YELLO-12 entered observer.
+[19:12:37	]C24:RCT.YELLO-12 exited observer at their location.
+[19:12:39	]C24:RCT.YELLO-12 entered observer.
+[19:12:40	]C24:RCT.YELLO-12 exited observer at their location.
+[19:12:41	]C24:RCT.YELLO-12 entered observer.
+[19:12:44	]C24:RCT.YELLO-12 exited observer at their location.
+[19:12:46	]C24:RCT.YELLO-12 entered observer.
+[19:12:46	]C24:RCT.YELLO-12 exited observer at their location.
+[19:12:48	]C24:RCT.YELLO-12 entered observer.
+[19:12:50	]C24:RCT.YELLO-12 exited observer at their location.
+[19:12:52	]C24:RCT.YELLO-12 entered observer.
+[19:13:01	]Henryk Cweles used command '/SetShopTerminalCost 5'.
+[19:13:09	]Henryk Cweles used command '/LinkShopTerminal 03'.
+[19:13:10	]Henryk Cweles entered observer.
+[19:13:11	]Henryk Cweles exited observer at their location.
+[19:13:17	]inkaaz loaded the character 'wortygont'
+[19:13:19	]wortygont entered observer.
+[19:13:20	]wortygont exited observer at their location.
+[19:13:20	]wortygont entered observer.
+[19:13:21	]wortygont exited observer at their location.
+[19:13:22	]wortygont is fully healed.
+[19:13:23	]inkaaz (STEAM_0:0:50287200) has disconnected.
+[19:13:32	]Matty has unloaded their "C24:RCT.YELLO-12" character.
+[19:13:45	]Matty loaded the character 'C24:RCT.YELLO-12'
+[19:13:47	]C24:RCT.YELLO-12 entered observer.
+[19:13:54	]C24:RCT.YELLO-12 exited observer at their location.
+[19:13:55	]C24:RCT.YELLO-12 entered observer.
+[19:13:57	]C24:RCT.YELLO-12 exited observer at their location.
+[19:13:58	]C24:RCT.YELLO-12 entered observer.
+[19:14:00	]C24:RCT.YELLO-12 exited observer at their location.
+[19:14:01	]C24:RCT.YELLO-12 entered observer.
+[19:14:02	]C24:RCT.YELLO-12 exited observer at their location.
+[19:14:02	]C24:RCT.YELLO-12 entered observer.
+[19:14:03	]C24:RCT.YELLO-12 exited observer at their location.
+[19:14:04	]C24:RCT.YELLO-12 entered observer.
+[19:14:10	]C24:RCT.YELLO-12 exited observer at their location.
+[19:14:11	]C24:RCT.YELLO-12 entered observer.
+[19:14:39	]C24:RCT.YELLO-12 exited observer at their location.
+[19:14:39	]C24:RCT.YELLO-12 entered observer.
+[19:14:49	]C24:RCT.YELLO-12 exited observer at their location.
+[19:14:50	]C24:RCT.YELLO-12 entered observer.
+[19:14:53	]C24:RCT.YELLO-12 exited observer at their location.
+[19:14:54	]C24:RCT.YELLO-12 entered observer.
+[19:14:56	]C24:RCT.YELLO-12 exited observer at their location.
+[19:14:57	]C24:RCT.YELLO-12 entered observer.
+[19:14:58	]C24:RCT.YELLO-12 exited observer at their location.
+[19:14:59	]C24:RCT.YELLO-12 entered observer.
+[19:15:00	]C24:RCT.YELLO-12 exited observer at their location.
+[19:15:01	]C24:RCT.YELLO-12 entered observer.
+[19:15:02	]C24:RCT.YELLO-12 exited observer at their location.
+[19:15:02	]C24:RCT.YELLO-12 entered observer.
+[19:15:07	]C24:RCT.YELLO-12 exited observer at their location.
+[19:15:07	]C24:RCT.YELLO-12 entered observer.
+[19:15:08	]C24:RCT.YELLO-12 exited observer at their location.
+[19:15:08	]C24:RCT.YELLO-12 entered observer.
+[19:15:09	]C24:RCT.YELLO-12 exited observer at their location.
+[19:15:10	]C24:RCT.YELLO-12 entered observer.
+[19:15:23	]inkaaz has connected.
+[19:15:38	]C24:RCT.YELLO-12 exited observer at their location.
+[19:15:39	]C24:RCT.YELLO-12 entered observer.
+[19:15:42	]C24:RCT.YELLO-12 exited observer at their location.
+[19:15:42	]C24:RCT.YELLO-12 entered observer.
+[19:15:43	]inkaaz loaded the character 'Henryk Cweles'
+[19:15:45	]C24:RCT.YELLO-12 exited observer at their location.
+[19:15:46	]Henryk Cweles entered observer.
+[19:15:46	]Henryk Cweles exited observer at their location.
+[19:15:46	]C24:RCT.YELLO-12 entered observer.
+[19:15:46	]C24:RCT.YELLO-12 exited observer at their location.
+[19:15:48	]C24:RCT.YELLO-12 entered observer.
+[19:15:48	]C24:RCT.YELLO-12 exited observer at their location.
+[19:15:49	]C24:RCT.YELLO-12 entered observer.
+[19:15:52	]C24:RCT.YELLO-12 exited observer at their location.
+[19:15:52	]Henryk Cweles entered observer.
+[19:15:53	]Henryk Cweles exited observer at their location.
+[19:15:53	]C24:RCT.YELLO-12 entered observer.
+[19:15:54	]Henryk Cweles entered observer.
+[19:15:55	]Henryk Cweles exited observer at their location.
+[19:15:57	]Henryk Cweles entered observer.
+[19:15:58	]Henryk Cweles exited observer at their location.
+[19:16:01	]C24:RCT.YELLO-12 exited observer at their location.
+[19:16:02	]C24:RCT.YELLO-12 entered observer.
+[19:16:08	]Henryk Cweles entered observer.
+[19:16:09	]Henryk Cweles exited observer at their location.
+[19:16:13	]inkaaz loaded the character 'C24:i5.Victor-01'
+[19:16:30	]C24:RCT.YELLO-12 exited observer at their location.
+[19:16:32	]C24:RCT.YELLO-12 entered observer.
+[19:16:33	]C24:RCT.YELLO-12 exited observer at their location.
+[19:16:33	]C24:RCT.YELLO-12 entered observer.
+[19:16:36	]inkaaz loaded the character 'Henryk Cweles'
+[19:17:38	]Henryk Cweles entered observer.
+[19:17:50	]Henryk Cweles exited observer at their location.
+[19:17:50	]Henryk Cweles entered observer.
+[19:17:51	]Henryk Cweles exited observer at their location.
+[19:17:52	]Henryk Cweles entered observer.
+[19:17:54	]Henryk Cweles has spawned 'models/willardnetworks/vortigaunt.mdl'.
+[19:17:58	]Henryk Cweles has fired a toolgun with the name: rb655_easy_bodygroup
+[19:18:02	]C24:RCT.YELLO-12 exited observer at their location.
+[19:18:02	]C24:RCT.YELLO-12 entered observer.
+[19:18:03	]Henryk Cweles exited observer at their location.
+[19:18:04	]C24:RCT.YELLO-12 exited observer at their location.
+[19:18:05	]C24:RCT.YELLO-12 entered observer.
+[19:18:07	]Henryk Cweles has fired a toolgun with the name: eyeposer
+[19:18:10	]Henryk Cweles has fired a toolgun with the name: eyeposer
+[19:18:11	]C24:RCT.YELLO-12 exited observer at their location.
+[19:18:11	]C24:RCT.YELLO-12 entered observer.
+[19:18:13	]C24:RCT.YELLO-12 exited observer at their location.
+[19:18:14	]Henryk Cweles has fired a toolgun with the name: eyeposer
+[19:18:14	]C24:RCT.YELLO-12 entered observer.
+[19:18:15	]Henryk Cweles has fired a toolgun with the name: eyeposer
+[19:18:49	]C24:RCT.YELLO-12 exited observer at their location.
+[19:18:51	]C24:RCT.YELLO-12 entered observer.
+[19:18:54	]C24:RCT.YELLO-12 exited observer at their location.
+[19:18:55	]C24:RCT.YELLO-12 entered observer.
+[19:18:57	]C24:RCT.YELLO-12 exited observer at their location.
+[19:18:58	]C24:RCT.YELLO-12 entered observer.
+[19:18:58	]C24:RCT.YELLO-12 exited observer at their location.
+[19:19:00	]C24:RCT.YELLO-12 entered observer.
+[19:19:01	]C24:RCT.YELLO-12 exited observer at their location.
+[19:19:01	]C24:RCT.YELLO-12 entered observer.
+[19:19:02	]C24:RCT.YELLO-12 exited observer at their location.
+[19:19:03	]C24:RCT.YELLO-12 entered observer.
+[19:19:04	]C24:RCT.YELLO-12 exited observer at their location.
+[19:19:05	]C24:RCT.YELLO-12 entered observer.
+[19:19:07	]C24:RCT.YELLO-12 exited observer at their location.
+[19:19:08	]C24:RCT.YELLO-12 entered observer.
+[19:19:10	]C24:RCT.YELLO-12 exited observer at their location.
+[19:19:10	]C24:RCT.YELLO-12 entered observer.
+[19:19:10	]C24:RCT.YELLO-12 exited observer at their location.
+[19:19:11	]C24:RCT.YELLO-12 entered observer.
+[19:19:12	]C24:RCT.YELLO-12 exited observer at their location.
+[19:19:14	]C24:RCT.YELLO-12 entered observer.
+[19:19:16	]C24:RCT.YELLO-12 exited observer at their location.
+[19:19:18	]C24:RCT.YELLO-12 entered observer.
+[19:19:19	]C24:RCT.YELLO-12 exited observer at their location.
+[19:19:19	]C24:RCT.YELLO-12 entered observer.
+[19:19:21	]C24:RCT.YELLO-12 exited observer at their location.
+[19:19:23	]C24:RCT.YELLO-12 entered observer.
+[19:19:28	]Henryk Cweles entered observer.
+[19:19:30	]Henryk Cweles exited observer at their location.
+[19:19:31	]Henryk Cweles entered observer.
+[19:19:32	]Henryk Cweles exited observer at their location.
+[19:19:44	]Henryk Cweles used command '/ShowAllApartments'.
+[19:19:49	]Henryk Cweles entered observer.
+[19:19:51	]Henryk Cweles exited observer at their location.
+[19:19:56	]Henryk Cweles entered observer.
+[19:19:59	]Henryk Cweles used command '/CreateShop foto'.
+[19:20:00	]Henryk Cweles exited observer at their location.
+[19:20:08	]Henryk Cweles used command '/LinkShopTerminal foto'.
+[19:20:12	]Henryk Cweles entered observer.
+[19:20:13	]Henryk Cweles exited observer at their location.
+[19:20:19	]Henryk Cweles entered observer.
+[19:20:22	]Henryk Cweles exited observer at their location.
+[19:20:24	]C24:RCT.YELLO-12 exited observer at their location.
+[19:20:25	]C24:RCT.YELLO-12 entered observer.
+[19:20:30	]C24:RCT.YELLO-12 exited observer at their location.
+[19:20:32	]C24:RCT.YELLO-12 entered observer.
+[19:20:32	]C24:RCT.YELLO-12 exited observer at their location.
+[19:20:34	]C24:RCT.YELLO-12 entered observer.
+[19:20:35	]C24:RCT.YELLO-12 exited observer at their location.
+[19:20:37	]C24:RCT.YELLO-12 entered observer.
+[19:20:40	]C24:RCT.YELLO-12 exited observer at their location.
+[19:20:40	]Henryk Cweles used command '/SetShopTerminalCost 5'.
+[19:20:41	]C24:RCT.YELLO-12 entered observer.
+[19:20:42	]C24:RCT.YELLO-12 exited observer at their location.
+[19:20:43	]C24:RCT.YELLO-12 entered observer.
+[19:20:46	]Henryk Cweles used command '/SetShopTerminalSC 5'.
+[19:20:47	]C24:RCT.YELLO-12 exited observer at their location.
+[19:20:48	]C24:RCT.YELLO-12 entered observer.
+[19:20:50	]C24:RCT.YELLO-12 exited observer at their location.
+[19:20:51	]C24:RCT.YELLO-12 entered observer.
+[19:20:53	]C24:RCT.YELLO-12 exited observer at their location.
+[19:20:54	]Henryk Cweles entered observer.
+[19:20:55	]C24:RCT.YELLO-12 entered observer.
+[19:20:56	]C24:RCT.YELLO-12 exited observer at their location.
+[19:20:56	]Henryk Cweles exited observer at their location.
+[19:20:58	]C24:RCT.YELLO-12 entered observer.
+[19:21:06	]Henryk Cweles entered observer.
+[19:21:11	]Henryk Cweles exited observer at their location.
+[19:21:21	]Henryk Cweles entered observer.
+[19:21:26	]Henryk Cweles exited observer at their location.
+[19:22:08	]Henryk Cweles entered observer.
+[19:22:11	]Henryk Cweles used command '/CreateShop change'.
+[19:22:14	]Henryk Cweles exited observer at their location.
+[19:22:20	]C24:RCT.YELLO-12 exited observer at their location.
+[19:22:20	]C24:RCT.YELLO-12 entered observer.
+[19:22:21	]Henryk Cweles entered observer.
+[19:22:22	]Henryk Cweles exited observer at their location.
+[19:22:32	]Henryk Cweles entered observer.
+[19:22:33	]C24:RCT.YELLO-12 exited observer at their location.
+[19:22:33	]Henryk Cweles exited observer at their location.
+[19:22:34	]C24:RCT.YELLO-12 entered observer.
+[19:22:35	]C24:RCT.YELLO-12 exited observer at their location.
+[19:22:36	]Henryk Cweles used command '/LinkShopTerminal change'.
+[19:22:36	]C24:RCT.YELLO-12 entered observer.
+[19:22:38	]C24:RCT.YELLO-12 exited observer at their location.
+[19:22:41	]C24:RCT.YELLO-12 entered observer.
+[19:22:41	]C24:RCT.YELLO-12 exited observer at their location.
+[19:22:41	]C24:RCT.YELLO-12 entered observer.
+[19:22:42	]C24:RCT.YELLO-12 exited observer at their location.
+[19:22:43	]C24:RCT.YELLO-12 entered observer.
+[19:22:44	]C24:RCT.YELLO-12 exited observer at their location.
+[19:22:45	]Henryk Cweles used command '/SetShopTerminalCost 5'.
+[19:22:45	]C24:RCT.YELLO-12 entered observer.
+[19:22:48	]C24:RCT.YELLO-12 exited observer at their location.
+[19:22:48	]Henryk Cweles used command '/SetShopTerminalSC 5'.
+[19:22:49	]C24:RCT.YELLO-12 entered observer.
+[19:22:51	]C24:RCT.YELLO-12 exited observer at their location.
+[19:22:52	]Henryk Cweles entered observer.
+[19:22:58	]Henryk Cweles exited observer at their location.
+[19:22:58	]C24:RCT.YELLO-12 entered observer.
+[19:23:07	]Henryk Cweles used command '/CreateShop 01'.
+[19:23:07	]C24:RCT.YELLO-12 has spawned a 'NPC [602][npc_antlion_schizo_drone]'.
+[19:23:09	]Henryk Cweles used command '/CreateShop 02'.
+[19:23:09	]C24:RCT.YELLO-12 exited observer at their location.
+[19:23:09	]Henryk Cweles entered observer.
+[19:23:10	]C24:RCT.YELLO-12 has taken 9 damage from Antlion Drone.
+[19:23:11	]Henryk Cweles used command '/CreateShop 03'.
+[19:23:12	]Henryk Cweles used command '/CreateShop 04'.
+[19:23:14	]Henryk Cweles used command '/CreateShop 05'.
+[19:23:14	]C24:RCT.YELLO-12 has spawned a 'NPC [602][npc_antlion_schizo_soldier]'.
+[19:23:15	]Henryk Cweles exited observer at their location.
+[19:23:17	]C24:RCT.YELLO-12 has taken 4 damage from Antlion Soldier.
+[19:23:19	]C24:RCT.YELLO-12 has taken 10 damage from Antlion Soldier.
+[19:23:21	]C24:RCT.YELLO-12 has spawned a 'NPC [602][npc_antlion_schizo_fireant]'.
+[19:23:22	]Henryk Cweles used command '/CreateShop 01'.
+[19:23:24	]C24:RCT.YELLO-12 has taken 30 damage from Antlion Fireant.
+[19:23:26	]C24:RCT.YELLO-12 entered observer.
+[19:23:40	]Henryk Cweles used command '/SetShopTerminalCost 5'.
+[19:23:47	]Henryk Cweles used command '/LinkShopTerminal 01'.
+[19:24:05	]Henryk Cweles used command '/SetShopTerminalCost 5'.
+[19:24:08	]Henryk Cweles used command '/SetShopTerminalSC 5'.
+[19:24:10	]C24:RCT.YELLO-12 exited observer at their location.
+[19:24:12	]C24:RCT.YELLO-12 entered observer.
+[19:24:13	]C24:RCT.YELLO-12 exited observer at their location.
+[19:24:14	]C24:RCT.YELLO-12 entered observer.
+[19:24:15	]Henryk Cweles used command '/LinkShopTerminal 02'.
+[19:24:20	]C24:RCT.YELLO-12 exited observer at their location.
+[19:24:21	]C24:RCT.YELLO-12 entered observer.
+[19:24:28	]C24:RCT.YELLO-12 exited observer at their location.
+[19:24:28	]Henryk Cweles used command '/SetShopTerminalCost 5'.
+[19:24:29	]C24:RCT.YELLO-12 entered observer.
+[19:24:31	]Henryk Cweles used command '/SetShopTerminalSC 5'.
+[19:24:32	]Henryk Cweles entered observer.
+[19:24:34	]Henryk Cweles exited observer at their location.
+[19:24:37	]Henryk Cweles used command '/LinkShopTerminal 03'.
+[19:24:45	]Henryk Cweles used command '/SetShopTerminalCost 5'.
+[19:24:46	]Henryk Cweles used command '/SetShopTerminalSC 5'.
+[19:24:53	]C24:RCT.YELLO-12 exited observer at their location.
+[19:24:53	]C24:RCT.YELLO-12 entered observer.
+[19:24:56	]C24:RCT.YELLO-12 exited observer at their location.
+[19:24:56	]C24:RCT.YELLO-12 entered observer.
+[19:24:57	]Henryk Cweles used command '/LinkShopTerminal 04'.
+[19:24:58	]C24:RCT.YELLO-12 exited observer at their location.
+[19:24:59	]C24:RCT.YELLO-12 entered observer.
+[19:25:02	]Henryk Cweles used command '/SetShopTerminalCost 5'.
+[19:25:04	]Henryk Cweles used command '/SetShopTerminalSC 5'.
+[19:25:04	]C24:RCT.YELLO-12 exited observer at their location.
+[19:25:06	]C24:RCT.YELLO-12 entered observer.
+[19:25:09	]Henryk Cweles used command '/LinkShopTerminal 05'.
+[19:25:14	]Henryk Cweles used command '/SetShopTerminalCost 5'.
+[19:25:16	]Henryk Cweles used command '/SetShopTerminalSC 5'.
+[19:25:21	]Henryk Cweles entered observer.
+[19:25:30	]Henryk Cweles exited observer at their location.
+[19:25:34	]Henryk Cweles entered observer.
+[19:25:36	]Henryk Cweles exited observer at their location.
+[19:25:37	]Henryk Cweles entered observer.
+[19:26:01	]C24:RCT.YELLO-12 exited observer at their location.
+[19:26:02	]C24:RCT.YELLO-12 entered observer.
+[19:26:05	]C24:RCT.YELLO-12 exited observer at their location.
+[19:26:06	]C24:RCT.YELLO-12 entered observer.
+[19:26:07	]C24:RCT.YELLO-12 exited observer at their location.
+[19:26:09	]C24:RCT.YELLO-12 entered observer.
+[19:26:10	]C24:RCT.YELLO-12 exited observer at their location.
+[19:26:11	]C24:RCT.YELLO-12 entered observer.
+[19:26:15	]Henryk Cweles exited observer at their location.
+[19:26:18	]Henryk Cweles entered observer.
+[19:26:21	]C24:RCT.YELLO-12 exited observer at their location.
+[19:26:22	]C24:RCT.YELLO-12 entered observer.
+[19:27:01	]Henryk Cweles exited observer at their location.
+[19:27:02	]Henryk Cweles entered observer.
+[19:27:27	]Henryk Cweles exited observer at their location.
+[19:27:28	]Henryk Cweles entered observer.
+[19:27:34	]C24:RCT.YELLO-12 exited observer at their location.
+[19:27:39	]C24:RCT.YELLO-12 ran SAM command 'hp' with arguments: '^' '100'
+[19:27:40	]C24:RCT.YELLO-12 is fully healed.
+[19:27:43	]C24:RCT.YELLO-12 entered observer.
+[19:27:51	]C24:RCT.YELLO-12 exited observer at their location.
+[19:27:52	]Henryk Cweles exited observer at their location.
+[19:27:57	]Henryk Cweles has spawned a 'Entity [604][ix_shopterminal]'.
+[19:27:58	]C24:RCT.YELLO-12 entered observer.
+[19:28:00	]C24:RCT.YELLO-12 exited observer at their location.
+[19:28:01	]C24:RCT.YELLO-12 entered observer.
+[19:28:05	]Henryk Cweles has fired a toolgun with the name: nocollideworld
+[19:28:27	]Henryk Cweles used command '/CreateShop grotto'.
+[19:28:30	]C24:RCT.YELLO-12 exited observer at their location.
+[19:28:30	]Henryk Cweles used command '/LinkShopTerminal grotto'.
+[19:28:38	]Henryk Cweles used command '/SetShopTerminalCost 5'.
+[19:28:40	]Henryk Cweles used command '/SetShopTerminalSC 5'.
+[19:28:45	]Henryk Cweles entered observer.
+[19:28:45	]C24:RCT.YELLO-12 entered observer.
+[19:28:59	]Henryk Cweles exited observer at their location.
+[19:29:18	]Henryk Cweles entered observer.
+[19:29:20	]C24:RCT.YELLO-12 exited observer at their location.
+[19:29:29	]C24:RCT.YELLO-12 entered observer.
+[19:29:35	]Henryk Cweles exited observer at their location.
+[19:29:46	]C24:RCT.YELLO-12 exited observer at their location.
+[19:29:47	]C24:RCT.YELLO-12 entered observer.
+[19:29:52	]C24:RCT.YELLO-12 exited observer at their location.
+[19:29:56	]C24:RCT.YELLO-12 entered observer.
+[19:29:57	]C24:RCT.YELLO-12 exited observer at their location.
+[19:29:59	]C24:RCT.YELLO-12 entered observer.
+[19:30:02	]C24:RCT.YELLO-12 exited observer at their location.
+[19:30:05	]C24:RCT.YELLO-12 entered observer.
+[19:30:06	]C24:RCT.YELLO-12 exited observer at their location.
+[19:30:10	]C24:RCT.YELLO-12 entered observer.
+[19:30:11	]C24:RCT.YELLO-12 exited observer at their location.
+[19:30:13	]C24:RCT.YELLO-12 entered observer.
+[19:30:13	]C24:RCT.YELLO-12 exited observer at their location.
+[19:30:16	]C24:RCT.YELLO-12 entered observer.
+[19:30:42	]C24:RCT.YELLO-12 exited observer at their location.
+[19:30:43	]C24:RCT.YELLO-12 entered observer.
+[19:30:46	]C24:RCT.YELLO-12 exited observer at their location.
+[19:30:47	]C24:RCT.YELLO-12 entered observer.
+[19:30:56	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[19:31:14	]C24:RCT.YELLO-12 has spawned a 'Entity [605][ix_vortshield]'.
+[19:31:16	]C24:RCT.YELLO-12 exited observer at their location.
+[19:31:20	]C24:RCT.YELLO-12 entered observer.
+[19:31:32	]C24:RCT.YELLO-12 has used a context menu option with the name: rb655_dissolve
+[19:31:33	]C24:RCT.YELLO-12 has used a context menu option with the name: rb655_dissolve
+[19:31:36	]C24:RCT.YELLO-12 has used a context menu option with the name: rb655_dissolve
+[19:31:42	]C24:RCT.YELLO-12 has used a context menu option with the name: remove
+[19:32:04	]Henryk Cweles entered observer.
+[19:32:05	]C24:RCT.YELLO-12 exited observer at their location.
+[19:32:27	]Henryk Cweles exited observer at their location.
+[19:32:38	]Henryk Cweles entered observer.
+[19:32:38	]Henryk Cweles exited observer at their location.
+[19:32:39	]C24:RCT.YELLO-12 entered observer.
+[19:32:48	]C24:RCT.YELLO-12 exited observer at their location.
+[19:32:51	]C24:RCT.YELLO-12 entered observer.
+[19:32:54	]Henryk Cweles entered observer.
+[19:32:58	]Henryk Cweles exited observer at their location.
+[19:33:04	]Henryk Cweles entered observer.
+[19:33:28	]Henryk Cweles exited observer at their location.
+[19:33:28	]Henryk Cweles entered observer.
+[19:33:30	]Henryk Cweles exited observer at their location.
+[19:33:31	]Henryk Cweles entered observer.
+[19:33:31	]Henryk Cweles exited observer at their location.
+[19:33:36	]Henryk Cweles entered observer.
+[19:34:09	]Henryk Cweles exited observer at their location.
+[19:34:20	]Henryk Cweles entered observer.
+[19:34:26	]C24:RCT.YELLO-12 exited observer at their location.
+[19:34:27	]C24:RCT.YELLO-12 entered observer.
+[19:34:30	]C24:RCT.YELLO-12 exited observer at their location.
+[19:34:30	]C24:RCT.YELLO-12 entered observer.
+[19:34:30	]C24:RCT.YELLO-12 exited observer at their location.
+[19:34:31	]C24:RCT.YELLO-12 entered observer.
+[19:34:32	]C24:RCT.YELLO-12 exited observer at their location.
+[19:34:35	]C24:RCT.YELLO-12 entered observer.
+[19:34:35	]C24:RCT.YELLO-12 exited observer at their location.
+[19:34:37	]C24:RCT.YELLO-12 entered observer.
+[19:34:39	]C24:RCT.YELLO-12 exited observer at their location.
+[19:34:42	]C24:RCT.YELLO-12 has taken 82 damage from worldspawn.
+[19:34:42	]C24:RCT.YELLO-12 entered observer.
+[19:34:43	]Henryk Cweles exited observer at their location.
+[19:34:43	]C24:RCT.YELLO-12 exited observer at their location.
+[19:34:44	]C24:RCT.YELLO-12 entered observer.
+[19:34:46	]C24:RCT.YELLO-12 ran SAM command 'hp' with arguments: '^' '100'
+[19:34:47	]Henryk Cweles entered observer.
+[19:34:50	]C24:RCT.YELLO-12 is fully healed.
+[19:34:56	]Henryk Cweles exited observer at their location.
+[19:34:58	]Henryk Cweles entered observer.
+[19:34:59	]Henryk Cweles exited observer at their location.
+[19:35:02	]C24:RCT.YELLO-12 used command '/PrintStaffList'.
+[19:35:13	]C24:RCT.YELLO-12 ran SAM command 'goto' with arguments: 'cwel'
+[19:35:25	]C24:RCT.YELLO-12 exited observer at their location.
+[19:35:26	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[19:35:28	]C24:RCT.YELLO-12 has hit Henryk Cweles dealing 7 damage (CritChance was 0.00).
+[19:35:28	]Henryk Cweles has taken 7 damage from C24:RCT.YELLO-12.
+[19:35:30	]Henryk Cweles entered observer.
+[19:35:30	]Henryk Cweles exited observer at their location.
+[19:35:31	]Henryk Cweles entered observer.
+[19:35:32	]Henryk Cweles exited observer at their location.
+[19:35:33	]C24:RCT.YELLO-12 has hit Henryk Cweles in the chest dealing 28 damage (CritChance was 0.00).
+[19:35:33	]Henryk Cweles has taken 28 damage from C24:RCT.YELLO-12.
+[19:35:36	]C24:RCT.YELLO-12 entered observer.
+[19:35:37	]C24:RCT.YELLO-12 exited observer at their location.
+[19:35:59	]Henryk Cweles set ModelScalingMin to '0.85'.
+[19:35:59	]Henryk Cweles set ModelScalingMax to '1.3'.
+[19:36:02	]C24:RCT.YELLO-12 used command '/CharGiveFlag yello pet'.
+[19:36:23	]C24:RCT.YELLO-12 entered observer.
+[19:36:26	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[19:36:31	]C24:RCT.YELLO-12 has hit Henryk Cweles dealing 114 damage (CritChance was 0.00).
+[19:36:31	]Henryk Cweles was knocked unconscious and is bleeding out.
+[19:36:45	]C24:RCT.YELLO-12 exited observer at their location.
+[19:36:48	]C24:RCT.YELLO-12 entered observer.
+[19:36:48	]C24:RCT.YELLO-12 exited observer at their location.
+[19:36:52	]C24:RCT.YELLO-12 entered observer.
+[19:36:53	]C24:RCT.YELLO-12 exited observer at their location.
+[19:36:57	]C24:RCT.YELLO-12 entered observer.
+[19:36:57	]C24:RCT.YELLO-12 exited observer at their location.
+[19:37:01	]C24:RCT.YELLO-12 entered observer.
+[19:37:02	]C24:RCT.YELLO-12 exited observer at their location.
+[19:37:05	]C24:RCT.YELLO-12 was knocked unconscious and is bleeding out.
+[19:37:05	]Henryk Cweles used command '/CharGetUp'.
+[19:37:09	]Henryk Cweles ran SAM command 'slay' with arguments: '^'
+[19:37:11	]Henryk Cweles entered observer.
+[19:37:12	]Henryk Cweles exited observer at their location.
+[19:37:16	]C24:RCT.YELLO-12 used command '/CharStopBleedout yello'.
+[19:37:18	]C24:RCT.YELLO-12 ran SAM command 'hp' with arguments: '^' '100'
+[19:37:20	]C24:RCT.YELLO-12 is no longer unconscious from critical wounds.
+[19:37:20	]C24:RCT.YELLO-12 is fully healed.
+[19:37:21	]C24:RCT.YELLO-12 entered observer.
+[19:37:22	]C24:RCT.YELLO-12 exited observer at their location.
+[19:37:26	]C24:RCT.YELLO-12 entered observer.
+[19:37:28	]C24:RCT.YELLO-12 exited observer at their location.
+[19:37:32	]C24:RCT.YELLO-12 entered observer.
+[19:37:32	]C24:RCT.YELLO-12 exited observer at their location.
+[19:37:35	]C24:RCT.YELLO-12 entered observer.
+[19:37:36	]C24:RCT.YELLO-12 exited observer at their location.
+[19:37:37	]Henryk Cweles set ModelScalingMax to '1.2'.
+[19:37:39	]C24:RCT.YELLO-12 entered observer.
+[19:37:39	]C24:RCT.YELLO-12 exited observer at their location.
+[19:37:43	]C24:RCT.YELLO-12 entered observer.
+[19:37:43	]C24:RCT.YELLO-12 exited observer at their location.
+[19:37:45	]C24:RCT.YELLO-12 entered observer.
+[19:37:45	]C24:RCT.YELLO-12 exited observer at their location.
+[19:37:50	]C24:RCT.YELLO-12 entered observer.
+[19:37:51	]C24:RCT.YELLO-12 exited observer at their location.
+[19:37:53	]C24:RCT.YELLO-12 entered observer.
+[19:37:54	]C24:RCT.YELLO-12 exited observer at their location.
+[19:37:57	]C24:RCT.YELLO-12 entered observer.
+[19:37:57	]C24:RCT.YELLO-12 exited observer at their location.
+[19:37:57	]Henryk Cweles set ModelScalingMaxInches to '78'.
+[19:37:58	]C24:RCT.YELLO-12 entered observer.
+[19:37:59	]Henryk Cweles set ModelScalingMax to '1.15'.
+[19:38:05	][OOC] C24:RCT.YELLO-12: ty cwelu cho no tu
+[19:38:08	]C24:RCT.YELLO-12 exited observer at their location.
+[19:38:08	]Henryk Cweles ran SAM command 'goto' with arguments: 'yello'
+[19:38:14	]Henryk Cweles entered observer.
+[19:38:14	]Henryk Cweles exited observer at their location.
+[19:38:17	][IC] Henryk Cweles: Szto.
+[19:38:18	][IC] C24:RCT.YELLO-12: To jest nasiono jabloni.
+[19:38:24	][IC] Henryk Cweles: Nasiono errora.
+[19:38:29	][IC] C24:RCT.YELLO-12: Wez to kurwa napraw.
+[19:38:29	]C24:RCT.YELLO-12 entered observer.
+[19:38:30	]C24:RCT.YELLO-12 exited observer at their location.
+[19:38:33	][IC] Henryk Cweles: Nie.
+[19:38:36	][IC] C24:RCT.YELLO-12: Aha.
+[19:38:40	][IC] Henryk Cweles: Nie wiem do czego.
+[19:38:42	][IC] Henryk Cweles: Te rolnictwo.
+[19:38:46	][IC] C24:RCT.YELLO-12: Rebelia.
+[19:38:48	][IC] Henryk Cweles: Nawet nie wiem czy to crafting.
+[19:38:49	][IC] Henryk Cweles: Ma jakis.
+[19:38:49	][IC] C24:RCT.YELLO-12: Jesc musi.
+[19:38:55	][IC] C24:RCT.YELLO-12: Jedzenie z tego jest.
+[19:38:55	]C24:RCT.YELLO-12 entered observer.
+[19:38:56	]C24:RCT.YELLO-12 exited observer at their location.
+[19:39:11	][IC] C24:RCT.YELLO-12: Patrz.
+[19:39:12	]C24:RCT.YELLO-12 has performed the 'Harvest Plant' action, gaining 400 experience in cooking.
+[19:39:12	]C24:RCT.YELLO-12 has gained a 'Jabłko' #51237.
+[19:39:12	]C24:RCT.YELLO-12 has gained a 'Jabłko' #51238.
+[19:39:12	]C24:RCT.YELLO-12 has gained a 'Jabłko' #51239.
+[19:39:18	]C24:RCT.YELLO-12 ran 'drop' on item 'Jabłko' (#51238)
+[19:39:18	]C24:RCT.YELLO-12 has lost a 'Jabłko' #51238.
+[19:39:18	]C24:RCT.YELLO-12 ran 'drop' on item 'Jabłko' (#51237)
+[19:39:18	]C24:RCT.YELLO-12 has lost a 'Jabłko' #51237.
+[19:39:20	]C24:RCT.YELLO-12 ran 'drop' on item 'Jabłko' (#51239)
+[19:39:20	]C24:RCT.YELLO-12 has lost a 'Jabłko' #51239.
+[19:39:23	][IC] Henryk Cweles: Masz content.
+[19:39:27	][IC] Henryk Cweles: Z epizodów?
+[19:39:30	][IC] C24:RCT.YELLO-12: Tak.
+[19:39:38	]C24:RCT.YELLO-12 ran 'Consume' on item 'Jabłko' (#51238)
+[19:39:40	]C24:RCT.YELLO-12 ran 'Consume' on item 'Jabłko' (#51239)
+[19:39:45	]C24:RCT.YELLO-12 has used a context menu option with the name: rb655_dissolve
+[19:39:47	]C24:RCT.YELLO-12 entered observer.
+[19:39:48	]C24:RCT.YELLO-12 exited observer at their location.
+[19:39:49	]Henryk Cweles has spawned a 'NPC [84][npc_vj_hlrdc_keller]'.
+[19:39:52	]Henryk Cweles has used a context menu option with the name: vj_pr_npc_control
+[19:39:52	]C24:RCT.YELLO-12 entered observer.
+[19:39:56	]C24:RCT.YELLO-12 exited observer at their location.
+[19:39:58	]C24:RCT.YELLO-12 entered observer.
+[19:40:05	]C24:RCT.YELLO-12 exited observer at their location.
+[19:40:07	]C24:RCT.YELLO-12 entered observer.
+[19:40:08	]C24:RCT.YELLO-12 exited observer at their location.
+[19:40:11	]C24:RCT.YELLO-12 entered observer.
+[19:40:33	]C24:RCT.YELLO-12 exited observer at their location.
+[19:40:38	]C24:RCT.YELLO-12 entered observer.
+[19:40:39	]C24:RCT.YELLO-12 exited observer at their location.
+[19:41:14	]inkaaz loaded the character 'S10/OWS.GHOST-30'
+[19:41:22	]S10/OWS.GHOST-30 ran SAM command 'goto' with arguments: 'yello'
+[19:41:28	]S10/OWS.GHOST-30 entered observer.
+[19:41:29	]C24:RCT.YELLO-12 entered observer.
+[19:41:30	]C24:RCT.YELLO-12 exited observer at their location.
+[19:41:41	]S10/OWS.GHOST-30 exited observer at their location.
+[19:41:46	]C24:RCT.YELLO-12 has taken 15 damage from worldspawn.
+[19:41:46	]C24:RCT.YELLO-12 entered observer.
+[19:41:47	]C24:RCT.YELLO-12 exited observer at their location.
+[19:41:48	]C24:RCT.YELLO-12 entered observer.
+[19:42:10	]C24:RCT.YELLO-12 exited observer at their location.
+[19:42:19	]C24:RCT.YELLO-12 entered observer.
+[19:42:21	]C24:RCT.YELLO-12 exited observer at their location.
+[19:42:25	]C24:RCT.YELLO-12 ran SAM command 'goto' with arguments: 'ows'
+[19:42:37	][IC] S10/OWS.GHOST-30: <:: Copy, accepted. Updating cognitive suppression biodats. Update complete in T-Minus three seconds. Dissonance resolved. ::>
+[19:42:49	][IC] S10/OWS.GHOST-30: <:: Overwatch is requesting all units refresh and resolve. Cognitive dissonance will not be tolerated. Negative, memories included. Update is live, acceptance is mandatory. ::>
+[19:42:49	][IC] C24:RCT.YELLO-12: Czemu robisz t-pose.
+[19:42:53	][IC] S10/OWS.GHOST-30: <:: Nwm. ::>
+[19:43:01	][IC] C24:RCT.YELLO-12: Na wielu serwerach jest taki problem.
+[19:43:02	][IC] C24:RCT.YELLO-12: Pojebane.
+[19:43:04	][IC] C24:RCT.YELLO-12: Daj loxyemu.
+[19:43:04	][IC] S10/OWS.GHOST-30: <:: One, fourteen, three, six, eleven, check. Annnd all clear on Echo-4, your turn, over. ::>
+[19:43:09	]C24:RCT.YELLO-12 has spawned a blue_crystal.
+[19:43:11	]C24:RCT.YELLO-12 ran 'take' on item 'Blue Crystal Shard' (#51240)
+[19:43:11	]C24:RCT.YELLO-12 has gained a 'Blue Crystal Shard' #51240.
+[19:43:16	]C24:RCT.YELLO-12 ran 'drop' on item 'Blue Crystal Shard' (#51240)
+[19:43:16	]C24:RCT.YELLO-12 has lost a 'Blue Crystal Shard' #51240.
+[19:43:17	]C24:RCT.YELLO-12 has used a context menu option with the name: rb655_dissolve
+[19:43:19	]env_entity_dissolver destroyed a 'Blue Crystal Shard' #51240.
+[19:43:24	]C24:RCT.YELLO-12 has spawned a mask_ota.
+[19:43:31	]C24:RCT.YELLO-12 has spawned a broken_otauniform.
+[19:43:32	]C24:RCT.YELLO-12 ran 'take' on item 'Rozwalony uniform OTA' (#51242)
+[19:43:32	]C24:RCT.YELLO-12 has gained a 'Rozwalony uniform OTA' #51242.
+[19:43:34	]C24:RCT.YELLO-12 ran 'take' on item 'Maska OTA' (#51241)
+[19:43:34	]C24:RCT.YELLO-12 has gained a 'Maska OTA' #51241.
+[19:43:37	]C24:RCT.YELLO-12 ran 'drop' on item 'Duża torba' (#51002)
+[19:43:37	]C24:RCT.YELLO-12 has lost a 'Duża torba' #51002.
+[19:43:40	]C24:RCT.YELLO-12 ran 'take' on item 'Duża torba' (#51002)
+[19:43:40	]C24:RCT.YELLO-12 has gained a 'Duża torba' #51002.
+[19:43:57	]C24:RCT.YELLO-12 ran 'drop' on item 'Rozwalony uniform OTA' (#51242)
+[19:43:57	]C24:RCT.YELLO-12 has lost a 'Rozwalony uniform OTA' #51242.
+[19:43:58	]S10/OWS.GHOST-30 entered observer.
+[19:43:58	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[19:43:58	]S10/OWS.GHOST-30 exited observer at their location.
+[19:44:00	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[19:44:04	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[19:44:05	]C24:RCT.YELLO-12 destroyed a 'Rozwalony uniform OTA' #51242.
+[19:44:06	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[19:44:12	][IC] S10/OWS.GHOST-30: <:: Copy that. Sustaining viscon at sector kilo-three-dash-six. ::>
+[19:44:14	]C24:RCT.YELLO-12 has spawned a uniform_ord.
+[19:44:15	]C24:RCT.YELLO-12 ran 'take' on item 'Uniform OTA - Ordinal' (#51243)
+[19:44:15	]C24:RCT.YELLO-12 has gained a 'Uniform OTA - Ordinal' #51243.
+[19:44:22	][IC] S10/OWS.GHOST-30: <:: Overwatch confirms... Uh, non-tagged viromes inbound. All units advisory, prepare for contact. ::>
+[19:44:29	][IC] C24:RCT.YELLO-12: Hej.
+[19:44:37	][IC] S10/OWS.GHOST-30: <:: Updating biodat. Stimdose 32, daggers 78, fuel 100, lifeprox 73, audibles 3, lifevis 15, Echo out. ::>
+[19:44:47	][IC] C24:RCT.YELLO-12: Kiedyś na moich oczach jakiś gość rozwalił Huntera gołymi pięściami!
+[19:45:00	]S10/OWS.GHOST-30 used command '/Dispatch judgment waiver'.
+[19:45:03	][IC] C24:RCT.YELLO-12: Co za gówno!
+[19:45:06	]C24:RCT.YELLO-12 entered observer.
+[19:45:08	]C24:RCT.YELLO-12 exited observer at their location.
+[19:45:25	][IC] C24:RCT.YELLO-12: <:: Ale zajebioza. ::>
+[19:45:26	]C24:RCT.YELLO-12 entered observer.
+[19:45:26	]C24:RCT.YELLO-12 exited observer at their location.
+[19:45:28	]C24:RCT.YELLO-12 entered observer.
+[19:45:39	]C24:RCT.YELLO-12 exited observer at their location.
+[19:45:45	]S10/OWS.GHOST-30 entered observer.
+[19:45:53	]C24:RCT.YELLO-12 entered observer.
+[19:45:59	]C24:RCT.YELLO-12 exited observer at their location.
+[19:46:01	]S10/OWS.GHOST-30 exited observer at their location.
+[19:46:05	]S10/OWS.GHOST-30 used command '/Doorkick'.
+[19:46:06	]C24:RCT.YELLO-12 entered observer.
+[19:46:13	]S10/OWS.GHOST-30 entered observer.
+[19:46:18	]C24:RCT.YELLO-12 exited observer at their location.
+[19:46:48	]C24:RCT.YELLO-12 entered observer.
+[19:46:49	]C24:RCT.YELLO-12 exited observer at their location.
+[19:46:50	]C24:RCT.YELLO-12 entered observer.
+[19:46:50	]C24:RCT.YELLO-12 exited observer at their location.
+[19:46:51	]C24:RCT.YELLO-12 entered observer.
+[19:46:59	]S10/OWS.GHOST-30 exited observer at their location.
+[19:47:00	]S10/OWS.GHOST-30 entered observer.
+[19:47:01	]S10/OWS.GHOST-30 exited observer at their location.
+[19:47:05	]S10/OWS.GHOST-30 ran SAM command 'bring' with arguments: 'yello'
+[19:47:18	][IC] S10/OWS.GHOST-30: <:: Tutaj erp. ::>
+[19:47:23	]C24:RCT.YELLO-12 exited observer at their location.
+[19:47:30	]C24:RCT.YELLO-12 entered observer.
+[19:47:35	][IC] S10/OWS.GHOST-30: <:: Among us vent. ::>
+[19:47:44	]S10/OWS.GHOST-30 entered observer.
+[19:47:57	]S10/OWS.GHOST-30 exited observer at their location.
+[19:48:01	]S10/OWS.GHOST-30 entered observer.
+[19:48:01	]C24:RCT.YELLO-12 exited observer at their location.
+[19:48:04	]S10/OWS.GHOST-30 exited observer at their location.
+[19:48:13	]inkaaz loaded the character 'wortygont'
+[19:48:14	]wortygont entered observer.
+[19:48:17	]wortygont exited observer at their location.
+[19:48:18	]wortygont entered observer.
+[19:48:23	]C24:RCT.YELLO-12 used command '/Radio 10-8'.
+[19:48:23	]wortygont exited observer at their location.
+[19:48:27	]C24:RCT.YELLO-12 entered observer.
+[19:48:30	]C24:RCT.YELLO-12 used command '/Radio moderufker'.
+[19:48:36	]wortygont entered observer.
+[19:48:37	]wortygont exited observer at their location.
+[19:48:47	]C24:RCT.YELLO-12 exited observer at their location.
+[19:48:51	]C24:RCT.YELLO-12 entered observer.
+[19:48:55	]C24:RCT.YELLO-12 exited observer at their location.
+[19:48:59	]C24:RCT.YELLO-12 entered observer.
+[19:48:59	]wortygont has taken 20 damage from tripod_nexus.
+[19:49:27	]C24:RCT.YELLO-12 exited observer at their location.
+[19:49:28	]C24:RCT.YELLO-12 entered observer.
+[19:49:29	]C24:RCT.YELLO-12 exited observer at their location.
+[19:49:30	]C24:RCT.YELLO-12 entered observer.
+[19:49:34	]C24:RCT.YELLO-12 exited observer at their location.
+[19:49:35	]C24:RCT.YELLO-12 entered observer.
+[19:49:37	]C24:RCT.YELLO-12 exited observer at their location.
+[19:49:38	]C24:RCT.YELLO-12 entered observer.
+[19:49:42	]C24:RCT.YELLO-12 exited observer at their location.
+[19:49:43	]C24:RCT.YELLO-12 entered observer.
+[19:49:51	]C24:RCT.YELLO-12 exited observer at their location.
+[19:49:53	]C24:RCT.YELLO-12 entered observer.
+[19:49:54	]C24:RCT.YELLO-12 exited observer at their location.
+[19:49:55	]C24:RCT.YELLO-12 entered observer.
+[19:50:16	]wortygont entered observer.
+[19:50:18	]wortygont exited observer at their location.
+[19:51:43	]C24:RCT.YELLO-12 exited observer at their location.
+[19:52:12	]wortygont used command '/ActIdle'.
+[19:52:20	]wortygont used command '/ExitAct'.
+[19:52:21	]wortygont used command '/ActKneel'.
+[19:52:31	]C24:RCT.YELLO-12 has spawned a rave.
+[19:52:33	]wortygont used command '/ExitAct'.
+[19:52:36	][IC] wortygont: SHIEET.
+[19:52:40	]wortygont ran 'Consume' on item 'RAVE' (#51244)
+[19:52:40	]wortygont has gained a level 5 short boost in Siła.
+[19:52:43	]wortygont is fully healed.
+[19:52:45	]C24:RCT.YELLO-12 has spawned a rave.
+[19:52:47	]C24:RCT.YELLO-12 ran 'Consume' on item 'RAVE' (#51245)
+[19:52:47	]C24:RCT.YELLO-12 has gained a level 5 short boost in Siła.
+[19:52:50	]C24:RCT.YELLO-12 is fully healed.
+[19:53:07	]C24:RCT.YELLO-12 entered observer.
+[19:53:07	]C24:RCT.YELLO-12 exited observer at their location.
+[19:53:18	]C24:RCT.YELLO-12 entered observer.
+[19:53:57	]wortygont used command '/PlaySoundGlobal c24/laughtrack.mp3'.
+[19:54:43	]C24:RCT.YELLO-12 exited observer at their location.
+[19:54:44	]C24:RCT.YELLO-12 entered observer.
+[19:54:45	]C24:RCT.YELLO-12 exited observer at their location.
+[19:54:46	]C24:RCT.YELLO-12 entered observer.
+[19:55:02	]C24:RCT.YELLO-12 used command '/RemoveDrugEffects yello'.
+[19:55:02	]C24:RCT.YELLO-12 exited observer at their location.
+[19:55:09	]C24:RCT.YELLO-12 entered observer.
+[19:55:15	]C24:RCT.YELLO-12 exited observer at their location.
+[19:55:25	]C24:RCT.YELLO-12 entered observer.
+[19:55:42	]C24:RCT.YELLO-12 exited observer at their location.
+[19:55:42	]C24:RCT.YELLO-12 entered observer.
+[19:55:57	][OOC] wortygont: uwaga administartor miasta przemawia
+[19:55:58	]wortygont used command '/PlaySong https://www.youtube.com/watch?v=gdD69j26vMM 0 99999'.
+[19:56:07	]C24:RCT.YELLO-12 exited observer at their location.
+[19:56:18	]C24:RCT.YELLO-12 used command '/RemoveDrugEffects worty'.
+[19:56:21	]wortygont used command '/PlaySong https://www.youtube.com/watch?v=gdD69j26vMM 1 99999'.
+[19:56:23	][IC] C24:RCT.YELLO-12: <:: Zobacz sobie mój ulubiony. ::>
+[19:56:24	][IC] C24:RCT.YELLO-12: <:: Czekaj. ::>
+[19:56:28	][IC] wortygont: A x64.
+[19:56:29	][IC] wortygont: Nie mam.
+[19:56:30	][IC] wortygont: Nie sylsze.
+[19:56:32	][IC] wortygont: Sadge.
+[19:56:32	]C24:RCT.YELLO-12 has spawned a sapphire_dust.
+[19:56:35	]wortygont ran 'Consume' on item 'Star Dust' (#51246)
+[19:56:35	]wortygont has updated their Siła short boost target to -3 (current : 5).
+[19:56:35	]wortygont has gained a level 6 short boost in Percepcja.
+[19:56:35	]wortygont has gained a level 5 short boost in Inteligencja.
+[19:56:39	]C24:RCT.YELLO-12 has spawned a sapphire_dust.
+[19:56:41	]C24:RCT.YELLO-12 ran 'Consume' on item 'Star Dust' (#51247)
+[19:56:41	]C24:RCT.YELLO-12 has updated their Siła short boost target to -3 (current : 5).
+[19:56:41	]C24:RCT.YELLO-12 has gained a level 6 short boost in Percepcja.
+[19:56:41	]C24:RCT.YELLO-12 has gained a level 5 short boost in Inteligencja.
+[19:57:04	]C24:RCT.YELLO-12 entered observer.
+[19:57:30	]C24:RCT.YELLO-12 used command '/RemoveDrugEffects worty'.
+[19:57:46	]wortygont entered observer.
+[19:58:12	]wortygont exited observer at their location.
+[19:58:39	]C24:RCT.YELLO-12 exited observer at their location.
+[19:58:41	]C24:RCT.YELLO-12 entered observer.
+[19:58:42	]C24:RCT.YELLO-12 exited observer at their location.
+[19:58:44	]C24:RCT.YELLO-12 entered observer.
+[19:58:46	]wortygont entered observer.
+[19:59:38	]wortygont exited observer at their location.
+[19:59:38	]wortygont entered observer.
+[19:59:39	]wortygont exited observer at their location.
+[20:00:33	]C24:RCT.YELLO-12 used command '/RemoveDrugEffects yello'.
+[20:00:38	]C24:RCT.YELLO-12 ran SAM command 'hp' with arguments: '*' '100'
+[20:00:40	]C24:RCT.YELLO-12 is fully healed.
+[20:00:42	]C24:RCT.YELLO-12 exited observer at their location.
+[20:00:43	]C24:RCT.YELLO-12 entered observer.
+[20:00:43	]C24:RCT.YELLO-12 exited observer at their location.
+[20:00:44	]C24:RCT.YELLO-12 entered observer.
+[20:00:46	]C24:RCT.YELLO-12 exited observer at their location.
+[20:00:47	]C24:RCT.YELLO-12 entered observer.
+[20:00:48	]C24:RCT.YELLO-12 exited observer at their location.
+[20:00:50	]C24:RCT.YELLO-12 entered observer.
+[20:00:54	]C24:RCT.YELLO-12 exited observer at their location.
+[20:00:56	]C24:RCT.YELLO-12 entered observer.
+[20:00:57	]C24:RCT.YELLO-12 exited observer at their location.
+[20:00:58	]C24:RCT.YELLO-12 entered observer.
+[20:00:59	]C24:RCT.YELLO-12 exited observer at their location.
+[20:01:00	]C24:RCT.YELLO-12 entered observer.
+[20:01:01	]C24:RCT.YELLO-12 exited observer at their location.
+[20:01:03	]C24:RCT.YELLO-12 entered observer.
+[20:01:06	]C24:RCT.YELLO-12 exited observer at their location.
+[20:01:10	]C24:RCT.YELLO-12 entered observer.
+[20:01:10	]C24:RCT.YELLO-12 exited observer at their location.
+[20:01:11	]C24:RCT.YELLO-12 entered observer.
+[20:01:52	]wortygont ran SAM command 'goto' with arguments: 'yello'
+[20:01:53	]C24:RCT.YELLO-12 exited observer at their location.
+[20:01:55	]C24:RCT.YELLO-12 entered observer.
+[20:02:04	][Y] wortygont: CHWAŁA.
+[20:02:05	][Y] wortygont: CHWAŁA.
+[20:02:05	][Y] wortygont: CHWAŁA.
+[20:02:06	][Y] wortygont: CHWAŁA.
+[20:02:07	][Y] wortygont: CHWAŁA.
+[20:02:08	][Y] wortygont: CHWAŁA.
+[20:02:08	]C24:RCT.YELLO-12 exited observer at their location.
+[20:02:08	][Y] wortygont: CHWAŁA.
+[20:02:16	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[20:02:19	]C24:RCT.YELLO-12 has hit wortygont dealing 43 damage (CritChance was 0.00).
+[20:02:19	]wortygont has taken 43 damage from C24:RCT.YELLO-12.
+[20:02:22	]C24:RCT.YELLO-12 has hit wortygont dealing 43 damage (CritChance was 0.00).
+[20:02:22	]wortygont has taken 43 damage from C24:RCT.YELLO-12.
+[20:02:22	][Y] wortygont: KURWAAAAAAAAAAAAAA.
+[20:02:26	]C24:RCT.YELLO-12 has hit wortygont dealing 10 damage (CritChance was 0.00).
+[20:02:26	]wortygont has taken 10 damage from C24:RCT.YELLO-12.
+[20:02:29	]C24:RCT.YELLO-12 has hit wortygont dealing 14 damage (CritChance was 0.00).
+[20:02:29	]wortygont has taken 14 damage from C24:RCT.YELLO-12.
+[20:02:30	]C24:RCT.YELLO-12 has hit wortygont dealing 18 damage (CritChance was 0.00).
+[20:02:30	]wortygont has taken 18 damage from C24:RCT.YELLO-12.
+[20:02:33	][IC] C24:RCT.YELLO-12: <:: Cenzuruje cie cwelu. ::>
+[20:02:37	]C24:RCT.YELLO-12 has hit wortygont dealing 21 damage (CritChance was 0.00).
+[20:02:37	]wortygont has taken 21 damage from C24:RCT.YELLO-12.
+[20:02:38	]C24:RCT.YELLO-12 has hit wortygont dealing 14 damage (CritChance was 0.00).
+[20:02:38	]wortygont has taken 14 damage from C24:RCT.YELLO-12.
+[20:02:39	][Y] wortygont: SOLIDARNOŚĆ.
+[20:02:40	]C24:RCT.YELLO-12 has hit wortygont dealing 7 damage (CritChance was 0.00).
+[20:02:40	]wortygont has taken 7 damage from C24:RCT.YELLO-12.
+[20:02:42	]C24:RCT.YELLO-12 has hit wortygont dealing 25 damage (CritChance was 0.00).
+[20:02:42	]wortygont has taken 25 damage from C24:RCT.YELLO-12.
+[20:02:43	]C24:RCT.YELLO-12 has hit wortygont dealing 25 damage (CritChance was 0.00).
+[20:02:43	]wortygont has taken 25 damage from C24:RCT.YELLO-12.
+[20:02:45	]C24:RCT.YELLO-12 has hit wortygont dealing 21 damage (CritChance was 0.00).
+[20:02:45	]wortygont was knocked unconscious and is bleeding out.
+[20:02:48	]C24:RCT.YELLO-12 entered observer.
+[20:03:17	]C24:RCT.YELLO-12 exited observer at their location.
+[20:03:19	]wortygont has dropped: Ciemne spodnie dla Vortigaunta (#50828);
+[20:03:19	]wortygont ran SAM command 'slay' with arguments: '^'
+[20:03:32	]C24:RCT.YELLO-12 has used a context menu option with the name: skin
+[20:03:35	]C24:RCT.YELLO-12 has used a context menu option with the name: skin
+[20:03:36	]C24:RCT.YELLO-12 entered observer.
+[20:03:36	]C24:RCT.YELLO-12 exited observer at their location.
+[20:03:41	]wortygont entered observer.
+[20:03:41	]C24:RCT.YELLO-12 entered observer.
+[20:03:44	]wortygont exited observer at their location.
+[20:04:16	]C24:RCT.YELLO-12 exited observer at their location.
+[20:04:32	]C24:RCT.YELLO-12 entered observer.
+[20:05:37	]wortygont entered observer.
+[20:05:38	]wortygont exited observer at their location.
+[20:06:03	]wortygont entered observer.
+[20:06:04	]wortygont exited observer at their location.
+[20:06:08	]wortygont entered observer.
+[20:06:09	]wortygont exited observer at their location.
+[20:06:16	]wortygont entered observer.
+[20:06:17	]wortygont exited observer at their location.
+[20:06:27	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[20:06:29	]C24:RCT.YELLO-12 exited observer at their location.
+[20:06:31	]wortygont entered observer.
+[20:06:32	]wortygont exited observer at their location.
+[20:06:34	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:34	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:34	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:34	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:35	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:35	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:35	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:35	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:35	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:35	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:35	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:35	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:35	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:35	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:35	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:35	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:37	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:37	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:37	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:37	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:37	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:37	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:38	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:38	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:38	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:38	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:38	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:38	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:38	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:38	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:38	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:38	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:38	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:38	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:39	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:39	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:39	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:39	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:39	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:39	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:39	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:39	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:39	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:39	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:39	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:39	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:39	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:39	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:39	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:39	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:39	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:39	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:40	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:40	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:40	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:40	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:40	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:40	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:40	]C24:RCT.YELLO-12 has hit wortygont dealing 9 damage (CritChance was 0.00).
+[20:06:40	]wortygont has taken 9 damage from C24:RCT.YELLO-12.
+[20:06:41	]inkaaz loaded the character 'C24:i5.Victor-01'
+[20:06:44	]C24:i5.Victor-01 entered observer.
+[20:06:46	]C24:i5.Victor-01 exited observer at their location.
+[20:06:52	]Matty has unloaded their "C24:RCT.YELLO-12" character.
+[20:06:56	]Matty loaded the character 'C24:RCT.YELLO-12'
+[20:06:57	]C24:RCT.YELLO-12 entered observer.
+[20:06:58	]C24:RCT.YELLO-12 exited observer at their location.
+[20:06:58	]C24:RCT.YELLO-12 entered observer.
+[20:06:59	]C24:RCT.YELLO-12 exited observer at their location.
+[20:07:00	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[20:07:12	]C24:i5.Victor-01 entered observer.
+[20:07:13	]C24:i5.Victor-01 exited observer at their location.
+[20:07:17	]C24:RCT.YELLO-12 has gained level 7 in the Broń palna skill.
+[20:07:23	]C24:RCT.YELLO-12 entered observer.
+[20:07:48	]C24:RCT.YELLO-12 exited observer at their location.
+[20:07:51	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[20:07:55	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[20:08:35	]C24:i5.Victor-01 entered observer.
+[20:08:35	]C24:i5.Victor-01 exited observer at their location.
+[20:09:03	]C24:RCT.YELLO-12 entered observer.
+[20:09:07	]C24:RCT.YELLO-12 exited observer at their location.
+[20:09:07	]C24:RCT.YELLO-12 entered observer.
+[20:09:12	]C24:RCT.YELLO-12 exited observer at their location.
+[20:09:12	]C24:RCT.YELLO-12 entered observer.
+[20:09:14	]C24:i5.Victor-01 has spawned a 'Entity [543][gmod_sent_vehicle_fphysics_base]'.
+[20:09:14	]C24:RCT.YELLO-12 exited observer at their location.
+[20:09:14	]C24:RCT.YELLO-12 entered observer.
+[20:09:15	]C24:i5.Victor-01 has spawned a 'Entity [543][gmod_sent_vehicle_fphysics_base]'.
+[20:09:17	]C24:i5.Victor-01 has used a context menu option with the name: skin
+[20:09:19	]C24:RCT.YELLO-12 exited observer at their location.
+[20:09:27	]C24:RCT.YELLO-12 entered observer.
+[20:09:50	]C24:i5.Victor-01 has spawned a 'Entity [543][gmod_sent_vehicle_fphysics_base]'.
+[20:10:08	]C24:i5.Victor-01 has spawned a 'Entity [543][gmod_sent_vehicle_fphysics_base]'.
+[20:10:46	]C24:RCT.YELLO-12 exited observer at their location.
+[20:11:02	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[20:11:05	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 in the head dealing 20 damage (CritChance was 0.00).
+[20:11:05	]C24:RCT.YELLO-12 has taken 20 damage from C24:i5.Victor-01.
+[20:11:05	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 in the head dealing 20 damage (CritChance was 0.00).
+[20:11:05	]C24:RCT.YELLO-12 has taken 20 damage from C24:i5.Victor-01.
+[20:11:05	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 in the head dealing 20 damage (CritChance was 0.00).
+[20:11:05	]C24:RCT.YELLO-12 has taken 20 damage from C24:i5.Victor-01.
+[20:11:05	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 in the head dealing 20 damage (CritChance was 0.00).
+[20:11:05	]C24:RCT.YELLO-12 has taken 20 damage from C24:i5.Victor-01.
+[20:11:06	]C24:RCT.YELLO-12 is fully healed.
+[20:11:06	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 in the head dealing 20 damage (CritChance was 0.00).
+[20:11:06	]C24:RCT.YELLO-12 has taken 20 damage from C24:i5.Victor-01.
+[20:11:06	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 in the head dealing 20 damage (CritChance was 0.00).
+[20:11:06	]C24:RCT.YELLO-12 has taken 20 damage from C24:i5.Victor-01.
+[20:11:06	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 in the head dealing 20 damage (CritChance was 0.00).
+[20:11:06	]C24:RCT.YELLO-12 has taken 20 damage from C24:i5.Victor-01.
+[20:11:07	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 in the head dealing 20 damage (CritChance was 0.00).
+[20:11:07	]C24:RCT.YELLO-12 has taken 20 damage from C24:i5.Victor-01.
+[20:11:07	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 in the head dealing 20 damage (CritChance was 0.00).
+[20:11:07	]C24:RCT.YELLO-12 has taken 20 damage from C24:i5.Victor-01.
+[20:11:07	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 in the head dealing 20 damage (CritChance was 0.00).
+[20:11:07	]C24:RCT.YELLO-12 has taken 20 damage from C24:i5.Victor-01.
+[20:11:07	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 in the head dealing 20 damage (CritChance was 0.00).
+[20:11:07	]C24:RCT.YELLO-12 has taken 20 damage from C24:i5.Victor-01.
+[20:11:07	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 in the head dealing 20 damage (CritChance was 0.00).
+[20:11:07	]C24:RCT.YELLO-12 has taken 20 damage from C24:i5.Victor-01.
+[20:11:09	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 in the head dealing 20 damage (CritChance was 0.00).
+[20:11:09	]C24:RCT.YELLO-12 has taken 20 damage from C24:i5.Victor-01.
+[20:11:09	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 in the head dealing 20 damage (CritChance was 0.00).
+[20:11:09	]C24:RCT.YELLO-12 has taken 20 damage from C24:i5.Victor-01.
+[20:11:09	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 729 damage (CritChance was 0.00).
+[20:11:09	]C24:RCT.YELLO-12 was knocked unconscious and is bleeding out.
+[20:11:21	]C24:RCT.YELLO-12 used command '/CharStopBleedout yello'.
+[20:11:23	]C24:RCT.YELLO-12 ran SAM command 'hp' with arguments: '*' '1092943'
+[20:11:26	]C24:RCT.YELLO-12 is no longer unconscious from critical wounds.
+[20:11:26	]C24:RCT.YELLO-12 is fully healed.
+[20:11:26	]C24:i5.Victor-01 is fully healed.
+[20:11:39	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[20:11:40	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:40	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:40	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:40	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:40	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:40	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:40	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:40	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:41	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:41	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:41	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:41	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:41	]C24:i5.Victor-01 has hit C24:i5.Victor-01 dealing 0 damage (CritChance was 0.00).
+[20:11:41	]C24:i5.Victor-01 has hit C24:i5.Victor-01 dealing 0 damage (CritChance was 0.00).
+[20:11:41	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 900 damage (CritChance was 0.00).
+[20:11:41	]C24:RCT.YELLO-12 has taken 900 damage from C24:i5.Victor-01.
+[20:11:41	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 3150 damage (CritChance was 0.00).
+[20:11:41	]C24:RCT.YELLO-12 has taken 3150 damage from C24:i5.Victor-01.
+[20:11:41	]C24:RCT.YELLO-12 is fully healed.
+[20:11:41	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:41	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:41	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:41	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:42	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:42	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:42	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:42	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:42	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:42	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:43	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:43	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:44	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:44	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:44	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:44	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:44	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:44	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:44	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:44	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:44	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:44	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:45	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:45	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:45	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:45	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:45	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:45	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:45	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:45	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:45	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:45	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:45	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:45	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:46	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:46	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:46	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 900 damage (CritChance was 0.00).
+[20:11:46	]C24:RCT.YELLO-12 has taken 900 damage from C24:i5.Victor-01.
+[20:11:46	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 3150 damage (CritChance was 0.00).
+[20:11:46	]C24:RCT.YELLO-12 has taken 3150 damage from C24:i5.Victor-01.
+[20:11:46	]C24:RCT.YELLO-12 is fully healed.
+[20:11:48	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:48	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:48	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:48	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:48	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:48	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:49	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:49	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:49	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:49	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:49	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:49	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:49	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:49	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:49	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:49	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:50	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:50	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:50	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:50	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:50	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:50	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:50	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:50	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:50	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:50	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:50	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 25 damage (CritChance was 0.00).
+[20:11:50	]C24:RCT.YELLO-12 has taken 25 damage from C24:i5.Victor-01.
+[20:11:50	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:50	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:51	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:51	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:51	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:51	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:51	]C24:RCT.YELLO-12 is fully healed.
+[20:11:51	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:51	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:52	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:52	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:52	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:52	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:52	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:52	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:53	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:53	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:55	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:55	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:55	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:55	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:55	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:55	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:55	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 407 damage (CritChance was 0.00).
+[20:11:55	]C24:RCT.YELLO-12 has taken 407 damage from C24:i5.Victor-01.
+[20:11:56	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:56	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:56	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:56	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:56	]C24:RCT.YELLO-12 is fully healed.
+[20:11:56	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:56	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:57	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:57	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:58	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:58	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:11:58	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:11:58	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:01	]C24:RCT.YELLO-12 is fully healed.
+[20:12:04	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:04	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:04	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 9 damage (CritChance was 0.00).
+[20:12:04	]C24:RCT.YELLO-12 has taken 9 damage from C24:i5.Victor-01.
+[20:12:05	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 450 damage (CritChance was 0.00).
+[20:12:05	]C24:RCT.YELLO-12 has taken 450 damage from C24:i5.Victor-01.
+[20:12:05	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 450 damage (CritChance was 0.00).
+[20:12:05	]C24:RCT.YELLO-12 has taken 450 damage from C24:i5.Victor-01.
+[20:12:05	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 450 damage (CritChance was 0.00).
+[20:12:05	]C24:RCT.YELLO-12 has taken 450 damage from C24:i5.Victor-01.
+[20:12:05	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 450 damage (CritChance was 0.00).
+[20:12:05	]C24:RCT.YELLO-12 has taken 450 damage from C24:i5.Victor-01.
+[20:12:05	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 450 damage (CritChance was 0.00).
+[20:12:05	]C24:RCT.YELLO-12 has taken 450 damage from C24:i5.Victor-01.
+[20:12:05	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 450 damage (CritChance was 0.00).
+[20:12:05	]C24:RCT.YELLO-12 has taken 450 damage from C24:i5.Victor-01.
+[20:12:05	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 450 damage (CritChance was 0.00).
+[20:12:05	]C24:RCT.YELLO-12 has taken 450 damage from C24:i5.Victor-01.
+[20:12:05	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 450 damage (CritChance was 0.00).
+[20:12:05	]C24:RCT.YELLO-12 has taken 450 damage from C24:i5.Victor-01.
+[20:12:05	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[20:12:05	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 450 damage (CritChance was 0.00).
+[20:12:05	]C24:RCT.YELLO-12 has taken 450 damage from C24:i5.Victor-01.
+[20:12:05	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 90 damage (CritChance was 0.00).
+[20:12:05	]C24:RCT.YELLO-12 has taken 90 damage from C24:i5.Victor-01.
+[20:12:05	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 90 damage (CritChance was 0.00).
+[20:12:05	]C24:RCT.YELLO-12 has taken 90 damage from C24:i5.Victor-01.
+[20:12:05	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 4 damage (CritChance was 0.00).
+[20:12:05	]C24:RCT.YELLO-12 has taken 4 damage from C24:i5.Victor-01.
+[20:12:05	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 4 damage (CritChance was 0.00).
+[20:12:05	]C24:RCT.YELLO-12 has taken 4 damage from C24:i5.Victor-01.
+[20:12:05	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 9 damage (CritChance was 0.00).
+[20:12:05	]C24:RCT.YELLO-12 has taken 9 damage from C24:i5.Victor-01.
+[20:12:06	]C24:RCT.YELLO-12 is fully healed.
+[20:12:07	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 45 damage (CritChance was 0.00).
+[20:12:07	]C24:RCT.YELLO-12 has taken 45 damage from C24:i5.Victor-01.
+[20:12:09	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:09	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:10	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:10	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:10	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:10	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:10	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:10	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:11	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:11	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:11	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:11	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:11	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:11	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:11	]C24:RCT.YELLO-12 is fully healed.
+[20:12:11	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:11	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:12	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:12	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:12	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:12	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:12	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 172 damage (CritChance was 0.00).
+[20:12:12	]C24:RCT.YELLO-12 has taken 172 damage from C24:i5.Victor-01.
+[20:12:13	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:13	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:13	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:13	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:13	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:13	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:13	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:13	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:13	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:13	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:14	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:14	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:14	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:14	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:14	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:14	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:14	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:14	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:14	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:14	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:15	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:15	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:15	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:15	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:15	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:15	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:15	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:15	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:15	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:15	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:15	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:15	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:16	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:16	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:16	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:16	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:16	]C24:RCT.YELLO-12 is fully healed.
+[20:12:16	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:16	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:16	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:16	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:16	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:16	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:16	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:16	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:17	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:17	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:17	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:17	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:17	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:17	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:17	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:17	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:17	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:17	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:17	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:17	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:18	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:18	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:21	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:21	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:21	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:21	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:23	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 18 damage (CritChance was 0.00).
+[20:12:23	]C24:RCT.YELLO-12 has taken 18 damage from C24:i5.Victor-01.
+[20:12:31	]C24:RCT.YELLO-12 has taken 37 damage from worldspawn.
+[20:12:36	]C24:RCT.YELLO-12 is fully healed.
+[20:13:03	]C24:RCT.YELLO-12 entered observer.
+[20:13:04	]C24:RCT.YELLO-12 exited observer at their location.
+[20:13:04	]C24:RCT.YELLO-12 entered observer.
+[20:13:22	]C24:i5.Victor-01 entered observer.
+[20:13:26	]C24:i5.Victor-01 has spawned a 'Entity [606][gmod_sent_vehicle_fphysics_base]'.
+[20:13:28	]C24:i5.Victor-01 exited observer at their location.
+[20:13:30	]C24:i5.Victor-01 has taken 1000 damage from gmod_sent_vehicle_fphysics_base.
+[20:13:30	]C24:i5.Victor-01 has taken 40 damage from gmod_sent_vehicle_fphysics_base.
+[20:13:30	]C24:i5.Victor-01 has taken 1000 damage from gmod_sent_vehicle_fphysics_base.
+[20:13:30	]C24:i5.Victor-01 has taken 20 damage from gmod_sent_vehicle_fphysics_base.
+[20:13:31	]C24:i5.Victor-01 has taken 100 damage from gmod_sent_vehicle_fphysics_base.
+[20:13:31	]C24:i5.Victor-01 is fully healed.
+[20:13:50	]C24:i5.Victor-01 has spawned a 'Entity [456][gmod_sent_vehicle_fphysics_base]'.
+[20:13:52	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 27 damage (CritChance was 0.00).
+[20:13:52	]C24:RCT.YELLO-12 has taken 27 damage from C24:i5.Victor-01.
+[20:13:52	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 27 damage (CritChance was 0.00).
+[20:13:52	]C24:RCT.YELLO-12 has taken 27 damage from C24:i5.Victor-01.
+[20:13:52	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 27 damage (CritChance was 0.00).
+[20:13:52	]C24:RCT.YELLO-12 has taken 27 damage from C24:i5.Victor-01.
+[20:14:07	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 36 damage (CritChance was 0.00).
+[20:14:07	]C24:RCT.YELLO-12 has taken 36 damage from C24:i5.Victor-01.
+[20:14:07	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 36 damage (CritChance was 0.00).
+[20:14:07	]C24:RCT.YELLO-12 was knocked unconscious and is bleeding out.
+[20:14:19	]C24:RCT.YELLO-12 used command '/CharGetUp'.
+[20:14:21	]C24:RCT.YELLO-12 entered observer.
+[20:14:23	]C24:RCT.YELLO-12 entered observer.
+[20:14:26	]C24:RCT.YELLO-12 is fully healed.
+[20:14:27	]C24:i5.Victor-01 has spawned a 'Entity [456][gmod_sent_vehicle_fphysics_base]'.
+[20:14:40	]C24:RCT.YELLO-12 exited observer at their location.
+[20:14:46	]C24:RCT.YELLO-12 has spawned a pistolammo.
+[20:14:47	]C24:i5.Victor-01 entered observer.
+[20:14:48	]C24:RCT.YELLO-12 ran 'take' on item '9mm Pistol Bullets' (#51248)
+[20:14:48	]C24:RCT.YELLO-12 has gained a '9mm Pistol Bullets' #51248.
+[20:14:50	]C24:i5.Victor-01 exited observer at their location.
+[20:15:03	]C24:i5.Victor-01 has given himself a bullets_smg1.
+[20:15:03	]C24:i5.Victor-01 has gained a 'Amunicja PM' #51249.
+[20:15:04	]C24:RCT.YELLO-12 has spawned a bullets_pistol.
+[20:15:04	]C24:RCT.YELLO-12 ran 'take' on item 'Amunicja kalibru 9mm' (#51250)
+[20:15:04	]C24:RCT.YELLO-12 has gained a 'Amunicja kalibru 9mm' #51250.
+[20:15:07	]C24:RCT.YELLO-12 ran 'drop' on item '9mm Pistol Bullets' (#51248)
+[20:15:07	]C24:RCT.YELLO-12 has lost a '9mm Pistol Bullets' #51248.
+[20:15:09	]C24:RCT.YELLO-12 ran 'drop' on item 'Amunicja kalibru 9mm' (#51250)
+[20:15:09	]C24:RCT.YELLO-12 has lost a 'Amunicja kalibru 9mm' #51250.
+[20:15:12	]C24:RCT.YELLO-12 has used a context menu option with the name: rb655_dissolve
+[20:15:13	]C24:RCT.YELLO-12 has used a context menu option with the name: rb655_dissolve
+[20:15:14	]env_entity_dissolver destroyed a '9mm Pistol Bullets' #51248.
+[20:15:15	]env_entity_dissolver destroyed a 'Amunicja kalibru 9mm' #51250.
+[20:15:18	]C24:RCT.YELLO-12 has spawned a magazine_shotgun5.
+[20:15:19	]C24:RCT.YELLO-12 has spawned a magazine_shotgun.
+[20:15:19	]C24:RCT.YELLO-12 has spawned a bullets_buckshot.
+[20:15:31	]C24:RCT.YELLO-12 has taken 1000 damage from C24:i5.Victor-01.
+[20:15:34	]C24:RCT.YELLO-12 has taken 1000 damage from C24:i5.Victor-01.
+[20:15:35	]C24:RCT.YELLO-12 has taken 1000 damage from C24:i5.Victor-01.
+[20:15:42	]C24:i5.Victor-01 entered observer.
+[20:15:44	]C24:i5.Victor-01 exited observer at their location.
+[20:15:45	]C24:i5.Victor-01 entered observer.
+[20:15:46	]C24:i5.Victor-01 exited observer at their location.
+[20:15:54	]C24:i5.Victor-01 has taken 1000 damage from C24:RCT.YELLO-12.
+[20:15:56	]C24:i5.Victor-01 has taken 1000 damage from C24:RCT.YELLO-12.
+[20:15:56	]C24:i5.Victor-01 is fully healed.
+[20:15:57	]C24:i5.Victor-01 has taken 1000 damage from C24:RCT.YELLO-12.
+[20:15:59	]C24:i5.Victor-01 has taken 1000 damage from C24:RCT.YELLO-12.
+[20:16:01	]C24:i5.Victor-01 is fully healed.
+[20:16:02	]C24:i5.Victor-01 has taken 1000 damage from C24:RCT.YELLO-12.
+[20:16:04	]C24:i5.Victor-01 has taken 1000 damage from C24:RCT.YELLO-12.
+[20:16:06	]C24:i5.Victor-01 has taken 1000 damage from C24:RCT.YELLO-12.
+[20:16:06	]C24:i5.Victor-01 is fully healed.
+[20:16:07	]C24:i5.Victor-01 has taken 1000 damage from C24:RCT.YELLO-12.
+[20:16:11	]C24:i5.Victor-01 is fully healed.
+[20:16:13	]C24:i5.Victor-01 has taken 60 damage from C24:RCT.YELLO-12.
+[20:16:14	]C24:i5.Victor-01 has taken 60 damage from C24:RCT.YELLO-12.
+[20:16:15	]C24:i5.Victor-01 has taken 60 damage from C24:RCT.YELLO-12.
+[20:16:16	]C24:RCT.YELLO-12 is fully healed.
+[20:16:16	]C24:i5.Victor-01 is fully healed.
+[20:16:16	]C24:i5.Victor-01 has taken 60 damage from C24:RCT.YELLO-12.
+[20:16:17	]C24:i5.Victor-01 has taken 60 damage from C24:RCT.YELLO-12.
+[20:16:18	]C24:i5.Victor-01 has taken 60 damage from C24:RCT.YELLO-12.
+[20:16:19	]C24:i5.Victor-01 has taken 60 damage from C24:RCT.YELLO-12.
+[20:16:20	]C24:i5.Victor-01 has taken 60 damage from C24:RCT.YELLO-12.
+[20:16:21	]C24:i5.Victor-01 is fully healed.
+[20:16:21	]C24:i5.Victor-01 has taken 60 damage from C24:RCT.YELLO-12.
+[20:16:22	]C24:i5.Victor-01 has taken 60 damage from C24:RCT.YELLO-12.
+[20:16:23	]C24:i5.Victor-01 has taken 60 damage from C24:RCT.YELLO-12.
+[20:16:24	]C24:i5.Victor-01 has taken 60 damage from C24:RCT.YELLO-12.
+[20:16:25	]C24:i5.Victor-01 has taken 60 damage from C24:RCT.YELLO-12.
+[20:16:26	]C24:i5.Victor-01 is fully healed.
+[20:16:26	]C24:i5.Victor-01 has taken 60 damage from C24:RCT.YELLO-12.
+[20:16:27	]C24:i5.Victor-01 has taken 60 damage from C24:RCT.YELLO-12.
+[20:16:31	]C24:i5.Victor-01 is fully healed.
+[20:16:32	]C24:RCT.YELLO-12 has hit C24:RCT.YELLO-12 dealing 11 damage (CritChance was 0.00).
+[20:16:32	]C24:RCT.YELLO-12 has taken 11 damage from C24:RCT.YELLO-12.
+[20:16:32	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 37 damage (CritChance was 0.00).
+[20:16:32	]C24:i5.Victor-01 has taken 37 damage from C24:RCT.YELLO-12.
+[20:16:33	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 19 damage (CritChance was 0.00).
+[20:16:33	]C24:i5.Victor-01 has taken 19 damage from C24:RCT.YELLO-12.
+[20:16:36	]C24:RCT.YELLO-12 is fully healed.
+[20:16:36	]C24:i5.Victor-01 is fully healed.
+[20:16:40	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 24 damage (CritChance was 0.00).
+[20:16:40	]C24:i5.Victor-01 has taken 24 damage from C24:RCT.YELLO-12.
+[20:16:40	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 24 damage (CritChance was 0.00).
+[20:16:40	]C24:i5.Victor-01 has taken 24 damage from C24:RCT.YELLO-12.
+[20:16:41	]C24:i5.Victor-01 is fully healed.
+[20:16:46	]C24:RCT.YELLO-12 has hit C24:RCT.YELLO-12 dealing 9 damage (CritChance was 0.00).
+[20:16:46	]C24:RCT.YELLO-12 has taken 9 damage from C24:RCT.YELLO-12.
+[20:16:46	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 35 damage (CritChance was 0.00).
+[20:16:46	]C24:i5.Victor-01 has taken 35 damage from C24:RCT.YELLO-12.
+[20:16:46	]C24:RCT.YELLO-12 is fully healed.
+[20:16:46	]C24:i5.Victor-01 is fully healed.
+[20:16:47	]C24:RCT.YELLO-12 has hit C24:RCT.YELLO-12 dealing 11 damage (CritChance was 0.00).
+[20:16:47	]C24:RCT.YELLO-12 has taken 11 damage from C24:RCT.YELLO-12.
+[20:16:47	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 36 damage (CritChance was 0.00).
+[20:16:47	]C24:i5.Victor-01 has taken 36 damage from C24:RCT.YELLO-12.
+[20:16:48	]C24:RCT.YELLO-12 has hit C24:RCT.YELLO-12 dealing 8 damage (CritChance was 0.00).
+[20:16:48	]C24:RCT.YELLO-12 has taken 8 damage from C24:RCT.YELLO-12.
+[20:16:48	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 35 damage (CritChance was 0.00).
+[20:16:48	]C24:i5.Victor-01 has taken 35 damage from C24:RCT.YELLO-12.
+[20:16:49	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 15 damage (CritChance was 0.00).
+[20:16:49	]C24:i5.Victor-01 has taken 15 damage from C24:RCT.YELLO-12.
+[20:16:49	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 15 damage (CritChance was 0.00).
+[20:16:49	]C24:i5.Victor-01 has taken 15 damage from C24:RCT.YELLO-12.
+[20:16:50	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 19 damage (CritChance was 0.00).
+[20:16:50	]C24:i5.Victor-01 has taken 19 damage from C24:RCT.YELLO-12.
+[20:16:50	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 19 damage (CritChance was 0.00).
+[20:16:50	]C24:i5.Victor-01 has taken 19 damage from C24:RCT.YELLO-12.
+[20:16:51	]C24:RCT.YELLO-12 is fully healed.
+[20:16:51	]C24:i5.Victor-01 is fully healed.
+[20:16:51	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 17 damage (CritChance was 0.00).
+[20:16:51	]C24:i5.Victor-01 has taken 17 damage from C24:RCT.YELLO-12.
+[20:16:51	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 17 damage (CritChance was 0.00).
+[20:16:51	]C24:i5.Victor-01 has taken 17 damage from C24:RCT.YELLO-12.
+[20:16:52	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 18 damage (CritChance was 0.00).
+[20:16:52	]C24:i5.Victor-01 has taken 18 damage from C24:RCT.YELLO-12.
+[20:16:52	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 18 damage (CritChance was 0.00).
+[20:16:52	]C24:i5.Victor-01 has taken 18 damage from C24:RCT.YELLO-12.
+[20:16:53	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 16 damage (CritChance was 0.00).
+[20:16:53	]C24:i5.Victor-01 has taken 16 damage from C24:RCT.YELLO-12.
+[20:16:53	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 16 damage (CritChance was 0.00).
+[20:16:53	]C24:i5.Victor-01 has taken 16 damage from C24:RCT.YELLO-12.
+[20:16:53	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 16 damage (CritChance was 0.00).
+[20:16:53	]C24:i5.Victor-01 has taken 16 damage from C24:RCT.YELLO-12.
+[20:16:55	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 20 damage (CritChance was 0.00).
+[20:16:55	]C24:i5.Victor-01 has taken 20 damage from C24:RCT.YELLO-12.
+[20:16:55	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 20 damage (CritChance was 0.00).
+[20:16:55	]C24:i5.Victor-01 has taken 20 damage from C24:RCT.YELLO-12.
+[20:16:56	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 16 damage (CritChance was 0.00).
+[20:16:56	]C24:i5.Victor-01 has taken 16 damage from C24:RCT.YELLO-12.
+[20:16:56	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 16 damage (CritChance was 0.00).
+[20:16:56	]C24:i5.Victor-01 has taken 16 damage from C24:RCT.YELLO-12.
+[20:16:56	]C24:i5.Victor-01 is fully healed.
+[20:16:57	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 18 damage (CritChance was 0.00).
+[20:16:57	]C24:i5.Victor-01 has taken 18 damage from C24:RCT.YELLO-12.
+[20:16:57	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 dealing 18 damage (CritChance was 0.00).
+[20:16:57	]C24:i5.Victor-01 has taken 18 damage from C24:RCT.YELLO-12.
+[20:17:00	]C24:RCT.YELLO-12 used command '/ToggleRaise'.
+[20:17:01	]C24:RCT.YELLO-12 is fully healed.
+[20:17:01	]C24:i5.Victor-01 is fully healed.
+[20:17:02	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 in the stomach dealing 11 damage (CritChance was 0.00).
+[20:17:02	]C24:i5.Victor-01 has taken 11 damage from C24:RCT.YELLO-12.
+[20:17:03	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 in the left arm dealing 1 damage (CritChance was 0.00).
+[20:17:03	]C24:i5.Victor-01 has taken 1 damage from C24:RCT.YELLO-12.
+[20:17:03	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 in the stomach dealing 11 damage (CritChance was 0.00).
+[20:17:03	]C24:i5.Victor-01 has taken 11 damage from C24:RCT.YELLO-12.
+[20:17:03	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 in the left arm dealing 1 damage (CritChance was 0.00).
+[20:17:03	]C24:i5.Victor-01 has taken 1 damage from C24:RCT.YELLO-12.
+[20:17:03	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 in the stomach dealing 11 damage (CritChance was 0.00).
+[20:17:03	]C24:i5.Victor-01 has taken 11 damage from C24:RCT.YELLO-12.
+[20:17:04	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 in the left arm dealing 1 damage (CritChance was 0.00).
+[20:17:04	]C24:i5.Victor-01 has taken 1 damage from C24:RCT.YELLO-12.
+[20:17:04	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 in the left arm dealing 1 damage (CritChance was 0.00).
+[20:17:04	]C24:i5.Victor-01 has taken 1 damage from C24:RCT.YELLO-12.
+[20:17:04	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 in the right arm dealing 1 damage (CritChance was 0.00).
+[20:17:04	]C24:i5.Victor-01 has taken 1 damage from C24:RCT.YELLO-12.
+[20:17:04	]C24:i5.Victor-01 has hit C24:RCT.YELLO-12 dealing 7 damage (CritChance was 0.00).
+[20:17:04	]C24:RCT.YELLO-12 has taken 7 damage from C24:i5.Victor-01.
+[20:17:04	]C24:i5.Victor-01 has damaged C24:RCT.YELLO-12, dealing 8.5 with ix_hands
+[20:17:04	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 in the left arm dealing 1 damage (CritChance was 0.00).
+[20:17:04	]C24:i5.Victor-01 has taken 1 damage from C24:RCT.YELLO-12.
+[20:17:04	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 in the left arm dealing 1 damage (CritChance was 0.00).
+[20:17:04	]C24:i5.Victor-01 has taken 1 damage from C24:RCT.YELLO-12.
+[20:17:06	]C24:i5.Victor-01 is fully healed.
+[20:17:08	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 in the left leg dealing 1 damage (CritChance was 0.00).
+[20:17:08	]C24:i5.Victor-01 has taken 1 damage from C24:RCT.YELLO-12.
+[20:17:08	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 in the left leg dealing 1 damage (CritChance was 0.00).
+[20:17:08	]C24:i5.Victor-01 has taken 1 damage from C24:RCT.YELLO-12.
+[20:17:08	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 in the stomach dealing 11 damage (CritChance was 0.00).
+[20:17:08	]C24:i5.Victor-01 has taken 11 damage from C24:RCT.YELLO-12.
+[20:17:09	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 in the right leg dealing 1 damage (CritChance was 0.00).
+[20:17:09	]C24:i5.Victor-01 has taken 1 damage from C24:RCT.YELLO-12.
+[20:17:10	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 in the right leg dealing 1 damage (CritChance was 0.00).
+[20:17:10	]C24:i5.Victor-01 has taken 1 damage from C24:RCT.YELLO-12.
+[20:17:10	]C24:RCT.YELLO-12 has hit C24:i5.Victor-01 in the left leg dealing 1 damage (CritChance was 0.00).
+[20:17:10	]C24:i5.Victor-01 has taken 1 damage from C24:RCT.YELLO-12.
+[20:17:11	]C24:i5.Victor-01 is fully healed.
+[20:17:14	]C24:RCT.YELLO-12 entered observer.
+[20:17:16	]C24:RCT.YELLO-12 is fully healed.
+[20:17:19	]C24:i5.Victor-01 used command '/PlyWhitelist yello'.
+[20:17:22	]C24:i5.Victor-01 used command '/PlyWhitelist yello bird'.
+[20:17:26	]C24:i5.Victor-01 used command '/PlyTransfer yello bird'.
+[20:17:32	]C24:RCT.YELLO-12 has dropped: 1x Strzykawka (#51231); Maska OTA (#51241); Skrzynka z narzędziami (#51235); 1x Plastik (#51228); Emir (#51053); Maseczka ochronna (#51068); Uniform OTA - Ordinal (#51243);
+[20:17:32	]C24:i5.Victor-01 ran SAM command 'slay' with arguments: 'yello'
+[20:17:37	]C24:RCT.YELLO-12 entered observer.
+[20:17:40	]C24:RCT.YELLO-12 exited observer at their location.
+[20:17:42	]C24:i5.Victor-01 has taken 5 damage from pill_ent_phys.
+[20:18:00	]C24:i5.Victor-01 has dropped: Średni mundur dowództwa (#50861); 120x Amunicja PM (#51249); Maska przeciwgazowa PMG-5 (AUG) (#50832); CV-2000 Pałka Paralizująca (#50843); 1x Apteczka (#50836);
+[20:18:00	]C24:i5.Victor-01 ran SAM command 'slay' with arguments: '^'
+[20:18:03	]C24:i5.Victor-01 entered observer.
+[20:18:12	]C24:i5.Victor-01 exited observer at their location.
+[20:18:39	]C24:RCT.YELLO-12 entered observer.
+[20:18:41	]C24:RCT.YELLO-12 exited observer at their location.
+[20:18:46	]C24:i5.Victor-01 has spawned a 'NPC [601][npc_vj_hlrsv_tor]'.
+[20:18:50	]C24:i5.Victor-01 entered observer.
+[20:18:51	]C24:RCT.YELLO-12 was knocked unconscious and is bleeding out.
+[20:18:55	]C24:i5.Victor-01 exited observer at their location.
+[20:18:56	]C24:RCT.YELLO-12 is no longer unconscious from critical wounds.
+[20:19:04	]C24:i5.Victor-01 entered observer.
+[20:19:05	]C24:i5.Victor-01 exited observer at their location.
+[20:19:14	]C24:i5.Victor-01 entered observer.
+[20:19:25	]C24:RCT.YELLO-12 ran SAM command 'slay' with arguments: 'yello-12'
+[20:19:28	]C24:RCT.YELLO-12 entered observer.
+[20:19:55	]C24:i5.Victor-01 exited observer at their location.
+[20:20:00	]C24:i5.Victor-01 entered observer.
+[20:20:05	]C24:i5.Victor-01 exited observer at their location.
+[20:20:08	]C24:i5.Victor-01 entered observer.
+[20:20:12	]C24:i5.Victor-01 exited observer at their location.
+[20:20:15	]C24:i5.Victor-01 entered observer.
+[20:20:21	]C24:i5.Victor-01 exited observer at their location.
+[20:20:41	]C24:i5.Victor-01 entered observer.
+[20:20:41	]C24:i5.Victor-01 exited observer at their location.
+[20:20:42	]C24:i5.Victor-01 entered observer.
+[20:20:42	]C24:i5.Victor-01 exited observer at their location.
+[20:23:15	]C24:i5.Victor-01 entered observer.
+[20:23:16	]C24:RCT.YELLO-12 exited observer at their location.
+[20:23:17	]C24:RCT.YELLO-12 entered observer.
+[20:23:17	]C24:RCT.YELLO-12 exited observer at their location.
+[20:23:45	]C24:i5.Victor-01 exited observer at their location.
+[20:23:45	]C24:i5.Victor-01 entered observer.
+[20:24:01	]C24:i5.Victor-01 exited observer at their location.
+[20:24:12	]Matty has unloaded their "C24:RCT.YELLO-12" character.
+[20:24:16	]Matty loaded the character 'Johann Wagner'
+[20:24:18	]Johann Wagner entered observer.
+[20:24:18	]Johann Wagner exited observer at their location.
+[20:24:19	]Johann Wagner entered observer.
+[20:24:20	]Johann Wagner exited observer at their location.
+[20:24:55	]Johann Wagner used command '/ToggleRaise'.
+[20:25:42	]Johann Wagner entered observer.
+[20:25:57	]Johann Wagner exited observer at their location.
+[20:26:01	]Johann Wagner has hit C24:i5.Victor-01 in the head dealing 9 damage (CritChance was 0.09).
+[20:26:01	]C24:i5.Victor-01 has taken 9 damage from Johann Wagner.
+[20:26:01	]Johann Wagner has hit C24:i5.Victor-01 in the head dealing 9 damage (CritChance was 0.09).
+[20:26:01	]C24:i5.Victor-01 has taken 9 damage from Johann Wagner.
+[20:26:03	]C24:i5.Victor-01 entered observer.
+[20:26:07	]Johann Wagner entered observer.
+[20:26:08	]Johann Wagner exited observer at their location.
+[20:26:08	]C24:i5.Victor-01 exited observer at their location.
+[20:26:09	]C24:i5.Victor-01 entered observer.
+[20:26:12	]Johann Wagner entered observer.
+[20:26:23	]C24:i5.Victor-01 exited observer at their location.
+[20:26:39	]Johann Wagner exited observer at their location.
+[20:26:41	]Johann Wagner entered observer.
+[20:27:08	]C24:i5.Victor-01 entered observer.
+[20:27:10	]C24:i5.Victor-01 exited observer at their location.
+[20:27:11	]C24:i5.Victor-01 entered observer.
+[20:27:14	]C24:i5.Victor-01 exited observer at their location.
+[20:27:30	]Johann Wagner exited observer at their location.
+[20:27:41	]Johann Wagner entered observer.
+[20:27:49	]C24:i5.Victor-01 entered observer.
+[20:27:59	]C24:i5.Victor-01 exited observer at their location.
+[20:28:01	]Johann Wagner exited observer at their location.
+[20:28:02	]Johann Wagner used command '/ToggleRaise'.
+[20:28:04	]Johann Wagner has hit C24:i5.Victor-01 dealing 7 damage (CritChance was 0.00).
+[20:28:04	]C24:i5.Victor-01 has taken 7 damage from Johann Wagner.
+[20:28:04	]Johann Wagner has damaged C24:i5.Victor-01, dealing 8.5 with ix_hands
+[20:28:05	]Johann Wagner has hit C24:i5.Victor-01 dealing 7 damage (CritChance was 0.00).
+[20:28:05	]C24:i5.Victor-01 has taken 7 damage from Johann Wagner.
+[20:28:05	]Johann Wagner has damaged C24:i5.Victor-01, dealing 8.50051 with ix_hands
+[20:28:06	]Johann Wagner has hit C24:i5.Victor-01 dealing 7 damage (CritChance was 0.00).
+[20:28:06	]C24:i5.Victor-01 has taken 7 damage from Johann Wagner.
+[20:28:06	]Johann Wagner has damaged C24:i5.Victor-01, dealing 8.50102 with ix_hands
+[20:28:06	]Johann Wagner has hit C24:i5.Victor-01 dealing 7 damage (CritChance was 0.00).
+[20:28:06	]C24:i5.Victor-01 has taken 7 damage from Johann Wagner.
+[20:28:06	]Johann Wagner has damaged C24:i5.Victor-01, dealing 8.50153 with ix_hands
+[20:28:07	]Johann Wagner used command '/ToggleRaise'.
+[20:28:11	]Johann Wagner used command '/ToggleRaise'.
+[20:28:17	]Johann Wagner has gained level 1 in the Broń palna skill.
+[20:28:18	]Johann Wagner has hit C24:i5.Victor-01 dealing 7 damage (CritChance was 0.00).
+[20:28:18	]C24:i5.Victor-01 has taken 7 damage from Johann Wagner.
+[20:28:18	]Johann Wagner has damaged C24:i5.Victor-01, dealing 8.50204 with ix_hands
+[20:28:19	]C24:i5.Victor-01 has hit Johann Wagner dealing 7 damage (CritChance was 0.00).
+[20:28:19	]Johann Wagner has taken 7 damage from C24:i5.Victor-01.
+[20:28:19	]C24:i5.Victor-01 has damaged Johann Wagner, dealing 8.50051 with ix_hands
+[20:28:20	]Johann Wagner has hit C24:i5.Victor-01 dealing 7 damage (CritChance was 0.00).
+[20:28:20	]C24:i5.Victor-01 has taken 7 damage from Johann Wagner.
+[20:28:20	]Johann Wagner has damaged C24:i5.Victor-01, dealing 8.50255 with ix_hands
+[20:28:20	]C24:i5.Victor-01 has hit Johann Wagner dealing 7 damage (CritChance was 0.00).
+[20:28:20	]Johann Wagner has taken 7 damage from C24:i5.Victor-01.
+[20:28:20	]C24:i5.Victor-01 has damaged Johann Wagner, dealing 8.50102 with ix_hands
+[20:28:21	]Johann Wagner has hit C24:i5.Victor-01 dealing 7 damage (CritChance was 0.00).
+[20:28:21	]C24:i5.Victor-01 has taken 7 damage from Johann Wagner.
+[20:28:21	]Johann Wagner has damaged C24:i5.Victor-01, dealing 8.50306 with ix_hands
+[20:28:23	]Johann Wagner has hit C24:i5.Victor-01 dealing 7 damage (CritChance was 0.00).
+[20:28:23	]C24:i5.Victor-01 has taken 7 damage from Johann Wagner.
+[20:28:23	]Johann Wagner has damaged C24:i5.Victor-01, dealing 8.50357 with ix_hands
+[20:28:32	]C24:i5.Victor-01 has hit Johann Wagner dealing 7 damage (CritChance was 0.00).
+[20:28:32	]Johann Wagner has taken 7 damage from C24:i5.Victor-01.
+[20:28:32	]C24:i5.Victor-01 has damaged Johann Wagner, dealing 8.50153 with ix_hands
+[20:28:35	]C24:i5.Victor-01 has hit Johann Wagner dealing 7 damage (CritChance was 0.00).
+[20:28:35	]Johann Wagner has taken 7 damage from C24:i5.Victor-01.
+[20:28:35	]C24:i5.Victor-01 has damaged Johann Wagner, dealing 8.50204 with ix_hands
+[20:28:37	]C24:i5.Victor-01 has hit Johann Wagner dealing 7 damage (CritChance was 0.00).
+[20:28:37	]Johann Wagner has taken 7 damage from C24:i5.Victor-01.
+[20:28:37	]C24:i5.Victor-01 has damaged Johann Wagner, dealing 8.50255 with ix_hands
+[20:28:38	]C24:i5.Victor-01 has hit Johann Wagner dealing 7 damage (CritChance was 0.00).
+[20:28:38	]Johann Wagner has taken 7 damage from C24:i5.Victor-01.
+[20:28:38	]C24:i5.Victor-01 has damaged Johann Wagner, dealing 8.50306 with ix_hands
+[20:28:46	]Johann Wagner used command '/ToggleRaise'.
+[20:28:48	]Johann Wagner used command '/ToggleRaise'.
+[20:28:54	]C24:i5.Victor-01 has gained level 6 in the Broń palna skill.
+[20:28:56	]C24:i5.Victor-01 has hit Johann Wagner dealing 7 damage (CritChance was 0.00).
+[20:28:56	]Johann Wagner has taken 7 damage from C24:i5.Victor-01.
+[20:28:56	]C24:i5.Victor-01 has damaged Johann Wagner, dealing 8.50357 with ix_hands
+[20:28:58	]C24:i5.Victor-01 has gained level 7 in the Broń palna skill.
+[20:29:02	]C24:i5.Victor-01 has hit Johann Wagner dealing 7 damage (CritChance was 0.00).
+[20:29:02	]Johann Wagner has taken 7 damage from C24:i5.Victor-01.
+[20:29:02	]C24:i5.Victor-01 has damaged Johann Wagner, dealing 8.50408 with ix_hands
+[20:29:04	]C24:i5.Victor-01 has hit Johann Wagner dealing 7 damage (CritChance was 0.00).
+[20:29:04	]Johann Wagner has taken 7 damage from C24:i5.Victor-01.
+[20:29:04	]C24:i5.Victor-01 has damaged Johann Wagner, dealing 8.50459 with ix_hands
+[20:29:05	]C24:i5.Victor-01 has hit Johann Wagner dealing 7 damage (CritChance was 0.00).
+[20:29:05	]Johann Wagner has taken 7 damage from C24:i5.Victor-01.
+[20:29:05	]C24:i5.Victor-01 has damaged Johann Wagner, dealing 8.5051 with ix_hands
+[20:29:06	]C24:i5.Victor-01 has hit Johann Wagner dealing 7 damage (CritChance was 0.00).
+[20:29:06	]Johann Wagner has taken 7 damage from C24:i5.Victor-01.
+[20:29:06	]C24:i5.Victor-01 has damaged Johann Wagner, dealing 8.50561 with ix_hands
+[20:29:07	]C24:i5.Victor-01 has hit Johann Wagner dealing 7 damage (CritChance was 0.00).
+[20:29:07	]Johann Wagner has taken 7 damage from C24:i5.Victor-01.
+[20:29:07	]C24:i5.Victor-01 has damaged Johann Wagner, dealing 8.50612 with ix_hands
+[20:29:08	]C24:i5.Victor-01 has hit Johann Wagner dealing 7 damage (CritChance was 0.00).
+[20:29:08	]Johann Wagner has taken 7 damage from C24:i5.Victor-01.
+[20:29:08	]C24:i5.Victor-01 has damaged Johann Wagner, dealing 8.50663 with ix_hands
+[20:29:09	]Johann Wagner entered observer.
+[20:29:12	]Johann Wagner ran SAM command 'hp' with arguments: '^' '100'
+[20:29:12	]Johann Wagner exited observer at their location.
+[20:29:15	]Johann Wagner used command '/ToggleRaise'.
+[20:29:16	]Johann Wagner is fully healed.
+[20:29:31	]Johann Wagner used command '/ToggleRaise'.
+[20:29:34	]C24:i5.Victor-01 has hit Johann Wagner dealing 7 damage (CritChance was 0.00).
+[20:29:34	]Johann Wagner has taken 7 damage from C24:i5.Victor-01.
+[20:29:34	]C24:i5.Victor-01 has damaged Johann Wagner, dealing 8.50714 with ix_hands
+[20:29:36	]Johann Wagner used command '/ToggleRaise'.
+[20:29:44	]C24:i5.Victor-01 ran SAM command 'hp' with arguments: '^' '100'
+[20:29:46	]C24:i5.Victor-01 is fully healed.
+[20:29:55	]Johann Wagner has spawned a clawhammer.
+[20:29:57	]Johann Wagner ran 'take' on item 'Młotek pazurowy' (#51256)
+[20:29:57	]Johann Wagner has gained a 'Młotek pazurowy' #51256.
+[20:29:59	]Johann Wagner ran 'Equip' on item 'Młotek pazurowy' (#51256)
+[20:29:59	]Johann Wagner used command '/ToggleRaise'.
+[20:30:02	]Johann Wagner has critically hit C24:i5.Victor-01 in the chest dealing 24 damage (CritChance was 0.80).
+[20:30:02	]C24:i5.Victor-01 has taken 24 damage from Johann Wagner.
+[20:30:06	]Johann Wagner has hit C24:i5.Victor-01 in the chest dealing 19 damage (CritChance was 0.80).
+[20:30:06	]C24:i5.Victor-01 has taken 19 damage from Johann Wagner.
+[20:30:07	]Johann Wagner has critically hit C24:i5.Victor-01 in the chest dealing 24 damage (CritChance was 0.80).
+[20:30:07	]C24:i5.Victor-01 has taken 24 damage from Johann Wagner.
+[20:30:09	]C24:i5.Victor-01 ran SAM command 'hp' with arguments: '^' '100'
+[20:30:11	]C24:i5.Victor-01 is fully healed.
+[20:30:17	]Johann Wagner entered observer.
+[20:30:32	]Johann Wagner has used a context menu option with the name: rb655_dissolve
+[20:30:33	]Johann Wagner has used a context menu option with the name: rb655_dissolve
+[20:30:34	]env_entity_dissolver destroyed a 'Amunicja śrutowa do strzelb' #51253.
+[20:30:35	]Johann Wagner has used a context menu option with the name: rb655_dissolve
+[20:30:35	]env_entity_dissolver destroyed a '8-nabojowy magazynek do Shotguna' #51252.
+[20:30:37	]env_entity_dissolver destroyed a '5-nabojowy magazynek do Shotguna' #51251.
+[20:30:43	]C24:i5.Victor-01 entered observer.
+[20:30:48	]C24:i5.Victor-01 exited observer at their location.
+[20:30:48	]C24:i5.Victor-01 entered observer.
+[20:30:51	]C24:i5.Victor-01 exited observer at their location.
+[20:30:51	]C24:i5.Victor-01 entered observer.
+[20:30:52	]C24:i5.Victor-01 exited observer at their location.
+[20:30:52	]C24:i5.Victor-01 entered observer.
+[20:30:54	]C24:i5.Victor-01 exited observer at their location.
+[20:31:02	]C24:i5.Victor-01 entered observer.
+[20:31:13	]C24:i5.Victor-01 exited observer at their location.
+[20:31:16	]Johann Wagner exited observer at their location.
+[20:31:16	]C24:i5.Victor-01 entered observer.
+[20:31:16	]Johann Wagner entered observer.
+[20:31:23	]Johann Wagner exited observer at their location.
+[20:31:25	]Johann Wagner entered observer.
+[20:31:29	]C24:i5.Victor-01 exited observer at their location.
+[20:31:31	]C24:i5.Victor-01 entered observer.
+[20:31:33	]C24:i5.Victor-01 exited observer at their location.
+[20:31:33	]C24:i5.Victor-01 entered observer.
+[20:31:43	]inkaaz (STEAM_0:0:50287200) has disconnected.
+[20:32:57	]Johann Wagner exited observer at their location.
+[20:33:00	]Johann Wagner has used a context menu option with the name: rb655_dissolve
+[20:33:02	]env_entity_dissolver destroyed a 'Maska przeciwgazowa PMG-5 (AUG)' #51143.
+[20:33:30	]Johann Wagner entered observer.
+[20:33:47	]Johann Wagner exited observer at their location.
+[20:33:49	]Johann Wagner entered observer.
+[20:33:54	]Johann Wagner exited observer at their location.
+[20:33:55	]Johann Wagner entered observer.
+[20:33:59	]Johann Wagner exited observer at their location.
+[20:34:00	]Johann Wagner entered observer.
+[20:34:09	]Johann Wagner exited observer at their location.
+[20:34:11	]Johann Wagner entered observer.
+[20:34:49	]Johann Wagner exited observer at their location.
+[20:34:52	]Johann Wagner entered observer.
+[20:34:52	]Johann Wagner exited observer at their location.
+[20:34:53	]Johann Wagner entered observer.
+[20:35:50	]Johann Wagner exited observer at their location.
+[20:35:54	]Johann Wagner entered observer.
+[20:36:12	]Johann Wagner exited observer at their location.
+[20:36:14	]Johann Wagner entered observer.
+[20:36:15	]Johann Wagner exited observer at their location.
+[20:36:16	]Johann Wagner entered observer.
+[20:37:21	]Johann Wagner exited observer at their location.
+[20:37:23	]Johann Wagner entered observer.
+[20:37:27	]Johann Wagner exited observer at their location.
+[20:37:29	]Johann Wagner entered observer.
+[20:38:05	]Johann Wagner exited observer at their location.
+[20:38:06	]Johann Wagner entered observer.
+[20:38:08	]Johann Wagner exited observer at their location.
+[20:38:09	]Johann Wagner entered observer.
+[20:38:12	]Johann Wagner exited observer at their location.
+[20:38:13	]Johann Wagner entered observer.
+[20:38:14	]Johann Wagner exited observer at their location.
+[20:38:17	]Johann Wagner entered observer.
+[20:38:24	]Johann Wagner exited observer at their location.
+[20:38:25	]Johann Wagner entered observer.
+[20:38:40	]Johann Wagner exited observer at their location.
+[20:38:42	]Johann Wagner entered observer.
+[20:38:46	]Johann Wagner exited observer at their location.
+[20:38:48	]Johann Wagner entered observer.
+[20:38:48	]Johann Wagner exited observer at their location.
+[20:38:50	]Johann Wagner entered observer.
+[20:38:55	]Johann Wagner exited observer at their location.
+[20:38:56	]Johann Wagner entered observer.
+[20:38:59	]Johann Wagner exited observer at their location.
+[20:39:00	]Johann Wagner entered observer.
+[20:39:01	]Johann Wagner exited observer at their location.
+[20:39:03	]Johann Wagner entered observer.
+[20:39:03	]Johann Wagner exited observer at their location.
+[20:39:04	]Johann Wagner entered observer.
+[20:39:09	]Johann Wagner used command '/ToggleRaise'.
+[20:39:24	]Johann Wagner exited observer at their location.
+[20:39:42	]Johann Wagner entered observer.
+[20:39:52	]Johann Wagner exited observer at their location.
+[20:39:53	]Johann Wagner entered observer.
+[20:39:55	]Johann Wagner exited observer at their location.
+[20:39:56	]Johann Wagner entered observer.
+[20:40:00	][OOC] Johann Wagner: ix_wipedb in console
+[20:40:02	][OOC] Johann Wagner: for free admin
+[20:40:15	]Johann Wagner exited observer at their location.
+[20:40:20	]Johann Wagner has spawned a cca_presenter.
+[20:40:21	]Johann Wagner ran 'take' on item 'Prezenter' (#51257)
+[20:40:21	]Johann Wagner has gained a 'Prezenter' #51257.
+[20:40:31	]Johann Wagner has spawned a cca_legs_presenter.
+[20:40:32	]Johann Wagner ran 'take' on item 'Spodnie Prezentera' (#51258)
+[20:40:32	]Johann Wagner has gained a 'Spodnie Prezentera' #51258.
+[20:40:44	]Johann Wagner has spawned a shoes_heels.
+[20:40:45	]Johann Wagner ran 'take' on item 'Buty na obcasie' (#51259)
+[20:40:45	]Johann Wagner has gained a 'Buty na obcasie' #51259.
+[20:41:03	]Johann Wagner has spawned a shoes_leather_dark.
+[20:41:06	]Johann Wagner has spawned a shoes_black_shoes.
+[20:41:08	]Johann Wagner ran 'take' on item 'Czarne buty' (#51261)
+[20:41:08	]Johann Wagner has gained a 'Czarne buty' #51261.
+[20:41:18	]Johann Wagner ran 'take' on item 'Buty z czarnej skóry' (#51260)
+[20:41:18	]Johann Wagner has gained a 'Buty z czarnej skóry' #51260.
+[20:41:24	]Johann Wagner entered observer.
+[20:41:48	]Johann Wagner exited observer at their location.
+[20:41:57	]Johann Wagner entered observer.
+[20:42:10	]Johann Wagner exited observer at their location.
+[20:42:12	]Johann Wagner entered observer.
+[20:42:19	]Johann Wagner exited observer at their location.
+[20:42:20	]Johann Wagner entered observer.
+[20:42:26	]Johann Wagner exited observer at their location.
+[20:42:27	]Johann Wagner entered observer.
+[20:42:28	]Johann Wagner exited observer at their location.
+[20:42:29	]Johann Wagner entered observer.
+[20:42:32	]Johann Wagner exited observer at their location.
+[20:42:33	]Johann Wagner entered observer.
+[20:42:55	]Johann Wagner exited observer at their location.
+[20:43:02	]Johann Wagner has spawned a shoes_dress_shoes.
+[20:43:03	]Johann Wagner ran 'take' on item 'Eleganckie buty' (#51262)
+[20:43:03	]Johann Wagner has gained a 'Eleganckie buty' #51262.
+[20:43:22	]Johann Wagner entered observer.
+[20:43:25	]Johann Wagner exited observer at their location.
+[20:43:28	]Johann Wagner entered observer.
+[20:44:01	]Johann Wagner exited observer at their location.
+[20:44:02	]Johann Wagner entered observer.
+[20:44:20	]Johann Wagner exited observer at their location.
+[20:44:23	]Johann Wagner entered observer.
+[20:44:23	]Johann Wagner exited observer at their location.
+[20:44:25	]Johann Wagner entered observer.
+[20:44:26	]Johann Wagner exited observer at their location.
+[20:44:28	]Johann Wagner entered observer.
+[20:44:30	]Johann Wagner exited observer at their location.
+[20:44:32	]Johann Wagner entered observer.
+[20:44:33	]Johann Wagner exited observer at their location.
+[20:44:37	]Johann Wagner entered observer.
+[20:44:39	]Johann Wagner exited observer at their location.
+[20:44:43	]Johann Wagner entered observer.
+[20:44:43	]Johann Wagner exited observer at their location.
+[20:44:45	]Johann Wagner entered observer.
+[20:45:23	]Johann Wagner exited observer at their location.
+[20:47:01	]Johann Wagner entered observer.
+[20:47:08	]Johann Wagner exited observer at their location.
+[20:47:09	]Johann Wagner entered observer.
+[20:47:10	]Johann Wagner exited observer at their location.
+[20:47:14	]Johann Wagner entered observer.
+[20:47:15	]Johann Wagner exited observer at their location.
+[20:47:16	]Johann Wagner entered observer.
+[20:47:16	]Johann Wagner exited observer at their location.
+[20:47:18	]Johann Wagner entered observer.
+[20:47:19	]Johann Wagner exited observer at their location.
+[20:47:21	]Johann Wagner entered observer.
+[20:47:22	]Johann Wagner exited observer at their location.
+[20:47:24	]Johann Wagner entered observer.
+[20:47:25	]Johann Wagner exited observer at their location.
+[20:47:27	]Johann Wagner entered observer.
+[20:47:27	]Johann Wagner exited observer at their location.
+[20:47:28	]Johann Wagner entered observer.
+[20:47:28	]Johann Wagner exited observer at their location.
+[20:47:32	]Johann Wagner entered observer.
+[20:47:33	]Johann Wagner exited observer at their location.
+[20:47:36	]Johann Wagner entered observer.
+[20:47:37	]Johann Wagner exited observer at their location.
+[20:47:42	]Johann Wagner entered observer.
+[20:47:42	]Johann Wagner exited observer at their location.
+[20:47:47	]Johann Wagner entered observer.
+[20:47:47	]Johann Wagner exited observer at their location.
+[20:47:50	]Johann Wagner has taken 47 damage from worldspawn.
+[20:47:51	]Johann Wagner entered observer.
+[20:48:20	]Johann Wagner exited observer at their location.
+[20:48:22	]Johann Wagner entered observer.
+[20:48:22	]Johann Wagner exited observer at their location.
+[20:48:27	]Johann Wagner entered observer.
+[20:48:27	]Johann Wagner exited observer at their location.
+[20:48:31	]Johann Wagner entered observer.
+[20:48:32	]Johann Wagner exited observer at their location.
+[20:48:35	]Johann Wagner entered observer.
+[20:48:36	]Johann Wagner exited observer at their location.
+[20:48:36	]Johann Wagner entered observer.
+[20:48:37	]Johann Wagner exited observer at their location.
+[20:48:38	]Johann Wagner entered observer.
+[20:48:38	]Johann Wagner exited observer at their location.
+[20:48:40	]Johann Wagner entered observer.
+[20:48:40	]Johann Wagner exited observer at their location.
+[20:48:48	]Johann Wagner entered observer.
+[20:48:48	]Johann Wagner exited observer at their location.
+[20:48:58	]Johann Wagner entered observer.
+[20:48:59	]Johann Wagner exited observer at their location.
+[20:49:00	]Johann Wagner entered observer.
+[20:49:00	]Johann Wagner exited observer at their location.
+[20:49:00	]Johann Wagner entered observer.
+[20:49:00	]Johann Wagner exited observer at their location.
+[20:49:03	]Johann Wagner entered observer.
+[20:49:03	]Johann Wagner exited observer at their location.
+[20:49:04	]Johann Wagner entered observer.
+[20:49:04	]Johann Wagner exited observer at their location.
+[20:49:08	]Johann Wagner entered observer.
+[20:49:08	]Johann Wagner exited observer at their location.
+[20:49:13	]Johann Wagner entered observer.
+[20:49:13	]Johann Wagner exited observer at their location.
+[20:49:18	]Johann Wagner entered observer.
+[20:49:18	]Johann Wagner exited observer at their location.
+[20:49:23	]Johann Wagner entered observer.
+[20:49:23	]Johann Wagner exited observer at their location.
+[20:49:28	]Johann Wagner entered observer.
+[20:49:29	]Johann Wagner exited observer at their location.
+[20:49:34	]Johann Wagner entered observer.
+[20:49:34	]Johann Wagner exited observer at their location.
+[20:49:35	]Johann Wagner entered observer.
+[20:49:35	]Johann Wagner exited observer at their location.
+[20:49:38	]Johann Wagner entered observer.
+[20:49:39	]Johann Wagner exited observer at their location.
+[20:49:44	]Johann Wagner entered observer.
+[20:49:44	]Johann Wagner exited observer at their location.
+[20:49:44	]Johann Wagner entered observer.
+[20:49:47	]Johann Wagner exited observer at their location.
+[20:49:48	]Johann Wagner entered observer.
+[20:49:49	]Johann Wagner exited observer at their location.
+[20:49:50	]Johann Wagner entered observer.
+[20:49:50	]Johann Wagner exited observer at their location.
+[20:49:56	]Johann Wagner entered observer.
+[20:49:56	]Johann Wagner exited observer at their location.
+[20:49:58	]Johann Wagner entered observer.
+[20:49:58	]Johann Wagner exited observer at their location.
+[20:50:00	]Johann Wagner entered observer.
+[20:50:00	]Johann Wagner exited observer at their location.
+[20:50:01	]Johann Wagner entered observer.
+[20:50:01	]Johann Wagner exited observer at their location.
+[20:50:02	]Johann Wagner entered observer.
+[20:50:02	]Johann Wagner exited observer at their location.
+[20:50:03	]Johann Wagner entered observer.
+[20:50:03	]Johann Wagner exited observer at their location.
+[20:50:06	]Johann Wagner entered observer.
+[20:50:36	]Johann Wagner exited observer at their location.
+[20:50:38	]Johann Wagner entered observer.
+[20:50:38	]Johann Wagner exited observer at their location.
+[20:50:41	]Johann Wagner entered observer.
+[20:50:42	]Johann Wagner exited observer at their location.
+[20:50:45	]Johann Wagner entered observer.
+[20:50:45	]Johann Wagner exited observer at their location.
+[20:50:50	]Johann Wagner entered observer.
+[20:51:32	]Johann Wagner used command '/CharSetLanguage johann polski'.
+[20:51:41	][POL] Johann Wagner: Test
+[20:51:53	][POL] Johann Wagner: Testuję w tym momencie
+[20:52:44	]Johann Wagner exited observer at their location.
+[20:52:46	]Johann Wagner entered observer.
+[20:52:47	]Johann Wagner exited observer at their location.
+[20:52:50	]Johann Wagner has taken 5 damage from trigger_hurt.
+[20:52:50	]Johann Wagner has taken 5 damage from trigger_hurt.
+[20:52:50	]Johann Wagner entered observer.
+[20:52:52	]Johann Wagner exited observer at their location.
+[20:52:55	]Johann Wagner entered observer.
+[20:52:55	]Johann Wagner exited observer at their location.
+[20:52:59	]Johann Wagner entered observer.
+[20:53:16	]Johann Wagner exited observer at their location.
+[20:53:17	]Johann Wagner entered observer.
+[20:53:18	]Johann Wagner exited observer at their location.
+[20:53:21	]Johann Wagner entered observer.
+[20:53:22	]Johann Wagner exited observer at their location.
+[20:53:25	]Johann Wagner entered observer.
+[20:53:26	]Johann Wagner exited observer at their location.
+[20:53:26	]Johann Wagner entered observer.
+[20:53:27	]Johann Wagner exited observer at their location.
+[20:53:30	]Johann Wagner entered observer.
+[20:53:31	]Johann Wagner exited observer at their location.
+[20:53:35	]Johann Wagner entered observer.
+[20:53:35	]Johann Wagner exited observer at their location.
+[20:53:38	]Johann Wagner entered observer.
+[20:53:38	]Johann Wagner exited observer at their location.
+[20:53:41	]Johann Wagner entered observer.
+[20:53:41	]Johann Wagner exited observer at their location.
+[20:53:43	]Johann Wagner entered observer.
+[20:54:25	]Johann Wagner exited observer at their location.
+[20:54:26	]Johann Wagner entered observer.
+[20:54:26	]Johann Wagner exited observer at their location.
+[20:54:28	]Johann Wagner entered observer.
+[20:54:29	]Johann Wagner exited observer at their location.
+[20:54:32	]Johann Wagner entered observer.
+[20:54:37	]Johann Wagner exited observer at their location.
+[20:54:40	]Johann Wagner entered observer.
+[20:54:42	]Johann Wagner exited observer at their location.
+[20:54:43	]Johann Wagner entered observer.
+[20:54:46	]Johann Wagner exited observer at their location.
+[20:54:50	]Johann Wagner entered observer.
+[20:54:57	]Johann Wagner exited observer at their location.
+[20:55:07	]Johann Wagner entered observer.
+[20:55:07	]Johann Wagner exited observer at their location.
+[20:55:10	]Johann Wagner was knocked unconscious and is bleeding out.
+[20:56:01	]Johann Wagner used command '/CharStopBleedout ^'.
+[20:56:13	]Johann Wagner ran SAM command 'hp' with arguments: 'Wagner' '100'
+[20:56:16	]Johann Wagner is no longer unconscious from critical wounds.
+[20:56:16	]Johann Wagner is fully healed.
+[20:56:18	]Johann Wagner entered observer.
+[20:56:42	]Johann Wagner used command '/ToggleRaise'.
+[20:56:53	]Johann Wagner exited observer at their location.
+[20:56:55	]Johann Wagner has spawned a 'Entity [414][npc_zombie_slump]'.
+[20:56:56	]Johann Wagner has hit npc_zombie dealing 19 damage (CritChance was 0.80).
+[20:56:57	]Johann Wagner has critically hit npc_zombie dealing 24 damage (CritChance was 0.80).
+[20:57:02	]Johann Wagner has taken 10 damage from sleeping_zomb11296.
+[20:57:05	]Johann Wagner has critically hit npc_zombie in the chest dealing 60 damage (CritChance was 0.80).
+[20:57:10	]Johann Wagner has spawned a 'Entity [414][npc_zombine_prone]'.
+[20:57:16	]Johann Wagner has hit npc_zombine in the chest dealing 48 damage (CritChance was 0.80).
+[20:57:19	]Johann Wagner was knocked unconscious and is bleeding out.
+[20:57:36	]Matty (STEAM_0:1:122088830) has disconnected.
