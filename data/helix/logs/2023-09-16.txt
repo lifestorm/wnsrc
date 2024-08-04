@@ -1,0 +1,785 @@
+[13:59:42	]crat has connected.
+[14:01:52	]crat (STEAM_0:0:220566387) deleted character 'C24:SCN-2'
+[14:01:56	]crat (STEAM_0:0:220566387) deleted character 'event char'
+[14:29:15	]crat loaded the character 'Emmanuel Garnier'
+[14:34:45	]Emmanuel Garnier has gone afk.
+[14:40:50	]Emmanuel Garnier is no longer afk. Total time spent AFK: 660
+[14:40:50	]Emmanuel Garnier has fired a toolgun with the name: camera
+[14:40:59	]Emmanuel Garnier has used a context menu option with the name: remove
+[14:41:21	]Emmanuel Garnier entered observer.
+[14:41:22	]Emmanuel Garnier exited observer at their location.
+[14:43:17	]crat (STEAM_0:0:220566387) has disconnected.
+[20:00:09	]AuTiSTiC has connected.
+[20:00:47	]AuTiSTiC loaded the character 'Ellie Stell'
+[20:00:50	]Ellie Stell entered observer.
+[20:00:51	]Ellie Stell exited observer at their location.
+[20:00:55	]Ellie Stell ran SAM command 'menu' with arguments: ''
+[20:01:38	]Ellie Stell entered observer.
+[20:03:53	]Ellie Stell ran SAM command 'menu' with arguments: ''
+[20:06:49	]Ellie Stell has used a context menu option with the name: rb655_door_unlock
+[20:06:51	]Ellie Stell exited observer at their location.
+[20:06:52	]Ellie Stell entered observer.
+[20:06:54	]Ellie Stell exited observer at their location.
+[20:06:55	]Ellie Stell entered observer.
+[20:07:27	]Ellie Stell ran SAM command 'menu' with arguments: ''
+[20:08:09	][IC] Ellie Stell: !rank.
+[20:08:20	]Ellie Stell ran SAM command 'menu' with arguments: ''
+[20:09:13	]Ellie Stell exited observer at their location.
+[20:09:18	]Ellie Stell entered observer.
+[20:09:21	]Ellie Stell exited observer at their location.
+[20:09:24	]Ellie Stell entered observer.
+[20:09:25	]Ellie Stell exited observer at their location.
+[20:09:30	]Ellie Stell has fired a toolgun with the name: creator
+[20:09:30	]Ellie Stell has spawned a 'Entity [1820][ix_customvendingmachine]'.
+[20:09:37	]Ellie Stell ran 'take' on item 'Vending Machine Key' (#15249)
+[20:09:37	]Ellie Stell has gained a 'Vending Machine Key' #15249.
+[20:09:38	]Ellie Stell ran 'take' on item 'Vending Machine Key' (#15250)
+[20:09:38	]Ellie Stell has gained a 'Vending Machine Key' #15250.
+[20:09:40	]Ellie Stell ran 'take' on item 'Vending Machine Key' (#15251)
+[20:09:40	]Ellie Stell has gained a 'Vending Machine Key' #15251.
+[20:09:49	]Ellie Stell has used a context menu option with the name: skin
+[20:09:51	]Ellie Stell has used a context menu option with the name: skin
+[20:09:52	]Ellie Stell has used a context menu option with the name: skin
+[20:09:56	]Ellie Stell has used a context menu option with the name: skin
+[20:09:59	]Ellie Stell has used a context menu option with the name: skin
+[20:10:06	]Ellie Stell has used a context menu option with the name: skin
+[20:10:11	]Ellie Stell has used a context menu option with the name: skin
+[20:10:16	]Ellie Stell has used a context menu option with the name: skin
+[20:10:38	]Ellie Stell used command '/TextAdd 2269'.
+[20:10:41	]Ellie Stell entered observer.
+[20:10:46	]Ellie Stell exited observer at their location.
+[20:10:55	]Ellie Stell ran 'Insert' on item 'Vending Machine Key' (#15250)
+[20:11:07	]Ellie Stell has given himself a ciggie_pack.
+[20:11:07	]Ellie Stell has gained a 'Benefactor Edition Sigara Paketi' #15252.
+[20:11:07	]Ellie Stell has gained a 'Sigara' #15253.
+[20:11:07	]Ellie Stell has gained a 'Sigara' #15254.
+[20:11:07	]Ellie Stell has gained a 'Sigara' #15255.
+[20:11:07	]Ellie Stell has gained a 'Sigara' #15256.
+[20:11:07	]Ellie Stell has gained a 'Sigara' #15257.
+[20:11:07	]Ellie Stell has gained a 'Sigara' #15258.
+[20:11:07	]Ellie Stell has gained a 'Sigara' #15259.
+[20:11:07	]Ellie Stell has gained a 'Sigara' #15260.
+[20:11:07	]Ellie Stell has given himself a ciggie_pack.
+[20:11:07	]Ellie Stell has gained a 'Benefactor Edition Sigara Paketi' #15261.
+[20:11:07	]Ellie Stell has gained a 'Sigara' #15262.
+[20:11:07	]Ellie Stell has gained a 'Sigara' #15263.
+[20:11:07	]Ellie Stell has gained a 'Sigara' #15264.
+[20:11:07	]Ellie Stell has gained a 'Sigara' #15265.
+[20:11:07	]Ellie Stell has gained a 'Sigara' #15266.
+[20:11:07	]Ellie Stell has gained a 'Sigara' #15267.
+[20:11:07	]Ellie Stell has gained a 'Sigara' #15268.
+[20:11:07	]Ellie Stell has gained a 'Sigara' #15269.
+[20:11:08	]Ellie Stell has given himself a ciggie_pack.
+[20:11:08	]Ellie Stell has gained a 'Benefactor Edition Sigara Paketi' #15270.
+[20:11:08	]Ellie Stell has gained a 'Sigara' #15271.
+[20:11:08	]Ellie Stell has gained a 'Sigara' #15272.
+[20:11:08	]Ellie Stell has gained a 'Sigara' #15273.
+[20:11:08	]Ellie Stell has gained a 'Sigara' #15274.
+[20:11:08	]Ellie Stell has gained a 'Sigara' #15275.
+[20:11:08	]Ellie Stell has gained a 'Sigara' #15276.
+[20:11:08	]Ellie Stell has gained a 'Sigara' #15277.
+[20:11:08	]Ellie Stell has gained a 'Sigara' #15278.
+[20:11:09	]Ellie Stell has given himself a ciggie_pack.
+[20:11:09	]Ellie Stell has gained a 'Benefactor Edition Sigara Paketi' #15279.
+[20:11:09	]Ellie Stell has gained a 'Sigara' #15280.
+[20:11:09	]Ellie Stell has gained a 'Sigara' #15281.
+[20:11:09	]Ellie Stell has gained a 'Sigara' #15282.
+[20:11:09	]Ellie Stell has gained a 'Sigara' #15283.
+[20:11:09	]Ellie Stell has gained a 'Sigara' #15284.
+[20:11:09	]Ellie Stell has gained a 'Sigara' #15285.
+[20:11:09	]Ellie Stell has gained a 'Sigara' #15286.
+[20:11:09	]Ellie Stell has gained a 'Sigara' #15287.
+[20:11:09	]Ellie Stell has given himself a ciggie_pack.
+[20:11:09	]Ellie Stell has gained a 'Benefactor Edition Sigara Paketi' #15288.
+[20:11:09	]Ellie Stell has gained a 'Sigara' #15289.
+[20:11:09	]Ellie Stell has gained a 'Sigara' #15290.
+[20:11:09	]Ellie Stell has gained a 'Sigara' #15291.
+[20:11:09	]Ellie Stell has gained a 'Sigara' #15292.
+[20:11:09	]Ellie Stell has gained a 'Sigara' #15293.
+[20:11:09	]Ellie Stell has gained a 'Sigara' #15294.
+[20:11:09	]Ellie Stell has gained a 'Sigara' #15295.
+[20:11:09	]Ellie Stell has gained a 'Sigara' #15296.
+[20:11:10	]Ellie Stell has given himself a ciggie_pack.
+[20:11:10	]Ellie Stell has gained a 'Benefactor Edition Sigara Paketi' #15297.
+[20:11:10	]Ellie Stell has gained a 'Sigara' #15298.
+[20:11:10	]Ellie Stell has gained a 'Sigara' #15299.
+[20:11:10	]Ellie Stell has gained a 'Sigara' #15300.
+[20:11:10	]Ellie Stell has gained a 'Sigara' #15301.
+[20:11:10	]Ellie Stell has gained a 'Sigara' #15302.
+[20:11:10	]Ellie Stell has gained a 'Sigara' #15303.
+[20:11:10	]Ellie Stell has gained a 'Sigara' #15304.
+[20:11:10	]Ellie Stell has gained a 'Sigara' #15305.
+[20:11:10	]Ellie Stell has given himself a ciggie_pack.
+[20:11:10	]Ellie Stell has gained a 'Benefactor Edition Sigara Paketi' #15306.
+[20:11:10	]Ellie Stell has gained a 'Sigara' #15307.
+[20:11:10	]Ellie Stell has gained a 'Sigara' #15308.
+[20:11:10	]Ellie Stell has gained a 'Sigara' #15309.
+[20:11:10	]Ellie Stell has gained a 'Sigara' #15310.
+[20:11:10	]Ellie Stell has gained a 'Sigara' #15311.
+[20:11:10	]Ellie Stell has gained a 'Sigara' #15312.
+[20:11:10	]Ellie Stell has gained a 'Sigara' #15313.
+[20:11:10	]Ellie Stell has gained a 'Sigara' #15314.
+[20:11:23	]Ellie Stell has transferred a 'Benefactor Edition Sigara Paketi' #15297 to a container with the name 'Vending Machine' #2269.
+[20:11:23	]Ellie Stell has transferred a 'Benefactor Edition Sigara Paketi' #15288 to a container with the name 'Vending Machine' #2269.
+[20:11:24	]Ellie Stell has transferred a 'Benefactor Edition Sigara Paketi' #15279 to a container with the name 'Vending Machine' #2269.
+[20:11:26	]Ellie Stell has transferred a 'Benefactor Edition Sigara Paketi' #15270 to a container with the name 'Vending Machine' #2269.
+[20:11:27	]Ellie Stell has transferred a 'Benefactor Edition Sigara Paketi' #15261 to a container with the name 'Vending Machine' #2269.
+[20:11:28	]Ellie Stell has transferred a 'Benefactor Edition Sigara Paketi' #15252 to a container with the name 'Vending Machine' #2269.
+[20:11:29	]Ellie Stell has transferred a 'Benefactor Edition Sigara Paketi' #15306 to a container with the name 'Vending Machine' #2269.
+[20:11:33	]Ellie Stell has given himself a ciggie_pack.
+[20:11:33	]Ellie Stell has gained a 'Benefactor Edition Sigara Paketi' #15315.
+[20:11:33	]Ellie Stell has gained a 'Sigara' #15316.
+[20:11:33	]Ellie Stell has gained a 'Sigara' #15317.
+[20:11:33	]Ellie Stell has gained a 'Sigara' #15318.
+[20:11:33	]Ellie Stell has gained a 'Sigara' #15319.
+[20:11:33	]Ellie Stell has gained a 'Sigara' #15320.
+[20:11:33	]Ellie Stell has gained a 'Sigara' #15321.
+[20:11:33	]Ellie Stell has gained a 'Sigara' #15322.
+[20:11:33	]Ellie Stell has gained a 'Sigara' #15323.
+[20:11:34	]Ellie Stell has given himself a ciggie_pack.
+[20:11:34	]Ellie Stell has gained a 'Benefactor Edition Sigara Paketi' #15324.
+[20:11:34	]Ellie Stell has gained a 'Sigara' #15325.
+[20:11:34	]Ellie Stell has gained a 'Sigara' #15326.
+[20:11:34	]Ellie Stell has gained a 'Sigara' #15327.
+[20:11:34	]Ellie Stell has gained a 'Sigara' #15328.
+[20:11:34	]Ellie Stell has gained a 'Sigara' #15329.
+[20:11:34	]Ellie Stell has gained a 'Sigara' #15330.
+[20:11:34	]Ellie Stell has gained a 'Sigara' #15331.
+[20:11:34	]Ellie Stell has gained a 'Sigara' #15332.
+[20:11:35	]Ellie Stell has given himself a ciggie_pack.
+[20:11:35	]Ellie Stell has gained a 'Benefactor Edition Sigara Paketi' #15333.
+[20:11:35	]Ellie Stell has gained a 'Sigara' #15334.
+[20:11:35	]Ellie Stell has gained a 'Sigara' #15335.
+[20:11:35	]Ellie Stell has gained a 'Sigara' #15336.
+[20:11:35	]Ellie Stell has gained a 'Sigara' #15337.
+[20:11:35	]Ellie Stell has gained a 'Sigara' #15338.
+[20:11:35	]Ellie Stell has gained a 'Sigara' #15339.
+[20:11:35	]Ellie Stell has gained a 'Sigara' #15340.
+[20:11:35	]Ellie Stell has gained a 'Sigara' #15341.
+[20:11:38	]Ellie Stell has transferred a 'Benefactor Edition Sigara Paketi' #15333 to a container with the name 'Vending Machine' #2269.
+[20:11:39	]Ellie Stell ran 'combine' on item 'Benefactor Edition Sigara Paketi' (#15333)
+[20:11:41	]Ellie Stell has transferred a 'Benefactor Edition Sigara Paketi' #15315 to a container with the name 'Vending Machine' #2269.
+[20:11:42	]Ellie Stell has transferred a 'Benefactor Edition Sigara Paketi' #15324 to a container with the name 'Vending Machine' #2269.
+[20:12:23	]Ellie Stell entered observer.
+[20:12:35	]Ellie Stell exited observer at their location.
+[20:13:01	]Ellie Stell has given himself a drink_breen_water.
+[20:13:01	]Ellie Stell has gained a 'Breen'in Suyu' #15342.
+[20:13:02	]Ellie Stell has given himself a drink_breen_water.
+[20:13:02	]Ellie Stell has gained a 'Breen'in Suyu' #15343.
+[20:13:03	]Ellie Stell has given himself a drink_breen_water.
+[20:13:03	]Ellie Stell has gained a 'Breen'in Suyu' #15344.
+[20:13:03	]Ellie Stell has given himself a drink_breen_water.
+[20:13:03	]Ellie Stell has gained a 'Breen'in Suyu' #15345.
+[20:13:04	]Ellie Stell has given himself a drink_breen_water.
+[20:13:04	]Ellie Stell has gained a 'Breen'in Suyu' #15346.
+[20:13:05	]Ellie Stell has given himself a drink_breen_water.
+[20:13:05	]Ellie Stell has gained a 'Breen'in Suyu' #15347.
+[20:13:06	]Ellie Stell has given himself a drink_breen_water.
+[20:13:06	]Ellie Stell has gained a 'Breen'in Suyu' #15348.
+[20:13:06	]Ellie Stell has given himself a drink_breen_water.
+[20:13:06	]Ellie Stell has gained a 'Breen'in Suyu' #15349.
+[20:13:07	]Ellie Stell has given himself a drink_breen_water.
+[20:13:07	]Ellie Stell has gained a 'Breen'in Suyu' #15350.
+[20:13:08	]Ellie Stell has given himself a drink_breen_water.
+[20:13:08	]Ellie Stell has gained a 'Breen'in Suyu' #15351.
+[20:13:14	]Ellie Stell has transferred a 'Breen'in Suyu' #15347 to a container with the name 'Vending Machine' #2269.
+[20:13:15	]Ellie Stell has transferred a 'Breen'in Suyu' #15346 to a container with the name 'Vending Machine' #2269.
+[20:13:16	]Ellie Stell has transferred a 'Breen'in Suyu' #15351 to a container with the name 'Vending Machine' #2269.
+[20:13:17	]Ellie Stell has transferred a 'Breen'in Suyu' #15345 to a container with the name 'Vending Machine' #2269.
+[20:13:18	]Ellie Stell has transferred a 'Breen'in Suyu' #15350 to a container with the name 'Vending Machine' #2269.
+[20:13:19	]Ellie Stell has transferred a 'Breen'in Suyu' #15344 to a container with the name 'Vending Machine' #2269.
+[20:13:20	]Ellie Stell has transferred a 'Breen'in Suyu' #15343 to a container with the name 'Vending Machine' #2269.
+[20:13:22	]Ellie Stell has transferred a 'Breen'in Suyu' #15349 to a container with the name 'Vending Machine' #2269.
+[20:13:23	]Ellie Stell has transferred a 'Breen'in Suyu' #15348 to a container with the name 'Vending Machine' #2269.
+[20:13:24	]Ellie Stell has transferred a 'Breen'in Suyu' #15342 to a container with the name 'Vending Machine' #2269.
+[20:13:40	]Ellie Stell has given himself a comfort_sandwich.
+[20:13:40	]Ellie Stell has gained a 'Sandviç' #15352.
+[20:13:41	]Ellie Stell has given himself a comfort_sandwich.
+[20:13:41	]Ellie Stell has gained a 'Sandviç' #15353.
+[20:13:42	]Ellie Stell has given himself a comfort_sandwich.
+[20:13:42	]Ellie Stell has gained a 'Sandviç' #15354.
+[20:13:43	]Ellie Stell has given himself a comfort_sandwich.
+[20:13:43	]Ellie Stell has gained a 'Sandviç' #15355.
+[20:13:43	]Ellie Stell has given himself a comfort_sandwich.
+[20:13:44	]Ellie Stell has gained a 'Sandviç' #15356.
+[20:13:44	]Ellie Stell has given himself a comfort_sandwich.
+[20:13:44	]Ellie Stell has gained a 'Sandviç' #15357.
+[20:13:45	]Ellie Stell has given himself a comfort_sandwich.
+[20:13:45	]Ellie Stell has gained a 'Sandviç' #15358.
+[20:13:46	]Ellie Stell has given himself a comfort_sandwich.
+[20:13:46	]Ellie Stell has gained a 'Sandviç' #15359.
+[20:13:46	]Ellie Stell has given himself a comfort_sandwich.
+[20:13:46	]Ellie Stell has gained a 'Sandviç' #15360.
+[20:13:47	]Ellie Stell has given himself a comfort_sandwich.
+[20:13:47	]Ellie Stell has gained a 'Sandviç' #15361.
+[20:14:27	]Ellie Stell has transferred a 'Sandviç' #15356 to a container with the name 'Vending Machine' #2269.
+[20:14:28	]Ellie Stell has transferred a 'Sandviç' #15357 to a container with the name 'Vending Machine' #2269.
+[20:14:29	]Ellie Stell has transferred a 'Sandviç' #15355 to a container with the name 'Vending Machine' #2269.
+[20:14:30	]Ellie Stell has transferred a 'Sandviç' #15361 to a container with the name 'Vending Machine' #2269.
+[20:14:32	]Ellie Stell has transferred a 'Sandviç' #15354 to a container with the name 'Vending Machine' #2269.
+[20:14:33	]Ellie Stell has transferred a 'Sandviç' #15353 to a container with the name 'Vending Machine' #2269.
+[20:14:34	]Ellie Stell has transferred a 'Sandviç' #15359 to a container with the name 'Vending Machine' #2269.
+[20:14:35	]Ellie Stell has transferred a 'Sandviç' #15360 to a container with the name 'Vending Machine' #2269.
+[20:14:38	]Ellie Stell has transferred a 'Sandviç' #15352 to a container with the name 'Vending Machine' #2269.
+[20:14:39	]Ellie Stell has transferred a 'Sandviç' #15358 to a container with the name 'Vending Machine' #2269.
+[20:14:57	]Ellie Stell entered observer.
+[20:15:05	]Ellie Stell exited observer at their location.
+[20:15:12	]Ellie Stell has given himself a drink_coffee.
+[20:15:12	]Ellie Stell has gained a 'Bir Fincan Kahve' #15362.
+[20:15:13	]Ellie Stell has given himself a drink_coffee.
+[20:15:13	]Ellie Stell has gained a 'Bir Fincan Kahve' #15363.
+[20:15:14	]Ellie Stell has given himself a drink_coffee.
+[20:15:14	]Ellie Stell has gained a 'Bir Fincan Kahve' #15364.
+[20:15:15	]Ellie Stell has given himself a drink_coffee.
+[20:15:15	]Ellie Stell has gained a 'Bir Fincan Kahve' #15365.
+[20:15:16	]Ellie Stell has given himself a drink_coffee.
+[20:15:16	]Ellie Stell has gained a 'Bir Fincan Kahve' #15366.
+[20:15:17	]Ellie Stell has given himself a drink_coffee.
+[20:15:17	]Ellie Stell has gained a 'Bir Fincan Kahve' #15367.
+[20:15:18	]Ellie Stell has given himself a drink_coffee.
+[20:15:18	]Ellie Stell has gained a 'Bir Fincan Kahve' #15368.
+[20:15:19	]Ellie Stell has given himself a drink_coffee.
+[20:15:19	]Ellie Stell has gained a 'Bir Fincan Kahve' #15369.
+[20:15:19	]Ellie Stell has given himself a drink_coffee.
+[20:15:19	]Ellie Stell has gained a 'Bir Fincan Kahve' #15370.
+[20:15:20	]Ellie Stell has given himself a drink_coffee.
+[20:15:20	]Ellie Stell has gained a 'Bir Fincan Kahve' #15371.
+[20:15:32	]Ellie Stell has transferred a 'Bir Fincan Kahve' #15367 to a container with the name 'Vending Machine' #2269.
+[20:15:33	]Ellie Stell has transferred a 'Bir Fincan Kahve' #15366 to a container with the name 'Vending Machine' #2269.
+[20:15:34	]Ellie Stell has transferred a 'Bir Fincan Kahve' #15365 to a container with the name 'Vending Machine' #2269.
+[20:15:35	]Ellie Stell has transferred a 'Bir Fincan Kahve' #15371 to a container with the name 'Vending Machine' #2269.
+[20:15:36	]Ellie Stell has transferred a 'Bir Fincan Kahve' #15370 to a container with the name 'Vending Machine' #2269.
+[20:15:38	]Ellie Stell has transferred a 'Bir Fincan Kahve' #15364 to a container with the name 'Vending Machine' #2269.
+[20:15:38	]Ellie Stell has transferred a 'Bir Fincan Kahve' #15363 to a container with the name 'Vending Machine' #2269.
+[20:15:40	]Ellie Stell has transferred a 'Bir Fincan Kahve' #15362 to a container with the name 'Vending Machine' #2269.
+[20:15:41	]Ellie Stell has transferred a 'Bir Fincan Kahve' #15368 to a container with the name 'Vending Machine' #2269.
+[20:15:42	]Ellie Stell has transferred a 'Bir Fincan Kahve' #15369 to a container with the name 'Vending Machine' #2269.
+[20:15:58	]Ellie Stell entered observer.
+[20:16:07	]Ellie Stell exited observer at their location.
+[20:16:16	]Ellie Stell has given himself a luxury_choc.
+[20:16:16	]Ellie Stell has gained a 'Evrensel Birlik Çikolatası' #15372.
+[20:16:17	]Ellie Stell has given himself a luxury_choc.
+[20:16:17	]Ellie Stell has gained a 'Evrensel Birlik Çikolatası' #15373.
+[20:16:17	]Ellie Stell has given himself a luxury_choc.
+[20:16:17	]Ellie Stell has gained a 'Evrensel Birlik Çikolatası' #15374.
+[20:16:18	]Ellie Stell has given himself a luxury_choc.
+[20:16:18	]Ellie Stell has gained a 'Evrensel Birlik Çikolatası' #15375.
+[20:16:19	]Ellie Stell has given himself a luxury_choc.
+[20:16:19	]Ellie Stell has gained a 'Evrensel Birlik Çikolatası' #15376.
+[20:16:19	]Ellie Stell has given himself a luxury_choc.
+[20:16:19	]Ellie Stell has gained a 'Evrensel Birlik Çikolatası' #15377.
+[20:16:20	]Ellie Stell has given himself a luxury_choc.
+[20:16:20	]Ellie Stell has gained a 'Evrensel Birlik Çikolatası' #15378.
+[20:16:21	]Ellie Stell has given himself a luxury_choc.
+[20:16:21	]Ellie Stell has gained a 'Evrensel Birlik Çikolatası' #15379.
+[20:16:23	]Ellie Stell has given himself a luxury_choc.
+[20:16:23	]Ellie Stell has gained a 'Evrensel Birlik Çikolatası' #15380.
+[20:16:23	]Ellie Stell has given himself a luxury_choc.
+[20:16:23	]Ellie Stell has gained a 'Evrensel Birlik Çikolatası' #15381.
+[20:16:24	]Ellie Stell has given himself a luxury_choc.
+[20:16:24	]Ellie Stell has gained a 'Evrensel Birlik Çikolatası' #15382.
+[20:16:29	]Ellie Stell has transferred a 'Evrensel Birlik Çikolatası' #15377 to a container with the name 'Vending Machine' #2269.
+[20:16:30	]Ellie Stell has transferred a 'Evrensel Birlik Çikolatası' #15376 to a container with the name 'Vending Machine' #2269.
+[20:16:31	]Ellie Stell has transferred a 'Evrensel Birlik Çikolatası' #15375 to a container with the name 'Vending Machine' #2269.
+[20:16:31	]Ellie Stell has transferred a 'Evrensel Birlik Çikolatası' #15382 to a container with the name 'Vending Machine' #2269.
+[20:16:32	]Ellie Stell has transferred a 'Evrensel Birlik Çikolatası' #15381 to a container with the name 'Vending Machine' #2269.
+[20:16:33	]Ellie Stell has transferred a 'Evrensel Birlik Çikolatası' #15380 to a container with the name 'Vending Machine' #2269.
+[20:16:35	]Ellie Stell has transferred a 'Evrensel Birlik Çikolatası' #15379 to a container with the name 'Vending Machine' #2269.
+[20:16:36	]Ellie Stell has transferred a 'Evrensel Birlik Çikolatası' #15378 to a container with the name 'Vending Machine' #2269.
+[20:16:37	]Ellie Stell has transferred a 'Evrensel Birlik Çikolatası' #15374 to a container with the name 'Vending Machine' #2269.
+[20:16:38	]Ellie Stell has transferred a 'Evrensel Birlik Çikolatası' #15373 to a container with the name 'Vending Machine' #2269.
+[20:16:42	]Ellie Stell ran 'Consume' on item 'Evrensel Birlik Çikolatası' (#15372)
+[20:16:42	]Ellie Stell has gained a 'Plastik Çöp' #15383.
+[20:17:23	]Ellie Stell ran 'drop' on item 'Plastik Çöp' (#15383)
+[20:17:23	]Ellie Stell has lost a 'Plastik Çöp' #15383.
+[20:17:25	]Ellie Stell has used a context menu option with the name: remove
+[20:17:29	]Ellie Stell has given himself a food_crisps.
+[20:17:29	]Ellie Stell has gained a 'Patates Cipsi' #15384.
+[20:17:30	]Ellie Stell has given himself a food_crisps.
+[20:17:30	]Ellie Stell has gained a 'Patates Cipsi' #15385.
+[20:17:30	]Ellie Stell has given himself a food_crisps.
+[20:17:31	]Ellie Stell has gained a 'Patates Cipsi' #15386.
+[20:17:31	]Ellie Stell has given himself a food_crisps.
+[20:17:31	]Ellie Stell has gained a 'Patates Cipsi' #15387.
+[20:17:32	]Ellie Stell has given himself a food_crisps.
+[20:17:32	]Ellie Stell has gained a 'Patates Cipsi' #15388.
+[20:17:32	]Ellie Stell has given himself a food_crisps.
+[20:17:32	]Ellie Stell has gained a 'Patates Cipsi' #15389.
+[20:17:33	]Ellie Stell has given himself a food_crisps.
+[20:17:33	]Ellie Stell has gained a 'Patates Cipsi' #15390.
+[20:17:33	]Ellie Stell has given himself a food_crisps.
+[20:17:33	]Ellie Stell has gained a 'Patates Cipsi' #15391.
+[20:17:34	]Ellie Stell has given himself a food_crisps.
+[20:17:34	]Ellie Stell has gained a 'Patates Cipsi' #15392.
+[20:17:35	]Ellie Stell has given himself a food_crisps.
+[20:17:35	]Ellie Stell has gained a 'Patates Cipsi' #15393.
+[20:17:38	]Ellie Stell has transferred a 'Patates Cipsi' #15389 to a container with the name 'Vending Machine' #2269.
+[20:17:39	]Ellie Stell has transferred a 'Patates Cipsi' #15388 to a container with the name 'Vending Machine' #2269.
+[20:17:40	]Ellie Stell has transferred a 'Patates Cipsi' #15393 to a container with the name 'Vending Machine' #2269.
+[20:17:41	]Ellie Stell has transferred a 'Patates Cipsi' #15387 to a container with the name 'Vending Machine' #2269.
+[20:17:42	]Ellie Stell has transferred a 'Patates Cipsi' #15392 to a container with the name 'Vending Machine' #2269.
+[20:17:44	]Ellie Stell has transferred a 'Patates Cipsi' #15386 to a container with the name 'Vending Machine' #2269.
+[20:17:45	]Ellie Stell has transferred a 'Patates Cipsi' #15385 to a container with the name 'Vending Machine' #2269.
+[20:17:47	]Ellie Stell has transferred a 'Patates Cipsi' #15391 to a container with the name 'Vending Machine' #2269.
+[20:17:49	]Ellie Stell has transferred a 'Patates Cipsi' #15390 to a container with the name 'Vending Machine' #2269.
+[20:17:50	]Ellie Stell has transferred a 'Patates Cipsi' #15384 to a container with the name 'Vending Machine' #2269.
+[20:18:07	]Ellie Stell entered observer.
+[20:18:11	]Ellie Stell ran 'drop' on item 'Boş Viski Şişesi' (#14894)
+[20:18:11	]Ellie Stell has lost a 'Boş Viski Şişesi' #14894.
+[20:18:13	]Ellie Stell has used a context menu option with the name: remove
+[20:18:57	]Ellie Stell opened the 'File Cabinet' #1942 container.
+[20:19:00	]Ellie Stell has transferred a 'Vending Machine Key' #15251 to a container with the name 'File Cabinet' #1942.
+[20:19:01	]Ellie Stell has transferred a 'Vending Machine Key' #15250 to a container with the name 'File Cabinet' #1942.
+[20:19:02	]Ellie Stell has transferred a 'Vending Machine Key' #15249 to a container with the name 'File Cabinet' #1942.
+[20:19:06	]Ellie Stell closed the 'File Cabinet' #1942 container.
+[20:20:03	]Ellie Stell exited observer at their location.
+[20:20:06	]Ellie Stell entered observer.
+[20:20:18	]Ellie Stell exited observer at their location.
+[20:20:18	]Ellie Stell has taken 2 damage from Ellie Stell.
+[20:20:18	]Ellie Stell has taken 4 damage from Ellie Stell.
+[20:20:19	]Ellie Stell has taken 6 damage from Ellie Stell.
+[20:20:19	]Ellie Stell has taken 8 damage from Ellie Stell.
+[20:20:19	]Ellie Stell has taken 10 damage from Ellie Stell.
+[20:20:20	]Ellie Stell has taken 12 damage from Ellie Stell.
+[20:20:20	]Ellie Stell has taken 14 damage from Ellie Stell.
+[20:20:20	]Ellie Stell has taken 15 damage from Ellie Stell.
+[20:20:21	]Ellie Stell has taken 15 damage from Ellie Stell.
+[20:20:21	]Ellie Stell was knocked unconscious and is bleeding out.
+[20:20:21	]Ellie Stell entered observer.
+[20:20:30	]Ellie Stell used command '/CharGetUp'.
+[20:20:38	]Ellie Stell has dropped: Açık Gri Kol Bandı (#14835); Kırmızı Hava Ceketi (#14766); Tulum pantolonu. (#14838); Gri Bere (#14840);
+[20:20:38	]Ellie Stell was just killed due to: accepting their death
+[20:20:40	]Ellie Stell used command '/CharGetUp'.
+[20:20:40	]Ellie Stell entered observer.
+[20:21:04	]Ellie Stell exited observer at their location.
+[20:21:07	]Ellie Stell entered observer.
+[20:21:49	]Ellie Stell exited observer at their location.
+[20:21:50	]Ellie Stell entered observer.
+[20:21:50	]Ellie Stell exited observer at their location.
+[20:21:50	]Ellie Stell entered observer.
+[20:21:51	]Ellie Stell exited observer at their location.
+[20:21:55	]Ellie Stell has used a context menu option with the name: remove
+[20:21:56	]Ellie Stell has used a context menu option with the name: remove
+[20:21:57	]Ellie Stell has used a context menu option with the name: remove
+[20:21:58	]Ellie Stell has used a context menu option with the name: remove
+[20:22:03	]Ellie Stell has used a context menu option with the name: wncontainer_checkowner
+[20:22:18	]Ellie Stell has set the password of the 'File Cabinet' container (#2243).
+[20:22:18	]Ellie Stell has used a context menu option with the name: wncontainer_setpassword
+[20:22:21	]Ellie Stell opened the 'File Cabinet' #2243 container.
+[20:22:32	]Ellie Stell closed the 'File Cabinet' #2243 container.
+[20:22:34	]Ellie Stell has used a context menu option with the name: wncontainer_checkowner
+[20:24:06	]Ellie Stell has used a context menu option with the name: wncontainer_checkowner
+[20:24:15	]Ellie Stell has used a context menu option with the name: remove
+[20:24:15	]Ellie Stell entered observer.
+[20:24:16	]Container 'File Cabinet' removed (inv #2243; model: models/props_lab/filecabinet02.mdl) with 0 chips and items:  3x Çelik (#14685); Assault Rifle Ammo (#14436); Helsing Bolt Rifle (#15119); 3x Kömür (#14637); Bavul (#14666); 3x Hurda Metal (#11612); 4x Çelik (#14674); 8x Hurda Metal (#14667); 2x Güçlü Yapıştırıcı (#14695); 8x Plastik Çöp (#14651); 3x Vida Kutusu (#14892); 8x Elektronik devreler (#14700); 2x Dikişli Kumaş (#14731); 4x Vida Kutusu (#14727); 8x Hurda Metal (#14643); 1x Yapıştırıcı (#14925); 4x Plastik Levhalar (#14708); 4x Çivi Kutusu (#14712);
+[20:24:21	]Victorian has connected.
+[20:24:44	]Ellie Stell exited observer at their location.
+[20:24:46	]Ellie Stell entered observer.
+[20:24:47	]Ellie Stell exited observer at their location.
+[20:24:48	]Ellie Stell entered observer.
+[20:24:48	]Ellie Stell exited observer at their location.
+[20:24:51	]Ellie Stell entered observer.
+[20:25:47	]Ellie Stell exited observer at their location.
+[20:25:49	]Ellie Stell entered observer.
+[20:25:54	]Ellie Stell used the 'Kaçakçı' smuggler.
+[20:27:13	]Victorian loaded the character 'Alexander Ivanov'
+[20:27:30	]Alexander Ivanov entered observer.
+[20:27:38	]Alexander Ivanov exited observer at their location.
+[20:28:17	]Alexander Ivanov entered observer.
+[20:28:28	]Alexander Ivanov exited observer at their location.
+[20:28:38	]Alexander Ivanov has used a context menu option with the name: skin
+[20:28:41	]Alexander Ivanov has used a context menu option with the name: skin
+[20:28:45	]Alexander Ivanov has used a context menu option with the name: skin
+[20:29:02	]Alexander Ivanov has used a context menu option with the name: skin
+[20:29:05	]Alexander Ivanov has used a context menu option with the name: skin
+[20:29:09	]Alexander Ivanov has used a context menu option with the name: skin
+[20:29:12	]Alexander Ivanov has used a context menu option with the name: skin
+[20:29:15	]Alexander Ivanov has used a context menu option with the name: skin
+[20:29:17	]Alexander Ivanov has used a context menu option with the name: skin
+[20:29:22	]Alexander Ivanov has used a context menu option with the name: skin
+[20:29:27	]Alexander Ivanov has used a context menu option with the name: skin
+[20:29:32	]Alexander Ivanov has used a context menu option with the name: skin
+[20:29:36	]Alexander Ivanov has used a context menu option with the name: skin
+[20:29:41	]Alexander Ivanov has used a context menu option with the name: skin
+[20:29:49	]Alexander Ivanov has used a context menu option with the name: skin
+[20:29:51	]Alexander Ivanov entered observer.
+[20:29:58	]Alexander Ivanov exited observer at their location.
+[20:29:58	]Alexander Ivanov entered observer.
+[20:29:58	]Alexander Ivanov exited observer at their location.
+[20:29:59	]Alexander Ivanov entered observer.
+[20:30:00	]Alexander Ivanov exited observer at their location.
+[20:30:00	]Alexander Ivanov entered observer.
+[20:30:02	]Alexander Ivanov exited observer at their location.
+[20:30:02	]Alexander Ivanov entered observer.
+[20:30:03	]Alexander Ivanov exited observer at their location.
+[20:30:04	]Alexander Ivanov entered observer.
+[20:30:08	]Ellie Stell used command '/ActSit 4'.
+[20:30:08	]Alexander Ivanov exited observer at their location.
+[20:30:09	]Alexander Ivanov entered observer.
+[20:30:09	]Ellie Stell exited observer at their location.
+[20:30:11	]Ellie Stell used command '/ActSit 5'.
+[20:30:12	]Alexander Ivanov exited observer at their location.
+[20:30:15	]Alexander Ivanov entered observer.
+[20:30:26	]Alexander Ivanov exited observer at their location.
+[20:30:33	]Ellie Stell used command '/ExitAct'.
+[20:30:33	]Ellie Stell entered observer.
+[20:30:34	]Alexander Ivanov entered observer.
+[20:30:53	]Ellie Stell exited observer at their location.
+[20:30:53	]Alexander Ivanov exited observer at their location.
+[20:30:54	]Alexander Ivanov entered observer.
+[20:30:55	]Ellie Stell used command '/ActSit 4'.
+[20:31:05	]Alexander Ivanov exited observer at their location.
+[20:31:05	]Alexander Ivanov entered observer.
+[20:31:07	]Ellie Stell entered observer.
+[20:31:07	]Ellie Stell used command '/ExitAct'.
+[20:31:07	]Ellie Stell entered observer.
+[20:31:07	]Alexander Ivanov exited observer at their location.
+[20:31:10	]Ellie Stell opened the 'Ahşap Masa' #2132 container.
+[20:31:11	]Alexander Ivanov entered observer.
+[20:31:13	]Ellie Stell closed the 'Ahşap Masa' #2132 container.
+[20:31:27	]Ellie Stell ran SAM command 'menu' with arguments: ''
+[20:31:31	]Alexander Ivanov exited observer at their location.
+[20:31:32	]Alexander Ivanov entered observer.
+[20:31:39	]Alexander Ivanov exited observer at their location.
+[20:31:40	]Alexander Ivanov entered observer.
+[20:31:49	]Alexander Ivanov exited observer at their location.
+[20:31:50	]Alexander Ivanov entered observer.
+[20:32:04	]Alexander Ivanov exited observer at their location.
+[20:32:05	]Alexander Ivanov entered observer.
+[20:32:06	]Alexander Ivanov exited observer at their location.
+[20:32:07	]Alexander Ivanov entered observer.
+[20:32:34	]Alexander Ivanov exited observer at their location.
+[20:32:37	]Alexander Ivanov entered observer.
+[20:32:40	]Alexander Ivanov exited observer at their location.
+[20:32:41	]Alexander Ivanov entered observer.
+[20:32:49	]Ellie Stell used command '/AreaEdit'.
+[20:33:05	]Alexander Ivanov exited observer at their location.
+[20:33:06	]Alexander Ivanov entered observer.
+[20:33:16	]Alexander Ivanov exited observer at their location.
+[20:33:16	]Alexander Ivanov entered observer.
+[20:33:17	]Alexander Ivanov exited observer at their location.
+[20:33:18	]Alexander Ivanov entered observer.
+[20:33:18	]AuTiSTiC (STEAM_0:0:142449284) has disconnected.
+[20:33:19	]Alexander Ivanov exited observer at their location.
+[20:33:19	]Alexander Ivanov entered observer.
+[20:33:20	]Alexander Ivanov exited observer at their location.
+[20:33:20	]Alexander Ivanov entered observer.
+[20:33:23	]Alexander Ivanov exited observer at their location.
+[20:33:24	]Alexander Ivanov entered observer.
+[20:33:28	]Alexander Ivanov exited observer at their location.
+[20:35:09	]Alexander Ivanov has spawned a armband_purple.
+[20:35:11	]Alexander Ivanov ran 'take' on item 'Mor CCA kol bandı' (#15394)
+[20:35:11	]Alexander Ivanov has gained a 'Mor CCA kol bandı' #15394.
+[20:35:19	]Alexander Ivanov ran 'drop' on item 'Mor CCA kol bandı' (#15394)
+[20:35:19	]Alexander Ivanov has lost a 'Mor CCA kol bandı' #15394.
+[20:35:24	]Alexander Ivanov has used a context menu option with the name: remove
+[20:35:40	]Alexander Ivanov entered observer.
+[20:36:06	]Alexander Ivanov exited observer at their location.
+[20:36:07	]Alexander Ivanov entered observer.
+[20:36:19	]Alexander Ivanov exited observer at their location.
+[20:36:21	]Alexander Ivanov entered observer.
+[20:36:24	]Alexander Ivanov exited observer at their location.
+[20:36:27	]Alexander Ivanov entered observer.
+[20:36:36	]Alexander Ivanov exited observer at their location.
+[20:36:38	]Alexander Ivanov entered observer.
+[20:36:46	]Alexander Ivanov exited observer at their location.
+[20:36:47	]Alexander Ivanov entered observer.
+[20:36:56	]Alexander Ivanov exited observer at their location.
+[20:36:56	]Alexander Ivanov entered observer.
+[20:36:57	]Alexander Ivanov exited observer at their location.
+[20:36:59	]Alexander Ivanov entered observer.
+[20:37:00	]Alexander Ivanov exited observer at their location.
+[20:37:00	]Alexander Ivanov entered observer.
+[20:37:16	]Alexander Ivanov exited observer at their location.
+[20:37:18	]Alexander Ivanov entered observer.
+[20:37:23	]Alexander Ivanov exited observer at their location.
+[20:37:24	]Alexander Ivanov entered observer.
+[20:37:24	]Alexander Ivanov exited observer at their location.
+[20:37:25	]Alexander Ivanov entered observer.
+[20:37:25	]Alexander Ivanov exited observer at their location.
+[20:37:26	]Alexander Ivanov entered observer.
+[20:37:26	]Alexander Ivanov exited observer at their location.
+[20:37:26	]Alexander Ivanov entered observer.
+[20:37:26	]Alexander Ivanov exited observer at their location.
+[20:37:27	]Alexander Ivanov entered observer.
+[20:37:27	]Alexander Ivanov exited observer at their location.
+[20:37:28	]Alexander Ivanov entered observer.
+[20:38:01	]Alexander Ivanov exited observer at their location.
+[20:38:02	]Alexander Ivanov entered observer.
+[20:38:29	]Alexander Ivanov exited observer at their location.
+[20:38:29	]Alexander Ivanov entered observer.
+[20:38:30	]Alexander Ivanov exited observer at their location.
+[20:38:30	]Alexander Ivanov entered observer.
+[20:38:31	]Alexander Ivanov exited observer at their location.
+[20:38:31	]Alexander Ivanov entered observer.
+[20:38:37	]Alexander Ivanov exited observer at their location.
+[20:38:38	]Alexander Ivanov entered observer.
+[20:38:40	]Alexander Ivanov exited observer at their location.
+[20:38:40	]Alexander Ivanov entered observer.
+[20:38:45	]Alexander Ivanov exited observer at their location.
+[20:38:46	]Alexander Ivanov entered observer.
+[20:38:49	]Alexander Ivanov exited observer at their location.
+[20:38:51	]Alexander Ivanov entered observer.
+[20:38:57	]Alexander Ivanov exited observer at their location.
+[20:38:58	]Alexander Ivanov entered observer.
+[20:39:09	]Alexander Ivanov has used a context menu option with the name: skin
+[20:39:15	]Alexander Ivanov exited observer at their location.
+[20:39:16	]Alexander Ivanov entered observer.
+[20:39:27	]Alexander Ivanov exited observer at their location.
+[20:39:28	]Alexander Ivanov entered observer.
+[20:39:32	]Alexander Ivanov exited observer at their location.
+[20:39:34	]Alexander Ivanov entered observer.
+[20:39:51	]Alexander Ivanov ran 'drop' on item 'Plastik Çöp' (#15023)
+[20:39:51	]Alexander Ivanov has lost a 'Plastik Çöp' #15023.
+[20:40:00	]Alexander Ivanov exited observer at their location.
+[20:40:01	]Alexander Ivanov entered observer.
+[20:40:03	]Alexander Ivanov exited observer at their location.
+[20:40:04	]Alexander Ivanov entered observer.
+[20:40:05	]Alexander Ivanov exited observer at their location.
+[20:40:09	]Alexander Ivanov ran 'Use' on item '30 Kredi Kuponu' (#14877)
+[20:40:10	]Alexander Ivanov entered observer.
+[20:40:11	]Alexander Ivanov has used a coupon at a ration dispenser, gaining 30 credits.
+[20:45:32	]Alexander Ivanov exited observer at their location.
+[20:45:48	]Alexander Ivanov opened the 'File Cabinet' #1942 container.
+[20:45:53	]Alexander Ivanov closed the 'File Cabinet' #1942 container.
+[20:45:54	]Alexander Ivanov entered observer.
+[20:46:18	]Alexander Ivanov exited observer at their location.
+[20:46:19	]Alexander Ivanov entered observer.
+[20:46:38	]Alexander Ivanov exited observer at their location.
+[20:46:39	]Alexander Ivanov entered observer.
+[20:46:42	]Alexander Ivanov exited observer at their location.
+[20:46:43	]Alexander Ivanov entered observer.
+[20:46:44	]Alexander Ivanov exited observer at their location.
+[20:46:46	]Alexander Ivanov entered observer.
+[20:47:02	]Alexander Ivanov exited observer at their location.
+[20:47:03	]Alexander Ivanov entered observer.
+[20:47:03	]Alexander Ivanov exited observer at their location.
+[20:47:03	]Alexander Ivanov entered observer.
+[20:47:04	]Alexander Ivanov exited observer at their location.
+[20:47:04	]Alexander Ivanov entered observer.
+[20:47:07	]Alexander Ivanov exited observer at their location.
+[20:47:08	]Alexander Ivanov entered observer.
+[20:47:08	]Alexander Ivanov exited observer at their location.
+[20:47:09	]Alexander Ivanov entered observer.
+[20:47:40	]Alexander Ivanov exited observer at their location.
+[20:47:41	]Alexander Ivanov entered observer.
+[20:47:47	]Alexander Ivanov exited observer at their location.
+[20:47:48	]Alexander Ivanov entered observer.
+[20:47:49	]Alexander Ivanov exited observer at their location.
+[20:47:52	]Alexander Ivanov entered observer.
+[20:48:43	]Alexander Ivanov exited observer at their location.
+[20:48:44	]Alexander Ivanov entered observer.
+[20:48:49	]Alexander Ivanov exited observer at their location.
+[20:48:51	]Alexander Ivanov entered observer.
+[20:49:10	]Alexander Ivanov exited observer at their location.
+[20:49:11	]Alexander Ivanov entered observer.
+[20:49:13	]Alexander Ivanov exited observer at their location.
+[20:49:16	]Alexander Ivanov entered observer.
+[20:49:23	]Alexander Ivanov exited observer at their location.
+[20:49:23	]Alexander Ivanov entered observer.
+[20:49:51	]Alexander Ivanov exited observer at their location.
+[20:49:52	]Alexander Ivanov entered observer.
+[20:50:13	]Alexander Ivanov exited observer at their location.
+[20:50:17	]Alexander Ivanov entered observer.
+[20:50:28	]Alexander Ivanov exited observer at their location.
+[20:50:42	]Alexander Ivanov entered observer.
+[20:50:44	]Alexander Ivanov exited observer at their location.
+[20:50:45	]Alexander Ivanov entered observer.
+[20:51:56	]Alexander Ivanov exited observer at their location.
+[20:52:09	]Alexander Ivanov entered observer.
+[20:52:22	]Alexander Ivanov exited observer at their location.
+[20:52:23	]Alexander Ivanov entered observer.
+[20:52:34	]Alexander Ivanov exited observer at their location.
+[20:52:40	]Alexander Ivanov entered observer.
+[20:52:49	]Alexander Ivanov exited observer at their location.
+[20:52:50	]Alexander Ivanov entered observer.
+[20:52:56	]Alexander Ivanov has spawned a customitem_m.
+[20:53:03	]Alexander Ivanov exited observer at their location.
+[20:53:05	]Alexander Ivanov entered observer.
+[20:53:07	]Alexander Ivanov exited observer at their location.
+[20:53:13	]Alexander Ivanov has used a context menu option with the name: remove
+[20:53:16	]Alexander Ivanov entered observer.
+[20:53:30	]Alexander Ivanov exited observer at their location.
+[20:53:50	]Alexander Ivanov entered observer.
+[20:54:07	]Alexander Ivanov exited observer at their location.
+[20:54:08	]Alexander Ivanov entered observer.
+[20:54:09	]Alexander Ivanov exited observer at their location.
+[20:54:10	]Alexander Ivanov entered observer.
+[20:54:11	]Alexander Ivanov exited observer at their location.
+[20:54:11	]Alexander Ivanov entered observer.
+[20:54:12	]Alexander Ivanov exited observer at their location.
+[20:57:25	]Alexander Ivanov entered observer.
+[20:57:29	]Alexander Ivanov exited observer at their location.
+[20:57:30	]Alexander Ivanov entered observer.
+[20:58:55	]Alexander Ivanov exited observer at their location.
+[20:58:56	]Alexander Ivanov entered observer.
+[20:59:00	]Alexander Ivanov exited observer at their location.
+[20:59:02	]Alexander Ivanov entered observer.
+[20:59:02	]Alexander Ivanov exited observer at their location.
+[20:59:11	]Alexander Ivanov has spawned 'models/willardnetworks/posters/wn_poster_2.mdl'.
+[20:59:37	]Alexander Ivanov has spawned 'models/c24_exterior/c24_cityposters.mdl'.
+[20:59:37	]Alexander Ivanov has taken 10 damage from prop_physics.
+[20:59:37	]Alexander Ivanov has taken 10 damage from prop_physics.
+[21:01:47	]Alexander Ivanov entered observer.
+[21:04:46	]Alexander Ivanov exited observer at their location.
+[21:04:47	]Alexander Ivanov entered observer.
+[21:04:48	]Alexander Ivanov exited observer at their location.
+[21:04:48	]Alexander Ivanov entered observer.
+[21:04:53	]Alexander Ivanov exited observer at their location.
+[21:04:54	]Alexander Ivanov entered observer.
+[21:04:55	]Alexander Ivanov exited observer at their location.
+[21:04:57	]Alexander Ivanov entered observer.
+[21:07:15	]Alexander Ivanov exited observer at their location.
+[21:07:17	]Alexander Ivanov entered observer.
+[21:07:48	]Alexander Ivanov exited observer at their location.
+[21:08:58	]Alexander Ivanov entered observer.
+[21:09:05	]Alexander Ivanov exited observer at their location.
+[21:09:06	]Alexander Ivanov entered observer.
+[21:09:07	]Alexander Ivanov exited observer at their location.
+[21:09:07	]Alexander Ivanov entered observer.
+[21:09:08	]Alexander Ivanov exited observer at their location.
+[21:09:24	]Alexander Ivanov entered observer.
+[21:09:42	]Alexander Ivanov exited observer at their location.
+[21:09:43	]Alexander Ivanov entered observer.
+[21:09:55	]Alexander Ivanov exited observer at their location.
+[21:09:56	]Alexander Ivanov entered observer.
+[21:10:05	]Alexander Ivanov exited observer at their location.
+[21:10:06	]Alexander Ivanov entered observer.
+[21:10:10	]Alexander Ivanov exited observer at their location.
+[21:10:27	]Alexander Ivanov has spawned 'models/willardnetworks/posters/wn_banner_1.mdl'.
+[21:10:52	]Alexander Ivanov used command '/PlaySound Rickroll'.
+[21:11:27	]Alexander Ivanov has spawned 'models/food/hotdog.mdl'.
+[21:11:34	]Alexander Ivanov has spawned 'models/chairs/armchair.mdl'.
+[21:12:16	]Alexander Ivanov entered observer.
+[21:13:00	][PICKUP DISPENSER] Victorian ( Alexander Ivanov ) picked up an item from the pickup dispenser.
+[21:13:00	]Alexander Ivanov has gained a '20 Kredi Kuponu' #15396.
+[21:13:01	][PICKUP DISPENSER] Victorian ( Alexander Ivanov ) picked up an item from the pickup dispenser.
+[21:13:01	]Alexander Ivanov has gained a 'Daire Anahtarı' #15397.
+[21:13:12	]Alexander Ivanov ran 'Unlock' on item 'Daire Anahtarı' (#15397)
+[21:13:18	]Alexander Ivanov ran 'Unlock' on item 'Daire Anahtarı' (#15397)
+[21:13:19	]Alexander Ivanov ran 'Lock' on item 'Daire Anahtarı' (#15397)
+[21:13:21	]Alexander Ivanov exited observer at their location.
+[21:13:28	]Alexander Ivanov entered observer.
+[21:13:33	]Alexander Ivanov exited observer at their location.
+[21:13:35	]Alexander Ivanov entered observer.
+[21:13:36	]Alexander Ivanov exited observer at their location.
+[21:13:37	]Alexander Ivanov entered observer.
+[21:14:44	]Alexander Ivanov exited observer at their location.
+[21:14:45	]Alexander Ivanov entered observer.
+[21:14:46	]Alexander Ivanov exited observer at their location.
+[21:16:01	]Alexander Ivanov entered observer.
+[21:16:04	]Alexander Ivanov exited observer at their location.
+[21:16:05	]Alexander Ivanov entered observer.
+[21:16:05	]Alexander Ivanov exited observer at their location.
+[21:16:06	]Alexander Ivanov has taken 16 damage from worldspawn.
+[21:16:06	]Alexander Ivanov entered observer.
+[21:17:46	]Alexander Ivanov exited observer at their location.
+[21:17:47	]Alexander Ivanov entered observer.
+[21:17:48	]Alexander Ivanov exited observer at their location.
+[21:17:48	]Alexander Ivanov entered observer.
+[21:17:49	]Alexander Ivanov exited observer at their location.
+[21:18:10	]Alexander Ivanov entered observer.
+[21:18:27	]Alexander Ivanov has spawned 'models/willardnetworks/posters/wn_poster_1.mdl'.
+[21:18:38	]Alexander Ivanov exited observer at their location.
+[21:18:44	]Alexander Ivanov entered observer.
+[21:18:54	]Alexander Ivanov exited observer at their location.
+[21:19:03	]Alexander Ivanov entered observer.
+[21:21:18	]Alexander Ivanov exited observer at their location.
+[21:21:19	]Alexander Ivanov entered observer.
+[21:21:26	]Alexander Ivanov exited observer at their location.
+[21:21:26	]Alexander Ivanov entered observer.
+[21:21:32	]Alexander Ivanov exited observer at their location.
+[21:21:33	]Alexander Ivanov entered observer.
+[21:21:48	]Alexander Ivanov exited observer at their location.
+[21:21:48	]Alexander Ivanov entered observer.
+[21:21:59	]Alexander Ivanov exited observer at their location.
+[21:24:16	]Alexander Ivanov entered observer.
+[21:25:01	]Alexander Ivanov exited observer at their location.
+[21:25:05	]Alexander Ivanov has spawned 'models/mossman.mdl'.
+[21:25:09	]Alexander Ivanov entered observer.
+[21:25:12	]Alexander Ivanov exited observer at their location.
+[21:25:26	]Alexander Ivanov has used a context menu option with the name: remove
+[21:25:30	]Alexander Ivanov entered observer.
+[21:26:08	]Alexander Ivanov exited observer at their location.
+[21:26:09	]Alexander Ivanov entered observer.
+[21:26:36	]Alexander Ivanov ran 'Write' on item 'SMAB İŞE ALIM BİLGİLENDİRMESİ' (#13019)
+[21:27:12	]Alexander Ivanov exited observer at their location.
+[21:27:15	]Alexander Ivanov used command '/ActSit 5'.
+[21:27:20	]Alexander Ivanov used command '/ExitAct'.
+[21:27:21	]Alexander Ivanov entered observer.
+[21:27:35	]Alexander Ivanov exited observer at their location.
+[21:27:54	]Alexander Ivanov used command '/ActSit 5'.
+[21:27:55	]Alexander Ivanov used command '/ExitAct'.
+[21:27:59	]Alexander Ivanov entered observer.
+[21:28:53	]Alexander Ivanov exited observer at their location.
+[21:28:53	]Alexander Ivanov entered observer.
+[21:28:55	]Alexander Ivanov exited observer at their location.
+[21:28:56	]Alexander Ivanov entered observer.
+[21:28:57	]Alexander Ivanov exited observer at their location.
+[21:28:57	]Alexander Ivanov entered observer.
+[21:28:58	]Alexander Ivanov exited observer at their location.
+[21:28:59	]Alexander Ivanov entered observer.
+[21:29:04	]Alexander Ivanov exited observer at their location.
+[21:29:06	]Alexander Ivanov entered observer.
+[21:29:07	]Alexander Ivanov exited observer at their location.
+[21:29:09	]Alexander Ivanov entered observer.
+[21:30:12	]Alexander Ivanov exited observer at their location.
+[21:30:12	]Alexander Ivanov entered observer.
+[21:30:25	]Alexander Ivanov exited observer at their location.
+[21:30:53	]Alexander Ivanov entered observer.
+[21:31:01	]Alexander Ivanov exited observer at their location.
+[21:31:01	]Alexander Ivanov entered observer.
+[21:31:06	]Alexander Ivanov exited observer at their location.
+[21:31:30	]Alexander Ivanov entered observer.
+[21:31:37	]Alexander Ivanov exited observer at their location.
+[21:31:37	]Alexander Ivanov entered observer.
+[21:31:38	]Alexander Ivanov exited observer at their location.
+[21:31:40	]Alexander Ivanov entered observer.
+[21:31:47	]Alexander Ivanov exited observer at their location.
+[21:32:22	]Alexander Ivanov has spawned a usable entity class 'ix_chair' with model 'models/props_c17/furniturechair001a.mdl'.
+[21:32:22	]Alexander Ivanov has used a context menu option with the name: ixusableentitycreate
+[21:32:29	]Alexander Ivanov has spawned a usable entity class 'ix_couch' with model 'models/props_c17/furniturecouch001a.mdl'.
+[21:32:29	]Alexander Ivanov has used a context menu option with the name: ixusableentitycreate
+[21:32:32	]Alexander Ivanov has used a context menu option with the name: rb655_dissolve
+[21:32:44	]Alexander Ivanov has disabled persistence for 'models/props/de_inferno/tablecoffee.mdl'.
+[21:32:44	]Alexander Ivanov has used a context menu option with the name: persist_end
+[21:33:00	]Alexander Ivanov entered observer.
+[21:33:04	]Alexander Ivanov has enabled persistence for 'models/props/de_inferno/tablecoffee.mdl'.
+[21:33:04	]Alexander Ivanov has used a context menu option with the name: persist
+[21:33:07	]Alexander Ivanov has used a context menu option with the name: rb655_dissolve
+[21:33:16	]Alexander Ivanov has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[21:33:33	]Alexander Ivanov exited observer at their location.
+[21:33:37	]Alexander Ivanov has disabled persistence for 'models/props/de_inferno/tablecoffee.mdl'.
+[21:33:37	]Alexander Ivanov has used a context menu option with the name: persist_end
+[21:34:03	]Alexander Ivanov has spawned a 'Entity [1676][stormfox_cs_candle]'.
+[21:34:18	]Alexander Ivanov has spawned a 'Entity [1831][item_healthkit]'.
+[21:34:30	]Alexander Ivanov has spawned 'models/props_lab/citizenradio.mdl'.
+[21:34:38	]Alexander Ivanov has enabled persistence for 'models/props_lab/citizenradio.mdl'.
+[21:34:38	]Alexander Ivanov has used a context menu option with the name: persist
+[21:34:40	]Alexander Ivanov has enabled persistence for 'models/props/de_inferno/tablecoffee.mdl'.
+[21:34:40	]Alexander Ivanov has used a context menu option with the name: persist
+[21:34:42	]Alexander Ivanov has spawned a usable entity class 'ix_couch' with model 'models/props_c17/furniturecouch001a.mdl'.
+[21:34:42	]Alexander Ivanov has used a context menu option with the name: ixusableentitycreate
+[21:34:45	]Alexander Ivanov used command '/ActSit 6'.
+[21:34:46	]Alexander Ivanov used command '/ExitAct'.
+[21:34:48	]Alexander Ivanov used command '/ActSit 8'.
+[21:34:50	]Alexander Ivanov used command '/ExitAct'.
+[21:34:51	]Alexander Ivanov used command '/ActSit 7'.
+[21:34:52	]Alexander Ivanov used command '/ExitAct'.
+[21:34:53	]Alexander Ivanov used command '/ActSit 7'.
+[21:34:54	]Alexander Ivanov used command '/ExitAct'.
+[21:34:56	]Alexander Ivanov used command '/ActSit 6'.
+[21:34:56	]Alexander Ivanov used command '/ExitAct'.
+[21:34:58	]Alexander Ivanov used command '/ActSit 4'.
+[21:34:59	]Alexander Ivanov used command '/ExitAct'.
+[21:35:00	]Alexander Ivanov used command '/ActSit 3'.
+[21:35:01	]Alexander Ivanov used command '/ExitAct'.
+[21:35:03	]Alexander Ivanov used command '/ActSit 2'.
+[21:35:04	]Alexander Ivanov used command '/ExitAct'.
+[21:35:05	]Alexander Ivanov used command '/ActSit 4'.
+[21:35:06	]Alexander Ivanov used command '/ExitAct'.
+[21:35:08	]Alexander Ivanov used command '/ActSit 3'.
+[21:35:10	]Alexander Ivanov used command '/ExitAct'.
+[21:35:12	]Alexander Ivanov used command '/ActSit 5'.
+[21:35:13	]Alexander Ivanov used command '/ExitAct'.
+[21:35:26	]Victorian (STEAM_0:0:577700614) has disconnected.

@@ -1,0 +1,2251 @@
+[16:13:41	]Jhonny has connected.
+[16:14:41	]Jhonny loaded the character 'Lora Croft'
+[16:14:46	]Lora Croft is fully healed.
+[16:16:13	]Lora Croft used command '/CharFallOver'.
+[16:16:18	]Lora Croft used command '/CharFallOver'.
+[16:16:19	]Lora Croft used command '/CharFallOver'.
+[16:16:21	]Lora Croft used command '/CharFallOver'.
+[16:16:22	]Lora Croft used command '/CharGetUp'.
+[16:16:23	]Lora Croft used command '/CharGetUp'.
+[16:16:24	]Lora Croft used command '/CharGetUp'.
+[16:16:26	]Lora Croft used command '/CharGetUp'.
+[16:16:26	]Lora Croft used command '/CharGetUp'.
+[16:16:27	]Lora Croft used command '/CharGetUp'.
+[16:16:35	]Lora Croft used command '/ActSit 6'.
+[16:16:38	]Lora Croft used command '/ActSit 3'.
+[16:16:39	]Lora Croft used command '/ActSit 3'.
+[16:16:41	]Lora Croft used command '/ActSit 3'.
+[16:16:42	]Lora Croft used command '/ExitAct'.
+[16:26:26	]Lora Croft has gained a 'Plastik Kap' #18183.
+[16:30:00	]Lora Croft has gained level 1 in the Hız skill.
+[16:30:02	]Lora Croft has gained level 2 in the Hız skill.
+[16:30:18	]Lora Croft has performed the 'Craft Parçala: Boş Breen'in Suyu' action, gaining 20 experience in crafting.
+[16:30:18	]Lora Croft has gained a 'Plastik Çöp' #18184.
+[16:30:28	]Lora Croft has performed the 'Craft Parçala: Plastik Kap' action, gaining 30 experience in crafting.
+[16:31:28	]Lora Croft has gained a 'Kaplumbağa Peluş' #18185.
+[16:31:47	]Lora Croft has gained a 'Kırık Lamba' #18186.
+[16:31:56	]Lora Croft has performed the 'Craft Parçala: Kaplumbağa Peluş' action, gaining 20 experience in crafting.
+[16:31:56	]Lora Croft has gained a 'Bez Paçavralar' #18187.
+[16:33:04	]Lora Croft has gained a 'Kırık Bilgisayar' #18188.
+[16:33:25	]Lora Croft has gained a 'Eski Lastik' #18189.
+[16:33:57	]Lora Croft ran 'drop' on item 'Eski Lastik' (#18189)
+[16:33:57	]Lora Croft has lost a 'Eski Lastik' #18189.
+[16:34:13	]Lora Croft ran 'take' on item 'Boş Breen'in Suyu' (#18038)
+[16:34:13	]Lora Croft has gained a 'Boş Breen'in Suyu' #18038.
+[16:34:47	]Lora Croft has gained a 'Eski Masa Saati' #18190.
+[16:34:47	]Lora Croft has gained a 'Bilgisayar Parçaları' #18191.
+[16:35:13	]Lora Croft has performed the 'Craft Parçala: Boş Breen'in Suyu' action, gaining 20 experience in crafting.
+[16:35:18	]Lora Croft has performed the 'Craft Parçala: Eski Masa Saati' action, gaining 50 experience in crafting.
+[16:35:18	]Lora Croft has gained a 'Ahşap Tahta' #18192.
+[16:35:18	]Lora Croft has gained a 'Elektronik devreler' #18193.
+[16:35:18	]Lora Croft has gained a 'Çivi Kutusu' #18194.
+[16:36:25	]Lora Croft has gained a 'Yeşil Şişe' #18195.
+[16:37:26	]Lora Croft used command '/CharFallOver'.
+[16:37:27	]Lora Croft used command '/CharGetUp'.
+[16:37:28	]Lora Croft used command '/CharGetUp'.
+[16:37:29	]Lora Croft used command '/CharGetUp'.
+[16:37:29	]Lora Croft used command '/CharGetUp'.
+[16:37:30	]Lora Croft used command '/CharGetUp'.
+[16:37:31	]Lora Croft used command '/CharGetUp'.
+[16:40:01	]Lora Croft opened the 'Depo Dolabı' #2061 container.
+[16:40:02	]Lora Croft closed the 'Depo Dolabı' #2061 container.
+[16:40:03	]Lora Croft opened the 'Depo Dolabı' #2062 container.
+[16:40:05	]Lora Croft closed the 'Depo Dolabı' #2062 container.
+[16:40:14	]Lora Croft ran 'take' on item 'Cerrahi Kit' (#16924)
+[16:40:14	]Lora Croft has gained a 'Cerrahi Kit' #16924.
+[16:40:16	]Lora Croft ran 'take' on item 'Cerrahi Kit' (#17223)
+[16:40:16	]Lora Croft has gained a 'Cerrahi Kit' #17223.
+[16:40:18	]Lora Croft ran 'take' on item 'Cerrahi Kit' (#17254)
+[16:40:18	]Lora Croft has gained a 'Cerrahi Kit' #17254.
+[16:40:21	]Lora Croft opened the 'Depo Dolabı' #2061 container.
+[16:40:21	]Lora Croft closed the 'Depo Dolabı' #2061 container.
+[16:43:42	]Lora Croft used command '/ActSit 5'.
+[16:43:43	]Lora Croft used command '/ExitAct'.
+[16:43:47	]Lora Croft has gained level 3 in the Hız skill.
+[16:48:43	]Lora Croft used command '/ActInjured'.
+[16:48:44	]Lora Croft used command '/ActInjured'.
+[16:48:47	]Lora Croft used command '/ActInjured'.
+[16:48:48	]Lora Croft used command '/ActInjured'.
+[16:49:13	]Lora Croft used command '/ActInjured'.
+[16:49:19	]Lora Croft used command '/CharFallOver'.
+[16:49:21	]Lora Croft used command '/CharFallOver'.
+[16:49:23	]Lora Croft used command '/CharFallOver'.
+[16:49:26	]Lora Croft used command '/CharFallOver'.
+[16:49:28	]Lora Croft used command '/CharFallOver'.
+[16:49:30	]Lora Croft used command '/CharGetUp'.
+[16:49:30	]Lora Croft used command '/CharGetUp'.
+[16:49:31	]Lora Croft used command '/CharGetUp'.
+[16:49:32	]Lora Croft used command '/CharGetUp'.
+[16:49:33	]Lora Croft used command '/CharGetUp'.
+[16:49:33	]Lora Croft used command '/CharGetUp'.
+[16:49:34	]Lora Croft used command '/CharGetUp'.
+[16:49:35	]Lora Croft used command '/CharGetUp'.
+[16:49:35	]Lora Croft used command '/CharGetUp'.
+[16:49:36	]Lora Croft used command '/CharGetUp'.
+[16:49:37	]Lora Croft used command '/CharGetUp'.
+[16:49:38	]Lora Croft used command '/CharGetUp'.
+[16:49:39	]Lora Croft used command '/CharGetUp'.
+[16:49:44	]Lora Croft used command '/CharGetUp'.
+[16:49:45	]Lora Croft used command '/CharGetUp'.
+[16:49:53	]Lora Croft used command '/CharGetUp'.
+[16:49:56	]Lora Croft used command '/CharGetUp'.
+[16:50:26	]Lora Croft used command '/CharGetUp'.
+[16:50:36	]Jhonny loaded the character 'Enes Batur'
+[16:50:41	]Enes Batur is fully healed.
+[16:50:43	]Enes Batur used command '/CharFallOver'.
+[16:50:45	]Enes Batur used command '/CharGetUp'.
+[16:50:46	]Enes Batur used command '/CharGetUp'.
+[16:50:47	]Enes Batur used command '/CharGetUp'.
+[16:50:48	]Enes Batur used command '/CharGetUp'.
+[16:50:49	]Enes Batur used command '/CharGetUp'.
+[16:50:49	]Enes Batur used command '/CharGetUp'.
+[16:53:34	]Enes Batur was knocked unconscious and is bleeding out.
+[16:53:42	]Jhonny (STEAM_0:0:564881553) has disconnected.
+[17:54:30	]Victorian has connected.
+[17:57:16	]Victorian (STEAM_0:0:577700614) deleted character 'Carl Stein'
+[17:57:20	]Victorian loaded the character 'Alexander Ivanov'
+[17:57:25	]Alexander Ivanov is fully healed.
+[17:57:53	]Alexander Ivanov entered observer.
+[17:58:02	]Alexander Ivanov has used a context menu option with the name: skin
+[17:58:06	]Alexander Ivanov has used a context menu option with the name: skin
+[17:58:06	]Alexander Ivanov exited observer at their location.
+[17:58:07	]Alexander Ivanov entered observer.
+[17:58:13	]Alexander Ivanov has used a context menu option with the name: skin
+[17:58:20	]Alexander Ivanov has used a context menu option with the name: skin
+[17:58:31	]Alexander Ivanov has used a context menu option with the name: door_lockunlock
+[17:58:39	]Alexander Ivanov has used a context menu option with the name: door_lockunlock
+[17:59:07	]Alexander Ivanov exited observer at their location.
+[17:59:08	]Alexander Ivanov entered observer.
+[17:59:14	]Alexander Ivanov exited observer at their location.
+[17:59:15	]Alexander Ivanov entered observer.
+[17:59:32	]Alexander Ivanov has used a context menu option with the name: ixpropviewowner
+[17:59:35	]Alexander Ivanov has disabled persistence for 'models/props_c17/furnituretable001a.mdl'.
+[17:59:35	]Alexander Ivanov has used a context menu option with the name: persist_end
+[17:59:50	]Alexander Ivanov exited observer at their location.
+[17:59:59	]Alexander Ivanov entered observer.
+[18:00:11	]Alexander Ivanov exited observer at their location.
+[18:00:11	]Alexander Ivanov entered observer.
+[18:00:12	]Alexander Ivanov exited observer at their location.
+[18:00:16	]Alexander Ivanov entered observer.
+[18:00:16	]Wonder Of You has connected.
+[18:00:16	]Alexander Ivanov exited observer at their location.
+[18:00:18	]Alexander Ivanov entered observer.
+[18:00:19	]Alexander Ivanov exited observer at their location.
+[18:00:20	][IC] Alexander Ivanov: Sa.
+[18:00:23	]Alexander Ivanov entered observer.
+[18:00:24	]Alexander Ivanov exited observer at their location.
+[18:00:29	]Alexander Ivanov used command '/ActSit 5'.
+[18:00:31	]Alexander Ivanov used command '/ExitAct'.
+[18:00:33	]Alexander Ivanov used command '/ActSit 6'.
+[18:00:36	]Alexander Ivanov used command '/ExitAct'.
+[18:00:36	]Alexander Ivanov entered observer.
+[18:00:44	]Alexander Ivanov has used a context menu option with the name: skin
+[18:00:46	]Alexander Ivanov has used a context menu option with the name: skin
+[18:01:27	]Wonder Of You loaded the character 'Mona Vax'
+[18:01:36	]Mona Vax has spawned 'models/props_c17/FurnitureDrawer001a.mdl'.
+[18:01:43	]Mona Vax has enabled persistence for 'models/props_c17/furnituredrawer001a.mdl'.
+[18:01:43	]Mona Vax has used a context menu option with the name: persist
+[18:02:21	]Mona Vax entered observer.
+[18:02:23	]Mona Vax exited observer at their location.
+[18:02:25	][IC] Mona Vax: Ev nasıl.
+[18:02:28	]Alexander Ivanov exited observer at their location.
+[18:02:35	][IC] Alexander Ivanov: Evde neden hastane yatağı var.
+[18:02:40	][IC] Mona Vax: Modifiye etim.
+[18:02:44	][IC] Alexander Ivanov: Mhm.
+[18:02:46	][IC] Mona Vax: Güzel yatak yok oyunda.
+[18:02:49	]Alexander Ivanov used command '/ActSit 5'.
+[18:02:53	][IC] Alexander Ivanov: Roblox var mı.
+[18:03:00	][IC] Mona Vax: Doom aciyo abisi.
+[18:03:06	][IC] Mona Vax: Ev nasıl.
+[18:03:07	][IC] Alexander Ivanov: Adopt me gircem.
+[18:03:07	]Alexander Ivanov used command '/ExitAct'.
+[18:03:09	]Mona Vax entered observer.
+[18:03:09	]Alexander Ivanov entered observer.
+[18:03:10	]Mona Vax exited observer at their location.
+[18:03:11	]Alexander Ivanov exited observer at their location.
+[18:03:11	]Mona Vax entered observer.
+[18:03:12	]Mona Vax exited observer at their location.
+[18:03:13	]Mona Vax entered observer.
+[18:03:14	]Mona Vax exited observer at their location.
+[18:03:15	]Mona Vax entered observer.
+[18:03:17	]Mona Vax exited observer at their location.
+[18:03:22	][IC] Alexander Ivanov: Şu masa  tam uymamış onun dışında iyi.
+[18:03:33	]Mona Vax has used a context menu option with the name: remove
+[18:03:44	][IC] Mona Vax: Wanna break from ads?
+[18:03:53	][IC] Alexander Ivanov: Yok.
+[18:03:58	]Mona Vax has spawned 'models/props_downtown/booth_table.mdl'.
+[18:04:02	]Mona Vax has spawned 'models/props_interiors/table_folding.mdl'.
+[18:04:10	]Mona Vax has spawned 'models/props/cs_militia/wood_table.mdl'.
+[18:04:20	]Mona Vax has enabled persistence for 'models/props/cs_militia/wood_table.mdl'.
+[18:04:20	]Mona Vax has used a context menu option with the name: persist
+[18:04:24	][IC] Mona Vax: Nasıl ev.
+[18:04:28	][IC] Alexander Ivanov: Half life 2'nin başı varya.
+[18:04:32	][IC] Mona Vax: E.
+[18:04:34	][IC] Alexander Ivanov: Apartman baskını oluyodu.
+[18:04:37	][IC] Alexander Ivanov: Bizdede mi olsa.
+[18:04:43	][IC] Mona Vax: Olacak ama oyuncu az.
+[18:04:47	][IC] Alexander Ivanov: Pek totaliter devlet hissi az.
+[18:04:52	][IC] Alexander Ivanov: Oyuncuyu arttırmamız lazım.
+[18:04:58	][IC] Alexander Ivanov: Onun dışında ev güzel bence.
+[18:05:02	][IC] Mona Vax: Reklam ve aktiflikten geçiyor.
+[18:05:19	][IC] Mona Vax: And enis doesnt like all what i say.
+[18:05:33	][IC] Alexander Ivanov: Senin 180 sosyal krediye ihtiyacın var şuan.
+[18:05:43	][IC] Mona Vax: Eet ama kademe 5 olarak gozukuom.
+[18:05:51	][IC] Alexander Ivanov: Hmm.
+[18:05:54	][IC] Alexander Ivanov: Pekala.
+[18:06:00	][IC] Alexander Ivanov: Şey senin ingilizcen iyi demi.
+[18:06:14	][IC] Mona Vax: Biraz.
+[18:06:19	][IC] Alexander Ivanov: Ya simdi.
+[18:06:27	][IC] Mona Vax: Kelime bilgim fazla yok.
+[18:06:29	][IC] Alexander Ivanov: Willardın orjinal sunucusunda rol yapacak birini arıyorum beraber.
+[18:06:43	][IC] Alexander Ivanov: Karı-koca rolü yapak mi biri karı biri koca olur.
+[18:06:48	]Alexander Ivanov entered observer.
+[18:06:49	]Alexander Ivanov exited observer at their location.
+[18:06:49	]Mona Vax has given himself a collab_coral.
+[18:06:49	]Mona Vax has gained a 'Siyah Mercan' #18196.
+[18:06:51	]Mona Vax has given himself a torso_brown_suit_jacket.
+[18:06:51	]Mona Vax has gained a 'Somon' #18197.
+[18:06:57	][IC] Mona Vax: Oh.
+[18:06:59	][IC] Mona Vax: *Coughing*.
+[18:07:05	][IC] Alexander Ivanov: Eee nerdsin.
+[18:07:09	]Alexander Ivanov entered observer.
+[18:07:11	]Alexander Ivanov exited observer at their location.
+[18:07:22	][IC] Mona Vax: Yakıştı mı.
+[18:07:35	][IC] Alexander Ivanov: Eet.
+[18:07:39	][IC] Alexander Ivanov: Eskisinden daha ii.
+[18:07:45	]Mona Vax ran 'drop' on item 'Somon' (#18197)
+[18:07:45	]Mona Vax has lost a 'Somon' #18197.
+[18:07:47	]Mona Vax has fired a toolgun with the name: remover
+[18:07:53	][IC] Mona Vax: Ahh.
+[18:07:59	]Alexander Ivanov used command '/ActSit 5'.
+[18:07:59	][IC] Mona Vax: Canım sıkılıyo.
+[18:08:01	]Alexander Ivanov used command '/ActSit 8'.
+[18:08:02	]Alexander Ivanov used command '/ExitAct'.
+[18:08:03	]Mona Vax used command '/ActSit 5'.
+[18:08:07	]Mona Vax used command '/ExitAct'.
+[18:08:15	][IC] Alexander Ivanov: Ya dedim ya willardın orjinal sunucusunda karı koca rolü yapalım diye.
+[18:08:17	][IC] Mona Vax: Sunucuya prop paketi gelse iyi olur.
+[18:08:26	][IC] Mona Vax: Bilgisayari kapatacagim simdi.
+[18:08:30	][IC] Mona Vax: Bir süreliğine girdim.
+[18:08:35	]Mona Vax entered observer.
+[18:08:37	][IC] Alexander Ivanov: Bende llatap.
+[18:08:38	]Alexander Ivanov entered observer.
+[18:08:42	]Alexander Ivanov exited observer at their location.
+[18:08:43	]Alexander Ivanov entered observer.
+[18:08:43	]Mona Vax exited observer at their location.
+[18:08:47	]Alexander Ivanov exited observer at their location.
+[18:08:47	]Mona Vax ran 'Use' on item '20 Kredi Kuponu' (#18142)
+[18:08:49	]Mona Vax ran 'Use' on item '20 Kredi Kuponu' (#18142)
+[18:08:51	]Mona Vax entered observer.
+[18:08:51	]Alexander Ivanov has used a context menu option with the name: skin
+[18:08:52	]Mona Vax has used a coupon at a ration dispenser, gaining 20 credits.
+[18:08:55	]Mona Vax exited observer at their location.
+[18:08:57	]Alexander Ivanov has used a context menu option with the name: skin
+[18:08:59	]Mona Vax entered observer.
+[18:09:01	]Alexander Ivanov has used a context menu option with the name: skin
+[18:09:05	]Mona Vax exited observer at their location.
+[18:09:05	]Mona Vax entered observer.
+[18:09:06	]Mona Vax exited observer at their location.
+[18:09:10	][IC] Mona Vax: Senin masa bende eror.
+[18:09:13	]Alexander Ivanov has used a context menu option with the name: skin
+[18:09:17	][IC] Alexander Ivanov: Banane.
+[18:09:22	][IC] Mona Vax: Koy göte.
+[18:09:23	]Mona Vax entered observer.
+[18:09:28	]Mona Vax exited observer at their location.
+[18:09:29	]Alexander Ivanov has used a context menu option with the name: skin
+[18:09:34	]Alexander Ivanov has used a context menu option with the name: skin
+[18:09:37	]Mona Vax has spawned 'models/c24_exterior/c24_cityposters.mdl'.
+[18:09:38	]Alexander Ivanov has used a context menu option with the name: skin
+[18:09:42	]Mona Vax has spawned 'models/willardnetworks/posters/wn_poster_1.mdl'.
+[18:09:46	]Alexander Ivanov has used a context menu option with the name: skin
+[18:09:51	]Alexander Ivanov has used a context menu option with the name: skin
+[18:09:53	]Mona Vax has used a context menu option with the name: skin
+[18:09:56	]Mona Vax has spawned 'models/willardnetworks/posters/wn_poster_2.mdl'.
+[18:09:57	]Alexander Ivanov has used a context menu option with the name: skin
+[18:09:58	]Mona Vax has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[18:10:00	]Alexander Ivanov has used a context menu option with the name: skin
+[18:10:01	]Mona Vax has spawned 'models/willardnetworks/posters/wn_banner_1.mdl'.
+[18:10:03	]Mona Vax has spawned 'models/willardnetworks/posters/wn_banner_2.mdl'.
+[18:10:04	]Alexander Ivanov has used a context menu option with the name: skin
+[18:10:08	]Alexander Ivanov has used a context menu option with the name: skin
+[18:10:09	]Mona Vax has used a context menu option with the name: skin
+[18:10:12	]Mona Vax has used a context menu option with the name: skin
+[18:10:13	]Alexander Ivanov has used a context menu option with the name: skin
+[18:10:15	]Mona Vax has used a context menu option with the name: skin
+[18:10:17	]Alexander Ivanov has used a context menu option with the name: skin
+[18:10:18	]Mona Vax has spawned 'models/willardnetworks/posters/wn_poster_5.mdl'.
+[18:10:21	]Alexander Ivanov has used a context menu option with the name: skin
+[18:10:26	]Mona Vax entered observer.
+[18:10:26	]Alexander Ivanov has used a context menu option with the name: skin
+[18:10:30	]Alexander Ivanov has used a context menu option with the name: skin
+[18:10:32	]Mona Vax exited observer at their location.
+[18:10:33	]Mona Vax has spawned 'models/willardnetworks/posters/wn_poster_5.mdl'.
+[18:10:44	]Mona Vax has used a context menu option with the name: skin
+[18:10:49	]Mona Vax has used a context menu option with the name: skin
+[18:10:54	]Mona Vax entered observer.
+[18:11:00	]Mona Vax exited observer at their location.
+[18:11:05	]Mona Vax has spawned 'models/willardnetworks/posters/wn_poster_5.mdl'.
+[18:11:13	]Mona Vax has used a context menu option with the name: skin
+[18:11:19	]Mona Vax has enabled persistence for 'models/willardnetworks/posters/wn_poster_5.mdl'.
+[18:11:19	]Mona Vax has used a context menu option with the name: persist
+[18:11:23	]Mona Vax has spawned 'models/willardnetworks/posters/wn_poster_5.mdl'.
+[18:11:25	]Mona Vax has spawned 'models/willardnetworks/posters/wn_poster_4.mdl'.
+[18:11:27	]Mona Vax has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[18:11:30	]Mona Vax has spawned 'models/willardnetworks/posters/wn_poster_2.mdl'.
+[18:11:32	]Mona Vax has spawned 'models/willardnetworks/posters/wn_poster_1.mdl'.
+[18:11:34	]Mona Vax has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[18:11:39	]Mona Vax has used a context menu option with the name: skin
+[18:11:42	]Mona Vax has used a context menu option with the name: skin
+[18:11:45	]Mona Vax has used a context menu option with the name: skin
+[18:11:49	]Mona Vax has used a context menu option with the name: skin
+[18:11:52	]Mona Vax has used a context menu option with the name: skin
+[18:11:55	]Mona Vax has used a context menu option with the name: skin
+[18:12:01	]Mona Vax has used a context menu option with the name: skin
+[18:12:04	]Mona Vax has used a context menu option with the name: skin
+[18:12:07	]Mona Vax has used a context menu option with the name: skin
+[18:12:09	]Mona Vax has used a context menu option with the name: skin
+[18:12:12	]Mona Vax has used a context menu option with the name: skin
+[18:12:15	]Mona Vax has used a context menu option with the name: skin
+[18:12:18	]Mona Vax has used a context menu option with the name: skin
+[18:12:20	]Mona Vax has used a context menu option with the name: skin
+[18:12:24	]Mona Vax has used a context menu option with the name: skin
+[18:12:29	]Mona Vax has used a context menu option with the name: skin
+[18:12:32	]Mona Vax has used a context menu option with the name: skin
+[18:12:43	]Mona Vax has enabled persistence for 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[18:12:43	]Mona Vax has used a context menu option with the name: persist
+[18:12:43	]Mona Vax entered observer.
+[18:12:54	][OOC] Mona Vax: bb
+[18:12:56	]Wonder Of You (STEAM_0:0:210448252) has disconnected.
+[18:14:01	]Alexander Ivanov entered observer.
+[18:14:17	]Alexander Ivanov exited observer at their location.
+[18:14:27	]Alexander Ivanov entered observer.
+[18:14:29	]Alexander Ivanov exited observer at their location.
+[18:14:30	]Alexander Ivanov entered observer.
+[18:14:33	]Alexander Ivanov exited observer at their location.
+[18:14:36	]Alexander Ivanov entered observer.
+[18:14:43	]Alexander Ivanov exited observer at their location.
+[18:14:46	]Alexander Ivanov entered observer.
+[18:15:04	]Alexander Ivanov exited observer at their location.
+[18:15:05	]Alexander Ivanov entered observer.
+[18:15:12	]Alexander Ivanov has used a context menu option with the name: skin
+[18:15:40	]Alexander Ivanov has used a context menu option with the name: skin
+[18:15:45	]Alexander Ivanov has enabled persistence for 'models/props_c17/door01_left.mdl'.
+[18:15:45	]Alexander Ivanov has used a context menu option with the name: persist
+[18:15:50	]Alexander Ivanov exited observer at their location.
+[18:15:52	]Alexander Ivanov entered observer.
+[18:16:04	]Alexander Ivanov exited observer at their location.
+[18:16:06	]Alexander Ivanov entered observer.
+[18:16:07	]Alexander Ivanov exited observer at their location.
+[18:16:09	]Alexander Ivanov entered observer.
+[18:16:10	]Alexander Ivanov exited observer at their location.
+[18:16:12	]Alexander Ivanov entered observer.
+[18:16:28	]Alexander Ivanov exited observer at their location.
+[18:16:31	]Alexander Ivanov entered observer.
+[18:16:35	]Alexander Ivanov exited observer at their location.
+[18:16:36	]Alexander Ivanov entered observer.
+[18:16:37	]Alexander Ivanov exited observer at their location.
+[18:16:42	]Alexander Ivanov entered observer.
+[18:16:56	]Alexander Ivanov has fired a toolgun with the name: sh_textadd
+[18:17:01	]Alexander Ivanov has removed their last 3D text.
+[18:17:02	]Alexander Ivanov has fired a toolgun with the name: sh_textadd
+[18:17:08	]Alexander Ivanov exited observer at their location.
+[18:17:13	]Alexander Ivanov entered observer.
+[18:17:14	]Alexander Ivanov exited observer at their location.
+[18:17:20	]Alexander Ivanov entered observer.
+[18:17:30	]Alexander Ivanov exited observer at their location.
+[18:17:36	]Alexander Ivanov entered observer.
+[18:17:55	]Alexander Ivanov exited observer at their location.
+[18:18:12	]Alexander Ivanov has spawned a paper.
+[18:18:16	]Alexander Ivanov has spawned a pin.
+[18:18:22	]Alexander Ivanov ran 'Write' on item 'Kağıt' (#18198)
+[18:18:52	]Hoo Lee Fuk has connected.
+[18:21:40	]Hoo Lee Fuk loaded the character 'John Brookly'
+[18:21:45	]John Brookly is fully healed.
+[18:22:32	]John Brookly used command '/ActSit'.
+[18:22:59	]Alexander Ivanov ran 'take' on item 'Kağıt' (#18198)
+[18:22:59	]Alexander Ivanov has gained a 'Kağıt' #18198.
+[18:23:04	]Alexander Ivanov ran 'take' on item 'İğne' (#18199)
+[18:23:04	]Alexander Ivanov has gained a 'İğne' #18199.
+[18:23:05	]Alexander Ivanov entered observer.
+[18:23:09	]Alexander Ivanov exited observer at their location.
+[18:23:19	]Alexander Ivanov ran 'Write' on item 'Kağıt' (#18198)
+[18:23:52	]John Brookly used command '/ExitAct'.
+[18:23:53	]Alexander Ivanov ran 'Pin' on item 'İğne' (#18199)
+[18:23:57	]Alexander Ivanov ran 'drop' on item 'Kol Bandını giy.' (#18198)
+[18:23:57	]Alexander Ivanov has lost a 'Kol Bandını giy.' #18198.
+[18:23:58	]John Brookly ran 'Write' on item 'Kol Bandını giy.' (#18198)
+[18:24:06	][IC] John Brookly: Bu ne.
+[18:24:13	]Alexander Ivanov ran 'Pin' on item 'İğne' (#18199)
+[18:24:18	]John Brookly ran 'Write' on item 'Kol Bandını giy.' (#18198)
+[18:24:18	][IC] Alexander Ivanov: Propaganda.
+[18:24:25	][IC] John Brookly: Hm.
+[18:24:51	]Alexander Ivanov has used a context menu option with the name: skin
+[18:24:54	]Alexander Ivanov has used a context menu option with the name: skin
+[18:24:58	]Alexander Ivanov has used a context menu option with the name: skin
+[18:25:00	]Alexander Ivanov has used a context menu option with the name: skin
+[18:25:05	]Alexander Ivanov has used a context menu option with the name: skin
+[18:25:08	]Alexander Ivanov has used a context menu option with the name: skin
+[18:25:11	]Alexander Ivanov has used a context menu option with the name: skin
+[18:25:14	]Alexander Ivanov has used a context menu option with the name: skin
+[18:25:18	]Alexander Ivanov has used a context menu option with the name: skin
+[18:25:21	]Alexander Ivanov has used a context menu option with the name: skin
+[18:25:29	]Alexander Ivanov entered observer.
+[18:25:30	]Alexander Ivanov exited observer at their location.
+[18:26:12	][IC] John Brookly: Bandada kağıtla iğne versene.
+[18:26:15	][IC] John Brookly: Birkaç şey yazayım.
+[18:26:23	][IC] Alexander Ivanov: Ne yazacaksın.
+[18:26:25	]Alexander Ivanov has spawned a paper.
+[18:26:26	]Alexander Ivanov has spawned a pin.
+[18:26:28	][IC] John Brookly: Propaganda.
+[18:26:32	]John Brookly ran 'take' on item 'İğne' (#18201)
+[18:26:32	]John Brookly has gained a 'İğne' #18201.
+[18:26:32	][IC] Alexander Ivanov: Tamamdır.
+[18:26:33	]John Brookly ran 'take' on item 'Kağıt' (#18200)
+[18:26:33	]John Brookly has gained a 'Kağıt' #18200.
+[18:26:43	]Alexander Ivanov has spawned 'models/willardnetworks/posters/wn_poster_1.mdl'.
+[18:26:46	]Alexander Ivanov has spawned 'models/willardnetworks/posters/wn_poster_2.mdl'.
+[18:26:48	]Alexander Ivanov has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[18:26:51	]Alexander Ivanov has spawned 'models/willardnetworks/posters/wn_poster_5.mdl'.
+[18:26:58	]Alexander Ivanov has used a context menu option with the name: skin
+[18:27:00	]Alexander Ivanov has used a context menu option with the name: skin
+[18:27:02	]John Brookly ran 'Write' on item 'Kağıt' (#18200)
+[18:27:03	]Alexander Ivanov has used a context menu option with the name: skin
+[18:27:05	]Alexander Ivanov has used a context menu option with the name: skin
+[18:27:08	]Alexander Ivanov has used a context menu option with the name: skin
+[18:27:11	]Alexander Ivanov has used a context menu option with the name: skin
+[18:27:15	]Alexander Ivanov has enabled persistence for 'models/willardnetworks/posters/wn_poster_5.mdl'.
+[18:27:15	]Alexander Ivanov has used a context menu option with the name: persist
+[18:27:21	]Alexander Ivanov has spawned 'models/props_junk/garbage256_composite002b.mdl'.
+[18:27:25	]Alexander Ivanov has spawned 'models/props_junk/garbage128_composite001a.mdl'.
+[18:27:30	]Alexander Ivanov has enabled persistence for 'models/props_junk/garbage128_composite001a.mdl'.
+[18:27:30	]Alexander Ivanov has used a context menu option with the name: persist
+[18:27:33	]Alexander Ivanov has disabled persistence for 'models/willardnetworks/posters/wn_poster_5.mdl'.
+[18:27:33	]Alexander Ivanov has used a context menu option with the name: persist_end
+[18:27:34	]Alexander Ivanov has used a context menu option with the name: persist_end
+[18:27:48	]Alexander Ivanov has used a context menu option with the name: skin
+[18:27:52	]Alexander Ivanov has used a context menu option with the name: skin
+[18:27:53	][IC] John Brookly: Baksana.
+[18:27:54	]Alexander Ivanov has used a context menu option with the name: skin
+[18:27:57	]John Brookly ran 'drop' on item 'Combine ile İşbirliği, Huzur ve Güve' (#18200)
+[18:27:57	]John Brookly has lost a 'Combine ile İşbirliği, Huzur ve Güve' #18200.
+[18:28:02	]Alexander Ivanov ran 'Write' on item 'Combine ile İşbirliği, Huzur ve Güve' (#18200)
+[18:28:02	]John Brookly ran 'Write' on item 'Combine ile İşbirliği, Huzur ve Güve' (#18200)
+[18:28:23	]John Brookly ran 'Write' on item 'Combine ile İşbirliği,Huzur ve Güven' (#18200)
+[18:28:30	][IC] Alexander Ivanov: Yazı fontunu mümkünse değiştir.
+[18:28:34	]John Brookly ran 'Write' on item 'Combine ile İşbirliği,Huzur ve Güven' (#18200)
+[18:28:44	][IC] Alexander Ivanov: Sona hangi departmanın bunu bastığını yaz.
+[18:28:47	][IC] Alexander Ivanov: Onun dışında hoş.
+[18:28:54	][IC] John Brookly: Yazı fontunu nasıl değiştireceğim bilmiyorum.
+[18:28:57	]Alexander Ivanov has enabled persistence for 'models/willardnetworks/posters/wn_poster_5.mdl'.
+[18:28:57	]Alexander Ivanov has used a context menu option with the name: persist
+[18:28:58	]John Brookly ran 'Write' on item 'Combine ile İşbirliği,Huzur ve Güven' (#18200)
+[18:29:01	][IC] Alexander Ivanov: O halde kalsın.
+[18:29:11	][IC] Alexander Ivanov: Herkesin görebileceği bir yere as bunu.
+[18:29:13	][IC] John Brookly: Hangi depertman.
+[18:29:18	]Alexander Ivanov has used a context menu option with the name: remove
+[18:29:20	][IC] John Brookly: ?
+[18:29:21	]Alexander Ivanov has disabled persistence for 'models/props_trainstation/bench_indoor001a.mdl'.
+[18:29:21	]Alexander Ivanov has used a context menu option with the name: persist_end
+[18:29:25	][IC] Alexander Ivanov: BHİD olabilir.
+[18:29:28	]John Brookly ran 'Write' on item 'Combine ile İşbirliği,Huzur ve Güven' (#18200)
+[18:29:36	]Alexander Ivanov has spawned 'models/props_junk/garbage256_composite002b.mdl'.
+[18:29:40	]Alexander Ivanov entered observer.
+[18:29:45	]Alexander Ivanov exited observer at their location.
+[18:29:47	]Alexander Ivanov has spawned 'models/props_junk/garbage256_composite001a.mdl'.
+[18:29:59	]Alexander Ivanov has spawned 'models/props_junk/garbage128_composite001b.mdl'.
+[18:30:01	]Alexander Ivanov has spawned 'models/props_junk/garbage128_composite001a.mdl'.
+[18:30:07	]Alexander Ivanov entered observer.
+[18:30:08	]Alexander Ivanov exited observer at their location.
+[18:30:28	]John Brookly ran 'Write' on item 'Combine ile İşbirliği,Huzur ve Güven' (#18200)
+[18:30:47	]John Brookly ran 'Write' on item 'Combine ile İşbirliği,Huzur ve Güven' (#18200)
+[18:31:09	]John Brookly ran 'Pin' on item 'İğne' (#18201)
+[18:31:13	]Alexander Ivanov ran 'Write' on item 'Combine ile İşbirliği,Huzur ve Güven' (#18200)
+[18:31:14	]John Brookly ran 'Write' on item 'Combine ile İşbirliği,Huzur ve Güven' (#18200)
+[18:31:25	][IC] Alexander Ivanov: Bende satış metni yazayım.
+[18:31:33	][IC] Alexander Ivanov: Şurayı alacak var wonder satabilir.
+[18:31:54	]Alexander Ivanov has spawned a paper.
+[18:31:55	]Alexander Ivanov has spawned a pin.
+[18:31:59	]Alexander Ivanov ran 'Write' on item 'Kağıt' (#18202)
+[18:32:22	]John Brookly ran 'Write' on item 'Kağıt' (#18202)
+[18:32:36	]Hoo Lee Fuk loaded the character 'S10/ORD.HURRICANE-36'
+[18:33:16	]Alexander Ivanov ran 'Write' on item 'Kağıt' (#18202)
+[18:33:20	]Alexander Ivanov ran 'take' on item 'Kağıt' (#18202)
+[18:33:20	]Alexander Ivanov has gained a 'Kağıt' #18202.
+[18:33:22	]Alexander Ivanov ran 'Write' on item 'Kağıt' (#18202)
+[18:36:16	]Victorian (STEAM_0:0:577700614) has disconnected (timed out).
+[18:38:06	]S10/ORD.HURRICANE-36 has gone afk.
+[18:38:36	]S10/ORD.HURRICANE-36 is no longer afk. Total time spent AFK: 325
+[18:39:38	]S10/ORD.HURRICANE-36 opened the 'Locker' #2316 container.
+[18:39:39	]S10/ORD.HURRICANE-36 closed the 'Locker' #2316 container.
+[18:40:29	]S10/ORD.HURRICANE-36 has taken 16 damage from worldspawn.
+[18:40:36	]S10/ORD.HURRICANE-36 ran 'use' on item 'Morfin' (#16091)
+[18:40:36	]S10/ORD.HURRICANE-36 has performed the 'Use Morfin' action, gaining 17 experience in medicine.
+[18:40:36	]S10/ORD.HURRICANE-36 has gained a level 4 short boost in Güç.
+[18:40:44	]S10/ORD.HURRICANE-36 ran 'Repair' on item 'OTA Ordinal Üniforması' (#16708)
+[18:41:24	]S10/ORD.HURRICANE-36 has gained level 43 in the Hız skill.
+[18:42:45	]Hoo Lee Fuk loaded the character 'C24:i4.XRAY-91'
+[18:42:52	]C24:i4.XRAY-91 used the 'i5-i1 Ekipman Dağıtıcısı' vendor.
+[18:43:03	]Hoo Lee Fuk (STEAM_0:0:479033164) has disconnected.
+[19:11:41	]Revain has connected.
+[19:12:25	]crat has connected.
+[19:13:19	]crat loaded the character 'C24:RL.XRAY-57'
+[19:13:20	]C24:RL.XRAY-57 has taken 11 damage from worldspawn.
+[19:13:23	]C24:RL.XRAY-57 entered observer.
+[19:13:24	]C24:RL.XRAY-57 is fully healed.
+[19:16:39	]C24:RL.XRAY-57 exited observer at their location.
+[19:16:57	]C24:RL.XRAY-57 entered observer.
+[19:16:58	]C24:RL.XRAY-57 exited observer at their location.
+[19:17:05	]C24:RL.XRAY-57 used the 'i5-i1 Ekipman Dağıtıcısı' vendor.
+[19:22:19	]C24:RL.XRAY-57 has gone afk.
+[19:28:08	]Revain loaded the character 'C24:i5.UNION-46'
+[19:28:16	]C24:i5.UNION-46 entered observer.
+[19:29:13	]C24:i5.UNION-46 is fully healed.
+[19:34:38	]C24:i5.UNION-46 has gone afk.
+[19:35:09	]C24:RL.XRAY-57 is no longer afk. Total time spent AFK: 1065
+[19:38:13	]C24:i5.UNION-46 is no longer afk. Total time spent AFK: 510
+[19:38:29	]C24:i5.UNION-46 exited observer at their location.
+[19:38:34	][LOOC] C24:i5.UNION-46: e
+[19:38:42	][LOOC] C24:i5.UNION-46: gelmiyolar
+[19:38:44	][IC] C24:RL.XRAY-57: <:: Brotatochip. ::>
+[19:38:48	][IC] C24:RL.XRAY-57: <:: Çağırmadım çünkü daha. ::>
+[19:38:57	][IC] C24:i5.UNION-46: <:: Doğru. ::>
+[19:39:14	][IC] C24:i5.UNION-46: <:: Bakim hala boyum çokmu uzun. ::>
+[19:39:16	]C24:i5.UNION-46 entered observer.
+[19:39:17	]C24:i5.UNION-46 exited observer at their location.
+[19:39:18	]C24:i5.UNION-46 entered observer.
+[19:39:21	]C24:i5.UNION-46 exited observer at their location.
+[19:39:23	][IC] C24:i5.UNION-46: <:: En son kapılardan. ::>
+[19:39:26	][IC] C24:i5.UNION-46: <:: Geçemiyordum. ::>
+[19:39:26	][IC] C24:RL.XRAY-57: <:: Benden uzunsun. ::>
+[19:39:37	][IC] C24:i5.UNION-46: <:: Niye bu kadar uzun gözüküyor. ::>
+[19:39:40	][IC] C24:i5.UNION-46: <:: Anlamadım. ::>
+[19:39:50	]C24:i5.UNION-46 entered observer.
+[19:39:52	][IC] C24:RL.XRAY-57: <:: Gel bi. ::>
+[19:39:54	]C24:RL.XRAY-57 entered observer.
+[19:39:55	]C24:i5.UNION-46 exited observer at their location.
+[19:39:56	]C24:RL.XRAY-57 exited observer at their location.
+[19:39:56	]C24:i5.UNION-46 entered observer.
+[19:39:56	]C24:i5.UNION-46 exited observer at their location.
+[19:39:57	]C24:i5.UNION-46 entered observer.
+[19:39:57	]C24:i5.UNION-46 exited observer at their location.
+[19:40:00	][IC] C24:i5.UNION-46: <:: He. ::>
+[19:40:00	][IC] C24:RL.XRAY-57: <:: Boyunu sen. ::>
+[19:40:02	][IC] C24:RL.XRAY-57: <:: Kaç seçtin. ::>
+[19:40:04	][IC] C24:RL.XRAY-57: <:: Yaratırken. ::>
+[19:40:11	][IC] C24:i5.UNION-46: <:: 5'6 seçtim. ::>
+[19:40:27	][IC] C24:RL.XRAY-57: <:: Ben 5'10. ::>
+[19:40:27	][IC] C24:i5.UNION-46: <:: Sen kaç seçtin. ::>
+[19:40:32	][IC] C24:RL.XRAY-57: <:: !size. ::>
+[19:40:36	][IC] C24:i5.UNION-46: <:: O kalıcı olurmu. ::>
+[19:40:48	][IC] C24:i5.UNION-46: <:: Bu size komudunu. ::>
+[19:40:52	][IC] C24:i5.UNION-46: <:: Kullanmamak lazım. ::>
+[19:40:59	][IC] C24:i5.UNION-46: <:: Önceden bunun bokunu çıkardılar. ::>
+[19:41:11	][IC] C24:RL.XRAY-57: <:: Size yok zaten. ::>
+[19:41:13	][IC] C24:RL.XRAY-57: <:: Ulx. ::>
+[19:41:14	][IC] C24:RL.XRAY-57: <:: Olmayınca. ::>
+[19:41:22	][IC] C24:i5.UNION-46: <:: Cüce rpsi yapmıstı adminler. ::>
+[19:41:34	][IC] C24:i5.UNION-46: <:: Adminler demeyeyimde. ::>
+[19:41:38	][IC] C24:i5.UNION-46: <:: Malum şahıs. ::>
+[19:41:54	][IC] C24:i5.UNION-46: <:: Bu SMAB pcsinde. ::>
+[19:41:55	][IC] C24:i5.UNION-46: <:: Nedense. ::>
+[19:41:57	][IC] C24:i5.UNION-46: <:: Izin yok. ::>
+[19:42:18	][IC] C24:i5.UNION-46: <:: Morgan austin karakterim smab lideri ama erişemiyor. ::>
+[19:42:27	][IC] C24:RL.XRAY-57: <:: Ayarlarız onu. ::>
+[19:42:33	][IC] C24:i5.UNION-46: <:: Okey. ::>
+[19:43:03	]Hoo Lee Fuk has connected.
+[19:43:26	][IC] C24:i5.UNION-46: <:: Vendorla alakalı birşey bakıcam. ::>
+[19:43:33	]C24:i5.UNION-46 has spawned a 'Entity [4545][ix_vendor]'.
+[19:43:35	]C24:i5.UNION-46 has used a context menu option with the name: vendor_edit
+[19:43:38	]Hoo Lee Fuk loaded the character 'C24:i4.XRAY-91'
+[19:43:51	]C24:i4.XRAY-91 used the 'John Doe' vendor.
+[19:44:10	]C24:i4.XRAY-91 destroyed a '20rnd FiveSeven-şarjörü' #17491.
+[19:44:12	]C24:i4.XRAY-91 destroyed a '20rnd FiveSeven-şarjörü' #17506.
+[19:44:18	][IC] C24:i4.XRAY-91: <:: Right. ::>
+[19:44:26	]C24:i4.XRAY-91 used the 'i5-i1 Ekipman Dağıtıcısı' vendor.
+[19:44:43	]C24:i5.UNION-46 has used a context menu option with the name: rb655_dissolve
+[19:44:53	]C24:i5.UNION-46 used command '/CharDesc'.
+[19:45:35	]C24:i5.UNION-46 has lost a '17rnd Usp-Şarjörü' #17721.
+[19:45:35	]C24:i5.UNION-46 has gained a '17rnd Usp-Şarjörü' #17722.
+[19:45:41	]C24:i5.UNION-46 entered observer.
+[19:45:41	]C24:i5.UNION-46 exited observer at their location.
+[19:45:42	]THE ÖMER has connected.
+[19:45:56	]C24:i5.UNION-46 has used a context menu option with the name: rb655_door_close
+[19:46:27	]C24:RL.XRAY-57 entered observer.
+[19:46:27	]C24:RL.XRAY-57 exited observer at their location.
+[19:46:30	]C24:i5.UNION-46 has spawned a 'Entity [4569][ix_vendor]'.
+[19:46:32	]C24:i5.UNION-46 has used a context menu option with the name: vendor_edit
+[19:46:46	][IC] C24:i5.UNION-46: <:: Crat. ::>
+[19:46:48	][IC] C24:i5.UNION-46: <:: Bak mesela. ::>
+[19:46:55	]C24:i5.UNION-46 has spawned a 'Entity [4567][ix_vendor]'.
+[19:46:56	]C24:i4.XRAY-91 used the 'John Doe' vendor.
+[19:46:57	]THE ÖMER loaded the character 'C24:RCT.YELLO-30'
+[19:46:57	]C24:i5.UNION-46 has used a context menu option with the name: vendor_edit
+[19:47:02	]C24:RCT.YELLO-30 is fully healed.
+[19:47:03	]C24:RL.XRAY-57 used the 'John Doe' vendor.
+[19:47:07	]C24:i4.XRAY-91 used the 'John Doe' vendor.
+[19:47:12	][IC] C24:i5.UNION-46: <:: Ministry of civil protection var. ::>
+[19:47:14	][IC] C24:i5.UNION-46: <:: Ne işe yarıyor. ::>
+[19:47:17	][IC] C24:RL.XRAY-57: <:: Bakanlık. ::>
+[19:47:19	][IC] C24:i4.XRAY-91: <:: Sivil koruma bakanlığı. ::>
+[19:47:23	][IC] C24:RL.XRAY-57: <:: Onlara özel seyler. ::>
+[19:47:26	][IC] C24:i4.XRAY-91: <:: Sey. ::>
+[19:47:26	][IC] C24:i4.XRAY-91: <:: Bak. ::>
+[19:47:29	][IC] C24:i5.UNION-46: <:: Kullanırsınız o zaman. ::>
+[19:47:38	][IC] C24:i4.XRAY-91: <:: Onlar sivil korumaları kontrol ediyor bi sıkıntı cıkartıyolarmı. ::>
+[19:47:53	][IC] C24:i4.XRAY-91: <:: Mesela willardda tier-4'e silah doğrultup tehtid etmis ve puan kırmıs. ::>
+[19:47:55	][IC] C24:RL.XRAY-57: <:: Davşan gelecek. ::>
+[19:47:58	][IC] C24:RL.XRAY-57: <:: Biz eğitim hakkında konuşacağız. ::>
+[19:48:00	][IC] C24:RL.XRAY-57: <:: Sonra başlatıcaz. ::>
+[19:48:02	][IC] C24:i4.XRAY-91: <:: Adam gitmis bakanlığa sikayet etmiş. ::>
+[19:48:11	][IC] C24:i4.XRAY-91: <:: Sonra o sk yı ampute etmisler. ::>
+[19:48:19	][IC] C24:i4.XRAY-91: <:: Iç işleri bakanlığı gibi. ::>
+[19:48:19	][IC] C24:i5.UNION-46: <:: Anladım. ::>
+[19:48:28	][IC] C24:i5.UNION-46: <:: SMAB lideri kademe 7'yemi giriyor. ::>
+[19:48:35	]C24:RCT.YELLO-30 used command '/CP 2 saattir yeri bulamıyorum'.
+[19:48:44	][IC] C24:i4.XRAY-91: <:: Onu karakterin kendisi kasması gerekiyor. ::>
+[19:49:04	][IC] C24:i5.UNION-46: <:: Tamamdır. ::>
+[19:49:19	][IC] C24:i4.XRAY-91: <:: Mesela benim karakter kademe 1 ama cwu kıdemli işçi. ::>
+[19:49:21	][IC] C24:i5.UNION-46: <:: Crat headcrab whitelisti kullanılabilir mesela. ::>
+[19:49:35	][IC] C24:i5.UNION-46: <:: Hmph. ::>
+[19:49:47	][LOOC] C24:i4.XRAY-91: biz seni öldürmedikmi
+[19:49:54	][LOOC] C24:RCT.YELLO-30: o başkaydı
+[19:49:55	][LOOC] C24:i5.UNION-46: farklı 
+[19:49:57	][IC] C24:i4.XRAY-91: <:: He. ::>
+[19:50:04	][IC] C24:i5.UNION-46: <:: Sts olalım. ::>
+[19:50:05	][IC] C24:RL.XRAY-57: <:: Davşan gelicek. ::>
+[19:50:07	][IC] C24:RL.XRAY-57: <:: Biraz konuşacağız onla. ::>
+[19:50:09	][IC] C24:RL.XRAY-57: <:: Sonra başlayacak. ::>
+[19:50:13	][IC] C24:i5.UNION-46: <:: Sts olalımmı. ::>
+[19:50:17	][IC] C24:RL.XRAY-57: <:: Ney. ::>
+[19:50:32	][IC] C24:i4.XRAY-91: <:: Sey güzel oalbilir. ::>
+[19:50:37	][IC] C24:i4.XRAY-91: <:: Kınama mektubu cpler icin. ::>
+[19:50:39	][IC] C24:i4.XRAY-91: <:: X atıyolarya. ::>
+[19:50:44	][IC] C24:i4.XRAY-91: <:: 3 X de atılıyorsun. ::>
+[19:50:50	][IC] C24:RL.XRAY-57: <:: Var zaten. ::>
+[19:50:53	][IC] C24:RL.XRAY-57: <:: Hiçbiriniz mi. ::>
+[19:50:54	][IC] C24:RL.XRAY-57: <:: Rehberi. ::>
+[19:50:56	][IC] C24:i4.XRAY-91: <:: Yapıldıgını görmedim. ::>
+[19:50:57	][IC] C24:RL.XRAY-57: <:: Okumuyonuz amına koyim. ::>
+[19:50:58	][IC] C24:i4.XRAY-91: <:: Ben okudum. ::>
+[19:51:00	][IC] C24:i4.XRAY-91: <:: Orada yazıyordu. ::>
+[19:51:01	][IC] C24:i4.XRAY-91: <:: Iste. ::>
+[19:51:20	]C24:i4.XRAY-91 used command '/ActSit'.
+[19:51:22	]C24:i4.XRAY-91 used command '/ExitAct'.
+[19:51:23	][IC] C24:RL.XRAY-57: <:: Sizde de. ::>
+[19:51:24	][IC] C24:RL.XRAY-57: <:: Böyle. ::>
+[19:51:29	][IC] C24:RL.XRAY-57: <:: Bi müzik çalıyo mu. ::>
+[19:51:31	][IC] C24:i4.XRAY-91: <:: Evet. ::>
+[19:51:32	][IC] C24:i5.UNION-46: <:: Hayır. ::>
+[19:51:32	][IC] C24:RL.XRAY-57: <:: Dı dı dı dı. ::>
+[19:51:33	][IC] C24:i4.XRAY-91: <:: Kapatamıyo. ::>
+[19:51:34	][IC] C24:RL.XRAY-57: <:: Adı ney bunun. ::>
+[19:51:38	][IC] C24:i5.UNION-46: <:: Bazen çalıyor. ::>
+[19:51:44	][IC] C24:i5.UNION-46: <:: Sorgu odasında sorgu alıyordum gaza gelmiştim amk. ::>
+[19:51:52	][IC] C24:i5.UNION-46: <:: Sorgu odasında çalmıştı. ::>
+[19:51:53	][IC] C24:RL.XRAY-57: <:: Çok güzel ya. ::>
+[19:51:56	][IC] C24:RL.XRAY-57: <:: Böyle. ::>
+[19:51:58	][IC] C24:RL.XRAY-57: <:: Terraria gibi. ::>
+[19:52:07	][IC] C24:i4.XRAY-91: <:: Defcon Theme 17. ::>
+[19:52:11	][IC] C24:i5.UNION-46: <:: Baki. ::>
+[19:52:18	][IC] C24:i4.XRAY-91: <:: Bak bakalım. ::>
+[19:52:20	][IC] C24:RL.XRAY-57: <:: Yok o degil. ::>
+[19:52:37	][IC] C24:i5.UNION-46: <:: Değilmiş. ::>
+[19:52:37	][IC] C24:RL.XRAY-57: <:: Dur atım sana. ::>
+[19:52:38	][IC] C24:RL.XRAY-57: <:: Dcden. ::>
+[19:52:44	][LOOC] C24:RCT.YELLO-30: bişi anladıysam arab olam
+[19:52:45	][IC] C24:i5.UNION-46: <:: Banada atsana. ::>
+[19:52:47	][IC] C24:i4.XRAY-91: <:: Nasıl degil la. ::>
+[19:52:59	][IC] C24:RL.XRAY-57: <:: Terraria gibi diyom. ::>
+[19:53:06	][IC] C24:RL.XRAY-57: <:: Sen apocalypse müziği atıyon. ::>
+[19:53:11	][IC] C24:i4.XRAY-91: <:: Su anda calan. ::>
+[19:53:12	][IC] C24:i4.XRAY-91: <:: Müzik bu. ::>
+[19:53:14	][IC] C24:i4.XRAY-91: <:: Bendew. ::>
+[19:53:15	][IC] C24:i5.UNION-46: <:: Ambiyans müziğini kapatmadınızmı ayarlardan. ::>
+[19:53:22	][IC] C24:RL.XRAY-57: <:: Ben açtım. ::>
+[19:53:37	][IC] C24:i5.UNION-46: <:: Yok la bu bende çalan değildi sanırsam. ::>
+[19:53:45	][IC] C24:i5.UNION-46: <:: Aynen değil. ::>
+[19:54:19	][IC] C24:i5.UNION-46: <:: Beyler dünkü pc yi destek masasında şöyle kurdular. ::>
+[19:54:21	][IC] C24:i5.UNION-46: <:: Bak i4. ::>
+[19:54:27	]C24:i5.UNION-46 has spawned a junk_computer_tower.
+[19:54:28	]C24:i5.UNION-46 has spawned a junk_keyboard.
+[19:54:28	]C24:i5.UNION-46 has spawned a junk_keyboard.
+[19:54:32	]C24:i5.UNION-46 has used a context menu option with the name: rb655_dissolve
+[19:54:34	]env_entity_dissolver destroyed a 'Kırık Klavye' #18206.
+[19:54:36	][IC] C24:RCT.YELLO-30: <:: Evet. ::>
+[19:54:37	]C24:i5.UNION-46 has spawned a junk_pc_monitor.
+[19:54:44	][IC] C24:i5.UNION-46: <:: Böyle kurmaya çalıştır. ::>
+[19:54:46	][IC] C24:i5.UNION-46: <:: Çalıştılar. ::>
+[19:54:54	]C24:i5.UNION-46 has used a context menu option with the name: rb655_dissolve
+[19:54:56	]C24:i5.UNION-46 has used a context menu option with the name: rb655_dissolve
+[19:54:56	][IC] C24:RCT.YELLO-30: <:: Sonra olan oldu. ::>
+[19:54:56	]env_entity_dissolver destroyed a 'Bilgisayar Monitörü' #18207.
+[19:54:57	]C24:i5.UNION-46 has used a context menu option with the name: rb655_dissolve
+[19:54:58	]env_entity_dissolver destroyed a 'Kırık Klavye' #18205.
+[19:54:59	]env_entity_dissolver destroyed a 'Kırık Bilgisayar' #18204.
+[19:55:32	][LOOC] C24:RCT.YELLO-30: engelli taklidi yapmayı sviom
+[19:55:43	][IC] C24:i5.UNION-46: <:: Hazmat kıyafeti giyilebiliyomuş la. ::>
+[19:55:53	][IC] C24:RCT.YELLO-30: <:: Olabilir. ::>
+[19:56:15	][IC] C24:i5.UNION-46: <:: La. ::>
+[19:56:18	][IC] C24:RCT.YELLO-30: <:: ? ::>
+[19:56:19	][IC] C24:i5.UNION-46: <:: Sen niye i4 gözüküyon. ::>
+[19:56:22	][IC] C24:i5.UNION-46: <:: Ama rct sin. ::>
+[19:56:25	][IC] C24:RCT.YELLO-30: <:: Nasıl. ::>
+[19:56:35	][IC] C24:i5.UNION-46: <:: Bende i4 olarak gözüküyon. ::>
+[19:56:38	][IC] C24:RCT.YELLO-30: <:: Yok. ::>
+[19:56:43	][IC] C24:i5.UNION-46: <:: Ama chatte direkt rctsin. ::>
+[19:56:50	][IC] C24:i4.XRAY-91: <:: Ben i4. ::>
+[19:56:52	][IC] C24:RCT.YELLO-30: <:: Al bak. ::>
+[19:56:54	][IC] C24:i5.UNION-46: <:: He. ::>
+[19:57:02	][IC] C24:RCT.YELLO-30: <:: Neyse. ::>
+[19:57:03	][IC] C24:i5.UNION-46: <:: I4. ::>
+[19:57:06	][IC] C24:i4.XRAY-91: <:: He. ::>
+[19:57:08	][IC] C24:i5.UNION-46: <:: Dünkü eleman. ::>
+[19:57:17	][IC] C24:i4.XRAY-91: <:: Ee. ::>
+[19:57:20	][IC] C24:i5.UNION-46: <:: Böyle pc vardı onu gördüğümde. ::>
+[19:57:26	][IC] C24:i5.UNION-46: <:: Kırık parçalardan. ::>
+[19:57:29	][IC] C24:i4.XRAY-91: <:: Hmü. ::>
+[19:57:42	][IC] C24:i5.UNION-46: <:: Bi dk. ::>
+[19:57:53	][IC] C24:i4.XRAY-91: <:: Stash ne zaman ekliyceksiniz. ::>
+[19:58:02	][IC] C24:RCT.YELLO-30: <:: I4 gözüküyormuyum 91. ::>
+[19:58:03	][IC] C24:i5.UNION-46: <:: Hmph. ::>
+[19:58:06	][IC] C24:i4.XRAY-91: <:: Hayır. ::>
+[19:58:12	][IC] C24:RCT.YELLO-30: <:: Sende sıkıntı var. ::>
+[19:58:12	][IC] C24:i5.UNION-46: <:: Bende i4 olarak gözüküyon. ::>
+[19:58:20	][IC] C24:i5.UNION-46: <:: Neyse birazdan geçer umarım. ::>
+[19:58:36	][IC] C24:i5.UNION-46: <:: Gelişmiş sk maskesi neye yarıyo la. ::>
+[19:58:38	][IC] C24:i5.UNION-46: <:: Bilen varmı. ::>
+[19:58:57	][IC] C24:i5.UNION-46: <:: Crat. ::>
+[19:58:59	][IC] C24:i5.UNION-46: <:: Birşey sorcam. ::>
+[19:59:03	][IC] C24:i5.UNION-46: <:: Ü. ::>
+[19:59:12	][IC] C24:i5.UNION-46: <:: Ittirdim yanlıslıkla. ::>
+[19:59:16	][IC] C24:i5.UNION-46: <:: Kolum kırılır şimdi. ::>
+[19:59:19	][IC] C24:RL.XRAY-57: <:: He. ::>
+[19:59:21	][IC] C24:i5.UNION-46: <:: Kaçayım en iyisi xd. ::>
+[19:59:25	][IC] C24:i5.UNION-46: <:: Gelişmiş maske neye yarıyo. ::>
+[19:59:31	][IC] C24:RL.XRAY-57: <:: Otomatik filtresi var galiba. ::>
+[19:59:35	][IC] C24:RL.XRAY-57: <:: Gaz koruması gibi bir şey. ::>
+[19:59:37	][IC] C24:RL.XRAY-57: <:: Armor da veriyor olabilir. ::>
+[19:59:42	][IC] C24:i4.XRAY-91: <:: Onu RL CMD gibi kisiler giymiyomuydu. ::>
+[19:59:45	][IC] C24:i5.UNION-46: <:: Dene istersen. ::>
+[19:59:45	][IC] C24:RL.XRAY-57: <:: Hee. ::>
+[19:59:46	][IC] C24:i4.XRAY-91: <:: Farklı bi görüntüsü vardı. ::>
+[19:59:49	][IC] C24:i4.XRAY-91: <:: O değilmi. ::>
+[19:59:50	]C24:i5.UNION-46 has spawned a mask_com.
+[19:59:54	][IC] C24:i5.UNION-46: <:: Al. ::>
+[19:59:55	]C24:i4.XRAY-91 ran 'take' on item 'Gelişmiş SK Maskesi' (#18208)
+[19:59:55	]C24:i4.XRAY-91 has gained a 'Gelişmiş SK Maskesi' #18208.
+[19:59:56	][IC] C24:i4.XRAY-91: <:: Bakim. ::>
+[20:00:02	][IC] C24:i5.UNION-46: <:: Dene bi. ::>
+[20:00:03	][IC] C24:i4.XRAY-91: <:: Baksana. ::>
+[20:00:08	][IC] C24:i4.XRAY-91: <:: Oto filtre falan yok ama. ::>
+[20:00:12	][IC] C24:i4.XRAY-91: <:: CMD oldum. ::>
+[20:00:15	]C24:i4.XRAY-91 ran 'drop' on item 'Gelişmiş SK Maskesi' (#18208)
+[20:00:15	]C24:i4.XRAY-91 has lost a 'Gelişmiş SK Maskesi' #18208.
+[20:00:24	][IC] C24:i5.UNION-46: <:: Crat sen dene. ::>
+[20:00:27	]C24:i4.XRAY-91 ran 'take' on item 'AKM' (#17477)
+[20:00:27	]C24:i4.XRAY-91 has gained a 'AKM' #17477.
+[20:00:28	]C24:i4.XRAY-91 ran 'Equip' on item 'AKM' (#17477)
+[20:00:40	][IC] C24:i5.UNION-46: <:: O keleşmi lan. ::>
+[20:00:49	][IC] C24:i4.XRAY-91: <:: RCT idam ettim dün bu olay yüzünden. ::>
+[20:00:51	]C24:i4.XRAY-91 ran 'drop' on item 'AKM' (#17477)
+[20:00:51	]C24:i4.XRAY-91 has lost a 'AKM' #17477.
+[20:00:55	][IC] C24:RCT.YELLO-30: <:: Bizim adamda herhalde akm vardı. ::>
+[20:00:59	][IC] C24:i4.XRAY-91: <:: Onun. ::>
+[20:01:00	][IC] C24:i4.XRAY-91: <:: Zaten. ::>
+[20:01:05	][IC] C24:RCT.YELLO-30: <:: Haha. ::>
+[20:01:05	][IC] C24:i4.XRAY-91: <:: Öldürdük onu. ::>
+[20:01:06	][IC] C24:i5.UNION-46: <:: Bir tek o değil. ::>
+[20:01:10	][IC] C24:i5.UNION-46: <:: Olm rctden çöp çıktı amk. ::>
+[20:01:13	][IC] C24:i5.UNION-46: <:: Olaya bak. ::>
+[20:01:23	][IC] C24:RCT.YELLO-30: <:: Bizi ezmeyin. ::>
+[20:01:24	][IC] C24:i5.UNION-46: <:: Dün çıkmıştı. ::>
+[20:01:35	][IC] C24:RCT.YELLO-30: <:: Saygı çerçevesinde. ::>
+[20:01:47	][IC] C24:i5.UNION-46: <:: Crat kapı patlatma aletini kullancakmıyız operasyonda. ::>
+[20:01:53	][IC] C24:i5.UNION-46: <:: Operasyonda olmadı ki şuana kadar. ::>
+[20:01:54	][WFRE] C24:i4.XRAY-91: Oui
+[20:02:07	]C24:i5.UNION-46 has used a context menu option with the name: remove
+[20:02:20	][LOOC] C24:RCT.YELLO-30: rüyamda elitler beni tutukluyorlardı
+[20:02:30	]DavşanAbi has connected.
+[20:02:33	][LOOC] C24:i5.UNION-46: gman tutuklasın seni
+[20:02:38	][IC] C24:i5.UNION-46: <:: Aha davşan abimiz gelmis. ::>
+[20:02:45	][LOOC] C24:RCT.YELLO-30: 10 kere ck yedim sivilken
+[20:02:58	][AltChecker] DavşanAbi joined without a cookie, but matched installation with existing cookie. Certainty 4/5
+[20:03:01	][LOOC] C24:i5.UNION-46: sen maqquen değilmisin la
+[20:03:05	][LOOC] C24:RCT.YELLO-30: +
+[20:03:09	][LOOC] C24:i5.UNION-46: dün size harbi gıcık oldum
+[20:03:20	][LOOC] C24:RCT.YELLO-30: elim ayağm titriyor
+[20:03:29	][LOOC] C24:i5.UNION-46: ulan yukardan aşağı cp'nin kafasına şişeyle vurulurmu
+[20:03:33	]DavşanAbi loaded the character 'C24:CpT.JURY-173'
+[20:03:33	][IC] C24:i5.UNION-46: <:: Atlayıpta. ::>
+[20:03:37	]C24:CpT.JURY-173 is fully healed.
+[20:03:38	]C24:CpT.JURY-173 ran SAM command 'admin' with arguments: ''
+[20:03:41	][LOOC] C24:RCT.YELLO-30: onu mewo yaptı
+[20:03:52	][IC] C24:i5.UNION-46: <:: Bak mesela. ::>
+[20:03:53	][IC] C24:i5.UNION-46: <:: Crat. ::>
+[20:03:57	][IC] C24:i5.UNION-46: <:: Mewo bir daha. ::>
+[20:04:00	][IC] C24:i5.UNION-46: <:: Hatasında. ::>
+[20:04:05	]C24:CpT.JURY-173 ran SAM command 'unadmin' with arguments: ''
+[20:04:06	][IC] C24:i5.UNION-46: <:: Ban atılsın. ::>
+[20:04:11	][IC] C24:RCT.YELLO-30: <:: Ense kilidi. ::>
+[20:04:17	][IC] C24:i5.UNION-46: <:: Abe sen gruntmusun sk mi. ::>
+[20:04:30	][IC] C24:i5.UNION-46: <:: Üf birde jury. ::>
+[20:04:32	][IC] C24:i5.UNION-46: <:: En sevdiğim. ::>
+[20:04:40	][IC] C24:i4.XRAY-91: <:: Cptain. ::>
+[20:04:45	][LOOC] C24:RCT.YELLO-30: jury kafam kaldırmıor
+[20:04:53	][IC] C24:i5.UNION-46: <:: Kaptan. ::>
+[20:04:54	][IC] C24:i4.XRAY-91: <:: Cplerin en üst mevkisi. ::>
+[20:04:54	][LOOC] C24:RCT.YELLO-30: olsam bile
+[20:04:56	][IC] C24:CpT.JURY-173: <:: JURY. ::>
+[20:05:04	][IC] C24:RL.XRAY-57: <:: Asıl adam geldi. ::>
+[20:05:06	][IC] C24:RL.XRAY-57: <:: Bu adama. ::>
+[20:05:09	][IC] C24:RL.XRAY-57: <:: Hesap vereceksiniz. ::>
+[20:05:11	][IC] C24:i5.UNION-46: <:: Ikinizde adamsınız hacı ayrım yok. ::>
+[20:05:12	][IC] C24:RCT.YELLO-30: <:: Abo. ::>
+[20:05:17	][IC] C24:RL.XRAY-57: <:: Şimdi duvara geçin bi. ::>
+[20:05:26	][IC] C24:i5.UNION-46: <:: Rct. ::>
+[20:05:30	][IC] C24:i4.XRAY-91: <:: Kimseyi cagırmadıgın için gelmedi bi kaç kisi. ::>
+[20:05:34	][W] C24:i5.UNION-46: <:: Yağlı yağlı sokup çıkarcak. ::>
+[20:05:35	][IC] C24:i4.XRAY-91: <:: Seslide konusuyorduk izinsiz girmeyim. ::>
+[20:05:36	][W] C24:i5.UNION-46: <:: Yağlı yağlı sokup çıkarcak. ::>
+[20:05:36	][IC] C24:i4.XRAY-91: <:: Dediler. ::>
+[20:05:39	][IC] C24:CpT.JURY-173: <:: Cağırıcaz. ::>
+[20:05:41	][W] C24:i5.UNION-46: <:: Yağlı yağlı sokup çıkarcak. ::>
+[20:05:43	][IC] C24:CpT.JURY-173: <:: Geçin siz. ::>
+[20:05:58	][IC] C24:i5.UNION-46: <:: Hala ooc yiz la demi. ::>
+[20:06:04	][IC] C24:CpT.JURY-173: <:: Oocdeyiz. ::>
+[20:06:07	][IC] C24:i5.UNION-46: <:: Heh iyi. ::>
+[20:06:18	][IC] C24:RCT.YELLO-30: <:: Abim benim gunam yok ki. ::>
+[20:06:35	][IC] C24:i5.UNION-46: <:: Yağlı yağlı... ::>
+[20:06:37	][IC] C24:i5.UNION-46: <:: Patates çekti canım. ::>
+[20:06:45	][IC] C24:i5.UNION-46: <:: Değilmi la. ::>
+[20:06:51	][IC] C24:RCT.YELLO-30: <:: Sevmiom. ::>
+[20:06:51	]C24:CpT.JURY-173 used command '/CharSearch'.
+[20:07:20	][IC] C24:i5.UNION-46: <:: Patates sevilmezmi. ::>
+[20:07:21	][IC] C24:i5.UNION-46: <:: Essek. ::>
+[20:07:25	][IC] C24:RCT.YELLO-30: <:: Aa. ::>
+[20:07:31	][IC] C24:i5.UNION-46: <:: Agzımdan kacti. ::>
+[20:07:36	][IC] C24:RCT.YELLO-30: <:: Abov. ::>
+[20:07:49	][IC] C24:RCT.YELLO-30: <:: Bizi yağlı yağlı. ::>
+[20:07:53	][IC] C24:i5.UNION-46: <:: I4 hayata tutunmayı başaramadı. ::>
+[20:08:00	][IC] C24:i5.UNION-46: <:: Yaşıyonmu i4. ::>
+[20:08:07	]C24:CpT.JURY-173 used command '/ActInjured'.
+[20:08:09	]C24:CpT.JURY-173 used command '/ExitAct'.
+[20:08:11	][IC] C24:i5.UNION-46: <:: JURY. ::>
+[20:08:13	][IC] C24:i4.XRAY-91: <:: Yaşıyorum. ::>
+[20:08:14	][IC] C24:i5.UNION-46: <:: YERE YATTI. ::>
+[20:08:15	][IC] C24:i5.UNION-46: <:: ABOOO. ::>
+[20:08:17	][IC] C24:i5.UNION-46: <:: SS ALDIM AGA. ::>
+[20:08:20	][IC] C24:i5.UNION-46: <:: YAYARIM IFŞAYI. ::>
+[20:08:22	][LOOC] C24:i4.XRAY-91: olm az ciddi olun mk
+[20:08:24	][IC] C24:CpT.JURY-173: <:: Atıldın. ::>
+[20:08:28	][IC] C24:i5.UNION-46: <:: Atıldım. ::>
+[20:08:32	][IC] C24:i5.UNION-46: <:: Beyler koydu he. ::>
+[20:08:34	][IC] C24:RCT.YELLO-30: <:: Karşında captan var. ::>
+[20:08:37	][IC] C24:i5.UNION-46: <:: Ohm. ::>
+[20:08:38	][IC] C24:CpT.JURY-173: <:: Rolde değiliz. ::>
+[20:08:41	][IC] C24:CpT.JURY-173: <:: Öylesine diyorum. ::>
+[20:08:44	][IC] C24:i4.XRAY-91: <:: Tigir:Er. ::>
+[20:08:53	][IC] C24:RCT.YELLO-30: <:: Bizi jobla. ::>
+[20:08:59	][IC] C24:i5.UNION-46: <:: Bizi yağlı yağlı jobladı. ::>
+[20:09:02	][IC] C24:i5.UNION-46: <:: Bizi yağlı yağlı jobladı. ::>
+[20:09:12	]C24:RCT.YELLO-30 used command '/ActArrest 3'.
+[20:09:20	]C24:i5.UNION-46 used command '/ActArrest'.
+[20:09:21	]C24:i5.UNION-46 used command '/ExitAct'.
+[20:09:22	][IC] C24:RCT.YELLO-30: <:: Hayatı sorguluom. ::>
+[20:09:24	]C24:i5.UNION-46 used command '/ActArrest 2'.
+[20:09:44	]C24:i5.UNION-46 used command '/ExitAct'.
+[20:10:01	][IC] C24:RCT.YELLO-30: <:: Hayatı sorguluom. ::>
+[20:10:03	]C24:i4.XRAY-91 used command '/ActStand 3'.
+[20:10:04	]C24:i4.XRAY-91 used command '/ExitAct'.
+[20:10:05	][IC] C24:i5.UNION-46: <:: Sorgulama. ::>
+[20:10:08	]C24:i4.XRAY-91 used command '/ActArrest'.
+[20:10:09	]C24:i4.XRAY-91 used command '/ExitAct'.
+[20:10:10	]C24:i4.XRAY-91 used command '/ActArrest 2'.
+[20:10:10	][IC] C24:RCT.YELLO-30: <:: Lan arkdaan. ::>
+[20:10:11	]C24:i4.XRAY-91 used command '/ExitAct'.
+[20:10:12	][ME] C24:i5.UNION-46: yağlı yağlı joblar
+[20:10:12	]C24:i4.XRAY-91 used command '/ActArrest 3'.
+[20:10:16	]C24:i4.XRAY-91 used command '/ExitAct'.
+[20:10:18	][IC] C24:RCT.YELLO-30: <:: Gh. ::>
+[20:10:20	][IC] C24:RCT.YELLO-30: <:: Agh. ::>
+[20:10:23	][IC] C24:RCT.YELLO-30: <:: Pain. ::>
+[20:10:25	][IC] C24:RCT.YELLO-30: <:: Ugh! ::>
+[20:10:27	]C24:RCT.YELLO-30 used command '/ExitAct'.
+[20:10:45	][IC] C24:i5.UNION-46: <:: I4. ::>
+[20:10:53	][LOOC] C24:i4.XRAY-91: he
+[20:10:55	][IC] C24:i5.UNION-46: <:: Vardım. ::>
+[20:11:00	][IC] C24:i5.UNION-46: <:: Açıldığından beri. ::>
+[20:11:10	][LOOC] C24:RCT.YELLO-30: yoktum
+[20:11:12	]Lynx has connected.
+[20:12:28	]Lynx loaded the character 'C24:i5.VICTOR-61'
+[20:12:59	][LOOC] C24:i5.UNION-46: hatta davşan ben seni biliyorum çok önceden yönetimdeydin wh alımlarına falan bakıyordun sanırsam
+[20:13:13	]C24:i5.VICTOR-61 is fully healed.
+[20:13:22	][LOOC] C24:RCT.YELLO-30: türkümü
+[20:13:54	][LOOC] C24:RCT.YELLO-30: ben çıkabilirm
+[20:14:01	][LOOC] C24:RCT.YELLO-30: elektirik
+[20:14:17	]C24:RL.XRAY-57 entered observer.
+[20:14:19	][LOOC] C24:RCT.YELLO-30: ben çıkabilirm
+[20:14:19	][IC] C24:i4.XRAY-91: <:: Evet. ::>
+[20:14:21	]C24:i5.UNION-46 entered observer.
+[20:14:22	]C24:RL.XRAY-57 ran SAM command 'bring' with arguments: 'victor'
+[20:14:22	]C24:i5.UNION-46 exited observer at their location.
+[20:14:22	]C24:RL.XRAY-57 exited observer at their location.
+[20:14:27	]C24:RL.XRAY-57 entered observer.
+[20:14:30	][IC] C24:i5.UNION-46: <:: Ben burdayım hocam. ::>
+[20:14:33	]C24:RL.XRAY-57 exited observer at their location.
+[20:14:43	][LOOC] C24:RCT.YELLO-30: sıkıntı olabilir
+[20:15:11	]C24:i5.UNION-46 ran 'drop' on item 'Dikişli Kumaş' (#18041)
+[20:15:11	]C24:i5.UNION-46 has lost a 'Dikişli Kumaş' #18041.
+[20:15:18	]C24:i5.UNION-46 ran 'take' on item 'Dikişli Kumaş' (#18041)
+[20:15:18	]C24:i5.UNION-46 has gained a 'Dikişli Kumaş' #18041.
+[20:16:07	][LOOC] C24:i5.UNION-46: hocam ben vurmadım ki
+[20:16:09	][IC] C24:RL.XRAY-57: <:: Drama. ::>
+[20:16:10	][IC] C24:RL.XRAY-57: <:: Haha. ::>
+[20:16:16	][LOOC] C24:i5.UNION-46: ben şu büyü yapanı vurdum
+[20:16:44	][LOOC] C24:i5.UNION-46: hocam alamadı zaten
+[20:17:02	][LOOC] C24:i5.UNION-46: silahı i4 yakalayınca geri aldım
+[20:17:21	]THE ÖMER (STEAM_0:1:575663749) has disconnected (timed out).
+[20:17:24	]C24:CpT.JURY-173 used command '/CharFallOver 0.1'.
+[20:17:26	]C24:CpT.JURY-173 used command '/CharGetUp'.
+[20:17:31	]C24:CpT.JURY-173 used command '/CharFallOver 0.1'.
+[20:19:48	]C24:RL.XRAY-57 used command '/CharSetHunger rl 0'.
+[20:19:53	]C24:RL.XRAY-57 used command '/CharSetThirst rl 0'.
+[20:21:26	]Scientist has connected.
+[20:23:28	]C24:i5.VICTOR-61 has gone afk.
+[20:26:13	]C24:i5.VICTOR-61 is no longer afk. Total time spent AFK: 460
+[20:26:29	]Scientist (STEAM_0:1:533519973) has disconnected (timed out).
+[20:27:43	][LOOC] C24:i4.XRAY-91: Mesleği:Suikastci
+[20:28:01	]C24:RL.XRAY-57 has gone afk.
+[20:29:55	]Scientist has connected.
+[20:30:06	]C24:RL.XRAY-57 is no longer afk. Total time spent AFK: 420
+[20:30:44	]C24:i5.UNION-46 has gone afk.
+[20:31:43	]C24:i5.VICTOR-61 has gone afk.
+[20:31:44	]C24:i5.UNION-46 is no longer afk. Total time spent AFK: 355
+[20:32:39	]Scientist loaded the character 'C24:i3.UNION-66'
+[20:33:05	]C24:i3.UNION-66 used command '/Radio 10-8 2'.
+[20:33:11	]C24:RL.XRAY-57 ran SAM command 'bring' with arguments: '66'
+[20:33:21	]C24:i3.UNION-66 ran 'EquipUn' on item 'Stunstick' (#14559)
+[20:33:22	]C24:i3.UNION-66 ran 'EquipUn' on item 'MP5A3' (#15649)
+[20:33:23	]C24:i3.UNION-66 ran 'EquipUn' on item 'Combine PDA' (#14475)
+[20:33:26	][LOOC] C24:i3.UNION-66: evet
+[20:33:28	]C24:i5.VICTOR-61 is no longer afk. Total time spent AFK: 400
+[20:33:35	][LOOC] C24:i3.UNION-66: revain 46
+[20:33:38	]C24:i3.UNION-66 ran 'Equip' on item 'Stunstick' (#14559)
+[20:33:39	]C24:i3.UNION-66 ran 'Equip' on item 'Combine PDA' (#14475)
+[20:33:40	]C24:i3.UNION-66 ran 'Equip' on item 'MP5A3' (#15649)
+[20:34:35	][LOOC] C24:i3.UNION-66: o half life 2 de kaç harfli oluyordu
+[20:34:39	][IC] C24:i5.UNION-46: <:: Birde mesela /radio yerine /r olabilir. ::>
+[20:35:01	][IC] C24:i5.UNION-46: <:: Birde mesela /radio yerine /r olabilir. ::>
+[20:35:22	][LOOC] C24:i3.UNION-66: /r oluyor
+[20:35:28	][LOOC] C24:i3.UNION-66: ben öyle kullanıyorum
+[20:35:53	]C24:i5.UNION-46 entered observer.
+[20:35:53	]C24:i5.UNION-46 exited observer at their location.
+[20:36:49	][IC] C24:i5.UNION-46: <:: Officer down, I am 10-99; I repeat, I am 10-99! ::>
+[20:37:05	][IC] C24:i5.UNION-46: <:: 11-99; officer needs assistance! ::>
+[20:37:14	]C24:i3.UNION-66 is fully healed.
+[20:37:16	][IC] C24:i3.UNION-66: <:: Ben code 100 yazmıştım code one-hunreded demişti mesele. ::>
+[20:37:18	][IC] C24:i3.UNION-66: <:: Code one-hundred. ::>
+[20:37:25	][IC] C24:i5.UNION-46: <:: Clear and code one-hundred. ::>
+[20:38:40	][IC] C24:i5.UNION-46: <:: Two-hundred. ::>
+[20:39:06	][LOOC] C24:i5.UNION-46: radio'da sesli birşey söylerken diğer tarafada ses geliyo o çok iyi
+[20:39:54	][LOOC] C24:i3.UNION-66: o şiddetli rehabilitasyon değildi
+[20:40:04	][LOOC] C24:i3.UNION-66: rehabilitasyonda
+[20:40:08	][IC] C24:i5.UNION-46: <:: 1 kere vurduğunda pıtt. ::>
+[20:40:36	][IC] C24:i3.UNION-66: <:: Ölmek üzere de var. ::>
+[20:40:51	][IC] C24:i3.UNION-66: <:: Ölmek üzerede bırakıyorum ben. ::>
+[20:41:01	][IC] C24:i3.UNION-66: <:: Tamamdır. ::>
+[20:41:13	][LOOC] C24:i5.UNION-46: missclick
+[20:41:54	][IC] C24:i5.UNION-46: <:: Birşey dicem davsann. ::>
+[20:42:04	][IC] C24:i5.UNION-46: <:: Grunt maskesi değilde gelişmiş maske giymeniz gerekmiyormu. ::>
+[20:42:25	][IC] C24:CpT.JURY-173: <:: Hayır üst yetkiler gelişmişleri giyiyor. ::>
+[20:42:36	][IC] C24:i5.UNION-46: <:: CpT En üst yetki zaten. ::>
+[20:42:42	][IC] C24:CpT.JURY-173: <:: Üst yetkiler diyorum ya zaten. ::>
+[20:42:45	][IC] C24:CpT.JURY-173: <:: OfC. ::>
+[20:42:46	][IC] C24:CpT.JURY-173: <:: Tarzı. ::>
+[20:42:51	][IC] C24:i5.UNION-46: <:: Hee. ::>
+[20:42:51	][IC] C24:CpT.JURY-173: <:: I3. ::>
+[20:42:54	][IC] C24:CpT.JURY-173: <:: I2 de olabilir. ::>
+[20:42:57	][IC] C24:CpT.JURY-173: <:: Ayarlanamdı onlar daha. ::>
+[20:43:20	][IC] C24:i3.UNION-66: <:: Kurallar ile ilgili 2 şey soracağım benim bildiğim 243 officera saldırı 245 silahlı şekilde officer a saldırma diye biliyorum. Bir tane overwatch videosunda görmüştüm. ::>
+[20:43:23	][IC] C24:i3.UNION-66: <:: Overwatch ai. ::>
+[20:44:08	][IC] C24:i3.UNION-66: <:: Birde 422 daha nesnel şekilde. ::>
+[20:44:15	][IC] C24:i3.UNION-66: <:: Açıklayabilir misin çok geniş çünkü. ::>
+[20:44:22	][IC] C24:i3.UNION-66: <:: 422 den yargılamıyorum kimseyi. ::>
+[20:44:24	][IC] C24:i3.UNION-66: <:: Bu yüzden. ::>
+[20:44:38	][IC] C24:i3.UNION-66: <:: 422. ::>
+[20:44:50	][IC] C24:i3.UNION-66: <:: Sık sık dediği kaç tane veya kaç arasında. ::>
+[20:44:55	][IC] C24:i3.UNION-66: <:: Tamamdır. ::>
+[20:45:00	][IC] C24:i5.UNION-46: <:: Bizde combine kartı değilde nedense normal vatandaş kartı var neden? ::>
+[20:45:15	]C24:RL.XRAY-57 has spawned a combine_card.
+[20:45:15	][IC] C24:i5.UNION-46: <:: Bak hatta. ::>
+[20:45:19	]C24:i5.UNION-46 has spawned a combine_card.
+[20:45:20	]C24:i5.UNION-46 ran 'take' on item 'Combine Kartı' (#18210)
+[20:45:20	]C24:i5.UNION-46 has gained a 'Combine Kartı' #18210.
+[20:45:23	]C24:i5.UNION-46 ran 'drop' on item 'Combine Kartı' (#18210)
+[20:45:23	]C24:i5.UNION-46 has lost a 'Combine Kartı' #18210.
+[20:45:25	]C24:RL.XRAY-57 has used a context menu option with the name: remove
+[20:45:29	]C24:i5.UNION-46 has used a context menu option with the name: rb655_dissolve
+[20:45:31	]env_entity_dissolver destroyed a 'Combine Kartı' #18210.
+[20:45:31	]C24:i5.VICTOR-61 has gone afk.
+[20:45:34	][IC] C24:i5.UNION-46: <:: Benim CID kartı kayboldu. ::>
+[20:45:36	][IC] C24:i5.UNION-46: <:: Bapıcam. ::>
+[20:45:37	][IC] C24:i5.UNION-46: <:: Napıcam. ::>
+[20:45:41	][IC] C24:RL.XRAY-57: <:: Yeniden karakter oluştur. ::>
+[20:45:41	]C24:i5.VICTOR-61 is no longer afk. Total time spent AFK: 305
+[20:45:44	][IC] C24:RL.XRAY-57: <:: Sonra yaparsın. ::>
+[20:45:54	]C24:i3.UNION-66 ran 'smoke' on item 'Sigara' (#15893)
+[20:45:56	]C24:i3.UNION-66 ran 'light' on item 'Plastik Çakmak' (#5900)
+[20:46:08	][ME] C24:RL.XRAY-57: nefes alır
+[20:46:17	][ME] C24:CpT.JURY-173: Gözlerini kırpar
+[20:46:29	][ME] C24:CpT.JURY-173: Vizöründen gözükmektedir
+[20:46:35	][ME] C24:RL.XRAY-57: kelepçeler
+[20:47:18	][ME] C24:RL.XRAY-57: adamın ellerini arkada birleştirir ve kelepçelemeye çalışır. Adam direnir mi?
+[20:47:26	][IC] C24:i5.UNION-46: <:: Ben biraz afkyım. ::>
+[20:47:43	][ME] C24:CpT.JURY-173: salutes with most Honor and Respect
+[20:47:44	]C24:CpT.JURY-173 used command '/CharFallOver 0.1'.
+[20:47:45	][IT] C24:RL.XRAY-57: -
+[20:47:45	]C24:CpT.JURY-173 used command '/CharGetUp'.
+[20:47:46	]C24:CpT.JURY-173 used command '/CharGetUp'.
+[20:47:47	][IT] C24:RL.XRAY-57: +
+[20:47:47	][ME] C24:i3.UNION-66: salutes with most Honor and Respect
+[20:48:28	][ME] C24:RL.XRAY-57: adamı kelepçelemeye çalışır, kişi direnir mi?
+[20:48:33	][IT] C24:i3.UNION-66: -
+[20:48:34	][ME] C24:RL.XRAY-57: +
+[20:49:05	][LOOC] C24:i5.VICTOR-61: normalde olumlu veya olumsuz demesi gerek + veya - yerine.
+[20:49:13	][ME] C24:i3.UNION-66: direnir
+[20:49:27	][ME] C24:i3.UNION-66: kendini bırakır ve sivil korumaya direnmez
+[20:49:52	][ME] C24:RL.XRAY-57: direnir
+[20:50:02	][LOOC] C24:RL.XRAY-57: ne yapıyorsun da direniyorsun?
+[20:50:03	][IT] C24:i3.UNION-66: nasıl direnir?
+[20:50:28	][IC] C24:i5.UNION-46: <:: Geldim. ::>
+[20:51:19	][IC] C24:i3.UNION-66: Tutuklarken sert davranabilir miyiz?
+[20:51:29	][IC] C24:i5.UNION-46: <:: Anladım. ::>
+[20:51:31	][IC] C24:i3.UNION-66: Direnmese bile.
+[20:51:34	][IC] C24:RL.XRAY-57: <:: Evet. ::>
+[20:51:36	][IC] C24:RL.XRAY-57: <:: Direnmese bile yapabilirsin. ::>
+[20:51:38	][IC] C24:RL.XRAY-57: <:: Abartma ama. ::>
+[20:51:38	][IC] C24:i3.UNION-66: Evet.
+[20:51:47	]C24:i3.UNION-66 rolled 86 out of 100 (+17 from Hız).
+[20:51:47	]C24:i3.UNION-66 used command '/SkillRoll speed 100'.
+[20:51:48	]C24:i5.UNION-46 rolled 17 out of 20.
+[20:51:48	]C24:i5.UNION-46 used command '/Roll strenght'.
+[20:52:20	][IC] C24:i3.UNION-66: ./skillrol speed 1000.
+[20:52:22	]C24:i5.UNION-46 rolled 6 out of 25.
+[20:52:22	]C24:i5.UNION-46 used command '/Roll strenght 25'.
+[20:52:40	]C24:i3.UNION-66 used command '/SkillRoll sting 10'.
+[20:52:48	]C24:i4.XRAY-91 has gone afk.
+[20:53:10	]C24:i3.UNION-66 ran 'smoke' on item 'Sigara' (#15894)
+[20:53:14	]C24:i3.UNION-66 ran 'light' on item 'Plastik Çakmak' (#5900)
+[20:53:48	][IC] C24:i3.UNION-66: Smb.
+[20:53:55	][IC] C24:i3.UNION-66: Ama dandik bizimki.
+[20:53:57	][LOOC] C24:i5.UNION-46: yine afkyım bi dk
+[20:54:41	]C24:i5.VICTOR-61 has gone afk.
+[20:55:18	][IC] C24:i3.UNION-66: Her gün jw açılıyordu.
+[20:55:44	][IC] C24:CpT.JURY-173: <:: Citizen. ::>
+[20:56:03	]C24:i4.XRAY-91 is no longer afk. Total time spent AFK: 490
+[20:56:12	][IC] C24:i3.UNION-66: Var.
+[20:56:16	][IC] C24:i3.UNION-66: Combine kameralar.
+[20:56:18	][IC] C24:i3.UNION-66: Nerelerde var.
+[20:56:23	][IC] C24:i3.UNION-66: Bütün pkblerde var mı.
+[20:56:25	]Revain (STEAM_0:1:608254786) has disconnected.
+[20:56:51	][IC] C24:i3.UNION-66: Yani biri 404 e kaçarsa nereden kaçtığını ve kim olduğunu.
+[20:56:53	][IC] C24:i3.UNION-66: Görebilir miyiz.
+[20:57:09	][IC] C24:i3.UNION-66: Mesela şehirde birisi ihlal yaptı ve kaçtı.
+[20:57:13	][IC] C24:i3.UNION-66: Yüzünü bilebilr miyim.
+[20:57:15	][IC] C24:i3.UNION-66: Kimliğini.
+[20:57:16	][IC] C24:i3.UNION-66: Ic olarak.
+[20:57:35	][IC] C24:i3.UNION-66: Kamera sistemi yok çünkü.
+[20:57:37	][IC] C24:i3.UNION-66: Şuanlık.
+[20:59:45	]C24:i3.UNION-66 ran 'smoke' on item 'Sigara' (#6670)
+[20:59:46	]C24:i3.UNION-66 ran 'light' on item 'Plastik Çakmak' (#5900)
+[21:00:46	]C24:i3.UNION-66 ran 'smoke' on item 'Sigara' (#15895)
+[21:00:48	]C24:i3.UNION-66 ran 'light' on item 'Plastik Çakmak' (#5900)
+[21:01:06	][IC] C24:i3.UNION-66: Eskiden her iş vardiyasında.
+[21:01:09	][IC] C24:i3.UNION-66: Olay çıkıyordu.
+[21:01:59	][IC] C24:i3.UNION-66: Aklıma geldi.
+[21:02:05	][IC] C24:i3.UNION-66: Eskiden rebeller saat 1 gibi.
+[21:02:07	]C24:CpT.JURY-173 used command '/CheckPetty'.
+[21:02:08	][IC] C24:i3.UNION-66: Saldırı yapıyorlardı.
+[21:02:11	]C24:i5.VICTOR-61 is no longer afk. Total time spent AFK: 745
+[21:02:12	][IC] C24:i3.UNION-66: 2-3 cp varken.
+[21:02:21	][IC] C24:i3.UNION-66: Komutu var mı şuan.
+[21:02:36	][IC] C24:CpT.JURY-173: <:: Check petty. ::>
+[21:02:49	]C24:i3.UNION-66 used command '/CheckPetty'.
+[21:02:57	][LOOC] C24:i3.UNION-66: küçük suç dediği ne kadar
+[21:03:05	][IC] C24:i3.UNION-66: 415b.
+[21:03:11	][IC] C24:i3.UNION-66: 415.
+[21:03:40	][IC] C24:i3.UNION-66: Ağır seviye 5 ve sosyo kırılma.
+[21:03:44	][IC] C24:i3.UNION-66: Büyük mü?
+[21:03:47	][IC] C24:i3.UNION-66: Diğerleri küçük.
+[21:04:17	][IC] C24:i3.UNION-66: O 415.
+[21:04:27	][IC] C24:i3.UNION-66: Olur.
+[21:05:30	][IC] C24:i3.UNION-66: Etek mi.
+[21:05:44	][IC] C24:CpT.JURY-173: <:: Kilt yada Kama deniyor. ::>
+[21:06:18	]C24:RL.XRAY-57 has changed C24:RL.XRAY-57's bodygroups.
+[21:06:57	]C24:i3.UNION-66 used command '/ActCheck'.
+[21:07:00	]C24:i3.UNION-66 used command '/ExitAct'.
+[21:07:03	]C24:i4.XRAY-91 has gone afk.
+[21:07:19	]C24:i3.UNION-66 used command '/CheckCrime'.
+[21:07:28	]C24:RL.XRAY-57 has spawned a 'NPC [4520][npc_barney]'.
+[21:07:30	]C24:i3.UNION-66 used command '/CheckOverwatch'.
+[21:07:43	]C24:i4.XRAY-91 is no longer afk. Total time spent AFK: 335
+[21:07:52	][IC] C24:i3.UNION-66: He.
+[21:07:56	][IC] C24:i3.UNION-66: Hl2 de çıkarıyordu.
+[21:08:03	]C24:RL.XRAY-57 has used a context menu option with the name: remove
+[21:08:06	][IC] C24:i3.UNION-66: Hem böylece rebellerde takamıyor.
+[21:09:05	][IC] C24:i3.UNION-66: He.
+[21:09:12	]C24:i3.UNION-66 ran 'smoke' on item 'Sigara' (#15896)
+[21:09:12	]C24:i3.UNION-66 ran 'light' on item 'Plastik Çakmak' (#5900)
+[21:09:15	][IC] C24:i3.UNION-66: Kırmızı dönen şey.
+[21:09:18	][IC] C24:i3.UNION-66: Bazen turuncu.
+[21:09:28	][IC] C24:i3.UNION-66: Bende yok.
+[21:09:30	]C24:RL.XRAY-57 used command '/WaypointAdd deneme 10 red'.
+[21:09:32	][IC] C24:i3.UNION-66: Keyif sigarası yakıyorum.
+[21:09:39	]C24:i3.UNION-66 used command '/CheckOverwatch'.
+[21:09:45	]C24:i3.UNION-66 ran 'stopsmoke' on item 'Sigara' (#15896)
+[21:10:06	][IC] C24:i3.UNION-66: <:: Yok. ::>
+[21:10:09	][IC] C24:i3.UNION-66: <:: Evet. ::>
+[21:10:23	]C24:i3.UNION-66 ran 'smoke' on item 'Sigara' (#15896)
+[21:10:24	]C24:RL.XRAY-57 ran 'drop' on item 'SK Maskesi' (#13725)
+[21:10:24	]C24:RL.XRAY-57 has lost a 'SK Maskesi' #13725.
+[21:10:25	]C24:RL.XRAY-57 ran 'drop' on item 'Küçük Çanta' (#13727)
+[21:10:25	]C24:RL.XRAY-57 has lost a 'Küçük Çanta' #13727.
+[21:10:25	]C24:RL.XRAY-57 has lost a 'Combine Filter' #13744.
+[21:10:25	]C24:RL.XRAY-57 has lost a 'Not Defteri' #13767.
+[21:10:25	]C24:RL.XRAY-57 has lost a 'Zip-Tie' #13732.
+[21:10:25	]C24:RL.XRAY-57 has lost a 'Zip-Tie' #13734.
+[21:10:25	]C24:RL.XRAY-57 has lost a 'Combine Filter' #13745.
+[21:10:25	]C24:RL.XRAY-57 has lost a 'Zip-Tie' #13731.
+[21:10:26	]C24:RL.XRAY-57 ran 'drop' on item 'Büyük Çanta' (#13728)
+[21:10:26	]C24:RL.XRAY-57 has lost a 'Büyük Çanta' #13728.
+[21:10:26	]C24:RL.XRAY-57 has lost a 'Ağrı Kesici' #13739.
+[21:10:26	]C24:RL.XRAY-57 has lost a 'SK Üniforması' #13724.
+[21:10:26	]C24:RL.XRAY-57 has lost a 'Dezenfekte Bandaj Rulosu' #13740.
+[21:10:26	]C24:RL.XRAY-57 has lost a 'Dezenfekte Bandaj Rulosu' #13741.
+[21:10:29	]C24:RL.XRAY-57 ran 'take' on item 'Büyük Çanta' (#13728)
+[21:10:29	]C24:RL.XRAY-57 has gained a 'Büyük Çanta' #13728.
+[21:10:29	]C24:RL.XRAY-57 has gained a 'Ağrı Kesici' #13739.
+[21:10:29	]C24:RL.XRAY-57 has gained a 'SK Üniforması' #13724.
+[21:10:29	]C24:RL.XRAY-57 has gained a 'Dezenfekte Bandaj Rulosu' #13740.
+[21:10:29	]C24:RL.XRAY-57 has gained a 'Dezenfekte Bandaj Rulosu' #13741.
+[21:10:32	]C24:RL.XRAY-57 ran 'take' on item 'Küçük Çanta' (#13727)
+[21:10:36	]C24:RL.XRAY-57 ran 'combine' on item 'Ammunition Pouch' (#13746)
+[21:10:37	]C24:i3.UNION-66 ran 'light' on item 'Plastik Çakmak' (#5900)
+[21:10:38	]C24:RL.XRAY-57 ran 'drop' on item 'Ammunition Pouch' (#13746)
+[21:10:38	]C24:RL.XRAY-57 has lost a 'Ammunition Pouch' #13746.
+[21:10:38	]C24:RL.XRAY-57 has lost a 'SMG Mermisi' #13794.
+[21:10:38	]C24:RL.XRAY-57 has lost a '9mm Tabanca Mermisi' #13750.
+[21:10:38	]C24:RL.XRAY-57 has lost a '9mm Tabanca Mermisi' #13749.
+[21:10:38	]C24:RL.XRAY-57 has lost a 'SMG Mermisi' #13755.
+[21:10:38	]C24:RL.XRAY-57 has lost a '9mm Tabanca Mermisi' #13748.
+[21:10:38	]C24:RL.XRAY-57 has lost a '9mm Tabanca Mermisi' #13747.
+[21:10:49	]C24:RL.XRAY-57 ran 'take' on item 'Ammunition Pouch' (#13746)
+[21:10:49	]C24:RL.XRAY-57 has gained a 'Ammunition Pouch' #13746.
+[21:10:49	]C24:RL.XRAY-57 has gained a 'SMG Mermisi' #13794.
+[21:10:49	]C24:RL.XRAY-57 has gained a '9mm Tabanca Mermisi' #13750.
+[21:10:49	]C24:RL.XRAY-57 has gained a '9mm Tabanca Mermisi' #13749.
+[21:10:49	]C24:RL.XRAY-57 has gained a 'SMG Mermisi' #13755.
+[21:10:49	]C24:RL.XRAY-57 has gained a '9mm Tabanca Mermisi' #13748.
+[21:10:49	]C24:RL.XRAY-57 has gained a '9mm Tabanca Mermisi' #13747.
+[21:10:50	]C24:RL.XRAY-57 ran 'take' on item 'Küçük Çanta' (#13727)
+[21:10:50	]C24:RL.XRAY-57 has gained a 'Küçük Çanta' #13727.
+[21:10:50	]C24:RL.XRAY-57 has gained a 'Combine Filter' #13744.
+[21:10:50	]C24:RL.XRAY-57 has gained a 'Not Defteri' #13767.
+[21:10:50	]C24:RL.XRAY-57 has gained a 'Zip-Tie' #13732.
+[21:10:50	]C24:RL.XRAY-57 has gained a 'Zip-Tie' #13734.
+[21:10:50	]C24:RL.XRAY-57 has gained a 'Combine Filter' #13745.
+[21:10:50	]C24:RL.XRAY-57 has gained a 'Zip-Tie' #13731.
+[21:10:53	]C24:RL.XRAY-57 ran 'take' on item 'SK Maskesi' (#13725)
+[21:10:53	]C24:RL.XRAY-57 has gained a 'SK Maskesi' #13725.
+[21:11:33	][IC] C24:i3.UNION-66: Bende var soundpad.
+[21:11:36	]C24:RL.XRAY-57 has lost a '20rnd FiveSeven-şarjörü' #13759.
+[21:11:36	]C24:RL.XRAY-57 has gained a '20rnd FiveSeven-şarjörü' #13756.
+[21:11:38	][IC] C24:i3.UNION-66: Açayım mı?
+[21:11:44	]C24:RL.XRAY-57 has spawned a 'NPC [4521][npc_metropolice]'.
+[21:11:44	]C24:RL.XRAY-57 has critically hit npc_metropolice in the head dealing 18 damage (CritChance was 0.92).
+[21:11:45	]C24:RL.XRAY-57 has critically hit npc_metropolice in the head dealing 18 damage (CritChance was 0.92).
+[21:12:22	][IC] C24:i3.UNION-66: Hasta.
+[21:12:49	]C24:i3.UNION-66 ran 'stopsmoke' on item 'Sigara' (#15896)
+[21:12:56	][IC] C24:i3.UNION-66: <:: Fiziksel travma. ::>
+[21:12:57	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the right leg dealing 4 damage (CritChance was 0.92).
+[21:12:57	]C24:RL.XRAY-57 has taken 4 damage from C24:CpT.JURY-173.
+[21:12:57	][IC] C24:i3.UNION-66: <:: Var mı. ::>
+[21:12:59	]C24:RL.XRAY-57 is fully healed.
+[21:13:00	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.92).
+[21:13:00	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:01	]C24:CpT.JURY-173 has gained level 20 in the Silahlar skill.
+[21:13:01	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.92).
+[21:13:01	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:01	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.92).
+[21:13:01	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:01	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.92).
+[21:13:01	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:02	]C24:CpT.JURY-173 has gained level 21 in the Silahlar skill.
+[21:13:02	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.92).
+[21:13:02	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:02	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.92).
+[21:13:02	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:02	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.92).
+[21:13:02	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:02	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.92).
+[21:13:02	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:02	]C24:CpT.JURY-173 has gained level 22 in the Silahlar skill.
+[21:13:02	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.92).
+[21:13:02	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:03	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.93).
+[21:13:03	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:03	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.93).
+[21:13:03	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:03	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.93).
+[21:13:03	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:03	]C24:CpT.JURY-173 has gained level 23 in the Silahlar skill.
+[21:13:03	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.93).
+[21:13:03	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:03	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.93).
+[21:13:03	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:03	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.93).
+[21:13:03	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:03	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.93).
+[21:13:03	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:03	]C24:CpT.JURY-173 has gained level 24 in the Silahlar skill.
+[21:13:03	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.93).
+[21:13:03	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:03	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.94).
+[21:13:03	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:04	]C24:RL.XRAY-57 is fully healed.
+[21:13:05	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.94).
+[21:13:05	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:05	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.94).
+[21:13:05	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:06	]C24:CpT.JURY-173 has gained level 25 in the Silahlar skill.
+[21:13:06	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.94).
+[21:13:06	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:06	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.94).
+[21:13:06	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:07	]C24:RL.XRAY-57 ran SAM command 'ungod' with arguments: ''
+[21:13:07	][IC] C24:i3.UNION-66: <:: Gelmedi. ::>
+[21:13:09	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.94).
+[21:13:09	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:09	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.94).
+[21:13:09	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:09	]C24:CpT.JURY-173 has gained level 26 in the Silahlar skill.
+[21:13:09	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.94).
+[21:13:09	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:09	]C24:RL.XRAY-57 is fully healed.
+[21:13:09	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.95).
+[21:13:09	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:09	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.95).
+[21:13:09	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:09	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 in the head dealing 16 damage (CritChance was 0.95).
+[21:13:09	]C24:RL.XRAY-57 has taken 16 damage from C24:CpT.JURY-173.
+[21:13:14	]C24:RL.XRAY-57 is fully healed.
+[21:13:16	][IC] C24:i5.VICTOR-61: <:: Gelmio. ::>
+[21:13:16	]C24:RL.XRAY-57 has taken 51 damage from C24:CpT.JURY-173.
+[21:13:16	]C24:RL.XRAY-57 has taken 51 damage from C24:CpT.JURY-173.
+[21:13:17	]C24:RL.XRAY-57 has taken 51 damage from C24:CpT.JURY-173.
+[21:13:17	]C24:RL.XRAY-57 has taken 51 damage from C24:CpT.JURY-173.
+[21:13:17	]C24:RL.XRAY-57 has taken 51 damage from C24:CpT.JURY-173.
+[21:13:18	]C24:RL.XRAY-57 has taken 51 damage from C24:CpT.JURY-173.
+[21:13:18	]C24:RL.XRAY-57 has taken 51 damage from C24:CpT.JURY-173.
+[21:13:18	]C24:RL.XRAY-57 has taken 51 damage from C24:CpT.JURY-173.
+[21:13:18	]C24:RL.XRAY-57 has taken 51 damage from C24:CpT.JURY-173.
+[21:13:18	]C24:RL.XRAY-57 ran SAM command 'hp' with arguments: '^' '100'
+[21:13:18	]C24:RL.XRAY-57 has taken 51 damage from C24:CpT.JURY-173.
+[21:13:19	]C24:RL.XRAY-57 has gained a '20rnd FiveSeven-şarjörü' #13759.
+[21:13:19	]C24:RL.XRAY-57 was knocked unconscious and is bleeding out.
+[21:13:20	]C24:RL.XRAY-57 was killed while bleeding out.
+[21:13:20	]C24:CpT.JURY-173 has killed C24:RL.XRAY-57 with player.
+[21:13:20	]C24:RL.XRAY-57 has dropped: 30x 9mm Tabanca Mermisi (#13748); 30x 9mm Tabanca Mermisi (#13747); 20rnd FiveSeven-şarjörü (#13756); SK Üniforması (#13724); 30x SMG Mermisi (#13755); 30x 9mm Tabanca Mermisi (#13749); MP7A1 (#13730); 20rnd FiveSeven-şarjörü (#13759); Flashlight (#13777); FiveSeven (#13729); SK Maskesi (#13725); Combine Filter (#13745); Tıbbi Direnişçi Üniforması (#16972); 30x 9mm Tabanca Mermisi (#13750); 30rnd MP-şarjörü (#13758); 30x SMG Mermisi (#13794); Stunstick (#13766); Zip-Tie (#13734); El Telsizi (#13726); Spoiled Çivili Fincan Kahve (#12944); Combine Filter (#13744); Zip-Tie (#13731); Zip-Tie (#13732); Not Defteri (#13767); 4x Ağrı Kesici (#13739); 4x Dezenfekte Bandaj Rulosu (#13740); 2x Dezenfekte Bandaj Rulosu (#13741);
+[21:13:23	][IC] C24:i3.UNION-66: <:: Çıktı. ::>
+[21:13:25	][IC] C24:i3.UNION-66: <:: Fiziksel travma. ::>
+[21:13:26	][IC] C24:i3.UNION-66: <:: Iyi. ::>
+[21:13:34	]C24:RL.XRAY-57 entered observer.
+[21:13:36	]C24:RL.XRAY-57 exited observer at their location.
+[21:13:41	]C24:RL.XRAY-57 entered observer.
+[21:13:43	]C24:RL.XRAY-57 exited observer at their location.
+[21:13:44	]C24:RL.XRAY-57 opened the 'Dropped Items' #2645 container.
+[21:13:47	]C24:RL.XRAY-57 has gained a 'SK Maskesi' #13725 from a container with the name 'Dropped Items' #2645.
+[21:13:49	]C24:RL.XRAY-57 has gained a 'Tıbbi Direnişçi Üniforması' #16972 from a container with the name 'Dropped Items' #2645.
+[21:13:51	]C24:RL.XRAY-57 has gained a 'SMG Mermisi' #13755 from a container with the name 'Dropped Items' #2645.
+[21:13:51	]C24:RL.XRAY-57 has gained a '9mm Tabanca Mermisi' #13748 from a container with the name 'Dropped Items' #2645.
+[21:13:52	]C24:RL.XRAY-57 ran 'drop' on item '9mm Tabanca Mermisi' (#13747)
+[21:13:53	]C24:RL.XRAY-57 has gained a '9mm Tabanca Mermisi' #13750 from a container with the name 'Dropped Items' #2645.
+[21:13:55	]C24:RL.XRAY-57 has gained a 'Combine Filter' #13745 from a container with the name 'Dropped Items' #2645.
+[21:13:55	]C24:RL.XRAY-57 has gained a '9mm Tabanca Mermisi' #13749 from a container with the name 'Dropped Items' #2645.
+[21:13:56	]C24:RL.XRAY-57 has gained a '20rnd FiveSeven-şarjörü' #13756 from a container with the name 'Dropped Items' #2645.
+[21:13:57	]C24:RL.XRAY-57 has gained a 'SMG Mermisi' #13794 from a container with the name 'Dropped Items' #2645.
+[21:13:59	]C24:RL.XRAY-57 has gained a 'FiveSeven' #13729 from a container with the name 'Dropped Items' #2645.
+[21:14:06	][IC] C24:i3.UNION-66: <:: 10-76 lost biosignal. ::>
+[21:14:07	]C24:RL.XRAY-57 closed the 'Dropped Items' #2645 container.
+[21:14:11	][IC] C24:i3.UNION-66: <:: Türkçesi. ::>
+[21:14:17	]C24:RL.XRAY-57 has spawned a uniform_com.
+[21:14:18	]C24:RL.XRAY-57 ran 'take' on item 'SK Rütbe Lideri Üniforması' (#18211)
+[21:14:18	]C24:RL.XRAY-57 has gained a 'SK Rütbe Lideri Üniforması' #18211.
+[21:14:21	]C24:RL.XRAY-57 ran 'drop' on item 'SK Rütbe Lideri Üniforması' (#18211)
+[21:14:21	]C24:RL.XRAY-57 has lost a 'SK Rütbe Lideri Üniforması' #18211.
+[21:14:22	][IC] C24:i3.UNION-66: <:: 10-76 son biyo sinyal. ::>
+[21:14:26	]C24:RL.XRAY-57 entered observer.
+[21:14:28	]C24:RL.XRAY-57 exited observer at their location.
+[21:14:49	][IC] C24:i3.UNION-66: <:: Bizde. ::>
+[21:14:51	][IC] C24:i3.UNION-66: <:: Biojel. ::>
+[21:14:53	][IC] C24:i3.UNION-66: <:: Kullanıyor muyuz. ::>
+[21:14:58	][IC] C24:i3.UNION-66: <:: Helix. ::>
+[21:15:10	]C24:i3.UNION-66 ran 'Consume' on item 'Metropolice Takviyeleri' (#17151)
+[21:15:10	]C24:i3.UNION-66 extended their level 3 long boost in Güç.
+[21:15:30	]C24:RL.XRAY-57 ran 'Equip' on item 'FiveSeven' (#13729)
+[21:15:35	][IC] C24:i3.UNION-66: <:: Var zaten klavuzd a. ::>
+[21:15:38	][IC] C24:i3.UNION-66: <:: Taşıyoruz. ::>
+[21:17:14	][IC] C24:i3.UNION-66: <:: Mutfak bıçağı takamaz bir nevi. ::>
+[21:17:19	][IC] C24:i3.UNION-66: <:: Plastikten kolay geçmez. ::>
+[21:17:31	][IC] C24:i3.UNION-66: <:: Evet. ::>
+[21:18:00	]C24:i3.UNION-66 rolled 2 out of 100 (+2 from Yakın Dövüş).
+[21:18:00	]C24:i3.UNION-66 used command '/SkillRoll melee 100'.
+[21:18:16	][LOOC] C24:i3.UNION-66: 100 den 2 attım benden cp olmazmış
+[21:18:38	]C24:i5.VICTOR-61 used command '/SkillRoll'.
+[21:18:45	]Wonder Of You has connected.
+[21:19:01	][IC] C24:i3.UNION-66: <:: Full hazmat mıyız? ::>
+[21:19:04	][IC] C24:i3.UNION-66: <:: Yoksa yarı mı. ::>
+[21:19:19	][IC] C24:i3.UNION-66: <:: Fermuar zaten. ::>
+[21:19:34	][IC] C24:i3.UNION-66: <:: F. ::>
+[21:19:43	]C24:i4.XRAY-91 has gone afk.
+[21:19:46	]C24:i3.UNION-66 used command '/CheckOverwatch'.
+[21:19:57	]C24:i3.UNION-66 used command '/CheckStaff'.
+[21:20:03	]C24:i4.XRAY-91 is no longer afk. Total time spent AFK: 315
+[21:20:04	]C24:i3.UNION-66 used command '/CheckStaff'.
+[21:20:04	]C24:CpT.JURY-173 has lost a '17rnd Usp-Şarjörü' #15030.
+[21:20:07	]C24:CpT.JURY-173 has gained a '17rnd Usp-Şarjörü' #15030.
+[21:20:07	]C24:CpT.JURY-173 has lost a '17rnd Usp-Şarjörü' #15029.
+[21:20:09	]C24:CpT.JURY-173 has gained a '17rnd Usp-Şarjörü' #15029.
+[21:20:09	]C24:CpT.JURY-173 has lost a '17rnd Usp-Şarjörü' #15030.
+[21:20:10	]Wonder Of You loaded the character 'Mona Vax'
+[21:20:13	]C24:i3.UNION-66 used command '/CheckPetty'.
+[21:20:14	]C24:CpT.JURY-173 has gained a '17rnd Usp-Şarjörü' #15030.
+[21:20:14	]C24:CpT.JURY-173 has lost a '17rnd Usp-Şarjörü' #15029.
+[21:20:24	][IC] C24:i3.UNION-66: <:: Darbe. ::>
+[21:20:32	]Mona Vax has spawned a shoes_heels.
+[21:20:34	]Mona Vax ran 'take' on item 'Topuklu ayakkabı' (#18212)
+[21:20:34	]Mona Vax has gained a 'Topuklu ayakkabı' #18212.
+[21:20:37	]Mona Vax ran 'drop' on item 'Plastik Çöp' (#18144)
+[21:20:37	]Mona Vax has lost a 'Plastik Çöp' #18144.
+[21:20:42	]Mona Vax ran 'drop' on item 'Koyu Deri Çizme' (#17195)
+[21:20:42	]Mona Vax has lost a 'Koyu Deri Çizme' #17195.
+[21:20:50	]Mona Vax has fired a toolgun with the name: remover
+[21:20:51	]Mona Vax has fired a toolgun with the name: remover
+[21:21:01	]Mona Vax has given himself a fedora_brown.
+[21:21:01	]Mona Vax has gained a 'Kahverengi Fedora' #18213.
+[21:21:13	]Mona Vax ran 'drop' on item 'Kahverengi Fedora' (#18213)
+[21:21:13	]Mona Vax has lost a 'Kahverengi Fedora' #18213.
+[21:21:16	]Mona Vax has fired a toolgun with the name: remover
+[21:21:35	][IC] C24:i3.UNION-66: <:: Hl alxyde wallhammera bomba atınca kalkan olsa bile geri tepiyor ne kadar ağır olsada. ::>
+[21:21:40	]Mona Vax has given himself a hands_tipless_gloves.
+[21:21:40	]Mona Vax has gained a 'Uçsuz Eldivenler' #18214.
+[21:22:05	]C24:CpT.JURY-173 has gained a '17rnd Usp-Şarjörü' #15029.
+[21:22:05	]C24:CpT.JURY-173 has lost a '17rnd Usp-Şarjörü' #15030.
+[21:22:09	]C24:CpT.JURY-173 has gained a '17rnd Usp-Şarjörü' #15030.
+[21:22:09	]C24:CpT.JURY-173 has lost a '17rnd Usp-Şarjörü' #15029.
+[21:22:11	]C24:CpT.JURY-173 has gained a '17rnd Usp-Şarjörü' #15029.
+[21:22:11	]C24:CpT.JURY-173 has lost a '17rnd Usp-Şarjörü' #15030.
+[21:22:12	]Mona Vax has given himself a aviators.
+[21:22:12	]Mona Vax has gained a 'Havacı Gözlükleri' #18215.
+[21:22:16	][IC] C24:i3.UNION-66: <:: Ama spam powergaming değil mi. ::>
+[21:22:21	]Mona Vax ran 'drop' on item 'Havacı Gözlükleri' (#18215)
+[21:22:21	]Mona Vax has lost a 'Havacı Gözlükleri' #18215.
+[21:22:22	][IC] C24:i3.UNION-66: <:: 2 saniyede 10 bandaj basamaz. ::>
+[21:22:26	]Mona Vax has fired a toolgun with the name: remover
+[21:22:27	]Mona Vax entered observer.
+[21:22:41	]Mona Vax exited observer at their location.
+[21:22:49	]C24:CpT.JURY-173 has gained a '17rnd Usp-Şarjörü' #15030.
+[21:22:49	]C24:CpT.JURY-173 has lost a '17rnd Usp-Şarjörü' #15029.
+[21:22:53	]C24:CpT.JURY-173 has gained a '17rnd Usp-Şarjörü' #15029.
+[21:22:53	]C24:CpT.JURY-173 has lost a '17rnd Usp-Şarjörü' #15030.
+[21:22:56	][IC] C24:i3.UNION-66: <:: Onu diyordum. ::>
+[21:23:07	]C24:CpT.JURY-173 has gained a '17rnd Usp-Şarjörü' #15030.
+[21:23:07	]C24:CpT.JURY-173 has lost a '17rnd Usp-Şarjörü' #15029.
+[21:23:25	]Mona Vax entered observer.
+[21:23:26	]Mona Vax exited observer at their location.
+[21:23:49	]C24:CpT.JURY-173 has gained a '17rnd Usp-Şarjörü' #15029.
+[21:23:49	]C24:CpT.JURY-173 has lost a '17rnd Usp-Şarjörü' #15030.
+[21:23:58	][IC] Mona Vax: Abi emniyet müdürünüz hanginiz?
+[21:24:05	][IC] C24:i3.UNION-66: <:: Wonder. ::>
+[21:24:05	][IC] Mona Vax: Ben wonder.
+[21:24:13	][IC] Mona Vax: Fraksiyonum cca ...
+[21:24:20	]Mona Vax is fully healed.
+[21:24:51	][IC] C24:i3.UNION-66: <:: 50 armor oocde. ::>
+[21:24:56	][IC] C24:i3.UNION-66: <:: 150 can oluyorsunuz. ::>
+[21:24:59	][IC] C24:i3.UNION-66: <:: 100 can yerine. ::>
+[21:25:03	][IC] C24:RL.XRAY-57: <:: Yep. ::>
+[21:25:38	][IC] C24:i3.UNION-66: <:: Saldıran. ::>
+[21:25:44	][IC] C24:i3.UNION-66: <:: Gerilla taktik. ::>
+[21:26:29	][LOOC] C24:i5.VICTOR-61: bu arada hangi saatte kadar devam eder eğitim
+[21:26:33	]C24:i4.XRAY-91 has gone afk.
+[21:26:40	][LOOC] C24:i5.VICTOR-61: saat biraz geç olmaya başladı.
+[21:27:00	][LOOC] C24:i5.VICTOR-61: yarın okul var.
+[21:27:06	]Mona Vax entered observer.
+[21:27:10	][LOOC] C24:i5.VICTOR-61: eğitimi iki parçaya bölsek bir fikir.
+[21:27:12	]Mona Vax exited observer at their location.
+[21:28:46	][IC] C24:CpT.JURY-173: <:: Overwatch. ::>
+[21:29:10	]Mona Vax entered observer.
+[21:29:23	]Mona Vax exited observer at their location.
+[21:29:23	]Mona Vax entered observer.
+[21:29:26	]Mona Vax exited observer at their location.
+[21:29:37	]Wonder Of You loaded the character 'Hershel Von Shepherd'
+[21:29:41	]Hershel Von Shepherd is fully healed.
+[21:30:05	]Hershel Von Shepherd has given himself a cca_vanilla.
+[21:30:05	]Hershel Von Shepherd has gained a 'Mr. Vanilla' #18216.
+[21:30:09	][IC] C24:i3.UNION-66: <:: Basınç elle mi yoksa ağızla mı. ::>
+[21:30:38	][IC] C24:i3.UNION-66: <:: Stephen hawkingteki sistemi yapsalardı mis gibi yanak kasıyla. ::>
+[21:30:50	]Hershel Von Shepherd ran 'drop' on item 'Gözetmen Pantolonu' (#15948)
+[21:30:50	]Hershel Von Shepherd has lost a 'Gözetmen Pantolonu' #15948.
+[21:31:13	]Hershel Von Shepherd has fired a toolgun with the name: remover
+[21:31:25	]Hershel Von Shepherd has given himself a cca_formal.
+[21:31:25	]Hershel Von Shepherd has gained a 'Resmi' #18217.
+[21:31:46	]Hershel Von Shepherd ran 'drop' on item 'Şeytanın Avukatları Palto' (#11366)
+[21:31:46	]Hershel Von Shepherd has lost a 'Şeytanın Avukatları Palto' #11366.
+[21:31:51	]Hershel Von Shepherd ran 'take' on item 'Şeytanın Avukatları Palto' (#11366)
+[21:31:51	]Hershel Von Shepherd has gained a 'Şeytanın Avukatları Palto' #11366.
+[21:31:56	]C24:RL.XRAY-57 has spawned a pda_cwu.
+[21:32:00	]Hershel Von Shepherd has given himself a cca_executive.
+[21:32:00	]Hershel Von Shepherd has gained a 'Yönetici' #18219.
+[21:32:11	][IC] C24:i3.UNION-66: <:: Kötü ama o envanterden açıyorsun full ismi giriyorsun. ::>
+[21:32:12	]Hershel Von Shepherd ran 'drop' on item 'Yönetici' (#18219)
+[21:32:12	]Hershel Von Shepherd has lost a 'Yönetici' #18219.
+[21:32:18	][IC] C24:i3.UNION-66: <:: Bizde yapay zekalı en yakın ismi alıyor. ::>
+[21:32:19	]Hershel Von Shepherd ran 'drop' on item 'Gözetmen' (#15947)
+[21:32:19	]Hershel Von Shepherd has lost a 'Gözetmen' #15947.
+[21:32:20	]C24:CpT.JURY-173 ran 'take' on item 'CWU PDA' (#18218)
+[21:32:20	]C24:CpT.JURY-173 has gained a 'CWU PDA' #18218.
+[21:32:20	]Hershel Von Shepherd ran 'drop' on item 'Resmi' (#18217)
+[21:32:20	]Hershel Von Shepherd has lost a 'Resmi' #18217.
+[21:32:24	]Hershel Von Shepherd has fired a toolgun with the name: remover
+[21:32:24	]Hershel Von Shepherd has fired a toolgun with the name: remover
+[21:32:24	]Hershel Von Shepherd has fired a toolgun with the name: remover
+[21:32:27	]C24:CpT.JURY-173 ran 'EquipUn' on item 'Combine PDA' (#13798)
+[21:32:28	]C24:i5.VICTOR-61 has gone afk.
+[21:32:29	]C24:CpT.JURY-173 ran 'drop' on item 'CWU PDA' (#18218)
+[21:32:29	]C24:CpT.JURY-173 has lost a 'CWU PDA' #18218.
+[21:32:31	]C24:RL.XRAY-57 ran 'take' on item 'CWU PDA' (#18218)
+[21:32:31	]C24:RL.XRAY-57 has gained a 'CWU PDA' #18218.
+[21:32:34	][IC] C24:i3.UNION-66: <:: Smb olarak id girmek işkence. ::>
+[21:32:40	]Hershel Von Shepherd ran 'smoke' on item 'Sigara' (#6482)
+[21:32:42	]Hershel Von Shepherd ran 'light' on item 'Zippo Çakmak' (#6332)
+[21:32:52	]Hershel Von Shepherd ran 'combine' on item '6rnd Popper-Şarjörü' (#9971)
+[21:32:56	]Hershel Von Shepherd ran 'combine' on item '6rnd Popper-Şarjörü' (#9957)
+[21:32:57	]Hershel Von Shepherd ran 'combine' on item '6rnd Popper-Şarjörü' (#9970)
+[21:33:00	]Hershel Von Shepherd entered observer.
+[21:33:09	]Hershel Von Shepherd used command '/CharDesc'.
+[21:33:23	][IC] C24:i3.UNION-66: <:: Smbde medikal kayıt ekleyebiliyorsun. ::>
+[21:33:32	][IC] C24:i3.UNION-66: <:: Birde bakmak için. ::>
+[21:34:20	][IC] C24:i3.UNION-66: <:: Alt+click. ::>
+[21:34:23	]C24:i4.XRAY-91 is no longer afk. Total time spent AFK: 765
+[21:34:24	]Hershel Von Shepherd exited observer at their location.
+[21:35:18	]Hershel Von Shepherd used command '/ActLean'.
+[21:35:23	]Hershel Von Shepherd used command '/ActLean'.
+[21:35:51	][IC] C24:i3.UNION-66: <:: Olabilir wipe. ::>
+[21:35:54	][IC] Hershel Von Shepherd: Emniyet müdürünüz hanginiz?
+[21:36:01	][IC] C24:i3.UNION-66: <:: Benim i3 eskiden kalma çünkü. ::>
+[21:36:04	][IC] C24:RL.XRAY-57: <:: Sivil Koruma Bakanlığı ayrı. ::>
+[21:36:08	][IC] C24:RL.XRAY-57: <:: Sivil Koruma Bakanlığı ayrı. ::>
+[21:36:12	][IC] Hershel Von Shepherd: Şaka yapıyorum.
+[21:36:12	][IC] C24:RL.XRAY-57: <:: Biz saha birimiyiz. ::>
+[21:36:17	][IC] C24:RL.XRAY-57: <:: Necrotic. ::>
+[21:36:24	]C24:RL.XRAY-57 used command '/ActStand 4'.
+[21:37:08	]C24:i5.VICTOR-61 is no longer afk. Total time spent AFK: 575
+[21:37:10	]C24:CpT.JURY-173 used command '/MeD'.
+[21:37:43	][IC] C24:i3.UNION-66: <:: Yeniden eğitim. ::>
+[21:37:44	][IC] Hershel Von Shepherd: Sivil koruma bakanlığında kimler var şuanda?
+[21:38:02	][IC] C24:CpT.JURY-173: <:: Kimse yok. ::>
+[21:38:05	][IC] C24:CpT.JURY-173: <:: Bildiğimiz kadarıyla. ::>
+[21:38:11	][IC] C24:RL.XRAY-57: <:: Ben varım ama karakterim yok. ::>
+[21:38:20	][IC] Hershel Von Shepherd: Benim hiç muhattabım kalmadı :(.
+[21:38:30	][IC] C24:i3.UNION-66: <:: Pt lideri 1 kere olmuştum çok kötü hissettiriyor. ::>
+[21:38:53	][IC] C24:i3.UNION-66: <:: Çıkarken i1 biriniz yaralanırsa veya kıyafete zarar gelirse senden bilirim dedi. ::>
+[21:39:16	][IC] C24:i3.UNION-66: <:: Iyi ki birşey olmadı. ::>
+[21:39:24	][IC] C24:i4.XRAY-91: <:: Crat özel baksana. ::>
+[21:39:49	][IC] C24:i3.UNION-66: <:: He iyi o zaman. ::>
+[21:39:54	][IC] C24:i3.UNION-66: <:: O kadar sıkıntı değilmiş. ::>
+[21:41:02	][IC] C24:i3.UNION-66: <:: Zar atarak olabilir mi 2 tarafta izin verirse. ::>
+[21:41:06	][IC] C24:i3.UNION-66: <:: Mesela saklandım bir yere. ::>
+[21:41:15	][IC] C24:i3.UNION-66: <:: Adam önümden geçti /roll ile. ::>
+[21:41:23	][IC] C24:i3.UNION-66: <:: Hayır saklanma. ::>
+[21:42:40	][IC] C24:i3.UNION-66: <:: Ben bazen kaçmasına izin veriyorum. ::>
+[21:42:41	][IC] C24:i3.UNION-66: <:: Sivillerin. ::>
+[21:42:55	][IC] Hershel Von Shepherd: Osg hep kazanmaya oynuyordu mesela.
+[21:44:08	]C24:i5.VICTOR-61 has gone afk.
+[21:44:31	][IC] C24:i3.UNION-66: <:: Ben direnirse duvara vuruyorum. ::>
+[21:44:34	][IC] C24:i3.UNION-66: <:: Çoğunlukla kafa. ::>
+[21:44:53	]C24:i4.XRAY-91 has gone afk.
+[21:44:59	]C24:RL.XRAY-57 used command '/ExitAct'.
+[21:45:16	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 dealing 8 damage (CritChance was 0.91).
+[21:45:16	]C24:RL.XRAY-57 has taken 7 damage from C24:CpT.JURY-173.
+[21:45:18	]C24:i5.VICTOR-61 is no longer afk. Total time spent AFK: 365
+[21:45:19	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 dealing 8 damage (CritChance was 0.91).
+[21:45:19	]C24:RL.XRAY-57 has taken 7 damage from C24:CpT.JURY-173.
+[21:45:21	]C24:CpT.JURY-173 has critically hit C24:RL.XRAY-57 dealing 8 damage (CritChance was 0.91).
+[21:45:21	]C24:RL.XRAY-57 has taken 7 damage from C24:CpT.JURY-173.
+[21:45:31	]C24:RL.XRAY-57 was just knocked out due to: hit by stunstick owned by C24:CpT.JURY-173
+[21:46:20	][IC] Hershel Von Shepherd: Bir şey sormam gerek, madalyaları kim veriyor?
+[21:47:10	][IC] Hershel Von Shepherd: Ben şimdi cca klavuzunu çeviriyorum şuanda çevirideki anlamsızlıkları düzeltiyorum da merak ettim.
+[21:47:19	][IC] C24:RL.XRAY-57: <:: Tabii sorabilirsin her şeyi. ::>
+[21:47:48	]Hershel Von Shepherd has spawned 'models/c24_exterior/c24_cityposters.mdl'.
+[21:47:53	]C24:i4.XRAY-91 is no longer afk. Total time spent AFK: 475
+[21:47:53	]Hershel Von Shepherd entered observer.
+[21:47:57	]Hershel Von Shepherd exited observer at their location.
+[21:48:01	]Hershel Von Shepherd has spawned 'models/willardnetworks/posters/wn_poster_5.mdl'.
+[21:48:20	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:48:23	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:49:12	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:49:15	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:49:17	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:49:20	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:49:22	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:49:25	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:49:29	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:49:32	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:49:35	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:49:39	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:49:43	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:49:46	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:49:49	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:49:53	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:49:56	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:50:00	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:50:04	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:50:07	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:50:10	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:50:13	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:50:18	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:50:22	]Hershel Von Shepherd has enabled persistence for 'models/willardnetworks/posters/wn_poster_5.mdl'.
+[21:50:22	]Hershel Von Shepherd has used a context menu option with the name: persist
+[21:50:34	]Hershel Von Shepherd has spawned 'models/willardnetworks/props/posterminal.mdl'.
+[21:50:48	]C24:i5.VICTOR-61 has gone afk.
+[21:51:05	]Hershel Von Shepherd entered observer.
+[21:51:16	]Hershel Von Shepherd exited observer at their location.
+[21:51:20	]Hershel Von Shepherd has spawned 'models/willardnetworks/posters/wn_poster_5.mdl'.
+[21:51:27	][IC] C24:i3.UNION-66: <:: Pahalı. ::>
+[21:51:28	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:51:31	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:51:37	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:51:38	]C24:i5.VICTOR-61 is no longer afk. Total time spent AFK: 345
+[21:51:41	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:51:41	][LOOC] C24:i5.VICTOR-61: çıkmam gerek
+[21:51:45	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:51:48	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:51:55	][LOOC] C24:i5.VICTOR-61: bu arada post makinası bende bulunuyor ama bozuk
+[21:52:00	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:52:07	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:52:10	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:52:12	][LOOC] C24:i5.VICTOR-61: isterseniz deneyebilirsiniz iyi geceler
+[21:52:15	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:52:17	]Lynx (STEAM_0:1:578875274) has disconnected.
+[21:52:19	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:52:19	][IC] C24:i3.UNION-66: <:: Birde filtre neden yo kbizde. ::>
+[21:52:22	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:52:24	][IC] C24:i3.UNION-66: <:: Vendorda. ::>
+[21:52:26	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:52:30	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:52:33	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:52:36	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:52:37	][IC] C24:i4.XRAY-91: <:: Vendor kullancak radyasyonlu alan yokki. ::>
+[21:52:39	][IC] C24:i4.XRAY-91: <:: Sewersta. ::>
+[21:52:39	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:52:43	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:52:47	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:52:47	][IC] C24:i4.XRAY-91: <:: Filter*. ::>
+[21:52:48	][IC] C24:i4.XRAY-91: <:: Pardon. ::>
+[21:52:50	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:52:55	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:52:59	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:53:02	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:53:05	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:53:09	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:53:11	][IC] C24:i3.UNION-66: <:: Evet. ::>
+[21:53:14	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:53:14	][IC] C24:i3.UNION-66: <:: Smbdeki karakterde var. ::>
+[21:53:15	][IC] C24:i3.UNION-66: <:: Benim. ::>
+[21:53:19	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:53:21	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:53:23	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:53:24	][IC] C24:i3.UNION-66: <:: Evet. ::>
+[21:53:26	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:53:27	][IC] C24:i3.UNION-66: <:: Smb sib ve cp. ::>
+[21:53:30	]Hershel Von Shepherd has used a context menu option with the name: skin
+[21:53:31	][IC] C24:i3.UNION-66: <:: Çağırabiliyoruz. ::>
+[21:53:41	]C24:i3.UNION-66 used command '/SC cwu'.
+[21:53:55	]C24:CpT.JURY-173 has gained a '17rnd Usp-Şarjörü' #15030.
+[21:53:55	]C24:CpT.JURY-173 has lost a '17rnd Usp-Şarjörü' #15029.
+[21:53:58	]C24:CpT.JURY-173 has gained a '17rnd Usp-Şarjörü' #15029.
+[21:53:58	]C24:CpT.JURY-173 has lost a '17rnd Usp-Şarjörü' #15030.
+[21:54:04	]C24:CpT.JURY-173 has gained a '17rnd Usp-Şarjörü' #15030.
+[21:54:04	]C24:CpT.JURY-173 has lost a '17rnd Usp-Şarjörü' #15029.
+[21:54:17	][IC] C24:i3.UNION-66: <:: O güzel baya. ::>
+[21:54:25	]C24:CpT.JURY-173 used the 'i5-i1 Ekipman Dağıtıcısı' vendor.
+[21:55:06	][IC] C24:i3.UNION-66: <:: Radgollken. ::>
+[21:55:10	][IC] C24:i3.UNION-66: <:: Kelepçelemiyor mu? ::>
+[21:55:29	]C24:RL.XRAY-57 was just knocked out due to: hit by stunstick owned by C24:CpT.JURY-173
+[21:55:33	]C24:CpT.JURY-173 ran 'Use' on item 'Zip-Tie' (#15026)
+[21:55:35	][IC] C24:i4.XRAY-91: <:: Lavaboya gidip gelicem. ::>
+[21:55:36	]C24:CpT.JURY-173 ran 'Use' on item 'Zip-Tie' (#15026)
+[21:55:50	]Hershel Von Shepherd entered observer.
+[21:55:59	][IC] C24:i3.UNION-66: <:: Me ile hallederim. ::>
+[21:56:03	]Hershel Von Shepherd exited observer at their location.
+[21:56:11	][ME] C24:i3.UNION-66: salutes with most Honor and Respect
+[21:56:13	][ME] C24:i3.UNION-66: salutes with most Honor and Respect
+[21:56:17	][IC] Hershel Von Shepherd: Oh.
+[21:56:34	][IC] Hershel Von Shepherd: I liked your emotes.
+[21:57:10	][IC] C24:CpT.JURY-173: <:: Move back, right now! ::>
+[21:57:16	]C24:RL.XRAY-57 was just knocked out due to: hit by stunstick owned by C24:CpT.JURY-173
+[21:57:39	]C24:i3.UNION-66 has changed C24:i3.UNION-66's bodygroups.
+[21:57:40	]Hershel Von Shepherd entered observer.
+[21:57:41	]Hershel Von Shepherd exited observer at their location.
+[21:57:49	][IC] Hershel Von Shepherd: Buney.
+[21:57:53	][IC] C24:i4.XRAY-91: <:: Geldim. ::>
+[21:57:54	][LOOC] C24:i3.UNION-66: gerçek combine askeri
+[21:57:59	]C24:i4.XRAY-91 ran 'Open' on item 'Sivil Koruma Rasyonu' (#18060)
+[21:57:59	]C24:i4.XRAY-91 has gained a 'Metropolice Takviyeleri' #18220.
+[21:57:59	]C24:i4.XRAY-91 has gained a 'Soda Bob Brawn' #18221.
+[21:57:59	]C24:i4.XRAY-91 has gained a '20 Kredi Kuponu' #18222.
+[21:58:03	]C24:i4.XRAY-91 ran 'Consume' on item 'Soda Bob Brawn' (#18221)
+[21:58:03	]C24:i4.XRAY-91 extended their level 1 long boost in Algı.
+[21:58:03	]C24:i4.XRAY-91 extended their level 2 long boost in Çeviklik.
+[21:58:12	]C24:i4.XRAY-91 ran 'Consume' on item 'Metropolice Takviyeleri' (#18220)
+[21:58:12	]C24:i4.XRAY-91 extended their level 3 long boost in Güç.
+[21:58:24	]Hershel Von Shepherd has disabled persistence for 'models/willardnetworks/posters/wn_poster_5.mdl'.
+[21:58:24	]Hershel Von Shepherd has used a context menu option with the name: persist_end
+[21:59:10	]C24:RL.XRAY-57 has spawned a rolledposter.
+[21:59:12	]C24:RL.XRAY-57 ran 'take' on item 'Rolled Poster' (#18223)
+[21:59:12	]C24:RL.XRAY-57 has gained a 'Rolled Poster' #18223.
+[21:59:35	]C24:CpT.JURY-173 has gained a '17rnd Usp-Şarjörü' #15029.
+[21:59:35	]C24:CpT.JURY-173 has lost a '17rnd Usp-Şarjörü' #15030.
+[21:59:38	]C24:CpT.JURY-173 has gained a '17rnd Usp-Şarjörü' #15030.
+[21:59:38	]C24:CpT.JURY-173 has lost a '17rnd Usp-Şarjörü' #15029.
+[21:59:53	][IC] C24:i3.UNION-66: <:: Evet. ::>
+[22:00:43	]C24:i4.XRAY-91 ran 'drop' on item 'Bandaj Rulosu' (#15619)
+[22:00:43	]C24:i4.XRAY-91 has lost a 'Bandaj Rulosu' #15619.
+[22:00:43	]C24:i4.XRAY-91 ran 'drop' on item 'Bandaj Rulosu' (#15620)
+[22:00:43	]C24:i4.XRAY-91 has lost a 'Bandaj Rulosu' #15620.
+[22:00:44	]C24:i4.XRAY-91 ran 'drop' on item 'Ağrı Kesici' (#18181)
+[22:00:44	]C24:i4.XRAY-91 has lost a 'Ağrı Kesici' #18181.
+[22:00:49	]C24:i4.XRAY-91 destroyed a 'Bandaj Rulosu' #15620.
+[22:00:50	]C24:i4.XRAY-91 destroyed a 'Ağrı Kesici' #18181.
+[22:00:51	]C24:i4.XRAY-91 destroyed a 'Bandaj Rulosu' #15619.
+[22:01:21	]C24:i4.XRAY-91 used the 'i5-i1 Ekipman Dağıtıcısı' vendor.
+[22:01:26	]C24:i4.XRAY-91 has gained 0 chips.
+[22:01:26	]C24:i4.XRAY-91 has gained a '17rnd Usp-Şarjörü' #18224.
+[22:01:41	]C24:i4.XRAY-91 ran 'combine' on item '17rnd Usp-Şarjörü' (#18224)
+[22:01:42	]C24:i4.XRAY-91 ran 'combine' on item '9mm Tabanca Mermisi' (#18176)
+[22:02:45	]C24:i3.UNION-66 has changed C24:i3.UNION-66's bodygroups.
+[22:03:17	][IC] C24:i3.UNION-66: <:: Dispatch ai değil mi zaten. ::>
+[22:03:20	][IC] C24:RL.XRAY-57: <:: Evet. ::>
+[22:04:36	]Hershel Von Shepherd has gone afk.
+[22:04:51	]Hershel Von Shepherd is no longer afk. Total time spent AFK: 310
+[22:04:51	]Hershel Von Shepherd entered observer.
+[22:04:58	]Hershel Von Shepherd exited observer at their location.
+[22:05:04	]Hershel Von Shepherd entered observer.
+[22:05:07	]Hershel Von Shepherd exited observer at their location.
+[22:07:23	]C24:i4.XRAY-91 has gone afk.
+[22:10:28	]C24:i4.XRAY-91 is no longer afk. Total time spent AFK: 480
+[22:10:39	]C24:i3.UNION-66 has gone afk.
+[22:11:21	]Hershel Von Shepherd has gone afk.
+[22:12:01	]Hershel Von Shepherd is no longer afk. Total time spent AFK: 335
+[22:12:19	]C24:i3.UNION-66 is no longer afk. Total time spent AFK: 395
+[22:12:29	]Hershel Von Shepherd has used a context menu option with the name: vendor_edit
+[22:13:14	]Hershel Von Shepherd used command '/PlyWhitelist shepherd cremator'.
+[22:14:03	]Wonder Of You created the character 'C24.CREMATOR:211'
+[22:14:03	]Wonder Of You loaded the character 'C24.CREMATOR:211'
+[22:14:24	]C24.CREMATOR:211 entered observer.
+[22:14:25	]C24.CREMATOR:211 has taken 12 damage from env_fire.
+[22:14:25	]C24.CREMATOR:211 has taken 11 damage from env_fire.
+[22:14:25	]C24.CREMATOR:211 has taken 9 damage from env_fire.
+[22:14:32	]C24.CREMATOR:211 exited observer at their location.
+[22:14:48	][IC] C24.CREMATOR:211: Varmış zaten.
+[22:14:53	][IC] C24.CREMATOR:211: Şimdi aldım.
+[22:15:04	][IC] C24:i3.UNION-66: <:: Hd. ::>
+[22:15:18	]C24:i4.XRAY-91 has changed C24:i4.XRAY-91's bodygroups.
+[22:15:18	]C24:i4.XRAY-91 has changed C24:i4.XRAY-91's bodygroups.
+[22:15:32	][IC] C24:i3.UNION-66: <:: Köle. ::>
+[22:15:39	][IC] C24.CREMATOR:211: Bu ne olm astım bu.
+[22:15:42	][IC] C24:i3.UNION-66: <:: Temizlik. ::>
+[22:15:42	][IC] C24.CREMATOR:211: Ben ceset yakıyom.
+[22:16:07	][IC] C24:i3.UNION-66: <:: Sewers enfekte bölge mi. ::>
+[22:16:39	][IC] C24.CREMATOR:211: Neden astım bu.
+[22:17:03	][IC] C24.CREMATOR:211: Bilmiyorum ama sanırım adıyaman tütünü içmiş geçmişte.
+[22:17:23	][IC] C24:i3.UNION-66: <:: Kaç kg sın birde ateş atan silahın var. ::>
+[22:17:32	][IC] C24.CREMATOR:211: Öpemmi.
+[22:17:38	][ME] C24.CREMATOR:211: vakumlar
+[22:17:38	][IC] C24:i3.UNION-66: <:: Yanına gelsem nefesssizlikten ölürüm. ::>
+[22:17:40	][IC] C24:i3.UNION-66: <:: Haha. ::>
+[22:17:43	][IC] C24.CREMATOR:211: Haha.
+[22:18:00	]C24.CREMATOR:211 used command '/PlyWhitelist cremator resistan'.
+[22:18:11	]C24:i3.UNION-66 has changed C24:i3.UNION-66's bodygroups.
+[22:19:57	][IC] C24:i3.UNION-66: <:: Elon musk. ::>
+[22:20:03	][IC] C24:i3.UNION-66: <:: Bence daha iyi böyle. ::>
+[22:21:08	][IC] C24:i3.UNION-66: <:: Çip bana göre saçma. ::>
+[22:21:24	][IC] C24:i3.UNION-66: <:: Evet. ::>
+[22:21:49	]C24.CREMATOR:211 entered observer.
+[22:21:50	]C24.CREMATOR:211 exited observer at their location.
+[22:22:04	]C24.CREMATOR:211 has spawned 'models/Zombie/Poison.mdl'.
+[22:22:07	]C24.CREMATOR:211 has spawned 'models/Zombie/Classic_torso.mdl'.
+[22:22:12	]C24.CREMATOR:211 entered observer.
+[22:22:15	]C24.CREMATOR:211 exited observer at their location.
+[22:22:19	][IC] C24.CREMATOR:211: Çok güzel yanıyolar.
+[22:22:20	]C24.CREMATOR:211 entered observer.
+[22:22:42	]C24.CREMATOR:211 exited observer at their location.
+[22:22:45	]C24.CREMATOR:211 has spawned 'models/Zombie/Classic_torso.mdl'.
+[22:22:46	]C24.CREMATOR:211 has spawned 'models/Gibs/Fast_Zombie_Torso.mdl'.
+[22:22:51	]C24.CREMATOR:211 entered observer.
+[22:22:52	]C24.CREMATOR:211 exited observer at their location.
+[22:23:06	]C24.CREMATOR:211 has spawned 'models/Advisor.mdl'.
+[22:23:11	]C24.CREMATOR:211 entered observer.
+[22:23:12	]C24.CREMATOR:211 exited observer at their location.
+[22:23:13	]C24.CREMATOR:211 entered observer.
+[22:23:14	]C24.CREMATOR:211 has spawned 'models/Advisor.mdl'.
+[22:23:28	]C24.CREMATOR:211 exited observer at their location.
+[22:23:30	]C24.CREMATOR:211 has spawned 'models/Combine_Super_Soldier.mdl'.
+[22:23:41	]C24.CREMATOR:211 has spawned 'models/gman_high.mdl'.
+[22:23:46	]C24.CREMATOR:211 entered observer.
+[22:23:46	]C24.CREMATOR:211 has taken 2 damage from entityflame.
+[22:23:46	]C24.CREMATOR:211 has taken 2 damage from entityflame.
+[22:23:46	]C24.CREMATOR:211 has taken 0 damage from entityflame.
+[22:23:52	]C24.CREMATOR:211 has spawned 'models/vortigaunt.mdl'.
+[22:24:02	]C24:CpT.JURY-173 has gone afk.
+[22:24:10	]C24.CREMATOR:211 exited observer at their location.
+[22:24:25	]Wonder Of You (STEAM_0:0:210448252) has disconnected.
+[22:24:52	][IC] C24:i3.UNION-66: <:: Ben çakmak çalmıştım. ::>
+[22:24:59	][IC] C24:i3.UNION-66: <:: -40 sp. ::>
+[22:25:05	][IC] C24:i3.UNION-66: <:: Çakmak ve sigara geldi bedava. ::>
+[22:25:07	]C24:CpT.JURY-173 is no longer afk. Total time spent AFK: 360
+[22:25:14	]C24:i3.UNION-66 ran 'smoke' on item 'Sigara' (#15896)
+[22:25:15	]C24:i3.UNION-66 ran 'light' on item 'Plastik Çakmak' (#5900)
+[22:25:15	]Plastik Çakmak owned by C24:i3.UNION-66 just broke due to usage.
+[22:25:58	]C24:i4.XRAY-91 used command '/CheckCrime'.
+[22:26:03	]C24:i4.XRAY-91 used command '/CheckOverwatch'.
+[22:27:25	][IC] C24:i3.UNION-66: Sigara bittikçe yavaş yavaş küçülüyor.
+[22:27:27	][IC] C24:i3.UNION-66: Güzel sistem.
+[22:27:29	][IC] C24:RL.XRAY-57: <:: Evet. ::>
+[22:28:15	]C24:i4.XRAY-91 ran 'take' on item 'AKM' (#17477)
+[22:28:17	]C24:i4.XRAY-91 ran 'take' on item 'AKM' (#17477)
+[22:28:17	]C24:i4.XRAY-91 has gained a 'AKM' #17477.
+[22:28:18	]C24:i4.XRAY-91 ran 'Equip' on item 'AKM' (#17477)
+[22:28:36	][IC] C24:i3.UNION-66: <:: Bize üreme simülasyonu yok zaten sadece rl için diyor:(. ::>
+[22:28:51	][IC] C24:i4.XRAY-91: <:: Aslında hl2 de var. ::>
+[22:28:56	][IC] C24:i3.UNION-66: <:: Rl için sadece. ::>
+[22:28:59	][IC] C24:i4.XRAY-91: <:: O yüzden sk alıyoalr. ::>
+[22:29:02	][IC] C24:i4.XRAY-91: <:: Normalde. ::>
+[22:29:09	]C24:i4.XRAY-91 ran 'drop' on item 'AKM' (#17477)
+[22:29:09	]C24:i4.XRAY-91 has lost a 'AKM' #17477.
+[22:29:21	][IC] C24:i3.UNION-66: <:: Rank leader reminder:(üreme simulasyonu için 100 stc). ::>
+[22:29:25	][IC] C24:i3.UNION-66: <:: Diyordu. ::>
+[22:29:29	]C24:i4.XRAY-91 used the 'i5-i1 Ekipman Dağıtıcısı' vendor.
+[22:29:51	][IC] C24:i3.UNION-66: <:: Deja vu. ::>
+[22:30:07	]C24:CpT.JURY-173 has gone afk.
+[22:31:42	]C24:CpT.JURY-173 is no longer afk. Total time spent AFK: 390
+[22:35:34	]C24:CpT.JURY-173 has gained a '17rnd Usp-Şarjörü' #15029.
+[22:35:34	]C24:CpT.JURY-173 has lost a '17rnd Usp-Şarjörü' #15030.
+[22:35:40	]C24:CpT.JURY-173 has gained a '17rnd Usp-Şarjörü' #15030.
+[22:35:40	]C24:CpT.JURY-173 has lost a '17rnd Usp-Şarjörü' #15029.
+[22:35:56	][IC] C24:i3.UNION-66: <:: Enfeksiyon eventi. ::>
+[22:35:58	][IC] C24:i3.UNION-66: <:: Vardı galiba. ::>
+[22:36:53	]C24:i3.UNION-66 has lost a '30rnd MP-şarjörü' #15663.
+[22:40:52	][IC] C24:i3.UNION-66: <:: Bende okumuştum. ::>
+[22:41:10	][IC] C24:RL.XRAY-57: <:: OAİM. ::>
+[22:44:46	]C24:CpT.JURY-173 has spawned a drink_champagne_glass.
+[22:44:57	]C24:CpT.JURY-173 ran 'Consume' on item 'Bir Kadeh Köpüklü Şampanya' (#18225)
+[22:44:57	]C24:CpT.JURY-173 has gained a level 2 long boost in Çeviklik.
+[22:44:57	]C24:CpT.JURY-173 has gained a level 3 long boost in Zeka.
+[22:44:57	]C24:CpT.JURY-173 has gained a level 2 long boost in Algı.
+[22:45:00	]C24:CpT.JURY-173 has spawned a drink_coffee.
+[22:45:02	]C24:CpT.JURY-173 ran 'Consume' on item 'Bir Fincan Kahve' (#18226)
+[22:45:02	]C24:CpT.JURY-173 has wasted a level 2 long boost in Çeviklik (current: 0; target: 2).
+[22:45:02	]C24:CpT.JURY-173 has gained a 'Boş Kahve Fincanı' #18227.
+[22:45:07	]C24:CpT.JURY-173 has spawned a baking_cheesecake.
+[22:45:08	]C24:CpT.JURY-173 ran 'Consume' on item 'Cheesecake' (#18228)
+[22:45:08	]C24:CpT.JURY-173 has wasted a level 3 long boost in Zeka (current: 0; target: 3).
+[22:45:08	]C24:CpT.JURY-173 has gained a level 5 long boost in Algı.
+[22:49:22	]C24:RL.XRAY-57 has gone afk.
+[22:49:27	]C24:RL.XRAY-57 is no longer afk. Total time spent AFK: 300
+[22:49:28	][IC] C24:i3.UNION-66: <:: Check for miscount. ::>
+[22:49:36	][IC] C24:i3.UNION-66: <:: Evet. ::>
+[22:49:37	][IC] C24:i4.XRAY-91: <:: Evet. ::>
+[22:49:37	][IC] C24:i3.UNION-66: <:: Bence. ::>
+[22:49:40	][IC] C24:i3.UNION-66: <:: Biliyorum. ::>
+[22:49:48	][IC] C24:i3.UNION-66: <:: Pacify. ::>
+[22:49:49	][IC] C24:RL.XRAY-57: <:: Pacify. ::>
+[22:49:50	][IC] C24:i3.UNION-66: <:: ? ::>
+[22:49:51	][IC] C24:RL.XRAY-57: <:: Pasifize. ::>
+[22:49:56	][IC] C24:i3.UNION-66: <:: Huzura kavuşturma. ::>
+[22:49:57	][IC] C24:i3.UNION-66: <:: K. ::>
+[22:50:00	][IC] C24:i4.XRAY-91: <:: Etkisiz kılmak. ::>
+[22:50:18	][IC] C24:i3.UNION-66: <:: Pacifying. ::>
+[22:50:26	][IC] C24:i3.UNION-66: <:: Pacifying. ::>
+[22:50:30	][IC] C24:CpT.JURY-173: <:: Pacifying. ::>
+[22:50:33	][IC] C24:CpT.JURY-173: <:: Pacify. ::>
+[22:50:37	][LOOC] C24:i3.UNION-66: pacifying2
+[22:50:44	][IC] C24:CpT.JURY-173: <:: Pacifying. ::>
+[22:51:29	][IC] C24:i3.UNION-66: <:: 422. ::>
+[22:51:31	][IC] C24:i3.UNION-66: <:: Sık sık dediği. ::>
+[22:51:32	][IC] C24:i3.UNION-66: <:: Ne kadar. ::>
+[22:51:35	][IC] C24:i3.UNION-66: <:: Nesnel olarak. ::>
+[22:51:58	][IC] C24:i3.UNION-66: <:: Şiddetli rehabilitasyon. ::>
+[22:52:33	][IC] C24:i3.UNION-66: <:: Kritik. ::>
+[22:52:45	][IC] C24:i3.UNION-66: <:: 2 kere ard arda mı. ::>
+[22:52:50	][IC] C24:i3.UNION-66: <:: 422. ::>
+[22:52:52	][IC] C24:i3.UNION-66: <:: Tamam. ::>
+[22:53:08	][IC] C24:i3.UNION-66: <:: Net bir sayı almak istedim boşuna pk olmasın diye. ::>
+[22:54:00	][IC] C24:i3.UNION-66: <:: Mesela. ::>
+[22:54:19	][IC] C24:i3.UNION-66: <:: 69K 505 ve 415B birisi. ::>
+[22:54:22	][IC] C24:i3.UNION-66: <:: 422 olur mu? ::>
+[22:55:09	][IC] C24:i3.UNION-66: <:: Evet. ::>
+[22:55:18	][IC] C24:i3.UNION-66: <:: Me ile yapıyorum. ::>
+[22:55:23	][IC] C24:i3.UNION-66: <:: En çok şöyle kullanıyorum. ::>
+[22:55:26	]C24:RL.XRAY-57 ran 'Equip' on item 'Combine PDA' (#13723)
+[22:55:32	][ME] C24:i3.UNION-66: kafasını geriye sertçe çekerek poşet geçirir
+[22:55:35	]C24:CpT.JURY-173 ran 'Equip' on item 'Combine PDA' (#13798)
+[22:55:49	][IC] C24:i3.UNION-66: <:: Evet. ::>
+[22:55:51	][IC] C24:i3.UNION-66: <:: Erişim yk. ::>
+[22:56:10	][IC] C24:i3.UNION-66: <:: Evet. ::>
+[22:56:50	][IC] C24:i3.UNION-66: <:: Birde. ::>
+[22:56:57	][IC] C24:i3.UNION-66: <:: Anti-citizen damgası. ::>
+[22:57:06	][IC] C24:i3.UNION-66: <:: Derhal amputasyon durumundaki kişilere mi. ::>
+[22:57:08	][IC] C24:i3.UNION-66: <:: Veriliyor. ::>
+[22:57:17	][IC] C24:i3.UNION-66: <:: Bol ve anti citizen var. ::>
+[22:57:47	][IC] C24:i3.UNION-66: <:: Derhal amputasyon. ::>
+[22:57:50	][IC] C24:i3.UNION-66: <:: Yetkim var mı? ::>
+[22:57:55	][IC] C24:i3.UNION-66: <:: Ben bol ekliyorum aranıyorsa. ::>
+[22:58:18	][IC] C24:CpT.JURY-173: <:: Pto. ::>
+[22:58:22	][IC] C24:RL.XRAY-57: <:: HTO. ::>
+[22:58:23	][IC] C24:CpT.JURY-173: <:: Hto. ::>
+[22:58:28	][IC] C24:i3.UNION-66: <:: Anti citizenlara karşı. ::>
+[22:58:32	][IC] C24:i3.UNION-66: <:: Derhal amputasyon mu. ::>
+[22:58:42	][IC] C24:i3.UNION-66: <:: Teslimde vurmam. ::>
+[22:58:44	][IC] C24:i3.UNION-66: <:: Ama kaçarsa. ::>
+[22:58:46	][IC] C24:i3.UNION-66: <:: Direnirse. ::>
+[22:58:48	][IC] C24:i3.UNION-66: <:: Tamamdır. ::>
+[22:59:08	][IC] C24:CpT.JURY-173: <:: Anti-citizen. ::>
+[22:59:12	][IC] C24:CpT.JURY-173: <:: Anti-citizen. ::>
+[22:59:16	][IC] C24:CpT.JURY-173: <:: You. ::>
+[22:59:26	][IC] C24:CpT.JURY-173: <:: Get out of here! ::>
+[22:59:29	][IC] C24:i3.UNION-66: <:: O zaman bize gidiyor. ::>
+[22:59:32	][IC] C24:i3.UNION-66: <:: Yakalanıyor. ::>
+[22:59:40	][IC] C24:i3.UNION-66: <:: Otomatta olur. ::>
+[22:59:41	][IC] C24:CpT.JURY-173: <:: Ayrıl burdan şimdi! ::>
+[22:59:48	][IC] C24:CpT.JURY-173: <:: Move back, right now! ::>
+[22:59:58	][IC] C24:i3.UNION-66: <:: Nihai karak uygulandı. ::>
+[23:00:08	][IC] C24:CpT.JURY-173: <:: Amputate. ::>
+[23:00:09	]C24:RL.XRAY-57 entered observer.
+[23:00:11	][IC] C24:CpT.JURY-173: <:: JURY. ::>
+[23:00:12	][IC] C24:CpT.JURY-173: <:: Judge. ::>
+[23:00:14	][IC] C24:i3.UNION-66: <:: Final verdict administered. ::>
+[23:00:15	]C24:RL.XRAY-57 exited observer at their location.
+[23:00:15	][IC] C24:CpT.JURY-173: <:: Helix. ::>
+[23:00:18	][IC] C24:CpT.JURY-173: <:: Helıx. ::>
+[23:00:20	][IC] C24:CpT.JURY-173: <:: HELIX. ::>
+[23:00:25	][IC] C24:CpT.JURY-173: <:: Unit. ::>
+[23:00:25	][IC] C24:i3.UNION-66: <:: Onlar kalkmış. ::>
+[23:00:26	]C24:RL.XRAY-57 entered observer.
+[23:00:32	][IC] C24:i3.UNION-66: <:: Evet. ::>
+[23:00:43	]C24:RL.XRAY-57 exited observer at their location.
+[23:00:59	][IC] C24:i3.UNION-66: <:: Talep cihazındadanda oluyor. ::>
+[23:01:10	][IC] C24:i3.UNION-66: <:: Cp ye at. ::>
+[23:01:15	]C24:i4.XRAY-91 used command '/Request test test test test'.
+[23:01:18	][IC] C24:i3.UNION-66: <:: Responding. ::>
+[23:02:09	][IC] C24:i3.UNION-66: <:: Veriliyor. ::>
+[23:02:15	][IC] C24:i3.UNION-66: <:: -1 atıyorum geri. ::>
+[23:02:50	][IC] C24:i3.UNION-66: <:: Eskiye döndürdüm. ::>
+[23:03:03	]C24:i3.UNION-66 used command '/PTCreate'.
+[23:03:05	]C24:i3.UNION-66 used command '/PTCreate 5'.
+[23:03:08	][IC] C24:i3.UNION-66: <:: 5 açtım. ::>
+[23:03:23	]C24:i3.UNION-66 used command '/PTLeave'.
+[23:03:48	]Hoo Lee Fuk loaded the character 'S10/ORD.HURRICANE-36'
+[23:03:51	][IC] C24:i3.UNION-66: <:: Hayır ama. ::>
+[23:03:54	][IC] C24:i3.UNION-66: <:: Sivilin rasyonunu. ::>
+[23:03:58	][IC] C24:i3.UNION-66: <:: Artırabiliyoruz galiba. ::>
+[23:04:11	]C24:RL.XRAY-57 used command '/PlyWhitelist jury ministry'.
+[23:04:15	]C24:RL.XRAY-57 used command '/PlyWhitelist jury protection'.
+[23:04:30	]C24:RL.XRAY-57 used command '/PlyWhitelist jury ministry of civil protection'.
+[23:04:35	]C24:RL.XRAY-57 used command '/PlyWhitelist jury cremator'.
+[23:04:49	]C24:RL.XRAY-57 used command '/PlyWhitelist jury overwatch'.
+[23:05:13	]C24:i3.UNION-66 has gained a '30rnd MP-şarjörü' #15663.
+[23:05:13	]C24:i3.UNION-66 has lost a '30rnd MP-şarjörü' #15653.
+[23:05:18	]C24:i3.UNION-66 has gained a '30rnd MP-şarjörü' #15653.
+[23:05:18	]C24:i3.UNION-66 has lost a '30rnd MP-şarjörü' #15663.
+[23:05:21	][IC] C24:i3.UNION-66: <:: Evet. ::>
+[23:06:20	]DavşanAbi created the character 'C24.CREMATOR:673'
+[23:06:20	]DavşanAbi loaded the character 'C24.CREMATOR:673'
+[23:06:29	][IC] C24:i3.UNION-66: <:: Bu arada rasyonlar çok iyi şuanda. ::>
+[23:06:51	][IC] C24:i3.UNION-66: <:: Normal vatandaşken ölmüyorsunda ama açlık hep ucunda kalıyor. ::>
+[23:06:59	][IC] C24:i3.UNION-66: <:: Skiller nerf yiyiyor. ::>
+[23:07:09	][IC] C24:i3.UNION-66: <:: Evet. ::>
+[23:07:20	][IC] C24:i3.UNION-66: <:: Hayır. ::>
+[23:07:24	][IC] C24:i3.UNION-66: <:: Title violation var. ::>
+[23:07:32	][IC] C24:i3.UNION-66: <:: Otomatik değil. ::>
+[23:07:45	][IC] C24:i3.UNION-66: <:: Title violation daha iyi oluyor. ::>
+[23:07:49	][IC] C24:i3.UNION-66: <:: Iş vardiyasında bakıyorum. ::>
+[23:08:10	]DavşanAbi loaded the character 'C24:CpT.JURY-173'
+[23:08:37	]S10/ORD.HURRICANE-36 used command '/CharSearch'.
+[23:08:40	]S10/ORD.HURRICANE-36 used command '/CharDesc'.
+[23:08:43	]S10/ORD.HURRICANE-36 used command '/CharDesc'.
+[23:08:47	][IC] C24:i3.UNION-66: <:: Dış görünüş yazıyorum ben. ::>
+[23:08:54	]C24:i3.UNION-66 used command '/CharDesc'.
+[23:09:22	][IC] C24:i3.UNION-66: <:: Birde anonim. ::>
+[23:09:23	]S10/ORD.HURRICANE-36 has changed S10/ORD.HURRICANE-36's bodygroups.
+[23:09:25	][IC] C24:i3.UNION-66: <:: Olduğumuzdan. ::>
+[23:09:26	]C24:RL.XRAY-57 has used a context menu option with the name: remove
+[23:09:27	]C24:RL.XRAY-57 has used a context menu option with the name: remove
+[23:09:27	][IC] C24:i3.UNION-66: <:: Açıklamayı. ::>
+[23:09:28	]C24:RL.XRAY-57 has used a context menu option with the name: remove
+[23:09:31	][IC] C24:i3.UNION-66: <:: Kısa yazıyorum. ::>
+[23:09:53	]DavşanAbi has unloaded their "C24:CpT.JURY-173" character.
+[23:09:59	]DavşanAbi loaded the character 'Noir Lime'
+[23:10:04	]C24:RL.XRAY-57 entered observer.
+[23:10:05	]C24:RL.XRAY-57 exited observer at their location.
+[23:10:06	]Noir Lime ran SAM command 'admin' with arguments: ''
+[23:10:07	]C24:RL.XRAY-57 ran SAM command 'bring' with arguments: 'noir'
+[23:10:13	]C24:i3.UNION-66 used command '/CharDesc'.
+[23:10:14	]Noir Lime ran SAM command 'unadmin' with arguments: ''
+[23:10:19	][IC] C24:RL.XRAY-57: <:: A. ::>
+[23:10:20	]S10/ORD.HURRICANE-36 used command '/Punch'.
+[23:10:24	][IC] S10/ORD.HURRICANE-36: <:: Get down! ::>
+[23:10:26	][IC] S10/ORD.HURRICANE-36: <:: Get down! ::>
+[23:10:43	][IC] C24:i3.UNION-66: <:: Hayır. ::>
+[23:10:45	][IC] C24:i3.UNION-66: <:: Sivilken. ::>
+[23:10:48	][IC] C24:i3.UNION-66: <:: Geçiyorum. ::>
+[23:10:51	][IC] C24:i3.UNION-66: <:: Hayır. ::>
+[23:10:54	]Scientist has unloaded their "C24:i3.UNION-66" character.
+[23:10:59	]Scientist loaded the character 'Albert Black'
+[23:11:02	][IC] Albert Black: Aha.
+[23:11:03	]C24:RL.XRAY-57 ran SAM command 'bring' with arguments: 'albert'
+[23:11:03	]Noir Lime ran SAM command 'bring' with arguments: 'albert'
+[23:11:04	][IC] Albert Black: O bu g oldu.
+[23:11:08	][IC] Albert Black: Nexusta doğdum.
+[23:11:10	][IC] Albert Black: Evet.
+[23:11:13	][IC] Albert Black: Isim yok.
+[23:11:14	][IC] Albert Black: Ama.
+[23:11:17	][IC] Albert Black: Açıklama var.
+[23:11:20	][IC] Albert Black: Birde bir bug var.
+[23:11:25	][IC] Albert Black: Hayır.
+[23:11:28	][IC] S10/ORD.HURRICANE-36: <:: Copy that. ::>
+[23:11:35	][IC] Albert Black: Başka karakterin olduğu yerde doğuyorsun bazen.
+[23:11:36	][IC] S10/ORD.HURRICANE-36: <:: Copy, accepted. Updating cognitive suppression biodats. Update complete in t-minus three seconds. Dissonance resolved. ::>
+[23:11:43	][IC] Albert Black: Şimdi nexusta doğdum.
+[23:11:44	]C24:RL.XRAY-57 is fully healed.
+[23:11:46	][IC] Albert Black: Mewoyada bir kere olmuştu.
+[23:11:57	][IC] Albert Black: Bilinmeyen.
+[23:12:03	][IC] S10/ORD.HURRICANE-36: <:: Get down! ::>
+[23:12:03	][IC] Albert Black: Açıklama var.
+[23:12:08	][IC] Albert Black: Açıklamaya. Koyaırm ben.
+[23:12:08	][IC] C24:RL.XRAY-57: <:: Flash. ::>
+[23:12:11	][IC] Albert Black: Anonimlik için.
+[23:12:14	]C24:RL.XRAY-57 ran SAM command 'return' with arguments: 'albert'
+[23:12:15	]C24:RL.XRAY-57 entered observer.
+[23:12:21	]C24:RL.XRAY-57 ran SAM command 'bring' with arguments: 'albert'
+[23:12:22	][IC] S10/ORD.HURRICANE-36: <:: Bravo. ::>
+[23:12:27	][IC] S10/ORD.HURRICANE-36: <:: Get down! ::>
+[23:12:29	]S10/ORD.HURRICANE-36 used command '/Punch'.
+[23:12:31	]Scientist has unloaded their "Albert Black" character.
+[23:12:31	][IC] S10/ORD.HURRICANE-36: <:: Stop. ::>
+[23:12:32	]S10/ORD.HURRICANE-36 used command '/Punch'.
+[23:12:33	]C24:RL.XRAY-57 exited observer at their location.
+[23:12:33	]Noir Lime was just knocked out due to: hit by punch command used by S10/ORD.HURRICANE-36
+[23:12:35	]Scientist loaded the character 'C24:i3.UNION-66'
+[23:12:38	]C24:i3.UNION-66 used command '/CharDesc'.
+[23:12:44	]S10/ORD.HURRICANE-36 has lost a '30rnd Pulse-Şarjörü' #16724.
+[23:12:44	]S10/ORD.HURRICANE-36 has gained a '30rnd Pulse-Şarjörü' #16723.
+[23:12:47	]S10/ORD.HURRICANE-36 has gained a '30rnd Pulse-Şarjörü' #16724.
+[23:12:47	]S10/ORD.HURRICANE-36 has lost a '30rnd Pulse-Şarjörü' #16723.
+[23:12:54	]Noir Lime used command '/CharGetUp'.
+[23:12:56	]C24:i3.UNION-66 used command '/CharDesc'.
+[23:12:59	]Noir Lime ran SAM command 'hp' with arguments: 'Noir' '200'
+[23:13:00	]Noir Lime used command '/CharGetUp'.
+[23:13:01	]Noir Lime used command '/CharGetUp'.
+[23:13:02	]Noir Lime used command '/CharGetUp'.
+[23:13:04	]Noir Lime is fully healed.
+[23:13:07	]C24:RL.XRAY-57 entered observer.
+[23:13:09	]DavşanAbi has unloaded their "Noir Lime" character.
+[23:13:11	]C24:RL.XRAY-57 exited observer at their location.
+[23:13:13	]DavşanAbi loaded the character 'C24:CpT.JURY-173'
+[23:13:15	][IC] S10/ORD.HURRICANE-36: <:: Hm. ::>
+[23:13:29	][IC] C24:i3.UNION-66: <:: Biliyorum. ::>
+[23:13:30	][IC] C24:i3.UNION-66: <:: Burayı. ::>
+[23:13:36	][IC] C24:i3.UNION-66: <:: Kontrol. ::>
+[23:13:37	][IC] C24:i3.UNION-66: <:: Noktası. ::>
+[23:14:07	]C24:RL.XRAY-57 entered observer.
+[23:14:07	]C24:RL.XRAY-57 exited observer at their location.
+[23:14:15	][IC] C24:i3.UNION-66: <:: Ben bunu yazdım. ::>
+[23:14:57	]S10/ORD.HURRICANE-36 has gained a '30rnd Pulse-Şarjörü' #16723.
+[23:14:57	]S10/ORD.HURRICANE-36 has lost a '30rnd Pulse-Şarjörü' #16724.
+[23:15:02	]S10/ORD.HURRICANE-36 has gained a '30rnd Pulse-Şarjörü' #16724.
+[23:15:02	]S10/ORD.HURRICANE-36 has lost a '30rnd Pulse-Şarjörü' #16723.
+[23:15:11	][IC] C24:i3.UNION-66: <:: Oda işte. ::>
+[23:15:17	][IC] C24:i3.UNION-66: <:: Kanalizasyon. ::>
+[23:15:27	]C24:i3.UNION-66 has gained level 18 in the Hız skill.
+[23:15:30	]S10/ORD.HURRICANE-36 has gained a '30rnd Pulse-Şarjörü' #16723.
+[23:15:30	]S10/ORD.HURRICANE-36 has lost a '30rnd Pulse-Şarjörü' #16724.
+[23:15:37	][IC] C24:i3.UNION-66: <:: Burada 2 pt iken. ::>
+[23:15:40	][IC] C24:i3.UNION-66: <:: 1 pt sıfırlanmıştı. ::>
+[23:15:46	][IC] C24:i3.UNION-66: <:: Koşa koşa kaçmıştık buraya. ::>
+[23:15:57	]C24:RL.XRAY-57 entered observer.
+[23:15:57	]C24:RL.XRAY-57 exited observer at their location.
+[23:15:58	]C24:RL.XRAY-57 entered observer.
+[23:16:04	]C24:RL.XRAY-57 exited observer at their location.
+[23:16:07	]C24:CpT.JURY-173 ran SAM command 'goto' with arguments: '66'
+[23:16:15	]C24:RL.XRAY-57 ran SAM command 'bring' with arguments: 'hurricane'
+[23:16:16	]C24:CpT.JURY-173 ran SAM command 'bring' with arguments: '36'
+[23:16:19	]C24:RL.XRAY-57 entered observer.
+[23:16:21	]C24:RL.XRAY-57 ran SAM command 'bring' with arguments: 'hurricane'
+[23:16:22	]C24:RL.XRAY-57 exited observer at their location.
+[23:16:24	]C24:CpT.JURY-173 ran SAM command 'bring' with arguments: '36'
+[23:16:29	][IC] C24:i3.UNION-66: <:: Patroller. ::>
+[23:16:35	][IC] C24:i3.UNION-66: <:: Değil. ::>
+[23:17:10	]C24:CpT.JURY-173 ran SAM command 'bring' with arguments: '36'
+[23:17:11	]S10/ORD.HURRICANE-36 has taken 45 damage from worldspawn.
+[23:17:23	]C24:RL.XRAY-57 entered observer.
+[23:17:24	]C24:RL.XRAY-57 ran SAM command 'bring' with arguments: 'hurricane'
+[23:17:25	][IC] C24:CpT.JURY-173: <:: Move back, right now! ::>
+[23:17:25	]C24:RL.XRAY-57 exited observer at their location.
+[23:17:36	]C24:RL.XRAY-57 entered observer.
+[23:17:36	]C24:RL.XRAY-57 exited observer at their location.
+[23:17:36	]C24:CpT.JURY-173 ran SAM command 'hp' with arguments: '36' '150'
+[23:17:43	]S10/ORD.HURRICANE-36 is fully healed.
+[23:17:55	][IC] C24:i3.UNION-66: <:: Kodes. ::>
+[23:18:21	]C24:RL.XRAY-57 entered observer.
+[23:18:23	]C24:RL.XRAY-57 exited observer at their location.
+[23:18:29	][IC] C24:i3.UNION-66: <:: Nova. ::>
+[23:18:34	][IC] C24:i3.UNION-66: <:: PROspeke tren var. ::>
+[23:18:40	][IC] C24:i3.UNION-66: <:: Rogue cp göndermiştik. ::>
+[23:18:49	]C24:CpT.JURY-173 ran SAM command 'admin' with arguments: ''
+[23:18:50	]C24:RL.XRAY-57 entered observer.
+[23:18:58	]C24:RL.XRAY-57 exited observer at their location.
+[23:19:13	][IC] C24:i3.UNION-66: <:: Evet. ::>
+[23:19:18	]C24:i3.UNION-66 ran 'EquipUn' on item 'MP5A3' (#15649)
+[23:19:18	]C24:i3.UNION-66 has gained a '30rnd MP-şarjörü' #15663.
+[23:19:18	]C24:i3.UNION-66 ran 'EquipUn' on item 'Stunstick' (#14559)
+[23:19:19	]C24:i3.UNION-66 ran 'EquipUn' on item 'Combine PDA' (#14475)
+[23:19:21	]C24:i3.UNION-66 ran 'Equip' on item 'Stunstick' (#14559)
+[23:19:22	]C24:i3.UNION-66 ran 'Equip' on item 'Combine PDA' (#14475)
+[23:19:22	]C24:i3.UNION-66 ran 'Equip' on item 'MP5A3' (#15649)
+[23:19:28	][IC] C24:i3.UNION-66: <:: Yeme. ::>
+[23:19:29	][IC] C24:i3.UNION-66: <:: K. ::>
+[23:19:40	]C24:RL.XRAY-57 has acquired his ration, gaining 0 credits, 0 wages and a civil_protection_ration ration.
+[23:19:42	]C24:CpT.JURY-173 ran SAM command 'unadmin' with arguments: ''
+[23:19:46	]C24:CpT.JURY-173 ran SAM command 'admin' with arguments: ''
+[23:19:50	]C24:CpT.JURY-173 ran SAM command 'unadmin' with arguments: ''
+[23:19:53	]C24:RL.XRAY-57 ran 'Open' on item 'Sivil Koruma Rasyonu' (#18229)
+[23:19:53	]C24:RL.XRAY-57 has gained a 'Metropolice Takviyeleri' #18230.
+[23:19:53	]C24:RL.XRAY-57 has gained a 'Soda Bob Brawn' #18231.
+[23:19:53	]C24:RL.XRAY-57 has gained a '20 Kredi Kuponu' #18232.
+[23:19:54	][IC] C24:i3.UNION-66: <:: Kapat açma shift e herşeyte. ::>
+[23:19:56	][IC] C24:i3.UNION-66: <:: Combine lockta. ::>
+[23:19:56	]C24:RL.XRAY-57 ran 'Consume' on item 'Soda Bob Brawn' (#18231)
+[23:19:56	]C24:RL.XRAY-57 has gained a level 1 long boost in Algı.
+[23:19:56	]C24:RL.XRAY-57 has gained a level 2 long boost in Çeviklik.
+[23:19:56	]C24:RL.XRAY-57 ran 'Consume' on item 'Metropolice Takviyeleri' (#18230)
+[23:19:56	]C24:RL.XRAY-57 has gained a level 3 long boost in Güç.
+[23:20:00	][IC] C24:i3.UNION-66: <:: Evet. ::>
+[23:20:03	]C24:CpT.JURY-173 has turned a ration dispenser off.
+[23:20:04	][IC] C24:i3.UNION-66: <:: Otomatik. ::>
+[23:20:05	]S10/ORD.HURRICANE-36 has turned a ration dispenser on.
+[23:20:09	][IC] C24:i3.UNION-66: <:: Loyalistede farklı veriyor. ::>
+[23:20:19	]C24:CpT.JURY-173 has acquired his ration, gaining 0 credits, 0 wages and a civil_protection_ration ration.
+[23:20:25	][IC] C24:i3.UNION-66: <:: Ahil kapısı mı. ::>
+[23:20:27	][IC] C24:i3.UNION-66: <:: Sahil. ::>
+[23:20:30	]C24:RL.XRAY-57 has turned a ration dispenser off.
+[23:20:32	]C24:CpT.JURY-173 ran 'take' on item 'Sivil Koruma Rasyonu' (#18233)
+[23:20:32	]C24:CpT.JURY-173 has gained a 'Sivil Koruma Rasyonu' #18233.
+[23:20:40	]C24:RL.XRAY-57 has turned a ration dispenser on.
+[23:20:41	]C24:RL.XRAY-57 entered observer.
+[23:20:43	]C24:CpT.JURY-173 ran SAM command 'admin' with arguments: ''
+[23:20:48	]C24:RL.XRAY-57 exited observer at their location.
+[23:20:50	]C24:CpT.JURY-173 ran SAM command 'unadmin' with arguments: ''
+[23:20:50	]C24:RL.XRAY-57 ran SAM command 'bring' with arguments: 'i3'
+[23:20:51	]C24:CpT.JURY-173 has turned a ration dispenser off.
+[23:20:52	]C24:RL.XRAY-57 ran SAM command 'bring' with arguments: 'ord'
+[23:20:54	]C24:RL.XRAY-57 ran SAM command 'bring' with arguments: 'cpt'
+[23:21:16	]C24:CpT.JURY-173 ran 'Open' on item 'Sivil Koruma Rasyonu' (#18233)
+[23:21:16	]C24:CpT.JURY-173 has gained a 'Metropolice Takviyeleri' #18234.
+[23:21:16	]C24:CpT.JURY-173 has gained a 'Soda Bob Brawn' #18235.
+[23:21:16	]C24:CpT.JURY-173 has gained a '20 Kredi Kuponu' #18236.
+[23:21:42	]C24:CpT.JURY-173 ran SAM command 'admin' with arguments: ''
+[23:21:46	][IC] C24:i3.UNION-66: <:: ADminister yeri. ::>
+[23:21:47	][IC] C24:i3.UNION-66: <:: Kötü ama. ::>
+[23:21:50	][IC] C24:i3.UNION-66: <:: Adamın ayağı kaysa. ::>
+[23:21:54	]C24:CpT.JURY-173 ran SAM command 'admin' with arguments: ''
+[23:22:11	][OOC] C24:i3.UNION-66: administer yeri kötü ama administerın ayağı kaysa ölecek
+[23:22:13	]C24:RL.XRAY-57 entered observer.
+[23:22:14	]C24:RL.XRAY-57 exited observer at their location.
+[23:22:15	]C24:RL.XRAY-57 entered observer.
+[23:22:15	]C24:RL.XRAY-57 exited observer at their location.
+[23:22:22	]C24:CpT.JURY-173 ran SAM command 'unadmin' with arguments: ''
+[23:22:44	]C24:CpT.JURY-173 ran 'Consume' on item 'Soda Bob Brawn' (#18235)
+[23:22:44	]C24:CpT.JURY-173 has wasted a level 1 long boost in Algı (current: 0; target: 5).
+[23:22:44	]C24:CpT.JURY-173 has wasted a level 2 long boost in Çeviklik (current: 0; target: 2).
+[23:22:45	]C24:CpT.JURY-173 ran 'Consume' on item 'Metropolice Takviyeleri' (#18234)
+[23:22:45	]C24:CpT.JURY-173 has gained a level 3 long boost in Güç.
+[23:22:49	]C24:RL.XRAY-57 entered observer.
+[23:22:52	]C24:RL.XRAY-57 exited observer at their location.
+[23:23:01	]C24:RL.XRAY-57 entered observer.
+[23:23:06	]C24:RL.XRAY-57 exited observer at their location.
+[23:23:15	]C24:RL.XRAY-57 entered observer.
+[23:23:16	]C24:RL.XRAY-57 exited observer at their location.
+[23:23:29	]C24:RL.XRAY-57 entered observer.
+[23:23:30	]C24:RL.XRAY-57 exited observer at their location.
+[23:23:36	]C24:RL.XRAY-57 entered observer.
+[23:23:37	]S10/ORD.HURRICANE-36 opened the 'Locker' #2314 container.
+[23:23:38	]S10/ORD.HURRICANE-36 closed the 'Locker' #2314 container.
+[23:23:39	]S10/ORD.HURRICANE-36 opened the 'Locker' #2315 container.
+[23:23:40	]S10/ORD.HURRICANE-36 closed the 'Locker' #2315 container.
+[23:23:50	]Victorian has connected.
+[23:23:51	][OOC] C24:i3.UNION-66: konuşma yerini buldum
+[23:23:58	]C24:CpT.JURY-173 ran SAM command 'goto' with arguments: '66'
+[23:24:01	]C24:RL.XRAY-57 exited observer at their location.
+[23:24:01	]S10/ORD.HURRICANE-36 has gained level 44 in the Hız skill.
+[23:24:02	]C24:RL.XRAY-57 entered observer.
+[23:24:10	][IC] C24:i3.UNION-66: <:: En üste administer vardı. ::>
+[23:24:14	][IC] C24:i3.UNION-66: <:: Köprü var. ::>
+[23:24:21	][IC] C24:i3.UNION-66: <:: Administerın ayağı kaysa. ::>
+[23:24:22	]C24:RL.XRAY-57 ran SAM command 'bring' with arguments: 'ord'
+[23:24:23	][IC] C24:i3.UNION-66: <:: Ölecek. ::>
+[23:24:41	][IC] C24:i3.UNION-66: <:: Administer yeri dışında güzel map. ::>
+[23:24:45	]C24:CpT.JURY-173 ran SAM command 'admin' with arguments: ''
+[23:24:59	][OOC] C24:i3.UNION-66: köprüsü kötü ayağı kaysa ölecek
+[23:25:06	]C24:RL.XRAY-57 exited observer at their location.
+[23:25:11	]C24:RL.XRAY-57 entered observer.
+[23:25:21	][IC] C24:i3.UNION-66: <:: Evet. ::>
+[23:25:29	]C24:RL.XRAY-57 exited observer at their location.
+[23:25:40	]C24:RL.XRAY-57 entered observer.
+[23:25:52	][ME] C24:i3.UNION-66: tuşlara rasgele basar
+[23:25:57	]C24:RL.XRAY-57 exited observer at their location.
+[23:26:00	]C24:RL.XRAY-57 entered observer.
+[23:26:01	][IC] C24:i3.UNION-66: <:: Köprüsü kötü ama. ::>
+[23:26:05	]Victorian loaded the character 'Alexander Ivanov'
+[23:26:07	][IC] C24:i3.UNION-66: <:: AYAĞı kaysa. ::>
+[23:26:08	]C24:RL.XRAY-57 exited observer at their location.
+[23:26:16	]Alexander Ivanov entered observer.
+[23:26:21	][IC] C24:i3.UNION-66: <:: Burada nedwen böyle köprü var ki. ::>
+[23:26:25	]C24:RL.XRAY-57 entered observer.
+[23:26:32	][IC] C24:i3.UNION-66: <:: Ölür. ::>
+[23:26:37	]Alexander Ivanov exited observer at their location.
+[23:26:38	]Alexander Ivanov entered observer.
+[23:26:42	]Alexander Ivanov exited observer at their location.
+[23:26:51	][IC] C24:i3.UNION-66: <:: Ooh başkanım gelin. ::>
+[23:26:54	]Alexander Ivanov entered observer.
+[23:27:13	]Alexander Ivanov used command '/Event beyler 1 - 2 prop koycam sokaklara sıkıntı olur mu'.
+[23:27:18	][OOC] C24:RL.XRAY-57: yok olmaz
+[23:27:18	][IC] C24:CpT.JURY-173: <:: !unadimn. ::>
+[23:27:21	]C24:CpT.JURY-173 ran SAM command 'unadmin' with arguments: ''
+[23:27:22	][OOC] C24:RL.XRAY-57: lazım zaten
+[23:27:24	]C24:i3.UNION-66 ran 'EquipUn' on item 'MP5A3' (#15649)
+[23:27:25	]C24:i3.UNION-66 ran 'EquipUn' on item 'Combine PDA' (#14475)
+[23:27:26	]C24:i3.UNION-66 ran 'EquipUn' on item 'Stunstick' (#14559)
+[23:27:31	][OOC] C24:RL.XRAY-57: sokaklara çer çöp koymak lazım
+[23:27:35	][OOC] Alexander Ivanov: willardaki gibi detaylı yerler lazım, etraf çok sade
+[23:27:38	][OOC] C24:RL.XRAY-57: evet
+[23:27:45	]C24:CpT.JURY-173 ran SAM command 'unadmin' with arguments: ''
+[23:27:47	][IC] C24:i3.UNION-66: Herkese salam.
+[23:27:48	]C24:CpT.JURY-173 ran SAM command 'admin' with arguments: ''
+[23:27:49	][IC] C24:i3.UNION-66: 33 yaşım var.
+[23:27:56	][IC] C24:i3.UNION-66: Kırdın.
+[23:27:58	][IC] C24:i3.UNION-66: Kamerayı.
+[23:28:00	]C24:RL.XRAY-57 ran SAM command 'goto' with arguments: 'cpt'
+[23:28:02	]C24:RL.XRAY-57 exited observer at their location.
+[23:28:05	]C24:CpT.JURY-173 ran SAM command 'unadmin' with arguments: ''
+[23:28:18	]C24:RL.XRAY-57 entered observer.
+[23:28:29	][IC] C24:i3.UNION-66: Kayıt mı.
+[23:28:39	][IC] C24:i3.UNION-66: Ben politikacı değilim.
+[23:28:39	]C24:RL.XRAY-57 ran SAM command 'goto' with arguments: 'cpt'
+[23:28:43	][IC] C24:i3.UNION-66: Ben bir bilim insanıyım.
+[23:28:45	][IC] C24:i3.UNION-66: Kestik.
+[23:28:47	]S10/ORD.HURRICANE-36 used command '/Punch'.
+[23:28:48	]C24:i3.UNION-66 was just knocked out due to: hit by punch command used by S10/ORD.HURRICANE-36
+[23:28:48	][IC] C24:i3.UNION-66: Ses gidiyor mu.
+[23:28:52	][IC] C24:i3.UNION-66: Ow!
+[23:28:54	][IC] C24:i3.UNION-66: Ugh!
+[23:28:56	][IC] C24:i3.UNION-66: Ugh!
+[23:28:58	][IC] C24:i3.UNION-66: Agh!
+[23:29:00	]S10/ORD.HURRICANE-36 has gained a '30rnd Pulse-Şarjörü' #16724.
+[23:29:00	]S10/ORD.HURRICANE-36 has lost a '30rnd Pulse-Şarjörü' #16723.
+[23:29:00	][IC] C24:i3.UNION-66: Ugh!
+[23:29:02	][IC] C24:i3.UNION-66: Hugh!
+[23:29:06	][IC] C24:i3.UNION-66: Augh!
+[23:29:08	][IC] C24:i3.UNION-66: Ugh!
+[23:29:10	][IC] C24:i3.UNION-66: Ugh!
+[23:29:13	][IC] C24:i3.UNION-66: Agh!
+[23:29:15	]Hoo Lee Fuk loaded the character 'John Brookly'
+[23:29:16	][IC] C24:i3.UNION-66: Pain11.
+[23:29:21	]C24:CpT.JURY-173 ran SAM command 'bring' with arguments: 'John'
+[23:29:25	]John Brookly ran 'drop' on item 'Yayın Cihazı' (#16744)
+[23:29:25	]John Brookly has lost a 'Yayın Cihazı' #16744.
+[23:29:25	][IC] C24:i3.UNION-66: Ugh!
+[23:29:28	]John Brookly ran 'take' on item 'Yayın Cihazı' (#16744)
+[23:29:28	]John Brookly has gained a 'Yayın Cihazı' #16744.
+[23:29:35	]John Brookly used command '/Broadcast Herkese Merhaba!'.
+[23:29:41	]John Brookly ran 'Equip' on item 'FiveSeven' (#15938)
+[23:29:42	]John Brookly has lost a '20rnd FiveSeven-şarjörü' #17505.
+[23:29:45	]John Brookly has gained a '20rnd FiveSeven-şarjörü' #17505.
+[23:29:45	]John Brookly has lost a '20rnd FiveSeven-şarjörü' #16894.
+[23:30:03	]C24:RL.XRAY-57 exited observer at their location.
+[23:30:07	]John Brookly ran 'EquipUn' on item 'FiveSeven' (#15938)
+[23:30:07	]John Brookly has gained a '20rnd FiveSeven-şarjörü' #16894.
+[23:30:09	]John Brookly ran 'clearChamber' on item 'FiveSeven' (#15938)
+[23:30:09	]John Brookly has gained a '9mm Tabanca Mermisi' #18237.
+[23:30:10	]John Brookly ran 'combine' on item '20rnd FiveSeven-şarjörü' (#17505)
+[23:30:23	]C24:RL.XRAY-57 used command '/CharSetName i3 C24:i3.UNION-66[E]'.
+[23:30:28	]C24:CpT.JURY-173 ran SAM command 'return' with arguments: 'John'
+[23:30:29	][IC] C24:i3.UNION-66[E]: <:: . ::>
+[23:30:31	][IC] C24:i3.UNION-66[E]: <:: Iyi. ::>
+[23:30:36	]Hoo Lee Fuk loaded the character 'C24:i4.XRAY-91'
+[23:30:43	]C24:RL.XRAY-57 ran SAM command 'bring' with arguments: 'xray'
+[23:30:53	]C24:RL.XRAY-57 used command '/CharSetName i4 C24:i4.XRAY-91[E]'.
+[23:31:09	]Victorian (STEAM_0:0:577700614) has disconnected (timed out).
+[23:31:11	]C24:i3.UNION-66[E] has changed C24:i3.UNION-66[E]'s bodygroups.
+[23:31:41	][IC] C24:i3.UNION-66[E]: <:: He. ::>
+[23:31:52	]C24:RL.XRAY-57 used command '/CharSetName i4 C24:i3.XRAY-91[E]'.
+[23:32:09	][IC] C24:i3.UNION-66[E]: <:: Komuta birimi olursam taklaya gelirim şuan. ::>
+[23:32:17	][IC] C24:i3.UNION-66[E]: <:: Birde. ::>
+[23:32:20	][IC] C24:i3.UNION-66[E]: <:: 3. şahıs. ::>
+[23:32:25	][IC] C24:i3.UNION-66[E]: <:: Fener gelir mi? ::>
+[23:32:33	][IC] C24:i3.UNION-66[E]: <:: Biri atmıştı. ::>
+[23:32:35	][IC] C24:i3.UNION-66[E]: <:: Öneriye. ::>
+[23:32:35	]DavşanAbi (STEAM_0:0:100418262) has disconnected.
+[23:32:49	]Scientist has unloaded their "C24:i3.UNION-66[E]" character.
+[23:32:53	]Scientist loaded the character 'C24:i3.UNION-66[E]'
+[23:33:00	]C24:i3.XRAY-91[E] ran 'Open' on item 'Sivil Koruma Rasyonu' (#18061)
+[23:33:00	]C24:i3.XRAY-91[E] has gained a 'Metropolice Takviyeleri' #18238.
+[23:33:00	]C24:i3.XRAY-91[E] has gained a 'Soda Bob Brawn' #18239.
+[23:33:00	]C24:i3.XRAY-91[E] has gained a '20 Kredi Kuponu' #18240.
+[23:33:01	]C24:i3.XRAY-91[E] ran 'Consume' on item 'Soda Bob Brawn' (#18239)
+[23:33:01	]C24:i3.XRAY-91[E] extended their level 1 long boost in Algı.
+[23:33:01	]C24:i3.XRAY-91[E] extended their level 2 long boost in Çeviklik.
+[23:33:02	]C24:i3.XRAY-91[E] ran 'Consume' on item 'Metropolice Takviyeleri' (#18238)
+[23:33:02	]C24:i3.XRAY-91[E] extended their level 3 long boost in Güç.
+[23:33:25	][IC] C24:i3.UNION-66[E]: <:: Tamamdır. ::>
+[23:34:24	]C24:i3.UNION-66[E] ran 'Equip' on item 'Stunstick' (#14559)
+[23:34:27	]C24:i3.UNION-66[E] ran 'Equip' on item 'Combine PDA' (#14475)
+[23:34:28	]C24:i3.UNION-66[E] ran 'Equip' on item 'MP5A3' (#15649)
+[23:36:45	]C24:RL.XRAY-57 entered observer.
+[23:36:51	][IC] C24:i3.UNION-66[E]: <:: -. ::>
+[23:36:51	]C24:RL.XRAY-57 ran SAM command 'bring' with arguments: 'xray'
+[23:36:53	]C24:RL.XRAY-57 ran SAM command 'bring' with arguments: 'union'
+[23:37:01	][IC] C24:i3.UNION-66[E]: <:: Evet. ::>
+[23:37:04	][IC] C24:i3.UNION-66[E]: <:: Eskiden grid idim. ::>
+[23:37:08	][IC] C24:i3.UNION-66[E]: <:: Şuanda vice. ::>
+[23:37:20	]C24:RL.XRAY-57 used command '/CharSetName union C24:i3.VICE-66[E]'.
+[23:37:35	][IC] C24:i3.VICE-66[E]: <:: . ::>
+[23:38:06	]C24:RL.XRAY-57 exited observer at their location.
+[23:38:25	]C24:i3.XRAY-91[E] ran 'Convert' on item 'Spoiled Premium Breen'in Suyu' (#12926)
+[23:38:25	]C24:i3.XRAY-91[E] has gained a 'Üretim Bileşenleri Tabanı' #18241.
+[23:38:27	]C24:RL.XRAY-57 has used a context menu option with the name: remove
+[23:38:28	]Container 'unknown' removed (inv #0; model: error) with 0 chips and items:  Sigara (#12788); Sigara (#12805); Spoiled Tuzlu Yer Fıstığı (#12954); Sigara (#12885); Sigara (#12772); Sigara (#12797); Sigara (#12898); Sigara (#12894); Sigara (#12789); Sigara (#12806); Sigara (#12897); Sigara (#12886); Spoiled Pişmiş Erişte (#12918); Spoiled Tuzlu Yer Fıstığı (#12951); Sigara (#12893); Sigara (#12895); Sigara (#12774); Sigara (#12807); Sigara (#12899); Sigara (#12887); Sigara (#12896); Spoiled Tuzlu Yer Fıstığı (#12952); Sigara (#12900); Spoiled Sandviç (#12759); Sigara (#12775); Sigara (#12808); Sigara (#12870); Sigara (#12888); Spoiled Tuzlu Yer Fıstığı (#12957); Spoiled Simit (#12937); Sigara (#12791); Spoiled Sandviç (#12760); Sigara (#12776); Sigara (#12809); Goodfella Puro (#12857); Sigara (#12889); Sigara (#12798); Spoiled Simit (#12938); Spoiled Sandviç (#12762); Spoiled Sandviç (#12761); Sigara (#12793); Sigara (#12810); Goodfella Puro (#12858); Premium Breen'in Suyu (#17430); Spoiled Pişmiş Erişte (#12906); Spoiled Tuzlu Yer Fıstığı (#12955); Spoiled Tuzlu Yer Fıstığı (#12956); Premium Breen'in Suyu (#17431); Sigara (#12794); Spoiled Çivili Fincan Kahve (#12943); Goodfella Puro (#12859); Sigara (#12891); Spoiled Premium Breen'in Suyu (#12923); Spoiled Çivili Fincan Kahve (#12940); Spoiled Pişmiş Erişte (#12907); Premium Breen'in Suyu (#17433); Sigara (#12779); Sigara (#12874); Goodfella Puro (#12860); Premium Breen'in Suyu (#17434); Sigara (#12873); Spoiled Çivili Fincan Kahve (#12941); Sigara (#12869); Sigara (#12871); Sigara (#12796); Sigara (#12875); Sigara (#12872); Sigara (#12877); Sigara (#12876); Spoiled Tuzlu Yer Fıstığı (#12958); Spoiled Sandviç (#12763); Spoiled Sandviç (#12765); Sigara (#12781); Spoiled Çivili Fincan Kahve (#12948); Sigara (#12771); Sigara (#12878); Sigara (#12780); Spoiled Tuzlu Yer Fıstığı (#12959); Spoiled Çivili Fincan Kahve (#12942); Goodfella Puro (#12766); Sigara (#12782); Sigara (#12773); Sigara (#12795); Sigara (#12879); Spoiled Pişmiş Erişte (#12911); Spoiled Tuzlu Yer Fıstığı (#12953); Sigara (#12890); Goodfella Puro (#12767); Sigara (#12783); Sigara (#12800); Sigara (#12892); Sigara (#12880); Spoiled Pişmiş Erişte (#12912); Spoiled Çivili Fincan Kahve (#12945); 1x Spoiled Süt İkamesi (#12961); Goodfella Puro (#12769); Sigara (#12784); Sigara (#12801); Goodfella Puro (#12768); Sigara (#12881); Spoiled Pişmiş Erişte (#12913); Spoiled Çivili Fincan Kahve (#12946); 1x Spoiled Süt İkamesi (#12962); Sigara (#12777); Sigara (#12785); Sigara (#12802); Sigara (#12790); Sigara (#12882); Spoiled Pişmiş Erişte (#12914); Spoiled Çivili Fincan Kahve (#12947); 1x Spoiled Süt İkamesi (#12963); Sigara (#12778); Sigara (#12786); Sigara (#12803); Sigara (#12799); Sigara (#12883); Spoiled Pişmiş Erişte (#12915); Spoiled Simit (#12932); 1x Spoiled Süt İkamesi (#12964); Sigara (#12792); Sigara (#12787); Sigara (#12804); Goodfella Puro (#12770); Sigara (#12884); Spoiled Pişmiş Erişte (#12916); Spoiled Simit (#12933); 1x Spoiled Süt İkamesi (#12965);
+[23:38:32	]C24:RL.XRAY-57 used command '/TextRemove'.
+[23:38:33	]C24:RL.XRAY-57 entered observer.
+[23:38:34	]C24:i3.XRAY-91[E] ran 'drop' on item 'Üretim Bileşenleri Tabanı' (#18241)
+[23:38:34	]C24:i3.XRAY-91[E] has lost a 'Üretim Bileşenleri Tabanı' #18241.
+[23:38:36	][IC] C24:i3.VICE-66[E]: <:: Oradan almıyorum 1 kere aldım smb karakterinde boşa gitti. ::>
+[23:38:47	]C24:RL.XRAY-57 has used a context menu option with the name: remove
+[23:38:48	]Container 'unknown' removed (inv #0; model: error) with 0 chips and items:  Soda Bob Enerji (#14033); Köpüklü Breen Suyu (#13953); Evrensel Birlik Çikolatası (#14050); Soda Bob Enerji (#14034); Köpüklü Breen Suyu (#13954); Evrensel Birlik Çikolatası (#14051); Soda Bob Enerji (#14035); Evrensel Birlik Çikolatası (#13971); Evrensel Birlik Çikolatası (#14052); Soda Bob Enerji (#14036); Patates Cipsi (#13972); Köpüklü Breen Suyu (#13949); Patates Cipsi (#14046); Soda Bob Enerji (#14037); Patates Cipsi (#14045); Bank Sodası C24 (#14042); Breen'in Suyu (#13957); Patates Cipsi (#14047); Bank Sodası C24 (#14038); Patates Cipsi (#14043); Patates Cipsi (#13975); Evrensel Birlik Çikolatası (#13968); Soda Bob Enerji (#14030); Soda Bob Enerji (#13965); Soda Bob Enerji (#13966); Köpüklü Breen Suyu (#13951); Soda Bob Enerji (#14032); Bank Sodası C24 (#13964); Breen'in Suyu (#13956); Bank Sodası C24 (#13960); Bank Sodası C24 (#14039); Evrensel Birlik Çikolatası (#13970); Evrensel Birlik Çikolatası (#13967); Patates Cipsi (#13976); Bank Sodası C24 (#13963); Breen'in Suyu (#13959); Evrensel Birlik Çikolatası (#13969); Evrensel Birlik Çikolatası (#14048); Bank Sodası C24 (#14040); Patates Cipsi (#13974); Köpüklü Breen Suyu (#13952); Patates Cipsi (#13973); Soda Bob Enerji (#14031);
+[23:39:04	]C24:i3.XRAY-91[E] destroyed a 'Yeşil Şişe' #17258.
+[23:39:06	][OOC] C24:i3.VICE-66[E]: hayır
+[23:39:36	]Hoo Lee Fuk (STEAM_0:0:479033164) has disconnected.
+[23:39:42	][OOC] C24:i3.VICE-66[E]: bende gireyim bari willard
+[23:39:50	][LOOC] C24:i3.VICE-66[E]: teşekürler yok
+[23:39:50	]crat (STEAM_0:0:220566387) has disconnected.
+[23:39:58	]Scientist (STEAM_0:1:533519973) has disconnected.

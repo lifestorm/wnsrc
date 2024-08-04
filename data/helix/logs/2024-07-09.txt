@@ -1,0 +1,2911 @@
+[06:59:21	]Neo-Wolffe has connected.
+[07:00:10	]Neo-Wolffe loaded the character 'Usman'
+[07:00:13	]Usman entered observer.
+[07:00:20	]Usman exited observer at their location.
+[07:00:33	]Usman entered observer.
+[07:00:46	]Usman exited observer at their location.
+[07:00:56	]Usman entered observer.
+[07:00:57	]Usman exited observer at their location.
+[07:01:51	]Usman entered observer.
+[07:01:56	]Usman exited observer at their location.
+[07:02:01	]Usman has used a context menu option with the name: remove
+[07:02:04	]Usman opened the 'Depo' stash.
+[07:02:06	]Usman closed the 'Depo' stash.
+[07:02:07	]Usman has used a context menu option with the name: remove
+[07:02:18	]Usman has spawned 'models\props/CS_militia/shelves_wood.mdl'.
+[07:02:23	]Usman entered observer.
+[07:02:24	]Usman exited observer at their location.
+[07:02:27	]Usman has enabled persistence for 'models\props/cs_militia/shelves_wood.mdl'.
+[07:02:27	]Usman has used a context menu option with the name: persist
+[07:02:39	]Usman has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[07:02:44	]Usman created a 'Büyük Metal Dolap' container.
+[07:02:44	]Usman has used a context menu option with the name: wncontainer_create
+[07:02:46	]Usman opened the 'Büyük Metal Dolap' #11991 container.
+[07:02:48	]Usman closed the 'Büyük Metal Dolap' #11991 container.
+[07:02:53	]Usman has spawned 'models/props_wasteland/kitchen_stove001a.mdl'.
+[07:02:54	]Usman has spawned 'models/props_wasteland/kitchen_counter001a.mdl'.
+[07:03:01	]Usman entered observer.
+[07:03:04	]Usman exited observer at their location.
+[07:03:06	]Usman has spawned 'models/props_interiors/ElevatorShaft_Door01a.mdl'.
+[07:03:11	]Usman has spawned 'models/props_junk/cardboard_box004a.mdl'.
+[07:03:14	]Usman entered observer.
+[07:03:21	]Usman has used a context menu option with the name: clientprop
+[07:03:35	]Usman has spawned 'models/props_wasteland/cafeteria_table001a.mdl'.
+[07:03:37	]Usman has spawned 'models/props_wasteland/cafeteria_bench001a.mdl'.
+[07:03:41	]Usman has used a context menu option with the name: remove
+[07:03:44	]Usman exited observer at their location.
+[07:03:56	]Usman used command '/ExitAct'.
+[07:04:05	]Usman has spawned 'models/props_interiors/VendingMachineSoda01a.mdl'.
+[07:04:11	]Usman has spawned 'models/props_trainstation/BenchOutdoor01a.mdl'.
+[07:04:14	]Usman has spawned 'models/props_trainstation/traincar_seats001.mdl'.
+[07:04:18	]Usman has spawned 'models/props_lab/reciever_cart.mdl'.
+[07:04:23	]Usman entered observer.
+[07:04:25	]Usman exited observer at their location.
+[07:04:38	]Usman has spawned 'models/props_junk/garbage_newspaper001a.mdl'.
+[07:04:48	]Usman has used a context menu option with the name: clientprop
+[07:05:09	]Usman has spawned 'models/props_c17/FurnitureTable003a.mdl'.
+[07:05:14	]Usman has spawned 'models/props_junk/iBeam01a_cluster01.mdl'.
+[07:05:38	]Usman entered observer.
+[07:05:42	]Usman exited observer at their location.
+[07:05:42	]Usman entered observer.
+[07:05:46	]Usman exited observer at their location.
+[07:05:50	]Usman entered observer.
+[07:05:51	]Usman exited observer at their location.
+[07:05:51	]Usman entered observer.
+[07:06:03	]Usman exited observer at their location.
+[07:06:04	]Usman entered observer.
+[07:06:07	]Usman exited observer at their location.
+[07:06:35	]Usman has enabled persistence for 'models/props_junk/cardboard_box001a.mdl'.
+[07:06:35	]Usman has used a context menu option with the name: persist
+[07:06:43	]Usman has enabled persistence for 'models/props_junk/cardboard_box001a.mdl'.
+[07:06:43	]Usman has used a context menu option with the name: persist
+[07:07:10	]Usman opened the 'Dropped Items' #11986 container.
+[07:07:12	]Usman has gained a 'El Feneri' #168631 from a container with the name 'Dropped Items' #11986.
+[07:07:13	]Usman closed the 'Dropped Items' #11986 container.
+[07:07:17	]Usman has spawned 'models/props_trainstation/trainstation_arch001.mdl'.
+[07:07:22	]Usman has spawned 'models/props_trainstation/traincar_rack001.mdl'.
+[07:07:37	]Usman has hit Usman dealing 3 damage (CritChance was 0.00).
+[07:07:37	]Usman has taken 3 damage from Usman.
+[07:07:40	]Usman is fully healed.
+[07:07:45	]Usman entered observer.
+[07:08:16	]Usman has used a context menu option with the name: clientprop
+[07:08:19	]Usman has enabled persistence for 'models/props_trainstation/traincar_rack001.mdl'.
+[07:08:19	]Usman has used a context menu option with the name: persist
+[07:08:19	]Usman exited observer at their location.
+[07:08:31	]Usman entered observer.
+[07:08:33	]Usman exited observer at their location.
+[07:08:37	]Usman has spawned 'models/props_c17/FurnitureBed001a.mdl'.
+[07:08:41	]Usman has spawned 'models/props_interiors/BathTub01a.mdl'.
+[07:08:43	]Usman has spawned 'models/props_interiors/Furniture_Vanity01a.mdl'.
+[07:08:46	]Usman has spawned 'models/props_wasteland/cranemagnet01a.mdl'.
+[07:08:47	]Usman has spawned 'models/props_wasteland/gaspump001a.mdl'.
+[07:08:48	]Usman has spawned 'models/props_wasteland/gaspump001a.mdl'.
+[07:08:49	]Usman has spawned 'models/props_wasteland/horizontalcoolingtank04.mdl'.
+[07:08:49	]Usman has taken 500 damage from prop_physics.
+[07:08:49	]Usman has taken 500 damage from prop_physics.
+[07:08:50	]Usman is fully healed.
+[07:08:52	]Usman has spawned 'models/props_wasteland/kitchen_stove001a.mdl'.
+[07:08:54	]Usman has spawned 'models/props_wasteland/kitchen_stove002a.mdl'.
+[07:09:03	]Usman has spawned 'models/props_junk/wood_crate001a.mdl'.
+[07:09:09	]Usman has spawned 'models/props_wasteland/wood_fence01a.mdl'.
+[07:09:15	]Usman has spawned 'models/props_trainstation/mount_connection001a.mdl'.
+[07:09:18	]Usman has spawned 'models/props_junk/iBeam01a_cluster01.mdl'.
+[07:09:26	]Usman has spawned 'models/props_interiors/refrigerator01a.mdl'.
+[07:09:47	]Usman has spawned 'models/props_c17/Lockers001a.mdl'.
+[07:09:56	]Usman entered observer.
+[07:10:01	]Usman exited observer at their location.
+[07:10:08	]Usman has spawned 'models/props_wasteland/controlroom_filecabinet002a.mdl'.
+[07:10:12	]Usman has spawned 'models/props_docks/dock02_pole02a.mdl'.
+[07:10:16	]Usman has spawned 'models/props_c17/pulleyhook01.mdl'.
+[07:10:19	]Usman has spawned 'models/props_c17/pulleyhook01.mdl'.
+[07:10:21	]Usman entered observer.
+[07:10:30	]Usman has spawned 'models/props_vehicles/tire001b_truck.mdl'.
+[07:10:31	]Usman exited observer at their location.
+[07:10:38	]Usman has spawned 'models/props_vehicles/tire001b_truck.mdl'.
+[07:10:52	]Usman has spawned 'models/mosi/fallout4/props/fortifications/cinderblocks02.mdl'.
+[07:10:54	]Usman has spawned 'models/mosi/fallout4/props/fortifications/cinderblocks01.mdl'.
+[07:10:57	]Usman has spawned 'models/mosi/fallout4/props/fortifications/cinderblocks05.mdl'.
+[07:11:03	]Usman has spawned 'models/mosi/fallout4/props/fortifications/plywoodblocker.mdl'.
+[07:11:19	]Usman has spawned 'models/mosi/fallout4/props/fortifications/tirewall01.mdl'.
+[07:11:20	]Usman has spawned 'models/mosi/fallout4/props/fortifications/tirepile02.mdl'.
+[07:11:21	]Usman has spawned 'models/mosi/fallout4/props/fortifications/tirepile01.mdl'.
+[07:11:24	]Usman entered observer.
+[07:11:25	]Usman has spawned 'models/mosi/fallout4/props/fortifications/tirepile02.mdl'.
+[07:11:31	]Usman has spawned 'models/mosi/fallout4/props/fortifications/tirewall01.mdl'.
+[07:11:35	]Usman exited observer at their location.
+[07:11:36	]Usman entered observer.
+[07:11:36	]Usman exited observer at their location.
+[07:12:19	]Usman used command '/ExitAct'.
+[07:12:43	]Usman has enabled persistence for 'models/mosi/fallout4/props/fortifications/tirewall01.mdl'.
+[07:12:43	]Usman has used a context menu option with the name: persist
+[07:12:50	]Usman has used a context menu option with the name: remove
+[07:12:52	]Usman has spawned 'models/mosi/fallout4/props/fortifications/bos/poles.mdl'.
+[07:13:05	]Usman has fired a toolgun with the name: remover
+[07:13:06	]Usman has fired a toolgun with the name: remover
+[07:13:06	]Usman has fired a toolgun with the name: remover
+[07:13:06	]Usman has fired a toolgun with the name: remover
+[07:13:06	]Usman has fired a toolgun with the name: remover
+[07:13:07	]Usman has fired a toolgun with the name: remover
+[07:13:07	]Usman has fired a toolgun with the name: remover
+[07:13:08	]Usman has fired a toolgun with the name: remover
+[07:13:08	]Usman has fired a toolgun with the name: remover
+[07:13:16	]Usman opened the 'Çöp Konteyneri' #6449 container.
+[07:13:18	]Usman closed the 'Çöp Konteyneri' #6449 container.
+[07:13:26	]Usman has spawned 'models/mosi/fallout4/props/fortifications/junkwall05.mdl'.
+[07:13:29	]Usman has spawned 'models/mosi/fallout4/props/fortifications/junkwall04.mdl'.
+[07:13:36	]Usman entered observer.
+[07:13:37	]Usman exited observer at their location.
+[07:13:38	]Usman entered observer.
+[07:13:39	]Usman exited observer at their location.
+[07:13:59	]Usman has spawned 'models/mosi/fallout4/props/fortifications/ramp_plywood.mdl'.
+[07:14:20	]Usman entered observer.
+[07:14:21	]Usman exited observer at their location.
+[07:14:21	]Usman entered observer.
+[07:14:22	]Usman exited observer at their location.
+[07:14:24	]Usman has taken 0 damage from worldspawn.
+[07:14:25	]Usman is fully healed.
+[07:14:30	]Usman entered observer.
+[07:14:42	]Usman exited observer at their location.
+[07:14:47	]Usman entered observer.
+[07:14:51	]Usman has enabled persistence for 'models/mosi/fallout4/props/fortifications/ramp_plywood.mdl'.
+[07:14:51	]Usman has used a context menu option with the name: persist
+[07:14:52	]Usman exited observer at their location.
+[07:14:56	]Usman has spawned 'models/mosi/fallout4/props/fortifications/doorbarricade.mdl'.
+[07:15:05	]Usman has used a context menu option with the name: clientprop
+[07:15:06	]Usman has enabled persistence for 'models/mosi/fallout4/props/fortifications/junkwall04.mdl'.
+[07:15:06	]Usman has used a context menu option with the name: persist
+[07:15:13	]Usman has spawned 'models/mosi/fallout4/props/fortifications/bos/poles.mdl'.
+[07:15:20	]Usman has spawned 'models/mosi/fallout4/props/fortifications/chainlinkend.mdl'.
+[07:15:22	]Usman has spawned 'models/mosi/fallout4/props/fortifications/chainlinkend.mdl'.
+[07:15:31	]Usman entered observer.
+[07:15:39	]Usman has used a context menu option with the name: clientprop
+[07:15:39	]Usman exited observer at their location.
+[07:15:54	]Usman entered observer.
+[07:16:04	]Usman exited observer at their location.
+[07:16:24	]Usman entered observer.
+[07:16:30	]Usman exited observer at their location.
+[07:16:34	]Usman has spawned 'models/mosi/fallout4/props/fortifications/woodpalette.mdl'.
+[07:16:45	]Usman entered observer.
+[07:16:46	]Usman exited observer at their location.
+[07:16:49	]Usman entered observer.
+[07:16:51	]Usman exited observer at their location.
+[07:16:52	]Usman entered observer.
+[07:16:52	]Usman has spawned 'models/mosi/fallout4/props/fortifications/ramp_truck.mdl'.
+[07:16:54	]Usman has spawned 'models/mosi/fallout4/props/fortifications/ramp_plywood.mdl'.
+[07:16:58	]Usman has spawned 'models/mosi/fallout4/props/fortifications/plywoodblocker.mdl'.
+[07:17:10	]Usman has spawned 'models/props_c17/display_cooler01a.mdl'.
+[07:17:13	]Usman exited observer at their location.
+[07:17:21	]Usman has spawned 'models/props_junk/cardboard_box001b.mdl'.
+[07:17:22	]Usman has spawned 'models/props_junk/cardboard_box001b.mdl'.
+[07:17:24	]Usman entered observer.
+[07:17:25	]Usman exited observer at their location.
+[07:17:26	]Usman has taken 0 damage from worldspawn.
+[07:17:30	]Usman is fully healed.
+[07:17:37	]Usman has spawned 'models/props_trainstation/bench_indoor001a.mdl'.
+[07:18:01	]Usman has used a context menu option with the name: collision_off
+[07:18:12	]Usman entered observer.
+[07:18:16	]Usman has enabled persistence for 'models/props_trainstation/bench_indoor001a.mdl'.
+[07:18:16	]Usman has used a context menu option with the name: persist
+[07:18:17	]Usman has used a context menu option with the name: collision_on
+[07:18:18	]Usman exited observer at their location.
+[07:18:19	]Usman entered observer.
+[07:18:21	]Usman exited observer at their location.
+[07:18:26	]Usman opened the 'Kutu' #11921 container.
+[07:18:26	]Usman closed the 'Kutu' #11921 container.
+[07:18:34	]Usman entered observer.
+[07:18:36	]Usman exited observer at their location.
+[07:18:37	]Usman has spawned 'models/props_interiors/ElevatorShaft_Door01a.mdl'.
+[07:18:43	]Usman has enabled persistence for 'models/props_interiors/elevatorshaft_door01a.mdl'.
+[07:18:43	]Usman has used a context menu option with the name: persist
+[07:18:48	]Usman has spawned 'models/props_junk/TrafficCone001a.mdl'.
+[07:18:55	]Usman has used a context menu option with the name: clientprop
+[07:18:57	]Usman has spawned 'models/props_trainstation/TrackSign03.mdl'.
+[07:19:02	]Usman has used a context menu option with the name: clientprop
+[07:19:05	]Usman entered observer.
+[07:19:07	]Usman exited observer at their location.
+[07:19:09	]Usman has spawned 'models/props_wasteland/dockplank01b.mdl'.
+[07:19:26	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold02.mdl'.
+[07:19:26	]Usman has taken 50 damage from prop_physics.
+[07:19:26	]Usman has taken 10 damage from prop_physics.
+[07:19:30	]Usman is fully healed.
+[07:19:30	]Usman entered observer.
+[07:19:31	]Usman exited observer at their location.
+[07:19:34	]Usman entered observer.
+[07:19:35	]Usman has spawned 'models/mosi/fallout4/props/fortifications/tirewall02.mdl'.
+[07:19:44	]Usman exited observer at their location.
+[07:19:55	]Usman has spawned 'models/mosi/fallout4/props/fortifications/tirepile02.mdl'.
+[07:19:57	]Usman entered observer.
+[07:19:59	]Usman has spawned 'models/mosi/fallout4/props/fortifications/tirepile01.mdl'.
+[07:20:02	]Usman exited observer at their location.
+[07:20:05	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[07:20:06	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold02.mdl'.
+[07:20:07	]Usman has spawned 'models/mosi/fallout4/props/fortifications/sandbag02.mdl'.
+[07:20:09	]Usman has spawned 'models/mosi/fallout4/props/fortifications/plywoodblocker.mdl'.
+[07:20:18	]Usman entered observer.
+[07:20:20	]Usman exited observer at their location.
+[07:20:23	]Usman has taken 28 damage from worldspawn.
+[07:20:25	]Usman is fully healed.
+[07:20:31	]Usman has spawned 'models/mosi/fallout4/props/fortifications/wallbarricade01.mdl'.
+[07:20:32	]Usman has spawned 'models/mosi/fallout4/props/fortifications/metalbarrel01.mdl'.
+[07:20:36	]Usman has spawned 'models/mosi/fallout4/props/fortifications/metalbarrel01.mdl'.
+[07:20:39	]Usman has spawned 'models/mosi/fallout4/props/fortifications/metalbarrel01.mdl'.
+[07:20:41	]Usman has spawned 'models/mosi/fallout4/props/fortifications/metalbarrel01.mdl'.
+[07:20:52	]Usman has enabled persistence for 'models/mosi/fallout4/props/fortifications/metalbarrel01.mdl'.
+[07:20:52	]Usman has used a context menu option with the name: persist
+[07:20:52	]Usman has enabled persistence for 'models/mosi/fallout4/props/fortifications/metalbarrel01.mdl'.
+[07:20:52	]Usman has used a context menu option with the name: persist
+[07:20:53	]Usman has enabled persistence for 'models/mosi/fallout4/props/fortifications/metalbarrel01.mdl'.
+[07:20:53	]Usman has used a context menu option with the name: persist
+[07:20:54	]Usman has enabled persistence for 'models/mosi/fallout4/props/fortifications/metalbarrel01.mdl'.
+[07:20:54	]Usman has used a context menu option with the name: persist
+[07:20:57	]Usman has spawned 'models/mosi/fallout4/props/fortifications/woodpalette.mdl'.
+[07:21:00	]Usman has spawned 'models/mosi/fallout4/props/fortifications/plywoodblocker.mdl'.
+[07:21:07	]Usman has used a context menu option with the name: clientprop
+[07:21:16	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks01.mdl'.
+[07:21:23	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks01.mdl'.
+[07:21:31	]Usman has spawned 'models/mosi/fallout4/props/fortifications/ramp_plywood.mdl'.
+[07:21:32	]Usman has spawned 'models/mosi/fallout4/props/fortifications/ramp_truck.mdl'.
+[07:21:33	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold01.mdl'.
+[07:21:35	]Usman has spawned 'models/mosi/fallout4/props/fortifications/bos/platform01.mdl'.
+[07:21:37	]Usman has spawned 'models/mosi/fallout4/props/fortifications/bos/platform03.mdl'.
+[07:21:39	]Usman has spawned 'models/mosi/fallout4/props/fortifications/junkwalltallangled02.mdl'.
+[07:21:41	]Usman has spawned 'models/mosi/fallout4/props/fortifications/cinderblockstairs01.mdl'.
+[07:21:56	]Usman has enabled persistence for 'models/mosi/fallout4/props/fortifications/cinderblockstairs01.mdl'.
+[07:21:56	]Usman has used a context menu option with the name: persist
+[07:22:05	]Usman has spawned 'models/mosi/fallout4/props/fortifications/barricadepanel01.mdl'.
+[07:22:08	]Usman has spawned 'models/mosi/fallout4/props/fortifications/metalbarrel01.mdl'.
+[07:22:10	]Usman has spawned 'models/mosi/fallout4/props/fortifications/concretebarricade.mdl'.
+[07:22:20	]Usman has enabled persistence for 'models/mosi/fallout4/props/fortifications/concretebarricade.mdl'.
+[07:22:20	]Usman has used a context menu option with the name: persist
+[07:22:25	]Usman has used a context menu option with the name: remove
+[07:22:29	]Usman has spawned 'models/mosi/fallout4/props/fortifications/ramp_truck.mdl'.
+[07:22:32	]Usman has spawned 'models/mosi/fallout4/props/fortifications/cinderblocks01.mdl'.
+[07:22:33	]Usman has spawned 'models/mosi/fallout4/props/fortifications/cinderblocks03.mdl'.
+[07:22:34	]Usman has spawned 'models/mosi/fallout4/props/fortifications/cinderblocks04.mdl'.
+[07:22:35	]Usman has spawned 'models/mosi/fallout4/props/fortifications/cinderblocks05.mdl'.
+[07:22:36	]Usman has spawned 'models/mosi/fallout4/props/fortifications/cinderblocks06.mdl'.
+[07:22:37	]Usman has spawned 'models/mosi/fallout4/props/fortifications/cinderblocks07.mdl'.
+[07:22:50	]Usman has spawned 'models/mosi/fallout4/props/fortifications/plywoodblocker.mdl'.
+[07:23:00	]Usman has used a context menu option with the name: clientprop
+[07:23:07	]Usman has spawned 'models/mosi/fallout4/props/fortifications/metalbarrel02.mdl'.
+[07:23:09	]Usman has spawned 'models/mosi/fallout4/props/fortifications/metalbarrel02.mdl'.
+[07:23:11	]Usman has spawned 'models/mosi/fallout4/props/fortifications/metalbarrel02.mdl'.
+[07:23:28	]Usman has enabled persistence for 'models/mosi/fallout4/props/fortifications/metalbarrel02.mdl'.
+[07:23:28	]Usman has used a context menu option with the name: persist
+[07:23:29	]Usman has enabled persistence for 'models/mosi/fallout4/props/fortifications/metalbarrel02.mdl'.
+[07:23:29	]Usman has used a context menu option with the name: persist
+[07:23:30	]Usman has enabled persistence for 'models/mosi/fallout4/props/fortifications/metalbarrel02.mdl'.
+[07:23:30	]Usman has used a context menu option with the name: persist
+[07:23:54	]Usman has spawned 'models/mosi/fallout4/props/fortifications/woodencrate03.mdl'.
+[07:23:56	]Usman has spawned 'models/mosi/fallout4/props/fortifications/woodencrate01.mdl'.
+[07:23:59	]Usman has spawned 'models/mosi/fallout4/props/fortifications/woodenbarrel.mdl'.
+[07:24:00	]Usman has spawned 'models/mosi/fallout4/props/fortifications/woodenbarrel.mdl'.
+[07:24:03	]Usman entered observer.
+[07:24:11	]Usman exited observer at their location.
+[07:24:17	]Usman has spawned 'models/mosi/fallout4/props/fortifications/plywoodblocker.mdl'.
+[07:24:23	]Usman has used a context menu option with the name: clientprop
+[07:24:27	]Usman entered observer.
+[07:24:29	]Usman exited observer at their location.
+[07:24:29	]Usman entered observer.
+[07:24:36	]Usman exited observer at their location.
+[07:24:47	]Usman entered observer.
+[07:24:48	]Usman exited observer at their location.
+[07:24:48	]Usman entered observer.
+[07:24:54	]Usman exited observer at their location.
+[07:24:56	]Usman entered observer.
+[07:24:57	]Usman exited observer at their location.
+[07:24:58	]Usman entered observer.
+[07:24:59	]Usman exited observer at their location.
+[07:25:16	]Usman has spawned a armband_purple.
+[07:25:20	]Usman has spawned a armband_purple.
+[07:25:23	]Usman has given himself a armband_purple.
+[07:25:23	]Usman has gained a 'Mor CCA kol bandı' #168636.
+[07:25:25	]Usman ran 'Equip' on item 'Mor CCA kol bandı' (#168636)
+[07:25:32	]Usman has used a context menu option with the name: rb655_dissolve
+[07:25:34	]env_entity_dissolver destroyed a 'Mor CCA kol bandı' #168635.
+[07:25:36	]Usman entered observer.
+[07:25:36	]Usman exited observer at their location.
+[07:25:38	]Usman has taken 28 damage from worldspawn.
+[07:25:40	]Usman is fully healed.
+[07:25:59	]Usman entered observer.
+[07:26:31	]Usman exited observer at their location.
+[07:26:42	]Usman has spawned 'models/props_c17/FurnitureSink001a.mdl'.
+[07:26:46	]Usman has spawned 'models/props_junk/wood_pallet001a.mdl'.
+[07:26:55	]Usman entered observer.
+[07:26:56	]Usman exited observer at their location.
+[07:27:43	]Usman ran 'Equip' on item 'Combine PDA' (#168588)
+[07:29:04	]Usman entered observer.
+[07:29:16	]Usman exited observer at their location.
+[07:29:26	]Usman has spawned a trueloyal_ration.
+[07:29:28	]Usman ran 'take' on item 'Gerçek Loyalist Rasyonu' (#168637)
+[07:29:28	]Usman has gained a 'Gerçek Loyalist Rasyonu' #168637.
+[07:29:33	]Usman has given himself a priority_ration.
+[07:29:33	]Usman has gained a 'Öncelikli Loyalist Rasyonu' #168638.
+[07:29:46	]Usman ran 'Open' on item 'Öncelikli Loyalist Rasyonu' (#168638)
+[07:29:46	]Usman has gained a 'Evrensel Birlik Çikolatası' #168639.
+[07:29:46	]Usman has gained a 'Somon Biftek' #168640.
+[07:29:46	]Usman has gained a 'Köpüklü Breen Suyu' #168641.
+[07:29:46	]Usman has gained a '30 Kredi Kuponu' #168642.
+[07:29:55	]Usman ran 'Open' on item 'Gerçek Loyalist Rasyonu' (#168637)
+[07:29:56	]Usman has gained a 'Evrensel Birlik Çikolatası' #168643.
+[07:29:56	]Usman has gained a 'Somon Biftek' #168644.
+[07:29:56	]Usman has gained a 'Köpüklü Breen Suyu' #168645.
+[07:29:56	]Usman has gained a '20 Kredi Kuponu' #168646.
+[07:30:02	]Usman ran 'Consume' on item 'Somon Biftek' (#168644)
+[07:30:02	]Usman has gained a level 5 long boost in Zeka.
+[07:30:02	]Usman has gained a level 5 long boost in Algı.
+[07:30:05	]Usman ran 'Consume' on item 'Köpüklü Breen Suyu' (#168645)
+[07:30:05	]Usman has gained a 'Boş Breen'in Suyu' #168647.
+[07:30:06	]Usman ran 'Consume' on item 'Evrensel Birlik Çikolatası' (#168643)
+[07:30:06	]Usman has gained a 'Plastik Çöp' #168648.
+[07:30:06	]Usman ran 'Consume' on item 'Somon Biftek' (#168640)
+[07:30:06	]Usman has wasted a level 5 long boost in Zeka (current: 0; target: 5).
+[07:30:06	]Usman has wasted a level 5 long boost in Algı (current: 0; target: 5).
+[07:30:07	]Usman ran 'Use' on item '30 Kredi Kuponu' (#168642)
+[07:30:08	]Usman ran 'Consume' on item 'Evrensel Birlik Çikolatası' (#168639)
+[07:30:08	]Usman has gained a 'Plastik Çöp' #168649.
+[07:30:09	]Usman ran 'Consume' on item 'Köpüklü Breen Suyu' (#168641)
+[07:30:09	]Usman has gained a 'Boş Breen'in Suyu' #168650.
+[07:30:11	]Usman entered observer.
+[07:30:13	]Usman exited observer at their location.
+[07:30:17	]Usman ran 'Use' on item '20 Kredi Kuponu' (#168646)
+[07:30:18	]Usman ran 'Use' on item '30 Kredi Kuponu' (#168642)
+[07:30:19	]Usman has used a coupon at a ration dispenser, gaining 20 credits.
+[07:30:21	]Usman ran 'Use' on item '30 Kredi Kuponu' (#168642)
+[07:30:23	]Usman ran 'Use' on item '30 Kredi Kuponu' (#168642)
+[07:30:25	]Usman has used a coupon at a ration dispenser, gaining 30 credits.
+[07:30:47	]Usman entered observer.
+[07:31:04	]Usman exited observer at their location.
+[07:31:12	]Usman entered observer.
+[07:31:52	]Usman exited observer at their location.
+[07:32:10	]Usman entered observer.
+[07:32:14	]Usman exited observer at their location.
+[07:32:24	]Usman entered observer.
+[07:32:25	]Usman exited observer at their location.
+[07:32:32	]Usman entered observer.
+[07:32:33	]Usman exited observer at their location.
+[07:32:39	]Usman entered observer.
+[07:32:44	]Usman exited observer at their location.
+[07:32:51	]Usman entered observer.
+[07:32:52	]Usman exited observer at their location.
+[07:32:55	]Usman entered observer.
+[07:32:59	]Usman exited observer at their location.
+[07:33:00	]Usman entered observer.
+[07:33:01	]Usman exited observer at their location.
+[07:33:01	]Usman entered observer.
+[07:33:02	]Usman exited observer at their location.
+[07:33:13	]Usman has spawned a parfum.
+[07:33:19	]Usman ran 'take' on item 'Kadın Parfümü' (#168651)
+[07:33:19	]Usman has gained a 'Kadın Parfümü' #168651.
+[07:33:22	]Usman ran 'drop' on item 'Kadın Parfümü' (#168651)
+[07:33:22	]Usman has lost a 'Kadın Parfümü' #168651.
+[07:33:23	]Usman ran 'drop' on item 'Boş Breen'in Suyu' (#168647)
+[07:33:23	]Usman has lost a 'Boş Breen'in Suyu' #168647.
+[07:33:24	]Usman ran 'drop' on item 'Boş Breen'in Suyu' (#168650)
+[07:33:24	]Usman has lost a 'Boş Breen'in Suyu' #168650.
+[07:33:25	]Usman ran 'drop' on item 'Plastik Çöp' (#168648)
+[07:33:25	]Usman has lost a 'Plastik Çöp' #168648.
+[07:33:27	]Usman ran 'drop' on item 'Gözlükler' (#168589)
+[07:33:27	]Usman has lost a 'Gözlükler' #168589.
+[07:33:44	]Usman has spawned a moe_card.
+[07:33:45	]Usman ran 'take' on item 'MOE Member Access Keycard' (#168652)
+[07:33:45	]Usman has gained a 'MOE Member Access Keycard' #168652.
+[07:33:47	]Usman has spawned a moelock.
+[07:33:48	]Usman ran 'Place' on item 'MOE Lock' (#168653)
+[07:33:51	]Usman has used a context menu option with the name: collision_off
+[07:33:52	]Usman has used a context menu option with the name: remove
+[07:33:58	]Usman ran 'Bind' on item 'MOE Member Access Keycard' (#168652)
+[07:34:26	]Usman ran 'drop' on item 'MOE Member Access Keycard' (#168652)
+[07:34:26	]Usman has lost a 'MOE Member Access Keycard' #168652.
+[07:34:29	]Usman ran 'drop' on item '#79778 Kimlik Kartı' (#168587)
+[07:34:29	]Usman has lost a '#79778 Kimlik Kartı' #168587.
+[07:34:34	]Usman ran 'take' on item '#79778 Kimlik Kartı' (#168587)
+[07:34:34	]Usman has gained a '#79778 Kimlik Kartı' #168587.
+[07:34:36	]Usman ran 'take' on item 'MOE Member Access Keycard' (#168652)
+[07:34:36	]Usman has gained a 'MOE Member Access Keycard' #168652.
+[07:34:43	]Usman has spawned a ud_m16_stock_moe.
+[07:34:48	]Usman entered observer.
+[07:34:58	]Usman exited observer at their location.
+[07:34:59	]Usman entered observer.
+[07:35:01	]Usman exited observer at their location.
+[07:35:03	]Usman has spawned 'models/props_junk/TrashBin01a.mdl'.
+[07:35:12	]Usman has enabled persistence for 'models/props_junk/trashbin01a.mdl'.
+[07:35:12	]Usman has used a context menu option with the name: persist
+[07:35:21	]Usman entered observer.
+[07:35:23	]Usman exited observer at their location.
+[07:35:36	]Usman used command '/ExitAct'.
+[07:35:47	]Usman has taken 1 damage from entityflame.
+[07:35:47	]Usman has taken 1 damage from entityflame.
+[07:35:47	]Usman has taken 1 damage from entityflame.
+[07:35:47	]Usman has taken 1 damage from entityflame.
+[07:35:48	]Usman has taken 1 damage from entityflame.
+[07:35:48	]Usman has taken 1 damage from entityflame.
+[07:35:48	]Usman has taken 1 damage from entityflame.
+[07:35:48	]Usman has taken 1 damage from entityflame.
+[07:35:48	]Usman has taken 1 damage from entityflame.
+[07:35:49	]Usman has taken 1 damage from entityflame.
+[07:35:49	]Usman has taken 1 damage from entityflame.
+[07:35:49	]Usman has taken 1 damage from entityflame.
+[07:35:49	]Usman has taken 1 damage from entityflame.
+[07:35:49	]Usman has taken 1 damage from entityflame.
+[07:35:50	]Usman is fully healed.
+[07:35:50	]Usman has taken 1 damage from entityflame.
+[07:35:50	]Usman has taken 1 damage from entityflame.
+[07:35:50	]Usman has taken 1 damage from entityflame.
+[07:35:50	]Usman has taken 1 damage from entityflame.
+[07:35:50	]Usman has taken 1 damage from entityflame.
+[07:35:51	]Usman has taken 1 damage from entityflame.
+[07:35:51	]Usman used command '/ExitAct'.
+[07:35:55	]Usman is fully healed.
+[07:35:57	]Usman used command '/ExitAct'.
+[07:36:12	]Usman entered observer.
+[07:36:15	]Usman exited observer at their location.
+[07:36:15	]Usman entered observer.
+[07:36:20	]Usman exited observer at their location.
+[07:36:20	]Usman entered observer.
+[07:36:51	]Usman exited observer at their location.
+[07:36:52	]Usman opened the 'Büyük Buzdolabı' #11848 container.
+[07:36:54	]Usman closed the 'Büyük Buzdolabı' #11848 container.
+[07:36:55	]Usman entered observer.
+[07:36:56	]Usman exited observer at their location.
+[07:36:57	]Usman entered observer.
+[07:36:58	]Usman exited observer at their location.
+[07:37:00	]Usman used command '/ExitAct'.
+[07:37:04	]Usman used command '/ExitAct'.
+[07:37:06	]Usman opened the 'Yazar Kasa' #9601 container.
+[07:37:06	]Usman closed the 'Yazar Kasa' #9601 container.
+[07:37:06	]Usman used command '/ExitAct'.
+[07:37:11	]Usman used command '/ExitAct'.
+[07:37:15	]Usman entered observer.
+[07:37:16	]Usman exited observer at their location.
+[07:37:19	]Usman entered observer.
+[07:37:20	]Usman exited observer at their location.
+[07:37:20	]Usman entered observer.
+[07:38:02	]Usman exited observer at their location.
+[07:38:05	]Usman entered observer.
+[07:38:22	]Usman exited observer at their location.
+[07:38:23	]Usman entered observer.
+[07:38:49	]Usman has used a context menu option with the name: clientprop
+[07:38:51	]Usman exited observer at their location.
+[07:38:52	]Usman entered observer.
+[07:38:58	]Usman exited observer at their location.
+[07:38:59	]Usman entered observer.
+[07:39:03	]Usman exited observer at their location.
+[07:39:16	]Usman entered observer.
+[07:39:28	]Usman exited observer at their location.
+[07:39:28	]Usman entered observer.
+[07:39:29	]Usman exited observer at their location.
+[07:39:30	]Usman entered observer.
+[07:39:44	]Usman exited observer at their location.
+[07:39:47	]Usman entered observer.
+[07:39:49	]Usman exited observer at their location.
+[07:39:50	]Usman entered observer.
+[07:39:57	]Usman exited observer at their location.
+[07:40:01	]Neo-Wolffe (STEAM_0:1:147154620) has disconnected.
+[10:18:54	]Neo-Wolffe has connected.
+[10:19:32	]Neo-Wolffe loaded the character 'Usman'
+[10:19:37	]Usman entered observer.
+[10:21:05	]Usman exited observer at their location.
+[10:21:06	]Usman entered observer.
+[10:21:09	]Usman exited observer at their location.
+[10:21:11	]Usman entered observer.
+[10:21:17	]Usman has used a context menu option with the name: clientprop
+[10:21:19	]Usman has used a context menu option with the name: clientprop
+[10:21:21	]Usman has used a context menu option with the name: clientprop
+[10:21:21	]Usman exited observer at their location.
+[10:25:41	]Usman has fired a toolgun with the name: precision
+[10:25:42	]Usman entered observer.
+[10:25:45	]Usman exited observer at their location.
+[10:25:45	]Usman entered observer.
+[10:25:53	]Usman exited observer at their location.
+[10:25:53	]Usman entered observer.
+[10:25:54	]Usman exited observer at their location.
+[10:25:56	]Usman entered observer.
+[10:26:23	]Usman has fired a toolgun with the name: precision
+[10:26:26	]Usman exited observer at their location.
+[10:26:35	]Usman opened the 'Raflar' stash.
+[10:26:38	]Usman closed the 'Raflar' stash.
+[10:26:41	]Usman has used a context menu option with the name: remove
+[10:26:54	]Usman has spawned 'models\props/CS_militia/furniture_shelf01a.mdl'.
+[10:27:04	]Usman has spawned 'models\props/CS_militia/shelves.mdl'.
+[10:27:12	]Usman entered observer.
+[10:27:24	]Usman has enabled persistence for 'models\props/cs_militia/shelves.mdl'.
+[10:27:24	]Usman has used a context menu option with the name: persist
+[10:27:25	]Usman exited observer at their location.
+[10:27:37	]Usman entered observer.
+[10:27:44	]Usman exited observer at their location.
+[10:29:28	]Usman entered observer.
+[10:29:30	]Usman exited observer at their location.
+[10:29:38	]Usman has spawned 'models\props/CS_militia/ropeladder01.mdl'.
+[10:29:42	]Usman has spawned 'models\props/CS_militia/ropeladder01.mdl'.
+[10:29:53	]Usman has spawned 'models\props/CS_militia/van_glass.mdl'.
+[10:29:55	]Usman has spawned 'models\props/CS_militia/vine_wall2.mdl'.
+[10:29:58	]Usman has spawned 'models\props/CS_militia/CoveredBridge01_Bottom.mdl'.
+[10:29:59	]Usman has spawned 'models\props/CS_militia/CoveredBridge01_Left.mdl'.
+[10:30:01	]Usman has spawned 'models\props/CS_militia/food_stack.mdl'.
+[10:30:03	]Usman has hit Usman dealing 6 damage (CritChance was 0.00).
+[10:30:03	]Usman has taken 6 damage from Usman.
+[10:30:06	]Usman has spawned 'models\props/CS_militia/militiarock05.mdl'.
+[10:30:07	]Usman is fully healed.
+[10:30:08	]Usman has spawned 'models\props/CS_militia/reload_bullet_tray.mdl'.
+[10:30:10	]Usman has spawned 'models\props/CS_militia/reloadingpress01.mdl'.
+[10:30:19	]Usman has spawned 'models\props/cs_office/Awning_long.mdl'.
+[10:30:21	]Usman has spawned 'models\props/cs_office/Fire_Extinguisher.mdl'.
+[10:30:38	]Usman entered observer.
+[10:30:52	]Usman exited observer at their location.
+[10:31:00	]Usman entered observer.
+[10:31:01	]Usman exited observer at their location.
+[10:31:01	]Usman entered observer.
+[10:31:17	]Usman exited observer at their location.
+[10:31:43	]Usman has spawned 'models\props/CS_militia/furnace01.mdl'.
+[10:31:45	]Usman has spawned 'models\props/CS_militia/rockpileramp01.mdl'.
+[10:31:47	]Usman has spawned 'models\props/CS_militia/gun_cabinet.mdl'.
+[10:31:51	]Usman has spawned 'models\props/CS_militia/BoulderRing01.mdl'.
+[10:32:02	]Usman has spawned 'models\props/CS_militia/boxes_frontroom.mdl'.
+[10:32:04	]Usman has spawned 'models\props/CS_militia/bottle01.mdl'.
+[10:32:07	]Usman entered observer.
+[10:32:08	]Usman exited observer at their location.
+[10:32:10	]Usman has spawned 'models\props/CS_militia/barstool01.mdl'.
+[10:32:19	]Usman has spawned 'models\props/CS_militia/barstool01.mdl'.
+[10:32:21	]Usman has spawned 'models\props/CS_militia/barstool01.mdl'.
+[10:32:23	]Usman has spawned 'models\props/CS_militia/barstool01.mdl'.
+[10:32:37	]Usman has used a context menu option with the name: ixusableentitycreate
+[10:32:40	]Usman has used a context menu option with the name: ixusableentitycreate
+[10:32:43	]Usman has used a context menu option with the name: ixusableentitycreate
+[10:32:45	]Usman has used a context menu option with the name: ixusableentitycreate
+[10:32:48	]Usman has used a context menu option with the name: ixusableentitycreate
+[10:32:55	]Usman has used a context menu option with the name: ixusableentitycreate
+[10:32:58	]Usman has used a context menu option with the name: ixusableentitycreate
+[10:33:24	]Usman has spawned 'models\props/CS_militia/newspaperstack01.mdl'.
+[10:33:30	]Usman has spawned 'models/props/cs_assault/meter.mdl'.
+[10:33:34	]Usman has spawned 'models/props/cs_assault/FireHydrant.mdl'.
+[10:33:35	]Usman has spawned 'models/props/cs_assault/Floodlight01.mdl'.
+[10:33:38	]Usman has spawned 'models\props/CS_militia/table_kitchen.mdl'.
+[10:33:39	]Usman has spawned 'models\props/CS_militia/table_shed.mdl'.
+[10:33:44	]Usman has spawned 'models\props/CS_militia/soap_rope.mdl'.
+[10:33:46	]Usman has spawned 'models\props/CS_militia/toilet.mdl'.
+[10:34:09	]Usman has spawned 'models/props_furniture/cafe_barstool1.mdl'.
+[10:34:11	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_furniture/cafe_barstool1.mdl'.
+[10:34:11	]Usman has used a context menu option with the name: ixusableentitycreate
+[10:34:13	]Usman used command '/ExitAct'.
+[10:34:23	]Usman has used a context menu option with the name: rb655_breakable_break
+[10:34:26	]Usman has used a context menu option with the name: remove
+[10:34:31	]Usman has spawned 'models/props_furniture/cafe_barstool1.mdl'.
+[10:34:33	]Usman has used a context menu option with the name: rb655_breakable_break
+[10:34:36	]Usman has used a context menu option with the name: remove
+[10:34:37	]Usman has used a context menu option with the name: remove
+[10:34:39	]Usman has used a context menu option with the name: remove
+[10:36:53	]Usman has spawned 'models/weapons/w_crowbar.mdl'.
+[10:37:02	]Usman has spawned 'models/weapons/w_crowbar.mdl'.
+[10:37:10	]Usman has spawned 'models/props_furniture/cafe_barstool1.mdl'.
+[10:37:11	]Usman has spawned 'models/props_furniture/cafe_barstool1.mdl'.
+[10:37:12	]Usman has spawned 'models/props_furniture/cafe_barstool1.mdl'.
+[10:37:15	]Usman has fired a toolgun with the name: unbreakable
+[10:37:16	]Usman has fired a toolgun with the name: unbreakable
+[10:37:16	]Usman has fired a toolgun with the name: unbreakable
+[10:37:39	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_furniture/cafe_barstool1.mdl'.
+[10:37:39	]Usman has used a context menu option with the name: ixusableentitycreate
+[10:37:40	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_furniture/cafe_barstool1.mdl'.
+[10:37:40	]Usman has used a context menu option with the name: ixusableentitycreate
+[10:37:41	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_furniture/cafe_barstool1.mdl'.
+[10:37:41	]Usman has used a context menu option with the name: ixusableentitycreate
+[10:37:42	]Usman has used a context menu option with the name: collision_on
+[10:37:43	]Usman has used a context menu option with the name: collision_on
+[10:37:46	]Usman has used a context menu option with the name: collision_on
+[10:37:48	]Usman used command '/ExitAct'.
+[10:37:49	]Usman used command '/ExitAct'.
+[10:37:51	]Usman used command '/ExitAct'.
+[10:37:53	]Usman used command '/ExitAct'.
+[10:38:14	]Usman used command '/ExitAct'.
+[10:38:18	]Usman used command '/ExitAct'.
+[10:38:20	]Usman used command '/ExitAct'.
+[10:38:30	]Usman used command '/ExitAct'.
+[10:38:36	]Usman used command '/ExitAct'.
+[10:38:44	]Usman used command '/ExitAct'.
+[10:38:48	]Usman used command '/ExitAct'.
+[10:38:59	]Usman used command '/ExitAct'.
+[10:39:04	]Usman used command '/ExitAct'.
+[10:39:10	]Usman used command '/ExitAct'.
+[10:39:27	]Usman has used a context menu option with the name: remove
+[10:39:29	]Usman opened the 'Yazar Kasa' #9601 container.
+[10:39:31	]Usman closed the 'Yazar Kasa' #9601 container.
+[10:39:47	]Usman used command '/ExitAct'.
+[10:39:56	]Usman has spawned 'models/xeon133/slider/slider_bar_10x10x96.mdl'.
+[10:39:57	]Usman has spawned 'models/scenery/structural/vesuvius/bartap.mdl'.
+[10:40:22	]Usman entered observer.
+[10:40:23	]Usman exited observer at their location.
+[10:41:03	]Usman entered observer.
+[10:41:04	]Usman exited observer at their location.
+[10:41:07	]Usman has used a context menu option with the name: clientprop
+[10:42:04	]Usman has used a context menu option with the name: remove
+[10:42:09	]Usman has spawned 'models/props/de_inferno/flower_barrel.mdl'.
+[10:42:11	]Usman has spawned 'models/props/de_inferno/flower_barrel_p10.mdl'.
+[10:42:13	]Usman has spawned 'models/weapons/arc_eft_1911/eft_1911_barrel_match/models/eft_1911_barrelmatch.mdl'.
+[10:42:15	]Usman has spawned 'models/mosi/fallout4/props/fortifications/woodenbarrel.mdl'.
+[10:42:18	]Usman has spawned 'models/mosi/fallout4/props/fortifications/doorbarricade.mdl'.
+[10:42:21	]Usman has spawned 'models/weapons/tfa_nmrih/w_me_crowbar.mdl'.
+[10:42:26	]Usman has spawned 'models/props_wasteland/woodwall030b_window03a_bars.mdl'.
+[10:42:28	]Usman has spawned 'models/props_phx/facepunch_barrel.mdl'.
+[10:42:32	]Usman has used a context menu option with the name: ignite
+[10:42:37	]Usman has used a context menu option with the name: remove
+[10:42:48	]Usman has spawned 'models/willardnetworks/food/beer.mdl'.
+[10:42:55	]Usman has spawned 'models/willardnetworks/food/beer.mdl'.
+[10:42:58	]Usman has spawned 'models/willardnetworks/food/beer.mdl'.
+[10:43:08	]Usman has used a context menu option with the name: skin
+[10:43:10	]Usman has used a context menu option with the name: skin
+[10:43:11	]Usman has used a context menu option with the name: clientprop
+[10:43:12	]Usman has used a context menu option with the name: clientprop
+[10:43:14	]Usman has used a context menu option with the name: clientprop
+[10:43:17	]Usman has spawned 'models/props/cs_militia/caseofbeer01.mdl'.
+[10:43:26	]Usman has spawned 'models/props/cs_militia/caseofbeer01.mdl'.
+[10:43:33	]Usman has used a context menu option with the name: door_lockunlock
+[10:43:37	]Usman has spawned 'models/props/cs_militia/caseofbeer01.mdl'.
+[10:43:49	]Usman has spawned 'models\props/CS_militia/shelves_wood.mdl'.
+[10:44:00	]Usman has spawned 'models/props/cs_militia/caseofbeer01.mdl'.
+[10:44:01	]Usman has spawned 'models/props/cs_militia/caseofbeer01.mdl'.
+[10:44:03	]Usman has spawned 'models/props/cs_militia/caseofbeer01.mdl'.
+[10:44:04	]Usman has spawned 'models/props/cs_militia/caseofbeer01.mdl'.
+[10:44:31	]Usman has used a context menu option with the name: remove
+[10:44:39	]Usman has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[10:44:43	]Usman has spawned 'models/props_wasteland/controlroom_filecabinet001a.mdl'.
+[10:44:44	]Usman has spawned 'models/props_wasteland/controlroom_filecabinet002a.mdl'.
+[10:44:52	]Usman created a 'Orta Dosya Dolabı' container.
+[10:44:52	]Usman has used a context menu option with the name: wncontainer_create
+[10:44:52	]Usman opened the 'Orta Dosya Dolabı' #11992 container.
+[10:44:55	]Usman closed the 'Orta Dosya Dolabı' #11992 container.
+[10:45:30	]Usman has spawned 'models/mosi/fallout4/props/fortifications/woodenbarrel.mdl'.
+[10:45:38	]Usman has spawned 'models/props/de_inferno/wine_barrel.mdl'.
+[10:45:39	]Usman has spawned 'models/mosi/fallout4/props/fortifications/woodenbarrel.mdl'.
+[10:45:43	]Usman has spawned 'models/mosi/fallout4/props/fortifications/woodenbarrel.mdl'.
+[10:45:47	]Usman has used a context menu option with the name: clientprop
+[10:45:50	]Usman has spawned 'models/hlvr/combine_hazardprops/combinehazardprops_barrel_lock.mdl'.
+[10:45:52	]Usman has spawned 'models/props_c17/woodbarrel001.mdl'.
+[10:45:53	]Usman has spawned 'models/props/de_inferno/flower_barrel_p11.mdl'.
+[10:45:56	]Usman has spawned 'models/mosi/fallout4/props/fortifications/woodenbarrel.mdl'.
+[10:46:09	]Usman has spawned 'models/props/cs_militia/caseofbeer01.mdl'.
+[10:46:22	]Usman has used a context menu option with the name: clientprop
+[10:46:26	]Usman has used a context menu option with the name: clientprop
+[10:46:39	]Usman has used a context menu option with the name: clientprop
+[10:46:47	]Usman has spawned 'models/willardnetworks/cigarettes/cigarette_pack.mdl'.
+[10:46:54	]Usman has spawned 'models/willardnetworks/cigarettes/lighter.mdl'.
+[10:47:03	]Usman has used a context menu option with the name: clientprop
+[10:47:04	]Usman has used a context menu option with the name: clientprop
+[10:47:05	]Usman has spawned 'models/willardnetworks/cigarettes/cigarette.mdl'.
+[10:47:30	]Usman entered observer.
+[10:47:42	]Usman exited observer at their location.
+[10:47:44	]Usman has spawned 'models/props_junk/cardboard_box001a.mdl'.
+[10:47:45	]Usman has spawned 'models/props_junk/cardboard_box002a.mdl'.
+[10:47:55	]Usman has spawned 'models/props_junk/cardboard_box002a.mdl'.
+[10:48:10	]Usman has fired a toolgun with the name: unbreakable
+[10:48:10	]Usman has fired a toolgun with the name: unbreakable
+[10:48:13	]Usman has used a context menu option with the name: remove
+[10:48:16	]Usman has enabled persistence for 'models/props_junk/cardboard_box002a.mdl'.
+[10:48:16	]Usman has used a context menu option with the name: persist
+[10:48:21	]Usman has spawned 'models/props/cs_militia/caseofbeer01.mdl'.
+[10:48:27	]Usman has spawned 'models/props/cs_militia/caseofbeer01.mdl'.
+[10:48:35	]Usman has used a context menu option with the name: clientprop
+[10:48:36	]Usman has used a context menu option with the name: clientprop
+[10:48:55	]Usman has spawned 'models/props_c17/SuitCase001a.mdl'.
+[10:49:04	]Usman has spawned 'models/props_lab/monitor01a.mdl'.
+[10:49:06	]Usman entered observer.
+[10:49:06	]Usman exited observer at their location.
+[10:49:07	]Usman entered observer.
+[10:49:15	]Usman exited observer at their location.
+[10:49:20	]Usman has fired a toolgun with the name: creator
+[10:49:20	]Usman has spawned 'models/willardnetworks/food/prop_bar_bottle_c.mdl'.
+[10:49:21	]Usman has fired a toolgun with the name: creator
+[10:49:21	]Usman has fired a toolgun with the name: creator
+[10:49:21	]Usman has spawned 'models/willardnetworks/food/prop_bar_bottle_c.mdl'.
+[10:49:22	]Usman has fired a toolgun with the name: creator
+[10:49:22	]Usman has fired a toolgun with the name: creator
+[10:49:22	]Usman has spawned 'models/willardnetworks/food/prop_bar_bottle_c.mdl'.
+[10:49:23	]Usman has fired a toolgun with the name: creator
+[10:49:23	]Usman has spawned 'models/willardnetworks/food/prop_bar_bottle_c.mdl'.
+[10:49:24	]Usman has fired a toolgun with the name: creator
+[10:49:26	]Usman has fired a toolgun with the name: creator
+[10:49:26	]Usman has spawned 'models/willardnetworks/food/prop_bar_bottle_c.mdl'.
+[10:49:34	]Usman has fired a toolgun with the name: creator
+[10:49:34	]Usman has spawned 'models/willardnetworks/food/prop_bar_bottle_c.mdl'.
+[10:49:35	]Usman has fired a toolgun with the name: creator
+[10:49:35	]Usman has spawned 'models/willardnetworks/food/prop_bar_bottle_c.mdl'.
+[10:49:36	]Usman has fired a toolgun with the name: creator
+[10:49:36	]Usman has spawned 'models/willardnetworks/food/prop_bar_bottle_c.mdl'.
+[10:49:38	]Usman has fired a toolgun with the name: creator
+[10:49:38	]Usman has spawned 'models/willardnetworks/food/prop_bar_bottle_c.mdl'.
+[10:49:39	]Usman entered observer.
+[10:49:46	]Usman exited observer at their location.
+[10:49:51	]Usman has used a context menu option with the name: clientprop
+[10:49:53	]Usman has used a context menu option with the name: clientprop
+[10:49:55	]Usman has used a context menu option with the name: clientprop
+[10:49:56	]Usman has used a context menu option with the name: clientprop
+[10:49:57	]Usman has spawned 'models/props/cs_militia/bottle03.mdl'.
+[10:50:11	]Usman has used a context menu option with the name: clientprop
+[10:50:16	]Usman has used a context menu option with the name: clientprop
+[10:50:17	]Usman has spawned 'models/props_junk/glassbottle01a_chunk02a.mdl'.
+[10:50:19	]Usman has spawned 'models/props/cs_office/water_bottle.mdl'.
+[10:50:20	]Usman has spawned 'models/willardnetworks/food/prop_bar_bottle_c.mdl'.
+[10:50:21	]Usman has spawned 'models/willardnetworks/food/prop_bar_bottle_d.mdl'.
+[10:50:29	]Usman has used a context menu option with the name: rb655_dissolve
+[10:50:33	]Usman has used a context menu option with the name: rb655_breakable_break
+[10:50:43	]Usman entered observer.
+[10:50:48	]Usman has used a context menu option with the name: rb655_dissolve
+[10:50:50	]Usman has used a context menu option with the name: rb655_dissolve
+[10:50:55	]Usman has used a context menu option with the name: rb655_dissolve
+[10:51:00	]Usman exited observer at their location.
+[10:51:01	]Usman has spawned 'models/labware/bottle2.mdl'.
+[10:51:07	]Usman has spawned 'models/props_junk/garbage_plasticbottle001a.mdl'.
+[10:51:13	]Usman has used a context menu option with the name: clientprop
+[10:51:16	]Usman has used a context menu option with the name: clientprop
+[10:52:09	]Usman has fired a toolgun with the name: camera
+[10:52:18	]Usman has spawned 'models/props_c17/pushbroom.mdl'.
+[10:53:18	]Usman has used a context menu option with the name: rb655_dissolve
+[10:53:27	]Usman has spawned 'models/props_wasteland/controlroom_chair001a.mdl'.
+[10:53:29	]Usman has spawned 'models/props_wasteland/controlroom_chair001a.mdl'.
+[10:53:35	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_wasteland/controlroom_chair001a.mdl'.
+[10:53:35	]Usman has used a context menu option with the name: ixusableentitycreate
+[10:53:39	]Usman used command '/ExitAct'.
+[10:53:40	]Usman has used a context menu option with the name: remove
+[10:53:47	]Usman has spawned 'models/nova/chair_office01.mdl'.
+[10:53:53	]Usman has spawned a usable entity class 'ix_chair' with model 'models/nova/chair_office01.mdl'.
+[10:53:53	]Usman has used a context menu option with the name: ixusableentitycreate
+[10:53:59	]Usman used command '/ExitAct'.
+[10:54:01	]Usman has used a context menu option with the name: collision_on
+[10:54:04	]Usman used command '/ExitAct'.
+[10:54:24	]Usman has spawned 'models/u4lab/chair_office_a.mdl'.
+[10:54:28	]Usman has spawned 'models/props/cs_office/chair_office.mdl'.
+[10:54:29	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props/cs_office/chair_office.mdl'.
+[10:54:29	]Usman has used a context menu option with the name: ixusableentitycreate
+[10:54:32	]Usman used command '/ExitAct'.
+[10:54:35	]Usman used command '/ExitAct'.
+[10:54:39	]Usman has used a context menu option with the name: remove
+[10:54:53	]Usman used command '/ExitAct'.
+[10:55:00	]Usman has used a context menu option with the name: remove
+[10:55:10	]Usman has fired a toolgun with the name: camera
+[10:55:14	]Usman has spawned 'models/props_c17/FurnitureTable001a.mdl'.
+[10:55:24	]Usman has spawned 'models/props_interiors/desk_motel.mdl'.
+[10:55:54	]Usman has enabled persistence for 'models/props_interiors/desk_motel.mdl'.
+[10:55:54	]Usman has used a context menu option with the name: persist
+[10:56:10	]Usman has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[10:56:18	]Usman has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[10:56:46	]Usman has used a context menu option with the name: rb655_dissolve
+[10:56:52	]Usman has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[10:57:04	]Usman has spawned 'models/props_c17/FurnitureTable001a.mdl'.
+[10:57:17	]Usman has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[10:57:29	]Usman has used a context menu option with the name: remove
+[10:57:31	]Usman has used a context menu option with the name: ignite
+[10:57:32	]Usman has used a context menu option with the name: remove
+[10:57:33	]Usman has used a context menu option with the name: remove
+[10:57:40	]Usman has used a context menu option with the name: rb655_dissolve
+[10:57:45	]Usman has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[10:57:54	]Usman has spawned 'models/props_c17/FurnitureTable001a.mdl'.
+[10:58:04	]Usman has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[10:58:31	]Usman has spawned 'models/props_c17/furniturefireplace001a.mdl'.
+[10:58:47	]Usman has spawned 'models/props/de_inferno/fireplace.mdl'.
+[10:58:52	]Usman has used a context menu option with the name: remove
+[10:59:16	]Usman entered observer.
+[10:59:18	]Usman exited observer at their location.
+[10:59:18	]Usman entered observer.
+[10:59:22	]Usman has spawned 'models/props/cs_militia/fireplacechimney01.mdl'.
+[10:59:23	]Usman has spawned 'models/props/de_inferno/fireplace.mdl'.
+[10:59:27	]Usman has spawned a 'Entity [4190][sent_vj_fireplace]'.
+[10:59:28	]Usman has spawned a 'Entity [5010][sent_vj_fireplace]'.
+[10:59:32	]Usman exited observer at their location.
+[10:59:39	]Usman has spawned a 'Entity [4190][sent_vj_fireplace]'.
+[10:59:42	]Usman has used a context menu option with the name: collision_off
+[10:59:52	]Usman has used a context menu option with the name: collision_on
+[11:00:12	]Usman has spawned 'models/props_wasteland/wood_fence01a.mdl'.
+[11:00:14	]Usman has spawned 'models/props_wasteland/wood_fence02a.mdl'.
+[11:00:20	]Usman has used a context menu option with the name: collision_off
+[11:00:43	]Usman has spawned 'models/props_wasteland/wood_fence02a.mdl'.
+[11:01:40	]Usman has used a context menu option with the name: remove
+[11:01:42	]Usman has used a context menu option with the name: remove
+[11:01:54	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:02:04	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:02:13	]Usman has used a context menu option with the name: collision_off
+[11:02:28	]Usman has used a context menu option with the name: remove
+[11:02:55	]Usman has fired a toolgun with the name: stacker_improved
+[11:02:55	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:03:09	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:03:31	]Usman entered observer.
+[11:04:06	]Usman exited observer at their location.
+[11:04:17	]Usman has fired a toolgun with the name: stacker_improved
+[11:04:17	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:04:18	]Usman has fired a toolgun with the name: stacker_improved
+[11:04:18	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:04:19	]Usman has fired a toolgun with the name: stacker_improved
+[11:04:19	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:04:19	]Usman has fired a toolgun with the name: stacker_improved
+[11:04:19	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:04:20	]Usman has fired a toolgun with the name: stacker_improved
+[11:04:20	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:04:37	]Usman has fired a toolgun with the name: stacker_improved
+[11:04:37	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:04:38	]Usman has fired a toolgun with the name: stacker_improved
+[11:04:38	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:04:39	]Usman has fired a toolgun with the name: stacker_improved
+[11:04:39	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:04:45	]Usman entered observer.
+[11:05:15	]Usman exited observer at their location.
+[11:06:16	]Usman has spawned 'models/props_c17/oildrum001.mdl'.
+[11:06:22	]Usman entered observer.
+[11:06:27	]Usman exited observer at their location.
+[11:06:37	]Usman has spawned 'models/props_c17/oildrum001.mdl'.
+[11:06:38	]Usman entered observer.
+[11:06:47	]Usman has fired a toolgun with the name: stacker_improved
+[11:06:47	]Usman has spawned 'models/props_c17/oildrum001.mdl'.
+[11:06:48	]Usman exited observer at their location.
+[11:06:56	]Usman has fired a toolgun with the name: material
+[11:06:57	]Usman has fired a toolgun with the name: material
+[11:07:05	]Usman has spawned 'models/props_wasteland/wood_fence01a.mdl'.
+[11:07:26	]Usman has spawned 'models/props_wasteland/wood_fence01a.mdl'.
+[11:07:43	]Usman has spawned 'models/mosi/fallout4/props/fortifications/cinderblocks03.mdl'.
+[11:07:45	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:07:47	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:07:52	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold02.mdl'.
+[11:07:58	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold02.mdl'.
+[11:07:59	]Usman has taken 5 damage from prop_physics.
+[11:08:02	]Usman is fully healed.
+[11:08:05	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:08:15	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:08:29	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:08:44	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:08:46	]Usman has used a context menu option with the name: collision_off
+[11:08:57	]Usman has used a context menu option with the name: collision_on
+[11:08:59	]Usman has used a context menu option with the name: collision_off
+[11:09:00	]Usman has used a context menu option with the name: collision_off
+[11:09:01	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:09:11	]Usman has used a context menu option with the name: collision_off
+[11:09:14	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:09:21	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:09:27	]Usman has used a context menu option with the name: collision_off
+[11:09:40	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:09:44	]Usman has used a context menu option with the name: collision_off
+[11:10:09	]Usman has spawned 'models/mosi/fallout4/props/fortifications/bos/poles.mdl'.
+[11:10:15	]Usman has used a context menu option with the name: remove
+[11:10:17	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold01.mdl'.
+[11:10:29	]Usman has used a context menu option with the name: collision_off
+[11:10:39	]Usman has used a context menu option with the name: remove
+[11:10:42	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks02.mdl'.
+[11:10:44	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks01.mdl'.
+[11:10:46	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks01.mdl'.
+[11:10:47	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks01.mdl'.
+[11:11:01	]Usman has used a context menu option with the name: collision_off
+[11:11:18	]Usman has used a context menu option with the name: collision_off
+[11:11:32	]Usman has fired a toolgun with the name: stacker_improved
+[11:11:32	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks01.mdl'.
+[11:11:37	]Usman has fired a toolgun with the name: stacker_improved
+[11:11:42	]Usman has fired a toolgun with the name: stacker_improved
+[11:11:42	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks01.mdl'.
+[11:11:43	]Usman has fired a toolgun with the name: stacker_improved
+[11:11:43	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks01.mdl'.
+[11:11:44	]Usman has fired a toolgun with the name: stacker_improved
+[11:11:44	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks01.mdl'.
+[11:11:44	]Usman has fired a toolgun with the name: stacker_improved
+[11:11:44	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks01.mdl'.
+[11:11:45	]Usman has fired a toolgun with the name: stacker_improved
+[11:11:45	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks01.mdl'.
+[11:11:45	]Usman has fired a toolgun with the name: stacker_improved
+[11:11:45	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks01.mdl'.
+[11:11:46	]Usman has fired a toolgun with the name: stacker_improved
+[11:11:46	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks01.mdl'.
+[11:12:03	]Usman has used a context menu option with the name: collision_off
+[11:12:04	]Usman has used a context menu option with the name: collision_off
+[11:12:05	]Usman has used a context menu option with the name: collision_on
+[11:12:07	]Usman has used a context menu option with the name: collision_off
+[11:12:09	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:12:15	]Usman has used a context menu option with the name: remove
+[11:12:18	]Usman has used a context menu option with the name: remove
+[11:13:13	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:13:15	]Usman has used a context menu option with the name: collision_off
+[11:13:19	]Usman has used a context menu option with the name: collision_off
+[11:13:31	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:13:37	]Usman entered observer.
+[11:13:38	]Usman exited observer at their location.
+[11:13:42	]Usman has used a context menu option with the name: collision_off
+[11:13:55	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:13:57	]Usman has used a context menu option with the name: collision_off
+[11:14:07	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold02.mdl'.
+[11:14:10	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:14:12	]Usman has used a context menu option with the name: collision_off
+[11:14:23	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:14:24	]Usman has used a context menu option with the name: collision_off
+[11:14:36	]Usman has used a context menu option with the name: collision_off
+[11:15:01	]Usman entered observer.
+[11:15:02	]Usman exited observer at their location.
+[11:15:16	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:15:40	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:15:42	]Usman has used a context menu option with the name: collision_off
+[11:15:57	]Usman has used a context menu option with the name: remove
+[11:15:58	]Usman has used a context menu option with the name: remove
+[11:15:59	]Usman has used a context menu option with the name: remove
+[11:16:00	]Usman has used a context menu option with the name: remove
+[11:16:01	]Usman has used a context menu option with the name: remove
+[11:16:04	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:16:06	]Usman has used a context menu option with the name: collision_off
+[11:16:11	]Usman has used a context menu option with the name: collision_off
+[11:16:30	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:16:42	]Usman has used a context menu option with the name: collision_off
+[11:16:49	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:16:56	]Usman has used a context menu option with the name: collision_off
+[11:17:01	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:17:02	]Usman has used a context menu option with the name: collision_off
+[11:17:16	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold01.mdl'.
+[11:17:17	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold01.mdl'.
+[11:17:19	]Usman has used a context menu option with the name: collision_off
+[11:17:37	]Usman has spawned 'models/mosi/fallout4/props/fortifications/doorbarricade.mdl'.
+[11:17:41	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold01.mdl'.
+[11:17:42	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:18:04	]Usman has used a context menu option with the name: collision_off
+[11:18:08	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold01.mdl'.
+[11:18:10	]Usman has used a context menu option with the name: collision_off
+[11:18:29	]Usman has used a context menu option with the name: remove
+[11:18:30	]Usman entered observer.
+[11:18:31	]Usman exited observer at their location.
+[11:18:34	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold01.mdl'.
+[11:18:36	]Usman entered observer.
+[11:18:37	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold01.mdl'.
+[11:18:38	]Usman exited observer at their location.
+[11:18:40	]Usman has used a context menu option with the name: collision_off
+[11:18:40	]Usman entered observer.
+[11:18:40	]Usman exited observer at their location.
+[11:18:55	]Usman has fired a toolgun with the name: precision
+[11:18:59	]Usman has fired a toolgun with the name: precision
+[11:19:06	]Usman has fired a toolgun with the name: precision
+[11:19:07	]Usman has fired a toolgun with the name: precision
+[11:19:08	]Usman has fired a toolgun with the name: precision
+[11:19:11	]Usman has fired a toolgun with the name: precision
+[11:19:15	]Usman has fired a toolgun with the name: precision
+[11:19:16	]Usman has fired a toolgun with the name: precision
+[11:19:28	]Usman entered observer.
+[11:20:09	]Usman has used a context menu option with the name: remove
+[11:20:20	]Usman exited observer at their location.
+[11:20:20	]Usman entered observer.
+[11:20:21	]Usman exited observer at their location.
+[11:20:23	]Usman has spawned 'models/mosi/fallout4/props/fortifications/tirepile01.mdl'.
+[11:20:23	]Usman has taken 5 damage from prop_physics.
+[11:20:25	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:20:26	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold02.mdl'.
+[11:20:27	]Usman is fully healed.
+[11:20:27	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold01.mdl'.
+[11:20:30	]Usman has fired a toolgun with the name: precision
+[11:20:34	]Usman has fired a toolgun with the name: precision
+[11:20:37	]Usman has fired a toolgun with the name: precision
+[11:20:40	]Usman has fired a toolgun with the name: precision
+[11:20:52	]Usman has fired a toolgun with the name: precision
+[11:21:11	]Usman has fired a toolgun with the name: precision
+[11:21:14	]Usman entered observer.
+[11:21:19	]Usman has fired a toolgun with the name: precision
+[11:21:19	]Usman has fired a toolgun with the name: precision
+[11:21:20	]Usman exited observer at their location.
+[11:21:31	]Usman entered observer.
+[11:21:34	]Usman exited observer at their location.
+[11:21:37	]Usman has used a context menu option with the name: clientprop
+[11:21:43	]Usman has used a context menu option with the name: clientprop
+[11:21:46	]Usman has used a context menu option with the name: clientprop
+[11:21:54	]Usman has used a context menu option with the name: remove
+[11:21:58	]Usman has used a context menu option with the name: clientprop
+[11:22:00	]Usman has used a context menu option with the name: clientprop
+[11:22:04	]Usman has used a context menu option with the name: clientprop
+[11:22:06	]Usman has used a context menu option with the name: clientprop
+[11:22:08	]Usman has used a context menu option with the name: clientprop
+[11:22:10	]Usman has used a context menu option with the name: clientprop
+[11:22:19	]Usman has used a context menu option with the name: clientprop
+[11:22:22	]Usman has used a context menu option with the name: collision_on
+[11:22:23	]Usman has used a context menu option with the name: collision_off
+[11:22:28	]Usman has used a context menu option with the name: clientprop
+[11:22:31	]Usman has used a context menu option with the name: clientprop
+[11:22:33	]Usman has used a context menu option with the name: clientprop
+[11:22:35	]Usman has used a context menu option with the name: clientprop
+[11:22:39	]Usman has used a context menu option with the name: clientprop
+[11:22:42	]Usman has used a context menu option with the name: clientprop
+[11:22:44	]Usman has used a context menu option with the name: clientprop
+[11:22:47	]Usman has used a context menu option with the name: clientprop
+[11:22:53	]Usman has used a context menu option with the name: clientprop
+[11:22:57	]Usman has used a context menu option with the name: clientprop
+[11:23:01	]Usman has used a context menu option with the name: clientprop
+[11:23:14	]Usman has used a context menu option with the name: clientprop
+[11:23:16	]Usman has used a context menu option with the name: clientprop
+[11:23:20	]Usman has used a context menu option with the name: clientprop
+[11:23:29	]Usman has used a context menu option with the name: collision_on
+[11:23:32	]Usman has enabled persistence for 'models/props/de_inferno/fireplace.mdl'.
+[11:23:32	]Usman has used a context menu option with the name: persist
+[11:23:36	]Usman has used a context menu option with the name: clientprop
+[11:23:40	]Usman has used a context menu option with the name: clientprop
+[11:23:42	]Usman has used a context menu option with the name: clientprop
+[11:23:43	]Usman has used a context menu option with the name: clientprop
+[11:23:49	]Usman has fired a toolgun with the name: remover
+[11:23:51	]Usman has fired a toolgun with the name: remover
+[11:23:52	]Usman has fired a toolgun with the name: remover
+[11:23:55	]Usman has used a context menu option with the name: clientprop
+[11:23:56	]Usman has used a context menu option with the name: clientprop
+[11:23:57	]Usman has used a context menu option with the name: clientprop
+[11:23:59	]Usman has used a context menu option with the name: clientprop
+[11:24:00	]Usman has used a context menu option with the name: clientprop
+[11:24:02	]Usman has used a context menu option with the name: clientprop
+[11:24:05	]Usman has used a context menu option with the name: clientprop
+[11:24:06	]Usman has used a context menu option with the name: clientprop
+[11:24:22	]Usman has enabled persistence for 'models/vj_props/fireplace.mdl'.
+[11:24:22	]Usman has used a context menu option with the name: persist
+[11:24:50	]Usman has used a context menu option with the name: clientprop
+[11:24:54	]Usman has used a context menu option with the name: clientprop
+[11:24:58	]Usman has used a context menu option with the name: clientprop
+[11:25:00	]Usman has used a context menu option with the name: clientprop
+[11:25:02	]Usman has enabled persistence for 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:25:02	]Usman has used a context menu option with the name: persist
+[11:25:22	]Usman has used a context menu option with the name: clientprop
+[11:25:23	]Usman has enabled persistence for 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:25:23	]Usman has used a context menu option with the name: persist
+[11:25:29	]Usman has used a context menu option with the name: clientprop
+[11:25:30	]Usman has used a context menu option with the name: clientprop
+[11:26:04	]Usman has used a context menu option with the name: collision_off
+[11:26:16	]Usman has used a context menu option with the name: collision_on
+[11:26:17	]Usman has enabled persistence for 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:26:17	]Usman has used a context menu option with the name: persist
+[11:26:18	]Usman has used a context menu option with the name: collision_off
+[11:26:27	]Usman has used a context menu option with the name: clientprop
+[11:26:28	]Usman has enabled persistence for 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:26:28	]Usman has used a context menu option with the name: persist
+[11:26:41	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold02.mdl'.
+[11:26:43	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold01.mdl'.
+[11:26:51	]Usman has used a context menu option with the name: keepupright
+[11:26:52	]Usman has used a context menu option with the name: remove
+[11:26:53	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold02.mdl'.
+[11:26:54	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:27:08	]Usman has used a context menu option with the name: collision_off
+[11:27:09	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:27:29	]Usman has used a context menu option with the name: clientprop
+[11:27:30	]Usman has enabled persistence for 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:27:30	]Usman has used a context menu option with the name: persist
+[11:27:31	]Usman has enabled persistence for 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:27:31	]Usman has used a context menu option with the name: persist
+[11:27:43	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks05.mdl'.
+[11:27:44	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks04.mdl'.
+[11:27:45	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks03.mdl'.
+[11:27:46	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks02.mdl'.
+[11:27:47	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks01.mdl'.
+[11:27:49	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks04.mdl'.
+[11:27:50	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks03.mdl'.
+[11:28:08	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks03.mdl'.
+[11:28:22	]Usman has spawned 'models/mosi/fallout4/props/fortifications/planks03.mdl'.
+[11:28:45	]Usman has used a context menu option with the name: clientprop
+[11:28:47	]Usman has used a context menu option with the name: clientprop
+[11:28:50	]Usman has used a context menu option with the name: rb655_dissolve
+[11:28:54	]Usman has spawned 'models/mosi/fallout4/props/fortifications/ramp_truck.mdl'.
+[11:28:55	]Usman has spawned 'models/mosi/fallout4/props/fortifications/ramp_plywood.mdl'.
+[11:29:03	]Usman has spawned 'models/vj_hlr/gibs/bleachbones_bskull_template1.mdl'.
+[11:29:04	]Usman entered observer.
+[11:29:09	]Usman exited observer at their location.
+[11:29:12	]Usman has used a context menu option with the name: clientprop
+[11:29:14	]Usman has spawned 'models/vj_hlr/gibs/hgib_skull.mdl'.
+[11:29:30	]Usman has used a context menu option with the name: clientprop
+[11:29:34	]Usman has used a context menu option with the name: clientprop
+[11:29:38	]Usman has used a context menu option with the name: clientprop
+[11:29:53	]Usman has used a context menu option with the name: clientprop
+[11:29:55	]Usman has disabled persistence for 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:29:55	]Usman has used a context menu option with the name: persist_end
+[11:29:56	]Usman has used a context menu option with the name: clientprop
+[11:29:57	]Usman has enabled persistence for 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:29:57	]Usman has used a context menu option with the name: persist
+[11:30:04	]Usman has used a context menu option with the name: clientprop
+[11:30:09	]Usman has used a context menu option with the name: clientprop
+[11:30:13	]Usman entered observer.
+[11:30:15	]Usman exited observer at their location.
+[11:30:26	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold01.mdl'.
+[11:30:34	]Usman has used a context menu option with the name: collision_off
+[11:30:44	]Usman has used a context menu option with the name: clientprop
+[11:30:48	]Usman has used a context menu option with the name: collision_off
+[11:31:02	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold01.mdl'.
+[11:31:06	]Usman has used a context menu option with the name: collision_off
+[11:31:15	]Usman has used a context menu option with the name: collision_on
+[11:31:20	]Usman has used a context menu option with the name: clientprop
+[11:31:25	]Usman has used a context menu option with the name: clientprop
+[11:31:28	]Usman has used a context menu option with the name: clientprop
+[11:31:39	]Usman entered observer.
+[11:31:42	]Usman has used a context menu option with the name: collision_off
+[11:31:50	]Usman has used a context menu option with the name: clientprop
+[11:31:55	]Usman has used a context menu option with the name: clientprop
+[11:31:59	]Usman has used a context menu option with the name: clientprop
+[11:32:02	]Usman exited observer at their location.
+[11:32:28	]Usman has used a context menu option with the name: clientprop
+[11:32:30	]Usman has used a context menu option with the name: remove
+[11:32:33	]Usman has spawned 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:32:42	]Usman has used a context menu option with the name: collision_off
+[11:32:43	]Usman has used a context menu option with the name: clientprop
+[11:32:58	]Usman has used a context menu option with the name: clientprop
+[11:33:33	]Usman has used a context menu option with the name: clientprop
+[11:33:41	]Usman has spawned 'models/props_lab/huladoll.mdl'.
+[11:33:42	]Usman entered observer.
+[11:33:47	]Usman has used a context menu option with the name: collision_on
+[11:33:55	]Usman has used a context menu option with the name: clientprop
+[11:33:56	]Usman exited observer at their location.
+[11:34:05	]Usman has spawned 'models/props_combine/headcrabcannister01a.mdl'.
+[11:34:06	]Usman has spawned 'models/props_combine/headcrabcannister01a_skybox.mdl'.
+[11:34:16	]Usman has used a context menu option with the name: collision_off
+[11:34:16	]Usman entered observer.
+[11:34:26	]Usman has spawned 'models/props_combine/headcrabcannister01b.mdl'.
+[11:34:28	]Usman has spawned 'models/props_combine/headcrabcannister01a_skybox.mdl'.
+[11:34:38	]Usman has used a context menu option with the name: collision_on
+[11:34:39	]Usman exited observer at their location.
+[11:34:45	]Usman has used a context menu option with the name: clientprop
+[11:34:55	]Usman has used a context menu option with the name: clientprop
+[11:35:02	]Usman has used a context menu option with the name: clientprop
+[11:35:03	]Usman entered observer.
+[11:35:05	]Usman exited observer at their location.
+[11:35:06	]Usman entered observer.
+[11:35:06	]Usman exited observer at their location.
+[11:35:10	]Usman has spawned 'models/props_c17/oildrum001.mdl'.
+[11:35:14	]Usman has used a context menu option with the name: collision_off
+[11:35:17	]Usman has used a context menu option with the name: clientprop
+[11:35:21	]Usman has used a context menu option with the name: clientprop
+[11:35:27	]Usman has used a context menu option with the name: clientprop
+[11:35:30	]Usman has used a context menu option with the name: clientprop
+[11:35:33	]Usman has used a context menu option with the name: clientprop
+[11:35:38	]Usman has used a context menu option with the name: clientprop
+[11:35:42	]Usman has used a context menu option with the name: clientprop
+[11:35:46	]Usman has used a context menu option with the name: clientprop
+[11:35:48	]Usman has used a context menu option with the name: clientprop
+[11:35:55	]Usman has used a context menu option with the name: clientprop
+[11:36:01	]Usman has used a context menu option with the name: remove
+[11:36:11	]Usman has used a context menu option with the name: clientprop
+[11:36:18	]Usman has disabled persistence for 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:36:18	]Usman has used a context menu option with the name: persist_end
+[11:36:20	]Usman has used a context menu option with the name: clientprop
+[11:36:21	]Usman has enabled persistence for 'models/mosi/fallout4/props/fortifications/stonewallold03.mdl'.
+[11:36:21	]Usman has used a context menu option with the name: persist
+[11:36:35	]Usman has spawned 'models/hunter/plates/plate7x8.mdl'.
+[11:36:50	]Usman has spawned 'models/hunter/plates/plate4x5.mdl'.
+[11:36:51	]Usman has spawned 'models/hunter/plates/plate4x4.mdl'.
+[11:36:54	]Usman has spawned 'models/hunter/plates/plate2x2.mdl'.
+[11:37:12	]Usman has spawned 'models/hunter/plates/plate2x2.mdl'.
+[11:37:20	]Usman has spawned 'models/hunter/plates/plate2x3.mdl'.
+[11:37:22	]Usman has spawned 'models/hunter/plates/plate2x4.mdl'.
+[11:37:23	]Usman has spawned 'models/hunter/plates/plate2x5.mdl'.
+[11:37:35	]Usman entered observer.
+[11:37:36	]Usman exited observer at their location.
+[11:37:36	]Usman entered observer.
+[11:37:40	]Usman exited observer at their location.
+[11:38:18	]Usman entered observer.
+[11:38:21	]Usman exited observer at their location.
+[11:38:36	]Usman has fired a toolgun with the name: material
+[11:38:38	]Usman has fired a toolgun with the name: material
+[11:38:41	]Usman has fired a toolgun with the name: material
+[11:38:45	]Usman has enabled persistence for 'models/hunter/plates/plate2x5.mdl'.
+[11:38:45	]Usman has used a context menu option with the name: persist
+[11:39:09	]Usman has used a context menu option with the name: clientprop
+[11:39:10	]Usman entered observer.
+[11:39:16	]Usman exited observer at their location.
+[11:39:21	]Usman entered observer.
+[11:39:25	]Usman has used a context menu option with the name: clientprop
+[11:39:42	]Usman exited observer at their location.
+[11:39:43	]Usman entered observer.
+[11:39:45	]Usman exited observer at their location.
+[11:40:06	]Usman has used a context menu option with the name: clientprop
+[11:40:12	]Usman entered observer.
+[11:40:22	]Usman exited observer at their location.
+[11:40:48	]Usman has spawned 'models/highrise/lobby_chair_01.mdl'.
+[11:40:56	]Usman has spawned 'models/props/cs_militia/couch.mdl'.
+[11:41:03	]Usman has spawned 'models/props/cs_militia/couch.mdl'.
+[11:41:27	]Usman has spawned 'models/props/de_inferno/furniture_couch01a.mdl'.
+[11:41:29	]Usman has spawned 'models/props/cs_militia/couch.mdl'.
+[11:41:39	]Usman has spawned a usable entity class 'ix_couch' with model 'models/props/cs_militia/couch.mdl'.
+[11:41:39	]Usman has used a context menu option with the name: ixusableentitycreate
+[11:41:42	]Usman has used a context menu option with the name: collision_on
+[11:41:44	]Usman used command '/ExitAct'.
+[11:41:50	]Usman used command '/ExitAct'.
+[11:41:55	]Usman has used a context menu option with the name: rb655_dissolve
+[11:41:58	]Usman has spawned 'models/props/de_inferno/furniturecouch001a.mdl'.
+[11:42:02	]Usman has used a context menu option with the name: remove
+[11:42:03	]Usman has spawned 'models/props/cs_militia/couch.mdl'.
+[11:42:13	]Usman has spawned a usable entity class 'ix_couch' with model 'models/props/cs_militia/couch.mdl'.
+[11:42:13	]Usman has used a context menu option with the name: ixusableentitycreate
+[11:42:16	]Usman used command '/ExitAct'.
+[11:42:19	]Usman used command '/ExitAct'.
+[11:42:21	]Usman used command '/ExitAct'.
+[11:42:38	]Usman has used a context menu option with the name: remove
+[11:42:45	]Usman has used a context menu option with the name: clientprop
+[11:42:48	]Usman entered observer.
+[11:42:57	]Usman has used a context menu option with the name: clientprop
+[11:43:03	]Usman exited observer at their location.
+[11:43:04	]Usman entered observer.
+[11:43:04	]Usman exited observer at their location.
+[11:43:22	]Usman has used a context menu option with the name: collision_on
+[11:43:35	]Usman entered observer.
+[11:43:36	]Usman exited observer at their location.
+[11:43:41	]Usman entered observer.
+[11:43:47	]Usman has used a context menu option with the name: clientprop
+[11:43:50	]Usman has used a context menu option with the name: clientprop
+[11:44:09	]Usman has fired a toolgun with the name: precision
+[11:44:12	]Usman has fired a toolgun with the name: precision
+[11:44:12	]Usman has fired a toolgun with the name: precision
+[11:44:37	]Usman has spawned 'models/vj_hlr/gibs/bleachbones_bskull_template1.mdl'.
+[11:44:48	]Usman has used a context menu option with the name: clientprop
+[11:44:52	]Usman exited observer at their location.
+[11:45:04	]Usman has fired a toolgun with the name: unbreakable
+[11:45:04	]Usman has fired a toolgun with the name: unbreakable
+[11:45:05	]Usman has fired a toolgun with the name: unbreakable
+[11:45:06	]Usman has fired a toolgun with the name: unbreakable
+[11:45:07	]Usman has fired a toolgun with the name: unbreakable
+[11:45:07	]Usman has fired a toolgun with the name: unbreakable
+[11:45:11	]Usman has enabled persistence for 'models/props_c17/furniturechair001a.mdl'.
+[11:45:11	]Usman has used a context menu option with the name: persist
+[11:45:12	]Usman has enabled persistence for 'models/props_c17/furnituretable001a.mdl'.
+[11:45:12	]Usman has used a context menu option with the name: persist
+[11:45:14	]Usman has enabled persistence for 'models/props_c17/furniturechair001a.mdl'.
+[11:45:14	]Usman has used a context menu option with the name: persist
+[11:45:15	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_c17/furniturechair001a.mdl'.
+[11:45:15	]Usman has used a context menu option with the name: ixusableentitycreate
+[11:45:17	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_c17/furniturechair001a.mdl'.
+[11:45:17	]Usman has used a context menu option with the name: ixusableentitycreate
+[11:45:19	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_c17/furniturechair001a.mdl'.
+[11:45:19	]Usman has used a context menu option with the name: ixusableentitycreate
+[11:45:22	]Usman has enabled persistence for 'models/props_c17/furnituretable001a.mdl'.
+[11:45:22	]Usman has used a context menu option with the name: persist
+[11:45:24	]Usman has enabled persistence for 'models/props_c17/furniturechair001a.mdl'.
+[11:45:24	]Usman has used a context menu option with the name: persist
+[11:45:25	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_c17/furniturechair001a.mdl'.
+[11:45:25	]Usman has used a context menu option with the name: ixusableentitycreate
+[11:45:27	]Usman has enabled persistence for 'models/props_c17/furniturechair001a.mdl'.
+[11:45:27	]Usman has used a context menu option with the name: persist
+[11:45:28	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_c17/furniturechair001a.mdl'.
+[11:45:28	]Usman has used a context menu option with the name: ixusableentitycreate
+[11:45:29	]Usman has enabled persistence for 'models/props_c17/furnituretable001a.mdl'.
+[11:45:29	]Usman has used a context menu option with the name: persist
+[11:45:33	]Usman has fired a toolgun with the name: unbreakable
+[11:45:34	]Usman has fired a toolgun with the name: unbreakable
+[11:45:35	]Usman has fired a toolgun with the name: unbreakable
+[11:45:35	]Usman has fired a toolgun with the name: unbreakable
+[11:45:36	]Usman has fired a toolgun with the name: unbreakable
+[11:45:36	]Usman has fired a toolgun with the name: unbreakable
+[11:45:37	]Usman has fired a toolgun with the name: unbreakable
+[11:45:37	]Usman has fired a toolgun with the name: unbreakable
+[11:45:38	]Usman has fired a toolgun with the name: unbreakable
+[11:45:38	]Usman has fired a toolgun with the name: unbreakable
+[11:45:38	]Usman has fired a toolgun with the name: unbreakable
+[11:45:38	]Usman has fired a toolgun with the name: unbreakable
+[11:45:38	]Usman has fired a toolgun with the name: unbreakable
+[11:45:39	]Usman has fired a toolgun with the name: unbreakable
+[11:45:47	]Usman has used a context menu option with the name: remove
+[11:47:17	]Usman has fired a toolgun with the name: creator
+[11:47:17	]Usman has spawned a 'Weapon [5018][weapon_smg1]'.
+[11:47:17	]Usman has fired a toolgun with the name: creator
+[11:47:17	]Usman has spawned a 'Weapon [5019][weapon_smg1]'.
+[11:47:17	]Usman has fired a toolgun with the name: creator
+[11:47:17	]Usman has spawned a 'Weapon [5021][weapon_smg1]'.
+[11:47:17	]Usman has fired a toolgun with the name: creator
+[11:47:17	]Usman has spawned a 'Weapon [5026][weapon_smg1]'.
+[11:47:17	]Usman has fired a toolgun with the name: creator
+[11:47:17	]Usman has spawned a 'Weapon [5027][weapon_smg1]'.
+[11:47:51	]Usman has fired a toolgun with the name: creator
+[11:47:51	]Usman has spawned a 'Weapon [5019][weapon_smg1]'.
+[11:47:51	]Usman has fired a toolgun with the name: creator
+[11:47:51	]Usman has spawned a 'Weapon [5021][weapon_smg1]'.
+[11:47:51	]Usman has fired a toolgun with the name: creator
+[11:47:51	]Usman has spawned a 'Weapon [5026][weapon_smg1]'.
+[11:47:51	]Usman has fired a toolgun with the name: creator
+[11:47:51	]Usman has spawned a 'Weapon [5027][weapon_smg1]'.
+[11:47:52	]Usman has fired a toolgun with the name: creator
+[11:47:52	]Usman has spawned a 'Weapon [5028][weapon_smg1]'.
+[11:47:52	]Usman has fired a toolgun with the name: creator
+[11:47:52	]Usman has spawned a 'Weapon [5029][weapon_smg1]'.
+[11:47:52	]Usman has fired a toolgun with the name: creator
+[11:47:52	]Usman has spawned a 'Weapon [5030][weapon_smg1]'.
+[11:47:53	]Usman has fired a toolgun with the name: creator
+[11:47:53	]Usman has spawned a 'Weapon [5021][weapon_smg1]'.
+[11:47:54	]Usman has fired a toolgun with the name: creator
+[11:47:54	]Usman has spawned a 'Weapon [5019][weapon_smg1]'.
+[11:48:09	]Usman entered observer.
+[11:48:11	]Usman exited observer at their location.
+[11:48:47	]Usman has used a context menu option with the name: clientprop
+[11:49:06	]Usman has used a context menu option with the name: collision_on
+[11:49:10	]Usman used command '/ExitAct'.
+[11:49:15	]Usman entered observer.
+[11:49:17	]Usman exited observer at their location.
+[11:49:21	]Usman entered observer.
+[11:49:29	]Usman exited observer at their location.
+[11:49:32	]Usman entered observer.
+[11:49:56	]Usman exited observer at their location.
+[11:49:57	]Usman has taken 75 damage from worldspawn.
+[11:49:58	]Usman entered observer.
+[11:49:59	]Usman exited observer at their location.
+[11:50:02	]Usman is fully healed.
+[11:50:04	]Usman entered observer.
+[11:50:05	]Usman exited observer at their location.
+[11:50:19	]Neo-Wolffe (STEAM_0:1:147154620) has disconnected.
+[14:06:50	]bquits has connected.
+[14:07:17	]bquits loaded the character 'Bquits'
+[14:07:25	]Bquits entered observer.
+[14:07:34	]Bquits has fired a toolgun with the name: remover
+[14:07:34	]Bquits has fired a toolgun with the name: remover
+[14:07:34	]Bquits has fired a toolgun with the name: remover
+[14:07:34	]Bquits has fired a toolgun with the name: remover
+[14:07:34	]Bquits has fired a toolgun with the name: remover
+[14:07:34	]Bquits has fired a toolgun with the name: remover
+[14:07:35	]Bquits has fired a toolgun with the name: remover
+[14:07:35	]Bquits has fired a toolgun with the name: remover
+[14:07:35	]Bquits has fired a toolgun with the name: remover
+[14:07:35	]Bquits has fired a toolgun with the name: remover
+[14:07:35	]Bquits has fired a toolgun with the name: remover
+[14:07:36	]Bquits has fired a toolgun with the name: remover
+[14:07:38	]Bquits has fired a toolgun with the name: remover
+[14:07:38	]Bquits has fired a toolgun with the name: remover
+[14:07:38	]Bquits has fired a toolgun with the name: remover
+[14:07:38	]Bquits has fired a toolgun with the name: remover
+[14:07:40	]Bquits has fired a toolgun with the name: remover
+[14:07:40	]Bquits has fired a toolgun with the name: remover
+[14:07:40	]Bquits has fired a toolgun with the name: remover
+[14:07:40	]Bquits has fired a toolgun with the name: remover
+[14:07:41	]Bquits has fired a toolgun with the name: remover
+[14:07:41	]Bquits has fired a toolgun with the name: remover
+[14:07:41	]Bquits has fired a toolgun with the name: remover
+[14:07:41	]Bquits has fired a toolgun with the name: remover
+[14:07:41	]Bquits has fired a toolgun with the name: remover
+[14:07:41	]Bquits has fired a toolgun with the name: remover
+[14:07:42	]Bquits has fired a toolgun with the name: remover
+[14:07:42	]Bquits has fired a toolgun with the name: remover
+[14:07:42	]Bquits has fired a toolgun with the name: remover
+[14:07:42	]Bquits has fired a toolgun with the name: remover
+[14:07:42	]Bquits has fired a toolgun with the name: remover
+[14:07:43	]Bquits has fired a toolgun with the name: remover
+[14:07:43	]Bquits has fired a toolgun with the name: remover
+[14:07:44	]Bquits has fired a toolgun with the name: remover
+[14:07:44	]Bquits has fired a toolgun with the name: remover
+[14:07:44	]Bquits has fired a toolgun with the name: remover
+[14:07:44	]Bquits has fired a toolgun with the name: remover
+[14:07:45	]Bquits has fired a toolgun with the name: remover
+[14:07:45	]Bquits has fired a toolgun with the name: remover
+[14:07:45	]Bquits has fired a toolgun with the name: remover
+[14:07:45	]Bquits has fired a toolgun with the name: remover
+[14:07:46	]Bquits has fired a toolgun with the name: remover
+[14:07:46	]Bquits has fired a toolgun with the name: remover
+[14:07:46	]Bquits has fired a toolgun with the name: remover
+[14:07:46	]Bquits has fired a toolgun with the name: remover
+[14:07:46	]Bquits has fired a toolgun with the name: remover
+[14:07:46	]Bquits has fired a toolgun with the name: remover
+[14:07:47	]Bquits has fired a toolgun with the name: remover
+[14:07:47	]Bquits has fired a toolgun with the name: remover
+[14:07:47	]Bquits has fired a toolgun with the name: remover
+[14:07:47	]Bquits has fired a toolgun with the name: remover
+[14:07:47	]Bquits has fired a toolgun with the name: remover
+[14:07:48	]Bquits has fired a toolgun with the name: remover
+[14:07:48	]Bquits has fired a toolgun with the name: remover
+[14:07:48	]Bquits has fired a toolgun with the name: remover
+[14:07:48	]Bquits has fired a toolgun with the name: remover
+[14:07:48	]Bquits has fired a toolgun with the name: remover
+[14:07:49	]Bquits has fired a toolgun with the name: remover
+[14:07:49	]Bquits has fired a toolgun with the name: remover
+[14:07:49	]Bquits has fired a toolgun with the name: remover
+[14:07:49	]Bquits has fired a toolgun with the name: remover
+[14:07:50	]Bquits has fired a toolgun with the name: remover
+[14:07:50	]Bquits has fired a toolgun with the name: remover
+[14:07:51	]Bquits has fired a toolgun with the name: remover
+[14:07:51	]Bquits has fired a toolgun with the name: remover
+[14:07:51	]Bquits has fired a toolgun with the name: remover
+[14:07:51	]Bquits has fired a toolgun with the name: remover
+[14:07:51	]Bquits has fired a toolgun with the name: remover
+[14:07:52	]Bquits has fired a toolgun with the name: remover
+[14:07:52	]Bquits has fired a toolgun with the name: remover
+[14:07:52	]Bquits has fired a toolgun with the name: remover
+[14:07:52	]Bquits has fired a toolgun with the name: remover
+[14:07:52	]Bquits has fired a toolgun with the name: remover
+[14:07:53	]Bquits has fired a toolgun with the name: remover
+[14:07:53	]Bquits has fired a toolgun with the name: remover
+[14:07:53	]Bquits has fired a toolgun with the name: remover
+[14:07:53	]Bquits has fired a toolgun with the name: remover
+[14:07:54	]Bquits has fired a toolgun with the name: remover
+[14:07:54	]Bquits has fired a toolgun with the name: remover
+[14:07:55	]Bquits has fired a toolgun with the name: remover
+[14:07:55	]Bquits has fired a toolgun with the name: remover
+[14:08:23	]bquits (STEAM_0:0:142449284) has disconnected.
+[15:14:49	]bquits has connected.
+[15:15:31	]bquits loaded the character 'Bquits'
+[15:16:05	]Bquits entered observer.
+[15:16:09	]Bquits exited observer at their location.
+[15:16:44	]Bquits entered observer.
+[15:16:47	]Bquits exited observer at their location.
+[15:16:48	]Bquits entered observer.
+[15:16:51	]Bquits exited observer at their location.
+[15:16:52	]Bquits entered observer.
+[15:16:52	]Bquits exited observer at their location.
+[15:17:03	]Bquits entered observer.
+[15:17:03	]Bquits exited observer at their location.
+[15:17:04	]Bquits entered observer.
+[15:17:04	]Bquits exited observer at their location.
+[15:17:08	]Bquits entered observer.
+[15:17:19	]Bquits exited observer at their location.
+[15:17:20	]Bquits entered observer.
+[15:17:20	]Bquits exited observer at their location.
+[15:17:25	]Bquits entered observer.
+[15:17:32	]Bquits exited observer at their location.
+[15:17:35	]Bquits entered observer.
+[15:17:37	]Bquits exited observer at their location.
+[15:17:44	]bquits (STEAM_0:0:142449284) has disconnected.
+[16:10:09	]Neo-Wolffe has connected.
+[16:10:31	]Neo-Wolffe loaded the character 'Usman'
+[16:10:35	]Usman entered observer.
+[16:10:38	]Usman exited observer at their location.
+[16:10:41	]Usman entered observer.
+[16:11:03	]Usman exited observer at their location.
+[16:11:08	]Usman entered observer.
+[16:11:11	]Usman exited observer at their location.
+[16:12:36	]Usman has used a context menu option with the name: collision_on
+[16:12:37	]Usman has used a context menu option with the name: collision_on
+[16:12:40	]bquits has connected.
+[16:12:40	]Usman has used a context menu option with the name: collision_on
+[16:12:46	]Usman ran SAM command 'bring' with arguments: '*'
+[16:12:53	]Usman entered observer.
+[16:12:53	]Usman exited observer at their location.
+[16:12:59	]Usman has used a context menu option with the name: collision_on
+[16:13:00	]Usman entered observer.
+[16:13:00	]Usman exited observer at their location.
+[16:13:01	]Usman has used a context menu option with the name: collision_on
+[16:13:03	]Usman has used a context menu option with the name: collision_on
+[16:13:06	]bquits loaded the character 'Bquits'
+[16:13:12	]Bquits entered observer.
+[16:13:23	]Bquits has fired a toolgun with the name: remover
+[16:13:23	]Bquits has fired a toolgun with the name: remover
+[16:13:23	]Bquits has fired a toolgun with the name: remover
+[16:13:23	]Bquits has fired a toolgun with the name: remover
+[16:13:23	]Bquits has fired a toolgun with the name: remover
+[16:13:24	]Bquits has fired a toolgun with the name: remover
+[16:13:24	]Bquits has fired a toolgun with the name: remover
+[16:13:24	]Bquits has fired a toolgun with the name: remover
+[16:13:25	]Bquits has fired a toolgun with the name: remover
+[16:13:25	]Bquits has fired a toolgun with the name: remover
+[16:13:25	]Bquits has fired a toolgun with the name: remover
+[16:13:25	]Bquits has fired a toolgun with the name: remover
+[16:13:25	]Bquits has fired a toolgun with the name: remover
+[16:13:25	]Bquits has fired a toolgun with the name: remover
+[16:13:26	]Bquits has fired a toolgun with the name: remover
+[16:13:32	]Bquits exited observer at their location.
+[16:13:44	]Bquits has fired a toolgun with the name: advdupe2
+[16:13:46	]Bquits has fired a toolgun with the name: advdupe2
+[16:13:47	]Bquits has fired a toolgun with the name: advdupe2
+[16:14:00	]Bquits has fired a toolgun with the name: advdupe2
+[16:14:00	]Bquits has spawned 'models/hunter/plates/plate2x5.mdl'.
+[16:14:06	]Bquits has disabled persistence for 'models/hunter/plates/plate2x5.mdl'.
+[16:14:06	]Bquits has used a context menu option with the name: persist_end
+[16:14:17	]Usman has used a context menu option with the name: clientprop
+[16:14:18	]Bquits has enabled persistence for 'models/mosi/fallout4/props/fortifications/stonewallold01.mdl'.
+[16:14:18	]Bquits has used a context menu option with the name: persist
+[16:14:21	]Bquits has used a context menu option with the name: clientprop
+[16:14:29	]Bquits has enabled persistence for 'models/hunter/plates/plate2x5.mdl'.
+[16:14:29	]Bquits has used a context menu option with the name: persist
+[16:14:41	][IC] Usman: Allahı getir.
+[16:14:44	][IC] Usman: Ben daha yaratıcıyım.
+[16:14:52	]Bquits entered observer.
+[16:14:54	]Bquits exited observer at their location.
+[16:14:54	]Bquits entered observer.
+[16:14:55	]Bquits exited observer at their location.
+[16:14:58	][IC] Usman: Allahını sikerim he.
+[16:15:00	][IC] Usman: Bak.
+[16:15:01	][IC] Bquits: Ben de.
+[16:15:06	]Usman entered observer.
+[16:15:07	]Bquits has spawned 'models/props_interiors/Furniture_Couch01a.mdl'.
+[16:15:08	]Bquits has spawned 'models/props_interiors/Furniture_Couch02a.mdl'.
+[16:15:09	]Usman exited observer at their location.
+[16:15:10	]Bquits has used a context menu option with the name: rb655_breakable_break
+[16:15:12	]Bquits has spawned 'models/props_interiors/Furniture_Couch02a.mdl'.
+[16:15:13	]Bquits has spawned 'models/props_interiors/Furniture_Couch02a.mdl'.
+[16:15:18	]Bquits has spawned a usable entity class 'ix_chair' with model 'models/props_interiors/furniture_couch02a.mdl'.
+[16:15:18	]Bquits has used a context menu option with the name: ixusableentitycreate
+[16:15:19	]Bquits has spawned a usable entity class 'ix_chair' with model 'models/props_interiors/furniture_couch02a.mdl'.
+[16:15:19	]Bquits has used a context menu option with the name: ixusableentitycreate
+[16:15:25	]Bquits has used a context menu option with the name: collision_on
+[16:15:26	]Bquits has used a context menu option with the name: collision_on
+[16:15:28	]Usman used command '/ExitAct'.
+[16:15:29	]Bquits used command '/ExitAct'.
+[16:15:34	]Usman used command '/ExitAct'.
+[16:15:36	]Usman entered observer.
+[16:15:36	]Usman exited observer at their location.
+[16:15:42	]Bquits has spawned 'models/props_c17/FurnitureTable003a.mdl'.
+[16:15:49	]Bquits has used a context menu option with the name: rb655_breakable_break
+[16:15:55	]Usman has spawned 'models/props_interiors/ElevatorShaft_Door01a.mdl'.
+[16:16:00	]Bquits has used a context menu option with the name: remove
+[16:16:05	]Bquits has spawned 'models/props_building_details/Storefront_Template001a_Bars.mdl'.
+[16:16:06	]Bquits has fired a toolgun with the name: advdupe2
+[16:16:07	]Bquits has spawned 'models/hunter/plates/plate2x5.mdl'.
+[16:16:12	]Bquits has used a context menu option with the name: remove
+[16:16:13	]Usman has spawned 'models/props_building_details/Storefront_Template001a_Bars.mdl'.
+[16:16:13	]Usman has taken 10 damage from prop_physics.
+[16:16:16	]Usman is fully healed.
+[16:16:17	]Usman has fired a toolgun with the name: smoke
+[16:16:23	]Bquits has spawned 'models/Combine_Super_Soldier.mdl'.
+[16:16:56	]Bquits has hit Usman dealing 60 damage (CritChance was 0.00).
+[16:16:56	]Usman has taken 60 damage from Bquits.
+[16:17:01	]Usman is fully healed.
+[16:17:01	]Bquits entered observer.
+[16:17:04	]Bquits exited observer at their location.
+[16:17:05	]Usman entered observer.
+[16:17:05	]Usman exited observer at their location.
+[16:17:05	]Bquits entered observer.
+[16:17:06	]Bquits exited observer at their location.
+[16:17:29	]Usman has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[16:17:36	]Bquits entered observer.
+[16:17:39	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_c17/furniturechair001a.mdl'.
+[16:17:39	]Usman has used a context menu option with the name: ixusableentitycreate
+[16:17:40	]Usman has used a context menu option with the name: collision_on
+[16:18:02	]Usman entered observer.
+[16:18:05	]Usman exited observer at their location.
+[16:18:05	]Usman entered observer.
+[16:18:10	]Usman exited observer at their location.
+[16:18:12	]Usman entered observer.
+[16:18:29	]Bquits exited observer at their location.
+[16:18:33	]Bquits has spawned a 'Entity [5028][ix_vendor]'.
+[16:18:34	]Bquits has used a context menu option with the name: vendor_edit
+[16:18:49	]Bquits has used a context menu option with the name: remove
+[16:18:52	]Usman exited observer at their location.
+[16:19:02	]Usman has spawned 'models/props_combine/combine_barricade_med02a.mdl'.
+[16:19:02	]Usman entered observer.
+[16:19:06	]Usman has spawned 'models/props_combine/combine_barricade_med02c.mdl'.
+[16:19:10	]Usman has spawned 'models/props_combine/combine_barricade_med02c.mdl'.
+[16:19:17	]Usman has spawned 'models/props_combine/combine_barricade_med02c.mdl'.
+[16:19:25	]Usman has spawned 'models/props_combine/combine_barricade_tall01a.mdl'.
+[16:19:32	]Usman has spawned 'models/props_combine/combine_barricade_tall03a.mdl'.
+[16:19:37	]Usman exited observer at their location.
+[16:19:38	]Usman entered observer.
+[16:19:39	]Usman has spawned 'models/props_combine/combine_bridge.mdl'.
+[16:19:51	]Usman exited observer at their location.
+[16:19:58	]Usman has spawned 'models/props_combine/portalskydome.mdl'.
+[16:20:02	]Usman has spawned 'models/props_combine/portalskydome.mdl'.
+[16:20:05	]Usman entered observer.
+[16:20:06	]Usman exited observer at their location.
+[16:20:07	]Usman entered observer.
+[16:20:07	]Usman exited observer at their location.
+[16:20:24	]Usman has spawned 'models/props_combine/breentp_rings.mdl'.
+[16:20:30	]Usman has spawned a 'NPC [5028][npc_vj_combine_apc_z]'.
+[16:20:31	]Bquits has taken 10 damage from Combine APC.
+[16:20:31	]Bquits has taken 10 damage from Combine APC.
+[16:20:31	]Bquits has taken 10 damage from Combine APC.
+[16:20:31	]Bquits has taken 10 damage from base_gmodentity.
+[16:20:32	]Bquits has taken 20 damage from Combine APC.
+[16:20:36	]Bquits is fully healed.
+[16:20:37	]Usman has spawned a 'NPC [5030][npc_vj_combine_apc_z]'.
+[16:20:41	]Bquits has taken 10 damage from Combine APC.
+[16:20:41	]Bquits has taken 10 damage from Combine APC.
+[16:20:41	]Bquits has taken 32 damage from Combine APC.
+[16:20:41	]Bquits is fully healed.
+[16:20:41	]Bquits entered observer.
+[16:20:45	]Usman has taken 2 damage from Combine APC.
+[16:20:46	]Usman is fully healed.
+[16:20:46	]Usman has taken 10 damage from Combine APC.
+[16:20:48	]Usman has taken 32 damage from Combine APC.
+[16:20:50	]Usman has taken 2 damage from Combine APC.
+[16:20:50	]Usman has taken 2 damage from Combine APC.
+[16:20:50	]Usman has taken 2 damage from Combine APC.
+[16:20:50	]Usman has taken 10 damage from Combine APC.
+[16:20:50	]Usman has taken 32 damage from Combine APC.
+[16:20:50	]Usman has taken 10 damage from Combine APC.
+[16:20:51	]Usman has taken 2 damage from Combine APC.
+[16:20:51	]Usman is fully healed.
+[16:20:51	]Usman has taken 2 damage from Combine APC.
+[16:20:51	]Usman has taken 2 damage from Combine APC.
+[16:20:51	]Usman has taken 10 damage from Combine APC.
+[16:20:51	]Usman has used a context menu option with the name: vj_pr_npc_control
+[16:20:56	]Usman is fully healed.
+[16:20:57	]Bquits has used a context menu option with the name: vj_pr_npc_slay
+[16:20:57	]Usman has taken 4 damage from Combine APC.
+[16:20:58	]Usman has taken 19 damage from Combine APC.
+[16:20:58	]Bquits exited observer at their location.
+[16:20:58	]Usman has taken 15 damage from Combine APC.
+[16:20:59	]Usman entered observer.
+[16:21:01	]Usman is fully healed.
+[16:21:02	]Bquits has used a context menu option with the name: remove
+[16:21:02	]Usman exited observer at their location.
+[16:21:02	]Bquits has used a context menu option with the name: remove
+[16:21:03	]Bquits has used a context menu option with the name: remove
+[16:21:04	]Bquits has used a context menu option with the name: remove
+[16:21:05	]Usman entered observer.
+[16:21:06	]Bquits has used a context menu option with the name: remove
+[16:21:10	]Usman exited observer at their location.
+[16:21:16	]Usman entered observer.
+[16:21:16	]Usman exited observer at their location.
+[16:21:17	]Usman entered observer.
+[16:21:17	]Usman exited observer at their location.
+[16:21:18	]Bquits entered observer.
+[16:21:18	]Bquits exited observer at their location.
+[16:21:20	]Bquits entered observer.
+[16:21:20	]Bquits exited observer at their location.
+[16:21:21	]Usman entered observer.
+[16:21:26	]Usman exited observer at their location.
+[16:21:35	]Usman has used a context menu option with the name: clientprop
+[16:21:42	]Usman entered observer.
+[16:21:43	]Usman exited observer at their location.
+[16:21:46	]Usman entered observer.
+[16:21:47	]Usman exited observer at their location.
+[16:21:49	]Usman entered observer.
+[16:21:49	]Usman exited observer at their location.
+[16:21:54	]Usman entered observer.
+[16:21:54	]Usman exited observer at their location.
+[16:21:56	]Usman entered observer.
+[16:21:56	]Usman exited observer at their location.
+[16:22:05	]Bquits entered observer.
+[16:22:07	]Bquits exited observer at their location.
+[16:22:11	]Bquits has used a context menu option with the name: rb655_door_lock
+[16:22:13	]Bquits entered observer.
+[16:22:15	]Bquits exited observer at their location.
+[16:22:16	]Bquits has used a context menu option with the name: rb655_door_lock
+[16:22:17	]Bquits has used a context menu option with the name: remove
+[16:22:21	]Usman entered observer.
+[16:22:21	]Bquits has used a context menu option with the name: remove
+[16:22:22	]Usman exited observer at their location.
+[16:22:23	]Usman entered observer.
+[16:22:25	]Bquits entered observer.
+[16:22:25	]Usman exited observer at their location.
+[16:22:26	]Bquits exited observer at their location.
+[16:22:31	]Usman entered observer.
+[16:22:32	]Usman exited observer at their location.
+[16:22:32	]Bquits entered observer.
+[16:22:33	]Bquits exited observer at their location.
+[16:22:33	]Bquits entered observer.
+[16:22:33	]Usman entered observer.
+[16:22:34	]Bquits exited observer at their location.
+[16:22:34	]Bquits entered observer.
+[16:22:34	]Usman exited observer at their location.
+[16:22:35	]Usman entered observer.
+[16:22:36	]Usman exited observer at their location.
+[16:22:37	]Bquits exited observer at their location.
+[16:22:53	]Bquits has taken 1 damage from entityflame.
+[16:22:54	]Bquits has taken 1 damage from entityflame.
+[16:22:54	]Bquits has taken 1 damage from entityflame.
+[16:22:54	]Bquits has taken 1 damage from entityflame.
+[16:22:54	]Bquits has taken 1 damage from entityflame.
+[16:22:54	]Bquits has taken 1 damage from entityflame.
+[16:22:55	]Bquits has taken 1 damage from entityflame.
+[16:22:55	]Bquits has taken 1 damage from entityflame.
+[16:22:55	]Bquits has taken 1 damage from entityflame.
+[16:22:55	]Bquits has taken 1 damage from entityflame.
+[16:22:55	]Bquits has taken 1 damage from entityflame.
+[16:22:56	]Bquits has taken 1 damage from entityflame.
+[16:22:56	]Bquits is fully healed.
+[16:22:56	]Bquits has taken 1 damage from entityflame.
+[16:22:56	]Bquits has taken 1 damage from entityflame.
+[16:22:56	]Bquits has taken 1 damage from entityflame.
+[16:22:56	]Bquits has taken 1 damage from entityflame.
+[16:22:57	]Bquits has taken 1 damage from entityflame.
+[16:22:57	]Bquits has taken 1 damage from entityflame.
+[16:22:57	]Bquits has taken 1 damage from entityflame.
+[16:22:57	]Bquits has taken 1 damage from entityflame.
+[16:22:57	]Bquits has taken 1 damage from entityflame.
+[16:22:58	]Bquits has taken 1 damage from entityflame.
+[16:22:58	]Bquits has taken 1 damage from entityflame.
+[16:22:58	]Bquits has taken 1 damage from entityflame.
+[16:23:01	]Bquits is fully healed.
+[16:23:06	]Bquits has spawned a usable entity class 'ix_clock' with model 'models/props_trainstation/clock01.mdl'.
+[16:23:06	]Bquits has used a context menu option with the name: ixusableentitycreate
+[16:23:18	]Bquits has used a context menu option with the name: rb655_door_close
+[16:23:19	]Bquits has used a context menu option with the name: rb655_door_close
+[16:23:21	]Usman entered observer.
+[16:23:21	]Usman exited observer at their location.
+[16:23:23	]Usman entered observer.
+[16:23:24	]Bquits entered observer.
+[16:23:33	]Usman exited observer at their location.
+[16:23:35	]Usman entered observer.
+[16:23:40	]Usman exited observer at their location.
+[16:23:40	]Usman entered observer.
+[16:23:42	]Usman exited observer at their location.
+[16:23:43	]Usman entered observer.
+[16:23:44	]Usman exited observer at their location.
+[16:23:46	]Usman entered observer.
+[16:23:46	]Usman exited observer at their location.
+[16:23:47	]Usman entered observer.
+[16:23:47	]Usman exited observer at their location.
+[16:23:48	]Usman entered observer.
+[16:23:48	]Usman exited observer at their location.
+[16:23:57	]Usman entered observer.
+[16:23:58	]Usman exited observer at their location.
+[16:23:59	]Usman entered observer.
+[16:24:14	]Usman has used a context menu option with the name: ixpropviewowner
+[16:24:17	]Usman has used a context menu option with the name: clientprop
+[16:24:22	]Usman exited observer at their location.
+[16:24:28	]Usman entered observer.
+[16:24:29	]Usman exited observer at their location.
+[16:24:30	]Usman entered observer.
+[16:24:31	]Usman exited observer at their location.
+[16:25:43	]Usman has spawned a 'NPC [2847][npc_vj_combineguard_z]'.
+[16:25:46	]Usman has taken 30 damage from Combine Guard.
+[16:25:46	]Usman entered observer.
+[16:25:51	]Usman is fully healed.
+[16:25:51	]Usman exited observer at their location.
+[16:25:53	]Usman entered observer.
+[16:25:55	]Usman exited observer at their location.
+[16:25:57	]Usman entered observer.
+[16:25:59	]Usman has used a context menu option with the name: vj_pr_npc_medic
+[16:25:59	]Usman exited observer at their location.
+[16:26:01	]Usman has taken 30 damage from Combine Guard.
+[16:26:03	]Usman has taken 30 damage from Combine Guard.
+[16:26:06	]Usman is fully healed.
+[16:26:06	]Usman has used a context menu option with the name: vj_pr_npc_control
+[16:26:31	]Usman has used a context menu option with the name: vj_pr_npc_slay
+[16:26:34	]Usman has used a context menu option with the name: remove
+[16:26:38	]Usman has spawned a 'NPC [2847][npc_vj_hl2_metrocop3]'.
+[16:26:48	]Usman has used a context menu option with the name: rb655_npc_weapon
+[16:26:52	]Usman has used a context menu option with the name: remove
+[16:26:55	]Usman has spawned a 'NPC [2847][npc_vj_hl2_metrocop5]'.
+[16:26:56	]Usman has taken 5 damage from Combine Guard.
+[16:26:56	]Usman has taken 5 damage from Combine Guard.
+[16:26:56	]Usman has taken 5 damage from Combine Guard.
+[16:26:56	]Usman has taken 5 damage from Combine Guard.
+[16:26:56	]Usman has taken 5 damage from Combine Guard.
+[16:26:57	]Usman has taken 5 damage from Combine Guard.
+[16:26:58	]Usman has taken 5 damage from Combine Guard.
+[16:26:58	]Usman has taken 5 damage from Combine Guard.
+[16:26:58	]Usman has taken 5 damage from Combine Guard.
+[16:26:58	]Usman has taken 5 damage from Combine Guard.
+[16:26:58	]Usman has taken 5 damage from Combine Guard.
+[16:27:01	]Usman has spawned a 'Entity [2847][combine_mine]'.
+[16:27:01	]Usman is fully healed.
+[16:27:03	]Usman has used a context menu option with the name: skin
+[16:27:04	]Usman has used a context menu option with the name: skin
+[16:27:06	]Usman has used a context menu option with the name: skin
+[16:27:08	]Usman has used a context menu option with the name: rb655_combine_mine_disarm
+[16:27:09	]Usman has used a context menu option with the name: rb655_combine_mine_disarm
+[16:27:13	]Usman has used a context menu option with the name: remove
+[16:27:18	]Usman has spawned a 'NPC [2847][npc_vj_hl2_metrocop4]'.
+[16:27:22	]Usman has spawned a 'NPC [2847][npc_vj_hl2_apc]'.
+[16:27:22	]Usman has taken 6 damage from Combine APC.
+[16:27:22	]Usman has taken 6 damage from Combine APC.
+[16:27:22	]Usman has taken 8 damage from Combine APC.
+[16:27:22	]Usman has taken 100 damage from Combine APC.
+[16:27:22	]Usman has taken 8 damage from Combine APC.
+[16:27:22	]Usman has taken 10 damage from Combine APC.
+[16:27:22	]Usman has taken 8 damage from Combine APC.
+[16:27:22	]Usman has taken 6 damage from Combine APC.
+[16:27:22	]Usman has taken 8 damage from Combine APC.
+[16:27:22	]Usman has taken 8 damage from Combine APC.
+[16:27:23	]Usman has taken 6 damage from Combine APC.
+[16:27:23	]Usman has taken 8 damage from Combine APC.
+[16:27:23	]Usman has taken 55 damage from APC.
+[16:27:23	]Usman has taken 6 damage from Combine APC.
+[16:27:23	]Usman has taken 8 damage from Combine APC.
+[16:27:23	]Usman has taken 8 damage from Combine APC.
+[16:27:23	]Usman has taken 6 damage from Combine APC.
+[16:27:26	]Usman is fully healed.
+[16:27:30	]Usman has spawned a 'NPC [2847][npc_vj_hl2_combine_sniper]'.
+[16:27:33	]Usman has taken 5 damage from npc_sniper.
+[16:27:33	]Usman has used a context menu option with the name: vj_pr_npc_control
+[16:27:36	]Usman is fully healed.
+[16:27:46	]Usman has used a context menu option with the name: vj_pr_npc_medic
+[16:27:48	]Usman has used a context menu option with the name: vj_pr_npc_slay
+[16:27:48	]Bquits has used a context menu option with the name: vj_pr_npc_gib
+[16:27:52	]Usman has used a context menu option with the name: remove
+[16:27:55	]Usman has spawned a 'Entity [2847][cup_shield2]'.
+[16:27:57	]Usman has spawned a 'Entity [4064][ent_mannable_combinesniper]'.
+[16:28:09	]Usman has used a context menu option with the name: remove
+[16:31:13	]Usman entered observer.
+[16:31:35	]Usman exited observer at their location.
+[16:31:37	]Usman entered observer.
+[16:31:38	]Usman exited observer at their location.
+[16:31:48	]Usman entered observer.
+[16:31:49	]Usman exited observer at their location.
+[16:31:57	]Usman entered observer.
+[16:32:01	]Usman exited observer at their location.
+[16:32:05	]Usman entered observer.
+[16:32:05	]Usman exited observer at their location.
+[16:32:19	]Usman has taken 7 damage from worldspawn.
+[16:32:19	]Usman entered observer.
+[16:32:21	]Usman exited observer at their location.
+[16:32:21	]Usman is fully healed.
+[16:32:21	]Usman entered observer.
+[16:32:21	]Usman exited observer at their location.
+[16:32:22	]Usman entered observer.
+[16:32:23	]Usman exited observer at their location.
+[16:32:35	]Usman used command '/ShowEdicts'.
+[16:32:52	]Usman entered observer.
+[16:32:55	]Usman exited observer at their location.
+[16:33:00	]Usman entered observer.
+[16:33:00	]Usman exited observer at their location.
+[16:33:01	]Usman entered observer.
+[16:33:03	]Usman exited observer at their location.
+[16:33:10	]Usman entered observer.
+[16:33:12	]Usman exited observer at their location.
+[16:33:18	]Usman entered observer.
+[16:33:28	]Usman exited observer at their location.
+[16:33:37	]Bquits has gone afk.
+[16:33:42	]Usman entered observer.
+[16:33:43	]Usman exited observer at their location.
+[16:33:49	]Usman entered observer.
+[16:33:50	]Usman exited observer at their location.
+[16:33:51	]Usman entered observer.
+[16:34:00	]Usman exited observer at their location.
+[16:34:00	]Usman entered observer.
+[16:34:03	]Usman exited observer at their location.
+[16:34:03	]Usman entered observer.
+[16:34:08	]Usman exited observer at their location.
+[16:34:08	]Usman entered observer.
+[16:34:10	]Usman exited observer at their location.
+[16:34:11	]Usman entered observer.
+[16:34:15	]Usman exited observer at their location.
+[16:34:16	]Usman entered observer.
+[16:34:31	]Usman opened the 'Çöp Konteyneri' #11844 container.
+[16:34:32	]Usman closed the 'Çöp Konteyneri' #11844 container.
+[16:36:00	]Usman exited observer at their location.
+[16:36:00	]Usman entered observer.
+[16:36:01	]Usman exited observer at their location.
+[16:36:27	]Bquits is no longer afk. Total time spent AFK: 465
+[16:36:28	]Bquits used command '/CreateCustomItem'.
+[16:36:38	]Bquits exited observer at their location.
+[16:37:05	]Bquits entered observer.
+[16:37:10	]Bquits exited observer at their location.
+[16:37:14	]Bquits used command '/CreateCustomItem'.
+[16:38:34	]Bquits has gained a 'Yüzbaşı Kol Bandı' #168655.
+[16:38:50	]Bquits has given himself a armband.
+[16:38:50	]Bquits has gained a 'Yüzbaşı Kol Bandı' #168656.
+[16:38:52	]Bquits ran 'drop' on item 'Yüzbaşı Kol Bandı' (#168656)
+[16:38:52	]Bquits has lost a 'Yüzbaşı Kol Bandı' #168656.
+[16:38:54	]Bquits has used a context menu option with the name: remove
+[16:38:56	]Bquits has given himself a test_armband.
+[16:38:56	]Bquits has gained a 'Test Kol Bandı' #168657.
+[16:38:58	]Bquits ran 'Equip' on item 'Test Kol Bandı' (#168657)
+[16:39:00	]Bquits ran 'EquipUn' on item 'Test Kol Bandı' (#168657)
+[16:39:09	]Bquits used command '/CreateCustomItem'.
+[16:41:31	]Usman has gone afk.
+[16:44:27	]Bquits has gone afk.
+[16:47:27	]Bquits is no longer afk. Total time spent AFK: 475
+[16:47:30	]Bquits has given himself a armband.
+[16:47:30	]Bquits has gained a 'Yüzbaşı Kol Bandı' #168658.
+[16:47:39	]Bquits used command '/CreateCustomItem'.
+[16:48:19	]Bquits used command '/CreateCustomItem'.
+[16:53:31	]Usman is no longer afk. Total time spent AFK: 1015
+[16:53:31	]Usman entered observer.
+[16:53:32	]Usman exited observer at their location.
+[16:54:57	]Usman has spawned 'models/combine_helicopter/helicopter_bomb01.mdl'.
+[16:54:59	]Usman has used a context menu option with the name: skin
+[16:55:01	]Usman has used a context menu option with the name: skin
+[16:55:11	]Usman entered observer.
+[16:55:11	]Usman exited observer at their location.
+[16:55:29	]Usman entered observer.
+[16:55:39	]Bquits entered observer.
+[16:55:43	]Usman exited observer at their location.
+[16:55:44	]Bquits exited observer at their location.
+[16:55:44	]Bquits entered observer.
+[16:55:45	]Bquits exited observer at their location.
+[16:55:45	]Bquits entered observer.
+[16:55:48	]Usman entered observer.
+[16:55:54	]Bquits has spawned a 'NPC [2847][npc_vj_hl2_citizen]'.
+[16:55:57	]Bquits exited observer at their location.
+[16:56:06	]Bquits has critically hit npc_vj_hl2_citizen in the chest dealing 13 damage (CritChance was 0.43).
+[16:56:06	]Bquits has taken 5 damage from worldspawn.
+[16:56:06	]Bquits has hit npc_vj_hl2_citizen in the chest dealing 10 damage (CritChance was 0.43).
+[16:56:06	]Bquits is fully healed.
+[16:56:06	]Bquits has critically hit npc_vj_hl2_citizen in the chest dealing 13 damage (CritChance was 0.43).
+[16:56:06	]Bquits has critically hit npc_vj_hl2_citizen in the chest dealing 13 damage (CritChance was 0.43).
+[16:56:10	]Bquits entered observer.
+[16:56:13	]Usman exited observer at their location.
+[16:56:16	]Bquits has used a context menu option with the name: remove
+[16:56:29	]Usman has used a context menu option with the name: ixforcefieldstartmalfunction
+[16:56:33	]Usman entered observer.
+[16:56:35	]Usman exited observer at their location.
+[16:56:39	]Usman entered observer.
+[16:56:39	]Usman exited observer at their location.
+[16:56:45	]Bquits has used a context menu option with the name: ixforcefieldstopmalfunction
+[16:56:49	]Usman has spawned a 'Entity [2847][ix_rebelfield]'.
+[16:56:51	]Bquits exited observer at their location.
+[16:56:53	]Bquits entered observer.
+[16:56:54	]Usman entered observer.
+[16:57:17	]Usman exited observer at their location.
+[16:57:25	]Usman has spawned a 'Entity [1603][ix_rebelfield]'.
+[16:57:26	]Bquits exited observer at their location.
+[16:57:42	]Usman has spawned a 'Entity [1603][ix_rebelfield]'.
+[16:57:45	]Usman has spawned a 'Entity [1603][ix_rebelfield]'.
+[16:57:50	]Usman has used a context menu option with the name: ixrebelfieldstartmalfunction
+[16:58:03	]Usman has spawned a 'Entity [1603][ix_rebelfield]'.
+[16:58:11	]Usman has spawned a 'Entity [1603][acwatt_uc_fg_autotrigger]'.
+[16:58:17	]Usman has used a context menu option with the name: remove
+[16:58:20	]Usman has spawned a 'Entity [1603][ix_rebelfield]'.
+[16:58:22	]Usman has spawned a 'Entity [4064][ix_rebelfield]'.
+[16:58:24	]Usman has spawned a 'Entity [1603][ix_rebelfield]'.
+[16:58:25	]Usman has spawned a 'Entity [4064][ix_rebelfield]'.
+[16:58:27	]Usman entered observer.
+[16:58:28	]Usman exited observer at their location.
+[16:58:30	]Usman has spawned a 'Entity [1603][ix_rebelfield]'.
+[16:58:30	]Usman entered observer.
+[16:58:37	]Usman has spawned a 'Entity [1603][ix_rebelfield]'.
+[16:58:40	]Usman exited observer at their location.
+[16:58:43	]Usman has used a context menu option with the name: ixrebelfieldstartmalfunction
+[16:58:46	]Usman entered observer.
+[16:58:48	]Usman exited observer at their location.
+[16:59:01	]Usman entered observer.
+[16:59:02	]Usman exited observer at their location.
+[16:59:05	]Usman has used a context menu option with the name: rb655_dissolve
+[16:59:08	]Usman entered observer.
+[17:00:25	]Usman exited observer at their location.
+[17:01:01	]Usman entered observer.
+[17:01:02	]Usman exited observer at their location.
+[17:01:03	]Usman entered observer.
+[17:01:06	]Usman exited observer at their location.
+[17:01:07	]Usman has spawned 'models/weapons/w_crowbar.mdl'.
+[17:01:16	]Usman entered observer.
+[17:01:52	]Usman exited observer at their location.
+[17:01:55	]Usman has used a context menu option with the name: collision_off
+[17:02:11	]Usman has used a context menu option with the name: clientprop
+[17:02:30	]Bquits has gone afk.
+[17:02:40	]Usman has taken 1 damage from entityflame.
+[17:02:40	]Usman has taken 1 damage from entityflame.
+[17:02:41	]Usman is fully healed.
+[17:02:41	]Usman has taken 1 damage from entityflame.
+[17:02:41	]Usman has taken 1 damage from entityflame.
+[17:02:41	]Usman has taken 1 damage from entityflame.
+[17:02:41	]Usman has taken 1 damage from entityflame.
+[17:02:41	]Usman has taken 1 damage from entityflame.
+[17:02:42	]Usman has taken 1 damage from entityflame.
+[17:02:42	]Usman has taken 1 damage from entityflame.
+[17:02:42	]Usman has taken 1 damage from entityflame.
+[17:02:42	]Usman has taken 1 damage from entityflame.
+[17:02:42	]Usman has taken 1 damage from entityflame.
+[17:02:43	]Usman has taken 1 damage from entityflame.
+[17:02:43	]Usman used command '/ExitAct'.
+[17:02:43	]Usman has taken 1 damage from entityflame.
+[17:02:43	]Usman has taken 1 damage from entityflame.
+[17:02:43	]Usman has taken 1 damage from entityflame.
+[17:02:43	]Usman has taken 1 damage from entityflame.
+[17:02:44	]Usman has taken 1 damage from entityflame.
+[17:02:44	]Usman has taken 1 damage from entityflame.
+[17:02:44	]Usman has taken 1 damage from entityflame.
+[17:02:44	]Usman has taken 1 damage from entityflame.
+[17:02:44	]Usman has taken 1 damage from entityflame.
+[17:02:46	]Usman is fully healed.
+[17:02:46	]Usman entered observer.
+[17:03:00	]Usman exited observer at their location.
+[17:03:02	]Usman entered observer.
+[17:03:04	]Usman exited observer at their location.
+[17:03:07	]Usman used command '/ExitAct'.
+[17:03:27	]Usman used command '/ExitAct'.
+[17:03:31	]Usman used command '/ExitAct'.
+[17:03:33	]Usman used command '/ExitAct'.
+[17:03:35	]Usman used command '/ExitAct'.
+[17:03:40	]Usman used command '/ExitAct'.
+[17:04:50	]Usman has spawned 'models/props_c17/FurnitureTable002a.mdl'.
+[17:04:52	]Usman has spawned 'models/props_c17/FurnitureTable001a.mdl'.
+[17:04:54	]Usman has spawned 'models/props_c17/FurnitureTable001a.mdl'.
+[17:05:01	]Usman has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[17:05:19	]Usman has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[17:05:26	]Usman has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[17:05:34	]Usman has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[17:05:48	]Usman has fired a toolgun with the name: unbreakable
+[17:05:48	]Usman has fired a toolgun with the name: unbreakable
+[17:05:50	]Usman has fired a toolgun with the name: unbreakable
+[17:05:51	]Usman has fired a toolgun with the name: unbreakable
+[17:05:52	]Usman has fired a toolgun with the name: unbreakable
+[17:05:53	]Usman has fired a toolgun with the name: unbreakable
+[17:05:58	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_c17/furniturechair001a.mdl'.
+[17:05:58	]Usman has used a context menu option with the name: ixusableentitycreate
+[17:05:59	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_c17/furniturechair001a.mdl'.
+[17:05:59	]Usman has used a context menu option with the name: ixusableentitycreate
+[17:06:00	]Usman has used a context menu option with the name: collision_on
+[17:06:02	]Usman has used a context menu option with the name: collision_on
+[17:06:05	]Usman has enabled persistence for 'models/props_c17/furnituretable001a.mdl'.
+[17:06:05	]Usman has used a context menu option with the name: persist
+[17:06:07	]Usman used command '/ExitAct'.
+[17:06:09	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_c17/furniturechair001a.mdl'.
+[17:06:09	]Usman has used a context menu option with the name: ixusableentitycreate
+[17:06:12	]Usman used command '/ExitAct'.
+[17:06:16	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_c17/furniturechair001a.mdl'.
+[17:06:16	]Usman has used a context menu option with the name: ixusableentitycreate
+[17:06:17	]Usman used command '/ExitAct'.
+[17:06:18	]Usman has used a context menu option with the name: collision_on
+[17:06:19	]Usman has enabled persistence for 'models/props_c17/furnituretable001a.mdl'.
+[17:06:19	]Usman has used a context menu option with the name: persist
+[17:06:22	]Usman has used a context menu option with the name: collision_on
+[17:06:38	]Usman has used a context menu option with the name: remove
+[17:06:39	]Usman has used a context menu option with the name: remove
+[17:06:42	]Usman has spawned 'models/props/cs_militia/couch.mdl'.
+[17:06:52	]Usman has spawned 'models/props_interiors/furniture_couch02a.mdl'.
+[17:06:57	]Usman has spawned 'models/props_interiors/furniture_couch02a.mdl'.
+[17:07:05	]Usman has used a context menu option with the name: remove
+[17:07:08	]Usman has fired a toolgun with the name: unbreakable
+[17:07:08	]Usman has fired a toolgun with the name: unbreakable
+[17:07:20	]Usman has used a context menu option with the name: ixpropviewowner
+[17:07:22	]Usman created a stash (models/props_interiors/furniture_couch02a.mdl).
+[17:07:22	]Usman has used a context menu option with the name: ixcreatestash
+[17:07:23	]Usman has used a context menu option with the name: remove
+[17:07:27	]Usman has spawned a usable entity class 'ix_couch' with model 'models/props/cs_militia/couch.mdl'.
+[17:07:27	]Usman has used a context menu option with the name: ixusableentitycreate
+[17:07:28	]Usman has spawned 'models/props_interiors/furniture_couch02a.mdl'.
+[17:07:41	]Usman has fired a toolgun with the name: unbreakable
+[17:07:43	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_interiors/furniture_couch02a.mdl'.
+[17:07:43	]Usman has used a context menu option with the name: ixusableentitycreate
+[17:07:45	]Usman used command '/ExitAct'.
+[17:07:49	]Usman used command '/ExitAct'.
+[17:07:50	]Usman has used a context menu option with the name: collision_on
+[17:07:52	]Usman has used a context menu option with the name: collision_on
+[17:08:01	]Usman has used a context menu option with the name: remove
+[17:08:03	]Usman has used a context menu option with the name: remove
+[17:08:05	]Usman has spawned 'models/props/cs_militia/couch.mdl'.
+[17:08:10	]Usman has used a context menu option with the name: remove
+[17:08:22	]Usman has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[17:08:26	]Usman has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[17:08:32	]Usman has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[17:08:37	]Usman has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[17:08:44	]Usman has fired a toolgun with the name: unbreakable
+[17:08:44	]Usman has fired a toolgun with the name: unbreakable
+[17:08:49	]Usman has fired a toolgun with the name: unbreakable
+[17:08:49	]Usman has fired a toolgun with the name: unbreakable
+[17:08:50	]Usman has fired a toolgun with the name: unbreakable
+[17:08:53	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_c17/furniturechair001a.mdl'.
+[17:08:53	]Usman has used a context menu option with the name: ixusableentitycreate
+[17:08:54	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_c17/furniturechair001a.mdl'.
+[17:08:54	]Usman has used a context menu option with the name: ixusableentitycreate
+[17:08:56	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_c17/furniturechair001a.mdl'.
+[17:08:56	]Usman has used a context menu option with the name: ixusableentitycreate
+[17:08:57	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_c17/furniturechair001a.mdl'.
+[17:08:57	]Usman has used a context menu option with the name: ixusableentitycreate
+[17:08:58	]Usman has used a context menu option with the name: collision_on
+[17:08:59	]Usman has used a context menu option with the name: collision_on
+[17:09:01	]Usman has used a context menu option with the name: collision_on
+[17:09:02	]Usman has used a context menu option with the name: collision_on
+[17:09:16	]Usman used command '/ExitAct'.
+[17:09:22	]Usman used command '/ExitAct'.
+[17:09:26	]Usman used command '/ExitAct'.
+[17:10:31	]Usman used command '/ExitAct'.
+[17:10:39	]Usman has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[17:10:40	]Usman has spawned 'models/props_c17/FurnitureTable001a.mdl'.
+[17:10:54	]Usman has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[17:11:00	]Usman has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[17:11:32	]Usman has fired a toolgun with the name: unbreakable
+[17:11:32	]Usman has fired a toolgun with the name: unbreakable
+[17:11:33	]Usman has fired a toolgun with the name: unbreakable
+[17:11:36	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_c17/furniturechair001a.mdl'.
+[17:11:36	]Usman has used a context menu option with the name: ixusableentitycreate
+[17:11:38	]Usman has spawned a usable entity class 'ix_chair' with model 'models/props_c17/furniturechair001a.mdl'.
+[17:11:38	]Usman has used a context menu option with the name: ixusableentitycreate
+[17:11:52	]Usman used command '/ExitAct'.
+[17:11:53	]Usman used command '/ExitAct'.
+[17:11:57	]Usman used command '/ExitAct'.
+[17:12:22	]Usman has used a context menu option with the name: collision_on
+[17:12:27	]Usman has used a context menu option with the name: collision_on
+[17:12:29	]Usman has used a context menu option with the name: collision_on
+[17:12:35	]Usman has used a context menu option with the name: collision_on
+[17:12:37	]Usman entered observer.
+[17:12:37	]Usman exited observer at their location.
+[17:12:41	]Usman has used a context menu option with the name: collision_on
+[17:12:48	]Usman has used a context menu option with the name: collision_on
+[17:12:50	]Usman has used a context menu option with the name: collision_on
+[17:13:35	]Usman has spawned 'models/props_interiors/bottles_shelf_break08.mdl'.
+[17:13:43	]Usman has spawned 'models/props_junk/garbage_glassbottle001a.mdl'.
+[17:13:51	]Usman has spawned 'models/willardnetworks/food/prop_bar_bottle_b.mdl'.
+[17:14:15	]Usman has spawned 'models/willardnetworks/food/wn_food_plate.mdl'.
+[17:14:29	]Usman has spawned 'models/willardnetworks/food/wn_food_plate.mdl'.
+[17:14:37	]Usman has spawned 'models/willardnetworks/food/wn_food_plate.mdl'.
+[17:14:45	]Usman has spawned 'models/willardnetworks/skills/kitchenspoon.mdl'.
+[17:15:22	]Usman used command '/ExitAct'.
+[17:16:15	]Bquits is no longer afk. Total time spent AFK: 1120
+[17:16:15	]Usman entered observer.
+[17:16:15	]Usman exited observer at their location.
+[17:16:23	]Usman entered observer.
+[17:20:17	]Bquits entered observer.
+[17:22:01	]Usman has gone afk.
+[17:25:47	]Bquits has gone afk.
+[17:26:27	]Bquits is no longer afk. Total time spent AFK: 335
+[17:30:43	]Bquits has used a context menu option with the name: remove
+[17:31:13	]Bquits has used a context menu option with the name: remove
+[17:31:14	]Bquits has used a context menu option with the name: remove
+[17:31:35	]Bquits exited observer at their location.
+[17:39:24	]Bquits used command '/CreateCustomItem'.
+[17:43:09	]Bquits entered observer.
+[17:44:32	]Bquits has spawned 'models/props_junk/wood_crate002a.mdl'.
+[17:44:36	]Bquits has spawned 'models/props_junk/wood_crate002a.mdl'.
+[17:46:43	]Bquits created a 'Büyük Kutu' container.
+[17:46:43	]Bquits has used a context menu option with the name: wncontainer_create
+[17:46:45	]Bquits created a 'Büyük Kutu' container.
+[17:46:45	]Bquits has used a context menu option with the name: wncontainer_create
+[17:46:47	]Bquits has spawned 'models/props_junk/wood_crate001a.mdl'.
+[17:46:49	]Bquits has spawned 'models/props_junk/wood_crate001a.mdl'.
+[17:46:52	]Bquits has used a context menu option with the name: remove
+[17:46:53	]Bquits has spawned 'models/props_junk/wood_crate002a.mdl'.
+[17:46:57	]Bquits has spawned 'models/props_junk/wood_crate001a.mdl'.
+[17:46:59	]Bquits has spawned 'models/props_junk/wood_crate001a.mdl'.
+[17:47:10	]Bquits has fired a toolgun with the name: unbreakable
+[17:47:10	]Bquits has fired a toolgun with the name: unbreakable
+[17:47:11	]Bquits has fired a toolgun with the name: unbreakable
+[17:47:11	]Bquits has fired a toolgun with the name: unbreakable
+[17:47:11	]Bquits has fired a toolgun with the name: unbreakable
+[17:47:12	]Bquits has fired a toolgun with the name: unbreakable
+[17:47:12	]Bquits has fired a toolgun with the name: unbreakable
+[17:49:09	]Bquits exited observer at their location.
+[17:49:14	]Bquits used command '/CreateApartment'.
+[17:49:18	]Bquits used command '/ShowAllApartments'.
+[17:49:23	]Bquits used command '/ShowAllApartments'.
+[17:49:55	]Bquits used command '/ShowAllApartments'.
+[17:50:04	]Bquits entered observer.
+[17:50:14	]Bquits used command '/CreateCustomItem'.
+[17:55:11	]Usman is no longer afk. Total time spent AFK: 2285
+[17:55:32	]Usman exited observer at their location.
+[17:55:32	]Bquits has gone afk.
+[17:55:51	]Usman has used a context menu option with the name: clientprop
+[17:55:55	]Usman has used a context menu option with the name: clientprop
+[17:56:02	]Usman entered observer.
+[17:56:07	]Bquits is no longer afk. Total time spent AFK: 330
+[17:56:08	]Usman exited observer at their location.
+[17:56:16	]Bquits used command '/ShowEdicts'.
+[17:56:17	]Usman has used a context menu option with the name: clientprop
+[17:56:22	]Usman entered observer.
+[17:56:25	]Usman has spawned 'models/props/de_inferno/fireplace.mdl'.
+[17:56:28	]Usman exited observer at their location.
+[17:56:28	]Usman entered observer.
+[17:56:29	]Usman exited observer at their location.
+[17:56:40	]Usman entered observer.
+[17:56:41	]Usman exited observer at their location.
+[17:57:02	]Usman entered observer.
+[17:57:05	]Usman has used a context menu option with the name: remove
+[17:57:06	]Usman exited observer at their location.
+[17:57:06	]Bquits has enabled persistence for 'models/props_c17/pushbroom.mdl'.
+[17:57:06	]Bquits has used a context menu option with the name: persist
+[17:57:06	]Usman entered observer.
+[17:57:13	]Usman exited observer at their location.
+[17:57:20	]Usman has given himself a cca_emir.
+[17:57:21	]Usman has gained a 'The Emir' #168659.
+[17:57:25	]Usman has spawned a cca_executive.
+[17:57:28	]Usman has given himself a cca_executive.
+[17:57:28	]Usman has gained a 'Yönetici' #168661.
+[17:57:28	]Bquits exited observer at their location.
+[17:57:29	]Bquits has fired a toolgun with the name: unbreakable
+[17:57:29	]Bquits has fired a toolgun with the name: unbreakable
+[17:57:29	]Bquits has fired a toolgun with the name: unbreakable
+[17:57:36	]Bquits has used a context menu option with the name: remove
+[17:57:40	][IC] Usman: Sikini emerim.
+[17:58:03	]entityflame destroyed a 'Yönetici' #168660.
+[17:58:05	]entityflame destroyed a 'Yönetici' #168601.
+[17:58:06	]entityflame destroyed a 'The Emir' #168600.
+[17:58:06	]point_hurt destroyed a 'Kadın Parfümü' #168651.
+[17:58:06	]Bquits entered observer.
+[17:58:07	]Bquits has taken 0 damage from point_hurt.
+[17:58:08	]entityflame destroyed a 'Yönetici' #168602.
+[17:58:08	]Bquits exited observer at their location.
+[17:58:09	]Bquits entered observer.
+[17:58:10	]Bquits exited observer at their location.
+[17:58:11	]Bquits is fully healed.
+[17:58:17	]Bquits entered observer.
+[17:58:18	]Bquits has taken 12 damage from env_fire.
+[17:58:18	]Bquits has taken 9 damage from env_fire.
+[17:58:18	]Bquits has taken 12 damage from env_fire.
+[17:58:18	]Bquits has taken 9 damage from env_fire.
+[17:58:20	]Usman entered observer.
+[17:58:20	]Usman has taken 8 damage from env_fire.
+[17:58:20	]Bquits has taken 6 damage from env_fire.
+[17:58:20	]Usman has taken 12 damage from env_fire.
+[17:58:21	]Usman is fully healed.
+[17:58:21	]Usman exited observer at their location.
+[17:58:21	]Bquits is fully healed.
+[17:58:21	]Bquits has taken 10 damage from env_fire.
+[17:58:22	]Bquits exited observer at their location.
+[17:58:22	]Usman entered observer.
+[17:58:23	]Usman has taken 12 damage from env_fire.
+[17:58:26	]Usman is fully healed.
+[17:58:26	]Bquits is fully healed.
+[17:58:29	]Usman exited observer at their location.
+[17:58:30	]Usman entered observer.
+[17:58:34	]Usman exited observer at their location.
+[17:58:41	]Bquits entered observer.
+[17:58:45	]Bquits exited observer at their location.
+[17:59:07	]Bquits has taken 1 damage from entityflame.
+[17:59:07	]Bquits has taken 1 damage from point_hurt.
+[17:59:07	]Usman has taken 0 damage from point_hurt.
+[17:59:07	]Bquits has taken 1 damage from entityflame.
+[17:59:07	]Bquits has taken 1 damage from point_hurt.
+[17:59:07	]Usman has taken 0 damage from point_hurt.
+[17:59:07	]Bquits has taken 1 damage from entityflame.
+[17:59:08	]Bquits has taken 1 damage from entityflame.
+[17:59:08	]Bquits has taken 1 damage from point_hurt.
+[17:59:08	]Usman has taken 0 damage from point_hurt.
+[17:59:08	]Bquits entered observer.
+[17:59:08	]Bquits has taken 1 damage from entityflame.
+[17:59:08	]Bquits has taken 1 damage from entityflame.
+[17:59:08	]Bquits has taken 1 damage from entityflame.
+[17:59:08	]Bquits has taken 1 damage from entityflame.
+[17:59:09	]Bquits has taken 1 damage from entityflame.
+[17:59:09	]Bquits has taken 1 damage from entityflame.
+[17:59:09	]Bquits has taken 1 damage from entityflame.
+[17:59:09	]Bquits has taken 1 damage from entityflame.
+[17:59:09	]Bquits has taken 1 damage from entityflame.
+[17:59:10	]Bquits has taken 1 damage from entityflame.
+[17:59:10	]Bquits has taken 1 damage from entityflame.
+[17:59:10	]Bquits has taken 1 damage from entityflame.
+[17:59:10	]Bquits has taken 1 damage from entityflame.
+[17:59:10	]Bquits has taken 1 damage from entityflame.
+[17:59:11	]Bquits has taken 1 damage from entityflame.
+[17:59:11	]Usman is fully healed.
+[17:59:11	]Bquits is fully healed.
+[17:59:11	]Bquits has taken 1 damage from entityflame.
+[17:59:11	]Usman has taken 10 damage from env_fire.
+[17:59:11	]Bquits has taken 1 damage from entityflame.
+[17:59:11	]entityflame destroyed a 'Gazete Yazıcısı' #168538.
+[17:59:11	]Bquits has taken 1 damage from entityflame.
+[17:59:11	]Bquits has taken 1 damage from entityflame.
+[17:59:12	]Bquits has taken 1 damage from entityflame.
+[17:59:12	]Bquits has taken 1 damage from entityflame.
+[17:59:12	]Usman has taken 10 damage from env_fire.
+[17:59:16	]Usman is fully healed.
+[17:59:16	]Bquits is fully healed.
+[17:59:18	]Usman entered observer.
+[17:59:21	]Usman exited observer at their location.
+[17:59:27	]Bquits exited observer at their location.
+[17:59:29	]Usman has used a context menu option with the name: remove
+[17:59:30	]Usman entered observer.
+[17:59:35	]Usman exited observer at their location.
+[17:59:35	]Usman entered observer.
+[17:59:36	]Usman exited observer at their location.
+[17:59:37	]Usman entered observer.
+[17:59:37	]Usman exited observer at their location.
+[17:59:40	]Usman has taken 0 damage from point_hurt.
+[17:59:40	]Usman has taken 0 damage from point_hurt.
+[17:59:40	]Usman has taken 0 damage from point_hurt.
+[17:59:40	]Usman has taken 0 damage from point_hurt.
+[17:59:40	]Usman has taken 0 damage from point_hurt.
+[17:59:41	]Usman has taken 0 damage from point_hurt.
+[17:59:41	]Usman has taken 0 damage from point_hurt.
+[17:59:41	]Usman has taken 0 damage from point_hurt.
+[17:59:41	]Usman is fully healed.
+[17:59:41	]Usman has taken 0 damage from point_hurt.
+[17:59:41	]Usman has taken 0 damage from point_hurt.
+[17:59:41	]Usman has taken 0 damage from point_hurt.
+[17:59:41	]Usman has taken 0 damage from point_hurt.
+[17:59:41	]Usman has taken 0 damage from point_hurt.
+[17:59:41	]Usman has taken 0 damage from point_hurt.
+[17:59:41	]Usman has taken 0 damage from point_hurt.
+[17:59:42	]Usman entered observer.
+[17:59:43	]Bquits has fired a toolgun with the name: remover
+[17:59:43	]Bquits has fired a toolgun with the name: remover
+[17:59:43	]Bquits has fired a toolgun with the name: remover
+[17:59:45	]Usman exited observer at their location.
+[17:59:46	]Usman is fully healed.
+[17:59:46	]Usman entered observer.
+[17:59:47	]Usman exited observer at their location.
+[17:59:48	]Bquits has used a context menu option with the name: remove
+[17:59:49	]Usman entered observer.
+[17:59:50	]Usman exited observer at their location.
+[17:59:50	]Usman entered observer.
+[17:59:51	]Usman exited observer at their location.
+[17:59:52	]Bquits has used a context menu option with the name: remove
+[17:59:53	]Usman entered observer.
+[17:59:58	]Bquits has used a context menu option with the name: remove
+[18:00:00	]Bquits has used a context menu option with the name: remove
+[18:00:05	]Bquits has used a context menu option with the name: remove
+[18:00:09	]Bquits has used a context menu option with the name: clientprop
+[18:00:14	]Usman exited observer at their location.
+[18:00:14	]Bquits has used a context menu option with the name: remove
+[18:00:18	]Bquits has used a context menu option with the name: remove
+[18:00:26	]Bquits has used a context menu option with the name: remove
+[18:00:31	]Bquits entered observer.
+[18:00:34	]Bquits exited observer at their location.
+[18:00:39	]Bquits has used a context menu option with the name: remove
+[18:00:39	]Bquits entered observer.
+[18:00:40	]Usman used command '/ExitAct'.
+[18:00:42	]Usman used command '/ExitAct'.
+[18:00:45	]Usman used command '/ExitAct'.
+[18:00:45	]Usman entered observer.
+[18:00:48	]Bquits has used a context menu option with the name: remove
+[18:00:49	]Usman exited observer at their location.
+[18:00:50	]Usman entered observer.
+[18:00:56	]Bquits used command '/PanelRemove'.
+[18:00:59	]Bquits used command '/PanelRemove'.
+[18:01:03	]Usman exited observer at their location.
+[18:01:06	]Usman used command '/ExitAct'.
+[18:01:12	]Usman entered observer.
+[18:01:21	]Bquits used command '/CreateCustomItem'.
+[18:01:59	]Usman exited observer at their location.
+[18:02:02	]Usman entered observer.
+[18:02:22	]Usman exited observer at their location.
+[18:02:27	]Usman entered observer.
+[18:02:28	]Usman exited observer at their location.
+[18:03:06	]Bquits exited observer at their location.
+[18:03:06	]Bquits entered observer.
+[18:03:40	]Usman entered observer.
+[18:03:50	]Usman exited observer at their location.
+[18:04:48	]Bquits exited observer at their location.
+[18:04:50	]Bquits entered observer.
+[18:04:51	]Bquits exited observer at their location.
+[18:04:53	]Usman entered observer.
+[18:04:54	]Bquits entered observer.
+[18:04:54	]Usman exited observer at their location.
+[18:04:55	]Bquits exited observer at their location.
+[18:04:59	]Bquits entered observer.
+[18:05:01	]Bquits exited observer at their location.
+[18:05:04	]Bquits entered observer.
+[18:05:05	]Bquits exited observer at their location.
+[18:05:05	]Usman entered observer.
+[18:05:06	]Usman exited observer at their location.
+[18:05:07	]Usman has taken 0 damage from worldspawn.
+[18:05:08	]Bquits entered observer.
+[18:05:08	]Bquits exited observer at their location.
+[18:05:10	]Usman entered observer.
+[18:05:11	]Usman is fully healed.
+[18:05:12	]Usman exited observer at their location.
+[18:05:13	]Usman entered observer.
+[18:05:14	]Usman exited observer at their location.
+[18:05:15	]Usman entered observer.
+[18:05:18	]Usman exited observer at their location.
+[18:05:24	]Bquits entered observer.
+[18:05:28	]Bquits has used a context menu option with the name: remove
+[18:05:50	]Usman entered observer.
+[18:05:52	]Usman exited observer at their location.
+[18:05:53	]Usman entered observer.
+[18:05:53	]Usman exited observer at their location.
+[18:05:56	]Usman entered observer.
+[18:05:57	]Usman exited observer at their location.
+[18:05:57	]Usman entered observer.
+[18:05:59	]Usman exited observer at their location.
+[18:06:02	]Usman entered observer.
+[18:06:03	]Usman exited observer at their location.
+[18:06:16	]Bquits exited observer at their location.
+[18:06:21	]Bquits has used a context menu option with the name: remove
+[18:06:23	]Bquits used command '/TextRemove'.
+[18:06:23	]Bquits entered observer.
+[18:06:33	]Usman entered observer.
+[18:06:41	]Bquits exited observer at their location.
+[18:06:47	]Usman exited observer at their location.
+[18:06:48	]Usman entered observer.
+[18:06:48	]Bquits entered observer.
+[18:06:49	]Usman exited observer at their location.
+[18:08:19	]Bquits exited observer at their location.
+[18:08:20	]Bquits entered observer.
+[18:08:25	]Bquits exited observer at their location.
+[18:08:25	]Bquits entered observer.
+[18:08:25	]Bquits exited observer at their location.
+[18:08:27	]Bquits entered observer.
+[18:08:28	]Bquits exited observer at their location.
+[18:08:28	]Bquits entered observer.
+[18:08:33	]Bquits exited observer at their location.
+[18:08:34	]Bquits entered observer.
+[18:08:35	]Bquits exited observer at their location.
+[18:08:47	]Bquits entered observer.
+[18:10:49	]Bquits has used a context menu option with the name: remove
+[18:10:50	]Bquits exited observer at their location.
+[18:10:53	]Bquits has used a context menu option with the name: remove
+[18:10:55	]Bquits entered observer.
+[18:11:05	]Bquits has fired a toolgun with the name: remover
+[18:11:05	]Bquits has fired a toolgun with the name: remover
+[18:11:05	]Bquits has fired a toolgun with the name: remover
+[18:11:06	]Bquits has fired a toolgun with the name: remover
+[18:11:06	]Bquits has fired a toolgun with the name: remover
+[18:11:08	]Bquits has fired a toolgun with the name: remover
+[18:11:09	]Bquits has fired a toolgun with the name: remover
+[18:11:09	]Bquits has fired a toolgun with the name: remover
+[18:11:09	]Bquits has fired a toolgun with the name: remover
+[18:11:16	]Bquits has fired a toolgun with the name: remover
+[18:11:16	]Bquits has fired a toolgun with the name: remover
+[18:11:17	]Bquits has fired a toolgun with the name: remover
+[18:11:17	]Bquits has fired a toolgun with the name: remover
+[18:11:17	]Bquits has fired a toolgun with the name: remover
+[18:11:17	]Bquits has fired a toolgun with the name: remover
+[18:11:17	]Bquits has fired a toolgun with the name: remover
+[18:11:19	]Bquits has fired a toolgun with the name: remover
+[18:11:25	]Bquits exited observer at their location.
+[18:12:03	]Bquits has spawned 'models/barn/barn_railing128.mdl'.
+[18:12:04	]Bquits entered observer.
+[18:12:12	]Bquits exited observer at their location.
+[18:12:14	]Bquits has spawned 'models/props_wasteland/exterior_fence_notbarbed002e.mdl'.
+[18:12:14	]Bquits entered observer.
+[18:12:16	]Bquits exited observer at their location.
+[18:12:18	]Bquits has spawned 'models/props_wasteland/barricade001a_chunk05.mdl'.
+[18:12:20	]Bquits has spawned 'models/props_wasteland/barricade002a.mdl'.
+[18:12:24	]Bquits entered observer.
+[18:12:26	]Bquits exited observer at their location.
+[18:12:38	]Bquits entered observer.
+[18:12:46	]Bquits exited observer at their location.
+[18:12:50	]Bquits has spawned 'models/military/railing64.mdl'.
+[18:12:57	]Bquits has spawned 'models/military/railing128.mdl'.
+[18:12:59	]Bquits has spawned 'models/military/railing128.mdl'.
+[18:12:59	]Bquits entered observer.
+[18:13:01	]Bquits exited observer at their location.
+[18:13:03	]Bquits entered observer.
+[18:13:04	]Bquits exited observer at their location.
+[18:13:05	]Usman has used a context menu option with the name: remove
+[18:13:06	]Bquits has spawned 'models/props/railing1.mdl'.
+[18:13:06	]Bquits entered observer.
+[18:13:10	]Bquits has spawned 'models/props/foundation_64x128.mdl'.
+[18:13:15	]Bquits has spawned 'models/military/metalcover.mdl'.
+[18:13:18	]Bquits has spawned 'models/props/fence1.mdl'.
+[18:13:20	]Usman ran SAM command 'goto' with arguments: 'bq'
+[18:13:21	]Bquits has spawned 'models/props/stairhalf.mdl'.
+[18:13:21	]Usman entered observer.
+[18:13:22	]Bquits has spawned 'models/props/stair_pref2.mdl'.
+[18:13:29	]Usman exited observer at their location.
+[18:13:30	]Bquits has spawned 'models/military/railing128.mdl'.
+[18:13:32	]Usman entered observer.
+[18:13:38	]Bquits has spawned 'models/military/railing128.mdl'.
+[18:13:44	]Usman exited observer at their location.
+[18:13:46	]Usman entered observer.
+[18:13:50	]Usman exited observer at their location.
+[18:14:05	]Bquits exited observer at their location.
+[18:14:14	]Bquits has enabled persistence for 'models/military/railing128.mdl'.
+[18:14:14	]Bquits has used a context menu option with the name: persist
+[18:14:17	]Usman entered observer.
+[18:14:18	]Bquits has spawned 'models/military/railing128.mdl'.
+[18:14:20	]Bquits entered observer.
+[18:14:26	]Bquits exited observer at their location.
+[18:14:31	]Bquits entered observer.
+[18:14:37	]Bquits exited observer at their location.
+[18:14:38	]Bquits entered observer.
+[18:14:47	]Bquits has enabled persistence for 'models/military/railing128.mdl'.
+[18:14:47	]Bquits has used a context menu option with the name: persist
+[18:14:48	]Bquits has used a context menu option with the name: clientprop
+[18:15:15	]Bquits exited observer at their location.
+[18:15:16	]Bquits entered observer.
+[18:15:21	]Bquits has enabled persistence for 'models/military/railing128.mdl'.
+[18:15:21	]Bquits has used a context menu option with the name: persist
+[18:15:21	]Bquits exited observer at their location.
+[18:15:24	]Bquits has spawned 'models/military/railing64.mdl'.
+[18:15:39	]Bquits has spawned 'models/military/railing128.mdl'.
+[18:15:39	]Bquits entered observer.
+[18:15:42	]Bquits has spawned 'models/military/railing128.mdl'.
+[18:15:45	]Bquits exited observer at their location.
+[18:15:46	]Bquits entered observer.
+[18:15:46	]Bquits exited observer at their location.
+[18:15:47	]Bquits entered observer.
+[18:15:48	]Bquits exited observer at their location.
+[18:15:48	]Bquits entered observer.
+[18:15:49	]Bquits exited observer at their location.
+[18:16:04	]Bquits entered observer.
+[18:16:06	]Usman exited observer at their location.
+[18:16:10	]Usman entered observer.
+[18:16:10	]Bquits exited observer at their location.
+[18:16:11	]Bquits entered observer.
+[18:16:15	]Bquits exited observer at their location.
+[18:16:17	]Usman exited observer at their location.
+[18:16:19	]Usman entered observer.
+[18:16:20	]Usman exited observer at their location.
+[18:16:20	]Usman entered observer.
+[18:16:22	]Bquits entered observer.
+[18:16:28	]Bquits exited observer at their location.
+[18:16:28	]Bquits entered observer.
+[18:16:32	]Bquits exited observer at their location.
+[18:16:35	]Bquits entered observer.
+[18:16:40	]Bquits exited observer at their location.
+[18:16:42	]Bquits entered observer.
+[18:16:50	]Bquits exited observer at their location.
+[18:16:55	]Bquits entered observer.
+[18:17:00	]Bquits exited observer at their location.
+[18:17:06	]Usman exited observer at their location.
+[18:17:07	]Usman entered observer.
+[18:17:08	]Usman exited observer at their location.
+[18:17:08	]Bquits entered observer.
+[18:17:09	]Bquits exited observer at their location.
+[18:17:13	]Bquits entered observer.
+[18:17:14	]Usman has taken 0 damage from point_hurt.
+[18:17:14	]Usman has taken 0 damage from point_hurt.
+[18:17:14	]Usman has taken 0 damage from point_hurt.
+[18:17:14	]Usman has taken 0 damage from point_hurt.
+[18:17:14	]Usman has taken 1 damage from point_hurt.
+[18:17:14	]Usman has taken 0 damage from point_hurt.
+[18:17:14	]Usman has taken 1 damage from point_hurt.
+[18:17:15	]Usman has taken 1 damage from point_hurt.
+[18:17:15	]Usman has taken 7 damage from env_fire.
+[18:17:15	]Usman has taken 1 damage from point_hurt.
+[18:17:15	]Usman has taken 6 damage from env_fire.
+[18:17:15	]Usman has taken 11 damage from env_fire.
+[18:17:15	]Usman has taken 3 damage from env_fire.
+[18:17:15	]Usman has taken 4 damage from env_fire.
+[18:17:15	]Usman has taken 6 damage from env_fire.
+[18:17:15	]Usman has taken 6 damage from env_fire.
+[18:17:15	]Usman has taken 6 damage from env_fire.
+[18:17:16	]Usman has taken 7 damage from env_fire.
+[18:17:16	]Usman is fully healed.
+[18:17:16	]Usman has taken 13 damage from env_fire.
+[18:17:16	]Usman has taken 11 damage from env_fire.
+[18:17:16	]Usman has taken 6 damage from env_fire.
+[18:17:16	]Usman has taken 8 damage from env_fire.
+[18:17:16	]Usman has taken 6 damage from env_fire.
+[18:17:16	]Usman has taken 6 damage from env_fire.
+[18:17:17	]Usman has taken 13 damage from env_fire.
+[18:17:21	]Usman is fully healed.
+[18:17:23	]Usman entered observer.
+[18:17:26	]Bquits exited observer at their location.
+[18:17:28	]Bquits has enabled persistence for 'models/military/railing128.mdl'.
+[18:17:28	]Bquits has used a context menu option with the name: persist
+[18:17:30	]Usman exited observer at their location.
+[18:17:32	]Usman entered observer.
+[18:17:32	]Usman exited observer at their location.
+[18:17:33	]Bquits has spawned 'models/military/railing128.mdl'.
+[18:17:34	]Bquits entered observer.
+[18:17:49	]Usman entered observer.
+[18:17:53	]Bquits has fired a toolgun with the name: precision
+[18:17:55	]Bquits has fired a toolgun with the name: precision
+[18:17:56	]Bquits has fired a toolgun with the name: precision
+[18:18:00	]Usman exited observer at their location.
+[18:18:08	]Bquits exited observer at their location.
+[18:18:17	]Bquits entered observer.
+[18:18:19	]Bquits exited observer at their location.
+[18:18:24	]Bquits ran SAM command 'stopsound' with arguments: ''
+[18:18:32	]Usman admin-searched the 'SİB OTOMAT ANAHTARLARI (KISA SÜRELİ BURADA)' #11858 container.
+[18:18:32	]Usman has used a context menu option with the name: wncontainer_view
+[18:18:36	]Usman admin-closed the 'SİB OTOMAT ANAHTARLARI (KISA SÜRELİ BURADA)' #11858 container.
+[18:18:41	]Usman entered observer.
+[18:18:45	]Usman exited observer at their location.
+[18:19:03	]Usman entered observer.
+[18:19:03	]Usman exited observer at their location.
+[18:19:06	]Usman ran 'drop' on item 'Yönetici' (#168661)
+[18:19:06	]Usman has lost a 'Yönetici' #168661.
+[18:19:07	]Usman ran 'drop' on item 'The Emir' (#168659)
+[18:19:07	]Usman has lost a 'The Emir' #168659.
+[18:19:09	]env_fire destroyed a 'The Emir' #168659.
+[18:19:09	]entityflame destroyed a 'Yönetici' #168661.
+[18:19:13	]Bquits has fired a toolgun with the name: stacker_improved
+[18:19:13	]Bquits has spawned 'models/military/railing128.mdl'.
+[18:19:15	]Usman has taken 0 damage from point_hurt.
+[18:19:15	]Usman has taken 0 damage from point_hurt.
+[18:19:15	]Usman has taken 0 damage from point_hurt.
+[18:19:15	]Usman has taken 0 damage from point_hurt.
+[18:19:15	]Usman has taken 9 damage from env_fire.
+[18:19:15	]Usman has taken 13 damage from env_fire.
+[18:19:16	]Usman has taken 1 damage from point_hurt.
+[18:19:16	]Usman has taken 7 damage from env_fire.
+[18:19:16	]Usman is fully healed.
+[18:19:16	]Usman has taken 13 damage from env_fire.
+[18:19:16	]Usman has taken 13 damage from env_fire.
+[18:19:16	]Usman has taken 12 damage from env_fire.
+[18:19:16	]Usman has taken 12 damage from env_fire.
+[18:19:16	]Usman has taken 10 damage from env_fire.
+[18:19:16	]Usman has taken 11 damage from env_fire.
+[18:19:16	]Usman has taken 11 damage from env_fire.
+[18:19:16	]Usman has taken 8 damage from env_fire.
+[18:19:16	]Usman has taken 12 damage from env_fire.
+[18:19:16	]Usman has taken 9 damage from env_fire.
+[18:19:16	]Usman has taken 10 damage from env_fire.
+[18:19:16	]Usman has taken 13 damage from env_fire.
+[18:19:17	]Usman has taken 11 damage from env_fire.
+[18:19:17	]Usman has taken 9 damage from env_fire.
+[18:19:17	]Usman has taken 13 damage from env_fire.
+[18:19:21	]Usman is fully healed.
+[18:19:21	]Bquits has enabled persistence for 'models/military/railing128.mdl'.
+[18:19:21	]Bquits has used a context menu option with the name: persist
+[18:19:21	]Usman ran 'drop' on item 'MOE Member Access Keycard' (#168652)
+[18:19:21	]Usman has lost a 'MOE Member Access Keycard' #168652.
+[18:19:21	]Usman has taken 2 damage from point_hurt.
+[18:19:21	]entityflame destroyed a 'MOE Member Access Keycard' #168652.
+[18:19:21	]Usman has taken 2 damage from point_hurt.
+[18:19:22	]Usman has taken 1 damage from point_hurt.
+[18:19:22	]Usman has taken 1 damage from point_hurt.
+[18:19:22	]Usman has taken 2 damage from point_hurt.
+[18:19:22	]Usman has taken 1 damage from point_hurt.
+[18:19:22	]Usman has taken 2 damage from point_hurt.
+[18:19:22	]Usman has taken 1 damage from point_hurt.
+[18:19:22	]Usman has taken 1 damage from point_hurt.
+[18:19:22	]Usman has taken 1 damage from point_hurt.
+[18:19:22	]Usman has taken 1 damage from point_hurt.
+[18:19:22	]Usman has taken 2 damage from point_hurt.
+[18:19:22	]Usman has taken 1 damage from point_hurt.
+[18:19:22	]Usman has taken 2 damage from point_hurt.
+[18:19:22	]Usman has taken 1 damage from point_hurt.
+[18:19:22	]Usman has taken 1 damage from point_hurt.
+[18:19:22	]Usman has taken 1 damage from point_hurt.
+[18:19:22	]Usman has taken 1 damage from point_hurt.
+[18:19:22	]Usman has taken 5 damage from env_fire.
+[18:19:23	]Usman has taken 1 damage from point_hurt.
+[18:19:23	]Usman has taken 9 damage from env_fire.
+[18:19:23	]Usman has taken 1 damage from point_hurt.
+[18:19:23	]Usman has taken 11 damage from env_fire.
+[18:19:23	]Usman has taken 4 damage from env_fire.
+[18:19:23	]Usman has taken 7 damage from env_fire.
+[18:19:23	]Usman has taken 0 damage from point_hurt.
+[18:19:23	]Usman has taken 0 damage from point_hurt.
+[18:19:23	]Usman has taken 13 damage from env_fire.
+[18:19:24	]Usman has taken 0 damage from point_hurt.
+[18:19:24	]Usman has taken 0 damage from point_hurt.
+[18:19:24	]Usman has taken 1 damage from point_hurt.
+[18:19:24	]Usman has taken 0 damage from point_hurt.
+[18:19:24	]Usman has taken 0 damage from point_hurt.
+[18:19:24	]Usman has taken 1 damage from point_hurt.
+[18:19:24	]Usman has taken 4 damage from env_fire.
+[18:19:24	]Usman has taken 0 damage from point_hurt.
+[18:19:24	]Usman has taken 1 damage from point_hurt.
+[18:19:24	]Usman has taken 9 damage from env_fire.
+[18:19:24	]Usman has taken 0 damage from point_hurt.
+[18:19:24	]Usman has taken 1 damage from point_hurt.
+[18:19:24	]Usman has taken 0 damage from point_hurt.
+[18:19:24	]Usman has taken 1 damage from point_hurt.
+[18:19:24	]Usman has taken 9 damage from env_fire.
+[18:19:24	]Usman has taken 0 damage from point_hurt.
+[18:19:24	]Usman has taken 10 damage from env_fire.
+[18:19:24	]Usman has taken 0 damage from point_hurt.
+[18:19:24	]Usman has taken 5 damage from env_fire.
+[18:19:24	]Usman has taken 1 damage from point_hurt.
+[18:19:24	]Usman has taken 5 damage from env_fire.
+[18:19:24	]Usman has taken 0 damage from point_hurt.
+[18:19:24	]Usman has taken 1 damage from point_hurt.
+[18:19:24	]Usman has taken 8 damage from env_fire.
+[18:19:25	]Usman has taken 0 damage from point_hurt.
+[18:19:25	]Usman has taken 1 damage from point_hurt.
+[18:19:25	]Usman has taken 0 damage from point_hurt.
+[18:19:25	]Usman has taken 1 damage from point_hurt.
+[18:19:25	]Usman has taken 9 damage from env_fire.
+[18:19:25	]Usman has taken 0 damage from point_hurt.
+[18:19:25	]Usman has taken 5 damage from env_fire.
+[18:19:25	]Usman has taken 0 damage from point_hurt.
+[18:19:25	]Usman has taken 13 damage from env_fire.
+[18:19:25	]Usman has taken 1 damage from point_hurt.
+[18:19:25	]Usman has taken 9 damage from env_fire.
+[18:19:25	]Usman has taken 9 damage from env_fire.
+[18:19:25	]Usman has taken 0 damage from point_hurt.
+[18:19:25	]Usman has taken 1 damage from point_hurt.
+[18:19:25	]Usman has taken 5 damage from env_fire.
+[18:19:25	]Usman has taken 9 damage from env_fire.
+[18:19:25	]Usman has taken 0 damage from point_hurt.
+[18:19:25	]Usman has taken 1 damage from point_hurt.
+[18:19:25	]Usman has taken 0 damage from point_hurt.
+[18:19:25	]Usman has taken 1 damage from point_hurt.
+[18:19:25	]Usman has taken 8 damage from env_fire.
+[18:19:25	]Usman has taken 9 damage from env_fire.
+[18:19:25	]Usman has taken 0 damage from point_hurt.
+[18:19:25	]Usman has taken 3 damage from env_fire.
+[18:19:25	]Usman has taken 10 damage from env_fire.
+[18:19:25	]Usman has taken 0 damage from point_hurt.
+[18:19:25	]Usman has taken 13 damage from env_fire.
+[18:19:25	]Usman has taken 8 damage from env_fire.
+[18:19:25	]Usman has taken 1 damage from point_hurt.
+[18:19:25	]Usman has taken 5 damage from env_fire.
+[18:19:25	]Usman has taken 11 damage from env_fire.
+[18:19:25	]Usman has taken 0 damage from point_hurt.
+[18:19:25	]Usman has taken 1 damage from point_hurt.
+[18:19:25	]Usman has taken 13 damage from env_fire.
+[18:19:25	]Usman has taken 8 damage from env_fire.
+[18:19:26	]Usman has taken 0 damage from point_hurt.
+[18:19:26	]Usman has taken 1 damage from point_hurt.
+[18:19:26	]Usman has taken 0 damage from point_hurt.
+[18:19:26	]Usman has taken 1 damage from point_hurt.
+[18:19:26	]Usman has taken 4 damage from env_fire.
+[18:19:26	]Usman has taken 9 damage from env_fire.
+[18:19:26	]Usman is fully healed.
+[18:19:26	]Usman has taken 0 damage from point_hurt.
+[18:19:26	]Usman has taken 4 damage from env_fire.
+[18:19:26	]Usman has taken 13 damage from env_fire.
+[18:19:26	]Usman has taken 0 damage from point_hurt.
+[18:19:26	]Usman has taken 13 damage from env_fire.
+[18:19:26	]Usman has taken 10 damage from env_fire.
+[18:19:26	]Usman has taken 1 damage from point_hurt.
+[18:19:26	]Usman has taken 9 damage from env_fire.
+[18:19:26	]Usman has taken 9 damage from env_fire.
+[18:19:26	]Usman has taken 0 damage from point_hurt.
+[18:19:26	]Usman has taken 1 damage from point_hurt.
+[18:19:26	]Usman has taken 0 damage from point_hurt.
+[18:19:26	]Usman has taken 3 damage from env_fire.
+[18:19:26	]Usman has taken 11 damage from env_fire.
+[18:19:26	]Usman has taken 0 damage from point_hurt.
+[18:19:26	]Usman has taken 1 damage from point_hurt.
+[18:19:26	]Usman has taken 0 damage from point_hurt.
+[18:19:26	]Usman has taken 0 damage from point_hurt.
+[18:19:26	]Usman has taken 1 damage from point_hurt.
+[18:19:26	]Usman has taken 8 damage from env_fire.
+[18:19:26	]Usman has taken 8 damage from env_fire.
+[18:19:26	]Usman has taken 0 damage from point_hurt.
+[18:19:26	]Usman has taken 0 damage from point_hurt.
+[18:19:26	]Usman has taken 6 damage from env_fire.
+[18:19:26	]Usman has taken 12 damage from env_fire.
+[18:19:26	]Usman has taken 1 damage from point_hurt.
+[18:19:26	]Usman has taken 0 damage from point_hurt.
+[18:19:26	]Usman has taken 5 damage from env_fire.
+[18:19:26	]Usman has taken 8 damage from env_fire.
+[18:19:26	]Usman has taken 1 damage from point_hurt.
+[18:19:26	]Usman has taken 1 damage from point_hurt.
+[18:19:26	]Usman has taken 12 damage from env_fire.
+[18:19:26	]Usman has taken 13 damage from env_fire.
+[18:19:26	]Usman has taken 1 damage from point_hurt.
+[18:19:26	]Usman has taken 1 damage from point_hurt.
+[18:19:26	]Usman has taken 1 damage from point_hurt.
+[18:19:26	]Usman has taken 7 damage from env_fire.
+[18:19:26	]Usman has taken 13 damage from env_fire.
+[18:19:27	]Usman has taken 1 damage from point_hurt.
+[18:19:27	]Usman has taken 1 damage from point_hurt.
+[18:19:27	]Usman has taken 1 damage from point_hurt.
+[18:19:27	]Usman has taken 1 damage from point_hurt.
+[18:19:27	]Usman has taken 9 damage from env_fire.
+[18:19:27	]Usman has taken 11 damage from env_fire.
+[18:19:27	]Usman has taken 1 damage from point_hurt.
+[18:19:27	]Usman has taken 1 damage from point_hurt.
+[18:19:27	]Usman has taken 11 damage from env_fire.
+[18:19:27	]Usman has taken 7 damage from env_fire.
+[18:19:27	]Usman has taken 4 damage from env_fire.
+[18:19:27	]Usman has taken 2 damage from point_hurt.
+[18:19:27	]Usman has taken 10 damage from env_fire.
+[18:19:27	]Usman has taken 1 damage from point_hurt.
+[18:19:27	]Usman has taken 4 damage from env_fire.
+[18:19:27	]Usman has taken 9 damage from env_fire.
+[18:19:27	]Usman has taken 1 damage from point_hurt.
+[18:19:27	]Usman has taken 1 damage from point_hurt.
+[18:19:27	]Usman has taken 10 damage from env_fire.
+[18:19:27	]Usman has taken 7 damage from env_fire.
+[18:19:27	]Usman has taken 0 damage from point_hurt.
+[18:19:27	]Usman has taken 1 damage from point_hurt.
+[18:19:27	]Usman has taken 0 damage from point_hurt.
+[18:19:27	]Usman has taken 1 damage from point_hurt.
+[18:19:27	]Usman has taken 12 damage from env_fire.
+[18:19:27	]Usman has taken 8 damage from env_fire.
+[18:19:27	]Usman has taken 0 damage from point_hurt.
+[18:19:27	]Usman has taken 12 damage from env_fire.
+[18:19:27	]Usman has taken 0 damage from point_hurt.
+[18:19:27	]Usman has taken 0 damage from point_hurt.
+[18:19:27	]Usman has taken 7 damage from env_fire.
+[18:19:27	]Usman has taken 13 damage from env_fire.
+[18:19:27	]Usman has taken 1 damage from point_hurt.
+[18:19:27	]Usman has taken 0 damage from point_hurt.
+[18:19:27	]Usman has taken 12 damage from env_fire.
+[18:19:27	]Usman has taken 13 damage from env_fire.
+[18:19:27	]Usman has taken 0 damage from point_hurt.
+[18:19:27	]Usman has taken 1 damage from point_hurt.
+[18:19:27	]Usman has taken 3 damage from env_fire.
+[18:19:28	]Usman has taken 0 damage from point_hurt.
+[18:19:28	]Usman has taken 1 damage from point_hurt.
+[18:19:28	]Usman has taken 0 damage from point_hurt.
+[18:19:28	]Usman has taken 1 damage from point_hurt.
+[18:19:28	]Usman has taken 5 damage from env_fire.
+[18:19:28	]Usman has taken 0 damage from point_hurt.
+[18:19:28	]Usman has taken 5 damage from env_fire.
+[18:19:28	]Usman has taken 12 damage from env_fire.
+[18:19:28	]Usman has taken 1 damage from point_hurt.
+[18:19:28	]Usman has taken 4 damage from env_fire.
+[18:19:28	]Usman has taken 1 damage from point_hurt.
+[18:19:28	]Usman has taken 4 damage from env_fire.
+[18:19:28	]Usman has taken 1 damage from point_hurt.
+[18:19:28	]Usman has taken 11 damage from env_fire.
+[18:19:28	]Usman has taken 5 damage from env_fire.
+[18:19:28	]Usman has taken 11 damage from env_fire.
+[18:19:29	]Usman has taken 12 damage from env_fire.
+[18:19:29	]Usman has taken 12 damage from env_fire.
+[18:19:29	]Usman has taken 12 damage from env_fire.
+[18:19:29	]Usman has taken 11 damage from env_fire.
+[18:19:29	]Usman has taken 10 damage from env_fire.
+[18:19:29	]Usman has taken 11 damage from env_fire.
+[18:19:29	]Usman has taken 11 damage from env_fire.
+[18:19:29	]Usman has taken 11 damage from env_fire.
+[18:19:31	]Usman is fully healed.
+[18:19:32	]Usman entered observer.
+[18:19:32	]Usman exited observer at their location.
+[18:19:32	]Usman entered observer.
+[18:19:33	]Usman exited observer at their location.
+[18:19:34	]Bquits has fired a toolgun with the name: stacker_improved
+[18:19:34	]Bquits has spawned 'models/military/railing128.mdl'.
+[18:19:34	]Bquits has fired a toolgun with the name: stacker_improved
+[18:19:34	]Bquits has spawned 'models/military/railing128.mdl'.
+[18:19:39	][IC] Usman: Bquits aynı atatürk gibi adam maşşalh.
+[18:19:43	]Bquits entered observer.
+[18:19:45	]Usman entered observer.
+[18:19:45	]Usman exited observer at their location.
+[18:19:50	]Bquits has enabled persistence for 'models/military/railing128.mdl'.
+[18:19:50	]Bquits has used a context menu option with the name: persist
+[18:19:50	]Bquits has enabled persistence for 'models/military/railing128.mdl'.
+[18:19:50	]Bquits has used a context menu option with the name: persist
+[18:20:01	]Bquits exited observer at their location.
+[18:20:35	]Bquits entered observer.
+[18:20:38	]Bquits exited observer at their location.
+[18:20:43	]Bquits entered observer.
+[18:20:45	]Usman entered observer.
+[18:20:46	]Bquits has fired a toolgun with the name: stacker_improved
+[18:20:46	]Bquits has spawned 'models/military/railing128.mdl'.
+[18:20:47	]Bquits has fired a toolgun with the name: stacker_improved
+[18:20:47	]Bquits has spawned 'models/military/railing128.mdl'.
+[18:20:48	]Bquits exited observer at their location.
+[18:20:50	]Usman has spawned 'models/props_combine/combine_barricade_tall03a.mdl'.
+[18:20:56	]Usman exited observer at their location.
+[18:20:57	]Usman entered observer.
+[18:20:57	]Usman exited observer at their location.
+[18:21:02	]Bquits has used a context menu option with the name: remove
+[18:21:04	]Bquits has enabled persistence for 'models/military/railing128.mdl'.
+[18:21:04	]Bquits has used a context menu option with the name: persist
+[18:21:05	]Bquits has enabled persistence for 'models/military/railing128.mdl'.
+[18:21:05	]Bquits has used a context menu option with the name: persist
+[18:21:08	]Bquits has enabled persistence for 'models/military/railing128.mdl'.
+[18:21:08	]Bquits has used a context menu option with the name: persist
+[18:21:08	][IC] Usman: Ekmeğini sikeyim.
+[18:21:11	]Bquits entered observer.
+[18:21:11	][IC] Usman: Allahını sikeyim.
+[18:21:15	]Bquits exited observer at their location.
+[18:21:19	]Usman entered observer.
+[18:21:19	]Usman exited observer at their location.
+[18:21:20	]Usman entered observer.
+[18:21:20	]Bquits entered observer.
+[18:21:21	]Usman exited observer at their location.
+[18:21:22	]Bquits exited observer at their location.
+[18:21:23	]Usman has spawned a 'NPC [1406][npc_combine_s]'.
+[18:21:26	]Usman has used a context menu option with the name: rb655_patrol_off
+[18:21:32	]Usman entered observer.
+[18:21:33	]Usman exited observer at their location.
+[18:21:38	]Usman entered observer.
+[18:21:39	]Usman exited observer at their location.
+[18:21:42	]Usman has used a context menu option with the name: remove
+[18:21:43	]Usman entered observer.
+[18:21:44	]Usman exited observer at their location.
+[18:21:45	]Usman entered observer.
+[18:21:46	]Usman exited observer at their location.
+[18:21:50	]Usman entered observer.
+[18:21:51	]Usman exited observer at their location.
+[18:22:01	]Usman entered observer.
+[18:22:03	]Usman exited observer at their location.
+[18:22:05	]Usman entered observer.
+[18:22:06	]Usman exited observer at their location.
+[18:22:27	]Bquits entered observer.
+[18:22:30	]Bquits exited observer at their location.
+[18:22:34	]Bquits entered observer.
+[18:22:40	]Bquits exited observer at their location.
+[18:22:49	]Bquits entered observer.
+[18:25:43	]Usman entered observer.
+[18:25:44	]Usman exited observer at their location.
+[18:25:45	]Usman has taken 55 damage from worldspawn.
+[18:25:46	]Usman is fully healed.
+[18:26:14	]Usman entered observer.
+[18:26:15	]Usman exited observer at their location.
+[18:26:15	]Usman entered observer.
+[18:26:18	]Neo-Wolffe (STEAM_0:1:147154620) has disconnected.
+[18:28:24	]Bquits exited observer at their location.
+[18:37:07	]Bquits has gone afk.
+[18:44:57	]Bquits is no longer afk. Total time spent AFK: 765
+[18:50:27	]Bquits has gone afk.
+[18:53:23	]bquits has unloaded their "Bquits" character.
+[18:53:27	]bquits is no longer afk. Total time spent AFK: 475
+[18:53:28	]bquits loaded the character 'Jack Downed'
+[18:53:33	]Jack Downed is fully healed.
+[18:58:32	]Jack Downed entered observer.
+[18:58:34	]Jack Downed exited observer at their location.
+[18:58:52	]bquits has unloaded their "Jack Downed" character.
+[18:58:56	]bquits (STEAM_0:0:142449284) deleted character 'denemeyim'
+[18:59:04	]bquits loaded the character 'Bquits'
+[18:59:11	]Bquits entered observer.
+[19:00:17	]Bquits exited observer at their location.
+[19:00:33	][IC] Bquits: Evet, willard.
+[19:01:03	][IC] Bquits: Willard networks türkiye için çok yakışıklıyım.
+[19:06:34	]Bquits has gone afk.
+[19:06:59	]Bquits is no longer afk. Total time spent AFK: 320
+[19:08:26	]Bquits entered observer.
+[19:10:23	]bquits (STEAM_0:0:142449284) has disconnected.
+[20:27:18	]Neo-Wolffe has connected.
+[20:27:41	]Neo-Wolffe loaded the character 'Usman'
+[20:27:55	]Usman entered observer.
+[20:27:56	]Usman exited observer at their location.
+[20:27:58	]Usman entered observer.
+[20:27:59	]Usman exited observer at their location.
+[20:28:00	]Usman entered observer.
+[20:28:01	]Usman exited observer at their location.
+[20:28:08	]Usman has used a context menu option with the name: remove
+[20:28:09	]Usman entered observer.
+[20:28:11	]Usman exited observer at their location.
+[20:28:15	]Usman entered observer.
+[20:28:16	]Usman exited observer at their location.
+[20:28:28	]Usman used command '/PanelRemove'.
+[20:28:35	]Usman used command '/PanelRemove'.
+[20:28:52	]Usman has used a context menu option with the name: rb655_dissolve
+[20:29:09	]Usman has used a context menu option with the name: remove
+[20:29:15	]Usman has used a context menu option with the name: remove
+[20:29:18	]Usman has used a context menu option with the name: remove
+[20:29:27	]Usman has used a context menu option with the name: remove
+[20:29:35	]Usman used command '/PanelRemove'.
+[20:29:40	]Usman has used a context menu option with the name: remove
+[20:29:46	]Usman has used a context menu option with the name: remove
+[20:29:48	]Usman has used a context menu option with the name: remove
+[20:29:55	]Usman has used a context menu option with the name: remove
+[20:30:00	]Usman has used a context menu option with the name: remove
+[20:30:10	]Usman entered observer.
+[20:30:10	]Usman exited observer at their location.
+[20:30:11	]Usman entered observer.
+[20:30:14	]Usman exited observer at their location.
+[20:30:42	]Usman used command '/PanelRemove'.
+[20:30:56	]Usman used command '/ExitAct'.
+[20:31:16	]Usman has used a context menu option with the name: collision_on
+[20:31:25	]Usman entered observer.
+[20:31:26	]Usman exited observer at their location.
+[20:31:30	]Usman entered observer.
+[20:31:30	]Usman exited observer at their location.
+[20:32:11	]Usman entered observer.
+[20:32:11	]Usman exited observer at their location.
+[20:32:17	]Usman entered observer.
+[20:32:33	]Usman used command '/PanelRemove'.
+[20:32:45	]Usman exited observer at their location.
+[20:32:47	]Usman entered observer.
+[20:32:48	]Usman exited observer at their location.
+[20:33:00	]Usman has fired a toolgun with the name: camera
+[20:33:56	]Usman used command '/ActLean'.
+[20:33:58	]Usman used command '/ActLean'.
+[20:34:00	]Usman used command '/ExitAct'.
+[20:34:13	]Usman used command '/ActStand'.
+[20:34:16	]Usman used command '/ExitAct'.
+[20:34:24	]Usman used command '/ActStand 4'.
+[20:34:31	]Usman used command '/ExitAct'.
+[20:34:46	]Usman used command '/ActStand 4'.
+[20:34:47	]Usman used command '/ExitAct'.
+[20:34:48	]Usman used command '/ActStand'.
+[20:37:52	]Usman used command '/ExitAct'.
+[20:37:53	]Usman entered observer.
+[20:37:55	]Usman exited observer at their location.
+[20:37:56	]Usman entered observer.
+[20:38:22	]Usman exited observer at their location.
+[20:39:36	]Usman entered observer.
+[20:39:39	]Usman exited observer at their location.
+[20:39:39	]Usman entered observer.
+[20:44:38	]Neo-Wolffe (STEAM_0:1:147154620) has disconnected.

@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/tfa/csgo_shells/shell_shotgun"
+	"$envmap"                env_cubemap
+	"$envmaptint"            "[.05 .05 .05]"
+	"$basealphaenvmapmask"   1
+	"$phong"                 1
+	"$phongexponent"         30
+	"$basemapalphaphongmask" 1
+	"$phongfresnelranges"    "[0.05 0.5 1]"
+	"$phongboost"            30
+}

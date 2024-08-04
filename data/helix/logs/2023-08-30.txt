@@ -1,0 +1,244 @@
+[18:41:33	]Enistein has connected.
+[18:42:12	]Console ran SAM command 'setrank' with arguments: 'enis' 'superadmin'
+[18:46:06	]Enistein created the character 'Malik Tuncay'
+[18:46:06	]Enistein loaded the character 'Malik Tuncay'
+[18:46:06	]Malik Tuncay has gained a 'Suitcase' #1.
+[18:46:06	]Malik Tuncay has gained a 'Flashlight' #2.
+[18:46:06	]Malik Tuncay has gained a 'Light Grey Armband' #3.
+[18:46:06	]Malik Tuncay has gained a '#03254's Identity Card' #4.
+[18:46:06	]Malik Tuncay has gained a 'Red Jumpsuit' #5.
+[18:46:06	]Malik Tuncay has gained a 'Red Jumpsuit Trousers' #6.
+[18:46:06	]Malik Tuncay has gained a 'Brown Leather Boots' #7.
+[18:50:34	]Malik Tuncay ran SAM command 'menu' with arguments: ''
+[18:51:53	]Console ran SAM command 'setrank' with arguments: 'malik' 'superadmin'
+[18:51:55	]Malik Tuncay ran SAM command 'menu' with arguments: ''
+[18:52:31	]Console ran SAM command 'setrank' with arguments: 'malik' 'community_manager'
+[18:54:48	]Malik Tuncay set allowVoice to '[true]'.
+[18:55:10	]Malik Tuncay has disabled the xenforolink plugin for next restart.
+[18:58:14	]Malik Tuncay used command '/PlyWhitelist malik metropolice'.
+[18:58:34	]Malik Tuncay used command '/PlyWhitelist malik mcp'.
+[18:58:44	]Malik Tuncay used command '/PlyWhitelist malik cp'.
+[19:02:08	]Malik Tuncay ran SAM command 'menu' with arguments: ''
+[19:02:14	]Malik Tuncay used command '/MapRestart'.
+[19:04:05	]Enistein has connected.
+[19:04:35	]Enistein loaded the character 'Malik Tuncay'
+[19:06:58	]Malik Tuncay used command '/PlyWhitelist malik cp'.
+[19:08:42	]Enistein created the character 'C17:RCT.YELLO-25'
+[19:08:42	]Malik Tuncay has gained level 5 in the Guns skill.
+[19:08:42	]Malik Tuncay has gained level 10 in the Speed skill.
+[19:08:43	]Enistein loaded the character 'C17:RCT.YELLO-25'
+[19:08:43	]C17:RCT.YELLO-25 has gained a '#03897's Identity Card' #8.
+[19:08:43	]C17:RCT.YELLO-25 has gained a 'Combine PDA' #9.
+[19:08:43	]C17:RCT.YELLO-25 has gained a 'CP Uniform' #10.
+[19:08:43	]C17:RCT.YELLO-25 has gained a 'CP Mask' #11.
+[19:08:43	]C17:RCT.YELLO-25 has gained a 'Handheld Radio' #12.
+[19:08:43	]C17:RCT.YELLO-25 has gained a 'Small Bag' #13.
+[19:08:43	]C17:RCT.YELLO-25 has gained a 'Large Bag' #14.
+[19:11:32	]C17:RCT.YELLO-25 set thirdperson to '[true]'.
+[19:13:02	]C17:RCT.YELLO-25 has given himself a uniform_cp.
+[19:13:02	]C17:RCT.YELLO-25 has gained a 'CP Uniform' #15.
+[19:13:06	]C17:RCT.YELLO-25 ran 'drop' on item 'CP Uniform' (#15)
+[19:13:06	]C17:RCT.YELLO-25 has lost a 'CP Uniform' #15.
+[19:13:09	]C17:RCT.YELLO-25 has used a context menu option with the name: rb655_dissolve
+[19:13:11	]env_entity_dissolver destroyed a 'CP Uniform' #15.
+[19:13:30	]C17:RCT.YELLO-25 ran SAM command 'noclip' with arguments: ''
+[19:13:34	]C17:RCT.YELLO-25 ran SAM command 'noclip' with arguments: ''
+[19:13:35	]C17:RCT.YELLO-25 ran SAM command 'noclip' with arguments: ''
+[19:13:38	]C17:RCT.YELLO-25 ran SAM command 'noclip' with arguments: ''
+[19:14:37	]C17:RCT.YELLO-25 ran 'Equip' on item 'Combine PDA' (#9)
+[19:15:05	][IC] C17:RCT.YELLO-25: Helo.
+[19:15:09	][IC] C17:RCT.YELLO-25: Helo.
+[19:15:20	][IC] C17:RCT.YELLO-25: Helo.
+[19:15:38	]C17:RCT.YELLO-25 ran 'Pants' on item 'CP Uniform' (#10)
+[19:16:04	]C17:RCT.YELLO-25 ran 'Pants' on item 'CP Uniform' (#10)
+[19:16:10	]C17:RCT.YELLO-25 ran 'Pants' on item 'CP Uniform' (#10)
+[19:16:54	]C17:RCT.YELLO-25 ran 'ToggleOn' on item 'Handheld Radio' (#12)
+[19:16:57	]C17:RCT.YELLO-25 ran 'channel' on item 'Handheld Radio' (#12)
+[19:18:54	]C17:RCT.YELLO-25 has given himself a rappel_gear.
+[19:18:55	]C17:RCT.YELLO-25 has gained a 'Rappel Gear' #16.
+[19:18:56	]C17:RCT.YELLO-25 ran 'Equip' on item 'Rappel Gear' (#16)
+[19:19:13	]C17:RCT.YELLO-25 ran SAM command 'noclip' with arguments: ''
+[19:19:14	]C17:RCT.YELLO-25 ran SAM command 'noclip' with arguments: ''
+[19:19:25	]C17:RCT.YELLO-25 ran SAM command 'noclip' with arguments: ''
+[19:19:26	]C17:RCT.YELLO-25 ran SAM command 'noclip' with arguments: ''
+[19:19:34	]C17:RCT.YELLO-25 ran 'EquipUn' on item 'Rappel Gear' (#16)
+[19:19:37	]C17:RCT.YELLO-25 ran SAM command 'noclip' with arguments: ''
+[19:19:38	]C17:RCT.YELLO-25 ran SAM command 'noclip' with arguments: ''
+[19:21:49	]C17:RCT.YELLO-25 has given himself a audiobook_1Albanian.
+[19:21:49	]C17:RCT.YELLO-25 has gained a 'Learn Albanian - Chapter 1 - An Audiobook' #17.
+[19:21:50	]C17:RCT.YELLO-25 ran 'Listen' on item 'Learn Albanian - Chapter 1 - An Audiobook' (#17)
+[19:22:19	]C17:RCT.YELLO-25 has given himself a drug_amph_a.
+[19:22:19	]C17:RCT.YELLO-25 has gained a 'CLASS A Amphetamine' #18.
+[19:22:21	]C17:RCT.YELLO-25 ran 'Consume' on item 'CLASS A Amphetamine' (#18)
+[19:22:21	]C17:RCT.YELLO-25 has gained a level 6 long boost in Strength.
+[19:22:21	]C17:RCT.YELLO-25 has gained a level 4 long boost in Agility.
+[19:22:21	]C17:RCT.YELLO-25 has gained a level -4 long boost in Intelligence.
+[19:22:21	]C17:RCT.YELLO-25 has gained a level 5 long boost in Perception.
+[19:22:21	]C17:RCT.YELLO-25 has gained a 'Syringe' #19.
+[19:23:24	]C17:RCT.YELLO-25 ran 'Use' on item 'Syringe' (#19)
+[19:23:24	]C17:RCT.YELLO-25 has gained a 'Blood Syringe' #20.
+[19:23:25	]C17:RCT.YELLO-25 ran 'drop' on item 'Blood Syringe' (#20)
+[19:23:25	]C17:RCT.YELLO-25 has lost a 'Blood Syringe' #20.
+[19:23:36	]C17:RCT.YELLO-25 ran SAM command 'noclip' with arguments: ''
+[19:23:36	]C17:RCT.YELLO-25 ran SAM command 'noclip' with arguments: ''
+[19:23:37	]C17:RCT.YELLO-25 was knocked unconscious and is bleeding out.
+[19:23:52	]C17:RCT.YELLO-25 was just killed due to: accepting their death
+[19:24:25	]C17:RCT.YELLO-25 has used a context menu option with the name: remove
+[19:24:30	]C17:RCT.YELLO-25 ran 'Equip' on item 'Rappel Gear' (#16)
+[19:24:58	]C17:RCT.YELLO-25 ran SAM command 'noclip' with arguments: ''
+[19:24:59	]C17:RCT.YELLO-25 ran SAM command 'noclip' with arguments: ''
+[19:25:14	]C17:RCT.YELLO-25 used command '/PlyWhitelist yello-25 vort'.
+[19:27:22	]Enistein created the character 'Norgaun the Whisperspeaker'
+[19:27:22	]Enistein loaded the character 'Norgaun the Whisperspeaker'
+[19:27:47	]Norgaun the Whisperspeaker used command '/vortessence'.
+[19:27:49	]Norgaun the Whisperspeaker used command '/vortessence'.
+[19:27:51	]Norgaun the Whisperspeaker used command '/vortessence'.
+[19:29:37	]Norgaun the Whisperspeaker used command '/PlyGiveAllFlags norgaun'.
+[19:32:46	]Norgaun the Whisperspeaker has spawned a 'NPC [112][npc_vj_hlr1a_hgrunt]'.
+[19:32:52	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:53	][VORT] Norgaun the Whisperspeaker has damaged npc_vj_hlr1a_hgrunt, dealing 40 with vortslam
+[19:32:54	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:55	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:55	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:55	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:55	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:55	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:55	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:55	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:55	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:55	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:56	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:56	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:56	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:56	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:56	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:56	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:56	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:56	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:57	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:57	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:57	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:57	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:57	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:57	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:57	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:57	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:58	]Norgaun the Whisperspeaker has taken 5 damage from Human Grunt.
+[19:32:58	][VORT] Norgaun the Whisperspeaker has damaged npc_vj_hlr1a_hgrunt, dealing 66.3 with vortbeam
+[19:33:04	]Norgaun the Whisperspeaker has used a context menu option with the name: remove
+[19:33:15	]Norgaun the Whisperspeaker has spawned a 'NPC [112][npc_vj_hlrof_penguin]'.
+[19:33:15	]Norgaun the Whisperspeaker has taken 10 damage from Penguin.
+[19:33:18	]Norgaun the Whisperspeaker has taken 10 damage from Penguin.
+[19:33:24	]Norgaun the Whisperspeaker has used a context menu option with the name: vj_pr_npc_control
+[19:33:49	]Norgaun the Whisperspeaker has spawned a 'NPC [108][npc_vj_hlr1_hgrunt]'.
+[19:33:51	]Norgaun the Whisperspeaker has used a context menu option with the name: vj_pr_npc_control
+[19:34:49	]Norgaun the Whisperspeaker ran SAM command 'noclip' with arguments: ''
+[19:34:59	]Norgaun the Whisperspeaker has used a context menu option with the name: remove
+[19:35:31	]Enistein loaded the character 'C17:RCT.YELLO-25'
+[19:35:35	]C17:RCT.YELLO-25 has spawned a 'NPC [108][npc_vj_civil_protection_z]'.
+[19:35:36	]C17:RCT.YELLO-25 has taken 8 damage from Civil Protection.
+[19:35:36	]C17:RCT.YELLO-25 is fully healed.
+[19:35:36	]C17:RCT.YELLO-25 has taken 2 damage from Civil Protection.
+[19:35:37	]C17:RCT.YELLO-25 has taken 8 damage from Civil Protection.
+[19:35:37	]C17:RCT.YELLO-25 has taken 8 damage from Civil Protection.
+[19:35:41	]C17:RCT.YELLO-25 is fully healed.
+[19:44:48	][LOOC] C17:RCT.YELLO-25: test
+[19:45:47	]C17:RCT.YELLO-25 has given himself a uniform_com.
+[19:45:47	]C17:RCT.YELLO-25 has gained a 'CP Rank Leader Uniform' #21.
+[19:46:17	]C17:RCT.YELLO-25 has taken 41 damage from worldspawn.
+[19:46:20	]C17:RCT.YELLO-25 ran SAM command 'noclip' with arguments: ''
+[19:46:22	]C17:RCT.YELLO-25 ran SAM command 'noclip' with arguments: ''
+[19:46:30	]C17:RCT.YELLO-25 has given himself a stunstick.
+[19:46:30	]C17:RCT.YELLO-25 has gained a 'Stunstick' #22.
+[19:46:31	]C17:RCT.YELLO-25 ran 'Equip' on item 'Stunstick' (#22)
+[19:46:37	]C17:RCT.YELLO-25 ran 'EquipUn' on item 'Rappel Gear' (#16)
+[19:46:37	]C17:RCT.YELLO-25 ran 'Equip' on item 'Stunstick' (#22)
+[19:46:59	]C17:RCT.YELLO-25 has spawned a 'NPC [110][npc_vj_hlr2_citizen]'.
+[19:47:00	]C17:RCT.YELLO-25 has critically hit npc_vj_hlr2_citizen dealing 5 damage (CritChance was 0.95).
+[19:47:01	]C17:RCT.YELLO-25 has critically hit npc_vj_hlr2_citizen dealing 5 damage (CritChance was 0.95).
+[19:47:03	]C17:RCT.YELLO-25 has critically hit npc_vj_hlr2_citizen dealing 8 damage (CritChance was 0.95).
+[19:47:07	]C17:RCT.YELLO-25 has critically hit npc_vj_hlr2_citizen dealing 8 damage (CritChance was 0.95).
+[19:47:08	]C17:RCT.YELLO-25 has critically hit npc_vj_hlr2_citizen dealing 8 damage (CritChance was 0.95).
+[19:47:09	]C17:RCT.YELLO-25 has critically hit npc_vj_hlr2_citizen dealing 8 damage (CritChance was 0.95).
+[19:47:13	]C17:RCT.YELLO-25 has used a context menu option with the name: remove
+[19:47:14	]C17:RCT.YELLO-25 has spawned a 'NPC [110][npc_vj_hlr2_citizen]'.
+[19:47:15	]C17:RCT.YELLO-25 has critically hit npc_vj_hlr2_citizen dealing 5 damage (CritChance was 0.95).
+[19:47:16	]C17:RCT.YELLO-25 has critically hit npc_vj_hlr2_citizen dealing 5 damage (CritChance was 0.95).
+[19:47:17	]C17:RCT.YELLO-25 has critically hit npc_vj_hlr2_citizen dealing 5 damage (CritChance was 0.95).
+[19:47:19	]C17:RCT.YELLO-25 has critically hit npc_vj_hlr2_citizen dealing 5 damage (CritChance was 0.95).
+[19:47:19	]C17:RCT.YELLO-25 has critically hit npc_vj_hlr2_citizen dealing 5 damage (CritChance was 0.95).
+[19:47:20	]C17:RCT.YELLO-25 has critically hit npc_vj_hlr2_citizen dealing 5 damage (CritChance was 0.95).
+[19:47:21	]C17:RCT.YELLO-25 has critically hit npc_vj_hlr2_citizen dealing 5 damage (CritChance was 0.95).
+[19:47:22	]C17:RCT.YELLO-25 has critically hit npc_vj_hlr2_citizen dealing 5 damage (CritChance was 0.95).
+[19:47:25	]C17:RCT.YELLO-25 has used a context menu option with the name: remove
+[19:47:32	]C17:RCT.YELLO-25 has spawned a 'Entity [110][hydra_base]'.
+[19:47:37	]C17:RCT.YELLO-25 has spawned a 'Entity [110][ladder_small2]'.
+[19:48:26	]C17:RCT.YELLO-25 has given himself a ciggie_goodfella.
+[19:48:26	]C17:RCT.YELLO-25 has gained a 'Goodfella Cigars' #23.
+[19:48:26	]C17:RCT.YELLO-25 has gained a 'Cigarette' #24.
+[19:48:26	]C17:RCT.YELLO-25 has gained a 'Cigarette' #25.
+[19:48:26	]C17:RCT.YELLO-25 has gained a 'Cigarette' #26.
+[19:48:26	]C17:RCT.YELLO-25 has gained a 'Cigarette' #27.
+[19:48:26	]C17:RCT.YELLO-25 has gained a 'Cigarette' #28.
+[19:48:26	]C17:RCT.YELLO-25 has gained a 'Cigarette' #29.
+[19:48:26	]C17:RCT.YELLO-25 has gained a 'Cigarette' #30.
+[19:48:26	]C17:RCT.YELLO-25 has gained a 'Cigarette' #31.
+[19:48:35	]C17:RCT.YELLO-25 ran 'smoke' on item 'Cigarette' (#24)
+[19:48:42	]C17:RCT.YELLO-25 has given himself a zippolighter.
+[19:48:42	]C17:RCT.YELLO-25 has gained a 'Zippo Lighter' #32.
+[19:48:46	]C17:RCT.YELLO-25 ran 'light' on item 'Zippo Lighter' (#32)
+[19:48:59	]C17:RCT.YELLO-25 ran 'smoke' on item 'Cigarette' (#24)
+[19:49:06	]C17:RCT.YELLO-25 ran 'light' on item 'Zippo Lighter' (#32)
+[19:57:17	]C17:RCT.YELLO-25 ran SAM command 'menu' with arguments: ''
+[19:59:59	]C17:RCT.YELLO-25 has fired a toolgun with the name: sh_npcspawnedit
+[20:00:01	]C17:RCT.YELLO-25 has fired a toolgun with the name: sh_npcspawnedit
+[20:00:03	]C17:RCT.YELLO-25 has fired a toolgun with the name: sh_npcspawnedit
+[20:00:28	]C17:RCT.YELLO-25 used command '/PlyWhitelist yello ota'.
+[20:01:37	]Enistein created the character 'S10/OWS.GHOST-04'
+[20:01:37	]C17:RCT.YELLO-25 has gained level 40 in the Guns skill.
+[20:01:37	]C17:RCT.YELLO-25 has gained level 40 in the Speed skill.
+[20:01:37	]Enistein loaded the character 'S10/OWS.GHOST-04'
+[20:01:37	]S10/OWS.GHOST-04 has gained a 'Small Bag' #33.
+[20:01:37	]S10/OWS.GHOST-04 has gained a 'Large Bag' #34.
+[20:01:37	]S10/OWS.GHOST-04 has gained a 'Flashlight' #35.
+[20:01:37	]S10/OWS.GHOST-04 has gained a 'Combine PDA' #36.
+[20:01:37	]S10/OWS.GHOST-04 has gained a 'OTA Uniform' #37.
+[20:01:37	]S10/OWS.GHOST-04 has gained a 'OTA Mask' #38.
+[20:01:37	]S10/OWS.GHOST-04 has gained a 'Rappel Gear' #39.
+[20:01:37	]S10/OWS.GHOST-04 has gained a 'Magazine Pouch' #40.
+[20:01:37	]S10/OWS.GHOST-04 has gained a 'Ammunition Pouch' #41.
+[20:02:49	]S10/OWS.GHOST-04 set walkSpeed to '90'.
+[20:08:07	]S10/OWS.GHOST-04 has gone afk.
+[20:11:22	]S10/OWS.GHOST-04 is no longer afk. Total time spent AFK: 490
+[20:11:38	]S10/OWS.GHOST-04 used command '/PrintAFKPlayers'.
+[20:11:41	][IC] S10/OWS.GHOST-04: <:: Y. ::>
+[20:11:50	][IC] S10/OWS.GHOST-04: <:: Sex. ::>
+[20:11:59	][IC] S10/OWS.GHOST-04: <:: 100. ::>
+[20:12:04	][IC] S10/OWS.GHOST-04: <:: Extending conflict duration. ::>
+[20:12:14	][IC] S10/OWS.GHOST-04: <:: Overwatch, we have taken heavy casualties from primary-one objective. ::>
+[20:12:29	][IC] S10/OWS.GHOST-04: <:: Haha. ::>
+[20:12:30	][IC] S10/OWS.GHOST-04: <:: Haha. ::>
+[20:12:32	][IC] S10/OWS.GHOST-04: <:: Haha. ::>
+[20:12:34	][IC] S10/OWS.GHOST-04: <:: Haha. ::>
+[20:12:36	][IC] S10/OWS.GHOST-04: <:: Haha. ::>
+[20:12:37	][IC] S10/OWS.GHOST-04: <:: Haha. ::>
+[20:12:39	][IC] S10/OWS.GHOST-04: <:: HAHA7. ::>
+[20:12:41	][IC] S10/OWS.GHOST-04: <:: Haha. ::>
+[20:12:49	][IC] S10/OWS.GHOST-04: <:: Updating biodat. Stimdose 32, daggers 78, fuel 100, lifeprox 73, audibles 3, lifevis 15, Echo out. ::>
+[20:12:59	][IC] S10/OWS.GHOST-04: <:: Haha no. ::>
+[20:13:01	][IC] S10/OWS.GHOST-04: <:: Haha2 no. ::>
+[20:13:07	][IC] S10/OWS.GHOST-04: <:: ,. ::>
+[20:13:08	][IC] S10/OWS.GHOST-04: <:: . ::>
+[20:13:14	][IC] S10/OWS.GHOST-04: <:: ,. ::>
+[20:13:21	][IC] S10/OWS.GHOST-04: <:: 100. ::>
+[20:13:23	][IC] S10/OWS.GHOST-04: <:: 100 10. ::>
+[20:13:37	]S10/OWS.GHOST-04 used command '/Mentor test'.
+[20:13:46	]S10/OWS.GHOST-04 used command '/Radio test'.
+[20:14:06	]S10/OWS.GHOST-04 used command '/SC cwu'.
+[20:14:15	]S10/OWS.GHOST-04 used command '/SC ota-tac'.
+[20:14:18	]S10/OWS.GHOST-04 used command '/Radio test'.
+[20:14:22	]S10/OWS.GHOST-04 used command '/Radio anyone copy?'.
+[20:14:32	]S10/OWS.GHOST-04 ran SAM command 'menu' with arguments: ''
+[20:14:50	]S10/OWS.GHOST-04 used command '/ActType test'.
+[20:14:53	]S10/OWS.GHOST-04 used command '/ExitAct'.
+[20:15:17	]Enistein (STEAM_0:1:98500861) has disconnected.

@@ -1,0 +1,8 @@
+"darkrp"
+{
+	"base"		"helix"
+	"title"		"DarkRP"
+	"author"	"willard.network"
+	"category"  "rp"
+	"menusystem" "1"
+}

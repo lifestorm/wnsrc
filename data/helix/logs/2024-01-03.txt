@@ -1,0 +1,2289 @@
+[15:07:52	]Scientist has connected.
+[15:11:27	]Scientist loaded the character 'Tlu'urn'
+[15:11:32	]Tlu'urn is fully healed.
+[15:12:03	]Tlu'urn has taken 5 damage from npc_headcrab.
+[15:12:04	][VORT] Tlu'urn has damaged npc_headcrab, dealing 40 with vortslam
+[15:12:04	][VORT] Tlu'urn has damaged npc_headcrab, dealing 40 with vortslam
+[15:12:09	][VORT] Tlu'urn has damaged npc_zombie, dealing 96 with vortbeam
+[15:12:40	]Tlu'urn ran 'take' on item 'Adrenalin' (#55875)
+[15:12:50	]Tlu'urn ran 'Consume' on item 'Çiğ Headcrab Eti' (#53554)
+[15:12:51	]Tlu'urn ran 'Consume' on item 'Çiğ Headcrab Eti' (#53554)
+[15:12:55	]Tlu'urn ran 'drop' on item 'Boş Kahverengi Şişe' (#55771)
+[15:12:55	]Tlu'urn has lost a 'Boş Kahverengi Şişe' #55771.
+[15:12:56	]Tlu'urn ran 'drop' on item 'Elektronik devreler' (#55772)
+[15:12:56	]Tlu'urn has lost a 'Elektronik devreler' #55772.
+[15:12:57	]Tlu'urn ran 'drop' on item 'Çivi Kutusu' (#55775)
+[15:12:57	]Tlu'urn has lost a 'Çivi Kutusu' #55775.
+[15:12:58	]trigger_hurt destroyed a 'Boş Kahverengi Şişe' #55771.
+[15:12:59	]trigger_hurt destroyed a 'Elektronik devreler' #55772.
+[15:13:00	]trigger_hurt destroyed a 'Çivi Kutusu' #55775.
+[15:13:03	]Tlu'urn ran 'take' on item 'Bandaj Rulosu' (#55874)
+[15:13:03	]Tlu'urn has gained a 'Bandaj Rulosu' #55874.
+[15:13:36	][VORT] Tlu'urn has damaged npc_zombie, dealing 40 with vortslam
+[15:13:36	][VORT] Tlu'urn has damaged npc_zombie, dealing 40 with vortslam
+[15:13:36	][VORT] Tlu'urn has damaged npc_zombie, dealing 40 with vortslam
+[15:13:39	]Tlu'urn has taken 10 damage from npc_zombie.
+[15:13:39	]Tlu'urn has taken 10 damage from npc_zombie.
+[15:13:40	][VORT] Tlu'urn has damaged npc_zombie, dealing 40 with vortslam
+[15:13:40	][VORT] Tlu'urn has damaged npc_zombie, dealing 40 with vortslam
+[15:13:40	][VORT] Tlu'urn has damaged npc_zombie, dealing 40 with vortslam
+[15:13:48	]Tlu'urn ran 'use' on item 'Bandaj Rulosu' (#55874)
+[15:13:48	]Tlu'urn has performed the 'Use Bandaj Rulosu' action, gaining 15 experience in medicine.
+[15:13:48	]Tlu'urn was bandaged by Tlu'urn for 16 HP.
+[15:16:38	]Tlu'urn has taken 7 damage from trigger_hurt.
+[15:16:39	]Tlu'urn has taken 7 damage from trigger_hurt.
+[15:17:13	][VORT] Tlu'urn has damaged npc_zombie, dealing 40 with vortslam
+[15:17:13	][VORT] Tlu'urn has damaged npc_zombie, dealing 40 with vortslam
+[15:17:17	][VORT] Tlu'urn has damaged npc_zombie, dealing 40 with vortslam
+[15:17:17	][VORT] Tlu'urn has damaged npc_zombie, dealing 40 with vortslam
+[15:18:23	]Tlu'urn used command '/ToggleVortalVision'.
+[15:18:24	]Tlu'urn used command '/ToggleVortalVision'.
+[15:19:36	]Tlu'urn used command '/ToggleVortalVision'.
+[15:19:37	]Tlu'urn used command '/ToggleVortalVision'.
+[15:21:23	][VORT] Tlu'urn has damaged npc_headcrab, dealing 96 with vortbeam
+[15:22:22	]Tlu'urn used command '/EnterMeditation'.
+[15:22:59	]Tlu'urn used command '/ViewObjectives'.
+[15:23:29	]Tlu'urn used command '/CheckStaff'.
+[15:23:49	]Tlu'urn used command '/Handsignals'.
+[15:23:59	]Tlu'urn used command '/Dispatch a'.
+[15:24:07	]Tlu'urn used command '/Dispatch a'.
+[15:24:18	]Tlu'urn used command '/Dispatch a'.
+[15:24:20	]Tlu'urn used command '/Dispatch a'.
+[15:24:30	]Tlu'urn used command '/Broadcast'.
+[15:24:50	]Tlu'urn used command '/RemoveHeadBagSelf'.
+[15:25:17	]Tlu'urn used command '/Help'.
+[15:25:21	]Tlu'urn ran SAM command 'asay' with arguments: 'a'
+[15:29:20	][MEV] Tlu'urn: a
+[15:29:29	][MEV] Tlu'urn: aaaa
+[15:30:56	][SV] Tlu'urn: a
+[15:31:29	][SV] Tlu'urn: Sağ elini havaya kaldırır ve ileriye atarak ileri gitmelererine işaret eder.
+[15:32:52	]Tlu'urn used command '/SceneText'.
+[15:32:56	]Tlu'urn used command '/SceneText deneme'.
+[15:33:07	]Tlu'urn used command '/SceneTextRemove'.
+[15:33:13	]Tlu'urn used command '/EnterMeditation'.
+[15:33:30	]Tlu'urn used command '/SceneText Deneme'.
+[15:33:37	]Tlu'urn used command '/SceneTextRemove'.
+[15:33:43	]Tlu'urn used command '/SceneText deneme'.
+[15:33:54	]Tlu'urn used command '/SceneTextRemoveAll'.
+[15:33:58	]Tlu'urn used command '/SceneText'.
+[15:34:02	]Tlu'urn used command '/SceneText a'.
+[15:34:07	]Tlu'urn used command '/SceneTextRemoveAll'.
+[15:34:15	]Tlu'urn used command '/SceneText deneme'.
+[15:34:39	]Tlu'urn used command '/SceneTextRemoveAll'.
+[15:34:46	]Tlu'urn used command '/SceneText DEneme'.
+[15:36:22	]Tlu'urn used command '/SceneText Deneme'.
+[15:36:37	]Tlu'urn used command '/SceneTextRemoveAll'.
+[15:36:38	]Tlu'urn used command '/SceneText Deneme'.
+[15:36:53	]Tlu'urn used command '/SceneTextRemoveAll'.
+[15:36:56	]Tlu'urn used command '/SceneText Deneme'.
+[15:37:13	]Tlu'urn used command '/SceneTextRemoveAll'.
+[15:37:14	]Tlu'urn used command '/SceneText Deneme'.
+[15:38:39	]Tlu'urn used command '/ShowGenDesc'.
+[15:39:54	]Tlu'urn used command '/WaypointAdd Deneme 100'.
+[15:40:35	][SV] Tlu'urn: a
+[15:41:01	]Tlu'urn used command '/SetVoicemail'.
+[15:41:12	]Tlu'urn used command '/SetVoicemail'.
+[15:41:21	]Tlu'urn used command '/SetVoicemail Deneme'.
+[15:41:25	]Victorian has connected.
+[15:41:42	]Tlu'urn used command '/SetVoicemail Galanga'.
+[15:43:14	]Victorian loaded the character 'Sergey Volkov'
+[15:43:16	]Sergey Volkov was knocked unconscious and is bleeding out.
+[15:43:42	]Sergey Volkov ran SAM command 'hp' with arguments: 'Sergey' '100'
+[15:43:44	]Sergey Volkov is no longer unconscious from critical wounds.
+[15:43:44	]Sergey Volkov is fully healed.
+[15:43:50	]Sergey Volkov used command '/CharStopBleedout Sergey'.
+[15:43:51	]Sergey Volkov entered observer.
+[15:44:23	]Tlu'urn used command '/PM sergey victorian bu /scenetext sadece bende mi olmuyor.'.
+[15:44:33	]Tlu'urn used command '/PM sergey deneyebilir misin?'.
+[15:44:47	]Sergey Volkov used command '/PM Tlu'urn görünmüyor mu?'.
+[15:45:01	]Sergey Volkov used command '/PM Tlu görünmüyor mu sende'.
+[15:45:10	][LOOC] Sergey Volkov: sende görünmüyor mu
+[15:46:13	]Sergey Volkov exited observer at their location.
+[15:46:14	]Sergey Volkov entered observer.
+[15:46:23	]Sergey Volkov exited observer at their location.
+[15:46:23	]Sergey Volkov entered observer.
+[15:46:24	]Sergey Volkov exited observer at their location.
+[15:46:25	]Sergey Volkov entered observer.
+[15:46:28	][VORT] Tlu'urn has damaged npc_headcrab, dealing 40 with vortslam
+[15:46:28	]Tlu'urn has gained level 42 in the Vortessence skill.
+[15:46:34	][VORT] Tlu'urn has damaged npc_headcrab, dealing 96 with vortbeam
+[15:46:46	]Sergey Volkov exited observer at their location.
+[15:46:50	]Tlu'urn used command '/CheckStaff'.
+[15:46:53	]Victorian loaded the character 'Vincent Redgrave'
+[15:46:57	]Vincent Redgrave entered observer.
+[15:47:02	]Vincent Redgrave exited observer at their location.
+[15:47:09	]Tlu'urn used command '/ToggleVortalVision'.
+[15:47:10	]Tlu'urn used command '/ToggleVortalVision'.
+[15:47:18	][IC] Tlu'urn: Hmf.
+[15:47:21	][IC] Vincent Redgrave: Hm?
+[15:47:21	][IC] Tlu'urn: Hm...
+[15:47:29	][IC] Vincent Redgrave: Ne istiyorsun?
+[15:47:42	][IC] Tlu'urn: Ne yaptığını bilmek ve adını öğrenmek.
+[15:47:47	][IC] Vincent Redgrave: Niçin?
+[15:47:55	][IC] Tlu'urn: Bilgi önemlidir.
+[15:48:06	][IC] Vincent Redgrave: Gezginim, o kadar.
+[15:48:34	][MEV] Tlu'urn: Elini uzatır ama pek insana benzer bir şekilde değil.
+[15:48:57	][IC] Tlu'urn: Hiç belirli bir grub gördün mü?
+[15:49:02	][IC] Vincent Redgrave: Grup?
+[15:49:05	][IC] Tlu'urn: Bazı şeylerden kurtulmak isteyen.
+[15:49:32	][IC] Vincent Redgrave: Ah... Onlar... Pek sanmıyorum.
+[15:49:46	][IC] Vincent Redgrave: Combine şehri işgal ettikten sonra, pek izleri kalmadı.
+[15:50:20	][IC] Tlu'urn: Öylece gezip ne yapıyorsun? Oldukça tehlikeli ve enfeksiyonlu bir yer burası tek başına hayatta kalabiliyor musun?
+[15:50:29	]Tlu'urn ran 'split' on item 'Çiğ Headcrab Eti' (#53531)
+[15:50:29	]Tlu'urn has gained a 'Çiğ Headcrab Eti' #55881.
+[15:50:57	][IC] Vincent Redgrave: Sayılır, gizli olduğum için SİB vardiyalarına bir şekilde sızıp kredi alabiliyorum.
+[15:51:13	][IC] Vincent Redgrave: Combine bu topraklara gelmeden öncede buradaydım, şehrin içini dışını biliyorum diyebilirim.
+[15:51:18	][IC] Tlu'urn: Ah, yes!
+[15:51:39	][IC] Tlu'urn: Tek başına olan bir kişi için combine desteği ile yaşamak oldukça mantıklı ama sana biraz yardım edebilirim.
+[15:51:46	][IC] Tlu'urn: Bana Tlu'urn de.
+[15:52:02	][IC] Vincent Redgrave: Tlu'urn, pekala.
+[15:52:05	][MEV] Tlu'urn: Arkasındaki ipten 2 tane çiğ headcrab çıkarır ve yere bırakır.
+[15:52:09	]Tlu'urn ran 'drop' on item 'Çiğ Headcrab Eti' (#55881)
+[15:52:09	]Tlu'urn has lost a 'Çiğ Headcrab Eti' #55881.
+[15:52:11	]Tlu'urn ran 'drop' on item 'Çiğ Headcrab Eti' (#53531)
+[15:52:11	]Tlu'urn has lost a 'Çiğ Headcrab Eti' #53531.
+[15:52:15	][IC] Tlu'urn: Susteance.
+[15:52:18	][IC] Tlu'urn: Sustenance!
+[15:52:19	][IC] Vincent Redgrave: Gerek yok, gerek yok...
+[15:52:25	]Tlu'urn ran 'take' on item 'Çiğ Headcrab Eti' (#53531)
+[15:52:25	]Tlu'urn has gained a 'Çiğ Headcrab Eti' #53531.
+[15:52:27	]Tlu'urn ran 'take' on item 'Çiğ Headcrab Eti' (#55881)
+[15:52:27	]Tlu'urn has gained a 'Çiğ Headcrab Eti' #55881.
+[15:52:38	][IC] Tlu'urn: Ah...
+[15:52:43	][IC] Vincent Redgrave: Eee, ne kadar zamandır buradasın?
+[15:52:45	]Vincent Redgrave entered observer.
+[15:52:46	]Vincent Redgrave exited observer at their location.
+[15:52:46	][IC] Tlu'urn: Sen bilirsin.
+[15:52:56	][IC] Tlu'urn: Yeni geldim city 24'ten.
+[15:53:34	][IC] Vincent Redgrave: Şehir 24, hm. Hoş bir şehirdir.
+[15:53:46	][IC] Tlu'urn: Pek değil.
+[15:54:18	][IC] Tlu'urn: Burası daha güzel ve daha az combine izi bulunuyor. Oysa City 24 daha ağır şekilde combine bulunduruyor.
+[15:55:03	]Tlu'urn ran 'combine' on item 'Çiğ Headcrab Eti' (#53531)
+[15:55:03	][IC] Vincent Redgrave: Ne bileyim, 24 daha yaşanabilir duruyor, özellikle aranan biriysen kolayca kendine dost edinebiliyorsun.
+[15:55:26	][IC] Vincent Redgrave: Buradaki herkes, Combine yanlısı... Yani çoğu kişi.
+[15:56:16	][IC] Tlu'urn: En azından şehir merkezi değil...
+[15:56:26	][IC] Vincent Redgrave: Mhm...
+[15:56:46	][IC] Tlu'urn: Hiç şehir dışına çıktın mı?
+[15:56:55	][IC] Vincent Redgrave: Çok kez.
+[15:57:14	][IC] Tlu'urn: O zaman bir sürü çıkan karınca aslanlarını fark etmişsindir.
+[15:57:23	][IC] Tlu'urn: Hemde karakollarının yanında.
+[15:57:42	][IC] Vincent Redgrave: Biraz fazlalar, silahın olmadığı sürece çok dayanamıyorsun.
+[15:57:49	][IC] Vincent Redgrave: Şehirde yenimisin?
+[15:57:53	][IC] Tlu'urn: Yes.
+[15:58:20	][IC] Vincent Redgrave: Seni biraz gezdirebilirim, yani en azından 404'ü... Gecekonduları.
+[15:59:11	][IC] Tlu'urn: Karakol yanında bir ota geldi ve öldürdüm. Benim varlığımı fark edince bende onların oradaki varlığını fark ettim. 3 tane headcrab fırlatıcı yolladılar ve sniper konuşlandırdılar zor kurtuldum. Buradakiler vortigauntlara alışık deği.
+[15:59:14	][IC] Tlu'urn: L gibi.
+[15:59:18	][IC] Tlu'urn: Olur.
+[15:59:41	][IC] Tlu'urn: Yakınlarda ki tek vortigaunt benim burada hiç akrabam yok...
+[15:59:59	][IC] Vincent Redgrave: Artık onların gözü önündesin, tek Vortigaunt olduğunu öğrendiklerinde peşine takılacakları.
+[16:00:02	]Tlu'urn used command '/ShowGenDesc'.
+[16:00:16	]Tlu'urn used command '/ToggleVortalVision'.
+[16:00:18	]Tlu'urn used command '/ToggleVortalVision'.
+[16:00:21	][IC] Vincent Redgrave: Şu Combine zımbırtıları için çoğu Vortu kaynak  olarak kullandıklarını gördüm.
+[16:00:27	]Tlu'urn is fully healed.
+[16:00:43	][IC] Tlu'urn: Evet ama burada öyle bir sistem göremedim pek gelişmiş değil.
+[16:01:13	][IC] Vincent Redgrave: Sonuçta, Combine burada fazla bir süredir yok.
+[16:01:21	][IC] Tlu'urn: Gezdirebilirsin.
+[16:01:26	][IC] Vincent Redgrave: Pekala...
+[16:01:35	]Tlu'urn ran 'drinkquench' on item 'Su Şişesi' (#51841)
+[16:01:37	]Tlu'urn ran 'drinkquench' on item 'Su Şişesi' (#51839)
+[16:01:46	][IC] Vincent Redgrave: Buradaki çoğu bina terk edilmiş.
+[16:02:10	][IC] Vincent Redgrave: Geçen gün, Direnişçilerin Breen'in heykeline saldırdıklarına şahitlik ettim.
+[16:02:24	][IC] Tlu'urn: Yok edebilirim.
+[16:02:27	][IC] Tlu'urn: Ama.
+[16:02:29	][IC] Vincent Redgrave: Mhm..
+[16:02:30	][IC] Tlu'urn: Işimize yarar.
+[16:02:37	][IC] Tlu'urn: Oldukça uzun.
+[16:03:02	][IC] Vincent Redgrave: Eskiden burayı depo olarak kullanırlardı, şimdi ise kaderine terkedilmiş.
+[16:03:34	][ME] Tlu'urn: sağ elini cama uzatır ve biraz yeşil ışık saçar ve camı kırar.
+[16:04:22	][IC] Vincent Redgrave: Ehm...
+[16:04:26	][IC] Vincent Redgrave: Umaırm biri fark etmez.
+[16:05:12	][IC] Vincent Redgrave: Dikkat et... Hızlı bir şekilde geçmemiz gerek.
+[16:05:30	]Vincent Redgrave has taken 5 damage from npc_headcrab.
+[16:05:35	][VORT] Tlu'urn has damaged npc_headcrab, dealing 96 with vortbeam
+[16:05:39	]Vincent Redgrave has taken 5 damage from npc_headcrab.
+[16:05:41	]Vincent Redgrave has taken 5 damage from npc_headcrab.
+[16:05:46	]Vincent Redgrave has damaged npc_headcrab, dealing 5 with ix_hands
+[16:05:47	]Vincent Redgrave has damaged npc_headcrab, dealing 5 with ix_hands
+[16:05:52	][IC] Vincent Redgrave: Hm...
+[16:05:56	][IC] Tlu'urn: Bunlar senin için tehlikeli.
+[16:06:03	][ME] Vincent Redgrave: Elleri, kan içindedir. 
+[16:06:07	][IC] Tlu'urn: Kafana atlarsa şu arkadakine dönüşürsün.
+[16:06:11	][IC] Tlu'urn: Yerinde dur.
+[16:06:34	][IC] Vincent Redgrave: Sağol, dahi. Bilgin için teşekkürler.
+[16:06:40	][IC] Vincent Redgrave: Her neyse...
+[16:06:46	][ME] Tlu'urn: Kanayan ellerini ve headcrablerin zarar verdiği yerleri sağ ellerini birleştirerer güç toplar ve yeşil bir ışıkla oraya bir işlem uygular.
+[16:06:53	][IT] Tlu'urn: Bu çok iyi hissettiriyor gibi.
+[16:06:54	][VORT] Tlu'urn has healed Vincent Redgrave
+[16:06:57	]Vincent Redgrave is fully healed.
+[16:07:41	][IC] Vincent Redgrave: Hm...
+[16:07:51	][VORT] Tlu'urn has damaged npc_zombie, dealing 96 with vortbeam
+[16:07:57	][IC] Vincent Redgrave: İyi iş, iyi ş!
+[16:08:12	][IC] Vincent Redgrave: Arada evsizler buraya geliyor.
+[16:08:21	][IC] Vincent Redgrave: Sıcak bir yer, nedenini bilmiyorum.
+[16:08:28	][IC] Tlu'urn: Sen bilirsin. Burada bir sivil yakalanırsa ne olur?
+[16:09:57	][IC] Vincent Redgrave: Bilemem...
+[16:10:08	][IC] Vincent Redgrave: Aynı yer.
+[16:10:23	][IC] Vincent Redgrave: Buraya başka bir giriş ise...
+[16:10:55	][LOOC] Tlu'urn: a
+[16:10:58	][LOOC] Vincent Redgrave: afk
+[16:11:02	][LOOC] Tlu'urn: direk spawm oldU
+[16:11:05	][LOOC] Vincent Redgrave: yemek yicem
+[16:11:38	][LOOC] Vincent Redgrave: geldim
+[16:12:07	][IC] Vincent Redgrave: Başka sorun?
+[16:12:16	][IC] Tlu'urn: Kanalizasyonları biliyor musun?
+[16:12:27	][IC] Vincent Redgrave: Az - Biraz, çok uğradığım bir yer değil.
+[16:12:45	][IC] Tlu'urn: Bir sıkıntı olmaz ise gezdirir misin?
+[16:13:10	][IC] Vincent Redgrave: Eh, bilemem.
+[16:13:14	][IC] Vincent Redgrave: Geceleri tehlikeli olur.
+[16:13:17	][IC] Vincent Redgrave: Ama...
+[16:13:26	][IC] Tlu'urn: Seni korurum.
+[16:13:28	][IC] Vincent Redgrave: Giriş burası.
+[16:13:30	]Vincent Redgrave entered observer.
+[16:13:33	]Vincent Redgrave exited observer at their location.
+[16:14:21	][IC] Vincent Redgrave: Buralarda Vortigaunt cesedi görmüştüm... Sonra ne oldu bilmiyorum.
+[16:14:29	][IC] Tlu'urn: Ne zaman?
+[16:14:35	][IC] Vincent Redgrave: 1 - 2 Hafta oldu.
+[16:15:03	]Tlu'urn ran 'take' on item 'Dezenfektan' (#55885)
+[16:15:03	]Tlu'urn has gained a 'Dezenfektan' #55885.
+[16:15:12	]Tlu'urn ran 'take' on item 'Kaliteli Yeşil Hap' (#55887)
+[16:15:12	]Tlu'urn has gained a 'Kaliteli Yeşil Hap' #55887.
+[16:15:14	]Vincent Redgrave entered observer.
+[16:15:16	]Vincent Redgrave exited observer at their location.
+[16:15:51	][IC] Tlu'urn: Ah...
+[16:15:54	][IC] Tlu'urn: Burada kal.
+[16:15:56	][IC] Tlu'urn: Ve bekle.
+[16:15:56	][IC] Vincent Redgrave: Burası, tehlükeli.
+[16:16:01	][IC] Tlu'urn: Bekle.
+[16:16:03	][IC] Tlu'urn: Burada.
+[16:16:05	]Vincent Redgrave used command '/PanelRemove'.
+[16:16:10	][VORT] Tlu'urn has damaged npc_zombie, dealing 15 with vortpyro
+[16:16:10	][VORT] Tlu'urn has damaged npc_zombie, dealing 15 with vortpyro
+[16:16:10	][VORT] Tlu'urn has damaged npc_zombie, dealing 15 with vortpyro
+[16:16:23	][IC] Vincent Redgrave: Hm.
+[16:16:27	]deathguard has connected.
+[16:16:29	]Vincent Redgrave has taken 10 damage from npc_zombie.
+[16:16:31	]Vincent Redgrave has damaged npc_zombie, dealing 5 with ix_hands
+[16:16:31	]Vincent Redgrave was knocked unconscious and is bleeding out.
+[16:16:31	][VORT] Tlu'urn has damaged Vincent Redgrave, dealing 96 with vortbeam
+[16:16:31	][VORT] Tlu'urn has damaged npc_zombie, dealing 96 with vortbeam
+[16:16:42	][VORT] Tlu'urn has healed Vincent Redgrave
+[16:16:47	]Vincent Redgrave is no longer unconscious from critical wounds.
+[16:16:55	][IC] Tlu'urn: Yeşil ışıktan uzak durmalısın.
+[16:16:59	][IC] Tlu'urn: Sakin ol ve dinlen .
+[16:17:08	]deathguard loaded the character 'Frederic Schopenhauer'
+[16:17:13	]Frederic Schopenhauer is fully healed.
+[16:17:26	][VORT] Tlu'urn has healed Vincent Redgrave
+[16:17:42	]Tlu'urn used command '/SceneText a'.
+[16:17:45	]Tlu'urn used command '/SceneTextRemove'.
+[16:17:48	]Tlu'urn used command '/SceneText a'.
+[16:17:51	][IC] Vincent Redgrave: Pekala, devam edelim... Eh...
+[16:17:54	][VORT] Tlu'urn has damaged npc_zombie, dealing 96 with vortbeam
+[16:18:00	]Frederic Schopenhauer ran 'Consume' on item 'Somon Biftek' (#50824)
+[16:18:00	]Frederic Schopenhauer extended their level 5 long boost in Zeka.
+[16:18:00	]Frederic Schopenhauer extended their level 5 long boost in Algı.
+[16:18:01	]Frederic Schopenhauer ran 'Consume' on item 'Köpüklü Breen Suyu' (#50825)
+[16:18:01	]Frederic Schopenhauer has gained a 'Boş Breen'in Suyu' #55888.
+[16:18:02	]Frederic Schopenhauer ran 'Consume' on item 'Evrensel Birlik Çikolatası' (#50823)
+[16:18:02	]Frederic Schopenhauer has gained a 'Plastik Çöp' #55889.
+[16:18:05	][VORT] Tlu'urn has healed Vincent Redgrave
+[16:18:07	]Vincent Redgrave is fully healed.
+[16:18:08	][LOOC] Vincent Redgrave: bu sefer cidden yemek gitmem lazım, deathugard yukardadır
+[16:18:12	]Vincent Redgrave entered observer.
+[16:18:38	][PICKUP DISPENSER] deathguard ( Frederic Schopenhauer ) picked up an item from the pickup dispenser.
+[16:18:38	]Frederic Schopenhauer has gained a 'Daire Anahtarı' #55890.
+[16:18:54	]Tlu'urn used command '/SceneTextRemove'.
+[16:18:57	]Tlu'urn used command '/SceneText a'.
+[16:19:36	][VORT] Tlu'urn has damaged npc_headcrab, dealing 96 with vortbeam
+[16:19:42	]Tlu'urn rolled 86 out of 100 (+42 from Vortessence).
+[16:19:42	]Tlu'urn used command '/SkillRoll vort'.
+[16:19:44	][VORT] Tlu'urn has damaged npc_headcrab, dealing 96 with vortbeam
+[16:20:14	]Frederic Schopenhauer ran SAM command 'asay' with arguments: 'eski haritadaki evimdeki dolapları yeni mapteki evime eşyalarıyla beraber koymak istiyorum'
+[16:21:02	]Tlu'urn ran 'Consume' on item 'Çiğ Headcrab Eti' (#53531)
+[16:21:02	]Tlu'urn ran 'Consume' on item 'Çiğ Headcrab Eti' (#53531)
+[16:21:25	]Tlu'urn used command '/EnterMeditation'.
+[16:22:38	]Frederic Schopenhauer used command '/PM s eski mapteki evimdeki dolapları ve içindeki eşyalarımı yeni mapteki evime aktarabilirmisin'.
+[16:22:50	]Frederic Schopenhauer used command '/PM v eski mapteki evimdeki dolapları ve içindeki eşyalarımı yeni mapteki evime aktarabilirmisin'.
+[16:23:14	]Tlu'urn used command '/Reply a'.
+[16:23:39	]Scientist has unloaded their "Tlu'urn" character.
+[16:23:44	]Scientist loaded the character 'Charlie Evans'
+[16:24:15	]Scientist has unloaded their "Charlie Evans" character.
+[16:24:20	]Scientist loaded the character 'Oscar Davis'
+[16:24:29	][IC] Oscar Davis: Lol.
+[16:24:36	]Oscar Davis used command '/CharFallOver'.
+[16:24:39	]Oscar Davis used command '/CharFallOver'.
+[16:24:45	]Oscar Davis used command '/UnStuck'.
+[16:25:17	]Oscar Davis used command ' /UnStuck their reason to use it was: Kapıda çıkmışım kapı kapalı kalmış ve sıkıştım sunucu 3 kişi bu yüzden'.
+[16:25:46	]deathguard loaded the character 'muhamet özgürtaş'
+[16:26:29	]Oscar Davis used command '/SceneText a'.
+[16:26:34	]Oscar Davis used command '/SceneTextRemove'.
+[16:26:40	]Oscar Davis used command '/SceneTextRemove'.
+[16:27:30	][IC] muhamet özgürtaş: Hm biri buradan geçmiş.
+[16:28:05	][IC] muhamet özgürtaş: Hm bu kapıya nolduda açılmıyor.
+[16:28:21	][IC] muhamet özgürtaş: Biri aküyü sökmüş.
+[16:28:26	]Oscar Davis has damaged npc_fastzombie, dealing 5 with ix_hands
+[16:28:38	]Oscar Davis has damaged npc_fastzombie, dealing 5 with ix_hands
+[16:28:38	]Oscar Davis has damaged npc_fastzombie, dealing 5 with ix_hands
+[16:28:39	]Oscar Davis has damaged npc_fastzombie, dealing 5 with ix_hands
+[16:28:40	]Oscar Davis has damaged npc_fastzombie, dealing 5 with ix_hands
+[16:28:41	]Oscar Davis has damaged npc_fastzombie, dealing 5 with ix_hands
+[16:28:42	]Oscar Davis has damaged npc_fastzombie, dealing 5 with ix_hands
+[16:28:42	]Oscar Davis has damaged npc_fastzombie, dealing 5 with ix_hands
+[16:28:43	]Oscar Davis has damaged npc_fastzombie, dealing 5 with ix_hands
+[16:28:44	]Oscar Davis has damaged npc_fastzombie, dealing 5 with ix_hands
+[16:28:50	]Oscar Davis has damaged npc_fastzombie, dealing 5 with ix_hands
+[16:28:51	]Oscar Davis has damaged npc_fastzombie, dealing 5 with ix_hands
+[16:28:51	]Oscar Davis has damaged npc_fastzombie, dealing 5 with ix_hands
+[16:28:52	]Oscar Davis has damaged npc_fastzombie, dealing 5 with ix_hands
+[16:28:53	]Oscar Davis has damaged npc_fastzombie, dealing 5 with ix_hands
+[16:28:54	]Oscar Davis has damaged npc_fastzombie, dealing 5 with ix_hands
+[16:28:54	]Oscar Davis has damaged npc_fastzombie, dealing 5 with ix_hands
+[16:28:55	]Oscar Davis has damaged npc_fastzombie, dealing 5 with ix_hands
+[16:28:56	]Oscar Davis has damaged npc_fastzombie, dealing 5 with ix_hands
+[16:28:57	]Oscar Davis has damaged npc_fastzombie, dealing 5 with ix_hands
+[16:29:06	]muhamet özgürtaş ran 'Consume' on item 'Viski' (#54483)
+[16:29:06	]muhamet özgürtaş has wasted a level -1 long boost in Güç (current: -1; target: 0).
+[16:29:06	]muhamet özgürtaş extended their level 4 long boost in Zeka.
+[16:29:06	]muhamet özgürtaş has wasted a level -1 long boost in Algı (current: -1; target: 1).
+[16:29:13	]muhamet özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#55814)
+[16:29:13	]muhamet özgürtaş has lost a 'Çiğ Headcrab Eti' #55814.
+[16:29:27	]muhamet özgürtaş ran 'take' on item 'Geliştirilmiş Mavi Hap' (#55895)
+[16:29:27	]muhamet özgürtaş has gained a 'Geliştirilmiş Mavi Hap' #55895.
+[16:29:30	]Scientist has unloaded their "Oscar Davis" character.
+[16:29:35	]Scientist loaded the character 'Tlu'urn'
+[16:29:35	]muhamet özgürtaş ran 'take' on item 'Cerrahi Kit' (#55896)
+[16:29:35	]muhamet özgürtaş has gained a 'Cerrahi Kit' #55896.
+[16:29:49	]Tlu'urn used command '/ToggleVortalVision'.
+[16:30:01	]Tlu'urn used command '/ToggleVortalVision'.
+[16:30:16	]Tlu'urn used command '/ToggleVortalVision'.
+[16:30:17	][IC] Tlu'urn: Hm...
+[16:30:18	]Tlu'urn used command '/ToggleVortalVision'.
+[16:30:22	]Tlu'urn used command '/ToggleVortalVision'.
+[16:30:31	]muhamet özgürtaş ran 'take' on item 'Yapıştırıcı' (#55904)
+[16:30:31	]muhamet özgürtaş has gained a 'Yapıştırıcı' #55904.
+[16:30:35	]muhamet özgürtaş ran 'combine' on item 'Yapıştırıcı' (#55644)
+[16:30:41	]Tlu'urn used command '/ToggleVortalVision'.
+[16:30:53	][IC] muhamet özgürtaş: Tlu şu aşağıdaki garaj kapısının aküsünü sökmüşler.
+[16:30:57	]Vincent Redgrave used command '/PM muhamet plazada dolap var oraya koy'.
+[16:30:57	]muhamet özgürtaş ran 'combine' on item '9mm Tabanca Mermisi' (#50040)
+[16:31:04	]muhamet özgürtaş used command '/PM vincent ok'.
+[16:31:11	][IC] Tlu'urn: Evet kısa süreliğine şarj edebilirim.
+[16:31:17	][LOOC] Tlu'urn: ama gm yok.D
+[16:31:27	][LOOC] Tlu'urn: victorian yemek yiyor.
+[16:31:30	][LOOC] muhamet özgürtaş: ok
+[16:31:35	][LOOC] Vincent Redgrave: striper geldi
+[16:31:44	][LOOC] muhamet özgürtaş: ne 
+[16:31:46	][LOOC] Tlu'urn: striper ne?
+[16:32:01	][LOOC] Vincent Redgrave: rol dönüyo mu
+[16:32:11	][LOOC] muhamet özgürtaş: eh az çok dönüyor 
+[16:32:17	][LOOC] Tlu'urn: pek sayılmaz ama çizgi çizici mi?
+[16:33:00	]Tlu'urn used command '/PM vincent çizgi çizici mi?'.
+[16:33:05	][IC] muhamet özgürtaş: Bana fırın lazım headcrab etim ve antlion etim var.
+[16:33:36	][LOOC] Tlu'urn: kaçırdın mis gibi gm'i striper diyordu ne güzel.
+[16:33:42	]Tlu'urn used command '/PM vincent orada mısın?'.
+[16:33:49	][LOOC] muhamet özgürtaş: striper ne
+[16:33:59	][LOOC] Tlu'urn: çizgi çizici demek istedi galiba.
+[16:34:09	][LOOC] Vincent Redgrave: şey var
+[16:34:12	][LOOC] Vincent Redgrave: ya
+[16:34:15	][LOOC] Vincent Redgrave: kawasaki
+[16:34:18	][LOOC] Vincent Redgrave: kago
+[16:34:20	][LOOC] Vincent Redgrave: krigo
+[16:34:24	][LOOC] Vincent Redgrave: estriper
+[16:34:44	][IC] Tlu'urn: Hm...
+[16:34:54	][LOOC] Tlu'urn: tutmadı.
+[16:35:14	]Tlu'urn used command '/PM vincent aktif misin?'.
+[16:35:23	][IC] Tlu'urn: Belki açabilirim.
+[16:35:24	]Vincent Redgrave used command '/PM Tlu pasif'.
+[16:35:26	]muhamet özgürtaş ran 'Consume' on item 'Şişte Headcrab' (#54449)
+[16:35:26	]muhamet özgürtaş has updated their Çeviklik long boost target to 1 (current : 4).
+[16:35:26	][IC] Tlu'urn: Gel.
+[16:35:47	]Tlu'urn ran 'take' on item 'El Yapımı Bandaj Rulosu' (#55905)
+[16:35:47	]Tlu'urn has gained a 'El Yapımı Bandaj Rulosu' #55905.
+[16:35:55	]muhamet özgürtaş ran 'take' on item 'İlk Yardım Kiti' (#55907)
+[16:35:55	]muhamet özgürtaş has gained a 'İlk Yardım Kiti' #55907.
+[16:36:17	][IC] Tlu'urn: Geride kal.
+[16:36:17	]Tlu'urn used command '/ToggleVortalVision'.
+[16:36:19	]Tlu'urn used command '/ToggleVortalVision'.
+[16:36:19	]Vincent Redgrave exited observer at their location.
+[16:36:20	]Vincent Redgrave entered observer.
+[16:36:25	]Vincent Redgrave has taken 40 damage from Tlu'urn.
+[16:36:25	][VORT] Tlu'urn has damaged Vincent Redgrave dealing 40 with vortslam
+[16:36:25	]muhamet özgürtaş has taken 40 damage from Tlu'urn.
+[16:36:25	][VORT] Tlu'urn has damaged muhamet özgürtaş dealing 40 with vortslam
+[16:36:25	][VORT] Tlu'urn has damaged npc_zombie, dealing 40 with vortslam
+[16:36:25	][VORT] Tlu'urn has damaged npc_zombie, dealing 40 with vortslam
+[16:36:25	][VORT] Tlu'urn has damaged npc_zombie, dealing 40 with vortslam
+[16:36:26	]Tlu'urn has taken 10 damage from npc_zombie.
+[16:36:29	]Vincent Redgrave exited observer at their location.
+[16:36:29	]Tlu'urn has taken 10 damage from npc_zombie.
+[16:36:30	]Tlu'urn has taken 10 damage from npc_zombie.
+[16:36:31	][VORT] Tlu'urn has damaged npc_zombie, dealing 40 with vortslam
+[16:36:31	][VORT] Tlu'urn has damaged npc_zombie, dealing 40 with vortslam
+[16:36:31	][VORT] Tlu'urn has damaged npc_zombie, dealing 40 with vortslam
+[16:36:31	]Vincent Redgrave entered observer.
+[16:36:37	][IC] Tlu'urn: Ah...
+[16:36:38	]Vincent Redgrave exited observer at their location.
+[16:36:41	]Vincent Redgrave entered observer.
+[16:36:42	][IC] Tlu'urn: Geride kal demiştim.
+[16:36:43	][VORT] Tlu'urn has healed muhamet özgürtaş
+[16:36:50	]muhamet özgürtaş ran 'Consume' on item 'Şişte Headcrab' (#54449)
+[16:36:50	]muhamet özgürtaş has updated their Çeviklik long boost target to 1 (current : 4).
+[16:36:56	]muhamet özgürtaş ran 'Consume' on item 'Çiğ Headcrab Eti' (#55813)
+[16:37:00	]Tlu'urn used command '/PM vincent böylelikle admin olup olmadığını anlayabiliriz:D 40 hasar hayırlı olsun'.
+[16:37:32	]Vincent Redgrave exited observer at their location.
+[16:37:37	]Victorian loaded the character 'Sergey Volkov'
+[16:37:37	][LOOC] Tlu'urn: gm çağırıyorum.
+[16:37:56	]Tlu'urn ran SAM command 'asay' with arguments: 'Kısa ve bir tane eylem için GM gerekli.'
+[16:38:11	][IC] Tlu'urn: Ben elektrik verdiğimde.
+[16:38:15	][IC] Tlu'urn: Butona tıkla.
+[16:38:18	][IC] muhamet özgürtaş: Tamam.
+[16:38:23	]Tlu'urn ran 'use' on item 'El Yapımı Bandaj Rulosu' (#55905)
+[16:38:23	]Tlu'urn has performed the 'Use El Yapımı Bandaj Rulosu' action, gaining 10 experience in medicine.
+[16:38:23	]Tlu'urn was bandaged by Tlu'urn for 11 HP.
+[16:38:24	]Tlu'urn ran 'use' on item 'El Yapımı Bandaj Rulosu' (#55905)
+[16:38:24	]Tlu'urn has performed the 'Use El Yapımı Bandaj Rulosu' action, gaining 10 experience in medicine.
+[16:38:24	]Tlu'urn was bandaged by Tlu'urn for 11 HP.
+[16:38:25	]Tlu'urn ran 'use' on item 'El Yapımı Bandaj Rulosu' (#55905)
+[16:38:25	]Tlu'urn has performed the 'Use El Yapımı Bandaj Rulosu' action, gaining 7 experience in medicine.
+[16:38:25	]Tlu'urn was bandaged by Tlu'urn for 11 HP.
+[16:38:40	]Victorian created the character 'Bürokrat'
+[16:38:40	]Victorian loaded the character 'Bürokrat'
+[16:38:40	]Bürokrat has gained a 'Açık Gri Kol Bandı' #55908.
+[16:38:40	]Bürokrat has gained a '#12859 Kimlik Kartı' #55909.
+[16:39:07	][LOOC] Tlu'urn: admin bekliyoruz
+[16:39:34	]Bürokrat used command '/CharSetModel Bürokrat npc_gman'.
+[16:39:53	]muhamet özgürtaş ran 'drop' on item 'Helsing Bolt Rifle' (#44969)
+[16:39:53	]muhamet özgürtaş has lost a 'Helsing Bolt Rifle' #44969.
+[16:39:55	]muhamet özgürtaş ran 'take' on item 'Helsing Bolt Rifle' (#44969)
+[16:39:55	]muhamet özgürtaş has gained a 'Helsing Bolt Rifle' #44969.
+[16:39:57	]muhamet özgürtaş ran 'Equip' on item 'Helsing Bolt Rifle' (#44969)
+[16:40:05	]Bürokrat used command '/CharSetModel Bürokrat q'.
+[16:40:09	][LOOC] Tlu'urn: asla admin gelmeyecek
+[16:40:10	]Bürokrat entered observer.
+[16:40:14	]Bürokrat ran SAM command 'menu' with arguments: ''
+[16:40:17	]Bürokrat claimed a report by Tlu'urn (Scientist).
+[16:40:24	][IC] Tlu'urn: Butonda kal.
+[16:40:29	][IC] muhamet özgürtaş: Tamam.
+[16:40:44	][IT] Bürokrat: Kapının açılması için gerekli olan gücün karşılanması gerek, ne yapmalı... ne etmeli?
+[16:41:03	][ME] Tlu'urn: sağ eliyle vortal manipülasyonu kullanır ve akünün şarj vermesi yerine o şarj verir. Bu basit bir enerji olduğu için Tlu'urn çok zorlanmayacağını düşünüyor.
+[16:41:06	]Tlu'urn rolled 40 out of 100 (+42 from Vortessence).
+[16:41:06	]Tlu'urn used command '/SkillRoll vort'.
+[16:41:23	][IT] Bürokrat: Gıcırdama sesleri, önden gelmekte
+[16:41:25	]Bürokrat has used a context menu option with the name: rb655_door_open
+[16:41:32	][IC] muhamet özgürtaş: Açıldı.
+[16:41:32	][IC] Tlu'urn: Ilerle.
+[16:41:34	][IT] Bürokrat: puf
+[16:41:47	][IC] Tlu'urn: Güzel başka bir enerji gelmez ise açık kalacak gibi.
+[16:41:49	]Bürokrat used command '/CharSetModel Bürokrat npc_vj_hl2_gman'.
+[16:41:53	]Bürokrat exited observer at their location.
+[16:41:58	][IC] Tlu'urn: Arkamızdan kapansa bile burada kapalı kalmayız ben hallederimn.
+[16:42:03	][IC] muhamet özgürtaş: Tamam.
+[16:42:05	]Bürokrat used command '/CharSetModel Bürokrat npc_vj_hl2_gman'.
+[16:42:07	]Bürokrat entered observer.
+[16:42:26	]muhamet özgürtaş has lost a '8rnd Helsing-şarjörü' #44587.
+[16:42:26	]muhamet özgürtaş has gained a '8rnd Helsing-şarjörü' #44491.
+[16:42:26	][IC] Tlu'urn: Uzaklara gitmeye çalışacağız.
+[16:42:32	][IC] muhamet özgürtaş: Evet.
+[16:42:41	][IC] Tlu'urn: Yeşil ışıktan uzak dur. Antlionlar gelebilir.
+[16:43:25	]Bürokrat exited observer at their location.
+[16:43:34	]Bürokrat has spawned a 'NPC [2671][npc_vj_hl2_gman]'.
+[16:43:39	]Tlu'urn is fully healed.
+[16:43:47	]Bürokrat has used a context menu option with the name: vj_pr_npc_slay
+[16:43:50	]Bürokrat has used a context menu option with the name: remove
+[16:43:51	]Bürokrat entered observer.
+[16:43:56	]Bürokrat has used a context menu option with the name: remove
+[16:43:57	]Bürokrat exited observer at their location.
+[16:43:59	]Bürokrat has spawned a 'Entity [2687][sent_vj_breen]'.
+[16:44:04	]Bürokrat has used a context menu option with the name: vj_pr_npc_devmode
+[16:44:11	]Bürokrat has used a context menu option with the name: vj_pr_npc_slay
+[16:44:13	]Bürokrat has used a context menu option with the name: remove
+[16:44:15	]Bürokrat has used a context menu option with the name: remove
+[16:44:20	][Y] Tlu'urn: Hey!
+[16:44:21	]Bürokrat has fired a toolgun with the name: creator
+[16:44:21	]Bürokrat has spawned a 'NPC [2671][npc_vj_hl2_odessa]'.
+[16:44:31	][Y] Tlu'urn: Hey!
+[16:44:32	]Tlu'urn used command '/ToggleVortalVision'.
+[16:44:34	]Tlu'urn used command '/ToggleVortalVision'.
+[16:44:35	][IC] Tlu'urn: Gel.
+[16:44:59	]Tlu'urn used command '/ToggleVortalVision'.
+[16:45:04	]Bürokrat used command '/CharSetModel Bürokrat npc_vj_hl2_gman'.
+[16:45:07	]Tlu'urn used command '/EnterMeditation'.
+[16:45:08	]Tlu'urn used command '/EnterMeditation'.
+[16:45:10	]Tlu'urn used command '/ToggleVortalVision'.
+[16:45:14	][IC] muhamet özgürtaş: Yaklaşma çok.
+[16:45:18	][IC] Tlu'urn: Bunu açarsak.
+[16:45:22	][IC] Tlu'urn: Burada olduğumuzu fark ederler.
+[16:45:26	][IC] Tlu'urn: Farklı bir yol arayalım.
+[16:45:29	][IC] Tlu'urn: Gel.
+[16:45:41	][IC] muhamet özgürtaş: Tlu.
+[16:45:41	]Bürokrat entered observer.
+[16:45:49	][IC] Tlu'urn: Hm...
+[16:46:03	][W] muhamet özgürtaş: Dikkat et.
+[16:46:42	][IC] muhamet özgürtaş: Siktir.
+[16:47:13	]Tlu'urn used command '/EnterMeditation'.
+[16:47:16	]Tlu'urn used command '/EnterMeditation'.
+[16:47:24	][IC] muhamet özgürtaş: Maden var.
+[16:47:24	][IC] Tlu'urn: Burada bir mağara var gibi.
+[16:47:30	]Bürokrat exited observer at their location.
+[16:47:31	]Bürokrat entered observer.
+[16:47:31	]Bürokrat exited observer at their location.
+[16:47:32	][IC] muhamet özgürtaş: Hm.
+[16:47:46	][IC] muhamet özgürtaş: Nasıl geri dönücez.
+[16:47:46	]muhamet özgürtaş is fully healed.
+[16:47:51	][IC] muhamet özgürtaş: Gel.
+[16:47:56	][IC] muhamet özgürtaş: Buraya bi bakalım.
+[16:48:18	]Bürokrat has spawned a 'Entity [2657][prop_vj_flag]'.
+[16:48:20	][IC] muhamet özgürtaş: Burada bir tuş var.
+[16:48:22	]Bürokrat has spawned a 'Entity [2689][sent_vj_fireplace]'.
+[16:48:24	]Bürokrat entered observer.
+[16:48:25	]Bürokrat exited observer at their location.
+[16:48:26	]Bürokrat has taken 1 damage from entityflame.
+[16:48:26	][IC] Tlu'urn: Çan.
+[16:48:26	]Bürokrat has taken 1 damage from entityflame.
+[16:48:26	]Bürokrat has taken 1 damage from entityflame.
+[16:48:27	]Bürokrat has taken 1 damage from entityflame.
+[16:48:27	]Bürokrat has taken 1 damage from entityflame.
+[16:48:27	]Bürokrat has taken 1 damage from entityflame.
+[16:48:27	]Bürokrat has taken 1 damage from entityflame.
+[16:48:27	]Bürokrat has taken 1 damage from entityflame.
+[16:48:28	]Bürokrat has taken 1 damage from entityflame.
+[16:48:28	]Bürokrat has taken 1 damage from entityflame.
+[16:48:28	]Bürokrat has taken 1 damage from entityflame.
+[16:48:28	]Bürokrat has taken 1 damage from entityflame.
+[16:48:28	]Bürokrat has taken 1 damage from entityflame.
+[16:48:29	]Bürokrat has taken 1 damage from entityflame.
+[16:48:29	]Bürokrat has taken 1 damage from entityflame.
+[16:48:29	]Bürokrat has taken 1 damage from entityflame.
+[16:48:29	]Bürokrat has taken 1 damage from entityflame.
+[16:48:29	]Bürokrat has taken 1 damage from entityflame.
+[16:48:30	]Bürokrat has taken 1 damage from entityflame.
+[16:48:30	]Bürokrat has taken 1 damage from entityflame.
+[16:48:31	][IC] muhamet özgürtaş: Duydularsa.
+[16:48:37	][IC] Tlu'urn: Burası çok uzak.
+[16:48:41	][IC] muhamet özgürtaş: Hızlı gidelim bence.
+[16:48:42	][IC] Tlu'urn: Combine burada değil.
+[16:48:43	][IC] muhamet özgürtaş: Ne olur ne olmaz.
+[16:48:48	]Bürokrat used command '/CharSetModel Bürokrat npc_gman'.
+[16:49:11	]Tlu'urn used command '/EnterMeditation'.
+[16:49:12	]Tlu'urn used command '/EnterMeditation'.
+[16:49:24	][IC] muhamet özgürtaş: Bomboş bir yol.
+[16:49:28	][IC] Tlu'urn: Evet.
+[16:49:30	][IC] Tlu'urn: HİÇ.
+[16:49:35	][IC] Tlu'urn: Combine yok ve izi.
+[16:49:39	][IC] muhamet özgürtaş: Başka bir bina varmı acaba bu yolda.
+[16:49:53	][IC] muhamet özgürtaş: Geçerken yakalanmamamız iyi oldu.
+[16:49:59	][IC] muhamet özgürtaş: Ama nasıl geri dönücez.
+[16:50:08	][IC] Tlu'urn: GEREK VAR MIA?
+[16:50:20	][IC] muhamet özgürtaş: Bir bina var.
+[16:50:32	][IC] muhamet özgürtaş: Sıraylan bakalım.
+[16:50:53	][IC] muhamet özgürtaş: Buraya bir bakalım sonra karşıya geçelim.
+[16:51:05	]Bürokrat used command '/CharSetModel Bürokrat models/wn/sectorial.mdl'.
+[16:51:21	]Bürokrat entered observer.
+[16:51:26	]Bürokrat exited observer at their location.
+[16:51:40	][IC] muhamet özgürtaş: Burası direkt terk edilmiş direniştende iz yok.
+[16:51:49	][IC] Tlu'urn: Ayrıca combine.
+[16:52:16	][IC] muhamet özgürtaş: O yeşil mantarlar ne.
+[16:52:43	][IC] Tlu'urn: Hm...
+[16:52:43	][IC] muhamet özgürtaş: Garip mantarlar var.
+[16:52:55	][IC] muhamet özgürtaş: Oha.
+[16:53:07	][IC] muhamet özgürtaş: Buranın bir girişi vardır bence.
+[16:53:10	][IC] Tlu'urn: Combine burada değil ve hiçbir izi yok. Ayak izi bile.
+[16:53:15	][IC] muhamet özgürtaş: Evet.
+[16:53:28	][IC] muhamet özgürtaş: Yok.
+[16:53:29	][IC] Tlu'urn: Ağaçlara.
+[16:53:32	][IC] Tlu'urn: Gel.
+[16:53:59	][IC] Tlu'urn: Bekle.
+[16:54:02	][IC] Tlu'urn: Gel.
+[16:54:18	][ME] Tlu'urn: digitigrad bacakları sayesinde iyi bir tırmanıcıdır ve rahatlıkla yukarıya çıkar
+[16:54:37	]muhamet özgürtaş has gained a '8rnd Helsing-şarjörü' #44587.
+[16:54:37	]muhamet özgürtaş has lost a '8rnd Helsing-şarjörü' #44491.
+[16:54:47	][LOOC] Tlu'urn: 10 metre zıplıyoruz
+[16:54:54	][LOOC] Tlu'urn: 10 metre zıplıyoruz
+[16:55:05	][IC] muhamet özgürtaş: Bu nasıl bina.
+[16:55:11	]Tlu'urn used command '/ToggleVortalVision'.
+[16:55:12	]Tlu'urn used command '/ToggleVortalVision'.
+[16:55:14	][LOOC] Tlu'urn: 10 metre zıplıyoruz:D
+[16:55:24	][IC] muhamet özgürtaş: Yukarısı boş.
+[16:55:54	]Tlu'urn used command '/ToggleVortalVision'.
+[16:55:54	][IC] muhamet özgürtaş: Hava iyice karardı.
+[16:55:54	]Tlu'urn used command '/ToggleVortalVision'.
+[16:55:58	][IC] Tlu'urn: Yes.
+[16:55:59	]Bürokrat entered observer.
+[16:56:09	][IC] Tlu'urn: Burası mükemmel.
+[16:56:10	][IC] muhamet özgürtaş: Boşmu.
+[16:56:23	][IC] Tlu'urn: Suya yakın ve combine bilmiyor.
+[16:56:29	]Bürokrat exited observer at their location.
+[16:56:32	][IC] muhamet özgürtaş: Evet ama ulaşımı zor 404e falan geri dönüş yaparken yakalanabiliriz.
+[16:56:44	]Bürokrat used command '/CharSetModel bürokrat models/gman.mdl'.
+[16:56:44	][IC] muhamet özgürtaş: Ama kalmak için çok iyi.
+[16:56:46	][IC] Tlu'urn: Geri dönüşe ne gerek var.
+[16:57:01	][IC] muhamet özgürtaş: Yani elbet eşya toplamamız gerekicek.
+[16:57:05	]Bürokrat entered observer.
+[16:57:11	][IC] Tlu'urn: Partizanlar.
+[16:57:16	][IC] Tlu'urn: Toplayabilir belki.
+[16:57:24	][IC] muhamet özgürtaş: Hm bilmiyorum.
+[16:57:31	][IC] Tlu'urn: Konumumuzu bilmedikleri sürece güvendeyiz.
+[16:57:41	][IC] muhamet özgürtaş: Bir süre burada ama kalabiliriz.
+[16:57:42	][IT] Bürokrat: Kapının önünden sesler geliyor, ne oluyor?
+[16:57:44	]Tlu'urn used command '/ToggleVortalVision'.
+[16:57:45	]Tlu'urn used command '/ToggleVortalVision'.
+[16:57:48	]Tlu'urn used command '/ToggleVortalVision'.
+[16:57:50	]Tlu'urn used command '/ToggleVortalVision'.
+[16:57:50	][IC] muhamet özgürtaş: O ses ne.
+[16:57:51	]Bürokrat has spawned a 'NPC [2793][npc_headcrab]'.
+[16:57:52	]Bürokrat has spawned a 'NPC [3487][npc_fastzombie_torso]'.
+[16:57:52	]Tlu'urn used command '/ToggleVortalVision'.
+[16:57:53	]Tlu'urn used command '/ToggleVortalVision'.
+[16:57:53	]Bürokrat has spawned a 'NPC [3489][npc_zombie]'.
+[16:57:54	]Bürokrat has spawned a 'NPC [3490][npc_zombie]'.
+[16:57:55	]Tlu'urn used command '/ToggleVortalVision'.
+[16:57:58	][IC] Tlu'urn: Sustenance!
+[16:57:59	]Tlu'urn used command '/ToggleVortalVision'.
+[16:58:01	][IC] muhamet özgürtaş: Nekrotikler.
+[16:58:03	][Y] Tlu'urn: Sustenance!
+[16:58:06	]Bürokrat has spawned a 'NPC [3491][npc_poisonzombie]'.
+[16:58:08	]Bürokrat exited observer at their location.
+[16:58:09	]Bürokrat entered observer.
+[16:58:12	][VORT] Tlu'urn has damaged npc_fastzombie_torso, dealing 96 with vortbeam
+[16:58:15	][VORT] Tlu'urn has damaged npc_zombie, dealing 96 with vortbeam
+[16:58:22	][IC] muhamet özgürtaş: Siktir.
+[16:58:25	][VORT] Tlu'urn has damaged npc_zombie, dealing 96 with vortbeam
+[16:58:27	][IC] muhamet özgürtaş: Cremator sesimi o.
+[16:58:30	][IC] Tlu'urn: Dur.
+[16:58:32	][IC] Tlu'urn: Zehirli zombi.
+[16:58:38	][IC] muhamet özgürtaş: Bir ses geliyor.
+[16:58:39	][IC] Tlu'urn: Çok tehlikeli ve direk ölümcül.
+[16:58:42	]Tlu'urn used command '/ToggleVortalVision'.
+[16:58:43	]Tlu'urn used command '/ToggleVortalVision'.
+[16:58:50	][IC] muhamet özgürtaş: Bir ses geliyor duyuyormusun.
+[16:58:54	][IC] Tlu'urn: Yes.
+[16:58:57	][IC] Tlu'urn: Bu zehirli zombii.
+[16:58:59	]muhamet özgürtaş has taken 5 damage from npc_headcrab_poison.
+[16:58:59	]muhamet özgürtaş has gained a '8rnd Helsing-şarjörü' #44491.
+[16:58:59	]muhamet özgürtaş was knocked unconscious and is bleeding out.
+[16:58:59	][IC] muhamet özgürtaş: O ne.
+[16:59:03	][IC] muhamet özgürtaş: Aaaaaaaah!
+[16:59:13	][VORT] Tlu'urn has damaged npc_headcrab_poison, dealing 96 with vortbeam
+[16:59:33	][ME] muhamet özgürtaş: zar zor bişey der
+[16:59:37	][IC] muhamet özgürtaş: Yardım et tluu.
+[16:59:47	]Tlu'urn used command '/ToggleVortalVision'.
+[16:59:48	]Tlu'urn used command '/ToggleVortalVision'.
+[16:59:59	]Bürokrat exited observer at their location.
+[17:00:04	]Tlu'urn used command '/ToggleVortalVision'.
+[17:00:06	]Tlu'urn used command '/ToggleVortalVision'.
+[17:00:12	][VORT] Tlu'urn has healed muhamet özgürtaş
+[17:00:15	]Bürokrat entered observer.
+[17:00:16	]muhamet özgürtaş used command '/CharGetUp'.
+[17:00:16	]muhamet özgürtaş is no longer unconscious from critical wounds.
+[17:00:17	]Tlu'urn used command '/ToggleVortalVision'.
+[17:00:18	][IC] muhamet özgürtaş: Aaaaaaaah!
+[17:00:19	]Tlu'urn used command '/ToggleVortalVision'.
+[17:00:23	]Bürokrat has spawned 'models/perftest/gman.mdl'.
+[17:00:27	]Bürokrat has spawned 'models/maxofs2d/balloon_gman.mdl'.
+[17:00:28	][IC] Tlu'urn: Eve gir.
+[17:00:32	][IC] Tlu'urn: Hemen.
+[17:00:34	][IC] muhamet özgürtaş: TAMAM.
+[17:00:44	]Bürokrat has set muhamet özgürtaş's name to Muhammet Özgürtaş.
+[17:00:44	]Bürokrat has used a context menu option with the name: ixsetcharname
+[17:00:45	][IC] Tlu'urn: Yat.
+[17:00:51	][IC] Tlu'urn: Yat.
+[17:00:53	]Muhammet Özgürtaş used command '/ActDown'.
+[17:01:03	]Tlu'urn used command '/ActKneel'.
+[17:01:13	]Bürokrat exited observer at their location.
+[17:01:20	][ME] Tlu'urn: 2 eliyle birlikte kanaındaki zehri girdiği yerden çıkarmaya çalışır
+[17:01:21	]Tlu'urn used command '/ExitAct'.
+[17:01:24	]Tlu'urn used command '/ToggleVortalVision'.
+[17:01:28	][VORT] Tlu'urn has healed Muhammet Özgürtaş
+[17:01:33	]Bürokrat was knocked unconscious and is bleeding out.
+[17:01:33	][VORT] Tlu'urn has damaged Bürokrat, dealing 96 with vortbeam
+[17:01:36	]Bürokrat was killed while bleeding out.
+[17:01:36	]Tlu'urn has killed Bürokrat with ix_vortbeam.
+[17:01:36	]Bürokrat has dropped: Açık Gri Kol Bandı (#55908);
+[17:01:36	][VORT] Tlu'urn has damaged Bürokrat, dealing 96 with vortbeam
+[17:01:39	]Tlu'urn used command '/ToggleVortalVision'.
+[17:01:40	][LOOC] Muhammet Özgürtaş: lan gmani öldürdü dfhnjlşdfnkjldfknjldhf
+[17:01:45	]Bürokrat entered observer.
+[17:01:53	]Tlu'urn opened the 'Dropped Items' #5567 container.
+[17:01:56	]Tlu'urn has gained a 'Açık Gri Kol Bandı' #55908 from a container with the name 'Dropped Items' #5567.
+[17:01:57	]Tlu'urn closed the 'Dropped Items' #5567 container.
+[17:02:04	]Bürokrat has used a context menu option with the name: remove
+[17:02:07	][IC] Muhammet Özgürtaş: Kapıyı kapa tlu.
+[17:02:10	][VORT] Tlu'urn has healed Muhammet Özgürtaş
+[17:02:11	]Muhammet Özgürtaş is fully healed.
+[17:02:12	][LOOC] Bürokrat: VOID VOID VOID
+[17:02:15	][IC] Muhammet Özgürtaş: O siyah headcrab içeri girdcek.
+[17:02:21	][LOOC] Muhammet Özgürtaş: segsdlmşgdfslmkdfklg çok komik öldün
+[17:02:22	][LOOC] Tlu'urn: HAHAHA
+[17:02:35	][LOOC] Tlu'urn: gücüm olsa güçlü olandan atacaktım ama olsun
+[17:02:39	][LOOC] Bürokrat: scientist senin ananin amina koyim ya salak misin hepimizin gurubu bu salak
+[17:02:41	][IC] Tlu'urn: Kalkabilirsin.
+[17:02:51	]Muhammet Özgürtaş used command '/ExitAct'.
+[17:02:54	]Bürokrat exited observer at their location.
+[17:03:01	]Muhammet Özgürtaş has lost a '8rnd Helsing-şarjörü' #44587.
+[17:03:01	][IC] Tlu'urn: İyisin ben biraz meditasyon yapacağım.
+[17:03:01	]Tlu'urn used command '/ToggleVortalVision'.
+[17:03:04	][IC] Muhammet Özgürtaş: Tamam.
+[17:03:06	]Tlu'urn used command '/ToggleVortalVision'.
+[17:03:10	]Tlu'urn used command '/ToggleVortalVision'.
+[17:03:10	]Bürokrat entered observer.
+[17:03:14	]Tlu'urn used command '/ToggleVortalVision'.
+[17:03:22	][IC] Muhammet Özgürtaş: Hala etrafta o headcrabler olabilir.
+[17:03:28	][LOOC] Tlu'urn: zehirli headcrab kadar tehlikeli bir şey neredeyse yok şuanda
+[17:03:31	][IC] Tlu'urn: Varlar.
+[17:03:51	]Tlu'urn ran 'drinkquench' on item 'Su Şişesi' (#51842)
+[17:03:52	]Bürokrat exited observer at their location.
+[17:03:59	][IC] Muhammet Özgürtaş: Onları öldürmezsek burada kalmamız çok zorlaşır.
+[17:04:00	][IC] Tlu'urn: Dışarı biraz çıkma.
+[17:04:04	][IC] Tlu'urn: Dinleceğim.
+[17:04:07	][IC] Tlu'urn: 2 dakika falan.
+[17:04:10	][IC] Muhammet Özgürtaş: Tamam.
+[17:04:13	]Tlu'urn used command '/EnterMeditation'.
+[17:04:23	]Muhammet Özgürtaş has gained a '8rnd Helsing-şarjörü' #44587.
+[17:04:23	]Muhammet Özgürtaş has lost a '8rnd Helsing-şarjörü' #44491.
+[17:05:52	]Muhammet Özgürtaş used command '/ActSit'.
+[17:05:59	][ME] Muhammet Özgürtaş: kitaba birşeyler yazmaya başlar
+[17:06:02	]Muhammet Özgürtaş ran 'Write' on item 'MUHAMET ÖZGÜRTAŞIN GÜNLÜĞÜ' (#55576)
+[17:06:16	]Tlu'urn used command '/EnterMeditation'.
+[17:06:28	]Muhammet Özgürtaş used command '/ExitAct'.
+[17:06:33	][IC] Tlu'urn: Içeride kal.
+[17:06:35	][IC] Muhammet Özgürtaş: Tamam.
+[17:06:35	][IC] Tlu'urn: Eğer bayılırsam.
+[17:06:38	]Tlu'urn ran 'drop' on item 'Kan Torbası' (#55842)
+[17:06:38	]Tlu'urn has lost a 'Kan Torbası' #55842.
+[17:06:39	]Bürokrat entered observer.
+[17:06:42	]Muhammet Özgürtaş ran 'take' on item 'Kan Torbası' (#55842)
+[17:06:42	]Muhammet Özgürtaş has gained a 'Kan Torbası' #55842.
+[17:06:42	]Bürokrat exited observer at their location.
+[17:06:42	]Bürokrat entered observer.
+[17:06:52	][ME] Muhammet Özgürtaş: kitaba birşeyler yazmaya başlar
+[17:06:53	]Muhammet Özgürtaş ran 'Write' on item 'MUHAMET ÖZGÜRTAŞIN GÜNLÜĞÜ' (#55576)
+[17:06:57	]Tlu'urn used command '/ToggleVortalVision'.
+[17:06:58	]Tlu'urn used command '/ToggleVortalVision'.
+[17:07:03	]Bürokrat exited observer at their location.
+[17:07:06	]Bürokrat entered observer.
+[17:07:21	]Bürokrat has spawned 'models/weapons/w_apex_wingman.mdl'.
+[17:07:37	]Bürokrat has used a context menu option with the name: remove
+[17:08:15	]Muhammet Özgürtaş ran 'Write' on item 'MUHAMET ÖZGÜRTAŞIN GÜNLÜĞÜ' (#55576)
+[17:08:15	][VORT] Tlu'urn has damaged npc_poisonzombie, dealing 96 with vortbeam
+[17:08:22	][IC] Muhammet Özgürtaş: Noluyor lan.
+[17:08:34	][Y] Tlu'urn: Yaralı ama hala yaşıyor!
+[17:08:44	][Y] Muhammet Özgürtaş: NEY HALA YAŞIYOR.
+[17:08:48	][Y] Tlu'urn: Zombie.
+[17:08:49	]Bürokrat exited observer at their location.
+[17:08:50	]Bürokrat entered observer.
+[17:08:51	]Bürokrat exited observer at their location.
+[17:08:52	]Bürokrat entered observer.
+[17:08:52	]Bürokrat exited observer at their location.
+[17:08:56	][Y] Muhammet Özgürtaş: İYİMİSİN TLU.
+[17:09:00	][Y] Tlu'urn: Yes.
+[17:09:46	][VORT] Tlu'urn has damaged npc_headcrab_poison, dealing 96 with vortbeam
+[17:10:38	][LOOC] Muhammet Özgürtaş: krematör sesi nereden geliyor ?
+[17:10:51	][VORT] Tlu'urn has damaged npc_headcrab, dealing 96 with vortbeam
+[17:10:54	][VORT] Tlu'urn has damaged npc_poisonzombie, dealing 96 with vortbeam
+[17:11:10	][Y] Tlu'urn: Ah, yes!
+[17:11:39	][VORT] Tlu'urn has damaged npc_headcrab_poison, dealing 96 with vortbeam
+[17:12:10	][Y] Tlu'urn: All in one and one in all!
+[17:12:18	]Bürokrat ran SAM command 'menu' with arguments: ''
+[17:12:22	][IC] Muhammet Özgürtaş: Bittilermi.
+[17:12:24	]Victorian (STEAM_0:0:577700614) has disconnected.
+[17:12:31	][IC] Tlu'urn: Yemekleri alalım.
+[17:12:37	][IC] Muhammet Özgürtaş: Yerim yok benim.
+[17:12:47	][IC] Muhammet Özgürtaş: Ve bana temiz su lazım.
+[17:13:11	][IC] Muhammet Özgürtaş: Tlu.
+[17:13:19	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55913)
+[17:13:19	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55913.
+[17:13:24	][LOOC] Tlu'urn: sen
+[17:13:25	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55813)
+[17:13:32	][LOOC] Tlu'urn: parçalayınca ne ile parçaladın diyor?
+[17:13:47	][LOOC] Muhammet Özgürtaş: ben bıçak ile parçalıyorum ne ile parçaladığımı söylemiyor
+[17:13:59	][LOOC] Tlu'urn: he bende pençeler ile diyor
+[17:14:06	][IC] Tlu'urn: Belki.
+[17:14:10	][IC] Tlu'urn: O su temizdir.
+[17:14:13	][IC] Muhammet Özgürtaş: Bana temiz su lazım.
+[17:14:18	][IC] Muhammet Özgürtaş: Hangi su.
+[17:14:21	][IC] Tlu'urn: Nehirdeki.
+[17:14:28	][IC] Muhammet Özgürtaş: Hm bakmam lazım.
+[17:14:44	]Muhammet Özgürtaş ran 'empty' on item 'Su Şişesi' (#50887)
+[17:14:57	]Muhammet Özgürtaş ran 'fill' on item 'Su Şişesi' (#50887)
+[17:14:57	]Muhammet Özgürtaş has gained a 'Ham Sülük Karkası' #55914.
+[17:15:02	][IC] Muhammet Özgürtaş: Hay.
+[17:15:07	]Tlu'urn ran 'fill' on item 'Su Şişesi' (#51841)
+[17:15:07	]Tlu'urn has gained a 'Ham Sülük Karkası' #55915.
+[17:15:27	]Tlu'urn used command '/ToggleVortalVision'.
+[17:15:42	]Tlu'urn used command '/ToggleVortalVision'.
+[17:15:44	][IC] Tlu'urn: Değil gibi.
+[17:15:51	][IC] Muhammet Özgürtaş: Su temiz değil.
+[17:15:53	][IC] Muhammet Özgürtaş: Tlu.
+[17:16:13	][IC] Muhammet Özgürtaş: Burada benim yaşayabilmem için tencere ve suyu temizleyebiliceğim bir yer lazım.
+[17:16:23	][IC] Muhammet Özgürtaş: Diğer türle susuzluktan ölürüm.
+[17:16:26	][IC] Tlu'urn: Ateş var.
+[17:16:30	][IC] Muhammet Özgürtaş: Tencerem yok.
+[17:16:49	][IC] Tlu'urn: Kanalizasyonda neyi içiyordun?
+[17:16:51	][IC] Muhammet Özgürtaş: 2 hurda metal ve 1 plastiğim olsa yapardım.
+[17:17:07	][IC] Muhammet Özgürtaş: Şehirden aldığım suyu ve eski şehirden kalmış temiz suyu.
+[17:17:16	]Muhammet Özgürtaş ran 'Consume' on item 'Ham Sülük Karkası' (#55914)
+[17:17:16	]Tlu'urn ran 'split' on item 'Çelik' (#55790)
+[17:17:16	]Tlu'urn has gained a 'Çelik' #55916.
+[17:17:17	]Tlu'urn ran 'drop' on item 'Çelik' (#55790)
+[17:17:17	]Tlu'urn has lost a 'Çelik' #55790.
+[17:17:19	]Tlu'urn ran 'drop' on item 'Çelik' (#55916)
+[17:17:19	]Tlu'urn has lost a 'Çelik' #55916.
+[17:17:22	][IC] Tlu'urn: 2 tane çelik var.
+[17:17:26	][IC] Muhammet Özgürtaş: Bunlar çelik hurda metal lazım.
+[17:17:35	][IC] Tlu'urn: Bunlar sande kalsın işine yarar.
+[17:17:38	][IC] Muhammet Özgürtaş: Birazcık etrafa bakalım belki buluruz bişeyler.
+[17:17:39	]Muhammet Özgürtaş ran 'take' on item 'Çelik' (#55790)
+[17:17:39	]Muhammet Özgürtaş has gained a 'Çelik' #55790.
+[17:17:40	]Muhammet Özgürtaş ran 'take' on item 'Çelik' (#55916)
+[17:17:40	]Muhammet Özgürtaş has gained a 'Çelik' #55916.
+[17:17:42	]Muhammet Özgürtaş ran 'combine' on item 'Çelik' (#55790)
+[17:17:46	][IC] Muhammet Özgürtaş: Gel.
+[17:18:10	][IC] Tlu'urn: Beni burada bulacaksın.
+[17:18:11	][IC] Muhammet Özgürtaş: Kapı açık kalsın bence.
+[17:18:13	][IC] Muhammet Özgürtaş: Tamam.
+[17:18:17	]Muhammet Özgürtaş has gained a '8rnd Helsing-şarjörü' #44491.
+[17:18:17	]Muhammet Özgürtaş has lost a '8rnd Helsing-şarjörü' #44587.
+[17:18:51	][IC] Muhammet Özgürtaş: Hm kilise.
+[17:18:57	]Tlu'urn ran 'split' on item 'Çiğ Headcrab Eti' (#53539)
+[17:18:57	]Tlu'urn has gained a 'Çiğ Headcrab Eti' #55917.
+[17:18:58	]Tlu'urn ran 'Consume' on item 'Çiğ Headcrab Eti' (#55917)
+[17:19:30	][IC] Muhammet Özgürtaş: Tünel.
+[17:19:32	][IC] Muhammet Özgürtaş: Girsemmi.
+[17:19:40	][IC] Muhammet Özgürtaş: Hassiktir.
+[17:20:50	][IC] Muhammet Özgürtaş: Tamam geri dönüp söyliyim 404 e gidiceğimi.
+[17:22:22	]Muhammet Özgürtaş ran 'drop' on item 'Çelik' (#55790)
+[17:22:22	]Muhammet Özgürtaş has lost a 'Çelik' #55790.
+[17:22:42	]Muhammet Özgürtaş ran 'drinkquench' on item 'Su Şişesi' (#50888)
+[17:22:43	]Muhammet Özgürtaş ran 'fill' on item 'Su Şişesi' (#50888)
+[17:22:44	]Tlu'urn used command '/EnterMeditation'.
+[17:22:47	]Muhammet Özgürtaş ran 'fill' on item 'Su Şişesi' (#50888)
+[17:22:48	]Tlu'urn used command '/ActIdle'.
+[17:23:51	]Muhammet Özgürtaş ran 'take' on item 'Plastik Çöp' (#55919)
+[17:23:51	]Muhammet Özgürtaş has gained a 'Plastik Çöp' #55919.
+[17:24:25	]Muhammet Özgürtaş ran 'take' on item 'Bez Paçavralar' (#55922)
+[17:24:25	]Muhammet Özgürtaş has gained a 'Bez Paçavralar' #55922.
+[17:24:47	]Muhammet Özgürtaş ran 'take' on item 'Kahverengi Ayakkabı' (#55923)
+[17:24:47	]Muhammet Özgürtaş has gained a 'Kahverengi Ayakkabı' #55923.
+[17:24:48	]Muhammet Özgürtaş ran 'take' on item 'Güçlü Yapıştırıcı' (#55925)
+[17:24:52	]Muhammet Özgürtaş has performed the 'Craft Parçala: Kahverengi Ayakkabı' action, gaining 12 experience in crafting.
+[17:24:53	]Muhammet Özgürtaş ran 'take' on item 'Güçlü Yapıştırıcı' (#55925)
+[17:24:53	]Muhammet Özgürtaş has gained a 'Güçlü Yapıştırıcı' #55925.
+[17:24:55	]Muhammet Özgürtaş ran 'combine' on item 'Güçlü Yapıştırıcı' (#53066)
+[17:25:33	]Muhammet Özgürtaş ran 'take' on item 'Yapıştırıcı' (#55931)
+[17:25:33	]Muhammet Özgürtaş has gained a 'Yapıştırıcı' #55931.
+[17:25:35	]Muhammet Özgürtaş ran 'combine' on item 'Yapıştırıcı' (#55644)
+[17:25:40	]Tlu'urn used command '/ExitAct'.
+[17:25:42	]Muhammet Özgürtaş ran 'EquipUn' on item 'Helsing Bolt Rifle' (#44969)
+[17:25:42	]Muhammet Özgürtaş has gained a '8rnd Helsing-şarjörü' #44587.
+[17:25:43	]Muhammet Özgürtaş ran 'EquipUn' on item 'Spade' (#41048)
+[17:25:46	]Muhammet Özgürtaş ran 'drop' on item 'Viski' (#54626)
+[17:25:46	]Muhammet Özgürtaş has lost a 'Viski' #54626.
+[17:25:54	]Tlu'urn used command '/EnterMeditation'.
+[17:26:25	]Muhammet Özgürtaş opened the 'Kişisel Depo' stash.
+[17:26:26	]Muhammet Özgürtaş closed the 'Kişisel Depo' stash.
+[17:26:27	]Muhammet Özgürtaş opened the 'Kişisel Depo' stash.
+[17:26:27	]Tlu'urn used command '/PM muham mükemmel ve güvenli bir yer buldum sonunda'.
+[17:26:28	]Muhammet Özgürtaş closed the 'Kişisel Depo' stash.
+[17:26:33	]Muhammet Özgürtaş used command '/PM tlu tmm'.
+[17:26:37	]Muhammet Özgürtaş used command '/PM tlu tmm'.
+[17:27:05	]Muhammet Özgürtaş used command '/PM tlu urn tmm'.
+[17:27:10	]Muhammet Özgürtaş used command '/PM tlu urn tamam'.
+[17:27:20	]Muhammet Özgürtaş has acquired his ration, gaining 0 credits, 0 wages and a ration ration.
+[17:27:30	]Tlu'urn used command '/EnterMeditation'.
+[17:27:31	]Muhammet Özgürtaş ran 'drop' on item 'Viski' (#54627)
+[17:27:31	]Muhammet Özgürtaş has lost a 'Viski' #54627.
+[17:27:31	]Tlu'urn used command '/EnterMeditation'.
+[17:27:35	]Muhammet Özgürtaş ran 'drop' on item 'Hairdresser tools' (#45146)
+[17:27:35	]Muhammet Özgürtaş has lost a 'Hairdresser tools' #45146.
+[17:27:35	]Tlu'urn used command '/Reply a'.
+[17:27:36	]Muhammet Özgürtaş ran 'Open' on item 'Rasyon' (#55933)
+[17:27:37	]Muhammet Özgürtaş ran 'take' on item 'Yapay Macun' (#55934)
+[17:27:42	]Muhammet Özgürtaş ran 'take' on item 'Yapay Macun' (#55934)
+[17:27:42	]Muhammet Özgürtaş has gained a 'Yapay Macun' #55934.
+[17:27:44	]Muhammet Özgürtaş ran 'take' on item '15 Kredi Kuponu' (#55936)
+[17:27:44	]Muhammet Özgürtaş has gained a '15 Kredi Kuponu' #55936.
+[17:27:47	]Muhammet Özgürtaş ran 'Use' on item '15 Kredi Kuponu' (#55936)
+[17:27:50	]Muhammet Özgürtaş has used a coupon at a ration dispenser, gaining 15 credits.
+[17:27:50	]Muhammet Özgürtaş ran 'Consume' on item 'Yapay Macun' (#55934)
+[17:27:50	]Muhammet Özgürtaş has gained a 'Boş Kavanoz' #55937.
+[17:27:53	]Muhammet Özgürtaş ran 'take' on item 'Breen'in Suyu' (#55935)
+[17:27:53	]Muhammet Özgürtaş has gained a 'Breen'in Suyu' #55935.
+[17:27:53	]Tlu'urn used command '/EnterMeditation'.
+[17:27:54	]Tlu'urn used command '/EnterMeditation'.
+[17:27:54	]Muhammet Özgürtaş ran 'Consume' on item 'Breen'in Suyu' (#55935)
+[17:27:55	]Muhammet Özgürtaş ran 'drop' on item 'Boş Kavanoz' (#55937)
+[17:27:55	]Muhammet Özgürtaş has lost a 'Boş Kavanoz' #55937.
+[17:28:07	]Muhammet Özgürtaş ran 'EquipUn' on item 'Frag Grenade' (#53897)
+[17:28:31	]Muhammet Özgürtaş ran 'take' on item 'Bir Fincan Kahve' (#55458)
+[17:28:31	]Muhammet Özgürtaş has gained a 'Bir Fincan Kahve' #55458.
+[17:28:35	]Muhammet Özgürtaş ran 'take' on item 'Bir Fincan Kahve' (#55457)
+[17:28:35	]Muhammet Özgürtaş has gained a 'Bir Fincan Kahve' #55457.
+[17:29:04	]Muhammet Özgürtaş ran 'drop' on item 'Dikişli Kumaş' (#55803)
+[17:29:04	]Muhammet Özgürtaş has lost a 'Dikişli Kumaş' #55803.
+[17:29:43	]Muhammet Özgürtaş has gained a 'Metal Dişli' #55940.
+[17:29:49	]Muhammet Özgürtaş has performed the 'Craft Parçala: Metal Dişli' action, gaining 40 experience in crafting.
+[17:29:49	]Muhammet Özgürtaş has gained a 'Hurda Metal' #55941.
+[17:30:46	]Muhammet Özgürtaş ran 'Equip' on item 'Spade' (#41048)
+[17:30:46	]Muhammet Özgürtaş ran 'Equip' on item 'Helsing Bolt Rifle' (#44969)
+[17:30:52	]Muhammet Özgürtaş has lost a '8rnd Helsing-şarjörü' #44587.
+[17:30:57	]Muhammet Özgürtaş has taken 21 damage from worldspawn.
+[17:31:03	]Tlu'urn used command '/ToggleVortalVision'.
+[17:31:04	]Tlu'urn used command '/ToggleVortalVision'.
+[17:31:04	]Muhammet Özgürtaş ran 'use' on item 'İlk Yardım Kiti' (#50740)
+[17:31:04	]Muhammet Özgürtaş has performed the 'Use İlk Yardım Kiti' action, gaining 54 experience in medicine.
+[17:31:04	]Muhammet Özgürtaş was disinfected by Muhammet Özgürtaş for 265 seconds.
+[17:31:04	]Muhammet Özgürtaş was bandaged by Muhammet Özgürtaş for 69 HP.
+[17:31:08	]Muhammet Özgürtaş has gained level 1 in the Tıp skill.
+[17:31:17	]Muhammet Özgürtaş ran 'Equip' on item 'Frag Grenade' (#53897)
+[17:31:42	]Tlu'urn has taken 11 damage from worldspawn.
+[17:31:55	]trigger_hurt destroyed a 'Boş Viski Şişesi' #55893.
+[17:32:12	]Muhammet Özgürtaş has hit npc_zombie in the head dealing 45 damage (CritChance was 0.12).
+[17:32:41	]Muhammet Özgürtaş is fully healed.
+[17:33:52	]Scientist has unloaded their "Tlu'urn" character.
+[17:33:58	]Scientist (STEAM_0:1:533519973) has disconnected.
+[17:37:46	]Muhammet Özgürtaş has gone afk.
+[17:41:41	]Muhammet Özgürtaş is no longer afk. Total time spent AFK: 530
+[17:42:51	]Ellie Williams has connected.
+[17:42:53	]Muhammet Özgürtaş has hit npc_zombie in the head dealing 45 damage (CritChance was 0.12).
+[17:42:58	]Muhammet Özgürtaş has gained level 7 in the Yakın Dövüş skill.
+[17:42:58	]Muhammet Özgürtaş has critically hit npc_zombie in the chest dealing 90 damage (CritChance was 0.12).
+[17:43:14	]Muhammet Özgürtaş has hit npc_zombie in the chest dealing 45 damage (CritChance was 0.15).
+[17:43:16	]Muhammet Özgürtaş has hit npc_zombie in the head dealing 18 damage (CritChance was 0.15).
+[17:43:32	]Muhammet Özgürtaş ran 'take' on item 'Kumaş' (#55956)
+[17:43:32	]Muhammet Özgürtaş has gained a 'Kumaş' #55956.
+[17:43:52	]Muhammet Özgürtaş ran 'take' on item 'Bez Paçavralar' (#55961)
+[17:43:52	]Muhammet Özgürtaş has gained a 'Bez Paçavralar' #55961.
+[17:43:55	]Muhammet Özgürtaş ran 'combine' on item 'Bez Paçavralar' (#55922)
+[17:43:59	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#55813)
+[17:43:59	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #55813.
+[17:44:35	]Ellie Williams loaded the character 'Tommy Black'
+[17:44:45	]Muhammet Özgürtaş has gained a '8rnd Helsing-şarjörü' #44587.
+[17:44:45	]Muhammet Özgürtaş has lost a '8rnd Helsing-şarjörü' #44491.
+[17:45:32	]Tommy Black opened the 'Büyük Metal Masa' #5513 container.
+[17:45:34	]Tommy Black closed the 'Büyük Metal Masa' #5513 container.
+[17:45:49	]Tommy Black has gained level 5 in the Hız skill.
+[17:45:53	]Ellie Williams has unloaded their "Tommy Black" character.
+[17:45:58	]Ellie Williams loaded the character 'C24:i5.UNION-61'
+[17:46:13	]C24:i5.UNION-61 has lost a '17rnd Usp-Şarjörü' #50300.
+[17:46:13	]C24:i5.UNION-61 has gained a '17rnd Usp-Şarjörü' #52003.
+[17:46:20	]C24:i5.UNION-61 ran 'combine' on item '17rnd Usp-Şarjörü' (#52004)
+[17:47:01	][IC] C24:i5.UNION-61: <:: D. ::>
+[17:47:08	]C24:i5.UNION-61 is fully healed.
+[17:48:22	]C24:i5.UNION-61 has gained a '17rnd Usp-Şarjörü' #50300.
+[17:48:22	]C24:i5.UNION-61 has lost a '17rnd Usp-Şarjörü' #52003.
+[17:48:28	]C24:i5.UNION-61 has gained a '17rnd Usp-Şarjörü' #52003.
+[17:48:28	]C24:i5.UNION-61 has lost a '17rnd Usp-Şarjörü' #50300.
+[17:48:33	]Ellie Williams has unloaded their "C24:i5.UNION-61" character.
+[17:48:38	]Ellie Williams loaded the character 'Joel Miller'
+[17:49:09	]Joel Miller used command '/PM muhammet nerdesin laaaan'.
+[17:49:18	]Muhammet Özgürtaş used command '/PM joel outlandste'.
+[17:49:31	]Joel Miller used command '/PM muhammet harabeler deyim'.
+[17:49:48	]Joel Miller ran 'take' on item 'Çiğ Headcrab Eti' (#55758)
+[17:49:48	]Joel Miller has gained a 'Çiğ Headcrab Eti' #55758.
+[17:49:50	]Joel Miller ran 'combine' on item 'Çiğ Headcrab Eti' (#55600)
+[17:49:58	]Muhammet Özgürtaş used command '/PM joel outlandste ota mekanından gizlice geçip gidilen bir yer var ben oradayım'.
+[17:50:08	]Joel Miller used command '/PM muhammet ben bu mapi bilmiyom amök uıfhısduhfewq'.
+[17:50:18	]Joel Miller ran 'take' on item 'Çiğ Headcrab Eti' (#55657)
+[17:50:18	]Joel Miller has gained a 'Çiğ Headcrab Eti' #55657.
+[17:50:22	]Joel Miller ran 'take' on item 'Çiğ Headcrab Eti' (#55719)
+[17:50:22	]Joel Miller has gained a 'Çiğ Headcrab Eti' #55719.
+[17:50:24	]Joel Miller ran 'combine' on item 'Çiğ Headcrab Eti' (#55657)
+[17:50:26	]Muhammet Özgürtaş used command '/PM joel bende çok bilmiyom knk gezerken buldum scientist ile'.
+[17:50:39	]Joel Miller used command '/PM muhammet beni bulsana la'.
+[17:50:47	]Joel Miller used command '/PM muhammet örgüt kurcam güzel bir yer bulsam'.
+[17:50:53	]Muhammet Özgürtaş used command '/PM joel karakter değiştiricem birazdan'.
+[17:51:24	]Joel Miller ran 'use' on item 'Pantoprazole (mide)' (#54828)
+[17:51:24	]Joel Miller has performed the 'Use Pantoprazole (mide)' action, gaining 15 experience in medicine.
+[17:51:24	]Joel Miller was disinfected by Joel Miller for 127 seconds.
+[17:51:24	]Joel Miller was bandaged by Joel Miller for 6 HP.
+[17:51:24	]Joel Miller has gained a level 1 short boost in Güç.
+[17:51:30	]Joel Miller used command '/PM muhammet aaaa'.
+[17:51:40	]Muhammet Özgürtaş used command '/PM joel noldu'.
+[17:51:49	]Joel Miller used command '/PM muhammet birşey yok la aaa dredim öyle'.
+[17:52:14	]Joel Miller has gained level 49 in the Hız skill.
+[17:53:18	][IC] Muhammet Özgürtaş: Hm.
+[17:55:40	]Ellie Williams (STEAM_0:0:674670748) has disconnected.
+[17:56:26	]deathguard (STEAM_0:1:229653665) has disconnected.
+[18:34:16	]deathguard has connected.
+[18:34:55	]deathguard loaded the character 'Frederic Schopenhauer'
+[18:35:13	]deathguard loaded the character 'michael mansen'
+[18:35:18	]michael mansen is fully healed.
+[18:35:36	]michael mansen ran 'drop' on item 'Boş Kavanoz' (#55697)
+[18:35:36	]michael mansen has lost a 'Boş Kavanoz' #55697.
+[18:35:41	]michael mansen opened the 'Kişisel Depo' stash.
+[18:35:41	]michael mansen closed the 'Kişisel Depo' stash.
+[18:35:42	]michael mansen opened the 'Kişisel Depo' stash.
+[18:35:42	]michael mansen closed the 'Kişisel Depo' stash.
+[18:35:43	]michael mansen opened the 'Kişisel Depo' stash.
+[18:35:43	]michael mansen closed the 'Kişisel Depo' stash.
+[18:35:44	]michael mansen opened the 'Kişisel Depo' stash.
+[18:35:44	]michael mansen closed the 'Kişisel Depo' stash.
+[18:36:04	]michael mansen opened the 'Kişisel Depo' stash.
+[18:36:04	]michael mansen closed the 'Kişisel Depo' stash.
+[18:36:05	]michael mansen opened the 'Kişisel Depo' stash.
+[18:36:13	]michael mansen closed the 'Kişisel Depo' stash.
+[18:36:39	]michael mansen ran 'Equip' on item 'Rappel Gear' (#33833)
+[18:39:07	]deathguard loaded the character 'muhamet tuncel'
+[18:39:12	]muhamet tuncel is fully healed.
+[18:39:46	]deathguard loaded the character 'Muhammet Özgürtaş'
+[18:40:19	]Muhammet Özgürtaş ran 'Consume' on item 'Bir Fincan Kahve' (#55457)
+[18:40:19	]Muhammet Özgürtaş has updated their Çeviklik long boost target to 2 (current : 4).
+[18:40:19	]Muhammet Özgürtaş has gained a 'Boş Kahve Fincanı' #55962.
+[18:40:19	]Muhammet Özgürtaş ran 'drop' on item 'Boş Kahve Fincanı' (#55962)
+[18:40:19	]Muhammet Özgürtaş has lost a 'Boş Kahve Fincanı' #55962.
+[18:42:36	]Muhammet Özgürtaş ran 'drop' on item 'Araç Kiti' (#45327)
+[18:42:36	]Muhammet Özgürtaş has lost a 'Araç Kiti' #45327.
+[18:42:52	]Muhammet Özgürtaş ran 'take' on item 'Araç Kiti' (#45327)
+[18:42:52	]Muhammet Özgürtaş has gained a 'Araç Kiti' #45327.
+[18:44:49	]Muhammet Özgürtaş ran 'drop' on item 'Bozuk 9mm Tabanca' (#55571)
+[18:44:49	]Muhammet Özgürtaş has lost a 'Bozuk 9mm Tabanca' #55571.
+[18:44:52	]Muhammet Özgürtaş ran 'take' on item 'Bozuk 9mm Tabanca' (#55571)
+[18:44:52	]Muhammet Özgürtaş has gained a 'Bozuk 9mm Tabanca' #55571.
+[18:44:54	]Muhammet Özgürtaş ran 'drop' on item 'Bozuk 9mm Tabanca' (#55571)
+[18:44:54	]Muhammet Özgürtaş has lost a 'Bozuk 9mm Tabanca' #55571.
+[18:45:04	]Muhammet Özgürtaş has performed the 'Craft Pişirme Tenceresi' action, gaining 25 experience in crafting.
+[18:45:04	]Muhammet Özgürtaş has gained a 'Tencere' #55963.
+[18:45:55	]Muhammet Özgürtaş ran 'filtrate' on item 'Su Şişesi' (#50888)
+[18:45:56	]Muhammet Özgürtaş ran 'fill' on item 'Su Şişesi' (#50888)
+[18:45:56	]Muhammet Özgürtaş has gained a 'Ham Sülük Karkası' #55964.
+[18:46:39	]Muhammet Özgürtaş ran 'drop' on item 'Hurda Metal' (#55941)
+[18:46:39	]Muhammet Özgürtaş has lost a 'Hurda Metal' #55941.
+[18:49:14	]Muhammet Özgürtaş ran 'take' on item 'Kırık Bilgisayar' (#54827)
+[18:49:16	]Muhammet Özgürtaş ran 'take' on item 'Kırık Bilgisayar' (#54827)
+[18:49:18	]Muhammet Özgürtaş ran 'take' on item 'Kırık Bilgisayar' (#54827)
+[18:49:18	]Muhammet Özgürtaş has gained a 'Kırık Bilgisayar' #54827.
+[18:49:20	]Muhammet Özgürtaş ran 'drop' on item 'Araç Kiti' (#53619)
+[18:49:20	]Muhammet Özgürtaş has lost a 'Araç Kiti' #53619.
+[18:49:24	]Muhammet Özgürtaş has performed the 'Craft Parçala: Kırık Bilgisayar' action, gaining 100 experience in crafting.
+[18:49:24	]Muhammet Özgürtaş has gained a 'Elektronik devreler' #55965.
+[18:49:27	]Muhammet Özgürtaş ran 'drop' on item 'Elektronik devreler' (#55965)
+[18:49:27	]Muhammet Özgürtaş has lost a 'Elektronik devreler' #55965.
+[18:49:28	]Muhammet Özgürtaş ran 'take' on item 'Araç Kiti' (#53619)
+[18:49:28	]Muhammet Özgürtaş has gained a 'Araç Kiti' #53619.
+[18:50:10	]Muhammet Özgürtaş has hit npc_zombie in the head dealing 45 damage (CritChance was 0.15).
+[18:50:13	]Muhammet Özgürtaş has hit npc_zombie in the right arm dealing 45 damage (CritChance was 0.15).
+[18:50:15	]Muhammet Özgürtaş has hit npc_zombie in the chest dealing 18 damage (CritChance was 0.15).
+[18:50:16	]Muhammet Özgürtaş has hit npc_zombie in the head dealing 18 damage (CritChance was 0.15).
+[18:50:27	]Muhammet Özgürtaş has hit npc_zombie dealing 45 damage (CritChance was 0.15).
+[18:50:30	]Muhammet Özgürtaş has hit npc_zombie in the chest dealing 45 damage (CritChance was 0.15).
+[18:51:03	]Muhammet Özgürtaş ran 'Consume' on item 'Votka' (#54628)
+[18:51:03	]Muhammet Özgürtaş has updated their Güç long boost target to -2 (current : -1).
+[18:51:03	]Muhammet Özgürtaş extended their level 4 long boost in Çeviklik.
+[18:51:03	]Muhammet Özgürtaş has gained a 'Boş Votka Şişesi' #55987.
+[18:51:05	]Muhammet Özgürtaş ran 'drop' on item 'Boş Votka Şişesi' (#55987)
+[18:51:05	]Muhammet Özgürtaş has lost a 'Boş Votka Şişesi' #55987.
+[18:51:08	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Antlion Eti' (#55728)
+[18:51:26	]Muhammet Özgürtaş ran 'drop' on item 'Tıbbi Direnişçi Üniforması' (#38829)
+[18:51:26	]Muhammet Özgürtaş has lost a 'Tıbbi Direnişçi Üniforması' #38829.
+[18:51:28	]Muhammet Özgürtaş ran 'take' on item 'Tıbbi Direnişçi Üniforması' (#55990)
+[18:51:28	]Muhammet Özgürtaş has gained a 'Tıbbi Direnişçi Üniforması' #55990.
+[18:51:43	]Muhammet Özgürtaş ran 'take' on item 'Vida Kutusu' (#55993)
+[18:51:43	]Muhammet Özgürtaş has gained a 'Vida Kutusu' #55993.
+[18:51:47	]Scientist has connected.
+[18:52:02	]Muhammet Özgürtaş has hit npc_zombie in the chest dealing 45 damage (CritChance was 0.15).
+[18:52:04	]Muhammet Özgürtaş has hit npc_zombie in the head dealing 18 damage (CritChance was 0.15).
+[18:52:19	]Muhammet Özgürtaş has hit npc_headcrab dealing 45 damage (CritChance was 0.15).
+[18:52:39	]Muhammet Özgürtaş ran 'take' on item 'Vida Kutusu' (#56008)
+[18:52:39	]Muhammet Özgürtaş has gained a 'Vida Kutusu' #56008.
+[18:52:40	]Muhammet Özgürtaş ran 'combine' on item 'Vida Kutusu' (#55993)
+[18:52:49	]Muhammet Özgürtaş ran 'drop' on item 'Vida Kutusu' (#55993)
+[18:52:49	]Muhammet Özgürtaş has lost a 'Vida Kutusu' #55993.
+[18:52:52	]Muhammet Özgürtaş ran 'Consume' on item 'Viski' (#54626)
+[18:52:52	]Muhammet Özgürtaş extended their level -1 long boost in Güç.
+[18:52:52	]Muhammet Özgürtaş extended their level 4 long boost in Zeka.
+[18:52:52	]Muhammet Özgürtaş has wasted a level -1 long boost in Algı (current: -1; target: 1).
+[18:52:52	]Muhammet Özgürtaş has gained a 'Boş Viski Şişesi' #56009.
+[18:52:54	]Muhammet Özgürtaş ran 'drop' on item 'Boş Viski Şişesi' (#56009)
+[18:52:54	]Muhammet Özgürtaş has lost a 'Boş Viski Şişesi' #56009.
+[18:52:57	]Muhammet Özgürtaş ran 'EquipUn' on item 'Frag Grenade' (#53897)
+[18:52:57	]Muhammet Özgürtaş ran 'EquipUn' on item 'Helsing Bolt Rifle' (#44969)
+[18:52:57	]Muhammet Özgürtaş has gained a '8rnd Helsing-şarjörü' #44491.
+[18:52:58	]Muhammet Özgürtaş ran 'EquipUn' on item 'Spade' (#41048)
+[18:53:45	]Muhammet Özgürtaş opened the 'Büyük Kutu' #5522 container.
+[18:53:52	]Muhammet Özgürtaş closed the 'Büyük Kutu' #5522 container.
+[18:53:54	]Muhammet Özgürtaş ran 'Place' on item 'Tencere' (#55963)
+[18:53:54	]Muhammet Özgürtaş has lost a 'Tencere' #55963.
+[18:53:58	]Muhammet Özgürtaş ran 'filtrate' on item 'Su Şişesi' (#50887)
+[18:54:01	]Muhammet Özgürtaş opened the 'Büyük Buzdolabı' #5521 container.
+[18:54:03	]Muhammet Özgürtaş closed the 'Büyük Buzdolabı' #5521 container.
+[18:54:06	]Muhammet Özgürtaş ran 'take' on item 'Araba Aküsü' (#48699)
+[18:54:06	]Muhammet Özgürtaş has gained a 'Araba Aküsü' #48699.
+[18:54:13	]Muhammet Özgürtaş has performed the 'Craft Parçala: Araba Aküsü' action, gaining 120 experience in crafting.
+[18:54:13	]Muhammet Özgürtaş has gained a 'Rafine Edilmemiş Kimyasallar' #56010.
+[18:54:13	]Muhammet Özgürtaş has gained a 'Hurda Metal' #56011.
+[18:54:17	]Muhammet Özgürtaş has performed the 'Craft Çıra Kutusu' action, gaining 100 experience in crafting.
+[18:54:17	]Muhammet Özgürtaş has gained a 'Çıra Kutusu' #56012.
+[18:54:24	]Muhammet Özgürtaş ran 'drop' on item 'Hurda Metal' (#56011)
+[18:54:24	]Muhammet Özgürtaş has lost a 'Hurda Metal' #56011.
+[18:55:03	]Muhammet Özgürtaş ran 'Light' on item 'Çıra Kutusu' (#56012)
+[18:55:14	][IC] Muhammet Özgürtaş: Siktir.
+[18:55:23	][LOOC] Muhammet Özgürtaş: yanlışlıkla ateş yaktım
+[18:56:02	]Muhammet Özgürtaş ran 'fill' on item 'Su Şişesi' (#50887)
+[18:56:03	]Muhammet Özgürtaş ran 'filtrate' on item 'Su Şişesi' (#50888)
+[18:56:04	]Muhammet Özgürtaş opened the 'Büyük Kutu' #5522 container.
+[18:56:13	]Muhammet Özgürtaş closed the 'Büyük Kutu' #5522 container.
+[18:56:18	]Muhammet Özgürtaş ran 'Equip' on item 'Spade' (#41048)
+[18:56:58	][LOOC] Muhammet Özgürtaş: yanlışlıkla ateş yaktım amk
+[18:57:06	]Muhammet Özgürtaş opened the 'Büyük Buzdolabı' #5521 container.
+[18:57:08	]Muhammet Özgürtaş closed the 'Büyük Buzdolabı' #5521 container.
+[18:57:26	]Scientist loaded the character 'Tlu'urn'
+[18:57:31	]Tlu'urn is fully healed.
+[18:57:36	]Muhammet Özgürtaş used command '/PM tlu amk yanlışlıkla ateş yaktım'.
+[18:58:06	]Muhammet Özgürtaş ran 'filtrate' on item 'Su Şişesi' (#50888)
+[18:58:08	]Muhammet Özgürtaş ran 'fill' on item 'Su Şişesi' (#50888)
+[18:58:10	]Muhammet Özgürtaş ran 'take' on item 'Tencere' (#55963)
+[18:58:10	]Muhammet Özgürtaş has gained a 'Tencere' #55963.
+[18:58:25	]Muhammet Özgürtaş ran 'Equip' on item 'Frag Grenade' (#53897)
+[18:58:25	]Muhammet Özgürtaş ran 'Equip' on item 'Helsing Bolt Rifle' (#44969)
+[18:58:26	]Tlu'urn used command '/PM muh den'.
+[18:58:28	]Muhammet Özgürtaş used command '/PM tlu amk yanlışlıkla ateş yaktım'.
+[18:58:29	]Tlu'urn used command '/PM muh dene'.
+[18:58:43	]Muhammet Özgürtaş used command '/PM tlu galanga'.
+[18:58:43	]Tlu'urn used command '/PM muh olmaz ise /reply yaz'.
+[18:58:51	]Muhammet Özgürtaş used command '/Reply'.
+[18:59:02	]Muhammet Özgürtaş used command '/Reply knk yanlışlıkla ateş yaktım nasıl söndürülüyor'.
+[18:59:14	]Tlu'urn used command '/PM muh bekle o olayı hallediyorum.'.
+[18:59:20	]Tlu'urn used command '/SetVoicemail'.
+[18:59:22	]Muhammet Özgürtaş ran 'take' on item 'Vida Kutusu' (#55993)
+[18:59:22	]Muhammet Özgürtaş has gained a 'Vida Kutusu' #55993.
+[18:59:25	]Tlu'urn used command '/PM muh şimdi dene'.
+[18:59:30	]Muhammet Özgürtaş used command '/PM tlu'.
+[18:59:33	]Muhammet Özgürtaş used command '/PM tlu oldu'.
+[18:59:40	]Tlu'urn used command '/PM muh /setvoicemail'.
+[18:59:55	][LOOC] Tlu'urn: ateş yaktın ve söndüremüyor musun_? neyde ateş yaktın
+[19:00:01	]Muhammet Özgürtaş has lost a '8rnd Helsing-şarjörü' #44587.
+[19:00:06	]Tlu'urn used command '/Reply ateş yaktın ve söndüremiyor musun neyde ateş yaktın?'.
+[19:00:12	]Muhammet Özgürtaş has taken 5 damage from npc_headcrab.
+[19:00:13	]Muhammet Özgürtaş has taken 5 damage from npc_headcrab.
+[19:00:14	]Muhammet Özgürtaş has hit npc_headcrab dealing 45 damage (CritChance was 0.15).
+[19:00:16	]Muhammet Özgürtaş is fully healed.
+[19:00:21	]Muhammet Özgürtaş used command '/PM tlu yanlışlıkla yaktım'.
+[19:00:28	]Tlu'urn used command '/Reply neyde?'.
+[19:00:47	]Muhammet Özgürtaş used command '/PM tlu boşver ateşin oradan gittim sorun olmaz heralde ateş'.
+[19:00:58	]Muhammet Özgürtaş used command '/PM tlu bir admin gelince siler en kötü'.
+[19:01:01	]Tlu'urn used command '/Reply kamp ateşi mi yoksa serbest ateş mi'.
+[19:01:01	]Muhammet Özgürtaş has critically hit npc_zombie in the head dealing 90 damage (CritChance was 0.15).
+[19:01:08	]Muhammet Özgürtaş used command '/PM tlu kamp ateşi'.
+[19:01:14	]Tlu'urn used command '/PM muh bir şey olmaz'.
+[19:01:43	]Muhammet Özgürtaş ran 'take' on item 'Yapıştırıcı' (#56026)
+[19:01:46	]Muhammet Özgürtaş ran 'take' on item 'Yapıştırıcı' (#56026)
+[19:01:46	]Muhammet Özgürtaş has gained a 'Yapıştırıcı' #56026.
+[19:01:47	]Muhammet Özgürtaş ran 'combine' on item 'Yapıştırıcı' (#55644)
+[19:02:10	]Tlu'urn used command '/EnterMeditation'.
+[19:02:11	]Tlu'urn used command '/EnterMeditation'.
+[19:03:46	]Muhammet Özgürtaş ran 'take' on item 'Yapıştırıcı' (#56030)
+[19:03:46	]Muhammet Özgürtaş has gained a 'Yapıştırıcı' #56030.
+[19:03:48	]Muhammet Özgürtaş ran 'combine' on item 'Yapıştırıcı' (#55644)
+[19:03:50	]Muhammet Özgürtaş ran 'take' on item 'Bilgisayar Parçaları' (#56028)
+[19:03:50	]Muhammet Özgürtaş has gained a 'Bilgisayar Parçaları' #56028.
+[19:03:51	]Muhammet Özgürtaş ran 'drop' on item 'Araç Kiti' (#53619)
+[19:03:51	]Muhammet Özgürtaş has lost a 'Araç Kiti' #53619.
+[19:03:55	]Muhammet Özgürtaş has performed the 'Craft Parçala: Bilgisayar Parçaları' action, gaining 35 experience in crafting.
+[19:03:55	]Muhammet Özgürtaş has gained a 'Elektronik devreler' #56031.
+[19:03:57	]Muhammet Özgürtaş ran 'drop' on item 'Elektronik devreler' (#56031)
+[19:03:57	]Muhammet Özgürtaş has lost a 'Elektronik devreler' #56031.
+[19:03:59	]Muhammet Özgürtaş ran 'take' on item 'Araç Kiti' (#53619)
+[19:03:59	]Muhammet Özgürtaş has gained a 'Araç Kiti' #53619.
+[19:04:27	]Muhammet Özgürtaş ran 'take' on item 'Kahverengi Ayakkabı' (#56032)
+[19:04:27	]Muhammet Özgürtaş has gained a 'Kahverengi Ayakkabı' #56032.
+[19:04:31	]Muhammet Özgürtaş has performed the 'Craft Parçala: Kahverengi Ayakkabı' action, gaining 12 experience in crafting.
+[19:04:31	]Muhammet Özgürtaş has gained a 'Bez Paçavralar' #56035.
+[19:04:55	]Muhammet Özgürtaş has hit npc_zombie in the chest dealing 45 damage (CritChance was 0.15).
+[19:04:56	]Muhammet Özgürtaş has hit npc_zombie in the chest dealing 18 damage (CritChance was 0.15).
+[19:04:59	]Muhammet Özgürtaş has hit npc_zombie in the head dealing 45 damage (CritChance was 0.15).
+[19:04:59	]Muhammet Özgürtaş has gained level 8 in the Yakın Dövüş skill.
+[19:05:03	]Muhammet Özgürtaş has hit npc_zombie in the chest dealing 45 damage (CritChance was 0.18).
+[19:05:05	]Muhammet Özgürtaş has hit npc_zombie dealing 45 damage (CritChance was 0.18).
+[19:05:22	]Muhammet Özgürtaş ran 'take' on item 'Bez Paçavralar' (#56041)
+[19:05:25	]Muhammet Özgürtaş ran 'drop' on item 'Rafine Edilmemiş Kimyasallar' (#56010)
+[19:05:25	]Muhammet Özgürtaş has lost a 'Rafine Edilmemiş Kimyasallar' #56010.
+[19:05:26	]Muhammet Özgürtaş ran 'take' on item 'Bez Paçavralar' (#56041)
+[19:05:26	]Muhammet Özgürtaş has gained a 'Bez Paçavralar' #56041.
+[19:05:27	]Muhammet Özgürtaş ran 'combine' on item 'Bez Paçavralar' (#56035)
+[19:05:29	]Muhammet Özgürtaş ran 'take' on item 'Rafine Edilmemiş Kimyasallar' (#56010)
+[19:05:29	]Muhammet Özgürtaş has gained a 'Rafine Edilmemiş Kimyasallar' #56010.
+[19:05:51	]Muhammet Özgürtaş ran 'take' on item 'Boş Süt Kartonu' (#56046)
+[19:05:53	]Muhammet Özgürtaş ran 'drop' on item 'Rafine Edilmemiş Kimyasallar' (#56010)
+[19:05:53	]Muhammet Özgürtaş has lost a 'Rafine Edilmemiş Kimyasallar' #56010.
+[19:05:56	]Muhammet Özgürtaş ran 'take' on item 'Boş Süt Kartonu' (#56046)
+[19:05:56	]Muhammet Özgürtaş has gained a 'Boş Süt Kartonu' #56046.
+[19:06:02	]Muhammet Özgürtaş has performed the 'Craft Parçala: Boş Süt Kartonu' action, gaining 12 experience in crafting.
+[19:06:04	]Muhammet Özgürtaş ran 'take' on item 'Rafine Edilmemiş Kimyasallar' (#56010)
+[19:06:04	]Muhammet Özgürtaş has gained a 'Rafine Edilmemiş Kimyasallar' #56010.
+[19:06:08	]Muhammet Özgürtaş has performed the 'Craft Çıra Kutusu' action, gaining 100 experience in crafting.
+[19:06:08	]Muhammet Özgürtaş has gained a 'Çıra Kutusu' #56049.
+[19:06:30	]Muhammet Özgürtaş has gained a '8rnd Helsing-şarjörü' #44587.
+[19:06:30	]Muhammet Özgürtaş has lost a '8rnd Helsing-şarjörü' #44491.
+[19:08:01	]Tlu'urn used command '/EnterMeditation'.
+[19:08:02	]Muhammet Özgürtaş used command '/PM tlu sen şuan malikanedesin değilmi oraya gelmeye çalışıyorum çünkü'.
+[19:08:03	]Tlu'urn used command '/EnterMeditation'.
+[19:08:09	]Muhammet Özgürtaş ran 'Place' on item 'Tencere' (#55963)
+[19:08:35	]Tlu'urn used command '/Reply 2 kişi olsak bile meta yapamam ama dediğim sözleri hatırla'.
+[19:09:17	]Muhammet Özgürtaş has gained a '8rnd Helsing-şarjörü' #44491.
+[19:09:17	]Muhammet Özgürtaş has lost a '8rnd Helsing-şarjörü' #44587.
+[19:09:54	]Tlu'urn ran 'take' on item 'Çiğ Headcrab Eti' (#55911)
+[19:09:54	]Tlu'urn has gained a 'Çiğ Headcrab Eti' #55911.
+[19:09:56	]Tlu'urn ran 'take' on item 'Çiğ Headcrab Eti' (#55912)
+[19:09:56	]Tlu'urn has gained a 'Çiğ Headcrab Eti' #55912.
+[19:09:59	]Tlu'urn ran 'combine' on item 'Çiğ Headcrab Eti' (#55912)
+[19:10:00	]Tlu'urn ran 'combine' on item 'Çiğ Headcrab Eti' (#53539)
+[19:10:16	]Muhammet Özgürtaş ran 'Consume' on item 'Ham Sülük Karkası' (#55964)
+[19:10:35	][Y] Muhammet Özgürtaş: TLU.
+[19:10:50	][IC] Muhammet Özgürtaş: Gel.
+[19:10:59	][IC] Muhammet Özgürtaş: Headcrab etlerini sana veriyim mi.
+[19:11:07	][IC] Muhammet Özgürtaş: Ve antlion.
+[19:11:20	][IC] Tlu'urn: Olabilir.
+[19:11:22	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#54713)
+[19:11:22	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #54713.
+[19:11:23	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Antlion Eti' (#55728)
+[19:11:23	]Muhammet Özgürtaş has lost a 'Çiğ Antlion Eti' #55728.
+[19:11:24	]Tlu'urn ran 'take' on item 'Çiğ Headcrab Eti' (#54713)
+[19:11:24	]Tlu'urn has gained a 'Çiğ Headcrab Eti' #54713.
+[19:11:26	]Tlu'urn ran 'take' on item 'Çiğ Antlion Eti' (#55728)
+[19:11:27	][IC] Muhammet Özgürtaş: Al zaten çok yok.
+[19:11:29	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Antlion Eti' (#55726)
+[19:11:29	]Muhammet Özgürtaş has lost a 'Çiğ Antlion Eti' #55726.
+[19:11:33	]Tlu'urn ran 'drop' on item 'Çiğ Headcrab Eti' (#55912)
+[19:11:33	]Tlu'urn has lost a 'Çiğ Headcrab Eti' #55912.
+[19:11:33	][IC] Muhammet Özgürtaş: Antlion eti bunlar.
+[19:11:35	]Tlu'urn ran 'take' on item 'Çiğ Antlion Eti' (#55726)
+[19:11:35	]Tlu'urn has gained a 'Çiğ Antlion Eti' #55726.
+[19:11:38	]Tlu'urn ran 'take' on item 'Çiğ Antlion Eti' (#55728)
+[19:11:56	][IC] Tlu'urn: Bende bir sürü var ve burada depo yok.
+[19:11:57	]Tlu'urn ran 'drop' on item 'Çiğ Antlion Eti' (#55726)
+[19:11:57	]Tlu'urn has lost a 'Çiğ Antlion Eti' #55726.
+[19:11:59	]Tlu'urn ran 'drop' on item 'Çiğ Headcrab Eti' (#54713)
+[19:11:59	]Tlu'urn has lost a 'Çiğ Headcrab Eti' #54713.
+[19:12:01	]Tlu'urn ran 'take' on item 'Çiğ Antlion Eti' (#55726)
+[19:12:01	]Tlu'urn has gained a 'Çiğ Antlion Eti' #55726.
+[19:12:02	]Tlu'urn ran 'take' on item 'Çiğ Antlion Eti' (#55728)
+[19:12:02	]Tlu'urn has gained a 'Çiğ Antlion Eti' #55728.
+[19:12:03	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55912)
+[19:12:03	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55912.
+[19:12:04	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#54713)
+[19:12:04	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #54713.
+[19:12:19	][IC] Tlu'urn: Headcrableri al ve ye ama antlion ben de hiç yoktu işime yarar.
+[19:12:23	][IC] Muhammet Özgürtaş: Buraya yerleşeceğimize eminmisin ona göre buraya eşya yapıcam.
+[19:12:29	]Muhammet Özgürtaş ran 'Consume' on item 'Çiğ Headcrab Eti' (#55912)
+[19:12:38	][IC] Tlu'urn: Acıkırsan buraya gel bir şeyler veririm.
+[19:12:55	][IC] Tlu'urn: Burası combine'dan uzak ve bilinmiyor gelmek için mağaraya girmek gerek ve combine bunu pek sevmez.
+[19:13:30	][IC] Muhammet Özgürtaş: Buraya yerleşiceksek bir üretim tezgahı ve dolap yapmamız lazım.
+[19:13:33	][IC] Tlu'urn: Gayet güvenli yani burayı bir yer olarak kullanabiliriz.
+[19:13:48	][IC] Muhammet Özgürtaş: Belki direnişi biz kurarız veya kuranlara burayı gösteririz.
+[19:14:14	][IC] Tlu'urn: O kanalizasyondaki yerde oldukça güzel ama karakolun dibinde ve oraya bir fırlatıcı atılmış. Binayı yerle bir etmiş.
+[19:14:25	][IC] Tlu'urn: Büyük ihtimalle orayı biliyorlar ama burada hiçbir sıkıntı yok.
+[19:14:57	][IC] Muhammet Özgürtaş: Tamam ben lağımda biraz eşya toplıycam gereksiz eşyalarımı evin içine koyuyorum.
+[19:15:10	][IC] Tlu'urn: Hatta burada yerin altını bile kazıp orada yaşayabiliriz.
+[19:15:26	][IC] Tlu'urn: Böylece yerimizi bulup headcrab fırlatıcıları atsalarda pek sıkıntı olmaz.
+[19:15:41	][IC] Muhammet Özgürtaş: Yani headcrab fırlatıcıları sorun değil çok.
+[19:15:44	][IC] Muhammet Özgürtaş: Antlionlar sıkıntı.
+[19:15:45	][LOOC] Tlu'urn: ravenholm senaryosu aklıma geldi baya güvenli olunca bura
+[19:16:02	][IC] Muhammet Özgürtaş: Ben evin içine gereksiz eşyaları koyup lağıma geri gidicem.
+[19:16:06	][IC] Muhammet Özgürtaş: Biraz eşya toplayıp gelirim.
+[19:16:08	][IC] Tlu'urn: Tamamdır.
+[19:16:17	]Muhammet Özgürtaş ran 'drop' on item '60rnd OTAR-Şarjörü' (#47928)
+[19:16:17	]Muhammet Özgürtaş has lost a '60rnd OTAR-Şarjörü' #47928.
+[19:16:18	]Muhammet Özgürtaş ran 'drop' on item '60rnd OTAR-Şarjörü' (#47924)
+[19:16:18	]Muhammet Özgürtaş has lost a '60rnd OTAR-Şarjörü' #47924.
+[19:16:19	]Muhammet Özgürtaş ran 'drop' on item '60rnd OTAR-Şarjörü' (#47937)
+[19:16:19	]Muhammet Özgürtaş has lost a '60rnd OTAR-Şarjörü' #47937.
+[19:16:22	][IC] Tlu'urn: Burası yaşanılabilir yer olabilir.
+[19:16:27	][IC] Tlu'urn: Karşı taraf ise depo ve bilim yeri.
+[19:16:47	][IC] Muhammet Özgürtaş: Şu şarjörler burada kalsın.
+[19:16:55	][IC] Muhammet Özgürtaş: Ve kelepçeler.
+[19:16:56	]Muhammet Özgürtaş ran 'drop' on item 'Lastik Kelepçe' (#50072)
+[19:16:56	]Muhammet Özgürtaş has lost a 'Lastik Kelepçe' #50072.
+[19:16:57	]Muhammet Özgürtaş ran 'drop' on item 'Lastik Kelepçe' (#48288)
+[19:16:57	]Muhammet Özgürtaş has lost a 'Lastik Kelepçe' #48288.
+[19:17:10	][IC] Muhammet Özgürtaş: Ben gidiyorum sonra gelicem.
+[19:18:10	]Tlu'urn destroyed a 'Boş Kahve Fincanı' #55962.
+[19:20:05	]Muhammet Özgürtaş ran 'Consume' on item 'Bir Fincan Kahve' (#55458)
+[19:20:05	]Muhammet Özgürtaş has updated their Çeviklik long boost target to 2 (current : 4).
+[19:20:05	]Muhammet Özgürtaş has gained a 'Boş Kahve Fincanı' #56051.
+[19:20:07	]Muhammet Özgürtaş ran 'drop' on item 'Boş Kahve Fincanı' (#56051)
+[19:20:07	]Muhammet Özgürtaş has lost a 'Boş Kahve Fincanı' #56051.
+[19:20:56	]Muhammet Özgürtaş used command '/ActDown'.
+[19:20:57	]Muhammet Özgürtaş used command '/ExitAct'.
+[19:21:14	]Muhammet Özgürtaş has taken 7 damage from trigger_hurt.
+[19:21:27	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55813)
+[19:21:27	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55813.
+[19:21:46	]Muhammet Özgürtaş has critically hit npc_zombie in the chest dealing 90 damage (CritChance was 0.18).
+[19:21:56	]Muhammet Özgürtaş ran 'take' on item 'Plastik Levhalar' (#56058)
+[19:21:56	]Muhammet Özgürtaş has gained a 'Plastik Levhalar' #56058.
+[19:22:08	]Muhammet Özgürtaş ran 'take' on item 'Yapıştırıcı' (#56060)
+[19:22:08	]Muhammet Özgürtaş has gained a 'Yapıştırıcı' #56060.
+[19:22:10	]Muhammet Özgürtaş has hit npc_zombie dealing 45 damage (CritChance was 0.18).
+[19:22:12	]Muhammet Özgürtaş has hit npc_zombie dealing 18 damage (CritChance was 0.18).
+[19:22:19	]Muhammet Özgürtaş has hit npc_zombie dealing 45 damage (CritChance was 0.18).
+[19:22:20	]Muhammet Özgürtaş has hit npc_zombie in the head dealing 18 damage (CritChance was 0.18).
+[19:22:23	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56063)
+[19:22:23	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56063.
+[19:22:25	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55971)
+[19:22:25	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55971.
+[19:22:30	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55848)
+[19:22:30	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55848.
+[19:22:31	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55974)
+[19:22:31	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55974.
+[19:22:32	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55972)
+[19:22:32	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55972.
+[19:22:34	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55971)
+[19:22:34	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56063)
+[19:22:35	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56063)
+[19:22:37	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#55974)
+[19:22:37	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #55974.
+[19:23:19	]Tlu'urn ran 'take' on item 'Bozuk 9mm Tabanca' (#55571)
+[19:23:22	]Muhammet Özgürtaş ran 'take' on item 'Tıbbi Direnişçi Üniforması' (#56069)
+[19:23:22	]Muhammet Özgürtaş has gained a 'Tıbbi Direnişçi Üniforması' #56069.
+[19:23:23	]Muhammet Özgürtaş ran 'drop' on item 'Tıbbi Direnişçi Üniforması' (#55990)
+[19:23:23	]Muhammet Özgürtaş has lost a 'Tıbbi Direnişçi Üniforması' #55990.
+[19:23:27	]Muhammet Özgürtaş ran 'take' on item 'Vida Kutusu' (#56068)
+[19:23:27	]Muhammet Özgürtaş has gained a 'Vida Kutusu' #56068.
+[19:23:28	]Muhammet Özgürtaş ran 'combine' on item 'Vida Kutusu' (#55993)
+[19:23:40	]Muhammet Özgürtaş ran 'take' on item 'Demir' (#56072)
+[19:23:40	]Muhammet Özgürtaş has gained a 'Demir' #56072.
+[19:23:43	]Tlu'urn ran 'drop' on item 'Çiğ Headcrab Eti' (#53550)
+[19:23:43	]Tlu'urn has lost a 'Çiğ Headcrab Eti' #53550.
+[19:23:44	]Muhammet Özgürtaş ran 'combine' on item 'Yapıştırıcı' (#55644)
+[19:23:45	]Tlu'urn ran 'drop' on item 'Çiğ Headcrab Eti' (#53593)
+[19:23:45	]Tlu'urn has lost a 'Çiğ Headcrab Eti' #53593.
+[19:23:46	]Tlu'urn ran 'drop' on item 'Ham Sülük Karkası' (#55915)
+[19:23:46	]Tlu'urn has lost a 'Ham Sülük Karkası' #55915.
+[19:23:47	]Tlu'urn ran 'drop' on item 'Çiğ Antlion Eti' (#55726)
+[19:23:47	]Tlu'urn has lost a 'Çiğ Antlion Eti' #55726.
+[19:23:48	]Tlu'urn ran 'drop' on item 'Su Şişesi' (#51840)
+[19:23:48	]Tlu'urn has lost a 'Su Şişesi' #51840.
+[19:23:49	]Tlu'urn ran 'drop' on item 'Çiğ Antlion Eti' (#55728)
+[19:23:49	]Tlu'urn has lost a 'Çiğ Antlion Eti' #55728.
+[19:23:54	]Tlu'urn ran 'take' on item 'Bozuk 9mm Tabanca' (#55571)
+[19:23:54	]Tlu'urn has gained a 'Bozuk 9mm Tabanca' #55571.
+[19:24:03	]Muhammet Özgürtaş ran 'take' on item 'Ahşap Tahta' (#56074)
+[19:24:03	]Muhammet Özgürtaş has gained a 'Ahşap Tahta' #56074.
+[19:24:12	]Muhammet Özgürtaş has hit npc_zombie in the head dealing 45 damage (CritChance was 0.18).
+[19:24:18	]Tlu'urn ran 'drop' on item 'Bozuk 9mm Tabanca' (#55571)
+[19:24:18	]Tlu'urn has lost a 'Bozuk 9mm Tabanca' #55571.
+[19:24:20	]Tlu'urn ran 'take' on item 'Su Şişesi' (#51840)
+[19:24:20	]Tlu'urn has gained a 'Su Şişesi' #51840.
+[19:24:21	]Tlu'urn ran 'take' on item 'Çiğ Headcrab Eti' (#53593)
+[19:24:21	]Tlu'urn has gained a 'Çiğ Headcrab Eti' #53593.
+[19:24:22	]Tlu'urn ran 'take' on item 'Çiğ Antlion Eti' (#55726)
+[19:24:22	]Tlu'urn has gained a 'Çiğ Antlion Eti' #55726.
+[19:24:24	]Tlu'urn ran 'take' on item 'Çiğ Antlion Eti' (#55728)
+[19:24:24	]Tlu'urn has gained a 'Çiğ Antlion Eti' #55728.
+[19:24:25	]Tlu'urn ran 'take' on item 'Ham Sülük Karkası' (#55915)
+[19:24:25	]Tlu'urn has gained a 'Ham Sülük Karkası' #55915.
+[19:24:26	]Tlu'urn ran 'take' on item 'Çiğ Headcrab Eti' (#53550)
+[19:24:26	]Tlu'urn has gained a 'Çiğ Headcrab Eti' #53550.
+[19:24:35	]Muhammet Özgürtaş ran 'take' on item 'Plastik Levhalar' (#56082)
+[19:24:35	]Muhammet Özgürtaş has gained a 'Plastik Levhalar' #56082.
+[19:24:36	]Muhammet Özgürtaş ran 'combine' on item 'Plastik Levhalar' (#56058)
+[19:24:38	]Tlu'urn ran 'take' on item '60rnd OTAR-Şarjörü' (#47937)
+[19:25:09	]Muhammet Özgürtaş has gained a 'Parçalanmış Çekmece' #56084.
+[19:25:16	]Muhammet Özgürtaş has performed the 'Craft Parçala: Parçalanmış Çekmece' action, gaining 20 experience in crafting.
+[19:25:16	]Muhammet Özgürtaş has gained a 'Çivi Kutusu' #56085.
+[19:25:19	]Muhammet Özgürtaş ran 'drop' on item 'Çivi Kutusu' (#56085)
+[19:25:19	]Muhammet Özgürtaş has lost a 'Çivi Kutusu' #56085.
+[19:25:51	]Muhammet Özgürtaş opened the 'Çöp Konteyneri' #5524 container.
+[19:25:52	]Muhammet Özgürtaş closed the 'Çöp Konteyneri' #5524 container.
+[19:25:53	]Muhammet Özgürtaş opened the 'Çöp Konteyneri' #5524 container.
+[19:25:53	]Muhammet Özgürtaş closed the 'Çöp Konteyneri' #5524 container.
+[19:25:54	]Muhammet Özgürtaş opened the 'Çöp Konteyneri' #5524 container.
+[19:25:56	]Muhammet Özgürtaş closed the 'Çöp Konteyneri' #5524 container.
+[19:25:57	]Muhammet Özgürtaş opened the 'Çöp Konteyneri' #5523 container.
+[19:25:58	]Muhammet Özgürtaş closed the 'Çöp Konteyneri' #5523 container.
+[19:26:22	][IC] Tlu'urn: I have a brain injury.
+[19:26:25	][IC] Tlu'urn: My brain is injured!
+[19:26:28	][IC] Tlu'urn: Ow.
+[19:26:52	]Muhammet Özgürtaş has gained a 'Yeşil Şişe' #56093.
+[19:26:53	]Muhammet Özgürtaş ran 'drop' on item 'Yeşil Şişe' (#56093)
+[19:26:53	]Muhammet Özgürtaş has lost a 'Yeşil Şişe' #56093.
+[19:27:24	]Muhammet Özgürtaş opened the 'çöp Konteynırı' #5482 container.
+[19:27:25	]Muhammet Özgürtaş closed the 'çöp Konteynırı' #5482 container.
+[19:27:26	]Muhammet Özgürtaş opened the 'çöp Konteynırı' #5481 container.
+[19:27:27	]Muhammet Özgürtaş closed the 'çöp Konteynırı' #5481 container.
+[19:27:38	]Muhammet Özgürtaş has gained a 'Eski Masa Saati' #56096.
+[19:27:39	][IC] Tlu'urn: I have a brain injury. My brain is injured, ow. I have a brain injury. My brain is injured, ow. I have a brain injury. My brain is injured, ow. I have a brain injury. My brain is injured, ow.
+[19:27:46	]Muhammet Özgürtaş has performed the 'Craft Parçala: Eski Masa Saati' action, gaining 50 experience in crafting.
+[19:27:47	]Muhammet Özgürtaş has gained a 'Elektronik devreler' #56097.
+[19:27:47	]Muhammet Özgürtaş has gained a 'Çivi Kutusu' #56098.
+[19:27:48	]Muhammet Özgürtaş ran 'drop' on item 'Elektronik devreler' (#56097)
+[19:27:48	]Muhammet Özgürtaş has lost a 'Elektronik devreler' #56097.
+[19:27:49	]Muhammet Özgürtaş ran 'drop' on item 'Çivi Kutusu' (#56098)
+[19:27:49	]Muhammet Özgürtaş has lost a 'Çivi Kutusu' #56098.
+[19:28:00	]Muhammet Özgürtaş has gained a 'Boş Bourbon Şişesi' #56099.
+[19:28:00	]Muhammet Özgürtaş has gained a 'Kırık Alıcı' #56100.
+[19:28:07	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:28:08	]Muhammet Özgürtaş ran 'drop' on item 'Boş Bourbon Şişesi' (#56099)
+[19:28:08	]Muhammet Özgürtaş has lost a 'Boş Bourbon Şişesi' #56099.
+[19:28:09	]Muhammet Özgürtaş ran 'drop' on item 'Kırık Alıcı' (#56100)
+[19:28:09	]Muhammet Özgürtaş has lost a 'Kırık Alıcı' #56100.
+[19:28:11	][IC] Tlu'urn: Ow.
+[19:28:12	]Muhammet Özgürtaş ran 'take' on item 'Kırık Alıcı' (#56100)
+[19:28:12	]Muhammet Özgürtaş has gained a 'Kırık Alıcı' #56100.
+[19:28:13	][IC] Tlu'urn: Ow.
+[19:28:13	]Muhammet Özgürtaş ran 'drop' on item 'Araç Kiti' (#53619)
+[19:28:13	]Muhammet Özgürtaş has lost a 'Araç Kiti' #53619.
+[19:28:17	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:28:17	]Muhammet Özgürtaş has performed the 'Craft Parçala: Kırık Alıcı' action, gaining 50 experience in crafting.
+[19:28:17	]Muhammet Özgürtaş has gained a 'Hurda Metal' #56101.
+[19:28:17	]Muhammet Özgürtaş has gained a 'Elektronik devreler' #56102.
+[19:28:17	]Muhammet Özgürtaş has gained a 'Çivi Kutusu' #56103.
+[19:28:19	][IC] Tlu'urn: Vorhum.
+[19:28:20	]Muhammet Özgürtaş ran 'drop' on item 'Elektronik devreler' (#56102)
+[19:28:20	]Muhammet Özgürtaş has lost a 'Elektronik devreler' #56102.
+[19:28:21	][IC] Tlu'urn: Vorhum.
+[19:28:21	]Muhammet Özgürtaş ran 'drop' on item 'Hurda Metal' (#56101)
+[19:28:21	]Muhammet Özgürtaş has lost a 'Hurda Metal' #56101.
+[19:28:22	]Muhammet Özgürtaş ran 'take' on item 'Araç Kiti' (#53619)
+[19:28:22	]Muhammet Özgürtaş has gained a 'Araç Kiti' #53619.
+[19:28:40	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:28:41	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:28:42	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:28:43	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:28:43	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:28:44	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:28:45	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:28:45	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:28:46	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:28:47	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:28:48	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:28:48	]Muhammet Özgürtaş ran 'drop' on item 'Çivi Kutusu' (#56103)
+[19:28:48	]Muhammet Özgürtaş has lost a 'Çivi Kutusu' #56103.
+[19:28:48	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:28:49	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:29:12	]Muhammet Özgürtaş ran 'take' on item 'Yapıştırıcı' (#56109)
+[19:29:12	]Muhammet Özgürtaş has gained a 'Yapıştırıcı' #56109.
+[19:29:15	]Muhammet Özgürtaş ran 'combine' on item 'Yapıştırıcı' (#55644)
+[19:29:40	]Muhammet Özgürtaş ran 'EquipUn' on item 'Helsing Bolt Rifle' (#44969)
+[19:29:40	]Muhammet Özgürtaş has gained a '8rnd Helsing-şarjörü' #44587.
+[19:29:40	]Muhammet Özgürtaş ran 'EquipUn' on item 'Spade' (#41048)
+[19:29:41	]Muhammet Özgürtaş ran 'EquipUn' on item 'Frag Grenade' (#53897)
+[19:29:51	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:29:51	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:29:52	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:29:52	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:29:53	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:29:54	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:29:55	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:29:55	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:29:56	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:29:57	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:29:58	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:29:59	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:00	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:01	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:02	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:03	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:03	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:04	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:05	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:05	]Muhammet Özgürtaş opened the 'Kişisel Depo' stash.
+[19:30:07	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:07	]Muhammet Özgürtaş closed the 'Kişisel Depo' stash.
+[19:30:07	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:08	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:09	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:36	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:37	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:38	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:39	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:40	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:40	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:41	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:42	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:42	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:43	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:44	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:44	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:46	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:47	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:47	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:48	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:48	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:49	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:50	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:51	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:51	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:52	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:53	][IC] Tlu'urn: Vorthumvorthum.
+[19:30:54	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:55	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:56	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:57	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:58	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:30:59	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:29	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:29	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:30	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:31	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:32	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:33	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:35	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:35	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:36	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:37	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:37	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:38	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:39	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:39	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:40	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:41	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:41	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:42	][IC] Tlu'urn: V.
+[19:31:42	][IC] Tlu'urn: V.
+[19:31:44	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:45	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:46	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:47	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:47	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:48	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:49	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:49	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:50	][IC] Tlu'urn: V.
+[19:31:53	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:31:54	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:32:12	][IC] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:32:12	][IC] Tlu'urn: Ow.
+[19:32:14	][IC] Tlu'urn: Ow.
+[19:32:14	][IC] Tlu'urn: Ow.
+[19:32:15	][IC] Tlu'urn: Ow.
+[19:32:16	][IC] Tlu'urn: Ow.
+[19:32:16	][IC] Tlu'urn: Ow.
+[19:32:19	]Muhammet Özgürtaş used command '/PM tlu benim geri dönmem çok uzun sürücek svden çıkıcağın zaman yaz sen çıkmadan önce geliyim'.
+[19:32:32	]Muhammet Özgürtaş has gained a 'Parçalanmış Çekmece' #56110.
+[19:32:39	]Muhammet Özgürtaş has performed the 'Craft Parçala: Parçalanmış Çekmece' action, gaining 20 experience in crafting.
+[19:32:39	]Muhammet Özgürtaş has gained a 'Çivi Kutusu' #56111.
+[19:32:41	]Muhammet Özgürtaş ran 'drop' on item 'Çivi Kutusu' (#56111)
+[19:32:41	]Muhammet Özgürtaş has lost a 'Çivi Kutusu' #56111.
+[19:32:48	]Tlu'urn used command '/PM muh 2 kişi olunca gmod kasmıyor zaten çıkmam çıkmadan önce yazarım çıkarsam'.
+[19:33:21	]Tlu'urn used command '/PM muh ama afk bırakabilirim o zaman pmden yaz afklıktan çık diye(discord)'.
+[19:33:23	]Muhammet Özgürtaş ran 'take' on item 'Güçlü Yapıştırıcı' (#56118)
+[19:33:23	]Muhammet Özgürtaş has gained a 'Güçlü Yapıştırıcı' #56118.
+[19:33:27	]Muhammet Özgürtaş ran 'combine' on item 'Güçlü Yapıştırıcı' (#53066)
+[19:33:35	]Muhammet Özgürtaş used command '/PM tlu ok'.
+[19:33:48	][IC] Tlu'urn: Alert!
+[19:33:51	][IC] Tlu'urn: W.
+[19:33:52	][IC] Tlu'urn: Alarm.
+[19:33:56	][Y] Tlu'urn: Alert!
+[19:34:03	][Y] Tlu'urn: Return to the void!
+[19:34:27	][IC] Tlu'urn: The guardian...
+[19:34:30	][IC] Tlu'urn: The guardian!
+[19:34:33	][IC] Tlu'urn: Remember! Do not kill the guardian or the extract will be ruined!
+[19:34:47	][IC] Tlu'urn: The guardian bars our way, but now we are free to destroy it.
+[19:34:56	][IC] Tlu'urn: If we are to survive, this guardian must now die.
+[19:35:03	][IC] Tlu'urn: Kill the guardian now!
+[19:35:10	][IC] Tlu'urn: Ah, the ancient guardian! Retrieving the extract may not be unchallenging.
+[19:35:21	]Muhammet Özgürtaş has gained a 'Boş Plastik Sürahi' #56122.
+[19:35:22	][IC] Tlu'urn: The guardian's presence guarantees the nearness of larval clusters. They are commonly posted near the young.
+[19:35:22	]Muhammet Özgürtaş ran 'drop' on item 'Boş Plastik Sürahi' (#56122)
+[19:35:22	]Muhammet Özgürtaş has lost a 'Boş Plastik Sürahi' #56122.
+[19:35:32	][IC] Tlu'urn: The guardian is enraged over our theft of the extract.
+[19:36:11	]Muhammet Özgürtaş opened the 'çöp Konteynırı' #5481 container.
+[19:36:12	]Muhammet Özgürtaş closed the 'çöp Konteynırı' #5481 container.
+[19:36:48	]Muhammet Özgürtaş has gained a 'Boş Breen'in Suyu' #56130.
+[19:36:49	]Muhammet Özgürtaş ran 'drop' on item 'Boş Breen'in Suyu' (#56130)
+[19:36:49	]Muhammet Özgürtaş has lost a 'Boş Breen'in Suyu' #56130.
+[19:37:23	][IC] Tlu'urn: Guardian1.
+[19:37:25	][IC] Tlu'urn: The guardian...
+[19:37:27	][IC] Tlu'urn: The guardian!
+[19:37:35	][IC] Tlu'urn: Kill the guardian now!
+[19:37:40	][IC] Tlu'urn: The guardian!
+[19:37:43	]Muhammet Özgürtaş ran 'Equip' on item 'Frag Grenade' (#53897)
+[19:37:43	][IC] Tlu'urn: If we are to survive, this guardian must now die.
+[19:37:43	]Muhammet Özgürtaş ran 'Equip' on item 'Spade' (#41048)
+[19:37:44	]Muhammet Özgürtaş ran 'Equip' on item 'Helsing Bolt Rifle' (#44969)
+[19:37:46	]Muhammet Özgürtaş has lost a '8rnd Helsing-şarjörü' #44587.
+[19:37:51	][IC] Tlu'urn: Kill the guardian now!
+[19:37:55	][IC] Tlu'urn: The guardian!
+[19:37:55	]Muhammet Özgürtaş has hit npc_headcrab dealing 45 damage (CritChance was 0.18).
+[19:37:59	][IC] Tlu'urn: Kill the guardian now!
+[19:37:59	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56145)
+[19:37:59	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56145.
+[19:38:02	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56019)
+[19:38:02	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56019.
+[19:38:05	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56017)
+[19:38:05	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56017.
+[19:38:07	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56145)
+[19:38:07	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56145)
+[19:38:10	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56005)
+[19:38:10	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56005.
+[19:38:11	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56145)
+[19:38:19	]Muhammet Özgürtaş has critically hit npc_zombie in the head dealing 90 damage (CritChance was 0.18).
+[19:39:04	]Muhammet Özgürtaş ran 'take' on item 'Çelik' (#56158)
+[19:39:04	]Muhammet Özgürtaş has gained a 'Çelik' #56158.
+[19:39:15	][IC] Tlu'urn: Calm Yourself.
+[19:39:21	][IC] Tlu'urn: Assent.
+[19:39:29	][IC] Tlu'urn: Antlion.
+[19:39:30	]Muhammet Özgürtaş has hit npc_zombie dealing 45 damage (CritChance was 0.18).
+[19:39:31	][IC] Tlu'urn: Antlions!
+[19:39:32	]Muhammet Özgürtaş has hit npc_zombie in the head dealing 18 damage (CritChance was 0.18).
+[19:39:43	]Muhammet Özgürtaş ran 'take' on item 'Yapıştırıcı' (#56165)
+[19:39:43	]Muhammet Özgürtaş has gained a 'Yapıştırıcı' #56165.
+[19:39:44	][IC] Tlu'urn: Cooking.
+[19:39:45	]Muhammet Özgürtaş has hit npc_zombie in the head dealing 45 damage (CritChance was 0.18).
+[19:39:49	]Muhammet Özgürtaş has hit npc_zombie in the chest dealing 45 damage (CritChance was 0.18).
+[19:39:50	]Muhammet Özgürtaş has hit npc_zombie in the chest dealing 18 damage (CritChance was 0.18).
+[19:39:53	]Muhammet Özgürtaş ran 'combine' on item 'Yapıştırıcı' (#55644)
+[19:40:07	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55865)
+[19:40:07	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55865.
+[19:40:08	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55834)
+[19:40:08	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55834.
+[19:40:09	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55832)
+[19:40:09	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55832.
+[19:40:11	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55832)
+[19:40:12	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55832)
+[19:40:14	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55864)
+[19:40:14	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55864.
+[19:40:15	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55975)
+[19:40:15	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55975.
+[19:40:16	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55832)
+[19:40:17	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55846)
+[19:40:17	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55846.
+[19:40:19	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55864)
+[19:40:20	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55835)
+[19:40:20	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55835.
+[19:40:21	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55864)
+[19:40:25	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56167)
+[19:40:25	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56167.
+[19:40:26	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56063)
+[19:40:27	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55864)
+[19:40:38	]Muhammet Özgürtaş ran 'take' on item 'Güçlü Yapıştırıcı' (#56173)
+[19:40:38	]Muhammet Özgürtaş has gained a 'Güçlü Yapıştırıcı' #56173.
+[19:40:39	]Muhammet Özgürtaş ran 'combine' on item 'Güçlü Yapıştırıcı' (#53066)
+[19:40:48	]Muhammet Özgürtaş ran 'take' on item 'Ahşap Tahta' (#56175)
+[19:40:48	]Muhammet Özgürtaş has gained a 'Ahşap Tahta' #56175.
+[19:40:49	]Muhammet Özgürtaş ran 'combine' on item 'Ahşap Tahta' (#56074)
+[19:40:54	][IC] Tlu'urn: Its energy empowers us.
+[19:40:54	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#56145)
+[19:40:54	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #56145.
+[19:40:55	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#56063)
+[19:40:55	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #56063.
+[19:40:55	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#55864)
+[19:40:55	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #55864.
+[19:40:56	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#55832)
+[19:40:56	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #55832.
+[19:40:58	][IC] Tlu'urn: Empowers.
+[19:41:02	][IC] Tlu'urn: Empowers.
+[19:41:03	]Muhammet Özgürtaş ran 'take' on item 'Yapıştırıcı' (#56179)
+[19:41:03	]Muhammet Özgürtaş has gained a 'Yapıştırıcı' #56179.
+[19:41:05	]Muhammet Özgürtaş ran 'combine' on item 'Yapıştırıcı' (#55644)
+[19:41:10	][IC] Tlu'urn: Empower us!
+[19:41:12	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56055)
+[19:41:12	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56055.
+[19:41:13	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55973)
+[19:41:13	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55973.
+[19:41:15	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55974)
+[19:41:15	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55974.
+[19:41:16	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55973)
+[19:41:17	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55974)
+[19:41:19	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56062)
+[19:41:19	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56062.
+[19:41:20	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55974)
+[19:41:27	][IC] Tlu'urn: Empower us!
+[19:41:34	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55968)
+[19:41:34	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55968.
+[19:41:37	][IC] Tlu'urn: Its energy empowers us.
+[19:41:47	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55969)
+[19:41:47	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55969.
+[19:41:48	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55970)
+[19:41:48	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55970.
+[19:41:49	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55837)
+[19:41:49	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55837.
+[19:41:51	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55837)
+[19:41:51	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55970)
+[19:41:52	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55837)
+[19:41:53	][IC] Tlu'urn: It's energy empowers us!
+[19:41:54	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55836)
+[19:41:54	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55836.
+[19:41:58	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55845)
+[19:41:58	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55845.
+[19:42:00	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55976)
+[19:42:00	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55976.
+[19:42:01	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55845)
+[19:42:02	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55845)
+[19:42:03	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55833)
+[19:42:03	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55833.
+[19:42:04	][IC] Tlu'urn: Behold! Across the chasm!
+[19:42:05	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55863)
+[19:42:05	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55863.
+[19:42:07	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55833)
+[19:42:07	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55845)
+[19:42:10	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55978)
+[19:42:10	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55978.
+[19:42:11	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55833)
+[19:42:13	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55977)
+[19:42:13	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55977.
+[19:42:15	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55833)
+[19:42:17	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55847)
+[19:42:17	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55847.
+[19:42:18	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55833)
+[19:42:19	]Muhammet Özgürtaş ran 'drop' on item 'Ahşap Tahta' (#56074)
+[19:42:19	]Muhammet Özgürtaş has lost a 'Ahşap Tahta' #56074.
+[19:42:20	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56038)
+[19:42:20	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56038.
+[19:42:21	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56166)
+[19:42:21	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56166.
+[19:42:22	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56166)
+[19:42:24	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55979)
+[19:42:24	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55979.
+[19:42:25	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56166)
+[19:42:27	]Muhammet Özgürtaş ran 'take' on item 'Ahşap Tahta' (#56074)
+[19:42:27	]Muhammet Özgürtaş has gained a 'Ahşap Tahta' #56074.
+[19:42:35	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#55974)
+[19:42:35	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #55974.
+[19:42:35	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#55845)
+[19:42:35	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #55845.
+[19:42:36	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#55833)
+[19:42:36	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #55833.
+[19:42:36	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#55837)
+[19:42:36	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #55837.
+[19:42:37	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#56166)
+[19:42:37	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #56166.
+[19:42:38	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#55813)
+[19:42:38	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #55813.
+[19:43:02	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55967)
+[19:43:02	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55967.
+[19:43:04	][VORTSHOUT] Tlu'urn: vorthum
+[19:43:10	]Muhammet Özgürtaş ran 'take' on item 'Ahşap Tahta' (#56187)
+[19:43:10	]Muhammet Özgürtaş has gained a 'Ahşap Tahta' #56187.
+[19:43:11	]Muhammet Özgürtaş ran 'combine' on item 'Ahşap Tahta' (#56074)
+[19:43:16	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55980)
+[19:43:16	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55980.
+[19:43:18	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56162)
+[19:43:18	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56162.
+[19:43:20	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56037)
+[19:43:20	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56037.
+[19:43:22	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55982)
+[19:43:22	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55982.
+[19:43:23	][Y] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:43:23	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55967)
+[19:43:24	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55980)
+[19:43:24	][Y] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:43:25	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55967)
+[19:43:25	][Y] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:43:26	][Y] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:43:27	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56036)
+[19:43:27	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56036.
+[19:43:27	][Y] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:43:28	][Y] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:43:29	][Y] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:43:29	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55981)
+[19:43:29	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55981.
+[19:43:29	][Y] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:43:30	][Y] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:43:30	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55984)
+[19:43:30	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55984.
+[19:43:31	][Y] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:43:31	][Y] Tlu'urn: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[19:43:31	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56036)
+[19:43:32	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56036)
+[19:43:32	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56036)
+[19:44:22	][IC] Tlu'urn: That immense repellant device promises surcease from endless antlion attacks.
+[19:44:24	][IC] Tlu'urn: Take shelter near the repellant device!
+[19:44:27	][IC] Tlu'urn: A vibratory oasis!
+[19:44:41	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56020)
+[19:44:41	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56020.
+[19:44:42	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55995)
+[19:44:42	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55995.
+[19:44:43	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56076)
+[19:44:43	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56076.
+[19:44:46	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56147)
+[19:44:46	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56147.
+[19:44:48	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55995)
+[19:44:48	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56147)
+[19:44:49	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55995)
+[19:44:52	]Muhammet Özgürtaş ran 'Consume' on item 'Çiğ Headcrab Eti' (#55995)
+[19:44:52	]Muhammet Özgürtaş ran 'Consume' on item 'Çiğ Headcrab Eti' (#55995)
+[19:44:53	]Muhammet Özgürtaş ran 'Consume' on item 'Çiğ Headcrab Eti' (#55995)
+[19:44:53	]Muhammet Özgürtaş ran 'Consume' on item 'Çiğ Headcrab Eti' (#55995)
+[19:45:08	][IC] Tlu'urn: That immense repellant device promises surcease from endless antlion attacks.
+[19:45:15	][IC] Tlu'urn: Take shelter near the repellant device!
+[19:45:21	][IC] Tlu'urn: A vibratory oasis!
+[19:45:50	][IC] Tlu'urn: Beg your awaressens.
+[19:46:04	][IC] Tlu'urn: Beg your awerennes.
+[19:46:06	]Muhammet Özgürtaş has gained level 9 in the Yakın Dövüş skill.
+[19:46:06	]Muhammet Özgürtaş has hit npc_headcrab dealing 45 damage (CritChance was 0.18).
+[19:46:10	]Muhammet Özgürtaş ran 'take' on item 'Ahşap Tahta' (#56217)
+[19:46:10	]Muhammet Özgürtaş has gained a 'Ahşap Tahta' #56217.
+[19:46:39	]Muhammet Özgürtaş has gained a 'Boş Süt Kartonu' #56222.
+[19:46:39	]Muhammet Özgürtaş has gained a 'Boş Kupa' #56223.
+[19:46:41	]Muhammet Özgürtaş ran 'drop' on item 'Boş Kupa' (#56223)
+[19:46:41	]Muhammet Özgürtaş has lost a 'Boş Kupa' #56223.
+[19:46:42	]Muhammet Özgürtaş ran 'drop' on item 'Boş Süt Kartonu' (#56222)
+[19:46:42	]Muhammet Özgürtaş has lost a 'Boş Süt Kartonu' #56222.
+[19:46:54	]Muhammet Özgürtaş has gained a 'Kaplumbağa Peluş' #56225.
+[19:46:57	]Muhammet Özgürtaş ran 'drop' on item 'Kaplumbağa Peluş' (#56225)
+[19:46:57	]Muhammet Özgürtaş has lost a 'Kaplumbağa Peluş' #56225.
+[19:47:04	][IC] Tlu'urn: Beg your awerenees.
+[19:47:10	]Muhammet Özgürtaş has hit npc_headcrab dealing 45 damage (CritChance was 0.20).
+[19:47:16	][IC] Tlu'urn: Beg your awereness.
+[19:47:24	][IC] Tlu'urn: Awareness.
+[19:47:29	][IC] Tlu'urn: Beg your awreness.
+[19:47:37	][IC] Tlu'urn: Beg your awereness.
+[19:47:41	][IC] Tlu'urn: We beg your awareness...
+[19:48:00	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55814)
+[19:48:00	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55814.
+[19:48:02	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#55814)
+[19:48:02	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #55814.
+[19:48:04	]Muhammet Özgürtaş ran 'Consume' on item 'Çiğ Headcrab Eti' (#55814)
+[19:48:17	]trigger_hurt destroyed a 'Boş Süt Kartonu' #56230.
+[19:48:18	]trigger_hurt destroyed a 'Elektronik devreler' #56231.
+[19:48:24	][IC] Tlu'urn: Telaffuzunda hayır yok zaten.
+[19:48:28	][IC] Tlu'urn: We beg your awareness.
+[19:48:33	]Muhammet Özgürtaş has critically hit npc_zombie in the head dealing 90 damage (CritChance was 0.20).
+[19:48:38	]Muhammet Özgürtaş has critically hit npc_zombie in the head dealing 90 damage (CritChance was 0.20).
+[19:48:42	]Muhammet Özgürtaş has hit npc_zombie in the right arm dealing 45 damage (CritChance was 0.20).
+[19:48:45	]Muhammet Özgürtaş has hit npc_zombie in the head dealing 18 damage (CritChance was 0.20).
+[19:48:45	][IC] Tlu'urn: Beg youur awareness.
+[19:48:48	]Muhammet Özgürtaş has hit npc_zombie in the left arm dealing 45 damage (CritChance was 0.20).
+[19:48:51	][IC] Tlu'urn: We beg your awareness...
+[19:50:04	]Muhammet Özgürtaş has critically hit npc_headcrab dealing 36 damage (CritChance was 0.20).
+[19:50:05	]Muhammet Özgürtaş destroyed a 'Çiğ Headcrab Eti' #56235.
+[19:50:06	]Muhammet Özgürtaş is fully healed.
+[19:50:23	]Muhammet Özgürtaş ran 'drinkquench' on item 'Su Şişesi' (#50887)
+[19:50:23	]Muhammet Özgürtaş has gained a 'Ahşap Çerçeve' #56236.
+[19:50:28	]Muhammet Özgürtaş has performed the 'Craft Parçala: Ahşap Çerçeve' action, gaining 15 experience in crafting.
+[19:50:28	]Muhammet Özgürtaş has gained a 'Çivi Kutusu' #56237.
+[19:50:30	]Muhammet Özgürtaş ran 'drop' on item 'Çivi Kutusu' (#56237)
+[19:50:30	]Muhammet Özgürtaş has lost a 'Çivi Kutusu' #56237.
+[19:50:44	]Muhammet Özgürtaş has gained a 'Dayanıksız Metal Boru' #56238.
+[19:50:46	]Muhammet Özgürtaş ran 'drop' on item 'Dayanıksız Metal Boru' (#56238)
+[19:50:46	]Muhammet Özgürtaş has lost a 'Dayanıksız Metal Boru' #56238.
+[19:51:41	]Tlu'urn used command '/PM muh Çıkmadan önce kapıyı açık bırakıyorum içeriye girince buradan çıkmadan önce kuleye çık kapıyı kapat kuleden zıpla çitlerden atla.'.
+[19:51:46	]Muhammet Özgürtaş ran 'take' on item 'Tıbbi Direnişçi Üniforması' (#56251)
+[19:51:46	]Muhammet Özgürtaş has gained a 'Tıbbi Direnişçi Üniforması' #56251.
+[19:51:53	]Muhammet Özgürtaş used command '/PM tlu ok'.
+[19:52:05	]Scientist (STEAM_0:1:533519973) has disconnected.
+[19:52:08	]Muhammet Özgürtaş has taken 5 damage from npc_headcrab.
+[19:52:10	]Muhammet Özgürtaş has hit npc_headcrab dealing 18 damage (CritChance was 0.20).
+[19:52:11	]Muhammet Özgürtaş is fully healed.
+[19:52:13	]Muhammet Özgürtaş has taken 5 damage from npc_headcrab.
+[19:52:15	]Muhammet Özgürtaş has taken 5 damage from npc_headcrab.
+[19:52:16	]Muhammet Özgürtaş is fully healed.
+[19:52:17	]Muhammet Özgürtaş has hit npc_headcrab dealing 18 damage (CritChance was 0.20).
+[19:52:21	]Muhammet Özgürtaş ran 'drop' on item 'Tıbbi Direnişçi Üniforması' (#56069)
+[19:52:21	]Muhammet Özgürtaş has lost a 'Tıbbi Direnişçi Üniforması' #56069.
+[19:52:51	]Muhammet Özgürtaş ran 'take' on item 'Ahşap Tahta' (#56264)
+[19:52:51	]Muhammet Özgürtaş has gained a 'Ahşap Tahta' #56264.
+[19:52:52	]Muhammet Özgürtaş ran 'combine' on item 'Ahşap Tahta' (#56217)
+[19:53:49	]Muhammet Özgürtaş has hit npc_zombie in the head dealing 45 damage (CritChance was 0.20).
+[19:53:52	]Muhammet Özgürtaş has critically hit npc_zombie in the chest dealing 90 damage (CritChance was 0.20).
+[19:54:02	]Muhammet Özgürtaş has critically hit npc_zombie in the chest dealing 90 damage (CritChance was 0.20).
+[19:54:44	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55832)
+[19:54:44	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55832.
+[19:54:46	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55864)
+[19:54:46	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55864.
+[19:54:57	]Muhammet Özgürtaş ran 'drop' on item 'Kömür Filtresi Dolumu' (#55805)
+[19:54:57	]Muhammet Özgürtaş has lost a 'Kömür Filtresi Dolumu' #55805.
+[19:55:01	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56166)
+[19:55:01	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56166.
+[19:55:06	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#56166)
+[19:55:06	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #56166.
+[19:55:08	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55974)
+[19:55:08	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55974.
+[19:55:37	]Muhammet Özgürtaş ran 'take' on item 'Ahşap Tahta' (#56291)
+[19:55:37	]Muhammet Özgürtaş has gained a 'Ahşap Tahta' #56291.
+[19:55:38	]Muhammet Özgürtaş ran 'combine' on item 'Ahşap Tahta' (#56217)
+[19:55:57	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55837)
+[19:55:57	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55837.
+[19:59:34	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#55967)
+[19:59:34	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #55967.
+[19:59:35	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#55832)
+[19:59:35	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #55832.
+[19:59:36	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#55837)
+[19:59:36	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #55837.
+[19:59:36	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#55974)
+[19:59:36	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #55974.
+[19:59:37	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#55864)
+[19:59:37	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #55864.
+[19:59:37	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#54713)
+[19:59:37	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #54713.
+[19:59:38	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#56036)
+[19:59:38	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #56036.
+[19:59:45	]Muhammet Özgürtaş has performed the 'Craft Ahşap Kalas' action, gaining 80 experience in crafting.
+[19:59:45	]Muhammet Özgürtaş has gained a 'Ahşap Kalas' #56293.
+[19:59:47	]Muhammet Özgürtaş has performed the 'Craft Ahşap Kalas' action, gaining 80 experience in crafting.
+[19:59:50	]Muhammet Özgürtaş has gained level 13 in the Zanaatkarlık skill.
+[19:59:50	]Muhammet Özgürtaş has performed the 'Craft Ahşap Kalas' action, gaining 80 experience in crafting.
+[20:00:03	]Muhammet Özgürtaş has performed the 'Craft Üretim Tezgahı Kiti' action, gaining 180 experience in crafting.
+[20:00:06	]Muhammet Özgürtaş ran 'take' on item 'Üretim Tezgahı Montaj Kiti' (#56294)
+[20:00:08	]Muhammet Özgürtaş ran 'EquipUn' on item 'Helsing Bolt Rifle' (#44969)
+[20:00:08	]Muhammet Özgürtaş has gained a '8rnd Helsing-şarjörü' #44587.
+[20:00:09	]Muhammet Özgürtaş ran 'drop' on item 'Helsing Bolt Rifle' (#44969)
+[20:00:09	]Muhammet Özgürtaş has lost a 'Helsing Bolt Rifle' #44969.
+[20:00:11	]Muhammet Özgürtaş ran 'take' on item 'Üretim Tezgahı Montaj Kiti' (#56294)
+[20:00:11	]Muhammet Özgürtaş has gained a 'Üretim Tezgahı Montaj Kiti' #56294.
+[20:00:13	]Muhammet Özgürtaş ran 'Assemble' on item 'Üretim Tezgahı Montaj Kiti' (#56294)
+[20:00:14	]Muhammet Özgürtaş has gained a 'Üretim Tezgahı Montaj Kiti' #56295.
+[20:00:19	]Muhammet Özgürtaş ran 'Assemble' on item 'Üretim Tezgahı Montaj Kiti' (#56295)
+[20:00:19	]Araç Kiti owned by Muhammet Özgürtaş just broke due to usage.
+[20:00:19	]Muhammet Özgürtaş has gained a 'Çalışma Tezgahı' #56296.
+[20:00:24	]Muhammet Özgürtaş ran 'place' on item 'Çalışma Tezgahı' (#56296)
+[20:00:31	]Muhammet Özgürtaş ran 'Bolt' on item 'Çalışma Tezgahı' (#56297)
+[20:00:43	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55864)
+[20:00:43	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55864.
+[20:00:44	]Muhammet Özgürtaş ran 'take' on item 'Helsing Bolt Rifle' (#44969)
+[20:00:44	]Muhammet Özgürtaş has gained a 'Helsing Bolt Rifle' #44969.
+[20:00:46	]Muhammet Özgürtaş ran 'Equip' on item 'Helsing Bolt Rifle' (#44969)
+[20:00:49	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55832)
+[20:00:49	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55832.
+[20:00:50	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55837)
+[20:00:50	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55837.
+[20:00:51	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#54713)
+[20:00:51	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #54713.
+[20:00:53	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56036)
+[20:00:53	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56036.
+[20:00:54	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55967)
+[20:00:54	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55967.
+[20:00:55	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55974)
+[20:00:55	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55974.
+[20:00:59	]Muhammet Özgürtaş ran 'take' on item '60rnd OTAR-Şarjörü' (#47937)
+[20:00:59	]Muhammet Özgürtaş has gained a '60rnd OTAR-Şarjörü' #47937.
+[20:01:00	]Muhammet Özgürtaş ran 'take' on item '60rnd OTAR-Şarjörü' (#47928)
+[20:01:00	]Muhammet Özgürtaş has gained a '60rnd OTAR-Şarjörü' #47928.
+[20:01:01	]Muhammet Özgürtaş ran 'take' on item '60rnd OTAR-Şarjörü' (#47924)
+[20:01:02	]Muhammet Özgürtaş ran 'take' on item 'Lastik Kelepçe' (#50072)
+[20:01:07	]Muhammet Özgürtaş ran 'take' on item 'Lastik Kelepçe' (#50072)
+[20:01:07	]Muhammet Özgürtaş has gained a 'Lastik Kelepçe' #50072.
+[20:01:10	]Muhammet Özgürtaş ran 'take' on item 'Lastik Kelepçe' (#48288)
+[20:01:10	]Muhammet Özgürtaş has gained a 'Lastik Kelepçe' #48288.
+[20:01:13	]Muhammet Özgürtaş ran 'drop' on item '60rnd OTAR-Şarjörü' (#47928)
+[20:01:13	]Muhammet Özgürtaş has lost a '60rnd OTAR-Şarjörü' #47928.
+[20:01:16	]Muhammet Özgürtaş ran 'take' on item '60rnd OTAR-Şarjörü' (#47928)
+[20:01:16	]Muhammet Özgürtaş has gained a '60rnd OTAR-Şarjörü' #47928.
+[20:01:20	]Muhammet Özgürtaş ran 'take' on item '60rnd OTAR-Şarjörü' (#47924)
+[20:01:20	]Muhammet Özgürtaş has gained a '60rnd OTAR-Şarjörü' #47924.
+[20:01:24	]Muhammet Özgürtaş ran 'Use' on item 'Çalışma Tezgahı' (#56297)
+[20:01:40	]Muhammet Özgürtaş has performed the 'Craft Büyük Çanta' action, gaining 100 experience in crafting.
+[20:01:45	]Muhammet Özgürtaş ran 'take' on item 'Büyük Çanta' (#56298)
+[20:01:49	]Muhammet Özgürtaş ran 'take' on item 'Büyük Çanta' (#56298)
+[20:01:49	]Muhammet Özgürtaş has gained a 'Büyük Çanta' #56298.
+[20:02:53	]Muhammet Özgürtaş ran 'PackUp' on item 'Çalışma Tezgahı' (#56297)
+[20:02:54	]Muhammet Özgürtaş ran 'Use' on item 'Çalışma Tezgahı' (#56297)
+[20:06:08	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56063)
+[20:06:08	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56063.
+[20:06:09	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55813)
+[20:06:09	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55813.
+[20:06:11	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56145)
+[20:06:11	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56145.
+[20:06:12	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55845)
+[20:06:12	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55845.
+[20:06:13	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55833)
+[20:06:13	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55833.
+[20:06:39	]Muhammet Özgürtaş has hit npc_zombie dealing 45 damage (CritChance was 0.20).
+[20:06:43	]Muhammet Özgürtaş has hit npc_zombie dealing 45 damage (CritChance was 0.20).
+[20:06:43	]Muhammet Özgürtaş has gained level 10 in the Yakın Dövüş skill.
+[20:06:46	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56234)
+[20:06:46	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56234.
+[20:06:49	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56301)
+[20:06:49	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56301.
+[20:06:51	]Muhammet Özgürtaş has hit npc_zombie in the chest dealing 45 damage (CritChance was 0.23).
+[20:06:53	]Muhammet Özgürtaş has critically hit npc_zombie dealing 90 damage (CritChance was 0.23).
+[20:06:56	]Muhammet Özgürtaş has hit npc_zombie in the right arm dealing 45 damage (CritChance was 0.23).
+[20:06:58	]Muhammet Özgürtaş has hit npc_zombie in the head dealing 45 damage (CritChance was 0.23).
+[20:07:00	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56302)
+[20:07:00	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56302.
+[20:07:06	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56303)
+[20:07:06	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56303.
+[20:07:08	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56302)
+[20:07:09	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56301)
+[20:07:09	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56234)
+[20:07:22	]Muhammet Özgürtaş ran 'take' on item 'Plastik Kova' (#56304)
+[20:07:22	]Muhammet Özgürtaş has gained a 'Plastik Kova' #56304.
+[20:07:26	]Muhammet Özgürtaş has performed the 'Craft Parçala: Plastik Kova' action, gaining 15 experience in crafting.
+[20:07:26	]Muhammet Özgürtaş has gained a 'Plastik Çöp' #56307.
+[20:07:35	]Muhammet Özgürtaş ran 'take' on item 'Boş Breen'in Suyu' (#56308)
+[20:07:35	]Muhammet Özgürtaş has gained a 'Boş Breen'in Suyu' #56308.
+[20:07:42	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56281)
+[20:07:42	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56281.
+[20:07:43	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56233)
+[20:07:43	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56233.
+[20:07:48	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56281)
+[20:07:51	]Muhammet Özgürtaş ran 'take' on item 'Plastik Çöp' (#56311)
+[20:07:51	]Muhammet Özgürtaş has gained a 'Plastik Çöp' #56311.
+[20:07:55	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56232)
+[20:07:55	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56232.
+[20:07:58	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56281)
+[20:08:02	]Muhammet Özgürtaş ran 'take' on item 'Boş Kavanoz' (#56313)
+[20:08:02	]Muhammet Özgürtaş has gained a 'Boş Kavanoz' #56313.
+[20:08:06	]Muhammet Özgürtaş ran 'take' on item 'Yapıştırıcı' (#56315)
+[20:08:06	]Muhammet Özgürtaş has gained a 'Yapıştırıcı' #56315.
+[20:08:07	]Muhammet Özgürtaş ran 'combine' on item 'Plastik Çöp' (#56311)
+[20:08:11	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55985)
+[20:08:11	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55985.
+[20:08:13	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56281)
+[20:08:14	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55983)
+[20:08:14	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55983.
+[20:08:29	]Muhammet Özgürtaş ran 'take' on item 'Elektronik devreler' (#56031)
+[20:08:29	]Muhammet Özgürtaş has gained a 'Elektronik devreler' #56031.
+[20:08:36	]Muhammet Özgürtaş ran 'take' on item 'Çivi Kutusu' (#56317)
+[20:08:36	]Muhammet Özgürtaş has gained a 'Çivi Kutusu' #56317.
+[20:08:40	]Muhammet Özgürtaş has performed the 'Craft Parçala: Boş Kavanoz' action, gaining 10 experience in crafting.
+[20:08:42	]Muhammet Özgürtaş has performed the 'Craft Parçala: Boş Breen'in Suyu' action, gaining 10 experience in crafting.
+[20:08:47	]Muhammet Özgürtaş ran 'combine' on item 'Yapıştırıcı' (#55644)
+[20:09:28	]Muhammet Özgürtaş ran 'take' on item 'Yapıştırıcı' (#56320)
+[20:09:28	]Muhammet Özgürtaş has gained a 'Yapıştırıcı' #56320.
+[20:09:36	]Muhammet Özgürtaş ran 'combine' on item 'Yapıştırıcı' (#55644)
+[20:09:49	]Muhammet Özgürtaş ran 'take' on item 'Yapıştırıcı' (#56324)
+[20:09:49	]Muhammet Özgürtaş has gained a 'Yapıştırıcı' #56324.
+[20:09:51	]Muhammet Özgürtaş ran 'combine' on item 'Yapıştırıcı' (#55644)
+[20:10:01	]Muhammet Özgürtaş ran 'take' on item 'Boş Kavanoz' (#56325)
+[20:10:01	]Muhammet Özgürtaş has gained a 'Boş Kavanoz' #56325.
+[20:10:07	]Muhammet Özgürtaş has hit npc_zombie dealing 45 damage (CritChance was 0.23).
+[20:10:08	]Muhammet Özgürtaş has critically hit npc_zombie in the head dealing 36 damage (CritChance was 0.23).
+[20:10:10	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56328)
+[20:10:10	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56328.
+[20:10:12	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55996)
+[20:10:12	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55996.
+[20:10:13	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56328)
+[20:10:14	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55983)
+[20:10:18	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55829)
+[20:10:18	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55829.
+[20:10:22	]Muhammet Özgürtaş has performed the 'Craft Parçala: Boş Kavanoz' action, gaining 10 experience in crafting.
+[20:10:25	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55830)
+[20:10:25	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55830.
+[20:10:28	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55997)
+[20:10:28	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55997.
+[20:10:32	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56226)
+[20:10:32	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56226.
+[20:10:34	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55997)
+[20:10:34	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55997)
+[20:10:35	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55983)
+[20:10:43	]Muhammet Özgürtaş ran 'take' on item 'Boş Kavanoz' (#56329)
+[20:10:43	]Muhammet Özgürtaş has gained a 'Boş Kavanoz' #56329.
+[20:10:45	]Muhammet Özgürtaş ran 'take' on item 'Plastik Çöp' (#56330)
+[20:10:45	]Muhammet Özgürtaş has gained a 'Plastik Çöp' #56330.
+[20:10:47	]Muhammet Özgürtaş ran 'combine' on item 'Plastik Çöp' (#56311)
+[20:10:51	]Muhammet Özgürtaş has performed the 'Craft Parçala: Boş Kavanoz' action, gaining 10 experience in crafting.
+[20:10:58	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55825)
+[20:10:58	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55825.
+[20:11:01	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55828)
+[20:11:01	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55828.
+[20:11:03	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55826)
+[20:11:03	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55826.
+[20:11:05	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55826)
+[20:11:06	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55997)
+[20:11:07	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56255)
+[20:11:07	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56255.
+[20:11:10	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55827)
+[20:11:10	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55827.
+[20:11:13	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56002)
+[20:11:13	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56002.
+[20:11:15	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56256)
+[20:11:17	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55827)
+[20:11:17	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55826)
+[20:11:19	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56256)
+[20:11:19	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56256.
+[20:11:21	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55998)
+[20:11:21	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55998.
+[20:11:22	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56256)
+[20:11:23	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56256)
+[20:11:25	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55999)
+[20:11:25	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55999.
+[20:11:26	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56256)
+[20:11:34	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56000)
+[20:11:34	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56000.
+[20:11:36	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56001)
+[20:11:36	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56001.
+[20:11:38	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56000)
+[20:11:42	]Muhammet Özgürtaş ran 'take' on item 'Boş Kupa' (#56223)
+[20:11:42	]Muhammet Özgürtaş has gained a 'Boş Kupa' #56223.
+[20:11:45	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56000)
+[20:11:54	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56004)
+[20:11:54	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56004.
+[20:11:54	]Muhammet Özgürtaş has taken 5 damage from npc_headcrab.
+[20:11:56	]Muhammet Özgürtaş is fully healed.
+[20:12:00	]Muhammet Özgürtaş has taken 5 damage from npc_headcrab.
+[20:12:01	]Muhammet Özgürtaş is fully healed.
+[20:12:05	]Muhammet Özgürtaş has hit npc_headcrab dealing 45 damage (CritChance was 0.23).
+[20:12:09	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56332)
+[20:12:09	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #56332.
+[20:12:14	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#56003)
+[20:12:16	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#56004)
+[20:12:17	]Muhammet Özgürtaş ran 'combine' on item 'Çiğ Headcrab Eti' (#55997)
+[20:12:24	]Muhammet Özgürtaş has performed the 'Craft Parçala: Boş Kupa' action, gaining 10 experience in crafting.
+[20:12:37	]Muhammet Özgürtaş ran 'take' on item 'Plastik Çöp' (#56334)
+[20:12:37	]Muhammet Özgürtaş has gained a 'Plastik Çöp' #56334.
+[20:12:39	]Muhammet Özgürtaş ran 'take' on item 'Boş Kavanoz' (#56333)
+[20:12:39	]Muhammet Özgürtaş has gained a 'Boş Kavanoz' #56333.
+[20:12:51	]Muhammet Özgürtaş has hit npc_headcrab dealing 45 damage (CritChance was 0.23).
+[20:13:03	]Muhammet Özgürtaş ran 'take' on item 'Çivi Kutusu' (#56338)
+[20:13:03	]Muhammet Özgürtaş has gained a 'Çivi Kutusu' #56338.
+[20:13:05	]Muhammet Özgürtaş ran 'combine' on item 'Çivi Kutusu' (#56317)
+[20:13:14	]Muhammet Özgürtaş has performed the 'Craft Parçala: Boş Kavanoz' action, gaining 10 experience in crafting.
+[20:13:36	]Muhammet Özgürtaş ran 'take' on item 'Teneke Kutu' (#56014)
+[20:13:36	]Muhammet Özgürtaş has gained a 'Teneke Kutu' #56014.
+[20:13:42	]Muhammet Özgürtaş has performed the 'Craft Parçala: Teneke Kutu' action, gaining 10 experience in crafting.
+[20:13:42	]Muhammet Özgürtaş has gained a 'Hurda Metal' #56340.
+[20:13:54	]Muhammet Özgürtaş has gained a 'Eskimiş Oyuncak Bebek' #56341.
+[20:13:57	]Muhammet Özgürtaş ran 'drop' on item 'Çuval' (#44842)
+[20:13:57	]Muhammet Özgürtaş has lost a 'Çuval' #44842.
+[20:14:03	]Muhammet Özgürtaş has performed the 'Craft Parçala: Eskimiş Oyuncak Bebek' action, gaining 10 experience in crafting.
+[20:14:17	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#55997)
+[20:14:17	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #55997.
+[20:14:18	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#56000)
+[20:14:18	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #56000.
+[20:14:20	]Muhammet Özgürtaş ran 'take' on item 'Çuval' (#44842)
+[20:14:20	]Muhammet Özgürtaş has gained a 'Çuval' #44842.
+[20:14:28	]Muhammet Özgürtaş ran 'split' on item 'Plastik Çöp' (#56334)
+[20:14:28	]Muhammet Özgürtaş has gained a 'Plastik Çöp' #56343.
+[20:14:30	]Muhammet Özgürtaş ran 'combine' on item 'Plastik Çöp' (#56334)
+[20:14:32	]Muhammet Özgürtaş ran 'take' on item 'Dayanıksız Metal Boru' (#56238)
+[20:14:32	]Muhammet Özgürtaş has gained a 'Dayanıksız Metal Boru' #56238.
+[20:14:37	]Muhammet Özgürtaş has performed the 'Craft Parçala: Dayanıksız Metal Boru' action, gaining 50 experience in crafting.
+[20:14:55	]Muhammet Özgürtaş ran 'take' on item 'Hurda Metal' (#56345)
+[20:14:55	]Muhammet Özgürtaş has gained a 'Hurda Metal' #56345.
+[20:14:57	]Muhammet Özgürtaş ran 'combine' on item 'Hurda Metal' (#56340)
+[20:15:08	]Muhammet Özgürtaş ran 'take' on item 'Hurda Metal' (#56348)
+[20:15:08	]Muhammet Özgürtaş has gained a 'Hurda Metal' #56348.
+[20:15:10	]Muhammet Özgürtaş ran 'combine' on item 'Hurda Metal' (#56340)
+[20:15:33	]Muhammet Özgürtaş ran 'take' on item 'Çelik' (#56355)
+[20:15:33	]Muhammet Özgürtaş has gained a 'Çelik' #56355.
+[20:16:00	]Muhammet Özgürtaş ran 'combine' on item 'Çelik' (#56158)
+[20:17:13	]Muhammet Özgürtaş has critically hit npc_zombie in the chest dealing 90 damage (CritChance was 0.23).
+[20:17:16	]Muhammet Özgürtaş ran 'take' on item 'Hurda Metal' (#56374)
+[20:17:16	]Muhammet Özgürtaş has gained a 'Hurda Metal' #56374.
+[20:17:18	]Muhammet Özgürtaş ran 'combine' on item 'Hurda Metal' (#56340)
+[20:17:20	]Muhammet Özgürtaş has hit npc_zombie dealing 45 damage (CritChance was 0.23).
+[20:17:20	]Muhammet Özgürtaş has taken 10 damage from npc_zombie.
+[20:17:21	]Muhammet Özgürtaş is fully healed.
+[20:17:23	]Muhammet Özgürtaş has critically hit npc_zombie dealing 36 damage (CritChance was 0.23).
+[20:17:30	]Muhammet Özgürtaş has critically hit npc_zombie in the left arm dealing 90 damage (CritChance was 0.23).
+[20:17:32	]Muhammet Özgürtaş has hit npc_zombie in the chest dealing 45 damage (CritChance was 0.23).
+[20:18:02	]Muhammet Özgürtaş ran 'take' on item 'Kırık Klavye' (#56381)
+[20:18:02	]Muhammet Özgürtaş has gained a 'Kırık Klavye' #56381.
+[20:18:09	]Muhammet Özgürtaş has performed the 'Craft Parçala: Kırık Klavye' action, gaining 25 experience in crafting.
+[20:18:09	]Muhammet Özgürtaş has gained a 'Hurda Metal' #56383.
+[20:18:11	]Muhammet Özgürtaş ran 'drop' on item 'Hurda Metal' (#56383)
+[20:18:11	]Muhammet Özgürtaş has lost a 'Hurda Metal' #56383.
+[20:18:36	]Muhammet Özgürtaş has performed the 'Craft Çivi Kutusu' action, gaining 100 experience in crafting.
+[20:18:50	]Muhammet Özgürtaş ran 'take' on item 'Hurda Metal' (#56388)
+[20:18:50	]Muhammet Özgürtaş has gained a 'Hurda Metal' #56388.
+[20:18:58	]Muhammet Özgürtaş ran 'combine' on item 'Hurda Metal' (#56340)
+[20:20:18	]Muhammet Özgürtaş has lost a '8rnd Helsing-şarjörü' #44587.
+[20:22:20	]Muhammet Özgürtaş ran 'Use' on item 'Çalışma Tezgahı' (#56297)
+[20:22:23	]Muhammet Özgürtaş has performed the 'Craft Paslı Fırın Montaj Kiti' action, gaining 150 experience in crafting.
+[20:22:24	]Muhammet Özgürtaş has taken 50 damage from ix_item.
+[20:22:30	]Muhammet Özgürtaş ran 'use' on item 'İlk Yardım Kiti' (#50740)
+[20:22:30	]Muhammet Özgürtaş has performed the 'Use İlk Yardım Kiti' action, gaining 85 experience in medicine.
+[20:22:30	]Muhammet Özgürtaş was disinfected by Muhammet Özgürtaş for 276 seconds.
+[20:22:30	]Muhammet Özgürtaş was bandaged by Muhammet Özgürtaş for 70 HP.
+[20:22:30	]Muhammet Özgürtaş ran 'use' on item 'İlk Yardım Kiti' (#50740)
+[20:22:30	]Muhammet Özgürtaş has performed the 'Use İlk Yardım Kiti' action, gaining 5 experience in medicine.
+[20:22:30	]Muhammet Özgürtaş was disinfected by Muhammet Özgürtaş for 276 seconds.
+[20:22:30	]Muhammet Özgürtaş was bandaged by Muhammet Özgürtaş for 70 HP.
+[20:22:31	]Muhammet Özgürtaş has gained a 'Dikişli Kumaş' #56391.
+[20:22:42	]Muhammet Özgürtaş ran 'use' on item 'İlk Yardım Kiti' (#50744)
+[20:22:42	]Muhammet Özgürtaş was disinfected by Muhammet Özgürtaş for 276 seconds.
+[20:22:42	]Muhammet Özgürtaş was bandaged by Muhammet Özgürtaş for 70 HP.
+[20:22:43	]Muhammet Özgürtaş ran 'use' on item 'İlk Yardım Kiti' (#50744)
+[20:22:43	]Muhammet Özgürtaş was disinfected by Muhammet Özgürtaş for 276 seconds.
+[20:22:43	]Muhammet Özgürtaş was bandaged by Muhammet Özgürtaş for 70 HP.
+[20:22:44	]Muhammet Özgürtaş ran 'use' on item 'İlk Yardım Kiti' (#50744)
+[20:22:44	]Muhammet Özgürtaş was disinfected by Muhammet Özgürtaş for 276 seconds.
+[20:22:44	]Muhammet Özgürtaş was bandaged by Muhammet Özgürtaş for 70 HP.
+[20:22:44	]Muhammet Özgürtaş has gained a 'Dikişli Kumaş' #56392.
+[20:22:50	]Muhammet Özgürtaş ran 'use' on item 'Cerrahi Kit' (#55896)
+[20:22:50	]Muhammet Özgürtaş was disinfected by Muhammet Özgürtaş for 552 seconds.
+[20:22:50	]Muhammet Özgürtaş was bandaged by Muhammet Özgürtaş for 91 HP.
+[20:22:52	]Muhammet Özgürtaş ran 'use' on item 'Cerrahi Kit' (#55667)
+[20:22:52	]Muhammet Özgürtaş was disinfected by Muhammet Özgürtaş for 552 seconds.
+[20:22:52	]Muhammet Özgürtaş was bandaged by Muhammet Özgürtaş for 91 HP.
+[20:23:06	]Muhammet Özgürtaş has performed the 'Craft Araç Kiti' action, gaining 100 experience in crafting.
+[20:23:06	]Muhammet Özgürtaş has gained a 'Araç Kiti' #56393.
+[20:23:09	]Muhammet Özgürtaş has performed the 'Craft Su Şişesi' action, gaining 25 experience in crafting.
+[20:23:09	]Muhammet Özgürtaş has gained a 'Su Şişesi' #56394.
+[20:23:23	]Muhammet Özgürtaş ran 'drop' on item 'Plastik Çöp' (#56334)
+[20:23:23	]Muhammet Özgürtaş has lost a 'Plastik Çöp' #56334.
+[20:23:23	]Muhammet Özgürtaş ran 'drop' on item 'Elektronik devreler' (#56031)
+[20:23:23	]Muhammet Özgürtaş has lost a 'Elektronik devreler' #56031.
+[20:23:24	]Muhammet Özgürtaş ran 'drop' on item 'Çiğ Headcrab Eti' (#55983)
+[20:23:24	]Muhammet Özgürtaş has lost a 'Çiğ Headcrab Eti' #55983.
+[20:23:24	]Muhammet Özgürtaş ran 'drop' on item 'Araç Kiti' (#56393)
+[20:23:24	]Muhammet Özgürtaş has lost a 'Araç Kiti' #56393.
+[20:23:25	]Muhammet Özgürtaş ran 'drop' on item 'Su Şişesi' (#56394)
+[20:23:25	]Muhammet Özgürtaş has lost a 'Su Şişesi' #56394.
+[20:23:25	]Muhammet Özgürtaş ran 'drop' on item 'Hurda Metal' (#56340)
+[20:23:25	]Muhammet Özgürtaş has lost a 'Hurda Metal' #56340.
+[20:23:34	]Muhammet Özgürtaş ran 'take' on item 'Paslı Fırın Montaj Kiti' (#56390)
+[20:23:37	]Muhammet Özgürtaş ran 'EquipUn' on item 'Helsing Bolt Rifle' (#44969)
+[20:23:37	]Muhammet Özgürtaş has gained a '8rnd Helsing-şarjörü' #44587.
+[20:23:38	]Muhammet Özgürtaş ran 'drop' on item 'Helsing Bolt Rifle' (#44969)
+[20:23:38	]Muhammet Özgürtaş has lost a 'Helsing Bolt Rifle' #44969.
+[20:23:41	]Muhammet Özgürtaş ran 'take' on item 'Paslı Fırın Montaj Kiti' (#56390)
+[20:23:41	]Muhammet Özgürtaş has gained a 'Paslı Fırın Montaj Kiti' #56390.
+[20:23:42	]Muhammet Özgürtaş ran 'Assemble' on item 'Paslı Fırın Montaj Kiti' (#56390)
+[20:23:42	]Muhammet Özgürtaş has gained a 'Paslı Fırın Montaj Kiti' #56395.
+[20:23:46	]Muhammet Özgürtaş ran 'EquipUn' on item 'Frag Grenade' (#53897)
+[20:23:48	]Muhammet Özgürtaş ran 'drop' on item 'Şarjör Çantası' (#43465)
+[20:23:48	]Muhammet Özgürtaş has lost a 'Şarjör Çantası' #43465.
+[20:23:48	]Muhammet Özgürtaş has lost a '8rnd Helsing-şarjörü' #44464.
+[20:23:48	]Muhammet Özgürtaş has lost a '8rnd Helsing-şarjörü' #44491.
+[20:23:48	]Muhammet Özgürtaş has lost a '8rnd Helsing-şarjörü' #44465.
+[20:23:48	]Muhammet Özgürtaş has lost a '8rnd Helsing-şarjörü' #44587.
+[20:23:49	]Muhammet Özgürtaş ran 'Assemble' on item 'Paslı Fırın Montaj Kiti' (#56395)
+[20:23:50	]Muhammet Özgürtaş has gained a 'Paslı Fırın' #56396.
+[20:23:56	]Muhammet Özgürtaş ran 'place' on item 'Paslı Fırın' (#56396)
+[20:24:02	]Muhammet Özgürtaş ran 'Bolt' on item 'Paslı Fırın' (#56397)
+[20:24:14	]Muhammet Özgürtaş ran 'Place' on item 'Tencere' (#55963)
+[20:24:14	]Muhammet Özgürtaş has lost a 'Tencere' #55963.
+[20:24:16	]Muhammet Özgürtaş ran 'take' on item 'Şarjör Çantası' (#43465)
+[20:24:16	]Muhammet Özgürtaş has gained a 'Şarjör Çantası' #43465.
+[20:24:16	]Muhammet Özgürtaş has gained a '8rnd Helsing-şarjörü' #44464.
+[20:24:16	]Muhammet Özgürtaş has gained a '8rnd Helsing-şarjörü' #44491.
+[20:24:16	]Muhammet Özgürtaş has gained a '8rnd Helsing-şarjörü' #44465.
+[20:24:16	]Muhammet Özgürtaş has gained a '8rnd Helsing-şarjörü' #44587.
+[20:24:22	]Muhammet Özgürtaş ran 'take' on item 'Helsing Bolt Rifle' (#44969)
+[20:24:22	]Muhammet Özgürtaş has gained a 'Helsing Bolt Rifle' #44969.
+[20:24:23	]Muhammet Özgürtaş ran 'Equip' on item 'Helsing Bolt Rifle' (#44969)
+[20:24:24	]Muhammet Özgürtaş ran 'take' on item 'Hurda Metal' (#56340)
+[20:24:24	]Muhammet Özgürtaş has gained a 'Hurda Metal' #56340.
+[20:24:25	]Muhammet Özgürtaş ran 'take' on item 'Araç Kiti' (#56393)
+[20:24:25	]Muhammet Özgürtaş has gained a 'Araç Kiti' #56393.
+[20:24:26	]Muhammet Özgürtaş ran 'take' on item 'Plastik Çöp' (#56334)
+[20:24:26	]Muhammet Özgürtaş has gained a 'Plastik Çöp' #56334.
+[20:24:27	]Muhammet Özgürtaş ran 'take' on item 'Su Şişesi' (#56394)
+[20:24:27	]Muhammet Özgürtaş has gained a 'Su Şişesi' #56394.
+[20:24:29	]Muhammet Özgürtaş ran 'take' on item 'Elektronik devreler' (#56031)
+[20:24:29	]Muhammet Özgürtaş has gained a 'Elektronik devreler' #56031.
+[20:24:29	]Muhammet Özgürtaş ran 'take' on item 'Çiğ Headcrab Eti' (#55983)
+[20:24:29	]Muhammet Özgürtaş has gained a 'Çiğ Headcrab Eti' #55983.
+[20:24:36	]Muhammet Özgürtaş ran 'take' on item 'Bozuk 9mm Tabanca' (#55571)
+[20:24:36	]Muhammet Özgürtaş has gained a 'Bozuk 9mm Tabanca' #55571.
+[20:24:56	]Muhammet Özgürtaş ran 'drinkquench' on item 'Su Şişesi' (#50887)
+[20:25:10	]Muhammet Özgürtaş ran 'fill' on item 'Su Şişesi' (#56394)
+[20:25:20	]Muhammet Özgürtaş ran 'Equip' on item 'Frag Grenade' (#53897)
+[20:26:09	]Muhammet Özgürtaş ran 'filtrate' on item 'Su Şişesi' (#56394)
+[20:26:12	]Muhammet Özgürtaş ran 'Use' on item 'Paslı Fırın' (#56397)
+[20:26:16	]Muhammet Özgürtaş is fully healed.
+[20:26:34	]Muhammet Özgürtaş ran 'drop' on item 'Bozuk 9mm Tabanca' (#55571)
+[20:26:34	]Muhammet Özgürtaş has lost a 'Bozuk 9mm Tabanca' #55571.
+[20:26:35	]Muhammet Özgürtaş ran 'drop' on item 'Plastik Çöp' (#56334)
+[20:26:35	]Muhammet Özgürtaş has lost a 'Plastik Çöp' #56334.
+[20:26:37	]Muhammet Özgürtaş ran 'drop' on item 'Elektronik devreler' (#56031)
+[20:26:37	]Muhammet Özgürtaş has lost a 'Elektronik devreler' #56031.
+[20:26:39	]Muhammet Özgürtaş ran 'split' on item 'Hurda Metal' (#56340)
+[20:26:39	]Muhammet Özgürtaş has gained a 'Hurda Metal' #56398.
+[20:26:40	]Muhammet Özgürtaş ran 'drop' on item 'Hurda Metal' (#56398)
+[20:26:40	]Muhammet Özgürtaş has lost a 'Hurda Metal' #56398.
+[20:28:15	]Muhammet Özgürtaş ran 'fill' on item 'Su Şişesi' (#56394)
+[20:28:18	]Muhammet Özgürtaş ran 'take' on item 'Hurda Metal' (#56398)
+[20:28:18	]Muhammet Özgürtaş has gained a 'Hurda Metal' #56398.
+[20:28:20	]Muhammet Özgürtaş ran 'combine' on item 'Hurda Metal' (#56340)
+[20:28:22	]Muhammet Özgürtaş ran 'take' on item 'Bozuk 9mm Tabanca' (#55571)
+[20:28:22	]Muhammet Özgürtaş has gained a 'Bozuk 9mm Tabanca' #55571.
+[20:28:31	]deathguard (STEAM_0:1:229653665) has disconnected.
+[20:58:26	]deathguard has connected.
+[20:59:10	]deathguard loaded the character 'Frederic Schopenhauer'
+[20:59:36	]Frederic Schopenhauer ran 'drop' on item 'Daire Anahtarı' (#33443)
+[20:59:36	]Frederic Schopenhauer has lost a 'Daire Anahtarı' #33443.
+[20:59:37	]Frederic Schopenhauer ran 'drop' on item 'Daire Anahtarı' (#47076)
+[20:59:37	]Frederic Schopenhauer has lost a 'Daire Anahtarı' #47076.
+[20:59:39	]Frederic Schopenhauer ran 'drop' on item 'Boş Bob Suyu' (#51585)
+[20:59:39	]Frederic Schopenhauer has lost a 'Boş Bob Suyu' #51585.
+[20:59:40	]Frederic Schopenhauer ran 'drop' on item 'Boş Bob Suyu' (#51586)
+[20:59:40	]Frederic Schopenhauer has lost a 'Boş Bob Suyu' #51586.
+[20:59:41	]Frederic Schopenhauer ran 'drop' on item 'Boş Breen'in Suyu' (#55888)
+[20:59:41	]Frederic Schopenhauer has lost a 'Boş Breen'in Suyu' #55888.
+[20:59:45	]Frederic Schopenhauer ran 'drop' on item 'Tarihi Geçmiş Premium Breen'in Suyu' (#46969)
+[20:59:45	]Frederic Schopenhauer has lost a 'Tarihi Geçmiş Premium Breen'in Suyu' #46969.
+[20:59:54	]deathguard (STEAM_0:1:229653665) has disconnected.

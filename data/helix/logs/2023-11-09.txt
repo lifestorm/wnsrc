@@ -1,0 +1,2490 @@
+[12:10:39	]Victorian has connected.
+[12:11:48	]Victorian loaded the character 'Fikret Saric'
+[12:11:53	]Fikret Saric is fully healed.
+[12:11:57	]Fikret Saric entered observer.
+[12:11:59	]Fikret Saric exited observer at their location.
+[12:12:00	]Fikret Saric entered observer.
+[12:12:07	]Fikret Saric exited observer at their location.
+[12:12:07	]Fikret Saric entered observer.
+[12:12:13	]Fikret Saric has acquired his ration, gaining 0 credits, 50 wages and a trueloyal_ration ration.
+[12:12:15	]Fikret Saric exited observer at their location.
+[12:12:15	]Fikret Saric entered observer.
+[12:12:19	]Fikret Saric exited observer at their location.
+[12:12:19	]Fikret Saric entered observer.
+[12:12:20	]Fikret Saric exited observer at their location.
+[12:12:21	]Fikret Saric entered observer.
+[12:12:26	]Fikret Saric ran 'Write' on item 'Bilgi ve Malzeme Toplama Görevi' (#20819)
+[12:12:30	]Fikret Saric ran 'Write' on item 'Bilgi ve Malzeme Toplama Görevi' (#20819)
+[12:12:54	]Fikret Saric ran 'Open' on item 'Gerçek Loyalist Rasyonu' (#20824)
+[12:12:54	]Fikret Saric has gained a 'Evrensel Birlik Çikolatası' #20825.
+[12:12:54	]Fikret Saric has gained a 'Somon Biftek' #20826.
+[12:12:54	]Fikret Saric has gained a 'Köpüklü Breen Suyu' #20827.
+[12:12:54	]Fikret Saric has gained a '20 Kredi Kuponu' #20828.
+[12:12:56	]Fikret Saric exited observer at their location.
+[12:12:58	]Fikret Saric entered observer.
+[12:12:58	]Fikret Saric exited observer at their location.
+[12:13:00	]Fikret Saric entered observer.
+[12:13:06	]Fikret Saric exited observer at their location.
+[12:13:12	]Fikret Saric entered observer.
+[12:13:59	]Fikret Saric has spawned 'models/props_lab/corkboard002.mdl'.
+[12:14:10	]Fikret Saric exited observer at their location.
+[12:14:18	]Fikret Saric entered observer.
+[12:14:19	]Fikret Saric exited observer at their location.
+[12:14:24	]Fikret Saric entered observer.
+[12:14:27	]Fikret Saric exited observer at their location.
+[12:14:33	]Fikret Saric entered observer.
+[12:14:34	]Fikret Saric exited observer at their location.
+[12:14:36	]Fikret Saric entered observer.
+[12:14:39	]Fikret Saric exited observer at their location.
+[12:14:46	]Fikret Saric has spawned a paper.
+[12:14:48	]Fikret Saric ran 'take' on item 'Paper' (#20829)
+[12:14:48	]Fikret Saric has gained a 'Paper' #20829.
+[12:14:51	]Fikret Saric ran 'Write' on item 'Paper' (#20829)
+[12:20:18	]Fikret Saric has gone afk.
+[12:25:53	]Fikret Saric is no longer afk. Total time spent AFK: 630
+[12:26:01	]Fikret Saric has spawned a pin.
+[12:26:07	]Fikret Saric ran 'Pin' on item 'Pin' (#20830)
+[12:26:11	]Fikret Saric entered observer.
+[12:26:20	]Fikret Saric ran 'take' on item 'Pin' (#20830)
+[12:26:20	]Fikret Saric has gained a 'Pin' #20830.
+[12:26:22	]Fikret Saric exited observer at their location.
+[12:26:25	]Fikret Saric ran 'Pin' on item 'Pin' (#20830)
+[12:26:33	]Fikret Saric ran 'drop' on item 'Gazetelere Dikkat!' (#20829)
+[12:26:33	]Fikret Saric has lost a 'Gazetelere Dikkat!' #20829.
+[12:26:47	]Fikret Saric ran 'Pin' on item 'Pin' (#20830)
+[12:26:49	]Fikret Saric entered observer.
+[12:26:57	]Fikret Saric has enabled persistence for 'models/props_lab/corkboard002.mdl'.
+[12:26:57	]Fikret Saric has used a context menu option with the name: persist
+[12:27:00	]Fikret Saric has used a context menu option with the name: remove
+[12:27:08	]Fikret Saric has spawned 'models/props_c17/chair_office01a.mdl'.
+[12:27:14	]Fikret Saric has enabled persistence for 'models/props_c17/chair_office01a.mdl'.
+[12:27:14	]Fikret Saric has used a context menu option with the name: persist
+[12:27:16	]Fikret Saric has spawned a usable entity class 'ix_chair' with model 'models/props_c17/chair_office01a.mdl'.
+[12:27:16	]Fikret Saric has used a context menu option with the name: ixusableentitycreate
+[12:27:26	]Fikret Saric exited observer at their location.
+[12:27:29	]Fikret Saric entered observer.
+[12:27:37	]Fikret Saric exited observer at their location.
+[12:27:38	]Fikret Saric entered observer.
+[12:27:38	]Fikret Saric exited observer at their location.
+[12:27:39	]Fikret Saric entered observer.
+[12:27:39	]Fikret Saric exited observer at their location.
+[12:27:40	]Fikret Saric entered observer.
+[12:27:41	]Fikret Saric exited observer at their location.
+[12:27:41	]Fikret Saric entered observer.
+[12:27:42	]Fikret Saric exited observer at their location.
+[12:27:43	]Fikret Saric has taken 14 damage from worldspawn.
+[12:27:43	]Fikret Saric entered observer.
+[12:27:44	]Fikret Saric exited observer at their location.
+[12:27:45	]Fikret Saric entered observer.
+[12:27:45	]Fikret Saric exited observer at their location.
+[12:27:47	]Fikret Saric entered observer.
+[12:28:13	]Fikret Saric exited observer at their location.
+[12:28:14	]Fikret Saric entered observer.
+[12:28:15	]Fikret Saric exited observer at their location.
+[12:28:15	]Fikret Saric entered observer.
+[12:28:26	]Fikret Saric exited observer at their location.
+[12:28:33	]Fikret Saric entered observer.
+[12:28:43	]Fikret Saric exited observer at their location.
+[12:28:46	]Fikret Saric has taken 1 damage from env_fire.
+[12:28:47	]Fikret Saric has taken 1 damage from env_fire.
+[12:28:58	]Fikret Saric has enabled persistence for 'models/headcrab.mdl'.
+[12:28:58	]Fikret Saric has used a context menu option with the name: persist
+[12:29:00	]Fikret Saric entered observer.
+[12:29:00	]Fikret Saric has taken 1 damage from env_fire.
+[12:29:19	]Fikret Saric exited observer at their location.
+[12:29:22	]Fikret Saric entered observer.
+[12:29:29	]Fikret Saric exited observer at their location.
+[12:29:31	]Fikret Saric entered observer.
+[12:29:40	]Fikret Saric exited observer at their location.
+[12:29:40	]Fikret Saric entered observer.
+[12:29:41	]Fikret Saric exited observer at their location.
+[12:29:41	]Fikret Saric entered observer.
+[12:29:42	]Fikret Saric exited observer at their location.
+[12:29:54	]Fikret Saric entered observer.
+[12:29:55	]Fikret Saric exited observer at their location.
+[12:29:56	]Fikret Saric entered observer.
+[12:30:10	]Fikret Saric has used a context menu option with the name: ixpropviewowner
+[12:30:13	]Fikret Saric exited observer at their location.
+[12:30:14	]Fikret Saric entered observer.
+[12:30:29	]Fikret Saric exited observer at their location.
+[12:30:31	]Fikret Saric entered observer.
+[12:30:33	]Fikret Saric exited observer at their location.
+[12:30:39	]Fikret Saric entered observer.
+[12:30:40	]Fikret Saric exited observer at their location.
+[12:30:40	]Fikret Saric entered observer.
+[12:30:40	]Fikret Saric exited observer at their location.
+[12:30:41	]Fikret Saric entered observer.
+[12:30:41	]Fikret Saric exited observer at their location.
+[12:30:41	]Fikret Saric entered observer.
+[12:30:41	]Fikret Saric exited observer at their location.
+[12:30:41	]Fikret Saric entered observer.
+[12:30:42	]Fikret Saric exited observer at their location.
+[12:30:42	]Fikret Saric entered observer.
+[12:30:42	]Fikret Saric exited observer at their location.
+[12:30:42	]Fikret Saric entered observer.
+[12:30:43	]Fikret Saric exited observer at their location.
+[12:30:43	]Fikret Saric entered observer.
+[12:30:43	]Fikret Saric exited observer at their location.
+[12:30:43	]Fikret Saric entered observer.
+[12:30:44	]Fikret Saric exited observer at their location.
+[12:30:44	]Fikret Saric entered observer.
+[12:30:46	]Fikret Saric exited observer at their location.
+[12:30:48	]Fikret Saric entered observer.
+[12:30:48	]Fikret Saric exited observer at their location.
+[12:30:54	]Fikret Saric entered observer.
+[12:30:59	]Fikret Saric exited observer at their location.
+[12:31:09	]Fikret Saric entered observer.
+[12:31:11	]Fikret Saric exited observer at their location.
+[12:31:13	]Fikret Saric entered observer.
+[12:31:15	]Fikret Saric exited observer at their location.
+[12:31:19	]Fikret Saric entered observer.
+[12:31:21	]Fikret Saric exited observer at their location.
+[12:31:21	]Fikret Saric entered observer.
+[12:31:21	]Fikret Saric exited observer at their location.
+[12:31:22	]Fikret Saric entered observer.
+[12:31:23	]Fikret Saric exited observer at their location.
+[12:31:25	]Fikret Saric entered observer.
+[12:31:33	]Fikret Saric exited observer at their location.
+[12:31:42	]Fikret Saric entered observer.
+[12:31:45	]Fikret Saric exited observer at their location.
+[12:31:46	]Fikret Saric entered observer.
+[12:31:47	]Fikret Saric exited observer at their location.
+[12:31:48	]Fikret Saric entered observer.
+[12:31:51	]Fikret Saric exited observer at their location.
+[12:31:51	]Fikret Saric has taken 8 damage from worldspawn.
+[12:31:53	]Fikret Saric entered observer.
+[12:31:56	]Fikret Saric exited observer at their location.
+[12:31:57	]Fikret Saric entered observer.
+[12:31:59	]Fikret Saric exited observer at their location.
+[12:31:59	]Fikret Saric entered observer.
+[12:32:03	]Fikret Saric exited observer at their location.
+[12:32:14	]Fikret Saric entered observer.
+[12:32:16	]Fikret Saric exited observer at their location.
+[12:32:17	]Fikret Saric entered observer.
+[12:32:23	]Fikret Saric has used a context menu option with the name: remove
+[12:32:26	]Fikret Saric exited observer at their location.
+[12:32:28	]Fikret Saric entered observer.
+[12:32:38	]Fikret Saric exited observer at their location.
+[12:32:42	]Fikret Saric entered observer.
+[12:32:52	]Fikret Saric exited observer at their location.
+[12:33:01	]Fikret Saric ran 'Consume' on item 'Somon Biftek' (#20826)
+[12:33:01	]Fikret Saric has gained a level 5 long boost in Zeka.
+[12:33:01	]Fikret Saric has gained a level 5 long boost in Algı.
+[12:33:07	]Fikret Saric ran 'Use' on item '20 Kredi Kuponu' (#20828)
+[12:33:09	]Fikret Saric has used a coupon at a ration dispenser, gaining 20 credits.
+[12:33:29	][PICKUP DISPENSER] Victorian ( Fikret Saric ) picked up an item from the pickup dispenser.
+[12:33:29	]Fikret Saric has gained a 'Daire Anahtarı' #20831.
+[12:33:33	]Fikret Saric entered observer.
+[12:33:41	]Fikret Saric exited observer at their location.
+[12:33:47	]Fikret Saric entered observer.
+[12:34:33	]Fikret Saric exited observer at their location.
+[12:34:36	]Fikret Saric entered observer.
+[12:34:37	]Fikret Saric exited observer at their location.
+[12:34:38	]Fikret Saric entered observer.
+[12:34:39	]Fikret Saric exited observer at their location.
+[12:34:43	]Fikret Saric entered observer.
+[12:34:49	]Fikret Saric exited observer at their location.
+[12:35:15	]Fikret Saric entered observer.
+[12:35:15	]Fikret Saric exited observer at their location.
+[12:35:16	]Fikret Saric entered observer.
+[12:35:17	]Fikret Saric exited observer at their location.
+[12:35:30	]Fikret Saric entered observer.
+[12:35:45	]Fikret Saric exited observer at their location.
+[12:35:47	]Fikret Saric entered observer.
+[12:35:50	]Fikret Saric exited observer at their location.
+[12:35:52	]Fikret Saric entered observer.
+[12:35:52	]Fikret Saric exited observer at their location.
+[12:35:55	]Fikret Saric has taken 40 damage from worldspawn.
+[12:35:55	]Fikret Saric entered observer.
+[12:35:56	]Fikret Saric exited observer at their location.
+[12:36:05	]Fikret Saric ran SAM command 'hp' with arguments: 'Fikret' '100'
+[12:36:06	]Fikret Saric entered observer.
+[12:36:07	]Fikret Saric exited observer at their location.
+[12:36:08	]Fikret Saric entered observer.
+[12:36:08	]Fikret Saric is fully healed.
+[12:36:09	]Fikret Saric exited observer at their location.
+[12:36:10	]Fikret Saric entered observer.
+[12:36:11	]Fikret Saric exited observer at their location.
+[12:36:14	]Fikret Saric has used a context menu option with the name: skin
+[12:36:17	]Fikret Saric has used a context menu option with the name: skin
+[12:36:20	]Fikret Saric has used a context menu option with the name: skin
+[12:36:23	]Fikret Saric has used a context menu option with the name: skin
+[12:36:25	]Fikret Saric entered observer.
+[12:36:30	]Fikret Saric has used a context menu option with the name: skin
+[12:36:33	]Fikret Saric exited observer at their location.
+[12:36:41	]Victorian loaded the character 'C24:RCT.YELLO-11'
+[12:36:57	]C24:RCT.YELLO-11 entered observer.
+[12:37:04	]C24:RCT.YELLO-11 exited observer at their location.
+[12:37:05	]C24:RCT.YELLO-11 entered observer.
+[12:37:07	]C24:RCT.YELLO-11 exited observer at their location.
+[12:37:08	]C24:RCT.YELLO-11 entered observer.
+[12:37:12	]C24:RCT.YELLO-11 exited observer at their location.
+[12:37:15	]C24:RCT.YELLO-11 entered observer.
+[12:37:23	]C24:RCT.YELLO-11 exited observer at their location.
+[12:37:37	]C24:RCT.YELLO-11 entered observer.
+[12:37:40	]C24:RCT.YELLO-11 exited observer at their location.
+[12:38:00	]C24:RCT.YELLO-11 entered observer.
+[12:38:05	]C24:RCT.YELLO-11 exited observer at their location.
+[12:38:12	]C24:RCT.YELLO-11 entered observer.
+[12:38:18	]C24:RCT.YELLO-11 exited observer at their location.
+[12:38:30	]C24:RCT.YELLO-11 entered observer.
+[12:38:31	]C24:RCT.YELLO-11 exited observer at their location.
+[12:38:49	][IC] C24:RCT.YELLO-11: <:: Deneme. ::>
+[12:38:51	][IC] C24:RCT.YELLO-11: <:: Seks. ::>
+[12:39:02	]C24:RCT.YELLO-11 entered observer.
+[12:39:22	]C24:RCT.YELLO-11 exited observer at their location.
+[12:39:24	]C24:RCT.YELLO-11 entered observer.
+[12:39:28	]C24:RCT.YELLO-11 exited observer at their location.
+[12:39:28	]C24:RCT.YELLO-11 entered observer.
+[12:39:40	]C24:RCT.YELLO-11 exited observer at their location.
+[12:39:42	]C24:RCT.YELLO-11 entered observer.
+[12:39:43	]C24:RCT.YELLO-11 exited observer at their location.
+[12:40:17	]C24:RCT.YELLO-11 used command '/CharDesc'.
+[12:40:49	]C24:RCT.YELLO-11 ran 'drop' on item 'SK Maskesi' (#20594)
+[12:40:49	]C24:RCT.YELLO-11 has lost a 'SK Maskesi' #20594.
+[12:40:52	]C24:RCT.YELLO-11 ran 'take' on item 'SK Maskesi' (#20594)
+[12:40:52	]C24:RCT.YELLO-11 has gained a 'SK Maskesi' #20594.
+[12:41:32	]C24:RCT.YELLO-11 entered observer.
+[12:41:38	]C24:RCT.YELLO-11 exited observer at their location.
+[12:41:41	]C24:RCT.YELLO-11 has taken 69 damage from worldspawn.
+[12:41:47	]C24:RCT.YELLO-11 ran SAM command 'hp' with arguments: 'C24' '100'
+[12:41:48	]C24:RCT.YELLO-11 entered observer.
+[12:41:48	]C24:RCT.YELLO-11 exited observer at their location.
+[12:41:50	]C24:RCT.YELLO-11 entered observer.
+[12:41:50	]C24:RCT.YELLO-11 exited observer at their location.
+[12:41:51	]C24:RCT.YELLO-11 is fully healed.
+[12:41:51	]C24:RCT.YELLO-11 entered observer.
+[12:41:53	]C24:RCT.YELLO-11 exited observer at their location.
+[12:41:54	]C24:RCT.YELLO-11 entered observer.
+[12:41:54	]C24:RCT.YELLO-11 exited observer at their location.
+[12:41:55	]C24:RCT.YELLO-11 entered observer.
+[12:41:58	]C24:RCT.YELLO-11 exited observer at their location.
+[12:41:58	]C24:RCT.YELLO-11 entered observer.
+[12:41:59	]C24:RCT.YELLO-11 exited observer at their location.
+[12:42:47	]C24:RCT.YELLO-11 entered observer.
+[12:43:25	]C24:RCT.YELLO-11 exited observer at their location.
+[12:43:41	][IC] C24:RCT.YELLO-11: <:: 10-4. ::>
+[12:43:44	][IC] C24:RCT.YELLO-11: <:: Sa. ::>
+[12:43:46	][IC] C24:RCT.YELLO-11: <:: 10-4. ::>
+[12:43:49	][IC] C24:RCT.YELLO-11: <:: 10-4. ::>
+[12:43:56	][IC] C24:RCT.YELLO-11: <:: Hey. ::>
+[12:43:58	][IC] C24:RCT.YELLO-11: <:: Hmph. ::>
+[12:44:00	][IC] C24:RCT.YELLO-11: <:: Haha. ::>
+[12:44:05	][IC] C24:RCT.YELLO-11: <:: Pick up that can. ::>
+[12:44:28	][IC] C24:RCT.YELLO-11: <:: What the hell? ::>
+[12:44:57	][IC] C24:RCT.YELLO-11: <:: Industrial zone. ::>
+[12:45:27	][IC] C24:RCT.YELLO-11: <:: Need any help with this one? ::>
+[12:45:31	][IC] C24:RCT.YELLO-11: <:: Need any help with this one? ::>
+[12:45:37	][IC] C24:RCT.YELLO-11: <:: Industrial zone. ::>
+[12:46:46	]C24:RCT.YELLO-11 entered observer.
+[12:46:48	]C24:RCT.YELLO-11 exited observer at their location.
+[12:46:48	]C24:RCT.YELLO-11 entered observer.
+[12:46:49	]C24:RCT.YELLO-11 exited observer at their location.
+[12:46:50	]C24:RCT.YELLO-11 entered observer.
+[12:46:52	]C24:RCT.YELLO-11 exited observer at their location.
+[12:47:10	]C24:RCT.YELLO-11 entered observer.
+[12:47:14	]C24:RCT.YELLO-11 exited observer at their location.
+[12:47:15	]C24:RCT.YELLO-11 entered observer.
+[12:47:16	]C24:RCT.YELLO-11 exited observer at their location.
+[12:47:17	]C24:RCT.YELLO-11 entered observer.
+[12:47:18	]C24:RCT.YELLO-11 exited observer at their location.
+[12:47:18	]C24:RCT.YELLO-11 entered observer.
+[12:47:25	]C24:RCT.YELLO-11 exited observer at their location.
+[12:47:26	]C24:RCT.YELLO-11 has taken 38 damage from worldspawn.
+[12:49:17	]C24:RCT.YELLO-11 ran SAM command 'hp' with arguments: 'C24' '100'
+[12:49:21	]C24:RCT.YELLO-11 is fully healed.
+[12:50:07	]C24:RCT.YELLO-11 entered observer.
+[12:50:12	]C24:RCT.YELLO-11 exited observer at their location.
+[12:52:25	]Victorian (STEAM_0:0:577700614) has disconnected.
+[15:08:51	]Hoo Lee Fuk has connected.
+[15:09:28	]Hoo Lee Fuk loaded the character 'John Brookly'
+[15:09:32	]John Brookly entered observer.
+[15:09:39	]John Brookly ran 'Write' on item 'Combine ile İşbirliği,Huzur ve Güven' (#18200)
+[15:09:47	]John Brookly ran 'Write' on item 'Bilgi ve Malzeme Toplama Görevi' (#20819)
+[15:10:07	]John Brookly ran 'Write' on item 'Bilgi ve Malzeme Toplama Görevi' (#20819)
+[15:10:44	]John Brookly used the 'Kupon Makinesi' vendor.
+[15:10:46	]John Brookly used the 'Kupon Makinesi' vendor.
+[15:10:57	]John Brookly exited observer at their location.
+[15:10:58	]John Brookly entered observer.
+[15:11:01	]John Brookly has fired a toolgun with the name: remover
+[15:11:01	]John Brookly has fired a toolgun with the name: remover
+[15:11:02	]John Brookly has fired a toolgun with the name: remover
+[15:11:02	]John Brookly has fired a toolgun with the name: remover
+[15:11:03	]John Brookly has fired a toolgun with the name: remover
+[15:11:03	]John Brookly has fired a toolgun with the name: remover
+[15:11:04	]John Brookly has fired a toolgun with the name: remover
+[15:11:05	]John Brookly has fired a toolgun with the name: remover
+[15:11:05	]John Brookly has fired a toolgun with the name: remover
+[15:11:06	]John Brookly has fired a toolgun with the name: remover
+[15:11:06	]John Brookly has fired a toolgun with the name: remover
+[15:11:06	]John Brookly has fired a toolgun with the name: remover
+[15:11:07	]John Brookly has fired a toolgun with the name: remover
+[15:11:13	]John Brookly admin-searched the 'Basın ve Arşiv' #2818 container.
+[15:11:13	]John Brookly has used a context menu option with the name: wncontainer_view
+[15:11:14	]John Brookly admin-closed the 'Basın ve Arşiv' #2818 container.
+[15:11:14	]John Brookly has fired a toolgun with the name: remover
+[15:11:15	]John Brookly exited observer at their location.
+[15:15:18	]John Brookly entered observer.
+[15:15:21	]John Brookly exited observer at their location.
+[15:15:37	]John Brookly entered observer.
+[15:16:28	]John Brookly used command '/PanelAdd https://cdn.discordapp.com/attachments/1140724720522776669/1172177551863582800/d7c1qh9-5f271e01-4686-4472-86fd-44e08b871d7b.png 0.6'.
+[15:16:30	]John Brookly exited observer at their location.
+[15:17:01	]John Brookly used command '/PanelRemove'.
+[15:17:02	]John Brookly entered observer.
+[15:17:11	]John Brookly used command '/PanelAdd https://cdn.discordapp.com/attachments/1140724720522776669/1172177551863582800/d7c1qh9-5f271e01-4686-4472-86fd-44e08b871d7b.png 0.6'.
+[15:17:23	]John Brookly used command '/PanelAdd https://cdn.discordapp.com/attachments/1140724720522776669/1172177551863582800/d7c1qh9-5f271e01-4686-4472-86fd-44e08b871d7b.png 0.6'.
+[15:20:23	]John Brookly used command '/PanelAdd https://cdn.discordapp.com/attachments/1140724720522776669/1172178694287151226/Gurur.png 1'.
+[15:20:28	]John Brookly used command '/PanelRemove'.
+[15:20:41	]John Brookly exited observer at their location.
+[15:21:02	]John Brookly entered observer.
+[15:21:11	]John Brookly exited observer at their location.
+[15:21:16	]John Brookly used command '/PanelRemove'.
+[15:21:17	]John Brookly entered observer.
+[15:21:29	]John Brookly exited observer at their location.
+[15:21:29	]John Brookly entered observer.
+[15:21:30	]John Brookly exited observer at their location.
+[15:21:34	]John Brookly entered observer.
+[15:21:41	]John Brookly has used a context menu option with the name: remove
+[15:21:46	]John Brookly has used a context menu option with the name: remove
+[15:21:48	]John Brookly has used a context menu option with the name: remove
+[15:21:49	]John Brookly ran 'Write' on item 'Notepad' (#15551)
+[15:21:54	]John Brookly has used a context menu option with the name: remove
+[15:21:56	]John Brookly exited observer at their location.
+[15:22:26	]John Brookly entered observer.
+[15:22:28	]John Brookly exited observer at their location.
+[15:22:30	]John Brookly has used a context menu option with the name: remove
+[15:22:36	]John Brookly used command '/PanelAdd https://cdn.discordapp.com/attachments/1140724720522776669/1172178694287151226/Gurur.png 0.4'.
+[15:22:43	]John Brookly entered observer.
+[15:22:47	]John Brookly exited observer at their location.
+[15:22:48	]John Brookly entered observer.
+[15:23:02	]John Brookly has spawned 'models/c24_exterior/c24_cityposters.mdl'.
+[15:23:05	]John Brookly has used a context menu option with the name: skin
+[15:23:09	]John Brookly exited observer at their location.
+[15:23:13	]John Brookly has spawned 'models/willardnetworks/posters/wn_portrait_1.mdl'.
+[15:23:15	]John Brookly has spawned 'models/willardnetworks/posters/wn_portrait_2.mdl'.
+[15:23:16	]John Brookly has spawned 'models/willardnetworks/posters/wn_portrait_3.mdl'.
+[15:23:17	]John Brookly entered observer.
+[15:23:19	]John Brookly has spawned 'models/willardnetworks/posters/wn_portrait_3.mdl'.
+[15:23:22	]John Brookly exited observer at their location.
+[15:23:29	]John Brookly entered observer.
+[15:23:32	]John Brookly exited observer at their location.
+[15:23:35	]John Brookly has spawned 'models/willardnetworks/posters/wn_poster_1.mdl'.
+[15:23:37	]John Brookly has used a context menu option with the name: skin
+[15:23:39	]John Brookly has spawned 'models/willardnetworks/posters/wn_poster_2.mdl'.
+[15:23:41	]John Brookly has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[15:23:44	]John Brookly has used a context menu option with the name: skin
+[15:23:48	]John Brookly has used a context menu option with the name: skin
+[15:23:50	]John Brookly has used a context menu option with the name: skin
+[15:23:55	]John Brookly has used a context menu option with the name: skin
+[15:23:58	]John Brookly has used a context menu option with the name: skin
+[15:24:04	]John Brookly has used a context menu option with the name: skin
+[15:24:07	]John Brookly has used a context menu option with the name: skin
+[15:24:11	]John Brookly has used a context menu option with the name: skin
+[15:24:13	]John Brookly has used a context menu option with the name: skin
+[15:24:16	]John Brookly has used a context menu option with the name: skin
+[15:24:19	]John Brookly has used a context menu option with the name: skin
+[15:24:22	]John Brookly has used a context menu option with the name: skin
+[15:24:25	]John Brookly has used a context menu option with the name: skin
+[15:24:30	]John Brookly has used a context menu option with the name: skin
+[15:24:33	]John Brookly has used a context menu option with the name: skin
+[15:24:37	]John Brookly has used a context menu option with the name: skin
+[15:24:42	]John Brookly has used a context menu option with the name: skin
+[15:24:45	]John Brookly has used a context menu option with the name: skin
+[15:24:47	]John Brookly has used a context menu option with the name: skin
+[15:24:49	]John Brookly has used a context menu option with the name: skin
+[15:24:52	]John Brookly has used a context menu option with the name: skin
+[15:24:56	]John Brookly has used a context menu option with the name: skin
+[15:24:58	]John Brookly has used a context menu option with the name: skin
+[15:25:00	]John Brookly has used a context menu option with the name: skin
+[15:25:03	]John Brookly has used a context menu option with the name: skin
+[15:25:04	]John Brookly has used a context menu option with the name: skin
+[15:25:06	]John Brookly has used a context menu option with the name: skin
+[15:25:08	]John Brookly has used a context menu option with the name: skin
+[15:25:11	]John Brookly has used a context menu option with the name: skin
+[15:25:15	]John Brookly has used a context menu option with the name: skin
+[15:25:18	]John Brookly has used a context menu option with the name: skin
+[15:25:20	]John Brookly has used a context menu option with the name: skin
+[15:25:24	]John Brookly has used a context menu option with the name: skin
+[15:25:29	]John Brookly has used a context menu option with the name: skin
+[15:25:35	]John Brookly has used a context menu option with the name: skin
+[15:25:42	]John Brookly has used a context menu option with the name: skin
+[15:25:45	]John Brookly has used a context menu option with the name: skin
+[15:25:48	]John Brookly has used a context menu option with the name: skin
+[15:25:52	]John Brookly has used a context menu option with the name: skin
+[15:25:57	]John Brookly has used a context menu option with the name: skin
+[15:26:00	]John Brookly has used a context menu option with the name: skin
+[15:26:04	]John Brookly has used a context menu option with the name: skin
+[15:26:09	]John Brookly has used a context menu option with the name: skin
+[15:26:14	]John Brookly has used a context menu option with the name: skin
+[15:26:17	]John Brookly has used a context menu option with the name: skin
+[15:26:21	]John Brookly has used a context menu option with the name: skin
+[15:26:25	]John Brookly has used a context menu option with the name: skin
+[15:26:37	]John Brookly has used a context menu option with the name: skin
+[15:26:41	]John Brookly has used a context menu option with the name: skin
+[15:26:45	]John Brookly has used a context menu option with the name: skin
+[15:26:51	]John Brookly has used a context menu option with the name: skin
+[15:26:54	]John Brookly has used a context menu option with the name: skin
+[15:26:57	]John Brookly has used a context menu option with the name: skin
+[15:27:00	]John Brookly has used a context menu option with the name: skin
+[15:27:03	]John Brookly has used a context menu option with the name: skin
+[15:27:07	]John Brookly entered observer.
+[15:27:12	]John Brookly has enabled persistence for 'models/willardnetworks/posters/wn_portrait_3.mdl'.
+[15:27:12	]John Brookly has used a context menu option with the name: persist
+[15:27:20	]John Brookly exited observer at their location.
+[15:27:24	]John Brookly has used a context menu option with the name: collision_on
+[15:27:30	]John Brookly has used a context menu option with the name: ixpropviewowner
+[15:27:31	]John Brookly entered observer.
+[15:27:41	]John Brookly exited observer at their location.
+[15:27:41	]John Brookly entered observer.
+[15:27:42	]John Brookly exited observer at their location.
+[15:27:43	]John Brookly has spawned 'models/willardnetworks/posters/wn_portrait_3.mdl'.
+[15:27:45	]John Brookly has used a context menu option with the name: skin
+[15:27:48	]John Brookly has used a context menu option with the name: skin
+[15:27:50	]John Brookly has used a context menu option with the name: skin
+[15:27:54	]John Brookly has used a context menu option with the name: skin
+[15:27:56	]John Brookly has used a context menu option with the name: skin
+[15:27:59	]John Brookly has used a context menu option with the name: skin
+[15:28:03	]John Brookly has used a context menu option with the name: skin
+[15:28:05	]John Brookly has used a context menu option with the name: skin
+[15:28:07	]John Brookly has used a context menu option with the name: skin
+[15:28:10	]John Brookly has used a context menu option with the name: skin
+[15:28:13	]John Brookly has used a context menu option with the name: skin
+[15:28:19	]John Brookly has used a context menu option with the name: skin
+[15:28:21	]John Brookly has used a context menu option with the name: skin
+[15:28:31	]John Brookly has given himself a pos_terminal.
+[15:28:31	]John Brookly has gained a 'POS Terminal' #20832.
+[15:28:52	]John Brookly opened the 'SIB Işçi Malzemeleri Dolabı' #2811 container.
+[15:28:56	]John Brookly has transferred a 'POS Terminal' #20832 to a container with the name 'SIB Işçi Malzemeleri Dolabı' #2811.
+[15:28:57	]John Brookly closed the 'SIB Işçi Malzemeleri Dolabı' #2811 container.
+[15:28:58	]John Brookly has given himself a pos_terminal.
+[15:28:58	]John Brookly has gained a 'POS Terminal' #20833.
+[15:29:00	]John Brookly has given himself a pos_terminal.
+[15:29:00	]John Brookly has gained a 'POS Terminal' #20834.
+[15:29:01	]John Brookly has given himself a pos_terminal.
+[15:29:01	]John Brookly has gained a 'POS Terminal' #20835.
+[15:29:01	]John Brookly opened the 'SIB Işçi Malzemeleri Dolabı' #2811 container.
+[15:29:03	]John Brookly has transferred a 'POS Terminal' #20835 to a container with the name 'SIB Işçi Malzemeleri Dolabı' #2811.
+[15:29:04	]John Brookly has transferred a 'POS Terminal' #20834 to a container with the name 'SIB Işçi Malzemeleri Dolabı' #2811.
+[15:29:06	]John Brookly has transferred a 'POS Terminal' #20833 to a container with the name 'SIB Işçi Malzemeleri Dolabı' #2811.
+[15:29:07	]John Brookly closed the 'SIB Işçi Malzemeleri Dolabı' #2811 container.
+[15:29:08	]John Brookly has given himself a pos_terminal.
+[15:29:08	]John Brookly has gained a 'POS Terminal' #20836.
+[15:29:09	]John Brookly opened the 'SIB Başkanının' #2810 container.
+[15:29:14	]John Brookly closed the 'SIB Başkanının' #2810 container.
+[15:29:16	]John Brookly entered observer.
+[15:30:08	]John Brookly ran 'Consume' on item 'Somon Biftek' (#20378)
+[15:30:08	]John Brookly has wasted a level 5 long boost in Zeka (current: 0; target: 7).
+[15:30:08	]John Brookly has wasted a level 5 long boost in Algı (current: 1; target: 7).
+[15:30:27	]John Brookly exited observer at their location.
+[15:30:27	]John Brookly entered observer.
+[15:30:28	]John Brookly exited observer at their location.
+[15:30:29	]John Brookly entered observer.
+[15:31:01	]John Brookly has used a context menu option with the name: bodygroups
+[15:31:03	]John Brookly has used a context menu option with the name: bodygroups
+[15:31:05	]John Brookly has used a context menu option with the name: skin
+[15:31:07	]John Brookly has used a context menu option with the name: skin
+[15:31:58	][PICKUP DISPENSER] Hoo Lee Fuk ( John Brookly ) picked up an item from the pickup dispenser.
+[15:31:58	]John Brookly has gained a 'Daire Anahtarı' #20837.
+[15:32:08	]John Brookly exited observer at their location.
+[15:32:09	]John Brookly entered observer.
+[15:32:10	]John Brookly exited observer at their location.
+[15:32:11	]John Brookly entered observer.
+[15:32:14	]John Brookly exited observer at their location.
+[15:32:17	]John Brookly ran 'drop' on item 'Daire Anahtarı' (#20270)
+[15:32:17	]John Brookly has lost a 'Daire Anahtarı' #20270.
+[15:32:19	]John Brookly has used a context menu option with the name: remove
+[15:32:19	]John Brookly entered observer.
+[15:32:22	]John Brookly exited observer at their location.
+[15:32:26	]John Brookly entered observer.
+[15:32:44	]Victorian has connected.
+[15:33:40	]Victorian loaded the character 'Fikret Saric'
+[15:33:48	]Fikret Saric entered observer.
+[15:33:58	]Fikret Saric exited observer at their location.
+[15:34:07	]Fikret Saric entered observer.
+[15:34:12	][OOC] John Brookly: hg
+[15:34:18	][OOC] Fikret Saric: hb
+[15:34:21	]Fikret Saric has used a context menu option with the name: ixpropviewowner
+[15:34:34	][OOC] Fikret Saric: admin komutlarının bi listesi var mı
+[15:34:35	]Fikret Saric exited observer at their location.
+[15:34:35	]Fikret Saric entered observer.
+[15:34:36	]Fikret Saric exited observer at their location.
+[15:34:37	]Fikret Saric entered observer.
+[15:34:43	]Fikret Saric exited observer at their location.
+[15:34:44	]Fikret Saric entered observer.
+[15:34:45	]Fikret Saric exited observer at their location.
+[15:34:46	]Fikret Saric entered observer.
+[15:34:46	]Fikret Saric exited observer at their location.
+[15:34:48	]Fikret Saric entered observer.
+[15:34:49	]Fikret Saric exited observer at their location.
+[15:34:51	]Fikret Saric entered observer.
+[15:34:52	]Fikret Saric exited observer at their location.
+[15:34:54	]Fikret Saric entered observer.
+[15:34:54	][OOC] John Brookly: yok
+[15:34:56	]Fikret Saric exited observer at their location.
+[15:34:57	]Fikret Saric entered observer.
+[15:34:58	]Fikret Saric exited observer at their location.
+[15:35:12	][OOC] Fikret Saric: bizim kullandığımız moderasyon eklentisinin adı neydi
+[15:35:12	]Fikret Saric entered observer.
+[15:35:17	]Fikret Saric exited observer at their location.
+[15:35:18	]Fikret Saric entered observer.
+[15:35:18	]Fikret Saric exited observer at their location.
+[15:35:19	]Fikret Saric entered observer.
+[15:35:20	]Fikret Saric exited observer at their location.
+[15:35:21	]Fikret Saric entered observer.
+[15:35:22	]Fikret Saric exited observer at their location.
+[15:35:24	]Fikret Saric has taken 19 damage from worldspawn.
+[15:35:25	]Fikret Saric entered observer.
+[15:35:26	]Fikret Saric exited observer at their location.
+[15:35:27	]Fikret Saric entered observer.
+[15:35:30	]John Brookly ran 'drop' on item 'Onur Madalyası' (#20254)
+[15:35:30	]John Brookly has lost a 'Onur Madalyası' #20254.
+[15:35:32	]John Brookly ran 'take' on item 'Onur Madalyası' (#20254)
+[15:35:32	]John Brookly has gained a 'Onur Madalyası' #20254.
+[15:35:33	]Fikret Saric exited observer at their location.
+[15:35:34	]Fikret Saric entered observer.
+[15:35:35	]Fikret Saric exited observer at their location.
+[15:35:38	]Fikret Saric entered observer.
+[15:35:41	]John Brookly used command '/FindItemById 20254'.
+[15:35:53	][OOC] John Brookly: nye
+[15:35:56	][OOC] John Brookly: ne
+[15:36:15	][OOC] Fikret Saric: hani hp verebiliosun ya onu kullanan sistem
+[15:36:16	]John Brookly used command '/RemoveApartmentDoor'.
+[15:36:21	][OOC] John Brookly: !menu?
+[15:36:24	]Fikret Saric ran SAM command 'menu' with arguments: ''
+[15:36:27	]John Brookly ran SAM command 'menu' with arguments: ''
+[15:36:30	][OOC] Fikret Saric: teşekkürler
+[15:36:33	]Fikret Saric ran SAM command 'menu' with arguments: ''
+[15:36:54	]Fikret Saric exited observer at their location.
+[15:36:56	]Fikret Saric entered observer.
+[15:36:57	]Fikret Saric exited observer at their location.
+[15:36:58	][OOC] John Brookly: bende kiraları ayarlıyordum
+[15:36:59	]Fikret Saric entered observer.
+[15:36:59	]Fikret Saric exited observer at their location.
+[15:37:01	]Fikret Saric entered observer.
+[15:37:01	]Fikret Saric exited observer at their location.
+[15:37:06	][OOC] Fikret Saric: teşekkürler
+[15:37:07	]Fikret Saric entered observer.
+[15:37:07	]Fikret Saric exited observer at their location.
+[15:37:09	]Fikret Saric entered observer.
+[15:37:09	]Fikret Saric exited observer at their location.
+[15:37:10	]Fikret Saric entered observer.
+[15:37:10	]Fikret Saric exited observer at their location.
+[15:37:16	][OOC] Fikret Saric: SK eğitimi olacak mı
+[15:37:16	]Fikret Saric entered observer.
+[15:37:16	]Fikret Saric exited observer at their location.
+[15:37:18	]Fikret Saric entered observer.
+[15:37:18	]Fikret Saric exited observer at their location.
+[15:37:20	]Fikret Saric entered observer.
+[15:37:20	]Fikret Saric exited observer at their location.
+[15:37:22	][OOC] John Brookly: sv acılınca
+[15:37:23	][OOC] John Brookly: olur
+[15:37:52	][OOC] Fikret Saric: yarın açılcak dedi enis
+[15:37:53	]Fikret Saric entered observer.
+[15:37:54	]Fikret Saric exited observer at their location.
+[15:37:54	]Fikret Saric entered observer.
+[15:37:55	]Fikret Saric exited observer at their location.
+[15:37:56	]Fikret Saric entered observer.
+[15:37:57	]Fikret Saric exited observer at their location.
+[15:37:57	]Fikret Saric entered observer.
+[15:37:57	]Fikret Saric exited observer at their location.
+[15:38:02	][OOC] John Brookly: umarım
+[15:38:05	]Fikret Saric ran 'Write' on item 'BALTIC CAFE AÇIK!' (#20013)
+[15:38:11	]Fikret Saric entered observer.
+[15:38:11	]Fikret Saric exited observer at their location.
+[15:38:12	]Fikret Saric entered observer.
+[15:38:13	]Fikret Saric exited observer at their location.
+[15:38:21	]Victorian loaded the character 'Chang Huo'
+[15:38:25	][OOC] John Brookly: apartmanlar sıkıntılı
+[15:38:29	][OOC] John Brookly: onların kapılarını yapıyom
+[15:38:38	]John Brookly exited observer at their location.
+[15:38:38	]John Brookly entered observer.
+[15:38:41	]John Brookly has fired a toolgun with the name: remover
+[15:38:42	]John Brookly has fired a toolgun with the name: remover
+[15:38:42	][OOC] Chang Huo: doğru bazılarının eksik
+[15:38:44	]John Brookly has fired a toolgun with the name: remover
+[15:38:51	][OOC] Chang Huo: ben Baltic Cafe'ye işçi ekleyeceğim
+[15:38:51	]Chang Huo entered observer.
+[15:38:53	][OOC] John Brookly: dükkanları dün yaptım
+[15:38:59	]Chang Huo exited observer at their location.
+[15:39:00	]Chang Huo entered observer.
+[15:39:00	]Chang Huo exited observer at their location.
+[15:39:01	][OOC] John Brookly: simdi sıra apartmanlarda
+[15:39:04	]John Brookly exited observer at their location.
+[15:39:06	]John Brookly entered observer.
+[15:39:07	]John Brookly exited observer at their location.
+[15:39:11	][OOC] Chang Huo: hangi dükkanlar aktif şuan
+[15:39:12	]Chang Huo entered observer.
+[15:39:12	]Chang Huo exited observer at their location.
+[15:39:14	]Chang Huo entered observer.
+[15:39:14	]Chang Huo exited observer at their location.
+[15:39:16	]Chang Huo entered observer.
+[15:39:22	]John Brookly used command '/SetApartmentDoor RA-A-01-01'.
+[15:39:25	]Chang Huo exited observer at their location.
+[15:39:26	]Chang Huo entered observer.
+[15:39:27	]John Brookly entered observer.
+[15:39:27	]Chang Huo exited observer at their location.
+[15:39:28	]John Brookly exited observer at their location.
+[15:39:29	]John Brookly entered observer.
+[15:39:30	]John Brookly used command '/SetApartmentDoor RA-A-01-01'.
+[15:39:31	]Chang Huo entered observer.
+[15:39:32	]John Brookly exited observer at their location.
+[15:39:33	]Chang Huo exited observer at their location.
+[15:39:34	]John Brookly entered observer.
+[15:39:36	]John Brookly used command '/SetApartmentDoor RA-A-01-01'.
+[15:39:38	]Chang Huo entered observer.
+[15:39:39	][OOC] John Brookly: BAKSANA
+[15:39:39	]Chang Huo exited observer at their location.
+[15:39:41	][OOC] John Brookly: pda den
+[15:39:44	]John Brookly exited observer at their location.
+[15:39:44	]John Brookly entered observer.
+[15:39:45	]John Brookly exited observer at their location.
+[15:39:48	]John Brookly used command '/SetApartmentDoor RA-A-01-02'.
+[15:39:49	]John Brookly entered observer.
+[15:39:52	]John Brookly used command '/SetApartmentDoor RA-A-01-02'.
+[15:40:02	]Chang Huo entered observer.
+[15:40:05	]John Brookly used command '/SetApartmentDoor RA-A-02-01'.
+[15:40:06	]Chang Huo exited observer at their location.
+[15:40:08	]John Brookly used command '/SetApartmentDoor RA-A-02-01'.
+[15:40:13	]John Brookly used command '/SetApartmentDoor RA-A-02-02'.
+[15:40:15	]John Brookly used command '/SetApartmentDoor RA-A-02-02'.
+[15:40:23	]John Brookly used command '/SetApartmentDoor RA-A-03-01'.
+[15:40:25	]John Brookly used command '/SetApartmentDoor RA-A-03-01'.
+[15:40:27	]John Brookly used command '/SetApartmentDoor RA-A-03-01'.
+[15:40:33	]John Brookly used command '/SetApartmentDoor RA-A-03-02'.
+[15:40:36	]John Brookly has fired a toolgun with the name: remover
+[15:40:37	]John Brookly has fired a toolgun with the name: remover
+[15:40:37	]John Brookly has fired a toolgun with the name: remover
+[15:40:37	]John Brookly has fired a toolgun with the name: remover
+[15:40:38	][OOC] Chang Huo: bi CID numaranı yazsana bişey denicem
+[15:40:39	]Chang Huo entered observer.
+[15:40:39	]Chang Huo exited observer at their location.
+[15:40:39	]John Brookly used command '/SetApartmentDoor RA-A-03-02'.
+[15:40:39	]Chang Huo entered observer.
+[15:40:40	]Chang Huo exited observer at their location.
+[15:40:41	]Chang Huo entered observer.
+[15:40:43	]Chang Huo exited observer at their location.
+[15:40:43	]John Brookly used command '/ID'.
+[15:40:44	]Chang Huo entered observer.
+[15:40:44	]Chang Huo exited observer at their location.
+[15:40:45	]Chang Huo entered observer.
+[15:40:46	]Chang Huo exited observer at their location.
+[15:40:46	]Chang Huo entered observer.
+[15:40:46	]Chang Huo exited observer at their location.
+[15:40:46	][OOC] John Brookly: 96468
+[15:40:46	]Chang Huo entered observer.
+[15:40:46	]Chang Huo exited observer at their location.
+[15:40:47	]Chang Huo entered observer.
+[15:40:47	]Chang Huo exited observer at their location.
+[15:40:49	]Chang Huo entered observer.
+[15:40:55	]John Brookly used command '/SetApartmentDoor RA-A-04-01'.
+[15:40:57	]John Brookly used command '/SetApartmentDoor RA-A-04-01'.
+[15:40:59	]John Brookly used command '/SetApartmentDoor RA-A-04-01'.
+[15:41:04	]John Brookly used command '/SetApartmentDoor RA-A-04-02'.
+[15:41:06	]John Brookly used command '/SetApartmentDoor RA-A-04-02'.
+[15:41:29	]John Brookly used command '/SetApartmentDoor RA-B-01-01'.
+[15:41:32	]John Brookly used command '/SetApartmentDoor RA-B-01-01'.
+[15:41:34	]John Brookly used command '/SetApartmentDoor RA-B-01-01'.
+[15:41:39	]John Brookly used command '/SetApartmentDoor RA-B-01-02'.
+[15:41:41	]John Brookly used command '/SetApartmentDoor RA-B-01-02'.
+[15:41:44	]John Brookly used command '/SetApartmentDoor RA-B-01-02'.
+[15:41:50	]John Brookly used command '/SetApartmentDoor RA-B-02-02'.
+[15:41:52	]John Brookly used command '/SetApartmentDoor RA-B-02-02'.
+[15:41:54	]John Brookly used command '/SetApartmentDoor RA-B-02-02'.
+[15:42:02	]John Brookly used command '/SetApartmentDoor RA-B-02-01'.
+[15:42:04	]John Brookly used command '/SetApartmentDoor RA-B-02-01'.
+[15:42:24	][OOC] Chang Huo: bi baltık kafe var glb
+[15:42:25	]John Brookly exited observer at their location.
+[15:42:26	]John Brookly entered observer.
+[15:42:27	][OOC] Chang Huo: rumeli club
+[15:42:55	][OOC] John Brookly: Dükkan-10 diye bi dükkan var 
+[15:42:57	][OOC] John Brookly: o nerede?
+[15:43:08	][OOC] John Brookly: şehirde sadece 9 dükkan var
+[15:43:58	][OOC] Chang Huo: hmm
+[15:43:59	]Chang Huo exited observer at their location.
+[15:44:00	]John Brookly used command '/SetApartmentDoor RA-C-01'.
+[15:44:02	]Chang Huo entered observer.
+[15:44:02	]Chang Huo exited observer at their location.
+[15:44:03	]John Brookly used command '/SetApartmentDoor RA-C-01'.
+[15:44:04	]Chang Huo entered observer.
+[15:44:04	]Chang Huo exited observer at their location.
+[15:44:07	]John Brookly used command '/SetApartmentDoor RA-C-02'.
+[15:44:10	]John Brookly used command '/SetApartmentDoor RA-C-02'.
+[15:44:15	]John Brookly has fired a toolgun with the name: remover
+[15:44:16	]John Brookly has fired a toolgun with the name: remover
+[15:44:16	]John Brookly has fired a toolgun with the name: remover
+[15:44:20	]John Brookly used command '/SetApartmentDoor RA-C-03'.
+[15:44:23	]John Brookly used command '/SetApartmentDoor RA-C-03'.
+[15:44:27	]John Brookly has fired a toolgun with the name: remover
+[15:44:46	]John Brookly used command '/SetApartmentDoor RA-D-01'.
+[15:44:53	]John Brookly used command '/SetApartmentDoor RA-D-01'.
+[15:44:58	]John Brookly used command '/SetApartmentDoor RA-D-02'.
+[15:45:02	]John Brookly used command '/SetApartmentDoor RA-D-02'.
+[15:45:37	]Chang Huo entered observer.
+[15:45:38	]Chang Huo exited observer at their location.
+[15:45:38	]Chang Huo entered observer.
+[15:45:40	]Chang Huo exited observer at their location.
+[15:45:46	]Victorian loaded the character 'C24:RCT.YELLO-11'
+[15:46:05	]John Brookly used command '/RemoveApartment Tuvalet'.
+[15:46:08	]John Brookly used command '/RemoveApartment Dükkan-10'.
+[15:46:13	][OOC] John Brookly: Dükkan-10'u sildim
+[15:46:47	]C24:RCT.YELLO-11 entered observer.
+[15:46:49	]C24:RCT.YELLO-11 exited observer at their location.
+[15:46:49	]C24:RCT.YELLO-11 entered observer.
+[15:46:52	]C24:RCT.YELLO-11 exited observer at their location.
+[15:47:11	]C24:RCT.YELLO-11 entered observer.
+[15:47:14	]C24:RCT.YELLO-11 exited observer at their location.
+[15:47:53	]John Brookly exited observer at their location.
+[15:47:58	]John Brookly entered observer.
+[15:48:17	]John Brookly exited observer at their location.
+[15:48:20	]John Brookly entered observer.
+[15:48:21	]John Brookly exited observer at their location.
+[15:48:29	][IC] C24:RCT.YELLO-11: <:: Haha. ::>
+[15:48:49	]John Brookly entered observer.
+[15:48:58	]John Brookly exited observer at their location.
+[15:49:14	]John Brookly entered observer.
+[15:49:15	]C24:RCT.YELLO-11 entered observer.
+[15:49:16	]C24:RCT.YELLO-11 exited observer at their location.
+[15:49:24	]C24:RCT.YELLO-11 entered observer.
+[15:49:33	][OOC] John Brookly: gel
+[15:49:38	][OOC] John Brookly: dc gelsene
+[15:50:16	]C24:RCT.YELLO-11 exited observer at their location.
+[15:50:17	]C24:RCT.YELLO-11 entered observer.
+[15:50:34	]C24:RCT.YELLO-11 exited observer at their location.
+[15:50:36	]C24:RCT.YELLO-11 entered observer.
+[15:50:36	]C24:RCT.YELLO-11 exited observer at their location.
+[15:50:43	]C24:RCT.YELLO-11 entered observer.
+[15:50:44	][IC] John Brookly: Dc gel.
+[15:50:44	]C24:RCT.YELLO-11 exited observer at their location.
+[15:50:44	]John Brookly exited observer at their location.
+[15:50:49	]John Brookly entered observer.
+[15:51:06	]C24:RCT.YELLO-11 entered observer.
+[15:51:29	]C24:RCT.YELLO-11 exited observer at their location.
+[15:51:30	]C24:RCT.YELLO-11 entered observer.
+[15:51:31	]C24:RCT.YELLO-11 exited observer at their location.
+[15:51:32	]C24:RCT.YELLO-11 entered observer.
+[15:51:32	]C24:RCT.YELLO-11 exited observer at their location.
+[15:51:33	]C24:RCT.YELLO-11 entered observer.
+[15:51:34	]C24:RCT.YELLO-11 exited observer at their location.
+[15:51:35	]C24:RCT.YELLO-11 entered observer.
+[15:51:35	]C24:RCT.YELLO-11 exited observer at their location.
+[15:51:35	]C24:RCT.YELLO-11 entered observer.
+[15:51:36	]C24:RCT.YELLO-11 exited observer at their location.
+[15:51:37	]C24:RCT.YELLO-11 entered observer.
+[15:51:40	]C24:RCT.YELLO-11 exited observer at their location.
+[15:51:41	]C24:RCT.YELLO-11 entered observer.
+[15:51:41	]C24:RCT.YELLO-11 exited observer at their location.
+[15:51:42	]C24:RCT.YELLO-11 entered observer.
+[15:51:43	]C24:RCT.YELLO-11 exited observer at their location.
+[15:51:46	]C24:RCT.YELLO-11 entered observer.
+[15:51:47	]C24:RCT.YELLO-11 exited observer at their location.
+[15:51:48	]C24:RCT.YELLO-11 entered observer.
+[15:51:48	]C24:RCT.YELLO-11 exited observer at their location.
+[15:51:48	]C24:RCT.YELLO-11 entered observer.
+[15:52:04	]C24:RCT.YELLO-11 exited observer at their location.
+[15:52:04	]C24:RCT.YELLO-11 entered observer.
+[15:52:13	]C24:RCT.YELLO-11 exited observer at their location.
+[15:52:14	]C24:RCT.YELLO-11 entered observer.
+[15:52:56	]John Brookly exited observer at their location.
+[15:52:57	]John Brookly entered observer.
+[15:53:19	]C24:RCT.YELLO-11 exited observer at their location.
+[15:53:20	]C24:RCT.YELLO-11 entered observer.
+[15:53:21	]C24:RCT.YELLO-11 exited observer at their location.
+[15:53:21	]C24:RCT.YELLO-11 entered observer.
+[15:53:22	]C24:RCT.YELLO-11 exited observer at their location.
+[15:53:23	]C24:RCT.YELLO-11 entered observer.
+[15:53:34	]C24:RCT.YELLO-11 exited observer at their location.
+[15:53:35	]C24:RCT.YELLO-11 entered observer.
+[15:53:36	]C24:RCT.YELLO-11 exited observer at their location.
+[15:53:39	]C24:RCT.YELLO-11 entered observer.
+[15:53:41	]C24:RCT.YELLO-11 exited observer at their location.
+[15:53:42	]C24:RCT.YELLO-11 entered observer.
+[15:53:48	]C24:RCT.YELLO-11 exited observer at their location.
+[15:53:49	]C24:RCT.YELLO-11 entered observer.
+[15:53:49	]C24:RCT.YELLO-11 exited observer at their location.
+[15:53:51	]C24:RCT.YELLO-11 entered observer.
+[15:55:21	]C24:RCT.YELLO-11 exited observer at their location.
+[15:55:22	]C24:RCT.YELLO-11 has taken 11 damage from worldspawn.
+[15:56:30	]C24:RCT.YELLO-11 entered observer.
+[15:56:33	]C24:RCT.YELLO-11 exited observer at their location.
+[15:56:34	]C24:RCT.YELLO-11 entered observer.
+[15:56:34	]C24:RCT.YELLO-11 exited observer at their location.
+[15:56:47	]C24:RCT.YELLO-11 entered observer.
+[15:56:48	]C24:RCT.YELLO-11 exited observer at their location.
+[15:57:12	]C24:RCT.YELLO-11 entered observer.
+[15:57:24	]C24:RCT.YELLO-11 exited observer at their location.
+[15:57:24	]C24:RCT.YELLO-11 entered observer.
+[15:57:30	]C24:RCT.YELLO-11 exited observer at their location.
+[15:57:30	]C24:RCT.YELLO-11 entered observer.
+[15:57:31	]C24:RCT.YELLO-11 exited observer at their location.
+[15:57:31	]C24:RCT.YELLO-11 entered observer.
+[15:57:32	]C24:RCT.YELLO-11 exited observer at their location.
+[15:57:33	]C24:RCT.YELLO-11 entered observer.
+[15:57:33	]C24:RCT.YELLO-11 exited observer at their location.
+[15:57:34	]C24:RCT.YELLO-11 entered observer.
+[15:57:54	]C24:RCT.YELLO-11 exited observer at their location.
+[15:57:55	]C24:RCT.YELLO-11 entered observer.
+[15:57:58	]C24:RCT.YELLO-11 exited observer at their location.
+[15:57:59	]C24:RCT.YELLO-11 entered observer.
+[15:57:59	]C24:RCT.YELLO-11 exited observer at their location.
+[15:57:59	]C24:RCT.YELLO-11 entered observer.
+[15:58:00	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:01	]C24:RCT.YELLO-11 entered observer.
+[15:58:01	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:03	]C24:RCT.YELLO-11 entered observer.
+[15:58:05	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:07	]C24:RCT.YELLO-11 entered observer.
+[15:58:10	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:11	]C24:RCT.YELLO-11 entered observer.
+[15:58:12	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:18	]C24:RCT.YELLO-11 entered observer.
+[15:58:23	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:23	]C24:RCT.YELLO-11 entered observer.
+[15:58:24	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:24	]John Brookly used command '/SetApartmentDoor Dükkan-10'.
+[15:58:25	]C24:RCT.YELLO-11 entered observer.
+[15:58:27	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:33	]C24:RCT.YELLO-11 entered observer.
+[15:58:36	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:38	]C24:RCT.YELLO-11 entered observer.
+[15:58:40	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:40	]C24:RCT.YELLO-11 entered observer.
+[15:58:41	]John Brookly used command '/CreateShop'.
+[15:58:41	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:41	]C24:RCT.YELLO-11 entered observer.
+[15:58:41	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:42	]C24:RCT.YELLO-11 entered observer.
+[15:58:42	]John Brookly exited observer at their location.
+[15:58:42	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:42	]C24:RCT.YELLO-11 entered observer.
+[15:58:42	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:43	]C24:RCT.YELLO-11 entered observer.
+[15:58:43	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:43	]C24:RCT.YELLO-11 entered observer.
+[15:58:43	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:44	]C24:RCT.YELLO-11 entered observer.
+[15:58:44	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:44	]C24:RCT.YELLO-11 entered observer.
+[15:58:44	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:45	]C24:RCT.YELLO-11 entered observer.
+[15:58:45	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:45	]C24:RCT.YELLO-11 entered observer.
+[15:58:45	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:46	]C24:RCT.YELLO-11 entered observer.
+[15:58:46	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:46	]C24:RCT.YELLO-11 entered observer.
+[15:58:46	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:47	]C24:RCT.YELLO-11 entered observer.
+[15:58:47	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:47	]C24:RCT.YELLO-11 entered observer.
+[15:58:47	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:48	]C24:RCT.YELLO-11 entered observer.
+[15:58:48	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:48	]C24:RCT.YELLO-11 entered observer.
+[15:58:49	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:49	]C24:RCT.YELLO-11 entered observer.
+[15:58:49	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:49	]C24:RCT.YELLO-11 entered observer.
+[15:58:50	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:50	]C24:RCT.YELLO-11 entered observer.
+[15:58:50	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:50	]C24:RCT.YELLO-11 entered observer.
+[15:58:50	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:51	]C24:RCT.YELLO-11 entered observer.
+[15:58:52	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:52	]C24:RCT.YELLO-11 entered observer.
+[15:58:52	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:53	]C24:RCT.YELLO-11 entered observer.
+[15:58:53	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:53	]C24:RCT.YELLO-11 entered observer.
+[15:58:54	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:54	]C24:RCT.YELLO-11 entered observer.
+[15:58:54	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:55	]C24:RCT.YELLO-11 entered observer.
+[15:58:55	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:55	]C24:RCT.YELLO-11 entered observer.
+[15:58:56	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:56	]C24:RCT.YELLO-11 entered observer.
+[15:58:56	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:56	]C24:RCT.YELLO-11 entered observer.
+[15:58:57	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:57	]C24:RCT.YELLO-11 entered observer.
+[15:58:58	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:58	]C24:RCT.YELLO-11 entered observer.
+[15:58:58	]C24:RCT.YELLO-11 exited observer at their location.
+[15:58:58	]C24:RCT.YELLO-11 entered observer.
+[15:59:07	]C24:RCT.YELLO-11 exited observer at their location.
+[15:59:08	]C24:RCT.YELLO-11 has critically hit John Brookly dealing 8 damage (CritChance was 0.89).
+[15:59:08	]John Brookly has taken 7 damage from C24:RCT.YELLO-11.
+[15:59:09	]C24:RCT.YELLO-11 entered observer.
+[15:59:10	]C24:RCT.YELLO-11 exited observer at their location.
+[15:59:11	]C24:RCT.YELLO-11 entered observer.
+[15:59:12	]C24:RCT.YELLO-11 exited observer at their location.
+[15:59:13	]C24:RCT.YELLO-11 entered observer.
+[15:59:13	]C24:RCT.YELLO-11 exited observer at their location.
+[15:59:13	]C24:RCT.YELLO-11 entered observer.
+[15:59:14	]C24:RCT.YELLO-11 exited observer at their location.
+[15:59:14	]C24:RCT.YELLO-11 entered observer.
+[15:59:14	]John Brookly used command '/RemoveApartment'.
+[15:59:16	]C24:RCT.YELLO-11 exited observer at their location.
+[15:59:17	]C24:RCT.YELLO-11 entered observer.
+[15:59:17	]C24:RCT.YELLO-11 exited observer at their location.
+[15:59:17	]C24:RCT.YELLO-11 entered observer.
+[15:59:18	]C24:RCT.YELLO-11 exited observer at their location.
+[15:59:19	]C24:RCT.YELLO-11 entered observer.
+[15:59:21	]C24:RCT.YELLO-11 exited observer at their location.
+[15:59:23	]C24:RCT.YELLO-11 entered observer.
+[15:59:23	]C24:RCT.YELLO-11 exited observer at their location.
+[15:59:25	]C24:RCT.YELLO-11 entered observer.
+[15:59:26	]C24:RCT.YELLO-11 exited observer at their location.
+[15:59:26	]C24:RCT.YELLO-11 entered observer.
+[15:59:27	]C24:RCT.YELLO-11 exited observer at their location.
+[15:59:28	]C24:RCT.YELLO-11 entered observer.
+[15:59:28	]C24:RCT.YELLO-11 exited observer at their location.
+[15:59:29	]C24:RCT.YELLO-11 entered observer.
+[15:59:30	]C24:RCT.YELLO-11 exited observer at their location.
+[15:59:32	]John Brookly used command '/RemoveApartment'.
+[15:59:32	]C24:RCT.YELLO-11 entered observer.
+[15:59:33	]C24:RCT.YELLO-11 exited observer at their location.
+[15:59:34	]C24:RCT.YELLO-11 entered observer.
+[15:59:35	]John Brookly used command '/RemoveApartmentDoor'.
+[15:59:43	]C24:RCT.YELLO-11 exited observer at their location.
+[15:59:48	]C24:RCT.YELLO-11 entered observer.
+[15:59:51	]C24:RCT.YELLO-11 exited observer at their location.
+[15:59:52	]C24:RCT.YELLO-11 entered observer.
+[15:59:57	]John Brookly used command '/RemoveApartment Dükkan-10'.
+[15:59:59	]John Brookly used command '/RemoveApartment'.
+[16:00:01	]C24:RCT.YELLO-11 exited observer at their location.
+[16:00:05	]C24:RCT.YELLO-11 entered observer.
+[16:00:11	]C24:RCT.YELLO-11 exited observer at their location.
+[16:00:15	]C24:RCT.YELLO-11 was knocked unconscious and is bleeding out.
+[16:00:16	]John Brookly used command '/CreateShop Dükkan-10'.
+[16:00:22	][IC] C24:RCT.YELLO-11: <:: !set hp 100. ::>
+[16:00:24	]John Brookly used command '/SetApartmentDoor Dükkan-10'.
+[16:00:25	]John Brookly entered observer.
+[16:00:26	]John Brookly used command '/SetApartmentDoor Dükkan-10'.
+[16:00:27	]C24:RCT.YELLO-11 ran SAM command 'hp' with arguments: 'C24' '100'
+[16:00:31	]C24:RCT.YELLO-11 is no longer unconscious from critical wounds.
+[16:00:31	]C24:RCT.YELLO-11 is fully healed.
+[16:00:32	]John Brookly has used a context menu option with the name: door_lockunlock
+[16:00:41	]C24:RCT.YELLO-11 used command '/CharStopBleedout C24'.
+[16:00:42	]C24:RCT.YELLO-11 entered observer.
+[16:00:50	]C24:RCT.YELLO-11 exited observer at their location.
+[16:00:50	]C24:RCT.YELLO-11 has taken 7 damage from worldspawn.
+[16:00:51	]John Brookly has used a context menu option with the name: door_lockunlock
+[16:00:52	]C24:RCT.YELLO-11 entered observer.
+[16:00:53	]C24:RCT.YELLO-11 exited observer at their location.
+[16:00:54	]John Brookly exited observer at their location.
+[16:00:55	]C24:RCT.YELLO-11 entered observer.
+[16:01:05	]John Brookly has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[16:01:19	]John Brookly created a 'Large Metal Cabinet' container.
+[16:01:19	]John Brookly has used a context menu option with the name: wncontainer_create
+[16:01:19	]C24:RCT.YELLO-11 exited observer at their location.
+[16:01:22	]John Brookly entered observer.
+[16:01:23	]C24:RCT.YELLO-11 entered observer.
+[16:01:45	]C24:RCT.YELLO-11 exited observer at their location.
+[16:01:47	]C24:RCT.YELLO-11 entered observer.
+[16:01:47	]C24:RCT.YELLO-11 exited observer at their location.
+[16:01:48	]C24:RCT.YELLO-11 entered observer.
+[16:01:48	]C24:RCT.YELLO-11 exited observer at their location.
+[16:01:50	]C24:RCT.YELLO-11 entered observer.
+[16:01:50	]C24:RCT.YELLO-11 exited observer at their location.
+[16:01:51	]C24:RCT.YELLO-11 entered observer.
+[16:01:51	]C24:RCT.YELLO-11 exited observer at their location.
+[16:01:51	]C24:RCT.YELLO-11 entered observer.
+[16:01:51	]C24:RCT.YELLO-11 exited observer at their location.
+[16:01:51	]C24:RCT.YELLO-11 entered observer.
+[16:01:51	]C24:RCT.YELLO-11 exited observer at their location.
+[16:01:52	]C24:RCT.YELLO-11 entered observer.
+[16:01:52	]C24:RCT.YELLO-11 exited observer at their location.
+[16:01:52	]C24:RCT.YELLO-11 entered observer.
+[16:01:52	]C24:RCT.YELLO-11 exited observer at their location.
+[16:01:52	]C24:RCT.YELLO-11 entered observer.
+[16:01:52	]C24:RCT.YELLO-11 exited observer at their location.
+[16:01:53	]C24:RCT.YELLO-11 entered observer.
+[16:01:53	]C24:RCT.YELLO-11 exited observer at their location.
+[16:01:53	]C24:RCT.YELLO-11 entered observer.
+[16:01:53	]C24:RCT.YELLO-11 exited observer at their location.
+[16:01:53	]C24:RCT.YELLO-11 entered observer.
+[16:01:54	]C24:RCT.YELLO-11 exited observer at their location.
+[16:01:54	]C24:RCT.YELLO-11 entered observer.
+[16:01:54	]C24:RCT.YELLO-11 exited observer at their location.
+[16:01:54	]C24:RCT.YELLO-11 entered observer.
+[16:01:54	]C24:RCT.YELLO-11 exited observer at their location.
+[16:01:55	]C24:RCT.YELLO-11 entered observer.
+[16:01:55	]C24:RCT.YELLO-11 exited observer at their location.
+[16:01:56	]C24:RCT.YELLO-11 entered observer.
+[16:02:06	]C24:RCT.YELLO-11 exited observer at their location.
+[16:02:06	]C24:RCT.YELLO-11 entered observer.
+[16:02:06	]C24:RCT.YELLO-11 exited observer at their location.
+[16:02:07	]C24:RCT.YELLO-11 entered observer.
+[16:02:07	]C24:RCT.YELLO-11 exited observer at their location.
+[16:02:09	]C24:RCT.YELLO-11 has taken 27 damage from worldspawn.
+[16:02:09	]C24:RCT.YELLO-11 entered observer.
+[16:02:10	]C24:RCT.YELLO-11 exited observer at their location.
+[16:02:10	]C24:RCT.YELLO-11 entered observer.
+[16:02:13	]C24:RCT.YELLO-11 exited observer at their location.
+[16:02:15	]C24:RCT.YELLO-11 entered observer.
+[16:02:15	]C24:RCT.YELLO-11 exited observer at their location.
+[16:02:17	]C24:RCT.YELLO-11 entered observer.
+[16:02:17	]C24:RCT.YELLO-11 exited observer at their location.
+[16:02:19	]C24:RCT.YELLO-11 entered observer.
+[16:02:19	]C24:RCT.YELLO-11 exited observer at their location.
+[16:02:21	]C24:RCT.YELLO-11 entered observer.
+[16:02:21	]C24:RCT.YELLO-11 exited observer at their location.
+[16:02:30	]C24:RCT.YELLO-11 entered observer.
+[16:02:44	]C24:RCT.YELLO-11 exited observer at their location.
+[16:02:45	]C24:RCT.YELLO-11 entered observer.
+[16:02:53	]C24:RCT.YELLO-11 exited observer at their location.
+[16:02:55	]C24:RCT.YELLO-11 entered observer.
+[16:02:55	]C24:RCT.YELLO-11 exited observer at their location.
+[16:02:56	]C24:RCT.YELLO-11 entered observer.
+[16:02:56	]C24:RCT.YELLO-11 exited observer at their location.
+[16:02:56	]C24:RCT.YELLO-11 entered observer.
+[16:02:56	]C24:RCT.YELLO-11 exited observer at their location.
+[16:02:57	]C24:RCT.YELLO-11 entered observer.
+[16:02:58	]C24:RCT.YELLO-11 exited observer at their location.
+[16:02:59	]C24:RCT.YELLO-11 entered observer.
+[16:03:15	]C24:RCT.YELLO-11 exited observer at their location.
+[16:03:15	]John Brookly ran SAM command 'bring' with arguments: 'yello-11'
+[16:03:16	]John Brookly exited observer at their location.
+[16:03:16	]John Brookly entered observer.
+[16:03:19	]John Brookly exited observer at their location.
+[16:03:28	]John Brookly entered observer.
+[16:03:31	]C24:RCT.YELLO-11 entered observer.
+[16:03:32	]John Brookly exited observer at their location.
+[16:03:33	]John Brookly entered observer.
+[16:03:34	]C24:RCT.YELLO-11 exited observer at their location.
+[16:03:35	]John Brookly exited observer at their location.
+[16:03:38	]C24:RCT.YELLO-11 entered observer.
+[16:03:39	]John Brookly entered observer.
+[16:03:40	]C24:RCT.YELLO-11 exited observer at their location.
+[16:03:40	]John Brookly exited observer at their location.
+[16:03:41	]John Brookly entered observer.
+[16:03:44	]C24:RCT.YELLO-11 entered observer.
+[16:03:44	]John Brookly exited observer at their location.
+[16:03:45	]C24:RCT.YELLO-11 exited observer at their location.
+[16:03:54	]John Brookly entered observer.
+[16:04:47	]C24:RCT.YELLO-11 entered observer.
+[16:04:48	]C24:RCT.YELLO-11 exited observer at their location.
+[16:04:48	]C24:RCT.YELLO-11 entered observer.
+[16:04:50	]C24:RCT.YELLO-11 exited observer at their location.
+[16:04:54	]C24:RCT.YELLO-11 entered observer.
+[16:05:05	]C24:RCT.YELLO-11 exited observer at their location.
+[16:05:05	]C24:RCT.YELLO-11 entered observer.
+[16:05:06	]C24:RCT.YELLO-11 exited observer at their location.
+[16:05:06	]C24:RCT.YELLO-11 entered observer.
+[16:05:58	]C24:RCT.YELLO-11 exited observer at their location.
+[16:06:00	]C24:RCT.YELLO-11 has taken 14 damage from worldspawn.
+[16:06:01	]C24:RCT.YELLO-11 entered observer.
+[16:06:01	]C24:RCT.YELLO-11 exited observer at their location.
+[16:06:03	]C24:RCT.YELLO-11 has taken 6 damage from worldspawn.
+[16:06:09	]C24:RCT.YELLO-11 ran SAM command 'hp' with arguments: 'C24' '100'
+[16:06:11	]C24:RCT.YELLO-11 entered observer.
+[16:06:11	]C24:RCT.YELLO-11 exited observer at their location.
+[16:06:11	]C24:RCT.YELLO-11 is fully healed.
+[16:06:13	]C24:RCT.YELLO-11 entered observer.
+[16:06:13	]C24:RCT.YELLO-11 exited observer at their location.
+[16:12:16	]C24:RCT.YELLO-11 has gone afk.
+[16:14:14	]John Brookly exited observer at their location.
+[16:14:14	]John Brookly entered observer.
+[16:19:26	]C24:RCT.YELLO-11 is no longer afk. Total time spent AFK: 725
+[16:19:28	]John Brookly has gone afk.
+[16:19:31	]C24:RCT.YELLO-11 entered observer.
+[16:19:37	]C24:RCT.YELLO-11 exited observer at their location.
+[16:21:23	]C24:RCT.YELLO-11 entered observer.
+[16:23:03	]C24:RCT.YELLO-11 exited observer at their location.
+[16:23:04	]C24:RCT.YELLO-11 has taken 7 damage from worldspawn.
+[16:23:05	]C24:RCT.YELLO-11 entered observer.
+[16:23:05	]C24:RCT.YELLO-11 exited observer at their location.
+[16:23:06	]C24:RCT.YELLO-11 entered observer.
+[16:23:06	]C24:RCT.YELLO-11 exited observer at their location.
+[16:23:07	]C24:RCT.YELLO-11 entered observer.
+[16:23:08	]C24:RCT.YELLO-11 exited observer at their location.
+[16:26:28	]John Brookly is no longer afk. Total time spent AFK: 715
+[16:27:00	]C24:RCT.YELLO-11 entered observer.
+[16:27:05	]C24:RCT.YELLO-11 exited observer at their location.
+[16:27:20	][OOC] C24:RCT.YELLO-11: şu kapılara isim koymanın komutu ne
+[16:27:20	]C24:RCT.YELLO-11 entered observer.
+[16:27:21	]C24:RCT.YELLO-11 exited observer at their location.
+[16:27:23	]C24:RCT.YELLO-11 entered observer.
+[16:27:26	]C24:RCT.YELLO-11 exited observer at their location.
+[16:27:29	]C24:RCT.YELLO-11 entered observer.
+[16:27:30	]C24:RCT.YELLO-11 exited observer at their location.
+[16:27:31	]C24:RCT.YELLO-11 entered observer.
+[16:27:32	]C24:RCT.YELLO-11 exited observer at their location.
+[16:27:33	]C24:RCT.YELLO-11 entered observer.
+[16:27:34	]C24:RCT.YELLO-11 exited observer at their location.
+[16:27:36	]C24:RCT.YELLO-11 has taken 8 damage from worldspawn.
+[16:27:37	]C24:RCT.YELLO-11 entered observer.
+[16:27:39	]C24:RCT.YELLO-11 exited observer at their location.
+[16:27:40	]C24:RCT.YELLO-11 entered observer.
+[16:27:40	]C24:RCT.YELLO-11 exited observer at their location.
+[16:27:55	][OOC] John Brookly: ! dk
+[16:28:02	][IC] C24:RCT.YELLO-11: <:: ! Dk. ::>
+[16:28:03	]John Brookly is fully healed.
+[16:28:09	]C24:RCT.YELLO-11 entered observer.
+[16:28:11	]C24:RCT.YELLO-11 exited observer at their location.
+[16:28:14	][OOC] John Brookly: Ben isim koymuyorum
+[16:28:22	][IC] C24:RCT.YELLO-11: <:: Help! ::>
+[16:28:24	][IC] C24:RCT.YELLO-11: <:: Help! ::>
+[16:28:28	][IC] C24:RCT.YELLO-11: <:: Help! ::>
+[16:28:29	][IC] C24:RCT.YELLO-11: <:: Help! ::>
+[16:28:29	][OOC] John Brookly: dükkan-apartmen bölümüne ekliyorum
+[16:28:30	][IC] C24:RCT.YELLO-11: <:: Help! ::>
+[16:28:31	][IC] C24:RCT.YELLO-11: <:: Help! ::>
+[16:28:32	][IC] C24:RCT.YELLO-11: <:: Help! ::>
+[16:28:33	][IC] C24:RCT.YELLO-11: <:: Help! ::>
+[16:28:34	][IC] C24:RCT.YELLO-11: <:: Help! ::>
+[16:28:36	][OOC] John Brookly: yani kafana göre isim koyamıyorsun
+[16:28:38	][IC] C24:RCT.YELLO-11: <:: Help! ::>
+[16:28:41	][OOC] C24:RCT.YELLO-11: pekala
+[16:28:41	]C24:RCT.YELLO-11 entered observer.
+[16:28:42	]C24:RCT.YELLO-11 exited observer at their location.
+[16:28:42	]C24:RCT.YELLO-11 entered observer.
+[16:28:44	]John Brookly ran SAM command 'hp' with arguments: 'STEAM_0:0:577700614' '25'
+[16:28:51	]John Brookly ran SAM command 'bring' with arguments: '11'
+[16:28:51	][OOC] C24:RCT.YELLO-11: direk üstünde sahipsik kapı yazması harip
+[16:28:54	]C24:RCT.YELLO-11 exited observer at their location.
+[16:29:01	]C24:RCT.YELLO-11 ran SAM command 'hp' with arguments: 'C24' '100'
+[16:29:01	]C24:RCT.YELLO-11 is fully healed.
+[16:29:02	]C24:RCT.YELLO-11 entered observer.
+[16:29:02	]C24:RCT.YELLO-11 exited observer at their location.
+[16:29:02	]C24:RCT.YELLO-11 entered observer.
+[16:29:02	]C24:RCT.YELLO-11 exited observer at their location.
+[16:29:03	]C24:RCT.YELLO-11 entered observer.
+[16:29:04	]C24:RCT.YELLO-11 exited observer at their location.
+[16:29:04	]C24:RCT.YELLO-11 entered observer.
+[16:29:10	][OOC] John Brookly: olmuyo oyle
+[16:29:12	][OOC] John Brookly: galiba
+[16:29:23	][OOC] C24:RCT.YELLO-11: he bide bi gel
+[16:29:32	]C24:RCT.YELLO-11 exited observer at their location.
+[16:29:36	]John Brookly exited observer at their location.
+[16:29:38	]John Brookly is admin-searching C24:RCT.YELLO-11's inventory.
+[16:29:38	]John Brookly has used a context menu option with the name: ixviewinventory
+[16:29:40	]C24:RCT.YELLO-11 used the 'i5-i1 Ekipman Dağıtıcısı' vendor.
+[16:29:47	]John Brookly has closed C24:RCT.YELLO-11's inventory.
+[16:29:49	][IC] C24:RCT.YELLO-11: <:: Bunlara fiyat ayarlanacak mı. ::>
+[16:29:52	][IC] John Brookly: Yok.
+[16:29:58	][IC] John Brookly: Cantanı niye takmadım.
+[16:29:59	][IC] C24:RCT.YELLO-11: <:: O halde... ::>
+[16:30:00	][IC] John Brookly: Takmadın.
+[16:30:08	][IC] John Brookly: Ikisini.
+[16:30:11	][IC] C24:RCT.YELLO-11: <:: Şişman gösteriyor knk. ::>
+[16:30:13	]John Brookly entered observer.
+[16:30:13	]John Brookly exited observer at their location.
+[16:30:19	][IC] John Brookly: 2.bi envanter acıyo.
+[16:30:20	][IC] John Brookly: Ama.
+[16:30:26	][IC] John Brookly: Lan öyle degil.
+[16:30:28	]John Brookly is admin-searching C24:RCT.YELLO-11's inventory.
+[16:30:28	]John Brookly has used a context menu option with the name: ixviewinventory
+[16:30:30	]John Brookly has closed C24:RCT.YELLO-11's inventory.
+[16:30:31	][IC] John Brookly: Ha.
+[16:30:36	][IC] C24:RCT.YELLO-11: <:: Şaka. ::>
+[16:30:37	][IC] C24:RCT.YELLO-11: <:: Haha. ::>
+[16:30:38	][IC] John Brookly: Küçüğügde tak.
+[16:30:45	]John Brookly is admin-searching C24:RCT.YELLO-11's inventory.
+[16:30:45	]John Brookly has used a context menu option with the name: ixviewinventory
+[16:30:47	]John Brookly has gained a 'Küçük Çanta' #20596 from a container with the name 'C24:RCT.YELLO-11's inventory' #2832.
+[16:30:48	]John Brookly has closed C24:RCT.YELLO-11's inventory.
+[16:30:50	]C24:RCT.YELLO-11 has gained a 'Küçük Çanta' #20596.
+[16:30:50	]John Brookly has transferred a 'Küçük Çanta' #20596 to a container with the name 'C24:RCT.YELLO-11's equip inventory' #2833.
+[16:30:52	][IC] John Brookly: Ben taktım.
+[16:30:57	]John Brookly is admin-searching C24:RCT.YELLO-11's equip inventory.
+[16:30:57	]John Brookly has used a context menu option with the name: ixviewequipinventory
+[16:31:00	][IC] C24:RCT.YELLO-11: <:: Your wife doesn't like me does she. ::>
+[16:31:02	]John Brookly has closed C24:RCT.YELLO-11's equip inventory.
+[16:31:03	]John Brookly entered observer.
+[16:31:03	][IC] C24:RCT.YELLO-11: <:: Ananı. ::>
+[16:31:06	][IC] C24:RCT.YELLO-11: <:: Tamamdır. ::>
+[16:31:07	]C24:RCT.YELLO-11 used the 'i5-i1 Ekipman Dağıtıcısı' vendor.
+[16:31:10	]John Brookly has used a context menu option with the name: vendor_edit
+[16:31:15	][IC] C24:RCT.YELLO-11: <:: Mp5 aliom. ::>
+[16:31:16	]C24:RCT.YELLO-11 used the 'i5-i1 Ekipman Dağıtıcısı' vendor.
+[16:31:26	]C24:RCT.YELLO-11 has gained 0 chips.
+[16:31:26	]C24:RCT.YELLO-11 has gained a 'MP5A3' #20838.
+[16:31:31	][IC] John Brookly: Alma.
+[16:31:32	]C24:RCT.YELLO-11 ran 'Equip' on item 'MP5A3' (#20838)
+[16:31:34	][IC] John Brookly: I3 ve üstü.
+[16:31:35	][IC] John Brookly: Alıyor.
+[16:31:36	]John Brookly exited observer at their location.
+[16:31:38	]John Brookly is admin-searching C24:RCT.YELLO-11's inventory.
+[16:31:38	]John Brookly has used a context menu option with the name: ixviewinventory
+[16:31:40	]C24:RCT.YELLO-11 used the 'i5-i1 Ekipman Dağıtıcısı' vendor.
+[16:31:40	]John Brookly ran 'drop' on item 'MP5A3' (#20838)
+[16:31:40	]C24:RCT.YELLO-11 has lost a 'MP5A3' #20838.
+[16:31:41	]John Brookly has closed C24:RCT.YELLO-11's inventory.
+[16:31:43	]John Brookly has used a context menu option with the name: remove
+[16:31:43	]John Brookly entered observer.
+[16:31:53	]C24:RCT.YELLO-11 entered observer.
+[16:31:55	]C24:RCT.YELLO-11 exited observer at their location.
+[16:31:57	][IC] C24:RCT.YELLO-11: <:: Tamamdır. ::>
+[16:31:58	]John Brookly used command '/FindItemById 20838'.
+[16:32:00	]John Brookly used command '/FindItemById 20838'.
+[16:32:06	]John Brookly used command '/CreateCustomItem'.
+[16:32:34	]John Brookly used command '/LocalEvent Test 200'.
+[16:32:50	][IC] C24:RCT.YELLO-11: <:: Hm? ::>
+[16:32:52	][IC] C24:RCT.YELLO-11: <:: Hmph. ::>
+[16:32:55	][IC] C24:RCT.YELLO-11: <:: Hmph. ::>
+[16:33:15	]C24:RCT.YELLO-11 entered observer.
+[16:33:19	]C24:RCT.YELLO-11 exited observer at their location.
+[16:33:26	]C24:RCT.YELLO-11 used command '/ActLean'.
+[16:33:33	]C24:RCT.YELLO-11 used command '/ActLean'.
+[16:36:23	]John Brookly exited observer at their location.
+[16:36:24	]John Brookly has acquired his ration, gaining 0 credits, 50 wages and a priority_ration ration.
+[16:36:38	]John Brookly ran 'take' on item 'Öncelikli Loyalist Rasyonu' (#20839)
+[16:36:38	]John Brookly has gained a 'Öncelikli Loyalist Rasyonu' #20839.
+[16:36:42	]John Brookly entered observer.
+[16:37:29	]John Brookly exited observer at their location.
+[16:37:32	]John Brookly entered observer.
+[16:39:42	]Victorian (STEAM_0:0:577700614) has disconnected (timed out).
+[16:41:09	]John Brookly exited observer at their location.
+[16:41:11	]John Brookly used command '/ActSit 3'.
+[16:41:13	]John Brookly used command '/ExitAct'.
+[16:41:32	]Victorian has connected.
+[16:42:14	]John Brookly has given himself a beard_razor.
+[16:42:14	]John Brookly has gained a 'Hairdresser tools' #20840.
+[16:42:18	]John Brookly ran 'Style' on item 'Hairdresser tools' (#20840)
+[16:42:34	]John Brookly ran 'Style2' on item 'Hairdresser tools' (#20840)
+[16:42:36	]John Brookly ran 'Style' on item 'Hairdresser tools' (#20840)
+[16:43:16	]John Brookly opened the 'SIB Başkanının' #2810 container.
+[16:43:18	]John Brookly closed the 'SIB Başkanının' #2810 container.
+[16:43:38	]John Brookly ran 'Bind' on item 'POS Terminal' (#20836)
+[16:43:42	]John Brookly ran 'Open' on item 'CWU PDA' (#15835)
+[16:43:44	]Victorian loaded the character 'Fikret Saric'
+[16:43:49	]Fikret Saric is fully healed.
+[16:43:55	]John Brookly ran 'drop' on item 'CWU PDA' (#15835)
+[16:43:55	]John Brookly has lost a 'CWU PDA' #15835.
+[16:43:58	]John Brookly has used a context menu option with the name: remove
+[16:44:07	]Fikret Saric entered observer.
+[16:44:09	]Fikret Saric exited observer at their location.
+[16:44:10	]John Brookly ran 'drop' on item 'Hairdresser tools' (#20840)
+[16:44:10	]John Brookly has lost a 'Hairdresser tools' #20840.
+[16:44:11	]Fikret Saric entered observer.
+[16:44:12	]Fikret Saric exited observer at their location.
+[16:44:12	]John Brookly has used a context menu option with the name: remove
+[16:44:13	]Fikret Saric entered observer.
+[16:44:13	]John Brookly entered observer.
+[16:44:13	]Fikret Saric exited observer at their location.
+[16:44:14	]Fikret Saric entered observer.
+[16:44:15	]Fikret Saric exited observer at their location.
+[16:44:17	]Fikret Saric entered observer.
+[16:44:18	]John Brookly is admin-searching Fikret Saric's inventory.
+[16:44:18	]John Brookly has used a context menu option with the name: ixviewinventory
+[16:44:18	]Fikret Saric exited observer at their location.
+[16:44:19	]Fikret Saric entered observer.
+[16:44:22	]Fikret Saric exited observer at their location.
+[16:44:27	]John Brookly ran 'SetAccessLevel' on item 'DOB Member Access Keycard' (#20532)
+[16:44:31	]Fikret Saric has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[16:44:33	]Fikret Saric has taken 10 damage from Fikret Saric.
+[16:44:33	]John Brookly has closed Fikret Saric's inventory.
+[16:44:36	]Fikret Saric entered observer.
+[16:44:47	]Fikret Saric has used a context menu option with the name: rb655_breakable_break
+[16:44:47	]Fikret Saric has taken 27 damage from prop_physics.
+[16:44:59	]Fikret Saric exited observer at their location.
+[16:45:00	]Fikret Saric entered observer.
+[16:45:05	]John Brookly has given himself a medal_armed.
+[16:45:05	]John Brookly has gained a 'Silahlı Kuvvetler Madalyası' #20841.
+[16:45:06	]Fikret Saric has spawned 'models/props_c17/oildrum001.mdl'.
+[16:45:11	]Fikret Saric has spawned 'models/props_c17/oildrum001.mdl'.
+[16:45:16	]Fikret Saric has enabled persistence for 'models/props_c17/oildrum001.mdl'.
+[16:45:16	]Fikret Saric has used a context menu option with the name: persist
+[16:45:17	]Fikret Saric has enabled persistence for 'models/props_c17/oildrum001.mdl'.
+[16:45:17	]Fikret Saric has used a context menu option with the name: persist
+[16:45:19	]John Brookly exited observer at their location.
+[16:45:20	]John Brookly ran 'drop' on item 'Silahlı Kuvvetler Madalyası' (#20841)
+[16:45:20	]John Brookly has lost a 'Silahlı Kuvvetler Madalyası' #20841.
+[16:45:21	][OOC] Fikret Saric: sey
+[16:45:22	]John Brookly has used a context menu option with the name: remove
+[16:45:25	][OOC] John Brookly: he
+[16:45:28	]Fikret Saric exited observer at their location.
+[16:45:28	]John Brookly has given himself a medal_c24.
+[16:45:29	]John Brookly has gained a 'Şehir 24 Kahramanı Madalyası' #20842.
+[16:45:29	]John Brookly has given himself a medal_labour.
+[16:45:30	]John Brookly has gained a 'Emek Madalyası' #20843.
+[16:45:30	]John Brookly has given himself a medal_bronze.
+[16:45:30	]John Brookly has gained a 'Bronz Yıldız Madalyası' #20844.
+[16:45:34	][OOC] Fikret Saric: rol yapalim mi
+[16:45:43	]John Brookly ran 'drop' on item 'Bronz Yıldız Madalyası' (#20844)
+[16:45:43	]John Brookly has lost a 'Bronz Yıldız Madalyası' #20844.
+[16:45:49	]John Brookly ran 'drop' on item 'Emek Madalyası' (#20843)
+[16:45:49	]John Brookly has lost a 'Emek Madalyası' #20843.
+[16:45:54	]John Brookly has used a context menu option with the name: remove
+[16:45:56	]John Brookly has used a context menu option with the name: remove
+[16:45:58	]John Brookly entered observer.
+[16:45:59	][OOC] John Brookly: yok
+[16:46:02	][OOC] John Brookly: 2 kisi olmaz
+[16:46:06	]John Brookly has given himself a medal_progress.
+[16:46:06	]John Brookly has gained a 'Gelişme Madalyası' #20845.
+[16:46:08	]John Brookly has given himself a medal_art.
+[16:46:08	]John Brookly has gained a 'Sanat Madalyası' #20846.
+[16:46:10	]John Brookly has given himself a medal_breen.
+[16:46:10	]John Brookly has gained a 'Evrensel Birlik Kahramanı Madalyası' #20847.
+[16:46:10	][OOC] Fikret Saric: deneme rolü sk için
+[16:46:17	][OOC] John Brookly: ok
+[16:46:19	]John Brookly exited observer at their location.
+[16:46:19	]John Brookly entered observer.
+[16:46:27	]Victorian loaded the character 'C24:RCT.YELLO-11'
+[16:46:32	]C24:RCT.YELLO-11 entered observer.
+[16:46:39	]C24:RCT.YELLO-11 exited observer at their location.
+[16:46:45	]John Brookly exited observer at their location.
+[16:46:46	]John Brookly ran 'drop' on item 'Evrensel Birlik Kahramanı Madalyası' (#20847)
+[16:46:46	]John Brookly has lost a 'Evrensel Birlik Kahramanı Madalyası' #20847.
+[16:46:50	]John Brookly has used a context menu option with the name: remove
+[16:46:57	]John Brookly ran 'drop' on item 'Gelişme Madalyası' (#20845)
+[16:46:57	]John Brookly has lost a 'Gelişme Madalyası' #20845.
+[16:47:00	]John Brookly has used a context menu option with the name: remove
+[16:47:08	][IC] John Brookly: Merhaba.
+[16:47:08	][IC] C24:RCT.YELLO-11: <:: Hm? ::>
+[16:47:20	][IC] C24:RCT.YELLO-11: <:: Evet, dinliyorum. ::>
+[16:47:22	][IC] John Brookly: Karnım acıktı, bana yemek verebilir misiniz.
+[16:47:27	][IC] C24:RCT.YELLO-11: <:: ... ::>
+[16:47:31	][IC] C24:RCT.YELLO-11: <:: Haha. ::>
+[16:47:42	][IC] C24:RCT.YELLO-11: <:: SİB başkanının bunu demesi komik. ::>
+[16:47:55	][LOOC] John Brookly: normal bir sivilim gibi davransana
+[16:47:57	]John Brookly used command '/ToggleRaise'.
+[16:48:01	][LOOC] C24:RCT.YELLO-11: hasiktir doru
+[16:48:05	][LOOC] John Brookly: niye aç kalayım Sib baskanında amk
+[16:48:10	]John Brookly used command '/ToggleRaise'.
+[16:48:12	][IC] C24:RCT.YELLO-11: <:: Yemek mi istiyorsun? ::>
+[16:48:29	][IC] John Brookly: Evet...Dünden beri birşey yemedim. Rasyonlar durduruldu anti sivil aktivite yüzünden.
+[16:48:32	][IC] C24:RCT.YELLO-11: <:: Hmph. ::>
+[16:48:39	][IC] C24:RCT.YELLO-11: <:: Yapabileceğim birşey yok. ::>
+[16:48:44	][IC] C24:RCT.YELLO-11: <:: Move! ::>
+[16:48:47	]John Brookly entered observer.
+[16:48:48	][IC] John Brookly: Iyi.
+[16:48:49	]John Brookly exited observer at their location.
+[16:48:49	]John Brookly entered observer.
+[16:48:52	]John Brookly exited observer at their location.
+[16:48:53	][OOC] C24:RCT.YELLO-11: ii miydi
+[16:48:57	][IC] John Brookly: Yumuşaksın.
+[16:49:00	][IC] John Brookly: Kaybol de.
+[16:49:05	][IC] John Brookly: Sert çıkıs.
+[16:49:05	]John Brookly entered observer.
+[16:49:07	][IC] C24:RCT.YELLO-11: <:: Tamamdır. ::>
+[16:49:08	]John Brookly exited observer at their location.
+[16:49:13	][IC] John Brookly: Sanat geçsene.
+[16:49:15	][IC] John Brookly: Bisi vercem.
+[16:49:17	][ME] C24:RCT.YELLO-11: yarani yalar
+[16:49:22	]John Brookly ran SAM command 'hp' with arguments: 'STEAM_0:0:577700614' '1'
+[16:49:26	][IC] C24:RCT.YELLO-11: <:: Sanat? ::>
+[16:49:28	]John Brookly ran SAM command 'hp' with arguments: 'STEAM_0:0:577700614' '100'
+[16:49:29	][IC] John Brookly: BHİD.
+[16:49:32	]C24:RCT.YELLO-11 is fully healed.
+[16:49:33	]John Brookly ran SAM command 'armor' with arguments: 'STEAM_0:0:577700614' '50'
+[16:49:35	]John Brookly entered observer.
+[16:49:36	]Victorian loaded the character 'Fikret Saric'
+[16:49:38	]Fikret Saric entered observer.
+[16:49:40	]Fikret Saric exited observer at their location.
+[16:49:41	]Fikret Saric has taken 11 damage from worldspawn.
+[16:49:42	]John Brookly exited observer at their location.
+[16:49:45	]John Brookly ran SAM command 'hp' with arguments: 'STEAM_0:0:577700614' '100'
+[16:49:46	]Fikret Saric is fully healed.
+[16:49:50	]John Brookly ran 'drop' on item 'Sanat Madalyası' (#20846)
+[16:49:50	]John Brookly has lost a 'Sanat Madalyası' #20846.
+[16:49:57	]Fikret Saric ran 'take' on item 'Sanat Madalyası' (#20846)
+[16:49:57	]Fikret Saric has gained a 'Sanat Madalyası' #20846.
+[16:50:01	][IC] Fikret Saric: Yaaa.
+[16:50:03	]John Brookly entered observer.
+[16:50:07	][IC] Fikret Saric: He bide.
+[16:50:08	]John Brookly exited observer at their location.
+[16:50:08	]Fikret Saric entered observer.
+[16:50:08	]Fikret Saric exited observer at their location.
+[16:50:09	]John Brookly entered observer.
+[16:50:10	]Fikret Saric entered observer.
+[16:50:10	]Fikret Saric exited observer at their location.
+[16:50:12	]John Brookly exited observer at their location.
+[16:50:13	][IC] Fikret Saric: Şey dicem.
+[16:50:16	][IC] John Brookly: HE.
+[16:50:18	][IC] Fikret Saric: Benim saçımı siyah yapsan.
+[16:50:21	]John Brookly used command '/ToggleRaise'.
+[16:50:24	][IC] John Brookly: Yapayım.
+[16:50:30	]John Brookly has given himself a beard_razor.
+[16:50:30	]John Brookly has gained a 'Hairdresser tools' #20848.
+[16:50:33	]John Brookly ran 'Style2' on item 'Hairdresser tools' (#20848)
+[16:50:39	]John Brookly ran 'Style2' on item 'Hairdresser tools' (#20848)
+[16:50:45	][IC] John Brookly: Has.
+[16:50:46	][IC] John Brookly: Sen yapcan.
+[16:50:48	]John Brookly ran 'drop' on item 'Hairdresser tools' (#20848)
+[16:50:48	]John Brookly has lost a 'Hairdresser tools' #20848.
+[16:50:52	]Fikret Saric ran 'take' on item 'Hairdresser tools' (#20848)
+[16:50:52	]Fikret Saric has gained a 'Hairdresser tools' #20848.
+[16:50:52	]John Brookly entered observer.
+[16:50:56	]Fikret Saric ran 'Style' on item 'Hairdresser tools' (#20848)
+[16:51:06	][OOC] Fikret Saric: tesekkürler
+[16:51:10	]Fikret Saric entered observer.
+[16:51:12	]Fikret Saric exited observer at their location.
+[16:51:17	]Fikret Saric entered observer.
+[16:51:20	]Fikret Saric exited observer at their location.
+[16:51:22	]Fikret Saric entered observer.
+[16:51:23	]Fikret Saric exited observer at their location.
+[16:51:27	]John Brookly exited observer at their location.
+[16:51:30	]John Brookly is admin-searching Fikret Saric's inventory.
+[16:51:30	]John Brookly has used a context menu option with the name: ixviewinventory
+[16:51:31	]John Brookly has gained a 'Hairdresser tools' #20848 from a container with the name 'Fikret Saric's inventory' #2821.
+[16:51:32	]John Brookly has closed Fikret Saric's inventory.
+[16:51:33	]John Brookly ran 'drop' on item 'Hairdresser tools' (#20848)
+[16:51:33	]John Brookly has lost a 'Hairdresser tools' #20848.
+[16:51:34	]John Brookly has used a context menu option with the name: remove
+[16:51:36	]John Brookly opened the 'Ahşap Masa' #2132 container.
+[16:51:38	]John Brookly closed the 'Ahşap Masa' #2132 container.
+[16:51:39	][IC] Fikret Saric: Erp yapalım mı.
+[16:51:41	][IC] John Brookly: Senin bu masa ile.
+[16:51:43	][IC] John Brookly: Benim masa.
+[16:51:44	][IC] John Brookly: Aynı.
+[16:51:47	][IC] Fikret Saric: Ee yani.
+[16:51:48	][IC] John Brookly: Kopyalayıcı inatorle yapıstırdım.
+[16:51:56	][IC] John Brookly: Cünkü koymamıstın masayı.
+[16:51:56	][IC] Fikret Saric: Tamamdır.
+[16:51:57	]John Brookly entered observer.
+[16:51:58	]Fikret Saric entered observer.
+[16:51:58	]John Brookly exited observer at their location.
+[16:51:58	]Fikret Saric exited observer at their location.
+[16:52:04	][IC] John Brookly: Erp yapmayak kötü.
+[16:52:04	][IC] Fikret Saric: Olum.
+[16:52:07	]John Brookly entered observer.
+[16:52:07	]John Brookly exited observer at their location.
+[16:52:07	]John Brookly entered observer.
+[16:52:08	]John Brookly exited observer at their location.
+[16:52:08	]John Brookly entered observer.
+[16:52:09	]John Brookly exited observer at their location.
+[16:52:11	]John Brookly used command '/ToggleRaise'.
+[16:52:15	]John Brookly has used a context menu option with the name: wncontainer_checkowner
+[16:52:17	][IC] Fikret Saric: Benim CSY dışında normal sivil karakterim yok onu fark ettim.
+[16:52:17	]John Brookly admin-searched the 'Medium File Cabinet' #2830 container.
+[16:52:17	]John Brookly has used a context menu option with the name: wncontainer_view
+[16:52:18	]John Brookly admin-closed the 'Medium File Cabinet' #2830 container.
+[16:52:23	][IC] Fikret Saric: Aklımda bi karakter var anlatim mi dc'den.
+[16:52:25	][IC] John Brookly: Csy mi var sende.
+[16:52:33	][IC] Fikret Saric: TİD ve BHİD.
+[16:52:38	]Fikret Saric used command '/CharDesc'.
+[16:53:22	]John Brookly entered observer.
+[16:53:34	]John Brookly exited observer at their location.
+[16:53:35	]Fikret Saric entered observer.
+[16:53:36	]Fikret Saric exited observer at their location.
+[16:53:38	][IC] John Brookly: 1 dk oda baskını yedim.
+[16:53:38	]John Brookly entered observer.
+[16:53:39	]John Brookly exited observer at their location.
+[16:53:39	]John Brookly entered observer.
+[16:53:39	]John Brookly exited observer at their location.
+[16:53:41	][IC] John Brookly: He.
+[16:53:42	][IC] Fikret Saric: Tm.
+[16:53:47	][IC] Fikret Saric: Dc gel anlatim.
+[16:53:48	][IC] John Brookly: Csy sayılıyormu o.
+[16:53:49	][IC] John Brookly: ?
+[16:53:52	][IC] Fikret Saric: Evet.
+[16:53:53	][IC] John Brookly: Sen sivilsin yani.
+[16:53:57	][IC] John Brookly: Csy ye mi giriyor.
+[16:54:03	]John Brookly entered observer.
+[16:54:03	]John Brookly exited observer at their location.
+[16:54:04	][IC] Fikret Saric: Yani CSY'deyim dielim.
+[16:54:10	][IC] John Brookly: Vereyim whitelist.
+[16:54:14	][IC] John Brookly: Karakterini transfer edeyim.
+[16:54:19	]John Brookly used command '/PlyWhitelist Fikret'.
+[16:54:20	]John Brookly entered observer.
+[16:54:27	]John Brookly used command '/PlyWhitelist Fikret cİVİL'.
+[16:54:29	]John Brookly exited observer at their location.
+[16:54:36	]John Brookly used command '/PlyTransfer fikret Civil'.
+[16:54:36	]John Brookly entered observer.
+[16:54:50	][OOC] Fikret Saric: k
+[16:55:07	]John Brookly exited observer at their location.
+[16:55:08	][IC] John Brookly: TİD GEÇ.
+[16:55:10	]John Brookly entered observer.
+[16:55:12	]John Brookly exited observer at their location.
+[16:55:14	]Victorian loaded the character 'Chang Huo'
+[16:55:15	]John Brookly opened the 'Medium File Cabinet' #2830 container.
+[16:55:17	]John Brookly closed the 'Medium File Cabinet' #2830 container.
+[16:55:21	]John Brookly entered observer.
+[16:55:28	]John Brookly used command '/PlyTransfer Chang Civil'.
+[16:55:37	]John Brookly has used a context menu option with the name: remove
+[16:55:39	]John Brookly exited observer at their location.
+[16:55:40	]John Brookly entered observer.
+[16:55:45	]Chang Huo entered observer.
+[16:55:46	]Chang Huo exited observer at their location.
+[16:55:48	]Chang Huo entered observer.
+[16:55:48	]Chang Huo exited observer at their location.
+[16:55:50	]Chang Huo entered observer.
+[16:55:50	]Chang Huo exited observer at their location.
+[16:55:51	]Chang Huo entered observer.
+[16:55:52	]Chang Huo exited observer at their location.
+[16:55:52	]Chang Huo entered observer.
+[16:55:53	]Chang Huo exited observer at their location.
+[16:55:53	]Chang Huo entered observer.
+[16:55:54	]Chang Huo exited observer at their location.
+[16:55:55	]Chang Huo entered observer.
+[16:55:56	]Chang Huo exited observer at their location.
+[16:55:57	]Chang Huo entered observer.
+[16:56:01	]Chang Huo exited observer at their location.
+[16:56:04	]Chang Huo entered observer.
+[16:56:26	]Chang Huo exited observer at their location.
+[16:56:27	]Chang Huo entered observer.
+[16:56:28	]Chang Huo exited observer at their location.
+[16:56:28	]Chang Huo entered observer.
+[16:56:29	]Chang Huo exited observer at their location.
+[16:56:31	]Chang Huo entered observer.
+[16:56:34	]Chang Huo exited observer at their location.
+[16:56:35	]Chang Huo entered observer.
+[16:56:35	]Chang Huo exited observer at their location.
+[16:56:44	]Chang Huo entered observer.
+[16:56:46	]Chang Huo exited observer at their location.
+[16:56:49	]Chang Huo entered observer.
+[16:56:50	]Chang Huo exited observer at their location.
+[16:56:53	]Chang Huo entered observer.
+[16:56:54	]Chang Huo exited observer at their location.
+[16:56:55	]Chang Huo entered observer.
+[16:56:58	]Chang Huo exited observer at their location.
+[16:57:10	]Chang Huo entered observer.
+[16:57:10	]Chang Huo exited observer at their location.
+[16:57:11	]Chang Huo entered observer.
+[16:57:14	]Chang Huo exited observer at their location.
+[16:57:14	]Chang Huo entered observer.
+[16:57:14	]Chang Huo exited observer at their location.
+[16:57:21	][OOC] Chang Huo: kaç sib vardiya görevlisi var sunucuda
+[16:57:29	][OOC] John Brookly: bilmem
+[16:57:34	][OOC] John Brookly: tabloya yazmadım daha hepsini
+[16:57:43	][OOC] John Brookly: su anlık tabloda olanlar
+[17:00:56	]Chang Huo entered observer.
+[17:00:56	]Chang Huo exited observer at their location.
+[17:00:57	]Chang Huo entered observer.
+[17:00:57	]Chang Huo exited observer at their location.
+[17:00:58	]Chang Huo entered observer.
+[17:00:59	]Chang Huo exited observer at their location.
+[17:02:33	]Chang Huo entered observer.
+[17:02:38	]Chang Huo exited observer at their location.
+[17:02:39	]Chang Huo entered observer.
+[17:02:40	]Chang Huo exited observer at their location.
+[17:02:43	]Chang Huo entered observer.
+[17:02:44	]Chang Huo exited observer at their location.
+[17:02:46	]Chang Huo entered observer.
+[17:02:47	]Chang Huo exited observer at their location.
+[17:02:49	]Chang Huo entered observer.
+[17:02:50	]Chang Huo exited observer at their location.
+[17:02:51	]Chang Huo entered observer.
+[17:02:57	]Chang Huo exited observer at their location.
+[17:02:58	]Chang Huo entered observer.
+[17:02:59	]Chang Huo exited observer at their location.
+[17:02:59	]Chang Huo entered observer.
+[17:03:00	]Chang Huo exited observer at their location.
+[17:03:03	]Chang Huo entered observer.
+[17:03:04	]Chang Huo exited observer at their location.
+[17:03:04	]Chang Huo entered observer.
+[17:03:06	]Chang Huo exited observer at their location.
+[17:03:07	]Chang Huo entered observer.
+[17:03:10	]Chang Huo exited observer at their location.
+[17:03:10	]Chang Huo entered observer.
+[17:03:12	]Chang Huo exited observer at their location.
+[17:03:17	]Chang Huo entered observer.
+[17:03:23	]Chang Huo exited observer at their location.
+[17:03:26	]Chang Huo entered observer.
+[17:03:27	]Chang Huo exited observer at their location.
+[17:03:31	]Chang Huo entered observer.
+[17:03:32	]Chang Huo exited observer at their location.
+[17:03:33	]Chang Huo entered observer.
+[17:03:34	]Chang Huo exited observer at their location.
+[17:03:42	]Victorian loaded the character 'Fikret Saric'
+[17:03:49	]Fikret Saric entered observer.
+[17:04:04	]Fikret Saric has spawned 'models/props_c17/shelfunit01a.mdl'.
+[17:04:29	]Fikret Saric has spawned 'models/props_junk/bicycle01a.mdl'.
+[17:05:03	]Fikret Saric has enabled persistence for 'models/props_junk/bicycle01a.mdl'.
+[17:05:03	]Fikret Saric has used a context menu option with the name: persist
+[17:05:28	]John Brookly has gone afk.
+[17:10:12	]Fikret Saric has gone afk.
+[17:18:27	]Fikret Saric is no longer afk. Total time spent AFK: 790
+[17:19:15	]Fikret Saric exited observer at their location.
+[17:19:16	]Fikret Saric entered observer.
+[17:19:16	]Fikret Saric exited observer at their location.
+[17:19:18	]Fikret Saric entered observer.
+[17:19:18	]Fikret Saric exited observer at their location.
+[17:19:20	]Fikret Saric entered observer.
+[17:19:20	]Fikret Saric exited observer at their location.
+[17:19:21	]Fikret Saric entered observer.
+[17:19:22	]Fikret Saric exited observer at their location.
+[17:19:22	]Fikret Saric entered observer.
+[17:19:22	]Fikret Saric exited observer at their location.
+[17:19:22	]Fikret Saric entered observer.
+[17:19:23	]Fikret Saric exited observer at their location.
+[17:19:23	]Fikret Saric entered observer.
+[17:19:23	]Fikret Saric exited observer at their location.
+[17:19:23	]Fikret Saric entered observer.
+[17:19:23	]Fikret Saric exited observer at their location.
+[17:19:24	]Fikret Saric entered observer.
+[17:19:24	]Fikret Saric exited observer at their location.
+[17:19:24	]Fikret Saric entered observer.
+[17:19:25	]Fikret Saric exited observer at their location.
+[17:19:25	]Fikret Saric entered observer.
+[17:19:26	]Fikret Saric exited observer at their location.
+[17:19:26	]Fikret Saric entered observer.
+[17:19:27	]Fikret Saric exited observer at their location.
+[17:19:27	]Fikret Saric entered observer.
+[17:19:28	]Fikret Saric exited observer at their location.
+[17:19:28	]Fikret Saric entered observer.
+[17:19:29	]Fikret Saric exited observer at their location.
+[17:19:32	]Fikret Saric entered observer.
+[17:19:32	]Fikret Saric exited observer at their location.
+[17:19:34	]Fikret Saric entered observer.
+[17:19:34	]Fikret Saric exited observer at their location.
+[17:19:36	]Fikret Saric entered observer.
+[17:19:36	]Fikret Saric exited observer at their location.
+[17:23:49	]Fikret Saric entered observer.
+[17:23:50	]Fikret Saric exited observer at their location.
+[17:23:52	]Fikret Saric entered observer.
+[17:23:53	]Fikret Saric exited observer at their location.
+[17:23:55	]Fikret Saric entered observer.
+[17:23:55	]Fikret Saric exited observer at their location.
+[17:23:55	]Fikret Saric entered observer.
+[17:23:56	]Fikret Saric exited observer at their location.
+[17:24:03	]Fikret Saric has spawned 'models/props_junk/garbage128_composite001c.mdl'.
+[17:24:08	]Fikret Saric has enabled persistence for 'models/props_junk/garbage128_composite001c.mdl'.
+[17:24:08	]Fikret Saric has used a context menu option with the name: persist
+[17:24:08	]Fikret Saric entered observer.
+[17:24:10	]Fikret Saric exited observer at their location.
+[17:24:12	]Fikret Saric entered observer.
+[17:24:15	]Fikret Saric exited observer at their location.
+[17:24:17	]Fikret Saric entered observer.
+[17:24:33	]Fikret Saric exited observer at their location.
+[17:24:34	]Fikret Saric entered observer.
+[17:24:38	]Fikret Saric has enabled persistence for 'models/c24/c24_streetlight.mdl'.
+[17:24:38	]Fikret Saric has used a context menu option with the name: persist
+[17:24:38	]Fikret Saric exited observer at their location.
+[17:24:39	]Fikret Saric entered observer.
+[17:24:39	]Fikret Saric exited observer at their location.
+[17:24:40	]Fikret Saric entered observer.
+[17:24:44	]Fikret Saric exited observer at their location.
+[17:24:47	]Fikret Saric entered observer.
+[17:24:49	]Fikret Saric exited observer at their location.
+[17:24:57	]Fikret Saric entered observer.
+[17:25:00	]Fikret Saric has enabled persistence for 'models/props_junk/wood_crate001a_damaged.mdl'.
+[17:25:00	]Fikret Saric has used a context menu option with the name: persist
+[17:25:04	]Fikret Saric exited observer at their location.
+[17:25:06	]Fikret Saric entered observer.
+[17:25:07	]Fikret Saric exited observer at their location.
+[17:25:09	]Fikret Saric entered observer.
+[17:25:16	]Fikret Saric exited observer at their location.
+[17:25:17	]Fikret Saric entered observer.
+[17:26:23	]John Brookly is no longer afk. Total time spent AFK: 1550
+[17:30:27	]Fikret Saric has gone afk.
+[17:31:02	]Fikret Saric is no longer afk. Total time spent AFK: 330
+[17:31:04	]Fikret Saric exited observer at their location.
+[17:31:05	]Fikret Saric entered observer.
+[17:31:05	]Fikret Saric exited observer at their location.
+[17:31:06	]Fikret Saric entered observer.
+[17:31:06	]Fikret Saric exited observer at their location.
+[17:31:06	]Fikret Saric entered observer.
+[17:31:07	]Fikret Saric exited observer at their location.
+[17:31:07	]Fikret Saric entered observer.
+[17:31:08	]Fikret Saric exited observer at their location.
+[17:31:08	]Fikret Saric entered observer.
+[17:31:09	]Fikret Saric exited observer at their location.
+[17:31:09	]Fikret Saric entered observer.
+[17:31:14	]Fikret Saric exited observer at their location.
+[17:31:25	]Fikret Saric entered observer.
+[17:31:29	]Fikret Saric exited observer at their location.
+[17:31:39	]Fikret Saric has spawned 'models/Gibs/Antlion_gib_Large_2.mdl'.
+[17:31:41	]Fikret Saric has taken 10 damage from Fikret Saric.
+[17:31:45	]Fikret Saric has used a context menu option with the name: remove
+[17:31:47	]Fikret Saric has spawned 'models/props_c17/consolebox05a.mdl'.
+[17:31:52	]Fikret Saric has taken 20 damage from Fikret Saric.
+[17:31:53	]John Brookly has gone afk.
+[17:32:01	]Fikret Saric entered observer.
+[17:32:05	]Fikret Saric exited observer at their location.
+[17:32:19	]Fikret Saric has spawned 'models/props_lab/workspace003.mdl'.
+[17:32:23	]Fikret Saric has spawned 'models/props_lab/workspace001.mdl'.
+[17:32:33	]Fikret Saric has spawned 'models/props_lab/reciever_cart.mdl'.
+[17:32:36	]Fikret Saric has spawned 'models/props_lab/securitybank.mdl'.
+[17:32:49	]Fikret Saric entered observer.
+[17:32:50	]Fikret Saric exited observer at their location.
+[17:32:54	]Fikret Saric has spawned 'models/props_combine/breenglobe.mdl'.
+[17:32:58	]Fikret Saric entered observer.
+[17:33:04	]Fikret Saric has disabled persistence for 'models/props_combine/breenbust.mdl'.
+[17:33:04	]Fikret Saric has used a context menu option with the name: persist_end
+[17:33:09	]Fikret Saric has enabled persistence for 'models/props_combine/breenbust.mdl'.
+[17:33:09	]Fikret Saric has used a context menu option with the name: persist
+[17:33:34	]Fikret Saric exited observer at their location.
+[17:33:41	]Fikret Saric entered observer.
+[17:33:42	]Fikret Saric exited observer at their location.
+[17:33:42	]Fikret Saric entered observer.
+[17:33:44	]Fikret Saric exited observer at their location.
+[17:33:47	]Fikret Saric entered observer.
+[17:33:50	]Fikret Saric exited observer at their location.
+[17:33:51	]Fikret Saric entered observer.
+[17:34:03	]Fikret Saric exited observer at their location.
+[17:34:05	]Fikret Saric entered observer.
+[17:34:06	]Fikret Saric exited observer at their location.
+[17:34:07	]Fikret Saric entered observer.
+[17:34:12	]Fikret Saric exited observer at their location.
+[17:34:16	]Fikret Saric entered observer.
+[17:34:21	]Fikret Saric exited observer at their location.
+[17:34:21	]Fikret Saric entered observer.
+[17:34:23	]Fikret Saric exited observer at their location.
+[17:34:24	]Fikret Saric entered observer.
+[17:34:25	]Fikret Saric exited observer at their location.
+[17:34:26	]Fikret Saric entered observer.
+[17:34:41	]Fikret Saric exited observer at their location.
+[17:34:42	]Fikret Saric entered observer.
+[17:34:42	]Fikret Saric exited observer at their location.
+[17:34:43	]Fikret Saric entered observer.
+[17:34:44	]Fikret Saric exited observer at their location.
+[17:34:45	]Fikret Saric entered observer.
+[17:34:46	]Fikret Saric exited observer at their location.
+[17:34:47	]Fikret Saric entered observer.
+[17:34:57	]Fikret Saric exited observer at their location.
+[17:34:57	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:57	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:57	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:57	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:57	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:57	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:57	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:57	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:57	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:57	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:57	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:57	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:57	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:58	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:58	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:58	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:58	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:58	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:58	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:58	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:58	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:58	]Fikret Saric has taken 1 damage from alley_elevator1.
+[17:34:58	]Fikret Saric entered observer.
+[17:35:00	]Fikret Saric exited observer at their location.
+[17:40:32	]Fikret Saric has gone afk.
+[17:42:17	]Fikret Saric is no longer afk. Total time spent AFK: 400
+[17:42:23	]Fikret Saric ran SAM command 'hp' with arguments: 'Fikret' '100'
+[17:42:27	]Fikret Saric is fully healed.
+[17:42:49	]Victorian (STEAM_0:0:577700614) has disconnected.
+[17:57:18	]John Brookly is no longer afk. Total time spent AFK: 1820
+[18:01:26	]John Brookly exited observer at their location.
+[18:01:29	]John Brookly entered observer.
+[18:01:35	]John Brookly exited observer at their location.
+[18:01:36	]John Brookly entered observer.
+[18:01:40	]John Brookly exited observer at their location.
+[18:01:40	]John Brookly entered observer.
+[18:02:44	]John Brookly exited observer at their location.
+[18:02:46	]John Brookly entered observer.
+[18:02:58	]John Brookly exited observer at their location.
+[18:02:59	]John Brookly entered observer.
+[18:03:00	]John Brookly exited observer at their location.
+[18:03:00	]John Brookly entered observer.
+[18:03:14	]John Brookly exited observer at their location.
+[18:03:15	]John Brookly entered observer.
+[18:03:22	]John Brookly has used a context menu option with the name: ixpropviewowner
+[18:03:32	]John Brookly has spawned a 'Entity [4564][ix_forcefield]'.
+[18:03:38	]John Brookly has used a context menu option with the name: remove
+[18:03:40	]John Brookly has used a context menu option with the name: remove
+[18:03:42	]John Brookly exited observer at their location.
+[18:03:44	]John Brookly has spawned a 'Entity [243][ix_forcefield]'.
+[18:03:48	]John Brookly entered observer.
+[18:03:55	]John Brookly has spawned a 'Entity [243][ix_forcefield]'.
+[18:04:00	]John Brookly has fired a toolgun with the name: creator
+[18:04:00	]John Brookly has spawned a 'Entity [243][ix_forcefield]'.
+[18:04:02	]John Brookly has fired a toolgun with the name: creator
+[18:04:02	]John Brookly has spawned a 'Entity [4497][ix_forcefield]'.
+[18:04:06	]John Brookly has fired a toolgun with the name: creator
+[18:04:06	]John Brookly has spawned a 'Entity [4482][ix_forcefield]'.
+[18:04:09	]John Brookly has fired a toolgun with the name: creator
+[18:04:09	]John Brookly has spawned a 'Entity [4482][ix_forcefield]'.
+[18:04:15	]John Brookly exited observer at their location.
+[18:04:17	]John Brookly has fired a toolgun with the name: creator
+[18:04:17	]John Brookly has spawned a 'Entity [4506][ix_forcefield]'.
+[18:04:22	]John Brookly entered observer.
+[18:04:28	]John Brookly has fired a toolgun with the name: creator
+[18:04:28	]John Brookly has spawned a 'Entity [4564][ix_forcefield]'.
+[18:04:37	]John Brookly has fired a toolgun with the name: creator
+[18:04:37	]John Brookly has spawned a 'Entity [4564][ix_forcefield]'.
+[18:04:37	]John Brookly has fired a toolgun with the name: creator
+[18:04:37	]John Brookly has spawned a 'Entity [4592][ix_forcefield]'.
+[18:04:41	]John Brookly has fired a toolgun with the name: creator
+[18:04:41	]John Brookly has spawned a 'Entity [4499][ix_forcefield]'.
+[18:04:43	]John Brookly has fired a toolgun with the name: creator
+[18:04:43	]John Brookly has spawned a 'Entity [4564][ix_forcefield]'.
+[18:04:51	]John Brookly has fired a toolgun with the name: creator
+[18:04:51	]John Brookly has spawned a 'Entity [1520][ix_forcefield]'.
+[18:04:53	]John Brookly has fired a toolgun with the name: creator
+[18:04:53	]John Brookly has spawned a 'Entity [4550][ix_forcefield]'.
+[18:04:54	]John Brookly has fired a toolgun with the name: creator
+[18:04:54	]John Brookly has spawned a 'Entity [4611][ix_forcefield]'.
+[18:04:56	]John Brookly has fired a toolgun with the name: creator
+[18:04:56	]John Brookly has spawned a 'Entity [4622][ix_forcefield]'.
+[18:04:57	]John Brookly has fired a toolgun with the name: creator
+[18:04:57	]John Brookly has spawned a 'Entity [4637][ix_forcefield]'.
+[18:04:58	]John Brookly has fired a toolgun with the name: creator
+[18:04:58	]John Brookly has spawned a 'Entity [2454][ix_forcefield]'.
+[18:04:59	]John Brookly has fired a toolgun with the name: creator
+[18:04:59	]John Brookly has spawned a 'Entity [4622][ix_forcefield]'.
+[18:05:02	]John Brookly has fired a toolgun with the name: creator
+[18:05:02	]John Brookly has spawned a 'Entity [2452][ix_forcefield]'.
+[18:05:05	]John Brookly has fired a toolgun with the name: creator
+[18:05:05	]John Brookly has spawned a 'Entity [2452][ix_forcefield]'.
+[18:05:06	]John Brookly has fired a toolgun with the name: creator
+[18:05:06	]John Brookly has spawned a 'Entity [4564][ix_forcefield]'.
+[18:05:07	]John Brookly has fired a toolgun with the name: creator
+[18:05:07	]John Brookly has spawned a 'Entity [1520][ix_forcefield]'.
+[18:05:09	]John Brookly has fired a toolgun with the name: creator
+[18:05:09	]John Brookly has spawned a 'Entity [1520][ix_forcefield]'.
+[18:05:12	]John Brookly has fired a toolgun with the name: creator
+[18:05:12	]John Brookly has spawned a 'Entity [4073][ix_forcefield]'.
+[18:05:16	]John Brookly has fired a toolgun with the name: creator
+[18:05:16	]John Brookly has spawned a 'Entity [2282][ix_forcefield]'.
+[18:05:17	]John Brookly has fired a toolgun with the name: creator
+[18:05:17	]John Brookly has spawned a 'Entity [2454][ix_forcefield]'.
+[18:05:21	]John Brookly exited observer at their location.
+[18:05:24	]John Brookly has fired a toolgun with the name: creator
+[18:05:24	]John Brookly has spawned a 'Entity [4550][ix_forcefield]'.
+[18:05:25	]John Brookly entered observer.
+[18:05:26	]John Brookly has fired a toolgun with the name: creator
+[18:05:26	]John Brookly has spawned a 'Entity [4499][ix_forcefield]'.
+[18:05:27	]John Brookly has fired a toolgun with the name: creator
+[18:05:27	]John Brookly has spawned a 'Entity [4489][ix_forcefield]'.
+[18:05:28	]John Brookly has fired a toolgun with the name: creator
+[18:05:28	]John Brookly has spawned a 'Entity [243][ix_forcefield]'.
+[18:05:31	]John Brookly has fired a toolgun with the name: creator
+[18:05:31	]John Brookly has spawned a 'Entity [4489][ix_forcefield]'.
+[18:05:32	]John Brookly has fired a toolgun with the name: creator
+[18:05:32	]John Brookly has spawned a 'Entity [4567][ix_forcefield]'.
+[18:05:33	]John Brookly has fired a toolgun with the name: creator
+[18:05:33	]John Brookly has spawned a 'Entity [4464][ix_forcefield]'.
+[18:05:34	]John Brookly has fired a toolgun with the name: creator
+[18:05:34	]John Brookly has spawned a 'Entity [4567][ix_forcefield]'.
+[18:05:35	]John Brookly exited observer at their location.
+[18:05:37	]John Brookly entered observer.
+[18:05:40	]John Brookly exited observer at their location.
+[18:05:46	]John Brookly entered observer.
+[18:05:49	]John Brookly exited observer at their location.
+[18:05:53	]John Brookly entered observer.
+[18:06:08	]John Brookly has given himself a combine_card.
+[18:06:08	]John Brookly has gained a 'Combine Kartı' #20849.
+[18:07:20	]John Brookly exited observer at their location.
+[18:07:20	]John Brookly entered observer.
+[18:07:35	]John Brookly exited observer at their location.
+[18:07:40	]John Brookly has used a context menu option with the name: door_lockunlock
+[18:07:42	]John Brookly has used a context menu option with the name: door_lockunlock
+[18:07:45	]John Brookly has used a context menu option with the name: rb655_door_open
+[18:08:26	]John Brookly entered observer.
+[18:08:26	]John Brookly exited observer at their location.
+[18:08:33	]John Brookly entered observer.
+[18:09:39	]John Brookly ran 'drop' on item 'Combine Kartı' (#20849)
+[18:09:39	]John Brookly has lost a 'Combine Kartı' #20849.
+[18:09:41	]John Brookly has used a context menu option with the name: remove
+[18:09:44	]John Brookly has given himself a combine_card.
+[18:09:44	]John Brookly has gained a 'Combine Kartı' #20850.
+[18:09:47	]John Brookly exited observer at their location.
+[18:09:52	]John Brookly entered observer.
+[18:09:52	]John Brookly exited observer at their location.
+[18:09:55	]John Brookly has used a context menu option with the name: rb655_door_open
+[18:09:57	]John Brookly entered observer.
+[18:10:10	]John Brookly used command '/PlyWhitelist brookly depart'.
+[18:10:12	]John Brookly used command '/PlyWhitelist brookly depa'.
+[18:10:13	]John Brookly used command '/PlyWhitelist brookly dep'.
+[18:10:16	]John Brookly used command '/PlyWhitelist brookly of'.
+[18:10:25	]John Brookly used command '/PlyWhitelist brookly of'.
+[18:10:45	]John Brookly used command '/PlyUnwhitelist brookly of'.
+[18:15:28	]John Brookly exited observer at their location.
+[18:15:28	]John Brookly entered observer.
+[18:15:30	]John Brookly exited observer at their location.
+[18:15:30	]John Brookly entered observer.
+[18:15:32	]John Brookly exited observer at their location.
+[18:15:33	]John Brookly entered observer.
+[18:15:34	]John Brookly exited observer at their location.
+[18:15:35	]John Brookly entered observer.
+[18:15:49	]John Brookly exited observer at their location.
+[18:15:50	]John Brookly entered observer.
+[18:15:58	]John Brookly exited observer at their location.
+[18:16:09	]John Brookly used command '/PlyWhitelist brookly awq'.
+[18:16:10	]John Brookly used command '/PlyWhitelist brookly aw'.
+[18:16:12	]John Brookly used command '/PlyWhitelist brookly ae'.
+[18:16:16	]John Brookly used command '/PlyWhitelist brookly aq'.
+[18:16:17	]John Brookly used command '/PlyWhitelist brookly ar'.
+[18:16:23	]John Brookly used command '/PlyWhitelist brookly tr'.
+[18:16:34	]John Brookly used command '/PlyUnwhitelist brookly admin'.
+[18:16:35	]John Brookly entered observer.
+[18:16:39	]John Brookly used command '/PlyWhitelist y'.
+[18:16:42	]John Brookly used command '/PlyWhitelist brookly y'.
+[18:17:18	]John Brookly used command '/PlyUnwhitelist brookly y'.
+[18:17:22	]John Brookly used command '/PlyWhitelist brookly u'.
+[18:17:25	]John Brookly used command '/PlyUnwhitelist brookly u'.
+[18:17:27	]John Brookly used command '/PlyWhitelist brookly ı'.
+[18:17:29	]John Brookly used command '/PlyWhitelist brookly o'.
+[18:17:31	]John Brookly used command '/PlyWhitelist brookly o'.
+[18:17:34	]John Brookly used command '/PlyUnwhitelist brookly o'.
+[18:17:36	]John Brookly used command '/PlyWhitelist brookly p'.
+[18:17:39	]John Brookly used command '/PlyWhitelist brookly ğ'.
+[18:17:41	]John Brookly used command '/PlyWhitelist brookly a'.
+[18:17:42	]John Brookly used command '/PlyWhitelist brookly a'.
+[18:17:45	]John Brookly used command '/PlyUnwhitelist brookly a'.
+[18:17:49	]John Brookly used command '/PlyUnwhitelist brookly s'.
+[18:17:56	]John Brookly used command '/PlyWhitelist brookly d'.
+[18:17:58	]John Brookly used command '/PlyUnwhitelist brookly d'.
+[18:18:01	]John Brookly used command '/PlyUnwhitelist brookly f'.
+[18:18:04	]John Brookly used command '/PlyUnwhitelist brookly g'.
+[18:18:08	]John Brookly used command '/PlyWhitelist brookly g'.
+[18:18:11	]John Brookly used command '/PlyUnwhitelist brookly h'.
+[18:18:13	]John Brookly used command '/PlyWhitelist brookly h'.
+[18:18:16	]John Brookly used command '/PlyWhitelist brookly j'.
+[18:18:17	]John Brookly used command '/PlyWhitelist brookly k'.
+[18:18:20	]John Brookly used command '/PlyWhitelist brookly l'.
+[18:18:24	]John Brookly used command '/PlyUnwhitelist brookly l'.
+[18:18:27	]John Brookly used command '/PlyWhitelist brookly i'.
+[18:18:29	]John Brookly used command '/PlyUnwhitelist brookly i'.
+[18:18:31	]John Brookly used command '/PlyUnwhitelist brookly z'.
+[18:18:35	]John Brookly used command '/PlyWhitelist brookly z'.
+[18:18:38	]John Brookly used command '/PlyWhitelist brookly x'.
+[18:18:39	]John Brookly used command '/PlyWhitelist brookly c'.
+[18:18:43	]John Brookly used command '/PlyUnwhitelist brookly c'.
+[18:18:46	]John Brookly used command '/PlyWhitelist brookly v'.
+[18:18:48	]John Brookly used command '/PlyUnwhitelist brookly v'.
+[18:18:52	]John Brookly used command '/PlyWhitelist brookly b'.
+[18:18:54	]John Brookly used command '/PlyUnwhitelist brookly b'.
+[18:18:57	]John Brookly used command '/PlyWhitelist brookly n'.
+[18:18:59	]John Brookly used command '/PlyUnwhitelist brookly n'.
+[18:19:11	]John Brookly exited observer at their location.
+[18:19:12	]John Brookly entered observer.
+[18:19:12	]John Brookly exited observer at their location.
+[18:19:13	]John Brookly entered observer.
+[18:20:10	]John Brookly has fired a toolgun with the name: wheel
+[18:20:14	]John Brookly exited observer at their location.
+[18:20:16	]John Brookly entered observer.
+[18:20:43	]John Brookly has fired a toolgun with the name: sh_persist
+[18:20:44	]John Brookly has fired a toolgun with the name: sh_persist
+[18:20:45	]John Brookly has fired a toolgun with the name: sh_persist
+[18:20:48	]John Brookly has fired a toolgun with the name: sh_persist
+[18:20:48	]John Brookly has disabled persistence for 'models/props_c17/oildrum001.mdl'.
+[18:21:29	]John Brookly has fired a toolgun with the name: env_headcrabcanister
+[18:21:51	]John Brookly exited observer at their location.
+[18:21:52	]John Brookly entered observer.
+[18:21:53	]John Brookly exited observer at their location.
+[18:21:53	]John Brookly entered observer.
+[18:22:03	]John Brookly has used a context menu option with the name: remove
+[18:22:08	]John Brookly has fired a toolgun with the name: remover
+[18:22:08	]John Brookly has fired a toolgun with the name: remover
+[18:22:08	]John Brookly has fired a toolgun with the name: remover
+[18:22:09	]John Brookly has fired a toolgun with the name: remover
+[18:22:09	]John Brookly has fired a toolgun with the name: remover
+[18:22:11	]John Brookly has fired a toolgun with the name: remover
+[18:22:11	]John Brookly has fired a toolgun with the name: remover
+[18:22:12	]John Brookly has fired a toolgun with the name: remover
+[18:22:12	]John Brookly has fired a toolgun with the name: remover
+[18:22:12	]John Brookly has fired a toolgun with the name: remover
+[18:22:12	]John Brookly has fired a toolgun with the name: remover
+[18:22:13	]John Brookly has fired a toolgun with the name: remover
+[18:22:13	]John Brookly has fired a toolgun with the name: remover
+[18:22:13	]John Brookly has fired a toolgun with the name: remover
+[18:22:14	]John Brookly has fired a toolgun with the name: remover
+[18:22:14	]John Brookly has fired a toolgun with the name: remover
+[18:22:15	]John Brookly exited observer at their location.
+[18:22:16	]John Brookly entered observer.
+[18:22:43	]John Brookly exited observer at their location.
+[18:22:44	]John Brookly entered observer.
+[18:23:17	]John Brookly exited observer at their location.
+[18:23:21	]John Brookly entered observer.
+[18:23:52	]John Brookly exited observer at their location.
+[18:23:54	]John Brookly entered observer.
+[18:24:33	]John Brookly exited observer at their location.
+[18:24:35	]John Brookly entered observer.
+[18:26:40	]John Brookly exited observer at their location.
+[18:26:42	]John Brookly entered observer.
+[18:27:48	]John Brookly exited observer at their location.
+[18:27:52	]John Brookly entered observer.
+[18:28:29	]John Brookly exited observer at their location.
+[18:28:30	]John Brookly entered observer.
+[18:28:32	]John Brookly exited observer at their location.
+[18:28:33	]John Brookly entered observer.
+[18:28:54	]John Brookly used command '/AreaEdit'.
+[18:29:46	]John Brookly has added area "New Area".
+[18:29:52	]John Brookly exited observer at their location.
+[18:29:55	]John Brookly has removed area "New Area".
+[18:29:55	]John Brookly entered observer.
+[18:30:30	]John Brookly has added area "Kanalizasyon Koridoru".
+[18:30:34	]John Brookly exited observer at their location.
+[18:30:48	]John Brookly used command '/AreaEdit'.
+[18:30:53	]John Brookly entered observer.
+[18:30:54	]John Brookly exited observer at their location.
+[18:30:55	]John Brookly entered observer.
+[18:30:57	]John Brookly exited observer at their location.
+[18:31:01	]John Brookly entered observer.
+[18:31:03	]John Brookly exited observer at their location.
+[18:31:03	]John Brookly entered observer.
+[18:31:05	]John Brookly exited observer at their location.
+[18:31:09	]John Brookly entered observer.
+[18:31:14	]John Brookly used command '/PlyUnwhitelist brookly n'.
+[18:31:16	]John Brookly used command '/AreaEdit'.
+[18:31:18	]John Brookly exited observer at their location.
+[18:31:20	]John Brookly entered observer.
+[18:31:25	]John Brookly exited observer at their location.
+[18:31:30	]John Brookly has removed area "Kanalizasyon Koridoru".
+[18:31:31	]John Brookly entered observer.
+[18:32:11	]John Brookly has added area "Kanalizasyon Koridoru".
+[18:32:33	]John Brookly exited observer at their location.
+[18:32:35	]John Brookly entered observer.
+[18:32:41	]John Brookly exited observer at their location.
+[18:32:45	]John Brookly entered observer.
+[18:33:14	]John Brookly has added area "Kanalizasyon Kapağı".
+[18:35:16	]John Brookly has added area "Kanalizasyon Suları".
+[18:35:54	]John Brookly has added area "Kanalizasyon Suları-1".
+[18:36:20	]John Brookly has added area "Kanalizasyon Suları-2".
+[18:36:50	]John Brookly has added area "Kanalizasyon Koridorları".
+[18:37:29	]John Brookly exited observer at their location.
+[18:37:30	]John Brookly entered observer.
+[18:37:32	]John Brookly exited observer at their location.
+[18:37:39	]John Brookly entered observer.
+[18:38:30	]John Brookly has added area "İnşaat Bölgesi".
+[18:39:08	]John Brookly has added area "Kanalizasyon Girişi".
+[18:40:13	]John Brookly has added area "Sınır Dışı Bölge Girişi".
+[18:40:24	]John Brookly exited observer at their location.
+[18:40:29	]John Brookly entered observer.
+[18:40:40	]John Brookly exited observer at their location.
+[18:40:42	]John Brookly entered observer.
+[18:40:52	]John Brookly has added area "New Area".
+[18:40:53	]John Brookly exited observer at their location.
+[18:40:58	]John Brookly has taken 5 damage from worldspawn.
+[18:40:59	]John Brookly entered observer.
+[18:41:06	]John Brookly used command '/AreaEdit'.
+[18:41:13	]John Brookly has removed area "New Area".
+[18:41:17	]John Brookly exited observer at their location.
+[18:41:28	]John Brookly entered observer.
+[18:41:38	]John Brookly exited observer at their location.
+[18:41:39	]John Brookly entered observer.
+[18:42:10	]John Brookly has added area "Kanalizasyon Girişi-2".
+[18:42:13	]John Brookly exited observer at their location.
+[18:42:41	]John Brookly has added area "Kanalizasyon Suları-3".
+[18:43:05	]John Brookly has added area "Kanalizasyon Bağlantısı".
+[18:43:07	]John Brookly entered observer.
+[18:44:37	]Hoo Lee Fuk (STEAM_0:0:479033164) has disconnected (timed out).
+[18:46:14	]Hoo Lee Fuk has connected.
+[18:47:28	]Hoo Lee Fuk loaded the character 'John Brookly'
+[18:47:32	]John Brookly entered observer.
+[18:47:40	]John Brookly used command '/AreaEdit'.
+[18:47:57	]John Brookly has removed area "Kanalizasyon Suları-2".
+[18:48:15	]John Brookly has added area "Kanalizasyon Suları-2".
+[18:49:39	]John Brookly has added area "Kanalizasyon Bağlacı".
+[18:50:37	]John Brookly has added area "Haberleşme Noktası".
+[18:51:19	]John Brookly has removed area "Kanalizasyon Koridorları".
+[18:52:13	]John Brookly has added area "Kabuk Sahiline Giriş".
+[18:52:44	]John Brookly has added area "Kabuk Sahili".
+[18:53:47	]John Brookly exited observer at their location.
+[18:53:48	]John Brookly entered observer.
+[18:54:10	]John Brookly exited observer at their location.
+[18:54:17	]John Brookly used command '/AreaEdit'.
+[18:54:27	]John Brookly entered observer.
+[18:54:43	]John Brookly has added area "Kanalizasyon Koridorları".
+[18:55:21	]John Brookly has added area "Kanalizasyon Mazgalları".
+[18:58:50	]otistik banditcamp.com has connected.
+[18:59:30	]otistik banditcamp.com loaded the character 'lucifer'
+[18:59:32	]lucifer entered observer.
+[18:59:37	]lucifer exited observer at their location.
+[18:59:40	]lucifer entered observer.
+[18:59:47	]lucifer exited observer at their location.
+[18:59:49	]lucifer entered observer.
+[18:59:53	]lucifer exited observer at their location.
+[19:01:03	]John Brookly has used a context menu option with the name: rb655_door_close
+[19:01:04	]John Brookly has used a context menu option with the name: rb655_door_close
+[19:01:08	]John Brookly exited observer at their location.
+[19:01:22	]John Brookly is admin-searching lucifer's inventory.
+[19:01:22	]John Brookly has used a context menu option with the name: ixviewinventory
+[19:01:24	]John Brookly has closed lucifer's inventory.
+[19:01:28	]lucifer entered observer.
+[19:01:28	]lucifer exited observer at their location.
+[19:01:30	]John Brookly entered observer.
+[19:01:31	]John Brookly exited observer at their location.
+[19:01:32	]John Brookly entered observer.
+[19:01:34	]John Brookly exited observer at their location.
+[19:01:36	]lucifer entered observer.
+[19:01:38	]lucifer exited observer at their location.
+[19:01:42	]lucifer entered observer.
+[19:01:42	]John Brookly entered observer.
+[19:01:44	]John Brookly exited observer at their location.
+[19:01:46	]lucifer exited observer at their location.
+[19:01:47	]lucifer entered observer.
+[19:01:47	]John Brookly entered observer.
+[19:01:48	]lucifer exited observer at their location.
+[19:01:48	]lucifer entered observer.
+[19:01:49	]lucifer exited observer at their location.
+[19:01:53	]John Brookly exited observer at their location.
+[19:01:54	]lucifer entered observer.
+[19:01:56	]lucifer exited observer at their location.
+[19:01:58	]John Brookly is fully healed.
+[19:02:04	]John Brookly entered observer.
+[19:02:05	]John Brookly exited observer at their location.
+[19:02:08	]lucifer entered observer.
+[19:02:10	]lucifer exited observer at their location.
+[19:02:21	]otistik banditcamp.com loaded the character 'William Stadfed'
+[19:02:23	]William Stadfed entered observer.
+[19:02:23	]John Brookly entered observer.
+[19:02:23	]William Stadfed exited observer at their location.
+[19:02:24	]William Stadfed entered observer.
+[19:02:27	]John Brookly exited observer at their location.
+[19:02:27	]William Stadfed exited observer at their location.
+[19:02:34	]John Brookly has given himself a cca_bureaucrat.
+[19:02:35	]John Brookly has gained a 'Bürokrat' #20851.
+[19:02:36	]John Brookly has given himself a cca_legs_bureaucrat.
+[19:02:36	]John Brookly has gained a 'Bürokrat Pantolonu' #20852.
+[19:02:38	]John Brookly ran 'drop' on item 'Bürokrat Pantolonu' (#20852)
+[19:02:38	]John Brookly has lost a 'Bürokrat Pantolonu' #20852.
+[19:02:39	]John Brookly ran 'drop' on item 'Bürokrat' (#20851)
+[19:02:39	]John Brookly has lost a 'Bürokrat' #20851.
+[19:02:40	]William Stadfed ran 'take' on item 'Bürokrat Pantolonu' (#20852)
+[19:02:40	]William Stadfed has gained a 'Bürokrat Pantolonu' #20852.
+[19:02:42	]William Stadfed ran 'take' on item 'Bürokrat' (#20851)
+[19:02:42	]William Stadfed has gained a 'Bürokrat' #20851.
+[19:02:43	]John Brookly has spawned a suitcase.
+[19:02:48	]William Stadfed ran 'take' on item 'Bavul' (#20853)
+[19:02:48	]William Stadfed has gained a 'Bavul' #20853.
+[19:02:50	]William Stadfed ran 'Equip' on item 'Bavul' (#20853)
+[19:02:50	]John Brookly entered observer.
+[19:02:51	]John Brookly exited observer at their location.
+[19:02:52	]John Brookly entered observer.
+[19:02:53	]John Brookly exited observer at their location.
+[19:03:01	]William Stadfed entered observer.
+[19:03:03	]William Stadfed exited observer at their location.
+[19:03:04	]William Stadfed entered observer.
+[19:03:06	]John Brookly entered observer.
+[19:03:08	]William Stadfed exited observer at their location.
+[19:03:15	]John Brookly exited observer at their location.
+[19:03:19	]John Brookly entered observer.
+[19:03:26	]John Brookly used command '/AreaEdit'.
+[19:03:27	]William Stadfed entered observer.
+[19:03:31	]John Brookly has removed area "Kabuk Sahili".
+[19:03:32	]William Stadfed exited observer at their location.
+[19:03:40	]William Stadfed ran SAM command 'hp' with arguments: 'stad' '100'
+[19:03:41	]William Stadfed is fully healed.
+[19:03:46	]John Brookly exited observer at their location.
+[19:03:47	]John Brookly entered observer.
+[19:03:47	]John Brookly exited observer at their location.
+[19:03:54	]John Brookly has removed area "Üst Plaza Çıkışı".
+[19:03:56	]John Brookly entered observer.
+[19:04:01	]William Stadfed entered observer.
+[19:04:02	]William Stadfed exited observer at their location.
+[19:04:10	]William Stadfed entered observer.
+[19:04:14	]John Brookly exited observer at their location.
+[19:04:15	]John Brookly entered observer.
+[19:04:18	]William Stadfed exited observer at their location.
+[19:04:20	]William Stadfed entered observer.
+[19:04:24	]William Stadfed exited observer at their location.
+[19:04:27	]William Stadfed entered observer.
+[19:04:45	]William Stadfed exited observer at their location.
+[19:04:46	]William Stadfed entered observer.
+[19:04:48	]William Stadfed exited observer at their location.
+[19:04:56	]William Stadfed entered observer.
+[19:05:07	]William Stadfed exited observer at their location.
+[19:05:08	]William Stadfed entered observer.
+[19:05:09	]William Stadfed exited observer at their location.
+[19:05:10	]William Stadfed entered observer.
+[19:05:14	]William Stadfed exited observer at their location.
+[19:05:17	]William Stadfed entered observer.
+[19:05:27	]John Brookly exited observer at their location.
+[19:05:31	]Hoo Lee Fuk loaded the character 'Karındeşen Jack'
+[19:05:33	]Karındeşen Jack entered observer.
+[19:05:35	]William Stadfed exited observer at their location.
+[19:05:36	]Karındeşen Jack exited observer at their location.
+[19:05:46	]Karındeşen Jack ran 'Equip' on item 'Crowbar' (#20493)
+[19:05:58	]otistik banditcamp.com loaded the character 'lucifer'
+[19:05:59	]Karındeşen Jack entered observer.
+[19:06:10	]lucifer has given himself a suitcase.
+[19:06:10	]lucifer has gained a 'Bavul' #20854.
+[19:06:11	]lucifer ran 'Equip' on item 'Bavul' (#20854)
+[19:06:13	]Karındeşen Jack exited observer at their location.
+[19:06:14	]Karındeşen Jack entered observer.
+[19:06:15	]Karındeşen Jack exited observer at their location.
+[19:06:28	]Karındeşen Jack entered observer.
+[19:06:34	]Karındeşen Jack exited observer at their location.
+[19:06:38	]Karındeşen Jack ran 'Write' on item 'Bilgi ve Malzeme Toplama Görevi' (#20819)
+[19:06:55	]Karındeşen Jack entered observer.
+[19:07:41	]otistik banditcamp.com created the character 'Lucifer Treakson'
+[19:07:42	]otistik banditcamp.com loaded the character 'Lucifer Treakson'
+[19:07:42	]Lucifer Treakson has gained a '#55759 Kimlik Kartı' #20855.
+[19:07:42	]Lucifer Treakson has gained a 'Flashlight' #20856.
+[19:07:42	]Lucifer Treakson has gained a 'Küçük Çanta' #20857.
+[19:07:42	]Lucifer Treakson has gained a 'Büyük Çanta' #20858.
+[19:07:42	]Lucifer Treakson has gained a 'Sivil Tulum' #20859.
+[19:07:42	]Lucifer Treakson has gained a 'Tulum pantolonu.' #20860.
+[19:07:42	]Lucifer Treakson has gained a 'Koyu Deri Çizme' #20861.
+[19:08:01	]Lucifer Treakson entered observer.
+[19:08:08	]Lucifer Treakson exited observer at their location.
+[19:08:55	]Karındeşen Jack exited observer at their location.
+[19:08:55	]Karındeşen Jack entered observer.
+[19:08:57	]Karındeşen Jack exited observer at their location.
+[19:08:58	]Karındeşen Jack entered observer.
+[19:08:58	]otistik banditcamp.com (STEAM_0:0:142449284) has disconnected.
+[19:14:54	]Hoo Lee Fuk (STEAM_0:0:479033164) has disconnected.
+[19:17:17	]Victorian has connected.
+[19:18:24	]Victorian loaded the character 'Fikret Saric'
+[19:18:34	]Fikret Saric entered observer.
+[19:18:35	]Fikret Saric exited observer at their location.
+[19:18:36	]Fikret Saric entered observer.
+[19:18:36	]Fikret Saric exited observer at their location.
+[19:18:52	]Fikret Saric entered observer.
+[19:18:54	]Fikret Saric exited observer at their location.
+[19:18:54	]Fikret Saric entered observer.
+[19:19:04	]Fikret Saric exited observer at their location.
+[19:19:05	]Fikret Saric entered observer.
+[19:19:05	]Fikret Saric exited observer at their location.
+[19:19:06	]Fikret Saric entered observer.
+[19:19:07	]Fikret Saric exited observer at their location.
+[19:19:08	]Fikret Saric entered observer.
+[19:19:08	]Fikret Saric exited observer at their location.
+[19:19:09	]Fikret Saric entered observer.
+[19:19:09	]Fikret Saric exited observer at their location.
+[19:19:12	]Fikret Saric entered observer.
+[19:19:13	]Fikret Saric exited observer at their location.
+[19:19:14	]Fikret Saric has taken 4 damage from worldspawn.
+[19:19:15	]Fikret Saric entered observer.
+[19:19:15	]Fikret Saric exited observer at their location.
+[19:19:17	]Fikret Saric entered observer.
+[19:19:22	]Fikret Saric exited observer at their location.
+[19:19:30	]Fikret Saric entered observer.
+[19:19:31	]Fikret Saric exited observer at their location.
+[19:19:33	]Fikret Saric entered observer.
+[19:19:33	]Fikret Saric exited observer at their location.
+[19:19:34	]Fikret Saric entered observer.
+[19:19:35	]Fikret Saric exited observer at their location.
+[19:19:40	]Fikret Saric entered observer.
+[19:19:41	]Fikret Saric exited observer at their location.
+[19:19:46	]Fikret Saric has spawned 'models/props_junk/garbage256_composite002b.mdl'.
+[19:19:48	]Fikret Saric has spawned 'models/props_junk/garbage256_composite001b.mdl'.
+[19:19:55	]Fikret Saric has spawned 'models/props_junk/garbage128_composite001a.mdl'.
+[19:19:58	]Fikret Saric has enabled persistence for 'models/props_junk/garbage128_composite001a.mdl'.
+[19:19:58	]Fikret Saric has used a context menu option with the name: persist
+[19:20:03	]Fikret Saric entered observer.
+[19:20:08	]Fikret Saric has spawned 'models/props_junk/garbage128_composite001c.mdl'.
+[19:20:12	]Fikret Saric exited observer at their location.
+[19:20:29	]Fikret Saric entered observer.
+[19:20:32	]Fikret Saric exited observer at their location.
+[19:20:34	]Fikret Saric entered observer.
+[19:20:35	]Fikret Saric exited observer at their location.
+[19:20:37	]Fikret Saric entered observer.
+[19:20:38	]Fikret Saric exited observer at their location.
+[19:20:39	]Fikret Saric entered observer.
+[19:20:39	]Fikret Saric exited observer at their location.
+[19:20:40	]Fikret Saric entered observer.
+[19:20:40	]Fikret Saric exited observer at their location.
+[19:20:42	]Fikret Saric has taken 33 damage from worldspawn.
+[19:20:43	]Fikret Saric entered observer.
+[19:20:43	]Fikret Saric exited observer at their location.
+[19:20:45	]Fikret Saric has taken 0 damage from worldspawn.
+[19:20:45	]Fikret Saric entered observer.
+[19:20:46	]Fikret Saric exited observer at their location.
+[19:20:47	]Fikret Saric entered observer.
+[19:20:47	]Fikret Saric exited observer at their location.
+[19:20:49	]Fikret Saric entered observer.
+[19:20:49	]Fikret Saric exited observer at their location.
+[19:20:50	]Fikret Saric has taken 38 damage from worldspawn.
+[19:20:50	]Fikret Saric entered observer.
+[19:20:51	]Fikret Saric exited observer at their location.
+[19:20:51	]Fikret Saric entered observer.
+[19:20:52	]Fikret Saric exited observer at their location.
+[19:21:05	]Fikret Saric ran SAM command 'hp' with arguments: 'fikret' '100'
+[19:21:06	]Fikret Saric entered observer.
+[19:21:07	]Fikret Saric exited observer at their location.
+[19:21:09	]Fikret Saric is fully healed.
+[19:21:13	]Fikret Saric ran 'Write' on item 'Gazetelere Dikkat!' (#20829)
+[19:21:39	]Fikret Saric entered observer.
+[19:21:40	]Fikret Saric exited observer at their location.
+[19:21:42	]Fikret Saric entered observer.
+[19:21:43	]Fikret Saric exited observer at their location.
+[19:21:46	]Fikret Saric entered observer.
+[19:21:47	]Fikret Saric exited observer at their location.
+[19:21:53	]Fikret Saric entered observer.
+[19:21:56	]Fikret Saric exited observer at their location.
+[19:22:06	]Fikret Saric has spawned 'models/props_lab/huladoll.mdl'.
+[19:22:22	]Fikret Saric entered observer.
+[19:22:31	]Fikret Saric has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[19:22:33	]Fikret Saric has used a context menu option with the name: ignite
+[19:23:16	]Fikret Saric has spawned 'models/props_wasteland/dockplank01b.mdl'.
+[19:23:55	]Fikret Saric has spawned 'models/props_lab/chess.mdl'.
+[19:24:01	]Fikret Saric has spawned 'models/props_lab/corkboard001.mdl'.
+[19:24:02	]Fikret Saric exited observer at their location.
+[19:24:12	]Fikret Saric entered observer.
+[19:24:13	]Fikret Saric exited observer at their location.
+[19:24:16	]Fikret Saric has used a context menu option with the name: remove
+[19:24:18	]Fikret Saric has spawned 'models/props_lab/desklamp01.mdl'.
+[19:24:32	]Fikret Saric has enabled persistence for 'models/props_lab/desklamp01.mdl'.
+[19:24:32	]Fikret Saric has used a context menu option with the name: persist
+[19:24:32	]Fikret Saric entered observer.
+[19:24:33	]Fikret Saric exited observer at their location.
+[19:24:35	]Fikret Saric entered observer.
+[19:24:36	]Fikret Saric exited observer at their location.
+[19:24:49	]Fikret Saric entered observer.
+[19:24:50	]Fikret Saric exited observer at their location.
+[19:24:52	]Fikret Saric entered observer.
+[19:24:53	]Fikret Saric exited observer at their location.
+[19:25:01	]Fikret Saric entered observer.
+[19:25:03	]Fikret Saric exited observer at their location.
+[19:25:04	]Fikret Saric entered observer.
+[19:25:04	]Fikret Saric exited observer at their location.
+[19:25:06	]Fikret Saric has spawned 'models/willardnetworks/posters/wn_poster_4.mdl'.
+[19:25:08	]Fikret Saric has spawned 'models/willardnetworks/posters/wn_poster_2.mdl'.
+[19:25:16	]Fikret Saric has used a context menu option with the name: skin
+[19:25:19	]Fikret Saric has used a context menu option with the name: skin
+[19:25:22	]Fikret Saric has used a context menu option with the name: skin
+[19:25:24	]Fikret Saric has used a context menu option with the name: skin
+[19:25:26	]Fikret Saric has used a context menu option with the name: skin
+[19:25:28	]Fikret Saric has used a context menu option with the name: skin
+[19:25:32	]Fikret Saric has used a context menu option with the name: skin
+[19:25:35	]Fikret Saric has used a context menu option with the name: skin
+[19:25:38	]Fikret Saric has used a context menu option with the name: skin
+[19:25:41	]Fikret Saric has used a context menu option with the name: skin
+[19:25:45	]Fikret Saric has used a context menu option with the name: skin
+[19:25:47	]Fikret Saric has used a context menu option with the name: skin
+[19:25:49	]Fikret Saric entered observer.
+[19:25:54	]Fikret Saric has used a context menu option with the name: skin
+[19:25:58	]Fikret Saric has used a context menu option with the name: skin
+[19:29:18	]Fikret Saric exited observer at their location.
+[19:29:21	]Fikret Saric entered observer.
+[19:29:21	]Fikret Saric exited observer at their location.
+[19:29:22	]Fikret Saric entered observer.
+[19:29:23	]Fikret Saric exited observer at their location.
+[19:29:28	]Fikret Saric has used a context menu option with the name: skin
+[19:29:29	]Fikret Saric has used a context menu option with the name: skin
+[19:29:35	]Fikret Saric has used a context menu option with the name: skin
+[19:29:37	]Fikret Saric has used a context menu option with the name: skin
+[19:29:41	]Fikret Saric has used a context menu option with the name: skin
+[19:29:44	]Fikret Saric has used a context menu option with the name: skin
+[19:29:47	]Fikret Saric has used a context menu option with the name: skin
+[19:29:51	]Fikret Saric has used a context menu option with the name: skin
+[19:29:53	]Fikret Saric has used a context menu option with the name: skin
+[19:29:59	]Fikret Saric has used a context menu option with the name: skin
+[19:30:01	]Fikret Saric has used a context menu option with the name: skin
+[19:30:03	]Fikret Saric has used a context menu option with the name: skin
+[19:30:05	]Fikret Saric has used a context menu option with the name: skin
+[19:30:09	]Fikret Saric has used a context menu option with the name: skin
+[19:30:12	]Fikret Saric has used a context menu option with the name: skin
+[19:30:15	]Fikret Saric has used a context menu option with the name: skin
+[19:31:54	]Fikret Saric has used a context menu option with the name: skin
+[19:31:56	]Fikret Saric has used a context menu option with the name: skin
+[19:31:59	]Fikret Saric has used a context menu option with the name: skin
+[19:32:04	]Fikret Saric has used a context menu option with the name: skin
+[19:32:07	]Fikret Saric has used a context menu option with the name: skin
+[19:32:10	]Fikret Saric has used a context menu option with the name: skin
+[19:32:13	]Fikret Saric has used a context menu option with the name: skin
+[19:32:16	]Fikret Saric has used a context menu option with the name: skin
+[19:32:19	]Fikret Saric has used a context menu option with the name: skin
+[19:32:22	]Fikret Saric has used a context menu option with the name: skin
+[19:32:25	]Fikret Saric has used a context menu option with the name: skin
+[19:32:27	]Fikret Saric has used a context menu option with the name: skin
+[19:32:30	]Fikret Saric has used a context menu option with the name: skin
+[19:32:38	]Fikret Saric has used a context menu option with the name: skin
+[19:32:41	]Fikret Saric has used a context menu option with the name: skin
+[19:32:43	]Fikret Saric has used a context menu option with the name: skin
+[19:32:45	]Fikret Saric has used a context menu option with the name: skin
+[19:32:47	]Fikret Saric has used a context menu option with the name: skin
+[19:32:48	]Fikret Saric entered observer.
+[19:32:50	]Fikret Saric exited observer at their location.
+[19:32:52	]Fikret Saric entered observer.
+[19:32:52	]Fikret Saric exited observer at their location.
+[19:32:59	]Fikret Saric has spawned 'models/willardnetworks/posters/wn_poster_4.mdl'.
+[19:33:02	]Fikret Saric has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[19:33:07	]Fikret Saric has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[19:33:12	]Fikret Saric has spawned 'models/willardnetworks/posters/wn_poster_2.mdl'.
+[19:33:18	]Fikret Saric has used a context menu option with the name: skin
+[19:33:20	]Fikret Saric has used a context menu option with the name: skin
+[19:33:22	]Fikret Saric has used a context menu option with the name: skin
+[19:33:25	]Fikret Saric has used a context menu option with the name: skin
+[19:33:28	]Fikret Saric has used a context menu option with the name: skin
+[19:33:30	]Fikret Saric has used a context menu option with the name: skin
+[19:33:33	]Fikret Saric has used a context menu option with the name: skin
+[19:33:38	]Fikret Saric has used a context menu option with the name: skin
+[19:33:41	]Fikret Saric has used a context menu option with the name: skin
+[19:33:44	]Fikret Saric has used a context menu option with the name: skin
+[19:33:48	]Fikret Saric has used a context menu option with the name: skin
+[19:33:50	]Fikret Saric has used a context menu option with the name: skin
+[19:33:53	]Fikret Saric has used a context menu option with the name: skin
+[19:33:56	]Fikret Saric has used a context menu option with the name: skin
+[19:33:59	]Fikret Saric has used a context menu option with the name: skin
+[19:34:03	]Fikret Saric has used a context menu option with the name: skin
+[19:34:06	]Fikret Saric has used a context menu option with the name: skin
+[19:34:14	]Fikret Saric has enabled persistence for 'models/willardnetworks/posters/wn_poster_2.mdl'.
+[19:34:14	]Fikret Saric has used a context menu option with the name: persist
+[19:34:15	]Fikret Saric has enabled persistence for 'models/willardnetworks/posters/wn_poster_2.mdl'.
+[19:34:15	]Fikret Saric has used a context menu option with the name: persist
+[19:34:17	]Fikret Saric entered observer.
+[19:34:20	]Fikret Saric exited observer at their location.
+[19:34:22	]Fikret Saric entered observer.
+[19:34:44	]Fikret Saric has spawned 'models/props_lab/filecabinet02.mdl'.
+[19:34:49	]Fikret Saric created a 'File Cabinet' container.
+[19:34:49	]Fikret Saric has used a context menu option with the name: wncontainer_create
+[19:34:53	]Fikret Saric has used a context menu option with the name: wncontainer_checkowner
+[19:35:00	]Fikret Saric has set the 'File Cabinet' container (#2849) to private, owned by 'character[486]'.
+[19:35:00	]Fikret Saric has used a context menu option with the name: wncontainer_setprivate
+[19:35:08	]Fikret Saric has set the password of the 'File Cabinet' container (#2849).
+[19:35:08	]Fikret Saric has used a context menu option with the name: wncontainer_setpassword
+[19:35:26	]Fikret Saric has set the name of the 'File Cabinet' container (#2849) to 'Gazete ve Propaganda'.
+[19:35:26	]Fikret Saric has used a context menu option with the name: wncontainer_setname
+[19:35:30	]Fikret Saric exited observer at their location.
+[19:35:50	]Fikret Saric entered observer.
+[19:36:00	]Fikret Saric has spawned 'models/props_wasteland/light_spotlight01_lamp.mdl'.
+[19:36:11	]Fikret Saric has spawned 'models/props_wasteland/controlroom_chair001a.mdl'.
+[19:36:38	]Fikret Saric exited observer at their location.
+[19:36:42	]Fikret Saric entered observer.
+[19:36:43	]Fikret Saric exited observer at their location.
+[19:36:45	]Fikret Saric has spawned 'models/props_interiors/Radiator01a.mdl'.
+[19:37:00	]Fikret Saric entered observer.
+[19:37:05	]Fikret Saric exited observer at their location.
+[19:37:06	]Fikret Saric entered observer.
+[19:37:20	]Fikret Saric exited observer at their location.
+[19:37:22	]Fikret Saric entered observer.
+[19:37:46	]Fikret Saric exited observer at their location.
+[19:37:54	]Fikret Saric entered observer.
+[19:37:55	]Fikret Saric exited observer at their location.
+[19:37:57	]Fikret Saric entered observer.
+[19:37:59	]Fikret Saric exited observer at their location.
+[19:38:05	]Fikret Saric entered observer.
+[19:38:08	]Fikret Saric has spawned 'models/props_junk/metalgascan.mdl'.
+[19:38:13	]Fikret Saric has spawned 'models/props_lab/plotter.mdl'.
+[19:38:27	]Fikret Saric has spawned 'models/props_lab/reciever01b.mdl'.
+[19:38:52	]Fikret Saric exited observer at their location.
+[19:38:53	]Fikret Saric entered observer.
+[19:38:56	]Fikret Saric exited observer at their location.
+[19:38:56	]Fikret Saric entered observer.
+[19:38:57	]Fikret Saric exited observer at their location.
+[19:38:58	]Fikret Saric entered observer.
+[19:38:58	]Fikret Saric exited observer at their location.
+[19:39:27	]Fikret Saric entered observer.
+[19:39:28	]Fikret Saric exited observer at their location.
+[19:39:29	]Fikret Saric entered observer.
+[19:39:30	]Fikret Saric exited observer at their location.
+[19:39:30	]Fikret Saric entered observer.
+[19:39:31	]Fikret Saric exited observer at their location.
+[19:39:32	]Fikret Saric entered observer.
+[19:39:33	]Fikret Saric exited observer at their location.
+[19:39:35	]Fikret Saric entered observer.
+[19:42:15	]Fikret Saric exited observer at their location.
+[19:42:15	]Fikret Saric entered observer.
+[19:42:16	]Fikret Saric exited observer at their location.
+[19:42:17	]Fikret Saric entered observer.
+[19:42:19	]Fikret Saric exited observer at their location.
+[19:42:19	]Fikret Saric entered observer.
+[19:42:19	]Fikret Saric exited observer at their location.
+[19:43:15	]Fikret Saric entered observer.
+[19:43:16	]Fikret Saric exited observer at their location.
+[19:43:17	]Fikret Saric entered observer.
+[19:43:37	]Fikret Saric exited observer at their location.
+[19:43:38	]Fikret Saric entered observer.
+[19:43:40	]Fikret Saric exited observer at their location.
+[19:43:41	]Fikret Saric entered observer.
+[19:43:42	]Fikret Saric exited observer at their location.
+[19:44:41	]Fikret Saric entered observer.
+[19:44:55	]Fikret Saric exited observer at their location.
+[19:44:56	]Fikret Saric entered observer.
+[19:45:09	]Fikret Saric exited observer at their location.
+[19:45:11	]Fikret Saric entered observer.
+[19:45:11	]Fikret Saric exited observer at their location.
+[19:45:12	]Fikret Saric entered observer.
+[19:45:12	]Fikret Saric exited observer at their location.
+[19:45:14	]Fikret Saric entered observer.
+[19:45:21	]Fikret Saric has acquired his ration, gaining 0 credits, 50 wages and a trueloyal_ration ration.
+[19:45:34	]Fikret Saric ran 'take' on item 'Gerçek Loyalist Rasyonu' (#20862)
+[19:45:34	]Fikret Saric has gained a 'Gerçek Loyalist Rasyonu' #20862.
+[19:45:37	]Fikret Saric ran 'Open' on item 'Gerçek Loyalist Rasyonu' (#20862)
+[19:45:37	]Fikret Saric has gained a 'Evrensel Birlik Çikolatası' #20863.
+[19:45:37	]Fikret Saric has gained a 'Somon Biftek' #20864.
+[19:45:37	]Fikret Saric has gained a 'Köpüklü Breen Suyu' #20865.
+[19:45:37	]Fikret Saric has gained a '20 Kredi Kuponu' #20866.
+[19:45:40	]Fikret Saric exited observer at their location.
+[19:46:21	]Fikret Saric entered observer.
+[19:46:23	]Fikret Saric exited observer at their location.
+[19:46:24	]Fikret Saric entered observer.
+[19:46:24	]Fikret Saric exited observer at their location.
+[19:47:38	]Victorian (STEAM_0:0:577700614) has disconnected.
