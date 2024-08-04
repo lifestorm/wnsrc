@@ -1,0 +1,1068 @@
+[21:46:12	]Lorf has connected.
+[21:49:43	]Lorf loaded the character 'marta'
+[21:50:01	]marta entered observer.
+[21:50:01	]marta exited observer at their location.
+[21:50:55	]marta has given himself a paper.
+[21:50:56	]marta has gained a 'Paper' #3860.
+[21:52:27	]marta entered observer.
+[21:52:32	]marta exited observer at their location.
+[21:52:36	]marta entered observer.
+[21:52:39	]marta exited observer at their location.
+[21:53:48	]marta has given himself a largebag.
+[21:53:48	]marta has gained a 'Large Bag' #3861.
+[21:53:58	]marta ran 'drop' on item 'OTA Charger Uniform' (#3843)
+[21:53:58	]marta has lost a 'OTA Charger Uniform' #3843.
+[21:53:59	]marta ran 'drop' on item 'Containment Uniform' (#3842)
+[21:53:59	]marta has lost a 'Containment Uniform' #3842.
+[21:54:01	]marta ran 'drop' on item 'Auxiliary Unit Uniform' (#3840)
+[21:54:01	]marta has lost a 'Auxiliary Unit Uniform' #3840.
+[21:54:04	]marta ran 'drop' on item 'CP Command Uniform' (#3847)
+[21:54:04	]marta has lost a 'CP Command Uniform' #3847.
+[21:54:09	]marta ran 'EquipUn' on item 'LFC Armband' (#3634)
+[21:54:29	]marta ran 'drop' on item 'Large Bag' (#3861)
+[21:54:29	]marta has lost a 'Large Bag' #3861.
+[21:54:29	]marta has lost a 'Paper' #3860.
+[21:54:29	]marta has lost a 'LFC Armband' #3634.
+[21:54:29	]marta has lost a 'Charcoal Filter Refill' #3641.
+[21:54:29	]marta has lost a 'Small Trash Bin' #3551.
+[21:54:29	]marta has lost a 'OTA Mask' #3844.
+[21:54:29	]marta has lost a 'Small Trash Bin' #3545.
+[21:54:29	]marta has lost a 'Gas Mask' #3642.
+[21:54:29	]marta has lost a 'Broadcasting Device' #3639.
+[21:54:29	]marta has lost a 'Large Metal Desk' #3546.
+[21:54:29	]marta has lost a 'Auxiliary CP Mask' #3839.
+[21:54:29	]marta has lost a 'Small Trash Bin' #3547.
+[21:54:29	]marta has lost a 'Combine Lock Breacher' #3171.
+[21:54:29	]marta has lost a 'Wireless Microphone' #3638.
+[21:54:29	]marta has lost a 'Newspaper' #3359.
+[21:54:29	]marta has lost a 'Combine Filter' #3635.
+[21:54:44	]marta destroyed a 'Containment Uniform' #3842.
+[21:54:44	]marta destroyed a 'CP Command Uniform' #3847.
+[21:54:45	]marta destroyed a 'OTA Charger Uniform' #3843.
+[21:54:46	]marta destroyed a 'Large Bag' #3861.
+[21:54:47	]marta destroyed a 'Auxiliary Unit Uniform' #3840.
+[21:55:44	]marta has given himself a tacticalrifle.
+[21:55:44	]marta has gained a 'OSITR' #3862.
+[21:55:47	]marta ran 'Equip' on item 'OSITR' (#3862)
+[21:56:07	]marta has given himself a magazine_otar_60rnd.
+[21:56:07	]marta has gained a '60rnd OTAR-magazine' #3863.
+[21:56:12	]marta has given himself a ar2ammo.
+[21:56:12	]marta has gained a 'Pulse-Rifle Energy' #3864.
+[21:56:14	]marta ran 'use' on item 'Pulse-Rifle Energy' (#3864)
+[21:56:27	]marta has given himself a assaultammo.
+[21:56:27	]marta has gained a 'Assault Rifle Ammo' #3865.
+[21:56:29	]marta ran 'use' on item 'Assault Rifle Ammo' (#3865)
+[21:56:58	]marta has given himself a bullets_pulse.
+[21:56:58	]marta has gained a 'Pulse Rifle Bullets' #3866.
+[21:56:59	]marta has given himself a bullets_dmr.
+[21:56:59	]marta has gained a 'Rifle Bullets' #3867.
+[21:57:13	]marta has given himself a bullets_assaultrifle.
+[21:57:13	]marta has gained a 'Assault Rifle Bullets' #3868.
+[21:57:17	]marta ran 'combine' on item '60rnd OTAR-magazine' (#3863)
+[21:57:18	]marta has lost a '60rnd OTAR-magazine' #3863.
+[21:57:44	]marta has given himself a bullets_assaultrifle.
+[21:57:44	]marta has gained a 'Assault Rifle Bullets' #3869.
+[21:57:50	]marta ran 'removeMag' on item 'OSITR' (#3862)
+[21:57:50	]marta has gained a '60rnd OTAR-magazine' #3863.
+[21:57:53	]marta ran 'combine' on item '60rnd OTAR-magazine' (#3863)
+[21:57:54	]marta has lost a '60rnd OTAR-magazine' #3863.
+[21:57:57	]marta ran 'EquipUn' on item 'OSITR' (#3862)
+[21:57:57	]marta has gained a '60rnd OTAR-magazine' #3863.
+[21:57:58	]marta ran 'drop' on item 'OSITR' (#3862)
+[21:57:58	]marta has lost a 'OSITR' #3862.
+[21:58:11	]marta has given himself a suppressionrifle.
+[21:58:11	]marta has gained a 'OSPR2A-EXP' #3870.
+[21:58:13	]marta ran 'Equip' on item 'OSPR2A-EXP' (#3870)
+[21:58:32	]marta has given himself a magazine_ospr_24rnd.
+[21:58:32	]marta has gained a '24rnd Heavy-Pulse Magazine' #3871.
+[21:58:40	]marta has given himself a bullets_heavypulse.
+[21:58:40	]marta has gained a 'Heavy Pulse Rounds' #3872.
+[21:58:41	]marta has given himself a bullets_heavypulse.
+[21:58:41	]marta has gained a 'Heavy Pulse Rounds' #3873.
+[21:58:43	]marta ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#3871)
+[21:58:46	]marta has lost a '24rnd Heavy-Pulse Magazine' #3871.
+[21:58:56	]marta entered observer.
+[21:59:06	]marta exited observer at their location.
+[21:59:10	]marta ran 'drop' on item 'QRF Mask' (#3846)
+[21:59:10	]marta has lost a 'QRF Mask' #3846.
+[21:59:11	]marta ran 'drop' on item 'QRF Uniform' (#3845)
+[21:59:11	]marta has lost a 'QRF Uniform' #3845.
+[21:59:16	]marta ran 'drop' on item 'OSPR2A-EXP' (#3870)
+[21:59:16	]marta has lost a 'OSPR2A-EXP' #3870.
+[21:59:20	]marta ran 'take' on item 'OSPR2A-EXP' (#3870)
+[21:59:20	]marta has gained a 'OSPR2A-EXP' #3870.
+[21:59:22	]marta ran 'Equip' on item 'OSPR2A-EXP' (#3870)
+[21:59:27	]marta destroyed a 'QRF Uniform' #3845.
+[21:59:27	]marta destroyed a 'QRF Mask' #3846.
+[21:59:28	]marta destroyed a 'OSITR' #3862.
+[22:00:55	]marta ran 'drop' on item 'OSPR2A-EXP' (#3870)
+[22:00:55	]marta has lost a 'OSPR2A-EXP' #3870.
+[22:00:58	]marta has given himself a famas.
+[22:00:58	]marta has gained a 'FAMAS' #3874.
+[22:01:07	]marta ran 'Equip' on item 'FAMAS' (#3874)
+[22:01:15	]marta has given himself a riotshield.
+[22:01:17	]marta ran 'drop' on item 'FAMAS' (#3874)
+[22:01:17	]marta has lost a 'FAMAS' #3874.
+[22:01:19	]marta has given himself a riotshield.
+[22:01:24	]marta ran 'drop' on item '60rnd OTAR-magazine' (#3863)
+[22:01:24	]marta has lost a '60rnd OTAR-magazine' #3863.
+[22:01:25	]marta ran 'drop' on item 'Heavy Pulse Rounds' (#3872)
+[22:01:25	]marta has lost a 'Heavy Pulse Rounds' #3872.
+[22:01:26	]marta ran 'drop' on item 'Rifle Bullets' (#3867)
+[22:01:26	]marta has lost a 'Rifle Bullets' #3867.
+[22:01:26	]marta ran 'drop' on item 'Pulse Rifle Bullets' (#3866)
+[22:01:26	]marta has lost a 'Pulse Rifle Bullets' #3866.
+[22:01:29	]marta has given himself a riotshield.
+[22:01:29	]marta has gained a 'Riot Shield' #3875.
+[22:01:34	]marta ran 'Equip' on item 'Riot Shield' (#3875)
+[22:01:37	]marta ran 'Equip' on item 'Riot Shield' (#3875)
+[22:01:38	]marta ran 'Equip' on item 'Riot Shield' (#3875)
+[22:01:41	]marta ran 'Equip' on item 'Riot Shield' (#3875)
+[22:01:42	]marta ran 'drop' on item 'Riot Shield' (#3875)
+[22:01:42	]marta has lost a 'Riot Shield' #3875.
+[22:01:44	]marta ran 'take' on item 'Riot Shield' (#3875)
+[22:01:44	]marta has gained a 'Riot Shield' #3875.
+[22:01:45	]marta ran 'Equip' on item 'Riot Shield' (#3875)
+[22:03:03	]Lorf has unloaded their "marta" character.
+[22:03:16	]Lorf created the character 'C17:RCT.YELLO-50'
+[22:03:16	]Lorf has gained level 30 in the Broń palna skill.
+[22:03:16	]Lorf has gained level 30 in the Prędkość skill.
+[22:03:16	]Lorf loaded the character 'C17:RCT.YELLO-50'
+[22:03:16	]C17:RCT.YELLO-50 has gained a '#05635's Identity Card' #3876.
+[22:03:16	]C17:RCT.YELLO-50 has gained a 'Combine PDA' #3877.
+[22:03:16	]C17:RCT.YELLO-50 has gained a 'CP Uniform' #3878.
+[22:03:16	]C17:RCT.YELLO-50 has gained a 'CP Mask' #3879.
+[22:03:16	]C17:RCT.YELLO-50 has gained a 'Handheld Radio' #3880.
+[22:03:16	]C17:RCT.YELLO-50 has gained a 'Small Bag' #3881.
+[22:03:16	]C17:RCT.YELLO-50 has gained a 'Large Bag' #3882.
+[22:03:31	]C17:RCT.YELLO-50 has given himself a stunstick.
+[22:03:31	]C17:RCT.YELLO-50 has gained a 'Stunstick' #3883.
+[22:03:32	]C17:RCT.YELLO-50 has given himself a riotshield.
+[22:03:32	]C17:RCT.YELLO-50 has gained a 'Riot Shield' #3884.
+[22:03:35	]C17:RCT.YELLO-50 ran 'Equip' on item 'Stunstick' (#3883)
+[22:03:44	]C17:RCT.YELLO-50 has given himself a riotshield.
+[22:03:44	]C17:RCT.YELLO-50 has gained a 'Riot Shield' #3885.
+[22:03:46	]C17:RCT.YELLO-50 ran 'Equip' on item 'Riot Shield' (#3885)
+[22:03:49	]C17:RCT.YELLO-50 ran 'EquipUn' on item 'Stunstick' (#3883)
+[22:03:50	]C17:RCT.YELLO-50 ran 'Equip' on item 'Riot Shield' (#3885)
+[22:03:59	]C17:RCT.YELLO-50 ran 'Equip' on item 'Riot Shield' (#3885)
+[22:05:18	]C17:RCT.YELLO-50 has spawned 'models/weapons/tfa_mw2cr/riotshield/w_riotshield.mdl'.
+[22:05:22	]C17:RCT.YELLO-50 ran 'Equip' on item 'Riot Shield' (#3885)
+[22:05:23	]C17:RCT.YELLO-50 ran 'Equip' on item 'Riot Shield' (#3885)
+[22:05:35	]C17:RCT.YELLO-50 has given himself a smoke_grenade.
+[22:05:35	]C17:RCT.YELLO-50 has gained a 'Smoke Grenade' #3886.
+[22:05:38	]C17:RCT.YELLO-50 ran 'Equip' on item 'Smoke Grenade' (#3886)
+[22:05:51	]C17:RCT.YELLO-50 has given himself a decoy_grenade.
+[22:05:51	]C17:RCT.YELLO-50 has gained a 'Decoy Grenade' #3887.
+[22:05:53	]C17:RCT.YELLO-50 ran 'Equip' on item 'Decoy Grenade' (#3887)
+[22:06:03	]C17:RCT.YELLO-50 has given himself a flash_grenade.
+[22:06:03	]C17:RCT.YELLO-50 has gained a 'Flash Grenade' #3888.
+[22:06:11	]C17:RCT.YELLO-50 has taken 0 damage from C17:RCT.YELLO-50.
+[22:06:17	]C17:RCT.YELLO-50 ran 'Equip' on item 'Flash Grenade' (#3888)
+[22:07:27	]C17:RCT.YELLO-50 destroyed a 'Seksior' #3781.
+[22:09:01	]C17:RCT.YELLO-50 has spawned a 'NPC [500][npc_antlionguard]'.
+[22:09:01	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:01	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:02	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:03	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:03	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:03	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:03	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:03	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:03	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:04	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:04	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:04	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:04	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:04	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:04	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:04	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:04	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:04	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:04	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:05	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:05	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:05	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:05	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:05	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:05	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:05	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:06	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:06	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:06	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:06	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:06	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:06	]C17:RCT.YELLO-50 entered observer.
+[22:09:07	]C17:RCT.YELLO-50 exited observer at their location.
+[22:09:08	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:08	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:08	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:08	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:08	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:08	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:08	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:08	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:08	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:08	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:08	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:08	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:08	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:09	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:09	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:09	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:09	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:09	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:09	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:09	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:09	]C17:RCT.YELLO-50 has taken 20 damage from npc_antlionguard.
+[22:09:09	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:09	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:09	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:09	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:09	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:09	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:11	]C17:RCT.YELLO-50 entered observer.
+[22:09:11	]C17:RCT.YELLO-50 exited observer at their location.
+[22:09:13	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:13	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:13	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:13	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:13	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:13	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:14	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:14	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:14	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:14	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:14	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:14	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:14	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:16	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:16	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:16	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:16	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:16	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:17	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:17	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:17	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:17	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:17	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:17	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:17	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:17	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:17	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:17	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:17	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:17	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:18	]C17:RCT.YELLO-50 has taken 10 damage from npc_antlionguard.
+[22:09:18	]C17:RCT.YELLO-50 has taken 10 damage from npc_antlionguard.
+[22:09:19	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:19	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:19	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:19	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:20	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:20	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:20	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:20	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:20	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:20	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:20	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:21	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:21	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:21	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:21	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:21	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:21	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:22	]C17:RCT.YELLO-50 entered observer.
+[22:09:23	]C17:RCT.YELLO-50 exited observer at their location.
+[22:09:23	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:23	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:23	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:23	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:28	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:28	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:28	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:28	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:29	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:29	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:29	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:29	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:29	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:29	]C17:RCT.YELLO-50 has taken 20 damage from npc_antlionguard.
+[22:09:29	]C17:RCT.YELLO-50 entered observer.
+[22:09:30	]C17:RCT.YELLO-50 exited observer at their location.
+[22:09:33	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:33	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:33	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:33	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:33	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:33	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:33	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:33	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:33	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:33	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:33	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:33	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:33	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:34	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:34	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:34	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:34	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:34	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:34	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:34	]C17:RCT.YELLO-50 has taken 20 damage from npc_antlionguard.
+[22:09:35	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:35	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:35	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:35	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:36	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:36	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:36	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:36	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:36	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:36	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:36	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:36	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:36	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:36	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:36	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:36	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:36	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:38	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:38	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:38	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:38	]C17:RCT.YELLO-50 has hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:38	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:38	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:42	]C17:RCT.YELLO-50 has taken 20 damage from npc_antlionguard.
+[22:09:44	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:44	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:44	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:44	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:45	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:45	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:45	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:45	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:45	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:45	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:46	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:46	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:46	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:46	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:46	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:46	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:46	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:46	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:46	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:46	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:46	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:46	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:46	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:46	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:47	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:47	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:47	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:47	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:47	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:47	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:47	]C17:RCT.YELLO-50 has taken 10 damage from npc_antlionguard.
+[22:09:47	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.84).
+[22:09:47	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:47	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:09:47	]C17:RCT.YELLO-50 has critically hit npc_antlionguard dealing 3 damage (CritChance was 0.84).
+[22:10:26	]C17:RCT.YELLO-50 has given himself a tool_knife.
+[22:10:26	]C17:RCT.YELLO-50 has gained a 'Kitchen Knife' #3889.
+[22:10:50	]C17:RCT.YELLO-50 has given himself a tool_toolkit.
+[22:10:50	]C17:RCT.YELLO-50 has gained a 'Toolkit' #3890.
+[22:10:51	]C17:RCT.YELLO-50 has given himself a tool_spoon.
+[22:10:51	]C17:RCT.YELLO-50 has gained a 'Kitchen Spoon' #3891.
+[22:10:52	]C17:RCT.YELLO-50 has given himself a tool_scissors.
+[22:10:52	]C17:RCT.YELLO-50 has gained a 'Scissors' #3892.
+[22:11:06	]C17:RCT.YELLO-50 has given himself a fireaxe.
+[22:11:06	]C17:RCT.YELLO-50 has gained a 'Fire Axe' #3893.
+[22:11:14	]C17:RCT.YELLO-50 has given himself a fireaxe.
+[22:11:14	]C17:RCT.YELLO-50 has gained a 'Fire Axe' #3894.
+[22:11:16	]C17:RCT.YELLO-50 has given himself a hatchet.
+[22:11:16	]C17:RCT.YELLO-50 has gained a 'Hatchet' #3895.
+[22:11:18	]C17:RCT.YELLO-50 ran 'Equip' on item 'Hatchet' (#3895)
+[22:11:22	]C17:RCT.YELLO-50 has gained a 'Raw Antlion Meat' #3896.
+[22:11:23	]C17:RCT.YELLO-50 has gained a 'Raw Antlion Meat' #3897.
+[22:11:24	]C17:RCT.YELLO-50 has gained a 'Raw Antlion Meat' #3898.
+[22:11:27	]C17:RCT.YELLO-50 has gained a 'Raw Antlion Meat' #3899.
+[22:11:28	]C17:RCT.YELLO-50 has gained a 'Raw Antlion Meat' #3900.
+[22:11:29	]C17:RCT.YELLO-50 has gained a 'Raw Antlion Meat' #3901.
+[22:11:30	]C17:RCT.YELLO-50 has gained a 'Raw Antlion Meat' #3902.
+[22:11:31	]C17:RCT.YELLO-50 has gained a 'Raw Antlion Meat' #3903.
+[22:11:32	]C17:RCT.YELLO-50 has gained a 'Raw Antlion Meat' #3904.
+[22:11:33	]C17:RCT.YELLO-50 has gained a 'Raw Antlion Meat' #3905.
+[22:11:46	]C17:RCT.YELLO-50 ran 'Consume' on item 'Raw Antlion Meat' (#3900)
+[22:11:47	]C17:RCT.YELLO-50 ran 'Consume' on item 'Raw Antlion Meat' (#3900)
+[22:11:48	]C17:RCT.YELLO-50 ran 'Consume' on item 'Raw Antlion Meat' (#3896)
+[22:12:12	]C17:RCT.YELLO-50 has spawned a 'NPC [502][npc_zombie]'.
+[22:12:14	]C17:RCT.YELLO-50 has critically hit npc_zombie dealing 60 damage (CritChance was 0.80).
+[22:12:22	]C17:RCT.YELLO-50 has spawned a 'NPC [502][npc_fastzombie]'.
+[22:12:24	]C17:RCT.YELLO-50 has taken 3 damage from npc_fastzombie.
+[22:12:24	]C17:RCT.YELLO-50 has taken 3 damage from npc_fastzombie.
+[22:12:24	]C17:RCT.YELLO-50 has critically hit npc_fastzombie dealing 60 damage (CritChance was 0.80).
+[22:12:29	]C17:RCT.YELLO-50 has spawned a 'Entity [502][npc_antlion_burrowed]'.
+[22:12:31	]C17:RCT.YELLO-50 has taken 5 damage from npc_antlion.
+[22:12:32	]C17:RCT.YELLO-50 has hit npc_antlion dealing 48 damage (CritChance was 0.80).
+[22:12:34	]C17:RCT.YELLO-50 has gained a 'Raw Antlion Meat' #3906.
+[22:12:36	]C17:RCT.YELLO-50 has spawned a 'Entity [502][npc_zombie_slump]'.
+[22:12:46	]C17:RCT.YELLO-50 has critically hit npc_zombie dealing 60 damage (CritChance was 0.80).
+[22:12:53	]C17:RCT.YELLO-50 has spawned a 'Entity [502][npc_antlionguard_burrowed]'.
+[22:12:55	]C17:RCT.YELLO-50 has spawned a 'Entity [502][npc_antlion_burrowed]'.
+[22:12:58	]C17:RCT.YELLO-50 has spawned a 'Entity [502][npc_antlion_burrowed]'.
+[22:13:00	]C17:RCT.YELLO-50 has spawned a 'Entity [507][npc_antlion_burrowed]'.
+[22:13:02	]C17:RCT.YELLO-50 has spawned a 'Entity [502][npc_antlion_burrowed]'.
+[22:13:03	]C17:RCT.YELLO-50 entered observer.
+[22:13:07	]C17:RCT.YELLO-50 has spawned a 'Entity [502][npc_antlion_burrowed]'.
+[22:13:09	]C17:RCT.YELLO-50 has spawned a 'Entity [507][npc_antlion_burrowed]'.
+[22:13:19	]C17:RCT.YELLO-50 has spawned a 'Entity [502][npc_antlionworker_burrowed]'.
+[22:13:22	]C17:RCT.YELLO-50 has critically hit npc_antlion dealing 24 damage (CritChance was 0.80).
+[22:13:24	]C17:RCT.YELLO-50 has spawned a 'Entity [507][npc_antlionworker_burrowed]'.
+[22:13:25	]C17:RCT.YELLO-50 exited observer at their location.
+[22:13:40	]C17:RCT.YELLO-50 has critically hit npc_antlion dealing 24 damage (CritChance was 0.80).
+[22:13:41	]C17:RCT.YELLO-50 has critically hit npc_antlion dealing 24 damage (CritChance was 0.80).
+[22:13:44	]C17:RCT.YELLO-50 has spawned a 'Entity [502][npc_caveguard_burrowed]'.
+[22:13:48	]C17:RCT.YELLO-50 has taken 10 damage from npc_antlionguard.
+[22:13:48	]C17:RCT.YELLO-50 has taken 10 damage from npc_antlionguard.
+[22:13:52	]C17:RCT.YELLO-50 has spawned a 'Entity [502][npc_fastzombie_slump_a]'.
+[22:13:56	]C17:RCT.YELLO-50 entered observer.
+[22:13:59	]C17:RCT.YELLO-50 has spawned a 'Entity [509][npc_fastzombie_slump_a]'.
+[22:14:02	]C17:RCT.YELLO-50 has spawned a 'Entity [502][npc_fastzombie_slump_b]'.
+[22:14:05	]C17:RCT.YELLO-50 has critically hit npc_fastzombie dealing 24 damage (CritChance was 0.80).
+[22:14:07	]C17:RCT.YELLO-50 has critically hit npc_fastzombie in the head dealing 24 damage (CritChance was 0.80).
+[22:14:09	]C17:RCT.YELLO-50 has spawned a 'Entity [502][npc_fastzombie_slump_c]'.
+[22:14:11	]C17:RCT.YELLO-50 has spawned a 'Entity [510][npc_headcrab_burrowed]'.
+[22:14:16	]C17:RCT.YELLO-50 has spawned a 'Entity [502][npc_poisonzombie_slump]'.
+[22:14:20	]C17:RCT.YELLO-50 has spawned a 'Entity [509][npc_poisonzombie_slump]'.
+[22:14:25	]C17:RCT.YELLO-50 has spawned a 'Entity [502][npc_zombierun_prone]'.
+[22:14:28	]C17:RCT.YELLO-50 has spawned a 'Entity [502][npc_zombierun_slump]'.
+[22:14:30	]C17:RCT.YELLO-50 has spawned a 'Entity [510][npc_zombie_prone]'.
+[22:14:33	]C17:RCT.YELLO-50 has spawned a 'Entity [502][npc_zombie_slump]'.
+[22:14:37	]C17:RCT.YELLO-50 has spawned a 'Entity [510][npc_zombie_slump_attack]'.
+[22:14:45	]C17:RCT.YELLO-50 has spawned a 'Entity [502][npc_zombine_prone]'.
+[22:14:49	]C17:RCT.YELLO-50 has critically hit npc_zombine dealing 24 damage (CritChance was 0.80).
+[22:14:50	]C17:RCT.YELLO-50 exited observer at their location.
+[22:14:52	]C17:RCT.YELLO-50 has hit npc_zombine dealing 19 damage (CritChance was 0.80).
+[22:14:54	]C17:RCT.YELLO-50 has critically hit npc_zombine dealing 24 damage (CritChance was 0.80).
+[22:14:55	]C17:RCT.YELLO-50 has hit npc_zombine dealing 19 damage (CritChance was 0.80).
+[22:14:57	]C17:RCT.YELLO-50 has hit npc_zombine dealing 48 damage (CritChance was 0.80).
+[22:14:59	]C17:RCT.YELLO-50 has spawned a 'Entity [502][npc_zombine_slump]'.
+[22:15:02	]C17:RCT.YELLO-50 has critically hit npc_zombine dealing 60 damage (CritChance was 0.80).
+[22:15:04	]C17:RCT.YELLO-50 has critically hit npc_zombine dealing 60 damage (CritChance was 0.80).
+[22:15:06	]C17:RCT.YELLO-50 has spawned a 'Entity [502][npc_zombine_slump_attack]'.
+[22:15:11	]C17:RCT.YELLO-50 has critically hit npc_zombine dealing 24 damage (CritChance was 0.80).
+[22:15:12	]C17:RCT.YELLO-50 has critically hit npc_zombine dealing 24 damage (CritChance was 0.80).
+[22:15:13	]C17:RCT.YELLO-50 has critically hit npc_zombine dealing 24 damage (CritChance was 0.80).
+[22:15:14	]C17:RCT.YELLO-50 has critically hit npc_zombine dealing 24 damage (CritChance was 0.80).
+[22:15:15	]C17:RCT.YELLO-50 has hit npc_zombine dealing 19 damage (CritChance was 0.80).
+[22:15:17	]C17:RCT.YELLO-50 has spawned a 'Entity [502][npc_zombie_slump_attack]'.
+[22:15:20	]C17:RCT.YELLO-50 has critically hit npc_zombie in the chest dealing 24 damage (CritChance was 0.80).
+[22:15:22	]C17:RCT.YELLO-50 has hit npc_zombie in the head dealing 19 damage (CritChance was 0.80).
+[22:15:31	]C17:RCT.YELLO-50 has spawned a 'NPC [502][npc_gman]'.
+[22:15:36	]C17:RCT.YELLO-50 has hit npc_gman in the head dealing 8 damage (CritChance was 0.80).
+[22:15:42	]C17:RCT.YELLO-50 has used a context menu option with the name: bodygroups
+[22:15:47	]C17:RCT.YELLO-50 has used a context menu option with the name: bodygroups
+[22:15:50	]C17:RCT.YELLO-50 has used a context menu option with the name: rb655_dissolve
+[22:15:55	]C17:RCT.YELLO-50 has spawned a 'NPC [502][npc_gman]'.
+[22:16:02	]C17:RCT.YELLO-50 has spawned a 'NPC [505][npc_mossman]'.
+[22:16:04	]C17:RCT.YELLO-50 has used a context menu option with the name: rb655_dissolve
+[22:16:09	]C17:RCT.YELLO-50 has used a context menu option with the name: rb655_dissolve
+[22:16:18	]C17:RCT.YELLO-50 ran 'Bolt' on item 'Vehicle Workbench' (#3714)
+[22:16:33	]C17:RCT.YELLO-50 ran 'PackUp' on item 'Vehicle Workbench' (#3714)
+[22:16:35	]C17:RCT.YELLO-50 ran 'UnBolt' on item 'Vehicle Workbench' (#3714)
+[22:16:37	]C17:RCT.YELLO-50 ran 'Use' on item 'Vehicle Workbench' (#3714)
+[22:16:43	]C17:RCT.YELLO-50 entered observer.
+[22:16:44	]C17:RCT.YELLO-50 exited observer at their location.
+[22:16:45	]C17:RCT.YELLO-50 entered observer.
+[22:16:52	]C17:RCT.YELLO-50 exited observer at their location.
+[22:16:54	]C17:RCT.YELLO-50 entered observer.
+[22:17:06	]C17:RCT.YELLO-50 exited observer at their location.
+[22:17:08	]C17:RCT.YELLO-50 entered observer.
+[22:17:09	]C17:RCT.YELLO-50 exited observer at their location.
+[22:17:12	]C17:RCT.YELLO-50 entered observer.
+[22:17:13	]C17:RCT.YELLO-50 exited observer at their location.
+[22:17:14	]C17:RCT.YELLO-50 entered observer.
+[22:17:15	]C17:RCT.YELLO-50 exited observer at their location.
+[22:17:21	]C17:RCT.YELLO-50 entered observer.
+[22:17:22	]C17:RCT.YELLO-50 exited observer at their location.
+[22:17:24	]C17:RCT.YELLO-50 was knocked unconscious and is bleeding out.
+[22:17:40	]C17:RCT.YELLO-50 was just killed due to: accepting their death
+[22:17:43	]C17:RCT.YELLO-50 entered observer.
+[22:17:47	]C17:RCT.YELLO-50 exited observer at their location.
+[22:17:47	]C17:RCT.YELLO-50 entered observer.
+[22:17:54	]C17:RCT.YELLO-50 has spawned a 'NPC [472][npc_vj_zombiearmor]'.
+[22:17:57	]C17:RCT.YELLO-50 has spawned a 'NPC [475][npc_vj_zombiegiant]'.
+[22:17:59	]C17:RCT.YELLO-50 exited observer at their location.
+[22:18:02	]C17:RCT.YELLO-50 entered observer.
+[22:18:08	]C17:RCT.YELLO-50 has spawned a 'NPC [479][npc_vj_zombiesuper]'.
+[22:18:12	]C17:RCT.YELLO-50 exited observer at their location.
+[22:18:20	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiearmor in the left arm dealing 0 damage (CritChance was 0.84).
+[22:18:20	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiearmor in the left arm dealing 8 damage (CritChance was 0.84).
+[22:18:20	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiearmor in the left arm dealing 0 damage (CritChance was 0.84).
+[22:18:20	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiearmor in the left arm dealing 8 damage (CritChance was 0.84).
+[22:18:20	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiearmor in the stomach dealing 0 damage (CritChance was 0.84).
+[22:18:20	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiearmor in the stomach dealing 9 damage (CritChance was 0.84).
+[22:18:20	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiearmor in the left arm dealing 0 damage (CritChance was 0.84).
+[22:18:20	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiearmor in the left arm dealing 8 damage (CritChance was 0.84).
+[22:18:20	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiearmor in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:20	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiearmor in the left arm dealing 8 damage (CritChance was 0.84).
+[22:18:21	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiearmor in the head dealing 0 damage (CritChance was 0.84).
+[22:18:21	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiearmor in the head dealing 10 damage (CritChance was 0.84).
+[22:18:21	]C17:RCT.YELLO-50 has hit npc_vj_zombiearmor in the head dealing 0 damage (CritChance was 0.84).
+[22:18:21	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiearmor in the head dealing 10 damage (CritChance was 0.84).
+[22:18:21	]C17:RCT.YELLO-50 has hit npc_vj_zombiearmor in the head dealing 0 damage (CritChance was 0.84).
+[22:18:21	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiearmor in the head dealing 10 damage (CritChance was 0.84).
+[22:18:21	]C17:RCT.YELLO-50 has hit npc_vj_zombiearmor in the head dealing 0 damage (CritChance was 0.84).
+[22:18:21	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiearmor in the head dealing 10 damage (CritChance was 0.84).
+[22:18:21	]C17:RCT.YELLO-50 has hit npc_vj_zombiearmor in the head dealing 5 damage (CritChance was 0.84).
+[22:18:21	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiearmor in the head dealing 0 damage (CritChance was 0.84).
+[22:18:21	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiearmor in the head dealing 10 damage (CritChance was 0.84).
+[22:18:22	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:22	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 4 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 5 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the chest dealing 6 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:23	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:24	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:24	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 5 damage (CritChance was 0.84).
+[22:18:24	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:24	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:24	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:24	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:24	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:24	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:24	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:24	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:24	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:24	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:24	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:24	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:24	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:24	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:24	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:24	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:24	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:25	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:25	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:25	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:25	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:25	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:25	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:25	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:25	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:25	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left leg dealing 0 damage (CritChance was 0.84).
+[22:18:25	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left leg dealing 9 damage (CritChance was 0.84).
+[22:18:25	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:25	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left leg dealing 0 damage (CritChance was 0.84).
+[22:18:25	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left leg dealing 9 damage (CritChance was 0.84).
+[22:18:25	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:25	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:25	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:25	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:26	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:26	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:26	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:26	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:26	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left leg dealing 0 damage (CritChance was 0.84).
+[22:18:26	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left leg dealing 9 damage (CritChance was 0.84).
+[22:18:26	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:26	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:26	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:26	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 5 damage (CritChance was 0.84).
+[22:18:26	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:26	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the stomach dealing 6 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the right arm dealing 0 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the right arm dealing 0 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the right arm dealing 4 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the left arm dealing 0 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left arm dealing 0 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left arm dealing 8 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the right arm dealing 8 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the right arm dealing 0 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the right arm dealing 8 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the right arm dealing 0 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the right arm dealing 8 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the stomach dealing 0 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the stomach dealing 0 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the stomach dealing 9 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the stomach dealing 0 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the stomach dealing 0 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the stomach dealing 9 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the stomach dealing 0 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the stomach dealing 9 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the stomach dealing 0 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the stomach dealing 0 damage (CritChance was 0.84).
+[22:18:30	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the stomach dealing 9 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left arm dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left arm dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left arm dealing 8 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the chest dealing 6 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the chest dealing 6 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the head dealing 5 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the head dealing 5 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the chest dealing 6 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:31	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:32	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the chest dealing 6 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the stomach dealing 0 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the stomach dealing 9 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the chest dealing 6 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:33	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the chest dealing 6 damage (CritChance was 0.84).
+[22:18:34	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:34	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:34	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left arm dealing 0 damage (CritChance was 0.84).
+[22:18:34	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left arm dealing 8 damage (CritChance was 0.84).
+[22:18:34	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:34	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:34	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:34	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the chest dealing 6 damage (CritChance was 0.84).
+[22:18:34	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:34	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:34	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:34	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left arm dealing 0 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left arm dealing 8 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left arm dealing 0 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the left arm dealing 4 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the left arm dealing 0 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left arm dealing 8 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left arm dealing 0 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left arm dealing 8 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left arm dealing 0 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left arm dealing 8 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left arm dealing 0 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left arm dealing 8 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:35	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:40	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:40	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:40	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:40	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the right arm dealing 0 damage (CritChance was 0.84).
+[22:18:40	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the right arm dealing 8 damage (CritChance was 0.84).
+[22:18:40	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:40	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:40	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:40	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:40	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:40	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:40	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:40	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:40	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:40	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the chest dealing 6 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the chest dealing 6 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the head dealing 5 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:41	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 10 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the head dealing 0 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the head dealing 5 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the right arm dealing 0 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the right arm dealing 8 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the right arm dealing 0 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the right arm dealing 0 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the right arm dealing 8 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:42	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:43	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:43	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:43	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the stomach dealing 0 damage (CritChance was 0.84).
+[22:18:43	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the stomach dealing 9 damage (CritChance was 0.84).
+[22:18:43	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:43	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:43	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:43	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:43	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the chest dealing 6 damage (CritChance was 0.84).
+[22:18:43	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:43	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:43	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:43	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:43	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has hit npc_vj_zombiegiant in the chest dealing 6 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left arm dealing 0 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left arm dealing 0 damage (CritChance was 0.84).
+[22:18:44	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiegiant in the left arm dealing 8 damage (CritChance was 0.84).
+[22:18:49	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:49	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:49	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the left arm dealing 8 damage (CritChance was 0.84).
+[22:18:49	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the stomach dealing 9 damage (CritChance was 0.84).
+[22:18:49	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:49	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the right arm dealing 8 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 5 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 9 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 5 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 0 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the chest dealing 6 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:50	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 5 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 5 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 5 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:51	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:52	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 5 damage (CritChance was 0.84).
+[22:18:53	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:53	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:53	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:53	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:53	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:53	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:53	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:53	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:53	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:53	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:53	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:53	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:53	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:53	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 5 damage (CritChance was 0.84).
+[22:18:53	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:53	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:53	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:53	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 5 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.84).
+[22:18:54	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the head dealing 5 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 0 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the chest dealing 0 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 0 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 9 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the left arm dealing 0 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the left arm dealing 8 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 0 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 0 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 9 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the left arm dealing 0 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the left arm dealing 8 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the chest dealing 0 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 9 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has hit npc_vj_zombiesuper in the left arm dealing 0 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the left arm dealing 8 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 9 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:19:02	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 10 damage (CritChance was 0.84).
+[22:19:45	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.92).
+[22:19:45	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 22 damage (CritChance was 0.92).
+[22:19:45	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 0 damage (CritChance was 0.92).
+[22:19:45	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 22 damage (CritChance was 0.92).
+[22:19:46	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 0 damage (CritChance was 0.92).
+[22:19:46	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 20 damage (CritChance was 0.92).
+[22:19:46	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 0 damage (CritChance was 0.92).
+[22:19:46	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 20 damage (CritChance was 0.92).
+[22:19:46	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 20 damage (CritChance was 0.92).
+[22:19:46	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 22 damage (CritChance was 0.92).
+[22:19:46	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 22 damage (CritChance was 0.92).
+[22:19:46	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the head dealing 22 damage (CritChance was 0.92).
+[22:19:46	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the chest dealing 20 damage (CritChance was 0.92).
+[22:19:46	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the stomach dealing 20 damage (CritChance was 0.92).
+[22:19:46	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the stomach dealing 20 damage (CritChance was 0.92).
+[22:19:47	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the stomach dealing 20 damage (CritChance was 0.92).
+[22:19:47	]C17:RCT.YELLO-50 has critically hit npc_vj_zombiesuper in the stomach dealing 20 damage (CritChance was 0.92).
+[22:19:57	]C17:RCT.YELLO-50 has spawned a 'NPC [479][npc_vj_gonomearmor]'.
+[22:19:58	]C17:RCT.YELLO-50 has critically hit npc_vj_gonomearmor in the chest dealing 20 damage (CritChance was 0.92).
+[22:19:58	]C17:RCT.YELLO-50 has critically hit npc_vj_gonomearmor in the head dealing 22 damage (CritChance was 0.92).
+[22:19:58	]C17:RCT.YELLO-50 has critically hit npc_vj_gonomearmor in the chest dealing 20 damage (CritChance was 0.92).
+[22:19:58	]C17:RCT.YELLO-50 has critically hit npc_vj_gonomearmor in the chest dealing 20 damage (CritChance was 0.92).
+[22:19:59	]C17:RCT.YELLO-50 has critically hit npc_vj_gonomearmor in the head dealing 22 damage (CritChance was 0.92).
+[22:19:59	]C17:RCT.YELLO-50 has critically hit npc_vj_gonomearmor in the chest dealing 20 damage (CritChance was 0.92).
+[22:19:59	]C17:RCT.YELLO-50 has critically hit npc_vj_gonomearmor in the chest dealing 20 damage (CritChance was 0.92).
+[22:19:59	]C17:RCT.YELLO-50 has critically hit npc_vj_gonomearmor in the head dealing 22 damage (CritChance was 0.92).
+[22:19:59	]C17:RCT.YELLO-50 has critically hit npc_vj_gonomearmor in the head dealing 22 damage (CritChance was 0.92).
+[22:19:59	]C17:RCT.YELLO-50 has critically hit npc_vj_gonomearmor in the chest dealing 20 damage (CritChance was 0.92).
+[22:19:59	]C17:RCT.YELLO-50 has critically hit npc_vj_gonomearmor in the head dealing 22 damage (CritChance was 0.92).
+[22:20:00	]C17:RCT.YELLO-50 has critically hit npc_vj_gonomearmor in the chest dealing 20 damage (CritChance was 0.92).
+[22:20:00	]C17:RCT.YELLO-50 has critically hit npc_vj_gonomearmor in the chest dealing 20 damage (CritChance was 0.92).
+[22:20:00	]C17:RCT.YELLO-50 has critically hit npc_vj_gonomearmor in the chest dealing 20 damage (CritChance was 0.92).
+[22:20:00	]C17:RCT.YELLO-50 has critically hit npc_vj_gonomearmor in the left arm dealing 17 damage (CritChance was 0.92).
+[22:20:00	]C17:RCT.YELLO-50 has taken 45 damage from Gonome.
+[22:20:03	]C17:RCT.YELLO-50 has hit npc_vj_gonomearmor in the chest dealing 13 damage (CritChance was 0.92).
+[22:20:03	]C17:RCT.YELLO-50 has critically hit npc_vj_gonomearmor in the right arm dealing 17 damage (CritChance was 0.92).
+[22:20:03	]C17:RCT.YELLO-50 has critically hit npc_vj_gonomearmor in the chest dealing 20 damage (CritChance was 0.92).
+[22:20:03	]C17:RCT.YELLO-50 has critically hit npc_vj_gonomearmor in the chest dealing 20 damage (CritChance was 0.92).
+[22:20:03	]C17:RCT.YELLO-50 has critically hit npc_vj_gonomearmor in the chest dealing 20 damage (CritChance was 0.92).
+[22:20:04	]C17:RCT.YELLO-50 has critically hit npc_vj_gonomearmor in the chest dealing 20 damage (CritChance was 0.92).
+[22:20:08	]C17:RCT.YELLO-50 has spawned a 'NPC [479][npc_vj_zomnarch]'.
+[22:20:09	]C17:RCT.YELLO-50 has critically hit npc_vj_zomnarch in the right arm dealing 17 damage (CritChance was 0.92).
+[22:20:10	]C17:RCT.YELLO-50 has critically hit npc_vj_zomnarch in the left arm dealing 17 damage (CritChance was 0.92).
+[22:20:10	]C17:RCT.YELLO-50 has critically hit npc_vj_zomnarch in the right arm dealing 17 damage (CritChance was 0.92).
+[22:20:11	]C17:RCT.YELLO-50 has taken 30 damage from Zomnarch.
+[22:20:11	]C17:RCT.YELLO-50 has taken 5 damage from obj_gonome_acid.
+[22:20:12	]C17:RCT.YELLO-50 has critically hit npc_vj_zomnarch in the right arm dealing 0 damage (CritChance was 0.85).
+[22:20:12	]C17:RCT.YELLO-50 has critically hit npc_vj_zomnarch in the right arm dealing 17 damage (CritChance was 0.85).
+[22:20:13	]C17:RCT.YELLO-50 has hit npc_vj_zomnarch in the chest dealing 13 damage (CritChance was 0.85).
+[22:20:13	]C17:RCT.YELLO-50 has critically hit npc_vj_zomnarch in the head dealing 22 damage (CritChance was 0.85).
+[22:20:15	]C17:RCT.YELLO-50 has hit npc_vj_zomnarch in the chest dealing 13 damage (CritChance was 0.85).
+[22:20:15	]C17:RCT.YELLO-50 has critically hit npc_vj_zomnarch in the chest dealing 20 damage (CritChance was 0.85).
+[22:20:15	]C17:RCT.YELLO-50 has critically hit npc_vj_zomnarch in the chest dealing 20 damage (CritChance was 0.85).
+[22:20:15	]C17:RCT.YELLO-50 has hit npc_vj_zomnarch in the chest dealing 13 damage (CritChance was 0.85).
+[22:20:15	]C17:RCT.YELLO-50 has critically hit npc_vj_zomnarch in the left leg dealing 19 damage (CritChance was 0.85).
+[22:20:16	]C17:RCT.YELLO-50 has hit npc_vj_zomnarch in the right leg dealing 11 damage (CritChance was 0.85).
+[22:20:16	]C17:RCT.YELLO-50 has critically hit npc_vj_zomnarch in the chest dealing 20 damage (CritChance was 0.85).
+[22:20:16	]C17:RCT.YELLO-50 has critically hit npc_vj_zomnarch in the left arm dealing 17 damage (CritChance was 0.85).
+[22:20:16	]C17:RCT.YELLO-50 has critically hit npc_vj_zomnarch in the head dealing 22 damage (CritChance was 0.85).
+[22:20:16	]C17:RCT.YELLO-50 has hit npc_vj_zomnarch in the left arm dealing 8 damage (CritChance was 0.85).
+[22:20:16	]C17:RCT.YELLO-50 has critically hit npc_vj_zomnarch in the left arm dealing 17 damage (CritChance was 0.85).
+[22:20:16	]C17:RCT.YELLO-50 has critically hit npc_vj_zomnarch in the chest dealing 20 damage (CritChance was 0.85).
+[22:20:25	]C17:RCT.YELLO-50 was knocked unconscious and is bleeding out.
+[22:20:30	]C17:RCT.YELLO-50 ran SAM command 'slay' with arguments: '^'
+[22:20:34	]C17:RCT.YELLO-50 entered observer.
+[22:20:40	]Lorf (STEAM_0:0:83902827) has disconnected.

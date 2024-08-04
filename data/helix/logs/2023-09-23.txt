@@ -1,0 +1,83 @@
+[15:52:47	]inkaaz has connected.
+[15:53:13	]inkaaz loaded the character 'Tomasz Tracz'
+[15:53:18	]Tomasz Tracz entered observer.
+[15:53:19	]Tomasz Tracz exited observer at their location.
+[15:53:22	]Tomasz Tracz entered observer.
+[15:53:27	]Tomasz Tracz exited observer at their location.
+[15:53:30	]Tomasz Tracz entered observer.
+[15:53:31	]Tomasz Tracz exited observer at their location.
+[15:53:32	]Tomasz Tracz entered observer.
+[15:53:33	]Tomasz Tracz exited observer at their location.
+[15:53:34	]Tomasz Tracz entered observer.
+[15:53:34	]Tomasz Tracz exited observer at their location.
+[15:53:49	]Tomasz Tracz entered observer.
+[15:54:43	]Tomasz Tracz has spawned 'models/props_c17/FurnitureDrawer001a_Chunk02.mdl'.
+[15:54:45	]Tomasz Tracz has used a context menu option with the name: clientprop
+[15:54:46	]Tomasz Tracz exited observer at their location.
+[15:54:50	]Tomasz Tracz entered observer.
+[15:54:51	]Tomasz Tracz exited observer at their location.
+[15:54:52	]Tomasz Tracz entered observer.
+[15:54:58	]Tomasz Tracz has used a context menu option with the name: remove
+[15:54:58	]Tomasz Tracz exited observer at their location.
+[15:54:59	]Tomasz Tracz entered observer.
+[15:55:18	]Tomasz Tracz has given himself a head_green_beanie.
+[15:55:18	]Tomasz Tracz has gained a 'Zielona czapka' #6455.
+[15:55:26	]inkaaz (STEAM_0:0:50287200) has disconnected.
+[16:13:05	]inkaaz has connected.
+[16:13:49	]inkaaz loaded the character 'Tomasz Tracz'
+[16:14:08	]Tomasz Tracz entered observer.
+[16:14:09	]Tomasz Tracz exited observer at their location.
+[16:14:10	]Tomasz Tracz entered observer.
+[16:14:15	]Tomasz Tracz exited observer at their location.
+[16:14:16	]Tomasz Tracz entered observer.
+[16:14:16	]Tomasz Tracz exited observer at their location.
+[16:14:44	]Tomasz Tracz has given himself a rev8.
+[16:14:44	]Tomasz Tracz has gained a 'Model 327-R8' #6456.
+[16:14:48	]Tomasz Tracz ran 'Equip' on item 'Model 327-R8' (#6456)
+[16:14:58	]Tomasz Tracz ran 'drop' on item 'Model 327-R8' (#6456)
+[16:14:58	]Tomasz Tracz has lost a 'Model 327-R8' #6456.
+[16:15:01	]Tomasz Tracz ran 'take' on item 'Model 327-R8' (#6456)
+[16:15:01	]Tomasz Tracz has gained a 'Model 327-R8' #6456.
+[16:15:02	]Tomasz Tracz ran 'Equip' on item 'Model 327-R8' (#6456)
+[16:15:18	]Tomasz Tracz has given himself a bullets_357.
+[16:15:18	]Tomasz Tracz has gained a 'Amunicja .357' #6457.
+[16:15:19	]Tomasz Tracz has given himself a bullets_357.
+[16:15:19	]Tomasz Tracz has gained a 'Amunicja .357' #6458.
+[16:15:19	]Tomasz Tracz has given himself a bullets_357.
+[16:15:19	]Tomasz Tracz has gained a 'Amunicja .357' #6459.
+[16:15:41	]Tomasz Tracz has given himself a magazine_model327_8rnd.
+[16:15:41	]Tomasz Tracz has gained a 'Magazynek do Model 327 8rnd' #6460.
+[16:15:42	]Tomasz Tracz has given himself a magazine_model327_8rnd.
+[16:15:42	]Tomasz Tracz has gained a 'Magazynek do Model 327 8rnd' #6461.
+[16:15:42	]Tomasz Tracz has given himself a magazine_model327_8rnd.
+[16:15:42	]Tomasz Tracz has gained a 'Magazynek do Model 327 8rnd' #6462.
+[16:15:44	]Tomasz Tracz ran 'combine' on item 'Magazynek do Model 327 8rnd' (#6462)
+[16:15:44	]Tomasz Tracz ran 'combine' on item 'Magazynek do Model 327 8rnd' (#6461)
+[16:15:50	]Tomasz Tracz has given himself a magazine_popper_6rnd.
+[16:15:50	]Tomasz Tracz has gained a 'Magazynek do Pukawka 6rnd' #6463.
+[16:15:51	]Tomasz Tracz ran 'combine' on item 'Magazynek do Pukawka 6rnd' (#6463)
+[16:15:53	]Tomasz Tracz has lost a 'Magazynek do Model 327 8rnd' #6462.
+[16:16:11	]Tomasz Tracz has gained a 'Magazynek do Model 327 8rnd' #6462.
+[16:16:11	]Tomasz Tracz has lost a 'Magazynek do Model 327 8rnd' #6461.
+[16:16:22	]Tomasz Tracz ran 'EquipUn' on item 'Model 327-R8' (#6456)
+[16:16:22	]Tomasz Tracz has gained a 'Magazynek do Model 327 8rnd' #6461.
+[16:16:23	]Tomasz Tracz entered observer.
+[16:16:35	]Tomasz Tracz exited observer at their location.
+[16:16:36	]Tomasz Tracz has disabled persistence for 'models/c24_interior/c24_drugcart.mdl'.
+[16:16:36	]Tomasz Tracz has used a context menu option with the name: persist_end
+[16:16:38	]Tomasz Tracz has used a context menu option with the name: clientprop
+[16:16:50	]Tomasz Tracz has enabled persistence for 'models/c24_interior/c24_drugcart.mdl'.
+[16:16:50	]Tomasz Tracz has used a context menu option with the name: persist
+[16:16:53	]Tomasz Tracz has used a context menu option with the name: collision_off
+[16:17:09	]Tomasz Tracz has spawned a usable entity class 'ix_chair' with model 'models/props_combine/breenchair.mdl'.
+[16:17:09	]Tomasz Tracz has used a context menu option with the name: ixusableentitycreate
+[16:17:14	]Tomasz Tracz has used a context menu option with the name: collision_on
+[16:17:15	]Tomasz Tracz has disabled persistence for 'models/c24_interior/c24_drugcart.mdl'.
+[16:17:15	]Tomasz Tracz has used a context menu option with the name: persist_end
+[16:17:16	]Tomasz Tracz has enabled persistence for 'models/c24_interior/c24_drugcart.mdl'.
+[16:17:16	]Tomasz Tracz has used a context menu option with the name: persist
+[16:17:19	]Tomasz Tracz entered observer.
+[16:20:10	]Tomasz Tracz exited observer at their location.
+[16:20:23	]Tomasz Tracz entered observer.
+[16:20:41	]Tomasz Tracz exited observer at their location.
+[16:20:42	]inkaaz (STEAM_0:0:50287200) has disconnected.

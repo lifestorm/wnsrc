@@ -1,0 +1,326 @@
+[19:21:58	]inkaaz has connected.
+[19:22:19	]inkaaz loaded the character 'Henryk Cweles'
+[19:23:14	]Henryk Cweles has spawned a 'Entity [403][ix_intercom]'.
+[19:24:32	]Henryk Cweles entered observer.
+[19:24:54	]Henryk Cweles exited observer at their location.
+[19:25:07	]Henryk Cweles used command '/CreateShop fotochange'.
+[19:26:20	]Henryk Cweles used command '/SetApartmentDoor fotochange'.
+[19:26:24	]Henryk Cweles used command '/SetApartmentDoor fotochange'.
+[19:26:29	]Henryk Cweles used command '/SetApartmentDoor fotochange'.
+[19:26:31	]Henryk Cweles entered observer.
+[19:26:38	]Henryk Cweles exited observer at their location.
+[19:26:47	]Henryk Cweles used command '/RemoveApartmentDoor'.
+[19:26:48	]Henryk Cweles entered observer.
+[19:26:49	]Henryk Cweles exited observer at their location.
+[19:26:50	]Henryk Cweles used command '/RemoveApartmentDoor'.
+[19:26:51	]Henryk Cweles entered observer.
+[19:26:52	]Henryk Cweles exited observer at their location.
+[19:26:53	]Henryk Cweles entered observer.
+[19:26:53	]Henryk Cweles exited observer at their location.
+[19:26:54	]Henryk Cweles used command '/RemoveApartmentDoor'.
+[19:26:56	]Henryk Cweles entered observer.
+[19:26:59	]Henryk Cweles exited observer at their location.
+[19:27:18	]Henryk Cweles used command '/ShowAllApartments'.
+[19:27:28	]Henryk Cweles entered observer.
+[19:27:29	]Henryk Cweles exited observer at their location.
+[19:27:40	]Henryk Cweles used command '/CreateShop foto'.
+[19:27:40	]Henryk Cweles entered observer.
+[19:27:41	]Henryk Cweles exited observer at their location.
+[19:27:56	]Henryk Cweles used command '/SetApartmentDoor foto'.
+[19:27:56	]Henryk Cweles entered observer.
+[19:27:58	]Henryk Cweles exited observer at their location.
+[19:27:59	]Henryk Cweles used command '/SetApartmentDoor foto'.
+[19:28:02	]Henryk Cweles used command '/SetApartmentDoor foto'.
+[19:28:05	]Henryk Cweles used command '/SetApartmentDoor foto'.
+[19:28:09	]Henryk Cweles entered observer.
+[19:28:10	]Henryk Cweles exited observer at their location.
+[19:28:12	]Henryk Cweles entered observer.
+[19:28:14	]Henryk Cweles exited observer at their location.
+[19:28:24	]Henryk Cweles used command '/CreateShop change'.
+[19:28:24	]Henryk Cweles entered observer.
+[19:28:25	]Henryk Cweles exited observer at their location.
+[19:28:30	]Henryk Cweles used command '/SetApartmentDoor change'.
+[19:28:33	]Henryk Cweles used command '/SetApartmentDoor change'.
+[19:28:36	]Henryk Cweles used command '/SetApartmentDoor change'.
+[19:28:39	]Henryk Cweles used command '/SetApartmentDoor change'.
+[19:28:42	]Henryk Cweles entered observer.
+[19:28:44	]Henryk Cweles exited observer at their location.
+[19:29:07	]Henryk Cweles has spawned a 'Entity [417][ix_shopterminal]'.
+[19:29:51	]Henryk Cweles entered observer.
+[19:29:52	]Henryk Cweles exited observer at their location.
+[19:29:54	]Henryk Cweles used command '/SetApartmentDoor change'.
+[19:29:58	]Henryk Cweles used command '/LinkShopTerminal foto'.
+[19:30:06	]Henryk Cweles used command '/LinkShopTerminal foto'.
+[19:30:18	]Henryk Cweles used command '/SetShopTerminalCost 1'.
+[19:30:58	]Henryk Cweles used command '/ShowAllApartments'.
+[19:31:39	]Henryk Cweles used command '/SetApartmentTenant ^'.
+[19:33:19	]Henryk Cweles entered observer.
+[19:33:21	]Henryk Cweles exited observer at their location.
+[19:33:34	]Henryk Cweles entered observer.
+[19:33:34	]Henryk Cweles exited observer at their location.
+[19:33:39	]Henryk Cweles entered observer.
+[19:33:50	]Henryk Cweles exited observer at their location.
+[19:33:51	]Henryk Cweles has spawned a 'Entity [419][ix_pickupterminal]'.
+[19:34:28	]Henryk Cweles entered observer.
+[19:34:31	]Henryk Cweles exited observer at their location.
+[19:34:39	][PICKUP DISPENSER] inkaaz ( Henryk Cweles ) picked up an item from the pickup dispenser.
+[19:34:39	]Henryk Cweles has gained a 'Klucz do sklepu' #50915.
+[19:34:41	]Henryk Cweles entered observer.
+[19:34:42	]Henryk Cweles exited observer at their location.
+[19:34:45	]Henryk Cweles entered observer.
+[19:34:46	]Henryk Cweles exited observer at their location.
+[19:34:57	]Henryk Cweles ran 'Assign' on item 'Klucz do sklepu' (#50915)
+[19:36:28	]Henryk Cweles has used a context menu option with the name: remove
+[19:36:29	]Henryk Cweles entered observer.
+[19:36:31	]Henryk Cweles exited observer at their location.
+[19:36:36	]Henryk Cweles entered observer.
+[19:36:38	]Henryk Cweles exited observer at their location.
+[19:36:41	]Henryk Cweles entered observer.
+[19:36:42	]Henryk Cweles exited observer at their location.
+[19:36:51	]Henryk Cweles entered observer.
+[19:37:01	]Henryk Cweles exited observer at their location.
+[19:37:04	]Henryk Cweles entered observer.
+[19:37:07	]Henryk Cweles exited observer at their location.
+[19:37:11	]Henryk Cweles has spawned a 'Entity [416][ix_shopterminal]'.
+[19:37:28	]Henryk Cweles has fired a toolgun with the name: nocollideworld
+[19:38:30	]Henryk Cweles has spawned a 'Entity [421][ix_shopterminal]'.
+[19:38:34	]Henryk Cweles has fired a toolgun with the name: nocollideworld
+[19:38:53	]Henryk Cweles entered observer.
+[19:38:53	]Henryk Cweles exited observer at their location.
+[19:39:10	]Henryk Cweles has fired a toolgun with the name: nocollideworld
+[19:39:43	]Henryk Cweles used command '/LinkShopTerminal foto'.
+[19:39:45	]Henryk Cweles entered observer.
+[19:39:46	]Henryk Cweles exited observer at their location.
+[19:39:47	]Henryk Cweles entered observer.
+[19:39:48	]Henryk Cweles exited observer at their location.
+[19:39:49	]Henryk Cweles entered observer.
+[19:39:49	]Henryk Cweles exited observer at their location.
+[19:39:50	]Henryk Cweles entered observer.
+[19:39:50	]Henryk Cweles exited observer at their location.
+[19:39:53	]Henryk Cweles used command '/LinkShopTerminal change'.
+[19:39:53	]Henryk Cweles entered observer.
+[19:39:57	]Henryk Cweles exited observer at their location.
+[19:40:01	]Henryk Cweles has spawned a 'Entity [424][ix_shopterminal]'.
+[19:40:11	]Henryk Cweles has spawned a 'Entity [427][ix_shopterminal]'.
+[19:40:45	]Henryk Cweles has fired a toolgun with the name: nocollideworld
+[19:41:03	]Henryk Cweles has fired a toolgun with the name: nocollideworld
+[19:42:04	]Henryk Cweles entered observer.
+[19:42:28	]Henryk Cweles exited observer at their location.
+[19:42:34	]Henryk Cweles entered observer.
+[19:43:15	]Henryk Cweles used command '/CreateShop baltic01'.
+[19:43:25	]Henryk Cweles used command '/CreateShop atlantic02'.
+[19:43:31	]Henryk Cweles exited observer at their location.
+[19:43:32	]Henryk Cweles entered observer.
+[19:43:36	]Henryk Cweles exited observer at their location.
+[19:43:43	]Henryk Cweles entered observer.
+[19:43:48	]Henryk Cweles exited observer at their location.
+[19:43:50	]Henryk Cweles entered observer.
+[19:43:53	]Henryk Cweles exited observer at their location.
+[19:43:53	]Henryk Cweles entered observer.
+[19:44:05	]Henryk Cweles exited observer at their location.
+[19:44:14	]Henryk Cweles used command '/ShowAllApartments'.
+[19:44:21	]Henryk Cweles entered observer.
+[19:44:33	]Henryk Cweles used command '/CreateShop 01 baltic'.
+[19:44:37	]Henryk Cweles exited observer at their location.
+[19:44:47	]Henryk Cweles used command '/CreateShop 02 atlantic'.
+[19:44:52	]Henryk Cweles used command '/CreateShop 03'.
+[19:45:07	]Henryk Cweles used command '/CreateShop 04 souvenirs'.
+[19:45:23	]Henryk Cweles used command '/CreateShop 05 xccr'.
+[19:45:26	]Henryk Cweles entered observer.
+[19:46:02	]Henryk Cweles exited observer at their location.
+[19:46:03	]Henryk Cweles entered observer.
+[19:46:05	]Henryk Cweles exited observer at their location.
+[19:46:05	]Henryk Cweles entered observer.
+[19:46:07	]Henryk Cweles exited observer at their location.
+[19:46:11	]Henryk Cweles used command '/SetApartmentDoor 01'.
+[19:46:19	]Henryk Cweles used command '/ShowAllApartments'.
+[19:46:35	]Henryk Cweles used command '/SetApartmentDoor 01 baltic'.
+[19:46:44	]Henryk Cweles used command '/ShowAllApartments'.
+[19:46:57	]Henryk Cweles used command '/CreateShop 01#baltic'.
+[19:46:58	]Henryk Cweles entered observer.
+[19:47:09	]Henryk Cweles used command '/CreateShop 02atlantic'.
+[19:47:22	]Henryk Cweles used command '/CreateShop 02#atlantic'.
+[19:47:44	]Henryk Cweles used command '/CreateShop 03'.
+[19:47:45	]Henryk Cweles exited observer at their location.
+[19:47:46	]Henryk Cweles entered observer.
+[19:47:46	]Henryk Cweles exited observer at their location.
+[19:48:06	]Henryk Cweles used command '/ShowAllApartments'.
+[19:48:15	]Henryk Cweles entered observer.
+[19:48:22	]Henryk Cweles used command '/CreateShop 01@baltic'.
+[19:48:25	]Henryk Cweles exited observer at their location.
+[19:48:28	]Henryk Cweles used command '/CreateShop 02@baltic'.
+[19:48:32	]Henryk Cweles used command '/CreateShop 02@atlantic'.
+[19:48:35	]Henryk Cweles used command '/ShowAllApartments'.
+[19:49:25	]Henryk Cweles used command '/CreateShop 01-baltic'.
+[19:49:26	]Henryk Cweles entered observer.
+[19:49:27	]Henryk Cweles exited observer at their location.
+[19:49:31	]Henryk Cweles entered observer.
+[19:49:46	]Henryk Cweles used command '/CreateShop 02_atlantic'.
+[19:50:03	]Henryk Cweles used command '/ShowAllApartments'.
+[19:50:26	]Henryk Cweles exited observer at their location.
+[19:50:59	]Henryk Cweles used command '/CreateShop 01_baltic'.
+[19:51:04	]Henryk Cweles used command '/CreateShop 02_atlantic'.
+[19:51:04	]Henryk Cweles entered observer.
+[19:51:07	]Henryk Cweles used command '/CreateShop 03'.
+[19:51:12	]Henryk Cweles exited observer at their location.
+[19:51:16	]Henryk Cweles used command '/CreateShop 04_souvenirs'.
+[19:51:27	]Henryk Cweles used command '/CreateShop 05_xccr'.
+[19:51:28	]Henryk Cweles entered observer.
+[19:51:39	]Henryk Cweles exited observer at their location.
+[19:51:47	]Henryk Cweles used command '/SetApartmentDoor 01_baltic'.
+[19:51:47	]Henryk Cweles entered observer.
+[19:51:49	]Henryk Cweles exited observer at their location.
+[19:51:50	]Henryk Cweles used command '/SetApartmentDoor 01_baltic'.
+[19:51:57	]Henryk Cweles used command '/SetApartmentDoor 01_baltic'.
+[19:52:05	]Henryk Cweles entered observer.
+[19:52:06	]Henryk Cweles exited observer at their location.
+[19:52:09	]Henryk Cweles used command '/SetApartmentDoor 02_atlantic'.
+[19:52:13	]Henryk Cweles entered observer.
+[19:52:15	]Henryk Cweles exited observer at their location.
+[19:52:16	]Henryk Cweles entered observer.
+[19:52:17	]Henryk Cweles exited observer at their location.
+[19:52:17	]Henryk Cweles entered observer.
+[19:52:18	]Henryk Cweles exited observer at their location.
+[19:52:20	]Henryk Cweles used command '/SetApartmentDoor 03'.
+[19:52:22	]Henryk Cweles entered observer.
+[19:52:28	]Henryk Cweles exited observer at their location.
+[19:52:43	]Henryk Cweles used command '/SetApartmentDoor 03'.
+[19:52:48	]Henryk Cweles used command '/SetApartmentDoor 04_souvenirs'.
+[19:52:54	]Henryk Cweles used command '/RemoveApartmentDoor'.
+[19:52:55	]Henryk Cweles used command '/SetApartmentDoor 04_souvenirs'.
+[19:52:58	]Henryk Cweles used command '/SetApartmentDoor 04_souvenirs'.
+[19:53:00	]Henryk Cweles used command '/SetApartmentDoor 04_souvenirs'.
+[19:53:02	]Henryk Cweles used command '/SetApartmentDoor 04_souvenirs'.
+[19:53:12	]Henryk Cweles used command '/SetApartmentDoor 05_xccr'.
+[19:53:15	]Henryk Cweles used command '/SetApartmentDoor 05_xccr'.
+[19:53:17	]Henryk Cweles entered observer.
+[19:53:18	]Henryk Cweles exited observer at their location.
+[19:53:18	]Henryk Cweles used command '/SetApartmentDoor 05_xccr'.
+[19:53:19	]Henryk Cweles entered observer.
+[19:53:22	]Henryk Cweles exited observer at their location.
+[19:53:22	]Henryk Cweles entered observer.
+[19:53:23	]Henryk Cweles exited observer at their location.
+[19:53:25	]Henryk Cweles entered observer.
+[19:53:31	]Henryk Cweles exited observer at their location.
+[19:53:37	]Henryk Cweles used command '/LinkShopTerminal 01_baltic'.
+[19:53:41	]Henryk Cweles used command '/LinkShopTerminal 02_atlantic'.
+[19:53:42	]Henryk Cweles entered observer.
+[19:53:45	]Henryk Cweles exited observer at their location.
+[19:53:52	]Henryk Cweles entered observer.
+[19:53:53	]Henryk Cweles exited observer at their location.
+[19:53:59	]Henryk Cweles has spawned a 'Entity [445][ix_shopterminal]'.
+[19:54:25	]Henryk Cweles has fired a toolgun with the name: nocollideworld
+[19:54:53	]Henryk Cweles has spawned a 'Entity [447][ix_shopterminal]'.
+[19:54:59	]Henryk Cweles has fired a toolgun with the name: nocollideworld
+[19:55:27	]Henryk Cweles has spawned a 'Entity [448][ix_shopterminal]'.
+[19:55:30	]Henryk Cweles has fired a toolgun with the name: nocollideworld
+[19:56:14	]Henryk Cweles entered observer.
+[19:56:15	]Henryk Cweles exited observer at their location.
+[19:56:18	]Henryk Cweles used command '/LinkShopTerminal 03'.
+[19:56:18	]Henryk Cweles entered observer.
+[19:56:19	]Henryk Cweles exited observer at their location.
+[19:56:27	]Henryk Cweles entered observer.
+[19:56:30	]Henryk Cweles exited observer at their location.
+[19:56:33	]Henryk Cweles used command '/LinkShopTerminal 04_souvenirs'.
+[19:56:41	]Henryk Cweles used command '/LinkShopTerminal 05_xccr'.
+[19:56:42	]Henryk Cweles entered observer.
+[20:00:42	]inkaaz has connected.
+[20:01:03	]inkaaz loaded the character 'Henryk Cweles'
+[20:01:08	]Henryk Cweles is fully healed.
+[20:01:11	]Henryk Cweles entered observer.
+[20:01:13	]Henryk Cweles exited observer at their location.
+[20:01:15	]Henryk Cweles entered observer.
+[20:01:18	]Henryk Cweles exited observer at their location.
+[20:01:24	]Henryk Cweles used command '/ShowAllApartments'.
+[20:02:42	]Henryk Cweles entered observer.
+[20:02:43	]Henryk Cweles exited observer at their location.
+[20:02:48	]Henryk Cweles used command '/LinkShopTerminal foto'.
+[20:02:49	]Henryk Cweles entered observer.
+[20:02:50	]Henryk Cweles exited observer at their location.
+[20:02:50	]Henryk Cweles entered observer.
+[20:02:50	]Henryk Cweles exited observer at their location.
+[20:03:12	]Henryk Cweles entered observer.
+[20:03:12	]Henryk Cweles exited observer at their location.
+[20:03:13	]Henryk Cweles entered observer.
+[20:03:34	]Henryk Cweles exited observer at their location.
+[20:03:34	]Henryk Cweles entered observer.
+[20:03:34	]Henryk Cweles exited observer at their location.
+[20:03:35	]Henryk Cweles entered observer.
+[20:03:35	]Henryk Cweles exited observer at their location.
+[20:03:35	]Henryk Cweles entered observer.
+[20:03:35	]Henryk Cweles exited observer at their location.
+[20:03:35	]Henryk Cweles entered observer.
+[20:03:36	]Henryk Cweles exited observer at their location.
+[20:03:36	]Henryk Cweles entered observer.
+[20:03:36	]Henryk Cweles exited observer at their location.
+[20:03:36	]Henryk Cweles entered observer.
+[20:03:37	]Henryk Cweles has spawned a 'Entity [416][ix_fabricator]'.
+[20:03:39	]Henryk Cweles exited observer at their location.
+[20:04:02	]Henryk Cweles has spawned a 'Entity [416][ix_cwuterminal]'.
+[20:04:04	]Henryk Cweles entered observer.
+[20:06:28	]Henryk Cweles exited observer at their location.
+[20:06:30	]Henryk Cweles has spawned a 'Entity [416][ix_intercom]'.
+[20:06:35	]Henryk Cweles has spawned a 'Entity [416][ix_cwuterminal]'.
+[20:06:46	]Henryk Cweles ran 'insert' on item 'Karta identyfikacyjna #91942' (#50799)
+[20:06:46	]Henryk Cweles has lost a 'Karta identyfikacyjna #91942' #50799.
+[20:07:38	]Henryk Cweles ran 'take' on item 'Karta identyfikacyjna #91942' (#50799)
+[20:07:38	]Henryk Cweles has gained a 'Karta identyfikacyjna #91942' #50799.
+[20:07:41	]Henryk Cweles has used a context menu option with the name: remove
+[20:07:43	]Henryk Cweles entered observer.
+[20:07:43	]Henryk Cweles exited observer at their location.
+[20:07:44	]Henryk Cweles entered observer.
+[20:07:45	]Henryk Cweles exited observer at their location.
+[20:07:45	]Henryk Cweles entered observer.
+[20:07:46	]Henryk Cweles exited observer at their location.
+[20:07:46	]Henryk Cweles has spawned a 'Entity [415][ix_shopterminal]'.
+[20:07:50	]Henryk Cweles has used a context menu option with the name: persist
+[20:07:53	]Henryk Cweles has used a context menu option with the name: persist
+[20:07:56	]Henryk Cweles has spawned a 'Entity [415][ix_console]'.
+[20:07:59	]Henryk Cweles has spawned a 'Entity [415][ix_computer]'.
+[20:09:56	]Henryk Cweles entered observer.
+[20:09:59	]Henryk Cweles exited observer at their location.
+[20:12:02	]Henryk Cweles entered observer.
+[20:12:02	]Henryk Cweles exited observer at their location.
+[20:12:32	]Henryk Cweles entered observer.
+[20:12:33	]Henryk Cweles exited observer at their location.
+[20:12:37	]Henryk Cweles used command '/LinkShopTerminal change'.
+[20:12:39	]Henryk Cweles entered observer.
+[20:12:40	]Henryk Cweles exited observer at their location.
+[20:13:12	]Henryk Cweles entered observer.
+[20:13:12	]Henryk Cweles exited observer at their location.
+[20:13:13	]Henryk Cweles entered observer.
+[20:13:14	]Henryk Cweles exited observer at their location.
+[20:13:14	]Henryk Cweles entered observer.
+[20:13:15	]Henryk Cweles exited observer at their location.
+[20:13:15	]Henryk Cweles entered observer.
+[20:13:15	]Henryk Cweles exited observer at their location.
+[20:13:16	]Henryk Cweles entered observer.
+[20:13:16	]Henryk Cweles exited observer at their location.
+[20:13:17	]Henryk Cweles entered observer.
+[20:13:17	]Henryk Cweles exited observer at their location.
+[20:13:17	]Henryk Cweles entered observer.
+[20:13:18	]Henryk Cweles exited observer at their location.
+[20:13:19	]Henryk Cweles entered observer.
+[20:13:19	]Henryk Cweles exited observer at their location.
+[20:13:20	]Henryk Cweles entered observer.
+[20:13:21	]Henryk Cweles exited observer at their location.
+[20:13:22	]Henryk Cweles entered observer.
+[20:13:25	]Henryk Cweles exited observer at their location.
+[20:13:25	]Henryk Cweles entered observer.
+[20:13:29	]Henryk Cweles exited observer at their location.
+[20:13:31	]Henryk Cweles entered observer.
+[20:13:32	]Henryk Cweles exited observer at their location.
+[20:13:36	]Henryk Cweles entered observer.
+[20:13:41	]Henryk Cweles exited observer at their location.
+[20:13:48	]Henryk Cweles entered observer.
+[20:13:55	]Henryk Cweles exited observer at their location.
+[20:14:15	]Henryk Cweles has spawned a 'Entity [415][ix_shop_sign]'.
+[20:15:38	]Henryk Cweles entered observer.
+[20:15:51	]Henryk Cweles exited observer at their location.
+[20:16:08	]Henryk Cweles entered observer.
+[20:16:09	]Henryk Cweles exited observer at their location.
+[20:23:02	]Henryk Cweles entered observer.
+[20:24:20	]Henryk Cweles exited observer at their location.
+[20:24:21	]Henryk Cweles entered observer.
+[20:24:21	]Henryk Cweles exited observer at their location.
+[20:24:48	]inkaaz (STEAM_0:0:50287200) has disconnected.

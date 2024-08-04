@@ -1,0 +1,252 @@
+[15:07:53	]Loxy has connected.
+[15:08:40	]Loxy loaded the character 'C24:RCT.YELLO-81'
+[15:08:54	]C24:RCT.YELLO-81 has spawned a 'Entity [1995][ix_batterycharger]'.
+[15:09:01	]C24:RCT.YELLO-81 has spawned a 'Entity [1996][ix_fabricator]'.
+[15:09:30	]C24:RCT.YELLO-81 has spawned a 'Entity [1995][ix_fabricator]'.
+[15:09:34	]C24:RCT.YELLO-81 has spawned a 'Entity [1996][ix_scanner]'.
+[15:09:38	]C24:RCT.YELLO-81 entered observer.
+[15:09:38	]C24:RCT.YELLO-81 exited observer.
+[15:09:49	]C24:RCT.YELLO-81 has spawned a 'Entity [1995][ix_discscanner]'.
+[15:10:01	]Loxy loaded the character 'Jack Heathrow'
+[15:10:06	]Jack Heathrow has spawned a 'Entity [1995][ix_infestation_tank]'.
+[15:10:07	]Jack Heathrow has spawned a 'Entity [1996][ix_fabricator]'.
+[15:11:01	]Jack Heathrow has given himself a datadisc.
+[15:11:01	]Jack Heathrow has gained a 'Data-Disc' #5845.
+[15:11:03	]Jack Heathrow has spawned a 'Entity [1996][ix_fabricator]'.
+[15:11:11	]Jack Heathrow has spawned a 'Entity [1996][ix_discscanner]'.
+[15:11:15	]Jack Heathrow has spawned a 'Entity [1997][ix_batterycharger]'.
+[15:11:20	]Jack Heathrow has spawned a combinebattery.
+[15:11:21	]Jack Heathrow has given himself a combinebattery.
+[15:11:21	]Jack Heathrow has gained a 'Combine Battery' #5847.
+[15:11:22	]Jack Heathrow has given himself a combinebattery.
+[15:11:22	]Jack Heathrow has gained a 'Combine Battery' #5848.
+[15:11:28	]Jack Heathrow ran 'SetFullCharge' on item 'Combine Battery' (#5846)
+[15:11:29	]Jack Heathrow ran 'SetFullCharge' on item 'Combine Battery' (#5846)
+[15:11:34	]Jack Heathrow has given himself a combinebattery.
+[15:11:34	]Jack Heathrow has gained a 'Combine Battery' #5849.
+[15:11:35	]Jack Heathrow ran 'take' on item 'Combine Battery' (#5846)
+[15:11:35	]Jack Heathrow has gained a 'Combine Battery' #5846.
+[15:11:39	]Jack Heathrow ran 'drop' on item 'Combine Battery' (#5846)
+[15:11:39	]Jack Heathrow has lost a 'Combine Battery' #5846.
+[15:11:51	]Jack Heathrow ran 'drop' on item 'Data-Disc' (#5845)
+[15:11:51	]Jack Heathrow has lost a 'Data-Disc' #5845.
+[15:12:05	]Jack Heathrow has given himself a drink_boboriginal.
+[15:12:05	]Jack Heathrow has gained a 'Bob Water Original' #5850.
+[15:12:14	]Jack Heathrow ran 'drop' on item 'Bob Water Original' (#5850)
+[15:12:14	]Jack Heathrow has lost a 'Bob Water Original' #5850.
+[15:12:24	]Jack Heathrow has spawned a drink_boboriginal.
+[15:12:25	]Jack Heathrow has spawned a drink_boboriginal.
+[15:13:41	]Jack Heathrow has given himself a tool_wrench.
+[15:13:41	]Jack Heathrow has gained a 'Klucz' #5853.
+[15:13:43	]Jack Heathrow has given himself a wrench.
+[15:13:43	]Jack Heathrow has gained a 'Klucz' #5854.
+[15:13:45	]Jack Heathrow ran 'drop' on item 'Klucz' (#5854)
+[15:13:45	]Jack Heathrow has lost a 'Klucz' #5854.
+[15:14:15	]Jack Heathrow ran 'take' on item 'Data-Disc' (#5845)
+[15:14:15	]Jack Heathrow has gained a 'Data-Disc' #5845.
+[15:14:22	]Jack Heathrow has spawned a 'Entity [2001][ix_fabricator]'.
+[15:14:25	]Jack Heathrow ran 'SetFullCharge' on item 'Combine Battery' (#5849)
+[15:14:25	]Jack Heathrow ran 'drop' on item 'Combine Battery' (#5849)
+[15:14:25	]Jack Heathrow has lost a 'Combine Battery' #5849.
+[15:14:42	]Jack Heathrow ran 'drop' on item 'Data-Disc' (#5845)
+[15:14:42	]Jack Heathrow has lost a 'Data-Disc' #5845.
+[15:14:56	]Jack Heathrow has given himself a comp_resin.
+[15:14:56	]Jack Heathrow has gained a 'Resin' #5855.
+[15:14:56	]Jack Heathrow has given himself a comp_resin.
+[15:14:56	]Jack Heathrow has gained a 'Resin' #5856.
+[15:14:57	]Jack Heathrow has given himself a comp_resin.
+[15:14:57	]Jack Heathrow has gained a 'Resin' #5857.
+[15:14:58	]Jack Heathrow has given himself a comp_resin.
+[15:14:58	]Jack Heathrow has gained a 'Resin' #5858.
+[15:14:58	]Jack Heathrow has given himself a comp_resin.
+[15:14:58	]Jack Heathrow has gained a 'Resin' #5859.
+[15:14:59	]Jack Heathrow has given himself a comp_resin.
+[15:14:59	]Jack Heathrow has gained a 'Resin' #5860.
+[15:14:59	]Jack Heathrow has given himself a comp_resin.
+[15:15:00	]Jack Heathrow has gained a 'Resin' #5861.
+[15:15:00	]Jack Heathrow has given himself a comp_resin.
+[15:15:00	]Jack Heathrow has gained a 'Resin' #5862.
+[15:15:04	]Jack Heathrow ran 'drop' on item 'Resin' (#5859)
+[15:15:04	]Jack Heathrow has lost a 'Resin' #5859.
+[15:15:05	]Jack Heathrow ran 'drop' on item 'Resin' (#5855)
+[15:15:05	]Jack Heathrow has lost a 'Resin' #5855.
+[15:15:07	]Jack Heathrow ran 'take' on item 'Resin' (#5859)
+[15:15:07	]Jack Heathrow has gained a 'Resin' #5859.
+[15:15:08	]Jack Heathrow ran 'take' on item 'Resin' (#5855)
+[15:15:08	]Jack Heathrow has gained a 'Resin' #5855.
+[15:15:48	]Jack Heathrow ran 'take' on item 'Klucz' (#5863)
+[15:15:48	]Jack Heathrow has gained a 'Klucz' #5863.
+[15:16:24	]Jack Heathrow ran 'SetFullCharge' on item 'Combine Battery' (#5849)
+[15:16:26	]Jack Heathrow ran 'take' on item 'Data-Disc' (#5845)
+[15:16:26	]Jack Heathrow has gained a 'Data-Disc' #5845.
+[15:16:55	]Jack Heathrow ran 'drop' on item 'Klucz' (#5863)
+[15:16:55	]Jack Heathrow has lost a 'Klucz' #5863.
+[15:20:26	]Jack Heathrow has given himself a cream_bourbon.
+[15:20:26	]Jack Heathrow has gained a 'Lody burbonowe' #5864.
+[15:20:30	]Jack Heathrow ran 'drop' on item 'Lody burbonowe' (#5864)
+[15:20:30	]Jack Heathrow has lost a 'Lody burbonowe' #5864.
+[15:20:35	]Jack Heathrow ran 'Consume' on item 'Lody burbonowe' (#5864)
+[15:20:35	]Jack Heathrow has gained a level 1 long boost in Siła.
+[15:20:35	]Jack Heathrow has gained a level -1 long boost in Percepcja.
+[15:20:55	]Jack Heathrow has spawned a 'Entity [2015][ix_crackedprinter]'.
+[15:21:01	]Jack Heathrow has given himself a floppydisk.
+[15:21:01	]Jack Heathrow has gained a 'Dyskietka' #5865.
+[15:21:11	]Jack Heathrow ran 'drop' on item 'Data-Disc' (#5845)
+[15:21:11	]Jack Heathrow has lost a 'Data-Disc' #5845.
+[15:21:13	]Jack Heathrow ran 'drop' on item 'Dyskietka' (#5865)
+[15:21:13	]Jack Heathrow has lost a 'Dyskietka' #5865.
+[15:21:16	]Jack Heathrow ran 'take' on item 'Dyskietka' (#5865)
+[15:21:16	]Jack Heathrow has gained a 'Dyskietka' #5865.
+[15:21:17	]Jack Heathrow ran 'take' on item 'Data-Disc' (#5845)
+[15:21:17	]Jack Heathrow has gained a 'Data-Disc' #5845.
+[15:21:40	]Jack Heathrow ran 'drop' on item 'Dyskietka' (#5865)
+[15:21:40	]Jack Heathrow has lost a 'Dyskietka' #5865.
+[15:22:39	]Loxy (STEAM_0:1:421238310) has disconnected.
+[15:45:21	]Wenli has connected.
+[15:46:13	]Wenli loaded the character 'Teodor Jeske'
+[15:46:17	]Teodor Jeske entered observer.
+[15:46:17	]Teodor Jeske exited observer at their location.
+[15:46:19	]Teodor Jeske entered observer.
+[15:46:21	]Teodor Jeske exited observer at their location.
+[15:46:21	]Teodor Jeske entered observer.
+[15:46:39	]Teodor Jeske exited observer at their location.
+[15:46:46	]Teodor Jeske has spawned a 'Entity [2004][ix_discscanner]'.
+[15:46:49	]Teodor Jeske has spawned a 'Entity [2035][ix_cwuterminal]'.
+[15:46:50	]Teodor Jeske has spawned a 'Entity [2036][ix_fabricator]'.
+[15:46:51	]Teodor Jeske has spawned a 'Entity [2037][ix_fabricator]'.
+[15:46:52	]Teodor Jeske has spawned a 'Entity [2036][ix_fabricator]'.
+[15:46:56	]Teodor Jeske has spawned a 'Entity [2037][ix_batterycharger]'.
+[15:47:03	]Teodor Jeske has spawned a combinebattery.
+[15:47:04	]Teodor Jeske ran 'SetFullCharge' on item 'Combine Battery' (#5867)
+[15:47:11	]Teodor Jeske ran 'drop' on item 'Data-Disc' (#5602)
+[15:47:11	]Teodor Jeske has lost a 'Data-Disc' #5602.
+[15:47:30	]Teodor Jeske has given himself a tool_wrench.
+[15:47:30	]Teodor Jeske has gained a 'Klucz' #5868.
+[15:47:35	]Teodor Jeske ran 'drop' on item 'CWU PDA' (#5595)
+[15:47:35	]Teodor Jeske has lost a 'CWU PDA' #5595.
+[15:47:37	]Teodor Jeske ran 'take' on item 'CWU PDA' (#5595)
+[15:47:37	]Teodor Jeske has gained a 'CWU PDA' #5595.
+[15:47:40	]Teodor Jeske has given himself a tool_wrench.
+[15:47:40	]Teodor Jeske has gained a 'Klucz' #5869.
+[15:47:41	]Teodor Jeske ran 'drop' on item 'Klucz' (#5869)
+[15:47:41	]Teodor Jeske has lost a 'Klucz' #5869.
+[15:48:04	]Teodor Jeske ran 'take' on item 'Klucz' (#5869)
+[15:48:04	]Teodor Jeske has gained a 'Klucz' #5869.
+[15:48:10	]Teodor Jeske has given himself a wrench.
+[15:48:15	]Teodor Jeske has given himself a wrench.
+[15:48:18	]Teodor Jeske ran 'drop' on item 'Syntetyczna papka' (#5667)
+[15:48:18	]Teodor Jeske has lost a 'Syntetyczna papka' #5667.
+[15:48:20	]Teodor Jeske ran 'drop' on item 'Okulary' (#2327)
+[15:48:20	]Teodor Jeske has lost a 'Okulary' #2327.
+[15:48:22	]Teodor Jeske ran 'drop' on item 'Transhumano' (#5573)
+[15:48:22	]Teodor Jeske has lost a 'Transhumano' #5573.
+[15:48:24	]Teodor Jeske ran 'drop' on item 'Racja żywnościowa podklasy' (#5650)
+[15:48:24	]Teodor Jeske has lost a 'Racja żywnościowa podklasy' #5650.
+[15:48:25	]Teodor Jeske ran 'drop' on item 'Worek z tkaniny' (#3028)
+[15:48:25	]Teodor Jeske has lost a 'Worek z tkaniny' #3028.
+[15:48:27	]Teodor Jeske ran 'drop' on item 'Klucz' (#5576)
+[15:48:27	]Teodor Jeske has lost a 'Klucz' #5576.
+[15:48:28	]Teodor Jeske ran 'drop' on item 'Czapka z daszkiem' (#5601)
+[15:48:28	]Teodor Jeske has lost a 'Czapka z daszkiem' #5601.
+[15:48:28	]Teodor Jeske ran 'drop' on item 'Klucz' (#5868)
+[15:48:28	]Teodor Jeske has lost a 'Klucz' #5868.
+[15:48:30	]Teodor Jeske ran 'drop' on item 'Pager' (#5621)
+[15:48:30	]Teodor Jeske has lost a 'Pager' #5621.
+[15:48:30	]Teodor Jeske ran 'drop' on item 'Syntetyczny Bourbon' (#5705)
+[15:48:30	]Teodor Jeske has lost a 'Syntetyczny Bourbon' #5705.
+[15:48:30	]Teodor Jeske ran 'drop' on item 'Pusta butelka po bourbonie' (#5632)
+[15:48:30	]Teodor Jeske has lost a 'Pusta butelka po bourbonie' #5632.
+[15:48:31	]Teodor Jeske ran 'drop' on item 'Apteczka pierwszej pomocy' (#5574)
+[15:48:31	]Teodor Jeske has lost a 'Apteczka pierwszej pomocy' #5574.
+[15:48:31	]Teodor Jeske ran 'drop' on item 'Bandaż' (#5575)
+[15:48:31	]Teodor Jeske has lost a 'Bandaż' #5575.
+[15:48:32	]Teodor Jeske ran 'drop' on item 'Klucz' (#5869)
+[15:48:32	]Teodor Jeske has lost a 'Klucz' #5869.
+[15:48:34	]Teodor Jeske has used a context menu option with the name: remove
+[15:48:36	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:36	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:37	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:37	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:37	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:37	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:38	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:38	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:38	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:39	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:39	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:39	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:39	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:40	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:40	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:40	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:40	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:41	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:41	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:41	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:42	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:42	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:42	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:42	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:43	]Teodor Jeske has fired a toolgun with the name: remover
+[15:48:47	]Teodor Jeske has given himself a wrench.
+[15:48:47	]Teodor Jeske has gained a 'Klucz' #5870.
+[15:48:49	]Teodor Jeske ran 'drop' on item 'Klucz' (#5870)
+[15:48:49	]Teodor Jeske has lost a 'Klucz' #5870.
+[15:49:03	]Teodor Jeske ran 'take' on item 'Data-Disc' (#5602)
+[15:49:03	]Teodor Jeske has gained a 'Data-Disc' #5602.
+[15:49:06	]Teodor Jeske ran 'drop' on item 'Data-Disc' (#5602)
+[15:49:06	]Teodor Jeske has lost a 'Data-Disc' #5602.
+[15:49:12	]Teodor Jeske ran 'take' on item 'Data-Disc' (#5602)
+[15:49:12	]Teodor Jeske has gained a 'Data-Disc' #5602.
+[15:49:22	]Teodor Jeske ran 'SetCredits' on item 'Karta identyfikacyjna #79989' (#2323)
+[15:49:23	]Wenli ustawił(a) kredyty karty #2323's na 2000.
+[15:49:24	]Teodor Jeske ran 'insert' on item 'Karta identyfikacyjna #79989' (#2323)
+[15:49:24	]Teodor Jeske has lost a 'Karta identyfikacyjna #79989' #2323.
+[15:49:25	]Teodor Jeske ran 'insert' on item 'Karta dostępu: Zarząd CWU' (#5594)
+[15:49:25	]Teodor Jeske has lost a 'Karta dostępu: Zarząd CWU' #5594.
+[15:49:35	]Teodor Jeske has spawned a combinebattery.
+[15:49:35	]Teodor Jeske has spawned a combinebattery.
+[15:49:35	]Teodor Jeske has spawned a combinebattery.
+[15:49:37	]Teodor Jeske ran 'SetFullCharge' on item 'Combine Battery' (#5872)
+[15:49:43	]Teodor Jeske ran 'SetFullCharge' on item 'Combine Battery' (#5871)
+[15:49:57	]Teodor Jeske has used a context menu option with the name: remove
+[15:50:01	]Teodor Jeske ran 'drop' on item 'Data-Disc' (#5602)
+[15:50:01	]Teodor Jeske has lost a 'Data-Disc' #5602.
+[15:50:18	]Teodor Jeske has spawned a comp_resin.
+[15:50:18	]Teodor Jeske has spawned a comp_resin.
+[15:50:19	]Teodor Jeske has spawned a comp_resin.
+[15:50:19	]Teodor Jeske has spawned a comp_resin.
+[15:50:20	]Teodor Jeske has spawned a comp_resin.
+[15:50:21	]Teodor Jeske has spawned a comp_resin.
+[15:50:21	]Teodor Jeske has spawned a comp_resin.
+[15:50:21	]Teodor Jeske has spawned a comp_resin.
+[15:50:22	]Teodor Jeske ran 'take' on item 'Resin' (#5881)
+[15:50:22	]Teodor Jeske has gained a 'Resin' #5881.
+[15:50:23	]Teodor Jeske ran 'take' on item 'Resin' (#5880)
+[15:50:23	]Teodor Jeske has gained a 'Resin' #5880.
+[15:50:24	]Teodor Jeske ran 'take' on item 'Resin' (#5879)
+[15:50:24	]Teodor Jeske has gained a 'Resin' #5879.
+[15:50:24	]Teodor Jeske ran 'take' on item 'Resin' (#5878)
+[15:50:24	]Teodor Jeske has gained a 'Resin' #5878.
+[15:50:25	]Teodor Jeske ran 'take' on item 'Resin' (#5877)
+[15:50:25	]Teodor Jeske has gained a 'Resin' #5877.
+[15:50:29	]Teodor Jeske has spawned a comp_resin.
+[15:50:30	]Teodor Jeske ran 'take' on item 'Resin' (#5882)
+[15:50:30	]Teodor Jeske has gained a 'Resin' #5882.
+[15:50:33	]Teodor Jeske has spawned a comp_resin.
+[15:50:33	]Teodor Jeske ran 'take' on item 'Resin' (#5883)
+[15:50:33	]Teodor Jeske has gained a 'Resin' #5883.
+[15:50:34	]Teodor Jeske has spawned a comp_resin.
+[15:50:35	]Teodor Jeske ran 'take' on item 'Resin' (#5884)
+[15:50:35	]Teodor Jeske has gained a 'Resin' #5884.
+[15:51:02	]Teodor Jeske ran 'take' on item 'Klucz' (#5885)
+[15:51:02	]Teodor Jeske has gained a 'Klucz' #5885.
+[15:51:05	]Teodor Jeske ran 'drop' on item 'Klucz' (#5885)
+[15:51:05	]Teodor Jeske has lost a 'Klucz' #5885.
+[15:55:38	]Teodor Jeske has used a context menu option with the name: remove
+[15:55:42	]Teodor Jeske has used a context menu option with the name: remove
+[15:55:44	]Teodor Jeske has used a context menu option with the name: remove
+[15:55:44	]Teodor Jeske entered observer.
+[15:55:45	]Teodor Jeske exited observer at their location.
+[15:55:46	]Teodor Jeske entered observer.
+[15:55:52	]Wenli (STEAM_0:1:86169246) has disconnected.

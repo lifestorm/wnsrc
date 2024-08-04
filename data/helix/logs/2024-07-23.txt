@@ -1,0 +1,66 @@
+[13:34:50	]inkaaz has connected.
+[13:35:48	]inkaaz loaded the character 'Henryk Cweles'
+[13:35:55	]Henryk Cweles entered observer.
+[13:35:56	]Henryk Cweles exited observer at their location.
+[13:47:45	]inkaaz (STEAM_0:0:50287200) has disconnected.
+[13:49:46	]inkaaz has connected.
+[13:50:07	]inkaaz loaded the character 'Henryk Cweles'
+[13:50:17	]Henryk Cweles has enabled the goi_cityfunds plugin for next restart.
+[13:55:08	]inkaaz has connected.
+[13:56:23	]inkaaz loaded the character 'Henryk Cweles'
+[13:59:37	]Henryk Cweles used command '/CityFundEditor'.
+[14:02:01	]inkaaz (STEAM_0:0:50287200) has disconnected.
+[15:36:51	]inkaaz has connected.
+[15:37:13	]inkaaz loaded the character 'Henryk Cweles'
+[15:38:37	]Henryk Cweles used command '/CityFundEditor'.
+[15:39:31	]Henryk Cweles entered observer.
+[15:39:31	]Henryk Cweles exited observer at their location.
+[15:39:32	]Henryk Cweles entered observer.
+[15:39:33	]Henryk Cweles exited observer at their location.
+[15:41:25	]Henryk Cweles entered observer.
+[15:41:25	]Henryk Cweles exited observer at their location.
+[15:41:29	]Henryk Cweles entered observer.
+[15:41:30	]Henryk Cweles exited observer at their location.
+[15:41:38	]Henryk Cweles entered observer.
+[15:41:38	]Henryk Cweles exited observer at their location.
+[15:41:39	]Henryk Cweles entered observer.
+[15:41:39	]Henryk Cweles exited observer at their location.
+[15:41:39	]Henryk Cweles entered observer.
+[15:41:45	]Henryk Cweles exited observer at their location.
+[15:41:46	]Henryk Cweles entered observer.
+[15:41:46	]Henryk Cweles exited observer at their location.
+[15:41:47	]Henryk Cweles entered observer.
+[15:41:54	]Henryk Cweles exited observer at their location.
+[15:41:55	]Henryk Cweles entered observer.
+[15:41:55	]Henryk Cweles exited observer at their location.
+[15:42:05	]Henryk Cweles used command '/CityFundEditor'.
+[15:42:53	]Henryk Cweles is fully healed.
+[15:43:45	]Henryk Cweles entered observer.
+[15:43:51	]Henryk Cweles exited observer at their location.
+[15:43:59	]Henryk Cweles entered observer.
+[15:44:00	]Henryk Cweles exited observer at their location.
+[15:44:06	]Henryk Cweles used command '/PlyWhitelist ^ board'.
+[15:44:57	]Henryk Cweles used command '/PlyTransfer ^ board'.
+[15:45:05	]Henryk Cweles has given himself a capda.
+[15:45:05	]Henryk Cweles has gained a 'PDA Administracji Cywilnej' #50913.
+[15:45:07	]Henryk Cweles ran 'Equip' on item 'PDA Administracji Cywilnej' (#50913)
+[15:46:01	]Henryk Cweles has given himself a pda.
+[15:46:01	]Henryk Cweles has gained a 'PDA Kombinatu' #50914.
+[15:46:03	]Henryk Cweles ran 'Equip' on item 'PDA Kombinatu' (#50914)
+[15:46:05	]Henryk Cweles ran 'EquipUn' on item 'PDA Administracji Cywilnej' (#50913)
+[15:46:05	]Henryk Cweles ran 'Equip' on item 'PDA Kombinatu' (#50914)
+[15:47:18	]Henryk Cweles has spawned a 'Entity [403][ix_terminal]'.
+[15:49:02	]Henryk Cweles has spawned a 'Entity [410][ix_cwuterminal]'.
+[15:49:40	]Henryk Cweles ran 'insert' on item 'Karta identyfikacyjna #91942' (#50799)
+[15:49:40	]Henryk Cweles has lost a 'Karta identyfikacyjna #91942' #50799.
+[15:50:41	]Henryk Cweles ran 'take' on item 'Karta identyfikacyjna #91942' (#50799)
+[15:50:41	]Henryk Cweles has gained a 'Karta identyfikacyjna #91942' #50799.
+[15:50:46	]Henryk Cweles has spawned a 'Entity [411][ix_shopterminal]'.
+[15:51:01	]Henryk Cweles ran 'SetCredits' on item 'Karta identyfikacyjna #91942' (#50799)
+[15:51:08	]Henryk Cweles has spawned a 'Entity [411][ix_workshiftterminal]'.
+[15:51:19	]Henryk Cweles entered observer.
+[15:51:19	]Henryk Cweles exited observer at their location.
+[15:51:20	]Henryk Cweles entered observer.
+[15:51:40	]Henryk Cweles exited observer at their location.
+[15:51:41	]Henryk Cweles has spawned a 'Entity [410][ix_terminal]'.
+[15:52:11	]inkaaz (STEAM_0:0:50287200) has disconnected.

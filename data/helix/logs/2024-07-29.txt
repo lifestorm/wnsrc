@@ -1,0 +1,233 @@
+[00:00:00	][IC] C24:RCT.YELLO-27: <:: R. ::>
+[00:00:08	]C24:RCT.YELLO-04 has critically hit C24:RCT.YELLO-27 dealing 24 damage (CritChance was 0.83).
+[00:00:08	]C24:RCT.YELLO-27 has taken 24 damage from C24:RCT.YELLO-04.
+[00:00:09	]C24:RCT.YELLO-04 has critically hit C24:RCT.YELLO-27 dealing 24 damage (CritChance was 0.83).
+[00:00:09	]C24:RCT.YELLO-27 has taken 24 damage from C24:RCT.YELLO-04.
+[00:00:14	]C24:RCT.YELLO-27 has spawned a magazine_sniper.
+[00:00:15	]C24:RCT.YELLO-27 has spawned a magazine_sniper.
+[00:00:15	]C24:RCT.YELLO-27 has spawned a magazine_sniper.
+[00:00:15	]C24:RCT.YELLO-27 has spawned a magazine_sniper.
+[00:00:16	]C24:RCT.YELLO-27 has spawned a magazine_sniper.
+[00:00:16	]C24:RCT.YELLO-27 has spawned a magazine_sniper.
+[00:00:19	]C24:RCT.YELLO-04 ran 'EquipUn' on item 'CV-2000 Pałka Paralizująca' (#51186)
+[00:00:25	]C24:RCT.YELLO-04 ran 'Equip' on item 'AWP' (#51187)
+[00:00:25	]C24:RCT.YELLO-27 has spawned a bullets_assaultrifle.
+[00:00:26	]C24:RCT.YELLO-27 has spawned a bullets_assaultrifle.
+[00:00:27	]C24:RCT.YELLO-27 has spawned a bullets_assaultrifle.
+[00:00:34	]C24:RCT.YELLO-04 ran 'take' on item '5-nabojowy magazynek do AWP' (#51188)
+[00:00:34	]C24:RCT.YELLO-04 has gained a '5-nabojowy magazynek do AWP' #51188.
+[00:00:35	]C24:RCT.YELLO-04 ran 'take' on item '5-nabojowy magazynek do AWP' (#51193)
+[00:00:35	]C24:RCT.YELLO-04 has gained a '5-nabojowy magazynek do AWP' #51193.
+[00:00:36	]C24:RCT.YELLO-04 ran 'take' on item '5-nabojowy magazynek do AWP' (#51190)
+[00:00:36	]C24:RCT.YELLO-04 has gained a '5-nabojowy magazynek do AWP' #51190.
+[00:00:38	]C24:RCT.YELLO-04 ran 'take' on item 'Amunicja karabinowa' (#51196)
+[00:00:38	]C24:RCT.YELLO-04 has gained a 'Amunicja karabinowa' #51196.
+[00:00:42	]C24:RCT.YELLO-04 ran 'take' on item 'Amunicja karabinowa' (#51194)
+[00:00:42	]C24:RCT.YELLO-04 has gained a 'Amunicja karabinowa' #51194.
+[00:00:55	]C24:RCT.YELLO-27 ran 'clearChamber' on item 'Deagle' (#51148)
+[00:00:55	]C24:RCT.YELLO-27 has gained a 'Amunicja .357' #51197.
+[00:01:03	]C24:RCT.YELLO-27 ran 'drop' on item 'Deagle' (#51148)
+[00:01:03	]C24:RCT.YELLO-27 has lost a 'Deagle' #51148.
+[00:01:07	]C24:RCT.YELLO-27 ran 'take' on item 'Deagle' (#51148)
+[00:01:07	]C24:RCT.YELLO-27 has gained a 'Deagle' #51148.
+[00:01:09	]C24:RCT.YELLO-27 ran 'drop' on item 'Deagle' (#51148)
+[00:01:09	]C24:RCT.YELLO-27 has lost a 'Deagle' #51148.
+[00:01:28	]C24:RCT.YELLO-27 has spawned a bullets_sniper.
+[00:01:29	]C24:RCT.YELLO-27 has spawned a bullets_sniper.
+[00:01:30	]C24:RCT.YELLO-27 has spawned a bullets_sniper.
+[00:01:30	]C24:RCT.YELLO-27 has spawned a bullets_sniper.
+[00:01:31	]C24:RCT.YELLO-27 has spawned a bullets_sniper.
+[00:01:33	]C24:RCT.YELLO-04 ran 'take' on item 'Amunicja snajperska' (#51202)
+[00:01:33	]C24:RCT.YELLO-04 has gained a 'Amunicja snajperska' #51202.
+[00:01:34	]C24:RCT.YELLO-04 ran 'take' on item 'Amunicja snajperska' (#51200)
+[00:01:34	]C24:RCT.YELLO-04 has gained a 'Amunicja snajperska' #51200.
+[00:01:37	]C24:RCT.YELLO-04 ran 'combine' on item '5-nabojowy magazynek do AWP' (#51190)
+[00:01:41	]C24:RCT.YELLO-04 ran 'combine' on item '5-nabojowy magazynek do AWP' (#51193)
+[00:01:42	]C24:RCT.YELLO-04 ran 'combine' on item '5-nabojowy magazynek do AWP' (#51188)
+[00:01:51	]C24:RCT.YELLO-04 has lost a '5-nabojowy magazynek do AWP' #51193.
+[00:02:02	][IC] C24:RCT.YELLO-27: <:: R. ::>
+[00:02:02	]C24:RCT.YELLO-04 has gained a '5-nabojowy magazynek do AWP' #51193.
+[00:02:02	]C24:RCT.YELLO-04 has lost a '5-nabojowy magazynek do AWP' #51190.
+[00:02:05	]C24:RCT.YELLO-04 has gained a '5-nabojowy magazynek do AWP' #51190.
+[00:02:05	]C24:RCT.YELLO-04 has lost a '5-nabojowy magazynek do AWP' #51188.
+[00:02:17	]C24:RCT.YELLO-27 has spawned a 'NPC [608][npc_metropolice]'.
+[00:02:28	]C24:RCT.YELLO-27 has spawned a 'NPC [608][npc_vj_hlr2_refugee]'.
+[00:02:31	]C24:RCT.YELLO-04 has hit npc_vj_hlr2_refugee in the head dealing 95 damage (CritChance was 0.06).
+[00:02:51	]C24:RCT.YELLO-27 has spawned a 'NPC [608][npc_vj_civil_protection_z]'.
+[00:02:52	]C24:RCT.YELLO-27 has taken 5 damage from Civil Protection.
+[00:02:52	]C24:RCT.YELLO-27 has taken 5 damage from Civil Protection.
+[00:02:52	]C24:RCT.YELLO-27 has taken 1 damage from Civil Protection.
+[00:02:52	]C24:RCT.YELLO-27 has taken 5 damage from Civil Protection.
+[00:02:52	]C24:RCT.YELLO-27 was knocked unconscious and is bleeding out.
+[00:02:53	]C24:RCT.YELLO-04 has taken 1 damage from Civil Protection.
+[00:02:53	]Civil Protection destroyed a 'Amunicja karabinowa' #51195.
+[00:02:53	]C24:RCT.YELLO-04 has taken 5 damage from Civil Protection.
+[00:02:53	]C24:RCT.YELLO-04 has hit npc_vj_civil_protection_z in the chest dealing 95 damage (CritChance was 0.19).
+[00:03:11	]C24:RCT.YELLO-04 has gained a '5-nabojowy magazynek do AWP' #51188.
+[00:03:11	]C24:RCT.YELLO-04 has lost a '5-nabojowy magazynek do AWP' #51190.
+[00:03:12	]C24:RCT.YELLO-27 has dropped: 7-nabojowy magazynek do Deagle'a (#51156); 17-nabojowy magazynek do USP (#51149); 1x Amunicja .357 (#51157); Lightweight Functionary Uniform (City 8) (#51142); 7-nabojowy magazynek do Deagle'a (#51154); 7-nabojowy magazynek do Deagle'a (#51151); 7-nabojowy magazynek do Deagle'a (#51153); 1x Amunicja .357 (#51197); Zaawansowana maska przeciwgazowa PMG-5 (AUG) (#51146); 103x Amunicja kalibru 9mm (#51150); 7-nabojowy magazynek do Deagle'a (#51155);
+[00:03:12	]C24:RCT.YELLO-27 was just killed due to: accepting their death
+[00:03:15	]C24:RCT.YELLO-27 entered observer.
+[00:03:21	]C24:RCT.YELLO-27 exited observer at their location.
+[00:04:05	]C24:RCT.YELLO-27 has hit C24:RCT.YELLO-04 in the right arm dealing 8 damage (CritChance was 0.00).
+[00:04:05	]C24:RCT.YELLO-04 has taken 8 damage from C24:RCT.YELLO-27.
+[00:04:11	]C24:RCT.YELLO-27 has hit C24:RCT.YELLO-04 in the right arm dealing 8 damage (CritChance was 0.00).
+[00:04:11	]C24:RCT.YELLO-04 has taken 8 damage from C24:RCT.YELLO-27.
+[00:04:15	]C24:RCT.YELLO-04 has hit C24:RCT.YELLO-27 in the stomach dealing 95 damage (CritChance was 0.26).
+[00:04:15	]C24:RCT.YELLO-27 has taken 95 damage from C24:RCT.YELLO-04.
+[00:04:17	]C24:RCT.YELLO-27 is fully healed.
+[00:04:23	]C24:RCT.YELLO-04 has gained a '5-nabojowy magazynek do AWP' #51190.
+[00:04:23	]C24:RCT.YELLO-04 has lost a '5-nabojowy magazynek do AWP' #51193.
+[00:05:02	]C24:RCT.YELLO-27 is fully healed.
+[00:05:10	]C24:RCT.YELLO-27 has taken 8 damage from worldspawn.
+[00:05:32	]C24:RCT.YELLO-27 is fully healed.
+[00:05:38	]C24:RCT.YELLO-04 has hit C24:RCT.YELLO-27 in the stomach dealing 95 damage (CritChance was 0.26).
+[00:05:38	]C24:RCT.YELLO-27 has taken 95 damage from C24:RCT.YELLO-04.
+[00:05:38	]C24:RCT.YELLO-04 has hit C24:RCT.YELLO-27 in the stomach dealing 95 damage (CritChance was 0.26).
+[00:05:38	]C24:RCT.YELLO-27 has taken 95 damage from C24:RCT.YELLO-04.
+[00:05:44	]C24:RCT.YELLO-27 has hit C24:RCT.YELLO-04 in the left arm dealing 2 damage (CritChance was 0.00).
+[00:05:44	]C24:RCT.YELLO-04 has taken 2 damage from C24:RCT.YELLO-27.
+[00:05:44	]C24:RCT.YELLO-27 has hit C24:RCT.YELLO-04 in the chest dealing 12 damage (CritChance was 0.00).
+[00:05:44	]C24:RCT.YELLO-04 has taken 12 damage from C24:RCT.YELLO-27.
+[00:05:44	]C24:RCT.YELLO-27 has hit C24:RCT.YELLO-04 in the left arm dealing 2 damage (CritChance was 0.00).
+[00:05:44	]C24:RCT.YELLO-04 has taken 2 damage from C24:RCT.YELLO-27.
+[00:05:44	]C24:RCT.YELLO-27 has hit C24:RCT.YELLO-04 in the chest dealing 12 damage (CritChance was 0.00).
+[00:05:44	]C24:RCT.YELLO-04 has taken 12 damage from C24:RCT.YELLO-27.
+[00:05:44	]C24:RCT.YELLO-27 has hit C24:RCT.YELLO-04 in the left arm dealing 2 damage (CritChance was 0.00).
+[00:05:44	]C24:RCT.YELLO-04 has taken 2 damage from C24:RCT.YELLO-27.
+[00:05:44	]C24:RCT.YELLO-27 has hit C24:RCT.YELLO-04 in the chest dealing 12 damage (CritChance was 0.00).
+[00:05:44	]C24:RCT.YELLO-04 has taken 12 damage from C24:RCT.YELLO-27.
+[00:05:44	]C24:RCT.YELLO-27 has hit C24:RCT.YELLO-04 in the chest dealing 12 damage (CritChance was 0.00).
+[00:05:44	]C24:RCT.YELLO-04 has taken 12 damage from C24:RCT.YELLO-27.
+[00:05:45	]C24:RCT.YELLO-27 has hit C24:RCT.YELLO-04 in the head dealing 24 damage (CritChance was 0.00).
+[00:05:45	]C24:RCT.YELLO-04 has gained a '5-nabojowy magazynek do AWP' #51193.
+[00:05:45	]C24:RCT.YELLO-04 was knocked unconscious and is bleeding out.
+[00:06:09	]C24:RCT.YELLO-04 has dropped: 15x Amunicja snajperska (#51200); Lightweight Functionary Uniform (City 8) (#51181); 5-nabojowy magazynek do AWP (#51190); AWP (#51187); 5-nabojowy magazynek do AWP (#51188); 120x Amunicja karabinowa (#51194); 5-nabojowy magazynek do AWP (#51193); Maska przeciwgazowa PMG-5 (AUG) (#51182); CV-2000 Pałka Paralizująca (#51186); 120x Amunicja karabinowa (#51196);
+[00:06:09	]C24:RCT.YELLO-04 was just killed due to: accepting their death
+[00:06:17	]C24:RCT.YELLO-27 entered observer.
+[00:06:18	]C24:RCT.YELLO-27 entered observer.
+[00:06:22	]C24:RCT.YELLO-27 is fully healed.
+[00:06:28	]C24:RCT.YELLO-27 exited observer at their location.
+[00:07:01	]C24:RCT.YELLO-27 has spawned a 'Entity [608][ix_campfire]'.
+[00:07:05	]C24:RCT.YELLO-27 has spawned a 'Entity [608][hl2r_rpg]'.
+[00:07:09	]C24:RCT.YELLO-27 has spawned a 'Entity [608][pfx1_00]'.
+[00:07:15	]C24:RCT.YELLO-27 has spawned a 'Entity [608][pfx2_06]'.
+[00:07:19	]C24:RCT.YELLO-27 has spawned a 'Entity [610][pfx2_06~]'.
+[00:07:24	]C24:RCT.YELLO-27 has spawned a 'Entity [608][pfx8_03]'.
+[00:07:29	]C24:RCT.YELLO-27 has spawned a 'Entity [608][obj_vj_xen_grenade]'.
+[00:07:32	]C24:RCT.YELLO-04 has taken 57 damage from obj_vj_xen_grenade.
+[00:08:16	]Mensu (STEAM_0:0:31675788) has disconnected.
+[00:08:53	]lopata180 (STEAM_0:0:528213256) has disconnected.
+[04:27:54	]inkaaz has connected.
+[04:32:34	]inkaaz loaded the character 'Henryk Cweles'
+[04:39:04	]Henryk Cweles has gone afk.
+[04:45:59	]Henryk Cweles is fully healed.
+[04:51:59	]Henryk Cweles is no longer afk. Total time spent AFK: 1070
+[05:01:29	]Henryk Cweles has gone afk.
+[05:01:39	]Henryk Cweles is no longer afk. Total time spent AFK: 305
+[05:07:09	]Henryk Cweles has gone afk.
+[05:27:59	]Henryk Cweles is no longer afk. Total time spent AFK: 1545
+[05:28:28	]Henryk Cweles entered observer.
+[05:29:07	]Henryk Cweles exited observer at their location.
+[05:36:26	]Henryk Cweles entered observer.
+[05:36:26	]Henryk Cweles exited observer at their location.
+[05:36:27	]Henryk Cweles entered observer.
+[05:36:33	]Henryk Cweles exited observer at their location.
+[05:36:34	]Henryk Cweles entered observer.
+[05:36:36	]Henryk Cweles exited observer at their location.
+[05:38:59	]Henryk Cweles entered observer.
+[05:38:59	]Henryk Cweles exited observer at their location.
+[05:39:00	]Henryk Cweles entered observer.
+[05:39:03	]Henryk Cweles exited observer at their location.
+[05:39:04	]Henryk Cweles entered observer.
+[05:39:08	]Henryk Cweles exited observer at their location.
+[05:39:45	]Henryk Cweles has spawned a 'Entity [544][ix_terminal]'.
+[06:00:17	]Henryk Cweles has spawned a trash_bin.
+[06:00:25	]Henryk Cweles entered observer.
+[06:00:31	]Henryk Cweles exited observer at their location.
+[06:01:58	]Henryk Cweles entered observer.
+[06:02:03	]Henryk Cweles exited observer at their location.
+[06:04:42	]Henryk Cweles entered observer.
+[06:04:44	]Henryk Cweles exited observer at their location.
+[06:05:19	]Henryk Cweles entered observer.
+[06:05:30	]Henryk Cweles exited observer at their location.
+[06:06:34	]Henryk Cweles entered observer.
+[06:06:44	]Henryk Cweles exited observer at their location.
+[06:07:33	]inkaaz (STEAM_0:0:50287200) has disconnected.
+[18:10:04	]Cole has connected.
+[18:19:50	]Cole loaded the character 'Sergei Olegovich Semyonov'
+[18:20:22	]Sergei Olegovich Semyonov entered observer.
+[18:20:30	]Sergei Olegovich Semyonov exited observer.
+[18:20:35	]Sergei Olegovich Semyonov ran 'Write' on item 'Major weźmie ślub!' (#51135)
+[18:22:33	]Sergei Olegovich Semyonov ran 'drop' on item 'Spoiled Syntetyczna papka' (#51137)
+[18:22:33	]Sergei Olegovich Semyonov has lost a 'Spoiled Syntetyczna papka' #51137.
+[18:23:04	]Sergei Olegovich Semyonov ran 'take' on item 'Combine Battery' (#51066)
+[18:23:04	]Sergei Olegovich Semyonov has gained a 'Combine Battery' #51066.
+[18:23:07	]Sergei Olegovich Semyonov ran 'drop' on item 'Combine Battery' (#51066)
+[18:23:07	]Sergei Olegovich Semyonov has lost a 'Combine Battery' #51066.
+[18:23:22	]Sergei Olegovich Semyonov ran 'take' on item 'Biopaste' (#51204)
+[18:23:22	]Sergei Olegovich Semyonov has gained a 'Biopaste' #51204.
+[18:24:02	]Sergei Olegovich Semyonov has spawned a 'Entity [544][ix_rationdispenser]'.
+[18:25:36	]Sergei Olegovich Semyonov entered observer.
+[18:25:37	]Sergei Olegovich Semyonov exited observer.
+[18:25:38	]Sergei Olegovich Semyonov entered observer.
+[18:25:54	]Sergei Olegovich Semyonov exited observer.
+[18:26:06	]Sergei Olegovich Semyonov has spawned a 'Entity [588][ix_containerlock]'.
+[18:26:17	]Sergei Olegovich Semyonov has spawned a 'Entity [588][ix_trashcollector]'.
+[18:30:21	]Sergei Olegovich Semyonov used command '/modelAnims'.
+[18:33:26	][IC] Sergei Olegovich Semyonov: T.
+[18:49:16	]Sergei Olegovich Semyonov used command '/modelAnims'.
+[18:49:42	]Cole has unloaded their "Sergei Olegovich Semyonov" character.
+[18:49:46	]Cole loaded the character 'C24:RCT.YELLO-03'
+[18:49:53	]C24:RCT.YELLO-03 used command '/modelAnims'.
+[18:53:19	]C24:RCT.YELLO-03 used command '/ActKnock'.
+[18:53:20	]C24:RCT.YELLO-03 used command '/ExitAct'.
+[18:53:22	]C24:RCT.YELLO-03 used command '/ActKnockIdle'.
+[18:53:23	]C24:RCT.YELLO-03 used command '/ExitAct'.
+[18:57:13	]Cole has unloaded their "C24:RCT.YELLO-03" character.
+[18:57:15	]Cole (STEAM_0:1:72989612) has disconnected.
+[19:25:28	]Pocieszny has connected.
+[19:25:36	][AltChecker] Pocieszny joined for the first time, generating new cookie.
+[19:29:15	]Pocieszny created the character 'rdeatrewtewrterwterwt wertewrt'
+[19:29:15	]rdeatrewtewrterwterwt wertewrt has gained a 'Walizka' #51205.
+[19:29:15	]rdeatrewtewrterwterwt wertewrt has gained a 'Latarka' #51206.
+[19:29:15	]rdeatrewtewrterwterwt wertewrt has gained a 'Jasnoszara opaska' #51207.
+[19:29:15	]rdeatrewtewrterwterwt wertewrt has gained a 'Karta identyfikacyjna #48659' #51208.
+[19:29:15	]rdeatrewtewrterwterwt wertewrt has gained a 'Czarny uniform' #51209.
+[19:29:15	]rdeatrewtewrterwterwt wertewrt has gained a 'Zielone luźne spodnie' #51210.
+[19:29:15	]rdeatrewtewrterwterwt wertewrt has gained a 'Buty z czarnej skóry' #51211.
+[19:29:15	]Pocieszny loaded the character 'rdeatrewtewrterwterwt wertewrt'
+[19:36:15	]rdeatrewtewrterwterwt wertewrt has gone afk.
+[20:18:55	]rdeatrewtewrterwterwt wertewrt is no longer afk. Total time spent AFK: 2855
+[20:35:25	]rdeatrewtewrterwterwt wertewrt has gone afk.
+[20:36:25	]rdeatrewtewrterwterwt wertewrt is no longer afk. Total time spent AFK: 355
+[20:47:12	]Pocieszny (STEAM_0:1:75539087) has disconnected.
+[20:56:51	]Mateusz Smażonymężczyzna has connected.
+[20:57:27	]Mateusz Smażonymężczyzna loaded the character 'C24:RCT.YELLO-51'
+[20:57:32	]C24:RCT.YELLO-51 is fully healed.
+[20:57:32	]C24:RCT.YELLO-51 entered observer.
+[20:57:43	]C24:RCT.YELLO-51 exited observer at their location.
+[20:57:46	]C24:RCT.YELLO-51 entered observer.
+[20:59:05	]C24:RCT.YELLO-51 exited observer at their location.
+[20:59:08	]C24:RCT.YELLO-51 ran 'Write' on item 'Major weźmie ślub!' (#51135)
+[20:59:11	]C24:RCT.YELLO-51 ran 'Write' on item 'Major weźmie ślub!' (#51135)
+[21:00:12	]C24:RCT.YELLO-51 ran 'insert' on item 'Karta identyfikacyjna #32355' (#51041)
+[21:00:12	]C24:RCT.YELLO-51 has lost a 'Karta identyfikacyjna #32355' #51041.
+[21:00:23	]C24:RCT.YELLO-51 ran 'take' on item 'Karta identyfikacyjna #32355' (#51041)
+[21:00:23	]C24:RCT.YELLO-51 has gained a 'Karta identyfikacyjna #32355' #51041.
+[21:00:51	]C24:RCT.YELLO-51 entered observer.
+[21:00:53	]C24:RCT.YELLO-51 exited observer at their location.
+[21:01:11	]C24:RCT.YELLO-51 entered observer.
+[21:01:11	]C24:RCT.YELLO-51 exited observer at their location.
+[21:01:33	]C24:RCT.YELLO-51 entered observer.
+[21:01:35	]C24:RCT.YELLO-51 exited observer at their location.
+[21:01:36	]C24:RCT.YELLO-51 entered observer.
+[21:01:36	]C24:RCT.YELLO-51 exited observer at their location.
+[21:01:38	]C24:RCT.YELLO-51 entered observer.
+[21:01:38	]C24:RCT.YELLO-51 exited observer at their location.
+[21:01:41	]C24:RCT.YELLO-51 entered observer.
+[21:01:52	]C24:RCT.YELLO-51 exited observer at their location.
+[21:02:37	]C24:RCT.YELLO-51 has acquired his ration, gaining 0 credits, 0 wages and a ration ration.
+[21:02:52	]C24:RCT.YELLO-51 entered observer.
+[21:02:54	]C24:RCT.YELLO-51 exited observer at their location.
+[21:03:27	]Mateusz Smażonymężczyzna (STEAM_0:1:74817884) has disconnected.

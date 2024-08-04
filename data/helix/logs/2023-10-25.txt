@@ -1,0 +1,206 @@
+[20:16:19	]The Wysoka szafka na dokumenty container (#0) was removed due to inactivity.
+[20:18:25	]The Szafka na dokumenty container (#589) was inactive and has been soft-removed.
+[20:22:48	]Loxy has connected.
+[20:23:31	]Loxy loaded the character 'Jack Heathrow'
+[20:24:01	][IC] Jack Heathrow: !link.
+[20:24:02	]Pozytyw has connected.
+[20:24:34	]Jack Heathrow used command '/LinkAccount loxy.2'.
+[20:24:46	]Jack Heathrow used command '/LinkAccount https://wnveles.pl/members/loxy.2/'.
+[20:24:56	]Jack Heathrow used command '/LinkAccount Loxy'.
+[20:24:57	]Pozytyw loaded the character 'Pozytyw'
+[20:24:57	]Pozytyw their 'schowek "grizzly"' stash no longer exists, location reset.
+[20:25:02	]Pozytyw is fully healed.
+[20:25:24	]Pozytyw used command '/PM jack jestem, daj permisje'.
+[20:25:34	]Jack Heathrow used command '/PM pozytyw zlinkuj konto z forum /linkaccount'.
+[20:25:41	]Jack Heathrow used command '/LinkAccount loxy'.
+[20:25:54	]Pozytyw used command '/LinkAccount https://wnveles.pl/members/pozytyw.7/'.
+[20:26:03	]Pozytyw used command '/LinkAccount pozytyw.7'.
+[20:26:10	]Jack Heathrow used command '/LinkAccount https://wnveles.pl/members/loxy.2/'.
+[20:26:16	]Pozytyw used command '/LinkAccount <https://wnveles.pl/members/pozytyw.7/>'.
+[20:26:17	]Jack Heathrow used command '/LinkAccount https://wnveles.pl/members/loxy.2'.
+[20:26:27	]Pozytyw used command '/PM j coś nie działa'.
+[20:26:36	]Jack Heathrow used command '/PM pozytyw no wlasnie widze kurwa nie, zara ogarne'.
+[20:26:43	]Pozytyw used command '/PM j ok'.
+[20:26:49	]Console ran SAM command 'setrank' with arguments: 'heathrow' 'developer' '0'
+[20:26:59	]Console ran SAM command 'setrank' with arguments: 'heathrow' 'developer' '0'
+[20:26:59	]Console ran SAM command 'setrank' with arguments: 'heathrow' 'developer' '0'
+[20:26:59	]Console ran SAM command 'setrank' with arguments: 'heathrow' 'developer' '0'
+[20:27:00	]Console ran SAM command 'setrank' with arguments: 'heathrow' 'developer' '0'
+[20:27:00	]Console ran SAM command 'setrank' with arguments: 'heathrow' 'developer' '0'
+[20:27:00	]Console ran SAM command 'setrank' with arguments: 'heathrow' 'developer' '0'
+[20:27:00	]Console ran SAM command 'setrank' with arguments: 'heathrow' 'developer' '0'
+[20:27:06	]Console ran SAM command 'setrank' with arguments: 'heathrow' 'superadmin' '0'
+[20:27:10	]Jack Heathrow ran SAM command 'goto' with arguments: 'pozytyw'
+[20:27:12	]Jack Heathrow has taken 180 damage from worldspawn.
+[20:27:16	]Jack Heathrow ran SAM command 'bring' with arguments: 'pozytyw'
+[20:27:23	]Jack Heathrow ran SAM command 'bring' with arguments: 'pozytyw'
+[20:27:37	]Jack Heathrow used command '/GroupInvite xpp'.
+[20:27:41	][IC] Jack Heathrow: Akceptuj.
+[20:27:50	][IC] Jack Heathrow: Masz grupe.
+[20:27:52	][IC] Jack Heathrow: Pod tabem.
+[20:27:53	][IC] Jack Heathrow: Normalnie?
+[20:28:13	][IC] Pozytyw: A bo vc wyłączyłeś.
+[20:28:17	][IC] Jack Heathrow: !heal ^.
+[20:28:21	][IC] Jack Heathrow: No off jest pisz.
+[20:28:26	][IC] Pozytyw: Jest grupa.
+[20:28:28	]Jack Heathrow set allowVoice to '[true]'.
+[20:28:28	][IC] Pozytyw: Normalnie.
+[20:28:31	][IC] Jack Heathrow: Dobra.
+[20:28:33	][IC] Jack Heathrow: Zrob reloga.
+[20:28:37	][IC] Jack Heathrow: Na szybko.
+[20:28:38	]Pozytyw (STEAM_0:0:84397718) has disconnected.
+[20:30:54	]Pozytyw has connected.
+[20:31:58	]Pozytyw loaded the character 'Hamilton Johnson'
+[20:32:11	][W] Hamilton Johnson: J jestem.
+[20:32:18	]Hamilton Johnson used command '/PM j jestem'.
+[20:32:26	]Jack Heathrow ran SAM command 'bring' with arguments: 'hamilton'
+[20:32:28	][IC] Jack Heathrow: Ty postac.
+[20:32:29	][IC] Jack Heathrow: Zmieniles.
+[20:32:35	][IC] Jack Heathrow: No.
+[20:32:43	][IC] Jack Heathrow: XD.
+[20:33:06	]Jack Heathrow used command '/PlyWhitelist hamilton admin'.
+[20:33:14	][IC] Jack Heathrow: Kurwa jebane linkaccount.
+[20:33:30	][IC] Jack Heathrow: Tak to ma dzialac.
+[20:33:58	][IC] Jack Heathrow: Teraz to mamy powazniejszy prbolem.
+[20:34:03	][IC] Jack Heathrow: Ze konta sie nie da zlinkowac.
+[20:34:04	][IC] Jack Heathrow: XD.
+[20:34:19	][IC] Jack Heathrow: Ich.
+[20:34:42	]Hamilton Johnson used command '/LinkAccount pozytyw.7'.
+[20:34:45	][IC] Jack Heathrow: Moment sprawdzma.
+[20:35:36	]Jack Heathrow used command '/LinkAccount https://willard.network/forums/members/loxy.948/'.
+[20:35:37	][XENFORO-LINK] Send message error: {"errors":[{"params":[],"code":"api_key_not_found","message":"API key provided in request was not found."}]}
+[20:36:11	]Jack Heathrow used command '/LinkAccount https://wnveles.pl/forums/members/loxy.2/'.
+[20:38:46	]Jack Heathrow used command '/LinkAccount https://wnveles.pl/members/loxy.2/'.
+[20:38:57	][IC] Jack Heathrow: Moment.
+[20:39:11	]Jack Heathrow used command '/LinkAccount https://wnveles.pl/members/loxy.2/'.
+[20:39:14	][IC] Jack Heathrow: Teraz.
+[20:39:19	][IC] Jack Heathrow: Daj link do swojego profilu.
+[20:39:20	][IC] Jack Heathrow: Ta.
+[20:39:29	]Hamilton Johnson used command '/LinkAccount https://wnveles.pl/members/pozytyw.7/'.
+[20:39:33	]Jack Heathrow used command '/LinkComplete YXuhpzy6WNUQ'.
+[20:39:37	][IC] Jack Heathrow: Pv powinienes dostac.
+[20:39:39	][IC] Jack Heathrow: Teraz.
+[20:39:42	][IC] Jack Heathrow: Na forum.
+[20:39:52	]Hamilton Johnson used command '/LinkComplete XktX41C61PAK'.
+[20:40:51	][IC] Jack Heathrow: Tera masz admuina.
+[20:40:53	][IC] Jack Heathrow: Powinienes miec.
+[20:40:55	][IC] Jack Heathrow: Normalnie.
+[20:40:57	][IC] Jack Heathrow: I whitelisty.
+[20:41:02	]Jack Heathrow ran SAM command 'menu' with arguments: ''
+[20:41:07	][IC] Jack Heathrow: Ta zrobie tez.
+[20:41:09	]Loxy (STEAM_0:1:421238310) has disconnected.
+[20:41:10	]Pozytyw (STEAM_0:0:84397718) has disconnected.
+[20:43:13	]Pozytyw has connected.
+[20:44:32	]Pozytyw loaded the character 'Hamilton Johnson'
+[20:45:18	]Loxy has connected.
+[20:46:04	]Loxy loaded the character 'Jack Heathrow'
+[20:46:10	][IC] Jack Heathrow: Nie dziala.
+[20:46:12	][IC] Jack Heathrow: Tomek cos zjebal.
+[20:46:14	][IC] Jack Heathrow: XD.
+[20:46:38	][IC] Jack Heathrow: Czekaj.
+[20:46:39	][IC] Jack Heathrow: Widze.
+[20:47:28	]Jack Heathrow ran SAM command 'menu' with arguments: ''
+[20:47:36	][IC] Jack Heathrow: Hm.
+[20:47:53	][IC] Jack Heathrow: Dziala.
+[20:47:55	][IC] Jack Heathrow: Znaczy.
+[20:47:57	][IC] Jack Heathrow: Bedzie dzialac.
+[20:48:13	][IC] Jack Heathrow: Spalilbym wszystkich zydow.
+[20:48:29	][IC] Jack Heathrow: Dobra mozesz spierdalac.
+[20:48:31	][IC] Jack Heathrow: Ja ide robic.
+[20:48:35	][IC] Jack Heathrow: Texty screeny.
+[20:48:45	][IC] Jack Heathrow: Jutro czwartek juz wtf.
+[20:49:00	][IC] Jack Heathrow: Nwm moze dodamy jakies propy.
+[20:49:16	][IC] Jack Heathrow: Jebie mnie tooooo.
+[20:49:18	][IC] Jack Heathrow: Ani razu.
+[20:49:21	][IC] Jack Heathrow: Nie oglosilismy.
+[20:49:22	][IC] Jack Heathrow: Startu.
+[20:49:26	][IC] Jack Heathrow: A to ze ktos plikow nie potrafi mergowac.
+[20:49:28	][IC] Jack Heathrow: To nie moja wina.
+[20:49:35	]Console ran SAM command 'setrank' with arguments: 'heathrow' 'superadmin' '0'
+[20:49:37	][IC] Jack Heathrow: To osoba.
+[20:49:40	][IC] Jack Heathrow: Ktorej juz nie ma.
+[20:49:50	]Jack Heathrow used command '/TextAdd niee'.
+[20:49:52	][IC] Jack Heathrow: Niee.
+[20:50:14	][IC] Jack Heathrow: Wyjebane juz joł joł.
+[20:50:15	][IC] Jack Heathrow: Dziekuwa.
+[20:50:31	][IC] Jack Heathrow: Ogarniemy to stary.
+[20:50:35	]Pozytyw (STEAM_0:0:84397718) has disconnected.
+[20:51:39	]Jack Heathrow used command '/TextAdd niee'.
+[20:51:51	]Jack Heathrow used command '/TextAdd niee'.
+[20:52:25	]Jack Heathrow used command '/TextAdd niee'.
+[20:52:54	]Jack Heathrow used command '/TextAdd niee'.
+[20:54:51	]Jack Heathrow has removed their last 3D text.
+[20:54:51	]Jack Heathrow has removed their last 3D text.
+[20:54:51	]Jack Heathrow has removed their last 3D text.
+[20:54:52	]Jack Heathrow has removed their last 3D text.
+[20:54:52	]Jack Heathrow has removed their last 3D text.
+[20:54:56	]Jack Heathrow used command '/TextAdd niee'.
+[20:54:58	]Jack Heathrow has removed their last 3D text.
+[20:55:00	]Jack Heathrow used command '/TextAdd niee'.
+[20:55:01	]Jack Heathrow used command '/TextAdd niee'.
+[20:55:01	]Jack Heathrow used command '/TextAdd niee'.
+[20:55:02	]Jack Heathrow used command '/TextAdd niee'.
+[20:55:03	]Jack Heathrow has removed their last 3D text.
+[20:55:04	]Jack Heathrow has removed their last 3D text.
+[20:55:04	]Jack Heathrow has removed their last 3D text.
+[20:55:04	]Jack Heathrow has removed their last 3D text.
+[20:56:41	]Jack Heathrow used command '/TextAdd niee'.
+[20:56:44	]Jack Heathrow used command '/TextAdd niee'.
+[21:04:57	]Loxy has connected.
+[21:05:45	]Loxy loaded the character 'Jack Heathrow'
+[21:11:50	]Jack Heathrow ran SAM command 'menu' with arguments: ''
+[21:20:51	]Loxy has connected.
+[21:21:38	]Loxy loaded the character 'Jack Heathrow'
+[21:23:14	]Console ran SAM command 'setrank' with arguments: 'jack' 'superadmin'
+[21:23:23	]Jack Heathrow used command '/TextAdd wadawd 2'.
+[21:28:33	]Loxy has connected.
+[21:29:18	]Loxy loaded the character 'Jack Heathrow'
+[21:36:23	]Loxy has connected.
+[21:37:08	]Loxy loaded the character 'Jack Heathrow'
+[21:42:48	]Loxy has connected.
+[21:43:31	]Loxy loaded the character 'Jack Heathrow'
+[21:48:05	]Loxy has connected.
+[21:54:29	]Loxy loaded the character 'Jack Heathrow'
+[21:55:03	]Console ran SAM command 'setrank' with arguments: 'jack' 'superadmin'
+[21:55:06	]Jack Heathrow used command '/TextAdd ghggggg 2'.
+[21:56:16	]Console ran SAM command 'setrank' with arguments: 'jack' 'superadmin'
+[22:08:02	]Loxy has connected.
+[22:09:13	]Loxy loaded the character 'Jack Heathrow'
+[22:09:30	]Console ran SAM command 'setrank' with arguments: 'jack' 'superadmin'
+[22:09:36	]Jack Heathrow used command '/TextAdd ghigig 0.4'.
+[22:09:41	]Jack Heathrow used command '/TextAdd ghigig 0.8'.
+[22:09:47	]Jack Heathrow used command '/TextAdd ghigig 1'.
+[22:11:21	]Jack Heathrow used command '/TextAdd Billy bob's long nme for a shop 1'.
+[22:11:27	]Jack Heathrow has removed their last 3D text.
+[22:11:39	]Jack Heathrow has removed their last 3D text.
+[22:11:39	]Jack Heathrow has removed their last 3D text.
+[22:11:39	]Jack Heathrow has removed their last 3D text.
+[22:11:48	]Jack Heathrow used command '/TextAdd Billy bob's long nme for a shop 1'.
+[22:12:00	]Jack Heathrow ran SAM command 'hp' with arguments: '^' '100'
+[22:12:03	]Jack Heathrow is fully healed.
+[22:12:57	]Jack Heathrow used command '/TextAdd Billy bob's long nme for a shopaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 1'.
+[22:15:11	]Loxy (STEAM_0:1:421238310) has disconnected.
+[22:23:04	]Loxy has connected.
+[22:23:52	]Loxy loaded the character 'Jack Heathrow'
+[22:23:57	]Jack Heathrow is fully healed.
+[22:29:19	]Loxy has connected.
+[22:30:05	]Loxy loaded the character 'Jack Heathrow'
+[22:30:10	]Jack Heathrow is fully healed.
+[22:38:29	]Loxy has connected.
+[22:39:48	]Loxy loaded the character 'Jack Heathrow'
+[22:39:53	]Jack Heathrow is fully healed.
+[22:45:18	]Loxy has connected.
+[22:46:14	]Loxy loaded the character 'Jack Heathrow'
+[22:46:19	]Jack Heathrow is fully healed.
+[22:46:48	]Console ran SAM command 'setrank' with arguments: 'jack' 'superadmin'
+[22:46:56	]Jack Heathrow used command '/TextAdd auywdadyuawdawduyawuydawuydaw'.
+[22:47:02	]Jack Heathrow used command '/TextAdd auywdadyuawdawduyawuydawuydaw'.
+[22:55:29	]Loxy has connected.
+[22:57:34	]Loxy loaded the character 'Jack Heathrow'
+[22:57:38	]Jack Heathrow is fully healed.
+[23:03:00	]Loxy has connected.
+[23:03:47	]Loxy loaded the character 'Jack Heathrow'
+[23:03:51	]Jack Heathrow is fully healed.
+[23:04:09	]Console ran SAM command 'setrank' with arguments: 'jack' 'superadmin'
+[23:04:19	]Jack Heathrow used command '/TextAdd waydu as duyawdu  uaw daD'.
+[23:06:07	]Loxy (STEAM_0:1:421238310) has disconnected.

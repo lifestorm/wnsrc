@@ -1,0 +1,137 @@
+[19:17:24	]Recik has connected.
+[19:18:12	]Recik loaded the character 'Rak d'
+[19:18:15	]Rak d entered observer.
+[19:30:30	]Rak d has spawned a mas_aux.
+[19:30:31	]Rak d has spawned a uniform_auxcp.
+[19:30:31	]Rak d exited observer at their location.
+[19:30:33	]Rak d ran 'take' on item 'Auxiliary Unit Uniform' (#3838)
+[19:30:33	]Rak d has gained a 'Auxiliary Unit Uniform' #3838.
+[19:30:35	]Rak d ran 'take' on item 'Auxiliary CP Mask' (#3837)
+[19:30:35	]Rak d has gained a 'Auxiliary CP Mask' #3837.
+[19:31:17	]Rak d ran 'drop' on item 'Auxiliary CP Mask' (#3837)
+[19:31:17	]Rak d has lost a 'Auxiliary CP Mask' #3837.
+[19:31:19	]Rak d ran 'drop' on item 'Auxiliary Unit Uniform' (#3838)
+[19:31:19	]Rak d has lost a 'Auxiliary Unit Uniform' #3838.
+[19:31:53	]Rak d entered observer.
+[19:37:44	]Lorf has connected.
+[19:41:47	]Lorf loaded the character 'marta'
+[19:41:59	]marta has given himself a mas_aux.
+[19:41:59	]marta has gained a 'Auxiliary CP Mask' #3839.
+[19:42:00	]marta has given himself a uniform_auxcp.
+[19:42:00	]marta has gained a 'Auxiliary Unit Uniform' #3840.
+[19:43:10	]Rak d has spawned a uniform_ocs.
+[19:43:15	]marta has given himself a uniform_ocs.
+[19:43:15	]marta has gained a 'Containment Uniform' #3842.
+[19:43:30	]marta entered observer.
+[19:43:32	]marta exited observer at their location.
+[19:43:35	]Rak d exited observer at their location.
+[19:43:39	]Rak d entered observer.
+[19:46:20	]marta has given himself a uniform_charger.
+[19:46:20	]marta has gained a 'OTA Charger Uniform' #3843.
+[19:46:21	]marta has given himself a mask_ota.
+[19:46:21	]marta has gained a 'OTA Mask' #3844.
+[19:46:56	]marta has given himself a uniform_cp_qrf.
+[19:46:56	]marta has gained a 'QRF Uniform' #3845.
+[19:46:59	]marta has given himself a mask_com.
+[19:46:59	]marta has gained a 'QRF Mask' #3846.
+[19:47:11	]marta ran 'drop' on item 'QRF Mask' (#3846)
+[19:47:11	]marta has lost a 'QRF Mask' #3846.
+[19:47:16	]marta ran 'take' on item 'QRF Mask' (#3846)
+[19:47:16	]marta has gained a 'QRF Mask' #3846.
+[19:48:10	]marta opened the 'Cash Register' #500 container.
+[19:48:13	]marta closed the 'Cash Register' #500 container.
+[19:48:52	]Rak d has gone afk.
+[19:49:22	]marta has given himself a uniform_cp_com.
+[19:49:22	]marta has gained a 'CP Command Uniform' #3847.
+[19:49:45	]Lorf (STEAM_0:0:83902827) has disconnected.
+[20:18:57	]Rak d is no longer afk. Total time spent AFK: 2100
+[20:19:04	]Rak d has spawned a fake_id_card_creator.
+[20:19:08	]Rak d exited observer at their location.
+[20:19:19	]Rak d has given himself a fake_id_card_creator.
+[20:19:19	]Rak d has gained a 'Counterfeit Identity Card Creation Device' #3849.
+[20:19:21	]Rak d ran 'CreateID' on item 'Counterfeit Identity Card Creation Device' (#3849)
+[20:21:13	]Recik has unloaded their "Rak d" character.
+[20:21:19	]Recik (STEAM_0:1:57940784) deleted character 'sddas asdadas'
+[20:21:36	]Recik loaded the character 'Rak d'
+[20:22:42	]Rak d ran 'CreateID' on item 'Counterfeit Identity Card Creation Device' (#3849)
+[20:26:29	]Recik has unloaded their "Rak d" character.
+[20:26:36	]Recik loaded the character 'Konfident'
+[20:35:06	]Konfident has gone afk.
+[20:40:35	]Recik has unloaded their "Konfident" character.
+[20:40:36	]Recik is no longer afk. Total time spent AFK: 625
+[20:40:40	]Recik loaded the character 'Rak d'
+[20:40:47	]Rak d ran 'CreateID' on item 'Counterfeit Identity Card Creation Device' (#3849)
+[20:43:39	]Recik has unloaded their "Rak d" character.
+[20:43:52	]Recik loaded the character 'Rak d'
+[20:47:39	]Rak d has given himself a fake_id_card.
+[20:47:39	]Rak d has gained a '#00000's Identity Card' #3850.
+[20:47:40	]Rak d has given himself a id_card.
+[20:47:40	]Rak d has gained a '#00000's Identity Card' #3851.
+[20:48:26	]Rak d has given himself a id_card_blank.
+[20:48:27	]Rak d has gained a 'Blank CID card' #3852.
+[20:48:30	]Rak d ran 'CreateID' on item 'Counterfeit Identity Card Creation Device' (#3849)
+[20:49:02	]Rak d has gained a '#32212's Identity Card' #3853.
+[20:53:52	]Rak d has gone afk.
+[21:13:32	]Rak d is no longer afk. Total time spent AFK: 1475
+[21:13:35	]Rak d has given himself a oldrevolver.
+[21:13:35	]Rak d has gained a 'Popper' #3854.
+[21:13:37	]Rak d ran 'Equip' on item 'Popper' (#3854)
+[21:14:48	]Rak d has given himself a pkpvolk.
+[21:14:52	]Rak d has given himself a pkpvolk.
+[21:14:54	]Rak d ran 'drop' on item 'Popper' (#3854)
+[21:14:54	]Rak d has lost a 'Popper' #3854.
+[21:14:55	]Rak d has given himself a pkpvolk.
+[21:14:56	]Rak d has gained a 'Volk'd PKP' #3855.
+[21:15:01	]Rak d ran 'Equip' on item 'Volk'd PKP' (#3855)
+[21:23:24	]Rak d has given himself a m249.
+[21:23:31	]Rak d has spawned a m249.
+[21:23:56	]Rak d has spawned a akm.
+[21:25:00	]Rak d ran 'EquipUn' on item 'Volk'd PKP' (#3855)
+[21:25:01	]Rak d ran 'drop' on item 'Volk'd PKP' (#3855)
+[21:25:01	]Rak d has lost a 'Volk'd PKP' #3855.
+[21:25:12	]Rak d has given himself a akm.
+[21:25:12	]Rak d has gained a 'AKM' #3858.
+[21:25:15	]Rak d has given himself a go_ak_stock_heavy.
+[21:25:15	]Rak d has gained a 'RPK Stock' #3859.
+[21:27:09	]Rak d destroyed a 'Elephant Hunter' #3831.
+[21:27:09	]Rak d destroyed a 'Devil's Advocates Coat' #3830.
+[21:27:10	]Rak d destroyed a 'Milan' #3829.
+[21:27:50	]Rak d destroyed a 'Lavender Galore' #3822.
+[21:27:52	]Rak d destroyed a 'Coat du Bourgogne' #3817.
+[21:27:54	]Rak d destroyed a 'Candyfloss' #3818.
+[21:27:59	]Rak d destroyed a 'Presenters Joy' #3820.
+[21:28:00	]Rak d destroyed a 'Golden Goose' #3819.
+[21:28:00	]Rak d destroyed a 'The Diplomat' #3821.
+[21:28:00	]Rak d destroyed a 'The Emir' #3823.
+[21:28:01	]Rak d destroyed a 'Milan Trousers' #3805.
+[21:28:01	]Rak d destroyed a 'Golden Goose Trousers' #3803.
+[21:28:01	]Rak d destroyed a 'Realist Trousers' #3801.
+[21:28:01	]Rak d destroyed a 'The Heartwick Trousers' #3811.
+[21:28:01	]Rak d destroyed a 'Savoy Trousers' #3800.
+[21:28:02	]Rak d destroyed a 'The Mulligan Express Trousers' #3813.
+[21:28:02	]Rak d destroyed a 'The Paperweight Trousers' #3814.
+[21:28:03	]Rak d destroyed a 'Burgundy' #3689.
+[21:28:04	]Rak d destroyed a 'Collector' #3834.
+[21:28:07	]Rak d destroyed a 'The German' #3833.
+[21:28:07	]Rak d destroyed a 'Burgundy' #3832.
+[21:28:08	]Rak d destroyed a 'Mr. Vanilla' #3828.
+[21:28:08	]Rak d destroyed a 'White Snow' #3826.
+[21:28:09	]Rak d destroyed a 'The Indigo of Tomorrow' #3824.
+[21:28:09	]Rak d destroyed a 'The Jade' #3825.
+[21:28:14	]Rak d destroyed a 'The German Trousers' #3810.
+[21:28:19	]Rak d destroyed a 'Burgundy Trousers' #3797.
+[21:28:20	]Rak d destroyed a 'Jade Trousers' #3799.
+[21:28:22	]Rak d destroyed a 'Elephant Hunter Trousers' #3804.
+[21:28:25	]Rak d destroyed a 'Collector Trousers' #3798.
+[21:28:31	]Rak d destroyed a 'Presenters Joy Trousers' #3802.
+[21:28:32	]Rak d destroyed a 'The Authoritarian Trousers' #3796.
+[21:28:32	]Rak d destroyed a 'The Diplomat Trousers' #3807.
+[21:28:32	]Rak d destroyed a 'The Bureaucrat Trousers' #3808.
+[21:28:32	]Rak d destroyed a 'Containment Uniform' #3841.
+[21:28:33	]Rak d destroyed a 'Vanilla Trousers' #3815.
+[21:28:34	]Rak d destroyed a 'Counterfeit Identity Card Creation Device' #3848.
+[21:28:36	]Rak d destroyed a 'The Paperweight Trousers' #3816.
+[21:28:38	]Rak d destroyed a 'M249' #3856.
+[21:28:45	]Rak d destroyed a 'Volk'd PKP' #3855.
+[21:28:46	]Rak d destroyed a 'AKM' #3857.
+[21:29:32	]Recik (STEAM_0:1:57940784) has disconnected.

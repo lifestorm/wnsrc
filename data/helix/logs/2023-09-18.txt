@@ -1,0 +1,640 @@
+[00:00:03	][IC] Daniel Miller: Jeśli nazywa Pan swoje własny pomysły.
+[00:00:08	][LOOC] Daniel Miller: missclick spacja
+[00:00:27	][ME] Joseph Campbell: podrapał się po głowie. "Produkcja papierosów nie jest chyba problemem? Wiele obywateli zdecydowanie poparłoby pojawienie się cygaretek na rynku..."
+[00:00:27	][IC] Daniel Miller: Jeśli nazywa Pan swoje własny pomysły "bezsensownym gównem", to pozostaje mi jedynie pogratulować.
+[00:01:46	][IC] Pierre Blum: Jak wspomniałem, Panie administratorze, papierosy nie będą dobrym towarem eksportowym. Jak już można dofinansować cygaretki Goodfella, ale z tego zarobki będą małe. Zbyt wiele miast samo robi papierosy.
+[00:02:09	][IC] Pierre Blum: Wie Pan, po wojnie palacze dalej byli, wiele lokalnych przedsiębiorców uznało, że to dobry nurt.
+[00:02:22	][IC] Pierre Blum: Prawie każde miasto ma swoją firmę papierosową.
+[00:02:57	][IC] Vivienne Devereaux: ...może w takim razie odzież? Jeśli nie naturalna, to syntetyczna? Albo stroje robocze...
+[00:02:57	][IC] Pierre Blum: Ja stoję za produkcją elektroniki, podpisalibyśmy umowę handlową z Miastem Ósmym, można zacieśnić więzi.
+[00:03:42	][ME] Joseph Campbell: zignorował całkowicie wypowiedź Minister Zdrowia. "Tak... rzeczywiście przyda nam się nawiązać współpracę z innymi miastami."
+[00:03:48	][IC] Daniel Miller: Odzież nie jest dobrym towarem eksportowym, wymagają dużo przestrzeni magazynowej jak na potencjalne zyski.
+[00:04:07	][ME] Vivienne Devereaux: mówiła bardziej do siebie, patrząc przed siebie na stół.
+[00:04:08	][IC] Daniel Miller: Chyba, że mowa o towarze, którego cenę można sztucznie pompować.
+[00:04:45	][ME] Daniel Miller: Spogląda na Bluma "Proszę bardzo, ma Pan wymażone argumenty"
+[00:05:22	][IC] Pierre Blum: Tak szczerze, moglibyśmy zacząć wprowadzać większą automatyzację, wstępnie będzie nas to drogo koszować, najpewniej będzie trzeba wziąć pożyczkę. Jednakże, to się zwróci. Zwiększymy produktywność.
+[00:05:46	][IC] Daniel Miller: Może Pan Zimmerman użyczy nam jakichś kontaktów.
+[00:05:59	][ME] Joseph Campbell: zwrócił wzrok na Zimmermana.
+[00:05:59	][ME] Daniel Miller: Zaśmiał się pod nosem "Nie przejmuj się Filip, taki żarcik"
+[00:06:10	][IC] Vivienne Devereaux: ...jaką elektronikę chciałby Pan w takim razie produkować, Panie Blum? Komponenty? Jakieś gotowe produkty?
+[00:06:18	][ME] Filip Zimmerman: podeśmiał się pod nosem.
+[00:06:29	][ME] Vivienne Devereaux: mówi, podnosząc wzrok i spoglądając na mężczyznę w śliwkowej marynarce.
+[00:06:30	][LOOC] Daniel Miller: najpierw pożyczymy kasę a potem wyjebiemy ich z miasta jak nauczyło nas ck2
+[00:07:00	][IC] Filip Zimmerman: Aktualnie jedynie z jakim miastem w tym sektorze byłoby racjonalnie podpisać umowę jest znany nam dobrze Londyn.
+[00:07:45	][IC] Pierre Blum: To jednak rozmowa na później, na ten moment wróćmy do elektroniki. Zaczniemy produkować elektronikę do maszyn, do komputerów, generalnie można na tym zbić forsę. Nowy rozwój technologiczny pozwala na... Zresztą, po prostu warto to zrobić.
+[00:07:53	][IC] Daniel Miller: Może zostawmy temat pożyczki na dalszy plan i przyszłe dyskusje i skupmy się czysto na pomysłach które można zrealizować na dniach.
+[00:08:06	][IC] Pierre Blum: Dziękuje za powtórzenie moich słów Panie Miller.
+[00:08:11	][IC] Joseph Campbell: Rzeczywiście, Paryż zdecydowanie nam nie sprzyja. Francuskie miasta nie są nam przyjazne. Naszym jedynym potencjalnym sojusznikiem jest Miasto Drugie, Londny.
+[00:08:22	][IC] Daniel Miller: Musi mi Pan wybaczyć, nie słuchałem Pana.
+[00:08:25	][ME] Daniel Miller: Uśmiecha się
+[00:10:10	][IC] Pierre Blum: Pani Vivienne, widzę to tak. Postawimy fabryki na obrzeżach, zaczniemy tworzyć elektronikę do maszyn, zwiększymy współpracę z filią Tenzhen w mieście. Dogadalibyśmy się z Miastem Ósmym, zaczęlibyśmy handel, jestem też za wymianą naukowców.
+[00:11:28	][IC] Joseph Campbell: Tak... Zdecydowanie nawiązanie kontaktu z Miastem Ósmymy przynisołoby nam wiele korzyści.
+[00:11:35	][IC] Daniel Miller: Popieram Pana Bluma, przydałby się nam oddział badawczy. Moglibyśmy dzielić się odpłatnie efektami naszych prac z innymi miastami.
+[00:11:43	][LOOC] Joseph Campbell: ósmym*
+[00:11:44	][IC] Vivienne Devereaux: Hmmm... Tak, również pobieram pomysł Pana Bluma.
+[00:11:50	]Pierre Blum used command '/ExitAct'.
+[00:11:52	]Pierre Blum used command '/ActSit 5'.
+[00:11:53	]Pierre Blum used command '/ExitAct'.
+[00:11:54	]Pierre Blum used command '/ActSit 6'.
+[00:12:04	][IC] Filip Zimmerman: Myślę, że pomysł ministra przyniesie długofalowe korzyści.
+[00:12:51	][Y] Joseph Campbell: Świetnie! W takim razie otworzymy nową gałąź przemysłu elektronicznego. Nastęna kwestia!
+[00:13:01	][IC] Pierre Blum: Skoro tak, niech Pani Vivienne już zastanowi się nad wymianą technologiczną i naukowców z Miastem Ósmym. Ja pomyślę nad tym co możemy eksportować do Ósemki i zajmę się planami.
+[00:13:18	][IC] Daniel Miller: Skoro przechodzimy dalej...
+[00:13:29	][ME] Vivienne Devereaux: kiwa głową, zapisując to w swoim data-padzie.
+[00:13:44	][ME] Daniel Miller: Wyciąga swój skórzany notes, wygląda na stary i dość lusksusowy, nawet na czasy przedwojenne.
+[00:13:50	][IC] S10/OWS.GHOST-01: <:: Changing position. ::>
+[00:14:01	][ME] Pierre Blum: zamknął oczy i delikatnie zagłębił się w swój fotel.
+[00:14:17	][IC] S10/OWS.GHOST-01: <:: Holy shi-! ::>
+[00:14:22	][IC] Daniel Miller: Dostałem wiele raportów odnośnie nierównomiernej dystrybucji SC-.
+[00:14:28	][ME] Filip Zimmerman: spojrzał na żołnierza.
+[00:14:28	][IC] Daniel Miller: Coś nie tak, żołnierzu?
+[00:14:43	][ME] S10/OWS.GHOST-01: stuknął w swoje radio przy wizjerze po czym przyjął bardziej stanowczą pozycję.
+[00:15:17	]Pierre Blum used command '/ExitAct'.
+[00:15:21	]Pierre Blum used command '/ActSit 6'.
+[00:15:48	][IC] Daniel Miller: Wracając... Jednostki nie potrafią się dogadać w kwestii rozdawania SC. Jeden obywatel potrafi otrzymać 2 SC na składanie sceny przez kilka godzin, a drugi otrzyma 4 za podniesienie puszki i wrzucenie jej do śmietnika.
+[00:16:08	][IC] Joseph Campbell: Oh... Zdecydowanie trzeba to usystematyzować.
+[00:16:30	]Filip Zimmerman used command '/ExitAct'.
+[00:16:33	]Filip Zimmerman used command '/ActSit 6'.
+[00:16:33	][IC] Daniel Miller: To, ile kto dostaje SC wpływa na nas bardzo bezpośrednio, gdyż to od tego zależy, kto będzie zasiadał z nami w sali na parterze.
+[00:17:05	][IC] Pierre Blum: Skoro jest tak ciekawy temat, to ja pójdę wziąć paluszki.
+[00:17:18	][ME] Pierre Blum: założył buty na stopy, poprawił, wstał z krzesła i ruszył do wyjścia.
+[00:17:20	]Pierre Blum used command '/ExitAct'.
+[00:17:22	][IC] Daniel Miller: Dlatego sugeruję sporządzenie dyrektywy, która bardzo bezpośrednio poinformuje jednostki CP o naszych wymogach.
+[00:17:25	][IC] Joseph Campbell: Od razu zasiadał w sali... Izba obywatelska obraduje pod nami. Nie tutaj.
+[00:17:42	][IC] S10/OWS.GHOST-01: <:: Sector is tracking at original percent, stable. And... Still holding for transmission, over. ::>
+[00:17:46	][IC] Daniel Miller: Tak, dokładnie to powiedziałem, Panie Campbell.
+[00:17:49	]Vivienne Devereaux used command '/PM Zimmerman Podsiądź Bluma'.
+[00:17:51	][IC] Pierre Blum: Czemu mnie musisz prześladować?
+[00:17:55	][IC] Joseph Campbell: Tak... Możecie się zająć tą dyrektywą...
+[00:17:59	]Vivienne Devereaux used command '/PM Filip G-man cię kusi'.
+[00:18:09	]Filip Zimmerman used command '/PM viv Jak pojawi się przed nami G-man i mi to powie to tak'.
+[00:18:21	][IC] Daniel Miller: W takim razie, czy ktoś ma jakiekolwiek uwagi lub wnioski, które powinienem wziąć pod uwagę?
+[00:18:27	][IC] Pierre Blum: Gdzie ja tu je miałem...
+[00:18:28	][LOOC] S10/OWS.GHOST-01: kurwa ale bym paluszki ojebał teraz
+[00:18:31	][LOOC] Pierre Blum: ja też
+[00:18:34	][ME] Daniel Miller: Rozgląda się po sali
+[00:18:39	][IC] Daniel Miller: Jeśli nie, to możemy przejść dalej.
+[00:18:59	][LOOC] S10/OWS.GHOST-01: bieda, nic nie mam, albo jakies precelki, jutro ide kupic
+[00:19:03	][IC] Joseph Campbell: W takim razie, jeżeli Minister Zdrowia nie ma nic do dodania...
+[00:19:39	][ME] Pierre Blum: otworzył szufladę w swoim biurku, następnie wygrzebał z niej świeżutką paczkę. Znalazł jakiś kubek leżący na stole, otworzył paczkę i wsypał paluszki do środka. Następnie, schował paczkę, wziął kubek i poszedł do wyjścia.
+[00:20:00	][IC] S10/OWS.GHOST-01: <:: Keep moving. ::>
+[00:20:08	][IC] Vivienne Devereaux: Bezpieczeństwo to nie moja działka. Ale... Przyznam, że Oficerowie często nie wiedzą co robić w przypadku rannego Obywatela. Wielokrotnie otrzymywałam raporty o obywatelach przyjętych do Kliniki z nieopatrzonymi ranami...
+[00:20:25	]Pierre Blum used command '/StaticCharActionSet W swojej dłoni trzyma kubek z paluszkami.'.
+[00:20:32	][IC] S10/OWS.GHOST-01: <:: Panic1. ::>
+[00:20:41	][IC] Vivienne Devereaux: ...nie sugeruję, że Oficerowie mają wykonywać pracę CMRU, ale... Zwykłe zabandażowanie krwawiącej rany zaoszczędziłoby również sporo pieniędzy.
+[00:20:56	]Pierre Blum used command '/ActStand 2'.
+[00:20:56	]Pierre Blum used command '/ExitAct'.
+[00:21:02	][IC] Daniel Miller: Obawiam się, że w przypadku braku statusu lojalistycznego, może to nie wchodzić w ich zakres obowiązków.
+[00:21:14	][IC] Pierre Blum: Chce Pan kilka?
+[00:21:29	][IC] Vivienne Devereaux: Chodzi mi właśnie o lojalistów. Oraz o nasz i tak już delikatny budżet.
+[00:21:29	][IC] Joseph Campbell: Eh... Niech pan położy to na stole.
+[00:21:44	][ME] Pierre Blum: usiadł ponownie na fotelu, a następnie położył kubek między sobą a administratorem przy telefonie.
+[00:21:51	]Pierre Blum used command '/StaticCharActionRemove'.
+[00:21:54	]Pierre Blum used command '/ActSit 6'.
+[00:22:10	][ME] Daniel Miller: Zauważając przybycie Ministra Bluma sięga po kolejnego papierosa, odpalając go z intencją popsucia smaku paluszków, używając w tym celu nieprzyjemnego dymu
+[00:22:11	][ME] Pierre Blum: wziął z kubka paluszka i zaczął gryźć.
+[00:22:16	]Daniel Miller ran 'smoke' on item 'Papieros' (#5466)
+[00:22:17	]Daniel Miller ran 'light' on item 'Zapalniczka Zippo' (#3925)
+[00:22:38	]Vivienne Devereaux has given himself a baking_pretzel.
+[00:22:38	]Vivienne Devereaux has gained a 'Precel' #5529.
+[00:22:38	]Vivienne Devereaux used command '/ExitAct'.
+[00:22:43	]Vivienne Devereaux ran 'drop' on item 'Precel' (#5529)
+[00:22:43	]Vivienne Devereaux has lost a 'Precel' #5529.
+[00:22:49	]Vivienne Devereaux used command '/ActSit 5'.
+[00:22:50	]S10/OWS.GHOST-01 ran 'Consume' on item 'Precel' (#5529)
+[00:22:50	]S10/OWS.GHOST-01 has gained a level 3 long boost in Siła.
+[00:22:51	][LOOC] Filip Zimmerman: masz i żryj
+[00:23:14	]Pierre Blum used command '/ExitAct'.
+[00:23:16	]Pierre Blum has spawned 'models/props_junk/garbage_takeoutcarton001a.mdl'.
+[00:23:18	][IC] Daniel Miller: W takim razie popieram. Zawrę to w kolejnej dyrektywie.
+[00:23:19	]Pierre Blum used command '/ActSit 6'.
+[00:23:52	][IC] Vivienne Devereaux: Mogę zorganizować szkolenie z pierwszej pomocy dla Oficerów... Pogadamy o tym po spotkaniu, Miller.
+[00:24:02	][IC] Daniel Miller: Jak najbardizje.
+[00:24:08	][LOOC] Daniel Miller: ale najebana wiadomosc
+[00:24:21	][IC] Joseph Campbell: Tak... Rozumiem. W takim razie zajmie się tym Ministerstwo Spraw Wewnętrznych. Jeżeli nikt nie ma nic do dodania, to możemy zakończyć dzisiejsze spotkanie. Spodziewajcie się niedługo pierwszego zebrania Izby Obywatelskiej.
+[00:24:33	][IC] Daniel Miller: Nie mogę się doczekać...
+[00:24:46	][ME] Vivienne Devereaux: wzdycha.
+[00:25:22	][ME] Joseph Campbell: klasnął w dłonie, widocznie uradowany. "Skoro nikt nie ma nic do dodania, dziękuje wszystkim za przybycie. Niech odpowiednie ministerstwa zajmą się przydzielonymi im zadaniami. Na dzisiaj to tyle."
+[00:25:29	]Joseph Campbell used command '/ExitAct'.
+[00:25:45	][IC] Pierre Blum: Żołnierzu, pozbieracie filiżanki i zaniesiecie do kuchni?
+[00:25:50	][ME] Daniel Miller: Odsuwa krzesło, po czym podnosi się na nogi i wyrusza w kierunku biur
+[00:25:50	][ME] Vivienne Devereaux: wstaje z fotela, zabierając kubek z resztą zimnej kawy.
+[00:25:52	]Daniel Miller used command '/ExitAct'.
+[00:25:59	][IC] Vivienne Devereaux: Gdzie ty tu widzisz filiżanki, Blum?
+[00:26:00	]Vivienne Devereaux used command '/ExitAct'.
+[00:26:02	]Vivienne Devereaux ran 'take' on item 'Kawa 'Willard Industries'' (#5514)
+[00:26:02	]Vivienne Devereaux has gained a 'Kawa 'Willard Industries'' #5514.
+[00:26:02	][ME] Filip Zimmerman: wstał od stołu dopijając kawę, spojrzał się na żołnierza, następnie na ministra Bluma
+[00:26:08	]Filip Zimmerman used command '/ExitAct'.
+[00:26:13	][IC] Daniel Miller: Pani Minister, chce się Pani tym zająć teraz?
+[00:26:15	][ME] S10/OWS.GHOST-01: zignorował słowa ministra po czym przybliżył się do administratora miasta.
+[00:26:16	][IT] Pierre Blum: Filiżanki zostały przyniesione, więc filiżanki są na stole.
+[00:26:27	][IC] Pierre Blum: Na stole.
+[00:26:29	][IC] Joseph Campbell: Sekretarka się tym zajmie jutro.
+[00:26:40	][IC] Pierre Blum: Jutro zaschnie, ale z drugiej strony to nie mój problem.
+[00:26:50	][ME] Pierre Blum: wstał z krzesła i chwycił ponownie kubek z paluszkami.
+[00:26:51	]Pierre Blum used command '/ExitAct'.
+[00:26:51	][IC] Joseph Campbell: To zorganizuje drugie.
+[00:26:58	][IC] Vivienne Devereaux: Przyznam szczerze, że wolałabym rano. Troche zmęczyło mnie to wszystko... Szczególnie jeden z *tematów*.
+[00:26:59	]Pierre Blum used command '/StaticCharActionSet W swojej dłoni trzyma kubek z paluszkami.'.
+[00:26:59	][IC] Daniel Miller: Owszem, bo to problem sekretarki.
+[00:27:08	]Pierre Blum ran 'Consume' on item 'Kawa 'Willard Industries'' (#5517)
+[00:27:08	]Pierre Blum extended their level 3 long boost in Inteligencja.
+[00:27:08	]Pierre Blum extended their level 3 long boost in Zręczność.
+[00:27:08	]Pierre Blum has gained a 'Pusty kubek po kawie' #5530.
+[00:27:12	]Pierre Blum ran 'drop' on item 'Pusty kubek po kawie' (#5530)
+[00:27:12	]Pierre Blum has lost a 'Pusty kubek po kawie' #5530.
+[00:27:14	]Pierre Blum ran 'drop' on item 'Pusty kubek po kawie' (#5515)
+[00:27:14	]Pierre Blum has lost a 'Pusty kubek po kawie' #5515.
+[00:27:17	][IC] Daniel Miller: Rozumiem, w takim razie proszę zawitać do mojego biura.
+[00:27:17	]Vivienne Devereaux ran 'Consume' on item 'Kawa 'Willard Industries'' (#5514)
+[00:27:17	]Vivienne Devereaux extended their level 3 long boost in Inteligencja.
+[00:27:17	]Vivienne Devereaux extended their level 3 long boost in Zręczność.
+[00:27:17	]Vivienne Devereaux has gained a 'Pusty kubek po kawie' #5531.
+[00:27:19	]Vivienne Devereaux ran 'drop' on item 'Pusty kubek po kawie' (#5531)
+[00:27:19	]Vivienne Devereaux has lost a 'Pusty kubek po kawie' #5531.
+[00:27:20	]Vivienne Devereaux ran 'drop' on item 'Pusty kubek po kawie' (#5512)
+[00:27:20	]Vivienne Devereaux has lost a 'Pusty kubek po kawie' #5512.
+[00:27:20	]Daniel Miller ran 'Consume' on item 'Kawa 'Willard Industries'' (#5516)
+[00:27:20	]Daniel Miller has gained a level 3 long boost in Inteligencja.
+[00:27:20	]Daniel Miller has gained a level 3 long boost in Zręczność.
+[00:27:20	]Daniel Miller has gained a 'Pusty kubek po kawie' #5532.
+[00:27:24	]Joseph Campbell ran 'take' on item 'Kawa 'Willard Industries'' (#5509)
+[00:27:24	]Joseph Campbell has gained a 'Kawa 'Willard Industries'' #5509.
+[00:27:26	]Daniel Miller ran 'drop' on item 'Pusty kubek po kawie' (#5532)
+[00:27:26	]Daniel Miller has lost a 'Pusty kubek po kawie' #5532.
+[00:27:28	]Filip Zimmerman ran 'take' on item 'Kawa 'Willard Industries'' (#5513)
+[00:27:28	]Filip Zimmerman has gained a 'Kawa 'Willard Industries'' #5513.
+[00:27:28	]Joseph Campbell ran 'Consume' on item 'Kawa 'Willard Industries'' (#5509)
+[00:27:28	]Joseph Campbell has gained a level 3 long boost in Inteligencja.
+[00:27:28	]Joseph Campbell extended their level 3 long boost in Zręczność.
+[00:27:28	]Joseph Campbell has gained a 'Pusty kubek po kawie' #5533.
+[00:27:32	]Filip Zimmerman ran 'Consume' on item 'Kawa 'Willard Industries'' (#5513)
+[00:27:32	]Filip Zimmerman extended their level 3 long boost in Inteligencja.
+[00:27:32	]Filip Zimmerman has gained a level 3 long boost in Zręczność.
+[00:27:32	]Filip Zimmerman has gained a 'Pusty kubek po kawie' #5534.
+[00:27:35	][IC] Pierre Blum: Panie administratorze, musimy porozmawiać w sprawie konwoju dyplomatycznego do Miasta Ósmego.
+[00:27:38	][IC] Joseph Campbell: Żegnam.
+[00:27:45	][IC] S10/OWS.GHOST-01: <:: He's kicking it. ::>
+[00:27:51	][IC] S10/OWS.GHOST-01: <:: Overwatch says stop kicking it. ::>
+[00:27:55	][IC] S10/OWS.GHOST-01: <:: He stopped kicking it. ::>
+[00:27:59	]Pierre Blum has used a context menu option with the name: rb655_door_lock
+[00:28:03	]Pierre Blum has used a context menu option with the name: rb655_door_close
+[00:28:03	][IC] Daniel Miller: I jak, Campbell?
+[00:28:05	]Pierre Blum has used a context menu option with the name: rb655_door_unlock
+[00:28:07	]Pierre Blum has used a context menu option with the name: rb655_door_lock
+[00:28:09	]Vivienne Devereaux has given himself a food_crisps.
+[00:28:09	]Vivienne Devereaux has gained a 'Chipsy ziemniaczane' #5535.
+[00:28:10	]Pierre Blum has used a context menu option with the name: rb655_door_lock
+[00:28:11	]Vivienne Devereaux ran 'drop' on item 'Chipsy ziemniaczane' (#5535)
+[00:28:11	]Vivienne Devereaux has lost a 'Chipsy ziemniaczane' #5535.
+[00:28:12	][IC] Daniel Miller: Podobały ci się piervvsze obrady?
+[00:28:14	]Pierre Blum has used a context menu option with the name: rb655_door_unlock
+[00:28:20	]Pierre Blum has used a context menu option with the name: rb655_door_close
+[00:28:21	]Pierre Blum has used a context menu option with the name: rb655_door_close
+[00:28:21	][IC] Joseph Campbell: Tiaa... Potrzebuję trochę spokoju.
+[00:28:23	]Pierre Blum has used a context menu option with the name: rb655_door_lock
+[00:28:25	]Pierre Blum has used a context menu option with the name: rb655_door_lock
+[00:28:26	]Pozytyw loaded the character 'S10/OWS.GHOST-52'
+[00:28:32	]S10/OWS.GHOST-52 has gained a 'Magazynek do broni pulsacyjnej 30rnd' #4644.
+[00:28:32	]S10/OWS.GHOST-52 has lost a 'Magazynek do broni pulsacyjnej 30rnd' #4645.
+[00:28:34	]S10/OWS.GHOST-52 has gained a 'Magazynek do broni pulsacyjnej 30rnd' #4645.
+[00:28:34	]S10/OWS.GHOST-52 has lost a 'Magazynek do broni pulsacyjnej 30rnd' #4644.
+[00:28:36	]Pierre Blum has given himself a tool_knife.
+[00:28:36	]Pierre Blum has gained a 'Nóż kuchenny' #5536.
+[00:28:37	]S10/OWS.GHOST-52 entered observer.
+[00:28:38	]Vivienne Devereaux has used a context menu option with the name: door_lockunlock
+[00:28:41	]Pierre Blum has given himself a kitknife.
+[00:28:41	]Pierre Blum has gained a 'Nóż kuchenny' #5537.
+[00:28:42	]Pierre Blum ran 'Equip' on item 'Nóż kuchenny' (#5537)
+[00:28:43	]S10/OWS.GHOST-52 exited observer at their location.
+[00:28:48	]Vivienne Devereaux has used a context menu option with the name: door_lockunlock
+[00:28:51	]Pierre Blum has used a context menu option with the name: rb655_door_unlock
+[00:28:52	][IC] Daniel Miller: A to co za śmieci?
+[00:28:52	]Pierre Blum has used a context menu option with the name: rb655_door_unlock
+[00:28:53	]Vivienne Devereaux has used a context menu option with the name: door_lockunlock
+[00:28:53	][IC] S10/OWS.GHOST-01: <:: He's kicking it. ::>
+[00:28:56	]Vivienne Devereaux has used a context menu option with the name: door_lockunlock
+[00:28:58	][IC] S10/OWS.GHOST-01: <:: Overwatch says stop kicking it. ::>
+[00:29:00	]S10/OWS.GHOST-52 used command '/Radio Jednostka GHOST-52 aktywna'.
+[00:29:02	][IC] S10/OWS.GHOST-01: <:: He stopped kicking it. ::>
+[00:29:06	][IC] S10/OWS.GHOST-01: <:: Gaaah! **Indistinct Panic*. ::>
+[00:29:06	][IC] Daniel Miller: Ktoś się nie przykłada do sprzątania naszych biur...
+[00:29:12	][IC] S10/OWS.GHOST-01: <:: **Indistinct Panic**. ::>
+[00:29:17	]Oktawiangr (STEAM_0:0:69588746) has disconnected.
+[00:29:21	][IC] S10/OWS.GHOST-01: <:: **Indistinct Panic**. ::>
+[00:29:25	][IC] S10/OWS.GHOST-01: <:: Panic4. ::>
+[00:29:25	]Pierre Blum has used a context menu option with the name: rb655_door_unlock
+[00:29:27	]Vivienne Devereaux has given himself a flash_grenade.
+[00:29:27	]Vivienne Devereaux has gained a 'Granat błyskowy' #5538.
+[00:29:28	]Vivienne Devereaux ran 'Equip' on item 'Granat błyskowy' (#5538)
+[00:29:29	]Pierre Blum has used a context menu option with the name: rb655_door_unlock
+[00:29:33	][IC] Pierre Blum: Chodź lowelasie.
+[00:29:36	]Vivienne Devereaux entered observer.
+[00:29:48	]Vivienne Devereaux has given himself a flash_grenade.
+[00:29:48	]Vivienne Devereaux has gained a 'Granat błyskowy' #5539.
+[00:29:50	]Vivienne Devereaux ran 'Equip' on item 'Granat błyskowy' (#5539)
+[00:29:53	]Pierre Blum used command '/ActSit 6'.
+[00:30:01	]Vivienne Devereaux exited observer at their location.
+[00:30:05	][IC] Daniel Miller: Panie Blum...
+[00:30:08	][IC] Pierre Blum: Słucham.
+[00:30:16	][IC] Daniel Miller: Jest Pan czymś zajęty?
+[00:30:18	][IC] S10/OWS.GHOST-52: <:: Affirmative, outbreak status is code delta-seven. Team sundown is on contact overrun. Uhh... Copy that. ::>
+[00:30:24	][IC] S10/OWS.GHOST-01: <:: Sector is tracking at original percent, stable. And... Still holding for transmission, over. ::>
+[00:30:24	][IC] Pierre Blum: Nie.
+[00:30:31	][IC] S10/OWS.GHOST-52: <:: Stabilization team holding position. Lifevis at 73, audibles at... 15. Overwatch confirms HVT is perimeter inbound. Stay alert. ::>
+[00:30:37	]Lin loaded the character 'Sar'nir'thar'
+[00:30:42	]Sar'nir'thar entered observer.
+[00:30:42	]Pierre Blum ran 'EquipUn' on item 'Nóż kuchenny' (#5537)
+[00:30:54	]Sar'nir'thar ran SAM command 'cloak' with arguments: '^'
+[00:30:56	]Sar'nir'thar exited observer at their location.
+[00:31:01	][IC] Daniel Miller: W takim razie co powie Pan na towarzyski wypad na stołówkę? Pozostawmy zaszłości z obrad za sobą.
+[00:31:01	][IC] Sar'nir'thar: Gong...
+[00:31:02	]Sar'nir'thar entered observer.
+[00:31:13	][IC] Pierre Blum: Nie jestem głodny, jem sobie paluszki.
+[00:31:25	]Sar'nir'thar exited observer at their location.
+[00:31:27	][IC] Daniel Miller: To zje je Pan na stołówce.
+[00:31:28	][IC] S10/OWS.GHOST-52: <:: Copy. Pozostań czujny, raportuj kontakt wzrokowy. ::>
+[00:31:30	]Sar'nir'thar ran SAM command 'uncloak' with arguments: '^'
+[00:31:40	][IC] Pierre Blum: Skoro Pan się upiera.
+[00:31:40	]Pierre Blum used command '/ExitAct'.
+[00:31:43	][IC] Pierre Blum: Żołnierze, wymarsz.
+[00:31:46	]Sar'nir'thar entered observer.
+[00:32:06	]Sar'nir'thar exited observer at their location.
+[00:32:08	][IC] Sar'nir'thar: Lung.
+[00:32:12	][IC] Sar'nir'thar: Gong... Lung.
+[00:32:19	][IC] Sar'nir'thar: Gong... Gong... Gong...
+[00:32:37	]S10/OWS.GHOST-52 used command '/Radio Overwatch; aktualnie zabezpieczamy dwóch ministrów w HPR, sytuacja zabezpieczona.'.
+[00:32:38	]S10/OWS.GHOST-52 has gained a 'Magazynek do broni pulsacyjnej 30rnd' #4644.
+[00:32:38	]S10/OWS.GHOST-52 has lost a 'Magazynek do broni pulsacyjnej 30rnd' #4645.
+[00:32:38	]Sar'nir'thar entered observer.
+[00:32:41	]S10/OWS.GHOST-52 has gained a 'Magazynek do broni pulsacyjnej 30rnd' #4645.
+[00:32:41	]S10/OWS.GHOST-52 has lost a 'Magazynek do broni pulsacyjnej 30rnd' #4644.
+[00:32:43	][IC] S10/OWS.GHOST-01: <:: **Indistinct Panic**. ::>
+[00:32:45	]S10/OWS.GHOST-52 entered observer.
+[00:32:45	]Sar'nir'thar exited observer at their location.
+[00:32:46	]Sar'nir'thar entered observer.
+[00:32:47	]S10/OWS.GHOST-52 exited observer at their location.
+[00:32:47	]S10/OWS.GHOST-52 entered observer.
+[00:32:48	][IC] Daniel Miller: ...
+[00:32:53	]S10/OWS.GHOST-52 exited observer at their location.
+[00:32:54	][IC] Pierre Blum: Oni tak czasem mają.
+[00:32:59	][IC] Daniel Miller: Zauważyłem.
+[00:33:00	]Sar'nir'thar exited observer at their location.
+[00:33:03	]Sar'nir'thar entered observer.
+[00:33:07	]Sar'nir'thar exited observer at their location.
+[00:33:12	]Sar'nir'thar entered observer.
+[00:33:22	]Lin loaded the character 'REDACTED'
+[00:33:25	]REDACTED entered observer.
+[00:33:52	]REDACTED used command '/CharSetModel REDACTED models/gman_high.mdl'.
+[00:33:54	]REDACTED exited observer at their location.
+[00:33:57	][IC] Pierre Blum: Co za melina.
+[00:33:58	]REDACTED entered observer.
+[00:34:04	]REDACTED exited observer at their location.
+[00:34:06	]S10/OWS.GHOST-01 has acquired his ration, gaining 0 credits, 0 wages and a civil_protection_ration ration.
+[00:34:09	][IC] Pierre Blum: Pan tu je normalnie?
+[00:34:12	][IC] S10/OWS.GHOST-52: <:: Stop, get back! ::>
+[00:34:13	]S10/OWS.GHOST-52 has gained a 'Magazynek do broni pulsacyjnej 30rnd' #4644.
+[00:34:13	]S10/OWS.GHOST-52 has lost a 'Magazynek do broni pulsacyjnej 30rnd' #4645.
+[00:34:15	][IC] S10/OWS.GHOST-01: <:: Hey, watch it. I don't wanna get any of this crap on me. ::>
+[00:34:19	]S10/OWS.GHOST-01 ran 'take' on item 'Racja żywnościowa Civil Protection' (#5540)
+[00:34:19	]S10/OWS.GHOST-01 has gained a 'Racja żywnościowa Civil Protection' #5540.
+[00:34:23	][IC] REDACTED: Zrób to. Wymajtkuj Bluma.
+[00:34:24	][ME] Daniel Miller: Wkłada ID do dystrybutora, po czym odbiera rację
+[00:34:25	]REDACTED entered observer.
+[00:34:27	]S10/OWS.GHOST-52 has gained a 'Magazynek do broni pulsacyjnej 30rnd' #4645.
+[00:34:27	]S10/OWS.GHOST-52 has lost a 'Magazynek do broni pulsacyjnej 30rnd' #4644.
+[00:34:27	]Daniel Miller has acquired his ration, gaining 0 credits, 60 wages and a loyalist_ration ration.
+[00:34:39	]S10/OWS.GHOST-01 ran 'Open' on item 'Racja żywnościowa Civil Protection' (#5540)
+[00:34:39	]S10/OWS.GHOST-01 has gained a 'Suplementy Civil Protection' #5542.
+[00:34:39	]S10/OWS.GHOST-01 has gained a 'Soda Bob Brawn' #5543.
+[00:34:39	]S10/OWS.GHOST-01 has gained a 'Kupon na 20 Kredytów' #5544.
+[00:34:40	][IC] Daniel Miller: Jak sam Pan zauważył, nasz budżet nie ma się najlepiej.
+[00:34:41	]S10/OWS.GHOST-01 ran 'Consume' on item 'Suplementy Civil Protection' (#5542)
+[00:34:41	]S10/OWS.GHOST-01 has wasted a level 3 long boost in Siła (current: 0; target: 3).
+[00:34:41	]REDACTED exited observer at their location.
+[00:34:42	]S10/OWS.GHOST-01 ran 'Consume' on item 'Soda Bob Brawn' (#5543)
+[00:34:42	]S10/OWS.GHOST-01 has gained a level 1 long boost in Percepcja.
+[00:34:42	]S10/OWS.GHOST-01 has gained a level 2 long boost in Zręczność.
+[00:34:43	]Daniel Miller ran 'take' on item 'Racja żywnościowa Lojalisty' (#5541)
+[00:34:43	]Daniel Miller has gained a 'Racja żywnościowa Lojalisty' #5541.
+[00:34:44	]REDACTED entered observer.
+[00:34:50	][IC] Pierre Blum: W porządku, to wie Pan co, pójdziemy gdzie indziej.
+[00:34:54	][IC] Pierre Blum: Pan pójdzie za mną.
+[00:34:56	]REDACTED exited observer at their location.
+[00:34:57	][ME] S10/OWS.GHOST-52: zerknął na swoje radio.
+[00:34:59	][IC] Daniel Miller: Niech będzie.
+[00:35:18	]REDACTED entered observer.
+[00:35:22	]REDACTED exited observer at their location.
+[00:35:32	]REDACTED entered observer.
+[00:35:33	]REDACTED exited observer at their location.
+[00:35:40	]REDACTED entered observer.
+[00:35:43	]REDACTED exited observer at their location.
+[00:36:08	][IC] S10/OWS.GHOST-52: <:: Ghos. ::>
+[00:36:12	][IC] S10/OWS.GHOST-52: <:: GHOST. ::>
+[00:36:17	][IC] S10/OWS.GHOST-52: <:: Raportuj. ::>
+[00:36:17	]REDACTED entered observer.
+[00:36:18	][IC] S10/OWS.GHOST-01: <:: Shadow. ::>
+[00:36:18	]REDACTED exited observer at their location.
+[00:36:20	][IC] S10/OWS.GHOST-01: <:: W drodze. ::>
+[00:37:01	]REDACTED has given himself a kitknife.
+[00:37:01	]REDACTED has gained a 'Nóż kuchenny' #5545.
+[00:37:04	][ME] Pierre Blum: otworzył drzwi swoimi kluczami.
+[00:37:05	][IC] S10/OWS.GHOST-01: <:: Move back. ::>
+[00:37:06	][IC] Daniel Miller: Faktycznie, uroczy przybytek.
+[00:37:07	]Pierre Blum has used a context menu option with the name: rb655_door_open
+[00:37:17	][IC] Daniel Miller: To Pan jest tu właścicielem?
+[00:37:17	][IC] Pierre Blum: Tam Pan usiądzie, przy stole.
+[00:37:21	]REDACTED ran 'Equip' on item 'Nóż kuchenny' (#5545)
+[00:37:21	][IC] Pierre Blum: Nie.
+[00:37:24	]REDACTED ran 'EquipUn' on item 'PDA Kombinatu' (#5336)
+[00:37:25	]REDACTED ran 'Equip' on item 'Nóż kuchenny' (#5545)
+[00:37:26	]Daniel Miller used command '/ActSit 1'.
+[00:37:28	]Daniel Miller used command '/ExitAct'.
+[00:37:30	]Daniel Miller used command '/ActSit 5'.
+[00:37:32	]Daniel Miller used command '/ExitAct'.
+[00:37:34	]S10/OWS.GHOST-01 opened the 'Personal Stash 1785' stash.
+[00:37:34	][IC] Pierre Blum: Nie no, tutaj usiądziemy.
+[00:37:34	]REDACTED entered observer.
+[00:37:34	][ME] S10/OWS.GHOST-52: spojrzał na swoje radio, szybko odpowiedział
+[00:37:38	]S10/OWS.GHOST-01 closed the 'Personal Stash 1785' stash.
+[00:37:39	]Pierre Blum used command '/ActSit'.
+[00:37:41	]REDACTED exited observer at their location.
+[00:37:44	]Daniel Miller used command '/ActSit 1'.
+[00:37:50	]S10/OWS.GHOST-01 has gained a 'Magazynek do broni pulsacyjnej 30rnd' #4323.
+[00:37:50	]S10/OWS.GHOST-01 has lost a 'Magazynek do broni pulsacyjnej 30rnd' #4324.
+[00:37:52	][IC] S10/OWS.GHOST-01: <:: Hostile contact! ::>
+[00:37:57	][IC] S10/OWS.GHOST-52: <:: Affirmative. Aktualnie w barze Aurora, Triumph Street, sektory zabezpieczone, over. ::>
+[00:37:57	][IC] Pierre Blum: To niech Pan zje swoją rację, a ja zjem paluszki.
+[00:37:59	]REDACTED entered observer.
+[00:38:00	]S10/OWS.GHOST-01 has gained a 'Magazynek do broni pulsacyjnej 30rnd' #4324.
+[00:38:00	]S10/OWS.GHOST-01 has lost a 'Magazynek do broni pulsacyjnej 30rnd' #4323.
+[00:38:01	][IC] Pierre Blum: Przytulne miejsce, prawda?
+[00:38:04	]S10/OWS.GHOST-01 has gained a 'Magazynek do broni pulsacyjnej 30rnd' #4323.
+[00:38:04	]S10/OWS.GHOST-01 has lost a 'Magazynek do broni pulsacyjnej 30rnd' #4324.
+[00:38:08	][IC] Daniel Miller: Prawda, zzęsto Pan tu przesiaduje?
+[00:38:11	][ME] Pierre Blum: położył kubek z paluszkami na stole i zaczął się nimi zasiadać.
+[00:38:12	][LOOC] Daniel Miller: często*
+[00:38:14	]REDACTED has given himself a drug_transhumano.
+[00:38:14	]REDACTED has gained a 'Transhumano' #5546.
+[00:38:15	]REDACTED exited observer at their location.
+[00:38:20	]REDACTED ran 'use' on item 'Transhumano' (#5546)
+[00:38:20	]REDACTED has gained a level 7 short boost in Siła.
+[00:38:20	]REDACTED has gained a level 7 short boost in Percepcja.
+[00:38:20	]REDACTED has gained a 'Plastik' #5547.
+[00:38:21	][IC] Pierre Blum: Czasem, innych barów zbytnio nie ma. A właściciel bardzo miły.
+[00:38:24	]REDACTED entered observer.
+[00:38:28	]REDACTED exited observer at their location.
+[00:38:31	]REDACTED has critically hit S10/OWS.GHOST-01 dealing 17 damage (CritChance was 0.36).
+[00:38:31	]S10/OWS.GHOST-01 has taken 17 damage from REDACTED.
+[00:38:31	]S10/OWS.GHOST-01 has gained a 'Magazynek do broni pulsacyjnej 30rnd' #4324.
+[00:38:31	]S10/OWS.GHOST-01 has lost a 'Magazynek do broni pulsacyjnej 30rnd' #4323.
+[00:38:32	]REDACTED has critically hit S10/OWS.GHOST-01 dealing 17 damage (CritChance was 0.36).
+[00:38:32	]S10/OWS.GHOST-01 has taken 17 damage from REDACTED.
+[00:38:33	]S10/OWS.GHOST-01 is fully healed.
+[00:38:34	][ME] Daniel Miller: Położył pudełko z racjami na stole, po czym wyjmuje z niego jabłko które zaczyna powoli jeść
+[00:38:35	]S10/OWS.GHOST-01 has critically hit REDACTED in the left arm dealing 7 damage (CritChance was 1.01).
+[00:38:35	]REDACTED has taken 6 damage from S10/OWS.GHOST-01.
+[00:38:35	]S10/OWS.GHOST-01 has critically hit REDACTED in the chest dealing 25 damage (CritChance was 1.01).
+[00:38:35	]REDACTED has taken 25 damage from S10/OWS.GHOST-01.
+[00:38:35	]REDACTED has critically hit S10/OWS.GHOST-01 dealing 17 damage (CritChance was 0.37).
+[00:38:35	]S10/OWS.GHOST-01 has taken 17 damage from REDACTED.
+[00:38:35	]S10/OWS.GHOST-01 has critically hit REDACTED in the head dealing 27 damage (CritChance was 1.01).
+[00:38:35	]REDACTED has taken 27 damage from S10/OWS.GHOST-01.
+[00:38:35	]S10/OWS.GHOST-01 has critically hit REDACTED in the chest dealing 25 damage (CritChance was 1.01).
+[00:38:35	]REDACTED has taken 25 damage from S10/OWS.GHOST-01.
+[00:38:36	][IC] S10/OWS.GHOST-52: <:: Sector is tracking at original percent, stable. And... Still holding for transmission, over. ::>
+[00:38:36	]Pierre Blum used command '/StaticCharActionRemove'.
+[00:38:38	]Daniel Miller ran 'Open' on item 'Racja żywnościowa Lojalisty' (#5541)
+[00:38:38	]Daniel Miller has gained a 'Kawałek arbuza' #5548.
+[00:38:38	]Daniel Miller has gained a 'Jabłko' #5549.
+[00:38:38	]Daniel Miller has gained a 'Gazowana woda Breen'a' #5550.
+[00:38:38	]Daniel Miller has gained a 'Kupon na 20 Kredytów' #5551.
+[00:38:38	]S10/OWS.GHOST-01 has gained a 'Magazynek do broni pulsacyjnej 30rnd' #4323.
+[00:38:38	]S10/OWS.GHOST-01 has lost a 'Magazynek do broni pulsacyjnej 30rnd' #4324.
+[00:38:38	]S10/OWS.GHOST-01 is fully healed.
+[00:38:40	]Daniel Miller ran 'Consume' on item 'Jabłko' (#5549)
+[00:38:41	]S10/OWS.GHOST-01 has critically hit REDACTED in the left arm dealing 7 damage (CritChance was 1.01).
+[00:38:41	]REDACTED has taken 6 damage from S10/OWS.GHOST-01.
+[00:38:42	]S10/OWS.GHOST-01 has critically hit REDACTED in the chest dealing 25 damage (CritChance was 1.01).
+[00:38:42	]REDACTED was knocked unconscious and is bleeding out.
+[00:38:44	]S10/OWS.GHOST-01 has critically hit REDACTED in the left leg dealing 0 damage (CritChance was 1.01).
+[00:38:44	]S10/OWS.GHOST-01 has critically hit REDACTED in the left leg dealing 24 damage (CritChance was 1.01).
+[00:38:44	]REDACTED was killed while bleeding out.
+[00:38:44	]S10/OWS.GHOST-01 has killed REDACTED with player.
+[00:38:46	]S10/OWS.GHOST-01 has gained a 'Magazynek do broni pulsacyjnej 30rnd' #4324.
+[00:38:46	]S10/OWS.GHOST-01 has lost a 'Magazynek do broni pulsacyjnej 30rnd' #3462.
+[00:38:48	]REDACTED entered observer.
+[00:38:52	][IC] S10/OWS.GHOST-01: <:: Contact down. ::>
+[00:39:06	]Terry (STEAM_0:0:49956499) has disconnected.
+[00:39:21	]REDACTED has given himself a drug_spikedcoffee.
+[00:39:21	]REDACTED has gained a 'Zaprawiona kubek kawy' #5552.
+[00:39:21	]REDACTED has given himself a drug_spikedcoffee.
+[00:39:22	]REDACTED has gained a 'Zaprawiona kubek kawy' #5553.
+[00:39:25	]REDACTED ran 'drop' on item 'Zaprawiona kubek kawy' (#5552)
+[00:39:25	]REDACTED has lost a 'Zaprawiona kubek kawy' #5552.
+[00:39:26	][IC] Daniel Miller: Przytulne miejsce. No i dosyć łatwe do odcięcia od reszty obywateli.
+[00:39:28	]REDACTED ran 'drop' on item 'Zaprawiona kubek kawy' (#5553)
+[00:39:28	]REDACTED has lost a 'Zaprawiona kubek kawy' #5553.
+[00:39:40	]REDACTED exited observer at their location.
+[00:39:42	]S10/OWS.GHOST-52 used command '/Radio Aktualizacja statusu, aktualnie solo przy dwóch HVT w Aurora Bar, brak wrogich kontaktów.'.
+[00:39:50	][IC] Pierre Blum: Tak, ale szczerze, jakby chcieli nas zabić to jeden molotov i po nas.
+[00:39:55	]REDACTED entered observer.
+[00:40:04	]REDACTED exited observer at their location.
+[00:40:04	]REDACTED entered observer.
+[00:40:05	]REDACTED exited observer at their location.
+[00:40:06	][IC] Pierre Blum: Boją się nas, więc to nie problem.
+[00:40:08	]REDACTED has given himself a drug_demon.
+[00:40:09	]REDACTED has gained a 'Demon's Bees' #5554.
+[00:40:10	]REDACTED has given himself a drug_darkshot.
+[00:40:10	]REDACTED has gained a 'Dark Shot' #5555.
+[00:40:14	]REDACTED has given himself a drug_thirdeye.
+[00:40:14	]REDACTED has gained a 'The Third Eye' #5556.
+[00:40:21	][IC] Daniel Miller: Drogi ewakuacji też bywają przydatne, ale nie ma miejsc idealnych.
+[00:40:23	]REDACTED ran 'use' on item 'Demon's Bees' (#5554)
+[00:40:23	]REDACTED has gained a level 4 short boost in Siła.
+[00:40:23	]REDACTED has gained a level 4 short boost in Zręczność.
+[00:40:23	]REDACTED has gained a level -7 short boost in Inteligencja.
+[00:40:23	]REDACTED has gained a level 6 short boost in Percepcja.
+[00:40:23	]REDACTED has gained a 'Strzykawka' #5557.
+[00:40:31	]REDACTED has given himself a incendiary_grenade.
+[00:40:32	]REDACTED has gained a 'Granat zapalający' #5558.
+[00:40:33	]REDACTED ran 'Equip' on item 'Granat zapalający' (#5558)
+[00:40:40	]S10/OWS.GHOST-52 has gained a 'Magazynek do broni pulsacyjnej 30rnd' #4644.
+[00:40:40	]S10/OWS.GHOST-52 has lost a 'Magazynek do broni pulsacyjnej 30rnd' #4645.
+[00:40:44	][IC] Daniel Miller: W każdym razie... Skąd został Pan relokowany, jeśli można spytać?
+[00:40:45	]REDACTED entered observer.
+[00:41:03	]S10/OWS.GHOST-52 used command '/Radio Overwatch, słyszalny wybuch przy Aurora Bar, aktualizacja - natychmiastowa ewakuacja HVT.'.
+[00:41:04	][IC] Pierre Blum: Przed wojną?
+[00:41:16	][IC] S10/OWS.GHOST-52: <:: Dalej, dalej! ::>
+[00:41:18	][IC] Daniel Miller: Przed wojną i przed służbą w Genewie, tak.
+[00:41:30	]REDACTED has given himself a incendiary_grenade.
+[00:41:30	]REDACTED has gained a 'Granat zapalający' #5559.
+[00:41:30	]REDACTED has given himself a incendiary_grenade.
+[00:41:31	]REDACTED has gained a 'Granat zapalający' #5560.
+[00:41:32	]REDACTED ran 'Equip' on item 'Granat zapalający' (#5560)
+[00:41:36	]REDACTED exited observer at their location.
+[00:41:43	]REDACTED entered observer.
+[00:41:58	]REDACTED has given himself a mssmg.
+[00:41:58	]REDACTED has gained a 'Pistolet Maszynowy Bękart' #5561.
+[00:42:04	]S10/OWS.GHOST-52 used command '/Radio Overwatch; przyślijcie jednostki na moje 10-20.'.
+[00:42:06	]REDACTED ran 'Equip' on item 'Pistolet Maszynowy Bękart' (#5561)
+[00:42:18	]S10/OWS.GHOST-52 has gained a 'Magazynek do broni pulsacyjnej 30rnd' #4645.
+[00:42:18	]S10/OWS.GHOST-52 has lost a 'Magazynek do broni pulsacyjnej 30rnd' #4644.
+[00:42:22	]REDACTED exited observer at their location.
+[00:42:29	][IC] S10/OWS.GHOST-52: <:: Hostile contact. ::>
+[00:42:30	]S10/OWS.GHOST-52 has gained a 'Magazynek do broni pulsacyjnej 30rnd' #4644.
+[00:42:30	]S10/OWS.GHOST-52 has lost a 'Magazynek do broni pulsacyjnej 30rnd' #4645.
+[00:42:32	][IC] Pierre Blum: Przed wojną pracowałem w ONZ w Genewie. I tutaj zostałem.
+[00:42:36	][IC] S10/OWS.GHOST-52: <:: Fire range. ::>
+[00:42:38	]REDACTED entered observer.
+[00:42:41	]S10/OWS.GHOST-52 has gained a 'Magazynek do broni pulsacyjnej 30rnd' #4645.
+[00:42:41	]S10/OWS.GHOST-52 has lost a 'Magazynek do broni pulsacyjnej 30rnd' #4644.
+[00:42:52	]Lin (STEAM_0:0:49825902) has disconnected.
+[00:42:58	]S10/OWS.GHOST-52 used command '/Radio idle'.
+[00:43:07	][IC] Daniel Miller: To dość... Nietypowe... Całe życie bez transferu nie jest częstym elementem życiorysu, nawet w przypadku członków rządu.
+[00:43:36	][IC] Pierre Blum: Jak tworzyła się nowa administracja to potrzebni byli nowi ludzie. Żeby Pan mnie nie zrozumiał, widziałem inne miasta, ale nie z przymusu.
+[00:43:52	][IC] Pierre Blum: Ot tak nie da się wyczarować urzędników, czemu nie wykorzystać starych?
+[00:44:46	][IC] S10/OWS.GHOST-52: <:: Copy that. Zabezpieczanie w trakcie. ::>
+[00:45:11	][IC] Daniel Miller: To racja. A podróżował Pan hobbystycznie, czy służbowo?
+[00:45:36	][IC] Pierre Blum: I to, i to. Przed Burzą Portali podróżowałem hobbystycznie, a później już tylko służbowo.
+[00:46:43	][IC] Daniel Miller: To musiała być miła odskocznia. Niewielu miało okazje trafić do jakiegoś miasta z biletem powrotnym.
+[00:46:46	]S10/OWS.GHOST-52 used command '/Radio Negative; brak oznak działalności anty-obywatelskiej w promieniu 50 metrów.'.
+[00:46:58	]S10/OWS.GHOST-52 used command '/Radio copy'.
+[00:47:07	][IC] Pierre Blum: Tak, można tak powiedzieć. A Pan skąd się wziął?
+[00:48:24	][IC] Daniel Miller: Pochodzę z Londynu, tak samo z resztą jak Administrator Campbell. Wielu mówi, że jest to dość... Depresyjne miejsce. Ale mi zawsze pasowała tak zwana pogoda Angielska.
+[00:48:34	][LOOC] Daniel Miller: ta tak zwana*
+[00:48:46	][IC] Pierre Blum: I co pan robił?
+[00:49:04	]S10/OWS.GHOST-52 used command '/Radio accepted dissonance update'.
+[00:49:54	][IC] Daniel Miller: Głównie studiowałem. Wojna zastała mnie tuż przed maturą, a moja rodzina była skora do współpracy z nowym rządem. Dlatego osadzili mnie w placówce edukacji wyższej, skąd po ukończeniu dość szybko trafiłem do struktur lokalnego rządu.
+[00:50:58	][IC] Daniel Miller: Około rok temu przetransferowali mnie do Miasta 24. Zanim udostępniono miasto do użytku cywilnego, lokalne jednostki były angażowane w operacje militarne, którymi kierowałem i koordynowałem.
+[00:52:06	][IC] Pierre Blum: Aha, to pewnie dlatego Pana nie kojarzę. Takich młodych jak Pan było wielu. I co, jakie ma Pan ambicje?
+[00:52:58	][IC] Daniel Miller: Ja na szczęście spełniłem swoje ambicje. Jedyna wyższa posada mnie nie interesuje. Pan Campbell regularnie udowadnia mi, że nie chcę go kiedykolwiek zastępować.
+[00:53:24	][IC] Pierre Blum: W porządku, ale może interesuje Pana inne miasto niż nasze? Londyn z pewnością jest ważniejszy od nas.
+[00:54:40	][IC] Daniel Miller: Jest ważniejszy, ale na pewno nie bardziej prestiżowy -  przynajmniej w propagandzie. Na ten moment pracuje mi się tutaj dużo lepiej, a wszelkie wnioski które wysyłamy do innych miast wchodzą bardzo... Gładko...
+[00:55:28	]S10/OWS.GHOST-52 used command '/PM Daniel ty, ja zara będę musiał spierdalć'.
+[00:55:36	]S10/OWS.GHOST-52 used command '/PM Daniel Bo mi się oczy zamykają XD'.
+[00:55:44	][IC] Pierre Blum: Rozumiem. Więc, jak Panu pasuje aktualna posada? W kontekście funkcjonariuszy i bezpieczeństwa całego miasta.
+[00:55:44	]Daniel Miller used command '/PM ghost to spierdalaj xD my i tak passive rp odgrywamy'.
+[00:56:05	]S10/OWS.GHOST-52 used command '/Radio Zrozumiano, powrót do HPR w celu rewitalizacji'.
+[00:56:41	][IC] Daniel Miller: Z rank leaderami łatwo się dogadać, tak samo z członkami zarządów instytucji cywilnych.
+[00:56:51	]S10/OWS.GHOST-52 entered observer.
+[00:56:53	][IC] Pierre Blum: A sprawowanie niższych rang?
+[00:57:01	]S10/OWS.GHOST-52 exited observer at their location.
+[00:57:07	]S10/OWS.GHOST-52 has given himself a uniform_valkyrie.
+[00:57:07	]S10/OWS.GHOST-52 has gained a 'Uniform OTA - Valkyrie' #5562.
+[00:57:40	]S10/OWS.GHOST-52 has given himself a uniform_ocs.
+[00:57:40	]S10/OWS.GHOST-52 has gained a 'Uniform OTA - Containment' #5563.
+[00:57:45	]S10/OWS.GHOST-52 ran 'drop' on item 'Uniform OTA - Valkyrie' (#5562)
+[00:57:45	]S10/OWS.GHOST-52 has lost a 'Uniform OTA - Valkyrie' #5562.
+[00:57:54	]S10/OWS.GHOST-52 has used a context menu option with the name: remove
+[00:57:59	]S10/OWS.GHOST-52 ran 'drop' on item 'Uniform OTA - Containment' (#5563)
+[00:57:59	]S10/OWS.GHOST-52 has lost a 'Uniform OTA - Containment' #5563.
+[00:58:02	]S10/OWS.GHOST-52 has used a context menu option with the name: remove
+[00:58:16	]S10/OWS.GHOST-52 has given himself a uniform_owc.
+[00:58:16	]S10/OWS.GHOST-52 has gained a 'Uniform Dowódcy Oddziału OTA' #5564.
+[00:58:23	]S10/OWS.GHOST-52 ran 'drop' on item 'Uniform Dowódcy Oddziału OTA' (#5564)
+[00:58:23	]S10/OWS.GHOST-52 has lost a 'Uniform Dowódcy Oddziału OTA' #5564.
+[00:58:25	]S10/OWS.GHOST-52 has used a context menu option with the name: remove
+[00:58:29	]S10/OWS.GHOST-52 has given himself a uniform_valkyrie.
+[00:58:29	]S10/OWS.GHOST-52 has gained a 'Uniform OTA - Valkyrie' #5565.
+[00:58:39	][IC] Daniel Miller: Z tym bywa różnie. Mieliśmy kilka skarg, ale wszystko jest załatwiane na bieżąco, więc wszystkie problemy bardzo szybko się urywają.
+[00:59:23	]Pozytyw (STEAM_0:0:84397718) has disconnected.
+[00:59:50	][IC] Pierre Blum: Mhm. *chwycił ostatniego paluszka i zjadł*.
+[01:00:03	]Daniel Miller ran 'Consume' on item 'Kawałek arbuza' (#5548)
+[01:00:04	]Daniel Miller ran 'Consume' on item 'Gazowana woda Breen'a' (#5550)
+[01:00:04	]Daniel Miller has gained a 'Pusta puszka po wodzie Breen'a' #5566.
+[01:01:08	][IC] Daniel Miller: A co Pan myśli o naszym środowisku pracy? Bo wyobrażam sobie, że gdyby na nasze dzisiejsze odprawy wpadł ktoś z zewnątrz, to miałby niemały problem z wejściem w nasz... *Klimat*.
+[01:01:52	][IC] Pierre Blum: Normalna sprawa, to kwestia przyzwyczajenia. *wzruszył ramionami* Po prostu między nami mniej się owija w bawełnę.
+[01:01:56	][LOOC] Daniel Miller: obrady*
+[01:03:02	][IC] Daniel Miller: Dobrze powiedziane. Ja zawsze uważałem się za osobę bezpośrednią i myślałem o tym, jako o swojej cnocie.
+[01:04:22	][IC] Daniel Miller: No dobra... Miło było pogadać, ale powinniśmy wracać do biura. Dziekuję Panu za ten miły czas.
+[01:04:32	][IC] Pierre Blum: Tak, koniec tego dobrego. Miłego wieczoru.
+[01:04:33	]Pierre Blum used command '/ExitAct'.
+[01:04:34	]Daniel Miller used command '/ExitAct'.
+[01:04:39	]Pierre Blum entered observer.
+[01:05:00	]Pierre Blum exited observer at their location.
+[01:05:01	]Pierre Blum entered observer.
+[01:05:01	]Pierre Blum exited observer at their location.
+[01:05:03	]Pierre Blum ran SAM command 'bring' with arguments: 'Daniel'
+[01:05:05	]Pierre Blum entered observer.
+[01:05:12	]Snakeiter (STEAM_0:1:146784845) has disconnected.
+[01:07:16	]Pierre Blum exited observer at their location.
+[01:07:16	]Pierre Blum entered observer.
+[01:07:17	]Pierre Blum exited observer at their location.
+[01:07:17	]Pierre Blum entered observer.
+[01:07:27	]Pierre Blum exited observer at their location.
+[01:07:27	]Pierre Blum entered observer.
+[01:07:28	]Pierre Blum exited observer at their location.
+[01:07:30	]Pierre Blum entered observer.
+[01:07:30	]Pierre Blum exited observer at their location.
+[01:07:30	]Pierre Blum has taken 16 damage from worldspawn.
+[01:07:31	]Pierre Blum entered observer.
+[01:07:31	]Pierre Blum exited observer at their location.
+[01:07:34	]Pierre Blum entered observer.
+[01:07:34	]Pierre Blum exited observer at their location.
+[01:07:35	]Pierre Blum entered observer.
+[01:07:36	]Pierre Blum exited observer at their location.
+[01:07:36	]Pierre Blum entered observer.
+[01:07:37	]Pierre Blum exited observer at their location.
+[01:07:37	]Pierre Blum entered observer.
+[01:07:38	]Pierre Blum exited observer at their location.
+[01:07:39	]Pierre Blum entered observer.
+[01:07:40	]Pierre Blum exited observer at their location.
+[01:07:41	]Pierre Blum entered observer.
+[01:07:42	]Pierre Blum exited observer at their location.
+[01:07:43	]Pierre Blum entered observer.
+[01:07:43	]Pierre Blum exited observer at their location.
+[01:07:45	]Pierre Blum entered observer.
+[01:07:45	]Pierre Blum exited observer at their location.
+[01:07:46	]Pierre Blum entered observer.
+[01:07:49	]Pierre Blum exited observer at their location.
+[01:07:50	]Pierre Blum entered observer.
+[01:07:50	]Pierre Blum exited observer at their location.
+[01:07:50	]Pierre Blum entered observer.
+[01:08:28	]Pierre Blum exited observer at their location.
+[01:08:29	]Pierre Blum entered observer.
+[01:08:32	]Pierre Blum exited observer at their location.
+[01:08:32	]Pierre Blum entered observer.
+[01:08:33	]Pierre Blum exited observer at their location.
+[01:08:33	]Pierre Blum entered observer.
+[01:08:33	]Pierre Blum exited observer at their location.
+[01:08:34	]Pierre Blum entered observer.
+[01:08:34	]Pierre Blum exited observer at their location.
+[01:08:35	]Pierre Blum entered observer.
+[01:08:35	]Pierre Blum exited observer at their location.
+[01:08:36	]Pierre Blum entered observer.
+[01:08:37	]Pierre Blum exited observer at their location.
+[01:08:37	]Pierre Blum entered observer.
+[01:08:38	]Pierre Blum exited observer at their location.
+[01:08:40	]Pierre Blum entered observer.
+[01:08:40	]Pierre Blum exited observer at their location.
+[01:08:41	]Pierre Blum entered observer.
+[01:08:42	]Pierre Blum exited observer at their location.
+[01:08:43	]Pierre Blum entered observer.
+[01:08:43	]Pierre Blum exited observer at their location.
+[01:08:44	]Pierre Blum entered observer.
+[01:08:44	]Pierre Blum exited observer at their location.
+[01:08:46	]Pierre Blum entered observer.
+[01:08:46	]Pierre Blum exited observer at their location.
+[01:08:47	]Pierre Blum entered observer.
+[01:08:48	]Pierre Blum exited observer at their location.
+[01:08:48	]Pierre Blum entered observer.
+[01:08:50	]Pierre Blum exited observer at their location.
+[01:08:52	]Pierre Blum entered observer.
+[01:08:52	]Pierre Blum exited observer at their location.
+[01:08:53	]Pierre Blum entered observer.
+[01:08:54	]Pierre Blum exited observer at their location.
+[01:08:54	]Pierre Blum entered observer.
+[01:08:54	]Pierre Blum exited observer at their location.
+[01:08:55	]Pierre Blum entered observer.
+[01:08:56	]Pierre Blum exited observer at their location.
+[01:08:57	]Pierre Blum entered observer.
+[01:08:58	]Pierre Blum exited observer at their location.
+[01:08:59	]Pierre Blum entered observer.
+[01:08:59	]Pierre Blum exited observer at their location.
+[01:09:03	]Pierre Blum entered observer.
+[01:09:04	]Pierre Blum exited observer at their location.
+[01:09:05	]Pierre Blum entered observer.
+[01:09:06	]Pierre Blum exited observer at their location.
+[01:09:08	]Wenli (STEAM_0:1:86169246) has disconnected.
