@@ -1,0 +1,537 @@
+[22:53:36	]Mao Zheng Tao s'est connecté.
+[22:57:11	]Mao Zheng Tao créé le personnage 'AxeL [ Equipe Animation / Narration ]'
+[22:57:11	]Mao Zheng Tao chargé le personnage 'AxeL [ Equipe Animation / Narration ]'
+[22:57:11	]AxeL [ Equipe Animation / Narration ] a gagné un 'Brassard - Gris' #197754.
+[22:57:11	]AxeL [ Equipe Animation / Narration ] a gagné un '# Carte CID n° : 07337' #197755.
+[22:57:11	]AxeL [ Equipe Animation / Narration ] a gagné un 'Combinaison rouge' #197756.
+[22:57:11	]AxeL [ Equipe Animation / Narration ] a gagné un 'Pantalon de combinaison noir' #197757.
+[22:57:11	]AxeL [ Equipe Animation / Narration ] a gagné un 'Bottes en cuir marron' #197758.
+[22:57:11	]AxeL [ Equipe Animation / Narration ] a gagné un 'Lunettes' #197759.
+[22:57:16	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[22:57:17	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[22:57:29	]AxeL [ Equipe Animation / Narration ] a exécuté 'Equip' sur l'article 'Brassard - Gris' (#197754)
+[22:57:33	]AxeL [ Equipe Animation / Narration ] a exécuté 'drop' sur l'article 'Brassard - Gris' (#197754)
+[22:57:33	]AxeL [ Equipe Animation / Narration ] a perdu un 'Brassard - Gris' #197754.
+[22:57:36	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : remove
+[22:57:44	]AxeL [ Equipe Animation / Narration ] s'est give armband_white.
+[22:57:44	]AxeL [ Equipe Animation / Narration ] a gagné un 'Brassard - Blanc' #197760.
+[22:57:47	]AxeL [ Equipe Animation / Narration ] s'est give shoes_dress_shoes.
+[22:57:47	]AxeL [ Equipe Animation / Narration ] a gagné un 'Chaussures habillées' #197761.
+[22:58:01	]AxeL [ Equipe Animation / Narration ] s'est give cca_legs_elephant.
+[22:58:01	]AxeL [ Equipe Animation / Narration ] a gagné un 'Pantalon de chasseur d'éléphants' #197762.
+[22:58:03	]AxeL [ Equipe Animation / Narration ] s'est give cca_elephant.
+[22:58:03	]AxeL [ Equipe Animation / Narration ] a gagné un 'Chasseur d'éléphants' #197763.
+[22:58:22	]AxeL [ Equipe Animation / Narration ] s'est give cca_legs_savoy.
+[22:58:22	]AxeL [ Equipe Animation / Narration ] a gagné un 'Pantalon Savoie' #197764.
+[22:58:24	]AxeL [ Equipe Animation / Narration ] s'est give cca_savoy.
+[22:58:24	]AxeL [ Equipe Animation / Narration ] a gagné un 'Le savoyard bleu' #197765.
+[22:58:35	]AxeL [ Equipe Animation / Narration ] a exécuté 'drop' sur l'article 'Pantalon de combinaison noir' (#197757)
+[22:58:35	]AxeL [ Equipe Animation / Narration ] a perdu un 'Pantalon de combinaison noir' #197757.
+[22:58:36	]AxeL [ Equipe Animation / Narration ] a exécuté 'drop' sur l'article 'Combinaison rouge' (#197756)
+[22:58:36	]AxeL [ Equipe Animation / Narration ] a perdu un 'Combinaison rouge' #197756.
+[22:58:37	]AxeL [ Equipe Animation / Narration ] a exécuté 'drop' sur l'article 'Bottes en cuir marron' (#197758)
+[22:58:37	]AxeL [ Equipe Animation / Narration ] a perdu un 'Bottes en cuir marron' #197758.
+[22:58:37	]AxeL [ Equipe Animation / Narration ] a exécuté 'drop' sur l'article 'Pantalon de chasseur d'éléphants' (#197762)
+[22:58:37	]AxeL [ Equipe Animation / Narration ] a perdu un 'Pantalon de chasseur d'éléphants' #197762.
+[22:58:38	]AxeL [ Equipe Animation / Narration ] a exécuté 'drop' sur l'article 'Chasseur d'éléphants' (#197763)
+[22:58:38	]AxeL [ Equipe Animation / Narration ] a perdu un 'Chasseur d'éléphants' #197763.
+[22:58:40	]AxeL [ Equipe Animation / Narration ] a exécuté 'Equip' sur l'article 'Brassard - Blanc' (#197760)
+[22:58:42	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : remove
+[22:58:43	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : remove
+[22:58:44	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : remove
+[22:58:45	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : remove
+[22:58:46	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : remove
+[22:58:51	]AxeL [ Equipe Animation / Narration ] s'est give aviators.
+[22:58:51	]AxeL [ Equipe Animation / Narration ] a gagné un 'Lunettes d'aviateur' #197766.
+[22:58:56	]AxeL [ Equipe Animation / Narration ] a exécuté 'drop' sur l'article 'Lunettes' (#197759)
+[22:58:56	]AxeL [ Equipe Animation / Narration ] a perdu un 'Lunettes' #197759.
+[22:58:59	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[22:59:00	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[22:59:01	]env_entity_dissolver détruit un 'Lunettes' #197759.
+[22:59:02	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[22:59:47	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[22:59:50	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[22:59:56	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:00:21	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:00:23	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:00:27	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:00:34	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:00:48	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [117][pfx1_0c]'.
+[23:00:56	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [117][pfx1_0d]'.
+[23:01:53	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [118][npc_vj_ezt_fast_ncxenbie]'.
+[23:01:55	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [118][npc_vj_ezt_ncglowbie]'.
+[23:01:56	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:02:01	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [118][npc_vj_ezt_fast_ncglowbieto]'.
+[23:02:07	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[23:02:15	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:02:19	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:02:23	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [118][npc_vj_ezt_petlion]'.
+[23:03:09	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:04:36	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:04:36	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:05:34	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:05:35	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:07:10	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [101][npc_vj_ezt_deadvort]'.
+[23:07:47	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [117][npc_vj_ezt_sumvort]'.
+[23:07:55	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:07:56	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:08:22	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [101][npc_vj_ezt_gloworker]'.
+[23:08:26	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [236][npc_vj_ezt_glowlion]'.
+[23:08:30	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [263][npc_vj_ezt_poglowcrab]'.
+[23:08:34	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [101][npc_vj_ezt_gflyingpredator]'.
+[23:08:38	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [101][npc_vj_ezt_comvort]'.
+[23:08:42	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [101][npc_vj_ezt_deadboss]'.
+[23:08:47	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [101][npc_vj_ezt_tamer]'.
+[23:08:50	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:09:53	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [101][npc_vj_ezo_fast_arcbieto]'.
+[23:10:31	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [117][npc_vj_ezo_fast_arcbieto]'.
+[23:10:36	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [101][npc_vj_ezo_arccrab]'.
+[23:10:39	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [101][npc_vj_ezo_fast_arcbie]'.
+[23:10:40	]AxeL [ Equipe Animation / Narration ] a subi 10 dégâts de Arctic Fast Zombie.
+[23:10:56	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [101][npc_vj_ezt_camoscanner]'.
+[23:11:19	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:11:20	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [101][npc_vj_ezt_advisorv2]'.
+[23:11:27	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [101][npc_vj_ezt_aflock]'.
+[23:11:30	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:11:38	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:11:40	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [117][npc_vj_ezt_glowcrab]'.
+[23:11:47	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [101][npc_vj_ezt_aflock]'.
+[23:11:48	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [117][npc_vj_ezt_arbcrab]'.
+[23:11:58	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [101][sent_vj_ezt_tree]'.
+[23:12:00	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [117][npc_vj_ezt_ccrab]'.
+[23:12:01	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [119][npc_vj_ezt_ccrab]'.
+[23:12:06	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[23:13:02	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:13:02	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:13:13	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:13:42	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_d47_canals/interior_wall_512.mdl.
+[23:15:45	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_c17/fence03a.mdl.
+[23:15:52	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_c17/fence03a.mdl.
+[23:16:03	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_c17/fence03a.mdl.
+[23:16:08	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_c17/fence03a.mdl.
+[23:16:12	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_c17/fence03a.mdl.
+[23:16:22	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_c17/fence03a.mdl.
+[23:16:27	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_c17/fence03a.mdl.
+[23:16:35	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_c17/fence03a.mdl.
+[23:17:03	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_d47_canals/interior_wall_256.mdl.
+[23:17:38	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_lab/wallunit_display.mdl.
+[23:17:40	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_lab/wallunit_housing.mdl.
+[23:17:56	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_d47_canals/interior_wall_256.mdl.
+[23:18:20	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_c17/fence03a.mdl'.
+[23:18:20	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:18:21	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_c17/fence03a.mdl'.
+[23:18:21	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:18:22	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_c17/fence03a.mdl'.
+[23:18:22	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:18:22	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_c17/fence03a.mdl'.
+[23:18:22	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:18:23	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_c17/fence03a.mdl'.
+[23:18:23	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:18:25	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_c17/fence03a.mdl'.
+[23:18:25	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:18:26	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_c17/fence03a.mdl'.
+[23:18:26	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:18:27	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_c17/fence03a.mdl'.
+[23:18:27	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:18:27	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_d47_canals/interior_wall_256.mdl'.
+[23:18:27	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:18:34	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: submaterial
+[23:18:38	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: submaterial
+[23:19:08	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combineinnerwall001c.mdl.
+[23:19:10	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combineinnerwallcluster1024_001a.mdl.
+[23:19:16	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combineinnerwallcluster1024_002a.mdl.
+[23:19:18	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combineinnerwallcluster1024_003a.mdl.
+[23:20:05	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/railing_corner_outside.mdl.
+[23:20:19	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/combine_scanner.mdl.
+[23:20:20	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/combine_scanner.mdl.
+[23:20:28	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [263][npc_vj_combine_apc_z]'.
+[23:20:29	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'NPC [279][npc_vj_combine_apc_z]'.
+[23:20:30	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:20:31	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:20:31	]AxeL [ Equipe Animation / Narration ] a subi 10 dégâts de Combine APC.
+[23:20:31	]AxeL [ Equipe Animation / Narration ] a subi 2 dégâts de Combine APC.
+[23:20:31	]AxeL [ Equipe Animation / Narration ] a subi 2 dégâts de Combine APC.
+[23:20:31	]AxeL [ Equipe Animation / Narration ] a subi 2 dégâts de Combine APC.
+[23:20:31	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:20:39	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : remove
+[23:20:40	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:20:43	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [263][item_healthkit]'.
+[23:20:44	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [263][item_healthvial]'.
+[23:20:46	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [263][item_battery]'.
+[23:20:46	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [264][item_battery]'.
+[23:20:46	]AxeL [ Equipe Animation / Narration ] est complètement guéri.
+[23:20:46	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [265][item_battery]'.
+[23:20:47	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [266][item_battery]'.
+[23:20:47	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [269][item_battery]'.
+[23:20:47	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:20:59	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/combine_wall.mdl.
+[23:21:35	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combineinnerwallcluster1024_001a.mdl.
+[23:21:40	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:22:15	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combineinnerwallcluster1024_001a.mdl'.
+[23:22:15	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:22:21	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combineinnerwallcluster1024_003a.mdl.
+[23:22:23	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:22:37	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:22:39	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:23:27	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combineinnerwallcluster1024_002a.mdl.
+[23:23:31	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:23:34	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : remove
+[23:24:08	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:24:11	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_barricade_tall01b.mdl.
+[23:24:15	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_booth_med01a.mdl.
+[23:24:21	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_booth_short01a.mdl.
+[23:25:05	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/hunter/blocks/cube2x6x05.mdl.
+[23:25:08	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/hunter/blocks/cube2x6x1.mdl.
+[23:25:13	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/hunter/blocks/cube3x6x025.mdl.
+[23:25:14	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/hunter/blocks/cube3x8x025.mdl.
+[23:25:17	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/hunter/blocks/cube4x8x1.mdl.
+[23:25:20	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:25:30	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:25:35	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/hunter/blocks/cube4x8x1.mdl'.
+[23:25:35	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:25:36	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:25:37	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:25:41	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: submaterial
+[23:25:45	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: submaterial
+[23:25:46	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: submaterial
+[23:25:50	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: submaterial
+[23:25:51	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: submaterial
+[23:25:53	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: submaterial
+[23:25:54	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: submaterial
+[23:25:56	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: submaterial
+[23:25:57	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: submaterial
+[23:25:59	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: submaterial
+[23:26:00	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: submaterial
+[23:26:01	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: submaterial
+[23:26:02	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: submaterial
+[23:26:03	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: submaterial
+[23:26:48	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:27:31	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/iBeam01a_cluster01.mdl.
+[23:27:41	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: submaterial
+[23:27:48	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:28:02	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: duplicator
+[23:28:02	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/ibeam01a_cluster01.mdl.
+[23:28:04	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: duplicator
+[23:28:04	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/ibeam01a_cluster01.mdl.
+[23:28:05	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: duplicator
+[23:28:05	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/ibeam01a_cluster01.mdl.
+[23:28:05	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: duplicator
+[23:28:05	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/ibeam01a_cluster01.mdl.
+[23:28:06	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: duplicator
+[23:28:06	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/ibeam01a_cluster01.mdl.
+[23:28:14	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: duplicator
+[23:28:14	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/ibeam01a_cluster01.mdl.
+[23:28:16	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: duplicator
+[23:28:16	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/ibeam01a_cluster01.mdl.
+[23:28:17	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: duplicator
+[23:28:17	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/ibeam01a_cluster01.mdl.
+[23:28:18	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: duplicator
+[23:28:18	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/ibeam01a_cluster01.mdl.
+[23:28:18	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: duplicator
+[23:28:18	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/ibeam01a_cluster01.mdl.
+[23:28:19	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: duplicator
+[23:28:19	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/ibeam01a_cluster01.mdl.
+[23:28:19	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: duplicator
+[23:28:19	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/ibeam01a_cluster01.mdl.
+[23:28:22	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: duplicator
+[23:28:22	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/ibeam01a_cluster01.mdl.
+[23:28:22	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: duplicator
+[23:28:22	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/ibeam01a_cluster01.mdl.
+[23:28:26	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:28:27	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:28:27	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:28:28	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:28:28	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:29:06	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: duplicator
+[23:29:06	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/ibeam01a_cluster01.mdl.
+[23:29:08	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: duplicator
+[23:29:08	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/ibeam01a_cluster01.mdl.
+[23:29:09	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: duplicator
+[23:29:09	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/ibeam01a_cluster01.mdl.
+[23:29:09	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: duplicator
+[23:29:09	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/ibeam01a_cluster01.mdl.
+[23:29:10	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: duplicator
+[23:29:10	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/ibeam01a_cluster01.mdl.
+[23:29:11	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: duplicator
+[23:29:11	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_junk/ibeam01a_cluster01.mdl.
+[23:29:12	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:29:13	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:29:14	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:29:14	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:29:14	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:30:32	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_junk/ibeam01a_cluster01.mdl'.
+[23:30:32	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:30:33	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_junk/ibeam01a_cluster01.mdl'.
+[23:30:33	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:30:34	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_junk/ibeam01a_cluster01.mdl'.
+[23:30:34	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:30:34	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_junk/ibeam01a_cluster01.mdl'.
+[23:30:34	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:30:35	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_junk/ibeam01a_cluster01.mdl'.
+[23:30:35	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:30:36	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_junk/ibeam01a_cluster01.mdl'.
+[23:30:36	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:30:37	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_junk/ibeam01a_cluster01.mdl'.
+[23:30:37	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:30:37	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_junk/ibeam01a_cluster01.mdl'.
+[23:30:37	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:30:38	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_junk/ibeam01a_cluster01.mdl'.
+[23:30:38	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:30:39	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_junk/ibeam01a_cluster01.mdl'.
+[23:30:39	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:30:40	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_junk/ibeam01a_cluster01.mdl'.
+[23:30:40	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:31:46	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_barricade_tall04a.mdl.
+[23:31:48	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:32:49	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_barricade_tall04a.mdl'.
+[23:32:49	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:32:50	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_booth_short01a.mdl'.
+[23:32:50	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:32:52	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_booth_med01a.mdl'.
+[23:32:52	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:32:56	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:32:59	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:32:59	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:33:07	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:33:23	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_barricade_med02c.mdl.
+[23:33:27	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:33:39	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_barricade_med02c.mdl'.
+[23:33:39	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:33:45	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_barricade_med02b.mdl.
+[23:33:46	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_barricade_med02c.mdl.
+[23:33:48	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:34:06	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_barricade_med02c.mdl'.
+[23:34:06	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:34:12	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_barricade_med01b.mdl.
+[23:34:15	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:34:17	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:34:23	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_barricade_med01a.mdl.
+[23:34:32	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:34:46	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_barricade_med01b.mdl.
+[23:34:49	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:35:21	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_barricade_med01a.mdl'.
+[23:35:21	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:35:22	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_barricade_med01b.mdl'.
+[23:35:22	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:35:22	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:35:28	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:35:31	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_barricade_med01b.mdl.
+[23:35:34	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_barricade_tall01a.mdl.
+[23:35:38	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:35:56	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_barricade_med01a.mdl.
+[23:35:58	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:36:56	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_barricade_med01a.mdl'.
+[23:36:56	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:37:07	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_barricade_tall03a.mdl.
+[23:37:12	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:37:36	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_barricade_tall02b.mdl.
+[23:37:38	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:37:52	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_barricade_med02c.mdl.
+[23:37:55	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:38:15	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_barricade_med02c.mdl'.
+[23:38:15	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:38:16	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_barricade_tall03a.mdl'.
+[23:38:16	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:38:25	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:38:31	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:38:34	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/bunker_gun01.mdl.
+[23:39:14	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_booth_med01a.mdl.
+[23:39:28	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_booth_short01a.mdl.
+[23:39:30	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:39:31	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:39:42	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:39:43	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:40:29	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_booth_med01a.mdl'.
+[23:40:29	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:40:30	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_booth_short01a.mdl'.
+[23:40:30	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:40:34	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_booth_short01a.mdl.
+[23:40:37	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:42:34	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : remove
+[23:42:43	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combineinnerwall001c.mdl.
+[23:42:50	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:43:18	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_booth_short01a.mdl.
+[23:43:24	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_booth_short01a.mdl.
+[23:43:33	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:43:43	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:43:48	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:44:04	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_booth_short01a.mdl'.
+[23:44:04	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:44:04	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_booth_short01a.mdl'.
+[23:44:04	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:44:19	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [569][ix_forcefield]'.
+[23:44:30	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [569][ix_forcefield]'.
+[23:44:33	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [569][ix_forcefield]'.
+[23:44:41	]AxeL [ Equipe Animation / Narration ] a désactivé persistance pour 'models/props_combine/combine_booth_short01a.mdl'.
+[23:44:41	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist_end
+[23:44:44	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:45:07	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_booth_short01a.mdl'.
+[23:45:07	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:45:09	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : ixforcefieldstartmalfunction
+[23:45:13	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : ixforcefieldstopmalfunction
+[23:45:30	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [569][ix_fabricator]'.
+[23:45:33	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [569][ix_intercom]'.
+[23:45:38	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [569][ix_crackedprinter]'.
+[23:45:40	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [569][ix_computer]'.
+[23:45:42	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [569][ix_workshiftterminal]'.
+[23:45:44	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [569][ix_infestation_tank]'.
+[23:45:46	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [569][ix_sandbag]'.
+[23:45:50	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [570][ix_scanner]'.
+[23:45:55	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:46:11	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [566][ix_teleporter]'.
+[23:46:15	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [566][ix_cwuterminal]'.
+[23:46:17	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [566][ix_watercache]'.
+[23:46:19	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [566][ix_combinemonitor_tv]'.
+[23:46:21	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [569][ix_combinemonitor_small]'.
+[23:46:23	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [566][ix_combinemonitor]'.
+[23:46:34	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [566][ix_customvendingmachine]'.
+[23:46:39	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:46:43	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[23:46:44	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[23:46:45	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[23:46:45	]env_entity_dissolver détruit un 'Clé de distributeur automatique' #197768.
+[23:46:46	]env_entity_dissolver détruit un 'Clé de distributeur automatique' #197767.
+[23:46:47	]env_entity_dissolver détruit un 'Clé de distributeur automatique' #197769.
+[23:46:48	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [569][ix_rationdispenser]'.
+[23:46:59	]AxeL [ Equipe Animation / Narration ] a acquis sa ration, gagnant 0 crédits, 0 salaires et une ration ration.
+[23:47:12	]AxeL [ Equipe Animation / Narration ] a exécuté 'take' sur l'article 'Ration - Standard' (#197770)
+[23:47:12	]AxeL [ Equipe Animation / Narration ] a gagné un 'Ration - Standard' #197770.
+[23:47:14	]AxeL [ Equipe Animation / Narration ] a exécuté 'Open' sur l'article 'Ration - Standard' (#197770)
+[23:47:14	]AxeL [ Equipe Animation / Narration ] a gagné un 'Pâte artificielle' #197771.
+[23:47:14	]AxeL [ Equipe Animation / Narration ] a gagné un 'Canette d'eau' #197772.
+[23:47:14	]AxeL [ Equipe Animation / Narration ] a gagné un 'Coupon - 10 Crédits' #197773.
+[23:47:14	]AxeL [ Equipe Animation / Narration ] a gagné un 'Coupon - 5 Crédits' #197774.
+[23:47:15	]AxeL [ Equipe Animation / Narration ] a exécuté 'Consume' sur l'article 'Pâte artificielle' (#197771)
+[23:47:15	]AxeL [ Equipe Animation / Narration ] a gagné un 'Pot vide' #197775.
+[23:47:16	]AxeL [ Equipe Animation / Narration ] a exécuté 'Consume' sur l'article 'Canette d'eau' (#197772)
+[23:47:16	]AxeL [ Equipe Animation / Narration ] has gained a level -2 long boost in Intelligence.
+[23:47:16	]AxeL [ Equipe Animation / Narration ] has gained a level -1 long boost in Perception.
+[23:47:16	]AxeL [ Equipe Animation / Narration ] a gagné un 'Canette vide' #197776.
+[23:47:17	]AxeL [ Equipe Animation / Narration ] a exécuté 'Use' sur l'article 'Coupon - 10 Crédits' (#197773)
+[23:47:17	]AxeL [ Equipe Animation / Narration ] a exécuté 'drop' sur l'article 'Coupon - 10 Crédits' (#197773)
+[23:47:17	]AxeL [ Equipe Animation / Narration ] a perdu un 'Coupon - 10 Crédits' #197773.
+[23:47:18	]AxeL [ Equipe Animation / Narration ] a exécuté 'drop' sur l'article 'Coupon - 5 Crédits' (#197774)
+[23:47:18	]AxeL [ Equipe Animation / Narration ] a perdu un 'Coupon - 5 Crédits' #197774.
+[23:47:19	]AxeL [ Equipe Animation / Narration ] a exécuté 'drop' sur l'article 'Pot vide' (#197775)
+[23:47:19	]AxeL [ Equipe Animation / Narration ] a perdu un 'Pot vide' #197775.
+[23:47:20	]AxeL [ Equipe Animation / Narration ] a exécuté 'drop' sur l'article 'Canette vide' (#197776)
+[23:47:20	]AxeL [ Equipe Animation / Narration ] a perdu un 'Canette vide' #197776.
+[23:47:22	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[23:47:22	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[23:47:23	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[23:47:24	]env_entity_dissolver détruit un 'Pot vide' #197775.
+[23:47:24	]env_entity_dissolver détruit un 'Coupon - 5 Crédits' #197774.
+[23:47:26	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[23:47:27	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[23:47:28	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:47:28	]env_entity_dissolver détruit un 'Canette vide' #197776.
+[23:47:29	]env_entity_dissolver détruit un 'Coupon - 10 Crédits' #197773.
+[23:47:38	]AxeL [ Equipe Animation / Narration ] a désactivé persistance pour 'models/props_combine/combine_booth_short01a.mdl'.
+[23:47:38	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist_end
+[23:47:41	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:47:48	]AxeL [ Equipe Animation / Narration ] a désactivé persistance pour 'models/props_combine/combine_booth_short01a.mdl'.
+[23:47:48	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist_end
+[23:47:50	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:48:28	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [566][ix_forcefield]'.
+[23:48:47	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [566][ix_forcefield]'.
+[23:48:58	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[23:49:08	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:49:10	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [569][sent_vj_ezt_fungus]'.
+[23:49:10	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:49:11	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:49:20	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [569][sent_vj_ezt_squid_egg]'.
+[23:49:24	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [569][obj_vj_ezt_grub]'.
+[23:49:30	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[23:49:33	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:49:42	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [569][obj_vj_ez2_kit]'.
+[23:49:43	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:49:45	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[23:49:53	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [569][bagel2]'.
+[23:49:56	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[23:50:13	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:51:17	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:51:18	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:51:20	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:51:21	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:51:42	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_wasteland/interior_fence002d.mdl.
+[23:51:49	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_wasteland/interior_fence002d.mdl.
+[23:51:58	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_wasteland/interior_fence002d.mdl.
+[23:52:13	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_wasteland/interior_fence002d.mdl'.
+[23:52:13	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:52:14	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_wasteland/interior_fence002d.mdl'.
+[23:52:14	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:52:15	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_wasteland/interior_fence002d.mdl'.
+[23:52:15	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:52:28	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_wasteland/interior_fence002d.mdl.
+[23:52:33	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:52:53	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [121][ix_forcefield]'.
+[23:52:56	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [235][ix_forcefield]'.
+[23:53:12	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_booth_short01a.mdl.
+[23:53:14	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_booth_short01a.mdl.
+[23:53:17	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:53:53	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [235][ix_forcefield]'.
+[23:53:57	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [235][ix_forcefield]'.
+[23:54:00	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [235][ix_forcefield]'.
+[23:54:03	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [237][ix_forcefield]'.
+[23:54:08	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [235][ix_forcefield]'.
+[23:54:09	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [237][ix_forcefield]'.
+[23:54:11	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [235][ix_forcefield]'.
+[23:54:14	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : ixforcefieldstartmalfunction
+[23:54:19	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : ixforcefieldstopmalfunction
+[23:54:23	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : ixforcefieldstartmalfunction
+[23:54:34	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : ixforcefieldstopmalfunction
+[23:54:37	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : ixforcefieldstartmalfunction
+[23:54:39	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : ixforcefieldstopmalfunction
+[23:54:41	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:54:49	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:54:53	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:54:58	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_interface001.mdl.
+[23:55:06	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_booth_short01a.mdl'.
+[23:55:06	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:55:07	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_booth_short01a.mdl'.
+[23:55:07	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:55:12	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:55:28	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_interface001.mdl'.
+[23:55:28	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:55:33	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : skin
+[23:55:34	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : skin
+[23:55:41	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:56:09	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [128][ix_pickupcache]'.
+[23:56:15	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : remove
+[23:56:17	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [250][ix_combinebarricade]'.
+[23:56:18	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:56:21	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : remove
+[23:56:25	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:56:29	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [250][ix_combinemonitor_small]'.
+[23:56:34	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [263][ix_combinemonitor]'.
+[23:57:05	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [250][ix_combinemonitor_small]'.
+[23:57:23	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:57:30	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:57:48	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: remover
+[23:57:49	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: remover
+[23:57:49	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: remover
+[23:57:49	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: remover
+[23:57:50	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: remover
+[23:58:02	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_barricade_med02c.mdl.
+[23:58:09	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_barricade_med02c.mdl.
+[23:58:15	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_barricade_med02c.mdl.
+[23:58:17	]AxeL [ Equipe Animation / Narration ] a fait apparaitre 'models/props_combine/combine_barricade_med02c.mdl.
+[23:58:50	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:58:50	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:58:50	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:58:51	]AxeL [ Equipe Animation / Narration ] has fired a toolgun with the name: nocollideworld
+[23:59:10	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_barricade_med02c.mdl'.
+[23:59:10	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:59:10	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_barricade_med02c.mdl'.
+[23:59:10	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:59:12	]AxeL [ Equipe Animation / Narration ] a activé persistance pour 'models/props_combine/combine_barricade_med02c.mdl'.
+[23:59:12	]AxeL [ Equipe Animation / Narration ] a utilisé une option de menu contextuel portant ce nom : persist
+[23:59:26	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:59:37	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:59:43	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:59:45	]AxeL [ Equipe Animation / Narration ] a activé le mode observateur.
+[23:59:47	]AxeL [ Equipe Animation / Narration ] a désactivé le mode observateur à son point d'origine.
+[23:59:52	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [117][expensive_light_new]'.
+[23:59:54	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [264][expensive_light]'.
+[23:59:57	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [117][cheap_light]'.
+[23:59:58	]AxeL [ Equipe Animation / Narration ] a fait apparaitre  'Entity [264][spot_light]'.

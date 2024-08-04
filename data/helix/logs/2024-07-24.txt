@@ -1,0 +1,1872 @@
+[09:16:50	]eliumous s'est connecté.
+[09:40:24	]eliumous chargé le personnage 'Constantin Carnel'
+[09:40:32	]Constantin Carnel has fired a toolgun with the name: remover
+[09:40:34	]Constantin Carnel has fired a toolgun with the name: remover
+[09:40:40	]Constantin Carnel a exécuté 'EquipUn' sur l'article 'Brassard - Bleu Clair' (#183401)
+[09:43:14	]Constantin Carnel s'est give armband_red.
+[09:43:15	]Constantin Carnel a gagné un 'Brassard - Rouge' #200373.
+[09:43:18	]Constantin Carnel a exécuté 'Equip' sur l'article 'Brassard - Rouge' (#200373)
+[09:43:43	]Constantin Carnel a utilisé la commande '/CreateCustomItem'.
+[09:44:36	]Constantin Carnel a utilisé la commande '/CreateCustomItem'.
+[09:46:36	]Constantin Carnel a utilisé la commande '/ViewInfo Constantin'.
+[09:47:39	]Constantin Carnel a utilisé la commande '/CharDesc'.
+[09:47:46	]Constantin Carnel a utilisé la commande '/CharDesc'.
+[09:48:14	]eliumous a déchargé son personnage "Constantin Carnel".
+[09:48:29	]eliumous chargé le personnage 'Constantin Carnel'
+[09:48:56	]Constantin Carnel a utilisé la commande '/PlyWhitelist Constantin Haute Autorité Administrative'.
+[09:49:17	]Constantin Carnel a utilisé la commande '/PlyTransfer Constantin Haute Autorité Administrative'.
+[09:49:54	][IC] Constantin Carnel: Oui ?
+[09:50:29	]eliumous a déchargé son personnage "Constantin Carnel".
+[09:50:30	]eliumous (STEAM_0:0:117647089) s'est déconnecté.
+[10:51:05	]Commissar_Krieger s'est connecté.
+[10:51:38	]Commissar_Krieger chargé le personnage 'Michel Duchamp'
+[10:51:43	]Michel Duchamp est complètement guéri.
+[10:52:07	]Michel Duchamp s'est give cca_coat_wolf.
+[10:52:07	]Michel Duchamp a gagné un 'Le Loup' #200374.
+[10:52:14	]Michel Duchamp a activé le mode observateur.
+[10:52:25	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[10:52:26	]Michel Duchamp a activé le mode observateur.
+[10:52:26	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[10:52:28	]Michel Duchamp a activé le mode observateur.
+[10:52:29	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[10:52:43	]Michel Duchamp s'est give res_rpk.
+[10:52:43	]Michel Duchamp a gagné un 'RPK' #200375.
+[10:52:45	]Michel Duchamp a exécuté 'Equip' sur l'article 'RPK' (#200375)
+[10:54:38	]Michel Duchamp a activé le mode observateur.
+[10:54:39	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[10:54:40	]Michel Duchamp a activé le mode observateur.
+[10:54:41	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[10:54:41	]Michel Duchamp a activé le mode observateur.
+[10:54:42	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[10:55:08	]Michel Duchamp s'est give ur_ak_muzzle_bayonet.
+[10:55:08	]Michel Duchamp a gagné un 'Type 2 Bayonet' #200376.
+[10:55:09	]Michel Duchamp a perdu un 'Type 2 Bayonet' #200376.
+[10:55:49	]Michel Duchamp a activé le mode observateur.
+[10:55:49	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[10:55:54	]Michel Duchamp a activé le mode observateur.
+[10:55:57	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[10:55:58	]Michel Duchamp a activé le mode observateur.
+[10:56:44	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[10:56:46	]Michel Duchamp a activé le mode observateur.
+[10:56:47	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[10:56:53	]Michel Duchamp a fait apparaitre  'NPC [6187][npc_zombie]'.
+[10:57:01	]Michel Duchamp a fait apparaitre  'NPC [6187][npc_poisonzombie]'.
+[10:57:02	]Michel Duchamp a subi 10 dégâts de npc_poisonzombie.
+[10:57:25	]Michel Duchamp a exécuté 'drop' sur l'article 'RPK' (#200375)
+[10:57:25	]Michel Duchamp a perdu un 'RPK' #200375.
+[10:57:28	]Michel Duchamp a utilisé une option de menu contextuel portant ce nom : remove
+[10:57:39	]Michel Duchamp a activé le mode observateur.
+[10:57:40	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[10:58:04	]Michel Duchamp s'est give gen_m16.
+[10:58:04	]Michel Duchamp a gagné un 'M16A2' #200377.
+[10:58:06	]Michel Duchamp a exécuté 'Equip' sur l'article 'M16A2' (#200377)
+[10:59:15	]Michel Duchamp a activé le mode observateur.
+[11:00:39	]Michel Duchamp s'est give ud_m16_stock_wood.
+[11:00:39	]Michel Duchamp a gagné un 'M16 Wooden Stock' #200378.
+[11:00:47	]Michel Duchamp a perdu un 'M16 Wooden Stock' #200378.
+[11:00:58	]Michel Duchamp s'est give ud_m16_hg_adar.
+[11:00:58	]Michel Duchamp a gagné un 'ADAR 2-15 Short Wooden Handguard' #200379.
+[11:01:06	]Michel Duchamp a perdu un 'ADAR 2-15 Short Wooden Handguard' #200379.
+[11:01:28	]Michel Duchamp s'est give ud_m16_barrel_sd.
+[11:01:28	]Michel Duchamp a gagné un '10" M16 SD Barrel' #200380.
+[11:01:29	]Michel Duchamp a perdu un '10" M16 SD Barrel' #200380.
+[11:01:29	]Michel Duchamp a gagné un 'ADAR 2-15 Short Wooden Handguard' #200379.
+[11:01:32	]Michel Duchamp a gagné un '10" M16 SD Barrel' #200380.
+[11:01:34	]Michel Duchamp a perdu un '10" M16 SD Barrel' #200380.
+[11:01:37	]Michel Duchamp a gagné un '10" M16 SD Barrel' #200380.
+[11:01:39	]Michel Duchamp a perdu un 'ADAR 2-15 Short Wooden Handguard' #200379.
+[11:02:48	]Michel Duchamp s'est give ud_m16_receiver_cali.
+[11:02:48	]Michel Duchamp a gagné un 'AR-15GB .223 Lower Receiver' #200381.
+[11:02:50	]Michel Duchamp a perdu un 'AR-15GB .223 Lower Receiver' #200381.
+[11:02:51	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:03:01	]Michel Duchamp s'est give magazine_m16.
+[11:03:01	]Michel Duchamp a gagné un 'Chargeur M16' #200382.
+[11:03:09	]Michel Duchamp s'est give bullets_assaultrifle.
+[11:03:09	]Michel Duchamp a gagné un 'Munitions de fusils d'assault' #200383.
+[11:03:11	]Michel Duchamp a exécuté 'combine' sur l'article 'Chargeur M16' (#200382)
+[11:03:12	]Michel Duchamp a perdu un 'Chargeur M16' #200382.
+[11:03:14	]Michel Duchamp a activé le mode observateur.
+[11:03:19	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:04:43	]Michel Duchamp a gagné un 'AR-15GB .223 Lower Receiver' #200381.
+[11:04:48	]Michel Duchamp a perdu un 'AR-15GB .223 Lower Receiver' #200381.
+[11:04:56	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.82; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:04:56	][DEBUG-WEPBAL] Chance: 0.495; Roll: 0.991; Result: HIT;
+[11:04:56	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.82; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:04:56	][DEBUG-WEPBAL] Chance: 0.495; Roll: 0.319; Result: CRIT;
+[11:04:57	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.82; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:04:57	][DEBUG-WEPBAL] Chance: 0.495; Roll: 0.997; Result: HIT;
+[11:04:58	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.82; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:04:58	][DEBUG-WEPBAL] Chance: 0.495; Roll: 0.810; Result: HIT;
+[11:05:01	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.82; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:05:01	][DEBUG-WEPBAL] Chance: 0.495; Roll: 0.432; Result: CRIT;
+[11:05:05	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.82; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:05:05	][DEBUG-WEPBAL] Chance: 0.495; Roll: 0.699; Result: HIT;
+[11:05:17	]Michel Duchamp a exécuté 'drop' sur l'article 'M16A2' (#200377)
+[11:05:17	]Michel Duchamp a perdu un 'M16A2' #200377.
+[11:05:18	]Michel Duchamp a exécuté 'drop' sur l'article '10" M16 SD Barrel' (#200380)
+[11:05:18	]Michel Duchamp a perdu un '10" M16 SD Barrel' #200380.
+[11:05:23	]Michel Duchamp has fired a toolgun with the name: remover
+[11:05:23	]Michel Duchamp has fired a toolgun with the name: remover
+[11:05:23	]Michel Duchamp has fired a toolgun with the name: remover
+[11:05:23	]Michel Duchamp has fired a toolgun with the name: remover
+[11:05:24	]Michel Duchamp has fired a toolgun with the name: remover
+[11:05:32	]Michel Duchamp s'est give res_mini14.
+[11:05:32	]Michel Duchamp a gagné un 'Mini-14' #200384.
+[11:05:34	]Michel Duchamp a exécuté 'Equip' sur l'article 'Mini-14' (#200384)
+[11:06:06	]Michel Duchamp s'est give ud_mini14_stock_sawnoff.
+[11:06:06	]Michel Duchamp a gagné un 'Mini-14 Sawn-off Stock' #200385.
+[11:06:07	]Michel Duchamp a perdu un 'Mini-14 Sawn-off Stock' #200385.
+[11:06:10	]Michel Duchamp a gagné un 'Mini-14 Sawn-off Stock' #200385.
+[11:06:10	]Michel Duchamp a perdu un 'Mini-14 Sawn-off Stock' #200385.
+[11:06:37	]Michel Duchamp s'est give ud_mini14_barrel_stub.
+[11:06:38	]Michel Duchamp s'est give ud_mini14_barrel_stub.
+[11:06:38	]Michel Duchamp a gagné un 'Mini-14 15" Stub Barrel' #200387.
+[11:06:42	]Michel Duchamp a perdu un 'Mini-14 15" Stub Barrel' #200387.
+[11:06:58	]Michel Duchamp s'est give ud_mini14_receiver_auto.
+[11:06:58	]Michel Duchamp a gagné un 'AC-556 Automatic Receiver' #200388.
+[11:07:00	]Michel Duchamp s'est give ud_mini14_receiver_auto.
+[11:07:00	]Michel Duchamp a gagné un 'AC-556 Automatic Receiver' #200389.
+[11:07:01	]Michel Duchamp a perdu un 'AC-556 Automatic Receiver' #200389.
+[11:07:51	]Michel Duchamp s'est give uc_optic_holosun2.
+[11:07:51	]Michel Duchamp a gagné un 'Holosun HS510C (RDS)' #200390.
+[11:07:53	]Michel Duchamp a perdu un 'Holosun HS510C (RDS)' #200390.
+[11:08:07	]Michel Duchamp s'est give magazine_mini14.
+[11:08:07	]Michel Duchamp a gagné un 'Chargeur de Mini-14' #200391.
+[11:08:08	]Michel Duchamp s'est give magazine_mini14.
+[11:08:08	]Michel Duchamp a gagné un 'Chargeur de Mini-14' #200392.
+[11:08:10	]Michel Duchamp s'est give bullets_assaultrifle.
+[11:08:10	]Michel Duchamp a gagné un 'Munitions de fusils d'assault' #200393.
+[11:08:11	]Michel Duchamp s'est give bullets_assaultrifle.
+[11:08:11	]Michel Duchamp a gagné un 'Munitions de fusils d'assault' #200394.
+[11:08:13	]Michel Duchamp a exécuté 'combine' sur l'article 'Chargeur de Mini-14' (#200392)
+[11:08:13	]Michel Duchamp a exécuté 'combine' sur l'article 'Chargeur de Mini-14' (#200391)
+[11:08:14	]Michel Duchamp a exécuté 'combine' sur l'article 'Munitions de fusils d'assault' (#200394)
+[11:08:15	]Michel Duchamp a perdu un 'Chargeur de Mini-14' #200392.
+[11:08:22	]Michel Duchamp a fait apparaitre  'NPC [6189][npc_zombie]'.
+[11:08:23	]Michel Duchamp a fait apparaitre  'NPC [6192][npc_zombie]'.
+[11:08:24	]Michel Duchamp a fait apparaitre  'NPC [6193][npc_zombie]'.
+[11:08:25	][DEBUG-WEPBAL] baseCrit: 0.30; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:25	][DEBUG-WEPBAL] Chance: 0.284; Roll: 0.786; Result: HIT;
+[11:08:25	]Michel Duchamp a hit npc_zombie dans la right arm infligeant 8 dégats (Chance de crit : 0.28).
+[11:08:25	][DEBUG-WEPBAL] baseCrit: 0.10; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:25	][DEBUG-WEPBAL] Chance: 0.095; Roll: 0.740; Result: HIT;
+[11:08:25	]Michel Duchamp a hit npc_zombie dans la head infligeant 20 dégats (Chance de crit : 0.09).
+[11:08:25	][DEBUG-WEPBAL] baseCrit: 0.10; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:25	][DEBUG-WEPBAL] Chance: 0.095; Roll: 0.344; Result: HIT;
+[11:08:25	]Michel Duchamp a hit npc_zombie dans la head infligeant 20 dégats (Chance de crit : 0.09).
+[11:08:25	][DEBUG-WEPBAL] baseCrit: 0.30; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:25	][DEBUG-WEPBAL] Chance: 0.284; Roll: 0.708; Result: HIT;
+[11:08:25	]Michel Duchamp a hit npc_zombie dans la chest infligeant 16 dégats (Chance de crit : 0.28).
+[11:08:25	][DEBUG-WEPBAL] baseCrit: 0.10; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:25	][DEBUG-WEPBAL] Chance: 0.095; Roll: 0.641; Result: HIT;
+[11:08:25	]Michel Duchamp a hit npc_zombie dans la head infligeant 20 dégats (Chance de crit : 0.09).
+[11:08:26	][DEBUG-WEPBAL] baseCrit: 0.10; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:26	][DEBUG-WEPBAL] Chance: 0.095; Roll: 0.742; Result: HIT;
+[11:08:26	]Michel Duchamp a hit npc_zombie dans la head infligeant 20 dégats (Chance de crit : 0.09).
+[11:08:28	]Michel Duchamp a gagné un 'Chargeur de Mini-14' #200392.
+[11:08:28	]Michel Duchamp a perdu un 'Chargeur de Mini-14' #200391.
+[11:08:31	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:31	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.150; Result: CRIT;
+[11:08:31	][DEBUG-WEPBAL] baseCrit: 0.30; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:31	][DEBUG-WEPBAL] Chance: 0.284; Roll: 0.291; Result: HIT;
+[11:08:31	]Michel Duchamp a hit npc_zombie dans la left leg infligeant 8 dégats (Chance de crit : 0.28).
+[11:08:32	][DEBUG-WEPBAL] baseCrit: 0.30; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:32	][DEBUG-WEPBAL] Chance: 0.284; Roll: 0.272; Result: CRIT;
+[11:08:32	]Michel Duchamp a critically hit npc_zombie dans la chest infligeant 20 dégats (Chance de crit : 0.28).
+[11:08:32	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:32	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.780; Result: HIT;
+[11:08:32	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:32	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.695; Result: HIT;
+[11:08:32	][DEBUG-WEPBAL] baseCrit: 0.30; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:32	][DEBUG-WEPBAL] Chance: 0.284; Roll: 0.739; Result: HIT;
+[11:08:32	]Michel Duchamp a hit npc_zombie dans la right arm infligeant 8 dégats (Chance de crit : 0.28).
+[11:08:32	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:32	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.800; Result: HIT;
+[11:08:32	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:32	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.156; Result: CRIT;
+[11:08:32	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:32	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.586; Result: HIT;
+[11:08:32	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:32	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.675; Result: HIT;
+[11:08:32	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:32	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.711; Result: HIT;
+[11:08:32	][DEBUG-WEPBAL] baseCrit: 0.30; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:32	][DEBUG-WEPBAL] Chance: 0.284; Roll: 0.908; Result: HIT;
+[11:08:32	]Michel Duchamp a hit npc_zombie dans la left arm infligeant 8 dégats (Chance de crit : 0.28).
+[11:08:32	][DEBUG-WEPBAL] baseCrit: 0.30; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:32	][DEBUG-WEPBAL] Chance: 0.284; Roll: 0.790; Result: HIT;
+[11:08:32	]Michel Duchamp a hit npc_zombie dans la chest infligeant 16 dégats (Chance de crit : 0.28).
+[11:08:32	][DEBUG-WEPBAL] baseCrit: 0.30; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:32	][DEBUG-WEPBAL] Chance: 0.284; Roll: 0.266; Result: CRIT;
+[11:08:32	]Michel Duchamp a critically hit npc_zombie dans la chest infligeant 20 dégats (Chance de crit : 0.28).
+[11:08:33	][DEBUG-WEPBAL] baseCrit: 0.10; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:33	][DEBUG-WEPBAL] Chance: 0.095; Roll: 0.873; Result: HIT;
+[11:08:33	]Michel Duchamp a hit npc_zombie dans la head infligeant 20 dégats (Chance de crit : 0.09).
+[11:08:37	]Michel Duchamp a exécuté 'combine' sur l'article 'Chargeur de Mini-14' (#200392)
+[11:08:37	]Michel Duchamp a gagné un 'Chargeur de Mini-14' #200391.
+[11:08:37	]Michel Duchamp a perdu un 'Chargeur de Mini-14' #200392.
+[11:08:42	]Michel Duchamp a fait apparaitre  'NPC [6189][npc_antlionguard]'.
+[11:08:43	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:43	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.706; Result: HIT;
+[11:08:43	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:08:43	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:43	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.576; Result: HIT;
+[11:08:43	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:08:43	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:43	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.760; Result: HIT;
+[11:08:43	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:08:43	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:43	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.394; Result: CRIT;
+[11:08:43	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:08:43	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:43	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.409; Result: CRIT;
+[11:08:43	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:08:43	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:43	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.303; Result: CRIT;
+[11:08:43	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:43	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.782; Result: HIT;
+[11:08:43	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:08:43	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:43	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.076; Result: CRIT;
+[11:08:43	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:08:43	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:43	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.142; Result: CRIT;
+[11:08:43	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:08:44	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:44	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.143; Result: CRIT;
+[11:08:44	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:08:44	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:44	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.712; Result: HIT;
+[11:08:44	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:08:44	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:44	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.276; Result: CRIT;
+[11:08:44	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:08:44	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:44	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.899; Result: HIT;
+[11:08:44	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:08:44	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:44	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.748; Result: HIT;
+[11:08:44	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:08:44	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:44	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.647; Result: HIT;
+[11:08:44	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:08:44	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:44	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.510; Result: HIT;
+[11:08:44	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:08:44	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:44	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.878; Result: HIT;
+[11:08:44	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:08:44	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:44	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.156; Result: CRIT;
+[11:08:44	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:08:44	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:44	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.949; Result: HIT;
+[11:08:44	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:08:51	]Michel Duchamp s'est give bullets_assaultrifle.
+[11:08:51	]Michel Duchamp a gagné un 'Munitions de fusils d'assault' #200395.
+[11:08:52	]Michel Duchamp s'est give bullets_assaultrifle.
+[11:08:52	]Michel Duchamp a gagné un 'Munitions de fusils d'assault' #200396.
+[11:08:52	]Michel Duchamp s'est give bullets_assaultrifle.
+[11:08:52	]Michel Duchamp a gagné un 'Munitions de fusils d'assault' #200397.
+[11:08:55	]Michel Duchamp a exécuté 'combine' sur l'article 'Chargeur de Mini-14' (#200391)
+[11:08:56	]Michel Duchamp a gagné un 'Chargeur de Mini-14' #200392.
+[11:08:56	]Michel Duchamp a perdu un 'Chargeur de Mini-14' #200391.
+[11:08:57	]Michel Duchamp a exécuté 'combine' sur l'article 'Chargeur de Mini-14' (#200392)
+[11:08:58	]Michel Duchamp a exécuté 'combine' sur l'article 'Chargeur de Mini-14' (#200392)
+[11:08:59	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:59	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.908; Result: HIT;
+[11:08:59	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:08:59	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:59	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.004; Result: CRIT;
+[11:08:59	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:08:59	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:08:59	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.106; Result: CRIT;
+[11:08:59	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:09:00	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:00	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.606; Result: HIT;
+[11:09:00	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:09:00	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:00	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.348; Result: CRIT;
+[11:09:00	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:09:00	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:00	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.490; Result: HIT;
+[11:09:00	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:09:00	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:00	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.066; Result: CRIT;
+[11:09:00	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:09:00	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:00	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.112; Result: CRIT;
+[11:09:00	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:09:00	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:00	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.275; Result: CRIT;
+[11:09:00	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:09:00	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:00	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.352; Result: CRIT;
+[11:09:00	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:09:00	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:00	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.336; Result: CRIT;
+[11:09:00	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:09:00	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:00	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.120; Result: CRIT;
+[11:09:00	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:09:01	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:01	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.666; Result: HIT;
+[11:09:01	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:09:02	]Michel Duchamp a gagné un 'Chargeur de Mini-14' #200391.
+[11:09:02	]Michel Duchamp a perdu un 'Chargeur de Mini-14' #200392.
+[11:09:05	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:05	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.850; Result: HIT;
+[11:09:05	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:09:05	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:05	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.127; Result: CRIT;
+[11:09:05	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:09:05	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:05	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.260; Result: CRIT;
+[11:09:05	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:09:05	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:05	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.647; Result: HIT;
+[11:09:05	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:09:05	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:05	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.391; Result: CRIT;
+[11:09:05	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:09:05	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:05	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.373; Result: CRIT;
+[11:09:05	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:09:05	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:05	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.747; Result: HIT;
+[11:09:05	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:09:05	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:05	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.718; Result: HIT;
+[11:09:05	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:09:05	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:05	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.221; Result: CRIT;
+[11:09:05	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:09:05	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:05	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.893; Result: HIT;
+[11:09:05	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:09:06	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:06	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.021; Result: CRIT;
+[11:09:06	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:09:06	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:06	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.814; Result: HIT;
+[11:09:06	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:09:06	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:06	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.346; Result: CRIT;
+[11:09:06	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:09:06	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:06	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.601; Result: HIT;
+[11:09:06	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:09:06	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:06	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.515; Result: HIT;
+[11:09:06	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:09:06	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:06	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.242; Result: CRIT;
+[11:09:06	]Michel Duchamp a critically hit npc_antlionguard infligeant 16 dégats (Chance de crit : 0.47).
+[11:09:06	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:09:06	][DEBUG-WEPBAL] Chance: 0.474; Roll: 0.609; Result: HIT;
+[11:09:06	]Michel Duchamp a hit npc_antlionguard infligeant 12 dégats (Chance de crit : 0.47).
+[11:09:10	]Michel Duchamp a exécuté 'combine' sur l'article 'Chargeur de Mini-14' (#200391)
+[11:09:11	]Michel Duchamp a gagné un 'Chargeur de Mini-14' #200392.
+[11:09:11	]Michel Duchamp a perdu un 'Chargeur de Mini-14' #200391.
+[11:09:15	]Michel Duchamp a exécuté 'combine' sur l'article 'Chargeur de Mini-14' (#200392)
+[11:09:30	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 0.75; dodgeMod: 1.00
+[11:09:30	][DEBUG-WEPBAL] Chance: 0.355; Roll: 0.597; Result: HIT;
+[11:09:31	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 0.82; dodgeMod: 1.00
+[11:09:31	][DEBUG-WEPBAL] Chance: 0.390; Roll: 0.230; Result: CRIT;
+[11:09:32	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 0.79; rangeSkillMod: 1.20; effRangeMod: 0.82; dodgeMod: 1.00
+[11:09:32	][DEBUG-WEPBAL] Chance: 0.390; Roll: 0.042; Result: CRIT;
+[11:09:35	]Michel Duchamp a utilisé une option de menu contextuel portant ce nom : remove
+[11:09:47	]Michel Duchamp a activé le mode observateur.
+[11:09:52	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:09:52	]Michel Duchamp a activé le mode observateur.
+[11:09:53	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:09:54	]Michel Duchamp a activé le mode observateur.
+[11:09:55	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:09:57	]Michel Duchamp a activé le mode observateur.
+[11:10:11	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:10:13	]Michel Duchamp a activé le mode observateur.
+[11:10:14	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:10:28	]Michel Duchamp a activé le mode observateur.
+[11:10:29	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:10:31	]Michel Duchamp a activé le mode observateur.
+[11:10:38	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:10:40	]Michel Duchamp a activé le mode observateur.
+[11:11:21	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:11:21	]Michel Duchamp a activé le mode observateur.
+[11:11:22	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:11:25	]Michel Duchamp a activé le mode observateur.
+[11:11:26	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:11:26	]Michel Duchamp a activé le mode observateur.
+[11:11:28	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:11:29	]Michel Duchamp a activé le mode observateur.
+[11:11:30	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:11:30	]Michel Duchamp a activé le mode observateur.
+[11:11:31	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:11:31	]Michel Duchamp a activé le mode observateur.
+[11:11:34	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:11:35	]Michel Duchamp a activé le mode observateur.
+[11:11:36	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:11:37	]Michel Duchamp a activé le mode observateur.
+[11:11:38	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:11:38	]Michel Duchamp a activé le mode observateur.
+[11:11:42	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:11:44	]Michel Duchamp a activé le mode observateur.
+[11:11:44	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:11:46	]Michel Duchamp a activé le mode observateur.
+[11:11:47	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:11:50	]Michel Duchamp a activé le mode observateur.
+[11:11:54	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:11:58	]Michel Duchamp a activé le mode observateur.
+[11:12:04	]Michel Duchamp a utilisé la commande '/ShowEdicts'.
+[11:12:05	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:12:08	]Michel Duchamp a activé le mode observateur.
+[11:12:08	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:12:09	]Michel Duchamp a activé le mode observateur.
+[11:12:10	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:12:10	]Michel Duchamp a activé le mode observateur.
+[11:12:26	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:12:41	]Michel Duchamp a activé le mode observateur.
+[11:12:42	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:12:43	]Michel Duchamp a activé le mode observateur.
+[11:12:44	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:13:12	]Michel Duchamp a activé le mode observateur.
+[11:13:14	]Michel Duchamp a fait apparaitre  'Entity [6187][ix_teleporter]'.
+[11:13:15	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:13:17	]Michel Duchamp a fait apparaitre  'Entity [6189][ix_teleporter]'.
+[11:13:19	]Michel Duchamp a activé le mode observateur.
+[11:13:20	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:13:21	]Michel Duchamp a activé le mode observateur.
+[11:13:22	]Michel Duchamp a fait apparaitre  'Entity [6187][ix_teleporter]'.
+[11:13:25	]Michel Duchamp a fait apparaitre  'Entity [6187][ix_teleporter]'.
+[11:13:26	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:13:29	]Michel Duchamp a activé le mode observateur.
+[11:13:43	]Michel Duchamp a fait apparaitre  'Entity [6189][ix_teleporter]'.
+[11:13:44	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:13:49	]Michel Duchamp a activé le mode observateur.
+[11:13:50	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:13:56	]Michel Duchamp a activé le mode observateur.
+[11:13:57	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:14:01	]Michel Duchamp a activé le mode observateur.
+[11:14:02	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:14:08	]Michel Duchamp a activé le mode observateur.
+[11:14:09	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:14:17	]Furnaxx s'est connecté.
+[11:14:51	]Michel Duchamp a activé le mode observateur.
+[11:14:52	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:15:00	]Furnaxx chargé le personnage 'Xin'Fen Duval'
+[11:15:05	]Xin'Fen Duval a activé le mode observateur.
+[11:15:05	]Xin'Fen Duval est complètement guéri.
+[11:15:06	]Xin'Fen Duval a désactivé le mode observateur.
+[11:15:07	]Xin'Fen Duval a activé le mode observateur.
+[11:15:07	]Xin'Fen Duval a désactivé le mode observateur.
+[11:15:12	]Michel Duchamp a activé le mode observateur.
+[11:15:13	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:15:25	]Michel Duchamp a activé le mode observateur.
+[11:15:26	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:15:27	]Michel Duchamp a activé le mode observateur.
+[11:15:28	]Xin'Fen Duval a activé le mode observateur.
+[11:15:32	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:15:33	]Michel Duchamp a activé le mode observateur.
+[11:15:40	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:15:40	]Xin'Fen Duval a activé le mode observateur.
+[11:15:43	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:15:52	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:15:59	]Michel Duchamp a activé le mode observateur.
+[11:16:04	]Xin'Fen Duval a exécuté 'drop' sur l'article 'Leupold Mark 4' (#200110)
+[11:16:04	]Xin'Fen Duval a perdu un 'Leupold Mark 4' #200110.
+[11:16:04	]Xin'Fen Duval a exécuté 'drop' sur l'article 'PSO-1 (4x)' (#200111)
+[11:16:04	]Xin'Fen Duval a perdu un 'PSO-1 (4x)' #200111.
+[11:16:05	]Xin'Fen Duval a exécuté 'drop' sur l'article 'M2014-S (FLIR)' (#200113)
+[11:16:05	]Xin'Fen Duval a perdu un 'M2014-S (FLIR)' #200113.
+[11:16:12	]Xin'Fen Duval a exécuté 'drop' sur l'article 'Sac' (#200042)
+[11:16:12	]Xin'Fen Duval a perdu un 'Sac' #200042.
+[11:16:12	]Xin'Fen Duval a exécuté 'drop' sur l'article 'Petite sacoche' (#200043)
+[11:16:12	]Xin'Fen Duval a perdu un 'Petite sacoche' #200043.
+[11:16:15	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : remove
+[11:16:15	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : remove
+[11:16:16	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : remove
+[11:16:17	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : remove
+[11:16:18	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:16:18	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : remove
+[11:16:18	]Michel Duchamp a activé le mode observateur.
+[11:16:20	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:16:21	]Michel Duchamp a activé le mode observateur.
+[11:16:23	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:16:25	]Xin'Fen Duval a activé le mode observateur.
+[11:16:26	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:16:26	]Xin'Fen Duval a activé le mode observateur.
+[11:16:28	]Michel Duchamp a activé le mode observateur.
+[11:16:29	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:16:30	]Michel Duchamp a activé le mode observateur.
+[11:16:31	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:16:33	]Xin'Fen Duval a activé le mode observateur.
+[11:16:34	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:16:36	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:16:37	]Michel Duchamp a activé le mode observateur.
+[11:16:38	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:16:40	]Michel Duchamp a activé le mode observateur.
+[11:16:40	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:16:41	]Xin'Fen Duval has fired a toolgun with the name: camera
+[11:16:50	]Xin'Fen Duval a activé le mode observateur.
+[11:16:58	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:16:59	]Xin'Fen Duval has fired a toolgun with the name: camera
+[11:17:27	]Xin'Fen Duval a activé le mode observateur.
+[11:17:39	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:17:41	]Xin'Fen Duval has fired a toolgun with the name: camera
+[11:17:47	]Xin'Fen Duval a activé le mode observateur.
+[11:18:04	]Michel Duchamp a activé le mode observateur.
+[11:18:12	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:18:15	]Michel Duchamp a activé le mode observateur.
+[11:18:30	]eliumous s'est connecté.
+[11:18:31	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:18:32	]Michel Duchamp a activé le mode observateur.
+[11:18:32	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:18:33	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:18:33	]Xin'Fen Duval a activé le mode observateur.
+[11:18:36	]Michel Duchamp a activé le mode observateur.
+[11:18:36	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:18:39	]Michel Duchamp a activé le mode observateur.
+[11:18:39	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:18:39	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:18:41	]Michel Duchamp a activé le mode observateur.
+[11:18:42	]Xin'Fen Duval has fired a toolgun with the name: camera
+[11:18:42	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:18:47	]Michel Duchamp a activé le mode observateur.
+[11:18:47	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:18:48	]Michel Duchamp a activé le mode observateur.
+[11:18:49	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:18:50	]Michel Duchamp a activé le mode observateur.
+[11:18:51	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:19:03	]Xin'Fen Duval a activé le mode observateur.
+[11:19:19	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:19:21	]Xin'Fen Duval a activé le mode observateur.
+[11:19:21	]eliumous chargé le personnage 'Théobald Griaud'
+[11:19:22	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:19:25	]Xin'Fen Duval a activé le mode observateur.
+[11:19:26	]Théobald Griaud a activé le mode observateur.
+[11:19:33	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:19:34	]Xin'Fen Duval a activé le mode observateur.
+[11:19:35	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:19:36	]Xin'Fen Duval a activé le mode observateur.
+[11:19:37	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:19:40	]Xin'Fen Duval has fired a toolgun with the name: camera
+[11:19:46	]Théobald Griaud a désactivé le mode observateur à son point d'origine.
+[11:19:51	]Théobald Griaud a utilisé la commande '/CreateCustomItem'.
+[11:20:12	]Michel Duchamp a activé le mode observateur.
+[11:20:13	]Michel Duchamp a désactivé le mode observateur à son point d'origine.
+[11:20:13	]Xin'Fen Duval has fired a toolgun with the name: camera
+[11:20:15	]Commissar_Krieger a déchargé son personnage "Michel Duchamp".
+[11:20:20	]Xin'Fen Duval has fired a toolgun with the name: camera
+[11:20:23	]Commissar_Krieger chargé le personnage 'Björn Arkasas'
+[11:20:25	]Björn Arkasas a activé le mode observateur.
+[11:20:26	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:20:26	]Björn Arkasas a activé le mode observateur.
+[11:20:27	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:20:28	]Björn Arkasas est complètement guéri.
+[11:20:40	]Björn Arkasas a activé le mode observateur.
+[11:20:40	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:20:43	]Björn Arkasas a activé le mode observateur.
+[11:20:52	]Xin'Fen Duval a activé le mode observateur.
+[11:20:55	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:21:07	]Xin'Fen Duval has fired a toolgun with the name: lamp
+[11:21:12	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:21:16	]Xin'Fen Duval a activé le mode observateur.
+[11:21:27	]Xin'Fen Duval has fired a toolgun with the name: camera
+[11:21:28	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:21:35	]Xin'Fen Duval has fired a toolgun with the name: camera
+[11:21:43	]Xin'Fen Duval has fired a toolgun with the name: camera
+[11:21:54	]Xin'Fen Duval a utilisé la commande '/ActLean 1'.
+[11:21:59	]Xin'Fen Duval a utilisé la commande '/ExitAct'.
+[11:22:16	]Xin'Fen Duval a fait apparaitre  'NPC [6195][npc_combine_s]'.
+[11:22:20	]Xin'Fen Duval a fait apparaitre  'NPC [6195][npc_combine_s]'.
+[11:22:28	]Xin'Fen Duval a fait apparaitre  'NPC [6195][npc_vj_civil_protection_z]'.
+[11:22:31	]Théobald Griaud a utilisé la commande '/CreateCustomItem'.
+[11:22:40	]Xin'Fen Duval a activé le mode observateur.
+[11:22:43	]Xin'Fen Duval a fait apparaitre  'NPC [6195][npc_vj_city_scanner_z]'.
+[11:22:50	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : vj_pr_npc_allyme
+[11:23:01	]Björn Arkasas a activé le mode observateur.
+[11:23:02	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:23:10	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:23:39	]Théobald Griaud a gagné un 'Brassard noir avec croix rouge' #200398.
+[11:23:47	]Théobald Griaud s'est give blackredcross_armband.
+[11:23:47	]Théobald Griaud a gagné un 'Brassard noir avec croix rouge' #200399.
+[11:23:51	]Théobald Griaud a exécuté 'Equip' sur l'article 'Brassard noir avec croix rouge' (#200399)
+[11:23:53	]Théobald Griaud a exécuté 'EquipUn' sur l'article 'Brassard - Bleu Clair' (#199802)
+[11:23:54	]Théobald Griaud a exécuté 'EquipUn' sur l'article 'Brassard noir avec croix rouge' (#200399)
+[11:23:55	]Théobald Griaud a exécuté 'Equip' sur l'article 'Brassard noir avec croix rouge' (#200399)
+[11:24:21	]Xin'Fen Duval s'est give custom_expedition_crate.
+[11:24:24	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : skin
+[11:24:25	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : remove
+[11:24:31	]Xin'Fen Duval s'est give custom_expedition_crate.
+[11:24:37	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : remove
+[11:24:45	]Xin'Fen Duval s'est give blackredcross_armband.
+[11:24:45	]Xin'Fen Duval a gagné un 'Brassard noir avec croix rouge' #200402.
+[11:24:47	]Xin'Fen Duval a exécuté 'Equip' sur l'article 'Brassard noir avec croix rouge' (#200402)
+[11:25:04	]Björn Arkasas s'est give military_crate_gr.
+[11:25:07	]Théobald Griaud a exécuté 'EquipUn' sur l'article 'Brassard noir avec croix rouge' (#200399)
+[11:25:09	]Théobald Griaud a exécuté 'Equip' sur l'article 'Brassard - Bleu Clair' (#199802)
+[11:25:12	]Théobald Griaud a exécuté 'drop' sur l'article 'Brassard noir avec croix rouge' (#200399)
+[11:25:12	]Théobald Griaud a perdu un 'Brassard noir avec croix rouge' #200399.
+[11:25:12	]Théobald Griaud a exécuté 'drop' sur l'article 'Brassard noir avec croix rouge' (#200398)
+[11:25:12	]Théobald Griaud a perdu un 'Brassard noir avec croix rouge' #200398.
+[11:25:18	]Théobald Griaud has fired a toolgun with the name: remover
+[11:25:19	]Théobald Griaud has fired a toolgun with the name: remover
+[11:25:19	]Björn Arkasas a perdu un 'Chargeur P90' #168360.
+[11:25:19	]Björn Arkasas a gagné un 'Chargeur P90' #168361.
+[11:25:19	]Xin'Fen Duval a activé le mode observateur.
+[11:25:20	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:25:21	]Xin'Fen Duval a activé le mode observateur.
+[11:25:22	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:25:24	]Théobald Griaud a utilisé la commande '/CreateCustomItem'.
+[11:25:27	]Björn Arkasas a gagné un 'Chargeur P90' #168360.
+[11:25:27	]Björn Arkasas a été assommé et saigne abondamment.
+[11:25:31	]Björn Arkasas ran SAM command 'respawn' with arguments: 'bj'
+[11:25:32	]Björn Arkasas a activé le mode observateur.
+[11:25:33	]Björn Arkasas est complètement guéri.
+[11:25:33	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:25:34	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : remove
+[11:25:34	]Björn Arkasas a activé le mode observateur.
+[11:25:54	]eliumous a déchargé son personnage "Théobald Griaud".
+[11:26:08	]eliumous chargé le personnage 'Akhmat Khamzatoev'
+[11:26:12	]Akhmat Khamzatoev a activé le mode observateur.
+[11:26:13	]Xin'Fen Duval a fait apparaitre 'models/props_combine/combine_window001.mdl.
+[11:26:24	]Akhmat Khamzatoev a désactivé le mode observateur à son point d'origine.
+[11:26:42	]Akhmat Khamzatoev s'est give legs_jumpsuit_orange.
+[11:26:42	]Akhmat Khamzatoev a gagné un 'Pantalon de combinaison orange' #200404.
+[11:26:56	]Akhmat Khamzatoev s'est give jumpsuit_orange.
+[11:26:56	]Akhmat Khamzatoev a gagné un 'Combinaison orange' #200405.
+[11:27:00	]Xin'Fen Duval a fait apparaitre 'models/props_junk/wood_crate003a.mdl.
+[11:27:13	]Akhmat Khamzatoev s'est give shoes_rain_boots.
+[11:27:13	]Akhmat Khamzatoev a gagné un 'Bottes en caoutchouc' #200406.
+[11:27:54	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:27:55	]Björn Arkasas a activé le mode observateur.
+[11:27:58	]Xin'Fen Duval a fait apparaitre 'models/willardnetworks/hecu/head_hecu_item.mdl.
+[11:28:12	]Xin'Fen Duval a fait apparaitre 'models/robby/squad/misc/razorwire.mdl.
+[11:28:13	]Akhmat Khamzatoev est complètement guéri.
+[11:28:30	]Xin'Fen Duval a fait apparaitre 'models/sal/office/flag.mdl.
+[11:28:35	]Xin'Fen Duval a fait apparaitre 'models/sal/office/flag.mdl.
+[11:28:39	]Xin'Fen Duval a fait apparaitre 'models/sal/office/conftable3.mdl.
+[11:28:43	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:28:44	]Xin'Fen Duval a fait apparaitre 'models/sal/office/organizer.mdl.
+[11:28:44	]Björn Arkasas a activé le mode observateur.
+[11:28:46	]Xin'Fen Duval a fait apparaitre 'models/sal/office/pencup.mdl.
+[11:28:49	]Xin'Fen Duval a fait apparaitre 'models/sal/office/binder2.mdl.
+[11:28:55	]Xin'Fen Duval a fait apparaitre 'models/vj_hlr/hl1/sentry.mdl.
+[11:29:04	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:29:05	]Xin'Fen Duval a activé le mode observateur.
+[11:29:06	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:29:10	]Xin'Fen Duval a fait apparaitre 'models/birdbrainswagtrain/episodic/advisor.mdl.
+[11:29:11	]Björn Arkasas a activé le mode observateur.
+[11:29:12	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:29:13	]Björn Arkasas a activé le mode observateur.
+[11:29:14	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:29:19	]Björn Arkasas a activé le mode observateur.
+[11:29:22	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:29:24	]Xin'Fen Duval a fait apparaitre 'models/props_junk/storage_crate01.mdl.
+[11:29:25	]Xin'Fen Duval a fait apparaitre 'models/props_junk/warehouse_pallet02_static.mdl.
+[11:29:30	]Björn Arkasas a activé le mode observateur.
+[11:29:32	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:29:39	]Xin'Fen Duval a fait apparaitre 'models/props_junk/warehouse_pallet03_static.mdl.
+[11:29:41	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.688; Result: HIT;
+[11:29:41	]Xin'Fen Duval a hit Björn Arkasas infligeant 6 dégats (Chance de crit : 0.00).
+[11:29:41	]Björn Arkasas a subi 6 dégâts de Xin'Fen Duval.
+[11:29:41	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.341; Result: HIT;
+[11:29:41	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 6 dégats (Chance de crit : 0.00).
+[11:29:41	]Akhmat Khamzatoev a subi 6 dégâts de Xin'Fen Duval.
+[11:29:41	]Björn Arkasas a activé le mode observateur.
+[11:29:43	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:29:43	]Björn Arkasas a activé le mode observateur.
+[11:29:43	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:29:43	]Björn Arkasas a activé le mode observateur.
+[11:29:45	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:30:01	]Xin'Fen Duval a fait apparaitre 'models/props_junk/warehouse_pallet03_static.mdl.
+[11:30:02	]Akhmat Khamzatoev a été assommé et saigne abondamment.
+[11:30:05	]Björn Arkasas a activé le mode observateur.
+[11:30:07	]Akhmat Khamzatoev ran SAM command 'respawn' with arguments: ''
+[11:30:13	]Xin'Fen Duval a fait apparaitre 'models/props_junk/warehouse_pallet03_static.mdl.
+[11:30:35	]Xin'Fen Duval a fait apparaitre 'models/props_junk/dumpster.mdl.
+[11:30:49	]Xin'Fen Duval a fait apparaitre 'models/props_junk/warehouse_pallet02_static.mdl.
+[11:30:59	]Xin'Fen Duval a fait apparaitre 'models/props_junk/cardboardbox01a.mdl.
+[11:31:06	]Xin'Fen Duval a fait apparaitre 'models/props_junk/warehouse_pallet01.mdl.
+[11:31:17	]Xin'Fen Duval a fait apparaitre 'models/props_junk/plasticbasket01.mdl.
+[11:31:30	]Xin'Fen Duval a fait apparaitre 'models/props_junk/plasticcontainer01.mdl.
+[11:31:39	]Xin'Fen Duval a fait apparaitre 'models/props_junk/plasticcontainer02.mdl.
+[11:31:51	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:31:52	]Björn Arkasas a activé le mode observateur.
+[11:31:52	]Xin'Fen Duval a fait apparaitre 'models/props_junk/drill.mdl.
+[11:32:05	]Xin'Fen Duval a fait apparaitre 'models/props_junk/junk_caulktube.mdl.
+[11:32:14	]Xin'Fen Duval has fired a toolgun with the name: precision
+[11:32:27	]Xin'Fen Duval a fait apparaitre 'models/props_generic/walkietalkie.mdl.
+[11:32:37	]Xin'Fen Duval a activé le mode observateur.
+[11:32:42	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:32:46	]Björn Arkasas a activé le mode observateur.
+[11:32:46	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:32:49	]Xin'Fen Duval a fait apparaitre  'NPC [6209][npc_combine_s]'.
+[11:32:49	]Björn Arkasas a activé le mode observateur.
+[11:32:50	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:32:51	]Björn Arkasas a activé le mode observateur.
+[11:32:52	]Xin'Fen Duval a fait apparaitre  'NPC [6209][npc_combine_s]'.
+[11:32:54	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:32:56	]Björn Arkasas a activé le mode observateur.
+[11:32:59	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:33:00	]Björn Arkasas a activé le mode observateur.
+[11:33:00	]Xin'Fen Duval a fait apparaitre  'NPC [6209][npc_combine_s]'.
+[11:33:07	]Xin'Fen Duval a fait apparaitre  'NPC [6209][npc_combine_s]'.
+[11:33:08	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:33:08	]Björn Arkasas a activé le mode observateur.
+[11:33:09	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:33:10	]Akhmat Khamzatoev a activé le mode observateur.
+[11:33:12	]Björn Arkasas a activé le mode observateur.
+[11:33:12	]Akhmat Khamzatoev a désactivé le mode observateur à son point d'origine.
+[11:33:14	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:33:16	]Xin'Fen Duval a fait apparaitre  'NPC [6209][npc_combine_s]'.
+[11:33:16	]Björn Arkasas a activé le mode observateur.
+[11:33:16	]Akhmat Khamzatoev a activé le mode observateur.
+[11:33:21	]Akhmat Khamzatoev a désactivé le mode observateur à son point d'origine.
+[11:33:23	]Akhmat Khamzatoev est complètement guéri.
+[11:33:34	]Xin'Fen Duval a fait apparaitre  'NPC [6196][npc_combine_s]'.
+[11:33:40	]Xin'Fen Duval a fait apparaitre  'NPC [6196][npc_combine_s]'.
+[11:33:45	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:33:46	]Xin'Fen Duval a fait apparaitre  'NPC [6196][npc_combine_s]'.
+[11:33:47	]Björn Arkasas a activé le mode observateur.
+[11:33:50	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:33:59	]Xin'Fen Duval a fait apparaitre  'NPC [6196][npc_combine_s]'.
+[11:34:09	]Xin'Fen Duval a fait apparaitre  'NPC [6196][npc_combine_s]'.
+[11:34:15	]Xin'Fen Duval a fait apparaitre  'NPC [6196][npc_combine_s]'.
+[11:34:18	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : rb655_make_friendly
+[11:34:23	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : rb655_make_hostile
+[11:34:24	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : rb655_soldier_look_off
+[11:34:25	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:34:32	]Björn Arkasas a activé le mode observateur.
+[11:34:34	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:34:35	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:34:36	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:34:36	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:34:37	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:34:37	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:34:38	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:34:39	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:34:40	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:34:41	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:34:42	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:34:44	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:34:44	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:34:44	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:34:46	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:34:47	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:34:48	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:34:55	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:35:03	]Björn Arkasas a activé le mode observateur.
+[11:35:12	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:35:17	]Björn Arkasas a activé le mode observateur.
+[11:35:22	]Xin'Fen Duval a fait apparaitre  'NPC [6229][npc_combine_s]'.
+[11:35:24	]Xin'Fen Duval a fait apparaitre  'NPC [6229][npc_combine_s]'.
+[11:35:25	]Xin'Fen Duval a subi 8 dégâts de npc_combine_s.
+[11:35:25	]Xin'Fen Duval a subi 8 dégâts de npc_combine_s.
+[11:35:25	]Xin'Fen Duval a activé le mode observateur.
+[11:35:30	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : remove
+[11:35:33	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:35:42	]Xin'Fen Duval a fait apparaitre  'Entity [6196][item_healthkit]'.
+[11:35:44	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:35:45	]Björn Arkasas a activé le mode observateur.
+[11:35:45	]Xin'Fen Duval est complètement guéri.
+[11:35:54	]Xin'Fen Duval a utilisé la commande '/ActSit 1'.
+[11:35:55	]Xin'Fen Duval a utilisé la commande '/ExitAct'.
+[11:35:55	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:36:07	]Xin'Fen Duval a activé le mode observateur.
+[11:36:09	]Xin'Fen Duval a fait apparaitre  'NPC [6196][npc_combine_s]'.
+[11:36:13	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : rb655_soldier_look_off
+[11:36:15	]Xin'Fen Duval a fait apparaitre  'NPC [6229][npc_combine_s]'.
+[11:36:21	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : rb655_soldier_look_off
+[11:36:28	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:36:42	]Björn Arkasas a activé le mode observateur.
+[11:36:44	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : skin
+[11:36:47	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:36:48	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:36:50	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:36:51	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:36:51	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:36:57	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:36:58	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:36:58	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:36:59	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:36:59	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:37:00	]Björn Arkasas s'est give overcoat_orange.
+[11:37:00	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:37:00	]Björn Arkasas a gagné un 'Pardessus orange' #200407.
+[11:37:01	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:37:01	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : bodygroups
+[11:37:04	]Björn Arkasas s'est give legs_jumpsuit_orange.
+[11:37:05	]Björn Arkasas a gagné un 'Pantalon de combinaison orange' #200408.
+[11:37:06	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : skin
+[11:37:07	]Björn Arkasas a exécuté 'drop' sur l'article 'Pantalon de combinaison orange' (#200408)
+[11:37:07	]Björn Arkasas a perdu un 'Pantalon de combinaison orange' #200408.
+[11:37:07	]Björn Arkasas a exécuté 'drop' sur l'article 'Pantalon rembourré bleu' (#154106)
+[11:37:07	]Björn Arkasas a perdu un 'Pantalon rembourré bleu' #154106.
+[11:37:10	]Björn Arkasas a exécuté 'take' sur l'article 'Pantalon rembourré bleu' (#154106)
+[11:37:10	]Björn Arkasas a gagné un 'Pantalon rembourré bleu' #154106.
+[11:37:11	]Björn Arkasas a exécuté 'take' sur l'article 'Pantalon de combinaison orange' (#200408)
+[11:37:11	]Björn Arkasas a gagné un 'Pantalon de combinaison orange' #200408.
+[11:37:14	]Björn Arkasas a exécuté 'drop' sur l'article 'Pardessus orange' (#200407)
+[11:37:14	]Björn Arkasas a perdu un 'Pardessus orange' #200407.
+[11:37:15	]Björn Arkasas a exécuté 'drop' sur l'article 'Pantalon de combinaison orange' (#200408)
+[11:37:15	]Björn Arkasas a perdu un 'Pantalon de combinaison orange' #200408.
+[11:37:18	]Xin'Fen Duval a exécuté 'take' sur l'article 'Pantalon de combinaison orange' (#200408)
+[11:37:18	]Xin'Fen Duval a gagné un 'Pantalon de combinaison orange' #200408.
+[11:37:18	]Xin'Fen Duval a exécuté 'take' sur l'article 'Pardessus orange' (#200407)
+[11:37:18	]Xin'Fen Duval a gagné un 'Pardessus orange' #200407.
+[11:37:20	]Commissar_Krieger (STEAM_0:1:221347812) s'est déconnecté.
+[11:37:22	]Xin'Fen Duval a exécuté 'drop' sur l'article 'Pardessus orange' (#200407)
+[11:37:22	]Xin'Fen Duval a perdu un 'Pardessus orange' #200407.
+[11:37:22	]Xin'Fen Duval a exécuté 'drop' sur l'article 'Pantalon de combinaison orange' (#200408)
+[11:37:22	]Xin'Fen Duval a perdu un 'Pantalon de combinaison orange' #200408.
+[11:37:24	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : remove
+[11:37:25	]Xin'Fen Duval a utilisé une option de menu contextuel portant ce nom : remove
+[11:37:25	]Akhmat Khamzatoev a activé le mode observateur.
+[11:37:40	]Akhmat Khamzatoev a désactivé le mode observateur à son point d'origine.
+[11:38:09	]Akhmat Khamzatoev a utilisé la commande '/ActStand 2'.
+[11:38:10	]Akhmat Khamzatoev a utilisé la commande '/ExitAct'.
+[11:38:13	]Akhmat Khamzatoev a utilisé la commande '/ActStand 3'.
+[11:38:14	]Akhmat Khamzatoev a utilisé la commande '/ExitAct'.
+[11:38:16	]Akhmat Khamzatoev a utilisé la commande '/ActStand 4'.
+[11:38:24	]Akhmat Khamzatoev a utilisé la commande '/ExitAct'.
+[11:38:39	]Akhmat Khamzatoev a utilisé la commande '/ActSit 2'.
+[11:38:39	]Akhmat Khamzatoev a utilisé la commande '/ExitAct'.
+[11:38:44	]Akhmat Khamzatoev a utilisé la commande '/ActDown'.
+[11:38:45	]Akhmat Khamzatoev a utilisé la commande '/ExitAct'.
+[11:38:49	]Commissar_Krieger s'est connecté.
+[11:38:49	]Akhmat Khamzatoev a utilisé la commande '/ActDown 2'.
+[11:38:59	]Akhmat Khamzatoev a utilisé la commande '/ExitAct'.
+[11:39:03	]Akhmat Khamzatoev a utilisé la commande '/ActSit'.
+[11:39:04	]Akhmat Khamzatoev a utilisé la commande '/ExitAct'.
+[11:39:07	]Akhmat Khamzatoev a utilisé la commande '/ActSit 2'.
+[11:39:08	]Akhmat Khamzatoev a utilisé la commande '/ExitAct'.
+[11:39:10	]Akhmat Khamzatoev a utilisé la commande '/ActSit 3'.
+[11:39:11	]Akhmat Khamzatoev a utilisé la commande '/ExitAct'.
+[11:39:13	]Akhmat Khamzatoev a utilisé la commande '/ActSit 4'.
+[11:39:14	]Akhmat Khamzatoev a utilisé la commande '/ExitAct'.
+[11:39:16	]Akhmat Khamzatoev a utilisé la commande '/ActSit 5'.
+[11:39:17	]Akhmat Khamzatoev a utilisé la commande '/ExitAct'.
+[11:39:19	]Akhmat Khamzatoev a utilisé la commande '/ActSit 8'.
+[11:39:20	]Akhmat Khamzatoev a utilisé la commande '/ExitAct'.
+[11:39:23	]Akhmat Khamzatoev a utilisé la commande '/ActSitWall'.
+[11:39:28	]Akhmat Khamzatoev a utilisé la commande '/ActSitWall'.
+[11:39:28	]Commissar_Krieger chargé le personnage 'Björn Arkasas'
+[11:39:42	]Björn Arkasas s'est give weather_orange.
+[11:39:42	]Björn Arkasas a gagné un 'Veste de mauvais temps orange ' #200409.
+[11:39:44	]Björn Arkasas s'est give legs_jumpsuit_orange.
+[11:39:44	]Björn Arkasas a gagné un 'Pantalon de combinaison orange' #200410.
+[11:39:55	]Björn Arkasas a activé le mode observateur.
+[11:39:57	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:43:33	]Xin'Fen Duval a activé le mode observateur.
+[11:43:34	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:43:45	]Björn Arkasas s'est give shoes_worn_brown.
+[11:43:45	]Björn Arkasas a gagné un 'Chaussures marron usées' #200411.
+[11:46:21	]Akhmat Khamzatoev a utilisé la commande '/ExitAct'.
+[11:46:22	]Akhmat Khamzatoev a activé le mode observateur.
+[11:46:23	]Akhmat Khamzatoev a désactivé le mode observateur à son point d'origine.
+[11:46:31	][IC] Xin'Fen Duval: Papa?
+[11:46:38	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.966; Result: HIT;
+[11:46:38	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:46:38	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:46:38	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0006 with ix_hands
+[11:46:40	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.599; Result: HIT;
+[11:46:40	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:46:40	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:46:40	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0009 with ix_hands
+[11:46:41	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.504; Result: HIT;
+[11:46:41	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:46:41	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:46:41	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0012 with ix_hands
+[11:46:42	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.559; Result: HIT;
+[11:46:42	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:46:42	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:46:42	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0015 with ix_hands
+[11:46:43	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.547; Result: HIT;
+[11:46:43	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:46:43	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:46:43	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0018 with ix_hands
+[11:46:43	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.636; Result: HIT;
+[11:46:43	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:46:43	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:46:43	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0021 with ix_hands
+[11:46:44	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.801; Result: HIT;
+[11:46:44	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:46:44	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:46:44	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0024 with ix_hands
+[11:46:45	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.515; Result: HIT;
+[11:46:45	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:46:45	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:46:45	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0027 with ix_hands
+[11:46:46	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.269; Result: HIT;
+[11:46:46	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:46:46	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:46:46	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.003 with ix_hands
+[11:46:47	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.221; Result: HIT;
+[11:46:47	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:46:47	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:46:47	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0033 with ix_hands
+[11:46:48	]Björn Arkasas a activé le mode observateur.
+[11:46:48	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.870; Result: HIT;
+[11:46:48	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:46:48	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:46:48	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0036 with ix_hands
+[11:46:49	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.023; Result: HIT;
+[11:46:49	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:46:49	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:46:49	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0039 with ix_hands
+[11:46:49	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.171; Result: HIT;
+[11:46:49	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:46:49	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:46:49	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0042 with ix_hands
+[11:46:50	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.061; Result: HIT;
+[11:46:50	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:46:50	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:46:50	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0045 with ix_hands
+[11:46:51	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.020; Result: HIT;
+[11:46:51	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:46:51	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:46:51	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0048 with ix_hands
+[11:46:52	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.836; Result: HIT;
+[11:46:52	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:46:52	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:46:52	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0051 with ix_hands
+[11:46:53	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.039; Result: HIT;
+[11:46:53	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:46:53	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:46:53	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0054 with ix_hands
+[11:46:54	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.746; Result: HIT;
+[11:46:54	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:46:54	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:46:54	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0057 with ix_hands
+[11:46:54	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.504; Result: HIT;
+[11:46:54	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:46:54	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:46:54	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.006 with ix_hands
+[11:46:55	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.051; Result: HIT;
+[11:46:55	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:46:55	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:46:55	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0063 with ix_hands
+[11:46:59	]Xin'Fen Duval a activé le mode observateur.
+[11:46:59	]Xin'Fen Duval a désactivé le mode observateur à son point d'origine.
+[11:47:00	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.824; Result: HIT;
+[11:47:00	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:47:00	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:47:00	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0066 with ix_hands
+[11:47:01	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.204; Result: HIT;
+[11:47:01	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:47:01	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:47:01	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0069 with ix_hands
+[11:47:03	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.428; Result: HIT;
+[11:47:03	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:47:03	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:47:03	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0072 with ix_hands
+[11:47:03	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.121; Result: HIT;
+[11:47:03	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:47:03	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:47:03	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0075 with ix_hands
+[11:47:05	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.044; Result: HIT;
+[11:47:05	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:47:05	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:47:05	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0078 with ix_hands
+[11:47:06	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.970; Result: HIT;
+[11:47:06	]Xin'Fen Duval a hit Akhmat Khamzatoev infligeant 3 dégats (Chance de crit : 0.00).
+[11:47:06	]Akhmat Khamzatoev a subi 3 dégâts de Xin'Fen Duval.
+[11:47:06	]Xin'Fen Duval has damaged Akhmat Khamzatoev, dealing 5.0081 with ix_hands
+[11:47:07	]Akhmat Khamzatoev a activé le mode observateur.
+[11:47:08	]Akhmat Khamzatoev a désactivé le mode observateur à son point d'origine.
+[11:47:17	]Akhmat Khamzatoev a fait apparaitre 'models/props_c17/FurnitureWashingmachine001a.mdl.
+[11:47:18	]Xin'Fen Duval a fait apparaitre 'models/props/cs_office/light_security.mdl.
+[11:47:20	]Akhmat Khamzatoev a fait apparaitre 'models/props_c17/FurnitureWashingmachine001a.mdl.
+[11:47:26	]Xin'Fen Duval a fait apparaitre 'models/props/cs_office/light_security.mdl.
+[11:47:29	]Akhmat Khamzatoev a fait apparaitre 'models/props_c17/SuitCase001a.mdl.
+[11:47:30	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:47:31	]Björn Arkasas a activé le mode observateur.
+[11:47:32	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.880; Result: HIT;
+[11:47:32	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.992; Result: HIT;
+[11:47:32	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.510; Result: HIT;
+[11:47:32	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.054; Result: HIT;
+[11:47:32	]Akhmat Khamzatoev a été assommé et saigne abondamment.
+[11:47:32	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:47:33	]Björn Arkasas a activé le mode observateur.
+[11:47:35	]Akhmat Khamzatoev ran SAM command 'respawn' with arguments: ''
+[11:47:36	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:47:37	]Björn Arkasas a activé le mode observateur.
+[11:47:38	]Xin'Fen Duval a activé le mode observateur.
+[11:47:38	]Akhmat Khamzatoev est complètement guéri.
+[11:47:40	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:47:41	]Björn Arkasas a activé le mode observateur.
+[11:47:43	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:47:48	]Björn Arkasas a activé le mode observateur.
+[11:47:51	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:47:54	]Björn Arkasas a activé le mode observateur.
+[11:51:13	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:51:14	]Björn Arkasas a activé le mode observateur.
+[11:51:15	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:51:15	]Björn Arkasas a activé le mode observateur.
+[11:51:18	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:51:19	]Björn Arkasas a activé le mode observateur.
+[11:51:21	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:51:21	]Björn Arkasas a activé le mode observateur.
+[11:51:44	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:51:47	]Björn Arkasas a activé le mode observateur.
+[11:52:29	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:52:33	]Björn Arkasas a activé le mode observateur.
+[11:53:31	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:53:33	]Björn Arkasas est complètement guéri.
+[11:53:35	]Björn Arkasas a activé le mode observateur.
+[11:53:36	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:53:37	]Björn Arkasas a activé le mode observateur.
+[11:53:38	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:53:38	]Björn Arkasas a activé le mode observateur.
+[11:53:39	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:53:41	]Björn Arkasas a activé le mode observateur.
+[11:53:42	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:53:42	]Björn Arkasas a activé le mode observateur.
+[11:53:43	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:53:44	]Björn Arkasas a activé le mode observateur.
+[11:54:16	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:54:18	]Björn Arkasas a activé le mode observateur.
+[11:54:20	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:54:23	]Björn Arkasas a activé le mode observateur.
+[11:54:53	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:54:55	]Björn Arkasas a activé le mode observateur.
+[11:55:07	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:55:07	]Björn Arkasas a activé le mode observateur.
+[11:55:34	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:55:37	]Björn Arkasas a activé le mode observateur.
+[11:55:39	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:55:40	]Björn Arkasas a activé le mode observateur.
+[11:55:41	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:55:42	]Björn Arkasas a activé le mode observateur.
+[11:55:44	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:55:45	]Björn Arkasas a activé le mode observateur.
+[11:55:46	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:56:08	]Björn Arkasas a activé le mode observateur.
+[11:56:12	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:56:16	]Björn Arkasas a activé le mode observateur.
+[11:57:34	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:57:34	]Björn Arkasas a activé le mode observateur.
+[11:57:35	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:57:36	]Björn Arkasas a activé le mode observateur.
+[11:57:38	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:57:40	]Björn Arkasas a activé le mode observateur.
+[11:57:42	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:57:43	]Björn Arkasas a activé le mode observateur.
+[11:57:44	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:57:45	]Björn Arkasas a activé le mode observateur.
+[11:57:46	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[11:57:46	]Björn Arkasas a activé le mode observateur.
+[11:58:00	]Xin'Fen Duval est maintenant AFK.
+[11:58:38	]Akhmat Khamzatoev est maintenant AFK.
+[12:08:28	]Björn Arkasas est maintenant AFK.
+[12:37:43	]Akhmat Khamzatoev n'est plus AFK. Temps total passé AFK : 2940
+[12:37:43	]eliumous a déchargé son personnage "Akhmat Khamzatoev".
+[12:37:50	]eliumous chargé le personnage 'Constantin Carnel'
+[12:38:08	]Constantin Carnel a exécuté 'EquipUn' sur l'article 'Brassard - Rouge' (#200373)
+[12:38:08	]Constantin Carnel a exécuté 'Equip' sur l'article 'Brassard - Rouge' (#200373)
+[12:38:27	]Constantin Carnel s'est give medal_progress.
+[12:38:27	]Constantin Carnel a gagné un 'Medal of Progress' #200412.
+[12:38:28	]Constantin Carnel a exécuté 'drop' sur l'article 'Medal of Progress' (#200412)
+[12:38:28	]Constantin Carnel a perdu un 'Medal of Progress' #200412.
+[12:38:35	]Constantin Carnel has fired a toolgun with the name: remover
+[12:42:48	]Björn Arkasas n'est plus AFK. Temps total passé AFK : 2655
+[12:43:32	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:43:43	]Björn Arkasas a activé le mode observateur.
+[12:45:23	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:45:24	]Björn Arkasas a activé le mode observateur.
+[12:45:54	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:45:54	]Constantin Carnel a exécuté 'drop' sur l'article 'Brassard - Bleu Clair' (#183401)
+[12:45:54	]Constantin Carnel a perdu un 'Brassard - Bleu Clair' #183401.
+[12:45:56	]Björn Arkasas a activé le mode observateur.
+[12:45:58	]Constantin Carnel has fired a toolgun with the name: remover
+[12:45:59	]Constantin Carnel has fired a toolgun with the name: remover
+[12:45:59	]Constantin Carnel has fired a toolgun with the name: remover
+[12:45:59	]Constantin Carnel has fired a toolgun with the name: remover
+[12:45:59	]Constantin Carnel has fired a toolgun with the name: remover
+[12:46:01	]Constantin Carnel has fired a toolgun with the name: remover
+[12:46:29	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:46:30	]Björn Arkasas a activé le mode observateur.
+[12:46:34	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:46:35	]Björn Arkasas a activé le mode observateur.
+[12:46:47	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:46:48	]Björn Arkasas a activé le mode observateur.
+[12:46:51	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:46:52	]Björn Arkasas a activé le mode observateur.
+[12:47:26	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:47:29	]Björn Arkasas a activé le mode observateur.
+[12:48:01	]AxeL s'est connecté.
+[12:48:06	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:48:07	]Björn Arkasas a activé le mode observateur.
+[12:48:11	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:48:12	]Björn Arkasas a activé le mode observateur.
+[12:48:22	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:48:25	]Björn Arkasas a activé le mode observateur.
+[12:48:28	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:48:28	]Björn Arkasas a activé le mode observateur.
+[12:48:31	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:48:34	]Björn Arkasas a activé le mode observateur.
+[12:48:35	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:48:35	]Björn Arkasas a activé le mode observateur.
+[12:48:36	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:48:36	]Björn Arkasas a activé le mode observateur.
+[12:48:38	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:48:38	]Björn Arkasas a activé le mode observateur.
+[12:48:38	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:48:40	]Björn Arkasas a activé le mode observateur.
+[12:48:43	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:48:45	]Björn Arkasas a activé le mode observateur.
+[12:49:03	]AxeL chargé le personnage 'Charles-Henri Rossignard'
+[12:49:14	]Charles-Henri Rossignard a activé le mode observateur.
+[12:49:25	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:49:26	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[12:49:26	]Björn Arkasas a activé le mode observateur.
+[12:49:26	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:49:27	]Björn Arkasas a activé le mode observateur.
+[12:49:39	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:49:40	]Björn Arkasas a activé le mode observateur.
+[12:49:41	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:49:41	]Björn Arkasas a activé le mode observateur.
+[12:50:04	]Constantin Carnel a utilisé la commande '/CharDesc'.
+[12:50:13	]Constantin Carnel a utilisé la commande '/CharDesc'.
+[12:50:19	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:50:20	]Björn Arkasas a activé le mode observateur.
+[12:50:25	][IC] Charles-Henri Rossignard: AAAAGH.
+[12:50:25	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:50:26	]Björn Arkasas a activé le mode observateur.
+[12:50:30	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:50:31	]Björn Arkasas a activé le mode observateur.
+[12:50:31	][IC] Charles-Henri Rossignard: Aaaaaaagh!
+[12:50:33	][IC] Charles-Henri Rossignard: Aaaaaaagh!
+[12:50:33	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:50:33	][IC] Charles-Henri Rossignard: Aaaaaaagh!
+[12:50:36	]Björn Arkasas a activé le mode observateur.
+[12:50:38	][IC] Charles-Henri Rossignard: Someday, this will all be a bad memory.
+[12:50:40	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:50:42	][IC] Charles-Henri Rossignard: Aaaaaaagh!
+[12:50:43	]Björn Arkasas a activé le mode observateur.
+[12:50:43	][IC] Charles-Henri Rossignard: Aaaaaaagh!
+[12:50:44	][IC] Charles-Henri Rossignard: Aaaaaaagh!
+[12:50:45	][IC] Charles-Henri Rossignard: Aaaaaaagh!
+[12:50:45	][IC] Charles-Henri Rossignard: Aaaaaaagh!
+[12:50:46	][IC] Charles-Henri Rossignard: Aaaaaaagh!
+[12:50:49	]Constantin Carnel a activé le mode observateur.
+[12:50:59	]Constantin Carnel a désactivé le mode observateur à son point d'origine.
+[12:50:59	]Charles-Henri Rossignard a utilisé la commande '/SetMood effraye'.
+[12:51:02	][IC] Charles-Henri Rossignard: Aaaaaaagh!
+[12:51:06	]Constantin Carnel a activé le mode observateur.
+[12:51:11	]Constantin Carnel a désactivé le mode observateur à son point d'origine.
+[12:51:24	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[12:51:27	]Björn Arkasas a activé le mode observateur.
+[12:51:27	]Charles-Henri Rossignard a activé le mode observateur.
+[12:51:29	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[12:51:43	]Charles-Henri Rossignard a utilisé la commande '/SetMood defaut'.
+[12:51:48	]Charles-Henri Rossignard a utilisé la commande '/ActStand'.
+[12:51:59	]eliumous a déchargé son personnage "Constantin Carnel".
+[12:52:08	]Charles-Henri Rossignard a utilisé la commande '/ExitAct'.
+[13:00:52	]eliumous créé le personnage 'Alfred Berkowitz'
+[13:00:53	]eliumous chargé le personnage 'Alfred Berkowitz'
+[13:00:53	]Alfred Berkowitz a gagné un '# Carte CID n° : 11267' #200413.
+[13:00:53	]Alfred Berkowitz a gagné un 'DATA-PAD' #200414.
+[13:00:53	]Alfred Berkowitz a gagné un 'Carte de la Haute Autorité Administrative - Niveau 0' #200415.
+[13:00:53	]Alfred Berkowitz a gagné un 'Le Collecteur' #200416.
+[13:00:53	]Alfred Berkowitz a gagné un 'Le pantalon presse-papiers' #200417.
+[13:00:53	]Alfred Berkowitz a gagné un 'Chaussures habillées' #200418.
+[13:00:59	]Alfred Berkowitz a activé le mode observateur.
+[13:01:02	]Alfred Berkowitz a désactivé le mode observateur à son point d'origine.
+[13:01:12	]Alfred Berkowitz a exécuté 'drop' sur l'article 'Le Collecteur' (#200416)
+[13:01:12	]Alfred Berkowitz a perdu un 'Le Collecteur' #200416.
+[13:01:13	]Alfred Berkowitz a exécuté 'drop' sur l'article 'Le pantalon presse-papiers' (#200417)
+[13:01:13	]Alfred Berkowitz a perdu un 'Le pantalon presse-papiers' #200417.
+[13:01:16	]Alfred Berkowitz has fired a toolgun with the name: remover
+[13:01:16	]Alfred Berkowitz has fired a toolgun with the name: remover
+[13:01:46	]Alfred Berkowitz s'est give cca_realist.
+[13:01:46	]Alfred Berkowitz a gagné un 'Le réaliste' #200419.
+[13:01:47	]Alfred Berkowitz s'est give cca_legs_realist.
+[13:01:47	]Alfred Berkowitz a gagné un 'Pantalon réaliste' #200420.
+[13:02:35	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:02:36	]Björn Arkasas a activé le mode observateur.
+[13:03:01	]Alfred Berkowitz a fait apparaitre 'models/props_c17/clock01.mdl.
+[13:03:11	]Alfred Berkowitz a fait apparaitre 'models/props_c17/tools_wrench01a.mdl.
+[13:03:24	]Alfred Berkowitz a fait apparaitre 'models/props_c17/statue_horse.mdl.
+[13:03:32	]Alfred Berkowitz a fait apparaitre 'models/props_c17/streetsign001c.mdl.
+[13:03:50	]Alfred Berkowitz a fait apparaitre 'models/props_junk/garbage_coffeemug001a.mdl.
+[13:04:09	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:04:29	]Björn Arkasas a activé le mode observateur.
+[13:04:30	]Alfred Berkowitz a fait apparaitre 'models/props_junk/garbage_coffeemug001a.mdl.
+[13:04:43	]Alfred Berkowitz a fait apparaitre 'models/props_junk/garbage_coffeemug001a.mdl.
+[13:04:44	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.213; Result: HIT;
+[13:04:44	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.698; Result: HIT;
+[13:04:45	]Alfred Berkowitz a fait apparaitre 'models/props_junk/garbage_coffeemug001a.mdl.
+[13:04:46	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.940; Result: HIT;
+[13:04:46	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.156; Result: HIT;
+[13:04:48	]Alfred Berkowitz a fait apparaitre 'models/props_junk/garbage_coffeemug001a.mdl.
+[13:04:49	]Alfred Berkowitz a fait apparaitre 'models/props_junk/garbage_coffeemug001a.mdl.
+[13:04:50	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.254; Result: HIT;
+[13:04:50	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.610; Result: HIT;
+[13:04:51	]Alfred Berkowitz a fait apparaitre 'models/props_junk/garbage_coffeemug001a.mdl.
+[13:04:53	]Alfred Berkowitz a fait apparaitre 'models/props_junk/garbage_coffeemug001a.mdl.
+[13:04:54	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.668; Result: HIT;
+[13:04:54	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.998; Result: HIT;
+[13:04:55	]Alfred Berkowitz a fait apparaitre 'models/props_junk/garbage_coffeemug001a.mdl.
+[13:04:56	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.556; Result: HIT;
+[13:04:56	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.954; Result: HIT;
+[13:04:57	]Alfred Berkowitz a fait apparaitre 'models/props_junk/garbage_coffeemug001a.mdl.
+[13:04:58	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.611; Result: HIT;
+[13:04:58	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.599; Result: HIT;
+[13:05:00	]Alfred Berkowitz a fait apparaitre 'models/props_junk/garbage_coffeemug001a.mdl.
+[13:05:02	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.925; Result: HIT;
+[13:05:02	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.013; Result: HIT;
+[13:05:03	]Alfred Berkowitz a fait apparaitre 'models/props_junk/garbage_coffeemug001a.mdl.
+[13:05:05	]Alfred Berkowitz a fait apparaitre 'models/props_junk/garbage_coffeemug001a.mdl.
+[13:05:06	]Alfred Berkowitz a fait apparaitre 'models/props_junk/garbage_coffeemug001a.mdl.
+[13:05:13	]Alfred Berkowitz a activé le mode observateur.
+[13:05:24	]Alfred Berkowitz a désactivé le mode observateur à son point d'origine.
+[13:06:19	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:06:22	]Björn Arkasas a activé le mode observateur.
+[13:06:29	]Alfred Berkowitz s'est give armband_purple.
+[13:06:29	]Alfred Berkowitz a gagné un 'Brassard - Mauve' #200421.
+[13:06:31	]Alfred Berkowitz a exécuté 'Equip' sur l'article 'Brassard - Mauve' (#200421)
+[13:06:57	]Björn Arkasas s'est give cmb_hkusp.
+[13:06:57	]Björn Arkasas a gagné un 'HK USP .45' #200422.
+[13:06:58	]Björn Arkasas a exécuté 'Equip' sur l'article 'HK USP .45' (#200422)
+[13:07:27	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:07:28	]Björn Arkasas a activé le mode observateur.
+[13:07:28	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:07:29	]Björn Arkasas a activé le mode observateur.
+[13:07:35	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:07:39	]Björn Arkasas a activé le mode observateur.
+[13:08:44	]Alfred Berkowitz a fait apparaitre 'models/props_c17/FurnitureWashingmachine001a.mdl.
+[13:08:51	]Alfred Berkowitz a fait apparaitre 'models/props_lab/blastdoor001c.mdl.
+[13:08:55	]Alfred Berkowitz a fait apparaitre 'models/props_lab/blastdoor001c.mdl.
+[13:08:57	]Alfred Berkowitz a fait apparaitre 'models/props_lab/blastdoor001c.mdl.
+[13:09:00	]Alfred Berkowitz a fait apparaitre 'models/props_lab/blastdoor001c.mdl.
+[13:09:02	]Alfred Berkowitz a activé le mode observateur.
+[13:09:07	]Alfred Berkowitz a fait apparaitre 'models/props_lab/blastdoor001c.mdl.
+[13:09:09	]Alfred Berkowitz a fait apparaitre 'models/props_lab/blastdoor001c.mdl.
+[13:09:13	]Alfred Berkowitz a fait apparaitre 'models/props_lab/blastdoor001c.mdl.
+[13:09:20	]Alfred Berkowitz has fired a toolgun with the name: creator
+[13:09:20	]Alfred Berkowitz a fait apparaitre  'NPC [6231][npc_zombie]'.
+[13:09:20	]Alfred Berkowitz has fired a toolgun with the name: creator
+[13:09:20	]Alfred Berkowitz a fait apparaitre  'NPC [6216][npc_zombie]'.
+[13:09:20	]Alfred Berkowitz has fired a toolgun with the name: creator
+[13:09:20	]Alfred Berkowitz a fait apparaitre  'NPC [6238][npc_zombie]'.
+[13:09:21	]Alfred Berkowitz has fired a toolgun with the name: creator
+[13:09:21	]Alfred Berkowitz a fait apparaitre  'NPC [6239][npc_zombie]'.
+[13:09:21	]Alfred Berkowitz has fired a toolgun with the name: creator
+[13:09:21	]Alfred Berkowitz a fait apparaitre  'NPC [6240][npc_zombie]'.
+[13:09:21	]Alfred Berkowitz has fired a toolgun with the name: creator
+[13:09:21	]Alfred Berkowitz a fait apparaitre  'NPC [6241][npc_zombie]'.
+[13:09:29	]Alfred Berkowitz has fired a toolgun with the name: creator
+[13:09:29	]Alfred Berkowitz a fait apparaitre  'NPC [6242][npc_zombie]'.
+[13:09:30	]Alfred Berkowitz has fired a toolgun with the name: creator
+[13:09:30	]Alfred Berkowitz a fait apparaitre  'NPC [6243][npc_zombie]'.
+[13:09:31	]Alfred Berkowitz has fired a toolgun with the name: creator
+[13:09:31	]Alfred Berkowitz a fait apparaitre  'NPC [6244][npc_zombie]'.
+[13:09:36	]Alfred Berkowitz has fired a toolgun with the name: creator
+[13:09:36	]Alfred Berkowitz a fait apparaitre  'NPC [6245][npc_zombie]'.
+[13:09:58	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:09:59	]Björn Arkasas a activé le mode observateur.
+[13:10:01	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:10:01	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.153; Result: HIT;
+[13:10:02	]Björn Arkasas a activé le mode observateur.
+[13:11:14	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:11:15	]Björn Arkasas a activé le mode observateur.
+[13:13:21	]Charles-Henri Rossignard a activé le mode observateur.
+[13:13:30	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:30	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:30	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:31	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:31	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:31	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:31	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:31	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:32	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:32	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:33	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:33	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:33	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:33	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:33	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:34	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:34	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:34	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:38	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:38	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:39	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:39	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:13:39	]Charles-Henri Rossignard has fired a toolgun with the name: remover
+[13:14:17	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:14:18	]Björn Arkasas a activé le mode observateur.
+[13:14:19	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:14:19	]Björn Arkasas a activé le mode observateur.
+[13:14:21	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:14:23	]Björn Arkasas a activé le mode observateur.
+[13:14:26	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:14:27	]Björn Arkasas a activé le mode observateur.
+[13:14:30	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:14:55	]Charles-Henri Rossignard s'est give cca_vanilla.
+[13:14:55	]Charles-Henri Rossignard a gagné un 'Mr. Vanille' #200423.
+[13:14:56	]Charles-Henri Rossignard s'est give cca_legs_vanilla.
+[13:14:56	]Charles-Henri Rossignard a gagné un 'Pantalon Vanille' #200424.
+[13:15:09	]Charles-Henri Rossignard a exécuté 'drop' sur l'article 'Chasseur d'éléphants' (#199782)
+[13:15:09	]Charles-Henri Rossignard a perdu un 'Chasseur d'éléphants' #199782.
+[13:15:10	]Charles-Henri Rossignard a exécuté 'drop' sur l'article 'Pantalon de chasseur d'éléphants' (#199783)
+[13:15:10	]Charles-Henri Rossignard a perdu un 'Pantalon de chasseur d'éléphants' #199783.
+[13:15:12	]Charles-Henri Rossignard a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[13:15:13	]Charles-Henri Rossignard a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[13:15:14	]env_entity_dissolver détruit un 'Chasseur d'éléphants' #199782.
+[13:15:15	]env_entity_dissolver détruit un 'Pantalon de chasseur d'éléphants' #199783.
+[13:15:27	]Charles-Henri Rossignard a utilisé la commande '/CharDesc Devant vous se trouve l'Administrateur de Cité 8 et le Directeur de Rossignard Industries. Il mesure environ 1m75 pour une calvitie exubérante et de beaux yeux verts. Il porte un beau bouc bien entretenu journalièrement. Il est habillé d'une tenue beige de haut-collaborateur, avec un pins en or de l'Union.'.
+[13:15:32	]Charles-Henri Rossignard s'est give cca_coat_overseer.
+[13:15:37	]Charles-Henri Rossignard a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[13:15:39	]env_entity_dissolver détruit un 'Le superviseur' #200425.
+[13:15:42	]Charles-Henri Rossignard s'est give cca_coat_burgundy.
+[13:15:49	]Charles-Henri Rossignard a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[13:15:51	]env_entity_dissolver détruit un 'Manteau de la Bourgogne' #200426.
+[13:15:59	]Charles-Henri Rossignard s'est give cca_coat_authoritarian.
+[13:15:59	]Charles-Henri Rossignard a gagné un 'Manteau de l'autoritaire' #200427.
+[13:16:09	]Charles-Henri Rossignard s'est give cca_coat_overseer.
+[13:16:09	]Charles-Henri Rossignard a gagné un 'Le superviseur' #200428.
+[13:16:17	]Charles-Henri Rossignard s'est give cca_coat_burgundy.
+[13:16:17	]Charles-Henri Rossignard a gagné un 'Manteau de la Bourgogne' #200429.
+[13:16:22	]Charles-Henri Rossignard s'est give cca_coat_heartwick.
+[13:16:23	]Charles-Henri Rossignard a gagné un 'Le trench-coat de Heartwick' #200430.
+[13:16:43	]Charles-Henri Rossignard s'est give cca_legs_savoy.
+[13:16:43	]Charles-Henri Rossignard a gagné un 'Pantalon Savoie' #200431.
+[13:17:03	]Charles-Henri Rossignard s'est give cca_legs_burgundy.
+[13:17:03	]Charles-Henri Rossignard a gagné un 'Pantalon bordeaux' #200432.
+[13:17:15	]Charles-Henri Rossignard s'est give cca_legs_overseer.
+[13:17:15	]Charles-Henri Rossignard a gagné un 'Pantalons du superviseur' #200433.
+[13:17:40	]Charles-Henri Rossignard s'est give cca_coat_authoritarian.
+[13:17:40	]Charles-Henri Rossignard a gagné un 'Manteau de l'autoritaire' #200434.
+[13:17:43	]Charles-Henri Rossignard s'est give cca_legs_authoritarian.
+[13:17:43	]Charles-Henri Rossignard a gagné un 'Le pantalon autoritaire' #200435.
+[13:17:52	]Charles-Henri Rossignard a exécuté 'drop' sur l'article 'Pantalons du superviseur' (#200433)
+[13:17:52	]Charles-Henri Rossignard a perdu un 'Pantalons du superviseur' #200433.
+[13:17:52	]Charles-Henri Rossignard a exécuté 'drop' sur l'article 'Manteau de l'autoritaire' (#200427)
+[13:17:52	]Charles-Henri Rossignard a perdu un 'Manteau de l'autoritaire' #200427.
+[13:17:53	]Charles-Henri Rossignard a exécuté 'drop' sur l'article 'Le trench-coat de Heartwick' (#200430)
+[13:17:53	]Charles-Henri Rossignard a perdu un 'Le trench-coat de Heartwick' #200430.
+[13:17:53	]Charles-Henri Rossignard a exécuté 'drop' sur l'article 'Pantalon Savoie' (#200431)
+[13:17:53	]Charles-Henri Rossignard a perdu un 'Pantalon Savoie' #200431.
+[13:17:54	]Charles-Henri Rossignard a exécuté 'drop' sur l'article 'Pantalon bordeaux' (#200432)
+[13:17:54	]Charles-Henri Rossignard a perdu un 'Pantalon bordeaux' #200432.
+[13:17:54	]Charles-Henri Rossignard a exécuté 'drop' sur l'article 'Pantalon Vanille' (#200424)
+[13:17:54	]Charles-Henri Rossignard a perdu un 'Pantalon Vanille' #200424.
+[13:17:54	]Charles-Henri Rossignard a exécuté 'drop' sur l'article 'Mr. Vanille' (#200423)
+[13:17:54	]Charles-Henri Rossignard a perdu un 'Mr. Vanille' #200423.
+[13:17:55	]Charles-Henri Rossignard a exécuté 'drop' sur l'article 'Le superviseur' (#200428)
+[13:17:55	]Charles-Henri Rossignard a perdu un 'Le superviseur' #200428.
+[13:17:55	]Charles-Henri Rossignard a exécuté 'drop' sur l'article 'Manteau de la Bourgogne' (#200429)
+[13:17:55	]Charles-Henri Rossignard a perdu un 'Manteau de la Bourgogne' #200429.
+[13:17:57	]Charles-Henri Rossignard a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[13:17:58	]Charles-Henri Rossignard a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[13:17:59	]Charles-Henri Rossignard a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[13:17:59	]env_entity_dissolver détruit un 'Manteau de la Bourgogne' #200429.
+[13:17:59	]Charles-Henri Rossignard a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[13:18:00	]env_entity_dissolver détruit un 'Mr. Vanille' #200423.
+[13:18:01	]env_entity_dissolver détruit un 'Manteau de l'autoritaire' #200427.
+[13:18:01	]Charles-Henri Rossignard a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[13:18:01	]env_entity_dissolver détruit un 'Pantalon Savoie' #200431.
+[13:18:02	]Charles-Henri Rossignard a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[13:18:03	]env_entity_dissolver détruit un 'Pantalon bordeaux' #200432.
+[13:18:03	]Charles-Henri Rossignard a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[13:18:04	]Charles-Henri Rossignard a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[13:18:05	]env_entity_dissolver détruit un 'Le superviseur' #200428.
+[13:18:06	]Charles-Henri Rossignard a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[13:18:06	]env_entity_dissolver détruit un 'Pantalon Vanille' #200424.
+[13:18:07	]Charles-Henri Rossignard a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[13:18:08	]env_entity_dissolver détruit un 'Pantalons du superviseur' #200433.
+[13:18:09	]env_entity_dissolver détruit un 'Le trench-coat de Heartwick' #200430.
+[13:18:10	]Charles-Henri Rossignard s'est give cca_vanilla.
+[13:18:10	]Charles-Henri Rossignard a gagné un 'Mr. Vanille' #200436.
+[13:18:11	]Charles-Henri Rossignard s'est give cca_legs_vanilla.
+[13:18:11	]Charles-Henri Rossignard a gagné un 'Pantalon Vanille' #200437.
+[13:18:22	]Charles-Henri Rossignard has gained level 4 in the Vitesse skill.
+[13:18:24	]Charles-Henri Rossignard a utilisé la commande '/CharDesc'.
+[13:19:07	]Charles-Henri Rossignard a activé le mode observateur.
+[13:20:23	]Alfred Berkowitz est maintenant AFK.
+[13:20:35	]Xin'Fen Duval n'est plus AFK. Temps total passé AFK : 5550
+[13:21:58	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:22:11	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:22:14	][IC] Charles-Henri Rossignard: Hm.
+[13:22:14	]Furnaxx (STEAM_0:1:159162397) s'est déconnecté.
+[13:22:18	]Björn Arkasas a activé le mode observateur.
+[13:22:19	][Y] Charles-Henri Rossignard: Cp.
+[13:22:22	][Y] Charles-Henri Rossignard: Pc.
+[13:22:26	][Y] Charles-Henri Rossignard: Aaaaaaagh!
+[13:22:29	]Charles-Henri Rossignard a activé le mode observateur.
+[13:22:45	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:22:47	]AxeL (STEAM_0:0:99853655) s'est déconnecté.
+[13:24:52	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:24:54	]Björn Arkasas a activé le mode observateur.
+[13:25:13	]AxeL s'est connecté.
+[13:25:46	]AxeL chargé le personnage 'Charles-Henri Rossignard'
+[13:25:50	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:25:53	]Björn Arkasas a activé le mode observateur.
+[13:26:16	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:26:19	]Björn Arkasas a activé le mode observateur.
+[13:27:16	]Charles-Henri Rossignard a activé le mode observateur.
+[13:27:28	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:27:28	]Björn Arkasas a activé le mode observateur.
+[13:27:29	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:27:31	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:27:35	]Björn Arkasas a activé le mode observateur.
+[13:27:37	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:27:37	]Björn Arkasas a activé le mode observateur.
+[13:27:37	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:27:47	]Björn Arkasas a activé le mode observateur.
+[13:28:49	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:28:52	]Björn Arkasas a activé le mode observateur.
+[13:28:59	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:29:02	]Björn Arkasas a activé le mode observateur.
+[13:29:02	]Charles-Henri Rossignard a activé le mode observateur.
+[13:29:28	]Charles-Henri Rossignard a fait apparaitre  'Entity [6199][aw2_gunship]'.
+[13:29:29	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:29:56	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.815; Result: HIT;
+[13:29:56	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.685; Result: HIT;
+[13:29:56	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.658; Result: HIT;
+[13:29:56	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.705; Result: HIT;
+[13:29:57	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.716; Result: HIT;
+[13:29:57	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.141; Result: HIT;
+[13:29:57	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.527; Result: HIT;
+[13:29:57	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.374; Result: HIT;
+[13:29:57	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.291; Result: HIT;
+[13:29:57	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.748; Result: HIT;
+[13:29:57	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.863; Result: HIT;
+[13:29:57	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.528; Result: HIT;
+[13:29:57	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.213; Result: HIT;
+[13:29:57	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.047; Result: HIT;
+[13:29:57	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.055; Result: HIT;
+[13:29:57	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.459; Result: HIT;
+[13:29:58	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.062; Result: HIT;
+[13:29:58	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.798; Result: HIT;
+[13:29:58	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.325; Result: HIT;
+[13:29:58	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.140; Result: HIT;
+[13:29:58	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.122; Result: HIT;
+[13:29:58	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.221; Result: HIT;
+[13:29:58	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.992; Result: HIT;
+[13:29:58	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.138; Result: HIT;
+[13:29:58	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.498; Result: HIT;
+[13:29:59	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.795; Result: HIT;
+[13:29:59	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.113; Result: HIT;
+[13:29:59	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.677; Result: HIT;
+[13:29:59	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.181; Result: HIT;
+[13:29:59	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.084; Result: HIT;
+[13:29:59	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.018; Result: HIT;
+[13:29:59	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.271; Result: HIT;
+[13:29:59	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.069; Result: HIT;
+[13:30:00	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.968; Result: HIT;
+[13:30:00	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.876; Result: HIT;
+[13:30:00	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.433; Result: HIT;
+[13:30:00	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.014; Result: HIT;
+[13:30:00	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.495; Result: HIT;
+[13:30:00	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.913; Result: HIT;
+[13:30:00	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.613; Result: HIT;
+[13:30:01	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.376; Result: HIT;
+[13:30:01	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.918; Result: HIT;
+[13:30:01	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.590; Result: HIT;
+[13:30:01	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.838; Result: HIT;
+[13:30:01	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.390; Result: HIT;
+[13:30:01	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.857; Result: HIT;
+[13:30:02	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.507; Result: HIT;
+[13:30:02	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.526; Result: HIT;
+[13:30:02	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.252; Result: HIT;
+[13:30:02	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.231; Result: HIT;
+[13:30:02	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.594; Result: HIT;
+[13:30:03	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.481; Result: HIT;
+[13:30:03	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.465; Result: HIT;
+[13:30:03	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:30:03	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.925; Result: HIT;
+[13:30:03	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.624; Result: HIT;
+[13:30:03	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.160; Result: HIT;
+[13:30:03	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.698; Result: HIT;
+[13:30:03	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.174; Result: HIT;
+[13:30:03	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.817; Result: HIT;
+[13:30:04	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.880; Result: HIT;
+[13:30:04	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.063; Result: HIT;
+[13:30:04	]Björn Arkasas a activé le mode observateur.
+[13:30:04	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.788; Result: HIT;
+[13:30:04	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:30:04	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.520; Result: HIT;
+[13:30:04	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.598; Result: HIT;
+[13:30:05	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.329; Result: HIT;
+[13:30:05	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.239; Result: HIT;
+[13:30:05	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.662; Result: HIT;
+[13:30:05	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.838; Result: HIT;
+[13:30:05	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.718; Result: HIT;
+[13:30:05	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.585; Result: HIT;
+[13:30:05	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.148; Result: HIT;
+[13:30:06	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.814; Result: HIT;
+[13:30:06	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.347; Result: HIT;
+[13:30:06	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.723; Result: HIT;
+[13:30:06	]Björn Arkasas a activé le mode observateur.
+[13:30:06	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.113; Result: HIT;
+[13:30:06	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.257; Result: HIT;
+[13:30:06	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.105; Result: HIT;
+[13:30:06	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.198; Result: HIT;
+[13:30:06	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.575; Result: HIT;
+[13:30:06	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.489; Result: HIT;
+[13:30:06	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.927; Result: HIT;
+[13:30:07	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.604; Result: HIT;
+[13:30:07	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.022; Result: HIT;
+[13:30:07	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.765; Result: HIT;
+[13:30:08	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.763; Result: HIT;
+[13:30:08	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.886; Result: HIT;
+[13:30:08	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.358; Result: HIT;
+[13:30:09	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.618; Result: HIT;
+[13:30:09	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.846; Result: HIT;
+[13:30:09	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.093; Result: HIT;
+[13:30:09	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:30:10	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.237; Result: HIT;
+[13:30:10	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.087; Result: HIT;
+[13:30:10	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.947; Result: HIT;
+[13:30:10	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.722; Result: HIT;
+[13:30:10	]Björn Arkasas a activé le mode observateur.
+[13:30:10	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.652; Result: HIT;
+[13:30:10	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.829; Result: HIT;
+[13:30:10	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.716; Result: HIT;
+[13:30:10	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.723; Result: HIT;
+[13:30:11	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.933; Result: HIT;
+[13:30:11	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.179; Result: HIT;
+[13:30:11	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.598; Result: HIT;
+[13:30:11	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:30:11	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.738; Result: HIT;
+[13:30:11	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.585; Result: HIT;
+[13:30:11	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.046; Result: HIT;
+[13:30:11	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.930; Result: HIT;
+[13:30:11	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.152; Result: HIT;
+[13:30:12	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.675; Result: HIT;
+[13:30:12	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.322; Result: HIT;
+[13:30:12	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.932; Result: HIT;
+[13:30:12	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.587; Result: HIT;
+[13:30:12	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.944; Result: HIT;
+[13:30:12	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.145; Result: HIT;
+[13:30:12	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.349; Result: HIT;
+[13:30:13	]Björn Arkasas a activé le mode observateur.
+[13:30:13	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.125; Result: HIT;
+[13:30:13	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.321; Result: HIT;
+[13:30:13	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.869; Result: HIT;
+[13:30:14	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.864; Result: HIT;
+[13:30:14	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.740; Result: HIT;
+[13:30:14	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.245; Result: HIT;
+[13:30:14	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.767; Result: HIT;
+[13:30:15	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.253; Result: HIT;
+[13:30:16	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.839; Result: HIT;
+[13:30:16	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.827; Result: HIT;
+[13:30:16	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.996; Result: HIT;
+[13:30:16	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.033; Result: HIT;
+[13:30:16	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.181; Result: HIT;
+[13:30:16	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.903; Result: HIT;
+[13:30:18	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.945; Result: HIT;
+[13:30:18	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.636; Result: HIT;
+[13:30:18	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.751; Result: HIT;
+[13:30:18	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.504; Result: HIT;
+[13:30:18	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.652; Result: HIT;
+[13:30:18	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:30:18	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.362; Result: HIT;
+[13:30:19	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.291; Result: HIT;
+[13:30:19	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.903; Result: HIT;
+[13:30:19	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.005; Result: HIT;
+[13:30:19	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.107; Result: HIT;
+[13:30:19	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.616; Result: HIT;
+[13:30:19	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.532; Result: HIT;
+[13:30:19	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.711; Result: HIT;
+[13:30:19	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.419; Result: HIT;
+[13:30:19	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.728; Result: HIT;
+[13:30:19	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.245; Result: HIT;
+[13:30:19	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.440; Result: HIT;
+[13:30:20	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.190; Result: HIT;
+[13:30:20	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.529; Result: HIT;
+[13:30:20	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.439; Result: HIT;
+[13:30:20	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.095; Result: HIT;
+[13:30:20	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.900; Result: HIT;
+[13:30:20	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.769; Result: HIT;
+[13:30:20	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.398; Result: HIT;
+[13:30:20	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.973; Result: HIT;
+[13:30:20	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.487; Result: HIT;
+[13:30:20	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.501; Result: HIT;
+[13:30:20	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.858; Result: HIT;
+[13:30:21	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.104; Result: HIT;
+[13:30:21	]Björn Arkasas a activé le mode observateur.
+[13:30:21	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.049; Result: HIT;
+[13:30:21	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.330; Result: HIT;
+[13:30:21	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.650; Result: HIT;
+[13:30:21	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.522; Result: HIT;
+[13:30:21	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.796; Result: HIT;
+[13:30:22	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.679; Result: HIT;
+[13:30:22	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.999; Result: HIT;
+[13:30:22	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.551; Result: HIT;
+[13:30:22	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.777; Result: HIT;
+[13:30:22	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.162; Result: HIT;
+[13:30:22	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.854; Result: HIT;
+[13:30:23	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.539; Result: HIT;
+[13:30:23	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.904; Result: HIT;
+[13:30:23	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.247; Result: HIT;
+[13:30:23	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.938; Result: HIT;
+[13:30:23	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.987; Result: HIT;
+[13:30:23	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.544; Result: HIT;
+[13:30:24	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.079; Result: HIT;
+[13:30:24	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.023; Result: HIT;
+[13:30:24	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.099; Result: HIT;
+[13:30:24	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.935; Result: HIT;
+[13:30:24	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.625; Result: HIT;
+[13:30:24	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:30:24	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.138; Result: HIT;
+[13:30:24	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.545; Result: HIT;
+[13:30:24	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.288; Result: HIT;
+[13:30:25	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.922; Result: HIT;
+[13:30:25	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.081; Result: HIT;
+[13:30:25	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.067; Result: HIT;
+[13:30:25	]Björn Arkasas a activé le mode observateur.
+[13:30:26	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:30:26	]Björn Arkasas a activé le mode observateur.
+[13:30:27	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.494; Result: HIT;
+[13:30:27	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.185; Result: HIT;
+[13:30:27	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.614; Result: HIT;
+[13:30:27	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.583; Result: HIT;
+[13:30:32	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:30:38	]Charles-Henri Rossignard a activé le mode observateur.
+[13:30:43	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:30:51	][IC] Charles-Henri Rossignard: Aaaaaaagh!
+[13:31:00	][IC] Charles-Henri Rossignard: *Cheering!*.
+[13:31:01	]Björn Arkasas a activé le mode observateur.
+[13:31:02	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:31:03	]Björn Arkasas a activé le mode observateur.
+[13:31:04	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:31:04	][IC] Charles-Henri Rossignard: *Cheering!*.
+[13:31:04	]Björn Arkasas a activé le mode observateur.
+[13:31:05	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:31:07	][IC] Charles-Henri Rossignard: *Cheering!*.
+[13:31:09	][IC] Charles-Henri Rossignard: *Cheering!*.
+[13:31:15	][IC] Charles-Henri Rossignard: Combine!
+[13:31:16	]Björn Arkasas a perdu un 'Chargeur P90' #168361.
+[13:31:20	][IC] Charles-Henri Rossignard: Civil Protection!
+[13:31:49	]Björn Arkasas a activé le mode observateur.
+[13:31:51	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:31:52	]Björn Arkasas a activé le mode observateur.
+[13:31:53	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:31:56	]Björn Arkasas a activé le mode observateur.
+[13:31:59	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:32:00	]Björn Arkasas a activé le mode observateur.
+[13:32:02	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:32:04	][DEBUG-WEPBAL] baseCrit: 0.30; armorMod: 1.00; weaponSkillMod: 1.20; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[13:32:04	][DEBUG-WEPBAL] Chance: 0.432; Roll: 0.529; Result: HIT;
+[13:32:04	]Björn Arkasas a hit Charles-Henri Rossignard dans la chest infligeant 8 dégats (Chance de crit : 0.43).
+[13:32:04	]Charles-Henri Rossignard a subi 8 dégâts de Björn Arkasas.
+[13:32:07	][DEBUG-WEPBAL] baseCrit: 0.10; armorMod: 1.00; weaponSkillMod: 1.20; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[13:32:07	][DEBUG-WEPBAL] Chance: 0.144; Roll: 0.418; Result: HIT;
+[13:32:07	]Björn Arkasas a hit Charles-Henri Rossignard dans la head infligeant 10 dégats (Chance de crit : 0.14).
+[13:32:07	]Charles-Henri Rossignard a subi 10 dégâts de Björn Arkasas.
+[13:32:10	][DEBUG-WEPBAL] baseCrit: 0.30; armorMod: 1.00; weaponSkillMod: 1.20; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[13:32:10	][DEBUG-WEPBAL] Chance: 0.432; Roll: 0.433; Result: HIT;
+[13:32:10	]Björn Arkasas a hit Charles-Henri Rossignard dans la chest infligeant 8 dégats (Chance de crit : 0.43).
+[13:32:10	]Charles-Henri Rossignard a subi 8 dégâts de Björn Arkasas.
+[13:32:12	]Björn Arkasas a activé le mode observateur.
+[13:32:31	]Charles-Henri Rossignard s'est give health_kit.
+[13:32:31	]Charles-Henri Rossignard a gagné un 'Kit de soin' #200438.
+[13:32:35	]Charles-Henri Rossignard a exécuté 'use' sur l'article 'Kit de soin' (#200438)
+[13:32:35	]Charles-Henri Rossignard has performed the 'Use Kit de soin' action, gaining 78 experience in medicine.
+[13:32:35	]Charles-Henri Rossignard a été désinfecté par Charles-Henri Rossignard pendant 474 secondes.
+[13:32:35	]Charles-Henri Rossignard a été bandé par Charles-Henri Rossignard pour 85 points de vie.
+[13:32:36	]Charles-Henri Rossignard a exécuté 'use' sur l'article 'Kit de soin' (#200438)
+[13:32:36	]Charles-Henri Rossignard a été désinfecté par Charles-Henri Rossignard pendant 474 secondes.
+[13:32:36	]Charles-Henri Rossignard a été bandé par Charles-Henri Rossignard pour 85 points de vie.
+[13:32:39	]Charles-Henri Rossignard s'est give morphine.
+[13:32:39	]Charles-Henri Rossignard a gagné un 'Morphine' #200439.
+[13:32:41	]Charles-Henri Rossignard a exécuté 'use' sur l'article 'Morphine' (#200439)
+[13:32:41	]Charles-Henri Rossignard has gained a level 4 short boost in Force.
+[13:32:42	]Charles-Henri Rossignard a exécuté 'use' sur l'article 'Morphine' (#200439)
+[13:32:42	]Charles-Henri Rossignard has wasted a level 4 short boost in Force (current: 0; target: 4).
+[13:32:42	]Charles-Henri Rossignard a exécuté 'drop' sur l'article 'Morphine' (#200439)
+[13:32:42	]Charles-Henri Rossignard a perdu un 'Morphine' #200439.
+[13:32:46	]Charles-Henri Rossignard a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[13:32:48	]env_entity_dissolver détruit un 'Morphine' #200439.
+[13:32:56	]Charles-Henri Rossignard a activé le mode observateur.
+[13:32:58	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:32:58	]Charles-Henri Rossignard a activé le mode observateur.
+[13:32:59	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:33:00	]Charles-Henri Rossignard a activé le mode observateur.
+[13:33:01	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:33:02	]Charles-Henri Rossignard a activé le mode observateur.
+[13:33:02	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:33:04	]Charles-Henri Rossignard a activé le mode observateur.
+[13:33:04	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:33:05	]Charles-Henri Rossignard a activé le mode observateur.
+[13:33:06	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:33:07	]Charles-Henri Rossignard a activé le mode observateur.
+[13:33:08	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:33:09	]Charles-Henri Rossignard a activé le mode observateur.
+[13:33:09	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:33:10	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:33:10	]Charles-Henri Rossignard a activé le mode observateur.
+[13:33:11	]Björn Arkasas a activé le mode observateur.
+[13:33:11	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:33:12	]Charles-Henri Rossignard a activé le mode observateur.
+[13:33:12	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:33:14	]Charles-Henri Rossignard a activé le mode observateur.
+[13:33:14	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:33:15	]Charles-Henri Rossignard a activé le mode observateur.
+[13:33:16	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:33:17	]Charles-Henri Rossignard a activé le mode observateur.
+[13:33:20	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:33:23	]Charles-Henri Rossignard a activé le mode observateur.
+[13:33:23	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:33:25	]Charles-Henri Rossignard a activé le mode observateur.
+[13:33:26	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:33:39	]Charles-Henri Rossignard a activé le mode observateur.
+[13:33:42	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:33:45	]Charles-Henri Rossignard a activé le mode observateur.
+[13:33:47	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:33:51	]Charles-Henri Rossignard a subi 20 dégâts de worldspawn.
+[13:33:54	]Charles-Henri Rossignard s'est give health_vial.
+[13:33:59	]Charles-Henri Rossignard a exécuté 'take' sur l'article 'Fiole de Biogel' (#200440)
+[13:33:59	]Charles-Henri Rossignard a gagné un 'Fiole de Biogel' #200440.
+[13:34:01	]Charles-Henri Rossignard a exécuté 'use' sur l'article 'Fiole de Biogel' (#200440)
+[13:34:01	]Charles-Henri Rossignard has performed the 'Use Fiole de Biogel' action, gaining 50 experience in medicine.
+[13:34:01	]Charles-Henri Rossignard a essayé de désinfecter Charles-Henri Rossignard mais la plaie était déjà propre.
+[13:34:01	]Charles-Henri Rossignard a été bandé par Charles-Henri Rossignard pour 57 points de vie.
+[13:34:02	]Charles-Henri Rossignard a exécuté 'use' sur l'article 'Fiole de Biogel' (#200440)
+[13:34:02	]Charles-Henri Rossignard a essayé de désinfecter Charles-Henri Rossignard mais la plaie était déjà propre.
+[13:34:02	]Charles-Henri Rossignard a été bandé par Charles-Henri Rossignard pour 57 points de vie.
+[13:34:02	]Charles-Henri Rossignard a gagné un 'Empty Health Vial' #200441.
+[13:34:03	]Charles-Henri Rossignard a exécuté 'drop' sur l'article 'Empty Health Vial' (#200441)
+[13:34:03	]Charles-Henri Rossignard a perdu un 'Empty Health Vial' #200441.
+[13:34:04	]Charles-Henri Rossignard a utilisé une option de menu contextuel portant ce nom : rb655_dissolve
+[13:34:06	]env_entity_dissolver détruit un 'Empty Health Vial' #200441.
+[13:34:09	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:34:10	][Y] Charles-Henri Rossignard: Aaaaaaagh!
+[13:34:12	]Björn Arkasas a activé le mode observateur.
+[13:34:14	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:34:15	]Björn Arkasas a activé le mode observateur.
+[13:34:25	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:34:27	]Björn Arkasas a activé le mode observateur.
+[13:34:57	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:34:58	]Björn Arkasas a activé le mode observateur.
+[13:36:11	]Charles-Henri Rossignard est complètement guéri.
+[13:37:02	]Charles-Henri Rossignard a activé le mode observateur.
+[13:37:03	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:37:39	]Charles-Henri Rossignard a activé le mode observateur.
+[13:37:40	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:37:59	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:38:00	]Björn Arkasas a activé le mode observateur.
+[13:39:01	]Charles-Henri Rossignard a activé le mode observateur.
+[13:39:02	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:39:03	]Charles-Henri Rossignard a activé le mode observateur.
+[13:39:04	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:39:05	]Charles-Henri Rossignard a activé le mode observateur.
+[13:39:05	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:39:06	]Charles-Henri Rossignard a activé le mode observateur.
+[13:39:06	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:39:06	]Charles-Henri Rossignard a activé le mode observateur.
+[13:39:54	]Charles-Henri Rossignard a désactivé le mode observateur à son point d'origine.
+[13:39:58	]AxeL (STEAM_0:0:99853655) s'est déconnecté.
+[13:44:22	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:44:23	]Björn Arkasas a activé le mode observateur.
+[13:44:24	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:44:28	]Björn Arkasas a activé le mode observateur.
+[13:45:02	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:45:03	]Björn Arkasas a activé le mode observateur.
+[13:45:06	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:45:07	]Björn Arkasas a activé le mode observateur.
+[13:45:21	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:45:24	]Björn Arkasas a activé le mode observateur.
+[13:45:53	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:45:56	]Björn Arkasas a activé le mode observateur.
+[13:46:50	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:46:53	]Björn Arkasas a activé le mode observateur.
+[13:47:03	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:47:04	]Björn Arkasas a activé le mode observateur.
+[13:47:13	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:47:17	]Björn Arkasas a activé le mode observateur.
+[13:47:18	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:47:41	]Björn Arkasas a activé le mode observateur.
+[13:47:42	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:47:46	]Björn Arkasas a activé le mode observateur.
+[13:47:46	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:47:57	]Björn Arkasas a activé le mode observateur.
+[13:48:00	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:48:01	]Björn Arkasas a activé le mode observateur.
+[13:48:03	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:48:06	]Björn Arkasas a activé le mode observateur.
+[13:48:07	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:48:07	]Björn Arkasas a activé le mode observateur.
+[13:48:07	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:48:09	]Björn Arkasas a activé le mode observateur.
+[13:48:12	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:48:13	]Björn Arkasas a activé le mode observateur.
+[13:48:36	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:48:38	]Björn Arkasas a activé le mode observateur.
+[13:48:39	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:48:46	]Björn Arkasas a activé le mode observateur.
+[13:48:59	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:49:00	]Björn Arkasas a activé le mode observateur.
+[13:49:36	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:49:37	]Björn Arkasas a activé le mode observateur.
+[13:49:47	]Alfred Berkowitz a désactivé le mode observateur à son point d'origine.
+[13:49:48	]Alfred Berkowitz n'est plus AFK. Temps total passé AFK : 2360
+[13:49:48	]Alfred Berkowitz a activé le mode observateur.
+[13:49:56	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:49:56	]Björn Arkasas a activé le mode observateur.
+[13:49:57	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:49:59	]Björn Arkasas a activé le mode observateur.
+[13:51:10	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:51:14	]Björn Arkasas a gagné un 'Chargeur P90' #168361.
+[13:51:14	]Björn Arkasas a perdu un 'Chargeur P90' #168360.
+[13:51:27	]Björn Arkasas a gagné un 'Chargeur P90' #168360.
+[13:51:27	]Björn Arkasas a perdu un 'Chargeur P90' #168359.
+[13:51:30	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 1.20; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[13:51:30	][DEBUG-WEPBAL] Chance: 0.720; Roll: 0.357; Result: CRIT;
+[13:51:35	]Björn Arkasas a gagné un 'Chargeur P90' #168359.
+[13:51:35	]Björn Arkasas a perdu un 'Chargeur P90' #168361.
+[13:51:41	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 1.20; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[13:51:41	][DEBUG-WEPBAL] Chance: 0.720; Roll: 0.230; Result: CRIT;
+[13:51:44	]Björn Arkasas a activé le mode observateur.
+[13:52:26	]Björn Arkasas s'est give metro_bastardll.
+[13:52:26	]Björn Arkasas a gagné un 'Last light' #200442.
+[13:52:28	]Björn Arkasas s'est give metro_2012ll.
+[13:52:28	]Björn Arkasas a gagné un 'Last light' #200443.
+[13:53:04	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:53:05	]Björn Arkasas a activé le mode observateur.
+[13:53:09	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:53:11	]Björn Arkasas a activé le mode observateur.
+[13:53:11	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:53:13	]Björn Arkasas a activé le mode observateur.
+[13:53:30	]Björn Arkasas a utilisé la commande '/CreateCustomItem'.
+[13:56:34	]Alfred Berkowitz a utilisé la commande '/clothingcreator'.
+[13:58:14	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:58:16	]Björn Arkasas a activé le mode observateur.
+[13:58:22	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:58:24	]Björn Arkasas a activé le mode observateur.
+[13:58:31	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:58:35	]Björn Arkasas a activé le mode observateur.
+[13:58:42	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:58:44	]Björn Arkasas a activé le mode observateur.
+[13:59:13	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:59:16	]Björn Arkasas a activé le mode observateur.
+[13:59:16	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:59:18	]Björn Arkasas a activé le mode observateur.
+[13:59:49	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:59:50	]Björn Arkasas a activé le mode observateur.
+[13:59:51	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:59:51	]Björn Arkasas a activé le mode observateur.
+[13:59:53	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:59:53	]Björn Arkasas a activé le mode observateur.
+[13:59:54	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[13:59:56	]eliumous (STEAM_0:0:117647089) s'est déconnecté.
+[13:59:57	]Björn Arkasas a activé le mode observateur.
+[14:00:04	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[14:00:05	]Björn Arkasas a activé le mode observateur.
+[14:00:21	]Björn Arkasas a désactivé le mode observateur à son point d'origine.
+[14:00:22	]Björn Arkasas a activé le mode observateur.
+[14:00:33	]Björn Arkasas has fired a toolgun with the name: submaterial
+[14:00:34	]Björn Arkasas has fired a toolgun with the name: submaterial
+[14:00:35	]Björn Arkasas has fired a toolgun with the name: submaterial
+[14:00:38	]Björn Arkasas has fired a toolgun with the name: submaterial
+[14:00:39	]Björn Arkasas has fired a toolgun with the name: submaterial
+[14:00:40	]Björn Arkasas has fired a toolgun with the name: submaterial
+[14:00:46	]Björn Arkasas has fired a toolgun with the name: submaterial
+[14:00:47	]Björn Arkasas has fired a toolgun with the name: submaterial
+[14:00:50	]Björn Arkasas has fired a toolgun with the name: submaterial
+[14:00:56	]Commissar_Krieger (STEAM_0:1:221347812) s'est déconnecté.

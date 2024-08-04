@@ -1,0 +1,87 @@
+[11:18:53	]Commissar_Krieger s'est connecté.
+[11:19:43	]Commissar_Krieger chargé le personnage 'C13:i3.UNION-23'
+[11:19:44	]C13:i3.UNION-23 a subi 24 dégâts de worldspawn.
+[11:20:13	]C13:i3.UNION-23 a activé le mode observateur.
+[11:20:39	]C13:i3.UNION-23 a désactivé le mode observateur à son point d'origine.
+[11:20:39	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.929; Result: HIT;
+[11:20:40	][DEBUG-WEPBAL] Chance: 0.000; Roll: 0.193; Result: HIT;
+[11:20:44	]C13:i3.UNION-23 a activé le mode observateur.
+[11:21:04	]C13:i3.UNION-23 a exécuté 'combine' sur l'article 'Poche à Chargeurs' (#137000)
+[11:21:50	]C13:i3.UNION-23 a désactivé le mode observateur à son point d'origine.
+[11:21:50	]C13:i3.UNION-23 a perdu un 'Chargeur USP' #184915.
+[11:21:57	][DEBUG-WEPBAL] baseCrit: 0.48; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.77; dodgeMod: 1.00
+[11:21:57	][DEBUG-WEPBAL] Chance: 0.483; Roll: 0.838; Result: HIT;
+[11:21:57	][DEBUG-WEPBAL] baseCrit: 0.48; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.77; dodgeMod: 1.00
+[11:21:57	][DEBUG-WEPBAL] Chance: 0.483; Roll: 0.268; Result: CRIT;
+[11:21:57	][DEBUG-WEPBAL] baseCrit: 0.48; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.77; dodgeMod: 1.00
+[11:21:57	][DEBUG-WEPBAL] Chance: 0.483; Roll: 0.944; Result: HIT;
+[11:21:57	][DEBUG-WEPBAL] baseCrit: 0.48; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.77; dodgeMod: 1.00
+[11:21:57	][DEBUG-WEPBAL] Chance: 0.483; Roll: 0.243; Result: CRIT;
+[11:21:58	][DEBUG-WEPBAL] baseCrit: 0.48; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.77; dodgeMod: 1.00
+[11:21:58	][DEBUG-WEPBAL] Chance: 0.483; Roll: 0.090; Result: CRIT;
+[11:21:58	][DEBUG-WEPBAL] baseCrit: 0.45; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.51; dodgeMod: 1.00
+[11:21:58	][DEBUG-WEPBAL] Chance: 0.307; Roll: 0.908; Result: HIT;
+[11:21:58	][DEBUG-WEPBAL] baseCrit: 0.48; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.77; dodgeMod: 1.00
+[11:21:58	][DEBUG-WEPBAL] Chance: 0.483; Roll: 0.643; Result: HIT;
+[11:21:59	][DEBUG-WEPBAL] baseCrit: 0.48; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.74; dodgeMod: 1.00
+[11:21:59	][DEBUG-WEPBAL] Chance: 0.467; Roll: 0.181; Result: CRIT;
+[11:21:59	][DEBUG-WEPBAL] baseCrit: 0.48; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.74; dodgeMod: 1.00
+[11:21:59	][DEBUG-WEPBAL] Chance: 0.467; Roll: 0.727; Result: HIT;
+[11:21:59	][DEBUG-WEPBAL] baseCrit: 0.48; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.74; dodgeMod: 1.00
+[11:21:59	][DEBUG-WEPBAL] Chance: 0.467; Roll: 0.467; Result: HIT;
+[11:22:00	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:22:00	][DEBUG-WEPBAL] Chance: 0.660; Roll: 0.065; Result: CRIT;
+[11:22:01	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:22:01	][DEBUG-WEPBAL] Chance: 0.660; Roll: 0.003; Result: CRIT;
+[11:22:01	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:22:01	][DEBUG-WEPBAL] Chance: 0.660; Roll: 0.258; Result: CRIT;
+[11:22:01	][DEBUG-WEPBAL] baseCrit: 0.48; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.83; dodgeMod: 1.00
+[11:22:01	][DEBUG-WEPBAL] Chance: 0.530; Roll: 0.034; Result: CRIT;
+[11:22:02	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:22:02	][DEBUG-WEPBAL] Chance: 0.660; Roll: 0.424; Result: CRIT;
+[11:22:02	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:22:02	][DEBUG-WEPBAL] Chance: 0.660; Roll: 0.364; Result: CRIT;
+[11:22:02	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:22:02	][DEBUG-WEPBAL] Chance: 0.660; Roll: 0.986; Result: HIT;
+[11:22:04	][DEBUG-WEPBAL] baseCrit: 0.47; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.70; dodgeMod: 1.00
+[11:22:04	][DEBUG-WEPBAL] Chance: 0.433; Roll: 0.022; Result: CRIT;
+[11:22:04	][DEBUG-WEPBAL] baseCrit: 0.45; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.44; dodgeMod: 1.00
+[11:22:04	][DEBUG-WEPBAL] Chance: 0.261; Roll: 0.206; Result: CRIT;
+[11:22:07	]C13:i3.UNION-23 a gagné un 'Chargeur USP' #184915.
+[11:22:07	]C13:i3.UNION-23 a perdu un 'Chargeur USP' #184913.
+[11:22:13	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:22:13	][DEBUG-WEPBAL] Chance: 0.660; Roll: 0.484; Result: CRIT;
+[11:22:13	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:22:13	][DEBUG-WEPBAL] Chance: 0.660; Roll: 0.078; Result: CRIT;
+[11:22:13	][DEBUG-WEPBAL] baseCrit: 0.45; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.48; dodgeMod: 1.00
+[11:22:13	][DEBUG-WEPBAL] Chance: 0.288; Roll: 0.715; Result: HIT;
+[11:22:14	][DEBUG-WEPBAL] baseCrit: 0.40; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.20; dodgeMod: 1.00
+[11:22:14	][DEBUG-WEPBAL] Chance: 0.106; Roll: 0.769; Result: HIT;
+[11:22:14	][DEBUG-WEPBAL] baseCrit: 0.40; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.20; dodgeMod: 1.00
+[11:22:14	][DEBUG-WEPBAL] Chance: 0.106; Roll: 0.956; Result: HIT;
+[11:22:14	][DEBUG-WEPBAL] baseCrit: 0.45; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.48; dodgeMod: 1.00
+[11:22:14	][DEBUG-WEPBAL] Chance: 0.288; Roll: 0.630; Result: HIT;
+[11:22:23	]C13:i3.UNION-23 a exécuté 'combine' sur l'article 'Chargeur USP' (#184915)
+[11:22:24	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:22:24	][DEBUG-WEPBAL] Chance: 0.660; Roll: 0.441; Result: CRIT;
+[11:22:24	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:22:24	][DEBUG-WEPBAL] Chance: 0.660; Roll: 0.337; Result: CRIT;
+[11:22:25	][DEBUG-WEPBAL] baseCrit: 0.41; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.20; dodgeMod: 1.00
+[11:22:25	][DEBUG-WEPBAL] Chance: 0.109; Roll: 0.312; Result: HIT;
+[11:22:25	][DEBUG-WEPBAL] baseCrit: 0.45; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.48; dodgeMod: 1.00
+[11:22:25	][DEBUG-WEPBAL] Chance: 0.288; Roll: 0.232; Result: CRIT;
+[11:22:25	][DEBUG-WEPBAL] baseCrit: 0.45; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.48; dodgeMod: 1.00
+[11:22:25	][DEBUG-WEPBAL] Chance: 0.288; Roll: 0.409; Result: HIT;
+[11:22:26	][DEBUG-WEPBAL] baseCrit: 0.47; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.73; dodgeMod: 1.00
+[11:22:26	][DEBUG-WEPBAL] Chance: 0.457; Roll: 0.471; Result: HIT;
+[11:22:26	][DEBUG-WEPBAL] baseCrit: 0.47; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 0.73; dodgeMod: 1.00
+[11:22:26	][DEBUG-WEPBAL] Chance: 0.457; Roll: 0.424; Result: CRIT;
+[11:22:27	]C13:i3.UNION-23 a gagné un 'Chargeur USP' #184913.
+[11:22:27	]C13:i3.UNION-23 a perdu un 'Chargeur USP' #184915.
+[11:22:57	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:22:57	][DEBUG-WEPBAL] Chance: 0.660; Roll: 0.112; Result: CRIT;
+[11:22:57	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:22:57	][DEBUG-WEPBAL] Chance: 0.660; Roll: 0.083; Result: CRIT;
+[11:22:58	][DEBUG-WEPBAL] baseCrit: 0.50; armorMod: 1.00; weaponSkillMod: 1.10; rangeSkillMod: 1.20; effRangeMod: 1.00; dodgeMod: 1.00
+[11:22:58	][DEBUG-WEPBAL] Chance: 0.660; Roll: 0.994; Result: HIT;
+[11:24:04	]Commissar_Krieger (STEAM_0:1:221347812) s'est déconnecté.
