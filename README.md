@@ -3,12 +3,17 @@
 
 ### Navigation:
 * **Framework**\
-Databases, logs and so on are included
+The databases are too big for github and are included in builds distributed through [The Twilight Zone](https://wnsrc.plymouth.thetwilightzone.ru/).\
+Helix logs are included in builds below (data/helix/logs).
+
+
   * [Willard Networks: Development Server](https://google.com)
   * [Willard Networks: France (Echo One)](https://google.com)
   * [Willard Networks: Poland (Veles)](https://google.com)
   * [Willard Networks: Turkey](https://google.com)
-* **Forum**
-  * [Users data stack (including e-mails)](https://google.com/)
+* **Forum**\
+Information about forum users obtained through the forum API.\
+It contains e-mail addresses. Does not contain authentication data.
+  * [Users data stack](https://google.com/)
 
 Bluntsmoke, Inc. © 2024
