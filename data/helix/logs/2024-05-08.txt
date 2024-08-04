@@ -1,0 +1,354 @@
+[18:23:18	]Revain has connected.
+[18:24:10	]Revain loaded the character 'C24:RCT.YELLO-23'
+[18:24:41	]C24:RCT.YELLO-23 entered observer.
+[18:27:10	]C24:RCT.YELLO-23 is fully healed.
+[18:27:15	]Barış has connected.
+[18:27:41	]C24:RCT.YELLO-23 exited observer at their location.
+[18:27:44	]C24:RCT.YELLO-23 entered observer.
+[18:27:56	]C24:RCT.YELLO-23 exited observer at their location.
+[18:27:56	]C24:RCT.YELLO-23 entered observer.
+[18:27:57	]C24:RCT.YELLO-23 exited observer at their location.
+[18:27:57	]C24:RCT.YELLO-23 entered observer.
+[18:27:57	]C24:RCT.YELLO-23 exited observer at their location.
+[18:27:57	]C24:RCT.YELLO-23 entered observer.
+[18:27:58	]C24:RCT.YELLO-23 exited observer at their location.
+[18:27:58	]C24:RCT.YELLO-23 entered observer.
+[18:27:58	]C24:RCT.YELLO-23 exited observer at their location.
+[18:27:58	]C24:RCT.YELLO-23 entered observer.
+[18:27:59	]C24:RCT.YELLO-23 exited observer at their location.
+[18:28:00	]C24:RCT.YELLO-23 entered observer.
+[18:28:14	]Barış loaded the character 'S10:SCN-3'
+[18:28:45	]C24:RCT.YELLO-23 used command '/PM scn karaktere geç çekicem'.
+[18:28:48	]Barış has unloaded their "S10:SCN-3" character.
+[18:28:52	]Barış loaded the character 'C24:i5.(X)KING-19'
+[18:29:18	]C24:RCT.YELLO-23 ran SAM command 'bring' with arguments: '19'
+[18:29:19	]C24:RCT.YELLO-23 exited observer at their location.
+[18:29:37	][LOOC] C24:RCT.YELLO-23: buraya geri geliyoduk
+[18:29:48	][LOOC] C24:RCT.YELLO-23: kalsın aga ne olcak
+[18:30:05	][LOOC] C24:RCT.YELLO-23: refuserp ban xd
+[18:30:42	]C24:RCT.YELLO-23 entered observer.
+[18:30:49	]C24:i5.(X)KING-19 was knocked unconscious and is bleeding out.
+[18:30:49	]C24:i5.(X)KING-19 has gained a '17rnd USP Magazine' #165801.
+[18:30:51	]Handschar | Leibs has connected.
+[18:30:51	]C24:RCT.YELLO-23 exited observer at their location.
+[18:30:57	]C24:RCT.YELLO-23 ran SAM command 'hp' with arguments: '19' '100'
+[18:30:57	]C24:i5.(X)KING-19 is no longer unconscious from critical wounds.
+[18:30:57	]C24:i5.(X)KING-19 is fully healed.
+[18:30:59	]C24:RCT.YELLO-23 entered observer.
+[18:31:04	]C24:RCT.YELLO-23 ran SAM command 'hp' with arguments: '19' '32'
+[18:31:11	]C24:i5.(X)KING-19 ran 'use' on item 'Bandaj Rulosu' (#165797)
+[18:31:11	]C24:i5.(X)KING-19 has performed the 'Use Bandaj Rulosu' action, gaining 15 experience in medicine.
+[18:31:11	]C24:i5.(X)KING-19's bleeding was stopped by C24:i5.(X)KING-19.
+[18:31:11	]C24:i5.(X)KING-19 was bandaged by C24:i5.(X)KING-19 for 18 HP.
+[18:31:12	]C24:RCT.YELLO-23 used command '/CharStopBleedout 19'.
+[18:31:14	]C24:RCT.YELLO-23 ran SAM command 'bring' with arguments: '19'
+[18:31:19	]C24:RCT.YELLO-23 exited observer at their location.
+[18:31:25	]Barış has unloaded their "C24:i5.(X)KING-19" character.
+[18:31:28	]Barış loaded the character 'C24:i5.(X)KING-19'
+[18:31:37	][LOOC] C24:RCT.YELLO-23: envanter düzeni bozuldu diye mi
+[18:31:44	][LOOC] C24:RCT.YELLO-23: o çok köt 
+[18:31:59	]C24:RCT.YELLO-23 entered observer.
+[18:32:01	]C24:i5.(X)KING-19 has taken 16 damage from worldspawn.
+[18:32:03	]C24:RCT.YELLO-23 exited observer at their location.
+[18:32:05	][IC] C24:RCT.YELLO-23: <:: O nasıl oldu. ::>
+[18:32:12	]C24:RCT.YELLO-23 ran SAM command 'hp' with arguments: '19' '30'
+[18:32:47	]C24:i5.(X)KING-19 has lost a '17rnd USP Magazine' #165803.
+[18:33:06	]C24:RCT.YELLO-23 entered observer.
+[18:33:16	]C24:RCT.YELLO-23 ran SAM command 'bring' with arguments: '19'
+[18:33:16	]C24:i5.(X)KING-19 has gained a '17rnd USP Magazine' #165803.
+[18:33:16	]C24:i5.(X)KING-19 was knocked unconscious and is bleeding out.
+[18:33:18	]C24:RCT.YELLO-23 exited observer at their location.
+[18:33:20	]C24:RCT.YELLO-23 ran SAM command 'hp' with arguments: '19' '100'
+[18:33:23	]C24:RCT.YELLO-23 ran SAM command 'hp' with arguments: '19' '30'
+[18:33:26	]C24:i5.(X)KING-19 used command '/CharGetUp'.
+[18:33:27	]C24:RCT.YELLO-23 used command '/CharStopBleedout 19'.
+[18:33:33	]C24:i5.(X)KING-19 used command '/CharGetUp'.
+[18:33:35	]C24:RCT.YELLO-23 used command '/PM 19 space bas'.
+[18:33:37	]C24:i5.(X)KING-19 used command '/CharGetUp'.
+[18:33:38	]Barış has unloaded their "C24:i5.(X)KING-19" character.
+[18:33:41	]Barış loaded the character 'C24:i5.(X)KING-19'
+[18:33:49	]C24:i5.(X)KING-19 ran 'Equip' on item 'CV-2000 Şok Çubuğu' (#165785)
+[18:33:49	]C24:i5.(X)KING-19 ran 'Equip' on item 'HK USP .45' (#165784)
+[18:33:50	]C24:i5.(X)KING-19 ran 'Equip' on item 'Combine PDA' (#165786)
+[18:33:52	]C24:i5.(X)KING-19 has lost a '17rnd USP Magazine' #165803.
+[18:33:55	][IC] C24:RCT.YELLO-23: <:: Yok. ::>
+[18:34:01	][LOOC] C24:RCT.YELLO-23: leib gelmezse çıkıcam
+[18:34:14	][LOOC] C24:RCT.YELLO-23: o bağlanırken gözüküyo yine
+[18:34:29	]C24:RCT.YELLO-23 has hit C24:i5.(X)KING-19 dealing 19 damage (CritChance was 0.38).
+[18:34:29	]C24:i5.(X)KING-19 has taken 19 damage from C24:RCT.YELLO-23.
+[18:34:34	]C24:i5.(X)KING-19 has hit C24:RCT.YELLO-23 in the chest dealing 12 damage (CritChance was 0.24).
+[18:34:34	]C24:RCT.YELLO-23 has taken 12 damage from C24:i5.(X)KING-19.
+[18:34:35	]C24:i5.(X)KING-19 has hit C24:RCT.YELLO-23 in the chest dealing 12 damage (CritChance was 0.24).
+[18:34:35	]C24:RCT.YELLO-23 has taken 12 damage from C24:i5.(X)KING-19.
+[18:34:35	]C24:RCT.YELLO-23 ran SAM command 'hp' with arguments: '19' '30'
+[18:34:35	]C24:RCT.YELLO-23 is fully healed.
+[18:34:41	][IC] C24:RCT.YELLO-23: <:: Yapma. ::>
+[18:34:42	][IC] C24:RCT.YELLO-23: <:: Sikerim. ::>
+[18:34:44	]C24:i5.(X)KING-19 has gained a '17rnd USP Magazine' #165803.
+[18:34:44	]C24:i5.(X)KING-19 has lost a '17rnd USP Magazine' #165801.
+[18:34:47	]C24:RCT.YELLO-23 entered observer.
+[18:34:56	]C24:i5.(X)KING-19 has gained a '17rnd USP Magazine' #165801.
+[18:34:56	]C24:i5.(X)KING-19 has lost a '17rnd USP Magazine' #165800.
+[18:34:58	]C24:i5.(X)KING-19 ran 'combine' on item '17rnd USP Magazine' (#165801)
+[18:35:02	]C24:i5.(X)KING-19 ran 'combine' on item '17rnd USP Magazine' (#165802)
+[18:35:03	]C24:RCT.YELLO-23 exited observer at their location.
+[18:35:12	][LOOC] C24:RCT.YELLO-23: ben çıkıyom aga acil işim var
+[18:35:23	][LOOC] C24:RCT.YELLO-23: YA SİKECEM GELMİYO
+[18:35:43	][LOOC] C24:RCT.YELLO-23: ya yok rol yapasım yok amk
+[18:35:52	]C24:RCT.YELLO-23 entered observer.
+[18:36:07	]C24:RCT.YELLO-23 used command '/Achievement 19 The last friend...'.
+[18:36:14	]C24:RCT.YELLO-23 exited observer at their location.
+[18:36:34	]C24:RCT.YELLO-23 entered observer.
+[18:36:37	]C24:RCT.YELLO-23 exited observer at their location.
+[18:36:53	]C24:RCT.YELLO-23 entered observer.
+[18:36:56	]Revain (STEAM_0:1:608254786) has disconnected.
+[18:46:41	]C24:i5.(X)KING-19 has gone afk.
+[18:51:22	]Handschar | Leibs loaded the character 'C24:i3.KING-20'
+[18:51:26	]C24:i3.KING-20 is fully healed.
+[18:51:30	]C24:i3.KING-20 used command '/Radio 10-8'.
+[18:51:32	]C24:i3.KING-20 entered observer.
+[18:51:36	]C24:i3.KING-20 exited observer at their location.
+[18:51:53	]C24:i3.KING-20 entered observer.
+[18:51:53	]C24:i3.KING-20 exited observer at their location.
+[18:52:11	][IC] C24:i3.KING-20: <:: 19. ::>
+[18:52:16	]C24:i5.(X)KING-19 is no longer afk. Total time spent AFK: 630
+[18:52:41	]C24:i3.KING-20 entered observer.
+[18:53:07	]C24:i3.KING-20 exited observer at their location.
+[18:53:08	]C24:i3.KING-20 entered observer.
+[18:53:23	]C24:i3.KING-20 exited observer at their location.
+[18:53:24	]C24:i3.KING-20 entered observer.
+[18:53:24	]C24:i3.KING-20 exited observer at their location.
+[18:53:44	]C24:i3.KING-20 entered observer.
+[18:53:53	]C24:i3.KING-20 exited observer at their location.
+[18:55:22	]C24:i3.KING-20 entered observer.
+[18:55:37	]C24:i3.KING-20 exited observer at their location.
+[18:55:50	]C24:i5.(X)KING-19 used command '/CP sa'.
+[18:55:53	]C24:i3.KING-20 entered observer.
+[18:55:55	]C24:i3.KING-20 used command '/CP as'.
+[18:56:05	]C24:i5.(X)KING-19 used command '/CP bakkaldaydımda amk revo çıktı'.
+[18:56:09	]C24:i5.(X)KING-19 used command '/CP sen gelmeyince'.
+[18:56:14	]C24:i5.(X)KING-19 used command '/CP sen gelmeyince'.
+[18:56:16	]C24:i5.(X)KING-19 used command '/CP sen gelmeyince'.
+[18:56:16	]C24:i3.KING-20 used command '/CP tamam çağır gelsin'.
+[18:56:18	]C24:i3.KING-20 exited observer at their location.
+[18:56:23	]C24:i3.KING-20 used command '/CP yemekteydim elimden birşey gelemz'.
+[18:56:25	]C24:i3.KING-20 entered observer.
+[18:56:52	]C24:i3.KING-20 exited observer at their location.
+[18:56:53	]C24:i3.KING-20 entered observer.
+[18:57:14	]C24:i5.(X)KING-19 ran 'combine' on item '17rnd USP Magazine' (#165803)
+[18:57:36	]C24:i5.(X)KING-19 used command '/CP bekliyom mesajı'.
+[18:57:42	]C24:i3.KING-20 exited observer at their location.
+[18:58:24	]C24:i3.KING-20 used command '/ToggleRaise'.
+[18:58:30	]C24:i3.KING-20 used command '/ToggleRaise'.
+[18:58:53	]C24:i3.KING-20 entered observer.
+[18:59:35	]C24:i5.(X)KING-19 used command '/CP ee şimdi'.
+[18:59:36	]C24:i3.KING-20 exited observer at their location.
+[18:59:39	]C24:i3.KING-20 used command '/CP ha?'.
+[18:59:40	]C24:i3.KING-20 entered observer.
+[18:59:40	]C24:i3.KING-20 exited observer at their location.
+[18:59:48	]C24:i5.(X)KING-19 used command '/CP revo yok amk rol takıldı yine'.
+[18:59:58	][IC] C24:i3.KING-20: <:: Naber. ::>
+[19:00:08	][IC] C24:i5.(X)KING-19: <:: Daha belli değil. ::>
+[19:00:15	][IC] C24:i3.KING-20: <:: Ne belli değil? ::>
+[19:00:27	][LOOC] C24:i5.(X)KING-19: nasıl olduğum işte
+[19:00:32	][IC] C24:i5.(X)KING-19: <:: Boşver, iyiyim. ::>
+[19:00:34	][IC] C24:i5.(X)KING-19: <:: Sen nasılsın? ::>
+[19:00:42	][IC] C24:i3.KING-20: <:: Ayaklarım beni öldürüyor. ::>
+[19:00:46	][IC] C24:i5.(X)KING-19: <:: Neden? ::>
+[19:00:49	][IC] C24:i3.KING-20: <:: Senin kadar kötüyüm diyebilirim. ::>
+[19:00:56	][IC] C24:i3.KING-20: <:: Sen gelmediğin süreç boyunca hayvan gibi çalıştım. ::>
+[19:01:10	][IC] C24:i3.KING-20: <:: Eve gitmeye fırsat bile bulamadım. ::>
+[19:01:22	][IC] C24:i5.(X)KING-19: <:: Anladım. ::>
+[19:01:29	][IC] C24:i3.KING-20: <:: Aynen. ::>
+[19:01:55	][IC] C24:i5.(X)KING-19: <:: Bu kadar sanırım sohbet. ::>
+[19:02:13	][IC] C24:i3.KING-20: <:: Ne yapacaksın diye soracaktım. ::>
+[19:02:14	][IC] C24:i3.KING-20: <:: Ayrıca. ::>
+[19:02:17	][IC] C24:i3.KING-20: <:: Kafamda çok soru var. ::>
+[19:02:21	][IC] C24:i3.KING-20: <:: Seni darlamak istemiyorum. ::>
+[19:02:38	][IC] C24:i5.(X)KING-19: <:: Soru ne? ::>
+[19:02:48	][IC] C24:i3.KING-20: <:: Neden bu kadar süre aktifsizdin. ::>
+[19:02:58	][IC] C24:i3.KING-20: <:: Neden hiçbirşey olmamış gibi göreve devam ediyorsun? ::>
+[19:03:03	][IC] C24:i3.KING-20: <:: Neden kendini önemsemiyorsun? ::>
+[19:03:13	][IC] C24:i5.(X)KING-19: <:: Yoruldum. ::>
+[19:03:30	][IC] C24:i3.KING-20: <:: Yoruldun.. ::>
+[19:03:30	][IC] C24:i3.KING-20: <:: Hmph. ::>
+[19:03:35	][IC] C24:i3.KING-20: <:: Anlaşıldı. ::>
+[19:04:28	]C24:i3.KING-20 entered observer.
+[19:04:33	]C24:i3.KING-20 exited observer at their location.
+[19:04:44	]C24:i3.KING-20 used command '/ActSitWall'.
+[19:04:45	]C24:i3.KING-20 used command '/ActSitWall'.
+[19:04:46	]C24:i3.KING-20 used command '/ActSitWall'.
+[19:04:50	]C24:i3.KING-20 entered observer.
+[19:04:50	]C24:i3.KING-20 exited observer at their location.
+[19:04:51	]C24:i3.KING-20 entered observer.
+[19:04:53	]C24:i3.KING-20 exited observer at their location.
+[19:05:06	]C24:i3.KING-20 entered observer.
+[19:05:09	]C24:i3.KING-20 exited observer at their location.
+[19:05:10	]C24:i3.KING-20 used command '/ExitAct'.
+[19:05:13	]C24:i3.KING-20 used command '/ActSitWall'.
+[19:05:14	]C24:i3.KING-20 used command '/ExitAct'.
+[19:05:16	]C24:i3.KING-20 used command '/ActSitWall'.
+[19:05:20	]C24:i3.KING-20 used command '/ExitAct'.
+[19:05:22	]C24:i3.KING-20 used command '/ActSitWall'.
+[19:05:33	]C24:i3.KING-20 entered observer.
+[19:05:33	]C24:i3.KING-20 exited observer at their location.
+[19:05:33	]C24:i3.KING-20 entered observer.
+[19:05:34	]C24:i3.KING-20 exited observer at their location.
+[19:05:58	]C24:i3.KING-20 used command '/ExitAct'.
+[19:06:00	]C24:i3.KING-20 entered observer.
+[19:06:00	]C24:i3.KING-20 exited observer at their location.
+[19:06:01	]C24:i3.KING-20 entered observer.
+[19:06:09	]C24:i3.KING-20 exited observer at their location.
+[19:06:25	]C24:i3.KING-20 entered observer.
+[19:06:26	]C24:i3.KING-20 exited observer at their location.
+[19:06:27	]C24:i3.KING-20 entered observer.
+[19:06:46	]C24:i3.KING-20 exited observer at their location.
+[19:06:47	]C24:i3.KING-20 used command '/Radio 19'.
+[19:06:54	]C24:i3.KING-20 used command '/Radio 10-20 RDM 10-76'.
+[19:06:55	]C24:i5.(X)KING-19 used command '/Radio Evet?'.
+[19:07:00	]C24:i5.(X)KING-19 used command '/Radio 10-6'.
+[19:07:06	]C24:i3.KING-20 used command '/Radio 10-20 belirt'.
+[19:07:07	]C24:i3.KING-20 entered observer.
+[19:07:08	]C24:i3.KING-20 exited observer at their location.
+[19:07:23	]C24:i5.(X)KING-19 used command '/Radio Köprü.'.
+[19:07:51	][IC] C24:i3.KING-20: <:: Burada ne yapıyorsun. ::>
+[19:07:56	][IC] C24:i5.(X)KING-19: <:: Hava alıyorum. ::>
+[19:08:06	][IC] C24:i3.KING-20: <:: Hmph. ::>
+[19:08:09	][IC] C24:i3.KING-20: <:: Garip. ::>
+[19:08:55	][ME] C24:i5.(X)KING-19: Derin bir iç çeker ve aşşağıya doğru kafasını uzatıp yüksekliği ölçer.
+[19:09:42	][IC] C24:i5.(X)KING-19: <:: Belkide. ::>
+[19:09:47	][IC] C24:i5.(X)KING-19: <:: Artık yeter. ::>
+[19:10:06	][IC] C24:i3.KING-20: <:: Ne demeye çalışıyorsun? ::>
+[19:10:18	][ME] C24:i3.KING-20: sağ elini o fark etmeyecek derecede geriye çeker
+[19:10:39	][IC] C24:i5.(X)KING-19: <:: Puff. ::>
+[19:10:43	][IC] C24:i3.KING-20: <:: Hmph. ? ::>
+[19:11:00	][IC] C24:i5.(X)KING-19: <:: Sen neden buradasın? ::>
+[19:11:07	][IC] C24:i3.KING-20: <:: Senin için buradayım. ::>
+[19:11:17	][IC] C24:i5.(X)KING-19: <:: Nedenki bir şey yapmıyorum. ::>
+[19:11:24	][IC] C24:i3.KING-20: <:: Kendi isteğim. ::>
+[19:11:27	][IC] C24:i3.KING-20: <:: Durmak istiyorum. ::>
+[19:11:41	][IC] C24:i3.KING-20: <:: Bak 19. ::>
+[19:11:51	][IC] C24:i3.KING-20: <:: Intihar edeceksen, burada etme. ::>
+[19:11:54	][IC] C24:i3.KING-20: <:: Ben sana etme diyemem. ::>
+[19:11:59	][IC] C24:i3.KING-20: <:: Elimden brşey gelmez. ::>
+[19:12:07	][IC] C24:i3.KING-20: <:: Unutma. ::>
+[19:12:14	][IC] C24:i3.KING-20: <:: Sivil korumalar profesyonel olarak gözükmek zorunda. ::>
+[19:12:23	][IC] C24:i3.KING-20: <:: En azından üst kadrolar öyle istiyor. ::>
+[19:12:30	][IC] C24:i3.KING-20: <:: Şunu da unutma. ::>
+[19:12:40	][IC] C24:i3.KING-20: <:: Eğerki intihar edeceksen, beni hiçe saymışsın demektir. ::>
+[19:12:52	]C24:i5.(X)KING-19 used command '/ActStand 4'.
+[19:12:54	]C24:i5.(X)KING-19 used command '/ExitAct'.
+[19:12:55	]C24:i5.(X)KING-19 used command '/ActStand 3'.
+[19:12:56	]C24:i3.KING-20 entered observer.
+[19:13:16	]C24:i5.(X)KING-19 used command '/Radio *Telsiz cızırtısı.*'.
+[19:13:22	]C24:i3.KING-20 used command '/Radio 19;?'.
+[19:13:27	]C24:i3.KING-20 exited observer at their location.
+[19:13:40	][IC] C24:i3.KING-20: <:: Telsizin cızırdıyor. ::>
+[19:13:42	][IC] C24:i5.(X)KING-19: <:: Telsizimi kapadım. ::>
+[19:13:50	][IC] C24:i3.KING-20: <:: Aç 19. ::>
+[19:13:53	][IC] C24:i3.KING-20: <:: Ceza alırsın. ::>
+[19:14:00	][IC] C24:i5.(X)KING-19: <:: Sonra açacağım. ::>
+[19:14:08	][IC] C24:i3.KING-20: <:: Dispatch görüyor bunları 19. ::>
+[19:14:10	][IC] C24:i3.KING-20: <:: Acil aç. ::>
+[19:14:11	][IC] C24:i3.KING-20: <:: Emirdir. ::>
+[19:14:12	][IC] C24:i3.KING-20: <:: Şimdi. ::>
+[19:14:13	][IC] C24:i5.(X)KING-19: <:: Biliyorum. ::>
+[19:14:22	][IC] C24:i5.(X)KING-19: <:: Şuan açamam, sonra açıcam. ::>
+[19:14:58	]C24:i5.(X)KING-19 used command '/CP bekle şimdi senin piskolojini bozucam [karakterinin'.
+[19:15:01	]Barış has unloaded their "C24:i5.(X)KING-19" character.
+[19:15:04	]Barış loaded the character 'S10:SCN-3'
+[19:15:13	]C24:i3.KING-20 entered observer.
+[19:15:15	]C24:i3.KING-20 exited observer at their location.
+[19:15:21	]C24:i3.KING-20 entered observer.
+[19:15:26	]C24:i3.KING-20 exited observer at their location.
+[19:15:39	]S10:SCN-3 used command '/Radio 20; 19 ; Kodlu sivil korumayı telsizini uzun süre kapalı tuttuğu için rehabilite et.'.
+[19:15:43	]C24:i3.KING-20 entered observer.
+[19:15:43	]Barış has unloaded their "S10:SCN-3" character.
+[19:15:44	]C24:i3.KING-20 exited observer at their location.
+[19:15:46	]Barış loaded the character 'C24:i5.(X)KING-19'
+[19:15:53	]C24:i3.KING-20 used command '/Radio rodger that'.
+[19:15:54	]C24:i5.(X)KING-19 used command '/ActStand 3'.
+[19:15:55	]C24:i3.KING-20 used command '/Radio 10-2'.
+[19:16:02	]C24:i3.KING-20 used command '/Radio kendisi 10-7B nedeniyle kapattı'.
+[19:16:12	]C24:i5.(X)KING-19 used command '/ExitAct'.
+[19:16:16	]C24:i3.KING-20 used command '/Radio ancak yine de ederim'.
+[19:16:20	][IC] C24:i3.KING-20: <:: +v. ::>
+[19:16:20	]C24:i5.(X)KING-19 used command '/ActSit'.
+[19:16:21	]C24:i3.KING-20 entered observer.
+[19:16:21	]C24:i5.(X)KING-19 used command '/ExitAct'.
+[19:16:25	]C24:i5.(X)KING-19 used command '/ActStand 3'.
+[19:16:26	]C24:i5.(X)KING-19 used command '/ExitAct'.
+[19:16:27	]C24:i3.KING-20 exited observer at their location.
+[19:16:28	]C24:i5.(X)KING-19 used command '/ActStand 3'.
+[19:17:03	][IC] C24:i3.KING-20: <:: Rehabilite edileceksin. ::>
+[19:17:05	][IC] C24:i3.KING-20: <:: Seni uyarmıştım. ::>
+[19:17:07	][IC] C24:i3.KING-20: <:: Yürü! ::>
+[19:17:11	]C24:i5.(X)KING-19 used command '/ExitAct'.
+[19:17:14	][LOOC] C24:i5.(X)KING-19: fuck
+[19:17:18	]C24:i3.KING-20 ran SAM command 'bring' with arguments: '19'
+[19:17:20	]C24:i3.KING-20 ran SAM command 'bring' with arguments: '19'
+[19:17:23	]C24:i3.KING-20 ran SAM command 'bring' with arguments: '19'
+[19:17:28	][IC] C24:i3.KING-20: <:: İlerle! ::>
+[19:17:56	][IC] C24:i3.KING-20: <:: Şansını zorluyorsun 19. ::>
+[19:18:00	][IC] C24:i3.KING-20: <:: Daha ihtarın bile kalkmadı. ::>
+[19:18:08	][IC] C24:i3.KING-20: <:: Senin için elimden geleni yapmaya çalışıyorum. ::>
+[19:18:11	][IC] C24:i3.KING-20: <:: Ancak daha fazla dayanamam. ::>
+[19:18:16	][IC] C24:i3.KING-20: <:: Yoksa ben yanacağım. ::>
+[19:18:42	][ME] C24:i5.(X)KING-19: Kıkırdar fark edilmeyecek şekilde.
+[19:18:56	][LOOC] C24:i3.KING-20: deneyecem
+[19:19:10	][ME] C24:i3.KING-20: sürekli 19 u izlediği için, hal ve hareketlerini kontrol etmeye çalışıyor
+[19:19:13	]C24:i3.KING-20 rolled 17 out of 20 (+3 from Zeka).
+[19:19:13	]C24:i3.KING-20 used command '/Roll intelligence'.
+[19:19:24	][IT] C24:i3.KING-20: fark etti mi
+[19:19:30	][IT] C24:i5.(X)KING-19: Etti
+[19:19:34	][IC] C24:i3.KING-20: <:: Neye gülüyorsun. ::>
+[19:19:35	][IC] C24:i3.KING-20: <:: 19. ::>
+[19:19:38	][IC] C24:i3.KING-20: <:: Bu oyun değil. ::>
+[19:19:40	][IC] C24:i5.(X)KING-19: <:: Bir şey yok. ::>
+[19:19:42	][IC] C24:i3.KING-20: <:: Hayatın söz konusu. ::>
+[19:19:49	][IC] C24:i3.KING-20: <:: O zaman neden gülüyorsun? ::>
+[19:19:57	][IC] C24:i5.(X)KING-19: <:: Bilmiyorum. ::>
+[19:20:09	][IC] C24:i3.KING-20: <:: Seni düşünmekten bıktım 19. ::>
+[19:20:13	][IC] C24:i3.KING-20: <:: Her daim arkanı toparlamaktan. ::>
+[19:20:17	][IC] C24:i3.KING-20: <:: Hareketlerini düzeltmeye çalışmaktan. ::>
+[19:20:19	][IC] C24:i3.KING-20: <:: Bıktım. ::>
+[19:20:21	][IC] C24:i3.KING-20: <:: İlerle! ::>
+[19:21:21	][IC] C24:i3.KING-20: <:: Duvara. ::>
+[19:21:33	][IC] C24:i3.KING-20: <:: Arkanı dön. ::>
+[19:21:35	][IC] C24:i3.KING-20: <:: Eller yukarı. ::>
+[19:21:41	]C24:i5.(X)KING-19 used command '/ActArrest 3'.
+[19:21:45	]C24:i3.KING-20 used command '/ToggleRaise'.
+[19:21:56	][IC] C24:i3.KING-20: <:: Beni çok zorluyorsun 19.. ::>
+[19:22:05	][ME] C24:i3.KING-20: kişinin sırtına normal derecede vuruş sağlıyor
+[19:22:05	]C24:i3.KING-20 has hit C24:i5.(X)KING-19 dealing 19 damage (CritChance was 0.40).
+[19:22:05	]C24:i5.(X)KING-19 has taken 19 damage from C24:i3.KING-20.
+[19:22:10	][ME] C24:i5.(X)KING-19: Çok tepkisiz bekliyor.
+[19:22:14	][ME] C24:i3.KING-20: bacağına tekme atıyor
+[19:22:20	]C24:i3.KING-20 rolled 12 out of 20 (+5 from Güç).
+[19:22:20	]C24:i3.KING-20 used command '/Roll strength'.
+[19:22:24	][IT] C24:i3.KING-20: kişi yere düştü
+[19:22:24	][ME] C24:i5.(X)KING-19: Dengesini kaybedip yere düştü
+[19:22:25	]C24:i5.(X)KING-19 used command '/ExitAct'.
+[19:22:29	]C24:i5.(X)KING-19 used command '/ActArrest 2'.
+[19:22:42	][ME] C24:i3.KING-20: sırtına bir daha jopla vuruyor
+[19:22:45	]C24:i3.KING-20 has hit C24:i5.(X)KING-19 dealing 19 damage (CritChance was 0.40).
+[19:22:45	]C24:i5.(X)KING-19 has taken 19 damage from C24:i3.KING-20.
+[19:22:50	][IC] C24:i3.KING-20: <:: Ayağa kalk. ::>
+[19:22:56	][ME] C24:i5.(X)KING-19: Ayağı kalkmayı dener.
+[19:22:59	]C24:i5.(X)KING-19 used command '/ExitAct'.
+[19:23:32	][LOOC] C24:i5.(X)KING-19: la rehabilite et dedik violation gir demedik fdöçgfdög
+[19:23:45	][LOOC] C24:i3.KING-20: bişeye bakıyıor
+[19:24:08	][IC] C24:i3.KING-20: <:: 19. ::>
+[19:24:18	][IC] C24:i3.KING-20: <:: Ahh.. Neyse. ::>
+[19:24:22	][IC] C24:i3.KING-20: <:: Gidebilirsin. ::>
+[19:24:29	]C24:i3.KING-20 entered observer.
+[19:24:36	][ME] C24:i5.(X)KING-19: Yürürken zorlanır ve topallar
+[19:24:47	]C24:i5.(X)KING-19 used command '/CP fukara rolü geliyor'.
+[19:24:49	]C24:i3.KING-20 exited observer at their location.
+[19:24:51	]C24:i3.KING-20 used command '/Radio 10-7'.
+[19:24:55	]Handschar | Leibs (STEAM_0:1:549390708) has disconnected.
+[19:24:56	][ME] C24:i5.(X)KING-19: Dengesini kaybedip yere düştü
+[19:25:07	]Barış (STEAM_0:0:195372324) has disconnected.
+[20:51:05	][]RUFUS[] has connected.
+[20:51:21	][AltChecker] []RUFUS[] joined for the first time, generating new cookie.
+[20:51:55	][]RUFUS[] (STEAM_0:1:520425494) has disconnected.

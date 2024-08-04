@@ -1,0 +1,21 @@
+{
+	"weather_damage": "false",
+	"maplight_auto": "false",
+	"wgen_Rain": "I{030012000360120003",
+	"auto_weather": "false",
+	"windmove_props_unfreeze": "false",
+	"maplight_max": "90",
+	"enable_svfog": "false",
+	"maplight_min": "40",
+	"day_length": "24",
+	"max_wind": "0",
+	"windmove_players": "false",
+	"windmove_props_break": "false",
+	"addnight_temp": "-1",
+	"maplight_lightenv": "true",
+	"sunset": "1140",
+	"windmove_props_unweld": "false",
+	"min_temp": "-2",
+	"wgen_Fog": "0?036005600180036000",
+	"hide_forecast": "true"
+}

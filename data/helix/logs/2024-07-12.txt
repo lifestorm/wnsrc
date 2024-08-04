@@ -1,0 +1,535 @@
+[15:28:37	]İlkokul Kundakçısı has connected.
+[15:32:18	]İlkokul Kundakçısı loaded the character 'Bquits'
+[15:32:23	]Bquits is fully healed.
+[15:32:29	]Bquits entered observer.
+[15:33:46	]Bquits exited observer at their location.
+[15:33:49	]Bquits entered observer.
+[15:33:59	]Bquits exited observer at their location.
+[15:33:59	]Bquits entered observer.
+[15:34:01	]Bquits exited observer at their location.
+[15:34:04	]Bquits has spawned 'models/props_c17/gate_door01a.mdl'.
+[15:34:10	]Bquits has spawned 'models/props_building_details/courtyard_template001c_bars.mdl'.
+[15:34:15	]Bquits has spawned 'models/props_building_details/courtyard_template002c_bars.mdl'.
+[15:34:22	]Bquits has fired a toolgun with the name: stacker_improved
+[15:34:22	]Bquits has spawned 'models/props_building_details/courtyard_template002c_bars.mdl'.
+[15:34:37	]Bquits has fired a toolgun with the name: stacker_improved
+[15:34:38	]Bquits has fired a toolgun with the name: stacker_improved
+[15:34:38	]Bquits has spawned 'models/props_building_details/courtyard_template002c_bars.mdl'.
+[15:34:42	]Bquits has enabled persistence for 'models/props_building_details/courtyard_template002c_bars.mdl'.
+[15:34:42	]Bquits has used a context menu option with the name: persist
+[15:34:43	]Bquits has enabled persistence for 'models/props_building_details/courtyard_template002c_bars.mdl'.
+[15:34:43	]Bquits has used a context menu option with the name: persist
+[15:34:48	]Bquits entered observer.
+[15:35:32	]Bquits exited observer at their location.
+[15:35:41	]Bquits entered observer.
+[15:37:55	]Bquits has spawned 'models/props_canal/canal_bars001.mdl'.
+[15:37:57	]Bquits has spawned 'models/props_canal/canal_bars001.mdl'.
+[15:37:59	]Bquits has spawned 'models/props_building_details/storefront_template001a_bars.mdl'.
+[15:38:10	]Bquits exited observer at their location.
+[15:38:13	]Bquits entered observer.
+[15:38:22	]Bquits has used a context menu option with the name: remove
+[15:38:46	]Beyin.Dll has connected.
+[15:40:42	]Beyin.Dll loaded the character 'John Brookly'
+[15:40:47	]John Brookly is fully healed.
+[15:40:47	]John Brookly entered observer.
+[15:41:06	]John Brookly has spawned 'models/props_combine/breendesk.mdl'.
+[15:41:43	]John Brookly created a 'Ahşap Masa' container.
+[15:41:43	]John Brookly has used a context menu option with the name: wncontainer_create
+[15:41:45	]John Brookly opened the 'Ahşap Masa' #12001 container.
+[15:41:46	]John Brookly closed the 'Ahşap Masa' #12001 container.
+[15:41:55	]John Brookly opened the 'Dropped Items' #11985 container.
+[15:41:57	]John Brookly closed the 'Dropped Items' #11985 container.
+[15:42:00	]John Brookly opened the 'Dropped Items' #11985 container.
+[15:42:01	]John Brookly closed the 'Dropped Items' #11985 container.
+[15:42:05	]John Brookly has used a context menu option with the name: remove
+[15:42:10	]John Brookly has used a context menu option with the name: ixpropviewowner
+[15:42:36	]John Brookly has used a context menu option with the name: ixpropviewowner
+[15:42:52	]Bquits has spawned 'models/props_canal/canal_bars002b.mdl'.
+[15:43:18	]Bquits has used a context menu option with the name: remove
+[15:43:19	]Container 'unknown' removed (inv #0; model: error) with 0 chips and items:  Kahve (#168214); Headcrab Sandviç (#168226); Headcrab Sandviç (#168228); Headcrab Sandviç (#168230); Headcrab Sandviç (#168232); Headcrab Sandviç (#168236); Kahve (#168207); Kahve (#168209); Kahve (#168211); Kahve (#168213); Kahve (#168215); Headcrab Sandviç (#168227); Headcrab Sandviç (#168229); Headcrab Sandviç (#168231); Headcrab Sandviç (#168233); Headcrab Sandviç (#168235); Kahve (#168206); Kahve (#168208); Kahve (#168210); Kahve (#168212);
+[15:43:21	]Bquits used command '/TextRemove'.
+[15:43:28	]Bquits has used a context menu option with the name: remove
+[15:43:28	]John Brookly used command '/SceneTextRemove'.
+[15:43:29	]Container 'unknown' removed (inv #0; model: error) with 0 chips and items:  Sigara (#168053); Sigara (#167991); Headcrab Sandviç (#168061); Sigara (#167999); Sigara (#168038); Sigara (#168007); Kahve (#168077); Sigara (#167984); Plastik Çakmak (#167953); Sigara (#168054); Sigara (#167992); Plastik Çakmak (#167961); Kahve (#168107); Sigara (#168000); Sigara (#167969); Plastik Çakmak (#167966); Headcrab Sandviç (#168070); Sigara (#168008); Sigara (#167977); Sigara (#167968); Kahve (#168078); Sigara (#168016); Plastik Çakmak (#167954); Sigara (#168033); Kahve (#168117); Sigara (#168055); Sigara (#167993); Sigara (#168031); Sigara (#168035); Headcrab Sandviç (#168063); Sigara (#168001); Sigara (#168032); Benefactor Edition Sigara Paketi (#168021); Sigara (#168040); Sigara (#167978); Sigara (#168037); Benefactor Edition Sigara Paketi (#168030); Kahve (#168079); Sigara (#167986); Plastik Çakmak (#167955); Headcrab Sandviç (#168071); Sigara (#168056); Benefactor Edition Sigara Paketi (#167994); Sigara (#167980); Sigara (#168024); Sigara (#168028); Sigara (#168002); Sigara (#167971); Sigara (#168025); Headcrab Sandviç (#168072); Sigara (#168010); Sigara (#167979); Sigara (#168029); Sigara (#168027); Sigara (#168018); Sigara (#167987); Sigara (#168026); Sigara (#168023); Headcrab Sandviç (#168057); Sigara (#167995); Sigara (#168022); Kahve (#168127); Sigara (#168034); Benefactor Edition Sigara Paketi (#168003); Plastik Çakmak (#167960); Sigara (#168042); Headcrab Sandviç (#168073); Sigara (#168011); Sigara (#168046); Sigara (#168047); Sigara (#168050); Sigara (#167988); Plastik Çakmak (#167957); Sigara (#168045); Headcrab Sandviç (#168058); Sigara (#167996); Sigara (#168044); Sigara (#168041); Sigara (#168043); Sigara (#168004); Sigara (#167973); Benefactor Edition Sigara Paketi (#168039); Kahve (#168074); Benefactor Edition Sigara Paketi (#168012); Sigara (#167981); Sigara (#167974); Sigara (#168051); Sigara (#168020); Sigara (#167989); Sigara (#168049); Plastik Çakmak (#167958); Headcrab Sandviç (#168059); Sigara (#167997); Benefactor Edition Sigara Paketi (#168048); Sigara (#167972); Sigara (#168036); Sigara (#168005); Sigara (#167970); Kahve (#168137); Kahve (#168075); Sigara (#167982); Plastik Çakmak (#167956); Benefactor Edition Sigara Paketi (#167985); Sigara (#168052); Sigara (#167990); Plastik Çakmak (#167959); Sigara (#168013); Headcrab Sandviç (#168060); Sigara (#167998); Benefactor Edition Sigara Paketi (#167967); Sigara (#168017); Benefactor Edition Sigara Paketi (#167976); Sigara (#168006); Sigara (#167975); Sigara (#168009); Kahve (#168076); Sigara (#168014); Sigara (#167983); Sigara (#168019); Sigara (#168015);
+[15:43:29	]Bquits used command '/TextRemove'.
+[15:45:31	]John Brookly opened the 'Çöp Konteyneri' #11938 container.
+[15:45:32	]John Brookly closed the 'Çöp Konteyneri' #11938 container.
+[15:45:32	]John Brookly opened the 'Çöp Konteyneri' #11939 container.
+[15:45:34	]John Brookly closed the 'Çöp Konteyneri' #11939 container.
+[15:45:34	]John Brookly opened the 'Çöp Konteyneri' #11940 container.
+[15:45:35	]John Brookly closed the 'Çöp Konteyneri' #11940 container.
+[15:45:36	]John Brookly opened the 'Çöp Konteyneri' #11941 container.
+[15:45:37	]John Brookly closed the 'Çöp Konteyneri' #11941 container.
+[15:45:53	]John Brookly exited observer at their location.
+[15:45:53	]John Brookly entered observer.
+[15:45:54	]John Brookly exited observer at their location.
+[15:45:54	]John Brookly entered observer.
+[15:46:01	]John Brookly used command '/PanelRemove'.
+[15:46:03	]John Brookly used command '/PanelRemove'.
+[15:46:04	]John Brookly used command '/PanelRemove'.
+[15:46:08	]Bquits exited observer at their location.
+[15:46:08	]Bquits entered observer.
+[15:46:10	]John Brookly has used a context menu option with the name: remove
+[15:46:10	]Bquits exited observer at their location.
+[15:46:10	]Bquits entered observer.
+[15:46:10	]Bquits exited observer at their location.
+[15:46:11	]Bquits entered observer.
+[15:46:12	]Bquits exited observer at their location.
+[15:46:13	]Bquits entered observer.
+[15:46:32	]Bquits exited observer at their location.
+[15:46:33	]Bquits entered observer.
+[15:46:33	]Bquits exited observer at their location.
+[15:46:38	]John Brookly ran SAM command 'goto' with arguments: 'bqu'
+[15:46:42	]Bquits entered observer.
+[15:46:45	]John Brookly exited observer at their location.
+[15:46:45	]John Brookly entered observer.
+[15:46:46	]John Brookly exited observer at their location.
+[15:46:46	]Bquits exited observer at their location.
+[15:46:46	]John Brookly entered observer.
+[15:46:47	]Bquits entered observer.
+[15:46:48	]Bquits exited observer at their location.
+[15:46:49	]Bquits entered observer.
+[15:46:49	]Bquits exited observer at their location.
+[15:46:51	]John Brookly exited observer at their location.
+[15:46:52	]Bquits has spawned 'models/props_building_details/courtyard_template002c_bars.mdl'.
+[15:46:52	]John Brookly entered observer.
+[15:46:52	]John Brookly exited observer at their location.
+[15:46:55	]John Brookly entered observer.
+[15:46:58	]Bquits has spawned 'models/props_c17/fence03a.mdl'.
+[15:47:03	]Bquits has spawned 'models/props_c17/fence03a.mdl'.
+[15:47:05	]Bquits has enabled persistence for 'models/props_c17/fence03a.mdl'.
+[15:47:05	]Bquits has used a context menu option with the name: persist
+[15:47:09	]Bquits has spawned 'models/props_c17/shelfunit01a.mdl'.
+[15:47:10	]Bquits has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[15:47:10	]John Brookly has turned a ration dispenser on.
+[15:47:15	]Bquits has used a context menu option with the name: clientprop
+[15:47:18	]Bquits has spawned 'models/props_interiors/pot01a.mdl'.
+[15:47:19	]Bquits has spawned 'models/props_interiors/BathTub01a.mdl'.
+[15:47:26	]Bquits has used a context menu option with the name: clientprop
+[15:47:28	]John Brookly has turned a ration dispenser off.
+[15:47:30	]Bquits has spawned 'models/props_c17/utilitypole03a.mdl'.
+[15:47:35	]Bquits has spawned 'models/props_combine/headcrabcannister01a.mdl'.
+[15:47:40	]Bquits has spawned 'models/props_interiors/ElevatorShaft_Door01a.mdl'.
+[15:47:45	]Bquits has used a context menu option with the name: clientprop
+[15:47:52	]Bquits has spawned 'models/props_c17/door01_left.mdl'.
+[15:48:00	]Bquits has used a context menu option with the name: clientprop
+[15:48:11	]Bquits has spawned 'models/props_interiors/refrigeratorDoor02a.mdl'.
+[15:48:12	]Bquits has spawned 'models/props_interiors/refrigeratorDoor01a.mdl'.
+[15:48:16	]John Brookly opened the 'Kutu' #11926 container.
+[15:48:17	]John Brookly closed the 'Kutu' #11926 container.
+[15:48:25	]Bquits has used a context menu option with the name: clientprop
+[15:48:26	]Bquits has used a context menu option with the name: clientprop
+[15:48:28	]Bquits entered observer.
+[15:48:28	]John Brookly has given himself a doblock.
+[15:48:28	]John Brookly has gained a 'DOB Lock' #168693.
+[15:48:29	]John Brookly has given himself a doblock.
+[15:48:29	]John Brookly has gained a 'DOB Lock' #168694.
+[15:48:30	]John Brookly has given himself a doblock.
+[15:48:30	]John Brookly has gained a 'DOB Lock' #168695.
+[15:48:31	]John Brookly has given himself a doblock.
+[15:48:31	]John Brookly has gained a 'DOB Lock' #168696.
+[15:48:33	]John Brookly has given himself a doblock.
+[15:48:33	]John Brookly has gained a 'DOB Lock' #168697.
+[15:48:37	]John Brookly ran 'Place' on item 'DOB Lock' (#168696)
+[15:48:40	]John Brookly ran 'Place' on item 'DOB Lock' (#168695)
+[15:48:45	]John Brookly ran 'Place' on item 'DOB Lock' (#168697)
+[15:48:50	]John Brookly ran 'Place' on item 'DOB Lock' (#168695)
+[15:48:52	]John Brookly ran 'Place' on item 'DOB Lock' (#168693)
+[15:49:11	]John Brookly has given himself a doblock.
+[15:49:11	]John Brookly has gained a 'DOB Lock' #168698.
+[15:49:16	]John Brookly ran 'Place' on item 'DOB Lock' (#168698)
+[15:49:18	]Bquits has spawned 'models/props_c17/gate_door02a.mdl'.
+[15:49:18	]John Brookly ran 'Place' on item 'DOB Lock' (#168694)
+[15:49:19	]Bquits has spawned 'models/props_wasteland/prison_celldoor001b.mdl'.
+[15:49:22	]John Brookly has given himself a doblock.
+[15:49:22	]John Brookly has gained a 'DOB Lock' #168699.
+[15:49:22	]John Brookly has given himself a doblock.
+[15:49:22	]John Brookly has gained a 'DOB Lock' #168700.
+[15:49:23	]Bquits has spawned 'models/props_building_details/Storefront_Template001a_Bars.mdl'.
+[15:49:24	]John Brookly ran 'Place' on item 'DOB Lock' (#168699)
+[15:49:28	]John Brookly has given himself a doblock.
+[15:49:28	]John Brookly has gained a 'DOB Lock' #168701.
+[15:49:29	]John Brookly has given himself a doblock.
+[15:49:29	]John Brookly has gained a 'DOB Lock' #168702.
+[15:49:31	]John Brookly ran 'Place' on item 'DOB Lock' (#168702)
+[15:49:36	]John Brookly ran 'Place' on item 'DOB Lock' (#168701)
+[15:49:40	]John Brookly has given himself a doblock.
+[15:49:40	]John Brookly has gained a 'DOB Lock' #168703.
+[15:49:42	]John Brookly ran 'Place' on item 'DOB Lock' (#168703)
+[15:49:47	]John Brookly ran 'Place' on item 'DOB Lock' (#168700)
+[15:49:49	]John Brookly has given himself a doblock.
+[15:49:50	]John Brookly has gained a 'DOB Lock' #168704.
+[15:49:52	]John Brookly ran 'Place' on item 'DOB Lock' (#168704)
+[15:50:38	]John Brookly has used a context menu option with the name: ixpropviewowner
+[15:50:39	]John Brookly exited observer at their location.
+[15:50:41	]Bquits exited observer at their location.
+[15:50:45	]John Brookly entered observer.
+[15:51:06	]Bquits has used a context menu option with the name: clientprop
+[15:51:07	]Bquits has used a context menu option with the name: clientprop
+[15:51:11	]Bquits has used a context menu option with the name: clientprop
+[15:51:12	]Bquits has used a context menu option with the name: clientprop
+[15:51:14	]Bquits has used a context menu option with the name: clientprop
+[15:51:18	]Bquits entered observer.
+[15:51:19	]John Brookly opened the 'Dropped Items' #10381 container.
+[15:51:20	]John Brookly closed the 'Dropped Items' #10381 container.
+[15:51:22	]John Brookly has used a context menu option with the name: remove
+[15:51:29	]John Brookly exited observer at their location.
+[15:51:37	]Bquits exited observer at their location.
+[15:51:41	]John Brookly entered observer.
+[15:51:50	]Bquits entered observer.
+[15:51:53	]Bquits has used a context menu option with the name: clientprop
+[15:52:11	]John Brookly exited observer at their location.
+[15:52:11	]John Brookly entered observer.
+[15:52:12	]John Brookly exited observer at their location.
+[15:52:14	]Bquits exited observer at their location.
+[15:52:17	]Bquits entered observer.
+[15:52:18	]John Brookly entered observer.
+[15:52:19	]Bquits exited observer at their location.
+[15:52:22	]Bquits entered observer.
+[15:52:32	]Bquits exited observer at their location.
+[15:52:32	]Bquits entered observer.
+[15:52:33	]Bquits exited observer at their location.
+[15:52:38	]Bquits entered observer.
+[15:52:49	]John Brookly used command '/AreaEdit'.
+[15:52:53	]Bquits used command '/AreaEdit'.
+[15:52:59	]Bquits used command '/AreaEdit'.
+[15:53:12	]John Brookly has added area "Radyoaktif Vagon".
+[15:53:15	]John Brookly exited observer at their location.
+[15:53:23	]Bquits exited observer at their location.
+[15:53:26	]John Brookly used command '/AreaEdit'.
+[15:53:28	]Bquits entered observer.
+[15:53:28	]John Brookly has removed area "Radyoaktif Vagon".
+[15:53:29	]Bquits exited observer at their location.
+[15:53:29	]John Brookly entered observer.
+[15:53:34	]Bquits has spawned 'models/props_trainstation/TrackSign02.mdl'.
+[15:53:39	]Bquits has spawned 'models/props_c17/streetsign004e.mdl'.
+[15:53:44	]Bquits has spawned 'models/props_c17/streetsign004f.mdl'.
+[15:53:46	]John Brookly has added area "Radyoaktif Vagon".
+[15:53:47	]Bquits has spawned 'models/props_c17/streetsign004e.mdl'.
+[15:53:50	]John Brookly exited observer at their location.
+[15:53:59	]John Brookly has spawned 'models/props_c17/streetsign004f.mdl'.
+[15:54:14	]John Brookly entered observer.
+[15:54:19	]John Brookly exited observer at their location.
+[15:54:20	]John Brookly entered observer.
+[15:54:31	]Bquits used command '/TextAdd Dikkat Girmeyin Radyoaktif Bölge!'.
+[15:54:35	]John Brookly has used a context menu option with the name: remove
+[15:54:37	]Bquits has used a context menu option with the name: clientprop
+[15:54:44	]Bquits entered observer.
+[15:55:10	]John Brookly has used a context menu option with the name: remove
+[15:55:29	]Bquits exited observer at their location.
+[15:55:37	]Bquits entered observer.
+[15:55:37	]John Brookly exited observer at their location.
+[15:55:38	]Bquits has spawned a 'Entity [1019][acwatt_uc_fg_underwater]'.
+[15:55:39	]Bquits has spawned a 'Entity [4767][pfxa_00]'.
+[15:55:41	]John Brookly entered observer.
+[15:55:50	]Bquits has spawned a 'Entity [1019][ix_watercache]'.
+[15:55:57	]Bquits has spawned a 'Entity [1019][ix_watercache]'.
+[15:56:01	]John Brookly exited observer at their location.
+[15:56:01	]Bquits has spawned a 'Entity [1019][ix_watercache]'.
+[15:56:06	]John Brookly entered observer.
+[15:56:08	]John Brookly used command '/AreaEdit'.
+[15:56:15	]Bquits has spawned a 'Entity [4911][ix_watercache]'.
+[15:56:23	]John Brookly used command '/AreaEdit'.
+[15:56:33	]Bquits used command '/PanelRemove'.
+[15:57:03	]Bquits exited observer at their location.
+[15:57:04	]Bquits entered observer.
+[15:57:23	]Bquits has used a context menu option with the name: rb655_breakable_break
+[15:57:26	]Bquits has used a context menu option with the name: remove
+[15:57:54	]John Brookly exited observer at their location.
+[15:57:55	]Beyin.Dll (STEAM_0:0:479033164) has disconnected.
+[15:58:47	]İlkokul Kundakçısı (STEAM_0:0:142449284) has disconnected.
+[21:53:06	]Enistein has connected.
+[21:53:35	]Enistein loaded the character 'Feliks Nowak'
+[21:53:40	]Feliks Nowak is fully healed.
+[21:53:42	]Feliks Nowak entered observer.
+[21:59:35	]Feliks Nowak has gone afk.
+[22:00:35	]Feliks Nowak is no longer afk. Total time spent AFK: 355
+[22:00:59	]Feliks Nowak has used a context menu option with the name: remove
+[22:01:01	]Feliks Nowak has used a context menu option with the name: remove
+[22:01:14	]Feliks Nowak exited observer at their location.
+[22:01:14	]Feliks Nowak entered observer.
+[22:01:30	]Feliks Nowak exited observer at their location.
+[22:01:34	]Feliks Nowak entered observer.
+[22:02:37	]Feliks Nowak exited observer at their location.
+[22:02:42	]Feliks Nowak entered observer.
+[22:02:59	]Feliks Nowak exited observer at their location.
+[22:03:00	]Feliks Nowak entered observer.
+[22:03:01	]Feliks Nowak exited observer at their location.
+[22:03:05	]Feliks Nowak entered observer.
+[22:03:06	]Feliks Nowak exited observer at their location.
+[22:03:10	]Feliks Nowak has spawned 'models/props_junk/wood_crate001a.mdl'.
+[22:03:15	]Feliks Nowak has fired a toolgun with the name: unbreakable
+[22:03:17	]Feliks Nowak has enabled persistence for 'models/props_junk/wood_crate001a.mdl'.
+[22:03:17	]Feliks Nowak has used a context menu option with the name: persist
+[22:03:17	]Feliks Nowak has fired a toolgun with the name: unbreakable
+[22:03:32	]Feliks Nowak has used a context menu option with the name: clientprop
+[22:03:40	]Feliks Nowak entered observer.
+[22:03:41	]Feliks Nowak exited observer at their location.
+[22:03:41	]Feliks Nowak entered observer.
+[22:03:42	]Feliks Nowak exited observer at their location.
+[22:03:43	]Feliks Nowak entered observer.
+[22:03:43	]Feliks Nowak exited observer at their location.
+[22:03:52	]Feliks Nowak ran 'Write' on item '4/06/2017' (#167591)
+[22:03:55	]Feliks Nowak ran 'Write' on item '4/06/2017' (#167591)
+[22:04:05	]Feliks Nowak has used a context menu option with the name: statue
+[22:04:16	]Feliks Nowak has used a context menu option with the name: clientprop
+[22:04:19	]Feliks Nowak has disabled persistence for 'models/willardnetworks/citizens/male_01.mdl'.
+[22:04:19	]Feliks Nowak has used a context menu option with the name: persist_end
+[22:04:23	]Feliks Nowak has enabled persistence for 'models/willardnetworks/citizens/male_01.mdl'.
+[22:04:23	]Feliks Nowak has used a context menu option with the name: persist
+[22:04:26	]Feliks Nowak has disabled persistence for 'models/willardnetworks/citizens/male_01.mdl'.
+[22:04:26	]Feliks Nowak has used a context menu option with the name: persist_end
+[22:04:41	]Feliks Nowak has enabled persistence for 'models/willardnetworks/citizens/male_01.mdl'.
+[22:04:41	]Feliks Nowak has used a context menu option with the name: persist
+[22:05:26	]Feliks Nowak ran 'Write' on item '4/06/2017' (#167591)
+[22:05:35	]Feliks Nowak has used a context menu option with the name: clientprop
+[22:05:45	]Feliks Nowak has used a context menu option with the name: collision_off
+[22:05:48	]Feliks Nowak has used a context menu option with the name: collision_off
+[22:05:57	]Feliks Nowak entered observer.
+[22:05:57	]Feliks Nowak exited observer at their location.
+[22:06:08	]Feliks Nowak entered observer.
+[22:06:09	]Feliks Nowak exited observer at their location.
+[22:06:11	]Feliks Nowak entered observer.
+[22:06:15	]Feliks Nowak exited observer at their location.
+[22:06:23	]Feliks Nowak entered observer.
+[22:06:23	]Feliks Nowak exited observer at their location.
+[22:06:24	]Feliks Nowak entered observer.
+[22:06:25	]Feliks Nowak exited observer at their location.
+[22:06:34	]Feliks Nowak has given himself a flashlight.
+[22:06:34	]Feliks Nowak has gained a 'El Feneri' #168705.
+[22:06:39	]Feliks Nowak opened the 'Sandık' #11973 container.
+[22:06:41	]Feliks Nowak closed the 'Sandık' #11973 container.
+[22:06:43	]Feliks Nowak entered observer.
+[22:06:44	]Feliks Nowak exited observer at their location.
+[22:06:51	]Feliks Nowak entered observer.
+[22:06:52	]Feliks Nowak exited observer at their location.
+[22:06:56	]Feliks Nowak entered observer.
+[22:06:57	]Feliks Nowak exited observer at their location.
+[22:06:58	]Feliks Nowak entered observer.
+[22:06:59	]Feliks Nowak exited observer at their location.
+[22:07:00	]Feliks Nowak entered observer.
+[22:07:02	]Feliks Nowak exited observer at their location.
+[22:07:16	]Feliks Nowak has gained level 6 in the Hız skill.
+[22:07:18	]Feliks Nowak entered observer.
+[22:07:19	]Feliks Nowak exited observer at their location.
+[22:07:19	]Feliks Nowak entered observer.
+[22:07:21	]Feliks Nowak exited observer at their location.
+[22:07:21	]Feliks Nowak entered observer.
+[22:07:22	]Feliks Nowak exited observer at their location.
+[22:07:24	]Feliks Nowak entered observer.
+[22:07:25	]Feliks Nowak exited observer at their location.
+[22:07:26	]Feliks Nowak entered observer.
+[22:07:28	]Feliks Nowak exited observer at their location.
+[22:07:35	]Feliks Nowak used command '/AreaEdit'.
+[22:09:07	]Feliks Nowak entered observer.
+[22:09:07	]Feliks Nowak exited observer at their location.
+[22:09:20	]Feliks Nowak has taken 5 damage from worldspawn.
+[22:09:25	]Feliks Nowak has taken 5 damage from worldspawn.
+[22:09:29	]Feliks Nowak entered observer.
+[22:09:29	]Feliks Nowak exited observer at their location.
+[22:09:30	]Feliks Nowak has taken 5 damage from worldspawn.
+[22:09:30	]Feliks Nowak entered observer.
+[22:09:32	]Feliks Nowak exited observer at their location.
+[22:09:33	]Feliks Nowak entered observer.
+[22:09:33	]Feliks Nowak exited observer at their location.
+[22:09:35	]Feliks Nowak entered observer.
+[22:09:49	]Feliks Nowak has used a context menu option with the name: clientprop
+[22:10:10	]Feliks Nowak exited observer at their location.
+[22:10:10	]Feliks Nowak entered observer.
+[22:10:11	]Feliks Nowak exited observer at their location.
+[22:10:14	]Feliks Nowak entered observer.
+[22:10:17	]Feliks Nowak exited observer at their location.
+[22:10:28	]Feliks Nowak entered observer.
+[22:10:34	]Feliks Nowak exited observer at their location.
+[22:10:41	]Feliks Nowak has fired a toolgun with the name: rope
+[22:10:43	]Feliks Nowak has fired a toolgun with the name: rope
+[22:10:49	]Feliks Nowak has fired a toolgun with the name: rope
+[22:10:50	]Feliks Nowak has fired a toolgun with the name: rope
+[22:11:22	]Feliks Nowak has fired a toolgun with the name: rope
+[22:11:23	]Feliks Nowak has fired a toolgun with the name: rope
+[22:11:25	]Feliks Nowak has fired a toolgun with the name: rope
+[22:11:26	]Feliks Nowak has fired a toolgun with the name: rope
+[22:11:29	]Feliks Nowak entered observer.
+[22:11:29	]Feliks Nowak exited observer at their location.
+[22:11:31	]Feliks Nowak entered observer.
+[22:11:31	]Feliks Nowak exited observer at their location.
+[22:11:33	]Feliks Nowak entered observer.
+[22:11:33	]Feliks Nowak exited observer at their location.
+[22:11:34	]Feliks Nowak entered observer.
+[22:11:35	]Feliks Nowak exited observer at their location.
+[22:11:36	]Feliks Nowak entered observer.
+[22:11:37	]Feliks Nowak exited observer at their location.
+[22:11:44	]Feliks Nowak entered observer.
+[22:11:51	]Feliks Nowak exited observer at their location.
+[22:11:53	]Feliks Nowak entered observer.
+[22:11:56	]Feliks Nowak exited observer at their location.
+[22:12:02	]Feliks Nowak entered observer.
+[22:12:04	]Feliks Nowak exited observer at their location.
+[22:13:01	]Feliks Nowak entered observer.
+[22:13:05	]Feliks Nowak exited observer at their location.
+[22:13:06	]Feliks Nowak entered observer.
+[22:13:07	]Feliks Nowak exited observer at their location.
+[22:13:07	]Feliks Nowak entered observer.
+[22:13:08	]Feliks Nowak exited observer at their location.
+[22:13:11	]Feliks Nowak entered observer.
+[22:13:11	]Feliks Nowak exited observer at their location.
+[22:13:12	]Feliks Nowak entered observer.
+[22:13:12	]Feliks Nowak exited observer at their location.
+[22:13:13	]Feliks Nowak entered observer.
+[22:13:13	]Feliks Nowak exited observer at their location.
+[22:13:23	]Feliks Nowak entered observer.
+[22:13:24	]Feliks Nowak exited observer at their location.
+[22:13:29	]Feliks Nowak used command '/ToggleRaise'.
+[22:13:32	]Feliks Nowak entered observer.
+[22:13:33	]Feliks Nowak exited observer at their location.
+[22:13:33	]Feliks Nowak entered observer.
+[22:13:37	]Feliks Nowak exited observer at their location.
+[22:13:38	]Feliks Nowak entered observer.
+[22:13:43	]Feliks Nowak exited observer at their location.
+[22:13:47	]Feliks Nowak has spawned 'models/props_wasteland/barricade001a.mdl'.
+[22:13:52	]Feliks Nowak has spawned 'models/props_wasteland/barricade001a.mdl'.
+[22:14:00	]Feliks Nowak has fired a toolgun with the name: unbreakable
+[22:14:00	]Feliks Nowak has fired a toolgun with the name: unbreakable
+[22:14:02	]Feliks Nowak has used a context menu option with the name: clientprop
+[22:14:03	]Feliks Nowak has used a context menu option with the name: clientprop
+[22:14:06	]Feliks Nowak entered observer.
+[22:14:07	]Feliks Nowak exited observer at their location.
+[22:14:07	]Feliks Nowak entered observer.
+[22:14:08	]Feliks Nowak exited observer at their location.
+[22:14:11	]Feliks Nowak entered observer.
+[22:14:12	]Feliks Nowak exited observer at their location.
+[22:14:21	]Feliks Nowak entered observer.
+[22:14:21	]Feliks Nowak exited observer at their location.
+[22:14:22	]Feliks Nowak entered observer.
+[22:14:22	]Feliks Nowak exited observer at their location.
+[22:14:23	]Feliks Nowak entered observer.
+[22:14:23	]Feliks Nowak exited observer at their location.
+[22:14:25	]Feliks Nowak entered observer.
+[22:14:32	]Feliks Nowak exited observer at their location.
+[22:14:38	]Feliks Nowak entered observer.
+[22:14:46	]Feliks Nowak exited observer at their location.
+[22:14:57	]Feliks Nowak entered observer.
+[22:14:57	]Feliks Nowak exited observer at their location.
+[22:15:09	]Feliks Nowak entered observer.
+[22:15:16	]Feliks Nowak exited observer at their location.
+[22:15:16	]Feliks Nowak opened the 'Data-Disk #1' #8308 container.
+[22:15:19	]Feliks Nowak closed the 'Data-Disk #1' #8308 container.
+[22:15:21	]Feliks Nowak entered observer.
+[22:15:34	]Feliks Nowak exited observer at their location.
+[22:15:36	]Feliks Nowak entered observer.
+[22:15:38	]Feliks Nowak exited observer at their location.
+[22:15:39	]Feliks Nowak entered observer.
+[22:15:40	]Feliks Nowak exited observer at their location.
+[22:15:41	]Feliks Nowak entered observer.
+[22:16:02	]Feliks Nowak exited observer at their location.
+[22:16:11	]Feliks Nowak entered observer.
+[22:16:11	]Feliks Nowak exited observer at their location.
+[22:16:14	]Feliks Nowak entered observer.
+[22:16:38	]Feliks Nowak exited observer at their location.
+[22:16:39	]Feliks Nowak entered observer.
+[22:16:39	]Feliks Nowak exited observer at their location.
+[22:16:40	]Feliks Nowak entered observer.
+[22:17:27	]Feliks Nowak has spawned 'models/props_combine/combine_booth_short01a.mdl'.
+[22:17:31	]Feliks Nowak exited observer at their location.
+[22:17:51	]Feliks Nowak has fired a toolgun with the name: stacker_improved
+[22:17:51	]Feliks Nowak has spawned 'models/props_combine/combine_booth_short01a.mdl'.
+[22:17:56	]Feliks Nowak has spawned 'models/props_combine/combine_barricade_short02a.mdl'.
+[22:18:02	]Feliks Nowak has spawned 'models/props_combine/combine_barricade_short01a.mdl'.
+[22:18:28	]Feliks Nowak has fired a toolgun with the name: stacker_improved
+[22:18:28	]Feliks Nowak has spawned 'models/props_combine/combine_barricade_short01a.mdl'.
+[22:18:29	]Feliks Nowak has fired a toolgun with the name: stacker_improved
+[22:18:29	]Feliks Nowak has spawned 'models/props_combine/combine_barricade_short01a.mdl'.
+[22:18:40	]Feliks Nowak has fired a toolgun with the name: stacker_improved
+[22:18:40	]Feliks Nowak has spawned 'models/props_combine/combine_barricade_short01a.mdl'.
+[22:18:44	]Feliks Nowak has fired a toolgun with the name: stacker_improved
+[22:18:44	]Feliks Nowak has spawned 'models/props_combine/combine_barricade_short01a.mdl'.
+[22:18:50	]Feliks Nowak has fired a toolgun with the name: stacker_improved
+[22:18:50	]Feliks Nowak has spawned 'models/props_combine/combine_barricade_short01a.mdl'.
+[22:19:04	]Feliks Nowak has fired a toolgun with the name: stacker_improved
+[22:19:04	]Feliks Nowak has spawned 'models/props_combine/combine_barricade_short01a.mdl'.
+[22:19:19	]Feliks Nowak has fired a toolgun with the name: stacker_improved
+[22:19:19	]Feliks Nowak has spawned 'models/props_combine/combine_barricade_short01a.mdl'.
+[22:19:24	]Feliks Nowak has used a context menu option with the name: remove
+[22:19:41	]Feliks Nowak has fired a toolgun with the name: stacker_improved
+[22:19:41	]Feliks Nowak has spawned 'models/props_combine/combine_barricade_short01a.mdl'.
+[22:20:38	]Feliks Nowak has enabled persistence for 'models/props_combine/combine_booth_short01a.mdl'.
+[22:20:38	]Feliks Nowak has used a context menu option with the name: persist
+[22:20:38	]Feliks Nowak has enabled persistence for 'models/props_combine/combine_barricade_short01a.mdl'.
+[22:20:38	]Feliks Nowak has used a context menu option with the name: persist
+[22:20:39	]Feliks Nowak has enabled persistence for 'models/props_combine/combine_barricade_short01a.mdl'.
+[22:20:39	]Feliks Nowak has used a context menu option with the name: persist
+[22:20:40	]Feliks Nowak has enabled persistence for 'models/props_combine/combine_barricade_short01a.mdl'.
+[22:20:40	]Feliks Nowak has used a context menu option with the name: persist
+[22:20:41	]Feliks Nowak has enabled persistence for 'models/props_combine/combine_barricade_short01a.mdl'.
+[22:20:41	]Feliks Nowak has used a context menu option with the name: persist
+[22:20:42	]Feliks Nowak has enabled persistence for 'models/props_combine/combine_booth_short01a.mdl'.
+[22:20:42	]Feliks Nowak has used a context menu option with the name: persist
+[22:21:25	]Feliks Nowak has spawned 'models/props_trainstation/tracksign10.mdl'.
+[22:21:41	]Feliks Nowak has spawned 'models/props_trainstation/tracksign10.mdl'.
+[22:21:53	]Feliks Nowak has used a context menu option with the name: clientprop
+[22:21:57	]Feliks Nowak has used a context menu option with the name: clientprop
+[22:22:32	]Feliks Nowak has spawned 'models/props_c17/signpole001.mdl'.
+[22:22:37	]Feliks Nowak has spawned 'models/props_c17/signpole001.mdl'.
+[22:22:53	]Feliks Nowak has spawned 'models/props_c17/streetsign004f.mdl'.
+[22:23:21	]Feliks Nowak entered observer.
+[22:23:44	]Feliks Nowak exited observer at their location.
+[22:23:59	]Feliks Nowak has fired a toolgun with the name: weld
+[22:23:59	]Feliks Nowak has fired a toolgun with the name: weld
+[22:24:15	]Feliks Nowak has fired a toolgun with the name: duplicator
+[22:24:15	]Feliks Nowak has spawned 'models/props_c17/signpole001.mdl'.
+[22:24:15	]Feliks Nowak has spawned 'models/props_c17/streetsign004f.mdl'.
+[22:24:19	]Feliks Nowak has fired a toolgun with the name: duplicator
+[22:24:19	]Feliks Nowak has spawned 'models/props_c17/signpole001.mdl'.
+[22:24:19	]Feliks Nowak has spawned 'models/props_c17/streetsign004f.mdl'.
+[22:24:22	]Feliks Nowak has fired a toolgun with the name: remover
+[22:24:22	]Feliks Nowak has fired a toolgun with the name: remover
+[22:24:29	]Feliks Nowak has fired a toolgun with the name: duplicator
+[22:24:29	]Feliks Nowak has spawned 'models/props_c17/signpole001.mdl'.
+[22:24:29	]Feliks Nowak has spawned 'models/props_c17/streetsign004f.mdl'.
+[22:24:43	]Feliks Nowak has fired a toolgun with the name: remover
+[22:24:44	]Feliks Nowak has fired a toolgun with the name: remover
+[22:24:50	]Feliks Nowak has fired a toolgun with the name: duplicator
+[22:24:50	]Feliks Nowak has spawned 'models/props_c17/signpole001.mdl'.
+[22:24:50	]Feliks Nowak has spawned 'models/props_c17/streetsign004f.mdl'.
+[22:25:00	]Feliks Nowak has spawned 'models/props_trainstation/tracksign01.mdl'.
+[22:25:20	]Feliks Nowak entered observer.
+[22:25:21	]Feliks Nowak exited observer at their location.
+[22:25:25	]Feliks Nowak entered observer.
+[22:25:26	]Feliks Nowak exited observer at their location.
+[22:25:48	]Feliks Nowak entered observer.
+[22:25:48	]Feliks Nowak exited observer at their location.
+[22:25:49	]Feliks Nowak entered observer.
+[22:25:49	]Feliks Nowak exited observer at their location.
+[22:25:50	]Feliks Nowak entered observer.
+[22:25:50	]Feliks Nowak exited observer at their location.
+[22:25:51	]Feliks Nowak entered observer.
+[22:25:54	]Feliks Nowak exited observer at their location.
+[22:25:55	]Feliks Nowak entered observer.
+[22:25:57	]Feliks Nowak exited observer at their location.
+[22:26:10	]Feliks Nowak entered observer.
+[22:26:10	]Feliks Nowak exited observer at their location.
+[22:26:11	]Feliks Nowak entered observer.
+[22:26:16	]Feliks Nowak exited observer at their location.
+[22:27:00	]Feliks Nowak entered observer.
+[22:27:00	]Feliks Nowak exited observer at their location.
+[22:27:33	]Feliks Nowak entered observer.
+[22:27:34	]Feliks Nowak exited observer at their location.
+[22:27:55	]Feliks Nowak entered observer.
+[22:27:56	]Feliks Nowak exited observer at their location.
+[22:27:57	]Feliks Nowak entered observer.
+[22:27:57	]Feliks Nowak exited observer at their location.
+[22:28:00	]Feliks Nowak has used a context menu option with the name: remove
+[22:28:03	]Feliks Nowak entered observer.
+[22:28:04	]Feliks Nowak exited observer at their location.
+[22:28:04	]Feliks Nowak entered observer.
+[22:28:04	]Feliks Nowak exited observer at their location.
+[22:28:05	]Feliks Nowak entered observer.
+[22:28:05	]Feliks Nowak exited observer at their location.
+[22:28:06	]Feliks Nowak entered observer.
+[22:28:49	]Feliks Nowak exited observer at their location.
+[22:34:05	]Feliks Nowak has gone afk.
+[23:03:25	]Feliks Nowak is fully healed.
+[23:49:00	]Feliks Nowak is no longer afk. Total time spent AFK: 4790
+[23:49:07	]Feliks Nowak entered observer.
+[23:49:08	]Feliks Nowak exited observer at their location.
+[23:49:09	]Enistein (STEAM_0:1:98500861) has disconnected.

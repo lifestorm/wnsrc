@@ -1,0 +1,957 @@
+[10:59:03	]Hoo Lee Fuk has connected.
+[10:59:52	]Hoo Lee Fuk loaded the character 'John Brookly'
+[11:00:00	]John Brookly entered observer.
+[11:00:18	]John Brookly opened the 'SIB Işçi Malzemeleri Dolabı' #2811 container.
+[11:00:20	]John Brookly closed the 'SIB Işçi Malzemeleri Dolabı' #2811 container.
+[11:00:21	]John Brookly opened the 'SIB Malzeme Dolabı' #2812 container.
+[11:00:26	]John Brookly has gained a 'Fire Axe' #20329 from a container with the name 'SIB Malzeme Dolabı' #2812.
+[11:00:27	]John Brookly closed the 'SIB Malzeme Dolabı' #2812 container.
+[11:00:31	]John Brookly opened the 'SIB Malzeme Dolabı' #2812 container.
+[11:00:33	]John Brookly has transferred a 'Fire Axe' #20329 to a container with the name 'SIB Malzeme Dolabı' #2812.
+[11:00:35	]John Brookly ran 'SetMaxDurability' on item 'Crowbar' (#20328)
+[11:00:48	]John Brookly closed the 'SIB Malzeme Dolabı' #2812 container.
+[11:00:49	]John Brookly opened the 'SIB Işçi Malzemeleri Dolabı' #2811 container.
+[11:00:53	]John Brookly closed the 'SIB Işçi Malzemeleri Dolabı' #2811 container.
+[11:01:25	]John Brookly has used a context menu option with the name: ixpropviewowner
+[11:01:29	]John Brookly used the 'Kaçakçı' smuggler.
+[11:02:02	]John Brookly has used a context menu option with the name: smuggler_edit
+[11:03:10	]John Brookly has used a context menu option with the name: smuggler_edit
+[11:03:43	]John Brookly opened the 'Doktor Brooks'un Tıbbi Malzemeleri' #2178 container.
+[11:03:48	]John Brookly closed the 'Doktor Brooks'un Tıbbi Malzemeleri' #2178 container.
+[11:03:48	]John Brookly exited observer at their location.
+[11:03:50	]John Brookly opened the 'Doktor Brooks'un Tıbbi Malzemeleri' #2178 container.
+[11:03:51	]John Brookly closed the 'Doktor Brooks'un Tıbbi Malzemeleri' #2178 container.
+[11:03:52	]John Brookly opened the 'Doktor Brooks'un Tıbbi Malzemeleri' #2178 container.
+[11:03:54	]John Brookly closed the 'Doktor Brooks'un Tıbbi Malzemeleri' #2178 container.
+[11:03:58	]John Brookly has used a context menu option with the name: wncontainer_checkowner
+[11:03:58	]John Brookly entered observer.
+[11:04:05	]John Brookly admin-searched the 'Doktor Brooks'un Tıbbi Malzemeleri' #2178 container.
+[11:04:05	]John Brookly has used a context menu option with the name: wncontainer_view
+[11:04:07	]John Brookly admin-closed the 'Doktor Brooks'un Tıbbi Malzemeleri' #2178 container.
+[11:04:29	]John Brookly exited observer at their location.
+[11:04:35	]John Brookly has fired a toolgun with the name: remover
+[11:04:36	]John Brookly has fired a toolgun with the name: remover
+[11:04:36	]John Brookly has fired a toolgun with the name: remover
+[11:04:36	]John Brookly has fired a toolgun with the name: remover
+[11:04:36	]John Brookly has fired a toolgun with the name: remover
+[11:04:37	]John Brookly has fired a toolgun with the name: remover
+[11:04:38	]John Brookly entered observer.
+[11:04:49	]John Brookly exited observer at their location.
+[11:04:53	]John Brookly entered observer.
+[11:06:17	]John Brookly exited observer at their location.
+[11:06:23	]John Brookly entered observer.
+[11:06:28	]John Brookly exited observer at their location.
+[11:06:31	]John Brookly entered observer.
+[11:06:53	]John Brookly has used a context menu option with the name: remove
+[11:07:07	]John Brookly exited observer at their location.
+[11:07:10	]John Brookly entered observer.
+[11:15:22	]John Brookly has gone afk.
+[11:20:47	]John Brookly is no longer afk. Total time spent AFK: 620
+[11:26:17	]John Brookly has gone afk.
+[11:31:52	]John Brookly is no longer afk. Total time spent AFK: 630
+[11:31:55	]John Brookly exited observer at their location.
+[11:32:05	]John Brookly ran 'Insert' on item 'Vending Machine Key' (#18425)
+[11:32:20	]John Brookly ran 'drop' on item 'Köpüklü Breen Suyu' (#20379)
+[11:32:20	]John Brookly has lost a 'Köpüklü Breen Suyu' #20379.
+[11:32:25	]John Brookly has fired a toolgun with the name: duplicator
+[11:32:30	]John Brookly ran 'take' on item 'Köpüklü Breen Suyu' (#20397)
+[11:32:30	]John Brookly has gained a 'Köpüklü Breen Suyu' #20397.
+[11:32:33	]John Brookly ran 'take' on item 'Köpüklü Breen Suyu' (#20379)
+[11:32:33	]John Brookly has gained a 'Köpüklü Breen Suyu' #20379.
+[11:32:35	]John Brookly has fired a toolgun with the name: duplicator
+[11:32:37	]John Brookly ran 'take' on item 'Köpüklü Breen Suyu' (#20398)
+[11:32:37	]John Brookly has gained a 'Köpüklü Breen Suyu' #20398.
+[11:32:37	]John Brookly has fired a toolgun with the name: duplicator
+[11:32:38	]John Brookly ran 'take' on item 'Köpüklü Breen Suyu' (#20399)
+[11:32:38	]John Brookly has gained a 'Köpüklü Breen Suyu' #20399.
+[11:32:39	]John Brookly has fired a toolgun with the name: duplicator
+[11:32:46	]John Brookly ran 'take' on item 'Köpüklü Breen Suyu' (#20400)
+[11:32:46	]John Brookly has gained a 'Köpüklü Breen Suyu' #20400.
+[11:32:46	]John Brookly has fired a toolgun with the name: duplicator
+[11:32:48	]John Brookly ran 'take' on item 'Köpüklü Breen Suyu' (#20401)
+[11:32:48	]John Brookly has gained a 'Köpüklü Breen Suyu' #20401.
+[11:32:49	]John Brookly has fired a toolgun with the name: duplicator
+[11:32:50	]John Brookly ran 'take' on item 'Köpüklü Breen Suyu' (#20402)
+[11:32:50	]John Brookly has gained a 'Köpüklü Breen Suyu' #20402.
+[11:32:51	]John Brookly has fired a toolgun with the name: duplicator
+[11:32:53	]John Brookly ran 'take' on item 'Köpüklü Breen Suyu' (#20403)
+[11:32:53	]John Brookly has gained a 'Köpüklü Breen Suyu' #20403.
+[11:32:55	]John Brookly has fired a toolgun with the name: duplicator
+[11:32:56	]John Brookly ran 'take' on item 'Köpüklü Breen Suyu' (#20404)
+[11:32:56	]John Brookly has gained a 'Köpüklü Breen Suyu' #20404.
+[11:32:59	]John Brookly has transferred a 'Köpüklü Breen Suyu' #20397 to a container with the name 'Vending Machine' #2658.
+[11:32:59	]John Brookly has transferred a 'Köpüklü Breen Suyu' #20400 to a container with the name 'Vending Machine' #2658.
+[11:33:00	]John Brookly has transferred a 'Köpüklü Breen Suyu' #20399 to a container with the name 'Vending Machine' #2658.
+[11:33:00	]John Brookly has transferred a 'Köpüklü Breen Suyu' #20398 to a container with the name 'Vending Machine' #2658.
+[11:33:00	]John Brookly has transferred a 'Köpüklü Breen Suyu' #20379 to a container with the name 'Vending Machine' #2658.
+[11:33:01	]John Brookly has transferred a 'Köpüklü Breen Suyu' #20402 to a container with the name 'Vending Machine' #2658.
+[11:33:03	]John Brookly has transferred a 'Köpüklü Breen Suyu' #20401 to a container with the name 'Vending Machine' #2658.
+[11:33:03	]John Brookly has transferred a 'Köpüklü Breen Suyu' #20403 to a container with the name 'Vending Machine' #2658.
+[11:33:03	]John Brookly has transferred a 'Köpüklü Breen Suyu' #20404 to a container with the name 'Vending Machine' #2658.
+[11:33:08	]John Brookly has fired a toolgun with the name: duplicator
+[11:33:09	]John Brookly ran 'take' on item 'Köpüklü Breen Suyu' (#20405)
+[11:33:09	]John Brookly has gained a 'Köpüklü Breen Suyu' #20405.
+[11:33:11	]John Brookly has transferred a 'Köpüklü Breen Suyu' #20405 to a container with the name 'Vending Machine' #2658.
+[11:34:16	]John Brookly has given himself a comfort_toast.
+[11:34:16	]John Brookly has gained a 'Tost' #20406.
+[11:34:37	]John Brookly has given himself a comfort_toast.
+[11:34:37	]John Brookly has gained a 'Tost' #20407.
+[11:34:38	]John Brookly has given himself a comfort_toast.
+[11:34:38	]John Brookly has gained a 'Tost' #20408.
+[11:34:41	]John Brookly has given himself a comfort_toast.
+[11:34:41	]John Brookly has gained a 'Tost' #20409.
+[11:34:41	]John Brookly has given himself a comfort_toast.
+[11:34:41	]John Brookly has gained a 'Tost' #20410.
+[11:34:42	]John Brookly has given himself a comfort_toast.
+[11:34:42	]John Brookly has gained a 'Tost' #20411.
+[11:34:43	]John Brookly has given himself a comfort_toast.
+[11:34:43	]John Brookly has gained a 'Tost' #20412.
+[11:34:43	]John Brookly has given himself a comfort_toast.
+[11:34:43	]John Brookly has gained a 'Tost' #20413.
+[11:34:44	]John Brookly has given himself a comfort_toast.
+[11:34:44	]John Brookly has gained a 'Tost' #20414.
+[11:34:45	]John Brookly has given himself a comfort_toast.
+[11:34:45	]John Brookly has gained a 'Tost' #20415.
+[11:34:47	]John Brookly has given himself a comfort_toast.
+[11:34:47	]John Brookly has gained a 'Tost' #20416.
+[11:34:48	]John Brookly has given himself a comfort_toast.
+[11:34:48	]John Brookly has gained a 'Tost' #20417.
+[11:34:49	]John Brookly has given himself a comfort_toast.
+[11:34:49	]John Brookly has gained a 'Tost' #20418.
+[11:34:50	]John Brookly has given himself a comfort_toast.
+[11:34:50	]John Brookly has gained a 'Tost' #20419.
+[11:34:50	]John Brookly has given himself a comfort_toast.
+[11:34:50	]John Brookly has gained a 'Tost' #20420.
+[11:35:19	]John Brookly ran 'split' on item 'Tost' (#20418)
+[11:35:19	]John Brookly has gained a 'Tost' #20421.
+[11:35:20	]John Brookly ran 'split' on item 'Tost' (#20418)
+[11:35:20	]John Brookly has gained a 'Tost' #20422.
+[11:35:21	]John Brookly ran 'split' on item 'Tost' (#20415)
+[11:35:21	]John Brookly has gained a 'Tost' #20423.
+[11:35:23	]John Brookly ran 'split' on item 'Tost' (#20415)
+[11:35:23	]John Brookly has gained a 'Tost' #20424.
+[11:35:24	]John Brookly has transferred a 'Tost' #20418 to a container with the name 'Vending Machine' #2658.
+[11:35:24	]John Brookly has transferred a 'Tost' #20415 to a container with the name 'Vending Machine' #2658.
+[11:35:24	]John Brookly has transferred a 'Tost' #20423 to a container with the name 'Vending Machine' #2658.
+[11:35:24	]John Brookly has transferred a 'Tost' #20422 to a container with the name 'Vending Machine' #2658.
+[11:35:25	]John Brookly has transferred a 'Tost' #20424 to a container with the name 'Vending Machine' #2658.
+[11:35:25	]John Brookly has transferred a 'Tost' #20421 to a container with the name 'Vending Machine' #2658.
+[11:35:27	]John Brookly ran 'split' on item 'Tost' (#20412)
+[11:35:27	]John Brookly has gained a 'Tost' #20425.
+[11:35:28	]John Brookly ran 'split' on item 'Tost' (#20412)
+[11:35:28	]John Brookly has gained a 'Tost' #20426.
+[11:35:30	]John Brookly ran 'split' on item 'Tost' (#20409)
+[11:35:30	]John Brookly has gained a 'Tost' #20427.
+[11:35:32	]John Brookly ran 'split' on item 'Tost' (#20409)
+[11:35:32	]John Brookly has gained a 'Tost' #20428.
+[11:35:33	]John Brookly ran 'split' on item 'Tost' (#20406)
+[11:35:33	]John Brookly has gained a 'Tost' #20429.
+[11:35:34	]John Brookly ran 'split' on item 'Tost' (#20406)
+[11:35:34	]John Brookly has gained a 'Tost' #20430.
+[11:35:35	]John Brookly has transferred a 'Tost' #20426 to a container with the name 'Vending Machine' #2658.
+[11:35:35	]John Brookly has transferred a 'Tost' #20425 to a container with the name 'Vending Machine' #2658.
+[11:35:35	]John Brookly has transferred a 'Tost' #20429 to a container with the name 'Vending Machine' #2658.
+[11:35:35	]John Brookly has transferred a 'Tost' #20430 to a container with the name 'Vending Machine' #2658.
+[11:35:36	]John Brookly has transferred a 'Tost' #20428 to a container with the name 'Vending Machine' #2658.
+[11:35:36	]John Brookly has transferred a 'Tost' #20412 to a container with the name 'Vending Machine' #2658.
+[11:35:36	]John Brookly has transferred a 'Tost' #20409 to a container with the name 'Vending Machine' #2658.
+[11:35:37	]John Brookly has transferred a 'Tost' #20427 to a container with the name 'Vending Machine' #2658.
+[11:35:37	]John Brookly has transferred a 'Tost' #20406 to a container with the name 'Vending Machine' #2658.
+[11:35:51	]John Brookly has given himself a comfort_toast.
+[11:35:51	]John Brookly has gained a 'Tost' #20431.
+[11:35:52	]John Brookly has given himself a comfort_toast.
+[11:35:52	]John Brookly has gained a 'Tost' #20432.
+[11:35:52	]John Brookly has given himself a comfort_toast.
+[11:35:53	]John Brookly has gained a 'Tost' #20433.
+[11:36:07	]John Brookly ran 'split' on item 'Tost' (#20431)
+[11:36:07	]John Brookly has gained a 'Tost' #20434.
+[11:36:08	]John Brookly ran 'split' on item 'Tost' (#20431)
+[11:36:08	]John Brookly has gained a 'Tost' #20435.
+[11:36:08	]John Brookly has transferred a 'Tost' #20431 to a container with the name 'Vending Machine' #2658.
+[11:36:09	]John Brookly has transferred a 'Tost' #20435 to a container with the name 'Vending Machine' #2658.
+[11:36:09	]John Brookly has transferred a 'Tost' #20434 to a container with the name 'Vending Machine' #2658.
+[11:37:25	]John Brookly has given himself a fruit_apple.
+[11:37:26	]John Brookly has gained a 'Elma' #20436.
+[11:37:26	]John Brookly has given himself a fruit_apple.
+[11:37:26	]John Brookly has gained a 'Elma' #20437.
+[11:37:27	]John Brookly has given himself a fruit_apple.
+[11:37:27	]John Brookly has gained a 'Elma' #20438.
+[11:37:29	]John Brookly has given himself a fruit_apple.
+[11:37:29	]John Brookly has gained a 'Elma' #20439.
+[11:37:29	]John Brookly has given himself a fruit_apple.
+[11:37:29	]John Brookly has gained a 'Elma' #20440.
+[11:37:30	]John Brookly has given himself a fruit_apple.
+[11:37:30	]John Brookly has gained a 'Elma' #20441.
+[11:37:32	]John Brookly has given himself a fruit_apple.
+[11:37:32	]John Brookly has gained a 'Elma' #20442.
+[11:37:33	]John Brookly has given himself a fruit_apple.
+[11:37:33	]John Brookly has gained a 'Elma' #20443.
+[11:37:36	]John Brookly has given himself a fruit_apple.
+[11:37:36	]John Brookly has gained a 'Elma' #20444.
+[11:37:39	]John Brookly has transferred a 'Elma' #20436 to a container with the name 'Vending Machine' #2658.
+[11:37:39	]John Brookly has transferred a 'Elma' #20440 to a container with the name 'Vending Machine' #2658.
+[11:37:39	]John Brookly has transferred a 'Elma' #20439 to a container with the name 'Vending Machine' #2658.
+[11:37:40	]John Brookly ran 'drop' on item 'Elma' (#20436)
+[11:37:44	]John Brookly ran 'take' on item 'Elma' (#20436)
+[11:37:44	]John Brookly has gained a 'Elma' #20436.
+[11:37:49	]John Brookly has transferred a 'Elma' #20444 to a container with the name 'Vending Machine' #2658.
+[11:37:49	]John Brookly has transferred a 'Elma' #20443 to a container with the name 'Vending Machine' #2658.
+[11:37:49	]John Brookly has transferred a 'Elma' #20442 to a container with the name 'Vending Machine' #2658.
+[11:37:50	]John Brookly has transferred a 'Elma' #20438 to a container with the name 'Vending Machine' #2658.
+[11:37:50	]John Brookly has transferred a 'Elma' #20437 to a container with the name 'Vending Machine' #2658.
+[11:37:50	]John Brookly has transferred a 'Elma' #20441 to a container with the name 'Vending Machine' #2658.
+[11:37:51	]John Brookly has transferred a 'Elma' #20436 to a container with the name 'Vending Machine' #2658.
+[11:38:14	]John Brookly ran 'Insert' on item 'Vending Machine Key' (#18425)
+[11:38:17	]John Brookly entered observer.
+[11:38:23	]John Brookly has used a context menu option with the name: skin
+[11:38:25	]John Brookly has used a context menu option with the name: skin
+[11:38:28	]John Brookly has used a context menu option with the name: skin
+[11:38:30	]John Brookly has used a context menu option with the name: skin
+[11:38:31	]John Brookly has used a context menu option with the name: skin
+[11:38:35	]John Brookly has used a context menu option with the name: skin
+[11:38:39	]John Brookly exited observer at their location.
+[11:38:49	]John Brookly entered observer.
+[11:39:10	]John Brookly exited observer at their location.
+[11:39:23	]John Brookly entered observer.
+[11:39:35	]John Brookly used command '/CharSetGasPoints brookly 1'.
+[11:39:37	]John Brookly used command '/CharSetGasPoints brookly 10'.
+[11:39:39	]John Brookly used command '/CharSetGasPoints brookly 100'.
+[11:39:42	]John Brookly used command '/CharSetGasPoints brookly 0'.
+[11:39:53	][BEN] John Brookly: sa
+[11:40:28	]John Brookly used command '/CharRemoveLanguage brookly @'.
+[11:40:33	]John Brookly used command '/CharRemoveLanguage brookly Bengalce'.
+[11:40:39	]John Brookly exited observer at their location.
+[11:40:41	]John Brookly entered observer.
+[11:40:57	][IMP] John Brookly: a
+[11:41:10	]John Brookly has acquired his ration, gaining 0 credits, 50 wages and a priority_ration ration.
+[11:41:13	]John Brookly exited observer at their location.
+[11:41:23	]John Brookly ran 'take' on item 'Öncelikli Loyalist Rasyonu' (#20445)
+[11:41:23	]John Brookly has gained a 'Öncelikli Loyalist Rasyonu' #20445.
+[11:41:25	]John Brookly entered observer.
+[11:43:14	]John Brookly ran 'take' on item 'Dikişli Kumaş' (#20054)
+[11:43:14	]John Brookly has gained a 'Dikişli Kumaş' #20054.
+[11:43:53	]John Brookly has spawned a 'Entity [1200][ix_vendor]'.
+[11:44:38	]John Brookly exited observer at their location.
+[11:44:39	]John Brookly has used a context menu option with the name: vendor_edit
+[11:46:51	]John Brookly used the 'Kredi Makinesi' vendor.
+[11:46:57	]John Brookly entered observer.
+[11:47:00	]John Brookly has used a context menu option with the name: vendor_edit
+[11:47:08	]John Brookly exited observer at their location.
+[11:47:32	]John Brookly has used a context menu option with the name: vendor_edit
+[11:49:18	]John Brookly used the 'Kupon Makinesi' vendor.
+[11:49:22	]John Brookly has used a context menu option with the name: vendor_edit
+[11:51:29	]John Brookly has used a context menu option with the name: skin
+[11:51:31	]John Brookly has used a context menu option with the name: skin
+[11:51:31	]John Brookly entered observer.
+[11:51:37	]John Brookly used the 'Kupon Makinesi' vendor.
+[11:52:38	]John Brookly exited observer at their location.
+[11:53:18	]John Brookly entered observer.
+[12:00:52	]John Brookly has gone afk.
+[12:14:57	]John Brookly is no longer afk. Total time spent AFK: 1140
+[12:19:46	]John Brookly used command '/PlaySong https://www.youtube.com/watch?v=fQBqaga9ElU&ab_channel=DilanPolat 0 1500000'.
+[12:20:38	]John Brookly used command '/StopSong'.
+[12:22:08	]John Brookly exited observer at their location.
+[12:22:16	]John Brookly entered observer.
+[12:22:36	]John Brookly exited observer at their location.
+[12:22:38	]John Brookly entered observer.
+[12:22:49	]John Brookly has used a context menu option with the name: remove
+[12:22:54	]John Brookly exited observer at their location.
+[12:22:55	]John Brookly entered observer.
+[12:22:55	]John Brookly exited observer at their location.
+[12:22:57	]John Brookly entered observer.
+[12:28:27	]John Brookly has gone afk.
+[12:28:37	]John Brookly is no longer afk. Total time spent AFK: 305
+[12:28:52	]John Brookly exited observer at their location.
+[12:28:59	]John Brookly entered observer.
+[12:29:15	]John Brookly has spawned a 'Entity [1060][stormfox_weekweather]'.
+[12:29:16	]John Brookly exited observer at their location.
+[12:29:48	]John Brookly entered observer.
+[12:29:49	]John Brookly entered observer.
+[12:29:50	]John Brookly exited observer at their location.
+[12:29:50	]John Brookly entered observer.
+[12:29:56	]John Brookly exited observer at their location.
+[12:30:04	]John Brookly entered observer.
+[12:30:09	]John Brookly ran SAM command 'hp' with arguments: 'brookly' '100'
+[12:30:10	]John Brookly entered observer.
+[12:30:12	]John Brookly is fully healed.
+[12:42:07	]John Brookly has gone afk.
+[12:52:37	]John Brookly is no longer afk. Total time spent AFK: 925
+[13:03:37	]John Brookly has gone afk.
+[13:08:42	]John Brookly is no longer afk. Total time spent AFK: 600
+[13:11:27	]John Brookly used command '/CheckContainerLastAccessor'.
+[13:11:42	]John Brookly exited observer at their location.
+[13:11:42	]John Brookly opened the 'SIB Başkanının' #2810 container.
+[13:11:45	]John Brookly closed the 'SIB Başkanının' #2810 container.
+[13:12:46	]John Brookly used command '/CharGiveFlag brookly L'.
+[13:14:22	]John Brookly entered observer.
+[13:14:56	]Hoo Lee Fuk (STEAM_0:0:479033164) has disconnected.
+[15:35:33	]Victorian has connected.
+[15:36:37	]Victorian loaded the character 'Chang Huo'
+[15:36:46	]Chang Huo entered observer.
+[15:37:43	]Chang Huo exited observer at their location.
+[15:37:51	]Chang Huo has used a context menu option with the name: skin
+[15:37:53	]Chang Huo has used a context menu option with the name: skin
+[15:37:54	]Chang Huo entered observer.
+[15:37:59	]Chang Huo exited observer at their location.
+[15:38:01	]Chang Huo entered observer.
+[15:38:15	]Chang Huo exited observer at their location.
+[15:38:17	]Chang Huo used the 'Kupon Makinesi' vendor.
+[15:38:34	]Chang Huo has used a context menu option with the name: skin
+[15:38:46	]Chang Huo entered observer.
+[15:39:01	]Chang Huo exited observer at their location.
+[15:40:30	][IC] Chang Huo: !set hp 100.
+[15:41:20	][IC] Chang Huo: !seh Chang Huo 100.
+[15:41:52	]Chang Huo ran SAM command 'sethp' with arguments: 'Chang' '100'
+[15:41:57	]Chang Huo is fully healed.
+[15:42:09	]Chang Huo used command '/GetCWUFlags'.
+[15:42:12	]Chang Huo entered observer.
+[15:42:13	]Chang Huo exited observer at their location.
+[15:43:14	]Chang Huo entered observer.
+[15:43:26	]Chang Huo exited observer at their location.
+[15:43:42	]Chang Huo has spawned a 'Entity [4007][ix_terminal]'.
+[15:43:51	]Chang Huo entered observer.
+[15:43:58	]Chang Huo exited observer at their location.
+[15:44:02	]Chang Huo has used a context menu option with the name: skin
+[15:44:04	]Chang Huo has used a context menu option with the name: remove
+[15:44:07	]Chang Huo has spawned a 'Entity [1057][ix_terminal]'.
+[15:44:32	]Chang Huo entered observer.
+[15:44:34	]Chang Huo exited observer at their location.
+[15:44:37	]Chang Huo has spawned a 'Entity [1896][ix_terminal]'.
+[15:44:51	]Chang Huo entered observer.
+[15:45:00	]Chang Huo exited observer at their location.
+[15:45:11	]Chang Huo entered observer.
+[15:45:20	]Chang Huo exited observer at their location.
+[15:45:23	]Chang Huo entered observer.
+[15:45:29	]Chang Huo exited observer at their location.
+[15:45:31	]Chang Huo entered observer.
+[15:45:41	]Chang Huo exited observer at their location.
+[15:45:43	]Chang Huo entered observer.
+[15:46:09	]Chang Huo exited observer at their location.
+[15:46:09	]Chang Huo entered observer.
+[15:46:12	]Chang Huo exited observer at their location.
+[15:46:15	]Chang Huo entered observer.
+[15:46:19	]Chang Huo exited observer at their location.
+[15:46:27	]Chang Huo entered observer.
+[15:47:37	]Chang Huo exited observer at their location.
+[15:47:41	]Chang Huo entered observer.
+[15:47:42	]Chang Huo exited observer at their location.
+[15:47:54	]Chang Huo has used a context menu option with the name: skin
+[15:48:18	]Chang Huo entered observer.
+[15:48:24	]Chang Huo exited observer at their location.
+[15:48:25	]Chang Huo entered observer.
+[15:48:28	]Chang Huo exited observer at their location.
+[15:48:49	]Chang Huo entered observer.
+[15:48:53	]Chang Huo exited observer at their location.
+[15:48:56	]Chang Huo entered observer.
+[15:49:11	]Chang Huo exited observer at their location.
+[15:49:11	]Chang Huo entered observer.
+[15:49:52	]Chang Huo has used a context menu option with the name: ixpropviewowner
+[15:49:55	]Chang Huo exited observer at their location.
+[15:49:56	]Chang Huo entered observer.
+[15:49:58	]Chang Huo exited observer at their location.
+[15:50:09	]Chang Huo entered observer.
+[15:50:20	]Chang Huo exited observer at their location.
+[15:50:22	]Chang Huo entered observer.
+[15:50:25	]Chang Huo exited observer at their location.
+[15:50:44	]Chang Huo entered observer.
+[15:51:55	]Chang Huo exited observer at their location.
+[15:52:08	]Chang Huo entered observer.
+[15:52:12	]Chang Huo exited observer at their location.
+[15:52:30	]Chang Huo entered observer.
+[15:52:32	]Chang Huo exited observer at their location.
+[15:52:39	]Chang Huo entered observer.
+[15:52:40	]Chang Huo exited observer at their location.
+[15:53:01	]Chang Huo has used a context menu option with the name: rb655_door_open
+[15:53:03	]Chang Huo has used a context menu option with the name: door_lockunlock
+[15:53:24	]Chang Huo entered observer.
+[15:53:57	]Chang Huo has used a context menu option with the name: collision_off
+[15:54:08	]Chang Huo exited observer at their location.
+[15:54:23	]Chang Huo entered observer.
+[15:54:25	]Chang Huo exited observer at their location.
+[15:54:26	]Chang Huo entered observer.
+[15:54:27	]Chang Huo exited observer at their location.
+[15:54:29	]Chang Huo entered observer.
+[15:54:40	]Chang Huo exited observer at their location.
+[15:55:11	]Chang Huo entered observer.
+[15:55:40	]Chang Huo exited observer at their location.
+[15:55:43	]Chang Huo entered observer.
+[15:55:59	]Chang Huo exited observer at their location.
+[15:56:05	]Chang Huo entered observer.
+[15:58:16	]Chang Huo has used a context menu option with the name: collision_on
+[15:58:33	]Chang Huo has used a context menu option with the name: collision_off
+[15:59:06	]Chang Huo exited observer at their location.
+[15:59:23	]Chang Huo entered observer.
+[16:00:23	]Chang Huo exited observer at their location.
+[16:03:28	]Chang Huo entered observer.
+[16:03:29	]Chang Huo exited observer at their location.
+[16:03:30	]Chang Huo entered observer.
+[16:03:32	]Chang Huo exited observer at their location.
+[16:03:58	]Chang Huo has used a context menu option with the name: door_lockunlock
+[16:04:04	]Chang Huo entered observer.
+[16:04:15	]Chang Huo exited observer at their location.
+[16:04:19	]Chang Huo entered observer.
+[16:04:34	]Chang Huo exited observer at their location.
+[16:04:51	]Chang Huo has spawned a paper.
+[16:04:54	]Chang Huo has spawned a kağıt_tepsisi.
+[16:04:55	]Chang Huo ran 'take' on item 'Kağıt Tepsisi' (#20447)
+[16:05:00	]Chang Huo ran 'take' on item 'Kağıt Tepsisi' (#20447)
+[16:05:02	]Chang Huo has used a context menu option with the name: remove
+[16:05:06	]Chang Huo has spawned a cca_paperweight.
+[16:05:11	]Chang Huo has used a context menu option with the name: remove
+[16:05:12	]Chang Huo entered observer.
+[16:05:22	]Chang Huo exited observer at their location.
+[16:05:26	]Chang Huo entered observer.
+[16:05:30	]Chang Huo exited observer at their location.
+[16:05:39	]Chang Huo has spawned 'models/props_junk/garbage128_composite001c.mdl'.
+[16:05:42	]Chang Huo has spawned 'models/props_junk/garbage128_composite001d.mdl'.
+[16:05:59	]Chang Huo has spawned 'models/props_junk/bicycle01a.mdl'.
+[16:06:03	]Chang Huo entered observer.
+[16:06:04	]Chang Huo exited observer at their location.
+[16:06:57	]Chang Huo has spawned 'models/props_c17/statue_horse.mdl'.
+[16:07:00	]Chang Huo entered observer.
+[16:07:05	]Chang Huo has spawned 'models/props_c17/tv_monitor01.mdl'.
+[16:07:28	]Chang Huo has spawned a 'Entity [3994][ix_console]'.
+[16:07:44	]Chang Huo exited observer at their location.
+[16:07:47	]Chang Huo has spawned a 'Entity [1060][ix_pickupterminal]'.
+[16:07:50	]Chang Huo entered observer.
+[16:08:03	]Chang Huo has used a context menu option with the name: ixpropviewowner
+[16:08:13	]Chang Huo has used a context menu option with the name: skin
+[16:08:16	]Chang Huo has used a context menu option with the name: skin
+[16:08:18	]Chang Huo has used a context menu option with the name: skin
+[16:08:20	]Chang Huo has used a context menu option with the name: skin
+[16:08:22	]Chang Huo has used a context menu option with the name: skin
+[16:08:25	]Chang Huo has used a context menu option with the name: skin
+[16:08:29	]Chang Huo has used a context menu option with the name: skin
+[16:11:42	]Chang Huo exited observer at their location.
+[16:11:43	]Chang Huo entered observer.
+[16:11:44	]Chang Huo exited observer at their location.
+[16:11:45	]Chang Huo entered observer.
+[16:11:50	]Chang Huo exited observer at their location.
+[16:11:51	]Chang Huo entered observer.
+[16:11:56	]Chang Huo exited observer at their location.
+[16:11:57	]Chang Huo entered observer.
+[16:12:14	]Chang Huo exited observer at their location.
+[16:12:14	]Chang Huo entered observer.
+[16:12:15	]Chang Huo exited observer at their location.
+[16:12:17	]Chang Huo entered observer.
+[16:13:01	]Chang Huo exited observer at their location.
+[16:13:02	]Chang Huo entered observer.
+[16:13:03	]Chang Huo exited observer at their location.
+[16:13:04	]Chang Huo entered observer.
+[16:13:04	]Chang Huo exited observer at their location.
+[16:13:05	]Chang Huo entered observer.
+[16:13:06	]Chang Huo exited observer at their location.
+[16:13:07	]Chang Huo entered observer.
+[16:13:08	]Chang Huo exited observer at their location.
+[16:13:13	]Chang Huo has spawned 'models/props_c17/FurnitureWashingmachine001a.mdl'.
+[16:13:23	]Chang Huo has spawned 'models/props_junk/garbage128_composite001b.mdl'.
+[16:13:29	]Chang Huo has spawned 'models/props_junk/garbage128_composite001d.mdl'.
+[16:13:41	]Chang Huo has spawned 'models/props_c17/chair_office01a.mdl'.
+[16:13:53	]Chang Huo has spawned a usable entity class 'ix_chair' with model 'models/props_c17/chair_office01a.mdl'.
+[16:13:53	]Chang Huo has used a context menu option with the name: ixusableentitycreate
+[16:14:01	]Chang Huo has spawned 'models/props_wasteland/prison_shelf002a.mdl'.
+[16:14:16	]Chang Huo has spawned 'models/props_wasteland/cafeteria_table001a.mdl'.
+[16:14:22	]Chang Huo has spawned 'models/props_junk/wood_crate001a.mdl'.
+[16:14:29	]Chang Huo used command '/ActSit 4'.
+[16:14:31	]Chang Huo used command '/ExitAct'.
+[16:14:41	]Chang Huo has spawned 'models/props_junk/CinderBlock01a.mdl'.
+[16:14:50	]Chang Huo has spawned 'models/props_wasteland/dockplank01b.mdl'.
+[16:14:55	]Chang Huo has spawned 'models/props_interiors/Furniture_chair03a.mdl'.
+[16:15:08	]Chang Huo has spawned a usable entity class 'ix_chair' with model 'models/props_interiors/furniture_chair03a.mdl'.
+[16:15:08	]Chang Huo has used a context menu option with the name: ixusableentitycreate
+[16:15:13	]Chang Huo has used a context menu option with the name: remove
+[16:15:19	]Chang Huo has spawned 'models/props_c17/FurnitureTable003a.mdl'.
+[16:15:28	]Chang Huo has spawned 'models/props_junk/cardboard_box004a_gib01.mdl'.
+[16:15:38	]Chang Huo has spawned 'models/props_wasteland/laundry_cart002.mdl'.
+[16:15:47	]Chang Huo has spawned 'models/props_junk/TrashDumpster02b.mdl'.
+[16:15:56	]Chang Huo has spawned 'models/props_c17/SuitCase_Passenger_Physics.mdl'.
+[16:16:15	]Chang Huo has spawned 'models/props_lab/securitybank.mdl'.
+[16:16:26	]Chang Huo has spawned 'models/props_junk/glassjug01.mdl'.
+[16:16:31	]Chang Huo has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[16:16:47	]Chang Huo has spawned 'models/props_junk/wood_crate002a.mdl'.
+[16:17:00	]Chang Huo has spawned 'models/props_docks/channelmarker_gib02.mdl'.
+[16:17:04	]Chang Huo has spawned 'models/props_junk/PlasticCrate01a.mdl'.
+[16:17:12	]Chang Huo has used a context menu option with the name: ixpropviewowner
+[16:17:19	]Chang Huo has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[16:17:27	]Chang Huo has spawned 'models/props_c17/oildrum001.mdl'.
+[16:17:35	]Chang Huo has spawned 'models/props_junk/garbage128_composite001a.mdl'.
+[16:17:43	]Chang Huo has spawned 'models/props_junk/bicycle01a.mdl'.
+[16:21:08	]Chang Huo has spawned 'models/props_junk/garbage256_composite002a.mdl'.
+[16:21:13	]Chang Huo has spawned 'models/props_junk/garbage256_composite002b.mdl'.
+[16:21:25	]Chang Huo has spawned 'models/props_junk/gascan001a.mdl'.
+[16:21:27	]Chang Huo has used a context menu option with the name: ignite
+[16:21:30	]Chang Huo has used a context menu option with the name: remove
+[16:21:43	]Chang Huo has spawned 'models/props_interiors/refrigeratorDoor02a.mdl'.
+[16:21:49	]Chang Huo entered observer.
+[16:21:54	]Chang Huo exited observer at their location.
+[16:21:57	]Chang Huo entered observer.
+[16:22:04	]Chang Huo exited observer at their location.
+[16:22:13	]Chang Huo has disabled persistence for 'models/props_junk/wheebarrow01a.mdl'.
+[16:22:13	]Chang Huo has used a context menu option with the name: persist_end
+[16:22:28	]Chang Huo has enabled persistence for 'models/props_junk/wheebarrow01a.mdl'.
+[16:22:28	]Chang Huo has used a context menu option with the name: persist
+[16:22:30	]Chang Huo has used a context menu option with the name: remove
+[16:22:33	]Chang Huo entered observer.
+[16:22:37	]Chang Huo has enabled persistence for 'models/props_junk/wood_crate002a.mdl'.
+[16:22:37	]Chang Huo has used a context menu option with the name: persist
+[16:22:40	]Chang Huo has enabled persistence for 'models/props_junk/garbage256_composite002b.mdl'.
+[16:22:40	]Chang Huo has used a context menu option with the name: persist
+[16:22:42	]Chang Huo has enabled persistence for 'models/props_interiors/refrigeratordoor02a.mdl'.
+[16:22:42	]Chang Huo has used a context menu option with the name: persist
+[16:22:44	]Chang Huo has enabled persistence for 'models/props_c17/furniturewashingmachine001a.mdl'.
+[16:22:44	]Chang Huo has used a context menu option with the name: persist
+[16:22:54	]Chang Huo has used a context menu option with the name: skin
+[16:22:56	]Chang Huo has used a context menu option with the name: skin
+[16:22:57	]Chang Huo exited observer at their location.
+[16:22:58	]Chang Huo entered observer.
+[16:22:59	]Chang Huo used the 'Kupon Makinesi' vendor.
+[16:23:07	]Chang Huo has acquired his ration, gaining 0 credits, 50 wages and a trueloyal_ration ration.
+[16:23:21	]Chang Huo ran 'take' on item 'Gerçek Loyalist Rasyonu' (#20449)
+[16:23:21	]Chang Huo has gained a 'Gerçek Loyalist Rasyonu' #20449.
+[16:23:23	]Chang Huo ran 'Open' on item 'Gerçek Loyalist Rasyonu' (#20449)
+[16:23:24	]Chang Huo has gained a 'Evrensel Birlik Çikolatası' #20450.
+[16:23:24	]Chang Huo has gained a 'Somon Biftek' #20451.
+[16:23:24	]Chang Huo has gained a 'Köpüklü Breen Suyu' #20452.
+[16:23:24	]Chang Huo has gained a '20 Kredi Kuponu' #20453.
+[16:23:28	]Chang Huo exited observer at their location.
+[16:23:32	]Chang Huo ran 'Use' on item '20 Kredi Kuponu' (#20453)
+[16:23:33	]Chang Huo entered observer.
+[16:23:34	]Chang Huo exited observer at their location.
+[16:25:43	]Chang Huo entered observer.
+[16:25:45	]Chang Huo exited observer at their location.
+[16:25:49	]Chang Huo ran 'drop' on item '20 Kredi Kuponu' (#20453)
+[16:25:49	]Chang Huo has lost a '20 Kredi Kuponu' #20453.
+[16:25:52	]Chang Huo ran 'Use' on item '20 Kredi Kuponu' (#20453)
+[16:25:58	]Chang Huo ran 'take' on item '20 Kredi Kuponu' (#20453)
+[16:25:58	]Chang Huo has gained a '20 Kredi Kuponu' #20453.
+[16:26:01	]Chang Huo ran 'Use' on item '20 Kredi Kuponu' (#20453)
+[16:26:04	]Chang Huo ran 'Use' on item '20 Kredi Kuponu' (#20453)
+[16:26:06	]Chang Huo has used a coupon at a ration dispenser, gaining 20 credits.
+[16:26:15	]Chang Huo used the 'Kupon Makinesi' vendor.
+[16:26:25	]Chang Huo has gained a '50 Kredi Kuponu' #20454.
+[16:26:35	]Chang Huo ran 'Use' on item '50 Kredi Kuponu' (#20454)
+[16:26:37	]Chang Huo has used a coupon at a ration dispenser, gaining 50 credits.
+[16:26:40	]Chang Huo entered observer.
+[16:26:42	]Chang Huo exited observer at their location.
+[16:26:49	]Chang Huo has enabled persistence for 'models/props_junk/garbage128_composite001a.mdl'.
+[16:26:49	]Chang Huo has used a context menu option with the name: persist
+[16:26:50	]Chang Huo has enabled persistence for 'models/props_junk/plasticcrate01a.mdl'.
+[16:26:50	]Chang Huo has used a context menu option with the name: persist
+[16:26:57	]Chang Huo entered observer.
+[16:27:01	]Chang Huo exited observer at their location.
+[16:27:03	]Chang Huo entered observer.
+[16:27:04	]Chang Huo exited observer at their location.
+[16:27:05	]Chang Huo entered observer.
+[16:28:03	]Victorian (STEAM_0:0:577700614) has disconnected.
+[20:08:22	]Victorian has connected.
+[20:09:37	]Victorian loaded the character 'Chang Huo'
+[20:12:14	]Chang Huo entered observer.
+[20:12:15	]Chang Huo exited observer at their location.
+[20:12:16	]Chang Huo entered observer.
+[20:12:16	]Chang Huo exited observer at their location.
+[20:12:18	]Chang Huo entered observer.
+[20:12:18	]Chang Huo exited observer at their location.
+[20:12:19	]Chang Huo entered observer.
+[20:12:20	]Chang Huo exited observer at their location.
+[20:12:22	]Chang Huo entered observer.
+[20:12:23	]Chang Huo exited observer at their location.
+[20:12:23	]Chang Huo has taken 15 damage from worldspawn.
+[20:12:33	]Chang Huo used command '/GetCWUFlags'.
+[20:12:43	]Chang Huo entered observer.
+[20:12:45	]Chang Huo exited observer at their location.
+[20:12:46	]Chang Huo entered observer.
+[20:12:48	]Chang Huo exited observer at their location.
+[20:12:54	]Chang Huo entered observer.
+[20:13:00	]Chang Huo exited observer at their location.
+[20:13:15	]Chang Huo has disabled persistence for 'models/props_junk/bicycle01a.mdl'.
+[20:13:15	]Chang Huo has used a context menu option with the name: persist_end
+[20:13:20	]Chang Huo entered observer.
+[20:13:28	]Chang Huo exited observer at their location.
+[20:13:30	]Chang Huo entered observer.
+[20:13:39	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_5.mdl'.
+[20:13:43	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_4.mdl'.
+[20:13:47	]Chang Huo exited observer at their location.
+[20:13:48	]Chang Huo entered observer.
+[20:13:48	]Chang Huo exited observer at their location.
+[20:14:21	]Chang Huo has used a context menu option with the name: skin
+[20:14:23	]Chang Huo has used a context menu option with the name: skin
+[20:14:25	]Chang Huo has used a context menu option with the name: skin
+[20:14:28	]Chang Huo has used a context menu option with the name: skin
+[20:14:31	]Chang Huo has used a context menu option with the name: skin
+[20:14:34	]Chang Huo has used a context menu option with the name: skin
+[20:14:37	]Chang Huo has used a context menu option with the name: skin
+[20:14:42	]Chang Huo has used a context menu option with the name: skin
+[20:14:46	]Chang Huo has used a context menu option with the name: skin
+[20:14:50	]Chang Huo has used a context menu option with the name: skin
+[20:14:54	]Chang Huo has used a context menu option with the name: skin
+[20:14:57	]Chang Huo has used a context menu option with the name: skin
+[20:15:01	]Chang Huo has used a context menu option with the name: skin
+[20:15:05	]Chang Huo has used a context menu option with the name: skin
+[20:15:08	]Chang Huo has used a context menu option with the name: skin
+[20:15:14	]Chang Huo entered observer.
+[20:15:15	]Chang Huo exited observer at their location.
+[20:15:17	]Chang Huo entered observer.
+[20:15:18	]Chang Huo exited observer at their location.
+[20:15:19	]Chang Huo entered observer.
+[20:15:20	]Chang Huo exited observer at their location.
+[20:15:24	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[20:15:32	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[20:15:34	]Chang Huo entered observer.
+[20:18:27	]Chang Huo has used a context menu option with the name: remove
+[20:18:28	]Chang Huo exited observer at their location.
+[20:18:30	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[20:18:33	]Chang Huo entered observer.
+[20:18:38	]Chang Huo has used a context menu option with the name: skin
+[20:18:42	]Chang Huo has used a context menu option with the name: skin
+[20:24:07	]Chang Huo has gone afk.
+[20:26:02	]Chang Huo is no longer afk. Total time spent AFK: 410
+[20:26:05	]Chang Huo exited observer at their location.
+[20:26:07	]Chang Huo entered observer.
+[20:26:15	]Chang Huo exited observer at their location.
+[20:26:18	]Chang Huo has used a context menu option with the name: skin
+[20:26:21	]Chang Huo has used a context menu option with the name: skin
+[20:26:26	]Chang Huo has used a context menu option with the name: skin
+[20:26:30	]Chang Huo has used a context menu option with the name: skin
+[20:26:36	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[20:26:55	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_2.mdl'.
+[20:27:02	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[20:27:08	]Chang Huo has used a context menu option with the name: skin
+[20:27:20	]Chang Huo has used a context menu option with the name: remove
+[20:27:39	]Chang Huo has spawned a medal_progress.
+[20:27:42	]Chang Huo ran 'take' on item 'Gelişme Madalyası' (#20455)
+[20:27:42	]Chang Huo has gained a 'Gelişme Madalyası' #20455.
+[20:28:48	]Chang Huo used command '/CharDesc'.
+[20:29:22	]Chang Huo entered observer.
+[20:29:24	]Chang Huo exited observer at their location.
+[20:29:25	]Chang Huo entered observer.
+[20:29:26	]Chang Huo exited observer at their location.
+[20:29:27	]Chang Huo entered observer.
+[20:29:30	]Chang Huo exited observer at their location.
+[20:29:31	]Chang Huo entered observer.
+[20:29:31	]Chang Huo exited observer at their location.
+[20:29:33	]Chang Huo entered observer.
+[20:29:33	]Chang Huo exited observer at their location.
+[20:29:55	]Chang Huo entered observer.
+[20:29:58	]Chang Huo exited observer at their location.
+[20:29:58	]Chang Huo entered observer.
+[20:29:59	]Chang Huo exited observer at their location.
+[20:30:35	]Chang Huo entered observer.
+[20:30:36	]Chang Huo exited observer at their location.
+[20:30:40	]Chang Huo entered observer.
+[20:30:49	]Chang Huo exited observer at their location.
+[20:30:50	]Chang Huo entered observer.
+[20:30:50	]Chang Huo exited observer at their location.
+[20:30:51	]Chang Huo entered observer.
+[20:30:51	]Chang Huo exited observer at their location.
+[20:30:56	]Chang Huo entered observer.
+[20:31:00	]Chang Huo has enabled persistence for 'models/props_c17/oildrum001.mdl'.
+[20:31:00	]Chang Huo has used a context menu option with the name: persist
+[20:31:01	]Chang Huo has used a context menu option with the name: skin
+[20:31:05	]Chang Huo exited observer at their location.
+[20:31:08	]Chang Huo has enabled persistence for 'models/props_junk/wood_crate001a.mdl'.
+[20:31:08	]Chang Huo has used a context menu option with the name: persist
+[20:31:10	]Chang Huo entered observer.
+[20:31:18	]Chang Huo exited observer at their location.
+[20:31:19	]Chang Huo entered observer.
+[20:31:20	]Chang Huo exited observer at their location.
+[20:31:24	]Chang Huo entered observer.
+[20:31:37	][PICKUP DISPENSER] Victorian ( Chang Huo ) picked up an item from the pickup dispenser.
+[20:31:37	]Chang Huo has gained a 'Daire Anahtarı' #20456.
+[20:31:49	]Chang Huo exited observer at their location.
+[20:31:56	]Chang Huo entered observer.
+[20:31:56	]Chang Huo exited observer at their location.
+[20:32:06	]Chang Huo ran 'Assign' on item 'Daire Anahtarı' (#20456)
+[20:32:12	]Chang Huo ran 'Unlock' on item 'Daire Anahtarı' (#20456)
+[20:32:20	]Chang Huo entered observer.
+[20:32:22	]Chang Huo exited observer at their location.
+[20:32:23	]Chang Huo entered observer.
+[20:32:23	]Chang Huo exited observer at their location.
+[20:32:44	]Chang Huo entered observer.
+[20:32:48	]Chang Huo exited observer at their location.
+[20:32:48	]Chang Huo entered observer.
+[20:32:49	]Chang Huo exited observer at their location.
+[20:32:49	]Chang Huo entered observer.
+[20:32:49	]Chang Huo exited observer at their location.
+[20:33:14	]Chang Huo has spawned 'models/props_junk/garbage_carboard002a.mdl'.
+[20:33:27	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[20:33:36	]Chang Huo has used a context menu option with the name: skin
+[20:33:39	]Chang Huo entered observer.
+[20:33:44	]Chang Huo exited observer at their location.
+[20:33:56	]Chang Huo entered observer.
+[20:33:56	]Chang Huo exited observer at their location.
+[20:33:57	]Chang Huo entered observer.
+[20:34:07	]Chang Huo exited observer at their location.
+[20:34:10	]Chang Huo entered observer.
+[20:34:49	]Chang Huo has set the name of the 's' container (#2289) to 'Sivil Koruma Döküman ve Yönelge Dolabı'.
+[20:34:49	]Chang Huo has used a context menu option with the name: wncontainer_setname
+[20:34:59	]Chang Huo exited observer at their location.
+[20:35:09	]Chang Huo has spawned 'models/props_c17/BriefCase001a.mdl'.
+[20:35:17	]Chang Huo entered observer.
+[20:35:26	]Chang Huo exited observer at their location.
+[20:35:31	]Chang Huo entered observer.
+[20:35:33	]Chang Huo exited observer at their location.
+[20:35:34	]Chang Huo entered observer.
+[20:35:42	]Chang Huo exited observer at their location.
+[20:35:49	]Chang Huo has spawned 'models/props_c17/streetsign004f.mdl'.
+[20:37:00	]Chang Huo entered observer.
+[20:37:16	]Chang Huo exited observer at their location.
+[20:37:18	]Chang Huo entered observer.
+[20:37:43	]Chang Huo exited observer at their location.
+[20:38:03	]Chang Huo entered observer.
+[20:38:12	]Chang Huo exited observer at their location.
+[20:38:14	]Chang Huo entered observer.
+[20:38:16	]Chang Huo exited observer at their location.
+[20:38:17	]Chang Huo entered observer.
+[20:38:19	]Chang Huo exited observer at their location.
+[20:38:22	]Chang Huo has used a context menu option with the name: ixpropviewowner
+[20:38:27	]Chang Huo entered observer.
+[20:38:31	]Chang Huo exited observer at their location.
+[20:38:34	]Chang Huo entered observer.
+[20:38:36	]Chang Huo exited observer at their location.
+[20:38:43	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_4.mdl'.
+[20:38:51	]Chang Huo entered observer.
+[20:38:54	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_2.mdl'.
+[20:38:56	]Chang Huo exited observer at their location.
+[20:38:57	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[20:39:00	]Chang Huo entered observer.
+[20:39:01	]Chang Huo exited observer at their location.
+[20:39:04	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_2.mdl'.
+[20:39:11	]Chang Huo has used a context menu option with the name: skin
+[20:39:14	]Chang Huo has used a context menu option with the name: skin
+[20:39:16	]Chang Huo has used a context menu option with the name: skin
+[20:39:19	]Chang Huo has used a context menu option with the name: skin
+[20:39:21	]Chang Huo has used a context menu option with the name: skin
+[20:39:25	]Chang Huo has used a context menu option with the name: skin
+[20:39:29	]Chang Huo has used a context menu option with the name: skin
+[20:39:33	]Chang Huo has used a context menu option with the name: skin
+[20:39:37	]Chang Huo has used a context menu option with the name: skin
+[20:39:41	]Chang Huo has used a context menu option with the name: skin
+[20:39:44	]Chang Huo has used a context menu option with the name: skin
+[20:39:48	]Chang Huo has used a context menu option with the name: skin
+[20:39:52	]Chang Huo has used a context menu option with the name: skin
+[20:39:55	]Chang Huo has used a context menu option with the name: skin
+[20:40:01	]Chang Huo has used a context menu option with the name: skin
+[20:40:03	]Chang Huo has used a context menu option with the name: skin
+[20:40:06	]Chang Huo entered observer.
+[20:40:21	]Chang Huo exited observer at their location.
+[20:40:23	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[20:40:33	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[20:40:43	]Chang Huo entered observer.
+[20:40:47	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[20:40:50	]Chang Huo exited observer at their location.
+[20:40:51	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[20:41:07	]Chang Huo entered observer.
+[20:41:28	]Chang Huo exited observer at their location.
+[20:41:29	]Chang Huo entered observer.
+[20:41:29	]Chang Huo exited observer at their location.
+[20:44:02	]Chang Huo entered observer.
+[20:44:06	]Chang Huo exited observer at their location.
+[20:44:10	]Chang Huo entered observer.
+[20:44:10	]Chang Huo exited observer at their location.
+[20:44:13	]Chang Huo entered observer.
+[20:44:16	]Chang Huo exited observer at their location.
+[20:44:25	]Chang Huo has used a context menu option with the name: skin
+[20:44:28	]Chang Huo has used a context menu option with the name: skin
+[20:44:31	]Chang Huo has used a context menu option with the name: skin
+[20:44:36	]Chang Huo entered observer.
+[20:44:38	]Chang Huo exited observer at their location.
+[20:44:41	]Chang Huo entered observer.
+[20:44:42	]Chang Huo exited observer at their location.
+[20:44:43	]Chang Huo entered observer.
+[20:44:45	]Chang Huo exited observer at their location.
+[20:44:57	]Chang Huo entered observer.
+[20:45:00	]Chang Huo exited observer at their location.
+[20:45:05	]Chang Huo has spawned 'models/props_lab/corkboard002.mdl'.
+[20:45:23	]Chang Huo has spawned 'models/props_c17/FurnitureMattress001a.mdl'.
+[20:45:39	]Chang Huo has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[20:45:40	]Chang Huo entered observer.
+[20:45:47	]Chang Huo exited observer at their location.
+[20:45:50	]Chang Huo entered observer.
+[20:45:56	]Chang Huo exited observer at their location.
+[20:46:07	]Chang Huo has spawned a 'Entity [4544][ix_computer]'.
+[20:46:09	]Chang Huo entered observer.
+[20:46:36	]Chang Huo exited observer at their location.
+[20:46:58	]Chang Huo has spawned 'models/props_interiors/books01.mdl'.
+[20:47:05	]Chang Huo has spawned 'models/props_lab/binderblue.mdl'.
+[20:47:16	]Chang Huo has spawned 'models/props_lab/binderbluelabel.mdl'.
+[20:47:30	]Chang Huo has enabled persistence for 'models/props_lab/binderbluelabel.mdl'.
+[20:47:30	]Chang Huo has used a context menu option with the name: persist
+[20:47:31	]Chang Huo has enabled persistence for 'models/props_lab/binderblue.mdl'.
+[20:47:31	]Chang Huo has used a context menu option with the name: persist
+[20:47:32	]Chang Huo has enabled persistence for 'models/props_wasteland/controlroom_desk001b.mdl'.
+[20:47:32	]Chang Huo has used a context menu option with the name: persist
+[20:47:43	]Chang Huo has spawned a 'Entity [4453][ix_newspaperprinter]'.
+[20:47:58	]Chang Huo has spawned 'models/props_junk/garbage_newspaper001a.mdl'.
+[20:48:03	]Chang Huo has enabled persistence for 'models/props_junk/garbage_newspaper001a.mdl'.
+[20:48:03	]Chang Huo has used a context menu option with the name: persist
+[20:48:22	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_1.mdl'.
+[20:48:27	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[20:48:30	]Chang Huo entered observer.
+[20:48:31	]Chang Huo exited observer at their location.
+[20:48:33	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[20:48:41	]Chang Huo entered observer.
+[20:48:43	]Chang Huo exited observer at their location.
+[20:48:57	]Chang Huo has spawned 'models/props_c17/FurnitureDrawer002a.mdl'.
+[20:49:04	]Chang Huo has spawned 'models/props_combine/breenbust.mdl'.
+[20:49:06	]Chang Huo entered observer.
+[20:49:09	]Chang Huo exited observer at their location.
+[20:49:11	]Chang Huo entered observer.
+[20:49:12	]Chang Huo exited observer at their location.
+[20:49:14	]Chang Huo entered observer.
+[20:49:15	]Chang Huo exited observer at their location.
+[20:49:21	]Chang Huo entered observer.
+[20:49:24	]Chang Huo exited observer at their location.
+[20:49:26	]Chang Huo entered observer.
+[20:49:28	]Chang Huo exited observer at their location.
+[20:49:50	]Chang Huo has spawned a file_cabinet.
+[20:50:03	]Chang Huo entered observer.
+[20:50:04	]Chang Huo exited observer at their location.
+[20:50:16	]Chang Huo ran 'take' on item 'File Cabinet' (#20457)
+[20:50:16	]Chang Huo has gained a 'File Cabinet' #20457.
+[20:50:23	]Chang Huo ran 'drop' on item 'File Cabinet' (#20457)
+[20:50:23	]Chang Huo has lost a 'File Cabinet' #20457.
+[20:50:44	]Chang Huo has used a context menu option with the name: remove
+[20:50:50	]Chang Huo has spawned 'models/props_lab/filecabinet02.mdl'.
+[20:50:58	]Chang Huo created a 'File Cabinet' container.
+[20:50:58	]Chang Huo has used a context menu option with the name: wncontainer_create
+[20:51:08	]Chang Huo has set the name of the 'File Cabinet' container (#2818) to 'Basın ve Arşiv'.
+[20:51:08	]Chang Huo has used a context menu option with the name: wncontainer_setname
+[20:51:21	]Chang Huo has set the 'Basın ve Arşiv' container (#2818) to private, owned by 'character[485]'.
+[20:51:21	]Chang Huo has used a context menu option with the name: wncontainer_setprivate
+[20:51:30	]Chang Huo has set the password of the 'Basın ve Arşiv' container (#2818).
+[20:51:30	]Chang Huo has used a context menu option with the name: wncontainer_setpassword
+[20:55:16	]Chang Huo entered observer.
+[20:55:20	]Chang Huo exited observer at their location.
+[20:55:37	]Chang Huo ran 'Consume' on item 'Evrensel Birlik Çikolatası' (#20450)
+[20:55:37	]Chang Huo has gained a 'Plastik Çöp' #20458.
+[20:55:51	]Chang Huo entered observer.
+[20:55:53	]Chang Huo exited observer at their location.
+[20:56:02	]Chang Huo entered observer.
+[20:56:07	]Chang Huo exited observer at their location.
+[20:56:13	]Chang Huo ran 'Unlock' on item 'Daire Anahtarı' (#20456)
+[20:56:17	]Chang Huo ran 'Lock' on item 'Daire Anahtarı' (#20456)
+[21:01:32	]Chang Huo has gone afk.
+[21:01:37	]Chang Huo is no longer afk. Total time spent AFK: 300
+[21:01:41	]Chang Huo entered observer.
+[21:01:45	]Chang Huo exited observer at their location.
+[21:02:05	]Chang Huo entered observer.
+[21:02:09	]Chang Huo exited observer at their location.
+[21:02:13	][PICKUP DISPENSER] Victorian ( Chang Huo ) picked up an item from the pickup dispenser.
+[21:02:13	]Chang Huo has gained a 'Daire Anahtarı' #20459.
+[21:02:30	]Chang Huo ran 'RemoveCID' on item 'Daire Anahtarı' (#20456)
+[21:02:33	]Chang Huo ran 'RemoveTenant' on item 'Daire Anahtarı' (#20456)
+[21:02:35	]Chang Huo ran 'drop' on item 'Daire Anahtarı' (#20456)
+[21:02:35	]Chang Huo has lost a 'Daire Anahtarı' #20456.
+[21:02:38	]Chang Huo has used a context menu option with the name: remove
+[21:02:40	]Chang Huo entered observer.
+[21:02:52	]Chang Huo exited observer at their location.
+[21:02:57	]Chang Huo ran 'Unlock' on item 'Daire Anahtarı' (#20459)
+[21:03:07	]Chang Huo ran 'Lock' on item 'Daire Anahtarı' (#20459)
+[21:03:16	]Chang Huo has spawned 'models/willardnetworks/posters/wn_portrait_2.mdl'.
+[21:03:23	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_2.mdl'.
+[21:03:31	]Chang Huo has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[21:03:36	]Chang Huo has spawned 'models/willardnetworks/posters/wn_portrait_2.mdl'.
+[21:03:39	]Chang Huo has spawned 'models/willardnetworks/posters/wn_portrait_1.mdl'.
+[21:03:42	]Chang Huo has spawned 'models/willardnetworks/posters/wn_portrait_3.mdl'.
+[21:03:56	]Chang Huo has spawned 'models/props_c17/FurnitureTable003a.mdl'.
+[21:03:58	]Chang Huo entered observer.
+[21:04:03	]Chang Huo has spawned 'models/props_c17/FurnitureCouch002a.mdl'.
+[21:04:24	]Chang Huo has used a context menu option with the name: ixpropviewowner
+[21:04:33	]Chang Huo has used a context menu option with the name: ixpropviewowner
+[21:05:01	]Chang Huo has used a context menu option with the name: remove
+[21:05:02	]Chang Huo has used a context menu option with the name: remove
+[21:05:38	]Chang Huo has spawned a musicradio2.
+[21:05:57	]Chang Huo has spawned a television.
+[21:06:01	]Chang Huo ran 'Place' on item 'Television' (#20461)
+[21:06:10	]Chang Huo exited observer at their location.
+[21:06:12	]Chang Huo has spawned 'models/props_c17/FurnitureTable003a.mdl'.
+[21:06:17	]Chang Huo has spawned 'models/props_c17/FurnitureDrawer003a.mdl'.
+[21:06:20	]Chang Huo has spawned 'models/props_c17/FurnitureTable003a.mdl'.
+[21:06:34	]Chang Huo entered observer.
+[21:06:42	]Chang Huo exited observer at their location.
+[21:06:46	]Chang Huo entered observer.
+[21:06:47	]Chang Huo has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[21:06:50	]Chang Huo exited observer at their location.
+[21:07:02	]Chang Huo has used a context menu option with the name: remove
+[21:07:04	]Chang Huo has spawned 'models/props_c17/FurnitureCouch002a.mdl'.
+[21:07:40	]Chang Huo has spawned 'models/props/de_house/bed_rustic.mdl'.
+[21:07:41	]Chang Huo entered observer.
+[21:07:54	]Chang Huo has spawned 'models/props_interiors/table_bedside.mdl'.
+[21:07:55	]Chang Huo exited observer at their location.
+[21:07:59	]Chang Huo has used a context menu option with the name: remove
+[21:08:32	]Chang Huo entered observer.
+[21:08:37	]Chang Huo exited observer at their location.
+[21:08:38	]Chang Huo entered observer.
+[21:08:44	]Chang Huo exited observer at their location.
+[21:08:47	]Chang Huo has spawned 'models/props/de_house/bed_rustic.mdl'.
+[21:08:56	]Chang Huo entered observer.
+[21:08:58	]Chang Huo has spawned 'models/props/de_house/bed_rustic.mdl'.
+[21:09:02	]Chang Huo exited observer at their location.
+[21:09:02	]Chang Huo entered observer.
+[21:09:03	]Chang Huo exited observer at their location.
+[21:09:14	]Chang Huo has spawned 'models/props_c17/FurnitureDresser001a.mdl'.
+[21:09:16	]Chang Huo entered observer.
+[21:09:17	]Chang Huo exited observer at their location.
+[21:09:19	]Chang Huo entered observer.
+[21:09:19	]Chang Huo exited observer at their location.
+[21:09:21	]Chang Huo has spawned 'models/props_c17/FurnitureDrawer001a.mdl'.
+[21:09:29	]Chang Huo has spawned 'models/props_combine/breenbust.mdl'.
+[21:09:32	]Chang Huo has spawned 'models/props_combine/breenbust.mdl'.
+[21:09:35	]Chang Huo entered observer.
+[21:10:07	]Chang Huo is fully healed.
+[21:10:18	]Chang Huo exited observer at their location.
+[21:10:26	]Chang Huo has spawned a worker_uniform.
+[21:10:34	]Chang Huo entered observer.
+[21:10:39	]Chang Huo has used a context menu option with the name: remove
+[21:10:40	]Chang Huo exited observer at their location.
+[21:10:46	]Chang Huo has used a context menu option with the name: remove
+[21:10:56	]Chang Huo has spawned a suitcase.
+[21:11:23	]Chang Huo has spawned a refrigerator.
+[21:11:29	]Chang Huo has used a context menu option with the name: remove
+[21:11:30	]Chang Huo entered observer.
+[21:11:38	]Chang Huo has spawned 'models/props/de_house/bed_rustic.mdl'.
+[21:11:42	]Chang Huo exited observer at their location.
+[21:11:58	]Chang Huo entered observer.
+[21:11:59	]Chang Huo exited observer at their location.
+[21:12:02	]Chang Huo has spawned a refrigerator.
+[21:12:06	]Chang Huo ran 'take' on item 'Refrigerator' (#20465)
+[21:12:11	]Chang Huo ran 'Consume' on item 'Somon Biftek' (#20451)
+[21:12:11	]Chang Huo has wasted a level 5 long boost in Zeka (current: 2; target: 5).
+[21:12:11	]Chang Huo has wasted a level 5 long boost in Algı (current: 2; target: 5).
+[21:12:15	]Chang Huo ran 'take' on item 'Refrigerator' (#20465)
+[21:12:15	]Chang Huo has gained a 'Refrigerator' #20465.
+[21:12:18	]Chang Huo ran 'Place' on item 'Refrigerator' (#20465)
+[21:12:24	]Chang Huo created a 'Refrigerator' container.
+[21:12:34	]Chang Huo opened the 'Refrigerator' #2820 container.
+[21:12:38	]Chang Huo has transferred a 'Köpüklü Breen Suyu' #20452 to a container with the name 'Refrigerator' #2820.
+[21:12:39	]Chang Huo closed the 'Refrigerator' #2820 container.
+[21:12:47	]Chang Huo has enabled persistence for 'models/props_interiors/table_bedside.mdl'.
+[21:12:47	]Chang Huo has used a context menu option with the name: persist
+[21:12:49	]Chang Huo has enabled persistence for 'models/props_c17/furniturecouch002a.mdl'.
+[21:12:49	]Chang Huo has used a context menu option with the name: persist
+[21:12:50	]Chang Huo has enabled persistence for 'models/props/de_house/bed_rustic.mdl'.
+[21:12:50	]Chang Huo has used a context menu option with the name: persist
+[21:12:53	]Chang Huo ran 'take' on item 'Vintage Radio' (#20460)
+[21:12:53	]Chang Huo has gained a 'Vintage Radio' #20460.
+[21:12:57	]Chang Huo ran 'Deploy' on item 'Vintage Radio' (#20460)
+[21:13:44	]Chang Huo entered observer.
+[21:13:54	]Chang Huo exited observer at their location.
+[21:13:54	]Chang Huo entered observer.
+[21:14:02	]Chang Huo opened the 'Large Metal Cabinet' #2147 container.
+[21:14:05	]Chang Huo closed the 'Large Metal Cabinet' #2147 container.
+[21:14:07	]Chang Huo exited observer at their location.
+[21:14:07	]Chang Huo entered observer.
+[21:14:08	]Chang Huo exited observer at their location.
+[21:14:10	]Chang Huo entered observer.
+[21:14:11	]Chang Huo exited observer at their location.
+[21:16:09	][IC] Chang Huo: Sa.
+[21:16:10	]Chang Huo entered observer.
+[21:16:18	]Chang Huo exited observer at their location.
+[21:16:19	]Chang Huo entered observer.
+[21:16:35	]Chang Huo has used a context menu option with the name: ixpropviewowner
+[21:16:36	]Chang Huo exited observer at their location.
+[21:16:39	]Chang Huo entered observer.
+[21:16:53	]Chang Huo exited observer at their location.
+[21:22:07	]Chang Huo has gone afk.
+[21:22:22	]Chang Huo is no longer afk. Total time spent AFK: 310
+[21:22:26	]Victorian (STEAM_0:0:577700614) has disconnected.

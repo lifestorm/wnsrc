@@ -1,0 +1,40 @@
+"UnlitGeneric"
+{
+	$basetexture "models/tfa/lbeam/lwhi"
+	$translucent "1"
+	$additive "1"
+
+	$color2 "[1 0 0]"
+	$c2base "[1 0 0]"
+	$c2mult "0.8"
+	$scrollrate "10"
+
+	Proxies // proxies are listed inside this block
+	{
+		TFALaserColor
+		{
+			resultVar $c2base
+		}
+		Multiply {
+			srcVar1 $c2base
+			srcVar2 $c2mult
+			resultVar $color2
+		}
+		UniformNoise {
+			minVal 0.7
+			maxVal 0.8
+			resultVar $c2mult
+		}
+		UniformNoise {
+			minVal 5
+			maxVal 10
+			resultVar $scrollrate
+		}
+		TextureScroll
+		{
+			textureScrollVar $basetexturetransform
+			textureScrollRate $scrollrate
+			textureScrollAngle 90
+		}
+	}
+}

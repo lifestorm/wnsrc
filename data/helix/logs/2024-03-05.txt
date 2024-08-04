@@ -1,0 +1,1239 @@
+[01:32:46	]Cheese has connected.
+[01:33:02	][AltChecker] Cheese joined for the first time, generating new cookie.
+[01:39:58	]Enistein has connected.
+[01:40:33	]Enistein loaded the character 'Theodore Abernathy'
+[01:40:36	]Theodore Abernathy entered observer.
+[01:40:38	]Theodore Abernathy exited observer at their location.
+[01:40:48	]Theodore Abernathy entered observer.
+[01:40:48	]Theodore Abernathy exited observer at their location.
+[01:40:49	]Theodore Abernathy entered observer.
+[01:41:09	]Theodore Abernathy exited observer at their location.
+[01:41:16	]Theodore Abernathy entered observer.
+[01:41:17	]Theodore Abernathy exited observer at their location.
+[01:41:18	]Theodore Abernathy entered observer.
+[01:41:35	]Theodore Abernathy exited observer at their location.
+[01:41:45	]Theodore Abernathy entered observer.
+[01:41:47	]Theodore Abernathy exited observer at their location.
+[01:42:08	]Theodore Abernathy entered observer.
+[01:42:08	]Theodore Abernathy exited observer at their location.
+[01:42:09	]Theodore Abernathy entered observer.
+[01:42:13	]Theodore Abernathy exited observer at their location.
+[01:42:21	]Theodore Abernathy entered observer.
+[01:42:25	]Theodore Abernathy exited observer at their location.
+[01:43:34	]Theodore Abernathy entered observer.
+[01:43:44	]Theodore Abernathy exited observer at their location.
+[01:44:12	]Theodore Abernathy entered observer.
+[01:44:30	]Theodore Abernathy exited observer at their location.
+[01:44:30	]Theodore Abernathy entered observer.
+[01:44:31	]Theodore Abernathy exited observer at their location.
+[01:44:37	]Theodore Abernathy entered observer.
+[01:44:38	]Theodore Abernathy exited observer at their location.
+[01:44:38	]Theodore Abernathy entered observer.
+[01:44:55	]Theodore Abernathy exited observer at their location.
+[01:44:55	]Theodore Abernathy entered observer.
+[01:44:56	]Theodore Abernathy exited observer at their location.
+[01:44:58	]Theodore Abernathy entered observer.
+[01:44:59	]Theodore Abernathy exited observer at their location.
+[01:45:00	]Theodore Abernathy entered observer.
+[01:45:30	]Theodore Abernathy exited observer at their location.
+[01:45:30	]Theodore Abernathy entered observer.
+[01:49:29	]Cheese created the character 'Alfred Bust'
+[01:49:29	]Cheese loaded the character 'Alfred Bust'
+[01:49:29	]Alfred Bust has gained a 'Açık Gri Kol Bandı' #69436.
+[01:49:29	]Alfred Bust has gained a '#45799 Kimlik Kartı' #69437.
+[01:49:29	]Alfred Bust has gained a 'Gri Tulum' #69438.
+[01:49:29	]Alfred Bust has gained a 'Gri tulum pantolonu' #69439.
+[01:49:29	]Alfred Bust has gained a 'Eskimiş Kahverengi Ayakkabı' #69440.
+[01:49:29	]Alfred Bust has gained a 'Gözlükler' #69441.
+[01:49:59	]Theodore Abernathy exited observer at their location.
+[01:49:59	]Theodore Abernathy entered observer.
+[01:50:04	]Theodore Abernathy exited observer at their location.
+[01:50:33	]Theodore Abernathy used command '/ActLean 2'.
+[01:50:38	]Theodore Abernathy used command '/ActLean 2'.
+[01:50:51	][ENG] Alfred Bust: selam
+[01:51:08	][ENG] Alfred Bust: selamün aleyküm
+[01:51:24	][ENG] Alfred Bust: hello friend how are you doing today
+[01:52:25	]Theodore Abernathy has used a context menu option with the name: rb655_door_unlock
+[01:52:26	]Theodore Abernathy has used a context menu option with the name: rb655_door_open
+[01:52:40	]Theodore Abernathy used command '/ActLean 2'.
+[01:52:41	]Theodore Abernathy used command '/ActInjured'.
+[01:52:44	][IC] Alfred Bust: Naber zenci.
+[01:52:53	]Theodore Abernathy used command '/ExitAct'.
+[01:53:58	]Theodore Abernathy entered observer.
+[01:54:00	]Theodore Abernathy exited observer at their location.
+[01:54:03	]Theodore Abernathy entered observer.
+[01:54:03	]Theodore Abernathy exited observer at their location.
+[01:54:09	]Theodore Abernathy ran SAM command 'setrank' with arguments: 'alfred' 'server_admin'
+[01:54:11	]Alfred Bust entered observer.
+[01:54:13	]Alfred Bust exited observer at their location.
+[01:54:14	]Alfred Bust entered observer.
+[01:54:15	]Alfred Bust exited observer at their location.
+[01:54:17	]Alfred Bust entered observer.
+[01:54:17	]Alfred Bust exited observer at their location.
+[01:54:18	]Theodore Abernathy ran SAM command 'menu' with arguments: ''
+[01:54:30	][IC] Theodore Abernathy: Yaralıyım.
+[01:54:34	][IC] Theodore Abernathy: Yaralı.
+[01:54:35	][IC] Theodore Abernathy: Wounded.
+[01:54:35	][IC] Alfred Bust: Yaralıyım.
+[01:54:44	]Theodore Abernathy entered observer.
+[01:54:47	]Alfred Bust entered observer.
+[01:54:55	]Theodore Abernathy exited observer at their location.
+[01:54:56	]Alfred Bust exited observer at their location.
+[01:56:56	]Theodore Abernathy entered observer.
+[01:57:06	]Theodore Abernathy exited observer at their location.
+[01:57:08	]Theodore Abernathy entered observer.
+[01:57:09	]Theodore Abernathy exited observer at their location.
+[01:57:25	][ME] Alfred Bust: şu beyaz zenciyi görünce kaçmaya başlar
+[01:58:29	]Theodore Abernathy used command '/ActLean 2'.
+[01:58:34	]Theodore Abernathy used command '/PlaySoundGlobal npc/combine_soldier/vo/suspectisfunny.wav'.
+[01:59:15	]Theodore Abernathy entered observer.
+[01:59:17	]Theodore Abernathy exited observer at their location.
+[01:59:24	]Theodore Abernathy used command '/gravityevent'.
+[01:59:41	][IC] Alfred Bust: HELAL OLSUN AMINA KOYDUMUN.
+[02:00:00	]Alfred Bust has taken 30 damage from worldspawn.
+[02:00:43	]Enistein has unloaded their "Theodore Abernathy" character.
+[02:00:49	]Enistein loaded the character 'S10:Disp:AI-1'
+[02:00:54	]S10:Disp:AI-1 is fully healed.
+[02:00:58	]S10:Disp:AI-1 used command '/Dispatch CONSPIRACY'.
+[02:01:53	]S10:Disp:AI-1 used command '/Datafile Alfred Bust'.
+[02:01:54	]Enistein has unloaded their "S10:Disp:AI-1" character.
+[02:02:09	]Enistein loaded the character 'C24:i5.UNION-79'
+[02:02:22	]C24:i5.UNION-79 has changed C24:i5.UNION-79's bodygroups.
+[02:02:30	][IC] C24:i5.UNION-79: <:: Vatandaş. ::>
+[02:02:41	][IC] C24:i5.UNION-79: <:: Buna inanmamı beklemiyorsun herhalde? ::>
+[02:02:56	][IC] C24:i5.UNION-79: <:: Seni bir ortak olarak seçmek zorunda kaldım. ::>
+[02:03:09	]C24:i5.UNION-79 entered observer.
+[02:03:11	]C24:i5.UNION-79 exited observer at their location.
+[02:03:14	]C24:i5.UNION-79 used command '/Doorkick'.
+[02:03:18	]Alfred Bust used command '/CharFallOver'.
+[02:03:26	]C24:i5.UNION-79 has gained level 17 in the Hız skill.
+[02:04:06	][IC] C24:i5.UNION-79: <:: Karın benden nefret ediyor, öyle değil mi? ::>
+[02:04:11	]Alfred Bust used command '/CharGetUp'.
+[02:04:23	][IC] C24:i5.UNION-79: <:: Karın benden nefret ediyor, öyle değil mi? ::>
+[02:04:38	]Enistein has unloaded their "C24:i5.UNION-79" character.
+[02:04:42	]Enistein loaded the character 'S10/OWS.GHOST-81'
+[02:04:45	]S10/OWS.GHOST-81 entered observer.
+[02:04:46	]S10/OWS.GHOST-81 exited observer at their location.
+[02:04:47	]S10/OWS.GHOST-81 entered observer.
+[02:04:48	]S10/OWS.GHOST-81 exited observer at their location.
+[02:04:52	]Alfred Bust entered observer.
+[02:04:52	]Alfred Bust exited observer at their location.
+[02:04:55	][IC] S10/OWS.GHOST-81: <:: He's kicking it. ::>
+[02:05:00	][IC] S10/OWS.GHOST-81: <:: Overwatch says stop kicking it. ::>
+[02:05:02	][IC] S10/OWS.GHOST-81: <:: He stopped kicking it. ::>
+[02:05:13	][IC] S10/OWS.GHOST-81: <:: Tam aktif. ::>
+[02:05:33	][IC] S10/OWS.GHOST-81: <:: GHOST. ::>
+[02:05:39	][IC] S10/OWS.GHOST-81: <:: GHOST. ::>
+[02:06:16	][IC] S10/OWS.GHOST-81: <:: GHOST. -;  eight. One. ::>
+[02:07:31	]Enistein (STEAM_0:1:98500861) has disconnected.
+[02:10:22	]Glunar has connected.
+[02:10:44	][AltChecker] Glunar joined for the first time, generating new cookie.
+[02:11:34	]Enistein has connected.
+[02:12:18	]Enistein loaded the character 'Theodore Abernathy'
+[02:13:29	]Alfred Bust has gone afk.
+[02:20:09	]Alfred Bust is no longer afk. Total time spent AFK: 695
+[02:20:21	]Alfred Bust entered observer.
+[02:20:28	]Alfred Bust exited observer at their location.
+[02:25:25	]Alfred Bust opened the 'Çöp Konteyneri' #6449 container.
+[02:25:26	]Alfred Bust closed the 'Çöp Konteyneri' #6449 container.
+[02:30:16	]Theodore Abernathy entered observer.
+[02:31:38	]Theodore Abernathy exited observer at their location.
+[02:31:39	]Theodore Abernathy entered observer.
+[02:33:19	]Glunar created the character 'Nick White'
+[02:33:19	]Glunar loaded the character 'Nick White'
+[02:33:20	]Nick White has gained a 'Açık Gri Kol Bandı' #69442.
+[02:33:20	]Nick White has gained a '#48860 Kimlik Kartı' #69443.
+[02:33:20	]Nick White has gained a 'Sivil Tulum' #69444.
+[02:33:20	]Nick White has gained a 'Tulum pantolonu.' #69445.
+[02:33:20	]Nick White has gained a 'Kahverengi Deri Çizme' #69446.
+[02:33:30	]Theodore Abernathy exited observer at their location.
+[02:33:35	]Theodore Abernathy ran SAM command 'setrank' with arguments: 'nick' 'server_admin'
+[02:33:39	]Theodore Abernathy entered observer.
+[02:33:49	]Glunar has unloaded their "Nick White" character.
+[02:33:55	]Glunar (STEAM_0:1:173730794) deleted character 'Nick White'
+[02:33:59	]Cheese (STEAM_0:0:54092302) has disconnected (timed out).
+[02:34:01	]Theodore Abernathy exited observer at their location.
+[02:34:02	]Theodore Abernathy entered observer.
+[02:34:11	]Theodore Abernathy exited observer at their location.
+[02:34:13	]Theodore Abernathy entered observer.
+[02:35:46	]Theodore Abernathy set charCreateInterval to '1'.
+[02:37:18	]Glunar created the character 'Nick Durman'
+[02:37:18	]Glunar loaded the character 'Nick Durman'
+[02:37:18	]Nick Durman has gained a 'Açık Gri Kol Bandı' #69447.
+[02:37:18	]Nick Durman has gained a '#51923 Kimlik Kartı' #69448.
+[02:37:18	]Nick Durman has gained a 'Sivil Tulum' #69449.
+[02:37:18	]Nick Durman has gained a 'Tulum pantolonu.' #69450.
+[02:37:18	]Nick Durman has gained a 'Kahverengi Deri Çizme' #69451.
+[02:37:29	]Theodore Abernathy exited observer at their location.
+[02:37:32	]Theodore Abernathy entered observer.
+[02:37:32	]Theodore Abernathy exited observer at their location.
+[02:37:43	]Theodore Abernathy used command '/CharDesc'.
+[02:38:22	]Theodore Abernathy has spawned a 'NPC [5106][npc_vj_hl2_combine_elit]'.
+[02:38:22	]Theodore Abernathy has taken 10 damage from Combine Elite.
+[02:38:22	]Theodore Abernathy has taken 10 damage from Combine Elite.
+[02:38:23	]Theodore Abernathy has taken 10 damage from Combine Elite.
+[02:38:23	]Theodore Abernathy has taken 10 damage from Combine Elite.
+[02:38:39	]Enistein has unloaded their "Theodore Abernathy" character.
+[02:38:43	]Enistein loaded the character 'S10/OWS.GHOST-81'
+[02:38:45	]S10/OWS.GHOST-81 entered observer.
+[02:38:49	]S10/OWS.GHOST-81 exited observer at their location.
+[02:39:09	]S10/OWS.GHOST-81 has given himself a uniform_charger.
+[02:39:09	]S10/OWS.GHOST-81 has gained a 'OTA Yıkıcı Üniforması' #69452.
+[02:39:12	]S10/OWS.GHOST-81 ran 'drop' on item 'OTA Mask' (#51811)
+[02:39:12	]S10/OWS.GHOST-81 has lost a 'OTA Mask' #51811.
+[02:39:13	]S10/OWS.GHOST-81 ran 'drop' on item 'OTA Üniforması' (#51810)
+[02:39:13	]S10/OWS.GHOST-81 has lost a 'OTA Üniforması' #51810.
+[02:39:18	]S10/OWS.GHOST-81 ran 'take' on item 'OTA Mask' (#51811)
+[02:39:18	]S10/OWS.GHOST-81 has gained a 'OTA Mask' #51811.
+[02:39:21	]S10/OWS.GHOST-81 ran 'take' on item 'OTA Üniforması' (#51810)
+[02:39:25	]S10/OWS.GHOST-81 has used a context menu option with the name: remove
+[02:39:31	]S10/OWS.GHOST-81 ran SAM command 'scale' with arguments: '^' '1.2'
+[02:41:27	]Nick Durman entered observer.
+[02:41:28	]Nick Durman exited observer.
+[02:41:30	]Nick Durman entered observer.
+[02:41:30	]Nick Durman exited observer.
+[02:42:31	]S10/OWS.GHOST-81 entered observer.
+[02:42:31	]S10/OWS.GHOST-81 exited observer at their location.
+[02:43:36	]Nick Durman has acquired his ration, gaining 0 credits, 0 wages and a ration ration.
+[02:43:50	]Nick Durman ran 'Open' on item 'Rasyon' (#69453)
+[02:43:50	]Nick Durman has gained a 'Yapay Macun' #69454.
+[02:43:50	]Nick Durman has gained a 'Breen'in Suyu' #69455.
+[02:43:50	]Nick Durman has gained a '15 Kredi Kuponu' #69456.
+[02:45:06	]Nick Durman entered observer.
+[02:45:06	]Nick Durman exited observer.
+[02:45:09	]Nick Durman entered observer.
+[02:45:11	]Nick Durman exited observer.
+[02:46:15	]S10/OWS.GHOST-81 entered observer.
+[02:46:21	]S10/OWS.GHOST-81 exited observer at their location.
+[02:46:28	]S10/OWS.GHOST-81 entered observer.
+[02:46:30	]S10/OWS.GHOST-81 exited observer at their location.
+[02:46:35	]S10/OWS.GHOST-81 entered observer.
+[02:46:36	]S10/OWS.GHOST-81 exited observer at their location.
+[02:46:36	]S10/OWS.GHOST-81 entered observer.
+[02:46:37	]S10/OWS.GHOST-81 exited observer at their location.
+[02:46:41	]S10/OWS.GHOST-81 entered observer.
+[02:46:48	]Nick Durman entered observer.
+[02:46:48	]Nick Durman exited observer.
+[02:46:49	]Nick Durman entered observer.
+[02:46:50	]Nick Durman exited observer.
+[02:47:02	]Nick Durman entered observer.
+[02:47:17	]S10/OWS.GHOST-81 exited observer at their location.
+[02:47:18	]S10/OWS.GHOST-81 entered observer.
+[02:47:18	]S10/OWS.GHOST-81 exited observer at their location.
+[02:47:19	]S10/OWS.GHOST-81 entered observer.
+[02:47:20	]S10/OWS.GHOST-81 exited observer at their location.
+[02:47:20	]S10/OWS.GHOST-81 entered observer.
+[02:47:21	]S10/OWS.GHOST-81 exited observer at their location.
+[02:47:21	]S10/OWS.GHOST-81 entered observer.
+[02:47:22	]S10/OWS.GHOST-81 exited observer at their location.
+[02:47:23	]Nick Durman exited observer at their location.
+[02:47:50	]Nick Durman ran 'Use' on item '15 Kredi Kuponu' (#69456)
+[02:47:53	]Nick Durman has used a coupon at a ration dispenser, gaining 15 credits.
+[02:49:16	]S10/OWS.GHOST-81 rolled 12 out of 20 (+0 from Güç).
+[02:49:16	]S10/OWS.GHOST-81 used command '/Roll strength'.
+[02:49:21	]Nick Durman rolled 19 out of 20 (+5 from Güç).
+[02:49:21	]Nick Durman used command '/Roll strength'.
+[02:50:07	]S10/OWS.GHOST-81 entered observer.
+[02:50:10	]S10/OWS.GHOST-81 exited observer at their location.
+[02:50:15	]Nick Durman ran 'take' on item 'Çelik' (#69459)
+[02:50:15	]Nick Durman has gained a 'Çelik' #69459.
+[02:50:17	]Nick Durman ran 'take' on item 'Vida Kutusu' (#69458)
+[02:50:17	]Nick Durman has gained a 'Vida Kutusu' #69458.
+[02:50:20	]Nick Durman ran 'take' on item 'Bitki Saksısı' (#69457)
+[02:50:20	]Nick Durman has gained a 'Bitki Saksısı' #69457.
+[02:50:54	]Nick Durman destroyed a 'Boş Breen'in Suyu' #68457.
+[02:51:38	]Nick Durman ran 'take' on item 'Boş Breen'in Suyu' (#69460)
+[02:51:38	]Nick Durman has gained a 'Boş Breen'in Suyu' #69460.
+[02:51:42	]Nick Durman ran 'drop' on item 'Boş Breen'in Suyu' (#69460)
+[02:51:42	]Nick Durman has lost a 'Boş Breen'in Suyu' #69460.
+[02:53:05	]Nick Durman entered observer.
+[02:53:47	]Nick Durman exited observer at their location.
+[02:53:48	]Nick Durman entered observer.
+[02:53:48	]Nick Durman exited observer at their location.
+[02:53:50	]Nick Durman entered observer.
+[02:53:50	]Nick Durman exited observer at their location.
+[02:54:04	]Nick Durman ran 'take' on item 'Kırık Klavye' (#69462)
+[02:54:04	]Nick Durman has gained a 'Kırık Klavye' #69462.
+[02:54:06	]Nick Durman ran 'take' on item 'Elektronik devreler' (#69463)
+[02:54:06	]Nick Durman has gained a 'Elektronik devreler' #69463.
+[02:54:08	]Nick Durman ran 'take' on item 'Demir' (#69464)
+[02:54:08	]Nick Durman has gained a 'Demir' #69464.
+[02:54:17	]Nick Durman ran 'drop' on item 'Demir' (#69464)
+[02:54:17	]Nick Durman has lost a 'Demir' #69464.
+[02:54:18	]Nick Durman ran 'take' on item 'Demir' (#69464)
+[02:54:18	]Nick Durman has gained a 'Demir' #69464.
+[02:55:08	]Nick Durman ran 'Write' on item 'Direnişe Katıl' (#69435)
+[02:55:12	]Nick Durman ran 'Write' on item 'Direnişe Katıl' (#69435)
+[02:55:16	]Nick Durman ran 'Write' on item 'Direnişe Katıl' (#69435)
+[02:56:43	]S10/OWS.GHOST-81 has gone afk.
+[02:58:50	]Nick Durman has gained a 'Boş Breen'in Suyu' #69465.
+[02:59:04	]Nick Durman has gained a 'Küçük Karton Kutu' #69466.
+[02:59:43	]Nick Durman has performed the 'Craft Parçala: Boş Breen'in Suyu' action, gaining 20 experience in crafting.
+[02:59:43	]Nick Durman has gained a 'Plastik Çöp' #69467.
+[03:00:23	]S10/OWS.GHOST-81 is no longer afk. Total time spent AFK: 515
+[03:00:27	]Nick Durman ran 'take' on item 'Kırık Klavye' (#69468)
+[03:00:27	]Nick Durman has gained a 'Kırık Klavye' #69468.
+[03:00:57	]Nick Durman has gained a 'Boş Şarap Şişesi' #69469.
+[03:01:45	]Nick Durman entered observer.
+[03:01:59	]Nick Durman exited observer at their location.
+[03:02:02	]Nick Durman entered observer.
+[03:02:04	]Nick Durman exited observer at their location.
+[03:02:45	]Nick Durman entered observer.
+[03:02:55	]Nick Durman exited observer at their location.
+[03:04:13	]Nick Durman entered observer.
+[03:04:28	]Nick Durman exited observer at their location.
+[03:04:29	]Nick Durman entered observer.
+[03:05:53	]S10/OWS.GHOST-81 has gone afk.
+[03:06:10	]Nick Durman exited observer at their location.
+[03:06:11	]Nick Durman entered observer.
+[03:06:16	]Nick Durman exited observer at their location.
+[03:06:30	]Nick Durman entered observer.
+[03:06:30	]Nick Durman exited observer at their location.
+[03:06:31	]Nick Durman entered observer.
+[03:06:31	]Nick Durman exited observer at their location.
+[03:06:35	]Nick Durman entered observer.
+[03:06:35	]Nick Durman exited observer at their location.
+[03:06:40	]Nick Durman entered observer.
+[03:06:40	]Nick Durman exited observer at their location.
+[03:06:48	]Nick Durman entered observer.
+[03:06:50	]Nick Durman exited observer at their location.
+[03:06:50	]Nick Durman entered observer.
+[03:06:52	]Nick Durman exited observer at their location.
+[03:06:52	]Nick Durman entered observer.
+[03:06:53	]Nick Durman exited observer at their location.
+[03:07:21	]S10/OWS.GHOST-81 is no longer afk. Total time spent AFK: 385
+[03:07:21	]S10/OWS.GHOST-81 ran SAM command 'goto' with arguments: 'nick'
+[03:09:58	]Nick Durman entered observer.
+[03:09:59	]Nick Durman exited observer at their location.
+[03:10:03	]Nick Durman entered observer.
+[03:10:05	]Nick Durman exited observer at their location.
+[03:11:28	]Nick Durman destroyed a 'Bitki Saksısı' #69470.
+[03:11:29	]Nick Durman destroyed a 'Yapıştırıcı' #69472.
+[03:12:19	]Nick Durman entered observer.
+[03:12:43	]S10/OWS.GHOST-81 has gone afk.
+[03:12:49	]Nick Durman exited observer at their location.
+[03:12:57	]Nick Durman entered observer.
+[03:12:58	]Nick Durman exited observer at their location.
+[03:13:11	]Nick Durman ran 'take' on item 'Tıbbi Direnişçi Üniforması' (#65534)
+[03:13:11	]Nick Durman has gained a 'Tıbbi Direnişçi Üniforması' #65534.
+[03:13:18	]Nick Durman ran 'drop' on item 'Tıbbi Direnişçi Üniforması' (#65534)
+[03:13:18	]Nick Durman has lost a 'Tıbbi Direnişçi Üniforması' #65534.
+[03:13:41	]Nick Durman entered observer.
+[03:13:47	]Nick Durman exited observer at their location.
+[03:13:56	]Nick Durman entered observer.
+[03:14:00	]Nick Durman exited observer at their location.
+[03:14:00	]Nick Durman entered observer.
+[03:14:01	]Nick Durman exited observer at their location.
+[03:14:34	]Nick Durman entered observer.
+[03:14:35	]Nick Durman exited observer at their location.
+[03:14:36	]Nick Durman entered observer.
+[03:14:38	]Nick Durman exited observer at their location.
+[03:14:39	]Nick Durman entered observer.
+[03:14:40	]Nick Durman exited observer at their location.
+[03:14:41	]Nick Durman entered observer.
+[03:14:44	]Nick Durman exited observer at their location.
+[03:14:45	]Nick Durman entered observer.
+[03:14:55	]Nick Durman exited observer at their location.
+[03:14:56	]Nick Durman entered observer.
+[03:14:56	]Nick Durman exited observer at their location.
+[03:15:12	]Nick Durman entered observer.
+[03:15:12	]Nick Durman exited observer at their location.
+[03:15:30	]Nick Durman entered observer.
+[03:15:31	]Nick Durman exited observer at their location.
+[03:16:02	]Nick Durman has gained a 'Boş Votka Şişesi' #69473.
+[03:16:40	]Nick Durman ran 'take' on item 'Boş Süt Kartonu' (#69474)
+[03:16:40	]Nick Durman has gained a 'Boş Süt Kartonu' #69474.
+[03:16:45	]Nick Durman ran 'take' on item 'Bez Paçavralar' (#69475)
+[03:16:45	]Nick Durman has gained a 'Bez Paçavralar' #69475.
+[03:17:23	]Nick Durman entered observer.
+[03:17:26	]Nick Durman exited observer at their location.
+[03:17:30	]Nick Durman entered observer.
+[03:17:32	]Nick Durman exited observer at their location.
+[03:17:34	]Nick Durman entered observer.
+[03:17:35	]Nick Durman exited observer at their location.
+[03:17:36	]Nick Durman entered observer.
+[03:17:36	]Nick Durman exited observer at their location.
+[03:18:10	]Nick Durman entered observer.
+[03:18:25	]Nick Durman exited observer at their location.
+[03:18:28	]Nick Durman entered observer.
+[03:18:41	]Nick Durman exited observer at their location.
+[03:18:41	]Nick Durman entered observer.
+[03:18:41	]Nick Durman exited observer at their location.
+[03:18:45	]S10/OWS.GHOST-81 is no longer afk. Total time spent AFK: 660
+[03:18:45	]S10/OWS.GHOST-81 ran SAM command 'goto' with arguments: 'nick'
+[03:18:45	]Nick Durman entered observer.
+[03:18:45	]Nick Durman exited observer at their location.
+[03:19:29	]Nick Durman entered observer.
+[03:19:39	]Nick Durman exited observer at their location.
+[03:19:40	]Nick Durman entered observer.
+[03:19:40	]Nick Durman exited observer at their location.
+[03:19:57	]Nick Durman ran 'take' on item 'Bez Paçavralar' (#69478)
+[03:19:57	]Nick Durman has gained a 'Bez Paçavralar' #69478.
+[03:20:00	]Nick Durman destroyed a 'Arıtıcı' #69479.
+[03:20:08	]Nick Durman destroyed a 'Plastik Kova' #69477.
+[03:20:20	]S10/OWS.GHOST-81 ran SAM command 'goto' with arguments: 'nick'
+[03:20:25	][IC] S10/OWS.GHOST-81: <:: Nigga. ::>
+[03:20:29	]S10/OWS.GHOST-81 ran 'combine' on item 'Pulse Rifle Enerjisi' (#58633)
+[03:20:49	][IC] S10/OWS.GHOST-81: <:: Hostile is hesitating, hostile is hesitating, hostile is hesitating, hostile is hesitating! ::>
+[03:21:19	][IC] Nick Durman: Strider!
+[03:21:27	][IC] Nick Durman: Strider!
+[03:21:34	]Enistein has unloaded their "S10/OWS.GHOST-81" character.
+[03:21:39	][IC] Nick Durman: Strider!
+[03:21:40	]Enistein loaded the character 'Maya Morgan'
+[03:21:45	]Maya Morgan is fully healed.
+[03:21:46	]Nick Durman destroyed a 'Arıtıcı' #69482.
+[03:21:46	]Maya Morgan ran SAM command 'goto' with arguments: 'nick'
+[03:21:46	]Nick Durman destroyed a 'Boş Plastik Sürahi' #69480.
+[03:21:48	]Nick Durman ran 'take' on item 'Hurda Metal' (#69481)
+[03:21:48	]Nick Durman has gained a 'Hurda Metal' #69481.
+[03:21:50	][IC] Maya Morgan: Strider, evet, strider, evet!
+[03:22:05	]Maya Morgan used command '/CharDesc'.
+[03:22:11	][IC] Nick Durman: Naber dostum.
+[03:22:14	][IC] Maya Morgan: İyi dost, sen.
+[03:22:18	][IC] Nick Durman: Combine bitirmeliiyiz.
+[03:22:22	][IC] Maya Morgan: Aynen kanka.
+[03:22:28	][IC] Nick Durman: Fakat çok güçlüler.
+[03:22:31	][IC] Nick Durman: Orospu çocukları.
+[03:22:34	][IC] Maya Morgan: Strider, aaaaaaaah, evet, strider, aaaaaaaah!
+[03:22:42	][IC] Nick Durman: Cheese.
+[03:22:46	][IC] Nick Durman: Dream about cheese.
+[03:22:49	][IC] Nick Durman: Peynir.
+[03:22:51	][IC] Maya Morgan: Kokusunu alıyor musun? Bu özgürlük!
+[03:23:09	][IC] Maya Morgan: Kendi zehrinin tadı nasılmış?
+[03:23:15	][IC] Maya Morgan: Arkanda!
+[03:23:20	]Enistein has unloaded their "Maya Morgan" character.
+[03:23:27	]Enistein loaded the character 'Norgaun'
+[03:23:29	]Norgaun entered observer.
+[03:23:32	]Norgaun is fully healed.
+[03:23:34	]Norgaun exited observer at their location.
+[03:23:37	][IC] Norgaun: Sustenance!
+[03:23:42	][IC] Norgaun: My brain is injured!
+[03:23:46	][IC] Norgaun: I have a brain injury.
+[03:23:55	][IC] Norgaun: Shaaaaa!
+[03:24:07	][IC] Nick Durman: Benden tavsiye, kendine sakla.
+[03:24:15	][IC] Nick Durman: Bu Combine piçleri pes etmiyor!
+[03:24:17	][IC] Nick Durman: Bu Combine piçleri pes etmiyor!
+[03:24:19	][IC] Nick Durman: Bu Combine piçleri pes etmiyor!
+[03:24:23	][IC] Nick Durman: Bu Combine piçleri pes etmiyor!
+[03:24:24	][IC] Nick Durman: Bu Combine piçleri pes etmiyor!
+[03:24:26	][IC] Norgaun: A human is needed!
+[03:24:27	]Cheese has connected.
+[03:24:34	][IC] Norgaun: We have endured these chafing bonds for eons, yet a single moment of further servitude seems intolerable!
+[03:24:52	][IC] Norgaun: Sustenance!
+[03:25:58	][IC] Norgaun: Turr, lung gurr chalachurr gunn, gong lurr..
+[03:26:13	][IC] Norgaun: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[03:26:57	][IC] Norgaun: Excellent!
+[03:27:17	]Norgaun entered observer.
+[03:27:17	]Norgaun exited observer at their location.
+[03:27:31	][IC] Nick Durman: Bundan sonra bir portalı gördüğümde direkt içine atlıyorum. Her yer buradan daha iyi olmalı.
+[03:27:31	][IC] Norgaun: Expect ever-greater resistance as we proceed.
+[03:27:33	][IC] Nick Durman: Bundan sonra bir portalı gördüğümde direkt içine atlıyorum. Her yer buradan daha iyi olmalı.
+[03:27:37	]Cheese created the character 'Sarah Goodwell'
+[03:27:37	]Sarah Goodwell has gained a 'Açık Gri Kol Bandı' #69483.
+[03:27:37	]Sarah Goodwell has gained a '#54988 Kimlik Kartı' #69484.
+[03:27:37	]Sarah Goodwell has gained a 'Sivil Tulum' #69485.
+[03:27:37	]Sarah Goodwell has gained a 'Gri tulum pantolonu' #69486.
+[03:27:37	]Sarah Goodwell has gained a 'Kahverengi Deri Çizme' #69487.
+[03:27:37	]Cheese loaded the character 'Sarah Goodwell'
+[03:27:43	]Enistein has unloaded their "Norgaun" character.
+[03:27:44	][IC] Nick Durman: Tanrım... Vort'ları hiç bu kadar sinirli görmemiştim!
+[03:27:46	]Enistein loaded the character 'Theodore Abernathy'
+[03:27:50	]Theodore Abernathy ran SAM command 'goto' with arguments: 'nick'
+[03:27:54	][IC] Nick Durman: Tanrım... Vort'ları hiç bu kadar sinirli görmemiştim!
+[03:27:56	][IC] Theodore Abernathy: Bundan sonra bir portalı gördüğümde direkt içine atlıyorum. Her yer buradan daha iyi olmalı.
+[03:28:07	][IC] Theodore Abernathy: Bütün bunlar bittiğinde, çocuk yapacağım.
+[03:28:15	][IC] Theodore Abernathy: Bütün bunlar bittiğinde, çocuk yapacağım.
+[03:28:16	][IC] Theodore Abernathy: Bütün bunlar bittiğinde, çocuk yapacağım.
+[03:28:17	][IC] Theodore Abernathy: Bütün bunlar bittiğinde, çocuk yapacağım.
+[03:28:20	][IC] Nick Durman: Türkçe konuş!
+[03:28:25	]Sarah Goodwell entered observer.
+[03:28:30	][IC] Theodore Abernathy: Türkçe konuş!
+[03:28:40	][IC] Nick Durman: Sana çeneni kapatmanı bile söylemeyeceğim!
+[03:28:41	]Sarah Goodwell exited observer at their location.
+[03:28:44	][IC] Theodore Abernathy: Geri çekil! Patlayacak!
+[03:28:50	][ME] Theodore Abernathy: cums
+[03:28:50	]Sarah Goodwell entered observer.
+[03:28:55	]Sarah Goodwell exited observer at their location.
+[03:28:56	]Sarah Goodwell entered observer.
+[03:29:22	][IC] Theodore Abernathy: Hissediyor musun? Ben hissediyorum!
+[03:29:26	][IC] Nick Durman: Bunu çok yüksek sesle söylemeyeceğim...
+[03:29:38	][IC] Nick Durman: Vort'lar seni çağırıyor!
+[03:29:39	]Theodore Abernathy ran SAM command 'hp' with arguments: '^' '100'
+[03:29:41	]Theodore Abernathy is fully healed.
+[03:29:50	][IC] Theodore Abernathy: Şarjör değiştirirken beni koruyun!
+[03:30:01	][IC] Nick Durman: En son ne zaman duş aldığımı hatırlamıyorum.
+[03:30:21	]Nick Durman destroyed a 'Boş Kavanoz' #69488.
+[03:30:23	]Nick Durman ran 'take' on item 'Hurda Metal' (#69489)
+[03:30:23	]Nick Durman has gained a 'Hurda Metal' #69489.
+[03:30:46	]Sarah Goodwell exited observer at their location.
+[03:30:46	]Nick Durman ran 'take' on item 'Elektronik devreler' (#69492)
+[03:30:46	]Nick Durman has gained a 'Elektronik devreler' #69492.
+[03:30:59	]Nick Durman destroyed a 'Boş Breen'in Suyu' #69494.
+[03:31:00	]Nick Durman destroyed a 'Plastik Levhalar' #69493.
+[03:31:02	]Nick Durman destroyed a 'Plastik Çöp' #69495.
+[03:31:03	]Nick Durman destroyed a 'Yapıştırıcı' #69496.
+[03:31:04	]Nick Durman destroyed a 'Boş Votka Şişesi' #69491.
+[03:32:40	]Theodore Abernathy has spawned 'models/Humans/Group01/male_06.mdl'.
+[03:32:55	]Nick Durman destroyed a 'Hurda Metal' #69498.
+[03:32:56	]Nick Durman destroyed a 'Boş Kavanoz' #69497.
+[03:32:57	]Nick Durman destroyed a 'Yapıştırıcı' #69499.
+[03:33:00	]Theodore Abernathy entered observer.
+[03:33:02	]Theodore Abernathy exited observer at their location.
+[03:33:03	]Sarah Goodwell entered observer.
+[03:33:08	]Sarah Goodwell exited observer at their location.
+[03:33:09	]Nick Durman destroyed a 'Demir' #69502.
+[03:33:11	]Nick Durman destroyed a 'Kırık Alıcı' #69500.
+[03:33:13	]Nick Durman destroyed a 'Elektronik devreler' #69501.
+[03:33:53	][IC] Theodore Abernathy: Evet, evet, evet, evet, evet, evet,.
+[03:34:11	]Enistein has unloaded their "Theodore Abernathy" character.
+[03:34:15	]Enistein loaded the character 'Maya Morgan'
+[03:34:31	]Maya Morgan entered observer.
+[03:34:34	]Maya Morgan exited observer at their location.
+[03:35:09	]Nick Durman destroyed a 'Vida Kutusu' #69504.
+[03:35:54	]Enistein has unloaded their "Maya Morgan" character.
+[03:36:00	]Enistein loaded the character 'Norgaun'
+[03:36:04	]Norgaun entered observer.
+[03:36:08	]Norgaun exited observer at their location.
+[03:37:09	]Norgaun used command '/EnterMeditation'.
+[03:37:14	]Norgaun used command '/ActIdle'.
+[03:37:35	]Norgaun used command '/ExitAct'.
+[03:37:37	]Norgaun used command '/EnterMeditation'.
+[03:37:49	]Norgaun has given himself a ing_xen_extract.
+[03:37:49	]Norgaun has gained a 'Antlion Özü' #69506.
+[03:37:51	]Norgaun ran 'Consume' on item 'Antlion Özü' (#69506)
+[03:38:58	]Sarah Goodwell was knocked unconscious and is bleeding out.
+[03:38:58	][VORT] Norgaun has damaged Sarah Goodwell, dealing 999 with vortbeam
+[03:39:13	]Norgaun ran SAM command 'respawn' with arguments: 'sarah'
+[03:39:17	]Sarah Goodwell is fully healed.
+[03:44:30	]Norgaun has gone afk.
+[03:44:48	]Nick Durman has gone afk.
+[03:44:58	]Norgaun used command '/ToggleVortalVision'.
+[03:44:59	]Norgaun used command '/ToggleVortalVision'.
+[03:44:59	]Norgaun used command '/ToggleVortalVision'.
+[03:45:00	]Norgaun is no longer afk. Total time spent AFK: 325
+[03:45:01	]Norgaun used command '/ToggleVortalVision'.
+[03:45:12	]Norgaun used command '/VortStun'.
+[03:45:14	]Norgaun used command '/VortStun'.
+[03:45:18	]Nick Durman is no longer afk. Total time spent AFK: 325
+[03:46:43	]Sarah Goodwell has taken 15 damage from Norgaun.
+[03:46:43	][VORT] Norgaun has damaged Sarah Goodwell dealing 15 with vortpyro
+[03:46:44	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:44	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:44	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:44	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:44	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:45	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:45	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:45	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:45	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:45	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:46	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:46	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:46	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:46	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:46	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:47	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:47	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:47	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:47	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:47	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:48	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:48	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:48	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:48	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:48	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:49	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:49	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:49	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:49	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:49	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:50	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:50	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:50	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:50	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:50	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:51	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:51	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:51	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:51	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:51	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:52	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:52	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:52	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:52	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:52	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:53	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:53	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:53	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:53	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:53	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:54	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:54	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:54	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:54	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:54	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:55	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:55	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:55	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:55	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:46:55	]Sarah Goodwell has taken 1 damage from entityflame.
+[03:47:04	][VORT] Norgaun has healed Sarah Goodwell
+[03:47:08	]Norgaun used command '/VortStun'.
+[03:47:10	]Norgaun used command '/VortStun'.
+[03:48:24	]Norgaun entered observer.
+[03:48:25	]Norgaun exited observer at their location.
+[03:48:27	]Norgaun entered observer.
+[03:48:28	]Norgaun exited observer at their location.
+[03:49:42	]Norgaun entered observer.
+[03:49:48	]Norgaun exited observer at their location.
+[03:49:49	]Norgaun entered observer.
+[03:49:50	]Norgaun exited observer at their location.
+[03:50:20	]Norgaun has gained level 8 in the Hız skill.
+[03:50:55	]Norgaun entered observer.
+[03:50:55	]Norgaun exited observer at their location.
+[03:51:57	]Norgaun used command '/PlaySoundGlobal wnt/sosyostatuartti.mp3'.
+[03:52:44	]Norgaun used command '/PlaySound music/sad/religiouschant.ogg 500'.
+[03:52:49	]Norgaun used command '/EnterMeditation'.
+[03:52:50	]Norgaun used command '/ActIdle'.
+[03:54:47	]Nick Durman ran 'drop' on item 'Boş Şarap Şişesi' (#69469)
+[03:54:47	]Nick Durman has lost a 'Boş Şarap Şişesi' #69469.
+[03:55:37	]Sarah Goodwell has gone afk.
+[03:55:46	]Norgaun ran SAM command 'stopsound' with arguments: ''
+[03:55:47	]Norgaun used command '/ExitAct'.
+[03:55:49	]Norgaun used command '/EnterMeditation'.
+[03:55:51	]Nick Durman ran 'take' on item 'Boş Şarap Şişesi' (#69469)
+[03:55:51	]Nick Durman has gained a 'Boş Şarap Şişesi' #69469.
+[03:55:59	]Norgaun used command '/PlaySound music/sad/goodbye.mp3 500'.
+[03:56:25	]Norgaun ran SAM command 'stopsound' with arguments: ''
+[03:56:33	]Norgaun used command '/PlaySound music/scary_tense/zombies_sleeping.mp3 500'.
+[03:57:39	]Norgaun ran SAM command 'stopsound' with arguments: ''
+[03:57:49	]Norgaun used command '/PlaySoundGlobal music/battle/battle1-breachescape-remix.ogg'.
+[04:00:22	]Sarah Goodwell is no longer afk. Total time spent AFK: 580
+[04:01:56	]Nick Durman has gone afk.
+[04:02:16	]Nick Durman is no longer afk. Total time spent AFK: 315
+[04:05:56	]Sarah Goodwell entered observer.
+[04:06:14	]Sarah Goodwell exited observer at their location.
+[04:06:34	]Nick Durman used command '/PlyGiveFlag nick pet'.
+[04:06:49	]Nick Durman has spawned 'models/props_interiors/Furniture_Couch02a.mdl'.
+[04:07:13	]Norgaun entered observer.
+[04:07:21	]Norgaun used command '/Play3DSound ambience/speech/breencast/breencast_uncertainty.ogg 110'.
+[04:07:24	]Norgaun exited observer at their location.
+[04:07:25	]Norgaun entered observer.
+[04:07:26	]Norgaun exited observer at their location.
+[04:07:57	]Nick Durman has spawned 'models/props_interiors/lamp_table02.mdl'.
+[04:08:07	]Nick Durman has spawned 'models/props_c17/SuitCase001a.mdl'.
+[04:09:06	]Norgaun has fired a toolgun with the name: duplicator
+[04:09:07	]Norgaun has fired a toolgun with the name: duplicator
+[04:09:08	]Norgaun has fired a toolgun with the name: duplicator
+[04:09:09	]Norgaun has fired a toolgun with the name: duplicator
+[04:09:23	]Norgaun has used a context menu option with the name: rb655_dissolve
+[04:09:25	]Norgaun has used a context menu option with the name: rb655_dissolve
+[04:09:27	]Norgaun has used a context menu option with the name: rb655_dissolve
+[04:09:27	]Nick Durman has spawned 'models/props_c17/SuitCase001a.mdl'.
+[04:09:39	]Norgaun has fired a toolgun with the name: duplicator
+[04:09:39	]Norgaun has spawned 'models/props_phx/box_torpedo.mdl'.
+[04:09:39	]Norgaun has spawned 'models/props_phx/torpedo.mdl'.
+[04:09:48	]Norgaun used command '/CharFallOver 0.1'.
+[04:10:11	]Nick Durman has spawned 'models/props_c17/tv_monitor01.mdl'.
+[04:10:24	]Nick Durman has spawned 'models/props_c17/playground_swingset_seat01a.mdl'.
+[04:10:33	]Nick Durman has spawned 'models/props_junk/garbage_newspaper001a.mdl'.
+[04:10:34	]Nick Durman has spawned 'models/props_junk/garbage_bag001a.mdl'.
+[04:10:40	]Nick Durman has spawned 'models/props_lab/harddrive02.mdl'.
+[04:10:50	]Nick Durman has fired a toolgun with the name: material
+[04:10:52	]Nick Durman has fired a toolgun with the name: material
+[04:10:55	]Nick Durman has fired a toolgun with the name: colour
+[04:10:57	]Nick Durman has fired a toolgun with the name: colour
+[04:10:58	]Nick Durman has fired a toolgun with the name: colour
+[04:11:11	]Nick Durman has fired a toolgun with the name: nocollide
+[04:11:11	]Nick Durman has fired a toolgun with the name: nocollide
+[04:11:12	]Nick Durman has fired a toolgun with the name: nocollide
+[04:11:12	]Nick Durman has fired a toolgun with the name: nocollide
+[04:11:42	][IC] Sarah Goodwell: Körüm.
+[04:12:03	]Nick Durman has fired a toolgun with the name: colour
+[04:12:07	]Nick Durman has fired a toolgun with the name: colour
+[04:12:14	]Nick Durman has fired a toolgun with the name: colour
+[04:12:16	]Nick Durman has fired a toolgun with the name: colour
+[04:12:19	]Nick Durman has fired a toolgun with the name: colour
+[04:12:25	]Nick Durman has fired a toolgun with the name: light
+[04:12:28	]Nick Durman has fired a toolgun with the name: light
+[04:12:29	]Nick Durman has fired a toolgun with the name: light
+[04:12:31	]Nick Durman has fired a toolgun with the name: light
+[04:12:34	]Nick Durman has fired a toolgun with the name: colour
+[04:12:37	]Nick Durman has fired a toolgun with the name: colour
+[04:12:49	]Nick Durman has spawned 'models/props_junk/PopCan01a.mdl'.
+[04:13:03	]Nick Durman has spawned 'models/props_c17/streetsign003b.mdl'.
+[04:13:15	]Nick Durman has spawned 'models/props_junk/Shoe001a.mdl'.
+[04:13:17	]Nick Durman has spawned 'models/props_lab/desklamp01.mdl'.
+[04:13:19	][IC] Norgaun: Sustenance!
+[04:13:31	]Nick Durman has spawned 'models/props_lab/huladoll.mdl'.
+[04:14:03	]Nick Durman has spawned 'models\props/CS_militia/axe.mdl'.
+[04:14:53	]Norgaun entered observer.
+[04:15:00	]Norgaun used command '/Play3DSound ambience/3d-sounds/screams/scream3.wav 110'.
+[04:15:00	]Nick Durman has spawned 'models\props/CS_militia/paintbucket01.mdl'.
+[04:15:02	]Norgaun exited observer at their location.
+[04:15:05	]Nick Durman has spawned 'models\props/cs_office/Snowman_hat.mdl'.
+[04:15:17	]Enistein has unloaded their "Norgaun" character.
+[04:15:17	]Nick Durman has spawned 'models\props/cs_office/plant01.mdl'.
+[04:15:19	]Nick Durman has spawned 'models\props/cs_office/plant01.mdl'.
+[04:15:32	]Nick Durman has spawned 'models\props/cs_office/trash_can_p8.mdl'.
+[04:15:35	]Enistein loaded the character 'Enistein'
+[04:15:39	]Enistein entered observer.
+[04:15:40	]Enistein is fully healed.
+[04:15:43	]Enistein exited observer at their location.
+[04:16:02	]Nick Durman has spawned 'models\props/cs_office/Cardboard_box03.mdl'.
+[04:16:11	]Nick Durman entered observer.
+[04:16:11	]Nick Durman exited observer at their location.
+[04:16:17	]Nick Durman has spawned 'models\props/cs_office/offcertificatea.mdl'.
+[04:16:21	]Nick Durman has spawned 'models\props/cs_office/offpaintingl.mdl'.
+[04:16:50	][IC] Sarah Goodwell: Yetkili.
+[04:17:03	]Nick Durman has spawned 'models/nova/w_headcrab.mdl'.
+[04:17:19	]Nick Durman entered observer.
+[04:17:22	]Nick Durman exited observer at their location.
+[04:17:32	]Nick Durman has spawned 'models/props_combine/breenclock.mdl'.
+[04:18:13	]Nick Durman has spawned 'models/props_junk/garbage_carboard002a.mdl'.
+[04:18:45	]Nick Durman has spawned 'models/props_junk/TrafficCone001a.mdl'.
+[04:18:57	]Nick Durman has spawned 'models/props_junk/garbage_coffeemug001a.mdl'.
+[04:19:03	]Enistein used command '/CharSetModel enistein models/vj_hlr/hl1/hassassin.mdl'.
+[04:20:08	]Enistein used command '/CharSetModel enistein models/vj_hlr/hl1/osprey.mdl'.
+[04:20:50	]Enistein used command '/CharSetModel enistein models/vj_hlr/hl1/islave.mdl'.
+[04:21:03	]Glunar (STEAM_0:1:173730794) has disconnected (timed out).
+[04:21:04	]Enistein used command '/CharSetModel enistein models/vj_hlr/opfor/penguin.mdl'.
+[04:21:34	]Enistein used command '/CharSetModel enistein models/vj_hlr/hl1/chumtoad.mdl'.
+[04:21:44	]Enistein entered observer.
+[04:21:52	]Enistein exited observer at their location.
+[04:22:19	]Enistein has spawned a 'NPC [5112][npc_vj_hlrdc_keller]'.
+[04:22:44	]Enistein used command '/CharSetModel enistein npc_vj_hlrdc_keller'.
+[04:22:56	][IC] Sarah Goodwell: Kaplumbağacık.
+[04:23:17	]Enistein used command '/CharSetModel enistein models/vj_hlr/decay/wheelchair_sci.mdl'.
+[04:23:46	]Glunar has connected.
+[04:23:51	]Enistein entered observer.
+[04:23:55	]Enistein exited observer at their location.
+[04:24:17	][IC] Enistein: Sir.
+[04:24:19	][IC] Enistein: One hot dog please.
+[04:24:24	][IC] Sarah Goodwell: Kapalıyız.
+[04:24:27	][IC] Enistein: Please.
+[04:24:30	][IC] Enistein: Me hungry.
+[04:24:35	]Glunar loaded the character 'Nick Durman'
+[04:24:41	][IC] Sarah Goodwell: I don't speak english.
+[04:24:48	][IC] Enistein: Açim.
+[04:24:54	]Nick Durman entered observer.
+[04:25:02	]Nick Durman exited observer at their location.
+[04:25:02	]Nick Durman entered observer.
+[04:25:03	]Nick Durman exited observer at their location.
+[04:25:03	]Nick Durman entered observer.
+[04:25:04	]Nick Durman exited observer at their location.
+[04:25:11	][IC] Sarah Goodwell: Kendin alabilirsin.
+[04:25:28	][IC] Enistein: Ben felç.
+[04:25:32	][IC] Enistein: Konuşmak zor.
+[04:25:35	][IC] Enistein: Bana yemek vermek.
+[04:25:44	][IC] Enistein: ALŞHIKAOS?NJKAH.
+[04:25:45	][ME] Enistein: standda duran hotdogları ağzıyla kapıp kaçmaya başlar
+[04:26:13	]Enistein used command '/CharFallOver 0.1'.
+[04:26:19	]Enistein used command '/CharFallOver 0.1'.
+[04:26:23	]Nick Durman has spawned 'models/wn/soldier.mdl'.
+[04:26:31	]Nick Durman has spawned 'models/wn/suppressor.mdl'.
+[04:27:00	]Enistein has fired a toolgun with the name: duplicator
+[04:27:00	]Enistein has spawned 'models/wn/suppressor.mdl'.
+[04:27:07	]Enistein has used a context menu option with the name: rb655_make_animatable
+[04:27:24	]Nick Durman has spawned 'models/wn/ota_shotgunner.mdl'.
+[04:27:33	]Nick Durman has spawned 'models/wn/wallhammer.mdl'.
+[04:27:36	]Nick Durman has spawned 'models/industrial_uniforms/industrial_uniform2.mdl'.
+[04:29:16	]Sarah Goodwell entered observer.
+[04:29:17	]Sarah Goodwell exited observer at their location.
+[04:29:27	]Enistein entered observer.
+[04:29:27	]Enistein exited observer at their location.
+[04:29:31	]Enistein used command '/PlyGiveFlag sarah pet'.
+[04:29:36	]Nick Durman has spawned 'models/vj_hlr/sven/tor.mdl'.
+[04:29:43	]Sarah Goodwell has fired a toolgun with the name: camera
+[04:29:53	]Enistein has used a context menu option with the name: bodygroups
+[04:29:54	]Enistein has used a context menu option with the name: bodygroups
+[04:29:56	]Enistein has used a context menu option with the name: skin
+[04:30:01	]Nick Durman has used a context menu option with the name: skin
+[04:30:13	]Nick Durman has spawned 'models/vj_hlr/hl1/charger.mdl'.
+[04:30:24	]Enistein has spawned 'models/willardnetworks/props_combine/resin_puck.mdl'.
+[04:30:27	]Enistein has spawned 'models/willardnetworks/posters/wn_poster_4.mdl'.
+[04:30:30	]Enistein has spawned 'models/willardnetworks/posters/wn_poster_5.mdl'.
+[04:30:32	]Enistein has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[04:30:33	]Enistein has spawned 'models/willardnetworks/posters/wn_poster_2.mdl'.
+[04:30:35	]Enistein has spawned 'models/willardnetworks/posters/wn_poster_4.mdl'.
+[04:30:37	]Enistein has used a context menu option with the name: skin
+[04:30:43	][IC] Nick Durman: Fleshlight.
+[04:30:44	]Enistein has used a context menu option with the name: skin
+[04:30:56	]Enistein has used a context menu option with the name: skin
+[04:31:00	]Enistein has used a context menu option with the name: skin
+[04:31:05	]Enistein has used a context menu option with the name: skin
+[04:31:08	]Enistein has used a context menu option with the name: skin
+[04:31:11	]Enistein has used a context menu option with the name: skin
+[04:31:12	]Nick Durman has used a context menu option with the name: skin
+[04:31:15	]Nick Durman has used a context menu option with the name: skin
+[04:31:15	]Enistein has used a context menu option with the name: skin
+[04:31:20	]Nick Durman has used a context menu option with the name: skin
+[04:31:26	]Enistein has used a context menu option with the name: skin
+[04:31:26	]Nick Durman has used a context menu option with the name: skin
+[04:31:31	]Enistein has used a context menu option with the name: skin
+[04:31:35	]Enistein has used a context menu option with the name: skin
+[04:31:38	]Enistein has used a context menu option with the name: skin
+[04:32:07	]Enistein has used a context menu option with the name: skin
+[04:32:30	][IC] Sarah Goodwell: Çince her zaman var ya.
+[04:32:31	]Nick Durman has spawned 'models/vj_hlr/hla/w_docgun.mdl'.
+[04:32:33	]Enistein has used a context menu option with the name: skin
+[04:32:36	]Enistein has used a context menu option with the name: skin
+[04:32:39	]Enistein has used a context menu option with the name: skin
+[04:32:43	]Enistein has used a context menu option with the name: skin
+[04:32:47	]Enistein has used a context menu option with the name: skin
+[04:32:51	]Enistein has used a context menu option with the name: skin
+[04:32:55	]Enistein has used a context menu option with the name: skin
+[04:32:59	]Sarah Goodwell has fired a toolgun with the name: camera
+[04:32:59	]Enistein has used a context menu option with the name: skin
+[04:33:02	]Enistein has used a context menu option with the name: skin
+[04:33:02	]Nick Durman has spawned 'models/police2.mdl'.
+[04:33:10	]Enistein has spawned a rave.
+[04:33:53	]Nick Durman has spawned 'models/ldi/basketball.mdl'.
+[04:33:58	]Sarah Goodwell ran 'take' on item 'RAVE' (#69507)
+[04:33:58	]Sarah Goodwell has gained a 'RAVE' #69507.
+[04:34:10	]Nick Durman has spawned 'models/scene_building/small_rooms/1door.mdl'.
+[04:34:11	]Enistein has spawned a rave.
+[04:34:16	]Nick Durman ran 'Consume' on item 'RAVE' (#69508)
+[04:34:16	]Nick Durman has gained a level 5 short boost in Güç.
+[04:35:15	]Nick Durman entered observer.
+[04:35:16	]Nick Durman exited observer at their location.
+[04:35:17	]Nick Durman entered observer.
+[04:35:18	]Nick Durman exited observer at their location.
+[04:35:19	]Nick Durman entered observer.
+[04:35:19	]Nick Durman exited observer at their location.
+[04:35:24	]Nick Durman entered observer.
+[04:35:32	]Nick Durman exited observer at their location.
+[04:35:40	]Sarah Goodwell ran 'Consume' on item 'RAVE' (#69507)
+[04:35:40	]Sarah Goodwell has gained a level 5 short boost in Güç.
+[04:35:43	]Enistein used command '/RemoveDrugEffects nick'.
+[04:35:59	]Enistein used command '/RemoveDrugEffects sarah'.
+[04:35:59	]Nick Durman has spawned 'models/effects/intro_vortshield.mdl'.
+[04:36:09	]Nick Durman has spawned 'models/effects/intro_vortshield.mdl'.
+[04:36:10	]Enistein has spawned a 'Entity [5177][portals_death]'.
+[04:36:12	]Enistein has spawned a 'Entity [5178][portals_death]'.
+[04:36:32	]Enistein ran SAM command 'respawn' with arguments: 'sarah'
+[04:36:34	]Enistein ran SAM command 'respawn' with arguments: 'nick'
+[04:36:42	]Nick Durman has spawned a 'Entity [5179][arcade_pacman]'.
+[04:36:45	]Enistein entered observer.
+[04:36:49	]Enistein exited observer at their location.
+[04:37:06	]Nick Durman has spawned a 'Entity [5179][arcade_pong]'.
+[04:37:13	]Enistein has spawned a 'Entity [5180][arcade_pacman]'.
+[04:37:35	]Nick Durman has spawned a 'Entity [5180][arcade_spaceinvaders]'.
+[04:37:40	]Nick Durman has spawned a 'Entity [5179][ent_musical_keyboard]'.
+[04:38:09	]Enistein has spawned a 'Entity [5180][ent_musical_keyboard]'.
+[04:38:33	]Enistein entered observer.
+[04:38:35	]Enistein exited observer at their location.
+[04:38:39	]Enistein has spawned a 'Entity [5184][ent_musical_keyboard]'.
+[04:38:55	]Enistein entered observer.
+[04:38:56	]Enistein exited observer at their location.
+[04:39:08	]Enistein has spawned a 'Entity [5180][ent_musical_keyboard]'.
+[04:39:33	]Enistein entered observer.
+[04:39:34	]Enistein exited observer at their location.
+[04:40:15	]Enistein has spawned a 'Entity [5184][ent_musical_keyboard]'.
+[04:42:09	]Nick Durman entered observer.
+[04:42:10	]Nick Durman exited observer at their location.
+[04:42:22	]Nick Durman has spawned a 'Entity [5179][ix_vortshield]'.
+[04:42:25	]Nick Durman has spawned a 'Entity [5179][ix_vortshield]'.
+[04:42:30	]Sarah Goodwell has spawned 'models/props_interiors/Furniture_Couch01a.mdl'.
+[04:42:47	]Nick Durman has spawned a 'Entity [5231][wn_washing_factory]'.
+[04:42:49	]Nick Durman has spawned a 'Entity [5234][wn_scaffold]'.
+[04:42:49	]Enistein has taken 5 damage from wn_scaffold.
+[04:42:50	]Enistein is fully healed.
+[04:42:52	]Nick Durman has spawned a 'Entity [5231][cw_plant]'.
+[04:42:54	]Nick Durman has spawned a 'Entity [5234][cw_plant]'.
+[04:42:58	]Nick Durman has spawned a 'Entity [5179][tfa_csgo_throwndecoy]'.
+[04:43:03	]Enistein has used a context menu option with the name: rb655_dissolve
+[04:43:04	]Enistein has used a context menu option with the name: rb655_dissolve
+[04:43:10	]Nick Durman has spawned a 'Entity [5180][pfx5_03]'.
+[04:43:24	]Enistein has spawned a 'Entity [5184][pfx4_0b]'.
+[04:43:30	]Enistein entered observer.
+[04:43:32	]Enistein exited observer at their location.
+[04:43:33	]Sarah Goodwell entered observer.
+[04:43:34	]Nick Durman has spawned a 'Entity [5180][pfx5_00_alt_ss]'.
+[04:43:35	]Enistein has spawned a 'Entity [5184][pfx4_06_3]'.
+[04:43:36	]Sarah Goodwell exited observer at their location.
+[04:43:43	]Nick Durman has spawned a 'Entity [5236][pfx5_00_ss]'.
+[04:43:47	]Nick Durman has spawned a 'Entity [5180][pfx5_00_alt_s]'.
+[04:43:49	]Enistein has spawned a 'Entity [5184][pfx4_0b]'.
+[04:43:50	]Nick Durman has spawned a 'Entity [5236][pfx5_00_s]'.
+[04:43:52	]Nick Durman has spawned a 'Entity [5180][pfx5_01]'.
+[04:44:01	]Nick Durman has spawned a 'Entity [5180][pfx1_08]'.
+[04:44:14	]Enistein has spawned a 'Entity [5179][pfx4_09]'.
+[04:44:21	]Nick Durman has spawned a 'Entity [5184][pfx4_0a]'.
+[04:44:27	]Nick Durman has spawned a 'Entity [5179][pfx9_00]'.
+[04:44:33	]Enistein has spawned a 'Entity [5180][pfx8_01]'.
+[04:44:36	]Enistein has spawned a 'Entity [5179][pfx8_01]'.
+[04:44:42	]Nick Durman has spawned a 'Entity [5179][portals_classic_in]'.
+[04:44:44	]Nick Durman has spawned a 'Entity [5180][portals_classic_out]'.
+[04:44:44	]Enistein has spawned a 'Entity [5184][pfxa_00]'.
+[04:44:46	]Sarah Goodwell has spawned a 'Entity [5235][acwatt_go_p250_slide_long]'.
+[04:44:47	]Enistein has spawned a 'Entity [5236][pfxcom1]'.
+[04:44:49	]Enistein has spawned a 'Entity [5184][pfxcom]'.
+[04:44:58	]Nick Durman entered observer.
+[04:44:58	]Nick Durman exited observer at their location.
+[04:45:06	]Nick Durman has spawned a 'Entity [5179][portals_in]'.
+[04:45:08	]Nick Durman has spawned a 'Entity [5180][portals_out]'.
+[04:45:10	]Enistein has spawned a 'Entity [5184][pfx5_00]'.
+[04:45:15	]Nick Durman has spawned a 'Entity [5179][stormfox_cs_candle]'.
+[04:45:16	]Nick Durman has spawned a 'Entity [5180][stormfox_cs_candle]'.
+[04:45:16	]Nick Durman has spawned a 'Entity [5184][stormfox_cs_candle]'.
+[04:45:17	]Nick Durman has spawned a 'Entity [5235][stormfox_cs_candle_small]'.
+[04:45:17	]Nick Durman has spawned a 'Entity [5236][stormfox_cs_candle_small]'.
+[04:45:22	]Nick Durman has spawned a 'Entity [5237][obj_vj_flareround]'.
+[04:45:38	][IC] Sarah Goodwell: ERROR.
+[04:45:42	]Sarah Goodwell has spawned a 'Entity [5179][acwatt_go_m4_barrel_short]'.
+[04:45:44	]Sarah Goodwell has spawned a 'Entity [5179][acwatt_go_m4_barrel_med]'.
+[04:45:47	]Nick Durman has spawned a 'Entity [5164][prop_vj_flag]'.
+[04:45:49	]Sarah Goodwell has spawned a 'Entity [5179][acwatt_go_p250_slide_long]'.
+[04:46:02	]Nick Durman has spawned a 'Entity [5179][sent_vj_board]'.
+[04:46:06	]Enistein has spawned a 'Entity [5164][ent_musical_keyboard]'.
+[04:46:08	]Nick Durman has spawned a 'Entity [5179][wn_crop]'.
+[04:46:54	]Nick Durman has fired a toolgun with the name: creator
+[04:46:54	]Nick Durman has spawned a 'Weapon [5180][arccw_gauss_rifle]'.
+[04:48:17	]Enistein used command '/PlyWhitelist enistein cremator'.
+[04:48:19	]Enistein has unloaded their "Enistein" character.
+[04:48:33	]Enistein created the character 'C24.CREMATOR:625'
+[04:48:33	]Enistein loaded the character 'C24.CREMATOR:625'
+[04:48:36	]Nick Durman has taken 1 damage from entityflame.
+[04:48:36	]Nick Durman has taken 1 damage from point_hurt.
+[04:48:36	]Nick Durman has taken 1 damage from entityflame.
+[04:48:37	]Nick Durman has taken 1 damage from point_hurt.
+[04:48:37	]Nick Durman has taken 1 damage from entityflame.
+[04:48:37	]C24.CREMATOR:625 entered observer.
+[04:48:37	]Nick Durman has taken 1 damage from entityflame.
+[04:48:37	]Nick Durman has taken 1 damage from point_hurt.
+[04:48:37	]Nick Durman has taken 1 damage from entityflame.
+[04:48:37	]Nick Durman has taken 13 damage from env_fire.
+[04:48:37	]Nick Durman has taken 1 damage from entityflame.
+[04:48:37	]Nick Durman has taken 1 damage from entityflame.
+[04:48:38	]Nick Durman has taken 1 damage from entityflame.
+[04:48:38	]Nick Durman has taken 1 damage from entityflame.
+[04:48:38	]Nick Durman has taken 1 damage from entityflame.
+[04:48:38	]Nick Durman has taken 13 damage from env_fire.
+[04:48:38	]Nick Durman has taken 1 damage from entityflame.
+[04:48:38	]Nick Durman has taken 1 damage from entityflame.
+[04:48:39	]C24.CREMATOR:625 exited observer at their location.
+[04:48:39	]Nick Durman has taken 1 damage from entityflame.
+[04:48:39	]Nick Durman has taken 1 damage from entityflame.
+[04:48:39	]Nick Durman has taken 1 damage from entityflame.
+[04:48:39	]Nick Durman has taken 13 damage from env_fire.
+[04:48:39	]Nick Durman has taken 1 damage from entityflame.
+[04:48:39	]Nick Durman has taken 1 damage from entityflame.
+[04:48:40	]Nick Durman has taken 1 damage from entityflame.
+[04:48:40	]Nick Durman is fully healed.
+[04:48:40	]Nick Durman has taken 1 damage from entityflame.
+[04:48:40	]Nick Durman has taken 1 damage from entityflame.
+[04:48:40	]Nick Durman has taken 13 damage from env_fire.
+[04:48:40	]Nick Durman has taken 1 damage from entityflame.
+[04:48:40	]Nick Durman has taken 1 damage from entityflame.
+[04:48:41	]Nick Durman has taken 1 damage from entityflame.
+[04:48:41	]Nick Durman has taken 1 damage from entityflame.
+[04:48:41	]Nick Durman has taken 1 damage from entityflame.
+[04:48:41	]Nick Durman has taken 13 damage from env_fire.
+[04:48:42	]Nick Durman has taken 13 damage from env_fire.
+[04:48:59	]C24.CREMATOR:625 has taken 0 damage from point_hurt.
+[04:49:00	]C24.CREMATOR:625 has taken 0 damage from point_hurt.
+[04:49:00	]C24.CREMATOR:625 has taken 0 damage from point_hurt.
+[04:49:00	]C24.CREMATOR:625 has taken 0 damage from point_hurt.
+[04:49:00	]C24.CREMATOR:625 has taken 0 damage from point_hurt.
+[04:49:14	]C24.CREMATOR:625 has taken 0 damage from point_hurt.
+[04:49:15	]C24.CREMATOR:625 has taken 0 damage from point_hurt.
+[04:49:15	]C24.CREMATOR:625 has taken 0 damage from point_hurt.
+[04:49:22	]Enistein has unloaded their "C24.CREMATOR:625" character.
+[04:49:26	]Enistein (STEAM_0:1:98500861) deleted character 'C24.CREMATOR:625'
+[04:49:33	]Enistein loaded the character 'C24:i5.UNION-79'
+[04:49:35	]C24:i5.UNION-79 entered observer.
+[04:49:41	]C24:i5.UNION-79 exited observer at their location.
+[04:49:43	][IC] C24:i5.UNION-79: <:: Haha. ::>
+[04:50:50	]Nick Durman has taken 1 damage from Sarah Goodwell.
+[04:50:50	]Sarah Goodwell has taken 5 damage from Sarah Goodwell.
+[04:50:50	]C24:i5.UNION-79 has taken 4 damage from Sarah Goodwell.
+[04:51:09	][IC] C24:i5.UNION-79: <:: Eğil! ::>
+[04:51:13	]Glunar has unloaded their "Nick Durman" character.
+[04:51:17	]Glunar loaded the character 'Nick Durman'
+[04:51:23	]Sarah Goodwell was knocked unconscious and is bleeding out.
+[04:51:30	]C24:i5.UNION-79 ran SAM command 'respawn' with arguments: 'sarah'
+[04:51:34	]C24:i5.UNION-79 has lost a '17rnd Usp-Şarjörü' #44414.
+[04:51:34	]C24:i5.UNION-79 has gained a '17rnd Usp-Şarjörü' #44414.
+[04:51:34	]C24:i5.UNION-79 has lost a '17rnd Usp-Şarjörü' #57831.
+[04:51:34	]C24:i5.UNION-79 has gained a '17rnd Usp-Şarjörü' #44415.
+[04:51:37	]C24:i5.UNION-79 has gained a '17rnd Usp-Şarjörü' #57831.
+[04:51:37	]C24:i5.UNION-79 has lost a '17rnd Usp-Şarjörü' #44414.
+[04:51:37	]C24:i5.UNION-79 has gained a '17rnd Usp-Şarjörü' #44414.
+[04:51:37	]C24:i5.UNION-79 has lost a '17rnd Usp-Şarjörü' #44415.
+[04:51:42	]Nick Durman has spawned a 'Entity [5113][cup_shield2]'.
+[04:52:00	]Nick Durman has spawned a 'Entity [5142][cup_shield2]'.
+[04:52:03	]Nick Durman has spawned a 'Entity [5113][cup_shield2]'.
+[04:52:10	]Nick Durman has spawned a 'Entity [5113][cup_shield3]'.
+[04:52:36	]Enistein has unloaded their "C24:i5.UNION-79" character.
+[04:52:44	]Enistein loaded the character 'Theodore Abernathy'
+[04:52:47	]Theodore Abernathy entered observer.
+[04:52:53	]Theodore Abernathy exited observer at their location.
+[04:53:09	]Theodore Abernathy has fired a toolgun with the name: creator
+[04:53:09	]Theodore Abernathy has spawned a 'Weapon [5180][weapon_vj_hlr2_chargebow]'.
+[04:53:17	]Glunar has unloaded their "Nick Durman" character.
+[04:53:21	]Sarah Goodwell has fired a toolgun with the name: creator
+[04:53:21	]Sarah Goodwell has spawned a 'Weapon [5113][tfa_csgo_sonarbomb]'.
+[04:53:21	]Sarah Goodwell has taken 21 damage from Theodore Abernathy.
+[04:53:21	]Sarah Goodwell has taken 21 damage from Theodore Abernathy.
+[04:53:21	]Sarah Goodwell has taken 1 damage from entityflame.
+[04:53:21	]Sarah Goodwell has taken 1 damage from entityflame.
+[04:53:21	]Sarah Goodwell has taken 1 damage from entityflame.
+[04:53:21	]Glunar loaded the character 'Nick Durman'
+[04:53:21	]Sarah Goodwell has taken 1 damage from entityflame.
+[04:53:22	]Sarah Goodwell has taken 1 damage from entityflame.
+[04:53:22	]Sarah Goodwell has taken 1 damage from entityflame.
+[04:53:22	]Sarah Goodwell has taken 1 damage from entityflame.
+[04:53:22	]Sarah Goodwell has taken 1 damage from entityflame.
+[04:53:22	]Sarah Goodwell has taken 1 damage from entityflame.
+[04:53:23	]Sarah Goodwell has taken 1 damage from entityflame.
+[04:53:23	]Sarah Goodwell has taken 1 damage from entityflame.
+[04:53:23	]Sarah Goodwell has taken 1 damage from entityflame.
+[04:53:23	]Sarah Goodwell has taken 1 damage from entityflame.
+[04:53:23	]Sarah Goodwell has taken 1 damage from entityflame.
+[04:53:24	]Sarah Goodwell has taken 1 damage from entityflame.
+[04:53:41	]Theodore Abernathy has fired a toolgun with the name: creator
+[04:53:41	]Theodore Abernathy has spawned a 'Weapon [5142][weapon_vj_hlr2_rpg]'.
+[04:54:18	]Theodore Abernathy has spawned a 'Vehicle [5174][prop_vehicle_airboat]'.
+[04:54:19	]Theodore Abernathy has spawned a 'Vehicle [5178][prop_vehicle_jeep_old]'.
+[04:54:23	]Nick Durman has taken 10 damage from prop_vehicle_jeep.
+[04:54:27	]Sarah Goodwell has taken 10 damage from prop_vehicle_jeep.
+[04:54:38	]Theodore Abernathy has used a context menu option with the name: bodygroups
+[04:54:46	]Glunar has unloaded their "Nick Durman" character.
+[04:54:50	]Glunar loaded the character 'Nick Durman'
+[04:55:05	]Theodore Abernathy entered observer.
+[04:55:05	]Theodore Abernathy exited observer at their location.
+[04:55:26	]Sarah Goodwell was knocked unconscious and is bleeding out.
+[04:55:26	]Nick Durman was knocked unconscious and is bleeding out.
+[04:55:34	]Theodore Abernathy ran SAM command 'respawn' with arguments: 'nick'
+[04:55:36	][IC] Sarah Goodwell: FRANK WISDOM.
+[04:55:45	]Theodore Abernathy has used a context menu option with the name: collision_off
+[04:55:48	]Theodore Abernathy ran SAM command 'respawn' with arguments: 'sarah'
+[04:56:16	]Theodore Abernathy has used a context menu option with the name: rb655_dissolve
+[04:56:26	]Nick Durman entered observer.
+[04:56:32	]Theodore Abernathy used command '/ActSit 2'.
+[04:56:33	]Nick Durman exited observer at their location.
+[04:56:38	]Sarah Goodwell entered observer.
+[04:56:39	]Theodore Abernathy used command '/ActLean 2'.
+[04:56:40	]Nick Durman entered observer.
+[04:56:41	][Y] Theodore Abernathy: Evet!
+[04:56:41	]Nick Durman exited observer at their location.
+[04:56:41	]Sarah Goodwell exited observer at their location.
+[04:56:43	]Nick Durman entered observer.
+[04:56:44	]Nick Durman exited observer at their location.
+[04:56:44	]Theodore Abernathy used command '/ExitAct'.
+[04:56:53	]Nick Durman entered observer.
+[04:56:54	]Nick Durman exited observer at their location.
+[04:56:54	]Nick Durman entered observer.
+[04:56:57	]Nick Durman exited observer at their location.
+[04:56:57	]Theodore Abernathy has spawned a musicradio2.
+[04:56:57	]Nick Durman entered observer.
+[04:56:58	]Nick Durman exited observer at their location.
+[04:56:59	]Nick Durman entered observer.
+[04:57:00	]Theodore Abernathy ran 'Deploy' on item 'Vintage Radio' (#69509)
+[04:57:02	]Nick Durman exited observer at their location.
+[04:57:12	]Theodore Abernathy used command '/ActSit 2'.
+[04:57:29	][ME] Nick Durman: :)
+[04:57:36	]Theodore Abernathy used command '/ExitAct'.
+[04:57:56	]Nick Durman used command '/ActSitWall'.
+[04:58:02	]Nick Durman used command '/ActSitWall'.
+[04:58:09	]Nick Durman used command '/ActSitWall'.
+[04:58:13	]Nick Durman used command '/ActSitWall'.
+[04:58:26	]Theodore Abernathy used command '/ActLean 2'.
+[04:58:48	][IC] Nick Durman: Konuşuyorum zenci.
+[04:58:51	][IC] Nick Durman: Combine...
+[04:58:55	][IC] Nick Durman: Combine'dan nefret ederim...
+[04:59:03	][ME] Theodore Abernathy: combineden nefret eder
+[04:59:33	][IT] Nick Durman: Wants revenge one day.
+[04:59:46	][IT] Theodore Abernathy: allahın olmadığı belli olmaktadır
+[05:00:17	][ME] Nick Durman: wants revenge one day and it is extremely obvious.
+[05:00:30	]Sarah Goodwell has spawned 'models/alyx.mdl'.
+[05:00:32	]Sarah Goodwell has spawned 'models/alyx.mdl'.
+[05:00:35	][ME] Nick Durman:  wonders if Combine Advisors are genderfluid while listening to tunes.
+[05:00:36	][ME] Theodore Abernathy: reads the person next to his mind
+[05:00:37	]Sarah Goodwell has spawned 'models/Lamarr.mdl'.
+[05:00:38	]Sarah Goodwell has spawned 'models/Lamarr.mdl'.
+[05:00:39	]Sarah Goodwell has spawned 'models/Lamarr.mdl'.
+[05:00:41	]Sarah Goodwell has spawned 'models/Lamarr.mdl'.
+[05:00:42	]Sarah Goodwell has spawned 'models/Lamarr.mdl'.
+[05:00:42	]Sarah Goodwell has spawned 'models/Lamarr.mdl'.
+[05:00:43	]Sarah Goodwell has spawned 'models/Lamarr.mdl'.
+[05:00:44	]Sarah Goodwell has spawned 'models/Lamarr.mdl'.
+[05:00:46	]Sarah Goodwell has spawned 'models/Lamarr.mdl'.
+[05:00:49	]Sarah Goodwell has spawned 'models/Lamarr.mdl'.
+[05:01:01	][ME] Nick Durman: receives power from the tunes, gaining more desire towards revenge.
+[05:01:08	]Theodore Abernathy used command '/ExitAct'.
+[05:01:08	]Theodore Abernathy entered observer.
+[05:01:09	]Theodore Abernathy exited observer at their location.
+[05:01:10	]Nick Durman used command '/ExitAct'.
+[05:01:39	][ME] Theodore Abernathy: crouches and starts fucking the headcrab so hard
+[05:01:49	][IT] Nick Durman: Permission for ERP?
+[05:01:54	][IT] Theodore Abernathy: permission given.
+[05:01:59	][ME] Nick Durman: thinks about headcrabs.
+[05:02:06	]Nick Durman has used a context menu option with the name: ignite
+[05:02:07	]Nick Durman has used a context menu option with the name: extinguish
+[05:02:13	]Nick Durman has fired a toolgun with the name: remover
+[05:02:13	]Nick Durman has fired a toolgun with the name: remover
+[05:02:13	]Nick Durman has fired a toolgun with the name: remover
+[05:02:13	]Nick Durman has fired a toolgun with the name: remover
+[05:02:14	]Nick Durman has fired a toolgun with the name: remover
+[05:02:14	]Nick Durman has fired a toolgun with the name: remover
+[05:02:14	]Nick Durman has fired a toolgun with the name: remover
+[05:02:14	]Nick Durman has fired a toolgun with the name: remover
+[05:02:15	]Nick Durman has fired a toolgun with the name: remover
+[05:02:23	]Sarah Goodwell entered observer.
+[05:02:24	]Theodore Abernathy has used a context menu option with the name: rb655_dissolve
+[05:02:27	]Nick Durman entered observer.
+[05:02:28	]Sarah Goodwell exited observer at their location.
+[05:02:28	]Sarah Goodwell has taken 3 damage from worldspawn.
+[05:02:28	]Nick Durman exited observer at their location.
+[05:02:33	]Sarah Goodwell entered observer.
+[05:02:34	]Sarah Goodwell exited observer at their location.
+[05:02:34	]Sarah Goodwell was knocked unconscious and is bleeding out.
+[05:02:49	][IC] Sarah Goodwell: Artık ölümüşüm.
+[05:02:50	]Nick Durman has spawned a 'Entity [5170][npc_zombie_slump_attack]'.
+[05:02:56	]Nick Durman has spawned a 'Entity [5170][npc_zombie_slump]'.
+[05:02:58	][ME] Theodore Abernathy: remembers that he has necrophilia
+[05:03:05	]Sarah Goodwell used command '/CharGetUp'.
+[05:03:10	][IC] Sarah Goodwell: Olamaz ya.
+[05:03:30	][ME] Nick Durman: begins to pray.
+[05:03:31	][IC] Sarah Goodwell: Yapmayın hala erkeğim.
+[05:03:43	][ME] Theodore Abernathy: apparently he's gay
+[05:04:06	]Sarah Goodwell has dropped: Sivil Tulum (#69485); Gri tulum pantolonu (#69486); Kahverengi Deri Çizme (#69487); Açık Gri Kol Bandı (#69483);
+[05:04:06	]Sarah Goodwell was just killed due to: accepting their death
+[05:04:11	]Theodore Abernathy opened the 'Dropped Items' #6704 container.
+[05:04:14	]Theodore Abernathy closed the 'Dropped Items' #6704 container.
+[05:04:16	]Sarah Goodwell entered observer.
+[05:04:21	]Sarah Goodwell exited observer at their location.
+[05:04:21	]Sarah Goodwell was knocked unconscious and is bleeding out.
+[05:04:34	]Theodore Abernathy ran SAM command 'respawn' with arguments: 'sarah'
+[05:04:35	]Theodore Abernathy entered observer.
+[05:04:36	]Theodore Abernathy exited observer at their location.
+[05:04:36	]Theodore Abernathy used command '/ActStand 3'.
+[05:04:37	]Theodore Abernathy entered observer.
+[05:04:38	]Theodore Abernathy exited observer at their location.
+[05:04:38	]Theodore Abernathy used command '/CharFallOver 0.1'.
+[05:04:38	]Sarah Goodwell is fully healed.
+[05:04:43	]Theodore Abernathy used command '/CharFallOver 0.1'.
+[05:04:48	]Sarah Goodwell used command '/ActInjured'.
+[05:04:49	]Theodore Abernathy used command '/CharFallOver 0.1'.
+[05:05:00	][IC] Theodore Abernathy: Mm.
+[05:05:01	]Sarah Goodwell used command '/ActDown'.
+[05:05:03	]Sarah Goodwell used command '/ExitAct'.
+[05:05:06	]Sarah Goodwell used command '/ActDown'.
+[05:05:07	]Sarah Goodwell used command '/ExitAct'.
+[05:05:08	]Nick Durman used command '/ActArrest'.
+[05:05:11	]Nick Durman used command '/ExitAct'.
+[05:05:12	]Nick Durman used command '/ActArrest'.
+[05:05:13	][ME] Nick Durman: begins to pray.
+[05:05:15	]Nick Durman used command '/ActArrest'.
+[05:05:16	]Sarah Goodwell used command '/ActArrest'.
+[05:05:17	]Nick Durman used command '/ExitAct'.
+[05:05:23	]Nick Durman used command '/ActArrest'.
+[05:05:24	][ME] Nick Durman: begins to pray.
+[05:05:27	]Nick Durman used command '/ActArrest'.
+[05:05:27	]Nick Durman used command '/ExitAct'.
+[05:05:31	]Nick Durman used command '/ActArrest'.
+[05:05:32	][IC] Theodore Abernathy: Eşhedüennailaheillallah.
+[05:05:32	]Nick Durman used command '/ExitAct'.
+[05:05:35	][ME] Nick Durman: begins to pray.
+[05:05:35	]Sarah Goodwell used command '/ExitAct'.
+[05:05:36	]Nick Durman used command '/ActArrest'.
+[05:05:37	]Nick Durman used command '/ExitAct'.
+[05:05:40	]Nick Durman used command '/ActArrest'.
+[05:05:41	]Nick Durman used command '/ExitAct'.
+[05:05:43	]Nick Durman used command '/ActArrest'.
+[05:05:43	]Nick Durman used command '/ExitAct'.
+[05:05:44	]Nick Durman used command '/ActArrest'.
+[05:05:45	]Nick Durman used command '/ExitAct'.
+[05:05:46	]Nick Durman used command '/ActArrest'.
+[05:05:47	]Nick Durman used command '/ExitAct'.
+[05:05:47	]Nick Durman used command '/ActArrest'.
+[05:05:48	]Nick Durman used command '/ExitAct'.
+[05:05:49	]Nick Durman used command '/ActArrest'.
+[05:05:50	]Theodore Abernathy used command '/CharFallOver 0.1'.
+[05:05:50	]Nick Durman used command '/ExitAct'.
+[05:05:51	]Nick Durman used command '/ActArrest'.
+[05:05:52	]Nick Durman used command '/ExitAct'.
+[05:05:52	]Nick Durman used command '/ActArrest'.
+[05:05:53	]Nick Durman used command '/ExitAct'.
+[05:05:55	]Theodore Abernathy entered observer.
+[05:05:57	]Theodore Abernathy exited observer at their location.
+[05:05:57	]Theodore Abernathy used command '/CharFallOver 0.1'.
+[05:05:57	]Theodore Abernathy was knocked unconscious and is bleeding out.
+[05:06:07	]Theodore Abernathy was killed while bleeding out.
+[05:06:07	]worldspawn has killed Theodore Abernathy.
+[05:06:07	]Theodore Abernathy has dropped: Gri Tulum (#69275); 1x Plastik Levhalar (#68459); Açık Gri Kol Bandı (#69273); 1x Ahşap Tahta (#69306); 1x Elektronik devreler (#69307); 1x Çivi Kutusu (#69308); Koyu Deri Çizme (#69277); El Feneri (#69316); Tarihi Geçmiş Yapay Macun (#69279); 2x Bez Paçavralar (#69304); Mavi tulum pantolonu (#69276); 1x Ahşap Çubuk (#69298); 1x Plastik Levhalar (#69300); 1x Kömür (#69301);
+[05:06:10	]Theodore Abernathy entered observer.
+[05:06:13	]Theodore Abernathy exited observer at their location.
+[05:06:14	]Nick Durman opened the 'Dropped Items' #6705 container.
+[05:06:15	]Theodore Abernathy opened the 'Dropped Items' #6705 container.
+[05:06:17	]Theodore Abernathy has gained a 'Koyu Deri Çizme' #69277 from a container with the name 'Dropped Items' #6705.
+[05:06:17	]Theodore Abernathy has gained a 'Mavi tulum pantolonu' #69276 from a container with the name 'Dropped Items' #6705.
+[05:06:17	]Theodore Abernathy has gained a 'Gri Tulum' #69275 from a container with the name 'Dropped Items' #6705.
+[05:06:18	]Theodore Abernathy has gained a 'Bez Paçavralar' #69304 from a container with the name 'Dropped Items' #6705.
+[05:06:18	]Theodore Abernathy has gained a 'Plastik Levhalar' #68459 from a container with the name 'Dropped Items' #6705.
+[05:06:18	]Theodore Abernathy has gained a 'Açık Gri Kol Bandı' #69273 from a container with the name 'Dropped Items' #6705.
+[05:06:19	]Theodore Abernathy has gained a 'El Feneri' #69316 from a container with the name 'Dropped Items' #6705.
+[05:06:19	]Nick Durman closed the 'Dropped Items' #6705 container.
+[05:06:19	]Theodore Abernathy has gained a 'Tarihi Geçmiş Yapay Macun' #69279 from a container with the name 'Dropped Items' #6705.
+[05:06:19	]Theodore Abernathy has gained a 'Ahşap Çubuk' #69298 from a container with the name 'Dropped Items' #6705.
+[05:06:19	]Theodore Abernathy has gained a 'Ahşap Tahta' #69306 from a container with the name 'Dropped Items' #6705.
+[05:06:20	]Theodore Abernathy has gained a 'Elektronik devreler' #69307 from a container with the name 'Dropped Items' #6705.
+[05:06:20	]Theodore Abernathy has gained a 'Plastik Levhalar' #69300 from a container with the name 'Dropped Items' #6705.
+[05:06:20	]Theodore Abernathy has gained a 'Kömür' #69301 from a container with the name 'Dropped Items' #6705.
+[05:06:20	]Theodore Abernathy has gained a 'Çivi Kutusu' #69308 from a container with the name 'Dropped Items' #6705.
+[05:06:21	]Nick Durman closed the 'Dropped Items' #6705 container.
+[05:06:30	]Theodore Abernathy ran 'Equip' on item 'Açık Gri Kol Bandı' (#69273)
+[05:06:33	]Theodore Abernathy used command '/CharFallOver 0.1'.
+[05:06:36	]Theodore Abernathy used command '/CharFallOver 0.1'.
+[05:06:39	]Theodore Abernathy used command '/CharFallOver 0.1'.
+[05:06:42	]Theodore Abernathy used command '/CharGetUp'.
+[05:06:42	]Nick Durman ran 'Equip' on item 'Açık Gri Kol Bandı' (#69447)
+[05:06:43	]Nick Durman ran 'EquipUn' on item 'Açık Gri Kol Bandı' (#69447)
+[05:06:50	]Nick Durman has spawned a 'Entity [5180][ix_computer]'.
+[05:06:53	]Nick Durman has spawned a 'Entity [5180][ix_computer]'.
+[05:07:52	]Nick Durman has spawned a 'Entity [5113][ix_console]'.
+[05:07:56	]Nick Durman has spawned a 'Entity [5113][ix_crackedprinter]'.
+[05:07:58	]Nick Durman has spawned a 'Entity [5148][ix_sandbag]'.
+[05:08:03	]Nick Durman has spawned a 'Entity [5113][ix_shop_sign]'.
+[05:08:15	]Nick Durman has used a context menu option with the name: skin
+[05:08:16	]Nick Durman has used a context menu option with the name: skin
+[05:08:19	]Nick Durman has used a context menu option with the name: rb655_make_animatable
+[05:08:22	]Nick Durman has enabled persistence for 'models/sleepjie/opensign2.mdl'.
+[05:08:22	]Nick Durman has used a context menu option with the name: persist
+[05:08:23	]Nick Durman has disabled persistence for 'models/sleepjie/opensign2.mdl'.
+[05:08:23	]Nick Durman has used a context menu option with the name: persist_end
+[05:08:25	]Nick Durman has used a context menu option with the name: rb655_dissolve
+[05:08:26	]Nick Durman has used a context menu option with the name: remove
+[05:08:28	]Nick Durman has spawned a 'Entity [5163][ix_shop_sign]'.
+[05:08:39	]Theodore Abernathy has spawned 'models/jq/hlvr/props/xenpack/xen_tendril_03.mdl'.
+[05:08:42	]Theodore Abernathy has spawned 'models/jq/hlvr/props/infestation/dead_body/xen_dead_body.mdl'.
+[05:08:44	]Nick Durman has spawned a 'Entity [5163][ix_watercache]'.
+[05:08:49	]Nick Durman has spawned a 'Entity [5193][ix_xencrystal]'.
+[05:09:04	]Sarah Goodwell entered observer.
+[05:09:04	]Sarah Goodwell exited observer at their location.
+[05:09:07	]Nick Durman has spawned a 'Entity [5193][ix_pickupcache]'.
+[05:09:16	]Nick Durman has spawned a 'Entity [5163][ix_combinemonitor_tv]'.
+[05:09:18	]Nick Durman has spawned a 'Entity [5187][ix_combinemonitor_small]'.
+[05:09:19	]Nick Durman has spawned a 'Entity [5163][ix_combinemonitor_small]'.
+[05:09:38	]Glunar (STEAM_0:1:173730794) has disconnected.
+[05:09:53	]Theodore Abernathy entered observer.
+[05:09:53	]Theodore Abernathy exited observer at their location.
+[05:09:54	]Theodore Abernathy entered observer.
+[05:09:57	]Theodore Abernathy exited observer at their location.
+[05:10:05	]Theodore Abernathy has disabled persistence for 'models/humans/corpse1.mdl'.
+[05:10:05	]Theodore Abernathy has used a context menu option with the name: persist_end
+[05:10:06	]Theodore Abernathy has used a context menu option with the name: remove
+[05:10:33	]Theodore Abernathy used command '/LinkShopTerminal D-06'.
+[05:10:46	]Theodore Abernathy entered observer.
+[05:10:46	]Theodore Abernathy exited observer at their location.
+[05:10:48	]Theodore Abernathy entered observer.
+[05:10:50	]Theodore Abernathy exited observer at their location.
+[05:11:28	]Theodore Abernathy has spawned 'models/jq/hlvr/props/xenpack/xen_pod_structure001.mdl'.
+[05:12:31	]Enistein (STEAM_0:1:98500861) has disconnected.
+[05:14:53	]Sarah Goodwell has gone afk.
+[05:27:36	]Cheese (STEAM_0:0:54092302) has disconnected.
+[13:50:58	][HOUSING] 04843 did not make an automatic payment, checking non-auto-payments before removing from housing ID: 32.
+[13:50:58	][HOUSING] 63695 did not make an automatic payment, checking non-auto-payments before removing from housing ID: 32.
+[14:10:58	][HOUSING] 33575 did not make an automatic payment, checking non-auto-payments before removing from housing ID: 43.

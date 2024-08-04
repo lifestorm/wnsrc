@@ -1,0 +1,2194 @@
+[13:00:29	]Enistein has connected.
+[13:01:05	]Enistein loaded the character 'Theodore Abernathy'
+[13:01:10	]Theodore Abernathy is fully healed.
+[13:01:13	]Theodore Abernathy entered observer.
+[13:01:35	]Theodore Abernathy used command '/RemoveApartmentDoor'.
+[13:01:41	]Theodore Abernathy used command '/RemoveApartmentDoor'.
+[13:06:59	]Theodore Abernathy exited observer at their location.
+[13:07:00	]Theodore Abernathy entered observer.
+[13:07:01	]Theodore Abernathy used command '/ActLean 2'.
+[13:07:02	]Theodore Abernathy used command '/ShowAllApartments'.
+[13:07:15	]Theodore Abernathy used command '/TextAdd RB-C'.
+[13:07:16	]Theodore Abernathy exited observer at their location.
+[13:07:17	]Theodore Abernathy entered observer.
+[13:07:22	]Theodore Abernathy exited observer at their location.
+[13:07:23	]Theodore Abernathy entered observer.
+[13:07:24	]Theodore Abernathy exited observer at their location.
+[13:07:33	]Theodore Abernathy used command '/TextAdd ^ RB-C'.
+[13:07:38	]Theodore Abernathy used command '/SceneTextRemove'.
+[13:07:42	]Theodore Abernathy used command '/TextRemove'.
+[13:08:06	]Theodore Abernathy used command '/TextAdd ^ RB-C'.
+[13:08:31	]Theodore Abernathy used command '/SetApartmentDoor RB-C-01-01'.
+[13:08:32	]Theodore Abernathy entered observer.
+[13:08:33	]Theodore Abernathy exited observer at their location.
+[13:08:35	]Theodore Abernathy used command '/SetApartmentDoor RB-C-02-01'.
+[13:08:36	]Theodore Abernathy entered observer.
+[13:08:37	]Theodore Abernathy exited observer at their location.
+[13:08:39	]Theodore Abernathy used command '/SetApartmentDoor RB-C-03-01'.
+[13:08:42	]Theodore Abernathy used command '/ShowAllApartments'.
+[13:09:00	]Theodore Abernathy entered observer.
+[13:09:08	]Theodore Abernathy used command '/TextAdd RB-B'.
+[13:09:14	]Theodore Abernathy exited observer at their location.
+[13:09:20	]Theodore Abernathy used command '/SetApartmentDoor RB-B-01-01'.
+[13:09:23	]Theodore Abernathy used command '/SetApartmentDoor RB-B-01-02'.
+[13:09:23	]Theodore Abernathy entered observer.
+[13:09:24	]Theodore Abernathy exited observer at their location.
+[13:09:26	]Theodore Abernathy used command '/SetApartmentDoor RB-B-02-02'.
+[13:09:26	]Theodore Abernathy entered observer.
+[13:09:27	]Theodore Abernathy exited observer at their location.
+[13:09:29	]Theodore Abernathy used command '/SetApartmentDoor RB-B-02-01'.
+[13:09:29	]Theodore Abernathy entered observer.
+[13:09:30	]Theodore Abernathy exited observer at their location.
+[13:09:31	]Theodore Abernathy entered observer.
+[13:09:33	]Theodore Abernathy exited observer at their location.
+[13:09:34	]Theodore Abernathy entered observer.
+[13:09:34	]Theodore Abernathy exited observer at their location.
+[13:09:36	]Theodore Abernathy used command '/ShowAllApartments'.
+[13:09:44	]Theodore Abernathy entered observer.
+[13:09:48	]Theodore Abernathy exited observer at their location.
+[13:09:58	]Theodore Abernathy used command '/TextAdd 2122'.
+[13:10:05	]Theodore Abernathy used command '/SetApartmentDoor 2122-01'.
+[13:10:07	]Theodore Abernathy used command '/SetApartmentDoor 2122-032'.
+[13:10:09	]Theodore Abernathy used command '/SetApartmentDoor 2122-03'.
+[13:10:12	]Theodore Abernathy used command '/RemoveApartmentDoor'.
+[13:10:15	]Theodore Abernathy used command '/SetApartmentDoor 2122-03'.
+[13:10:17	]Theodore Abernathy used command '/SetApartmentDoor 2122-02'.
+[13:10:18	]Theodore Abernathy used command '/ShowAllApartments'.
+[13:10:27	]Theodore Abernathy ran 'Write' on item 'Direnişe Katıl' (#69435)
+[13:10:30	]Theodore Abernathy ran 'Write' on item 'Direnişe Katıl' (#69435)
+[13:10:41	]Theodore Abernathy has used a context menu option with the name: remove
+[13:10:43	]Theodore Abernathy entered observer.
+[13:10:52	]Theodore Abernathy exited observer at their location.
+[13:10:54	]Theodore Abernathy entered observer.
+[13:11:02	]Theodore Abernathy exited observer at their location.
+[13:11:05	]Theodore Abernathy entered observer.
+[13:11:09	]Theodore Abernathy exited observer at their location.
+[13:11:16	]Theodore Abernathy used command '/SetApartmentDoor RB-A-01-01'.
+[13:11:18	]Theodore Abernathy used command '/SetApartmentDoor RB-A-01-02'.
+[13:11:18	]Theodore Abernathy entered observer.
+[13:11:19	]Theodore Abernathy exited observer at their location.
+[13:11:20	]Theodore Abernathy used command '/SetApartmentDoor RB-A-02-02'.
+[13:11:22	]Theodore Abernathy used command '/SetApartmentDoor RB-A-02-01'.
+[13:11:22	]Theodore Abernathy entered observer.
+[13:11:23	]Theodore Abernathy exited observer at their location.
+[13:11:25	]Theodore Abernathy used command '/SetApartmentDoor RB-A-03-01'.
+[13:11:27	]Theodore Abernathy used command '/SetApartmentDoor RB-A-03-03'.
+[13:11:27	]Theodore Abernathy entered observer.
+[13:11:28	]Theodore Abernathy exited observer at their location.
+[13:11:29	]Theodore Abernathy used command '/SetApartmentDoor RB-A-03-02'.
+[13:11:31	]Theodore Abernathy used command '/ShowAllApartments'.
+[13:11:37	]Theodore Abernathy used command '/SetApartmentDoor RB-A-03-02'.
+[13:11:38	]Theodore Abernathy entered observer.
+[13:11:38	]Theodore Abernathy exited observer at their location.
+[13:11:40	]Theodore Abernathy used command '/SetApartmentDoor RB-A-04-02'.
+[13:11:42	]Theodore Abernathy used command '/SetApartmentDoor RB-A-04-01'.
+[13:11:43	]Theodore Abernathy entered observer.
+[13:11:46	]Theodore Abernathy exited observer at their location.
+[13:11:50	]Theodore Abernathy used command '/SetApartmentDoor D-01'.
+[13:11:53	]Theodore Abernathy used command '/SetApartmentDoor D-02'.
+[13:11:53	]Theodore Abernathy entered observer.
+[13:11:55	]Theodore Abernathy exited observer at their location.
+[13:11:56	]Theodore Abernathy used command '/SetApartmentDoor D-01'.
+[13:11:56	]Theodore Abernathy entered observer.
+[13:11:58	]Theodore Abernathy used command '/SetApartmentDoor D-01'.
+[13:12:03	]Theodore Abernathy exited observer at their location.
+[13:12:04	]Theodore Abernathy entered observer.
+[13:12:04	]Theodore Abernathy exited observer at their location.
+[13:12:05	]Theodore Abernathy used command '/SetApartmentDoor D-03'.
+[13:12:08	]Theodore Abernathy used command '/SetApartmentDoor D-04'.
+[13:12:11	]Theodore Abernathy used command '/SetApartmentDoor D-05'.
+[13:12:12	]Theodore Abernathy entered observer.
+[13:12:14	]Theodore Abernathy exited observer at their location.
+[13:12:16	]Theodore Abernathy used command '/SetApartmentDoor D-06'.
+[13:12:18	]Theodore Abernathy used command '/SetApartmentDoor D-06'.
+[13:12:18	]Theodore Abernathy entered observer.
+[13:12:20	]Theodore Abernathy used command '/SetApartmentDoor D-06'.
+[13:12:22	]Theodore Abernathy used command '/SetApartmentDoor D-06'.
+[13:12:25	]Theodore Abernathy used command '/SetApartmentDoor D-06'.
+[13:12:35	]Theodore Abernathy exited observer at their location.
+[13:12:37	]Theodore Abernathy used command '/SetApartmentDoor D-07'.
+[13:12:37	]Theodore Abernathy entered observer.
+[13:12:39	]Theodore Abernathy used command '/SetApartmentDoor D-07'.
+[13:12:46	]Theodore Abernathy used command '/SetApartmentDoor D-08'.
+[13:12:49	]Theodore Abernathy used command '/SetApartmentDoor D-08'.
+[13:12:50	]Theodore Abernathy used command '/SetApartmentDoor D-08'.
+[13:12:51	]Theodore Abernathy used command '/SetApartmentDoor D-08'.
+[13:12:57	]Theodore Abernathy used command '/SetApartmentDoor D-09'.
+[13:12:59	]Theodore Abernathy used command '/SetApartmentDoor D-09'.
+[13:13:00	]Theodore Abernathy used command '/SetApartmentDoor D-09'.
+[13:13:01	]Theodore Abernathy used command '/SetApartmentDoor D-09'.
+[13:13:10	]Theodore Abernathy used command '/SetApartmentDoor D-04'.
+[13:13:11	]Theodore Abernathy used command '/SetApartmentDoor D-04'.
+[13:13:14	]Theodore Abernathy used command '/SetApartmentDoor D-04'.
+[13:13:19	]Theodore Abernathy used command '/SetApartmentDoor D-05'.
+[13:13:21	]Theodore Abernathy used command '/SetApartmentDoor D-05'.
+[13:13:43	]Theodore Abernathy used command '/TextAdd RB-A'.
+[13:14:06	]Theodore Abernathy exited observer at their location.
+[13:14:13	]Theodore Abernathy has given himself a combinelock.
+[13:14:13	]Theodore Abernathy has gained a 'Combine Lock' #69510.
+[13:14:15	]Theodore Abernathy ran 'Place' on item 'Combine Lock' (#69510)
+[13:14:17	]Theodore Abernathy ran 'Place' on item 'Combine Lock' (#69510)
+[13:14:19	]Theodore Abernathy entered observer.
+[13:17:16	]Enistein has unloaded their "Theodore Abernathy" character.
+[13:17:23	]Enistein loaded the character 'C24:i5.UNION-79'
+[13:17:29	][IC] C24:i5.UNION-79: <:: 10-0, 10-0; manhack ava çıktı! ::>
+[13:17:31	]C24:i5.UNION-79 entered observer.
+[13:18:56	]C24:i5.UNION-79 exited observer at their location.
+[13:19:01	]C24:i5.UNION-79 entered observer.
+[13:19:10	]C24:i5.UNION-79 exited observer at their location.
+[13:20:52	][IC] C24:i5.UNION-79: <:: 10-0, 10-0; manhack ava çıktı! ::>
+[13:21:53	][IC] C24:i5.UNION-79: <:: 10-0, manhack ava çıktı! ::>
+[13:22:48	][IC] C24:i5.UNION-79: <:: Olası 10-103, konumum, TAG birimlerini alarma geçirin!. ::>
+[13:24:39	][IC] C24:i5.UNION-79: <:: 10-14 görevini sürdürüyorum; kod dört. ::>
+[13:25:00	][IC] C24:i5.UNION-79: <:: 10-14 görevini sürdürüyorum; kod dört. ::>
+[13:25:25	][IC] C24:i5.UNION-79: <:: 14 görevini sürdürüyorum. ::>
+[13:25:57	][IC] C24:i5.UNION-79: <:: 10-2. ::>
+[13:26:15	][IC] C24:i5.UNION-79: <:: 10-2. ::>
+[13:26:34	][IC] C24:i5.UNION-79: <:: Herhangi bir birim, Şüpheliyi 10-25'te rapor edin. ::>
+[13:27:27	][IC] C24:i5.UNION-79: <:: Burada 10-30 var, 10-20'mde; kod iki. ::>
+[13:29:34	][IC] C24:i5.UNION-79: <:: Burada 10-30 var, 10-20'mde, yanıt veriliyor. ::>
+[13:29:39	][IC] C24:i5.UNION-79: <:: Burada 10-30 var, 10-20'mde, yanıt veriliyor. ::>
+[13:31:04	][IC] C24:i5.UNION-79: <:: 10-4. ::>
+[13:31:06	][IC] C24:i5.UNION-79: <:: 10-4. ::>
+[13:33:46	][IC] C24:i5.UNION-79: <:: Birim görev başında; 10-8. ::>
+[13:34:21	][IC] C24:i5.UNION-79: <:: Birim görevde, 10-8. ::>
+[13:34:53	][IC] C24:i5.UNION-79: <:: 10-8; beklemede. ::>
+[13:35:56	][IC] C24:i5.UNION-79: <:: 10-91d sayısı. ::>
+[13:37:08	]C24:i5.UNION-79 is fully healed.
+[13:37:11	][IC] C24:i5.UNION-79: <:: 10-97. ::>
+[13:39:27	][IC] C24:i5.UNION-79: <:: Şüpheli artık 187. ::>
+[13:41:14	][IC] C24:i5.UNION-79: <:: 415b'dir. ::>
+[13:41:29	][IC] C24:i5.UNION-79: <:: Burada bir 408 var. ::>
+[13:41:39	][IC] C24:i5.UNION-79: <:: Şüpheli artık 187. ::>
+[13:43:06	][IC] C24:i5.UNION-79: <:: Bu bir el bombası! ::>
+[13:43:15	][IC] C24:i5.UNION-79: <:: A GRENADE 2. ::>
+[13:43:17	][IC] C24:i5.UNION-79: <:: Bu bir el bombası! ::>
+[13:44:28	][IC] C24:i5.UNION-79: <:: Şüphelinin ADW olduğu doğrulandı, 10-0. ::>
+[13:49:53	]C24:i5.UNION-79 has gone afk.
+[14:45:13	]C24:i5.UNION-79 is no longer afk. Total time spent AFK: 3615
+[14:45:18	][IC] C24:i5.UNION-79: <:: Herhangi bir birim, Şüpheliyi 10-25'te rapor edin. ::>
+[14:45:30	][IC] C24:i5.UNION-79: <:: Olası 10-103, konumum, TAG birimlerini alarma geçirin!. ::>
+[14:45:37	][IC] C24:i5.UNION-79: <:: Karın benden nefret ediyor, öyle değil mi? ::>
+[15:38:12	]EYOX has connected.
+[15:39:20	][AltChecker] EYOX joined for the first time, generating new cookie.
+[15:59:16	]Enistein has connected.
+[15:59:59	]Enistein loaded the character 'Theodore Abernathy'
+[16:00:03	]Theodore Abernathy is fully healed.
+[16:00:11	]Theodore Abernathy entered observer.
+[16:01:31	]Theodore Abernathy exited observer at their location.
+[16:01:43	]Beyin.Dll has connected.
+[16:02:28	]Theodore Abernathy entered observer.
+[16:02:28	]Theodore Abernathy exited observer at their location.
+[16:02:29	]Theodore Abernathy entered observer.
+[16:02:29	]Theodore Abernathy exited observer at their location.
+[16:02:31	]Theodore Abernathy entered observer.
+[16:02:32	]Theodore Abernathy exited observer at their location.
+[16:02:34	]Theodore Abernathy entered observer.
+[16:02:34	]Theodore Abernathy exited observer at their location.
+[16:02:36	]Theodore Abernathy entered observer.
+[16:02:38	]Theodore Abernathy exited observer at their location.
+[16:02:50	]Beyin.Dll loaded the character 'C24:i3.XRAY-91'
+[16:03:10	]C24:i3.XRAY-91 is fully healed.
+[16:03:18	]Theodore Abernathy entered observer.
+[16:03:19	]Theodore Abernathy exited observer at their location.
+[16:03:20	]Theodore Abernathy entered observer.
+[16:03:36	]C24:i3.XRAY-91 entered observer.
+[16:03:51	]Theodore Abernathy exited observer at their location.
+[16:03:52	]Theodore Abernathy entered observer.
+[16:03:54	]Theodore Abernathy exited observer at their location.
+[16:03:56	]Theodore Abernathy entered observer.
+[16:03:57	]Theodore Abernathy exited observer at their location.
+[16:05:54	]Theodore Abernathy entered observer.
+[16:08:35	]C24:i3.XRAY-91 exited observer at their location.
+[16:08:36	]C24:i3.XRAY-91 entered observer.
+[16:08:37	]C24:i3.XRAY-91 exited observer at their location.
+[16:08:37	]C24:i3.XRAY-91 entered observer.
+[16:08:38	]C24:i3.XRAY-91 exited observer at their location.
+[16:08:39	]C24:i3.XRAY-91 entered observer.
+[16:08:39	]C24:i3.XRAY-91 exited observer at their location.
+[16:08:40	]C24:i3.XRAY-91 entered observer.
+[16:08:40	]C24:i3.XRAY-91 exited observer at their location.
+[16:08:41	]C24:i3.XRAY-91 entered observer.
+[16:08:41	]C24:i3.XRAY-91 exited observer at their location.
+[16:08:42	]C24:i3.XRAY-91 entered observer.
+[16:08:45	]C24:i3.XRAY-91 exited observer at their location.
+[16:10:11	]Sinyor Gordon has connected.
+[16:11:28	]Theodore Abernathy has gone afk.
+[16:12:04	]C24:i3.XRAY-91 ran SAM command 'asay' with arguments: 'ben bi lavabo gidiyom tamam tr'
+[16:13:58	]C24:i3.XRAY-91 used command '/Radio 10-8'.
+[16:14:03	]Theodore Abernathy is no longer afk. Total time spent AFK: 450
+[16:14:06	]Theodore Abernathy exited observer at their location.
+[16:14:21	]Theodore Abernathy has used a context menu option with the name: rb655_door_open
+[16:14:28	]Theodore Abernathy used command '/ActLean 2'.
+[16:14:29	]Theodore Abernathy used command '/ActLean 2'.
+[16:14:29	]Theodore Abernathy was just knocked out due to: hit by stunstick owned by C24:i3.XRAY-91
+[16:14:33	]C24:i3.XRAY-91 has used a context menu option with the name: remove
+[16:14:36	]Theodore Abernathy used command '/ActLean 2'.
+[16:14:44	]Theodore Abernathy used command '/Handsignals'.
+[16:14:49	]Theodore Abernathy used command '/Handsignals'.
+[16:14:50	]C24:i3.XRAY-91 has spawned a 'Entity [4682][ent_musical_keyboard]'.
+[16:15:01	]Theodore Abernathy used command '/ExitAct'.
+[16:15:15	]Theodore Abernathy has used a context menu option with the name: rb655_door_open
+[16:15:29	]Theodore Abernathy used command '/CharFallOver 0.1'.
+[16:15:33	]Theodore Abernathy used command '/CharFallOver 0.1'.
+[16:15:34	]Theodore Abernathy used command '/CharGetUp'.
+[16:15:35	]C24:i3.XRAY-91 has taken 5 damage from execution_hurt.
+[16:15:39	]Theodore Abernathy entered observer.
+[16:15:39	]Theodore Abernathy exited observer at their location.
+[16:15:40	]Theodore Abernathy entered observer.
+[16:15:41	]Theodore Abernathy exited observer at their location.
+[16:15:45	]C24:i3.XRAY-91 ran SAM command 'hp' with arguments: 'xray' '100'
+[16:15:50	]C24:i3.XRAY-91 is fully healed.
+[16:16:05	]Sinyor Gordon loaded the character 'Joe Rock'
+[16:16:10	]Joe Rock is fully healed.
+[16:16:11	]C24:i3.XRAY-91 has spawned a 'Entity [4682][ent_musical_keyboard]'.
+[16:16:25	]Joe Rock entered observer.
+[16:16:30	]Theodore Abernathy has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[16:16:33	]Theodore Abernathy has used a context menu option with the name: rb655_dissolve
+[16:16:34	]C24:i3.XRAY-91 entered observer.
+[16:16:35	]Joe Rock exited observer at their location.
+[16:16:36	]C24:i3.XRAY-91 exited observer at their location.
+[16:16:36	]Theodore Abernathy has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[16:16:38	]Theodore Abernathy has used a context menu option with the name: ignite
+[16:16:38	]C24:i3.XRAY-91 entered observer.
+[16:16:41	]C24:i3.XRAY-91 has used a context menu option with the name: rb655_breakable_break
+[16:16:43	]C24:i3.XRAY-91 is admin-searching Theodore Abernathy's inventory.
+[16:16:43	]C24:i3.XRAY-91 has used a context menu option with the name: ixviewinventory
+[16:16:44	]Theodore Abernathy entered observer.
+[16:16:44	]Theodore Abernathy exited observer at their location.
+[16:16:44	]C24:i3.XRAY-91 has closed Theodore Abernathy's inventory.
+[16:16:44	]Theodore Abernathy entered observer.
+[16:16:45	]Theodore Abernathy exited observer at their location.
+[16:16:49	]Sinyor Gordon loaded the character 'Sinyor Gordon'
+[16:16:50	]C24:i3.XRAY-91 exited observer at their location.
+[16:16:51	]Sinyor Gordon entered observer.
+[16:16:52	]C24:i3.XRAY-91 has spawned a 'Entity [4683][arcade_pong]'.
+[16:16:54	]Sinyor Gordon is fully healed.
+[16:16:55	]C24:i3.XRAY-91 has spawned a 'Entity [4683][arcade_spaceinvaders]'.
+[16:17:00	]C24:i3.XRAY-91 entered observer.
+[16:17:07	]Sinyor Gordon exited observer at their location.
+[16:17:11	]C24:i3.XRAY-91 exited observer at their location.
+[16:17:17	][IC] Sinyor Gordon: Cp.
+[16:17:22	][IC] Sinyor Gordon: ULAN!
+[16:17:38	][IC] Sinyor Gordon: YA GİİİİİT!
+[16:17:41	][IC] Theodore Abernathy: Öpcem.
+[16:17:46	][ME] Theodore Abernathy: öper
+[16:17:53	][ME] Sinyor Gordon: bombayı patlatır
+[16:17:56	][ME] Theodore Abernathy: öler
+[16:17:59	][IC] Sinyor Gordon: Oha.
+[16:18:02	]C24:i3.XRAY-91 entered observer.
+[16:18:08	]C24:i3.XRAY-91 has spawned a 'NPC [4682][npc_headcrab]'.
+[16:18:10	]C24:i3.XRAY-91 exited observer at their location.
+[16:18:18	]Theodore Abernathy entered observer.
+[16:18:19	]Sinyor Gordon entered observer.
+[16:18:19	]C24:i3.XRAY-91 entered observer.
+[16:18:19	]Theodore Abernathy exited observer at their location.
+[16:18:19	]Sinyor Gordon has taken 126 damage from Sinyor Gordon.
+[16:18:19	]C24:i3.XRAY-91 exited observer at their location.
+[16:18:20	]Sinyor Gordon exited observer at their location.
+[16:18:22	]Theodore Abernathy entered observer.
+[16:18:22	]C24:i3.XRAY-91 entered observer.
+[16:18:23	]Theodore Abernathy exited observer at their location.
+[16:18:24	]Sinyor Gordon is fully healed.
+[16:18:25	]Theodore Abernathy entered observer.
+[16:18:25	]Sinyor Gordon has taken 5 damage from npc_headcrab.
+[16:18:25	]Sinyor Gordon has damaged npc_headcrab, dealing 5 with ix_hands
+[16:18:26	]Sinyor Gordon has damaged npc_headcrab, dealing 5 with ix_hands
+[16:18:29	]C24:i3.XRAY-91 exited observer at their location.
+[16:18:29	]Sinyor Gordon is fully healed.
+[16:18:31	]C24:i3.XRAY-91 has used a context menu option with the name: door_lockunlock
+[16:18:32	]C24:i3.XRAY-91 entered observer.
+[16:18:39	]Sinyor Gordon entered observer.
+[16:18:41	]Sinyor Gordon has used a context menu option with the name: rb655_door_open
+[16:18:42	]C24:i3.XRAY-91 has used a context menu option with the name: door_lockunlock
+[16:18:42	]Sinyor Gordon exited observer at their location.
+[16:19:10	]C24:i3.XRAY-91 ran SAM command 'asay' with arguments: 'anasını siktigimin'
+[16:19:12	]Sinyor Gordon entered observer.
+[16:19:13	]C24:i3.XRAY-91 ran SAM command 'asay' with arguments: 'kapılarının'
+[16:19:15	]Sinyor Gordon exited observer at their location.
+[16:19:16	]Sinyor Gordon entered observer.
+[16:19:16	]Sinyor Gordon exited observer at their location.
+[16:19:18	]C24:i3.XRAY-91 ran SAM command 'asay' with arguments: 'kilidi yine gitmis'
+[16:19:26	]C24:i3.XRAY-91 exited observer at their location.
+[16:19:27	]C24:i3.XRAY-91 entered observer.
+[16:19:29	]C24:i3.XRAY-91 has spawned a 'Entity [4692][ix_combinelock_cwu]'.
+[16:19:31	]C24:i3.XRAY-91 has spawned a 'Entity [4693][ix_combinelock_cwu]'.
+[16:19:33	]C24:i3.XRAY-91 exited observer at their location.
+[16:19:34	]C24:i3.XRAY-91 has spawned a 'Entity [4692][ix_combinelock_cwu]'.
+[16:19:36	]C24:i3.XRAY-91 entered observer.
+[16:19:37	]C24:i3.XRAY-91 exited observer at their location.
+[16:19:38	]C24:i3.XRAY-91 has spawned a 'Entity [4692][ix_combinelock_cwu]'.
+[16:19:42	]C24:i3.XRAY-91 has spawned a 'Entity [4692][ix_combinelock_cwu]'.
+[16:19:44	]C24:i3.XRAY-91 entered observer.
+[16:19:48	]C24:i3.XRAY-91 has spawned a 'Entity [4691][ix_combinelock_cwu]'.
+[16:20:01	]C24:i3.XRAY-91 has spawned a 'Entity [4682][ix_combinelock_cwu]'.
+[16:20:02	]Sinyor Gordon entered observer.
+[16:20:03	]C24:i3.XRAY-91 exited observer at their location.
+[16:20:12	]Sinyor Gordon exited observer at their location.
+[16:20:13	]C24:i3.XRAY-91 has given himself a cwulock.
+[16:20:19	]C24:i3.XRAY-91 ran 'drop' on item 'Dikişli Kumaş' (#69237)
+[16:20:19	]C24:i3.XRAY-91 has lost a 'Dikişli Kumaş' #69237.
+[16:20:21	]Sinyor Gordon has fired a toolgun with the name: camera
+[16:20:23	]C24:i3.XRAY-91 has used a context menu option with the name: remove
+[16:20:25	]C24:i3.XRAY-91 has given himself a cwulock.
+[16:20:25	]C24:i3.XRAY-91 has gained a 'CWU Lock' #69511.
+[16:20:26	]C24:i3.XRAY-91 ran 'Place' on item 'CWU Lock' (#69511)
+[16:20:31	]Sinyor Gordon has fired a toolgun with the name: camera
+[16:20:36	]C24:i3.XRAY-91 entered observer.
+[16:20:38	]C24:i3.XRAY-91 ran SAM command 'asay' with arguments: 'enis'
+[16:20:39	]C24:i3.XRAY-91 exited observer at their location.
+[16:20:43	]C24:i3.XRAY-91 ran SAM command 'asay' with arguments: 'goto atsana'
+[16:20:43	]C24:i3.XRAY-91 entered observer.
+[16:20:44	]C24:i3.XRAY-91 exited observer at their location.
+[16:20:49	]Theodore Abernathy ran SAM command 'goto' with arguments: 'xray'
+[16:20:50	]Theodore Abernathy exited observer at their location.
+[16:20:56	][IC] Theodore Abernathy: Hassiktir!
+[16:21:02	][IC] Theodore Abernathy: Bu saçmalık!
+[16:21:15	]C24:i3.XRAY-91 has given himself a breach.
+[16:21:20	]C24:i3.XRAY-91 has given himself a breach.
+[16:21:20	]C24:i3.XRAY-91 has gained a 'Kapı Patlatma Aleti' #69512.
+[16:21:23	]C24:i3.XRAY-91 ran 'Place' on item 'Kapı Patlatma Aleti' (#69512)
+[16:21:26	]C24:i3.XRAY-91 ran 'Place' on item 'Kapı Patlatma Aleti' (#69512)
+[16:21:28	]C24:i3.XRAY-91 ran 'Place' on item 'Kapı Patlatma Aleti' (#69512)
+[16:21:29	]C24:i3.XRAY-91 entered observer.
+[16:21:30	]C24:i3.XRAY-91 exited observer at their location.
+[16:21:31	]C24:i3.XRAY-91 ran 'Place' on item 'Kapı Patlatma Aleti' (#69512)
+[16:21:35	]C24:i3.XRAY-91 ran SAM command 'asay' with arguments: 'amk kapıları'
+[16:21:37	]C24:i3.XRAY-91 ran SAM command 'asay' with arguments: 'siliyimmi'
+[16:21:40	]C24:i3.XRAY-91 entered observer.
+[16:21:43	]Theodore Abernathy entered observer.
+[16:21:50	]C24:i3.XRAY-91 ran 'Place' on item 'CWU Lock' (#69511)
+[16:21:52	]Theodore Abernathy ran SAM command 'asay' with arguments: 'silme sşimdi'
+[16:21:56	]C24:i3.XRAY-91 has spawned a 'Entity [4642][ix_combinelock_cwu]'.
+[16:22:04	]C24:i3.XRAY-91 has spawned a 'Entity [4642][ix_combinelock_cwu]'.
+[16:22:07	]Theodore Abernathy exited observer at their location.
+[16:22:09	]C24:i3.XRAY-91 exited observer at their location.
+[16:22:13	]C24:i3.XRAY-91 has given himself a cwulock.
+[16:22:13	]C24:i3.XRAY-91 has gained a 'CWU Lock' #69513.
+[16:22:15	]C24:i3.XRAY-91 ran 'Place' on item 'CWU Lock' (#69513)
+[16:22:15	]Sinyor Gordon entered observer.
+[16:22:16	]Sinyor Gordon exited observer at their location.
+[16:22:18	]C24:i3.XRAY-91 has given himself a cwulock.
+[16:22:18	]C24:i3.XRAY-91 has gained a 'CWU Lock' #69514.
+[16:22:19	]C24:i3.XRAY-91 ran 'Place' on item 'CWU Lock' (#69514)
+[16:22:20	]Theodore Abernathy ran SAM command 'hp' with arguments: 'STEAM_0:1:525389834' '1'
+[16:22:23	]C24:i3.XRAY-91 has given himself a cwulock.
+[16:22:23	]C24:i3.XRAY-91 has gained a 'CWU Lock' #69515.
+[16:22:24	]Sinyor Gordon entered observer.
+[16:22:24	]C24:i3.XRAY-91 ran 'Place' on item 'CWU Lock' (#69515)
+[16:22:25	]C24:i3.XRAY-91 entered observer.
+[16:22:26	][IC] Theodore Abernathy: Gerçekçi.
+[16:22:27	][IC] Theodore Abernathy: Can.
+[16:22:29	]Theodore Abernathy entered observer.
+[16:22:30	]C24:i3.XRAY-91 has given himself a cwulock.
+[16:22:30	]C24:i3.XRAY-91 has gained a 'CWU Lock' #69516.
+[16:22:30	]Theodore Abernathy exited observer at their location.
+[16:22:30	]Sinyor Gordon ran SAM command 'hp' with arguments: 'sinyo' '9329312493249'
+[16:22:31	]Sinyor Gordon exited observer at their location.
+[16:22:32	]C24:i3.XRAY-91 ran 'Place' on item 'CWU Lock' (#69516)
+[16:22:34	]Sinyor Gordon is fully healed.
+[16:22:41	]C24:i3.XRAY-91 has given himself a cmrulock.
+[16:22:41	]C24:i3.XRAY-91 has gained a 'CMRU Lock' #69517.
+[16:22:42	]C24:i3.XRAY-91 ran 'Place' on item 'CMRU Lock' (#69517)
+[16:22:49	]C24:i3.XRAY-91 has used a context menu option with the name: remove
+[16:22:53	]C24:i3.XRAY-91 has given himself a cmrulock.
+[16:22:53	]C24:i3.XRAY-91 has gained a 'CMRU Lock' #69518.
+[16:22:54	]C24:i3.XRAY-91 ran 'Place' on item 'CMRU Lock' (#69518)
+[16:22:56	]C24:i3.XRAY-91 ran 'Place' on item 'CMRU Lock' (#69518)
+[16:23:02	]C24:i3.XRAY-91 exited observer at their location.
+[16:23:02	][IC] Sinyor Gordon: SUS LAN.
+[16:23:08	]C24:i3.XRAY-91 entered observer.
+[16:23:10	]C24:i3.XRAY-91 ran 'Place' on item 'CMRU Lock' (#69518)
+[16:23:13	]C24:i3.XRAY-91 has given himself a cmrulock.
+[16:23:13	]C24:i3.XRAY-91 has gained a 'CMRU Lock' #69519.
+[16:23:13	]Theodore Abernathy has used a context menu option with the name: collision_off
+[16:23:14	]C24:i3.XRAY-91 exited observer at their location.
+[16:23:14	]Theodore Abernathy has used a context menu option with the name: collision_on
+[16:23:15	]C24:i3.XRAY-91 ran 'Place' on item 'CMRU Lock' (#69519)
+[16:23:16	]C24:i3.XRAY-91 entered observer.
+[16:23:18	]C24:i3.XRAY-91 exited observer at their location.
+[16:23:18	]C24:i3.XRAY-91 has given himself a cmrulock.
+[16:23:19	]C24:i3.XRAY-91 has gained a 'CMRU Lock' #69520.
+[16:23:20	]C24:i3.XRAY-91 ran 'Place' on item 'CMRU Lock' (#69520)
+[16:23:21	]C24:i3.XRAY-91 entered observer.
+[16:23:25	]Sinyor Gordon has taken 500 damage from Theodore Abernathy.
+[16:23:27	]Sinyor Gordon has taken 500 damage from Theodore Abernathy.
+[16:23:27	]Sinyor Gordon has taken 10 damage from Theodore Abernathy.
+[16:23:28	]C24:i3.XRAY-91 has given himself a combinelock.
+[16:23:28	]C24:i3.XRAY-91 has gained a 'Combine Lock' #69521.
+[16:23:29	]Sinyor Gordon is fully healed.
+[16:23:29	]Sinyor Gordon has taken 500 damage from Theodore Abernathy.
+[16:23:30	]C24:i3.XRAY-91 ran 'Place' on item 'Combine Lock' (#69521)
+[16:23:31	]C24:i3.XRAY-91 exited observer at their location.
+[16:23:31	]Sinyor Gordon has taken 500 damage from Theodore Abernathy.
+[16:23:31	]Sinyor Gordon has taken 10 damage from Theodore Abernathy.
+[16:23:33	][IC] Sinyor Gordon: Ne yaptığını sanıyorsun?
+[16:23:33	]Sinyor Gordon has taken 500 damage from Theodore Abernathy.
+[16:23:34	]Sinyor Gordon is fully healed.
+[16:23:38	]Sinyor Gordon entered observer.
+[16:23:39	]Beyin.Dll loaded the character 'John Brookly'
+[16:23:39	][IC] Sinyor Gordon: V.
+[16:23:40	]John Brookly entered observer.
+[16:23:41	]Sinyor Gordon exited observer at their location.
+[16:23:43	]John Brookly is fully healed.
+[16:23:46	][IC] Sinyor Gordon: Hey! Sana diyorum.
+[16:23:49	]DavşanAbi has connected.
+[16:23:53	][IC] Sinyor Gordon: Artık durmalısın!
+[16:24:04	]John Brookly has given himself a combinelock.
+[16:24:04	][IC] Sinyor Gordon: Ne yaptığını sanıyorsun ulan!
+[16:24:04	]John Brookly has gained a 'Combine Lock' #69522.
+[16:24:05	]Sinyor Gordon entered observer.
+[16:24:05	]Shane Walsh has connected.
+[16:24:05	]Sinyor Gordon exited observer at their location.
+[16:24:06	]John Brookly ran 'Place' on item 'Combine Lock' (#69522)
+[16:24:12	]John Brookly has given himself a combinelock.
+[16:24:12	][IC] Sinyor Gordon: DÜZELT BENİ.
+[16:24:12	]John Brookly has gained a 'Combine Lock' #69523.
+[16:24:13	]John Brookly has given himself a combinelock.
+[16:24:13	]John Brookly has gained a 'Combine Lock' #69524.
+[16:24:14	]John Brookly ran 'Place' on item 'Combine Lock' (#69524)
+[16:24:16	]Sinyor Gordon ran SAM command 'unfreeze' with arguments: ''
+[16:24:18	]Sinyor Gordon entered observer.
+[16:24:18	]Sinyor Gordon exited observer at their location.
+[16:24:21	][IC] Sinyor Gordon: HAAAAAAAAAA.
+[16:24:26	]John Brookly has given himself a combinelock.
+[16:24:26	]John Brookly has gained a 'Combine Lock' #69525.
+[16:24:26	]John Brookly has given himself a combinelock.
+[16:24:26	]John Brookly has gained a 'Combine Lock' #69526.
+[16:24:28	]John Brookly ran 'Place' on item 'Combine Lock' (#69526)
+[16:24:29	]Theodore Abernathy entered observer.
+[16:24:36	]Theodore Abernathy exited observer at their location.
+[16:24:37	]Sinyor Gordon loaded the character 'Mark Ringer'
+[16:24:42	]Mark Ringer is fully healed.
+[16:24:44	]Sinyor Gordon loaded the character 'Sinyor Gordon'
+[16:24:47	]John Brookly ran 'Place' on item 'Combine Lock' (#69525)
+[16:24:49	]Sinyor Gordon entered observer.
+[16:24:52	]John Brookly has given himself a combinelock.
+[16:24:52	]John Brookly has gained a 'Combine Lock' #69527.
+[16:24:55	]John Brookly ran 'Place' on item 'Combine Lock' (#69527)
+[16:24:57	]Theodore Abernathy entered observer.
+[16:24:57	]Theodore Abernathy exited observer at their location.
+[16:24:58	]John Brookly ran 'Place' on item 'Combine Lock' (#69523)
+[16:24:58	]Theodore Abernathy entered observer.
+[16:24:59	]Theodore Abernathy exited observer at their location.
+[16:25:01	][IC] Sinyor Gordon: Son kez uyarıyorum.
+[16:25:02	]Theodore Abernathy entered observer.
+[16:25:03	]John Brookly has given himself a combinelock.
+[16:25:03	]John Brookly has gained a 'Combine Lock' #69528.
+[16:25:04	]Sinyor Gordon exited observer at their location.
+[16:25:08	]John Brookly ran 'Place' on item 'Combine Lock' (#69528)
+[16:25:10	]John Brookly ran 'Place' on item 'Combine Lock' (#69528)
+[16:25:11	]Shane Walsh loaded the character 'C24:i4.HELIX-86'
+[16:25:14	]Theodore Abernathy exited observer at their location.
+[16:25:15	]Theodore Abernathy entered observer.
+[16:25:15	]John Brookly has given himself a combinelock.
+[16:25:15	]John Brookly has gained a 'Combine Lock' #69529.
+[16:25:15	]C24:i4.HELIX-86 is fully healed.
+[16:25:17	]John Brookly ran 'Place' on item 'Combine Lock' (#69529)
+[16:25:22	]Theodore Abernathy exited observer at their location.
+[16:25:29	]C24:i4.HELIX-86 used command '/Radio 10-8'.
+[16:25:30	]DavşanAbi loaded the character 'Frank Furt'
+[16:25:33	]Frank Furt entered observer.
+[16:25:33	][IC] Theodore Abernathy: Copy.
+[16:25:35	]John Brookly has given himself a combinelock.
+[16:25:35	]John Brookly has gained a 'Combine Lock' #69530.
+[16:25:35	]Frank Furt is fully healed.
+[16:25:37	]John Brookly ran 'Place' on item 'Combine Lock' (#69530)
+[16:25:40	][IC] C24:i4.HELIX-86: <:: Evet? ::>
+[16:25:40	]John Brookly has used a context menu option with the name: remove
+[16:25:42	]John Brookly has given himself a combinelock.
+[16:25:42	]John Brookly has gained a 'Combine Lock' #69531.
+[16:25:43	]John Brookly ran 'Place' on item 'Combine Lock' (#69531)
+[16:25:47	][IC] Theodore Abernathy: Yakışıklı bir birim görmüşüm, geçer miyim?
+[16:25:48	]Frank Furt exited observer at their location.
+[16:25:50	]Frank Furt entered observer.
+[16:25:57	][IC] C24:i4.HELIX-86: <:: Genemi sen. ::>
+[16:26:08	][ME] C24:i4.HELIX-86: Maskeli sivil koruma biraz kıkırdar.
+[16:26:13	][IC] C24:i4.HELIX-86: <:: Kardeşim hadi ilerle. ::>
+[16:26:15	]John Brookly opened the 'Dropped Items' #6669 container.
+[16:26:17	]John Brookly closed the 'Dropped Items' #6669 container.
+[16:26:17	]John Brookly opened the 'Dropped Items' #6655 container.
+[16:26:18	]John Brookly closed the 'Dropped Items' #6655 container.
+[16:26:20	][IC] Theodore Abernathy: Bu saçmalık!
+[16:26:22	]Frank Furt used command '/CharSetName HELIX-86 C24.i3.HELIX-86'.
+[16:26:29	]Theodore Abernathy has gained level 1 in the Hız skill.
+[16:26:34	]Theodore Abernathy entered observer.
+[16:26:37	]John Brookly exited observer at their location.
+[16:26:37	]Theodore Abernathy exited observer at their location.
+[16:26:37	]John Brookly entered observer.
+[16:26:38	]Theodore Abernathy has gained level 2 in the Hız skill.
+[16:26:38	]John Brookly exited observer at their location.
+[16:26:39	]John Brookly entered observer.
+[16:26:44	]John Brookly has given himself a combinelock.
+[16:26:44	]John Brookly has gained a 'Combine Lock' #69532.
+[16:26:44	]John Brookly has given himself a combinelock.
+[16:26:44	]John Brookly has gained a 'Combine Lock' #69533.
+[16:26:45	]John Brookly has given himself a combinelock.
+[16:26:45	]John Brookly has gained a 'Combine Lock' #69534.
+[16:26:47	]John Brookly ran 'Place' on item 'Combine Lock' (#69532)
+[16:26:49	]John Brookly ran 'Place' on item 'Combine Lock' (#69533)
+[16:26:53	]John Brookly has given himself a combinelock.
+[16:26:53	]John Brookly has gained a 'Combine Lock' #69535.
+[16:26:54	]John Brookly ran 'Place' on item 'Combine Lock' (#69534)
+[16:26:56	]John Brookly ran 'Place' on item 'Combine Lock' (#69535)
+[16:27:09	]Theodore Abernathy entered observer.
+[16:27:11	]Theodore Abernathy exited observer at their location.
+[16:27:15	]Theodore Abernathy ran SAM command 'bring' with arguments: 'sinyor'
+[16:27:17	]Frank Furt exited observer at their location.
+[16:27:27	]Sinyor Gordon entered observer.
+[16:27:29	]Sinyor Gordon exited observer at their location.
+[16:27:39	]Frank Furt entered observer.
+[16:27:42	]John Brookly has given himself a cmrulock.
+[16:27:42	]John Brookly has gained a 'CMRU Lock' #69536.
+[16:27:43	]John Brookly has given himself a cmrulock.
+[16:27:43	]John Brookly has gained a 'CMRU Lock' #69537.
+[16:27:45	]John Brookly ran 'Place' on item 'CMRU Lock' (#69537)
+[16:27:47	]John Brookly ran 'Place' on item 'CMRU Lock' (#69536)
+[16:27:49	]John Brookly has given himself a cmrulock.
+[16:27:50	]John Brookly has gained a 'CMRU Lock' #69538.
+[16:27:51	]John Brookly ran 'Place' on item 'CMRU Lock' (#69538)
+[16:27:56	]John Brookly has given himself a cmrulock.
+[16:27:56	]John Brookly has gained a 'CMRU Lock' #69539.
+[16:27:56	]John Brookly has given himself a cmrulock.
+[16:27:56	]John Brookly has gained a 'CMRU Lock' #69540.
+[16:27:57	]John Brookly ran 'Place' on item 'CMRU Lock' (#69540)
+[16:28:00	]John Brookly ran 'Place' on item 'CMRU Lock' (#69539)
+[16:28:11	]John Brookly has given himself a moelock.
+[16:28:11	]John Brookly has gained a 'MOE Lock' #69541.
+[16:28:11	]John Brookly has given himself a moelock.
+[16:28:11	]John Brookly has gained a 'MOE Lock' #69542.
+[16:28:12	]John Brookly ran 'Place' on item 'MOE Lock' (#69542)
+[16:28:13	]Sinyor Gordon entered observer.
+[16:28:13	]Sinyor Gordon exited observer at their location.
+[16:28:18	]John Brookly has used a context menu option with the name: remove
+[16:28:19	]John Brookly ran 'Place' on item 'MOE Lock' (#69541)
+[16:28:23	]John Brookly has given himself a moelock.
+[16:28:23	]John Brookly has gained a 'MOE Lock' #69543.
+[16:28:25	]John Brookly ran 'Place' on item 'MOE Lock' (#69543)
+[16:28:30	]John Brookly has given himself a cmrulock.
+[16:28:30	]John Brookly has gained a 'CMRU Lock' #69544.
+[16:28:31	]John Brookly ran 'Place' on item 'CMRU Lock' (#69544)
+[16:28:36	]John Brookly has given himself a moelock.
+[16:28:36	]John Brookly has gained a 'MOE Lock' #69545.
+[16:28:36	]John Brookly has given himself a moelock.
+[16:28:36	]John Brookly has gained a 'MOE Lock' #69546.
+[16:28:37	]John Brookly has given himself a moelock.
+[16:28:37	]John Brookly has gained a 'MOE Lock' #69547.
+[16:28:38	]John Brookly ran 'Place' on item 'MOE Lock' (#69547)
+[16:28:40	]John Brookly exited observer at their location.
+[16:28:41	]John Brookly ran 'Place' on item 'MOE Lock' (#69547)
+[16:28:45	]John Brookly entered observer.
+[16:28:47	]John Brookly exited observer at their location.
+[16:28:48	]John Brookly ran 'Place' on item 'MOE Lock' (#69547)
+[16:28:49	]Theodore Abernathy entered observer.
+[16:28:49	]Theodore Abernathy exited observer at their location.
+[16:28:50	]Theodore Abernathy entered observer.
+[16:28:55	]John Brookly ran SAM command 'asay' with arguments: 'amını siktigimin kapıları'
+[16:29:00	]Frank Furt has spawned a akm.
+[16:29:01	]Theodore Abernathy exited observer at their location.
+[16:29:03	]John Brookly ran SAM command 'asay' with arguments: '2 tane silincek kapı buldum herkes cıkmadan önce silcem'
+[16:29:06	]Frank Furt has given himself a akm.
+[16:29:06	]Frank Furt has gained a 'AKM' #69549.
+[16:29:08	]Frank Furt ran 'Equip' on item 'AKM' (#69549)
+[16:29:13	]John Brookly has given himself a breach.
+[16:29:13	]John Brookly has gained a 'Kapı Patlatma Aleti' #69550.
+[16:29:21	]John Brookly has given himself a breach.
+[16:29:21	]John Brookly has gained a 'Kapı Patlatma Aleti' #69551.
+[16:29:22	]John Brookly ran 'Place' on item 'Kapı Patlatma Aleti' (#69551)
+[16:29:26	]Frank Furt ran 'drop' on item 'AKM' (#69549)
+[16:29:26	]Frank Furt has lost a 'AKM' #69549.
+[16:29:26	]John Brookly ran 'Place' on item 'MOE Lock' (#69546)
+[16:29:29	]John Brookly ran 'Place' on item 'MOE Lock' (#69545)
+[16:29:29	]Frank Furt has used a context menu option with the name: remove
+[16:29:30	]John Brookly entered observer.
+[16:29:31	]Frank Furt has given himself a rpg.
+[16:29:31	]Frank Furt has gained a 'RPG-7' #69552.
+[16:29:34	]Frank Furt ran 'Equip' on item 'RPG-7' (#69552)
+[16:29:44	]John Brookly ran 'drop' on item 'MOE Lock' (#69547)
+[16:29:44	]John Brookly has lost a 'MOE Lock' #69547.
+[16:29:44	]Theodore Abernathy has taken 43 damage from Frank Furt.
+[16:29:48	]John Brookly has used a context menu option with the name: remove
+[16:29:49	]Theodore Abernathy ran SAM command 'hp' with arguments: '^' '100'
+[16:29:53	]John Brookly exited observer at their location.
+[16:29:53	]Theodore Abernathy is fully healed.
+[16:29:54	]John Brookly has given himself a cmrulock.
+[16:29:54	]John Brookly has gained a 'CMRU Lock' #69553.
+[16:29:55	]John Brookly has given himself a cmrulock.
+[16:29:55	]John Brookly has gained a 'CMRU Lock' #69554.
+[16:29:55	]John Brookly has given himself a cmrulock.
+[16:29:55	]John Brookly has gained a 'CMRU Lock' #69555.
+[16:29:56	]John Brookly ran 'Place' on item 'CMRU Lock' (#69555)
+[16:29:58	]Sinyor Gordon ran SAM command 'asay' with arguments: 'yardım edermisin enis'
+[16:30:00	]Theodore Abernathy has used a context menu option with the name: remove
+[16:30:01	]John Brookly ran 'Place' on item 'CMRU Lock' (#69554)
+[16:30:01	]Sinyor Gordon ran SAM command 'asay' with arguments: 'hala felcim'
+[16:30:02	]Theodore Abernathy entered observer.
+[16:30:03	]John Brookly ran 'Place' on item 'CMRU Lock' (#69553)
+[16:30:07	]Frank Furt exited observer at their location.
+[16:30:07	]Theodore Abernathy ran SAM command 'goto' with arguments: 'sinyor'
+[16:30:08	]Frank Furt has taken 17 damage from worldspawn.
+[16:30:08	]Frank Furt entered observer.
+[16:30:09	]Theodore Abernathy exited observer at their location.
+[16:30:11	]John Brookly has given himself a cmrulock.
+[16:30:11	]John Brookly has gained a 'CMRU Lock' #69556.
+[16:30:13	]John Brookly has given himself a cmrulock.
+[16:30:13	]John Brookly has gained a 'CMRU Lock' #69557.
+[16:30:17	][IC] Sinyor Gordon: Ulan.
+[16:30:17	]John Brookly ran SAM command 'asay' with arguments: 'öncelikle sakin ol'
+[16:30:19	]John Brookly ran 'Place' on item 'CMRU Lock' (#69557)
+[16:30:21	]John Brookly entered observer.
+[16:30:25	]Theodore Abernathy ran SAM command 'respawn' with arguments: 'sinyor'
+[16:30:26	]Theodore Abernathy ran SAM command 'bring' with arguments: 'sinyor'
+[16:30:27	]John Brookly ran 'drop' on item 'CMRU Lock' (#69556)
+[16:30:27	]John Brookly has lost a 'CMRU Lock' #69556.
+[16:30:29	]John Brookly has used a context menu option with the name: remove
+[16:30:35	]Theodore Abernathy ran SAM command 'unfreeze' with arguments: 'sinyor'
+[16:30:38	]John Brookly has given himself a cwulock.
+[16:30:38	]John Brookly has gained a 'CWU Lock' #69558.
+[16:30:38	]John Brookly has given himself a cwulock.
+[16:30:38	]John Brookly has gained a 'CWU Lock' #69559.
+[16:30:40	]John Brookly ran 'Place' on item 'CWU Lock' (#69559)
+[16:30:45	]John Brookly has used a context menu option with the name: remove
+[16:30:49	][IC] Theodore Abernathy: Karakter değişşş.
+[16:30:57	]John Brookly has given himself a combinelock.
+[16:30:57	]John Brookly has gained a 'Combine Lock' #69560.
+[16:30:59	]John Brookly ran 'Place' on item 'Combine Lock' (#69560)
+[16:30:59	][IC] Theodore Abernathy: Deneysel varlık.
+[16:31:03	]DavşanAbi (STEAM_0:0:100418262) deleted character 'Zigurath'
+[16:31:04	]John Brookly exited observer at their location.
+[16:31:05	]John Brookly entered observer.
+[16:31:08	]Theodore Abernathy ran SAM command 'freeze' with arguments: 'sinyor'
+[16:31:09	]Sinyor Gordon loaded the character 'Alvaro De Luca'
+[16:31:12	][IC] Alvaro De Luca: AAAAAA.
+[16:31:14	]Alvaro De Luca is fully healed.
+[16:31:15	]Alvaro De Luca ran SAM command 'asay' with arguments: 'HALA ÖYLE'
+[16:31:16	]Alvaro De Luca entered observer.
+[16:31:17	]Alvaro De Luca exited observer at their location.
+[16:31:17	]Theodore Abernathy ran SAM command 'unfreeze' with arguments: 'alvaro'
+[16:31:17	]Alvaro De Luca entered observer.
+[16:31:18	]Alvaro De Luca exited observer at their location.
+[16:31:18	]John Brookly ran SAM command 'asay' with arguments: 'tamam bitti kapılar(şükür)'
+[16:31:19	]Theodore Abernathy ran SAM command 'goto' with arguments: 'alvaro'
+[16:31:21	]Theodore Abernathy entered observer.
+[16:31:25	]C24.i3.HELIX-86 used the 'Sivil Koruma Eşya Tedarikçisi' vendor.
+[16:31:27	]Theodore Abernathy exited observer at their location.
+[16:31:28	]John Brookly ran 'drop' on item 'CWU Lock' (#69558)
+[16:31:28	]John Brookly has lost a 'CWU Lock' #69558.
+[16:31:30	]John Brookly has used a context menu option with the name: remove
+[16:31:31	]Theodore Abernathy ran SAM command 'bring' with arguments: 'alvaro'
+[16:31:32	]John Brookly ran SAM command 'goto' with arguments: 'alvaro'
+[16:31:33	]Alvaro De Luca ran SAM command 'asay' with arguments: 'olm var ya senin yapacağoın işi sikmek istiyorum'
+[16:31:33	]Alvaro De Luca entered observer.
+[16:31:33	]John Brookly exited observer at their location.
+[16:31:33	]Alvaro De Luca exited observer at their location.
+[16:31:34	]John Brookly entered observer.
+[16:31:35	]John Brookly exited observer at their location.
+[16:31:40	][IC] Theodore Abernathy: Ben naptım.
+[16:31:42	]Sinyor Gordon loaded the character 'Sinyor Gordon'
+[16:31:44	][IC] John Brookly: Heh.
+[16:31:44	]Theodore Abernathy entered observer.
+[16:31:44	]Theodore Abernathy exited observer at their location.
+[16:31:44	]Sinyor Gordon entered observer.
+[16:31:45	]Sinyor Gordon exited observer at their location.
+[16:31:45	]Theodore Abernathy entered observer.
+[16:31:46	]Theodore Abernathy exited observer at their location.
+[16:31:47	]Theodore Abernathy entered observer.
+[16:31:47	]John Brookly entered observer.
+[16:31:51	]Theodore Abernathy exited observer at their location.
+[16:31:51	]Sinyor Gordon entered observer.
+[16:31:51	]Sinyor Gordon exited observer at their location.
+[16:31:52	]John Brookly exited observer at their location.
+[16:31:53	][IC] Sinyor Gordon: Ddur.
+[16:31:56	]Sinyor Gordon has fired a toolgun with the name: camera
+[16:31:57	]John Brookly has spawned a 'Entity [4690][ent_musical_keyboard]'.
+[16:31:59	][IC] Sinyor Gordon: Gel!
+[16:32:02	][IC] Sinyor Gordon: Edit için.
+[16:32:10	][IC] Theodore Abernathy: Digger.
+[16:32:21	]C24.i3.HELIX-86 ran SAM command 'asay' with arguments: 'Adminler SK dağıtıcısında SMG yoktur bilginize ekleme şansınız varmı ve bombalar.'
+[16:32:23	]C24.i3.HELIX-86 used the 'Sivil Koruma Eşya Tedarikçisi' vendor.
+[16:32:58	]C24.i3.HELIX-86 used the 'Sivil Koruma Eşya Tedarikçisi' vendor.
+[16:33:05	]Theodore Abernathy entered observer.
+[16:33:06	]Theodore Abernathy exited observer at their location.
+[16:33:13	]Sinyor Gordon ran SAM command 'asay' with arguments: 'GEL LAN'
+[16:33:21	]Theodore Abernathy entered observer.
+[16:33:24	]Sinyor Gordon has fired a toolgun with the name: camera
+[16:33:24	]Theodore Abernathy exited observer at their location.
+[16:33:27	]John Brookly entered observer.
+[16:33:30	]John Brookly claimed a report by C24.i3.HELIX-86 (Shane Walsh).
+[16:33:30	]John Brookly ran SAM command 'goto' with arguments: '#5'
+[16:33:32	]John Brookly exited observer at their location.
+[16:33:32	][IC] Sinyor Gordon: Bana bak.
+[16:33:34	][IC] Sinyor Gordon: Yandan.
+[16:33:35	]John Brookly has used a context menu option with the name: vendor_edit
+[16:33:44	][IC] Sinyor Gordon: KARŞIMA GEÇ LAN!
+[16:33:53	][IC] John Brookly: Ekledim.
+[16:34:00	][LOOC] C24.i3.HELIX-86: tamamdır.
+[16:34:04	]John Brookly entered observer.
+[16:34:04	]C24.i3.HELIX-86 used the 'Sivil Koruma Eşya Tedarikçisi' vendor.
+[16:34:09	]John Brookly exited observer at their location.
+[16:34:09	]C24.i3.HELIX-86 has gained 0 chips.
+[16:34:12	]John Brookly has lost a '20rnd FiveSeven-şarjörü' #20261.
+[16:34:12	]John Brookly has gained a '20rnd FiveSeven-şarjörü' #20261.
+[16:34:12	]John Brookly has lost a '20rnd FiveSeven-şarjörü' #20259.
+[16:34:12	]John Brookly has gained a '20rnd FiveSeven-şarjörü' #20260.
+[16:34:14	]C24.i3.HELIX-86 ran 'take' on item 'MP5A3' (#69561)
+[16:34:19	][IC] Theodore Abernathy: K word.
+[16:34:34	]Beyin.Dll loaded the character 'Yakışıklı Güvenlik'
+[16:34:36	]Yakışıklı Güvenlik ran SAM command 'goto' with arguments: 'the'
+[16:34:38	]Yakışıklı Güvenlik is fully healed.
+[16:34:40	]Yakışıklı Güvenlik entered observer.
+[16:34:42	]C24.i3.HELIX-86 ran 'take' on item 'MP5A3' (#69561)
+[16:34:43	]C24.i3.HELIX-86 ran 'take' on item 'MP5A3' (#69561)
+[16:34:46	][IC] Sinyor Gordon: BÖYLE BAK.
+[16:34:51	]Yakışıklı Güvenlik exited observer at their location.
+[16:34:53	]Yakışıklı Güvenlik ran SAM command 'asay' with arguments: 'goto atsana'
+[16:34:57	]Yakışıklı Güvenlik ran SAM command 'bring' with arguments: 'siny'
+[16:35:03	]C24.i3.HELIX-86 ran 'take' on item 'MP5A3' (#69561)
+[16:35:03	]C24.i3.HELIX-86 has gained a 'MP5A3' #69561.
+[16:35:04	]Theodore Abernathy ran SAM command 'asay' with arguments: 'la adam bişey yapıyo dur asıodhonasjh'
+[16:35:07	]Yakışıklı Güvenlik ran SAM command 'asay' with arguments: 'enis'
+[16:35:09	]C24.i3.HELIX-86 ran 'Equip' on item 'MP5A3' (#69561)
+[16:35:10	]Yakışıklı Güvenlik ran SAM command 'asay' with arguments: 'npcler düzeldimi'
+[16:35:11	]Theodore Abernathy ran SAM command 'goto' with arguments: 'yak'
+[16:35:12	]Yakışıklı Güvenlik ran SAM command 'asay' with arguments: 'bu arada'
+[16:35:14	]C24.i3.HELIX-86 used the 'Sivil Koruma Eşya Tedarikçisi' vendor.
+[16:35:17	]Sinyor Gordon has fired a toolgun with the name: camera
+[16:35:29	]C24.i3.HELIX-86 ran 'drop' on item '17rnd Usp-Şarjörü' (#65796)
+[16:35:29	]C24.i3.HELIX-86 has lost a '17rnd Usp-Şarjörü' #65796.
+[16:35:30	]C24.i3.HELIX-86 ran 'drop' on item '17rnd Usp-Şarjörü' (#65780)
+[16:35:30	]C24.i3.HELIX-86 has lost a '17rnd Usp-Şarjörü' #65780.
+[16:35:31	]C24.i3.HELIX-86 ran 'drop' on item '17rnd Usp-Şarjörü' (#65781)
+[16:35:31	]C24.i3.HELIX-86 has lost a '17rnd Usp-Şarjörü' #65781.
+[16:35:32	]Yakışıklı Güvenlik has spawned a 'Entity [4705][npc_zombie_prone]'.
+[16:35:36	][IC] Sinyor Gordon: Beytin.
+[16:35:38	][IC] Sinyor Gordon: Kadraja gir.
+[16:35:40	][IC] Sinyor Gordon: BEYİN.
+[16:35:43	][IC] Sinyor Gordon: SİNİR ETME BENİ OLUM.
+[16:35:44	][IC] Sinyor Gordon: !
+[16:35:45	]C24.i3.HELIX-86 destroyed a '17rnd Usp-Şarjörü' #65780.
+[16:35:46	]C24.i3.HELIX-86 destroyed a '17rnd Usp-Şarjörü' #65796.
+[16:35:47	]C24.i3.HELIX-86 destroyed a '17rnd Usp-Şarjörü' #65781.
+[16:35:50	]Theodore Abernathy used command '/PlaySoundGlobal music/passive/passivemusic_16.ogg'.
+[16:35:50	]C24.i3.HELIX-86 used the 'Sivil Koruma Eşya Tedarikçisi' vendor.
+[16:35:54	]C24.i3.HELIX-86 has gained 0 chips.
+[16:35:54	]C24.i3.HELIX-86 has gained a 'SMG Mermisi' #69562.
+[16:35:55	]C24.i3.HELIX-86 has gained 0 chips.
+[16:35:55	]C24.i3.HELIX-86 has gained a 'SMG Mermisi' #69563.
+[16:36:00	]Frank Furt has gone afk.
+[16:36:07	]Yakışıklı Güvenlik has fired a toolgun with the name: light
+[16:36:10	]C24.i3.HELIX-86 used the 'Sivil Koruma Eşya Tedarikçisi' vendor.
+[16:36:11	]Yakışıklı Güvenlik has fired a toolgun with the name: light
+[16:36:14	]C24.i3.HELIX-86 has gained 0 chips.
+[16:36:14	]C24.i3.HELIX-86 has gained a 'SMG Mermisi' #69564.
+[16:36:15	]C24.i3.HELIX-86 has gained 0 chips.
+[16:36:15	]C24.i3.HELIX-86 has gained a 'SMG Mermisi' #69565.
+[16:36:15	]C24.i3.HELIX-86 has gained 0 chips.
+[16:36:15	]C24.i3.HELIX-86 has gained a 'SMG Mermisi' #69566.
+[16:36:17	]Yakışıklı Güvenlik has fired a toolgun with the name: light
+[16:36:17	]Yakışıklı Güvenlik has fired a toolgun with the name: light
+[16:36:18	]Yakışıklı Güvenlik has fired a toolgun with the name: light
+[16:36:20	]C24.i3.HELIX-86 ran 'combine' on item 'Ammunition Pouch' (#50000)
+[16:36:21	]C24.i3.HELIX-86 ran 'combine' on item 'Ammunition Pouch' (#50000)
+[16:36:23	]C24.i3.HELIX-86 ran 'combine' on item 'Ammunition Pouch' (#50000)
+[16:36:23	]Theodore Abernathy has fired a toolgun with the name: lamp
+[16:36:24	]Yakışıklı Güvenlik has fired a toolgun with the name: lamp
+[16:36:26	]Yakışıklı Güvenlik has fired a toolgun with the name: lamp
+[16:36:26	]Theodore Abernathy has fired a toolgun with the name: lamp
+[16:36:29	]C24.i3.HELIX-86 ran 'combine' on item '17rnd Usp-Şarjörü' (#65795)
+[16:36:31	]C24.i3.HELIX-86 ran 'drop' on item '9mm Tabanca Mermisi' (#67934)
+[16:36:31	]C24.i3.HELIX-86 has lost a '9mm Tabanca Mermisi' #67934.
+[16:36:36	]C24.i3.HELIX-86 ran 'take' on item '9mm Tabanca Mermisi' (#67934)
+[16:36:36	]C24.i3.HELIX-86 has gained a '9mm Tabanca Mermisi' #67934.
+[16:36:36	]Yakışıklı Güvenlik has used a context menu option with the name: remove
+[16:36:39	]C24.i3.HELIX-86 ran 'combine' on item 'Ammunition Pouch' (#50000)
+[16:36:42	]C24.i3.HELIX-86 used the 'Sivil Koruma Eşya Tedarikçisi' vendor.
+[16:37:36	]DavşanAbi created the character 'Maskeli  Şahıs'
+[16:37:36	]DavşanAbi loaded the character 'Maskeli  Şahıs'
+[16:37:36	]Maskeli  Şahıs is no longer afk. Total time spent AFK: 395
+[16:37:36	]Maskeli  Şahıs has gained a '#61124 Kimlik Kartı' #69567.
+[16:37:36	]Maskeli  Şahıs has gained a 'El Feneri' #69568.
+[16:37:36	]Maskeli  Şahıs has gained a 'Küçük Çanta' #69569.
+[16:37:36	]Maskeli  Şahıs has gained a 'Büyük Çanta' #69570.
+[16:37:36	]Maskeli  Şahıs has gained a 'Gri Tulum' #69571.
+[16:37:36	]Maskeli  Şahıs has gained a 'Siyah tulum pantolonu' #69572.
+[16:37:36	]Maskeli  Şahıs has gained a 'Eskimiş Koyu Ayakkabı' #69573.
+[16:37:38	]Maskeli  Şahıs entered observer.
+[16:37:42	][IC] Yakışıklı Güvenlik: Ses gel.
+[16:38:07	]Maskeli  Şahıs has given himself a industrial_uniform.
+[16:38:07	]Maskeli  Şahıs has gained a 'Industrial Uniform MI' #69574.
+[16:38:13	]Maskeli  Şahıs has given himself a worker_uniform.
+[16:38:13	]Maskeli  Şahıs has gained a 'Worker Uniform' #69575.
+[16:38:24	][IC] Sinyor Gordon: Öldü.
+[16:38:25	][IC] Sinyor Gordon: Oldu.
+[16:38:46	]C24.i3.HELIX-86 ran SAM command 'asay' with arguments: 'Uh, adminler sonuncu sanırım bu SMG mermisini silaha koymak için Şarjör koymamışsınız.'
+[16:38:48	]Maskeli  Şahıs ran 'drop' on item 'Gri Tulum' (#69571)
+[16:38:48	]Maskeli  Şahıs has lost a 'Gri Tulum' #69571.
+[16:38:49	]Maskeli  Şahıs ran 'drop' on item 'Siyah tulum pantolonu' (#69572)
+[16:38:49	]Maskeli  Şahıs has lost a 'Siyah tulum pantolonu' #69572.
+[16:38:54	]Maskeli  Şahıs has used a context menu option with the name: remove
+[16:38:57	]Maskeli  Şahıs has used a context menu option with the name: remove
+[16:39:01	]Yakışıklı Güvenlik claimed a report by C24.i3.HELIX-86 (Shane Walsh).
+[16:39:04	]Yakışıklı Güvenlik ran SAM command 'goto' with arguments: '86'
+[16:39:06	]Yakışıklı Güvenlik entered observer.
+[16:39:06	]Maskeli  Şahıs ran 'drop' on item 'Worker Uniform' (#69575)
+[16:39:06	]Maskeli  Şahıs has lost a 'Worker Uniform' #69575.
+[16:39:08	]Maskeli  Şahıs has used a context menu option with the name: remove
+[16:39:10	]Maskeli  Şahıs ran 'drop' on item '#61124 Kimlik Kartı' (#69567)
+[16:39:10	]Maskeli  Şahıs has lost a '#61124 Kimlik Kartı' #69567.
+[16:39:12	]Maskeli  Şahıs has used a context menu option with the name: remove
+[16:39:13	]Yakışıklı Güvenlik has used a context menu option with the name: vendor_edit
+[16:39:17	]Maskeli  Şahıs exited observer at their location.
+[16:39:18	]Maskeli  Şahıs entered observer.
+[16:39:18	]C24.i3.HELIX-86 used the 'Sivil Koruma Eşya Tedarikçisi' vendor.
+[16:39:21	]Yakışıklı Güvenlik has used a context menu option with the name: vendor_edit
+[16:39:22	]Theodore Abernathy entered observer.
+[16:39:22	]Theodore Abernathy exited observer at their location.
+[16:39:30	]Yakışıklı Güvenlik exited observer at their location.
+[16:39:33	][IC] Yakışıklı Güvenlik: Koydum.
+[16:39:34	]Maskeli  Şahıs exited observer at their location.
+[16:39:37	]Maskeli  Şahıs entered observer.
+[16:39:37	]Yakışıklı Güvenlik has used a context menu option with the name: vendor_edit
+[16:39:38	][IC] C24.i3.HELIX-86: <:: Tamamdır. ::>
+[16:39:40	]C24.i3.HELIX-86 used the 'Sivil Koruma Eşya Tedarikçisi' vendor.
+[16:39:41	]Maskeli  Şahıs exited observer at their location.
+[16:39:44	]Maskeli  Şahıs entered observer.
+[16:39:44	]C24.i3.HELIX-86 has gained 0 chips.
+[16:39:45	]C24.i3.HELIX-86 has gained a '30rnd MP-şarjörü' #69576.
+[16:39:45	]Yakışıklı Güvenlik entered observer.
+[16:39:46	]C24.i3.HELIX-86 has gained 0 chips.
+[16:39:46	]C24.i3.HELIX-86 has gained a '30rnd MP-şarjörü' #69577.
+[16:39:46	]C24.i3.HELIX-86 has gained 0 chips.
+[16:39:46	]C24.i3.HELIX-86 has gained a '30rnd MP-şarjörü' #69578.
+[16:39:48	]C24.i3.HELIX-86 used the 'Sivil Koruma Eşya Tedarikçisi' vendor.
+[16:39:49	]Yakışıklı Güvenlik ran SAM command 'goto' with arguments: 'the'
+[16:39:50	]Yakışıklı Güvenlik exited observer at their location.
+[16:39:52	]C24.i3.HELIX-86 has gained 0 chips.
+[16:39:52	]C24.i3.HELIX-86 has gained a '30rnd MP-şarjörü' #69579.
+[16:39:59	]C24.i3.HELIX-86 ran 'combine' on item '30rnd MP-şarjörü' (#69579)
+[16:40:01	]C24.i3.HELIX-86 ran 'combine' on item '30rnd MP-şarjörü' (#69578)
+[16:40:03	]C24.i3.HELIX-86 ran 'combine' on item '30rnd MP-şarjörü' (#69577)
+[16:40:04	]C24.i3.HELIX-86 ran 'combine' on item '30rnd MP-şarjörü' (#69576)
+[16:40:11	]Yakışıklı Güvenlik has spawned a 'NPC [4697][npc_vj_test_aerial]'.
+[16:40:14	]Yakışıklı Güvenlik has spawned a 'NPC [4697][npc_vj_test_humanply]'.
+[16:40:14	]C24.i3.HELIX-86 used the 'Sivil Koruma Eşya Tedarikçisi' vendor.
+[16:40:18	]Yakışıklı Güvenlik has used a context menu option with the name: vj_pr_npc_control
+[16:40:20	]C24.i3.HELIX-86 has gained 0 chips.
+[16:40:20	]C24.i3.HELIX-86 has gained a 'Şarjör Çantası' #69580.
+[16:40:33	]Yakışıklı Güvenlik entered observer.
+[16:40:35	]Yakışıklı Güvenlik exited observer at their location.
+[16:40:37	]Yakışıklı Güvenlik has spawned a 'NPC [4697][npc_vj_test_humanply]'.
+[16:40:37	]C24.i3.HELIX-86 used the 'Sivil Koruma Eşya Tedarikçisi' vendor.
+[16:40:42	]Maskeli  Şahıs ran SAM command 'goto' with arguments: 'Sin'
+[16:40:43	]Maskeli  Şahıs exited observer at their location.
+[16:40:49	]Yakışıklı Güvenlik has spawned a 'NPC [4697][npc_mossman]'.
+[16:40:50	]C24.i3.HELIX-86 used the 'Sivil Koruma Eşya Tedarikçisi' vendor.
+[16:40:53	]C24.i3.HELIX-86 has gained 0 chips.
+[16:40:53	]C24.i3.HELIX-86 has gained a 'SMG Mermisi' #69581.
+[16:40:53	]C24.i3.HELIX-86 has gained 0 chips.
+[16:40:53	]C24.i3.HELIX-86 has gained a 'SMG Mermisi' #69582.
+[16:40:54	]C24.i3.HELIX-86 has gained 0 chips.
+[16:40:54	]C24.i3.HELIX-86 has gained a 'SMG Mermisi' #69583.
+[16:40:55	]C24.i3.HELIX-86 has gained 0 chips.
+[16:40:55	]C24.i3.HELIX-86 has gained a 'SMG Mermisi' #69584.
+[16:40:55	]Yakışıklı Güvenlik has spawned a 'NPC [4697][npc_vj_hlr2_refugee]'.
+[16:40:57	]Yakışıklı Güvenlik has spawned a 'NPC [4702][npc_vj_hlr2_com_engineer]'.
+[16:41:01	]Yakışıklı Güvenlik has spawned a 'NPC [4697][npc_vj_hlr2_com_prospekt]'.
+[16:41:02	]Yakışıklı Güvenlik has taken 5 damage from Overwatch Prison Guard.
+[16:41:02	]Yakışıklı Güvenlik has taken 5 damage from Overwatch Prison Guard.
+[16:41:02	]Yakışıklı Güvenlik has taken 5 damage from Overwatch Prison Guard.
+[16:41:02	]Yakışıklı Güvenlik has taken 5 damage from Overwatch Prison Guard.
+[16:41:03	]Yakışıklı Güvenlik is fully healed.
+[16:41:06	]C24.i3.HELIX-86 ran 'combine' on item 'SMG Mermisi' (#69584)
+[16:41:09	]Yakışıklı Güvenlik has spawned a 'NPC [4697][npc_vj_hl2_fisherman]'.
+[16:41:12	]Yakışıklı Güvenlik has spawned a 'NPC [4697][npc_vj_hl2_metrocop6]'.
+[16:41:18	]C24.i3.HELIX-86 used the 'Sivil Koruma Eşya Tedarikçisi' vendor.
+[16:41:20	]Yakışıklı Güvenlik entered observer.
+[16:41:20	]Theodore Abernathy has taken 55 damage from Maskeli  Şahıs.
+[16:41:20	]Sinyor Gordon has taken 81 damage from Maskeli  Şahıs.
+[16:41:21	]Yakışıklı Güvenlik exited observer at their location.
+[16:41:22	]C24.i3.HELIX-86 has gained 0 chips.
+[16:41:22	]C24.i3.HELIX-86 has gained a '30rnd MP-şarjörü' #69585.
+[16:41:22	]C24.i3.HELIX-86 has gained 0 chips.
+[16:41:22	]Sinyor Gordon is fully healed.
+[16:41:22	]C24.i3.HELIX-86 has gained a '30rnd MP-şarjörü' #69586.
+[16:41:22	]C24.i3.HELIX-86 has gained 0 chips.
+[16:41:22	]C24.i3.HELIX-86 has gained a '30rnd MP-şarjörü' #69587.
+[16:41:23	]C24.i3.HELIX-86 has gained 0 chips.
+[16:41:23	]C24.i3.HELIX-86 has gained a '30rnd MP-şarjörü' #69588.
+[16:41:26	]Theodore Abernathy ran SAM command 'hp' with arguments: '^' '100'
+[16:41:27	]Theodore Abernathy has taken 4 damage from Maskeli  Şahıs.
+[16:41:27	]Yakışıklı Güvenlik has taken 4 damage from Maskeli  Şahıs.
+[16:41:27	]Theodore Abernathy has taken 3 damage from Maskeli  Şahıs.
+[16:41:27	]Yakışıklı Güvenlik has taken 7 damage from Maskeli  Şahıs.
+[16:41:28	]Theodore Abernathy has taken 6 damage from Maskeli  Şahıs.
+[16:41:28	]Yakışıklı Güvenlik has taken 7 damage from Maskeli  Şahıs.
+[16:41:28	]Theodore Abernathy has taken 4 damage from Maskeli  Şahıs.
+[16:41:28	]Yakışıklı Güvenlik has taken 6 damage from Maskeli  Şahıs.
+[16:41:28	]Theodore Abernathy has taken 5 damage from Maskeli  Şahıs.
+[16:41:28	]Yakışıklı Güvenlik has taken 4 damage from Maskeli  Şahıs.
+[16:41:28	]Theodore Abernathy has taken 7 damage from Maskeli  Şahıs.
+[16:41:28	]Yakışıklı Güvenlik has taken 3 damage from Maskeli  Şahıs.
+[16:41:28	]Yakışıklı Güvenlik is fully healed.
+[16:41:28	]Theodore Abernathy has taken 6 damage from Maskeli  Şahıs.
+[16:41:28	]Yakışıklı Güvenlik has taken 7 damage from Maskeli  Şahıs.
+[16:41:29	]Yakışıklı Güvenlik has taken 4 damage from Maskeli  Şahıs.
+[16:41:29	]C24.i3.HELIX-86 ran 'combine' on item '30rnd MP-şarjörü' (#69588)
+[16:41:29	]Yakışıklı Güvenlik has taken 3 damage from Maskeli  Şahıs.
+[16:41:29	]Yakışıklı Güvenlik has taken 7 damage from Maskeli  Şahıs.
+[16:41:29	]Yakışıklı Güvenlik has taken 6 damage from Maskeli  Şahıs.
+[16:41:29	]Yakışıklı Güvenlik has taken 3 damage from Maskeli  Şahıs.
+[16:41:30	]Yakışıklı Güvenlik has taken 7 damage from Maskeli  Şahıs.
+[16:41:30	]Theodore Abernathy ran SAM command 'hp' with arguments: '^' '100'
+[16:41:30	]Yakışıklı Güvenlik has taken 7 damage from Maskeli  Şahıs.
+[16:41:30	]Yakışıklı Güvenlik has taken 4 damage from Maskeli  Şahıs.
+[16:41:30	]Yakışıklı Güvenlik has taken 4 damage from Maskeli  Şahıs.
+[16:41:30	]Yakışıklı Güvenlik has taken 6 damage from Maskeli  Şahıs.
+[16:41:31	]Yakışıklı Güvenlik has taken 4 damage from Maskeli  Şahıs.
+[16:41:31	]C24.i3.HELIX-86 ran 'combine' on item '30rnd MP-şarjörü' (#69585)
+[16:41:31	]Yakışıklı Güvenlik has taken 3 damage from Maskeli  Şahıs.
+[16:41:33	]Yakışıklı Güvenlik used command '/CharFallOver'.
+[16:41:33	]C24.i3.HELIX-86 ran 'combine' on item '30rnd MP-şarjörü' (#69586)
+[16:41:33	]Yakışıklı Güvenlik used command '/CharGetUp'.
+[16:41:33	]Theodore Abernathy is fully healed.
+[16:41:33	]Yakışıklı Güvenlik is fully healed.
+[16:41:34	]C24.i3.HELIX-86 ran 'combine' on item '30rnd MP-şarjörü' (#69587)
+[16:41:36	]Yakışıklı Güvenlik used command '/CharGetUp'.
+[16:41:41	]Theodore Abernathy used command '/CharFallOver 0.1'.
+[16:41:44	]Yakışıklı Güvenlik used command '/CharGetUp'.
+[16:41:45	]Yakışıklı Güvenlik used command '/CharGetUp'.
+[16:41:45	]C24.i3.HELIX-86 ran 'combine' on item 'Ammunition Pouch' (#50000)
+[16:41:46	]Yakışıklı Güvenlik has used a context menu option with the name: remove
+[16:41:50	]Yakışıklı Güvenlik has taken 3 damage from Maskeli  Şahıs.
+[16:41:50	]Yakışıklı Güvenlik has taken 4 damage from Maskeli  Şahıs.
+[16:41:50	]C24.i3.HELIX-86 used the 'Sivil Koruma Eşya Tedarikçisi' vendor.
+[16:41:50	]Yakışıklı Güvenlik has taken 6 damage from Maskeli  Şahıs.
+[16:41:51	]Yakışıklı Güvenlik has taken 7 damage from Maskeli  Şahıs.
+[16:41:51	]Yakışıklı Güvenlik has taken 4 damage from Maskeli  Şahıs.
+[16:41:51	]Yakışıklı Güvenlik has taken 6 damage from Maskeli  Şahıs.
+[16:41:51	]Yakışıklı Güvenlik has taken 6 damage from Maskeli  Şahıs.
+[16:41:51	]Yakışıklı Güvenlik has taken 7 damage from Maskeli  Şahıs.
+[16:41:52	]Yakışıklı Güvenlik has taken 7 damage from Maskeli  Şahıs.
+[16:41:52	]Yakışıklı Güvenlik has taken 7 damage from Maskeli  Şahıs.
+[16:41:52	]Yakışıklı Güvenlik has taken 4 damage from Maskeli  Şahıs.
+[16:41:52	]Yakışıklı Güvenlik has taken 4 damage from Maskeli  Şahıs.
+[16:41:52	]Yakışıklı Güvenlik has taken 3 damage from Maskeli  Şahıs.
+[16:41:53	]Yakışıklı Güvenlik has taken 5 damage from Maskeli  Şahıs.
+[16:41:53	]Yakışıklı Güvenlik has taken 5 damage from Maskeli  Şahıs.
+[16:41:53	]Theodore Abernathy ran SAM command 'hp' with arguments: '^' '100'
+[16:41:53	]Yakışıklı Güvenlik is fully healed.
+[16:41:54	]C24.i3.HELIX-86 has gained 0 chips.
+[16:41:54	]C24.i3.HELIX-86 has gained a 'SMG Mermisi' #69589.
+[16:41:54	]C24.i3.HELIX-86 has gained 0 chips.
+[16:41:54	]C24.i3.HELIX-86 has gained a 'SMG Mermisi' #69590.
+[16:42:08	]Theodore Abernathy entered observer.
+[16:42:08	]Theodore Abernathy exited observer at their location.
+[16:42:28	]Enistein has unloaded their "Theodore Abernathy" character.
+[16:42:34	]Enistein loaded the character 'S10:Disp:AI-1'
+[16:42:37	]Maskeli  Şahıs entered observer.
+[16:42:39	]S10:Disp:AI-1 is fully healed.
+[16:42:40	]Maskeli  Şahıs exited observer at their location.
+[16:42:41	]Yakışıklı Güvenlik has taken 150 damage from Maskeli  Şahıs.
+[16:42:43	]Yakışıklı Güvenlik is fully healed.
+[16:42:44	]Yakışıklı Güvenlik has taken 150 damage from Maskeli  Şahıs.
+[16:42:45	]S10:Disp:AI-1 used command '/Dispatch CONSPIRACY'.
+[16:42:48	]Yakışıklı Güvenlik is fully healed.
+[16:42:50	]Yakışıklı Güvenlik has taken 128 damage from Maskeli  Şahıs.
+[16:42:53	]Yakışıklı Güvenlik is fully healed.
+[16:42:58	]Enistein has unloaded their "S10:Disp:AI-1" character.
+[16:42:59	]Maskeli  Şahıs entered observer.
+[16:43:00	]C24.i3.HELIX-86 used command '/Radio 10-4'.
+[16:43:01	]Maskeli  Şahıs exited observer at their location.
+[16:43:02	]Enistein loaded the character 'Theodore Abernathy'
+[16:43:02	]Maskeli  Şahıs entered observer.
+[16:43:08	]Maskeli  Şahıs exited observer at their location.
+[16:43:08	]Maskeli  Şahıs entered observer.
+[16:43:09	]Maskeli  Şahıs exited observer at their location.
+[16:43:10	]Maskeli  Şahıs entered observer.
+[16:43:11	]Maskeli  Şahıs exited observer at their location.
+[16:43:12	]Maskeli  Şahıs entered observer.
+[16:43:14	]Maskeli  Şahıs exited observer at their location.
+[16:43:19	]Maskeli  Şahıs entered observer.
+[16:43:55	]Yakışıklı Güvenlik entered observer.
+[16:43:56	]Yakışıklı Güvenlik exited observer at their location.
+[16:43:57	]Yakışıklı Güvenlik entered observer.
+[16:43:58	]Yakışıklı Güvenlik exited observer at their location.
+[16:43:59	]Yakışıklı Güvenlik entered observer.
+[16:44:02	]Yakışıklı Güvenlik exited observer at their location.
+[16:44:14	]Yakışıklı Güvenlik entered observer.
+[16:44:14	]Yakışıklı Güvenlik exited observer at their location.
+[16:44:15	]Yakışıklı Güvenlik entered observer.
+[16:44:16	]Yakışıklı Güvenlik exited observer at their location.
+[16:44:17	]Yakışıklı Güvenlik entered observer.
+[16:44:17	]Yakışıklı Güvenlik exited observer at their location.
+[16:44:18	]Yakışıklı Güvenlik entered observer.
+[16:44:19	]Yakışıklı Güvenlik exited observer at their location.
+[16:44:22	]Yakışıklı Güvenlik has spawned a 'Entity [4687][ix_vortshield]'.
+[16:44:23	]Theodore Abernathy entered observer.
+[16:44:24	]Theodore Abernathy exited observer at their location.
+[16:44:25	]Yakışıklı Güvenlik has spawned a 'Entity [4687][sent_ball]'.
+[16:44:25	]Theodore Abernathy entered observer.
+[16:44:35	]Theodore Abernathy exited observer at their location.
+[16:44:40	]Sinyor Gordon has taken 150 damage from Yakışıklı Güvenlik.
+[16:44:42	]Sinyor Gordon is fully healed.
+[16:44:52	]Maskeli  Şahıs exited observer at their location.
+[16:45:06	]Maskeli  Şahıs entered observer.
+[16:45:12	]Theodore Abernathy used command '/PlaySoundGlobal music/passive/newpassive3.ogg'.
+[16:45:14	]Beyin.Dll loaded the character 'C24:i3.XRAY-91'
+[16:45:37	][IC] C24.i3.HELIX-86: <:: Sivil. ::>
+[16:45:39	][IC] Theodore Abernathy: Evet?
+[16:45:43	][IC] C24.i3.HELIX-86: <:: İş istiyormusun? ::>
+[16:45:47	][IC] Theodore Abernathy: Tabii.
+[16:45:52	]Maskeli  Şahıs has used a context menu option with the name: remove
+[16:46:03	][IC] C24.i3.HELIX-86: <:: Bezin varsa yerleri sil ve çöpleri topla.a. ::>
+[16:46:08	]C24:i3.XRAY-91 entered observer.
+[16:46:08	][IC] C24.i3.HELIX-86: <:: Tertemiz et. ::>
+[16:46:12	]Sinyor Gordon has gone afk.
+[16:46:16	][IC] C24.i3.HELIX-86: <:: Sonra beni bul. ::>
+[16:46:19	][IC] Theodore Abernathy: Evet!
+[16:46:26	]C24:i3.XRAY-91 exited observer at their location.
+[16:46:26	]C24:i3.XRAY-91 entered observer.
+[16:46:27	]C24:i3.XRAY-91 exited observer at their location.
+[16:46:30	]Theodore Abernathy has spawned a 'NPC [4689][npc_vj_hl2_citizen]'.
+[16:46:35	][IC] Theodore Abernathy: Hadi yavrum yürü.
+[16:46:37	]C24:i3.XRAY-91 used command '/Radio 10-8'.
+[16:46:39	]DavşanAbi loaded the character 'Arif Sertkesen'
+[16:46:40	]Theodore Abernathy has used a context menu option with the name: vj_pr_npc_wander
+[16:46:41	]Theodore Abernathy has used a context menu option with the name: vj_pr_npc_wander
+[16:46:42	]Arif Sertkesen entered observer.
+[16:46:44	]Arif Sertkesen is fully healed.
+[16:46:45	]C24.i3.HELIX-86 used command '/Radio 10-4'.
+[16:46:51	]C24:i3.XRAY-91 used command '/ViewInfo arif'.
+[16:46:58	]C24:i3.XRAY-91 used command '/Datafile arif'.
+[16:47:00	]Theodore Abernathy has spawned a 'NPC [4697][npc_vj_hl2_citizen2]'.
+[16:47:25	]Theodore Abernathy has spawned a 'NPC [4684][npc_vj_hl2_citizen2]'.
+[16:47:32	]C24.i3.HELIX-86 ran 'EquipUn' on item 'Combine PDA' (#41419)
+[16:47:39	]C24:i3.XRAY-91 used command '/Datafile arif'.
+[16:47:39	]Theodore Abernathy has used a context menu option with the name: vj_pr_npc_allyme
+[16:47:49	][IC] C24.i3.HELIX-86: <:: 91. ::>
+[16:48:02	]Theodore Abernathy has used a context menu option with the name: collision_off
+[16:48:04	][IC] C24:i3.XRAY-91: <:: Hmph. ::>
+[16:48:07	][IC] C24.i3.HELIX-86: <:: Arif Sertkesen neden BOL dan kaldırıldı? ::>
+[16:48:10	]Arif Sertkesen ran 'drop' on item 'Açık Gri Kol Bandı' (#68138)
+[16:48:10	]Arif Sertkesen has lost a 'Açık Gri Kol Bandı' #68138.
+[16:48:16	][IC] C24:i3.XRAY-91: <:: Dispatch emir verdi. ::>
+[16:48:18	]Arif Sertkesen ran 'take' on item 'Açık Gri Kol Bandı' (#68138)
+[16:48:18	]Arif Sertkesen has gained a 'Açık Gri Kol Bandı' #68138.
+[16:48:24	][IC] C24.i3.HELIX-86: <:: Anladım. ::>
+[16:48:35	]Arif Sertkesen opened the 'Plaza Deposu' stash.
+[16:48:41	][IC] C24.i3.HELIX-86: <:: Garip adamda yangın baltası vardı. ::>
+[16:48:44	]Arif Sertkesen closed the 'Plaza Deposu' stash.
+[16:48:46	][IC] C24.i3.HELIX-86: <:: Bir sivil korumaya saldırdı. ::>
+[16:48:55	][IC] C24:i3.XRAY-91: <:: Hmph. ::>
+[16:49:26	]Theodore Abernathy has used a context menu option with the name: collision_on
+[16:49:31	]Arif Sertkesen ran 'Equip' on item 'Açık Gri Kol Bandı' (#68138)
+[16:49:34	][IC] C24.i3.HELIX-86: <:: Şunlar ne yapıyor. ::>
+[16:49:44	]Arif Sertkesen exited observer at their location.
+[16:49:45	][IC] C24.i3.HELIX-86: <:: Evet? ::>
+[16:49:47	]Arif Sertkesen ran 'EquipUn' on item 'Yangın Baltası' (#43166)
+[16:49:48	][IC] Theodore Abernathy: Efendim arkadaşım görme engelli de.
+[16:49:50	][IC] C24.i3.HELIX-86: <:: Ne deniyorsunuz? ::>
+[16:49:54	][IC] Theodore Abernathy: Koklayarak yönünü bulmayı deniyor.
+[16:49:56	][IC] C24.i3.HELIX-86: <:: Gözlüğü yokmu? ::>
+[16:50:03	][IC] Theodore Abernathy: Görme engelli efendim, kör yani.
+[16:50:05	][IC] Theodore Abernathy: Gözlüğü ne yapsın?
+[16:50:16	][IC] C24.i3.HELIX-86: <:: Arkadaşına sahip çık. ::>
+[16:50:20	][IC] Theodore Abernathy: Tabii efendim.
+[16:50:26	][LOOC] C24.i3.HELIX-86: engelliler ampute edilmiyormuydu
+[16:50:30	][LOOC] Theodore Abernathy: evet
+[16:50:35	][LOOC] Theodore Abernathy: bu çok özel biri
+[16:50:37	][LOOC] C24.i3.HELIX-86: edicem o halde
+[16:50:38	][LOOC] Theodore Abernathy: dokunma ona ALŞSHJÖANKSH
+[16:50:46	][LOOC] C24.i3.HELIX-86: aga ediyom ben mgfdkşlngfkldngf
+[16:50:51	][IC] Theodore Abernathy: No.
+[16:50:56	]Arif Sertkesen ran 'smoke' on item 'Sigara' (#59397)
+[16:50:58	][IC] C24.i3.HELIX-86: <:: Sivil. ::>
+[16:51:03	]C24.i3.HELIX-86 has lost a '17rnd Usp-Şarjörü' #65797.
+[16:51:03	]C24.i3.HELIX-86 has gained a '17rnd Usp-Şarjörü' #65797.
+[16:51:03	]C24.i3.HELIX-86 has lost a '17rnd Usp-Şarjörü' #65795.
+[16:51:03	]C24.i3.HELIX-86 has gained a '17rnd Usp-Şarjörü' #65793.
+[16:51:05	][IC] Theodore Abernathy: Sana diyor bak.
+[16:51:07	]Arif Sertkesen has given himself a lighter.
+[16:51:07	]Arif Sertkesen has gained a 'Plastik Çakmak' #69591.
+[16:51:11	]Arif Sertkesen ran 'light' on item 'Plastik Çakmak' (#69591)
+[16:51:15	][IC] Theodore Abernathy: Aynı zamanda duyma engelli.
+[16:51:17	]Arif Sertkesen entered observer.
+[16:51:21	][LOOC] C24.i3.HELIX-86: voidliyom ndfgşjndfkjgnfd ama vurcam
+[16:51:26	]C24.i3.HELIX-86 used command '/Amputate'.
+[16:51:28	]C24.i3.HELIX-86 has critically hit npc_vj_hl2_citizen2 in the head dealing 21 damage (CritChance was 0.91).
+[16:51:28	]Beyin.Dll (STEAM_0:0:479033164) has disconnected.
+[16:51:34	]C24.i3.HELIX-86 has critically hit npc_vj_hl2_citizen2 in the left arm dealing 16 damage (CritChance was 0.91).
+[16:51:35	]C24.i3.HELIX-86 has gained a '17rnd Usp-Şarjörü' #65795.
+[16:51:35	]C24.i3.HELIX-86 has lost a '17rnd Usp-Şarjörü' #65797.
+[16:51:35	]C24.i3.HELIX-86 has gained a '17rnd Usp-Şarjörü' #65797.
+[16:51:35	]C24.i3.HELIX-86 has lost a '17rnd Usp-Şarjörü' #65792.
+[16:51:36	]Theodore Abernathy has used a context menu option with the name: remove
+[16:51:38	]Theodore Abernathy has used a context menu option with the name: remove
+[16:51:42	][IC] C24.i3.HELIX-86: <:: Haha. ::>
+[16:51:44	]Arif Sertkesen exited observer at their location.
+[16:51:45	][IC] C24.i3.HELIX-86: <:: İnsanlar berbat. Yani bizim dışımızda. ::>
+[16:51:45	][IC] Theodore Abernathy: Severdim kendisini.
+[16:51:49	]Theodore Abernathy has used a context menu option with the name: rb655_dissolve
+[16:51:50	][IC] C24.i3.HELIX-86: <:: Ben sevmezdim. ::>
+[16:52:20	][LOOC] C24.i3.HELIX-86: maskemi var yüzünde
+[16:52:23	][LOOC] Arif Sertkesen: yok
+[16:52:31	][LOOC] C24.i3.HELIX-86: bende öyle gözüküyor .[
+[16:52:34	][LOOC] Arif Sertkesen: düzeldi mi
+[16:52:41	][LOOC] C24.i3.HELIX-86: he
+[16:52:54	]C24.i3.HELIX-86 ran 'combine' on item '17rnd Usp-Şarjörü' (#65795)
+[16:53:06	][IC] C24.i3.HELIX-86: <:: İşini yaptınmı. ::>
+[16:53:14	][IC] C24.i3.HELIX-86: <:: İş vermiştim ben sana. ::>
+[16:53:23	][IC] C24.i3.HELIX-86: <:: Sana diyorum. ::>
+[16:53:23	]Arif Sertkesen ran 'smoke' on item 'Sigara' (#59397)
+[16:53:28	][IC] Theodore Abernathy: Pardon efendim içim geçmiş.
+[16:53:31	][IC] Theodore Abernathy: Yapıyorum hemen!
+[16:53:31	]Arif Sertkesen ran 'light' on item 'Plastik Çakmak' (#69591)
+[16:53:35	][IC] C24.i3.HELIX-86: <:: İçin basıl geçmiş. ::>
+[16:53:39	][IC] C24.i3.HELIX-86: <:: Hadi. ::>
+[16:53:55	][LOOC] C24.i3.HELIX-86: klavye bozuk
+[16:53:58	]Arif Sertkesen ran 'take' on item 'Tarihi Geçmiş Muz' (#67398)
+[16:53:58	]Arif Sertkesen has gained a 'Tarihi Geçmiş Muz' #67398.
+[16:54:01	]Arif Sertkesen ran 'Consume' on item 'Tarihi Geçmiş Muz' (#67398)
+[16:54:23	]Arif Sertkesen ran 'take' on item 'Boş Kavanoz' (#69129)
+[16:54:23	]Arif Sertkesen has gained a 'Boş Kavanoz' #69129.
+[16:54:32	]Arif Sertkesen entered observer.
+[16:55:16	]Theodore Abernathy has gained level 3 in the Hız skill.
+[16:56:39	]Theodore Abernathy entered observer.
+[16:57:44	]Theodore Abernathy exited observer at their location.
+[16:57:51	][IC] C24.i3.HELIX-86: <:: Koşma. ::>
+[16:57:58	][IC] C24.i3.HELIX-86: <:: Ne yapmak istiyorsun? ::>
+[16:58:00	]Sinyor Gordon entered observer.
+[16:58:02	]Sinyor Gordon is no longer afk. Total time spent AFK: 1005
+[16:58:12	][IC] C24.i3.HELIX-86: <:: Ne yapim yani? ::>
+[16:58:18	][IC] C24.i3.HELIX-86: <:: İnsanmı çıkartayim. ::>
+[16:58:27	][IC] C24.i3.HELIX-86: <:: Dostum kafanmı iyi. ::>
+[16:58:33	]Arif Sertkesen exited observer at their location.
+[16:58:35	][IC] C24.i3.HELIX-86: <:: İllegal bir şey mi içtin? ::>
+[16:58:44	][IC] C24.i3.HELIX-86: <:: Umarım. ::>
+[16:58:53	][IC] C24.i3.HELIX-86: <:: Sana çöpleri temizle denmedimi. ::>
+[16:59:14	][IC] C24.i3.HELIX-86: <:: Tamam git başka yerde iç. ::>
+[16:59:20	][IC] C24.i3.HELIX-86: <:: Ne diyon lan. ::>
+[16:59:23	][IC] C24.i3.HELIX-86: <:: Mal. ::>
+[16:59:25	]Theodore Abernathy is admin-searching Arif Sertkesen's inventory.
+[16:59:25	]Theodore Abernathy has used a context menu option with the name: ixviewinventory
+[16:59:26	][IC] C24.i3.HELIX-86: <:: Neyse işini. ::>
+[16:59:28	]Theodore Abernathy has closed Arif Sertkesen's inventory.
+[16:59:29	]Sinyor Gordon exited observer at their location.
+[16:59:30	][IC] C24.i3.HELIX-86: <:: Yapıcanmı? ::>
+[16:59:34	]Sinyor Gordon entered observer.
+[16:59:39	]Sinyor Gordon exited observer at their location.
+[16:59:43	][IC] C24.i3.HELIX-86: <:: Çöpe attınmı topladığın çöpleri. ::>
+[16:59:58	][IC] C24.i3.HELIX-86: <:: Güzel ismin ve kartındaki numarayı göster. ::>
+[17:00:01	]Theodore Abernathy used command '/ID'.
+[17:00:12	][ME] C24.i3.HELIX-86: Tabletini eline alır ve bir kaç şeye tıklar
+[17:00:14	]C24.i3.HELIX-86 ran 'Equip' on item 'Combine PDA' (#41419)
+[17:00:22	]Theodore Abernathy ran SAM command 'hp' with arguments: 'STEAM_0:1:525389834' '1'
+[17:00:30	]Sinyor Gordon ran SAM command 'hp' with arguments: 'sin' '1929299292'
+[17:00:31	]Arif Sertkesen entered observer.
+[17:00:32	]Sinyor Gordon is fully healed.
+[17:00:38	]Sinyor Gordon entered observer.
+[17:00:40	]Theodore Abernathy ran SAM command 'hp' with arguments: 'sinyor' '14531453'
+[17:00:40	]Sinyor Gordon exited observer at their location.
+[17:00:47	]Sinyor Gordon ran SAM command 'asay' with arguments: 'CcC'
+[17:00:48	][IC] C24.i3.HELIX-86: <:: Güzel gidebilirsin. ::>
+[17:00:58	]Sinyor Gordon loaded the character 'Joe Rock'
+[17:00:59	][LOOC] Arif Sertkesen: düzeldi mi
+[17:01:01	]Joe Rock entered observer.
+[17:01:08	][IC] C24.i3.HELIX-86: <:: Bak işte... ::>
+[17:01:13	]Arif Sertkesen exited observer at their location.
+[17:01:15	][IC] C24.i3.HELIX-86: <:: Koşma demiştim ben zaten sana. ::>
+[17:01:20	]Arif Sertkesen entered observer.
+[17:01:21	][IC] C24.i3.HELIX-86: <:: Uyarınıda yapmıştım. ::>
+[17:01:22	]Joe Rock exited observer at their location.
+[17:01:32	][IC] C24.i3.HELIX-86: <:: Neden heyecanlanıyorsun? ::>
+[17:01:46	]Joe Rock has given himself a paper.
+[17:01:46	]Joe Rock has gained a 'Kağıt' #69592.
+[17:01:47	][IC] C24.i3.HELIX-86: <:: Neyse kazandın ama şuan kaybediceksin. ::>
+[17:01:48	]Joe Rock ran 'Write' on item 'Kağıt' (#69592)
+[17:01:54	][IC] C24.i3.HELIX-86: <:: Cezai işlem uygulayacağım. ::>
+[17:02:00	][IC] Theodore Abernathy: Kod 63!
+[17:02:03	][IC] C24.i3.HELIX-86: <:: Olduğun yerde kal. ::>
+[17:02:10	][IC] C24.i3.HELIX-86: <:: Ne diyon amına koyim. ::>
+[17:02:15	][IC] Theodore Abernathy: Cezai işlem kodu efendim.
+[17:02:30	][IC] C24.i3.HELIX-86: <:: Sus ya bi. ::>
+[17:02:52	][IC] C24.i3.HELIX-86: <:: Pekala. ::>
+[17:02:55	][IC] C24.i3.HELIX-86: <:: İlerleyebilirsin. ::>
+[17:03:06	]Joe Rock ran 'drop' on item 'BUNU OKU' (#69592)
+[17:03:06	]Joe Rock has lost a 'BUNU OKU' #69592.
+[17:03:09	][ME] Theodore Abernathy: ağlar
+[17:03:16	]Joe Rock ran 'take' on item '9mm Tabanca Mermisi' (#64580)
+[17:03:16	]Joe Rock has gained a '9mm Tabanca Mermisi' #64580.
+[17:03:17	]Joe Rock ran 'take' on item 'İlk Yardım Kiti' (#69381)
+[17:03:17	]Joe Rock has gained a 'İlk Yardım Kiti' #69381.
+[17:03:20	]Joe Rock ran 'take' on item 'Şişte Headcrab' (#69433)
+[17:03:20	]Joe Rock has gained a 'Şişte Headcrab' #69433.
+[17:03:22	]Joe Rock ran 'take' on item 'İlk Yardım Kiti' (#69383)
+[17:03:22	]Joe Rock has gained a 'İlk Yardım Kiti' #69383.
+[17:03:24	]Joe Rock ran 'take' on item 'Şişte Headcrab' (#69431)
+[17:03:24	]Joe Rock has gained a 'Şişte Headcrab' #69431.
+[17:03:28	]Arif Sertkesen has given himself a drink_puka.
+[17:03:28	]Arif Sertkesen has gained a 'Puka Vodna' #69593.
+[17:03:31	]Joe Rock entered observer.
+[17:03:33	]Joe Rock exited observer at their location.
+[17:03:36	]C24.i3.HELIX-86 has acquired his ration, gaining 0 credits, 0 wages and a civil_protection_ration ration.
+[17:03:41	]Joe Rock ran 'Equip' on item 'FiveSeven' (#64575)
+[17:03:42	]Joe Rock has lost a '20rnd FiveSeven-şarjörü' #64576.
+[17:03:42	]Joe Rock has gained a '20rnd FiveSeven-şarjörü' #64576.
+[17:03:42	]Joe Rock has lost a '20rnd FiveSeven-şarjörü' #64577.
+[17:03:49	]C24.i3.HELIX-86 ran 'take' on item 'Sivil Koruma Rasyonu' (#69594)
+[17:03:49	]C24.i3.HELIX-86 has gained a 'Sivil Koruma Rasyonu' #69594.
+[17:03:51	]C24.i3.HELIX-86 ran 'Open' on item 'Sivil Koruma Rasyonu' (#69594)
+[17:03:51	]C24.i3.HELIX-86 has gained a 'Metropolice Takviyeleri' #69595.
+[17:03:51	]C24.i3.HELIX-86 has gained a 'Soda Bob Brawn' #69596.
+[17:03:52	]Joe Rock ran 'unload' on item '20rnd FiveSeven-şarjörü' (#64578)
+[17:03:52	]Joe Rock has gained a '9mm Tabanca Mermisi' #69598.
+[17:03:53	]C24.i3.HELIX-86 ran 'Consume' on item 'Metropolice Takviyeleri' (#69595)
+[17:03:53	]C24.i3.HELIX-86 extended their level 3 long boost in Güç.
+[17:03:54	]C24.i3.HELIX-86 ran 'Consume' on item 'Soda Bob Brawn' (#69596)
+[17:03:54	]C24.i3.HELIX-86 extended their level 1 long boost in Algı.
+[17:03:54	]C24.i3.HELIX-86 extended their level 2 long boost in Çeviklik.
+[17:03:54	]Joe Rock ran 'combine' on item '20rnd FiveSeven-şarjörü' (#64578)
+[17:03:56	]Joe Rock ran 'combine' on item '20rnd FiveSeven-şarjörü' (#64578)
+[17:03:58	]C24.i3.HELIX-86 ran 'take' on item '20 Kredi Kuponu' (#69597)
+[17:03:58	]C24.i3.HELIX-86 has gained a '20 Kredi Kuponu' #69597.
+[17:04:08	]Arif Sertkesen exited observer at their location.
+[17:04:13	]C24.i3.HELIX-86 ran 'Use' on item '20 Kredi Kuponu' (#69597)
+[17:04:15	]C24.i3.HELIX-86 has used a coupon at a ration dispenser, gaining 20 credits.
+[17:04:15	]Joe Rock entered observer.
+[17:04:20	]Joe Rock ran 'Write' on item 'BUNU OKU' (#69592)
+[17:04:29	]Arif Sertkesen entered observer.
+[17:04:29	]Arif Sertkesen exited observer at their location.
+[17:04:36	]Arif Sertkesen entered observer.
+[17:05:19	]Arif Sertkesen has given himself a combinelock.
+[17:05:19	]Arif Sertkesen has gained a 'Combine Lock' #69599.
+[17:05:22	]Arif Sertkesen ran 'Place' on item 'Combine Lock' (#69599)
+[17:05:38	]Arif Sertkesen exited observer at their location.
+[17:05:39	]Arif Sertkesen entered observer.
+[17:05:40	]Arif Sertkesen exited observer at their location.
+[17:05:52	]Arif Sertkesen has given himself a baking_pretzel.
+[17:05:52	]Arif Sertkesen has gained a 'Pretzel' #69600.
+[17:05:56	]Arif Sertkesen ran 'Consume' on item 'Pretzel' (#69600)
+[17:05:56	]Arif Sertkesen has gained a level 3 long boost in Güç.
+[17:06:00	]Arif Sertkesen has given himself a baking_bread.
+[17:06:00	]Arif Sertkesen has gained a 'Tam Ekmek' #69601.
+[17:06:11	]Arif Sertkesen has given himself a drink_vodka.
+[17:06:11	]Arif Sertkesen has gained a 'Votka' #69602.
+[17:06:15	]Arif Sertkesen ran 'Consume' on item 'Votka' (#69602)
+[17:06:15	]Arif Sertkesen has wasted a level -2 long boost in Güç (current: -1; target: 3).
+[17:06:15	]Arif Sertkesen has wasted a level 4 long boost in Çeviklik (current: 1; target: 5).
+[17:06:16	]Arif Sertkesen has gained a 'Boş Votka Şişesi' #69603.
+[17:06:25	]Arif Sertkesen has given himself a pickled_vegetables.
+[17:06:25	]Arif Sertkesen has gained a 'Sebze Turşusu' #69604.
+[17:06:30	]Arif Sertkesen ran 'Consume' on item 'Sebze Turşusu' (#69604)
+[17:06:30	]Arif Sertkesen has wasted a level 2 long boost in Zeka (current: 4; target: 5).
+[17:06:30	]Theodore Abernathy entered observer.
+[17:06:32	]Theodore Abernathy exited observer at their location.
+[17:06:33	]Arif Sertkesen has given himself a artificial_stirfry.
+[17:06:33	]Arif Sertkesen has gained a 'Yapay Et Kızartması Karışımı' #69605.
+[17:06:36	]Arif Sertkesen ran 'Consume' on item 'Yapay Et Kızartması Karışımı' (#69605)
+[17:06:36	]Arif Sertkesen has wasted a level 3 long boost in Zeka (current: 4; target: 5).
+[17:06:40	]Arif Sertkesen has given himself a fruit_berries.
+[17:06:40	]Arif Sertkesen has gained a 'Çilek' #69606.
+[17:07:28	][IC] C24.i3.HELIX-86: <:: Güya önümüzdeki hafta zam alacağız. ::>
+[17:07:58	]Arif Sertkesen has taken 4 damage from worldspawn.
+[17:08:17	]Theodore Abernathy has taken 1 damage from worldspawn.
+[17:08:23	]Enistein has unloaded their "Theodore Abernathy" character.
+[17:08:27	]Arif Sertkesen has given himself a proc_nutrient_bar.
+[17:08:27	]Arif Sertkesen has gained a 'Besin Çubuğu' #69607.
+[17:08:29	]Enistein loaded the character 'Norgaun'
+[17:08:31	]Arif Sertkesen ran 'Consume' on item 'Besin Çubuğu' (#69607)
+[17:08:34	]Norgaun is fully healed.
+[17:08:36	]Arif Sertkesen has given himself a luxury_choc.
+[17:08:36	]Arif Sertkesen has gained a 'Evrensel Birlik Çikolatası' #69608.
+[17:08:42	]Arif Sertkesen ran 'Consume' on item 'Evrensel Birlik Çikolatası' (#69608)
+[17:08:42	]Arif Sertkesen has gained a 'Plastik Çöp' #69609.
+[17:08:59	]Arif Sertkesen has given himself a drink_proc_whiskey.
+[17:08:59	]Arif Sertkesen has gained a 'Yapay Viski' #69610.
+[17:09:04	]Arif Sertkesen ran 'Consume' on item 'Yapay Viski' (#69610)
+[17:09:04	]Arif Sertkesen has gained a 'Boş Viski Şişesi' #69611.
+[17:09:08	]Arif Sertkesen ran 'drop' on item 'Boş Viski Şişesi' (#69611)
+[17:09:08	]Arif Sertkesen has lost a 'Boş Viski Şişesi' #69611.
+[17:09:10	]C24.i3.HELIX-86 ran 'Repair' on item 'SK Üniforması' (#67825)
+[17:09:13	]Arif Sertkesen has given himself a drink_whiskey.
+[17:09:13	]Arif Sertkesen has gained a 'Viski' #69612.
+[17:09:16	]Arif Sertkesen ran 'Consume' on item 'Viski' (#69612)
+[17:09:16	]Arif Sertkesen has wasted a level -1 long boost in Güç (current: -1; target: 3).
+[17:09:16	]Arif Sertkesen has updated their Zeka long boost target to 4 (current : 5).
+[17:09:16	]Arif Sertkesen has updated their Algı long boost target to -1 (current : 5).
+[17:09:16	]Arif Sertkesen has gained a 'Boş Viski Şişesi' #69613.
+[17:09:17	]Norgaun entered observer.
+[17:09:20	]Norgaun exited observer at their location.
+[17:09:20	]Norgaun entered observer.
+[17:09:22	]Norgaun exited observer at their location.
+[17:09:26	]Arif Sertkesen has given himself a drink_white_wine.
+[17:09:26	]Arif Sertkesen has gained a 'Beyaz Şarap' #69614.
+[17:09:31	]Arif Sertkesen has taken 1 damage from worldspawn.
+[17:09:32	]Arif Sertkesen ran 'Equip' on item 'Yangın Baltası' (#43166)
+[17:09:40	]Norgaun used command '/ActSit'.
+[17:09:41	]C24.i3.HELIX-86 ran 'combine' on item 'Tıbbi Çanta' (#53163)
+[17:09:41	]Norgaun used command '/ExitAct'.
+[17:09:45	]Norgaun has taken 12 damage from worldspawn.
+[17:09:46	]Arif Sertkesen has gained level 25 in the Hız skill.
+[17:09:49	]Arif Sertkesen has taken 6 damage from worldspawn.
+[17:10:24	]Norgaun has used a context menu option with the name: rb655_dissolve
+[17:10:28	]Joe Rock has gone afk.
+[17:15:05	]Arif Sertkesen ran 'use' on item 'Bandaj Rulosu' (#42235)
+[17:15:05	]Arif Sertkesen has performed the 'Use Bandaj Rulosu' action, gaining 13 experience in medicine.
+[17:15:05	]Arif Sertkesen was bandaged by Arif Sertkesen for 19 HP.
+[17:15:23	]Arif Sertkesen ran 'drop' on item 'Boş Viski Şişesi' (#69613)
+[17:15:23	]Arif Sertkesen has lost a 'Boş Viski Şişesi' #69613.
+[17:15:24	]Arif Sertkesen ran 'Consume' on item 'Puka Vodna' (#69593)
+[17:15:24	]Arif Sertkesen has wasted a level -3 long boost in Güç (current: -1; target: 3).
+[17:15:24	]Arif Sertkesen has wasted a level -3 long boost in Çeviklik (current: 2; target: 5).
+[17:15:24	]Arif Sertkesen has wasted a level -3 long boost in Zeka (current: 5; target: 4).
+[17:15:24	]Arif Sertkesen has wasted a level -3 long boost in Algı (current: 5; target: -1).
+[17:15:24	]Arif Sertkesen has gained a 'Boş Bira Şişesi' #69616.
+[17:15:26	]Arif Sertkesen ran 'drop' on item 'Boş Bira Şişesi' (#69616)
+[17:15:26	]Arif Sertkesen has lost a 'Boş Bira Şişesi' #69616.
+[17:15:35	]C24.i3.HELIX-86 ran 'drop' on item '17rnd Usp-Şarjörü' (#65793)
+[17:15:35	]C24.i3.HELIX-86 has lost a '17rnd Usp-Şarjörü' #65793.
+[17:15:37	]C24.i3.HELIX-86 destroyed a '17rnd Usp-Şarjörü' #65793.
+[17:17:21	]C24.i3.HELIX-86 used command '/ActSit 1'.
+[17:17:22	]C24.i3.HELIX-86 used command '/ExitAct'.
+[17:17:24	]C24.i3.HELIX-86 used command '/ActSit 5'.
+[17:17:29	]Arif Sertkesen is fully healed.
+[17:17:43	]C24.i3.HELIX-86 used command '/ExitAct'.
+[17:18:07	]Arif Sertkesen entered observer.
+[17:18:29	]Norgaun has gone afk.
+[17:18:59	]Arif Sertkesen exited observer at their location.
+[17:18:59	]Norgaun is no longer afk. Total time spent AFK: 325
+[17:19:09	]Arif Sertkesen used command '/RemoveDrugEffects Arif'.
+[17:19:59	]C24.i3.HELIX-86 has changed C24.i3.HELIX-86's bodygroups.
+[17:20:00	]Arif Sertkesen has spawned a 'Vehicle [4705][prop_vehicle_jeep_old]'.
+[17:20:11	]Norgaun used command '/ToggleVortalVision'.
+[17:20:11	]Norgaun used command '/ToggleVortalVision'.
+[17:20:15	]Norgaun used command '/ToggleVortalVision'.
+[17:20:17	]Norgaun used command '/ToggleVortalVision'.
+[17:20:18	]Norgaun used command '/ToggleVortalVision'.
+[17:20:50	]Arif Sertkesen has spawned a 'Vehicle [4705][prop_vehicle_jeep_old]'.
+[17:20:52	]Arif Sertkesen has spawned a 'Vehicle [3220][prop_vehicle_jeep_old]'.
+[17:20:58	]Arif Sertkesen has spawned a 'Vehicle [3220][prop_vehicle_jeep_old]'.
+[17:21:08	]Arif Sertkesen entered observer.
+[17:21:32	]C24.i3.HELIX-86 used command '/Radio Bir hareketlilik yok.'.
+[17:21:38	]C24.i3.HELIX-86 used command '/Radio Kod 12.'.
+[17:21:47	]Norgaun used command '/ToggleVortalVision'.
+[17:21:56	]Shane Walsh has unloaded their "C24.i3.HELIX-86" character.
+[17:22:05	]Shane Walsh loaded the character 'Hans Grimson'
+[17:22:19	]Hans Grimson used command '/SetMood headstrong'.
+[17:22:53	]Arif Sertkesen exited observer at their location.
+[17:22:56	]Arif Sertkesen entered observer.
+[17:23:09	]Arif Sertkesen exited observer at their location.
+[17:23:10	][Y] Hans Grimson: Kimse varmı!
+[17:23:38	][Y] Hans Grimson: Kimse varmı!
+[17:23:56	][IC] Hans Grimson: Lanet olsun.
+[17:24:26	]Norgaun used command '/ToggleVortalVision'.
+[17:24:28	]Norgaun used command '/ToggleVortalVision'.
+[17:24:32	]Arif Sertkesen entered observer.
+[17:24:33	]Norgaun has gained level 9 in the Hız skill.
+[17:24:40	]Hans Grimson opened the 'İnşaat Bölgesi Deposu' stash.
+[17:24:43	]Hans Grimson closed the 'İnşaat Bölgesi Deposu' stash.
+[17:24:44	]Norgaun entered observer.
+[17:24:52	]Norgaun exited observer at their location.
+[17:25:04	]Norgaun entered observer.
+[17:25:04	]Norgaun exited observer at their location.
+[17:25:06	]Norgaun entered observer.
+[17:25:08	]Norgaun exited observer at their location.
+[17:25:10	]Norgaun entered observer.
+[17:25:12	]Norgaun exited observer at their location.
+[17:25:13	]Norgaun entered observer.
+[17:25:13	]Norgaun exited observer at their location.
+[17:25:15	]Norgaun entered observer.
+[17:25:16	]Norgaun exited observer at their location.
+[17:25:17	]Norgaun entered observer.
+[17:25:17	]Norgaun exited observer at their location.
+[17:25:19	]Norgaun entered observer.
+[17:25:20	]Norgaun exited observer at their location.
+[17:25:37	]Arif Sertkesen exited observer at their location.
+[17:25:41	]Arif Sertkesen has critically hit Norgaun dealing 105 damage (CritChance was 1.00).
+[17:25:41	]Norgaun has taken 105 damage from Arif Sertkesen.
+[17:25:43	]Arif Sertkesen has critically hit Norgaun dealing 42 damage (CritChance was 1.00).
+[17:25:43	]Norgaun has taken 42 damage from Arif Sertkesen.
+[17:25:43	]Norgaun entered observer.
+[17:25:46	]Norgaun ran SAM command 'hp' with arguments: '^' '100'
+[17:25:48	]Norgaun ran SAM command 'hp' with arguments: '^' '150'
+[17:25:50	]Norgaun ran SAM command 'hp' with arguments: '^' '200'
+[17:25:52	]Norgaun exited observer at their location.
+[17:25:54	]Norgaun is fully healed.
+[17:25:57	]Arif Sertkesen entered observer.
+[17:26:10	]Hans Grimson used command '/ActSitChair'.
+[17:26:13	]Hans Grimson used command '/ExitAct'.
+[17:26:17	]Norgaun entered observer.
+[17:26:18	]Norgaun exited observer at their location.
+[17:26:19	]Norgaun entered observer.
+[17:26:20	]Hans Grimson used command '/ActSitLean'.
+[17:26:20	]Norgaun exited observer at their location.
+[17:26:23	]Norgaun entered observer.
+[17:26:27	]Hans Grimson used command '/ActCheer'.
+[17:26:27	]Hans Grimson used command '/ExitAct'.
+[17:26:30	]Hans Grimson used command '/ActLean'.
+[17:26:34	]Hans Grimson used command '/ActCheer'.
+[17:26:34	]Norgaun exited observer at their location.
+[17:26:39	]Hans Grimson used command '/ActCheer'.
+[17:26:43	]Hans Grimson used command '/ActCheer'.
+[17:26:46	]Hans Grimson used command '/ActInjured'.
+[17:26:49	]Arif Sertkesen exited observer at their location.
+[17:26:49	]Hans Grimson used command '/ExitAct'.
+[17:26:52	]Hans Grimson used command '/ActArrest'.
+[17:26:53	]Hans Grimson used command '/ExitAct'.
+[17:26:58	]Hans Grimson used command '/ActArrest 3'.
+[17:27:02	]Hans Grimson used command '/ExitAct'.
+[17:27:03	]Hans Grimson used command '/ActArrest 2'.
+[17:27:05	]DavşanAbi (STEAM_0:0:100418262) has disconnected.
+[17:27:56	]Victorian has connected.
+[17:27:57	]Hans Grimson used command '/ExitAct'.
+[17:28:08	]Hans Grimson used command '/ActPant'.
+[17:28:13	]Norgaun entered observer.
+[17:28:13	]Norgaun exited observer at their location.
+[17:28:15	]Hans Grimson used command '/ExitAct'.
+[17:28:19	]Hans Grimson used command '/ActPant'.
+[17:28:20	]Hans Grimson used command '/ExitAct'.
+[17:28:20	]Hans Grimson used command '/ExitAct'.
+[17:28:45	][ME] Hans Grimson: Korkma
+[17:28:57	][ME] Hans Grimson: Garip birisine benziyor.
+[17:30:28	]Norgaun used command '/Staff digga im out'.
+[17:30:29	]Enistein (STEAM_0:1:98500861) has disconnected.
+[17:30:48	]Joe Rock is no longer afk. Total time spent AFK: 1515
+[17:30:50	]Shane Walsh (STEAM_0:0:195372324) has disconnected.
+[17:33:07	]Victorian loaded the character 'Farid Efsahani'
+[17:33:12	]Farid Efsahani is fully healed.
+[17:33:28	]Farid Efsahani entered observer.
+[17:33:36	]Farid Efsahani used command '/Staff herkes nerde'.
+[17:34:01	]Rasputin ta kendisi has connected.
+[17:34:49	]Farid Efsahani exited observer at their location.
+[17:34:49	]Farid Efsahani entered observer.
+[17:34:50	]Farid Efsahani exited observer at their location.
+[17:34:50	]Farid Efsahani entered observer.
+[17:34:51	]Farid Efsahani exited observer at their location.
+[17:34:51	]Farid Efsahani entered observer.
+[17:34:52	]Farid Efsahani exited observer at their location.
+[17:34:53	]Farid Efsahani entered observer.
+[17:34:54	]Farid Efsahani exited observer at their location.
+[17:34:57	]Rasputin ta kendisi loaded the character 'Antuan Demiralev'
+[17:35:00	]Farid Efsahani entered observer.
+[17:35:01	]Antuan Demiralev entered observer.
+[17:35:02	]Antuan Demiralev is fully healed.
+[17:35:32	]Antuan Demiralev ran SAM command 'goto' with arguments: 'farid'
+[17:35:35	]Farid Efsahani exited observer at their location.
+[17:35:38	]Farid Efsahani entered observer.
+[17:35:39	]Farid Efsahani exited observer at their location.
+[17:35:39	]Farid Efsahani entered observer.
+[17:35:40	]Farid Efsahani exited observer at their location.
+[17:35:46	]Farid Efsahani entered observer.
+[17:35:47	]Farid Efsahani exited observer at their location.
+[17:35:48	]Joe Rock has gone afk.
+[17:36:00	]Farid Efsahani entered observer.
+[17:36:02	]Farid Efsahani exited observer at their location.
+[17:36:16	]Farid Efsahani has spawned 'models/props/de_tides/tides_banner_a.mdl'.
+[17:36:24	]Farid Efsahani entered observer.
+[17:36:27	]Farid Efsahani exited observer at their location.
+[17:36:34	]Farid Efsahani entered observer.
+[17:36:43	]Farid Efsahani exited observer at their location.
+[17:36:44	]Farid Efsahani entered observer.
+[17:36:46	]Farid Efsahani has used a context menu option with the name: remove
+[17:36:47	]Farid Efsahani exited observer at their location.
+[17:36:49	]Farid Efsahani entered observer.
+[17:36:52	]Farid Efsahani has spawned 'models/willardnetworks/posters/wn_banner_2.mdl'.
+[17:36:53	]Farid Efsahani exited observer at their location.
+[17:36:54	]Antuan Demiralev exited observer at their location.
+[17:36:57	][IC] Antuan Demiralev: Beni çöz.
+[17:37:01	][IC] Antuan Demiralev: Bağlamislar aq.
+[17:37:13	][IC] Antuan Demiralev: Saol.
+[17:37:31	]Farid Efsahani has spawned 'models/willardnetworks/posters/wn_banner_2.mdl'.
+[17:37:33	]Farid Efsahani has spawned 'models/willardnetworks/posters/wn_banner_1.mdl'.
+[17:37:33	]Antuan Demiralev entered observer.
+[17:37:52	]Farid Efsahani has enabled persistence for 'models/willardnetworks/posters/wn_banner_2.mdl'.
+[17:37:52	]Farid Efsahani has used a context menu option with the name: persist
+[17:37:56	]Farid Efsahani has enabled persistence for 'models/willardnetworks/posters/wn_banner_2.mdl'.
+[17:37:56	]Farid Efsahani has used a context menu option with the name: persist
+[17:38:08	]Farid Efsahani has spawned 'models/willardnetworks/posters/wn_poster_hla_1.mdl'.
+[17:38:15	]Farid Efsahani has spawned 'models/willardnetworks/posters/wn_banner_1.mdl'.
+[17:38:20	]Farid Efsahani has spawned 'models/willardnetworks/posters/wn_poster_hla_1.mdl'.
+[17:38:22	]Farid Efsahani has used a context menu option with the name: skin
+[17:38:24	]Farid Efsahani has used a context menu option with the name: skin
+[17:38:25	]Farid Efsahani has used a context menu option with the name: skin
+[17:38:28	]Farid Efsahani has used a context menu option with the name: skin
+[17:38:37	]Farid Efsahani has used a context menu option with the name: skin
+[17:38:39	]Farid Efsahani has used a context menu option with the name: skin
+[17:38:42	]Farid Efsahani has used a context menu option with the name: skin
+[17:38:46	]Farid Efsahani has used a context menu option with the name: skin
+[17:39:00	]Farid Efsahani has fired a toolgun with the name: resizer
+[17:39:04	]Farid Efsahani has fired a toolgun with the name: resizer
+[17:39:17	]Farid Efsahani has used a context menu option with the name: skin
+[17:39:19	]Farid Efsahani has used a context menu option with the name: skin
+[17:39:20	]Farid Efsahani has used a context menu option with the name: skin
+[17:39:22	]Farid Efsahani has used a context menu option with the name: skin
+[17:39:25	]Farid Efsahani has used a context menu option with the name: skin
+[17:39:42	]Farid Efsahani has used a context menu option with the name: skin
+[17:39:45	]Farid Efsahani has used a context menu option with the name: skin
+[17:39:47	]Mersa has connected.
+[17:39:52	]Farid Efsahani has used a context menu option with the name: skin
+[17:39:54	]Farid Efsahani has used a context menu option with the name: skin
+[17:40:50	][AltChecker] Mersa joined without a cookie, but matched installation with existing cookie. Certainty 4/5
+[17:40:53	]Farid Efsahani has used a context menu option with the name: skin
+[17:40:55	]Farid Efsahani has used a context menu option with the name: skin
+[17:40:58	]Farid Efsahani has used a context menu option with the name: skin
+[17:41:13	]Farid Efsahani has spawned 'models/willardnetworks/posters/wn_poster_hla_1.mdl'.
+[17:41:28	]Farid Efsahani entered observer.
+[17:41:30	]Farid Efsahani exited observer at their location.
+[17:41:32	]Farid Efsahani has spawned 'models/willardnetworks/posters/wn_poster_hla_1.mdl'.
+[17:41:39	]Farid Efsahani has fired a toolgun with the name: resizer
+[17:41:47	]Farid Efsahani has used a context menu option with the name: skin
+[17:41:49	]Farid Efsahani has used a context menu option with the name: skin
+[17:42:07	]Mersa (STEAM_0:0:188549543) deleted character 'S10/OWS.GHOST-22'
+[17:42:18	]Mersa loaded the character 'Mark Zanburg'
+[17:42:45	]Farid Efsahani has spawned 'models/willardnetworks/posters/wn_poster_hla_1.mdl'.
+[17:42:57	]Antuan Demiralev has gone afk.
+[17:42:57	]Farid Efsahani has used a context menu option with the name: skin
+[17:43:01	]Farid Efsahani has used a context menu option with the name: skin
+[17:43:05	]Farid Efsahani has used a context menu option with the name: skin
+[17:43:07	]Farid Efsahani has used a context menu option with the name: skin
+[17:43:11	]Farid Efsahani has used a context menu option with the name: skin
+[17:43:14	]Farid Efsahani has fired a toolgun with the name: resizer
+[17:43:33	]Beyin.Dll has connected.
+[17:43:48	]Farid Efsahani has used a context menu option with the name: skin
+[17:43:53	]Farid Efsahani has used a context menu option with the name: skin
+[17:43:55	]Farid Efsahani has used a context menu option with the name: skin
+[17:44:10	]Farid Efsahani has used a context menu option with the name: skin
+[17:44:13	]Farid Efsahani has used a context menu option with the name: skin
+[17:44:16	]Farid Efsahani entered observer.
+[17:44:19	]Farid Efsahani exited observer at their location.
+[17:44:24	]Farid Efsahani has spawned 'models/willardnetworks/posters/wn_poster_1.mdl'.
+[17:44:32	]Farid Efsahani has used a context menu option with the name: skin
+[17:44:32	]Beyin.Dll loaded the character 'C24:i3.XRAY-91'
+[17:44:33	]Farid Efsahani entered observer.
+[17:44:38	]Farid Efsahani exited observer at their location.
+[17:44:51	]Farid Efsahani entered observer.
+[17:44:52	]Farid Efsahani exited observer at their location.
+[17:44:54	]Farid Efsahani has spawned 'models/i24/poster.mdl'.
+[17:44:58	]C24:i3.XRAY-91 used command '/Radio 10-8'.
+[17:45:05	]Farid Efsahani entered observer.
+[17:45:30	]Farid Efsahani used command '/Staff Mersa SK permi istiyor'.
+[17:45:48	]Farid Efsahani exited observer at their location.
+[17:45:49	]C24:i3.XRAY-91 used command '/Staff sebep'.
+[17:45:57	]Farid Efsahani used command '/Staff OTA'dan sk geçmiş'.
+[17:46:02	]Farid Efsahani entered observer.
+[17:46:08	]Farid Efsahani exited observer at their location.
+[17:46:10	]C24:i3.XRAY-91 used command '/Staff Mersa sk basvurun kabul edildimi'.
+[17:46:15	]Farid Efsahani has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[17:46:25	]Farid Efsahani has fired a toolgun with the name: duplicator
+[17:46:28	]Farid Efsahani has fired a toolgun with the name: duplicator
+[17:46:28	]Farid Efsahani has spawned 'models/props_c17/furniturechair001a.mdl'.
+[17:46:29	]Farid Efsahani has fired a toolgun with the name: duplicator
+[17:46:29	]Farid Efsahani has spawned 'models/props_c17/furniturechair001a.mdl'.
+[17:46:29	]Farid Efsahani has fired a toolgun with the name: duplicator
+[17:46:29	]Farid Efsahani has spawned 'models/props_c17/furniturechair001a.mdl'.
+[17:46:29	]Farid Efsahani has fired a toolgun with the name: duplicator
+[17:46:29	]Farid Efsahani has spawned 'models/props_c17/furniturechair001a.mdl'.
+[17:46:30	]Farid Efsahani has fired a toolgun with the name: duplicator
+[17:46:30	]Farid Efsahani has spawned 'models/props_c17/furniturechair001a.mdl'.
+[17:46:30	]Farid Efsahani has fired a toolgun with the name: duplicator
+[17:46:30	]Farid Efsahani has spawned 'models/props_c17/furniturechair001a.mdl'.
+[17:46:37	]Farid Efsahani has spawned 'models/props_c17/FurnitureWashingmachine001a.mdl'.
+[17:46:39	]Farid Efsahani has fired a toolgun with the name: duplicator
+[17:46:39	]Farid Efsahani has spawned 'models/props_c17/furniturewashingmachine001a.mdl'.
+[17:46:58	]Farid Efsahani has spawned a 'NPC [4652][npc_metropolice]'.
+[17:47:02	]C24:i3.XRAY-91 used command '/PM mark sk basvurun kabul edildimi?'.
+[17:47:07	]Mark Zanburg used command '/PM xray +'.
+[17:47:10	]C24:i3.XRAY-91 used command '/PM mark ben göremiyorum'.
+[17:47:13	]Farid Efsahani has fired a toolgun with the name: duplicator
+[17:47:13	]Farid Efsahani has spawned 'models/willardnetworks/posters/wn_poster_hla_1.mdl'.
+[17:47:14	]Farid Efsahani entered observer.
+[17:47:21	]Farid Efsahani has fired a toolgun with the name: duplicator
+[17:47:21	]Farid Efsahani has spawned 'models/willardnetworks/posters/wn_poster_hla_1.mdl'.
+[17:47:28	]Farid Efsahani has fired a toolgun with the name: duplicator
+[17:47:28	]Farid Efsahani has spawned 'models/willardnetworks/posters/wn_poster_hla_1.mdl'.
+[17:47:30	]Farid Efsahani has fired a toolgun with the name: duplicator
+[17:47:30	]Farid Efsahani has spawned 'models/willardnetworks/posters/wn_poster_hla_1.mdl'.
+[17:47:41	]Farid Efsahani has spawned 'models/willardnetworks/posters/wn_poster_hla_1.mdl'.
+[17:47:44	]Mark Zanburg used command '/PM xray Davşan kabul etiğini söyledi ve RcT olarak başıyacağımı belirtti.'.
+[17:47:53	]Farid Efsahani has used a context menu option with the name: remove
+[17:47:58	]Farid Efsahani has spawned 'models/willardnetworks/posters/wn_poster_hla_1.mdl'.
+[17:48:00	]C24:i3.XRAY-91 used command '/PM mark yazısmayı dm ile atsana'.
+[17:48:02	]Farid Efsahani has used a context menu option with the name: skin
+[17:48:19	]Mark Zanburg used command '/PM xray Davşana DM den sorsana'.
+[17:48:23	]Farid Efsahani has fired a toolgun with the name: resizer
+[17:48:26	]Mark Zanburg used command '/PM xray daha iyi olur'.
+[17:48:33	]C24:i3.XRAY-91 used command '/PM mark yok sen sor öyle verim'.
+[17:48:36	]Farid Efsahani has enabled persistence for 'models/willardnetworks/posters/wn_poster_hla_1.mdl'.
+[17:48:36	]Farid Efsahani has used a context menu option with the name: persist
+[17:48:41	]Mark Zanburg used command '/PM xray tamam'.
+[17:48:59	]Farid Efsahani exited observer at their location.
+[17:49:15	]Sinyor Gordon (STEAM_0:1:525389834) has disconnected.
+[17:49:32	]Farid Efsahani entered observer.
+[17:49:38	]C24:i3.XRAY-91 entered observer.
+[17:49:40	]YoldakiDayı has connected.
+[17:49:46	]C24:i3.XRAY-91 exited observer at their location.
+[17:49:59	][AltChecker] YoldakiDayı joined for the first time, generating new cookie.
+[17:50:35	]C24:i3.XRAY-91 used command '/PlyWhitelist mark protection'.
+[17:50:47	]C24:i3.XRAY-91 used command '/PlyUnwhitelist mark transh'.
+[17:51:25	]Mersa has unloaded their "Mark Zanburg" character.
+[17:53:25	]Farid Efsahani exited observer at their location.
+[17:53:31	]Farid Efsahani entered observer.
+[17:54:00	]Farid Efsahani has used a context menu option with the name: ixpropviewowner
+[17:54:23	]C24:i3.XRAY-91 entered observer.
+[17:54:25	]C24:i3.XRAY-91 has used a context menu option with the name: rb655_dissolve
+[17:54:27	]env_entity_dissolver destroyed a 'Ahşap Çubuk' #68706.
+[17:54:37	]C24:i3.XRAY-91 exited observer at their location.
+[17:54:41	]C24:i3.XRAY-91 entered observer.
+[17:54:59	]Deadasf has connected.
+[17:55:00	]C24:i3.XRAY-91 exited observer at their location.
+[17:55:10	]Mersa created the character 'C24:RCT.YELLO-25'
+[17:55:10	]Mersa has gained level 10 in the Hız skill.
+[17:55:11	]Mersa loaded the character 'C24:RCT.YELLO-25'
+[17:55:11	]C24:RCT.YELLO-25 has gained a '#64195 Kimlik Kartı' #69618.
+[17:55:11	]C24:RCT.YELLO-25 has gained a 'Combine PDA' #69619.
+[17:55:11	]C24:RCT.YELLO-25 has gained a 'SK Üniforması' #69620.
+[17:55:11	]C24:RCT.YELLO-25 has gained a 'SK Maskesi' #69621.
+[17:55:11	]C24:RCT.YELLO-25 has gained a 'Küçük Çanta' #69622.
+[17:55:11	]C24:RCT.YELLO-25 has gained a 'Büyük Çanta' #69623.
+[17:55:30	]C24:RCT.YELLO-25 used command '/PM xray oluşturudm MPF Armorydeyim.'.
+[17:55:38	]C24:i3.XRAY-91 used command '/Reply yello-25 tamam tr'.
+[17:55:39	]C24:i3.XRAY-91 entered observer.
+[17:56:05	]Deadasf loaded the character 'Bernard Shepard'
+[17:56:15	]Bernard Shepard opened the 'Dropped Items' #6669 container.
+[17:56:15	]Bernard Shepard closed the 'Dropped Items' #6669 container.
+[17:56:17	]Bernard Shepard opened the 'Dropped Items' #6669 container.
+[17:56:19	]C24:RCT.YELLO-25 used command '/PM xray fakat karkterin Playler Modeli farklı'.
+[17:56:20	]Bernard Shepard has gained a 'Gri Tulum' #69235 from a container with the name 'Dropped Items' #6669.
+[17:56:22	]Bernard Shepard closed the 'Dropped Items' #6669 container.
+[17:56:23	]Bernard Shepard opened the 'Kanıt Deposu' #6523 container.
+[17:56:24	]C24:RCT.YELLO-25 used command '/PM xray Sivil.'.
+[17:56:25	]Bernard Shepard has gained a 'Hatchet' #68623 from a container with the name 'Kanıt Deposu' #6523.
+[17:56:28	]Bernard Shepard ran 'drop' on item 'Gri Tulum' (#69235)
+[17:56:28	]Bernard Shepard has lost a 'Gri Tulum' #69235.
+[17:56:31	]Bernard Shepard closed the 'Kanıt Deposu' #6523 container.
+[17:56:32	]Bernard Shepard opened the 'Kanıt Deposu' #6524 container.
+[17:56:34	]Bernard Shepard closed the 'Kanıt Deposu' #6524 container.
+[17:56:35	]C24:RCT.YELLO-25 used command '/PM xray Gördüm dur.'.
+[17:56:42	]C24:i3.XRAY-91 used command '/PM yello-25 sk üniforması giycen'.
+[17:56:51	]C24:RCT.YELLO-25 used command '/PM xray Şimdi görüdm'.
+[17:56:53	]C24:i3.XRAY-91 exited observer at their location.
+[17:56:54	]C24:i3.XRAY-91 entered observer.
+[17:56:56	]Bernard Shepard ran SAM command 'asay' with arguments: 'yanlış yerde doğdum spawna tplermisin ?'
+[17:56:58	]C24:i3.XRAY-91 exited observer at their location.
+[17:56:58	]Beyin.Dll (STEAM_0:0:479033164) has disconnected.
+[17:57:07	]Antuan Demiralev is no longer afk. Total time spent AFK: 1145
+[17:57:19	]C24:RCT.YELLO-25 opened the 'Kanıt Deposu' #6548 container.
+[17:57:21	]C24:RCT.YELLO-25 closed the 'Kanıt Deposu' #6548 container.
+[17:57:22	]Bernard Shepard ran 'drop' on item 'Boş Kavanoz' (#69014)
+[17:57:22	]Bernard Shepard has lost a 'Boş Kavanoz' #69014.
+[17:57:22	]C24:RCT.YELLO-25 opened the 'Kanıt Deposu' #6547 container.
+[17:57:23	]C24:RCT.YELLO-25 closed the 'Kanıt Deposu' #6547 container.
+[17:57:23	]Bernard Shepard ran 'drop' on item 'Boş Breen'in Suyu' (#69134)
+[17:57:23	]Bernard Shepard has lost a 'Boş Breen'in Suyu' #69134.
+[17:57:24	]C24:RCT.YELLO-25 opened the 'Kanıt Deposu' #6546 container.
+[17:57:25	]Farid Efsahani exited observer at their location.
+[17:57:25	]C24:RCT.YELLO-25 closed the 'Kanıt Deposu' #6546 container.
+[17:57:25	]Farid Efsahani entered observer.
+[17:57:29	]Farid Efsahani exited observer at their location.
+[17:57:33	]Farid Efsahani ran SAM command 'bring' with arguments: 'Bernard'
+[17:57:34	]Farid Efsahani entered observer.
+[17:57:35	]Farid Efsahani exited observer at their location.
+[17:57:36	]Farid Efsahani entered observer.
+[17:57:40	]Farid Efsahani exited observer at their location.
+[17:57:41	]C24:RCT.YELLO-25 used the 'Sivil Koruma Eşya Tedarikçisi' vendor.
+[17:57:42	]Farid Efsahani entered observer.
+[17:57:44	]Farid Efsahani exited observer at their location.
+[17:57:57	]Farid Efsahani entered observer.
+[17:57:58	]YoldakiDayı created the character 'Mark White'
+[17:57:59	]YoldakiDayı loaded the character 'Mark White'
+[17:57:59	]Mark White has gained a 'Açık Gri Kol Bandı' #69624.
+[17:57:59	]Mark White has gained a '#67268 Kimlik Kartı' #69625.
+[17:57:59	]Mark White has gained a 'Siyah Tulum' #69626.
+[17:57:59	]Mark White has gained a 'Mavi tulum pantolonu' #69627.
+[17:57:59	]Mark White has gained a 'Koyu Deri Çizme' #69628.
+[17:57:59	]Mark White has gained a 'Gözlükler' #69629.
+[17:58:10	]Antuan Demiralev exited observer at their location.
+[17:58:15	]Antuan Demiralev entered observer.
+[17:58:15	]Bernard Shepard has acquired his ration, gaining 0 credits, 0 wages and a ration ration.
+[17:58:15	]Antuan Demiralev exited observer at their location.
+[17:58:16	]Antuan Demiralev entered observer.
+[17:58:18	]Antuan Demiralev exited observer at their location.
+[17:58:30	]Bernard Shepard ran 'take' on item 'Rasyon' (#69630)
+[17:58:30	]Bernard Shepard has gained a 'Rasyon' #69630.
+[17:58:35	]Bernard Shepard ran 'Open' on item 'Rasyon' (#69630)
+[17:58:35	]Bernard Shepard has gained a 'Yapay Macun' #69631.
+[17:58:35	]Bernard Shepard has gained a 'Breen'in Suyu' #69632.
+[17:58:35	]Bernard Shepard has gained a '15 Kredi Kuponu' #69633.
+[17:58:37	]Bernard Shepard ran 'Consume' on item 'Yapay Macun' (#69631)
+[17:58:37	]Bernard Shepard has gained a 'Boş Kavanoz' #69634.
+[17:58:38	]Bernard Shepard ran 'Consume' on item 'Breen'in Suyu' (#69632)
+[17:58:38	]Bernard Shepard has updated their Zeka long boost target to -2 (current : 0).
+[17:58:38	]Bernard Shepard has updated their Algı long boost target to -1 (current : 0).
+[17:58:38	]Bernard Shepard has gained a 'Boş Breen'in Suyu' #69635.
+[17:58:44	]Bernard Shepard ran 'Use' on item '15 Kredi Kuponu' (#69633)
+[17:58:46	]Bernard Shepard has used a coupon at a ration dispenser, gaining 15 credits.
+[17:58:47	][IC] Antuan Demiralev: Hey dostum.
+[17:58:55	]Antuan Demiralev ran 'smoke' on item 'Sigara' (#64488)
+[17:58:56	][IC] Bernard Shepard: Buyrun ?
+[17:59:05	][IC] Antuan Demiralev: Kimliğimi apartmanda unutmuşum.
+[17:59:10	][IC] Antuan Demiralev: Yiyecek bir şey var mı?
+[17:59:13	]Antuan Demiralev ran 'light' on item 'Zippo Çakmak' (#64496)
+[17:59:26	][IC] Bernard Shepard: Az önce tükettim dostum keşke daha erken sorsaydın...
+[17:59:33	][IC] Bernard Shepard: Kuponum varmı bakacağım.
+[17:59:45	]Mark White opened the 'Çöp Konteyneri' #6409 container.
+[17:59:54	]Mark White closed the 'Çöp Konteyneri' #6409 container.
+[18:00:09	][IC] Bernard Shepard: Kusuruma bakma dostum kuponum da yok.
+[18:00:20	][IC] Antuan Demiralev: Tamam dostum baktığın için sağ ol.
+[18:00:40	]Antuan Demiralev entered observer.
+[18:00:44	]Mark White ran 'Equip' on item 'Açık Gri Kol Bandı' (#69624)
+[18:01:17	]Antuan Demiralev exited observer at their location.
+[18:01:20	]Antuan Demiralev entered observer.
+[18:01:21	][IC] C24:RCT.YELLO-25: <:: Yapacak daha iyi işlerim var. ::>
+[18:01:23	]Antuan Demiralev exited observer at their location.
+[18:01:27	][IC] Antuan Demiralev: Hey!
+[18:01:32	][IC] C24:RCT.YELLO-25: <:: Karın benden nefret ediyor, öyle değil mi? ::>
+[18:01:36	][IC] Bernard Shepard: Bir sorun mu var dostum ?
+[18:01:37	][IC] C24:RCT.YELLO-25: <:: Karın benden nefret ediyor, öyle değil mi? ::>
+[18:01:40	][IC] C24:RCT.YELLO-25: <:: Haha. ::>
+[18:01:53	]Mark White opened the 'Çöp Konteyneri' #6553 container.
+[18:01:54	][IT] Antuan Demiralev: Fısıldama sesleri duyuyorsun : (Yüzündeki yarayı nereden aldın)
+[18:01:55	]Mark White has gained a 'Boş Breen'in Suyu' #68631 from a container with the name 'Çöp Konteyneri' #6553.
+[18:01:57	]Mark White has gained a 'Boş Kavanoz' #68705 from a container with the name 'Çöp Konteyneri' #6553.
+[18:01:57	]Mark White has gained a 'Boş Bob Suyu' #68643 from a container with the name 'Çöp Konteyneri' #6553.
+[18:01:57	]Mark White has gained a 'Boş Breen'in Suyu' #69266 from a container with the name 'Çöp Konteyneri' #6553.
+[18:01:58	]Mark White has gained a 'Boş Kavanoz' #69265 from a container with the name 'Çöp Konteyneri' #6553.
+[18:01:58	]Mark White has gained a 'Boş Kavanoz' #69294 from a container with the name 'Çöp Konteyneri' #6553.
+[18:01:58	]Mark White has gained a 'Boş Breen'in Suyu' #69252 from a container with the name 'Çöp Konteyneri' #6553.
+[18:01:59	][IC] Antuan Demiralev: Tuzum bitmiş patates haşlayacaktım.
+[18:01:59	]Mark White closed the 'Çöp Konteyneri' #6553 container.
+[18:02:05	][IC] Antuan Demiralev: Tuz var mı?
+[18:02:13	][W] Bernard Shepard: Bir adamla dövüştüm.
+[18:02:22	][IC] Bernard Shepard: Hiç tuzum yok dostum.
+[18:02:29	][IC] Antuan Demiralev: Hiç mi yok.
+[18:02:36	][IC] Bernard Shepard: Kara biber var oda bir pençik kadar.
+[18:02:45	][IC] Antuan Demiralev: Hey bana karabiber verirsen.
+[18:02:50	][IC] Antuan Demiralev: Sana sigara veririm.
+[18:02:54	][IC] Antuan Demiralev: Hemde 3 dal.
+[18:03:03	][IC] Bernard Shepard: Tamam ayarlayalım.
+[18:03:07	]Farid Efsahani has gone afk.
+[18:03:16	][IC] Antuan Demiralev: Evin çok güzelmiş.
+[18:03:22	][IC] Bernard Shepard: Evet...
+[18:03:22	]Mark White opened the 'Plaza Deposu' stash.
+[18:03:26	]Mark White closed the 'Plaza Deposu' stash.
+[18:03:45	][IC] Antuan Demiralev: Bu resmi sen mi çizdin.
+[18:03:45	][ME] Bernard Shepard: alttaki dolabı açar ve bir kavanoz çıkartır
+[18:04:06	][ME] Bernard Shepard: hayır gül yoktu fazladan gülleri ben çizdim
+[18:04:23	]Bernard Shepard has spawned 'models/props_lab/jar01a.mdl'.
+[18:04:23	]Mark White has acquired his ration, gaining 0 credits, 0 wages and a ration ration.
+[18:04:26	]Bernard Shepard has spawned 'models/props_lab/jar01a.mdl'.
+[18:04:30	][IT] Antuan Demiralev: Fısıldama sesleri duymaya devam ediyorsun : (Evrensel birlik sanatı yasakladı, kendini durduramadın değil mi?)
+[18:04:34	][IC] Antuan Demiralev: Çok güzel olmuş.
+[18:04:38	]Mark White ran 'Open' on item 'Rasyon' (#69636)
+[18:04:38	]Mark White has gained a 'Yapay Macun' #69637.
+[18:04:38	]Mark White has gained a 'Breen'in Suyu' #69638.
+[18:04:38	]Mark White has gained a '15 Kredi Kuponu' #69639.
+[18:04:43	]Antuan Demiralev ran 'drop' on item 'Sigara' (#64490)
+[18:04:43	]Antuan Demiralev has lost a 'Sigara' #64490.
+[18:04:44	][ME] Bernard Shepard: kavanozu uzatır
+[18:04:44	]Antuan Demiralev ran 'drop' on item 'Sigara' (#64491)
+[18:04:44	]Antuan Demiralev has lost a 'Sigara' #64491.
+[18:04:44	]Antuan Demiralev ran 'drop' on item 'Sigara' (#64495)
+[18:04:44	]Antuan Demiralev has lost a 'Sigara' #64495.
+[18:04:49	]Mark White ran 'Use' on item '15 Kredi Kuponu' (#69639)
+[18:04:49	]Bernard Shepard ran 'take' on item 'Sigara' (#64491)
+[18:04:49	]Bernard Shepard has gained a 'Sigara' #64491.
+[18:04:50	]Bernard Shepard ran 'take' on item 'Sigara' (#64490)
+[18:04:50	]Bernard Shepard has gained a 'Sigara' #64490.
+[18:04:51	]Bernard Shepard ran 'take' on item 'Sigara' (#64495)
+[18:04:51	]Bernard Shepard has gained a 'Sigara' #64495.
+[18:04:56	][IC] Antuan Demiralev: Sağ ol.
+[18:05:06	][W] Bernard Shepard: Ne yazıkki olmuyor kendimi ifade etmeme yardımcı oluyor.
+[18:05:16	][IC] Bernard Shepard: Nedemek...
+[18:05:16	][IC] Antuan Demiralev: Ne?
+[18:05:21	][IC] Antuan Demiralev: Anlamadım?
+[18:05:28	][W] Bernard Shepard: Sanat gül çizmek güzel oluyor.
+[18:05:35	][IC] Bernard Shepard: Hiçbirşey.
+[18:05:36	]Mark White opened the 'Çöp Konteyneri' #6519 container.
+[18:05:38	][IC] Antuan Demiralev: Peki.
+[18:05:40	]Mark White closed the 'Çöp Konteyneri' #6519 container.
+[18:05:41	][IC] Antuan Demiralev: Güle güle.
+[18:05:47	]C24:RCT.YELLO-25 ran 'Equip' on item 'Combine PDA' (#69619)
+[18:05:57	]Antuan Demiralev has used a context menu option with the name: remove
+[18:05:57	]Antuan Demiralev entered observer.
+[18:06:19	]Bernard Shepard ran 'combine' on item 'Goodfella Puro' (#10454)
+[18:06:20	]Bernard Shepard ran 'combine' on item 'Goodfella Puro' (#10454)
+[18:06:21	]Bernard Shepard ran 'smoke' on item 'Sigara' (#64491)
+[18:06:23	]Bernard Shepard ran 'light' on item 'Zippo Çakmak' (#10710)
+[18:06:34	]Mark White has gained a 'Boş Plastik Sürahi' #69640.
+[18:07:02	]Bernard Shepard ran 'Equip' on item 'Hatchet' (#68623)
+[18:07:06	]Antuan Demiralev exited observer at their location.
+[18:07:26	]Antuan Demiralev entered observer.
+[18:07:42	]Bernard Shepard has taken 70 damage from worldspawn.
+[18:07:43	]C24:RCT.YELLO-25 has turned a ration dispenser off.
+[18:07:57	]Farid Efsahani is no longer afk. Total time spent AFK: 585
+[18:08:01	]Antuan Demiralev ran 'Equip' on item 'Bavul' (#63523)
+[18:08:01	]Antuan Demiralev ran 'EquipUn' on item 'Bavul' (#63523)
+[18:08:03	][IC] Bernard Shepard: HEY !
+[18:08:09	]Antuan Demiralev exited observer at their location.
+[18:08:09	][IC] Bernard Shepard: AĞIR OL.
+[18:08:14	]Farid Efsahani exited observer at their location.
+[18:08:20	]C24:RCT.YELLO-25 has used a context menu option with the name: rb655_make_animatable
+[18:08:25	][Y] Bernard Shepard: SİLAHIN VARMI ?
+[18:08:36	]C24:RCT.YELLO-25 has used a context menu option with the name: rb655_dissolve
+[18:08:41	][IC] Farid Efsahani: Lanet çöl fareleri, serseriler...
+[18:08:43	]Antuan Demiralev used command '/CharDesc'.
+[18:08:52	][IC] Mark White: W.
+[18:08:54	]Farid Efsahani entered observer.
+[18:08:54	]Antuan Demiralev entered observer.
+[18:09:03	]Bernard Shepard ran 'take' on item 'Çelik' (#69643)
+[18:09:03	]Bernard Shepard has gained a 'Çelik' #69643.
+[18:09:04	]Bernard Shepard ran 'take' on item 'Plastik Levhalar' (#69642)
+[18:09:04	]Bernard Shepard has gained a 'Plastik Levhalar' #69642.
+[18:09:05	]Bernard Shepard ran 'take' on item 'Kahverengi Ayakkabı' (#69641)
+[18:09:05	]Bernard Shepard has gained a 'Kahverengi Ayakkabı' #69641.
+[18:09:20	]Bernard Shepard ran 'take' on item 'Bilgisayar Parçaları' (#69644)
+[18:09:20	]Bernard Shepard has gained a 'Bilgisayar Parçaları' #69644.
+[18:09:20	]Farid Efsahani has spawned a 'NPC [4716][npc_headcrab]'.
+[18:09:25	]Farid Efsahani exited observer at their location.
+[18:09:25	]Farid Efsahani entered observer.
+[18:09:27	]Farid Efsahani exited observer at their location.
+[18:09:28	]Farid Efsahani entered observer.
+[18:09:37	]Farid Efsahani has spawned a 'NPC [4710][npc_headcrab]'.
+[18:09:40	]Bernard Shepard ran 'take' on item 'Boş Votka Şişesi' (#69646)
+[18:09:40	]Bernard Shepard has gained a 'Boş Votka Şişesi' #69646.
+[18:09:55	]Farid Efsahani has spawned a 'NPC [2477][npc_headcrab]'.
+[18:09:59	]Farid Efsahani used command '/Staff hip'.
+[18:10:02	][W] Antuan Demiralev: Ne zaman doğduğunu hatırlıyor musun.
+[18:10:10	]Farid Efsahani has spawned a 'NPC [2477][npc_headcrab]'.
+[18:10:26	]Farid Efsahani has spawned a 'NPC [2477][npc_headcrab]'.
+[18:10:26	][W] Antuan Demiralev: Ya da ne zaman öleceğini biliyor musun?
+[18:10:33	]Bernard Shepard has taken 5 damage from npc_headcrab.
+[18:10:35	]Bernard Shepard was knocked unconscious and is bleeding out.
+[18:10:41	]Bernard Shepard used command '/CharGetUp'.
+[18:10:43	]Antuan Demiralev ran SAM command 'asay' with arguments: 'naptın aaq'
+[18:10:48	]Antuan Demiralev exited observer at their location.
+[18:10:50	][LOOC] Farid Efsahani: istediğim gibi olmadı void ister misin
+[18:10:56	][IC] Antuan Demiralev: Siktir.
+[18:11:00	][LOOC] Bernard Shepard: OLUR
+[18:11:01	]C24:RCT.YELLO-25 ran SAM command 'asay' with arguments: 'Valaha bişeye dokundum ama'
+[18:11:04	]Antuan Demiralev has spawned a disinfected_bandage.
+[18:11:06	]Antuan Demiralev ran 'take' on item 'Dezenfekte Bandaj Rulosu' (#69648)
+[18:11:06	]Antuan Demiralev has gained a 'Dezenfekte Bandaj Rulosu' #69648.
+[18:11:09	]Antuan Demiralev ran 'give' on item 'Dezenfekte Bandaj Rulosu' (#69648)
+[18:11:09	]Antuan Demiralev has performed the 'Use Dezenfekte Bandaj Rulosu' action, gaining 22 experience in medicine.
+[18:11:09	]Bernard Shepard was disinfected by Antuan Demiralev for 268 seconds.
+[18:11:09	]Bernard Shepard's bleeding was stopped by Antuan Demiralev.
+[18:11:09	]Bernard Shepard was bandaged by Antuan Demiralev for 24 HP.
+[18:11:11	]Antuan Demiralev ran 'give' on item 'Dezenfekte Bandaj Rulosu' (#69648)
+[18:11:11	]Antuan Demiralev has performed the 'Use Dezenfekte Bandaj Rulosu' action, gaining 16 experience in medicine.
+[18:11:11	]Bernard Shepard was disinfected by Antuan Demiralev for 268 seconds.
+[18:11:11	]Bernard Shepard was bandaged by Antuan Demiralev for 24 HP.
+[18:11:12	]Antuan Demiralev ran 'give' on item 'Dezenfekte Bandaj Rulosu' (#69648)
+[18:11:12	]Antuan Demiralev has performed the 'Use Dezenfekte Bandaj Rulosu' action, gaining 15 experience in medicine.
+[18:11:12	]Bernard Shepard was disinfected by Antuan Demiralev for 268 seconds.
+[18:11:12	]Bernard Shepard was bandaged by Antuan Demiralev for 24 HP.
+[18:11:14	]Antuan Demiralev ran 'give' on item 'Dezenfekte Bandaj Rulosu' (#69648)
+[18:11:14	]Antuan Demiralev has performed the 'Use Dezenfekte Bandaj Rulosu' action, gaining 15 experience in medicine.
+[18:11:14	]Bernard Shepard was disinfected by Antuan Demiralev for 268 seconds.
+[18:11:14	]Bernard Shepard was bandaged by Antuan Demiralev for 24 HP.
+[18:11:23	]Antuan Demiralev has spawned a firstaid.
+[18:11:24	]Antuan Demiralev ran 'take' on item 'İlk Yardım Kiti' (#69649)
+[18:11:24	]Antuan Demiralev has gained a 'İlk Yardım Kiti' #69649.
+[18:11:26	]Antuan Demiralev ran 'give' on item 'İlk Yardım Kiti' (#69649)
+[18:11:26	]Antuan Demiralev has performed the 'Use İlk Yardım Kiti' action, gaining 36 experience in medicine.
+[18:11:26	]Bernard Shepard was disinfected by Antuan Demiralev for 384 seconds.
+[18:11:26	]Bernard Shepard was bandaged by Antuan Demiralev for 80 HP.
+[18:11:28	]Antuan Demiralev ran 'give' on item 'İlk Yardım Kiti' (#69649)
+[18:11:28	]Bernard Shepard was disinfected by Antuan Demiralev for 384 seconds.
+[18:11:28	]Bernard Shepard was bandaged by Antuan Demiralev for 80 HP.
+[18:11:31	]Antuan Demiralev ran 'give' on item 'İlk Yardım Kiti' (#69649)
+[18:11:31	]Bernard Shepard was disinfected by Antuan Demiralev for 384 seconds.
+[18:11:31	]Bernard Shepard was bandaged by Antuan Demiralev for 80 HP.
+[18:11:31	]Antuan Demiralev has gained a 'Dikişli Kumaş' #69650.
+[18:11:36	]C24:RCT.YELLO-25 used command '/PM antuan'.
+[18:11:41	]C24:RCT.YELLO-25 used command '/PM antuan Rapsputin'.
+[18:11:46	][IC] Antuan Demiralev: Vakit gelmedi.
+[18:11:48	][IC] Antuan Demiralev: Uyan!
+[18:11:52	]Bernard Shepard used command '/CharGetUp'.
+[18:11:58	]Antuan Demiralev entered observer.
+[18:12:08	][W] Bernard Shepard: Ne oluyor.
+[18:12:09	]Bernard Shepard is no longer unconscious from critical wounds.
+[18:12:30	]Bernard Shepard ran 'Use' on item 'Karıştırıcı' (#68068)
+[18:12:30	]Antuan Demiralev ran 'Use' on item 'Karıştırıcı' (#68068)
+[18:12:35	]Bernard Shepard ran 'Use' on item 'Çalışma Tezgahı' (#68067)
+[18:12:40	]Antuan Demiralev used command '/PM yello efendim'.
+[18:13:11	]Antuan Demiralev ran 'Use' on item 'Çalışma Tezgahı' (#68067)
+[18:13:11	]C24:RCT.YELLO-25 used command '/PM antuan banamı dedin naptın aaq diye'.
+[18:13:19	]Antuan Demiralev used command '/PM yello yoo'.
+[18:13:27	]C24:RCT.YELLO-25 used command '/PM antuan he tamam'.
+[18:13:36	]C24:RCT.YELLO-25 used command '/PM antuan kendimi yanlışıkla bole aldım da'.
+[18:13:41	]C24:RCT.YELLO-25 used command '/PM antuan :d'.
+[18:13:48	]Bernard Shepard ran 'take' on item 'Bilgisayar Parçaları' (#69651)
+[18:13:48	]Bernard Shepard has gained a 'Bilgisayar Parçaları' #69651.
+[18:13:51	][W] Antuan Demiralev: Ölmekten korkuyor musun?
+[18:14:11	]Bernard Shepard ran 'take' on item 'Boş Kavanoz' (#69367)
+[18:14:11	]Bernard Shepard has gained a 'Boş Kavanoz' #69367.
+[18:14:16	]C24:RCT.YELLO-25 used command '/PTCreate'.
+[18:14:28	]Mark White has gone afk.
+[18:14:34	][W] Antuan Demiralev: Koştur koştur ve eşya topla, neyi değiştireceksin?
+[18:14:38	]Mersa (STEAM_0:0:188549543) has disconnected.
+[18:15:19	][W] Antuan Demiralev: Yaşıyor musun?
+[18:15:22	][W] Antuan Demiralev: Yaşıyor musun?
+[18:15:25	]Bernard Shepard ran 'take' on item 'Yapıştırıcı' (#69656)
+[18:15:25	]Bernard Shepard has gained a 'Yapıştırıcı' #69656.
+[18:15:34	][ME] Bernard Shepard: korku içinde etrafına bakınır
+[18:15:46	][Y] Bernard Shepard: Kim o çık ortaya.
+[18:15:49	][W] Antuan Demiralev: Ne zaman doğduğunu hatırlıyor musun.
+[18:16:15	][W] Antuan Demiralev: Hatırlamıyorsan doğmuş sayılır mısın?
+[18:16:20	][W] Antuan Demiralev: Hatırlamıyorsan doğmuş sayılır mısın?
+[18:16:27	]Farid Efsahani has gone afk.
+[18:16:39	]Bernard Shepard ran 'take' on item 'Basit Yeşil Hap' (#69657)
+[18:16:39	]Bernard Shepard has gained a 'Basit Yeşil Hap' #69657.
+[18:16:57	]Bernard Shepard ran 'take' on item 'Kırık Klavye' (#69658)
+[18:16:57	]Bernard Shepard has gained a 'Kırık Klavye' #69658.
+[18:17:15	]Antuan Demiralev exited observer at their location.
+[18:17:22	]Antuan Demiralev entered observer.
+[18:17:36	][Y] Bernard Shepard: Çık ortaya ucube yaratık.
+[18:17:53	][W] Antuan Demiralev: Ucube sensin.
+[18:18:28	][ME] Bernard Shepard: butona bastığında oluşan harakete şaşırır
+[18:18:46	]Bernard Shepard ran 'take' on item 'Dezenfekte Bandaj Rulosu' (#69659)
+[18:18:46	]Bernard Shepard has gained a 'Dezenfekte Bandaj Rulosu' #69659.
+[18:19:00	][W] Antuan Demiralev: Ortaya çıkarsam benimle savaşır mıydın?
+[18:19:39	]Bernard Shepard is fully healed.
+[18:19:52	][Y] Bernard Shepard: Bu kadar saklanarak konuşman hayıra elamet değil tabiki savaşırdım seni yürüyemeyecek hale getirir sana saklanmaman gerektiğini öğretirdim.
+[18:20:07	][IC] Antuan Demiralev: Geliyorum.
+[18:20:22	]Antuan Demiralev exited observer at their location.
+[18:20:24	]Bernard Shepard used command '/CharDesc'.
+[18:20:29	][IC] Antuan Demiralev: Heyy.
+[18:20:40	][ME] Bernard Shepard: çekinip arkaya iki adım atar
+[18:20:44	][IC] Antuan Demiralev: Sakin ol.
+[18:21:00	][ME] Antuan Demiralev: silahını beline atar ve boş ellerini gösterir
+[18:21:11	][ME] Bernard Shepard: görünür derecede şaşırır
+[18:21:23	][IC] Antuan Demiralev: Senin burada ne işin var?
+[18:21:23	][ME] Bernard Shepard: baltasını indirir
+[18:21:35	][IC] Antuan Demiralev: Onu demiyorum sevgili dostum.
+[18:21:39	][IC] Antuan Demiralev: BURADA.
+[18:21:49	][IC] Antuan Demiralev: Ayak bastığın toprakta, soluduğun havada.
+[18:21:55	][IC] Antuan Demiralev: Sen buraya ait değilsin.
+[18:22:08	][IC] Antuan Demiralev: Sen lanetlenmişsin.
+[18:22:16	][IC] Antuan Demiralev: Neden yanlız olduğunu hiç düşünmedin mi?
+[18:22:21	][IC] Antuan Demiralev: Neden senden başka kimse yok?
+[18:22:46	][IC] Antuan Demiralev: Evet.
+[18:22:58	][IC] Antuan Demiralev: Ben Solucan.
+[18:23:18	][IC] Antuan Demiralev: Tekrar soruyorum.
+[18:23:22	][IC] Antuan Demiralev: Doğduğunu hatırlıyor musun?
+[18:23:32	][IC] Antuan Demiralev: Herkes hatırlar.
+[18:23:39	][IC] Antuan Demiralev: Ben bile hatırlıyorum.
+[18:23:54	][LOOC] Bernard Shepard: mind fuck gaming
+[18:23:59	][IC] Antuan Demiralev: Hatırlamıyorsan doğmuş sayılır mısın?
+[18:24:24	][Y] Antuan Demiralev: Dur amınakoyayım.
+[18:24:30	][Y] Antuan Demiralev: Nereye gidiyosun.
+[18:24:33	][Y] Antuan Demiralev: Lanet pislik.
+[18:24:55	][IC] Antuan Demiralev: Sana lanetlisin diyorum amınakoyayım.
+[18:24:59	][IC] Antuan Demiralev: Son insansın ulan.
+[18:25:14	][IC] Antuan Demiralev: E ne yapacaksın?
+[18:25:34	][IC] Antuan Demiralev: Büyük adamsın Bernard.
+[18:25:38	]Antuan Demiralev ran 'drop' on item 'El Feneri' (#54325)
+[18:25:38	]Antuan Demiralev has lost a 'El Feneri' #54325.
+[18:25:41	][IC] Antuan Demiralev: Bu feneri al.
+[18:25:50	]Bernard Shepard ran 'take' on item 'El Feneri' (#54325)
+[18:25:50	]Bernard Shepard has gained a 'El Feneri' #54325.
+[18:25:54	][IC] Antuan Demiralev: Seni izliyor olacağım.
+[18:26:00	]Antuan Demiralev entered observer.
+[18:26:15	][ME] Bernard Shepard: kontrol panelini kurcalamaya başlar
+[18:26:28	]Bernard Shepard rolled 5 out of 100.
+[18:26:28	]Bernard Shepard used command '/Roll intelegence 100'.
+[18:26:33	][IT] Antuan Demiralev: Gemi çalışmıyor
+[18:27:45	][IT] Antuan Demiralev: Buraya uzun zamandır ayak basılmadığı çok belli
+[18:28:01	]Bernard Shepard used command '/ActSit'.
+[18:28:13	][ME] Bernard Shepard: kendisini yorgunluktan yere ater ve oturur
+[18:28:28	][ME] Bernard Shepard: direkt olarak denize bakar
+[18:28:42	]Farid Efsahani is no longer afk. Total time spent AFK: 1030
+[18:28:44	]Farid Efsahani exited observer at their location.
+[18:28:47	]Farid Efsahani entered observer.
+[18:28:49	]Farid Efsahani exited observer at their location.
+[18:28:54	]Farid Efsahani entered observer.
+[18:28:55	][IT] Antuan Demiralev: Kıyılara vuran dalgalara bakıyorsun, denizin kokusu rüzgar ile birlikte burnuna tütüyor.
+[18:29:18	]Farid Efsahani used command '/Staff rebel charımla adam rol çıkartayım mı'.
+[18:29:27	]Antuan Demiralev ran SAM command 'asay' with arguments: 'Adama son insan rolü yaptırıyorum'
+[18:29:31	][ME] Bernard Shepard: derin bir nefes alır ve rahatladığını hafif kamburlaşmasından anlaşılır
+[18:29:32	]Antuan Demiralev ran SAM command 'asay' with arguments: 'bu adam dünyadaki son insan'
+[18:29:43	][ME] Bernard Shepard: ses duyduğundan stress olup ayağa kalkar
+[18:29:43	]Bernard Shepard used command '/ExitAct'.
+[18:30:19	]Farid Efsahani has spawned a 'NPC [2597][npc_headcrab]'.
+[18:30:33	]Farid Efsahani has spawned a 'NPC [2597][npc_zombie]'.
+[18:30:35	]Farid Efsahani exited observer at their location.
+[18:30:35	]Farid Efsahani entered observer.
+[18:30:38	][ME] Bernard Shepard: baltanın kabzasını sertçe sıkar ve kritik vuruş için hazır bir şekilde ilerler
+[18:30:52	]Farid Efsahani has spawned a aviators.
+[18:31:00	]Farid Efsahani has spawned a drink_banksoda_grey.
+[18:31:04	][IT] Antuan Demiralev: Duyduğun şey basit bir gıcırdamadan başka bir şey değildi, ortalıkta insandan eser yok. Yanlızlığın hissiyatını kabullenemiyorsun.
+[18:31:45	]Farid Efsahani exited observer at their location.
+[18:31:46	]Farid Efsahani entered observer.
+[18:31:55	][IT] Antuan Demiralev: Belkide geminin radyosunu denemelisindir?
+[18:32:44	]Bernard Shepard ran 'take' on item 'Bank Sodası' (#69661)
+[18:32:46	]Bernard Shepard ran 'take' on item 'Bank Sodası' (#69661)
+[18:32:48	]Bernard Shepard ran 'Consume' on item 'Bank Sodası' (#69661)
+[18:32:50	]Bernard Shepard ran 'take' on item 'Plastik Çöp' (#69662)
+[18:32:51	][IT] Antuan Demiralev: Sana bırakılmış bir hediye
+[18:33:01	]Bernard Shepard ran 'drop' on item 'Boş Kavanoz' (#69634)
+[18:33:01	]Bernard Shepard has lost a 'Boş Kavanoz' #69634.
+[18:33:01	]Bernard Shepard ran 'drop' on item 'Boş Breen'in Suyu' (#69635)
+[18:33:01	]Bernard Shepard has lost a 'Boş Breen'in Suyu' #69635.
+[18:33:05	]Bernard Shepard ran 'take' on item 'Plastik Çöp' (#69662)
+[18:33:05	]Bernard Shepard has gained a 'Plastik Çöp' #69662.
+[18:33:09	]Bernard Shepard ran 'take' on item 'Havacı Gözlükleri' (#69660)
+[18:33:09	]Bernard Shepard has gained a 'Havacı Gözlükleri' #69660.
+[18:33:25	]Victorian loaded the character 'Agatha Gard'
+[18:33:32	][ME] Bernard Shepard: paneli kurcalamaya başlar
+[18:33:44	]Bernard Shepard rolled 6 out of 20.
+[18:33:44	]Bernard Shepard used command '/Roll intelegence 20'.
+[18:33:50	]Agatha Gard entered observer.
+[18:33:53	][IT] Antuan Demiralev: Duyduğun şey sessizlik.
+[18:34:03	]Mark White is no longer afk. Total time spent AFK: 1470
+[18:34:08	][ME] Bernard Shepard: paneli incelemeye başlar ve detaylıca kurcalamaya başlar
+[18:34:25	]Bernard Shepard rolled 7 out of 10 (+0 from Güç).
+[18:34:25	]Bernard Shepard used command '/Roll strength 10'.
+[18:34:35	][IT] Antuan Demiralev: Panel çalışıyor!
+[18:34:46	][IT] Antuan Demiralev: Panel çalışıyor!
+[18:35:04	][ME] Bernard Shepard: telefonu kulağına dayar ve radyo frekansıyla oynamaya başlar
+[18:35:22	][IT] Antuan Demiralev: Evet şimdi günün haberleri: Almanya londrayı vurmaya devam ediyor!
+[18:35:38	][LOOC] Bernard Shepard: wtf 7 saat savaşı ?
+[18:35:40	]Agatha Gard used command '/Staff GM'liğin çok güzel'.
+[18:35:44	]Mark White has gained a 'Boş Sağlık Şişesi' #69663.
+[18:35:44	]Mark White has gained a 'Boş Paket Servis' #69664.
+[18:35:44	]Agatha Gard is fully healed.
+[18:35:47	][LOOC] Antuan Demiralev: duyduğun şey bundan da öncesi
+[18:35:53	][LOOC] Antuan Demiralev: sen kimsenin olmadığı garip bir boyuttasın
+[18:36:00	][LOOC] Bernard Shepard: damn
+[18:36:11	][IT] Antuan Demiralev: Vatandaşlarımıza lüzüm ettikçe sığınaklarda kalmalarını öneriyoruz.
+[18:36:15	]Mark White ran 'take' on item 'Arıtıcı' (#69667)
+[18:36:15	]Mark White has gained a 'Arıtıcı' #69667.
+[18:36:41	][ME] Bernard Shepard: telefonu yetine takar
+[18:36:44	][IT] Antuan Demiralev: Adolf Hitler agresif tutumlarına devam edecek gibi gözüküyor
+[18:37:11	][ME] Bernard Shepard: hafif bir şekilde kafasını sallamaya başlar
+[18:37:21	][ME] Bernard Shepard: delirme belirtileri göstermeye başlar
+[18:37:55	]Mark White ran 'take' on item 'Boş Breen'in Suyu' (#69668)
+[18:37:55	]Mark White has gained a 'Boş Breen'in Suyu' #69668.
+[18:38:01	]Mark White ran 'take' on item 'Demir' (#69670)
+[18:38:01	]Mark White has gained a 'Demir' #69670.
+[18:38:41	]Agatha Gard used command '/Event 'Medeni bir toplum, zengin ve güvenli olandır. İşinizi ortaya koyun, ve insanlığı yıldızlara taşıyın İlerlemeye karşı olan herkes, Sivil Koruma birimlerine rapor edin!'.
+[18:38:55	]Mark White ran 'take' on item 'Arıtıcı' (#69673)
+[18:38:55	]Mark White has gained a 'Arıtıcı' #69673.
+[18:39:02	]Mark White ran 'take' on item 'Hurda Metal' (#69672)
+[18:39:02	]Mark White has gained a 'Hurda Metal' #69672.
+[18:39:04	]Bernard Shepard ran 'take' on item 'Dezenfekte Bandaj Rulosu' (#69674)
+[18:39:04	]Bernard Shepard has gained a 'Dezenfekte Bandaj Rulosu' #69674.
+[18:39:13	]Victorian (STEAM_0:0:577700614) has disconnected.
+[18:39:38	]Mark White opened the 'İnşaat Bölgesi Deposu' stash.
+[18:39:41	]Mark White has lost a 'Hurda Metal' #69672.
+[18:39:41	]Mark White has transferred a 'Hurda Metal' #69672 to a container with the name 'İnşaat Bölgesi Deposu' #6719.
+[18:39:42	]Mark White has lost a 'Demir' #69670.
+[18:39:42	]Mark White has transferred a 'Demir' #69670 to a container with the name 'İnşaat Bölgesi Deposu' #6719.
+[18:39:43	]Mark White has lost a '15 Kredi Kuponu' #69639.
+[18:39:43	]Mark White has transferred a '15 Kredi Kuponu' #69639 to a container with the name 'İnşaat Bölgesi Deposu' #6719.
+[18:39:55	]Mark White has lost a 'Boş Breen'in Suyu' #69668.
+[18:39:55	]Mark White has transferred a 'Boş Breen'in Suyu' #69668 to a container with the name 'İnşaat Bölgesi Deposu' #6719.
+[18:39:57	]Mark White has lost a 'Boş Breen'in Suyu' #69252.
+[18:39:57	]Mark White has transferred a 'Boş Breen'in Suyu' #69252 to a container with the name 'İnşaat Bölgesi Deposu' #6719.
+[18:39:58	]Mark White has lost a 'Yapay Macun' #69637.
+[18:39:58	]Mark White has transferred a 'Yapay Macun' #69637 to a container with the name 'İnşaat Bölgesi Deposu' #6719.
+[18:40:01	]Mark White has lost a 'Boş Kavanoz' #69265.
+[18:40:01	]Mark White has transferred a 'Boş Kavanoz' #69265 to a container with the name 'İnşaat Bölgesi Deposu' #6719.
+[18:40:02	]Mark White has lost a 'Boş Kavanoz' #69294.
+[18:40:02	]Mark White has transferred a 'Boş Kavanoz' #69294 to a container with the name 'İnşaat Bölgesi Deposu' #6719.
+[18:40:04	]Mark White has lost a 'Boş Bob Suyu' #68643.
+[18:40:04	]Mark White has transferred a 'Boş Bob Suyu' #68643 to a container with the name 'İnşaat Bölgesi Deposu' #6719.
+[18:40:05	]Mark White has lost a 'Boş Breen'in Suyu' #69266.
+[18:40:05	]Mark White has transferred a 'Boş Breen'in Suyu' #69266 to a container with the name 'İnşaat Bölgesi Deposu' #6719.
+[18:40:06	]Mark White has lost a 'Boş Kavanoz' #68705.
+[18:40:06	]Mark White has transferred a 'Boş Kavanoz' #68705 to a container with the name 'İnşaat Bölgesi Deposu' #6719.
+[18:40:08	]Mark White has lost a 'Boş Breen'in Suyu' #68631.
+[18:40:08	]Mark White has transferred a 'Boş Breen'in Suyu' #68631 to a container with the name 'İnşaat Bölgesi Deposu' #6719.
+[18:40:09	]Mark White has lost a 'Arıtıcı' #69667.
+[18:40:09	]Mark White has transferred a 'Arıtıcı' #69667 to a container with the name 'İnşaat Bölgesi Deposu' #6719.
+[18:40:11	]Mark White has lost a 'Arıtıcı' #69673.
+[18:40:11	]Mark White has transferred a 'Arıtıcı' #69673 to a container with the name 'İnşaat Bölgesi Deposu' #6719.
+[18:40:13	]Mark White has lost a 'Boş Sağlık Şişesi' #69663.
+[18:40:13	]Mark White has transferred a 'Boş Sağlık Şişesi' #69663 to a container with the name 'İnşaat Bölgesi Deposu' #6719.
+[18:40:17	]Mark White closed the 'İnşaat Bölgesi Deposu' stash.
+[18:40:41	]Bernard Shepard ran 'PackUp' on item 'Çalışma Tezgahı' (#68252)
+[18:40:44	]EYOX (STEAM_0:0:93873703) has disconnected (timed out).
+[18:40:44	]Bernard Shepard ran 'Use' on item 'Çalışma Tezgahı' (#68252)
+[18:41:08	]Antuan Demiralev exited observer at their location.
+[18:41:17	][IC] Antuan Demiralev: İstediğin zaman seni alıp götürebilirim.
+[18:41:27	]Mark White has gained a 'Boş Boya Kutusu' #69675.
+[18:41:53	][ME] Bernard Shepard: gözlerini yumup hafif kafasını sallar 
+[18:42:10	]Mark White ran 'take' on item 'Boş Süt Kartonu' (#69676)
+[18:42:10	]Mark White has gained a 'Boş Süt Kartonu' #69676.
+[18:42:21	][ME] Antuan Demiralev: Kafana sert bir cisimle vuruyorum ve bayılıyorsun.
+[18:42:31	]Antuan Demiralev entered observer.
+[18:42:32	]Bernard Shepard used command '/CharFallOver'.
+[18:42:42	]Victorian has connected.
+[18:42:51	]Antuan Demiralev ran SAM command 'bring' with arguments: 'bern'
+[18:42:57	]Antuan Demiralev ran SAM command 'bring' with arguments: 'bern'
+[18:43:00	]Bernard Shepard used command '/CharGetUp'.
+[18:43:04	][IC] Antuan Demiralev: !tp bern.
+[18:43:07	]Antuan Demiralev ran SAM command 'menu' with arguments: ''
+[18:43:13	]Antuan Demiralev ran SAM command 'bring' with arguments: '#4'
+[18:43:14	]Antuan Demiralev ran SAM command 'bring' with arguments: '#4'
+[18:43:25	][ME] Antuan Demiralev: gözlerini açıp kendine geldin
+[18:43:26	]Bernard Shepard ran 'EquipUn' on item 'Hatchet' (#68623)
+[18:43:43	]Bernard Shepard ran 'drop' on item 'Hatchet' (#68623)
+[18:43:43	]Bernard Shepard has lost a 'Hatchet' #68623.
+[18:44:07	][LOOC] Antuan Demiralev: ben çıkıyorum sana kolay gelsin eğlendin mi?
+[18:44:15	]Victorian loaded the character 'Agatha Gard'
+[18:44:27	][LOOC] Bernard Shepard: sağol eyvallah rasputin
+[18:44:27	]Mark White has gained a 'Boş Süt Kartonu' #69679.
+[18:44:29	]Agatha Gard entered observer.
+[18:44:34	]Rasputin ta kendisi (STEAM_0:0:126938604) has disconnected.
+[18:44:41	]Deadasf (STEAM_0:0:93927109) has disconnected.
+[18:44:41	]Agatha Gard exited observer at their location.
+[18:44:46	]Agatha Gard has used a context menu option with the name: ixpropviewowner
+[18:44:51	]Agatha Gard entered observer.
+[18:44:59	]Agatha Gard exited observer at their location.
+[18:45:00	]Agatha Gard entered observer.
+[18:45:03	]Agatha Gard exited observer at their location.
+[18:45:04	]Agatha Gard entered observer.
+[18:45:04	]Agatha Gard exited observer at their location.
+[18:45:05	]Agatha Gard entered observer.
+[18:45:05	]Agatha Gard exited observer at their location.
+[18:45:06	]Agatha Gard entered observer.
+[18:45:17	]Agatha Gard exited observer at their location.
+[18:45:21	]Agatha Gard entered observer.
+[18:45:27	]Agatha Gard exited observer at their location.
+[18:45:27	]Agatha Gard entered observer.
+[18:45:28	]Agatha Gard exited observer at their location.
+[18:45:34	]Victorian (STEAM_0:0:577700614) has disconnected.
+[18:46:06	]Mark White ran 'take' on item 'Yapıştırıcı' (#69682)
+[18:46:06	]Mark White has gained a 'Yapıştırıcı' #69682.
+[18:46:09	]Mark White ran 'take' on item 'Plastik Çöp' (#69681)
+[18:46:09	]Mark White has gained a 'Plastik Çöp' #69681.
+[18:46:12	]Mark White ran 'take' on item 'Boş Paket Servis' (#69680)
+[18:46:12	]Mark White has gained a 'Boş Paket Servis' #69680.
+[18:46:21	]Mark White ran 'take' on item 'Plastik Levhalar' (#69685)
+[18:46:21	]Mark White has gained a 'Plastik Levhalar' #69685.
+[18:46:24	]Mark White ran 'take' on item 'Cam kırıkları' (#69684)
+[18:46:24	]Mark White has gained a 'Cam kırıkları' #69684.
+[18:46:43	]Mark White has taken 16 damage from worldspawn.
+[18:46:55	]Mark White ran 'take' on item 'Boş Kupa' (#69686)
+[18:46:55	]Mark White has gained a 'Boş Kupa' #69686.
+[18:47:03	]Mark White ran 'take' on item 'Arıtıcı' (#69688)
+[18:47:03	]Mark White has gained a 'Arıtıcı' #69688.
+[18:47:08	]Mark White ran 'take' on item 'Elektronik devreler' (#69687)
+[18:47:08	]Mark White has gained a 'Elektronik devreler' #69687.
+[18:47:56	]Mark White has taken 16 damage from worldspawn.
+[18:50:06	]Mark White ran 'take' on item 'Boş Votka Şişesi' (#69689)
+[18:50:06	]Mark White has gained a 'Boş Votka Şişesi' #69689.
+[18:50:42	]Mark White ran 'take' on item 'Kahverengi Ayakkabı' (#69690)
+[18:50:42	]Mark White has gained a 'Kahverengi Ayakkabı' #69690.
+[18:51:01	]Mark White ran 'take' on item 'Demir' (#69694)
+[18:51:01	]Mark White has gained a 'Demir' #69694.
+[18:51:04	]Mark White ran 'take' on item 'Elektronik devreler' (#69693)
+[18:51:04	]Mark White has gained a 'Elektronik devreler' #69693.
+[18:51:07	]Mark White ran 'take' on item 'Hurda Metal' (#69691)
+[18:51:07	]Mark White has gained a 'Hurda Metal' #69691.
+[18:51:08	]Mark White ran 'take' on item 'Boş Kavanoz' (#69692)
+[18:51:08	]Mark White has gained a 'Boş Kavanoz' #69692.
+[18:51:38	]Mark White ran 'take' on item 'Hurda Metal' (#69696)
+[18:51:38	]Mark White has gained a 'Hurda Metal' #69696.
+[18:51:45	]Mark White ran 'take' on item 'Demir' (#69697)
+[18:51:45	]Mark White has gained a 'Demir' #69697.
+[18:52:11	]Mark White has taken 21 damage from worldspawn.
+[18:52:57	]Mark White ran 'take' on item 'Arıtıcı' (#69703)
+[19:00:39	]YoldakiDayı (STEAM_0:0:504441406) has disconnected.

@@ -1,0 +1,71 @@
+--[[
+| This file was obtained through the combined efforts
+| of Madbluntz & Plymouth Antiquarian Society.
+|
+| Credits: lifestorm, Gregory Wayne Rossel JR.,
+| 	Maloy, DrPepper10 @ RIP, Atle!
+|
+| Visit for more: https://plymouth.thetwilightzone.ru/
+--]]
+
+
+-- Called after all the plugins have been initialized.
+function PLUGIN:InitializedPlugins()
+	ix.hints.Add("Mesajınızdan önce // yazarak dış karakter olarak konuşun.")
+	ix.hints.Add("Mesajınızdan önce .// veya [[ yazarak yerel olarak dış karakter olarak konuşun.")
+	ix.hints.Add("Hareketsiz dururken ALT tuşunu basılı tutup SHIFT'e basarak eğilmeyi açıp kapatabilirsiniz.")
+	ix.hints.Add("Ana menüyü görmek için TAB'a basın, ya da geçici olarak görmek için TAB'ı basılı tutun.")
+	ix.hints.Add("Bir nesneye bakarken E tuşuna basın, menüsünü açacaktır.")
+	ix.hints.Add("Karakterinizin fiziksel açıklamasını /CharDesc komutu, TAB menüsü veya F1 menüsü üzerinden değiştirebilirsiniz.")
+	ix.hints.Add("/CharSearch komutunu kullanarak baktığınız karakteri arayabilirsiniz.")
+	ix.hints.Add("Bir karakteri Lastik Kelepçe kullanarak bağlayabilirsiniz.")
+	ix.hints.Add("İstemci ayarlarınızı ayarlar menüsü üzerinden yapılandırabilirsiniz.")
+	ix.hints.Add("Bir iş sahibi olmak mı istiyorsunuz? İşler Bölümü ile iletişime geçin.")
+	ix.hints.Add("Sunucu şu anki durumunda topluluk desteği olmadan olamazdı. Bizi daha fazla desteklemek istiyor musunuz? Bağış yapmayı düşünün.")
+	ix.hints.Add("Yüzmeye giderken boğulmamaya dikkat edin.")
+	ix.hints.Add("Karakteriniz sadece bir insan, yüksek yerlerden atlamaktan kaçının.")
+	ix.hints.Add("Uyumayı unutmayın, karakteriniz yorulur.")
+	ix.hints.Add("Birkaç arkadaş edinmeye çalışın, dert ortaklığı sağlarlar.")
+	ix.hints.Add("Ceza çekmeye hazır değilseniz suç işlemeyin.")
+	ix.hints.Add("Şehir sokakları sürekli olarak Combine tarafından gözetlenmektedir. Dikkatli olun.")
+	ix.hints.Add("Direnişin peşinden koşmayın, Combine sizi kolayca yakalayabilir.")
+	ix.hints.Add("Combine ile uğraşmayın, Dünya'yı 7 saatte ele geçirdiler.")
+	ix.hints.Add("Birini yumruklamak mı istiyorsunuz? Yapmayın.")
+	ix.hints.Add("Combine'a itaat edin, pişman olmayacaksınız.")
+	ix.hints.Add("Combine kapınıza geldiğinde, durun ve yere yatın.")
+	ix.hints.Add("Sivil Koruma'ya ulaşmanız mı gerekiyor? Bir talep cihazı edinin.")
+	ix.hints.Add("Sivil Koruma medeni toplumu korur, sizi değil.")
+	ix.hints.Add("Personel size yardımcı olmak için burada, lütfen onlara saygılı olun ve işbirliği yapın.")
+	ix.hints.Add("Karakter olarak doğru konuşmaya çalışın, emote ve ikon kullanmayın.")
+	ix.hints.Add("Roleplay zenginliğini arttırmak için bol bol /me kullanın.")
+	ix.hints.Add("Gitmek istediğiniz bir yer mi var? Koşmayın, medeni değil.")
+	ix.hints.Add("Bir S2K çatışmasına katılıyorsanız, daha keyifli olması için ıskalamayı deneyin.")
+	ix.hints.Add("Metagaming, OOC bilgilerini karakter olarak kullanmaktır. Yapmayın.")
+	ix.hints.Add("Unutmayın, bu bir rol yapma sunucusudur. Kendiniz değil, bir karakter olarak oynuyorsunuz.")
+	ix.hints.Add("Metabaiting, IC bilgilerini dış karakter olarak paylaşmaktır. Yapmayın.")
+	ix.hints.Add("Sıkıldıysanız ve aksiyon yoksa, pasif rol yapmayı deneyin.")
+	ix.hints.Add("Karakterinizi geliştirin, anlatacakları bir hikaye verin. Pişman olmayacaksınız.")
+	ix.hints.Add("Powergaming, eylemlerinizi başkalarına dayatmaktır. Yapmayın.")
+	ix.hints.Add("Zar atarken, eyleminizi en iyi temsil eden bir özellik seçin.")
+	ix.hints.Add("Çoğu fraksiyonun özel OOC sohbetleri vardır. Onlara chat'te fraksiyonun baş harflerini girerek erişebilirsiniz.")
+	ix.hints.Add("F3 tuşuna basarak belirli bir mesafedeki karakterlerin sizi tanımasına izin verebilirsiniz.")
+	ix.hints.Add("Karakter menüsü aracılığıyla kendinizi tanıtmak için bir Sahte İsim ayarlayabilirsiniz.")
+	ix.hints.Add("Not almak mı istiyorsunuz? F1 menüsü aracılığıyla Kişisel Notlar'ı kullanın.")
+	ix.hints.Add("Ambiyans Müziği'nin sesini değiştirebilir veya ayarlar menüsü aracılığıyla devre dışı bırakabilirsiniz.")
+	ix.hints.Add("Yeterli alan yok mu? Eşyalarınızı saklamak için kapları kullanın veya bir sırt çantası alın.")
+	ix.hints.Add("Özel bir ürün mü istiyorsunuz? Bir personel üyesine @ aracılığıyla bir tane yapmalarını isteyin.")
+	ix.hints.Add("Karanlık mı? Göremiyor musunuz? Bir el feneri alın ya da üretin.")
+	ix.hints.Add("Karanlık sokaklar, köşeler ve çöp kutuları etrafında bakın; belki yararlı bir şey bulursunuz.")
+	ix.hints.Add("Eşyaları bir araya getirerek Yaratma menüsü aracılığıyla yeni ürünler oluşturabilirsiniz.")
+	ix.hints.Add("Çoğu ürün, Yaratma menüsü aracılığıyla sökülüp kaynak için kullanılabilir.")
+	ix.hints.Add("Sıkıldınız mı? Bir kitap okuyun. Karakterinize biraz bilgi verin.")
+	ix.hints.Add("Uzun mesafeler üzerinde iletişim kurmak için bir radyo alın. Dikkat; yasadışılar.")
+	ix.hints.Add("Bir tarayıcı sizin fotoğrafınızı mı çekecek? Gülümseyin! Her CP bölgede yüzünüzü görecek.")
+	ix.hints.Add("Çok uzun süre yerin altında kalırsanız, zararlı gazları solursunuz.")
+	ix.hints.Add("Bu ipuçlarını ayarlar menüsü aracılığıyla kapatabilirsiniz.")
+	ix.hints.Add("İpucu aralığını ayarlar menüsünden ayarlayabilirsiniz.")
+	ix.hints.Add("Yaralı mısınız? Sivil Tıbbi Birliği'ni ziyaret edin. Hizmetleri ücretsiz!")
+	ix.hints.Add("Sivil Tıbbi Birliği'ne bir Sosyal Kredi kuponu karşılığında kan bağışlayabilirsiniz.")
+	ix.hints.Add("Bir duvarın içinde mi sıkıştınız? Prop tarafından mı öldürüldünüz? /UnStuck komutunu kullanın! Dikkat, kötüye kullanım cezalandırılır.")
+	ix.hints.Add("Immersive First Person'ın yoğunluğunu ayarlar menüsü aracılığıyla ayarlayabilirsiniz.")
+end

@@ -1,0 +1,8 @@
+
+database:
+  adapter: "mysqloo"
+  hostname: "144.76.235.183"
+  username: "u24_pn1CH0Ah1h"
+  password: "jWc4lPKskActZT7^@MqFBosU"
+  database: "s24_ixhl2rp_turkey"
+  port: 3306
