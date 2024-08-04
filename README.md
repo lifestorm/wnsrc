@@ -9,6 +9,6 @@ Databases, logs and so on are included
   * [Willard Networks: Poland (Veles)](https://google.com)
   * [Willard Networks: Turkey](https://google.com)
 * **Forum**
-  * [User data stack (including e-mails)](https://google.com/)
+  * [Users data stack (including e-mails)](https://google.com/)
 
 Bluntsmoke, Inc. © 2024
