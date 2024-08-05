@@ -1,0 +1,52 @@
+[17:22:22	]Gr4Ss has connected.
+[17:24:17	]Gr4Ss created the character 'Gr4Ss'
+[17:24:17	]Gr4Ss loaded the character 'Gr4Ss'
+[17:24:17	]Gr4Ss has gained a 'Suitcase' #1.
+[17:24:17	]Gr4Ss has gained a '#03254's Identity Card' #2.
+[17:24:17	]Gr4Ss has gained a 'Glasses' #3.
+[17:24:45	]Gr4Ss used command '/LinkAccount gr4ss'.
+[17:29:30	]Gr4Ss ran SAM command 'menu' with arguments: ''
+[17:31:05	]Gr4Ss used command '/LinkAccount gr4ss'.
+[17:31:24	]Gr4Ss used command '/LinkComplete vIKAgdD44Pzb'.
+[17:31:28	]Gr4Ss ran SAM command 'menu' with arguments: ''
+[17:31:58	]Gr4Ss ran SAM command 'menu' with arguments: ''
+[17:32:05	]Console ran SAM command 'setrank' with arguments: 'gr4ss' 'superadmin'
+[17:32:07	]Gr4Ss ran SAM command 'menu' with arguments: ''
+[17:32:38	]Gr4Ss ran SAM command 'changerankimmunity' with arguments: 'server_admin' '51.00'
+[17:32:39	]Gr4Ss ran SAM command 'changeinherit' with arguments: 'server_admin' 'trial_admin'
+[17:32:47	]Gr4Ss ran SAM command 'changerankimmunity' with arguments: 'senior_admin' '52.00'
+[17:32:48	]Gr4Ss ran SAM command 'changeinherit' with arguments: 'senior_admin' 'server_admin'
+[17:33:07	]Gr4Ss ran SAM command 'changerankimmunity' with arguments: 'head_of_staff' '53.00'
+[17:33:08	]Gr4Ss ran SAM command 'changeinherit' with arguments: 'head_of_staff' 'senior_admin'
+[17:33:16	]Gr4Ss ran SAM command 'changeinherit' with arguments: 'premium2' 'premium1'
+[17:33:33	]Gr4Ss ran SAM command 'changeinherit' with arguments: 'gamemaster' 'admin'
+[17:33:46	]Gr4Ss ran SAM command 'changerankimmunity' with arguments: 'mentor_active' '30.00'
+[17:33:47	]Gr4Ss ran SAM command 'changeinherit' with arguments: 'mentor_active' 'admin'
+[17:33:53	]Gr4Ss ran SAM command 'changerankimmunity' with arguments: 'gamemaster' '30.00'
+[17:34:07	]Gr4Ss ran SAM command 'changerankimmunity' with arguments: 'community_manager' '60.00'
+[17:34:14	]Gr4Ss ran SAM command 'changerankimmunity' with arguments: 'mentor_inactive' '3.00'
+[17:34:17	]Gr4Ss ran SAM command 'changerankimmunity' with arguments: 'gamemaster_inactive' '23.00'
+[17:34:23	]Gr4Ss ran SAM command 'changerankimmunity' with arguments: 'developer' '10.00'
+[17:34:50	]Gr4Ss ran SAM command 'changeinherit' with arguments: 'community_manager' 'superadmin'
+[17:35:04	]Gr4Ss entered observer.
+[17:35:15	]Gr4Ss exited observer at their location.
+[17:35:33	]Gr4Ss entered observer.
+[17:35:40	]Gr4Ss exited observer at their location.
+[17:40:47	]Gr4Ss has gone afk.
+[17:46:22	]Gr4Ss is no longer afk. Total time spent AFK: 630
+[17:52:06	]Gr4Ss has connected.
+[17:52:21	]Gr4Ss loaded the character 'Gr4Ss'
+[17:52:24	]Gr4Ss entered observer.
+[17:52:26	]Gr4Ss ran SAM command 'menu' with arguments: ''
+[17:52:33	]Gr4Ss exited observer at their location.
+[17:57:51	]Gr4Ss has gone afk.
+[18:08:26	]Gr4Ss is no longer afk. Total time spent AFK: 930
+[18:18:00	]Gr4Ss has gone afk.
+[19:53:50	]Gr4Ss is no longer afk. Total time spent AFK: 6045
+[19:54:12	]Gr4Ss (STEAM_0:0:18559166) has disconnected.
+[19:57:51	]Atle has connected.
+[19:59:58	]Atle (STEAM_0:0:21027108) has disconnected.
+[20:01:09	]Console ran SAM command 'setrankid' with arguments: 'STEAM_0:0:21027108' 'superadmin'
+[20:02:26	]Atle has connected.
+[20:04:00	]Atle has connected.
+[20:04:35	]Atle (STEAM_0:0:21027108) has disconnected.

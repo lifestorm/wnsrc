@@ -1,0 +1,240 @@
+[14:20:57	]Mango has connected.
+[14:22:25	]Mango loaded the character 'Nihilanth'
+[14:22:37	]Bot01 has connected.
+[14:22:37	]Bot01 loaded the character 'Bot01'
+[14:22:45	]Nihilanth entered observer.
+[14:22:47	]Nihilanth exited observer at their location.
+[14:22:50	]Nihilanth has hit Bot01 dealing 30 damage (CritChance was 0.42).
+[14:22:50	]Bot01 has taken 30 damage from Nihilanth.
+[14:22:50	][VORT] Nihilanth has damaged Bot01 for 51 with ix_vortbeam
+[14:22:55	]Nihilanth has critically hit Bot01 dealing 48 damage (CritChance was 0.42).
+[14:22:55	]Bot01 has taken 48 damage from Nihilanth.
+[14:22:55	][VORT] Nihilanth has damaged Bot01 for 51 with ix_vortbeam
+[14:23:09	]Nihilanth used command '/AddVortalEnergy nih 200'.
+[14:23:12	]Nihilanth has hit Bot01 dealing 30 damage (CritChance was 0.42).
+[14:23:12	]Bot01 was knocked unconscious and is bleeding out.
+[14:23:12	][VORT] Nihilanth has damaged Bot01 for 51 with ix_vortbeam
+[14:28:55	]Nihilanth has gone afk.
+[14:38:05	]Nihilanth is no longer afk. Total time spent AFK: 845
+[14:38:08	]Nihilanth ran SAM command 'kick' with arguments: 'bot'
+[14:38:09	]Bot01 (BOT) has disconnected.
+[14:38:22	]Nihilanth entered observer.
+[14:38:24	]Nihilanth exited observer at their location.
+[14:38:26	][IC] Nihilanth: A.
+[14:38:34	]Bot02 has connected.
+[14:38:34	]Bot02 loaded the character 'Bot02'
+[14:38:38	]Nihilanth entered observer.
+[14:38:41	]Nihilanth exited observer at their location.
+[14:38:43	]Nihilanth ran SAM command 'kick' with arguments: 'bot'
+[14:38:43	]Bot02 (BOT) has disconnected.
+[14:38:45	]Bot03 has connected.
+[14:38:45	]Bot03 loaded the character 'Bot03'
+[14:38:53	]Nihilanth has hit Bot03 dealing 30 damage (CritChance was 0.42).
+[14:38:53	]Bot03 has taken 30 damage from Nihilanth.
+[14:38:53	][VORT] Nihilanth has damaged Bot03 for 51 with ix_vortbeam
+[14:39:08	]Nihilanth has gained level 1 in the Guns skill.
+[14:39:09	]Nihilanth has gained level 1 in the Vortessence skill.
+[14:39:12	]Nihilanth has critically hit Bot03 dealing 48 damage (CritChance was 0.44).
+[14:39:12	]Bot03 has taken 48 damage from Nihilanth.
+[14:39:12	][VORT] Nihilanth has damaged Bot03 for 51.9 with ix_vortbeam
+[14:39:16	]Nihilanth has critically hit Bot03 dealing 48 damage (CritChance was 0.44).
+[14:39:16	]Bot03 was knocked unconscious and is bleeding out.
+[14:39:16	][VORT] Nihilanth has damaged Bot03 for 51.9 with ix_vortbeam
+[14:39:19	]Nihilanth has critically hit Bot03 dealing 48 damage (CritChance was 0.44).
+[14:39:19	]Bot03 was killed while bleeding out.
+[14:39:19	]Nihilanth has killed Bot03 with ix_vortbeam.
+[14:39:19	][VORT] Nihilanth has damaged Bot03 for 51.9 with ix_vortbeam
+[14:39:22	][VORT] Nihilanth has damaged Bot03 for 51.9 with ix_vortbeam
+[14:39:25	][VORT] Nihilanth has damaged Bot03 for 51.9 with ix_vortbeam
+[14:39:46	]Nihilanth ran SAM command 'respawn' with arguments: 'bot'
+[14:39:53	]Nihilanth has hit Bot03 dealing 30 damage (CritChance was 0.44).
+[14:39:53	]Bot03 has taken 30 damage from Nihilanth.
+[14:39:53	][VORT] Nihilanth has damaged Bot03 for 51.9 with ix_vortbeam
+[14:39:57	]Nihilanth has hit Bot03 dealing 30 damage (CritChance was 0.44).
+[14:39:57	]Bot03 has taken 30 damage from Nihilanth.
+[14:39:57	][VORT] Nihilanth has damaged Bot03 for 51.9 with ix_vortbeam
+[14:40:03	]Nihilanth has hit Bot03 dealing 30 damage (CritChance was 0.44).
+[14:40:03	]Bot03 has taken 30 damage from Nihilanth.
+[14:40:03	][VORT] Nihilanth has damaged Bot03 for 51.9 with ix_vortbeam
+[14:40:07	]Nihilanth has critically hit Bot03 dealing 48 damage (CritChance was 0.41).
+[14:40:07	]Bot03 was knocked unconscious and is bleeding out.
+[14:40:07	][VORT] Nihilanth has damaged Bot03 for 51.9 with ix_vortbeam
+[14:40:52	]Nihilanth has critically hit Bot03 dealing 48 damage (CritChance was 0.44).
+[14:40:52	]Bot03 was killed while bleeding out.
+[14:40:52	]Nihilanth has killed Bot03 with ix_vortbeam.
+[14:40:52	][VORT] Nihilanth has damaged Bot03 for 51.9 with ix_vortbeam
+[14:45:22	]Nihilanth ran SAM command 'respawn' with arguments: 'bot'
+[14:45:25	]Nihilanth has critically hit Bot03 dealing 48 damage (CritChance was 0.44).
+[14:45:25	]Bot03 has taken 48 damage from Nihilanth.
+[14:45:25	][VORT] Nihilanth has damaged Bot03 for 51.9 with ix_vortbeam
+[14:45:48	]Nihilanth has critically hit Bot03 dealing 48 damage (CritChance was 0.44).
+[14:45:48	]Bot03 has taken 48 damage from Nihilanth.
+[14:45:48	][VORT] Nihilanth has damaged Bot03 for 51.9 with ix_vortbeam
+[14:46:15	]Nihilanth used command '/CharSetAttribute nihi vortessence 100'.
+[14:46:24	]Nihilanth used command '/CharSetAttribute nihi vort 100'.
+[14:46:27	]Nihilanth used command '/CharSetAttribute nihi vortessence 100'.
+[14:46:40	]Nihilanth has gained level 50 in the Vortessence skill.
+[14:46:40	]Nihilanth used command '/CharSkillAdd nihilan vortessence 50'.
+[14:46:44	]Nihilanth has hit Bot03 dealing 30 damage (CritChance was 0.44).
+[14:46:44	]Bot03 was knocked unconscious and is bleeding out.
+[14:46:44	][VORT] Nihilanth has damaged Bot03 for 96 with ix_vortbeam
+[14:46:51	]Nihilanth ran SAM command 'respawn' with arguments: 'bot'
+[14:46:54	]Nihilanth has critically hit Bot03 dealing 48 damage (CritChance was 0.44).
+[14:46:54	]Bot03 has taken 48 damage from Nihilanth.
+[14:46:54	][VORT] Nihilanth has damaged Bot03 for 96 with ix_vortbeam
+[14:47:01	]Nihilanth ran SAM command 'respawn' with arguments: 'bot'
+[14:47:07	]Nihilanth has hit Bot03 dealing 30 damage (CritChance was 0.43).
+[14:47:07	]Bot03 has taken 30 damage from Nihilanth.
+[14:47:07	][VORT] Nihilanth has damaged Bot03 for 96 with ix_vortbeam
+[14:48:29	]Mango (STEAM_0:0:544539350) has disconnected.
+[14:48:29	]Bot03 (BOT) has disconnected.
+[18:29:05	]Hiros | Error 410 has connected.
+[18:30:20	]Hiros | Error 410 loaded the character 'C24:CpT.TAP-777'
+[18:30:46	]C24:CpT.TAP-777 ran SAM command 'hp' with arguments: '^' '5000'
+[18:30:50	]C24:CpT.TAP-777 is fully healed.
+[18:30:51	]C24:CpT.TAP-777 entered observer.
+[18:30:59	]C24:CpT.TAP-777 exited observer at their location.
+[18:31:07	]C24:CpT.TAP-777 has given himself a flashlight.
+[18:31:07	]C24:CpT.TAP-777 has gained a 'Flashlight' #1656010.
+[18:31:13	]C24:CpT.TAP-777 has fired a toolgun with the name: light
+[18:33:36	]Mango has connected.
+[18:35:20	]Mango loaded the character 'Nihilanth'
+[18:35:29	]Nihilanth entered observer.
+[18:35:32	]Nihilanth exited observer at their location.
+[18:35:33	]Nihilanth ran SAM command 'goto' with arguments: 'ta'
+[18:35:39	][IC] Nihilanth: Greetings.
+[18:35:40	][IC] C24:CpT.TAP-777: <:: Golongo. ::>
+[18:35:40	][IC] Nihilanth: Cooking.
+[18:35:44	][IC] C24:CpT.TAP-777: <:: Cooking. ::>
+[18:35:47	][IC] Nihilanth: Yes.
+[18:35:49	][IC] Nihilanth: Come in, come in!
+[18:35:54	][IC] C24:CpT.TAP-777: <:: I will. ::>
+[18:35:55	][IC] Nihilanth: Enter...
+[18:35:57	][IC] C24:CpT.TAP-777: <:: *Come in*. ::>
+[18:35:59	][IC] Nihilanth: There!
+[18:36:00	][IC] Nihilanth: Here.
+[18:36:05	][IC] C24:CpT.TAP-777: <:: There and here. ::>
+[18:36:08	][IC] C24:CpT.TAP-777: <:: Anywhere. ::>
+[18:36:10	][IC] Nihilanth: Yes... Here. There!
+[18:36:20	][IC] Nihilanth: Wanna beam me or.
+[18:36:22	][IC] Nihilanth: I beam you.
+[18:36:30	][IC] C24:CpT.TAP-777: <:: Beam me. ::>
+[18:36:36	]Nihilanth has hit C24:CpT.TAP-777 dealing 57 damage (CritChance was 0.18).
+[18:36:36	]C24:CpT.TAP-777 has taken 57 damage from Nihilanth.
+[18:36:36	][VORT] Nihilanth has damaged C24:CpT.TAP-777 for 96 with ix_vortbeam
+[18:36:40	]C24:CpT.TAP-777 is fully healed.
+[18:36:41	][IC] C24:CpT.TAP-777: <:: 57. ::>
+[18:36:42	][IC] Nihilanth: Yes.
+[18:36:50	][IC] Nihilanth: Though why the other log says...
+[18:36:51	][IC] C24:CpT.TAP-777: <:: Took my armor down. ::>
+[18:36:58	][IC] C24:CpT.TAP-777: <:: Hmm? ::>
+[18:37:02	][IC] Nihilanth: Yeah, it is set to pierce the armor.
+[18:37:14	][IC] Nihilanth: Uhhh.
+[18:37:17	][IC] Nihilanth: Okay seems to work.
+[18:37:22	]C24:CpT.TAP-777 has taken 5 damage from Nihilanth.
+[18:37:23	][IC] C24:CpT.TAP-777: <:: Aim at my head. ::>
+[18:37:25	]C24:CpT.TAP-777 is fully healed.
+[18:37:27	][IC] Nihilanth: I did.
+[18:37:31	][IC] C24:CpT.TAP-777: <:: With beam. ::>
+[18:37:33	][IC] Nihilanth: I did.
+[18:37:36	][IC] C24:CpT.TAP-777: <:: That's. ::>
+[18:37:38	][IC] C24:CpT.TAP-777: <:: Huh. ::>
+[18:37:40	]Nihilanth has hit C24:CpT.TAP-777 dealing 57 damage (CritChance was 0.18).
+[18:37:40	]C24:CpT.TAP-777 has taken 57 damage from Nihilanth.
+[18:37:40	][VORT] Nihilanth has damaged C24:CpT.TAP-777 for 96 with ix_vortbeam
+[18:37:40	]C24:CpT.TAP-777 is fully healed.
+[18:37:44	][IC] C24:CpT.TAP-777: <:: 57 for hs. ::>
+[18:37:47	][IC] C24:CpT.TAP-777: <:: And body shot? ::>
+[18:38:06	][IC] Nihilanth: It's set based on uhhh.
+[18:38:08	][IC] Nihilanth: Skills.
+[18:38:12	][IC] C24:CpT.TAP-777: <:: Oh. ::>
+[18:38:17	][IC] C24:CpT.TAP-777: <:: Set yourself to 50. ::>
+[18:38:31	]Nihilanth used command '/CharSkillAdd nihila guns 50'.
+[18:38:39	]Nihilanth used command '/CharSkillAdd nihila guns 50'.
+[18:38:43	]Nihilanth has gained level 6 in the Guns skill.
+[18:38:43	]Nihilanth used command '/CharSkillAdd nihila guns 5'.
+[18:38:46	]Nihilanth used command '/CharSkillAdd nihila guns 20'.
+[18:38:48	]Nihilanth has gained level 16 in the Guns skill.
+[18:38:48	]Nihilanth used command '/CharSkillAdd nihila guns 10'.
+[18:38:50	]Nihilanth used command '/CharSkillAdd nihila guns 10'.
+[18:38:52	]Nihilanth used command '/CharSkillAdd nihila guns 18'.
+[18:38:56	]Nihilanth has critically hit C24:CpT.TAP-777 dealing 91 damage (CritChance was 0.76).
+[18:38:56	]C24:CpT.TAP-777 has taken 91 damage from Nihilanth.
+[18:38:56	][VORT] Nihilanth has damaged C24:CpT.TAP-777 for 96 with ix_vortbeam
+[18:39:00	][IC] C24:CpT.TAP-777: <:: 91. ::>
+[18:39:00	]C24:CpT.TAP-777 is fully healed.
+[18:39:02	][IC] C24:CpT.TAP-777: <:: Ye fair. ::>
+[18:39:08	]Nihilanth has critically hit C24:CpT.TAP-777 dealing 91 damage (CritChance was 0.76).
+[18:39:08	]C24:CpT.TAP-777 has taken 91 damage from Nihilanth.
+[18:39:08	][VORT] Nihilanth has damaged C24:CpT.TAP-777 for 96 with ix_vortbeam
+[18:39:10	]C24:CpT.TAP-777 is fully healed.
+[18:39:21	][ME] C24:CpT.TAP-777: cooking
+[18:39:27	][IC] Nihilanth: Cooking. Cooking. There!
+[18:39:37	][IC] Nihilanth: Cooking. Cooking. Cooking. Cooking.
+[18:39:41	][IC] C24:CpT.TAP-777: <:: Yes. ::>
+[18:39:41	][IC] Nihilanth: Hahaha.
+[18:39:46	][IC] Nihilanth: Okay it works I guess.
+[18:39:46	][IC] C24:CpT.TAP-777: <:: So it works? ::>
+[18:39:51	][IC] C24:CpT.TAP-777: <:: NoIcE. ::>
+[18:39:51	][IC] Nihilanth: I'll add an icon maybe.
+[18:39:56	][IC] C24:CpT.TAP-777: <:: Hmm? ::>
+[18:39:57	][IC] Nihilanth: As it shows a pistol.
+[18:39:59	][IC] C24:CpT.TAP-777: <:: WHERE. ::>
+[18:40:00	][IC] C24:CpT.TAP-777: <:: Oh. ::>
+[18:40:01	][IC] C24:CpT.TAP-777: <:: That. ::>
+[18:40:06	][IC] Nihilanth: Or doesn't matter.
+[18:40:09	][IC] C24:CpT.TAP-777: <:: It's meh. ::>
+[18:40:16	][IC] Nihilanth: I mean I don't want to modify the weaponbalance plugin.
+[18:40:27	][IC] C24:CpT.TAP-777: <:: Yeah dont. ::>
+[18:40:34	]C24:CpT.TAP-777 used command '/ToggleRaise'.
+[18:40:34	][IC] Nihilanth: Allow me.
+[18:40:36	]Nihilanth used command '/EnterMeditation'.
+[18:40:42	][IC] Nihilanth: Behold!
+[18:40:44	]Nihilanth has taken 5 damage from C24:CpT.TAP-777.
+[18:40:48	]Nihilanth has taken 5 damage from C24:CpT.TAP-777.
+[18:40:49	]Nihilanth has taken 5 damage from C24:CpT.TAP-777.
+[18:40:51	]Nihilanth used command '/EnterMeditation'.
+[18:40:55	][IC] Nihilanth: Enter...
+[18:40:56	]C24:CpT.TAP-777 used command '/ToggleRaise'.
+[18:41:02	][IC] Nihilanth: Enter... Come!
+[18:41:07	][IC] C24:CpT.TAP-777: <:: YES. ::>
+[18:41:09	]C24:CpT.TAP-777 has critically hit Nihilanth dealing 182 damage (CritChance was 0.57).
+[18:41:09	]Nihilanth was knocked unconscious and is bleeding out.
+[18:41:12	][LOOC] Nihilanth: QNJHAHAHFAAFMFA
+[18:41:12	][IC] C24:CpT.TAP-777: <:: Holy fuck. ::>
+[18:41:15	][IC] C24:CpT.TAP-777: <:: 182. ::>
+[18:41:15	][IC] C24:CpT.TAP-777: <:: Dmh. ::>
+[18:41:17	][IC] C24:CpT.TAP-777: <:: Dmg. ::>
+[18:41:19	]Nihilanth used command '/CharGetUp'.
+[18:41:25	]C24:CpT.TAP-777 has hit Nihilanth in the left leg dealing 0 damage (CritChance was 0.60).
+[18:41:25	]C24:CpT.TAP-777 has critically hit Nihilanth in the left leg dealing 172 damage (CritChance was 0.60).
+[18:41:25	]Nihilanth was killed while bleeding out.
+[18:41:25	]C24:CpT.TAP-777 has killed Nihilanth with player.
+[18:41:38	][OOC] Nihilanth: test successful
+[18:41:42	][OOC] C24:CpT.TAP-777: SUCCESS!
+[18:41:45	][OOC] Nihilanth: oh wait
+[18:41:58	][OOC] Nihilanth: I should remove the logging of the beam
+[18:42:06	][OOC] Nihilanth: as its handled by weapons plugin?
+[18:42:09	][OOC] Nihilanth: idk
+[18:42:14	][OOC] C24:CpT.TAP-777: uhh, Nah leave it as it is
+[18:42:22	][OOC] C24:CpT.TAP-777: if something it's one liner i suppose
+[18:42:32	][OOC] C24:CpT.TAP-777: or comment it out
+[18:43:02	][OOC] C24:CpT.TAP-777: heading to main
+[18:43:04	]Hiros | Error 410 (STEAM_0:1:54068821) has disconnected.
+[18:43:05	][OOC] Nihilanth: but it doesn't show correctly
+[18:48:20	]Nihilanth has gone afk.
+[18:54:35	]Nihilanth is no longer afk. Total time spent AFK: 670
+[19:00:35	]Nihilanth has gone afk.
+[19:09:25	]Mango has connected.
+[19:09:59	]Mango loaded the character 'Nihilanth'
+[19:10:10	]Bot01 has connected.
+[19:10:10	]Bot01 loaded the character 'Bot01'
+[19:10:29	]Nihilanth has critically hit Bot01 dealing 91 damage (CritChance was 0.76).
+[19:10:29	]Bot01 has taken 91 damage from Nihilanth.
+[19:10:29	][VORT] Nihilanth has damaged Bot01 for 96 with ix_vortbeam
+[19:10:39	]Nihilanth has critically hit Bot01 dealing 91 damage (CritChance was 0.76).
+[19:10:39	]Bot01 was knocked unconscious and is bleeding out.
+[19:10:39	][VORT] Nihilanth has damaged Bot01 for 96 with ix_vortbeam
+[19:12:52	]Nihilanth has gained level 17 in the Guns skill.
+[19:14:06	]Mango (STEAM_0:0:544539350) has disconnected.
+[19:14:06	]Bot01 (BOT) has disconnected.

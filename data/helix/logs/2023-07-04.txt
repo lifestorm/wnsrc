@@ -1,0 +1,2606 @@
+[17:19:26	]The Worker Gear container (#101353) was set to CLEANUP.
+[17:19:26	]The Workshift Gear container (#101357) was set to CLEANUP.
+[17:19:26	]The XRAY Cabinet container (#101374) was set to CLEANUP.
+[17:29:39	]Mango has connected.
+[17:42:08	]Mango (STEAM_0:0:544539350) deleted character 'Ki Geun'
+[17:42:10	]Mango (STEAM_0:0:544539350) deleted character 'S10:SCN-9'
+[17:43:03	]Mango loaded the character 'Alla'Bii'
+[17:43:08	]Alla'Bii is fully healed.
+[17:43:23	]Alla'Bii used command '/PlyWhitelist alla ota'.
+[17:47:14	]Mango created the character 'S10/OWS.GHOST-94'
+[17:47:14	]Alla'Bii has gained level 40 in the Guns skill.
+[17:47:14	]Alla'Bii has gained level 40 in the Speed skill.
+[17:47:14	]S10/OWS.GHOST-94 has gained a 'Small Bag' #2047104.
+[17:47:14	]S10/OWS.GHOST-94 has gained a 'Large Bag' #2047105.
+[17:47:14	]Mango loaded the character 'S10/OWS.GHOST-94'
+[17:47:14	]S10/OWS.GHOST-94 has gained a 'Flashlight' #2047106.
+[17:47:14	]S10/OWS.GHOST-94 has gained a 'Combine PDA' #2047107.
+[17:47:14	]S10/OWS.GHOST-94 has gained a 'OTA Uniform' #2047108.
+[17:47:14	]S10/OWS.GHOST-94 has gained a 'OTA Mask' #2047109.
+[17:47:14	]S10/OWS.GHOST-94 has gained a 'Rappel Gear' #2047110.
+[17:47:14	]S10/OWS.GHOST-94 has gained a 'Magazine Pouch' #2047111.
+[17:47:14	]S10/OWS.GHOST-94 has gained a 'Ammunition Pouch' #2047112.
+[17:48:19	]S10/OWS.GHOST-94 ran 'Equip' on item 'Rappel Gear' (#2047110)
+[17:48:33	]S10/OWS.GHOST-94 ran 'drop' on item 'Magazine Pouch' (#2047111)
+[17:48:33	]S10/OWS.GHOST-94 has lost a 'Magazine Pouch' #2047111.
+[17:48:36	]S10/OWS.GHOST-94 ran 'take' on item 'Magazine Pouch' (#2047111)
+[17:48:36	]S10/OWS.GHOST-94 has gained a 'Magazine Pouch' #2047111.
+[17:49:00	]Hiros | Error 410 has connected.
+[17:49:01	]S10/OWS.GHOST-94 ran 'Equip' on item 'Combine PDA' (#2047107)
+[17:49:32	]S10/OWS.GHOST-94 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[17:49:56	]S10/OWS.GHOST-94 has gained 0 chips.
+[17:49:56	]S10/OWS.GHOST-94 has gained a 'OTA Valkyrie Uniform' #2047113.
+[17:50:44	]S10/OWS.GHOST-94 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[17:50:48	]Hiros | Error 410 loaded the character 'S10/ORD.PAYBACK-85'
+[17:50:53	]S10/ORD.PAYBACK-85 is fully healed.
+[17:50:57	]S10/OWS.GHOST-94 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[17:50:59	]S10/ORD.PAYBACK-85 entered observer.
+[17:51:00	]S10/ORD.PAYBACK-85 exited observer at their location.
+[17:51:00	]S10/ORD.PAYBACK-85 entered observer.
+[17:51:01	]S10/ORD.PAYBACK-85 exited observer at their location.
+[17:51:13	]S10/OWS.GHOST-94 has gained 0 chips.
+[17:51:13	]S10/OWS.GHOST-94 has gained a 'MP7A1' #2047114.
+[17:51:17	]S10/OWS.GHOST-94 ran 'Equip' on item 'MP7A1' (#2047114)
+[17:52:05	]Hiros | Error 410 (STEAM_0:1:54068821) has disconnected.
+[17:52:15	]S10/OWS.GHOST-94 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[17:52:25	]S10/OWS.GHOST-94 has gained 0 chips.
+[17:52:25	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047115.
+[17:52:26	]S10/OWS.GHOST-94 has gained 0 chips.
+[17:52:26	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047116.
+[17:52:29	]S10/OWS.GHOST-94 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[17:52:32	]S10/OWS.GHOST-94 has gained 0 chips.
+[17:52:32	]S10/OWS.GHOST-94 has gained a 'Sub-machinegun Bullets' #2047117.
+[17:52:33	]S10/OWS.GHOST-94 has gained 0 chips.
+[17:52:33	]S10/OWS.GHOST-94 has gained a 'Sub-machinegun Bullets' #2047118.
+[17:52:38	]S10/OWS.GHOST-94 ran 'combine' on item '30rnd MP-magazine' (#2047115)
+[17:52:42	]S10/OWS.GHOST-94 ran 'combine' on item '30rnd MP-magazine' (#2047116)
+[17:52:48	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047116.
+[17:52:51	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047116.
+[17:52:51	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047115.
+[17:53:06	]S10/OWS.GHOST-94 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[17:53:09	]S10/OWS.GHOST-94 has gained 0 chips.
+[17:53:09	]S10/OWS.GHOST-94 has gained a 'Sub-machinegun Bullets' #2047119.
+[17:53:10	]S10/OWS.GHOST-94 has gained 0 chips.
+[17:53:10	]S10/OWS.GHOST-94 has gained a 'Sub-machinegun Bullets' #2047120.
+[17:53:13	]S10/OWS.GHOST-94 has gained 0 chips.
+[17:53:13	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047121.
+[17:53:13	]S10/OWS.GHOST-94 has gained 0 chips.
+[17:53:14	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047122.
+[17:53:18	]S10/OWS.GHOST-94 ran 'combine' on item '30rnd MP-magazine' (#2047121)
+[17:53:21	]S10/OWS.GHOST-94 ran 'combine' on item '30rnd MP-magazine' (#2047122)
+[17:53:40	]S10/OWS.GHOST-94 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[17:53:45	]S10/OWS.GHOST-94 has gained 0 chips.
+[17:53:45	]S10/OWS.GHOST-94 has gained a 'Frag Grenade' #2047123.
+[17:53:47	]S10/OWS.GHOST-94 has gained 0 chips.
+[17:53:47	]S10/OWS.GHOST-94 has gained a 'Health Kit' #2047124.
+[17:53:53	]S10/OWS.GHOST-94 has gained 0 chips.
+[17:53:53	]S10/OWS.GHOST-94 has gained a 'Morphine' #2047125.
+[17:54:05	]S10/OWS.GHOST-94 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[17:54:18	]S10/OWS.GHOST-94 has given himself a medical_pouch.
+[17:54:19	]S10/OWS.GHOST-94 has gained a 'Medical Pouch' #2047126.
+[17:54:35	]S10/OWS.GHOST-94 ran 'Equip' on item 'Frag Grenade' (#2047123)
+[17:55:05	]S10/OWS.GHOST-94 used command '/Radio Unit active.'.
+[17:55:38	]S10/OWS.GHOST-94 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[17:55:42	]S10/OWS.GHOST-94 has gained 0 chips.
+[17:55:43	]S10/OWS.GHOST-94 has gained a 'Combine Filter' #2047127.
+[17:55:47	]S10/OWS.GHOST-94 has gained 0 chips.
+[17:55:47	]S10/OWS.GHOST-94 has gained a 'Health Syringe' #2047128.
+[17:55:49	]S10/OWS.GHOST-94 has gained 0 chips.
+[17:55:49	]S10/OWS.GHOST-94 has gained a 'Health Vial' #2047129.
+[17:55:58	]S10/OWS.GHOST-94 ran 'Equip' on item 'Combine Filter' (#2047127)
+[17:56:06	]Hiros | Error 410 has connected.
+[17:56:14	]S10/OWS.GHOST-94 ran SAM command 'armor' with arguments: 'ghost' '100'
+[17:56:17	]S10/OWS.GHOST-94 ran SAM command 'armor' with arguments: 'ghost' '200'
+[17:57:30	]Hiros | Error 410 loaded the character 'S10/ORD.PAYBACK-85'
+[17:57:41	]S10/ORD.PAYBACK-85 entered observer.
+[17:57:46	]S10/ORD.PAYBACK-85 ran SAM command 'goto' with arguments: '94'
+[17:57:47	]S10/ORD.PAYBACK-85 exited observer at their location.
+[17:58:45	]S10/ORD.PAYBACK-85 has spawned a 'Entity [4746][gmod_sent_vehicle_fphysics_base]'.
+[17:58:53	]S10/ORD.PAYBACK-85 has spawned a 'Entity [4798][gmod_sent_vehicle_fphysics_base]'.
+[17:59:22	]S10/ORD.PAYBACK-85 has spawned a 'Entity [4798][gmod_sent_vehicle_fphysics_base]'.
+[17:59:23	]S10/ORD.PAYBACK-85 entered observer.
+[17:59:23	]S10/ORD.PAYBACK-85 exited observer at their location.
+[17:59:26	]S10/OWS.GHOST-94 used command '/Radio FULL ACTIVE;audibles stable;engaging'.
+[17:59:39	]S10/ORD.PAYBACK-85 has taken 2 damage from S10/ORD.PAYBACK-85.
+[17:59:39	]S10/OWS.GHOST-94 has taken 2 damage from S10/ORD.PAYBACK-85.
+[17:59:41	][IC] S10/OWS.GHOST-94: <:: Go sharp! ::>
+[18:00:24	]S10/ORD.PAYBACK-85 has used a context menu option with the name: rb655_door_open
+[18:00:25	]S10/ORD.PAYBACK-85 has used a context menu option with the name: rb655_door_open
+[18:00:30	]S10/ORD.PAYBACK-85 has used a context menu option with the name: rb655_door_open
+[18:00:33	]S10/ORD.PAYBACK-85 has used a context menu option with the name: door_lockunlock
+[18:00:35	]S10/ORD.PAYBACK-85 has used a context menu option with the name: rb655_door_open
+[18:00:36	]S10/ORD.PAYBACK-85 has used a context menu option with the name: rb655_door_open
+[18:00:37	]S10/ORD.PAYBACK-85 has used a context menu option with the name: door_lockunlock
+[18:00:38	]S10/ORD.PAYBACK-85 has used a context menu option with the name: rb655_door_open
+[18:00:53	]S10/OWS.GHOST-94 has taken 4 damage from worldspawn.
+[18:00:53	]S10/ORD.PAYBACK-85 was knocked unconscious and is bleeding out.
+[18:00:53	]S10/ORD.PAYBACK-85 has gained a '30rnd Pulse-magazine' #1953696.
+[18:01:00	]S10/ORD.PAYBACK-85 ran SAM command 'hp' with arguments: '^' '500'
+[18:01:00	]S10/ORD.PAYBACK-85 is no longer unconscious from critical wounds.
+[18:01:00	]S10/ORD.PAYBACK-85 is fully healed.
+[18:01:04	]S10/ORD.PAYBACK-85 used command '/CharStopBleedout ^'.
+[18:01:04	][IC] S10/OWS.GHOST-94: <:: Closing. ::>
+[18:01:17	]S10/ORD.PAYBACK-85 entered observer.
+[18:01:20	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:01:22	]S10/ORD.PAYBACK-85 entered observer.
+[18:01:28	]S10/ORD.PAYBACK-85 has used a context menu option with the name: rb655_door_close
+[18:01:30	]S10/ORD.PAYBACK-85 has used a context menu option with the name: rb655_door_close
+[18:01:31	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:01:44	]S10/ORD.PAYBACK-85 has taken 5 damage from S10/ORD.PAYBACK-85.
+[18:01:44	]S10/OWS.GHOST-94 has taken 5 damage from S10/ORD.PAYBACK-85.
+[18:01:45	]S10/ORD.PAYBACK-85 is fully healed.
+[18:01:49	][IC] S10/OWS.GHOST-94: <:: Shit. ::>
+[18:02:05	]S10/ORD.PAYBACK-85 has used a context menu option with the name: remove
+[18:02:06	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047115.
+[18:02:06	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047122.
+[18:02:09	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047122.
+[18:02:09	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047121.
+[18:02:13	]S10/ORD.PAYBACK-85 has spawned a 'Entity [4764][ix_forcefield]'.
+[18:02:15	]S10/ORD.PAYBACK-85 entered observer.
+[18:02:19	]S10/ORD.PAYBACK-85 has spawned a 'Entity [4778][ix_forcefield]'.
+[18:02:31	]S10/ORD.PAYBACK-85 has used a context menu option with the name: remove
+[18:02:41	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:02:50	]S10/ORD.PAYBACK-85 has spawned 'models/hunter/blocks/cube025x1x025.mdl'.
+[18:03:04	]S10/ORD.PAYBACK-85 has spawned 'models/hunter/blocks/cube025x1x025.mdl'.
+[18:03:16	]S10/ORD.PAYBACK-85 has spawned a 'Entity [4716][ix_forcefield]'.
+[18:03:20	]S10/ORD.PAYBACK-85 has spawned a 'Entity [4726][ix_forcefield]'.
+[18:03:22	]S10/ORD.PAYBACK-85 has spawned a 'Entity [4731][ix_forcefield]'.
+[18:03:24	]S10/ORD.PAYBACK-85 has spawned a 'Entity [4781][ix_forcefield]'.
+[18:03:26	]S10/ORD.PAYBACK-85 has spawned a 'Entity [4744][ix_forcefield]'.
+[18:03:28	]S10/ORD.PAYBACK-85 has spawned a 'Entity [109][ix_forcefield]'.
+[18:03:30	]S10/ORD.PAYBACK-85 has spawned a 'Entity [3747][ix_forcefield]'.
+[18:03:33	]S10/ORD.PAYBACK-85 has spawned a 'Entity [4776][ix_forcefield]'.
+[18:03:34	]Mango (STEAM_0:0:544539350) has disconnected.
+[18:03:40	]S10/ORD.PAYBACK-85 has used a context menu option with the name: remove
+[18:03:42	]S10/ORD.PAYBACK-85 has used a context menu option with the name: remove
+[18:04:16	]S10/ORD.PAYBACK-85 has used a context menu option with the name: collision_on
+[18:04:21	]S10/ORD.PAYBACK-85 has used a context menu option with the name: collision_on
+[18:04:57	]S10/ORD.PAYBACK-85 has used a context menu option with the name: collision_off
+[18:04:59	]S10/ORD.PAYBACK-85 has used a context menu option with the name: remove
+[18:04:59	]S10/ORD.PAYBACK-85 entered observer.
+[18:05:00	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:05:00	]S10/ORD.PAYBACK-85 entered observer.
+[18:05:19	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:05:19	]S10/ORD.PAYBACK-85 entered observer.
+[18:05:20	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:05:24	]S10/ORD.PAYBACK-85 entered observer.
+[18:05:27	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:05:34	]S10/ORD.PAYBACK-85 has used a context menu option with the name: remove
+[18:05:34	]S10/ORD.PAYBACK-85 entered observer.
+[18:05:38	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:05:40	]S10/ORD.PAYBACK-85 entered observer.
+[18:05:41	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:05:49	]S10/ORD.PAYBACK-85 entered observer.
+[18:05:49	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:05:50	]S10/ORD.PAYBACK-85 entered observer.
+[18:05:51	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:05:55	]S10/ORD.PAYBACK-85 entered observer.
+[18:05:55	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:06:46	]S10/ORD.PAYBACK-85 entered observer.
+[18:06:48	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:06:50	]S10/ORD.PAYBACK-85 entered observer.
+[18:06:50	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:07:47	]S10/ORD.PAYBACK-85 entered observer.
+[18:08:04	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:08:06	]S10/ORD.PAYBACK-85 entered observer.
+[18:08:46	]S10/ORD.PAYBACK-85 ran SAM command 'cleardecals' with arguments: ''
+[18:08:57	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:09:00	]S10/ORD.PAYBACK-85 entered observer.
+[18:09:00	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:09:40	]S10/ORD.PAYBACK-85 entered observer.
+[18:09:45	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:09:45	]S10/ORD.PAYBACK-85 entered observer.
+[18:09:48	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:09:48	]S10/ORD.PAYBACK-85 entered observer.
+[18:09:49	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:10:30	]S10/ORD.PAYBACK-85 entered observer.
+[18:10:30	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:10:31	]S10/ORD.PAYBACK-85 entered observer.
+[18:10:31	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:10:48	]S10/ORD.PAYBACK-85 entered observer.
+[18:10:48	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:10:56	]Hiros | Error 410 (STEAM_0:1:54068821) has disconnected.
+[18:17:11	]Mango has connected.
+[18:18:34	]Mango loaded the character 'S10/OWS.GHOST-94'
+[18:18:55	]S10/OWS.GHOST-94 ran SAM command 'respawn' with arguments: ''
+[18:19:02	]S10/OWS.GHOST-94 ran 'drop' on item 'OTA Valkyrie Uniform' (#2047113)
+[18:19:05	]S10/OWS.GHOST-94 ran 'drop' on item 'OTA Valkyrie Uniform' (#2047113)
+[18:19:17	]S10/OWS.GHOST-94 ran 'drop' on item 'OTA Uniform' (#2047108)
+[18:19:17	]S10/OWS.GHOST-94 has lost a 'OTA Uniform' #2047108.
+[18:19:29	]S10/OWS.GHOST-94 ran 'drop' on item 'OTA Valkyrie Uniform' (#2047113)
+[18:19:30	]S10/OWS.GHOST-94 ran 'drop' on item 'OTA Valkyrie Uniform' (#2047113)
+[18:19:43	]S10/OWS.GHOST-94 ran 'drop' on item 'OTA Valkyrie Uniform' (#2047113)
+[18:19:50	]S10/OWS.GHOST-94 ran 'EquipUn' on item 'Combine Filter' (#2047127)
+[18:19:55	]S10/OWS.GHOST-94 ran 'EquipUn' on item 'Frag Grenade' (#2047123)
+[18:19:57	]S10/OWS.GHOST-94 ran 'EquipUn' on item 'Rappel Gear' (#2047110)
+[18:20:08	]S10/OWS.GHOST-94 ran 'EquipUn' on item 'Combine PDA' (#2047107)
+[18:20:09	]S10/OWS.GHOST-94 ran 'EquipUn' on item 'MP7A1' (#2047114)
+[18:20:09	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047121.
+[18:20:26	]S10/OWS.GHOST-94 ran 'drop' on item 'OTA Mask' (#2047109)
+[18:20:26	]S10/OWS.GHOST-94 has lost a 'OTA Mask' #2047109.
+[18:20:27	]S10/OWS.GHOST-94 ran 'drop' on item 'OTA Valkyrie Uniform' (#2047113)
+[18:20:27	]S10/OWS.GHOST-94 has lost a 'OTA Valkyrie Uniform' #2047113.
+[18:20:35	]S10/OWS.GHOST-94 has used a context menu option with the name: remove
+[18:20:36	]S10/OWS.GHOST-94 has used a context menu option with the name: remove
+[18:20:37	]S10/OWS.GHOST-94 has used a context menu option with the name: remove
+[18:20:39	]S10/OWS.GHOST-94 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[18:21:19	]S10/OWS.GHOST-94 has gained 0 chips.
+[18:21:19	]S10/OWS.GHOST-94 has gained a 'OTA Charger Uniform' #2047130.
+[18:21:35	]S10/OWS.GHOST-94 ran 'drop' on item 'OTA Charger Uniform' (#2047130)
+[18:21:35	]S10/OWS.GHOST-94 has lost a 'OTA Charger Uniform' #2047130.
+[18:21:38	]S10/OWS.GHOST-94 has used a context menu option with the name: remove
+[18:21:39	]Hiros | Error 410 has connected.
+[18:21:47	]S10/OWS.GHOST-94 has given himself a uniform_ocs.
+[18:21:47	]S10/OWS.GHOST-94 has gained a 'Containment Uniform' #2047131.
+[18:22:01	]S10/OWS.GHOST-94 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[18:22:07	]S10/OWS.GHOST-94 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[18:22:12	]S10/OWS.GHOST-94 has gained 0 chips.
+[18:22:12	]S10/OWS.GHOST-94 has gained a 'OTA Mask' #2047132.
+[18:22:45	]S10/OWS.GHOST-94 ran 'Equip' on item 'Frag Grenade' (#2047123)
+[18:22:52	]S10/OWS.GHOST-94 ran 'Equip' on item 'MP7A1' (#2047114)
+[18:22:57	]S10/OWS.GHOST-94 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[18:23:12	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047122.
+[18:23:24	][IC] S10/OWS.GHOST-94: <:: Moving. ::>
+[18:23:25	][IC] S10/OWS.GHOST-94: <:: Moving now. ::>
+[18:23:26	][IC] S10/OWS.GHOST-94: <:: Pressing. ::>
+[18:23:30	]Hiros | Error 410 loaded the character 'S10/ORD.PAYBACK-85'
+[18:23:38	]S10/ORD.PAYBACK-85 entered observer.
+[18:23:47	]S10/OWS.GHOST-94 used command '/ActArrest'.
+[18:23:56	]S10/ORD.PAYBACK-85 exited observer at their location.
+[18:24:06	]S10/ORD.PAYBACK-85 used command '/Punch'.
+[18:24:08	]S10/ORD.PAYBACK-85 used command '/Punch'.
+[18:24:13	][IC] S10/OWS.GHOST-94: <:: Full active. ::>
+[18:24:18	][IC] S10/ORD.PAYBACK-85: <:: Toilet. Haha. ::>
+[18:24:22	][IC] S10/OWS.GHOST-94: <:: Haha. ::>
+[18:24:34	][IC] S10/ORD.PAYBACK-85: <:: Affirmative. ::>
+[18:24:35	][IC] S10/OWS.GHOST-94: <:: Affirmative. ::>
+[18:24:41	][IC] S10/OWS.GHOST-94: <:: Affirmative2. ::>
+[18:24:45	][IC] S10/OWS.GHOST-94: <:: Copy. ::>
+[18:24:47	][IC] S10/OWS.GHOST-94: <:: Copy. ::>
+[18:24:48	][IC] S10/OWS.GHOST-94: <:: Copy3. ::>
+[18:24:50	]Hiros | Error 410 loaded the character 'S10/EOW.LEADER-00'
+[18:24:53	][IC] S10/OWS.GHOST-94: <:: Copy that. ::>
+[18:24:58	]S10/EOW.LEADER-00 entered observer.
+[18:25:00	]S10/EOW.LEADER-00 exited observer at their location.
+[18:25:00	]S10/EOW.LEADER-00 entered observer.
+[18:25:01	]S10/EOW.LEADER-00 exited observer at their location.
+[18:25:04	][IC] S10/EOW.LEADER-00: <:: Affirmative. ::>
+[18:25:12	]S10/EOW.LEADER-00 has lost a '24rnd Heavy-Pulse Magazine' #1953763.
+[18:25:12	]S10/EOW.LEADER-00 has gained a '24rnd Heavy-Pulse Magazine' #1953762.
+[18:25:33	][IC] S10/OWS.GHOST-94: <:: Vitals clear, re-charging plates. ::>
+[18:25:37	]S10/OWS.GHOST-94 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[18:26:02	]S10/EOW.LEADER-00 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[18:26:32	]S10/EOW.LEADER-00 has given himself a amoxicillin.
+[18:26:32	]S10/EOW.LEADER-00 has gained a 'Amoxicillin (anti-biotic)' #2047133.
+[18:26:57	]S10/OWS.GHOST-94 used command '/Radio Unit;READY FOR CONTAINMENT;standing for orders'.
+[18:27:06	]S10/EOW.LEADER-00 has given himself a uniform_suppressor.
+[18:27:06	]S10/EOW.LEADER-00 has gained a 'OTA Suppressor Uniform' #2047134.
+[18:27:24	][IC] S10/OWS.GHOST-94: <:: Toilet, confirm. ::>
+[18:27:30	][IC] S10/EOW.LEADER-00: <:: No. ::>
+[18:27:33	][IC] S10/OWS.GHOST-94: <:: Haha. ::>
+[18:29:11	][IC] S10/OWS.GHOST-94: <:: Hm. ::>
+[18:30:36	][IC] S10/EOW.LEADER-00: <:: Get out of here. ::>
+[18:30:42	][IC] S10/OWS.GHOST-94: <:: Get out of here. ::>
+[18:30:44	][IC] S10/OWS.GHOST-94: <:: Get out. ::>
+[18:30:50	]Chris has connected.
+[18:32:06	][IC] S10/OWS.GHOST-94: <:: Copy. ::>
+[18:32:37	]Chris loaded the character 'Dy'Turh-Dara Ahl Ormbah'
+[18:33:48	]Chris (STEAM_0:0:29180550) has disconnected.
+[18:33:58	][IC] S10/OWS.GHOST-94: <:: Nothing here. ::>
+[18:34:16	]S10/EOW.LEADER-00 has used a context menu option with the name: rb655_door_open
+[18:35:41	]S10/EOW.LEADER-00 used command '/SC tac-4'.
+[18:35:45	]S10/EOW.LEADER-00 used command '/Radio e'.
+[18:35:47	]S10/EOW.LEADER-00 used command '/SC tac-5'.
+[18:35:49	]S10/EOW.LEADER-00 used command '/Radio e'.
+[18:36:16	]S10/OWS.GHOST-94 used command '/SC tac-4'.
+[18:36:20	]S10/EOW.LEADER-00 used command '/SC mcp'.
+[18:36:21	]S10/EOW.LEADER-00 used command '/Radio e'.
+[18:36:45	]S10/EOW.LEADER-00 used command '/SC ota-tac'.
+[18:36:46	]S10/EOW.LEADER-00 used command '/Radio e'.
+[18:36:57	]S10/EOW.LEADER-00 used command '/SC ccg'.
+[18:37:05	]S10/EOW.LEADER-00 used command '/Radio e'.
+[18:37:12	]S10/EOW.LEADER-00 used command '/SC cca'.
+[18:37:14	]S10/EOW.LEADER-00 used command '/Radio e'.
+[18:37:24	]S10/EOW.LEADER-00 used command '/D d'.
+[18:37:29	]S10/EOW.LEADER-00 used command '/CMB d'.
+[18:37:31	]S10/EOW.LEADER-00 used command '/CCG d'.
+[18:37:51	]S10/EOW.LEADER-00 used command '/D /d /cmb /ccg'.
+[18:37:58	]S10/OWS.GHOST-94 used command '/CCG a'.
+[18:38:33	]Chris has connected.
+[18:39:01	]S10/OWS.GHOST-94 used command '/SC ota-tac'.
+[18:39:03	]S10/OWS.GHOST-94 used command '/Radio ACCEPTED DISSONANCE UPDATE'.
+[18:39:32	]Chris loaded the character 'Dy'Turh-Dara Ahl Ormbah'
+[18:39:58	][IC] Dy'Turh-Dara Ahl Ormbah: Galunga.
+[18:40:43	]Dy'Turh-Dara Ahl Ormbah used command '/CharFallOver 1'.
+[18:40:44	]S10/OWS.GHOST-94 used command '/PM dy hands up'.
+[18:40:53	]Dy'Turh-Dara Ahl Ormbah used command '/PM ghost no'.
+[18:40:57	]S10/OWS.GHOST-94 used command '/PM dy pls'.
+[18:41:04	]Dy'Turh-Dara Ahl Ormbah used command '/Reply I'm a rogue variable'.
+[18:41:48	][IC] Dy'Turh-Dara Ahl Ormbah: Darn.
+[18:43:02	][IC] S10/OWS.GHOST-94: <:: Vampire. ::>
+[18:43:03	][IC] S10/OWS.GHOST-94: <:: Vamp. ::>
+[18:44:09	]Chris created the character 'STAT TEST 1'
+[18:44:09	]Chris loaded the character 'STAT TEST 1'
+[18:44:09	]STAT TEST 1 has gained a 'Flashlight' #2047135.
+[18:44:09	]STAT TEST 1 has gained a 'Black Armband' #2047136.
+[18:44:09	]STAT TEST 1 has gained a '#91795's Identity Card' #2047137.
+[18:44:09	]STAT TEST 1 has gained a 'Civilian Jumpsuit' #2047138.
+[18:44:09	]STAT TEST 1 has gained a 'Blue Jumpsuit Trousers' #2047139.
+[18:44:09	]STAT TEST 1 has gained a 'Worn Brown Shoes' #2047140.
+[18:44:09	]STAT TEST 1 has gained a 'Glasses' #2047141.
+[18:44:39	]STAT TEST 1 used command '/Reply I have come to unravel the secrets of the stats'.
+[18:44:53	]STAT TEST 1 used command '/Reply or more specifically, how cooking is the best stat in the game'.
+[18:45:50	]S10/EOW.LEADER-00 has gone afk.
+[18:48:40	]S10/EOW.LEADER-00 is no longer afk. Total time spent AFK: 465
+[18:48:55	][IC] S10/OWS.GHOST-94: <:: Come on through. ::>
+[18:49:22	]S10/OWS.GHOST-94 used command '/Radio REPORT ALL RADIALS'.
+[18:50:12	][IC] S10/OWS.GHOST-94: <:: Waiting for contact. ::>
+[18:50:27	][IC] S10/EOW.LEADER-00: <:: Copy, accepted. Updating cognitive suppression biodats. Update complete in t-minus three seconds. Dissonance resolved. ::>
+[18:50:32	]Chris created the character 'VORT STAT TEST 1'
+[18:50:33	]Chris loaded the character 'VORT STAT TEST 1'
+[18:50:33	]VORT STAT TEST 1 has gained a '#35725's Identity Card' #2047142.
+[18:50:33	]VORT STAT TEST 1 has gained a 'Vortigaunt Brown Trousers' #2047143.
+[18:50:38	][IC] S10/EOW.LEADER-00: <:: Copy that. Forming condition ALPHA at GRID-NINER-DASH-THREE-SEVEN. ::>
+[18:50:51	][IC] S10/EOW.LEADER-00: <:: Engaging. ::>
+[18:51:04	][IC] S10/OWS.GHOST-94: <:: Go active, intercept! ::>
+[18:51:33	][IC] S10/OWS.GHOST-94: <:: LEADER. ::>
+[18:51:40	][IC] S10/OWS.GHOST-94: <:: LEADER. ::>
+[18:51:42	][IC] S10/EOW.LEADER-00: <:: No. ::>
+[18:51:45	][IC] S10/OWS.GHOST-94: <:: LEADER. ! ::>
+[18:51:49	][IC] S10/EOW.LEADER-00: <:: No. No. ::>
+[18:51:51	][IC] S10/OWS.GHOST-94: <:: Ugh. ::>
+[18:51:57	][IC] S10/EOW.LEADER-00: <:: No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. ::>
+[18:52:02	][IC] S10/OWS.GHOST-94: <:: Get hold of yourself;  leader. ::>
+[18:52:06	][IC] S10/EOW.LEADER-00: <:: No. No. ::>
+[18:52:38	]S10/OWS.GHOST-94 ran 'Equip' on item 'Rappel Gear' (#2047110)
+[18:52:55	][IC] S10/OWS.GHOST-94: <:: All clear. ::>
+[18:53:16	][IC] S10/EOW.LEADER-00: <:: Golongo. ::>
+[18:53:18	][IC] VORT STAT TEST 1: How do you do, fellow combine?
+[18:53:31	][IC] S10/OWS.GHOST-94: <:: God damnit. ::>
+[18:53:32	][IC] S10/EOW.LEADER-00: <:: How do you do fellow vortigaunts. ::>
+[18:53:34	][IC] VORT STAT TEST 1: That a custom elite model?
+[18:53:37	][IC] S10/EOW.LEADER-00: <:: Yes. ::>
+[18:53:38	][IC] VORT STAT TEST 1: Nice.
+[18:53:40	][IC] S10/OWS.GHOST-94: <:: Ancient fuck. ::>
+[18:53:49	][IC] VORT STAT TEST 1: Shut up half-head.
+[18:53:53	][IC] S10/OWS.GHOST-94: <:: .. ::>
+[18:53:55	][IC] S10/OWS.GHOST-94: <:: LEADER. ::>
+[18:53:57	]S10/EOW.LEADER-00 used command '/Punch'.
+[18:53:58	]VORT STAT TEST 1 was just knocked out due to: hit by punch command used by S10/EOW.LEADER-00
+[18:54:01	][IC] VORT STAT TEST 1: Womp womp.
+[18:54:02	][IC] S10/OWS.GHOST-94: <:: Haha. ::>
+[18:54:07	]S10/EOW.LEADER-00 entered observer.
+[18:54:08	][IC] S10/OWS.GHOST-94: <:: Haha. ::>
+[18:54:08	]S10/EOW.LEADER-00 exited observer at their location.
+[18:54:10	]S10/EOW.LEADER-00 ran SAM command 'respawn' with arguments: 'vort'
+[18:54:15	]VORT STAT TEST 1 used command '/VortStun'.
+[18:54:17	]S10/EOW.LEADER-00 has gained a '24rnd Heavy-Pulse Magazine' #1953763.
+[18:54:18	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047122.
+[18:54:18	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047121.
+[18:54:19	]S10/OWS.GHOST-94 is fully healed.
+[18:54:19	][IC] VORT STAT TEST 1: Bazinga.
+[18:54:21	][IC] S10/OWS.GHOST-94: <:: Hands. ::>
+[18:54:23	][IC] S10/EOW.LEADER-00: <:: Golongo. ::>
+[18:54:24	][IC] S10/OWS.GHOST-94: <:: Claws? ::>
+[18:54:28	][IC] S10/EOW.LEADER-00: <:: Ears. ::>
+[18:54:29	][IC] S10/OWS.GHOST-94: <:: Arms... ::>
+[18:54:31	][IC] VORT STAT TEST 1: Head.
+[18:54:33	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047121.
+[18:54:33	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047122.
+[18:54:34	][IC] VORT STAT TEST 1: Shoulders knees and toes.
+[18:54:35	][IC] S10/EOW.LEADER-00: <:: Hands up. ::>
+[18:54:48	][IC] VORT STAT TEST 1: Was that a serious fucking tip I just saw?
+[18:54:49	][IC] S10/OWS.GHOST-94: <:: You're lucky my boss is tough as heck. ::>
+[18:54:54	][IC] VORT STAT TEST 1: In S2K, S2M?
+[18:54:57	][IC] S10/OWS.GHOST-94: <:: Look at'em. ::>
+[18:55:01	][IC] S10/OWS.GHOST-94: <:: LEADER. ::>
+[18:55:05	][IC] S10/EOW.LEADER-00: <:: S2K ofc. ::>
+[18:55:14	][IC] VORT STAT TEST 1: Yeah like why would you ever S2M?
+[18:55:16	][IC] VORT STAT TEST 1: Bring back TBC.
+[18:55:19	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047122.
+[18:55:19	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047121.
+[18:55:20	][IC] S10/EOW.LEADER-00: <:: Bruh. ::>
+[18:55:25	][IC] S10/OWS.GHOST-94: <:: Move it. ::>
+[18:55:28	][IC] VORT STAT TEST 1: So what you boys been doing?
+[18:55:30	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047121.
+[18:55:30	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047122.
+[18:55:30	][IC] VORT STAT TEST 1: Decoration?
+[18:55:34	][IC] S10/EOW.LEADER-00: <:: Testing stuff. ::>
+[18:55:39	][IC] S10/EOW.LEADER-00: <:: Checking if map has collisions. ::>
+[18:55:46	][IC] S10/OWS.GHOST-94: <:: Has collisions, confirmed. ::>
+[18:55:46	][IC] S10/EOW.LEADER-00: <:: Have you seen this? ::>
+[18:55:50	][IC] S10/EOW.LEADER-00: <:: Look up. ::>
+[18:55:51	]S10/EOW.LEADER-00 entered observer.
+[18:55:54	]S10/EOW.LEADER-00 exited observer at their location.
+[18:55:54	][IC] S10/OWS.GHOST-94: <:: Gone. ::>
+[18:56:02	][IC] VORT STAT TEST 1: Yeah I mean we had that even in clockwork.
+[18:56:05	][IC] S10/EOW.LEADER-00: <:: Ye. ::>
+[18:56:07	][IC] S10/OWS.GHOST-94: <:: Be surprised. ::>
+[18:56:13	][IC] S10/EOW.LEADER-00: <:: Magic. ::>
+[18:56:13	][IC] VORT STAT TEST 1: Vortal energy is cool.
+[18:56:19	][IC] VORT STAT TEST 1: I didnt even know about the super abilities we had.
+[18:56:24	][IC] S10/EOW.LEADER-00: <:: Vort slam? ::>
+[18:56:25	][IC] VORT STAT TEST 1: Like the ultra charged vort beam.
+[18:56:27	][IC] S10/EOW.LEADER-00: <:: Advanced beam. ::>
+[18:56:28	][IC] S10/EOW.LEADER-00: <:: Yes. ::>
+[18:56:29	][IC] VORT STAT TEST 1: Yeah that.
+[18:56:31	][IC] S10/OWS.GHOST-94: <:: Yep. ::>
+[18:56:31	][IC] VORT STAT TEST 1: And pyro.
+[18:56:32	][IC] S10/EOW.LEADER-00: <:: Dealing 600000000000000000000000000. ::>
+[18:56:36	][IC] VORT STAT TEST 1: Not sure how to get them though.
+[18:56:37	][IC] S10/OWS.GHOST-94: <:: 60000000000000000. ::>
+[18:56:38	][IC] S10/OWS.GHOST-94: <:: Cofirm. ::>
+[18:56:40	][IC] S10/OWS.GHOST-94: <:: Confirm. ::>
+[18:56:41	][IC] S10/EOW.LEADER-00: <:: Lvl 50 vort. ::>
+[18:56:47	][IC] VORT STAT TEST 1: Yeah like I said.
+[18:56:48	][IC] VORT STAT TEST 1: Cooking OP.
+[18:56:49	][IC] S10/EOW.LEADER-00: <:: Or vortesence 50. ::>
+[18:56:53	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047122.
+[18:56:53	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047121.
+[18:56:54	][IC] S10/EOW.LEADER-00: <:: Ye kinda. ::>
+[18:56:57	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047121.
+[18:56:57	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047122.
+[18:56:58	][IC] S10/EOW.LEADER-00: <:: AOE is big tho. ::>
+[18:56:59	][IC] VORT STAT TEST 1: Nah Grass said so.
+[18:57:07	][IC] VORT STAT TEST 1: Like early on when willard launched.
+[18:57:08	][IC] S10/OWS.GHOST-94: <:: I'm working on antlions. ::>
+[18:57:13	][IC] S10/OWS.GHOST-94: <:: Scoop scoop. ::>
+[18:57:14	][IC] VORT STAT TEST 1: You combine cooking with medicine.
+[18:57:19	][IC] VORT STAT TEST 1: And you basically have 50 in all stats.
+[18:57:26	][IC] S10/EOW.LEADER-00: <:: Wtf. ::>
+[18:57:31	][IC] VORT STAT TEST 1: Yeah I'm serious.
+[18:57:31	][IC] S10/EOW.LEADER-00: <:: Just guns and. ::>
+[18:57:38	][IC] S10/EOW.LEADER-00: <:: Speed. ::>
+[18:57:42	][IC] VORT STAT TEST 1: Well I mean.
+[18:57:46	][IC] S10/EOW.LEADER-00: <:: Most useful. ::>
+[18:57:49	][IC] S10/EOW.LEADER-00: <:: Even tho useless. ::>
+[18:57:53	]S10/OWS.GHOST-94 used command '/Radio ALL SECTORS CLEAR'.
+[18:57:55	][IC] VORT STAT TEST 1: Grass told me there was a specific way to levle.
+[18:58:01	][IC] VORT STAT TEST 1: Cant remember what the level cap is for your character.
+[18:58:06	][IC] VORT STAT TEST 1: Is it 30 points?
+[18:58:09	][IC] VORT STAT TEST 1: Nah cant be.
+[18:58:11	][IC] S10/EOW.LEADER-00: <:: 130. ::>
+[18:58:21	][IC] VORT STAT TEST 1: Yeah so he said if you invest in cookign early and spread your points smart.
+[18:58:23	][IC] S10/EOW.LEADER-00: <:: Total LVL if you mean. ::>
+[18:58:29	][IC] VORT STAT TEST 1: You use the stat boost from cooking and meds to cover the last 20.
+[18:58:32	][Y] S10/EOW.LEADER-00: <:: Freeze. ::>
+[18:58:34	][IC] S10/EOW.LEADER-00: <:: 120. ::>
+[18:58:35	][IC] VORT STAT TEST 1: I think it was 30 in all stats he said.
+[18:58:39	][IC] VORT STAT TEST 1: But this was 2 years ago like.
+[18:58:40	][IC] S10/EOW.LEADER-00: <:: Max is 50. ::>
+[18:58:43	][IC] VORT STAT TEST 1: Could be wrong.
+[18:58:48	][IC] S10/EOW.LEADER-00: <:: Per skill. ::>
+[18:58:51	][IC] VORT STAT TEST 1: Yeah 50 is he max but leveling to 50 is a mistake.
+[18:58:53	][IC] S10/EOW.LEADER-00: <:: 120 combined. ::>
+[18:58:54	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047122.
+[18:58:54	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047115.
+[18:58:56	][IC] VORT STAT TEST 1: Just boost to 50.
+[18:58:58	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047115.
+[18:58:58	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047122.
+[18:59:02	][IC] S10/EOW.LEADER-00: <:: You cant anymore. ::>
+[18:59:06	]S10/OWS.GHOST-94 has spawned a 'NPC [4746][npc_citizen]'.
+[18:59:07	][IC] VORT STAT TEST 1: You cant boost to 50?
+[18:59:08	][IC] S10/OWS.GHOST-94: <:: Inbound. ::>
+[18:59:09	][IC] S10/EOW.LEADER-00: <:: There is certain cap. ::>
+[18:59:10	][IC] S10/EOW.LEADER-00: <:: Nop. ::>
+[18:59:13	][IC] S10/OWS.GHOST-94: <:: Don't move. ::>
+[18:59:16	]S10/OWS.GHOST-94 has critically hit npc_citizen in the head dealing 16 damage (CritChance was 1.01).
+[18:59:16	]S10/OWS.GHOST-94 has critically hit npc_citizen in the head dealing 8 damage (CritChance was 1.01).
+[18:59:18	][IC] VORT STAT TEST 1: Thats retarded.
+[18:59:19	][IC] S10/OWS.GHOST-94: <:: Thanks. ::>
+[18:59:20	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047122.
+[18:59:20	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047115.
+[18:59:23	][IC] VORT STAT TEST 1: So why even level cooking?
+[18:59:24	][IC] S10/EOW.LEADER-00: <:: As in if you mean from. ::>
+[18:59:27	][IC] S10/OWS.GHOST-94: <:: Contained. ::>
+[18:59:29	][IC] S10/EOW.LEADER-00: <:: Uh, no clue. ::>
+[18:59:35	][IC] S10/EOW.LEADER-00: <:: Food p much. ::>
+[18:59:39	][IC] VORT STAT TEST 1: Nah like if I get 30 in my stat say in guns.
+[18:59:45	][IC] VORT STAT TEST 1: And I pop some pills to boost strength.
+[18:59:53	][IC] VORT STAT TEST 1: Then I can push myself to 50.
+[18:59:56	][IC] S10/EOW.LEADER-00: <:: Xen pie, that's why. ::>
+[19:00:03	][IC] S10/OWS.GHOST-94: <:: Xen bomb. ::>
+[19:00:04	][IC] S10/EOW.LEADER-00: <:: It gives you long term 7 boost to everything. ::>
+[19:00:06	][IC] VORT STAT TEST 1: Nah not evne that.
+[19:00:08	]S10/EOW.LEADER-00 has taken 52 damage from S10/OWS.GHOST-94.
+[19:00:08	]VORT STAT TEST 1 has taken 29 damage from S10/OWS.GHOST-94.
+[19:00:10	]S10/EOW.LEADER-00 is fully healed.
+[19:00:11	]S10/EOW.LEADER-00 has spawned a xen_pie.
+[19:00:12	]S10/EOW.LEADER-00 has spawned a xen_pie.
+[19:00:14	]S10/EOW.LEADER-00 ran 'take' on item 'Xenian Pie' (#2047145)
+[19:00:14	]S10/EOW.LEADER-00 has gained a 'Xenian Pie' #2047145.
+[19:00:20	][IC] VORT STAT TEST 1: I mean in fairness you dont even NEED 50 in all stats.
+[19:00:22	][IC] S10/EOW.LEADER-00: <:: Yeah it's quite op. ::>
+[19:00:26	][IC] S10/EOW.LEADER-00: <:: You dont. ::>
+[19:00:29	]S10/EOW.LEADER-00 ran 'Consume' on item 'Xenian Pie' (#2047145)
+[19:00:29	]S10/EOW.LEADER-00 has gained a level 7 long boost in Strength.
+[19:00:29	]S10/EOW.LEADER-00 has gained a level 7 long boost in Agility.
+[19:00:29	]S10/EOW.LEADER-00 has gained a level 7 long boost in Intelligence.
+[19:00:29	]S10/EOW.LEADER-00 has gained a level 7 long boost in Perception.
+[19:00:31	][IC] VORT STAT TEST 1: Since 90%  of what you need is below 40.
+[19:00:34	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047115.
+[19:00:34	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047121.
+[19:00:34	][IC] VORT STAT TEST 1: Even 30 in most cases.
+[19:00:37	][IC] S10/EOW.LEADER-00: <:: Ye. ::>
+[19:00:41	]VORT STAT TEST 1 ran 'Consume' on item 'Xenian Pie' (#2047144)
+[19:00:41	]VORT STAT TEST 1 has gained a level 7 long boost in Strength.
+[19:00:41	]VORT STAT TEST 1 has gained a level 7 long boost in Agility.
+[19:00:41	]VORT STAT TEST 1 has gained a level 7 long boost in Intelligence.
+[19:00:41	]VORT STAT TEST 1 has gained a level 7 long boost in Perception.
+[19:00:54	][IC] S10/OWS.GHOST-94: <:: Nice eye. ::>
+[19:00:57	][IC] VORT STAT TEST 1: Oh yeah I forgot about this one.
+[19:00:59	][IC] S10/EOW.LEADER-00: <:: Union;  shit;  haha. ::>
+[19:01:01	][IC] S10/OWS.GHOST-94: <:: Haha. ::>
+[19:01:01	][IC] VORT STAT TEST 1: You have to wait for food to kick in.
+[19:01:06	][IC] S10/EOW.LEADER-00: <:: You do? ::>
+[19:01:16	][IC] VORT STAT TEST 1: Well I just ate that and I dont see any changes in my stats.
+[19:01:20	]S10/OWS.GHOST-94 used command '/Radio IDLE8'.
+[19:01:23	][IC] S10/EOW.LEADER-00: <:: Oh they apply during roll. ::>
+[19:01:24	][IC] VORT STAT TEST 1: Yeah.
+[19:01:24	][IC] S10/EOW.LEADER-00: <:: Do like. ::>
+[19:01:25	][IC] VORT STAT TEST 1: No no.
+[19:01:30	]S10/EOW.LEADER-00 used command '/SkillRoll strenght'.
+[19:01:31	][IC] VORT STAT TEST 1: +1 boost in 30 mins it says.
+[19:01:38	]S10/EOW.LEADER-00 used command '/SkillRoll strenhgt'.
+[19:01:39	][IC] VORT STAT TEST 1: Probably would ramp up over time.
+[19:01:50	][IC] S10/OWS.GHOST-94: <:: You wot, vort? ::>
+[19:01:51	]S10/EOW.LEADER-00 rolled 4 out of 20.
+[19:01:51	]S10/EOW.LEADER-00 used command '/Roll sttrength'.
+[19:01:55	]S10/EOW.LEADER-00 rolled 6 out of 20 (+0 from Strength).
+[19:01:55	]S10/EOW.LEADER-00 used command '/Roll strength'.
+[19:01:56	]VORT STAT TEST 1 rolled 15 out of 20.
+[19:01:56	]VORT STAT TEST 1 used command '/Roll'.
+[19:02:04	][IC] S10/EOW.LEADER-00: <:: Huh. ::>
+[19:02:07	][IC] S10/OWS.GHOST-94: <:: Haha. ::>
+[19:02:09	]S10/EOW.LEADER-00 has given himself a xen_pie.
+[19:02:09	]S10/EOW.LEADER-00 has gained a 'Xenian Pie' #2047146.
+[19:02:12	]S10/EOW.LEADER-00 ran 'Consume' on item 'Xenian Pie' (#2047146)
+[19:02:12	]S10/EOW.LEADER-00 has wasted a level 7 long boost in Strength (current: 0; target: 7).
+[19:02:12	]S10/EOW.LEADER-00 has wasted a level 7 long boost in Agility (current: 0; target: 7).
+[19:02:12	]S10/EOW.LEADER-00 has wasted a level 7 long boost in Intelligence (current: 0; target: 7).
+[19:02:12	]S10/EOW.LEADER-00 has wasted a level 7 long boost in Perception (current: 0; target: 7).
+[19:02:13	][IC] S10/EOW.LEADER-00: <:: Huh. ::>
+[19:02:14	]S10/EOW.LEADER-00 rolled 3 out of 20 (+0 from Strength).
+[19:02:14	]S10/EOW.LEADER-00 used command '/Roll strength'.
+[19:02:15	][IC] VORT STAT TEST 1: If you gave me the potion that might work.
+[19:02:20	]S10/EOW.LEADER-00 has spawned a xen_potion.
+[19:02:21	][IC] VORT STAT TEST 1: Think that one is specila.
+[19:02:21	]S10/EOW.LEADER-00 has given himself a xen_potion.
+[19:02:21	]S10/EOW.LEADER-00 has gained a 'Xen Potion' #2047148.
+[19:02:23	]VORT STAT TEST 1 ran 'Consume' on item 'Xen Potion' (#2047147)
+[19:02:23	]S10/EOW.LEADER-00 ran 'Consume' on item 'Xen Potion' (#2047148)
+[19:02:27	]VORT STAT TEST 1 is fully healed.
+[19:02:28	]S10/EOW.LEADER-00 rolled 1 out of 20 (+0 from Strength).
+[19:02:28	]S10/EOW.LEADER-00 used command '/Roll strength'.
+[19:02:30	]VORT STAT TEST 1 rolled 9 out of 20.
+[19:02:30	]VORT STAT TEST 1 used command '/Roll'.
+[19:02:36	][IC] S10/EOW.LEADER-00: <:: You need to add skill. ::>
+[19:02:36	][IC] VORT STAT TEST 1: Strange.
+[19:02:38	][IC] S10/EOW.LEADER-00: <:: Not generic. ::>
+[19:02:48	]S10/EOW.LEADER-00 has given himself a drug_happypie.
+[19:02:48	]S10/EOW.LEADER-00 has gained a 'Happy Pie' #2047149.
+[19:02:54	]S10/EOW.LEADER-00 ran 'Consume' on item 'Happy Pie' (#2047149)
+[19:02:54	]S10/EOW.LEADER-00 has wasted a level 5 long boost in Strength (current: 0; target: 7).
+[19:02:54	]S10/EOW.LEADER-00 has wasted a level 5 long boost in Agility (current: 0; target: 7).
+[19:02:54	]VORT STAT TEST 1 rolled 13 out of 20 (+0 from Strength).
+[19:02:54	]VORT STAT TEST 1 used command '/Roll strength'.
+[19:03:03	][IC] VORT STAT TEST 1: Yeah needs to kick in.
+[19:03:03	]S10/EOW.LEADER-00 rolled 6 out of 20 (+0 from Agility).
+[19:03:03	]S10/EOW.LEADER-00 used command '/Roll agility'.
+[19:03:07	][IC] S10/EOW.LEADER-00: <:: Huh. ::>
+[19:03:08	][IC] S10/EOW.LEADER-00: <:: Ye. ::>
+[19:03:09	][IC] VORT STAT TEST 1: But the potion did fill my vort meter.
+[19:03:12	][IC] VORT STAT TEST 1: So there's that.
+[19:03:15	]S10/EOW.LEADER-00 used command '/RemoveDrugEffects ^'.
+[19:03:22	][IC] VORT STAT TEST 1: Honestly making food give buffs was genius to make businesses work.
+[19:03:23	]S10/OWS.GHOST-94 ran 'EquipUn' on item 'MP7A1' (#2047114)
+[19:03:23	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047121.
+[19:03:24	]S10/OWS.GHOST-94 ran 'Equip' on item 'MP7A1' (#2047114)
+[19:03:26	][IC] S10/EOW.LEADER-00: <:: There is uh. ::>
+[19:03:28	][IC] S10/EOW.LEADER-00: <:: Also this. ::>
+[19:03:33	]S10/OWS.GHOST-94 has spawned a 'NPC [4739][npc_vortigaunt]'.
+[19:03:34	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047115.
+[19:03:37	][IC] VORT STAT TEST 1: What's the crack with uh.
+[19:03:39	]S10/OWS.GHOST-94 has critically hit npc_vortigaunt dealing 15 damage (CritChance was 1.01).
+[19:03:39	]S10/OWS.GHOST-94 has critically hit npc_vortigaunt dealing 15 damage (CritChance was 1.01).
+[19:03:39	]S10/OWS.GHOST-94 has critically hit npc_vortigaunt dealing 0 damage (CritChance was 1.01).
+[19:03:39	]S10/OWS.GHOST-94 has critically hit npc_vortigaunt dealing 15 damage (CritChance was 1.01).
+[19:03:39	]S10/OWS.GHOST-94 has critically hit npc_vortigaunt dealing 0 damage (CritChance was 1.01).
+[19:03:39	]S10/OWS.GHOST-94 has critically hit npc_vortigaunt dealing 15 damage (CritChance was 1.01).
+[19:03:39	]S10/OWS.GHOST-94 has critically hit npc_vortigaunt dealing 0 damage (CritChance was 1.01).
+[19:03:39	]S10/OWS.GHOST-94 has critically hit npc_vortigaunt dealing 0 damage (CritChance was 1.01).
+[19:03:39	]S10/OWS.GHOST-94 has critically hit npc_vortigaunt dealing 15 damage (CritChance was 1.01).
+[19:03:40	]S10/OWS.GHOST-94 has critically hit npc_vortigaunt dealing 0 damage (CritChance was 1.01).
+[19:03:40	]S10/OWS.GHOST-94 has critically hit npc_vortigaunt dealing 15 damage (CritChance was 1.01).
+[19:03:40	]S10/OWS.GHOST-94 has critically hit npc_vortigaunt dealing 15 damage (CritChance was 1.01).
+[19:03:41	]S10/EOW.LEADER-00 has spawned a xen_concoction.
+[19:03:42	][IC] VORT STAT TEST 1: Bio locked AR2s.
+[19:03:42	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047115.
+[19:03:42	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047121.
+[19:03:44	][IC] S10/OWS.GHOST-94: <:: Is down. ::>
+[19:03:50	][IC] VORT STAT TEST 1: Do I need a GM or what.
+[19:03:52	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047121.
+[19:03:52	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047116.
+[19:03:53	]VORT STAT TEST 1 ran 'Consume' on item 'Extract Concoction' (#2047150)
+[19:03:53	]VORT STAT TEST 1 has gained a level 15 long boost in Strength.
+[19:03:53	]VORT STAT TEST 1 has gained a level 15 long boost in Agility.
+[19:03:53	]VORT STAT TEST 1 has gained a level 15 long boost in Intelligence.
+[19:03:53	]VORT STAT TEST 1 has gained a level 15 long boost in Perception.
+[19:03:58	][IC] S10/EOW.LEADER-00: <:: I think there is power for vorts to do so. ::>
+[19:03:58	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047116.
+[19:03:58	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047121.
+[19:04:20	]S10/EOW.LEADER-00 has spawned a dummy_biolock_expar2.
+[19:04:23	][IC] S10/EOW.LEADER-00: <:: Put to inv. ::>
+[19:04:24	][IC] VORT STAT TEST 1: Yeah I dont see the advanced version in my list.
+[19:04:25	][IC] S10/EOW.LEADER-00: <:: Right click. ::>
+[19:04:27	][IC] S10/EOW.LEADER-00: <:: Unlock. ::>
+[19:04:27	]S10/OWS.GHOST-94 used command '/Radio BIODAT CRITICAL2'.
+[19:04:32	]VORT STAT TEST 1 ran 'take' on item 'Odd Combine Rifle (Biolocked)' (#2047151)
+[19:04:32	]VORT STAT TEST 1 has gained a 'Odd Combine Rifle (Biolocked)' #2047151.
+[19:04:34	]VORT STAT TEST 1 ran 'Unlock' on item 'Odd Combine Rifle (Biolocked)' (#2047151)
+[19:04:34	]VORT STAT TEST 1 has gained a 'OSPR2A-EXP' #2047152.
+[19:04:39	][IC] S10/EOW.LEADER-00: <:: Ye. ::>
+[19:04:44	][IC] S10/EOW.LEADER-00: <:: It works. ::>
+[19:04:44	][IC] VORT STAT TEST 1: And what.
+[19:04:47	][IC] VORT STAT TEST 1: I just do that for free?
+[19:04:48	][IC] S10/EOW.LEADER-00: <:: It's done. ::>
+[19:04:48	][IC] VORT STAT TEST 1: No combine?
+[19:04:54	][IC] S10/EOW.LEADER-00: <:: We get ping. ::>
+[19:04:58	][IC] S10/EOW.LEADER-00: <:: So if you do that OTA is angry. ::>
+[19:04:58	][IC] VORT STAT TEST 1: Yeah I thought so.
+[19:05:04	][IC] S10/EOW.LEADER-00: <:: There is way tho. ::>
+[19:05:04	]S10/OWS.GHOST-94 used command '/Radio Altered biotic in sight, engaging'.
+[19:05:06	]S10/EOW.LEADER-00 has spawned a dummy_biolock_sr1.
+[19:05:10	]S10/EOW.LEADER-00 has spawned a dummy_emp.
+[19:05:11	][IC] VORT STAT TEST 1: That resonance chump thought he could dupe me into doing it.
+[19:05:16	]VORT STAT TEST 1 ran 'take' on item 'Improved EMP Device' (#2047154)
+[19:05:16	]VORT STAT TEST 1 has gained a 'Improved EMP Device' #2047154.
+[19:05:17	]VORT STAT TEST 1 ran 'take' on item 'Biolocked Ordinal Rifle' (#2047153)
+[19:05:17	]VORT STAT TEST 1 has gained a 'Biolocked Ordinal Rifle' #2047153.
+[19:05:19	]VORT STAT TEST 1 ran 'drop' on item 'OSPR2A-EXP' (#2047152)
+[19:05:19	]VORT STAT TEST 1 has lost a 'OSPR2A-EXP' #2047152.
+[19:05:22	]S10/EOW.LEADER-00 has used a context menu option with the name: rb655_dissolve
+[19:05:24	]env_entity_dissolver destroyed a 'OSPR2A-EXP' #2047152.
+[19:05:31	][IC] VORT STAT TEST 1: Oh so I just say.
+[19:05:33	]VORT STAT TEST 1 ran 'drop' on item 'Improved EMP Device' (#2047154)
+[19:05:33	]VORT STAT TEST 1 has lost a 'Improved EMP Device' #2047154.
+[19:05:34	][IC] S10/EOW.LEADER-00: <:: It's p much free w EMP. ::>
+[19:05:36	][ME] VORT STAT TEST 1: laughs in EMP
+[19:05:38	]VORT STAT TEST 1 ran 'Unlock' on item 'Biolocked Ordinal Rifle' (#2047153)
+[19:05:38	]VORT STAT TEST 1 has gained a 'SR-1A' #2047155.
+[19:05:44	]VORT STAT TEST 1 ran 'drop' on item 'SR-1A' (#2047155)
+[19:05:44	]VORT STAT TEST 1 has lost a 'SR-1A' #2047155.
+[19:05:44	][IC] S10/EOW.LEADER-00: <:: Uh there is item for that. ::>
+[19:05:48	][IC] S10/EOW.LEADER-00: <:: It allows you to bypass it. ::>
+[19:05:51	]VORT STAT TEST 1 ran 'take' on item 'Improved EMP Device' (#2047154)
+[19:05:51	]VORT STAT TEST 1 has gained a 'Improved EMP Device' #2047154.
+[19:05:56	]S10/EOW.LEADER-00 has used a context menu option with the name: remove
+[19:05:57	]VORT STAT TEST 1 ran 'drop' on item 'Improved EMP Device' (#2047154)
+[19:05:57	]VORT STAT TEST 1 has lost a 'Improved EMP Device' #2047154.
+[19:06:01	][IC] VORT STAT TEST 1: Yeah it says its an RP item.
+[19:06:02	]S10/OWS.GHOST-94 used command '/Radio audibles at grid two, one, zero.'.
+[19:06:08	][IC] S10/EOW.LEADER-00: <:: Ye. ::>
+[19:06:11	][IC] S10/EOW.LEADER-00: <:: Lemme see. ::>
+[19:06:12	]S10/EOW.LEADER-00 has used a context menu option with the name: collision_off
+[19:06:13	]S10/EOW.LEADER-00 has used a context menu option with the name: remove
+[19:06:20	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047121.
+[19:06:20	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047116.
+[19:06:34	][IC] VORT STAT TEST 1: You eyeballin me?
+[19:06:43	][IC] S10/OWS.GHOST-94: <:: Alien scum. ::>
+[19:06:49	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047116.
+[19:06:49	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047121.
+[19:06:51	][IC] VORT STAT TEST 1: Enhanced human.
+[19:06:56	][IC] VORT STAT TEST 1: Cant even out-height a vort.
+[19:06:58	][IC] VORT STAT TEST 1: SAD!
+[19:07:02	][IC] S10/OWS.GHOST-94: <:: That... Hurt my feelings. ::>
+[19:07:08	][IC] VORT STAT TEST 1: Wouldn't DARE be caught playing OTA.
+[19:07:30	][XEN] S10/OWS.GHOST-94: Shut your mouth, frog-like ass
+[19:07:32	][IC] VORT STAT TEST 1: Also civvie spawn is in outlands by a bus.
+[19:07:36	][IC] VORT STAT TEST 1: But I'm sure you knew that already.
+[19:07:40	][IC] S10/EOW.LEADER-00: <:: Might be RP item. ::>
+[19:07:46	][IC] S10/EOW.LEADER-00: <:: We know. ::>
+[19:07:49	][IC] S10/EOW.LEADER-00: <:: It's for event. ::>
+[19:08:02	][IC] S10/EOW.LEADER-00: <:: So EMP is just RP tool. ::>
+[19:08:04	][IC] VORT STAT TEST 1: So vorts you're just gonna throw them under the lighthouse untill it's time to come out huh.
+[19:08:09	][IC] S10/EOW.LEADER-00: <:: Admin can do it to disable biolockj without ping. ::>
+[19:08:15	][IC] S10/EOW.LEADER-00: <:: No clue about vorts. ::>
+[19:08:23	][IC] VORT STAT TEST 1: Lighthouse entrances are locked off.
+[19:08:31	][IC] VORT STAT TEST 1: Well technically I could go through lighthouse.
+[19:08:34	][IC] VORT STAT TEST 1: But it'd set off the locks.
+[19:08:39	][IC] S10/EOW.LEADER-00: <:: Ye. ::>
+[19:08:57	][IC] VORT STAT TEST 1: Unless it's a group lock for the vorti-boys.
+[19:09:25	][IC] VORT STAT TEST 1: So since shell beach and the canals are like.
+[19:09:30	][IC] VORT STAT TEST 1: Event based near enough.
+[19:09:38	][IC] VORT STAT TEST 1: You're gonna shove the resistance into the sewers.
+[19:09:39	][IC] S10/EOW.LEADER-00: <:: I dont think beach is. ::>
+[19:09:44	][IC] S10/OWS.GHOST-94: <:: One. ::>
+[19:09:46	][IC] S10/OWS.GHOST-94: <:: Two. ::>
+[19:09:47	][IC] S10/OWS.GHOST-94: <:: Three. ::>
+[19:09:47	][IC] VORT STAT TEST 1: Nah it's pretty common knowledge its uh.
+[19:09:48	][IC] S10/EOW.LEADER-00: <:: That's meant to be open. ::>
+[19:09:50	][IC] VORT STAT TEST 1: Combine controlled.
+[19:09:52	]Mango (STEAM_0:0:544539350) has disconnected.
+[19:09:58	][IC] S10/EOW.LEADER-00: <:: Uh nah, not as far as i know. ::>
+[19:10:03	][IC] S10/EOW.LEADER-00: <:: I might be wrong. ::>
+[19:10:09	][IC] VORT STAT TEST 1: Maybe it changed.
+[19:10:22	][IC] S10/EOW.LEADER-00: <:: Anyway gotta lay down. ::>
+[19:10:25	][IC] S10/EOW.LEADER-00: <:: Byee. ::>
+[19:10:28	][IC] VORT STAT TEST 1: So long.
+[19:10:30	]Hiros | Error 410 (STEAM_0:1:54068821) has disconnected.
+[19:12:20	]thc has connected.
+[19:12:45	]VORT STAT TEST 1 has taken 5 damage from worldspawn.
+[19:13:23	]thc loaded the character 'thc'
+[19:13:28	]thc is fully healed.
+[19:13:47	]thc used command '/PrintStaffList'.
+[19:14:00	]thc entered observer.
+[19:14:14	]thc was knocked unconscious and is bleeding out.
+[19:14:14	][VORT] VORT STAT TEST 1 has damaged thc dealing 999 with vortslam
+[19:14:17	][VORT] VORT STAT TEST 1 has damaged thc dealing 999 with vortslam
+[19:14:20	][VORT] VORT STAT TEST 1 has damaged thc dealing 999 with vortslam
+[19:14:20	]VORT STAT TEST 1 has gained level 1 in the Vortessence skill.
+[19:14:22	]thc ran SAM command 'hp' with arguments: 'thc' '100'
+[19:14:23	]thc is no longer unconscious from critical wounds.
+[19:14:23	]thc is fully healed.
+[19:14:26	][IC] thc: Ouch.
+[19:14:27	][IC] VORT STAT TEST 1: I'm BOOSTING.
+[19:14:32	]thc used command '/CharStopBleedout thc'.
+[19:14:33	][IC] VORT STAT TEST 1: Hey so.
+[19:14:33	]thc entered observer.
+[19:14:36	]thc exited observer.
+[19:14:37	][IC] VORT STAT TEST 1: As a donator.
+[19:14:41	][IC] VORT STAT TEST 1: I get 2 containers for free.
+[19:14:43	][IC] VORT STAT TEST 1: Right.
+[19:14:44	][IC] thc: Yes.
+[19:14:47	]thc entered observer.
+[19:14:47	]thc exited observer.
+[19:14:54	][IC] VORT STAT TEST 1: So what's the lay of the land down here?
+[19:14:58	][IC] VORT STAT TEST 1: Rebel wise.
+[19:15:08	][IC] thc: Some kind of base I guess.
+[19:15:21	][IC] VORT STAT TEST 1: I have the best base concept.
+[19:15:26	][IC] VORT STAT TEST 1: You're ever gonna see on this map.
+[19:15:30	][IC] VORT STAT TEST 1: Come on.
+[19:16:01	]thc entered observer.
+[19:16:09	]thc exited observer.
+[19:16:11	]thc ran SAM command 'goto' with arguments: 'vort'
+[19:16:23	][IC] VORT STAT TEST 1: Alright.
+[19:16:25	][IC] VORT STAT TEST 1: Here it is.
+[19:16:31	][IC] thc: Down there?
+[19:16:37	][IC] VORT STAT TEST 1: Just wait.
+[19:16:41	]VORT STAT TEST 1 has spawned 'models/hunter/plates/plate8x8.mdl'.
+[19:16:47	]VORT STAT TEST 1 has spawned 'models/hunter/plates/plate8x8.mdl'.
+[19:16:57	]VORT STAT TEST 1 has spawned 'models/hunter/plates/plate16x16.mdl'.
+[19:17:21	]thc ran SAM command 'admin' with arguments: ''
+[19:17:24	]VORT STAT TEST 1 has fired a toolgun with the name: precision
+[19:17:25	]thc ran SAM command 'unadmin' with arguments: ''
+[19:17:46	]VORT STAT TEST 1 has fired a toolgun with the name: submaterial
+[19:17:52	]VORT STAT TEST 1 has fired a toolgun with the name: submaterial
+[19:17:56	]VORT STAT TEST 1 has fired a toolgun with the name: submaterial
+[19:18:05	][IC] VORT STAT TEST 1: Water basically.
+[19:18:14	][IC] VORT STAT TEST 1: And sealed door down there.
+[19:18:20	][IC] VORT STAT TEST 1: Let's see the combine breach that one.
+[19:18:26	][IC] thc: Nice spot to hide.
+[19:18:33	]VORT STAT TEST 1 has used a context menu option with the name: collision_off
+[19:18:40	]VORT STAT TEST 1 has fired a toolgun with the name: nocollide
+[19:18:41	]VORT STAT TEST 1 has fired a toolgun with the name: nocollide
+[19:19:00	]VORT STAT TEST 1 has spawned 'models/props_lab/blastdoor001a.mdl'.
+[19:19:15	]VORT STAT TEST 1 has fired a toolgun with the name: nocollideworld
+[19:19:41	][IC] VORT STAT TEST 1: In there there would be a pump basically.
+[19:19:47	][IC] VORT STAT TEST 1: And you just drain the water out when you want to leave.
+[19:19:51	][IC] VORT STAT TEST 1: And let it flood when you're hiding.
+[19:20:01	][IC] thc: Good idea.
+[19:20:08	][IC] thc: Might be acceptable on main server.
+[19:20:11	][IC] VORT STAT TEST 1: Very half-life esque.
+[19:20:19	][IC] VORT STAT TEST 1: Shame I cant play my best vort.
+[19:20:24	][IC] VORT STAT TEST 1: The main man himself, Cyrus.
+[19:20:39	][IC] VORT STAT TEST 1: Too much of a legend, Rad-X said.
+[19:20:52	][IC] VORT STAT TEST 1: I got a good character model too.
+[19:20:54	][IC] VORT STAT TEST 1: Wanna see?
+[19:20:58	][IC] thc: Show me.
+[19:21:13	]thc is fully healed.
+[19:21:19	][IC] VORT STAT TEST 1: Sorry it says I dont have donator or headcrab whitelist and all that.
+[19:21:37	][IC] VORT STAT TEST 1: Theres that update command right.
+[19:21:41	][IC] VORT STAT TEST 1: You might be able to do that.
+[19:21:45	]thc used command '/ForceGroupUpdate vort'.
+[19:21:47	][IC] VORT STAT TEST 1: Or give me headcrab whitelist.
+[19:21:50	][IC] thc: Try now.
+[19:22:02	][LOOC] VORT STAT TEST 1: nah
+[19:22:02	]thc used command '/PlyWhitelist vort headcrab'.
+[19:22:06	][IC] VORT STAT TEST 1: Ah I see.
+[19:22:11	]Chris loaded the character 'Wormtail'
+[19:22:18	]thc used command '/PlyWhitelist worm bird'.
+[19:22:20	]thc ran SAM command 'goto' with arguments: 'worm'
+[19:22:24	]Wormtail used command '/PM thc right here'.
+[19:22:25	]thc entered observer.
+[19:22:29	]thc exited observer.
+[19:22:41	][IC] thc: Nice.
+[19:22:41	][IC] Wormtail: While every else flies around.
+[19:22:44	][IC] Wormtail: I scurry.
+[19:22:47	][IC] Wormtail: I also have this one.
+[19:22:53	]Chris loaded the character ''Gemstone''
+[19:23:01	]thc ran SAM command 'goto' with arguments: '''
+[19:23:14	][IC] thc: Oh that one is scary.
+[19:23:18	][IC] 'Gemstone': Gonome.
+[19:23:19	][IC] thc: Rebels will go away instantly.
+[19:23:24	][IC] 'Gemstone': Maybe I should change the name though.
+[19:23:28	][IC] 'Gemstone': Maybe Greg.
+[19:23:29	]thc used command '/PlyGetCharacters ''.
+[19:23:40	]thc used command '/PrintStaffList'.
+[19:23:41	][IC] 'Gemstone': That's pretty retarded and accurate for a dangerous zombie.
+[19:23:49	][IC] 'Gemstone': Shame I have no melee claws or anything.
+[19:23:50	][IC] thc: Yeah.
+[19:23:56	]thc is admin-searching 'Gemstone''s inventory.
+[19:23:56	]thc has used a context menu option with the name: ixviewinventory
+[19:23:58	]thc has closed 'Gemstone''s inventory.
+[19:24:02	][IC] 'Gemstone': Supposed to be able to throw acid out of my chest too.
+[19:24:12	][IC] thc: You should have a weapon script in your inv.
+[19:24:13	][IC] 'Gemstone': Wasnt there a houndeye whitelist for a while?
+[19:24:14	][IC] thc: As gonome.
+[19:24:21	][IC] 'Gemstone': Or maybe I was wrong.
+[19:24:45	][IC] thc: Now players use headcrab wl to play the houndeye.
+[19:24:50	][IC] thc: Just need to change their model.
+[19:24:53	][IC] 'Gemstone': Yeah thats what I thought.
+[19:25:02	][IC] 'Gemstone': But yeah they should just play one of these bad boys.
+[19:25:17	][IC] thc: Headcrab/Vort wl is used for most of the hl2 creatures.
+[19:25:18	][IC] 'Gemstone': Can you set a character's stats?
+[19:25:21	][IC] thc: Sometimes event wl.
+[19:25:24	][IC] thc: Yeah.
+[19:25:31	][IC] 'Gemstone': Wonder what damage I can do at 50 melee.
+[19:25:34	][IC] 'Gemstone': With just fists.
+[19:25:47	]thc used command '/ViewInfo 'g'.
+[19:25:57	]thc used command '/CharGetSkills ''.
+[19:26:10	]'Gemstone' has gained level 50 in the Melee skill.
+[19:26:10	]thc used command '/CharSkillAdd ' Melee 50'.
+[19:26:14	][IC] thc: Ok, done.
+[19:26:15	][IC] 'Gemstone': Wait what is this armoured gonome thing?
+[19:26:17	][IC] thc: 50 melee set.
+[19:26:19	]thc has taken 5 damage from 'Gemstone'.
+[19:26:19	]'Gemstone' has damaged thc, dealing 5 with ix_hands
+[19:26:25	][IC] 'Gemstone': Well that was undewhelming.
+[19:26:29	][IC] 'Gemstone': Should give them vort claws.
+[19:26:31	]thc ran SAM command 'god' with arguments: 'thc'
+[19:26:33	]thc ran SAM command 'god' with arguments: 'thc'
+[19:26:34	][IC] 'Gemstone': Pretty sure they get special treatment.
+[19:26:55	][IC] 'Gemstone': Oh right I see it's heavy weapons only.
+[19:27:02	]thc used command '/CharGiveItem ' sledge_hammer 1'.
+[19:27:07	]thc used command '/CharGiveItem ' sledgehammer 1'.
+[19:27:07	]'Gemstone' has gained a 'Sledge Hammer' #2047156.
+[19:27:10	]thc is admin-searching 'Gemstone''s inventory.
+[19:27:10	]thc has used a context menu option with the name: ixviewinventory
+[19:27:13	]thc has closed 'Gemstone''s inventory.
+[19:27:14	]'Gemstone' ran 'Equip' on item 'Sledge Hammer' (#2047156)
+[19:27:18	][IC] thc: Or the sledge hammer.
+[19:27:23	]'Gemstone' has critically hit thc in the head dealing 105 damage (CritChance was 1.00).
+[19:27:23	]thc was knocked unconscious and is bleeding out.
+[19:27:29	]thc used command '/CharStopBleedout thc'.
+[19:27:29	][IC] 'Gemstone': Yeouch.
+[19:27:32	]thc ran SAM command 'hp' with arguments: 'thc' '1000'
+[19:27:33	]thc is no longer unconscious from critical wounds.
+[19:27:33	]thc is fully healed.
+[19:27:38	][IC] 'Gemstone': Nice 105.
+[19:27:44	]'Gemstone' has critically hit thc in the chest dealing 42 damage (CritChance was 1.00).
+[19:27:44	]thc has taken 42 damage from 'Gemstone'.
+[19:27:46	][IC] thc: 1 hit 1 kill.
+[19:27:48	]thc is fully healed.
+[19:27:49	][IC] 'Gemstone': 42 on a body shot.
+[19:27:52	][IC] 'Gemstone': That's nasty.
+[19:28:04	][IC] 'Gemstone': Should give me some like.
+[19:28:09	][IC] 'Gemstone': Loot for players who kill me.
+[19:28:16	][IC] 'Gemstone': And a shit ton of health.
+[19:28:23	]thc ran SAM command 'hp' with arguments: ''' '1000'
+[19:28:23	][IC] 'Gemstone': They play smart, they get stuff.
+[19:28:28	]'Gemstone' is fully healed.
+[19:28:30	][IC] 'Gemstone': They retarded, they get their heads crushed.
+[19:28:42	]thc has given himself a ing_headcrab_meat.
+[19:28:43	]thc has gained a 'Raw Headcrab Meat' #2047157.
+[19:28:43	]thc has given himself a ing_headcrab_meat.
+[19:28:43	]thc has gained a 'Raw Headcrab Meat' #2047158.
+[19:28:44	]thc has given himself a ing_headcrab_meat.
+[19:28:44	]thc has gained a 'Raw Headcrab Meat' #2047159.
+[19:28:45	]thc has given himself a ing_headcrab_meat.
+[19:28:45	]thc has gained a 'Raw Headcrab Meat' #2047160.
+[19:28:46	]thc has given himself a ing_headcrab_meat.
+[19:28:46	]thc has gained a 'Raw Headcrab Meat' #2047161.
+[19:28:46	]thc has given himself a ing_headcrab_meat.
+[19:28:46	]thc has gained a 'Raw Headcrab Meat' #2047162.
+[19:28:47	]thc has given himself a ing_headcrab_meat.
+[19:28:47	]thc has gained a 'Raw Headcrab Meat' #2047163.
+[19:28:48	]thc has given himself a ing_headcrab_meat.
+[19:28:48	]thc has gained a 'Raw Headcrab Meat' #2047164.
+[19:28:49	]thc has given himself a ing_headcrab_meat.
+[19:28:49	]thc has gained a 'Raw Headcrab Meat' #2047165.
+[19:28:50	]thc has given himself a ing_headcrab_meat.
+[19:28:50	]thc has gained a 'Raw Headcrab Meat' #2047166.
+[19:28:51	]thc is admin-searching 'Gemstone''s inventory.
+[19:28:51	]thc has used a context menu option with the name: ixviewinventory
+[19:28:54	]'Gemstone' has gained a 'Raw Headcrab Meat' #2047157.
+[19:28:54	]thc has transferred a 'Raw Headcrab Meat' #2047157 to a container with the name ''Gemstone''s inventory' #5434.
+[19:28:55	]'Gemstone' has gained a 'Raw Headcrab Meat' #2047161.
+[19:28:55	]thc has transferred a 'Raw Headcrab Meat' #2047161 to a container with the name ''Gemstone''s inventory' #5434.
+[19:28:56	]'Gemstone' has gained a 'Raw Headcrab Meat' #2047165.
+[19:28:56	]thc has transferred a 'Raw Headcrab Meat' #2047165 to a container with the name ''Gemstone''s inventory' #5434.
+[19:28:57	][IC] 'Gemstone': But yeah whats this armoured gonome npc.
+[19:28:58	]thc ran 'split' on item 'Raw Headcrab Meat' (#2047165)
+[19:28:58	]'Gemstone' has gained a 'Raw Headcrab Meat' #2047167.
+[19:29:01	][IC] 'Gemstone': Lets take al ook.
+[19:29:02	]thc has closed 'Gemstone''s inventory.
+[19:29:38	]thc has spawned a 'NPC [4790][npc_vj_gonomearmor]'.
+[19:29:51	][IC] 'Gemstone': Hm.
+[19:29:54	]thc has used a context menu option with the name: remove
+[19:30:00	]thc has spawned a 'NPC [4751][npc_vj_gonome_remake]'.
+[19:30:01	]thc has taken 30 damage from Gonome.
+[19:30:03	][IC] 'Gemstone': I mean it looks okay only because it's dark.
+[19:30:03	]thc is fully healed.
+[19:30:14	]thc has spawned a 'NPC [4718][npc_vj_hlrof_gonome]'.
+[19:30:20	]thc has spawned a 'NPC [4718][npc_vj_gonome]'.
+[19:30:20	]thc has taken 30 damage from Gonome.
+[19:30:23	]thc has spawned a 'NPC [4718][npc_vj_gonome_zecu]'.
+[19:30:23	]thc is fully healed.
+[19:30:27	][IC] 'Gemstone': What other xen creatures are in the pack.
+[19:30:31	]thc has spawned a 'NPC [4832][npc_vj_gonome_cop]'.
+[19:30:32	][IC] 'Gemstone': I know alien grunts are.
+[19:30:34	][IC] 'Gemstone': Unless they got removed.
+[19:30:51	]thc has spawned a 'NPC [4739][npc_vj_hlr1_aliengrunt]'.
+[19:30:54	]thc has spawned a 'NPC [4751][npc_vj_hlr1a_aliengrunt]'.
+[19:30:59	]'Gemstone' has taken 5 damage from Alpha Alien Grunt.
+[19:30:59	]'Gemstone' has taken 5 damage from Alpha Alien Grunt.
+[19:30:59	]'Gemstone' has taken 5 damage from Alpha Alien Grunt.
+[19:30:59	]'Gemstone' has taken 5 damage from Alpha Alien Grunt.
+[19:31:03	]'Gemstone' is fully healed.
+[19:31:05	]thc has spawned a 'NPC [4737][npc_antlion_schizo_drone]'.
+[19:31:07	]'Gemstone' has taken 7 damage from Antlion Drone.
+[19:31:07	]thc has taken 7 damage from Antlion Drone.
+[19:31:07	]thc has taken 15 damage from Antlion Drone.
+[19:31:08	]'Gemstone' is fully healed.
+[19:31:08	]thc is fully healed.
+[19:31:11	][IC] 'Gemstone': Nah I swear it was a proper whitelist.
+[19:31:14	][IC] thc: A lot of creatures.
+[19:31:17	][IC] 'Gemstone': Had the xen language.
+[19:31:32	][XEN] thc: hm
+[19:31:42	][IC] thc: There was an alien language before.
+[19:31:44	][IC] thc: For vort wl.
+[19:31:54	][IC] 'Gemstone': Nah that was always there from day one.
+[19:32:02	][IC] 'Gemstone': But vorts could also speak xen as well.
+[19:32:08	][IC] 'Gemstone': To talk to the grunts.
+[19:32:12	][IC] thc: Yep.
+[19:32:13	][IC] 'Gemstone': But grunts could only speak xen.
+[19:32:24	][IC] 'Gemstone': Custom run animation.
+[19:32:41	][IC] thc: Custom anims are great.
+[19:33:00	]thc has spawned a 'NPC [4744][npc_vj_hlr1_apache]'.
+[19:33:01	]'Gemstone' has taken 100 damage from AH-64 Apache.
+[19:33:01	]thc has taken 100 damage from AH-64 Apache.
+[19:33:01	]'Gemstone' has taken 100 damage from AH-64 Apache.
+[19:33:01	]thc has taken 100 damage from AH-64 Apache.
+[19:33:03	]'Gemstone' is fully healed.
+[19:33:03	]thc is fully healed.
+[19:33:05	][IC] 'Gemstone': Always wanted to play a character in a wheelchair.
+[19:33:05	][IC] thc: Oopsi.
+[19:33:20	][IC] 'Gemstone': But no drivable wheelchairs so.
+[19:33:27	][IC] thc: Yeah.
+[19:33:33	]'Gemstone' has spawned 'models/props_unique/wheelchair01.mdl'.
+[19:33:38	][IC] 'Gemstone': HOWEVER.
+[19:33:41	][IC] 'Gemstone': There is a solution.
+[19:33:51	]thc has spawned a 'NPC [4714][npc_vj_hlrof_cleansuitsci]'.
+[19:33:52	][IC] 'Gemstone': If you sit in that.
+[19:34:02	][IC] 'Gemstone': Think humans can sit anywhere right?
+[19:34:06	][IC] thc: Can't make it usable.
+[19:34:12	][IC] 'Gemstone': Just spawn a seat.
+[19:34:30	]thc has spawned a 'Vehicle [4791][prop_vehicle_prisoner_pod]'.
+[19:34:38	]thc has used a context menu option with the name: rb655_door_unlock
+[19:34:40	][IC] 'Gemstone': Maybe it was nebulous.
+[19:34:40	]thc has used a context menu option with the name: rb655_vehicle_enter
+[19:34:46	][IC] 'Gemstone': With the aura sitting thing.
+[19:34:50	]thc has used a context menu option with the name: remove
+[19:34:55	]thc has spawned a 'Vehicle [4714][prop_vehicle_prisoner_pod]'.
+[19:34:59	][IC] 'Gemstone': But yeah put that in the chair.
+[19:35:04	][IC] thc: Maybe.
+[19:35:04	][IC] 'Gemstone': Then.
+[19:35:08	]thc has spawned a 'Vehicle [4772][prop_vehicle_prisoner_pod]'.
+[19:35:11	]thc has spawned a 'Vehicle [4730][prop_vehicle_prisoner_pod]'.
+[19:35:11	][IC] 'Gemstone': Grab from the steps at the front.
+[19:35:14	][IC] 'Gemstone': And someone can walk behind.
+[19:35:27	][IC] 'Gemstone': And the weight keeps the chair leaning into the person "pushing" you along.
+[19:35:35	]'Gemstone' has spawned 'models/nova/airboat_seat.mdl'.
+[19:35:46	]'Gemstone' has fired a toolgun with the name: smartweld
+[19:35:49	]'Gemstone' has fired a toolgun with the name: smartweld
+[19:35:55	]'Gemstone' has fired a toolgun with the name: weld
+[19:35:56	]'Gemstone' has fired a toolgun with the name: weld
+[19:36:05	]'Gemstone' has used a context menu option with the name: collision_off
+[19:36:13	]'Gemstone' has fired a toolgun with the name: nocollide
+[19:36:13	]'Gemstone' has fired a toolgun with the name: nocollide
+[19:36:28	]'Gemstone' has fired a toolgun with the name: weld
+[19:36:30	]'Gemstone' has fired a toolgun with the name: weld
+[19:36:38	][IC] 'Gemstone': Yeah yeah.
+[19:36:43	]thc ran SAM command 'hp' with arguments: 'thc' '1000'
+[19:36:44	]thc ran SAM command 'admin' with arguments: ''
+[19:36:50	]thc ran SAM command 'unadmin' with arguments: ''
+[19:36:54	]thc entered observer.
+[19:36:54	]thc exited observer.
+[19:37:02	]thc used command '/CharStopBleedout thc'.
+[19:37:09	]thc ran SAM command 'slay' with arguments: 'thc'
+[19:37:14	]thc ran SAM command 'goto' with arguments: '''
+[19:37:17	][IC] thc: Oh like that.
+[19:37:20	][IC] 'Gemstone': Yeah see.
+[19:37:27	][IC] 'Gemstone': One of my ideas was.
+[19:37:36	][IC] 'Gemstone': A vort with a wheelchair bound friend he protects.
+[19:37:45	][IC] 'Gemstone': But I need someone to play the wheelchair guy.
+[19:37:48	][IC] 'Gemstone': And play when I play.
+[19:37:58	][IC] thc: That's good idea tbh.
+[19:38:01	][IC] 'Gemstone': But yeah I mean what a great character concept.
+[19:38:06	][IC] 'Gemstone': Another idea concept I had was.
+[19:38:08	][IC] thc: I have never seen such a solution for wheelchair.
+[19:38:13	][IC] 'Gemstone': Yeah this is the way.
+[19:38:20	][IC] 'Gemstone': And just set keep upright and boom.
+[19:38:27	]thc has used a context menu option with the name: keepupright
+[19:38:34	][IC] 'Gemstone': Tempted to play that now actually.
+[19:38:41	][IC] 'Gemstone': Custom character in a wheelchair.
+[19:38:44	][IC] 'Gemstone': Maybe a crafter or something.
+[19:38:58	][IC] 'Gemstone': Do I fucking LOOK like I can go get it?
+[19:39:05	][IC] 'Gemstone': Get me that fucking wrench already.
+[19:39:15	][ME] 'Gemstone': rolls around in anger
+[19:39:28	][IC] 'Gemstone': But yeah need an admin to spawn the chair so.
+[19:39:32	][IC] 'Gemstone': UNLESS.
+[19:39:36	][IC] 'Gemstone': You can sit anywhere.
+[19:39:41	][IC] 'Gemstone': In which case you don't.
+[19:39:44	][IC] 'Gemstone': And just need PET flags.
+[19:39:57	]'Gemstone' has fired a toolgun with the name: material
+[19:40:05	][IC] thc: You can make an auth.
+[19:40:11	][IC] 'Gemstone': To spawn chairs?
+[19:40:17	][IC] thc: Yeah.
+[19:40:18	][IC] thc: C flag.
+[19:40:27	]thc used command '/PlyGiveFlag ' c'.
+[19:40:31	][IC] 'Gemstone': Don't worry fellas.
+[19:40:38	][IC] 'Gemstone': I've been saving this for a rainy day...
+[19:40:54	][ME] 'Gemstone': presses a button on his wheelchair and like something out of transformers, it morphs into... a working vehicle
+[19:41:14	][IC] 'Gemstone': Oh.
+[19:41:18	][IC] 'Gemstone': Cant spawn them still.
+[19:41:22	]thc has spawned a 'Entity [4736][gmod_sent_vehicle_fphysics_base]'.
+[19:41:24	][IC] 'Gemstone': Unless it was just seats.
+[19:41:37	][IC] 'Gemstone': Nah.
+[19:41:39	][IC] 'Gemstone': No flags.
+[19:41:57	][IC] 'Gemstone': Can you butcher player corpses?
+[19:42:01	][IC] 'Gemstone': Asking for a friend.
+[19:42:01	]thc used command '/CharGiveFlag ' c'.
+[19:42:07	][IC] 'Gemstone': Nah.
+[19:42:09	][IC] 'Gemstone': Didnt work.
+[19:42:13	][IC] thc: Hm idk why.
+[19:42:24	][IC] 'Gemstone': Maybe it's because of the fact I could spawn a vehicle.
+[19:42:28	][IC] 'Gemstone': Probably an extra check on it.
+[19:42:39	][IC] 'Gemstone': But yeah imagine that pairing.
+[19:42:49	][IC] 'Gemstone': A vortigaunt that pushes his wheelchair bound friend around.
+[19:42:51	]thc used command '/CharGiveFlag ' C'.
+[19:42:59	][IC] 'Gemstone': Nope.
+[19:43:07	][IC] 'Gemstone': Unless I needto char switch.
+[19:43:12	]Chris loaded the character 'Dy'Turh-Dara Ahl Ormbah'
+[19:43:21	]thc ran SAM command 'bring' with arguments: 'dy'
+[19:43:29	][IC] Dy'Turh-Dara Ahl Ormbah: Nah.
+[19:43:31	]thc used command '/PlyGiveFlag Dy C'.
+[19:43:44	]thc used command '/PlyGiveFlag th T'.
+[19:43:54	][IC] Dy'Turh-Dara Ahl Ormbah: Like come on this is an ace idea.
+[19:43:58	][IC] Dy'Turh-Dara Ahl Ormbah: Make haste.
+[19:44:10	]thc has spawned a 'Entity [4771][gmod_sent_vehicle_fphysics_base]'.
+[19:44:28	][IC] Dy'Turh-Dara Ahl Ormbah: Combine are never gonna use the beach fam.
+[19:44:34	][IC] Dy'Turh-Dara Ahl Ormbah: Like realistically come on.
+[19:44:39	][IC] thc: Yeah true.
+[19:44:47	][IC] Dy'Turh-Dara Ahl Ormbah: Should see my ship base.
+[19:44:53	][IC] Dy'Turh-Dara Ahl Ormbah: Was a bullshit defence system.
+[19:44:56	][IC] Dy'Turh-Dara Ahl Ormbah: Shields?
+[19:44:59	][IC] Dy'Turh-Dara Ahl Ormbah: Not on my watch.
+[19:45:15	]thc has spawned a 'Entity [4808][gmod_sent_vehicle_fphysics_base]'.
+[19:45:21	]thc has taken 60 damage from Dy'Turh-Dara Ahl Ormbah.
+[19:45:21	][VORT] Dy'Turh-Dara Ahl Ormbah has damaged thc, dealing 60 with vortbeam
+[19:45:24	][VORT] Dy'Turh-Dara Ahl Ormbah has damaged thc, dealing 60 with vortbeam
+[19:45:27	][VORT] Dy'Turh-Dara Ahl Ormbah has damaged thc, dealing 60 with vortbeam
+[19:45:35	][VORT] Dy'Turh-Dara Ahl Ormbah has damaged thc, dealing 60 with vortbeam
+[19:45:56	]Dy'Turh-Dara Ahl Ormbah used command '/PM thc this right here made the base really good'.
+[19:46:00	]thc entered observer.
+[19:46:20	]Dy'Turh-Dara Ahl Ormbah used command '/PM thc couple of sandbags to block bullets'.
+[19:46:27	]Dy'Turh-Dara Ahl Ormbah used command '/PM thc steel floor to block bullets from below'.
+[19:46:33	]thc used command '/Reply I hope admins won't spawn a lot of weird xen creatures right there'.
+[19:46:33	]Dy'Turh-Dara Ahl Ormbah used command '/PM thc push button for the crane'.
+[19:46:41	]thc exited observer.
+[19:46:55	]Dy'Turh-Dara Ahl Ormbah used command '/PM thc I mean it's kinda weird for xen creatures to spawn on the beach if you ask me'.
+[19:47:09	]Dy'Turh-Dara Ahl Ormbah used command '/PM thc if it was up to me'.
+[19:47:15	]Dy'Turh-Dara Ahl Ormbah used command '/PM thc I'd put the smugglers on the boats'.
+[19:47:18	]thc is fully healed.
+[19:47:31	]Dy'Turh-Dara Ahl Ormbah used command '/PM thc that'd made them interesting'.
+[19:47:43	]thc entered observer.
+[19:47:44	]thc exited observer.
+[19:47:44	]thc entered observer.
+[19:47:47	]thc exited observer.
+[19:47:48	][IC] Dy'Turh-Dara Ahl Ormbah: One here would do well.
+[19:47:48	]thc is fully healed.
+[19:47:59	]thc has spawned a 'Entity [4773][ix_smuggler]'.
+[19:48:01	]thc entered observer.
+[19:48:03	]thc exited observer.
+[19:48:11	]thc has spawned a 'Entity [4801][ix_vendor]'.
+[19:48:16	]thc entered observer.
+[19:48:19	]thc exited observer.
+[19:48:29	][IC] Dy'Turh-Dara Ahl Ormbah: Make haste.
+[19:48:58	]Dy'Turh-Dara Ahl Ormbah used command '/PM thc I could be a combine advisor'.
+[19:48:58	]thc entered observer.
+[19:48:59	]thc entered observer.
+[19:49:01	]thc exited observer.
+[19:49:02	]Dy'Turh-Dara Ahl Ormbah used command '/PM thc I'd be a great advisor'.
+[19:49:02	]thc has taken 24 damage from worldspawn.
+[19:49:08	]Dy'Turh-Dara Ahl Ormbah used command '/PM thc I love getting other players to do shit'.
+[19:49:14	]thc used command '/Reply same :p'.
+[19:49:21	]thc used command '/Reply ok, I gotta go, have fun ;)'.
+[19:49:23	]thc (STEAM_0:1:709534478) has disconnected.
+[19:51:30	]Dy'Turh-Dara Ahl Ormbah has spawned 'models/props_unique/wheelchair01.mdl'.
+[19:57:49	]Chris loaded the character 'STAT TEST 1'
+[19:58:36	]STAT TEST 1 has spawned 'models/vj_hlr/decay/wheelchair.mdl'.
+[19:58:43	]STAT TEST 1 has spawned 'models/props_unique/wheelchair01.mdl'.
+[19:58:46	]STAT TEST 1 has spawned 'models/props/coop_kashbah/wheelchair/wheelchair.mdl'.
+[20:01:52	]Chris loaded the character 'VORT STAT TEST 1'
+[20:01:56	]VORT STAT TEST 1 is fully healed.
+[20:05:37	]VORT STAT TEST 1 used command '/ActSit'.
+[20:05:40	]VORT STAT TEST 1 used command '/ActSit'.
+[20:05:42	]VORT STAT TEST 1 used command '/ActSit'.
+[20:05:44	]VORT STAT TEST 1 used command '/ActSit'.
+[20:05:45	]VORT STAT TEST 1 used command '/ExitAct'.
+[20:05:46	]VORT STAT TEST 1 used command '/ActSit'.
+[20:05:50	]VORT STAT TEST 1 used command '/ActKneel'.
+[20:05:52	]VORT STAT TEST 1 used command '/ActKneel'.
+[20:05:54	]VORT STAT TEST 1 used command '/ExitAct'.
+[20:08:28	]VORT STAT TEST 1 has acquired his ration, gaining 0 credits, 0 wages and a ration ration.
+[20:08:42	]VORT STAT TEST 1 ran 'Open' on item 'Ration' (#2047169)
+[20:08:42	]VORT STAT TEST 1 has gained a 'Artificial Paste' #2047170.
+[20:08:42	]VORT STAT TEST 1 has gained a 'Breen's Water' #2047171.
+[20:08:42	]VORT STAT TEST 1 has gained a 'Basic Credits Coupon' #2047172.
+[20:08:56	]VORT STAT TEST 1 ran 'Use' on item 'Basic Credits Coupon' (#2047172)
+[20:09:07	]VORT STAT TEST 1 ran 'Consume' on item 'Breen's Water' (#2047171)
+[20:09:07	]VORT STAT TEST 1 has gained a 'Empty Breen's Water' #2047173.
+[20:09:13	]VORT STAT TEST 1 ran 'Consume' on item 'Artificial Paste' (#2047170)
+[20:09:13	]VORT STAT TEST 1 has gained a 'Empty Jar' #2047174.
+[20:10:16	]VORT STAT TEST 1 has taken 68 damage from worldspawn.
+[20:10:31	]VORT STAT TEST 1 ran 'drop' on item 'Empty Breen's Water' (#2047173)
+[20:10:31	]VORT STAT TEST 1 has lost a 'Empty Breen's Water' #2047173.
+[20:10:34	]VORT STAT TEST 1 ran 'drop' on item 'Empty Jar' (#2047174)
+[20:10:34	]VORT STAT TEST 1 has lost a 'Empty Jar' #2047174.
+[20:10:38	]VORT STAT TEST 1 ran 'take' on item 'Empty Jar' (#2047174)
+[20:10:38	]VORT STAT TEST 1 has gained a 'Empty Jar' #2047174.
+[20:10:39	]VORT STAT TEST 1 ran 'take' on item 'Empty Breen's Water' (#2047173)
+[20:10:39	]VORT STAT TEST 1 has gained a 'Empty Breen's Water' #2047173.
+[20:14:04	]VORT STAT TEST 1 has taken 1 damage from env_fire.
+[20:14:04	]VORT STAT TEST 1 has taken 1 damage from env_fire.
+[20:14:04	]VORT STAT TEST 1 has taken 1 damage from env_fire.
+[20:14:04	]VORT STAT TEST 1 was knocked unconscious and is bleeding out.
+[20:14:05	]VORT STAT TEST 1 was killed while bleeding out.
+[20:14:05	]through the fire and flames feat cardi b has killed VORT STAT TEST 1 with trigger_hurt.
+[20:20:51	]VORT STAT TEST 1 has gone afk.
+[20:26:54	]Chris created the character 'Generic Old man test'
+[20:26:54	]Chris loaded the character 'Generic Old man test'
+[20:26:54	]Generic Old man test is no longer afk. Total time spent AFK: 660
+[20:26:54	]Generic Old man test has gained a 'Light Grey Armband' #2047175.
+[20:26:54	]Generic Old man test has gained a '#79444's Identity Card' #2047176.
+[20:26:54	]Generic Old man test has gained a 'Civilian Jumpsuit' #2047177.
+[20:26:54	]Generic Old man test has gained a 'Blue Jumpsuit Trousers' #2047178.
+[20:26:54	]Generic Old man test has gained a 'Dark Leather Boots' #2047179.
+[20:26:54	]Generic Old man test has gained a 'Glasses' #2047180.
+[20:27:46	]Generic Old man test used command '/ActSit'.
+[20:27:47	]Generic Old man test used command '/ExitAct'.
+[20:27:50	]Generic Old man test used command '/ActSitChair'.
+[20:27:50	]Generic Old man test used command '/ExitAct'.
+[20:27:51	]Generic Old man test used command '/ExitAct'.
+[20:27:52	]Generic Old man test used command '/ExitAct'.
+[20:27:54	]Generic Old man test used command '/ActSitChair 2'.
+[20:27:56	]Generic Old man test used command '/ExitAct'.
+[20:28:00	]Generic Old man test used command '/ActSit 2'.
+[20:28:01	]Generic Old man test used command '/ExitAct'.
+[20:28:02	]Generic Old man test used command '/ActSit 3'.
+[20:28:05	]Generic Old man test used command '/ExitAct'.
+[20:28:06	]Generic Old man test used command '/ActSit 4'.
+[20:28:08	]Generic Old man test used command '/ExitAct'.
+[20:28:09	]Generic Old man test used command '/ActSit 5'.
+[20:28:11	]Generic Old man test used command '/ExitAct'.
+[20:28:13	]Generic Old man test used command '/ActSit 5'.
+[20:28:15	]Generic Old man test used command '/ExitAct'.
+[20:28:16	]Generic Old man test used command '/ActSit 6'.
+[20:28:18	]Generic Old man test used command '/ExitAct'.
+[20:28:20	]Generic Old man test used command '/ActSit 7'.
+[20:28:21	]Generic Old man test used command '/ExitAct'.
+[20:28:23	]Generic Old man test used command '/ActSit 8'.
+[20:28:28	]Generic Old man test used command '/ExitAct'.
+[20:28:31	]Generic Old man test used command '/ActSit 7'.
+[20:28:32	]Generic Old man test used command '/ExitAct'.
+[20:28:38	]Generic Old man test used command '/ActKnock'.
+[20:28:47	]Generic Old man test used command '/ActSit 5'.
+[20:28:49	]Generic Old man test used command '/ExitAct'.
+[20:28:51	]Generic Old man test used command '/ActSit 6'.
+[20:29:26	]Muho has connected.
+[20:30:16	]Muho loaded the character 'Johann Schnöselberg'
+[20:30:16	]Johann Schnöselberg their 'trainstation stash' stash no longer exists, location reset.
+[20:30:21	]Johann Schnöselberg is fully healed.
+[20:30:42	][IC] Johann Schnöselberg: Hi.
+[20:30:44	][IC] Generic Old man test: Hi.
+[20:30:47	]Generic Old man test used command '/ExitAct'.
+[20:31:18	][IC] Johann Schnöselberg: You got admin perms?
+[20:31:29	][IC] Generic Old man test: This old dude is gonna run 24.
+[20:31:36	][IC] Johann Schnöselberg: SHEEEEESH.
+[20:31:39	][IC] Generic Old man test: You will live and die by his word.
+[20:31:46	][IC] Generic Old man test: True story.
+[20:31:48	]Johann Schnöselberg used command '/ActStand 2'.
+[20:31:54	][IC] Generic Old man test: I really like the small idles you do when you talk.
+[20:31:58	][IC] Generic Old man test: Adds a bit of life.
+[20:31:58	]Johann Schnöselberg used command '/ExitAct'.
+[20:32:10	][IC] Johann Schnöselberg: Its cool but it freezes my animations.
+[20:32:26	][IC] Generic Old man test: Damn.
+[20:32:38	]Muho has unloaded their "Johann Schnöselberg" character.
+[20:32:51	]Muho loaded the character 'Headcrab'
+[20:32:56	]Headcrab is fully healed.
+[20:33:33	][OOC] Headcrab: test
+[20:33:37	][OOC] Generic Old man test: hey
+[20:33:44	][OOC] Headcrab: im in the city
+[20:33:58	]Chris loaded the character 'VORT STAT TEST 1'
+[20:34:28	][OOC] VORT STAT TEST 1: in plaza
+[20:34:31	][OOC] Headcrab: omw
+[20:34:54	][XEN] Headcrab: Hi hihihihihidhash ash idajs di ajsdij asmd 
+[20:35:07	]VORT STAT TEST 1 has spawned 'models/props_urban/fountain_a.mdl'.
+[20:35:23	][IC] VORT STAT TEST 1: Yeah this could work actually.
+[20:35:35	][IC] VORT STAT TEST 1: Just have it gated off because of vandalism.
+[20:35:37	][IC] VORT STAT TEST 1: Or something.
+[20:35:53	]VORT STAT TEST 1 has spawned 'models/props_c17/gate_door02a.mdl'.
+[20:36:05	]VORT STAT TEST 1 has spawned 'models/props_c17/slidinggate001.mdl'.
+[20:36:09	]VORT STAT TEST 1 has spawned 'models/props_urban/gate_wall_gate002_64.mdl'.
+[20:36:12	][IC] Headcrab: Isnt this an entrance?
+[20:36:18	][IC] VORT STAT TEST 1: No.
+[20:36:19	][IC] Headcrab: I remember it being openable.
+[20:36:20	][IC] VORT STAT TEST 1: Used to be.
+[20:36:26	][IC] VORT STAT TEST 1: But it was a grate before.
+[20:36:29	][IC] VORT STAT TEST 1: Now it's just road.
+[20:36:37	][IC] VORT STAT TEST 1: Which makes the walls kinda pointless.
+[20:36:38	][IC] VORT STAT TEST 1: HOWEVER.
+[20:36:50	][IC] VORT STAT TEST 1: It does have it's uses as a protection area.
+[20:36:56	][IC] VORT STAT TEST 1: For CCA in the city doign speeches.
+[20:37:00	][IC] Headcrab: We need couches here or something.
+[20:37:21	][IC] VORT STAT TEST 1: Brb off to administrator's desk.
+[20:37:31	][OOC] VORT STAT TEST 1: /me enters admin desk via mailbox
+[20:37:36	]VORT STAT TEST 1 used command '/ActKneel'.
+[20:37:40	]VORT STAT TEST 1 used command '/CharFallOver 3'.
+[20:37:45	][IC] Headcrab: Bro i did it on lemonpunch i think.
+[20:37:50	]VORT STAT TEST 1 used command '/ActKneel'.
+[20:37:53	]VORT STAT TEST 1 used command '/CharFallOver 3'.
+[20:38:05	][IC] Headcrab: I always sent like death threats through it haha.
+[20:38:08	]VORT STAT TEST 1 used command '/CharFallOver 3'.
+[20:38:17	]Headcrab used command '/CharFallOver'.
+[20:38:32	]Headcrab used command '/CharGetUp'.
+[20:38:33	]Headcrab used command '/CharGetUp'.
+[20:38:46	]VORT STAT TEST 1 has spawned 'models/props_junk/PopCan01a.mdl'.
+[20:39:02	]Headcrab used command '/CharFallOver'.
+[20:39:03	][IC] VORT STAT TEST 1: Yeah the trigger is all the way at the back.
+[20:39:06	]VORT STAT TEST 1 has spawned 'models/props_junk/PopCan01a.mdl'.
+[20:39:08	]Headcrab used command '/CharGetUp'.
+[20:39:10	]Headcrab was knocked unconscious and is bleeding out.
+[20:39:18	][IC] Headcrab: Wtf.
+[20:39:19	]VORT STAT TEST 1 used command '/ActSit'.
+[20:39:20	]VORT STAT TEST 1 used command '/ExitAct'.
+[20:39:26	][IC] VORT STAT TEST 1: I tried to smoosh you in.
+[20:39:28	]VORT STAT TEST 1 used command '/ActSit'.
+[20:39:32	]VORT STAT TEST 1 used command '/CharFallOver 3'.
+[20:39:46	]Headcrab was just killed due to: accepting their death
+[20:39:46	]VORT STAT TEST 1 used command '/ActSit'.
+[20:39:48	]VORT STAT TEST 1 used command '/ExitAct'.
+[20:40:04	]Chris loaded the character ''Gemstone''
+[20:40:18	][OOC] 'Gemstone': let's see chris' headcrab...
+[20:40:31	][OOC] Headcrab: wanna see a minge spot?
+[20:40:42	][OOC] 'Gemstone': whree?
+[20:40:49	][OOC] Headcrab: come plaza i will show you
+[20:41:20	]'Gemstone' has gained level 3 in the Speed skill.
+[20:42:38	][IC] Headcrab: Shit we gotta get in there.
+[20:42:47	][IC] 'Gemstone': Like my zombie?
+[20:42:52	][IC] Headcrab: Yeah.
+[20:42:57	][IC] 'Gemstone': Poison?
+[20:43:00	][IC] 'Gemstone': Miss me with that shit.
+[20:43:06	][IC] 'Gemstone': Juiced up zombie?
+[20:43:09	][IC] Headcrab: Are you tankier?
+[20:43:15	][IC] 'Gemstone': No but I mean look at me.
+[20:43:22	][IC] Headcrab: Looks dope af.
+[20:43:23	][IC] 'Gemstone': I am the next advancment of zombie.
+[20:43:23	][IC] Headcrab: Ngl.
+[20:43:38	][IC] 'Gemstone': I eat people with my chest.
+[20:43:44	][IC] 'Gemstone': Store meat and stuff.
+[20:43:51	][IC] Headcrab: Are you allowed to roam the sewers with it?
+[20:43:54	][IC] 'Gemstone': With 50 stats and a sledgehammer I do 105 dmg.
+[20:44:00	][IC] 'Gemstone': On a head crit.
+[20:44:14	][IC] 'Gemstone': Did like 42 with a normal attack bodyshot.
+[20:44:23	][IC] 'Gemstone': I mean dont see why not.
+[20:44:26	][IC] 'Gemstone': So long as I play fair.
+[20:44:29	][IC] Headcrab: Cool think is melee ignores armor.
+[20:44:32	][IC] Headcrab: Thing.
+[20:44:33	][IC] 'Gemstone': You could probably get any xen creature.
+[20:44:39	][IC] 'Gemstone': Within reason that is.
+[20:45:11	][IC] Headcrab: Lets ask admin for better ranks.
+[20:45:16	][IC] Headcrab: I want to spawn stuff.
+[20:45:21	][IC] 'Gemstone': Nah.
+[20:45:41	][IC] 'Gemstone': Door's open.
+[20:46:22	]Headcrab has taken 30 damage from worldspawn.
+[20:46:34	]Muho has unloaded their "Headcrab" character.
+[20:47:25	]Muho created the character 'asdasd asdawrff'
+[20:47:25	]Muho loaded the character 'asdasd asdawrff'
+[20:47:25	]asdasd asdawrff has gained a 'Suitcase' #2047181.
+[20:47:25	]asdasd asdawrff has gained a 'Flashlight' #2047182.
+[20:47:25	]asdasd asdawrff has gained a 'Light Grey Armband' #2047183.
+[20:47:25	]asdasd asdawrff has gained a '#23378's Identity Card' #2047184.
+[20:47:35	][OOC] 'Gemstone': guess windows dont break
+[20:47:41	][OOC] asdasd asdawrff: some only
+[20:48:13	][OOC] 'Gemstone': trash should appear in the cities next to trash cans
+[20:48:37	][OOC] 'Gemstone': also people if they wanna level guns
+[20:48:44	][OOC] 'Gemstone': why not set up cans and shoot them instead?
+[20:49:03	][OOC] asdasd asdawrff: does that even level?
+[20:49:11	][OOC] 'Gemstone': vort beam levels per shot
+[20:49:29	]'Gemstone' used command '/CharDesc'.
+[20:49:48	]'Gemstone' used command '/PrintStaffList'.
+[20:49:52	]'Gemstone' has taken 0 damage from worldspawn.
+[20:49:54	]'Gemstone' is fully healed.
+[20:51:25	]asdasd asdawrff has taken 5 damage from trigger_hurt.
+[20:51:25	]asdasd asdawrff has taken 5 damage from trigger_hurt.
+[20:51:29	][OOC] 'Gemstone': make a improved EMP device
+[20:51:38	][OOC] 'Gemstone': then I can give resonance his gun
+[20:51:38	][OOC] asdasd asdawrff: someone can do it already
+[20:51:49	][OOC] asdasd asdawrff: i think Liz 
+[20:51:55	][OOC] asdasd asdawrff: the one we invited yk
+[20:52:01	][OOC] 'Gemstone': / yeah
+[20:52:40	]asdasd asdawrff has taken 1 damage from worldspawn.
+[20:53:49	][OOC] 'Gemstone': am I missing something or do you only need 40 in crafting?
+[20:53:58	][OOC] 'Gemstone': in general that is
+[20:54:15	][OOC] 'Gemstone': cant see any craftable guns like
+[20:54:23	][OOC] asdasd asdawrff: yeah you need auth for guns
+[20:54:31	][OOC] 'Gemstone': oh so it's a flag?
+[20:54:33	][OOC] asdasd asdawrff: since the black market dealers are doing big guns
+[20:54:43	][OOC] 'Gemstone': cringe
+[20:54:44	][OOC] asdasd asdawrff: that is what i want to do with my char
+[20:54:54	][OOC] 'Gemstone': maybe I should make a loyalist character
+[20:54:56	][OOC] asdasd asdawrff: you can only build 2 or 3 things with 50
+[20:55:05	][OOC] 'Gemstone': but I mean idk where to even start on this map to get known
+[20:55:13	][OOC] 'Gemstone': can make a safe
+[20:55:23	][OOC] 'Gemstone': and a combine lock breaker
+[20:55:27	][OOC] 'Gemstone': / but since vorts exist
+[20:55:29	][OOC] 'Gemstone': eh
+[20:55:50	][OOC] asdasd asdawrff: on this map its super easy to rescue a vort i feel like
+[20:56:07	][OOC] 'Gemstone': I do have a foolproof plan that literally cannot fail
+[20:56:18	][OOC] 'Gemstone': only way to die is if they metagame
+[20:56:21	][OOC] asdasd asdawrff: we could try for funsies
+[20:56:25	]Lucaa has connected.
+[20:56:40	][OOC] 'Gemstone': smuggling seems prety low in terms of skil required
+[20:56:47	][OOC] asdasd asdawrff: only 20 
+[20:56:54	][OOC] 'Gemstone': yeah what the hell
+[20:56:54	][OOC] asdasd asdawrff: you can make bank with it if you know how
+[20:57:06	][OOC] 'Gemstone': I imagine crafting up shitty stuff into high tier stuff
+[20:57:07	][OOC] asdasd asdawrff: i make like 3k in a day
+[20:57:10	]'Gemstone' has gained level 4 in the Speed skill.
+[20:57:21	][OOC] asdasd asdawrff: leveling smuggling is impossible
+[20:57:25	][OOC] 'Gemstone': but the smugglers only have a set inventory
+[20:57:29	][OOC] 'Gemstone': why's that?
+[20:57:36	][OOC] asdasd asdawrff: yeah you need lvl 20 to sell certain items
+[20:57:42	][OOC] asdasd asdawrff: to make chips faster
+[20:57:46	][OOC] 'Gemstone': yeah I mean
+[20:57:56	][OOC] 'Gemstone': just literally buy ingredients to make food to boost you to 20 lmao
+[20:57:58	][OOC] asdasd asdawrff: you get almost no xp
+[20:58:18	]'Gemstone' has taken 7 damage from worldspawn.
+[20:58:19	]'Gemstone' is fully healed.
+[20:58:58	][OOC] 'Gemstone': soda bob dark
+[20:59:01	][OOC] 'Gemstone': that gives 4 agility
+[20:59:26	]Chris loaded the character 'VORT STAT TEST 1'
+[20:59:54	][OOC] VORT STAT TEST 1: like I put 5 points into perception
+[21:00:05	][OOC] VORT STAT TEST 1: so I get 10 on my cooking and 5 on my smuggling for free
+[21:00:10	]Lucaa loaded the character 'Elisa Amato'
+[21:00:15	]Elisa Amato is fully healed.
+[21:00:21	][OOC] VORT STAT TEST 1: I drink a dark soda bob for 4 agility boost
+[21:00:31	][OOC] VORT STAT TEST 1: now you're at 13
+[21:00:48	][OOC] asdasd asdawrff: pills are really easy to get
+[21:00:50	][OOC] VORT STAT TEST 1: if you pour most of your starting stats into smuggling you'd be good
+[21:00:55	][OOC] VORT STAT TEST 1: or yeah even pills
+[21:01:09	][OOC] VORT STAT TEST 1: thats why everyone bandages like a motherfucker about to die isnt it
+[21:01:12	][OOC] VORT STAT TEST 1: to farm levels
+[21:01:21	][ME] asdasd asdawrff: Knocks the person out with only 1 punch, her head explodes
+[21:01:24	][LOOC] Elisa Amato: hay 
+[21:01:26	]Elisa Amato has taken 5 damage from asdasd asdawrff.
+[21:01:26	]asdasd asdawrff has damaged Elisa Amato, dealing 5 with ix_hands
+[21:01:28	][ME] Elisa Amato: dies.
+[21:01:48	]Muho has unloaded their "asdasd asdawrff" character.
+[21:02:03	]Muho loaded the character 'Johann Schnöselberg'
+[21:02:18	][OOC] VORT STAT TEST 1: I mean green pills would be a good bet too
+[21:02:33	]Console ran SAM command 'setrank' with arguments: 'johann' 'gamemaster'
+[21:02:54	][OOC] VORT STAT TEST 1: 7 agility assuming you had zero if you combined it with the dark bob soda
+[21:03:03	][OOC] VORT STAT TEST 1: so 14 in the skill for free
+[21:03:06	][OOC] Elisa Amato: hey boyz
+[21:03:12	][OOC] VORT STAT TEST 1: hey
+[21:03:13	]Console ran SAM command 'setrank' with arguments: 'elisa' 'gamemaster'
+[21:03:17	][OOC] VORT STAT TEST 1: discussing how cooking is Op
+[21:03:18	]Elisa Amato entered observer.
+[21:03:18	]Elisa Amato exited observer.
+[21:03:24	][OOC] VORT STAT TEST 1: as is medicine to a lesser extent
+[21:04:01	]M!NT has connected.
+[21:04:18	][OOC] VORT STAT TEST 1: do food boosts stack/
+[21:04:27	][OOC] VORT STAT TEST 1: say if I drank a soda that gave 4 agility
+[21:04:33	][OOC] VORT STAT TEST 1: then a coffee that gave 2
+[21:04:37	][OOC] Johann Schnöselberg: admins want to test something if you want come discord
+[21:04:41	]M!NT loaded the character 'Adalia Torres'
+[21:04:41	][OOC] VORT STAT TEST 1: would that total for 6 when its call done
+[21:04:41	]Johann Schnöselberg entered observer.
+[21:04:42	]Johann Schnöselberg exited observer at their location.
+[21:04:44	]Johann Schnöselberg entered observer.
+[21:04:45	][OOC] Elisa Amato: yuh
+[21:04:46	]Adalia Torres is fully healed.
+[21:04:50	]Adalia Torres entered observer.
+[21:04:51	]Elisa Amato entered observer.
+[21:04:52	]Johann Schnöselberg exited observer at their location.
+[21:04:53	]Johann Schnöselberg entered observer.
+[21:04:53	]Elisa Amato exited observer.
+[21:04:54	]Elisa Amato entered observer.
+[21:04:56	]Johann Schnöselberg exited observer at their location.
+[21:04:57	]Elisa Amato exited observer.
+[21:05:01	]Adalia Torres ran SAM command 'goto' with arguments: 'elisa'
+[21:05:02	]Adalia Torres exited observer at their location.
+[21:05:13	]Adalia Torres has given himself a wn_zip_tie.
+[21:05:13	]Adalia Torres has gained a 'Zip-Tie' #2047185.
+[21:05:15	]Adalia Torres has given himself a wn_zip_tie.
+[21:05:15	]Adalia Torres has gained a 'Zip-Tie' #2047186.
+[21:05:20	]Adalia Torres has given himself a wn_bag.
+[21:05:20	]Adalia Torres has gained a 'Draw String Canvas Bag' #2047187.
+[21:05:23	][OOC] VORT STAT TEST 1: im chrono on discord
+[21:05:23	]Adalia Torres ran 'Use' on item 'Zip-Tie' (#2047185)
+[21:05:33	]Adalia Torres ran 'Use' on item 'Draw String Canvas Bag' (#2046418)
+[21:06:50	][ME] Elisa Amato: salutes
+[21:07:01	]Chris loaded the character 'Dy'Turh-Dara Ahl Ormbah'
+[21:07:03	]Elisa Amato used command '/CharFallOver'.
+[21:07:22	]Elisa Amato used command '/CharGetUp'.
+[21:08:11	]Johann Schnöselberg has spawned a torso_green_kevlar_t3.
+[21:08:12	]Johann Schnöselberg ran 'take' on item 'Heavy Kevlar Uniform' (#2047188)
+[21:08:12	]Johann Schnöselberg has gained a 'Heavy Kevlar Uniform' #2047188.
+[21:08:23	]Johann Schnöselberg has spawned a torso_blue_kevlar.
+[21:08:24	]Johann Schnöselberg ran 'take' on item 'Blue Light Kevlar Uniform' (#2047189)
+[21:08:24	]Johann Schnöselberg has gained a 'Blue Light Kevlar Uniform' #2047189.
+[21:08:26	]Johann Schnöselberg has spawned a torso_medical_kevlar.
+[21:08:28	]Chris loaded the character 'STAT TEST 1'
+[21:08:28	]Johann Schnöselberg ran 'take' on item 'Medical Light Kevlar Uniform' (#2047190)
+[21:08:28	]Johann Schnöselberg has gained a 'Medical Light Kevlar Uniform' #2047190.
+[21:08:38	]Johann Schnöselberg has spawned a torso_medical_kevlar.
+[21:08:39	]Johann Schnöselberg has spawned a torso_blue_kevlar.
+[21:09:36	]Adalia Torres used command '/ForceCharFallover elisa 10'.
+[21:09:51	]Adalia Torres used command '/ForceCharFallover elisa 1'.
+[21:09:55	]Adalia Torres used command '/ForceCharFallover elisa 1'.
+[21:09:55	]Johann Schnöselberg ran 'take' on item 'Blue Light Kevlar Uniform' (#2047192)
+[21:09:55	]Johann Schnöselberg has gained a 'Blue Light Kevlar Uniform' #2047192.
+[21:09:56	]Johann Schnöselberg ran 'take' on item 'Medical Light Kevlar Uniform' (#2047191)
+[21:09:56	]Johann Schnöselberg has gained a 'Medical Light Kevlar Uniform' #2047191.
+[21:10:01	]Adalia Torres used command '/ForceCharFallover elisa 2'.
+[21:10:17	]Adalia Torres entered observer.
+[21:10:21	]Adalia Torres exited observer at their location.
+[21:10:22	]Adalia Torres entered observer.
+[21:10:23	]Adalia Torres exited observer at their location.
+[21:10:27	]Adalia Torres entered observer.
+[21:10:28	]Adalia Torres exited observer at their location.
+[21:10:44	]STAT TEST 1 used command '/CharSearch'.
+[21:10:56	]STAT TEST 1 used command '/CharSearch'.
+[21:10:58	]STAT TEST 1 used command '/CharSearch'.
+[21:10:59	]STAT TEST 1 used command '/CharSearch'.
+[21:11:02	]STAT TEST 1 used command '/CharSearch'.
+[21:11:06	]Adalia Torres used command '/CharGiveItem elisa wn_ziptie 1'.
+[21:11:13	]Adalia Torres used command '/CharGiveItem elisa wn_bag 1'.
+[21:11:13	]Elisa Amato has gained a 'Draw String Canvas Bag' #2047193.
+[21:11:18	]Adalia Torres used command '/CharGiveItem elisa wn_zip_tie 1'.
+[21:11:18	]Elisa Amato has gained a 'Zip-Tie' #2047194.
+[21:11:22	]Elisa Amato ran 'Use' on item 'Zip-Tie' (#2047194)
+[21:11:38	]Elisa Amato ran 'Use' on item 'Draw String Canvas Bag' (#2047193)
+[21:11:44	]Johann Schnöselberg has spawned a ic_cryogenic_liquid.
+[21:11:45	]Elisa Amato entered observer.
+[21:11:58	]Johann Schnöselberg has fired a toolgun with the name: remover
+[21:11:59	]Elisa Amato exited observer.
+[21:12:02	][IC] Adalia Torres: Hi.
+[21:12:07	]Elisa Amato entered observer.
+[21:12:09	]Elisa Amato exited observer.
+[21:12:26	]Adalia Torres used command '/RemoveHeadBag'.
+[21:12:30	]Adalia Torres used command '/RemoveHeadBagSelf'.
+[21:12:50	]Adalia Torres used command '/CharGiveItem elisa wn_zip_tie 1'.
+[21:12:50	]Elisa Amato has gained a 'Zip-Tie' #2047196.
+[21:12:52	]Adalia Torres used command '/CharGiveItem elisa wn_bag 1'.
+[21:12:52	]Elisa Amato has gained a 'Draw String Canvas Bag' #2047197.
+[21:12:53	]Elisa Amato ran 'Use' on item 'Zip-Tie' (#2047196)
+[21:13:00	]Elisa Amato ran 'Use' on item 'Draw String Canvas Bag' (#2047197)
+[21:13:14	]Adalia Torres used command '/CharGiveItem elisa wn_bag 1'.
+[21:13:14	]Elisa Amato has gained a 'Draw String Canvas Bag' #2047198.
+[21:13:19	]Elisa Amato ran 'Use' on item 'Draw String Canvas Bag' (#2047198)
+[21:13:28	]Muho has unloaded their "Johann Schnöselberg" character.
+[21:13:47	]STAT TEST 1 used command '/RemoveHeadBag'.
+[21:13:48	]Muho loaded the character 'Headcrab'
+[21:14:06	]Adalia Torres entered observer.
+[21:14:12	]Chris loaded the character 'VORT STAT TEST 1'
+[21:14:13	]Muho loaded the character 'asdasd asdawrff'
+[21:14:17	]Adalia Torres exited observer at their location.
+[21:14:18	]Adalia Torres ran SAM command 'bring' with arguments: 'vort'
+[21:14:28	]Adalia Torres ran 'Use' on item 'Zip-Tie' (#2047186)
+[21:14:41	]Adalia Torres ran 'Use' on item 'Draw String Canvas Bag' (#2047187)
+[21:14:53	]Adalia Torres entered observer.
+[21:14:56	]Adalia Torres exited observer at their location.
+[21:15:07	]VORT STAT TEST 1 used command '/RemoveHeadBagSelf'.
+[21:15:17	][IC] Elisa Amato: Hi.
+[21:15:25	]Adalia Torres entered observer.
+[21:15:26	]Adalia Torres exited observer at their location.
+[21:15:27	]Adalia Torres entered observer.
+[21:15:36	]Adalia Torres exited observer at their location.
+[21:15:38	]Adalia Torres entered observer.
+[21:15:43	]Adalia Torres exited observer at their location.
+[21:15:47	]Adalia Torres used command '/CharGiveItem elisa wn_zip_tie 1'.
+[21:15:47	]Elisa Amato has gained a 'Zip-Tie' #2047199.
+[21:15:51	]Adalia Torres used command '/CharGiveItem elisa wn_bag 1'.
+[21:15:51	]Elisa Amato has gained a 'Draw String Canvas Bag' #2047200.
+[21:15:51	][IC] VORT STAT TEST 1: Galunga.
+[21:15:56	]Elisa Amato ran 'Use' on item 'Zip-Tie' (#2047199)
+[21:16:02	]Elisa Amato ran 'Use' on item 'Draw String Canvas Bag' (#2047200)
+[21:16:10	][IC] Elisa Amato: Shut up.
+[21:16:12	][IC] asdasd asdawrff: Gal-unga.
+[21:16:16	][IC] Elisa Amato: Galunga.
+[21:16:24	]Elisa Amato entered observer.
+[21:16:28	]Elisa Amato exited observer.
+[21:16:29	]Elisa Amato entered observer.
+[21:16:30	]Elisa Amato exited observer.
+[21:16:40	]M!NT (STEAM_0:1:120751263) has disconnected.
+[21:17:23	][IC] asdasd asdawrff: [ERROR] gamemodes/ixhl2rp/plugins/better_zip_ties/cl_plugin.lua:417: attempt to index field 'bagEnt' (a nil value)  1. CheckBaggedEntList - gamemodes/ixhl2rp/plugins/better_zip_ties/cl_plugin.lua:417   2. Unknown - gamemodes/ixhl2rp/plugins/better_zip_ties.
+[21:17:34	]Muho has unloaded their "asdasd asdawrff" character.
+[21:17:44	]Muho loaded the character 'Johann Schnöselberg'
+[21:18:15	]Elisa Amato has spawned a rave.
+[21:18:26	]VORT STAT TEST 1 ran 'take' on item 'RAVE' (#2047201)
+[21:18:26	]VORT STAT TEST 1 has gained a 'RAVE' #2047201.
+[21:18:30	]VORT STAT TEST 1 ran 'Consume' on item 'RAVE' (#2047201)
+[21:18:30	]VORT STAT TEST 1 has gained a level 5 short boost in Strength.
+[21:18:31	][IC] Johann Schnöselberg: A.
+[21:18:54	]Elisa Amato has spawned a drug_bobmix.
+[21:19:01	]Elisa Amato has spawned a drug_sunshinevodka.
+[21:19:01	]Johann Schnöselberg ran 'take' on item 'Bob's Trail Mix' (#2047202)
+[21:19:01	]Johann Schnöselberg has gained a 'Bob's Trail Mix' #2047202.
+[21:19:04	]Johann Schnöselberg ran 'use' on item 'Bob's Trail Mix' (#2047202)
+[21:19:04	]Johann Schnöselberg has gained a level 3 short boost in Strength.
+[21:19:04	]Johann Schnöselberg has gained a level 5 short boost in Agility.
+[21:19:04	]Johann Schnöselberg has gained a level -5 short boost in Intelligence.
+[21:19:04	]Johann Schnöselberg has gained a level 5 short boost in Perception.
+[21:19:04	]Johann Schnöselberg has gained a 'Empty Bob Water' #2047204.
+[21:19:05	]VORT STAT TEST 1 ran 'take' on item 'Sunshine Vodka' (#2047203)
+[21:19:05	]VORT STAT TEST 1 has gained a 'Sunshine Vodka' #2047203.
+[21:19:06	]Elisa Amato has spawned a drug_darkshot.
+[21:19:08	]Johann Schnöselberg ran 'take' on item 'Dark Shot' (#2047205)
+[21:19:08	]Johann Schnöselberg has gained a 'Dark Shot' #2047205.
+[21:19:10	]Johann Schnöselberg ran 'use' on item 'Dark Shot' (#2047205)
+[21:19:10	]Johann Schnöselberg has gained a level 6 short boost in Strength.
+[21:19:10	]Johann Schnöselberg has gained a level 6 short boost in Agility.
+[21:19:10	]Johann Schnöselberg has wasted a level -5 short boost in Perception (current: 1; target: 5).
+[21:19:10	]VORT STAT TEST 1 ran 'Consume' on item 'Sunshine Vodka' (#2047203)
+[21:19:10	]VORT STAT TEST 1 has gained a level 3 long boost in Strength.
+[21:19:10	]VORT STAT TEST 1 has gained a level 3 long boost in Agility.
+[21:19:10	]VORT STAT TEST 1 has gained a level -3 long boost in Intelligence.
+[21:19:10	]Johann Schnöselberg has gained a 'Empty Jar' #2047206.
+[21:19:10	]VORT STAT TEST 1 has gained a 'Empty Vodka Bottle' #2047207.
+[21:19:14	]Elisa Amato has spawned a drug_milkyway.
+[21:19:16	]Johann Schnöselberg ran 'take' on item 'The Milky Way' (#2047208)
+[21:19:16	]Johann Schnöselberg has gained a 'The Milky Way' #2047208.
+[21:19:18	]Johann Schnöselberg ran 'Consume' on item 'The Milky Way' (#2047208)
+[21:19:18	]Johann Schnöselberg has gained a level -3 long boost in Strength.
+[21:19:18	]Johann Schnöselberg has gained a level -3 long boost in Agility.
+[21:19:18	]Johann Schnöselberg has gained a level 4 long boost in Intelligence.
+[21:19:18	]Johann Schnöselberg has gained a level 4 long boost in Perception.
+[21:19:18	]Johann Schnöselberg has gained a 'Empty milk carton' #2047209.
+[21:19:18	]Elisa Amato has spawned a drug_milkyway.
+[21:19:22	]Johann Schnöselberg ran 'drop' on item 'Empty milk carton' (#2047209)
+[21:19:22	]Johann Schnöselberg has lost a 'Empty milk carton' #2047209.
+[21:19:24	]Johann Schnöselberg ran 'take' on item 'Empty milk carton' (#2047209)
+[21:19:24	]Johann Schnöselberg has gained a 'Empty milk carton' #2047209.
+[21:19:27	]Johann Schnöselberg ran 'drop' on item 'Empty milk carton' (#2047209)
+[21:19:27	]Johann Schnöselberg has lost a 'Empty milk carton' #2047209.
+[21:19:30	]Elisa Amato is fully healed.
+[21:19:44	]Elisa Amato ran 'Consume' on item 'The Milky Way' (#2047210)
+[21:19:44	]Elisa Amato has gained a level -3 long boost in Strength.
+[21:19:44	]Elisa Amato has gained a level -3 long boost in Agility.
+[21:19:44	]Elisa Amato has gained a level 4 long boost in Intelligence.
+[21:19:44	]Elisa Amato has gained a level 4 long boost in Perception.
+[21:19:44	]Elisa Amato has gained a 'Empty milk carton' #2047211.
+[21:19:48	]VORT STAT TEST 1 ran 'take' on item 'Empty milk carton' (#2047209)
+[21:19:48	]VORT STAT TEST 1 has gained a 'Empty milk carton' #2047209.
+[21:19:51	]Elisa Amato has spawned a drug_milkyway.
+[21:19:51	]VORT STAT TEST 1 ran 'drop' on item 'Empty milk carton' (#2047209)
+[21:19:51	]VORT STAT TEST 1 has lost a 'Empty milk carton' #2047209.
+[21:19:52	]VORT STAT TEST 1 ran 'drop' on item 'Empty Vodka Bottle' (#2047207)
+[21:19:52	]VORT STAT TEST 1 has lost a 'Empty Vodka Bottle' #2047207.
+[21:19:57	]VORT STAT TEST 1 ran 'take' on item 'The Milky Way' (#2047212)
+[21:19:57	]VORT STAT TEST 1 has gained a 'The Milky Way' #2047212.
+[21:20:00	]Elisa Amato has spawned a drug_ozz.
+[21:20:04	]Elisa Amato has spawned a drug_thirdeye.
+[21:20:07	]VORT STAT TEST 1 ran 'Consume' on item 'The Milky Way' (#2047212)
+[21:20:07	]VORT STAT TEST 1 has wasted a level -3 long boost in Strength (current: 0; target: 3).
+[21:20:07	]VORT STAT TEST 1 has wasted a level -3 long boost in Agility (current: 0; target: 3).
+[21:20:07	]VORT STAT TEST 1 has gained a level 4 long boost in Intelligence.
+[21:20:07	]VORT STAT TEST 1 has gained a level 4 long boost in Perception.
+[21:20:07	]VORT STAT TEST 1 has gained a 'Empty milk carton' #2047215.
+[21:20:11	]VORT STAT TEST 1 ran 'take' on item 'Ozz's Potion' (#2047213)
+[21:20:11	]VORT STAT TEST 1 has gained a 'Ozz's Potion' #2047213.
+[21:20:13	]Elisa Amato has spawned a drug_thirdeye.
+[21:20:13	]VORT STAT TEST 1 ran 'use' on item 'Ozz's Potion' (#2047213)
+[21:20:13	]VORT STAT TEST 1 has updated their Strength short boost target to -3 (current : 5).
+[21:20:13	]VORT STAT TEST 1 has gained a level -3 short boost in Agility.
+[21:20:13	]VORT STAT TEST 1 has gained a level 5 short boost in Intelligence.
+[21:20:13	]VORT STAT TEST 1 has gained a level 5 short boost in Perception.
+[21:20:13	]VORT STAT TEST 1 has gained a 'Empty Brown Bottle' #2047217.
+[21:20:15	]Elisa Amato ran 'use' on item 'The Third Eye' (#2047216)
+[21:20:15	]Elisa Amato has gained a level -3 short boost in Strength.
+[21:20:15	]Elisa Amato has gained a level -3 short boost in Agility.
+[21:20:15	]Elisa Amato has gained a level 6 short boost in Intelligence.
+[21:20:15	]Elisa Amato has gained a level 6 short boost in Perception.
+[21:20:15	]Elisa Amato has gained a 'Syringe' #2047218.
+[21:20:25	]Elisa Amato has spawned a drug_darkshot.
+[21:20:48	]Elisa Amato has spawned a drug_amph_a.
+[21:20:58	]Johann Schnöselberg ran 'Consume' on item 'CLASS A Amphetamine' (#2047220)
+[21:20:58	]Johann Schnöselberg has gained a level 6 long boost in Strength.
+[21:20:58	]Johann Schnöselberg has gained a level 4 long boost in Agility.
+[21:20:58	]Johann Schnöselberg has wasted a level -4 long boost in Intelligence (current: 1; target: 4).
+[21:20:58	]Johann Schnöselberg has gained a level 5 long boost in Perception.
+[21:20:58	]Johann Schnöselberg has gained a 'Syringe' #2047221.
+[21:21:01	]Elisa Amato has spawned a drug_amph_a.
+[21:21:44	]Elisa Amato ran 'Consume' on item 'CLASS A Amphetamine' (#2047222)
+[21:21:44	]Elisa Amato has gained a level 6 long boost in Strength.
+[21:21:44	]Elisa Amato has gained a level 4 long boost in Agility.
+[21:21:44	]Elisa Amato has wasted a level -4 long boost in Intelligence (current: 0; target: 4).
+[21:21:44	]Elisa Amato has gained a level 5 long boost in Perception.
+[21:21:44	]Elisa Amato has gained a 'Syringe' #2047223.
+[21:21:52	]Elisa Amato has spawned a drug_amph_a.
+[21:22:02	]VORT STAT TEST 1 ran 'take' on item 'CLASS A Amphetamine' (#2047224)
+[21:22:02	]VORT STAT TEST 1 has gained a 'CLASS A Amphetamine' #2047224.
+[21:22:04	]VORT STAT TEST 1 ran 'Consume' on item 'CLASS A Amphetamine' (#2047224)
+[21:22:04	]VORT STAT TEST 1 has gained a level 6 long boost in Strength.
+[21:22:04	]VORT STAT TEST 1 has gained a level 4 long boost in Agility.
+[21:22:04	]VORT STAT TEST 1 has wasted a level -4 long boost in Intelligence (current: 0; target: 4).
+[21:22:04	]VORT STAT TEST 1 has gained a level 5 long boost in Perception.
+[21:22:04	]VORT STAT TEST 1 has gained a 'Syringe' #2047225.
+[21:22:18	]Elisa Amato used command '/ActCheer'.
+[21:22:36	]VORT STAT TEST 1 ran 'drop' on item 'Empty Brown Bottle' (#2047217)
+[21:22:36	]VORT STAT TEST 1 has lost a 'Empty Brown Bottle' #2047217.
+[21:22:37	]VORT STAT TEST 1 ran 'drop' on item 'Syringe' (#2047225)
+[21:22:37	]VORT STAT TEST 1 has lost a 'Syringe' #2047225.
+[21:22:38	]VORT STAT TEST 1 ran 'drop' on item 'Empty milk carton' (#2047215)
+[21:22:38	]VORT STAT TEST 1 has lost a 'Empty milk carton' #2047215.
+[21:22:38	]Elisa Amato has spawned a drug_ozz.
+[21:22:40	]Elisa Amato ran 'use' on item 'Ozz's Potion' (#2047226)
+[21:22:40	]Elisa Amato has wasted a level -3 short boost in Strength (current: -3; target: 0).
+[21:22:40	]Elisa Amato has wasted a level -3 short boost in Agility (current: -3; target: 0).
+[21:22:40	]Elisa Amato has updated their Intelligence short boost target to 5 (current : 6).
+[21:22:40	]Elisa Amato has updated their Perception short boost target to 5 (current : 6).
+[21:22:40	]Elisa Amato has gained a 'Empty Brown Bottle' #2047227.
+[21:23:07	]Elisa Amato used command '/RemoveDrugEffects Elisa'.
+[21:23:15	]Elisa Amato has spawned a drug_ozz.
+[21:23:17	]Elisa Amato ran 'use' on item 'Ozz's Potion' (#2047228)
+[21:23:17	]Elisa Amato has wasted a level -3 short boost in Strength (current: -3; target: 0).
+[21:23:17	]Elisa Amato has wasted a level -3 short boost in Agility (current: -3; target: 0).
+[21:23:17	]Elisa Amato has updated their Intelligence short boost target to 5 (current : 6).
+[21:23:17	]Elisa Amato has updated their Perception short boost target to 5 (current : 6).
+[21:23:17	]Elisa Amato has gained a 'Empty Brown Bottle' #2047229.
+[21:23:45	]Elisa Amato used command '/RemoveDrugEffects stat'.
+[21:23:56	]Elisa Amato used command '/RemoveDrugEffects johann'.
+[21:24:01	]Elisa Amato has spawned a drug_ozz.
+[21:24:03	]VORT STAT TEST 1 ran 'use' on item 'Ozz's Potion' (#2047230)
+[21:24:03	]VORT STAT TEST 1 has updated their Strength short boost target to -3 (current : 5).
+[21:24:03	]VORT STAT TEST 1 has wasted a level -3 short boost in Agility (current: -3; target: 0).
+[21:24:03	]VORT STAT TEST 1 extended their level 5 short boost in Intelligence.
+[21:24:03	]VORT STAT TEST 1 extended their level 5 short boost in Perception.
+[21:24:03	]VORT STAT TEST 1 has gained a 'Empty Brown Bottle' #2047231.
+[21:24:21	]VORT STAT TEST 1 ran 'drop' on item 'Empty Brown Bottle' (#2047231)
+[21:24:21	]VORT STAT TEST 1 has lost a 'Empty Brown Bottle' #2047231.
+[21:24:23	]Johann Schnöselberg ran 'take' on item 'Dark Shot' (#2047219)
+[21:24:23	]Johann Schnöselberg has gained a 'Dark Shot' #2047219.
+[21:24:25	]Johann Schnöselberg ran 'take' on item 'Syringe' (#2047225)
+[21:24:25	]Johann Schnöselberg has gained a 'Syringe' #2047225.
+[21:24:26	]Elisa Amato used command '/RemoveDrugEffects stat'.
+[21:24:46	]Elisa Amato used command '/RemoveDrugEffects elisa'.
+[21:24:49	]Elisa Amato has spawned a drug_xp.
+[21:24:51	]VORT STAT TEST 1 ran 'take' on item 'XP' (#2047232)
+[21:24:51	]VORT STAT TEST 1 has gained a 'XP' #2047232.
+[21:24:54	]Elisa Amato has spawned a drug_xp.
+[21:24:55	]Elisa Amato ran 'use' on item 'XP' (#2047233)
+[21:24:55	]Elisa Amato has gained a level 6 short boost in Strength.
+[21:24:55	]Elisa Amato has gained a level 6 short boost in Agility.
+[21:24:55	]Elisa Amato extended their level 6 short boost in Intelligence.
+[21:24:55	]Elisa Amato extended their level 6 short boost in Perception.
+[21:24:55	]Elisa Amato has gained a 'Empty Brown Bottle' #2047234.
+[21:24:59	]VORT STAT TEST 1 ran 'use' on item 'XP' (#2047232)
+[21:24:59	]VORT STAT TEST 1 has gained a level 6 short boost in Strength.
+[21:24:59	]VORT STAT TEST 1 has gained a level 6 short boost in Agility.
+[21:24:59	]VORT STAT TEST 1 has gained a level 6 short boost in Intelligence.
+[21:24:59	]VORT STAT TEST 1 has gained a level 6 short boost in Perception.
+[21:24:59	]VORT STAT TEST 1 has gained a 'Empty Brown Bottle' #2047235.
+[21:25:02	]Elisa Amato rolled 3 out of 20 (+2 from Strength).
+[21:25:02	]Elisa Amato used command '/Roll strength'.
+[21:25:12	]VORT STAT TEST 1 rolled 18 out of 20 (+0 from Strength).
+[21:25:12	]VORT STAT TEST 1 used command '/Roll strength'.
+[21:25:15	]Elisa Amato has spawned a drug_xp.
+[21:25:22	]VORT STAT TEST 1 ran 'drop' on item 'Empty Brown Bottle' (#2047235)
+[21:25:22	]VORT STAT TEST 1 has lost a 'Empty Brown Bottle' #2047235.
+[21:25:27	]Johann Schnöselberg ran 'take' on item 'XP' (#2047236)
+[21:25:27	]Johann Schnöselberg has gained a 'XP' #2047236.
+[21:25:28	]Elisa Amato has spawned a drug_proteinkiller.
+[21:25:54	]Elisa Amato used command '/ActCheer'.
+[21:26:22	]Elisa Amato used command '/CharGiveFlag johann gamemaster'.
+[21:26:53	]Elisa Amato used command '/CharGiveFlag johann gamemaster'.
+[21:26:59	]Elisa Amato entered observer.
+[21:27:02	]Elisa Amato exited observer.
+[21:27:40	]VORT STAT TEST 1 used command '/EnterMeditation'.
+[21:27:44	]VORT STAT TEST 1 used command '/ActIdle'.
+[21:27:59	]Elisa Amato has spawned a akm.
+[21:28:01	]Elisa Amato ran 'take' on item 'AKM' (#2047238)
+[21:28:01	]Johann Schnöselberg ran 'take' on item 'AKM' (#2047238)
+[21:28:02	]Johann Schnöselberg ran 'take' on item 'AKM' (#2047238)
+[21:28:09	]Johann Schnöselberg ran 'drop' on item 'Blue Light Kevlar Uniform' (#2047189)
+[21:28:09	]Johann Schnöselberg has lost a 'Blue Light Kevlar Uniform' #2047189.
+[21:28:10	]Johann Schnöselberg ran 'drop' on item 'Syringe' (#2047221)
+[21:28:10	]Johann Schnöselberg has lost a 'Syringe' #2047221.
+[21:28:11	]Johann Schnöselberg ran 'drop' on item 'Medical Light Kevlar Uniform' (#2047191)
+[21:28:11	]Johann Schnöselberg has lost a 'Medical Light Kevlar Uniform' #2047191.
+[21:28:11	]Johann Schnöselberg ran 'drop' on item 'Blue Light Kevlar Uniform' (#2047192)
+[21:28:11	]Johann Schnöselberg has lost a 'Blue Light Kevlar Uniform' #2047192.
+[21:28:12	]Johann Schnöselberg ran 'drop' on item 'Medical Light Kevlar Uniform' (#2047190)
+[21:28:12	]Johann Schnöselberg has lost a 'Medical Light Kevlar Uniform' #2047190.
+[21:28:16	]Johann Schnöselberg ran 'take' on item 'AKM' (#2047238)
+[21:28:16	]Johann Schnöselberg has gained a 'AKM' #2047238.
+[21:28:18	]Johann Schnöselberg ran 'Equip' on item 'AKM' (#2047238)
+[21:28:52	]VORT STAT TEST 1 used command '/EnterMeditation'.
+[21:28:53	]VORT STAT TEST 1 used command '/ExitAct'.
+[21:28:53	]Elisa Amato has spawned a flash_grenade.
+[21:28:55	]Johann Schnöselberg destroyed a 'Blue Light Kevlar Uniform' #2047192.
+[21:28:55	]Elisa Amato ran 'take' on item 'Flash Grenade' (#2047239)
+[21:28:55	]Elisa Amato has gained a 'Flash Grenade' #2047239.
+[21:28:56	]Johann Schnöselberg destroyed a 'Blue Light Kevlar Uniform' #2047189.
+[21:28:57	]Johann Schnöselberg destroyed a 'Medical Light Kevlar Uniform' #2047191.
+[21:28:58	]Johann Schnöselberg destroyed a 'Syringe' #2047221.
+[21:28:59	]Johann Schnöselberg destroyed a 'Medical Light Kevlar Uniform' #2047190.
+[21:28:59	]Elisa Amato ran 'Equip' on item 'Flash Grenade' (#2047239)
+[21:29:29	]Elisa Amato has taken 67 damage from VORT STAT TEST 1.
+[21:29:29	][VORT] VORT STAT TEST 1 has damaged Elisa Amato, dealing 67.2 with vortbeam
+[21:29:37	]Elisa Amato ran SAM command 'hp' with arguments: 'elisa' '100'
+[21:29:40	]Elisa Amato is fully healed.
+[21:29:46	]Johann Schnöselberg has taken 67 damage from VORT STAT TEST 1.
+[21:29:46	][VORT] VORT STAT TEST 1 has damaged Johann Schnöselberg, dealing 67.2 with vortbeam
+[21:30:01	]Elisa Amato has spawned a assaultammo.
+[21:30:05	]Johann Schnöselberg ran 'take' on item 'Assault Rifle Ammo' (#2047240)
+[21:30:05	]Johann Schnöselberg has gained a 'Assault Rifle Ammo' #2047240.
+[21:30:13	]Johann Schnöselberg ran 'Listen' on item 'Learn French - Chapter 5 - An Audiobook' (#2026692)
+[21:31:29	]Elisa Amato used command '/CharSetAttribute stat vortessence 50'.
+[21:31:58	]Elisa Amato used command '/CharSetAttribute stat vortessence 50'.
+[21:32:42	]VORT STAT TEST 1 has gained level 50 in the Vortessence skill.
+[21:32:42	]Elisa Amato used command '/CharSkillAdd stat vortessence 50'.
+[21:32:50	]Elisa Amato has taken 96 damage from VORT STAT TEST 1.
+[21:32:50	][VORT] VORT STAT TEST 1 has damaged Elisa Amato, dealing 96 with vortbeam
+[21:33:16	]Elisa Amato ran SAM command 'hp' with arguments: 'elisa' '100'
+[21:33:20	]Elisa Amato is fully healed.
+[21:33:25	]VORT STAT TEST 1 used command '/EnterMeditation'.
+[21:33:37	]VORT STAT TEST 1 used command '/EnterMeditation'.
+[21:33:38	]Elisa Amato used command '/SetVortalEnergy stat 100'.
+[21:33:52	]Elisa Amato ran SAM command 'hp' with arguments: 'johann' '100'
+[21:33:54	]Johann Schnöselberg is fully healed.
+[21:33:57	]VORT STAT TEST 1 used command '/vortessence'.
+[21:34:21	]Elisa Amato used command '/CharGiveFlag stat nflags'.
+[21:34:43	]Elisa Amato used command '/CharGiveFlag stat qflags'.
+[21:35:32	]Elisa Amato has spawned a ins2_mag_drum_75rd.
+[21:35:36	]Johann Schnöselberg ran 'take' on item 'Drum Magazine' (#2047241)
+[21:35:36	]Johann Schnöselberg has gained a 'Drum Magazine' #2047241.
+[21:35:39	]Johann Schnöselberg ran 'drop' on item 'Drum Magazine' (#2047241)
+[21:35:39	]Johann Schnöselberg has lost a 'Drum Magazine' #2047241.
+[21:35:44	]Elisa Amato has spawned a attn_30rnd_mag.
+[21:35:49	]Johann Schnöselberg ran 'take' on item 'Extended 30rnd Magazine' (#2047242)
+[21:35:49	]Johann Schnöselberg has gained a 'Extended 30rnd Magazine' #2047242.
+[21:35:53	]Johann Schnöselberg ran 'drop' on item 'Extended 30rnd Magazine' (#2047242)
+[21:35:53	]Johann Schnöselberg has lost a 'Extended 30rnd Magazine' #2047242.
+[21:36:01	]Elisa Amato has spawned a mp7a1.
+[21:36:07	]Johann Schnöselberg ran 'drop' on item 'AKM' (#2047238)
+[21:36:07	]Johann Schnöselberg has lost a 'AKM' #2047238.
+[21:36:09	]Johann Schnöselberg ran 'take' on item 'MP7A1' (#2047243)
+[21:36:09	]Johann Schnöselberg has gained a 'MP7A1' #2047243.
+[21:36:11	]Johann Schnöselberg ran 'Equip' on item 'MP7A1' (#2047243)
+[21:36:11	]Elisa Amato has spawned a pulse.
+[21:36:15	]Johann Schnöselberg ran 'EquipUn' on item 'MP7A1' (#2047243)
+[21:36:16	]Johann Schnöselberg ran 'drop' on item 'MP7A1' (#2047243)
+[21:36:16	]Johann Schnöselberg has lost a 'MP7A1' #2047243.
+[21:36:17	]Johann Schnöselberg ran 'take' on item 'AR-2' (#2047244)
+[21:36:17	]Johann Schnöselberg has gained a 'AR-2' #2047244.
+[21:36:19	]Johann Schnöselberg ran 'Equip' on item 'AR-2' (#2047244)
+[21:36:44	]Elisa Amato has spawned a ar2ammo.
+[21:36:47	]Johann Schnöselberg ran 'take' on item 'Pulse-Rifle Energy' (#2047245)
+[21:36:47	]Johann Schnöselberg has gained a 'Pulse-Rifle Energy' #2047245.
+[21:36:50	]Johann Schnöselberg ran 'use' on item 'Pulse-Rifle Energy' (#2047245)
+[21:37:01	]Johann Schnöselberg ran 'EquipUn' on item 'AR-2' (#2047244)
+[21:37:05	]Johann Schnöselberg ran 'Equip' on item 'AR-2' (#2047244)
+[21:37:06	]Elisa Amato has spawned a pulse.
+[21:37:08	]Elisa Amato ran 'take' on item 'AR-2' (#2047246)
+[21:37:10	]Johann Schnöselberg ran 'drop' on item 'AR-2' (#2047244)
+[21:37:10	]Johann Schnöselberg has lost a 'AR-2' #2047244.
+[21:37:13	]Johann Schnöselberg ran 'take' on item 'AR-2' (#2047246)
+[21:37:13	]Johann Schnöselberg has gained a 'AR-2' #2047246.
+[21:37:14	]VORT STAT TEST 1 ran 'take' on item 'AR-2' (#2047244)
+[21:37:14	]VORT STAT TEST 1 has gained a 'AR-2' #2047244.
+[21:37:14	]Johann Schnöselberg ran 'Equip' on item 'AR-2' (#2047246)
+[21:37:20	]VORT STAT TEST 1 ran 'drop' on item 'AR-2' (#2047244)
+[21:37:20	]VORT STAT TEST 1 has lost a 'AR-2' #2047244.
+[21:37:23	]Elisa Amato has spawned a ar2ammo.
+[21:37:24	]Johann Schnöselberg ran 'drop' on item 'AR-2' (#2047246)
+[21:37:24	]Johann Schnöselberg has lost a 'AR-2' #2047246.
+[21:37:27	]Johann Schnöselberg ran 'take' on item 'Pulse-Rifle Energy' (#2047247)
+[21:37:27	]Johann Schnöselberg has gained a 'Pulse-Rifle Energy' #2047247.
+[21:37:28	]Johann Schnöselberg ran 'take' on item 'AR-2' (#2047244)
+[21:37:28	]Johann Schnöselberg has gained a 'AR-2' #2047244.
+[21:37:30	]Johann Schnöselberg ran 'use' on item 'Pulse-Rifle Energy' (#2047247)
+[21:37:31	]Johann Schnöselberg ran 'Equip' on item 'AR-2' (#2047244)
+[21:37:32	]Elisa Amato has spawned a 870.
+[21:37:36	]Johann Schnöselberg ran 'EquipUn' on item 'AR-2' (#2047244)
+[21:37:37	]Johann Schnöselberg ran 'take' on item 'Model 870' (#2047248)
+[21:37:39	]Elisa Amato has spawned a shotgunammo.
+[21:37:40	]Johann Schnöselberg ran 'drop' on item 'AR-2' (#2047244)
+[21:37:40	]Johann Schnöselberg has lost a 'AR-2' #2047244.
+[21:37:42	]Johann Schnöselberg ran 'take' on item 'Model 870' (#2047248)
+[21:37:42	]Johann Schnöselberg has gained a 'Model 870' #2047248.
+[21:37:43	]Johann Schnöselberg ran 'take' on item 'Shotgun Shells' (#2047249)
+[21:37:43	]Johann Schnöselberg has gained a 'Shotgun Shells' #2047249.
+[21:37:45	]Johann Schnöselberg ran 'Equip' on item 'Model 870' (#2047248)
+[21:37:46	]Johann Schnöselberg ran 'use' on item 'Shotgun Shells' (#2047249)
+[21:37:58	]Elisa Amato has spawned a shotgunammo.
+[21:38:00	]Johann Schnöselberg ran 'take' on item 'Shotgun Shells' (#2047250)
+[21:38:00	]Johann Schnöselberg has gained a 'Shotgun Shells' #2047250.
+[21:38:03	]Elisa Amato has spawned a 870.
+[21:38:07	]Elisa Amato ran 'take' on item 'Model 870' (#2047251)
+[21:38:13	]Johann Schnöselberg ran 'EquipUn' on item 'Model 870' (#2047248)
+[21:38:14	]Johann Schnöselberg ran 'take' on item 'Model 870' (#2047251)
+[21:38:19	]Johann Schnöselberg ran 'drop' on item 'Model 870' (#2047248)
+[21:38:19	]Johann Schnöselberg has lost a 'Model 870' #2047248.
+[21:38:20	]Johann Schnöselberg ran 'take' on item 'Model 870' (#2047251)
+[21:38:20	]Johann Schnöselberg has gained a 'Model 870' #2047251.
+[21:38:22	]Johann Schnöselberg ran 'Equip' on item 'Model 870' (#2047251)
+[21:38:24	]Johann Schnöselberg ran 'use' on item 'Shotgun Shells' (#2047250)
+[21:38:38	]Elisa Amato ran 'take' on item 'Model 870' (#2047248)
+[21:38:38	]Johann Schnöselberg ran 'EquipUn' on item 'Model 870' (#2047251)
+[21:38:39	]VORT STAT TEST 1 ran 'take' on item 'AKM' (#2047238)
+[21:38:39	]VORT STAT TEST 1 has gained a 'AKM' #2047238.
+[21:38:40	]VORT STAT TEST 1 ran 'take' on item 'Extended 30rnd Magazine' (#2047242)
+[21:38:40	]VORT STAT TEST 1 has gained a 'Extended 30rnd Magazine' #2047242.
+[21:38:40	]Johann Schnöselberg ran 'Equip' on item 'Model 870' (#2047251)
+[21:38:41	]Johann Schnöselberg ran 'drop' on item 'Model 870' (#2047251)
+[21:38:41	]Johann Schnöselberg has lost a 'Model 870' #2047251.
+[21:38:44	]VORT STAT TEST 1 ran 'Equip' on item 'AKM' (#2047238)
+[21:38:50	]Elisa Amato ran 'drop' on item 'Empty Brown Bottle' (#2047234)
+[21:38:50	]Elisa Amato has lost a 'Empty Brown Bottle' #2047234.
+[21:38:51	]Elisa Amato ran 'drop' on item 'Syringe' (#2047218)
+[21:38:51	]Elisa Amato has lost a 'Syringe' #2047218.
+[21:38:52	]Elisa Amato ran 'drop' on item 'Empty Brown Bottle' (#2047227)
+[21:38:52	]Elisa Amato has lost a 'Empty Brown Bottle' #2047227.
+[21:38:52	]Elisa Amato ran 'drop' on item 'Empty Brown Bottle' (#2047229)
+[21:38:52	]Elisa Amato has lost a 'Empty Brown Bottle' #2047229.
+[21:38:53	]Elisa Amato ran 'drop' on item 'Empty Wine Bottle' (#1991141)
+[21:38:53	]Elisa Amato has lost a 'Empty Wine Bottle' #1991141.
+[21:38:54	]Elisa Amato ran 'drop' on item 'Empty milk carton' (#2047211)
+[21:38:54	]Elisa Amato has lost a 'Empty milk carton' #2047211.
+[21:38:55	]Elisa Amato ran 'drop' on item 'Plastic garbage' (#1990972)
+[21:38:55	]Elisa Amato has lost a 'Plastic garbage' #1990972.
+[21:38:55	]Elisa Amato ran 'drop' on item 'Egg Protein Package' (#1990598)
+[21:38:55	]Elisa Amato has lost a 'Egg Protein Package' #1990598.
+[21:38:59	]Elisa Amato ran 'take' on item 'Model 870' (#2047251)
+[21:38:59	]Elisa Amato has gained a 'Model 870' #2047251.
+[21:39:02	]Elisa Amato ran 'Equip' on item 'Model 870' (#2047251)
+[21:39:36	]Elisa Amato used command '/CharGiveTempFlags johann gamemaster 120'.
+[21:39:54	]Elisa Amato has spawned a shotgunammo.
+[21:39:57	]Elisa Amato ran 'use' on item 'Shotgun Shells' (#2047252)
+[21:39:59	]VORT STAT TEST 1 ran 'drop' on item 'AKM' (#2047238)
+[21:39:59	]VORT STAT TEST 1 has lost a 'AKM' #2047238.
+[21:40:03	]VORT STAT TEST 1 ran 'drop' on item 'Extended 30rnd Magazine' (#2047242)
+[21:40:03	]VORT STAT TEST 1 has lost a 'Extended 30rnd Magazine' #2047242.
+[21:40:23	][IC] VORT STAT TEST 1: Bullets_buckshot.
+[21:41:10	]Elisa Amato has spawned a bullets_buckshot.
+[21:41:15	]Elisa Amato ran 'take' on item 'Buckshot Shotgun Shells' (#2047253)
+[21:41:15	]Elisa Amato has gained a 'Buckshot Shotgun Shells' #2047253.
+[21:41:22	]Elisa Amato ran 'drop' on item 'Model 870' (#2047251)
+[21:41:22	]Elisa Amato has lost a 'Model 870' #2047251.
+[21:41:23	]Elisa Amato ran 'drop' on item 'Buckshot Shotgun Shells' (#2047253)
+[21:41:23	]Elisa Amato has lost a 'Buckshot Shotgun Shells' #2047253.
+[21:41:35	]Johann Schnöselberg ran 'take' on item 'Model 870' (#2047251)
+[21:41:35	]Johann Schnöselberg has gained a 'Model 870' #2047251.
+[21:41:36	]Johann Schnöselberg ran 'take' on item 'Buckshot Shotgun Shells' (#2047253)
+[21:41:36	]Johann Schnöselberg has gained a 'Buckshot Shotgun Shells' #2047253.
+[21:41:38	]Johann Schnöselberg ran 'Equip' on item 'Model 870' (#2047251)
+[21:41:50	]Elisa Amato has spawned a fiveseven.
+[21:41:59	]Elisa Amato has spawned a ins2_mag_ext_pistol.
+[21:42:03	]Elisa Amato has spawned a bullets_pistol.
+[21:42:03	]Johann Schnöselberg ran 'drop' on item 'Buckshot Shotgun Shells' (#2047253)
+[21:42:03	]Johann Schnöselberg has lost a 'Buckshot Shotgun Shells' #2047253.
+[21:42:04	]Johann Schnöselberg ran 'drop' on item 'Model 870' (#2047251)
+[21:42:04	]Johann Schnöselberg has lost a 'Model 870' #2047251.
+[21:42:07	]Johann Schnöselberg ran 'take' on item 'FiveSeven' (#2047254)
+[21:42:07	]Johann Schnöselberg has gained a 'FiveSeven' #2047254.
+[21:42:08	]Johann Schnöselberg ran 'take' on item 'Extended Pistol Magazine' (#2047255)
+[21:42:08	]Johann Schnöselberg has gained a 'Extended Pistol Magazine' #2047255.
+[21:42:13	]Johann Schnöselberg ran 'take' on item '9mm Pistol Bullets' (#2047256)
+[21:42:13	]Johann Schnöselberg has gained a '9mm Pistol Bullets' #2047256.
+[21:42:18	]Johann Schnöselberg ran 'Equip' on item 'FiveSeven' (#2047254)
+[21:42:26	]Johann Schnöselberg ran 'drop' on item 'Extended Pistol Magazine' (#2047255)
+[21:42:26	]Johann Schnöselberg has lost a 'Extended Pistol Magazine' #2047255.
+[21:42:26	]Johann Schnöselberg ran 'split' on item '9mm Pistol Bullets' (#2047256)
+[21:42:27	]Johann Schnöselberg has gained a '9mm Pistol Bullets' #2047257.
+[21:42:28	]Johann Schnöselberg ran 'drop' on item '9mm Pistol Bullets' (#2047256)
+[21:42:28	]Johann Schnöselberg has lost a '9mm Pistol Bullets' #2047256.
+[21:42:29	]Johann Schnöselberg ran 'drop' on item '9mm Pistol Bullets' (#2047257)
+[21:42:29	]Johann Schnöselberg has lost a '9mm Pistol Bullets' #2047257.
+[21:42:29	]Johann Schnöselberg ran 'drop' on item 'FiveSeven' (#2047254)
+[21:42:29	]Johann Schnöselberg has lost a 'FiveSeven' #2047254.
+[21:42:39	]Elisa Amato entered observer.
+[21:42:41	]VORT STAT TEST 1 ran 'take' on item 'AR-2' (#2047246)
+[21:42:41	]VORT STAT TEST 1 has gained a 'AR-2' #2047246.
+[21:42:42	]Elisa Amato ran 'take' on item 'Model 870' (#2047251)
+[21:42:42	]Elisa Amato has gained a 'Model 870' #2047251.
+[21:42:43	]VORT STAT TEST 1 ran 'Equip' on item 'AR-2' (#2047246)
+[21:42:45	]Elisa Amato exited observer.
+[21:42:49	]Elisa Amato has spawned a ar2ammo.
+[21:42:51	]VORT STAT TEST 1 ran 'use' on item 'Pulse-Rifle Energy' (#2047258)
+[21:43:05	]Elisa Amato has spawned a bullets_pulse.
+[21:43:08	]VORT STAT TEST 1 ran 'take' on item 'Pulse Rifle Bullets' (#2047259)
+[21:43:08	]VORT STAT TEST 1 has gained a 'Pulse Rifle Bullets' #2047259.
+[21:43:40	]VORT STAT TEST 1 ran 'take' on item 'Drum Magazine' (#2047241)
+[21:43:40	]VORT STAT TEST 1 has gained a 'Drum Magazine' #2047241.
+[21:43:42	]VORT STAT TEST 1 ran 'take' on item 'AKM' (#2047238)
+[21:43:42	]VORT STAT TEST 1 has gained a 'AKM' #2047238.
+[21:43:43	]Elisa Amato used command '/PlyWhitelist johann Civil Protection'.
+[21:43:47	]VORT STAT TEST 1 ran 'Equip' on item 'AKM' (#2047238)
+[21:43:47	]Muho has unloaded their "Johann Schnöselberg" character.
+[21:43:49	]VORT STAT TEST 1 ran 'EquipUn' on item 'AR-2' (#2047246)
+[21:43:50	]VORT STAT TEST 1 ran 'Equip' on item 'AKM' (#2047238)
+[21:44:00	]Elisa Amato has spawned a bullets_assaultrifle.
+[21:44:02	]VORT STAT TEST 1 ran 'take' on item 'Assault Rifle Bullets' (#2047260)
+[21:44:02	]VORT STAT TEST 1 has gained a 'Assault Rifle Bullets' #2047260.
+[21:44:12	]Elisa Amato entered observer.
+[21:44:15	]VORT STAT TEST 1 ran 'drop' on item 'Pulse Rifle Bullets' (#2047259)
+[21:44:15	]VORT STAT TEST 1 has lost a 'Pulse Rifle Bullets' #2047259.
+[21:44:17	]VORT STAT TEST 1 ran 'drop' on item 'AR-2' (#2047246)
+[21:44:17	]VORT STAT TEST 1 has lost a 'AR-2' #2047246.
+[21:44:19	]VORT STAT TEST 1 ran 'drop' on item 'Assault Rifle Bullets' (#2047260)
+[21:44:19	]VORT STAT TEST 1 has lost a 'Assault Rifle Bullets' #2047260.
+[21:44:20	]Elisa Amato exited observer.
+[21:44:21	]VORT STAT TEST 1 ran 'take' on item 'Assault Rifle Bullets' (#2047260)
+[21:44:21	]VORT STAT TEST 1 has gained a 'Assault Rifle Bullets' #2047260.
+[21:44:22	]Muho created the character 'C17:RCT.YELLO-38'
+[21:44:22	]Muho has gained level 10 in the Speed skill.
+[21:44:23	]Muho loaded the character 'C17:RCT.YELLO-38'
+[21:44:23	]C17:RCT.YELLO-38 has gained a '#67101's Identity Card' #2047261.
+[21:44:23	]C17:RCT.YELLO-38 has gained a 'Combine PDA' #2047262.
+[21:44:23	]C17:RCT.YELLO-38 has gained a 'CP Uniform' #2047263.
+[21:44:23	]C17:RCT.YELLO-38 has gained a 'CP Mask' #2047264.
+[21:44:23	]C17:RCT.YELLO-38 has gained a 'Handheld Radio' #2047265.
+[21:44:23	]C17:RCT.YELLO-38 has gained a 'Small Bag' #2047266.
+[21:44:23	]C17:RCT.YELLO-38 has gained a 'Large Bag' #2047267.
+[21:44:26	]VORT STAT TEST 1 ran 'split' on item 'Assault Rifle Bullets' (#2047260)
+[21:44:26	]VORT STAT TEST 1 has gained a 'Assault Rifle Bullets' #2047268.
+[21:44:27	]VORT STAT TEST 1 ran 'combine' on item 'Assault Rifle Bullets' (#2047260)
+[21:44:29	]Elisa Amato entered observer.
+[21:44:31	]Elisa Amato exited observer.
+[21:44:33	]C17:RCT.YELLO-38 used the 'Civil Protection Quartermaster' vendor.
+[21:44:34	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:35	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:35	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:35	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:35	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:36	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:36	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:36	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:36	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:36	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:37	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:37	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:38	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:39	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:39	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:39	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:39	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:40	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:40	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:40	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:40	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:41	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:41	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:41	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:41	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:41	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:42	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:42	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:43	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:44	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:44	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:44	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:44	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:44	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:45	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:45	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:45	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:45	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:45	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:46	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:46	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:46	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:46	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:47	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:47	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:47	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:47	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:47	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:47	]VORT STAT TEST 1 ran 'drop' on item 'AKM' (#2047238)
+[21:44:47	]VORT STAT TEST 1 has lost a 'AKM' #2047238.
+[21:44:48	]VORT STAT TEST 1 ran 'drop' on item 'Drum Magazine' (#2047241)
+[21:44:48	]VORT STAT TEST 1 has lost a 'Drum Magazine' #2047241.
+[21:44:49	]VORT STAT TEST 1 ran 'drop' on item 'Assault Rifle Bullets' (#2047260)
+[21:44:49	]VORT STAT TEST 1 has lost a 'Assault Rifle Bullets' #2047260.
+[21:44:49	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:50	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:50	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:50	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:50	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:50	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:50	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:51	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:51	]Elisa Amato has fired a toolgun with the name: remover
+[21:44:58	]C17:RCT.YELLO-38 used the 'Civil Protection Quartermaster' vendor.
+[21:45:01	]Elisa Amato ran SAM command 'goto' with arguments: 'c17'
+[21:45:03	]Chris loaded the character 'Dy'Turh-Dara Ahl Ormbah'
+[21:45:06	]C17:RCT.YELLO-38 used the 'Civil Protection Quartermaster' vendor.
+[21:45:10	]C17:RCT.YELLO-38 used the 'Civil Protection Quartermaster' vendor.
+[21:45:23	]C17:RCT.YELLO-38 ran 'drop' on item 'CP Uniform' (#2047263)
+[21:45:23	]C17:RCT.YELLO-38 has lost a 'CP Uniform' #2047263.
+[21:45:24	]C17:RCT.YELLO-38 ran 'drop' on item 'CP Mask' (#2047264)
+[21:45:24	]C17:RCT.YELLO-38 has lost a 'CP Mask' #2047264.
+[21:45:25	]C17:RCT.YELLO-38 ran 'take' on item 'CP Uniform' (#2047263)
+[21:45:25	]C17:RCT.YELLO-38 has gained a 'CP Uniform' #2047263.
+[21:45:28	]C17:RCT.YELLO-38 ran 'take' on item 'CP Mask' (#2047264)
+[21:45:28	]C17:RCT.YELLO-38 has gained a 'CP Mask' #2047264.
+[21:45:31	]Elisa Amato used command '/CharGiveCredits C17 4000'.
+[21:45:40	]C17:RCT.YELLO-38 used the 'Civil Protection Quartermaster' vendor.
+[21:46:05	]Elisa Amato has spawned a mp7a1.
+[21:46:07	]C17:RCT.YELLO-38 ran 'take' on item 'MP7A1' (#2047269)
+[21:46:07	]C17:RCT.YELLO-38 has gained a 'MP7A1' #2047269.
+[21:46:08	]C17:RCT.YELLO-38 used the 'Civil Protection Quartermaster' vendor.
+[21:46:11	]C17:RCT.YELLO-38 has gained a '30rnd MP-magazine' #2047270.
+[21:46:12	]C17:RCT.YELLO-38 has gained a '30rnd MP-magazine' #2047271.
+[21:46:14	]C17:RCT.YELLO-38 has gained a 'Sub-machinegun Bullets' #2047272.
+[21:46:15	]C17:RCT.YELLO-38 has gained a 'Sub-machinegun Bullets' #2047273.
+[21:46:18	]C17:RCT.YELLO-38 ran 'Equip' on item 'MP7A1' (#2047269)
+[21:46:19	]C17:RCT.YELLO-38 ran 'combine' on item '30rnd MP-magazine' (#2047270)
+[21:46:20	]C17:RCT.YELLO-38 ran 'combine' on item '30rnd MP-magazine' (#2047271)
+[21:46:21	]C17:RCT.YELLO-38 has lost a '30rnd MP-magazine' #2047271.
+[21:46:28	]C17:RCT.YELLO-38 has gained a '30rnd MP-magazine' #2047271.
+[21:46:28	]C17:RCT.YELLO-38 has lost a '30rnd MP-magazine' #2047270.
+[21:46:30	]C17:RCT.YELLO-38 used the 'Civil Protection Quartermaster' vendor.
+[21:46:34	]C17:RCT.YELLO-38 has gained a '30rnd MP-magazine' #2047274.
+[21:46:34	]C17:RCT.YELLO-38 has gained a '30rnd MP-magazine' #2047275.
+[21:46:36	]C17:RCT.YELLO-38 has gained a 'Sub-machinegun Bullets' #2047276.
+[21:46:37	]C17:RCT.YELLO-38 has gained a 'Sub-machinegun Bullets' #2047277.
+[21:46:38	]C17:RCT.YELLO-38 has gained a 'Sub-machinegun Bullets' #2047278.
+[21:46:40	]C17:RCT.YELLO-38 ran 'combine' on item '30rnd MP-magazine' (#2047274)
+[21:46:40	]C17:RCT.YELLO-38 ran 'combine' on item '30rnd MP-magazine' (#2047271)
+[21:46:41	]C17:RCT.YELLO-38 ran 'combine' on item '30rnd MP-magazine' (#2047275)
+[21:46:45	]C17:RCT.YELLO-38 has gained a '30rnd MP-magazine' #2047270.
+[21:46:45	]C17:RCT.YELLO-38 has lost a '30rnd MP-magazine' #2047275.
+[21:46:49	]Elisa Amato ran SAM command 'bring' with arguments: 'dy''
+[21:47:11	]C17:RCT.YELLO-38 ran 'Equip' on item 'Combine PDA' (#2047262)
+[21:47:24	]Dy'Turh-Dara Ahl Ormbah has gained level 50 in the Vortessence skill.
+[21:47:24	]Elisa Amato used command '/CharSkillAdd dy' vortessence 50'.
+[21:47:49	]Elisa Amato has spawned a drink_proc_fruit_juice.
+[21:47:53	]Dy'Turh-Dara Ahl Ormbah ran 'Consume' on item 'Artificial Fruit Juice' (#2047279)
+[21:47:53	]Dy'Turh-Dara Ahl Ormbah has gained a 'Empty bottle' #2047280.
+[21:47:58	]Dy'Turh-Dara Ahl Ormbah ran 'drop' on item 'Empty bottle' (#2047280)
+[21:47:58	]Dy'Turh-Dara Ahl Ormbah has lost a 'Empty bottle' #2047280.
+[21:48:03	]C17:RCT.YELLO-38 has gained a '30rnd MP-magazine' #2047275.
+[21:48:03	]C17:RCT.YELLO-38 has lost a '30rnd MP-magazine' #2047274.
+[21:48:08	]C17:RCT.YELLO-38 has critically hit Dy'Turh-Dara Ahl Ormbah dealing 15 damage (CritChance was 0.88).
+[21:48:08	]Dy'Turh-Dara Ahl Ormbah has taken 15 damage from C17:RCT.YELLO-38.
+[21:48:14	][IC] Elisa Amato: Y.
+[21:48:28	]Elisa Amato used command '/CharGiveFlag dy' qflags'.
+[21:48:39	]C17:RCT.YELLO-38 has critically hit Dy'Turh-Dara Ahl Ormbah dealing 0 damage (CritChance was 0.88).
+[21:48:39	]C17:RCT.YELLO-38 has critically hit Dy'Turh-Dara Ahl Ormbah dealing 15 damage (CritChance was 0.88).
+[21:48:39	]Dy'Turh-Dara Ahl Ormbah has taken 15 damage from C17:RCT.YELLO-38.
+[21:48:47	]C17:RCT.YELLO-38 has gained a '30rnd MP-magazine' #2047274.
+[21:48:47	]C17:RCT.YELLO-38 has lost a '30rnd MP-magazine' #2047275.
+[21:48:56	]Elisa Amato used command '/PlyWhitelist elisa ota'.
+[21:49:02	]Lucaa has unloaded their "Elisa Amato" character.
+[21:50:06	]C17:RCT.YELLO-38 ran 'ToggleOn' on item 'Handheld Radio' (#2047265)
+[21:50:40	]Lucaa loaded the character 'Elisa Amato'
+[21:50:49	]Dy'Turh-Dara Ahl Ormbah used command '/EnterMeditation'.
+[21:50:54	][IC] C17:RCT.YELLO-38: <:: 1. ::>
+[21:50:55	][IC] C17:RCT.YELLO-38: <:: 2. ::>
+[21:50:56	][IC] C17:RCT.YELLO-38: <:: 3. ::>
+[21:50:59	][IC] C17:RCT.YELLO-38: <:: 10 40. ::>
+[21:51:03	][IC] C17:RCT.YELLO-38: <:: 10-10. ::>
+[21:51:06	][IC] C17:RCT.YELLO-38: <:: 10-40. ::>
+[21:51:14	]Lucaa (STEAM_0:1:460171975) deleted character 'Sofia Monte'
+[21:51:24	]Dy'Turh-Dara Ahl Ormbah used command '/EnterMeditation'.
+[21:52:14	]Lucaa (STEAM_0:1:460171975) has disconnected.
+[21:53:00	]C17:RCT.YELLO-38 has gained a '30rnd MP-magazine' #2047275.
+[21:53:00	]C17:RCT.YELLO-38 has lost a '30rnd MP-magazine' #2047271.
+[21:53:15	]C17:RCT.YELLO-38 has taken 96 damage from Dy'Turh-Dara Ahl Ormbah.
+[21:53:15	][VORT] Dy'Turh-Dara Ahl Ormbah has damaged C17:RCT.YELLO-38, dealing 96 with vortbeam
+[21:53:52	][VORT] Dy'Turh-Dara Ahl Ormbah has healed C17:RCT.YELLO-38
+[21:54:51	]C17:RCT.YELLO-38 has acquired his ration, gaining 0 credits, 0 wages and a civil_protection_ration ration.
+[21:55:05	]C17:RCT.YELLO-38 ran 'take' on item 'Civil Protection Ration' (#2047281)
+[21:55:05	]C17:RCT.YELLO-38 has gained a 'Civil Protection Ration' #2047281.
+[21:55:06	]C17:RCT.YELLO-38 ran 'Open' on item 'Civil Protection Ration' (#2047281)
+[21:55:06	]C17:RCT.YELLO-38 has gained a 'Metropolice Supplements' #2047282.
+[21:55:06	]C17:RCT.YELLO-38 has gained a 'Soda Bob Brawn' #2047283.
+[21:55:06	]C17:RCT.YELLO-38 has gained a 'Medium Credits Coupon' #2047284.
+[21:55:10	]C17:RCT.YELLO-38 ran 'Consume' on item 'Metropolice Supplements' (#2047282)
+[21:55:10	]C17:RCT.YELLO-38 has gained a level 3 long boost in Strength.
+[21:55:21	]C17:RCT.YELLO-38 ran 'Consume' on item 'Soda Bob Brawn' (#2047283)
+[21:55:21	]C17:RCT.YELLO-38 has gained a level 1 long boost in Perception.
+[21:55:21	]C17:RCT.YELLO-38 has gained a level 2 long boost in Agility.
+[21:55:44	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[21:55:54	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[21:56:31	]Lucaa has connected.
+[21:57:25	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[21:57:28	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[21:57:29	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[21:57:30	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[21:57:32	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[21:57:33	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[21:57:47	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[21:58:59	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[21:59:18	]C17:RCT.YELLO-38 has fired a toolgun with the name: remover
+[21:59:48	]C17:RCT.YELLO-38 has spawned 'models/props/gg_tibet/bookopen.mdl'.
+[21:59:53	]Dy'Turh-Dara Ahl Ormbah has spawned 'models/props_d47_canals/interior_wall_128.mdl'.
+[22:00:20	]C17:RCT.YELLO-38 has spawned 'models/props/coop_autumn/autumn_presentation_podium/autumn_presentation_podium.mdl'.
+[22:00:58	]C17:RCT.YELLO-38 rolled 20 out of 20.
+[22:00:58	]C17:RCT.YELLO-38 used command '/Roll 21'.
+[22:01:28	]Dy'Turh-Dara Ahl Ormbah has spawned 'models/props/gg_tibet/coffeetable.mdl'.
+[22:01:32	]Dy'Turh-Dara Ahl Ormbah has spawned 'models/props/de_inferno/tablecoffee_damage_b04.mdl'.
+[22:01:39	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[22:01:41	]Lucaa (STEAM_0:1:460171975) has disconnected (timed out).
+[22:01:58	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[22:05:47	]Dy'Turh-Dara Ahl Ormbah used command '/ActIdle'.
+[22:05:50	]Dy'Turh-Dara Ahl Ormbah used command '/ExitAct'.
+[22:06:56	]C17:RCT.YELLO-38 has taken 23 damage from worldspawn.
+[22:07:07	]Lucaa has connected.
+[22:09:45	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[22:09:47	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[22:09:48	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[22:09:53	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[22:10:03	]C17:RCT.YELLO-38 has gained a '30rnd MP-magazine' #2047271.
+[22:10:03	]C17:RCT.YELLO-38 was knocked unconscious and is bleeding out.
+[22:10:03	][VORT] Dy'Turh-Dara Ahl Ormbah has damaged C17:RCT.YELLO-38, dealing 96 with vortbeam
+[22:10:04	]C17:RCT.YELLO-38 used command '/CharGetUp'.
+[22:10:09	][VORT] Dy'Turh-Dara Ahl Ormbah has damaged C17:RCT.YELLO-38, dealing 96 with vortbeam
+[22:10:18	][VORT] Dy'Turh-Dara Ahl Ormbah has damaged C17:RCT.YELLO-38 dealing 40 with vortslam
+[22:10:21	]C17:RCT.YELLO-38 was just killed due to: accepting their death
+[22:11:22	]C17:RCT.YELLO-38 has taken 5 damage from execution_hurt.
+[22:11:22	]C17:RCT.YELLO-38 has taken 5 damage from execution_hurt.
+[22:11:23	]C17:RCT.YELLO-38 has taken 5 damage from execution_hurt.
+[22:11:23	]C17:RCT.YELLO-38 has taken 5 damage from execution_hurt.
+[22:11:46	]Dy'Turh-Dara Ahl Ormbah used command '/EnterMeditation'.
+[22:12:16	]Lucaa (STEAM_0:1:460171975) has disconnected (timed out).
+[22:12:55	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[22:12:56	]Dy'Turh-Dara Ahl Ormbah used command '/EnterMeditation'.
+[22:14:17	]Dy'Turh-Dara Ahl Ormbah used the 'High Quality Smuggler' smuggler.
+[22:14:38	]C17:RCT.YELLO-38 ran 'Equip' on item 'MP7A1' (#2047269)
+[22:14:40	]C17:RCT.YELLO-38 has lost a '30rnd MP-magazine' #2047275.
+[22:14:43	]C17:RCT.YELLO-38 has gained a '30rnd MP-magazine' #2047275.
+[22:14:43	]C17:RCT.YELLO-38 has lost a '30rnd MP-magazine' #2047270.
+[22:14:49	]C17:RCT.YELLO-38 has gained a '30rnd MP-magazine' #2047270.
+[22:14:49	]C17:RCT.YELLO-38 has lost a '30rnd MP-magazine' #2047275.
+[22:15:40	]Dy'Turh-Dara Ahl Ormbah opened the 'Small Trash Bin' #101344 container.
+[22:15:40	]Dy'Turh-Dara Ahl Ormbah closed the 'Small Trash Bin' #101344 container.
+[22:15:44	]C17:RCT.YELLO-38 opened the 'Small Trash Bin' #101344 container.
+[22:15:44	]Dy'Turh-Dara Ahl Ormbah opened the 'Small Trash Bin' #101344 container.
+[22:15:46	]C17:RCT.YELLO-38 closed the 'Small Trash Bin' #101344 container.
+[22:15:47	]C17:RCT.YELLO-38 closed the 'Small Trash Bin' #101344 container.
+[22:15:58	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[22:15:59	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[22:16:05	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[22:16:17	]C17:RCT.YELLO-38 has taken 14 damage from worldspawn.
+[22:21:15	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[22:21:26	]C17:RCT.YELLO-38 opened the 'Refrigerator' #101262 container.
+[22:21:27	]C17:RCT.YELLO-38 closed the 'Refrigerator' #101262 container.
+[22:21:39	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[22:21:55	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[22:22:23	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[22:22:31	]Dy'Turh-Dara Ahl Ormbah opened the 'Refrigerator' #101260 container.
+[22:22:33	]Dy'Turh-Dara Ahl Ormbah closed the 'Refrigerator' #101260 container.
+[22:23:39	]C17:RCT.YELLO-38 has spawned 'models/mechanics/solid_steel/i_beam2_8.mdl'.
+[22:23:44	]C17:RCT.YELLO-38 has spawned 'models/props_c17/BriefCase001a.mdl'.
+[22:23:58	]C17:RCT.YELLO-38 has taken 48 damage from worldspawn.
+[22:23:58	]Dy'Turh-Dara Ahl Ormbah has taken 55 damage from worldspawn.
+[22:24:32	]C17:RCT.YELLO-38 has spawned 'models/props_junk/metal_paintcan001a.mdl'.
+[22:26:08	][VORT] Dy'Turh-Dara Ahl Ormbah has healed C17:RCT.YELLO-38
+[22:26:31	]Lucaa has connected.
+[22:26:46	]Dy'Turh-Dara Ahl Ormbah used command '/CharFallOver'.
+[22:26:50	]Dy'Turh-Dara Ahl Ormbah used command '/CharGetUp'.
+[22:26:51	]Dy'Turh-Dara Ahl Ormbah used command '/CharGetUp'.
+[22:27:10	]Dy'Turh-Dara Ahl Ormbah opened the 'Dumpster' #101343 container.
+[22:27:12	]Dy'Turh-Dara Ahl Ormbah closed the 'Dumpster' #101343 container.
+[22:27:15	]C17:RCT.YELLO-38 opened the 'Dumpster' #101343 container.
+[22:27:16	]C17:RCT.YELLO-38 closed the 'Dumpster' #101343 container.
+[22:29:11	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[22:29:30	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[22:30:07	]C17:RCT.YELLO-38 opened the 'Paper Tray' #101273 container.
+[22:30:09	]C17:RCT.YELLO-38 closed the 'Paper Tray' #101273 container.
+[22:30:48	]Lucaa created the character 'S10/OWS.GHOST-76'
+[22:30:48	]Lucaa has gained level 40 in the Guns skill.
+[22:30:48	]Lucaa has gained level 40 in the Speed skill.
+[22:30:48	]Lucaa loaded the character 'S10/OWS.GHOST-76'
+[22:30:48	]S10/OWS.GHOST-76 has gained a 'Small Bag' #2047291.
+[22:30:48	]S10/OWS.GHOST-76 has gained a 'Large Bag' #2047292.
+[22:30:48	]S10/OWS.GHOST-76 has gained a 'Flashlight' #2047293.
+[22:30:48	]S10/OWS.GHOST-76 has gained a 'Combine PDA' #2047294.
+[22:30:48	]S10/OWS.GHOST-76 has gained a 'OTA Uniform' #2047295.
+[22:30:48	]S10/OWS.GHOST-76 has gained a 'OTA Mask' #2047296.
+[22:30:48	]S10/OWS.GHOST-76 has gained a 'Rappel Gear' #2047297.
+[22:30:48	]S10/OWS.GHOST-76 has gained a 'Magazine Pouch' #2047298.
+[22:30:48	]S10/OWS.GHOST-76 has gained a 'Ammunition Pouch' #2047299.
+[22:32:02	]S10/OWS.GHOST-76 ran 'drop' on item 'OTA Uniform' (#2047295)
+[22:32:02	]S10/OWS.GHOST-76 has lost a 'OTA Uniform' #2047295.
+[22:32:04	]S10/OWS.GHOST-76 ran 'take' on item 'OTA Uniform' (#2047295)
+[22:32:04	]S10/OWS.GHOST-76 has gained a 'OTA Uniform' #2047295.
+[22:32:35	]S10/OWS.GHOST-76 ran 'Equip' on item 'Rappel Gear' (#2047297)
+[22:32:42	]S10/OWS.GHOST-76 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[22:32:53	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:32:55	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:32:56	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:32:59	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:33:02	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:33:03	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:33:04	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:33:07	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:33:07	]S10/OWS.GHOST-76 has gained a 'OTA Mask' #2047300.
+[22:33:19	]S10/OWS.GHOST-76 ran 'Equip' on item 'Combine PDA' (#2047294)
+[22:33:25	]Dy'Turh-Dara Ahl Ormbah has taken 1 damage from worldspawn.
+[22:34:43	]C17:RCT.YELLO-38 opened the 'Small Trash Bin' #101370 container.
+[22:34:44	]C17:RCT.YELLO-38 closed the 'Small Trash Bin' #101370 container.
+[22:34:45	]C17:RCT.YELLO-38 opened the 'Consul's Desk' #101368 container.
+[22:34:47	]C17:RCT.YELLO-38 closed the 'Consul's Desk' #101368 container.
+[22:34:49	]S10/OWS.GHOST-76 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[22:34:56	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:34:56	]S10/OWS.GHOST-76 has gained a 'Morphine' #2047301.
+[22:34:59	]S10/OWS.GHOST-76 ran 'use' on item 'Morphine' (#2047301)
+[22:34:59	]S10/OWS.GHOST-76 has gained a level 4 short boost in Strength.
+[22:35:03	]S10/OWS.GHOST-76 is fully healed.
+[22:35:24	][IC] S10/OWS.GHOST-76: Hi.
+[22:35:37	][OOC] S10/OWS.GHOST-76: hi
+[22:35:52	]S10/OWS.GHOST-76 has taken 55 damage from worldspawn.
+[22:35:57	]Dy'Turh-Dara Ahl Ormbah has spawned 'models/blu/conscript_apc.mdl'.
+[22:37:27	]C17:RCT.YELLO-38 has taken 14 damage from worldspawn.
+[22:37:55	]S10/OWS.GHOST-76 ran 'drop' on item 'OTA Mask' (#2047300)
+[22:37:55	]S10/OWS.GHOST-76 has lost a 'OTA Mask' #2047300.
+[22:37:57	]S10/OWS.GHOST-76 ran 'take' on item 'OTA Mask' (#2047300)
+[22:37:57	]S10/OWS.GHOST-76 has gained a 'OTA Mask' #2047300.
+[22:38:10	][INC] S10/OWS.GHOST-76: hi
+[22:38:24	]C17:RCT.YELLO-38 used the '<:: Armband Pickup ::>' vendor.
+[22:39:07	]S10/OWS.GHOST-76 ran 'use' on item 'Morphine' (#2047301)
+[22:39:07	]S10/OWS.GHOST-76 has performed the 'Use Morphine' action, gaining 56 experience in medicine.
+[22:39:07	]S10/OWS.GHOST-76 extended their level 4 short boost in Strength.
+[22:39:08	]C17:RCT.YELLO-38 has gained a '30rnd MP-magazine' #2047275.
+[22:39:08	]C17:RCT.YELLO-38 has lost a '30rnd MP-magazine' #2047271.
+[22:39:15	]C17:RCT.YELLO-38 has gained a '30rnd MP-magazine' #2047271.
+[22:39:15	]C17:RCT.YELLO-38 has lost a '30rnd MP-magazine' #2047275.
+[22:39:32	]S10/OWS.GHOST-76 used command '/PM dy' hi'.
+[22:39:36	]Dy'Turh-Dara Ahl Ormbah used command '/Reply hi'.
+[22:39:41	]S10/OWS.GHOST-76 has taken 5 damage from worldspawn.
+[22:40:04	]S10/OWS.GHOST-76 used command '/Amputate'.
+[22:40:12	]C17:RCT.YELLO-38 has gained a '30rnd MP-magazine' #2047275.
+[22:40:12	]C17:RCT.YELLO-38 has lost a '30rnd MP-magazine' #2047274.
+[22:40:25	]S10/OWS.GHOST-76 ran 'EquipUn' on item 'Rappel Gear' (#2047297)
+[22:40:56	]S10/OWS.GHOST-76 was knocked unconscious and is bleeding out.
+[22:40:57	]S10/OWS.GHOST-76 used command '/CharGetUp'.
+[22:41:11	]S10/OWS.GHOST-76 was just killed due to: accepting their death
+[22:41:24	]S10/OWS.GHOST-76 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[22:41:44	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:41:44	]S10/OWS.GHOST-76 has gained a 'OTA Suppressor Uniform' #2047302.
+[22:42:10	]S10/OWS.GHOST-76 ran 'drop' on item 'OTA Suppressor Uniform' (#2047302)
+[22:42:10	]S10/OWS.GHOST-76 has lost a 'OTA Suppressor Uniform' #2047302.
+[22:42:13	]S10/OWS.GHOST-76 ran 'take' on item 'OTA Suppressor Uniform' (#2047302)
+[22:42:13	]S10/OWS.GHOST-76 has gained a 'OTA Suppressor Uniform' #2047302.
+[22:42:17	]S10/OWS.GHOST-76 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[22:42:17	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[22:42:27	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:42:27	]S10/OWS.GHOST-76 has gained a 'OTA Valkyrie Uniform' #2047303.
+[22:42:50	][IC] S10/OWS.GHOST-76: Hi.
+[22:43:01	][IC] S10/OWS.GHOST-76: <:: hello >::.
+[22:43:02	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[22:43:07	][IC] S10/OWS.GHOST-76: <:: Hi. ::>
+[22:43:08	]S10/OWS.GHOST-76 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[22:43:13	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:43:13	]S10/OWS.GHOST-76 has gained a 'OTA Shotgunner Uniform' #2047304.
+[22:43:14	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:43:14	]S10/OWS.GHOST-76 has gained a 'OTA Squad Leader Uniform' #2047305.
+[22:43:16	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:43:16	]S10/OWS.GHOST-76 has gained a 'Summit 24 Elite Uniform' #2047306.
+[22:43:17	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[22:43:25	]S10/OWS.GHOST-76 ran 'drop' on item 'OTA Valkyrie Uniform' (#2047303)
+[22:43:55	]S10/OWS.GHOST-76 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[22:44:00	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:44:00	]S10/OWS.GHOST-76 has gained a 'OTA Mask' #2047307.
+[22:44:03	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:44:03	]S10/OWS.GHOST-76 has gained a 'OTA Mask' #2047308.
+[22:44:23	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:44:23	]C17:RCT.YELLO-38 has gained a '30rnd MP-magazine' #2047274.
+[22:44:23	]C17:RCT.YELLO-38 has lost a '30rnd MP-magazine' #2047275.
+[22:44:23	]S10/OWS.GHOST-76 has gained a 'OSITR' #2047309.
+[22:44:23	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:44:25	][IC] C17:RCT.YELLO-38: <:: Get down! ::>
+[22:44:26	]Dy'Turh-Dara Ahl Ormbah has taken 21 damage from worldspawn.
+[22:44:30	][Y] C17:RCT.YELLO-38: <:: Get down! ::>
+[22:44:31	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:44:33	][IC] C17:RCT.YELLO-38: <:: 1. ::>
+[22:44:34	][IC] C17:RCT.YELLO-38: <:: 2. ::>
+[22:44:35	][IC] C17:RCT.YELLO-38: <:: 3. ::>
+[22:44:35	][IC] C17:RCT.YELLO-38: <:: 4. ::>
+[22:44:36	]S10/OWS.GHOST-76 ran 'Equip' on item 'OSITR' (#2047309)
+[22:44:36	][IC] C17:RCT.YELLO-38: <:: 5. ::>
+[22:44:37	][IC] C17:RCT.YELLO-38: <:: 6. ::>
+[22:44:44	]S10/OWS.GHOST-76 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[22:44:45	]C17:RCT.YELLO-38 has taken 5 damage from Dy'Turh-Dara Ahl Ormbah.
+[22:44:45	]Dy'Turh-Dara Ahl Ormbah has damaged C17:RCT.YELLO-38, dealing 5 with ix_hands
+[22:44:50	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:44:50	]S10/OWS.GHOST-76 has gained a 'Large Bag' #2047312.
+[22:44:59	]Dy'Turh-Dara Ahl Ormbah has taken 5 damage from C17:RCT.YELLO-38.
+[22:44:59	]C17:RCT.YELLO-38 has damaged Dy'Turh-Dara Ahl Ormbah, dealing 5 with ix_hands
+[22:45:25	][IC] S10/OWS.GHOST-76: <:: Hi. ::>
+[22:45:30	]S10/OWS.GHOST-76 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[22:45:31	]C17:RCT.YELLO-38 has critically hit npc_combine_camera dealing 0 damage (CritChance was 0.88).
+[22:45:31	]C17:RCT.YELLO-38 has hit npc_combine_camera dealing 9 damage (CritChance was 0.88).
+[22:45:32	]C17:RCT.YELLO-38 has hit npc_combine_camera dealing 0 damage (CritChance was 0.88).
+[22:45:32	]C17:RCT.YELLO-38 has critically hit npc_combine_camera dealing 15 damage (CritChance was 0.88).
+[22:45:32	]C17:RCT.YELLO-38 has hit npc_combine_camera dealing 0 damage (CritChance was 0.88).
+[22:45:32	]C17:RCT.YELLO-38 has critically hit npc_combine_camera dealing 15 damage (CritChance was 0.88).
+[22:45:33	]C17:RCT.YELLO-38 has critically hit npc_combine_camera dealing 0 damage (CritChance was 0.88).
+[22:45:33	]C17:RCT.YELLO-38 has hit npc_combine_camera dealing 9 damage (CritChance was 0.88).
+[22:45:33	]C17:RCT.YELLO-38 has critically hit npc_combine_camera dealing 0 damage (CritChance was 0.88).
+[22:45:33	]C17:RCT.YELLO-38 has critically hit npc_combine_camera dealing 15 damage (CritChance was 0.88).
+[22:45:35	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:45:35	]S10/OWS.GHOST-76 has gained a 'Heavy Pulse Rounds' #2047313.
+[22:45:36	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:45:36	]S10/OWS.GHOST-76 has gained a 'Heavy Pulse Rounds' #2047314.
+[22:45:40	]S10/OWS.GHOST-76 ran 'EquipUn' on item 'OSITR' (#2047309)
+[22:45:41	]S10/OWS.GHOST-76 ran 'Equip' on item 'OSITR' (#2047309)
+[22:45:48	]S10/OWS.GHOST-76 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[22:45:53	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:45:53	]S10/OWS.GHOST-76 has gained a '24rnd Heavy-Pulse Magazine' #2047315.
+[22:45:56	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:45:56	]S10/OWS.GHOST-76 has gained a '60rnd OTAR-magazine' #2047316.
+[22:45:56	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:45:56	]S10/OWS.GHOST-76 has gained a '60rnd OTAR-magazine' #2047317.
+[22:45:57	]S10/OWS.GHOST-76 has gained 0 chips.
+[22:45:57	]S10/OWS.GHOST-76 has gained a '60rnd OTAR-magazine' #2047318.
+[22:46:12	]C17:RCT.YELLO-38 has fired a toolgun with the name: remover
+[22:46:17	]S10/OWS.GHOST-76 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[22:47:18	]S10/OWS.GHOST-76 ran 'drop' on item 'OTA Suppressor Uniform' (#2047302)
+[22:47:18	]S10/OWS.GHOST-76 has lost a 'OTA Suppressor Uniform' #2047302.
+[22:47:19	]S10/OWS.GHOST-76 ran 'drop' on item 'Summit 24 Elite Uniform' (#2047306)
+[22:47:19	]S10/OWS.GHOST-76 has lost a 'Summit 24 Elite Uniform' #2047306.
+[22:47:19	]S10/OWS.GHOST-76 ran 'drop' on item 'OTA Squad Leader Uniform' (#2047305)
+[22:47:19	]S10/OWS.GHOST-76 has lost a 'OTA Squad Leader Uniform' #2047305.
+[22:47:20	]S10/OWS.GHOST-76 ran 'drop' on item 'OTA Shotgunner Uniform' (#2047304)
+[22:47:20	]S10/OWS.GHOST-76 has lost a 'OTA Shotgunner Uniform' #2047304.
+[22:47:22	]Dy'Turh-Dara Ahl Ormbah ran 'take' on item 'Summit 24 Elite Uniform' (#2047306)
+[22:47:22	]Dy'Turh-Dara Ahl Ormbah has gained a 'Summit 24 Elite Uniform' #2047306.
+[22:47:26	]S10/OWS.GHOST-76 ran 'drop' on item 'OTA Mask' (#2047308)
+[22:47:26	]S10/OWS.GHOST-76 has lost a 'OTA Mask' #2047308.
+[22:47:28	]C17:RCT.YELLO-38 ran 'take' on item 'OTA Squad Leader Uniform' (#2047305)
+[22:47:31	]Dy'Turh-Dara Ahl Ormbah ran 'take' on item 'OTA Mask' (#2047308)
+[22:47:31	]Dy'Turh-Dara Ahl Ormbah has gained a 'OTA Mask' #2047308.
+[22:47:31	]C17:RCT.YELLO-38 ran 'take' on item 'OTA Squad Leader Uniform' (#2047305)
+[22:47:33	]C17:RCT.YELLO-38 ran 'take' on item 'OTA Shotgunner Uniform' (#2047304)
+[22:47:34	][IC] Dy'Turh-Dara Ahl Ormbah: Check.
+[22:47:34	]C17:RCT.YELLO-38 ran 'take' on item 'OTA Suppressor Uniform' (#2047302)
+[22:47:46	]C17:RCT.YELLO-38 ran 'take' on item 'OTA Squad Leader Uniform' (#2047305)
+[22:47:48	]C17:RCT.YELLO-38 ran 'take' on item 'OTA Squad Leader Uniform' (#2047305)
+[22:47:52	]C17:RCT.YELLO-38 ran 'EquipUn' on item 'MP7A1' (#2047269)
+[22:47:52	]C17:RCT.YELLO-38 has gained a '30rnd MP-magazine' #2047275.
+[22:47:55	]C17:RCT.YELLO-38 ran 'Equip' on item 'MP7A1' (#2047269)
+[22:47:56	]C17:RCT.YELLO-38 ran 'take' on item 'OTA Squad Leader Uniform' (#2047305)
+[22:47:59	]C17:RCT.YELLO-38 ran 'take' on item 'OTA Suppressor Uniform' (#2047302)
+[22:48:00	]C17:RCT.YELLO-38 ran 'take' on item 'OTA Shotgunner Uniform' (#2047304)
+[22:48:09	]Dy'Turh-Dara Ahl Ormbah ran 'drop' on item 'OTA Mask' (#2047308)
+[22:48:09	]Dy'Turh-Dara Ahl Ormbah has lost a 'OTA Mask' #2047308.
+[22:48:09	]Dy'Turh-Dara Ahl Ormbah ran 'drop' on item 'Summit 24 Elite Uniform' (#2047306)
+[22:48:09	]Dy'Turh-Dara Ahl Ormbah has lost a 'Summit 24 Elite Uniform' #2047306.
+[22:48:16	]C17:RCT.YELLO-38 has lost a '30rnd MP-magazine' #2047275.
+[22:48:18	][IC] S10/OWS.GHOST-76: <:: Citizen. ::>
+[22:48:35	]C17:RCT.YELLO-38 has critically hit S10/OWS.GHOST-76 dealing 15 damage (CritChance was 0.22).
+[22:48:35	]S10/OWS.GHOST-76 has taken 15 damage from C17:RCT.YELLO-38.
+[22:48:35	]C17:RCT.YELLO-38 has hit S10/OWS.GHOST-76 dealing 9 damage (CritChance was 0.22).
+[22:48:35	]S10/OWS.GHOST-76 has taken 9 damage from C17:RCT.YELLO-38.
+[22:48:35	]C17:RCT.YELLO-38 has hit S10/OWS.GHOST-76 dealing 9 damage (CritChance was 0.22).
+[22:48:35	]S10/OWS.GHOST-76 has taken 9 damage from C17:RCT.YELLO-38.
+[22:48:35	]C17:RCT.YELLO-38 has hit S10/OWS.GHOST-76 dealing 9 damage (CritChance was 0.22).
+[22:48:35	]S10/OWS.GHOST-76 has taken 9 damage from C17:RCT.YELLO-38.
+[22:48:35	]C17:RCT.YELLO-38 has critically hit S10/OWS.GHOST-76 dealing 15 damage (CritChance was 0.22).
+[22:48:35	]S10/OWS.GHOST-76 has taken 15 damage from C17:RCT.YELLO-38.
+[22:48:35	]C17:RCT.YELLO-38 has hit S10/OWS.GHOST-76 dealing 9 damage (CritChance was 0.22).
+[22:48:35	]S10/OWS.GHOST-76 has taken 9 damage from C17:RCT.YELLO-38.
+[22:48:35	]C17:RCT.YELLO-38 has critically hit S10/OWS.GHOST-76 dealing 15 damage (CritChance was 0.22).
+[22:48:35	]S10/OWS.GHOST-76 has taken 15 damage from C17:RCT.YELLO-38.
+[22:48:35	]C17:RCT.YELLO-38 has hit S10/OWS.GHOST-76 dealing 9 damage (CritChance was 0.22).
+[22:48:35	]S10/OWS.GHOST-76 has taken 9 damage from C17:RCT.YELLO-38.
+[22:48:35	]C17:RCT.YELLO-38 has hit S10/OWS.GHOST-76 dealing 9 damage (CritChance was 0.22).
+[22:48:35	]S10/OWS.GHOST-76 has taken 9 damage from C17:RCT.YELLO-38.
+[22:48:35	]C17:RCT.YELLO-38 has hit S10/OWS.GHOST-76 dealing 9 damage (CritChance was 0.22).
+[22:48:35	]S10/OWS.GHOST-76 has taken 9 damage from C17:RCT.YELLO-38.
+[22:48:35	]C17:RCT.YELLO-38 has critically hit S10/OWS.GHOST-76 dealing 15 damage (CritChance was 0.88).
+[22:48:35	]S10/OWS.GHOST-76 has taken 15 damage from C17:RCT.YELLO-38.
+[22:48:35	]C17:RCT.YELLO-38 has hit S10/OWS.GHOST-76 dealing 9 damage (CritChance was 0.88).
+[22:48:35	]S10/OWS.GHOST-76 has taken 9 damage from C17:RCT.YELLO-38.
+[22:48:35	]C17:RCT.YELLO-38 has hit S10/OWS.GHOST-76 dealing 9 damage (CritChance was 0.88).
+[22:48:35	]S10/OWS.GHOST-76 has taken 9 damage from C17:RCT.YELLO-38.
+[22:48:36	]C17:RCT.YELLO-38 has critically hit S10/OWS.GHOST-76 dealing 15 damage (CritChance was 0.88).
+[22:48:36	]S10/OWS.GHOST-76 has taken 15 damage from C17:RCT.YELLO-38.
+[22:48:36	]C17:RCT.YELLO-38 has hit S10/OWS.GHOST-76 dealing 9 damage (CritChance was 0.88).
+[22:48:36	]S10/OWS.GHOST-76 has taken 9 damage from C17:RCT.YELLO-38.
+[22:48:36	]C17:RCT.YELLO-38 has critically hit S10/OWS.GHOST-76 dealing 15 damage (CritChance was 0.88).
+[22:48:36	]S10/OWS.GHOST-76 has taken 15 damage from C17:RCT.YELLO-38.
+[22:48:36	]C17:RCT.YELLO-38 has critically hit S10/OWS.GHOST-76 dealing 15 damage (CritChance was 0.88).
+[22:48:36	]S10/OWS.GHOST-76 has taken 15 damage from C17:RCT.YELLO-38.
+[22:48:36	]C17:RCT.YELLO-38 has critically hit S10/OWS.GHOST-76 dealing 15 damage (CritChance was 0.88).
+[22:48:36	]S10/OWS.GHOST-76 was knocked unconscious and is bleeding out.
+[22:48:54	]S10/OWS.GHOST-76 was just killed due to: accepting their death
+[22:49:32	][IC] S10/OWS.GHOST-76: <:: Possible evasion, requesting location! ::>
+[22:49:43	]S10/OWS.GHOST-76 ran 'take' on item 'Summit 24 Elite Uniform' (#2047306)
+[22:49:45	]S10/OWS.GHOST-76 ran 'take' on item 'Summit 24 Elite Uniform' (#2047306)
+[22:49:49	]C17:RCT.YELLO-38 has changed C17:RCT.YELLO-38's bodygroups.
+[22:49:52	]S10/OWS.GHOST-76 ran 'take' on item 'Summit 24 Elite Uniform' (#2047306)
+[22:49:52	]S10/OWS.GHOST-76 has gained a 'Summit 24 Elite Uniform' #2047306.
+[22:49:53	]Muho has unloaded their "C17:RCT.YELLO-38" character.
+[22:50:04	]Muho loaded the character 'Johann Schnöselberg'
+[22:50:10	]S10/OWS.GHOST-76 ran 'take' on item 'OTA Suppressor Uniform' (#2047302)
+[22:50:10	]S10/OWS.GHOST-76 has gained a 'OTA Suppressor Uniform' #2047302.
+[22:51:07	][IC] S10/OWS.GHOST-76: <:: Ground team alert, target one has extractors. ::>
+[22:51:32	]S10/OWS.GHOST-76 used command '/Amputate'.
+[22:51:41	]S10/OWS.GHOST-76 used command '/Amputate'.
+[22:52:00	][IC] S10/OWS.GHOST-76: <:: Copy, accepted. Updating cognitive suppression biodats. Update complete in T-Minus three seconds. Dissonance resolved. ::>
+[22:52:10	]Dy'Turh-Dara Ahl Ormbah used command '/VortStun'.
+[22:52:14	]S10/OWS.GHOST-76 used command '/CharGetUp'.
+[22:52:18	]Muho has unloaded their "Johann Schnöselberg" character.
+[22:52:22	]S10/OWS.GHOST-76 used command '/CharGetUp'.
+[22:52:23	]S10/OWS.GHOST-76 used command '/CharGetUp'.
+[22:52:24	]S10/OWS.GHOST-76 used command '/CharGetUp'.
+[22:52:25	]S10/OWS.GHOST-76 used command '/CharGetUp'.
+[22:52:25	]S10/OWS.GHOST-76 used command '/CharGetUp'.
+[22:52:26	]S10/OWS.GHOST-76 used command '/CharGetUp'.
+[22:52:27	]S10/OWS.GHOST-76 used command '/CharGetUp'.
+[22:52:28	]Muho loaded the character 'C17:RCT.YELLO-38'
+[22:52:33	][IC] S10/OWS.GHOST-76: <:: Help. ::>
+[22:52:41	][IC] S10/OWS.GHOST-76: <:: We can help you, it is safe! ::>
+[22:52:50	][IC] S10/OWS.GHOST-76: <:: Overwatch is confirming sector lockdown. Anti-citizen One is... Uh, displaced and activated. Keep sightlines open and sound on. ::>
+[22:52:51	]S10/OWS.GHOST-76 used command '/CharGetUp'.
+[22:52:55	]Dy'Turh-Dara Ahl Ormbah used command '/VortStun'.
+[22:52:58	]C17:RCT.YELLO-38 has gained a '30rnd MP-magazine' #2047275.
+[22:52:59	]C17:RCT.YELLO-38 used command '/CharGetUp'.
+[22:53:02	][IC] S10/OWS.GHOST-76: <:: Haha. ::>
+[22:53:05	][IC] C17:RCT.YELLO-38: <:: Haha. ::>
+[22:53:05	][IC] S10/OWS.GHOST-76: <:: Haha. ::>
+[22:53:06	][IC] S10/OWS.GHOST-76: <:: Haha. ::>
+[22:53:07	][IC] S10/OWS.GHOST-76: <:: Haha. ::>
+[22:53:08	][IC] C17:RCT.YELLO-38: <:: Haha. ::>
+[22:53:08	][IC] S10/OWS.GHOST-76: <:: Haha. ::>
+[22:53:09	][IC] C17:RCT.YELLO-38: <:: Haha. ::>
+[22:53:09	][IC] S10/OWS.GHOST-76: <:: Haha. ::>
+[22:53:14	][IC] C17:RCT.YELLO-38: <:: Figures. ::>
+[22:53:15	][IC] S10/OWS.GHOST-76: <:: Figures. ::>
+[22:53:20	][IC] C17:RCT.YELLO-38: <:: No. ::>
+[22:53:23	][IC] S10/OWS.GHOST-76: <:: Eleven. ::>
+[22:53:25	][IC] C17:RCT.YELLO-38: <:: 55. ::>
+[22:53:28	][IC] S10/OWS.GHOST-76: <:: 100. ::>
+[22:53:30	][IC] C17:RCT.YELLO-38: <:: Fifty. ::>
+[22:53:33	][IC] C17:RCT.YELLO-38: <:: 1. ::>
+[22:53:34	][IC] C17:RCT.YELLO-38: <:: 2. ::>
+[22:53:35	][IC] S10/OWS.GHOST-76: <:: 10-4, over. ::>
+[22:53:36	][IC] C17:RCT.YELLO-38: <:: 1 2. ::>
+[22:53:48	][IC] C17:RCT.YELLO-38: <:: 1 2 3 4 5 6 7 8 9. ::>
+[22:54:34	][IC] S10/OWS.GHOST-76: <:: Hi. ::>
+[22:54:41	][IC] S10/OWS.GHOST-76: <:: Hello. ::>
+[22:54:47	][IC] Dy'Turh-Dara Ahl Ormbah: Hello.
+[22:55:09	][IC] S10/OWS.GHOST-76: <:: Back to sleep. ::>
+[22:55:43	][IC] S10/OWS.GHOST-76: <:: Hi. ::>
+[22:56:19	][IC] S10/OWS.GHOST-76: <:: Citizen. ::>
+[22:56:23	][IC] C17:RCT.YELLO-38: <:: Citizen. ::>
+[22:56:25	][IC] C17:RCT.YELLO-38: <:: Shitizen. ::>
+[22:56:25	][IC] S10/OWS.GHOST-76: <:: Yes. ::>
+[22:56:28	][IC] S10/OWS.GHOST-76: <:: Apply. ::>
+[22:56:29	][IC] Dy'Turh-Dara Ahl Ormbah: Sent you image of Cyrus.
+[22:56:31	][IC] C17:RCT.YELLO-38: <:: Apply. ::>
+[22:56:33	][IC] S10/OWS.GHOST-76: <:: Okay. ::>
+[22:56:34	][IC] C17:RCT.YELLO-38: <:: Wall. ::>
+[22:56:39	][IC] C17:RCT.YELLO-38: <:: Face the wall. ::>
+[22:56:59	][IC] Dy'Turh-Dara Ahl Ormbah: A human is needed!
+[22:57:05	][IC] Dy'Turh-Dara Ahl Ormbah: Agreed.
+[22:57:12	][IC] Dy'Turh-Dara Ahl Ormbah: Ah ghurrrr...
+[22:57:16	][IC] C17:RCT.YELLO-38: <:: 34S. ::>
+[22:57:26	][IC] C17:RCT.YELLO-38: <:: Any unit, report in with 10-25 as suspect. ::>
+[22:57:26	][IC] Dy'Turh-Dara Ahl Ormbah: Antlion husbandry was once our ancestral practice.
+[22:57:37	][IC] S10/OWS.GHOST-76: <:: Ripcord, ripcord. ::>
+[22:57:39	][IC] Dy'Turh-Dara Ahl Ormbah: I have a brain injury.
+[22:57:41	][IC] Dy'Turh-Dara Ahl Ormbah: I have a brain injury.
+[22:57:42	][IC] Dy'Turh-Dara Ahl Ormbah: I have a brain injury.
+[22:57:43	][IC] Dy'Turh-Dara Ahl Ormbah: I have a brain injury.
+[22:57:44	][IC] Dy'Turh-Dara Ahl Ormbah: I have a brain injury.
+[22:57:45	][IC] Dy'Turh-Dara Ahl Ormbah: Antlion husbandry was once our ancestral practice.
+[22:57:47	][IC] Dy'Turh-Dara Ahl Ormbah: I have a brain injury.
+[22:57:48	][IC] S10/OWS.GHOST-76: <:: Uh, yep, nothing to report, over. ::>
+[22:57:50	][IC] S10/OWS.GHOST-76: <:: Uh, yep, nothing to report, over. ::>
+[22:57:51	][IC] S10/OWS.GHOST-76: <:: Uh, yep, nothing to report, over. ::>
+[22:57:52	][IC] S10/OWS.GHOST-76: <:: Uh, yep, nothing to report, over. ::>
+[22:57:52	][IC] S10/OWS.GHOST-76: <:: Uh, yep, nothing to report, over. ::>
+[22:57:53	][IC] S10/OWS.GHOST-76: <:: Uh, yep, nothing to report, over. ::>
+[22:57:54	][IC] S10/OWS.GHOST-76: <:: Uh, yep, nothing to report, over. ::>
+[22:58:02	][IC] Dy'Turh-Dara Ahl Ormbah: We cannot heal a moving target.
+[22:58:09	][IC] S10/OWS.GHOST-76: <:: They're still alive. ::>
+[22:58:16	][IC] C17:RCT.YELLO-38: <:: Control is one-hundred percent this location, no sign of that 647-E. ::>
+[22:58:19	][IC] S10/OWS.GHOST-76: <:: Boomer. ::>
+[22:58:21	][IC] S10/OWS.GHOST-76: <:: Boomer. ::>
+[22:58:22	][IC] C17:RCT.YELLO-38: <:: 300. ::>
+[22:58:22	][IC] S10/OWS.GHOST-76: <:: Boomer. ::>
+[22:58:23	][IC] C17:RCT.YELLO-38: <:: 300. ::>
+[22:58:25	][IC] C17:RCT.YELLO-38: <:: Boomer. ::>
+[22:58:28	][IC] Dy'Turh-Dara Ahl Ormbah: Defend us!
+[22:58:34	][IC] S10/OWS.GHOST-76: <:: Has negative movement. ::>
+[22:58:40	][IC] C17:RCT.YELLO-38: <:: Possible 10-103, my location, alert TAG units!. ::>
+[22:58:42	][IC] Dy'Turh-Dara Ahl Ormbah: Your journey brings you this far.
+[22:59:40	]S10/OWS.GHOST-76 ran 'Equip' on item 'OSITR' (#2047309)
+[23:01:32	][IC] S10/OWS.GHOST-76: <:: Jackpot confirmed. Jackpot confirmed. Jackpot confirmed. Jackpot confirmed. ::>
+[23:01:51	][ALB] S10/OWS.GHOST-76: hi
+[23:02:28	][ITA] S10/OWS.GHOST-76: hi
+[23:02:29	]Dy'Turh-Dara Ahl Ormbah used command '/vortessence'.
+[23:03:29	]Dy'Turh-Dara Ahl Ormbah used command '/vortessence'.
+[23:03:38	]S10/OWS.GHOST-76 ran 'Equip' on item 'Combine PDA' (#2047294)
+[23:04:09	][IC] S10/OWS.GHOST-76: <:: Hey, watch it. I don't wanna get any of this crap on me. ::>
+[23:04:10	]C17:RCT.YELLO-38 ran 'Equip' on item 'Combine PDA' (#2047262)
+[23:04:31	]Dy'Turh-Dara Ahl Ormbah used command '/vortessence'.
+[23:04:57	][IC] S10/OWS.GHOST-76: <:: Hey. ::>
+[23:10:40	]Dy'Turh-Dara Ahl Ormbah used command '/vortessence'.
+[23:13:58	]C17:RCT.YELLO-38 has gone afk.
+[23:14:18	]C17:RCT.YELLO-38 is no longer afk. Total time spent AFK: 315
+[23:21:50	]S10/OWS.GHOST-76 ran 'use' on item 'Morphine' (#2047301)
+[23:21:50	]S10/OWS.GHOST-76 has gained a level 4 short boost in Strength.
+[23:21:53	]S10/OWS.GHOST-76 is fully healed.
+[23:24:48	]S10/OWS.GHOST-76 used command '/Broadcast Hello'.
+[23:25:09	][ARA] S10/OWS.GHOST-76: Deez nuts
+[23:25:44	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[23:25:49	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[23:25:53	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[23:25:58	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[23:26:05	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[23:26:09	][IC] S10/OWS.GHOST-76: <:: Stand down, target is friendly! ::>
+[23:26:30	]S10/OWS.GHOST-76 has fired a toolgun with the name: remover
+[23:26:30	]S10/OWS.GHOST-76 has fired a toolgun with the name: remover
+[23:26:30	]S10/OWS.GHOST-76 has fired a toolgun with the name: remover
+[23:26:30	]S10/OWS.GHOST-76 has fired a toolgun with the name: remover
+[23:27:46	]C17:RCT.YELLO-38 has spawned 'models/props/coop_kashbah/wheelchair/wheelchair.mdl'.
+[23:27:55	]C17:RCT.YELLO-38 has spawned 'models/props_unique/wheelchair01.mdl'.
+[23:28:28	][IC] S10/OWS.GHOST-76: <:: Hey! ::>
+[23:28:31	][IC] S10/OWS.GHOST-76: <:: Ddrop it. ::>
+[23:28:33	][IC] S10/OWS.GHOST-76: <:: Drop it. ::>
+[23:28:50	]C17:RCT.YELLO-38 has spawned 'models/vj_hlr/decay/wheelchair.mdl'.
+[23:29:12	][IC] S10/OWS.GHOST-76: <:: Brb. ::>
+[23:29:23	]Dy'Turh-Dara Ahl Ormbah used command '/ActIdle'.
+[23:33:01	]Dy'Turh-Dara Ahl Ormbah used command '/ExitAct'.
+[23:37:05	][VORT] Dy'Turh-Dara Ahl Ormbah has healed C17:RCT.YELLO-38
+[23:41:22	][ME] S10/OWS.GHOST-76: pushes himself through.
+[23:42:31	]S10/OWS.GHOST-76 has taken 18 damage from worldspawn.
+[23:42:40	]S10/OWS.GHOST-76 has taken 11 damage from worldspawn.
+[23:43:51	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[23:43:54	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[23:46:32	][IC] S10/OWS.GHOST-76: <:: Citizen. ::>
+[23:46:49	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[23:46:57	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[23:47:02	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[23:47:19	]C17:RCT.YELLO-38 used command '/Doorkick'.
+[23:49:24	]C17:RCT.YELLO-38 has spawned 'models/props_junk/popcan01a.mdl'.
+[23:49:41	]C17:RCT.YELLO-38 ran 'EquipUn' on item 'MP7A1' (#2047269)
+[23:49:42	]C17:RCT.YELLO-38 ran 'drop' on item 'MP7A1' (#2047269)
+[23:49:42	]C17:RCT.YELLO-38 has lost a 'MP7A1' #2047269.
+[23:50:02	]Dy'Turh-Dara Ahl Ormbah ran 'take' on item 'MP7A1' (#2047269)
+[23:50:02	]Dy'Turh-Dara Ahl Ormbah has gained a 'MP7A1' #2047269.
+[23:50:05	][IC] S10/OWS.GHOST-76: <:: Citizen. ::>
+[23:51:27	]Dy'Turh-Dara Ahl Ormbah used command '/CharFallOver 1'.
+[23:51:47	][IC] S10/OWS.GHOST-76: <:: Citizen. ::>
+[23:53:20	]C17:RCT.YELLO-38 has taken 14 damage from worldspawn.
+[23:53:24	]Dy'Turh-Dara Ahl Ormbah has taken 14 damage from worldspawn.
+[23:53:27	]C17:RCT.YELLO-38 has taken 1 damage from worldspawn.
+[23:53:28	]S10/OWS.GHOST-76 has taken 14 damage from worldspawn.
+[23:53:48	]S10/OWS.GHOST-76 has taken 1 damage from worldspawn.
+[23:54:28	]S10/OWS.GHOST-76 has taken 10 damage from C17:RCT.YELLO-38.
+[23:54:33	][IC] S10/OWS.GHOST-76: <:: Citizen. ::>
+[23:56:07	][IC] S10/OWS.GHOST-76: <:: Hot. ::>
+[23:56:57	]S10/OWS.GHOST-76 has taken 2 damage from S10/OWS.GHOST-76.
+[23:56:57	]Dy'Turh-Dara Ahl Ormbah has taken 2 damage from S10/OWS.GHOST-76.
+[23:57:14	][IC] S10/OWS.GHOST-76: <:: Citizen. ::>

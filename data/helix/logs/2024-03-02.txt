@@ -1,0 +1,750 @@
+[11:00:16	]Furious has connected.
+[11:01:14	]Furious loaded the character 'Koshida Oda'
+[11:01:19	]Koshida Oda is fully healed.
+[11:01:32	]Koshida Oda entered observer.
+[11:01:33	]Koshida Oda exited observer at their location.
+[11:01:44	]Koshida Oda entered observer.
+[11:01:54	]Koshida Oda exited observer at their location.
+[11:02:11	]Koshida Oda has spawned a beard_razor.
+[11:02:21	]Koshida Oda entered observer.
+[11:02:21	]Koshida Oda exited observer at their location.
+[11:02:48	]Koshida Oda has spawned 'models/willardnetworks/conscripts/female_01.mdl'.
+[11:02:50	]Koshida Oda has spawned 'models/willardnetworks/conscripts/male_08.mdl'.
+[11:03:04	]Koshida Oda used command '/CharSetModel Koshida models/willardnetworks/citizens/male_05.mdl'.
+[11:03:11	][IC] Koshida Oda: Models/willardnetworks/citizens/male_05.mdl 1.
+[11:03:14	]Koshida Oda used command '/CharSetModel Koshida models/willardnetworks/citizens/male_05.mdl 1'.
+[11:03:17	]Koshida Oda used command '/ActStand'.
+[11:03:20	]Koshida Oda used command '/CharSetModel Koshida models/willardnetworks/citizens/male_05.mdl 2'.
+[11:03:24	]Koshida Oda used command '/CharSetModel Koshida models/willardnetworks/citizens/male_05.mdl 3'.
+[11:03:36	]Koshida Oda used command '/CharSetModel Koshida models/willardnetworks/citizens/male_05.mdl 3'.
+[11:03:37	]Koshida Oda used command '/CharSetModel Koshida models/willardnetworks/citizens/male_05.mdl 4'.
+[11:03:51	]Koshida Oda used command '/ExitAct'.
+[11:03:55	]Koshida Oda used command '/ActStand'.
+[11:04:05	]Koshida Oda used command '/CharSetBodygroup koshida skin 3'.
+[11:04:11	]Koshida Oda used command '/CharSetBodygroup koshida Skin'.
+[11:04:18	]Koshida Oda used command '/CharSetBodygroup koshida skin 3'.
+[11:04:26	]Koshida Oda used command '/CharSetBodygroup koshida skin 3'.
+[11:04:34	]Koshida Oda used command '/CharSetBodygroup Koshida Skin 3'.
+[11:04:46	]Koshida Oda used command '/CharSetBodygroup Koshida Oda Skin 3'.
+[11:05:07	]Koshida Oda used command '/CharSetBodygroup STEAM_0:1:543970363 Skin 3'.
+[11:05:09	]Koshida Oda used command '/CharSetBodygroup STEAM_0:1:543970363 Skin 3'.
+[11:05:12	]Koshida Oda used command '/ExitAct'.
+[11:05:19	]Koshida Oda used command '/ActStand'.
+[11:05:26	]Koshida Oda used command '/ExitAct'.
+[11:05:39	]Furious (STEAM_0:1:543970363) has disconnected.
+[11:58:42	]Furious has connected.
+[12:00:42	]Furious loaded the character 'Koshida Oda'
+[12:01:12	]Koshida Oda ran 'Equip' on item 'Combine PDA' (#1953830)
+[12:01:13	]Koshida Oda entered observer.
+[12:02:25	]Koshida Oda used command '/CharSetBodygroup Koshida Skin 3'.
+[12:02:42	]Koshida Oda used command '/CharSetBodygroup Koshida 2'.
+[12:02:46	]Koshida Oda used command '/CharSetBodygroup Koshida Skin'.
+[12:02:50	]Koshida Oda used command '/CharSetBodygroup Koshida Oda'.
+[12:02:53	]Koshida Oda used command '/CharSetBodygroup Koshida Oda Skin 2'.
+[12:03:12	]Koshida Oda used command '/CharSetBodygroup Koshida Skin 3'.
+[12:03:50	]Koshida Oda used command '/CharSetBodygroup Koshida Oda Skin 3'.
+[12:04:10	]Koshida Oda used command '/CharSetBodygroup STEAM_0:1:543970363 Skin 3'.
+[12:04:37	]Koshida Oda exited observer at their location.
+[12:04:40	]Koshida Oda used command '/ActStand'.
+[12:05:01	]Koshida Oda used command '/ExitAct'.
+[12:05:12	]Koshida Oda has spawned a beard_razor.
+[12:05:14	]Koshida Oda ran 'take' on item 'Hairdresser tools' (#2690371)
+[12:05:14	]Koshida Oda has gained a 'Hairdresser tools' #2690371.
+[12:05:16	]Koshida Oda ran 'Style' on item 'Hairdresser tools' (#2690371)
+[12:06:07	]Koshida Oda used command '/CharSetBodygroup Koshida Skin 3'.
+[12:06:57	]Koshida Oda entered observer.
+[12:07:05	]Koshida Oda exited observer at their location.
+[12:07:06	]Koshida Oda has spawned a cca_authoritarian.
+[12:07:07	]Koshida Oda entered observer.
+[12:07:09	]Koshida Oda has spawned a cca_legs_authoritarian.
+[12:07:10	]Koshida Oda ran 'take' on item 'The Authoritarian Trousers' (#2690373)
+[12:07:10	]Koshida Oda has gained a 'The Authoritarian Trousers' #2690373.
+[12:07:12	]Koshida Oda ran 'take' on item 'The Authoritarian' (#2690372)
+[12:07:12	]Koshida Oda has gained a 'The Authoritarian' #2690372.
+[12:07:20	]Koshida Oda ran 'drop' on item 'The Authoritarian' (#2690372)
+[12:07:20	]Koshida Oda has lost a 'The Authoritarian' #2690372.
+[12:07:21	]Koshida Oda ran 'drop' on item 'The Authoritarian Trousers' (#2690373)
+[12:07:21	]Koshida Oda has lost a 'The Authoritarian Trousers' #2690373.
+[12:07:26	]Koshida Oda has used a context menu option with the name: rb655_dissolve
+[12:07:27	]Koshida Oda has used a context menu option with the name: rb655_dissolve
+[12:07:28	]env_entity_dissolver destroyed a 'The Authoritarian Trousers' #2690373.
+[12:07:29	]env_entity_dissolver destroyed a 'The Authoritarian' #2690372.
+[12:07:31	]Koshida Oda has spawned a cca_coat_authoritarian.
+[12:07:33	]Koshida Oda ran 'take' on item 'Authoritarian's Coat' (#2690374)
+[12:07:33	]Koshida Oda has gained a 'Authoritarian's Coat' #2690374.
+[12:07:35	]Koshida Oda has spawned a cca_legs_authoritarian.
+[12:07:36	]Koshida Oda ran 'take' on item 'The Authoritarian Trousers' (#2690375)
+[12:07:36	]Koshida Oda has gained a 'The Authoritarian Trousers' #2690375.
+[12:08:25	]Koshida Oda exited observer at their location.
+[12:08:29	]Koshida Oda has spawned a cca_coat_devil.
+[12:08:30	]Koshida Oda ran 'take' on item 'Devil's Advocates Coat' (#2690376)
+[12:08:30	]Koshida Oda has gained a 'Devil's Advocates Coat' #2690376.
+[12:08:49	]Koshida Oda entered observer.
+[12:08:53	]Koshida Oda exited observer at their location.
+[12:09:00	]Koshida Oda ran 'drop' on item 'Devil's Advocates Coat' (#2690376)
+[12:09:00	]Koshida Oda has lost a 'Devil's Advocates Coat' #2690376.
+[12:09:03	]Koshida Oda has used a context menu option with the name: remove
+[12:09:05	]Koshida Oda ran 'drop' on item 'Authoritarian's Coat' (#2690374)
+[12:09:05	]Koshida Oda has lost a 'Authoritarian's Coat' #2690374.
+[12:09:07	]Koshida Oda ran 'drop' on item 'The Authoritarian Trousers' (#2690375)
+[12:09:07	]Koshida Oda has lost a 'The Authoritarian Trousers' #2690375.
+[12:09:08	]Koshida Oda has used a context menu option with the name: rb655_dissolve
+[12:09:09	]Koshida Oda has used a context menu option with the name: rb655_dissolve
+[12:09:10	]env_entity_dissolver destroyed a 'The Authoritarian Trousers' #2690375.
+[12:09:11	]env_entity_dissolver destroyed a 'Authoritarian's Coat' #2690374.
+[12:09:15	]Koshida Oda has spawned a cca_vanilla.
+[12:09:17	]Koshida Oda ran 'take' on item 'Mr. Vanilla' (#2690377)
+[12:09:17	]Koshida Oda has gained a 'Mr. Vanilla' #2690377.
+[12:09:19	]Koshida Oda has spawned a cca_legs_vanilla.
+[12:09:20	]Koshida Oda ran 'take' on item 'Vanilla Trousers' (#2690378)
+[12:09:20	]Koshida Oda has gained a 'Vanilla Trousers' #2690378.
+[12:09:29	]Koshida Oda ran 'drop' on item 'Mr. Vanilla' (#2690377)
+[12:09:29	]Koshida Oda has lost a 'Mr. Vanilla' #2690377.
+[12:09:30	]Koshida Oda ran 'drop' on item 'Vanilla Trousers' (#2690378)
+[12:09:30	]Koshida Oda has lost a 'Vanilla Trousers' #2690378.
+[12:09:32	]Koshida Oda has used a context menu option with the name: rb655_dissolve
+[12:09:33	]Koshida Oda has used a context menu option with the name: rb655_dissolve
+[12:09:34	]env_entity_dissolver destroyed a 'Vanilla Trousers' #2690378.
+[12:09:35	]env_entity_dissolver destroyed a 'Mr. Vanilla' #2690377.
+[12:10:07	]Koshida Oda used command '/CharEditBodygroup Koshida'.
+[12:10:52	]Koshida Oda has spawned 'models/willardnetworks/citizens/male_05.mdl'.
+[12:11:01	]Koshida Oda entered observer.
+[12:11:49	]Koshida Oda exited observer at their location.
+[12:11:55	]Koshida Oda has spawned a cca_executive.
+[12:11:56	]Koshida Oda ran 'take' on item 'The Executive' (#2690379)
+[12:11:56	]Koshida Oda has gained a 'The Executive' #2690379.
+[12:11:58	]Koshida Oda has spawned a cca_legs_authoritarian.
+[12:11:59	]Koshida Oda ran 'take' on item 'The Authoritarian Trousers' (#2690380)
+[12:11:59	]Koshida Oda has gained a 'The Authoritarian Trousers' #2690380.
+[12:12:11	]Koshida Oda has spawned a head_fedora.
+[12:12:14	]Koshida Oda ran 'take' on item 'Black Fedora' (#2690381)
+[12:12:14	]Koshida Oda has gained a 'Black Fedora' #2690381.
+[12:12:29	]Koshida Oda has spawned a head_flat_cap.
+[12:12:31	]Koshida Oda ran 'take' on item 'Flat Cap' (#2690382)
+[12:12:31	]Koshida Oda has gained a 'Flat Cap' #2690382.
+[12:12:32	]Koshida Oda has spawned a head_military_cap.
+[12:12:33	]Koshida Oda ran 'take' on item 'Military Cap' (#2690383)
+[12:12:33	]Koshida Oda has gained a 'Military Cap' #2690383.
+[12:12:46	]Koshida Oda has spawned a hands_gloves.
+[12:12:49	]Koshida Oda ran 'take' on item 'Gloves' (#2690384)
+[12:12:49	]Koshida Oda has gained a 'Gloves' #2690384.
+[12:13:05	]Koshida Oda ran 'drop' on item 'Gloves' (#2690384)
+[12:13:05	]Koshida Oda has lost a 'Gloves' #2690384.
+[12:13:07	]Koshida Oda has used a context menu option with the name: remove
+[12:13:11	]Koshida Oda has spawned a face_mask.
+[12:13:16	]Koshida Oda ran 'take' on item 'Surgical Mask' (#2690385)
+[12:13:16	]Koshida Oda has gained a 'Surgical Mask' #2690385.
+[12:13:35	]Koshida Oda ran 'drop' on item 'Military Cap' (#2690383)
+[12:13:35	]Koshida Oda has lost a 'Military Cap' #2690383.
+[12:13:46	]Koshida Oda used command '/ActStand'.
+[12:13:50	]Koshida Oda ran 'drop' on item 'Flat Cap' (#2690382)
+[12:13:50	]Koshida Oda has lost a 'Flat Cap' #2690382.
+[12:13:54	]Koshida Oda has used a context menu option with the name: remove
+[12:13:57	]Koshida Oda has used a context menu option with the name: remove
+[12:14:11	]Koshida Oda used command '/ExitAct'.
+[12:14:23	]Koshida Oda has spawned a cca_coat_wolf.
+[12:14:24	]Koshida Oda ran 'take' on item 'The Wolf' (#2690386)
+[12:14:24	]Koshida Oda has gained a 'The Wolf' #2690386.
+[12:15:00	]Koshida Oda ran 'Style' on item 'Hairdresser tools' (#2690371)
+[12:15:16	]Koshida Oda has spawned a cca_emir.
+[12:15:17	]Koshida Oda ran 'take' on item 'The Emir' (#2690387)
+[12:15:17	]Koshida Oda has gained a 'The Emir' #2690387.
+[12:15:18	]Koshida Oda has spawned a cca_legs_bureaucrat.
+[12:15:19	]Koshida Oda ran 'take' on item 'The Bureaucrat Trousers' (#2690388)
+[12:15:19	]Koshida Oda has gained a 'The Bureaucrat Trousers' #2690388.
+[12:15:42	]Koshida Oda ran 'drop' on item 'The Emir' (#2690387)
+[12:15:42	]Koshida Oda has lost a 'The Emir' #2690387.
+[12:15:46	]Koshida Oda has used a context menu option with the name: remove
+[12:15:47	]Koshida Oda ran 'drop' on item 'The Bureaucrat Trousers' (#2690388)
+[12:15:47	]Koshida Oda has lost a 'The Bureaucrat Trousers' #2690388.
+[12:15:49	]Koshida Oda has used a context menu option with the name: remove
+[12:15:53	]Koshida Oda has spawned a cca_savoy.
+[12:15:54	]Koshida Oda ran 'take' on item 'The Blue Savoy' (#2690389)
+[12:15:54	]Koshida Oda has gained a 'The Blue Savoy' #2690389.
+[12:15:55	]Koshida Oda has spawned a cca_legs_savoy.
+[12:15:57	]Koshida Oda ran 'take' on item 'Savoy Trousers' (#2690390)
+[12:15:57	]Koshida Oda has gained a 'Savoy Trousers' #2690390.
+[12:16:03	]Koshida Oda ran 'drop' on item 'Savoy Trousers' (#2690390)
+[12:16:03	]Koshida Oda has lost a 'Savoy Trousers' #2690390.
+[12:16:04	]Koshida Oda ran 'drop' on item 'The Blue Savoy' (#2690389)
+[12:16:04	]Koshida Oda has lost a 'The Blue Savoy' #2690389.
+[12:16:05	]Koshida Oda has used a context menu option with the name: remove
+[12:16:07	]Koshida Oda has used a context menu option with the name: remove
+[12:16:11	]Koshida Oda has spawned a cca_heartwick.
+[12:16:12	]Koshida Oda ran 'take' on item 'The Heartwick' (#2690391)
+[12:16:12	]Koshida Oda has gained a 'The Heartwick' #2690391.
+[12:16:13	]Koshida Oda has spawned a cca_legs_heartwick.
+[12:16:15	]Koshida Oda ran 'take' on item 'The Heartwick Trousers' (#2690392)
+[12:16:15	]Koshida Oda has gained a 'The Heartwick Trousers' #2690392.
+[12:16:23	]Koshida Oda ran 'drop' on item 'The Heartwick' (#2690391)
+[12:16:23	]Koshida Oda has lost a 'The Heartwick' #2690391.
+[12:16:24	]Koshida Oda ran 'drop' on item 'The Heartwick Trousers' (#2690392)
+[12:16:24	]Koshida Oda has lost a 'The Heartwick Trousers' #2690392.
+[12:16:26	]Koshida Oda has used a context menu option with the name: remove
+[12:16:26	]Koshida Oda has used a context menu option with the name: remove
+[12:16:29	]Koshida Oda has spawned a cca_coat_indigo.
+[12:16:30	]Koshida Oda ran 'take' on item 'The Indigo of the Future' (#2690393)
+[12:16:30	]Koshida Oda has gained a 'The Indigo of the Future' #2690393.
+[12:16:34	]Koshida Oda ran 'drop' on item 'The Indigo of the Future' (#2690393)
+[12:16:34	]Koshida Oda has lost a 'The Indigo of the Future' #2690393.
+[12:16:35	]Koshida Oda has used a context menu option with the name: remove
+[12:16:38	]Koshida Oda has spawned a cca_legs_collector.
+[12:16:39	]Koshida Oda ran 'take' on item 'Collector Trousers' (#2690394)
+[12:16:39	]Koshida Oda has gained a 'Collector Trousers' #2690394.
+[12:16:40	]Koshida Oda has spawned a cca_coat_indigo.
+[12:16:42	]Koshida Oda ran 'take' on item 'The Indigo of the Future' (#2690395)
+[12:16:42	]Koshida Oda has gained a 'The Indigo of the Future' #2690395.
+[12:16:53	]Koshida Oda ran 'drop' on item 'The Indigo of the Future' (#2690395)
+[12:16:53	]Koshida Oda has lost a 'The Indigo of the Future' #2690395.
+[12:16:55	]Koshida Oda ran 'drop' on item 'Collector Trousers' (#2690394)
+[12:16:55	]Koshida Oda has lost a 'Collector Trousers' #2690394.
+[12:16:57	]Koshida Oda has used a context menu option with the name: remove
+[12:16:58	]Koshida Oda has used a context menu option with the name: remove
+[12:17:01	]Koshida Oda has spawned a cca_legs_collector.
+[12:17:02	]Koshida Oda ran 'take' on item 'Collector Trousers' (#2690396)
+[12:17:02	]Koshida Oda has gained a 'Collector Trousers' #2690396.
+[12:17:11	]Koshida Oda has spawned a cca_realist.
+[12:17:12	]Koshida Oda ran 'take' on item 'The Realist' (#2690397)
+[12:17:12	]Koshida Oda has gained a 'The Realist' #2690397.
+[12:17:19	]Koshida Oda ran 'drop' on item 'Collector Trousers' (#2690396)
+[12:17:19	]Koshida Oda has lost a 'Collector Trousers' #2690396.
+[12:17:20	]Koshida Oda ran 'drop' on item 'The Realist' (#2690397)
+[12:17:20	]Koshida Oda has lost a 'The Realist' #2690397.
+[12:17:22	]Koshida Oda has used a context menu option with the name: rb655_dissolve
+[12:17:24	]env_entity_dissolver destroyed a 'The Realist' #2690397.
+[12:17:26	]Koshida Oda has used a context menu option with the name: remove
+[12:19:42	]Koshida Oda has spawned a jnk_popper.
+[12:19:44	]Koshida Oda has spawned a res_329pd.
+[12:19:52	]Koshida Oda has used a context menu option with the name: remove
+[12:19:53	]Koshida Oda ran 'take' on item 'Model 329PD' (#2690399)
+[12:19:53	]Koshida Oda has gained a 'Model 329PD' #2690399.
+[12:19:58	]Koshida Oda ran 'Equip' on item 'Model 329PD' (#2690399)
+[12:20:07	]Koshida Oda has spawned a 'Entity [6305][arccw_ammo_pistol_large]'.
+[12:20:11	]Koshida Oda has spawned a 'Entity [6305][arccw_ammo_pistol_large]'.
+[12:20:13	]Koshida Oda has spawned a 'Entity [6305][arccw_ammo_357_large]'.
+[12:20:15	]Koshida Oda has spawned a 'Entity [6305][arccw_ammo_357]'.
+[12:20:46	]Koshida Oda has spawned a magazine_revolver.
+[12:20:48	]Koshida Oda ran 'take' on item '6rnd Revolver Magazine' (#2690400)
+[12:20:48	]Koshida Oda has gained a '6rnd Revolver Magazine' #2690400.
+[12:20:53	]Koshida Oda has spawned a 357ammo.
+[12:20:57	]Koshida Oda ran 'take' on item '.357 Magnum Bullets' (#2690401)
+[12:20:57	]Koshida Oda has gained a '.357 Magnum Bullets' #2690401.
+[12:21:08	]Koshida Oda ran 'EquipUn' on item 'Model 329PD' (#2690399)
+[12:21:10	]Koshida Oda ran 'Equip' on item 'Model 329PD' (#2690399)
+[12:21:19	]Koshida Oda ran 'drop' on item 'Model 329PD' (#2690399)
+[12:21:19	]Koshida Oda has lost a 'Model 329PD' #2690399.
+[12:21:20	]Koshida Oda ran 'drop' on item '6rnd Revolver Magazine' (#2690400)
+[12:21:20	]Koshida Oda has lost a '6rnd Revolver Magazine' #2690400.
+[12:21:30	]Koshida Oda has used a context menu option with the name: remove
+[12:21:31	]Koshida Oda ran 'take' on item 'Model 329PD' (#2690399)
+[12:21:31	]Koshida Oda has gained a 'Model 329PD' #2690399.
+[12:21:35	]Koshida Oda ran 'Equip' on item 'Model 329PD' (#2690399)
+[12:21:45	]Koshida Oda ran 'drop' on item 'Model 329PD' (#2690399)
+[12:21:45	]Koshida Oda has lost a 'Model 329PD' #2690399.
+[12:21:48	]Koshida Oda has used a context menu option with the name: remove
+[12:21:52	]Koshida Oda has spawned a cmb_hkusp.
+[12:21:57	]Koshida Oda has given himself a cmb_hkusp.
+[12:21:57	]Koshida Oda has gained a 'HK USP .45' #2690403.
+[12:22:01	]Koshida Oda ran 'Equip' on item 'HK USP .45' (#2690403)
+[12:22:06	]Koshida Oda ran 'EquipUn' on item 'HK USP .45' (#2690403)
+[12:22:08	]Koshida Oda ran 'drop' on item 'HK USP .45' (#2690403)
+[12:22:08	]Koshida Oda has lost a 'HK USP .45' #2690403.
+[12:22:09	]Koshida Oda entered observer.
+[12:22:13	]Koshida Oda exited observer at their location.
+[12:22:14	]Koshida Oda entered observer.
+[12:22:14	]Koshida Oda exited observer at their location.
+[12:22:20	]Koshida Oda ran 'drop' on item 'The Executive' (#2690379)
+[12:22:20	]Koshida Oda has lost a 'The Executive' #2690379.
+[12:22:21	]Koshida Oda ran 'drop' on item 'Surgical Mask' (#2690385)
+[12:22:21	]Koshida Oda has lost a 'Surgical Mask' #2690385.
+[12:22:22	]Koshida Oda ran 'drop' on item 'The Authoritarian Trousers' (#2690380)
+[12:22:22	]Koshida Oda has lost a 'The Authoritarian Trousers' #2690380.
+[12:22:24	]Koshida Oda ran 'drop' on item 'Black Fedora' (#2690381)
+[12:22:24	]Koshida Oda has lost a 'Black Fedora' #2690381.
+[12:22:26	]Koshida Oda has used a context menu option with the name: remove
+[12:22:27	]Koshida Oda has used a context menu option with the name: remove
+[12:22:28	]Koshida Oda has used a context menu option with the name: remove
+[12:22:29	]Koshida Oda has used a context menu option with the name: remove
+[12:22:34	]Koshida Oda has spawned a cit_computer.
+[12:22:36	]Koshida Oda ran 'Place' on item 'Citizen Computer' (#2690404)
+[12:22:39	]Koshida Oda ran 'Place' on item 'Floppy Disk' (#1953857)
+[12:22:39	]Koshida Oda has lost a 'Floppy Disk' #1953857.
+[12:23:00	]Koshida Oda ran 'take' on item 'Floppy Disk' (#1953857)
+[12:23:00	]Koshida Oda has gained a 'Floppy Disk' #1953857.
+[12:23:02	]Koshida Oda has used a context menu option with the name: remove
+[12:23:15	]Koshida Oda ran 'drop' on item 'The Wolf' (#2690386)
+[12:23:15	]Koshida Oda has lost a 'The Wolf' #2690386.
+[12:23:17	]Koshida Oda has used a context menu option with the name: remove
+[12:23:58	]Koshida Oda has spawned a cca_coat_overseer.
+[12:23:59	]Koshida Oda ran 'take' on item 'The Overseer' (#2690405)
+[12:23:59	]Koshida Oda has gained a 'The Overseer' #2690405.
+[12:24:05	]Koshida Oda has spawned a cca_legs_authoritarian.
+[12:24:07	]Koshida Oda ran 'take' on item 'The Authoritarian Trousers' (#2690406)
+[12:24:07	]Koshida Oda has gained a 'The Authoritarian Trousers' #2690406.
+[12:24:17	]Koshida Oda used command '/ActStand'.
+[12:25:05	]Koshida Oda has spawned a head_fedora.
+[12:25:08	]Koshida Oda ran 'take' on item 'Black Fedora' (#2690407)
+[12:25:08	]Koshida Oda has gained a 'Black Fedora' #2690407.
+[12:25:27	]Koshida Oda has spawned a ciggie_pack.
+[12:25:29	]Koshida Oda ran 'take' on item 'Benefactor Edition Cigarette Pack' (#2690408)
+[12:25:29	]Koshida Oda has gained a 'Benefactor Edition Cigarette Pack' #2690408.
+[12:25:29	]Koshida Oda has gained a 'Cigarette' #2690416.
+[12:25:29	]Koshida Oda has gained a 'Cigarette' #2690409.
+[12:25:29	]Koshida Oda has gained a 'Cigarette' #2690412.
+[12:25:29	]Koshida Oda has gained a 'Cigarette' #2690410.
+[12:25:29	]Koshida Oda has gained a 'Cigarette' #2690415.
+[12:25:29	]Koshida Oda has gained a 'Cigarette' #2690413.
+[12:25:29	]Koshida Oda has gained a 'Cigarette' #2690411.
+[12:25:29	]Koshida Oda has gained a 'Cigarette' #2690414.
+[12:25:34	]Koshida Oda has spawned a zippolighter.
+[12:25:37	]Koshida Oda ran 'take' on item 'Zippo Lighter' (#2690417)
+[12:25:37	]Koshida Oda has gained a 'Zippo Lighter' #2690417.
+[12:25:53	]Koshida Oda ran 'smoke' on item 'Cigarette' (#2690409)
+[12:25:55	]Koshida Oda ran 'light' on item 'Zippo Lighter' (#2690417)
+[12:26:13	]Koshida Oda has spawned a glasses.
+[12:26:15	]Koshida Oda ran 'take' on item 'Glasses' (#2690418)
+[12:26:15	]Koshida Oda has gained a 'Glasses' #2690418.
+[12:26:28	]Koshida Oda ran 'drop' on item 'Glasses' (#2690418)
+[12:26:28	]Koshida Oda has lost a 'Glasses' #2690418.
+[12:26:31	]Koshida Oda has used a context menu option with the name: remove
+[12:27:11	]Koshida Oda has spawned a cca_coat_devil.
+[12:27:13	]Koshida Oda ran 'take' on item 'Devil's Advocates Coat' (#2690419)
+[12:27:13	]Koshida Oda has gained a 'Devil's Advocates Coat' #2690419.
+[12:27:14	]Koshida Oda has spawned a cca_legs_overseer.
+[12:27:15	]Koshida Oda ran 'take' on item 'Overseer Pants' (#2690420)
+[12:27:15	]Koshida Oda has gained a 'Overseer Pants' #2690420.
+[12:27:26	]Koshida Oda ran 'drop' on item 'Devil's Advocates Coat' (#2690419)
+[12:27:26	]Koshida Oda has lost a 'Devil's Advocates Coat' #2690419.
+[12:27:28	]Koshida Oda has used a context menu option with the name: remove
+[12:27:39	]Koshida Oda ran 'drop' on item 'Overseer Pants' (#2690420)
+[12:27:39	]Koshida Oda has lost a 'Overseer Pants' #2690420.
+[12:27:42	]Koshida Oda has used a context menu option with the name: remove
+[12:27:56	]Koshida Oda has spawned a cca_candyfloss.
+[12:27:57	]Koshida Oda ran 'take' on item 'Candyfloss' (#2690421)
+[12:27:57	]Koshida Oda has gained a 'Candyfloss' #2690421.
+[12:28:11	]Koshida Oda ran 'drop' on item 'Candyfloss' (#2690421)
+[12:28:11	]Koshida Oda has lost a 'Candyfloss' #2690421.
+[12:28:13	]Koshida Oda has used a context menu option with the name: remove
+[12:28:17	]Koshida Oda has spawned a cca_lavender.
+[12:28:19	]Koshida Oda used command '/ExitAct'.
+[12:28:21	]Koshida Oda ran 'take' on item 'Lavender Galore' (#2690422)
+[12:28:21	]Koshida Oda has gained a 'Lavender Galore' #2690422.
+[12:28:31	]Koshida Oda ran 'drop' on item 'Lavender Galore' (#2690422)
+[12:28:31	]Koshida Oda has lost a 'Lavender Galore' #2690422.
+[12:28:33	]Koshida Oda has used a context menu option with the name: remove
+[12:28:49	]Koshida Oda used command '/ActStand'.
+[12:28:51	]Koshida Oda used command '/ExitAct'.
+[12:29:02	]Koshida Oda has spawned a medal_c24.
+[12:29:08	]Koshida Oda has spawned a medal_bronze.
+[12:29:12	]Koshida Oda has used a context menu option with the name: remove
+[12:29:14	]Koshida Oda has spawned a medal_breen.
+[12:29:20	]Koshida Oda has used a context menu option with the name: remove
+[12:29:26	]Koshida Oda ran 'take' on item 'Hero of City Twenty-Four Medal' (#2690423)
+[12:29:26	]Koshida Oda has gained a 'Hero of City Twenty-Four Medal' #2690423.
+[12:29:29	]Koshida Oda ran 'drop' on item 'Hero of City Twenty-Four Medal' (#2690423)
+[12:29:29	]Koshida Oda has lost a 'Hero of City Twenty-Four Medal' #2690423.
+[12:29:34	]Koshida Oda has spawned a medal_c24.
+[12:29:36	]Koshida Oda ran 'take' on item 'Hero of City Twenty-Four Medal' (#2690426)
+[12:29:36	]Koshida Oda has gained a 'Hero of City Twenty-Four Medal' #2690426.
+[12:29:46	]Koshida Oda ran 'drop' on item 'Hero of City Twenty-Four Medal' (#2690426)
+[12:29:46	]Koshida Oda has lost a 'Hero of City Twenty-Four Medal' #2690426.
+[12:29:48	]Koshida Oda has used a context menu option with the name: remove
+[12:30:01	]Koshida Oda has spawned a face_mask.
+[12:30:03	]Koshida Oda ran 'take' on item 'Surgical Mask' (#2690427)
+[12:30:03	]Koshida Oda has gained a 'Surgical Mask' #2690427.
+[12:30:18	]Koshida Oda has spawned a torso_labcoat.
+[12:30:19	]Koshida Oda ran 'take' on item 'Lab Coat' (#2690428)
+[12:30:19	]Koshida Oda has gained a 'Lab Coat' #2690428.
+[12:30:31	]Koshida Oda ran 'drop' on item 'Lab Coat' (#2690428)
+[12:30:31	]Koshida Oda has lost a 'Lab Coat' #2690428.
+[12:30:33	]Koshida Oda has used a context menu option with the name: remove
+[12:30:50	]Koshida Oda ran 'EquipUn' on item 'Combine PDA' (#1953830)
+[12:31:26	]Koshida Oda has spawned a suitcase.
+[12:31:28	]Koshida Oda ran 'take' on item 'Suitcase' (#2690429)
+[12:31:28	]Koshida Oda has gained a 'Suitcase' #2690429.
+[12:31:30	]Koshida Oda ran 'Equip' on item 'Suitcase' (#2690429)
+[12:31:44	]Koshida Oda ran 'drop' on item 'Suitcase' (#2690429)
+[12:31:46	]Koshida Oda ran 'EquipUn' on item 'Suitcase' (#2690429)
+[12:31:47	]Koshida Oda ran 'drop' on item 'Suitcase' (#2690429)
+[12:31:47	]Koshida Oda has lost a 'Suitcase' #2690429.
+[12:31:49	]Koshida Oda has used a context menu option with the name: remove
+[12:32:03	]Koshida Oda entered observer.
+[12:32:09	]Koshida Oda exited observer at their location.
+[12:32:19	]Koshida Oda entered observer.
+[12:32:22	]Koshida Oda exited observer at their location.
+[12:32:24	]Koshida Oda entered observer.
+[12:32:27	]Koshida Oda exited observer at their location.
+[12:32:32	]Koshida Oda has spawned 'models/props/coop_autumn/autumn_presentation_podium/autumn_presentation_podium.mdl'.
+[12:32:55	]Koshida Oda used command '/ActStand 3'.
+[12:33:00	]Koshida Oda used command '/ExitAct'.
+[12:33:10	]Koshida Oda has fired a toolgun with the name: nocollideworld
+[12:33:19	]Koshida Oda has fired a toolgun with the name: nocollideworld
+[12:33:24	]Koshida Oda used command '/ActStand 3'.
+[12:34:04	]Koshida Oda used command '/ExitAct'.
+[12:34:05	]Koshida Oda entered observer.
+[12:34:55	]Koshida Oda exited observer at their location.
+[12:35:06	]Koshida Oda has spawned a cca_coat_whitesnow.
+[12:35:10	]Koshida Oda ran 'take' on item 'White Snow' (#2690430)
+[12:35:10	]Koshida Oda has gained a 'White Snow' #2690430.
+[12:35:28	]Koshida Oda has spawned a cca_legs_authoritarian.
+[12:35:31	]Koshida Oda ran 'take' on item 'The Authoritarian Trousers' (#2690431)
+[12:35:31	]Koshida Oda has gained a 'The Authoritarian Trousers' #2690431.
+[12:35:37	]Koshida Oda ran 'drop' on item 'The Authoritarian Trousers' (#2690431)
+[12:35:37	]Koshida Oda has lost a 'The Authoritarian Trousers' #2690431.
+[12:35:40	]Koshida Oda has used a context menu option with the name: remove
+[12:35:54	]Koshida Oda ran 'drop' on item 'White Snow' (#2690430)
+[12:35:54	]Koshida Oda has lost a 'White Snow' #2690430.
+[12:35:55	]Koshida Oda has used a context menu option with the name: remove
+[12:37:32	]Koshida Oda has spawned a uniform_com.
+[12:37:36	]Koshida Oda has used a context menu option with the name: remove
+[12:37:53	]Koshida Oda has spawned a white_hazmat_uniform.
+[12:37:56	]Koshida Oda ran 'take' on item 'White Hazmat Uniform' (#2690433)
+[12:37:56	]Koshida Oda has gained a 'White Hazmat Uniform' #2690433.
+[12:39:07	]Koshida Oda entered observer.
+[12:39:24	]Koshida Oda has spawned 'models/willardnetworks/posters/wn_portrait_3.mdl'.
+[12:39:26	]Koshida Oda has spawned 'models/willardnetworks/posters/wn_portrait_1.mdl'.
+[12:40:14	]Koshida Oda has spawned a cca_authoritarian.
+[12:40:15	]Koshida Oda ran 'take' on item 'The Authoritarian' (#2690434)
+[12:40:15	]Koshida Oda has gained a 'The Authoritarian' #2690434.
+[12:40:22	]Koshida Oda ran 'drop' on item 'The Authoritarian' (#2690434)
+[12:40:22	]Koshida Oda has lost a 'The Authoritarian' #2690434.
+[12:40:24	]Koshida Oda has used a context menu option with the name: remove
+[12:41:22	]Koshida Oda has spawned a cca_executive.
+[12:41:25	]Koshida Oda ran 'take' on item 'The Executive' (#2690435)
+[12:41:25	]Koshida Oda has gained a 'The Executive' #2690435.
+[12:41:40	]Koshida Oda exited observer at their location.
+[12:41:41	]Koshida Oda has spawned a hands_medical_gloves.
+[12:41:44	]Koshida Oda ran 'take' on item 'Medical Gloves' (#2690436)
+[12:41:44	]Koshida Oda has gained a 'Medical Gloves' #2690436.
+[12:42:00	]Koshida Oda ran 'drop' on item 'Medical Gloves' (#2690436)
+[12:42:00	]Koshida Oda has lost a 'Medical Gloves' #2690436.
+[12:42:03	]Koshida Oda has used a context menu option with the name: remove
+[12:42:20	]Furious (STEAM_0:1:543970363) has disconnected.
+[16:40:20	]Mango has connected.
+[16:41:01	]Mango loaded the character 'C24:i5.ROLLER-34'
+[16:41:22	]C24:i5.ROLLER-34 has given himself a flash_grenade.
+[16:41:22	]C24:i5.ROLLER-34 has gained a 'Flash Grenade' #2690437.
+[16:41:26	]C24:i5.ROLLER-34 ran 'Equip' on item 'Flash Grenade' (#2690437)
+[16:53:15	]Mango has connected.
+[16:54:03	]Mango loaded the character 'C24:i5.ROLLER-34'
+[16:54:24	]C24:i5.ROLLER-34 has given himself a flash_grenade.
+[16:54:24	]C24:i5.ROLLER-34 has gained a 'Flash Grenade' #2690438.
+[16:54:27	]C24:i5.ROLLER-34 ran 'Equip' on item 'Flash Grenade' (#2690438)
+[16:54:34	]C24:i5.ROLLER-34 ran 'drop' on item 'Large Bag' (#2608173)
+[16:54:34	]C24:i5.ROLLER-34 has lost a 'Large Bag' #2608173.
+[16:54:34	]C24:i5.ROLLER-34 has lost a 'Spoiled Bagel' #2626075.
+[16:54:34	]C24:i5.ROLLER-34 has lost a 'Combine Filter' #2609472.
+[16:54:34	]C24:i5.ROLLER-34 has lost a 'Combine PDA' #2608169.
+[16:54:34	]C24:i5.ROLLER-34 has lost a 'Zip Tie' #2609473.
+[16:54:35	]C24:i5.ROLLER-34 ran 'drop' on item 'Small Bag' (#2608172)
+[16:54:35	]C24:i5.ROLLER-34 has lost a 'Small Bag' #2608172.
+[16:54:35	]C24:i5.ROLLER-34 has lost a '30rnd MP Magazine' #2689031.
+[16:54:35	]C24:i5.ROLLER-34 has lost a 'Draw String Canvas Bag' #2609499.
+[16:54:35	]C24:i5.ROLLER-34 has lost a 'Flashlight' #2609470.
+[16:55:09	]C24:i5.ROLLER-34 ran 'EquipUn' on item 'Flash Grenade' (#2690438)
+[16:55:10	]C24:i5.ROLLER-34 ran 'Equip' on item 'Flash Grenade' (#2690438)
+[16:56:32	]C24:i5.ROLLER-34 has given himself a frag_grenade.
+[16:56:32	]C24:i5.ROLLER-34 has gained a 'Frag Grenade' #2690439.
+[16:56:34	]C24:i5.ROLLER-34 ran 'EquipUn' on item 'Flash Grenade' (#2690438)
+[16:56:35	]C24:i5.ROLLER-34 ran 'Equip' on item 'Frag Grenade' (#2690439)
+[16:57:12	]C24:i5.ROLLER-34 ran 'drop' on item 'Frag Grenade' (#2690439)
+[16:57:12	]C24:i5.ROLLER-34 has lost a 'Frag Grenade' #2690439.
+[16:58:36	]C24:i5.ROLLER-34 has spawned 'models/weapons/w_eq_incendiarygrenade.mdl'.
+[16:58:40	]C24:i5.ROLLER-34 has spawned 'models/weapons/w_eq_incendiarygrenade_dropped.mdl'.
+[16:58:54	]C24:i5.ROLLER-34 has spawned 'models/weapons/w_eq_incendiarygrenade_thrown.mdl'.
+[16:58:57	]C24:i5.ROLLER-34 has spawned 'models/weapons/arccw_go/w_eq_incendiarygrenade_thrown.mdl'.
+[16:59:28	]C24:i5.ROLLER-34 has spawned 'models/weapons/v_eq_incendiarygrenade.mdl'.
+[17:00:00	]C24:i5.ROLLER-34 has given himself a incendiary_grenade.
+[17:00:00	]C24:i5.ROLLER-34 has gained a 'Incendiary Grenade' #2690440.
+[17:00:01	]C24:i5.ROLLER-34 ran 'Equip' on item 'Incendiary Grenade' (#2690440)
+[17:01:05	]C24:i5.ROLLER-34 has spawned 'models/weapons/w_eq_smokegrenade_dropped.mdl'.
+[17:01:08	]C24:i5.ROLLER-34 has spawned 'models/weapons/w_eq_smokegrenade_dropped.mdl'.
+[17:01:13	]C24:i5.ROLLER-34 has given himself a smoke_grenade.
+[17:01:13	]C24:i5.ROLLER-34 has gained a 'Smoke Grenade' #2690441.
+[17:01:15	]C24:i5.ROLLER-34 ran 'EquipUn' on item 'Incendiary Grenade' (#2690440)
+[17:01:16	]C24:i5.ROLLER-34 ran 'Equip' on item 'Smoke Grenade' (#2690441)
+[17:01:43	]C24:i5.ROLLER-34 has spawned 'models/weapons/w_eq_smokegrenade_dropped.mdl'.
+[17:06:57	]Mango has connected.
+[17:07:37	]Mango loaded the character 'C24:i5.ROLLER-34'
+[17:08:31	]C24:i5.ROLLER-34 ran 'Equip' on item 'Incendiary Grenade' (#2690440)
+[17:08:43	]C24:i5.ROLLER-34 has hit C24:i5.ROLLER-34 dealing 1 damage (CritChance was 0.00).
+[17:08:43	]C24:i5.ROLLER-34 has taken 1 damage from C24:i5.ROLLER-34.
+[17:08:43	]C24:i5.ROLLER-34 has hit C24:i5.ROLLER-34 dealing 1 damage (CritChance was 0.00).
+[17:08:43	]C24:i5.ROLLER-34 has taken 1 damage from C24:i5.ROLLER-34.
+[17:08:43	]C24:i5.ROLLER-34 has hit C24:i5.ROLLER-34 dealing 2 damage (CritChance was 0.00).
+[17:08:43	]C24:i5.ROLLER-34 has taken 2 damage from C24:i5.ROLLER-34.
+[17:08:44	]C24:i5.ROLLER-34 has hit C24:i5.ROLLER-34 dealing 4 damage (CritChance was 0.00).
+[17:08:44	]C24:i5.ROLLER-34 has taken 4 damage from C24:i5.ROLLER-34.
+[17:08:44	]C24:i5.ROLLER-34 has hit C24:i5.ROLLER-34 dealing 1 damage (CritChance was 0.00).
+[17:08:44	]C24:i5.ROLLER-34 has taken 1 damage from C24:i5.ROLLER-34.
+[17:08:44	]C24:i5.ROLLER-34 has hit C24:i5.ROLLER-34 dealing 2 damage (CritChance was 0.00).
+[17:08:44	]C24:i5.ROLLER-34 has taken 2 damage from C24:i5.ROLLER-34.
+[17:08:44	]C24:i5.ROLLER-34 has hit C24:i5.ROLLER-34 dealing 1 damage (CritChance was 0.00).
+[17:08:44	]C24:i5.ROLLER-34 has taken 1 damage from C24:i5.ROLLER-34.
+[17:09:09	]C24:i5.ROLLER-34 ran 'Equip' on item 'Flash Grenade' (#2690438)
+[17:09:47	]C24:i5.ROLLER-34 ran 'take' on item 'Frag Grenade' (#2690439)
+[17:09:47	]C24:i5.ROLLER-34 has gained a 'Frag Grenade' #2690439.
+[17:09:49	]C24:i5.ROLLER-34 ran 'Equip' on item 'Frag Grenade' (#2690439)
+[17:09:53	]C24:i5.ROLLER-34 ran 'EquipUn' on item 'Flash Grenade' (#2690438)
+[17:09:53	]C24:i5.ROLLER-34 ran 'Equip' on item 'Frag Grenade' (#2690439)
+[19:25:29	]Mango has connected.
+[19:26:17	]Mango loaded the character 'C24:i5.ROLLER-34'
+[19:26:45	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[19:26:46	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[19:26:47	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[19:26:57	]C24:i5.ROLLER-34 entered observer.
+[19:26:58	]C24:i5.ROLLER-34 exited observer at their location.
+[19:27:03	]C24:i5.ROLLER-34 entered observer.
+[19:27:17	]C24:i5.ROLLER-34 is fully healed.
+[19:27:26	]C24:i5.ROLLER-34 exited observer at their location.
+[19:27:46	]C24:i5.ROLLER-34 has given himself a frag_grenade.
+[19:27:46	]C24:i5.ROLLER-34 has gained a 'Frag Grenade' #2690442.
+[19:27:51	]C24:i5.ROLLER-34 ran 'Equip' on item 'Flash Grenade' (#2690438)
+[19:27:52	]C24:i5.ROLLER-34 ran 'Equip' on item 'Frag Grenade' (#2690442)
+[19:28:15	]C24:i5.ROLLER-34 has given himself a frag_grenade.
+[19:28:15	]C24:i5.ROLLER-34 has gained a 'Frag Grenade' #2690443.
+[19:28:18	]C24:i5.ROLLER-34 ran 'Equip' on item 'Frag Grenade' (#2690442)
+[19:28:30	]C24:i5.ROLLER-34 ran 'Equip' on item 'Frag Grenade' (#2690443)
+[19:28:41	]C24:i5.ROLLER-34 has given himself a smoke_grenade.
+[19:28:41	]C24:i5.ROLLER-34 has gained a 'Smoke Grenade' #2690444.
+[19:29:55	]C24:i5.ROLLER-34 entered observer.
+[19:29:56	]C24:i5.ROLLER-34 exited observer at their location.
+[19:31:12	]C24:i5.ROLLER-34 used command '/RemoveClientProps 50000'.
+[19:32:06	]C24:i5.ROLLER-34 ran 'drop' on item 'MP7A1' (#2689013)
+[19:32:06	]C24:i5.ROLLER-34 has lost a 'MP7A1' #2689013.
+[19:32:11	]C24:i5.ROLLER-34 ran 'take' on item 'MP7A1' (#2689013)
+[19:32:11	]C24:i5.ROLLER-34 has gained a 'MP7A1' #2689013.
+[19:32:14	]C24:i5.ROLLER-34 ran 'Equip' on item 'MP7A1' (#2689013)
+[19:32:21	]C24:i5.ROLLER-34 ran 'EquipUn' on item 'MP7A1' (#2689013)
+[19:32:24	]C24:i5.ROLLER-34 ran 'drop' on item 'MP7A1' (#2689013)
+[19:32:24	]C24:i5.ROLLER-34 has lost a 'MP7A1' #2689013.
+[19:32:26	]C24:i5.ROLLER-34 ran 'drop' on item 'Magazine Pouch' (#2609481)
+[19:32:26	]C24:i5.ROLLER-34 has lost a 'Magazine Pouch' #2609481.
+[19:32:26	]C24:i5.ROLLER-34 has lost a '30rnd MP Magazine' #2689030.
+[19:32:26	]C24:i5.ROLLER-34 has lost a '30rnd MP Magazine' #2689218.
+[19:32:26	]C24:i5.ROLLER-34 has lost a '30rnd MP Magazine' #2689035.
+[19:32:26	]C24:i5.ROLLER-34 has lost a '30rnd MP Magazine' #2689021.
+[19:32:27	]C24:i5.ROLLER-34 ran 'drop' on item 'Magazine Pouch' (#2609482)
+[19:32:27	]C24:i5.ROLLER-34 has lost a 'Magazine Pouch' #2609482.
+[19:32:27	]C24:i5.ROLLER-34 has lost a '17rnd USP Magazine' #2689038.
+[19:32:27	]C24:i5.ROLLER-34 has lost a '17rnd USP Magazine' #2689039.
+[19:32:27	]C24:i5.ROLLER-34 has lost a '17rnd USP Magazine' #2689036.
+[19:32:27	]C24:i5.ROLLER-34 has lost a '17rnd USP Magazine' #2689037.
+[19:32:28	]C24:i5.ROLLER-34 ran 'drop' on item 'Ammunition Pouch' (#2609496)
+[19:32:28	]C24:i5.ROLLER-34 has lost a 'Ammunition Pouch' #2609496.
+[19:32:28	]C24:i5.ROLLER-34 has lost a '9mm Pistol Bullets' #2622148.
+[19:32:28	]C24:i5.ROLLER-34 has lost a '9mm Pistol Bullets' #2622168.
+[19:32:28	]C24:i5.ROLLER-34 has lost a '9mm Pistol Bullets' #2622171.
+[19:32:28	]C24:i5.ROLLER-34 has lost a '9mm Pistol Bullets' #2622199.
+[19:32:28	]C24:i5.ROLLER-34 has lost a '9mm Pistol Bullets' #2622169.
+[19:32:28	]C24:i5.ROLLER-34 has lost a '9mm Pistol Bullets' #2622200.
+[19:32:28	]C24:i5.ROLLER-34 has lost a '9mm Pistol Bullets' #2622147.
+[19:32:28	]C24:i5.ROLLER-34 has lost a '9mm Pistol Bullets' #2622170.
+[19:32:32	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[19:32:32	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[19:32:32	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[19:32:33	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[19:32:33	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[19:32:33	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[19:32:33	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[19:32:34	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[19:32:34	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[19:32:34	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[19:32:35	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[19:32:36	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[19:32:36	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[19:32:36	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[19:32:36	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[19:32:54	]George has connected.
+[19:33:06	]C24:i5.ROLLER-34 ran 'Equip' on item 'Smoke Grenade' (#2690444)
+[19:34:03	]C24:i5.ROLLER-34 ran 'drop' on item 'PMG-5 (AUG) Gasmask' (#2608171)
+[19:34:07	]C24:i5.ROLLER-34 ran 'EquipUn' on item 'Combine Filter' (#2609471)
+[19:34:08	]C24:i5.ROLLER-34 ran 'drop' on item 'PMG-5 (AUG) Gasmask' (#2608171)
+[19:34:08	]C24:i5.ROLLER-34 has lost a 'PMG-5 (AUG) Gasmask' #2608171.
+[19:34:11	]C24:i5.ROLLER-34 ran 'take' on item 'PMG-5 (AUG) Gasmask' (#2608171)
+[19:34:11	]C24:i5.ROLLER-34 has gained a 'PMG-5 (AUG) Gasmask' #2608171.
+[19:34:29	]C24:i5.ROLLER-34 has changed C24:i5.ROLLER-34's bodygroups.
+[19:34:40	]George loaded the character 'George'
+[19:34:47	][OOC] C24:i5.ROLLER-34: georges
+[19:34:52	][OOC] C24:i5.ROLLER-34: george has connecteds
+[19:34:54	][OOC] George: Travis
+[19:34:54	]George entered observer.
+[19:35:00	][OOC] C24:i5.ROLLER-34: georges
+[19:35:02	]George exited observer at their location.
+[19:35:10	]George is fully healed.
+[19:35:13	][IC] C24:i5.ROLLER-34: Check this.
+[19:35:16	][IC] C24:i5.ROLLER-34: Tell me if there's smoke.
+[19:35:18	][IC] George: Why are you so tall.
+[19:35:20	][IC] George: Ok.
+[19:35:22	][IC] C24:i5.ROLLER-34: U small.
+[19:35:32	][IC] George: Yup.
+[19:35:36	][IC] C24:i5.ROLLER-34: Goodie noobie.
+[19:35:41	][IC] C24:i5.ROLLER-34: Okay uhhh.
+[19:35:42	][IC] George: A lot of it too.
+[19:35:49	]George entered observer.
+[19:35:50	]George exited observer at their location.
+[19:36:06	]George entered observer.
+[19:36:11	]George exited observer at their location.
+[19:36:13	]George entered observer.
+[19:36:14	]George exited observer at their location.
+[19:36:20	]C24:i5.ROLLER-34 has given himself a flash_grenade.
+[19:36:20	]C24:i5.ROLLER-34 has gained a 'Flash Grenade' #2690445.
+[19:36:23	]C24:i5.ROLLER-34 ran 'Equip' on item 'Flash Grenade' (#2690445)
+[19:36:32	][OOC] George: it's a little weird with the 2d particles
+[19:36:39	][OOC] George: but it is good
+[19:36:47	][IC] C24:i5.ROLLER-34: This is the flash.
+[19:36:50	][IC] C24:i5.ROLLER-34: Are  oyu okay with flashes?
+[19:36:51	][IC] George: Yuh.
+[19:37:10	][IC] C24:i5.ROLLER-34: Did it work?
+[19:37:13	][IC] George: Yes.
+[19:37:18	]C24:i5.ROLLER-34 has given himself a frag_grenade.
+[19:37:18	]C24:i5.ROLLER-34 has gained a 'Frag Grenade' #2690446.
+[19:37:20	][IC] C24:i5.ROLLER-34: Now the grenade.
+[19:37:22	][IC] George: Is there a way to make the screen grey instead of white though?
+[19:37:24	][IC] George: Is there a way to make the screen grey instead of white though?
+[19:37:29	][IC] C24:i5.ROLLER-34: Uhhhh yeah!
+[19:37:34	][IC] George: That would be better.
+[19:37:37	]C24:i5.ROLLER-34 has given himself a frag_grenade.
+[19:37:37	]C24:i5.ROLLER-34 has gained a 'Frag Grenade' #2690447.
+[19:37:39	]C24:i5.ROLLER-34 ran 'Equip' on item 'Frag Grenade' (#2690446)
+[19:37:41	][IC] George: Not as realistic sure but easier on the eyes.
+[19:37:47	][IC] C24:i5.ROLLER-34: Exactly I think also.
+[19:37:52	]C24:i5.ROLLER-34 has hit George dealing 143 damage (CritChance was 0.00).
+[19:37:52	]George was knocked unconscious and is bleeding out.
+[19:38:00	][IC] George: [SERVER] C24:i5.ROLLER-34 has hit George dealing 143 damage (CritChance was 0.00).
+[19:38:06	][IC] C24:i5.ROLLER-34: Yes.
+[19:38:09	][IC] C24:i5.ROLLER-34: Cheering2.
+[19:38:10	][IC] C24:i5.ROLLER-34: Cheering.
+[19:38:12	][IC] C24:i5.ROLLER-34: *Cheering!*.
+[19:38:14	][IC] George: Try now.
+[19:38:14	][IC] C24:i5.ROLLER-34: Cheer.
+[19:38:17	][IC] C24:i5.ROLLER-34: Cheer6.
+[19:38:21	]C24:i5.ROLLER-34 has given himself a frag_grenade.
+[19:38:21	]C24:i5.ROLLER-34 has gained a 'Frag Grenade' #2690448.
+[19:38:23	]C24:i5.ROLLER-34 ran 'Equip' on item 'Frag Grenade' (#2690448)
+[19:38:29	]C24:i5.ROLLER-34 has hit George dealing 143 damage (CritChance was 0.00).
+[19:38:29	]George was knocked unconscious and is bleeding out.
+[19:38:34	][IC] George: Yuh!
+[19:38:37	][IC] C24:i5.ROLLER-34: Yay.
+[19:38:44	][IC] George: Fire grenade?
+[19:38:44	][IC] C24:i5.ROLLER-34: Okay so it all works.
+[19:38:46	][IC] C24:i5.ROLLER-34: Fire not yet.
+[19:38:49	][IC] George: Kk.
+[19:38:50	]C24:i5.ROLLER-34 has given himself a incendiary_grenade.
+[19:38:50	]C24:i5.ROLLER-34 has gained a 'Incendiary Grenade' #2690449.
+[19:38:52	]C24:i5.ROLLER-34 ran 'Equip' on item 'Incendiary Grenade' (#2690449)
+[19:38:55	]George is fully healed.
+[19:39:02	]C24:i5.ROLLER-34 has hit C24:i5.ROLLER-34 dealing 4 damage (CritChance was 0.00).
+[19:39:02	]C24:i5.ROLLER-34 has taken 4 damage from C24:i5.ROLLER-34.
+[19:39:02	]C24:i5.ROLLER-34 has hit George dealing 1 damage (CritChance was 0.00).
+[19:39:02	]George has taken 1 damage from C24:i5.ROLLER-34.
+[19:39:02	]C24:i5.ROLLER-34 has hit C24:i5.ROLLER-34 dealing 3 damage (CritChance was 0.00).
+[19:39:02	]C24:i5.ROLLER-34 has taken 3 damage from C24:i5.ROLLER-34.
+[19:39:02	]C24:i5.ROLLER-34 has hit George dealing 3 damage (CritChance was 0.00).
+[19:39:02	]George has taken 3 damage from C24:i5.ROLLER-34.
+[19:39:02	]C24:i5.ROLLER-34 has hit George dealing 1 damage (CritChance was 0.00).
+[19:39:02	]George has taken 1 damage from C24:i5.ROLLER-34.
+[19:39:02	]C24:i5.ROLLER-34 has hit George dealing 4 damage (CritChance was 0.00).
+[19:39:02	]George has taken 4 damage from C24:i5.ROLLER-34.
+[19:39:02	]C24:i5.ROLLER-34 has hit George dealing 3 damage (CritChance was 0.00).
+[19:39:02	]George has taken 3 damage from C24:i5.ROLLER-34.
+[19:39:03	]C24:i5.ROLLER-34 has hit George dealing 3 damage (CritChance was 0.00).
+[19:39:03	]George has taken 3 damage from C24:i5.ROLLER-34.
+[19:39:03	]C24:i5.ROLLER-34 has hit George dealing 3 damage (CritChance was 0.00).
+[19:39:03	]George has taken 3 damage from C24:i5.ROLLER-34.
+[19:39:03	]C24:i5.ROLLER-34 has hit George dealing 1 damage (CritChance was 0.00).
+[19:39:03	]George has taken 1 damage from C24:i5.ROLLER-34.
+[19:39:03	]C24:i5.ROLLER-34 has hit George dealing 3 damage (CritChance was 0.00).
+[19:39:03	]George has taken 3 damage from C24:i5.ROLLER-34.
+[19:39:03	]C24:i5.ROLLER-34 has hit George dealing 1 damage (CritChance was 0.00).
+[19:39:03	]George has taken 1 damage from C24:i5.ROLLER-34.
+[19:39:04	]C24:i5.ROLLER-34 has hit George dealing 1 damage (CritChance was 0.00).
+[19:39:04	]George has taken 1 damage from C24:i5.ROLLER-34.
+[19:39:04	]C24:i5.ROLLER-34 has hit George dealing 3 damage (CritChance was 0.00).
+[19:39:04	]George has taken 3 damage from C24:i5.ROLLER-34.
+[19:39:04	]C24:i5.ROLLER-34 has hit George dealing 4 damage (CritChance was 0.00).
+[19:39:04	]George has taken 4 damage from C24:i5.ROLLER-34.
+[19:39:04	]C24:i5.ROLLER-34 has hit George dealing 4 damage (CritChance was 0.00).
+[19:39:04	]George has taken 4 damage from C24:i5.ROLLER-34.
+[19:39:04	]C24:i5.ROLLER-34 has hit George dealing 3 damage (CritChance was 0.00).
+[19:39:04	]George has taken 3 damage from C24:i5.ROLLER-34.
+[19:39:05	]C24:i5.ROLLER-34 has hit George dealing 3 damage (CritChance was 0.00).
+[19:39:05	]George has taken 3 damage from C24:i5.ROLLER-34.
+[19:39:05	]C24:i5.ROLLER-34 has hit George dealing 3 damage (CritChance was 0.00).
+[19:39:05	]George has taken 3 damage from C24:i5.ROLLER-34.
+[19:39:05	]C24:i5.ROLLER-34 has hit George dealing 4 damage (CritChance was 0.00).
+[19:39:05	]George has taken 4 damage from C24:i5.ROLLER-34.
+[19:39:05	]C24:i5.ROLLER-34 has hit George dealing 3 damage (CritChance was 0.00).
+[19:39:05	]George has taken 3 damage from C24:i5.ROLLER-34.
+[19:39:05	]C24:i5.ROLLER-34 has hit George dealing 2 damage (CritChance was 0.00).
+[19:39:05	]George has taken 2 damage from C24:i5.ROLLER-34.
+[19:39:06	]C24:i5.ROLLER-34 has hit George dealing 1 damage (CritChance was 0.00).
+[19:39:06	]George has taken 1 damage from C24:i5.ROLLER-34.
+[19:39:06	]C24:i5.ROLLER-34 has hit George dealing 1 damage (CritChance was 0.00).
+[19:39:06	]George has taken 1 damage from C24:i5.ROLLER-34.
+[19:39:06	]C24:i5.ROLLER-34 has hit George dealing 1 damage (CritChance was 0.00).
+[19:39:06	]George has taken 1 damage from C24:i5.ROLLER-34.
+[19:39:06	]C24:i5.ROLLER-34 has hit George dealing 3 damage (CritChance was 0.00).
+[19:39:06	]George has taken 3 damage from C24:i5.ROLLER-34.
+[19:39:06	]C24:i5.ROLLER-34 has hit George dealing 1 damage (CritChance was 0.00).
+[19:39:06	]George has taken 1 damage from C24:i5.ROLLER-34.
+[19:39:07	]C24:i5.ROLLER-34 is fully healed.
+[19:39:07	]C24:i5.ROLLER-34 has hit George dealing 4 damage (CritChance was 0.00).
+[19:39:07	]George has taken 4 damage from C24:i5.ROLLER-34.
+[19:39:07	]C24:i5.ROLLER-34 has hit George dealing 2 damage (CritChance was 0.00).
+[19:39:07	]George has taken 2 damage from C24:i5.ROLLER-34.
+[19:39:07	]C24:i5.ROLLER-34 has hit George dealing 4 damage (CritChance was 0.00).
+[19:39:07	]George has taken 4 damage from C24:i5.ROLLER-34.
+[19:39:07	]C24:i5.ROLLER-34 has hit George dealing 2 damage (CritChance was 0.00).
+[19:39:07	]George has taken 2 damage from C24:i5.ROLLER-34.
+[19:39:07	]C24:i5.ROLLER-34 has hit George dealing 2 damage (CritChance was 0.00).
+[19:39:07	]George has taken 2 damage from C24:i5.ROLLER-34.
+[19:39:08	]C24:i5.ROLLER-34 has hit George dealing 4 damage (CritChance was 0.00).
+[19:39:08	]George has taken 4 damage from C24:i5.ROLLER-34.
+[19:39:08	]C24:i5.ROLLER-34 has hit George dealing 2 damage (CritChance was 0.00).
+[19:39:08	]George has taken 2 damage from C24:i5.ROLLER-34.
+[19:39:08	]C24:i5.ROLLER-34 has hit George dealing 3 damage (CritChance was 0.00).
+[19:39:08	]George has taken 3 damage from C24:i5.ROLLER-34.
+[19:39:08	]C24:i5.ROLLER-34 has hit George dealing 4 damage (CritChance was 0.00).
+[19:39:08	]George has taken 4 damage from C24:i5.ROLLER-34.
+[19:39:08	]C24:i5.ROLLER-34 has hit George dealing 4 damage (CritChance was 0.00).
+[19:39:08	]George has taken 4 damage from C24:i5.ROLLER-34.
+[19:39:09	]C24:i5.ROLLER-34 has hit George dealing 2 damage (CritChance was 0.00).
+[19:39:09	]George has taken 2 damage from C24:i5.ROLLER-34.
+[19:39:09	]C24:i5.ROLLER-34 has hit George dealing 3 damage (CritChance was 0.00).
+[19:39:09	]George has taken 3 damage from C24:i5.ROLLER-34.
+[19:39:09	]C24:i5.ROLLER-34 has hit George dealing 1 damage (CritChance was 0.00).
+[19:39:09	]George has taken 1 damage from C24:i5.ROLLER-34.
+[19:39:09	]C24:i5.ROLLER-34 has hit George dealing 4 damage (CritChance was 0.00).
+[19:39:09	]George was knocked unconscious and is bleeding out.
+[19:39:20	][IC] C24:i5.ROLLER-34: No particles so far.
+[19:39:25	][IC] George: I see them.
+[19:39:28	][IC] C24:i5.ROLLER-34: You do!?
+[19:39:33	][IC] George: Yep.
+[19:39:35	][IC] C24:i5.ROLLER-34: How wtf.
+[19:39:39	][IC] C24:i5.ROLLER-34: You have some TFA content?
+[19:39:46	][IC] George: I do.
+[19:39:50	][IC] C24:i5.ROLLER-34: Which one?
+[19:39:52	][IC] George: Uuuuuuuh.
+[19:40:08	][IC] C24:i5.ROLLER-34: Because if so that'd be the whole fix...
+[19:40:09	][IC] C24:i5.ROLLER-34: XD.
+[19:41:04	][IC] C24:i5.ROLLER-34: I'll try to get it.
+[19:41:09	][IC] C24:i5.ROLLER-34: And if it works then no need to do any fixes.
+[19:41:11	][IC] C24:i5.ROLLER-34: Lmao.
+[19:41:17	][IC] George: LOL.
+[19:41:25	][IC] C24:i5.ROLLER-34: But thanks for helping test fren.
+[19:41:30	][IC] George: I mean, yeah. We got that to work fine on a SWRP server.
+[19:41:35	][IC] George: So it should be fine probably.
+[19:41:44	][IC] C24:i5.ROLLER-34: The content needs to be updated.
+[19:41:48	][IC] C24:i5.ROLLER-34: I'll ask atle.
+[19:41:50	][IC] George: That it does.
+[19:42:04	][LOOC] C24:i5.ROLLER-34: uhhhh
+[19:42:07	][LOOC] C24:i5.ROLLER-34: i have it too tho
+[19:42:12	][IC] George: Hmm.
+[19:42:18	]C24:i5.ROLLER-34 has given himself a incendiary_grenade.
+[19:42:18	]C24:i5.ROLLER-34 has gained a 'Incendiary Grenade' #2690450.
+[19:42:19	]C24:i5.ROLLER-34 ran 'Equip' on item 'Incendiary Grenade' (#2690450)
+[19:42:36	][IC] C24:i5.ROLLER-34: Ill try.
+[19:42:39	][IC] C24:i5.ROLLER-34: Ty fren.
+[19:42:55	]George entered observer.
+[19:43:18	]Mango (STEAM_0:0:544539350) has disconnected.

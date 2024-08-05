@@ -1,0 +1,168 @@
+[00:00:00	]Walter White exited observer at their location.
+[00:00:06	]Walter White used command '/ToggleRaise'.
+[00:00:10	]Walter White has fired a toolgun with the name: camera
+[00:00:12	]Walter White used command '/ToggleRaise'.
+[00:00:27	]Walter White entered observer.
+[00:00:42	]Walter White has used a context menu option with the name: ixpropviewowner
+[00:00:44	]Walter White has fired a toolgun with the name: camera
+[00:00:55	]Walter White exited observer at their location.
+[00:01:34	]Walter White used command '/Play3DSound ambient/machines/wall_move2.wav 250'.
+[00:01:42	]Walter White used command '/Play3DSound ambient/machines/wall_move2.wav 150'.
+[00:01:48	]Walter White used command '/Play3DSound ambient/machines/wall_move2.wav 50'.
+[00:01:53	]Walter White used command '/Play3DSound ambient/machines/wall_move2.wav 50'.
+[00:02:00	]Walter White used command '/Play3DSound ambient/machines/wall_move2.wav 150'.
+[00:02:23	]Walter White used command '/Play3DSound ambient/machines/wall_move1.wav 150'.
+[00:02:29	]Walter White used command '/Play3DSound ambient/machines/wall_crash1.wav 150'.
+[00:02:38	]Walter White used command '/Play3DSound ambient/machines/wall_crash1.wav 150'.
+[00:03:07	]Walter White used command '/Play3DSound ambient/explosions/exp2.wav 150'.
+[00:03:12	]Walter White used command '/Play3DSound ambient/machines/wall_move2.wav 150'.
+[00:03:16	]Walter White used command '/Play3DSound ambient/explosions/exp2.wav 150'.
+[00:03:20	]Walter White used command '/Play3DSound ambient/machines/wall_move2.wav 150'.
+[00:03:26	]Walter White used command '/Play3DSound ambient/explosions/exp2.wav 150'.
+[00:08:32	]Walter White used command '/Play3DSound ambient/machines/wall_crash1.wav 150'.
+[00:08:32	]Walter White entered observer.
+[00:08:47	]Walter White used command '/Play3DSound ambient/machines/wall_move2.wav 150'.
+[00:08:54	]Walter White exited observer at their location.
+[00:08:56	]Walter White used command '/Play3DSound ambient/machines/wall_move2.wav 150'.
+[00:09:04	]Walter White used command '/Play3DSound ambient/machines/wall_move1.wav 150'.
+[00:09:42	]Walter White used command '/Play3DSound ambient/machines/wall_move3.wav 150'.
+[00:09:46	]Walter White used command '/Play3DSound ambient/machines/wall_move3.wav 150'.
+[00:09:51	]Walter White used command '/Play3DSound ambient/machines/wall_move3.wav 150'.
+[00:09:51	]Walter White entered observer.
+[00:10:00	][IC] Walter White: !tp.
+[00:10:01	]Walter White exited observer at their location.
+[00:10:09	]Walter White used command '/Recognize'.
+[00:10:20	]Walter White entered observer.
+[00:10:20	]Walter White exited observer at their location.
+[00:10:23	]Walter White entered observer.
+[00:10:29	]Walter White exited observer at their location.
+[00:10:35	]Walter White has spawned a 'Entity [4736][ix_teleporter]'.
+[00:10:38	]Walter White entered observer.
+[00:10:46	]Walter White exited observer at their location.
+[00:10:48	]Walter White has spawned a 'Entity [4764][ix_teleporter]'.
+[00:10:49	]Walter White entered observer.
+[00:10:58	]Walter White exited observer at their location.
+[00:11:01	]Walter White has warped from Default to Default.
+[00:11:08	]Walter White used command '/Play3DSound ambient/machines/wall_move3.wav 150'.
+[00:11:08	]Walter White has warped from Default to Default.
+[00:11:15	]Walter White used command '/Play3DSound ambient/machines/wall_move3.wav 150'.
+[00:11:15	]Walter White has warped from Default to Default.
+[00:11:17	]Walter White used command '/ToggleRaise'.
+[00:11:20	]Walter White used command '/Play3DSound ambient/machines/wall_move3.wav 50'.
+[00:11:24	]Walter White used command '/Play3DSound ambient/machines/wall_move3.wav 75'.
+[00:11:24	]Walter White has warped from Default to Default.
+[00:11:31	]Walter White has warped from Default to Default.
+[00:11:34	]Walter White used command '/Play3DSound ambient/machines/wall_move3.wav 75'.
+[00:11:34	]Walter White entered observer.
+[00:11:37	]Walter White exited observer at their location.
+[00:11:41	]Walter White used command '/Play3DSound ambient/machines/wall_move3.wav 100'.
+[00:11:42	]Walter White has warped from Default to Default.
+[00:11:46	]Walter White has warped from Default to Default.
+[00:11:50	]Walter White used command '/Play3DSound ambient/machines/wall_move3.wav 100'.
+[00:11:50	]Walter White entered observer.
+[00:11:57	]Walter White used command '/Play3DSound ambient/machines/wall_move1.wav 100'.
+[00:12:01	]Walter White used command '/Play3DSound ambient/machines/wall_move2.wav 100'.
+[00:12:02	]Walter White exited observer at their location.
+[00:12:04	]Walter White has warped from Default to Default.
+[00:12:07	]Walter White has warped from Default to Default.
+[00:12:10	]Walter White used command '/Play3DSound ambient/machines/wall_move2.wav 125'.
+[00:12:11	]Walter White has warped from Default to Default.
+[00:12:16	]Walter White has warped from Default to Default.
+[00:12:19	]Walter White used command '/Play3DSound ambient/machines/wall_move2.wav 125'.
+[00:12:20	]Walter White entered observer.
+[00:12:27	]Walter White exited observer at their location.
+[00:12:31	]Walter White used command '/Play3DSound ambient/machines/wall_crash1.wav 125'.
+[00:12:45	]Walter White used command '/Play3DSound ambient/machines/wall_crash1.wav 125'.
+[00:12:45	]Walter White has warped from Default to Default.
+[00:12:51	]Walter White has warped from Default to Default.
+[00:12:53	]Walter White used command '/Play3DSound ambient/machines/wall_move2.wav 125'.
+[00:12:57	]Walter White used command '/Play3DSound ambient/machines/wall_crash1.wav 125'.
+[00:12:58	]Walter White has warped from Default to Default.
+[00:16:40	]Walter White used command '/Event *During the mundane life-to-life of normal citizens, rebels, or cops, the sound of groaning metal rubbing against each other cuts throughout the air. Distant to some, too close for others. Then a crash, as something plunges into the dirt.*'.
+[00:18:24	]Walter White used command '/Event *There is no fanfare, there is no dispatch alarm. Only the echos that you are never in-control, not anymore. Afterward, silence fills the streets once more, only interrupted by the conversation of common men and women.*'.
+[00:18:41	]Walter White used command '/Event *During the mundane life-to-life of normal citizens, rebels, or cops, the sound of groaning metal rubbing against each other cuts throughout the air. Distant to some, too close for others. Then a crash, as something plunges into the dirt.*'.
+[00:18:42	]Walter White used command '/Event *There is no fanfare, there is no dispatch alarm. Only the echos that you are never in-control, not anymore. Afterward, silence fills the streets once more, only interrupted by the conversation of common men and women, once more.'.
+[00:20:52	]Walter White used command '/Event *During the mundane life-to-life of normal citizens, rebels, or cops, the sound of groaning metal rubbing against each other cuts throughout the air. Distant to some, too close for others. Then a crash, as something plunges into the dirt.*'.
+[00:20:54	]Walter White used command '/Event *There is no fanfare, there is no dispatch alarm. Only the echos that you are never in-control, not anymore. Afterward, silence fills the streets once more, only interrupted by the conversation of common men and women, once more.*'.
+[00:22:01	]Walter White used command '/Play3DSound ambient/machines/wall_move2.wav 125'.
+[00:22:07	]Walter White used command '/Event *There is no fanfare, there is no dispatch alarm. Only the echos that you are never in-control, not anymore. Afterward, silence fills the streets once more, only interrupted by the conversation of common men and women, once more.*'.
+[00:22:09	]Walter White used command '/Play3DSound ambient/machines/wall_move2.wav 125'.
+[00:22:15	]Walter White used command '/Play3DSound ambient/machines/wall_crash1.wav 125'.
+[00:22:20	]Walter White used command '/Play3DSound ambient/machines/wall_move1.wav 125'.
+[00:22:24	]Walter White entered observer.
+[00:22:25	]Walter White exited observer at their location.
+[00:22:26	]Walter White has warped from Default to Default.
+[00:22:31	]Walter White used command '/Play3DSound ambient/machines/wall_move1.wav 125'.
+[00:22:32	]Walter White has warped from Default to Default.
+[00:24:25	]Walter White entered observer.
+[00:24:27	]Walter White used command '/ToggleRaise'.
+[00:24:27	]Walter White exited observer at their location.
+[00:24:31	]Walter White entered observer.
+[00:24:34	]Walter White exited observer at their location.
+[00:25:07	]Walter White used command '/CharSetModel walter models/willardnetworks/citizens/female_05.mdl'.
+[00:25:19	]Walter White used command '/CharSetModel walter models/willardnetworks/citizens/male_04.mdl'.
+[00:25:27	]Walter White used command '/ToggleRaise'.
+[00:25:38	]Walter White used command '/ToggleRaise'.
+[00:25:51	]Walter White used command '/ToggleRaise'.
+[00:25:59	]Walter White used command '/ToggleRaise'.
+[00:26:05	]Walter White used command '/ToggleRaise'.
+[00:26:14	]Walter White used command '/ToggleRaise'.
+[00:26:25	]Walter White used command '/ToggleRaise'.
+[00:27:02	]Walter White used command '/ToggleRaise'.
+[00:27:13	]Walter White used command '/ToggleRaise'.
+[00:27:24	]Walter White used command '/ToggleRaise'.
+[00:27:35	]Walter White used command '/ToggleRaise'.
+[00:27:47	]Walter White used command '/ToggleRaise'.
+[00:28:20	]Walter White has spawned a go_supp_monolith_shot.
+[00:28:26	]Walter White has given himself a go_supp_monolith_shot.
+[00:28:26	]Walter White has gained a 'Monolith Suppressor' #2050144.
+[00:28:38	]Walter White entered observer.
+[00:28:51	]Walter White exited observer at their location.
+[00:28:56	]Walter White used command '/ToggleRaise'.
+[00:29:07	]Walter White used command '/ToggleRaise'.
+[00:29:15	]Walter White used command '/ToggleRaise'.
+[00:29:26	]Walter White entered observer.
+[00:29:27	]Walter White exited observer at their location.
+[00:29:30	]Walter White used command '/ToggleRaise'.
+[00:29:42	]Walter White used command '/ToggleRaise'.
+[00:29:49	]Walter White has spawned a 'NPC [4756][npc_combine_s]'.
+[00:29:50	]Walter White has taken 6 damage from npc_combine_s.
+[00:29:54	]Walter White has spawned a 'NPC [4734][npc_vj_hlr1a_aliengrunt]'.
+[00:29:56	]Walter White has taken 20 damage from Alpha Alien Grunt.
+[00:29:56	]Walter White has taken 20 damage from Alpha Alien Grunt.
+[00:30:00	]Walter White has taken 5 damage from Alpha Alien Grunt.
+[00:30:00	]Walter White has taken 5 damage from Alpha Alien Grunt.
+[00:30:01	]Walter White has taken 5 damage from Alpha Alien Grunt.
+[00:30:02	]Walter White has taken 5 damage from Alpha Alien Grunt.
+[00:30:03	]Walter White has taken 5 damage from Alpha Alien Grunt.
+[00:30:03	]Walter White has taken 5 damage from Alpha Alien Grunt.
+[00:30:04	]Walter White has taken 5 damage from Alpha Alien Grunt.
+[00:30:04	]Walter White entered observer.
+[00:30:10	]Walter White exited observer at their location.
+[00:30:41	]Walter White used command '/Event *There is no fanfare, there is no dispatch alarm. Only the echos that you are never in-control, not anymore. Afterward, silence fills the streets once more, only interrupted by the conversation of common men and women, once more.*'.
+[00:34:28	]Astro (STEAM_0:1:86837969) has disconnected.
+[01:22:38	]NanCi-  なんしい has connected.
+[01:23:55	]NanCi-  なんしい loaded the character 'Hank J. Wimleton'
+[01:24:11	]Hank J. Wimleton ran 'Equip' on item 'Model 870' (#1987240)
+[01:24:12	]Hank J. Wimleton has lost a '8rnd 870-magazine' #1987256.
+[01:24:35	]Hank J. Wimleton has gained a '8rnd 870-magazine' #1987256.
+[01:24:35	]Hank J. Wimleton has lost a '8rnd 870-magazine' #1987255.
+[01:24:48	]Hank J. Wimleton ran 'removeMag' on item 'Model 870' (#1987240)
+[01:24:48	]Hank J. Wimleton has gained a '8rnd 870-magazine' #1987255.
+[01:24:50	]Hank J. Wimleton ran 'combine' on item '8rnd 870-magazine' (#1987255)
+[01:24:50	]Hank J. Wimleton ran 'combine' on item '8rnd 870-magazine' (#1987256)
+[01:24:51	]Hank J. Wimleton has lost a '8rnd 870-magazine' #1987256.
+[01:30:54	]NanCi-  なんしい has unloaded their "Hank J. Wimleton" character.
+[01:32:13	]NanCi-  なんしい (STEAM_0:1:148411743) has disconnected.
+[19:15:46	][DEFN] madpro187 has connected.
+[19:17:14	][DEFN] madpro187 loaded the character 'C24/Disp:AI-18'
+[19:17:19	]C24/Disp:AI-18 is fully healed.
+[19:18:16	]C24/Disp:AI-18 used command '/LinkRemove'.
+[19:18:24	]C24/Disp:AI-18 used command '/LinkAccount Madpro187'.
+[19:18:55	]C24/Disp:AI-18 used command '/LinkComplete gr8LWrNYv9CW'.
+[19:19:48	]C24/Disp:AI-18 used command '/PrintFactionList combine'.
+[19:19:57	]C24/Disp:AI-18 used command '/PrintFactionList OSA'.
+[19:20:02	]C24/Disp:AI-18 used command '/PrintFactionList Overwatch'.
+[19:20:11	]C24/Disp:AI-18 used command '/PrintFactionList Synth'.
+[19:20:14	]C24/Disp:AI-18 used command '/PrintFactionList Antlion'.
+[19:20:43	][DEFN] madpro187 (STEAM_0:1:15521284) has disconnected.

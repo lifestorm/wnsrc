@@ -1,0 +1,802 @@
+[04:40:31	]Kranky has connected.
+[04:45:46	]Kranky loaded the character 'John Johnson'
+[04:53:36	]Kranky (STEAM_0:1:110380124) has disconnected.
+[19:07:33	]Votton has connected.
+[19:09:05	]Votton loaded the character 'Votton'
+[19:09:10	]Votton is fully healed.
+[19:09:13	]Votton entered observer.
+[19:09:25	]Votton has spawned a 'Entity [428][ix_teleporter]'.
+[19:09:33	]Votton used command '/Teleporters'.
+[19:09:38	]Votton has spawned a 'Entity [430][ix_teleporter]'.
+[19:09:43	]Hiros | Error 410 has connected.
+[19:09:43	]Votton exited observer at their location.
+[19:09:52	]Votton used command '/Teleporters'.
+[19:10:14	]Votton used command '/Teleporters'.
+[19:10:32	]Hiros | Error 410 loaded the character 'Hiros'
+[19:10:36	]Votton used command '/TeleporterReset'.
+[19:10:37	]Hiros is fully healed.
+[19:10:41	]Votton used command '/Teleporters'.
+[19:11:03	]Hiros used command '/Teleporters'.
+[19:11:08	]Hiros entered observer.
+[19:11:18	][OOC] Hiros: Votton more like BOTTOM HAHHA
+[19:11:20	]Votton entered observer.
+[19:11:22	]Hiros exited observer at their location.
+[19:11:24	][OOC] Votton: HAhahahahaha
+[19:11:26	]Votton exited observer at their location.
+[19:11:32	][OOC] Votton: I'm just trying to see how to link these up
+[19:11:36	]Votton entered observer.
+[19:11:37	][OOC] Hiros: was about to test teleporter w Mango
+[19:11:39	]Votton exited observer at their location.
+[19:11:48	][OOC] Votton: Oh is she joining the server too?
+[19:11:51	]Hiros has given himself a flashlight.
+[19:11:51	]Hiros has gained a 'Flashlight' #1650066.
+[19:11:54	][OOC] Hiros: yee
+[19:12:03	]Votton used command '/Teleporters'.
+[19:12:04	][OOC] Hiros: she asked me if i want to test it out w her
+[19:12:09	]Hiros has spawned 'models/props_c17/furnitureStove001a.mdl'.
+[19:12:13	][OOC] Votton: Yeah go for it
+[19:12:24	]Hiros has used a context menu option with the name: remove
+[19:12:26	]Hiros has spawned 'models/props_c17/door01_left.mdl'.
+[19:12:45	]Hiros used command '/TeleporterSetModel models/props_c17/door01_left.mdl'.
+[19:12:53	]Hiros has used a context menu option with the name: remove
+[19:13:07	]Votton ran SAM command 'menu' with arguments: ''
+[19:13:09	]Hiros has spawned a 'Entity [434][ix_shop_sign]'.
+[19:13:12	]Mango has connected.
+[19:13:19	]Hiros has spawned a 'Entity [434][ix_teleporter]'.
+[19:13:29	][OOC] Hiros: AHA i found how
+[19:13:35	][OOC] Hiros: you need to spawn TWO
+[19:13:39	][OOC] Hiros: press E and link em
+[19:13:41	]Hiros entered observer.
+[19:13:41	]Hiros exited observer at their location.
+[19:13:42	]Hiros entered observer.
+[19:13:43	]Hiros exited observer at their location.
+[19:13:48	]Hiros entered observer.
+[19:13:50	]Hiros exited observer at their location.
+[19:13:56	][IC] Hiros: Press E.
+[19:14:10	][IC] Votton: Hmm.
+[19:14:16	]Votton used command '/Teleporters'.
+[19:14:19	]Hiros entered observer.
+[19:14:19	]Hiros exited observer at their location.
+[19:14:26	][IC] Hiros: Oh.
+[19:14:30	]Votton ran SAM command 'menu' with arguments: ''
+[19:14:32	][IC] Hiros: It broke after i teleported.
+[19:14:35	]Mango loaded the character 'Mango Banana'
+[19:14:37	][IC] Votton: Oh?
+[19:14:42	][IC] Hiros: Cant use it again.
+[19:14:44	][OOC] Mango Banana: wawawiwa
+[19:14:48	][OOC] Hiros: omg mango
+[19:14:51	][OOC] Hiros: it broke D:
+[19:15:00	][OOC] Votton: No errors on the console though
+[19:15:01	][IC] Hiros: Nvm.
+[19:15:05	][IC] Hiros: You gotta use HANDS.
+[19:15:06	][IC] Votton: Oh?
+[19:15:10	][IC] Hiros: And press E.
+[19:15:11	][IC] Votton: Oh.
+[19:15:13	][OOC] Mango Banana: Hold on, gimme rank
+[19:15:18	][OOC] Hiros: nvm we figured it out
+[19:15:23	][IC] Hiros: Fair.
+[19:15:26	][IC] Votton: It does work.
+[19:15:28	][IC] Votton: Yeah.
+[19:15:28	][IC] Hiros: Yee.
+[19:15:32	][IC] Hiros: Give mango rank.
+[19:15:40	]Console ran SAM command 'adduser' with arguments: 'mango' 'superadmin'
+[19:15:41	][IC] Hiros: Gonna do some sound test.
+[19:15:53	][Y] Mango Banana: Hands up.
+[19:15:58	]Hiros used command '/TeleporterSetWarpSound music/battle/a2_train_action1b.mp3'.
+[19:16:03	][IC] Hiros: \.
+[19:16:07	][IC] Hiros: Oh god.
+[19:16:10	][IC] Hiros: It plays globally.
+[19:16:16	][OOC] Hiros: MANGO
+[19:16:19	][OOC] Mango Banana: yes
+[19:16:21	][OOC] Hiros: when you set warp sound
+[19:16:24	][OOC] Hiros: it plays globally
+[19:16:31	][OOC] Mango Banana: yes
+[19:16:44	][OOC] Votton: Can you make it, so it only plays localised preferably for the people who use the teleporter specific
+[19:16:53	][OOC] Mango Banana: of course
+[19:16:58	][OOC] Votton: So far otherwise it seems to be working fine I think
+[19:17:00	][IC] Hiros: I would do 600 units.
+[19:17:08	][IC] Hiros: Lemme do some bug testing.
+[19:17:09	][OOC] Votton: Or actually yeah it could be a radius thing
+[19:17:09	][LOOC] Mango Banana: what about /teleporters?
+[19:17:13	]Votton used command '/Teleporters'.
+[19:17:16	]Hiros used command '/Teleporters'.
+[19:17:23	]Votton has spawned a 'Entity [429][ix_teleporter]'.
+[19:17:31	]Votton used command '/Teleporters'.
+[19:17:38	][IC] Hiros: It sets music as third teleporter.
+[19:17:44	][IC] Hiros: Interesting.
+[19:17:46	][LOOC] Mango Banana: you can no collide it
+[19:17:52	][LOOC] Mango Banana: world no collide
+[19:17:56	][IC] Hiros: OH WAIT.
+[19:17:57	][LOOC] Mango Banana: position as you want
+[19:17:58	][IC] Hiros: We can do this.
+[19:18:03	][LOOC] Votton: Yeah true
+[19:18:06	]Hiros used command '/TeleporterSetModel models/props_c17/FurnitureDresser001a.mdl'.
+[19:18:07	][LOOC] Votton: Just wanted to test the menu out
+[19:18:09	][IC] Hiros: NARNIA.
+[19:18:22	][IC] Mango Banana: Narnia lmao.
+[19:18:26	][IC] Hiros: Oh god.
+[19:18:37	][IC] Hiros: It's using door collision.
+[19:18:46	][IC] Mango Banana: Mmmm.
+[19:18:50	]Hiros has taken 5 damage from Hiros.
+[19:18:52	]Hiros is fully healed.
+[19:19:00	]Votton has fired a toolgun with the name: nocollideworld
+[19:19:01	][IC] Mango Banana: Wtf.
+[19:19:09	][IC] Hiros: Nice.
+[19:19:14	][LOOC] Votton: No collide world though works for it I think
+[19:19:14	][IC] Mango Banana: I'm gonna remove the motion.
+[19:19:25	][IC] Hiros: Oh it stays as doors.
+[19:19:27	][LOOC] Mango Banana: so it doesn't move without uhhh
+[19:19:32	]Hiros has fired a toolgun with the name: nocollideworld
+[19:19:33	]Hiros has fired a toolgun with the name: nocollideworld
+[19:19:42	]Hiros entered observer.
+[19:19:43	]Hiros exited observer at their location.
+[19:20:03	]Votton has used a context menu option with the name: collision_on
+[19:20:04	][IC] Mango Banana: Aaa someone gimme admin.
+[19:20:08	][IC] Hiros: You have.
+[19:20:10	][IC] Hiros: You gotta.
+[19:20:12	]Console ran SAM command 'adduser' with arguments: 'mango' 'superadmin'
+[19:20:12	][IC] Hiros: Reconnect.
+[19:20:15	][IC] Mango Banana: Oh.
+[19:20:16	][IC] Hiros: It's buggy.
+[19:20:21	]Mango (STEAM_0:0:544539350) has disconnected.
+[19:20:27	][LOOC] Votton: Oh there she goes lmao
+[19:20:35	][IC] Hiros: She needs to reconnect.
+[19:20:36	][IC] Hiros: Due to uhh.
+[19:20:37	][LOOC] Votton: Well so far seems to be working fine, though the audio could be radius
+[19:20:39	][IC] Hiros: SAM being fucked.
+[19:20:46	][IC] Hiros: Because when you set admin rank.
+[19:20:52	][IC] Hiros: It won't update automnatically.
+[19:20:55	][LOOC] Votton: Oh?
+[19:20:58	][IC] Hiros: And you gotta reconnect.
+[19:21:05	][IC] Hiros: So ye.
+[19:21:15	][IC] Hiros: Maybe just issue w rank super admin.
+[19:21:19	][IC] Votton: Maybe yeah.
+[19:21:19	]Votton ran SAM command 'menu' with arguments: ''
+[19:21:23	][IC] Hiros: Because that one seems to be glitchy.
+[19:21:33	][IC] Votton: Alternatively she can /LinkAccount probs.
+[19:21:37	][IC] Hiros: Tru.
+[19:22:00	]Hiros used command '/Teleporters'.
+[19:22:17	]Hiros entered observer.
+[19:22:18	]Hiros exited observer at their location.
+[19:22:26	][IC] Hiros: Uhh. I will suggest adding.
+[19:22:35	][IC] Hiros: ./teleportersoundreset.
+[19:22:47	][IC] Hiros: Because now you gotta open up the menu, and manually remove the path.
+[19:23:02	]Hiros entered observer.
+[19:23:03	]Hiros exited observer at their location.
+[19:23:06	]Mango has connected.
+[19:23:26	]Votton entered observer.
+[19:23:27	]Votton exited observer at their location.
+[19:23:38	][LOOC] Votton: I've DMd the stuff to her, but generally speaking you can let her know anythin
+[19:23:39	][IC] Hiros: It teleports just fine tbf.
+[19:23:43	][IC] Hiros: Yee.
+[19:24:19	][LOOC] Votton: Cool shit though, as the Koreans are looking forward to this too
+[19:24:23	][LOOC] Votton: As they run a lot of events
+[19:24:26	][IC] Hiros: Yee.
+[19:24:33	][IC] Hiros: Wait.
+[19:24:36	][IC] Hiros: We didn't test.
+[19:24:40	]Mango loaded the character 'Mango Banana'
+[19:24:41	]Hiros used command '/ToggleRaise'.
+[19:24:56	][IC] Mango Banana: Hi.
+[19:24:59	][IC] Hiros: Oke it doesn't mess ammo.
+[19:25:02	][IC] Hiros: Hello banana.
+[19:25:05	][IC] Mango Banana: Hiihihih fish.
+[19:25:07	][IC] Hiros: So.
+[19:25:11	][IC] Hiros: My suggestion is.
+[19:25:11	][IC] Mango Banana: Still not admin.
+[19:25:14	]Votton ran SAM command 'menu' with arguments: ''
+[19:25:17	][IC] Hiros: ./teleportersoundreset to be added.
+[19:25:19	][IC] Hiros: Do uh.
+[19:25:22	][IC] Hiros: Accountlink.
+[19:25:26	][LOOC] Votton: Can you try /LinkAccount
+[19:25:27	][IC] Hiros: Linkaccount.
+[19:25:28	][IC] Hiros: Yes.
+[19:25:35	][IC] Hiros: I will force group you.
+[19:25:37	][LOOC] Votton: Should give you the developer role after linked
+[19:25:43	]Mango Banana used command '/LinkAccount https://willard.network/forums/members/mango.487/'.
+[19:25:44	]Hiros used command '/ForceGroupUpdate mango'.
+[19:25:45	]Votton ran SAM command 'menu' with arguments: ''
+[19:25:48	]Hiros used command '/ForceGroupUpdate mango'.
+[19:25:53	]Mango Banana used command '/LinkComplete HP1xFkBft9FI'.
+[19:25:56	][LOOC] Mango Banana: waawiwa
+[19:25:57	]Mango Banana entered observer.
+[19:25:59	]Mango Banana exited observer at their location.
+[19:25:59	]Hiros used command '/ForceGroupUpdate mango'.
+[19:26:01	][IC] Hiros: Yayt.
+[19:26:01	]Votton ran SAM command 'menu' with arguments: ''
+[19:26:04	][IC] Hiros: So.
+[19:26:18	]Mango Banana entered observer.
+[19:26:18	]Mango Banana exited observer at their location.
+[19:26:20	][IC] Hiros: ./teleportersoundreset to be added to reset warp sound. Maybe change it to 600 units.
+[19:26:23	][IC] Hiros: After TP.
+[19:26:34	][IC] Hiros: Because RN you gotta open up the menu.
+[19:26:39	][IC] Hiros: And delete path manually.
+[19:26:41	][IC] Mango Banana: Sounds good.
+[19:26:57	][IC] Hiros: Other than that i don't think i encountered bug.
+[19:27:03	][ME] Hiros: pats mango on head
+[19:27:07	]Mango Banana used command '/Teleporters'.
+[19:27:15	]Hiros used command '/Teleporters'.
+[19:27:19	][IC] Mango Banana: Esp too works.
+[19:27:20	]Mango Banana entered observer.
+[19:27:22	]Votton entered observer.
+[19:27:23	]Votton exited observer at their location.
+[19:27:23	]Hiros entered observer.
+[19:27:24	]Mango Banana exited observer at their location.
+[19:27:26	]Mango Banana entered observer.
+[19:27:28	]Mango Banana exited observer at their location.
+[19:27:35	][IC] Mango Banana: Its in options.
+[19:27:38	]Hiros has used a context menu option with the name: collision_off
+[19:27:38	]Mango Banana entered observer.
+[19:27:39	]Hiros has used a context menu option with the name: remove
+[19:27:41	]Hiros has used a context menu option with the name: remove
+[19:27:41	]Hiros exited observer at their location.
+[19:27:43	]Mango Banana exited observer at their location.
+[19:27:44	][IC] Hiros: Yee.
+[19:27:44	]Hiros entered observer.
+[19:27:46	]Hiros exited observer at their location.
+[19:27:50	]Votton entered observer.
+[19:27:52	]Votton exited observer at their location.
+[19:27:52	][IC] Hiros: You know what would be interesitng.
+[19:27:53	][OOC] Mango Banana: well great
+[19:27:55	][IC] Hiros: To add small arrow.
+[19:28:02	][IC] Hiros: In ESP to see which direction it teleports.
+[19:28:03	][IC] Mango Banana: I THOUGHT OF THAT I SWEAR, to where.
+[19:28:04	][IC] Mango Banana: Yeah!
+[19:28:12	][IC] Mango Banana: Okay!
+[19:28:17	][LOOC] Votton: Let me know when you open the branch, can give a more proper name to that setting 
+[19:28:29	][LOOC] Votton: Easier to find it then
+[19:28:36	][LOOC] Mango Banana: alrighty
+[19:28:43	][IC] Mango Banana: Thanks Hiros, thanks Votton.
+[19:28:49	][IC] Hiros: No problemo Banana.
+[19:28:50	][LOOC] Votton: No problem at all
+[19:29:13	][IC] Hiros: I wonder.
+[19:29:24	][LOOC] Votton: Hmm?
+[19:29:25	][IC] Hiros: Try to restart dev server if the teleporters stay.
+[19:29:30	][IC] Hiros: And work.
+[19:29:32	][IC] Hiros: After restart.
+[19:29:35	][LOOC] Votton: Can probably test in a bit
+[19:29:41	][IC] Hiros: Ye.
+[19:29:44	][LOOC] Votton: They are entities, so technically they should stick
+[19:29:49	][LOOC] Votton: Functionality wise hopefully too
+[19:29:50	][IC] Hiros: But the linking can be fucky.
+[19:30:00	][IC] Hiros: Wait.
+[19:30:05	][IC] Hiros: Gotta add more teleporters.
+[19:30:12	]Hiros has spawned a 'Entity [429][ix_teleporter]'.
+[19:30:16	]Hiros has spawned a 'Entity [430][ix_teleporter]'.
+[19:30:34	][IC] Hiros: Oh god.
+[19:30:38	][IC] Hiros: I found issue already.
+[19:30:55	][IC] Hiros: Hehe.
+[19:31:15	][LOOC] Votton: I think went AFK doing the code stuff
+[19:31:20	][LOOC] Votton: Just pop a DM to her or something
+[19:31:20	][IC] Hiros: Ye.
+[19:31:37	][IC] Hiros: Soo.
+[19:31:39	][IC] Mango Banana: What.
+[19:31:46	][IC] Hiros: If you have the Teleporter sideways.
+[19:31:47	][IC] Hiros: Come here.
+[19:31:52	][IC] Mango Banana: The rotation turns your view ?
+[19:31:54	][IC] Hiros: Yes.
+[19:31:59	][IC] Mango Banana: I suspected that.
+[19:32:00	][IC] Hiros: It turns your view as well.
+[19:32:06	][IC] Hiros: Until you do third person and back.
+[19:32:11	][IC] Mango Banana: I'll make sure not to apply that rotation.
+[19:32:22	][IC] Hiros: OH GOD.
+[19:32:23	][IC] Hiros: LMAO.
+[19:32:28	][LOOC] Votton: xD
+[19:32:30	][IC] Hiros: Im upside down.
+[19:32:32	][IC] Hiros: Test it.
+[19:32:34	][IC] Mango Banana: But yes, makes sense- HAHAH it completely turns it upside down technically.
+[19:32:41	][Y] Hiros: This one.
+[19:32:43	][IC] Mango Banana: I'm fixing.
+[19:32:57	][LOOC] Votton: Holy
+[19:33:02	][LOOC] Votton: This is so trippy
+[19:33:03	][IC] Hiros: Go to third person and bacc.
+[19:33:19	][IC] Hiros: Oh god.
+[19:33:32	]Votton (STEAM_0:1:46230933) has disconnected.
+[19:35:39	]Hiros used command '/TeleporterSetWarpSound music/battle/battle1.ogg'.
+[19:39:10	]Mango Banana has gone afk.
+[19:39:16	]Hiros used command '/Teleporters'.
+[19:40:50	]Hiros entered observer.
+[19:41:41	]Hiros exited observer at their location.
+[19:41:46	]Hiros has spawned a 'Entity [425][ix_teleporter]'.
+[19:41:48	]Hiros entered observer.
+[19:42:00	]Hiros has spawned a 'Entity [426][ix_teleporter]'.
+[19:42:19	]Hiros has fired a toolgun with the name: nocollideworld
+[19:42:28	]Hiros ran SAM command 'goto' with arguments: 'mango'
+[19:42:31	]Hiros exited observer at their location.
+[19:42:33	]Hiros has taken 499 damage from trigger_hurt.
+[19:42:34	]Hiros has taken 51 damage from worldspawn.
+[19:42:37	]Hiros is fully healed.
+[19:42:45	]Mango Banana is no longer afk. Total time spent AFK: 510
+[19:42:50	]Hiros entered observer.
+[19:42:51	]Hiros exited observer at their location.
+[19:42:53	]Hiros has taken 499 damage from trigger_hurt.
+[19:42:53	]Hiros has taken 72 damage from worldspawn.
+[19:42:56	]Hiros entered observer.
+[19:42:57	]Hiros is fully healed.
+[19:43:03	][OOC] Hiros: MANGO
+[19:43:06	][OOC] Mango Banana: aaaaaaaaa
+[19:43:07	]Mango Banana entered observer.
+[19:43:12	]Hiros ran SAM command 'goto' with arguments: 'mango'
+[19:43:16	]Hiros exited observer at their location.
+[19:43:18	][OOC] Hiros: come here
+[19:43:20	]Mango Banana exited observer at their location.
+[19:43:20	]Mango Banana entered observer.
+[19:43:23	][OOC] Hiros: found another bug
+[19:43:24	]Hiros entered observer.
+[19:43:25	]Hiros exited observer at their location.
+[19:43:30	]Mango Banana exited observer at their location.
+[19:43:31	][OOC] Hiros: COME HERE
+[19:43:31	]Hiros entered observer.
+[19:43:33	]Hiros exited observer at their location.
+[19:43:37	][IC] Hiros: PRESS E.
+[19:43:40	]Mango Banana was knocked unconscious and is bleeding out.
+[19:43:41	]Mango Banana was killed while bleeding out.
+[19:43:41	]trigger_hurt has killed Mango Banana with trigger_hurt.
+[19:43:45	][OOC] Hiros: hahaha
+[19:43:46	]Mango (STEAM_0:0:544539350) has disconnected.
+[19:45:33	]Hiros used command '/PropDescriptionAdd A magic door Magic door that makes you teleport, somewhere'.
+[19:45:36	]Hiros used command '/PropDescriptionAdd A magic door Magic door that makes you teleport, somewhere'.
+[19:45:37	]Hiros used command '/PropDescriptionAdd A magic door Magic door that makes you teleport, somewhere'.
+[19:45:38	]Hiros used command '/PropDescriptionAdd A magic door Magic door that makes you teleport, somewhere'.
+[19:45:59	]Hiros entered observer.
+[19:46:09	]Hiros exited observer at their location.
+[19:46:35	]Hiros has taken 499 damage from trigger_hurt.
+[19:46:35	]Hiros has taken 51 damage from worldspawn.
+[19:46:36	]Hiros entered observer.
+[19:46:37	]Hiros is fully healed.
+[19:47:07	]Hiros exited observer at their location.
+[19:48:03	]Hiros entered observer.
+[19:48:31	]Hiros exited observer at their location.
+[19:48:36	]Hiros has taken 499 damage from trigger_hurt.
+[19:48:36	]Hiros has taken 45 damage from worldspawn.
+[19:48:37	]Hiros is fully healed.
+[19:48:41	]Hiros entered observer.
+[19:48:45	]Hiros exited observer at their location.
+[19:49:19	]Hiros has taken 499 damage from trigger_hurt.
+[19:49:20	]Hiros has taken 45 damage from worldspawn.
+[19:49:22	]Hiros is fully healed.
+[19:49:23	]Hiros entered observer.
+[19:49:28	]Hiros exited observer at their location.
+[19:50:08	]Hiros has fired a toolgun with the name: nocollideworld
+[19:50:15	]Hiros has fired a toolgun with the name: colour
+[19:50:55	]Hiros used command '/TeleporterSetModel models/props_combine/breenchair.mdl'.
+[19:51:08	]Hiros has fired a toolgun with the name: nocollideworld
+[19:51:18	]Hiros has taken 499 damage from trigger_hurt.
+[19:51:19	]Hiros has taken 45 damage from worldspawn.
+[19:51:22	]Hiros entered observer.
+[19:51:22	]Hiros is fully healed.
+[19:51:37	]Hiros exited observer at their location.
+[19:52:36	]Rabithunter has connected.
+[19:53:31	]Rabithunter loaded the character 'Jody Mayflower'
+[19:53:51	]Jody Mayflower has given himself a flash_grenade.
+[19:53:51	]Jody Mayflower has gained a 'Flash Grenade' #1650067.
+[19:53:54	]Jody Mayflower ran 'Equip' on item 'Flash Grenade' (#1650067)
+[19:53:55	]Jody Mayflower used command '/ToggleRaise'.
+[19:54:39	]Jody Mayflower entered observer.
+[19:54:39	]Hiros has fired a toolgun with the name: nocollideworld
+[19:54:40	]Jody Mayflower exited observer at their location.
+[19:55:10	]Jody Mayflower used command '/PlyTransfer jody event'.
+[19:55:12	]Jody Mayflower was knocked unconscious and is bleeding out.
+[19:55:20	]Jody Mayflower ran SAM command 'respawn' with arguments: 'mayflo'
+[19:55:26	]Jody Mayflower entered observer.
+[19:55:33	]Jody Mayflower exited observer at their location.
+[19:56:04	]Jody Mayflower used command '/ActStand 4'.
+[19:56:40	]Jody Mayflower used command '/ExitAct'.
+[19:56:46	]Hiros entered observer.
+[19:56:47	]Hiros exited observer at their location.
+[19:58:27	]Jody Mayflower used command '/ActStand 1'.
+[19:58:48	]Hiros has fired a toolgun with the name: sh_textadd
+[19:59:06	]Jody Mayflower used command '/ExitAct'.
+[19:59:53	]Jody Mayflower used command '/PlaySound music/eventmusic/rabitsintrotheme.ogg'.
+[20:02:48	]Jody Mayflower ran SAM command 'hp' with arguments: 'may'
+[20:02:51	]Jody Mayflower is fully healed.
+[20:04:32	]Hiros has gone afk.
+[20:09:03	]Hiros | Error 410 (STEAM_0:1:54068821) has disconnected.
+[20:11:31	]Jody Mayflower has gone afk.
+[20:17:41	]Jody Mayflower is no longer afk. Total time spent AFK: 665
+[20:18:57	]Rabithunter (STEAM_0:1:22394854) has disconnected.
+[21:36:24	]Hiros | Error 410 has connected.
+[21:37:33	]Hiros | Error 410 loaded the character 'Hiros'
+[21:37:38	]Hiros is fully healed.
+[21:39:06	]Hiros entered observer.
+[21:39:58	]Hiros exited observer at their location.
+[21:40:08	]Hiros entered observer.
+[21:40:22	]Hiros used command '/TeleporterResetWarpSound @'.
+[21:40:24	]Hiros used command '/TeleporterResetWarpSound @'.
+[21:40:26	]Hiros used command '/TeleporterResetWarpSound @'.
+[21:40:28	]Hiros used command '/TeleporterResetWarpSound @'.
+[21:40:30	]Hiros used command '/TeleporterResetWarpSound @'.
+[21:40:33	]Hiros used command '/TeleporterResetWarpSound @'.
+[21:43:22	]Hiros used command '/Teleporters'.
+[21:51:14	]Hiros exited observer at their location.
+[21:51:55	]Hiros used command '/TeleporterSetWarpSound music/passive/a2_entrance_xengene_lp_01.mp3'.
+[21:52:26	]Hiros used command '/TeleporterSetWarpSound music/passive/a3_distillery_vault1.mp3'.
+[21:52:40	]Hiros used command '/TeleporterSetWarpSound music/passive/a3_distillery_vault1.mp3'.
+[21:53:01	]Hiros used command '/TeleporterResetWarpSound @'.
+[21:53:03	]Hiros used command '/TeleporterSetWarpSound music/passive/a3_distillery_vault1.mp3'.
+[21:53:09	]Hiros used command '/TeleporterSetWarpSound music/passive/a3_distillery_vault1.mp3'.
+[21:53:41	]Hiros has spawned a 'Entity [434][ix_teleporter]'.
+[21:53:44	]Hiros has spawned a 'Entity [435][ix_teleporter]'.
+[21:53:47	]Hiros used command '/TeleporterSetWarpSound music/passive/a3_distillery_vault1.mp3'.
+[21:54:00	]Hiros used command '/TeleporterResetWarpSound @'.
+[21:54:08	]Hiros used command '/TeleporterSetWarpSound music/passive/a3_distillery_vault1.mp3'.
+[21:54:25	]Hiros used command '/TeleporterSetWarpSound music/passive/a3_distillery_vault1.mp3'.
+[21:54:29	]Hiros used command '/TeleporterSetWarpSound music/passive/a3_distillery_vault1.mp3'.
+[21:54:45	]Hiros used command '/TeleporterSetWarpSound music/passive/a3_distillery_vault1.mp3'.
+[22:07:03	]Hiros has gone afk.
+[22:09:08	]Hiros is no longer afk. Total time spent AFK: 420
+[22:32:53	]Hiros | Error 410 (STEAM_0:1:54068821) has disconnected.
+[22:38:16	]AngelicPenguin has connected.
+[22:39:33	]AngelicPenguin created the character 'Exploit Man'
+[22:39:33	]AngelicPenguin has gained 20 chips.
+[22:39:33	]AngelicPenguin loaded the character 'Exploit Man'
+[22:39:33	]Exploit Man has gained a 'Flashlight' #1650068.
+[22:39:33	]Exploit Man has gained a '#24838's Identity Card' #1650069.
+[22:39:33	]Exploit Man has gained a 'Glasses' #1650070.
+[22:41:52	]Exploit Man has taken 28 damage from worldspawn.
+[22:43:26	]Exploit Man has taken 1 damage from env_fire.
+[22:43:27	]Exploit Man has taken 1 damage from env_fire.
+[22:43:28	]Exploit Man has taken 1 damage from env_fire.
+[22:43:29	]Exploit Man has taken 1 damage from env_fire.
+[22:43:30	]Exploit Man has taken 1 damage from env_fire.
+[22:43:31	]Exploit Man has taken 1 damage from env_fire.
+[22:43:32	]Exploit Man has taken 1 damage from env_fire.
+[22:43:33	]Exploit Man has taken 1 damage from env_fire.
+[22:43:34	]Exploit Man has taken 1 damage from env_fire.
+[22:46:42	]Exploit Man used command '/CharFallOver'.
+[22:46:52	]Exploit Man used command '/CharGetUp'.
+[22:48:01	]AngelicPenguin (STEAM_0:1:127190078) has disconnected.
+[22:50:29	]AngelicPenguin has connected.
+[22:53:53	]AngelicPenguin loaded the character 'Exploit Man'
+[23:04:10	]Hiros | Error 410 has connected.
+[23:05:02	]Hiros | Error 410 loaded the character 'Hiros'
+[23:05:07	]Hiros is fully healed.
+[23:05:54	]Hiros has warped from Default to Default.
+[23:06:23	]Hiros used command '/Teleporters'.
+[23:06:41	]Hiros entered observer.
+[23:06:43	]Hiros exited observer at their location.
+[23:07:17	]Hiros has warped from Default to Default.
+[23:08:11	]Hiros entered observer.
+[23:08:12	]Hiros exited observer at their location.
+[23:08:30	]Hiros has warped from Default to Door 1.
+[23:08:44	]Hiros entered observer.
+[23:08:45	]Hiros exited observer at their location.
+[23:10:07	]Hiros has warped from Door 1 to Default.
+[23:10:15	]Hiros entered observer.
+[23:10:16	]Hiros exited observer at their location.
+[23:10:31	]Hiros has warped from Default to Default.
+[23:10:34	]Hiros has warped from Default to Default.
+[23:15:23	]Hiros | Error 410 has connected.
+[23:16:16	]Hiros | Error 410 loaded the character 'Hiros'
+[23:16:21	]Hiros is fully healed.
+[23:17:23	]Hiros used command '/TeleporterSetWarpSound music/battle/a2_tunnel_flashlight.mp3'.
+[23:17:25	]Hiros used command '/TeleporterSetWarpSound music/battle/a2_tunnel_flashlight.mp3'.
+[23:17:26	]Hiros has warped from Default to Default.
+[23:17:29	]Hiros has warped from Default to Default.
+[23:17:39	]Hiros has warped from Default to Default.
+[23:17:58	]Hiros has warped from Default to Default.
+[23:18:01	]Hiros has warped from Default to Default.
+[23:18:13	]Hiros used command '/TeleporterSetWarpSound music/battle/battle1.ogg'.
+[23:18:13	]Hiros has warped from Default to Default.
+[23:18:16	]Hiros has warped from Default to Default.
+[23:18:29	]Hiros has warped from Default to Default.
+[23:19:30	]Hiros entered observer.
+[23:19:32	]Hiros exited observer at their location.
+[23:20:05	]Hiros used command '/Teleporters'.
+[23:20:33	]Hiros has warped from Default to Default.
+[23:20:38	]Hiros used command '/Teleporters'.
+[23:20:44	]Hiros used command '/Teleporters'.
+[23:20:58	]Hiros used command '/Teleporters'.
+[23:21:13	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[23:22:06	]Hiros entered observer.
+[23:22:27	]Hiros has warped from Default to Default.
+[23:22:41	]Hiros has warped from Default to Default.
+[23:23:29	]Hiros has fired a toolgun with the name: remover
+[23:23:30	]Hiros has fired a toolgun with the name: remover
+[23:23:32	]Hiros has fired a toolgun with the name: remover
+[23:23:33	]Hiros has fired a toolgun with the name: remover
+[23:23:38	]Hiros used command '/Teleporters'.
+[23:24:00	]Hiros has warped from Chair Teleporter to Death Pit.
+[23:24:03	]Hiros has warped from Death Pit to Chair Teleporter.
+[23:24:15	]Hiros exited observer at their location.
+[23:24:16	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[23:25:10	]Hiros entered observer.
+[23:25:12	]Hiros exited observer at their location.
+[23:25:12	]Hiros entered observer.
+[23:25:15	]Hiros exited observer at their location.
+[23:25:30	]Hiros entered observer.
+[23:25:40	]Hiros exited observer at their location.
+[23:28:21	]Hiros | Error 410 has connected.
+[23:29:13	]Hiros | Error 410 loaded the character 'Hiros'
+[23:29:18	]Hiros is fully healed.
+[23:29:26	]Hiros has taken 1 damage from worldspawn.
+[23:29:27	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[23:29:28	]Hiros is fully healed.
+[23:29:35	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[23:29:43	]Hiros entered observer.
+[23:29:49	]Hiros exited observer at their location.
+[23:29:49	]Hiros entered observer.
+[23:29:50	]Hiros exited observer at their location.
+[23:29:54	]Hiros entered observer.
+[23:29:56	]Hiros exited observer at their location.
+[23:29:56	]Hiros entered observer.
+[23:30:09	]Hiros exited observer at their location.
+[23:30:33	]Hiros used command '/TeleporterSetWarpSound music/battle/a2_train_action1b.mp3'.
+[23:30:34	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[23:30:37	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[23:31:54	]Hiros | Error 410 loaded the character 'Klim Stasiuk'
+[23:31:59	]Klim Stasiuk is fully healed.
+[23:32:05	]Klim Stasiuk ran 'Equip' on item 'FiveSeven' (#299961)
+[23:32:07	]Klim Stasiuk used command '/ToggleRaise'.
+[23:32:12	]Klim Stasiuk used command '/ToggleRaise'.
+[23:32:34	]Klim Stasiuk has given himself a bullets_pistol.
+[23:32:34	]Klim Stasiuk has gained a '9mm Pistol Bullets' #1650071.
+[23:32:43	]Klim Stasiuk has given himself a magazine_fiveseven_20rnd.
+[23:32:44	]Klim Stasiuk has gained a '20rnd FiveSeven-magazine' #1650072.
+[23:32:47	]Klim Stasiuk ran 'combine' on item '20rnd FiveSeven-magazine' (#1650072)
+[23:32:49	]Klim Stasiuk ran 'drop' on item '9mm Pistol Bullets' (#1650071)
+[23:32:49	]Klim Stasiuk has lost a '9mm Pistol Bullets' #1650071.
+[23:32:51	]Klim Stasiuk ran 'drop' on item '[CLASSIFIED] - Biotic Siphoning Pro.' (#367296)
+[23:32:51	]Klim Stasiuk has lost a '[CLASSIFIED] - Biotic Siphoning Pro.' #367296.
+[23:32:56	]Klim Stasiuk has lost a '20rnd FiveSeven-magazine' #1650072.
+[23:32:57	]Klim Stasiuk ran 'removeMag' on item 'FiveSeven' (#299961)
+[23:32:57	]Klim Stasiuk has gained a '20rnd FiveSeven-magazine' #1650072.
+[23:33:03	]Klim Stasiuk ran 'drop' on item 'FiveSeven' (#299961)
+[23:33:03	]Klim Stasiuk has lost a 'FiveSeven' #299961.
+[23:33:05	]Klim Stasiuk ran 'take' on item 'FiveSeven' (#299961)
+[23:33:05	]Klim Stasiuk has gained a 'FiveSeven' #299961.
+[23:33:06	]Klim Stasiuk ran 'clearChamber' on item 'FiveSeven' (#299961)
+[23:33:06	]Klim Stasiuk has gained a '9mm Pistol Bullets' #1650073.
+[23:33:09	]Klim Stasiuk ran 'Equip' on item 'FiveSeven' (#299961)
+[23:33:10	]Klim Stasiuk used command '/ToggleRaise'.
+[23:33:11	]Klim Stasiuk has lost a '20rnd FiveSeven-magazine' #1650072.
+[23:33:12	]Klim Stasiuk ran 'removeMag' on item 'FiveSeven' (#299961)
+[23:33:12	]Klim Stasiuk has gained a '20rnd FiveSeven-magazine' #1650072.
+[23:33:15	]Klim Stasiuk ran 'EquipUn' on item 'FiveSeven' (#299961)
+[23:33:16	]Klim Stasiuk ran 'clearChamber' on item 'FiveSeven' (#299961)
+[23:33:16	]Klim Stasiuk has gained a '9mm Pistol Bullets' #1650074.
+[23:33:21	]Klim Stasiuk has used a context menu option with the name: remove
+[23:33:22	]Klim Stasiuk has used a context menu option with the name: remove
+[23:33:28	]Klim Stasiuk ran 'Equip' on item 'FiveSeven' (#299961)
+[23:33:29	]Klim Stasiuk used command '/ToggleRaise'.
+[23:33:31	]Klim Stasiuk has lost a '20rnd FiveSeven-magazine' #1650072.
+[23:33:33	]Klim Stasiuk ran 'removeMag' on item 'FiveSeven' (#299961)
+[23:33:33	]Klim Stasiuk has gained a '20rnd FiveSeven-magazine' #1650072.
+[23:33:38	]Klim Stasiuk has lost a '20rnd FiveSeven-magazine' #1650072.
+[23:33:39	]Klim Stasiuk ran 'removeMag' on item 'FiveSeven' (#299961)
+[23:33:39	]Klim Stasiuk has gained a '20rnd FiveSeven-magazine' #1650072.
+[23:33:43	]Klim Stasiuk has lost a '20rnd FiveSeven-magazine' #1650072.
+[23:33:44	]Klim Stasiuk ran 'removeMag' on item 'FiveSeven' (#299961)
+[23:33:44	]Klim Stasiuk has gained a '20rnd FiveSeven-magazine' #1650072.
+[23:33:46	]Klim Stasiuk has lost a '20rnd FiveSeven-magazine' #1650072.
+[23:33:47	]Klim Stasiuk ran 'EquipUn' on item 'FiveSeven' (#299961)
+[23:33:47	]Klim Stasiuk has gained a '20rnd FiveSeven-magazine' #1650072.
+[23:33:49	]Klim Stasiuk ran 'Equip' on item 'FiveSeven' (#299961)
+[23:33:50	]Klim Stasiuk used command '/ToggleRaise'.
+[23:33:52	]Klim Stasiuk has lost a '20rnd FiveSeven-magazine' #1650072.
+[23:33:53	]Klim Stasiuk ran 'removeMag' on item 'FiveSeven' (#299961)
+[23:33:53	]Klim Stasiuk has gained a '20rnd FiveSeven-magazine' #1650072.
+[23:33:56	]Klim Stasiuk has lost a '20rnd FiveSeven-magazine' #1650072.
+[23:33:57	]Klim Stasiuk ran 'removeMag' on item 'FiveSeven' (#299961)
+[23:33:57	]Klim Stasiuk has gained a '20rnd FiveSeven-magazine' #1650072.
+[23:33:59	]Klim Stasiuk has lost a '20rnd FiveSeven-magazine' #1650072.
+[23:34:00	]Klim Stasiuk ran 'EquipUn' on item 'FiveSeven' (#299961)
+[23:34:00	]Klim Stasiuk has gained a '20rnd FiveSeven-magazine' #1650072.
+[23:34:02	]Klim Stasiuk ran 'Equip' on item 'FiveSeven' (#299961)
+[23:34:04	]Klim Stasiuk ran 'EquipUn' on item 'FiveSeven' (#299961)
+[23:34:05	]Klim Stasiuk ran 'clearChamber' on item 'FiveSeven' (#299961)
+[23:34:05	]Klim Stasiuk has gained a '9mm Pistol Bullets' #1650075.
+[23:34:07	]Klim Stasiuk ran 'drop' on item '9mm Pistol Bullets' (#1650075)
+[23:34:07	]Klim Stasiuk has lost a '9mm Pistol Bullets' #1650075.
+[23:34:09	]Klim Stasiuk has used a context menu option with the name: remove
+[23:34:13	]Klim Stasiuk ran 'Equip' on item 'FiveSeven' (#299961)
+[23:34:13	]Klim Stasiuk used command '/ToggleRaise'.
+[23:34:17	]Klim Stasiuk has lost a '20rnd FiveSeven-magazine' #1650072.
+[23:34:18	]Klim Stasiuk ran 'removeMag' on item 'FiveSeven' (#299961)
+[23:34:18	]Klim Stasiuk has gained a '20rnd FiveSeven-magazine' #1650072.
+[23:34:21	]Klim Stasiuk has lost a '20rnd FiveSeven-magazine' #1650072.
+[23:34:22	]Klim Stasiuk ran 'removeMag' on item 'FiveSeven' (#299961)
+[23:34:22	]Klim Stasiuk has gained a '20rnd FiveSeven-magazine' #1650072.
+[23:34:28	]Klim Stasiuk ran 'EquipUn' on item 'FiveSeven' (#299961)
+[23:34:29	]Klim Stasiuk ran 'Equip' on item 'FiveSeven' (#299961)
+[23:34:30	]Klim Stasiuk used command '/ToggleRaise'.
+[23:34:31	]Klim Stasiuk has lost a '20rnd FiveSeven-magazine' #1650072.
+[23:34:32	]Klim Stasiuk ran 'removeMag' on item 'FiveSeven' (#299961)
+[23:34:32	]Klim Stasiuk has gained a '20rnd FiveSeven-magazine' #1650072.
+[23:34:35	]Klim Stasiuk has lost a '20rnd FiveSeven-magazine' #1650072.
+[23:34:36	]Klim Stasiuk ran 'removeMag' on item 'FiveSeven' (#299961)
+[23:34:36	]Klim Stasiuk has gained a '20rnd FiveSeven-magazine' #1650072.
+[23:34:38	]Klim Stasiuk has lost a '20rnd FiveSeven-magazine' #1650072.
+[23:34:39	]Klim Stasiuk ran 'removeMag' on item 'FiveSeven' (#299961)
+[23:34:39	]Klim Stasiuk has gained a '20rnd FiveSeven-magazine' #1650072.
+[23:34:43	]Klim Stasiuk has lost a '20rnd FiveSeven-magazine' #1650072.
+[23:34:44	]Klim Stasiuk ran 'removeMag' on item 'FiveSeven' (#299961)
+[23:34:44	]Klim Stasiuk has gained a '20rnd FiveSeven-magazine' #1650072.
+[23:34:47	]Klim Stasiuk has lost a '20rnd FiveSeven-magazine' #1650072.
+[23:34:49	]Klim Stasiuk ran 'removeMag' on item 'FiveSeven' (#299961)
+[23:34:49	]Klim Stasiuk has gained a '20rnd FiveSeven-magazine' #1650072.
+[23:34:51	]Klim Stasiuk has lost a '20rnd FiveSeven-magazine' #1650072.
+[23:34:52	]Klim Stasiuk ran 'removeMag' on item 'FiveSeven' (#299961)
+[23:34:52	]Klim Stasiuk has gained a '20rnd FiveSeven-magazine' #1650072.
+[23:34:54	]Klim Stasiuk ran 'EquipUn' on item 'FiveSeven' (#299961)
+[23:34:55	]Klim Stasiuk ran 'clearChamber' on item 'FiveSeven' (#299961)
+[23:34:55	]Klim Stasiuk has gained a '9mm Pistol Bullets' #1650076.
+[23:34:58	]Klim Stasiuk ran 'split' on item '9mm Pistol Bullets' (#1650076)
+[23:34:58	]Klim Stasiuk has gained a '9mm Pistol Bullets' #1650077.
+[23:34:59	]Klim Stasiuk ran 'drop' on item '9mm Pistol Bullets' (#1650077)
+[23:34:59	]Klim Stasiuk has lost a '9mm Pistol Bullets' #1650077.
+[23:35:01	]Klim Stasiuk has used a context menu option with the name: remove
+[23:35:37	]Klim Stasiuk has given himself a m249.
+[23:35:55	]Klim Stasiuk has given himself a m249.
+[23:35:55	]Klim Stasiuk has gained a 'M249' #1650078.
+[23:35:56	]Klim Stasiuk ran 'Equip' on item 'M249' (#1650078)
+[23:36:04	]Klim Stasiuk has given himself a magazine_m249_150rnd.
+[23:36:04	]Klim Stasiuk has gained a '150rnd M249-magazine' #1650079.
+[23:36:08	]Klim Stasiuk used command '/ToggleRaise'.
+[23:36:19	]Klim Stasiuk has given himself a bullets_lmg.
+[23:36:19	]Klim Stasiuk has gained a 'Light Machinegun Bullets' #1650080.
+[23:36:22	]Klim Stasiuk has given himself a bullets_lmg.
+[23:36:22	]Klim Stasiuk has gained a 'Light Machinegun Bullets' #1650081.
+[23:36:24	]Klim Stasiuk ran 'combine' on item '150rnd M249-magazine' (#1650079)
+[23:36:25	]Klim Stasiuk ran 'combine' on item '150rnd M249-magazine' (#1650079)
+[23:36:27	]Klim Stasiuk ran 'drop' on item 'Light Machinegun Bullets' (#1650081)
+[23:36:27	]Klim Stasiuk has lost a 'Light Machinegun Bullets' #1650081.
+[23:36:28	]Klim Stasiuk has lost a '150rnd M249-magazine' #1650079.
+[23:36:30	]Klim Stasiuk ran 'removeMag' on item 'M249' (#1650078)
+[23:36:30	]Klim Stasiuk has gained a '150rnd M249-magazine' #1650079.
+[23:36:35	]Klim Stasiuk has lost a '150rnd M249-magazine' #1650079.
+[23:36:36	]Klim Stasiuk ran 'removeMag' on item 'M249' (#1650078)
+[23:36:36	]Klim Stasiuk has gained a '150rnd M249-magazine' #1650079.
+[23:36:43	]Klim Stasiuk destroyed a 'Light Machinegun Bullets' #1650081.
+[23:36:50	]Klim Stasiuk ran 'EquipUn' on item 'M249' (#1650078)
+[23:36:51	]Klim Stasiuk ran 'Equip' on item 'M249' (#1650078)
+[23:36:51	]Klim Stasiuk used command '/ToggleRaise'.
+[23:36:53	]Klim Stasiuk has lost a '150rnd M249-magazine' #1650079.
+[23:36:54	]Klim Stasiuk ran 'removeMag' on item 'M249' (#1650078)
+[23:36:54	]Klim Stasiuk has gained a '150rnd M249-magazine' #1650079.
+[23:37:20	]Klim Stasiuk has lost a '150rnd M249-magazine' #1650079.
+[23:37:21	]Klim Stasiuk ran 'removeMag' on item 'M249' (#1650078)
+[23:37:21	]Klim Stasiuk has gained a '150rnd M249-magazine' #1650079.
+[23:37:26	]Klim Stasiuk entered observer.
+[23:37:29	]Klim Stasiuk exited observer at their location.
+[23:37:32	]Klim Stasiuk has warped from Test Door 1, Distance to Test Door 2, Distance.
+[23:37:35	]Klim Stasiuk has warped from Test Door 2, Distance to Test Door 1, Distance.
+[23:37:39	]Klim Stasiuk has warped from Test Door 1, Distance to Test Door 2, Distance.
+[23:37:43	]Klim Stasiuk has warped from Test Door 2, Distance to Test Door 1, Distance.
+[23:37:47	]Klim Stasiuk has warped from Test Door 1, Distance to Test Door 2, Distance.
+[23:37:49	]Klim Stasiuk has warped from Test Door 2, Distance to Test Door 1, Distance.
+[23:37:58	]Klim Stasiuk has warped from Test Door 1, Distance to Test Door 2, Distance.
+[23:38:01	]Klim Stasiuk has warped from Test Door 2, Distance to Test Door 1, Distance.
+[23:38:09	]Klim Stasiuk has warped from Test Door 1, Distance to Test Door 2, Distance.
+[23:38:14	]Klim Stasiuk has warped from Test Door 2, Distance to Test Door 1, Distance.
+[23:38:25	]Klim Stasiuk used command '/Teleporters'.
+[23:38:32	]Klim Stasiuk has warped from Chair Teleporter to Death Pit.
+[23:38:33	]Klim Stasiuk was knocked unconscious and is bleeding out.
+[23:38:34	]Klim Stasiuk was killed while bleeding out.
+[23:38:34	]trigger_hurt has killed Klim Stasiuk with trigger_hurt.
+[23:38:36	]Klim Stasiuk entered observer.
+[23:38:52	]Klim Stasiuk has used a context menu option with the name: remove
+[23:39:05	]Klim Stasiuk has spawned a 'Entity [381][ix_teleporter]'.
+[23:39:23	]Klim Stasiuk has used a context menu option with the name: remove
+[23:39:26	]Klim Stasiuk has spawned a 'Entity [380][ix_teleporter]'.
+[23:39:38	]Klim Stasiuk exited observer at their location.
+[23:39:38	]Klim Stasiuk entered observer.
+[23:39:46	]Klim Stasiuk exited observer at their location.
+[23:39:46	]Klim Stasiuk entered observer.
+[23:39:47	]Klim Stasiuk exited observer at their location.
+[23:39:53	]Klim Stasiuk has warped from Default to Default.
+[23:39:56	]Klim Stasiuk entered observer.
+[23:39:58	]Klim Stasiuk exited observer at their location.
+[23:39:58	]Klim Stasiuk entered observer.
+[23:40:04	]Klim Stasiuk exited observer at their location.
+[23:40:04	]Klim Stasiuk entered observer.
+[23:40:08	]Klim Stasiuk exited observer at their location.
+[23:40:08	]Klim Stasiuk entered observer.
+[23:40:09	]Klim Stasiuk exited observer at their location.
+[23:40:09	]Klim Stasiuk entered observer.
+[23:40:10	]Klim Stasiuk has warped from Default to Default.
+[23:40:25	]Klim Stasiuk exited observer at their location.
+[23:40:37	]Klim Stasiuk entered observer.
+[23:40:38	]Klim Stasiuk has warped from Default to Default.
+[23:40:44	]Klim Stasiuk exited observer at their location.
+[23:40:45	]Klim Stasiuk entered observer.
+[23:40:45	]Klim Stasiuk has spawned a 'Entity [435][ix_teleporter]'.
+[23:40:47	]Klim Stasiuk has spawned a 'Entity [436][ix_teleporter]'.
+[23:40:49	]Klim Stasiuk exited observer at their location.
+[23:40:49	]Klim Stasiuk entered observer.
+[23:41:03	]Klim Stasiuk exited observer at their location.
+[23:41:03	]Klim Stasiuk entered observer.
+[23:41:08	]Klim Stasiuk exited observer at their location.
+[23:41:09	]Klim Stasiuk entered observer.
+[23:41:09	]Klim Stasiuk has warped from Default to Default.
+[23:41:17	]Klim Stasiuk used command '/Teleporters'.
+[23:41:42	]Klim Stasiuk exited observer at their location.
+[23:41:42	]Klim Stasiuk entered observer.
+[23:41:43	]Klim Stasiuk exited observer at their location.
+[23:41:43	]Klim Stasiuk entered observer.
+[23:41:43	]Klim Stasiuk exited observer at their location.
+[23:41:43	]Klim Stasiuk entered observer.
+[23:41:43	]Klim Stasiuk exited observer at their location.
+[23:41:47	]Klim Stasiuk ran SAM command 'respawn' with arguments: '^'
+[23:41:47	]Klim Stasiuk entered observer.
+[23:41:52	]Klim Stasiuk exited observer at their location.
+[23:41:53	]Klim Stasiuk entered observer.
+[23:41:55	]Klim Stasiuk exited observer at their location.
+[23:41:59	]Klim Stasiuk entered observer.
+[23:42:09	]Klim Stasiuk exited observer at their location.
+[23:42:11	]Klim Stasiuk entered observer.
+[23:42:42	]Klim Stasiuk exited observer at their location.
+[23:42:42	]Klim Stasiuk entered observer.
+[23:42:45	]Klim Stasiuk exited observer at their location.
+[23:42:47	]Klim Stasiuk entered observer.
+[23:42:52	]Klim Stasiuk exited observer at their location.
+[23:42:53	]Klim Stasiuk entered observer.
+[23:42:54	]Klim Stasiuk exited observer at their location.
+[23:45:29	]Hiros | Error 410 has connected.
+[23:46:08	]Hiros | Error 410 loaded the character 'Hiros'
+[23:46:13	]Hiros is fully healed.
+[23:46:16	]Hiros entered observer.
+[23:46:28	]Hiros has warped from Default to Default.
+[23:46:33	]Hiros exited observer at their location.
+[23:46:33	]Hiros entered observer.
+[23:46:35	]Hiros exited observer at their location.
+[23:46:35	]Hiros entered observer.
+[23:47:03	]Hiros exited observer at their location.
+[23:47:04	]Hiros entered observer.
+[23:47:07	]Hiros exited observer at their location.
+[23:47:09	]Hiros has warped from Default to Default.
+[23:47:12	]Hiros entered observer.
+[23:47:15	]Hiros exited observer at their location.
+[23:47:15	]Hiros entered observer.
+[23:47:19	]Hiros exited observer at their location.
+[23:47:19	]Hiros entered observer.
+[23:47:23	]Hiros used command '/Teleporters'.
+[23:47:39	]Hiros used command '/Teleporters'.
+[23:47:53	]Hiros exited observer at their location.
+[23:47:55	]Hiros entered observer.
+[23:48:00	]Hiros exited observer at their location.
+[23:51:00	]Hiros | Error 410 has connected.
+[23:51:43	]Hiros | Error 410 loaded the character 'Hiros'
+[23:51:48	]Hiros is fully healed.
+[23:51:50	]Hiros entered observer.
+[23:52:12	]Hiros exited observer at their location.
+[23:52:14	]Hiros entered observer.
+[23:52:16	]Hiros exited observer at their location.
+[23:55:17	]Hiros | Error 410 has connected.
+[23:55:55	]Hiros | Error 410 loaded the character 'Hiros'
+[23:56:00	]Hiros is fully healed.
+[23:56:01	]Hiros entered observer.
+[23:56:13	]Hiros has warped from Default to Default.
+[23:56:18	]Hiros exited observer at their location.
+[23:56:18	]Hiros entered observer.
+[23:56:25	]Hiros exited observer at their location.
+[23:56:26	]Hiros entered observer.
+[23:56:29	]Hiros exited observer at their location.
+[23:56:32	]Hiros entered observer.
+[23:56:40	]Hiros exited observer at their location.
+[23:56:40	]Hiros entered observer.
+[23:56:41	]Hiros exited observer at their location.
+[23:56:55	]Hiros entered observer.
+[23:56:57	]Hiros exited observer at their location.
+[23:56:59	]Hiros entered observer.
+[23:57:00	]Hiros exited observer at their location.
+[23:57:00	]Hiros entered observer.
+[23:57:01	]Hiros exited observer at their location.
+[23:57:01	]Hiros entered observer.
+[23:57:02	]Hiros exited observer at their location.
+[23:57:05	]Hiros has taken 1 damage from worldspawn.
+[23:57:10	]Hiros is fully healed.
+[23:57:17	]Hiros entered observer.
+[23:58:44	]Hiros exited observer at their location.
+[23:58:45	]Hiros has warped from Default to Default.
+[23:58:56	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[23:59:02	]Hiros entered observer.
+[23:59:02	]Hiros exited observer at their location.
+[23:59:03	]Hiros entered observer.
+[23:59:03	]Hiros exited observer at their location.
+[23:59:26	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[23:59:30	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[23:59:38	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[23:59:43	]Hiros entered observer.
+[23:59:46	]Hiros exited observer at their location.
+[23:59:56	]Hiros entered observer.
+[23:59:57	]Hiros exited observer at their location.

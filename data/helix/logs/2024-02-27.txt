@@ -1,0 +1,393 @@
+[12:20:38	]Mango has connected.
+[12:21:55	]Mango (STEAM_0:0:544539350) has disconnected.
+[12:30:03	]Mango has connected.
+[12:31:55	]Mango loaded the character 'Synthesis'
+[12:32:00	]Synthesis is fully healed.
+[12:32:08	]Bot01 has connected.
+[12:32:08	]Bot01 loaded the character 'Bot01'
+[12:32:17	]Bot02 has connected.
+[12:32:17	]Bot02 loaded the character 'Bot02'
+[12:32:22	]Bot03 has connected.
+[12:32:22	]Bot03 loaded the character 'Bot03'
+[12:32:34	]Synthesis ran SAM command 'respawn' with arguments: 'bot01'
+[12:32:42	]Synthesis used command '/PlyWhitelist bot01 CP'.
+[12:32:49	]Synthesis used command '/PlyTransfer bot01 CP'.
+[12:32:54	]Synthesis used command '/PlyTransfer bot01 Civil Protection'.
+[12:33:04	]Synthesis ran SAM command 'respawn' with arguments: 'yello'
+[12:33:09	]Synthesis entered observer.
+[12:33:18	]Synthesis exited observer.
+[12:33:20	]Synthesis entered observer.
+[12:33:26	]Synthesis ran SAM command 'kick' with arguments: 'bot02'
+[12:33:26	]Bot02 (BOT) has disconnected.
+[12:33:28	]Synthesis ran SAM command 'kick' with arguments: 'bot03'
+[12:33:28	]Bot03 (BOT) has disconnected.
+[12:33:35	]Synthesis exited observer at their location.
+[12:33:37	]Bot04 has connected.
+[12:33:37	]Bot04 loaded the character 'Bot04'
+[12:33:38	]Bot05 has connected.
+[12:33:38	]Bot05 loaded the character 'Bot05'
+[12:33:38	]Bot06 has connected.
+[12:33:38	]Bot06 loaded the character 'Bot06'
+[12:34:05	]Synthesis ran SAM command 'kick' with arguments: 'bot04'
+[12:34:05	]Bot04 (BOT) has disconnected.
+[12:34:06	]Synthesis ran SAM command 'kick' with arguments: 'bot05'
+[12:34:06	]Bot05 (BOT) has disconnected.
+[12:34:07	]Synthesis ran SAM command 'kick' with arguments: 'bot06'
+[12:34:07	]Bot06 (BOT) has disconnected.
+[12:34:14	]Bot07 has connected.
+[12:34:14	]Bot07 loaded the character 'Bot07'
+[12:34:48	]Synthesis has spawned a 'NPC [6373][npc_citizen]'.
+[12:35:19	]Bot08 has connected.
+[12:35:19	]Bot08 loaded the character 'Bot08'
+[12:38:19	]Synthesis entered observer.
+[12:38:27	]Synthesis has spawned a 'Entity [6380][ix_teleporter]'.
+[12:45:26	]Mango has connected.
+[12:47:18	]Mango loaded the character 'Synthesis'
+[12:47:23	]Synthesis is fully healed.
+[12:47:31	]Synthesis entered observer.
+[12:47:36	]Synthesis exited observer at their location.
+[12:48:11	]Synthesis used command '/AddVortalEnergy SYNT 2020'.
+[12:48:33	]Bot01 has connected.
+[12:48:33	]Bot01 loaded the character 'Bot01'
+[12:50:48	]Synthesis has spawned a 'Entity [6374][ix_teleporter]'.
+[12:50:49	]Synthesis entered observer.
+[12:50:59	]Synthesis exited observer at their location.
+[12:51:05	]Synthesis has used a context menu option with the name: remove
+[12:51:07	]Synthesis has spawned a 'Entity [6325][ix_teleporter]'.
+[12:51:08	]Synthesis entered observer.
+[12:51:10	]Synthesis exited observer at their location.
+[12:51:16	]Synthesis entered observer.
+[12:51:20	]Synthesis ran SAM command 'kick' with arguments: 'bot'
+[12:51:20	]Bot01 (BOT) has disconnected.
+[12:54:25	]Synthesis exited observer at their location.
+[12:54:28	]Synthesis entered observer.
+[12:54:29	]Synthesis exited observer at their location.
+[12:56:03	]Hiros | Error 410 has connected.
+[12:56:19	]Synthesis entered observer.
+[12:56:25	]Synthesis exited observer at their location.
+[12:57:31	]Synthesis entered observer.
+[12:57:37	]Synthesis exited observer at their location.
+[12:58:09	]Synthesis entered observer.
+[12:58:14	]Synthesis exited observer at their location.
+[12:58:19	]Synthesis entered observer.
+[12:58:21	]Synthesis exited observer at their location.
+[12:58:23	]Synthesis has taken 14 damage from worldspawn.
+[12:58:25	]Synthesis entered observer.
+[12:58:26	]Synthesis exited observer at their location.
+[12:58:32	]Synthesis has taken 21 damage from worldspawn.
+[12:58:41	]Synthesis has gained level 18 in the Speed skill.
+[12:59:12	]Hiros | Error 410 loaded the character 'Ipati Yakovlev'
+[12:59:25	]Ipati Yakovlev entered observer.
+[12:59:36	]Ipati Yakovlev exited observer at their location.
+[13:00:05	]Synthesis has damaged Ipati Yakovlev, dealing 36.5009 with ix_hands
+[13:00:06	]Synthesis has damaged Ipati Yakovlev, dealing 36.5012 with ix_hands
+[13:00:15	]Synthesis has damaged Ipati Yakovlev, dealing 36.5015 with ix_hands
+[13:01:02	]Synthesis has damaged Ipati Yakovlev, dealing 36.5018 with ix_hands
+[13:01:17	][VORT] Synthesis has damaged Ipati Yakovlev dealing 40 with vortslam
+[13:01:31	][VORT] Synthesis has damaged Ipati Yakovlev dealing 40 with vortslam
+[13:01:52	]Synthesis has gained level 2 in the Vortessence skill.
+[13:02:01	]Ipati Yakovlev used command '/ToggleRaise'.
+[13:02:30	]Ipati Yakovlev used command '/PlyWhitelist ^ vort'.
+[13:02:41	]Hiros | Error 410 (STEAM_0:1:54068821) deleted character 'Vending Machine'
+[13:02:58	]Hiros | Error 410 created the character 'Golongo'
+[13:02:58	]Hiros | Error 410 loaded the character 'Golongo'
+[13:03:06	]Golongo ran SAM command 'goto' with arguments: 'syn'
+[13:03:11	]Golongo used command '/ToggleRaise'.
+[13:04:00	]Golongo used command '/SetVortalEnergy ^ 6000000000'.
+[13:04:04	]Golongo has spawned a 'NPC [6379][npc_monk]'.
+[13:04:12	]Golongo has spawned a 'NPC [6379][npc_crow]'.
+[13:04:19	]Golongo has spawned a 'NPC [6379][npc_pigeon]'.
+[13:04:25	]Golongo has spawned a 'NPC [6379][npc_seagull]'.
+[13:04:35	]Golongo has spawned a 'NPC [6379][npc_citizen]'.
+[13:04:55	]Golongo used command '/PrintStaffList'.
+[13:04:59	]Synthesis set additionalVortalEnergyDrainPerPointOfArmor to '36'.
+[13:05:19	]Golongo has spawned a 'NPC [6379][npc_citizen]'.
+[13:05:23	]Golongo has spawned a 'NPC [6379][npc_citizen]'.
+[13:05:43	]Golongo used command '/SetVortalEnergy ^ 6000000000'.
+[13:06:02	]Golongo has spawned a 'NPC [6379][npc_vj_assassin_synth_z]'.
+[13:06:06	]Golongo has spawned a 'NPC [6379][npc_vj_mini_strider_synth_z]'.
+[13:06:08	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:08	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:08	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:08	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:08	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:09	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:09	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:09	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:09	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:09	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:09	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:09	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:09	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:10	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:10	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:10	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:10	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:12	]Console ran SAM command 'setrank' with arguments: 'Golongo' 'developer'
+[13:06:12	]Golongo has taken 20 damage from Mini Strider Synth.
+[13:06:13	]Golongo has taken 1 damage from Mini Strider Synth.
+[13:06:13	]Golongo has taken 1 damage from Mini Strider Synth.
+[13:06:13	]Golongo has taken 1 damage from Mini Strider Synth.
+[13:06:13	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:13	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:14	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:14	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:14	]Golongo has taken 1 damage from Mini Strider Synth.
+[13:06:14	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:14	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:14	]Golongo has taken 1 damage from Mini Strider Synth.
+[13:06:14	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:14	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:14	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:14	]Golongo has taken 1 damage from Mini Strider Synth.
+[13:06:14	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:15	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:15	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:15	]Golongo has taken 1 damage from Mini Strider Synth.
+[13:06:15	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:15	]Golongo has taken 1 damage from Mini Strider Synth.
+[13:06:15	]Golongo has taken 1 damage from Mini Strider Synth.
+[13:06:16	]Golongo has taken 1 damage from Mini Strider Synth.
+[13:06:18	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:18	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:19	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:19	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:19	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:19	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:19	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:19	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:19	]Golongo has taken 6 damage from Mini Strider Synth.
+[13:06:19	]Golongo was knocked unconscious and is bleeding out.
+[13:06:20	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:20	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:20	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:20	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:23	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:23	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:24	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:24	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:24	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:24	]Golongo ran SAM command 'hp' with arguments: '^' '65000'
+[13:06:24	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:24	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:24	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:24	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:24	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:25	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:25	]Synthesis has taken 6 damage from Mini Strider Synth.
+[13:06:28	]Golongo is no longer unconscious from critical wounds.
+[13:06:28	]Golongo is fully healed.
+[13:06:28	]Golongo used command '/CharStopBleedout ^'.
+[13:06:38	]Golongo used command '/SetVortalEnergy ^ 500000'.
+[13:06:48	]Golongo has spawned a 'Entity [6404][gmod_sent_vehicle_fphysics_base]'.
+[13:06:48	]Golongo entered observer.
+[13:06:50	]Golongo has spawned a 'Entity [6404][gmod_sent_vehicle_fphysics_base]'.
+[13:06:51	]Golongo exited observer at their location.
+[13:06:57	]Golongo has used a context menu option with the name: rb655_vehicle_enter
+[13:07:04	]Hiros | Error 410 loaded the character 'Ipati Yakovlev'
+[13:07:11	]Ipati Yakovlev entered observer.
+[13:07:12	]Ipati Yakovlev exited observer at their location.
+[13:07:16	]Hiros | Error 410 has unloaded their "Ipati Yakovlev" character.
+[13:07:22	]Hiros | Error 410 loaded the character 'C24:RL.HERO-13'
+[13:07:27	]C24:RL.HERO-13 is fully healed.
+[13:07:28	]C24:RL.HERO-13 entered observer.
+[13:07:35	]C24:RL.HERO-13 exited observer at their location.
+[13:07:35	]C24:RL.HERO-13 entered observer.
+[13:07:36	]C24:RL.HERO-13 exited observer at their location.
+[13:07:38	]C24:RL.HERO-13 entered observer.
+[13:07:38	]C24:RL.HERO-13 has spawned a 'Entity [6379][gmod_sent_vehicle_fphysics_base]'.
+[13:07:39	]C24:RL.HERO-13 exited observer at their location.
+[13:07:44	]C24:RL.HERO-13 has used a context menu option with the name: rb655_vehicle_enter
+[13:07:45	]Synthesis has used a context menu option with the name: rb655_vehicle_enter
+[13:07:49	]C24:RL.HERO-13 has spawned a 'Entity [6379][gmod_sent_vehicle_fphysics_base]'.
+[13:07:52	]C24:RL.HERO-13 has spawned a 'Entity [6416][gmod_sent_vehicle_fphysics_base]'.
+[13:07:54	]C24:RL.HERO-13 has used a context menu option with the name: rb655_vehicle_enter
+[13:09:36	]Hiros | Error 410 loaded the character 'Golongo'
+[13:10:45	]Golongo has disabled the weaponbalance plugin for next restart.
+[13:10:52	]Golongo ran SAM command 'maprestart' with arguments: ''
+[13:11:23	]The Medium File Cabinet container (#101263) was set to CLEANUP.
+[13:11:23	]The Large Metal Cabinet container (#101291) was set to CLEANUP.
+[13:11:23	]The Large Refrigerator container (#101292) was set to CLEANUP.
+[13:11:23	]The Worker Gear container (#101563) was set to CLEANUP.
+[13:11:29	]The Infestation Control container (#101821) was set to CLEANUP.
+[13:11:29	]The Management Storage container (#102002) was set to CLEANUP.
+[13:11:29	]The Medium File Cabinet container (#102301) was inactive and has been soft-removed.
+[13:11:29	]The Large Crate container (#102548) was set to CLEANUP.
+[13:11:29	]The Large Metal Cabinet container (#103778) was set to CLEANUP.
+[13:11:29	]The File Cabinet container (#103959) was inactive and has been soft-removed.
+[13:11:29	]The Storage Hatch container (#104777) was inactive and has been soft-removed.
+[13:11:29	]The Large Crate container (#105227) was set to CLEANUP.
+[13:11:29	]The Large Crate container (#105363) was set to CLEANUP.
+[13:11:29	]The BMD Container #6 (IC Knowledge Required) container (#105449) was set to CLEANUP.
+[13:11:29	]The File Cabinet container (#106147) was set to CLEANUP.
+[13:11:29	]The File Cabinet container (#106194) was inactive and has been soft-removed.
+[13:11:29	]The File Cabinet container (#107343) was inactive and has been soft-removed.
+[13:11:29	]The File Cabinet container (#107344) was inactive and has been soft-removed.
+[13:11:29	]The File Cabinet container (#107345) was inactive and has been soft-removed.
+[13:11:29	]The File Cabinet container (#107346) was inactive and has been soft-removed.
+[13:11:29	]The Safe container (#108033) was inactive and has been soft-removed.
+[13:11:29	]The Large Metal Cabinet container (#108564) was set to CLEANUP.
+[13:11:29	]The File Cabinet container (#108922) was inactive and has been soft-removed.
+[13:11:29	]The Cargo Crate container (#109468) was set to CLEANUP.
+[13:11:29	]The Cargo Crate container (#109469) was set to CLEANUP.
+[13:11:29	]The Medium File Cabinet container (#109560) was set to CLEANUP.
+[13:11:29	]The Safe container (#110006) was inactive and has been soft-removed.
+[13:11:29	]The File Cabinet container (#110268) was inactive and has been soft-removed.
+[13:11:29	]The File Cabinet container (#110510) was inactive and has been soft-removed.
+[13:11:29	]The Hidden Container. (IC knowledge required) container (#110913) was inactive and has been soft-removed.
+[13:11:29	]The Hidden Container. (IC knowledge required) container (#110914) was inactive and has been soft-removed.
+[13:11:29	]The Medium File Cabinet container (#112150) was set to CLEANUP.
+[13:11:29	]The File Cabinet container (#112257) was inactive and has been soft-removed.
+[13:11:29	]The Medium File Cabinet container (#112410) was set to CLEANUP.
+[13:11:29	]The λ Storage container (#112488) was set to CLEANUP.
+[13:11:29	]The "F" container (#112628) was inactive and has been soft-removed.
+[13:11:29	]The WD - #3 container (#112665) was set to CLEANUP.
+[13:11:29	]The Medium File Cabinet container (#112778) was inactive and has been soft-removed.
+[13:11:29	]The Food Storage Chest container (#113036) was inactive and has been soft-removed.
+[13:11:29	]The λ Food container (#113237) was set to CLEANUP.
+[13:11:29	]The Medium File Cabinet container (#113291) was inactive and has been soft-removed.
+[13:11:29	]The File Cabinet container (#113731) was inactive and has been soft-removed.
+[13:11:29	]The File Cabinet container (#113732) was inactive and has been soft-removed.
+[13:11:29	]The Medium File Cabinet container (#113750) was inactive and has been soft-removed.
+[13:11:29	]The Mail container (#113763) was inactive and has been soft-removed.
+[13:11:30	]The File Cabinet container (#113999) was inactive and has been soft-removed.
+[13:11:30	]The Medium File Cabinet container (#114098) was set to CLEANUP.
+[13:11:30	]The File Cabinet container (#114232) was inactive and has been soft-removed.
+[13:11:30	]The File Cabinet container (#114337) was inactive and has been soft-removed.
+[13:11:31	]The File Cabinet container (#114427) was inactive and has been soft-removed.
+[13:11:31	]The File Cabinet container (#114509) was inactive and has been soft-removed.
+[13:11:31	]The Medium File Cabinet container (#114539) was inactive and has been soft-removed.
+[13:11:31	]The Medium File Cabinet container (#114568) was inactive and has been soft-removed.
+[13:11:31	]The File Cabinet container (#114579) was inactive and has been soft-removed.
+[13:11:31	]The File Cabinet container (#114580) was inactive and has been soft-removed.
+[13:11:31	]The File Cabinet container (#114670) was inactive and has been soft-removed.
+[13:11:31	]The Ga-Tahh'Chackt's crate of wonders container (#114765) was inactive and has been soft-removed.
+[13:11:31	]The Safe container (#114879) was inactive and has been soft-removed.
+[13:11:32	]The Medium File Cabinet container (#114962) was inactive and has been soft-removed.
+[13:11:32	]The Medium File Cabinet container (#114966) was inactive and has been soft-removed.
+[13:11:32	]The File Cabinet container (#115021) was inactive and has been soft-removed.
+[13:11:32	]The Crate container (#115137) was set to CLEANUP.
+[13:11:32	]The Large Metal Cabinet container (#115261) was set to CLEANUP.
+[13:11:32	]The Medium File Cabinet container (#115262) was inactive and has been soft-removed.
+[13:11:32	]The Cargo Crate container (#109468) was set to CLEANUP.
+[13:11:32	]The File Cabinet container (#115491) was inactive and has been soft-removed.
+[13:11:32	]The File Cabinet container (#115500) was inactive and has been soft-removed.
+[13:11:32	]The File Cabinet container (#115724) was inactive and has been soft-removed.
+[13:11:33	]The "C" container (#115867) was inactive and has been soft-removed.
+[13:11:33	]The "C" container (#115868) was inactive and has been soft-removed.
+[13:11:33	]The A vent in the wall. container (#116108) was set to CLEANUP.
+[13:11:33	]The Crate container (#116197) was inactive and has been soft-removed.
+[13:11:33	]The S container (#116309) was inactive and has been soft-removed.
+[13:11:33	]The "C" container (#116423) was inactive and has been soft-removed.
+[13:11:33	]The File Cabinet container (#116468) was inactive and has been soft-removed.
+[13:11:33	]The Medium File Cabinet container (#116673) was inactive and has been soft-removed.
+[13:11:34	]The Dumpster container (#116959) was inactive and has been soft-removed.
+[13:11:34	]The Large Refrigerator container (#116967) was set to CLEANUP.
+[13:11:36	]The Materials container (#117147) was set to CLEANUP.
+[13:11:37	]The Infestation Control Chemicals Storage container (#117204) was set to CLEANUP.
+[13:11:38	]The File Cabinet container (#117319) was set to CLEANUP.
+[13:11:39	]The Contraband & CHARITY container (#118589) was set to CLEANUP.
+[13:11:40	]The Ingredient Storage container (#119147) was inactive and has been soft-removed.
+[13:11:40	]The Drinks Fridge container (#119148) was inactive and has been soft-removed.
+[13:11:40	]The Hidden Stash (IC KNOWLEDGE REQUIRED) container (#119295) was inactive and has been soft-removed.
+[13:11:41	]The Hidden Stash (IC KNOWLEDGE REQUIRED) container (#119296) was inactive and has been soft-removed.
+[13:11:41	]The Large Refrigerator container (#119683) was set to CLEANUP.
+[13:11:41	]The Large Metal Cabinet container (#119691) was set to CLEANUP.
+[13:11:42	]The Large Metal Cabinet container (#119927) was set to CLEANUP.
+[13:11:42	]The Large Crate container (#120005) was set to CLEANUP.
+[13:11:43	]The Medium File Cabinet container (#120242) was inactive and has been soft-removed.
+[13:13:49	]Mango has connected.
+[13:15:49	]Mango (STEAM_0:0:544539350) has disconnected.
+[13:16:44	]Hiros | Error 410 has connected.
+[16:11:17	]Gutsy has connected.
+[16:12:25	]Gutsy loaded the character 'Callum Curose'
+[16:12:46	]Callum Curose has given himself a res_ppsh.
+[16:12:46	]Callum Curose has gained a 'PPSH-41' #2689517.
+[16:12:51	]Callum Curose ran 'drop' on item 'MP7A1' (#2689398)
+[16:12:51	]Callum Curose has lost a 'MP7A1' #2689398.
+[16:12:52	]Callum Curose ran 'drop' on item 'Makeshift P90' (#2689412)
+[16:12:52	]Callum Curose has lost a 'Makeshift P90' #2689412.
+[16:12:53	]Callum Curose ran 'drop' on item 'PPSH-41' (#2689411)
+[16:12:53	]Callum Curose has lost a 'PPSH-41' #2689411.
+[16:12:54	]Callum Curose ran 'EquipUn' on item 'UMP-45' (#2689410)
+[16:12:56	]Callum Curose ran 'drop' on item 'UMP-45' (#2689410)
+[16:12:56	]Callum Curose has lost a 'UMP-45' #2689410.
+[16:12:57	]Callum Curose ran 'drop' on item 'PPSH-41' (#2689517)
+[16:12:57	]Callum Curose has lost a 'PPSH-41' #2689517.
+[16:13:01	]Callum Curose has fired a toolgun with the name: remover
+[16:13:02	]Callum Curose has fired a toolgun with the name: remover
+[16:13:02	]Callum Curose has fired a toolgun with the name: remover
+[16:13:02	]Callum Curose has fired a toolgun with the name: remover
+[16:13:02	]Callum Curose has fired a toolgun with the name: remover
+[16:13:02	]Callum Curose has fired a toolgun with the name: remover
+[16:13:02	]Callum Curose has fired a toolgun with the name: remover
+[16:13:03	]Callum Curose has fired a toolgun with the name: remover
+[16:13:03	]Callum Curose has fired a toolgun with the name: remover
+[16:13:03	]Callum Curose has fired a toolgun with the name: remover
+[16:13:03	]Callum Curose has fired a toolgun with the name: remover
+[16:13:06	]Callum Curose has given himself a res_ppsh.
+[16:13:06	]Callum Curose has gained a 'PPSH-41' #2689518.
+[16:13:08	]Callum Curose ran 'Equip' on item 'PPSH-41' (#2689518)
+[16:13:09	]Callum Curose used command '/ToggleRaise'.
+[16:13:46	]Callum Curose has given himself a magazine_ppsh.
+[16:13:46	]Callum Curose has gained a '35rnd PPSH Magazine' #2689519.
+[16:13:59	]Callum Curose has given himself a bullets_smg1.
+[16:13:59	]Callum Curose has gained a 'Sub-machinegun Bullets' #2689520.
+[16:14:00	]Callum Curose has given himself a bullets_smg1.
+[16:14:00	]Callum Curose has gained a 'Sub-machinegun Bullets' #2689521.
+[16:14:01	]Callum Curose has given himself a bullets_smg1.
+[16:14:01	]Callum Curose has gained a 'Sub-machinegun Bullets' #2689522.
+[16:14:03	]Callum Curose ran 'combine' on item '35rnd PPSH Magazine' (#2689519)
+[16:14:04	]Callum Curose ran 'combine' on item '35rnd PPSH Magazine' (#2689519)
+[16:14:07	]Callum Curose has lost a '35rnd PPSH Magazine' #2689519.
+[16:14:20	]Gutsy (STEAM_0:1:18485849) has disconnected.
+[22:08:48	]Loxy has connected.
+[22:10:46	]Loxy created the character 'Jhiadaw Adawas'
+[22:10:46	]Jhiadaw Adawas has gained a 'Suitcase' #2689523.
+[22:10:46	]Jhiadaw Adawas has gained a 'Flashlight' #2689524.
+[22:10:46	]Jhiadaw Adawas has gained a 'Light Grey Armband' #2689525.
+[22:10:46	]Jhiadaw Adawas has gained a '#18208's Identity Card' #2689526.
+[22:10:47	]Loxy loaded the character 'Jhiadaw Adawas'
+[22:12:39	]The Gizmos Cash Register container (#101561) was set to CLEANUP.
+[22:12:39	]The Large Metal Cabinet container (#101564) was inactive and has been soft-removed.
+[22:12:39	]The Large Metal Cabinet container (#101656) was set to CLEANUP.
+[22:12:39	]The Medium File Cabinet container (#101658) was inactive and has been soft-removed.
+[22:12:39	]The Medium File Cabinet container (#101661) was inactive and has been soft-removed.
+[22:12:39	]The Safe container (#101662) was inactive and has been soft-removed.
+[22:12:45	]The Safe container (#101663) was inactive and has been soft-removed.
+[22:12:45	]The File Cabinet container (#107146) was inactive and has been soft-removed.
+[22:12:45	]The File Cabinet container (#110084) was inactive and has been soft-removed.
+[22:12:46	]The Medium File Cabinet container (#116195) was inactive and has been soft-removed.
+[22:12:50	]The Refrigerator container (#117191) was inactive and has been soft-removed.
+[22:12:52	]The Medium File Cabinet container (#118310) was inactive and has been soft-removed.
+[22:15:30	]Loxy has connected.
+[22:16:17	]Loxy loaded the character 'Jhiadaw Adawas'
+[22:16:51	]Console ran SAM command 'setrank' with arguments: 'Jhiadaw' 'superadmin' '0'
+[22:18:18	]Console ran SAM command 'setrank' with arguments: 'Jhiadaw' 'superadmin' '0'
+[22:22:47	]Console ran SAM command 'setrank' with arguments: 'Jhiadaw' 'superadmin' '0'
+[22:24:08	]Console ran SAM command 'setrank' with arguments: 'Jhiadaw' 'superadmin' '0'
+[22:25:38	]Console ran SAM command 'setrank' with arguments: 'Jhiadaw' 'superadmin' '0'
+[22:26:23	]Jhiadaw Adawas ran 'Equip' on item 'Light Grey Armband' (#2689525)
+[22:26:25	]Jhiadaw Adawas ran 'drop' on item 'Flashlight' (#2689524)
+[22:26:25	]Jhiadaw Adawas has lost a 'Flashlight' #2689524.
+[22:26:32	]Jhiadaw Adawas ran 'take' on item 'Flashlight' (#2689524)
+[22:26:32	]Jhiadaw Adawas has gained a 'Flashlight' #2689524.
+[22:27:39	]Console ran SAM command 'setrank' with arguments: 'Jhiadaw' 'superadmin' '0'
+[22:36:14	]Jhiadaw Adawas opened the 'Dumpster' #117026 container.
+[22:36:14	]Jhiadaw Adawas closed the 'Dumpster' #117026 container.
+[22:41:17	]Jhiadaw Adawas has gone afk.
+[22:46:57	]Jhiadaw Adawas is no longer afk. Total time spent AFK: 635
+[22:48:31	]Loxy (STEAM_0:1:421238310) has disconnected.
+[22:52:55	]Loxy has connected.
+[22:53:40	]Loxy loaded the character 'Jhiadaw Adawas'
+[22:54:24	]Jhiadaw Adawas has disabled the bastion plugin for next restart.
+[22:54:31	]Jhiadaw Adawas ran SAM command 'menu' with arguments: ''
+[22:54:37	]Jhiadaw Adawas ran SAM command 'maprestart' with arguments: ''
+[22:55:36	]The Medium File Cabinet container (#101660) was inactive and has been soft-removed.
+[22:58:07	]Loxy has connected.
+[22:59:03	]Loxy loaded the character 'Jhiadaw Adawas'
+[23:01:43	]Loxy has unloaded their "Jhiadaw Adawas" character.
+[23:01:46	]Loxy loaded the character 'Jhiadaw Adawas'
+[23:02:05	]Loxy has unloaded their "Jhiadaw Adawas" character.
+[23:02:11	]Loxy loaded the character 'Jhiadaw Adawas'
+[23:10:40	]Loxy (STEAM_0:1:421238310) has disconnected.

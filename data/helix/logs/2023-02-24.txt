@@ -1,0 +1,54 @@
+[00:01:11	]Robert has connected.
+[00:02:37	]Robert loaded the character 'Shitizen'
+[00:07:23	]Robert has connected.
+[00:07:53	]Robert loaded the character 'Shitizen'
+[00:08:15	]Shitizen used command '/CreateCustomItem'.
+[00:11:17	]Shitizen has spawned a 'NPC [386][npc_monk]'.
+[00:11:17	]Shitizen has hit npc_monk in the left arm dealing 3 damage (CritChance was 0.25).
+[00:11:18	]Shitizen has hit npc_monk in the chest dealing 5 damage (CritChance was 0.25).
+[00:11:19	]Shitizen has hit npc_monk in the stomach dealing 5 damage (CritChance was 0.25).
+[00:11:19	]Shitizen has hit npc_monk in the stomach dealing 5 damage (CritChance was 0.25).
+[00:11:19	]Shitizen has hit npc_monk in the stomach dealing 5 damage (CritChance was 0.25).
+[00:11:19	]Shitizen has hit npc_monk in the stomach dealing 5 damage (CritChance was 0.25).
+[00:11:19	]Shitizen has hit npc_monk in the chest dealing 5 damage (CritChance was 0.25).
+[00:11:19	]Shitizen has critically hit npc_monk in the stomach dealing 8 damage (CritChance was 0.25).
+[00:11:19	]Shitizen has hit npc_monk in the stomach dealing 5 damage (CritChance was 0.25).
+[00:11:20	]Shitizen has hit npc_monk in the chest dealing 5 damage (CritChance was 0.25).
+[00:11:20	]Shitizen has hit npc_monk in the chest dealing 5 damage (CritChance was 0.25).
+[00:11:21	]Shitizen has critically hit npc_monk in the head dealing 9 damage (CritChance was 0.25).
+[00:11:21	]Shitizen has critically hit npc_monk in the head dealing 9 damage (CritChance was 0.25).
+[00:11:21	]Shitizen has critically hit npc_monk in the head dealing 9 damage (CritChance was 0.25).
+[00:11:22	]Shitizen has critically hit npc_monk in the left arm dealing 7 damage (CritChance was 0.25).
+[00:11:22	]Shitizen has hit npc_monk in the chest dealing 5 damage (CritChance was 0.25).
+[00:11:23	]Shitizen has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.25).
+[00:11:23	]Shitizen has hit npc_monk in the chest dealing 5 damage (CritChance was 0.25).
+[00:11:23	]Shitizen has hit npc_monk in the chest dealing 5 damage (CritChance was 0.25).
+[00:11:23	]Shitizen has hit npc_monk in the chest dealing 5 damage (CritChance was 0.25).
+[00:11:30	]Shitizen entered observer.
+[00:11:33	]Shitizen exited observer at their location.
+[00:11:38	]Shitizen has given himself a cmrulock.
+[00:11:38	]Shitizen has gained a 'CMRU Lock' #1649801.
+[00:11:40	]Shitizen ran 'Place' on item 'CMRU Lock' (#1649801)
+[00:11:42	]Shitizen has given himself a cmru_card.
+[00:11:42	]Shitizen has gained a 'CMRU Level 1 Access Keycard' #1649802.
+[00:11:44	]Shitizen ran 'Bind' on item 'CMRU Level 1 Access Keycard' (#1649802)
+[00:11:57	][IC] Shitizen: F.
+[00:12:03	]Shitizen used command '/CharGiveFlag shitizen M'.
+[00:12:08	]Shitizen ran 'SetAccessLevel' on item 'CMRU Level 1 Access Keycard' (#1649802)
+[00:12:09	]Shitizen ran 'SetAccessLevel' on item 'CMRU Level 2 Access Keycard' (#1649802)
+[00:12:09	]Shitizen ran 'SetAccessLevel' on item 'CMRU Level 3 Access Keycard' (#1649802)
+[00:12:13	]Shitizen has used a context menu option with the name: remove
+[00:12:16	]Shitizen ran 'drop' on item 'CMRU Level 4 Access Keycard' (#1649802)
+[00:12:16	]Shitizen has lost a 'CMRU Level 4 Access Keycard' #1649802.
+[00:12:18	]Shitizen has used a context menu option with the name: remove
+[00:15:44	]Shitizen has spawned a 'NPC [394][npc_monk]'.
+[00:15:45	]Shitizen entered observer.
+[00:15:46	]Shitizen exited observer at their location.
+[00:15:47	]Shitizen has critically hit npc_monk in the stomach dealing 30 damage (CritChance was 0.84).
+[00:15:48	]Shitizen has critically hit npc_monk in the chest dealing 30 damage (CritChance was 0.84).
+[00:15:49	]Shitizen has critically hit npc_monk in the chest dealing 30 damage (CritChance was 0.84).
+[00:15:49	]Shitizen has critically hit npc_monk in the chest dealing 30 damage (CritChance was 0.84).
+[00:15:50	]Shitizen has critically hit npc_monk in the chest dealing 30 damage (CritChance was 0.84).
+[00:16:58	]Robert (STEAM_0:1:36030793) has disconnected.
+[20:49:18	]Deverinity has connected.
+[20:50:34	]Deverinity (STEAM_0:0:192725569) has disconnected.

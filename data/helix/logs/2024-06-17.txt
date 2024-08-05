@@ -1,0 +1,368 @@
+[02:16:17	]Divine has connected.
+[02:34:14	]Divine loaded the character 'doctor evil (evil)'
+[02:34:19	]doctor evil (evil) is fully healed.
+[02:34:44	]doctor evil (evil) ran 'take' on item 'CMRU PDA' (#3307038)
+[02:34:44	]doctor evil (evil) has gained a 'CMRU PDA' #3307038.
+[02:34:47	]doctor evil (evil) ran 'drop' on item 'CMRU PDA' (#3307038)
+[02:34:47	]doctor evil (evil) has lost a 'CMRU PDA' #3307038.
+[02:34:57	]doctor evil (evil) used command '/ActSearch'.
+[02:35:04	]doctor evil (evil) used command '/ActThreat 2'.
+[02:35:11	]doctor evil (evil) used command '/ActDeny 2'.
+[02:35:17	]doctor evil (evil) used command '/ActLean 3'.
+[02:35:21	]doctor evil (evil) ran 'take' on item 'Priority Loyalist Ration' (#3307026)
+[02:35:21	]doctor evil (evil) has gained a 'Priority Loyalist Ration' #3307026.
+[02:35:23	]doctor evil (evil) ran 'hold' on item 'Priority Loyalist Ration' (#3307026)
+[02:35:24	]doctor evil (evil) ran 'hold' on item 'Priority Loyalist Ration' (#3307026)
+[02:35:29	]doctor evil (evil) ran 'hputback' on item 'Priority Loyalist Ration' (#3307026)
+[02:35:30	]doctor evil (evil) ran 'drop' on item 'Priority Loyalist Ration' (#3307026)
+[02:35:30	]doctor evil (evil) has lost a 'Priority Loyalist Ration' #3307026.
+[02:35:38	]doctor evil (evil) ran 'take' on item 'Toolkit' (#3306801)
+[02:35:38	]doctor evil (evil) has gained a 'Toolkit' #3306801.
+[02:35:41	]doctor evil (evil) ran 'hold' on item 'Toolkit' (#3306801)
+[02:35:50	]doctor evil (evil) ran 'hputback' on item 'Toolkit' (#3306801)
+[02:35:51	]doctor evil (evil) ran 'drop' on item 'Toolkit' (#3306801)
+[02:35:51	]doctor evil (evil) has lost a 'Toolkit' #3306801.
+[02:35:55	]doctor evil (evil) has taken 1 damage from worldspawn.
+[02:36:02	]doctor evil (evil) used command '/ActLean 3'.
+[02:36:04	]doctor evil (evil) used command '/ExitAct'.
+[02:36:06	]doctor evil (evil) used command '/ActLean'.
+[02:36:07	]doctor evil (evil) used command '/ExitAct'.
+[02:36:11	]doctor evil (evil) used command '/ActLean 3'.
+[02:37:24	]doctor evil (evil) used command '/ExitAct'.
+[02:37:54	]doctor evil (evil) used command '/ActSearch'.
+[02:38:04	][IC] doctor evil (evil): Somehow, I always knew...
+[02:38:28	]doctor evil (evil) used command '/ActSearch'.
+[02:38:51	]doctor evil (evil) used command '/ActSearch'.
+[02:39:47	]Divine loaded the character 'C8:i4.VICTOR-54'
+[02:40:12	]C8:i4.VICTOR-54 ran 'take' on item 'CV-2000 Stun Baton' (#2581495)
+[02:40:12	]C8:i4.VICTOR-54 has gained a 'CV-2000 Stun Baton' #2581495.
+[02:40:14	]C8:i4.VICTOR-54 ran 'drop' on item 'CV-2000 Stun Baton' (#2581495)
+[02:40:14	]C8:i4.VICTOR-54 has lost a 'CV-2000 Stun Baton' #2581495.
+[02:40:15	]C8:i4.VICTOR-54 ran 'EquipUn' on item 'CV-2000 Stun Baton' (#3238544)
+[02:40:15	]C8:i4.VICTOR-54 ran 'Equip' on item 'CV-2000 Stun Baton' (#3238544)
+[02:40:20	]C8:i4.VICTOR-54 used command '/ActSearch'.
+[02:40:42	]C8:i4.VICTOR-54 ran 'take' on item 'Civil Protection Ration' (#3307031)
+[02:40:42	]C8:i4.VICTOR-54 has gained a 'Civil Protection Ration' #3307031.
+[02:40:44	]C8:i4.VICTOR-54 ran 'hold' on item 'Civil Protection Ration' (#3307031)
+[02:40:47	]C8:i4.VICTOR-54 ran 'hputback' on item 'Civil Protection Ration' (#3307031)
+[02:40:48	]C8:i4.VICTOR-54 ran 'drop' on item 'Civil Protection Ration' (#3307031)
+[02:40:48	]C8:i4.VICTOR-54 has lost a 'Civil Protection Ration' #3307031.
+[02:41:11	]C8:i4.VICTOR-54 used command '/ToggleRaise'.
+[02:41:18	]C8:i4.VICTOR-54 used command '/ToggleRaise'.
+[02:41:24	]C8:i4.VICTOR-54 used command '/ActDeny'.
+[02:41:26	]C8:i4.VICTOR-54 used command '/ActDeny 2'.
+[02:41:31	]C8:i4.VICTOR-54 used command '/ActDeny 2'.
+[02:41:45	]C8:i4.VICTOR-54 used command '/ActThreat 2'.
+[02:42:06	]C8:i4.VICTOR-54 used command '/ActLean 3'.
+[02:42:21	]C8:i4.VICTOR-54 used command '/ExitAct'.
+[02:42:30	]C8:i4.VICTOR-54 used command '/ActSearch'.
+[02:42:40	]C8:i4.VICTOR-54 used command '/ActSearch'.
+[02:42:54	]C8:i4.VICTOR-54 used command '/ActThreat 2'.
+[02:43:07	]C8:i4.VICTOR-54 used command '/ActDeny 2'.
+[02:44:13	]C8:i4.VICTOR-54 used command '/ToggleRaise'.
+[02:44:15	]C8:i4.VICTOR-54 used command '/ToggleRaise'.
+[02:44:30	]C8:i4.VICTOR-54 ran 'EquipUn' on item 'HK USP .45' (#3238522)
+[02:44:31	]C8:i4.VICTOR-54 ran 'EquipUn' on item 'Combine PDA' (#3026296)
+[02:44:33	]C8:i4.VICTOR-54 ran 'EquipUn' on item 'CV-2000 Stun Baton' (#3238544)
+[02:45:10	]Divine loaded the character 'C8/Disp:AI-37'
+[02:45:15	]C8/Disp:AI-37 is fully healed.
+[02:45:29	][IC] C8/Disp:AI-37: Attention, all ground-protection teams, autonomous judgment is now in effect. Sentencing is now discretionary. Code, AMPUTATE, ZERO, CONFIRM.
+[02:45:52	]C8/Disp:AI-37 used command '/Dispatch AUTONOMOUS JUDGMENT'.
+[02:46:01	]C8/Disp:AI-37 used command '/Dispatch AUTONOMOUS JUDGMENT'.
+[02:46:04	][IC] C8/Disp:AI-37: Attention, all ground-protection teams, autonomous judgment is now in effect. Sentencing is now discretionary. Code, AMPUTATE, ZERO, CONFIRM.
+[02:46:31	][IC] C8/Disp:AI-37: Alert ground units. Alert command units. Emergency code: void.
+[02:46:44	][IC] C8/Disp:AI-37: You are charged with anti-civil activity level: ONE. Protection-unit prosecution code: DUTY, SWORD, OPERATE.
+[02:46:55	][IC] C8/Disp:AI-37: Individual, you are now charged with multiple level five anti-civil activity violations. Please cooperate with ground protection team. Ground protection team: alert. Code: Engage. Isolate. Neutralize.
+[02:47:18	][IC] C8/Disp:AI-37: Individual, you are charged with socio-endangerment level: ONE. Protection-unit prosecution code, DUTY, SWORD, MIDNIGHT.
+[02:47:33	][IC] C8/Disp:AI-37: Individual, you are now charged with socio-endangerment level: FIVE. Cease evasion immediately, receive your verdict.
+[02:47:48	][IC] C8/Disp:AI-37: Individual, you are convicted of multi-anti-civil violations. Implicit citizenship revoked. Status, MALIGNANT.
+[02:48:05	][IC] C8/Disp:AI-37: Individual, you are convicted of multi-anti-civil violations. Implicit citizenship revoked. Status, MALIGNANT.
+[02:48:17	][IC] C8/Disp:AI-37: Individual, you are charged with capital malcompliance. Anti-citizen status, APPROVED.
+[02:48:25	][IC] C8/Disp:AI-37: Attention, ground-units: Anti-citizen reported in this community. Code: LOCK, CAUTERIZE, STABILIZE.
+[02:49:00	][IC] C8/Disp:AI-37: Attention, all ground-protection teams, judgment waiver now in effect. Capital prosecution is discretionary.
+[02:49:12	][IC] C8/Disp:AI-37: Attention, please, evasion behaviour consistent with malcompliant defendant. Ground protection-team, alert, code: ISOLATE, EXPOSE, ADMINISTER.
+[02:50:31	][IC] C8/Disp:AI-37: Warning. Surveillance and detection systems inactive. Remaining stabilization team members report containment status please.
+[02:50:43	][IC] C8/Disp:AI-37: Citizen notice, priority identification-check in-progress. Please assemble in your designated inspection positions.
+[02:50:55	][IC] C8/Disp:AI-37: Attention, please: All citizens in local residential block, assume your inspection-positions.
+[02:51:03	][IC] C8/Disp:AI-37: Citizen notice: Failure to co-operate will result in permanent off-world relocation.
+[02:51:11	][IC] C8/Disp:AI-37: Attention, residents: Miscount detected in your block. Co-operation with your Civil Protection team permits full ration reward.
+[02:51:20	][IC] C8/Disp:AI-37: Attention, residents: This blocks contains potential civil infection. INFORM, CO-OPERATE, ASSEMBLE.
+[02:51:50	][IC] C8/Disp:AI-37: Citizen notice, priority identification-check in-progress. Please assemble in your designated inspection positions. Attention, please: all citizens in local residential block, assume your inspection-positions. Citizen notice: failure to co-operate will result in permanent off-world relocation. Attention, residents: this blocks contains potential civil infection. Inform, co-operate, assemble. Attention, residents: miscount detected in your block. Co-operation with your civil protection team permits full ration reward.
+[02:52:48	][IC] C8/Disp:AI-37: Alert, community ground-protection units, local unrest structure detected. ASSEMBLE, ADMINISTER, PACIFY.
+[02:52:59	][IC] C8/Disp:AI-37: Attention, community: Unrest procedure code is now in effect. INOCULATE, SHIELD, PACIFY. Code: PRESSURE, SWORD, STERILIZE.
+[02:53:14	][IC] C8/Disp:AI-37: Attention, please: Unidentified person of interest, confirm your civil status with local protection-team immediately.
+[02:53:17	][IC] C8/Disp:AI-37: Attention, protection-team, status evasion in progress in this community. RESPOND, ISOLATE, INQUIRE.
+[02:53:29	][IC] C8/Disp:AI-37: Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by.
+[02:53:45	][IC] C8/Disp:AI-37: Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by.
+[02:53:52	][IC] C8/Disp:AI-37: Response code: Shield. Key. Migrate. CODE SHIELDCODE SHIELD.
+[02:53:57	][IC] C8/Disp:AI-37: Response code: Shield. Key. Migrate. Response code: shield. Key. Migrate. Response code: shield. Key. Migrate.
+[02:54:10	][IC] C8/Disp:AI-37: Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by. Critical breach. Stand by. Stand by. Response code: shield. Key. Migrate. Response code: shield. Key. Migrate. Response code: shield. Key. Migrate. Response code: shield. Key. Migrate. Response code: shield. Key. Migrate. Response code: shield. Key. Migrate. Response code: shield. Key. Migrate. Alert ground units. Alert command units. Emergency code: void.
+[02:54:27	][IC] C8/Disp:AI-37: Individual, you are now charged with multiple level five anti-civil activity violations. Please cooperate with ground protection team. Ground protection team: alert. Code: Engage. Isolate. Neutralize. Individual, you are now charged with multiple level five anti-civil activity violations. Please cooperate with ground protection team. Ground protection team: alert. Code: engage. Isolate. Neutralize. Individual, you are now charged with multiple level five anti-civil activity violations. Please cooperate with ground protection team. Ground protection team: alert. Code: engage. Isolate. Neutralize. Individual, you are now charged with multiple level five anti-civil activity violations. Please cooperate with ground protection team. Ground protection team: alert. Code: engage. Isolate. Neutralize. Individual, you are now charged with multiple level five anti-civil activity violations. Please cooperate with ground protection team. Ground protection team: alert. Code: engage. Isolate. Neutralize. Individual, you are now charged with multiple level five anti-civil activity violations. Please cooperate with ground protection team. Ground protection team: alert. Code: engage. Isolate. Neutralize. Individual, you are now charged with multiple level five anti-civil activity violations. Please cooperate with ground protection team. Ground protection team: alert. Code: engage. Isolate. Neutralize. Individual, you are now charged with multiple level five anti-civil activity violations. Please cooperate with ground protection team. Ground protection team: alert. Code: engage. Isolate. Neutralize.
+[02:54:45	][IC] C8/Disp:AI-37: Attention, stabilization-team leaders; report deserviced units to sterilized body-count ratios for reinforcement reward or removal processing attention, stabilization-team leaders; report deserviced units to sterilized body-count ratios for reinforcement reward or removal processing.
+[02:54:57	]C8/Disp:AI-37 used command '/I 100 CREDITS'.
+[02:55:14	]C8/Disp:AI-37 used command '/I Basically means you can have sex for 100 bucks.'.
+[02:56:56	]Divine loaded the character 'C8:i4.VICTOR-54'
+[02:59:45	]Divine (STEAM_0:0:63629212) has disconnected.
+[19:18:09	]Divine has connected.
+[19:18:51	]Divine loaded the character 'C8/Disp:AI-37'
+[19:19:16	][IC] C8/Disp:AI-37: Attention, all ground-protection teams, judgment waiver now in effect. Capital prosecution is discretionary.
+[19:19:39	]Divine loaded the character 'doctor evil (evil)'
+[19:19:42	]Divine (STEAM_0:0:63629212) has disconnected.
+[19:20:24	]Atle has connected.
+[19:20:49	]Atle loaded the character 'Ken Livington'
+[19:21:02	]Ken Livington ran 'hold' on item 'Empty Gascan' (#3307043)
+[19:21:06	]Ken Livington ran 'hputback' on item 'Empty Gascan' (#3307043)
+[19:21:45	]Ken Livington ran 'hold' on item 'Empty Gascan' (#3307043)
+[19:22:54	]Ken Livington ran 'hputback' on item 'Empty Gascan' (#3307043)
+[19:22:55	]Ken Livington ran 'hold' on item 'Empty Gascan' (#3307043)
+[19:23:11	]Ken Livington ran 'hputback' on item 'Empty Gascan' (#3307043)
+[19:23:12	]Ken Livington ran 'hold' on item 'Empty Gascan' (#3307043)
+[19:23:21	]Ken Livington ran 'hputback' on item 'Empty Gascan' (#3307043)
+[19:23:22	]Ken Livington ran 'hold' on item 'Empty Gascan' (#3307043)
+[19:23:41	]Ken Livington ran 'hputback' on item 'Empty Gascan' (#3307043)
+[19:23:43	]Ken Livington ran 'hold' on item 'Empty Gascan' (#3307043)
+[19:23:52	]Ken Livington ran 'hputback' on item 'Empty Gascan' (#3307043)
+[19:23:53	]Ken Livington ran 'hold' on item 'Empty Gascan' (#3307043)
+[19:24:09	]Ken Livington ran 'hputback' on item 'Empty Gascan' (#3307043)
+[19:24:10	]Ken Livington ran 'hold' on item 'Empty Gascan' (#3307043)
+[19:24:25	]Ken Livington ran 'hputback' on item 'Empty Gascan' (#3307043)
+[19:24:26	]Ken Livington ran 'hold' on item 'Empty Gascan' (#3307043)
+[19:24:32	]Ken Livington ran 'hputback' on item 'Empty Gascan' (#3307043)
+[19:24:33	]Ken Livington ran 'hold' on item 'Empty Gascan' (#3307043)
+[19:24:47	]Ken Livington ran 'hputback' on item 'Empty Gascan' (#3307043)
+[19:24:48	]Ken Livington ran 'hold' on item 'Empty Gascan' (#3307043)
+[19:25:17	]Ken Livington ran 'hputback' on item 'Empty Gascan' (#3307043)
+[19:25:17	]Ken Livington ran 'hold' on item 'Empty Gascan' (#3307043)
+[19:25:31	]Ken Livington ran 'hputback' on item 'Empty Gascan' (#3307043)
+[19:25:32	]Ken Livington ran 'hold' on item 'Empty Gascan' (#3307043)
+[19:25:44	]Ken Livington ran 'hputback' on item 'Empty Gascan' (#3307043)
+[19:25:45	]Ken Livington ran 'hold' on item 'Empty Gascan' (#3307043)
+[19:25:53	]Ken Livington ran 'hputback' on item 'Empty Gascan' (#3307043)
+[19:25:54	]Ken Livington ran 'hold' on item 'Empty Gascan' (#3307043)
+[19:26:04	]Ken Livington ran 'hputback' on item 'Empty Gascan' (#3307043)
+[19:26:05	]Ken Livington ran 'hold' on item 'Empty Gascan' (#3307043)
+[19:27:42	]Atle loaded the character 'Beatrice Olmgurt Bulmer'
+[19:27:47	]Beatrice Olmgurt Bulmer is fully healed.
+[19:28:02	]Beatrice Olmgurt Bulmer has given himself a junk_gascan.
+[19:28:02	]Beatrice Olmgurt Bulmer has gained a 'Empty Gascan' #3307052.
+[19:28:04	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Empty Gascan' (#3307052)
+[19:28:19	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Empty Gascan' (#3307052)
+[19:28:20	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Empty Gascan' (#3307052)
+[19:28:27	]Atle loaded the character 'Ken Livington'
+[19:28:34	]Ken Livington ran 'hold' on item 'Empty Gascan' (#3307043)
+[19:28:37	]Ken Livington ran 'hputback' on item 'Empty Gascan' (#3307043)
+[19:31:02	]Ken Livington ran 'hold' on item 'Old Doll' (#3307045)
+[19:31:13	]Atle loaded the character 'Beatrice Olmgurt Bulmer'
+[19:31:21	]Beatrice Olmgurt Bulmer has given himself a junk_doll.
+[19:31:21	]Beatrice Olmgurt Bulmer has gained a 'Old Doll' #3307053.
+[19:31:23	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Old Doll' (#3307053)
+[19:31:52	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Old Doll' (#3307053)
+[19:31:52	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Empty Takeaway' (#3307050)
+[19:31:52	]Beatrice Olmgurt Bulmer has lost a 'Empty Takeaway' #3307050.
+[19:31:54	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Empty Gascan' (#3307052)
+[19:31:54	]Beatrice Olmgurt Bulmer has lost a 'Empty Gascan' #3307052.
+[19:31:55	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Old Doll' (#3307053)
+[19:31:55	]Beatrice Olmgurt Bulmer has lost a 'Old Doll' #3307053.
+[19:32:08	]Beatrice Olmgurt Bulmer has given himself a junk_plasticcrate.
+[19:32:08	]Beatrice Olmgurt Bulmer has gained a 'Plastic Crate' #3307054.
+[19:32:10	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Plastic Crate' (#3307054)
+[19:32:34	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Plastic Crate' (#3307054)
+[19:32:34	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Plastic Crate' (#3307054)
+[19:32:48	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Plastic Crate' (#3307054)
+[19:32:49	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Plastic Crate' (#3307054)
+[19:32:58	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Plastic Crate' (#3307054)
+[19:32:58	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Plastic Crate' (#3307054)
+[19:33:11	]Atle loaded the character 'Ken Livington'
+[19:33:18	]Ken Livington ran 'hold' on item 'Plastic Crate' (#3307051)
+[19:33:22	]Ken Livington ran 'hputback' on item 'Plastic Crate' (#3307051)
+[19:33:22	]Ken Livington ran 'drop' on item 'Plastic Crate' (#3307051)
+[19:33:22	]Ken Livington has lost a 'Plastic Crate' #3307051.
+[19:33:23	]Ken Livington ran 'drop' on item 'Empty Gascan' (#3307043)
+[19:33:23	]Ken Livington has lost a 'Empty Gascan' #3307043.
+[19:33:23	]Ken Livington ran 'drop' on item 'Old Doll' (#3307045)
+[19:33:23	]Ken Livington has lost a 'Old Doll' #3307045.
+[19:34:19	]Ken Livington has given himself a junk_frame.
+[19:34:19	]Ken Livington has gained a 'Wooden frame' #3307055.
+[19:34:21	]Ken Livington ran 'hold' on item 'Wooden frame' (#3307055)
+[19:34:34	]Ken Livington ran 'hputback' on item 'Wooden frame' (#3307055)
+[19:34:35	]Ken Livington ran 'hold' on item 'Wooden frame' (#3307055)
+[19:34:48	]Ken Livington ran 'hputback' on item 'Wooden frame' (#3307055)
+[19:34:49	]Ken Livington ran 'hold' on item 'Wooden frame' (#3307055)
+[19:35:00	]Ken Livington ran 'hputback' on item 'Wooden frame' (#3307055)
+[19:35:01	]Ken Livington ran 'hold' on item 'Wooden frame' (#3307055)
+[19:35:33	]Ken Livington ran 'hputback' on item 'Wooden frame' (#3307055)
+[19:35:34	]Ken Livington ran 'hold' on item 'Wooden frame' (#3307055)
+[19:35:47	]Ken Livington ran 'hputback' on item 'Wooden frame' (#3307055)
+[19:35:48	]Ken Livington ran 'hold' on item 'Wooden frame' (#3307055)
+[19:36:37	]Ken Livington ran 'hputback' on item 'Wooden frame' (#3307055)
+[19:36:39	]Ken Livington ran 'drop' on item 'Old Desk Clock' (#3307046)
+[19:36:39	]Ken Livington has lost a 'Old Desk Clock' #3307046.
+[19:37:11	]Ken Livington has given himself a junk_lamp.
+[19:37:11	]Ken Livington has gained a 'Broken Lamp' #3307056.
+[19:37:12	]Ken Livington ran 'drop' on item 'Wooden frame' (#3307055)
+[19:37:12	]Ken Livington has lost a 'Wooden frame' #3307055.
+[19:37:14	]Ken Livington ran 'hold' on item 'Broken Lamp' (#3307056)
+[19:37:51	]Ken Livington ran 'hputback' on item 'Broken Lamp' (#3307056)
+[19:37:52	]Ken Livington ran 'hold' on item 'Broken Lamp' (#3307056)
+[19:38:02	]Ken Livington ran 'hputback' on item 'Broken Lamp' (#3307056)
+[19:38:03	]Ken Livington ran 'hold' on item 'Broken Lamp' (#3307056)
+[19:38:08	]Ken Livington ran 'hputback' on item 'Broken Lamp' (#3307056)
+[19:38:08	]Ken Livington ran 'hold' on item 'Broken Lamp' (#3307056)
+[19:38:23	]Ken Livington ran 'hputback' on item 'Broken Lamp' (#3307056)
+[19:38:23	]Ken Livington ran 'hold' on item 'Broken Lamp' (#3307056)
+[19:38:35	]Ken Livington ran 'hputback' on item 'Broken Lamp' (#3307056)
+[19:38:36	]Ken Livington ran 'hold' on item 'Broken Lamp' (#3307056)
+[19:38:45	]Atle loaded the character 'Beatrice Olmgurt Bulmer'
+[19:38:54	]Beatrice Olmgurt Bulmer has given himself a junk_lamp.
+[19:38:54	]Beatrice Olmgurt Bulmer has gained a 'Broken Lamp' #3307057.
+[19:38:55	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Plastic Crate' (#3307054)
+[19:38:55	]Beatrice Olmgurt Bulmer has lost a 'Plastic Crate' #3307054.
+[19:38:56	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Broken Lamp' (#3307057)
+[19:39:19	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Broken Lamp' (#3307057)
+[19:39:19	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Broken Lamp' (#3307057)
+[19:39:19	]Beatrice Olmgurt Bulmer has lost a 'Broken Lamp' #3307057.
+[19:39:50	]Beatrice Olmgurt Bulmer has given himself a fruit_apple.
+[19:39:50	]Beatrice Olmgurt Bulmer has gained a 'Apple' #3307058.
+[19:39:51	]Beatrice Olmgurt Bulmer has given himself a baking_tomato.
+[19:39:51	]Beatrice Olmgurt Bulmer has gained a 'Baked Tomato' #3307059.
+[19:39:54	]Beatrice Olmgurt Bulmer has given himself a fruit_orange.
+[19:39:54	]Beatrice Olmgurt Bulmer has gained a 'Orange' #3307060.
+[19:39:57	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Apple' (#3307058)
+[19:40:25	]Beatrice Olmgurt Bulmer ran 'Consume' on item 'Apple' (#3307058)
+[19:40:28	]Beatrice Olmgurt Bulmer has given himself a fruit_apple.
+[19:40:28	]Beatrice Olmgurt Bulmer has gained a 'Apple' #3307061.
+[19:40:30	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Apple' (#3307061)
+[19:40:41	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Apple' (#3307061)
+[19:40:43	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Apple' (#3307061)
+[19:40:56	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Apple' (#3307061)
+[19:40:58	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Apple' (#3307061)
+[19:41:23	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Apple' (#3307061)
+[19:41:24	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Apple' (#3307061)
+[19:41:31	]Atle loaded the character 'Ken Livington'
+[19:41:39	]Ken Livington has given himself a fruit_apple.
+[19:41:39	]Ken Livington has gained a 'Apple' #3307062.
+[19:41:40	]Ken Livington ran 'drop' on item 'Broken Lamp' (#3307056)
+[19:41:40	]Ken Livington has lost a 'Broken Lamp' #3307056.
+[19:41:41	]Ken Livington ran 'hold' on item 'Apple' (#3307062)
+[19:42:24	]Ken Livington has given himself a baking_tomato.
+[19:42:24	]Ken Livington has gained a 'Baked Tomato' #3307063.
+[19:42:26	]Ken Livington ran 'hputback' on item 'Apple' (#3307062)
+[19:42:26	]Ken Livington ran 'Consume' on item 'Apple' (#3307062)
+[19:43:21	]Ken Livington has given himself a veg_tomato.
+[19:43:21	]Ken Livington has gained a 'Raw Tomato' #3307064.
+[19:43:35	]Ken Livington ran 'hold' on item 'Raw Tomato' (#3307064)
+[19:44:09	]Ken Livington ran 'hputback' on item 'Raw Tomato' (#3307064)
+[19:44:09	]Ken Livington ran 'hold' on item 'Raw Tomato' (#3307064)
+[19:44:17	]Ken Livington ran 'hputback' on item 'Raw Tomato' (#3307064)
+[19:44:18	]Ken Livington ran 'hold' on item 'Raw Tomato' (#3307064)
+[19:44:29	]Ken Livington ran 'hputback' on item 'Raw Tomato' (#3307064)
+[19:44:30	]Ken Livington ran 'hold' on item 'Raw Tomato' (#3307064)
+[19:44:40	]Ken Livington ran 'hputback' on item 'Raw Tomato' (#3307064)
+[19:44:41	]Ken Livington ran 'hold' on item 'Raw Tomato' (#3307064)
+[19:44:51	]Ken Livington ran 'hputback' on item 'Raw Tomato' (#3307064)
+[19:44:53	]Ken Livington ran 'hold' on item 'Raw Tomato' (#3307064)
+[19:44:54	]Ken Livington ran 'hold' on item 'Raw Tomato' (#3307064)
+[19:45:00	]Ken Livington ran 'hputback' on item 'Raw Tomato' (#3307064)
+[19:45:01	]Ken Livington ran 'hold' on item 'Raw Tomato' (#3307064)
+[19:45:10	]Atle loaded the character 'Beatrice Olmgurt Bulmer'
+[19:45:18	]Beatrice Olmgurt Bulmer has given himself a veg_tomato.
+[19:45:18	]Beatrice Olmgurt Bulmer has gained a 'Raw Tomato' #3307065.
+[19:45:22	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Raw Tomato' (#3307065)
+[19:45:25	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Raw Tomato' (#3307065)
+[19:45:26	]Beatrice Olmgurt Bulmer ran 'Consume' on item 'Apple' (#3307061)
+[19:46:38	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Raw Tomato' (#3307065)
+[19:46:38	]Beatrice Olmgurt Bulmer has lost a 'Raw Tomato' #3307065.
+[19:46:39	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Orange' (#3307060)
+[19:46:53	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Orange' (#3307060)
+[19:46:54	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Orange' (#3307060)
+[19:47:05	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Orange' (#3307060)
+[19:47:07	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Orange' (#3307060)
+[19:47:14	]Atle loaded the character 'Ken Livington'
+[19:47:21	]Ken Livington ran 'drop' on item 'Raw Tomato' (#3307064)
+[19:47:21	]Ken Livington has lost a 'Raw Tomato' #3307064.
+[19:47:24	]Ken Livington has given himself a fruit_orange.
+[19:47:24	]Ken Livington has gained a 'Orange' #3307066.
+[19:47:26	]Ken Livington ran 'hold' on item 'Orange' (#3307066)
+[19:47:47	]Ken Livington has given himself a drink_fruit_juice.
+[19:47:47	]Ken Livington has gained a 'Fruit Juice' #3307067.
+[19:47:49	]Ken Livington ran 'hputback' on item 'Orange' (#3307066)
+[19:47:50	]Ken Livington ran 'Consume' on item 'Orange' (#3307066)
+[19:47:51	]Ken Livington ran 'hold' on item 'Fruit Juice' (#3307067)
+[19:47:55	]Ken Livington ran 'Consume' on item 'Fruit Juice' (#3307067)
+[19:47:55	]Ken Livington has gained a 'Empty Juice Carton' #3307068.
+[19:48:14	]Ken Livington has given himself a comfort_sandwich.
+[19:48:14	]Ken Livington has gained a 'Sandwich' #3307069.
+[19:48:17	]Ken Livington ran 'hold' on item 'Sandwich' (#3307069)
+[19:49:13	]Ken Livington ran 'hputback' on item 'Sandwich' (#3307069)
+[19:49:14	]Ken Livington ran 'hold' on item 'Sandwich' (#3307069)
+[19:49:23	]Ken Livington ran 'hputback' on item 'Sandwich' (#3307069)
+[19:49:25	]Ken Livington ran 'hold' on item 'Sandwich' (#3307069)
+[19:52:58	]Ken Livington ran 'hputback' on item 'Sandwich' (#3307069)
+[19:52:59	]Ken Livington ran 'hold' on item 'Sandwich' (#3307069)
+[19:53:13	]Ken Livington ran 'hputback' on item 'Sandwich' (#3307069)
+[19:53:14	]Ken Livington ran 'hold' on item 'Sandwich' (#3307069)
+[19:53:27	]Ken Livington ran 'hputback' on item 'Sandwich' (#3307069)
+[19:53:28	]Ken Livington ran 'hold' on item 'Sandwich' (#3307069)
+[19:53:34	]Ken Livington ran 'Consume' on item 'Sandwich' (#3307069)
+[19:53:34	]Ken Livington has gained a level 3 long boost in Intelligence.
+[19:53:40	]Atle loaded the character 'Beatrice Olmgurt Bulmer'
+[19:53:51	]Beatrice Olmgurt Bulmer has given himself a comfort_sandwich.
+[19:53:51	]Beatrice Olmgurt Bulmer has gained a 'Sandwich' #3307070.
+[19:53:52	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Sandwich' (#3307070)
+[19:54:07	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Sandwich' (#3307070)
+[19:54:08	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Sandwich' (#3307070)
+[19:55:25	]Beatrice Olmgurt Bulmer has given himself a drink_bobultra.
+[19:55:25	]Beatrice Olmgurt Bulmer has gained a 'Soda Bob Ultra Nuclear Mega Prime Energy' #3307071.
+[19:55:40	]Beatrice Olmgurt Bulmer has given himself a drink_breen_water.
+[19:55:40	]Beatrice Olmgurt Bulmer has gained a 'Breen's Water' #3307072.
+[19:56:17	]Beatrice Olmgurt Bulmer has given himself a junk_empty_can.
+[19:56:17	]Beatrice Olmgurt Bulmer has gained a 'Empty Metal Can' #3307073.
+[19:56:19	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Empty Metal Can' (#3307073)
+[19:56:22	]Beatrice Olmgurt Bulmer ran 'Consume' on item 'Sandwich' (#3307070)
+[19:56:22	]Beatrice Olmgurt Bulmer has gained a level 3 long boost in Intelligence.
+[19:56:23	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Empty Metal Can' (#3307073)
+[19:59:09	]Beatrice Olmgurt Bulmer has given himself a junk_tincan.
+[19:59:09	]Beatrice Olmgurt Bulmer has gained a 'Tin Can' #3307074.
+[19:59:10	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Empty Metal Can' (#3307073)
+[19:59:10	]Beatrice Olmgurt Bulmer has lost a 'Empty Metal Can' #3307073.
+[19:59:11	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Breen's Water' (#3307072)
+[19:59:11	]Beatrice Olmgurt Bulmer has lost a 'Breen's Water' #3307072.
+[19:59:12	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Tin Can' (#3307074)
+[19:59:40	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Tin Can' (#3307074)
+[19:59:43	]Beatrice Olmgurt Bulmer has given himself a woodstick.
+[19:59:43	]Beatrice Olmgurt Bulmer has gained a 'Wood Stick' #3307075.
+[19:59:49	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Wood Stick' (#3307075)
+[19:59:49	]Beatrice Olmgurt Bulmer has lost a 'Wood Stick' #3307075.
+[20:00:05	]Beatrice Olmgurt Bulmer has given himself a junk_fridgedoor.
+[20:00:05	]Beatrice Olmgurt Bulmer has gained a 'Refrigerator door' #3307076.
+[20:00:45	]Beatrice Olmgurt Bulmer has given himself a junk_pipe.
+[20:00:47	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Refrigerator door' (#3307076)
+[20:00:47	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Soda Bob Ultra Nuclear Mega Prime Energy' (#3307071)
+[20:00:48	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Orange' (#3307060)
+[20:00:52	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Baked Tomato' (#3307059)
+[20:00:54	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Tin Can' (#3307074)
+[20:00:58	]Beatrice Olmgurt Bulmer ran 'drop' on item 'True Loyalist Ration' (#3307036)
+[20:00:59	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Zippo Lighter' (#1966076)
+[20:01:02	]Beatrice Olmgurt Bulmer has gained a 'Flimsy Metal Pipe' #3307077.
+[20:01:04	]Atle loaded the character 'Ken Livington'
+[20:01:13	]Ken Livington ran 'Consume' on item 'Baked Tomato' (#3307063)
+[20:01:15	]Ken Livington has given himself a junk_pipe.
+[20:01:15	]Ken Livington has gained a 'Flimsy Metal Pipe' #3307078.
+[20:01:18	]Ken Livington ran 'hold' on item 'Flimsy Metal Pipe' (#3307078)
+[20:01:45	]Ken Livington ran 'hputback' on item 'Flimsy Metal Pipe' (#3307078)
+[20:01:45	]Ken Livington ran 'hold' on item 'Flimsy Metal Pipe' (#3307078)
+[20:01:52	]Ken Livington ran 'hputback' on item 'Flimsy Metal Pipe' (#3307078)
+[20:01:53	]Ken Livington ran 'hold' on item 'Flimsy Metal Pipe' (#3307078)
+[20:02:08	]Ken Livington ran 'hputback' on item 'Flimsy Metal Pipe' (#3307078)
+[20:02:09	]Ken Livington ran 'hold' on item 'Flimsy Metal Pipe' (#3307078)
+[20:02:17	]Ken Livington ran 'hputback' on item 'Flimsy Metal Pipe' (#3307078)
+[20:02:18	]Ken Livington ran 'hold' on item 'Flimsy Metal Pipe' (#3307078)
+[20:02:27	]Ken Livington ran 'hputback' on item 'Flimsy Metal Pipe' (#3307078)
+[20:02:28	]Ken Livington ran 'hold' on item 'Flimsy Metal Pipe' (#3307078)
+[20:02:34	]Ken Livington ran 'hputback' on item 'Flimsy Metal Pipe' (#3307078)
+[20:02:35	]Ken Livington ran 'hold' on item 'Flimsy Metal Pipe' (#3307078)
+[20:02:42	]Atle loaded the character 'Beatrice Olmgurt Bulmer'
+[20:02:50	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Flimsy Metal Pipe' (#3307077)
+[20:02:59	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Flimsy Metal Pipe' (#3307077)
+[20:03:00	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Flimsy Metal Pipe' (#3307077)
+[20:04:15	]Atle (STEAM_0:0:21027108) has disconnected.

@@ -1,0 +1,869 @@
+[21:49:55	]Tony The Tiger has connected.
+[21:50:24	]Tony The Tiger loaded the character 'GOI Testing Dude'
+[21:50:28	]GOI Testing Dude is fully healed.
+[21:50:34	]GOI Testing Dude entered observer.
+[21:50:35	]GOI Testing Dude exited observer at their location.
+[21:50:46	]GOI Testing Dude has spawned a 'Entity [317][ix_batterycharger]'.
+[21:51:08	]GOI Testing Dude has spawned a 'Entity [319][ix_shopterminal]'.
+[21:51:16	]GOI Testing Dude has spawned a 'Entity [319][ix_trashcollector]'.
+[21:51:20	]GOI Testing Dude has spawned a 'Entity [319][ix_workshiftterminal]'.
+[21:51:29	]GOI Testing Dude has spawned a 'Entity [319][ix_cwuterminal]'.
+[21:51:37	]GOI Testing Dude has spawned a 'Entity [320][ix_discscanner]'.
+[21:51:40	]GOI Testing Dude has spawned a 'Entity [327][ix_fabricator]'.
+[21:51:43	]GOI Testing Dude has spawned a 'Entity [328][ix_intercom]'.
+[21:51:46	]GOI Testing Dude has used a context menu option with the name: ixchangeintercomchannel
+[21:51:54	]GOI Testing Dude has used a context menu option with the name: remove
+[21:52:08	]GOI Testing Dude ran 'insert' on item '#03897's Identity Card' (#6)
+[21:52:08	]GOI Testing Dude has lost a '#03897's Identity Card' #6.
+[21:52:17	]GOI Testing Dude has spawned a cwu_card.
+[21:52:18	]GOI Testing Dude ran 'take' on item 'CWU Member Access Keycard' (#71)
+[21:52:18	]GOI Testing Dude has gained a 'CWU Member Access Keycard' #71.
+[21:52:22	]GOI Testing Dude ran 'SetAccessLevel' on item 'CWU Member Access Keycard' (#71)
+[21:52:25	]GOI Testing Dude ran 'SetAccessLevel' on item 'CWU Management Access Keycard' (#71)
+[21:52:36	]GOI Testing Dude used command '/PlyTransfer GOI CWU'.
+[21:52:39	]GOI Testing Dude used command '/PlyTransfer GOI WORKERS'.
+[21:52:44	]GOI Testing Dude used command '/PlyTransfer GOI LOGIST'.
+[21:52:48	]GOI Testing Dude used command '/PlyTransfer GOI LOGI'.
+[21:52:51	]GOI Testing Dude used command '/PlyTransfer GOI WORKERS'.
+[21:52:59	]GOI Testing Dude used command '/PlyWhitelist GOI WORKERS'.
+[21:53:02	]GOI Testing Dude used command '/PlyWhitelist GOI LOGI'.
+[21:53:04	]GOI Testing Dude used command '/PlyWhitelist GOI VORTI'.
+[21:53:08	]GOI Testing Dude used command '/PlyWhitelist GOI OVER'.
+[21:53:10	]GOI Testing Dude used command '/PlyWhitelist GOI TRANS'.
+[21:53:14	]GOI Testing Dude used command '/PlyWhitelist GOI CIVIL'.
+[21:53:25	]GOI Testing Dude has spawned a cwu_card.
+[21:53:28	]GOI Testing Dude ran 'take' on item 'CWU Member Access Keycard' (#72)
+[21:53:28	]GOI Testing Dude has gained a 'CWU Member Access Keycard' #72.
+[21:53:35	]GOI Testing Dude has spawned a cwulock.
+[21:53:37	]GOI Testing Dude ran 'Place' on item 'CWU Lock' (#73)
+[21:53:43	]GOI Testing Dude has fired a toolgun with the name: prop_door
+[21:53:44	]GOI Testing Dude ran 'Place' on item 'CWU Lock' (#73)
+[21:53:46	]GOI Testing Dude ran 'take' on item 'CWU Lock' (#73)
+[21:53:46	]GOI Testing Dude has gained a 'CWU Lock' #73.
+[21:53:49	]GOI Testing Dude ran 'Place' on item 'CWU Lock' (#73)
+[21:53:57	]GOI Testing Dude used command '/PlyTransfer GOI WORKERS'.
+[21:54:02	]GOI Testing Dude ran 'drop' on item 'CWU Member Access Keycard' (#72)
+[21:54:02	]GOI Testing Dude has lost a 'CWU Member Access Keycard' #72.
+[21:54:03	]GOI Testing Dude ran 'drop' on item 'CWU Member Access Keycard' (#71)
+[21:54:03	]GOI Testing Dude has lost a 'CWU Member Access Keycard' #71.
+[21:54:04	]GOI Testing Dude ran 'drop' on item 'Resin' (#31)
+[21:54:04	]GOI Testing Dude has lost a 'Resin' #31.
+[21:54:05	]GOI Testing Dude ran 'drop' on item 'Light Grey Armband' (#5)
+[21:54:05	]GOI Testing Dude has lost a 'Light Grey Armband' #5.
+[21:54:11	]GOI Testing Dude has fired a toolgun with the name: remover
+[21:54:11	]GOI Testing Dude has fired a toolgun with the name: remover
+[21:54:11	]GOI Testing Dude has fired a toolgun with the name: remover
+[21:54:11	]GOI Testing Dude has fired a toolgun with the name: remover
+[21:54:16	]GOI Testing Dude ran SAM command 'respawn' with arguments: 'GOI'
+[21:54:22	]GOI Testing Dude has spawned a cwu_card.
+[21:54:24	]GOI Testing Dude ran 'take' on item 'CWU Member Access Keycard' (#74)
+[21:54:24	]GOI Testing Dude has gained a 'CWU Member Access Keycard' #74.
+[21:54:32	]GOI Testing Dude ran 'SetFaction' on item 'CWU Member Access Keycard' (#74)
+[21:54:52	]GOI Testing Dude has spawned a dob_card.
+[21:54:53	]GOI Testing Dude ran 'take' on item 'DOB Member Access Keycard' (#75)
+[21:54:53	]GOI Testing Dude has gained a 'DOB Member Access Keycard' #75.
+[21:54:56	]GOI Testing Dude ran 'drop' on item 'DOB Member Access Keycard' (#75)
+[21:54:56	]GOI Testing Dude has lost a 'DOB Member Access Keycard' #75.
+[21:54:59	]GOI Testing Dude has used a context menu option with the name: remove
+[21:55:02	]GOI Testing Dude has spawned a combine_card.
+[21:55:03	]GOI Testing Dude ran 'take' on item 'Combine Card' (#76)
+[21:55:03	]GOI Testing Dude has gained a 'Combine Card' #76.
+[21:55:06	]GOI Testing Dude ran 'drop' on item 'Combine Card' (#76)
+[21:55:06	]GOI Testing Dude has lost a 'Combine Card' #76.
+[21:55:10	]GOI Testing Dude has used a context menu option with the name: remove
+[21:56:02	]GOI Testing Dude has spawned a datadisc.
+[21:56:05	]GOI Testing Dude has spawned a combinebattery.
+[21:56:07	]GOI Testing Dude ran 'take' on item 'Combine Battery' (#78)
+[21:56:07	]GOI Testing Dude has gained a 'Combine Battery' #78.
+[21:56:09	]GOI Testing Dude ran 'SetFullCharge' on item 'Combine Battery' (#78)
+[21:56:14	]GOI Testing Dude ran 'drop' on item 'Combine Battery' (#78)
+[21:56:14	]GOI Testing Dude has lost a 'Combine Battery' #78.
+[21:56:17	]GOI Testing Dude ran 'take' on item 'Data-Disc' (#77)
+[21:56:17	]GOI Testing Dude has gained a 'Data-Disc' #77.
+[21:56:28	]GOI Testing Dude ran 'drop' on item 'Data-Disc' (#77)
+[21:56:28	]GOI Testing Dude has lost a 'Data-Disc' #77.
+[21:57:41	]GOI Testing Dude has spawned a stunstick.
+[21:57:58	]GOI Testing Dude has fired a toolgun with the name: remover
+[21:58:16	]GOI Testing Dude ran 'take' on item 'Data-Disc' (#77)
+[21:58:16	]GOI Testing Dude has gained a 'Data-Disc' #77.
+[21:58:20	]GOI Testing Dude ran 'drop' on item 'Data-Disc' (#77)
+[21:58:20	]GOI Testing Dude has lost a 'Data-Disc' #77.
+[21:58:36	]GOI Testing Dude has spawned a combinebattery.
+[21:58:37	]GOI Testing Dude ran 'take' on item 'Combine Battery' (#80)
+[21:58:37	]GOI Testing Dude has gained a 'Combine Battery' #80.
+[21:58:39	]GOI Testing Dude ran 'SetFullCharge' on item 'Combine Battery' (#80)
+[21:58:41	]GOI Testing Dude ran 'drop' on item 'Combine Battery' (#80)
+[21:58:41	]GOI Testing Dude has lost a 'Combine Battery' #80.
+[21:58:48	]GOI Testing Dude has spawned a comp_condensed_resin.
+[21:58:51	]GOI Testing Dude ran 'take' on item 'Condensed Resin' (#81)
+[21:58:51	]GOI Testing Dude has gained a 'Condensed Resin' #81.
+[21:58:52	]GOI Testing Dude has spawned a comp_resin.
+[21:58:53	]GOI Testing Dude ran 'take' on item 'Resin' (#82)
+[21:58:53	]GOI Testing Dude has gained a 'Resin' #82.
+[21:59:04	]GOI Testing Dude has spawned a comp_resin.
+[21:59:05	]GOI Testing Dude has spawned a comp_resin.
+[21:59:06	]GOI Testing Dude ran 'take' on item 'Resin' (#84)
+[21:59:06	]GOI Testing Dude has gained a 'Resin' #84.
+[21:59:07	]GOI Testing Dude ran 'take' on item 'Resin' (#83)
+[21:59:07	]GOI Testing Dude has gained a 'Resin' #83.
+[21:59:09	]GOI Testing Dude ran 'combine' on item 'Resin' (#84)
+[21:59:10	]GOI Testing Dude ran 'combine' on item 'Resin' (#84)
+[21:59:20	]GOI Testing Dude ran 'split' on item 'Resin' (#84)
+[21:59:20	]GOI Testing Dude has gained a 'Resin' #85.
+[21:59:21	]GOI Testing Dude ran 'split' on item 'Resin' (#84)
+[21:59:21	]GOI Testing Dude has gained a 'Resin' #86.
+[21:59:24	]GOI Testing Dude has spawned a comp_condensed_resin.
+[21:59:25	]GOI Testing Dude has spawned a comp_condensed_resin.
+[21:59:26	]GOI Testing Dude ran 'take' on item 'Condensed Resin' (#88)
+[21:59:26	]GOI Testing Dude has gained a 'Condensed Resin' #88.
+[21:59:30	]GOI Testing Dude ran 'take' on item 'Condensed Resin' (#87)
+[21:59:30	]GOI Testing Dude has gained a 'Condensed Resin' #87.
+[21:59:34	][CG] Delta has connected.
+[21:59:57	]GOI Testing Dude ran 'take' on item 'Stunstick' (#89)
+[21:59:57	]GOI Testing Dude has gained a 'Stunstick' #89.
+[22:00:29	]GOI Testing Dude ran 'drop' on item 'Stunstick' (#89)
+[22:00:29	]GOI Testing Dude has lost a 'Stunstick' #89.
+[22:00:52	]GOI Testing Dude ran 'take' on item 'Condensed Resin' (#90)
+[22:00:52	]GOI Testing Dude has gained a 'Condensed Resin' #90.
+[22:00:57	]GOI Testing Dude ran 'take' on item 'Condensed Resin' (#91)
+[22:00:57	]GOI Testing Dude has gained a 'Condensed Resin' #91.
+[22:01:02	]GOI Testing Dude ran 'take' on item 'Condensed Resin' (#92)
+[22:01:02	]GOI Testing Dude has gained a 'Condensed Resin' #92.
+[22:01:21	]GOI Testing Dude ran 'take' on item '#03897's Identity Card' (#6)
+[22:01:21	]GOI Testing Dude has gained a '#03897's Identity Card' #6.
+[22:01:29	]GOI Testing Dude used command '/PlyWhitelist delta civil'.
+[22:01:34	]GOI Testing Dude used command '/PlyWhitelist delta workers'.
+[22:01:42	]GOI Testing Dude used command '/PlyUnwhitelist delta admin'.
+[22:02:28	][CG] Delta created the character 'Harvey Dalloway'
+[22:02:28	][CG] Delta loaded the character 'Harvey Dalloway'
+[22:02:28	]Harvey Dalloway has gained a 'Light Grey Armband' #93.
+[22:02:28	]Harvey Dalloway has gained a '#10437's Identity Card' #94.
+[22:02:28	]Harvey Dalloway has gained a 'Blue Jumpsuit' #95.
+[22:02:28	]Harvey Dalloway has gained a 'Black Jumpsuit Trousers' #96.
+[22:02:28	]Harvey Dalloway has gained a 'Brown Leather Boots' #97.
+[22:02:43	][OOC] Harvey Dalloway: RIP character data
+[22:02:49	]Tony The Tiger created the character 'I love AOE'
+[22:02:49	]Tony The Tiger loaded the character 'I love AOE'
+[22:02:59	][IC] I love AOE: You are on dev server.
+[22:03:01	][IC] I love AOE: Doesnt matter.
+[22:03:06	]Harvey Dalloway ran 'Equip' on item 'Light Grey Armband' (#93)
+[22:03:08	][IC] I love AOE: Okay.
+[22:03:10	][IC] I love AOE: Make a CWU char.
+[22:03:14	][IC] I love AOE: Then hop on ur civi.
+[22:03:20	][IC] Harvey Dalloway: You whitelisted me?
+[22:03:23	][IC] I love AOE: Yes.
+[22:03:26	][CG] Delta has unloaded their "Harvey Dalloway" character.
+[22:03:27	][IC] I love AOE: Gulanga.
+[22:03:29	][IC] I love AOE: Galanga.
+[22:03:41	]I love AOE has spawned a id_card_creator.
+[22:03:51	]I love AOE used command '/SetDatafilePoints AOE 40'.
+[22:03:55	]I love AOE ran 'take' on item 'Identity Card Creation Device' (#98)
+[22:03:55	]I love AOE has gained a 'Identity Card Creation Device' #98.
+[22:03:59	]I love AOE has spawned a id_card_blank.
+[22:04:00	]I love AOE ran 'take' on item 'Blank CID card' (#99)
+[22:04:00	]I love AOE has gained a 'Blank CID card' #99.
+[22:04:03	]I love AOE ran 'CreateIDSelf' on item 'Identity Card Creation Device' (#98)
+[22:04:08	]I love AOE ran 'CreateIDSelf' on item 'Identity Card Creation Device' (#98)
+[22:04:19	]Tony The Tiger created the character 'S10:SCN-2'
+[22:04:19	]Tony The Tiger loaded the character 'S10:SCN-2'
+[22:04:23	]S10:SCN-2 used command '/Datafile AOE'.
+[22:04:34	]Tony The Tiger (STEAM_0:0:49210697) deleted character 'I love AOE'
+[22:05:05	]Tony The Tiger created the character 'I love AOE'
+[22:05:05	]Tony The Tiger loaded the character 'I love AOE'
+[22:05:05	]I love AOE has gained a 'Vortigaunt Hooks' #100.
+[22:05:05	]I love AOE has gained a 'Vortigaunt Shackles' #101.
+[22:05:05	]I love AOE has gained a 'Vortigaunt Collar' #102.
+[22:05:31	]I love AOE used command '/SetDatafilePoints AOE 40'.
+[22:05:36	]Tony The Tiger loaded the character 'S10:SCN-2'
+[22:05:41	]S10:SCN-2 used command '/Datafile !12169'.
+[22:05:54	][CG] Delta created the character 'Harvey Dalloway'
+[22:05:54	][CG] Delta loaded the character 'Harvey Dalloway'
+[22:05:54	]Harvey Dalloway has gained a '#13109's Identity Card' #103.
+[22:05:54	]Harvey Dalloway has gained a 'CWU PDA' #104.
+[22:05:54	]Harvey Dalloway has gained a 'CWU Member Access Keycard' #105.
+[22:05:54	]Harvey Dalloway has gained a 'Blue Jumpsuit' #106.
+[22:05:54	]Harvey Dalloway has gained a 'Black Jumpsuit Trousers' #107.
+[22:05:54	]Harvey Dalloway has gained a 'Brown Leather Boots' #108.
+[22:06:06	][IC] S10:SCN-2: Ok.
+[22:06:14	]S10:SCN-2 used command '/Dispatch do you have a CWU CArd?'.
+[22:06:15	]S10:SCN-2 used command '/Dispatch do you have a CWU CArd?'.
+[22:06:25	]Harvey Dalloway ran 'insert' on item '#13109's Identity Card' (#103)
+[22:06:25	]Harvey Dalloway has lost a '#13109's Identity Card' #103.
+[22:06:26	]Harvey Dalloway ran 'insert' on item 'CWU Member Access Keycard' (#105)
+[22:06:26	]Harvey Dalloway has lost a 'CWU Member Access Keycard' #105.
+[22:06:28	]Harvey Dalloway ran 'take' on item 'CWU Member Access Keycard' (#105)
+[22:06:28	]Harvey Dalloway has gained a 'CWU Member Access Keycard' #105.
+[22:06:28	][IC] S10:SCN-2: Hey.
+[22:06:31	]Harvey Dalloway ran 'insert' on item 'CWU Member Access Keycard' (#105)
+[22:06:31	]Harvey Dalloway has lost a 'CWU Member Access Keycard' #105.
+[22:06:42	][IC] Harvey Dalloway: Yes.
+[22:06:42	][IC] S10:SCN-2: Delta.
+[22:06:44	][IC] S10:SCN-2: Is it binded.
+[22:06:48	]Harvey Dalloway ran 'take' on item 'CWU Member Access Keycard' (#105)
+[22:06:48	]Harvey Dalloway has gained a 'CWU Member Access Keycard' #105.
+[22:06:52	]Harvey Dalloway ran 'take' on item '#13109's Identity Card' (#103)
+[22:06:52	]Harvey Dalloway has gained a '#13109's Identity Card' #103.
+[22:06:55	]Harvey Dalloway ran 'Bind' on item 'CWU Member Access Keycard' (#105)
+[22:06:57	]Harvey Dalloway ran 'insert' on item 'CWU Member Access Keycard' (#105)
+[22:06:57	]Harvey Dalloway has lost a 'CWU Member Access Keycard' #105.
+[22:06:58	]Harvey Dalloway ran 'insert' on item '#13109's Identity Card' (#103)
+[22:06:58	]Harvey Dalloway has lost a '#13109's Identity Card' #103.
+[22:07:00	][IC] Harvey Dalloway: Yes.
+[22:07:06	][IC] S10:SCN-2: Hm.
+[22:07:09	][IC] S10:SCN-2: Did you ahve to bind it beforehand.
+[22:07:13	][IC] S10:SCN-2: Or is it automatically binded.
+[22:07:17	]S10:SCN-2 used command '/Datafile Harvey Dalloway'.
+[22:07:22	][IC] Harvey Dalloway: I had to bind it.
+[22:07:26	][LOOC] S10:SCN-2: wtf
+[22:07:31	]Harvey Dalloway ran 'take' on item 'CWU Member Access Keycard' (#105)
+[22:07:31	]Harvey Dalloway has gained a 'CWU Member Access Keycard' #105.
+[22:07:32	]S10:SCN-2 is admin-searching Harvey Dalloway's inventory.
+[22:07:32	]S10:SCN-2 has used a context menu option with the name: ixviewinventory
+[22:07:33	]Harvey Dalloway ran 'take' on item '#13109's Identity Card' (#103)
+[22:07:33	]Harvey Dalloway has gained a '#13109's Identity Card' #103.
+[22:07:36	]S10:SCN-2 has closed Harvey Dalloway's inventory.
+[22:07:38	][IC] S10:SCN-2: Let me try.
+[22:08:06	]Tony The Tiger created the character 'Varos Atkins but female'
+[22:08:06	]Tony The Tiger loaded the character 'Varos Atkins but female'
+[22:08:06	]Varos Atkins but female has gained a '#13782's Identity Card' #109.
+[22:08:06	]Varos Atkins but female has gained a 'CWU PDA' #110.
+[22:08:06	]Varos Atkins but female has gained a 'CWU Member Access Keycard' #111.
+[22:08:15	][IC] Varos Atkins but female: That is interesting.
+[22:08:21	][IC] Harvey Dalloway: Not bound?
+[22:08:25	]Varos Atkins but female has spawned a cwu_card.
+[22:08:28	]Varos Atkins but female ran 'take' on item 'CWU Member Access Keycard' (#112)
+[22:08:28	]Varos Atkins but female has gained a 'CWU Member Access Keycard' #112.
+[22:08:32	]Varos Atkins but female ran 'Bind' on item 'CWU Member Access Keycard' (#112)
+[22:08:38	][IC] Varos Atkins but female: Ok.
+[22:08:40	][IC] Varos Atkins but female: Works now.
+[22:09:07	]Varos Atkins but female used command '/CharGiveFlag varos petrnccvvPETRNCCVVaa'.
+[22:09:22	]Varos Atkins but female used command '/CharGiveFlag varos UFLM'.
+[22:09:32	][IC] Varos Atkins but female: IM GONNa give u vort whitelist.
+[22:09:40	][IC] Harvey Dalloway: Right, what will that do?
+[22:09:42	][IC] Varos Atkins but female: Make a enslaved vort.
+[22:09:48	][IC] Varos Atkins but female: Testing vort compatability.
+[22:09:51	][CG] Delta has unloaded their "Harvey Dalloway" character.
+[22:09:56	]Varos Atkins but female used command '/PlyWhitelist delta vort'.
+[22:10:05	]Varos Atkins but female ran 'SetFaction' on item 'CWU Member Access Keycard' (#112)
+[22:10:05	][CG] Delta (STEAM_0:1:114447691) has disconnected.
+[22:10:07	]Varos Atkins but female ran 'insert' on item 'CWU Member Access Keycard' (#112)
+[22:10:07	]Varos Atkins but female has lost a 'CWU Member Access Keycard' #112.
+[22:10:08	]Varos Atkins but female ran 'insert' on item '#13782's Identity Card' (#109)
+[22:10:08	]Varos Atkins but female has lost a '#13782's Identity Card' #109.
+[22:11:10	]Varos Atkins but female used command '/PlyWhitelist varos protect'.
+[22:11:27	]Tony The Tiger created the character 'C17:RCT.YELLO-94'
+[22:11:27	]Varos Atkins but female has gained level 5 in the Guns skill.
+[22:11:27	]Varos Atkins but female has gained level 10 in the Speed skill.
+[22:11:27	]Tony The Tiger loaded the character 'C17:RCT.YELLO-94'
+[22:11:27	]C17:RCT.YELLO-94 has gained a '#14457's Identity Card' #113.
+[22:11:27	]C17:RCT.YELLO-94 has gained a 'Combine PDA' #114.
+[22:11:27	]C17:RCT.YELLO-94 has gained a 'CP Uniform' #115.
+[22:11:27	]C17:RCT.YELLO-94 has gained a 'CP Mask' #116.
+[22:11:27	]C17:RCT.YELLO-94 has gained a 'Handheld Radio' #117.
+[22:11:27	]C17:RCT.YELLO-94 has gained a 'Small Bag' #118.
+[22:11:27	]C17:RCT.YELLO-94 has gained a 'Large Bag' #119.
+[22:11:36	][CG] Delta has connected.
+[22:11:39	]C17:RCT.YELLO-94 has spawned a uniform_ofc.
+[22:11:41	]C17:RCT.YELLO-94 has spawned a mask_com.
+[22:11:43	]C17:RCT.YELLO-94 ran 'take' on item 'Advanced CP Mask' (#121)
+[22:11:43	]C17:RCT.YELLO-94 has gained a 'Advanced CP Mask' #121.
+[22:11:46	]C17:RCT.YELLO-94 ran 'take' on item 'CP Captain Uniform' (#120)
+[22:11:46	]C17:RCT.YELLO-94 has gained a 'CP Captain Uniform' #120.
+[22:13:00	]C17:RCT.YELLO-94 used command '/CharGiveFlag C17 UFLM'.
+[22:13:08	]C17:RCT.YELLO-94 used command '/CharGiveFlag C17 petrnccvvPETRNCCVVaa'.
+[22:13:24	]C17:RCT.YELLO-94 used command '/CharGiveFlag C17 Qj'.
+[22:13:33	]C17:RCT.YELLO-94 ran 'drop' on item 'CP Uniform' (#115)
+[22:13:33	]C17:RCT.YELLO-94 has lost a 'CP Uniform' #115.
+[22:13:34	]C17:RCT.YELLO-94 ran 'Equip' on item 'Combine PDA' (#114)
+[22:13:35	]C17:RCT.YELLO-94 ran 'drop' on item 'CP Mask' (#116)
+[22:13:35	]C17:RCT.YELLO-94 has lost a 'CP Mask' #116.
+[22:13:41	]C17:RCT.YELLO-94 ran 'drop' on item 'Handheld Radio' (#117)
+[22:13:41	]C17:RCT.YELLO-94 has lost a 'Handheld Radio' #117.
+[22:13:43	]C17:RCT.YELLO-94 has used a context menu option with the name: remove
+[22:13:44	]C17:RCT.YELLO-94 has used a context menu option with the name: remove
+[22:13:46	]C17:RCT.YELLO-94 has used a context menu option with the name: remove
+[22:13:52	][CG] Delta created the character 'Ji'Bakoor'
+[22:13:52	][CG] Delta loaded the character 'Ji'Bakoor'
+[22:13:52	]Ji'Bakoor has gained a '#15134's Identity Card' #122.
+[22:13:52	]Ji'Bakoor has gained a 'Vortigaunt Brown Trousers' #123.
+[22:13:55	]C17:RCT.YELLO-94 used command '/CharSetName 17'.
+[22:14:03	]C24:CpT.YELLO-94 used command '/CharSetName C17:RCT.YELLO-94 C24:CpT.YELLO-94'.
+[22:14:05	][OOC] Ji'Bakoor: shit I chose the wrong background
+[22:14:13	][OOC] C24:CpT.YELLO-94: retard lol
+[22:14:17	][OOC] C24:CpT.YELLO-94: i can set it
+[22:14:20	][OOC] Ji'Bakoor: I chose collaborator like a moron
+[22:14:24	][IC] C24:CpT.YELLO-94: <:: Actually. ::>
+[22:14:25	][IC] C24:CpT.YELLO-94: <:: That works. ::>
+[22:14:29	]C24:CpT.YELLO-94 is admin-searching Ji'Bakoor's inventory.
+[22:14:29	]C24:CpT.YELLO-94 has used a context menu option with the name: ixviewinventory
+[22:14:34	]C24:CpT.YELLO-94 has closed Ji'Bakoor's inventory.
+[22:14:38	][IC] C24:CpT.YELLO-94: <:: You have CID, yes? ::>
+[22:14:43	]C24:CpT.YELLO-94 has spawned a cwu_card.
+[22:14:48	][IC] C24:CpT.YELLO-94: <:: Take this. ::>
+[22:14:48	]Ji'Bakoor ran 'take' on item 'CWU Member Access Keycard' (#124)
+[22:14:48	]Ji'Bakoor has gained a 'CWU Member Access Keycard' #124.
+[22:14:49	][IC] C24:CpT.YELLO-94: <:: Bind it. ::>
+[22:14:53	]Ji'Bakoor ran 'Bind' on item 'CWU Member Access Keycard' (#124)
+[22:14:56	][IC] C24:CpT.YELLO-94: <:: Interact with that door. ::>
+[22:15:01	][IC] C24:CpT.YELLO-94: <:: Lock it. ::>
+[22:15:06	][IC] C24:CpT.YELLO-94: <:: Okay. ::>
+[22:15:08	][IC] C24:CpT.YELLO-94: <:: Try to turn this on. ::>
+[22:15:16	][IC] C24:CpT.YELLO-94: <:: Insert your cards. ::>
+[22:15:18	]Ji'Bakoor ran 'insert' on item 'CWU Member Access Keycard' (#124)
+[22:15:18	]Ji'Bakoor has lost a 'CWU Member Access Keycard' #124.
+[22:15:19	]Ji'Bakoor ran 'insert' on item '#15134's Identity Card' (#122)
+[22:15:19	]Ji'Bakoor has lost a '#15134's Identity Card' #122.
+[22:15:23	][IC] Ji'Bakoor: Works.
+[22:15:26	][IC] C24:CpT.YELLO-94: <:: Hmph. ::>
+[22:15:31	][IC] C24:CpT.YELLO-94: <:: Ok log off of that. ::>
+[22:15:35	]Ji'Bakoor used command '/Broadcast Test'.
+[22:15:41	]Ji'Bakoor ran 'take' on item '#15134's Identity Card' (#122)
+[22:15:41	]Ji'Bakoor has gained a '#15134's Identity Card' #122.
+[22:15:43	]Ji'Bakoor ran 'take' on item 'CWU Member Access Keycard' (#124)
+[22:15:43	]Ji'Bakoor has gained a 'CWU Member Access Keycard' #124.
+[22:15:45	][IC] C24:CpT.YELLO-94: <:: Hop on your CWU. ::>
+[22:15:48	][CG] Delta has unloaded their "Ji'Bakoor" character.
+[22:15:53	][CG] Delta loaded the character 'Harvey Dalloway'
+[22:15:59	][IC] C24:CpT.YELLO-94: <:: Access the terminal. ::>
+[22:16:05	][IC] Harvey Dalloway: Same one?
+[22:16:08	][IC] C24:CpT.YELLO-94: <:: Yes. ::>
+[22:16:11	]Harvey Dalloway ran 'insert' on item '#13109's Identity Card' (#103)
+[22:16:11	]Harvey Dalloway has lost a '#13109's Identity Card' #103.
+[22:16:12	]Harvey Dalloway ran 'insert' on item 'CWU Member Access Keycard' (#105)
+[22:16:12	]Harvey Dalloway has lost a 'CWU Member Access Keycard' #105.
+[22:16:23	][IC] C24:CpT.YELLO-94: <:: Why the fuck was I getting a dispatch alert before. ::>
+[22:16:30	][IC] Harvey Dalloway: What?
+[22:16:43	][IC] C24:CpT.YELLO-94: <:: I got an alert "Unauthorized CWU Terminal Access". ::>
+[22:16:46	][IC] Harvey Dalloway: When did it happen?
+[22:16:48	][IC] C24:CpT.YELLO-94: <:: Did u do that on your Civi. ::>
+[22:16:51	][IC] Harvey Dalloway: Probably.
+[22:16:54	][IC] C24:CpT.YELLO-94: <:: Okay. ::>
+[22:16:56	][IC] C24:CpT.YELLO-94: <:: Take your shit out. ::>
+[22:16:59	][IC] C24:CpT.YELLO-94: <:: Go on your civilian. ::>
+[22:17:00	]Harvey Dalloway ran 'take' on item '#13109's Identity Card' (#103)
+[22:17:00	]Harvey Dalloway has gained a '#13109's Identity Card' #103.
+[22:17:01	]Harvey Dalloway ran 'take' on item 'CWU Member Access Keycard' (#105)
+[22:17:01	]Harvey Dalloway has gained a 'CWU Member Access Keycard' #105.
+[22:17:03	][CG] Delta has unloaded their "Harvey Dalloway" character.
+[22:17:07	][CG] Delta loaded the character 'Harvey Dalloway'
+[22:17:12	][IC] Harvey Dalloway: Citizen.
+[22:17:15	][IC] C24:CpT.YELLO-94: <:: Ok. ::>
+[22:17:17	][IC] C24:CpT.YELLO-94: <:: Try to access it. ::>
+[22:17:22	]Harvey Dalloway ran 'insert' on item '#10437's Identity Card' (#94)
+[22:17:22	]Harvey Dalloway has lost a '#10437's Identity Card' #94.
+[22:17:28	][IC] Harvey Dalloway: No cwu card.
+[22:17:35	][IC] C24:CpT.YELLO-94: <:: Press the buttons. ::>
+[22:17:42	][IC] Harvey Dalloway: Huh.
+[22:17:47	][IC] Harvey Dalloway: Wait what.
+[22:17:51	][IC] C24:CpT.YELLO-94: <:: Press city stock. ::>
+[22:17:52	][IC] C24:CpT.YELLO-94: <:: And shit. ::>
+[22:17:56	][IC] C24:CpT.YELLO-94: <:: As if you were trying to cycle out. ::>
+[22:18:07	][IC] C24:CpT.YELLO-94: <:: Im switching to dispatch. ::>
+[22:18:09	][IC] C24:CpT.YELLO-94: <:: Remove your card. ::>
+[22:18:14	]Tony The Tiger loaded the character 'S10:SCN-2'
+[22:18:15	]Harvey Dalloway ran 'take' on item '#10437's Identity Card' (#94)
+[22:18:15	]Harvey Dalloway has gained a '#10437's Identity Card' #94.
+[22:18:20	][IC] Harvey Dalloway: Shift was blanked out.
+[22:18:33	][IC] S10:SCN-2: As it should.
+[22:18:40	][IC] Harvey Dalloway: But all the rest were visible despite me having no cwu card.
+[22:18:45	][IC] S10:SCN-2: What.
+[22:18:49	][IC] S10:SCN-2: Let me try this.
+[22:18:51	][IC] Harvey Dalloway: Only the cid was in.
+[22:18:56	]Tony The Tiger loaded the character 'GOI Testing Dude'
+[22:19:04	][IC] GOI Testing Dude: Turn it off.
+[22:19:13	]GOI Testing Dude has spawned a mask_cp.
+[22:19:15	]GOI Testing Dude has spawned a uniform_ofc.
+[22:19:17	][IC] GOI Testing Dude: WEar this.
+[22:19:19	]Harvey Dalloway ran 'take' on item 'CP Captain Uniform' (#126)
+[22:19:19	]Harvey Dalloway has gained a 'CP Captain Uniform' #126.
+[22:19:21	]Harvey Dalloway ran 'take' on item 'CP Mask' (#125)
+[22:19:21	]Harvey Dalloway has gained a 'CP Mask' #125.
+[22:19:36	][IC] Harvey Dalloway: <:: Right. ::>
+[22:19:39	][IC] GOI Testing Dude: Ok.
+[22:19:40	][IC] GOI Testing Dude: Let ssee.
+[22:19:56	]GOI Testing Dude ran 'insert' on item '#03897's Identity Card' (#6)
+[22:19:56	]GOI Testing Dude has lost a '#03897's Identity Card' #6.
+[22:20:06	][IC] GOI Testing Dude: Fym you could see the other poages.
+[22:20:10	][IC] GOI Testing Dude: I cant access anything.
+[22:20:13	]GOI Testing Dude ran 'SetAccessLevel' on item 'CWU Member Access Keycard' (#74)
+[22:20:14	][IC] Harvey Dalloway: <:: It just randomly let me. ::>
+[22:20:20	]GOI Testing Dude ran 'take' on item '#03897's Identity Card' (#6)
+[22:20:20	]GOI Testing Dude has gained a '#03897's Identity Card' #6.
+[22:20:22	]GOI Testing Dude ran 'Bind' on item 'CWU Management Access Keycard' (#74)
+[22:20:26	]GOI Testing Dude ran 'insert' on item '#03897's Identity Card' (#6)
+[22:20:26	]GOI Testing Dude has lost a '#03897's Identity Card' #6.
+[22:20:28	]GOI Testing Dude ran 'insert' on item 'CWU Management Access Keycard' (#74)
+[22:20:28	]GOI Testing Dude has lost a 'CWU Management Access Keycard' #74.
+[22:20:33	][IC] Harvey Dalloway: <:: Want me to try again, might have been a fluke. ::>
+[22:20:36	]GOI Testing Dude ran 'take' on item 'CWU Management Access Keycard' (#74)
+[22:20:36	]GOI Testing Dude has gained a 'CWU Management Access Keycard' #74.
+[22:20:40	]GOI Testing Dude ran 'take' on item '#03897's Identity Card' (#6)
+[22:20:40	]GOI Testing Dude has gained a '#03897's Identity Card' #6.
+[22:20:43	][IC] GOI Testing Dude: Try it.
+[22:20:47	][IC] GOI Testing Dude: Take your suit off.
+[22:20:49	]Harvey Dalloway ran 'insert' on item '#10437's Identity Card' (#94)
+[22:20:49	]Harvey Dalloway has lost a '#10437's Identity Card' #94.
+[22:21:00	]Harvey Dalloway ran 'take' on item '#10437's Identity Card' (#94)
+[22:21:00	]Harvey Dalloway has gained a '#10437's Identity Card' #94.
+[22:21:02	]Harvey Dalloway ran 'insert' on item '#10437's Identity Card' (#94)
+[22:21:02	]Harvey Dalloway has lost a '#10437's Identity Card' #94.
+[22:21:06	]Harvey Dalloway ran 'take' on item '#10437's Identity Card' (#94)
+[22:21:06	]Harvey Dalloway has gained a '#10437's Identity Card' #94.
+[22:21:09	]Harvey Dalloway ran 'insert' on item '#10437's Identity Card' (#94)
+[22:21:09	]Harvey Dalloway has lost a '#10437's Identity Card' #94.
+[22:21:18	][IC] Harvey Dalloway: Alright, looks like it was a fluke.
+[22:21:22	][IC] GOI Testing Dude: Okay!
+[22:21:24	][IC] GOI Testing Dude: Ill report that.
+[22:21:24	]Harvey Dalloway ran 'take' on item '#10437's Identity Card' (#94)
+[22:21:24	]Harvey Dalloway has gained a '#10437's Identity Card' #94.
+[22:21:27	][IC] GOI Testing Dude: Let me switch to cWU.
+[22:21:37	][IC] GOI Testing Dude: Make a slave vort.
+[22:21:39	][IC] GOI Testing Dude: Enslaved.
+[22:21:41	][CG] Delta has unloaded their "Harvey Dalloway" character.
+[22:21:48	]Tony The Tiger loaded the character 'Varos Atkins but female'
+[22:21:59	]Varos Atkins but female has spawned a id_card_blank.
+[22:22:00	]Varos Atkins but female has spawned a id_card_creator.
+[22:22:01	]Varos Atkins but female ran 'take' on item 'Identity Card Creation Device' (#128)
+[22:22:01	]Varos Atkins but female has gained a 'Identity Card Creation Device' #128.
+[22:22:02	]Varos Atkins but female ran 'take' on item 'Blank CID card' (#127)
+[22:22:02	]Varos Atkins but female has gained a 'Blank CID card' #127.
+[22:22:05	]Varos Atkins but female ran 'CreateIDSelf' on item 'Identity Card Creation Device' (#128)
+[22:22:07	]Varos Atkins but female ran 'CreateIDSelf' on item 'Identity Card Creation Device' (#128)
+[22:22:11	]Varos Atkins but female used command '/CreateCid varos'.
+[22:22:11	]Varos Atkins but female has gained a '#13782's Identity Card' #129.
+[22:22:17	]Varos Atkins but female ran 'insert' on item 'CWU Member Access Keycard' (#111)
+[22:22:17	]Varos Atkins but female has lost a 'CWU Member Access Keycard' #111.
+[22:22:22	]Varos Atkins but female ran 'insert' on item '#13782's Identity Card' (#129)
+[22:22:22	]Varos Atkins but female has lost a '#13782's Identity Card' #129.
+[22:22:34	]Varos Atkins but female ran 'take' on item 'CWU Member Access Keycard' (#111)
+[22:22:34	]Varos Atkins but female has gained a 'CWU Member Access Keycard' #111.
+[22:22:36	]Varos Atkins but female ran 'take' on item '#13782's Identity Card' (#129)
+[22:22:36	]Varos Atkins but female has gained a '#13782's Identity Card' #129.
+[22:22:42	]Varos Atkins but female has spawned a levothyroxine.
+[22:22:46	]Varos Atkins but female ran 'take' on item 'Levothyroxine (thyroid)' (#130)
+[22:22:46	]Varos Atkins but female has gained a 'Levothyroxine (thyroid)' #130.
+[22:22:47	][CG] Delta created the character 'Jigofuckyourself'
+[22:22:47	][CG] Delta loaded the character 'Jigofuckyourself'
+[22:22:47	]Jigofuckyourself has gained a 'Vortigaunt Hooks' #131.
+[22:22:47	]Jigofuckyourself has gained a 'Vortigaunt Shackles' #132.
+[22:22:47	]Jigofuckyourself has gained a 'Vortigaunt Collar' #133.
+[22:22:51	]Varos Atkins but female ran 'use' on item 'Levothyroxine (thyroid)' (#130)
+[22:22:51	]Varos Atkins but female was disinfected by Varos Atkins but female for 30 seconds.
+[22:22:51	]Varos Atkins but female was bandaged by Varos Atkins but female for 5 HP.
+[22:22:51	]Varos Atkins but female has gained a level 1 short boost in Intelligence.
+[22:22:53	]Varos Atkins but female is fully healed.
+[22:22:57	][IC] Varos Atkins but female: Okay!
+[22:22:57	][IC] Jigofuckyourself: Broom broom.
+[22:22:59	][IC] Varos Atkins but female: Ifigured out why.
+[22:23:03	][IC] Varos Atkins but female: Go to your civi char.
+[22:23:10	]Varos Atkins but female has spawned a cwu_card.
+[22:23:18	]Tony The Tiger loaded the character 'C24:CpT.YELLO-94'
+[22:23:22	]Jigofuckyourself ran 'take' on item 'CWU Member Access Keycard' (#134)
+[22:23:22	]Jigofuckyourself has gained a 'CWU Member Access Keycard' #134.
+[22:23:22	][IC] C24:CpT.YELLO-94: <:: Go to your civilian. ::>
+[22:23:26	]Jigofuckyourself ran 'drop' on item 'CWU Member Access Keycard' (#134)
+[22:23:26	]Jigofuckyourself has lost a 'CWU Member Access Keycard' #134.
+[22:23:28	][CG] Delta has unloaded their "Jigofuckyourself" character.
+[22:23:32	][CG] Delta loaded the character 'Harvey Dalloway'
+[22:23:36	][IC] C24:CpT.YELLO-94: <:: Okay. ::>
+[22:23:38	][IC] C24:CpT.YELLO-94: <:: Take your suit off. ::>
+[22:23:42	][IC] C24:CpT.YELLO-94: <:: Pick that card up but dont bind it. ::>
+[22:23:48	][IC] C24:CpT.YELLO-94: <:: Insery your CID and that Unbinded card. ::>
+[22:24:06	]C24:CpT.YELLO-94 used command '/ID'.
+[22:24:11	][IC] Harvey Dalloway: Can you spawn a new one? It wont let me since I changed characters.
+[22:24:14	]Harvey Dalloway destroyed a 'CWU Member Access Keycard' #134.
+[22:24:16	]C24:CpT.YELLO-94 has spawned a cwu_card.
+[22:24:18	]Harvey Dalloway ran 'take' on item 'CWU Member Access Keycard' (#135)
+[22:24:18	]Harvey Dalloway has gained a 'CWU Member Access Keycard' #135.
+[22:24:19	][IC] C24:CpT.YELLO-94: <:: What is your CId. ::>
+[22:24:25	][IC] C24:CpT.YELLO-94: <:: / id for me. ::>
+[22:24:25	]Harvey Dalloway used command '/ID'.
+[22:24:28	][IC] C24:CpT.YELLO-94: <:: Okay. ::>
+[22:24:30	][IC] C24:CpT.YELLO-94: <:: DO your first test. ::>
+[22:24:35	]Harvey Dalloway ran 'insert' on item 'CWU Member Access Keycard' (#135)
+[22:24:35	]Harvey Dalloway has lost a 'CWU Member Access Keycard' #135.
+[22:24:37	]Harvey Dalloway ran 'insert' on item '#10437's Identity Card' (#94)
+[22:24:37	]Harvey Dalloway has lost a '#10437's Identity Card' #94.
+[22:24:40	][IC] C24:CpT.YELLO-94: <:: Ok. ::>
+[22:24:42	][IC] Harvey Dalloway: Unbound.
+[22:24:42	][IC] C24:CpT.YELLO-94: <:: Basically. ::>
+[22:24:48	][IC] Harvey Dalloway: Auth error.
+[22:24:49	][IC] C24:CpT.YELLO-94: <:: IF you insert an unbinded card. ::>
+[22:24:53	][IC] C24:CpT.YELLO-94: <:: I get an alert. ::>
+[22:25:10	][IC] C24:CpT.YELLO-94: <:: No waypoint. ::>
+[22:25:13	][IC] C24:CpT.YELLO-94: <:: Just a visor alert. ::>
+[22:25:17	][IC] Harvey Dalloway: Right.
+[22:25:20	][IC] C24:CpT.YELLO-94: <:: Okay. ::>
+[22:25:23	][IC] C24:CpT.YELLO-94: <:: Remove your card. ::>
+[22:25:25	][IC] Harvey Dalloway: So can I even bind it while on civ?
+[22:25:28	]Harvey Dalloway ran 'take' on item 'CWU Member Access Keycard' (#135)
+[22:25:28	]Harvey Dalloway has gained a 'CWU Member Access Keycard' #135.
+[22:25:30	]C24:CpT.YELLO-94 used command '/Datafile 10437'.
+[22:25:32	]Harvey Dalloway ran 'take' on item '#10437's Identity Card' (#94)
+[22:25:32	]Harvey Dalloway has gained a '#10437's Identity Card' #94.
+[22:25:41	][IC] C24:CpT.YELLO-94: <:: Insert your Citizen id and the BINDED card. ::>
+[22:25:46	]Harvey Dalloway ran 'Bind' on item 'CWU Member Access Keycard' (#135)
+[22:25:52	]Harvey Dalloway ran 'insert' on item '#10437's Identity Card' (#94)
+[22:25:52	]Harvey Dalloway has lost a '#10437's Identity Card' #94.
+[22:25:52	]Harvey Dalloway ran 'insert' on item 'CWU Member Access Keycard' (#135)
+[22:25:52	]Harvey Dalloway has lost a 'CWU Member Access Keycard' #135.
+[22:26:04	][IC] C24:CpT.YELLO-94: <:: Interesting. ::>
+[22:26:05	][IC] Harvey Dalloway: Anything?
+[22:26:09	][IC] C24:CpT.YELLO-94: <:: If you are BOL. ::>
+[22:26:12	][IC] C24:CpT.YELLO-94: <:: Or AC. ::>
+[22:26:14	][IC] C24:CpT.YELLO-94: <:: It wont ping. ::>
+[22:26:20	][IC] C24:CpT.YELLO-94: <:: Remove your CID and interact with this. ::>
+[22:26:24	]Harvey Dalloway ran 'take' on item '#10437's Identity Card' (#94)
+[22:26:24	]Harvey Dalloway has gained a '#10437's Identity Card' #94.
+[22:26:26	]Harvey Dalloway ran 'take' on item 'CWU Member Access Keycard' (#135)
+[22:26:26	]Harvey Dalloway has gained a 'CWU Member Access Keycard' #135.
+[22:26:32	]C24:CpT.YELLO-94 entered observer.
+[22:26:34	]C24:CpT.YELLO-94 exited observer at their location.
+[22:26:35	][IC] Harvey Dalloway: No info.
+[22:26:37	][IC] C24:CpT.YELLO-94: <:: Oh i know why. ::>
+[22:26:49	][IC] C24:CpT.YELLO-94: <:: The zone isnt set. ::>
+[22:26:57	][IC] Harvey Dalloway: What like a city zone?
+[22:27:02	][IC] C24:CpT.YELLO-94: <:: Hold on. ::>
+[22:27:04	][IC] C24:CpT.YELLO-94: <:: Need to piss. ::>
+[22:27:08	][IC] Harvey Dalloway: Gonna shit.
+[22:28:18	][IC] C24:CpT.YELLO-94: <:: UGh. ::>
+[22:29:06	][IC] C24:CpT.YELLO-94: <:: Ok idk. ::>
+[22:29:09	][IC] C24:CpT.YELLO-94: <:: If pings will go off. ::>
+[22:29:14	][IC] C24:CpT.YELLO-94: <:: If i recall correctly. ::>
+[22:29:18	][IC] C24:CpT.YELLO-94: <:: IF you are BOL/AC. ::>
+[22:29:27	][IC] C24:CpT.YELLO-94: <:: It will ping at the terminal, no? ::>
+[22:32:02	]Harvey Dalloway has gone afk.
+[22:32:49	]C24:CpT.YELLO-94 has spawned a tacticalrifle.
+[22:33:02	]C24:CpT.YELLO-94 has given himself a datadisc.
+[22:33:02	]C24:CpT.YELLO-94 has gained a 'Data-Disc' #137.
+[22:33:16	]C24:CpT.YELLO-94 ran 'drop' on item 'Data-Disc' (#137)
+[22:33:16	]C24:CpT.YELLO-94 has lost a 'Data-Disc' #137.
+[22:33:39	]C24:CpT.YELLO-94 has spawned a sg556.
+[22:33:50	]C24:CpT.YELLO-94 has spawned a fiveseven.
+[22:33:58	]C24:CpT.YELLO-94 has spawned a usp.
+[22:34:06	]C24:CpT.YELLO-94 has spawned a oldrevolver.
+[22:34:16	]C24:CpT.YELLO-94 has spawned a manhack.
+[22:34:43	]C24:CpT.YELLO-94 has spawned a musicradio5.
+[22:34:50	]C24:CpT.YELLO-94 ran 'Deploy' on item 'Western Radio' (#143)
+[22:35:06	]C24:CpT.YELLO-94 has spawned a musicradio4.
+[22:35:07	]C24:CpT.YELLO-94 ran 'Deploy' on item 'Synth Radio' (#144)
+[22:35:08	]C24:CpT.YELLO-94 has spawned a musicradio2.
+[22:35:09	]C24:CpT.YELLO-94 ran 'Deploy' on item 'Vintage Radio' (#145)
+[22:35:12	]C24:CpT.YELLO-94 ran 'Deploy' on item 'Vintage Radio' (#145)
+[22:35:32	]Harvey Dalloway is no longer afk. Total time spent AFK: 505
+[22:35:38	][IC] C24:CpT.YELLO-94: <:: Ok well. ::>
+[22:35:40	][IC] C24:CpT.YELLO-94: <:: The. ::>
+[22:35:44	][IC] C24:CpT.YELLO-94: <:: Zones arent set up. ::>
+[22:35:48	][IC] C24:CpT.YELLO-94: <:: So when you are BOL/AC. ::>
+[22:35:54	][IC] C24:CpT.YELLO-94: <:: It will put a waypoint down. ::>
+[22:35:56	][IC] C24:CpT.YELLO-94: <:: Unlless. ::>
+[22:36:02	][IC] Harvey Dalloway: So that's gonna be difficult to check unless we're on main, right?
+[22:36:05	]C24:CpT.YELLO-94 has spawned a 'Entity [347][ix_console]'.
+[22:36:10	][IC] C24:CpT.YELLO-94: <:: Yeah. ::>
+[22:36:20	]C24:CpT.YELLO-94 has spawned a 'NPC [351][npc_combine_camera]'.
+[22:36:25	][IC] C24:CpT.YELLO-94: <:: Go to that camera. ::>
+[22:36:31	][IC] C24:CpT.YELLO-94: <:: Yeah. ::>
+[22:36:35	][IC] C24:CpT.YELLO-94: <:: The zones arent set up. ::>
+[22:36:38	][IC] C24:CpT.YELLO-94: <:: I assume the pings. ::>
+[22:36:39	][IC] C24:CpT.YELLO-94: <:: Will do it. ::>
+[22:36:42	][IC] C24:CpT.YELLO-94: <:: What doesnt make sense is. ::>
+[22:36:49	][IC] C24:CpT.YELLO-94: <:: If I inserted your BOL ID. ::>
+[22:36:52	][IC] C24:CpT.YELLO-94: <:: It doesnt ping. ::>
+[22:36:57	][IC] C24:CpT.YELLO-94: <:: Okay back to the terminal. ::>
+[22:37:17	][IC] C24:CpT.YELLO-94: <:: Turn the GOI terminal on, and try to withdraw a weapon. ::>
+[22:37:32	]Harvey Dalloway ran 'insert' on item 'CWU Member Access Keycard' (#135)
+[22:37:32	]Harvey Dalloway has lost a 'CWU Member Access Keycard' #135.
+[22:37:32	]Harvey Dalloway ran 'insert' on item '#10437's Identity Card' (#94)
+[22:37:32	]Harvey Dalloway has lost a '#10437's Identity Card' #94.
+[22:37:49	][IC] C24:CpT.YELLO-94: <:: Check city stock. ::>
+[22:37:51	][CITY FUND] Harvey Dalloway took tacticalrifle from city stock.
+[22:37:59	][IC] C24:CpT.YELLO-94: <:: Pick ur cid up silly. ::>
+[22:38:01	]Harvey Dalloway ran 'take' on item '#10437's Identity Card' (#94)
+[22:38:01	]Harvey Dalloway has gained a '#10437's Identity Card' #94.
+[22:38:06	][IC] Harvey Dalloway: FUCK.
+[22:38:08	][IC] C24:CpT.YELLO-94: <:: Withdraw the weapon. ::>
+[22:38:12	][IC] Harvey Dalloway: Invalid CID.
+[22:38:12	][IC] C24:CpT.YELLO-94: <:: What. ::>
+[22:38:18	][IC] C24:CpT.YELLO-94: <:: Its not invalid. ::>
+[22:38:19	][IC] C24:CpT.YELLO-94: <:: Ur BOL. ::>
+[22:38:26	]C24:CpT.YELLO-94 used command '/Datafile harveyt'.
+[22:38:28	][IC] Harvey Dalloway: Can you take it off?
+[22:38:35	][IC] C24:CpT.YELLO-94: <:: Do it now. ::>
+[22:38:42	][IC] C24:CpT.YELLO-94: <:: Go on! ::>
+[22:38:44	][PICKUP DISPENSER] [CG] Delta ( Harvey Dalloway ) picked up an item from the pickup dispenser.
+[22:38:44	]Harvey Dalloway has gained a 'OSITR' #146.
+[22:38:50	][IC] C24:CpT.YELLO-94: <:: Did u pick the weapon up. ::>
+[22:38:59	][IC] Harvey Dalloway: I got the OSITR or whatever it's called.
+[22:39:02	][IC] C24:CpT.YELLO-94: <:: Hmph. ::>
+[22:39:05	][IC] C24:CpT.YELLO-94: <:: Interesting. ::>
+[22:39:12	]C24:CpT.YELLO-94 has spawned a stunstick.
+[22:39:18	]Harvey Dalloway ran 'drop' on item 'OSITR' (#146)
+[22:39:18	]Harvey Dalloway has lost a 'OSITR' #146.
+[22:39:18	][IC] C24:CpT.YELLO-94: <:: Withdraw that. ::>
+[22:39:22	]Harvey Dalloway ran 'insert' on item '#10437's Identity Card' (#94)
+[22:39:22	]Harvey Dalloway has lost a '#10437's Identity Card' #94.
+[22:39:24	][IC] C24:CpT.YELLO-94: <:: Withdraw the baton. ::>
+[22:39:37	][IC] Harvey Dalloway: Not allowed.
+[22:39:41	][IC] C24:CpT.YELLO-94: <:: Why not. ::>
+[22:39:49	][IC] Harvey Dalloway: You are not allowed to take this item out of stock.
+[22:39:52	][IC] C24:CpT.YELLO-94: <:: Hmph. ::>
+[22:39:53	][IC] C24:CpT.YELLO-94: <:: Ok. ::>
+[22:39:55	][IC] Harvey Dalloway: That's what it says'.
+[22:39:55	][IC] C24:CpT.YELLO-94: <:: Its not coded it. ::>
+[22:39:59	][IC] C24:CpT.YELLO-94: <:: Remove your card and hadn it over. ::>
+[22:40:02	][IC] C24:CpT.YELLO-94: <:: CWU. ::>
+[22:40:03	]Harvey Dalloway ran 'take' on item '#10437's Identity Card' (#94)
+[22:40:03	]Harvey Dalloway has gained a '#10437's Identity Card' #94.
+[22:40:05	][IC] C24:CpT.YELLO-94: <:: And CID. ::>
+[22:40:05	]Harvey Dalloway ran 'insert' on item '#10437's Identity Card' (#94)
+[22:40:05	]Harvey Dalloway has lost a '#10437's Identity Card' #94.
+[22:40:07	]Harvey Dalloway ran 'take' on item 'CWU Member Access Keycard' (#135)
+[22:40:07	]Harvey Dalloway has gained a 'CWU Member Access Keycard' #135.
+[22:40:09	]Harvey Dalloway ran 'take' on item '#10437's Identity Card' (#94)
+[22:40:09	]Harvey Dalloway has gained a '#10437's Identity Card' #94.
+[22:40:11	][IC] C24:CpT.YELLO-94: <:: Bind that other card too. ::>
+[22:40:12	]Harvey Dalloway ran 'drop' on item 'CWU Member Access Keycard' (#135)
+[22:40:12	]Harvey Dalloway has lost a 'CWU Member Access Keycard' #135.
+[22:40:15	]C24:CpT.YELLO-94 ran 'take' on item 'CWU Member Access Keycard' (#135)
+[22:40:15	]C24:CpT.YELLO-94 has gained a 'CWU Member Access Keycard' #135.
+[22:40:17	]C24:CpT.YELLO-94 ran 'SetFaction' on item 'CWU Member Access Keycard' (#135)
+[22:40:19	]C24:CpT.YELLO-94 ran 'SetAccessLevel' on item 'CWU Member Access Keycard' (#135)
+[22:40:20	]C24:CpT.YELLO-94 ran 'drop' on item 'CWU Management Access Keycard' (#135)
+[22:40:20	]C24:CpT.YELLO-94 has lost a 'CWU Management Access Keycard' #135.
+[22:40:24	][IC] C24:CpT.YELLO-94: <:: Give me your CID. ::>
+[22:40:24	]Harvey Dalloway ran 'take' on item 'CWU Management Access Keycard' (#135)
+[22:40:24	]Harvey Dalloway has gained a 'CWU Management Access Keycard' #135.
+[22:40:28	]Harvey Dalloway ran 'drop' on item '#10437's Identity Card' (#94)
+[22:40:28	]Harvey Dalloway has lost a '#10437's Identity Card' #94.
+[22:40:30	]C24:CpT.YELLO-94 ran 'take' on item '#10437's Identity Card' (#94)
+[22:40:30	]C24:CpT.YELLO-94 has gained a '#10437's Identity Card' #94.
+[22:40:33	]C24:CpT.YELLO-94 ran 'SetCredits' on item '#10437's Identity Card' (#94)
+[22:40:33	][IC] Harvey Dalloway: Can't bind without a cid,.
+[22:40:37	]Tony The Tiger has set card #94's credits to 10000000.
+[22:40:39	]C24:CpT.YELLO-94 ran 'drop' on item '#10437's Identity Card' (#94)
+[22:40:39	]C24:CpT.YELLO-94 has lost a '#10437's Identity Card' #94.
+[22:40:43	][IC] C24:CpT.YELLO-94: <:: I gave you money. ::>
+[22:40:43	]Harvey Dalloway ran 'take' on item '#10437's Identity Card' (#94)
+[22:40:43	]Harvey Dalloway has gained a '#10437's Identity Card' #94.
+[22:40:44	][IC] C24:CpT.YELLO-94: <:: Ok. ::>
+[22:40:48	][IC] C24:CpT.YELLO-94: <:: Insert your CID and MANAGEMENT card. ::>
+[22:40:54	]Harvey Dalloway ran 'insert' on item 'CWU Management Access Keycard' (#135)
+[22:40:54	]Harvey Dalloway has lost a 'CWU Management Access Keycard' #135.
+[22:40:54	][IC] C24:CpT.YELLO-94: <:: Try to withdraw the baton. ::>
+[22:40:55	]Harvey Dalloway ran 'insert' on item '#10437's Identity Card' (#94)
+[22:40:55	]Harvey Dalloway has lost a '#10437's Identity Card' #94.
+[22:41:14	][IC] Harvey Dalloway: Still not allowed.
+[22:41:19	][IC] C24:CpT.YELLO-94: <:: Let me try something. ::>
+[22:41:21	][IC] C24:CpT.YELLO-94: <:: Move out of the way. ::>
+[22:41:30	][IC] Harvey Dalloway: Remove cards?
+[22:41:34	]C24:CpT.YELLO-94 has given himself a cwu_card.
+[22:41:34	]C24:CpT.YELLO-94 has gained a 'CWU Member Access Keycard' #148.
+[22:41:37	]C24:CpT.YELLO-94 ran 'Bind' on item 'CWU Member Access Keycard' (#148)
+[22:41:40	][IC] C24:CpT.YELLO-94: <:: No. ::>
+[22:41:46	][IC] C24:CpT.YELLO-94: <:: Put money in the CWU budget. ::>
+[22:41:49	]C24:CpT.YELLO-94 ran 'SetAccessLevel' on item 'CWU Member Access Keycard' (#148)
+[22:41:53	]C24:CpT.YELLO-94 ran 'SetFaction' on item 'CWU Management Access Keycard' (#148)
+[22:41:54	]C24:CpT.YELLO-94 ran 'SetCredits' on item '#14457's Identity Card' (#113)
+[22:41:56	]Tony The Tiger has set card #113's credits to 1000000000000.
+[22:42:10	][CITY FUND] Harvey Dalloway has deposited 100 credits from/in Civil Workers Union's budget.
+[22:42:13	][IC] Harvey Dalloway: Done.
+[22:42:34	][IC] Harvey Dalloway: Though it's already at 10k, I don't know if it changed.
+[22:42:38	][CITY FUND] Harvey Dalloway has deposited 1100 credits from/in Civil Workers Union's budget.
+[22:42:54	][IC] Harvey Dalloway: Number isn't changing.
+[22:42:58	][CITY FUND] Harvey Dalloway has deposited 1100 credits from/in Civil Workers Union's budget.
+[22:43:01	][IC] C24:CpT.YELLO-94: <:: Move! ::>
+[22:43:04	][IC] C24:CpT.YELLO-94: <:: Take ur cards out. ::>
+[22:43:09	]Harvey Dalloway ran 'take' on item '#10437's Identity Card' (#94)
+[22:43:09	]Harvey Dalloway has gained a '#10437's Identity Card' #94.
+[22:43:10	]Harvey Dalloway ran 'take' on item 'CWU Management Access Keycard' (#135)
+[22:43:10	]Harvey Dalloway has gained a 'CWU Management Access Keycard' #135.
+[22:43:13	]C24:CpT.YELLO-94 ran 'insert' on item 'CWU Management Access Keycard' (#148)
+[22:43:13	]C24:CpT.YELLO-94 has lost a 'CWU Management Access Keycard' #148.
+[22:43:14	]C24:CpT.YELLO-94 ran 'insert' on item '#14457's Identity Card' (#113)
+[22:43:14	]C24:CpT.YELLO-94 has lost a '#14457's Identity Card' #113.
+[22:43:45	][CITY FUND] C24:CpT.YELLO-94 has changed Civil Workers Union's budget from 10000 to 10000 credits.
+[22:43:51	][CITY FUND] C24:CpT.YELLO-94 has deposited 10000 credits.
+[22:43:57	][IC] C24:CpT.YELLO-94: <:: Ok. ::>
+[22:44:15	][IC] C24:CpT.YELLO-94: <:: CWU has 10 grand right now. ::>
+[22:44:18	][IC] C24:CpT.YELLO-94: <:: Im gonna remove this. ::>
+[22:44:25	][IC] C24:CpT.YELLO-94: <:: Insert your WORKER level CWU Card and CID. ::>
+[22:44:29	][IC] C24:CpT.YELLO-94: <:: Try to withdraw 1k. ::>
+[22:44:31	]C24:CpT.YELLO-94 ran 'take' on item 'CWU Management Access Keycard' (#148)
+[22:44:31	]C24:CpT.YELLO-94 has gained a 'CWU Management Access Keycard' #148.
+[22:44:33	]C24:CpT.YELLO-94 ran 'take' on item '#14457's Identity Card' (#113)
+[22:44:33	]C24:CpT.YELLO-94 has gained a '#14457's Identity Card' #113.
+[22:44:46	][IC] Harvey Dalloway: I got the manager card still, need me to hand it over?
+[22:45:01	][IC] C24:CpT.YELLO-94: <:: Dont you have two. ::>
+[22:45:03	][IC] Harvey Dalloway: No.
+[22:45:07	]C24:CpT.YELLO-94 has spawned a cwu_card.
+[22:45:08	][IC] C24:CpT.YELLO-94: <:: Take that. ::>
+[22:45:09	][IC] C24:CpT.YELLO-94: <:: Bind it. ::>
+[22:45:11	]Harvey Dalloway ran 'take' on item 'CWU Member Access Keycard' (#149)
+[22:45:11	]Harvey Dalloway has gained a 'CWU Member Access Keycard' #149.
+[22:45:13	]Harvey Dalloway ran 'Bind' on item 'CWU Member Access Keycard' (#149)
+[22:45:24	]Harvey Dalloway ran 'insert' on item '#10437's Identity Card' (#94)
+[22:45:24	]Harvey Dalloway has lost a '#10437's Identity Card' #94.
+[22:45:27	]Harvey Dalloway ran 'insert' on item 'CWU Member Access Keycard' (#149)
+[22:45:27	]Harvey Dalloway has lost a 'CWU Member Access Keycard' #149.
+[22:45:43	][IC] Harvey Dalloway: CWU budget is still 10k....
+[22:45:58	][IC] C24:CpT.YELLO-94: <:: Ok. ::>
+[22:46:00	][IC] C24:CpT.YELLO-94: <:: Withdraw. ::>
+[22:46:03	][IC] C24:CpT.YELLO-94: <:: You need to hit withdraw frist. ::>
+[22:46:10	][IC] Harvey Dalloway: No access.
+[22:46:13	][IC] C24:CpT.YELLO-94: <:: As a worker. ::>
+[22:46:14	][IC] C24:CpT.YELLO-94: <:: Right. ::>
+[22:46:16	][IC] Harvey Dalloway: Yes.
+[22:46:19	][IC] C24:CpT.YELLO-94: <:: Switch to your manager card. ::>
+[22:46:31	]Harvey Dalloway ran 'take' on item 'CWU Member Access Keycard' (#149)
+[22:46:31	]Harvey Dalloway has gained a 'CWU Member Access Keycard' #149.
+[22:46:34	]Harvey Dalloway ran 'insert' on item 'CWU Management Access Keycard' (#135)
+[22:46:34	]Harvey Dalloway has lost a 'CWU Management Access Keycard' #135.
+[22:46:48	][CITY FUND] Harvey Dalloway has withdrew 2000 credits from/in Civil Workers Union's budget.
+[22:46:53	][IC] Harvey Dalloway: There, it went down.
+[22:47:00	][IC] C24:CpT.YELLO-94: <:: Withdraw again. ::>
+[22:47:04	][IC] Harvey Dalloway: So 10k seems to be a hard limit.
+[22:47:06	][CITY FUND] Harvey Dalloway has withdrew 2000 credits from/in Civil Workers Union's budget.
+[22:47:07	][IC] C24:CpT.YELLO-94: <:: Yeah. ::>
+[22:47:11	][IC] C24:CpT.YELLO-94: <:: Withdraw. ::>
+[22:47:13	][IC] C24:CpT.YELLO-94: <:: Again. ::>
+[22:47:15	][CITY FUND] Harvey Dalloway has withdrew 2000 credits from/in Civil Workers Union's budget.
+[22:47:16	][CITY FUND] Harvey Dalloway has withdrew 2000 credits from/in Civil Workers Union's budget.
+[22:47:17	][CITY FUND] Harvey Dalloway has withdrew 2000 credits from/in Civil Workers Union's budget.
+[22:47:18	][IC] C24:CpT.YELLO-94: <:: Tell me when its at 5 k. ::>
+[22:47:18	][IC] Harvey Dalloway: 0.
+[22:47:22	][IC] C24:CpT.YELLO-94: <:: Ok. ::>
+[22:47:23	][IC] C24:CpT.YELLO-94: <:: So. ::>
+[22:47:26	][IC] C24:CpT.YELLO-94: <:: Deposit 10k. ::>
+[22:47:28	][CITY FUND] Harvey Dalloway has deposited 5000 credits from/in Civil Workers Union's budget.
+[22:47:29	][CITY FUND] Harvey Dalloway has deposited 5000 credits from/in Civil Workers Union's budget.
+[22:47:43	][IC] Harvey Dalloway: Now it's back at 10k.
+[22:47:45	][CITY FUND] Harvey Dalloway has deposited 5000 credits from/in Civil Workers Union's budget.
+[22:47:48	][IC] Harvey Dalloway: No higher.
+[22:47:58	][IC] C24:CpT.YELLO-94: <:: What hm. ::>
+[22:48:02	][IC] C24:CpT.YELLO-94: <:: Take ur cards out. ::>
+[22:48:07	]C24:CpT.YELLO-94 ran 'SetCredits' on item '#14457's Identity Card' (#113)
+[22:48:07	]Harvey Dalloway ran 'take' on item 'CWU Management Access Keycard' (#135)
+[22:48:07	]Harvey Dalloway has gained a 'CWU Management Access Keycard' #135.
+[22:48:08	]Tony The Tiger has set card #113's credits to 999999990000.
+[22:48:09	]Harvey Dalloway ran 'take' on item '#10437's Identity Card' (#94)
+[22:48:09	]Harvey Dalloway has gained a '#10437's Identity Card' #94.
+[22:48:13	][IC] C24:CpT.YELLO-94: <:: Turn it off. ::>
+[22:48:21	]C24:CpT.YELLO-94 ran 'insert' on item '#14457's Identity Card' (#113)
+[22:48:21	]C24:CpT.YELLO-94 has lost a '#14457's Identity Card' #113.
+[22:48:23	]C24:CpT.YELLO-94 ran 'insert' on item 'CWU Management Access Keycard' (#148)
+[22:48:23	]C24:CpT.YELLO-94 has lost a 'CWU Management Access Keycard' #148.
+[22:48:39	][CITY FUND] C24:CpT.YELLO-94 has withdrew 1000 credits.
+[22:48:46	][IC] C24:CpT.YELLO-94: <:: You are doing something wrong. ::>
+[22:48:49	][IC] Harvey Dalloway: In the terminal it can't go higher than 10k but idk if it affects my balance when I try to go higher.
+[22:48:57	][IC] C24:CpT.YELLO-94: <:: Are you depositing or withdrawing. ::>
+[22:49:09	][IC] C24:CpT.YELLO-94: <:: Cause when i withdrew. ::>
+[22:49:14	][IC] C24:CpT.YELLO-94: <:: It sent a visor message. ::>
+[22:49:15	][IC] C24:CpT.YELLO-94: <:: To me. ::>
+[22:49:44	][IC] Harvey Dalloway: I deposited and withdrew when you said to.
+[22:49:48	][IC] C24:CpT.YELLO-94: <:: Ok. ::>
+[22:49:50	][IC] C24:CpT.YELLO-94: <:: Thats weird. ::>
+[22:49:51	][IC] C24:CpT.YELLO-94: <:: Hmph. ::>
+[22:50:01	][CITY FUND] C24:CpT.YELLO-94 took stunstick from city stock.
+[22:50:12	]C24:CpT.YELLO-94 has spawned a stunstick.
+[22:50:13	]C24:CpT.YELLO-94 has spawned a stunstick.
+[22:50:13	]C24:CpT.YELLO-94 has spawned a stunstick.
+[22:50:13	]C24:CpT.YELLO-94 has spawned a stunstick.
+[22:50:23	][IC] C24:CpT.YELLO-94: <:: Oh. ::>
+[22:50:26	]C24:CpT.YELLO-94 used command '/CreateCid cpt'.
+[22:50:26	]C24:CpT.YELLO-94 has gained a '#14457's Identity Card' #154.
+[22:50:47	]C24:CpT.YELLO-94 ran 'insert' on item '#14457's Identity Card' (#154)
+[22:50:47	]C24:CpT.YELLO-94 has lost a '#14457's Identity Card' #154.
+[22:51:06	][IC] C24:CpT.YELLO-94: <:: LOL. ::>
+[22:51:10	]C24:CpT.YELLO-94 ran 'take' on item '#14457's Identity Card' (#154)
+[22:51:10	]C24:CpT.YELLO-94 has gained a '#14457's Identity Card' #154.
+[22:51:12	]C24:CpT.YELLO-94 ran 'take' on item 'CWU Management Access Keycard' (#148)
+[22:51:12	]C24:CpT.YELLO-94 has gained a 'CWU Management Access Keycard' #148.
+[22:51:17	]C24:CpT.YELLO-94 ran 'insert' on item '#14457's Identity Card' (#154)
+[22:51:17	]C24:CpT.YELLO-94 has lost a '#14457's Identity Card' #154.
+[22:51:18	]C24:CpT.YELLO-94 ran 'insert' on item 'CWU Management Access Keycard' (#148)
+[22:51:18	]C24:CpT.YELLO-94 has lost a 'CWU Management Access Keycard' #148.
+[22:51:34	][IC] C24:CpT.YELLO-94: <:: Okay. ::>
+[22:51:36	][IC] C24:CpT.YELLO-94: <:: Last thing. ::>
+[22:51:44	][IC] C24:CpT.YELLO-94: <:: Clock in fools. ::>
+[22:52:38	]C24:CpT.YELLO-94 used command '/CreateCid yello'.
+[22:52:39	]C24:CpT.YELLO-94 has gained a '#14457's Identity Card' #155.
+[22:52:41	][IC] C24:CpT.YELLO-94: <:: Take your stuff. ::>
+[22:52:47	][PICKUP DISPENSER] Tony The Tiger ( C24:CpT.YELLO-94 ) picked up an item from the pickup dispenser.
+[22:52:47	]C24:CpT.YELLO-94 has gained a '15 Credits Coupon' #156.
+[22:52:53	][IC] C24:CpT.YELLO-94: <:: Did you get a coupon. ::>
+[22:52:56	][PICKUP DISPENSER] [CG] Delta ( Harvey Dalloway ) picked up an item from the pickup dispenser.
+[22:52:56	]Harvey Dalloway has gained a '30 Credits Coupon' #157.
+[22:53:00	][IC] Harvey Dalloway: Uh huh.
+[22:53:03	][IC] C24:CpT.YELLO-94: <:: How much. ::>
+[22:53:10	][IC] Harvey Dalloway: 30 credits.
+[22:53:16	][IC] C24:CpT.YELLO-94: <:: How much is basic 15 right. ::>
+[22:53:20	][IC] Harvey Dalloway: Should be.
+[22:53:21	][IC] C24:CpT.YELLO-94: <:: Okay that works. ::>
+[22:53:26	][IC] C24:CpT.YELLO-94: <:: Go to your salve vort. ::>
+[22:53:29	][IC] C24:CpT.YELLO-94: <:: I will wrap this up quick. ::>
+[22:53:30	][CG] Delta has unloaded their "Harvey Dalloway" character.
+[22:53:35	][CG] Delta loaded the character 'Jigofuckyourself'
+[22:53:46	][IC] C24:CpT.YELLO-94: <:: What is ur collar id. ::>
+[22:53:50	]Jigofuckyourself used command '/ID'.
+[22:53:50	]C24:CpT.YELLO-94 has spawned a cwu_card.
+[22:53:54	][IC] C24:CpT.YELLO-94: <:: Pick the card up. ::>
+[22:53:57	]Jigofuckyourself ran 'take' on item 'CWU Member Access Keycard' (#158)
+[22:53:57	]Jigofuckyourself has gained a 'CWU Member Access Keycard' #158.
+[22:54:00	][IC] C24:CpT.YELLO-94: <:: Can you bind it. ::>
+[22:54:04	][IC] Jigofuckyourself: Nope.
+[22:54:06	][IC] C24:CpT.YELLO-94: <:: Ok good. ::>
+[22:54:08	][IC] Jigofuckyourself: No cid to bind to.
+[22:54:10	][IC] C24:CpT.YELLO-94: <:: So. ::>
+[22:54:13	][IC] C24:CpT.YELLO-94: <:: We cant even take vorts. ::>
+[22:54:20	][IC] C24:CpT.YELLO-94: <:: Untill they have CID. ::>
+[22:54:32	][IC] C24:CpT.YELLO-94: <:: Your thoughts. ::>
+[22:54:48	][IC] Jigofuckyourself: Depends on what the threshold for getting a cid for them is.
+[22:54:52	][IC] C24:CpT.YELLO-94: <:: Well. ::>
+[22:54:55	][IC] C24:CpT.YELLO-94: <:: You need to be collab vort. ::>
+[22:55:01	]C24:CpT.YELLO-94 used command '/Datafile 15813'.
+[22:55:10	][IC] C24:CpT.YELLO-94: <:: What is ur collar id. ::>
+[22:55:14	][IC] C24:CpT.YELLO-94: <:: Hover over ur collar. ::>
+[22:55:22	][IC] Jigofuckyourself: 15424.
+[22:55:24	]C24:CpT.YELLO-94 used command '/Datafile !15424'.
+[22:55:27	]C24:CpT.YELLO-94 entered observer.
+[22:55:30	][IC] C24:CpT.YELLO-94: <:: Ok. ::>
+[22:55:34	][IC] Jigofuckyourself: Wait I got a collab vort though.
+[22:55:35	]C24:CpT.YELLO-94 used command '/ViewInfo jigo'.
+[22:55:39	][IC] C24:CpT.YELLO-94: <:: Dont do anything. ::>
+[22:55:43	]C24:CpT.YELLO-94 used command '/Datafile 15813'.
+[22:55:45	][IC] Jigofuckyourself: Hands free.
+[22:55:46	]C24:CpT.YELLO-94 exited observer at their location.
+[22:55:49	]C24:CpT.YELLO-94 used command '/Datafile !15813'.
+[22:55:54	]C24:CpT.YELLO-94 used command '/Datafile !15424'.
+[22:56:00	]C24:CpT.YELLO-94 used command '/ViewInfo jigo'.
+[22:56:12	]C24:CpT.YELLO-94 used command '/Datafile !15424'.
+[22:56:26	]C24:CpT.YELLO-94 used command '/SetDatafilePoints jigo 40'.
+[22:56:28	]C24:CpT.YELLO-94 used command '/Datafile !15424'.
+[22:56:57	]C24:CpT.YELLO-94 used command '/CreateCid jigo'.
+[22:56:57	]Jigofuckyourself has gained a '#15813's Identity Card' #159.
+[22:57:00	]C24:CpT.YELLO-94 used command '/Datafile !15424'.
+[22:57:06	][IC] C24:CpT.YELLO-94: <:: Okay. ::>
+[22:57:07	][IC] C24:CpT.YELLO-94: <:: So basically. ::>
+[22:57:13	][IC] C24:CpT.YELLO-94: <:: Vorts at certain rank get a CID. ::>
+[22:57:16	][IC] C24:CpT.YELLO-94: <:: Anyway. ::>
+[22:57:20	][IC] C24:CpT.YELLO-94: <:: Testing is done. ::>
+[22:57:22	][IC] C24:CpT.YELLO-94: <:: Thanks. ::>
+[22:57:28	][IC] Jigofuckyourself: No problem.
+[22:57:37	][IC] Jigofuckyourself: At least we'll have things fixed for launch.
+[22:57:43	][IC] Jigofuckyourself: Also, No Bullets?
+[22:57:46	]C24:CpT.YELLO-94 has spawned a 'Entity [333][item_ammo_ar2_altfire]'.
+[22:57:48	]Jigofuckyourself was knocked unconscious and is bleeding out.
+[22:57:53	]C24:CpT.YELLO-94 entered observer.
+[22:57:53	]C24:CpT.YELLO-94 exited observer at their location.
+[22:58:02	]C24:CpT.YELLO-94 ran SAM command 'hp' with arguments: 'jigo' '100'
+[22:58:05	]Jigofuckyourself is no longer unconscious from critical wounds.
+[22:58:08	]C24:CpT.YELLO-94 entered observer.
+[22:58:09	]C24:CpT.YELLO-94 exited observer at their location.
+[22:58:10	]C24:CpT.YELLO-94 entered observer.
+[22:58:10	]C24:CpT.YELLO-94 exited observer at their location.
+[22:58:20	]C24:CpT.YELLO-94 has spawned a bullets_pistol.
+[22:58:35	][IC] C24:CpT.YELLO-94: <:: We test. ::>
+[22:58:41	][IC] C24:CpT.YELLO-94: <:: Nope. ::>
+[22:58:44	][IC] C24:CpT.YELLO-94: <:: Ok we dont. ::>
+[22:58:47	]Tony The Tiger (STEAM_0:0:49210697) has disconnected.
+[22:58:52	][CG] Delta (STEAM_0:1:114447691) has disconnected.

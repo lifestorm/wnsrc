@@ -1,0 +1,272 @@
+[17:35:04	]thc ;) has connected.
+[17:35:55	]thc ;) loaded the character 'C24:i3.ROLLER-7'
+[17:36:00	]C24:i3.ROLLER-7 is fully healed.
+[17:36:57	]C24:i3.ROLLER-7 entered observer.
+[17:36:58	]C24:i3.ROLLER-7 exited observer.
+[17:37:01	]C24:i3.ROLLER-7 used command '/PrintStaffList'.
+[17:37:02	]C24:i3.ROLLER-7 entered observer.
+[17:37:04	]C24:i3.ROLLER-7 exited observer.
+[17:37:31	]thc ;) loaded the character 'Jan Tibijsky'
+[17:37:52	]thc ;) loaded the character 'Jimmy Bandarsky'
+[17:37:56	]Jimmy Bandarsky is fully healed.
+[17:38:10	]thc ;) loaded the character 'C24:i3.ROLLER-7'
+[17:39:20	]C24:i3.ROLLER-7 used command '/PlyWhitelist roll civ'.
+[17:39:30	]thc ;) (STEAM_0:1:709534478) deleted character 'C24:i3.ROLLER-7'
+[17:39:32	]thc ;) (STEAM_0:1:709534478) deleted character 'Jan Tibijsky'
+[17:39:33	]thc ;) (STEAM_0:1:709534478) deleted character 'Headcrab BOB'
+[17:39:35	]thc ;) (STEAM_0:1:709534478) deleted character 'Larry Bird'
+[17:39:57	]thc ;) (STEAM_0:1:709534478) has disconnected.
+[17:41:46	]thc ;) has connected.
+[17:43:38	]thc ;) created the character 'ffffffffff'
+[17:43:38	]thc ;) loaded the character 'ffffffffff'
+[17:43:38	]ffffffffff has gained a '#96116's Identity Card' #1648165.
+[17:43:38	]ffffffffff has gained a 'Combine PDA' #1648166.
+[17:44:18	]ffffffffff ran 'Equip' on item 'Combine PDA' (#1648166)
+[17:44:39	]ffffffffff used command '/AddPBX 1'.
+[17:45:31	]ffffffffff used command '/clothingcreator'.
+[17:46:30	]ffffffffff used command '/UnitRadio fff test'.
+[17:46:56	]ffffffffff used command '/Event ss'.
+[17:47:02	]ffffffffff used command '/LocalEvent sss'.
+[17:47:04	]ffffffffff used command '/LocalEvent sss 22'.
+[17:48:21	]ffffffffff used command '/phonesay sss'.
+[17:48:49	]ffffffffff used command '/PlyWhitelist ffff vort'.
+[17:48:57	]thc ;) (STEAM_0:1:709534478) deleted character 'ffffffffff'
+[17:50:58	]thc ;) created the character 'aaaaa'
+[17:50:58	]thc ;) loaded the character 'aaaaa'
+[17:50:58	]aaaaa has gained a '#30980's Identity Card' #1648167.
+[17:50:59	]aaaaa has gained a 'Vortigaunt Hooks' #1648168.
+[17:50:59	]aaaaa has gained a 'Vortigaunt Shackles' #1648169.
+[17:50:59	]aaaaa has gained a 'Vortigaunt Collar' #1648170.
+[17:54:04	]aaaaa used command '/vortessence'.
+[17:54:41	]aaaaa used command '/PlyNotify aaa test'.
+[17:55:49	]aaaaa used command '/PlyWhitelist aaa overwatch'.
+[17:55:52	]aaaaa used command '/PlyWhitelist aaa overwatch st'.
+[17:55:56	]aaaaa used command '/PlyWhitelist aaa overwatch standard'.
+[17:55:59	]aaaaa used command '/PlyWhitelist aaa osf'.
+[17:56:05	]aaaaa used command '/PlyWhitelist aaa Overwatch Standard'.
+[17:56:07	]aaaaa used command '/PlyWhitelist aaa Overwatch Standard Forces'.
+[17:56:14	]aaaaa used command '/PlyWhitelist aaa krot'.
+[17:56:19	]aaaaa used command '/PlyWhitelist aaa mili'.
+[17:56:28	]aaaaa used command '/PlyWhitelist aaa overwatch t'.
+[17:56:32	]aaaaa used command '/PlyWhitelist aaa trans'.
+[17:56:56	]thc ;) (STEAM_0:1:709534478) deleted character 'Jimmy Bandarsky'
+[17:57:02	]thc ;) (STEAM_0:1:709534478) deleted character 'aaaaa'
+[17:58:25	]thc ;) created the character 'S10/OWS.GHOST-53'
+[17:58:25	]thc ;) has gained level 40 in the Guns skill.
+[17:58:25	]thc ;) has gained level 40 in the Speed skill.
+[17:58:26	]thc ;) loaded the character 'S10/OWS.GHOST-53'
+[17:58:26	]S10/OWS.GHOST-53 has gained a 'Small Bag' #1648171.
+[17:58:26	]S10/OWS.GHOST-53 has gained a 'Large Bag' #1648172.
+[17:58:26	]S10/OWS.GHOST-53 has gained a 'Pulse-Rifle Energy' #1648173.
+[17:58:26	]S10/OWS.GHOST-53 has gained a 'Pulse-Rifle Energy' #1648174.
+[17:58:26	]S10/OWS.GHOST-53 has gained a 'Pulse-Rifle Energy' #1648175.
+[17:58:26	]S10/OWS.GHOST-53 has gained a 'Pulse-Rifle Energy' #1648176.
+[17:58:26	]S10/OWS.GHOST-53 has gained a 'Combine PDA' #1648177.
+[17:58:26	]S10/OWS.GHOST-53 has gained a 'OTA Uniform' #1648178.
+[17:58:26	]S10/OWS.GHOST-53 has gained a 'OTA Mask' #1648179.
+[18:03:55	]S10/OWS.GHOST-53 has gone afk.
+[18:05:00	]S10/OWS.GHOST-53 is no longer afk. Total time spent AFK: 360
+[18:05:26	]S10/OWS.GHOST-53 ran 'Equip' on item 'Combine PDA' (#1648177)
+[18:05:46	]S10/OWS.GHOST-53 ran 'use' on item 'Pulse-Rifle Energy' (#1648173)
+[18:05:47	]S10/OWS.GHOST-53 ran 'use' on item 'Pulse-Rifle Energy' (#1648174)
+[18:05:47	]S10/OWS.GHOST-53 ran 'use' on item 'Pulse-Rifle Energy' (#1648175)
+[18:05:48	]S10/OWS.GHOST-53 ran 'use' on item 'Pulse-Rifle Energy' (#1648176)
+[18:06:10	]S10/OWS.GHOST-53 used the 'OTA Armory' vendor.
+[18:06:14	]S10/OWS.GHOST-53 has gained 0 chips.
+[18:06:14	]S10/OWS.GHOST-53 has gained a 'Overwatch Assault Shotgun' #1648180.
+[18:06:26	]S10/OWS.GHOST-53 used the 'OTA Armory' vendor.
+[18:06:33	]S10/OWS.GHOST-53 used the 'OTA Armory' vendor.
+[18:06:40	]S10/OWS.GHOST-53 has gained 0 chips.
+[18:06:40	]S10/OWS.GHOST-53 has gained a 'AR-2' #1648181.
+[18:06:43	]S10/OWS.GHOST-53 has gained 0 chips.
+[18:06:43	]S10/OWS.GHOST-53 has gained a 'OSITR' #1648182.
+[18:06:44	]S10/OWS.GHOST-53 has gained 0 chips.
+[18:06:44	]S10/OWS.GHOST-53 has gained a 'OSPR2A-EXP' #1648183.
+[18:06:49	]S10/OWS.GHOST-53 ran 'Equip' on item 'AR-2' (#1648181)
+[18:07:12	]S10/OWS.GHOST-53 has given himself a magazine_pulse_30rnd.
+[18:07:12	]S10/OWS.GHOST-53 has gained a '30rnd Pulse-magazine' #1648184.
+[18:07:13	]S10/OWS.GHOST-53 has given himself a magazine_pulse_30rnd.
+[18:07:13	]S10/OWS.GHOST-53 has gained a '30rnd Pulse-magazine' #1648185.
+[18:07:19	]S10/OWS.GHOST-53 has given himself a ar2ammo.
+[18:07:19	]S10/OWS.GHOST-53 has gained a 'Pulse-Rifle Energy' #1648186.
+[18:07:20	]S10/OWS.GHOST-53 has given himself a ar2ammo.
+[18:07:20	]S10/OWS.GHOST-53 has gained a 'Pulse-Rifle Energy' #1648187.
+[18:07:36	]S10/OWS.GHOST-53 has given himself a bullets_pulse.
+[18:07:36	]S10/OWS.GHOST-53 has gained a 'Pulse Rifle Bullets' #1648188.
+[18:07:37	]S10/OWS.GHOST-53 has given himself a bullets_pulse.
+[18:07:37	]S10/OWS.GHOST-53 has gained a 'Pulse Rifle Bullets' #1648189.
+[18:07:40	]S10/OWS.GHOST-53 ran 'combine' on item '30rnd Pulse-magazine' (#1648185)
+[18:07:40	]S10/OWS.GHOST-53 ran 'combine' on item '30rnd Pulse-magazine' (#1648184)
+[18:07:42	]S10/OWS.GHOST-53 has lost a '30rnd Pulse-magazine' #1648185.
+[18:07:52	]S10/OWS.GHOST-53 has gained a '30rnd Pulse-magazine' #1648185.
+[18:07:52	]S10/OWS.GHOST-53 has lost a '30rnd Pulse-magazine' #1648184.
+[18:08:13	]S10/OWS.GHOST-53 ran 'drop' on item 'Pulse-Rifle Energy' (#1648187)
+[18:08:13	]S10/OWS.GHOST-53 has lost a 'Pulse-Rifle Energy' #1648187.
+[18:08:14	]S10/OWS.GHOST-53 ran 'drop' on item 'Overwatch Assault Shotgun' (#1648180)
+[18:08:14	]S10/OWS.GHOST-53 has lost a 'Overwatch Assault Shotgun' #1648180.
+[18:08:14	]S10/OWS.GHOST-53 ran 'drop' on item 'Pulse-Rifle Energy' (#1648186)
+[18:08:14	]S10/OWS.GHOST-53 has lost a 'Pulse-Rifle Energy' #1648186.
+[18:08:15	]S10/OWS.GHOST-53 ran 'drop' on item '30rnd Pulse-magazine' (#1648185)
+[18:08:15	]S10/OWS.GHOST-53 has lost a '30rnd Pulse-magazine' #1648185.
+[18:08:15	]S10/OWS.GHOST-53 ran 'drop' on item 'AR-2' (#1648181)
+[18:08:15	]S10/OWS.GHOST-53 has lost a 'AR-2' #1648181.
+[18:08:15	]S10/OWS.GHOST-53 ran 'drop' on item 'OSITR' (#1648182)
+[18:08:15	]S10/OWS.GHOST-53 has lost a 'OSITR' #1648182.
+[18:08:16	]S10/OWS.GHOST-53 ran 'drop' on item 'OSPR2A-EXP' (#1648183)
+[18:08:16	]S10/OWS.GHOST-53 has lost a 'OSPR2A-EXP' #1648183.
+[18:08:40	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows stalker'.
+[18:08:45	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows crema'.
+[18:09:06	]thc ;) created the character 'CMB:STALKER-74'
+[18:09:06	]thc ;) loaded the character 'CMB:STALKER-74'
+[18:11:56	]CMB:STALKER-74 used command '/ToggleRaise'.
+[18:12:11	]CMB:STALKER-74 entered observer.
+[18:12:11	]CMB:STALKER-74 exited observer.
+[18:12:21	]thc ;) (STEAM_0:1:709534478) deleted character 'CMB:STALKER-74'
+[18:12:33	]thc ;) created the character 'C24.CREMATOR:499'
+[18:12:33	]thc ;) loaded the character 'C24.CREMATOR:499'
+[18:13:17	]C24.CREMATOR:499 has taken 0 damage from point_hurt.
+[18:13:17	]C24.CREMATOR:499 has taken 0 damage from point_hurt.
+[18:13:17	]C24.CREMATOR:499 has taken 0 damage from point_hurt.
+[18:13:17	]C24.CREMATOR:499 has taken 0 damage from point_hurt.
+[18:13:18	]C24.CREMATOR:499 has taken 0 damage from point_hurt.
+[18:13:18	]C24.CREMATOR:499 has taken 0 damage from point_hurt.
+[18:13:18	]C24.CREMATOR:499 has taken 0 damage from point_hurt.
+[18:13:18	]C24.CREMATOR:499 has taken 0 damage from point_hurt.
+[18:13:18	]C24.CREMATOR:499 has taken 0 damage from point_hurt.
+[18:13:18	]C24.CREMATOR:499 has taken 0 damage from point_hurt.
+[18:13:18	]C24.CREMATOR:499 has taken 11 damage from env_fire.
+[18:13:21	]C24.CREMATOR:499 entered observer.
+[18:13:24	]C24.CREMATOR:499 exited observer.
+[18:15:41	][IC] C24.CREMATOR:499: S.
+[18:15:50	]C24.CREMATOR:499 used command '/PlyWhitelist crem workers'.
+[18:16:05	]C24.CREMATOR:499 used command '/PlyWhitelist crem event'.
+[18:17:11	]thc ;) created the character 'ssssssssssssssssssssss'
+[18:17:11	]thc ;) loaded the character 'ssssssssssssssssssssss'
+[18:17:11	]ssssssssssssssssssssss has gained a '#69817's Identity Card' #1648190.
+[18:17:11	]ssssssssssssssssssssss has gained a 'CWU PDA' #1648191.
+[18:17:11	]ssssssssssssssssssssss has gained a 'CWU Member Access Keycard' #1648192.
+[18:17:11	]ssssssssssssssssssssss has gained a 'Yellow Worker's Jacket' #1648193.
+[18:17:11	]ssssssssssssssssssssss has gained a 'CWU Radio' #1648194.
+[18:17:11	]ssssssssssssssssssssss has gained a 'Dark Leather Boots' #1648195.
+[18:17:11	]ssssssssssssssssssssss has gained a 'Green Jumpsuit Trousers' #1648196.
+[18:17:11	]ssssssssssssssssssssss has gained a 'Civilian Jumpsuit' #1648197.
+[18:17:32	][IC] ssssssssssssssssssssss: S.
+[18:17:35	]ssssssssssssssssssssss used command '/PlyWhitelist s admin'.
+[18:17:40	]ssssssssssssssssssssss used command '/PlyWhitelist s server'.
+[18:18:12	]thc ;) (STEAM_0:1:709534478) deleted character 'ssssssssssssssssssssss'
+[18:18:15	]thc ;) (STEAM_0:1:709534478) deleted character 'C24.CREMATOR:499'
+[18:18:17	]thc ;) loaded the character 'S10/OWS.GHOST-53'
+[18:19:45	][IC] S10/OWS.GHOST-53: <:: S. ::>
+[18:19:46	]S10/OWS.GHOST-53 entered observer.
+[18:19:47	][IC] S10/OWS.GHOST-53: <:: SSADA. ::>
+[18:19:48	]S10/OWS.GHOST-53 exited observer.
+[18:19:49	][IC] S10/OWS.GHOST-53: <:: D. ::>
+[18:20:00	]S10/OWS.GHOST-53 used command '/PlyWhitelist OWS Q'.
+[18:20:02	]S10/OWS.GHOST-53 used command '/PlyWhitelist OWS w'.
+[18:20:04	]S10/OWS.GHOST-53 used command '/PlyWhitelist OWS e'.
+[18:20:05	]S10/OWS.GHOST-53 used command '/PlyWhitelist OWS r'.
+[18:20:06	]S10/OWS.GHOST-53 used command '/PlyWhitelist OWS t'.
+[18:20:08	]S10/OWS.GHOST-53 used command '/PlyWhitelist OWS y'.
+[18:20:09	]S10/OWS.GHOST-53 used command '/PlyWhitelist OWS u'.
+[18:20:14	]S10/OWS.GHOST-53 used command '/PlyWhitelist OWS i'.
+[18:20:20	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows o'.
+[18:20:23	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows p'.
+[18:20:26	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows a'.
+[18:20:27	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows s'.
+[18:20:28	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows d'.
+[18:20:29	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows f'.
+[18:20:31	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows g'.
+[18:20:33	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows h'.
+[18:20:35	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows j'.
+[18:20:36	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows k'.
+[18:20:38	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows l'.
+[18:20:40	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows z'.
+[18:20:42	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows x'.
+[18:20:43	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows c'.
+[18:20:45	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows v'.
+[18:20:47	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows b'.
+[18:20:49	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows n'.
+[18:20:51	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows m'.
+[18:20:55	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows 2'.
+[18:20:56	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows 1'.
+[18:20:58	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows 0'.
+[18:21:02	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows ^'.
+[18:21:35	]S10/OWS.GHOST-53 used command '/PlyWhitelist ows dire'.
+[18:23:38	]thc ;) created the character 'qqqqqqqqqqqqqq'
+[18:23:38	]thc ;) loaded the character 'qqqqqqqqqqqqqq'
+[18:23:38	]qqqqqqqqqqqqqq has gained a '#04691's Identity Card' #1648198.
+[18:23:50	][IC] qqqqqqqqqqqqqq: S.
+[18:23:57	]qqqqqqqqqqqqqq used command '/PlyTransfer qqq dire'.
+[18:25:42	]qqqqqqqqqqqqqq used command '/PlyWhitelist qq cprd'.
+[18:25:44	]qqqqqqqqqqqqqq used command '/PlyWhitelist qq cp'.
+[18:25:56	]qqqqqqqqqqqqqq used command '/PlyWhitelist qq bure'.
+[18:26:08	]qqqqqqqqqqqqqq used command '/PlyWhitelist qq bureau of co'.
+[18:26:11	]qqqqqqqqqqqqqq used command '/PlyWhitelist qq bureau of en'.
+[18:26:14	]qqqqqqqqqqqqqq used command '/PlyWhitelist qq bureau of enl'.
+[18:26:39	]thc ;) created the character 'xxxxxxxxxxx'
+[18:26:40	]thc ;) loaded the character 'xxxxxxxxxxx'
+[18:26:40	]xxxxxxxxxxx has gained a '#39354's Identity Card' #1648199.
+[18:26:40	]xxxxxxxxxxx has gained a 'Combine PDA' #1648200.
+[18:26:54	]xxxxxxxxxxx ran 'Equip' on item 'Combine PDA' (#1648200)
+[18:27:15	]xxxxxxxxxxx used command '/PlyTransfer x civ'.
+[18:27:52	]xxxxxxxxxxx used command '/PlyWhitelist x bureau of re'.
+[18:27:57	]xxxxxxxxxxx used command '/PlyWhitelist x ministry'.
+[18:28:00	]xxxxxxxxxxx used command '/PlyWhitelist x ministry of e'.
+[18:28:02	]xxxxxxxxxxx used command '/PlyWhitelist x ministry of c'.
+[18:28:16	]xxxxxxxxxxx used command '/PlyWhitelist x department'.
+[18:28:19	]xxxxxxxxxxx used command '/PlyWhitelist x department of bu'.
+[18:28:26	]xxxxxxxxxxx used command '/PlyWhitelist x dob'.
+[18:29:36	]xxxxxxxxxxx used command '/PlyWhitelist x bui'.
+[18:29:38	]xxxxxxxxxxx used command '/PlyWhitelist x bus'.
+[18:29:41	]xxxxxxxxxxx used command '/PlyWhitelist x enl'.
+[18:29:46	]xxxxxxxxxxx used command '/PlyWhitelist x res'.
+[18:29:48	]xxxxxxxxxxx used command '/PlyWhitelist x ca'.
+[18:29:53	]xxxxxxxxxxx used command '/PlyWhitelist x cat'.
+[18:29:59	]thc ;) (STEAM_0:1:709534478) deleted character 'qqqqqqqqqqqqqq'
+[18:30:36	]xxxxxxxxxxx used command '/PlyWhitelist x me'.
+[18:30:39	]xxxxxxxxxxx used command '/PlyWhitelist x med'.
+[18:30:42	]xxxxxxxxxxx used command '/PlyWhitelist x ser'.
+[18:30:46	]xxxxxxxxxxx used command '/PlyWhitelist x tam'.
+[18:30:48	]xxxxxxxxxxx used command '/PlyWhitelist x res'.
+[18:30:52	]xxxxxxxxxxx used command '/PlyWhitelist x gan'.
+[18:30:56	]xxxxxxxxxxx used command '/PlyWhitelist x crim'.
+[18:30:59	]xxxxxxxxxxx used command '/PlyWhitelist x out'.
+[18:31:03	]xxxxxxxxxxx used command '/PlyWhitelist x qe'.
+[18:31:06	]xxxxxxxxxxx used command '/PlyWhitelist x tra'.
+[18:31:10	]xxxxxxxxxxx used command '/PlyWhitelist x n'.
+[18:31:22	]xxxxxxxxxxx used command '/PlyWhitelist x reb'.
+[18:31:33	]xxxxxxxxxxx used command '/PlyWhitelist x zomb'.
+[18:31:36	]xxxxxxxxxxx used command '/PlyWhitelist x zom'.
+[18:31:42	]xxxxxxxxxxx used command '/PlyWhitelist x ant'.
+[18:31:45	]xxxxxxxxxxx used command '/PlyWhitelist x grun'.
+[18:31:47	]xxxxxxxxxxx used command '/PlyWhitelist x grunt'.
+[18:31:50	]xxxxxxxxxxx used command '/PlyWhitelist x alien'.
+[18:31:52	]xxxxxxxxxxx used command '/PlyWhitelist x ali'.
+[18:31:55	]xxxxxxxxxxx used command '/PlyWhitelist x alie'.
+[18:32:14	]xxxxxxxxxxx used command '/PlyWhitelist x de'.
+[18:32:15	]xxxxxxxxxxx used command '/PlyWhitelist x dev'.
+[18:32:26	]xxxxxxxxxxx used command '/PlyWhitelist x osi'.
+[18:32:28	]xxxxxxxxxxx used command '/PlyWhitelist x offi'.
+[18:32:30	]xxxxxxxxxxx used command '/PlyWhitelist x office'.
+[18:32:50	]xxxxxxxxxxx used command '/PlyWhitelist x leg'.
+[18:32:52	]xxxxxxxxxxx used command '/PlyWhitelist x la'.
+[18:32:54	]xxxxxxxxxxx used command '/PlyWhitelist x legis'.
+[18:32:56	]xxxxxxxxxxx used command '/PlyWhitelist x ass'.
+[18:33:02	]xxxxxxxxxxx used command '/PlyWhitelist x comm'.
+[18:33:08	]xxxxxxxxxxx used command '/PlyWhitelist x minis'.
+[18:33:09	]xxxxxxxxxxx used command '/PlyWhitelist x ministr'.
+[18:33:12	]xxxxxxxxxxx used command '/PlyWhitelist x ministry'.
+[18:33:25	]xxxxxxxxxxx used command '/PlyWhitelist x bri'.
+[18:33:27	]xxxxxxxxxxx used command '/PlyWhitelist x borai'.
+[18:34:02	]xxxxxxxxxxx used command '/PlyWhitelist x game'.
+[18:34:04	]xxxxxxxxxxx used command '/PlyWhitelist x gm'.
+[18:34:32	]xxxxxxxxxxx used command '/PlyWhitelist x busi'.
+[18:36:22	]xxxxxxxxxxx used command '/PlyWhitelist x met'.
+[18:36:24	]xxxxxxxxxxx used command '/PlyWhitelist x metro'.
+[18:36:26	]xxxxxxxxxxx used command '/PlyWhitelist x eli'.
+[18:36:31	]xxxxxxxxxxx used command '/PlyWhitelist x mor'.
+[18:36:49	]xxxxxxxxxxx used command '/PlyWhitelist x mpf'.
+[18:36:52	]xxxxxxxxxxx used command '/PlyWhitelist x mil'.
+[18:36:59	]xxxxxxxxxxx used command '/PlyWhitelist x of'.
+[18:37:00	]xxxxxxxxxxx used command '/PlyWhitelist x off'.
+[18:37:20	]thc ;) (STEAM_0:1:709534478) has disconnected.

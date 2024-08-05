@@ -1,0 +1,192 @@
+[13:55:41	]Commissar_Krieger has connected.
+[13:56:47	]Commissar_Krieger loaded the character 'Krieger 2nd'
+[13:56:56	]Krieger 2nd entered observer.
+[13:57:00	]Krieger 2nd exited observer at their location.
+[13:57:16	]Krieger 2nd entered observer.
+[13:57:16	]Krieger 2nd exited observer at their location.
+[13:58:08	]Krieger 2nd has spawned a 'Entity [6402][ix_fabricator]'.
+[13:58:32	]Krieger 2nd has spawned a combinebattery.
+[13:58:36	]Krieger 2nd ran 'SetFullCharge' on item 'Combine Battery' (#2688869)
+[13:59:40	]Krieger 2nd has given himself a comp_resin.
+[13:59:40	]Krieger 2nd has gained a 'Resin' #2688870.
+[13:59:41	]Krieger 2nd has given himself a comp_resin.
+[13:59:41	]Krieger 2nd has gained a 'Resin' #2688871.
+[13:59:41	]Krieger 2nd has given himself a comp_resin.
+[13:59:41	]Krieger 2nd has gained a 'Resin' #2688872.
+[13:59:42	]Krieger 2nd has given himself a comp_resin.
+[13:59:42	]Krieger 2nd has gained a 'Resin' #2688873.
+[13:59:42	]Krieger 2nd has given himself a comp_resin.
+[13:59:42	]Krieger 2nd has gained a 'Resin' #2688874.
+[13:59:55	]Krieger 2nd has given himself a biopaste.
+[13:59:55	]Krieger 2nd has gained a 'Biopaste' #2688875.
+[13:59:56	]Krieger 2nd has given himself a biopaste.
+[13:59:56	]Krieger 2nd has gained a 'Biopaste' #2688876.
+[13:59:56	]Krieger 2nd has given himself a biopaste.
+[13:59:56	]Krieger 2nd has gained a 'Biopaste' #2688877.
+[13:59:57	]Krieger 2nd has given himself a biopaste.
+[13:59:57	]Krieger 2nd has gained a 'Biopaste' #2688878.
+[14:00:28	]Krieger 2nd has spawned a 'Entity [6404][ix_scanner]'.
+[14:00:31	]Krieger 2nd entered observer.
+[14:00:43	]Krieger 2nd exited observer at their location.
+[14:00:45	]Krieger 2nd has spawned a 'Entity [6404][ix_discscanner]'.
+[14:01:00	]Krieger 2nd has spawned a datadisc.
+[14:01:11	]Krieger 2nd has spawned a combinebattery.
+[14:01:13	]Krieger 2nd ran 'SetFullCharge' on item 'Combine Battery' (#2688880)
+[14:01:29	]Krieger 2nd has spawned a pistolammo.
+[14:01:34	]Krieger 2nd has spawned a bullets_pistol.
+[14:01:41	]Krieger 2nd has used a context menu option with the name: remove
+[14:01:42	]Krieger 2nd has used a context menu option with the name: remove
+[14:01:47	]Krieger 2nd has spawned a fruit_banana.
+[14:01:48	]Krieger 2nd ran 'take' on item 'Banana' (#2688883)
+[14:01:48	]Krieger 2nd has gained a 'Banana' #2688883.
+[14:01:52	]Krieger 2nd ran 'drop' on item 'Banana' (#2688883)
+[14:01:52	]Krieger 2nd has lost a 'Banana' #2688883.
+[14:01:53	]Krieger 2nd ran 'take' on item 'Banana' (#2688883)
+[14:01:53	]Krieger 2nd has gained a 'Banana' #2688883.
+[14:02:28	]Krieger 2nd has spawned a cmb_hkusp.
+[14:02:33	]Krieger 2nd has used a context menu option with the name: remove
+[14:02:38	]Krieger 2nd has spawned a bandage.
+[14:02:49	]Krieger 2nd has used a context menu option with the name: remove
+[14:02:59	]Krieger 2nd has spawned a floppydisk.
+[14:03:03	]Krieger 2nd has used a context menu option with the name: rb655_dissolve
+[14:03:05	]env_entity_dissolver destroyed a 'Floppy Disk' #2688886.
+[14:03:24	]Krieger 2nd has spawned a combine_filter.
+[14:03:47	]Krieger 2nd has used a context menu option with the name: rb655_dissolve
+[14:03:49	]env_entity_dissolver destroyed a 'Combine Filter' #2688887.
+[14:04:23	]Krieger 2nd has spawned a improved_ration.
+[14:04:30	]Krieger 2nd has used a context menu option with the name: rb655_dissolve
+[14:04:32	]env_entity_dissolver destroyed a 'Improved Ration' #2688888.
+[14:04:34	]Krieger 2nd has spawned a mask_cp.
+[14:04:42	]Krieger 2nd has used a context menu option with the name: rb655_dissolve
+[14:04:44	]env_entity_dissolver destroyed a 'PMG-5 (AUG) Gasmask' #2688889.
+[14:04:49	]Krieger 2nd has spawned a tool_toolkit.
+[14:05:04	]Krieger 2nd ran 'take' on item 'Data-Disc' (#2688879)
+[14:05:04	]Krieger 2nd has gained a 'Data-Disc' #2688879.
+[14:05:14	]Krieger 2nd ran 'drop' on item 'Data-Disc' (#2688879)
+[14:05:14	]Krieger 2nd has lost a 'Data-Disc' #2688879.
+[14:05:34	]Krieger 2nd has given himself a comp_resin.
+[14:05:34	]Krieger 2nd has gained a 'Resin' #2688891.
+[14:05:34	]Krieger 2nd has given himself a comp_resin.
+[14:05:34	]Krieger 2nd has gained a 'Resin' #2688892.
+[14:05:34	]Krieger 2nd has given himself a comp_resin.
+[14:05:35	]Krieger 2nd has gained a 'Resin' #2688893.
+[14:05:35	]Krieger 2nd has given himself a comp_resin.
+[14:05:35	]Krieger 2nd has gained a 'Resin' #2688894.
+[14:05:35	]Krieger 2nd has given himself a comp_resin.
+[14:05:35	]Krieger 2nd has gained a 'Resin' #2688895.
+[14:05:36	]Krieger 2nd has given himself a comp_resin.
+[14:05:36	]Krieger 2nd has gained a 'Resin' #2688896.
+[14:05:36	]Krieger 2nd has given himself a comp_resin.
+[14:05:36	]Krieger 2nd has gained a 'Resin' #2688897.
+[14:05:38	]Krieger 2nd ran 'take' on item 'Data-Disc' (#2688879)
+[14:05:38	]Krieger 2nd has gained a 'Data-Disc' #2688879.
+[14:05:40	]Krieger 2nd ran 'drop' on item 'Data-Disc' (#2688879)
+[14:05:40	]Krieger 2nd has lost a 'Data-Disc' #2688879.
+[14:05:46	]Krieger 2nd ran 'take' on item 'Data-Disc' (#2688879)
+[14:05:46	]Krieger 2nd has gained a 'Data-Disc' #2688879.
+[14:05:54	]Krieger 2nd ran 'drop' on item 'Data-Disc' (#2688879)
+[14:05:54	]Krieger 2nd has lost a 'Data-Disc' #2688879.
+[14:06:03	]Krieger 2nd ran 'take' on item 'Data-Disc' (#2688879)
+[14:06:03	]Krieger 2nd has gained a 'Data-Disc' #2688879.
+[14:06:22	]Krieger 2nd ran 'drop' on item 'Data-Disc' (#2688879)
+[14:06:22	]Krieger 2nd has lost a 'Data-Disc' #2688879.
+[14:06:59	]Krieger 2nd ran 'take' on item 'Toolkit' (#2688898)
+[14:06:59	]Krieger 2nd has gained a 'Toolkit' #2688898.
+[14:07:04	]Krieger 2nd ran 'take' on item 'Data-Disc' (#2688879)
+[14:07:04	]Krieger 2nd has gained a 'Data-Disc' #2688879.
+[14:15:47	]Krieger 2nd has gone afk.
+[14:18:02	]Krieger 2nd is no longer afk. Total time spent AFK: 430
+[14:20:06	]Krieger 2nd entered observer.
+[14:20:11	]Krieger 2nd exited observer at their location.
+[14:21:25	]Krieger 2nd entered observer.
+[14:21:27	]Krieger 2nd exited observer at their location.
+[14:21:31	]Krieger 2nd entered observer.
+[14:21:31	]Krieger 2nd exited observer at their location.
+[14:21:34	]Krieger 2nd entered observer.
+[14:21:43	]Krieger 2nd exited observer at their location.
+[14:21:46	]Krieger 2nd entered observer.
+[14:22:07	]Krieger 2nd exited observer at their location.
+[14:22:09	]Krieger 2nd entered observer.
+[14:22:21	]Krieger 2nd exited observer at their location.
+[14:22:25	]Krieger 2nd entered observer.
+[14:22:43	]Krieger 2nd exited observer at their location.
+[14:22:45	]Krieger 2nd entered observer.
+[14:22:55	]Krieger 2nd exited observer at their location.
+[14:22:57	]Krieger 2nd entered observer.
+[14:23:36	]Krieger 2nd exited observer at their location.
+[14:23:39	]Krieger 2nd entered observer.
+[14:23:46	]Krieger 2nd exited observer at their location.
+[14:23:49	]Krieger 2nd entered observer.
+[14:23:54	]Krieger 2nd exited observer at their location.
+[14:23:55	]Krieger 2nd entered observer.
+[14:24:22	]Krieger 2nd exited observer at their location.
+[14:24:25	]Krieger 2nd entered observer.
+[14:24:28	]Krieger 2nd exited observer at their location.
+[14:24:30	]Krieger 2nd entered observer.
+[14:24:35	]Krieger 2nd exited observer at their location.
+[14:24:38	]Krieger 2nd entered observer.
+[14:24:39	]Krieger 2nd exited observer at their location.
+[14:24:42	]Krieger 2nd entered observer.
+[14:24:43	]Krieger 2nd exited observer at their location.
+[14:24:45	]Krieger 2nd entered observer.
+[14:24:52	]Krieger 2nd exited observer at their location.
+[14:24:56	]Krieger 2nd entered observer.
+[14:24:57	]Krieger 2nd exited observer at their location.
+[14:24:59	]Krieger 2nd entered observer.
+[14:25:05	]Krieger 2nd exited observer at their location.
+[14:25:06	]Krieger 2nd entered observer.
+[14:25:07	]Krieger 2nd exited observer at their location.
+[14:25:08	]Krieger 2nd entered observer.
+[14:25:09	]Krieger 2nd exited observer at their location.
+[14:25:10	]Krieger 2nd entered observer.
+[14:25:10	]Krieger 2nd exited observer at their location.
+[14:25:12	]Krieger 2nd entered observer.
+[14:25:18	]Krieger 2nd exited observer at their location.
+[14:25:21	]Krieger 2nd entered observer.
+[14:25:30	]Krieger 2nd exited observer at their location.
+[14:25:30	]Krieger 2nd entered observer.
+[14:25:34	]Krieger 2nd exited observer at their location.
+[14:25:55	]Krieger 2nd entered observer.
+[14:25:56	]Krieger 2nd exited observer at their location.
+[14:25:57	]Krieger 2nd entered observer.
+[14:25:58	]Krieger 2nd exited observer at their location.
+[14:25:58	]Krieger 2nd entered observer.
+[14:26:37	]Krieger 2nd exited observer at their location.
+[14:26:51	]Krieger 2nd entered observer.
+[14:26:54	]Krieger 2nd exited observer at their location.
+[14:26:57	]Krieger 2nd entered observer.
+[14:26:59	]Krieger 2nd exited observer at their location.
+[14:27:02	]Krieger 2nd entered observer.
+[14:27:06	]Krieger 2nd exited observer at their location.
+[14:27:07	]Krieger 2nd entered observer.
+[14:27:10	]Krieger 2nd exited observer at their location.
+[14:27:12	]Krieger 2nd entered observer.
+[14:27:30	]Krieger 2nd exited observer at their location.
+[14:27:39	]Krieger 2nd entered observer.
+[14:27:43	]Krieger 2nd exited observer at their location.
+[14:27:47	]Commissar_Krieger (STEAM_0:1:221347812) has disconnected.
+[17:59:13	]Mango has connected.
+[17:59:56	][AltChecker] Mango joined without a cookie, but matched installation with existing cookie. Certainty 2/5
+[18:00:25	]Mango loaded the character 'Synthesis'
+[18:00:29	]Synthesis is fully healed.
+[18:00:33	]Synthesis entered observer.
+[18:09:44	]Mango has connected.
+[18:10:26	]Mango loaded the character 'Vahh'Brun-Nox'
+[18:10:31	]Vahh'Brun-Nox is fully healed.
+[18:10:40	]Vahh'Brun-Nox entered observer.
+[18:10:43	]Vahh'Brun-Nox used command '/NPCAreas'.
+[18:10:51	][IC] Vahh'Brun-Nox: A.
+[18:10:54	][IC] Vahh'Brun-Nox: A.
+[18:10:55	]Vahh'Brun-Nox used command '/NPCAreas'.
+[18:11:01	]Vahh'Brun-Nox used command '/AreaEdit'.
+[18:11:07	]Vahh'Brun-Nox has added area "New Area".
+[18:11:09	]Vahh'Brun-Nox used command '/NPCAreas'.
+[18:11:22	][Area-Based NPC Spawner] Vahh'Brun-Nox has added area spawner test at New Area
+[18:11:55	]Vahh'Brun-Nox set areaThinkInterval to '1'.
+[18:12:01	]Vahh'Brun-Nox used command '/NPCAreas'.
+[18:12:04	][Area-Based NPC Spawner] Vahh'Brun-Nox has edited area spawner test at New Area
+[18:12:21	]Vahh'Brun-Nox used command '/NPCAreas'.
+[18:12:30	]Vahh'Brun-Nox used command '/PlyGiveAllFlags v'.
+[18:12:37	]Vahh'Brun-Nox used command '/removeAllNPCS'.
+[18:13:17	]Vahh'Brun-Nox used command '/NPCAreas'.
+[18:13:18	][Area-Based NPC Spawner] Vahh'Brun-Nox has removed area spawner: test at New Area

@@ -1,0 +1,65 @@
+[20:11:40	]Robert has connected.
+[20:12:26	]Robert loaded the character 'Shitizen'
+[20:13:30	]Shitizen has fired a toolgun with the name: remover
+[20:13:31	]Shitizen has fired a toolgun with the name: remover
+[20:13:34	]Shitizen entered observer.
+[20:13:35	]Shitizen exited observer at their location.
+[20:13:57	][IC] Shitizen: F.
+[20:14:00	]Shitizen used command '/PlyWhitelist shit vort'.
+[20:14:21	]Robert created the character 'Test vortar'
+[20:14:21	]Robert loaded the character 'Test vortar'
+[20:14:40	]Test vortar has gained level 50 in the Vortessence skill.
+[20:14:40	]Test vortar used command '/CharSkillSet Test vortessence 50'.
+[20:14:44	]Test vortar used command '/vortessence'.
+[20:14:53	]Test vortar used command '/vortessence'.
+[20:14:54	]Test vortar used command '/vortessence'.
+[20:17:02	]Robert loaded the character 'C24:i1.TEST-51'
+[20:17:07	]C24:i1.TEST-51 is fully healed.
+[20:17:11	]C24:i1.TEST-51 ran 'Equip' on item 'Combine PDA' (#1649396)
+[20:17:48	]C24:i1.TEST-51 used command '/PTCreate'.
+[20:17:50	]C24:i1.TEST-51 used command '/PTCreate 1'.
+[20:17:54	]C24:i1.TEST-51 used command '/PTLeave'.
+[20:19:16	]Robert has unloaded their "C24:i1.TEST-51" character.
+[20:19:23	]Robert loaded the character 'Shitizen'
+[20:20:36	]Shitizen entered observer.
+[20:20:43	]Shitizen exited observer at their location.
+[20:20:54	]Shitizen has spawned a 'Entity [382][ix_rationdispenser]'.
+[20:21:05	]Shitizen has acquired his ration, gaining 0 credits, 5 wages and a ration ration.
+[20:21:18	]Shitizen ran 'Open' on item 'Ration' (#1650089)
+[20:21:18	]Shitizen has gained a 'Artificial Paste' #1650090.
+[20:21:18	]Shitizen has gained a 'Breen's Water' #1650091.
+[20:21:18	]Shitizen has gained a 'Basic Credits Coupon' #1650092.
+[20:21:21	]Shitizen ran 'Consume' on item 'Breen's Water' (#1650091)
+[20:21:21	]Shitizen has gained a 'Empty Breen's Water' #1650093.
+[20:21:21	]Shitizen ran 'Consume' on item 'Artificial Paste' (#1650090)
+[20:21:21	]Shitizen has gained a 'Empty Jar' #1650094.
+[20:21:24	]Shitizen ran 'Use' on item 'Basic Credits Coupon' (#1650092)
+[20:21:28	]Shitizen ran 'Use' on item 'Basic Credits Coupon' (#1650092)
+[20:21:30	]Shitizen has used a coupon at a ration dispenser, gaining 15 credits.
+[20:21:33	]Shitizen has used a context menu option with the name: remove
+[20:21:48	]Shitizen has used a context menu option with the name: rb655_dissolve
+[20:22:09	]Shitizen entered observer.
+[20:22:13	]Shitizen exited observer at their location.
+[20:22:46	]Shitizen entered observer.
+[20:22:48	]Shitizen exited observer at their location.
+[20:25:12	]Shitizen entered observer.
+[20:25:19	]Shitizen exited observer at their location.
+[20:25:22	]Shitizen has spawned a 'Entity [381][ix_pickupcache]'.
+[20:25:23	]Shitizen has spawned a 'Entity [382][ix_pickupcache]'.
+[20:25:30	]Shitizen entered observer.
+[20:25:30	]Shitizen exited observer at their location.
+[20:25:45	]Shitizen has used a context menu option with the name: pickup_name
+[20:25:54	]Shitizen has used a context menu option with the name: pickup_name
+[20:26:03	]Shitizen has used a context menu option with the name: pickup_id
+[20:26:07	]Shitizen has used a context menu option with the name: pickup_id
+[20:26:11	]Shitizen has used a context menu option with the name: pickup_location
+[20:26:21	]Shitizen has used a context menu option with the name: pickup_location
+[20:26:28	]Shitizen has spawned a 'Entity [383][ix_npcspawner]'.
+[20:26:34	]Shitizen has spawned a 'Entity [383][ix_smuggler]'.
+[20:26:35	]Shitizen entered observer.
+[20:26:49	]Shitizen used command '/SmugglerForceRotate'.
+[20:26:51	]Shitizen used command '/SmugglerForceRotate'.
+[20:26:52	]Shitizen exited observer at their location.
+[20:26:54	]Shitizen used command '/SmugglerForceRotate'.
+[20:26:56	]Shitizen has used a context menu option with the name: smuggler_edit
+[20:27:23	]Robert (STEAM_0:1:36030793) has disconnected.

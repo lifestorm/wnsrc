@@ -1,0 +1,103 @@
+[01:34:12	]Fallizs has connected.
+[01:35:40	]Fallizs loaded the character 'average rebel sigma'
+[01:35:45	]average rebel sigma is fully healed.
+[01:41:10	]average rebel sigma has gone afk.
+[01:45:00	]average rebel sigma is no longer afk. Total time spent AFK: 525
+[01:45:11	]Fallizs (STEAM_0:0:512853308) has disconnected.
+[11:06:08	]Rabithunter has connected.
+[11:08:26	]Rabithunter (STEAM_0:1:22394854) has disconnected.
+[11:11:16	]Rabithunter has connected.
+[11:15:17	]Rabithunter (STEAM_0:1:22394854) has disconnected.
+[16:44:24	]Rabithunter has connected.
+[16:45:31	]Rabithunter loaded the character 'Jenifer Maesroe'
+[16:45:36	]Jenifer Maesroe is fully healed.
+[16:45:49	]Jenifer Maesroe ran 'Place' on item 'CMRU Lock' (#1658861)
+[16:45:57	]Jenifer Maesroe used command '/CharGiveFlag jeni m'.
+[16:46:04	]Jenifer Maesroe ran 'SetAccessLevel' on item 'CMRU Level 1 Access Keycard' (#1658860)
+[16:46:39	]Jenifer Maesroe has used a context menu option with the name: rb655_dissolve
+[16:46:41	]Jenifer Maesroe ran 'drop' on item 'CMRU Level 2 Access Keycard' (#1658860)
+[16:46:41	]Jenifer Maesroe has lost a 'CMRU Level 2 Access Keycard' #1658860.
+[16:46:43	]Jenifer Maesroe has used a context menu option with the name: remove
+[16:46:54	]Jenifer Maesroe has given himself a cmrulock.
+[16:46:54	]Jenifer Maesroe has gained a 'CMRU Lock' #1658865.
+[16:46:55	]Jenifer Maesroe has given himself a cmru_card.
+[16:46:55	]Jenifer Maesroe has gained a 'CMRU Level 1 Access Keycard' #1658866.
+[16:46:58	]Jenifer Maesroe ran 'Place' on item 'CMRU Lock' (#1658865)
+[16:47:01	]Jenifer Maesroe ran 'Bind' on item 'CMRU Level 1 Access Keycard' (#1658866)
+[16:48:28	]Jenifer Maesroe ran 'SetAccessLevel' on item 'CMRU Level 1 Access Keycard' (#1658866)
+[16:48:29	]Jenifer Maesroe ran 'SetAccessLevel' on item 'CMRU Level 2 Access Keycard' (#1658866)
+[16:48:30	]Jenifer Maesroe ran 'SetAccessLevel' on item 'CMRU Level 3 Access Keycard' (#1658866)
+[16:49:04	]Rabithunter (STEAM_0:1:22394854) has disconnected.
+[18:55:06	]RedHotGinger has connected.
+[18:56:24	]RedHotGinger loaded the character 'Sohaila Asker'
+[18:56:38	]Sohaila Asker used command '/ToggleGM'.
+[18:56:39	]Sohaila Asker entered observer.
+[18:56:42	]Sohaila Asker exited observer at their location.
+[18:56:49	]Sohaila Asker entered observer.
+[18:57:05	]Sohaila Asker exited observer at their location.
+[18:57:59	]Sohaila Asker used command '/EditTextScreen'.
+[18:58:10	]Sohaila Asker used command '/EnterTextScreen'.
+[18:58:56	]Sohaila Asker used command '/EditTextScreen'.
+[18:59:04	]Sohaila Asker used command '/EnterTextScreen'.
+[18:59:15	]Sohaila Asker entered observer.
+[19:00:32	]Sohaila Asker used command '/EnterTextScreen'.
+[19:00:46	]Sohaila Asker used command '/EditTextScreen'.
+[19:00:56	]Sohaila Asker used command '/EnterTextScreen'.
+[19:02:27	]Sohaila Asker used command '/EnterTextScreen'.
+[19:02:57	]Sohaila Asker exited observer at their location.
+[19:03:01	]RedHotGinger (STEAM_0:1:45104731) has disconnected.
+[19:46:17	]M!NT has connected.
+[19:46:58	]M!NT loaded the character 'Test char pls ignore'
+[19:47:03	]Test char pls ignore entered observer.
+[19:47:19	]Test char pls ignore used command '/CharGiveFlag test U'.
+[19:47:29	]Test char pls ignore has given himself a cmru_card.
+[19:47:29	]Test char pls ignore has gained a 'CMRU Level 1 Access Keycard' #1658867.
+[19:47:30	]Test char pls ignore has given himself a cmru_card.
+[19:47:30	]Test char pls ignore has gained a 'CMRU Level 1 Access Keycard' #1658868.
+[19:47:31	]Test char pls ignore has given himself a cmrulock.
+[19:47:31	]Test char pls ignore has gained a 'CMRU Lock' #1658869.
+[19:47:42	]Test char pls ignore exited observer at their location.
+[19:47:42	]Test char pls ignore entered observer.
+[19:47:43	]Test char pls ignore exited observer at their location.
+[19:47:43	]Test char pls ignore entered observer.
+[19:47:43	]Test char pls ignore exited observer at their location.
+[19:47:45	]Test char pls ignore ran 'Place' on item 'CMRU Lock' (#1658869)
+[19:47:51	]Test char pls ignore ran 'Bind' on item 'CMRU Level 1 Access Keycard' (#1658868)
+[19:47:59	]Test char pls ignore entered observer.
+[19:48:13	]Test char pls ignore ran 'drop' on item 'CMRU Level 1 Access Keycard' (#1658868)
+[19:48:13	]Test char pls ignore has lost a 'CMRU Level 1 Access Keycard' #1658868.
+[19:48:17	]Test char pls ignore ran 'Bind' on item 'CMRU Level 1 Access Keycard' (#1658867)
+[19:48:19	]Test char pls ignore ran 'drop' on item 'CMRU Level 1 Access Keycard' (#1658867)
+[19:48:19	]Test char pls ignore has lost a 'CMRU Level 1 Access Keycard' #1658867.
+[19:48:21	]Test char pls ignore has used a context menu option with the name: remove
+[19:48:43	]Test char pls ignore used command '/PlyWhitelist test cp'.
+[19:48:55	]M!NT created the character 'C17:RCT.YELLO-96'
+[19:48:55	]Test char pls ignore has gained level 5 in the Guns skill.
+[19:48:55	]Test char pls ignore has gained level 10 in the Speed skill.
+[19:48:55	]M!NT loaded the character 'C17:RCT.YELLO-96'
+[19:48:55	]C17:RCT.YELLO-96 has gained a '#81026's Identity Card' #1658870.
+[19:48:55	]C17:RCT.YELLO-96 has gained a 'Combine PDA' #1658871.
+[19:48:55	]C17:RCT.YELLO-96 has gained a 'CP Uniform' #1658872.
+[19:48:55	]C17:RCT.YELLO-96 has gained a 'CP Mask' #1658873.
+[19:48:55	]C17:RCT.YELLO-96 has gained a 'Handheld Radio' #1658874.
+[19:48:56	]C17:RCT.YELLO-96 has gained a 'Small Bag' #1658875.
+[19:48:56	]C17:RCT.YELLO-96 has gained a 'Large Bag' #1658876.
+[19:49:21	]C17:RCT.YELLO-96 entered observer.
+[19:49:28	]C17:RCT.YELLO-96 exited observer at their location.
+[19:50:08	]C17:RCT.YELLO-96 has used a context menu option with the name: remove
+[19:50:20	]M!NT loaded the character 'Andriy Andreeva'
+[19:50:25	]Andriy Andreeva is fully healed.
+[19:50:26	]Andriy Andreeva entered observer.
+[19:50:31	]Andriy Andreeva exited observer at their location.
+[19:50:46	]M!NT loaded the character 'Test char pls ignore'
+[19:50:57	]Test char pls ignore has given himself a cmru_card.
+[19:50:57	]Test char pls ignore has gained a 'CMRU Level 1 Access Keycard' #1658877.
+[19:50:59	]Test char pls ignore ran 'Bind' on item 'CMRU Level 1 Access Keycard' (#1658877)
+[19:51:08	]Test char pls ignore entered observer.
+[19:51:15	]Test char pls ignore exited observer at their location.
+[19:51:16	]Test char pls ignore entered observer.
+[19:51:16	]Test char pls ignore exited observer at their location.
+[19:51:44	]Test char pls ignore entered observer.
+[19:51:55	]Test char pls ignore exited observer at their location.
+[19:51:58	]Test char pls ignore entered observer.
+[19:52:08	]M!NT (STEAM_0:1:120751263) has disconnected.

@@ -1,0 +1,234 @@
+[11:47:52	]Mango has connected.
+[11:48:34	][AltChecker] Mango joined without a cookie, but matched installation with existing cookie. Certainty 3/5
+[11:48:44	]Mango loaded the character 'S10/OWS.GHOST-94'
+[11:48:49	]S10/OWS.GHOST-94 is fully healed.
+[11:49:00	]S10/OWS.GHOST-94 ran 'EquipUn' on item 'MP7A1' (#2047114)
+[11:49:00	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047121.
+[11:49:02	]S10/OWS.GHOST-94 ran 'drop' on item 'MP7A1' (#2047114)
+[11:49:02	]S10/OWS.GHOST-94 has lost a 'MP7A1' #2047114.
+[11:49:19	]S10/OWS.GHOST-94 has given himself a mp5a3.
+[11:49:19	]S10/OWS.GHOST-94 has gained a 'MP5A3' #2047323.
+[11:49:21	]S10/OWS.GHOST-94 ran 'Equip' on item 'MP5A3' (#2047323)
+[11:49:28	]S10/OWS.GHOST-94 has used a context menu option with the name: remove
+[11:49:54	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047121.
+[11:50:36	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047121.
+[11:50:36	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047116.
+[11:50:50	]S10/OWS.GHOST-94 ran 'drop' on item 'OTA Mask' (#2047132)
+[11:50:50	]S10/OWS.GHOST-94 has lost a 'OTA Mask' #2047132.
+[11:50:52	]S10/OWS.GHOST-94 ran 'drop' on item 'Containment Uniform' (#2047131)
+[11:50:52	]S10/OWS.GHOST-94 has lost a 'Containment Uniform' #2047131.
+[11:50:57	]S10/OWS.GHOST-94 has used a context menu option with the name: remove
+[11:50:58	]S10/OWS.GHOST-94 has used a context menu option with the name: remove
+[11:51:15	]S10/OWS.GHOST-94 has given himself a uniform_ota.
+[11:51:15	]S10/OWS.GHOST-94 has gained a 'OTA Uniform' #2047324.
+[11:51:16	]S10/OWS.GHOST-94 has given himself a mask_ota.
+[11:51:17	]S10/OWS.GHOST-94 has gained a 'OTA Mask' #2047325.
+[11:51:36	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047116.
+[11:51:36	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047121.
+[11:51:44	]S10/OWS.GHOST-94 ran 'EquipUn' on item 'MP5A3' (#2047323)
+[11:51:44	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047121.
+[11:51:44	]S10/OWS.GHOST-94 ran 'Equip' on item 'MP5A3' (#2047323)
+[11:52:15	]S10/OWS.GHOST-94 used command '/CharSetSkin s 2'.
+[11:52:21	]S10/OWS.GHOST-94 used command '/CharSetSkin s 3'.
+[11:52:30	]S10/OWS.GHOST-94 used command '/CharSetSkin s 1'.
+[11:52:32	]S10/OWS.GHOST-94 used command '/CharSetSkin s 0'.
+[11:52:35	]S10/OWS.GHOST-94 used command '/CharSetSkin s 5'.
+[11:52:42	]S10/OWS.GHOST-94 used command '/CharSetSkin s 6'.
+[11:53:00	]S10/OWS.GHOST-94 entered observer.
+[11:53:11	]S10/OWS.GHOST-94 has spawned a 'NPC [4727][npc_zombie]'.
+[11:53:16	]S10/OWS.GHOST-94 has spawned a 'NPC [3252][npc_headcrab]'.
+[11:53:17	]S10/OWS.GHOST-94 has spawned a 'NPC [3782][npc_headcrab]'.
+[11:53:18	]S10/OWS.GHOST-94 has spawned a 'NPC [4775][npc_headcrab]'.
+[11:53:22	]S10/OWS.GHOST-94 has spawned a 'NPC [4755][npc_zombie_torso]'.
+[11:53:26	]S10/OWS.GHOST-94 has spawned a 'NPC [4738][npc_headcrab]'.
+[11:53:31	]S10/OWS.GHOST-94 has spawned a 'NPC [4786][npc_zombie_torso]'.
+[11:53:36	]S10/OWS.GHOST-94 has spawned a 'NPC [4777][npc_fastzombie]'.
+[11:53:43	]S10/OWS.GHOST-94 exited observer.
+[11:54:19	]S10/OWS.GHOST-94 used command '/Radio full active;and deployed. Sweeping for necrotics, sound on. Vitals clear, await confirmation of finalization'.
+[11:54:31	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047121.
+[11:55:01	]S10/OWS.GHOST-94 has critically hit npc_headcrab dealing 16 damage (CritChance was 1.01).
+[11:55:11	]S10/OWS.GHOST-94 has critically hit npc_zombie in the left arm dealing 13 damage (CritChance was 1.01).
+[11:55:11	]S10/OWS.GHOST-94 has critically hit npc_zombie in the head dealing 0 damage (CritChance was 1.01).
+[11:55:11	]S10/OWS.GHOST-94 has critically hit npc_zombie in the head dealing 17 damage (CritChance was 1.01).
+[11:55:11	]S10/OWS.GHOST-94 has critically hit npc_zombie in the head dealing 17 damage (CritChance was 1.01).
+[11:55:15	]S10/OWS.GHOST-94 has critically hit npc_zombie_torso in the chest dealing 0 damage (CritChance was 1.01).
+[11:55:15	]S10/OWS.GHOST-94 has critically hit npc_zombie_torso in the chest dealing 16 damage (CritChance was 1.01).
+[11:55:16	]S10/OWS.GHOST-94 has critically hit npc_zombie_torso in the head dealing 0 damage (CritChance was 1.01).
+[11:55:16	]S10/OWS.GHOST-94 has critically hit npc_zombie_torso in the head dealing 17 damage (CritChance was 1.01).
+[11:55:16	]S10/OWS.GHOST-94 has critically hit npc_zombie_torso in the head dealing 17 damage (CritChance was 1.01).
+[11:55:20	]S10/OWS.GHOST-94 has critically hit npc_fastzombie dealing 16 damage (CritChance was 1.01).
+[11:55:20	]S10/OWS.GHOST-94 has critically hit npc_fastzombie dealing 16 damage (CritChance was 1.01).
+[11:55:21	]S10/OWS.GHOST-94 has critically hit npc_fastzombie dealing 16 damage (CritChance was 1.01).
+[11:55:21	]S10/OWS.GHOST-94 has critically hit npc_fastzombie dealing 16 damage (CritChance was 1.01).
+[11:55:21	]S10/OWS.GHOST-94 has critically hit npc_fastzombie in the head dealing 0 damage (CritChance was 1.01).
+[11:55:21	]S10/OWS.GHOST-94 has critically hit npc_fastzombie in the head dealing 17 damage (CritChance was 1.01).
+[11:55:22	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047121.
+[11:55:22	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047116.
+[11:55:33	]S10/OWS.GHOST-94 has critically hit npc_zombie_torso in the chest dealing 0 damage (CritChance was 1.01).
+[11:55:33	]S10/OWS.GHOST-94 has critically hit npc_zombie_torso in the right arm dealing 13 damage (CritChance was 1.01).
+[11:55:33	]S10/OWS.GHOST-94 has critically hit npc_zombie_torso in the left arm dealing 13 damage (CritChance was 1.01).
+[11:55:34	]S10/OWS.GHOST-94 has critically hit npc_zombie_torso in the chest dealing 0 damage (CritChance was 1.01).
+[11:55:34	]S10/OWS.GHOST-94 has critically hit npc_zombie_torso in the head dealing 17 damage (CritChance was 1.01).
+[11:55:34	]S10/OWS.GHOST-94 has critically hit npc_zombie_torso in the chest dealing 16 damage (CritChance was 1.01).
+[11:55:35	]S10/OWS.GHOST-94 has critically hit npc_zombie_torso in the head dealing 0 damage (CritChance was 1.01).
+[11:55:35	]S10/OWS.GHOST-94 has critically hit npc_zombie_torso in the head dealing 17 damage (CritChance was 1.01).
+[11:55:41	]S10/OWS.GHOST-94 has critically hit npc_headcrab dealing 16 damage (CritChance was 1.01).
+[11:55:43	]S10/OWS.GHOST-94 has taken 5 damage from npc_headcrab.
+[11:55:44	]S10/OWS.GHOST-94 is fully healed.
+[11:55:44	]S10/OWS.GHOST-94 has critically hit npc_headcrab dealing 16 damage (CritChance was 1.01).
+[11:55:45	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047116.
+[11:55:45	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047122.
+[11:56:08	][IC] S10/OWS.GHOST-94: <:: Parasitic. ::>
+[11:56:16	]S10/OWS.GHOST-94 has critically hit npc_headcrab dealing 0 damage (CritChance was 1.01).
+[11:56:16	]S10/OWS.GHOST-94 has critically hit npc_headcrab dealing 16 damage (CritChance was 1.01).
+[11:56:37	]S10/OWS.GHOST-94 ran 'Equip' on item 'Combine Filter' (#2047127)
+[11:56:57	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047122.
+[11:56:57	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047115.
+[11:57:05	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047115.
+[11:57:05	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047122.
+[11:57:58	]S10/OWS.GHOST-94 used command '/Radio IDLE'.
+[11:58:16	]S10/OWS.GHOST-94 entered observer.
+[11:58:17	]S10/OWS.GHOST-94 exited observer.
+[11:58:29	]S10/OWS.GHOST-94 entered observer.
+[11:58:30	]S10/OWS.GHOST-94 exited observer at their location.
+[11:58:38	][Y] S10/OWS.GHOST-94: <:: Move! ::>
+[11:58:41	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047122.
+[11:58:41	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047115.
+[11:59:17	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047115.
+[11:59:17	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047122.
+[12:00:14	]S10/OWS.GHOST-94 has given himself a combine_card.
+[12:00:14	]S10/OWS.GHOST-94 has gained a 'Combine Card' #2047326.
+[12:00:22	]S10/OWS.GHOST-94 entered observer.
+[12:00:35	]S10/OWS.GHOST-94 exited observer at their location.
+[12:00:43	]S10/OWS.GHOST-94 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[12:01:41	]S10/OWS.GHOST-94 has gained 0 chips.
+[12:01:41	]S10/OWS.GHOST-94 has gained a 'Sub-machinegun Bullets' #2047327.
+[12:01:42	]S10/OWS.GHOST-94 has gained 0 chips.
+[12:01:42	]S10/OWS.GHOST-94 has gained a 'Sub-machinegun Bullets' #2047328.
+[12:01:42	]S10/OWS.GHOST-94 has gained 0 chips.
+[12:01:42	]S10/OWS.GHOST-94 has gained a 'Sub-machinegun Bullets' #2047329.
+[12:01:45	]S10/OWS.GHOST-94 ran 'combine' on item '30rnd MP-magazine' (#2047116)
+[12:01:47	]S10/OWS.GHOST-94 ran 'combine' on item '30rnd MP-magazine' (#2047115)
+[12:01:51	]S10/OWS.GHOST-94 ran 'drop' on item 'Sub-machinegun Bullets' (#2047328)
+[12:01:51	]S10/OWS.GHOST-94 has lost a 'Sub-machinegun Bullets' #2047328.
+[12:01:55	]S10/OWS.GHOST-94 ran 'removeMag' on item 'MP5A3' (#2047323)
+[12:01:55	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047122.
+[12:01:57	]S10/OWS.GHOST-94 ran 'combine' on item '30rnd MP-magazine' (#2047122)
+[12:02:04	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047122.
+[12:02:11	]S10/OWS.GHOST-94 ran 'drop' on item 'Sub-machinegun Bullets' (#2047327)
+[12:02:11	]S10/OWS.GHOST-94 has lost a 'Sub-machinegun Bullets' #2047327.
+[12:02:43	]S10/OWS.GHOST-94 has given himself a apex_attach_laser.
+[12:02:43	]S10/OWS.GHOST-94 has gained a 'Tac Laser' #2047330.
+[12:03:27	]S10/OWS.GHOST-94 has given himself a go_laser_surefire.
+[12:03:27	]S10/OWS.GHOST-94 has gained a '3mW Laser' #2047331.
+[12:03:31	]S10/OWS.GHOST-94 has lost a '3mW Laser' #2047331.
+[12:03:40	]S10/OWS.GHOST-94 entered observer.
+[12:03:41	]S10/OWS.GHOST-94 exited observer at their location.
+[12:04:39	]S10/OWS.GHOST-94 destroyed a 'Sub-machinegun Bullets' #2047327.
+[12:04:51	]S10/OWS.GHOST-94 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[12:04:59	]S10/OWS.GHOST-94 has gained 0 chips.
+[12:04:59	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047332.
+[12:05:00	]S10/OWS.GHOST-94 has gained 0 chips.
+[12:05:00	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047333.
+[12:05:02	]S10/OWS.GHOST-94 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[12:05:05	]S10/OWS.GHOST-94 has gained 0 chips.
+[12:05:05	]S10/OWS.GHOST-94 has gained a 'Sub-machinegun Bullets' #2047334.
+[12:05:06	]S10/OWS.GHOST-94 has gained 0 chips.
+[12:05:06	]S10/OWS.GHOST-94 has gained a 'Sub-machinegun Bullets' #2047335.
+[12:05:09	]S10/OWS.GHOST-94 ran 'combine' on item '30rnd MP-magazine' (#2047333)
+[12:05:10	]S10/OWS.GHOST-94 ran 'combine' on item '30rnd MP-magazine' (#2047332)
+[12:05:13	]S10/OWS.GHOST-94 ran 'drop' on item 'Tac Laser' (#2047330)
+[12:05:13	]S10/OWS.GHOST-94 has lost a 'Tac Laser' #2047330.
+[12:05:29	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047122.
+[12:05:29	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047333.
+[12:05:39	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047333.
+[12:05:39	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047332.
+[12:05:46	]S10/OWS.GHOST-94 ran 'EquipUn' on item 'MP5A3' (#2047323)
+[12:05:46	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047332.
+[12:05:47	]S10/OWS.GHOST-94 ran 'Equip' on item 'MP5A3' (#2047323)
+[12:05:48	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047333.
+[12:06:19	]S10/OWS.GHOST-94 has spawned a 'NPC [109][npc_poisonzombie]'.
+[12:06:19	]S10/OWS.GHOST-94 has spawned a 'NPC [4776][npc_headcrab]'.
+[12:06:20	]S10/OWS.GHOST-94 has spawned a 'NPC [2882][npc_headcrab]'.
+[12:06:22	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047333.
+[12:06:22	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047332.
+[12:06:25	]S10/OWS.GHOST-94 has critically hit npc_headcrab_poison dealing 16 damage (CritChance was 1.01).
+[12:06:25	]S10/OWS.GHOST-94 has critically hit npc_headcrab_poison dealing 16 damage (CritChance was 1.01).
+[12:06:25	]S10/OWS.GHOST-94 has critically hit npc_headcrab_poison dealing 16 damage (CritChance was 1.01).
+[12:06:27	]S10/OWS.GHOST-94 has critically hit npc_headcrab dealing 16 damage (CritChance was 1.01).
+[12:06:28	]S10/OWS.GHOST-94 has critically hit npc_headcrab dealing 16 damage (CritChance was 1.01).
+[12:06:30	]S10/OWS.GHOST-94 has critically hit npc_poisonzombie in the head dealing 0 damage (CritChance was 1.01).
+[12:06:30	]S10/OWS.GHOST-94 has critically hit npc_poisonzombie in the head dealing 17 damage (CritChance was 1.01).
+[12:06:31	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047332.
+[12:06:31	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047333.
+[12:06:40	]S10/OWS.GHOST-94 has critically hit npc_poisonzombie dealing 16 damage (CritChance was 1.01).
+[12:06:41	]S10/OWS.GHOST-94 has critically hit npc_poisonzombie dealing 0 damage (CritChance was 1.01).
+[12:06:41	]S10/OWS.GHOST-94 has critically hit npc_poisonzombie dealing 16 damage (CritChance was 1.01).
+[12:06:41	]S10/OWS.GHOST-94 has critically hit npc_poisonzombie in the head dealing 0 damage (CritChance was 1.01).
+[12:06:41	]S10/OWS.GHOST-94 has critically hit npc_poisonzombie in the head dealing 17 damage (CritChance was 1.01).
+[12:06:41	]S10/OWS.GHOST-94 has critically hit npc_poisonzombie in the head dealing 0 damage (CritChance was 1.01).
+[12:06:41	]S10/OWS.GHOST-94 has critically hit npc_poisonzombie in the head dealing 17 damage (CritChance was 1.01).
+[12:06:41	]S10/OWS.GHOST-94 has critically hit npc_poisonzombie dealing 16 damage (CritChance was 1.01).
+[12:06:41	]S10/OWS.GHOST-94 has critically hit npc_poisonzombie dealing 16 damage (CritChance was 1.01).
+[12:06:41	]S10/OWS.GHOST-94 has critically hit npc_poisonzombie dealing 16 damage (CritChance was 1.01).
+[12:06:41	]S10/OWS.GHOST-94 has critically hit npc_poisonzombie dealing 16 damage (CritChance was 1.01).
+[12:06:41	]S10/OWS.GHOST-94 has critically hit npc_poisonzombie dealing 16 damage (CritChance was 1.01).
+[12:06:41	]S10/OWS.GHOST-94 has critically hit npc_poisonzombie dealing 16 damage (CritChance was 1.01).
+[12:06:41	]S10/OWS.GHOST-94 has critically hit npc_poisonzombie dealing 16 damage (CritChance was 1.01).
+[12:06:41	]S10/OWS.GHOST-94 has critically hit npc_poisonzombie dealing 16 damage (CritChance was 1.01).
+[12:06:41	]S10/OWS.GHOST-94 has critically hit npc_headcrab_poison dealing 16 damage (CritChance was 1.01).
+[12:06:42	]S10/OWS.GHOST-94 has critically hit npc_headcrab_poison dealing 16 damage (CritChance was 1.01).
+[12:06:42	]S10/OWS.GHOST-94 has critically hit npc_headcrab_poison dealing 16 damage (CritChance was 1.01).
+[12:06:44	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047333.
+[12:06:44	]S10/OWS.GHOST-94 has lost a '30rnd MP-magazine' #2047116.
+[12:06:48	]S10/OWS.GHOST-94 has critically hit npc_headcrab_poison dealing 16 damage (CritChance was 1.01).
+[12:06:49	]S10/OWS.GHOST-94 has critically hit npc_headcrab_poison dealing 16 damage (CritChance was 1.01).
+[12:06:49	]S10/OWS.GHOST-94 has taken 5 damage from npc_headcrab_poison.
+[12:06:49	]S10/OWS.GHOST-94 has gained a '30rnd MP-magazine' #2047116.
+[12:06:49	]S10/OWS.GHOST-94 was knocked unconscious and is bleeding out.
+[12:07:14	]Mango (STEAM_0:0:544539350) has disconnected.
+[21:54:23	]Chris has connected.
+[21:56:03	]Chris loaded the character 'Null Vort test'
+[21:56:08	]Null Vort test is fully healed.
+[21:56:21	]Null Vort test used command '/vortessence'.
+[21:56:41	]Null Vort test used command '/EnterMeditation'.
+[21:56:43	]Null Vort test used command '/EnterMeditation'.
+[21:56:52	]Null Vort test used command '/vortessence'.
+[22:00:15	]Null Vort test has taken 5 damage from npc_headcrab_poison.
+[22:00:15	]Null Vort test was knocked unconscious and is bleeding out.
+[22:05:33	]Null Vort test has gone afk.
+[22:05:43	]Null Vort test is no longer afk. Total time spent AFK: 305
+[22:05:43	]Null Vort test used command '/CharGetUp'.
+[22:05:48	]Null Vort test used command '/CharGetUp'.
+[22:05:50	]Null Vort test used command '/CharGetUp'.
+[22:05:52	]Null Vort test was just killed due to: accepting their death
+[22:05:58	]Null Vort test used command '/CharGetUp'.
+[22:07:17	][VORT] Null Vort test has damaged npc_headcrab_poison, dealing 60 with vortbeam
+[22:15:30	]Null Vort test ran 'take' on item 'Empty Vodka Bottle' (#2047336)
+[22:15:30	]Null Vort test has gained a 'Empty Vodka Bottle' #2047336.
+[22:15:38	]Null Vort test ran 'take' on item 'Plant Pot' (#2047337)
+[22:15:38	]Null Vort test has gained a 'Plant Pot' #2047337.
+[22:15:52	]Null Vort test ran 'take' on item 'Empty Takeaway' (#2047338)
+[22:15:52	]Null Vort test has gained a 'Empty Takeaway' #2047338.
+[22:15:54	]Null Vort test ran 'take' on item 'Glass shards' (#2047339)
+[22:15:54	]Null Vort test has gained a 'Glass shards' #2047339.
+[22:16:38	]Null Vort test ran 'take' on item 'Empty Breen's Water' (#2047342)
+[22:16:38	]Null Vort test has gained a 'Empty Breen's Water' #2047342.
+[22:19:02	]Null Vort test has acquired his ration, gaining 0 credits, 0 wages and a ration ration.
+[22:19:17	]Null Vort test ran 'Open' on item 'Ration' (#2047343)
+[22:19:17	]Null Vort test has gained a 'Artificial Paste' #2047344.
+[22:19:17	]Null Vort test has gained a 'Breen's Water' #2047345.
+[22:19:17	]Null Vort test has gained a 'Basic Credits Coupon' #2047346.
+[22:19:23	]Null Vort test ran 'Use' on item 'Basic Credits Coupon' (#2047346)
+[22:19:24	]Null Vort test ran 'Use' on item 'Basic Credits Coupon' (#2047346)
+[22:19:32	]Null Vort test ran 'Use' on item 'Basic Credits Coupon' (#2047346)
+[22:19:36	]Null Vort test ran 'Consume' on item 'Breen's Water' (#2047345)
+[22:19:36	]Null Vort test has gained a 'Empty Breen's Water' #2047347.
+[22:19:37	]Null Vort test ran 'Consume' on item 'Artificial Paste' (#2047344)
+[22:19:37	]Null Vort test has gained a 'Empty Jar' #2047348.
+[22:22:31	]Null Vort test has taken 5 damage from worldspawn.
+[22:27:13	]Null Vort test has spawned 'models/props_debris/metal_panel01a.mdl'.
+[22:33:23	]Null Vort test is fully healed.
+[22:34:43	]Null Vort test has gone afk.
+[22:57:18	]Null Vort test is no longer afk. Total time spent AFK: 1650
+[22:57:23	]Chris (STEAM_0:0:29180550) has disconnected.

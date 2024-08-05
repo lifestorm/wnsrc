@@ -1,0 +1,3212 @@
+[15:18:37	]Mango has connected.
+[15:19:21	]Mango loaded the character 'Mango'
+[15:19:35	]Mango used command '/PlyWhitelist mango Biotic'.
+[15:19:38	]Mango used command '/PlyWhitelist mango VORTIGAUNT'.
+[15:19:58	]Mango created the character 'eaeaea'
+[15:19:59	]eaeaea has gained a 'Vortigaunt Hooks' #528.
+[15:19:59	]eaeaea has gained a 'Vortigaunt Shackles' #529.
+[15:19:59	]eaeaea has gained a 'Vortigaunt Collar' #530.
+[15:19:59	]Mango loaded the character 'eaeaea'
+[15:20:30	][IC] eaeaea: A.
+[15:20:35	]eaeaea used command '/CharGiveFlag ea U'.
+[15:20:38	]eaeaea used command '/Datafile eaeaea'.
+[15:20:58	]eaeaea used command '/Datafile 23408'.
+[15:21:16	]eaeaea used command '/CreateCid eaea'.
+[15:21:16	]eaeaea has gained a '#24117's Identity Card' #531.
+[15:21:19	]eaeaea used command '/Datafile 23408'.
+[15:21:30	]eaeaea used command '/CreateCid eaeaea'.
+[15:21:30	]eaeaea has gained a '#24117's Identity Card' #532.
+[15:21:34	]eaeaea used command '/Datafile eaeaea'.
+[15:21:43	]eaeaea used command '/UnlockShackles eaea'.
+[15:21:49	]eaeaea used command '/Datafile eaeaea'.
+[15:27:29	]eaeaea has gone afk.
+[15:40:23	]Mango has connected.
+[15:40:53	]Mango loaded the character 'eaeaea'
+[15:41:57	]Mango has unloaded their "eaeaea" character.
+[15:42:01	]Mango (STEAM_0:0:544539350) deleted character 'eaeaea'
+[15:42:22	]Mango created the character 'wawawa'
+[15:42:22	]Mango loaded the character 'wawawa'
+[15:42:22	]wawawa has gained a '#24822's Identity Card' #533.
+[15:42:22	]wawawa has gained a 'Vortigaunt Brown Trousers' #534.
+[15:42:51	]wawawa used command '/CharGiveFlag wawa U'.
+[15:42:52	]wawawa used command '/Datafile wawawa'.
+[15:45:44	]wawawa has given himself a vortigaunt_slave_collar.
+[15:45:44	]wawawa has gained a 'Vortigaunt Collar' #535.
+[15:45:52	]wawawa used command '/Datafile wawawa'.
+[15:46:01	]wawawa used command '/UnlockShackles wawa'.
+[15:46:07	]wawawa used command '/Datafile wawawa'.
+[15:51:52	]wawawa has gone afk.
+[15:52:22	]wawawa is no longer afk. Total time spent AFK: 325
+[15:53:55	]Mango (STEAM_0:0:544539350) has disconnected.
+[18:38:42	]ulterior has connected.
+[18:39:24	]ulterior created the character 'the one'
+[18:39:24	]the one has gained a 'Suitcase' #536.
+[18:39:24	]the one has gained a 'Flashlight' #537.
+[18:39:24	]the one has gained a 'Light Grey Armband' #538.
+[18:39:24	]the one has gained a '#25529's Identity Card' #539.
+[18:39:25	]ulterior loaded the character 'the one'
+[18:39:44	]Console ran SAM command 'adduser' with arguments: 'the one' 'server_admin'
+[18:39:57	]the one entered observer.
+[18:41:01	]the one exited observer at their location.
+[18:41:03	]the one entered observer.
+[18:41:04	]the one exited observer at their location.
+[18:41:05	]the one entered observer.
+[18:41:05	]the one exited observer at their location.
+[18:41:20	]the one entered observer.
+[18:42:25	]the one exited observer at their location.
+[18:42:25	]the one entered observer.
+[18:42:31	]the one exited observer at their location.
+[18:42:32	]the one entered observer.
+[18:44:15	]the one exited observer at their location.
+[18:44:18	]the one entered observer.
+[18:45:41	]the one exited observer at their location.
+[18:45:43	]the one entered observer.
+[18:45:47	]the one exited observer at their location.
+[18:45:49	]the one entered observer.
+[18:45:50	]the one exited observer at their location.
+[18:45:51	]the one entered observer.
+[18:45:51	]the one exited observer at their location.
+[18:45:54	]the one entered observer.
+[18:45:54	]the one exited observer at their location.
+[18:45:58	]the one entered observer.
+[18:45:58	]the one exited observer at their location.
+[18:46:00	]the one entered observer.
+[18:46:00	]the one exited observer at their location.
+[18:46:01	]the one entered observer.
+[18:46:01	]the one exited observer at their location.
+[18:46:05	]the one was knocked unconscious and is bleeding out.
+[18:46:06	]ulterior (STEAM_0:0:137846702) has disconnected.
+[18:53:48	]ulterior has connected.
+[18:54:20	]ulterior loaded the character 'the one'
+[18:54:44	]the one entered observer.
+[18:55:03	]the one exited observer at their location.
+[18:55:08	]the one entered observer.
+[18:55:08	]the one exited observer at their location.
+[18:55:18	]the one has given himself a torso_green_kevlar_t3.
+[18:55:18	]the one has gained a 'Heavy Kevlar Uniform' #540.
+[18:55:19	]the one has given himself a legs_green_padded_pants.
+[18:55:19	]the one has gained a 'Green Padded Pants' #541.
+[18:55:29	]the one ran SAM command 'hp' with arguments: '^' '400000'
+[18:55:30	]the one is fully healed.
+[18:55:30	]the one entered observer.
+[18:55:33	]the one exited observer at their location.
+[18:55:50	]the one entered observer.
+[18:56:21	]the one exited observer at their location.
+[18:56:32	]the one has given himself a largebag.
+[18:56:32	]the one has gained a 'Large Bag' #542.
+[18:56:33	]the one has given himself a smallbag.
+[18:56:33	]the one has gained a 'Small Bag' #543.
+[18:56:52	]the one has given himself a fruit_watermelon.
+[18:56:52	]the one has gained a 'Watermelon' #544.
+[18:56:53	]the one has given himself a fruit_watermelon.
+[18:56:53	]the one has gained a 'Watermelon' #545.
+[18:56:53	]the one has given himself a fruit_watermelon.
+[18:56:53	]the one has gained a 'Watermelon' #546.
+[18:56:54	]the one has given himself a fruit_watermelon.
+[18:56:54	]the one has gained a 'Watermelon' #547.
+[18:56:54	]the one has given himself a fruit_watermelon.
+[18:56:54	]the one has gained a 'Watermelon' #548.
+[18:56:55	]the one has given himself a fruit_watermelon.
+[18:56:55	]the one has gained a 'Watermelon' #549.
+[18:56:55	]the one has given himself a fruit_watermelon.
+[18:56:55	]the one has gained a 'Watermelon' #550.
+[18:57:02	]the one has given himself a fruit_watermelon.
+[18:57:02	]the one has gained a 'Watermelon' #551.
+[18:57:07	]the one has given himself a fruit_watermelon.
+[18:57:07	]the one has gained a 'Watermelon' #552.
+[18:57:08	]the one has given himself a fruit_watermelon.
+[18:57:08	]the one has gained a 'Watermelon' #553.
+[18:57:12	]the one has given himself a fruit_watermelon.
+[18:57:12	]the one has gained a 'Watermelon' #554.
+[18:57:12	]the one has given himself a fruit_watermelon.
+[18:57:12	]the one has gained a 'Watermelon' #555.
+[18:57:13	]the one has given himself a fruit_watermelon.
+[18:57:13	]the one has gained a 'Watermelon' #556.
+[18:57:17	]the one entered observer.
+[18:57:17	]the one exited observer at their location.
+[18:58:02	]the one has given himself a head_gasmask.
+[18:58:02	]the one has gained a 'Gas Mask' #557.
+[18:58:16	]the one used command '/ActSit'.
+[18:58:19	]the one used command '/ExitAct'.
+[18:58:19	]the one entered observer.
+[18:58:20	]the one exited observer at their location.
+[18:58:20	]the one entered observer.
+[18:58:22	]the one exited observer at their location.
+[18:58:22	]the one entered observer.
+[18:58:22	]the one exited observer at their location.
+[18:58:27	]the one used command '/CharSetHunger ^ 5'.
+[18:58:31	]the one used command '/CharSetHunger ^ -50'.
+[18:58:33	]the one used command '/CharSetHunger ^ 1'.
+[18:58:36	]the one used command '/CharSetHunger ^ 100'.
+[18:58:38	]the one used command '/CharSetHunger ^ 99'.
+[18:58:49	]the one used command '/CharSetThirst ^ 1'.
+[18:58:51	]the one used command '/CharSetThirst ^ 5'.
+[18:58:52	]the one used command '/CharSetThirst ^ 99'.
+[18:58:53	]the one entered observer.
+[18:58:57	]the one ran 'Consume' on item 'Watermelon' (#549)
+[18:59:00	]the one exited observer at their location.
+[18:59:06	]the one entered observer.
+[18:59:08	]the one exited observer at their location.
+[18:59:25	]the one entered observer.
+[18:59:45	]the one exited observer at their location.
+[18:59:46	]the one entered observer.
+[18:59:47	]the one exited observer at their location.
+[18:59:48	]the one entered observer.
+[18:59:48	]the one exited observer at their location.
+[18:59:49	]the one entered observer.
+[18:59:51	]the one exited observer at their location.
+[19:00:10	]the one has spawned a 'NPC [133][npc_vj_hlr2_alyx]'.
+[19:00:17	]the one has spawned a 'NPC [135][npc_zombie]'.
+[19:00:22	]the one has taken 10 damage from npc_zombie.
+[19:00:22	]the one has spawned a 'NPC [127][npc_zombie]'.
+[19:00:23	]the one has spawned a 'NPC [130][npc_zombie]'.
+[19:00:24	]the one has spawned a 'NPC [139][npc_zombie]'.
+[19:00:24	]the one has taken 10 damage from npc_zombie.
+[19:00:24	]the one has taken 10 damage from npc_zombie.
+[19:00:25	]the one is fully healed.
+[19:00:26	]the one has taken 10 damage from npc_zombie.
+[19:00:26	]the one has taken 10 damage from npc_zombie.
+[19:00:26	]the one has taken 10 damage from npc_zombie.
+[19:00:26	]the one has taken 10 damage from npc_zombie.
+[19:00:26	]the one has spawned a 'NPC [196][npc_zombie]'.
+[19:00:27	]the one has taken 10 damage from npc_zombie.
+[19:00:27	]the one has taken 10 damage from npc_zombie.
+[19:00:28	]the one has taken 10 damage from npc_zombie.
+[19:00:28	]the one has taken 10 damage from npc_zombie.
+[19:00:28	]the one has taken 10 damage from npc_zombie.
+[19:00:29	]the one has taken 10 damage from npc_zombie.
+[19:00:29	]the one has taken 10 damage from npc_zombie.
+[19:00:30	]the one is fully healed.
+[19:00:31	]the one has taken 10 damage from npc_zombie.
+[19:00:31	]the one has taken 10 damage from npc_zombie.
+[19:00:33	]the one has taken 10 damage from npc_zombie.
+[19:00:33	]the one has taken 10 damage from npc_zombie.
+[19:00:35	]the one is fully healed.
+[19:00:36	]the one has taken 10 damage from npc_zombie.
+[19:00:36	]the one has taken 10 damage from npc_zombie.
+[19:00:39	]the one has taken 10 damage from npc_zombie.
+[19:00:40	]the one is fully healed.
+[19:00:41	]the one has taken 10 damage from npc_zombie.
+[19:00:43	]the one has taken 10 damage from npc_zombie.
+[19:00:43	]the one has taken 10 damage from npc_zombie.
+[19:00:45	]the one is fully healed.
+[19:00:46	]the one has taken 10 damage from npc_zombie.
+[19:00:47	]the one has taken 10 damage from npc_zombie.
+[19:00:48	]the one has taken 10 damage from npc_zombie.
+[19:00:50	]the one is fully healed.
+[19:00:50	]the one has taken 10 damage from npc_zombie.
+[19:00:52	]the one has taken 10 damage from npc_zombie.
+[19:00:52	]the one has taken 10 damage from npc_zombie.
+[19:00:54	]the one has taken 10 damage from npc_zombie.
+[19:00:55	]the one is fully healed.
+[19:00:56	]the one has taken 10 damage from npc_zombie.
+[19:00:58	]the one has taken 10 damage from npc_zombie.
+[19:00:59	]the one has taken 10 damage from npc_zombie.
+[19:01:00	]the one is fully healed.
+[19:01:01	]the one has taken 10 damage from npc_zombie.
+[19:01:02	]the one has taken 10 damage from npc_zombie.
+[19:01:04	]the one has taken 10 damage from npc_zombie.
+[19:01:04	]the one has taken 10 damage from npc_zombie.
+[19:01:04	]the one has taken 10 damage from npc_zombie.
+[19:01:05	]the one is fully healed.
+[19:01:07	]the one has taken 10 damage from npc_zombie.
+[19:01:07	]the one has taken 10 damage from npc_zombie.
+[19:01:07	]the one has taken 10 damage from npc_zombie.
+[19:01:08	]the one has taken 10 damage from npc_zombie.
+[19:01:08	]the one has taken 10 damage from npc_zombie.
+[19:01:09	]the one has taken 10 damage from npc_zombie.
+[19:01:10	]the one is fully healed.
+[19:01:10	]the one has taken 10 damage from npc_zombie.
+[19:01:10	]the one has taken 10 damage from npc_zombie.
+[19:01:11	]the one has taken 10 damage from npc_zombie.
+[19:01:13	]the one has taken 10 damage from npc_zombie.
+[19:01:13	]the one has taken 10 damage from npc_zombie.
+[19:01:13	]the one has taken 10 damage from npc_zombie.
+[19:01:15	]the one is fully healed.
+[19:01:16	]the one has spawned a 'NPC [131][npc_vj_gonome]'.
+[19:01:17	]the one has taken 10 damage from npc_zombie.
+[19:01:18	]the one has taken 10 damage from npc_zombie.
+[19:01:18	]the one has taken 45 damage from Gonome.
+[19:01:18	]the one has taken 45 damage from Gonome.
+[19:01:18	]the one has spawned a 'NPC [184][npc_vj_zomnarch]'.
+[19:01:19	]the one has taken 10 damage from npc_zombie.
+[19:01:20	]the one is fully healed.
+[19:01:20	]the one has taken 10 damage from npc_zombie.
+[19:01:20	]the one has taken 45 damage from Gonome.
+[19:01:21	]the one has taken 45 damage from Gonome.
+[19:01:21	]the one has taken 10 damage from npc_zombie.
+[19:01:21	]the one has taken 45 damage from Gonome.
+[19:01:21	]the one has taken 45 damage from Gonome.
+[19:01:21	]the one has taken 10 damage from npc_zombie.
+[19:01:23	]the one has taken 30 damage from Gonome.
+[19:01:25	]the one is fully healed.
+[19:01:27	]the one has taken 80 damage from Zomnarch.
+[19:01:27	]the one has taken 80 damage from Zomnarch.
+[19:01:28	]the one has taken 1 damage from Zomnarch.
+[19:01:29	]the one has taken 1 damage from Zomnarch.
+[19:01:30	]the one has taken 45 damage from Gonome.
+[19:01:30	]the one is fully healed.
+[19:01:30	]the one has taken 45 damage from Gonome.
+[19:01:30	]the one has taken 1 damage from Zomnarch.
+[19:01:30	]the one has taken 45 damage from Gonome.
+[19:01:30	]the one has taken 45 damage from Gonome.
+[19:01:31	]the one has taken 1 damage from Zomnarch.
+[19:01:32	]the one has taken 45 damage from Gonome.
+[19:01:32	]the one has taken 45 damage from Gonome.
+[19:01:33	]the one has taken 10 damage from npc_zombie.
+[19:01:34	]the one has taken 45 damage from Gonome.
+[19:01:35	]the one has taken 10 damage from npc_zombie.
+[19:01:35	]the one has taken 45 damage from Gonome.
+[19:01:35	]the one is fully healed.
+[19:01:35	]the one has taken 10 damage from npc_zombie.
+[19:01:36	]the one has taken 80 damage from Zomnarch.
+[19:01:37	]the one has taken 80 damage from Zomnarch.
+[19:01:39	]the one has taken 10 damage from npc_zombie.
+[19:01:40	]the one has taken 10 damage from npc_zombie.
+[19:01:40	]the one is fully healed.
+[19:01:40	]the one has taken 80 damage from Zomnarch.
+[19:01:40	]the one has taken 80 damage from Zomnarch.
+[19:01:41	]the one has taken 1 damage from Zomnarch.
+[19:01:42	]the one has taken 1 damage from Zomnarch.
+[19:01:42	]the one has taken 10 damage from npc_zombie.
+[19:01:42	]the one has taken 10 damage from npc_zombie.
+[19:01:42	]the one has taken 80 damage from Zomnarch.
+[19:01:43	]the one has taken 1 damage from Zomnarch.
+[19:01:44	]the one has taken 1 damage from Zomnarch.
+[19:01:44	]the one has taken 80 damage from Zomnarch.
+[19:01:45	]the one has taken 45 damage from Gonome.
+[19:01:45	]the one has taken 10 damage from npc_zombie.
+[19:01:45	]the one has taken 80 damage from Zomnarch.
+[19:01:45	]the one is fully healed.
+[19:01:45	]the one has taken 1 damage from Zomnarch.
+[19:01:46	]the one has taken 1 damage from Zomnarch.
+[19:01:47	]the one has taken 1 damage from Zomnarch.
+[19:01:48	]the one entered observer.
+[19:01:48	]the one exited observer at their location.
+[19:01:48	]the one has taken 1 damage from Zomnarch.
+[19:01:50	]the one is fully healed.
+[19:01:50	]the one used command '/ActSit'.
+[19:01:50	]the one has taken 80 damage from Zomnarch.
+[19:01:50	]the one has taken 10 damage from npc_zombie.
+[19:01:50	]the one has taken 80 damage from Zomnarch.
+[19:01:50	]the one has taken 10 damage from npc_zombie.
+[19:01:50	]the one has taken 80 damage from Zomnarch.
+[19:01:51	]the one has taken 80 damage from Zomnarch.
+[19:01:51	]the one has taken 45 damage from Gonome.
+[19:01:51	]the one has taken 45 damage from Gonome.
+[19:01:52	]the one has taken 80 damage from Zomnarch.
+[19:01:52	]the one has taken 10 damage from npc_zombie.
+[19:01:52	]the one has taken 80 damage from Zomnarch.
+[19:01:52	]the one has taken 10 damage from npc_zombie.
+[19:01:52	]the one has taken 80 damage from Zomnarch.
+[19:01:52	]the one has taken 80 damage from Zomnarch.
+[19:01:53	]the one has taken 10 damage from npc_zombie.
+[19:01:53	]the one has taken 45 damage from Gonome.
+[19:01:53	]the one has taken 10 damage from npc_zombie.
+[19:01:53	]the one has taken 45 damage from Gonome.
+[19:01:53	]the one has taken 1 damage from Zomnarch.
+[19:01:53	]the one has taken 10 damage from npc_zombie.
+[19:01:54	]the one has taken 80 damage from Zomnarch.
+[19:01:54	]the one has taken 80 damage from Zomnarch.
+[19:01:54	]the one has taken 10 damage from npc_zombie.
+[19:01:55	]the one has taken 10 damage from npc_zombie.
+[19:01:55	]the one is fully healed.
+[19:01:55	]the one has taken 1 damage from Zomnarch.
+[19:01:55	]the one has taken 10 damage from npc_zombie.
+[19:01:55	]the one has taken 80 damage from Zomnarch.
+[19:01:55	]the one has taken 45 damage from Gonome.
+[19:01:56	]the one has taken 80 damage from Zomnarch.
+[19:01:56	]the one has taken 45 damage from Gonome.
+[19:01:56	]the one has taken 45 damage from Gonome.
+[19:01:56	]the one has taken 45 damage from Gonome.
+[19:01:56	]the one has taken 10 damage from npc_zombie.
+[19:01:56	]the one has taken 10 damage from npc_zombie.
+[19:01:57	]the one has taken 1 damage from Zomnarch.
+[19:01:57	]the one has taken 10 damage from npc_zombie.
+[19:01:57	]the one has taken 10 damage from npc_zombie.
+[19:01:57	]the one has taken 80 damage from Zomnarch.
+[19:01:57	]the one has taken 80 damage from Zomnarch.
+[19:01:57	]the one has taken 10 damage from npc_zombie.
+[19:01:58	]the one has taken 45 damage from Gonome.
+[19:01:58	]the one has taken 1 damage from Zomnarch.
+[19:01:58	]the one has taken 10 damage from npc_zombie.
+[19:01:58	]the one has taken 45 damage from Gonome.
+[19:01:58	]the one has taken 10 damage from npc_zombie.
+[19:01:59	]the one has taken 10 damage from npc_zombie.
+[19:01:59	]the one has taken 80 damage from Zomnarch.
+[19:01:59	]the one has taken 80 damage from Zomnarch.
+[19:01:59	]the one has taken 10 damage from npc_zombie.
+[19:02:00	]the one has taken 10 damage from npc_zombie.
+[19:02:00	]the one has taken 10 damage from npc_zombie.
+[19:02:00	]the one is fully healed.
+[19:02:00	]the one has taken 1 damage from Zomnarch.
+[19:02:00	]the one has taken 45 damage from Gonome.
+[19:02:00	]the one has taken 10 damage from npc_zombie.
+[19:02:00	]the one has taken 80 damage from Zomnarch.
+[19:02:01	]the one has taken 45 damage from Gonome.
+[19:02:01	]the one has taken 80 damage from Zomnarch.
+[19:02:01	]the one has taken 10 damage from npc_zombie.
+[19:02:01	]the one has taken 10 damage from npc_zombie.
+[19:02:01	]the one has taken 1 damage from Zomnarch.
+[19:02:01	]the one has taken 10 damage from npc_zombie.
+[19:02:02	]the one has taken 10 damage from npc_zombie.
+[19:02:02	]the one has taken 10 damage from npc_zombie.
+[19:02:02	]the one has taken 1 damage from Zomnarch.
+[19:02:02	]the one has taken 80 damage from Zomnarch.
+[19:02:02	]the one has taken 80 damage from Zomnarch.
+[19:02:02	]the one has taken 10 damage from npc_zombie.
+[19:02:03	]the one has taken 45 damage from Gonome.
+[19:02:03	]the one has taken 10 damage from npc_zombie.
+[19:02:03	]the one has taken 45 damage from Gonome.
+[19:02:03	]the one has taken 1 damage from Zomnarch.
+[19:02:03	]the one has taken 45 damage from Gonome.
+[19:02:03	]the one has taken 45 damage from Gonome.
+[19:02:04	]the one has taken 10 damage from npc_zombie.
+[19:02:04	]the one has taken 10 damage from npc_zombie.
+[19:02:04	]the one has taken 80 damage from Zomnarch.
+[19:02:04	]the one has taken 80 damage from Zomnarch.
+[19:02:04	]the one has taken 10 damage from npc_zombie.
+[19:02:04	]the one has taken 80 damage from Zomnarch.
+[19:02:04	]the one has taken 10 damage from npc_zombie.
+[19:02:05	]the one has taken 80 damage from Zomnarch.
+[19:02:05	]the one is fully healed.
+[19:02:05	]the one has taken 10 damage from npc_zombie.
+[19:02:05	]the one has taken 10 damage from npc_zombie.
+[19:02:05	]the one has taken 45 damage from Gonome.
+[19:02:05	]the one has taken 45 damage from Gonome.
+[19:02:05	]the one has taken 10 damage from npc_zombie.
+[19:02:06	]the one has taken 1 damage from Zomnarch.
+[19:02:06	]the one has taken 80 damage from Zomnarch.
+[19:02:06	]the one has taken 45 damage from Gonome.
+[19:02:06	]the one has taken 10 damage from npc_zombie.
+[19:02:06	]the one has taken 45 damage from Gonome.
+[19:02:06	]the one has taken 80 damage from Zomnarch.
+[19:02:06	]the one has taken 10 damage from npc_zombie.
+[19:02:07	]the one has taken 1 damage from Zomnarch.
+[19:02:07	]the one has taken 10 damage from npc_zombie.
+[19:02:07	]the one has taken 10 damage from npc_zombie.
+[19:02:07	]the one has taken 10 damage from npc_zombie.
+[19:02:07	]the one has taken 80 damage from Zomnarch.
+[19:02:08	]the one has taken 1 damage from Zomnarch.
+[19:02:08	]the one has taken 45 damage from Gonome.
+[19:02:08	]the one has taken 80 damage from Zomnarch.
+[19:02:08	]the one has taken 45 damage from Gonome.
+[19:02:08	]the one has taken 10 damage from npc_zombie.
+[19:02:08	]the one has taken 80 damage from Zomnarch.
+[19:02:08	]the one has taken 45 damage from Gonome.
+[19:02:08	]the one has taken 80 damage from Zomnarch.
+[19:02:08	]the one has taken 10 damage from npc_zombie.
+[19:02:08	]the one has taken 45 damage from Gonome.
+[19:02:09	]the one has taken 10 damage from npc_zombie.
+[19:02:09	]the one has taken 10 damage from npc_zombie.
+[19:02:09	]the one has taken 1 damage from Zomnarch.
+[19:02:09	]the one has taken 80 damage from Zomnarch.
+[19:02:09	]the one has taken 80 damage from Zomnarch.
+[19:02:09	]the one has taken 10 damage from npc_zombie.
+[19:02:09	]the one has taken 10 damage from npc_zombie.
+[19:02:10	]the one is fully healed.
+[19:02:10	]the one has taken 45 damage from Gonome.
+[19:02:10	]the one has taken 1 damage from Zomnarch.
+[19:02:10	]the one has taken 10 damage from npc_zombie.
+[19:02:10	]the one has taken 45 damage from Gonome.
+[19:02:10	]the one has taken 10 damage from npc_zombie.
+[19:02:11	]the one has taken 10 damage from npc_zombie.
+[19:02:11	]the one has taken 10 damage from npc_zombie.
+[19:02:11	]the one has taken 80 damage from Zomnarch.
+[19:02:11	]the one has taken 80 damage from Zomnarch.
+[19:02:11	]the one has taken 80 damage from Zomnarch.
+[19:02:12	]the one has taken 80 damage from Zomnarch.
+[19:02:12	]the one has taken 10 damage from npc_zombie.
+[19:02:12	]the one has taken 10 damage from npc_zombie.
+[19:02:12	]the one has taken 1 damage from Zomnarch.
+[19:02:12	]the one has taken 45 damage from Gonome.
+[19:02:12	]the one has taken 10 damage from npc_zombie.
+[19:02:12	]the one has taken 10 damage from npc_zombie.
+[19:02:13	]the one has taken 45 damage from Gonome.
+[19:02:13	]the one has taken 80 damage from Zomnarch.
+[19:02:13	]the one has taken 45 damage from Gonome.
+[19:02:13	]the one has taken 80 damage from Zomnarch.
+[19:02:13	]the one has taken 45 damage from Gonome.
+[19:02:13	]the one has taken 80 damage from Zomnarch.
+[19:02:13	]the one has taken 80 damage from Zomnarch.
+[19:02:14	]the one has taken 10 damage from npc_zombie.
+[19:02:14	]the one has taken 10 damage from npc_zombie.
+[19:02:14	]the one has taken 10 damage from npc_zombie.
+[19:02:14	]the one has taken 10 damage from npc_zombie.
+[19:02:14	]the one has taken 1 damage from Zomnarch.
+[19:02:14	]the one has taken 80 damage from Zomnarch.
+[19:02:15	]the one has taken 80 damage from Zomnarch.
+[19:02:15	]the one is fully healed.
+[19:02:15	]the one has taken 45 damage from Gonome.
+[19:02:15	]the one has taken 80 damage from Zomnarch.
+[19:02:15	]the one has taken 45 damage from Gonome.
+[19:02:15	]the one has taken 80 damage from Zomnarch.
+[19:02:15	]the one has taken 10 damage from npc_zombie.
+[19:02:15	]the one has taken 45 damage from Gonome.
+[19:02:16	]the one has taken 45 damage from Gonome.
+[19:02:16	]the one has taken 10 damage from npc_zombie.
+[19:02:16	]the one has taken 10 damage from npc_zombie.
+[19:02:16	]the one has taken 10 damage from npc_zombie.
+[19:02:16	]the one has taken 1 damage from Zomnarch.
+[19:02:16	]the one has taken 80 damage from Zomnarch.
+[19:02:17	]the one has taken 80 damage from Zomnarch.
+[19:02:17	]the one has taken 10 damage from npc_zombie.
+[19:02:17	]the one has taken 10 damage from npc_zombie.
+[19:02:17	]the one has taken 1 damage from Zomnarch.
+[19:02:17	]the one has taken 10 damage from npc_zombie.
+[19:02:17	]the one has taken 45 damage from Gonome.
+[19:02:17	]the one has taken 10 damage from npc_zombie.
+[19:02:18	]the one has taken 45 damage from Gonome.
+[19:02:18	]the one has taken 80 damage from Zomnarch.
+[19:02:18	]the one has taken 45 damage from Gonome.
+[19:02:18	]the one has taken 45 damage from Gonome.
+[19:02:18	]the one has taken 80 damage from Zomnarch.
+[19:02:19	]the one has taken 10 damage from npc_zombie.
+[19:02:19	]the one has taken 10 damage from npc_zombie.
+[19:02:19	]the one has taken 10 damage from npc_zombie.
+[19:02:19	]the one has taken 10 damage from npc_zombie.
+[19:02:19	]the one has taken 1 damage from Zomnarch.
+[19:02:20	]the one has taken 80 damage from Zomnarch.
+[19:02:20	]the one is fully healed.
+[19:02:20	]the one has taken 45 damage from Gonome.
+[19:02:20	]the one has taken 80 damage from Zomnarch.
+[19:02:20	]the one has taken 45 damage from Gonome.
+[19:02:20	]the one has taken 45 damage from Gonome.
+[19:02:20	]the one has taken 10 damage from npc_zombie.
+[19:02:20	]the one has taken 10 damage from npc_zombie.
+[19:02:20	]the one has taken 10 damage from npc_zombie.
+[19:02:21	]the one has taken 1 damage from Zomnarch.
+[19:02:21	]the one has taken 45 damage from Gonome.
+[19:02:21	]the one has taken 10 damage from npc_zombie.
+[19:02:21	]the one has taken 80 damage from Zomnarch.
+[19:02:22	]the one has taken 1 damage from Zomnarch.
+[19:02:22	]the one has taken 10 damage from npc_zombie.
+[19:02:22	]the one has taken 10 damage from npc_zombie.
+[19:02:22	]the one has taken 80 damage from Zomnarch.
+[19:02:22	]the one has taken 10 damage from npc_zombie.
+[19:02:22	]the one has taken 45 damage from Gonome.
+[19:02:22	]the one has taken 10 damage from npc_zombie.
+[19:02:23	]the one has taken 45 damage from Gonome.
+[19:02:23	]the one has taken 1 damage from Zomnarch.
+[19:02:23	]the one has taken 10 damage from npc_zombie.
+[19:02:23	]the one has taken 45 damage from Gonome.
+[19:02:23	]the one has taken 80 damage from Zomnarch.
+[19:02:23	]the one has taken 45 damage from Gonome.
+[19:02:23	]the one has taken 10 damage from npc_zombie.
+[19:02:23	]the one has taken 80 damage from Zomnarch.
+[19:02:24	]the one has taken 10 damage from npc_zombie.
+[19:02:24	]the one has taken 1 damage from Zomnarch.
+[19:02:24	]the one has taken 10 damage from npc_zombie.
+[19:02:24	]the one has taken 10 damage from npc_zombie.
+[19:02:24	]the one has taken 10 damage from npc_zombie.
+[19:02:25	]the one has taken 80 damage from Zomnarch.
+[19:02:25	]the one is fully healed.
+[19:02:25	]the one has taken 45 damage from Gonome.
+[19:02:25	]the one has taken 1 damage from Zomnarch.
+[19:02:25	]the one has taken 80 damage from Zomnarch.
+[19:02:25	]the one has taken 45 damage from Gonome.
+[19:02:25	]the one has taken 45 damage from Gonome.
+[19:02:25	]the one has taken 10 damage from npc_zombie.
+[19:02:26	]the one has taken 45 damage from Gonome.
+[19:02:26	]the one has taken 10 damage from npc_zombie.
+[19:02:26	]the one has taken 10 damage from npc_zombie.
+[19:02:26	]the one has taken 10 damage from npc_zombie.
+[19:02:26	]the one has taken 1 damage from Zomnarch.
+[19:02:26	]the one has taken 80 damage from Zomnarch.
+[19:02:27	]the one has taken 80 damage from Zomnarch.
+[19:02:27	]the one has taken 10 damage from npc_zombie.
+[19:02:27	]the one has taken 10 damage from npc_zombie.
+[19:02:27	]the one has taken 45 damage from Gonome.
+[19:02:27	]the one has taken 1 damage from Zomnarch.
+[19:02:27	]the one has taken 10 damage from npc_zombie.
+[19:02:27	]the one has taken 10 damage from npc_zombie.
+[19:02:28	]the one has taken 45 damage from Gonome.
+[19:02:28	]the one has taken 80 damage from Zomnarch.
+[19:02:28	]the one has taken 10 damage from npc_zombie.
+[19:02:28	]the one has taken 1 damage from Zomnarch.
+[19:02:28	]the one has taken 80 damage from Zomnarch.
+[19:02:29	]the one has taken 10 damage from npc_zombie.
+[19:02:29	]the one has taken 10 damage from npc_zombie.
+[19:02:29	]the one has taken 10 damage from npc_zombie.
+[19:02:29	]the one has taken 10 damage from npc_zombie.
+[19:02:29	]the one has taken 1 damage from Zomnarch.
+[19:02:30	]the one has taken 45 damage from Gonome.
+[19:02:30	]the one has taken 80 damage from Zomnarch.
+[19:02:30	]the one has taken 10 damage from npc_zombie.
+[19:02:30	]the one is fully healed.
+[19:02:30	]the one has taken 45 damage from Gonome.
+[19:02:30	]the one has taken 80 damage from Zomnarch.
+[19:02:30	]the one has taken 45 damage from Gonome.
+[19:02:30	]the one has taken 45 damage from Gonome.
+[19:02:30	]the one has taken 10 damage from npc_zombie.
+[19:02:31	]the one has taken 10 damage from npc_zombie.
+[19:02:31	]the one has taken 1 damage from Zomnarch.
+[19:02:31	]the one has taken 10 damage from npc_zombie.
+[19:02:31	]the one has taken 80 damage from Zomnarch.
+[19:02:31	]the one has taken 10 damage from npc_zombie.
+[19:02:32	]the one has taken 80 damage from Zomnarch.
+[19:02:32	]the one has taken 10 damage from npc_zombie.
+[19:02:32	]the one has taken 45 damage from Gonome.
+[19:02:32	]the one has taken 10 damage from npc_zombie.
+[19:02:32	]the one has taken 45 damage from Gonome.
+[19:02:33	]the one has taken 45 damage from Gonome.
+[19:02:33	]the one has taken 10 damage from npc_zombie.
+[19:02:33	]the one has taken 1 damage from Zomnarch.
+[19:02:33	]the one has taken 45 damage from Gonome.
+[19:02:33	]the one has taken 80 damage from Zomnarch.
+[19:02:33	]the one has taken 10 damage from npc_zombie.
+[19:02:33	]the one has taken 10 damage from npc_zombie.
+[19:02:34	]the one has taken 80 damage from Zomnarch.
+[19:02:34	]the one has taken 10 damage from npc_zombie.
+[19:02:34	]the one has taken 1 damage from Zomnarch.
+[19:02:34	]the one has taken 10 damage from npc_zombie.
+[19:02:35	]the one has taken 45 damage from Gonome.
+[19:02:35	]the one is fully healed.
+[19:02:35	]the one has taken 1 damage from Zomnarch.
+[19:02:35	]the one has taken 45 damage from Gonome.
+[19:02:35	]the one has taken 10 damage from npc_zombie.
+[19:02:35	]the one has taken 80 damage from Zomnarch.
+[19:02:35	]the one has taken 10 damage from npc_zombie.
+[19:02:35	]the one has taken 80 damage from Zomnarch.
+[19:02:35	]the one has taken 45 damage from Gonome.
+[19:02:35	]the one has taken 10 damage from npc_zombie.
+[19:02:35	]the one has taken 45 damage from Gonome.
+[19:02:35	]the one has taken 80 damage from Zomnarch.
+[19:02:36	]the one has taken 80 damage from Zomnarch.
+[19:02:36	]the one has taken 1 damage from Zomnarch.
+[19:02:36	]the one has taken 10 damage from npc_zombie.
+[19:02:36	]the one has taken 10 damage from npc_zombie.
+[19:02:37	]the one has taken 10 damage from npc_zombie.
+[19:02:37	]the one has taken 80 damage from Zomnarch.
+[19:02:37	]the one has taken 10 damage from npc_zombie.
+[19:02:37	]the one has taken 80 damage from Zomnarch.
+[19:02:37	]the one has taken 45 damage from Gonome.
+[19:02:37	]the one has taken 80 damage from Zomnarch.
+[19:02:37	]the one has taken 45 damage from Gonome.
+[19:02:37	]the one has taken 80 damage from Zomnarch.
+[19:02:38	]the one has taken 10 damage from npc_zombie.
+[19:02:38	]the one has taken 10 damage from npc_zombie.
+[19:02:38	]the one has taken 10 damage from npc_zombie.
+[19:02:38	]the one has taken 10 damage from npc_zombie.
+[19:02:38	]the one has taken 1 damage from Zomnarch.
+[19:02:39	]the one has taken 80 damage from Zomnarch.
+[19:02:39	]the one has taken 80 damage from Zomnarch.
+[19:02:39	]the one has taken 80 damage from Zomnarch.
+[19:02:39	]the one has taken 45 damage from Gonome.
+[19:02:39	]the one has taken 80 damage from Zomnarch.
+[19:02:39	]the one has taken 10 damage from npc_zombie.
+[19:02:39	]the one has taken 10 damage from npc_zombie.
+[19:02:40	]the one has taken 10 damage from npc_zombie.
+[19:02:40	]the one has taken 45 damage from Gonome.
+[19:02:40	]the one has taken 10 damage from npc_zombie.
+[19:02:40	]the one is fully healed.
+[19:02:40	]the one has taken 1 damage from Zomnarch.
+[19:02:40	]the one has taken 80 damage from Zomnarch.
+[19:02:41	]the one has taken 80 damage from Zomnarch.
+[19:02:41	]the one has taken 10 damage from npc_zombie.
+[19:02:41	]the one has taken 10 damage from npc_zombie.
+[19:02:41	]the one has taken 10 damage from npc_zombie.
+[19:02:41	]the one has taken 1 damage from Zomnarch.
+[19:02:41	]the one has taken 10 damage from npc_zombie.
+[19:02:42	]the one has taken 45 damage from Gonome.
+[19:02:42	]the one has taken 45 damage from Gonome.
+[19:02:42	]the one has taken 80 damage from Zomnarch.
+[19:02:42	]the one has taken 45 damage from Gonome.
+[19:02:42	]the one has taken 1 damage from Zomnarch.
+[19:02:42	]the one has taken 80 damage from Zomnarch.
+[19:02:42	]the one has taken 10 damage from npc_zombie.
+[19:02:42	]the one has taken 45 damage from Gonome.
+[19:02:43	]the one has taken 80 damage from Zomnarch.
+[19:02:43	]the one has taken 10 damage from npc_zombie.
+[19:02:43	]the one has taken 80 damage from Zomnarch.
+[19:02:43	]the one has taken 10 damage from npc_zombie.
+[19:02:43	]the one has taken 10 damage from npc_zombie.
+[19:02:43	]the one has taken 1 damage from Zomnarch.
+[19:02:44	]the one has taken 10 damage from npc_zombie.
+[19:02:44	]the one has taken 80 damage from Zomnarch.
+[19:02:44	]the one has taken 45 damage from Gonome.
+[19:02:44	]the one has taken 80 damage from Zomnarch.
+[19:02:44	]the one has taken 10 damage from npc_zombie.
+[19:02:45	]the one has taken 10 damage from npc_zombie.
+[19:02:45	]the one has taken 45 damage from Gonome.
+[19:02:45	]the one has taken 10 damage from npc_zombie.
+[19:02:45	]the one is fully healed.
+[19:02:45	]the one has taken 10 damage from npc_zombie.
+[19:02:45	]the one has taken 1 damage from Zomnarch.
+[19:02:46	]the one has taken 80 damage from Zomnarch.
+[19:02:46	]the one has taken 80 damage from Zomnarch.
+[19:02:46	]the one has taken 10 damage from npc_zombie.
+[19:02:46	]the one has taken 10 damage from npc_zombie.
+[19:02:46	]the one has taken 10 damage from npc_zombie.
+[19:02:46	]the one has taken 10 damage from npc_zombie.
+[19:02:47	]the one has taken 1 damage from Zomnarch.
+[19:02:47	]the one has taken 45 damage from Gonome.
+[19:02:47	]the one has taken 45 damage from Gonome.
+[19:02:47	]the one has taken 80 damage from Zomnarch.
+[19:02:47	]the one has taken 10 damage from npc_zombie.
+[19:02:48	]the one has taken 1 damage from Zomnarch.
+[19:02:48	]the one has taken 80 damage from Zomnarch.
+[19:02:48	]the one has taken 10 damage from npc_zombie.
+[19:02:48	]the one has taken 10 damage from npc_zombie.
+[19:02:48	]the one has taken 10 damage from npc_zombie.
+[19:02:49	]the one has taken 1 damage from Zomnarch.
+[19:02:49	]the one has taken 10 damage from npc_zombie.
+[19:02:49	]the one has taken 45 damage from Gonome.
+[19:02:49	]the one has taken 80 damage from Zomnarch.
+[19:02:49	]the one has taken 45 damage from Gonome.
+[19:02:49	]the one has taken 10 damage from npc_zombie.
+[19:02:49	]the one has taken 80 damage from Zomnarch.
+[19:02:49	]the one has taken 10 damage from npc_zombie.
+[19:02:50	]the one has taken 1 damage from Zomnarch.
+[19:02:50	]the one is fully healed.
+[19:02:50	]the one has taken 10 damage from npc_zombie.
+[19:02:50	]the one has taken 10 damage from npc_zombie.
+[19:02:51	]the one has taken 1 damage from Zomnarch.
+[19:02:51	]the one has taken 80 damage from Zomnarch.
+[19:02:51	]the one has taken 80 damage from Zomnarch.
+[19:02:51	]the one has taken 10 damage from npc_zombie.
+[19:02:51	]the one has taken 10 damage from npc_zombie.
+[19:02:51	]the one has taken 45 damage from Gonome.
+[19:02:51	]the one has taken 10 damage from npc_zombie.
+[19:02:51	]the one has taken 80 damage from Zomnarch.
+[19:02:51	]the one has taken 80 damage from Zomnarch.
+[19:02:52	]the one has taken 45 damage from Gonome.
+[19:02:52	]the one has taken 10 damage from npc_zombie.
+[19:02:52	]the one has taken 10 damage from npc_zombie.
+[19:02:52	]the one has taken 10 damage from npc_zombie.
+[19:02:52	]the one has taken 1 damage from Zomnarch.
+[19:02:53	]the one has taken 80 damage from Zomnarch.
+[19:02:53	]the one has taken 10 damage from npc_zombie.
+[19:02:53	]the one has taken 80 damage from Zomnarch.
+[19:02:53	]the one has taken 80 damage from Zomnarch.
+[19:02:53	]the one has taken 80 damage from Zomnarch.
+[19:02:53	]the one has taken 10 damage from npc_zombie.
+[19:02:54	]the one has taken 45 damage from Gonome.
+[19:02:54	]the one has taken 10 damage from npc_zombie.
+[19:02:54	]the one has taken 10 damage from npc_zombie.
+[19:02:54	]the one has taken 45 damage from Gonome.
+[19:02:54	]the one has taken 10 damage from npc_zombie.
+[19:02:54	]the one has taken 45 damage from Gonome.
+[19:02:54	]the one has taken 45 damage from Gonome.
+[19:02:54	]the one has taken 1 damage from Zomnarch.
+[19:02:54	]the one has taken 80 damage from Zomnarch.
+[19:02:55	]the one has taken 80 damage from Zomnarch.
+[19:02:55	]the one has taken 10 damage from npc_zombie.
+[19:02:55	]the one is fully healed.
+[19:02:55	]the one has taken 80 damage from Zomnarch.
+[19:02:55	]the one has taken 10 damage from npc_zombie.
+[19:02:55	]the one has taken 80 damage from Zomnarch.
+[19:02:55	]the one has taken 1 damage from Zomnarch.
+[19:02:55	]the one has taken 10 damage from npc_zombie.
+[19:02:56	]the one has taken 10 damage from npc_zombie.
+[19:02:56	]the one has taken 45 damage from Gonome.
+[19:02:56	]the one has taken 80 damage from Zomnarch.
+[19:02:56	]the one has taken 45 damage from Gonome.
+[19:02:56	]the one has taken 10 damage from npc_zombie.
+[19:02:56	]the one has taken 80 damage from Zomnarch.
+[19:02:57	]the one has taken 45 damage from Gonome.
+[19:02:57	]the one has taken 10 damage from npc_zombie.
+[19:02:57	]the one has taken 80 damage from Zomnarch.
+[19:02:57	]the one has taken 45 damage from Gonome.
+[19:02:57	]the one has taken 10 damage from npc_zombie.
+[19:02:57	]the one has taken 10 damage from npc_zombie.
+[19:02:57	]the one has taken 80 damage from Zomnarch.
+[19:02:57	]the one has taken 1 damage from Zomnarch.
+[19:02:58	]the one has taken 80 damage from Zomnarch.
+[19:02:58	]the one has taken 10 damage from npc_zombie.
+[19:02:58	]the one has taken 1 damage from Zomnarch.
+[19:02:58	]the one has taken 80 damage from Zomnarch.
+[19:02:58	]the one has taken 10 damage from npc_zombie.
+[19:02:58	]the one has taken 45 damage from Gonome.
+[19:02:58	]the one has taken 10 damage from npc_zombie.
+[19:02:59	]the one has taken 10 damage from npc_zombie.
+[19:02:59	]the one has taken 80 damage from Zomnarch.
+[19:02:59	]the one has taken 45 damage from Gonome.
+[19:02:59	]the one has taken 80 damage from Zomnarch.
+[19:03:00	]the one has taken 1 damage from Zomnarch.
+[19:03:00	]the one is fully healed.
+[19:03:00	]the one has taken 80 damage from Zomnarch.
+[19:03:00	]the one has taken 10 damage from npc_zombie.
+[19:03:00	]the one has taken 10 damage from npc_zombie.
+[19:03:00	]the one has taken 10 damage from npc_zombie.
+[19:03:00	]the one has taken 80 damage from Zomnarch.
+[19:03:00	]the one has taken 10 damage from npc_zombie.
+[19:03:01	]the one has taken 45 damage from Gonome.
+[19:03:01	]the one has taken 45 damage from Gonome.
+[19:03:01	]the one has taken 10 damage from npc_zombie.
+[19:03:01	]the one has taken 1 damage from Zomnarch.
+[19:03:01	]the one has taken 10 damage from npc_zombie.
+[19:03:01	]the one has taken 45 damage from Gonome.
+[19:03:02	]the one has taken 80 damage from Zomnarch.
+[19:03:02	]the one has taken 45 damage from Gonome.
+[19:03:02	]the one has taken 10 damage from npc_zombie.
+[19:03:02	]the one has taken 80 damage from Zomnarch.
+[19:03:02	]the one has taken 10 damage from npc_zombie.
+[19:03:02	]the one has taken 1 damage from Zomnarch.
+[19:03:02	]the one has taken 10 damage from npc_zombie.
+[19:03:03	]the one has taken 10 damage from npc_zombie.
+[19:03:03	]the one has taken 10 damage from npc_zombie.
+[19:03:03	]the one has taken 10 damage from npc_zombie.
+[19:03:03	]the one has taken 1 damage from Zomnarch.
+[19:03:03	]the one has taken 45 damage from Gonome.
+[19:03:03	]the one has taken 80 damage from Zomnarch.
+[19:03:04	]the one has taken 45 damage from Gonome.
+[19:03:04	]the one has taken 80 damage from Zomnarch.
+[19:03:04	]the one has taken 10 damage from npc_zombie.
+[19:03:04	]the one has taken 45 damage from Gonome.
+[19:03:04	]the one has taken 80 damage from Zomnarch.
+[19:03:04	]the one has taken 10 damage from npc_zombie.
+[19:03:04	]the one has taken 45 damage from Gonome.
+[19:03:04	]the one has taken 80 damage from Zomnarch.
+[19:03:04	]the one has taken 1 damage from Zomnarch.
+[19:03:05	]the one is fully healed.
+[19:03:05	]the one has taken 10 damage from npc_zombie.
+[19:03:05	]the one has taken 10 damage from npc_zombie.
+[19:03:05	]the one has taken 10 damage from npc_zombie.
+[19:03:05	]the one has taken 80 damage from Zomnarch.
+[19:03:05	]the one has taken 10 damage from npc_zombie.
+[19:03:05	]the one has taken 80 damage from Zomnarch.
+[19:03:06	]the one has taken 80 damage from Zomnarch.
+[19:03:06	]the one has taken 45 damage from Gonome.
+[19:03:06	]the one has taken 80 damage from Zomnarch.
+[19:03:06	]the one has taken 10 damage from npc_zombie.
+[19:03:06	]the one has taken 45 damage from Gonome.
+[19:03:07	]the one has taken 10 damage from npc_zombie.
+[19:03:07	]the one has taken 10 damage from npc_zombie.
+[19:03:07	]the one has taken 1 damage from Zomnarch.
+[19:03:07	]the one has taken 80 damage from Zomnarch.
+[19:03:07	]the one has taken 10 damage from npc_zombie.
+[19:03:07	]the one has taken 80 damage from Zomnarch.
+[19:03:08	]the one has taken 10 damage from npc_zombie.
+[19:03:08	]the one has taken 10 damage from npc_zombie.
+[19:03:08	]the one has taken 1 damage from Zomnarch.
+[19:03:08	]the one has taken 45 damage from Gonome.
+[19:03:08	]the one has taken 10 damage from npc_zombie.
+[19:03:08	]the one has taken 10 damage from npc_zombie.
+[19:03:08	]the one has taken 45 damage from Gonome.
+[19:03:09	]the one has taken 80 damage from Zomnarch.
+[19:03:09	]the one has taken 1 damage from Zomnarch.
+[19:03:09	]the one has taken 80 damage from Zomnarch.
+[19:03:09	]the one has taken 10 damage from npc_zombie.
+[19:03:09	]the one has taken 10 damage from npc_zombie.
+[19:03:09	]the one has taken 80 damage from Zomnarch.
+[19:03:09	]the one has taken 80 damage from Zomnarch.
+[19:03:10	]the one has taken 10 damage from npc_zombie.
+[19:03:10	]the one is fully healed.
+[19:03:10	]the one has taken 1 damage from Zomnarch.
+[19:03:10	]the one has taken 10 damage from npc_zombie.
+[19:03:10	]the one has taken 10 damage from npc_zombie.
+[19:03:10	]the one has taken 45 damage from Gonome.
+[19:03:10	]the one has taken 80 damage from Zomnarch.
+[19:03:11	]the one has taken 10 damage from npc_zombie.
+[19:03:11	]the one has taken 45 damage from Gonome.
+[19:03:11	]the one has taken 80 damage from Zomnarch.
+[19:03:11	]the one has taken 1 damage from Zomnarch.
+[19:03:11	]the one has taken 10 damage from npc_zombie.
+[19:03:11	]the one has taken 10 damage from npc_zombie.
+[19:03:12	]the one has taken 10 damage from npc_zombie.
+[19:03:12	]the one has taken 1 damage from Zomnarch.
+[19:03:12	]the one has taken 80 damage from Zomnarch.
+[19:03:12	]the one has taken 80 damage from Zomnarch.
+[19:03:12	]the one has taken 10 damage from npc_zombie.
+[19:03:13	]the one has taken 45 damage from Gonome.
+[19:03:13	]the one has taken 80 damage from Zomnarch.
+[19:03:13	]the one has taken 80 damage from Zomnarch.
+[19:03:13	]the one has taken 10 damage from npc_zombie.
+[19:03:13	]the one has taken 45 damage from Gonome.
+[19:03:13	]the one has taken 10 damage from npc_zombie.
+[19:03:13	]the one has taken 10 damage from npc_zombie.
+[19:03:14	]the one has taken 1 damage from Zomnarch.
+[19:03:14	]the one has taken 80 damage from Zomnarch.
+[19:03:14	]the one has taken 10 damage from npc_zombie.
+[19:03:14	]the one has taken 80 damage from Zomnarch.
+[19:03:14	]the one has taken 10 damage from npc_zombie.
+[19:03:14	]the one has taken 80 damage from Zomnarch.
+[19:03:15	]the one has taken 80 damage from Zomnarch.
+[19:03:15	]the one has taken 10 damage from npc_zombie.
+[19:03:15	]the one is fully healed.
+[19:03:15	]the one has taken 45 damage from Gonome.
+[19:03:15	]the one has taken 10 damage from npc_zombie.
+[19:03:15	]the one has taken 45 damage from Gonome.
+[19:03:15	]the one has taken 1 damage from Zomnarch.
+[19:03:16	]the one has taken 80 damage from Zomnarch.
+[19:03:16	]the one has taken 10 damage from npc_zombie.
+[19:03:16	]the one has taken 10 damage from npc_zombie.
+[19:03:16	]the one has taken 80 damage from Zomnarch.
+[19:03:16	]the one has taken 10 damage from npc_zombie.
+[19:03:17	]the one has taken 10 damage from npc_zombie.
+[19:03:17	]the one has taken 10 damage from npc_zombie.
+[19:03:17	]the one has taken 1 damage from Zomnarch.
+[19:03:17	]the one has taken 45 damage from Gonome.
+[19:03:17	]the one has taken 80 damage from Zomnarch.
+[19:03:18	]the one has taken 10 damage from npc_zombie.
+[19:03:18	]the one has taken 45 damage from Gonome.
+[19:03:18	]the one has taken 80 damage from Zomnarch.
+[19:03:18	]the one has taken 10 damage from npc_zombie.
+[19:03:18	]the one has taken 80 damage from Zomnarch.
+[19:03:18	]the one has taken 80 damage from Zomnarch.
+[19:03:18	]the one has taken 10 damage from npc_zombie.
+[19:03:18	]the one has taken 10 damage from npc_zombie.
+[19:03:19	]the one has taken 10 damage from npc_zombie.
+[19:03:19	]the one has taken 1 damage from Zomnarch.
+[19:03:19	]the one has taken 80 damage from Zomnarch.
+[19:03:19	]the one has taken 10 damage from npc_zombie.
+[19:03:19	]the one has taken 10 damage from npc_zombie.
+[19:03:20	]the one has taken 80 damage from Zomnarch.
+[19:03:20	]the one has taken 45 damage from Gonome.
+[19:03:20	]the one has taken 10 damage from npc_zombie.
+[19:03:20	]the one is fully healed.
+[19:03:20	]the one has taken 45 damage from Gonome.
+[19:03:20	]the one has taken 45 damage from Gonome.
+[19:03:20	]the one has taken 45 damage from Gonome.
+[19:03:20	]the one has taken 10 damage from npc_zombie.
+[19:03:21	]the one has taken 1 damage from Zomnarch.
+[19:03:21	]the one has taken 80 damage from Zomnarch.
+[19:03:21	]the one has taken 10 damage from npc_zombie.
+[19:03:21	]the one has taken 80 damage from Zomnarch.
+[19:03:21	]the one has taken 10 damage from npc_zombie.
+[19:03:21	]the one has taken 10 damage from npc_zombie.
+[19:03:21	]the one has taken 80 damage from Zomnarch.
+[19:03:22	]the one has taken 80 damage from Zomnarch.
+[19:03:22	]the one has taken 45 damage from Gonome.
+[19:03:22	]the one has taken 10 damage from npc_zombie.
+[19:03:22	]the one has taken 45 damage from Gonome.
+[19:03:23	]the one has taken 10 damage from npc_zombie.
+[19:03:23	]the one has taken 1 damage from Zomnarch.
+[19:03:23	]the one has taken 45 damage from Gonome.
+[19:03:23	]the one has taken 80 damage from Zomnarch.
+[19:03:23	]the one has taken 10 damage from npc_zombie.
+[19:03:23	]the one has taken 45 damage from Gonome.
+[19:03:23	]the one has taken 10 damage from npc_zombie.
+[19:03:23	]the one has taken 80 damage from Zomnarch.
+[19:03:23	]the one has taken 80 damage from Zomnarch.
+[19:03:23	]the one has taken 10 damage from npc_zombie.
+[19:03:23	]the one has taken 80 damage from Zomnarch.
+[19:03:24	]the one has taken 10 damage from npc_zombie.
+[19:03:24	]the one has taken 1 damage from Zomnarch.
+[19:03:24	]the one has taken 10 damage from npc_zombie.
+[19:03:25	]the one has taken 10 damage from npc_zombie.
+[19:03:25	]the one has taken 45 damage from Gonome.
+[19:03:25	]the one has taken 80 damage from Zomnarch.
+[19:03:25	]the one is fully healed.
+[19:03:25	]the one has taken 45 damage from Gonome.
+[19:03:25	]the one has taken 80 damage from Zomnarch.
+[19:03:25	]the one has taken 10 damage from npc_zombie.
+[19:03:25	]the one has taken 10 damage from npc_zombie.
+[19:03:25	]the one has taken 45 damage from Gonome.
+[19:03:25	]the one has taken 80 damage from Zomnarch.
+[19:03:25	]the one has taken 45 damage from Gonome.
+[19:03:25	]the one has taken 80 damage from Zomnarch.
+[19:03:26	]the one has taken 10 damage from npc_zombie.
+[19:03:26	]the one has taken 10 damage from npc_zombie.
+[19:03:26	]the one has taken 10 damage from npc_zombie.
+[19:03:26	]the one has taken 10 damage from npc_zombie.
+[19:03:26	]the one has taken 1 damage from Zomnarch.
+[19:03:26	]the one has taken 80 damage from Zomnarch.
+[19:03:27	]the one has taken 80 damage from Zomnarch.
+[19:03:27	]the one has taken 45 damage from Gonome.
+[19:03:27	]the one has taken 1 damage from Zomnarch.
+[19:03:27	]the one has taken 10 damage from npc_zombie.
+[19:03:27	]the one has taken 45 damage from Gonome.
+[19:03:28	]the one has taken 10 damage from npc_zombie.
+[19:03:28	]the one has taken 10 damage from npc_zombie.
+[19:03:28	]the one has taken 10 damage from npc_zombie.
+[19:03:28	]the one has taken 80 damage from Zomnarch.
+[19:03:28	]the one has taken 1 damage from Zomnarch.
+[19:03:28	]the one has taken 80 damage from Zomnarch.
+[19:03:29	]the one has taken 10 damage from npc_zombie.
+[19:03:29	]the one has taken 10 damage from npc_zombie.
+[19:03:29	]the one has taken 10 damage from npc_zombie.
+[19:03:29	]the one has taken 45 damage from Gonome.
+[19:03:29	]the one has taken 1 damage from Zomnarch.
+[19:03:30	]the one has taken 10 damage from npc_zombie.
+[19:03:30	]the one has taken 45 damage from Gonome.
+[19:03:30	]the one is fully healed.
+[19:03:30	]the one has taken 80 damage from Zomnarch.
+[19:03:30	]the one has taken 80 damage from Zomnarch.
+[19:03:30	]the one has taken 10 damage from npc_zombie.
+[19:03:30	]the one has taken 80 damage from Zomnarch.
+[19:03:30	]the one has taken 10 damage from npc_zombie.
+[19:03:30	]the one has taken 1 damage from Zomnarch.
+[19:03:31	]the one has taken 80 damage from Zomnarch.
+[19:03:31	]the one has taken 10 damage from npc_zombie.
+[19:03:31	]the one has taken 10 damage from npc_zombie.
+[19:03:31	]the one has taken 1 damage from Zomnarch.
+[19:03:32	]the one has taken 80 damage from Zomnarch.
+[19:03:32	]the one has taken 10 damage from npc_zombie.
+[19:03:32	]the one has taken 45 damage from Gonome.
+[19:03:32	]the one has taken 80 damage from Zomnarch.
+[19:03:32	]the one has taken 10 damage from npc_zombie.
+[19:03:32	]the one has taken 45 damage from Gonome.
+[19:03:32	]the one has taken 1 damage from Zomnarch.
+[19:03:33	]the one has taken 10 damage from npc_zombie.
+[19:03:33	]the one has taken 10 damage from npc_zombie.
+[19:03:33	]the one has taken 10 damage from npc_zombie.
+[19:03:33	]the one has taken 10 damage from npc_zombie.
+[19:03:33	]the one has taken 80 damage from Zomnarch.
+[19:03:34	]the one has taken 80 damage from Zomnarch.
+[19:03:34	]the one has taken 45 damage from Gonome.
+[19:03:34	]the one has taken 45 damage from Gonome.
+[19:03:34	]the one has taken 10 damage from npc_zombie.
+[19:03:34	]the one has taken 10 damage from npc_zombie.
+[19:03:35	]the one has taken 45 damage from Gonome.
+[19:03:35	]the one has taken 10 damage from npc_zombie.
+[19:03:35	]the one is fully healed.
+[19:03:35	]the one has taken 45 damage from Gonome.
+[19:03:35	]the one has taken 10 damage from npc_zombie.
+[19:03:35	]the one has taken 80 damage from Zomnarch.
+[19:03:35	]the one has taken 80 damage from Zomnarch.
+[19:03:36	]the one has taken 80 damage from Zomnarch.
+[19:03:36	]the one has taken 80 damage from Zomnarch.
+[19:03:36	]the one has taken 10 damage from npc_zombie.
+[19:03:36	]the one has taken 10 damage from npc_zombie.
+[19:03:36	]the one has taken 10 damage from npc_zombie.
+[19:03:36	]the one has taken 10 damage from npc_zombie.
+[19:03:36	]the one has taken 45 damage from Gonome.
+[19:03:37	]the one has taken 1 damage from Zomnarch.
+[19:03:37	]the one has taken 80 damage from Zomnarch.
+[19:03:37	]the one has taken 45 damage from Gonome.
+[19:03:37	]the one has taken 80 damage from Zomnarch.
+[19:03:37	]the one has taken 80 damage from Zomnarch.
+[19:03:37	]the one has taken 10 damage from npc_zombie.
+[19:03:38	]the one has taken 80 damage from Zomnarch.
+[19:03:38	]the one has taken 10 damage from npc_zombie.
+[19:03:38	]the one has taken 10 damage from npc_zombie.
+[19:03:38	]the one has taken 10 damage from npc_zombie.
+[19:03:38	]the one has taken 1 damage from Zomnarch.
+[19:03:39	]the one has taken 80 damage from Zomnarch.
+[19:03:39	]the one has taken 10 damage from npc_zombie.
+[19:03:39	]the one has taken 45 damage from Gonome.
+[19:03:39	]the one has taken 10 damage from npc_zombie.
+[19:03:39	]the one has taken 80 damage from Zomnarch.
+[19:03:39	]the one has taken 45 damage from Gonome.
+[19:03:39	]the one has taken 45 damage from Gonome.
+[19:03:39	]the one has taken 10 damage from npc_zombie.
+[19:03:40	]the one has taken 45 damage from Gonome.
+[19:03:40	]the one has taken 10 damage from npc_zombie.
+[19:03:40	]the one is fully healed.
+[19:03:40	]the one has taken 1 damage from Zomnarch.
+[19:03:40	]the one has taken 10 damage from npc_zombie.
+[19:03:40	]the one has taken 80 damage from Zomnarch.
+[19:03:41	]the one has taken 80 damage from Zomnarch.
+[19:03:41	]the one has taken 10 damage from npc_zombie.
+[19:03:41	]the one has taken 10 damage from npc_zombie.
+[19:03:41	]the one has taken 80 damage from Zomnarch.
+[19:03:41	]the one has taken 80 damage from Zomnarch.
+[19:03:41	]the one has taken 45 damage from Gonome.
+[19:03:41	]the one has taken 10 damage from npc_zombie.
+[19:03:41	]the one has taken 10 damage from npc_zombie.
+[19:03:42	]the one has taken 1 damage from Zomnarch.
+[19:03:42	]the one has taken 45 damage from Gonome.
+[19:03:42	]the one has taken 45 damage from Gonome.
+[19:03:42	]the one has taken 80 damage from Zomnarch.
+[19:03:42	]the one has taken 45 damage from Gonome.
+[19:03:42	]the one has taken 10 damage from npc_zombie.
+[19:03:42	]the one has taken 10 damage from npc_zombie.
+[19:03:42	]the one has taken 80 damage from Zomnarch.
+[19:03:43	]the one has taken 1 damage from Zomnarch.
+[19:03:43	]the one has taken 10 damage from npc_zombie.
+[19:03:43	]the one has taken 10 damage from npc_zombie.
+[19:03:43	]the one has taken 10 damage from npc_zombie.
+[19:03:44	]the one has taken 1 damage from Zomnarch.
+[19:03:44	]the one has taken 45 damage from Gonome.
+[19:03:44	]the one has taken 80 damage from Zomnarch.
+[19:03:44	]the one has taken 10 damage from npc_zombie.
+[19:03:44	]the one has taken 45 damage from Gonome.
+[19:03:44	]the one has taken 80 damage from Zomnarch.
+[19:03:45	]the one has taken 1 damage from Zomnarch.
+[19:03:45	]the one is fully healed.
+[19:03:45	]the one has taken 10 damage from npc_zombie.
+[19:03:45	]the one has taken 10 damage from npc_zombie.
+[19:03:45	]the one has taken 10 damage from npc_zombie.
+[19:03:45	]the one has taken 80 damage from Zomnarch.
+[19:03:46	]the one has taken 10 damage from npc_zombie.
+[19:03:46	]the one has taken 80 damage from Zomnarch.
+[19:03:46	]the one has taken 10 damage from npc_zombie.
+[19:03:46	]the one has taken 45 damage from Gonome.
+[19:03:46	]the one has taken 45 damage from Gonome.
+[19:03:47	]the one has taken 10 damage from npc_zombie.
+[19:03:47	]the one has taken 45 damage from Gonome.
+[19:03:47	]the one has taken 1 damage from Zomnarch.
+[19:03:47	]the one has taken 45 damage from Gonome.
+[19:03:47	]the one has taken 10 damage from npc_zombie.
+[19:03:47	]the one has taken 10 damage from npc_zombie.
+[19:03:47	]the one has taken 10 damage from npc_zombie.
+[19:03:47	]the one has taken 80 damage from Zomnarch.
+[19:03:47	]the one has taken 80 damage from Zomnarch.
+[19:03:47	]the one has taken 10 damage from npc_zombie.
+[19:03:48	]the one has taken 10 damage from npc_zombie.
+[19:03:48	]the one has taken 80 damage from Zomnarch.
+[19:03:48	]the one has taken 80 damage from Zomnarch.
+[19:03:48	]the one has taken 10 damage from npc_zombie.
+[19:03:48	]the one has taken 10 damage from npc_zombie.
+[19:03:49	]the one has taken 10 damage from npc_zombie.
+[19:03:49	]the one has taken 45 damage from Gonome.
+[19:03:49	]the one has taken 1 damage from Zomnarch.
+[19:03:49	]the one has taken 45 damage from Gonome.
+[19:03:49	]the one has taken 80 damage from Zomnarch.
+[19:03:49	]the one has taken 45 damage from Gonome.
+[19:03:49	]the one has taken 10 damage from npc_zombie.
+[19:03:49	]the one has taken 80 damage from Zomnarch.
+[19:03:49	]the one has taken 45 damage from Gonome.
+[19:03:49	]the one has taken 10 damage from npc_zombie.
+[19:03:49	]the one has taken 10 damage from npc_zombie.
+[19:03:50	]the one has taken 80 damage from Zomnarch.
+[19:03:50	]the one is fully healed.
+[19:03:50	]the one has taken 10 damage from npc_zombie.
+[19:03:50	]the one has taken 80 damage from Zomnarch.
+[19:03:50	]the one has taken 10 damage from npc_zombie.
+[19:03:50	]the one has taken 1 damage from Zomnarch.
+[19:03:51	]the one has taken 10 damage from npc_zombie.
+[19:03:51	]the one has taken 80 damage from Zomnarch.
+[19:03:51	]the one has taken 45 damage from Gonome.
+[19:03:51	]the one has taken 10 damage from npc_zombie.
+[19:03:51	]the one has taken 80 damage from Zomnarch.
+[19:03:51	]the one has taken 10 damage from npc_zombie.
+[19:03:51	]the one has taken 45 damage from Gonome.
+[19:03:51	]the one has taken 80 damage from Zomnarch.
+[19:03:51	]the one has taken 10 damage from npc_zombie.
+[19:03:52	]the one has taken 80 damage from Zomnarch.
+[19:03:52	]the one has taken 10 damage from npc_zombie.
+[19:03:52	]the one has taken 10 damage from npc_zombie.
+[19:03:53	]the one has taken 10 damage from npc_zombie.
+[19:03:53	]the one has taken 1 damage from Zomnarch.
+[19:03:53	]the one has taken 80 damage from Zomnarch.
+[19:03:53	]the one has taken 10 damage from npc_zombie.
+[19:03:53	]the one has taken 80 damage from Zomnarch.
+[19:03:53	]the one has taken 10 damage from npc_zombie.
+[19:03:53	]the one has taken 80 damage from Zomnarch.
+[19:03:53	]the one has taken 45 damage from Gonome.
+[19:03:53	]the one has taken 80 damage from Zomnarch.
+[19:03:54	]the one has taken 10 damage from npc_zombie.
+[19:03:54	]the one has taken 45 damage from Gonome.
+[19:03:54	]the one has taken 10 damage from npc_zombie.
+[19:03:54	]the one has taken 10 damage from npc_zombie.
+[19:03:54	]the one has taken 1 damage from Zomnarch.
+[19:03:55	]the one has taken 10 damage from npc_zombie.
+[19:03:55	]the one has taken 80 damage from Zomnarch.
+[19:03:55	]the one is fully healed.
+[19:03:55	]the one has taken 80 damage from Zomnarch.
+[19:03:55	]the one has taken 10 damage from npc_zombie.
+[19:03:55	]the one has taken 80 damage from Zomnarch.
+[19:03:55	]the one has taken 10 damage from npc_zombie.
+[19:03:55	]the one has taken 10 damage from npc_zombie.
+[19:03:55	]the one has taken 80 damage from Zomnarch.
+[19:03:55	]the one has taken 1 damage from Zomnarch.
+[19:03:55	]the one has taken 10 damage from npc_zombie.
+[19:03:56	]the one has taken 45 damage from Gonome.
+[19:03:56	]the one has taken 45 damage from Gonome.
+[19:03:56	]the one has taken 10 damage from npc_zombie.
+[19:03:56	]the one has taken 45 damage from Gonome.
+[19:03:56	]the one has taken 10 damage from npc_zombie.
+[19:03:56	]the one has taken 80 damage from Zomnarch.
+[19:03:56	]the one has taken 1 damage from Zomnarch.
+[19:03:56	]the one has taken 45 damage from Gonome.
+[19:03:57	]the one has taken 10 damage from npc_zombie.
+[19:03:57	]the one has taken 80 damage from Zomnarch.
+[19:03:57	]the one has taken 80 damage from Zomnarch.
+[19:03:57	]the one has taken 10 damage from npc_zombie.
+[19:03:57	]the one has taken 80 damage from Zomnarch.
+[19:03:57	]the one has taken 10 damage from npc_zombie.
+[19:03:57	]the one has taken 1 damage from Zomnarch.
+[19:03:58	]the one has taken 10 damage from npc_zombie.
+[19:03:58	]the one has taken 10 damage from npc_zombie.
+[19:03:58	]the one has taken 10 damage from npc_zombie.
+[19:03:58	]the one has taken 80 damage from Zomnarch.
+[19:03:58	]the one has taken 45 damage from Gonome.
+[19:03:59	]the one has taken 80 damage from Zomnarch.
+[19:03:59	]the one has taken 45 damage from Gonome.
+[19:03:59	]the one has taken 10 damage from npc_zombie.
+[19:03:59	]the one has taken 10 damage from npc_zombie.
+[19:03:59	]the one has taken 10 damage from npc_zombie.
+[19:03:59	]the one has taken 10 damage from npc_zombie.
+[19:03:59	]the one has taken 10 damage from npc_zombie.
+[19:04:00	]the one has taken 1 damage from Zomnarch.
+[19:04:00	]the one is fully healed.
+[19:04:00	]the one has taken 80 damage from Zomnarch.
+[19:04:00	]the one has taken 10 damage from npc_zombie.
+[19:04:00	]the one has taken 80 damage from Zomnarch.
+[19:04:00	]the one has taken 10 damage from npc_zombie.
+[19:04:01	]the one has taken 1 damage from Zomnarch.
+[19:04:01	]the one has taken 45 damage from Gonome.
+[19:04:01	]the one has taken 10 damage from npc_zombie.
+[19:04:01	]the one has taken 10 damage from npc_zombie.
+[19:04:01	]the one has taken 10 damage from npc_zombie.
+[19:04:01	]the one has taken 45 damage from Gonome.
+[19:04:02	]the one has taken 1 damage from Zomnarch.
+[19:04:02	]the one has taken 10 damage from npc_zombie.
+[19:04:02	]the one has taken 80 damage from Zomnarch.
+[19:04:02	]the one has taken 10 damage from npc_zombie.
+[19:04:02	]the one has taken 80 damage from Zomnarch.
+[19:04:02	]the one has taken 10 damage from npc_zombie.
+[19:04:02	]the one has taken 80 damage from Zomnarch.
+[19:04:02	]the one has taken 10 damage from npc_zombie.
+[19:04:02	]the one has taken 80 damage from Zomnarch.
+[19:04:02	]the one has taken 10 damage from npc_zombie.
+[19:04:03	]the one has taken 10 damage from npc_zombie.
+[19:04:03	]the one has taken 45 damage from Gonome.
+[19:04:03	]the one has taken 45 damage from Gonome.
+[19:04:03	]the one has taken 1 damage from Zomnarch.
+[19:04:03	]the one has taken 80 damage from Zomnarch.
+[19:04:03	]the one has taken 10 damage from npc_zombie.
+[19:04:04	]the one has taken 80 damage from Zomnarch.
+[19:04:04	]the one has taken 10 damage from npc_zombie.
+[19:04:04	]the one has taken 10 damage from npc_zombie.
+[19:04:04	]the one has taken 10 damage from npc_zombie.
+[19:04:04	]the one has taken 10 damage from npc_zombie.
+[19:04:04	]the one has taken 1 damage from Zomnarch.
+[19:04:05	]the one is fully healed.
+[19:04:05	]the one has taken 10 damage from npc_zombie.
+[19:04:05	]the one has taken 80 damage from Zomnarch.
+[19:04:05	]the one has taken 10 damage from npc_zombie.
+[19:04:05	]the one has taken 45 damage from Gonome.
+[19:04:05	]the one has taken 1 damage from Zomnarch.
+[19:04:05	]the one has taken 80 damage from Zomnarch.
+[19:04:05	]the one has taken 10 damage from npc_zombie.
+[19:04:05	]the one has taken 45 damage from Gonome.
+[19:04:06	]the one has taken 80 damage from Zomnarch.
+[19:04:06	]the one has taken 10 damage from npc_zombie.
+[19:04:06	]the one has taken 45 damage from Gonome.
+[19:04:06	]the one has taken 10 damage from npc_zombie.
+[19:04:06	]the one has taken 80 damage from Zomnarch.
+[19:04:06	]the one has taken 45 damage from Gonome.
+[19:04:06	]the one has taken 10 damage from npc_zombie.
+[19:04:07	]the one has taken 1 damage from Zomnarch.
+[19:04:07	]the one has taken 80 damage from Zomnarch.
+[19:04:07	]the one has taken 10 damage from npc_zombie.
+[19:04:07	]the one has taken 10 damage from npc_zombie.
+[19:04:07	]the one has taken 10 damage from npc_zombie.
+[19:04:07	]the one has taken 80 damage from Zomnarch.
+[19:04:07	]the one has taken 10 damage from npc_zombie.
+[19:04:08	]the one has taken 45 damage from Gonome.
+[19:04:08	]the one has taken 10 damage from npc_zombie.
+[19:04:08	]the one has taken 45 damage from Gonome.
+[19:04:08	]the one has taken 10 damage from npc_zombie.
+[19:04:08	]the one has taken 10 damage from npc_zombie.
+[19:04:08	]the one has taken 1 damage from Zomnarch.
+[19:04:08	]the one has taken 45 damage from Gonome.
+[19:04:09	]the one has taken 80 damage from Zomnarch.
+[19:04:09	]the one has taken 45 damage from Gonome.
+[19:04:09	]the one has taken 10 damage from npc_zombie.
+[19:04:09	]the one has taken 10 damage from npc_zombie.
+[19:04:09	]the one has taken 80 damage from Zomnarch.
+[19:04:09	]the one has taken 10 damage from npc_zombie.
+[19:04:09	]the one has taken 10 damage from npc_zombie.
+[19:04:10	]the one has taken 1 damage from Zomnarch.
+[19:04:10	]the one has taken 10 damage from npc_zombie.
+[19:04:10	]the one is fully healed.
+[19:04:10	]the one has taken 80 damage from Zomnarch.
+[19:04:10	]the one has taken 45 damage from Gonome.
+[19:04:10	]the one has taken 10 damage from npc_zombie.
+[19:04:10	]the one has taken 10 damage from npc_zombie.
+[19:04:10	]the one has taken 10 damage from npc_zombie.
+[19:04:11	]the one has taken 1 damage from Zomnarch.
+[19:04:11	]the one has taken 45 damage from Gonome.
+[19:04:11	]the one has taken 10 damage from npc_zombie.
+[19:04:11	]the one has taken 80 damage from Zomnarch.
+[19:04:11	]the one has taken 45 damage from Gonome.
+[19:04:11	]the one has taken 45 damage from Gonome.
+[19:04:11	]the one has taken 10 damage from npc_zombie.
+[19:04:12	]the one has taken 1 damage from Zomnarch.
+[19:04:12	]the one has taken 80 damage from Zomnarch.
+[19:04:12	]the one has taken 10 damage from npc_zombie.
+[19:04:12	]the one has taken 10 damage from npc_zombie.
+[19:04:12	]the one has taken 10 damage from npc_zombie.
+[19:04:12	]the one has taken 10 damage from npc_zombie.
+[19:04:12	]the one has taken 80 damage from Zomnarch.
+[19:04:13	]the one has taken 1 damage from Zomnarch.
+[19:04:13	]the one has taken 80 damage from Zomnarch.
+[19:04:13	]the one has taken 10 damage from npc_zombie.
+[19:04:13	]the one has taken 45 damage from Gonome.
+[19:04:13	]the one has taken 80 damage from Zomnarch.
+[19:04:13	]the one has taken 45 damage from Gonome.
+[19:04:13	]the one has taken 10 damage from npc_zombie.
+[19:04:14	]the one has taken 1 damage from Zomnarch.
+[19:04:14	]the one has taken 10 damage from npc_zombie.
+[19:04:14	]the one has taken 80 damage from Zomnarch.
+[19:04:14	]the one has taken 10 damage from npc_zombie.
+[19:04:14	]the one has taken 10 damage from npc_zombie.
+[19:04:14	]the one has taken 80 damage from Zomnarch.
+[19:04:14	]the one has taken 80 damage from Zomnarch.
+[19:04:14	]the one has taken 10 damage from npc_zombie.
+[19:04:15	]the one has taken 80 damage from Zomnarch.
+[19:04:15	]the one is fully healed.
+[19:04:15	]the one has taken 10 damage from npc_zombie.
+[19:04:15	]the one has taken 1 damage from Zomnarch.
+[19:04:15	]the one has taken 45 damage from Gonome.
+[19:04:15	]the one has taken 45 damage from Gonome.
+[19:04:15	]the one has taken 10 damage from npc_zombie.
+[19:04:16	]the one has taken 80 damage from Zomnarch.
+[19:04:16	]the one has taken 10 damage from npc_zombie.
+[19:04:16	]the one has taken 10 damage from npc_zombie.
+[19:04:16	]the one has taken 10 damage from npc_zombie.
+[19:04:16	]the one has taken 80 damage from Zomnarch.
+[19:04:16	]the one has taken 10 damage from npc_zombie.
+[19:04:17	]the one has taken 1 damage from Zomnarch.
+[19:04:17	]the one has taken 10 damage from npc_zombie.
+[19:04:17	]the one has taken 10 damage from npc_zombie.
+[19:04:17	]the one has taken 80 damage from Zomnarch.
+[19:04:17	]the one has taken 10 damage from npc_zombie.
+[19:04:17	]the one has taken 10 damage from npc_zombie.
+[19:04:17	]the one has taken 10 damage from npc_zombie.
+[19:04:17	]the one has taken 45 damage from Gonome.
+[19:04:18	]the one has taken 1 damage from Zomnarch.
+[19:04:18	]the one has taken 80 damage from Zomnarch.
+[19:04:18	]the one has taken 45 damage from Gonome.
+[19:04:18	]the one has taken 45 damage from Gonome.
+[19:04:18	]the one has taken 45 damage from Gonome.
+[19:04:18	]the one has taken 10 damage from npc_zombie.
+[19:04:19	]the one has taken 1 damage from Zomnarch.
+[19:04:19	]the one has taken 10 damage from npc_zombie.
+[19:04:19	]the one has taken 10 damage from npc_zombie.
+[19:04:19	]the one has taken 80 damage from Zomnarch.
+[19:04:19	]the one has taken 10 damage from npc_zombie.
+[19:04:19	]the one has taken 10 damage from npc_zombie.
+[19:04:19	]the one has taken 80 damage from Zomnarch.
+[19:04:20	]the one is fully healed.
+[19:04:20	]the one has taken 45 damage from Gonome.
+[19:04:20	]the one has taken 10 damage from npc_zombie.
+[19:04:20	]the one has taken 10 damage from npc_zombie.
+[19:04:20	]the one has taken 45 damage from Gonome.
+[19:04:20	]the one has taken 10 damage from npc_zombie.
+[19:04:20	]the one has taken 1 damage from Zomnarch.
+[19:04:21	]the one has taken 10 damage from npc_zombie.
+[19:04:21	]the one has taken 80 damage from Zomnarch.
+[19:04:21	]the one has taken 10 damage from npc_zombie.
+[19:04:21	]the one has taken 80 damage from Zomnarch.
+[19:04:22	]the one has taken 1 damage from Zomnarch.
+[19:04:22	]the one has taken 10 damage from npc_zombie.
+[19:04:22	]the one has taken 10 damage from npc_zombie.
+[19:04:22	]the one has taken 10 damage from npc_zombie.
+[19:04:22	]the one has taken 45 damage from Gonome.
+[19:04:22	]the one has taken 10 damage from npc_zombie.
+[19:04:22	]the one has taken 80 damage from Zomnarch.
+[19:04:22	]the one has taken 10 damage from npc_zombie.
+[19:04:23	]the one has taken 45 damage from Gonome.
+[19:04:23	]the one has taken 80 damage from Zomnarch.
+[19:04:23	]the one has taken 80 damage from Zomnarch.
+[19:04:23	]the one has taken 80 damage from Zomnarch.
+[19:04:23	]the one has taken 10 damage from npc_zombie.
+[19:04:24	]the one has taken 10 damage from npc_zombie.
+[19:04:24	]the one has taken 10 damage from npc_zombie.
+[19:04:24	]the one has taken 10 damage from npc_zombie.
+[19:04:24	]the one has taken 1 damage from Zomnarch.
+[19:04:24	]the one has taken 80 damage from Zomnarch.
+[19:04:24	]the one has taken 10 damage from npc_zombie.
+[19:04:25	]the one has taken 45 damage from Gonome.
+[19:04:25	]the one has taken 80 damage from Zomnarch.
+[19:04:25	]the one is fully healed.
+[19:04:25	]the one has taken 45 damage from Gonome.
+[19:04:25	]the one has taken 1 damage from Zomnarch.
+[19:04:25	]the one has taken 45 damage from Gonome.
+[19:04:25	]the one has taken 10 damage from npc_zombie.
+[19:04:25	]the one has taken 10 damage from npc_zombie.
+[19:04:25	]the one has taken 45 damage from Gonome.
+[19:04:25	]the one has taken 10 damage from npc_zombie.
+[19:04:25	]the one has taken 10 damage from npc_zombie.
+[19:04:26	]the one has taken 10 damage from npc_zombie.
+[19:04:26	]the one has taken 1 damage from Zomnarch.
+[19:04:26	]the one has taken 80 damage from Zomnarch.
+[19:04:26	]the one has taken 80 damage from Zomnarch.
+[19:04:26	]the one has taken 80 damage from Zomnarch.
+[19:04:27	]the one has taken 80 damage from Zomnarch.
+[19:04:27	]the one has taken 10 damage from npc_zombie.
+[19:04:27	]the one has taken 1 damage from Zomnarch.
+[19:04:27	]the one has taken 45 damage from Gonome.
+[19:04:27	]the one has taken 10 damage from npc_zombie.
+[19:04:27	]the one has taken 10 damage from npc_zombie.
+[19:04:27	]the one has taken 10 damage from npc_zombie.
+[19:04:27	]the one has taken 45 damage from Gonome.
+[19:04:28	]the one has taken 10 damage from npc_zombie.
+[19:04:28	]the one has taken 80 damage from Zomnarch.
+[19:04:28	]the one has taken 1 damage from Zomnarch.
+[19:04:28	]the one has taken 80 damage from Zomnarch.
+[19:04:28	]the one has taken 10 damage from npc_zombie.
+[19:04:28	]the one has taken 10 damage from npc_zombie.
+[19:04:28	]the one has taken 80 damage from Zomnarch.
+[19:04:28	]the one has taken 80 damage from Zomnarch.
+[19:04:29	]the one has taken 10 damage from npc_zombie.
+[19:04:29	]the one has taken 10 damage from npc_zombie.
+[19:04:29	]the one has taken 10 damage from npc_zombie.
+[19:04:29	]the one has taken 1 damage from Zomnarch.
+[19:04:29	]the one has taken 45 damage from Gonome.
+[19:04:30	]the one has taken 80 damage from Zomnarch.
+[19:04:30	]the one has taken 45 damage from Gonome.
+[19:04:30	]the one has taken 10 damage from npc_zombie.
+[19:04:30	]the one is fully healed.
+[19:04:30	]the one has taken 45 damage from Gonome.
+[19:04:30	]the one has taken 10 damage from npc_zombie.
+[19:04:30	]the one has taken 10 damage from npc_zombie.
+[19:04:30	]the one has taken 1 damage from Zomnarch.
+[19:04:30	]the one has taken 80 damage from Zomnarch.
+[19:04:30	]the one has taken 45 damage from Gonome.
+[19:04:30	]the one has taken 10 damage from npc_zombie.
+[19:04:30	]the one has taken 10 damage from npc_zombie.
+[19:04:31	]the one has taken 1 damage from Zomnarch.
+[19:04:31	]the one has taken 10 damage from npc_zombie.
+[19:04:31	]the one has taken 80 damage from Zomnarch.
+[19:04:32	]the one has taken 80 damage from Zomnarch.
+[19:04:32	]the one has taken 10 damage from npc_zombie.
+[19:04:32	]the one has taken 10 damage from npc_zombie.
+[19:04:32	]the one has taken 45 damage from Gonome.
+[19:04:32	]the one has taken 80 damage from Zomnarch.
+[19:04:32	]the one has taken 1 damage from Zomnarch.
+[19:04:32	]the one has taken 80 damage from Zomnarch.
+[19:04:32	]the one has taken 45 damage from Gonome.
+[19:04:32	]the one has taken 10 damage from npc_zombie.
+[19:04:32	]the one has taken 10 damage from npc_zombie.
+[19:04:33	]the one has taken 10 damage from npc_zombie.
+[19:04:33	]the one has taken 10 damage from npc_zombie.
+[19:04:33	]the one has taken 1 damage from Zomnarch.
+[19:04:33	]the one has taken 80 damage from Zomnarch.
+[19:04:33	]the one has taken 10 damage from npc_zombie.
+[19:04:33	]the one has taken 80 damage from Zomnarch.
+[19:04:34	]the one has taken 80 damage from Zomnarch.
+[19:04:34	]the one has taken 80 damage from Zomnarch.
+[19:04:34	]the one has taken 10 damage from npc_zombie.
+[19:04:34	]the one has taken 10 damage from npc_zombie.
+[19:04:34	]the one has taken 10 damage from npc_zombie.
+[19:04:34	]the one has taken 1 damage from Zomnarch.
+[19:04:34	]the one has taken 45 damage from Gonome.
+[19:04:34	]the one has taken 10 damage from npc_zombie.
+[19:04:34	]the one has taken 45 damage from Gonome.
+[19:04:35	]the one is fully healed.
+[19:04:35	]the one has taken 80 damage from Zomnarch.
+[19:04:35	]the one has taken 10 damage from npc_zombie.
+[19:04:35	]the one has taken 1 damage from Zomnarch.
+[19:04:35	]the one has taken 80 damage from Zomnarch.
+[19:04:36	]the one has taken 10 damage from npc_zombie.
+[19:04:36	]the one has taken 10 damage from npc_zombie.
+[19:04:36	]the one has taken 10 damage from npc_zombie.
+[19:04:36	]the one has taken 10 damage from npc_zombie.
+[19:04:36	]the one has taken 1 damage from Zomnarch.
+[19:04:36	]the one has taken 45 damage from Gonome.
+[19:04:37	]the one has taken 80 damage from Zomnarch.
+[19:04:37	]the one has taken 10 damage from npc_zombie.
+[19:04:37	]the one has taken 45 damage from Gonome.
+[19:04:37	]the one has taken 10 damage from npc_zombie.
+[19:04:37	]the one has taken 10 damage from npc_zombie.
+[19:04:37	]the one has taken 80 damage from Zomnarch.
+[19:04:37	]the one has taken 10 damage from npc_zombie.
+[19:04:37	]the one has taken 10 damage from npc_zombie.
+[19:04:38	]the one has taken 10 damage from npc_zombie.
+[19:04:38	]the one has taken 10 damage from npc_zombie.
+[19:04:38	]the one has taken 80 damage from Zomnarch.
+[19:04:38	]the one has taken 10 damage from npc_zombie.
+[19:04:39	]the one has taken 80 damage from Zomnarch.
+[19:04:39	]the one has taken 45 damage from Gonome.
+[19:04:39	]the one has taken 45 damage from Gonome.
+[19:04:39	]the one has taken 10 damage from npc_zombie.
+[19:04:39	]the one has taken 10 damage from npc_zombie.
+[19:04:39	]the one has taken 45 damage from Gonome.
+[19:04:39	]the one has taken 45 damage from Gonome.
+[19:04:40	]the one has taken 10 damage from npc_zombie.
+[19:04:40	]the one has taken 10 damage from npc_zombie.
+[19:04:40	]the one has taken 10 damage from npc_zombie.
+[19:04:40	]the one is fully healed.
+[19:04:40	]the one has taken 80 damage from Zomnarch.
+[19:04:40	]the one has taken 10 damage from npc_zombie.
+[19:04:40	]the one has taken 80 damage from Zomnarch.
+[19:04:41	]the one has taken 80 damage from Zomnarch.
+[19:04:41	]the one has taken 10 damage from npc_zombie.
+[19:04:41	]the one has taken 80 damage from Zomnarch.
+[19:04:41	]the one has taken 10 damage from npc_zombie.
+[19:04:41	]the one has taken 45 damage from Gonome.
+[19:04:41	]the one has taken 10 damage from npc_zombie.
+[19:04:41	]the one has taken 10 damage from npc_zombie.
+[19:04:42	]the one has taken 1 damage from Zomnarch.
+[19:04:42	]the one has taken 45 damage from Gonome.
+[19:04:42	]the one has taken 80 damage from Zomnarch.
+[19:04:42	]the one has taken 45 damage from Gonome.
+[19:04:42	]the one has taken 10 damage from npc_zombie.
+[19:04:42	]the one has taken 45 damage from Gonome.
+[19:04:42	]the one has taken 80 damage from Zomnarch.
+[19:04:42	]the one has taken 10 damage from npc_zombie.
+[19:04:42	]the one has taken 10 damage from npc_zombie.
+[19:04:43	]the one has taken 1 damage from Zomnarch.
+[19:04:43	]the one has taken 10 damage from npc_zombie.
+[19:04:43	]the one has taken 10 damage from npc_zombie.
+[19:04:43	]the one has taken 10 damage from npc_zombie.
+[19:04:44	]the one has taken 80 damage from Zomnarch.
+[19:04:44	]the one has taken 1 damage from Zomnarch.
+[19:04:44	]the one has taken 80 damage from Zomnarch.
+[19:04:44	]the one has taken 45 damage from Gonome.
+[19:04:44	]the one has taken 45 damage from Gonome.
+[19:04:44	]the one has taken 80 damage from Zomnarch.
+[19:04:44	]the one has taken 10 damage from npc_zombie.
+[19:04:44	]the one has taken 10 damage from npc_zombie.
+[19:04:44	]the one has taken 10 damage from npc_zombie.
+[19:04:44	]the one has taken 80 damage from Zomnarch.
+[19:04:44	]the one has taken 45 damage from Gonome.
+[19:04:45	]the one has taken 45 damage from Gonome.
+[19:04:45	]the one has taken 10 damage from npc_zombie.
+[19:04:45	]the one is fully healed.
+[19:04:45	]the one has taken 1 damage from Zomnarch.
+[19:04:45	]the one has taken 10 damage from npc_zombie.
+[19:04:45	]the one has taken 10 damage from npc_zombie.
+[19:04:45	]the one has taken 80 damage from Zomnarch.
+[19:04:45	]the one has taken 10 damage from npc_zombie.
+[19:04:46	]the one has taken 80 damage from Zomnarch.
+[19:04:46	]the one has taken 80 damage from Zomnarch.
+[19:04:46	]the one has taken 10 damage from npc_zombie.
+[19:04:46	]the one has taken 80 damage from Zomnarch.
+[19:04:46	]the one has taken 10 damage from npc_zombie.
+[19:04:46	]the one has taken 45 damage from Gonome.
+[19:04:46	]the one has taken 10 damage from npc_zombie.
+[19:04:47	]the one has taken 45 damage from Gonome.
+[19:04:47	]the one has taken 1 damage from Zomnarch.
+[19:04:47	]the one has taken 10 damage from npc_zombie.
+[19:04:47	]the one has taken 80 damage from Zomnarch.
+[19:04:47	]the one has taken 10 damage from npc_zombie.
+[19:04:47	]the one has taken 80 damage from Zomnarch.
+[19:04:48	]the one has taken 10 damage from npc_zombie.
+[19:04:48	]the one has taken 10 damage from npc_zombie.
+[19:04:48	]the one has taken 1 damage from Zomnarch.
+[19:04:48	]the one has taken 10 damage from npc_zombie.
+[19:04:48	]the one has taken 10 damage from npc_zombie.
+[19:04:48	]the one has taken 10 damage from npc_zombie.
+[19:04:49	]the one has taken 45 damage from Gonome.
+[19:04:49	]the one has taken 1 damage from Zomnarch.
+[19:04:49	]the one has taken 80 damage from Zomnarch.
+[19:04:49	]the one has taken 45 damage from Gonome.
+[19:04:49	]the one has taken 80 damage from Zomnarch.
+[19:04:49	]the one has taken 10 damage from npc_zombie.
+[19:04:49	]the one has taken 80 damage from Zomnarch.
+[19:04:49	]the one has taken 10 damage from npc_zombie.
+[19:04:50	]the one has taken 80 damage from Zomnarch.
+[19:04:50	]the one is fully healed.
+[19:04:50	]the one has taken 10 damage from npc_zombie.
+[19:04:50	]the one has taken 10 damage from npc_zombie.
+[19:04:50	]the one has taken 10 damage from npc_zombie.
+[19:04:50	]the one has taken 1 damage from Zomnarch.
+[19:04:51	]the one has taken 80 damage from Zomnarch.
+[19:04:51	]the one has taken 10 damage from npc_zombie.
+[19:04:51	]the one has taken 45 damage from Gonome.
+[19:04:51	]the one has taken 80 damage from Zomnarch.
+[19:04:51	]the one has taken 10 damage from npc_zombie.
+[19:04:51	]the one has taken 45 damage from Gonome.
+[19:04:51	]the one has taken 45 damage from Gonome.
+[19:04:52	]the one has taken 10 damage from npc_zombie.
+[19:04:52	]the one has taken 10 damage from npc_zombie.
+[19:04:52	]the one has taken 45 damage from Gonome.
+[19:04:52	]the one has taken 10 damage from npc_zombie.
+[19:04:52	]the one has taken 1 damage from Zomnarch.
+[19:04:52	]the one has taken 80 damage from Zomnarch.
+[19:04:52	]the one has taken 10 damage from npc_zombie.
+[19:04:53	]the one has taken 80 damage from Zomnarch.
+[19:04:53	]the one has taken 10 damage from npc_zombie.
+[19:04:53	]the one has taken 10 damage from npc_zombie.
+[19:04:53	]the one has taken 1 damage from Zomnarch.
+[19:04:53	]the one has taken 10 damage from npc_zombie.
+[19:04:53	]the one has taken 45 damage from Gonome.
+[19:04:53	]the one has taken 10 damage from npc_zombie.
+[19:04:54	]the one has taken 45 damage from Gonome.
+[19:04:54	]the one has taken 80 damage from Zomnarch.
+[19:04:54	]the one has taken 45 damage from Gonome.
+[19:04:54	]the one has taken 10 damage from npc_zombie.
+[19:04:54	]the one has taken 10 damage from npc_zombie.
+[19:04:54	]the one has taken 45 damage from Gonome.
+[19:04:54	]the one has taken 1 damage from Zomnarch.
+[19:04:54	]the one has taken 80 damage from Zomnarch.
+[19:04:54	]the one has taken 10 damage from npc_zombie.
+[19:04:55	]the one has taken 10 damage from npc_zombie.
+[19:04:55	]the one is fully healed.
+[19:04:55	]the one has taken 10 damage from npc_zombie.
+[19:04:55	]the one has taken 10 damage from npc_zombie.
+[19:04:55	]the one has taken 1 damage from Zomnarch.
+[19:04:56	]the one has taken 10 damage from npc_zombie.
+[19:04:56	]the one has taken 10 damage from npc_zombie.
+[19:04:56	]the one has taken 80 damage from Zomnarch.
+[19:04:56	]the one has taken 45 damage from Gonome.
+[19:04:56	]the one has taken 80 damage from Zomnarch.
+[19:04:56	]the one has taken 45 damage from Gonome.
+[19:04:56	]the one has taken 80 damage from Zomnarch.
+[19:04:56	]the one has taken 10 damage from npc_zombie.
+[19:04:56	]the one has taken 10 damage from npc_zombie.
+[19:04:56	]the one has taken 45 damage from Gonome.
+[19:04:56	]the one has taken 80 damage from Zomnarch.
+[19:04:57	]the one has taken 45 damage from Gonome.
+[19:04:57	]the one has taken 10 damage from npc_zombie.
+[19:04:57	]the one has taken 10 damage from npc_zombie.
+[19:04:57	]the one has taken 10 damage from npc_zombie.
+[19:04:57	]the one has taken 1 damage from Zomnarch.
+[19:04:58	]the one has taken 80 damage from Zomnarch.
+[19:04:58	]the one has taken 10 damage from npc_zombie.
+[19:04:58	]the one has taken 80 damage from Zomnarch.
+[19:04:58	]the one has taken 10 damage from npc_zombie.
+[19:04:58	]the one has taken 10 damage from npc_zombie.
+[19:04:58	]the one has taken 45 damage from Gonome.
+[19:04:58	]the one has taken 1 damage from Zomnarch.
+[19:04:58	]the one has taken 10 damage from npc_zombie.
+[19:04:59	]the one has taken 45 damage from Gonome.
+[19:04:59	]the one has taken 10 damage from npc_zombie.
+[19:04:59	]the one has taken 80 damage from Zomnarch.
+[19:04:59	]the one has taken 10 damage from npc_zombie.
+[19:04:59	]the one has taken 10 damage from npc_zombie.
+[19:04:59	]the one has taken 1 damage from Zomnarch.
+[19:05:00	]the one has taken 10 damage from npc_zombie.
+[19:05:00	]the one has taken 80 damage from Zomnarch.
+[19:05:00	]the one is fully healed.
+[19:05:00	]the one has taken 10 damage from npc_zombie.
+[19:05:00	]the one has taken 10 damage from npc_zombie.
+[19:05:00	]the one has taken 10 damage from npc_zombie.
+[19:05:00	]the one has taken 1 damage from Zomnarch.
+[19:05:01	]the one has taken 45 damage from Gonome.
+[19:05:01	]the one has taken 10 damage from npc_zombie.
+[19:05:01	]the one has taken 10 damage from npc_zombie.
+[19:05:01	]the one has taken 80 damage from Zomnarch.
+[19:05:01	]the one has taken 45 damage from Gonome.
+[19:05:01	]the one has taken 80 damage from Zomnarch.
+[19:05:02	]the one has taken 80 damage from Zomnarch.
+[19:05:02	]the one has taken 80 damage from Zomnarch.
+[19:05:02	]the one has taken 10 damage from npc_zombie.
+[19:05:02	]the one has taken 10 damage from npc_zombie.
+[19:05:02	]the one has taken 10 damage from npc_zombie.
+[19:05:02	]the one has taken 10 damage from npc_zombie.
+[19:05:03	]the one has taken 10 damage from npc_zombie.
+[19:05:03	]the one has taken 1 damage from Zomnarch.
+[19:05:03	]the one has taken 80 damage from Zomnarch.
+[19:05:03	]the one has taken 45 damage from Gonome.
+[19:05:03	]the one has taken 80 damage from Zomnarch.
+[19:05:03	]the one has taken 10 damage from npc_zombie.
+[19:05:03	]the one has taken 10 damage from npc_zombie.
+[19:05:03	]the one has taken 45 damage from Gonome.
+[19:05:03	]the one has taken 80 damage from Zomnarch.
+[19:05:04	]the one has taken 45 damage from Gonome.
+[19:05:04	]the one has taken 80 damage from Zomnarch.
+[19:05:04	]the one has taken 10 damage from npc_zombie.
+[19:05:04	]the one has taken 45 damage from Gonome.
+[19:05:04	]the one has taken 10 damage from npc_zombie.
+[19:05:04	]the one has taken 1 damage from Zomnarch.
+[19:05:04	]the one has taken 10 damage from npc_zombie.
+[19:05:05	]the one has taken 80 damage from Zomnarch.
+[19:05:05	]the one is fully healed.
+[19:05:05	]the one has taken 10 damage from npc_zombie.
+[19:05:05	]the one has taken 10 damage from npc_zombie.
+[19:05:05	]the one has taken 80 damage from Zomnarch.
+[19:05:05	]the one has taken 10 damage from npc_zombie.
+[19:05:05	]the one has taken 10 damage from npc_zombie.
+[19:05:05	]the one has taken 1 damage from Zomnarch.
+[19:05:06	]the one has taken 45 damage from Gonome.
+[19:05:06	]the one has taken 10 damage from npc_zombie.
+[19:05:06	]the one has taken 45 damage from Gonome.
+[19:05:06	]the one has taken 10 damage from npc_zombie.
+[19:05:06	]the one has taken 45 damage from Gonome.
+[19:05:06	]the one has taken 80 damage from Zomnarch.
+[19:05:06	]the one has taken 10 damage from npc_zombie.
+[19:05:06	]the one has taken 45 damage from Gonome.
+[19:05:06	]the one has taken 1 damage from Zomnarch.
+[19:05:07	]the one has taken 10 damage from npc_zombie.
+[19:05:07	]the one has taken 80 damage from Zomnarch.
+[19:05:07	]the one has taken 10 damage from npc_zombie.
+[19:05:07	]the one has taken 10 damage from npc_zombie.
+[19:05:07	]the one has taken 10 damage from npc_zombie.
+[19:05:07	]the one has taken 1 damage from Zomnarch.
+[19:05:08	]the one has taken 10 damage from npc_zombie.
+[19:05:08	]the one has taken 45 damage from Gonome.
+[19:05:08	]the one has taken 10 damage from npc_zombie.
+[19:05:08	]the one has taken 80 damage from Zomnarch.
+[19:05:08	]the one has taken 80 damage from Zomnarch.
+[19:05:08	]the one has taken 10 damage from npc_zombie.
+[19:05:08	]the one has taken 45 damage from Gonome.
+[19:05:08	]the one has taken 10 damage from npc_zombie.
+[19:05:09	]the one has taken 80 damage from Zomnarch.
+[19:05:09	]the one has taken 80 damage from Zomnarch.
+[19:05:09	]the one has taken 10 damage from npc_zombie.
+[19:05:09	]the one has taken 10 damage from npc_zombie.
+[19:05:10	]the one has taken 1 damage from Zomnarch.
+[19:05:10	]the one has taken 10 damage from npc_zombie.
+[19:05:10	]the one has taken 80 damage from Zomnarch.
+[19:05:10	]the one is fully healed.
+[19:05:10	]the one has taken 10 damage from npc_zombie.
+[19:05:10	]the one has taken 80 damage from Zomnarch.
+[19:05:10	]the one has taken 10 damage from npc_zombie.
+[19:05:10	]the one has taken 10 damage from npc_zombie.
+[19:05:10	]the one has taken 45 damage from Gonome.
+[19:05:11	]the one has taken 45 damage from Gonome.
+[19:05:11	]the one has taken 10 damage from npc_zombie.
+[19:05:11	]the one has taken 45 damage from Gonome.
+[19:05:11	]the one has taken 10 damage from npc_zombie.
+[19:05:11	]the one has taken 45 damage from Gonome.
+[19:05:11	]the one has taken 1 damage from Zomnarch.
+[19:05:11	]the one has taken 10 damage from npc_zombie.
+[19:05:12	]the one has taken 80 damage from Zomnarch.
+[19:05:12	]the one has taken 10 damage from npc_zombie.
+[19:05:12	]the one has taken 80 damage from Zomnarch.
+[19:05:12	]the one has taken 10 damage from npc_zombie.
+[19:05:12	]the one has taken 80 damage from Zomnarch.
+[19:05:12	]the one has taken 80 damage from Zomnarch.
+[19:05:12	]the one has taken 10 damage from npc_zombie.
+[19:05:13	]the one has taken 10 damage from npc_zombie.
+[19:05:13	]the one has taken 10 damage from npc_zombie.
+[19:05:13	]the one has taken 45 damage from Gonome.
+[19:05:13	]the one has taken 45 damage from Gonome.
+[19:05:13	]the one has taken 80 damage from Zomnarch.
+[19:05:13	]the one has taken 1 damage from Zomnarch.
+[19:05:13	]the one has taken 10 damage from npc_zombie.
+[19:05:13	]the one has taken 10 damage from npc_zombie.
+[19:05:14	]the one has taken 80 damage from Zomnarch.
+[19:05:14	]the one has taken 10 damage from npc_zombie.
+[19:05:14	]the one has taken 10 damage from npc_zombie.
+[19:05:14	]the one has taken 10 damage from npc_zombie.
+[19:05:14	]the one has taken 1 damage from Zomnarch.
+[19:05:15	]the one is fully healed.
+[19:05:15	]the one has taken 45 damage from Gonome.
+[19:05:15	]the one has taken 80 damage from Zomnarch.
+[19:05:15	]the one has taken 10 damage from npc_zombie.
+[19:05:15	]the one has taken 10 damage from npc_zombie.
+[19:05:15	]the one has taken 1 damage from Zomnarch.
+[19:05:15	]the one has taken 80 damage from Zomnarch.
+[19:05:15	]the one has taken 10 damage from npc_zombie.
+[19:05:15	]the one has taken 45 damage from Gonome.
+[19:05:15	]the one has taken 10 damage from npc_zombie.
+[19:05:15	]the one has taken 10 damage from npc_zombie.
+[19:05:16	]the one has taken 80 damage from Zomnarch.
+[19:05:16	]the one has taken 80 damage from Zomnarch.
+[19:05:16	]the one has taken 1 damage from Zomnarch.
+[19:05:17	]the one has taken 80 damage from Zomnarch.
+[19:05:17	]the one has taken 10 damage from npc_zombie.
+[19:05:17	]the one has taken 10 damage from npc_zombie.
+[19:05:17	]the one has taken 10 damage from npc_zombie.
+[19:05:17	]the one has taken 80 damage from Zomnarch.
+[19:05:17	]the one has taken 10 damage from npc_zombie.
+[19:05:17	]the one has taken 10 damage from npc_zombie.
+[19:05:17	]the one has taken 45 damage from Gonome.
+[19:05:18	]the one has taken 1 damage from Zomnarch.
+[19:05:18	]the one has taken 45 damage from Gonome.
+[19:05:18	]the one has taken 10 damage from npc_zombie.
+[19:05:18	]the one has taken 10 damage from npc_zombie.
+[19:05:19	]the one has taken 80 damage from Zomnarch.
+[19:05:19	]the one has taken 1 damage from Zomnarch.
+[19:05:19	]the one has taken 10 damage from npc_zombie.
+[19:05:19	]the one has taken 80 damage from Zomnarch.
+[19:05:19	]the one has taken 10 damage from npc_zombie.
+[19:05:19	]the one has taken 10 damage from npc_zombie.
+[19:05:19	]the one has taken 80 damage from Zomnarch.
+[19:05:19	]the one has taken 80 damage from Zomnarch.
+[19:05:19	]the one has taken 10 damage from npc_zombie.
+[19:05:20	]the one is fully healed.
+[19:05:20	]the one has taken 45 damage from Gonome.
+[19:05:20	]the one has taken 45 damage from Gonome.
+[19:05:20	]the one has taken 1 damage from Zomnarch.
+[19:05:20	]the one has taken 10 damage from npc_zombie.
+[19:05:20	]the one has taken 80 damage from Zomnarch.
+[19:05:20	]the one has taken 45 damage from Gonome.
+[19:05:20	]the one has taken 10 damage from npc_zombie.
+[19:05:20	]the one has taken 45 damage from Gonome.
+[19:05:21	]the one has taken 10 damage from npc_zombie.
+[19:05:21	]the one has taken 10 damage from npc_zombie.
+[19:05:21	]the one has taken 80 damage from Zomnarch.
+[19:05:21	]the one has taken 10 damage from npc_zombie.
+[19:05:22	]the one has taken 1 damage from Zomnarch.
+[19:05:22	]the one has taken 10 damage from npc_zombie.
+[19:05:22	]the one has taken 80 damage from Zomnarch.
+[19:05:22	]the one has taken 10 damage from npc_zombie.
+[19:05:22	]the one has taken 10 damage from npc_zombie.
+[19:05:22	]the one has taken 10 damage from npc_zombie.
+[19:05:22	]the one has taken 45 damage from Gonome.
+[19:05:22	]the one has taken 80 damage from Zomnarch.
+[19:05:23	]the one has taken 45 damage from Gonome.
+[19:05:23	]the one has taken 10 damage from npc_zombie.
+[19:05:23	]the one has taken 45 damage from Gonome.
+[19:05:23	]the one has taken 45 damage from Gonome.
+[19:05:23	]the one has taken 1 damage from Zomnarch.
+[19:05:23	]the one has taken 10 damage from npc_zombie.
+[19:05:24	]the one has taken 10 damage from npc_zombie.
+[19:05:24	]the one has taken 80 damage from Zomnarch.
+[19:05:24	]the one has taken 10 damage from npc_zombie.
+[19:05:24	]the one has taken 10 damage from npc_zombie.
+[19:05:24	]the one has taken 10 damage from npc_zombie.
+[19:05:24	]the one has taken 80 damage from Zomnarch.
+[19:05:24	]the one has taken 80 damage from Zomnarch.
+[19:05:24	]the one has taken 1 damage from Zomnarch.
+[19:05:24	]the one has taken 80 damage from Zomnarch.
+[19:05:25	]the one is fully healed.
+[19:05:25	]the one has taken 10 damage from npc_zombie.
+[19:05:25	]the one has taken 45 damage from Gonome.
+[19:05:25	]the one has taken 45 damage from Gonome.
+[19:05:25	]the one has taken 10 damage from npc_zombie.
+[19:05:25	]the one has taken 45 damage from Gonome.
+[19:05:25	]the one has taken 1 damage from Zomnarch.
+[19:05:26	]the one has taken 80 damage from Zomnarch.
+[19:05:26	]the one has taken 45 damage from Gonome.
+[19:05:26	]the one has taken 10 damage from npc_zombie.
+[19:05:26	]the one has taken 10 damage from npc_zombie.
+[19:05:26	]the one has taken 10 damage from npc_zombie.
+[19:05:26	]the one has taken 80 damage from Zomnarch.
+[19:05:26	]the one has taken 10 damage from npc_zombie.
+[19:05:26	]the one has taken 1 damage from Zomnarch.
+[19:05:26	]the one has taken 10 damage from npc_zombie.
+[19:05:27	]the one has taken 10 damage from npc_zombie.
+[19:05:27	]the one has taken 10 damage from npc_zombie.
+[19:05:27	]the one has taken 45 damage from Gonome.
+[19:05:27	]the one has taken 80 damage from Zomnarch.
+[19:05:27	]the one has taken 10 damage from npc_zombie.
+[19:05:28	]the one has taken 45 damage from Gonome.
+[19:05:28	]the one has taken 80 damage from Zomnarch.
+[19:05:28	]the one has taken 10 damage from npc_zombie.
+[19:05:28	]the one has taken 10 damage from npc_zombie.
+[19:05:28	]the one has taken 1 damage from Zomnarch.
+[19:05:28	]the one has taken 10 damage from npc_zombie.
+[19:05:29	]the one has taken 10 damage from npc_zombie.
+[19:05:29	]the one has taken 80 damage from Zomnarch.
+[19:05:29	]the one has taken 10 damage from npc_zombie.
+[19:05:29	]the one has taken 1 damage from Zomnarch.
+[19:05:29	]the one has taken 80 damage from Zomnarch.
+[19:05:29	]the one has taken 10 damage from npc_zombie.
+[19:05:30	]the one has taken 45 damage from Gonome.
+[19:05:30	]the one has taken 10 damage from npc_zombie.
+[19:05:30	]the one is fully healed.
+[19:05:30	]the one has taken 45 damage from Gonome.
+[19:05:30	]the one has taken 10 damage from npc_zombie.
+[19:05:30	]the one has taken 10 damage from npc_zombie.
+[19:05:30	]the one has taken 1 damage from Zomnarch.
+[19:05:30	]the one has taken 10 damage from npc_zombie.
+[19:05:31	]the one has taken 10 damage from npc_zombie.
+[19:05:31	]the one has taken 80 damage from Zomnarch.
+[19:05:31	]the one has taken 80 damage from Zomnarch.
+[19:05:31	]the one has taken 80 damage from Zomnarch.
+[19:05:31	]the one has taken 10 damage from npc_zombie.
+[19:05:31	]the one has taken 10 damage from npc_zombie.
+[19:05:31	]the one has taken 80 damage from Zomnarch.
+[19:05:32	]the one has taken 45 damage from Gonome.
+[19:05:32	]the one has taken 10 damage from npc_zombie.
+[19:05:32	]the one has taken 10 damage from npc_zombie.
+[19:05:32	]the one has taken 45 damage from Gonome.
+[19:05:32	]the one has taken 1 damage from Zomnarch.
+[19:05:32	]the one has taken 10 damage from npc_zombie.
+[19:05:33	]the one has taken 80 damage from Zomnarch.
+[19:05:33	]the one has taken 10 damage from npc_zombie.
+[19:05:33	]the one has taken 80 damage from Zomnarch.
+[19:05:33	]the one has taken 10 damage from npc_zombie.
+[19:05:33	]the one has taken 80 damage from Zomnarch.
+[19:05:33	]the one has taken 10 damage from npc_zombie.
+[19:05:33	]the one has taken 80 damage from Zomnarch.
+[19:05:34	]the one has taken 10 damage from npc_zombie.
+[19:05:34	]the one has taken 1 damage from Zomnarch.
+[19:05:34	]the one has taken 10 damage from npc_zombie.
+[19:05:34	]the one has taken 45 damage from Gonome.
+[19:05:34	]the one has taken 10 damage from npc_zombie.
+[19:05:34	]the one has taken 10 damage from npc_zombie.
+[19:05:34	]the one has taken 80 damage from Zomnarch.
+[19:05:34	]the one has taken 45 damage from Gonome.
+[19:05:35	]the one has taken 80 damage from Zomnarch.
+[19:05:35	]the one has taken 10 damage from npc_zombie.
+[19:05:35	]the one is fully healed.
+[19:05:35	]the one has taken 45 damage from Gonome.
+[19:05:35	]the one has taken 10 damage from npc_zombie.
+[19:05:35	]the one has taken 80 damage from Zomnarch.
+[19:05:35	]the one has taken 45 damage from Gonome.
+[19:05:35	]the one has taken 80 damage from Zomnarch.
+[19:05:35	]the one has taken 1 damage from Zomnarch.
+[19:05:36	]the one has taken 10 damage from npc_zombie.
+[19:05:36	]the one has taken 10 damage from npc_zombie.
+[19:05:36	]the one has taken 10 damage from npc_zombie.
+[19:05:36	]the one has taken 80 damage from Zomnarch.
+[19:05:36	]the one has taken 1 damage from Zomnarch.
+[19:05:36	]the one has taken 10 damage from npc_zombie.
+[19:05:36	]the one has taken 10 damage from npc_zombie.
+[19:05:37	]the one has taken 80 damage from Zomnarch.
+[19:05:37	]the one has taken 45 damage from Gonome.
+[19:05:37	]the one has taken 45 damage from Gonome.
+[19:05:37	]the one has taken 10 damage from npc_zombie.
+[19:05:37	]the one has taken 10 damage from npc_zombie.
+[19:05:37	]the one has taken 1 damage from Zomnarch.
+[19:05:38	]the one has taken 10 damage from npc_zombie.
+[19:05:38	]the one has taken 80 damage from Zomnarch.
+[19:05:38	]the one has taken 10 damage from npc_zombie.
+[19:05:38	]the one has taken 10 damage from npc_zombie.
+[19:05:38	]the one has taken 80 damage from Zomnarch.
+[19:05:38	]the one has taken 1 damage from Zomnarch.
+[19:05:39	]the one has taken 10 damage from npc_zombie.
+[19:05:39	]the one has taken 10 damage from npc_zombie.
+[19:05:39	]the one has taken 10 damage from npc_zombie.
+[19:05:39	]the one has taken 45 damage from Gonome.
+[19:05:39	]the one has taken 45 damage from Gonome.
+[19:05:39	]the one has taken 10 damage from npc_zombie.
+[19:05:39	]the one has taken 10 damage from npc_zombie.
+[19:05:40	]the one has taken 80 damage from Zomnarch.
+[19:05:40	]the one has taken 45 damage from Gonome.
+[19:05:40	]the one is fully healed.
+[19:05:40	]the one has taken 80 damage from Zomnarch.
+[19:05:40	]the one has taken 45 damage from Gonome.
+[19:05:40	]the one has taken 80 damage from Zomnarch.
+[19:05:40	]the one has taken 80 damage from Zomnarch.
+[19:05:41	]the one has taken 10 damage from npc_zombie.
+[19:05:41	]the one has taken 10 damage from npc_zombie.
+[19:05:41	]the one has taken 10 damage from npc_zombie.
+[19:05:41	]the one has taken 10 damage from npc_zombie.
+[19:05:41	]the one has taken 1 damage from Zomnarch.
+[19:05:41	]the one has taken 10 damage from npc_zombie.
+[19:05:41	]the one has taken 80 damage from Zomnarch.
+[19:05:42	]the one has taken 45 damage from Gonome.
+[19:05:42	]the one has taken 80 damage from Zomnarch.
+[19:05:42	]the one has taken 10 damage from npc_zombie.
+[19:05:42	]the one has taken 45 damage from Gonome.
+[19:05:42	]the one has taken 10 damage from npc_zombie.
+[19:05:42	]the one has taken 1 damage from Zomnarch.
+[19:05:42	]the one has taken 10 damage from npc_zombie.
+[19:05:42	]the one has taken 10 damage from npc_zombie.
+[19:05:43	]the one has taken 10 damage from npc_zombie.
+[19:05:43	]the one has taken 80 damage from Zomnarch.
+[19:05:43	]the one has taken 10 damage from npc_zombie.
+[19:05:43	]the one has taken 1 damage from Zomnarch.
+[19:05:43	]the one has taken 80 damage from Zomnarch.
+[19:05:44	]the one has taken 45 damage from Gonome.
+[19:05:44	]the one has taken 10 damage from npc_zombie.
+[19:05:44	]the one has taken 10 damage from npc_zombie.
+[19:05:44	]the one has taken 45 damage from Gonome.
+[19:05:44	]the one has taken 10 damage from npc_zombie.
+[19:05:44	]the one has taken 10 damage from npc_zombie.
+[19:05:44	]the one has taken 1 damage from Zomnarch.
+[19:05:44	]the one has taken 45 damage from Gonome.
+[19:05:44	]the one has taken 10 damage from npc_zombie.
+[19:05:45	]the one has taken 45 damage from Gonome.
+[19:05:45	]the one is fully healed.
+[19:05:45	]the one has taken 80 damage from Zomnarch.
+[19:05:45	]the one has taken 80 damage from Zomnarch.
+[19:05:45	]the one has taken 10 damage from npc_zombie.
+[19:05:45	]the one has taken 80 damage from Zomnarch.
+[19:05:45	]the one has taken 10 damage from npc_zombie.
+[19:05:45	]the one has taken 10 damage from npc_zombie.
+[19:05:46	]the one has taken 80 damage from Zomnarch.
+[19:05:46	]the one has taken 10 damage from npc_zombie.
+[19:05:46	]the one has taken 1 damage from Zomnarch.
+[19:05:46	]the one has taken 10 damage from npc_zombie.
+[19:05:46	]the one has taken 45 damage from Gonome.
+[19:05:47	]the one has taken 80 damage from Zomnarch.
+[19:05:47	]the one has taken 10 damage from npc_zombie.
+[19:05:47	]the one has taken 45 damage from Gonome.
+[19:05:47	]the one has taken 1 damage from Zomnarch.
+[19:05:47	]the one has taken 10 damage from npc_zombie.
+[19:05:47	]the one has taken 80 damage from Zomnarch.
+[19:05:47	]the one has taken 10 damage from npc_zombie.
+[19:05:47	]the one has taken 10 damage from npc_zombie.
+[19:05:48	]the one has taken 10 damage from npc_zombie.
+[19:05:48	]the one has taken 1 damage from Zomnarch.
+[19:05:48	]the one has taken 10 damage from npc_zombie.
+[19:05:48	]the one has taken 10 damage from npc_zombie.
+[19:05:48	]the one has taken 80 damage from Zomnarch.
+[19:05:49	]the one has taken 80 damage from Zomnarch.
+[19:05:49	]the one has taken 45 damage from Gonome.
+[19:05:49	]the one has taken 10 damage from npc_zombie.
+[19:05:49	]the one has taken 80 damage from Zomnarch.
+[19:05:49	]the one has taken 10 damage from npc_zombie.
+[19:05:49	]the one has taken 45 damage from Gonome.
+[19:05:49	]the one has taken 80 damage from Zomnarch.
+[19:05:49	]the one has taken 10 damage from npc_zombie.
+[19:05:49	]the one has taken 10 damage from npc_zombie.
+[19:05:50	]the one has taken 1 damage from Zomnarch.
+[19:05:50	]the one has taken 10 damage from npc_zombie.
+[19:05:50	]the one is fully healed.
+[19:05:50	]the one has taken 10 damage from npc_zombie.
+[19:05:50	]the one has taken 10 damage from npc_zombie.
+[19:05:50	]the one has taken 80 damage from Zomnarch.
+[19:05:50	]the one has taken 80 damage from Zomnarch.
+[19:05:51	]the one has taken 1 damage from Zomnarch.
+[19:05:51	]the one has taken 80 damage from Zomnarch.
+[19:05:51	]the one has taken 80 damage from Zomnarch.
+[19:05:51	]the one has taken 10 damage from npc_zombie.
+[19:05:51	]the one has taken 45 damage from Gonome.
+[19:05:51	]the one has taken 10 damage from npc_zombie.
+[19:05:51	]the one has taken 10 damage from npc_zombie.
+[19:05:51	]the one has taken 10 damage from npc_zombie.
+[19:05:51	]the one has taken 45 damage from Gonome.
+[19:05:52	]the one has taken 45 damage from Gonome.
+[19:05:52	]the one has taken 10 damage from npc_zombie.
+[19:05:52	]the one has taken 45 damage from Gonome.
+[19:05:52	]the one has taken 1 damage from Zomnarch.
+[19:05:52	]the one has taken 80 damage from Zomnarch.
+[19:05:52	]the one has taken 80 damage from Zomnarch.
+[19:05:52	]the one has taken 10 damage from npc_zombie.
+[19:05:52	]the one has taken 10 damage from npc_zombie.
+[19:05:52	]the one has taken 10 damage from npc_zombie.
+[19:05:52	]the one has taken 80 damage from Zomnarch.
+[19:05:53	]the one has taken 80 damage from Zomnarch.
+[19:05:53	]the one has taken 10 damage from npc_zombie.
+[19:05:53	]the one has taken 1 damage from Zomnarch.
+[19:05:53	]the one has taken 10 damage from npc_zombie.
+[19:05:53	]the one has taken 10 damage from npc_zombie.
+[19:05:54	]the one has taken 45 damage from Gonome.
+[19:05:54	]the one has taken 80 damage from Zomnarch.
+[19:05:54	]the one has taken 45 damage from Gonome.
+[19:05:54	]the one has taken 10 damage from npc_zombie.
+[19:05:54	]the one has taken 80 damage from Zomnarch.
+[19:05:54	]the one has taken 45 damage from Gonome.
+[19:05:54	]the one has taken 10 damage from npc_zombie.
+[19:05:54	]the one has taken 45 damage from Gonome.
+[19:05:55	]the one has taken 10 damage from npc_zombie.
+[19:05:55	]the one is fully healed.
+[19:05:55	]the one has taken 1 damage from Zomnarch.
+[19:05:55	]the one has taken 10 damage from npc_zombie.
+[19:05:55	]the one has taken 10 damage from npc_zombie.
+[19:05:55	]the one has taken 10 damage from npc_zombie.
+[19:05:55	]the one has taken 80 damage from Zomnarch.
+[19:05:56	]the one has taken 80 damage from Zomnarch.
+[19:05:56	]the one has taken 10 damage from npc_zombie.
+[19:05:56	]the one has taken 80 damage from Zomnarch.
+[19:05:56	]the one has taken 1 damage from Zomnarch.
+[19:05:56	]the one has taken 45 damage from Gonome.
+[19:05:56	]the one has taken 80 damage from Zomnarch.
+[19:05:56	]the one has taken 45 damage from Gonome.
+[19:05:56	]the one has taken 10 damage from npc_zombie.
+[19:05:56	]the one has taken 10 damage from npc_zombie.
+[19:05:57	]the one has taken 45 damage from Gonome.
+[19:05:57	]the one has taken 45 damage from Gonome.
+[19:05:57	]the one has taken 10 damage from npc_zombie.
+[19:05:57	]the one has taken 10 damage from npc_zombie.
+[19:05:57	]the one has taken 1 damage from Zomnarch.
+[19:05:57	]the one has taken 80 damage from Zomnarch.
+[19:05:57	]the one has taken 10 damage from npc_zombie.
+[19:05:58	]the one has taken 80 damage from Zomnarch.
+[19:05:58	]the one has taken 10 damage from npc_zombie.
+[19:05:58	]the one has taken 10 damage from npc_zombie.
+[19:05:58	]the one has taken 45 damage from Gonome.
+[19:05:58	]the one has taken 10 damage from npc_zombie.
+[19:05:59	]the one has taken 1 damage from Zomnarch.
+[19:05:59	]the one has taken 10 damage from npc_zombie.
+[19:05:59	]the one has taken 80 damage from Zomnarch.
+[19:05:59	]the one has taken 45 damage from Gonome.
+[19:05:59	]the one has taken 10 damage from npc_zombie.
+[19:05:59	]the one has taken 80 damage from Zomnarch.
+[19:05:59	]the one has taken 10 damage from npc_zombie.
+[19:06:00	]the one has taken 10 damage from npc_zombie.
+[19:06:00	]the one is fully healed.
+[19:06:00	]the one has taken 10 damage from npc_zombie.
+[19:06:00	]the one has taken 1 damage from Zomnarch.
+[19:06:00	]the one has taken 10 damage from npc_zombie.
+[19:06:00	]the one has taken 10 damage from npc_zombie.
+[19:06:01	]the one has taken 80 damage from Zomnarch.
+[19:06:01	]the one has taken 45 damage from Gonome.
+[19:06:01	]the one has taken 80 damage from Zomnarch.
+[19:06:01	]the one has taken 10 damage from npc_zombie.
+[19:06:01	]the one has taken 45 damage from Gonome.
+[19:06:01	]the one has taken 80 damage from Zomnarch.
+[19:06:01	]the one has taken 80 damage from Zomnarch.
+[19:06:01	]the one has taken 10 damage from npc_zombie.
+[19:06:01	]the one has taken 10 damage from npc_zombie.
+[19:06:02	]the one has taken 10 damage from npc_zombie.
+[19:06:02	]the one has taken 10 damage from npc_zombie.
+[19:06:02	]the one has taken 1 damage from Zomnarch.
+[19:06:02	]the one has taken 80 damage from Zomnarch.
+[19:06:03	]the one has taken 10 damage from npc_zombie.
+[19:06:03	]the one has taken 80 damage from Zomnarch.
+[19:06:03	]the one has taken 80 damage from Zomnarch.
+[19:06:03	]the one has taken 45 damage from Gonome.
+[19:06:03	]the one has taken 10 damage from npc_zombie.
+[19:06:03	]the one has taken 80 damage from Zomnarch.
+[19:06:03	]the one has taken 10 damage from npc_zombie.
+[19:06:03	]the one has taken 10 damage from npc_zombie.
+[19:06:03	]the one has taken 10 damage from npc_zombie.
+[19:06:03	]the one has taken 45 damage from Gonome.
+[19:06:04	]the one has taken 1 damage from Zomnarch.
+[19:06:04	]the one has taken 80 damage from Zomnarch.
+[19:06:04	]the one has taken 10 damage from npc_zombie.
+[19:06:04	]the one has taken 10 damage from npc_zombie.
+[19:06:05	]the one has taken 80 damage from Zomnarch.
+[19:06:05	]the one is fully healed.
+[19:06:05	]the one has taken 10 damage from npc_zombie.
+[19:06:05	]the one has taken 10 damage from npc_zombie.
+[19:06:05	]the one has taken 10 damage from npc_zombie.
+[19:06:05	]the one has taken 1 damage from Zomnarch.
+[19:06:05	]the one has taken 45 damage from Gonome.
+[19:06:06	]the one has taken 45 damage from Gonome.
+[19:06:06	]the one has taken 80 damage from Zomnarch.
+[19:06:06	]the one has taken 10 damage from npc_zombie.
+[19:06:06	]the one has taken 10 damage from npc_zombie.
+[19:06:06	]the one has taken 1 damage from Zomnarch.
+[19:06:06	]the one has taken 80 damage from Zomnarch.
+[19:06:06	]the one has taken 10 damage from npc_zombie.
+[19:06:07	]the one has taken 10 damage from npc_zombie.
+[19:06:07	]the one has taken 10 damage from npc_zombie.
+[19:06:07	]the one has taken 1 damage from Zomnarch.
+[19:06:08	]the one has taken 80 damage from Zomnarch.
+[19:06:08	]the one has taken 45 damage from Gonome.
+[19:06:08	]the one has taken 10 damage from npc_zombie.
+[19:06:08	]the one has taken 10 damage from npc_zombie.
+[19:06:08	]the one has taken 10 damage from npc_zombie.
+[19:06:08	]the one has taken 80 damage from Zomnarch.
+[19:06:08	]the one has taken 45 damage from Gonome.
+[19:06:08	]the one has taken 10 damage from npc_zombie.
+[19:06:08	]the one has taken 10 damage from npc_zombie.
+[19:06:09	]the one has taken 10 damage from npc_zombie.
+[19:06:09	]the one has taken 80 damage from Zomnarch.
+[19:06:09	]the one has taken 10 damage from npc_zombie.
+[19:06:09	]the one has taken 10 damage from npc_zombie.
+[19:06:10	]the one has taken 80 damage from Zomnarch.
+[19:06:10	]the one is fully healed.
+[19:06:10	]the one has taken 10 damage from npc_zombie.
+[19:06:10	]the one has taken 45 damage from Gonome.
+[19:06:10	]the one has taken 10 damage from npc_zombie.
+[19:06:10	]the one has taken 10 damage from npc_zombie.
+[19:06:10	]the one has taken 45 damage from Gonome.
+[19:06:11	]the one has taken 1 damage from Zomnarch.
+[19:06:11	]the one has taken 80 damage from Zomnarch.
+[19:06:11	]the one has taken 10 damage from npc_zombie.
+[19:06:11	]the one has taken 10 damage from npc_zombie.
+[19:06:11	]the one has taken 80 damage from Zomnarch.
+[19:06:12	]the one has taken 80 damage from Zomnarch.
+[19:06:12	]the one has taken 10 damage from npc_zombie.
+[19:06:12	]the one has taken 80 damage from Zomnarch.
+[19:06:12	]the one has taken 10 damage from npc_zombie.
+[19:06:12	]the one has taken 10 damage from npc_zombie.
+[19:06:12	]the one has taken 45 damage from Gonome.
+[19:06:12	]the one has taken 1 damage from Zomnarch.
+[19:06:12	]the one has taken 10 damage from npc_zombie.
+[19:06:13	]the one has taken 45 damage from Gonome.
+[19:06:13	]the one has taken 10 damage from npc_zombie.
+[19:06:13	]the one has taken 80 damage from Zomnarch.
+[19:06:13	]the one has taken 80 damage from Zomnarch.
+[19:06:13	]the one has taken 10 damage from npc_zombie.
+[19:06:13	]the one has taken 80 damage from Zomnarch.
+[19:06:14	]the one has taken 80 damage from Zomnarch.
+[19:06:14	]the one has taken 10 damage from npc_zombie.
+[19:06:14	]the one has taken 10 damage from npc_zombie.
+[19:06:14	]the one has taken 10 damage from npc_zombie.
+[19:06:14	]the one has taken 10 damage from npc_zombie.
+[19:06:15	]the one has taken 1 damage from Zomnarch.
+[19:06:15	]the one has taken 45 damage from Gonome.
+[19:06:15	]the one has taken 80 damage from Zomnarch.
+[19:06:15	]the one has taken 10 damage from npc_zombie.
+[19:06:15	]the one is fully healed.
+[19:06:15	]the one has taken 45 damage from Gonome.
+[19:06:15	]the one has taken 80 damage from Zomnarch.
+[19:06:15	]the one has taken 10 damage from npc_zombie.
+[19:06:15	]the one has taken 10 damage from npc_zombie.
+[19:06:16	]the one has taken 1 damage from Zomnarch.
+[19:06:16	]the one has taken 10 damage from npc_zombie.
+[19:06:16	]the one has taken 10 damage from npc_zombie.
+[19:06:16	]the one has taken 10 damage from npc_zombie.
+[19:06:16	]the one has taken 10 damage from npc_zombie.
+[19:06:16	]the one has taken 80 damage from Zomnarch.
+[19:06:17	]the one has taken 80 damage from Zomnarch.
+[19:06:17	]the one has taken 45 damage from Gonome.
+[19:06:17	]the one has taken 10 damage from npc_zombie.
+[19:06:17	]the one has taken 10 damage from npc_zombie.
+[19:06:17	]the one has taken 1 damage from Zomnarch.
+[19:06:17	]the one has taken 45 damage from Gonome.
+[19:06:17	]the one has taken 10 damage from npc_zombie.
+[19:06:17	]the one has taken 10 damage from npc_zombie.
+[19:06:17	]the one has taken 10 damage from npc_zombie.
+[19:06:18	]the one has taken 80 damage from Zomnarch.
+[19:06:18	]the one has taken 10 damage from npc_zombie.
+[19:06:18	]the one has taken 1 damage from Zomnarch.
+[19:06:18	]the one has taken 80 damage from Zomnarch.
+[19:06:18	]the one has taken 10 damage from npc_zombie.
+[19:06:19	]the one has taken 10 damage from npc_zombie.
+[19:06:19	]the one has taken 10 damage from npc_zombie.
+[19:06:19	]the one has taken 10 damage from npc_zombie.
+[19:06:19	]the one has taken 45 damage from Gonome.
+[19:06:19	]the one has taken 1 damage from Zomnarch.
+[19:06:19	]the one has taken 10 damage from npc_zombie.
+[19:06:20	]the one has taken 45 damage from Gonome.
+[19:06:20	]the one has taken 80 damage from Zomnarch.
+[19:06:20	]the one is fully healed.
+[19:06:20	]the one has taken 80 damage from Zomnarch.
+[19:06:20	]the one has taken 10 damage from npc_zombie.
+[19:06:20	]the one has taken 10 damage from npc_zombie.
+[19:06:20	]the one has taken 10 damage from npc_zombie.
+[19:06:21	]the one has taken 1 damage from Zomnarch.
+[19:06:21	]the one has taken 10 damage from npc_zombie.
+[19:06:21	]the one has taken 10 damage from npc_zombie.
+[19:06:21	]the one has taken 80 damage from Zomnarch.
+[19:06:22	]the one has taken 45 damage from Gonome.
+[19:06:22	]the one has taken 80 damage from Zomnarch.
+[19:06:22	]the one has taken 10 damage from npc_zombie.
+[19:06:22	]the one has taken 45 damage from Gonome.
+[19:06:22	]the one has taken 80 damage from Zomnarch.
+[19:06:22	]the one has taken 10 damage from npc_zombie.
+[19:06:22	]the one has taken 45 damage from Gonome.
+[19:06:22	]the one has taken 10 damage from npc_zombie.
+[19:06:22	]the one has taken 80 damage from Zomnarch.
+[19:06:22	]the one has taken 45 damage from Gonome.
+[19:06:22	]the one has taken 10 damage from npc_zombie.
+[19:06:23	]the one has taken 10 damage from npc_zombie.
+[19:06:23	]the one has taken 10 damage from npc_zombie.
+[19:06:23	]the one has taken 1 damage from Zomnarch.
+[19:06:23	]the one has taken 80 damage from Zomnarch.
+[19:06:23	]the one has taken 10 damage from npc_zombie.
+[19:06:24	]the one has taken 80 damage from Zomnarch.
+[19:06:24	]the one has taken 10 damage from npc_zombie.
+[19:06:24	]the one has taken 45 damage from Gonome.
+[19:06:24	]the one has taken 1 damage from Zomnarch.
+[19:06:24	]the one has taken 10 damage from npc_zombie.
+[19:06:24	]the one has taken 45 damage from Gonome.
+[19:06:24	]the one has taken 10 damage from npc_zombie.
+[19:06:25	]the one has taken 10 damage from npc_zombie.
+[19:06:25	]the one is fully healed.
+[19:06:25	]the one has taken 10 damage from npc_zombie.
+[19:06:25	]the one has taken 80 damage from Zomnarch.
+[19:06:25	]the one has taken 80 damage from Zomnarch.
+[19:06:25	]the one has taken 80 damage from Zomnarch.
+[19:06:25	]the one has taken 10 damage from npc_zombie.
+[19:06:26	]the one has taken 80 damage from Zomnarch.
+[19:06:26	]the one has taken 10 damage from npc_zombie.
+[19:06:26	]the one has taken 10 damage from npc_zombie.
+[19:06:26	]the one has taken 1 damage from Zomnarch.
+[19:06:26	]the one has taken 45 damage from Gonome.
+[19:06:26	]the one has taken 10 damage from npc_zombie.
+[19:06:27	]the one has taken 10 damage from npc_zombie.
+[19:06:27	]the one has taken 80 damage from Zomnarch.
+[19:06:27	]the one has taken 45 damage from Gonome.
+[19:06:27	]the one has taken 1 damage from Zomnarch.
+[19:06:27	]the one has taken 80 damage from Zomnarch.
+[19:06:27	]the one has taken 10 damage from npc_zombie.
+[19:06:27	]the one has taken 10 damage from npc_zombie.
+[19:06:27	]the one has taken 10 damage from npc_zombie.
+[19:06:28	]the one has taken 10 damage from npc_zombie.
+[19:06:28	]the one has taken 1 damage from Zomnarch.
+[19:06:28	]the one has taken 10 damage from npc_zombie.
+[19:06:28	]the one has taken 10 damage from npc_zombie.
+[19:06:28	]the one has taken 80 damage from Zomnarch.
+[19:06:28	]the one has taken 10 damage from npc_zombie.
+[19:06:29	]the one has taken 45 damage from Gonome.
+[19:06:29	]the one has taken 80 damage from Zomnarch.
+[19:06:29	]the one has taken 10 damage from npc_zombie.
+[19:06:29	]the one has taken 45 damage from Gonome.
+[19:06:29	]the one has taken 10 damage from npc_zombie.
+[19:06:29	]the one has taken 45 damage from Gonome.
+[19:06:29	]the one has taken 45 damage from Gonome.
+[19:06:29	]the one has taken 10 damage from npc_zombie.
+[19:06:30	]the one has taken 10 damage from npc_zombie.
+[19:06:30	]the one has taken 1 damage from Zomnarch.
+[19:06:30	]the one is fully healed.
+[19:06:30	]the one has taken 10 damage from npc_zombie.
+[19:06:30	]the one has taken 80 damage from Zomnarch.
+[19:06:30	]the one has taken 10 damage from npc_zombie.
+[19:06:30	]the one has taken 80 damage from Zomnarch.
+[19:06:30	]the one has taken 10 damage from npc_zombie.
+[19:06:31	]the one has taken 80 damage from Zomnarch.
+[19:06:31	]the one has taken 10 damage from npc_zombie.
+[19:06:31	]the one has taken 10 damage from npc_zombie.
+[19:06:31	]the one has taken 80 damage from Zomnarch.
+[19:06:31	]the one has taken 45 damage from Gonome.
+[19:06:31	]the one has taken 45 damage from Gonome.
+[19:06:32	]the one has taken 1 damage from Zomnarch.
+[19:06:32	]the one has taken 10 damage from npc_zombie.
+[19:06:32	]the one has taken 10 damage from npc_zombie.
+[19:06:32	]the one has taken 80 damage from Zomnarch.
+[19:06:32	]the one has taken 10 damage from npc_zombie.
+[19:06:32	]the one has taken 10 damage from npc_zombie.
+[19:06:32	]the one has taken 10 damage from npc_zombie.
+[19:06:32	]the one has taken 80 damage from Zomnarch.
+[19:06:33	]the one has taken 1 damage from Zomnarch.
+[19:06:33	]the one has taken 10 damage from npc_zombie.
+[19:06:33	]the one has taken 10 damage from npc_zombie.
+[19:06:33	]the one has taken 10 damage from npc_zombie.
+[19:06:33	]the one has taken 45 damage from Gonome.
+[19:06:34	]the one has taken 10 damage from npc_zombie.
+[19:06:34	]the one has taken 1 damage from Zomnarch.
+[19:06:34	]the one has taken 80 damage from Zomnarch.
+[19:06:34	]the one has taken 45 damage from Gonome.
+[19:06:34	]the one has taken 10 damage from npc_zombie.
+[19:06:34	]the one has taken 80 damage from Zomnarch.
+[19:06:34	]the one has taken 45 damage from Gonome.
+[19:06:34	]the one has taken 10 damage from npc_zombie.
+[19:06:34	]the one has taken 45 damage from Gonome.
+[19:06:34	]the one has taken 80 damage from Zomnarch.
+[19:06:34	]the one has taken 80 damage from Zomnarch.
+[19:06:35	]the one is fully healed.
+[19:06:35	]the one has taken 10 damage from npc_zombie.
+[19:06:35	]the one has taken 10 damage from npc_zombie.
+[19:06:35	]the one has taken 10 damage from npc_zombie.
+[19:06:35	]the one has taken 10 damage from npc_zombie.
+[19:06:35	]the one has taken 1 damage from Zomnarch.
+[19:06:35	]the one has taken 80 damage from Zomnarch.
+[19:06:36	]the one has taken 80 damage from Zomnarch.
+[19:06:36	]the one has taken 10 damage from npc_zombie.
+[19:06:36	]the one has taken 45 damage from Gonome.
+[19:06:36	]the one has taken 10 damage from npc_zombie.
+[19:06:36	]the one has taken 45 damage from Gonome.
+[19:06:36	]the one has taken 10 damage from npc_zombie.
+[19:06:36	]the one has taken 45 damage from Gonome.
+[19:06:36	]the one has taken 10 damage from npc_zombie.
+[19:06:37	]the one has taken 10 damage from npc_zombie.
+[19:06:37	]the one has taken 45 damage from Gonome.
+[19:06:37	]the one has taken 1 damage from Zomnarch.
+[19:06:37	]the one has taken 10 damage from npc_zombie.
+[19:06:37	]the one has taken 80 damage from Zomnarch.
+[19:06:37	]the one has taken 80 damage from Zomnarch.
+[19:06:37	]the one has taken 10 damage from npc_zombie.
+[19:06:38	]the one has taken 10 damage from npc_zombie.
+[19:06:38	]the one has taken 10 damage from npc_zombie.
+[19:06:38	]the one has taken 1 damage from Zomnarch.
+[19:06:38	]the one has taken 10 damage from npc_zombie.
+[19:06:38	]the one has taken 45 damage from Gonome.
+[19:06:39	]the one has taken 45 damage from Gonome.
+[19:06:39	]the one has taken 10 damage from npc_zombie.
+[19:06:39	]the one has taken 80 damage from Zomnarch.
+[19:06:39	]the one has taken 45 damage from Gonome.
+[19:06:39	]the one has taken 10 damage from npc_zombie.
+[19:06:39	]the one has taken 80 damage from Zomnarch.
+[19:06:39	]the one has taken 45 damage from Gonome.
+[19:06:39	]the one has taken 10 damage from npc_zombie.
+[19:06:39	]the one has taken 80 damage from Zomnarch.
+[19:06:39	]the one has taken 10 damage from npc_zombie.
+[19:06:39	]the one has taken 10 damage from npc_zombie.
+[19:06:40	]the one has taken 80 damage from Zomnarch.
+[19:06:40	]the one is fully healed.
+[19:06:40	]the one has taken 1 damage from Zomnarch.
+[19:06:40	]the one has taken 10 damage from npc_zombie.
+[19:06:41	]the one has taken 10 damage from npc_zombie.
+[19:06:41	]the one has taken 80 damage from Zomnarch.
+[19:06:41	]the one has taken 10 damage from npc_zombie.
+[19:06:41	]the one has taken 1 damage from Zomnarch.
+[19:06:41	]the one has taken 45 damage from Gonome.
+[19:06:41	]the one has taken 80 damage from Zomnarch.
+[19:06:41	]the one has taken 10 damage from npc_zombie.
+[19:06:41	]the one has taken 80 damage from Zomnarch.
+[19:06:41	]the one has taken 10 damage from npc_zombie.
+[19:06:41	]the one has taken 45 damage from Gonome.
+[19:06:41	]the one has taken 80 damage from Zomnarch.
+[19:06:42	]the one has taken 10 damage from npc_zombie.
+[19:06:42	]the one has taken 1 damage from Zomnarch.
+[19:06:42	]the one has taken 10 damage from npc_zombie.
+[19:06:42	]the one has taken 10 damage from npc_zombie.
+[19:06:42	]the one has taken 80 damage from Zomnarch.
+[19:06:43	]the one has taken 10 damage from npc_zombie.
+[19:06:43	]the one has taken 80 damage from Zomnarch.
+[19:06:43	]the one has taken 10 damage from npc_zombie.
+[19:06:43	]the one has taken 10 damage from npc_zombie.
+[19:06:43	]the one has taken 10 damage from npc_zombie.
+[19:06:43	]the one has taken 45 damage from Gonome.
+[19:06:44	]the one has taken 45 damage from Gonome.
+[19:06:44	]the one has taken 1 damage from Zomnarch.
+[19:06:44	]the one has taken 10 damage from npc_zombie.
+[19:06:44	]the one has taken 10 damage from npc_zombie.
+[19:06:44	]the one has taken 80 damage from Zomnarch.
+[19:06:44	]the one has taken 10 damage from npc_zombie.
+[19:06:44	]the one has taken 80 damage from Zomnarch.
+[19:06:44	]the one has taken 10 damage from npc_zombie.
+[19:06:45	]the one has taken 80 damage from Zomnarch.
+[19:06:45	]the one has taken 10 damage from npc_zombie.
+[19:06:45	]the one is fully healed.
+[19:06:45	]the one has taken 80 damage from Zomnarch.
+[19:06:45	]the one has taken 1 damage from Zomnarch.
+[19:06:45	]the one has taken 45 damage from Gonome.
+[19:06:45	]the one has taken 10 damage from npc_zombie.
+[19:06:46	]the one has taken 10 damage from npc_zombie.
+[19:06:46	]the one has taken 10 damage from npc_zombie.
+[19:06:46	]the one has taken 80 damage from Zomnarch.
+[19:06:46	]the one has taken 45 damage from Gonome.
+[19:06:46	]the one has taken 1 damage from Zomnarch.
+[19:06:46	]the one has taken 10 damage from npc_zombie.
+[19:06:46	]the one has taken 80 damage from Zomnarch.
+[19:06:46	]the one has taken 10 damage from npc_zombie.
+[19:06:47	]the one has taken 10 damage from npc_zombie.
+[19:06:47	]the one has taken 10 damage from npc_zombie.
+[19:06:47	]the one has taken 1 damage from Zomnarch.
+[19:06:47	]the one has taken 10 damage from npc_zombie.
+[19:06:47	]the one has taken 10 damage from npc_zombie.
+[19:06:48	]the one has taken 80 damage from Zomnarch.
+[19:06:48	]the one has taken 45 damage from Gonome.
+[19:06:48	]the one has taken 80 damage from Zomnarch.
+[19:06:48	]the one has taken 45 damage from Gonome.
+[19:06:48	]the one has taken 10 damage from npc_zombie.
+[19:06:48	]the one has taken 10 damage from npc_zombie.
+[19:06:48	]the one has taken 45 damage from Gonome.
+[19:06:49	]the one has taken 45 damage from Gonome.
+[19:06:49	]the one has taken 10 damage from npc_zombie.
+[19:06:49	]the one has taken 1 damage from Zomnarch.
+[19:06:49	]the one has taken 10 damage from npc_zombie.
+[19:06:49	]the one has taken 10 damage from npc_zombie.
+[19:06:49	]the one has taken 80 damage from Zomnarch.
+[19:06:49	]the one has taken 10 damage from npc_zombie.
+[19:06:49	]the one has taken 10 damage from npc_zombie.
+[19:06:50	]the one has taken 80 damage from Zomnarch.
+[19:06:50	]the one is fully healed.
+[19:06:50	]the one has taken 10 damage from npc_zombie.
+[19:06:50	]the one has taken 1 damage from Zomnarch.
+[19:06:50	]the one has taken 45 damage from Gonome.
+[19:06:50	]the one has taken 10 damage from npc_zombie.
+[19:06:51	]the one has taken 10 damage from npc_zombie.
+[19:06:51	]the one has taken 45 damage from Gonome.
+[19:06:51	]the one has taken 10 damage from npc_zombie.
+[19:06:51	]the one has taken 10 damage from npc_zombie.
+[19:06:51	]the one has taken 80 damage from Zomnarch.
+[19:06:51	]the one has taken 1 damage from Zomnarch.
+[19:06:51	]the one has taken 80 damage from Zomnarch.
+[19:06:52	]the one has taken 80 damage from Zomnarch.
+[19:06:52	]the one has taken 10 damage from npc_zombie.
+[19:06:52	]the one has taken 10 damage from npc_zombie.
+[19:06:52	]the one has taken 80 damage from Zomnarch.
+[19:06:52	]the one has taken 10 damage from npc_zombie.
+[19:06:52	]the one has taken 10 damage from npc_zombie.
+[19:06:52	]the one has taken 10 damage from npc_zombie.
+[19:06:53	]the one has taken 45 damage from Gonome.
+[19:06:53	]the one has taken 1 damage from Zomnarch.
+[19:06:53	]the one has taken 80 damage from Zomnarch.
+[19:06:53	]the one has taken 45 damage from Gonome.
+[19:06:53	]the one has taken 80 damage from Zomnarch.
+[19:06:53	]the one has taken 45 damage from Gonome.
+[19:06:53	]the one has taken 80 damage from Zomnarch.
+[19:06:53	]the one has taken 45 damage from Gonome.
+[19:06:53	]the one has taken 10 damage from npc_zombie.
+[19:06:53	]the one has taken 10 damage from npc_zombie.
+[19:06:54	]the one has taken 80 damage from Zomnarch.
+[19:06:54	]the one has taken 10 damage from npc_zombie.
+[19:06:54	]the one has taken 10 damage from npc_zombie.
+[19:06:54	]the one has taken 10 damage from npc_zombie.
+[19:06:55	]the one has taken 1 damage from Zomnarch.
+[19:06:55	]the one has taken 80 damage from Zomnarch.
+[19:06:55	]the one has taken 10 damage from npc_zombie.
+[19:06:55	]the one is fully healed.
+[19:06:55	]the one has taken 80 damage from Zomnarch.
+[19:06:55	]the one has taken 45 damage from Gonome.
+[19:06:55	]the one has taken 10 damage from npc_zombie.
+[19:06:55	]the one has taken 10 damage from npc_zombie.
+[19:06:55	]the one has taken 45 damage from Gonome.
+[19:06:55	]the one has taken 10 damage from npc_zombie.
+[19:06:56	]the one has taken 1 damage from Zomnarch.
+[19:06:56	]the one has taken 10 damage from npc_zombie.
+[19:06:56	]the one has taken 80 damage from Zomnarch.
+[19:06:56	]the one has taken 10 damage from npc_zombie.
+[19:06:57	]the one has taken 80 damage from Zomnarch.
+[19:06:57	]the one has taken 10 damage from npc_zombie.
+[19:06:57	]the one has taken 10 damage from npc_zombie.
+[19:06:57	]the one has taken 10 damage from npc_zombie.
+[19:06:57	]the one has taken 1 damage from Zomnarch.
+[19:06:57	]the one has taken 10 damage from npc_zombie.
+[19:06:57	]the one has taken 45 damage from Gonome.
+[19:06:58	]the one has taken 45 damage from Gonome.
+[19:06:58	]the one has taken 80 damage from Zomnarch.
+[19:06:58	]the one has taken 10 damage from npc_zombie.
+[19:06:58	]the one has taken 1 damage from Zomnarch.
+[19:06:58	]the one has taken 10 damage from npc_zombie.
+[19:06:58	]the one has taken 80 damage from Zomnarch.
+[19:06:58	]the one has taken 10 damage from npc_zombie.
+[19:06:58	]the one has taken 10 damage from npc_zombie.
+[19:06:59	]the one has taken 10 damage from npc_zombie.
+[19:06:59	]the one has taken 1 damage from Zomnarch.
+[19:06:59	]the one has taken 10 damage from npc_zombie.
+[19:07:00	]the one has taken 45 damage from Gonome.
+[19:07:00	]the one has taken 80 damage from Zomnarch.
+[19:07:00	]the one has taken 10 damage from npc_zombie.
+[19:07:00	]the one is fully healed.
+[19:07:00	]the one has taken 45 damage from Gonome.
+[19:07:00	]the one has taken 80 damage from Zomnarch.
+[19:07:00	]the one has taken 10 damage from npc_zombie.
+[19:07:00	]the one has taken 10 damage from npc_zombie.
+[19:07:00	]the one has taken 10 damage from npc_zombie.
+[19:07:01	]the one has taken 1 damage from Zomnarch.
+[19:07:01	]the one has taken 10 damage from npc_zombie.
+[19:07:01	]the one has taken 80 damage from Zomnarch.
+[19:07:01	]the one has taken 10 damage from npc_zombie.
+[19:07:01	]the one has taken 10 damage from npc_zombie.
+[19:07:02	]the one has taken 80 damage from Zomnarch.
+[19:07:02	]the one has taken 10 damage from npc_zombie.
+[19:07:02	]the one has taken 10 damage from npc_zombie.
+[19:07:02	]the one has taken 45 damage from Gonome.
+[19:07:02	]the one has taken 45 damage from Gonome.
+[19:07:03	]the one has taken 45 damage from Gonome.
+[19:07:03	]the one has taken 1 damage from Zomnarch.
+[19:07:03	]the one has taken 45 damage from Gonome.
+[19:07:03	]the one has taken 10 damage from npc_zombie.
+[19:07:03	]the one has taken 10 damage from npc_zombie.
+[19:07:03	]the one has taken 10 damage from npc_zombie.
+[19:07:03	]the one has taken 80 damage from Zomnarch.
+[19:07:03	]the one has taken 10 damage from npc_zombie.
+[19:07:03	]the one has taken 80 damage from Zomnarch.
+[19:07:04	]the one has taken 80 damage from Zomnarch.
+[19:07:04	]the one has taken 10 damage from npc_zombie.
+[19:07:04	]the one has taken 80 damage from Zomnarch.
+[19:07:04	]the one has taken 10 damage from npc_zombie.
+[19:07:05	]the one has taken 45 damage from Gonome.
+[19:07:05	]the one has taken 10 damage from npc_zombie.
+[19:07:05	]the one has taken 1 damage from Zomnarch.
+[19:07:05	]the one has taken 10 damage from npc_zombie.
+[19:07:05	]the one is fully healed.
+[19:07:05	]the one has taken 45 damage from Gonome.
+[19:07:05	]the one has taken 10 damage from npc_zombie.
+[19:07:05	]the one has taken 10 damage from npc_zombie.
+[19:07:05	]the one has taken 80 damage from Zomnarch.
+[19:07:05	]the one has taken 45 damage from Gonome.
+[19:07:05	]the one has taken 80 damage from Zomnarch.
+[19:07:05	]the one has taken 45 damage from Gonome.
+[19:07:05	]the one has taken 80 damage from Zomnarch.
+[19:07:05	]the one has taken 10 damage from npc_zombie.
+[19:07:06	]the one has taken 80 damage from Zomnarch.
+[19:07:06	]the one has taken 1 damage from Zomnarch.
+[19:07:06	]the one has taken 10 damage from npc_zombie.
+[19:07:06	]the one has taken 10 damage from npc_zombie.
+[19:07:07	]the one has taken 10 damage from npc_zombie.
+[19:07:07	]the one has taken 10 damage from npc_zombie.
+[19:07:07	]the one has taken 80 damage from Zomnarch.
+[19:07:07	]the one has taken 10 damage from npc_zombie.
+[19:07:07	]the one has taken 45 damage from Gonome.
+[19:07:07	]the one has taken 80 damage from Zomnarch.
+[19:07:07	]the one has taken 1 damage from Zomnarch.
+[19:07:07	]the one has taken 45 damage from Gonome.
+[19:07:08	]the one has taken 45 damage from Gonome.
+[19:07:08	]the one has taken 45 damage from Gonome.
+[19:07:08	]the one has taken 10 damage from npc_zombie.
+[19:07:08	]the one has taken 10 damage from npc_zombie.
+[19:07:08	]the one has taken 10 damage from npc_zombie.
+[19:07:08	]the one has taken 1 damage from Zomnarch.
+[19:07:08	]the one has taken 10 damage from npc_zombie.
+[19:07:08	]the one has taken 10 damage from npc_zombie.
+[19:07:08	]the one has taken 80 damage from Zomnarch.
+[19:07:09	]the one has taken 80 damage from Zomnarch.
+[19:07:10	]the one has taken 45 damage from Gonome.
+[19:07:10	]the one has taken 10 damage from npc_zombie.
+[19:07:10	]the one has taken 10 damage from npc_zombie.
+[19:07:10	]the one has taken 1 damage from Zomnarch.
+[19:07:10	]the one has taken 10 damage from npc_zombie.
+[19:07:10	]the one is fully healed.
+[19:07:10	]the one has taken 45 damage from Gonome.
+[19:07:10	]the one has taken 10 damage from npc_zombie.
+[19:07:10	]the one has taken 10 damage from npc_zombie.
+[19:07:10	]the one has taken 45 damage from Gonome.
+[19:07:10	]the one has taken 80 damage from Zomnarch.
+[19:07:10	]the one has taken 45 damage from Gonome.
+[19:07:10	]the one has taken 80 damage from Zomnarch.
+[19:07:11	]the one has taken 80 damage from Zomnarch.
+[19:07:11	]the one has taken 1 damage from Zomnarch.
+[19:07:11	]the one has taken 80 damage from Zomnarch.
+[19:07:11	]the one has taken 10 damage from npc_zombie.
+[19:07:11	]the one has taken 10 damage from npc_zombie.
+[19:07:11	]the one has taken 10 damage from npc_zombie.
+[19:07:11	]the one has taken 10 damage from npc_zombie.
+[19:07:12	]the one has taken 10 damage from npc_zombie.
+[19:07:12	]the one has taken 1 damage from Zomnarch.
+[19:07:12	]the one has taken 80 damage from Zomnarch.
+[19:07:12	]the one has taken 45 damage from Gonome.
+[19:07:12	]the one has taken 80 damage from Zomnarch.
+[19:07:12	]the one has taken 45 damage from Gonome.
+[19:07:13	]the one has taken 10 damage from npc_zombie.
+[19:07:13	]the one has taken 1 damage from Zomnarch.
+[19:07:13	]the one has taken 10 damage from npc_zombie.
+[19:07:13	]the one has taken 10 damage from npc_zombie.
+[19:07:13	]the one has taken 10 damage from npc_zombie.
+[19:07:13	]the one has taken 10 damage from npc_zombie.
+[19:07:14	]the one has taken 80 damage from Zomnarch.
+[19:07:14	]the one has taken 80 damage from Zomnarch.
+[19:07:14	]the one has taken 10 damage from npc_zombie.
+[19:07:14	]the one has taken 80 damage from Zomnarch.
+[19:07:14	]the one has taken 45 damage from Gonome.
+[19:07:14	]the one has taken 80 damage from Zomnarch.
+[19:07:14	]the one has taken 10 damage from npc_zombie.
+[19:07:15	]the one has taken 45 damage from Gonome.
+[19:07:15	]the one has taken 1 damage from Zomnarch.
+[19:07:15	]the one has taken 10 damage from npc_zombie.
+[19:07:15	]the one is fully healed.
+[19:07:15	]the one has taken 10 damage from npc_zombie.
+[19:07:15	]the one has taken 45 damage from Gonome.
+[19:07:15	]the one has taken 45 damage from Gonome.
+[19:07:15	]the one has taken 10 damage from npc_zombie.
+[19:07:15	]the one has taken 80 damage from Zomnarch.
+[19:07:16	]the one has taken 80 damage from Zomnarch.
+[19:07:16	]the one has taken 10 damage from npc_zombie.
+[19:07:16	]the one has taken 10 damage from npc_zombie.
+[19:07:16	]the one has taken 80 damage from Zomnarch.
+[19:07:16	]the one has taken 10 damage from npc_zombie.
+[19:07:16	]the one has taken 80 damage from Zomnarch.
+[19:07:16	]the one has taken 10 damage from npc_zombie.
+[19:07:17	]the one has taken 10 damage from npc_zombie.
+[19:07:17	]the one has taken 45 damage from Gonome.
+[19:07:17	]the one has taken 45 damage from Gonome.
+[19:07:17	]the one has taken 1 damage from Zomnarch.
+[19:07:17	]the one has taken 80 damage from Zomnarch.
+[19:07:17	]the one has taken 45 damage from Gonome.
+[19:07:17	]the one has taken 10 damage from npc_zombie.
+[19:07:17	]the one has taken 80 damage from Zomnarch.
+[19:07:18	]the one has taken 45 damage from Gonome.
+[19:07:18	]the one has taken 10 damage from npc_zombie.
+[19:07:18	]the one has taken 10 damage from npc_zombie.
+[19:07:18	]the one has taken 80 damage from Zomnarch.
+[19:07:18	]the one has taken 80 damage from Zomnarch.
+[19:07:18	]the one has taken 10 damage from npc_zombie.
+[19:07:18	]the one has taken 10 damage from npc_zombie.
+[19:07:19	]the one has taken 10 damage from npc_zombie.
+[19:07:19	]the one has taken 1 damage from Zomnarch.
+[19:07:19	]the one has taken 80 damage from Zomnarch.
+[19:07:19	]the one has taken 10 damage from npc_zombie.
+[19:07:19	]the one has taken 45 damage from Gonome.
+[19:07:19	]the one has taken 80 damage from Zomnarch.
+[19:07:19	]the one has taken 10 damage from npc_zombie.
+[19:07:20	]the one has taken 45 damage from Gonome.
+[19:07:20	]the one is fully healed.
+[19:07:20	]the one has taken 10 damage from npc_zombie.
+[19:07:20	]the one has taken 1 damage from Zomnarch.
+[19:07:20	]the one has taken 10 damage from npc_zombie.
+[19:07:20	]the one has taken 10 damage from npc_zombie.
+[19:07:21	]the one has taken 80 damage from Zomnarch.
+[19:07:21	]the one has taken 10 damage from npc_zombie.
+[19:07:21	]the one has taken 1 damage from Zomnarch.
+[19:07:21	]the one has taken 10 damage from npc_zombie.
+[19:07:21	]the one has taken 80 damage from Zomnarch.
+[19:07:21	]the one has taken 10 damage from npc_zombie.
+[19:07:21	]the one has taken 10 damage from npc_zombie.
+[19:07:22	]the one has taken 45 damage from Gonome.
+[19:07:22	]the one has taken 10 damage from npc_zombie.
+[19:07:22	]the one has taken 45 damage from Gonome.
+[19:07:22	]the one has taken 1 damage from Zomnarch.
+[19:07:22	]the one has taken 45 damage from Gonome.
+[19:07:22	]the one has taken 45 damage from Gonome.
+[19:07:22	]the one has taken 10 damage from npc_zombie.
+[19:07:22	]the one has taken 80 damage from Zomnarch.
+[19:07:23	]the one has taken 10 damage from npc_zombie.
+[19:07:23	]the one has taken 10 damage from npc_zombie.
+[19:07:23	]the one has taken 80 damage from Zomnarch.
+[19:07:23	]the one has taken 10 damage from npc_zombie.
+[19:07:23	]the one has taken 10 damage from npc_zombie.
+[19:07:24	]the one has taken 1 damage from Zomnarch.
+[19:07:24	]the one has taken 10 damage from npc_zombie.
+[19:07:24	]the one has taken 45 damage from Gonome.
+[19:07:24	]the one has taken 10 damage from npc_zombie.
+[19:07:24	]the one has taken 10 damage from npc_zombie.
+[19:07:24	]the one has taken 80 damage from Zomnarch.
+[19:07:24	]the one has taken 45 damage from Gonome.
+[19:07:24	]the one has taken 80 damage from Zomnarch.
+[19:07:25	]the one has taken 10 damage from npc_zombie.
+[19:07:25	]the one is fully healed.
+[19:07:25	]the one has taken 80 damage from Zomnarch.
+[19:07:25	]the one has taken 80 damage from Zomnarch.
+[19:07:25	]the one has taken 10 damage from npc_zombie.
+[19:07:25	]the one has taken 1 damage from Zomnarch.
+[19:07:26	]the one has taken 10 damage from npc_zombie.
+[19:07:26	]the one has taken 10 damage from npc_zombie.
+[19:07:26	]the one has taken 10 damage from npc_zombie.
+[19:07:26	]the one has taken 80 damage from Zomnarch.
+[19:07:26	]the one has taken 80 damage from Zomnarch.
+[19:07:26	]the one has taken 45 damage from Gonome.
+[19:07:26	]the one has taken 10 damage from npc_zombie.
+[19:07:27	]the one has taken 45 damage from Gonome.
+[19:07:27	]the one has taken 80 damage from Zomnarch.
+[19:07:27	]the one has taken 10 damage from npc_zombie.
+[19:07:27	]the one has taken 80 damage from Zomnarch.
+[19:07:27	]the one has taken 45 damage from Gonome.
+[19:07:27	]the one has taken 1 damage from Zomnarch.
+[19:07:27	]the one has taken 45 damage from Gonome.
+[19:07:27	]the one has taken 10 damage from npc_zombie.
+[19:07:27	]the one has taken 10 damage from npc_zombie.
+[19:07:27	]the one has taken 10 damage from npc_zombie.
+[19:07:28	]the one has taken 80 damage from Zomnarch.
+[19:07:28	]the one has taken 10 damage from npc_zombie.
+[19:07:28	]the one has taken 80 damage from Zomnarch.
+[19:07:28	]the one has taken 10 damage from npc_zombie.
+[19:07:28	]the one has taken 80 damage from Zomnarch.
+[19:07:29	]the one has taken 80 damage from Zomnarch.
+[19:07:29	]the one has taken 10 damage from npc_zombie.
+[19:07:29	]the one has taken 45 damage from Gonome.
+[19:07:29	]the one has taken 10 damage from npc_zombie.
+[19:07:29	]the one has taken 45 damage from Gonome.
+[19:07:29	]the one has taken 10 damage from npc_zombie.
+[19:07:29	]the one has taken 45 damage from Gonome.
+[19:07:30	]the one has taken 1 damage from Zomnarch.
+[19:07:30	]the one has taken 80 damage from Zomnarch.
+[19:07:30	]the one has taken 45 damage from Gonome.
+[19:07:30	]the one has taken 10 damage from npc_zombie.
+[19:07:30	]the one is fully healed.
+[19:07:30	]the one has taken 10 damage from npc_zombie.
+[19:07:30	]the one has taken 80 damage from Zomnarch.
+[19:07:30	]the one has taken 10 damage from npc_zombie.
+[19:07:31	]the one has taken 10 damage from npc_zombie.
+[19:07:31	]the one has taken 10 damage from npc_zombie.
+[19:07:31	]the one has taken 1 damage from Zomnarch.
+[19:07:31	]the one has taken 10 damage from npc_zombie.
+[19:07:31	]the one has taken 10 damage from npc_zombie.
+[19:07:31	]the one has taken 45 damage from Gonome.
+[19:07:31	]the one has taken 80 damage from Zomnarch.
+[19:07:32	]the one has taken 45 damage from Gonome.
+[19:07:32	]the one has taken 80 damage from Zomnarch.
+[19:07:32	]the one has taken 45 damage from Gonome.
+[19:07:32	]the one has taken 80 damage from Zomnarch.
+[19:07:32	]the one has taken 1 damage from Zomnarch.
+[19:07:32	]the one has taken 10 damage from npc_zombie.
+[19:07:32	]the one has taken 45 damage from Gonome.
+[19:07:32	]the one has taken 80 damage from Zomnarch.
+[19:07:32	]the one has taken 10 damage from npc_zombie.
+[19:07:32	]the one has taken 10 damage from npc_zombie.
+[19:07:33	]the one has taken 10 damage from npc_zombie.
+[19:07:33	]the one has taken 10 damage from npc_zombie.
+[19:07:33	]the one has taken 1 damage from Zomnarch.
+[19:07:33	]the one has taken 10 damage from npc_zombie.
+[19:07:33	]the one has taken 80 damage from Zomnarch.
+[19:07:33	]the one has taken 80 damage from Zomnarch.
+[19:07:34	]the one has taken 80 damage from Zomnarch.
+[19:07:34	]the one has taken 45 damage from Gonome.
+[19:07:34	]the one has taken 10 damage from npc_zombie.
+[19:07:34	]the one has taken 10 damage from npc_zombie.
+[19:07:34	]the one has taken 80 damage from Zomnarch.
+[19:07:34	]the one has taken 10 damage from npc_zombie.
+[19:07:34	]the one has taken 45 damage from Gonome.
+[19:07:34	]the one has taken 10 damage from npc_zombie.
+[19:07:34	]the one has taken 10 damage from npc_zombie.
+[19:07:35	]the one is fully healed.
+[19:07:35	]the one has taken 1 damage from Zomnarch.
+[19:07:35	]the one has taken 80 damage from Zomnarch.
+[19:07:35	]the one has taken 80 damage from Zomnarch.
+[19:07:36	]the one has taken 10 damage from npc_zombie.
+[19:07:36	]the one has taken 10 damage from npc_zombie.
+[19:07:36	]the one has taken 1 damage from Zomnarch.
+[19:07:36	]the one has taken 10 damage from npc_zombie.
+[19:07:36	]the one has taken 10 damage from npc_zombie.
+[19:07:36	]the one has taken 10 damage from npc_zombie.
+[19:07:36	]the one has taken 45 damage from Gonome.
+[19:07:36	]the one has taken 45 damage from Gonome.
+[19:07:37	]the one has taken 80 damage from Zomnarch.
+[19:07:37	]the one has taken 45 damage from Gonome.
+[19:07:37	]the one has taken 45 damage from Gonome.
+[19:07:37	]the one has taken 80 damage from Zomnarch.
+[19:07:37	]the one has taken 10 damage from npc_zombie.
+[19:07:37	]the one has taken 10 damage from npc_zombie.
+[19:07:37	]the one has taken 10 damage from npc_zombie.
+[19:07:38	]the one has taken 10 damage from npc_zombie.
+[19:07:38	]the one has taken 10 damage from npc_zombie.
+[19:07:38	]the one has taken 1 damage from Zomnarch.
+[19:07:38	]the one has taken 80 damage from Zomnarch.
+[19:07:39	]the one has taken 10 damage from npc_zombie.
+[19:07:39	]the one has taken 45 damage from Gonome.
+[19:07:39	]the one has taken 80 damage from Zomnarch.
+[19:07:39	]the one has taken 10 damage from npc_zombie.
+[19:07:39	]the one has taken 10 damage from npc_zombie.
+[19:07:39	]the one has taken 45 damage from Gonome.
+[19:07:39	]the one has taken 10 damage from npc_zombie.
+[19:07:40	]the one has taken 10 damage from npc_zombie.
+[19:07:40	]the one is fully healed.
+[19:07:40	]the one has taken 1 damage from Zomnarch.
+[19:07:40	]the one has taken 10 damage from npc_zombie.
+[19:07:40	]the one has taken 80 damage from Zomnarch.
+[19:07:40	]the one has taken 10 damage from npc_zombie.
+[19:07:40	]the one has taken 10 damage from npc_zombie.
+[19:07:41	]the one has taken 80 damage from Zomnarch.
+[19:07:41	]the one has taken 10 damage from npc_zombie.
+[19:07:41	]the one has taken 45 damage from Gonome.
+[19:07:41	]the one has taken 1 damage from Zomnarch.
+[19:07:41	]the one has taken 10 damage from npc_zombie.
+[19:07:41	]the one has taken 45 damage from Gonome.
+[19:07:42	]the one has taken 10 damage from npc_zombie.
+[19:07:42	]the one has taken 10 damage from npc_zombie.
+[19:07:42	]the one has taken 80 damage from Zomnarch.
+[19:07:42	]the one has taken 10 damage from npc_zombie.
+[19:07:42	]the one has taken 1 damage from Zomnarch.
+[19:07:42	]the one has taken 80 damage from Zomnarch.
+[19:07:42	]the one has taken 80 damage from Zomnarch.
+[19:07:42	]the one has taken 10 damage from npc_zombie.
+[19:07:43	]the one has taken 80 damage from Zomnarch.
+[19:07:43	]the one has taken 10 damage from npc_zombie.
+[19:07:43	]the one has taken 10 damage from npc_zombie.
+[19:07:43	]the one has taken 1 damage from Zomnarch.
+[19:07:43	]the one has taken 10 damage from npc_zombie.
+[19:07:43	]the one has taken 45 damage from Gonome.
+[19:07:43	]the one has taken 10 damage from npc_zombie.
+[19:07:44	]the one has taken 80 damage from Zomnarch.
+[19:07:44	]the one has taken 45 damage from Gonome.
+[19:07:44	]the one has taken 80 damage from Zomnarch.
+[19:07:44	]the one has taken 10 damage from npc_zombie.
+[19:07:44	]the one has taken 10 damage from npc_zombie.
+[19:07:45	]the one has taken 10 damage from npc_zombie.
+[19:07:45	]the one has taken 10 damage from npc_zombie.
+[19:07:45	]the one is fully healed.
+[19:07:45	]the one has taken 1 damage from Zomnarch.
+[19:07:45	]the one has taken 10 damage from npc_zombie.
+[19:07:45	]the one has taken 80 damage from Zomnarch.
+[19:07:46	]the one has taken 10 damage from npc_zombie.
+[19:07:46	]the one has taken 80 damage from Zomnarch.
+[19:07:46	]the one has taken 45 damage from Gonome.
+[19:07:46	]the one has taken 10 damage from npc_zombie.
+[19:07:46	]the one has taken 10 damage from npc_zombie.
+[19:07:46	]the one has taken 45 damage from Gonome.
+[19:07:46	]the one has taken 1 damage from Zomnarch.
+[19:07:46	]the one has taken 45 damage from Gonome.
+[19:07:46	]the one has taken 10 damage from npc_zombie.
+[19:07:46	]the one has taken 45 damage from Gonome.
+[19:07:47	]the one has taken 10 damage from npc_zombie.
+[19:07:47	]the one has taken 10 damage from npc_zombie.
+[19:07:47	]the one has taken 1 damage from Zomnarch.
+[19:07:47	]the one has taken 10 damage from npc_zombie.
+[19:07:47	]the one has taken 80 damage from Zomnarch.
+[19:07:47	]the one has taken 80 damage from Zomnarch.
+[19:07:47	]the one has taken 10 damage from npc_zombie.
+[19:07:48	]the one has taken 80 damage from Zomnarch.
+[19:07:48	]the one has taken 80 damage from Zomnarch.
+[19:07:48	]the one has taken 10 damage from npc_zombie.
+[19:07:48	]the one has taken 45 damage from Gonome.
+[19:07:48	]the one has taken 10 damage from npc_zombie.
+[19:07:49	]the one has taken 45 damage from Gonome.
+[19:07:49	]the one has taken 10 damage from npc_zombie.
+[19:07:49	]the one has taken 10 damage from npc_zombie.
+[19:07:49	]the one has taken 1 damage from Zomnarch.
+[19:07:49	]the one has taken 80 damage from Zomnarch.
+[19:07:49	]the one has taken 45 damage from Gonome.
+[19:07:49	]the one has taken 45 damage from Gonome.
+[19:07:49	]the one has taken 10 damage from npc_zombie.
+[19:07:49	]the one has taken 80 damage from Zomnarch.
+[19:07:50	]the one has taken 10 damage from npc_zombie.
+[19:07:50	]the one has taken 10 damage from npc_zombie.
+[19:07:50	]the one is fully healed.
+[19:07:50	]the one has taken 1 damage from Zomnarch.
+[19:07:50	]the one has taken 10 damage from npc_zombie.
+[19:07:50	]the one has taken 10 damage from npc_zombie.
+[19:07:51	]the one has taken 80 damage from Zomnarch.
+[19:07:51	]the one has taken 45 damage from Gonome.
+[19:07:51	]the one has taken 1 damage from Zomnarch.
+[19:07:51	]the one has taken 80 damage from Zomnarch.
+[19:07:51	]the one has taken 10 damage from npc_zombie.
+[19:07:51	]the one has taken 45 damage from Gonome.
+[19:07:51	]the one has taken 80 damage from Zomnarch.
+[19:07:51	]the one has taken 80 damage from Zomnarch.
+[19:07:51	]the one has taken 10 damage from npc_zombie.
+[19:07:51	]the one has taken 10 damage from npc_zombie.
+[19:07:52	]the one has taken 10 damage from npc_zombie.
+[19:07:52	]the one has taken 1 damage from Zomnarch.
+[19:07:52	]the one has taken 10 damage from npc_zombie.
+[19:07:52	]the one has taken 80 damage from Zomnarch.
+[19:07:53	]the one has taken 10 damage from npc_zombie.
+[19:07:53	]the one has taken 10 damage from npc_zombie.
+[19:07:53	]the one has taken 80 damage from Zomnarch.
+[19:07:53	]the one has taken 10 damage from npc_zombie.
+[19:07:53	]the one has taken 80 damage from Zomnarch.
+[19:07:53	]the one has taken 45 damage from Gonome.
+[19:07:53	]the one has taken 80 damage from Zomnarch.
+[19:07:53	]the one has taken 45 damage from Gonome.
+[19:07:53	]the one has taken 10 damage from npc_zombie.
+[19:07:54	]the one has taken 45 damage from Gonome.
+[19:07:54	]the one has taken 10 damage from npc_zombie.
+[19:07:54	]the one has taken 45 damage from Gonome.
+[19:07:54	]the one has taken 1 damage from Zomnarch.
+[19:07:54	]the one has taken 80 damage from Zomnarch.
+[19:07:54	]the one has taken 10 damage from npc_zombie.
+[19:07:54	]the one has taken 10 damage from npc_zombie.
+[19:07:54	]the one has taken 10 damage from npc_zombie.
+[19:07:55	]the one has taken 80 damage from Zomnarch.
+[19:07:55	]the one has taken 10 damage from npc_zombie.
+[19:07:55	]the one is fully healed.
+[19:07:55	]the one has taken 10 damage from npc_zombie.
+[19:07:55	]the one has taken 1 damage from Zomnarch.
+[19:07:55	]the one has taken 10 damage from npc_zombie.
+[19:07:56	]the one has taken 10 damage from npc_zombie.
+[19:07:56	]the one has taken 45 damage from Gonome.
+[19:07:56	]the one has taken 80 damage from Zomnarch.
+[19:07:56	]the one has taken 45 damage from Gonome.
+[19:07:56	]the one has taken 10 damage from npc_zombie.
+[19:07:56	]the one has taken 45 damage from Gonome.
+[19:07:56	]the one has taken 80 damage from Zomnarch.
+[19:07:56	]the one has taken 10 damage from npc_zombie.
+[19:07:56	]the one has taken 45 damage from Gonome.
+[19:07:57	]the one has taken 10 damage from npc_zombie.
+[19:07:57	]the one has taken 10 damage from npc_zombie.
+[19:07:57	]the one has taken 1 damage from Zomnarch.
+[19:07:57	]the one has taken 10 damage from npc_zombie.
+[19:07:58	]the one has taken 80 damage from Zomnarch.
+[19:07:58	]the one has taken 10 damage from npc_zombie.
+[19:07:58	]the one has taken 10 damage from npc_zombie.
+[19:07:58	]the one has taken 1 damage from Zomnarch.
+[19:07:58	]the one has taken 80 damage from Zomnarch.
+[19:07:58	]the one has taken 10 damage from npc_zombie.
+[19:07:58	]the one has taken 45 damage from Gonome.
+[19:07:58	]the one has taken 45 damage from Gonome.
+[19:07:58	]the one has taken 10 damage from npc_zombie.
+[19:07:59	]the one has taken 45 damage from Gonome.
+[19:07:59	]the one has taken 1 damage from Zomnarch.
+[19:07:59	]the one has taken 45 damage from Gonome.
+[19:07:59	]the one has taken 10 damage from npc_zombie.
+[19:07:59	]the one has taken 10 damage from npc_zombie.
+[19:07:59	]the one has taken 10 damage from npc_zombie.
+[19:07:59	]the one has taken 80 damage from Zomnarch.
+[19:07:59	]the one has taken 10 damage from npc_zombie.
+[19:08:00	]the one has taken 80 damage from Zomnarch.
+[19:08:00	]the one is fully healed.
+[19:08:00	]the one has taken 1 damage from Zomnarch.
+[19:08:00	]the one has taken 80 damage from Zomnarch.
+[19:08:00	]the one has taken 80 damage from Zomnarch.
+[19:08:00	]the one has taken 10 damage from npc_zombie.
+[19:08:00	]the one has taken 10 damage from npc_zombie.
+[19:08:01	]the one has taken 45 damage from Gonome.
+[19:08:01	]the one has taken 10 damage from npc_zombie.
+[19:08:01	]the one has taken 10 damage from npc_zombie.
+[19:08:01	]the one has taken 45 damage from Gonome.
+[19:08:01	]the one has taken 1 damage from Zomnarch.
+[19:08:01	]the one has taken 80 damage from Zomnarch.
+[19:08:01	]the one has taken 10 damage from npc_zombie.
+[19:08:01	]the one has taken 80 damage from Zomnarch.
+[19:08:02	]the one has taken 10 damage from npc_zombie.
+[19:08:02	]the one has taken 10 damage from npc_zombie.
+[19:08:02	]the one has taken 1 damage from Zomnarch.
+[19:08:02	]the one has taken 10 damage from npc_zombie.
+[19:08:02	]the one has taken 10 damage from npc_zombie.
+[19:08:03	]the one has taken 80 damage from Zomnarch.
+[19:08:03	]the one has taken 10 damage from npc_zombie.
+[19:08:03	]the one has taken 45 damage from Gonome.
+[19:08:03	]the one has taken 1 damage from Zomnarch.
+[19:08:03	]the one has taken 80 damage from Zomnarch.
+[19:08:03	]the one has taken 45 damage from Gonome.
+[19:08:03	]the one has taken 10 damage from npc_zombie.
+[19:08:03	]the one has taken 45 damage from Gonome.
+[19:08:03	]the one has taken 10 damage from npc_zombie.
+[19:08:04	]the one has taken 10 damage from npc_zombie.
+[19:08:04	]the one has taken 45 damage from Gonome.
+[19:08:04	]the one has taken 10 damage from npc_zombie.
+[19:08:04	]the one has taken 1 damage from Zomnarch.
+[19:08:04	]the one has taken 80 damage from Zomnarch.
+[19:08:04	]the one has taken 10 damage from npc_zombie.
+[19:08:05	]the one has taken 10 damage from npc_zombie.
+[19:08:05	]the one is fully healed.
+[19:08:05	]the one has taken 80 damage from Zomnarch.
+[19:08:05	]the one has taken 1 damage from Zomnarch.
+[19:08:05	]the one has taken 10 damage from npc_zombie.
+[19:08:05	]the one has taken 10 damage from npc_zombie.
+[19:08:05	]the one has taken 45 damage from Gonome.
+[19:08:06	]the one has taken 10 damage from npc_zombie.
+[19:08:06	]the one has taken 45 damage from Gonome.
+[19:08:06	]the one has taken 10 damage from npc_zombie.
+[19:08:06	]the one has taken 80 damage from Zomnarch.
+[19:08:06	]the one has taken 10 damage from npc_zombie.
+[19:08:06	]the one has taken 10 damage from npc_zombie.
+[19:08:07	]the one has taken 80 damage from Zomnarch.
+[19:08:07	]the one has taken 10 damage from npc_zombie.
+[19:08:07	]the one has taken 10 damage from npc_zombie.
+[19:08:07	]the one has taken 10 damage from npc_zombie.
+[19:08:07	]the one has taken 10 damage from npc_zombie.
+[19:08:08	]the one has taken 1 damage from Zomnarch.
+[19:08:08	]the one has taken 45 damage from Gonome.
+[19:08:08	]the one has taken 80 damage from Zomnarch.
+[19:08:08	]the one has taken 45 damage from Gonome.
+[19:08:08	]the one has taken 10 damage from npc_zombie.
+[19:08:08	]the one has taken 10 damage from npc_zombie.
+[19:08:08	]the one has taken 80 damage from Zomnarch.
+[19:08:09	]the one has taken 1 damage from Zomnarch.
+[19:08:09	]the one has taken 10 damage from npc_zombie.
+[19:08:09	]the one has taken 10 damage from npc_zombie.
+[19:08:09	]the one has taken 10 damage from npc_zombie.
+[19:08:09	]the one has taken 10 damage from npc_zombie.
+[19:08:10	]the one has taken 1 damage from Zomnarch.
+[19:08:10	]the one has taken 80 damage from Zomnarch.
+[19:08:10	]the one has taken 10 damage from npc_zombie.
+[19:08:10	]the one is fully healed.
+[19:08:10	]the one has taken 80 damage from Zomnarch.
+[19:08:10	]the one has taken 45 damage from Gonome.
+[19:08:10	]the one has taken 80 damage from Zomnarch.
+[19:08:10	]the one has taken 45 damage from Gonome.
+[19:08:10	]the one has taken 80 damage from Zomnarch.
+[19:08:10	]the one has taken 10 damage from npc_zombie.
+[19:08:10	]the one has taken 10 damage from npc_zombie.
+[19:08:11	]the one has taken 1 damage from Zomnarch.
+[19:08:11	]the one has taken 45 damage from Gonome.
+[19:08:11	]the one has taken 45 damage from Gonome.
+[19:08:11	]the one has taken 10 damage from npc_zombie.
+[19:08:11	]the one has taken 10 damage from npc_zombie.
+[19:08:11	]the one has taken 80 damage from Zomnarch.
+[19:08:11	]the one has taken 10 damage from npc_zombie.
+[19:08:12	]the one has taken 10 damage from npc_zombie.
+[19:08:12	]the one has taken 80 damage from Zomnarch.
+[19:08:12	]the one has taken 10 damage from npc_zombie.
+[19:08:12	]the one has taken 10 damage from npc_zombie.
+[19:08:13	]the one has taken 45 damage from Gonome.
+[19:08:13	]the one has taken 10 damage from npc_zombie.
+[19:08:13	]the one has taken 10 damage from npc_zombie.
+[19:08:13	]the one has taken 1 damage from Zomnarch.
+[19:08:13	]the one has taken 45 damage from Gonome.
+[19:08:13	]the one has taken 80 damage from Zomnarch.
+[19:08:13	]the one has taken 45 damage from Gonome.
+[19:08:13	]the one has taken 45 damage from Gonome.
+[19:08:13	]the one has taken 10 damage from npc_zombie.
+[19:08:13	]the one has taken 80 damage from Zomnarch.
+[19:08:14	]the one has taken 10 damage from npc_zombie.
+[19:08:14	]the one has taken 1 damage from Zomnarch.
+[19:08:14	]the one has taken 10 damage from npc_zombie.
+[19:08:14	]the one has taken 10 damage from npc_zombie.
+[19:08:14	]the one has taken 10 damage from npc_zombie.
+[19:08:14	]the one has taken 10 damage from npc_zombie.
+[19:08:15	]the one has taken 1 damage from Zomnarch.
+[19:08:15	]the one is fully healed.
+[19:08:15	]the one has taken 80 damage from Zomnarch.
+[19:08:15	]the one has taken 10 damage from npc_zombie.
+[19:08:15	]the one has taken 45 damage from Gonome.
+[19:08:15	]the one has taken 80 damage from Zomnarch.
+[19:08:15	]the one has taken 10 damage from npc_zombie.
+[19:08:15	]the one has taken 45 damage from Gonome.
+[19:08:15	]the one has taken 80 damage from Zomnarch.
+[19:08:15	]the one has taken 10 damage from npc_zombie.
+[19:08:16	]the one has taken 45 damage from Gonome.
+[19:08:16	]the one has taken 10 damage from npc_zombie.
+[19:08:16	]the one has taken 80 damage from Zomnarch.
+[19:08:16	]the one has taken 45 damage from Gonome.
+[19:08:16	]the one has taken 10 damage from npc_zombie.
+[19:08:16	]the one has taken 10 damage from npc_zombie.
+[19:08:17	]the one has taken 80 damage from Zomnarch.
+[19:08:17	]the one has taken 10 damage from npc_zombie.
+[19:08:17	]the one has taken 1 damage from Zomnarch.
+[19:08:17	]the one has taken 80 damage from Zomnarch.
+[19:08:17	]the one has taken 10 damage from npc_zombie.
+[19:08:17	]the one has taken 10 damage from npc_zombie.
+[19:08:18	]the one has taken 45 damage from Gonome.
+[19:08:18	]the one has taken 45 damage from Gonome.
+[19:08:18	]the one has taken 10 damage from npc_zombie.
+[19:08:18	]the one has taken 1 damage from Zomnarch.
+[19:08:18	]the one has taken 10 damage from npc_zombie.
+[19:08:18	]the one has taken 45 damage from Gonome.
+[19:08:18	]the one has taken 80 damage from Zomnarch.
+[19:08:18	]the one has taken 45 damage from Gonome.
+[19:08:18	]the one has taken 10 damage from npc_zombie.
+[19:08:18	]the one has taken 10 damage from npc_zombie.
+[19:08:19	]the one has taken 80 damage from Zomnarch.
+[19:08:19	]the one has taken 10 damage from npc_zombie.
+[19:08:19	]the one has taken 10 damage from npc_zombie.
+[19:08:19	]the one has taken 10 damage from npc_zombie.
+[19:08:20	]the one has taken 10 damage from npc_zombie.
+[19:08:20	]the one has taken 1 damage from Zomnarch.
+[19:08:20	]the one is fully healed.
+[19:08:20	]the one has taken 80 damage from Zomnarch.
+[19:08:20	]the one has taken 45 damage from Gonome.
+[19:08:20	]the one has taken 10 damage from npc_zombie.
+[19:08:20	]the one has taken 45 damage from Gonome.
+[19:08:20	]the one has taken 80 damage from Zomnarch.
+[19:08:20	]the one has taken 10 damage from npc_zombie.
+[19:08:21	]the one has taken 45 damage from Gonome.
+[19:08:21	]the one has taken 10 damage from npc_zombie.
+[19:08:21	]the one has taken 10 damage from npc_zombie.
+[19:08:21	]the one has taken 45 damage from Gonome.
+[19:08:21	]the one has taken 1 damage from Zomnarch.
+[19:08:21	]the one has taken 10 damage from npc_zombie.
+[19:08:21	]the one has taken 10 damage from npc_zombie.
+[19:08:22	]the one has taken 80 damage from Zomnarch.
+[19:08:22	]the one has taken 1 damage from Zomnarch.
+[19:08:22	]the one has taken 80 damage from Zomnarch.
+[19:08:22	]the one has taken 10 damage from npc_zombie.
+[19:08:22	]the one has taken 10 damage from npc_zombie.
+[19:08:22	]the one has taken 10 damage from npc_zombie.
+[19:08:22	]the one has taken 10 damage from npc_zombie.
+[19:08:23	]the one has taken 45 damage from Gonome.
+[19:08:23	]the one has taken 10 damage from npc_zombie.
+[19:08:23	]the one has taken 45 damage from Gonome.
+[19:08:23	]the one has taken 1 damage from Zomnarch.
+[19:08:23	]the one has taken 45 damage from Gonome.
+[19:08:23	]the one has taken 45 damage from Gonome.
+[19:08:23	]the one has taken 80 damage from Zomnarch.
+[19:08:23	]the one has taken 10 damage from npc_zombie.
+[19:08:24	]the one has taken 10 damage from npc_zombie.
+[19:08:24	]the one has taken 80 damage from Zomnarch.
+[19:08:24	]the one has taken 10 damage from npc_zombie.
+[19:08:24	]the one has taken 10 damage from npc_zombie.
+[19:08:24	]the one has taken 10 damage from npc_zombie.
+[19:08:24	]the one has taken 1 damage from Zomnarch.
+[19:08:25	]the one has taken 10 damage from npc_zombie.
+[19:08:25	]the one has taken 10 damage from npc_zombie.
+[19:08:25	]the one is fully healed.
+[19:08:25	]the one has taken 45 damage from Gonome.
+[19:08:25	]the one has taken 80 damage from Zomnarch.
+[19:08:25	]the one has taken 1 damage from Zomnarch.
+[19:08:25	]the one has taken 45 damage from Gonome.
+[19:08:25	]the one has taken 80 damage from Zomnarch.
+[19:08:25	]the one has taken 10 damage from npc_zombie.
+[19:08:25	]the one has taken 10 damage from npc_zombie.
+[19:08:25	]the one has taken 10 damage from npc_zombie.
+[19:08:26	]the one has taken 80 damage from Zomnarch.
+[19:08:26	]the one has taken 80 damage from Zomnarch.
+[19:08:26	]the one has taken 10 damage from npc_zombie.
+[19:08:26	]the one has taken 1 damage from Zomnarch.
+[19:08:26	]the one has taken 10 damage from npc_zombie.
+[19:08:27	]the one has taken 10 damage from npc_zombie.
+[19:08:27	]the one has taken 80 damage from Zomnarch.
+[19:08:27	]the one has taken 10 damage from npc_zombie.
+[19:08:27	]the one has taken 10 damage from npc_zombie.
+[19:08:27	]the one has taken 45 damage from Gonome.
+[19:08:27	]the one has taken 80 damage from Zomnarch.
+[19:08:27	]the one has taken 1 damage from Zomnarch.
+[19:08:28	]the one has taken 45 damage from Gonome.
+[19:08:28	]the one has taken 10 damage from npc_zombie.
+[19:08:28	]the one has taken 10 damage from npc_zombie.
+[19:08:28	]the one has taken 10 damage from npc_zombie.
+[19:08:28	]the one has taken 1 damage from Zomnarch.
+[19:08:28	]the one has taken 10 damage from npc_zombie.
+[19:08:29	]the one has taken 80 damage from Zomnarch.
+[19:08:29	]the one has taken 10 damage from npc_zombie.
+[19:08:29	]the one has taken 80 damage from Zomnarch.
+[19:08:29	]the one has taken 1 damage from Zomnarch.
+[19:08:29	]the one has taken 10 damage from npc_zombie.
+[19:08:30	]the one has taken 10 damage from npc_zombie.
+[19:08:30	]the one has taken 45 damage from Gonome.
+[19:08:30	]the one has taken 10 damage from npc_zombie.
+[19:08:30	]the one is fully healed.
+[19:08:30	]the one has taken 45 damage from Gonome.
+[19:08:30	]the one has taken 10 damage from npc_zombie.
+[19:08:30	]the one has taken 45 damage from Gonome.
+[19:08:30	]the one has taken 80 damage from Zomnarch.
+[19:08:30	]the one has taken 45 damage from Gonome.
+[19:08:30	]the one has taken 10 damage from npc_zombie.
+[19:08:31	]the one has taken 80 damage from Zomnarch.
+[19:08:31	]the one has taken 10 damage from npc_zombie.
+[19:08:31	]the one has taken 10 damage from npc_zombie.
+[19:08:31	]the one has taken 10 damage from npc_zombie.
+[19:08:32	]the one has taken 10 damage from npc_zombie.
+[19:08:32	]the one has taken 80 damage from Zomnarch.
+[19:08:32	]the one has taken 45 damage from Gonome.
+[19:08:32	]the one has taken 10 damage from npc_zombie.
+[19:08:32	]the one has taken 10 damage from npc_zombie.
+[19:08:32	]the one has taken 80 damage from Zomnarch.
+[19:08:32	]the one used command '/ExitAct'.
+[19:08:32	]the one has taken 10 damage from npc_zombie.
+[19:08:33	]the one has taken 45 damage from Gonome.
+[19:08:33	]the one has taken 10 damage from npc_zombie.
+[19:08:33	]the one has taken 1 damage from Zomnarch.
+[19:08:33	]the one has taken 10 damage from npc_zombie.
+[19:08:33	]the one entered observer.
+[19:08:34	]the one has taken 1 damage from worldspawn.
+[19:08:35	]the one is fully healed.
+[19:08:35	]the one has taken 1 damage from worldspawn.
+[19:08:36	]the one has taken 1 damage from worldspawn.
+[19:08:37	]the one exited observer at their location.
+[19:08:38	]the one entered observer.
+[19:08:38	]the one exited observer at their location.
+[19:08:39	]the one entered observer.
+[19:08:40	]the one is fully healed.
+[19:08:40	]the one exited observer at their location.
+[19:08:41	]the one entered observer.
+[19:08:44	]the one exited observer at their location.
+[19:08:44	]the one entered observer.
+[19:08:46	]the one exited observer at their location.
+[19:08:47	]the one entered observer.
+[19:08:50	]the one exited observer at their location.
+[19:08:50	]the one entered observer.
+[19:08:51	]the one exited observer at their location.
+[19:08:52	]the one entered observer.
+[19:08:53	]the one exited observer at their location.
+[19:08:54	]the one entered observer.
+[19:11:12	]the one exited observer at their location.
+[19:11:14	]the one entered observer.
+[19:11:15	]the one exited observer at their location.
+[19:11:16	]the one entered observer.
+[19:11:20	]the one ran 'Slice' on item 'Watermelon' (#552)
+[19:11:21	]the one ran 'drop' on item 'Watermelon' (#555)
+[19:11:21	]the one has lost a 'Watermelon' #555.
+[19:11:21	]the one ran 'drop' on item 'Watermelon' (#552)
+[19:11:21	]the one has lost a 'Watermelon' #552.
+[19:11:22	]the one ran 'drop' on item 'Watermelon' (#553)
+[19:11:22	]the one has lost a 'Watermelon' #553.
+[19:11:23	]the one ran 'drop' on item 'Watermelon' (#554)
+[19:11:23	]the one has lost a 'Watermelon' #554.
+[19:11:24	]the one ran 'drop' on item 'Watermelon' (#556)
+[19:11:24	]the one has lost a 'Watermelon' #556.
+[19:11:24	]the one ran 'drop' on item 'Watermelon' (#544)
+[19:11:24	]the one has lost a 'Watermelon' #544.
+[19:11:25	]the one ran 'drop' on item 'Watermelon' (#546)
+[19:11:25	]the one has lost a 'Watermelon' #546.
+[19:11:25	]the one ran 'drop' on item 'Watermelon' (#545)
+[19:11:25	]the one has lost a 'Watermelon' #545.
+[19:11:27	]the one ran 'drop' on item 'Watermelon' (#551)
+[19:11:27	]the one has lost a 'Watermelon' #551.
+[19:11:27	]the one ran 'drop' on item 'Watermelon' (#550)
+[19:11:27	]the one has lost a 'Watermelon' #550.
+[19:11:35	]the one has given himself a sg556.
+[19:11:35	]the one has gained a 'SG556' #558.
+[19:11:36	]the one ran 'Equip' on item 'SG556' (#558)
+[19:11:38	]the one has given himself a rpg.
+[19:11:38	]the one has gained a 'RPG-7' #559.
+[19:11:45	]the one has given himself a assaultammo.
+[19:11:45	]the one has gained a 'Assault Rifle Ammo' #560.
+[19:11:47	]the one has given himself a assaultammo.
+[19:11:47	]the one has gained a 'Assault Rifle Ammo' #561.
+[19:11:49	]the one has given himself a assaultammo.
+[19:11:50	]the one has gained a 'Assault Rifle Ammo' #562.
+[19:11:50	]the one has given himself a assaultammo.
+[19:11:50	]the one has gained a 'Assault Rifle Ammo' #563.
+[19:11:51	]the one has given himself a assaultammo.
+[19:11:51	]the one has gained a 'Assault Rifle Ammo' #564.
+[19:11:53	]the one has given himself a assaultammo.
+[19:11:53	]the one has gained a 'Assault Rifle Ammo' #565.
+[19:11:54	]the one has given himself a assaultammo.
+[19:11:54	]the one has gained a 'Assault Rifle Ammo' #566.
+[19:11:54	]the one has given himself a assaultammo.
+[19:11:54	]the one has gained a 'Assault Rifle Ammo' #567.
+[19:11:55	]the one has given himself a assaultammo.
+[19:11:55	]the one has gained a 'Assault Rifle Ammo' #568.
+[19:11:55	]the one has given himself a assaultammo.
+[19:11:55	]the one has gained a 'Assault Rifle Ammo' #569.
+[19:11:58	]the one has given himself a assaultammo.
+[19:11:59	]the one has gained a 'Assault Rifle Ammo' #570.
+[19:11:59	]the one has given himself a assaultammo.
+[19:11:59	]the one has gained a 'Assault Rifle Ammo' #571.
+[19:11:59	]the one has given himself a assaultammo.
+[19:11:59	]the one has gained a 'Assault Rifle Ammo' #572.
+[19:12:00	]the one has given himself a assaultammo.
+[19:12:00	]the one has gained a 'Assault Rifle Ammo' #573.
+[19:12:00	]the one has given himself a assaultammo.
+[19:12:00	]the one has gained a 'Assault Rifle Ammo' #574.
+[19:12:01	]the one has given himself a assaultammo.
+[19:12:01	]the one has gained a 'Assault Rifle Ammo' #575.
+[19:12:01	]the one has given himself a assaultammo.
+[19:12:01	]the one has gained a 'Assault Rifle Ammo' #576.
+[19:12:02	]the one has given himself a assaultammo.
+[19:12:02	]the one has gained a 'Assault Rifle Ammo' #577.
+[19:12:02	]the one has given himself a assaultammo.
+[19:12:02	]the one has gained a 'Assault Rifle Ammo' #578.
+[19:12:03	]the one has given himself a assaultammo.
+[19:12:03	]the one has gained a 'Assault Rifle Ammo' #579.
+[19:12:03	]the one has given himself a assaultammo.
+[19:12:03	]the one has gained a 'Assault Rifle Ammo' #580.
+[19:12:03	]the one has given himself a assaultammo.
+[19:12:03	]the one has gained a 'Assault Rifle Ammo' #581.
+[19:12:08	]the one has given himself a assaultammo.
+[19:12:08	]the one has gained a 'Assault Rifle Ammo' #582.
+[19:12:08	]the one has given himself a assaultammo.
+[19:12:08	]the one has gained a 'Assault Rifle Ammo' #583.
+[19:12:08	]the one has given himself a assaultammo.
+[19:12:09	]the one has gained a 'Assault Rifle Ammo' #584.
+[19:12:09	]the one has given himself a assaultammo.
+[19:12:09	]the one has gained a 'Assault Rifle Ammo' #585.
+[19:12:09	]the one has given himself a assaultammo.
+[19:12:09	]the one has gained a 'Assault Rifle Ammo' #586.
+[19:12:13	]the one has given himself a assaultammo.
+[19:12:13	]the one has gained a 'Assault Rifle Ammo' #587.
+[19:12:15	]the one has given himself a rocketammo.
+[19:12:15	]the one has given himself a rocketammo.
+[19:12:22	]the one has given himself a rocketammo.
+[19:12:22	]the one has gained a 'RPG Missile' #588.
+[19:12:42	]the one exited observer at their location.
+[19:12:43	]the one entered observer.
+[19:12:46	]the one exited observer at their location.
+[19:14:04	]the one entered observer.
+[19:14:08	]the one exited observer at their location.
+[19:14:10	]the one has taken 4 damage from worldspawn.
+[19:14:11	]the one entered observer.
+[19:14:14	]the one exited observer at their location.
+[19:14:15	]the one is fully healed.
+[19:14:15	]the one entered observer.
+[19:14:31	]the one exited observer at their location.
+[19:14:34	]the one entered observer.
+[19:14:35	]the one exited observer at their location.
+[19:14:37	]the one entered observer.
+[19:15:17	]the one exited observer at their location.
+[19:15:18	]the one entered observer.
+[19:15:19	]the one exited observer at their location.
+[19:15:21	]the one entered observer.
+[19:17:02	]the one exited observer at their location.
+[19:25:50	]the one has gone afk.
+[19:29:28	]ulterior (STEAM_0:0:137846702) has disconnected (timed out).
+[20:06:31	]Shimac's Stew has connected.
+[20:13:48	]Shimac's Stew loaded the character 'Shimac Stew'
+[20:14:02	][IC] Shimac Stew: Hi.
+[20:14:06	][IC] Shimac Stew: Help.
+[20:15:50	]Console ran SAM command 'adduser' with arguments: 'Shimac' 'server_admin'
+[20:17:22	]Shimac Stew entered observer.
+[20:17:30	][IC] Shimac Stew: Hi.
+[20:17:45	]Shimac Stew exited observer at their location.
+[20:20:23	]Shimac Stew used command '/ToggleRaise'.
+[20:21:09	]Shimac Stew used command '/ToggleRaise'.
+[20:21:22	]Shimac Stew used command '/ToggleRaise'.
+[20:21:46	]Shimac Stew has given himself a head_gasmask.
+[20:21:46	]Shimac Stew has gained a 'Gas Mask' #589.
+[20:21:56	]Shimac Stew has given himself a head_green_beanie.
+[20:21:56	]Shimac Stew has gained a 'Green Beanie' #590.
+[20:22:00	]Shimac Stew has given himself a torso_green_kevlar_t3.
+[20:22:00	]Shimac Stew has gained a 'Heavy Kevlar Uniform' #591.
+[20:22:02	]Shimac Stew has given himself a legs_green_padded_pants.
+[20:22:02	]Shimac Stew has gained a 'Green Padded Pants' #592.
+[20:22:13	]Shimac Stew has given himself a shoes_worn_dark.
+[20:22:13	]Shimac Stew has gained a 'Worn Dark Shoes' #593.
+[20:22:24	]Shimac Stew has given himself a largebag.
+[20:22:24	]Shimac Stew has gained a 'Large Bag' #594.
+[20:22:25	]Shimac Stew has given himself a smallbag.
+[20:22:25	]Shimac Stew has gained a 'Small Bag' #595.
+[20:25:46	]Shimac Stew has given himself a suppressionrifle.
+[20:25:46	]Shimac Stew has gained a 'OSPR2A-EXP' #596.
+[20:25:50	]Shimac Stew ran 'Equip' on item 'OSPR2A-EXP' (#596)
+[20:29:20	]Shimac Stew used command '/ToggleRaise'.
+[20:29:35	]Shimac Stew used command '/ToggleRaise'.
+[20:29:47	]Shimac Stew entered observer.
+[20:29:49	]Shimac Stew exited observer at their location.
+[20:29:50	]Shimac Stew entered observer.
+[20:30:03	]Shimac Stew exited observer at their location.
+[20:30:09	]Shimac's Stew (STEAM_0:1:97461406) has disconnected.

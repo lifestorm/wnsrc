@@ -1,0 +1,149 @@
+[14:45:11	]Bad Shift 2 has connected.
+[14:52:00	]Bad Shift 2 created the character 'George Orwell's Ghost'
+[14:52:00	]Bad Shift 2 loaded the character 'George Orwell's Ghost'
+[14:52:00	]George Orwell's Ghost has gained a '#86398's Identity Card' #1658970.
+[14:52:00	]George Orwell's Ghost has gained a 'Brown Jumpsuit' #1658971.
+[14:52:00	]George Orwell's Ghost has gained a 'Brown Jumpsuit Trousers' #1658972.
+[14:52:00	]George Orwell's Ghost has gained a 'Worn Brown Shoes' #1658973.
+[14:52:58	]George Orwell's Ghost used command '/CharDesc'.
+[14:53:59	]Console ran SAM command 'setrank' with arguments: 'orwell' 'superadmin'
+[14:54:24	]Bad Shift 2 has unloaded their "George Orwell's Ghost" character.
+[14:54:35	]Bad Shift 2 loaded the character 'George Orwell's Ghost'
+[14:55:01	]Console ran SAM command 'setrank' with arguments: 'orwell' 'superadmin'
+[14:56:37	]George Orwell's Ghost used command '/CharDesc'.
+[14:57:16	][IC] George Orwell's Ghost: This is so dystopian.
+[14:57:51	]George Orwell's Ghost ran 'take' on item 'CP Mask' (#1658943)
+[14:57:51	]George Orwell's Ghost has gained a 'CP Mask' #1658943.
+[14:57:54	]George Orwell's Ghost ran 'drop' on item 'CP Mask' (#1658943)
+[14:57:54	]George Orwell's Ghost has lost a 'CP Mask' #1658943.
+[14:57:59	]George Orwell's Ghost ran 'ViewAlt' on item 'Suitcase' (#1611997)
+[14:58:02	]George Orwell's Ghost has gained a 'THIRTEEN STRIKES!' #1619004 from a container with the name 'Suitcase' #73306.
+[14:58:04	]George Orwell's Ghost ran 'take' on item 'Golden Goose' (#1657818)
+[14:58:04	]George Orwell's Ghost has gained a 'Golden Goose' #1657818.
+[14:58:08	]George Orwell's Ghost ran 'drop' on item 'Golden Goose' (#1657818)
+[14:58:08	]George Orwell's Ghost has lost a 'Golden Goose' #1657818.
+[14:58:10	]George Orwell's Ghost ran 'take' on item 'Golden Goose' (#1657818)
+[14:58:10	]George Orwell's Ghost has gained a 'Golden Goose' #1657818.
+[14:58:24	]Atle has connected.
+[14:58:37	]George Orwell's Ghost ran 'Write' on item 'THIRTEEN STRIKES!' (#1619004)
+[14:58:42	]George Orwell's Ghost ran 'Write' on item 'THIRTEEN STRIKES!' (#1619004)
+[14:59:13	]George Orwell's Ghost ran 'Write' on item 'THIRTEEN STRIKES!' (#1619004)
+[14:59:29	]Atle loaded the character 'shop employee'
+[14:59:39	]shop employee ran SAM command 'goto' with arguments: 'orwell'
+[14:59:53	][IC] George Orwell's Ghost: Guess what I found out.
+[14:59:56	]shop employee has spawned a 'Entity [220][ix_scanner]'.
+[14:59:57	]George Orwell's Ghost ran 'drop' on item 'THIRTEEN STRIKES!' (#1619004)
+[14:59:57	]George Orwell's Ghost has lost a 'THIRTEEN STRIKES!' #1619004.
+[14:59:59	]shop employee entered observer.
+[15:00:01	]shop employee exited observer at their location.
+[15:00:07	]shop employee ran 'Write' on item 'THIRTEEN STRIKES!' (#1619004)
+[15:00:10	]shop employee ran 'Write' on item 'THIRTEEN STRIKES!' (#1619004)
+[15:00:11	][IC] George Orwell's Ghost: No label title.
+[15:00:18	][IC] George Orwell's Ghost: This is literally 1984.
+[15:00:22	][IC] shop employee: Oooooh look at that!
+[15:00:23	]shop employee ran 'Write' on item 'THIRTEEN STRIKES!' (#1619004)
+[15:00:27	][IC] shop employee: D.
+[15:00:29	][IC] shop employee: LOL.
+[15:00:31	]shop employee ran 'Write' on item 'THIRTEEN STRIKES!' (#1619004)
+[15:00:39	]George Orwell's Ghost ran 'drop' on item 'Golden Goose' (#1657818)
+[15:00:39	]George Orwell's Ghost has lost a 'Golden Goose' #1657818.
+[15:00:40	][IC] shop employee: Uh-oh.
+[15:00:46	][IC] shop employee: Previous newspapers might not have any headline.
+[15:00:51	][IC] shop employee: Oh well.
+[15:00:53	][IC] George Orwell's Ghost: Also, my mustache disappeared when I unloaded. Worst server ever.
+[15:01:03	]shop employee has spawned a 'Entity [221][ix_newspaperprinter]'.
+[15:01:21	]shop employee has spawned a 'Entity [268][ix_vendor]'.
+[15:01:24	]George Orwell's Ghost used the 'John Doe' vendor.
+[15:01:32	]shop employee has used a context menu option with the name: vendor_edit
+[15:02:02	]George Orwell's Ghost used the 'John Doe' vendor.
+[15:02:04	]George Orwell's Ghost has gained 0 chips.
+[15:02:04	]George Orwell's Ghost has gained a 'Paper' #1658974.
+[15:02:07	]George Orwell's Ghost ran 'drop' on item 'Paper' (#1658974)
+[15:02:07	]George Orwell's Ghost has lost a 'Paper' #1658974.
+[15:02:18	][IC] shop employee: There.
+[15:02:21	]George Orwell's Ghost used the 'John Doe' vendor.
+[15:02:23	]George Orwell's Ghost has gained 0 chips.
+[15:02:23	]George Orwell's Ghost has gained a 'Black Ink' #1658975.
+[15:02:23	][IC] shop employee: You should be able to buy infinite paper and ink.
+[15:02:28	]George Orwell's Ghost ran 'drop' on item 'Black Ink' (#1658975)
+[15:02:28	]George Orwell's Ghost has lost a 'Black Ink' #1658975.
+[15:02:33	][IC] George Orwell's Ghost: Also.
+[15:02:39	][IC] George Orwell's Ghost: Need a writing permit.
+[15:02:42	]shop employee used command '/CharGiveItem orwell flashlight'.
+[15:02:42	]George Orwell's Ghost has gained a 'Flashlight' #1658976.
+[15:02:45	]shop employee has spawned a 'Entity [269][ix_newspaperprinter]'.
+[15:02:47	]shop employee has spawned a 'Entity [270][ix_newspaperprinter]'.
+[15:02:51	][IC] shop employee: Right!
+[15:03:04	]Atle loaded the character 'Beatrice Olmgurt Bulmer'
+[15:03:13	]Beatrice Olmgurt Bulmer ran SAM command 'goto' with arguments: 'orwell'
+[15:03:33	]Beatrice Olmgurt Bulmer entered observer.
+[15:03:34	]Beatrice Olmgurt Bulmer exited observer at their location.
+[15:03:39	][IC] George Orwell's Ghost: So, one small problem.
+[15:03:40	]Beatrice Olmgurt Bulmer entered observer.
+[15:03:42	]Beatrice Olmgurt Bulmer exited observer at their location.
+[15:03:49	][IC] George Orwell's Ghost: These kinda depend on your screen resolution, so they look bad on my end.
+[15:04:05	][IC] Beatrice Olmgurt Bulmer: There.
+[15:04:18	][IC] Beatrice Olmgurt Bulmer: What resolution do you have?
+[15:04:26	][IC] George Orwell's Ghost: Uhh, 1366 by 768.
+[15:04:31	][IC] Beatrice Olmgurt Bulmer: Hm.
+[15:04:46	][IC] George Orwell's Ghost: Yeah, so, you'll have to give me a screenshot on your end.
+[15:04:49	][IC] Beatrice Olmgurt Bulmer: They'll look good on 1920x1080.
+[15:05:01	][IC] George Orwell's Ghost: Cause for me the text looks like its going on the border thingies.
+[15:05:12	][IC] Beatrice Olmgurt Bulmer: Send me a screenshot of it as well.
+[15:06:18	][IC] George Orwell's Ghost: Also, can you plop a civil terminal around real quick.
+[15:06:34	][IC] George Orwell's Ghost: Cause we can view the saved newspapers from there.
+[15:06:36	][IC] Beatrice Olmgurt Bulmer: Yup!
+[15:07:03	][IC] George Orwell's Ghost: I'm gonna see if I can get two random ass images on imgur to test out the proportions.
+[15:07:13	]Beatrice Olmgurt Bulmer has spawned a 'Entity [239][ix_terminal]'.
+[15:07:29	][IC] Beatrice Olmgurt Bulmer: There.
+[15:12:29	][IC] George Orwell's Ghost: Let see.
+[15:12:29	]George Orwell's Ghost ordered a shipment
+[15:12:35	]George Orwell's Ghost took 'Newspaper' from the shipment
+[15:12:35	]George Orwell's Ghost has gained a 'Newspaper' #1658977.
+[15:12:37	]George Orwell's Ghost ran 'Write' on item 'HEARD OF THIS GUY?' (#1658977)
+[15:13:12	]George Orwell's Ghost ran 'drop' on item 'HEARD OF THIS GUY?' (#1658977)
+[15:13:12	]George Orwell's Ghost has lost a 'HEARD OF THIS GUY?' #1658977.
+[15:13:14	][IC] George Orwell's Ghost: Check it out.
+[15:14:56	]Beatrice Olmgurt Bulmer ran 'Write' on item 'HEARD OF THIS GUY?' (#1658977)
+[15:15:05	][IC] George Orwell's Ghost: So, one problem I can see is that the text uhh.
+[15:15:11	][IC] George Orwell's Ghost: Isn't that limited.
+[15:16:19	]George Orwell's Ghost used the 'John Doe' vendor.
+[15:16:21	]George Orwell's Ghost has gained 0 chips.
+[15:16:21	]George Orwell's Ghost has gained a 'Paper' #1658978.
+[15:16:24	]George Orwell's Ghost ran 'drop' on item 'Paper' (#1658978)
+[15:16:24	]George Orwell's Ghost has lost a 'Paper' #1658978.
+[15:18:40	]George Orwell's Ghost ran 'Write' on item 'HEARD OF THIS GUY?' (#1658977)
+[15:21:03	][IC] George Orwell's Ghost: Did you get an error in console just now?
+[15:21:09	][IC] Beatrice Olmgurt Bulmer: Nope.
+[15:21:10	][IC] Beatrice Olmgurt Bulmer: Did you?
+[15:21:12	][IC] George Orwell's Ghost: Yeah.
+[15:21:14	][IC] Beatrice Olmgurt Bulmer: If so make sure to send.
+[15:22:15	]Beatrice Olmgurt Bulmer ran 'Write' on item 'HEARD OF THIS GUY?' (#1658977)
+[15:23:05	]Beatrice Olmgurt Bulmer ran 'Write' on item 'HEARD OF THIS GUY?' (#1658977)
+[15:23:50	]George Orwell's Ghost ran 'Write' on item 'HEARD OF THIS GUY?' (#1658977)
+[15:23:55	]George Orwell's Ghost ran 'Write' on item 'HEARD OF THIS GUY?' (#1658977)
+[15:25:05	]George Orwell's Ghost ran 'Write' on item 'HEARD OF THIS GUY?' (#1658977)
+[15:25:39	]George Orwell's Ghost ran 'Write' on item 'HEARD OF THIS GUY?' (#1658977)
+[15:25:49	]Beatrice Olmgurt Bulmer is fully healed.
+[15:26:24	][IC] George Orwell's Ghost: Try to scroll the text next to the second picture.
+[15:26:25	]George Orwell's Ghost ran 'Write' on item 'HEARD OF THIS GUY?' (#1658977)
+[15:26:34	][IC] George Orwell's Ghost: Uhh, not scroll, but uhh.
+[15:26:40	]Beatrice Olmgurt Bulmer ran 'Write' on item 'HEARD OF THIS GUY?' (#1658977)
+[15:26:44	][IC] George Orwell's Ghost: Highlight with your mouse and move downwards.
+[15:26:52	][IC] Beatrice Olmgurt Bulmer: Oh yes.
+[15:26:55	]George Orwell's Ghost ran 'Write' on item 'HEARD OF THIS GUY?' (#1658977)
+[15:27:05	]Beatrice Olmgurt Bulmer ran 'Write' on item 'HEARD OF THIS GUY?' (#1658977)
+[15:28:15	]George Orwell's Ghost ran 'Write' on item 'HEARD OF THIS GUY?' (#1658977)
+[15:28:34	][IC] George Orwell's Ghost: Hmm.
+[15:28:37	][IC] George Orwell's Ghost: Hold on.
+[15:28:44	][IC] Beatrice Olmgurt Bulmer: Righto.
+[15:37:38	][IC] George Orwell's Ghost: Well, I think that's mostly it.
+[15:38:52	][IC] Beatrice Olmgurt Bulmer: Righto!
+[15:38:56	][IC] Beatrice Olmgurt Bulmer: We'll see how it goes with the bug fixes.
+[15:39:01	][IC] Beatrice Olmgurt Bulmer: Hopefully all good.
+[15:39:05	][IC] Beatrice Olmgurt Bulmer: Will let you know!
+[15:39:06	][IC] George Orwell's Ghost: Ye.
+[15:39:10	]George Orwell's Ghost used command '/ActStand 1'.
+[15:39:10	]Atle (STEAM_0:0:21027108) has disconnected.
+[15:39:13	]George Orwell's Ghost used command '/ExitAct'.
+[15:39:23	]Bad Shift 2 (STEAM_0:1:97861471) has disconnected.

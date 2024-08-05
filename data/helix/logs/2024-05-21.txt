@@ -1,0 +1,598 @@
+[09:15:15	]gb has connected.
+[09:16:36	]gb loaded the character 'gb'
+[09:16:41	]gb is fully healed.
+[09:16:47	][IC] gb: A.
+[09:17:01	]gb entered observer.
+[09:17:05	]gb used command '/MovieBars 100'.
+[09:17:07	]gb exited observer at their location.
+[09:17:08	]gb entered observer.
+[09:17:08	]gb used command '/MovieBars 1000'.
+[09:17:40	]gb used command '/MovieBars 0'.
+[09:17:50	]gb exited observer at their location.
+[09:17:51	]gb entered observer.
+[09:17:59	]gb has spawned a 'Entity [265][ix_vein_iron]'.
+[09:17:59	]gb exited observer at their location.
+[09:18:10	]gb has given himself a pickaxe.
+[09:18:13	]gb has given himself a pickaxe.
+[09:18:13	]gb has gained a 'Pickaxe' #3111268.
+[09:18:14	]gb ran 'Equip' on item 'Pickaxe' (#3111268)
+[09:18:21	]gb entered observer.
+[09:18:22	]gb exited observer at their location.
+[09:18:24	]gb entered observer.
+[09:18:24	]gb exited observer at their location.
+[09:25:50	]gb entered observer.
+[09:26:11	]gb (STEAM_0:1:82427134) has disconnected.
+[20:10:17	]Hayden has connected.
+[20:10:49	]Wraygun has connected.
+[20:11:01	]Hayden loaded the character 'Jonathan Douglas'
+[20:11:01	]Jonathan Douglas their 'sentinel outpost' stash no longer exists, location reset.
+[20:11:06	]Jonathan Douglas is fully healed.
+[20:11:16	]Hayden (STEAM_0:1:22038366) deleted character 'S10/EOW.GHOST-41'
+[20:11:40	]Hayden created the character 'Shitizen'
+[20:11:40	]Hayden loaded the character 'Shitizen'
+[20:11:40	]Shitizen has gained a 'Flashlight' #3111269.
+[20:11:40	]Shitizen has gained a 'Black Armband' #3111270.
+[20:11:40	]Shitizen has gained a '#81466's Identity Card' #3111271.
+[20:12:19	]Shitizen has given himself a ccr_fatigues.
+[20:12:19	]Shitizen has gained a 'CCR Combat Fatigues' #3111272.
+[20:12:22	]Shitizen has given himself a ccr_vest.
+[20:12:22	]Shitizen has gained a 'CCR Armored Vest' #3111273.
+[20:12:30	]Shitizen has used a context menu option with the name: remove
+[20:12:30	]Shitizen entered observer.
+[20:12:33	]Shitizen exited observer at their location.
+[20:12:52	]Wraygun loaded the character 'Corporal Magnus Lockheart'
+[20:12:52	]Corporal Magnus Lockheart their 'conscript personal lockers' stash no longer exists, location reset.
+[20:13:21	][IC] Shitizen: Hi.
+[20:13:23	][IC] Corporal Magnus Lockheart: Hi.
+[20:13:27	]Shitizen has spawned a ccr_fatigues.
+[20:13:29	]Corporal Magnus Lockheart ran 'take' on item 'CCR Combat Fatigues' (#3111274)
+[20:13:29	]Corporal Magnus Lockheart has gained a 'CCR Combat Fatigues' #3111274.
+[20:13:34	]Corporal Magnus Lockheart ran 'drop' on item 'CCR Armored Vest' (#2995636)
+[20:13:34	]Corporal Magnus Lockheart has lost a 'CCR Armored Vest' #2995636.
+[20:13:50	][LOOC] Corporal Magnus Lockheart: it's here.
+[20:13:52	]Corporal Magnus Lockheart ran 'take' on item 'CCR Armored Vest' (#2995636)
+[20:13:52	]Corporal Magnus Lockheart has gained a 'CCR Armored Vest' #2995636.
+[20:13:56	][IC] Shitizen: CCR upswing.
+[20:14:01	]Corporal Magnus Lockheart ran 'Equip' on item 'MP5A3' (#2995648)
+[20:14:16	]Shitizen has changed Shitizen's bodygroups.
+[20:14:54	]Corporal Magnus Lockheart has changed Corporal Magnus Lockheart's bodygroups.
+[20:15:03	][IC] Shitizen: Do you have CP?
+[20:15:03	][LOOC] Corporal Magnus Lockheart: I am in awe
+[20:15:07	][LOOC] Corporal Magnus Lockheart: Yes, I do.
+[20:15:10	][IC] Shitizen: Can you swap to them rq.
+[20:15:16	]Wraygun loaded the character '[X][X] C24:i5.DEFENDER-02'
+[20:15:21	][X][X] C24:i5.DEFENDER-02 is fully healed.
+[20:15:30	][IC] Shitizen: Do I show up on your HUD?
+[20:15:33	][IC] [X][X] C24:i5.DEFENDER-02: <:: Nope. ::>
+[20:15:35	][IC] Shitizen: Like a normal CP would.
+[20:15:37	][IC] Shitizen: Huh, weird.
+[20:15:38	][IC] [X][X] C24:i5.DEFENDER-02: <:: No name. ::>
+[20:15:42	][IC] Shitizen: Alright fair then.
+[20:15:48	][IC] Shitizen: Works for me.
+[20:15:52	][IC] [X][X] C24:i5.DEFENDER-02: <:: Same. ::>
+[20:15:53	]BantaMan has connected.
+[20:16:02	][IC] [X][X] C24:i5.DEFENDER-02: <:: I like the idea of having the need to get the conscripts to F3 you. ::>
+[20:16:12	][IC] Shitizen: Yeah it works.
+[20:16:19	]Wraygun loaded the character 'Corporal Magnus Lockheart'
+[20:16:32	]Shitizen has given himself a beard_razor.
+[20:16:32	]Shitizen has gained a 'Hairdresser tools' #3111275.
+[20:16:34	]Shitizen ran 'Style' on item 'Hairdresser tools' (#3111275)
+[20:16:37	]Shitizen ran 'Style' on item 'Hairdresser tools' (#3111275)
+[20:16:43	]Shitizen used command '/CharEditBodygroup idiot'.
+[20:16:48	]Shitizen has changed Shitizen's bodygroups.
+[20:16:51	]Shitizen ran 'Style' on item 'Hairdresser tools' (#3111275)
+[20:16:53	]Shitizen ran 'Style' on item 'Hairdresser tools' (#3111275)
+[20:16:56	]Corporal Magnus Lockheart has changed Corporal Magnus Lockheart's bodygroups.
+[20:16:57	]Shitizen ran 'Style2' on item 'Hairdresser tools' (#3111275)
+[20:17:06	][LOOC] Corporal Magnus Lockheart: can't believe this madman put this much work.
+[20:17:17	][IC] Shitizen: Yeah fr.
+[20:17:35	]Corporal Magnus Lockheart has changed Corporal Magnus Lockheart's bodygroups.
+[20:17:35	]Shitizen has given himself a ciggie_pack.
+[20:17:35	]Shitizen has gained a 'Benefactor Edition Cigarette Pack' #3111276.
+[20:17:35	]Shitizen has gained a 'Cigarette' #3111277.
+[20:17:35	]Shitizen has gained a 'Cigarette' #3111278.
+[20:17:35	]Shitizen has gained a 'Cigarette' #3111279.
+[20:17:35	]Shitizen has gained a 'Cigarette' #3111280.
+[20:17:35	]Shitizen has gained a 'Cigarette' #3111281.
+[20:17:35	]Shitizen has gained a 'Cigarette' #3111282.
+[20:17:35	]Shitizen has gained a 'Cigarette' #3111283.
+[20:17:35	]Shitizen has gained a 'Cigarette' #3111284.
+[20:17:39	]Shitizen has given himself a lighter.
+[20:17:39	]Shitizen has gained a 'Plastic Lighter' #3111285.
+[20:17:44	]Corporal Magnus Lockheart has changed Corporal Magnus Lockheart's bodygroups.
+[20:17:45	]BantaMan created the character 'Funny CCR man'
+[20:17:45	]BantaMan loaded the character 'Funny CCR man'
+[20:17:45	]Funny CCR man has gained a 'Flashlight' #3111286.
+[20:17:45	]Funny CCR man has gained a 'Light Grey Armband' #3111287.
+[20:17:45	]Funny CCR man has gained a '#38480's Identity Card' #3111288.
+[20:17:45	]Funny CCR man has gained a 'Grey Jumpsuit' #3111289.
+[20:17:45	]Funny CCR man has gained a 'Green Jumpsuit Trousers' #3111290.
+[20:17:51	]Corporal Magnus Lockheart has changed Corporal Magnus Lockheart's bodygroups.
+[20:18:00	]Shitizen has spawned a ccr_fatigues.
+[20:18:02	]Shitizen has spawned a ccr_vest.
+[20:18:05	][IC] Shitizen: Hello.
+[20:18:07	][LOOC] Funny CCR man: I forgot to install the models ffs
+[20:18:09	]Funny CCR man ran 'take' on item 'CCR Armored Vest' (#3111292)
+[20:18:09	]Funny CCR man has gained a 'CCR Armored Vest' #3111292.
+[20:18:10	]Funny CCR man ran 'take' on item 'CCR Combat Fatigues' (#3111291)
+[20:18:10	]Funny CCR man has gained a 'CCR Combat Fatigues' #3111291.
+[20:18:11	][IC] Shitizen: LOL.
+[20:18:28	]Corporal Magnus Lockheart has changed Corporal Magnus Lockheart's bodygroups.
+[20:18:40	][LOOC] Funny CCR man: Im a sexy lil error now
+[20:18:45	][LOOC] Funny CCR man: brb
+[20:18:48	]BantaMan (STEAM_0:1:81409858) has disconnected.
+[20:18:53	]Corporal Magnus Lockheart has changed Corporal Magnus Lockheart's bodygroups.
+[20:19:10	]Corporal Magnus Lockheart has changed Corporal Magnus Lockheart's bodygroups.
+[20:19:16	]Corporal Magnus Lockheart has changed Corporal Magnus Lockheart's bodygroups.
+[20:19:31	]Corporal Magnus Lockheart has changed Corporal Magnus Lockheart's bodygroups.
+[20:20:12	]Shitizen used command '/CharEditBodygroup idiot'.
+[20:20:50	]Corporal Magnus Lockheart has changed Corporal Magnus Lockheart's bodygroups.
+[20:21:30	]Corporal Magnus Lockheart has changed Corporal Magnus Lockheart's bodygroups.
+[20:22:00	]BantaMan has connected.
+[20:22:34	]BantaMan loaded the character 'Funny CCR man'
+[20:22:45	][LOOC] Funny CCR man: why is it still errors
+[20:22:51	]BantaMan (STEAM_0:1:81409858) has disconnected.
+[20:22:52	]Corporal Magnus Lockheart has changed Corporal Magnus Lockheart's bodygroups.
+[20:24:01	]Wraygun (STEAM_0:0:168504023) has disconnected.
+[20:24:16	]Shitizen used command '/CharEditBodygroup'.
+[20:24:22	]Shitizen has changed Shitizen's bodygroups.
+[20:27:30	]BantaMan has connected.
+[20:28:09	]BantaMan loaded the character 'Funny CCR man'
+[20:28:19	][LOOC] Funny CCR man: FINALLY I CAN SEE
+[20:28:21	][IC] Shitizen: Based.
+[20:28:28	][IC] Shitizen: Can you check bodygroups rq then I'ma hop off and have it pushed to main.
+[20:29:22	]Funny CCR man has changed Funny CCR man's bodygroups.
+[20:29:28	][IC] Shitizen: Based as fuck.
+[20:29:29	][LOOC] Funny CCR man: oh htis is sexy
+[20:29:37	][IC] Shitizen: Hopefully will be in by Friday!
+[20:29:47	][LOOC] Funny CCR man: I beg I need this drip now that I've seen it
+[20:29:52	][IC] Shitizen: :3.
+[20:29:52	][LOOC] Funny CCR man: and I dont have mentor perms here either
+[20:29:57	][LOOC] Funny CCR man: I think
+[20:30:06	][LOOC] Funny CCR man: so bodygroup editing works for normal players
+[20:30:19	][LOOC] Funny CCR man: which is nice
+[20:30:26	][LOOC] Shitizen: Uh try togglementor
+[20:30:33	][LOOC] Funny CCR man: command doesnt exist lol
+[20:30:37	][IC] Shitizen: Alright nice.
+[20:30:39	][LOOC] Funny CCR man: so I have no perms on the dev server
+[20:30:43	][LOOC] Funny CCR man: so thats good
+[20:30:55	][LOOC] Funny CCR man: well, glad they work!
+[20:30:57	][IC] Shitizen: Same!
+[20:31:03	][LOOC] Funny CCR man: although uh, suits will need to have names chjanged by an admin
+[20:31:11	][IC] Shitizen: Oh want to see a cool new addition for CT?
+[20:31:16	][LOOC] Funny CCR man: OOO yes
+[20:31:28	]Shitizen used command '/PortalNPC npc_vj_hlr1_chumtoad'.
+[20:31:37	]Shitizen used command '/PortalNPC npc_vj_hlr1_chumtoad'.
+[20:31:38	][LOOC] Funny CCR man: FROG
+[20:31:43	][IC] Shitizen: PortalNPC!
+[20:31:50	]Shitizen used command '/PortalItem ccr_vest'.
+[20:31:52	][LOOC] Funny CCR man: they friendly?
+[20:31:53	][IC] Shitizen: And PortalITEM!
+[20:31:58	][IC] Shitizen: They're mostly friendly...
+[20:32:06	][LOOC] Funny CCR man: wait--what so
+[20:32:13	][LOOC] Funny CCR man: you can spawn items via portals?
+[20:32:17	][LOOC] Shitizen: Yeah!
+[20:32:21	][IC] Shitizen: And players!
+[20:32:22	][LOOC] Funny CCR man: oh thats sick
+[20:32:29	]Shitizen used command '/PortalPlayer Funny'.
+[20:32:32	][LOOC] Funny CCR man: YOOOOOOOO
+[20:32:36	][IC] Shitizen: Gb is a god.
+[20:32:47	][LOOC] Funny CCR man: shits making me wanna join CT just to do some funky xen portal stuff
+[20:32:59	][IC] Shitizen: There's one more but I need to get set to SC rq for it.
+[20:33:06	][LOOC] Funny CCR man: what is it?
+[20:33:19	][IC] Shitizen: You'll see :3 (probably).
+[20:33:25	][LOOC] Funny CCR man: inb4 I dont see
+[20:33:34	]Funny CCR man used command '/ToggleRaise'.
+[20:33:37	]Funny CCR man has hit npc_vj_hlr1_chumtoad dealing 7 damage (CritChance was 0.00).
+[20:33:37	]Funny CCR man has damaged npc_vj_hlr1_chumtoad, dealing 8.5 with ix_hands
+[20:33:41	]Funny CCR man used command '/ToggleRaise'.
+[20:34:18	][IC] Shitizen: Just getting Memesky to set me to SC.
+[20:34:24	][ME] Funny CCR man: salutes
+[20:34:26	][LOOC] Funny CCR man: nwwwww
+[20:34:39	]Shitizen entered observer.
+[20:34:42	]Shitizen exited observer at their location.
+[20:34:43	]BantaMan has unloaded their "Funny CCR man" character.
+[20:34:47	]BantaMan loaded the character 'Funny CCR man'
+[20:35:31	][IC] Shitizen: !mneu.
+[20:35:58	]Funny CCR man has changed Funny CCR man's bodygroups.
+[20:36:03	][LOOC] Funny CCR man: wut
+[20:36:17	][LOOC] Funny CCR man: wtf is this menu
+[20:36:21	]Shitizen entered observer.
+[20:36:25	]Shitizen exited observer at their location.
+[20:36:27	]Shitizen has fired a toolgun with the name: camera
+[20:36:29	]Shitizen entered observer.
+[20:36:31	]Shitizen exited observer at their location.
+[20:36:56	]Shitizen entered observer.
+[20:36:58	]Shitizen exited observer at their location.
+[20:36:59	][IC] Shitizen: 1 sec.
+[20:37:05	]Hayden loaded the character 'Hayden'
+[20:37:10	]Hayden is fully healed.
+[20:37:11	]Hayden entered observer.
+[20:37:15	]Hayden exited observer at their location.
+[20:37:33	][LOOC] Funny CCR man: you're a turret x_x
+[20:37:36	][IC] Hayden: Yes.
+[20:37:40	][LOOC] Funny CCR man: can u shoot tho
+[20:37:42	][IC] Hayden: Swapped to my admin char to see if that'd gimme perms.
+[20:37:45	][IC] Hayden: Sadly no ):.
+[20:37:48	][LOOC] Funny CCR man: awh :c
+[20:38:32	]Hayden has spawned a 'Entity [326][ix_cutscenecamera]'.
+[20:38:37	]Hayden entered observer.
+[20:38:38	]Hayden has spawned a 'Entity [326][ix_cutscenecamera]'.
+[20:38:39	]Hayden exited observer at their location.
+[20:38:41	]Hayden entered observer.
+[20:38:51	]Hayden has used a context menu option with the name: ixsetcameraid
+[20:39:08	]Hayden exited observer at their location.
+[20:39:12	][IC] Hayden: Okay there we go.
+[20:39:19	][IC] Funny CCR man: Lets seeeeee.
+[20:39:24	]Hayden used command '/CinematicCamera 500 1'.
+[20:39:28	][IC] Hayden: Cinematic Camera!
+[20:39:34	][LOOC] Funny CCR man: Yooooooo!
+[20:39:40	][LOOC] Funny CCR man: CT cutscenes gonna go silly
+[20:39:43	][IC] Hayden: Forces players to swap their POV to a camera that's hidden unless you're in observer.
+[20:39:44	][LOOC] Funny CCR man: or screenshots of events
+[20:39:51	]Hayden used command '/ResetCinematicCamera'.
+[20:39:54	][LOOC] Funny CCR man: Playing GMod like its RE1
+[20:39:58	][IC] Hayden: Fr lmao.
+[20:40:03	][LOOC] Funny CCR man: omg
+[20:40:15	][LOOC] Funny CCR man: have a fixed camera perspective event, have it be a recreation of RE
+[20:40:35	][IC] Hayden: It'll probably be used rarely but when it is used it'll be based as fuck.
+[20:40:36	][LOOC] Funny CCR man: tbf an RE event would be fun
+[20:40:50	][IC] Hayden: Fr.
+[20:41:05	][LOOC] Funny CCR man: get cooking!!
+[20:41:11	][LOOC] Funny CCR man: or I'll apply for CT and run it myself lmao
+[20:41:16	][IC] Hayden: Apps are open rn s ogo ahead.
+[20:41:22	]Hayden has used a context menu option with the name: remove
+[20:41:23	]Hayden has used a context menu option with the name: remove
+[20:41:25	]Hayden has used a context menu option with the name: remove
+[20:41:33	][LOOC] Funny CCR man: I would if i wasnt still in exam season ;-;
+[20:41:51	][IC] Hayden: Ah damn. Final exams?#.
+[20:42:02	]Hayden used command '/MovieBars 100'.
+[20:42:05	][IC] Hayden: Also moviebars!
+[20:42:08	][LOOC] Funny CCR man: YOOOOOOOOOOOOOOOOOOOOOO
+[20:42:17	][LOOC] Funny CCR man: yeah, Im a 3rd year comp sci student
+[20:42:25	][LOOC] Funny CCR man: delivered my dissertation, did one of my exams
+[20:42:31	][LOOC] Funny CCR man: still got one more on the 31st
+[20:42:34	][IC] Hayden: Awesome, I'm starting my first year in September.
+[20:42:39	]Hayden used command '/MovieBars 0'.
+[20:42:39	][LOOC] Funny CCR man: good luck!
+[20:42:45	][LOOC] Funny CCR man: hopefully you have decent tutors
+[20:42:47	][IC] Hayden: Thanks! I feel like Willard has prepared me for it ngl.
+[20:42:53	][IC] Hayden: And ye I've heard good things about the Uni I'm going to.
+[20:42:58	][LOOC] Funny CCR man: listen, if you can work with the spaghetti code that WN has
+[20:43:01	][LOOC] Funny CCR man: you can work on your own code
+[20:43:06	][IC] Hayden: True as fuck.
+[20:43:09	][LOOC] Funny CCR man: can I ask which uni or?
+[20:43:11	][IC] Hayden: Willard has taught me to master ctrl+F.
+[20:43:15	][IC] Hayden: Northumbria Uni.
+[20:43:17	][LOOC] Funny CCR man: ah!
+[20:43:21	][LOOC] Funny CCR man: I graduated Aberystwyth
+[20:43:28	][IC] Hayden: Very fancy town name.
+[20:43:30	][LOOC] Funny CCR man: or well, ABOUT to graduate
+[20:43:33	][LOOC] Funny CCR man: its a small welsh resort town
+[20:43:38	][LOOC] Funny CCR man: very nice area tho, and its ranked like
+[20:43:45	][LOOC] Funny CCR man: top 30 for comp sci when I joined
+[20:43:57	][IC] Hayden: That's awesome! I think Northumbria is 6th place or smth.
+[20:43:58	][LOOC] Funny CCR man: that was in 2021 x_x
+[20:44:02	][LOOC] Funny CCR man: hooooo shit ok
+[20:44:09	][LOOC] Funny CCR man: well good luck to you ^^
+[20:44:11	][IC] Hayden: Ah it's 12th.
+[20:44:18	][IC] Hayden: Still p good.
+[20:44:21	][LOOC] Funny CCR man: thats STILL really good ye
+[20:44:30	][LOOC] Funny CCR man: Im now job hunting, saving up to get my masters degree
+[20:44:33	][IC] Hayden: I aimed for Newcastle Uni but got denied.
+[20:44:48	][LOOC] Funny CCR man: I was one grade off Manchester ;-;
+[20:44:55	][LOOC] Funny CCR man: they wanted A*A*A
+[20:44:57	][LOOC] Funny CCR man: ffs
+[20:45:01	][LOOC] Funny CCR man: a-star a-star a
+[20:45:06	][LOOC] Funny CCR man: I got a-star a a
+[20:45:21	][LOOC] Funny CCR man: so I didnt get in ;-;
+[20:45:29	][IC] Hayden: I got kinda shit grades in secondary school cuz I missed 2 months from surgery.
+[20:45:38	][IC] Hayden: And got DDM in College.
+[20:45:46	][LOOC] Funny CCR man: ooof, luckily secondtry school grades are worth jack
+[20:45:50	][LOOC] Funny CCR man: thats good!
+[20:45:53	][IC] Hayden: True.
+[20:46:12	][LOOC] Funny CCR man: I got A* in maths, A in Physics, A in comp sci
+[20:46:24	][LOOC] Funny CCR man: but like, my sixth form made us do 4 subjects
+[20:46:32	][LOOC] Funny CCR man: so I also came out with a merit in business management
+[20:46:47	][IC] Hayden: That's awesome! I was SO close to a A in Comp Sci and would've got it if my teacher gave me the extension I was meant to get but he cba to deal with reviewing my coursework 2 months later.
+[20:46:55	][LOOC] Funny CCR man: wtf
+[20:47:05	][LOOC] Funny CCR man: you're supposed to get that extension if you're entitled to it
+[20:47:06	][LOOC] Funny CCR man: prick
+[20:47:23	][IC] Hayden: Yeah fr, CompSci was the only course I cared about too lmao.
+[20:47:29	][LOOC] Funny CCR man: your first year is basically year 13 stuff
+[20:47:33	][LOOC] Funny CCR man: so it'll feel like a refresher
+[20:47:54	][IC] Hayden: Well I've got a foundation year for my course cuz I've been outta work/education for the last 5 years due to health issues.
+[20:47:56	][LOOC] Funny CCR man: basic state machines, learning basic algorithms (recursion etc)
+[20:48:08	][LOOC] Funny CCR man: ooooooh, then even more so
+[20:48:13	][LOOC] Funny CCR man: you'll do great, Im sure!
+[20:48:26	][IC] Hayden: Yeah if I can manage Willard I can manage a CompSci course lmao.
+[20:48:32	][LOOC] Funny CCR man: 100% xDS
+[20:48:46	][LOOC] Funny CCR man: anyways, I won't keep you from any other work you have to do, good luck at uni in september <3
+[20:48:55	][IC] Hayden: Fair, hope you have a good one! :D.
+[20:48:59	]Hayden (STEAM_0:1:22038366) has disconnected.
+[20:49:00	][LOOC] Funny CCR man: will doooo
+[20:49:03	]BantaMan (STEAM_0:1:81409858) has disconnected.
+[20:56:19	]Hayden has connected.
+[20:57:00	]Hayden loaded the character 'Hayden'
+[20:57:07	]Hayden entered observer.
+[20:57:14	]Hayden exited observer at their location.
+[20:57:22	]Hayden has spawned a 'Entity [265][ix_vein_iron]'.
+[20:57:36	]Hayden has spawned a 'Entity [265][ix_ore_spawner]'.
+[20:57:48	]Hayden has spawned a 'Entity [266][ix_vein_iron]'.
+[20:57:50	]Hayden has spawned a 'Entity [282][ix_vein_gold]'.
+[20:57:51	]Hayden has spawned a 'Entity [283][ix_vein_coal]'.
+[20:57:57	]Hayden has given himself a pickaxe.
+[20:57:57	]Hayden has gained a 'Pickaxe' #3111294.
+[20:58:15	]Hayden ran 'drop' on item 'Steel' (#3105672)
+[20:58:15	]Hayden has lost a 'Steel' #3105672.
+[20:58:15	]Hayden ran 'drop' on item '9mm Pistol Bullets' (#3105545)
+[20:58:15	]Hayden has lost a '9mm Pistol Bullets' #3105545.
+[20:58:18	]Hayden has fired a toolgun with the name: remover
+[20:58:18	]Hayden has fired a toolgun with the name: remover
+[20:58:20	]Hayden ran 'Equip' on item 'Pickaxe' (#3111294)
+[20:58:47	]Hayden has gained a 'Coal Ore' #3111295.
+[20:59:00	]Hayden has gained a 'Coal Ore' #3111296.
+[20:59:16	]Hayden has spawned a 'Entity [265][ix_vein_iron]'.
+[20:59:24	]Hayden has gained a 'Iron Ore' #3111297.
+[20:59:30	]Hayden ran 'drop' on item 'Small Bag' (#1967479)
+[20:59:30	]Hayden has lost a 'Small Bag' #1967479.
+[20:59:31	]Hayden ran 'drop' on item 'Large Bag' (#1925730)
+[20:59:31	]Hayden has lost a 'Large Bag' #1925730.
+[20:59:31	]Hayden has lost a 'Iron Ore' #3111297.
+[20:59:35	]Hayden has fired a toolgun with the name: remover
+[20:59:36	]Hayden has fired a toolgun with the name: remover
+[20:59:54	]Hayden entered observer.
+[20:59:55	]Hayden exited observer at their location.
+[20:59:57	]Hayden has spawned a 'Entity [265][ix_vein_gold]'.
+[21:00:07	]Hayden has spawned a 'Entity [368][ix_vein_coal]'.
+[21:00:15	]Hayden entered observer.
+[21:00:16	]Hayden exited observer at their location.
+[21:00:20	]Hayden has fired a toolgun with the name: remover
+[21:00:20	]Hayden has fired a toolgun with the name: remover
+[21:00:21	]Hayden has fired a toolgun with the name: remover
+[21:00:45	]Hayden entered observer.
+[21:00:51	]Hayden has spawned a 'Entity [265][ix_vein_coal]'.
+[21:00:53	]Hayden has spawned a 'Entity [266][ix_ore_spawner]'.
+[21:00:56	]Hayden exited observer at their location.
+[21:00:56	]Hayden entered observer.
+[21:01:21	]Hayden exited observer at their location.
+[21:01:59	]Hayden entered observer.
+[21:02:16	]Hayden exited observer at their location.
+[21:02:38	]Hayden has given himself a itemlabel.
+[21:02:38	]Hayden has gained a 'Item Label' #3111301.
+[21:02:39	]Hayden ran 'drop' on item 'Coal Ore' (#3111296)
+[21:02:39	]Hayden has lost a 'Coal Ore' #3111296.
+[21:02:40	]Hayden ran 'drop' on item 'Coal Ore' (#3111295)
+[21:02:40	]Hayden has lost a 'Coal Ore' #3111295.
+[21:02:42	]Hayden has fired a toolgun with the name: remover
+[21:02:43	]Hayden has fired a toolgun with the name: remover
+[21:02:43	]Hayden has fired a toolgun with the name: remover
+[21:02:46	]Hayden has given himself a itemlabel.
+[21:02:46	]Hayden has gained a 'Item Label' #3111302.
+[21:02:48	]Hayden ran 'editAName' on item 'Item Label' (#3111302)
+[21:02:53	]Hayden ran 'editAName' on item 'Item Label' (#3111302)
+[21:02:56	]Hayden ran 'editDesc' on item 'Item Label "Cat"' (#3111302)
+[21:03:06	]Hayden ran 'combined' on item 'Item Label "Cat"' (#3111302)
+[21:04:04	]Hayden entered observer.
+[21:04:10	]Hayden exited observer at their location.
+[21:04:20	]Hayden entered observer.
+[21:04:23	]Hayden exited observer at their location.
+[21:05:53	]Hayden entered observer.
+[21:06:40	]Hayden exited observer at their location.
+[21:07:23	]Hayden entered observer.
+[21:07:31	]Hayden has spawned a 'Entity [265][ix_vein_coal]'.
+[21:07:32	]Hayden has spawned a 'Entity [266][ix_ore_spawner]'.
+[21:07:33	]Hayden has spawned a 'Entity [265][ix_ore_spawner]'.
+[21:07:35	]Hayden has spawned a 'Entity [282][ix_ore_spawner]'.
+[21:07:37	]Hayden exited observer at their location.
+[21:07:45	]Hayden entered observer.
+[21:07:48	]Hayden exited observer at their location.
+[21:08:00	][IC] Hayden: Mark time...
+[21:09:08	]Hayden entered observer.
+[21:09:18	]Hayden exited observer at their location.
+[21:12:06	]Hayden entered observer.
+[21:13:19	]Hayden set Ore Respawn Timer to '1'.
+[21:15:18	][IC] Hayden: Blyep.
+[21:15:21	][IC] Hayden: Marktimer.
+[21:16:34	][Y] Hayden: SPAWN QUICKER.
+[21:16:46	]Hayden has spawned a 'Entity [368][ix_ore_spawner]'.
+[21:16:47	]Hayden has spawned a 'Entity [369][ix_ore_spawner]'.
+[21:16:49	]Hayden has spawned a 'Entity [378][ix_ore_spawner]'.
+[21:17:12	]Hayden exited observer at their location.
+[21:17:13	]Hayden entered observer.
+[21:17:14	]Hayden exited observer at their location.
+[21:17:15	]Hayden has taken 18 damage from worldspawn.
+[21:17:16	]Hayden entered observer.
+[21:17:16	]Hayden exited observer at their location.
+[21:17:17	]Hayden entered observer.
+[21:17:17	]Hayden exited observer at their location.
+[21:17:18	]Hayden entered observer.
+[21:17:18	]Hayden exited observer at their location.
+[21:17:56	]Hayden entered observer.
+[21:20:03	]Hayden has gone afk.
+[21:20:46	]Hayden is no longer afk. Total time spent AFK: 425
+[21:26:22	]Hayden exited observer at their location.
+[21:26:28	]Hayden has spawned a 'Entity [265][ix_newspaperprinter]'.
+[21:26:30	]Hayden has spawned a 'Entity [266][ix_crackedprinter]'.
+[21:26:34	]Hayden has spawned a paper.
+[21:26:38	]Hayden has spawned a black_ink.
+[21:26:53	]Hayden ordered a shipment
+[21:26:59	]Hayden took 'Newspaper' from the shipment
+[21:26:59	]Hayden has gained a 'Newspaper' #3111305.
+[21:27:02	]Hayden ran 'Write' on item 'Newspaper' (#3111305)
+[21:27:06	]Hayden entered observer.
+[21:30:34	]Hayden exited observer at their location.
+[21:30:34	]Hayden entered observer.
+[21:30:35	]Hayden exited observer at their location.
+[21:30:40	]Hayden has given himself a drink_wine_red.
+[21:30:40	]Hayden has gained a 'Red Wine' #3111306.
+[21:30:42	]Hayden ran 'Consume' on item 'Red Wine' (#3111306)
+[21:30:42	]Hayden has gained a level 3 short boost in Strength.
+[21:30:42	]Hayden has gained a level -3 short boost in Agility.
+[21:30:42	]Hayden has gained a level 1 short boost in Intelligence.
+[21:30:42	]Hayden has gained a level -2 short boost in Perception.
+[21:30:45	]Hayden has given himself a drink_wine_red.
+[21:30:45	]Hayden has gained a 'Red Wine' #3111307.
+[21:30:46	]Hayden has given himself a drink_wine_red.
+[21:30:46	]Hayden has gained a 'Red Wine' #3111308.
+[21:30:48	]Hayden has given himself a drink_wine_red.
+[21:30:48	]Hayden has gained a 'Red Wine' #3111309.
+[21:30:50	]Hayden ran 'Consume' on item 'Red Wine' (#3111307)
+[21:30:50	]Hayden has wasted a level 3 short boost in Strength (current: 1; target: 3).
+[21:30:50	]Hayden has updated their Agility short boost target to -3 (current : -1).
+[21:30:50	]Hayden extended their level 1 short boost in Intelligence.
+[21:30:50	]Hayden has updated their Perception short boost target to -2 (current : -1).
+[21:30:50	]Hayden ran 'Consume' on item 'Red Wine' (#3111308)
+[21:30:50	]Hayden has wasted a level 3 short boost in Strength (current: 1; target: 3).
+[21:30:50	]Hayden has updated their Agility short boost target to -3 (current : -1).
+[21:30:50	]Hayden extended their level 1 short boost in Intelligence.
+[21:30:50	]Hayden has updated their Perception short boost target to -2 (current : -1).
+[21:30:51	]Hayden ran 'Consume' on item 'Red Wine' (#3111309)
+[21:30:51	]Hayden has wasted a level 3 short boost in Strength (current: 1; target: 3).
+[21:30:51	]Hayden has updated their Agility short boost target to -3 (current : -1).
+[21:30:51	]Hayden extended their level 1 short boost in Intelligence.
+[21:30:51	]Hayden has updated their Perception short boost target to -2 (current : -1).
+[21:31:02	]Hayden loaded the character 'Shitizen'
+[21:31:09	]Shitizen has given himself a drink_wine_red.
+[21:31:09	]Shitizen has gained a 'Red Wine' #3111310.
+[21:31:10	]Shitizen has given himself a drink_wine_red.
+[21:31:10	]Shitizen has gained a 'Red Wine' #3111311.
+[21:31:11	]Shitizen has given himself a drink_wine_red.
+[21:31:11	]Shitizen has gained a 'Red Wine' #3111312.
+[21:31:12	]Shitizen ran 'Consume' on item 'Red Wine' (#3111312)
+[21:31:12	]Shitizen has gained a level 3 short boost in Strength.
+[21:31:12	]Shitizen has gained a level -3 short boost in Agility.
+[21:31:12	]Shitizen has gained a level 1 short boost in Intelligence.
+[21:31:12	]Shitizen has gained a level -2 short boost in Perception.
+[21:31:13	]Shitizen ran 'Consume' on item 'Red Wine' (#3111311)
+[21:31:13	]Shitizen has wasted a level 3 short boost in Strength (current: 0; target: 3).
+[21:31:13	]Shitizen has updated their Agility short boost target to -3 (current : 0).
+[21:31:13	]Shitizen has wasted a level 1 short boost in Intelligence (current: 0; target: 1).
+[21:31:13	]Shitizen has updated their Perception short boost target to -2 (current : 0).
+[21:31:13	]Shitizen ran 'Consume' on item 'Red Wine' (#3111310)
+[21:31:13	]Shitizen has wasted a level 3 short boost in Strength (current: 0; target: 3).
+[21:31:13	]Shitizen has updated their Agility short boost target to -3 (current : 0).
+[21:31:13	]Shitizen has wasted a level 1 short boost in Intelligence (current: 0; target: 1).
+[21:31:13	]Shitizen has updated their Perception short boost target to -2 (current : 0).
+[21:36:32	]Shitizen has gone afk.
+[21:37:12	]Shitizen is no longer afk. Total time spent AFK: 335
+[21:37:15	][IC] Shitizen: I'm fukcin turnt.
+[21:37:19	][IC] Shitizen: Ongod, fr, nocap.
+[21:37:43	][IC] Shitizen: Me ignoring being drunk by sidewalking (M!NT can't stop me).
+[21:37:52	]Shitizen entered observer.
+[21:37:58	]Shitizen exited observer at their location.
+[21:38:27	][IC] Shitizen: Ah fuck.
+[21:42:53	]Hayden loaded the character 'Hayden'
+[21:43:45	]Hayden entered observer.
+[21:45:16	]Hayden loaded the character 'Shitizen'
+[21:45:32	]Shitizen used command '/RemoveDrugEffects Shit'.
+[21:45:39	]Hayden loaded the character 'PC-2 Hunter Campbell'
+[21:45:44	]PC-2 Hunter Campbell is fully healed.
+[21:45:57	]PC-2 Hunter Campbell ran 'drop' on item 'T-5000' (#3086896)
+[21:45:57	]PC-2 Hunter Campbell has lost a 'T-5000' #3086896.
+[21:46:00	]PC-2 Hunter Campbell has used a context menu option with the name: remove
+[21:46:02	]PC-2 Hunter Campbell ran 'Equip' on item 'MP5A3' (#2995576)
+[21:46:11	]PC-2 Hunter Campbell has given himself a ccr_fatigues.
+[21:46:11	]PC-2 Hunter Campbell has gained a 'CCR Combat Fatigues' #3111313.
+[21:46:25	]PC-2 Hunter Campbell has lost a '30rnd MP Magazine' #2995592.
+[21:46:28	]PC-2 Hunter Campbell entered observer.
+[21:53:39	]PC-2 Hunter Campbell has gone afk.
+[21:56:24	]PC-2 Hunter Campbell is no longer afk. Total time spent AFK: 460
+[21:56:54	][IC] PC-2 Hunter Campbell: Hello and welcome to my essay on how to use Cinematic Camera plugin + other plugins gb has recently added.
+[21:57:12	][IC] PC-2 Hunter Campbell: You place the ENTITY Camera, not the toolgun camera first.
+[21:57:13	]PC-2 Hunter Campbell has spawned a 'Entity [265][ix_cutscenecamera]'.
+[21:57:33	][IC] PC-2 Hunter Campbell: Once it's placed, context menu it and set it's ID.
+[21:57:39	]PC-2 Hunter Campbell has used a context menu option with the name: ixsetcameraid
+[21:58:52	]Hayden (STEAM_0:1:22038366) has disconnected.
+[22:01:40	]Hayden has connected.
+[22:02:28	]Hayden loaded the character 'PC-2 Hunter Campbell'
+[22:02:36	]PC-2 Hunter Campbell entered observer.
+[22:02:56	][IC] PC-2 Hunter Campbell: Hello and welcome to my short essay on how gb's cinematic plugin works.
+[22:03:15	][IC] PC-2 Hunter Campbell: You spawn the Cinematic Camera as a ENTITY, you can't use the toolgun camera.
+[22:03:18	]PC-2 Hunter Campbell has spawned a 'Entity [265][ix_cutscenecamera]'.
+[22:03:35	][IC] PC-2 Hunter Campbell: This camera can't be seen by anyone unless if they're in observer.
+[22:03:35	]PC-2 Hunter Campbell exited observer at their location.
+[22:03:36	]PC-2 Hunter Campbell entered observer.
+[22:03:36	]PC-2 Hunter Campbell exited observer at their location.
+[22:03:37	]PC-2 Hunter Campbell entered observer.
+[22:03:37	]PC-2 Hunter Campbell exited observer at their location.
+[22:03:38	]PC-2 Hunter Campbell entered observer.
+[22:03:38	]PC-2 Hunter Campbell exited observer at their location.
+[22:03:38	]PC-2 Hunter Campbell entered observer.
+[22:03:39	]PC-2 Hunter Campbell exited observer at their location.
+[22:03:40	]PC-2 Hunter Campbell entered observer.
+[22:03:53	][IC] PC-2 Hunter Campbell: You have to set the camera to a specific ID through the context menu to work through commands.
+[22:03:58	]PC-2 Hunter Campbell has used a context menu option with the name: ixsetcameraid
+[22:04:14	][IC] PC-2 Hunter Campbell: Once it's placed and set, you can run the command I'll show next to check it's positioning.
+[22:04:22	]PC-2 Hunter Campbell used command '/CinematicCameraPlayer Hunter 2'.
+[22:04:35	][IC] PC-2 Hunter Campbell: And then this command to reset it for yourself (and anyone on the server).
+[22:04:39	]PC-2 Hunter Campbell used command '/ResetCinematicCamera'.
+[22:04:44	]PC-2 Hunter Campbell used command '/CinematicCameraPlayer Hunter 2'.
+[22:04:47	]PC-2 Hunter Campbell used command '/ResetCinematicCamera'.
+[22:04:53	]PC-2 Hunter Campbell used command '/CinematicCameraPlayer Hunter 2'.
+[22:04:57	]PC-2 Hunter Campbell used command '/ResetCinematicCamera'.
+[22:05:08	][IC] PC-2 Hunter Campbell: Once it's set, you can start propping or preparing the scene however you like.
+[22:05:18	]PC-2 Hunter Campbell has fired a toolgun with the name: creator
+[22:05:18	]PC-2 Hunter Campbell has spawned a 'NPC [282][npc_zombie]'.
+[22:05:19	]PC-2 Hunter Campbell has fired a toolgun with the name: creator
+[22:05:19	]PC-2 Hunter Campbell has spawned a 'NPC [308][npc_zombie]'.
+[22:05:19	]PC-2 Hunter Campbell has fired a toolgun with the name: creator
+[22:05:19	]PC-2 Hunter Campbell has spawned a 'NPC [283][npc_zombie]'.
+[22:05:20	]PC-2 Hunter Campbell has fired a toolgun with the name: creator
+[22:05:20	]PC-2 Hunter Campbell has spawned a 'NPC [326][npc_zombie]'.
+[22:05:20	]PC-2 Hunter Campbell has fired a toolgun with the name: creator
+[22:05:20	]PC-2 Hunter Campbell has spawned a 'NPC [327][npc_zombie]'.
+[22:05:21	]PC-2 Hunter Campbell has fired a toolgun with the name: creator
+[22:05:21	]PC-2 Hunter Campbell has spawned a 'NPC [387][npc_zombie]'.
+[22:05:21	]PC-2 Hunter Campbell has fired a toolgun with the name: creator
+[22:05:21	]PC-2 Hunter Campbell has spawned a 'NPC [388][npc_zombie]'.
+[22:05:21	]PC-2 Hunter Campbell has fired a toolgun with the name: creator
+[22:05:21	]PC-2 Hunter Campbell has spawned a 'NPC [389][npc_zombie]'.
+[22:05:22	]PC-2 Hunter Campbell has fired a toolgun with the name: creator
+[22:05:22	]PC-2 Hunter Campbell has spawned a 'NPC [390][npc_zombie]'.
+[22:05:26	]PC-2 Hunter Campbell used command '/CinematicCameraPlayer Hunter 2'.
+[22:05:29	]PC-2 Hunter Campbell used command '/ResetCinematicCamera'.
+[22:05:36	]PC-2 Hunter Campbell exited observer at their location.
+[22:05:37	]PC-2 Hunter Campbell has gained a '30rnd MP Magazine' #2995592.
+[22:05:37	]PC-2 Hunter Campbell has lost a '30rnd MP Magazine' #2995591.
+[22:05:57	][IC] PC-2 Hunter Campbell: Before setting everyone (in a specific range) to see through the camera's POV you may want to use moviebars to make it look better.
+[22:06:06	]PC-2 Hunter Campbell used command '/MovieBars 1000'.
+[22:06:15	]PC-2 Hunter Campbell used command '/CinematicCamera 0 2'.
+[22:06:22	]PC-2 Hunter Campbell has gained level 16 in the Guns skill.
+[22:06:22	]PC-2 Hunter Campbell has critically hit npc_zombie in the right leg dealing 9 damage (CritChance was 0.41).
+[22:06:22	]PC-2 Hunter Campbell has hit npc_zombie in the right leg dealing 7 damage (CritChance was 0.41).
+[22:06:22	]PC-2 Hunter Campbell has critically hit npc_zombie in the right leg dealing 9 damage (CritChance was 0.41).
+[22:06:22	]PC-2 Hunter Campbell has hit npc_zombie in the chest dealing 10 damage (CritChance was 0.41).
+[22:06:23	]PC-2 Hunter Campbell has hit npc_zombie in the right arm dealing 7 damage (CritChance was 0.41).
+[22:06:23	]PC-2 Hunter Campbell has hit npc_zombie in the chest dealing 10 damage (CritChance was 0.41).
+[22:06:24	]PC-2 Hunter Campbell has gained a '30rnd MP Magazine' #2995591.
+[22:06:24	]PC-2 Hunter Campbell has lost a '30rnd MP Magazine' #2995592.
+[22:06:28	][IC] PC-2 Hunter Campbell: MP5 sucks.
+[22:06:34	][IC] PC-2 Hunter Campbell: Anyways, that's pretty much it.
+[22:06:43	]PC-2 Hunter Campbell used command '/EnterTextScreen'.
+[22:06:56	]PC-2 Hunter Campbell used command '/EditTextScreen'.
+[22:07:05	]PC-2 Hunter Campbell used command '/EnterTextScreen'.
+[22:07:14	]PC-2 Hunter Campbell used command '/EditTextScreen'.
+[22:07:19	]PC-2 Hunter Campbell used command '/EnterTextScreen'.
+[22:08:25	]PC-2 Hunter Campbell used command '/MovieBars 0'.
+[22:08:41	]PC-2 Hunter Campbell used command '/MovieBars 500'.
+[22:08:45	]PC-2 Hunter Campbell used command '/MovieBars 50000'.
+[22:09:08	][IC] PC-2 Hunter Campbell: Oh and to reset the moviebars you can also just set the range for the bars to 0. That's the only way to reset it.
+[22:09:11	]PC-2 Hunter Campbell used command '/MovieBars 0'.
+[22:09:21	][IC] PC-2 Hunter Campbell: Okay now that's all. Fr.
+[22:09:30	]PC-2 Hunter Campbell used command '/ResetCinematicCamera'.
+[22:14:58	]PC-2 Hunter Campbell has gone afk.
+[22:17:58	]PC-2 Hunter Campbell is no longer afk. Total time spent AFK: 475
+[22:18:26	]PC-2 Hunter Campbell entered observer.
+[22:18:27	]PC-2 Hunter Campbell has spawned a 'Entity [266][ix_cutscenecamera]'.
+[22:23:04	]PC-2 Hunter Campbell used command '/MovieBars 200'.
+[22:23:07	]PC-2 Hunter Campbell used command '/MovieBars 200'.
+[22:23:12	]PC-2 Hunter Campbell used command '/MovieBars 500'.
+[22:23:14	]PC-2 Hunter Campbell used command '/MovieBars 5000'.
+[22:26:33	]PC-2 Hunter Campbell used command '/MovieBars 0'.
+[22:31:38	]PC-2 Hunter Campbell has gone afk.
+[22:31:53	]PC-2 Hunter Campbell exited observer at their location.
+[22:31:53	]PC-2 Hunter Campbell is no longer afk. Total time spent AFK: 310
+[22:37:23	]PC-2 Hunter Campbell has gone afk.
+[22:49:23	]PC-2 Hunter Campbell is no longer afk. Total time spent AFK: 1015
+[22:49:26	]Hayden (STEAM_0:1:22038366) has disconnected.

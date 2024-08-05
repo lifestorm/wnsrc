@@ -1,0 +1,12 @@
+{
+    "title": "VyHub GMOD",
+    "description": "",
+    "type": "servercontent",
+    "tags": [
+        "fun"
+    ],
+    "ignore": [
+        ".git/*",
+        "README.md"
+    ]
+}

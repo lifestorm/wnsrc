@@ -1,0 +1,473 @@
+[09:42:31	]Mango has connected.
+[09:45:36	]Mango created the character 'Banana'
+[09:45:36	]Mango loaded the character 'Banana'
+[09:45:36	]Banana has gained a '#72159's Identity Card' #1652326.
+[09:45:36	]Banana has gained a 'Vortigaunt Brown Trousers' #1652327.
+[09:45:49	]Banana entered observer.
+[09:46:17	]Banana used the 'John Doe' vendor.
+[09:46:28	]Banana exited observer.
+[09:46:36	]Banana entered observer.
+[09:46:42	]Banana exited observer at their location.
+[09:46:49	]Banana has spawned a 'Entity [522][ix_terminal]'.
+[09:46:52	]Banana has spawned a 'Entity [523][ix_terminal]'.
+[09:46:53	]Banana has spawned a 'Entity [522][ix_terminal]'.
+[09:47:16	]Banana has spawned a 'Entity [523][ix_rationdispenser]'.
+[09:47:20	]Banana has acquired his ration, gaining 0 credits, 0 wages and a ration ration.
+[09:47:45	]Banana ran 'Open' on item 'Ration' (#1652328)
+[09:47:45	]Banana has gained a 'Artificial Paste' #1652329.
+[09:47:45	]Banana has gained a 'Breen's Water' #1652330.
+[09:47:45	]Banana has gained a 'Basic Credits Coupon' #1652331.
+[09:47:51	]Banana ran 'Use' on item 'Basic Credits Coupon' (#1652331)
+[09:47:53	]Banana has used a coupon at a ration dispenser, gaining 15 credits.
+[09:49:39	][IC] Banana: A.
+[09:49:42	]Banana used command '/SetDatafilePoints banana 200'.
+[09:58:00	]Mango (STEAM_0:0:544539350) has disconnected.
+[14:37:09	]Tactically Edgy has connected.
+[14:53:54	]Tactically Edgy created the character 'Elias 	Müller'
+[14:53:54	]Elias 	Müller has gained a '#07297's Identity Card' #1652332.
+[14:53:54	]Elias 	Müller has gained a 'Grey Jumpsuit' #1652333.
+[14:53:54	]Tactically Edgy loaded the character 'Elias 	Müller'
+[14:53:54	]Elias 	Müller has gained a 'Red Jumpsuit Trousers' #1652334.
+[14:53:54	]Elias 	Müller has gained a 'Glasses' #1652335.
+[14:54:28	]Elias 	Müller ran 'take' on item '30rnd AK-magazine' (#1651865)
+[14:54:28	]Elias 	Müller has gained a '30rnd AK-magazine' #1651865.
+[14:54:32	]Elias 	Müller ran 'take' on item '30rnd AK-magazine' (#1651866)
+[14:54:32	]Elias 	Müller has gained a '30rnd AK-magazine' #1651866.
+[14:54:35	]Elias 	Müller ran 'take' on item 'Blue Jumpsuit' (#1651872)
+[14:54:35	]Elias 	Müller has gained a 'Blue Jumpsuit' #1651872.
+[14:54:37	]Elias 	Müller ran 'take' on item '30rnd AK-magazine' (#1651867)
+[14:54:37	]Elias 	Müller has gained a '30rnd AK-magazine' #1651867.
+[14:54:39	]Elias 	Müller ran 'drop' on item '30rnd AK-magazine' (#1651865)
+[14:54:39	]Elias 	Müller has lost a '30rnd AK-magazine' #1651865.
+[14:54:40	]Elias 	Müller ran 'drop' on item '30rnd AK-magazine' (#1651866)
+[14:54:40	]Elias 	Müller has lost a '30rnd AK-magazine' #1651866.
+[14:54:43	]Elias 	Müller ran 'drop' on item 'Blue Jumpsuit' (#1651872)
+[14:54:43	]Elias 	Müller has lost a 'Blue Jumpsuit' #1651872.
+[14:55:17	]Elias 	Müller used command '/LinkAccount https://willard.network/forums/account/'.
+[14:55:34	]Elias 	Müller used command '/LinkAccount https://willard.network/forums/members/tactically-edgy.5174/'.
+[14:55:54	]Elias 	Müller used command '/LinkComplete 2flp5pSJQhSx'.
+[14:56:57	]Tactically Edgy has unloaded their "Elias 	Müller" character.
+[14:57:07	]Tactically Edgy loaded the character 'Elias 	Müller'
+[14:58:11	]Elias 	Müller has spawned 'models/props_c17/fence01b.mdl'.
+[14:58:15	]Elias 	Müller has spawned 'models/props_junk/wood_crate002a.mdl'.
+[14:58:33	]Elias 	Müller has spawned 'models/props_junk/wood_crate002a.mdl'.
+[14:58:39	]Elias 	Müller has spawned 'models/props_junk/wood_crate002a.mdl'.
+[14:58:42	]Elias 	Müller has spawned 'models/props_junk/wood_crate002a.mdl'.
+[14:58:46	]Elias 	Müller has spawned 'models/props_junk/MetalBucket02a.mdl'.
+[14:58:48	]Elias 	Müller has spawned 'models/props_junk/wood_crate002a.mdl'.
+[14:59:07	]Elias 	Müller has spawned 'models/props_junk/wood_crate002a.mdl'.
+[14:59:09	]Elias 	Müller has spawned 'models/props_junk/wood_crate002a.mdl'.
+[15:00:29	]Elias 	Müller has spawned 'models/props_junk/wood_crate002a.mdl'.
+[15:00:34	]Elias 	Müller has spawned 'models/props_junk/wood_crate002a.mdl'.
+[15:00:44	]Elias 	Müller has spawned 'models/props_junk/wood_crate002a.mdl'.
+[15:01:43	]Tactically Edgy (STEAM_0:1:552570998) has disconnected.
+[15:03:38	]Tactically Edgy has connected.
+[15:04:16	]Tactically Edgy loaded the character 'Elias 	Müller'
+[15:04:32	][IC] Elias 	Müller: Aaaaaaagh!
+[15:06:12	]Elias 	Müller has spawned 'models/props_c17/metalladder002.mdl'.
+[15:06:14	]Elias 	Müller has taken 10 damage from prop_physics.
+[15:06:17	]Elias 	Müller has spawned 'models/props_c17/metalladder002.mdl'.
+[15:06:51	]Elias 	Müller has fired a toolgun with the name: ladder
+[15:06:52	]Elias 	Müller has fired a toolgun with the name: ladder
+[15:06:56	]Elias 	Müller has fired a toolgun with the name: ladder
+[15:06:58	]Elias 	Müller has fired a toolgun with the name: ladder
+[15:07:15	]Tactically Edgy (STEAM_0:1:552570998) has disconnected.
+[15:50:57	]Mango has connected.
+[15:51:49	]Mango loaded the character 'Banana'
+[15:52:07	]Banana has used a context menu option with the name: remove
+[15:52:09	]Banana has used a context menu option with the name: remove
+[15:54:37	]Banana used command '/EnterTextScreen'.
+[15:54:58	]Banana used command '/EnterMeditation'.
+[15:55:05	]Banana used command '/ActIdle'.
+[15:55:42	]Banana used command '/ExitAct'.
+[15:55:47	]Banana used command '/EnterMeditation'.
+[15:55:58	]Banana has given himself a ing_xen_extract.
+[15:55:58	]Banana has gained a 'Antlion Extract' #1652336.
+[15:56:02	]Banana used command '/EnterMeditation'.
+[15:56:15	]Banana ran 'Consume' on item 'Antlion Extract' (#1652336)
+[15:56:30	]Banana used command '/EnterMeditation'.
+[15:56:53	]Banana used command '/CharGiveFlag banana q'.
+[16:08:35	]Mango has connected.
+[16:09:14	]Mango loaded the character 'Banana'
+[16:09:47	]Banana has fired a toolgun with the name: lamp
+[16:09:53	]Banana has fired a toolgun with the name: lamp
+[16:10:26	]Banana has fired a toolgun with the name: sh_persist
+[16:10:26	]Banana has enabled persistence for 'models/lamps/torch.mdl'.
+[16:10:32	]Banana has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[16:10:33	]Banana has fired a toolgun with the name: sh_persist
+[16:15:06	]Mango (STEAM_0:0:544539350) has disconnected.
+[17:12:29	]Mango has connected.
+[17:33:01	]Mango loaded the character 'Banana'
+[17:33:17	]Banana has fired a toolgun with the name: sh_persist
+[17:33:17	]Banana has disabled persistence for 'models/lamps/torch.mdl'.
+[17:33:26	]Banana has fired a toolgun with the name: lamp
+[17:33:29	]Banana has fired a toolgun with the name: lamp
+[17:33:47	]Banana has fired a toolgun with the name: sh_persist
+[17:33:47	]Banana has enabled persistence for 'models/lamps/torch.mdl'.
+[17:33:49	]Banana has fired a toolgun with the name: sh_persist
+[17:33:52	]Banana has fired a toolgun with the name: sh_persist
+[17:37:33	]Banana has fired a toolgun with the name: sh_persist
+[17:37:33	]Banana has disabled persistence for 'models/lamps/torch.mdl'.
+[17:37:34	]Banana has fired a toolgun with the name: sh_persist
+[17:37:34	]Banana has enabled persistence for 'models/lamps/torch.mdl'.
+[17:37:38	]Banana has fired a toolgun with the name: sh_persist
+[17:37:38	]Banana has disabled persistence for 'models/lamps/torch.mdl'.
+[17:37:41	]Banana has used a context menu option with the name: persist
+[17:37:43	]Banana has fired a toolgun with the name: sh_persist
+[17:37:43	]Banana has enabled persistence for 'models/lamps/torch.mdl'.
+[17:37:44	]Banana has fired a toolgun with the name: sh_persist
+[17:37:44	]Banana has disabled persistence for 'models/lamps/torch.mdl'.
+[17:37:51	]Banana has fired a toolgun with the name: remover
+[17:40:57	]Mango (STEAM_0:0:544539350) has disconnected.
+[18:15:46	]Hiros | Error 410 has connected.
+[18:19:22	]Mango has connected.
+[18:19:36	]Hiros | Error 410 loaded the character 'Golongo'
+[18:19:53	]Golongo ran 'Consume' on item 'Antlion Extract' (#1650140)
+[18:20:02	]Mango loaded the character 'Banana'
+[18:20:07	]Golongo used command '/ToggleRaise'.
+[18:20:11	]Banana entered observer.
+[18:20:14	]Banana exited observer at their location.
+[18:20:18	][IC] Golongo: Golonga.
+[18:20:20	][YVORT] Banana: Gulangalanga
+[18:20:22	]Golongo entered observer.
+[18:20:26	]Golongo exited observer at their location.
+[18:20:29	][IC] Banana: Kin.
+[18:20:29	][IC] Golongo: We serve.
+[18:20:31	][IC] Banana: My kin.
+[18:20:33	][IC] Banana: Our kin.
+[18:20:35	][VORT] Golongo: yes
+[18:20:35	][IC] Banana: Our sib.
+[18:20:39	][IC] Golongo: OUR.
+[18:20:42	][IC] Golongo: ARE YOU COMMUNIST.
+[18:20:44	][IC] Golongo: HUH.
+[18:20:49	][VORT] Banana: We are here yes we will say hello
+[18:20:54	][IC] Golongo: We provide hug.
+[18:20:57	][IC] Banana: Cooking.
+[18:21:01	][IC] Golongo: Cooking.
+[18:21:02	][IC] Banana: Cooking.
+[18:21:03	][IC] Golongo: Cooking.
+[18:21:04	][IC] Banana: HAHAHAHAH.
+[18:21:06	][IC] Golongo: Cooking.
+[18:21:08	][IC] Banana: Cooking.
+[18:21:09	][IC] Golongo: Cooking.
+[18:21:13	][IC] Banana: Yes...
+[18:21:22	][IC] Golongo: We are;  cooking. Meth;  yes.
+[18:21:23	][IC] Banana: The extract!
+[18:21:28	][IC] Banana: The grubs are nothing if not... Succulent.
+[18:21:30	][IC] Golongo: Cooking. Meth.
+[18:21:32	][IC] Banana: No.
+[18:21:34	][IC] Banana: There!
+[18:21:36	][IC] Banana: Here.
+[18:21:37	][IC] Golongo: There!
+[18:21:39	][IC] Banana: Come!
+[18:21:41	][IC] Banana: Come!
+[18:21:42	][IC] Golongo: PRO-TRECTRON.
+[18:21:44	][IC] Banana: HAHAHAHA.
+[18:21:45	][IC] Golongo: I will come.
+[18:21:48	][IC] Golongo: Come, come!
+[18:21:50	][IC] Banana: Okay okay so.
+[18:22:00	]Banana has fired a toolgun with the name: lamp
+[18:22:07	]Golongo has spawned 'models/props_c17/FurnitureTable002a.mdl'.
+[18:22:09	]Banana has fired a toolgun with the name: lamp
+[18:22:14	][IC] Golongo: How do you spawn that shit.
+[18:22:17	][IC] Golongo: W vort magicx.
+[18:22:20	][IC] Banana: Hahahah.
+[18:22:23	][IC] Banana: From the lamp tool.
+[18:22:24	]Golongo has fired a toolgun with the name: remover
+[18:22:27	][IC] Golongo: Oh it's.
+[18:22:28	][IC] Banana: In the spawnmenu.
+[18:22:30	][IC] Golongo: Toolbox.
+[18:22:32	][IC] Golongo: I MEAN.
+[18:22:33	][IC] Banana: Yes.
+[18:22:34	][IC] Golongo: TOOL.
+[18:22:35	]Golongo has fired a toolgun with the name: remover
+[18:22:38	][IC] Banana: Indeed...
+[18:22:39	]Golongo has used a context menu option with the name: persist
+[18:22:48	]Golongo has used a context menu option with the name: persist
+[18:22:49	]Golongo has used a context menu option with the name: persist
+[18:22:50	]Golongo has used a context menu option with the name: persist
+[18:22:54	][IC] Golongo: I can't persist.
+[18:22:56	]Golongo has used a context menu option with the name: persist
+[18:22:59	][IC] Golongo: UNLESS.
+[18:23:02	][IC] Banana: Its with the tool.
+[18:23:03	][IC] Golongo: There is tool?
+[18:23:05	][IC] Golongo: Oh.
+[18:23:05	][IC] Banana: Yes.
+[18:23:09	]Golongo has fired a toolgun with the name: sh_persist
+[18:23:09	]Golongo has enabled persistence for 'models/lamps/torch.mdl'.
+[18:23:15	]Golongo has used a context menu option with the name: persist_end
+[18:23:37	][IC] Banana: Okay so.
+[18:23:41	][IC] Banana: When it's persisted you can't move it.
+[18:23:44	][IC] Banana: With the gun.
+[18:23:44	]Golongo has fired a toolgun with the name: sh_persist
+[18:23:44	]Golongo has disabled persistence for 'models/lamps/torch.mdl'.
+[18:23:51	]Golongo has fired a toolgun with the name: sh_persist
+[18:23:51	]Golongo has enabled persistence for 'models/lamps/torch.mdl'.
+[18:23:57	][IC] Golongo: HA.
+[18:24:00	][IC] Golongo: I BROKE IT.
+[18:24:04	][IC] Golongo: HUHUHUUH.
+[18:24:06	][IC] Banana: How how.
+[18:24:10	][IC] Golongo: So.
+[18:24:21	][IC] Golongo: Basically you freeze it right.
+[18:24:24	]Golongo has fired a toolgun with the name: sh_persist
+[18:24:24	]Golongo has disabled persistence for 'models/lamps/torch.mdl'.
+[18:24:32	][IC] Golongo: Persist it.
+[18:24:35	]Golongo has fired a toolgun with the name: sh_persist
+[18:24:35	]Golongo has enabled persistence for 'models/lamps/torch.mdl'.
+[18:24:40	]Banana has fired a toolgun with the name: sh_persist
+[18:24:40	]Banana has disabled persistence for 'models/lamps/torch.mdl'.
+[18:24:41	][IC] Golongo: Try to grab it w physgun.
+[18:24:49	][IC] Golongo: Wait you.
+[18:24:50	][IC] Golongo: Nvm.
+[18:24:55	][IC] Golongo: Freeze.
+[18:24:56	]Golongo has fired a toolgun with the name: sh_persist
+[18:24:56	]Golongo has enabled persistence for 'models/lamps/torch.mdl'.
+[18:24:58	][IC] Golongo: Try now.
+[18:25:09	][IC] Golongo: Now press R twice.
+[18:25:12	][IC] Golongo: W physgun.
+[18:25:21	][IC] Golongo: Hehe.
+[18:25:26	][IC] Golongo: Cooking.
+[18:25:27	][IC] Banana: Uuuuu wait.
+[18:25:32	]Banana has fired a toolgun with the name: sh_persist
+[18:25:32	]Banana has disabled persistence for 'models/lamps/torch.mdl'.
+[18:25:38	][IC] Banana: Its because it's persisted tho.
+[18:25:40	][IC] Golongo: It's common unfreeze for props.
+[18:25:46	][IC] Golongo: Its because it's frozen.
+[18:25:56	][IC] Golongo: Double R unfreezes what you are looking at.
+[18:26:00	][IC] Golongo: Lemme show example.
+[18:26:03	]Golongo has spawned 'models/props_c17/gravestone004a.mdl'.
+[18:26:14	]Golongo has enabled persistence for 'models/props_c17/gravestone004a.mdl'.
+[18:26:14	]Golongo has used a context menu option with the name: persist
+[18:26:17	][IC] Banana: But where did it break it?
+[18:26:19	]Golongo has used a context menu option with the name: remove
+[18:26:24	][IC] Golongo: Well, nvm.
+[18:26:32	][IC] Golongo: I thought you can't unfreeze props w double R.
+[18:26:35	]Golongo has used a context menu option with the name: persist
+[18:26:39	][IC] Banana: Cooking.
+[18:26:43	][IC] Golongo: Cooking.
+[18:26:48	][IC] Banana: Forward. Cooking. Gulanga.
+[18:26:52	][IC] Golongo: Does it work w.
+[18:26:54	][IC] Golongo: Lamps?
+[18:26:55	][IC] Golongo: Or lights.
+[18:27:02	]Golongo has fired a toolgun with the name: light
+[18:27:06	][IC] Banana: Uhhh- atle only asked me for lamps.
+[18:27:10	][IC] Golongo: Ah oke.
+[18:27:17	]Golongo has fired a toolgun with the name: sh_persist
+[18:27:17	]Golongo has enabled persistence for 'models/lamps/torch.mdl'.
+[18:27:21	]Golongo has used a context menu option with the name: rb655_lamp_off
+[18:27:22	]Golongo has used a context menu option with the name: rb655_lamp_on
+[18:27:26	][IC] Banana: I can restart.
+[18:27:29	][IC] Banana: To see if its still there.
+[18:27:30	][IC] Golongo: I can.
+[18:27:33	]Golongo ran SAM command 'menu' with arguments: ''
+[18:27:34	][IC] Banana: Oh oki.
+[18:27:39	][IC] Banana: Wait its persisted?
+[18:27:42	][IC] Golongo: Yes.
+[18:27:44	][IC] Banana: Yes.
+[18:27:46	][IC] Banana: No.
+[18:27:50	][IC] Golongo: FUUUUUUUUUUUUU.
+[18:27:51	][IC] Golongo: Hold on.
+[18:27:52	][IC] Banana: Yes.
+[18:27:55	][IC] Banana: Yes.
+[18:27:57	][IC] Golongo: AAAAAAAAAAAAAAAAAAAAAA.
+[18:27:59	][IC] Banana: Hahahaha.
+[18:28:03	][IC] Golongo: Lemme ask votton to do restart.
+[18:28:10	][IC] Banana: Nono wait.
+[18:28:12	][IC] Banana: I can do it.
+[18:31:23	]Hiros | Error 410 has connected.
+[18:32:15	]Hiros | Error 410 loaded the character 'Golongo'
+[18:32:30	]Golongo has used a context menu option with the name: persist_end
+[18:32:50	][IC] Golongo: Cooking.
+[18:32:56	]Golongo used command '/ToggleRaise'.
+[18:33:00	]Golongo used command '/ToggleRaise'.
+[18:33:16	]Golongo used command '/EnterMeditation'.
+[18:33:26	]Golongo used command '/EnterMeditation'.
+[18:33:27	]Golongo used command '/EnterMeditation'.
+[18:33:28	]Golongo used command '/EnterMeditation'.
+[18:33:29	]Golongo used command '/EnterMeditation'.
+[18:33:29	]Golongo used command '/EnterMeditation'.
+[18:33:30	]Golongo used command '/EnterMeditation'.
+[18:34:06	][IC] Golongo: A moment longer.
+[18:34:18	][IC] Golongo: Now, attend well. Apply pressure to your pheropod, to signal the antlions in your command to follow you.
+[18:34:28	][IC] Golongo: Dey'nahh?
+[18:34:35	][IC] Golongo: We have endured these chafing bonds for eons, yet a single moment of further servitude seems intolerable!
+[18:34:41	]Golongo used command '/ActIdle'.
+[18:34:51	]Golongo entered observer.
+[18:34:52	]Golongo exited observer at their location.
+[18:34:53	][IC] Golongo: But I cannot hope to bring it back alone.
+[18:35:02	][IC] Golongo: We have endured these chafing bonds for eons, yet a single moment of further servitude seems intolerable!
+[18:35:16	][IC] Golongo: A human is needed!
+[18:35:27	][IC] Golongo: Yet many more remain.
+[18:35:35	][IC] Golongo: Accept energy.
+[18:35:45	][IC] Golongo: Attend, now and learn to shepherd antlions with this so-called bug-bait.
+[18:36:03	][IC] Golongo: Your song we sing and shall sing for eternity. No matter the consequences of this struggle.
+[18:36:08	]Mango has connected.
+[18:36:14	][IC] Golongo: Communion of the vortessence, and that other: a deeper mystery. No deeper than the void itself.
+[18:36:37	][IC] Golongo: But how... How shall we descend?
+[18:36:51	][IC] Golongo: By our honor.
+[18:37:19	][IC] Golongo: It is good now that we work together.
+[18:37:35	]Golongo used command '/EnterMeditation'.
+[18:37:36	]Golongo used command '/ExitAct'.
+[18:37:39	]Mango loaded the character 'Banana'
+[18:37:41	][IC] Golongo: We are a tapestry woven of vortessence. It is the same for you if only you would see it.
+[18:37:53	][IC] Banana: Accept.
+[18:37:55	][IC] Banana: Accept the charge.
+[18:37:58	][IC] Golongo: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[18:38:02	][IC] Banana: *Coughing*.
+[18:38:04	][IC] Banana: Cough2.
+[18:38:06	][IC] Banana: Cough1.
+[18:38:08	][IC] Banana: *Coughing*.
+[18:38:09	][LOOC] Golongo: VORTHUM
+[18:38:11	][IC] Banana: Cooking.
+[18:38:16	][IC] Golongo: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing* cooking.
+[18:38:26	][IC] Banana: Im laughing so hard with the cooking.
+[18:38:30	][IC] Banana: Last time I did it IC.
+[18:38:35	][IC] Banana: I was laughing so much.
+[18:38:39	][IC] Banana: Cooking.
+[18:38:43	][IC] Golongo: Tbf Cooking is my favorite VC.
+[18:38:48	][IC] Banana: Cooking.
+[18:38:49	][IC] Banana: Cooking.
+[18:38:51	][IC] Golongo: Whenever i hear fucking Cooking VC.
+[18:38:56	][IC] Golongo: I'm like "Not again".
+[18:39:02	][IC] Golongo: No.
+[18:39:03	][IC] Golongo: Yes.
+[18:39:04	][IC] Banana: Pasjdafjp.
+[18:39:08	][IC] Golongo: Antlions!
+[18:39:09	]Golongo used command '/ToggleRaise'.
+[18:39:10	]Golongo used command '/ToggleRaise'.
+[18:39:14	][IC] Banana: Vort fight.
+[18:39:17	][IC] Golongo: Can we be of service?
+[18:39:29	][IC] Golongo: Enter...
+[18:39:35	][IC] Banana: Enter... The arena;  forward.
+[18:39:39	][IC] Golongo: Yes.
+[18:39:44	][IC] Banana: Lead on.
+[18:39:44	][IC] Golongo: Cooking arena.
+[18:39:47	][IC] Banana: Cooking.
+[18:39:47	][IC] Golongo: Cooking. Arena.
+[18:39:51	][IC] Banana: Ahahahahaha.
+[18:39:53	][IC] Golongo: Cooking.
+[18:39:55	][IC] Banana: Cooking.
+[18:39:57	][IC] Banana: Cooking.
+[18:39:58	][IC] Banana: Cooking.
+[18:39:59	][IC] Banana: Cooking.
+[18:40:02	][IC] Golongo: Wanna hear something cursed.
+[18:40:02	][IC] Banana: Cooking.
+[18:40:08	][IC] Golongo: Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking. Cooking.
+[18:40:13	][IC] Banana: Oh my fucking god.
+[18:40:15	][IC] Banana: Pin pong.
+[18:40:19	][IC] Golongo: Fucking machinegun.
+[18:40:28	][IC] Golongo: Come, come, come, come, come, come,.
+[18:40:29	][IC] Banana: Cooking.
+[18:40:31	][IC] Golongo: Hahaha.
+[18:40:34	][IC] Golongo: Come, come, come, come, come, come, come, come, come, come, come, come, come, come, come, come, come, come, come, come, come, come, come, come, come, come, come, come, come, come, come, come,.
+[18:40:36	][IC] Banana: Omg.
+[18:40:39	][IC] Banana: Lead on.
+[18:40:40	][IC] Golongo: Come!
+[18:40:48	][IC] Golongo: Come, cooking.
+[18:40:57	]Golongo has spawned a 'NPC [526][npc_antlion_schizo_drone]'.
+[18:40:59	][IC] Banana: Where are we going.
+[18:40:59	][IC] Golongo: Antlions!
+[18:40:59	]Golongo has taken 8 damage from Antlion Drone.
+[18:40:59	]Banana has taken 8 damage from Antlion Drone.
+[18:41:00	]Golongo has taken 15 damage from Antlion Drone.
+[18:41:02	][IC] Golongo: Cooking.
+[18:41:02	]Golongo has taken 8 damage from Antlion Drone.
+[18:41:05	]Banana has taken 7 damage from Antlion Drone.
+[18:41:06	]Golongo used command '/ToggleRaise'.
+[18:41:06	]Banana has taken 9 damage from Antlion Drone.
+[18:41:10	]Golongo has spawned a 'NPC [526][npc_antlion_schizo_soldier]'.
+[18:41:11	]Golongo has spawned a 'NPC [527][npc_antlion_schizo_fireant]'.
+[18:41:11	]Golongo has spawned a 'NPC [529][npc_antlion_schizo_drone]'.
+[18:41:13	]Golongo has spawned a 'NPC [545][npc_antlion_schizo_soldier]'.
+[18:41:15	]Golongo has taken 30 damage from Antlion Fireant.
+[18:41:19	]Golongo has taken 10 damage from Antlion Fireant.
+[18:41:20	]Golongo has taken 7 damage from Antlion Drone.
+[18:41:20	]Golongo has taken 15 damage from Antlion Drone.
+[18:41:27	]Golongo has taken 4 damage from Antlion Soldier.
+[18:41:27	]Banana has taken 4 damage from Antlion Soldier.
+[18:41:29	]Banana has taken 6 damage from Antlion Soldier.
+[18:41:29	]Golongo used command '/ToggleRaise'.
+[18:41:36	]Golongo has taken 9 damage from Antlion Drone.
+[18:41:37	]Golongo has taken 8 damage from Antlion Drone.
+[18:41:37	]Golongo has taken 51 damage from Banana.
+[18:41:38	]Golongo has taken 9 damage from Antlion Drone.
+[18:41:39	]Golongo has taken 8 damage from Antlion Drone.
+[18:41:40	]Golongo has taken 9 damage from Antlion Drone.
+[18:41:41	][IC] Golongo: Cooking.
+[18:41:43	]Golongo has taken 7 damage from Antlion Drone.
+[18:41:43	]Banana has taken 7 damage from Antlion Drone.
+[18:41:44	]Golongo was knocked unconscious and is bleeding out.
+[18:41:44	]Banana has taken 7 damage from Antlion Drone.
+[18:41:45	]Golongo was killed while bleeding out.
+[18:41:45	]Antlion Drone has killed Golongo with npc_antlion_schizo_drone.
+[18:41:46	]Banana has taken 15 damage from Antlion Drone.
+[18:41:56	]Golongo ran SAM command 'goto' with arguments: 'banana'
+[18:41:58	][IC] Golongo: NOOOOOOOOOOO.
+[18:41:59	]Golongo has taken 40 damage from Banana.
+[18:41:59	][IC] Golongo: Cooking.
+[18:42:07	]Golongo used command '/EnterMeditation'.
+[18:42:08	][IC] Golongo: Wait.
+[18:42:10	]Banana used command '/EnterMeditation'.
+[18:42:11	]Golongo used command '/ActIdle'.
+[18:42:16	][IC] Golongo: There is one more cursed VC.
+[18:42:19	][IC] Golongo: That's on OTA.
+[18:42:20	][IC] Golongo: Sec.
+[18:42:22	]Golongo used command '/EnterMeditation'.
+[18:42:29	][IC] Banana: Forward.
+[18:42:29	]Hiros | Error 410 loaded the character 'S10/ORD.PAYBACK-85'
+[18:42:34	]S10/ORD.PAYBACK-85 is fully healed.
+[18:42:39	]S10/ORD.PAYBACK-85 ran SAM command 'goto' with arguments: 'bana'
+[18:42:42	]Banana used command '/EnterMeditation'.
+[18:42:43	][IC] S10/ORD.PAYBACK-85: <:: Cooking. ::>
+[18:42:47	][IC] S10/ORD.PAYBACK-85: <:: Listen to this. ::>
+[18:42:48	][IC] S10/ORD.PAYBACK-85: <:: No. ::>
+[18:42:50	][IC] S10/ORD.PAYBACK-85: <:: No. ::>
+[18:42:52	][IC] Banana: No.
+[18:42:57	][IC] S10/ORD.PAYBACK-85: <:: No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. ::>
+[18:42:59	][IC] Banana: Hahahh.
+[18:43:02	][IC] Banana: Oh fuck.
+[18:43:07	][IC] S10/ORD.PAYBACK-85: <:: There is one more. ::>
+[18:43:08	][IC] S10/ORD.PAYBACK-85: <:: Sec. ::>
+[18:43:25	]Banana used command '/EnterMeditation'.
+[18:43:29	][IC] S10/ORD.PAYBACK-85: <:: No. ::>
+[18:43:31	][IC] S10/ORD.PAYBACK-85: <:: No2. ::>
+[18:43:33	][IC] S10/ORD.PAYBACK-85: <:: Fuck. ::>
+[18:43:34	][IC] S10/ORD.PAYBACK-85: <:: Sec. ::>
+[18:43:40	]Hiros | Error 410 has unloaded their "S10/ORD.PAYBACK-85" character.
+[18:43:49	]Hiros | Error 410 loaded the character 'S10/EOW.LEADER-00'
+[18:43:54	]S10/EOW.LEADER-00 is fully healed.
+[18:43:58	][IC] S10/EOW.LEADER-00: <:: No. ::>
+[18:44:00	]Banana has used a context menu option with the name: remove
+[18:44:00	][IC] S10/EOW.LEADER-00: <:: No. ::>
+[18:44:13	]Banana has gained level 1 in the Vortessence skill.
+[18:44:16	][IC] S10/EOW.LEADER-00: <:: E. ::>
+[18:44:19	]S10/EOW.LEADER-00 ran 'EquipUn' on item 'Combine Filter' (#67566)
+[18:44:20	]S10/EOW.LEADER-00 ran 'drop' on item 'OTA Mask' (#1652)
+[18:44:20	]S10/EOW.LEADER-00 has lost a 'OTA Mask' #1652.
+[18:44:21	]Banana used command '/EnterMeditation'.
+[18:44:22	]S10/EOW.LEADER-00 ran 'take' on item 'OTA Mask' (#1652)
+[18:44:22	]S10/EOW.LEADER-00 has gained a 'OTA Mask' #1652.
+[18:44:22	][IC] S10/EOW.LEADER-00: E.
+[18:44:26	][IC] S10/EOW.LEADER-00: <:: No. ::>
+[18:44:35	]Banana entered observer.
+[18:44:38	]S10/EOW.LEADER-00 has given himself a uniform_ocs.
+[18:44:38	]S10/EOW.LEADER-00 has gained a 'Containment Uniform' #1652337.
+[18:44:42	]Banana ran SAM command 'goto' with arguments: 's'
+[18:44:52	]Banana exited observer at their location.
+[18:44:52	][IC] S10/EOW.LEADER-00: No.
+[18:44:56	][IC] S10/EOW.LEADER-00: <:: No. ::>
+[18:44:57	]Banana entered observer.
+[18:44:58	]Banana exited observer at their location.
+[18:45:00	][IC] S10/EOW.LEADER-00: <:: FUU. ::>
+[18:45:03	][IC] Banana: Yes.
+[18:45:05	]S10/EOW.LEADER-00 used command '/CharSetName ^'.
+[18:45:08	]S10/OCS.LEADER-00 used command '/CharSetName S10/EOW.LEADER-00 S10/OCS.LEADER-00'.
+[18:45:10	][IC] S10/OCS.LEADER-00: <:: No. ::>
+[18:45:13	][IC] S10/OCS.LEADER-00: <:: THERE WE GO. ::>
+[18:45:19	][IC] S10/OCS.LEADER-00: <:: No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. No. ::>
+[18:45:21	][IC] Banana: Omg.
+[18:45:25	][IC] Banana: Im dead.
+[18:45:28	]Banana ran SAM command 'slay' with arguments: 'ban'
+[18:45:28	][IC] S10/OCS.LEADER-00: <:: No. ::>
+[18:45:36	]Mango (STEAM_0:0:544539350) has disconnected.
+[18:45:38	]Hiros | Error 410 (STEAM_0:1:54068821) has disconnected.

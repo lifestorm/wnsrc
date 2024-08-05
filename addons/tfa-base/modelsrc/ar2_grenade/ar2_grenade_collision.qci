@@ -1,0 +1,10 @@
+
+$collisionmodel "ar2_grenade_physics.smd"
+{
+	$mass 5
+	$inertia 1
+	$damping 0
+	$rotdamping 0
+	$rootbone " "
+
+}

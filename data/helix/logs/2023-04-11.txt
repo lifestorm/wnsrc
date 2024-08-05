@@ -1,0 +1,98 @@
+[03:15:25	]Mikey has connected.
+[03:17:12	]Mikey created the character 'Beam City'
+[03:17:12	]Mikey has gained 20 chips.
+[03:17:12	]Beam City has gained a 'Flashlight' #1650275.
+[03:17:12	]Beam City has gained a '#83343's Identity Card' #1650276.
+[03:17:12	]Beam City has gained a 'Civilian Jumpsuit' #1650277.
+[03:17:12	]Beam City has gained a 'Red Jumpsuit Trousers' #1650278.
+[03:17:12	]Beam City has gained a 'Worn Brown Shoes' #1650279.
+[03:17:12	]Mikey loaded the character 'Beam City'
+[03:17:20	]Beam City used command '/ToggleGM'.
+[03:17:21	]Beam City entered observer.
+[03:17:27	]Beam City exited observer at their location.
+[03:17:28	]Beam City entered observer.
+[03:17:31	]Beam City exited observer at their location.
+[03:17:32	]Beam City entered observer.
+[03:17:35	]Beam City has spawned 'models/props_wasteland/cargo_container01b.mdl'.
+[03:17:40	]Beam City has spawned 'models/props_wasteland/cargo_container01b.mdl'.
+[03:17:48	]Beam City has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:17:53	]Beam City has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:17:56	]Beam City has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:17:58	]Beam City exited observer at their location.
+[03:18:04	]Beam City has spawned a torso_blue_kevlar.
+[03:18:05	]Beam City ran 'take' on item 'Blue Light Kevlar Uniform' (#1650280)
+[03:18:05	]Beam City has gained a 'Blue Light Kevlar Uniform' #1650280.
+[03:18:07	]Beam City has spawned a torso_blue_kevlar.
+[03:18:22	]Beam City has spawned a akm.
+[03:18:23	]Beam City has given himself a akm.
+[03:18:23	]Beam City has gained a 'AKM' #1650283.
+[03:18:37	]Beam City has spawned a magazine_ak_30rnd.
+[03:18:37	]Beam City has spawned a magazine_ak_30rnd.
+[03:18:38	]Beam City has spawned a magazine_ak_30rnd.
+[03:18:39	]Beam City has given himself a magazine_ak_30rnd.
+[03:18:39	]Beam City has gained a '30rnd AK-magazine' #1650287.
+[03:18:40	]Beam City has given himself a magazine_ak_30rnd.
+[03:18:40	]Beam City has gained a '30rnd AK-magazine' #1650288.
+[03:18:41	]Beam City has given himself a magazine_ak_30rnd.
+[03:18:41	]Beam City has gained a '30rnd AK-magazine' #1650289.
+[03:18:58	]Beam City has spawned a bullets_assaultrifle.
+[03:18:59	]Beam City has spawned a bullets_assaultrifle.
+[03:18:59	]Beam City has spawned a bullets_assaultrifle.
+[03:19:00	]Beam City has spawned a bullets_assaultrifle.
+[03:19:01	]Beam City has spawned a bullets_assaultrifle.
+[03:19:02	]Beam City has given himself a bullets_assaultrifle.
+[03:19:02	]Beam City has gained a 'Assault Rifle Bullets' #1650295.
+[03:19:03	]Beam City has given himself a bullets_assaultrifle.
+[03:19:03	]Beam City has gained a 'Assault Rifle Bullets' #1650296.
+[03:19:04	]Beam City has given himself a bullets_assaultrifle.
+[03:19:04	]Beam City has gained a 'Assault Rifle Bullets' #1650297.
+[03:19:04	]Beam City has given himself a bullets_assaultrifle.
+[03:19:04	]Beam City has gained a 'Assault Rifle Bullets' #1650298.
+[03:19:05	]Beam City has given himself a bullets_assaultrifle.
+[03:19:05	]Beam City has gained a 'Assault Rifle Bullets' #1650299.
+[03:19:06	]Beam City ran 'combine' on item '30rnd AK-magazine' (#1650288)
+[03:19:07	]Beam City ran 'combine' on item '30rnd AK-magazine' (#1650289)
+[03:19:07	]Beam City ran 'combine' on item '30rnd AK-magazine' (#1650287)
+[03:19:08	]Beam City ran 'Equip' on item 'AKM' (#1650283)
+[03:19:10	]Beam City has lost a '30rnd AK-magazine' #1650289.
+[03:19:13	]Beam City used command '/ToggleRaise'.
+[03:20:10	]Beam City used command '/CharDesc'.
+[03:20:20	]Beam City used command '/CharDesc'.
+[03:24:05	]Beam City used command '/ToggleRaise'.
+[03:24:06	]Beam City destroyed a 'Blue Light Kevlar Uniform' #1650281.
+[03:24:08	]Beam City destroyed a '30rnd AK-magazine' #1650284.
+[03:24:08	]Beam City destroyed a '30rnd AK-magazine' #1650286.
+[03:24:09	]Beam City destroyed a '30rnd AK-magazine' #1650285.
+[03:24:10	]Beam City destroyed a 'AKM' #1650282.
+[03:24:10	]Beam City destroyed a 'Assault Rifle Bullets' #1650294.
+[03:24:10	]Beam City destroyed a 'Assault Rifle Bullets' #1650293.
+[03:24:11	]Beam City destroyed a 'Assault Rifle Bullets' #1650291.
+[03:24:11	]Beam City destroyed a 'Assault Rifle Bullets' #1650292.
+[03:24:12	]Beam City has gained a '30rnd AK-magazine' #1650289.
+[03:24:12	]Beam City has lost a '30rnd AK-magazine' #1650288.
+[03:24:15	]Beam City used command '/ToggleRaise'.
+[03:24:16	]Beam City used command '/ToggleRaise'.
+[03:24:17	]Beam City destroyed a 'Assault Rifle Bullets' #1650290.
+[03:24:18	]Beam City used command '/ToggleRaise'.
+[03:24:20	]Mikey (STEAM_0:1:112147538) has disconnected.
+[07:02:37	]TheDeNuke has connected.
+[07:03:36	]TheDeNuke loaded the character 'Grendel'
+[07:03:41	]Grendel is fully healed.
+[07:04:04	]Grendel has given himself a vortigaunt_trousers_dark.
+[07:04:04	]Grendel has gained a 'Vortigaunt Dark Trousers' #1650300.
+[07:04:26	]Grendel used command '/EnterMeditation'.
+[07:05:05	]Grendel used command '/EnterMeditation'.
+[07:05:36	]Grendel has given himself a vortigaunt_torso_light3_tc.
+[07:05:36	]Grendel has gained a 'Vortigaunt Brown Trench Coat' #1650301.
+[07:07:05	]TheDeNuke (STEAM_0:0:24415625) has disconnected.
+[19:05:35	]Mango has connected.
+[19:15:00	]Mango (STEAM_0:0:544539350) has disconnected.
+[19:17:17	]Mango has connected.
+[19:18:11	]Mango (STEAM_0:0:544539350) has disconnected.
+[19:28:51	]Mango has connected.
+[19:29:39	]Mango (STEAM_0:0:544539350) has disconnected.
+[19:36:59	]Mango has connected.
+[19:43:28	]Mango has connected.
+[19:44:13	]Mango (STEAM_0:0:544539350) has disconnected.
+[19:51:07	]Mango has connected.
+[19:51:41	]Mango (STEAM_0:0:544539350) has disconnected.

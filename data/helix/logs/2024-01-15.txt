@@ -1,0 +1,354 @@
+[01:04:56	]Rabithunter has connected.
+[01:05:18	]Rabithunter loaded the character 'asdasdas'
+[01:05:31	]asdasdas has given himself a water_bucket.
+[01:05:31	]asdasdas has gained a 'Water Bucket' #2532.
+[01:07:51	]Rabithunter (STEAM_0:1:22394854) has disconnected.
+[01:08:53	]reece has connected.
+[01:10:34	]reece loaded the character 'fwafgawawf'
+[01:10:40	]fwafgawawf entered observer.
+[01:10:45	]fwafgawawf exited observer at their location.
+[01:10:48	]fwafgawawf ran SAM command 'hp' with arguments: 'f' '11111111'
+[01:11:07	]fwafgawawf has given himself a water_bucket.
+[01:11:07	]fwafgawawf has gained a 'Water Bucket' #2533.
+[01:11:09	]fwafgawawf has given himself a cont_lock_t1.
+[01:11:09	]fwafgawawf has gained a 'Padlock' #2534.
+[01:11:26	]fwafgawawf has given himself a tool_kettle.
+[01:11:27	]fwafgawawf has gained a 'Kettle' #2535.
+[01:12:28	]fwafgawawf entered observer.
+[01:12:29	]fwafgawawf exited observer at their location.
+[01:12:33	]fwafgawawf ran 'fill' on item 'Water Bucket' (#2533)
+[01:12:34	]fwafgawawf ran 'fill' on item 'Water Bucket' (#2533)
+[01:12:34	]fwafgawawf ran 'fill' on item 'Water Bucket' (#2533)
+[01:12:35	]fwafgawawf ran 'fill' on item 'Water Bucket' (#2533)
+[01:12:42	]fwafgawawf has given himself a seed_orange.
+[01:12:42	]fwafgawawf has gained a 'Orange seeds' #2536.
+[01:12:44	]fwafgawawf ran 'plant' on item 'Orange seeds' (#2536)
+[01:12:47	]fwafgawawf ran 'Water' on item 'Water Bucket' (#2533)
+[01:12:48	]fwafgawawf ran 'Water' on item 'Water Bucket' (#2533)
+[01:12:51	]fwafgawawf ran 'Water' on item 'Water Bucket' (#2533)
+[01:12:52	]fwafgawawf ran 'Water' on item 'Water Bucket' (#2533)
+[01:12:53	]fwafgawawf ran 'Water' on item 'Water Bucket' (#2533)
+[01:12:53	]fwafgawawf ran 'Water' on item 'Water Bucket' (#2533)
+[01:13:50	]fwafgawawf has given himself a advanced_fertilizer.
+[01:13:50	]fwafgawawf has gained a 'Advanced Fertilizer' #2537.
+[01:13:51	]fwafgawawf ran 'Water' on item 'Advanced Fertilizer' (#2537)
+[01:14:14	]fwafgawawf has performed the 'Harvest Plant' action, gaining 250 experience in cooking.
+[01:14:14	]fwafgawawf has gained a 'Pineapple' #2538.
+[01:14:14	]fwafgawawf has gained a 'Pineapple' #2539.
+[01:14:14	]fwafgawawf has gained a 'Pineapple' #2540.
+[01:14:14	]fwafgawawf has gained a 'Pineapple' #2541.
+[01:14:14	]fwafgawawf has gained a 'Pineapple' #2542.
+[01:14:14	]fwafgawawf has gained a 'Pineapple' #2543.
+[01:14:18	]fwafgawawf ran 'Consume' on item 'Pineapple' (#2543)
+[01:14:19	]fwafgawawf ran 'Consume' on item 'Pineapple' (#2542)
+[01:14:19	]fwafgawawf ran 'Consume' on item 'Pineapple' (#2541)
+[01:14:20	]fwafgawawf ran 'Consume' on item 'Pineapple' (#2540)
+[01:14:21	]fwafgawawf ran 'Consume' on item 'Pineapple' (#2538)
+[01:14:21	]fwafgawawf ran 'Consume' on item 'Pineapple' (#2539)
+[01:15:12	]reece (STEAM_0:1:158746618) has disconnected.
+[03:12:10	]Jolly Astro has connected.
+[03:12:59	]Jolly Astro loaded the character 'S10/OWS.GHOST-11'
+[03:13:09	]S10/OWS.GHOST-11 entered observer.
+[03:13:14	]S10/OWS.GHOST-11 exited observer at their location.
+[03:13:28	]S10/OWS.GHOST-11 used command '/ToggleRaise'.
+[03:14:12	]S10/OWS.GHOST-11 has performed the 'Harvest Plant' action, gaining 250 experience in cooking.
+[03:14:12	]S10/OWS.GHOST-11 has gained a 'Orange' #2544.
+[03:14:12	]S10/OWS.GHOST-11 has gained a 'Orange' #2545.
+[03:14:12	]S10/OWS.GHOST-11 has gained a 'Orange' #2546.
+[03:14:12	]S10/OWS.GHOST-11 has gained a 'Orange' #2547.
+[03:14:12	]S10/OWS.GHOST-11 has gained a 'Orange' #2548.
+[03:14:12	]S10/OWS.GHOST-11 has gained a 'Orange' #2549.
+[03:14:17	]S10/OWS.GHOST-11 ran 'Consume' on item 'Orange' (#2545)
+[03:14:17	]S10/OWS.GHOST-11 ran 'Consume' on item 'Orange' (#2546)
+[03:14:18	]S10/OWS.GHOST-11 ran 'Consume' on item 'Orange' (#2544)
+[03:14:19	]S10/OWS.GHOST-11 ran 'Consume' on item 'Orange' (#2548)
+[03:14:19	]S10/OWS.GHOST-11 ran 'Consume' on item 'Orange' (#2547)
+[03:14:20	]S10/OWS.GHOST-11 ran 'Consume' on item 'Orange' (#2549)
+[03:15:00	]S10/OWS.GHOST-11 has spawned a locked_infestation_control_barrel.
+[03:15:03	]S10/OWS.GHOST-11 ran 'take' on item 'Locked Infestation Control Barrel' (#2550)
+[03:15:03	]S10/OWS.GHOST-11 has gained a 'Locked Infestation Control Barrel' #2550.
+[03:15:04	]S10/OWS.GHOST-11 ran 'Place' on item 'Locked Infestation Control Barrel' (#2550)
+[03:15:14	]S10/OWS.GHOST-11 entered observer.
+[03:15:22	]S10/OWS.GHOST-11 exited observer at their location.
+[03:15:26	]S10/OWS.GHOST-11 ran 'drop' on item 'Locked Infestation Control Barrel' (#2550)
+[03:15:26	]S10/OWS.GHOST-11 has lost a 'Locked Infestation Control Barrel' #2550.
+[03:15:27	]S10/OWS.GHOST-11 has used a context menu option with the name: rb655_dissolve
+[03:15:29	]env_entity_dissolver destroyed a 'Locked Infestation Control Barrel' #2550.
+[03:15:45	]S10/OWS.GHOST-11 has spawned a 'Entity [209][ix_smuggler]'.
+[03:15:49	]S10/OWS.GHOST-11 entered observer.
+[03:15:56	]S10/OWS.GHOST-11 exited observer at their location.
+[03:16:13	]S10/OWS.GHOST-11 has spawned a 'Entity [209][wn_crop]'.
+[03:16:17	]S10/OWS.GHOST-11 has used a context menu option with the name: remove
+[03:16:22	]S10/OWS.GHOST-11 has spawned a 'Entity [209][ix_advancedcontainer]'.
+[03:16:32	]S10/OWS.GHOST-11 has used a context menu option with the name: remove
+[03:16:34	]S10/OWS.GHOST-11 has used a context menu option with the name: rb655_dissolve
+[03:16:36	]env_entity_dissolver destroyed a 'Empty milk carton' #2551.
+[03:17:15	]S10/OWS.GHOST-11 has used a context menu option with the name: rb655_self_destruct
+[03:17:44	]S10/OWS.GHOST-11 used command '/ToggleRaise'.
+[03:18:05	]S10/OWS.GHOST-11 used command '/ToggleRaise'.
+[03:18:46	]S10/OWS.GHOST-11 used command '/ToggleRaise'.
+[03:19:18	]S10/OWS.GHOST-11 used command '/ToggleRaise'.
+[03:19:25	]S10/OWS.GHOST-11 destroyed a 'Suitcase' #2425.
+[03:19:31	]S10/OWS.GHOST-11 used command '/ToggleRaise'.
+[03:19:48	]S10/OWS.GHOST-11 used command '/ToggleRaise'.
+[03:20:12	]S10/OWS.GHOST-11 used command '/ToggleRaise'.
+[03:20:19	]S10/OWS.GHOST-11 used command '/ToggleRaise'.
+[03:20:31	]S10/OWS.GHOST-11 opened the 'Large Metal Cabinet' #164 container.
+[03:20:34	]S10/OWS.GHOST-11 closed the 'Large Metal Cabinet' #164 container.
+[03:20:35	]S10/OWS.GHOST-11 opened the 'Large Metal Cabinet' #165 container.
+[03:20:37	]S10/OWS.GHOST-11 closed the 'Large Metal Cabinet' #165 container.
+[03:20:39	]S10/OWS.GHOST-11 opened the 'Large Metal Cabinet' #169 container.
+[03:20:43	]S10/OWS.GHOST-11 closed the 'Large Metal Cabinet' #169 container.
+[03:20:43	]S10/OWS.GHOST-11 opened the 'Large Metal Cabinet' #168 container.
+[03:20:46	]S10/OWS.GHOST-11 has gained a 'Biopaste' #905 from a container with the name 'Large Metal Cabinet' #168.
+[03:20:46	]S10/OWS.GHOST-11 closed the 'Large Metal Cabinet' #168 container.
+[03:21:06	]S10/OWS.GHOST-11 ran 'take' on item 'Data-Disc' (#766)
+[03:21:06	]S10/OWS.GHOST-11 has gained a 'Data-Disc' #766.
+[03:21:14	]S10/OWS.GHOST-11 ran 'drop' on item 'Data-Disc' (#766)
+[03:21:14	]S10/OWS.GHOST-11 has lost a 'Data-Disc' #766.
+[03:21:30	]S10/OWS.GHOST-11 has spawned a drink_white_wine.
+[03:21:43	]S10/OWS.GHOST-11 has used a context menu option with the name: remove
+[03:22:07	]S10/OWS.GHOST-11 has spawned a comfort_beef.
+[03:22:15	]S10/OWS.GHOST-11 has used a context menu option with the name: remove
+[03:22:17	]S10/OWS.GHOST-11 has spawned a bird_fillet.
+[03:22:22	]S10/OWS.GHOST-11 has used a context menu option with the name: remove
+[03:22:26	]S10/OWS.GHOST-11 has spawned a comfort_pancake.
+[03:22:32	]S10/OWS.GHOST-11 has used a context menu option with the name: remove
+[03:22:33	]S10/OWS.GHOST-11 has spawned a proc_nutrient_bar.
+[03:22:41	]S10/OWS.GHOST-11 has used a context menu option with the name: remove
+[03:22:55	]S10/OWS.GHOST-11 has spawned a artificial_meatpaste.
+[03:23:02	]S10/OWS.GHOST-11 has used a context menu option with the name: remove
+[03:23:07	]S10/OWS.GHOST-11 has spawned a oldrevolver.
+[03:23:14	]S10/OWS.GHOST-11 has used a context menu option with the name: remove
+[03:23:38	]S10/OWS.GHOST-11 has spawned a tool_metalbench.
+[03:23:42	]S10/OWS.GHOST-11 has fired a toolgun with the name: nocollideworld
+[03:23:55	]S10/OWS.GHOST-11 has used a context menu option with the name: remove
+[03:26:53	]S10/OWS.GHOST-11 has given himself a expo_campingbag.
+[03:26:54	]S10/OWS.GHOST-11 has gained a 'Camping Bag' #2560.
+[03:26:58	]S10/OWS.GHOST-11 ran 'drop' on item 'Camping Bag' (#2560)
+[03:26:58	]S10/OWS.GHOST-11 has lost a 'Camping Bag' #2560.
+[03:27:01	]S10/OWS.GHOST-11 has used a context menu option with the name: remove
+[03:27:12	]S10/OWS.GHOST-11 has given himself a drug_amph_a.
+[03:27:12	]S10/OWS.GHOST-11 has gained a 'CLASS A Amphetamine' #2561.
+[03:27:17	]S10/OWS.GHOST-11 ran 'Consume' on item 'CLASS A Amphetamine' (#2561)
+[03:27:17	]S10/OWS.GHOST-11 has gained a level 6 long boost in Strength.
+[03:27:17	]S10/OWS.GHOST-11 has gained a level 4 long boost in Agility.
+[03:27:17	]S10/OWS.GHOST-11 has gained a level -4 long boost in Intelligence.
+[03:27:17	]S10/OWS.GHOST-11 has gained a level 5 long boost in Perception.
+[03:27:17	]S10/OWS.GHOST-11 has gained a 'Syringe' #2562.
+[03:27:20	]S10/OWS.GHOST-11 has given himself a drug_amph_b.
+[03:27:20	]S10/OWS.GHOST-11 has gained a 'CLASS B Amphetamine' #2563.
+[03:27:25	]S10/OWS.GHOST-11 ran 'Consume' on item 'CLASS B Amphetamine' (#2563)
+[03:27:25	]S10/OWS.GHOST-11 has wasted a level 5 long boost in Strength (current: 0; target: 6).
+[03:27:25	]S10/OWS.GHOST-11 has wasted a level 3 long boost in Agility (current: 0; target: 4).
+[03:27:25	]S10/OWS.GHOST-11 has updated their Intelligence long boost target to -3 (current : 0).
+[03:27:25	]S10/OWS.GHOST-11 has wasted a level 3 long boost in Perception (current: 0; target: 5).
+[03:27:25	]S10/OWS.GHOST-11 has gained a 'Syringe' #2564.
+[03:27:30	]S10/OWS.GHOST-11 has taken 43 damage from worldspawn.
+[03:27:31	]S10/OWS.GHOST-11 entered observer.
+[03:27:32	]S10/OWS.GHOST-11 exited observer at their location.
+[03:27:37	]S10/OWS.GHOST-11 was knocked unconscious and is bleeding out.
+[03:27:40	]S10/OWS.GHOST-11 ran SAM command 'slay' with arguments: '^'
+[03:27:50	]S10/OWS.GHOST-11 used command '/ToggleRaise'.
+[03:27:58	]Jolly Astro (STEAM_0:1:86837969) has disconnected.
+[14:27:12	]Kranky has connected.
+[14:27:47	]Kranky (STEAM_0:1:110380124) deleted character 'Shitter'
+[14:27:49	]Kranky loaded the character 'froggy'
+[14:27:53	]froggy entered observer.
+[14:27:56	]froggy exited observer at their location.
+[14:28:56	]froggy ran 'take' on item 'AR-2' (#2463)
+[14:28:56	]froggy has gained a 'AR-2' #2463.
+[14:28:57	]froggy opened the 'Large Metal Cabinet' #164 container.
+[14:28:59	]froggy has gained a 'Resin' #2182 from a container with the name 'Large Metal Cabinet' #164.
+[14:29:00	]froggy closed the 'Large Metal Cabinet' #164 container.
+[14:29:00	]froggy opened the 'Large Metal Cabinet' #165 container.
+[14:29:02	]froggy closed the 'Large Metal Cabinet' #165 container.
+[14:29:05	]froggy ran 'take' on item 'Combine Battery' (#2497)
+[14:29:05	]froggy has gained a 'Combine Battery' #2497.
+[14:29:11	]froggy ran 'SetFullCharge' on item 'Combine Battery' (#2497)
+[14:29:13	]froggy ran 'drop' on item 'Combine Battery' (#2497)
+[14:29:13	]froggy has lost a 'Combine Battery' #2497.
+[14:29:21	]froggy ran 'take' on item 'Data-Disc' (#766)
+[14:29:21	]froggy has gained a 'Data-Disc' #766.
+[14:29:25	]froggy ran 'drop' on item 'Data-Disc' (#766)
+[14:29:25	]froggy has lost a 'Data-Disc' #766.
+[14:29:54	]froggy ran 'drop' on item 'AR-2' (#2463)
+[14:29:54	]froggy has lost a 'AR-2' #2463.
+[14:31:42	]froggy has taken 5 damage from ix_item.
+[14:31:42	]froggy has taken 5 damage from ix_item.
+[14:31:42	]froggy has taken 5 damage from ix_item.
+[14:31:47	]froggy has spawned a crossbowammo.
+[14:31:49	]froggy entered observer.
+[14:31:51	]froggy exited observer at their location.
+[14:31:53	]froggy has used a context menu option with the name: rb655_dissolve
+[14:31:55	]env_entity_dissolver destroyed a 'Crossbow Bolts' #2565.
+[14:32:02	]froggy has spawned a 50_coupon.
+[14:32:25	]froggy ran 'take' on item '50 Credits Coupon' (#2566)
+[14:32:25	]froggy has gained a '50 Credits Coupon' #2566.
+[14:32:48	]froggy has spawned a mask_com.
+[14:33:06	]froggy ran 'take' on item 'Advanced CP Mask' (#2567)
+[14:33:06	]froggy has gained a 'Advanced CP Mask' #2567.
+[14:33:08	]froggy has spawned a pda_cwu.
+[14:33:27	]froggy has spawned a comp_adhesive.
+[14:33:42	]froggy has spawned a comp_strong_adhesive.
+[14:34:00	]froggy has spawned a bird_nest.
+[14:34:05	]froggy has used a context menu option with the name: rb655_dissolve
+[14:34:07	]env_entity_dissolver destroyed a 'Bird Nest' #2571.
+[14:34:09	]froggy has spawned a collab_afternoon.
+[14:34:28	]froggy has spawned a rave.
+[14:35:02	]froggy has spawned a comfort_noodles.
+[14:35:13	]froggy has spawned a baking_cheesecake.
+[14:35:22	]froggy ran 'take' on item 'Cheesecake' (#2575)
+[14:35:22	]froggy has gained a 'Cheesecake' #2575.
+[14:35:24	]froggy ran 'Consume' on item 'Cheesecake' (#2575)
+[14:35:24	]froggy has gained a level 3 long boost in Intelligence.
+[14:35:24	]froggy has gained a level 5 long boost in Perception.
+[14:35:29	]froggy has spawned a proc_nutrient_bar.
+[14:35:47	]froggy has spawned a fruit_apple.
+[14:36:14	]froggy has spawned a biopaste.
+[14:36:26	]froggy has spawned a surgerykit.
+[14:36:53	]froggy has spawned a ing_sweet.
+[14:36:54	]froggy ran 'take' on item 'Granulated Sweet-Bar' (#2580)
+[14:36:54	]froggy has gained a 'Granulated Sweet-Bar' #2580.
+[14:36:56	]froggy ran 'drop' on item 'Granulated Sweet-Bar' (#2580)
+[14:36:56	]froggy has lost a 'Granulated Sweet-Bar' #2580.
+[14:37:03	]froggy ran 'take' on item 'Granulated Sweet-Bar' (#2580)
+[14:37:03	]froggy has gained a 'Granulated Sweet-Bar' #2580.
+[14:37:29	]froggy has spawned a clawhammer.
+[14:37:45	]froggy ran 'take' on item 'Combine Battery' (#705)
+[14:37:45	]froggy has gained a 'Combine Battery' #705.
+[14:37:47	]froggy ran 'drop' on item 'Combine Battery' (#705)
+[14:37:47	]froggy has lost a 'Combine Battery' #705.
+[14:37:59	]froggy ran 'take' on item 'Data-Disc' (#766)
+[14:37:59	]froggy has gained a 'Data-Disc' #766.
+[14:38:03	]froggy ran 'drop' on item 'Data-Disc' (#766)
+[14:38:03	]froggy has lost a 'Data-Disc' #766.
+[14:38:12	]froggy ran 'SetFullCharge' on item 'Combine Battery' (#704)
+[14:38:13	]froggy ran 'take' on item 'Combine Battery' (#704)
+[14:38:13	]froggy has gained a 'Combine Battery' #704.
+[14:38:16	]froggy ran 'drop' on item 'Combine Battery' (#704)
+[14:38:16	]froggy has lost a 'Combine Battery' #704.
+[14:38:57	]froggy ran 'take' on item 'Claw Hammer' (#2582)
+[14:38:57	]froggy has gained a 'Claw Hammer' #2582.
+[14:39:00	]froggy ran 'Equip' on item 'Claw Hammer' (#2582)
+[14:39:05	]froggy used command '/ToggleRaise'.
+[14:39:18	]froggy used command '/ToggleRaise'.
+[14:39:21	]froggy used command '/ToggleRaise'.
+[14:40:08	]froggy has spawned a rpg.
+[14:40:43	]froggy has spawned a rappel_gear.
+[14:40:50	]froggy has spawned a wrench.
+[14:41:02	]froggy ran 'take' on item 'Data-Disc' (#771)
+[14:41:02	]froggy has gained a 'Data-Disc' #771.
+[14:41:04	]froggy ran 'drop' on item 'Data-Disc' (#771)
+[14:41:04	]froggy has lost a 'Data-Disc' #771.
+[14:41:17	]froggy ran 'take' on item 'Data-Disc' (#771)
+[14:41:17	]froggy has gained a 'Data-Disc' #771.
+[14:41:22	]froggy ran 'drop' on item 'Data-Disc' (#771)
+[14:41:22	]froggy has lost a 'Data-Disc' #771.
+[14:41:30	]froggy ran 'take' on item 'Data-Disc' (#766)
+[14:41:30	]froggy has gained a 'Data-Disc' #766.
+[14:41:34	]froggy ran 'take' on item 'Data-Disc' (#771)
+[14:41:34	]froggy has gained a 'Data-Disc' #771.
+[14:41:38	]froggy ran 'drop' on item 'Data-Disc' (#771)
+[14:41:38	]froggy has lost a 'Data-Disc' #771.
+[14:41:51	]froggy opened the 'Large Metal Cabinet' #168 container.
+[14:41:53	]froggy closed the 'Large Metal Cabinet' #168 container.
+[14:41:54	]froggy opened the 'Large Metal Cabinet' #167 container.
+[14:41:55	]froggy closed the 'Large Metal Cabinet' #167 container.
+[14:41:56	]froggy opened the 'Large Metal Cabinet' #165 container.
+[14:41:58	]froggy has gained a 'Resin' #1941 from a container with the name 'Large Metal Cabinet' #165.
+[14:41:59	]froggy has gained a 'Resin' #1969 from a container with the name 'Large Metal Cabinet' #165.
+[14:41:59	]froggy has gained a 'Resin' #1878 from a container with the name 'Large Metal Cabinet' #165.
+[14:41:59	]froggy has gained a 'Resin' #1870 from a container with the name 'Large Metal Cabinet' #165.
+[14:42:00	]froggy closed the 'Large Metal Cabinet' #165 container.
+[14:42:05	]froggy ran 'drop' on item 'Resin' (#1941)
+[14:42:05	]froggy has lost a 'Resin' #1941.
+[14:42:06	]froggy ran 'take' on item 'Resin' (#1941)
+[14:42:06	]froggy has gained a 'Resin' #1941.
+[14:42:43	]froggy entered observer.
+[14:42:48	]froggy exited observer at their location.
+[14:42:58	]froggy ran 'take' on item 'Pipe Wrench' (#2586)
+[14:42:58	]froggy has gained a 'Pipe Wrench' #2586.
+[14:43:00	]froggy ran 'Equip' on item 'Pipe Wrench' (#2586)
+[14:43:02	]froggy ran 'EquipUn' on item 'Claw Hammer' (#2582)
+[14:43:03	]froggy ran 'Equip' on item 'Pipe Wrench' (#2586)
+[14:43:05	]froggy used command '/ToggleRaise'.
+[14:43:49	]Kranky (STEAM_0:1:110380124) has disconnected.
+[18:23:51	]ulterior has connected.
+[18:24:06	]ulterior loaded the character 'the one'
+[18:24:09	]the one entered observer.
+[18:24:11	]the one exited observer at their location.
+[18:24:23	]the one entered observer.
+[18:24:24	]the one exited observer at their location.
+[18:24:26	]the one ran 'drop' on item 'RPG-7' (#559)
+[18:24:26	]the one has lost a 'RPG-7' #559.
+[18:24:27	]the one ran 'EquipUn' on item 'SG556' (#558)
+[18:24:28	]the one ran 'Equip' on item 'SG556' (#558)
+[18:24:28	]the one used command '/ToggleRaise'.
+[18:24:29	]the one entered observer.
+[18:24:33	]the one exited observer at their location.
+[18:24:36	]the one entered observer.
+[18:24:43	]the one ran 'take' on item 'AR-2' (#2463)
+[18:24:43	]the one has gained a 'AR-2' #2463.
+[18:24:44	]the one ran 'Equip' on item 'AR-2' (#2463)
+[18:24:45	]the one used command '/ToggleRaise'.
+[18:24:46	]the one ran 'EquipUn' on item 'SG556' (#558)
+[18:24:46	]the one ran 'Equip' on item 'AR-2' (#2463)
+[18:24:47	]the one used command '/ToggleRaise'.
+[18:24:51	]the one ran 'EquipUn' on item 'AR-2' (#2463)
+[18:24:51	]the one ran 'drop' on item 'AR-2' (#2463)
+[18:24:51	]the one has lost a 'AR-2' #2463.
+[18:25:01	]the one exited observer at their location.
+[18:25:02	]the one entered observer.
+[18:25:03	]the one exited observer at their location.
+[18:25:05	]the one entered observer.
+[18:25:05	]the one exited observer at their location.
+[18:25:08	]the one entered observer.
+[18:25:08	]the one exited observer at their location.
+[18:25:10	]the one entered observer.
+[18:25:10	]the one exited observer at their location.
+[18:25:13	]the one entered observer.
+[18:25:13	]the one exited observer at their location.
+[18:25:16	]the one entered observer.
+[18:25:16	]the one exited observer at their location.
+[18:25:19	]the one has taken 130 damage from worldspawn.
+[18:25:21	]the one is fully healed.
+[18:25:22	]the one entered observer.
+[18:25:22	]the one exited observer at their location.
+[18:25:26	]the one entered observer.
+[18:25:26	]the one exited observer at their location.
+[18:25:26	]the one entered observer.
+[18:25:27	]the one exited observer at their location.
+[18:25:29	]the one entered observer.
+[18:25:30	]the one exited observer at their location.
+[18:25:32	]the one entered observer.
+[18:25:32	]the one exited observer at their location.
+[18:25:35	]the one has taken 81 damage from worldspawn.
+[18:25:36	]the one entered observer.
+[18:25:36	]the one is fully healed.
+[18:25:36	]the one exited observer at their location.
+[18:25:39	]the one entered observer.
+[18:25:39	]the one exited observer at their location.
+[18:25:43	]the one entered observer.
+[18:25:43	]the one exited observer at their location.
+[18:25:45	]the one entered observer.
+[18:25:45	]the one exited observer at their location.
+[18:25:49	]the one entered observer.
+[18:25:49	]the one exited observer at their location.
+[18:25:51	]the one entered observer.
+[18:25:51	]the one exited observer at their location.
+[18:25:56	]the one entered observer.
+[18:25:56	]the one exited observer at their location.
+[18:26:00	]the one has taken 132 damage from worldspawn.
+[18:26:00	]the one entered observer.
+[18:26:00	]the one exited observer at their location.
+[18:26:01	]the one is fully healed.
+[18:26:03	]the one entered observer.
+[18:26:03	]the one exited observer at their location.
+[18:26:04	]the one entered observer.
+[18:26:06	]the one exited observer at their location.
+[18:26:07	]the one entered observer.
+[18:26:12	]the one exited observer at their location.
+[18:26:14	]the one entered observer.
+[18:26:14	]the one exited observer at their location.
+[18:26:18	]ulterior (STEAM_0:0:137846702) has disconnected.

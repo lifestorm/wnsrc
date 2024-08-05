@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	$baseTexture  	"models\wystan\attachment2\doctor\linse"
+	$additive  "1"
+	$selfillum  "1"	
+
+}

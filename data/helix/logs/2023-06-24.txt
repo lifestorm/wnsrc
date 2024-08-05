@@ -1,0 +1,619 @@
+[04:16:41	]ISpilledMyRamen has connected.
+[04:17:15	]ISpilledMyRamen loaded the character 'Ulysses Nathius'
+[04:17:20	]Ulysses Nathius is fully healed.
+[04:17:32	]Ulysses Nathius used command '/LinkRemove'.
+[04:17:37	]Ulysses Nathius used command '/LinkAccount ramen'.
+[04:17:54	]Ulysses Nathius used command '/LinkComplete h7qvx9dqWi4y'.
+[04:17:58	]Ulysses Nathius has spawned 'models/props_c17/FurnitureCouch002a.mdl'.
+[04:19:59	]Console ran SAM command 'setrank' with arguments: 'uly' 'gamemaster'
+[04:20:45	][OOC] Ulysses Nathius: yippie!
+[04:21:00	]Ulysses Nathius has spawned a 'Entity [6324][ix_combinemonitor_small]'.
+[04:21:05	]Ulysses Nathius has spawned a 'Entity [6324][ix_crackedprinter]'.
+[04:21:15	]Ulysses Nathius has spawned a 'Entity [6324][arcade_pacman]'.
+[04:21:22	]Ulysses Nathius has spawned a 'Entity [6329][arcade_pong]'.
+[04:21:28	]Ulysses Nathius has spawned a 'Entity [6330][arcade_spaceinvaders]'.
+[04:21:45	]Ulysses Nathius has spawned a funnybugbait.
+[04:21:48	]Ulysses Nathius ran 'take' on item 'Pheropod' (#2046391)
+[04:21:48	]Ulysses Nathius has gained a 'Pheropod' #2046391.
+[04:21:51	]Ulysses Nathius ran 'Equip' on item 'Pheropod' (#2046391)
+[04:22:02	]Ulysses Nathius ran 'drop' on item 'Pheropod' (#2046391)
+[04:22:02	]Ulysses Nathius has lost a 'Pheropod' #2046391.
+[04:22:04	]Ulysses Nathius ran 'take' on item 'Pheropod' (#2046391)
+[04:22:04	]Ulysses Nathius has gained a 'Pheropod' #2046391.
+[04:22:19	]Ulysses Nathius has spawned a 'Entity [6324][npc_antlionguard_burrowed]'.
+[04:22:23	]Ulysses Nathius has spawned a 'NPC [6324][npc_antlion]'.
+[04:22:24	]Ulysses Nathius has taken 5 damage from npc_antlion.
+[04:22:26	]Ulysses Nathius has taken 5 damage from npc_antlion.
+[04:22:27	]Ulysses Nathius ran 'Equip' on item 'Pheropod' (#2046391)
+[04:22:28	]Ulysses Nathius has taken 5 damage from npc_antlion.
+[04:22:37	]Ulysses Nathius has spawned a 'NPC [6324][npc_headcrab_fast]'.
+[04:22:38	]Ulysses Nathius has spawned a 'NPC [6324][npc_headcrab_fast]'.
+[04:22:39	]Ulysses Nathius has taken 5 damage from npc_headcrab_fast.
+[04:22:41	]Ulysses Nathius has spawned a 'NPC [6328][npc_antlion]'.
+[04:22:42	]Ulysses Nathius has taken 5 damage from npc_antlion.
+[04:22:43	]Ulysses Nathius has taken 5 damage from npc_antlion.
+[04:22:48	]Ulysses Nathius ran 'EquipUn' on item 'Pheropod' (#2046391)
+[04:22:52	]Ulysses Nathius ran 'drop' on item 'Pheropod' (#2046391)
+[04:22:52	]Ulysses Nathius has lost a 'Pheropod' #2046391.
+[04:22:59	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:01	]Ulysses Nathius ran 'drop' on item 'Empty Breen's Water' (#2046378)
+[04:23:01	]Ulysses Nathius has lost a 'Empty Breen's Water' #2046378.
+[04:23:02	]Ulysses Nathius ran 'drop' on item 'Empty Breen's Water' (#2046385)
+[04:23:02	]Ulysses Nathius has lost a 'Empty Breen's Water' #2046385.
+[04:23:02	]Ulysses Nathius ran 'drop' on item 'Empty Breen's Water' (#2046384)
+[04:23:02	]Ulysses Nathius has lost a 'Empty Breen's Water' #2046384.
+[04:23:02	]Ulysses Nathius ran 'drop' on item 'Empty Breen's Water' (#2046379)
+[04:23:02	]Ulysses Nathius has lost a 'Empty Breen's Water' #2046379.
+[04:23:03	]Ulysses Nathius ran 'drop' on item 'Empty Breen's Water' (#2046383)
+[04:23:03	]Ulysses Nathius has lost a 'Empty Breen's Water' #2046383.
+[04:23:03	]Ulysses Nathius ran 'drop' on item 'Empty Breen's Water' (#2031401)
+[04:23:03	]Ulysses Nathius has lost a 'Empty Breen's Water' #2031401.
+[04:23:04	]Ulysses Nathius ran 'drop' on item 'Empty Breen's Water' (#2046388)
+[04:23:04	]Ulysses Nathius has lost a 'Empty Breen's Water' #2046388.
+[04:23:04	]Ulysses Nathius ran 'drop' on item 'Empty Breen's Water' (#2046382)
+[04:23:04	]Ulysses Nathius has lost a 'Empty Breen's Water' #2046382.
+[04:23:05	]Ulysses Nathius ran 'drop' on item 'Empty Breen's Water' (#2046381)
+[04:23:05	]Ulysses Nathius has lost a 'Empty Breen's Water' #2046381.
+[04:23:06	]Ulysses Nathius ran 'drop' on item 'Empty Breen's Water' (#2046387)
+[04:23:06	]Ulysses Nathius has lost a 'Empty Breen's Water' #2046387.
+[04:23:07	]Ulysses Nathius ran 'drop' on item 'Empty Breen's Water' (#2046376)
+[04:23:07	]Ulysses Nathius has lost a 'Empty Breen's Water' #2046376.
+[04:23:07	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:07	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:07	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:07	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:08	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:08	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:08	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:08	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:08	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:09	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:09	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:09	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:09	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:09	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:09	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:10	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:10	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:10	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:10	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:10	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:11	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:11	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:11	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:12	]Ulysses Nathius ran 'drop' on item 'Empty Breen's Water' (#2046377)
+[04:23:12	]Ulysses Nathius has lost a 'Empty Breen's Water' #2046377.
+[04:23:13	]Ulysses Nathius ran 'drop' on item 'Empty Breen's Water' (#2046380)
+[04:23:13	]Ulysses Nathius has lost a 'Empty Breen's Water' #2046380.
+[04:23:14	]Ulysses Nathius ran 'drop' on item 'Empty Breen's Water' (#2046375)
+[04:23:14	]Ulysses Nathius has lost a 'Empty Breen's Water' #2046375.
+[04:23:14	]Ulysses Nathius ran 'drop' on item 'Empty Breen's Water' (#2046386)
+[04:23:14	]Ulysses Nathius has lost a 'Empty Breen's Water' #2046386.
+[04:23:15	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:15	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:15	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:15	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:15	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:16	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:16	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:16	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:16	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:16	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:23:36	]Ulysses Nathius used command '/SetDatafilePoints Ulysses 400'.
+[04:23:53	]Ulysses Nathius has spawned a capda.
+[04:23:55	]Ulysses Nathius ran 'take' on item 'Civil Administration PDA' (#2046392)
+[04:23:55	]Ulysses Nathius has gained a 'Civil Administration PDA' #2046392.
+[04:23:56	]Ulysses Nathius ran 'Equip' on item 'Civil Administration PDA' (#2046392)
+[04:24:08	]Ulysses Nathius has spawned a pda.
+[04:24:08	]Ulysses Nathius has spawned a pda.
+[04:24:10	]Ulysses Nathius ran 'take' on item 'Combine PDA' (#2046394)
+[04:24:10	]Ulysses Nathius has gained a 'Combine PDA' #2046394.
+[04:24:13	]Ulysses Nathius has fired a toolgun with the name: remover
+[04:24:15	]Ulysses Nathius ran 'Equip' on item 'Combine PDA' (#2046394)
+[04:24:18	]Ulysses Nathius ran 'EquipUn' on item 'Civil Administration PDA' (#2046392)
+[04:24:18	]Ulysses Nathius ran 'Equip' on item 'Combine PDA' (#2046394)
+[04:24:26	]Ulysses Nathius ran 'EquipUn' on item 'Combine PDA' (#2046394)
+[04:24:28	]Ulysses Nathius has spawned a pda_cmu.
+[04:24:30	]Ulysses Nathius ran 'take' on item 'CMRU PDA' (#2046395)
+[04:24:30	]Ulysses Nathius has gained a 'CMRU PDA' #2046395.
+[04:24:31	]Ulysses Nathius ran 'drop' on item 'CMRU PDA' (#2046395)
+[04:24:31	]Ulysses Nathius has lost a 'CMRU PDA' #2046395.
+[04:24:32	]Ulysses Nathius ran 'take' on item 'CMRU PDA' (#2046395)
+[04:24:32	]Ulysses Nathius has gained a 'CMRU PDA' #2046395.
+[04:25:33	]Ulysses Nathius used command '/PrintStaffList'.
+[04:25:38	]Ulysses Nathius has spawned a cit_computer.
+[04:25:39	]Ulysses Nathius ran 'take' on item 'Citizen Computer' (#2046396)
+[04:25:39	]Ulysses Nathius has gained a 'Citizen Computer' #2046396.
+[04:25:40	]Ulysses Nathius has spawned a floppydisk.
+[04:25:42	]Ulysses Nathius ran 'take' on item 'Floppy Disk' (#2046397)
+[04:25:42	]Ulysses Nathius has gained a 'Floppy Disk' #2046397.
+[04:25:47	]Ulysses Nathius has spawned 'models/props_c17/FurnitureTable003a.mdl'.
+[04:25:49	]Ulysses Nathius has spawned 'models/props_c17/FurnitureTable002a.mdl'.
+[04:25:51	]Ulysses Nathius has spawned 'models/props_c17/FurnitureTable001a.mdl'.
+[04:25:56	]Ulysses Nathius ran 'Place' on item 'Citizen Computer' (#2046396)
+[04:26:30	]Ulysses Nathius ran 'Name' on item 'Floppy Disk' (#2046397)
+[04:26:31	]Ulysses Nathius ran 'Name' on item 'Floppy Disk' (#2046397)
+[04:26:41	]Ulysses Nathius ran 'Place' on item 'Test' (#2046397)
+[04:26:41	]Ulysses Nathius has lost a 'Test' #2046397.
+[04:27:18	]Ulysses Nathius ran 'take' on item 'Test' (#2046397)
+[04:27:18	]Ulysses Nathius has gained a 'Test' #2046397.
+[04:27:24	]Ulysses Nathius has spawned 'models/props_c17/FurnitureTable001a.mdl'.
+[04:27:28	]Ulysses Nathius has spawned a cit_computer.
+[04:27:29	]Ulysses Nathius ran 'take' on item 'Citizen Computer' (#2046398)
+[04:27:29	]Ulysses Nathius has gained a 'Citizen Computer' #2046398.
+[04:27:31	]Ulysses Nathius ran 'Place' on item 'Citizen Computer' (#2046398)
+[04:27:36	]Ulysses Nathius ran 'Place' on item 'Test' (#2046397)
+[04:27:36	]Ulysses Nathius has lost a 'Test' #2046397.
+[04:28:41	]Ulysses Nathius ran 'take' on item 'Test' (#2046397)
+[04:28:41	]Ulysses Nathius has gained a 'Test' #2046397.
+[04:28:46	]Ulysses Nathius ran 'Place' on item 'Test' (#2046397)
+[04:28:46	]Ulysses Nathius has lost a 'Test' #2046397.
+[04:29:40	]Ulysses Nathius has spawned a med_computer.
+[04:29:41	]Ulysses Nathius ran 'take' on item 'Medical Computer' (#2046399)
+[04:29:41	]Ulysses Nathius has gained a 'Medical Computer' #2046399.
+[04:29:44	]Ulysses Nathius has used a context menu option with the name: skin
+[04:29:46	]Ulysses Nathius has used a context menu option with the name: remove
+[04:29:49	]Ulysses Nathius ran 'Place' on item 'Medical Computer' (#2046399)
+[04:30:14	]Ulysses Nathius ran 'take' on item 'Test' (#2046397)
+[04:30:14	]Ulysses Nathius has gained a 'Test' #2046397.
+[04:30:18	]Ulysses Nathius ran 'Name' on item 'Test' (#2046397)
+[04:30:37	]Ulysses Nathius ran 'Name' on item 'Test' (#2046397)
+[04:31:01	]Ulysses Nathius ran 'Place' on item 'BitByte Cyber Cafe Driver' (#2046397)
+[04:31:01	]Ulysses Nathius has lost a 'BitByte Cyber Cafe Driver' #2046397.
+[04:32:05	]Ulysses Nathius just revealed a password of the floppy disk '#6331' with the password 'BitByteCafeDRIVE'
+[04:32:05	]Ulysses Nathius has used a context menu option with the name: ixfloppydiscseepassword
+[04:32:09	]Ulysses Nathius has used a context menu option with the name: skin
+[04:32:13	]Ulysses Nathius has used a context menu option with the name: skin
+[04:32:28	]Ulysses Nathius has used a context menu option with the name: rb655_dissolve
+[04:32:29	]Ulysses Nathius ran 'take' on item 'BitByte Cyber Cafe Driver' (#2046397)
+[04:32:29	]Ulysses Nathius has gained a 'BitByte Cyber Cafe Driver' #2046397.
+[04:32:36	]Ulysses Nathius ran 'Place' on item 'BitByte Cyber Cafe Driver' (#2046397)
+[04:32:39	]Ulysses Nathius ran 'Place' on item 'BitByte Cyber Cafe Driver' (#2046397)
+[04:32:42	]Ulysses Nathius ran 'Place' on item 'Citizen Computer' (#2046400)
+[04:32:48	]Ulysses Nathius ran 'Place' on item 'Citizen Computer' (#2046401)
+[04:32:53	]Ulysses Nathius ran 'Place' on item 'BitByte Cyber Cafe Driver' (#2046397)
+[04:32:53	]Ulysses Nathius has lost a 'BitByte Cyber Cafe Driver' #2046397.
+[04:33:03	]ISpilledMyRamen loaded the character 'Nishi Mamoru'
+[04:33:08	]Nishi Mamoru is fully healed.
+[04:33:41	]ISpilledMyRamen loaded the character 'Ulysses Nathius'
+[04:33:57	]Ulysses Nathius used command '/PrintStaffList'.
+[04:33:59	]Ulysses Nathius ran 'take' on item 'BitByte Cyber Cafe Driver' (#2046397)
+[04:33:59	]Ulysses Nathius has gained a 'BitByte Cyber Cafe Driver' #2046397.
+[04:34:00	]Ulysses Nathius ran 'take' on item 'Citizen Computer' (#2046402)
+[04:34:00	]Ulysses Nathius has gained a 'Citizen Computer' #2046402.
+[04:34:09	]Console ran SAM command 'setrank' with arguments: 'uly' 'user'
+[04:34:56	]Ulysses Nathius ran 'Equip' on item 'Civil Administration PDA' (#2046392)
+[04:35:02	]Ulysses Nathius ran 'Equip' on item 'Combine PDA' (#2046394)
+[04:35:04	]Ulysses Nathius ran 'EquipUn' on item 'Civil Administration PDA' (#2046392)
+[04:35:04	]Ulysses Nathius ran 'Equip' on item 'Combine PDA' (#2046394)
+[04:35:10	]Ulysses Nathius ran 'EquipUn' on item 'Combine PDA' (#2046394)
+[04:35:11	]Ulysses Nathius ran 'Equip' on item 'Civil Administration PDA' (#2046392)
+[04:35:56	]ISpilledMyRamen (STEAM_0:0:426186854) has disconnected.
+[05:01:11	]willumhf has connected.
+[05:04:03	]willumhf loaded the character 'Leon Withers'
+[05:04:08	]Leon Withers is fully healed.
+[05:04:13	]Leon Withers entered observer.
+[05:04:30	]Leon Withers has given himself a bandage.
+[05:04:30	]Leon Withers has gained a 'Bandage Roll' #2046403.
+[05:05:56	]Leon Withers has used a context menu option with the name: containerlock_checkowner
+[05:05:58	]The Milkman has connected.
+[05:06:26	]Leon Withers exited observer at their location.
+[05:06:33	]Leon Withers entered observer.
+[05:06:49	]Leon Withers has used a context menu option with the name: rb655_breakable_break
+[05:06:52	]Leon Withers has used a context menu option with the name: rb655_breakable_break
+[05:06:57	]Leon Withers created a stash (models/props/de_train/acunit2.mdl).
+[05:06:57	]Leon Withers has used a context menu option with the name: ixcreatestash
+[05:07:28	]Leon Withers has given himself a request_device.
+[05:07:28	]Leon Withers has gained a 'Request Device' #2046404.
+[05:07:34	]Leon Withers ran 'Bind' on item 'Request Device' (#2046404)
+[05:08:25	]The Milkman loaded the character 'Zor'thakar-ival'thor-Etanii'
+[05:08:30	]Zor'thakar-ival'thor-Etanii is fully healed.
+[05:08:58	]Zor'thakar-ival'thor-Etanii used command '/ToggleMentor'.
+[05:09:03	]Zor'thakar-ival'thor-Etanii used command '/ToggleMentor'.
+[05:09:05	]Zor'thakar-ival'thor-Etanii used command '/ToggleMentor'.
+[05:09:07	]Zor'thakar-ival'thor-Etanii used command '/PrintStaffList'.
+[05:09:12	][OOC] Zor'thakar-ival'thor-Etanii: why cant i observer
+[05:10:22	]Leon Withers exited observer at their location.
+[05:10:31	]willumhf loaded the character 'Anders Stauning'
+[05:10:44	]Anders Stauning entered observer.
+[05:10:48	]Anders Stauning exited observer at their location.
+[05:12:14	]willumhf created the character 'Random Citizen'
+[05:12:14	]Random Citizen has gained a 'Suitcase' #2046405.
+[05:12:14	]Random Citizen has gained a 'Flashlight' #2046406.
+[05:12:14	]willumhf loaded the character 'Random Citizen'
+[05:12:14	]Random Citizen has gained a 'Light Grey Armband' #2046407.
+[05:12:14	]Random Citizen has gained a '#78689's Identity Card' #2046408.
+[05:12:14	]Random Citizen has gained a 'Blue Jumpsuit' #2046409.
+[05:12:14	]Random Citizen has gained a 'Blue Jumpsuit Trousers' #2046410.
+[05:12:14	]Random Citizen has gained a 'Worn Brown Shoes' #2046411.
+[05:12:22	]Random Citizen entered observer.
+[05:12:26	]Random Citizen exited observer at their location.
+[05:12:30	][IC] Random Citizen: Hey vort.
+[05:12:31	][IC] Zor'thakar-ival'thor-Etanii: Greetings.
+[05:12:41	][IC] Zor'thakar-ival'thor-Etanii: How is this human faring today.
+[05:13:01	][IC] Random Citizen: Im good. Do you havee any headcrab skewers?
+[05:13:11	][IC] Zor'thakar-ival'thor-Etanii: Unfortunately not. However, we do possess headcrab meat.
+[05:13:18	][ME] Zor'thakar-ival'thor-Etanii: handed over some raw, juicy headcrab meat.
+[05:13:21	]Zor'thakar-ival'thor-Etanii ran 'drop' on item 'Raw Headcrab Meat' (#2037358)
+[05:13:21	]Zor'thakar-ival'thor-Etanii has lost a 'Raw Headcrab Meat' #2037358.
+[05:13:38	][ME] Random Citizen: she stares at the chains and red eye of the vortgaunt before taking the meat
+[05:13:44	][IC] Random Citizen: Thank you.
+[05:13:46	]Random Citizen ran 'take' on item 'Raw Headcrab Meat' (#2037358)
+[05:13:46	]Random Citizen has gained a 'Raw Headcrab Meat' #2037358.
+[05:13:48	][IC] Zor'thakar-ival'thor-Etanii: You are very welcome.
+[05:13:53	][IC] Zor'thakar-ival'thor-Etanii: What is your name, human?
+[05:14:01	][IC] Random Citizen: Im called Cassy.
+[05:14:14	][IC] Zor'thakar-ival'thor-Etanii: I am known as Thor.
+[05:14:22	][IC] Random Citizen: As in the greek god?
+[05:14:25	][IC] Zor'thakar-ival'thor-Etanii: Yes.
+[05:14:35	][IC] Random Citizen: So cool. I wish I have a god name.
+[05:14:48	][IC] Random Citizen: Anways Im gonna go now. Need to get a knife.
+[05:14:53	]Random Citizen has taken 6 damage from worldspawn.
+[05:14:58	][IC] Random Citizen: Shit!
+[05:15:40	]willumhf loaded the character 'Leon Withers'
+[05:15:59	]Leon Withers entered observer.
+[05:17:47	]Leon Withers exited observer at their location.
+[05:17:53	]Leon Withers entered observer.
+[05:17:58	]Leon Withers has used a context menu option with the name: rb655_door_open
+[05:18:08	]Leon Withers has used a context menu option with the name: rb655_breakable_break
+[05:18:10	]Leon Withers exited observer at their location.
+[05:18:24	]Leon Withers ran 'Equip' on item 'USP-45' (#1995602)
+[05:18:29	][IC] Leon Withers: Biotic.
+[05:18:30	][IC] Leon Withers: Move back.
+[05:18:50	]Leon Withers used command '/Staff reaches for his baton'.
+[05:19:10	]Leon Withers entered observer.
+[05:19:24	]Leon Withers exited observer at their location.
+[05:19:45	]willumhf loaded the character 'Random Citizen'
+[05:19:55	]Random Citizen entered observer.
+[05:19:57	]Random Citizen exited observer at their location.
+[05:19:59	][IC] Random Citizen: Hey vorti.
+[05:20:01	][IC] Zor'thakar-ival'thor-Etanii: Greetings.
+[05:20:06	][IC] Random Citizen: You got headcrab?
+[05:20:07	][IC] Zor'thakar-ival'thor-Etanii: How fares this humna--.
+[05:20:08	][IC] Random Citizen: To spar?
+[05:20:09	][IC] Random Citizen: Spare*.
+[05:20:10	][LOOC] Zor'thakar-ival'thor-Etanii: human*
+[05:20:14	][LOOC] Zor'thakar-ival'thor-Etanii: lol
+[05:20:20	][IC] Zor'thakar-ival'thor-Etanii: Yes... Some parcels of meat.
+[05:20:25	][IC] Random Citizen: Can I have it?
+[05:20:25	][ME] Zor'thakar-ival'thor-Etanii: handed over a few chunks of headcrab meat.
+[05:20:42	][ME] Random Citizen: looks to the meat before taking it. trying to eat it raw.
+[05:20:49	][IC] Zor'thakar-ival'thor-Etanii: ...I do not think that is wise.
+[05:20:51	][IC] Random Citizen: .// i need to cook dis shit?
+[05:20:58	][IC] Random Citizen: Oh.
+[05:21:09	][IC] Random Citizen: Ok, Ill go cook it then.
+[05:21:21	]Random Citizen entered observer.
+[05:21:24	]Random Citizen exited observer at their location.
+[05:21:30	]willumhf loaded the character 'Leon Withers'
+[05:22:08	]Leon Withers entered observer.
+[05:22:12	]Leon Withers exited observer at their location.
+[05:22:34	][IC] Leon Withers: You biotic.
+[05:22:39	][IC] Leon Withers: Move back right now.
+[05:22:48	][IC] Zor'thakar-ival'thor-Etanii: To the void with you!
+[05:22:48	]Leon Withers used command '/Staff reaches for his PDA device.'.
+[05:22:48	][ME] Zor'thakar-ival'thor-Etanii: attacks the MCP agent with a green energy beam.
+[05:22:51	]Leon Withers has taken 87 damage from Zor'thakar-ival'thor-Etanii.
+[05:22:51	][VORT] Zor'thakar-ival'thor-Etanii has damaged Leon Withers, dealing 87 with vortbeam
+[05:22:54	]Leon Withers was knocked unconscious and is bleeding out.
+[05:22:54	][VORT] Zor'thakar-ival'thor-Etanii has damaged Leon Withers, dealing 87 with vortbeam
+[05:22:57	][LOOC] Leon Withers: WHAT !
+[05:22:59	][LOOC] Leon Withers: milk
+[05:23:03	][LOOC] Leon Withers: omg
+[05:23:07	][IC] Zor'thakar-ival'thor-Etanii: Ffuyck.
+[05:23:10	][LOOC] Zor'thakar-ival'thor-Etanii: fuck
+[05:23:13	][LOOC] Leon Withers: dude
+[05:23:17	][LOOC] Leon Withers: i swear to fuck
+[05:23:30	][IC] Leon Withers: U [[ i had no idea it was u.
+[05:23:46	][LOOC] Zor'thakar-ival'thor-Etanii: no checkcrime in slums brah!!!
+[05:23:55	][LOOC] Leon Withers: stfu lol
+[05:24:26	][ME] Leon Withers: groans in pain, losing a lot of blood.
+[05:24:55	]Leon Withers ran SAM command 'hp' with arguments: '^' '100'
+[05:24:56	]Leon Withers entered observer.
+[05:24:58	]Leon Withers used command '/CharStopBleedout ^'.
+[05:25:00	]Leon Withers is no longer unconscious from critical wounds.
+[05:25:00	]Leon Withers is fully healed.
+[05:25:08	]Zor'thakar-ival'thor-Etanii used command '/ToggleMentor'.
+[05:25:09	]Zor'thakar-ival'thor-Etanii used command '/ToggleMentor'.
+[05:25:38	]Leon Withers used command '/CharSkillSet Etanii vortessence 50'.
+[05:25:43	][LOOC] Leon Withers: the fuck
+[05:25:49	][LOOC] Leon Withers: it set it down to 29
+[05:25:57	][LOOC] Zor'thakar-ival'thor-Etanii: wat
+[05:26:03	]Leon Withers used command '/CharSkillSet Etanii vortessence 50'.
+[05:26:09	][LOOC] Leon Withers: bro im putting 50
+[05:26:11	][LOOC] Leon Withers: how tf
+[05:26:14	]Leon Withers used command '/CharSkillSet Etanii vortessence 40'.
+[05:26:22	]Leon Withers used command '/CharSkillSet Etanii vortessence 100'.
+[05:26:25	][LOOC] Zor'thakar-ival'thor-Etanii: nothing's changing
+[05:26:30	][LOOC] Leon Withers: keeps going to 29 on my end
+[05:26:37	][LOOC] Leon Withers: ok w/e ill just set my hp low
+[05:26:44	][IC] Zor'thakar-ival'thor-Etanii: Just give me a dark pill brah.
+[05:26:50	][LOOC] Leon Withers: ok
+[05:26:53	]Leon Withers entered observer.
+[05:26:59	]Leon Withers exited observer at their location.
+[05:27:02	]Leon Withers ran SAM command 'bring' with arguments: 'etanii'
+[05:27:04	]Leon Withers entered observer.
+[05:27:11	]Leon Withers exited observer at their location.
+[05:27:20	]Leon Withers has given himself a dark_pill.
+[05:27:20	]Leon Withers has gained a 'Dark Pills' #2046412.
+[05:27:26	]Leon Withers is admin-searching Zor'thakar-ival'thor-Etanii's inventory.
+[05:27:26	]Leon Withers has used a context menu option with the name: ixviewinventory
+[05:27:27	][LOOC] Zor'thakar-ival'thor-Etanii: dark pill and like 87 hp
+[05:27:30	]Zor'thakar-ival'thor-Etanii has gained a 'Dark Pills' #2046412.
+[05:27:30	]Leon Withers has transferred a 'Dark Pills' #2046412 to a container with the name 'Zor'thakar-ival'thor-Etanii's inventory' #91980.
+[05:27:31	]Leon Withers has closed Zor'thakar-ival'thor-Etanii's inventory.
+[05:27:37	][LOOC] Leon Withers: check ur inventory
+[05:27:40	]Zor'thakar-ival'thor-Etanii ran 'use' on item 'Dark Pills' (#2046412)
+[05:27:40	]Zor'thakar-ival'thor-Etanii has gained a level 7 short boost in Strength.
+[05:27:40	]Zor'thakar-ival'thor-Etanii has gained a level 7 short boost in Agility.
+[05:27:40	]Zor'thakar-ival'thor-Etanii has gained a level 7 short boost in Intelligence.
+[05:27:40	]Zor'thakar-ival'thor-Etanii has gained a level 7 short boost in Perception.
+[05:27:41	]Zor'thakar-ival'thor-Etanii ran 'use' on item 'Dark Pills' (#2046412)
+[05:27:41	]Zor'thakar-ival'thor-Etanii has wasted a level 7 short boost in Strength (current: 0; target: 7).
+[05:27:41	]Zor'thakar-ival'thor-Etanii has wasted a level 7 short boost in Agility (current: 0; target: 7).
+[05:27:41	]Zor'thakar-ival'thor-Etanii has wasted a level 7 short boost in Intelligence (current: 0; target: 7).
+[05:27:41	]Zor'thakar-ival'thor-Etanii has wasted a level 7 short boost in Perception (current: 0; target: 7).
+[05:27:42	][LOOC] Leon Withers: imma do citizen char again
+[05:27:42	]Leon Withers entered observer.
+[05:27:45	]Leon Withers exited observer at their location.
+[05:27:49	]Leon Withers ran SAM command 'hp' with arguments: '^' '97'
+[05:27:51	]Leon Withers ran SAM command 'hp' with arguments: '^' '87'
+[05:27:57	]willumhf loaded the character 'Random Citizen'
+[05:28:04	]Random Citizen entered observer.
+[05:28:08	]Random Citizen exited observer at their location.
+[05:28:13	][IC] Random Citizen: Hey vorti?
+[05:28:15	][IC] Random Citizen: You got any food.
+[05:28:18	][IC] Zor'thakar-ival'thor-Etanii: Greetiungs.
+[05:28:18	][IC] Random Citizen: Headcrab i mean.
+[05:28:20	][LOOC] Zor'thakar-ival'thor-Etanii: greetings*
+[05:28:23	][IC] Zor'thakar-ival'thor-Etanii: I posses...
+[05:28:26	][IC] Zor'thakar-ival'thor-Etanii: Much headcrab meat.
+[05:28:30	][IC] Zor'thakar-ival'thor-Etanii: Very many slabs!
+[05:28:31	][IC] Random Citizen: Can you spare a few/.
+[05:28:32	][IC] Random Citizen: ?*.
+[05:28:38	][ME] Zor'thakar-ival'thor-Etanii: handed over some headcrab meat.
+[05:28:41	]Zor'thakar-ival'thor-Etanii ran 'drop' on item 'Raw Headcrab Meat' (#2037377)
+[05:28:41	]Zor'thakar-ival'thor-Etanii has lost a 'Raw Headcrab Meat' #2037377.
+[05:28:45	][ME] Random Citizen: she takes the headcrab meat
+[05:28:46	][IC] Random Citizen: Thanks.
+[05:28:49	][IC] Random Citizen: Gonna cook this real quick.
+[05:28:51	][IC] Random Citizen: Be back soon.
+[05:28:52	][IC] Zor'thakar-ival'thor-Etanii: You are very welcome.
+[05:29:03	]willumhf loaded the character 'Leon Withers'
+[05:29:11	]Leon Withers entered observer.
+[05:29:18	]Leon Withers exited observer at their location.
+[05:29:27	][IC] Leon Withers: Hey biotic.
+[05:29:34	][IC] Leon Withers: Move back from there.
+[05:29:37	][IC] Leon Withers: Out of my way.
+[05:29:44	][IC] Zor'thakar-ival'thor-Etanii: To the void with you!
+[05:29:45	]Leon Withers used command '/Staff reaches for pos'.
+[05:29:45	][ME] Zor'thakar-ival'thor-Etanii: attacks the MCP agent with a green energy beam.
+[05:29:47	]Leon Withers was knocked unconscious and is bleeding out.
+[05:29:47	][VORT] Zor'thakar-ival'thor-Etanii has damaged Leon Withers, dealing 96 with vortbeam
+[05:29:49	][LOOC] Leon Withers: WHA
+[05:29:55	][LOOC] Leon Withers: MILK
+[05:30:00	][LOOC] Leon Withers: i swear to fuck
+[05:30:00	][IC] Zor'thakar-ival'thor-Etanii: ./;  / fyhcj'.
+[05:30:01	][IC] Zor'thakar-ival'thor-Etanii: FUCK.
+[05:30:03	][LOOC] Zor'thakar-ival'thor-Etanii: FUCK**
+[05:30:05	][LOOC] Leon Withers: LOL
+[05:30:09	][LOOC] Leon Withers: I DIDNT KNOW IT WAS U
+[05:30:14	][LOOC] Leon Withers: U FUCKIN MINGE GRAB ME
+[05:30:23	][LOOC] Zor'thakar-ival'thor-Etanii: WTF??
+[05:30:27	][LOOC] Leon Withers: omfg
+[05:30:33	][LOOC] Leon Withers: dude not today
+[05:30:35	][LOOC] Leon Withers: please
+[05:30:38	][LOOC] Zor'thakar-ival'thor-Etanii: sorry bro
+[05:30:43	][LOOC] Leon Withers: this fucking sucks lol
+[05:30:51	]Leon Withers used command '/CharStopBleedout ^'.
+[05:30:57	]Leon Withers used command '/HangupPhone ^ 30'.
+[05:31:01	]Leon Withers ran SAM command 'hp' with arguments: '^' '30'
+[05:31:03	]Leon Withers is no longer unconscious from critical wounds.
+[05:31:06	]Leon Withers entered observer.
+[05:32:28	][LOOC] Leon Withers: let me heal rq for tunnel
+[05:32:35	][LOOC] Leon Withers: i cant believe this happening
+[05:32:41	][LOOC] Leon Withers: u fucking did it
+[05:32:45	][LOOC] Zor'thakar-ival'thor-Etanii: MCP IN SLUMS??
+[05:32:52	][LOOC] Leon Withers: DUDE I DIDNT KNOW IT WAS UOK
+[05:32:58	][LOOC] Zor'thakar-ival'thor-Etanii: LOLOLOLOL
+[05:33:33	]Leon Withers used command '/EnterTextScreen ⟟⎎ ⊬⍜⎍'⍀⟒ ⍀⟒⏃⎅⟟⋏☌ ⏁⊑⟟⌇ ⊬⍜⎍ ☌⍜⏁ ⏁⍀⍜⌰⌰⟒⎅ ⊑⏃⍀⎅ ⌰⍜⌰⍜⌰⍜⌰⍜⌰ ☌⟒⏁ ⍜⍙⋏⟒⎅, ☍⟟⎅⌇'.
+[05:34:17	]Leon Withers used command '/TextAdd ⟟⎎ ⊬⍜⎍'⍀⟒ ⍀⟒⏃⎅⟟⋏☌ ⏁⊑⟟⌇ ⊬⍜⎍ ☌⍜⏁ ⏁⍀⍜⌰⌰⟒⎅ ⊑⏃⍀⎅ ⌰⍜⌰⍜⌰⍜⌰⍜⌰ ☌⟒⏁ ⍜⍙⋏⟒⎅, ☍⟟⎅⌇ 1'.
+[05:34:29	]Leon Withers used command '/TextRemove'.
+[05:36:11	]Leon Withers used command '/TextAdd <color=green>⌿⟒⋏⟟⌇ ⏃⋏⎅ ⏚⏃⌰⌰⌇ ⏃⋏⎅ ☊⍜☊☍ ⏃⋏⎅ 1'.
+[05:36:24	]Leon Withers used command '/TextAdd <color=green>⌿⟒⋏⟟⌇ ⏃⋏⎅ ⏚⏃⌰⌰⌇ ⏃⋏⎅ ☊⍜☊☍ ⏃⋏⎅ ⏃⌇⌇ ⏃⋏⎅ ⏃⋏⎅ ⏃⋏⎅ 1'.
+[05:36:36	]Leon Withers used command '/TextAdd <color=green>⌿⟒⋏⟟⌇ ⏃⋏⎅ ⏚⏃⌰⌰⌇ ⏃⋏⎅ ☊⍜☊☍ ⏃⋏⎅ 1'.
+[05:36:42	]Leon Withers used command '/TextAdd <color=green>⌿⟒⋏⟟⌇ ⏃⋏⎅ ⏚⏃⌰⌰⌇ ⏃⋏⎅ ☊⍜☊☍ ⏃⋏⎅ 1'.
+[05:36:50	]Leon Withers used command '/TextAdd <color=green>⌿⟒⋏⟟⌇ ⏃⋏⎅ ⏚⏃⌰⌰⌇ ⏃⋏⎅ ☊⍜☊☍ ⏃⋏⎅ 1'.
+[05:37:41	]Leon Withers used command '/TextAdd <color=green>⌿⟒⋏⟟⌇ ⏃⋏⎅ ⏚⏃⌰⌰⌇ ⏃⋏⎅ ☊ 1'.
+[05:38:03	]Leon Withers used command '/TextAdd <color=green>⌿⟒⋏⟟⌇ ⏃⌇ ⏃⋏⎅ ⏃⋏⎅ ⏃⎅ 1'.
+[05:38:31	]Leon Withers used command '/TextAdd <color=green>⏃⌿⟒⎅ ⌰⌰ ⋏⎅ ⏃⌇⌇ ⏃⎅ ⏃⎅ 1'.
+[05:39:03	]Leon Withers ran SAM command 'hp' with arguments: '^' '1'
+[05:39:04	]Leon Withers exited observer at their location.
+[05:39:08	]Leon Withers used command '/CharFallOver'.
+[05:39:38	]Leon Withers has given himself a smallbag.
+[05:39:38	]Leon Withers has gained a 'Small Bag' #2046413.
+[05:40:43	][ME] Leon Withers: groans in pain, holding himself together. "You sonuvabitch!"
+[05:40:54	][ME] Zor'thakar-ival'thor-Etanii: dug through the man's things, stripping him of all weapons and radios and whatnot. As well, the vortigaunt took his badge to add salt to the wound.
+[05:40:55	][LOOC] Leon Withers: are u actually gonna kill me?
+[05:40:59	]Zor'thakar-ival'thor-Etanii used command '/CharSearch'.
+[05:41:03	]Zor'thakar-ival'thor-Etanii ran 'drop' on item 'USP-45' (#1995602)
+[05:41:03	]Leon Withers has lost a 'USP-45' #1995602.
+[05:41:03	]Zor'thakar-ival'thor-Etanii ran 'drop' on item '17rnd Usp-magazine' (#1995603)
+[05:41:03	]Leon Withers has lost a '17rnd Usp-magazine' #1995603.
+[05:41:04	]Zor'thakar-ival'thor-Etanii ran 'drop' on item '17rnd Usp-magazine' (#1995605)
+[05:41:04	]Leon Withers has lost a '17rnd Usp-magazine' #1995605.
+[05:41:04	]Zor'thakar-ival'thor-Etanii ran 'drop' on item 'Small Bag' (#2046413)
+[05:41:04	]Leon Withers has lost a 'Small Bag' #2046413.
+[05:41:05	]Zor'thakar-ival'thor-Etanii ran 'drop' on item '17rnd Usp-magazine' (#1995604)
+[05:41:05	]Leon Withers has lost a '17rnd Usp-magazine' #1995604.
+[05:41:06	]Zor'thakar-ival'thor-Etanii ran 'drop' on item 'Combine PDA' (#1995583)
+[05:41:06	]Leon Withers has lost a 'Combine PDA' #1995583.
+[05:41:06	]Zor'thakar-ival'thor-Etanii ran 'drop' on item 'Request Device' (#2046404)
+[05:41:06	]Leon Withers has lost a 'Request Device' #2046404.
+[05:41:07	][LOOC] Leon Withers: or hostage ?
+[05:41:09	]Zor'thakar-ival'thor-Etanii ran 'drop' on item 'Purple CCA armband' (#1995595)
+[05:41:09	]Leon Withers has lost a 'Purple CCA armband' #1995595.
+[05:41:12	]Zor'thakar-ival'thor-Etanii ran 'drop' on item 'Stunstick' (#1995596)
+[05:41:12	]Leon Withers has lost a 'Stunstick' #1995596.
+[05:41:16	]Zor'thakar-ival'thor-Etanii ran 'drop' on item 'Small Bag' (#2003173)
+[05:41:16	]Leon Withers has lost a 'Small Bag' #2003173.
+[05:41:16	]Zor'thakar-ival'thor-Etanii ran 'drop' on item 'Large Bag' (#2003174)
+[05:41:16	]Leon Withers has lost a 'Large Bag' #2003174.
+[05:41:21	]Zor'thakar-ival'thor-Etanii has gained a 'Combine Card' #1995597 from a container with the name 'Leon Withers' #96575.
+[05:41:22	]Zor'thakar-ival'thor-Etanii has gained a '#54678's Identity Card' #1995582 from a container with the name 'Leon Withers' #96575.
+[05:41:27	][LOOC] Zor'thakar-ival'thor-Etanii: metagame...
+[05:41:28	][LOOC] Leon Withers: milk?
+[05:41:31	][LOOC] Leon Withers: ok
+[05:41:38	][LOOC] Leon Withers: i just wanna knwo
+[05:41:39	][IC] Zor'thakar-ival'thor-Etanii: Ah... Sweet justice is ours soon enough.
+[05:41:44	][LOOC] Leon Withers: none of the CPs are respdong
+[05:41:53	][IC] Leon Withers: F-Fuck you...
+[05:41:54	][LOOC] Zor'thakar-ival'thor-Etanii: yeah well u wandered here without an escort
+[05:41:59	]Zor'thakar-ival'thor-Etanii used command '/CharSearch'.
+[05:41:59	][LOOC] Leon Withers: ok
+[05:42:01	]Zor'thakar-ival'thor-Etanii has gained a 'Bandage Roll' #2046403 from a container with the name 'Leon Withers' #96575.
+[05:42:02	]Zor'thakar-ival'thor-Etanii ran 'give' on item 'Bandage Roll' (#2046403)
+[05:42:02	]Zor'thakar-ival'thor-Etanii has performed the 'Use Bandage Roll' action, gaining 15 experience in medicine.
+[05:42:02	]Leon Withers was bandaged by Zor'thakar-ival'thor-Etanii for 23 HP.
+[05:42:04	][IC] Leon Withers: Pp fair.
+[05:42:07	][LOOC] Leon Withers: looc that
+[05:42:15	][LOOC] Zor'thakar-ival'thor-Etanii: and slums arent apart of the city.
+[05:42:21	][LOOC] Leon Withers: yeah ik the deal
+[05:42:27	][LOOC] Leon Withers: same shit with ulterior
+[05:42:29	][IC] Zor'thakar-ival'thor-Etanii: How does it feel, to be on the receiving end of such terror? Fear?
+[05:42:40	][LOOC] Leon Withers: i cant believe i went so low as they did
+[05:42:40	]Zor'thakar-ival'thor-Etanii ran 'ViewAlt' on item 'Large Bag' (#2003174)
+[05:42:42	]Zor'thakar-ival'thor-Etanii ran 'take' on item 'Large Bag' (#2003174)
+[05:42:42	]Zor'thakar-ival'thor-Etanii has gained a 'Large Bag' #2003174.
+[05:42:48	]Zor'thakar-ival'thor-Etanii ran 'take' on item 'Small Bag' (#2046413)
+[05:42:48	]Zor'thakar-ival'thor-Etanii has gained a 'Small Bag' #2046413.
+[05:42:56	][LOOC] Zor'thakar-ival'thor-Etanii: ok get IC...
+[05:42:57	][IC] Leon Withers: ...Fuck you. And fuck your pet... Grunk.
+[05:43:09	][IC] Zor'thakar-ival'thor-Etanii: ...Grunk? How do you know this name?
+[05:43:37	][ME] Leon Withers: spits out blood, groaning in pain. He appears to be in angony.
+[05:43:51	][IC] Leon Withers: We know your tribe was never caught... The report said so...
+[05:43:59	][IC] Leon Withers: Know that even if I fuckin' die today...
+[05:44:05	][IC] Leon Withers: We'll never stop hunting you...
+[05:44:07	][ME] Zor'thakar-ival'thor-Etanii: brought its claws in the air, chanting something in its natural language, powering a green energy into its palms - clearly about to execute the Combine agent once and for all.
+[05:44:15	][ME] Leon Withers: is killed.
+[05:44:17	][IC] Zor'thakar-ival'thor-Etanii: The same will be said for us.
+[05:44:19	]Leon Withers was knocked unconscious and is bleeding out.
+[05:44:19	][VORT] Zor'thakar-ival'thor-Etanii has damaged Leon Withers, dealing 96 with vortbeam
+[05:44:26	][LOOC] Zor'thakar-ival'thor-Etanii: just... pk urself i guess
+[05:44:28	][LOOC] Leon Withers: dumb shit
+[05:44:32	][LOOC] Leon Withers: god mode 
+[05:44:34	][LOOC] Zor'thakar-ival'thor-Etanii: sorry brah
+[05:44:35	]Leon Withers ran SAM command 'slay' with arguments: '^'
+[05:44:43	][LOOC] Zor'thakar-ival'thor-Etanii: wtf no death bag?
+[05:44:44	]Leon Withers entered observer.
+[05:45:49	]Leon Withers ran 'take' on item 'Request Device' (#2046404)
+[05:45:49	]Leon Withers has gained a 'Request Device' #2046404.
+[05:45:50	]Leon Withers ran 'take' on item '17rnd Usp-magazine' (#1995604)
+[05:45:50	]Leon Withers has gained a '17rnd Usp-magazine' #1995604.
+[05:45:51	]Leon Withers ran 'take' on item 'Combine PDA' (#1995583)
+[05:45:51	]Leon Withers has gained a 'Combine PDA' #1995583.
+[05:45:52	]Leon Withers ran 'take' on item 'Small Bag' (#2003173)
+[05:45:52	]Leon Withers has gained a 'Small Bag' #2003173.
+[05:45:54	]Leon Withers ran 'take' on item 'Purple CCA armband' (#1995595)
+[05:45:54	]Leon Withers has gained a 'Purple CCA armband' #1995595.
+[05:45:56	]Leon Withers ran 'take' on item 'Stunstick' (#1995596)
+[05:45:56	]Leon Withers has gained a 'Stunstick' #1995596.
+[05:46:02	]Leon Withers ran 'take' on item 'USP-45' (#1995602)
+[05:46:02	]Leon Withers has gained a 'USP-45' #1995602.
+[05:46:26	]Leon Withers ran 'take' on item '17rnd Usp-magazine' (#1995605)
+[05:46:26	]Leon Withers has gained a '17rnd Usp-magazine' #1995605.
+[05:46:28	]Leon Withers ran 'take' on item '17rnd Usp-magazine' (#1995603)
+[05:46:28	]Leon Withers has gained a '17rnd Usp-magazine' #1995603.
+[05:46:34	][IC] Zor'thakar-ival'thor-Etanii: Ok.
+[05:46:36	]Leon Withers ran 'Write' on item 'Salutem ex dolore.' (#2038044)
+[05:46:40	][IC] Zor'thakar-ival'thor-Etanii: I will trim the clips and whatnot.
+[05:46:45	][IC] Zor'thakar-ival'thor-Etanii: And upload them to youtube.
+[05:46:59	][LOOC] Leon Withers: good?
+[05:47:11	][IC] Zor'thakar-ival'thor-Etanii: Good enough for a troll that will last 1 day.
+[05:47:14	]Leon Withers exited observer at their location.
+[05:47:18	]Leon Withers ran 'Equip' on item 'Stunstick' (#1995596)
+[05:47:26	][IC] Leon Withers: If only it was the real deal.
+[05:47:32	][IC] Zor'thakar-ival'thor-Etanii: Ikr.
+[05:47:37	][IC] Leon Withers: Be so le epic.
+[05:47:51	][IC] Leon Withers: I wouldnt mind it.
+[05:47:51	]Leon Withers has taken 40 damage from Zor'thakar-ival'thor-Etanii.
+[05:47:51	][VORT] Zor'thakar-ival'thor-Etanii has damaged Leon Withers dealing 40 with vortslam
+[05:47:51	]Zor'thakar-ival'thor-Etanii has gained level 30 in the Vortessence skill.
+[05:47:55	][IC] Leon Withers: One day.
+[05:47:56	][IC] Zor'thakar-ival'thor-Etanii: 40 damage. So shit.
+[05:48:08	][IC] Leon Withers: To like be a HVT then captured.
+[05:48:12	][IC] Leon Withers: Killed.
+[05:48:14	][IC] Leon Withers: On main.
+[05:48:17	][IC] Leon Withers: All done legit.
+[05:48:19	][IC] Zor'thakar-ival'thor-Etanii: Wouldnt work outside of dead hours.
+[05:48:24	][IC] Leon Withers: Yeah maybe.
+[05:48:27	][IC] Zor'thakar-ival'thor-Etanii: As soon as a citizen sees someond dragging someone in the suit.
+[05:48:29	][IC] Zor'thakar-ival'thor-Etanii: Instant /request.
+[05:48:36	][IC] Zor'thakar-ival'thor-Etanii: Even if it's underground.
+[05:48:43	][IC] Leon Withers: Ive been thinking of limiting request devices to uh.
+[05:48:46	][IC] Leon Withers: Loyalists.
+[05:48:56	][IC] Zor'thakar-ival'thor-Etanii: Unless staff let us ICly escape the city and continue RP in the expedition server or something.
+[05:48:58	][IC] Leon Withers: And moving terminals.
+[05:49:11	][IC] Leon Withers: Farther apart from each other.
+[05:49:21	][IC] Zor'thakar-ival'thor-Etanii: Good idea honestly.
+[05:49:26	]Leon Withers used command '/CharEditBodygroup Etanii'.
+[05:49:31	][IC] Zor'thakar-ival'thor-Etanii: But also 90% of citizen players are already loyalists so womp womp.
+[05:49:46	][IC] Leon Withers: Maybe next map change.
+[05:49:47	][IC] Leon Withers: Maybe.
+[05:50:02	][IC] Leon Withers: Hopefully with hoki's campaign.
+[05:50:08	][IC] Leon Withers: People might actually just hate cops.
+[05:50:25	][IC] Leon Withers: And not lick our boots.
+[05:50:31	][IC] Leon Withers: Wish i was a command unit.
+[05:50:33	][IC] Leon Withers: Or RL.
+[05:50:37	][IC] Leon Withers: At least command unit.
+[05:50:49	][IC] Zor'thakar-ival'thor-Etanii: We shall see..
+[05:51:09	][IC] Leon Withers: Im already enforcing shit as MCP but im limited.
+[05:51:25	][IC] Leon Withers: Me and hoki were hating it so much.
+[05:51:31	][IC] Leon Withers: How like radio is being used.
+[05:51:35	][IC] Zor'thakar-ival'thor-Etanii: Im wondering if i should be unironic in trying to be MCP.
+[05:51:45	][IC] Zor'thakar-ival'thor-Etanii: Idk.
+[05:51:47	][IC] Leon Withers: Dude literally was  like /r 10-19 10-7. Going to... Sleep.
+[05:51:52	][IC] Zor'thakar-ival'thor-Etanii: Claptrap might not let me in because the tirefest lolol.
+[05:51:57	][IC] Leon Withers: Uh yeah.
+[05:52:02	][IC] Leon Withers: Maybe! I mean clap defended u.
+[05:52:07	][IC] Leon Withers: Like pretty hard.
+[05:52:08	][IC] Zor'thakar-ival'thor-Etanii: Bless him.
+[05:52:14	][IC] Zor'thakar-ival'thor-Etanii: What did he say... Leak.
+[05:52:16	][IC] Leon Withers: Because hiros wanted to ban u.
+[05:52:34	][IC] Zor'thakar-ival'thor-Etanii: Oh so thats why he said 'comedy' on a screenshot of when neonity kicked me from cp discord for a joke.
+[05:52:39	][IC] Zor'thakar-ival'thor-Etanii: Bro is praying on my downfall...
+[05:52:59	][IC] Leon Withers: Yeah clap basically told him 'you're being too anal about something harmless'.
+[05:53:10	][IC] Zor'thakar-ival'thor-Etanii: Was it just hiros...
+[05:53:10	][IC] Leon Withers: Almost somewhat exact words.
+[05:53:15	][IC] Leon Withers: Uhhh other staff too.
+[05:53:26	][IC] Zor'thakar-ival'thor-Etanii: I'll send pipe bombs to their address.
+[05:53:27	][IC] Leon Withers: I cant remember who but hiros was heavily advocating for it.
+[05:53:33	][IC] Zor'thakar-ival'thor-Etanii: Brah 2 months is INSANE.
+[05:53:43	][IC] Zor'thakar-ival'thor-Etanii: Last time i was banned was over a year ago and i got it appealed next day.
+[05:53:52	][IC] Leon Withers: 2 months because he didnt know ur last ban was false.
+[05:53:58	][IC] Leon Withers: And ig he didnt read the date.
+[05:54:01	][IC] Zor'thakar-ival'thor-Etanii: They saw Liam's case as intentionally malicious and they only got him for a week...
+[05:54:22	][IC] Zor'thakar-ival'thor-Etanii: I was just making some fun for citizens and i get banned for 2 months... WHEN IT WASNT EVEN MY IDEA.
+[05:54:25	][IC] Leon Withers: Also hud change soon...
+[05:54:27	][IC] Leon Withers: For CPs.
+[05:54:33	][IC] Leon Withers: Not big change but the ones I suggested.
+[05:54:35	][IC] Zor'thakar-ival'thor-Etanii: Grrr...
+[05:54:36	][IC] Leon Withers: Votton working on it.
+[05:54:41	][IC] Zor'thakar-ival'thor-Etanii: Nice.
+[05:54:51	][IC] Zor'thakar-ival'thor-Etanii: You're one of the good cabal agents, willum... I luv u.
+[05:55:03	][IC] Leon Withers: It'll basically be the tagline 'VICE-08' above the head.
+[05:55:16	][IC] Leon Withers: Like example: <: VICE-08 :>'.
+[05:55:25	][IC] Zor'thakar-ival'thor-Etanii: Nice.
+[05:55:37	][IC] Leon Withers: And they'll be making it so you cant see through walls.
+[05:55:44	][IC] Zor'thakar-ival'thor-Etanii: Double nice.
+[05:55:47	][IC] Leon Withers: We're also considering easing up the logs.
+[05:56:00	][IC] Leon Withers: The little feed in the corner.
+[05:56:08	][IC] Zor'thakar-ival'thor-Etanii: Just make it for dispatch only tbh.
+[05:56:10	][IC] Leon Withers: But idk, we'll see. Still in debate.
+[05:56:10	][IC] Zor'thakar-ival'thor-Etanii: Gives them more use.
+[05:56:17	][IC] Leon Withers: We're looking at what lancer did.
+[05:56:22	][IC] Zor'thakar-ival'thor-Etanii: Which is.
+[05:56:29	][IC] Leon Withers: Im cop there so i got all access to the shit.
+[05:56:33	][IC] Leon Withers: They have modules.
+[05:56:38	][IC] Leon Withers: Imma send the video.
+[05:57:34	]willumhf (STEAM_0:0:133779472) has disconnected.
+[05:57:43	]The Milkman (STEAM_0:1:104895897) has disconnected.

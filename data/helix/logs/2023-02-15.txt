@@ -1,0 +1,402 @@
+[05:02:11	]Robert has connected.
+[05:04:01	]Robert loaded the character 'Eliso Abraham'
+[05:04:06	]Eliso Abraham is fully healed.
+[05:04:17	]Eliso Abraham ran 'drop' on item 'Lead Pipe' (#1203858)
+[05:04:17	]Eliso Abraham has lost a 'Lead Pipe' #1203858.
+[05:04:21	]Eliso Abraham has used a context menu option with the name: rb655_dissolve
+[05:04:23	]env_entity_dissolver destroyed a 'Lead Pipe' #1203858.
+[05:04:58	]Robert (STEAM_0:1:36030793) deleted character 'Dragan Drazenovic'
+[05:05:01	]Robert (STEAM_0:1:36030793) deleted character 'Takoshi Yikatenda'
+[05:05:02	]Robert (STEAM_0:1:36030793) deleted character 'Old Man 'Lev''
+[05:05:05	]Robert (STEAM_0:1:36030793) deleted character 'Guido Schwarz'
+[05:05:07	]Robert (STEAM_0:1:36030793) deleted character 'Jack Smith'
+[05:05:19	]Robert created the character 'C17:RCT.YELLO-54'
+[05:05:19	]Eliso Abraham has gained level 30 in the Guns skill.
+[05:05:19	]Eliso Abraham has gained level 30 in the Speed skill.
+[05:05:19	]Robert loaded the character 'C17:RCT.YELLO-54'
+[05:05:19	]C17:RCT.YELLO-54 has gained a '#57490's Identity Card' #1649395.
+[05:05:19	]C17:RCT.YELLO-54 has gained a 'Combine PDA' #1649396.
+[05:05:19	]C17:RCT.YELLO-54 has gained a 'CP Uniform' #1649397.
+[05:05:19	]C17:RCT.YELLO-54 has gained a 'CP Mask' #1649398.
+[05:05:19	]C17:RCT.YELLO-54 has gained a 'Handheld Radio' #1649399.
+[05:05:19	]C17:RCT.YELLO-54 has gained a 'Small Bag' #1649400.
+[05:05:19	]C17:RCT.YELLO-54 has gained a 'Large Bag' #1649401.
+[05:05:44	][IC] C17:RCT.YELLO-54: F.
+[05:06:00	]C24:i1.TEST-51 used command '/CharSetName yello C24:i1.TEST-51'.
+[05:06:07	]C24:i1.TEST-51 used command '/VisorStatus red'.
+[05:06:10	]C24:i1.TEST-51 used command '/VisorStatus white'.
+[05:06:13	]C24:i1.TEST-51 used command '/VisorStatus black'.
+[05:06:16	]C24:i1.TEST-51 used command '/VisorStatus total'.
+[05:06:20	]C24:i1.TEST-51 used command '/VisorStatus totalrdr'.
+[05:06:33	]C24:i1.TEST-51 used command '/VisorStatus orange'.
+[05:06:38	]C24:i1.TEST-51 used command '/VisorStatus blue'.
+[05:06:43	]C24:i1.TEST-51 entered observer.
+[05:06:45	]C24:i1.TEST-51 exited observer at their location.
+[05:07:02	][IC] C24:i1.TEST-51: <:: Shit! ::>
+[05:07:20	]C24:i1.TEST-51 entered observer.
+[05:07:23	]C24:i1.TEST-51 has pressed the "CWU_WorkerAnnouncement" map button.
+[05:07:27	]C24:i1.TEST-51 exited observer at their location.
+[05:07:29	][IC] C24:i1.TEST-51: <:: Shit! ::>
+[05:08:00	]C24:i1.TEST-51 used command '/CharSetChips test 100'.
+[05:08:23	]Robert has unloaded their "C24:i1.TEST-51" character.
+[05:09:45	]Robert (STEAM_0:1:36030793) has disconnected.
+[05:10:48	]Robert has connected.
+[05:13:03	]Robert loaded the character 'Eliso Abraham'
+[05:13:20	]Eliso Abraham has given himself a ciggie_pack.
+[05:13:20	]Eliso Abraham has gained a 'Benefactor Edition Cigarette Pack' #1649402.
+[05:13:20	]Eliso Abraham has gained a 'Cigarette' #1649403.
+[05:13:20	]Eliso Abraham has gained a 'Cigarette' #1649404.
+[05:13:20	]Eliso Abraham has gained a 'Cigarette' #1649405.
+[05:13:20	]Eliso Abraham has gained a 'Cigarette' #1649406.
+[05:13:20	]Eliso Abraham has gained a 'Cigarette' #1649407.
+[05:13:20	]Eliso Abraham has gained a 'Cigarette' #1649408.
+[05:13:20	]Eliso Abraham has gained a 'Cigarette' #1649409.
+[05:13:20	]Eliso Abraham has gained a 'Cigarette' #1649410.
+[05:13:21	]Eliso Abraham has given himself a ciggie_pack.
+[05:13:21	]Eliso Abraham has gained a 'Benefactor Edition Cigarette Pack' #1649411.
+[05:13:21	]Eliso Abraham has gained a 'Cigarette' #1649412.
+[05:13:21	]Eliso Abraham has gained a 'Cigarette' #1649413.
+[05:13:21	]Eliso Abraham has gained a 'Cigarette' #1649414.
+[05:13:21	]Eliso Abraham has gained a 'Cigarette' #1649415.
+[05:13:21	]Eliso Abraham has gained a 'Cigarette' #1649416.
+[05:13:21	]Eliso Abraham has gained a 'Cigarette' #1649417.
+[05:13:21	]Eliso Abraham has gained a 'Cigarette' #1649418.
+[05:13:21	]Eliso Abraham has gained a 'Cigarette' #1649419.
+[05:13:31	]Eliso Abraham has given himself a card_deck.
+[05:13:31	]Eliso Abraham has gained a '52-Card Deck' #1649420.
+[05:13:31	]Eliso Abraham has gained a 'Ace of Clubs' #1649421.
+[05:13:31	]Eliso Abraham has gained a '2 of Clubs' #1649422.
+[05:13:31	]Eliso Abraham has gained a '3 of Clubs' #1649423.
+[05:13:31	]Eliso Abraham has gained a '4 of Clubs' #1649424.
+[05:13:31	]Eliso Abraham has gained a '5 of Clubs' #1649425.
+[05:13:32	]Eliso Abraham has gained a '6 of Clubs' #1649426.
+[05:13:32	]Eliso Abraham has gained a '7 of Clubs' #1649427.
+[05:13:32	]Eliso Abraham has gained a '8 of Clubs' #1649428.
+[05:13:32	]Eliso Abraham has gained a '9 of Clubs' #1649429.
+[05:13:32	]Eliso Abraham has gained a '10 of Clubs' #1649430.
+[05:13:32	]Eliso Abraham has gained a 'Jack of Clubs' #1649431.
+[05:13:32	]Eliso Abraham has gained a 'King of Clubs' #1649432.
+[05:13:32	]Eliso Abraham has gained a 'Queen of Clubs' #1649433.
+[05:13:32	]Eliso Abraham has gained a 'Ace of Diamonds' #1649434.
+[05:13:32	]Eliso Abraham has gained a '2 of Diamonds' #1649435.
+[05:13:32	]Eliso Abraham has gained a '3 of Diamonds' #1649436.
+[05:13:32	]Eliso Abraham has gained a '4 of Diamonds' #1649437.
+[05:13:32	]Eliso Abraham has gained a '5 of Diamonds' #1649438.
+[05:13:32	]Eliso Abraham has gained a '6 of Diamonds' #1649439.
+[05:13:32	]Eliso Abraham has gained a '7 of Diamonds' #1649440.
+[05:13:32	]Eliso Abraham has gained a '8 of Diamonds' #1649441.
+[05:13:32	]Eliso Abraham has gained a '9 of Diamonds' #1649442.
+[05:13:32	]Eliso Abraham has gained a '10 of Diamonds' #1649443.
+[05:13:32	]Eliso Abraham has gained a 'Jack of Diamonds' #1649444.
+[05:13:32	]Eliso Abraham has gained a 'King of Diamonds' #1649445.
+[05:13:32	]Eliso Abraham has gained a 'Queen of Diamonds' #1649446.
+[05:13:32	]Eliso Abraham has gained a 'Ace of Hearts' #1649447.
+[05:13:32	]Eliso Abraham has gained a '2 of Hearts' #1649448.
+[05:13:32	]Eliso Abraham has gained a '3 of Hearts' #1649449.
+[05:13:32	]Eliso Abraham has gained a '4 of Hearts' #1649450.
+[05:13:32	]Eliso Abraham has gained a '5 of Hearts' #1649451.
+[05:13:32	]Eliso Abraham has gained a '6 of Hearts' #1649452.
+[05:13:32	]Eliso Abraham has gained a '7 of Hearts' #1649453.
+[05:13:32	]Eliso Abraham has gained a '8 of Hearts' #1649454.
+[05:13:32	]Eliso Abraham has gained a '9 of Hearts' #1649455.
+[05:13:32	]Eliso Abraham has gained a '10 of Hearts' #1649456.
+[05:13:32	]Eliso Abraham has gained a 'Jack of Hearts' #1649457.
+[05:13:32	]Eliso Abraham has gained a 'King of Hearts' #1649458.
+[05:13:32	]Eliso Abraham has gained a 'Queen of Hearts' #1649459.
+[05:13:32	]Eliso Abraham has gained a 'Ace of Spades' #1649460.
+[05:13:32	]Eliso Abraham has gained a '2 of Spades' #1649461.
+[05:13:32	]Eliso Abraham has gained a '3 of Spades' #1649462.
+[05:13:32	]Eliso Abraham has gained a '4 of Spades' #1649463.
+[05:13:32	]Eliso Abraham has gained a '5 of Spades' #1649464.
+[05:13:32	]Eliso Abraham has gained a '6 of Spades' #1649465.
+[05:13:32	]Eliso Abraham has gained a '7 of Spades' #1649466.
+[05:13:32	]Eliso Abraham has gained a '8 of Spades' #1649467.
+[05:13:32	]Eliso Abraham has gained a '9 of Spades' #1649468.
+[05:13:32	]Eliso Abraham has gained a '10 of Spades' #1649469.
+[05:13:32	]Eliso Abraham has gained a 'Jack of Spades' #1649470.
+[05:13:32	]Eliso Abraham has gained a 'King of Spades' #1649471.
+[05:13:32	]Eliso Abraham has gained a 'Queen of Spades' #1649472.
+[05:19:03	]Eliso Abraham has gone afk.
+[05:23:43	]Eliso Abraham is no longer afk. Total time spent AFK: 575
+[05:23:50	]Eliso Abraham ran 'PullRandom' on item '52-Card Deck' (#1649420)
+[05:23:51	]Eliso Abraham ran 'combine' on item '52-Card Deck' (#1649420)
+[05:23:56	]Eliso Abraham ran 'drop' on item '52-Card Deck' (#1649420)
+[05:23:56	]Eliso Abraham has lost a '52-Card Deck' #1649420.
+[05:23:56	]Eliso Abraham has lost a '9 of Clubs' #1649429.
+[05:23:56	]Eliso Abraham has lost a '8 of Clubs' #1649428.
+[05:23:56	]Eliso Abraham has lost a '2 of Spades' #1649461.
+[05:23:56	]Eliso Abraham has lost a 'Ace of Spades' #1649460.
+[05:23:56	]Eliso Abraham has lost a 'Ace of Hearts' #1649447.
+[05:23:56	]Eliso Abraham has lost a 'Queen of Diamonds' #1649446.
+[05:23:56	]Eliso Abraham has lost a '3 of Hearts' #1649449.
+[05:23:56	]Eliso Abraham has lost a '2 of Hearts' #1649448.
+[05:23:56	]Eliso Abraham has lost a '5 of Hearts' #1649451.
+[05:23:56	]Eliso Abraham has lost a '4 of Hearts' #1649450.
+[05:23:56	]Eliso Abraham has lost a '7 of Hearts' #1649453.
+[05:23:56	]Eliso Abraham has lost a '6 of Hearts' #1649452.
+[05:23:56	]Eliso Abraham has lost a '6 of Diamonds' #1649439.
+[05:23:56	]Eliso Abraham has lost a '5 of Diamonds' #1649438.
+[05:23:56	]Eliso Abraham has lost a '8 of Diamonds' #1649441.
+[05:23:56	]Eliso Abraham has lost a '7 of Diamonds' #1649440.
+[05:23:56	]Eliso Abraham has lost a '10 of Diamonds' #1649443.
+[05:23:56	]Eliso Abraham has lost a 'Queen of Spades' #1649472.
+[05:23:56	]Eliso Abraham has lost a '9 of Diamonds' #1649442.
+[05:23:56	]Eliso Abraham has lost a 'Queen of Hearts' #1649459.
+[05:23:56	]Eliso Abraham has lost a 'Queen of Clubs' #1649433.
+[05:23:56	]Eliso Abraham has lost a 'King of Diamonds' #1649445.
+[05:23:56	]Eliso Abraham has lost a 'Jack of Diamonds' #1649444.
+[05:23:56	]Eliso Abraham has lost a 'King of Spades' #1649471.
+[05:23:56	]Eliso Abraham has lost a 'Jack of Clubs' #1649431.
+[05:23:56	]Eliso Abraham has lost a 'Ace of Diamonds' #1649434.
+[05:23:56	]Eliso Abraham has lost a '4 of Spades' #1649463.
+[05:23:56	]Eliso Abraham has lost a 'King of Clubs' #1649432.
+[05:23:56	]Eliso Abraham has lost a '3 of Spades' #1649462.
+[05:23:56	]Eliso Abraham has lost a 'Jack of Spades' #1649470.
+[05:23:56	]Eliso Abraham has lost a '6 of Spades' #1649465.
+[05:23:56	]Eliso Abraham has lost a 'Jack of Hearts' #1649457.
+[05:23:56	]Eliso Abraham has lost a '2 of Diamonds' #1649435.
+[05:23:56	]Eliso Abraham has lost a '10 of Spades' #1649469.
+[05:23:56	]Eliso Abraham has lost a '8 of Spades' #1649467.
+[05:23:56	]Eliso Abraham has lost a '10 of Hearts' #1649456.
+[05:23:56	]Eliso Abraham has lost a '7 of Spades' #1649466.
+[05:23:56	]Eliso Abraham has lost a '10 of Clubs' #1649430.
+[05:23:56	]Eliso Abraham has lost a '3 of Diamonds' #1649436.
+[05:23:56	]Eliso Abraham has lost a '3 of Clubs' #1649423.
+[05:23:56	]Eliso Abraham has lost a '9 of Spades' #1649468.
+[05:23:56	]Eliso Abraham has lost a '2 of Clubs' #1649422.
+[05:23:56	]Eliso Abraham has lost a '9 of Hearts' #1649455.
+[05:23:56	]Eliso Abraham has lost a '8 of Hearts' #1649454.
+[05:23:56	]Eliso Abraham has lost a 'Ace of Clubs' #1649421.
+[05:23:56	]Eliso Abraham has lost a '4 of Clubs' #1649424.
+[05:23:56	]Eliso Abraham has lost a '5 of Spades' #1649464.
+[05:23:56	]Eliso Abraham has lost a '7 of Clubs' #1649427.
+[05:23:56	]Eliso Abraham has lost a '5 of Clubs' #1649425.
+[05:23:56	]Eliso Abraham has lost a '6 of Clubs' #1649426.
+[05:23:56	]Eliso Abraham has lost a '4 of Diamonds' #1649437.
+[05:23:56	]Eliso Abraham has lost a 'King of Hearts' #1649458.
+[05:23:59	]Eliso Abraham has used a context menu option with the name: rb655_dissolve
+[05:24:01	]env_entity_dissolver destroyed a '52-Card Deck' #1649420.
+[05:24:04	]Eliso Abraham ran 'smoke' on item 'Cigarette' (#1649415)
+[05:24:07	]Eliso Abraham ran 'drop' on item 'Benefactor Edition Cigarette Pack' (#1649411)
+[05:24:07	]Eliso Abraham has lost a 'Benefactor Edition Cigarette Pack' #1649411.
+[05:24:07	]Eliso Abraham has lost a 'Cigarette' #1649412.
+[05:24:07	]Eliso Abraham has lost a 'Cigarette' #1649416.
+[05:24:07	]Eliso Abraham has lost a 'Cigarette' #1649419.
+[05:24:07	]Eliso Abraham has lost a 'Cigarette' #1649418.
+[05:24:07	]Eliso Abraham has lost a 'Cigarette' #1649414.
+[05:24:07	]Eliso Abraham has lost a 'Cigarette' #1649413.
+[05:24:07	]Eliso Abraham has lost a 'Cigarette' #1649417.
+[05:24:08	]Eliso Abraham ran 'drop' on item 'Benefactor Edition Cigarette Pack' (#1649402)
+[05:24:08	]Eliso Abraham has lost a 'Benefactor Edition Cigarette Pack' #1649402.
+[05:24:08	]Eliso Abraham has lost a 'Cigarette' #1649404.
+[05:24:08	]Eliso Abraham has lost a 'Cigarette' #1649410.
+[05:24:08	]Eliso Abraham has lost a 'Cigarette' #1649403.
+[05:24:08	]Eliso Abraham has lost a 'Cigarette' #1649409.
+[05:24:08	]Eliso Abraham has lost a 'Cigarette' #1649406.
+[05:24:08	]Eliso Abraham has lost a 'Cigarette' #1649407.
+[05:24:08	]Eliso Abraham has lost a 'Cigarette' #1649405.
+[05:24:08	]Eliso Abraham has lost a 'Cigarette' #1649408.
+[05:24:12	]Eliso Abraham has fired a toolgun with the name: remover
+[05:24:12	]Eliso Abraham has fired a toolgun with the name: remover
+[05:24:12	]Eliso Abraham has fired a toolgun with the name: remover
+[05:24:18	]Eliso Abraham ran 'stopsmoke' on item 'Cigarette' (#1649415)
+[05:24:20	]Eliso Abraham ran 'smoke' on item 'Cigarette' (#1649415)
+[05:24:59	]Robert (STEAM_0:1:36030793) has disconnected.
+[13:11:57	]Robert has connected.
+[13:12:31	]Robert loaded the character 'Eliso Abraham'
+[13:12:50	]Eliso Abraham used command '/CharDesc'.
+[13:18:01	]Eliso Abraham has gone afk.
+[13:21:21	]Eliso Abraham is no longer afk. Total time spent AFK: 495
+[13:22:55	][IC] Eliso Abraham: Smallbag.
+[13:23:01	][IC] Eliso Abraham: Tool_toolkit.
+[13:25:27	]Eliso Abraham ran 'drop' on item 'Small Bag' (#1204872)
+[13:25:27	]Eliso Abraham has lost a 'Small Bag' #1204872.
+[13:25:29	]Eliso Abraham has used a context menu option with the name: rb655_dissolve
+[13:25:31	]env_entity_dissolver destroyed a 'Small Bag' #1204872.
+[13:25:32	]Eliso Abraham ran 'drop' on item 'Cigarette' (#1649415)
+[13:25:32	]Eliso Abraham has lost a 'Cigarette' #1649415.
+[13:25:34	]Eliso Abraham has used a context menu option with the name: rb655_dissolve
+[13:25:36	]env_entity_dissolver destroyed a 'Cigarette' #1649415.
+[13:26:16	]Eliso Abraham used command '/FindItemById 44719'.
+[13:27:38	]Robert created the character 'I am Data'
+[13:27:39	]Robert loaded the character 'I am Data'
+[13:27:39	]I am Data has gained a 'Suitcase' #1649473.
+[13:27:39	]I am Data has gained a '#92271's Identity Card' #1649474.
+[13:28:39	]Robert (STEAM_0:1:36030793) has disconnected.
+[13:29:44	]Robert has connected.
+[13:51:17	]Robert loaded the character 'Eliso Abraham'
+[13:51:27	]Eliso Abraham has given himself a ciggie_pack.
+[13:51:27	]Eliso Abraham has gained a 'Benefactor Edition Cigarette Pack' #1649475.
+[13:51:27	]Eliso Abraham has gained a 'Cigarette' #1649476.
+[13:51:27	]Eliso Abraham has gained a 'Cigarette' #1649477.
+[13:51:27	]Eliso Abraham has gained a 'Cigarette' #1649478.
+[13:51:27	]Eliso Abraham has gained a 'Cigarette' #1649479.
+[13:51:27	]Eliso Abraham has gained a 'Cigarette' #1649480.
+[13:51:27	]Eliso Abraham has gained a 'Cigarette' #1649481.
+[13:51:27	]Eliso Abraham has gained a 'Cigarette' #1649482.
+[13:51:27	]Eliso Abraham has gained a 'Cigarette' #1649483.
+[13:51:28	]Eliso Abraham has given himself a ciggie_goodfella.
+[13:51:28	]Eliso Abraham has gained a 'Goodfella Cigars' #1649484.
+[13:51:28	]Eliso Abraham has gained a 'Cigarette' #1649485.
+[13:51:28	]Eliso Abraham has gained a 'Cigarette' #1649486.
+[13:51:28	]Eliso Abraham has gained a 'Cigarette' #1649487.
+[13:51:28	]Eliso Abraham has gained a 'Cigarette' #1649488.
+[13:51:28	]Eliso Abraham has gained a 'Cigarette' #1649489.
+[13:51:28	]Eliso Abraham has gained a 'Cigarette' #1649490.
+[13:51:28	]Eliso Abraham has gained a 'Cigarette' #1649491.
+[13:51:28	]Eliso Abraham has gained a 'Cigarette' #1649492.
+[13:51:33	]Eliso Abraham has given himself a card_deck.
+[13:51:33	]Eliso Abraham has gained a '52-Card Deck' #1649493.
+[13:51:33	]Eliso Abraham has gained a 'Ace of Clubs' #1649494.
+[13:51:33	]Eliso Abraham has gained a '2 of Clubs' #1649495.
+[13:51:33	]Eliso Abraham has gained a '3 of Clubs' #1649496.
+[13:51:33	]Eliso Abraham has gained a '4 of Clubs' #1649497.
+[13:51:33	]Eliso Abraham has gained a '5 of Clubs' #1649498.
+[13:51:33	]Eliso Abraham has gained a '6 of Clubs' #1649499.
+[13:51:33	]Eliso Abraham has gained a '7 of Clubs' #1649500.
+[13:51:33	]Eliso Abraham has gained a '8 of Clubs' #1649501.
+[13:51:33	]Eliso Abraham has gained a '9 of Clubs' #1649502.
+[13:51:33	]Eliso Abraham has gained a '10 of Clubs' #1649503.
+[13:51:33	]Eliso Abraham has gained a 'Jack of Clubs' #1649504.
+[13:51:33	]Eliso Abraham has gained a 'King of Clubs' #1649505.
+[13:51:33	]Eliso Abraham has gained a 'Queen of Clubs' #1649506.
+[13:51:33	]Eliso Abraham has gained a 'Ace of Diamonds' #1649507.
+[13:51:33	]Eliso Abraham has gained a '2 of Diamonds' #1649508.
+[13:51:33	]Eliso Abraham has gained a '3 of Diamonds' #1649509.
+[13:51:33	]Eliso Abraham has gained a '4 of Diamonds' #1649510.
+[13:51:33	]Eliso Abraham has gained a '5 of Diamonds' #1649511.
+[13:51:33	]Eliso Abraham has gained a '6 of Diamonds' #1649512.
+[13:51:33	]Eliso Abraham has gained a '7 of Diamonds' #1649513.
+[13:51:33	]Eliso Abraham has gained a '8 of Diamonds' #1649514.
+[13:51:33	]Eliso Abraham has gained a '9 of Diamonds' #1649515.
+[13:51:33	]Eliso Abraham has gained a '10 of Diamonds' #1649516.
+[13:51:33	]Eliso Abraham has gained a 'Jack of Diamonds' #1649517.
+[13:51:33	]Eliso Abraham has gained a 'King of Diamonds' #1649518.
+[13:51:33	]Eliso Abraham has gained a 'Queen of Diamonds' #1649519.
+[13:51:33	]Eliso Abraham has gained a 'Ace of Hearts' #1649520.
+[13:51:33	]Eliso Abraham has gained a '2 of Hearts' #1649521.
+[13:51:33	]Eliso Abraham has gained a '3 of Hearts' #1649522.
+[13:51:33	]Eliso Abraham has gained a '4 of Hearts' #1649523.
+[13:51:33	]Eliso Abraham has gained a '5 of Hearts' #1649524.
+[13:51:33	]Eliso Abraham has gained a '6 of Hearts' #1649525.
+[13:51:33	]Eliso Abraham has gained a '7 of Hearts' #1649526.
+[13:51:33	]Eliso Abraham has gained a '8 of Hearts' #1649527.
+[13:51:33	]Eliso Abraham has gained a '9 of Hearts' #1649528.
+[13:51:33	]Eliso Abraham has gained a '10 of Hearts' #1649529.
+[13:51:33	]Eliso Abraham has gained a 'Jack of Hearts' #1649530.
+[13:51:33	]Eliso Abraham has gained a 'King of Hearts' #1649531.
+[13:51:33	]Eliso Abraham has gained a 'Queen of Hearts' #1649532.
+[13:51:33	]Eliso Abraham has gained a 'Ace of Spades' #1649533.
+[13:51:33	]Eliso Abraham has gained a '2 of Spades' #1649534.
+[13:51:33	]Eliso Abraham has gained a '3 of Spades' #1649535.
+[13:51:33	]Eliso Abraham has gained a '4 of Spades' #1649536.
+[13:51:33	]Eliso Abraham has gained a '5 of Spades' #1649537.
+[13:51:33	]Eliso Abraham has gained a '6 of Spades' #1649538.
+[13:51:33	]Eliso Abraham has gained a '7 of Spades' #1649539.
+[13:51:33	]Eliso Abraham has gained a '8 of Spades' #1649540.
+[13:51:33	]Eliso Abraham has gained a '9 of Spades' #1649541.
+[13:51:33	]Eliso Abraham has gained a '10 of Spades' #1649542.
+[13:51:33	]Eliso Abraham has gained a 'Jack of Spades' #1649543.
+[13:51:33	]Eliso Abraham has gained a 'King of Spades' #1649544.
+[13:51:33	]Eliso Abraham has gained a 'Queen of Spades' #1649545.
+[13:51:50	]Eliso Abraham ran 'drop' on item '52-Card Deck' (#1649493)
+[13:51:50	]Eliso Abraham has lost a '52-Card Deck' #1649493.
+[13:51:50	]Eliso Abraham has lost a '4 of Hearts' #1649523.
+[13:51:50	]Eliso Abraham has lost a '3 of Hearts' #1649522.
+[13:51:50	]Eliso Abraham has lost a '6 of Hearts' #1649525.
+[13:51:50	]Eliso Abraham has lost a '5 of Hearts' #1649524.
+[13:51:50	]Eliso Abraham has lost a '5 of Diamonds' #1649511.
+[13:51:50	]Eliso Abraham has lost a '4 of Diamonds' #1649510.
+[13:51:50	]Eliso Abraham has lost a '7 of Diamonds' #1649513.
+[13:51:50	]Eliso Abraham has lost a '6 of Diamonds' #1649512.
+[13:51:50	]Eliso Abraham has lost a '9 of Diamonds' #1649515.
+[13:51:50	]Eliso Abraham has lost a '8 of Diamonds' #1649514.
+[13:51:50	]Eliso Abraham has lost a 'Jack of Diamonds' #1649517.
+[13:51:50	]Eliso Abraham has lost a '10 of Diamonds' #1649516.
+[13:51:50	]Eliso Abraham has lost a '10 of Clubs' #1649503.
+[13:51:50	]Eliso Abraham has lost a 'Queen of Spades' #1649545.
+[13:51:50	]Eliso Abraham has lost a '3 of Spades' #1649535.
+[13:51:50	]Eliso Abraham has lost a '9 of Clubs' #1649502.
+[13:51:50	]Eliso Abraham has lost a '2 of Spades' #1649534.
+[13:51:50	]Eliso Abraham has lost a '8 of Spades' #1649540.
+[13:51:50	]Eliso Abraham has lost a '5 of Spades' #1649537.
+[13:51:50	]Eliso Abraham has lost a 'Queen of Clubs' #1649506.
+[13:51:50	]Eliso Abraham has lost a 'Ace of Diamonds' #1649507.
+[13:51:50	]Eliso Abraham has lost a 'King of Spades' #1649544.
+[13:51:50	]Eliso Abraham has lost a '7 of Spades' #1649539.
+[13:51:50	]Eliso Abraham has lost a 'King of Hearts' #1649531.
+[13:51:50	]Eliso Abraham has lost a '6 of Spades' #1649538.
+[13:51:50	]Eliso Abraham has lost a '3 of Diamonds' #1649509.
+[13:51:50	]Eliso Abraham has lost a '2 of Diamonds' #1649508.
+[13:51:50	]Eliso Abraham has lost a '9 of Spades' #1649541.
+[13:51:50	]Eliso Abraham has lost a '2 of Clubs' #1649495.
+[13:51:50	]Eliso Abraham has lost a '4 of Spades' #1649536.
+[13:51:50	]Eliso Abraham has lost a 'Ace of Clubs' #1649494.
+[13:51:50	]Eliso Abraham has lost a 'King of Clubs' #1649505.
+[13:51:50	]Eliso Abraham has lost a '4 of Clubs' #1649497.
+[13:51:50	]Eliso Abraham has lost a 'Jack of Spades' #1649543.
+[13:51:50	]Eliso Abraham has lost a '3 of Clubs' #1649496.
+[13:51:50	]Eliso Abraham has lost a 'Jack of Hearts' #1649530.
+[13:51:50	]Eliso Abraham has lost a '6 of Clubs' #1649499.
+[13:51:50	]Eliso Abraham has lost a 'Jack of Clubs' #1649504.
+[13:51:50	]Eliso Abraham has lost a '5 of Clubs' #1649498.
+[13:51:50	]Eliso Abraham has lost a '10 of Spades' #1649542.
+[13:51:50	]Eliso Abraham has lost a '8 of Clubs' #1649501.
+[13:51:50	]Eliso Abraham has lost a '10 of Hearts' #1649529.
+[13:51:50	]Eliso Abraham has lost a 'Ace of Spades' #1649533.
+[13:51:50	]Eliso Abraham has lost a '9 of Hearts' #1649528.
+[13:51:50	]Eliso Abraham has lost a 'Queen of Hearts' #1649532.
+[13:51:50	]Eliso Abraham has lost a 'Queen of Diamonds' #1649519.
+[13:51:50	]Eliso Abraham has lost a '7 of Hearts' #1649526.
+[13:51:50	]Eliso Abraham has lost a 'King of Diamonds' #1649518.
+[13:51:50	]Eliso Abraham has lost a '7 of Clubs' #1649500.
+[13:51:50	]Eliso Abraham has lost a '2 of Hearts' #1649521.
+[13:51:50	]Eliso Abraham has lost a '8 of Hearts' #1649527.
+[13:51:50	]Eliso Abraham has lost a 'Ace of Hearts' #1649520.
+[13:51:51	]Eliso Abraham ran 'drop' on item 'Goodfella Cigars' (#1649484)
+[13:51:51	]Eliso Abraham has lost a 'Goodfella Cigars' #1649484.
+[13:51:51	]Eliso Abraham has lost a 'Cigarette' #1649492.
+[13:51:51	]Eliso Abraham has lost a 'Cigarette' #1649490.
+[13:51:51	]Eliso Abraham has lost a 'Cigarette' #1649486.
+[13:51:51	]Eliso Abraham has lost a 'Cigarette' #1649485.
+[13:51:51	]Eliso Abraham has lost a 'Cigarette' #1649491.
+[13:51:51	]Eliso Abraham has lost a 'Cigarette' #1649488.
+[13:51:51	]Eliso Abraham has lost a 'Cigarette' #1649489.
+[13:51:51	]Eliso Abraham has lost a 'Cigarette' #1649487.
+[13:51:51	]Eliso Abraham ran 'drop' on item 'Benefactor Edition Cigarette Pack' (#1649475)
+[13:51:51	]Eliso Abraham has lost a 'Benefactor Edition Cigarette Pack' #1649475.
+[13:51:51	]Eliso Abraham has lost a 'Cigarette' #1649483.
+[13:51:51	]Eliso Abraham has lost a 'Cigarette' #1649478.
+[13:51:51	]Eliso Abraham has lost a 'Cigarette' #1649477.
+[13:51:51	]Eliso Abraham has lost a 'Cigarette' #1649481.
+[13:51:51	]Eliso Abraham has lost a 'Cigarette' #1649476.
+[13:51:51	]Eliso Abraham has lost a 'Cigarette' #1649480.
+[13:51:51	]Eliso Abraham has lost a 'Cigarette' #1649482.
+[13:51:51	]Eliso Abraham has lost a 'Cigarette' #1649479.
+[13:51:55	]Eliso Abraham has fired a toolgun with the name: remover
+[13:51:55	]Eliso Abraham has fired a toolgun with the name: remover
+[13:51:55	]Eliso Abraham has fired a toolgun with the name: remover
+[13:51:56	]Eliso Abraham has fired a toolgun with the name: remover
+[13:57:17	]Eliso Abraham has gone afk.
+[14:26:12	]Eliso Abraham is no longer afk. Total time spent AFK: 2030
+[14:26:15	]Robert (STEAM_0:1:36030793) has disconnected.
+[23:29:41	]Atle has connected.
+[23:32:43	]Atle created the character 'galunga'
+[23:32:43	]Atle loaded the character 'galunga'
+[23:34:49	]galunga has given himself a vortigaunt_meat02.
+[23:34:49	]galunga has gained a 'Outlands Meat Belt' #1649546.
+[23:35:21	]galunga has given himself a vortigaunt_torso_light3_tc.
+[23:35:21	]galunga has gained a 'Vortigaunt Brown Trench Coat' #1649547.
+[23:35:53	]galunga has given himself a vortigaunt_meat01.
+[23:35:53	]galunga has gained a 'Sustenance Belt' #1649548.
+[23:38:23	]galunga has spawned 'models/willardnetworks/vortigaunt.mdl'.
+[23:42:52	]Atle (STEAM_0:0:21027108) has disconnected.
+[23:46:14	]Atle has connected.
+[23:46:49	]Atle loaded the character 'galunga'
+[23:48:06	]galunga has given himself a vortigaunt_torso_hoodie.
+[23:48:06	]galunga has gained a 'Vortigaunt Hoodie' #1649549.
+[23:48:49	]galunga has spawned 'models/willardnetworks/syringefull.mdl'.
+[23:48:50	]galunga has spawned 'models/willardnetworks/vortigaunt.mdl'.
+[23:50:00	][IC] galunga: Galunga.
+[23:50:20	]galunga has spawned 'models/willardnetworks/vortigaunt.mdl'.
+[23:51:11	]Atle (STEAM_0:0:21027108) has disconnected.

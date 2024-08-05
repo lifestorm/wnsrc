@@ -1,0 +1,186 @@
+[10:56:21	]Luca has connected.
+[10:57:12	]Luca (STEAM_0:1:460171975) has disconnected.
+[16:45:05	]Marshall has connected.
+[16:46:26	]Marshall (STEAM_0:0:93908206) deleted character 'Victor Kessler'
+[16:46:54	]Marshall created the character 'eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+[16:46:54	]Marshall loaded the character 'eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee'
+[16:46:54	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has gained a 'Flashlight' #3111524.
+[16:46:54	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has gained a 'Light Grey Armband' #3111525.
+[16:46:54	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has gained a '#09321's Identity Card' #3111526.
+[16:46:54	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has gained a 'Glasses' #3111527.
+[16:47:01	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee entered observer.
+[16:47:10	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee used command '/CharGiveFlag eeeeee pet'.
+[16:47:55	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[16:48:04	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: ignite
+[16:48:12	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[16:48:13	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[16:48:23	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[16:48:24	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[16:48:30	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has fired a toolgun with the name: dynamite
+[16:48:41	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has hit eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee dealing 124 damage (CritChance was 0.00).
+[16:48:41	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee was knocked unconscious and is bleeding out.
+[16:48:41	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: rb655_dynamite_activate
+[16:48:43	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee destroyed a 'Overwatch Standard-Issue Pulse Rifle' #3111522.
+[16:48:43	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee destroyed a 'Blue collaborator armband' #3086024.
+[16:49:31	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee used command '/CharStopBleedout eeeeeeee'.
+[16:49:39	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee is no longer unconscious from critical wounds.
+[16:49:39	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee is fully healed.
+[16:49:40	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee entered observer.
+[16:49:54	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [516][sent_vj_test]'.
+[16:49:59	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: npc_bigger
+[16:50:01	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: npc_bigger
+[16:50:02	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: npc_bigger
+[16:50:02	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee exited observer at their location.
+[16:50:08	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: ignite
+[16:50:23	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee entered observer.
+[16:50:58	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: remove
+[16:51:09	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee exited observer at their location.
+[16:51:12	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [497][npc_vj_hlr1_boid]'.
+[16:51:22	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: vj_pr_npc_slay
+[16:51:26	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: remove
+[16:51:26	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee entered observer.
+[16:51:36	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee exited observer at their location.
+[16:51:53	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [497][npc_vj_hlrdc_keller]'.
+[16:51:59	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [516][npc_vj_hlrbs_rosenberg]'.
+[16:52:05	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [497][npc_vj_hlr1_controlsphere]'.
+[16:52:08	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has taken 10 damage from Control Sphere.
+[16:52:14	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [497][npc_vj_hlr1_boid]'.
+[16:52:14	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [516][npc_vj_hlr1_boid]'.
+[16:52:14	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [517][npc_vj_hlr1_boid]'.
+[16:52:14	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [518][npc_vj_hlr1_boid]'.
+[16:52:15	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [519][npc_vj_hlr1_boid]'.
+[16:52:15	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [520][npc_vj_hlr1_boid]'.
+[16:52:20	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [497][npc_vj_hlr1_floater]'.
+[16:52:20	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee entered observer.
+[16:52:27	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [497][npc_vj_hale_life_gonome_2]'.
+[16:52:30	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: ignite
+[16:52:38	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [497][npc_vj_hla_xengp]'.
+[16:52:40	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee exited observer at their location.
+[16:53:01	]obj_vj_xen_grenade destroyed a '9mm Pistol Bullets' #3111210.
+[16:53:01	]obj_vj_xen_grenade destroyed a 'The Pharaoh's Jacket' #3111198.
+[16:53:01	]obj_vj_xen_grenade destroyed a 'The Mulligan Express' #3111194.
+[16:53:01	]obj_vj_xen_grenade destroyed a 'The Expeditionary' #3111192.
+[16:53:01	]obj_vj_xen_grenade destroyed a 'The Jade' #3111193.
+[16:53:01	]obj_vj_xen_grenade destroyed a 'The Pharaoh's Jacket - Armored' #3111195.
+[16:53:01	]obj_vj_xen_grenade destroyed a 'Candyfloss' #3111197.
+[16:53:06	]obj_vj_xen_grenade destroyed a 'CCR Armored Vest' #3111199.
+[16:53:13	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [388][npc_vj_hla_zombie]'.
+[16:53:23	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee entered observer.
+[16:53:30	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [390][npc_vj_hla_zombieclassic_hl2]'.
+[16:53:34	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [388][npc_vj_hla_zombieclassic]'.
+[16:53:36	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [388][npc_vj_hla_zombiegunner]'.
+[16:53:45	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: rb655_npc_weapon
+[16:53:56	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [388][npc_vj_hla_zombiegunner]'.
+[16:53:59	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee exited observer at their location.
+[16:54:01	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has taken 3 damage from Zombine Gunner.
+[16:54:01	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has taken 12 damage from Zombine Gunner.
+[16:54:01	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has taken 12 damage from Zombine Gunner.
+[16:54:01	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has taken 12 damage from Zombine Gunner.
+[16:54:01	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has taken 12 damage from Zombine Gunner.
+[16:54:02	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has taken 12 damage from Zombine Gunner.
+[16:54:02	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has taken 12 damage from Zombine Gunner.
+[16:54:03	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee entered observer.
+[16:54:14	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee is fully healed.
+[16:54:16	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: bodygroups
+[16:54:20	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: bodygroups
+[16:54:27	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: vj_pr_npc_wander
+[16:54:30	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [390][npc_vj_hla_zombie_unused]'.
+[16:54:33	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [394][npc_vj_hla_zombie_unused]'.
+[16:54:46	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [396][npc_vj_hla_bcrab]'.
+[16:54:53	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [396][npc_vj_hla_zombie_torso_unused]'.
+[16:54:58	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [396][npc_vj_hla_zombiereviver]'.
+[16:55:01	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [396][npc_vj_hla_zombiearmored]'.
+[16:55:04	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [497][npc_vj_hla_zombiereviver_hl2]'.
+[16:55:07	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [518][npc_vj_hla_antlion_spitter]'.
+[16:55:22	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: rb655_dissolve
+[16:55:36	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [390][npc_vj_hla_jellyb]'.
+[16:55:42	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: vj_pr_npc_wander
+[16:55:45	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: vj_pr_npc_slay
+[16:55:47	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [390][npc_vj_hla_hcrab]'.
+[16:55:49	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [392][npc_vj_hla_hcrab]'.
+[16:55:51	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [497][npc_vj_hla_rcrab]'.
+[16:56:26	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee exited observer at their location.
+[16:56:28	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has taken 12 damage from Zombine Gunner.
+[16:56:28	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has taken 12 damage from Zombine Gunner.
+[16:56:28	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has taken 3 damage from Zombine Gunner.
+[16:56:28	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has taken 12 damage from Zombine Gunner.
+[16:56:28	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has taken 3 damage from Zombine Gunner.
+[16:56:28	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has taken 12 damage from Zombine Gunner.
+[16:56:28	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has taken 3 damage from Zombine Gunner.
+[16:56:28	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee entered observer.
+[16:56:29	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee is fully healed.
+[16:56:38	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [497][npc_vj_hla_zombiereviver_hl2]'.
+[16:56:42	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: vj_pr_npc_gib
+[16:56:49	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: vj_pr_npc_wander
+[16:56:51	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: vj_pr_npc_slay
+[16:56:56	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: ignite
+[16:57:04	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: remove
+[16:57:09	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: vj_pr_npc_slay
+[16:57:15	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: remove
+[16:57:21	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [388][npc_metropolice]'.
+[16:57:33	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [388][npc_stalker]'.
+[16:57:48	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [388][npc_metropolice]'.
+[16:57:50	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [497][npc_combine_s]'.
+[16:57:59	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: vj_pr_npc_gib
+[16:58:08	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [388][npc_vj_hla_zombie]'.
+[16:58:19	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [388][npc_vj_hla_zombie_unused]'.
+[16:58:32	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [388][npc_vj_hla_zombieclassic]'.
+[16:58:35	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [531][npc_vj_hla_zombieclassic]'.
+[16:58:35	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [533][npc_vj_hla_zombieclassic]'.
+[16:58:35	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [538][npc_vj_hla_zombieclassic]'.
+[16:58:35	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [540][npc_vj_hla_zombieclassic]'.
+[16:58:36	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [542][npc_vj_hla_zombieclassic]'.
+[16:58:36	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [544][npc_vj_hla_zombieclassic]'.
+[16:58:42	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [548][npc_vortigaunt]'.
+[16:58:57	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [550][npc_vj_hla_zombiearmored]'.
+[16:58:57	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [533][npc_vj_hla_zombiearmored]'.
+[16:58:57	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [557][npc_vj_hla_zombiearmored]'.
+[16:58:58	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [534][npc_vj_hla_zombiearmored]'.
+[16:58:58	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [540][npc_vj_hla_zombiearmored]'.
+[16:58:58	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [549][npc_vj_hla_zombiearmored]'.
+[16:58:58	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [561][npc_vj_hla_zombiearmored]'.
+[16:58:58	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [563][npc_vj_hla_zombiearmored]'.
+[16:59:10	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [548][npc_vj_hlr2_refugee]'.
+[16:59:15	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: remove
+[16:59:18	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [548][npc_vj_hlr2_com_prospekt_sg]'.
+[16:59:22	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: remove
+[16:59:33	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [548][npc_citizen]'.
+[16:59:35	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [568][npc_citizen]'.
+[16:59:36	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [569][npc_citizen]'.
+[16:59:36	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [583][npc_citizen]'.
+[16:59:36	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [585][npc_citizen]'.
+[16:59:40	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has taken 20 damage from Zombie.
+[16:59:44	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee is fully healed.
+[16:59:51	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has taken 20 damage from Armored Zombie.
+[16:59:52	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has taken 20 damage from Zombie.
+[16:59:54	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee is fully healed.
+[17:00:00	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: skin
+[17:00:08	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: bodygroups
+[17:00:16	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: bodygroups
+[17:00:24	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: skin
+[17:00:27	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has used a context menu option with the name: bodygroups
+[17:00:34	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [566][npc_citizen]'.
+[17:00:36	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [567][npc_citizen]'.
+[17:00:36	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [570][npc_citizen]'.
+[17:00:37	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [589][npc_citizen]'.
+[17:00:37	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [591][npc_citizen]'.
+[17:00:37	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [593][npc_citizen]'.
+[17:00:37	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [599][npc_citizen]'.
+[17:00:37	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [601][npc_citizen]'.
+[17:00:38	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [603][npc_citizen]'.
+[17:00:38	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [608][npc_citizen]'.
+[17:00:38	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [612][npc_citizen]'.
+[17:00:38	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [614][npc_citizen]'.
+[17:00:38	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [592][npc_citizen]'.
+[17:00:38	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [623][npc_citizen]'.
+[17:00:39	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [626][npc_citizen]'.
+[17:00:39	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [629][npc_citizen]'.
+[17:00:39	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [607][npc_citizen]'.
+[17:00:39	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [671][npc_citizen]'.
+[17:00:39	]eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee has spawned a 'NPC [673][npc_citizen]'.
+[17:00:49	]Marshall (STEAM_0:0:93908206) has disconnected.
+[20:48:23	]Divine has connected.
+[20:56:56	]Divine loaded the character 'C24:RCT.YELLO-17'
+[20:57:25	]C24:RCT.YELLO-17 ran 'Write' on item 'Silver's Journal' (#2770111)
+[20:59:11	]C24:RCT.YELLO-17 is fully healed.
+[20:59:53	]Divine (STEAM_0:0:63629212) has disconnected.

@@ -1,0 +1,95 @@
+[04:44:58	]Mikey has connected.
+[04:45:42	]Mikey loaded the character 'S10/OSL.GHOST-70'
+[04:46:04	]S10/OSL.GHOST-70 used command '/ToggleRaise'.
+[04:46:08	]S10/OSL.GHOST-70 used command '/ToggleRaise'.
+[04:46:26	]S10/OSL.GHOST-70 has gained level 4 in the Medicine skill.
+[04:46:29	]S10/OSL.GHOST-70 used command '/CharDesc'.
+[04:46:42	]S10/OSL.GHOST-70 is fully healed.
+[04:47:31	]Mikey has unloaded their "S10/OSL.GHOST-70" character.
+[04:47:40	]Mikey loaded the character 'C24:i5.XRAY-4'
+[04:47:40	]C24:i5.XRAY-4 their 'civil protection lockers' stash no longer exists, location reset.
+[04:47:45	]C24:i5.XRAY-4 is fully healed.
+[04:47:59	]C24:i5.XRAY-4 used command '/ToggleRaise'.
+[04:48:15	]C24:i5.XRAY-4 has lost a '17rnd Usp-magazine' #1640770.
+[04:48:15	]C24:i5.XRAY-4 has gained a '17rnd Usp-magazine' #1641808.
+[04:48:24	]C24:i5.XRAY-4 used command '/ToggleRaise'.
+[04:48:28	]C24:i5.XRAY-4 has gained a '17rnd Usp-magazine' #1640770.
+[04:48:28	]C24:i5.XRAY-4 has lost a '17rnd Usp-magazine' #1641808.
+[04:48:39	]C24:i5.XRAY-4 has gained a '17rnd Usp-magazine' #1641808.
+[04:48:39	]C24:i5.XRAY-4 has lost a '17rnd Usp-magazine' #1640769.
+[04:48:45	]C24:i5.XRAY-4 has gained a '17rnd Usp-magazine' #1640769.
+[04:48:45	]C24:i5.XRAY-4 has lost a '17rnd Usp-magazine' #1640768.
+[04:49:02	]C24:i5.XRAY-4 has gained level 35 in the Speed skill.
+[04:49:49	]C24:i5.XRAY-4 has spawned 'models/props_c17/FurnitureSink001a.mdl'.
+[04:50:46	]C24:i5.XRAY-4 ran 'combine' on item '17rnd Usp-magazine' (#1641808)
+[04:50:47	]C24:i5.XRAY-4 ran 'combine' on item '17rnd Usp-magazine' (#1640769)
+[04:50:49	]C24:i5.XRAY-4 ran 'combine' on item '17rnd Usp-magazine' (#1640770)
+[04:50:51	]C24:i5.XRAY-4 ran 'combine' on item '9mm Pistol Bullets' (#1644281)
+[04:50:53	]C24:i5.XRAY-4 used command '/ToggleRaise'.
+[04:51:01	]Mikey (STEAM_0:1:112147538) has disconnected.
+[21:57:48	]Hayden has connected.
+[22:01:38	]Hayden created the character 'hayden!!adayden!!!!'
+[22:01:39	]Hayden loaded the character 'hayden!!adayden!!!!'
+[22:01:39	]hayden!!adayden!!!! has gained a 'Request Device' #1649809.
+[22:01:39	]hayden!!adayden!!!! has gained a '#41043's Identity Card' #1649810.
+[22:01:54	]hayden!!adayden!!!! entered observer.
+[22:01:54	]hayden!!adayden!!!! exited observer at their location.
+[22:02:23	]hayden!!adayden!!!! entered observer.
+[22:02:37	]hayden!!adayden!!!! has given himself a capda.
+[22:02:38	]hayden!!adayden!!!! has gained a 'Civil Administration PDA' #1649811.
+[22:02:40	]hayden!!adayden!!!! ran 'Equip' on item 'Civil Administration PDA' (#1649811)
+[22:02:45	]hayden!!adayden!!!! exited observer at their location.
+[22:02:47	]hayden!!adayden!!!! entered observer.
+[22:02:57	]hayden!!adayden!!!! used command '/PlyWhitelist Hayden Combine'.
+[22:03:10	]hayden!!adayden!!!! used command '/PlyTransfer Hayden Combine'.
+[22:03:19	]hayden!!adayden!!!! has given himself a pda.
+[22:03:19	]hayden!!adayden!!!! has gained a 'Combine PDA' #1649812.
+[22:03:21	]hayden!!adayden!!!! ran 'Equip' on item 'Combine PDA' (#1649812)
+[22:03:22	]hayden!!adayden!!!! ran 'EquipUn' on item 'Civil Administration PDA' (#1649811)
+[22:03:23	]hayden!!adayden!!!! ran 'Equip' on item 'Combine PDA' (#1649812)
+[22:07:34	]hayden!!adayden!!!! used command '/CreateShop newstore1'.
+[22:09:55	]Hayden (STEAM_0:1:22038366) has disconnected (timed out).
+[22:23:04	]Hayden has connected.
+[22:24:28	]Hayden loaded the character 'hayden!!adayden!!!!'
+[22:27:33	]hayden!!adayden!!!! entered observer.
+[22:27:41	]hayden!!adayden!!!! exited observer at their location.
+[22:27:45	][PICKUP DISPENSER] Hayden ( hayden!!adayden!!!! ) picked up an item from the pickup dispenser.
+[22:27:45	]hayden!!adayden!!!! has gained a 'Shop Key' #1649813.
+[22:28:04	]hayden!!adayden!!!! entered observer.
+[22:28:17	]hayden!!adayden!!!! exited observer at their location.
+[22:28:36	]hayden!!adayden!!!! ran 'AssignCID' on item 'Shop Key' (#1649813)
+[22:28:47	]hayden!!adayden!!!! entered observer.
+[22:29:01	]hayden!!adayden!!!! exited observer at their location.
+[22:29:31	]hayden!!adayden!!!! used command '/SetApartmentDoor newstore1'.
+[22:29:39	]hayden!!adayden!!!! entered observer.
+[22:29:42	]hayden!!adayden!!!! exited observer at their location.
+[22:29:46	]hayden!!adayden!!!! entered observer.
+[22:29:47	]hayden!!adayden!!!! exited observer at their location.
+[22:29:49	]hayden!!adayden!!!! entered observer.
+[22:29:50	]hayden!!adayden!!!! exited observer at their location.
+[22:29:52	]hayden!!adayden!!!! entered observer.
+[22:29:54	]hayden!!adayden!!!! exited observer at their location.
+[22:30:00	]hayden!!adayden!!!! entered observer.
+[22:30:04	]hayden!!adayden!!!! exited observer at their location.
+[22:31:53	]hayden!!adayden!!!! entered observer.
+[22:31:58	]hayden!!adayden!!!! exited observer at their location.
+[22:32:57	]Hayden created the character 'secondary char'
+[22:32:57	]Hayden loaded the character 'secondary char'
+[22:32:57	]secondary char has gained a '#75846's Identity Card' #1649814.
+[22:33:29	]Hayden loaded the character 'hayden!!adayden!!!!'
+[22:33:52	]Hayden loaded the character 'secondary char'
+[22:33:58	]secondary char entered observer.
+[22:34:07	]secondary char exited observer at their location.
+[22:34:11	][PICKUP DISPENSER] Hayden ( secondary char ) picked up an item from the pickup dispenser.
+[22:34:11	]secondary char has gained a 'Shop Key' #1649815.
+[22:34:15	]secondary char entered observer.
+[22:34:19	]secondary char exited observer at their location.
+[22:34:29	]secondary char entered observer.
+[22:34:34	]secondary char exited observer at their location.
+[22:35:27	]secondary char entered observer.
+[22:35:51	]secondary char exited observer at their location.
+[22:36:36	]Hayden loaded the character 'hayden!!adayden!!!!'
+[22:37:32	]Hayden loaded the character 'secondary char'
+[22:38:11	]Hayden loaded the character 'hayden!!adayden!!!!'
+[22:43:41	]hayden!!adayden!!!! has gone afk.
+[22:44:41	]hayden!!adayden!!!! is no longer afk. Total time spent AFK: 355

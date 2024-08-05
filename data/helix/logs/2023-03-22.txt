@@ -1,0 +1,1146 @@
+[20:45:39	]Taliazure has connected.
+[21:11:14	]Taliazure has connected.
+[21:12:24	]Taliazure loaded the character 'C24:i1.JUDGE-2'
+[21:12:52	]C24:i1.JUDGE-2 opened the 'File Cabinet' #76189 container.
+[21:12:54	]C24:i1.JUDGE-2 closed the 'File Cabinet' #76189 container.
+[21:12:54	]C24:i1.JUDGE-2 opened the 'File Cabinet' #76188 container.
+[21:12:56	]C24:i1.JUDGE-2 closed the 'File Cabinet' #76188 container.
+[21:13:43	]C24:i1.JUDGE-2 ran 'use' on item 'Bandage Roll' (#1595611)
+[21:13:43	]C24:i1.JUDGE-2 has performed the 'Use Bandage Roll' action, gaining 15 experience in medicine.
+[21:13:43	]C24:i1.JUDGE-2 was bandaged by C24:i1.JUDGE-2 for 18 HP.
+[21:13:45	]C24:i1.JUDGE-2 ran 'use' on item 'Painkillers' (#1595610)
+[21:13:45	]C24:i1.JUDGE-2 has performed the 'Use Painkillers' action, gaining 25 experience in medicine.
+[21:15:50	]C24:i1.JUDGE-2 ran 'Equip' on item 'UMP-45' (#1643143)
+[21:15:51	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:15:59	]C24:i1.JUDGE-2 ran 'combine' on item '25rnd Ump-magazine' (#1643146)
+[21:16:00	]C24:i1.JUDGE-2 has lost a '25rnd Ump-magazine' #1643146.
+[21:16:00	]C24:i1.JUDGE-2 has gained a '25rnd Ump-magazine' #1643145.
+[21:16:15	]C24:i1.JUDGE-2 has gained a '25rnd Ump-magazine' #1643146.
+[21:16:15	]C24:i1.JUDGE-2 has lost a '25rnd Ump-magazine' #1643145.
+[21:16:42	]C24:i1.JUDGE-2 ran 'combine' on item '25rnd Ump-magazine' (#1643146)
+[21:16:43	]C24:i1.JUDGE-2 has gained a '25rnd Ump-magazine' #1643145.
+[21:16:43	]C24:i1.JUDGE-2 has lost a '25rnd Ump-magazine' #1643146.
+[21:16:48	]C24:i1.JUDGE-2 used command '/WaypointAdd CODE-1 120 Blue'.
+[21:17:13	]Console ran SAM command 'setrank' with arguments: 'judge-2' 'admin' '20'
+[21:17:27	]C24:i1.JUDGE-2 used command '/WaypointAdd CODE-1 120 Blue'.
+[21:17:28	]C24:i1.JUDGE-2 used command '/WaypointAdd CODE-2 120 Orange'.
+[21:17:29	]C24:i1.JUDGE-2 used command '/WaypointAdd CODE-3 200 RED'.
+[21:17:36	][ME] C24:i1.JUDGE-2: Produced some bandages using them to wrap their own wounds, helping stagnate any bleeding or cover their wounds.
+[21:17:37	][ME] C24:i1.JUDGE-2: Produced a IFAK opening it they use the contents to: Desinfect, hemostat and cover their wounds.
+[21:17:39	][ME] C24:i1.JUDGE-2: Produced a green glowing Stimdose, they stab it into their forearm allowing it to auto-inject the contents soon regenerati
+[21:17:40	]C24:i1.JUDGE-2 used command '/CharSearch'.
+[21:17:50	][ME] C24:i1.JUDGE-2: Pulled out a grenade, they pull the pin on the grenade they toss it letting it activate towards their target(s)
+[21:17:53	]C24:i1.JUDGE-2 used command '/CharSearch'.
+[21:17:54	][ME] C24:i1.JUDGE-2: Pulls out their Mac10 the safety off by default.
+[21:17:56	][ME] C24:i1.JUDGE-2: Pulls out their five-seven switching the safety off.
+[21:17:57	][ME] C24:i1.JUDGE-2: Pulls out their stunstick holding it firmly
+[21:17:58	][ME] C24:i1.JUDGE-2: Produced some bandages using them to wrap their own wounds, helping stagnate any bleeding or cover their wounds.
+[21:17:59	]C24:i1.JUDGE-2 used command '/WaypointAdd CODE-3 200 RED'.
+[21:18:00	]C24:i1.JUDGE-2 used command '/WaypointAdd CODE-3 200 RED'.
+[21:18:01	]C24:i1.JUDGE-2 used command '/WaypointAdd CODE-3 200 RED'.
+[21:19:20	]Console ran SAM command 'setrank' with arguments: 'judge-2' 'admin'
+[21:19:56	]Taliazure loaded the character 'ELputo loco'
+[21:20:01	]ELputo loco is fully healed.
+[21:20:27	]ELputo loco used command '/CreateCustomItem'.
+[21:20:43	]ELputo loco used command '/CreateCustomItem'.
+[21:21:23	]Taliazure loaded the character 'C24:i1.JUDGE-2'
+[21:23:18	]C24:i1.JUDGE-2 has spawned a med_computer.
+[21:23:27	]C24:i1.JUDGE-2 ran 'Equip' on item 'Stunstick' (#1373216)
+[21:23:27	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:23:29	]C24:i1.JUDGE-2 destroyed a 'Medical Computer' #1649929.
+[21:24:27	][IC] C24:i1.JUDGE-2: <:: All units respond, Code 3! ::>
+[21:25:00	][IC] C24:i1.JUDGE-2: <:: Dispatch, I need 10-78; officer in trouble! ::>
+[21:25:14	][IC] C24:i1.JUDGE-2: <:: Dispatch, I need 10-78; officer in trouble, all units respond, code 3! ::>
+[21:25:51	][IC] C24:i1.JUDGE-2: <:: Dispatch, I need 10-78; officer in trouble, shots fired; hostile malignants here. ::>
+[21:26:27	]C24:i1.JUDGE-2 ran 'drop' on item 'UMP-45' (#1643143)
+[21:26:27	]C24:i1.JUDGE-2 has lost a 'UMP-45' #1643143.
+[21:26:31	]C24:i1.JUDGE-2 has used a context menu option with the name: rb655_dissolve
+[21:26:33	]env_entity_dissolver destroyed a 'UMP-45' #1643143.
+[21:26:37	]C24:i1.JUDGE-2 ran 'Open' on item 'Civil Protection Ration' (#1647528)
+[21:26:37	]C24:i1.JUDGE-2 has gained a 'Metropolice Supplements' #1649930.
+[21:26:37	]C24:i1.JUDGE-2 has gained a 'Soda Bob Brawn' #1649931.
+[21:26:37	]C24:i1.JUDGE-2 has gained a 'Medium Credits Coupon' #1649932.
+[21:26:38	]C24:i1.JUDGE-2 ran 'Consume' on item 'Metropolice Supplements' (#1649930)
+[21:26:38	]C24:i1.JUDGE-2 has gained a level 3 long boost in Strength.
+[21:26:39	]C24:i1.JUDGE-2 ran 'Consume' on item 'Soda Bob Brawn' (#1649931)
+[21:26:39	]C24:i1.JUDGE-2 has gained a level 1 long boost in Perception.
+[21:26:39	]C24:i1.JUDGE-2 has gained a level 2 long boost in Agility.
+[21:26:40	]C24:i1.JUDGE-2 ran 'use' on item 'Bandage Roll' (#1595611)
+[21:26:40	]C24:i1.JUDGE-2 has performed the 'Use Bandage Roll' action, gaining 15 experience in medicine.
+[21:26:40	]C24:i1.JUDGE-2 was bandaged by C24:i1.JUDGE-2 for 18 HP.
+[21:26:41	]C24:i1.JUDGE-2 ran 'use' on item 'Surgical Kit' (#1352527)
+[21:26:41	]C24:i1.JUDGE-2 has performed the 'Use Surgical Kit' action, gaining 48 experience in medicine.
+[21:26:41	]C24:i1.JUDGE-2 was disinfected by C24:i1.JUDGE-2 for 357 seconds.
+[21:26:41	]C24:i1.JUDGE-2 was bandaged by C24:i1.JUDGE-2 for 79 HP.
+[21:26:42	]C24:i1.JUDGE-2 ran 'use' on item 'Bandage Roll' (#1595611)
+[21:26:42	]C24:i1.JUDGE-2 was bandaged by C24:i1.JUDGE-2 for 18 HP.
+[21:26:43	]C24:i1.JUDGE-2 ran 'use' on item 'Surgical Kit' (#1352527)
+[21:26:43	]C24:i1.JUDGE-2 was disinfected by C24:i1.JUDGE-2 for 357 seconds.
+[21:26:43	]C24:i1.JUDGE-2 was bandaged by C24:i1.JUDGE-2 for 79 HP.
+[21:26:44	]C24:i1.JUDGE-2 ran 'use' on item 'Surgical Kit' (#1352527)
+[21:26:44	]C24:i1.JUDGE-2 was disinfected by C24:i1.JUDGE-2 for 357 seconds.
+[21:26:44	]C24:i1.JUDGE-2 was bandaged by C24:i1.JUDGE-2 for 79 HP.
+[21:26:44	]C24:i1.JUDGE-2 has gained a 'Stitched Cloth' #1649933.
+[21:26:45	]C24:i1.JUDGE-2 ran 'use' on item 'Painkillers' (#1595610)
+[21:26:45	]C24:i1.JUDGE-2 ran 'use' on item 'Painkillers' (#1595610)
+[21:26:46	]C24:i1.JUDGE-2 ran 'use' on item 'Painkillers' (#1595610)
+[21:26:50	]C24:i1.JUDGE-2 ran 'drop' on item 'Hunter Compact (2.5x)' (#1616944)
+[21:26:50	]C24:i1.JUDGE-2 has lost a 'Hunter Compact (2.5x)' #1616944.
+[21:26:52	]C24:i1.JUDGE-2 has used a context menu option with the name: rb655_dissolve
+[21:26:54	]C24:i1.JUDGE-2 ran 'drop' on item 'Stitched Cloth' (#1649933)
+[21:26:54	]C24:i1.JUDGE-2 has lost a 'Stitched Cloth' #1649933.
+[21:26:54	]env_entity_dissolver destroyed a 'Hunter Compact (2.5x)' #1616944.
+[21:26:56	]C24:i1.JUDGE-2 has used a context menu option with the name: rb655_dissolve
+[21:26:58	]env_entity_dissolver destroyed a 'Stitched Cloth' #1649933.
+[21:27:28	]C24:i1.JUDGE-2 has spawned a p90.
+[21:27:32	]C24:i1.JUDGE-2 has used a context menu option with the name: rb655_dissolve
+[21:27:34	]env_entity_dissolver destroyed a 'P90' #1649934.
+[21:28:29	]C24:i1.JUDGE-2 has spawned a mac10.
+[21:28:31	]C24:i1.JUDGE-2 ran 'take' on item 'Mac-10' (#1649935)
+[21:28:31	]C24:i1.JUDGE-2 has gained a 'Mac-10' #1649935.
+[21:28:33	]C24:i1.JUDGE-2 ran 'Equip' on item 'Mac-10' (#1649935)
+[21:28:33	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:28:53	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:28:55	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649936)
+[21:28:55	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649936.
+[21:28:58	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:28:58	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:28:59	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:28:59	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:29:00	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649939)
+[21:29:00	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649939.
+[21:29:01	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649940)
+[21:29:01	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649940.
+[21:29:02	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649937)
+[21:29:02	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649937.
+[21:29:03	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649938)
+[21:29:03	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649938.
+[21:29:19	]C24:i1.JUDGE-2 has spawned a magazine_mac10_30rnd.
+[21:29:19	]C24:i1.JUDGE-2 has spawned a magazine_mac10_30rnd.
+[21:29:21	]C24:i1.JUDGE-2 ran 'take' on item '30rnd Mac-magazine' (#1649942)
+[21:29:21	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649942.
+[21:29:22	]C24:i1.JUDGE-2 ran 'take' on item '30rnd Mac-magazine' (#1649941)
+[21:29:22	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649941.
+[21:29:38	]C24:i1.JUDGE-2 is fully healed.
+[21:29:38	]C24:i1.JUDGE-2 has spawned a 'NPC [398][npc_metropolice]'.
+[21:29:44	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Mac-magazine' (#1649942)
+[21:29:45	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Mac-magazine' (#1649941)
+[21:29:46	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649942.
+[21:29:59	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:30:16	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:30:18	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:30:20	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:30:21	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:30:24	]C24:i1.JUDGE-2 has spawned a 'NPC [398][npc_metropolice]'.
+[21:30:26	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[21:30:27	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[21:30:29	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 4 damage (CritChance was 1.01).
+[21:30:32	]C24:i1.JUDGE-2 has spawned a 'NPC [401][npc_metropolice]'.
+[21:30:33	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left leg dealing 8 damage (CritChance was 1.01).
+[21:30:40	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left leg dealing 8 damage (CritChance was 1.01).
+[21:30:41	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right leg dealing 8 damage (CritChance was 1.01).
+[21:30:43	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[21:30:44	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[21:30:46	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649942.
+[21:30:46	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649941.
+[21:30:49	]C24:i1.JUDGE-2 has spawned a 'NPC [401][npc_metropolice]'.
+[21:30:53	]C24:i1.JUDGE-2 has used a context menu option with the name: rb655_dissolve
+[21:31:01	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649941.
+[21:31:01	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649942.
+[21:31:05	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:31:07	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[21:31:15	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:31:18	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:31:20	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[21:31:23	]C24:i1.JUDGE-2 has spawned a 'NPC [401][npc_metropolice]'.
+[21:31:24	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 7 damage (CritChance was 0.91).
+[21:31:24	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 0.99).
+[21:31:25	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 0 damage (CritChance was 1.01).
+[21:31:25	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 7 damage (CritChance was 0.91).
+[21:31:25	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:31:25	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 7 damage (CritChance was 0.91).
+[21:31:25	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 7 damage (CritChance was 0.91).
+[21:31:25	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:31:29	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649942.
+[21:31:29	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649941.
+[21:31:31	]C24:i1.JUDGE-2 has spawned a 'NPC [401][npc_metropolice]'.
+[21:31:31	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:31:33	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:31:33	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 7 damage (CritChance was 0.95).
+[21:31:33	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[21:31:33	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 0 damage (CritChance was 1.01).
+[21:31:33	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[21:31:38	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Mac-magazine' (#1649942)
+[21:31:39	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649941.
+[21:31:39	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649942.
+[21:31:42	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Mac-magazine' (#1649941)
+[21:31:46	]C24:i1.JUDGE-2 used command '/PrintStaffList'.
+[21:31:48	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:32:15	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649942.
+[21:32:15	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649941.
+[21:32:16	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:32:23	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:32:24	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Mac-magazine' (#1649942)
+[21:32:25	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Mac-magazine' (#1649942)
+[21:32:28	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Mac-magazine' (#1649942)
+[21:32:28	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649941.
+[21:32:28	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649942.
+[21:32:29	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Mac-magazine' (#1649941)
+[21:32:31	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Mac-magazine' (#1649941)
+[21:32:48	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:33:10	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649942.
+[21:33:10	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649941.
+[21:33:11	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:33:42	]C24:i1.JUDGE-2 has spawned a go_mp9_barrel_long.
+[21:33:43	]C24:i1.JUDGE-2 ran 'take' on item '350mm Carbine Barrel' (#1649943)
+[21:33:43	]C24:i1.JUDGE-2 has gained a '350mm Carbine Barrel' #1649943.
+[21:33:51	]C24:i1.JUDGE-2 has spawned a go_mac10_barrel_med.
+[21:33:52	]C24:i1.JUDGE-2 ran 'take' on item '200mm Patrol Barrel' (#1649944)
+[21:33:52	]C24:i1.JUDGE-2 has gained a '200mm Patrol Barrel' #1649944.
+[21:34:11	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:34:11	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:34:11	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:34:11	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:34:11	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:34:12	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:34:12	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:34:12	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:34:12	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:34:14	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649952)
+[21:34:14	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649952.
+[21:34:14	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649947)
+[21:34:14	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649947.
+[21:34:15	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649949)
+[21:34:15	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649949.
+[21:34:16	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649950)
+[21:34:16	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649950.
+[21:34:16	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649945)
+[21:34:16	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649945.
+[21:34:17	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649948)
+[21:34:17	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649948.
+[21:34:18	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649946)
+[21:34:18	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649946.
+[21:34:18	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649951)
+[21:34:18	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649951.
+[21:34:19	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649953)
+[21:34:19	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649953.
+[21:34:22	]C24:i1.JUDGE-2 ran 'combine' on item 'Sub-machinegun Bullets' (#1649950)
+[21:34:25	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Mac-magazine' (#1649942)
+[21:34:25	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649941.
+[21:34:25	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649942.
+[21:34:26	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Mac-magazine' (#1649941)
+[21:34:53	]C24:i1.JUDGE-2 has spawned a 'NPC [401][npc_zombie]'.
+[21:35:02	]C24:i1.JUDGE-2 has spawned a 'NPC [407][npc_zombie]'.
+[21:35:08	]C24:i1.JUDGE-2 has spawned a 'NPC [401][npc_metropolice]'.
+[21:35:10	]C24:i1.JUDGE-2 has lost a '200mm Patrol Barrel' #1649944.
+[21:35:29	]C24:i1.JUDGE-2 has spawned a go_mac10_barrel_long.
+[21:35:30	]C24:i1.JUDGE-2 ran 'take' on item '350mm Carbine Barrel' (#1649954)
+[21:35:30	]C24:i1.JUDGE-2 has gained a '350mm Carbine Barrel' #1649954.
+[21:35:32	]C24:i1.JUDGE-2 has gained a '200mm Patrol Barrel' #1649944.
+[21:35:32	]C24:i1.JUDGE-2 has lost a '350mm Carbine Barrel' #1649954.
+[21:35:33	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:35:40	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 7 damage (CritChance was 0.96).
+[21:35:42	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:35:44	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:35:44	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:35:55	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 8 damage (CritChance was 1.01).
+[21:35:55	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[21:36:02	]C24:i1.JUDGE-2 has spawned a 'NPC [401][npc_combine_s]'.
+[21:36:03	]C24:i1.JUDGE-2 has critically hit npc_combine_s in the head dealing 9 damage (CritChance was 1.01).
+[21:36:03	]C24:i1.JUDGE-2 has critically hit npc_combine_s in the left arm dealing 0 damage (CritChance was 0.94).
+[21:36:03	]C24:i1.JUDGE-2 has critically hit npc_combine_s in the left arm dealing 7 damage (CritChance was 0.94).
+[21:36:03	]C24:i1.JUDGE-2 has critically hit npc_combine_s in the right arm dealing 7 damage (CritChance was 0.94).
+[21:36:03	]C24:i1.JUDGE-2 has critically hit npc_combine_s in the right arm dealing 7 damage (CritChance was 0.94).
+[21:36:03	]C24:i1.JUDGE-2 has critically hit npc_combine_s in the right arm dealing 7 damage (CritChance was 0.94).
+[21:36:04	]C24:i1.JUDGE-2 has critically hit npc_combine_s in the right leg dealing 8 damage (CritChance was 1.01).
+[21:36:04	]C24:i1.JUDGE-2 has critically hit npc_combine_s dealing 8 damage (CritChance was 1.01).
+[21:36:04	]C24:i1.JUDGE-2 has critically hit npc_combine_s in the head dealing 9 damage (CritChance was 1.01).
+[21:36:23	]C24:i1.JUDGE-2 has gained a '350mm Carbine Barrel' #1649954.
+[21:36:23	]C24:i1.JUDGE-2 has lost a '200mm Patrol Barrel' #1649944.
+[21:36:25	]C24:i1.JUDGE-2 has spawned a 'NPC [401][npc_metropolice]'.
+[21:36:26	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649942.
+[21:36:26	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649941.
+[21:36:27	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:36:29	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:36:31	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:36:31	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:36:32	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 0 damage (CritChance was 0.95).
+[21:36:32	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 7 damage (CritChance was 0.95).
+[21:36:32	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 8 damage (CritChance was 1.01).
+[21:36:33	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[21:36:37	]C24:i1.JUDGE-2 has spawned a 'NPC [401][npc_metropolice]'.
+[21:36:39	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[21:36:40	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[21:36:41	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:36:44	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Mac-magazine' (#1649942)
+[21:36:45	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649941.
+[21:36:45	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649942.
+[21:36:47	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Mac-magazine' (#1649941)
+[21:36:48	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:36:50	]C24:i1.JUDGE-2 has gained a '200mm Patrol Barrel' #1649944.
+[21:36:53	]C24:i1.JUDGE-2 ran 'drop' on item '200mm Patrol Barrel' (#1649944)
+[21:36:53	]C24:i1.JUDGE-2 has lost a '200mm Patrol Barrel' #1649944.
+[21:36:53	]C24:i1.JUDGE-2 ran 'drop' on item '350mm Carbine Barrel' (#1649943)
+[21:36:53	]C24:i1.JUDGE-2 has lost a '350mm Carbine Barrel' #1649943.
+[21:36:54	]C24:i1.JUDGE-2 ran 'drop' on item '350mm Carbine Barrel' (#1649954)
+[21:36:54	]C24:i1.JUDGE-2 has lost a '350mm Carbine Barrel' #1649954.
+[21:36:55	]C24:i1.JUDGE-2 destroyed a '350mm Carbine Barrel' #1649943.
+[21:36:55	]C24:i1.JUDGE-2 destroyed a '200mm Patrol Barrel' #1649944.
+[21:36:56	]C24:i1.JUDGE-2 destroyed a '350mm Carbine Barrel' #1649954.
+[21:37:20	]C24:i1.JUDGE-2 has spawned a go_muzz_booster.
+[21:37:21	]C24:i1.JUDGE-2 ran 'take' on item 'Muzzle Booster' (#1649955)
+[21:37:21	]C24:i1.JUDGE-2 has gained a 'Muzzle Booster' #1649955.
+[21:37:23	]C24:i1.JUDGE-2 has lost a 'Muzzle Booster' #1649955.
+[21:37:27	]C24:i1.JUDGE-2 has spawned a 'NPC [401][npc_metropolice]'.
+[21:37:28	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:37:28	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[21:37:28	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[21:37:32	]C24:i1.JUDGE-2 has spawned a 'NPC [401][npc_metropolice]'.
+[21:37:32	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 8 damage (CritChance was 1.01).
+[21:37:32	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:37:33	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:37:33	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:37:33	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 8 damage (CritChance was 1.01).
+[21:37:34	]C24:i1.JUDGE-2 has spawned a 'NPC [414][npc_metropolice]'.
+[21:37:36	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649942.
+[21:37:36	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649941.
+[21:37:42	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:37:49	]C24:i1.JUDGE-2 has used a context menu option with the name: bone_manipulate
+[21:37:51	]C24:i1.JUDGE-2 has used a context menu option with the name: bodygroups
+[21:37:57	]C24:i1.JUDGE-2 has used a context menu option with the name: rb655_make_animatable
+[21:37:59	]C24:i1.JUDGE-2 has used a context menu option with the name: rb655_animatable_ragdoll_on_dmg
+[21:38:04	]C24:i1.JUDGE-2 has used a context menu option with the name: rb655_dissolve
+[21:38:06	]C24:i1.JUDGE-2 has spawned a 'NPC [418][npc_metropolice]'.
+[21:38:10	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right leg dealing 8 damage (CritChance was 1.01).
+[21:38:10	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 8 damage (CritChance was 1.01).
+[21:38:13	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left leg dealing 8 damage (CritChance was 1.01).
+[21:38:16	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Mac-magazine' (#1649942)
+[21:38:17	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Mac-magazine' (#1649942)
+[21:38:18	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649941.
+[21:38:18	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649942.
+[21:38:19	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Mac-magazine' (#1649941)
+[21:38:19	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Mac-magazine' (#1649941)
+[21:38:21	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:38:22	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 7 damage (CritChance was 1.01).
+[21:38:22	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 8 damage (CritChance was 1.01).
+[21:38:22	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 7 damage (CritChance was 1.01).
+[21:38:22	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:38:24	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 8 damage (CritChance was 1.01).
+[21:38:24	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:38:26	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649942.
+[21:38:26	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649941.
+[21:38:31	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:38:34	]C24:i1.JUDGE-2 has gained a 'Muzzle Booster' #1649955.
+[21:38:57	]C24:i1.JUDGE-2 has spawned a go_stock_basilisk.
+[21:38:59	]C24:i1.JUDGE-2 ran 'take' on item 'Basilisk Stock' (#1649956)
+[21:38:59	]C24:i1.JUDGE-2 has gained a 'Basilisk Stock' #1649956.
+[21:39:00	]C24:i1.JUDGE-2 has lost a 'Basilisk Stock' #1649956.
+[21:39:02	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649941.
+[21:39:02	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649942.
+[21:39:07	]C24:i1.JUDGE-2 has spawned a 'NPC [414][npc_metropolice]'.
+[21:39:09	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:39:10	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 7 damage (CritChance was 0.94).
+[21:39:10	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 7 damage (CritChance was 0.94).
+[21:39:10	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 7 damage (CritChance was 0.94).
+[21:39:13	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649942.
+[21:39:13	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649941.
+[21:39:16	]C24:i1.JUDGE-2 has spawned a 'NPC [415][npc_metropolice]'.
+[21:39:16	]C24:i1.JUDGE-2 has spawned a 'NPC [416][npc_metropolice]'.
+[21:39:17	]C24:i1.JUDGE-2 has spawned a 'NPC [417][npc_metropolice]'.
+[21:39:18	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 5 damage (CritChance was 1.01).
+[21:39:18	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 7 damage (CritChance was 0.94).
+[21:39:18	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 7 damage (CritChance was 1.01).
+[21:39:18	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:39:18	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[21:39:19	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 6 damage (CritChance was 1.01).
+[21:39:19	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 7 damage (CritChance was 0.94).
+[21:39:19	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 5 damage (CritChance was 1.01).
+[21:39:19	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 7 damage (CritChance was 0.94).
+[21:39:19	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[21:39:19	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 6 damage (CritChance was 1.01).
+[21:39:19	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:39:19	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 7 damage (CritChance was 0.94).
+[21:39:19	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 8 damage (CritChance was 1.01).
+[21:39:19	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:39:19	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right leg dealing 7 damage (CritChance was 1.01).
+[21:39:20	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:39:20	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[21:39:22	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 7 damage (CritChance was 0.94).
+[21:39:22	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:39:22	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 7 damage (CritChance was 0.94).
+[21:39:22	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:39:22	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 8 damage (CritChance was 1.01).
+[21:39:22	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 7 damage (CritChance was 0.94).
+[21:39:27	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Mac-magazine' (#1649942)
+[21:39:28	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649941.
+[21:39:28	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649942.
+[21:39:29	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Mac-magazine' (#1649941)
+[21:39:30	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:39:32	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:40:09	]C24:i1.JUDGE-2 has gained a 'Basilisk Stock' #1649956.
+[21:40:49	]C24:i1.JUDGE-2 has spawned a go_ammo_tmj.
+[21:40:50	]C24:i1.JUDGE-2 ran 'take' on item 'TMJ Rounds' (#1649957)
+[21:40:50	]C24:i1.JUDGE-2 has gained a 'TMJ Rounds' #1649957.
+[21:41:07	]C24:i1.JUDGE-2 has lost a 'TMJ Rounds' #1649957.
+[21:41:12	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649942.
+[21:41:12	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649941.
+[21:41:14	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:41:17	]C24:i1.JUDGE-2 has spawned a 'NPC [414][npc_metropolice]'.
+[21:41:18	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:41:19	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 8 damage (CritChance was 1.01).
+[21:41:21	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:41:21	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:41:23	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 7 damage (CritChance was 1.01).
+[21:41:25	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[21:42:15	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Mac-magazine' (#1649942)
+[21:42:16	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649941.
+[21:42:16	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649942.
+[21:42:37	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'Mac-10' (#1649935)
+[21:42:37	]C24:i1.JUDGE-2 has gained a '30rnd Mac-magazine' #1649942.
+[21:42:38	]C24:i1.JUDGE-2 ran 'drop' on item 'Mac-10' (#1649935)
+[21:42:38	]C24:i1.JUDGE-2 has lost a 'Mac-10' #1649935.
+[21:42:39	]C24:i1.JUDGE-2 ran 'drop' on item '30rnd Mac-magazine' (#1649941)
+[21:42:39	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649941.
+[21:42:39	]C24:i1.JUDGE-2 ran 'drop' on item '30rnd Mac-magazine' (#1649942)
+[21:42:39	]C24:i1.JUDGE-2 has lost a '30rnd Mac-magazine' #1649942.
+[21:42:39	]C24:i1.JUDGE-2 ran 'drop' on item 'Basilisk Stock' (#1649956)
+[21:42:39	]C24:i1.JUDGE-2 has lost a 'Basilisk Stock' #1649956.
+[21:42:40	]C24:i1.JUDGE-2 ran 'drop' on item 'Muzzle Booster' (#1649955)
+[21:42:40	]C24:i1.JUDGE-2 has lost a 'Muzzle Booster' #1649955.
+[21:42:42	]C24:i1.JUDGE-2 has used a context menu option with the name: rb655_dissolve
+[21:42:43	]C24:i1.JUDGE-2 has used a context menu option with the name: rb655_dissolve
+[21:42:44	]env_entity_dissolver destroyed a 'Basilisk Stock' #1649956.
+[21:42:45	]C24:i1.JUDGE-2 has used a context menu option with the name: rb655_dissolve
+[21:42:45	]env_entity_dissolver destroyed a 'Muzzle Booster' #1649955.
+[21:42:46	]C24:i1.JUDGE-2 has used a context menu option with the name: rb655_dissolve
+[21:42:47	]env_entity_dissolver destroyed a '30rnd Mac-magazine' #1649942.
+[21:42:48	]env_entity_dissolver destroyed a '30rnd Mac-magazine' #1649941.
+[21:42:48	]C24:i1.JUDGE-2 has used a context menu option with the name: rb655_dissolve
+[21:42:50	]env_entity_dissolver destroyed a 'Mac-10' #1649935.
+[21:42:52	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:53	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:53	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:53	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:53	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:53	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:54	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:54	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:54	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:54	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:55	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:55	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:55	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:55	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:56	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:56	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:56	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:56	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:56	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:57	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:57	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:57	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:59	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:59	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:59	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:42:59	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:43:00	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:43:14	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:43:14	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:43:15	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:43:15	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:43:15	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:43:15	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:43:16	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:43:16	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[21:43:25	]C24:i1.JUDGE-2 has spawned a p90.
+[21:43:27	]C24:i1.JUDGE-2 ran 'take' on item 'P90' (#1649958)
+[21:43:27	]C24:i1.JUDGE-2 has gained a 'P90' #1649958.
+[21:43:29	]C24:i1.JUDGE-2 ran 'Equip' on item 'P90' (#1649958)
+[21:43:29	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:43:41	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:43:41	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:43:43	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649959)
+[21:43:43	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649959.
+[21:43:44	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649960)
+[21:43:44	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649960.
+[21:43:48	]C24:i1.JUDGE-2 has spawned a magazine_p90_50rnd.
+[21:43:50	]C24:i1.JUDGE-2 ran 'take' on item '50rnd P90-magazine' (#1649961)
+[21:43:50	]C24:i1.JUDGE-2 has gained a '50rnd P90-magazine' #1649961.
+[21:43:51	]C24:i1.JUDGE-2 has spawned a magazine_p90_50rnd.
+[21:43:52	]C24:i1.JUDGE-2 ran 'take' on item '50rnd P90-magazine' (#1649962)
+[21:43:52	]C24:i1.JUDGE-2 has gained a '50rnd P90-magazine' #1649962.
+[21:43:53	]C24:i1.JUDGE-2 ran 'combine' on item '50rnd P90-magazine' (#1649962)
+[21:43:54	]C24:i1.JUDGE-2 ran 'combine' on item '50rnd P90-magazine' (#1649961)
+[21:43:59	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:43:59	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:44:00	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649964)
+[21:44:00	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649964.
+[21:44:00	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649963)
+[21:44:00	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649963.
+[21:44:01	]C24:i1.JUDGE-2 ran 'combine' on item '50rnd P90-magazine' (#1649962)
+[21:44:02	]C24:i1.JUDGE-2 ran 'combine' on item '50rnd P90-magazine' (#1649961)
+[21:44:02	]C24:i1.JUDGE-2 has lost a '50rnd P90-magazine' #1649962.
+[21:44:08	]C24:i1.JUDGE-2 has spawned a 'NPC [401][npc_metropolice]'.
+[21:44:10	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[21:44:11	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:44:12	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:44:12	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[21:44:16	]C24:i1.JUDGE-2 has gained a '50rnd P90-magazine' #1649962.
+[21:44:16	]C24:i1.JUDGE-2 has lost a '50rnd P90-magazine' #1649961.
+[21:44:20	]C24:i1.JUDGE-2 has spawned a 'NPC [401][npc_metropolice]'.
+[21:44:21	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:44:23	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[21:44:23	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 8 damage (CritChance was 1.01).
+[21:44:23	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 7 damage (CritChance was 1.01).
+[21:44:23	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 7 damage (CritChance was 1.01).
+[21:44:23	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 7 damage (CritChance was 1.01).
+[21:44:23	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 7 damage (CritChance was 1.01).
+[21:44:23	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 7 damage (CritChance was 1.01).
+[21:44:24	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 7 damage (CritChance was 1.01).
+[21:44:24	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 7 damage (CritChance was 1.01).
+[21:44:24	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 7 damage (CritChance was 1.01).
+[21:44:24	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 8 damage (CritChance was 1.01).
+[21:44:24	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 8 damage (CritChance was 1.01).
+[21:44:58	]C24:i1.JUDGE-2 has gained a '50rnd P90-magazine' #1649961.
+[21:44:58	]C24:i1.JUDGE-2 has lost a '50rnd P90-magazine' #1649962.
+[21:45:00	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:45:22	]C24:i1.JUDGE-2 has spawned a go_p90_barrel_long.
+[21:45:30	]C24:i1.JUDGE-2 has spawned a go_p90_barrel_med.
+[21:45:32	]C24:i1.JUDGE-2 ran 'take' on item '410mm PS90 Barrel' (#1649966)
+[21:45:32	]C24:i1.JUDGE-2 has gained a '410mm PS90 Barrel' #1649966.
+[21:45:33	]C24:i1.JUDGE-2 ran 'take' on item '800mm Devolution Barrel' (#1649965)
+[21:45:33	]C24:i1.JUDGE-2 has gained a '800mm Devolution Barrel' #1649965.
+[21:45:34	]C24:i1.JUDGE-2 ran 'combine' on item '50rnd P90-magazine' (#1649961)
+[21:45:35	]C24:i1.JUDGE-2 ran 'combine' on item '50rnd P90-magazine' (#1649961)
+[21:45:36	]C24:i1.JUDGE-2 ran 'removeMag' on item 'P90' (#1649958)
+[21:45:36	]C24:i1.JUDGE-2 has gained a '50rnd P90-magazine' #1649962.
+[21:45:37	]C24:i1.JUDGE-2 ran 'unload' on item '50rnd P90-magazine' (#1649962)
+[21:45:37	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649967.
+[21:45:38	]C24:i1.JUDGE-2 ran 'combine' on item '50rnd P90-magazine' (#1649961)
+[21:45:39	]C24:i1.JUDGE-2 has lost a '50rnd P90-magazine' #1649961.
+[21:45:40	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:45:45	]C24:i1.JUDGE-2 has lost a '800mm Devolution Barrel' #1649965.
+[21:45:55	]C24:i1.JUDGE-2 has gained a '800mm Devolution Barrel' #1649965.
+[21:45:55	]C24:i1.JUDGE-2 has lost a '410mm PS90 Barrel' #1649966.
+[21:45:59	]C24:i1.JUDGE-2 has gained a '410mm PS90 Barrel' #1649966.
+[21:46:00	]C24:i1.JUDGE-2 has lost a '410mm PS90 Barrel' #1649966.
+[21:46:14	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:46:14	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:46:14	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:46:14	]C24:i1.JUDGE-2 has spawned a bullets_smg1.
+[21:46:16	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649968)
+[21:46:16	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649968.
+[21:46:17	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649971)
+[21:46:17	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649971.
+[21:46:19	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649969)
+[21:46:19	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649969.
+[21:46:20	]C24:i1.JUDGE-2 ran 'take' on item 'Sub-machinegun Bullets' (#1649970)
+[21:46:20	]C24:i1.JUDGE-2 has gained a 'Sub-machinegun Bullets' #1649970.
+[21:46:21	]C24:i1.JUDGE-2 ran 'combine' on item '50rnd P90-magazine' (#1649962)
+[21:46:22	]C24:i1.JUDGE-2 ran 'combine' on item '50rnd P90-magazine' (#1649962)
+[21:46:24	]C24:i1.JUDGE-2 has gained a '50rnd P90-magazine' #1649961.
+[21:46:24	]C24:i1.JUDGE-2 has lost a '50rnd P90-magazine' #1649962.
+[21:46:25	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:46:26	]C24:i1.JUDGE-2 ran 'combine' on item '50rnd P90-magazine' (#1649961)
+[21:46:28	]C24:i1.JUDGE-2 ran 'combine' on item '50rnd P90-magazine' (#1649961)
+[21:46:29	]C24:i1.JUDGE-2 ran 'combine' on item '50rnd P90-magazine' (#1649961)
+[21:46:32	]C24:i1.JUDGE-2 has gained a '410mm PS90 Barrel' #1649966.
+[21:46:32	]C24:i1.JUDGE-2 has lost a '800mm Devolution Barrel' #1649965.
+[21:46:49	]C24:i1.JUDGE-2 has spawned a go_optic_lp_t1.
+[21:46:50	]C24:i1.JUDGE-2 ran 'take' on item 'Micro T1 (LP)' (#1649972)
+[21:46:50	]C24:i1.JUDGE-2 has gained a 'Micro T1 (LP)' #1649972.
+[21:47:10	]C24:i1.JUDGE-2 has spawned a go_optic_cmore.
+[21:47:12	]C24:i1.JUDGE-2 ran 'take' on item 'C-More (RDS)' (#1649973)
+[21:47:12	]C24:i1.JUDGE-2 has gained a 'C-More (RDS)' #1649973.
+[21:47:14	]C24:i1.JUDGE-2 has lost a 'C-More (RDS)' #1649973.
+[21:47:31	]C24:i1.JUDGE-2 has spawned a ins2_si_kobra.
+[21:47:32	]C24:i1.JUDGE-2 ran 'take' on item 'Kobra Reflex Sight' (#1649974)
+[21:47:32	]C24:i1.JUDGE-2 has gained a 'Kobra Reflex Sight' #1649974.
+[21:47:35	]C24:i1.JUDGE-2 has spawned a go_optic_kobra.
+[21:47:36	]C24:i1.JUDGE-2 ran 'take' on item 'EKP-8-18 Kobra (RDS)' (#1649975)
+[21:47:36	]C24:i1.JUDGE-2 has gained a 'EKP-8-18 Kobra (RDS)' #1649975.
+[21:47:38	]C24:i1.JUDGE-2 has gained a 'C-More (RDS)' #1649973.
+[21:47:38	]C24:i1.JUDGE-2 has lost a 'EKP-8-18 Kobra (RDS)' #1649975.
+[21:47:50	]C24:i1.JUDGE-2 has spawned a go_optic_eotech.
+[21:47:51	]C24:i1.JUDGE-2 has spawned a attn_eotech.
+[21:47:51	]C24:i1.JUDGE-2 ran 'take' on item 'EOTech 552' (#1649977)
+[21:47:51	]C24:i1.JUDGE-2 has gained a 'EOTech 552' #1649977.
+[21:47:52	]C24:i1.JUDGE-2 ran 'take' on item 'EOTech 553 (RDS)' (#1649976)
+[21:47:52	]C24:i1.JUDGE-2 has gained a 'EOTech 553 (RDS)' #1649976.
+[21:47:54	]C24:i1.JUDGE-2 has gained a 'EKP-8-18 Kobra (RDS)' #1649975.
+[21:47:54	]C24:i1.JUDGE-2 has lost a 'EOTech 553 (RDS)' #1649976.
+[21:47:56	]C24:i1.JUDGE-2 ran 'drop' on item 'EKP-8-18 Kobra (RDS)' (#1649975)
+[21:47:56	]C24:i1.JUDGE-2 has lost a 'EKP-8-18 Kobra (RDS)' #1649975.
+[21:47:56	]C24:i1.JUDGE-2 ran 'drop' on item 'EOTech 552' (#1649977)
+[21:47:56	]C24:i1.JUDGE-2 has lost a 'EOTech 552' #1649977.
+[21:47:56	]C24:i1.JUDGE-2 ran 'drop' on item 'Kobra Reflex Sight' (#1649974)
+[21:47:56	]C24:i1.JUDGE-2 has lost a 'Kobra Reflex Sight' #1649974.
+[21:47:57	]C24:i1.JUDGE-2 ran 'drop' on item 'Micro T1 (LP)' (#1649972)
+[21:47:57	]C24:i1.JUDGE-2 has lost a 'Micro T1 (LP)' #1649972.
+[21:47:57	]C24:i1.JUDGE-2 ran 'drop' on item '410mm PS90 Barrel' (#1649966)
+[21:47:57	]C24:i1.JUDGE-2 has lost a '410mm PS90 Barrel' #1649966.
+[21:47:57	]C24:i1.JUDGE-2 ran 'drop' on item 'C-More (RDS)' (#1649973)
+[21:47:57	]C24:i1.JUDGE-2 has lost a 'C-More (RDS)' #1649973.
+[21:47:58	]C24:i1.JUDGE-2 destroyed a 'C-More (RDS)' #1649973.
+[21:47:59	]C24:i1.JUDGE-2 destroyed a '410mm PS90 Barrel' #1649966.
+[21:47:59	]C24:i1.JUDGE-2 destroyed a 'EOTech 552' #1649977.
+[21:47:59	]C24:i1.JUDGE-2 destroyed a 'EKP-8-18 Kobra (RDS)' #1649975.
+[21:48:00	]C24:i1.JUDGE-2 destroyed a 'Kobra Reflex Sight' #1649974.
+[21:48:00	]C24:i1.JUDGE-2 destroyed a 'Micro T1 (LP)' #1649972.
+[21:48:24	]C24:i1.JUDGE-2 has spawned a go_foregrip_angled.
+[21:48:26	]C24:i1.JUDGE-2 ran 'take' on item 'Angled Foregrip' (#1649978)
+[21:48:26	]C24:i1.JUDGE-2 has gained a 'Angled Foregrip' #1649978.
+[21:48:27	]C24:i1.JUDGE-2 has lost a 'Angled Foregrip' #1649978.
+[21:48:47	]C24:i1.JUDGE-2 has spawned a go_supp_ssq.
+[21:48:48	]C24:i1.JUDGE-2 ran 'take' on item 'SSQ Suppressor' (#1649979)
+[21:48:48	]C24:i1.JUDGE-2 has gained a 'SSQ Suppressor' #1649979.
+[21:48:49	]C24:i1.JUDGE-2 has lost a 'SSQ Suppressor' #1649979.
+[21:55:27	]C24:i1.JUDGE-2 ran 'drop' on item 'USP-45' (#1647523)
+[21:55:27	]C24:i1.JUDGE-2 has lost a 'USP-45' #1647523.
+[21:55:28	]C24:i1.JUDGE-2 destroyed a 'USP-45' #1647523.
+[21:55:32	]C24:i1.JUDGE-2 has spawned a fiveseven.
+[21:55:34	]C24:i1.JUDGE-2 ran 'take' on item 'FiveSeven' (#1649980)
+[21:55:34	]C24:i1.JUDGE-2 has gained a 'FiveSeven' #1649980.
+[21:55:36	]C24:i1.JUDGE-2 ran 'Equip' on item 'FiveSeven' (#1649980)
+[21:55:37	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:56:25	]C24:i1.JUDGE-2 has spawned a mp5a3.
+[21:56:29	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'FiveSeven' (#1649980)
+[21:56:29	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'P90' (#1649958)
+[21:56:29	]C24:i1.JUDGE-2 has gained a '50rnd P90-magazine' #1649962.
+[21:56:46	]C24:i1.JUDGE-2 ran 'take' on item 'MP5A3' (#1649981)
+[21:56:46	]C24:i1.JUDGE-2 has gained a 'MP5A3' #1649981.
+[21:56:47	]C24:i1.JUDGE-2 ran 'Equip' on item 'MP5A3' (#1649981)
+[21:57:25	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[21:57:43	]C24:i1.JUDGE-2 has spawned a go_mp5_barrel_sd.
+[21:57:50	]C24:i1.JUDGE-2 has spawned a go_mp9_barrel_long.
+[21:57:56	]C24:i1.JUDGE-2 ran 'take' on item '550mm Whisper Barrel' (#1649982)
+[21:57:56	]C24:i1.JUDGE-2 has gained a '550mm Whisper Barrel' #1649982.
+[21:57:57	]C24:i1.JUDGE-2 has spawned a go_mp5_barrel_long.
+[21:57:58	]C24:i1.JUDGE-2 ran 'take' on item '500mm Carbine Barrel' (#1649984)
+[21:57:58	]C24:i1.JUDGE-2 has gained a '500mm Carbine Barrel' #1649984.
+[21:58:00	]C24:i1.JUDGE-2 has lost a '500mm Carbine Barrel' #1649984.
+[21:58:00	]C24:i1.JUDGE-2 has gained a '500mm Carbine Barrel' #1649984.
+[21:58:00	]C24:i1.JUDGE-2 has lost a '550mm Whisper Barrel' #1649982.
+[21:58:05	]C24:i1.JUDGE-2 has gained a '550mm Whisper Barrel' #1649982.
+[21:58:05	]C24:i1.JUDGE-2 has lost a '500mm Carbine Barrel' #1649984.
+[21:58:07	]C24:i1.JUDGE-2 has gained a '500mm Carbine Barrel' #1649984.
+[21:58:07	]C24:i1.JUDGE-2 has lost a '500mm Carbine Barrel' #1649984.
+[21:58:24	]C24:i1.JUDGE-2 has spawned a attn_foregrip.
+[21:58:25	]C24:i1.JUDGE-2 ran 'take' on item 'Foregrip' (#1649985)
+[21:58:25	]C24:i1.JUDGE-2 has gained a 'Foregrip' #1649985.
+[21:58:30	]C24:i1.JUDGE-2 has spawned a go_foregrip_snatch.
+[21:58:31	]C24:i1.JUDGE-2 ran 'take' on item 'Snatch Foregrip' (#1649986)
+[21:58:31	]C24:i1.JUDGE-2 has gained a 'Snatch Foregrip' #1649986.
+[21:58:33	]C24:i1.JUDGE-2 has lost a 'Snatch Foregrip' #1649986.
+[21:58:37	]C24:i1.JUDGE-2 has gained a 'Snatch Foregrip' #1649986.
+[21:58:41	]C24:i1.JUDGE-2 has spawned a go_foregrip.
+[21:58:42	]C24:i1.JUDGE-2 ran 'take' on item 'Battle Foregrip' (#1649987)
+[21:58:42	]C24:i1.JUDGE-2 has gained a 'Battle Foregrip' #1649987.
+[21:58:44	]C24:i1.JUDGE-2 has lost a 'Battle Foregrip' #1649987.
+[21:58:48	]C24:i1.JUDGE-2 has gained a '500mm Carbine Barrel' #1649984.
+[21:58:49	]C24:i1.JUDGE-2 has lost a '550mm Whisper Barrel' #1649982.
+[21:58:57	]C24:i1.JUDGE-2 has gained a '550mm Whisper Barrel' #1649982.
+[21:58:57	]C24:i1.JUDGE-2 has lost a '500mm Carbine Barrel' #1649984.
+[21:59:09	]C24:i1.JUDGE-2 has gained a '500mm Carbine Barrel' #1649984.
+[21:59:13	]C24:i1.JUDGE-2 has spawned a go_mp5_barrel_short.
+[21:59:14	]C24:i1.JUDGE-2 ran 'take' on item '150mm Kurz Barrel' (#1649988)
+[21:59:14	]C24:i1.JUDGE-2 has gained a '150mm Kurz Barrel' #1649988.
+[21:59:15	]C24:i1.JUDGE-2 has lost a '150mm Kurz Barrel' #1649988.
+[21:59:19	]C24:i1.JUDGE-2 has gained a '150mm Kurz Barrel' #1649988.
+[21:59:19	]C24:i1.JUDGE-2 has lost a '150mm Kurz Barrel' #1649988.
+[21:59:20	]C24:i1.JUDGE-2 has gained a 'Battle Foregrip' #1649987.
+[21:59:23	]C24:i1.JUDGE-2 has gained a '150mm Kurz Barrel' #1649988.
+[21:59:23	]C24:i1.JUDGE-2 has lost a '500mm Carbine Barrel' #1649984.
+[21:59:31	]C24:i1.JUDGE-2 has lost a 'Battle Foregrip' #1649987.
+[21:59:38	]C24:i1.JUDGE-2 has spawned a go_supp_ssq.
+[21:59:39	]C24:i1.JUDGE-2 ran 'take' on item 'SSQ Suppressor' (#1649989)
+[21:59:39	]C24:i1.JUDGE-2 has gained a 'SSQ Suppressor' #1649989.
+[21:59:42	]C24:i1.JUDGE-2 has lost a 'SSQ Suppressor' #1649989.
+[22:00:04	]C24:i1.JUDGE-2 has spawned a go_optic_hamr.
+[22:00:05	]C24:i1.JUDGE-2 ran 'take' on item 'Leupold HAMR (HYBR)' (#1649990)
+[22:00:05	]C24:i1.JUDGE-2 has gained a 'Leupold HAMR (HYBR)' #1649990.
+[22:00:06	]C24:i1.JUDGE-2 has lost a 'Leupold HAMR (HYBR)' #1649990.
+[22:01:00	]C24:i1.JUDGE-2 has spawned a go_optic_ssr.
+[22:01:02	]C24:i1.JUDGE-2 ran 'take' on item 'LPVO Scope (8x)' (#1649991)
+[22:01:02	]C24:i1.JUDGE-2 has gained a 'LPVO Scope (8x)' #1649991.
+[22:01:03	]C24:i1.JUDGE-2 has gained a 'Leupold HAMR (HYBR)' #1649990.
+[22:01:03	]C24:i1.JUDGE-2 has lost a 'LPVO Scope (8x)' #1649991.
+[22:02:00	]C24:i1.JUDGE-2 has gained a 'LPVO Scope (8x)' #1649991.
+[22:02:00	]C24:i1.JUDGE-2 has lost a 'Leupold HAMR (HYBR)' #1649990.
+[22:02:05	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[22:02:51	]C24:i1.JUDGE-2 has spawned a go_optic_acog2.
+[22:02:52	]C24:i1.JUDGE-2 ran 'take' on item 'ACOG TA50 (3x)' (#1649992)
+[22:02:52	]C24:i1.JUDGE-2 has gained a 'ACOG TA50 (3x)' #1649992.
+[22:02:54	]C24:i1.JUDGE-2 has gained a 'Leupold HAMR (HYBR)' #1649990.
+[22:02:54	]C24:i1.JUDGE-2 has lost a 'ACOG TA50 (3x)' #1649992.
+[22:03:01	]C24:i1.JUDGE-2 has spawned a go_optic_acog.
+[22:03:02	]C24:i1.JUDGE-2 ran 'take' on item 'ACOG TA01 (4x)' (#1649993)
+[22:03:02	]C24:i1.JUDGE-2 has gained a 'ACOG TA01 (4x)' #1649993.
+[22:03:03	]C24:i1.JUDGE-2 has gained a 'ACOG TA50 (3x)' #1649992.
+[22:03:03	]C24:i1.JUDGE-2 has lost a 'ACOG TA01 (4x)' #1649993.
+[22:03:26	]C24:i1.JUDGE-2 has gained a 'ACOG TA01 (4x)' #1649993.
+[22:03:26	]C24:i1.JUDGE-2 has lost a 'LPVO Scope (8x)' #1649991.
+[22:03:29	]C24:i1.JUDGE-2 has gained a 'LPVO Scope (8x)' #1649991.
+[22:03:29	]C24:i1.JUDGE-2 has lost a 'Leupold HAMR (HYBR)' #1649990.
+[22:03:29	]C24:i1.JUDGE-2 has gained a 'Leupold HAMR (HYBR)' #1649990.
+[22:03:29	]C24:i1.JUDGE-2 has lost a 'ACOG TA50 (3x)' #1649992.
+[22:03:31	]C24:i1.JUDGE-2 has gained a 'ACOG TA50 (3x)' #1649992.
+[22:03:31	]C24:i1.JUDGE-2 has lost a 'Leupold HAMR (HYBR)' #1649990.
+[22:03:58	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'MP5A3' (#1649981)
+[22:03:59	]C24:i1.JUDGE-2 ran 'drop' on item 'MP5A3' (#1649981)
+[22:03:59	]C24:i1.JUDGE-2 has lost a 'MP5A3' #1649981.
+[22:04:02	]C24:i1.JUDGE-2 ran 'drop' on item 'ACOG TA50 (3x)' (#1649992)
+[22:04:02	]C24:i1.JUDGE-2 has lost a 'ACOG TA50 (3x)' #1649992.
+[22:04:02	]C24:i1.JUDGE-2 ran 'drop' on item 'Snatch Foregrip' (#1649986)
+[22:04:02	]C24:i1.JUDGE-2 has lost a 'Snatch Foregrip' #1649986.
+[22:04:02	]C24:i1.JUDGE-2 ran 'drop' on item 'Foregrip' (#1649985)
+[22:04:02	]C24:i1.JUDGE-2 has lost a 'Foregrip' #1649985.
+[22:04:03	]C24:i1.JUDGE-2 ran 'drop' on item '550mm Whisper Barrel' (#1649982)
+[22:04:03	]C24:i1.JUDGE-2 has lost a '550mm Whisper Barrel' #1649982.
+[22:04:03	]C24:i1.JUDGE-2 ran 'drop' on item '150mm Kurz Barrel' (#1649988)
+[22:04:03	]C24:i1.JUDGE-2 has lost a '150mm Kurz Barrel' #1649988.
+[22:04:03	]C24:i1.JUDGE-2 ran 'drop' on item 'ACOG TA01 (4x)' (#1649993)
+[22:04:03	]C24:i1.JUDGE-2 has lost a 'ACOG TA01 (4x)' #1649993.
+[22:04:03	]C24:i1.JUDGE-2 ran 'drop' on item 'LPVO Scope (8x)' (#1649991)
+[22:04:03	]C24:i1.JUDGE-2 has lost a 'LPVO Scope (8x)' #1649991.
+[22:04:05	]C24:i1.JUDGE-2 ran 'Equip' on item 'P90' (#1649958)
+[22:04:06	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[22:04:06	]C24:i1.JUDGE-2 has lost a '50rnd P90-magazine' #1649962.
+[22:04:07	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[22:04:13	]C24:i1.JUDGE-2 destroyed a '550mm Whisper Barrel' #1649982.
+[22:04:13	]C24:i1.JUDGE-2 destroyed a '150mm Kurz Barrel' #1649988.
+[22:04:13	]C24:i1.JUDGE-2 destroyed a 'LPVO Scope (8x)' #1649991.
+[22:04:14	]C24:i1.JUDGE-2 destroyed a '350mm Carbine Barrel' #1649983.
+[22:04:14	]C24:i1.JUDGE-2 destroyed a 'MP5A3' #1649981.
+[22:04:14	]C24:i1.JUDGE-2 destroyed a 'ACOG TA01 (4x)' #1649993.
+[22:04:15	]C24:i1.JUDGE-2 destroyed a 'ACOG TA50 (3x)' #1649992.
+[22:04:15	]C24:i1.JUDGE-2 destroyed a 'Snatch Foregrip' #1649986.
+[22:04:16	]C24:i1.JUDGE-2 destroyed a 'Foregrip' #1649985.
+[22:05:23	]C24:i1.JUDGE-2 has spawned a ump.
+[22:05:26	]C24:i1.JUDGE-2 ran 'take' on item 'UMP-45' (#1649994)
+[22:05:26	]C24:i1.JUDGE-2 has gained a 'UMP-45' #1649994.
+[22:05:27	]C24:i1.JUDGE-2 ran 'Equip' on item 'UMP-45' (#1649994)
+[22:05:29	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'P90' (#1649958)
+[22:05:29	]C24:i1.JUDGE-2 has gained a '50rnd P90-magazine' #1649962.
+[22:05:29	]C24:i1.JUDGE-2 ran 'Equip' on item 'UMP-45' (#1649994)
+[22:05:30	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[22:05:57	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'UMP-45' (#1649994)
+[22:05:58	]C24:i1.JUDGE-2 ran 'drop' on item 'UMP-45' (#1649994)
+[22:05:58	]C24:i1.JUDGE-2 has lost a 'UMP-45' #1649994.
+[22:06:03	]C24:i1.JUDGE-2 has spawned a msboltrifle.
+[22:06:04	]C24:i1.JUDGE-2 ran 'take' on item 'Helsing Bolt Rifle' (#1649995)
+[22:06:04	]C24:i1.JUDGE-2 has gained a 'Helsing Bolt Rifle' #1649995.
+[22:06:05	]C24:i1.JUDGE-2 ran 'Equip' on item 'Helsing Bolt Rifle' (#1649995)
+[22:06:06	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[22:06:20	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'Helsing Bolt Rifle' (#1649995)
+[22:06:21	]C24:i1.JUDGE-2 ran 'drop' on item 'Helsing Bolt Rifle' (#1649995)
+[22:06:21	]C24:i1.JUDGE-2 has lost a 'Helsing Bolt Rifle' #1649995.
+[22:06:25	]C24:i1.JUDGE-2 has spawned a m92.
+[22:06:27	]C24:i1.JUDGE-2 ran 'take' on item 'M92FS' (#1649996)
+[22:06:27	]C24:i1.JUDGE-2 has gained a 'M92FS' #1649996.
+[22:06:28	]C24:i1.JUDGE-2 ran 'Equip' on item 'M92FS' (#1649996)
+[22:06:29	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[22:06:44	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'M92FS' (#1649996)
+[22:06:45	]C24:i1.JUDGE-2 ran 'drop' on item 'M92FS' (#1649996)
+[22:06:45	]C24:i1.JUDGE-2 has lost a 'M92FS' #1649996.
+[22:06:48	]C24:i1.JUDGE-2 has spawned a usp.
+[22:06:49	]C24:i1.JUDGE-2 ran 'take' on item 'USP-45' (#1649997)
+[22:06:49	]C24:i1.JUDGE-2 has gained a 'USP-45' #1649997.
+[22:06:51	]C24:i1.JUDGE-2 ran 'Equip' on item 'USP-45' (#1649997)
+[22:07:09	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'USP-45' (#1649997)
+[22:07:10	]C24:i1.JUDGE-2 ran 'drop' on item 'USP-45' (#1649997)
+[22:07:10	]C24:i1.JUDGE-2 has lost a 'USP-45' #1649997.
+[22:07:17	]C24:i1.JUDGE-2 has spawned a deagle.
+[22:07:18	]C24:i1.JUDGE-2 ran 'take' on item 'Desert Eagle' (#1649998)
+[22:07:18	]C24:i1.JUDGE-2 has gained a 'Desert Eagle' #1649998.
+[22:07:19	]C24:i1.JUDGE-2 ran 'Equip' on item 'Desert Eagle' (#1649998)
+[22:07:20	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[22:07:39	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'Desert Eagle' (#1649998)
+[22:07:39	]C24:i1.JUDGE-2 ran 'drop' on item 'Desert Eagle' (#1649998)
+[22:07:39	]C24:i1.JUDGE-2 has lost a 'Desert Eagle' #1649998.
+[22:07:45	]C24:i1.JUDGE-2 has spawned a p2000.
+[22:07:46	]C24:i1.JUDGE-2 ran 'take' on item 'H&K P2000' (#1649999)
+[22:07:46	]C24:i1.JUDGE-2 has gained a 'H&K P2000' #1649999.
+[22:07:48	]C24:i1.JUDGE-2 ran 'Equip' on item 'H&K P2000' (#1649999)
+[22:07:48	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[22:08:06	]C24:i1.JUDGE-2 has spawned a go_p2000_slide_long.
+[22:08:07	]C24:i1.JUDGE-2 ran 'take' on item '120mm P2000L Slide' (#1650000)
+[22:08:07	]C24:i1.JUDGE-2 has gained a '120mm P2000L Slide' #1650000.
+[22:08:10	]C24:i1.JUDGE-2 has lost a '120mm P2000L Slide' #1650000.
+[22:08:22	]C24:i1.JUDGE-2 has spawned a go_muzz_brake.
+[22:08:23	]C24:i1.JUDGE-2 ran 'take' on item 'Muzzle Brake' (#1650001)
+[22:08:23	]C24:i1.JUDGE-2 has gained a 'Muzzle Brake' #1650001.
+[22:08:24	]C24:i1.JUDGE-2 has lost a 'Muzzle Brake' #1650001.
+[22:08:36	]C24:i1.JUDGE-2 has spawned a go_p2000_mag_24.
+[22:08:37	]C24:i1.JUDGE-2 ran 'take' on item '24-Round 9mm P2000' (#1650002)
+[22:08:37	]C24:i1.JUDGE-2 has gained a '24-Round 9mm P2000' #1650002.
+[22:08:38	]C24:i1.JUDGE-2 has lost a '24-Round 9mm P2000' #1650002.
+[22:08:43	]C24:i1.JUDGE-2 has spawned a go_stock_pistol_bt.
+[22:08:44	]C24:i1.JUDGE-2 ran 'take' on item 'BT-2 Pistol Stock' (#1650003)
+[22:08:44	]C24:i1.JUDGE-2 has gained a 'BT-2 Pistol Stock' #1650003.
+[22:08:45	]C24:i1.JUDGE-2 has lost a 'BT-2 Pistol Stock' #1650003.
+[22:09:01	]C24:i1.JUDGE-2 has spawned a go_foregrip_angled.
+[22:09:02	]C24:i1.JUDGE-2 ran 'take' on item 'Angled Foregrip' (#1650004)
+[22:09:02	]C24:i1.JUDGE-2 has gained a 'Angled Foregrip' #1650004.
+[22:09:03	]C24:i1.JUDGE-2 has lost a 'Angled Foregrip' #1650004.
+[22:10:21	]C24:i1.JUDGE-2 ran 'Equip' on item 'P90' (#1649958)
+[22:10:22	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[22:10:22	]C24:i1.JUDGE-2 has lost a '50rnd P90-magazine' #1649961.
+[22:10:26	]C24:i1.JUDGE-2 destroyed a 'UMP-45' #1649994.
+[22:10:28	]C24:i1.JUDGE-2 destroyed a 'Desert Eagle' #1649998.
+[22:10:28	]C24:i1.JUDGE-2 destroyed a 'USP-45' #1649997.
+[22:10:29	]C24:i1.JUDGE-2 destroyed a 'M92FS' #1649996.
+[22:10:29	]C24:i1.JUDGE-2 destroyed a 'Helsing Bolt Rifle' #1649995.
+[22:11:38	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[22:12:04	]C24:i1.JUDGE-2 has gained a '800mm Devolution Barrel' #1649965.
+[22:12:05	]C24:i1.JUDGE-2 has gained a 'SSQ Suppressor' #1649979.
+[22:12:05	]C24:i1.JUDGE-2 has gained a 'Angled Foregrip' #1649978.
+[22:12:05	]C24:i1.JUDGE-2 has gained a 'EOTech 553 (RDS)' #1649976.
+[22:12:49	]C24:i1.JUDGE-2 has spawned a m92.
+[22:12:51	]C24:i1.JUDGE-2 has fired a toolgun with the name: remover
+[22:12:57	]C24:i1.JUDGE-2 has spawned a mp7a1.
+[22:13:00	]C24:i1.JUDGE-2 ran 'drop' on item 'EOTech 553 (RDS)' (#1649976)
+[22:13:00	]C24:i1.JUDGE-2 has lost a 'EOTech 553 (RDS)' #1649976.
+[22:13:01	]C24:i1.JUDGE-2 ran 'drop' on item 'Angled Foregrip' (#1649978)
+[22:13:01	]C24:i1.JUDGE-2 has lost a 'Angled Foregrip' #1649978.
+[22:13:01	]C24:i1.JUDGE-2 ran 'drop' on item '800mm Devolution Barrel' (#1649965)
+[22:13:01	]C24:i1.JUDGE-2 has lost a '800mm Devolution Barrel' #1649965.
+[22:13:02	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'H&K P2000' (#1649999)
+[22:13:04	]C24:i1.JUDGE-2 ran 'drop' on item 'FiveSeven' (#1649980)
+[22:13:04	]C24:i1.JUDGE-2 has lost a 'FiveSeven' #1649980.
+[22:13:05	]C24:i1.JUDGE-2 ran 'drop' on item 'SSQ Suppressor' (#1649979)
+[22:13:05	]C24:i1.JUDGE-2 has lost a 'SSQ Suppressor' #1649979.
+[22:13:08	]C24:i1.JUDGE-2 ran 'take' on item 'MP7A1' (#1650006)
+[22:13:08	]C24:i1.JUDGE-2 has gained a 'MP7A1' #1650006.
+[22:13:09	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'P90' (#1649958)
+[22:13:09	]C24:i1.JUDGE-2 has gained a '50rnd P90-magazine' #1649961.
+[22:13:12	]C24:i1.JUDGE-2 ran 'Equip' on item 'MP7A1' (#1650006)
+[22:13:12	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[22:13:29	]C24:i1.JUDGE-2 has spawned a go_mac10_stock_in.
+[22:13:30	]C24:i1.JUDGE-2 ran 'take' on item 'Collapsed Stock' (#1650007)
+[22:13:30	]C24:i1.JUDGE-2 has gained a 'Collapsed Stock' #1650007.
+[22:13:32	]C24:i1.JUDGE-2 has spawned a go_mp7_stock_in.
+[22:13:34	]C24:i1.JUDGE-2 ran 'take' on item 'Collapsed Stock' (#1650008)
+[22:13:34	]C24:i1.JUDGE-2 has gained a 'Collapsed Stock' #1650008.
+[22:13:46	]C24:i1.JUDGE-2 ran 'drop' on item 'Collapsed Stock' (#1650007)
+[22:13:46	]C24:i1.JUDGE-2 has lost a 'Collapsed Stock' #1650007.
+[22:13:46	]C24:i1.JUDGE-2 ran 'drop' on item 'Collapsed Stock' (#1650008)
+[22:13:46	]C24:i1.JUDGE-2 has lost a 'Collapsed Stock' #1650008.
+[22:14:18	]C24:i1.JUDGE-2 has spawned a go_optic_noscope.
+[22:14:19	]C24:i1.JUDGE-2 ran 'take' on item 'No Scope' (#1650009)
+[22:14:19	]C24:i1.JUDGE-2 has gained a 'No Scope' #1650009.
+[22:14:54	]C24:i1.JUDGE-2 has spawned a go_muzz_brake.
+[22:14:55	]C24:i1.JUDGE-2 ran 'take' on item 'Muzzle Brake' (#1650010)
+[22:14:55	]C24:i1.JUDGE-2 has gained a 'Muzzle Brake' #1650010.
+[22:14:56	]C24:i1.JUDGE-2 has lost a 'Muzzle Brake' #1650010.
+[22:15:20	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'MP7A1' (#1650006)
+[22:15:20	]C24:i1.JUDGE-2 ran 'drop' on item 'MP7A1' (#1650006)
+[22:15:20	]C24:i1.JUDGE-2 has lost a 'MP7A1' #1650006.
+[22:15:47	]C24:i1.JUDGE-2 has spawned a mp5a3.
+[22:16:02	]C24:i1.JUDGE-2 has spawned a g3.
+[22:16:04	]C24:i1.JUDGE-2 has spawned a famas.
+[22:16:17	]C24:i1.JUDGE-2 ran 'take' on item 'FAMAS' (#1650013)
+[22:16:17	]C24:i1.JUDGE-2 has gained a 'FAMAS' #1650013.
+[22:16:18	]C24:i1.JUDGE-2 ran 'Equip' on item 'FAMAS' (#1650013)
+[22:16:18	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[22:16:57	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'FAMAS' (#1650013)
+[22:16:57	]C24:i1.JUDGE-2 ran 'drop' on item 'FAMAS' (#1650013)
+[22:16:57	]C24:i1.JUDGE-2 has lost a 'FAMAS' #1650013.
+[22:16:59	]C24:i1.JUDGE-2 ran 'take' on item 'G3' (#1650012)
+[22:16:59	]C24:i1.JUDGE-2 has gained a 'G3' #1650012.
+[22:17:00	]C24:i1.JUDGE-2 ran 'Equip' on item 'G3' (#1650012)
+[22:17:01	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[22:17:26	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'G3' (#1650012)
+[22:17:27	]C24:i1.JUDGE-2 ran 'drop' on item 'G3' (#1650012)
+[22:17:27	]C24:i1.JUDGE-2 has lost a 'G3' #1650012.
+[22:17:28	]C24:i1.JUDGE-2 ran 'take' on item 'MP5A3' (#1650011)
+[22:17:28	]C24:i1.JUDGE-2 has gained a 'MP5A3' #1650011.
+[22:17:34	]C24:i1.JUDGE-2 ran 'take' on item 'MP7A1' (#1650006)
+[22:17:34	]C24:i1.JUDGE-2 has gained a 'MP7A1' #1650006.
+[22:17:35	]C24:i1.JUDGE-2 ran 'Equip' on item 'MP7A1' (#1650006)
+[22:17:35	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[22:17:46	]C24:i1.JUDGE-2 ran 'take' on item 'Collapsed Stock' (#1650007)
+[22:17:46	]C24:i1.JUDGE-2 has gained a 'Collapsed Stock' #1650007.
+[22:17:49	]C24:i1.JUDGE-2 ran 'drop' on item 'Collapsed Stock' (#1650007)
+[22:17:49	]C24:i1.JUDGE-2 has lost a 'Collapsed Stock' #1650007.
+[22:17:50	]C24:i1.JUDGE-2 ran 'drop' on item 'No Scope' (#1650009)
+[22:17:50	]C24:i1.JUDGE-2 has lost a 'No Scope' #1650009.
+[22:17:53	]C24:i1.JUDGE-2 ran 'take' on item 'Collapsed Stock' (#1650008)
+[22:17:53	]C24:i1.JUDGE-2 has gained a 'Collapsed Stock' #1650008.
+[22:17:56	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[22:18:00	]C24:i1.JUDGE-2 ran 'drop' on item 'Collapsed Stock' (#1650008)
+[22:18:00	]C24:i1.JUDGE-2 has lost a 'Collapsed Stock' #1650008.
+[22:18:03	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'MP7A1' (#1650006)
+[22:18:04	]C24:i1.JUDGE-2 ran 'Equip' on item 'MP7A1' (#1650006)
+[22:18:07	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[22:18:09	]C24:i1.JUDGE-2 ran 'take' on item 'Collapsed Stock' (#1650008)
+[22:18:09	]C24:i1.JUDGE-2 has gained a 'Collapsed Stock' #1650008.
+[22:23:23	]C24:i1.JUDGE-2 has gone afk.
+[23:47:33	]C24:i1.JUDGE-2 is no longer afk. Total time spent AFK: 5345
+[23:47:35	]C24:i1.JUDGE-2 has spawned a aug.
+[23:47:45	]C24:i1.JUDGE-2 ran 'take' on item 'Collapsed Stock' (#1650007)
+[23:47:45	]C24:i1.JUDGE-2 has gained a 'Collapsed Stock' #1650007.
+[23:47:45	]C24:i1.JUDGE-2 ran 'take' on item 'No Scope' (#1650009)
+[23:47:45	]C24:i1.JUDGE-2 has gained a 'No Scope' #1650009.
+[23:47:49	]C24:i1.JUDGE-2 used command '/Radio I NEED 10-78'.
+[23:48:09	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'MP7A1' (#1650006)
+[23:48:10	]C24:i1.JUDGE-2 ran 'drop' on item 'MP7A1' (#1650006)
+[23:48:10	]C24:i1.JUDGE-2 has lost a 'MP7A1' #1650006.
+[23:48:10	]C24:i1.JUDGE-2 ran 'drop' on item 'Collapsed Stock' (#1650008)
+[23:48:10	]C24:i1.JUDGE-2 has lost a 'Collapsed Stock' #1650008.
+[23:48:11	]C24:i1.JUDGE-2 ran 'drop' on item 'Collapsed Stock' (#1650007)
+[23:48:11	]C24:i1.JUDGE-2 has lost a 'Collapsed Stock' #1650007.
+[23:48:11	]C24:i1.JUDGE-2 ran 'drop' on item 'No Scope' (#1650009)
+[23:48:11	]C24:i1.JUDGE-2 has lost a 'No Scope' #1650009.
+[23:48:12	]C24:i1.JUDGE-2 ran 'Equip' on item 'MP5A3' (#1650011)
+[23:48:12	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:48:15	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'MP5A3' (#1650011)
+[23:48:15	]C24:i1.JUDGE-2 ran 'drop' on item 'MP5A3' (#1650011)
+[23:48:15	]C24:i1.JUDGE-2 has lost a 'MP5A3' #1650011.
+[23:48:18	]C24:i1.JUDGE-2 ran 'take' on item 'AUG A3' (#1650014)
+[23:48:18	]C24:i1.JUDGE-2 has gained a 'AUG A3' #1650014.
+[23:48:20	]C24:i1.JUDGE-2 ran 'Equip' on item 'AUG A3' (#1650014)
+[23:48:20	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:48:48	]C24:i1.JUDGE-2 has spawned a go_aug_barrel_long.
+[23:48:50	]C24:i1.JUDGE-2 ran 'take' on item '620mm HBAR Barrel' (#1650015)
+[23:48:50	]C24:i1.JUDGE-2 has gained a '620mm HBAR Barrel' #1650015.
+[23:48:52	]C24:i1.JUDGE-2 has lost a '620mm HBAR Barrel' #1650015.
+[23:48:57	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'AUG A3' (#1650014)
+[23:48:58	]C24:i1.JUDGE-2 ran 'drop' on item 'AUG A3' (#1650014)
+[23:48:58	]C24:i1.JUDGE-2 has lost a 'AUG A3' #1650014.
+[23:49:05	]C24:i1.JUDGE-2 has spawned a scout.
+[23:49:07	]C24:i1.JUDGE-2 ran 'take' on item 'SSG-08' (#1650016)
+[23:49:07	]C24:i1.JUDGE-2 has gained a 'SSG-08' #1650016.
+[23:49:08	]C24:i1.JUDGE-2 ran 'Equip' on item 'SSG-08' (#1650016)
+[23:49:08	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:49:49	]C24:i1.JUDGE-2 has spawned a optic_gauss_scope.
+[23:49:50	]C24:i1.JUDGE-2 ran 'take' on item 'M2014-S (FLIR)' (#1650017)
+[23:49:50	]C24:i1.JUDGE-2 has gained a 'M2014-S (FLIR)' #1650017.
+[23:49:51	]C24:i1.JUDGE-2 has lost a 'M2014-S (FLIR)' #1650017.
+[23:50:10	]C24:i1.JUDGE-2 has gained a 'M2014-S (FLIR)' #1650017.
+[23:50:13	]C24:i1.JUDGE-2 ran 'drop' on item 'M2014-S (FLIR)' (#1650017)
+[23:50:13	]C24:i1.JUDGE-2 has lost a 'M2014-S (FLIR)' #1650017.
+[23:50:14	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'SSG-08' (#1650016)
+[23:50:15	]C24:i1.JUDGE-2 ran 'drop' on item 'SSG-08' (#1650016)
+[23:50:15	]C24:i1.JUDGE-2 has lost a 'SSG-08' #1650016.
+[23:50:24	]C24:i1.JUDGE-2 has spawned a pkpvolk.
+[23:50:26	]C24:i1.JUDGE-2 ran 'take' on item 'Volk'd PKP' (#1650018)
+[23:50:26	]C24:i1.JUDGE-2 has gained a 'Volk'd PKP' #1650018.
+[23:50:27	]C24:i1.JUDGE-2 ran 'Equip' on item 'Volk'd PKP' (#1650018)
+[23:50:27	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:50:45	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'Volk'd PKP' (#1650018)
+[23:50:45	]C24:i1.JUDGE-2 ran 'drop' on item 'Volk'd PKP' (#1650018)
+[23:50:45	]C24:i1.JUDGE-2 has lost a 'Volk'd PKP' #1650018.
+[23:50:49	]C24:i1.JUDGE-2 has spawned a msballrifle.
+[23:50:50	]C24:i1.JUDGE-2 ran 'take' on item 'Tikhar Ball Rifle' (#1650019)
+[23:50:50	]C24:i1.JUDGE-2 has gained a 'Tikhar Ball Rifle' #1650019.
+[23:50:51	]C24:i1.JUDGE-2 ran 'Equip' on item 'Tikhar Ball Rifle' (#1650019)
+[23:50:51	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:50:58	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'Tikhar Ball Rifle' (#1650019)
+[23:50:59	]C24:i1.JUDGE-2 ran 'drop' on item 'Tikhar Ball Rifle' (#1650019)
+[23:50:59	]C24:i1.JUDGE-2 has lost a 'Tikhar Ball Rifle' #1650019.
+[23:51:02	]C24:i1.JUDGE-2 has spawned a pulsecarbine.
+[23:51:04	]C24:i1.JUDGE-2 ran 'take' on item 'SR-1A' (#1650020)
+[23:51:04	]C24:i1.JUDGE-2 has gained a 'SR-1A' #1650020.
+[23:51:05	]C24:i1.JUDGE-2 ran 'Equip' on item 'SR-1A' (#1650020)
+[23:51:06	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:51:22	]C24:i1.JUDGE-2 ran 'drop' on item '25rnd Ump-magazine' (#1643147)
+[23:51:22	]C24:i1.JUDGE-2 has lost a '25rnd Ump-magazine' #1643147.
+[23:51:22	]C24:i1.JUDGE-2 ran 'drop' on item '25rnd Ump-magazine' (#1643145)
+[23:51:22	]C24:i1.JUDGE-2 has lost a '25rnd Ump-magazine' #1643145.
+[23:51:23	]C24:i1.JUDGE-2 ran 'drop' on item '17rnd Usp-magazine' (#1642824)
+[23:51:23	]C24:i1.JUDGE-2 has lost a '17rnd Usp-magazine' #1642824.
+[23:51:23	]C24:i1.JUDGE-2 ran 'drop' on item 'Cigar' (#1214156)
+[23:51:23	]C24:i1.JUDGE-2 has lost a 'Cigar' #1214156.
+[23:51:24	]C24:i1.JUDGE-2 ran 'drop' on item '17rnd Usp-magazine' (#1647524)
+[23:51:24	]C24:i1.JUDGE-2 has lost a '17rnd Usp-magazine' #1647524.
+[23:51:36	]C24:i1.JUDGE-2 ran 'drop' on item 'Zip Tie' (#1413675)
+[23:51:36	]C24:i1.JUDGE-2 has lost a 'Zip Tie' #1413675.
+[23:51:38	]C24:i1.JUDGE-2 ran 'drop' on item 'Medium Credits Coupon' (#1649932)
+[23:51:38	]C24:i1.JUDGE-2 has lost a 'Medium Credits Coupon' #1649932.
+[23:51:40	]C24:i1.JUDGE-2 ran 'drop' on item 'Combine PDA' (#1413520)
+[23:51:40	]C24:i1.JUDGE-2 has lost a 'Combine PDA' #1413520.
+[23:51:40	]C24:i1.JUDGE-2 ran 'drop' on item 'POS Terminal' (#1413687)
+[23:51:40	]C24:i1.JUDGE-2 has lost a 'POS Terminal' #1413687.
+[23:51:40	]C24:i1.JUDGE-2 ran 'drop' on item 'Combine Filter' (#1413686)
+[23:51:40	]C24:i1.JUDGE-2 has lost a 'Combine Filter' #1413686.
+[23:51:40	]C24:i1.JUDGE-2 ran 'drop' on item 'Combine Filter' (#1413685)
+[23:51:40	]C24:i1.JUDGE-2 has lost a 'Combine Filter' #1413685.
+[23:51:48	]C24:i1.JUDGE-2 ran 'drop' on item 'Zippo Lighter' (#1614380)
+[23:51:48	]C24:i1.JUDGE-2 has lost a 'Zippo Lighter' #1614380.
+[23:51:48	]C24:i1.JUDGE-2 ran 'drop' on item 'Handheld Radio' (#1595405)
+[23:51:48	]C24:i1.JUDGE-2 has lost a 'Handheld Radio' #1595405.
+[23:52:00	]C24:i1.JUDGE-2 has spawned a bullets_pulse.
+[23:52:00	]C24:i1.JUDGE-2 has spawned a bullets_pulse.
+[23:52:01	]C24:i1.JUDGE-2 has spawned a bullets_pulse.
+[23:52:02	]C24:i1.JUDGE-2 ran 'take' on item 'Pulse Rifle Bullets' (#1650021)
+[23:52:02	]C24:i1.JUDGE-2 has gained a 'Pulse Rifle Bullets' #1650021.
+[23:52:03	]C24:i1.JUDGE-2 ran 'take' on item 'Pulse Rifle Bullets' (#1650023)
+[23:52:03	]C24:i1.JUDGE-2 has gained a 'Pulse Rifle Bullets' #1650023.
+[23:52:04	]C24:i1.JUDGE-2 ran 'take' on item 'Pulse Rifle Bullets' (#1650022)
+[23:52:04	]C24:i1.JUDGE-2 has gained a 'Pulse Rifle Bullets' #1650022.
+[23:52:08	]C24:i1.JUDGE-2 has spawned a magazine_pulse_30rnd.
+[23:52:09	]C24:i1.JUDGE-2 ran 'take' on item '30rnd Pulse-magazine' (#1650024)
+[23:52:09	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650024.
+[23:52:11	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Pulse-magazine' (#1650024)
+[23:52:11	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650024.
+[23:52:26	]C24:i1.JUDGE-2 destroyed a 'POS Terminal' #1413687.
+[23:52:32	]C24:i1.JUDGE-2 destroyed a 'Combine PDA' #1413520.
+[23:52:33	]C24:i1.JUDGE-2 destroyed a 'Handheld Radio' #1595405.
+[23:52:36	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'SR-1A' (#1650020)
+[23:52:36	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650024.
+[23:52:38	]C24:i1.JUDGE-2 ran 'drop' on item 'SR-1A' (#1650020)
+[23:52:38	]C24:i1.JUDGE-2 has lost a 'SR-1A' #1650020.
+[23:52:43	]C24:i1.JUDGE-2 has spawned a riotshield.
+[23:52:45	]C24:i1.JUDGE-2 ran 'take' on item 'Riot Shield' (#1650025)
+[23:52:48	]C24:i1.JUDGE-2 ran 'take' on item 'Riot Shield' (#1650025)
+[23:52:48	]C24:i1.JUDGE-2 has gained a 'Riot Shield' #1650025.
+[23:52:49	]C24:i1.JUDGE-2 ran 'Equip' on item 'Riot Shield' (#1650025)
+[23:52:50	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:52:51	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'Stunstick' (#1373216)
+[23:52:52	]C24:i1.JUDGE-2 ran 'Equip' on item 'Riot Shield' (#1650025)
+[23:52:53	]C24:i1.JUDGE-2 ran 'Equip' on item 'Riot Shield' (#1650025)
+[23:52:54	]C24:i1.JUDGE-2 ran 'Equip' on item 'Riot Shield' (#1650025)
+[23:52:56	]C24:i1.JUDGE-2 ran 'Equip' on item 'Riot Shield' (#1650025)
+[23:52:58	]C24:i1.JUDGE-2 ran 'Equip' on item 'Riot Shield' (#1650025)
+[23:52:59	]C24:i1.JUDGE-2 ran 'Equip' on item 'Riot Shield' (#1650025)
+[23:53:00	]C24:i1.JUDGE-2 ran 'Equip' on item 'Riot Shield' (#1650025)
+[23:53:04	]C24:i1.JUDGE-2 ran 'Equip' on item 'Riot Shield' (#1650025)
+[23:53:05	]C24:i1.JUDGE-2 ran 'drop' on item 'Riot Shield' (#1650025)
+[23:53:05	]C24:i1.JUDGE-2 has lost a 'Riot Shield' #1650025.
+[23:53:09	]C24:i1.JUDGE-2 has spawned a assaultshotgun.
+[23:53:11	]C24:i1.JUDGE-2 ran 'take' on item 'Overwatch Assault Shotgun' (#1650026)
+[23:53:11	]C24:i1.JUDGE-2 has gained a 'Overwatch Assault Shotgun' #1650026.
+[23:53:12	]C24:i1.JUDGE-2 ran 'Equip' on item 'Overwatch Assault Shotgun' (#1650026)
+[23:53:14	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:53:23	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:53:25	]C24:i1.JUDGE-2 ran 'drop' on item 'Overwatch Assault Shotgun' (#1650026)
+[23:53:25	]C24:i1.JUDGE-2 has lost a 'Overwatch Assault Shotgun' #1650026.
+[23:53:29	]C24:i1.JUDGE-2 has spawned a suppressionrifle.
+[23:53:30	]C24:i1.JUDGE-2 ran 'take' on item 'OSPR2A-EXP' (#1650027)
+[23:53:30	]C24:i1.JUDGE-2 has gained a 'OSPR2A-EXP' #1650027.
+[23:53:32	]C24:i1.JUDGE-2 ran 'Equip' on item 'OSPR2A-EXP' (#1650027)
+[23:53:33	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:53:39	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'OSPR2A-EXP' (#1650027)
+[23:53:40	]C24:i1.JUDGE-2 ran 'drop' on item 'OSPR2A-EXP' (#1650027)
+[23:53:40	]C24:i1.JUDGE-2 has lost a 'OSPR2A-EXP' #1650027.
+[23:53:41	]C24:i1.JUDGE-2 has spawned a tacticalrifle.
+[23:53:42	]C24:i1.JUDGE-2 ran 'take' on item 'OSITR' (#1650028)
+[23:53:42	]C24:i1.JUDGE-2 has gained a 'OSITR' #1650028.
+[23:53:44	]C24:i1.JUDGE-2 ran 'Equip' on item 'OSITR' (#1650028)
+[23:53:44	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:53:56	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'OSITR' (#1650028)
+[23:53:57	]C24:i1.JUDGE-2 ran 'drop' on item 'OSITR' (#1650028)
+[23:53:57	]C24:i1.JUDGE-2 has lost a 'OSITR' #1650028.
+[23:54:00	]C24:i1.JUDGE-2 has spawned a vsv.
+[23:54:01	]C24:i1.JUDGE-2 ran 'take' on item 'Old VSK-94' (#1650029)
+[23:54:01	]C24:i1.JUDGE-2 has gained a 'Old VSK-94' #1650029.
+[23:54:02	]C24:i1.JUDGE-2 ran 'Equip' on item 'Old VSK-94' (#1650029)
+[23:54:03	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:54:20	]C24:i1.JUDGE-2 ran 'drop' on item 'Old VSK-94' (#1650029)
+[23:54:20	]C24:i1.JUDGE-2 has lost a 'Old VSK-94' #1650029.
+[23:54:34	]C24:i1.JUDGE-2 has spawned a msduplet.
+[23:54:36	]C24:i1.JUDGE-2 ran 'take' on item 'Duplet Makeshift Shotgun' (#1650030)
+[23:54:36	]C24:i1.JUDGE-2 has gained a 'Duplet Makeshift Shotgun' #1650030.
+[23:54:37	]C24:i1.JUDGE-2 ran 'Equip' on item 'Duplet Makeshift Shotgun' (#1650030)
+[23:54:38	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:54:46	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'Duplet Makeshift Shotgun' (#1650030)
+[23:54:46	]C24:i1.JUDGE-2 ran 'drop' on item 'Duplet Makeshift Shotgun' (#1650030)
+[23:54:46	]C24:i1.JUDGE-2 has lost a 'Duplet Makeshift Shotgun' #1650030.
+[23:54:50	]C24:i1.JUDGE-2 has spawned a awp.
+[23:54:53	]C24:i1.JUDGE-2 ran 'take' on item 'AWSM' (#1650031)
+[23:54:53	]C24:i1.JUDGE-2 has gained a 'AWSM' #1650031.
+[23:54:55	]C24:i1.JUDGE-2 ran 'Equip' on item 'AWSM' (#1650031)
+[23:54:56	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:55:24	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'AWSM' (#1650031)
+[23:55:25	]C24:i1.JUDGE-2 ran 'drop' on item 'AWSM' (#1650031)
+[23:55:25	]C24:i1.JUDGE-2 has lost a 'AWSM' #1650031.
+[23:55:27	]C24:i1.JUDGE-2 has spawned a aug.
+[23:55:29	]C24:i1.JUDGE-2 has spawned a pulse.
+[23:55:30	]C24:i1.JUDGE-2 ran 'take' on item 'AR-2' (#1650033)
+[23:55:30	]C24:i1.JUDGE-2 has gained a 'AR-2' #1650033.
+[23:55:32	]C24:i1.JUDGE-2 ran 'Equip' on item 'AR-2' (#1650033)
+[23:55:32	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:55:38	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650024.
+[23:55:52	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'AR-2' (#1650033)
+[23:55:52	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650024.
+[23:55:53	]C24:i1.JUDGE-2 ran 'drop' on item 'AR-2' (#1650033)
+[23:55:53	]C24:i1.JUDGE-2 has lost a 'AR-2' #1650033.
+[23:55:56	]C24:i1.JUDGE-2 has spawned a abzats.
+[23:55:58	]C24:i1.JUDGE-2 ran 'take' on item 'Abzats Heavy Shotgun' (#1650034)
+[23:56:00	]C24:i1.JUDGE-2 ran 'take' on item 'Abzats Heavy Shotgun' (#1650034)
+[23:56:00	]C24:i1.JUDGE-2 has gained a 'Abzats Heavy Shotgun' #1650034.
+[23:56:01	]C24:i1.JUDGE-2 ran 'Equip' on item 'Abzats Heavy Shotgun' (#1650034)
+[23:56:02	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:56:20	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'Abzats Heavy Shotgun' (#1650034)
+[23:56:20	]C24:i1.JUDGE-2 ran 'drop' on item 'Abzats Heavy Shotgun' (#1650034)
+[23:56:20	]C24:i1.JUDGE-2 has lost a 'Abzats Heavy Shotgun' #1650034.
+[23:56:27	]C24:i1.JUDGE-2 has spawned a pulsecarbine.
+[23:56:28	]C24:i1.JUDGE-2 ran 'take' on item 'SR-1A' (#1650035)
+[23:56:28	]C24:i1.JUDGE-2 has gained a 'SR-1A' #1650035.
+[23:56:29	]C24:i1.JUDGE-2 ran 'Equip' on item 'SR-1A' (#1650035)
+[23:56:30	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Pulse-magazine' (#1650024)
+[23:56:31	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650024.
+[23:56:32	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:56:33	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:57:00	]C24:i1.JUDGE-2 destroyed a 'Riot Shield' #1650025.
+[23:57:00	]C24:i1.JUDGE-2 destroyed a 'EOTech 553 (RDS)' #1649976.
+[23:57:01	]C24:i1.JUDGE-2 destroyed a 'OSPR2A-EXP' #1650027.
+[23:57:01	]C24:i1.JUDGE-2 destroyed a 'Abzats Heavy Shotgun' #1650034.
+[23:57:02	]C24:i1.JUDGE-2 destroyed a 'FAMAS' #1650013.
+[23:57:06	]C24:i1.JUDGE-2 destroyed a 'MP7A1' #1650006.
+[23:57:07	]C24:i1.JUDGE-2 destroyed a 'Angled Foregrip' #1649978.
+[23:57:43	]C24:i1.JUDGE-2 has spawned a ar2hammer_jackhammer.
+[23:57:45	]C24:i1.JUDGE-2 ran 'take' on item 'Jackhammer' (#1650036)
+[23:57:45	]C24:i1.JUDGE-2 has gained a 'Jackhammer' #1650036.
+[23:57:46	]C24:i1.JUDGE-2 has lost a 'Jackhammer' #1650036.
+[23:57:51	]C24:i1.JUDGE-2 ran 'removeMag' on item 'SR-1A' (#1650035)
+[23:57:51	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650024.
+[23:57:52	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Pulse-magazine' (#1650024)
+[23:57:53	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650024.
+[23:57:54	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:58:02	]C24:i1.JUDGE-2 has gained a 'Jackhammer' #1650036.
+[23:58:03	]C24:i1.JUDGE-2 ran 'drop' on item 'Jackhammer' (#1650036)
+[23:58:03	]C24:i1.JUDGE-2 has lost a 'Jackhammer' #1650036.
+[23:58:04	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:58:11	]C24:i1.JUDGE-2 has spawned a ar2_incendarypulse.
+[23:58:11	]C24:i1.JUDGE-2 has spawned a ar2_ammopulse.
+[23:58:11	]C24:i1.JUDGE-2 has spawned a ar2_overchargedpulse.
+[23:58:12	]C24:i1.JUDGE-2 has spawned a ar2_homemadepulse.
+[23:58:12	]C24:i1.JUDGE-2 has spawned a ar2_lasserbeam.
+[23:58:15	]C24:i1.JUDGE-2 ran 'take' on item 'Overcharged Pulse' (#1650039)
+[23:58:15	]C24:i1.JUDGE-2 has gained a 'Overcharged Pulse' #1650039.
+[23:58:15	]C24:i1.JUDGE-2 ran 'take' on item 'Homemade Pulse' (#1650040)
+[23:58:15	]C24:i1.JUDGE-2 has gained a 'Homemade Pulse' #1650040.
+[23:58:16	]C24:i1.JUDGE-2 ran 'take' on item 'Lasser Pulse' (#1650041)
+[23:58:16	]C24:i1.JUDGE-2 has gained a 'Lasser Pulse' #1650041.
+[23:58:17	]C24:i1.JUDGE-2 ran 'take' on item 'Incendary Pulse' (#1650037)
+[23:58:17	]C24:i1.JUDGE-2 has gained a 'Incendary Pulse' #1650037.
+[23:58:17	]C24:i1.JUDGE-2 ran 'take' on item 'Effecient Pulse' (#1650038)
+[23:58:17	]C24:i1.JUDGE-2 has gained a 'Effecient Pulse' #1650038.
+[23:58:19	]C24:i1.JUDGE-2 has spawned a bullets_pulse.
+[23:58:19	]C24:i1.JUDGE-2 has spawned a bullets_pulse.
+[23:58:19	]C24:i1.JUDGE-2 has spawned a bullets_pulse.
+[23:58:20	]C24:i1.JUDGE-2 has spawned a bullets_pulse.
+[23:58:21	]C24:i1.JUDGE-2 has spawned a magazine_pulse_30rnd.
+[23:58:22	]C24:i1.JUDGE-2 ran 'take' on item 'Pulse Rifle Bullets' (#1650044)
+[23:58:22	]C24:i1.JUDGE-2 has gained a 'Pulse Rifle Bullets' #1650044.
+[23:58:23	]C24:i1.JUDGE-2 ran 'take' on item '30rnd Pulse-magazine' (#1650046)
+[23:58:23	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650046.
+[23:58:23	]C24:i1.JUDGE-2 ran 'take' on item 'Pulse Rifle Bullets' (#1650045)
+[23:58:23	]C24:i1.JUDGE-2 has gained a 'Pulse Rifle Bullets' #1650045.
+[23:58:24	]C24:i1.JUDGE-2 ran 'take' on item 'Pulse Rifle Bullets' (#1650042)
+[23:58:24	]C24:i1.JUDGE-2 has gained a 'Pulse Rifle Bullets' #1650042.
+[23:58:25	]C24:i1.JUDGE-2 ran 'take' on item 'Pulse Rifle Bullets' (#1650043)
+[23:58:25	]C24:i1.JUDGE-2 has gained a 'Pulse Rifle Bullets' #1650043.
+[23:58:26	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Pulse-magazine' (#1650046)
+[23:58:27	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650024.
+[23:58:27	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650046.
+[23:58:28	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Pulse-magazine' (#1650024)
+[23:58:29	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[23:58:31	]C24:i1.JUDGE-2 has lost a 'Overcharged Pulse' #1650039.
+[23:58:37	]C24:i1.JUDGE-2 has gained a 'Overcharged Pulse' #1650039.
+[23:58:38	]C24:i1.JUDGE-2 has lost a 'Lasser Pulse' #1650041.
+[23:58:56	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650046.
+[23:58:56	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650024.
+[23:58:57	]C24:i1.JUDGE-2 used command '/ToggleRaise'.

@@ -1,0 +1,1993 @@
+[00:00:19	]Old Man Lev used command '/ActSit 1'.
+[00:00:21	]Old Man Lev used command '/ExitAct'.
+[00:00:25	]Old Man Lev has spawned 'models/props/cs_militia/wood_bench.mdl'.
+[00:00:34	]Old Man Lev has spawned 'models/props/coop_autumn/autumn_truck_trailer/autumn_truck_trailer_bench.mdl'.
+[00:00:54	]Old Man Lev has fired a toolgun with the name: stacker_improved
+[00:00:54	]Old Man Lev has spawned 'models/props/coop_autumn/autumn_truck_trailer/autumn_truck_trailer_bench.mdl'.
+[00:01:00	]Old Man Lev has enabled persistence for 'models/props/coop_autumn/autumn_truck_trailer/autumn_truck_trailer_bench.mdl'.
+[00:01:00	]Old Man Lev has used a context menu option with the name: persist
+[00:01:01	]Old Man Lev has enabled persistence for 'models/props/coop_autumn/autumn_truck_trailer/autumn_truck_trailer_bench.mdl'.
+[00:01:01	]Old Man Lev has used a context menu option with the name: persist
+[00:01:07	]Old Man Lev used command '/ActSit 6'.
+[00:01:16	]Freudeka has fired a toolgun with the name: weld
+[00:01:17	]Freudeka has fired a toolgun with the name: weld
+[00:01:17	]Freudeka has fired a toolgun with the name: weld
+[00:01:18	]Freudeka has fired a toolgun with the name: weld
+[00:01:18	]Freudeka has fired a toolgun with the name: weld
+[00:01:20	]Freudeka has fired a toolgun with the name: weld
+[00:01:20	]Freudeka has fired a toolgun with the name: weld
+[00:01:20	]Freudeka has fired a toolgun with the name: weld
+[00:01:23	]Old Man Lev used command '/ExitAct'.
+[00:01:26	]Freudeka has fired a toolgun with the name: advdupe2
+[00:01:26	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001_corner_large.mdl'.
+[00:01:26	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_fire_extinguisher/nuke_fire_extinguisher.mdl'.
+[00:01:26	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_fire_extinguisher/nuke_fire_extinguisher.mdl'.
+[00:01:27	]Freudeka has spawned 'models/props_pipes/valve003.mdl'.
+[00:01:27	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/sprinkler_001/sprinkler_001.mdl'.
+[00:01:27	]Old Man Lev has spawned 'models/props_trainstation/bench_indoor001a.mdl'.
+[00:01:50	]Old Man Lev has fired a toolgun with the name: stacker_improved
+[00:01:50	]Old Man Lev has spawned 'models/props_trainstation/bench_indoor001a.mdl'.
+[00:02:01	]Old Man Lev has fired a toolgun with the name: stacker_improved
+[00:02:01	]Old Man Lev has spawned 'models/props_trainstation/bench_indoor001a.mdl'.
+[00:02:06	]Old Man Lev has fired a toolgun with the name: stacker_improved
+[00:02:06	]Old Man Lev has spawned 'models/props_trainstation/bench_indoor001a.mdl'.
+[00:02:09	]Freudeka entered observer.
+[00:02:11	]Freudeka exited observer at their location.
+[00:02:11	]Old Man Lev has fired a toolgun with the name: stacker_improved
+[00:02:11	]Old Man Lev has spawned 'models/props_trainstation/bench_indoor001a.mdl'.
+[00:02:15	]Old Man Lev has enabled persistence for 'models/props_trainstation/bench_indoor001a.mdl'.
+[00:02:15	]Old Man Lev has used a context menu option with the name: persist
+[00:02:15	]Old Man Lev has enabled persistence for 'models/props_trainstation/bench_indoor001a.mdl'.
+[00:02:15	]Old Man Lev has used a context menu option with the name: persist
+[00:02:17	]Old Man Lev has enabled persistence for 'models/props_trainstation/bench_indoor001a.mdl'.
+[00:02:17	]Old Man Lev has used a context menu option with the name: persist
+[00:02:18	]Freudeka has fired a toolgun with the name: advdupe2
+[00:02:18	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001_corner_large.mdl'.
+[00:02:18	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_fire_extinguisher/nuke_fire_extinguisher.mdl'.
+[00:02:18	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_fire_extinguisher/nuke_fire_extinguisher.mdl'.
+[00:02:18	]Freudeka has spawned 'models/props_pipes/valve003.mdl'.
+[00:02:18	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/sprinkler_001/sprinkler_001.mdl'.
+[00:02:18	]Old Man Lev has enabled persistence for 'models/props_trainstation/bench_indoor001a.mdl'.
+[00:02:18	]Old Man Lev has used a context menu option with the name: persist
+[00:02:24	]Freudeka entered observer.
+[00:02:26	]Old Man Lev used command '/ActSit 6'.
+[00:02:33	]Freudeka has fired a toolgun with the name: advdupe2
+[00:02:33	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001_corner_large.mdl'.
+[00:02:34	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_fire_extinguisher/nuke_fire_extinguisher.mdl'.
+[00:02:34	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_fire_extinguisher/nuke_fire_extinguisher.mdl'.
+[00:02:34	]Freudeka has spawned 'models/props_pipes/valve003.mdl'.
+[00:02:34	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/sprinkler_001/sprinkler_001.mdl'.
+[00:02:42	]Freudeka has fired a toolgun with the name: advdupe2
+[00:02:42	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001_corner_large.mdl'.
+[00:02:42	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_fire_extinguisher/nuke_fire_extinguisher.mdl'.
+[00:02:42	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_fire_extinguisher/nuke_fire_extinguisher.mdl'.
+[00:02:42	]Freudeka has spawned 'models/props_pipes/valve003.mdl'.
+[00:02:42	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/sprinkler_001/sprinkler_001.mdl'.
+[00:02:45	]Old Man Lev used command '/ExitAct'.
+[00:02:45	]Freudeka exited observer at their location.
+[00:02:48	]Freudeka entered observer.
+[00:02:51	]Freudeka exited observer at their location.
+[00:02:54	]Freudeka entered observer.
+[00:02:54	]Freudeka exited observer at their location.
+[00:02:56	]Freudeka entered observer.
+[00:02:56	]Freudeka exited observer at their location.
+[00:02:57	]Freudeka entered observer.
+[00:02:57	]Freudeka exited observer at their location.
+[00:03:00	]Freudeka entered observer.
+[00:03:00	]Freudeka exited observer at their location.
+[00:03:00	]Freudeka entered observer.
+[00:03:01	]Old Man Lev entered observer.
+[00:03:08	]Freudeka exited observer at their location.
+[00:03:34	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/airduct_hvac_001/airduct_hvac_002b_endcap_flat.mdl'.
+[00:03:35	]Old Man Lev exited observer at their location.
+[00:03:55	]Old Man Lev used command '/ActSit 6'.
+[00:04:03	]Old Man Lev used command '/ExitAct'.
+[00:04:03	]Freudeka entered observer.
+[00:04:06	]Freudeka exited observer at their location.
+[00:04:24	]Old Man Lev entered observer.
+[00:06:03	]Old Man Lev exited observer at their location.
+[00:06:12	]Old Man Lev entered observer.
+[00:06:23	]Old Man Lev exited observer at their location.
+[00:06:28	]Old Man Lev entered observer.
+[00:06:28	]Old Man Lev exited observer at their location.
+[00:06:32	]Old Man Lev used command '/ActSit 6'.
+[00:06:38	]Old Man Lev used command '/ExitAct'.
+[00:06:41	]Old Man Lev entered observer.
+[00:06:44	]Old Man Lev exited observer at their location.
+[00:06:48	]Old Man Lev entered observer.
+[00:06:51	]Old Man Lev exited observer at their location.
+[00:07:00	]Old Man Lev entered observer.
+[00:07:03	]Old Man Lev exited observer at their location.
+[00:07:10	]Old Man Lev entered observer.
+[00:07:20	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_computer/nuke_supercomputer_02.mdl'.
+[00:07:34	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_computer/nuke_supercomputer_01.mdl'.
+[00:07:36	]Freudeka has taken 5 damage from Freudeka.
+[00:07:36	]Freudeka has taken 5 damage from Freudeka.
+[00:07:38	]Freudeka entered observer.
+[00:07:38	]Freudeka exited observer at their location.
+[00:07:41	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_computer/nuke_supercomputer_01.mdl'.
+[00:07:52	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_computer/nuke_supercomputer_02.mdl'.
+[00:08:15	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_office_cupboard_001b.mdl'.
+[00:08:22	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_roof_ac/nuke_roof_ac01_skybox.mdl'.
+[00:08:24	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_roof_ac/nuke_roof_ac01_low.mdl'.
+[00:08:28	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_reactor_vessel_head/nuke_spent_fuel_racks.mdl'.
+[00:08:45	]Old Man Lev used command '/AreaEdit'.
+[00:08:51	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_skylight/nuke_skylight.mdl'.
+[00:08:59	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_control_room_desk_288.mdl'.
+[00:09:03	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_control_room_desk_384.mdl'.
+[00:09:28	]Old Man Lev has removed area "I24 - Canal Sector #2".
+[00:09:33	]Old Man Lev has removed area "I24 - Canal Sector #1".
+[00:10:32	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_light_fixture/nuke_twin_spot_02.mdl'.
+[00:10:51	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_office_chair/nuke_office_chair.mdl'.
+[00:10:54	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_office_chair/nuke_office_chair.mdl'.
+[00:11:09	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_office_desk_notebook2.mdl'.
+[00:11:13	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_office_desk.mdl'.
+[00:11:13	]Freudeka entered observer.
+[00:11:14	]Freudeka exited observer at their location.
+[00:11:15	]Old Man Lev has added area "Nexus - Catwalk Tunnels".
+[00:11:51	]Freudeka has used a context menu option with the name: remove
+[00:11:56	]Freudeka has spawned 'models/props_interiors/desk_metal.mdl'.
+[00:12:03	]Old Man Lev has added area "Nexus - Generator Controls".
+[00:13:00	]Old Man Lev has added area "Nexus - Administrative Access".
+[00:13:09	]Old Man Lev used command '/AreaEdit'.
+[00:13:49	]Old Man Lev has added area "I24 - Beach Bulkhead Tunnel".
+[00:14:44	]Old Man Lev has added area "Lighthouse".
+[00:15:14	]Old Man Lev has removed area "Lighthouse".
+[00:15:27	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_office_desk_monitor.mdl'.
+[00:15:49	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_office_desk_keyboard01.mdl'.
+[00:16:04	]Old Man Lev has added area "I24 - Docks".
+[00:16:23	]Old Man Lev has removed area "I24 - Docks".
+[00:16:34	]Freudeka has spawned 'models/props_interiors/paper_tray.mdl'.
+[00:16:37	]Freudeka created a 'Paper Tray' container.
+[00:16:37	]Freudeka has used a context menu option with the name: wncontainer_create
+[00:16:55	]Freudeka opened the 'Paper Tray' #101273 container.
+[00:16:59	]Freudeka closed the 'Paper Tray' #101273 container.
+[00:17:30	]Freudeka has spawned 'models/props_junk/garbage_cerealbox01a.mdl'.
+[00:17:41	]Freudeka has spawned 'models/props_survival/crates/crate_ammobox.mdl'.
+[00:17:44	]Freudeka has spawned 'models/props/gg_vietnam/foul_cage_box.mdl'.
+[00:17:46	]Old Man Lev has added area "I24 - Docks".
+[00:18:30	]Old Man Lev has added area "Lighthouse".
+[00:18:39	]Old Man Lev exited observer at their location.
+[00:18:45	]Old Man Lev entered observer.
+[00:18:49	]Old Man Lev used command '/AreaEdit'.
+[00:19:13	]Old Man Lev has removed area "I24 - Docks".
+[00:20:33	]Old Man Lev has added area "Shipyard".
+[00:21:20	]Old Man Lev has added area "Docked Cargo Vessel".
+[00:21:46	]Freudeka has spawned 'models/props/de_train/hr_t/computer_cart_a/computer_cart_a.mdl'.
+[00:21:58	]Freudeka has spawned 'models/props/cs_office/computer_monitor.mdl'.
+[00:22:35	]Freudeka has spawned 'models/vj_hlr/gibs/computergibs_comp12.mdl'.
+[00:22:39	]Freudeka has spawned 'models/vj_hlr/gibs/computergibs_comp3.mdl'.
+[00:23:21	]Freudeka has spawned 'models/props/cs_office/computer_keyboard_p1.mdl'.
+[00:23:25	]Old Man Lev has added area "I24 - Dock Entrance".
+[00:23:27	]Freudeka has spawned 'models/props/cs_office/computer_keyboard.mdl'.
+[00:23:37	]Freudeka has used a context menu option with the name: remove
+[00:24:23	]Freudeka has spawned 'models/props/coop_kashbah/cables/ceiling_cables.mdl'.
+[00:24:35	]Freudeka has spawned 'models/props_blackmesa/ceiling_cables.mdl'.
+[00:24:42	]Old Man Lev used command '/AreaEdit'.
+[00:24:54	]Old Man Lev exited observer at their location.
+[00:24:58	]Old Man Lev entered observer.
+[00:25:21	]Freudeka has spawned 'models/props_lab/power_cable002.mdl'.
+[00:25:24	]Freudeka has spawned 'models/props_lab/power_cable001.mdl'.
+[00:25:26	]Freudeka has spawned 'models/props/props_utilities/electric_cables06.mdl'.
+[00:25:59	]Freudeka has spawned 'models/props/de_dust/hr_dust/dust_wire_connectors/dust_wire_connector_03.mdl'.
+[00:26:02	]Freudeka has spawned 'models/props/de_dust/hr_dust/dust_wire_connectors/dust_wire_connector_03b.mdl'.
+[00:26:04	]Freudeka has spawned 'models/props/de_dust/hr_dust/dust_wire_connectors/dust_electric_cable_pole.mdl'.
+[00:26:06	]Freudeka has spawned 'models/props/de_dust/hr_dust/dust_trims/dust_wire_bracket002.mdl'.
+[00:27:03	]Freudeka has spawned 'models/props/de_dust/hr_dust/dust_wires/dust_wires_01_attachment_conduit_nowires.mdl'.
+[00:27:06	]Freudeka has spawned 'models/props/de_dust/hr_dust/dust_wires/dust_wires_01_attachment_conduit.mdl'.
+[00:27:08	]Freudeka has spawned 'models/props/de_dust/hr_dust/dust_wire_connectors/dust_wire_connector_05.mdl'.
+[00:27:13	]Old Man Lev used command '/AreaEdit'.
+[00:27:53	]Freudeka has fired a toolgun with the name: precision
+[00:28:16	]Freudeka has fired a toolgun with the name: precision
+[00:28:38	]Old Man Lev has added area "Lil' bit of Trolling".
+[00:28:40	]Old Man Lev exited observer at their location.
+[00:28:40	]Freudeka entered observer.
+[00:28:43	]Freudeka exited observer at their location.
+[00:28:59	]Old Man Lev has removed area "Lil' bit of Trolling".
+[00:29:07	]Freudeka has fired a toolgun with the name: rope
+[00:29:08	]Freudeka has fired a toolgun with the name: rope
+[00:29:11	]Old Man Lev entered observer.
+[00:29:27	]Freudeka has fired a toolgun with the name: rope
+[00:29:28	]Freudeka has fired a toolgun with the name: rope
+[00:29:35	]Old Man Lev exited observer at their location.
+[00:29:38	]Freudeka has fired a toolgun with the name: rope
+[00:29:39	]Old Man Lev entered observer.
+[00:29:39	]Freudeka has fired a toolgun with the name: rope
+[00:29:48	]Freudeka has fired a toolgun with the name: rope
+[00:29:50	]Freudeka has fired a toolgun with the name: rope
+[00:30:10	]Freudeka has spawned 'models/props/de_dust/hr_dust/dust_wires/dust_wires_01_insidecorner.mdl'.
+[00:30:13	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/chainlink_fence_001/chainlink_fence_barbwire_001_128.mdl'.
+[00:30:20	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/wires_001/wires_001b_curve_vert_low.mdl'.
+[00:30:41	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/wires_001/wires_001b_16.mdl'.
+[00:30:43	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/wires_001/wires_001b_16_low.mdl'.
+[00:30:45	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/wires_001/wires_001b_16_noframe.mdl'.
+[00:30:46	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/wires_001/wires_001b_16_noframe_low.mdl'.
+[00:30:50	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/wires_001/wires_002b_32.mdl'.
+[00:30:50	]Old Man Lev exited observer at their location.
+[00:30:52	]Old Man Lev entered observer.
+[00:30:53	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/wires_001/wires_002b_64.mdl'.
+[00:31:07	]Old Man Lev exited observer at their location.
+[00:31:14	]Old Man Lev has spawned a 'Entity [938][ix_smuggler]'.
+[00:31:16	]Old Man Lev entered observer.
+[00:31:20	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/wires_001/wires_002b_512.mdl'.
+[00:31:21	]Freudeka entered observer.
+[00:31:25	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/wires_001/wires_002b_512.mdl'.
+[00:31:33	]Freudeka has fired a toolgun with the name: nocollideworld
+[00:31:33	]Freudeka has fired a toolgun with the name: nocollideworld
+[00:31:38	]Freudeka exited observer at their location.
+[00:31:38	]Old Man Lev exited observer at their location.
+[00:31:39	]Old Man Lev entered observer.
+[00:31:42	]Old Man Lev has used a context menu option with the name: smuggler_edit
+[00:32:04	]Freudeka entered observer.
+[00:32:23	]Freudeka exited observer at their location.
+[00:32:51	]Freudeka has spawned 'models/props_office/office_keyboard.mdl'.
+[00:32:58	]Old Man Lev has used a context menu option with the name: remove
+[00:32:58	]Freudeka entered observer.
+[00:33:10	]Old Man Lev exited observer at their location.
+[00:33:11	]Freudeka has used a context menu option with the name: collision_off
+[00:33:19	]Old Man Lev has spawned a 'Entity [896][ix_trashcollector]'.
+[00:33:20	]Freudeka exited observer at their location.
+[00:33:46	]Freudeka entered observer.
+[00:33:55	]Freudeka has fired a toolgun with the name: rope
+[00:33:57	]Freudeka has fired a toolgun with the name: rope
+[00:34:01	]Freudeka exited observer at their location.
+[00:34:04	]Old Man Lev has spawned a 'Entity [896][ix_garbage]'.
+[00:34:07	]Freudeka has enabled persistence for 'models/props_office/office_keyboard.mdl'.
+[00:34:07	]Freudeka has used a context menu option with the name: persist
+[00:34:08	]Freudeka has enabled persistence for 'models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_office_desk_monitor.mdl'.
+[00:34:08	]Freudeka has used a context menu option with the name: persist
+[00:34:09	]Freudeka has enabled persistence for 'models/props_interiors/desk_metal.mdl'.
+[00:34:09	]Freudeka has used a context menu option with the name: persist
+[00:34:10	]Freudeka has enabled persistence for 'models/props/de_nuke/hr_nuke/nuke_computer/nuke_supercomputer_02.mdl'.
+[00:34:10	]Freudeka has used a context menu option with the name: persist
+[00:34:10	]Old Man Lev entered observer.
+[00:34:11	]Freudeka has enabled persistence for 'models/props/de_nuke/hr_nuke/wires_001/wires_002b_512.mdl'.
+[00:34:11	]Freudeka has used a context menu option with the name: persist
+[00:34:14	]Old Man Lev has spawned a 'Entity [938][ix_trashspawner]'.
+[00:34:15	]Freudeka has used a context menu option with the name: skin
+[00:34:17	]Old Man Lev has used a context menu option with the name: remove
+[00:34:19	]Old Man Lev has used a context menu option with the name: remove
+[00:34:20	]Freudeka has enabled persistence for 'models/props/de_nuke/hr_nuke/nuke_computer/nuke_supercomputer_01.mdl'.
+[00:34:20	]Freudeka has used a context menu option with the name: persist
+[00:34:22	]Old Man Lev has spawned a 'Entity [962][ix_trashspawner]'.
+[00:34:30	]Old Man Lev has spawned a 'Entity [810][ix_trashspawner]'.
+[00:34:32	]Old Man Lev has spawned a 'Entity [1084][ix_trashspawner]'.
+[00:34:34	]Freudeka entered observer.
+[00:34:36	]Freudeka exited observer at their location.
+[00:34:36	]Freudeka entered observer.
+[00:34:39	]Old Man Lev has spawned a 'Entity [1010][ix_trashspawner]'.
+[00:34:45	]Freudeka exited observer at their location.
+[00:34:46	]Freudeka entered observer.
+[00:34:46	]Freudeka exited observer at their location.
+[00:34:47	]Old Man Lev has spawned a 'Entity [922][ix_trashspawner]'.
+[00:34:47	]Freudeka entered observer.
+[00:34:48	]Freudeka exited observer at their location.
+[00:34:50	]Freudeka entered observer.
+[00:34:53	]Freudeka exited observer at their location.
+[00:34:54	]Freudeka entered observer.
+[00:34:54	]Freudeka exited observer at their location.
+[00:35:00	]Old Man Lev has spawned a 'Entity [1083][ix_trashspawner]'.
+[00:35:08	]Old Man Lev has spawned a 'Entity [1073][ix_trashspawner]'.
+[00:35:11	]Freudeka entered observer.
+[00:35:11	]Old Man Lev has spawned a 'Entity [1065][ix_trashspawner]'.
+[00:35:12	]Freudeka exited observer at their location.
+[00:35:17	]Freudeka has disabled persistence for 'models/props/de_nuke/hr_nuke/nuke_computer/nuke_supercomputer_02.mdl'.
+[00:35:17	]Freudeka has used a context menu option with the name: persist_end
+[00:35:18	]Freudeka has disabled persistence for 'models/props/de_nuke/hr_nuke/nuke_computer/nuke_supercomputer_01.mdl'.
+[00:35:18	]Freudeka has used a context menu option with the name: persist_end
+[00:35:19	]Old Man Lev has spawned a 'Entity [1072][ix_trashspawner]'.
+[00:35:20	]Freudeka has disabled persistence for 'models/props/de_nuke/hr_nuke/wires_001/wires_002b_512.mdl'.
+[00:35:20	]Freudeka has used a context menu option with the name: persist_end
+[00:35:23	]Freudeka has disabled persistence for 'models/props_interiors/desk_metal.mdl'.
+[00:35:23	]Freudeka has used a context menu option with the name: persist_end
+[00:35:24	]Old Man Lev has spawned a 'Entity [1074][ix_trashspawner]'.
+[00:35:24	]Freudeka has disabled persistence for 'models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_office_desk_monitor.mdl'.
+[00:35:24	]Freudeka has used a context menu option with the name: persist_end
+[00:35:26	]Freudeka has disabled persistence for 'models/props_office/office_keyboard.mdl'.
+[00:35:26	]Freudeka has used a context menu option with the name: persist_end
+[00:35:31	]Old Man Lev has spawned a 'Entity [939][ix_trashspawner]'.
+[00:35:35	]Old Man Lev has spawned a 'Entity [942][ix_trashspawner]'.
+[00:35:37	]Old Man Lev has spawned a 'Entity [1226][ix_trashspawner]'.
+[00:35:44	]Old Man Lev has spawned a 'Entity [935][ix_trashspawner]'.
+[00:35:46	]Old Man Lev has spawned a 'Entity [1011][ix_trashspawner]'.
+[00:35:51	]Old Man Lev has spawned a 'Entity [1085][ix_trashspawner]'.
+[00:35:56	]Old Man Lev has spawned a 'Entity [1058][ix_trashspawner]'.
+[00:35:58	]Old Man Lev has spawned a 'Entity [784][ix_trashspawner]'.
+[00:36:38	]Old Man Lev has spawned a 'Entity [891][ix_trashspawner]'.
+[00:36:42	]Old Man Lev has spawned a 'Entity [1080][ix_trashspawner]'.
+[00:36:45	]Old Man Lev has spawned a 'Entity [958][ix_trashspawner]'.
+[00:37:20	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_computer/nuke_supercomputer_02.mdl'.
+[00:37:41	]Freudeka has spawned 'models/c24_interior/large_frontdesk.mdl'.
+[00:37:43	]Freudeka has spawned 'models/c24/marble_desk.mdl'.
+[00:37:43	]Old Man Lev has spawned a 'Entity [956][ix_trashspawner]'.
+[00:37:49	]Freudeka has spawned 'models/props_wasteland/controlroom_desk001a.mdl'.
+[00:37:50	]Old Man Lev has spawned a 'Entity [929][ix_trashspawner]'.
+[00:37:51	]Freudeka has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[00:37:51	]Old Man Lev has spawned a 'Entity [1231][ix_trashspawner]'.
+[00:37:58	]Old Man Lev has spawned a 'Entity [964][ix_trashspawner]'.
+[00:38:14	]Freudeka has spawned 'models/props_interiors/coffee_table_rectangular.mdl'.
+[00:38:16	]Freudeka has spawned 'models/props_forest/table_shed.mdl'.
+[00:38:19	]Freudeka has spawned 'models/c24_interior/c24_table2.mdl'.
+[00:38:28	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:29	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:29	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:31	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:32	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:33	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:37	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:37	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:40	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:40	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:40	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:41	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:43	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:44	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:44	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:44	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:46	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:46	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:46	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:51	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:52	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:54	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:54	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:54	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:57	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:57	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:57	]Old Man Lev has fired a toolgun with the name: remover
+[00:38:57	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:00	]Freudeka has fired a toolgun with the name: submaterial
+[00:39:01	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:02	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:02	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:02	]Freudeka has fired a toolgun with the name: submaterial
+[00:39:03	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:04	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:04	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:04	]Freudeka has fired a toolgun with the name: submaterial
+[00:39:06	]Freudeka has fired a toolgun with the name: submaterial
+[00:39:06	]Freudeka has fired a toolgun with the name: submaterial
+[00:39:07	]Freudeka has fired a toolgun with the name: submaterial
+[00:39:08	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:08	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:09	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:09	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:09	]Freudeka has fired a toolgun with the name: submaterial
+[00:39:09	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:10	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:10	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:11	]Freudeka has fired a toolgun with the name: submaterial
+[00:39:11	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:11	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:11	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:12	]Freudeka has fired a toolgun with the name: submaterial
+[00:39:13	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:14	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:14	]Freudeka has fired a toolgun with the name: submaterial
+[00:39:14	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:14	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:14	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:14	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:16	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:16	]Freudeka has fired a toolgun with the name: submaterial
+[00:39:18	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:19	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:19	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:19	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:20	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:20	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:23	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:23	]Freudeka has fired a toolgun with the name: submaterial
+[00:39:23	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:24	]Old Man Lev has fired a toolgun with the name: remover
+[00:39:25	]Freudeka has fired a toolgun with the name: submaterial
+[00:39:31	]Old Man Lev exited observer at their location.
+[00:39:37	]Freudeka has fired a toolgun with the name: submaterial
+[00:39:39	]Freudeka has fired a toolgun with the name: submaterial
+[00:39:40	]Freudeka has fired a toolgun with the name: submaterial
+[00:39:42	]Freudeka has fired a toolgun with the name: submaterial
+[00:39:44	]Freudeka has fired a toolgun with the name: submaterial
+[00:40:01	]Old Man Lev entered observer.
+[00:40:11	]Old Man Lev has spawned a 'Entity [1072][ix_trashspawner]'.
+[00:40:15	]Old Man Lev has spawned a 'Entity [1075][ix_trashspawner]'.
+[00:40:17	]Old Man Lev has spawned a 'Entity [1076][ix_trashspawner]'.
+[00:40:20	]Old Man Lev exited observer at their location.
+[00:40:22	]Old Man Lev has spawned a 'Entity [929][ix_trashcollector]'.
+[00:40:29	]Freudeka has spawned 'models/props_silo/silo_launchroom_monitor.mdl'.
+[00:40:46	]Freudeka has fired a toolgun with the name: submaterial
+[00:40:47	]Freudeka has fired a toolgun with the name: submaterial
+[00:40:48	]Freudeka has fired a toolgun with the name: submaterial
+[00:40:48	]Freudeka has fired a toolgun with the name: submaterial
+[00:40:49	]Freudeka has fired a toolgun with the name: submaterial
+[00:40:52	]Freudeka has used a context menu option with the name: skin
+[00:40:52	]Old Man Lev has spawned a 'Entity [1058][ix_trashcollector]'.
+[00:40:53	]Freudeka has fired a toolgun with the name: submaterial
+[00:40:53	]Freudeka has fired a toolgun with the name: submaterial
+[00:40:54	]Freudeka has fired a toolgun with the name: submaterial
+[00:40:54	]Freudeka has fired a toolgun with the name: submaterial
+[00:41:01	]Freudeka has fired a toolgun with the name: submaterial
+[00:41:02	]Freudeka has fired a toolgun with the name: submaterial
+[00:41:02	]Freudeka has fired a toolgun with the name: submaterial
+[00:41:03	]Freudeka has fired a toolgun with the name: submaterial
+[00:41:03	]Freudeka has fired a toolgun with the name: submaterial
+[00:41:04	]Freudeka has fired a toolgun with the name: submaterial
+[00:41:04	]Freudeka has fired a toolgun with the name: submaterial
+[00:41:05	]Freudeka has fired a toolgun with the name: submaterial
+[00:41:14	]Freudeka has used a context menu option with the name: remove
+[00:41:15	]Old Man Lev entered observer.
+[00:41:24	]Old Man Lev has spawned a 'Entity [1065][ix_trashspawner]'.
+[00:41:26	]Old Man Lev has spawned a 'Entity [784][ix_trashspawner]'.
+[00:41:27	]Old Man Lev has spawned a 'Entity [1037][ix_trashspawner]'.
+[00:41:40	]Old Man Lev has spawned a 'Entity [960][ix_trashspawner]'.
+[00:41:42	]Old Man Lev has spawned a 'Entity [956][ix_trashspawner]'.
+[00:41:47	]Old Man Lev has spawned a 'Entity [1010][ix_trashspawner]'.
+[00:41:49	]Old Man Lev has spawned a 'Entity [1073][ix_trashspawner]'.
+[00:42:01	]Old Man Lev exited observer at their location.
+[00:42:20	]Old Man Lev entered observer.
+[00:42:52	]Freudeka has fired a toolgun with the name: submaterial
+[00:43:03	]Old Man Lev has spawned a 'Entity [810][ix_trashspawner]'.
+[00:43:05	]Freudeka has fired a toolgun with the name: material
+[00:43:05	]Old Man Lev has spawned a 'Entity [1079][ix_trashspawner]'.
+[00:43:08	]Freudeka has fired a toolgun with the name: material
+[00:43:08	]Old Man Lev has spawned a 'Entity [1168][ix_trashspawner]'.
+[00:43:09	]Old Man Lev has spawned a 'Entity [1225][ix_trashspawner]'.
+[00:43:11	]Freudeka has fired a toolgun with the name: material
+[00:43:14	]Freudeka has fired a toolgun with the name: material
+[00:43:15	]Freudeka has fired a toolgun with the name: material
+[00:43:17	]Freudeka has fired a toolgun with the name: material
+[00:43:46	]Freudeka has spawned 'models/props_silo/silo_launchroom_monitor.mdl'.
+[00:44:02	]Old Man Lev used command '/AreaEdit'.
+[00:44:45	]Old Man Lev exited observer at their location.
+[00:44:48	]Old Man Lev has spawned a 'Entity [1234][ix_trashspawner]'.
+[00:44:48	]Old Man Lev entered observer.
+[00:45:22	]Old Man Lev has spawned a 'Entity [1081][ix_trashspawner]'.
+[00:45:27	]Old Man Lev has spawned a 'Entity [1235][ix_trashspawner]'.
+[00:45:29	]Old Man Lev has spawned a 'Entity [930][ix_trashspawner]'.
+[00:45:43	]Old Man Lev has spawned a 'Entity [1084][ix_trashspawner]'.
+[00:45:43	]Freudeka has fired a toolgun with the name: submaterial
+[00:45:45	]Freudeka has fired a toolgun with the name: submaterial
+[00:45:45	]Freudeka has fired a toolgun with the name: submaterial
+[00:45:46	]Freudeka has fired a toolgun with the name: submaterial
+[00:45:46	]Freudeka has fired a toolgun with the name: submaterial
+[00:45:55	]Old Man Lev has spawned a 'Entity [1236][ix_trashspawner]'.
+[00:45:56	]Old Man Lev has spawned a 'Entity [1230][ix_trashspawner]'.
+[00:45:58	]Old Man Lev has spawned a 'Entity [1233][ix_trashspawner]'.
+[00:46:18	]Freudeka has fired a toolgun with the name: submaterial
+[00:46:24	]Freudeka has fired a toolgun with the name: colour
+[00:46:26	]Freudeka has fired a toolgun with the name: colour
+[00:46:36	]Old Man Lev has spawned a 'Entity [1243][ix_trashspawner]'.
+[00:46:38	]Old Man Lev has spawned a 'Entity [1248][ix_trashspawner]'.
+[00:46:39	]Old Man Lev has spawned a 'Entity [1083][ix_trashspawner]'.
+[00:46:55	]Freudeka has fired a toolgun with the name: submaterial
+[00:46:57	]Freudeka has fired a toolgun with the name: submaterial
+[00:47:04	]Freudeka has fired a toolgun with the name: submaterial
+[00:47:05	]Freudeka has fired a toolgun with the name: submaterial
+[00:47:06	]Freudeka has fired a toolgun with the name: submaterial
+[00:47:07	]Freudeka has fired a toolgun with the name: submaterial
+[00:47:18	]Freudeka has fired a toolgun with the name: submaterial
+[00:47:19	]Freudeka has fired a toolgun with the name: submaterial
+[00:47:20	]Freudeka has fired a toolgun with the name: submaterial
+[00:47:20	]Freudeka has fired a toolgun with the name: submaterial
+[00:47:21	]Freudeka has fired a toolgun with the name: submaterial
+[00:47:23	]Freudeka has used a context menu option with the name: skin
+[00:47:27	]Freudeka has used a context menu option with the name: remove
+[00:47:35	]Freudeka has spawned 'models/nt/props_tech/monitor_ghostcase.mdl'.
+[00:47:47	]Freudeka has used a context menu option with the name: skin
+[00:47:55	]Freudeka entered observer.
+[00:47:57	]Freudeka has fired a toolgun with the name: rope
+[00:47:58	]Freudeka has fired a toolgun with the name: rope
+[00:48:03	]Freudeka exited observer at their location.
+[00:48:12	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_computer/nuke_supercomputer_01.mdl'.
+[00:48:47	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_office_binder.mdl'.
+[00:49:02	]Freudeka has fired a toolgun with the name: colour
+[00:49:21	]Old Man Lev has spawned a 'Entity [1071][ix_trashspawner]'.
+[00:49:26	]Old Man Lev has spawned a 'Entity [1231][ix_trashspawner]'.
+[00:49:27	]Old Man Lev has spawned a 'Entity [1232][ix_trashspawner]'.
+[00:49:28	]Old Man Lev has spawned a 'Entity [1256][ix_trashspawner]'.
+[00:49:32	]Old Man Lev has spawned a 'Entity [1353][ix_trashspawner]'.
+[00:49:34	]Old Man Lev has spawned a 'Entity [962][ix_trashspawner]'.
+[00:49:36	]Old Man Lev has spawned a 'Entity [896][ix_trashspawner]'.
+[00:50:17	]Freudeka has spawned 'models/props_lab/cornerunit.mdl'.
+[00:50:21	]Freudeka has spawned 'models/props_debris/corner_rubble1.mdl'.
+[00:50:41	]Freudeka has spawned 'models/chairs/armchair.mdl'.
+[00:50:56	]Old Man Lev used command '/CreateLootContainerSpawn'.
+[00:51:02	]Freudeka has spawned 'models/props/cs_militia/couch.mdl'.
+[00:51:08	]Freudeka has spawned 'models/props/de_inferno/furniture_couch01a.mdl'.
+[00:51:13	]Freudeka has used a context menu option with the name: remove
+[00:51:14	]Freudeka has spawned 'models/props/cs_militia/couch.mdl'.
+[00:51:31	]Freudeka has spawned 'models/props_interiors/furniture_couch02a.mdl'.
+[00:51:53	]Freudeka entered observer.
+[00:51:54	]Freudeka exited observer at their location.
+[00:51:57	]Old Man Lev exited observer at their location.
+[00:51:59	]Old Man Lev entered observer.
+[00:52:01	]Old Man Lev exited observer at their location.
+[00:52:08	]Old Man Lev used command '/CreateLootContainerSpawn Basic'.
+[00:52:17	]Old Man Lev ran 'take' on item 'Empty Plastic Jug' (#2046500)
+[00:52:17	]Old Man Lev has gained a 'Empty Plastic Jug' #2046500.
+[00:52:18	]Freudeka entered observer.
+[00:52:19	]Old Man Lev ran 'take' on item 'Purifier' (#2046502)
+[00:52:19	]Old Man Lev has gained a 'Purifier' #2046502.
+[00:52:19	]Freudeka exited observer at their location.
+[00:52:20	]Old Man Lev ran 'take' on item 'Electronic circuits' (#2046501)
+[00:52:20	]Old Man Lev has gained a 'Electronic circuits' #2046501.
+[00:52:25	]Old Man Lev ran 'drop' on item 'Empty Plastic Jug' (#2046500)
+[00:52:25	]Old Man Lev has lost a 'Empty Plastic Jug' #2046500.
+[00:52:26	]Old Man Lev ran 'drop' on item 'Purifier' (#2046502)
+[00:52:26	]Old Man Lev has lost a 'Purifier' #2046502.
+[00:52:27	]Old Man Lev ran 'drop' on item 'Electronic circuits' (#2046501)
+[00:52:27	]Old Man Lev has lost a 'Electronic circuits' #2046501.
+[00:52:30	]Old Man Lev has fired a toolgun with the name: remover
+[00:52:30	]Old Man Lev has fired a toolgun with the name: remover
+[00:52:30	]Old Man Lev has fired a toolgun with the name: remover
+[00:52:31	]Old Man Lev entered observer.
+[00:52:42	]Old Man Lev exited observer at their location.
+[00:52:46	]Old Man Lev used command '/CreateLootContainerSpawn Basic'.
+[00:52:48	]Old Man Lev entered observer.
+[00:52:56	]Old Man Lev exited observer at their location.
+[00:53:00	]Old Man Lev used command '/CreateLootContainerSpawn Basic'.
+[00:53:11	]Old Man Lev ran 'take' on item 'Brown Shoe' (#2046503)
+[00:53:11	]Old Man Lev has gained a 'Brown Shoe' #2046503.
+[00:53:13	]Old Man Lev entered observer.
+[00:53:22	]Old Man Lev ran 'take' on item 'Box of Nails' (#2046504)
+[00:53:22	]Old Man Lev has gained a 'Box of Nails' #2046504.
+[00:53:25	]Old Man Lev ran 'drop' on item 'Box of Nails' (#2046504)
+[00:53:25	]Old Man Lev has lost a 'Box of Nails' #2046504.
+[00:53:26	]Old Man Lev ran 'drop' on item 'Brown Shoe' (#2046503)
+[00:53:26	]Old Man Lev has lost a 'Brown Shoe' #2046503.
+[00:53:29	]Old Man Lev has used a context menu option with the name: rb655_dissolve
+[00:53:30	]Old Man Lev has used a context menu option with the name: rb655_dissolve
+[00:53:31	]env_entity_dissolver destroyed a 'Box of Nails' #2046504.
+[00:53:32	]env_entity_dissolver destroyed a 'Brown Shoe' #2046503.
+[00:53:35	]Old Man Lev exited observer at their location.
+[00:53:39	]Old Man Lev used command '/CreateLootContainerSpawn Basic'.
+[00:53:44	]Old Man Lev used command '/CreateLootContainerSpawn Basic'.
+[00:53:47	]Old Man Lev entered observer.
+[00:53:49	]Old Man Lev exited observer at their location.
+[00:53:52	]Old Man Lev used command '/CreateLootContainerSpawn Basic'.
+[00:53:53	]Old Man Lev entered observer.
+[00:54:00	]Old Man Lev exited observer at their location.
+[00:54:05	]Old Man Lev used command '/CreateLootContainerSpawn Basic'.
+[00:54:08	]Old Man Lev entered observer.
+[00:54:12	]Old Man Lev exited observer at their location.
+[00:54:14	]Old Man Lev used command '/CreateLootContainerSpawn Basic'.
+[00:54:16	]Old Man Lev entered observer.
+[00:54:22	]Old Man Lev exited observer at their location.
+[00:54:25	]Old Man Lev used command '/CreateLootContainerSpawn Basic'.
+[00:54:27	]Old Man Lev entered observer.
+[00:54:46	]Old Man Lev exited observer at their location.
+[00:54:49	]Old Man Lev used command '/CreateLootContainerSpawn Basic'.
+[00:54:50	]Old Man Lev entered observer.
+[00:54:58	]Freudeka entered observer.
+[00:55:00	]Old Man Lev exited observer at their location.
+[00:55:00	]Freudeka exited observer at their location.
+[00:55:01	]Freudeka entered observer.
+[00:55:03	]Old Man Lev used command '/CreateLootContainerSpawn Basic'.
+[00:55:03	]Freudeka exited observer at their location.
+[00:55:06	]Old Man Lev entered observer.
+[00:55:09	]Old Man Lev exited observer at their location.
+[00:55:12	]Old Man Lev used command '/CreateLootContainerSpawn Basic'.
+[00:55:14	]Old Man Lev entered observer.
+[00:55:22	]Old Man Lev exited observer at their location.
+[00:55:26	]Old Man Lev entered observer.
+[00:55:39	]Old Man Lev exited observer at their location.
+[00:55:49	]Old Man Lev has spawned a 'Entity [1357][ix_teleporter]'.
+[00:56:38	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_clothes/nuke_gloves_individual.mdl'.
+[00:57:00	]Freudeka has spawned 'models/labware/tuberack2.mdl'.
+[00:57:20	]Freudeka has spawned 'models/labware/flask2.mdl'.
+[00:58:46	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_light_fixture/nuke_twin_spot_02b.mdl'.
+[00:59:00	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_office_chair/nuke_office_chair.mdl'.
+[00:59:07	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_office_chair/nuke_office_chair.mdl'.
+[00:59:13	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_office_chair/nuke_office_chair.mdl'.
+[00:59:29	]Freudeka has enabled persistence for 'models/props/de_nuke/hr_nuke/nuke_office_chair/nuke_office_chair.mdl'.
+[00:59:29	]Freudeka has used a context menu option with the name: persist
+[00:59:30	]Freudeka has enabled persistence for 'models/props/de_nuke/hr_nuke/nuke_office_chair/nuke_office_chair.mdl'.
+[00:59:30	]Freudeka has used a context menu option with the name: persist
+[00:59:31	]Freudeka has enabled persistence for 'models/c24_interior/c24_table2.mdl'.
+[00:59:31	]Freudeka has used a context menu option with the name: persist
+[00:59:32	]Freudeka has enabled persistence for 'models/nt/props_tech/monitor_ghostcase.mdl'.
+[00:59:32	]Freudeka has used a context menu option with the name: persist
+[00:59:33	]Freudeka has enabled persistence for 'models/props/de_nuke/hr_nuke/nuke_computer/nuke_supercomputer_02.mdl'.
+[00:59:33	]Freudeka has used a context menu option with the name: persist
+[00:59:35	]Freudeka has enabled persistence for 'models/props/de_nuke/hr_nuke/nuke_computer/nuke_supercomputer_01.mdl'.
+[00:59:35	]Freudeka has used a context menu option with the name: persist
+[00:59:36	]Freudeka has spawned a usable entity class 'ix_chair' with model 'models/props/de_nuke/hr_nuke/nuke_office_chair/nuke_office_chair.mdl'.
+[00:59:36	]Freudeka has used a context menu option with the name: ixusableentitycreate
+[00:59:38	]Freudeka has spawned a usable entity class 'ix_chair' with model 'models/props/de_nuke/hr_nuke/nuke_office_chair/nuke_office_chair.mdl'.
+[00:59:38	]Freudeka has used a context menu option with the name: ixusableentitycreate
+[00:59:39	]Freudeka has spawned a usable entity class 'ix_chair' with model 'models/props/de_nuke/hr_nuke/nuke_office_chair/nuke_office_chair.mdl'.
+[00:59:39	]Freudeka has used a context menu option with the name: ixusableentitycreate
+[00:59:42	]Freudeka has spawned a usable entity class 'ix_chair' with model 'models/props_interiors/furniture_couch02a.mdl'.
+[00:59:42	]Freudeka has used a context menu option with the name: ixusableentitycreate
+[00:59:43	]Freudeka has spawned a usable entity class 'ix_couch' with model 'models/props/cs_militia/couch.mdl'.
+[00:59:43	]Freudeka has used a context menu option with the name: ixusableentitycreate
+[00:59:55	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_machinery/nuke_machinery_03_small.mdl'.
+[01:00:13	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_concrete_barrier/nuke_concrete_block128.mdl'.
+[01:00:24	]Freudeka has spawned 'models/props_i17/misc/medical_counter.mdl'.
+[01:00:30	]Freudeka has spawned 'models/characters/counterterrorist.mdl'.
+[01:00:32	]Freudeka has spawned 'models/props_survival/counter/counter_a.mdl'.
+[01:00:42	]Freudeka has spawned 'models/props_bank/prop_bank_counter.mdl'.
+[01:00:46	]Freudeka has spawned 'models/props/de_vostok/counter_generalstore.mdl'.
+[01:00:52	]Freudeka has spawned 'models/props/de_venice/venice_shoe_shop/venice_shoe_shop_counter.mdl'.
+[01:01:18	]Freudeka has spawned 'models/props/cs_office/cabinet_kitchen01.mdl'.
+[01:01:23	]Old Man Lev has gone afk.
+[01:01:43	]Freudeka entered observer.
+[01:01:47	]Freudeka exited observer at their location.
+[01:01:48	]Freudeka entered observer.
+[01:01:49	]Freudeka exited observer at their location.
+[01:01:52	]Freudeka entered observer.
+[01:01:55	]Freudeka exited observer at their location.
+[01:02:05	]Freudeka has spawned 'models/hunter/plates/plate7x16.mdl'.
+[01:02:07	]Freudeka entered observer.
+[01:02:20	]Freudeka has fired a toolgun with the name: colour
+[01:02:21	]Freudeka exited observer at their location.
+[01:02:22	]Freudeka entered observer.
+[01:02:22	]Freudeka exited observer at their location.
+[01:02:26	]Freudeka has fired a toolgun with the name: material
+[01:02:31	]Freudeka has fired a toolgun with the name: colour
+[01:02:33	]Old Man Lev is no longer afk. Total time spent AFK: 365
+[01:02:39	]Old Man Lev used command '/TeleporterSetWarpSound ambient/atmosphere/cave_hit1.wav'.
+[01:02:42	]Freudeka has fired a toolgun with the name: nocollideworld
+[01:02:49	]Old Man Lev used command '/Teleporters'.
+[01:02:54	]Old Man Lev entered observer.
+[01:03:00	]Freudeka entered observer.
+[01:03:03	]Freudeka exited observer at their location.
+[01:03:04	]Freudeka entered observer.
+[01:03:22	]Freudeka exited observer at their location.
+[01:03:27	]Old Man Lev exited observer at their location.
+[01:03:38	]Old Man Lev entered observer.
+[01:03:49	]Old Man Lev exited observer at their location.
+[01:03:50	]Old Man Lev entered observer.
+[01:03:52	]Old Man Lev exited observer at their location.
+[01:03:53	]Freudeka has spawned 'models/mechanics/solid_steel/i_beam_4.mdl'.
+[01:04:00	]Old Man Lev has spawned a 'Entity [1359][ix_teleporter]'.
+[01:04:02	]Freudeka has spawned 'models/props_phx/misc/iron_beam2.mdl'.
+[01:04:07	]Old Man Lev used command '/TeleporterSetWarpSound ambient/atmosphere/cave_hit1.wav'.
+[01:04:09	]Old Man Lev used command '/Teleporters'.
+[01:04:12	]Old Man Lev entered observer.
+[01:04:20	]Freudeka has spawned 'models/props_phx/misc/iron_beam2.mdl'.
+[01:04:23	]Freudeka has spawned 'models/props_phx/misc/iron_beam3.mdl'.
+[01:04:23	]Freudeka entered observer.
+[01:04:24	]Freudeka exited observer at their location.
+[01:04:29	]Freudeka has fired a toolgun with the name: nocollideworld
+[01:04:37	]Old Man Lev exited observer at their location.
+[01:04:37	]Old Man Lev entered observer.
+[01:04:41	][IC] Old Man Lev: !tp Fre.
+[01:04:44	]Old Man Lev exited observer at their location.
+[01:04:44	]Freudeka entered observer.
+[01:04:50	]Old Man Lev ran SAM command 'goto' with arguments: 'Fre'
+[01:04:51	]Old Man Lev entered observer.
+[01:04:55	]Old Man Lev ran SAM command 'return' with arguments: '^'
+[01:04:59	]Old Man Lev ran SAM command 'goto' with arguments: 'Fre'
+[01:05:00	]Freudeka exited observer at their location.
+[01:05:01	]Freudeka entered observer.
+[01:05:01	]Freudeka exited observer at their location.
+[01:05:09	]Freudeka entered observer.
+[01:05:10	]Freudeka exited observer at their location.
+[01:05:11	]Freudeka entered observer.
+[01:05:12	]Old Man Lev ran SAM command 'return' with arguments: '^'
+[01:05:13	]Freudeka exited observer at their location.
+[01:05:13	]Freudeka entered observer.
+[01:05:14	]Freudeka exited observer at their location.
+[01:05:16	]Old Man Lev exited observer at their location.
+[01:05:18	]Old Man Lev ran SAM command 'return' with arguments: '^'
+[01:05:44	]Old Man Lev entered observer.
+[01:05:47	]Old Man Lev ran SAM command 'return' with arguments: '^'
+[01:06:01	]Old Man Lev exited observer at their location.
+[01:06:02	]Old Man Lev entered observer.
+[01:06:06	]Old Man Lev exited observer at their location.
+[01:06:08	]Old Man Lev ran SAM command 'goto' with arguments: 'Fre'
+[01:06:08	]Old Man Lev entered observer.
+[01:06:16	]Old Man Lev exited observer at their location.
+[01:06:18	]Old Man Lev ran SAM command 'return' with arguments: '^'
+[01:06:25	]Old Man Lev has warped from Default to Default.
+[01:06:32	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_floor_hatch/nuke_floor_hatch_flat_32.mdl'.
+[01:06:34	]Old Man Lev has warped from Default to Default.
+[01:06:34	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_floor_hatch/nuke_floor_hatch_flat_64.mdl'.
+[01:06:36	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_floor_hatch/nuke_floor_hatch_32.mdl'.
+[01:06:37	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_floor_hatch/nuke_floor_hatch_64.mdl'.
+[01:06:44	]Old Man Lev entered observer.
+[01:06:50	]Old Man Lev exited observer at their location.
+[01:06:50	]Old Man Lev has warped from Default to Default.
+[01:07:14	]Old Man Lev entered observer.
+[01:07:16	]Old Man Lev exited observer at their location.
+[01:07:16	]Old Man Lev has warped from Default to Default.
+[01:07:20	]Old Man Lev entered observer.
+[01:07:44	]Freudeka has spawned 'models/props/de_vostok/counter_generalstore.mdl'.
+[01:07:48	]Freudeka has spawned 'models/props_survival/counter/counter_a.mdl'.
+[01:08:05	]Old Man Lev has spawned a 'Entity [939][ix_smuggler]'.
+[01:08:08	]Old Man Lev has used a context menu option with the name: smuggler_edit
+[01:08:17	]Freudeka has spawned 'models/c24_interior/c24_int_kitchen_01.mdl'.
+[01:08:21	]Freudeka has spawned 'models/c24_interior/c24_int_kitchen_02.mdl'.
+[01:08:27	]Freudeka has spawned 'models/c24_interior/c24_int_kitchen_01.mdl'.
+[01:08:30	]Freudeka has spawned 'models/weapons/pedestal_music_kits.mdl'.
+[01:08:31	]Old Man Lev used command '/SmugglerForceRotate'.
+[01:08:34	]Old Man Lev exited observer at their location.
+[01:08:39	]Robert loaded the character 'Guido Schwarz'
+[01:08:46	]Guido Schwarz entered observer.
+[01:08:53	]Freudeka has spawned 'models/weapons/pedestal_music_kits.mdl'.
+[01:08:58	]Guido Schwarz used command '/CharEditBodygroup Guido'.
+[01:09:19	]Guido Schwarz has changed Guido Schwarz's bodygroups.
+[01:09:23	]Guido Schwarz exited observer at their location.
+[01:09:24	]Guido Schwarz used the 'John Doe' smuggler.
+[01:09:28	]Freudeka has spawned 'models/props/cs_office/cabinet_kitchen01.mdl'.
+[01:09:34	]Guido Schwarz used the 'John Doe' smuggler.
+[01:09:39	]Guido Schwarz bought a 'bandage' from the 'John Doe' smuggler for delivery to sewer_drop.
+[01:09:39	]Guido Schwarz has lost 14 chips.
+[01:09:45	]Guido Schwarz has used a context menu option with the name: remove
+[01:09:46	]Guido Schwarz entered observer.
+[01:09:52	]Freudeka has spawned 'models/props/cs_office/cabinet_sink01.mdl'.
+[01:10:00	]Freudeka has spawned 'models/props/cs_office/cabinet_overhead01.mdl'.
+[01:10:02	]Freudeka has spawned 'models/props/cs_office/cabinet_sink01.mdl'.
+[01:10:10	]Guido Schwarz exited observer at their location.
+[01:10:10	]Freudeka has fired a toolgun with the name: nocollideworld
+[01:10:17	]Guido Schwarz used command '/CreateLootContainerSpawn Basic'.
+[01:10:18	]Guido Schwarz entered observer.
+[01:10:29	]Guido Schwarz exited observer at their location.
+[01:10:30	]Guido Schwarz used command '/CreateLootContainerSpawn Basic'.
+[01:10:38	]Freudeka has spawned 'models/props_interiors/sink_kitchen.mdl'.
+[01:10:42	]Guido Schwarz entered observer.
+[01:10:47	]Freudeka has spawned 'models/props_interiors/sinkkitchen01a.mdl'.
+[01:10:51	]Freudeka has fired a toolgun with the name: nocollideworld
+[01:10:55	]Guido Schwarz exited observer at their location.
+[01:10:55	]Guido Schwarz entered observer.
+[01:10:56	]Guido Schwarz exited observer at their location.
+[01:11:03	]Guido Schwarz used command '/CreateLootContainerSpawn Military'.
+[01:11:04	]Freudeka entered observer.
+[01:11:11	]Freudeka exited observer at their location.
+[01:11:18	]Guido Schwarz entered observer.
+[01:11:21	]Freudeka entered observer.
+[01:11:22	]Freudeka exited observer at their location.
+[01:11:23	]Freudeka entered observer.
+[01:11:23	]Freudeka exited observer at their location.
+[01:11:24	]Freudeka entered observer.
+[01:11:28	]Freudeka exited observer at their location.
+[01:11:41	]Freudeka has used a context menu option with the name: remove
+[01:11:42	]Freudeka has used a context menu option with the name: remove
+[01:12:07	]Guido Schwarz exited observer at their location.
+[01:12:12	]Guido Schwarz entered observer.
+[01:12:14	]Freudeka has spawned 'models/props_farm/db_table1.mdl'.
+[01:12:19	]Freudeka has spawned 'models/props/cs_militia/table_kitchen.mdl'.
+[01:12:21	]Freudeka has spawned 'models/props/cs_militia/table_shed.mdl'.
+[01:12:27	]Freudeka has spawned 'models/props/de_inferno/tablecoffee_static.mdl'.
+[01:12:30	]Freudeka has spawned 'models/props_interiors/table_folding.mdl'.
+[01:12:34	]Freudeka has spawned 'models/props_c17/hospital_surgerytable01.mdl'.
+[01:12:51	]Freudeka has spawned 'models/pg_props/pg_hospital/pg_optable.mdl'.
+[01:12:55	]Guido Schwarz exited observer at their location.
+[01:12:57	]Guido Schwarz entered observer.
+[01:12:59	]Guido Schwarz exited observer at their location.
+[01:13:02	]Guido Schwarz entered observer.
+[01:13:12	]Guido Schwarz exited observer at their location.
+[01:13:15	]Guido Schwarz has spawned a 'Entity [1419][ix_pickupcache]'.
+[01:13:27	]Guido Schwarz has used a context menu option with the name: pickup_id
+[01:13:37	]Guido Schwarz has used a context menu option with the name: pickup_location
+[01:13:44	]Guido Schwarz has used a context menu option with the name: pickup_name
+[01:13:45	]Freudeka entered observer.
+[01:13:47	]Freudeka exited observer at their location.
+[01:13:57	]Guido Schwarz entered observer.
+[01:14:05	]Freudeka has spawned 'models/de_alleyway/tanker_drawing_table.mdl'.
+[01:14:16	]Freudeka has spawned 'models/props/coop_cementplant/coop_inflatable_boat/coop_inflatable_boat.mdl'.
+[01:14:20	]Guido Schwarz exited observer at their location.
+[01:14:23	]Freudeka entered observer.
+[01:14:24	]Guido Schwarz has spawned a 'Entity [1383][ix_pickupcache]'.
+[01:14:25	]Freudeka exited observer at their location.
+[01:14:36	]Guido Schwarz has used a context menu option with the name: pickup_id
+[01:14:43	]Guido Schwarz has used a context menu option with the name: pickup_location
+[01:14:48	]Freudeka has fired a toolgun with the name: nocollideworld
+[01:14:50	]Guido Schwarz has used a context menu option with the name: pickup_name
+[01:14:51	]Freudeka entered observer.
+[01:14:54	]Guido Schwarz entered observer.
+[01:15:04	]Freudeka exited observer at their location.
+[01:15:07	]Guido Schwarz exited observer at their location.
+[01:15:11	]Guido Schwarz entered observer.
+[01:15:22	]Guido Schwarz exited observer at their location.
+[01:15:23	]Guido Schwarz has spawned a 'Entity [1360][ix_pickupcache]'.
+[01:15:28	]Freudeka has used a context menu option with the name: collision_on
+[01:15:32	]Freudeka entered observer.
+[01:15:33	]Freudeka exited observer at their location.
+[01:15:38	]Guido Schwarz has used a context menu option with the name: pickup_id
+[01:15:43	]Guido Schwarz has used a context menu option with the name: pickup_location
+[01:15:55	]Freudeka entered observer.
+[01:15:55	]Freudeka exited observer at their location.
+[01:15:56	]Guido Schwarz has used a context menu option with the name: pickup_name
+[01:15:59	]Guido Schwarz entered observer.
+[01:16:08	]Freudeka used command '/ActInjured 2'.
+[01:16:34	]Freudeka entered observer.
+[01:16:35	]Freudeka exited observer at their location.
+[01:16:36	]Freudeka entered observer.
+[01:16:37	]Freudeka exited observer at their location.
+[01:16:38	]Freudeka entered observer.
+[01:16:39	]Freudeka exited observer at their location.
+[01:16:56	]Freudeka has spawned 'models/props_am/lab2windowframe.mdl'.
+[01:17:00	]Freudeka has spawned 'models/props_am/lab3frame.mdl'.
+[01:17:13	]Freudeka has spawned 'models/props_lab/crematorcase.mdl'.
+[01:17:30	]Freudeka has used a context menu option with the name: remove
+[01:17:36	]Freudeka has used a context menu option with the name: skin
+[01:17:59	]Freudeka has spawned 'models/props_c17/hospital_surgerylight01.mdl'.
+[01:18:18	]Freudeka has spawned 'models/props_unique/hospital/surgery_lamp.mdl'.
+[01:18:36	]Freudeka has fired a toolgun with the name: nocollideworld
+[01:18:39	]Freudeka has fired a toolgun with the name: nocollideworld
+[01:18:43	]Freudeka entered observer.
+[01:18:58	]Guido Schwarz used command '/ShowEdicts'.
+[01:19:05	]Freudeka exited observer at their location.
+[01:19:20	]Freudeka entered observer.
+[01:19:21	]Freudeka exited observer at their location.
+[01:19:38	]Freudeka has spawned 'models/props/coop_kashbah/sick_bed/instrument_table.mdl'.
+[01:19:48	]Guido Schwarz exited observer at their location.
+[01:19:57	]Guido Schwarz entered observer.
+[01:20:00	]Guido Schwarz exited observer at their location.
+[01:20:00	]Freudeka has spawned 'models/props_combine/combine_intmonitor003.mdl'.
+[01:20:04	]Guido Schwarz entered observer.
+[01:20:09	]Freudeka has fired a toolgun with the name: nocollideworld
+[01:20:14	]Freudeka entered observer.
+[01:20:17	]Freudeka exited observer at their location.
+[01:20:18	]Freudeka entered observer.
+[01:20:27	]Freudeka has used a context menu option with the name: remove
+[01:20:33	]Freudeka has spawned 'models/props_combine/combine_interface002.mdl'.
+[01:20:36	]Freudeka exited observer at their location.
+[01:20:38	]Freudeka entered observer.
+[01:20:38	]Freudeka exited observer at their location.
+[01:20:45	]Freudeka has fired a toolgun with the name: nocollideworld
+[01:20:46	]Freudeka has fired a toolgun with the name: nocollideworld
+[01:21:11	]Freudeka has fired a toolgun with the name: weld
+[01:21:11	]Freudeka has fired a toolgun with the name: weld
+[01:21:32	]Freudeka entered observer.
+[01:21:33	]Freudeka exited observer at their location.
+[01:21:33	]Freudeka entered observer.
+[01:21:39	]Freudeka exited observer at their location.
+[01:21:58	]Freudeka entered observer.
+[01:21:59	]Freudeka exited observer at their location.
+[01:21:59	]Freudeka entered observer.
+[01:22:11	]Freudeka exited observer at their location.
+[01:22:13	]Guido Schwarz exited observer at their location.
+[01:22:14	]Freudeka has used a context menu option with the name: remove
+[01:22:16	]Guido Schwarz entered observer.
+[01:22:17	]Guido Schwarz exited observer at their location.
+[01:22:18	]Guido Schwarz entered observer.
+[01:22:20	]Freudeka has spawned 'models/props_combine/combine_intmonitor003.mdl'.
+[01:22:25	]Freudeka has fired a toolgun with the name: nocollideworld
+[01:22:39	]Freudeka entered observer.
+[01:22:42	]Freudeka exited observer at their location.
+[01:22:42	]Freudeka entered observer.
+[01:23:00	]Freudeka exited observer at their location.
+[01:23:12	]Freudeka entered observer.
+[01:23:13	]Freudeka exited observer at their location.
+[01:23:14	]Freudeka entered observer.
+[01:23:16	]Freudeka exited observer at their location.
+[01:23:52	]Freudeka has spawned 'models/props_combine/combine_mortar01b.mdl'.
+[01:24:02	]Freudeka has spawned 'models/props_combine/combine_core_ring01.mdl'.
+[01:24:09	]Freudeka has spawned 'models/combine_turrets/ground_turret.mdl'.
+[01:24:11	]Guido Schwarz exited observer at their location.
+[01:24:13	]Guido Schwarz entered observer.
+[01:24:23	]Guido Schwarz exited observer at their location.
+[01:24:23	]Freudeka has spawned 'models/combine_camera/combine_camera.mdl'.
+[01:24:27	]Freudeka has spawned 'models/combine_turrets/ceiling_turret.mdl'.
+[01:24:32	]Freudeka has spawned 'models/props_combine/combine_smallmonitor001.mdl'.
+[01:24:33	]Guido Schwarz entered observer.
+[01:24:48	]Freudeka has used a context menu option with the name: remove
+[01:24:50	]Guido Schwarz exited observer at their location.
+[01:24:58	]Guido Schwarz entered observer.
+[01:25:17	]Guido Schwarz exited observer at their location.
+[01:25:18	]Freudeka entered observer.
+[01:25:21	]Guido Schwarz entered observer.
+[01:25:23	]Freudeka exited observer at their location.
+[01:25:43	]Guido Schwarz exited observer at their location.
+[01:25:46	]Freudeka has used a context menu option with the name: skin
+[01:25:47	]Freudeka has used a context menu option with the name: skin
+[01:25:48	]Guido Schwarz entered observer.
+[01:26:11	]Guido Schwarz exited observer at their location.
+[01:26:16	]Guido Schwarz entered observer.
+[01:26:18	]Freudeka entered observer.
+[01:26:18	]Freudeka exited observer at their location.
+[01:26:43	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/wires_001/wires_001b_frame.mdl'.
+[01:26:50	]Freudeka has spawned 'models/props/de_tides/woodframe_miscc.mdl'.
+[01:27:02	]Freudeka has spawned 'models/props_i17/craneplat.mdl'.
+[01:27:06	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_industrial_props/nuke_industrial_core_crane_001.mdl'.
+[01:27:08	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_industrial_props/nuke_industrial_upper_crane_001a.mdl'.
+[01:27:11	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_signs/nuke_sign_craneaccess.mdl'.
+[01:27:14	]Freudeka has spawned 'models/props_i17/ship/crane_base.mdl'.
+[01:27:16	]Freudeka has spawned 'models/props_i17/ship/crane_claw.mdl'.
+[01:27:20	]Freudeka entered observer.
+[01:27:23	]Freudeka has spawned 'models/props_i17/ship/crane_claw.mdl'.
+[01:27:28	]Freudeka exited observer at their location.
+[01:27:32	]Guido Schwarz exited observer at their location.
+[01:27:33	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_cargo_crane/nuke_cargo_crane_cart_ladder.mdl'.
+[01:27:34	]Freudeka entered observer.
+[01:27:36	]Freudeka exited observer at their location.
+[01:27:39	]Freudeka has spawned 'models/props/de_nuke/hr_nuke/nuke_cargo_crane/nuke_cargo_crane_winch.mdl'.
+[01:27:52	]Guido Schwarz entered observer.
+[01:27:53	]Freudeka has spawned 'models/props/de_nuke/craneb.mdl'.
+[01:28:00	]Freudeka entered observer.
+[01:28:04	]Freudeka exited observer at their location.
+[01:28:05	]Freudeka entered observer.
+[01:28:05	]Freudeka exited observer at their location.
+[01:28:08	]Freudeka has spawned 'models/gantry_crane/crane_pulleys.mdl'.
+[01:28:10	]Freudeka entered observer.
+[01:28:10	]Freudeka exited observer at their location.
+[01:28:13	]Freudeka has spawned 'models/gantry_crane/crane_pulleys.mdl'.
+[01:28:15	]Freudeka entered observer.
+[01:28:17	]Freudeka exited observer at their location.
+[01:28:23	]Freudeka has spawned 'models/props/dust_massive/barge/crane_arm.mdl'.
+[01:28:47	]Freudeka has spawned 'models/props_combine/combinecrane002.mdl'.
+[01:29:00	]Freudeka has spawned 'models/props/de_train/hr_t/crane_a/crane_a_lift.mdl'.
+[01:29:39	]Guido Schwarz exited observer at their location.
+[01:29:41	]Guido Schwarz entered observer.
+[01:29:48	]Guido Schwarz exited observer at their location.
+[01:29:55	]Guido Schwarz entered observer.
+[01:32:07	]Guido Schwarz exited observer at their location.
+[01:32:32	]Guido Schwarz entered observer.
+[01:32:41	]Guido Schwarz exited observer at their location.
+[01:32:47	]Guido Schwarz entered observer.
+[01:33:16	]Guido Schwarz has spawned 'models/cliffs/rocks_small01.mdl'.
+[01:33:19	]Guido Schwarz has spawned 'models/props_foliage/rock_coast02c.mdl'.
+[01:33:25	]Guido Schwarz has spawned 'models/props/ar_lunacy/moon_rocks/moon_cliff_half.mdl'.
+[01:33:29	]Guido Schwarz has spawned 'models/props/dust_massive/rocks/cliff_rock004.mdl'.
+[01:33:32	]Guido Schwarz has spawned 'models/props/dust_massive/rocks/cliff_wall007.mdl'.
+[01:33:38	]Guido Schwarz has spawned 'models/props/de_aztec/hr_aztec/aztec_walls/aztec_wall_stone_04_loose_rock_05.mdl'.
+[01:33:42	]Guido Schwarz has spawned 'models/props/de_aztec/hr_aztec/aztec_walls/aztec_wall_stone_04_loose_rock_08.mdl'.
+[01:33:43	]Guido Schwarz has spawned 'models/props/de_aztec/hr_aztec/aztec_walls/aztec_wall_stone_04_loose_rock_13.mdl'.
+[01:33:45	]Guido Schwarz has spawned 'models/props/de_aztec/hr_aztec/aztec_walls/hr_aztec_ground_paver_01_rock_04.mdl'.
+[01:33:47	]Guido Schwarz has spawned 'models/props/de_aztec/hr_aztec/aztec_walls/aztec_ground_rock_01_rock_04.mdl'.
+[01:33:51	]Guido Schwarz has spawned 'models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_rock_wall_high_corner_in_01.mdl'.
+[01:33:56	]Guido Schwarz has spawned 'models/props/de_aztec/hr_aztec/aztec_stairs/aztec_river_rock_walkover_01.mdl'.
+[01:34:02	]Freudeka has spawned 'models/props/de_nuke/equipment3a.mdl'.
+[01:34:02	]Guido Schwarz has fired a toolgun with the name: nocollideworld
+[01:34:05	]Freudeka has spawned 'models/props/de_nuke/equipment3b.mdl'.
+[01:34:07	]Freudeka has spawned 'models/props/de_nuke/equipment2.mdl'.
+[01:34:23	]Guido Schwarz exited observer at their location.
+[01:34:33	]Freudeka has used a context menu option with the name: remove
+[01:34:41	]Guido Schwarz entered observer.
+[01:34:59	]Freudeka has enabled persistence for 'models/props/de_nuke/equipment2.mdl'.
+[01:34:59	]Freudeka has used a context menu option with the name: persist
+[01:35:07	]Freudeka entered observer.
+[01:35:10	]Freudeka exited observer at their location.
+[01:35:14	]Freudeka has used a context menu option with the name: skin
+[01:35:48	]Freudeka has enabled persistence for 'models/pg_props/pg_hospital/pg_optable.mdl'.
+[01:35:48	]Freudeka has used a context menu option with the name: persist
+[01:35:52	]Freudeka has enabled persistence for 'models/props_combine/combine_intmonitor003.mdl'.
+[01:35:52	]Freudeka has used a context menu option with the name: persist
+[01:35:53	]Freudeka has enabled persistence for 'models/props_combine/combine_interface002.mdl'.
+[01:35:53	]Freudeka has used a context menu option with the name: persist
+[01:35:53	]Guido Schwarz exited observer at their location.
+[01:35:55	]Freudeka has used a context menu option with the name: skin
+[01:35:57	]Freudeka has used a context menu option with the name: skin
+[01:35:59	]Guido Schwarz entered observer.
+[01:36:10	]Guido Schwarz has spawned a 'NPC [1362][npc_vj_overwatch_sniper_z]'.
+[01:36:34	]Guido Schwarz has spawned a 'NPC [1020][npc_vj_overwatch_soldier_z]'.
+[01:36:35	]Guido Schwarz has spawned a 'NPC [948][npc_vj_overwatch_soldier_z]'.
+[01:36:37	]Guido Schwarz has spawned a 'NPC [1077][npc_vj_overwatch_soldier_z]'.
+[01:36:42	]Guido Schwarz has used a context menu option with the name: remove
+[01:36:46	]Guido Schwarz has spawned a 'NPC [1408][npc_vj_overwatch_soldier_z]'.
+[01:36:52	]Guido Schwarz exited observer at their location.
+[01:36:53	]Guido Schwarz has taken 6 damage from worldspawn.
+[01:36:55	]Guido Schwarz has taken 6 damage from worldspawn.
+[01:36:55	]Guido Schwarz has taken 12 damage from Overwatch Soldier.
+[01:36:56	]Guido Schwarz has taken 24 damage from Overwatch Soldier.
+[01:36:58	]Guido Schwarz entered observer.
+[01:37:03	]Guido Schwarz exited observer at their location.
+[01:37:06	]Guido Schwarz entered observer.
+[01:37:13	]Guido Schwarz has spawned a 'NPC [951][npc_vj_overwatch_soldier_z]'.
+[01:37:17	]Guido Schwarz exited observer at their location.
+[01:37:19	]Guido Schwarz has taken 9 damage from worldspawn.
+[01:37:31	]Guido Schwarz has gained level 14 in the Speed skill.
+[01:37:51	]Guido Schwarz entered observer.
+[01:38:05	]Guido Schwarz has fired a toolgun with the name: creator
+[01:38:05	]Guido Schwarz has spawned a 'NPC [1546][npc_vj_overwatch_soldier_z]'.
+[01:38:05	]Guido Schwarz has fired a toolgun with the name: creator
+[01:38:05	]Guido Schwarz has spawned a 'NPC [949][npc_vj_overwatch_soldier_z]'.
+[01:38:05	]Guido Schwarz has fired a toolgun with the name: creator
+[01:38:05	]Guido Schwarz has spawned a 'NPC [1553][npc_vj_overwatch_soldier_z]'.
+[01:38:05	]Guido Schwarz has fired a toolgun with the name: creator
+[01:38:05	]Guido Schwarz has spawned a 'NPC [1078][npc_vj_overwatch_soldier_z]'.
+[01:38:05	]Guido Schwarz has fired a toolgun with the name: creator
+[01:38:05	]Guido Schwarz has spawned a 'NPC [1409][npc_vj_overwatch_soldier_z]'.
+[01:38:06	]Guido Schwarz has fired a toolgun with the name: creator
+[01:38:06	]Guido Schwarz has spawned a 'NPC [1557][npc_vj_overwatch_soldier_z]'.
+[01:38:06	]Guido Schwarz has fired a toolgun with the name: creator
+[01:38:06	]Guido Schwarz has spawned a 'NPC [1559][npc_vj_overwatch_soldier_z]'.
+[01:38:07	]Guido Schwarz has fired a toolgun with the name: creator
+[01:38:07	]Guido Schwarz has spawned a 'NPC [966][npc_vj_overwatch_soldier_z]'.
+[01:38:11	]Guido Schwarz exited observer at their location.
+[01:38:27	]Guido Schwarz has taken 10 damage from Overwatch Soldier.
+[01:38:28	]Guido Schwarz has taken 1 damage from Overwatch Soldier.
+[01:38:28	]Guido Schwarz has taken 1 damage from Overwatch Soldier.
+[01:38:29	]Guido Schwarz has taken 1 damage from Overwatch Soldier.
+[01:38:29	]Guido Schwarz has taken 5 damage from Overwatch Soldier.
+[01:38:29	]Guido Schwarz has taken 5 damage from Overwatch Soldier.
+[01:38:30	]Guido Schwarz has taken 5 damage from Overwatch Soldier.
+[01:38:30	]Guido Schwarz has taken 1 damage from Overwatch Soldier.
+[01:38:30	]Guido Schwarz has taken 5 damage from Overwatch Soldier.
+[01:38:31	]Guido Schwarz has taken 1 damage from Overwatch Soldier.
+[01:38:32	]Guido Schwarz has taken 1 damage from Overwatch Soldier.
+[01:38:32	]Guido Schwarz has taken 5 damage from Overwatch Soldier.
+[01:38:32	]Guido Schwarz has taken 1 damage from Overwatch Soldier.
+[01:38:33	]Guido Schwarz has taken 5 damage from Overwatch Soldier.
+[01:38:34	]Guido Schwarz has taken 1 damage from Overwatch Soldier.
+[01:38:35	][IC] Guido Schwarz: Gay.
+[01:38:37	]Guido Schwarz has taken 5 damage from Overwatch Soldier.
+[01:38:37	]Guido Schwarz has taken 1 damage from Overwatch Soldier.
+[01:38:39	]Guido Schwarz has taken 5 damage from Overwatch Soldier.
+[01:38:39	]Guido Schwarz has taken 5 damage from Overwatch Soldier.
+[01:38:40	]Guido Schwarz entered observer.
+[01:39:29	]Guido Schwarz ran SAM command 'hp' with arguments: '^' '100'
+[01:39:29	]Guido Schwarz is fully healed.
+[01:39:50	]Guido Schwarz has spawned a 'NPC [1409][npc_vj_overwatch_sniper_z]'.
+[01:39:53	]Guido Schwarz exited observer at their location.
+[01:39:55	]Guido Schwarz has taken 6 damage from worldspawn.
+[01:40:41	]Guido Schwarz entered observer.
+[01:40:48	]Guido Schwarz has spawned a 'NPC [1437][npc_vj_overwatch_sniper_z]'.
+[01:40:50	]Guido Schwarz exited observer at their location.
+[01:40:52	]Guido Schwarz has taken 15 damage from Overwatch Sniper.
+[01:41:04	]Guido Schwarz has taken 15 damage from Overwatch Sniper.
+[01:41:07	]Guido Schwarz entered observer.
+[01:41:15	]Freudeka has gone afk.
+[01:41:17	]Guido Schwarz ran SAM command 'hp' with arguments: '^' '100'
+[01:41:19	]Guido Schwarz is fully healed.
+[01:41:48	]Guido Schwarz exited observer at their location.
+[01:41:53	]Guido Schwarz has taken 6 damage from worldspawn.
+[01:41:55	]Guido Schwarz has taken 6 damage from worldspawn.
+[01:41:57	]Guido Schwarz has taken 6 damage from worldspawn.
+[01:41:59	]Guido Schwarz has taken 6 damage from worldspawn.
+[01:42:01	]Guido Schwarz has taken 6 damage from worldspawn.
+[01:42:03	]Guido Schwarz has taken 6 damage from worldspawn.
+[01:42:05	]Guido Schwarz has taken 6 damage from worldspawn.
+[01:42:07	]Guido Schwarz has taken 6 damage from worldspawn.
+[01:42:25	]Guido Schwarz entered observer.
+[01:42:40	]Freudeka is fully healed.
+[01:42:52	]Guido Schwarz exited observer at their location.
+[01:42:53	]Guido Schwarz has taken 6 damage from worldspawn.
+[01:42:55	]Guido Schwarz has taken 6 damage from worldspawn.
+[01:43:01	]Guido Schwarz ran SAM command 'hp' with arguments: '^' '100'
+[01:43:04	]Guido Schwarz is fully healed.
+[01:43:11	]Guido Schwarz entered observer.
+[01:46:25	]Freudeka is no longer afk. Total time spent AFK: 605
+[01:46:31	]Freudeka entered observer.
+[01:46:32	]Freudeka exited observer at their location.
+[01:46:38	]Freudeka has spawned 'models/props/coop_autumn/autumn_equipment/mine_equipment.mdl'.
+[01:46:39	]Freudeka entered observer.
+[01:46:40	]Freudeka exited observer at their location.
+[01:46:51	]Guido Schwarz exited observer at their location.
+[01:46:56	]Guido Schwarz entered observer.
+[01:46:59	]Freudeka has spawned 'models/props_equipment/light_floodlight.mdl'.
+[01:47:03	]Guido Schwarz exited observer at their location.
+[01:47:08	]Freudeka entered observer.
+[01:47:09	]Freudeka exited observer at their location.
+[01:47:12	]Freudeka has spawned 'models/props/coop_autumn/autumn_equipment/mine_equipment.mdl'.
+[01:47:16	]Freudeka has spawned 'models/props/coop_autumn/autumn_equipment/mine_equipment.mdl'.
+[01:47:27	]Freudeka has spawned 'models/props_equipment/light_floodlight.mdl'.
+[01:47:38	]Freudeka has spawned 'models/props_equipment/light_floodlight.mdl'.
+[01:47:44	]Guido Schwarz entered observer.
+[01:47:54	]Freudeka has used a context menu option with the name: skin
+[01:47:57	]Freudeka has used a context menu option with the name: skin
+[01:48:01	]Guido Schwarz exited observer at their location.
+[01:48:10	]Guido Schwarz entered observer.
+[01:48:12	]Freudeka entered observer.
+[01:48:13	]Freudeka exited observer at their location.
+[01:48:15	]Freudeka has used a context menu option with the name: remove
+[01:48:16	]Freudeka entered observer.
+[01:48:17	]Freudeka exited observer at their location.
+[01:48:56	]Guido Schwarz exited observer at their location.
+[01:48:59	]Guido Schwarz entered observer.
+[01:49:20	]Guido Schwarz exited observer at their location.
+[01:49:25	]Guido Schwarz entered observer.
+[01:49:27	]Guido Schwarz exited observer at their location.
+[01:49:27	]Freudeka entered observer.
+[01:49:32	]Freudeka exited observer at their location.
+[01:49:38	]Guido Schwarz entered observer.
+[01:50:55	]Guido Schwarz exited observer at their location.
+[01:51:47	]Guido Schwarz entered observer.
+[01:51:49	]Guido Schwarz exited observer at their location.
+[01:52:08	]Guido Schwarz entered observer.
+[01:52:12	]Guido Schwarz exited observer at their location.
+[01:52:30	]Guido Schwarz entered observer.
+[01:52:47	]Guido Schwarz exited observer at their location.
+[01:52:49	]Guido Schwarz entered observer.
+[01:52:53	]Guido Schwarz picked up a 'bandage' from 'sewer_drop.
+[01:52:53	]Guido Schwarz has gained a 'Bandage Roll' #2046505.
+[01:53:09	]Guido Schwarz exited observer at their location.
+[01:53:16	]Guido Schwarz entered observer.
+[01:54:16	]Guido Schwarz exited observer at their location.
+[01:54:36	]Guido Schwarz entered observer.
+[01:54:45	]Guido Schwarz exited observer at their location.
+[01:54:55	]Freudeka has gone afk.
+[01:54:55	]Guido Schwarz entered observer.
+[01:55:14	]Guido Schwarz exited observer at their location.
+[01:56:41	]Guido Schwarz entered observer.
+[01:56:42	]Guido Schwarz exited observer at their location.
+[01:56:51	]Guido Schwarz entered observer.
+[01:57:17	]Guido Schwarz exited observer at their location.
+[01:57:46	]Guido Schwarz entered observer.
+[01:59:46	]Guido Schwarz exited observer at their location.
+[01:59:56	]Guido Schwarz entered observer.
+[02:01:36	]Guido Schwarz exited observer at their location.
+[02:01:39	]Guido Schwarz entered observer.
+[02:01:41	]Guido Schwarz exited observer at their location.
+[02:01:47	]Guido Schwarz entered observer.
+[02:01:48	]Guido Schwarz exited observer at their location.
+[02:01:49	]Guido Schwarz entered observer.
+[02:02:25	]Guido Schwarz exited observer at their location.
+[02:03:18	]Guido Schwarz has used a context menu option with the name: pickup_name
+[02:03:41	]Guido Schwarz entered observer.
+[02:04:35	]Freudeka is no longer afk. Total time spent AFK: 875
+[02:04:38	]Freudeka has enabled persistence for 'models/props_pipes/valve003.mdl'.
+[02:04:38	]Freudeka has used a context menu option with the name: persist
+[02:04:41	]Freudeka has enabled persistence for 'models/props/de_nuke/hr_nuke/airduct_hvac_001/airduct_hvac_002b_endcap_flat.mdl'.
+[02:04:41	]Freudeka has used a context menu option with the name: persist
+[02:04:42	]Freudeka has enabled persistence for 'models/props/de_nuke/hr_nuke/nuke_fire_extinguisher/nuke_fire_extinguisher.mdl'.
+[02:04:42	]Freudeka has used a context menu option with the name: persist
+[02:04:44	]Freudeka has enabled persistence for 'models/props/de_nuke/hr_nuke/nuke_fire_extinguisher/nuke_fire_extinguisher.mdl'.
+[02:04:44	]Freudeka has used a context menu option with the name: persist
+[02:04:45	]Freudeka has enabled persistence for 'models/props/de_nuke/hr_nuke/sprinkler_001/sprinkler_001.mdl'.
+[02:04:45	]Freudeka has used a context menu option with the name: persist
+[02:04:46	]Freudeka has enabled persistence for 'models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001_corner_large.mdl'.
+[02:04:46	]Freudeka has used a context menu option with the name: persist
+[02:04:47	]Freudeka has enabled persistence for 'models/hunter/plates/plate7x16.mdl'.
+[02:04:47	]Freudeka has used a context menu option with the name: persist
+[02:04:55	]Freudeka entered observer.
+[02:04:56	]Freudeka exited observer at their location.
+[02:04:56	]Freudeka entered observer.
+[02:04:57	]Freudeka exited observer at their location.
+[02:04:59	]Freudeka has enabled persistence for 'models/props_pipes/valve003.mdl'.
+[02:04:59	]Freudeka has used a context menu option with the name: persist
+[02:05:01	]Freudeka has enabled persistence for 'models/props/de_nuke/hr_nuke/sprinkler_001/sprinkler_001.mdl'.
+[02:05:01	]Freudeka has used a context menu option with the name: persist
+[02:05:01	]Guido Schwarz exited observer at their location.
+[02:05:02	]Freudeka has enabled persistence for 'models/props/de_nuke/hr_nuke/metal_pipe_001/metal_pipe_001_corner_large.mdl'.
+[02:05:02	]Freudeka has used a context menu option with the name: persist
+[02:05:03	]Freudeka has enabled persistence for 'models/props/de_nuke/hr_nuke/nuke_fire_extinguisher/nuke_fire_extinguisher.mdl'.
+[02:05:03	]Freudeka has used a context menu option with the name: persist
+[02:05:04	]Freudeka has enabled persistence for 'models/props/de_nuke/hr_nuke/nuke_fire_extinguisher/nuke_fire_extinguisher.mdl'.
+[02:05:04	]Freudeka has used a context menu option with the name: persist
+[02:05:05	]Freudeka entered observer.
+[02:05:06	]Freudeka exited observer at their location.
+[02:05:06	]Guido Schwarz entered observer.
+[02:05:10	]Freudeka has enabled persistence for 'models/props_equipment/light_floodlight.mdl'.
+[02:05:10	]Freudeka has used a context menu option with the name: persist
+[02:05:14	]Freudeka has enabled persistence for 'models/props/coop_autumn/autumn_equipment/mine_equipment.mdl'.
+[02:05:14	]Freudeka has used a context menu option with the name: persist
+[02:05:16	]Freudeka has enabled persistence for 'models/props_equipment/light_floodlight.mdl'.
+[02:05:16	]Freudeka has used a context menu option with the name: persist
+[02:05:16	]Freudeka entered observer.
+[02:05:22	]Freudeka exited observer at their location.
+[02:05:32	]Freudeka has enabled persistence for 'models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_office_binder.mdl'.
+[02:05:32	]Freudeka has used a context menu option with the name: persist
+[02:05:35	]Freudeka (STEAM_0:1:59565902) has disconnected.
+[02:05:41	]Guido Schwarz exited observer at their location.
+[02:06:51	]Guido Schwarz entered observer.
+[02:07:31	]Guido Schwarz exited observer at their location.
+[02:07:37	]Guido Schwarz entered observer.
+[02:08:05	]Guido Schwarz exited observer at their location.
+[02:08:11	]Guido Schwarz entered observer.
+[02:08:24	]Guido Schwarz exited observer at their location.
+[02:08:25	]Guido Schwarz entered observer.
+[02:08:50	]Guido Schwarz exited observer at their location.
+[02:09:47	]Guido Schwarz entered observer.
+[02:09:52	]Guido Schwarz has used a context menu option with the name: remove
+[02:10:05	]Guido Schwarz has used a context menu option with the name: remove
+[02:10:08	]Guido Schwarz has used a context menu option with the name: remove
+[02:10:10	]Guido Schwarz has used a context menu option with the name: remove
+[02:10:17	]Guido Schwarz has used a context menu option with the name: remove
+[02:10:21	]Guido Schwarz has used a context menu option with the name: remove
+[02:10:25	]Guido Schwarz has used a context menu option with the name: remove
+[02:10:27	]Guido Schwarz has used a context menu option with the name: remove
+[02:10:34	]Guido Schwarz has used a context menu option with the name: remove
+[02:10:36	]Guido Schwarz has used a context menu option with the name: remove
+[02:10:45	]Guido Schwarz has used a context menu option with the name: remove
+[02:10:47	]Guido Schwarz has used a context menu option with the name: remove
+[02:14:47	]Guido Schwarz exited observer at their location.
+[02:15:01	]Guido Schwarz has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[02:15:08	]Guido Schwarz has spawned a usable entity class 'ix_couch' with model 'models/props_c17/furniturecouch001a.mdl'.
+[02:15:08	]Guido Schwarz has used a context menu option with the name: ixusableentitycreate
+[02:16:15	]Guido Schwarz has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[02:16:20	]Guido Schwarz has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[02:16:26	]Guido Schwarz has spawned 'models/props_wasteland/controlroom_filecabinet002a.mdl'.
+[02:16:31	]Guido Schwarz has spawned 'models/props_junk/wood_crate002a.mdl'.
+[02:16:50	]Guido Schwarz created a 'Large Metal Cabinet' container.
+[02:16:50	]Guido Schwarz has used a context menu option with the name: wncontainer_create
+[02:16:54	]Guido Schwarz created a 'Large Metal Cabinet' container.
+[02:16:54	]Guido Schwarz has used a context menu option with the name: wncontainer_create
+[02:16:55	]Guido Schwarz created a 'Medium File Cabinet' container.
+[02:16:55	]Guido Schwarz has used a context menu option with the name: wncontainer_create
+[02:16:56	]Guido Schwarz created a 'Large Crate' container.
+[02:16:56	]Guido Schwarz has used a context menu option with the name: wncontainer_create
+[02:17:12	]Guido Schwarz has used a context menu option with the name: door_lockunlock
+[02:17:55	]Guido Schwarz has spawned 'models/props_phx/construct/windows/window2x4.mdl'.
+[02:17:57	]Guido Schwarz has spawned 'models/props_phx/construct/windows/window2x2.mdl'.
+[02:18:20	]Guido Schwarz has spawned 'models/hunter/plates/plate3x3.mdl'.
+[02:18:22	]Guido Schwarz entered observer.
+[02:18:33	]Guido Schwarz has spawned 'models/hunter/plates/plate4x5.mdl'.
+[02:18:40	]Guido Schwarz has fired a toolgun with the name: nocollideworld
+[02:19:10	]Guido Schwarz exited observer at their location.
+[02:19:34	]Guido Schwarz has fired a toolgun with the name: material
+[02:20:12	]Guido Schwarz has given himself a tool_toolkit.
+[02:20:12	]Guido Schwarz has gained a 'Toolkit' #2046506.
+[02:20:18	]Guido Schwarz has spawned a tool_oven_rusty.
+[02:20:25	]Guido Schwarz ran 'Bolt' on item 'Rusty Oven' (#2046507)
+[02:20:57	]Guido Schwarz entered observer.
+[02:20:58	]Guido Schwarz exited observer at their location.
+[02:21:01	]Guido Schwarz has spawned a tool_refinery.
+[02:21:15	]Guido Schwarz entered observer.
+[02:21:17	]Guido Schwarz exited observer at their location.
+[02:21:20	]Guido Schwarz ran 'Bolt' on item 'Refinery' (#2046508)
+[02:22:18	]Guido Schwarz entered observer.
+[02:22:19	]Guido Schwarz exited observer at their location.
+[02:22:36	]Guido Schwarz has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[02:22:48	]Guido Schwarz has enabled persistence for 'models/props_wasteland/controlroom_desk001b.mdl'.
+[02:22:48	]Guido Schwarz has used a context menu option with the name: persist
+[02:23:05	]Guido Schwarz entered observer.
+[02:23:07	]Guido Schwarz exited observer at their location.
+[02:23:19	]Guido Schwarz entered observer.
+[02:23:25	]Guido Schwarz exited observer at their location.
+[02:23:27	]Guido Schwarz entered observer.
+[02:23:52	]Guido Schwarz exited observer at their location.
+[02:23:57	]Guido Schwarz has warped from Default to Default.
+[02:24:20	]Guido Schwarz has warped from Default to Default.
+[02:24:24	]Guido Schwarz entered observer.
+[02:24:25	]Guido Schwarz exited observer at their location.
+[02:24:33	]Guido Schwarz has warped from Default to Default.
+[02:24:38	]Guido Schwarz has warped from Default to Default.
+[02:24:41	]Guido Schwarz entered observer.
+[02:24:43	]Guido Schwarz exited observer at their location.
+[02:24:55	]Guido Schwarz entered observer.
+[02:24:56	]Guido Schwarz exited observer at their location.
+[02:25:34	]Guido Schwarz has enabled persistence for 'models/hunter/plates/plate4x5.mdl'.
+[02:25:34	]Guido Schwarz has used a context menu option with the name: persist
+[02:25:56	]Guido Schwarz entered observer.
+[02:26:25	]Guido Schwarz exited observer at their location.
+[02:26:27	]Guido Schwarz entered observer.
+[02:26:50	]Guido Schwarz exited observer at their location.
+[02:30:26	]Guido Schwarz entered observer.
+[02:30:32	]Guido Schwarz exited observer at their location.
+[02:30:43	]Guido Schwarz entered observer.
+[02:30:45	]Guido Schwarz has spawned 'models/props_street/bus_stop.mdl'.
+[02:31:01	]Guido Schwarz exited observer at their location.
+[02:31:08	]Guido Schwarz entered observer.
+[02:31:14	]Guido Schwarz has spawned 'models/props_street/bus_stop.mdl'.
+[02:31:29	]Guido Schwarz exited observer at their location.
+[02:31:44	]Guido Schwarz has enabled persistence for 'models/props_street/bus_stop.mdl'.
+[02:31:44	]Guido Schwarz has used a context menu option with the name: persist
+[02:31:45	]Guido Schwarz has enabled persistence for 'models/props_street/bus_stop.mdl'.
+[02:31:45	]Guido Schwarz has used a context menu option with the name: persist
+[02:31:47	]Guido Schwarz entered observer.
+[02:31:49	]Guido Schwarz has spawned 'models/props_vehicles/bus01_2.mdl'.
+[02:31:52	]Guido Schwarz has spawned 'models/props_vehicles/bus01_2.mdl'.
+[02:31:54	]Guido Schwarz has spawned 'models/props_vehicles/bus01_2.mdl'.
+[02:32:07	]Guido Schwarz exited observer at their location.
+[02:32:13	]Guido Schwarz has enabled persistence for 'models/props_vehicles/bus01_2.mdl'.
+[02:32:13	]Guido Schwarz has used a context menu option with the name: persist
+[02:32:14	]Guido Schwarz entered observer.
+[02:32:50	]Guido Schwarz used command '/AreaEdit'.
+[02:33:41	]Guido Schwarz has added area "The Outlands".
+[02:34:05	]Guido Schwarz has enabled persistence for 'models/props/de_aztec/hr_aztec/aztec_stairs/aztec_river_rock_walkover_01.mdl'.
+[02:34:05	]Guido Schwarz has used a context menu option with the name: persist
+[02:34:46	]Guido Schwarz used command '/ShowEdicts'.
+[02:35:04	]Guido Schwarz exited observer at their location.
+[02:35:06	]Guido Schwarz entered observer.
+[02:35:08	]Guido Schwarz exited observer at their location.
+[02:35:14	]Robert (STEAM_0:1:36030793) has disconnected.
+[08:53:17	]Mango has connected.
+[09:14:41	]Mango (STEAM_0:0:544539350) has disconnected (timed out).
+[10:50:24	]Mango has connected.
+[10:51:18	]Mango loaded the character 'Alla'Bii'
+[10:51:18	]Alla'Bii their 'housing block stash' stash no longer exists, location reset.
+[10:51:23	]Alla'Bii is fully healed.
+[10:51:40	]Alla'Bii has spawned a 'Entity [1248][ix_workshiftterminal]'.
+[10:51:56	]Alla'Bii used command '/BecomeClass Worker'.
+[10:52:16	]Mango loaded the character 'Azh'Daal'
+[10:52:21	]Azh'Daal is fully healed.
+[10:52:43	]Azh'Daal used command '/PlyGiveFlag azh U'.
+[10:52:49	]Mango loaded the character 'Alla'Bii'
+[10:54:02	]Alla'Bii used command '/Datafile azh'.
+[10:54:22	]Alla'Bii used command '/Datafile Daal'.
+[10:54:38	]Mango loaded the character 'Azh'Daal'
+[10:54:54	]Azh'Daal ran 'drop' on item '#59439's Identity Card' (#1903973)
+[10:54:54	]Azh'Daal has lost a '#59439's Identity Card' #1903973.
+[10:55:01	]Azh'Daal used command '/CreateCid azh'.
+[10:55:01	]Azh'Daal has gained a '#59439's Identity Card' #2046509.
+[10:55:17	]Azh'Daal used command '/Datafile 59439'.
+[10:55:44	]Azh'Daal used command '/BecomeClass Worker'.
+[11:01:08	]Azh'Daal has gone afk.
+[11:12:05	]Mango has connected.
+[11:12:52	]Mango loaded the character 'Alla'Bii'
+[11:12:57	]Alla'Bii is fully healed.
+[11:13:04	]Mango loaded the character 'Azh'Daal'
+[11:13:09	]Azh'Daal is fully healed.
+[11:13:22	]Azh'Daal used command '/CharSetClass azh worker'.
+[11:13:56	]Azh'Daal has used a context menu option with the name: remove
+[11:13:59	]Mango (STEAM_0:0:544539350) has disconnected.
+[12:34:21	]Mango has connected.
+[12:35:24	]Mango loaded the character 'Azh'Daal'
+[12:35:29	]Azh'Daal is fully healed.
+[12:35:53	]Azh'Daal has spawned a 'Entity [273][ix_workshiftterminal]'.
+[12:36:03	]Azh'Daal used command '/CharSetClass azh worker'.
+[12:36:25	]Azh'Daal used command '/Datafile azh'daal'.
+[12:37:18	]Azh'Daal has given himself a pda_cwu.
+[12:37:18	]Azh'Daal has gained a 'CWU PDA' #2046510.
+[12:37:21	]Azh'Daal ran 'Open' on item 'CWU PDA' (#2046510)
+[12:37:39	]Azh'Daal has given himself a pda_cmu.
+[12:37:39	]Azh'Daal has gained a 'CMRU PDA' #2046511.
+[12:37:45	]Azh'Daal used command '/CharSetClass azh medical'.
+[12:37:45	]Robert has connected.
+[12:37:50	]Azh'Daal ran 'Open' on item 'CMRU PDA' (#2046511)
+[12:38:29	]Robert loaded the character 'Old Man Lev'
+[12:38:41	]Old Man Lev entered observer.
+[12:39:58	]Azh'Daal has used a context menu option with the name: remove
+[12:40:08	]Old Man Lev exited observer at their location.
+[12:40:11	]Old Man Lev entered observer.
+[12:40:12	]Old Man Lev exited observer at their location.
+[12:40:14	]Azh'Daal ran SAM command 'goto' with arguments: 'old'
+[12:40:15	]Old Man Lev entered observer.
+[12:40:17	][IC] Azh'Daal: Sir.
+[12:40:21	]Old Man Lev exited observer at their location.
+[12:40:22	][IC] Azh'Daal: Sir.
+[12:40:25	][IC] Azh'Daal: Salutations.
+[12:40:27	][IC] Old Man Lev: Meow.
+[12:40:33	][IC] Azh'Daal: I am Treasure, it is a pleasure.
+[12:40:40	][IC] Azh'Daal: I perform the rhyme, to make you proud.
+[12:40:43	][IC] Old Man Lev: Aaaaaaagh!
+[12:40:46	][IC] Azh'Daal: Cooking.
+[12:40:52	][IC] Old Man Lev: This is bullshit!
+[12:40:55	][IC] Azh'Daal: Yes.
+[12:40:58	][IC] Azh'Daal: Forward.
+[12:40:59	][IC] Azh'Daal: Onward!
+[12:41:01	][IC] Azh'Daal: There!
+[12:41:02	]Old Man Lev entered observer.
+[12:41:03	][IC] Azh'Daal: Here.
+[12:41:03	]Old Man Lev exited observer at their location.
+[12:41:05	]Azh'Daal entered observer.
+[12:41:06	]Azh'Daal exited observer at their location.
+[12:41:26	][IC] Azh'Daal: Lead on.
+[12:41:48	]Old Man Lev has spawned a 'Entity [1234][ix_terminal]'.
+[12:42:02	][IC] Azh'Daal: How is everything transferred to the main server?
+[12:42:06	][IC] Azh'Daal: As in props.
+[12:42:22	][IC] Azh'Daal: Or area map.
+[12:42:40	][IC] Old Man Lev: WE just copy the map DB table over and everything relating to the areas, etc etc + server file which saves prop locations, ents, etc.
+[12:42:48	][IC] Azh'Daal: Ooooooooooo.
+[12:42:50	][IC] Azh'Daal: Smarty.
+[12:43:06	][IC] Azh'Daal: Steven's House.
+[12:43:11	][IC] Old Man Lev: Yes.
+[12:43:11	][IC] Azh'Daal: Where.
+[12:43:15	]Old Man Lev entered observer.
+[12:43:21	]Old Man Lev used command '/AreaEdit'.
+[12:43:39	]Old Man Lev exited observer at their location.
+[12:43:46	]Azh'Daal entered observer.
+[12:43:48	][OOC] Old Man Lev: Steven
+[12:43:54	]Azh'Daal ran SAM command 'goto' with arguments: 'old'
+[12:43:55	]Azh'Daal exited observer at their location.
+[12:44:00	][Y] Azh'Daal: Steven beloved.
+[12:44:08	]Azh'Daal ran 'drop' on item 'Vortigaunt Sweater' (#1906599)
+[12:44:08	]Azh'Daal has lost a 'Vortigaunt Sweater' #1906599.
+[12:44:10	]Azh'Daal ran 'drop' on item 'Small Bag' (#1923885)
+[12:44:10	]Azh'Daal has lost a 'Small Bag' #1923885.
+[12:44:10	]Azh'Daal has lost a 'Vortigaunt Chef Hat' #1090906.
+[12:44:10	]Azh'Daal has lost a 'Vortigaunt Flat Cap' #1876348.
+[12:44:10	]Azh'Daal has lost a 'CWU Member Access Keycard' #1985313.
+[12:44:10	]Azh'Daal has lost a 'Vortigaunt Worker Uniform' #1985315.
+[12:44:10	]Azh'Daal has lost a 'CWU Radio' #1985312.
+[12:44:12	]Azh'Daal ran 'drop' on item 'Vortigaunt Construction Hat' (#1985316)
+[12:44:12	]Azh'Daal has lost a 'Vortigaunt Construction Hat' #1985316.
+[12:44:14	]Azh'Daal ran 'drop' on item 'Vortigaunt Collar' (#1878274)
+[12:44:18	]Azh'Daal ran 'take' on item 'Vortigaunt Sweater' (#1906599)
+[12:44:18	]Azh'Daal has gained a 'Vortigaunt Sweater' #1906599.
+[12:44:20	]Azh'Daal ran 'take' on item 'Small Bag' (#1923885)
+[12:44:20	]Azh'Daal has gained a 'Small Bag' #1923885.
+[12:44:20	]Azh'Daal has gained a 'Vortigaunt Chef Hat' #1090906.
+[12:44:20	]Azh'Daal has gained a 'Vortigaunt Flat Cap' #1876348.
+[12:44:20	]Azh'Daal has gained a 'CWU Member Access Keycard' #1985313.
+[12:44:20	]Azh'Daal has gained a 'Vortigaunt Worker Uniform' #1985315.
+[12:44:20	]Azh'Daal has gained a 'CWU Radio' #1985312.
+[12:44:21	]Azh'Daal ran 'take' on item 'Vortigaunt Construction Hat' (#1985316)
+[12:44:21	]Azh'Daal has gained a 'Vortigaunt Construction Hat' #1985316.
+[12:44:38	][IC] Azh'Daal: I want to press.
+[12:44:39	][IC] Azh'Daal: Buttons.
+[12:44:57	][IC] Old Man Lev: No escape.
+[12:45:00	][IC] Azh'Daal: Shit.
+[12:45:02	]Old Man Lev entered observer.
+[12:45:23	]Azh'Daal entered observer.
+[12:45:30	]Azh'Daal ran SAM command 'goto' with arguments: 'ol'
+[12:45:31	]Old Man Lev exited observer at their location.
+[12:45:32	]Azh'Daal exited observer at their location.
+[12:45:34	]Old Man Lev entered observer.
+[12:45:35	]Old Man Lev exited observer at their location.
+[12:45:45	]Old Man Lev has spawned a 'Entity [1236][ix_pickupterminal]'.
+[12:46:05	]Old Man Lev entered observer.
+[12:46:07	]Old Man Lev exited observer at their location.
+[12:46:10	]Old Man Lev entered observer.
+[12:46:11	]Old Man Lev exited observer at their location.
+[12:46:19	]Old Man Lev has spawned a 'Entity [1243][ix_terminal]'.
+[12:46:48	]Old Man Lev entered observer.
+[12:46:48	]Old Man Lev exited observer at their location.
+[12:46:53	]Old Man Lev entered observer.
+[12:46:54	]Old Man Lev exited observer at their location.
+[12:46:58	]Old Man Lev entered observer.
+[12:46:58	]Old Man Lev exited observer at their location.
+[12:47:04	]Old Man Lev entered observer.
+[12:47:05	]Old Man Lev exited observer at their location.
+[12:47:08	]Old Man Lev entered observer.
+[12:47:10	]Old Man Lev exited observer at their location.
+[12:47:14	]Old Man Lev has spawned a 'Entity [1359][ix_pickupterminal]'.
+[12:47:28	]Old Man Lev entered observer.
+[12:50:43	]Old Man Lev exited observer at their location.
+[12:50:46	]Old Man Lev entered observer.
+[12:50:56	]Old Man Lev exited observer at their location.
+[12:50:58	]Old Man Lev has spawned a 'Entity [1168][ix_pickupcache]'.
+[12:51:08	]Old Man Lev has used a context menu option with the name: pickup_id
+[12:51:12	]Old Man Lev has used a context menu option with the name: pickup_location
+[12:51:19	]Old Man Lev has used a context menu option with the name: pickup_name
+[12:51:20	]Old Man Lev entered observer.
+[12:51:24	]Azh'Daal has gone afk.
+[12:51:34	]Azh'Daal is no longer afk. Total time spent AFK: 305
+[12:51:40	]Azh'Daal ran SAM command 'give' with arguments: 'old' 'highfive'
+[12:51:56	]Azh'Daal entered observer.
+[12:52:07	]Azh'Daal ran SAM command 'give' with arguments: 'old' 'orange'
+[12:52:21	]Azh'Daal exited observer at their location.
+[13:01:34	]Azh'Daal has gone afk.
+[13:05:57	]Old Man Lev exited observer at their location.
+[13:06:00	]Old Man Lev has spawned a 'Entity [1405][ix_pickupterminal]'.
+[13:06:05	]Old Man Lev has spawned a 'Entity [1227][ix_pickupcache]'.
+[13:06:18	]Old Man Lev has used a context menu option with the name: pickup_id
+[13:06:24	]Old Man Lev has used a context menu option with the name: pickup_location
+[13:06:30	]Old Man Lev has used a context menu option with the name: pickup_name
+[13:06:34	]Old Man Lev entered observer.
+[13:06:54	]Azh'Daal is no longer afk. Total time spent AFK: 615
+[13:06:56	][OOC] Azh'Daal: I go do the test
+[13:06:58	]Mango (STEAM_0:0:544539350) has disconnected.
+[13:13:57	]Old Man Lev exited observer at their location.
+[13:14:05	]Old Man Lev entered observer.
+[13:14:16	]Old Man Lev exited observer at their location.
+[13:14:19	]Old Man Lev entered observer.
+[13:14:36	]Old Man Lev exited observer at their location.
+[13:14:49	]Old Man Lev used command '/CreateLootContainerSpawn Basic'.
+[13:14:51	]Old Man Lev entered observer.
+[13:15:00	]Old Man Lev exited observer at their location.
+[13:15:05	]Old Man Lev used command '/CreateLootContainerSpawn Basic'.
+[13:15:06	]Old Man Lev entered observer.
+[13:15:47	]Old Man Lev exited observer at their location.
+[13:16:22	]Old Man Lev has spawned 'models/props_office/desk_01.mdl'.
+[13:17:14	]Old Man Lev has enabled persistence for 'models/props_office/desk_01.mdl'.
+[13:17:14	]Old Man Lev has used a context menu option with the name: persist
+[13:17:23	]Old Man Lev has spawned 'models/props/de_dust/dust_aid_crate_56.mdl'.
+[13:17:34	]Old Man Lev has enabled persistence for 'models/props/de_dust/dust_aid_crate_56.mdl'.
+[13:17:34	]Old Man Lev has used a context menu option with the name: persist
+[13:17:36	]Old Man Lev has spawned 'models/props/de_dust/dust_aid_crate_74.mdl'.
+[13:17:45	]Old Man Lev has enabled persistence for 'models/props/de_dust/dust_aid_crate_74.mdl'.
+[13:17:45	]Old Man Lev has used a context menu option with the name: persist
+[13:17:53	]Old Man Lev entered observer.
+[13:18:25	]Old Man Lev exited observer at their location.
+[13:18:36	]Old Man Lev has given himself a notepad.
+[13:18:36	]Old Man Lev has gained a 'Notepad' #2046512.
+[13:18:38	]Old Man Lev ran 'Write' on item 'Notepad' (#2046512)
+[13:18:43	]Old Man Lev ran 'Write' on item 'Notepad' (#2046512)
+[13:18:59	]Old Man Lev has given himself a pin.
+[13:18:59	]Old Man Lev has gained a 'Pin' #2046513.
+[13:19:04	]Old Man Lev entered observer.
+[13:19:26	]Old Man Lev exited observer at their location.
+[13:19:28	]Old Man Lev ran 'drop' on item 'Cooking pot' (#2046493)
+[13:19:28	]Old Man Lev has lost a 'Cooking pot' #2046493.
+[13:19:30	]Old Man Lev has used a context menu option with the name: remove
+[13:19:32	]Old Man Lev entered observer.
+[13:19:33	]Old Man Lev exited observer at their location.
+[13:19:35	]Old Man Lev entered observer.
+[13:19:37	]Old Man Lev exited observer at their location.
+[13:19:39	]Old Man Lev ran 'drop' on item 'Notepad' (#2046512)
+[13:19:39	]Old Man Lev has lost a 'Notepad' #2046512.
+[13:19:46	]Old Man Lev ran 'Write' on item 'Notepad' (#2046512)
+[13:21:40	]Old Man Lev has used a context menu option with the name: remove
+[13:21:42	]Old Man Lev ran 'drop' on item 'Pin' (#2046513)
+[13:21:42	]Old Man Lev has lost a 'Pin' #2046513.
+[13:21:44	]Old Man Lev has used a context menu option with the name: remove
+[13:21:55	]Old Man Lev entered observer.
+[13:22:10	]Old Man Lev exited observer at their location.
+[13:22:16	]Old Man Lev has spawned 'models/props/de_nuke/crate_extralarge.mdl'.
+[13:22:27	]Old Man Lev has used a context menu option with the name: remove
+[13:22:44	]Old Man Lev has spawned 'models/props_combine/combine_generator01.mdl'.
+[13:23:07	]Old Man Lev has enabled persistence for 'models/props_combine/combine_generator01.mdl'.
+[13:23:07	]Old Man Lev has used a context menu option with the name: persist
+[13:23:22	]Old Man Lev has spawned 'models/props_outland/generator_static01a.mdl'.
+[13:23:28	]Old Man Lev has spawned 'models/props_blastpit/c1a4d_generator_techmagnets.mdl'.
+[13:23:36	]Old Man Lev has spawned 'models/props_blastpit/c1a4d_generator_body.mdl'.
+[13:23:42	]Old Man Lev has spawned 'models/props/coop_autumn/autumn_generator/autumn_generator_broken.mdl'.
+[13:23:44	]Old Man Lev has spawned 'models/props/coop_autumn/autumn_generator/autumn_generator.mdl'.
+[13:24:09	]Old Man Lev has spawned 'models/mosi/fallout4/electrical/generators/generator04.mdl'.
+[13:24:16	]Old Man Lev has spawned 'models/props_lab/generatorconsole.mdl'.
+[13:24:22	]Old Man Lev has spawned 'models/props_lab/generatorconsole.mdl'.
+[13:24:28	]Old Man Lev has fired a toolgun with the name: nocollideworld
+[13:25:00	]Old Man Lev has spawned 'models/props_lab/servers.mdl'.
+[13:25:14	]Old Man Lev has spawned 'models/props/de_venice/venice_power_box/venice_power_box.mdl'.
+[13:25:16	]Old Man Lev has spawned 'models/props/de_venice/venice_power_box/venice_power_box_03.mdl'.
+[13:25:26	]Old Man Lev has spawned 'models/props/de_nuke/hr_nuke/nuke_roof_ac/ac_powerbox_small.mdl'.
+[13:25:32	]Old Man Lev has spawned 'models/props/de_nuke/hr_nuke/transformer_yard_powerbox/transformer_yard_powerbox.mdl'.
+[13:25:35	]Old Man Lev has spawned 'models/props_lab/powerbox02c.mdl'.
+[13:25:39	]Old Man Lev has spawned 'models/props_gameplay/power_lever.mdl'.
+[13:25:50	]Old Man Lev has spawned 'models/props/de_nuke/hr_nuke/nuke_office_props/nuke_office_power_socket.mdl'.
+[13:26:03	]Old Man Lev has disabled persistence for 'models/props_combine/combine_generator01.mdl'.
+[13:26:03	]Old Man Lev has used a context menu option with the name: persist_end
+[13:26:04	]Old Man Lev has enabled persistence for 'models/props_combine/combine_generator01.mdl'.
+[13:26:04	]Old Man Lev has used a context menu option with the name: persist
+[13:26:05	]Old Man Lev has enabled persistence for 'models/props_lab/generatorconsole.mdl'.
+[13:26:05	]Old Man Lev has used a context menu option with the name: persist
+[13:26:06	]Old Man Lev has enabled persistence for 'models/props/de_venice/venice_power_box/venice_power_box_03.mdl'.
+[13:26:06	]Old Man Lev has used a context menu option with the name: persist
+[13:26:06	]Old Man Lev has enabled persistence for 'models/props/de_nuke/hr_nuke/nuke_roof_ac/ac_powerbox_small.mdl'.
+[13:26:06	]Old Man Lev has used a context menu option with the name: persist
+[13:26:08	]Old Man Lev has enabled persistence for 'models/props_lab/servers.mdl'.
+[13:26:08	]Old Man Lev has used a context menu option with the name: persist
+[13:26:09	]Old Man Lev has enabled persistence for 'models/props/de_nuke/hr_nuke/nuke_office_props/nuke_office_power_socket.mdl'.
+[13:26:09	]Old Man Lev has used a context menu option with the name: persist
+[13:26:10	]Old Man Lev has enabled persistence for 'models/props_gameplay/power_lever.mdl'.
+[13:26:10	]Old Man Lev has used a context menu option with the name: persist
+[13:26:38	]Old Man Lev has spawned 'models/props/de_vertigo/hvac_controller_03.mdl'.
+[13:27:10	]Old Man Lev has enabled persistence for 'models/props/de_vertigo/hvac_controller_03.mdl'.
+[13:27:10	]Old Man Lev has used a context menu option with the name: persist
+[13:27:19	]Old Man Lev has spawned 'models/hunter/blocks/cube1x3x025.mdl'.
+[13:27:25	]Old Man Lev has spawned 'models/hunter/plates/plate2x2.mdl'.
+[13:27:26	]Old Man Lev entered observer.
+[13:27:28	]Old Man Lev exited observer at their location.
+[13:27:29	]Old Man Lev entered observer.
+[13:27:33	]Old Man Lev has spawned 'models/hunter/plates/plate5x5.mdl'.
+[13:27:36	]Old Man Lev has spawned 'models/hunter/plates/plate4x7.mdl'.
+[13:27:41	]Old Man Lev has spawned 'models/hunter/plates/plate4x6.mdl'.
+[13:27:43	]Old Man Lev has spawned 'models/hunter/plates/plate4x5.mdl'.
+[13:27:46	]Old Man Lev has fired a toolgun with the name: nocollideworld
+[13:28:08	]Old Man Lev exited observer at their location.
+[13:28:17	]Old Man Lev has enabled persistence for 'models/hunter/plates/plate4x5.mdl'.
+[13:28:17	]Old Man Lev has used a context menu option with the name: persist
+[13:28:17	]Old Man Lev entered observer.
+[13:28:20	]Old Man Lev exited observer at their location.
+[13:28:24	]Old Man Lev has used a context menu option with the name: remove
+[13:28:25	]Old Man Lev has used a context menu option with the name: remove
+[13:28:27	]Old Man Lev entered observer.
+[13:28:28	]Old Man Lev exited observer at their location.
+[13:28:33	]Old Man Lev entered observer.
+[13:28:38	]Old Man Lev exited observer at their location.
+[13:29:40	]Old Man Lev has fired a toolgun with the name: material
+[13:29:44	]Old Man Lev has fired a toolgun with the name: material
+[13:29:47	]Old Man Lev has fired a toolgun with the name: material
+[13:29:49	]Old Man Lev has fired a toolgun with the name: material
+[13:29:55	]Old Man Lev has fired a toolgun with the name: material
+[13:29:57	]Old Man Lev has fired a toolgun with the name: material
+[13:29:59	]Old Man Lev has fired a toolgun with the name: material
+[13:30:01	]Old Man Lev has fired a toolgun with the name: material
+[13:30:04	]Old Man Lev has fired a toolgun with the name: material
+[13:30:05	]Old Man Lev has fired a toolgun with the name: material
+[13:30:10	]Old Man Lev has fired a toolgun with the name: material
+[13:30:14	]Old Man Lev has fired a toolgun with the name: material
+[13:30:16	]Old Man Lev has fired a toolgun with the name: material
+[13:30:20	]Old Man Lev has fired a toolgun with the name: material
+[13:30:22	]Old Man Lev has fired a toolgun with the name: material
+[13:30:24	]Old Man Lev has fired a toolgun with the name: material
+[13:30:27	]Old Man Lev has fired a toolgun with the name: material
+[13:30:30	]Old Man Lev has fired a toolgun with the name: material
+[13:30:34	]Old Man Lev has fired a toolgun with the name: material
+[13:31:02	]Old Man Lev has spawned 'models/props_combine/combine_interface001.mdl'.
+[13:31:07	]Old Man Lev entered observer.
+[13:31:07	]Old Man Lev exited observer at their location.
+[13:31:12	]Old Man Lev has enabled persistence for 'models/props_combine/combine_interface001.mdl'.
+[13:31:12	]Old Man Lev has used a context menu option with the name: persist
+[13:31:24	]Old Man Lev has spawned 'models/props_combine/combine_intmonitor001.mdl'.
+[13:31:36	]Old Man Lev has enabled persistence for 'models/props_combine/combine_intmonitor001.mdl'.
+[13:31:36	]Old Man Lev has used a context menu option with the name: persist
+[13:31:50	]Old Man Lev entered observer.
+[13:32:34	]Old Man Lev exited observer at their location.
+[13:32:40	]Old Man Lev entered observer.
+[13:33:03	]Old Man Lev exited observer at their location.
+[13:33:14	]Old Man Lev has spawned 'models\props/cs_office/Bookshelf1.mdl'.
+[13:33:18	]Old Man Lev has spawned 'models\props/cs_office/Bookshelf2.mdl'.
+[13:33:23	]Old Man Lev has enabled persistence for 'models\props/cs_office/bookshelf1.mdl'.
+[13:33:23	]Old Man Lev has used a context menu option with the name: persist
+[13:33:24	]Old Man Lev has enabled persistence for 'models\props/cs_office/bookshelf2.mdl'.
+[13:33:24	]Old Man Lev has used a context menu option with the name: persist
+[13:33:29	]Old Man Lev has spawned 'models\props/cs_office/offpaintingd.mdl'.
+[13:33:40	]Old Man Lev has enabled persistence for 'models\props/cs_office/offpaintingd.mdl'.
+[13:33:40	]Old Man Lev has used a context menu option with the name: persist
+[13:33:50	]Old Man Lev has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[13:34:03	]Old Man Lev has spawned 'models/props_office/desk_01.mdl'.
+[13:34:08	]Old Man Lev has spawned 'models/props_interiors/desk_metal.mdl'.
+[13:34:19	]Old Man Lev has enabled persistence for 'models/props_interiors/desk_metal.mdl'.
+[13:34:19	]Old Man Lev has used a context menu option with the name: persist
+[13:34:24	]Old Man Lev has spawned 'models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_office_desk_monitor.mdl'.
+[13:34:33	]Old Man Lev has spawned a 'Entity [1406][ix_combinemonitor_tv]'.
+[13:34:44	]Old Man Lev has used a context menu option with the name: remove
+[13:34:49	]Old Man Lev has spawned 'models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_clipboard_holder_wall.mdl'.
+[13:35:01	]Old Man Lev has enabled persistence for 'models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_clipboard_holder_wall.mdl'.
+[13:35:01	]Old Man Lev has used a context menu option with the name: persist
+[13:35:19	]Old Man Lev has spawned 'models/props_foliage/aztec_jungleplants_01.mdl'.
+[13:35:22	]Old Man Lev has spawned 'models/props_foliage/mall_bigleaves_plant01_medium.mdl'.
+[13:35:23	]Old Man Lev has spawned 'models/props_foliage/urban_balcony_planter01.mdl'.
+[13:35:26	]Old Man Lev has spawned 'models/props_foliage/urban_balcony_planter01a.mdl'.
+[13:35:36	]Old Man Lev has enabled persistence for 'models/props_foliage/urban_balcony_planter01a.mdl'.
+[13:35:36	]Old Man Lev has used a context menu option with the name: persist
+[13:40:59	]Old Man Lev has gone afk.
+[13:42:04	]Old Man Lev is no longer afk. Total time spent AFK: 360
+[13:42:15	]Old Man Lev entered observer.
+[13:42:34	]Old Man Lev exited observer at their location.
+[13:42:48	]Old Man Lev entered observer.
+[13:46:36	]Old Man Lev exited observer at their location.
+[13:46:43	]Old Man Lev has spawned 'models/props/gg_handling/bh_luggage_rack144_01.mdl'.
+[13:46:46	]Old Man Lev has spawned 'models/props/gg_handling/bh_luggage_rack144_02.mdl'.
+[13:46:49	]Old Man Lev entered observer.
+[13:47:01	]Old Man Lev has enabled persistence for 'models/props/gg_handling/bh_luggage_rack144_02.mdl'.
+[13:47:01	]Old Man Lev has used a context menu option with the name: persist
+[13:47:19	]Old Man Lev exited observer at their location.
+[13:47:22	]Old Man Lev has spawned 'models/props_unique/airport/luggage_pile1.mdl'.
+[13:47:22	]Old Man Lev entered observer.
+[13:47:30	]Old Man Lev exited observer at their location.
+[13:47:37	]Old Man Lev used command '/TextRemove'.
+[13:47:42	]Old Man Lev has fired a toolgun with the name: remover
+[13:47:43	]Old Man Lev has fired a toolgun with the name: remover
+[13:47:44	]Old Man Lev has fired a toolgun with the name: remover
+[13:48:01	]Old Man Lev has used a context menu option with the name: remove
+[13:48:04	]Old Man Lev has spawned 'models/props/gg_handling/luggage_stack_01.mdl'.
+[13:48:23	]Old Man Lev has enabled persistence for 'models/props/gg_handling/luggage_stack_01.mdl'.
+[13:48:23	]Old Man Lev has used a context menu option with the name: persist
+[13:48:36	]Old Man Lev has used a context menu option with the name: skin
+[13:48:38	]Old Man Lev has used a context menu option with the name: skin
+[13:48:40	]Old Man Lev has used a context menu option with the name: skin
+[13:49:41	]Old Man Lev entered observer.
+[13:52:02	]Old Man Lev exited observer at their location.
+[13:52:06	]Old Man Lev has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[13:52:31	]Old Man Lev has spawned a 'Entity [1417][ix_smuggler]'.
+[13:52:32	]Old Man Lev entered observer.
+[13:52:35	]Old Man Lev has used a context menu option with the name: smuggler_edit
+[13:53:52	]Old Man Lev has spawned 'models/willardnetworks/combine/antibody.mdl'.
+[13:53:54	]Old Man Lev has spawned 'models/industrial_uniforms/industrial_uniform.mdl'.
+[13:53:56	]Old Man Lev has spawned 'models/industrial_uniforms/industrial_uniform2.mdl'.
+[13:54:01	]Old Man Lev has used a context menu option with the name: smuggler_edit
+[13:54:11	]Old Man Lev used command '/SmugglerForceRotate'.
+[13:54:13	]Old Man Lev exited observer at their location.
+[13:54:16	]Old Man Lev has used a context menu option with the name: smuggler_edit
+[13:57:59	]Old Man Lev entered observer.
+[13:58:02	]Old Man Lev exited observer at their location.
+[13:58:04	]Old Man Lev has used a context menu option with the name: smuggler_edit
+[13:58:12	]Old Man Lev has used a context menu option with the name: smuggler_edit
+[13:58:18	]Old Man Lev entered observer.
+[13:58:20	]Old Man Lev exited observer at their location.
+[13:58:23	]Old Man Lev has used a context menu option with the name: smuggler_edit
+[13:58:40	]Old Man Lev has used a context menu option with the name: smuggler_edit
+[13:58:49	]Old Man Lev entered observer.
+[13:58:59	]Old Man Lev has used a context menu option with the name: smuggler_edit
+[13:59:08	]Old Man Lev exited observer at their location.
+[13:59:14	]Robert loaded the character 'Guido Schwarz'
+[13:59:19	]Guido Schwarz is fully healed.
+[13:59:23	]Guido Schwarz entered observer.
+[13:59:28	]Guido Schwarz exited observer at their location.
+[13:59:29	]Guido Schwarz used the 'Masked Druggy' smuggler.
+[13:59:37	]Guido Schwarz entered observer.
+[13:59:41	]Guido Schwarz has used a context menu option with the name: smuggler_edit
+[13:59:46	]Guido Schwarz has used a context menu option with the name: smuggler_edit
+[13:59:56	]Guido Schwarz has used a context menu option with the name: smuggler_edit
+[14:00:07	]Guido Schwarz has used a context menu option with the name: smuggler_edit
+[14:00:23	]Guido Schwarz exited observer at their location.
+[14:00:24	]Guido Schwarz used the 'Masked Druggy' smuggler.
+[14:00:33	]Guido Schwarz entered observer.
+[14:01:15	]Guido Schwarz has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[14:01:25	]Guido Schwarz exited observer at their location.
+[14:01:32	]Guido Schwarz has spawned a 'Entity [1364][ix_smuggler]'.
+[14:01:33	]Guido Schwarz entered observer.
+[14:01:35	]Guido Schwarz has used a context menu option with the name: smuggler_edit
+[14:02:29	]Guido Schwarz has used a context menu option with the name: smuggler_edit
+[14:02:46	]Guido Schwarz has used a context menu option with the name: rb655_dissolve
+[14:02:52	]Guido Schwarz has spawned a 'Entity [1475][ix_smuggler]'.
+[14:02:54	]Guido Schwarz has used a context menu option with the name: smuggler_edit
+[14:03:35	]Guido Schwarz has used a context menu option with the name: smuggler_edit
+[14:03:43	]Guido Schwarz used command '/SmugglerForceRotate'.
+[14:03:45	]Guido Schwarz exited observer at their location.
+[14:03:49	]Guido Schwarz has used a context menu option with the name: smuggler_edit
+[14:09:14	]Guido Schwarz has gone afk.
+[14:09:41	]Guido Schwarz used the 'High Quality Smuggler' smuggler.
+[14:09:44	]Guido Schwarz bought a 'waterbottle' from the 'High Quality Smuggler' smuggler for delivery to basket_drop.
+[14:09:44	]Guido Schwarz has lost 16 chips.
+[14:09:44	]Guido Schwarz is no longer afk. Total time spent AFK: 325
+[14:09:54	]Guido Schwarz entered observer.
+[14:10:02	]Guido Schwarz has used a context menu option with the name: smuggler_edit
+[14:10:14	]Guido Schwarz used the 'High Quality Smuggler' smuggler.
+[14:10:15	]Guido Schwarz bought a 'ing_headcrab_meat' from the 'High Quality Smuggler' smuggler for delivery to basket_drop.
+[14:10:15	]Guido Schwarz has lost 10 chips.
+[14:10:20	]Guido Schwarz has used a context menu option with the name: smuggler_edit
+[14:10:26	]Guido Schwarz has used a context menu option with the name: smuggler_edit
+[14:10:33	]Guido Schwarz has used a context menu option with the name: smuggler_edit
+[14:10:44	]Guido Schwarz used the 'High Quality Smuggler' smuggler.
+[14:10:48	]Guido Schwarz has used a context menu option with the name: smuggler_edit
+[14:11:07	]Guido Schwarz has used a context menu option with the name: smuggler_edit
+[14:11:17	]Guido Schwarz used command '/SmugglerForceRotate'.
+[14:11:20	]Guido Schwarz used command '/SmugglerForceRotate'.
+[14:11:21	]Guido Schwarz exited observer at their location.
+[14:11:21	]Guido Schwarz used the 'High Quality Smuggler' smuggler.
+[14:11:25	]Guido Schwarz entered observer.
+[14:11:27	]Guido Schwarz has used a context menu option with the name: rb655_dissolve
+[14:11:34	]Guido Schwarz has enabled persistence for 'models/props_wasteland/controlroom_desk001b.mdl'.
+[14:11:34	]Guido Schwarz has used a context menu option with the name: persist
+[14:11:43	]Guido Schwarz used command '/SmugglerForceRotate'.
+[14:11:44	]Guido Schwarz exited observer at their location.
+[14:11:44	]Guido Schwarz entered observer.
+[14:11:45	]Guido Schwarz exited observer at their location.
+[14:11:45	]Guido Schwarz used the 'Masked Druggy' smuggler.
+[14:11:50	]Guido Schwarz entered observer.
+[14:11:53	]Guido Schwarz has used a context menu option with the name: smuggler_edit
+[14:13:53	]Guido Schwarz exited observer at their location.
+[14:13:55	]Robert (STEAM_0:1:36030793) has disconnected.
+[14:26:09	]Mango has connected.
+[14:27:03	]Mango loaded the character 'Azh'Daal'
+[14:27:08	]Azh'Daal is fully healed.
+[14:27:14	][LOOC] Azh'Daal: a
+[14:27:20	]Azh'Daal used command '/PlyWhitelist azh overwatch'.
+[14:27:32	]Mango created the character 'S10:SCN-9'
+[14:27:32	]Mango loaded the character 'S10:SCN-9'
+[14:27:41	]S10:SCN-9 entered observer.
+[14:27:42	]S10:SCN-9 entered observer.
+[14:27:57	]Bot01 has connected.
+[14:27:57	]Bot01 loaded the character 'Bot01'
+[14:28:06	]S10:SCN-9 ran SAM command 'bring' with arguments: 'bot'
+[14:28:11	]S10:SCN-9 used command '/Datafile Bot01'.
+[14:28:27	]Mango (STEAM_0:0:544539350) has disconnected.
+[14:28:27	]Bot01 (BOT) has disconnected.
+[15:32:00	]Robert has connected.
+[15:33:27	]Robert loaded the character 'Guido Schwarz'
+[15:33:32	]Guido Schwarz is fully healed.
+[15:33:35	]Guido Schwarz entered observer.
+[15:34:35	]Guido Schwarz has spawned a 'Entity [1354][ix_smuggler]'.
+[15:34:48	]Guido Schwarz has used a context menu option with the name: smuggler_edit
+[15:39:34	]Guido Schwarz picked up a 'ing_headcrab_meat' from 'basket_drop.
+[15:39:34	]Guido Schwarz has gained a 'Raw Headcrab Meat' #2046514.
+[15:39:35	]Guido Schwarz picked up a 'waterbottle' from 'basket_drop.
+[15:39:35	]Guido Schwarz has gained a 'Water Bottle' #2046515.
+[15:39:39	]Guido Schwarz ran 'drop' on item 'Water Bottle' (#2046515)
+[15:39:39	]Guido Schwarz has lost a 'Water Bottle' #2046515.
+[15:39:39	]Guido Schwarz ran 'drop' on item 'Raw Headcrab Meat' (#2046514)
+[15:39:39	]Guido Schwarz has lost a 'Raw Headcrab Meat' #2046514.
+[15:39:42	]Guido Schwarz has used a context menu option with the name: rb655_dissolve
+[15:39:43	]Guido Schwarz has used a context menu option with the name: rb655_dissolve
+[15:39:44	]env_entity_dissolver destroyed a 'Water Bottle' #2046515.
+[15:39:45	]env_entity_dissolver destroyed a 'Raw Headcrab Meat' #2046514.
+[15:45:09	]Guido Schwarz exited observer at their location.
+[15:45:17	]Guido Schwarz has spawned 'models/props_c17/Lockers001a.mdl'.
+[15:45:21	]Guido Schwarz created a stash (models/props_c17/lockers001a.mdl).
+[15:45:21	]Guido Schwarz has used a context menu option with the name: ixcreatestash
+[15:45:31	]Guido Schwarz has set a stash name to 'Shopping District Lockers'.
+[15:45:31	]Guido Schwarz has used a context menu option with the name: ixstashsetname
+[15:45:34	]Guido Schwarz entered observer.
+[15:45:50	]Guido Schwarz exited observer at their location.
+[15:45:52	]Guido Schwarz has spawned 'models/props_c17/Lockers001a.mdl'.
+[15:45:59	]Guido Schwarz created a stash (models/props_c17/lockers001a.mdl).
+[15:45:59	]Guido Schwarz has used a context menu option with the name: ixcreatestash
+[15:46:18	]Guido Schwarz has set a stash name to 'Loyalist Lockers'.
+[15:46:18	]Guido Schwarz has used a context menu option with the name: ixstashsetname
+[15:46:20	]Guido Schwarz entered observer.
+[15:46:27	]Guido Schwarz exited observer at their location.
+[15:46:29	]Guido Schwarz has spawned 'models/props_c17/Lockers001a.mdl'.
+[15:46:30	]Guido Schwarz entered observer.
+[15:46:36	]Guido Schwarz exited observer at their location.
+[15:46:37	]Guido Schwarz has spawned 'models/props_c17/Lockers001a.mdl'.
+[15:46:40	]Guido Schwarz entered observer.
+[15:46:58	]Guido Schwarz exited observer at their location.
+[15:47:00	]Guido Schwarz has spawned 'models/props_c17/Lockers001a.mdl'.
+[15:47:04	]Guido Schwarz created a stash (models/props_c17/lockers001a.mdl).
+[15:47:04	]Guido Schwarz has used a context menu option with the name: ixcreatestash
+[15:47:12	]Guido Schwarz has set a stash name to 'Indigent Lockers'.
+[15:47:12	]Guido Schwarz has used a context menu option with the name: ixstashsetname
+[15:47:13	]Guido Schwarz entered observer.
+[15:47:51	]Guido Schwarz exited observer at their location.
+[15:47:56	]Guido Schwarz entered observer.
+[15:48:17	]Guido Schwarz exited observer at their location.
+[15:48:41	]Guido Schwarz entered observer.
+[15:48:59	]Guido Schwarz exited observer at their location.
+[15:49:03	]Guido Schwarz entered observer.
+[15:51:59	]Guido Schwarz exited observer at their location.
+[15:52:04	]Guido Schwarz entered observer.
+[15:52:05	]Guido Schwarz exited observer at their location.
+[15:52:14	]Guido Schwarz entered observer.
+[15:53:11	]Guido Schwarz exited observer at their location.
+[15:53:12	]Guido Schwarz entered observer.
+[15:53:12	]Guido Schwarz exited observer at their location.
+[15:53:13	]Guido Schwarz entered observer.
+[15:53:14	]Guido Schwarz exited observer at their location.
+[15:53:15	]Guido Schwarz has gained level 15 in the Speed skill.
+[15:53:23	]Guido Schwarz entered observer.
+[15:53:24	]Guido Schwarz exited observer at their location.
+[15:53:27	]Guido Schwarz entered observer.
+[15:53:29	]Guido Schwarz exited observer at their location.
+[15:53:36	]Guido Schwarz entered observer.
+[15:54:09	]Guido Schwarz exited observer at their location.
+[15:54:12	]Guido Schwarz entered observer.
+[15:54:18	]Guido Schwarz exited observer at their location.
+[15:54:20	]Guido Schwarz entered observer.
+[15:55:29	]Guido Schwarz exited observer at their location.
+[15:55:31	]Guido Schwarz entered observer.
+[15:59:46	]Guido Schwarz exited observer at their location.
+[16:00:03	]Guido Schwarz entered observer.
+[16:00:13	]Guido Schwarz exited observer at their location.
+[16:00:21	]Guido Schwarz entered observer.
+[16:00:29	]Guido Schwarz exited observer at their location.
+[16:01:16	]Guido Schwarz entered observer.
+[16:01:21	]Guido Schwarz exited observer at their location.
+[16:01:38	]Guido Schwarz entered observer.
+[16:01:50	]Guido Schwarz exited observer at their location.
+[16:01:50	]Guido Schwarz entered observer.
+[16:01:51	]Guido Schwarz exited observer at their location.
+[16:01:54	]Guido Schwarz entered observer.
+[16:02:02	]Guido Schwarz exited observer at their location.
+[16:02:07	]Guido Schwarz entered observer.
+[16:02:48	]Guido Schwarz exited observer at their location.
+[16:02:58	]Guido Schwarz entered observer.
+[16:03:13	]Guido Schwarz exited observer at their location.
+[16:03:24	]Guido Schwarz entered observer.
+[16:03:26	]Guido Schwarz exited observer at their location.
+[16:03:32	]Guido Schwarz entered observer.
+[16:03:48	]Guido Schwarz exited observer at their location.
+[16:03:50	]Guido Schwarz entered observer.
+[16:03:51	]Guido Schwarz exited observer at their location.
+[16:03:54	]Guido Schwarz entered observer.
+[16:04:06	]Guido Schwarz exited observer at their location.
+[16:04:07	]Guido Schwarz entered observer.
+[16:04:08	]Guido Schwarz exited observer at their location.
+[16:04:17	]Guido Schwarz has spawned 'models/props_wasteland/controlroom_desk001a.mdl'.
+[16:04:34	]Guido Schwarz has spawned 'models/props_combine/combine_interface001.mdl'.
+[16:04:38	]Guido Schwarz entered observer.
+[16:04:40	]Guido Schwarz exited observer at their location.
+[16:04:44	]Guido Schwarz entered observer.
+[16:04:45	]Guido Schwarz exited observer at their location.
+[16:04:53	]Guido Schwarz has spawned 'models/props_c17/FurnitureTable003a.mdl'.
+[16:04:55	]Guido Schwarz has spawned 'models/props_c17/FurnitureTable002a.mdl'.
+[16:05:00	]Guido Schwarz has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[16:05:15	]Guido Schwarz has enabled persistence for 'models/props_wasteland/controlroom_desk001b.mdl'.
+[16:05:15	]Guido Schwarz has used a context menu option with the name: persist
+[16:05:20	]Guido Schwarz has spawned a landline.
+[16:05:22	]Guido Schwarz ran 'Deploy' on item 'Landline Phone' (#2046516)
+[16:07:32	]Guido Schwarz used command '/EditLandline 1 311 CMRU Reception'.
+[16:07:36	]Guido Schwarz used command '/AddPBX 1'.
+[16:07:38	]Guido Schwarz used command '/EditLandline 1 311 CMRU Reception'.
+[16:08:10	]Guido Schwarz has spawned a med_computer.
+[16:08:13	]Guido Schwarz ran 'Place' on item 'Medical Computer' (#2046517)
+[16:08:34	]Guido Schwarz entered observer.
+[16:09:09	]Guido Schwarz exited observer at their location.
+[16:09:12	]Guido Schwarz entered observer.
+[16:09:14	]Guido Schwarz exited observer at their location.
+[16:09:19	]Guido Schwarz entered observer.
+[16:09:22	]Guido Schwarz exited observer at their location.
+[16:09:38	]Guido Schwarz entered observer.
+[16:09:47	]Guido Schwarz exited observer at their location.
+[16:09:56	]Guido Schwarz entered observer.
+[16:10:03	]Guido Schwarz exited observer at their location.
+[16:10:07	]Guido Schwarz has spawned 'models/props_wasteland/controlroom_storagecloset001b.mdl'.
+[16:10:15	]Guido Schwarz has spawned 'models/props_wasteland/kitchen_fridge001a.mdl'.
+[16:10:22	]Guido Schwarz has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[16:10:31	]Guido Schwarz has spawned 'models/props_wasteland/kitchen_fridge001a.mdl'.
+[16:10:45	]Guido Schwarz entered observer.
+[16:11:12	]Guido Schwarz exited observer at their location.
+[16:16:19	]Guido Schwarz entered observer.
+[16:16:26	]Guido Schwarz exited observer at their location.
+[16:16:28	]Guido Schwarz has enabled persistence for 'models/props_combine/combine_interface001.mdl'.
+[16:16:28	]Guido Schwarz has used a context menu option with the name: persist
+[16:16:29	]Guido Schwarz has enabled persistence for 'models/props_wasteland/controlroom_desk001a.mdl'.
+[16:16:29	]Guido Schwarz has used a context menu option with the name: persist
+[16:16:32	]Guido Schwarz created a 'Large Refrigerator' container.
+[16:16:32	]Guido Schwarz has used a context menu option with the name: wncontainer_create
+[16:16:33	]Guido Schwarz created a 'Large Refrigerator' container.
+[16:16:33	]Guido Schwarz has used a context menu option with the name: wncontainer_create
+[16:16:34	]Guido Schwarz created a 'Large Metal Cabinet' container.
+[16:16:34	]Guido Schwarz has used a context menu option with the name: wncontainer_create
+[16:16:55	]Guido Schwarz entered observer.
+[16:16:56	]Guido Schwarz exited observer at their location.
+[16:17:05	]Guido Schwarz entered observer.
+[16:17:25	]Guido Schwarz used command '/AreaEdit'.
+[16:17:29	]Guido Schwarz has removed area "CMRU Medical - Second Floor".
+[16:18:01	]Guido Schwarz has added area "District Admin Office".
+[16:18:03	]Guido Schwarz exited observer at their location.
+[16:18:41	]Guido Schwarz entered observer.
+[16:18:52	]Guido Schwarz exited observer at their location.
+[16:19:14	]Guido Schwarz has spawned 'models/props_combine/breenbust.mdl'.
+[16:19:19	]Guido Schwarz has enabled persistence for 'models/props_combine/breenbust.mdl'.
+[16:19:19	]Guido Schwarz has used a context menu option with the name: persist
+[16:19:27	]Guido Schwarz has spawned 'models/props_c17/clock01.mdl'.
+[16:19:41	]Guido Schwarz has enabled persistence for 'models/props_c17/clock01.mdl'.
+[16:19:41	]Guido Schwarz has used a context menu option with the name: persist
+[16:19:54	]Guido Schwarz entered observer.
+[16:25:23	]Guido Schwarz exited observer at their location.
+[16:25:32	]Guido Schwarz has spawned 'models/props_interiors/tv_cabinet.mdl'.
+[16:25:40	]Guido Schwarz has spawned 'models/props_interiors/table_folding.mdl'.
+[16:25:48	]Guido Schwarz has spawned 'models/props_interiors/tv.mdl'.
+[16:25:58	]Guido Schwarz has enabled persistence for 'models/props_interiors/tv.mdl'.
+[16:25:58	]Guido Schwarz has used a context menu option with the name: persist
+[16:25:59	]Guido Schwarz has enabled persistence for 'models/props_interiors/tv_cabinet.mdl'.
+[16:25:59	]Guido Schwarz has used a context menu option with the name: persist
+[16:26:00	]Guido Schwarz has enabled persistence for 'models/props_interiors/table_folding.mdl'.
+[16:26:00	]Guido Schwarz has used a context menu option with the name: persist
+[16:26:05	]Guido Schwarz has spawned 'models/props_interiors/sofa01.mdl'.
+[16:26:12	]Guido Schwarz has spawned 'models/props_furniture/kitchen_countertop1.mdl'.
+[16:26:26	]Guido Schwarz has spawned 'models/props_furniture/kitchen_shelf1.mdl'.
+[16:26:30	]Guido Schwarz has spawned 'models/props_office/file_cabinet_03.mdl'.
+[16:26:38	]Guido Schwarz has enabled persistence for 'models/props_office/file_cabinet_03.mdl'.
+[16:26:38	]Guido Schwarz has used a context menu option with the name: persist
+[16:26:47	]Guido Schwarz has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[16:28:14	]Guido Schwarz has spawned 'models/props_interiors/Furniture_Lamp01a.mdl'.
+[16:28:17	]Guido Schwarz has spawned a usable entity class 'ix_lamp' with model 'models/props_interiors/furniture_lamp01a.mdl'.
+[16:28:17	]Guido Schwarz has used a context menu option with the name: ixusableentitycreate
+[16:28:20	]Guido Schwarz has spawned 'models/props_c17/FurnitureRadiator001a.mdl'.
+[16:28:24	]Guido Schwarz has enabled persistence for 'models/props_c17/furnitureradiator001a.mdl'.
+[16:28:24	]Guido Schwarz has used a context menu option with the name: persist
+[16:28:29	]Guido Schwarz has spawned a usable entity class 'ix_couch' with model 'models/props_c17/furniturecouch001a.mdl'.
+[16:28:29	]Guido Schwarz has used a context menu option with the name: ixusableentitycreate
+[16:28:51	]Guido Schwarz has spawned 'models/props_interiors/alarm_clock.mdl'.
+[16:29:17	]Guido Schwarz has spawned 'models/props_interiors/lamp_floor.mdl'.
+[16:29:20	]Guido Schwarz has spawned a usable entity class 'ix_lamp' with model 'models/props_interiors/lamp_floor.mdl'.
+[16:29:20	]Guido Schwarz has used a context menu option with the name: ixusableentitycreate
+[16:29:31	]Guido Schwarz has used a context menu option with the name: remove
+[16:29:43	]Guido Schwarz has used a context menu option with the name: skin
+[16:29:45	]Guido Schwarz has used a context menu option with the name: skin
+[16:29:46	]Guido Schwarz has used a context menu option with the name: skin
+[16:29:47	]Guido Schwarz has used a context menu option with the name: skin
+[16:29:56	]Guido Schwarz has spawned 'models/props_interiors/books02.mdl'.
+[16:30:01	]Guido Schwarz has enabled persistence for 'models/props_interiors/books02.mdl'.
+[16:30:01	]Guido Schwarz has used a context menu option with the name: persist
+[16:30:12	]Guido Schwarz has spawned a tool_oven.
+[16:30:17	]Guido Schwarz has fired a toolgun with the name: nocollideworld
+[16:30:51	]Guido Schwarz ran 'Bolt' on item 'Oven' (#2046518)
+[16:31:02	]Guido Schwarz entered observer.
+[16:31:04	]Guido Schwarz exited observer at their location.
+[16:31:04	]Guido Schwarz entered observer.
+[16:31:06	]Guido Schwarz exited observer at their location.
+[16:31:07	]Guido Schwarz entered observer.
+[16:31:29	]Guido Schwarz has fired a toolgun with the name: weld
+[16:31:29	]Guido Schwarz has fired a toolgun with the name: weld
+[16:31:36	]Guido Schwarz has fired a toolgun with the name: duplicator
+[16:31:36	]Guido Schwarz has spawned 'models/props_interiors/tv.mdl'.
+[16:31:36	]Guido Schwarz has spawned 'models/props_interiors/tv_cabinet.mdl'.
+[16:31:37	]Guido Schwarz has fired a toolgun with the name: duplicator
+[16:31:37	]Guido Schwarz has spawned 'models/props_interiors/tv.mdl'.
+[16:31:37	]Guido Schwarz has spawned 'models/props_interiors/tv_cabinet.mdl'.
+[16:31:38	]Guido Schwarz has fired a toolgun with the name: duplicator
+[16:31:38	]Guido Schwarz has spawned 'models/props_interiors/tv.mdl'.
+[16:31:38	]Guido Schwarz has spawned 'models/props_interiors/tv_cabinet.mdl'.
+[16:31:42	]Guido Schwarz has fired a toolgun with the name: duplicator
+[16:31:42	]Guido Schwarz has spawned 'models/props_interiors/tv.mdl'.
+[16:31:42	]Guido Schwarz has spawned 'models/props_interiors/tv_cabinet.mdl'.
+[16:31:44	]Guido Schwarz has fired a toolgun with the name: duplicator
+[16:31:44	]Guido Schwarz has spawned 'models/props_interiors/tv.mdl'.
+[16:31:44	]Guido Schwarz has spawned 'models/props_interiors/tv_cabinet.mdl'.
+[16:31:45	]Guido Schwarz has fired a toolgun with the name: duplicator
+[16:31:45	]Guido Schwarz has spawned 'models/props_interiors/tv.mdl'.
+[16:31:45	]Guido Schwarz has spawned 'models/props_interiors/tv_cabinet.mdl'.
+[16:31:48	]Guido Schwarz exited observer at their location.
+[16:32:02	]Guido Schwarz entered observer.
+[16:32:03	]Guido Schwarz exited observer at their location.
+[16:32:08	]Guido Schwarz entered observer.
+[16:32:09	]Guido Schwarz exited observer at their location.
+[16:32:14	]Guido Schwarz entered observer.
+[16:32:20	]Guido Schwarz exited observer at their location.
+[16:32:34	]Guido Schwarz has enabled persistence for 'models/props_interiors/tv_cabinet.mdl'.
+[16:32:34	]Guido Schwarz has used a context menu option with the name: persist
+[16:32:34	]Guido Schwarz has enabled persistence for 'models/props_interiors/tv.mdl'.
+[16:32:34	]Guido Schwarz has used a context menu option with the name: persist
+[16:32:36	]Guido Schwarz has disabled persistence for 'models/props_interiors/tv.mdl'.
+[16:32:36	]Guido Schwarz has used a context menu option with the name: persist_end
+[16:32:38	]Guido Schwarz has enabled persistence for 'models/props_interiors/tv.mdl'.
+[16:32:38	]Guido Schwarz has used a context menu option with the name: persist
+[16:32:39	]Guido Schwarz entered observer.
+[16:32:40	]Guido Schwarz exited observer at their location.
+[16:32:46	]Guido Schwarz has enabled persistence for 'models/props_interiors/tv_cabinet.mdl'.
+[16:32:46	]Guido Schwarz has used a context menu option with the name: persist
+[16:32:47	]Guido Schwarz has enabled persistence for 'models/props_interiors/tv.mdl'.
+[16:32:47	]Guido Schwarz has used a context menu option with the name: persist
+[16:32:47	]Guido Schwarz entered observer.
+[16:32:48	]Guido Schwarz exited observer at their location.
+[16:32:56	]Guido Schwarz has enabled persistence for 'models/props_interiors/tv_cabinet.mdl'.
+[16:32:56	]Guido Schwarz has used a context menu option with the name: persist
+[16:32:57	]Guido Schwarz has enabled persistence for 'models/props_interiors/tv.mdl'.
+[16:32:57	]Guido Schwarz has used a context menu option with the name: persist
+[16:32:57	]Guido Schwarz entered observer.
+[16:33:05	]Guido Schwarz has enabled persistence for 'models/props_interiors/tv.mdl'.
+[16:33:05	]Guido Schwarz has used a context menu option with the name: persist
+[16:33:05	]Guido Schwarz has enabled persistence for 'models/props_interiors/tv_cabinet.mdl'.
+[16:33:05	]Guido Schwarz has used a context menu option with the name: persist
+[16:33:07	]Guido Schwarz has enabled persistence for 'models/props_interiors/tv_cabinet.mdl'.
+[16:33:07	]Guido Schwarz has used a context menu option with the name: persist
+[16:33:07	]Guido Schwarz has enabled persistence for 'models/props_interiors/tv.mdl'.
+[16:33:07	]Guido Schwarz has used a context menu option with the name: persist
+[16:33:09	]Guido Schwarz has enabled persistence for 'models/props_interiors/tv_cabinet.mdl'.
+[16:33:09	]Guido Schwarz has used a context menu option with the name: persist
+[16:33:10	]Guido Schwarz has enabled persistence for 'models/props_interiors/tv.mdl'.
+[16:33:10	]Guido Schwarz has used a context menu option with the name: persist
+[16:33:12	]Guido Schwarz exited observer at their location.
+[16:33:14	]Guido Schwarz used command '/ShowEdicts'.
+[16:33:15	]Guido Schwarz entered observer.
+[16:33:25	]Guido Schwarz exited observer at their location.
+[16:33:32	]Robert (STEAM_0:1:36030793) has disconnected.

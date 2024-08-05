@@ -1,0 +1,295 @@
+[16:37:23	]Atle has connected.
+[16:39:21	]Atle loaded the character 'Valenti Lombardo'
+[16:39:26	]Valenti Lombardo is fully healed.
+[16:39:32	]Atle loaded the character 'Beatrice Olmgurt Bulmer'
+[16:39:37	]Beatrice Olmgurt Bulmer is fully healed.
+[16:39:53	]Beatrice Olmgurt Bulmer entered observer.
+[16:39:57	]Beatrice Olmgurt Bulmer exited observer at their location.
+[16:39:59	]Beatrice Olmgurt Bulmer entered observer.
+[16:40:04	]Beatrice Olmgurt Bulmer exited observer at their location.
+[16:40:28	]Beatrice Olmgurt Bulmer entered observer.
+[16:40:38	]Beatrice Olmgurt Bulmer exited observer at their location.
+[16:40:50	]Beatrice Olmgurt Bulmer has spawned a 'Entity [384][ix_terminal]'.
+[16:41:18	]Beatrice Olmgurt Bulmer entered observer.
+[16:41:33	]Beatrice Olmgurt Bulmer used command '/CreateShop test-1'.
+[16:42:25	]Beatrice Olmgurt Bulmer used command '/SetApartmentDoor test-1'.
+[16:42:45	]Beatrice Olmgurt Bulmer exited observer at their location.
+[16:42:59	]Beatrice Olmgurt Bulmer entered observer.
+[16:43:08	]Beatrice Olmgurt Bulmer used command '/CreateApartment apartment-1'.
+[16:43:38	]Beatrice Olmgurt Bulmer used command '/SetApartmentDoor apartment-1'.
+[16:43:41	]Beatrice Olmgurt Bulmer exited observer at their location.
+[16:44:05	]Beatrice Olmgurt Bulmer has spawned a 'Entity [383][ix_pickupterminal]'.
+[16:44:09	][PICKUP DISPENSER] Atle ( Beatrice Olmgurt Bulmer ) picked up an item from the pickup dispenser.
+[16:44:09	]Beatrice Olmgurt Bulmer has gained a 'Apartment Key' #1649370.
+[16:44:30	]Beatrice Olmgurt Bulmer ran 'Lock' on item 'Apartment Key' (#1649370)
+[16:44:58	][IC] Beatrice Olmgurt Bulmer: Thrhrh.
+[16:45:10	]Beatrice Olmgurt Bulmer used command '/ID'.
+[16:45:59	][PICKUP DISPENSER] Atle ( Beatrice Olmgurt Bulmer ) picked up an item from the pickup dispenser.
+[16:46:00	]Beatrice Olmgurt Bulmer has gained a 'Shop Key' #1649371.
+[16:46:07	]Beatrice Olmgurt Bulmer ran 'Unlock' on item 'Shop Key' (#1649371)
+[16:49:28	]Beatrice Olmgurt Bulmer entered observer.
+[16:49:51	]Beatrice Olmgurt Bulmer used command '/CreateShop shop-2'.
+[16:49:55	]Beatrice Olmgurt Bulmer used command '/SetApartmentDoor shop-2'.
+[16:49:58	]Beatrice Olmgurt Bulmer exited observer at their location.
+[16:57:35	][PICKUP DISPENSER] Atle ( Beatrice Olmgurt Bulmer ) picked up an item from the pickup dispenser.
+[16:57:35	]Beatrice Olmgurt Bulmer has gained a 'Skewered Artificial Meat' #1649372.
+[16:57:35	][PICKUP DISPENSER] Atle ( Beatrice Olmgurt Bulmer ) picked up an item from the pickup dispenser.
+[16:57:35	]Beatrice Olmgurt Bulmer has gained a 'Vegetable Soup' #1649373.
+[16:57:35	][PICKUP DISPENSER] Atle ( Beatrice Olmgurt Bulmer ) picked up an item from the pickup dispenser.
+[16:57:35	]Beatrice Olmgurt Bulmer has gained a 'Shop Key' #1649374.
+[16:58:31	]Atle loaded the character 'Valenti Lombardo'
+[16:58:41	]Atle loaded the character 'Beatrice Olmgurt Bulmer'
+[17:00:21	]Atle (STEAM_0:0:21027108) has disconnected.
+[17:08:21	]Atle has connected.
+[17:08:54	]Atle loaded the character 'Beatrice Olmgurt Bulmer'
+[17:10:02	]Atle (STEAM_0:0:21027108) deleted character 'Minister Orwell'
+[17:10:58	]Atle created the character 'potato'
+[17:10:58	]Atle loaded the character 'potato'
+[17:10:58	]potato has gained a 'Suitcase' #1649375.
+[17:10:58	]potato has gained a '#18173's Identity Card' #1649376.
+[17:11:14	]potato used command '/PlyGiveFlag potato U'.
+[17:11:15	]potato used command '/PlyGiveFlag potato u'.
+[17:11:30	]potato used command '/CharGiveItem potato combine pda'.
+[17:11:30	]potato has gained a 'Combine PDA' #1649377.
+[17:11:32	]potato ran 'Equip' on item 'Combine PDA' (#1649377)
+[17:12:08	]potato entered observer.
+[17:12:14	]potato exited observer at their location.
+[17:12:59	]potato used command '/ID'.
+[17:17:30	]potato used command '/ID'.
+[17:19:04	]Atle loaded the character 'Valenti Lombardo'
+[17:19:15	]Valenti Lombardo used command '/ID'.
+[17:19:27	]Atle loaded the character 'potato'
+[17:20:07	]Atle loaded the character 'Valenti Lombardo'
+[17:21:20	]Atle loaded the character 'potato'
+[17:21:42	]Atle loaded the character 'Valenti Lombardo'
+[17:24:01	]Valenti Lombardo used command '/MapRestart 0'.
+[17:25:47	]Atle has connected.
+[17:27:05	]Atle loaded the character 'potato'
+[17:27:13	]potato entered observer.
+[17:27:15	]potato exited observer at their location.
+[17:28:39	]potato used command '/CreateShop shop-3'.
+[17:28:55	]potato used command '/SetApartmentDoor shop-3'.
+[17:29:13	]potato used command '/ID'.
+[17:30:01	]Atle loaded the character 'Valenti Lombardo'
+[17:30:06	]Valenti Lombardo is fully healed.
+[17:30:08	]Valenti Lombardo used command '/ID'.
+[17:30:13	][IC] Valenti Lombardo: 29796.
+[17:30:22	]Atle loaded the character 'potato'
+[17:30:57	]Atle loaded the character 'Valenti Lombardo'
+[17:31:25	]Atle loaded the character 'potato'
+[17:33:19	]Atle loaded the character 'Valenti Lombardo'
+[17:37:02	]Atle (STEAM_0:0:21027108) deleted character 'potato'
+[17:37:15	]Atle created the character 'shop owner'
+[17:37:15	]Atle loaded the character 'shop owner'
+[17:37:16	]shop owner has gained a 'Suitcase' #1649378.
+[17:37:16	]shop owner has gained a '#52946's Identity Card' #1649379.
+[17:39:27	]Atle created the character 'shop employee'
+[17:39:27	]Atle loaded the character 'shop employee'
+[17:39:27	]shop employee has gained a 'Suitcase' #1649380.
+[17:39:27	]shop employee has gained a '#87721's Identity Card' #1649381.
+[17:41:29	]apathy is death has connected.
+[17:43:36	]apathy is death created the character 'the.. the.. the.'
+[17:43:36	]apathy is death loaded the character 'the.. the.. the.'
+[17:43:37	]the.. the.. the. has gained a 'Suitcase' #1649382.
+[17:43:37	]the.. the.. the. has gained a '#22711's Identity Card' #1649383.
+[17:43:46	][IC] shop employee: Ok.
+[17:43:47	]shop employee ran SAM command 'menu' with arguments: ''
+[17:43:48	][IC] the.. the.. the.: Hi hello hi.
+[17:43:56	][IC] shop employee: Ill guve i admin.
+[17:43:57	][IC] shop employee: U*.
+[17:43:58	]shop employee ran SAM command 'menu' with arguments: ''
+[17:44:08	]shop employee ran SAM command 'setrankid' with arguments: 'STEAM_0:1:210259346' 'senior_admin'
+[17:44:11	]the.. the.. the. entered observer.
+[17:44:11	]the.. the.. the. exited observer at their location.
+[17:44:14	][IC] the.. the.. the.: Ok soo.
+[17:44:19	]the.. the.. the. used command '/CharGiveFlag ^ U'.
+[17:44:23	][IC] shop employee: Lets go to plaza.
+[17:44:23	]shop employee entered observer.
+[17:44:26	]the.. the.. the. has given himself a pda.
+[17:44:26	]the.. the.. the. has gained a 'Combine PDA' #1649384.
+[17:44:27	]the.. the.. the. entered observer.
+[17:44:30	]shop employee exited observer at their location.
+[17:44:32	]shop employee ran SAM command 'bring' with arguments: 'the'
+[17:44:32	]the.. the.. the. ran 'Equip' on item 'Combine PDA' (#1649384)
+[17:44:33	]the.. the.. the. exited observer at their location.
+[17:44:36	][IC] shop employee: Here is shop.
+[17:44:41	][IC] shop employee: Shop-3.
+[17:45:10	][IC] the.. the.. the.: I cant add myself as a tenant lulw.
+[17:45:17	][IC] shop employee: Uh.
+[17:45:23	][IC] shop employee: Did you give yourself U flag?
+[17:45:26	][IC] the.. the.. the.: Yeah!
+[17:45:32	][IC] shop employee: Uhmm.
+[17:45:38	][IC] the.. the.. the.: Check the error in console.
+[17:45:39	][IC] the.. the.. the.: If its.
+[17:45:40	][IC] the.. the.. the.: Uhh.
+[17:45:41	][IC] shop employee: Ok.
+[17:45:42	][IC] the.. the.. the.: There.
+[17:45:50	][IC] shop employee: No error.
+[17:45:57	][IC] the.. the.. the.: I guess.
+[17:46:05	][IC] the.. the.. the.: Fruity's fix not in the master branch........
+[17:46:11	][IC] the.. the.. the.: Or gimme a moment.
+[17:46:13	][IC] shop employee: No it is in there.
+[17:46:15	][IC] shop employee: 0.o.
+[17:46:19	]the.. the.. the. used command '/PlyWhitelist ^ cp'.
+[17:46:50	][IC] shop employee: Did you pull the latest updates with master?
+[17:46:56	][IC] the.. the.. the.: Yep.
+[17:47:03	]shop employee used command '/PlyGiveFlag employee U'.
+[17:47:10	]shop employee used command '/CharGiveItem employee combine pda'.
+[17:47:10	]shop employee has gained a 'Combine PDA' #1649385.
+[17:47:13	]shop employee ran 'Equip' on item 'Combine PDA' (#1649385)
+[17:47:20	][IC] shop employee: I can try give you?
+[17:47:22	][IC] shop employee: Whats your cid.
+[17:47:23	][IC] the.. the.. the.: Yeah why not.
+[17:47:25	][IC] the.. the.. the.: 22711.
+[17:47:39	][IC] shop employee: Ok i cannot add you no.
+[17:47:44	][IC] the.. the.. the.: This is so cursed lol.
+[17:47:46	][IC] shop employee: But i can add you on my CCA.
+[17:47:52	][IC] shop employee: So it does work.. Just not citizen.
+[17:47:56	][IC] shop employee: So it doesnt seem U flag work with it.
+[17:48:04	][IC] shop employee: Let me give u it on my cca.
+[17:48:04	][IC] the.. the.. the.: It should work with it.
+[17:48:09	][IC] the.. the.. the.: Aight.
+[17:48:10	]Atle loaded the character 'Beatrice Olmgurt Bulmer'
+[17:48:12	]the.. the.. the. entered observer.
+[17:48:12	]the.. the.. the. exited observer at their location.
+[17:48:14	]Beatrice Olmgurt Bulmer is fully healed.
+[17:48:17	]Beatrice Olmgurt Bulmer entered observer.
+[17:48:18	]Beatrice Olmgurt Bulmer exited observer at their location.
+[17:48:26	][IC] Beatrice Olmgurt Bulmer: Oh.
+[17:48:28	][IC] Beatrice Olmgurt Bulmer: No that didnt work either.
+[17:48:30	][IC] Beatrice Olmgurt Bulmer: Ok its bugged then.
+[17:48:41	][IC] the.. the.. the.: Gimme a moment then i'll just uh.
+[17:48:45	][IC] Beatrice Olmgurt Bulmer: Shall i ask votton to purge all shop / apartment data.
+[17:48:51	][IC] Beatrice Olmgurt Bulmer: We could also try make a new shop.
+[17:48:55	][IC] the.. the.. the.: Try to create shop simplification branch via dev branch.
+[17:49:00	][IC] the.. the.. the.: No.
+[17:49:02	][IC] Beatrice Olmgurt Bulmer: Ok.
+[17:49:15	][IC] the.. the.. the.: It works completely wrong lol.
+[17:49:47	][IC] Beatrice Olmgurt Bulmer: Weird.
+[17:53:29	][IC] the.. the.. the.: Done.
+[17:53:33	][IC] Beatrice Olmgurt Bulmer: O.
+[17:53:42	][IC] Beatrice Olmgurt Bulmer: Ok.
+[17:53:49	][IC] Beatrice Olmgurt Bulmer: I will get votton to switch to that branch.
+[17:53:51	][IC] Beatrice Olmgurt Bulmer: Then i will let you know.
+[17:53:57	][IC] Beatrice Olmgurt Bulmer: He is offline atm.
+[17:54:22	][IC] Beatrice Olmgurt Bulmer: Did you find what was wrong?
+[17:54:26	][IC] the.. the.. the.: Its strange af still!! I can show u a demo in discord with stuff that should work working..
+[17:54:39	][IC] the.. the.. the.: Yeah i probably know whats wrong with UI stuff in civ terminal.
+[17:54:56	][IC] Beatrice Olmgurt Bulmer: Ok i will ask votton to switch then.
+[17:55:04	][IC] Beatrice Olmgurt Bulmer: Then i will let you know when its good to test again.
+[17:55:06	][IC] the.. the.. the.: And i know why it didnt assigned u when u was a tenant in apartment.
+[17:55:11	][IC] Beatrice Olmgurt Bulmer: Nice!
+[17:55:13	][IC] the.. the.. the.: BUT.
+[17:55:16	][IC] the.. the.. the.: The other things are.
+[17:55:19	][IC] the.. the.. the.: Completely wrong lmao.
+[17:55:22	]the.. the.. the. entered observer.
+[17:55:22	]the.. the.. the. exited observer at their location.
+[17:55:22	]the.. the.. the. entered observer.
+[17:55:23	]the.. the.. the. exited observer at their location.
+[17:55:27	][IC] Beatrice Olmgurt Bulmer: Hmm.
+[17:55:33	]the.. the.. the. used command '/ActPant'.
+[17:55:34	][IC] Beatrice Olmgurt Bulmer: Well i wil lask him to purge shop / aparmtent data too.
+[17:55:35	]the.. the.. the. used command '/ExitAct'.
+[17:55:43	][IC] Beatrice Olmgurt Bulmer: Then we got a fully clean setup.
+[17:56:00	][IC] the.. the.. the.: Still if u want i can launch a demo in discord just for u to see how its working!!
+[17:56:02	]the.. the.. the. entered observer.
+[17:56:03	]the.. the.. the. exited observer at their location.
+[17:56:13	][IC] Beatrice Olmgurt Bulmer: Oh no need.
+[17:56:20	][IC] Beatrice Olmgurt Bulmer: Is all good!
+[17:56:25	][IC] Beatrice Olmgurt Bulmer: Ill talk to votton will let you know when i know more :D.
+[17:56:31	][IC] the.. the.. the.: Aaaalright!!!
+[17:56:34	][IC] Beatrice Olmgurt Bulmer: Ty!!
+[17:56:38	]Atle (STEAM_0:0:21027108) has disconnected.
+[17:56:43	]apathy is death (STEAM_0:1:210259346) has disconnected.
+[18:04:53	]apathy is death has connected.
+[18:09:51	]apathy is death loaded the character 'the.. the.. the.'
+[18:14:31	]Atle has connected.
+[18:16:17	]Atle loaded the character 'shop employee'
+[18:16:29	][IC] shop employee: Herro i am shop employee.
+[18:16:30	]shop employee used command '/ID'.
+[18:17:16	][IC] the.. the.. the.: Nice.
+[18:17:21	][IC] the.. the.. the.: Noww.
+[18:17:30	][IC] the.. the.. the.: U have blank permits right??
+[18:17:31	][IC] the.. the.. the.: No permits.
+[18:17:35	][IC] shop employee: Let me see.
+[18:17:46	][IC] shop employee: Yes.
+[18:17:47	][IC] shop employee: No permits.
+[18:17:52	][IC] the.. the.. the.: Check it out now.
+[18:18:01	][IC] the.. the.. the.: U should have no permits.
+[18:18:06	][IC] shop employee: I have no permits.
+[18:18:17	][IC] the.. the.. the.: Ok theeeen.
+[18:18:26	][IC] the.. the.. the.: Check it out now.
+[18:18:30	][IC] shop employee: Ok.
+[18:18:50	][IC] shop employee: No permits.
+[18:19:33	][IC] the.. the.. the.: Check out the console.
+[18:19:37	][IC] the.. the.. the.: What does it says?
+[18:19:47	][IC] shop employee: Ah yes error.
+[18:20:19	][IC] the.. the.. the.: What the fuck.
+[18:20:24	][IC] the.. the.. the.: Ok then.
+[18:20:24	][IC] shop employee: XD.
+[18:20:45	][IC] the.. the.. the.: Try to send this.
+[18:20:46	][IC] the.. the.. the.: In ur.
+[18:20:49	][IC] shop employee: In server console?
+[18:20:49	][IC] the.. the.. the.: Server console.
+[18:20:52	][IC] shop employee: Ok.
+[18:20:53	][IC] the.. the.. the.: And send me what it replies.
+[18:21:19	][IC] shop employee: Oh.
+[18:21:21	][IC] shop employee: It gave so much.
+[18:21:25	][IC] the.. the.. the.: Yeah.
+[18:21:25	][IC] shop employee: I cant send it all ol.
+[18:21:30	][IC] shop employee: Uhh.
+[18:21:50	][IC] shop employee: Its too much for the window.
+[18:21:57	][IC] shop employee: It doesnt show me all of it.
+[18:22:02	][IC] the.. the.. the.: Oh lol then.
+[18:22:07	][IC] the.. the.. the.: Theeen.
+[18:22:11	][IC] the.. the.. the.: Gimme a moment.
+[18:22:40	][IC] the.. the.. the.: Try this.
+[18:22:44	][IC] shop employee: Ok.
+[18:22:58	][IC] shop employee: Sent.
+[18:23:54	]shop employee used command '/ID'.
+[18:31:09	]shop employee ran SAM command 'menu' with arguments: ''
+[18:31:17	]shop employee ran SAM command 'setrankid' with arguments: 'STEAM_0:1:210259346' 'superadmin'
+[18:31:23	]the.. the.. the. entered observer.
+[18:31:24	]the.. the.. the. exited observer at their location.
+[18:31:42	]Console ran SAM command 'setrank' with arguments: 'the' 'superadmin'
+[18:33:44	]the.. the.. the. entered observer.
+[18:33:44	]the.. the.. the. exited observer at their location.
+[18:40:32	][IC] the.. the.. the.: A̸͚̮̺̼͉͛͗́̄̚͜Ō̵͇͝U̶̖̯͖͖̥͈̬̾A̷̙̮̲̪̬͓̩̓͂̐̒̍̂̈̆̈̒O̸̫͓̟̲͈̱͍̩͌̚͘͜Ứ̴̛͍͇̣̪̪͉̉̈͊̆̀̊Á̶̧̛̠͈̞͙ͅÕ̸̧̡̝̭̺̺̅̈́̎̚̕̚Ü̶̳̜̪̺̞̞̰̜̈́̽́̀Á̸̡̲̭̦͔̖̳̂́͌O̸A.
+[18:40:36	][IC] the.. the.. the.: Its so cursed.
+[18:40:42	][IC] shop employee: Lol.
+[18:40:59	]the.. the.. the. used command '/RemoveApartment shop-3'.
+[18:41:12	]the.. the.. the. used command '/CreateShop i hate shops'.
+[18:41:22	]the.. the.. the. used command '/SetApartmentDoor i hate shops'.
+[18:41:51	][IC] shop employee: Error.
+[18:41:55	][IC] the.. the.. the.: Yeah ik.
+[18:42:00	][IC] the.. the.. the.: Its the same stuff with generic data.
+[18:42:02	][IC] the.. the.. the.: But WHY.
+[18:42:13	][IC] the.. the.. the.: Άόùάόùάόùάόάùόάùόάùόάùάόάùό.
+[18:42:46	][IC] the.. the.. the.: Something is breaking it.
+[18:42:51	][IC] shop employee: Hm.
+[18:42:54	][IC] the.. the.. the.: I dont know why and how but probably yeah i'll ask fruity..
+[18:42:58	][IC] shop employee: Yes.
+[18:43:01	][IC] shop employee: Send message to fruity.
+[18:43:08	][IC] shop employee: He usually answers within the day.
+[18:43:18	][IC] shop employee: Ty!! We are close.
+[18:43:20	][IC] shop employee: We just need that one thing.
+[18:44:08	][IC] the.. the.. the.: Well if we dont count this setup shitfuck stuff that somehow breaks functions that MUST be working then yeah there's only few simple fixes and features left.
+[18:44:19	]the.. the.. the. used command '/CharFallOver'.
+[18:44:20	][IC] shop employee: Yes!
+[18:44:23	]the.. the.. the. used command '/CharGetUp'.
+[18:44:24	]the.. the.. the. used command '/CharGetUp'.
+[18:44:24	]the.. the.. the. used command '/CharGetUp'.
+[18:44:26	][IC] shop employee: Almost there.
+[18:44:26	][IC] shop employee: :D.
+[18:44:35	]the.. the.. the. used command '/ActArrest'.
+[18:44:36	]the.. the.. the. used command '/ExitAct'.
+[18:44:38	][IC] shop employee: Let me know how it goes with fruity!
+[18:44:39	]the.. the.. the. used command '/ActSit'.
+[18:44:41	]the.. the.. the. used command '/ExitAct'.
+[18:44:44	][IC] the.. the.. the.: Alright!!!!!!
+[18:44:55	][IC] shop employee: Hmm.
+[18:45:17	][IC] shop employee: Do you know if.
+[18:45:32	][IC] the.. the.. the.: Hm?
+[18:45:46	][IC] shop employee: I sent on discord trlololol.
+[18:46:44	]Atle (STEAM_0:0:21027108) has disconnected.
+[18:47:11	]apathy is death (STEAM_0:1:210259346) has disconnected.

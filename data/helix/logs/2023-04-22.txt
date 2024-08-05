@@ -1,0 +1,2450 @@
+[02:35:45	]Fractures has connected.
+[02:36:27	]Taliazure has connected.
+[02:36:35	]Fractures loaded the character 'Crash test dummy'
+[02:36:53	]Crash test dummy ran 'drop' on item 'Vortigaunt Fedora' (#1651193)
+[02:36:53	]Crash test dummy has lost a 'Vortigaunt Fedora' #1651193.
+[02:36:58	]Crash test dummy ran 'Equip' on item 'G3' (#1652222)
+[02:37:03	]Crash test dummy ran 'use' on item 'Health Syringe' (#1652293)
+[02:37:03	]Crash test dummy has performed the 'Use Health Syringe' action, gaining 40 experience in medicine.
+[02:37:03	]Crash test dummy tried to disinfect Crash test dummy but the wound was already clean.
+[02:37:03	]Crash test dummy was bandaged by Crash test dummy for 32 HP.
+[02:37:13	]Crash test dummy used command '/ToggleRaise'.
+[02:37:16	]Crash test dummy used command '/ToggleRaise'.
+[02:37:33	]Crash test dummy used the 'John Doe' vendor.
+[02:37:36	]Crash test dummy has gained 0 chips.
+[02:37:36	]Crash test dummy has gained a 'Rifle Bullets' #1655616.
+[02:37:36	]Crash test dummy has gained 0 chips.
+[02:37:36	]Crash test dummy has gained a 'Rifle Bullets' #1655617.
+[02:37:37	]Crash test dummy has gained 0 chips.
+[02:37:37	]Crash test dummy has gained a 'Rifle Bullets' #1655618.
+[02:37:39	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652267)
+[02:37:39	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652268)
+[02:37:40	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652266)
+[02:37:41	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652269)
+[02:37:42	]Crash test dummy used the 'John Doe' vendor.
+[02:37:58	]Crash test dummy ran 'drop' on item 'G3' (#1652222)
+[02:37:58	]Crash test dummy has lost a 'G3' #1652222.
+[02:37:59	]Crash test dummy ran 'drop' on item 'Repair Plating' (#1652292)
+[02:37:59	]Crash test dummy has lost a 'Repair Plating' #1652292.
+[02:37:59	]Crash test dummy ran 'drop' on item '20rnd DMR-magazine' (#1652267)
+[02:37:59	]Crash test dummy has lost a '20rnd DMR-magazine' #1652267.
+[02:38:00	]Crash test dummy ran 'drop' on item 'Flashlight' (#1652205)
+[02:38:00	]Crash test dummy has lost a 'Flashlight' #1652205.
+[02:38:00	]Crash test dummy ran 'drop' on item 'Combine PDA' (#1652279)
+[02:38:00	]Crash test dummy has lost a 'Combine PDA' #1652279.
+[02:38:05	]Crash test dummy ran 'use' on item 'Dark Pills' (#1652310)
+[02:38:05	]Crash test dummy has gained a level 7 short boost in Strength.
+[02:38:05	]Crash test dummy has gained a level 7 short boost in Agility.
+[02:38:05	]Crash test dummy has gained a level 7 short boost in Intelligence.
+[02:38:05	]Crash test dummy has gained a level 7 short boost in Perception.
+[02:38:06	]Crash test dummy used the 'John Doe' vendor.
+[02:38:11	]Taliazure loaded the character 'S10/WALLHAMMER.ICE-20'
+[02:38:12	]Crash test dummy has gained 0 chips.
+[02:38:12	]Crash test dummy has gained a 'OSPR2A-EXP' #1655619.
+[02:38:16	]Crash test dummy ran 'Equip' on item 'OSPR2A-EXP' (#1655619)
+[02:38:20	]Crash test dummy used command '/ToggleRaise'.
+[02:38:23	]Crash test dummy used the 'John Doe' vendor.
+[02:38:37	]Crash test dummy has gained 0 chips.
+[02:38:37	]Crash test dummy has gained a '30rnd Pulse-magazine' #1655620.
+[02:38:41	]Crash test dummy has gained 0 chips.
+[02:38:41	]Crash test dummy has gained a 'Pulse Rifle Bullets' #1655621.
+[02:38:43	]Crash test dummy ran 'combine' on item '30rnd Pulse-magazine' (#1655620)
+[02:38:45	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'OSITR' (#1652321)
+[02:38:47	]S10/WALLHAMMER.ICE-20 has lost a '60rnd OTAR-magazine' #1652322.
+[02:38:50	]Crash test dummy ran 'drop' on item '30rnd Pulse-magazine' (#1655620)
+[02:38:50	]Crash test dummy has lost a '30rnd Pulse-magazine' #1655620.
+[02:38:51	]Crash test dummy used the 'John Doe' vendor.
+[02:38:53	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[02:38:55	]Crash test dummy has gained 0 chips.
+[02:38:55	]Crash test dummy has gained a 'Pulse Rifle Bullets' #1655622.
+[02:38:56	]Crash test dummy has gained 0 chips.
+[02:38:56	]Crash test dummy has gained a '24rnd Heavy-Pulse Magazine' #1655623.
+[02:38:57	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[02:39:01	]Crash test dummy used the 'John Doe' vendor.
+[02:39:04	]S10/WALLHAMMER.ICE-20 ran SAM command 'asay' with arguments: 'need a Tp'
+[02:39:05	]Crash test dummy has gained 0 chips.
+[02:39:05	]Crash test dummy has gained a 'Heavy Pulse Rounds' #1655624.
+[02:39:08	]Crash test dummy ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#1655623)
+[02:39:09	]Crash test dummy has lost a '24rnd Heavy-Pulse Magazine' #1655623.
+[02:39:12	]S10/WALLHAMMER.ICE-20 used command '/Radio sup'.
+[02:39:20	]S10/WALLHAMMER.ICE-20 ran 'take' on item 'Frag Grenade' (#1655590)
+[02:39:20	]S10/WALLHAMMER.ICE-20 has gained a 'Frag Grenade' #1655590.
+[02:39:31	]Crash test dummy ran 'removeMag' on item 'OSPR2A-EXP' (#1655619)
+[02:39:31	]Crash test dummy has gained a '24rnd Heavy-Pulse Magazine' #1655623.
+[02:39:32	]Crash test dummy ran 'EquipUn' on item 'OSPR2A-EXP' (#1655619)
+[02:39:33	]Crash test dummy used the 'John Doe' vendor.
+[02:39:36	]Crash test dummy has gained 0 chips.
+[02:39:37	]Crash test dummy has gained 0 chips.
+[02:39:39	]Crash test dummy has gained 0 chips.
+[02:39:40	]Crash test dummy has gained 0 chips.
+[02:39:41	]Crash test dummy has gained 0 chips.
+[02:39:44	]S10/WALLHAMMER.ICE-20 ran 'take' on item 'H&K P2000' (#1652787)
+[02:39:44	]S10/WALLHAMMER.ICE-20 has gained a 'H&K P2000' #1652787.
+[02:39:44	]Crash test dummy ran 'drop' on item 'Pulse Rifle Bullets' (#1655622)
+[02:39:44	]Crash test dummy has lost a 'Pulse Rifle Bullets' #1655622.
+[02:39:46	]Crash test dummy ran 'take' on item 'G3' (#1652222)
+[02:39:46	]Crash test dummy has gained a 'G3' #1652222.
+[02:39:49	]Crash test dummy ran 'take' on item '20rnd DMR-magazine' (#1652267)
+[02:39:49	]Crash test dummy has gained a '20rnd DMR-magazine' #1652267.
+[02:39:50	]Crash test dummy ran 'take' on item 'Combine PDA' (#1652279)
+[02:39:50	]Crash test dummy has gained a 'Combine PDA' #1652279.
+[02:39:51	]Crash test dummy ran 'take' on item 'Repair Plating' (#1652292)
+[02:39:51	]Crash test dummy has gained a 'Repair Plating' #1652292.
+[02:39:52	]Crash test dummy ran 'take' on item 'Flashlight' (#1652205)
+[02:39:52	]Crash test dummy has gained a 'Flashlight' #1652205.
+[02:39:53	]Crash test dummy used the 'John Doe' vendor.
+[02:39:57	]Crash test dummy ran 'Equip' on item 'G3' (#1652222)
+[02:39:59	]Crash test dummy ran 'combine' on item 'Health Syringe' (#1652293)
+[02:40:02	]Crash test dummy used the 'John Doe' vendor.
+[02:40:08	]S10/WALLHAMMER.ICE-20 has taken 5 damage from Alien Grunt.
+[02:40:08	]S10/WALLHAMMER.ICE-20 has taken 5 damage from Alien Grunt.
+[02:40:08	]S10/WALLHAMMER.ICE-20 has taken 5 damage from Alien Grunt.
+[02:40:09	]S10/WALLHAMMER.ICE-20 has taken 5 damage from Alien Grunt.
+[02:40:09	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[02:40:09	]S10/WALLHAMMER.ICE-20 has taken 5 damage from Alien Grunt.
+[02:40:09	]Crash test dummy has gained 0 chips.
+[02:40:09	]Crash test dummy has gained a 'Rifle Bullets' #1655625.
+[02:40:09	]Crash test dummy has gained 0 chips.
+[02:40:10	]Crash test dummy has gained a 'Rifle Bullets' #1655626.
+[02:40:10	]S10/WALLHAMMER.ICE-20 has taken 5 damage from Alien Grunt.
+[02:40:10	]S10/WALLHAMMER.ICE-20 has taken 5 damage from Alien Grunt.
+[02:40:10	]Crash test dummy has gained 0 chips.
+[02:40:10	]Crash test dummy has gained a 'Rifle Bullets' #1655627.
+[02:40:14	]S10/WALLHAMMER.ICE-20 has critically hit npc_vj_hlr1_aliengrunt in the head dealing 15 damage (CritChance was 1.01).
+[02:40:14	]S10/WALLHAMMER.ICE-20 has critically hit npc_vj_hlr1_aliengrunt in the head dealing 15 damage (CritChance was 1.01).
+[02:40:15	]Crash test dummy used the 'John Doe' vendor.
+[02:40:20	]S10/WALLHAMMER.ICE-20 has critically hit npc_vj_hlr1_aliengrunt in the head dealing 15 damage (CritChance was 1.01).
+[02:40:20	]S10/WALLHAMMER.ICE-20 has critically hit npc_vj_hlr1_aliengrunt in the head dealing 10 damage (CritChance was 1.01).
+[02:40:22	]Crash test dummy has gained 0 chips.
+[02:40:22	]Crash test dummy has gained a 'Flash Grenade' #1655628.
+[02:40:31	]Crash test dummy has warped from Rebels - Box to Rebels - Slums.
+[02:40:40	]Crash test dummy used command '/ToggleRaise'.
+[02:40:49	]S10/WALLHAMMER.ICE-20 used command '/PM STEAM_0:1:2921822 need a TP'.
+[02:40:56	]S10/WALLHAMMER.ICE-20 has critically hit npc_vj_hlr1_gman dealing 14 damage (CritChance was 1.01).
+[02:40:57	]Crash test dummy used command '/Reply where are you?'.
+[02:41:01	]S10/WALLHAMMER.ICE-20 used command '/PM STEAM_0:1:2921822 Nexus'.
+[02:41:04	]S10/WALLHAMMER.ICE-20 has critically hit npc_vj_hlr1_gman dealing 0 damage (CritChance was 1.01).
+[02:41:04	]S10/WALLHAMMER.ICE-20 has critically hit npc_vj_hlr1_gman dealing 14 damage (CritChance was 1.01).
+[02:41:04	]S10/WALLHAMMER.ICE-20 has critically hit npc_vj_hlr1_gman dealing 14 damage (CritChance was 1.01).
+[02:41:04	]S10/WALLHAMMER.ICE-20 has critically hit npc_vj_hlr1_gman dealing 14 damage (CritChance was 1.01).
+[02:41:04	]S10/WALLHAMMER.ICE-20 has critically hit npc_vj_hlr1_gman dealing 14 damage (CritChance was 1.01).
+[02:41:04	]S10/WALLHAMMER.ICE-20 has critically hit npc_vj_hlr1_gman dealing 14 damage (CritChance was 1.01).
+[02:41:04	]S10/WALLHAMMER.ICE-20 has critically hit npc_vj_hlr1_gman dealing 14 damage (CritChance was 1.01).
+[02:41:05	]S10/WALLHAMMER.ICE-20 has critically hit npc_vj_hlr1_gman dealing 14 damage (CritChance was 1.01).
+[02:41:05	]S10/WALLHAMMER.ICE-20 has critically hit npc_vj_hlr1_gman dealing 14 damage (CritChance was 1.01).
+[02:41:06	]S10/WALLHAMMER.ICE-20 has critically hit npc_vj_hlr1_gman dealing 14 damage (CritChance was 1.01).
+[02:41:07	]Crash test dummy used command '/Reply come to slums'.
+[02:41:12	]Crash test dummy has warped from Rebels - Slums to Rebels - Box.
+[02:41:16	]S10/WALLHAMMER.ICE-20 is fully healed.
+[02:41:22	]Crash test dummy has warped from Rebels - Box to Rebels - Slums.
+[02:41:29	]Crash test dummy ran 'use' on item 'Health Syringe' (#1652293)
+[02:41:29	]Crash test dummy has performed the 'Use Health Syringe' action, gaining 41 experience in medicine.
+[02:41:29	]Crash test dummy was disinfected by Crash test dummy for 198 seconds.
+[02:41:29	]Crash test dummy was bandaged by Crash test dummy for 45 HP.
+[02:41:31	]Crash test dummy ran 'Equip' on item 'Flash Grenade' (#1655628)
+[02:41:32	]Crash test dummy used command '/ToggleRaise'.
+[02:42:30	]Crash test dummy has taken 60 damage from S10/WALLHAMMER.ICE-20.
+[02:42:33	][IC] S10/WALLHAMMER.ICE-20: Sup.
+[02:42:38	][LOOC] Crash test dummy: YOU'RE NOT A WALLHAMMER..
+[02:42:43	]Crash test dummy used command '/ToggleRaise'.
+[02:42:49	]Crash test dummy has lost a '20rnd DMR-magazine' #1652268.
+[02:42:50	]Crash test dummy has taken 60 damage from S10/WALLHAMMER.ICE-20.
+[02:43:02	]Crash test dummy has warped from Rebels - Slums to Rebels - Box.
+[02:43:06	]S10/WALLHAMMER.ICE-20 has warped from Rebels - Slums to Rebels - Box.
+[02:43:07	]Crash test dummy has gained a '20rnd DMR-magazine' #1652268.
+[02:43:07	]Crash test dummy has lost a '20rnd DMR-magazine' #1652267.
+[02:43:15	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the stomach dealing 0 damage (CritChance was 0.85).
+[02:43:15	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left arm dealing 9 damage (CritChance was 0.85).
+[02:43:15	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[02:43:15	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left arm dealing 9 damage (CritChance was 0.94).
+[02:43:15	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[02:43:15	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.94).
+[02:43:15	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[02:43:16	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the right arm dealing 9 damage (CritChance was 0.94).
+[02:43:16	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[02:43:16	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.94).
+[02:43:16	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[02:43:16	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the head dealing 36 damage (CritChance was 0.94).
+[02:43:16	]S10/WALLHAMMER.ICE-20 was knocked unconscious and is bleeding out.
+[02:43:21	][IC] S10/WALLHAMMER.ICE-20: Ahn.
+[02:43:25	]Crash test dummy used command '/Reply YOU KILLED THE VENDOR'.
+[02:43:28	][IC] S10/WALLHAMMER.ICE-20: HAHAHA.
+[02:43:34	]Crash test dummy has gained a '20rnd DMR-magazine' #1652267.
+[02:43:34	]Crash test dummy has lost a '20rnd DMR-magazine' #1652266.
+[02:43:35	]S10/WALLHAMMER.ICE-20 was just killed due to: accepting their death
+[02:43:57	][LOOC] Crash test dummy: I wanna test my damage vs OTA kevlar
+[02:44:01	]S10/WALLHAMMER.ICE-20 used the 'John Doe' vendor.
+[02:44:04	]Crash test dummy has gained a '20rnd DMR-magazine' #1652266.
+[02:44:04	]Crash test dummy has lost a '20rnd DMR-magazine' #1652269.
+[02:44:05	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[02:44:05	]S10/WALLHAMMER.ICE-20 has gained a 'Containment Uniform' #1655629.
+[02:44:06	]Crash test dummy ran 'use' on item 'Health Syringe' (#1652293)
+[02:44:06	]Crash test dummy has performed the 'Use Health Syringe' action, gaining 46 experience in medicine.
+[02:44:06	]Crash test dummy was disinfected by Crash test dummy for 198 seconds.
+[02:44:06	]Crash test dummy was bandaged by Crash test dummy for 45 HP.
+[02:44:09	]Crash test dummy ran 'Repair' on item 'CP Rank Leader Uniform' (#1652265)
+[02:44:13	][IC] S10/WALLHAMMER.ICE-20: <:: Yep. ::>
+[02:44:18	][IC] S10/WALLHAMMER.ICE-20: <:: Hehehe, friend game effective. ::>
+[02:44:22	]Crash test dummy has changed Crash test dummy's bodygroups.
+[02:44:25	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 dealing 34 damage (CritChance was 0.23).
+[02:44:25	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[02:44:25	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 dealing 21 damage (CritChance was 0.23).
+[02:44:25	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:44:26	]S10/WALLHAMMER.ICE-20 is fully healed.
+[02:44:26	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 dealing 21 damage (CritChance was 0.23).
+[02:44:26	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:44:27	][IC] S10/WALLHAMMER.ICE-20: <:: You can come out now. ::>
+[02:44:29	][IC] S10/WALLHAMMER.ICE-20: <:: Come out. ::>
+[02:44:31	]S10/WALLHAMMER.ICE-20 is fully healed.
+[02:44:35	][IC] Crash test dummy: Wow.. Still hits for a good amount.
+[02:44:38	][IC] S10/WALLHAMMER.ICE-20: <:: You can come out now! ::>
+[02:44:40	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 dealing 21 damage (CritChance was 0.23).
+[02:44:40	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:44:40	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 dealing 21 damage (CritChance was 0.23).
+[02:44:40	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:44:40	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 dealing 34 damage (CritChance was 0.94).
+[02:44:40	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[02:44:40	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 dealing 34 damage (CritChance was 0.94).
+[02:44:40	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[02:44:40	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 dealing 34 damage (CritChance was 0.94).
+[02:44:40	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[02:44:41	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 dealing 34 damage (CritChance was 0.94).
+[02:44:41	]S10/WALLHAMMER.ICE-20 was knocked unconscious and is bleeding out.
+[02:44:44	][IC] S10/WALLHAMMER.ICE-20: <:: **Heavy Breathing**. ::>
+[02:44:52	]Crash test dummy ran 'give' on item 'Health Syringe' (#1652293)
+[02:44:52	]Crash test dummy has performed the 'Use Health Syringe' action, gaining 46 experience in medicine.
+[02:44:52	]S10/WALLHAMMER.ICE-20 was disinfected by Crash test dummy for 198 seconds.
+[02:44:52	]S10/WALLHAMMER.ICE-20's bleeding was stopped by Crash test dummy.
+[02:44:52	]S10/WALLHAMMER.ICE-20 was bandaged by Crash test dummy for 45 HP.
+[02:44:54	]Crash test dummy used the 'John Doe' vendor.
+[02:45:03	][IC] S10/WALLHAMMER.ICE-20: <:: Haha. ::>
+[02:45:07	][IC] S10/WALLHAMMER.ICE-20: <:: APF. ::>
+[02:45:10	]Crash test dummy used the 'John Doe' vendor.
+[02:45:10	][IC] S10/WALLHAMMER.ICE-20: <:: Yep. ::>
+[02:45:14	]Crash test dummy has gained 0 chips.
+[02:45:14	]Crash test dummy has gained a 'Flash Grenade' #1655630.
+[02:45:15	]Crash test dummy has gained 0 chips.
+[02:45:15	]Crash test dummy has gained a 'Flash Grenade' #1655631.
+[02:45:15	][IC] S10/WALLHAMMER.ICE-20: <:: Expiring. ::>
+[02:45:15	]Crash test dummy has gained 0 chips.
+[02:45:16	]Crash test dummy has gained a 'Flash Grenade' #1655632.
+[02:45:18	]Crash test dummy ran 'Equip' on item 'Flash Grenade' (#1655632)
+[02:45:20	]Crash test dummy used the 'John Doe' vendor.
+[02:45:20	][IC] S10/WALLHAMMER.ICE-20: <:: Help. ::>
+[02:45:23	]Crash test dummy has gained 0 chips.
+[02:45:23	]Crash test dummy has gained a 'Flash Grenade' #1655633.
+[02:45:27	][IC] S10/WALLHAMMER.ICE-20: <:: I have stuff. ::>
+[02:45:28	]Crash test dummy used command '/Reply Wanna play a game?'.
+[02:45:28	][IC] S10/WALLHAMMER.ICE-20: <:: On me. ::>
+[02:45:33	][LOOC] Crash test dummy: Wanna play a game?
+[02:45:35	][IC] S10/WALLHAMMER.ICE-20: <:: Let's test OWS. ::>
+[02:45:35	]Crash test dummy used command '/ToggleRaise'.
+[02:45:44	][IC] S10/WALLHAMMER.ICE-20: <:: Get me up. ::>
+[02:45:45	][LOOC] Crash test dummy: its called flash
+[02:45:52	][IC] S10/WALLHAMMER.ICE-20: <:: DOesn't work on me. ::>
+[02:45:52	]Crash test dummy ran 'Equip' on item 'Flash Grenade' (#1655630)
+[02:45:53	]Crash test dummy used command '/ToggleRaise'.
+[02:45:54	][IC] S10/WALLHAMMER.ICE-20: <:: Haha. ::>
+[02:45:55	][IC] S10/WALLHAMMER.ICE-20: <:: Haha. ::>
+[02:45:57	][IC] S10/WALLHAMMER.ICE-20: <:: Haha. ::>
+[02:46:02	]S10/WALLHAMMER.ICE-20 was knocked unconscious and is bleeding out.
+[02:46:08	][IC] S10/WALLHAMMER.ICE-20: <:: I hate these things. ::>
+[02:46:20	][IC] Crash test dummy: This is bullshit!
+[02:46:22	]S10/WALLHAMMER.ICE-20 was just killed due to: accepting their death
+[02:46:25	][IC] S10/WALLHAMMER.ICE-20: <:: Yep. ::>
+[02:46:29	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'OSITR' (#1652321)
+[02:46:29	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[02:46:37	][IC] Crash test dummy: So which armor?
+[02:46:38	]S10/WALLHAMMER.ICE-20 ran 'drop' on item 'Containment Uniform' (#1655629)
+[02:46:38	]S10/WALLHAMMER.ICE-20 has lost a 'Containment Uniform' #1655629.
+[02:46:39	]S10/WALLHAMMER.ICE-20 used the 'John Doe' vendor.
+[02:46:44	]Crash test dummy has gained a '20rnd DMR-magazine' #1652269.
+[02:46:44	]Crash test dummy has lost a '20rnd DMR-magazine' #1652266.
+[02:46:47	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[02:46:47	]S10/WALLHAMMER.ICE-20 has gained a 'OTA Uniform' #1655634.
+[02:46:52	][IC] S10/WALLHAMMER.ICE-20: <:: Yep. ::>
+[02:46:53	]Crash test dummy used command '/ToggleRaise'.
+[02:46:56	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.23).
+[02:46:56	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:46:56	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.23).
+[02:46:56	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:46:56	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.23).
+[02:46:56	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:46:57	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.23).
+[02:46:57	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:46:57	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.23).
+[02:46:57	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:46:57	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.23).
+[02:46:57	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:46:57	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.23).
+[02:46:57	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[02:46:57	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.94).
+[02:46:57	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[02:46:57	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.94).
+[02:46:57	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[02:47:12	][IC] Crash test dummy: What's your armor look like?
+[02:47:16	][IC] S10/WALLHAMMER.ICE-20: <:: 72 hp 0 armor. ::>
+[02:47:21	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.94).
+[02:47:21	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[02:47:22	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.94).
+[02:47:22	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[02:47:26	][IC] S10/WALLHAMMER.ICE-20: <:: 4 hp. ::>
+[02:47:38	][IC] Crash test dummy: So 10 shots almost nukes an OTA..
+[02:47:49	][IC] Crash test dummy: Getting the jump on a squad isn't half bad for damage by the looks of it..
+[02:47:54	]Crash test dummy used command '/ToggleRaise'.
+[02:47:57	][IC] S10/WALLHAMMER.ICE-20: <:: Yep. ::>
+[02:48:01	][IC] S10/WALLHAMMER.ICE-20: <:: Missed! ::>
+[02:48:01	]Crash test dummy ran 'Equip' on item 'Flash Grenade' (#1655633)
+[02:48:02	]Crash test dummy used command '/ToggleRaise'.
+[02:48:09	][IC] S10/WALLHAMMER.ICE-20: <:: Missed! ::>
+[02:48:10	]Crash test dummy ran 'Equip' on item 'Flash Grenade' (#1655631)
+[02:48:12	][IC] S10/WALLHAMMER.ICE-20: <:: Haha, hostile is scrambled. ::>
+[02:48:13	]Crash test dummy used command '/ToggleRaise'.
+[02:48:15	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.94).
+[02:48:15	]S10/WALLHAMMER.ICE-20 has gained a '60rnd OTAR-magazine' #1652322.
+[02:48:15	]S10/WALLHAMMER.ICE-20 was knocked unconscious and is bleeding out.
+[02:48:15	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[02:48:17	][IC] S10/WALLHAMMER.ICE-20: <:: Hoe. ::>
+[02:48:19	][IC] Crash test dummy: Ha.. Didn't miss.
+[02:48:27	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652268)
+[02:48:28	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652267)
+[02:48:28	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652269)
+[02:48:29	]Crash test dummy ran 'combine' on item 'Rifle Bullets' (#1655627)
+[02:48:30	]Crash test dummy ran 'combine' on item 'Rifle Bullets' (#1655627)
+[02:48:31	]Crash test dummy has gained a '20rnd DMR-magazine' #1652266.
+[02:48:31	]Crash test dummy has lost a '20rnd DMR-magazine' #1652269.
+[02:48:31	]S10/WALLHAMMER.ICE-20 was just killed due to: accepting their death
+[02:48:39	][LOOC] Crash test dummy: try marshmellow
+[02:48:42	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652266)
+[02:48:42	]Taliazure loaded the character 'ELputo loco'
+[02:48:43	]Crash test dummy has gained a '20rnd DMR-magazine' #1652269.
+[02:48:43	]Crash test dummy has lost a '20rnd DMR-magazine' #1652268.
+[02:48:51	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652269)
+[02:49:00	]Crash test dummy has taken 15 damage from ELputo loco.
+[02:49:00	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:00	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:00	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:01	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:01	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:01	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:01	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:01	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:02	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:02	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:02	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:02	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:02	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:03	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:03	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:03	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:03	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:03	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:04	]ELputo loco used command '/ToggleRaise'.
+[02:49:04	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:04	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:04	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:04	]Crash test dummy has critically hit ELputo loco dealing 34 damage (CritChance was 0.94).
+[02:49:04	]ELputo loco has taken 34 damage from Crash test dummy.
+[02:49:04	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:04	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:05	]Crash test dummy destroyed a 'Abzats Heavy Shotgun' #1655499.
+[02:49:05	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:05	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:05	]Crash test dummy has critically hit ELputo loco dealing 34 damage (CritChance was 0.94).
+[02:49:05	]ELputo loco has taken 34 damage from Crash test dummy.
+[02:49:05	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:05	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:05	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:06	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:06	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:06	]Crash test dummy has gained a '20rnd DMR-magazine' #1652268.
+[02:49:06	]Crash test dummy has lost a '20rnd DMR-magazine' #1652269.
+[02:49:06	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:06	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:06	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:07	]Crash test dummy has taken 16 damage from ELputo loco.
+[02:49:07	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:07	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:07	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:07	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:07	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:08	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:08	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:08	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:08	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:08	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:09	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:09	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:09	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:09	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:09	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:10	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:10	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:10	]Crash test dummy has taken 1 damage from entityflame.
+[02:49:10	]Crash test dummy has gained a '20rnd DMR-magazine' #1652269.
+[02:49:10	]Crash test dummy was knocked unconscious and is bleeding out.
+[02:49:10	]ELputo loco has taken 0 damage from entityflame.
+[02:49:10	]ELputo loco has taken 4 damage from entityflame.
+[02:49:11	]ELputo loco has taken 0 damage from entityflame.
+[02:49:14	][IC] ELputo loco: Domed.
+[02:49:26	]ELputo loco used the 'John Doe' vendor.
+[02:49:27	]Crash test dummy used command '/ToggleRaise'.
+[02:49:28	]Crash test dummy has lost a '20rnd DMR-magazine' #1652269.
+[02:49:34	]Crash test dummy used the 'John Doe' vendor.
+[02:49:41	]Crash test dummy has gained 0 chips.
+[02:49:41	]Crash test dummy has gained a 'Rifle Bullets' #1655635.
+[02:49:41	]Crash test dummy has gained 0 chips.
+[02:49:41	]Crash test dummy has gained a 'Rifle Bullets' #1655636.
+[02:49:42	]Crash test dummy has gained a '20rnd DMR-magazine' #1652269.
+[02:49:42	]Crash test dummy has lost a '20rnd DMR-magazine' #1652267.
+[02:49:44	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652268)
+[02:49:45	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652269)
+[02:49:47	]Crash test dummy has gained a '20rnd DMR-magazine' #1652267.
+[02:49:47	]Crash test dummy has lost a '20rnd DMR-magazine' #1652269.
+[02:49:47	]Crash test dummy used command '/ToggleRaise'.
+[02:49:55	]ELputo loco used the 'John Doe' vendor.
+[02:49:58	][IC] Crash test dummy: Can you use the ELITE armor? Marshmellow ppl.
+[02:50:00	]ELputo loco has gained 0 chips.
+[02:50:00	]ELputo loco has gained a 'Flash Grenade' #1655637.
+[02:50:00	]ELputo loco has gained 0 chips.
+[02:50:00	]ELputo loco has gained a 'Flash Grenade' #1655638.
+[02:50:03	]ELputo loco ran 'Equip' on item 'Flash Grenade' (#1655638)
+[02:50:03	]ELputo loco used command '/ToggleRaise'.
+[02:50:11	]ELputo loco ran 'Equip' on item 'Flash Grenade' (#1655637)
+[02:50:12	]ELputo loco used command '/ToggleRaise'.
+[02:50:16	]Crash test dummy used command '/ToggleRaise'.
+[02:50:25	][IC] Crash test dummy: Gong.
+[02:50:27	]Crash test dummy has taken 15 damage from ELputo loco.
+[02:50:27	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:27	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:27	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:28	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:28	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:28	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:28	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:28	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:29	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:29	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:29	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:29	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:29	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:30	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:30	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:30	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:30	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:30	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:31	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:31	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:31	]Crash test dummy has warped from CP - Box to CP - Nexus.
+[02:50:31	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:31	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:31	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:32	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:32	]Crash test dummy has taken 1 damage from entityflame.
+[02:50:32	]Crash test dummy has gained a '20rnd DMR-magazine' #1652269.
+[02:50:32	]Crash test dummy was knocked unconscious and is bleeding out.
+[02:50:45	]Taliazure loaded the character 'S10/WALLHAMMER.ICE-20'
+[02:50:47	]Crash test dummy was just killed due to: accepting their death
+[02:50:54	][IC] S10/WALLHAMMER.ICE-20: <:: Haha. ::>
+[02:50:56	]S10/WALLHAMMER.ICE-20 used the 'John Doe' vendor.
+[02:51:01	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[02:51:01	]S10/WALLHAMMER.ICE-20 has gained a 'OTA Elite Uniform' #1655639.
+[02:51:03	][IC] S10/WALLHAMMER.ICE-20: <:: Haha. ::>
+[02:51:06	]S10/WALLHAMMER.ICE-20 ran 'drop' on item 'OTA Uniform' (#1655634)
+[02:51:06	]S10/WALLHAMMER.ICE-20 has lost a 'OTA Uniform' #1655634.
+[02:51:15	]S10/WALLHAMMER.ICE-20 has changed S10/WALLHAMMER.ICE-20's bodygroups.
+[02:51:16	]Crash test dummy has spawned 'models/props_wasteland/interior_fence002d.mdl'.
+[02:51:22	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'OSITR' (#1652321)
+[02:51:22	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[02:51:24	]S10/WALLHAMMER.ICE-20 has lost a '60rnd OTAR-magazine' #1652322.
+[02:51:34	][IC] S10/WALLHAMMER.ICE-20: <:: Waz good. ::>
+[02:51:34	][Y] Crash test dummy: Forts win wars!
+[02:51:36	]Crash test dummy ran 'Equip' on item 'G3' (#1652222)
+[02:51:37	]Crash test dummy has lost a '20rnd DMR-magazine' #1652269.
+[02:51:41	]Crash test dummy used command '/ToggleRaise'.
+[02:51:41	]S10/WALLHAMMER.ICE-20 ran 'drop' on item 'OSITR' (#1652321)
+[02:51:41	]S10/WALLHAMMER.ICE-20 has lost a 'OSITR' #1652321.
+[02:51:44	]S10/WALLHAMMER.ICE-20 used the 'John Doe' vendor.
+[02:51:49	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[02:51:49	]S10/WALLHAMMER.ICE-20 has gained a 'AR-2' #1655640.
+[02:51:51	]Crash test dummy has spawned 'models/props_wasteland/kitchen_fridge001a.mdl'.
+[02:51:53	]S10/WALLHAMMER.ICE-20 ran 'drop' on item 'Combine PDA' (#1651897)
+[02:51:53	]S10/WALLHAMMER.ICE-20 has lost a 'Combine PDA' #1651897.
+[02:51:53	]S10/WALLHAMMER.ICE-20 ran 'drop' on item 'H&K P2000' (#1652787)
+[02:51:53	]S10/WALLHAMMER.ICE-20 has lost a 'H&K P2000' #1652787.
+[02:51:54	]S10/WALLHAMMER.ICE-20 ran 'drop' on item 'Rifle Bullets' (#1652323)
+[02:51:54	]S10/WALLHAMMER.ICE-20 has lost a 'Rifle Bullets' #1652323.
+[02:51:54	]S10/WALLHAMMER.ICE-20 used the 'John Doe' vendor.
+[02:51:58	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[02:51:58	]S10/WALLHAMMER.ICE-20 has gained a 'Pulse Rifle Bullets' #1655641.
+[02:51:58	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[02:51:58	]S10/WALLHAMMER.ICE-20 has gained a 'Pulse Rifle Bullets' #1655642.
+[02:51:59	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[02:51:59	]S10/WALLHAMMER.ICE-20 has gained a 'Pulse Rifle Bullets' #1655643.
+[02:52:00	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[02:52:00	]S10/WALLHAMMER.ICE-20 has gained a 'Pulse Rifle Bullets' #1655644.
+[02:52:00	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[02:52:00	]S10/WALLHAMMER.ICE-20 has gained a 'Pulse Rifle Bullets' #1655645.
+[02:52:01	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[02:52:01	]S10/WALLHAMMER.ICE-20 has gained a 'Pulse Rifle Bullets' #1655646.
+[02:52:03	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[02:52:03	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655647.
+[02:52:03	]Crash test dummy used command '/ToggleRaise'.
+[02:52:03	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[02:52:03	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655648.
+[02:52:04	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[02:52:04	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655649.
+[02:52:06	]S10/WALLHAMMER.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655647)
+[02:52:06	]S10/WALLHAMMER.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655649)
+[02:52:07	]S10/WALLHAMMER.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655648)
+[02:52:07	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'AR-2' (#1655640)
+[02:52:08	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[02:52:09	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655649.
+[02:52:14	][IC] Crash test dummy: Right, so full armor?
+[02:52:14	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655649.
+[02:52:14	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655648.
+[02:52:16	]Crash test dummy used command '/ToggleRaise'.
+[02:52:17	][IC] S10/WALLHAMMER.ICE-20: <:: Yep. ::>
+[02:52:17	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655648.
+[02:52:17	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655647.
+[02:52:19	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[02:52:19	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:52:20	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[02:52:20	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:52:20	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[02:52:20	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:52:20	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[02:52:20	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:52:20	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[02:52:20	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:52:20	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[02:52:20	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:52:20	]S10/WALLHAMMER.ICE-20 is fully healed.
+[02:52:20	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.21).
+[02:52:20	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[02:52:21	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[02:52:21	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:52:25	]S10/WALLHAMMER.ICE-20 is fully healed.
+[02:52:26	][IC] S10/WALLHAMMER.ICE-20: <:: How do I combine ball? ::>
+[02:52:29	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the head dealing 18 damage (CritChance was 0.21).
+[02:52:29	]S10/WALLHAMMER.ICE-20 has taken 18 damage from Crash test dummy.
+[02:52:30	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the head dealing 18 damage (CritChance was 0.21).
+[02:52:30	]S10/WALLHAMMER.ICE-20 has taken 18 damage from Crash test dummy.
+[02:52:30	]S10/WALLHAMMER.ICE-20 is fully healed.
+[02:52:31	]S10/WALLHAMMER.ICE-20 used the 'John Doe' vendor.
+[02:52:32	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the head dealing 18 damage (CritChance was 0.21).
+[02:52:32	]S10/WALLHAMMER.ICE-20 has taken 18 damage from Crash test dummy.
+[02:52:32	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the head dealing 36 damage (CritChance was 0.21).
+[02:52:32	]S10/WALLHAMMER.ICE-20 has taken 36 damage from Crash test dummy.
+[02:52:35	]S10/WALLHAMMER.ICE-20 is fully healed.
+[02:52:45	][IC] Crash test dummy: Interesting.. Headshots deal less than torso unless it crits.
+[02:52:46	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655647.
+[02:52:46	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655648.
+[02:52:51	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[02:52:51	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:52:51	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[02:52:51	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:52:52	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.84).
+[02:52:52	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[02:52:52	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.84).
+[02:52:52	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[02:52:52	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.84).
+[02:52:52	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:52:53	][IC] S10/WALLHAMMER.ICE-20: <:: That's dumb. ::>
+[02:52:55	]S10/WALLHAMMER.ICE-20 has hit Crash test dummy in the head dealing 11 damage (CritChance was 0.65).
+[02:52:55	]Crash test dummy has taken 11 damage from S10/WALLHAMMER.ICE-20.
+[02:53:00	]Crash test dummy is fully healed.
+[02:53:06	][IC] S10/WALLHAMMER.ICE-20: <:: BRUH. ::>
+[02:53:08	][IC] Crash test dummy: 18 standard vs 36 crit on head.
+[02:53:11	][IC] S10/WALLHAMMER.ICE-20: <:: I DID 11 dmg in your head. ::>
+[02:53:12	]S10/WALLHAMMER.ICE-20 has hit Crash test dummy in the head dealing 11 damage (CritChance was 0.65).
+[02:53:12	]Crash test dummy has taken 11 damage from S10/WALLHAMMER.ICE-20.
+[02:53:15	]Crash test dummy is fully healed.
+[02:53:15	][IC] S10/WALLHAMMER.ICE-20: <:: AGAIN. ::>
+[02:53:16	][IC] Crash test dummy: 21 torso vs 34 chest.
+[02:53:18	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the chest dealing 15 damage (CritChance was 0.64).
+[02:53:18	]Crash test dummy has taken 14 damage from S10/WALLHAMMER.ICE-20.
+[02:53:20	]Crash test dummy is fully healed.
+[02:53:22	][IC] S10/WALLHAMMER.ICE-20: <:: 15 chest. ::>
+[02:53:22	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the head dealing 36 damage (CritChance was 0.71).
+[02:53:22	]S10/WALLHAMMER.ICE-20 has taken 36 damage from Crash test dummy.
+[02:53:23	][IC] S10/WALLHAMMER.ICE-20: <:: Bruh. ::>
+[02:53:27	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the head dealing 0 damage (CritChance was 0.71).
+[02:53:27	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the head dealing 18 damage (CritChance was 0.71).
+[02:53:27	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655648.
+[02:53:27	]S10/WALLHAMMER.ICE-20 was knocked unconscious and is bleeding out.
+[02:53:29	][IC] S10/WALLHAMMER.ICE-20: <:: Ahn. ::>
+[02:53:31	][IC] S10/WALLHAMMER.ICE-20: <:: Pain2. ::>
+[02:53:32	][IC] S10/WALLHAMMER.ICE-20: <:: Pain1. ::>
+[02:53:35	][IC] Crash test dummy: Ow!
+[02:53:37	][IC] S10/WALLHAMMER.ICE-20: <:: Help. ::>
+[02:53:37	][IC] Crash test dummy: Ugh!
+[02:53:38	][IC] Crash test dummy: Ugh!
+[02:53:49	][IC] S10/WALLHAMMER.ICE-20: <:: Also tell devs. ::>
+[02:53:57	][IC] S10/WALLHAMMER.ICE-20: <:: That shooting in the ehad is doing JACK SHIT damage. ::>
+[02:53:59	]S10/WALLHAMMER.ICE-20 was just killed due to: accepting their death
+[02:54:13	]Taliazure loaded the character 'Maura Azure'
+[02:54:23	][IC] Maura Azure: Moan.
+[02:54:25	][IC] Maura Azure: Moan2.
+[02:54:25	][IC] Crash test dummy: Ugh... Agh-hgh.
+[02:54:31	][IC] Crash test dummy: Ugh... Agh.
+[02:54:32	]Taliazure loaded the character 'S10/WALLHAMMER.ICE-20'
+[02:54:34	]Crash test dummy has gained a '20rnd DMR-magazine' #1652269.
+[02:54:34	]Crash test dummy has lost a '20rnd DMR-magazine' #1652268.
+[02:54:43	][IC] Crash test dummy: Ugh...
+[02:54:48	][IC] Crash test dummy: Ugh... Agh.
+[02:54:51	][IC] Crash test dummy: Ugh... Agh-hgh.
+[02:54:57	][IC] S10/WALLHAMMER.ICE-20: <:: That's what she sounded like. ::>
+[02:55:01	][IC] Crash test dummy: Also, come here.
+[02:55:02	]S10/WALLHAMMER.ICE-20 used command '/CharFallOver 0.1'.
+[02:55:13	][IC] Crash test dummy: Stand here.. I wanna try something.
+[02:55:17	][IC] S10/WALLHAMMER.ICE-20: <:: Mewo? ::>
+[02:55:25	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[02:55:25	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:55:25	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the stomach dealing 21 damage (CritChance was 0.21).
+[02:55:25	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:55:25	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the stomach dealing 21 damage (CritChance was 0.21).
+[02:55:25	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:55:25	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the stomach dealing 21 damage (CritChance was 0.21).
+[02:55:25	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:55:26	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the stomach dealing 21 damage (CritChance was 0.21).
+[02:55:26	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:55:26	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the stomach dealing 34 damage (CritChance was 0.21).
+[02:55:26	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[02:55:26	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[02:55:26	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:55:26	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[02:55:26	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:55:26	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[02:55:26	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:55:26	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[02:55:26	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:55:26	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.21).
+[02:55:26	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[02:55:26	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[02:55:26	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:55:26	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[02:55:26	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:55:27	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.21).
+[02:55:27	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[02:55:27	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.84).
+[02:55:27	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[02:55:27	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.84).
+[02:55:27	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[02:55:27	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.84).
+[02:55:27	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[02:55:27	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.84).
+[02:55:27	]S10/WALLHAMMER.ICE-20 was knocked unconscious and is bleeding out.
+[02:55:30	]Crash test dummy has gained a '20rnd DMR-magazine' #1652268.
+[02:55:30	]Crash test dummy has lost a '20rnd DMR-magazine' #1652267.
+[02:55:51	]Crash test dummy used command '/ToggleRaise'.
+[02:55:57	][IC] S10/WALLHAMMER.ICE-20: <:: Ow. ::>
+[02:56:01	][IC] Crash test dummy: Ugh... Agh.
+[02:56:09	][IC] Crash test dummy: Ugh... Agh-hgh.
+[02:56:12	][IC] S10/WALLHAMMER.ICE-20: <:: Sixty. Niner. ::>
+[02:56:15	][IC] Crash test dummy: Ugh...
+[02:56:17	][IC] S10/WALLHAMMER.ICE-20: <:: LOL. ::>
+[02:56:18	][IC] Crash test dummy: Oghhh.
+[02:56:20	][IC] Crash test dummy: Ugh... Agh.
+[02:56:21	][IC] S10/WALLHAMMER.ICE-20: <:: Shit. ::>
+[02:56:23	][IC] S10/WALLHAMMER.ICE-20: <:: Toiler. ::>
+[02:56:25	][IC] S10/WALLHAMMER.ICE-20: <:: Toilet. ::>
+[02:56:27	][IC] S10/WALLHAMMER.ICE-20: <:: Toilet. ::>
+[02:56:28	][IC] S10/WALLHAMMER.ICE-20: <:: Toilet. ::>
+[02:56:29	][IC] S10/WALLHAMMER.ICE-20: <:: Toilet. ::>
+[02:56:30	]Crash test dummy used command '/ToggleRaise'.
+[02:56:30	][IC] S10/WALLHAMMER.ICE-20: <:: Toilet. ::>
+[02:56:33	]Crash test dummy used command '/ToggleRaise'.
+[02:56:37	][IC] S10/WALLHAMMER.ICE-20: <:: Haha. ::>
+[02:56:40	][ME] Crash test dummy: executes wallhammer
+[02:56:41	][IC] S10/WALLHAMMER.ICE-20: <:: Haha, hostile is scrambled. ::>
+[02:56:51	]S10/WALLHAMMER.ICE-20 was just killed due to: accepting their death
+[02:56:55	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'AR-2' (#1655640)
+[02:56:56	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[02:56:57	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655649.
+[02:56:59	]Crash test dummy ran 'take' on item 'Rifle Bullets' (#1652323)
+[02:56:59	]Crash test dummy has gained a 'Rifle Bullets' #1652323.
+[02:57:00	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the chest dealing 14 damage (CritChance was 0.66).
+[02:57:00	]Crash test dummy has taken 13 damage from S10/WALLHAMMER.ICE-20.
+[02:57:00	]S10/WALLHAMMER.ICE-20 has hit Crash test dummy in the chest dealing 13 damage (CritChance was 0.66).
+[02:57:00	]Crash test dummy has taken 13 damage from S10/WALLHAMMER.ICE-20.
+[02:57:00	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the head dealing 22 damage (CritChance was 0.66).
+[02:57:00	]Crash test dummy has taken 22 damage from S10/WALLHAMMER.ICE-20.
+[02:57:00	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the chest dealing 14 damage (CritChance was 1.01).
+[02:57:00	]Crash test dummy has taken 13 damage from S10/WALLHAMMER.ICE-20.
+[02:57:00	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the left arm dealing 3 damage (CritChance was 1.01).
+[02:57:00	]Crash test dummy has taken 3 damage from S10/WALLHAMMER.ICE-20.
+[02:57:00	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the chest dealing 14 damage (CritChance was 1.01).
+[02:57:00	]Crash test dummy has taken 13 damage from S10/WALLHAMMER.ICE-20.
+[02:57:01	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the left arm dealing 3 damage (CritChance was 1.01).
+[02:57:01	]Crash test dummy has taken 3 damage from S10/WALLHAMMER.ICE-20.
+[02:57:01	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the stomach dealing 14 damage (CritChance was 1.01).
+[02:57:01	]Crash test dummy has taken 13 damage from S10/WALLHAMMER.ICE-20.
+[02:57:01	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the left arm dealing 3 damage (CritChance was 1.01).
+[02:57:01	]Crash test dummy has taken 3 damage from S10/WALLHAMMER.ICE-20.
+[02:57:01	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the chest dealing 14 damage (CritChance was 1.01).
+[02:57:01	]Crash test dummy has taken 13 damage from S10/WALLHAMMER.ICE-20.
+[02:57:01	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652268)
+[02:57:01	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the stomach dealing 14 damage (CritChance was 1.01).
+[02:57:01	]Crash test dummy has taken 13 damage from S10/WALLHAMMER.ICE-20.
+[02:57:01	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the stomach dealing 14 damage (CritChance was 1.01).
+[02:57:01	]Crash test dummy has gained a '20rnd DMR-magazine' #1652267.
+[02:57:01	]Crash test dummy was knocked unconscious and is bleeding out.
+[02:57:02	]Crash test dummy used the 'John Doe' vendor.
+[02:57:03	]S10/WALLHAMMER.ICE-20 destroyed a 'Pulse Rifle Bullets' #1655622.
+[02:57:05	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655649.
+[02:57:05	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655648.
+[02:57:08	][IC] S10/WALLHAMMER.ICE-20: <:: Woman. ::>
+[02:57:14	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655648.
+[02:57:14	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655647.
+[02:57:19	]S10/WALLHAMMER.ICE-20 used command '/CharSearch'.
+[02:57:19	][IC] Crash test dummy: Ugh... Agh.
+[02:57:22	][IC] Crash test dummy: Ugh... Agh-hgh.
+[02:57:23	][IC] S10/WALLHAMMER.ICE-20: <:: Hey. ::>
+[02:57:26	]Crash test dummy was just killed due to: accepting their death
+[02:57:30	]Crash test dummy used command '/CharGetUp'.
+[02:57:30	]Crash test dummy used command '/CharGetUp'.
+[02:57:31	]Crash test dummy used command '/CharGetUp'.
+[02:57:31	]Crash test dummy used command '/CharGetUp'.
+[02:57:42	]Crash test dummy has spawned 'models/props_wasteland/interior_fence002d.mdl'.
+[02:57:43	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[02:57:47	]S10/WALLHAMMER.ICE-20 has hit Crash test dummy in the left leg dealing 1 damage (CritChance was 0.66).
+[02:57:47	]Crash test dummy has taken 1 damage from S10/WALLHAMMER.ICE-20.
+[02:57:50	]Crash test dummy is fully healed.
+[02:57:56	]Crash test dummy ran 'Equip' on item 'G3' (#1652222)
+[02:57:57	]Crash test dummy has lost a '20rnd DMR-magazine' #1652266.
+[02:57:58	]S10/WALLHAMMER.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655649)
+[02:57:58	]S10/WALLHAMMER.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655648)
+[02:57:59	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655647.
+[02:57:59	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655649.
+[02:58:00	]Crash test dummy used command '/ToggleRaise'.
+[02:58:06	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the stomach dealing 21 damage (CritChance was 0.21).
+[02:58:06	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:58:06	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 0 damage (CritChance was 0.21).
+[02:58:06	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 9 damage (CritChance was 0.21).
+[02:58:06	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[02:58:07	]S10/WALLHAMMER.ICE-20 is fully healed.
+[02:58:09	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the right leg dealing 3 damage (CritChance was 0.66).
+[02:58:09	]Crash test dummy has taken 3 damage from S10/WALLHAMMER.ICE-20.
+[02:58:09	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 0 damage (CritChance was 0.21).
+[02:58:09	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 9 damage (CritChance was 0.21).
+[02:58:09	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[02:58:09	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the stomach dealing 0 damage (CritChance was 0.21).
+[02:58:09	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 9 damage (CritChance was 0.21).
+[02:58:09	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[02:58:09	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the stomach dealing 21 damage (CritChance was 0.21).
+[02:58:09	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:58:09	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the right arm dealing 3 damage (CritChance was 0.66).
+[02:58:09	]Crash test dummy has taken 3 damage from S10/WALLHAMMER.ICE-20.
+[02:58:10	]Crash test dummy is fully healed.
+[02:58:10	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655649.
+[02:58:10	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655648.
+[02:58:12	]S10/WALLHAMMER.ICE-20 is fully healed.
+[02:58:12	]Crash test dummy has gained a '20rnd DMR-magazine' #1652266.
+[02:58:12	]Crash test dummy has lost a '20rnd DMR-magazine' #1652268.
+[02:58:17	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the right leg dealing 3 damage (CritChance was 0.66).
+[02:58:17	]Crash test dummy has taken 3 damage from S10/WALLHAMMER.ICE-20.
+[02:58:17	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the stomach dealing 21 damage (CritChance was 0.21).
+[02:58:17	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:58:18	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left leg dealing 9 damage (CritChance was 0.21).
+[02:58:18	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[02:58:18	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the right arm dealing 9 damage (CritChance was 0.21).
+[02:58:18	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[02:58:18	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[02:58:18	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:58:18	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[02:58:18	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:58:18	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the head dealing 22 damage (CritChance was 0.66).
+[02:58:18	]Crash test dummy has taken 22 damage from S10/WALLHAMMER.ICE-20.
+[02:58:18	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left arm dealing 9 damage (CritChance was 0.21).
+[02:58:18	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[02:58:18	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[02:58:18	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:58:18	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the chest dealing 14 damage (CritChance was 0.66).
+[02:58:18	]Crash test dummy has taken 14 damage from S10/WALLHAMMER.ICE-20.
+[02:58:19	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left leg dealing 0 damage (CritChance was 0.21).
+[02:58:19	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 0 damage (CritChance was 0.21).
+[02:58:19	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 0 damage (CritChance was 0.21).
+[02:58:19	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 9 damage (CritChance was 0.21).
+[02:58:19	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[02:58:19	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the chest dealing 14 damage (CritChance was 1.01).
+[02:58:19	]Crash test dummy has taken 14 damage from S10/WALLHAMMER.ICE-20.
+[02:58:19	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the chest dealing 14 damage (CritChance was 1.01).
+[02:58:19	]Crash test dummy has taken 14 damage from S10/WALLHAMMER.ICE-20.
+[02:58:19	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 0 damage (CritChance was 0.21).
+[02:58:19	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 9 damage (CritChance was 0.21).
+[02:58:19	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[02:58:19	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the chest dealing 14 damage (CritChance was 1.01).
+[02:58:19	]Crash test dummy has taken 14 damage from S10/WALLHAMMER.ICE-20.
+[02:58:19	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 0 damage (CritChance was 0.20).
+[02:58:19	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 9 damage (CritChance was 0.20).
+[02:58:19	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[02:58:19	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the head dealing 22 damage (CritChance was 1.01).
+[02:58:19	]Crash test dummy has taken 22 damage from S10/WALLHAMMER.ICE-20.
+[02:58:19	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 0 damage (CritChance was 0.19).
+[02:58:19	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 0 damage (CritChance was 0.19).
+[02:58:19	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 9 damage (CritChance was 0.19).
+[02:58:19	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[02:58:19	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 9 damage (CritChance was 0.19).
+[02:58:19	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[02:58:19	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the head dealing 22 damage (CritChance was 1.01).
+[02:58:19	]Crash test dummy has gained a '20rnd DMR-magazine' #1652268.
+[02:58:19	]Crash test dummy was knocked unconscious and is bleeding out.
+[02:58:22	]S10/WALLHAMMER.ICE-20 is fully healed.
+[02:58:22	][IC] S10/WALLHAMMER.ICE-20: <:: Haha. ::>
+[02:58:29	][IC] S10/WALLHAMMER.ICE-20: <:: Cease fire, target is friendly! ::>
+[02:58:35	]Crash test dummy was just killed due to: accepting their death
+[02:58:38	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652268)
+[02:58:38	][IC] S10/WALLHAMMER.ICE-20: <:: Hehehe, friend game effective. ::>
+[02:58:39	]Crash test dummy used command '/CharGetUp'.
+[02:58:44	]S10/WALLHAMMER.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655647)
+[02:58:45	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655648.
+[02:58:45	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655647.
+[02:58:47	][Y] Crash test dummy: How much HP and armor?
+[02:58:54	]Crash test dummy ran 'Equip' on item 'G3' (#1652222)
+[02:58:55	]Crash test dummy has lost a '20rnd DMR-magazine' #1652268.
+[02:58:55	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'Incendiary Grenade' (#1651999)
+[02:58:56	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[02:59:02	]Crash test dummy has spawned 'models/props_wasteland/kitchen_fridge001a.mdl'.
+[02:59:05	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[02:59:06	]Crash test dummy used command '/ToggleRaise'.
+[02:59:12	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the left leg dealing 3 damage (CritChance was 0.66).
+[02:59:12	]Crash test dummy has taken 3 damage from S10/WALLHAMMER.ICE-20.
+[02:59:13	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the stomach dealing 1 damage (CritChance was 0.66).
+[02:59:13	]Crash test dummy has taken 1 damage from S10/WALLHAMMER.ICE-20.
+[02:59:13	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left arm dealing 0 damage (CritChance was 0.21).
+[02:59:13	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 0 damage (CritChance was 0.21).
+[02:59:13	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 0 damage (CritChance was 0.21).
+[02:59:13	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left arm dealing 0 damage (CritChance was 0.21).
+[02:59:13	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 5 damage (CritChance was 0.21).
+[02:59:13	]S10/WALLHAMMER.ICE-20 has taken 4 damage from Crash test dummy.
+[02:59:15	]Crash test dummy is fully healed.
+[02:59:17	]S10/WALLHAMMER.ICE-20 is fully healed.
+[02:59:18	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the chest dealing 14 damage (CritChance was 0.66).
+[02:59:18	]Crash test dummy has taken 13 damage from S10/WALLHAMMER.ICE-20.
+[02:59:18	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the head dealing 22 damage (CritChance was 0.66).
+[02:59:18	]Crash test dummy has taken 22 damage from S10/WALLHAMMER.ICE-20.
+[02:59:19	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left arm dealing 9 damage (CritChance was 0.21).
+[02:59:19	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[02:59:19	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the head dealing 36 damage (CritChance was 0.21).
+[02:59:19	]S10/WALLHAMMER.ICE-20 has taken 36 damage from Crash test dummy.
+[02:59:19	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 6 damage (CritChance was 0.21).
+[02:59:19	]S10/WALLHAMMER.ICE-20 has taken 6 damage from Crash test dummy.
+[02:59:19	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[02:59:19	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[02:59:28	]Crash test dummy has gained a '20rnd DMR-magazine' #1652268.
+[02:59:28	]Crash test dummy has lost a '20rnd DMR-magazine' #1652267.
+[02:59:37	]S10/WALLHAMMER.ICE-20 ran 'unload' on item '30rnd Pulse-magazine' (#1655648)
+[02:59:37	]S10/WALLHAMMER.ICE-20 has gained a 'Pulse Rifle Bullets' #1655650.
+[02:59:38	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the chest dealing 0 damage (CritChance was 1.01).
+[02:59:38	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the left arm dealing 3 damage (CritChance was 1.01).
+[02:59:38	]Crash test dummy has taken 3 damage from S10/WALLHAMMER.ICE-20.
+[02:59:38	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the stomach dealing 14 damage (CritChance was 1.01).
+[02:59:38	]Crash test dummy has taken 13 damage from S10/WALLHAMMER.ICE-20.
+[02:59:38	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the right arm dealing 9 damage (CritChance was 0.84).
+[02:59:38	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[02:59:39	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the head dealing 36 damage (CritChance was 0.84).
+[02:59:39	]S10/WALLHAMMER.ICE-20 has taken 36 damage from Crash test dummy.
+[02:59:39	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 0 damage (CritChance was 0.84).
+[02:59:39	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the head dealing 36 damage (CritChance was 0.84).
+[02:59:39	]S10/WALLHAMMER.ICE-20 has taken 36 damage from Crash test dummy.
+[02:59:39	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 27 damage (CritChance was 0.84).
+[02:59:39	]S10/WALLHAMMER.ICE-20 has taken 26 damage from Crash test dummy.
+[02:59:40	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the right arm dealing 9 damage (CritChance was 0.84).
+[02:59:40	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[02:59:40	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the right arm dealing 4 damage (CritChance was 0.94).
+[02:59:40	]Crash test dummy has taken 3 damage from S10/WALLHAMMER.ICE-20.
+[02:59:41	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left arm dealing 9 damage (CritChance was 0.84).
+[02:59:41	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[02:59:41	]Crash test dummy has gained a '20rnd DMR-magazine' #1652267.
+[02:59:41	]Crash test dummy has lost a '20rnd DMR-magazine' #1652268.
+[02:59:44	]S10/WALLHAMMER.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655649)
+[02:59:44	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655647.
+[02:59:44	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655649.
+[02:59:46	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'Frag Grenade' (#1655590)
+[02:59:46	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[02:59:50	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[02:59:51	]Crash test dummy has gained a '20rnd DMR-magazine' #1652268.
+[02:59:51	]Crash test dummy was knocked unconscious and is bleeding out.
+[02:59:54	][IC] S10/WALLHAMMER.ICE-20: <:: Haha. ::>
+[02:59:56	][IC] S10/WALLHAMMER.ICE-20: <:: Boomer. ::>
+[02:59:56	][LOOC] Crash test dummy: I have no ammo
+[03:00:00	][IC] S10/WALLHAMMER.ICE-20: <:: Me neither. ::>
+[03:00:00	][LOOC] Crash test dummy: can I resupply?
+[03:00:02	][IC] S10/WALLHAMMER.ICE-20: <:: Yes. ::>
+[03:00:04	]S10/WALLHAMMER.ICE-20 ran 'give' on item 'Disinfected Bandage Roll' (#1314348)
+[03:00:04	]S10/WALLHAMMER.ICE-20 has performed the 'Use Disinfected Bandage Roll' action, gaining 22 experience in medicine.
+[03:00:04	]Crash test dummy was disinfected by S10/WALLHAMMER.ICE-20 for 42 seconds.
+[03:00:04	]Crash test dummy's bleeding was stopped by S10/WALLHAMMER.ICE-20.
+[03:00:04	]Crash test dummy was bandaged by S10/WALLHAMMER.ICE-20 for 15 HP.
+[03:00:05	]S10/WALLHAMMER.ICE-20 ran 'give' on item 'Morphine' (#1314354)
+[03:00:05	]S10/WALLHAMMER.ICE-20 has performed the 'Use Morphine' action, gaining 80 experience in medicine.
+[03:00:05	]Crash test dummy has gained a level 4 short boost in Strength.
+[03:00:05	]S10/WALLHAMMER.ICE-20 ran 'give' on item 'Morphine' (#1314354)
+[03:00:05	]S10/WALLHAMMER.ICE-20 has performed the 'Use Morphine' action, gaining 17 experience in medicine.
+[03:00:05	]Crash test dummy has wasted a level 4 short boost in Strength (current: 0; target: 4).
+[03:00:06	]S10/WALLHAMMER.ICE-20 ran 'give' on item 'Disinfected Bandage Roll' (#1314348)
+[03:00:06	]S10/WALLHAMMER.ICE-20 has performed the 'Use Disinfected Bandage Roll' action, gaining 22 experience in medicine.
+[03:00:06	]Crash test dummy was disinfected by S10/WALLHAMMER.ICE-20 for 42 seconds.
+[03:00:06	]Crash test dummy was bandaged by S10/WALLHAMMER.ICE-20 for 15 HP.
+[03:00:07	]S10/WALLHAMMER.ICE-20 ran 'give' on item 'Disinfected Bandage Roll' (#1314348)
+[03:00:07	]S10/WALLHAMMER.ICE-20 has performed the 'Use Disinfected Bandage Roll' action, gaining 15 experience in medicine.
+[03:00:07	]Crash test dummy was disinfected by S10/WALLHAMMER.ICE-20 for 42 seconds.
+[03:00:07	]Crash test dummy was bandaged by S10/WALLHAMMER.ICE-20 for 15 HP.
+[03:00:08	]Crash test dummy was knocked unconscious and is bleeding out.
+[03:00:11	][IC] S10/WALLHAMMER.ICE-20: <:: LOL. ::>
+[03:00:14	][LOOC] Crash test dummy: NOOO LET ME RESPAWN ;-;
+[03:00:18	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_junk/wood_crate001a_damaged.mdl'.
+[03:00:27	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_lab/blastdoor001b.mdl'.
+[03:00:28	]Crash test dummy was just killed due to: accepting their death
+[03:00:31	]Crash test dummy used command '/CharGetUp'.
+[03:00:32	]Crash test dummy used command '/CharGetUp'.
+[03:00:33	]Crash test dummy used command '/CharGetUp'.
+[03:00:33	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_lab/blastdoor001b.mdl'.
+[03:00:33	]Crash test dummy used command '/CharGetUp'.
+[03:00:37	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_lab/filecabinet02.mdl'.
+[03:00:42	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_c17/oildrum001.mdl'.
+[03:00:44	]Crash test dummy has spawned 'models/props_wasteland/kitchen_fridge001a.mdl'.
+[03:00:49	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[03:00:52	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_combine/headcrabcannister01a.mdl'.
+[03:00:54	]Crash test dummy used the 'John Doe' vendor.
+[03:00:56	]Crash test dummy has gained 0 chips.
+[03:00:56	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_canal/bridge_pillar02.mdl'.
+[03:00:56	]Crash test dummy has gained a 'Rifle Bullets' #1655651.
+[03:00:57	]Crash test dummy has gained 0 chips.
+[03:00:57	]Crash test dummy has gained a 'Rifle Bullets' #1655652.
+[03:00:57	]Crash test dummy has gained 0 chips.
+[03:00:57	]Crash test dummy has gained a 'Rifle Bullets' #1655653.
+[03:00:58	]Crash test dummy has gained 0 chips.
+[03:00:58	]Crash test dummy has gained a 'Rifle Bullets' #1655654.
+[03:00:58	]Crash test dummy has gained 0 chips.
+[03:00:59	]Crash test dummy has gained a 'Rifle Bullets' #1655655.
+[03:00:59	]Crash test dummy has gained 0 chips.
+[03:00:59	]Crash test dummy has gained a 'Rifle Bullets' #1655656.
+[03:01:03	]S10/WALLHAMMER.ICE-20 ran 'EquipUn' on item 'AR-2' (#1655640)
+[03:01:03	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655649.
+[03:01:04	][IC] S10/WALLHAMMER.ICE-20: <:: Ok so. ::>
+[03:01:06	][IC] S10/WALLHAMMER.ICE-20: <:: THIS. ::>
+[03:01:08	][IC] S10/WALLHAMMER.ICE-20: <:: Is shit. ::>
+[03:01:09	]S10/WALLHAMMER.ICE-20 ran 'drop' on item 'AR-2' (#1655640)
+[03:01:09	]S10/WALLHAMMER.ICE-20 has lost a 'AR-2' #1655640.
+[03:01:10	]Crash test dummy ran 'Repair' on item 'CP Rank Leader Uniform' (#1652265)
+[03:01:10	]S10/WALLHAMMER.ICE-20 used the 'John Doe' vendor.
+[03:01:16	][IC] Crash test dummy: What?
+[03:01:18	]Crash test dummy ran 'Equip' on item 'G3' (#1652222)
+[03:01:19	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652267)
+[03:01:19	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652269)
+[03:01:20	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652266)
+[03:01:21	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652268)
+[03:01:23	]Crash test dummy used command '/ToggleRaise'.
+[03:01:24	]S10/WALLHAMMER.ICE-20 used the 'John Doe' vendor.
+[03:01:26	]Crash test dummy destroyed a 'AR-2' #1655640.
+[03:01:28	]Crash test dummy has lost a '20rnd DMR-magazine' #1652269.
+[03:01:32	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:01:32	]S10/WALLHAMMER.ICE-20 has gained a 'SR-1A' #1655657.
+[03:01:33	]Crash test dummy destroyed a 'Combine PDA' #1651897.
+[03:01:34	]Crash test dummy destroyed a 'OTA Uniform' #1655634.
+[03:01:36	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:01:36	]S10/WALLHAMMER.ICE-20 has gained a 'Pulse Rifle Bullets' #1655658.
+[03:01:36	]Crash test dummy destroyed a 'Containment Uniform' #1655629.
+[03:01:36	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:01:36	]S10/WALLHAMMER.ICE-20 has gained a 'Pulse Rifle Bullets' #1655659.
+[03:01:37	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:01:37	]S10/WALLHAMMER.ICE-20 has gained a 'Pulse Rifle Bullets' #1655660.
+[03:01:37	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:01:37	]S10/WALLHAMMER.ICE-20 has gained a 'Pulse Rifle Bullets' #1655661.
+[03:01:37	]Crash test dummy destroyed a 'OSITR' #1652321.
+[03:01:37	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:01:38	]S10/WALLHAMMER.ICE-20 has gained a 'Pulse Rifle Bullets' #1655662.
+[03:01:38	]Crash test dummy destroyed a 'Buckshot Shotgun Shells' #1655608.
+[03:01:38	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:01:38	]S10/WALLHAMMER.ICE-20 has gained a 'Pulse Rifle Bullets' #1655663.
+[03:01:38	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:01:38	]S10/WALLHAMMER.ICE-20 has gained a 'Pulse Rifle Bullets' #1655664.
+[03:01:38	]Crash test dummy destroyed a 'Buckshot Shotgun Shells' #1655609.
+[03:01:39	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:01:39	]S10/WALLHAMMER.ICE-20 has gained a 'Pulse Rifle Bullets' #1655665.
+[03:01:41	][IC] S10/WALLHAMMER.ICE-20: <:: Watch it. ::>
+[03:01:41	]Crash test dummy used the 'John Doe' vendor.
+[03:01:43	]S10/WALLHAMMER.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655647)
+[03:01:43	]S10/WALLHAMMER.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655649)
+[03:01:44	]S10/WALLHAMMER.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655648)
+[03:01:44	]Crash test dummy has gained 0 chips.
+[03:01:44	]Crash test dummy has gained a 'Rifle Bullets' #1655666.
+[03:01:45	]Crash test dummy has gained 0 chips.
+[03:01:45	]Crash test dummy has gained a 'Rifle Bullets' #1655667.
+[03:01:45	]Crash test dummy has gained 0 chips.
+[03:01:45	]Crash test dummy has gained a 'Rifle Bullets' #1655668.
+[03:01:46	][IC] S10/WALLHAMMER.ICE-20: <:: Actually. ::>
+[03:01:47	]Crash test dummy has gained 0 chips.
+[03:01:47	]Crash test dummy has gained a 'Frag Grenade' #1655669.
+[03:01:47	][IC] S10/WALLHAMMER.ICE-20: <:: Shoot me. ::>
+[03:01:49	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.71).
+[03:01:49	]S10/WALLHAMMER.ICE-20 was knocked unconscious and is bleeding out.
+[03:01:51	]Crash test dummy has gained a '20rnd DMR-magazine' #1652269.
+[03:01:51	]Crash test dummy has lost a '20rnd DMR-magazine' #1652268.
+[03:01:52	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652269)
+[03:02:00	]Crash test dummy ran 'Equip' on item 'Frag Grenade' (#1655669)
+[03:02:01	]Crash test dummy used the 'John Doe' vendor.
+[03:02:03	]S10/WALLHAMMER.ICE-20 was just killed due to: accepting their death
+[03:02:06	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'SR-1A' (#1655657)
+[03:02:06	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:02:07	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655649.
+[03:02:10	][IC] S10/WALLHAMMER.ICE-20: <:: In position. ::>
+[03:02:11	][IC] Crash test dummy: Do me a favor.
+[03:02:12	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655649.
+[03:02:12	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655648.
+[03:02:14	][IC] S10/WALLHAMMER.ICE-20: <:: Yes. ::>
+[03:02:21	][IC] Crash test dummy: Same thing for ranged test, but move around.
+[03:02:22	]S10/WALLHAMMER.ICE-20 used the 'John Doe' vendor.
+[03:02:25	]S10/WALLHAMMER.ICE-20 used the 'John Doe' vendor.
+[03:02:28	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:02:28	]S10/WALLHAMMER.ICE-20 has gained a 'Flash Grenade' #1655670.
+[03:02:29	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:02:29	]S10/WALLHAMMER.ICE-20 has gained a 'Flash Grenade' #1655671.
+[03:02:29	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:02:29	]S10/WALLHAMMER.ICE-20 has gained a 'Flash Grenade' #1655672.
+[03:02:30	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:02:30	]S10/WALLHAMMER.ICE-20 has gained a 'Frag Grenade' #1655673.
+[03:02:32	]Crash test dummy ran 'take' on item '20rnd DMR-magazine' (#1654833)
+[03:02:32	]Crash test dummy has gained a '20rnd DMR-magazine' #1654833.
+[03:02:35	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1654833)
+[03:02:37	]Crash test dummy used command '/ToggleRaise'.
+[03:02:44	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left arm dealing 0 damage (CritChance was 0.84).
+[03:02:44	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left arm dealing 9 damage (CritChance was 0.84).
+[03:02:44	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[03:02:44	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.84).
+[03:02:44	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[03:02:44	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the stomach dealing 34 damage (CritChance was 0.84).
+[03:02:44	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[03:02:44	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left leg dealing 9 damage (CritChance was 0.84).
+[03:02:44	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[03:02:44	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the stomach dealing 21 damage (CritChance was 0.84).
+[03:02:44	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:02:45	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the stomach dealing 34 damage (CritChance was 0.84).
+[03:02:45	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[03:02:45	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.84).
+[03:02:45	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655648.
+[03:02:45	]S10/WALLHAMMER.ICE-20 was knocked unconscious and is bleeding out.
+[03:02:48	][Y] S10/WALLHAMMER.ICE-20: <:: WHA. ::>
+[03:02:52	]Crash test dummy has gained a '20rnd DMR-magazine' #1652268.
+[03:02:52	]Crash test dummy has lost a '20rnd DMR-magazine' #1654833.
+[03:02:57	][LOOC] Crash test dummy: holy shit
+[03:03:03	]S10/WALLHAMMER.ICE-20 was just killed due to: accepting their death
+[03:03:07	]S10/WALLHAMMER.ICE-20 used the 'John Doe' vendor.
+[03:03:08	]S10/WALLHAMMER.ICE-20 used the 'John Doe' vendor.
+[03:03:08	]Crash test dummy used command '/ToggleRaise'.
+[03:03:09	]S10/WALLHAMMER.ICE-20 used the 'John Doe' vendor.
+[03:03:14	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:03:14	]S10/WALLHAMMER.ICE-20 has gained a 'OTA Elite Uniform' #1655674.
+[03:03:21	]S10/WALLHAMMER.ICE-20 ran 'drop' on item 'OTA Mask' (#1651899)
+[03:03:21	]S10/WALLHAMMER.ICE-20 has lost a 'OTA Mask' #1651899.
+[03:03:25	]S10/WALLHAMMER.ICE-20 ran 'drop' on item 'OTA Elite Uniform' (#1655639)
+[03:03:25	]S10/WALLHAMMER.ICE-20 has lost a 'OTA Elite Uniform' #1655639.
+[03:03:26	][IC] Crash test dummy: This gun is so fucking accurate..
+[03:03:26	]S10/WALLHAMMER.ICE-20 ran 'drop' on item 'Small Bag' (#1651891)
+[03:03:26	]S10/WALLHAMMER.ICE-20 has lost a 'Small Bag' #1651891.
+[03:03:27	]S10/WALLHAMMER.ICE-20 ran 'drop' on item 'Large Bag' (#1651892)
+[03:03:27	]S10/WALLHAMMER.ICE-20 has lost a 'Large Bag' #1651892.
+[03:03:29	]S10/WALLHAMMER.ICE-20 ran 'take' on item 'OTA Mask' (#1651899)
+[03:03:29	]S10/WALLHAMMER.ICE-20 has gained a 'OTA Mask' #1651899.
+[03:03:33	]Crash test dummy ran 'take' on item 'Large Bag' (#1651892)
+[03:03:33	]Crash test dummy has gained a 'Large Bag' #1651892.
+[03:03:35	][IC] S10/WALLHAMMER.ICE-20: <:: What's your third person settings. ::>
+[03:03:36	][IC] S10/WALLHAMMER.ICE-20: <:: Give. ::>
+[03:03:39	]Crash test dummy ran 'drop' on item 'Large Bag' (#1651892)
+[03:03:39	]Crash test dummy has lost a 'Large Bag' #1651892.
+[03:03:44	][LOOC] Crash test dummy: ?
+[03:03:47	]Crash test dummy used command '/ToggleRaise'.
+[03:03:49	]Crash test dummy destroyed a 'OTA Elite Uniform' #1655639.
+[03:03:50	]Crash test dummy destroyed a 'Small Bag' #1651891.
+[03:03:51	][IC] S10/WALLHAMMER.ICE-20: <:: Se-. ::>
+[03:03:54	][IC] Crash test dummy: Oh no.
+[03:03:55	][IC] S10/WALLHAMMER.ICE-20: <:: Third person settings. ::>
+[03:03:57	][IC] S10/WALLHAMMER.ICE-20: <:: In willard settings. ::>
+[03:04:00	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_c17/Lockers001a.mdl'.
+[03:04:08	]Crash test dummy used command '/ToggleRaise'.
+[03:04:12	]Crash test dummy used command '/ToggleRaise'.
+[03:04:12	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:04:13	]Crash test dummy has taken 5 damage from S10/WALLHAMMER.ICE-20.
+[03:04:14	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the head dealing 18 damage (CritChance was 0.16).
+[03:04:14	]S10/WALLHAMMER.ICE-20 has taken 18 damage from Crash test dummy.
+[03:04:14	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the head dealing 18 damage (CritChance was 0.16).
+[03:04:14	]S10/WALLHAMMER.ICE-20 has taken 18 damage from Crash test dummy.
+[03:04:14	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the head dealing 18 damage (CritChance was 0.17).
+[03:04:14	]S10/WALLHAMMER.ICE-20 has taken 18 damage from Crash test dummy.
+[03:04:14	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.20).
+[03:04:14	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:04:15	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the right arm dealing 9 damage (CritChance was 0.21).
+[03:04:15	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[03:04:15	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the stomach dealing 34 damage (CritChance was 0.21).
+[03:04:15	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[03:04:17	]S10/WALLHAMMER.ICE-20 is fully healed.
+[03:04:22	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the right leg dealing 9 damage (CritChance was 0.21).
+[03:04:22	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[03:04:25	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'SR-1A' (#1655657)
+[03:04:25	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:04:25	]Crash test dummy has gained a '20rnd DMR-magazine' #1654833.
+[03:04:25	]Crash test dummy has lost a '20rnd DMR-magazine' #1652269.
+[03:04:27	]S10/WALLHAMMER.ICE-20 is fully healed.
+[03:04:30	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the right arm dealing 0 damage (CritChance was 0.19).
+[03:04:30	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.19).
+[03:04:30	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:04:31	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[03:04:31	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:04:31	][IC] S10/WALLHAMMER.ICE-20: <:: Haha. ::>
+[03:04:32	]S10/WALLHAMMER.ICE-20 is fully healed.
+[03:04:32	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655649.
+[03:04:32	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the head dealing 36 damage (CritChance was 0.21).
+[03:04:32	]S10/WALLHAMMER.ICE-20 has taken 36 damage from Crash test dummy.
+[03:04:32	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[03:04:32	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:04:33	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the head dealing 18 damage (CritChance was 0.21).
+[03:04:33	]S10/WALLHAMMER.ICE-20 has taken 18 damage from Crash test dummy.
+[03:04:33	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[03:04:33	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:04:34	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the head dealing 18 damage (CritChance was 0.21).
+[03:04:34	]S10/WALLHAMMER.ICE-20 has taken 18 damage from Crash test dummy.
+[03:04:34	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[03:04:34	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:04:34	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the head dealing 36 damage (CritChance was 0.84).
+[03:04:34	]S10/WALLHAMMER.ICE-20 has taken 36 damage from Crash test dummy.
+[03:04:35	][IC] S10/WALLHAMMER.ICE-20: <:: Ah hey. ::>
+[03:04:40	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.84).
+[03:04:40	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[03:04:40	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.84).
+[03:04:40	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[03:04:45	]S10/WALLHAMMER.ICE-20 has hit Crash test dummy in the chest dealing 13 damage (CritChance was 0.59).
+[03:04:45	]Crash test dummy has taken 13 damage from S10/WALLHAMMER.ICE-20.
+[03:04:45	]S10/WALLHAMMER.ICE-20 has hit Crash test dummy in the left arm dealing 0 damage (CritChance was 0.59).
+[03:04:45	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the left arm dealing 6 damage (CritChance was 0.59).
+[03:04:45	]Crash test dummy has taken 5 damage from S10/WALLHAMMER.ICE-20.
+[03:04:45	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the chest dealing 20 damage (CritChance was 0.59).
+[03:04:45	]Crash test dummy has taken 20 damage from S10/WALLHAMMER.ICE-20.
+[03:04:46	]Crash test dummy has gained a '20rnd DMR-magazine' #1652269.
+[03:04:46	]Crash test dummy has lost a '20rnd DMR-magazine' #1652267.
+[03:04:46	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the left leg dealing 6 damage (CritChance was 0.59).
+[03:04:46	]Crash test dummy has taken 5 damage from S10/WALLHAMMER.ICE-20.
+[03:04:48	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the right arm dealing 6 damage (CritChance was 0.59).
+[03:04:48	]Crash test dummy has taken 5 damage from S10/WALLHAMMER.ICE-20.
+[03:04:49	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the stomach dealing 20 damage (CritChance was 0.59).
+[03:04:49	]Crash test dummy has taken 20 damage from S10/WALLHAMMER.ICE-20.
+[03:04:49	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the right arm dealing 6 damage (CritChance was 0.59).
+[03:04:49	]Crash test dummy has taken 5 damage from S10/WALLHAMMER.ICE-20.
+[03:04:51	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655649.
+[03:04:51	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655648.
+[03:04:54	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the left arm dealing 6 damage (CritChance was 0.98).
+[03:04:54	]Crash test dummy has taken 5 damage from S10/WALLHAMMER.ICE-20.
+[03:04:54	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left arm dealing 9 damage (CritChance was 0.84).
+[03:04:54	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[03:04:54	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the left arm dealing 0 damage (CritChance was 0.95).
+[03:04:54	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the left arm dealing 0 damage (CritChance was 0.95).
+[03:04:54	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the left arm dealing 6 damage (CritChance was 0.95).
+[03:04:54	]Crash test dummy has taken 5 damage from S10/WALLHAMMER.ICE-20.
+[03:04:54	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the head dealing 36 damage (CritChance was 0.84).
+[03:04:54	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655648.
+[03:04:54	]S10/WALLHAMMER.ICE-20 was knocked unconscious and is bleeding out.
+[03:04:56	][Y] S10/WALLHAMMER.ICE-20: <:: WH. ::>
+[03:05:00	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652268)
+[03:05:01	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1654833)
+[03:05:02	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652269)
+[03:05:03	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652269)
+[03:05:04	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652269)
+[03:05:06	]Crash test dummy used command '/ToggleRaise'.
+[03:05:10	]S10/WALLHAMMER.ICE-20 was just killed due to: accepting their death
+[03:05:12	]Crash test dummy has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[03:05:13	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'SR-1A' (#1655657)
+[03:05:15	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655647.
+[03:05:16	]Crash test dummy used command '/ToggleRaise'.
+[03:05:20	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_c17/gate_door02a.mdl'.
+[03:05:21	]S10/WALLHAMMER.ICE-20 has taken 146 damage from Crash test dummy.
+[03:05:21	]Crash test dummy destroyed a 'Large Bag' #1651892.
+[03:05:23	][IC] S10/WALLHAMMER.ICE-20: <:: Haha. ::>
+[03:05:28	]Crash test dummy used command '/ToggleRaise'.
+[03:05:31	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655647.
+[03:05:31	]S10/WALLHAMMER.ICE-20 was knocked unconscious and is bleeding out.
+[03:05:31	]S10/WALLHAMMER.ICE-20 used command '/Punch'.
+[03:05:33	][IC] Crash test dummy: Haha.
+[03:05:35	][IC] Crash test dummy: HA.
+[03:05:35	][IC] S10/WALLHAMMER.ICE-20: <:: Hoe. ::>
+[03:05:40	][IC] Crash test dummy: Ugh... Agh-hgh.
+[03:05:41	][IC] Crash test dummy: Ugh... Agh.
+[03:05:46	][IC] S10/WALLHAMMER.ICE-20: <:: Owo? ::>
+[03:05:51	]S10/WALLHAMMER.ICE-20 was just killed due to: accepting their death
+[03:05:51	][IC] Crash test dummy: Ugh... Agh.
+[03:05:54	]S10/WALLHAMMER.ICE-20 has taken 5 damage from Crash test dummy.
+[03:05:54	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'SR-1A' (#1655657)
+[03:05:55	]S10/WALLHAMMER.ICE-20 has taken 5 damage from Crash test dummy.
+[03:05:56	]S10/WALLHAMMER.ICE-20 has taken 5 damage from Crash test dummy.
+[03:05:56	]S10/WALLHAMMER.ICE-20 has taken 5 damage from Crash test dummy.
+[03:05:57	]S10/WALLHAMMER.ICE-20 has taken 5 damage from Crash test dummy.
+[03:05:58	]S10/WALLHAMMER.ICE-20 has taken 5 damage from Crash test dummy.
+[03:05:59	]S10/WALLHAMMER.ICE-20 used command '/Punch'.
+[03:05:59	]S10/WALLHAMMER.ICE-20 has taken 5 damage from Crash test dummy.
+[03:06:00	]Crash test dummy was just knocked out due to: hit by punch command used by S10/WALLHAMMER.ICE-20
+[03:06:00	]Crash test dummy has gained a '20rnd DMR-magazine' #1652267.
+[03:06:01	]Crash test dummy used command '/CharGetUp'.
+[03:06:03	][IC] S10/WALLHAMMER.ICE-20: <:: Haha. ::>
+[03:06:04	][LOOC] Crash test dummy: cheating bitch
+[03:06:06	]Crash test dummy used command '/CharGetUp'.
+[03:06:07	]S10/WALLHAMMER.ICE-20 used command '/CharSearch'.
+[03:06:17	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_c17/Lockers001a.mdl'.
+[03:06:18	][IC] Crash test dummy: Alright.. That was pretty much all I needed to test.
+[03:06:19	]Crash test dummy was knocked unconscious and is bleeding out.
+[03:06:22	][IC] Crash test dummy: I appreciate the help.
+[03:06:25	][IC] S10/WALLHAMMER.ICE-20: <:: Dw. ::>
+[03:06:26	][IC] S10/WALLHAMMER.ICE-20: <:: <3. ::>
+[03:06:32	][IC] Crash test dummy: Actually hang on.
+[03:06:34	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:06:35	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655647.
+[03:06:38	]Crash test dummy was just killed due to: accepting their death
+[03:06:41	]S10/WALLHAMMER.ICE-20 used the 'John Doe' vendor.
+[03:06:46	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:06:46	]S10/WALLHAMMER.ICE-20 has gained a 'Smoke Grenade' #1655675.
+[03:06:47	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:06:47	]S10/WALLHAMMER.ICE-20 has gained a 'Smoke Grenade' #1655676.
+[03:06:47	]Crash test dummy used command '/PM wallhammer 1 more thing'.
+[03:06:48	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:06:48	]S10/WALLHAMMER.ICE-20 has gained a 'Smoke Grenade' #1655677.
+[03:06:50	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'Smoke Grenade' (#1655675)
+[03:06:50	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:06:54	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'Smoke Grenade' (#1655677)
+[03:06:54	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:06:56	]Crash test dummy ran 'Equip' on item 'G3' (#1652222)
+[03:06:58	]Crash test dummy has gained a 'Hunter Compact (2.5x)' #1652277.
+[03:07:00	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'Flash Grenade' (#1655672)
+[03:07:00	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:07:00	]Crash test dummy has gained a '640mm Whisper Barrel' #1652289.
+[03:07:02	]Crash test dummy has gained a 'Ergonomic Stock' #1652290.
+[03:07:04	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'Smoke Grenade' (#1655676)
+[03:07:04	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:07:06	]Crash test dummy has lost a 'Hunter Compact (2.5x)' #1652277.
+[03:07:07	]S10/WALLHAMMER.ICE-20 used the 'John Doe' vendor.
+[03:07:10	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:07:11	]S10/WALLHAMMER.ICE-20 has gained a 'Smoke Grenade' #1655678.
+[03:07:11	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:07:11	]S10/WALLHAMMER.ICE-20 has gained a 'Smoke Grenade' #1655679.
+[03:07:12	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:07:12	]S10/WALLHAMMER.ICE-20 has gained a 'Smoke Grenade' #1655680.
+[03:07:12	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:07:12	]S10/WALLHAMMER.ICE-20 has gained a 'Smoke Grenade' #1655681.
+[03:07:12	]Crash test dummy has lost a '20rnd DMR-magazine' #1654833.
+[03:07:14	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'Smoke Grenade' (#1655678)
+[03:07:14	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:07:19	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'Smoke Grenade' (#1655679)
+[03:07:19	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:07:22	]Crash test dummy used command '/Reply come here a sec and do the moving target thing again'.
+[03:07:24	]Crash test dummy used command '/ToggleRaise'.
+[03:07:24	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'Smoke Grenade' (#1655681)
+[03:07:25	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:07:30	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'Flash Grenade' (#1655670)
+[03:07:31	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:07:38	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'Flash Grenade' (#1655671)
+[03:07:38	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:07:38	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left arm dealing 0 damage (CritChance was 0.19).
+[03:07:38	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 0 damage (CritChance was 0.19).
+[03:07:38	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left arm dealing 9 damage (CritChance was 0.19).
+[03:07:38	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[03:07:39	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[03:07:39	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:07:39	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[03:07:39	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:07:39	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.21).
+[03:07:39	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:07:39	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the stomach dealing 21 damage (CritChance was 0.21).
+[03:07:39	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:07:39	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the stomach dealing 21 damage (CritChance was 0.21).
+[03:07:39	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:07:39	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the stomach dealing 21 damage (CritChance was 0.21).
+[03:07:39	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:07:40	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.84).
+[03:07:40	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[03:07:40	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.84).
+[03:07:40	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[03:07:41	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the stomach dealing 0 damage (CritChance was 0.84).
+[03:07:41	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left arm dealing 9 damage (CritChance was 0.80).
+[03:07:41	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[03:07:41	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 9 damage (CritChance was 0.82).
+[03:07:41	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[03:07:42	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left arm dealing 0 damage (CritChance was 0.82).
+[03:07:42	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left arm dealing 0 damage (CritChance was 0.82).
+[03:07:42	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left arm dealing 0 damage (CritChance was 0.82).
+[03:07:42	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left arm dealing 0 damage (CritChance was 0.82).
+[03:07:42	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left arm dealing 9 damage (CritChance was 0.82).
+[03:07:42	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[03:07:43	]Crash test dummy has gained a '20rnd DMR-magazine' #1654833.
+[03:07:43	]Crash test dummy has lost a '20rnd DMR-magazine' #1652269.
+[03:07:48	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:07:52	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the right arm dealing 9 damage (CritChance was 0.75).
+[03:07:52	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655647.
+[03:07:52	]S10/WALLHAMMER.ICE-20 was knocked unconscious and is bleeding out.
+[03:08:00	][Y] S10/WALLHAMMER.ICE-20: <:: DAYUM. ::>
+[03:08:07	][IC] S10/WALLHAMMER.ICE-20: <:: 1v1. ::>
+[03:08:08	][IC] S10/WALLHAMMER.ICE-20: <:: From afar. ::>
+[03:08:13	][Y] Crash test dummy: So my current MAIN SERVER gun can nuke OTA at a distance.
+[03:08:16	]S10/WALLHAMMER.ICE-20 was just killed due to: accepting their death
+[03:08:18	][IC] Crash test dummy: This is bonkers.
+[03:08:20	]Crash test dummy has gained a '20rnd DMR-magazine' #1652269.
+[03:08:20	]Crash test dummy has lost a '20rnd DMR-magazine' #1652268.
+[03:08:24	]S10/WALLHAMMER.ICE-20 ran 'drop' on item 'OTA Elite Uniform' (#1655674)
+[03:08:24	]S10/WALLHAMMER.ICE-20 has lost a 'OTA Elite Uniform' #1655674.
+[03:08:24	]Crash test dummy ran 'Repair' on item 'CP Rank Leader Uniform' (#1652265)
+[03:08:26	]Crash test dummy used command '/ToggleRaise'.
+[03:08:27	]S10/WALLHAMMER.ICE-20 used the 'John Doe' vendor.
+[03:08:30	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:08:30	]S10/WALLHAMMER.ICE-20 has gained a 'OTA Elite Uniform' #1655682.
+[03:08:34	][IC] S10/WALLHAMMER.ICE-20: <:: 1v1. ::>
+[03:08:36	]S10/WALLHAMMER.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655649)
+[03:08:36	]S10/WALLHAMMER.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655648)
+[03:08:38	]S10/WALLHAMMER.ICE-20 ran 'drop' on item 'SR-1A' (#1655657)
+[03:08:38	]S10/WALLHAMMER.ICE-20 has lost a 'SR-1A' #1655657.
+[03:08:39	]S10/WALLHAMMER.ICE-20 used the 'John Doe' vendor.
+[03:08:39	][IC] Crash test dummy: Let me grab cp armor equal to my rebel.
+[03:08:41	]Crash test dummy used the 'John Doe' vendor.
+[03:08:46	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:08:46	]S10/WALLHAMMER.ICE-20 has gained a 'AR-2' #1655683.
+[03:08:48	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'AR-2' (#1655683)
+[03:08:48	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:08:49	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655649.
+[03:09:01	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_wasteland/kitchen_fridge001a.mdl'.
+[03:09:04	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_wasteland/kitchen_fridge001a.mdl'.
+[03:09:05	]Crash test dummy ran 'use' on item 'Dark Pills' (#1652297)
+[03:09:05	]Crash test dummy has gained a level 7 short boost in Strength.
+[03:09:05	]Crash test dummy has gained a level 7 short boost in Agility.
+[03:09:05	]Crash test dummy has gained a level 7 short boost in Intelligence.
+[03:09:05	]Crash test dummy has gained a level 7 short boost in Perception.
+[03:09:05	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_wasteland/kitchen_fridge001a.mdl'.
+[03:09:07	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_wasteland/laundry_cart001.mdl'.
+[03:09:08	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652267)
+[03:09:09	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1654833)
+[03:09:11	]Crash test dummy used the 'John Doe' vendor.
+[03:09:13	]Crash test dummy has gained 0 chips.
+[03:09:13	]Crash test dummy has gained a 'Rifle Bullets' #1655684.
+[03:09:13	]Crash test dummy has gained 0 chips.
+[03:09:13	]Crash test dummy has gained a 'Rifle Bullets' #1655685.
+[03:09:14	]Crash test dummy has gained 0 chips.
+[03:09:14	]Crash test dummy has gained a 'Rifle Bullets' #1655686.
+[03:09:14	]Crash test dummy has gained 0 chips.
+[03:09:14	]Crash test dummy has gained a 'Rifle Bullets' #1655687.
+[03:09:16	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652269)
+[03:09:18	]Crash test dummy ran 'combine' on item 'Rifle Bullets' (#1655687)
+[03:09:18	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_wasteland/kitchen_counter001d.mdl'.
+[03:09:22	]Crash test dummy ran 'drop' on item 'Combine PDA' (#1652279)
+[03:09:22	]Crash test dummy has lost a 'Combine PDA' #1652279.
+[03:09:24	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_wasteland/kitchen_counter001d.mdl'.
+[03:09:29	]Crash test dummy has spawned 'models/props_lab/blastdoor001a.mdl'.
+[03:09:30	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/VendingMachineSoda01a.mdl'.
+[03:09:36	]Crash test dummy has spawned 'models/props_lab/blastdoor001a.mdl'.
+[03:09:36	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_c17/statue_horse.mdl'.
+[03:09:39	]Crash test dummy has spawned 'models/props_lab/blastdoor001a.mdl'.
+[03:09:43	]Crash test dummy has spawned 'models/props_lab/blastdoor001a.mdl'.
+[03:09:49	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:09:52	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:09:54	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:09:55	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:09:56	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:09:57	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:09:59	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:09:59	]Crash test dummy has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[03:10:00	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:01	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:02	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:03	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:04	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:05	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:06	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:07	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:10	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:10	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:11	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:12	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:14	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:15	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:16	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:17	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:18	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:18	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:19	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:19	]Crash test dummy has spawned 'models/props/de_nuke/crate_extralarge.mdl'.
+[03:10:20	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:21	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:22	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:23	]Crash test dummy has spawned 'models/props/de_nuke/crate_extrasmall.mdl'.
+[03:10:23	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:24	]Crash test dummy has spawned 'models/props/de_nuke/crate_extrasmall.mdl'.
+[03:10:24	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:25	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:26	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:26	]Crash test dummy has spawned 'models/props/de_nuke/crate_large.mdl'.
+[03:10:27	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:28	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:29	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:30	]Crash test dummy has spawned 'models/props/de_nuke/crate_small.mdl'.
+[03:10:30	]S10/WALLHAMMER.ICE-20 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[03:10:32	][OOC] S10/WALLHAMMER.ICE-20: ready
+[03:10:35	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:10:41	][OOC] Crash test dummy: r
+[03:10:42	]Crash test dummy used command '/ToggleRaise'.
+[03:10:56	][ME] S10/WALLHAMMER.ICE-20: pulled the trigger on their firearm trained on their target(s) they fire to harm/kill
+[03:11:00	][IC] S10/WALLHAMMER.ICE-20: <:: Haha. ::>
+[03:11:06	][Y] S10/WALLHAMMER.ICE-20: <:: You can come out now! ::>
+[03:11:31	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 6 damage (CritChance was 0.23).
+[03:11:31	]S10/WALLHAMMER.ICE-20 has taken 6 damage from Crash test dummy.
+[03:11:32	]S10/WALLHAMMER.ICE-20 is fully healed.
+[03:11:38	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655649.
+[03:11:38	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655648.
+[03:11:48	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the stomach dealing 12 damage (CritChance was 0.66).
+[03:11:48	]Crash test dummy has taken 11 damage from S10/WALLHAMMER.ICE-20.
+[03:11:48	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left leg dealing 9 damage (CritChance was 0.23).
+[03:11:48	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[03:11:48	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the chest dealing 12 damage (CritChance was 0.66).
+[03:11:48	]Crash test dummy has taken 11 damage from S10/WALLHAMMER.ICE-20.
+[03:11:49	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the stomach dealing 21 damage (CritChance was 0.23).
+[03:11:49	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:11:49	]S10/WALLHAMMER.ICE-20 has hit Crash test dummy in the chest dealing 12 damage (CritChance was 0.66).
+[03:11:49	]Crash test dummy has taken 11 damage from S10/WALLHAMMER.ICE-20.
+[03:11:49	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the chest dealing 12 damage (CritChance was 0.66).
+[03:11:49	]Crash test dummy has taken 11 damage from S10/WALLHAMMER.ICE-20.
+[03:11:49	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the stomach dealing 21 damage (CritChance was 0.23).
+[03:11:49	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:11:50	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the stomach dealing 21 damage (CritChance was 0.23).
+[03:11:50	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:11:50	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the stomach dealing 21 damage (CritChance was 0.23).
+[03:11:50	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:11:50	]Crash test dummy is fully healed.
+[03:11:50	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the stomach dealing 21 damage (CritChance was 0.23).
+[03:11:50	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:11:50	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the left arm dealing 3 damage (CritChance was 0.66).
+[03:11:50	]Crash test dummy has taken 2 damage from S10/WALLHAMMER.ICE-20.
+[03:11:50	]S10/WALLHAMMER.ICE-20 has hit Crash test dummy in the left arm dealing 0 damage (CritChance was 0.66).
+[03:11:50	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the left arm dealing 3 damage (CritChance was 0.66).
+[03:11:50	]Crash test dummy has taken 2 damage from S10/WALLHAMMER.ICE-20.
+[03:11:50	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the left arm dealing 0 damage (CritChance was 0.66).
+[03:11:50	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the left arm dealing 3 damage (CritChance was 0.66).
+[03:11:50	]Crash test dummy has taken 2 damage from S10/WALLHAMMER.ICE-20.
+[03:11:51	]Crash test dummy has gained a '20rnd DMR-magazine' #1652268.
+[03:11:51	]Crash test dummy has lost a '20rnd DMR-magazine' #1654833.
+[03:11:52	]S10/WALLHAMMER.ICE-20 is fully healed.
+[03:11:55	]Crash test dummy is fully healed.
+[03:11:57	]S10/WALLHAMMER.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655649)
+[03:12:04	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the left leg dealing 1 damage (CritChance was 0.66).
+[03:12:04	]Crash test dummy has taken 1 damage from S10/WALLHAMMER.ICE-20.
+[03:12:05	]Crash test dummy is fully healed.
+[03:12:06	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655648.
+[03:12:06	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655649.
+[03:12:19	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'Smoke Grenade' (#1655680)
+[03:12:20	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:12:24	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:12:50	]S10/WALLHAMMER.ICE-20 has hit Crash test dummy in the stomach dealing 13 damage (CritChance was 0.66).
+[03:12:50	]Crash test dummy has taken 13 damage from S10/WALLHAMMER.ICE-20.
+[03:12:55	]Crash test dummy is fully healed.
+[03:12:57	][IC] S10/WALLHAMMER.ICE-20: <:: Haha. ::>
+[03:13:08	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:13:11	][IC] S10/WALLHAMMER.ICE-20: <:: Haha. ::>
+[03:13:13	]S10/WALLHAMMER.ICE-20 ran 'Equip' on item 'Frag Grenade' (#1655673)
+[03:13:17	][IC] S10/WALLHAMMER.ICE-20: <:: Bouncer bouncer! ::>
+[03:13:17	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:13:20	][ME] S10/WALLHAMMER.ICE-20: Pulled out a grenade, they pull the pin on the grenade they toss it letting it activate towards their target(s)
+[03:13:22	]S10/WALLHAMMER.ICE-20 used command '/ToggleRaise'.
+[03:13:33	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655649.
+[03:13:33	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655647.
+[03:13:35	]S10/WALLHAMMER.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655648)
+[03:13:36	]S10/WALLHAMMER.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655649)
+[03:13:36	]Crash test dummy has gained a '20rnd DMR-magazine' #1654833.
+[03:13:36	]Crash test dummy has lost a '20rnd DMR-magazine' #1652269.
+[03:13:36	]S10/WALLHAMMER.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655649)
+[03:13:36	]S10/WALLHAMMER.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655649)
+[03:13:46	][IC] S10/WALLHAMMER.ICE-20: <:: You can come out now! ::>
+[03:13:54	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the left leg dealing 3 damage (CritChance was 0.66).
+[03:13:54	]Crash test dummy has taken 3 damage from S10/WALLHAMMER.ICE-20.
+[03:13:58	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the right arm dealing 0 damage (CritChance was 1.01).
+[03:13:58	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the right arm dealing 0 damage (CritChance was 1.01).
+[03:13:58	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the right arm dealing 3 damage (CritChance was 1.01).
+[03:13:58	]Crash test dummy has taken 3 damage from S10/WALLHAMMER.ICE-20.
+[03:13:58	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the left leg dealing 3 damage (CritChance was 1.01).
+[03:13:58	]Crash test dummy has taken 3 damage from S10/WALLHAMMER.ICE-20.
+[03:13:58	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the left leg dealing 9 damage (CritChance was 0.23).
+[03:13:58	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[03:13:58	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the stomach dealing 21 damage (CritChance was 0.23).
+[03:13:58	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:13:58	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the left arm dealing 9 damage (CritChance was 0.23).
+[03:13:58	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[03:13:58	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the stomach dealing 21 damage (CritChance was 0.23).
+[03:13:58	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:14:00	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the right leg dealing 3 damage (CritChance was 1.01).
+[03:14:00	]Crash test dummy has taken 3 damage from S10/WALLHAMMER.ICE-20.
+[03:14:00	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.23).
+[03:14:00	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:14:00	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.23).
+[03:14:00	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:14:00	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the right arm dealing 9 damage (CritChance was 0.23).
+[03:14:00	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[03:14:01	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655647.
+[03:14:01	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655649.
+[03:14:02	]S10/WALLHAMMER.ICE-20 is fully healed.
+[03:14:02	]Crash test dummy has gained a '20rnd DMR-magazine' #1652269.
+[03:14:02	]Crash test dummy has lost a '20rnd DMR-magazine' #1652267.
+[03:14:09	][IC] S10/WALLHAMMER.ICE-20: <:: Inject. ::>
+[03:14:10	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the head dealing 22 damage (CritChance was 1.01).
+[03:14:10	]Crash test dummy has taken 22 damage from S10/WALLHAMMER.ICE-20.
+[03:14:11	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the chest dealing 14 damage (CritChance was 1.01).
+[03:14:11	]Crash test dummy has taken 13 damage from S10/WALLHAMMER.ICE-20.
+[03:14:11	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the right arm dealing 4 damage (CritChance was 1.01).
+[03:14:11	]Crash test dummy has taken 3 damage from S10/WALLHAMMER.ICE-20.
+[03:14:11	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the right leg dealing 4 damage (CritChance was 1.01).
+[03:14:11	]Crash test dummy has taken 3 damage from S10/WALLHAMMER.ICE-20.
+[03:14:11	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the right arm dealing 4 damage (CritChance was 1.01).
+[03:14:11	]Crash test dummy has taken 3 damage from S10/WALLHAMMER.ICE-20.
+[03:14:11	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the right arm dealing 4 damage (CritChance was 1.01).
+[03:14:11	]Crash test dummy has taken 3 damage from S10/WALLHAMMER.ICE-20.
+[03:14:11	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.23).
+[03:14:11	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[03:14:11	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the right arm dealing 4 damage (CritChance was 1.01).
+[03:14:11	]Crash test dummy has taken 3 damage from S10/WALLHAMMER.ICE-20.
+[03:14:12	]S10/WALLHAMMER.ICE-20 is fully healed.
+[03:14:12	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the right arm dealing 9 damage (CritChance was 0.23).
+[03:14:12	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[03:14:12	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the chest dealing 21 damage (CritChance was 0.23).
+[03:14:12	]S10/WALLHAMMER.ICE-20 has taken 21 damage from Crash test dummy.
+[03:14:12	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the stomach dealing 14 damage (CritChance was 1.01).
+[03:14:12	]Crash test dummy has taken 14 damage from S10/WALLHAMMER.ICE-20.
+[03:14:12	]Crash test dummy has hit S10/WALLHAMMER.ICE-20 in the right arm dealing 9 damage (CritChance was 0.23).
+[03:14:12	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[03:14:12	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the chest dealing 34 damage (CritChance was 0.92).
+[03:14:12	]S10/WALLHAMMER.ICE-20 has taken 34 damage from Crash test dummy.
+[03:14:12	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the right arm dealing 9 damage (CritChance was 0.92).
+[03:14:12	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[03:14:12	]Crash test dummy has critically hit S10/WALLHAMMER.ICE-20 in the right arm dealing 9 damage (CritChance was 0.92).
+[03:14:12	]S10/WALLHAMMER.ICE-20 has taken 9 damage from Crash test dummy.
+[03:14:12	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the right leg dealing 0 damage (CritChance was 1.01).
+[03:14:12	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the head dealing 0 damage (CritChance was 1.01).
+[03:14:12	]S10/WALLHAMMER.ICE-20 has critically hit Crash test dummy in the head dealing 22 damage (CritChance was 1.01).
+[03:14:12	]Crash test dummy has gained a '20rnd DMR-magazine' #1652267.
+[03:14:12	]Crash test dummy was knocked unconscious and is bleeding out.
+[03:14:14	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655649.
+[03:14:14	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655648.
+[03:14:16	][IC] S10/WALLHAMMER.ICE-20: <:: Nearly got me. ::>
+[03:14:22	][IC] S10/WALLHAMMER.ICE-20: <:: If you didnt miss those 5 bullets. ::>
+[03:14:24	][IC] S10/WALLHAMMER.ICE-20: <:: You would've won. ::>
+[03:14:28	][IC] S10/WALLHAMMER.ICE-20: <:: THAT SHIT OP AF. ::>
+[03:14:29	]Crash test dummy was just killed due to: accepting their death
+[03:14:34	][OOC] Crash test dummy: do over
+[03:14:39	]Crash test dummy has spawned 'models/props/de_nuke/crate_extralarge.mdl'.
+[03:14:43	]Crash test dummy has spawned 'models/props/de_nuke/crate_extrasmall.mdl'.
+[03:14:45	][OOC] S10/WALLHAMMER.ICE-20: i'll go wallhammer
+[03:14:52	]S10/WALLHAMMER.ICE-20 ran 'removeMag' on item 'AR-2' (#1655683)
+[03:14:52	]S10/WALLHAMMER.ICE-20 has gained a '30rnd Pulse-magazine' #1655648.
+[03:14:53	]S10/WALLHAMMER.ICE-20 ran 'EquipUn' on item 'AR-2' (#1655683)
+[03:14:53	]Crash test dummy has spawned 'models/props/de_nuke/crate_extrasmall.mdl'.
+[03:14:53	]S10/WALLHAMMER.ICE-20 ran 'drop' on item 'AR-2' (#1655683)
+[03:14:53	]S10/WALLHAMMER.ICE-20 has lost a 'AR-2' #1655683.
+[03:14:55	]S10/WALLHAMMER.ICE-20 ran 'drop' on item 'Pulse Rifle Bullets' (#1655663)
+[03:14:55	]S10/WALLHAMMER.ICE-20 has lost a 'Pulse Rifle Bullets' #1655663.
+[03:14:55	]S10/WALLHAMMER.ICE-20 ran 'drop' on item '30rnd Pulse-magazine' (#1655649)
+[03:14:55	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655649.
+[03:14:56	]S10/WALLHAMMER.ICE-20 ran 'drop' on item 'Pulse Rifle Bullets' (#1655662)
+[03:14:56	]S10/WALLHAMMER.ICE-20 has lost a 'Pulse Rifle Bullets' #1655662.
+[03:14:56	]S10/WALLHAMMER.ICE-20 ran 'drop' on item '30rnd Pulse-magazine' (#1655648)
+[03:14:56	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655648.
+[03:14:57	]S10/WALLHAMMER.ICE-20 ran 'drop' on item '30rnd Pulse-magazine' (#1655647)
+[03:14:57	]S10/WALLHAMMER.ICE-20 has lost a '30rnd Pulse-magazine' #1655647.
+[03:14:58	]S10/WALLHAMMER.ICE-20 ran 'drop' on item 'OTA Elite Uniform' (#1655682)
+[03:14:58	]S10/WALLHAMMER.ICE-20 has lost a 'OTA Elite Uniform' #1655682.
+[03:14:59	]S10/WALLHAMMER.ICE-20 used the 'John Doe' vendor.
+[03:15:01	]S10/WALLHAMMER.ICE-20 has gained 0 chips.
+[03:15:01	]S10/WALLHAMMER.ICE-20 has gained a 'OTA Suppressor Uniform' #1655688.
+[03:15:06	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652269)
+[03:15:06	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652267)
+[03:15:07	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652267)
+[03:15:09	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1654833)
+[03:15:10	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652268)
+[03:15:10	][OOC] S10/WALLHAMMER.ICE-20: OH NOOOO THERES NO MAGS
+[03:15:11	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652268)
+[03:15:12	]Crash test dummy ran 'combine' on item 'Rifle Bullets' (#1655684)
+[03:15:22	][IC] S10/WALLHAMMER.ICE-20: // can you spawn shit?
+[03:15:24	][IC] S10/WALLHAMMER.ICE-20: // can you spawn shit?
+[03:15:28	][IC] S10/WALLHAMMER.ICE-20: Apf.
+[03:15:28	][LOOC] Crash test dummy: no
+[03:15:29	]Crash test dummy used the 'John Doe' vendor.
+[03:15:31	][IC] S10/WALLHAMMER.ICE-20: <:: APF. ::>
+[03:15:42	]S10/APF.ICE-20 used command '/SetOwnName S10/APF.ICE-20'.
+[03:15:43	][IC] S10/APF.ICE-20: <:: APF. ::>
+[03:15:45	][IC] S10/APF.ICE-20: <:: Haha. ::>
+[03:16:01	]Crash test dummy has gained 0 chips.
+[03:16:01	]Crash test dummy has gained a 'Containment Uniform' #1655689.
+[03:16:15	][LOOC] Crash test dummy: also
+[03:16:27	][LOOC] Crash test dummy: I probably would've won because I only had 75 armor compared to my real 100
+[03:16:34	]S10/APF.ICE-20 used the 'John Doe' vendor.
+[03:16:35	][LOOC] Crash test dummy: this uniform is more on point
+[03:16:37	][IC] Crash test dummy: Redo.
+[03:16:38	]Crash test dummy used the 'John Doe' vendor.
+[03:16:40	]Crash test dummy has gained 0 chips.
+[03:16:40	]Crash test dummy has gained a 'Rifle Bullets' #1655690.
+[03:16:40	]Crash test dummy has gained 0 chips.
+[03:16:40	]Crash test dummy has gained a 'Rifle Bullets' #1655691.
+[03:16:40	]S10/APF.ICE-20 has gained 0 chips.
+[03:16:41	]S10/APF.ICE-20 has gained a 'OSPR2A-EXP' #1655692.
+[03:16:41	]Crash test dummy has gained 0 chips.
+[03:16:41	]Crash test dummy has gained a 'Rifle Bullets' #1655693.
+[03:16:41	]Crash test dummy has gained 0 chips.
+[03:16:45	]Crash test dummy ran 'drop' on item 'CP Rank Leader Uniform' (#1652265)
+[03:16:45	]Crash test dummy has lost a 'CP Rank Leader Uniform' #1652265.
+[03:16:56	]Crash test dummy ran 'use' on item 'Dark Pills' (#1652297)
+[03:16:56	]Crash test dummy has gained a level 7 short boost in Strength.
+[03:16:56	]Crash test dummy has gained a level 7 short boost in Agility.
+[03:16:56	]Crash test dummy has gained a level 7 short boost in Intelligence.
+[03:16:56	]Crash test dummy has gained a level 7 short boost in Perception.
+[03:17:04	]Crash test dummy ran 'Equip' on item 'G3' (#1652222)
+[03:17:05	]Crash test dummy used command '/ToggleRaise'.
+[03:17:10	]Crash test dummy has lost a '20rnd DMR-magazine' #1654833.
+[03:17:15	]Crash test dummy destroyed a '30rnd Pulse-magazine' #1655648.
+[03:17:15	]Crash test dummy destroyed a 'CP Rank Leader Uniform' #1652265.
+[03:17:15	]Crash test dummy destroyed a 'Pulse Rifle Bullets' #1655662.
+[03:17:16	]Crash test dummy destroyed a 'AR-2' #1655683.
+[03:17:16	]Crash test dummy destroyed a 'OTA Elite Uniform' #1655682.
+[03:17:16	]Crash test dummy destroyed a 'Pulse Rifle Bullets' #1655663.
+[03:17:16	]Crash test dummy destroyed a '30rnd Pulse-magazine' #1655649.
+[03:17:17	]Crash test dummy destroyed a 'Rifle Bullets' #1655694.
+[03:17:19	]Crash test dummy destroyed a '30rnd Pulse-magazine' #1655647.
+[03:17:20	]Crash test dummy destroyed a 'SR-1A' #1655657.
+[03:17:21	]Crash test dummy destroyed a 'Combine PDA' #1652279.
+[03:17:22	]Crash test dummy destroyed a '30rnd Pulse-magazine' #1655620.
+[03:17:24	]Crash test dummy destroyed a 'OTA Elite Uniform' #1655674.
+[03:17:26	]Crash test dummy has gained a '20rnd DMR-magazine' #1654833.
+[03:17:26	]Crash test dummy has lost a '20rnd DMR-magazine' #1652269.
+[03:17:30	]S10/APF.ICE-20 used the 'John Doe' vendor.
+[03:17:33	]Crash test dummy destroyed a 'H&K P2000' #1652787.
+[03:17:35	]S10/APF.ICE-20 has gained 0 chips.
+[03:17:35	]S10/APF.ICE-20 has gained a 'Heavy Pulse Rounds' #1655695.
+[03:17:35	]S10/APF.ICE-20 has gained 0 chips.
+[03:17:35	]S10/APF.ICE-20 has gained a 'Heavy Pulse Rounds' #1655696.
+[03:17:35	]S10/APF.ICE-20 has gained 0 chips.
+[03:17:35	]S10/APF.ICE-20 has gained a 'Heavy Pulse Rounds' #1655697.
+[03:17:36	]S10/APF.ICE-20 has gained 0 chips.
+[03:17:36	]S10/APF.ICE-20 has gained a 'Heavy Pulse Rounds' #1655698.
+[03:17:36	]S10/APF.ICE-20 has gained 0 chips.
+[03:17:36	]S10/APF.ICE-20 has gained a 'Heavy Pulse Rounds' #1655699.
+[03:17:37	]S10/APF.ICE-20 has gained 0 chips.
+[03:17:37	]S10/APF.ICE-20 has gained a 'Heavy Pulse Rounds' #1655700.
+[03:17:37	]S10/APF.ICE-20 has gained 0 chips.
+[03:17:37	]S10/APF.ICE-20 has gained a 'Heavy Pulse Rounds' #1655701.
+[03:17:40	]S10/APF.ICE-20 has gained 0 chips.
+[03:17:40	]S10/APF.ICE-20 has gained a '30rnd Pulse-magazine' #1655702.
+[03:17:41	]S10/APF.ICE-20 has gained 0 chips.
+[03:17:41	]S10/APF.ICE-20 has gained a '30rnd Pulse-magazine' #1655703.
+[03:17:41	]S10/APF.ICE-20 has gained 0 chips.
+[03:17:41	]S10/APF.ICE-20 has gained a '30rnd Pulse-magazine' #1655704.
+[03:17:45	]S10/APF.ICE-20 ran 'drop' on item '30rnd Pulse-magazine' (#1655703)
+[03:17:45	]S10/APF.ICE-20 has lost a '30rnd Pulse-magazine' #1655703.
+[03:17:46	]S10/APF.ICE-20 ran 'drop' on item '30rnd Pulse-magazine' (#1655702)
+[03:17:46	]S10/APF.ICE-20 has lost a '30rnd Pulse-magazine' #1655702.
+[03:17:46	]S10/APF.ICE-20 ran 'drop' on item '30rnd Pulse-magazine' (#1655704)
+[03:17:46	]S10/APF.ICE-20 has lost a '30rnd Pulse-magazine' #1655704.
+[03:17:46	]S10/APF.ICE-20 used the 'John Doe' vendor.
+[03:17:47	][IC] Crash test dummy: Ow!
+[03:17:50	]Crash test dummy destroyed a '30rnd Pulse-magazine' #1655702.
+[03:17:50	]Crash test dummy destroyed a '30rnd Pulse-magazine' #1655704.
+[03:17:51	]Crash test dummy destroyed a '30rnd Pulse-magazine' #1655703.
+[03:17:51	]S10/APF.ICE-20 has gained 0 chips.
+[03:17:51	]S10/APF.ICE-20 has gained a '24rnd Heavy-Pulse Magazine' #1655705.
+[03:17:52	]S10/APF.ICE-20 has gained 0 chips.
+[03:17:52	]S10/APF.ICE-20 has gained a '24rnd Heavy-Pulse Magazine' #1655706.
+[03:17:52	]S10/APF.ICE-20 has gained 0 chips.
+[03:17:52	]S10/APF.ICE-20 has gained a '24rnd Heavy-Pulse Magazine' #1655707.
+[03:17:53	]S10/APF.ICE-20 has gained 0 chips.
+[03:17:53	]S10/APF.ICE-20 has gained a '24rnd Heavy-Pulse Magazine' #1655708.
+[03:17:54	]S10/APF.ICE-20 has gained 0 chips.
+[03:17:54	]S10/APF.ICE-20 has gained a '24rnd Heavy-Pulse Magazine' #1655709.
+[03:17:54	]Crash test dummy used the 'John Doe' vendor.
+[03:17:56	]S10/APF.ICE-20 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#1655706)
+[03:17:56	]S10/APF.ICE-20 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#1655707)
+[03:17:56	]Crash test dummy has gained 0 chips.
+[03:17:57	]S10/APF.ICE-20 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#1655705)
+[03:17:57	]Crash test dummy has gained a 'Rifle Bullets' #1655710.
+[03:17:57	]Crash test dummy has gained 0 chips.
+[03:17:57	]Crash test dummy has gained a 'Rifle Bullets' #1655711.
+[03:17:57	]S10/APF.ICE-20 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#1655709)
+[03:17:58	]S10/APF.ICE-20 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#1655708)
+[03:17:58	]S10/APF.ICE-20 used the 'John Doe' vendor.
+[03:18:00	]S10/APF.ICE-20 has gained 0 chips.
+[03:18:00	]S10/APF.ICE-20 has gained a 'Heavy Pulse Rounds' #1655712.
+[03:18:00	]S10/APF.ICE-20 has gained 0 chips.
+[03:18:00	]S10/APF.ICE-20 has gained a 'Heavy Pulse Rounds' #1655713.
+[03:18:01	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1654833)
+[03:18:01	]S10/APF.ICE-20 has gained 0 chips.
+[03:18:01	]S10/APF.ICE-20 has gained a 'Heavy Pulse Rounds' #1655714.
+[03:18:01	]S10/APF.ICE-20 has gained 0 chips.
+[03:18:01	]S10/APF.ICE-20 has gained a 'Heavy Pulse Rounds' #1655715.
+[03:18:02	]S10/APF.ICE-20 has gained 0 chips.
+[03:18:02	]S10/APF.ICE-20 has gained a 'Heavy Pulse Rounds' #1655716.
+[03:18:02	]S10/APF.ICE-20 has gained 0 chips.
+[03:18:02	]S10/APF.ICE-20 has gained a 'Heavy Pulse Rounds' #1655717.
+[03:18:02	]Crash test dummy has gained a '20rnd DMR-magazine' #1652269.
+[03:18:02	]Crash test dummy has lost a '20rnd DMR-magazine' #1654833.
+[03:18:03	]S10/APF.ICE-20 has gained 0 chips.
+[03:18:03	]S10/APF.ICE-20 has gained a 'Heavy Pulse Rounds' #1655718.
+[03:18:03	]S10/APF.ICE-20 has gained 0 chips.
+[03:18:03	]S10/APF.ICE-20 has gained a 'Heavy Pulse Rounds' #1655719.
+[03:18:04	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652269)
+[03:18:05	]Crash test dummy ran 'drop' on item 'Rifle Bullets' (#1655684)
+[03:18:05	]Crash test dummy has lost a 'Rifle Bullets' #1655684.
+[03:18:11	][IC] S10/APF.ICE-20: <:: Fuck i need bags. ::>
+[03:18:17	][IC] Crash test dummy: Ready?
+[03:18:20	]Crash test dummy used the 'John Doe' vendor.
+[03:18:23	]Crash test dummy has gained 0 chips.
+[03:18:23	]Crash test dummy has gained a 'OTA Mask' #1655720.
+[03:18:26	]S10/APF.ICE-20 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:18:26	]S10/APF.ICE-20 was knocked unconscious and is bleeding out.
+[03:18:38	][IC] Crash test dummy: <:: ,. ::>
+[03:18:43	][IC] Crash test dummy: <:: 200. ::>
+[03:18:44	]S10/APF.ICE-20 was just killed due to: accepting their death
+[03:18:48	]S10/APF.ICE-20 used command '/Radio imdow nLOL'.
+[03:18:57	]S10/APF.ICE-20 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:19:38	]S10/APF.ICE-20 ran 'Equip' on item 'OSPR2A-EXP' (#1655692)
+[03:19:39	]S10/APF.ICE-20 used command '/ToggleRaise'.
+[03:19:40	]S10/APF.ICE-20 has lost a '24rnd Heavy-Pulse Magazine' #1655709.
+[03:19:43	][OOC] S10/APF.ICE-20: R?
+[03:19:46	][IC] Crash test dummy: <:: SECTOR OVERRUN TEAM DOWN. ::>
+[03:19:50	][IC] Crash test dummy: <:: Overwatch, sector overrun! Repeat, sector overrun! ::>
+[03:19:55	][IC] Crash test dummy: <:: TEAM DOWN. ::>
+[03:19:59	][IC] Crash test dummy: <:: Overwatch, team is down, sector is not controlled. ::>
+[03:20:02	][OOC] Crash test dummy: r
+[03:20:05	]S10/APF.ICE-20 used command '/Radio REFIND'.
+[03:20:07	]S10/APF.ICE-20 used command '/Radio haha4'.
+[03:20:11	]Crash test dummy used command '/SC OTA'.
+[03:20:23	]Crash test dummy used command '/Radio SECTOR OVERRUN'.
+[03:20:25	]S10/APF.ICE-20 used command '/Radio ANTICITIZEN ONE'.
+[03:20:29	]S10/APF.ICE-20 has hit Crash test dummy dealing 16 damage (CritChance was 0.50).
+[03:20:29	]Crash test dummy has taken 16 damage from S10/APF.ICE-20.
+[03:20:31	]S10/APF.ICE-20 has gained a '24rnd Heavy-Pulse Magazine' #1655709.
+[03:20:31	]S10/APF.ICE-20 has lost a '24rnd Heavy-Pulse Magazine' #1655708.
+[03:20:34	]S10/APF.ICE-20 used command '/Radio haha'.
+[03:20:39	]Crash test dummy used command '/Radio Using a broken gun, huh?'.
+[03:20:39	]S10/APF.ICE-20 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#1655709)
+[03:20:44	]S10/APF.ICE-20 used command '/Radio it's the APF gun'.
+[03:21:06	]S10/APF.ICE-20 has hit Crash test dummy dealing 0 damage (CritChance was 0.50).
+[03:21:06	]S10/APF.ICE-20 has hit Crash test dummy dealing 16 damage (CritChance was 0.50).
+[03:21:06	]Crash test dummy has taken 16 damage from S10/APF.ICE-20.
+[03:21:07	]Crash test dummy has hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.23).
+[03:21:07	]Crash test dummy has hit S10/APF.ICE-20 dealing 21 damage (CritChance was 0.23).
+[03:21:07	]S10/APF.ICE-20 has taken 21 damage from Crash test dummy.
+[03:21:07	]Crash test dummy has hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.23).
+[03:21:07	]Crash test dummy has hit S10/APF.ICE-20 dealing 21 damage (CritChance was 0.23).
+[03:21:07	]S10/APF.ICE-20 has taken 21 damage from Crash test dummy.
+[03:21:08	]Crash test dummy has hit S10/APF.ICE-20 dealing 21 damage (CritChance was 0.23).
+[03:21:08	]S10/APF.ICE-20 has taken 21 damage from Crash test dummy.
+[03:21:08	]Crash test dummy has hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.23).
+[03:21:08	]Crash test dummy has hit S10/APF.ICE-20 dealing 21 damage (CritChance was 0.23).
+[03:21:08	]S10/APF.ICE-20 has taken 21 damage from Crash test dummy.
+[03:21:08	]Crash test dummy has hit S10/APF.ICE-20 dealing 21 damage (CritChance was 0.23).
+[03:21:08	]S10/APF.ICE-20 has taken 21 damage from Crash test dummy.
+[03:21:08	]Crash test dummy has hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.23).
+[03:21:08	]Crash test dummy has hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.23).
+[03:21:08	]Crash test dummy has hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.23).
+[03:21:08	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.23).
+[03:21:08	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 34 damage (CritChance was 0.23).
+[03:21:08	]S10/APF.ICE-20 has taken 34 damage from Crash test dummy.
+[03:21:08	]Crash test dummy has hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.23).
+[03:21:08	]Crash test dummy has hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.23).
+[03:21:08	]Crash test dummy has hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.23).
+[03:21:08	]Crash test dummy has hit S10/APF.ICE-20 dealing 21 damage (CritChance was 0.23).
+[03:21:08	]S10/APF.ICE-20 has taken 21 damage from Crash test dummy.
+[03:21:08	]Crash test dummy has hit S10/APF.ICE-20 dealing 21 damage (CritChance was 0.23).
+[03:21:08	]S10/APF.ICE-20 has taken 21 damage from Crash test dummy.
+[03:21:09	]Crash test dummy has gained a '20rnd DMR-magazine' #1654833.
+[03:21:09	]Crash test dummy has lost a '20rnd DMR-magazine' #1652269.
+[03:21:12	]S10/APF.ICE-20 is fully healed.
+[03:21:12	][IC] S10/APF.ICE-20: <:: Anti-citizen One confirmed, firing. ::>
+[03:21:19	]S10/APF.ICE-20 has gained a '24rnd Heavy-Pulse Magazine' #1655708.
+[03:21:19	]S10/APF.ICE-20 has lost a '24rnd Heavy-Pulse Magazine' #1655709.
+[03:21:25	]S10/APF.ICE-20 has hit Crash test dummy dealing 0 damage (CritChance was 0.50).
+[03:21:25	]S10/APF.ICE-20 has hit Crash test dummy dealing 16 damage (CritChance was 0.50).
+[03:21:25	]Crash test dummy has taken 16 damage from S10/APF.ICE-20.
+[03:21:25	]Crash test dummy has hit S10/APF.ICE-20 dealing 21 damage (CritChance was 0.23).
+[03:21:25	]S10/APF.ICE-20 has taken 21 damage from Crash test dummy.
+[03:21:25	]Crash test dummy has hit S10/APF.ICE-20 dealing 21 damage (CritChance was 0.23).
+[03:21:25	]S10/APF.ICE-20 has taken 21 damage from Crash test dummy.
+[03:21:25	]Crash test dummy has hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.23).
+[03:21:25	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 34 damage (CritChance was 0.23).
+[03:21:25	]S10/APF.ICE-20 has taken 34 damage from Crash test dummy.
+[03:21:25	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.94).
+[03:21:25	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.94).
+[03:21:25	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.94).
+[03:21:25	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 34 damage (CritChance was 0.94).
+[03:21:25	]S10/APF.ICE-20 has taken 34 damage from Crash test dummy.
+[03:21:26	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.94).
+[03:21:26	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 34 damage (CritChance was 0.94).
+[03:21:26	]S10/APF.ICE-20 has taken 34 damage from Crash test dummy.
+[03:21:26	]S10/APF.ICE-20 has critically hit Crash test dummy dealing 25 damage (CritChance was 0.50).
+[03:21:26	]Crash test dummy has taken 25 damage from S10/APF.ICE-20.
+[03:21:26	]S10/APF.ICE-20 has critically hit Crash test dummy dealing 0 damage (CritChance was 0.50).
+[03:21:26	]S10/APF.ICE-20 has critically hit Crash test dummy dealing 25 damage (CritChance was 0.50).
+[03:21:26	]Crash test dummy has taken 25 damage from S10/APF.ICE-20.
+[03:21:26	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.91).
+[03:21:26	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 26 damage (CritChance was 0.91).
+[03:21:26	]S10/APF.ICE-20 has taken 26 damage from Crash test dummy.
+[03:21:27	]Crash test dummy has gained a '20rnd DMR-magazine' #1652269.
+[03:21:27	]Crash test dummy has lost a '20rnd DMR-magazine' #1652268.
+[03:21:27	]S10/APF.ICE-20 has hit Crash test dummy dealing 16 damage (CritChance was 0.50).
+[03:21:27	]Crash test dummy has gained a '20rnd DMR-magazine' #1652268.
+[03:21:27	]Crash test dummy was knocked unconscious and is bleeding out.
+[03:21:33	][LOOC] Crash test dummy: how did that land?
+[03:21:37	][LOOC] Crash test dummy: I was behind cover?
+[03:21:47	][IC] S10/APF.ICE-20: <:: That's it. ::>
+[03:21:51	]Crash test dummy was just killed due to: accepting their death
+[03:21:55	]S10/APF.ICE-20 has gained a '24rnd Heavy-Pulse Magazine' #1655709.
+[03:21:55	]S10/APF.ICE-20 has lost a '24rnd Heavy-Pulse Magazine' #1655707.
+[03:21:58	][OOC] Crash test dummy: btw yeah that ignored armor completely
+[03:21:59	][IC] S10/APF.ICE-20: <:: Clean kill. ::>
+[03:22:05	][OOC] Crash test dummy: still 100 armor
+[03:22:06	][OOC] S10/APF.ICE-20: yeah it's supposed to
+[03:22:11	][OOC] Crash test dummy: a bit cheap.
+[03:22:14	]S10/APF.ICE-20 ran 'EquipUn' on item 'OSPR2A-EXP' (#1655692)
+[03:22:14	]S10/APF.ICE-20 has gained a '24rnd Heavy-Pulse Magazine' #1655707.
+[03:22:14	]Crash test dummy has spawned 'models/props/de_nuke/crate_extralarge.mdl'.
+[03:22:15	]S10/APF.ICE-20 ran 'drop' on item 'OSPR2A-EXP' (#1655692)
+[03:22:15	]S10/APF.ICE-20 has lost a 'OSPR2A-EXP' #1655692.
+[03:22:15	]S10/APF.ICE-20 ran 'drop' on item '24rnd Heavy-Pulse Magazine' (#1655707)
+[03:22:15	]S10/APF.ICE-20 has lost a '24rnd Heavy-Pulse Magazine' #1655707.
+[03:22:16	]S10/APF.ICE-20 ran 'drop' on item 'Heavy Pulse Rounds' (#1655715)
+[03:22:16	]S10/APF.ICE-20 has lost a 'Heavy Pulse Rounds' #1655715.
+[03:22:16	]S10/APF.ICE-20 ran 'drop' on item 'Heavy Pulse Rounds' (#1655713)
+[03:22:16	]S10/APF.ICE-20 has lost a 'Heavy Pulse Rounds' #1655713.
+[03:22:16	]S10/APF.ICE-20 ran 'drop' on item 'Heavy Pulse Rounds' (#1655712)
+[03:22:16	]S10/APF.ICE-20 has lost a 'Heavy Pulse Rounds' #1655712.
+[03:22:16	]S10/APF.ICE-20 ran 'drop' on item 'Heavy Pulse Rounds' (#1655714)
+[03:22:16	]S10/APF.ICE-20 has lost a 'Heavy Pulse Rounds' #1655714.
+[03:22:16	]S10/APF.ICE-20 ran 'drop' on item '24rnd Heavy-Pulse Magazine' (#1655706)
+[03:22:16	]S10/APF.ICE-20 has lost a '24rnd Heavy-Pulse Magazine' #1655706.
+[03:22:17	]S10/APF.ICE-20 ran 'drop' on item 'Heavy Pulse Rounds' (#1655719)
+[03:22:17	]S10/APF.ICE-20 has lost a 'Heavy Pulse Rounds' #1655719.
+[03:22:17	]S10/APF.ICE-20 ran 'drop' on item '24rnd Heavy-Pulse Magazine' (#1655705)
+[03:22:17	]S10/APF.ICE-20 has lost a '24rnd Heavy-Pulse Magazine' #1655705.
+[03:22:17	]S10/APF.ICE-20 ran 'drop' on item 'Heavy Pulse Rounds' (#1655718)
+[03:22:17	]S10/APF.ICE-20 has lost a 'Heavy Pulse Rounds' #1655718.
+[03:22:18	]S10/APF.ICE-20 ran 'drop' on item 'Heavy Pulse Rounds' (#1655717)
+[03:22:18	]S10/APF.ICE-20 has lost a 'Heavy Pulse Rounds' #1655717.
+[03:22:18	]S10/APF.ICE-20 ran 'drop' on item 'Heavy Pulse Rounds' (#1655716)
+[03:22:18	]S10/APF.ICE-20 has lost a 'Heavy Pulse Rounds' #1655716.
+[03:22:18	]S10/APF.ICE-20 ran 'drop' on item 'Heavy Pulse Rounds' (#1655700)
+[03:22:18	]S10/APF.ICE-20 has lost a 'Heavy Pulse Rounds' #1655700.
+[03:22:18	]S10/APF.ICE-20 ran 'drop' on item '24rnd Heavy-Pulse Magazine' (#1655709)
+[03:22:18	]S10/APF.ICE-20 has lost a '24rnd Heavy-Pulse Magazine' #1655709.
+[03:22:19	]S10/APF.ICE-20 ran 'drop' on item '24rnd Heavy-Pulse Magazine' (#1655708)
+[03:22:19	]S10/APF.ICE-20 has lost a '24rnd Heavy-Pulse Magazine' #1655708.
+[03:22:19	]S10/APF.ICE-20 ran 'drop' on item 'Heavy Pulse Rounds' (#1655699)
+[03:22:19	]S10/APF.ICE-20 has lost a 'Heavy Pulse Rounds' #1655699.
+[03:22:21	]Crash test dummy has spawned 'models/props/de_nuke/crate_large.mdl'.
+[03:22:27	][OOC] S10/APF.ICE-20: i'll use the PS2
+[03:22:28	]S10/APF.ICE-20 used the 'John Doe' vendor.
+[03:22:32	]Crash test dummy has spawned 'models/props/de_nuke/crate_extralarge.mdl'.
+[03:22:32	]S10/APF.ICE-20 has gained 0 chips.
+[03:22:32	]S10/APF.ICE-20 has gained a 'AR-2' #1655721.
+[03:22:34	]Crash test dummy has spawned 'models/props/de_nuke/crate_extrasmall.mdl'.
+[03:22:37	]S10/APF.ICE-20 has gained 0 chips.
+[03:22:37	]S10/APF.ICE-20 has gained a 'Pulse Rifle Bullets' #1655722.
+[03:22:37	]S10/APF.ICE-20 has gained 0 chips.
+[03:22:37	]S10/APF.ICE-20 has gained a 'Pulse Rifle Bullets' #1655723.
+[03:22:38	]S10/APF.ICE-20 has gained 0 chips.
+[03:22:38	]S10/APF.ICE-20 has gained a 'Pulse Rifle Bullets' #1655724.
+[03:22:38	]S10/APF.ICE-20 has gained 0 chips.
+[03:22:38	]S10/APF.ICE-20 has gained a 'Pulse Rifle Bullets' #1655725.
+[03:22:38	]S10/APF.ICE-20 has gained 0 chips.
+[03:22:38	]S10/APF.ICE-20 has gained a 'Pulse Rifle Bullets' #1655726.
+[03:22:39	]S10/APF.ICE-20 has gained 0 chips.
+[03:22:39	]S10/APF.ICE-20 has gained a 'Pulse Rifle Bullets' #1655727.
+[03:22:39	]S10/APF.ICE-20 has gained 0 chips.
+[03:22:39	]S10/APF.ICE-20 has gained a 'Pulse Rifle Bullets' #1655728.
+[03:22:40	]S10/APF.ICE-20 has gained 0 chips.
+[03:22:40	]S10/APF.ICE-20 has gained a 'Pulse Rifle Bullets' #1655729.
+[03:22:40	]S10/APF.ICE-20 has gained 0 chips.
+[03:22:40	]S10/APF.ICE-20 has gained a 'Pulse Rifle Bullets' #1655730.
+[03:22:43	]S10/APF.ICE-20 has gained 0 chips.
+[03:22:43	]S10/APF.ICE-20 has gained a '30rnd Pulse-magazine' #1655731.
+[03:22:43	]S10/APF.ICE-20 has gained 0 chips.
+[03:22:43	]S10/APF.ICE-20 has gained a '30rnd Pulse-magazine' #1655732.
+[03:22:44	]S10/APF.ICE-20 has gained 0 chips.
+[03:22:44	]S10/APF.ICE-20 has gained a '30rnd Pulse-magazine' #1655733.
+[03:22:47	]S10/APF.ICE-20 has gained 0 chips.
+[03:22:47	]S10/APF.ICE-20 has gained a 'Pulse Rifle Bullets' #1655734.
+[03:22:48	]S10/APF.ICE-20 has gained 0 chips.
+[03:22:48	]S10/APF.ICE-20 has gained a 'Pulse Rifle Bullets' #1655735.
+[03:22:48	]S10/APF.ICE-20 has gained 0 chips.
+[03:22:48	]S10/APF.ICE-20 has gained a 'Pulse Rifle Bullets' #1655736.
+[03:22:49	]S10/APF.ICE-20 has gained 0 chips.
+[03:22:49	]Crash test dummy ran 'Equip' on item 'G3' (#1652222)
+[03:22:51	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1654833)
+[03:22:51	]S10/APF.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655731)
+[03:22:52	]S10/APF.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655733)
+[03:22:52	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652269)
+[03:22:53	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652269)
+[03:22:53	]S10/APF.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655732)
+[03:22:53	]S10/APF.ICE-20 ran 'drop' on item 'Incendiary Grenade' (#1652000)
+[03:22:53	]S10/APF.ICE-20 has lost a 'Incendiary Grenade' #1652000.
+[03:22:54	]Crash test dummy used command '/ToggleRaise'.
+[03:22:57	]S10/APF.ICE-20 ran 'drop' on item 'OTA Suppressor Uniform' (#1655688)
+[03:22:57	]S10/APF.ICE-20 has lost a 'OTA Suppressor Uniform' #1655688.
+[03:22:57	]S10/APF.ICE-20 used the 'John Doe' vendor.
+[03:23:00	]Crash test dummy has critically hit S10/APF.ICE-20 in the chest dealing 34 damage (CritChance was 0.84).
+[03:23:00	]S10/APF.ICE-20 has taken 34 damage from Crash test dummy.
+[03:23:01	]Crash test dummy has lost a '20rnd DMR-magazine' #1654833.
+[03:23:07	]Crash test dummy has critically hit S10/APF.ICE-20 in the right arm dealing 9 damage (CritChance was 0.73).
+[03:23:07	]S10/APF.ICE-20 has taken 9 damage from Crash test dummy.
+[03:23:08	]Crash test dummy has critically hit S10/APF.ICE-20 in the right arm dealing 9 damage (CritChance was 0.73).
+[03:23:08	]S10/APF.ICE-20 was knocked unconscious and is bleeding out.
+[03:23:08	]S10/APF.ICE-20 has gained 0 chips.
+[03:23:08	]S10/APF.ICE-20 has gained a 'OTA Suppressor Uniform' #1655738.
+[03:23:10	]S10/APF.ICE-20 used the 'John Doe' vendor.
+[03:23:17	]Crash test dummy destroyed a '24rnd Heavy-Pulse Magazine' #1655705.
+[03:23:17	]Crash test dummy destroyed a '24rnd Heavy-Pulse Magazine' #1655707.
+[03:23:17	]Crash test dummy destroyed a 'Heavy Pulse Rounds' #1655715.
+[03:23:17	]Crash test dummy destroyed a '24rnd Heavy-Pulse Magazine' #1655708.
+[03:23:17	]Crash test dummy destroyed a '24rnd Heavy-Pulse Magazine' #1655709.
+[03:23:18	]Crash test dummy destroyed a 'Heavy Pulse Rounds' #1655712.
+[03:23:18	]Crash test dummy destroyed a 'Heavy Pulse Rounds' #1655719.
+[03:23:18	]Crash test dummy destroyed a 'Heavy Pulse Rounds' #1655699.
+[03:23:18	]Crash test dummy destroyed a 'Heavy Pulse Rounds' #1655700.
+[03:23:18	]Crash test dummy destroyed a 'Heavy Pulse Rounds' #1655713.
+[03:23:19	]Crash test dummy destroyed a 'Heavy Pulse Rounds' #1655714.
+[03:23:20	]Crash test dummy destroyed a '24rnd Heavy-Pulse Magazine' #1655706.
+[03:23:20	]Crash test dummy destroyed a 'Heavy Pulse Rounds' #1655718.
+[03:23:21	]Crash test dummy has gained a '20rnd DMR-magazine' #1654833.
+[03:23:21	]Crash test dummy has lost a '20rnd DMR-magazine' #1652269.
+[03:23:24	]S10/APF.ICE-20 was just killed due to: accepting their death
+[03:23:27	]Crash test dummy destroyed a 'Rifle Bullets' #1655684.
+[03:23:27	]Crash test dummy destroyed a 'Pulse Rifle Bullets' #1655737.
+[03:23:28	]Crash test dummy destroyed a 'Heavy Pulse Rounds' #1655716.
+[03:23:29	]S10/APF.ICE-20 used command '/Radio apf'.
+[03:23:29	]Crash test dummy destroyed a 'Heavy Pulse Rounds' #1655717.
+[03:23:29	]Crash test dummy destroyed a 'OSPR2A-EXP' #1655692.
+[03:23:36	]Crash test dummy used command '/ToggleRaise'.
+[03:23:41	][IC] S10/APF.ICE-20: <:: Ready. ::>
+[03:23:43	]S10/APF.ICE-20 ran 'Equip' on item 'AR-2' (#1655721)
+[03:23:43	][IC] Crash test dummy: <:: Use regular OTA guns. ::>
+[03:23:44	]S10/APF.ICE-20 used command '/ToggleRaise'.
+[03:23:46	]S10/APF.ICE-20 used the 'John Doe' vendor.
+[03:23:51	]S10/APF.ICE-20 has gained 0 chips.
+[03:23:51	]S10/APF.ICE-20 has gained a 'Pulse Rifle Bullets' #1655739.
+[03:23:53	][IC] Crash test dummy: <:: Stuff you'd normally deploy with. ::>
+[03:23:54	]S10/APF.ICE-20 has lost a '30rnd Pulse-magazine' #1655733.
+[03:23:55	][IC] S10/APF.ICE-20: <:: Ready. ::>
+[03:23:59	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1654833)
+[03:24:01	]Crash test dummy used the 'John Doe' vendor.
+[03:24:03	]Crash test dummy has gained 0 chips.
+[03:24:03	]Crash test dummy has gained a 'Rifle Bullets' #1655740.
+[03:24:03	]Crash test dummy has gained 0 chips.
+[03:24:03	]Crash test dummy has gained a 'Rifle Bullets' #1655741.
+[03:24:04	]Crash test dummy has gained 0 chips.
+[03:24:04	]Crash test dummy has gained a 'Rifle Bullets' #1655742.
+[03:24:06	][IC] S10/APF.ICE-20: <:: APF is engaged and firing. ::>
+[03:24:08	][OOC] Crash test dummy: r
+[03:24:14	][IC] S10/APF.ICE-20: <:: APF is engaged and firing. ::>
+[03:24:24	]Crash test dummy used command '/Radio WEAPON OFF'.
+[03:24:25	]Crash test dummy used command '/ToggleRaise'.
+[03:24:28	]S10/APF.ICE-20 used command '/Radio FIRING7'.
+[03:24:36	]S10/APF.ICE-20 has gained a '30rnd Pulse-magazine' #1655733.
+[03:24:36	]S10/APF.ICE-20 has lost a '30rnd Pulse-magazine' #1655732.
+[03:24:49	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 34 damage (CritChance was 0.21).
+[03:24:49	]S10/APF.ICE-20 has taken 34 damage from Crash test dummy.
+[03:24:49	]Crash test dummy has hit S10/APF.ICE-20 dealing 21 damage (CritChance was 0.21).
+[03:24:49	]S10/APF.ICE-20 has taken 21 damage from Crash test dummy.
+[03:24:50	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.21).
+[03:24:50	]Crash test dummy has hit S10/APF.ICE-20 dealing 21 damage (CritChance was 0.21).
+[03:24:50	]S10/APF.ICE-20 has taken 21 damage from Crash test dummy.
+[03:24:50	]Crash test dummy has hit S10/APF.ICE-20 dealing 21 damage (CritChance was 0.21).
+[03:24:50	]S10/APF.ICE-20 has taken 21 damage from Crash test dummy.
+[03:24:50	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 34 damage (CritChance was 0.21).
+[03:24:50	]S10/APF.ICE-20 has taken 34 damage from Crash test dummy.
+[03:24:50	]Crash test dummy has hit S10/APF.ICE-20 dealing 21 damage (CritChance was 0.21).
+[03:24:50	]S10/APF.ICE-20 has taken 21 damage from Crash test dummy.
+[03:24:50	]S10/APF.ICE-20 has hit Crash test dummy dealing 13 damage (CritChance was 0.66).
+[03:24:50	]Crash test dummy has taken 13 damage from S10/APF.ICE-20.
+[03:24:50	]S10/APF.ICE-20 has critically hit Crash test dummy dealing 13 damage (CritChance was 0.66).
+[03:24:50	]Crash test dummy has taken 13 damage from S10/APF.ICE-20.
+[03:24:51	]Crash test dummy has gained a '20rnd DMR-magazine' #1652269.
+[03:24:51	]Crash test dummy has lost a '20rnd DMR-magazine' #1654833.
+[03:24:52	]S10/APF.ICE-20 is fully healed.
+[03:24:54	]S10/APF.ICE-20 has gained a '30rnd Pulse-magazine' #1655732.
+[03:24:54	]S10/APF.ICE-20 has lost a '30rnd Pulse-magazine' #1655731.
+[03:24:55	]Crash test dummy is fully healed.
+[03:24:56	][IC] S10/APF.ICE-20: <:: Engaged and firing. ::>
+[03:24:58	]S10/APF.ICE-20 has critically hit Crash test dummy dealing 12 damage (CritChance was 0.66).
+[03:24:58	]Crash test dummy has taken 12 damage from S10/APF.ICE-20.
+[03:24:58	]S10/APF.ICE-20 has critically hit Crash test dummy dealing 12 damage (CritChance was 0.66).
+[03:24:58	]Crash test dummy has taken 12 damage from S10/APF.ICE-20.
+[03:24:59	]S10/APF.ICE-20 has critically hit Crash test dummy dealing 12 damage (CritChance was 0.66).
+[03:24:59	]Crash test dummy has taken 12 damage from S10/APF.ICE-20.
+[03:24:59	]S10/APF.ICE-20 has critically hit Crash test dummy dealing 0 damage (CritChance was 0.66).
+[03:24:59	]S10/APF.ICE-20 has critically hit Crash test dummy dealing 12 damage (CritChance was 0.66).
+[03:24:59	]Crash test dummy has taken 12 damage from S10/APF.ICE-20.
+[03:24:59	]S10/APF.ICE-20 has critically hit Crash test dummy dealing 12 damage (CritChance was 0.66).
+[03:24:59	]Crash test dummy has taken 12 damage from S10/APF.ICE-20.
+[03:24:59	]S10/APF.ICE-20 has hit Crash test dummy dealing 12 damage (CritChance was 0.66).
+[03:24:59	]Crash test dummy has taken 12 damage from S10/APF.ICE-20.
+[03:25:00	]S10/APF.ICE-20 has critically hit Crash test dummy dealing 13 damage (CritChance was 1.01).
+[03:25:00	]Crash test dummy has taken 12 damage from S10/APF.ICE-20.
+[03:25:01	]S10/APF.ICE-20 has gained a '30rnd Pulse-magazine' #1655731.
+[03:25:01	]S10/APF.ICE-20 has lost a '30rnd Pulse-magazine' #1655732.
+[03:25:01	]Crash test dummy has hit S10/APF.ICE-20 dealing 21 damage (CritChance was 0.21).
+[03:25:01	]S10/APF.ICE-20 has taken 21 damage from Crash test dummy.
+[03:25:02	]S10/APF.ICE-20 is fully healed.
+[03:25:06	]Crash test dummy has hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.21).
+[03:25:06	]Crash test dummy has hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.21).
+[03:25:06	]Crash test dummy has hit S10/APF.ICE-20 dealing 21 damage (CritChance was 0.21).
+[03:25:06	]S10/APF.ICE-20 has taken 21 damage from Crash test dummy.
+[03:25:06	]Crash test dummy has hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.21).
+[03:25:06	]Crash test dummy has hit S10/APF.ICE-20 dealing 21 damage (CritChance was 0.21).
+[03:25:06	]S10/APF.ICE-20 has taken 21 damage from Crash test dummy.
+[03:25:07	]S10/APF.ICE-20 is fully healed.
+[03:25:08	]Crash test dummy has hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.21).
+[03:25:08	]Crash test dummy has hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.21).
+[03:25:08	]Crash test dummy has hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.21).
+[03:25:08	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 34 damage (CritChance was 0.21).
+[03:25:08	]S10/APF.ICE-20 has taken 34 damage from Crash test dummy.
+[03:25:08	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.21).
+[03:25:08	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 34 damage (CritChance was 0.21).
+[03:25:08	]S10/APF.ICE-20 has taken 34 damage from Crash test dummy.
+[03:25:08	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 34 damage (CritChance was 0.84).
+[03:25:08	]S10/APF.ICE-20 has taken 34 damage from Crash test dummy.
+[03:25:08	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 34 damage (CritChance was 0.84).
+[03:25:08	]S10/APF.ICE-20 has taken 34 damage from Crash test dummy.
+[03:25:09	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 5 damage (CritChance was 0.84).
+[03:25:09	]S10/APF.ICE-20 has taken 4 damage from Crash test dummy.
+[03:25:09	]Crash test dummy has gained a '20rnd DMR-magazine' #1654833.
+[03:25:09	]Crash test dummy has lost a '20rnd DMR-magazine' #1652268.
+[03:25:18	]S10/APF.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655733)
+[03:25:19	]S10/APF.ICE-20 ran 'combine' on item '30rnd Pulse-magazine' (#1655731)
+[03:25:19	]S10/APF.ICE-20 has gained a '30rnd Pulse-magazine' #1655732.
+[03:25:19	]S10/APF.ICE-20 has lost a '30rnd Pulse-magazine' #1655733.
+[03:25:26	]S10/APF.ICE-20 has critically hit Crash test dummy dealing 13 damage (CritChance was 0.99).
+[03:25:26	]Crash test dummy has taken 13 damage from S10/APF.ICE-20.
+[03:25:26	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 34 damage (CritChance was 0.84).
+[03:25:26	]S10/APF.ICE-20 has taken 34 damage from Crash test dummy.
+[03:25:27	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.84).
+[03:25:27	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 34 damage (CritChance was 0.84).
+[03:25:27	]S10/APF.ICE-20 has gained a '30rnd Pulse-magazine' #1655733.
+[03:25:27	]S10/APF.ICE-20 was knocked unconscious and is bleeding out.
+[03:25:29	][Y] S10/APF.ICE-20: <:: DAMN. ::>
+[03:25:32	][IC] S10/APF.ICE-20: <:: That SHIT SLAPS. ::>
+[03:25:37	][IC] S10/APF.ICE-20: <:: Is that the G3? ::>
+[03:25:38	][IC] Crash test dummy: <:: Not so easy when you're ignoring all my armor, huh. ::>
+[03:25:40	][IC] Crash test dummy: <:: Yeah. ::>
+[03:25:43	][IC] Crash test dummy: <:: Same mods I have on MAIN. ::>
+[03:25:48	][IC] S10/APF.ICE-20: <:: Fuck we gotta FUCKING SHOTCOP. ::>
+[03:25:51	][IC] S10/APF.ICE-20: <:: With that shit. ::>
+[03:25:59	][IC] S10/APF.ICE-20: <:: It slap hard. ::>
+[03:26:06	]S10/APF.ICE-20 was just killed due to: accepting their death
+[03:26:07	][IC] Crash test dummy: <:: Agreed.. ::>
+[03:26:12	][OOC] S10/APF.ICE-20: give me one G3
+[03:26:34	]S10/APF.ICE-20 has spawned 'models/props_junk/metalgascan.mdl'.
+[03:26:39	]Crash test dummy has gained a '20rnd DMR-magazine' #1652268.
+[03:26:39	]Crash test dummy has lost a '20rnd DMR-magazine' #1652267.
+[03:26:42	][OOC] S10/APF.ICE-20: give me one G3
+[03:26:44	]S10/APF.ICE-20 has spawned 'models/props_lab/blastdoor001a.mdl'.
+[03:26:47	][OOC] Crash test dummy: I can't
+[03:26:49	][OOC] Crash test dummy: no perms
+[03:26:50	]Crash test dummy has gained a '20rnd DMR-magazine' #1652267.
+[03:26:50	]Crash test dummy was knocked unconscious and is bleeding out.
+[03:26:52	][IC] Crash test dummy: <:: Whore. ::>
+[03:26:53	][OOC] S10/APF.ICE-20: you die then
+[03:27:07	]Crash test dummy was just killed due to: accepting their death
+[03:27:08	]Crash test dummy used command '/CharGetUp'.
+[03:27:09	]Crash test dummy used command '/CharGetUp'.
+[03:27:10	]Crash test dummy used command '/CharGetUp'.
+[03:27:13	]Crash test dummy used command '/CharGetUp'.
+[03:27:13	]Crash test dummy used command '/CharGetUp'.
+[03:27:25	][OOC] Crash test dummy: Oh
+[03:27:26	]S10/APF.ICE-20 ran 'Equip' on item 'AR-2' (#1655721)
+[03:27:26	]S10/APF.ICE-20 used command '/ToggleRaise'.
+[03:27:27	][OOC] Crash test dummy: here
+[03:27:28	]S10/APF.ICE-20 has lost a '30rnd Pulse-magazine' #1655731.
+[03:27:39	][IC] Crash test dummy: <:: Behind you. ::>
+[03:27:46	][IC] S10/APF.ICE-20: <:: Hm? ::>
+[03:27:48	][IC] Crash test dummy: <:: Where did it.. ::>
+[03:27:52	][IC] Crash test dummy: <:: THROUGH THE FUCKING MAP;. ::>
+[03:27:54	][IC] Crash test dummy: <:: REEEEE. ::>
+[03:27:58	][IC] S10/APF.ICE-20: <:: What happened? ::>
+[03:28:06	][IC] Crash test dummy: <:: There we go. ::>
+[03:28:09	]Crash test dummy has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[03:28:11	]S10/APF.ICE-20 has gained a '30rnd Pulse-magazine' #1655731.
+[03:28:11	]S10/APF.ICE-20 was knocked unconscious and is bleeding out.
+[03:28:13	][IC] S10/APF.ICE-20: <:: Hoe. ::>
+[03:28:14	][IC] Crash test dummy: <:: Bitch. ::>
+[03:28:16	]S10/APF.ICE-20 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:28:17	]S10/APF.ICE-20 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:28:18	]S10/APF.ICE-20 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:28:19	]S10/APF.ICE-20 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:28:20	]S10/APF.ICE-20 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:28:21	]S10/APF.ICE-20 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:28:22	]S10/APF.ICE-20 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:28:23	]S10/APF.ICE-20 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:28:24	]S10/APF.ICE-20 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:28:26	]S10/APF.ICE-20 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:28:27	]S10/APF.ICE-20 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:28:27	]S10/APF.ICE-20 was just killed due to: accepting their death
+[03:28:31	]S10/APF.ICE-20 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:28:37	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652269)
+[03:28:40	]Crash test dummy ran 'Repair' on item 'Containment Uniform' (#1655689)
+[03:28:45	]Crash test dummy has taken 5 damage from S10/APF.ICE-20.
+[03:28:54	]Crash test dummy has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:28:56	]S10/APF.ICE-20 was knocked unconscious and is bleeding out.
+[03:29:04	][IC] Crash test dummy: You can't out prop kill me.
+[03:29:08	][IC] S10/APF.ICE-20: <:: Ys i can. ::>
+[03:29:13	][IC] Crash test dummy: I'm a master minge, forged through 10 years of GMOD.
+[03:29:14	]S10/APF.ICE-20 was just killed due to: accepting their death
+[03:29:19	]Crash test dummy ran 'Equip' on item 'G3' (#1652222)
+[03:29:21	]Crash test dummy used command '/ToggleRaise'.
+[03:29:26	]Crash test dummy has hit S10/APF.ICE-20 dealing 21 damage (CritChance was 0.21).
+[03:29:26	]S10/APF.ICE-20 has taken 21 damage from Crash test dummy.
+[03:29:27	]S10/APF.ICE-20 is fully healed.
+[03:29:28	]Crash test dummy has taken 5 damage from prop_physics.
+[03:29:33	]Crash test dummy has lost a '20rnd DMR-magazine' #1652269.
+[03:29:34	]Crash test dummy has gained a '20rnd DMR-magazine' #1652269.
+[03:29:34	]Crash test dummy was knocked unconscious and is bleeding out.
+[03:29:35	]Crash test dummy used command '/CharGetUp'.
+[03:29:49	]Crash test dummy was just killed due to: accepting their death
+[03:29:56	][OOC] Crash test dummy: Go through the TP doors
+[03:30:05	]Crash test dummy has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:30:10	]S10/APF.ICE-20 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:30:13	]Crash test dummy has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:30:23	]Crash test dummy has warped from Vorts - Box to Vorts - Slums.
+[03:30:30	]S10/APF.ICE-20 has warped from Vorts - Box to Vorts - Slums.
+[03:30:31	]Crash test dummy has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[03:30:36	]S10/APF.ICE-20 was knocked unconscious and is bleeding out.
+[03:30:39	][IC] S10/APF.ICE-20: <:: YOU BITCH. ::>
+[03:30:40	][IC] Crash test dummy: <:: HAHAHAHA. ::>
+[03:30:49	]Crash test dummy used command '/CharSearch'.
+[03:30:51	][IC] S10/APF.ICE-20: <:: Haha. ::>
+[03:30:52	]Crash test dummy ran 'drop' on item 'AR-2' (#1655721)
+[03:30:52	]S10/APF.ICE-20 has lost a 'AR-2' #1655721.
+[03:30:53	]Crash test dummy ran 'drop' on item 'Pulse Rifle Bullets' (#1655726)
+[03:30:53	]S10/APF.ICE-20 has lost a 'Pulse Rifle Bullets' #1655726.
+[03:30:53	]Crash test dummy ran 'drop' on item 'Pulse Rifle Bullets' (#1655727)
+[03:30:53	]S10/APF.ICE-20 has lost a 'Pulse Rifle Bullets' #1655727.
+[03:30:53	]Crash test dummy ran 'drop' on item 'Pulse Rifle Bullets' (#1655728)
+[03:30:53	]S10/APF.ICE-20 has lost a 'Pulse Rifle Bullets' #1655728.
+[03:30:54	]Crash test dummy ran 'drop' on item 'Pulse Rifle Bullets' (#1655729)
+[03:30:54	]S10/APF.ICE-20 has lost a 'Pulse Rifle Bullets' #1655729.
+[03:30:54	]Crash test dummy ran 'drop' on item 'Pulse Rifle Bullets' (#1655739)
+[03:30:54	]S10/APF.ICE-20 has lost a 'Pulse Rifle Bullets' #1655739.
+[03:30:54	]Crash test dummy ran 'drop' on item 'Pulse Rifle Bullets' (#1655734)
+[03:30:54	]S10/APF.ICE-20 has lost a 'Pulse Rifle Bullets' #1655734.
+[03:30:54	][IC] S10/APF.ICE-20: <:: Im coming for you. ::>
+[03:30:54	]Crash test dummy ran 'drop' on item 'Pulse Rifle Bullets' (#1655725)
+[03:30:54	]S10/APF.ICE-20 has lost a 'Pulse Rifle Bullets' #1655725.
+[03:30:55	]Crash test dummy ran 'drop' on item 'Pulse Rifle Bullets' (#1655724)
+[03:30:55	]S10/APF.ICE-20 has lost a 'Pulse Rifle Bullets' #1655724.
+[03:30:55	]Crash test dummy ran 'drop' on item 'Pulse Rifle Bullets' (#1655722)
+[03:30:55	]S10/APF.ICE-20 has lost a 'Pulse Rifle Bullets' #1655722.
+[03:30:55	]Crash test dummy ran 'drop' on item 'Pulse Rifle Bullets' (#1655723)
+[03:30:55	]S10/APF.ICE-20 has lost a 'Pulse Rifle Bullets' #1655723.
+[03:30:55	]S10/APF.ICE-20 was just killed due to: accepting their death
+[03:30:59	]Crash test dummy ran 'Equip' on item 'G3' (#1652222)
+[03:31:00	]Crash test dummy used command '/ToggleRaise'.
+[03:31:01	]Crash test dummy has lost a '20rnd DMR-magazine' #1652269.
+[03:31:07	]Crash test dummy destroyed a 'AR-2' #1655721.
+[03:31:07	]S10/APF.ICE-20 has warped from Vorts - Box to Vorts - Slums.
+[03:31:09	]Crash test dummy destroyed a 'Pulse Rifle Bullets' #1655725.
+[03:31:10	]Crash test dummy destroyed a 'Pulse Rifle Bullets' #1655722.
+[03:31:11	]Crash test dummy destroyed a 'Pulse Rifle Bullets' #1655729.
+[03:31:12	]S10/APF.ICE-20 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[03:31:17	]Crash test dummy has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[03:31:18	][IC] S10/APF.ICE-20: <:: Haha. ::>
+[03:31:20	][IC] S10/APF.ICE-20: <:: Haha. ::>
+[03:31:25	][IC] S10/APF.ICE-20: <:: You can come out now! ::>
+[03:31:26	][IC] S10/APF.ICE-20: <:: You can come out now! ::>
+[03:31:30	]S10/APF.ICE-20 has warped from Vorts - Slums to Vorts - Box.
+[03:31:37	][OOC] Crash test dummy: I'm safe here
+[03:31:37	]S10/APF.ICE-20 used the 'John Doe' vendor.
+[03:31:38	]Crash test dummy has gained a '20rnd DMR-magazine' #1652269.
+[03:31:38	]Crash test dummy has lost a '20rnd DMR-magazine' #1652267.
+[03:31:40	]S10/APF.ICE-20 has gained 0 chips.
+[03:31:40	]S10/APF.ICE-20 has gained a 'Flash Grenade' #1655743.
+[03:31:40	]S10/APF.ICE-20 has gained 0 chips.
+[03:31:40	]S10/APF.ICE-20 has gained a 'Flash Grenade' #1655744.
+[03:31:41	]S10/APF.ICE-20 has gained 0 chips.
+[03:31:41	]S10/APF.ICE-20 has gained a 'Flash Grenade' #1655745.
+[03:31:41	]S10/APF.ICE-20 has gained 0 chips.
+[03:31:41	]S10/APF.ICE-20 has gained a 'Flash Grenade' #1655746.
+[03:31:42	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1654833)
+[03:31:42	]S10/APF.ICE-20 has gained 0 chips.
+[03:31:42	]S10/APF.ICE-20 has gained a 'Flash Grenade' #1655747.
+[03:31:42	]S10/APF.ICE-20 has gained 0 chips.
+[03:31:42	]S10/APF.ICE-20 has gained a 'Flash Grenade' #1655748.
+[03:31:43	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652269)
+[03:31:43	]S10/APF.ICE-20 has gained 0 chips.
+[03:31:43	]S10/APF.ICE-20 has gained a 'Flash Grenade' #1655749.
+[03:31:43	]S10/APF.ICE-20 has gained 0 chips.
+[03:31:43	]S10/APF.ICE-20 has gained a 'Flash Grenade' #1655750.
+[03:31:44	]Crash test dummy ran 'combine' on item '20rnd DMR-magazine' (#1652268)
+[03:31:44	]S10/APF.ICE-20 has gained 0 chips.
+[03:31:44	]S10/APF.ICE-20 has gained a 'Frag Grenade' #1655751.
+[03:31:45	]Crash test dummy ran 'combine' on item 'Rifle Bullets' (#1655690)
+[03:31:45	]S10/APF.ICE-20 has gained 0 chips.
+[03:31:45	]S10/APF.ICE-20 has gained a 'Frag Grenade' #1655752.
+[03:31:45	]S10/APF.ICE-20 has gained 0 chips.
+[03:31:45	]S10/APF.ICE-20 has gained a 'Frag Grenade' #1655753.
+[03:31:45	]Crash test dummy ran 'combine' on item 'Rifle Bullets' (#1655690)
+[03:31:46	]S10/APF.ICE-20 has gained 0 chips.
+[03:31:46	]S10/APF.ICE-20 has gained a 'Frag Grenade' #1655754.
+[03:31:46	]S10/APF.ICE-20 has gained 0 chips.
+[03:31:46	]S10/APF.ICE-20 has gained a 'Frag Grenade' #1655755.
+[03:31:48	]S10/APF.ICE-20 has gained 0 chips.
+[03:31:48	]S10/APF.ICE-20 has gained a 'Smoke Grenade' #1655756.
+[03:31:48	]S10/APF.ICE-20 has gained 0 chips.
+[03:31:48	]S10/APF.ICE-20 has gained a 'Smoke Grenade' #1655757.
+[03:31:48	]S10/APF.ICE-20 has gained 0 chips.
+[03:31:48	]S10/APF.ICE-20 has gained a 'Smoke Grenade' #1655758.
+[03:31:49	]S10/APF.ICE-20 has gained 0 chips.
+[03:31:49	]S10/APF.ICE-20 has gained a 'Smoke Grenade' #1655759.
+[03:31:49	]S10/APF.ICE-20 has gained 0 chips.
+[03:31:49	]S10/APF.ICE-20 has gained a 'Smoke Grenade' #1655760.
+[03:31:53	][OOC] S10/APF.ICE-20: ARE YTOU?
+[03:31:55	]S10/APF.ICE-20 has warped from Vorts - Box to Vorts - Slums.
+[03:31:57	][IC] S10/APF.ICE-20: <:: Haha. ::>
+[03:31:57	][OOC] Crash test dummy: Very
+[03:31:58	][IC] S10/APF.ICE-20: <:: Haha. ::>
+[03:31:59	]S10/APF.ICE-20 ran 'Equip' on item 'Flash Grenade' (#1655748)
+[03:32:00	]S10/APF.ICE-20 used command '/ToggleRaise'.
+[03:32:02	]Crash test dummy has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[03:32:13	]S10/APF.ICE-20 ran 'Equip' on item 'Flash Grenade' (#1655747)
+[03:32:13	]S10/APF.ICE-20 used command '/ToggleRaise'.
+[03:32:18	]S10/APF.ICE-20 ran 'Equip' on item 'Flash Grenade' (#1655746)
+[03:32:19	]S10/APF.ICE-20 used command '/ToggleRaise'.
+[03:32:20	]Crash test dummy has spawned 'models/props_junk/sawblade001a.mdl'.
+[03:32:23	]S10/APF.ICE-20 ran 'Equip' on item 'Flash Grenade' (#1655745)
+[03:32:24	]S10/APF.ICE-20 used command '/ToggleRaise'.
+[03:32:34	]S10/APF.ICE-20 has taken 30 damage from Crash test dummy.
+[03:32:36	]S10/APF.ICE-20 ran 'Equip' on item 'Flash Grenade' (#1655744)
+[03:32:36	]S10/APF.ICE-20 used command '/ToggleRaise'.
+[03:32:37	]S10/APF.ICE-20 is fully healed.
+[03:32:41	]S10/APF.ICE-20 ran 'Equip' on item 'Flash Grenade' (#1655743)
+[03:32:41	]S10/APF.ICE-20 used command '/ToggleRaise'.
+[03:32:44	]Crash test dummy has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[03:32:44	]S10/APF.ICE-20 ran 'Equip' on item 'Flash Grenade' (#1655750)
+[03:32:45	]S10/APF.ICE-20 used command '/ToggleRaise'.
+[03:32:47	]Crash test dummy has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[03:32:48	]S10/APF.ICE-20 was knocked unconscious and is bleeding out.
+[03:32:52	][Y] S10/APF.ICE-20: <:: YOU HOE. ::>
+[03:32:57	][Y] Crash test dummy: <:: I'm a master. ::>
+[03:33:02	]Crash test dummy used command '/CharSearch'.
+[03:33:04	]Crash test dummy ran 'drop' on item 'Flash Grenade' (#1655749)
+[03:33:04	]S10/APF.ICE-20 has lost a 'Flash Grenade' #1655749.
+[03:33:04	]Crash test dummy ran 'drop' on item 'Frag Grenade' (#1655755)
+[03:33:04	]S10/APF.ICE-20 has lost a 'Frag Grenade' #1655755.
+[03:33:04	]Crash test dummy ran 'drop' on item 'Smoke Grenade' (#1655757)
+[03:33:04	]S10/APF.ICE-20 has lost a 'Smoke Grenade' #1655757.
+[03:33:05	]Crash test dummy ran 'drop' on item 'Frag Grenade' (#1655751)
+[03:33:05	]S10/APF.ICE-20 has lost a 'Frag Grenade' #1655751.
+[03:33:05	]Crash test dummy ran 'drop' on item 'Frag Grenade' (#1655752)
+[03:33:05	]S10/APF.ICE-20 has lost a 'Frag Grenade' #1655752.
+[03:33:05	]Crash test dummy ran 'drop' on item 'Frag Grenade' (#1655753)
+[03:33:05	]S10/APF.ICE-20 has lost a 'Frag Grenade' #1655753.
+[03:33:05	]Crash test dummy ran 'drop' on item 'Frag Grenade' (#1655754)
+[03:33:05	]S10/APF.ICE-20 has lost a 'Frag Grenade' #1655754.
+[03:33:06	]Crash test dummy ran 'drop' on item 'Smoke Grenade' (#1655758)
+[03:33:06	]S10/APF.ICE-20 has lost a 'Smoke Grenade' #1655758.
+[03:33:06	]S10/APF.ICE-20 was just killed due to: accepting their death
+[03:33:06	]Crash test dummy ran 'drop' on item 'Smoke Grenade' (#1655760)
+[03:33:06	]S10/APF.ICE-20 has lost a 'Smoke Grenade' #1655760.
+[03:33:07	]Crash test dummy ran 'drop' on item 'Smoke Grenade' (#1655756)
+[03:33:07	]S10/APF.ICE-20 has lost a 'Smoke Grenade' #1655756.
+[03:33:08	]Crash test dummy ran 'drop' on item 'Smoke Grenade' (#1655759)
+[03:33:08	]S10/APF.ICE-20 has lost a 'Smoke Grenade' #1655759.
+[03:33:08	]Crash test dummy ran 'drop' on item '30rnd Pulse-magazine' (#1655731)
+[03:33:08	]S10/APF.ICE-20 has lost a '30rnd Pulse-magazine' #1655731.
+[03:33:08	]Crash test dummy ran 'drop' on item '30rnd Pulse-magazine' (#1655733)
+[03:33:08	]S10/APF.ICE-20 has lost a '30rnd Pulse-magazine' #1655733.
+[03:33:09	]Crash test dummy ran 'drop' on item '30rnd Pulse-magazine' (#1655732)
+[03:33:09	]S10/APF.ICE-20 has lost a '30rnd Pulse-magazine' #1655732.
+[03:33:12	]Crash test dummy used command '/ToggleRaise'.
+[03:33:17	]S10/APF.ICE-20 has warped from Rebels - Box to Rebels - Slums.
+[03:33:17	]Crash test dummy has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[03:33:21	]Crash test dummy has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[03:33:24	]Crash test dummy used command '/ToggleRaise'.
+[03:33:25	]S10/APF.ICE-20 used command '/CharFallOver 0.1'.
+[03:33:26	]Crash test dummy destroyed a 'Pulse Rifle Bullets' #1655724.
+[03:33:27	]Crash test dummy destroyed a 'Pulse Rifle Bullets' #1655727.
+[03:33:28	]Crash test dummy destroyed a 'Pulse Rifle Bullets' #1655723.
+[03:33:28	]Crash test dummy destroyed a 'Pulse Rifle Bullets' #1655728.
+[03:33:29	]Crash test dummy destroyed a 'Pulse Rifle Bullets' #1655726.
+[03:33:29	]Crash test dummy destroyed a 'Pulse Rifle Bullets' #1655739.
+[03:33:32	]Crash test dummy destroyed a 'Pulse Rifle Bullets' #1655734.
+[03:33:32	]S10/APF.ICE-20 has spawned 'models/props_wasteland/controlroom_storagecloset001b.mdl'.
+[03:33:35	]Crash test dummy ran 'take' on item 'Frag Grenade' (#1655755)
+[03:33:35	]Crash test dummy has gained a 'Frag Grenade' #1655755.
+[03:33:36	]S10/APF.ICE-20 has spawned 'models/props_lab/filecabinet02.mdl'.
+[03:33:42	]Crash test dummy has hit S10/APF.ICE-20 dealing 21 damage (CritChance was 0.21).
+[03:33:42	]S10/APF.ICE-20 has taken 21 damage from Crash test dummy.
+[03:33:42	]Crash test dummy has hit S10/APF.ICE-20 dealing 21 damage (CritChance was 0.21).
+[03:33:42	]S10/APF.ICE-20 has taken 21 damage from Crash test dummy.
+[03:33:42	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 34 damage (CritChance was 0.21).
+[03:33:42	]S10/APF.ICE-20 has taken 34 damage from Crash test dummy.
+[03:33:42	]Crash test dummy has hit S10/APF.ICE-20 dealing 0 damage (CritChance was 0.21).
+[03:33:42	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 34 damage (CritChance was 0.21).
+[03:33:42	]S10/APF.ICE-20 has taken 34 damage from Crash test dummy.
+[03:33:43	]Crash test dummy has critically hit S10/APF.ICE-20 dealing 34 damage (CritChance was 0.19).
+[03:33:43	]S10/APF.ICE-20 has taken 34 damage from Crash test dummy.
+[03:33:44	]Crash test dummy has gained a '20rnd DMR-magazine' #1652267.
+[03:33:44	]Crash test dummy has lost a '20rnd DMR-magazine' #1654833.
+[03:33:47	]S10/APF.ICE-20 is fully healed.
+[03:33:48	]S10/APF.ICE-20 used command '/Punch'.
+[03:33:48	]Crash test dummy was just knocked out due to: hit by punch command used by S10/APF.ICE-20
+[03:33:48	]Crash test dummy has gained a '20rnd DMR-magazine' #1654833.
+[03:33:49	]Crash test dummy used command '/CharGetUp'.
+[03:33:50	]S10/APF.ICE-20 used command '/CharSearch'.
+[03:33:50	]Crash test dummy used command '/CharGetUp'.
+[03:33:51	]S10/APF.ICE-20 used command '/CharSearch'.
+[03:33:52	]S10/APF.ICE-20 has gained a 'G3' #1652222 from a container with the name 'Crash test dummy' #76413.
+[03:33:52	]S10/APF.ICE-20 has gained a '20rnd DMR-magazine' #1652269 from a container with the name 'Crash test dummy' #76413.
+[03:33:53	]S10/APF.ICE-20 has gained a '20rnd DMR-magazine' #1652266 from a container with the name 'Crash test dummy' #76413.
+[03:33:53	]S10/APF.ICE-20 has gained a '20rnd DMR-magazine' #1654833 from a container with the name 'Crash test dummy' #76413.
+[03:33:53	]S10/APF.ICE-20 has gained a '20rnd DMR-magazine' #1652268 from a container with the name 'Crash test dummy' #76413.
+[03:33:54	]S10/APF.ICE-20 has gained a 'Rifle Bullets' #1655740 from a container with the name 'Crash test dummy' #76413.
+[03:33:54	]S10/APF.ICE-20 has gained a 'Rifle Bullets' #1655690 from a container with the name 'Crash test dummy' #76413.
+[03:33:55	]S10/APF.ICE-20 has gained a '20rnd DMR-magazine' #1652267 from a container with the name 'Crash test dummy' #76413.
+[03:33:57	][IC] S10/APF.ICE-20: <:: My gun. ::>
+[03:33:58	]S10/APF.ICE-20 ran 'Equip' on item 'G3' (#1652222)
+[03:33:58	]S10/APF.ICE-20 used command '/ToggleRaise'.
+[03:33:59	]S10/APF.ICE-20 has lost a '20rnd DMR-magazine' #1654833.
+[03:34:02	][ME] S10/APF.ICE-20: pulled the trigger on their firearm trained on their target(s) they fire to harm/kill
+[03:34:04	]S10/APF.ICE-20 has hit Crash test dummy in the right leg dealing 0 damage (CritChance was 0.17).
+[03:34:04	]S10/APF.ICE-20 has hit Crash test dummy in the right leg dealing 18 damage (CritChance was 0.17).
+[03:34:04	]Crash test dummy has taken 18 damage from S10/APF.ICE-20.
+[03:34:04	]S10/APF.ICE-20 has critically hit Crash test dummy in the right leg dealing 0 damage (CritChance was 0.17).
+[03:34:04	]S10/APF.ICE-20 has hit Crash test dummy in the right leg dealing 0 damage (CritChance was 0.17).
+[03:34:04	]S10/APF.ICE-20 has hit Crash test dummy in the right leg dealing 0 damage (CritChance was 0.17).
+[03:34:04	]S10/APF.ICE-20 has hit Crash test dummy in the right leg dealing 18 damage (CritChance was 0.17).
+[03:34:04	]Crash test dummy has taken 18 damage from S10/APF.ICE-20.
+[03:34:04	]S10/APF.ICE-20 has hit Crash test dummy in the right leg dealing 0 damage (CritChance was 0.17).
+[03:34:04	]S10/APF.ICE-20 has critically hit Crash test dummy in the right leg dealing 0 damage (CritChance was 0.17).
+[03:34:04	]S10/APF.ICE-20 has hit Crash test dummy in the right leg dealing 18 damage (CritChance was 0.17).
+[03:34:04	]Crash test dummy has taken 18 damage from S10/APF.ICE-20.
+[03:34:04	]S10/APF.ICE-20 has hit Crash test dummy in the right leg dealing 0 damage (CritChance was 0.17).
+[03:34:04	]S10/APF.ICE-20 has critically hit Crash test dummy in the right leg dealing 32 damage (CritChance was 0.17).
+[03:34:04	]Crash test dummy has taken 32 damage from S10/APF.ICE-20.
+[03:34:04	]S10/APF.ICE-20 has hit Crash test dummy in the left leg dealing 18 damage (CritChance was 0.17).
+[03:34:04	]Crash test dummy has taken 18 damage from S10/APF.ICE-20.
+[03:34:04	]S10/APF.ICE-20 has critically hit Crash test dummy in the right leg dealing 0 damage (CritChance was 0.70).
+[03:34:04	]S10/APF.ICE-20 has critically hit Crash test dummy in the right leg dealing 0 damage (CritChance was 0.70).
+[03:34:04	]S10/APF.ICE-20 has hit Crash test dummy in the right leg dealing 18 damage (CritChance was 0.70).
+[03:34:04	]Crash test dummy has taken 18 damage from S10/APF.ICE-20.
+[03:34:05	]S10/APF.ICE-20 has hit Crash test dummy in the right leg dealing 18 damage (CritChance was 0.70).
+[03:34:05	]Crash test dummy has taken 18 damage from S10/APF.ICE-20.
+[03:34:05	]S10/APF.ICE-20 has critically hit Crash test dummy in the right leg dealing 0 damage (CritChance was 0.70).
+[03:34:05	]S10/APF.ICE-20 has critically hit Crash test dummy in the right leg dealing 32 damage (CritChance was 0.70).
+[03:34:05	]Crash test dummy has taken 32 damage from S10/APF.ICE-20.
+[03:34:05	]S10/APF.ICE-20 has critically hit Crash test dummy in the right leg dealing 0 damage (CritChance was 0.70).
+[03:34:05	]S10/APF.ICE-20 has critically hit Crash test dummy in the right leg dealing 0 damage (CritChance was 0.70).
+[03:34:05	]S10/APF.ICE-20 has critically hit Crash test dummy in the right leg dealing 0 damage (CritChance was 0.70).
+[03:34:05	]S10/APF.ICE-20 has hit Crash test dummy in the right leg dealing 18 damage (CritChance was 0.70).
+[03:34:05	]Crash test dummy has taken 18 damage from S10/APF.ICE-20.
+[03:34:05	]S10/APF.ICE-20 has critically hit Crash test dummy in the right leg dealing 0 damage (CritChance was 0.70).
+[03:34:05	]S10/APF.ICE-20 has critically hit Crash test dummy in the right leg dealing 0 damage (CritChance was 0.70).
+[03:34:05	]S10/APF.ICE-20 has hit Crash test dummy in the right leg dealing 0 damage (CritChance was 0.70).
+[03:34:05	]S10/APF.ICE-20 has critically hit Crash test dummy in the right leg dealing 32 damage (CritChance was 0.70).
+[03:34:05	]Crash test dummy was knocked unconscious and is bleeding out.
+[03:34:06	]S10/APF.ICE-20 has gained a '20rnd DMR-magazine' #1654833.
+[03:34:06	]S10/APF.ICE-20 has lost a '20rnd DMR-magazine' #1652269.
+[03:34:14	][OOC] Crash test dummy: alright, I'm gonna head off now. Ty for helping me test that
+[03:34:17	][IC] S10/APF.ICE-20: <:: // <3. ::>
+[03:34:19	][OOC] S10/APF.ICE-20: <3
+[03:34:21	]Taliazure (STEAM_0:1:67985352) has disconnected.
+[03:34:42	]Crash test dummy was just killed due to: accepting their death
+[03:34:46	]Crash test dummy used command '/CharGetUp'.
+[03:34:48	]Crash test dummy used command '/CharGetUp'.
+[03:34:49	]Fractures (STEAM_0:1:2921822) has disconnected.
+[10:45:03	]Maine civilnetworks.net has connected.
+[10:46:42	]Maine civilnetworks.net loaded the character 'C17:RCT.YELLO-81'
+[10:46:47	]C17:RCT.YELLO-81 is fully healed.
+[10:46:59	]C17:RCT.YELLO-81 used the 'John Doe' vendor.
+[10:47:28	]C17:RCT.YELLO-81 has warped from OTA - Box to OTA - Nexus.
+[10:48:25	]Maine civilnetworks.net created the character 'C17:RCT.YELLO-15'
+[10:48:25	]C17:RCT.YELLO-81 has gained level 5 in the Guns skill.
+[10:48:25	]C17:RCT.YELLO-81 has gained level 10 in the Speed skill.
+[10:48:25	]C17:RCT.YELLO-15 has gained a '#58107's Identity Card' #1655761.
+[10:48:25	]C17:RCT.YELLO-15 has gained a 'Combine PDA' #1655762.
+[10:48:25	]C17:RCT.YELLO-15 has gained a 'CP Uniform' #1655763.
+[10:48:25	]Maine civilnetworks.net loaded the character 'C17:RCT.YELLO-15'
+[10:48:25	]C17:RCT.YELLO-15 has gained a 'CP Mask' #1655764.
+[10:48:25	]C17:RCT.YELLO-15 has gained a 'Handheld Radio' #1655765.
+[10:48:25	]C17:RCT.YELLO-15 has gained a 'Small Bag' #1655766.
+[10:48:25	]C17:RCT.YELLO-15 has gained a 'Large Bag' #1655767.
+[10:48:54	]C17:RCT.YELLO-15 used the 'John Doe' vendor.
+[10:48:56	]C17:RCT.YELLO-15 has gained 0 chips.
+[10:48:56	]C17:RCT.YELLO-15 has gained a 'Overwatch Assault Shotgun' #1655768.
+[10:49:04	]C17:RCT.YELLO-15 has gained 0 chips.
+[10:49:04	]C17:RCT.YELLO-15 has gained a 'OTA Charger Uniform' #1655769.
+[10:49:06	]C17:RCT.YELLO-15 has gained 0 chips.
+[10:49:06	]C17:RCT.YELLO-15 has gained a 'OTA Elite Uniform' #1655770.
+[10:49:07	]C17:RCT.YELLO-15 has gained 0 chips.
+[10:49:07	]C17:RCT.YELLO-15 has gained a 'OTA Suppressor Uniform' #1655771.
+[10:49:09	]C17:RCT.YELLO-15 has gained 0 chips.
+[10:49:09	]C17:RCT.YELLO-15 has gained a 'OTA Shotgunner Uniform' #1655772.
+[10:49:10	]C17:RCT.YELLO-15 has gained 0 chips.
+[10:49:10	]C17:RCT.YELLO-15 has gained a 'OTA Squad Leader Uniform' #1655773.
+[10:49:12	]C17:RCT.YELLO-15 has gained 0 chips.
+[10:49:12	]C17:RCT.YELLO-15 has gained a 'OTA Valkyrie Uniform' #1655774.
+[10:49:17	]C17:RCT.YELLO-15 has gained 0 chips.
+[10:49:17	]C17:RCT.YELLO-15 has gained a 'Buckshot Shotgun Shells' #1655775.
+[10:49:18	]C17:RCT.YELLO-15 has gained 0 chips.
+[10:49:18	]C17:RCT.YELLO-15 has gained a 'Buckshot Shotgun Shells' #1655776.
+[10:49:18	]C17:RCT.YELLO-15 has gained 0 chips.
+[10:49:18	]C17:RCT.YELLO-15 has gained a 'Buckshot Shotgun Shells' #1655777.
+[10:49:19	]C17:RCT.YELLO-15 has gained 0 chips.
+[10:49:19	]C17:RCT.YELLO-15 has gained a 'Buckshot Shotgun Shells' #1655778.
+[10:49:22	]C17:RCT.YELLO-15 has gained 0 chips.
+[10:49:22	]C17:RCT.YELLO-15 has gained a '12rnd OAIS-magazine' #1655779.
+[10:49:22	]C17:RCT.YELLO-15 has gained 0 chips.
+[10:49:22	]C17:RCT.YELLO-15 has gained a '12rnd OAIS-magazine' #1655780.
+[10:49:22	]C17:RCT.YELLO-15 has gained 0 chips.
+[10:49:22	]C17:RCT.YELLO-15 has gained a '12rnd OAIS-magazine' #1655781.
+[10:49:23	]C17:RCT.YELLO-15 has gained 0 chips.
+[10:49:23	]C17:RCT.YELLO-15 has gained a '12rnd OAIS-magazine' #1655782.
+[10:49:31	]C17:RCT.YELLO-15 ran 'combine' on item '12rnd OAIS-magazine' (#1655781)
+[10:49:31	]C17:RCT.YELLO-15 ran 'combine' on item '12rnd OAIS-magazine' (#1655780)
+[10:49:33	]C17:RCT.YELLO-15 ran 'combine' on item '12rnd OAIS-magazine' (#1655779)
+[10:49:34	]C17:RCT.YELLO-15 ran 'combine' on item '12rnd OAIS-magazine' (#1655782)
+[10:49:49	]C17:RCT.YELLO-15 ran 'combine' on item 'Small Bag' (#1655766)
+[10:50:17	]C17:RCT.YELLO-15 ran 'Equip' on item 'Combine PDA' (#1655762)
+[10:51:26	]C17:RCT.YELLO-15 ran 'Equip' on item 'Overwatch Assault Shotgun' (#1655768)
+[10:51:33	]C17:RCT.YELLO-15 has lost a '12rnd OAIS-magazine' #1655782.
+[10:51:43	]C17:RCT.YELLO-15 has gained a '12rnd OAIS-magazine' #1655782.
+[10:51:43	]C17:RCT.YELLO-15 has lost a '12rnd OAIS-magazine' #1655781.
+[10:51:57	]C17:RCT.YELLO-15 ran 'take' on item 'Vortigaunt Fedora' (#1651193)
+[10:51:57	]C17:RCT.YELLO-15 has gained a 'Vortigaunt Fedora' #1651193.
+[10:52:03	]C17:RCT.YELLO-15 has gained a '12rnd OAIS-magazine' #1655781.
+[10:52:03	]C17:RCT.YELLO-15 has lost a '12rnd OAIS-magazine' #1655780.
+[10:52:09	]C17:RCT.YELLO-15 used the 'John Doe' vendor.
+[10:52:13	]C17:RCT.YELLO-15 has gained 0 chips.
+[10:52:13	]C17:RCT.YELLO-15 has gained a 'M1014' #1655783.
+[10:52:16	]C17:RCT.YELLO-15 has gained 0 chips.
+[10:52:17	]C17:RCT.YELLO-15 has gained a '6rnd M1014 Rounds' #1655784.
+[10:52:17	]C17:RCT.YELLO-15 has gained 0 chips.
+[10:52:17	]C17:RCT.YELLO-15 has gained a '6rnd M1014 Rounds' #1655785.
+[10:52:20	]C17:RCT.YELLO-15 ran 'EquipUn' on item 'Overwatch Assault Shotgun' (#1655768)
+[10:52:20	]C17:RCT.YELLO-15 has gained a '12rnd OAIS-magazine' #1655780.
+[10:52:22	]C17:RCT.YELLO-15 ran 'Equip' on item 'M1014' (#1655783)
+[10:52:24	]C17:RCT.YELLO-15 ran 'combine' on item '6rnd M1014 Rounds' (#1655785)
+[10:52:24	]C17:RCT.YELLO-15 ran 'combine' on item '6rnd M1014 Rounds' (#1655784)
+[10:52:25	]C17:RCT.YELLO-15 ran 'combine' on item '12rnd OAIS-magazine' (#1655782)
+[10:52:28	]C17:RCT.YELLO-15 has lost a '6rnd M1014 Rounds' #1655785.
+[10:52:36	]C17:RCT.YELLO-15 has gained a '6rnd M1014 Rounds' #1655785.
+[10:52:36	]C17:RCT.YELLO-15 has lost a '6rnd M1014 Rounds' #1655784.
+[10:52:48	]C17:RCT.YELLO-15 has warped from Vorts - Box to Vorts - Slums.
+[10:53:55	]C17:RCT.YELLO-15 destroyed a 'Sub-machinegun Bullets' #1654013.
+[10:54:00	]C17:RCT.YELLO-15 ran 'combine' on item '6rnd M1014 Rounds' (#1655785)
+[10:54:00	]C17:RCT.YELLO-15 has gained a '6rnd M1014 Rounds' #1655784.
+[10:54:00	]C17:RCT.YELLO-15 has lost a '6rnd M1014 Rounds' #1655785.
+[10:54:03	]C17:RCT.YELLO-15 ran 'combine' on item '6rnd M1014 Rounds' (#1655784)
+[10:54:07	]C17:RCT.YELLO-15 destroyed a '9mm Pistol Bullets' #1650710.
+[10:54:08	]C17:RCT.YELLO-15 destroyed a '9mm Pistol Bullets' #1650708.
+[10:54:08	]C17:RCT.YELLO-15 destroyed a '9mm Pistol Bullets' #1650709.
+[10:54:08	]C17:RCT.YELLO-15 destroyed a '9mm Pistol Bullets' #1650707.
+[10:54:08	]C17:RCT.YELLO-15 destroyed a 'Buckshot Shotgun Shells' #1655117.
+[10:54:09	]C17:RCT.YELLO-15 destroyed a 'Sub-machinegun Bullets' #1655156.
+[10:54:09	]C17:RCT.YELLO-15 destroyed a 'Pulse Rifle Bullets' #1654936.
+[10:54:09	]C17:RCT.YELLO-15 destroyed a 'Sub-machinegun Bullets' #1653708.
+[10:54:10	]C17:RCT.YELLO-15 destroyed a 'Sub-machinegun Bullets' #1653997.
+[10:54:11	]C17:RCT.YELLO-15 destroyed a 'Sub-machinegun Bullets' #1655158.
+[10:54:13	]Maine civilnetworks.net (STEAM_0:0:93978068) has disconnected.

@@ -1,0 +1,2999 @@
+[05:50:28	]ryebredd has connected.
+[05:52:09	]ryebredd (STEAM_0:0:30307584) deleted character 'Virgil Rasmussen'
+[05:52:21	]ryebredd loaded the character 'José Juan Carlos Bautista'
+[05:52:21	]José Juan Carlos Bautista their 'indigent stash' stash no longer exists, location reset.
+[05:52:26	]José Juan Carlos Bautista is fully healed.
+[05:52:36	]José Juan Carlos Bautista used command '/ToggleGM'.
+[05:52:37	]José Juan Carlos Bautista entered observer.
+[05:52:44	]José Juan Carlos Bautista exited observer at their location.
+[05:53:33	]José Juan Carlos Bautista has spawned 'models/props_office/desk_01.mdl'.
+[05:53:38	]José Juan Carlos Bautista has enabled persistence for 'models/props_office/desk_01.mdl'.
+[05:53:38	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[05:53:48	]José Juan Carlos Bautista has spawned a 'Entity [155][ix_computer]'.
+[05:53:57	]José Juan Carlos Bautista has used a context menu option with the name: remove
+[05:53:57	]José Juan Carlos Bautista entered observer.
+[05:54:19	]José Juan Carlos Bautista has used a context menu option with the name: skin
+[05:54:20	]José Juan Carlos Bautista has used a context menu option with the name: skin
+[05:54:22	]José Juan Carlos Bautista has used a context menu option with the name: skin
+[05:54:25	]José Juan Carlos Bautista has used a context menu option with the name: skin
+[05:54:29	]José Juan Carlos Bautista has used a context menu option with the name: skin
+[05:54:32	]José Juan Carlos Bautista has used a context menu option with the name: skin
+[05:54:33	]José Juan Carlos Bautista has used a context menu option with the name: skin
+[05:54:36	]José Juan Carlos Bautista has used a context menu option with the name: skin
+[05:54:41	]José Juan Carlos Bautista has used a context menu option with the name: skin
+[05:54:45	]José Juan Carlos Bautista exited observer at their location.
+[05:54:50	]José Juan Carlos Bautista entered observer.
+[05:54:54	]José Juan Carlos Bautista exited observer at their location.
+[05:55:09	]José Juan Carlos Bautista has spawned 'models/props/hr_massive/survival_shelves/survival_shelf_01.mdl'.
+[05:55:18	]José Juan Carlos Bautista has enabled persistence for 'models/props/hr_massive/survival_shelves/survival_shelf_01.mdl'.
+[05:55:18	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[05:55:26	]José Juan Carlos Bautista has spawned 'models/props/de_piranesi/pi_bucket.mdl'.
+[05:55:32	]José Juan Carlos Bautista has spawned 'models/props/de_piranesi/pi_bucket.mdl'.
+[05:55:36	]José Juan Carlos Bautista has spawned 'models/props/de_vertigo/cement_bucket_metal_lrg_01.mdl'.
+[05:55:40	]José Juan Carlos Bautista has spawned 'models/props/de_vertigo/cement_bucket_metal_lrg_01.mdl'.
+[05:55:46	]José Juan Carlos Bautista has enabled persistence for 'models/props/de_piranesi/pi_bucket.mdl'.
+[05:55:46	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[05:56:02	]José Juan Carlos Bautista has spawned 'models/props/cs_militia/boxes_frontroom.mdl'.
+[05:56:05	]José Juan Carlos Bautista has spawned 'models/props/cs_militia/boxes_garage_lower.mdl'.
+[05:56:13	]José Juan Carlos Bautista has enabled persistence for 'models/props/cs_militia/boxes_garage_lower.mdl'.
+[05:56:13	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[05:56:27	]José Juan Carlos Bautista has spawned 'models/props/de_nuke/hr_nuke/stains/nuke_oil_puddle01.mdl'.
+[05:56:35	]José Juan Carlos Bautista has spawned 'models/props/de_nuke/hr_nuke/stains/nuke_oil_puddle02.mdl'.
+[05:56:45	]José Juan Carlos Bautista has fired a toolgun with the name: material
+[05:56:45	]José Juan Carlos Bautista has fired a toolgun with the name: material
+[05:57:09	]José Juan Carlos Bautista entered observer.
+[05:57:14	]José Juan Carlos Bautista has fired a toolgun with the name: nocollideworld
+[05:57:32	]José Juan Carlos Bautista exited observer at their location.
+[05:57:38	]José Juan Carlos Bautista has enabled persistence for 'models/props/de_nuke/hr_nuke/stains/nuke_oil_puddle02.mdl'.
+[05:57:38	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[05:58:24	]José Juan Carlos Bautista has disabled persistence for 'models/props/cs_militia/boxes_garage_lower.mdl'.
+[05:58:24	]José Juan Carlos Bautista has used a context menu option with the name: persist_end
+[05:58:31	]José Juan Carlos Bautista has enabled persistence for 'models/props/cs_militia/boxes_garage_lower.mdl'.
+[05:58:31	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[05:58:40	]José Juan Carlos Bautista has spawned 'models/jq/hlvr/props/infestation/dead_body/xen_dead_body.mdl'.
+[05:59:04	]José Juan Carlos Bautista entered observer.
+[05:59:45	]José Juan Carlos Bautista has enabled persistence for 'models/jq/hlvr/props/infestation/dead_body/xen_dead_body.mdl'.
+[05:59:45	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[05:59:48	]José Juan Carlos Bautista has fired a toolgun with the name: material
+[05:59:53	]José Juan Carlos Bautista exited observer at their location.
+[06:00:37	]José Juan Carlos Bautista used command '/PermanentPropDescriptionAdd ... looks like a human.'.
+[06:00:46	]José Juan Carlos Bautista has spawned 'models/xen/xen_dead_body_no_wall.mdl'.
+[06:01:24	]José Juan Carlos Bautista has spawned 'models/jq/hlvr/props/xenpack/xen_spore001.mdl'.
+[06:02:07	]José Juan Carlos Bautista has fired a toolgun with the name: material
+[06:02:28	]José Juan Carlos Bautista has disabled persistence for 'models/props/de_nuke/hr_nuke/stains/nuke_oil_puddle02.mdl'.
+[06:02:28	]José Juan Carlos Bautista has used a context menu option with the name: persist_end
+[06:02:42	]José Juan Carlos Bautista has enabled persistence for 'models/props/de_nuke/hr_nuke/stains/nuke_oil_puddle02.mdl'.
+[06:02:42	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:02:54	]José Juan Carlos Bautista has spawned 'models/props/de_inferno/hr_i/inferno_bike/inferno_bike_02.mdl'.
+[06:03:02	]José Juan Carlos Bautista has enabled persistence for 'models/props/de_inferno/hr_i/inferno_bike/inferno_bike_02.mdl'.
+[06:03:02	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:03:03	]José Juan Carlos Bautista has spawned 'models/props/de_inferno/hr_i/inferno_bike/inferno_bike_03.mdl'.
+[06:03:05	]José Juan Carlos Bautista has spawned 'models/props/de_inferno/hr_i/inferno_bike/inferno_bike.mdl'.
+[06:03:07	]José Juan Carlos Bautista has spawned 'models/props/bike_rack.mdl'.
+[06:03:11	]José Juan Carlos Bautista has spawned 'models/props_junk/bicycle01a.mdl'.
+[06:03:13	]José Juan Carlos Bautista has spawned 'models/props/gg_vietnam/bicycle_with_basket.mdl'.
+[06:03:18	]José Juan Carlos Bautista has spawned 'models/props/de_dust/hr_dust/dust_bicycle/dust_bicycle_floor.mdl'.
+[06:03:22	]José Juan Carlos Bautista has spawned 'models/props/de_dust/hr_dust/dust_bicycle/dust_bicycle_floor.mdl'.
+[06:03:31	]José Juan Carlos Bautista has enabled persistence for 'models/props/de_dust/hr_dust/dust_bicycle/dust_bicycle_floor.mdl'.
+[06:03:31	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:03:33	]José Juan Carlos Bautista has spawned 'models/weapons/w_models/arms/w_glove_motorcycle.mdl'.
+[06:03:35	]José Juan Carlos Bautista has spawned 'models/props/de_dust/hr_dust/dust_bicycle/dust_bicycle_wall.mdl'.
+[06:04:04	]José Juan Carlos Bautista has spawned 'models/props_borealis/door_wheel001a.mdl'.
+[06:04:09	]José Juan Carlos Bautista has spawned 'models/props_c17/pulleywheels_large01.mdl'.
+[06:04:23	]José Juan Carlos Bautista has spawned 'models/props_junk/bicycle01a.mdl'.
+[06:04:27	]José Juan Carlos Bautista has used a context menu option with the name: skin
+[06:04:36	]José Juan Carlos Bautista has enabled persistence for 'models/props_junk/bicycle01a.mdl'.
+[06:04:36	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:05:15	]José Juan Carlos Bautista has spawned 'models/props_urban/mail_box001.mdl'.
+[06:05:28	]José Juan Carlos Bautista has spawned 'models/props/de_inferno/hr_i/mail_box_a/mail_box_a.mdl'.
+[06:05:51	]José Juan Carlos Bautista has spawned 'models/props/ar_dizzy/dizzy_trash/dizzy_cardboard_trash_02.mdl'.
+[06:05:57	]José Juan Carlos Bautista has enabled persistence for 'models/props/ar_dizzy/dizzy_trash/dizzy_cardboard_trash_02.mdl'.
+[06:05:57	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:05:59	]José Juan Carlos Bautista entered observer.
+[06:06:07	]José Juan Carlos Bautista has fired a toolgun with the name: nocollideworld
+[06:06:15	]José Juan Carlos Bautista has disabled persistence for 'models/props/ar_dizzy/dizzy_trash/dizzy_cardboard_trash_02.mdl'.
+[06:06:15	]José Juan Carlos Bautista has used a context menu option with the name: persist_end
+[06:06:23	]José Juan Carlos Bautista has enabled persistence for 'models/props/ar_dizzy/dizzy_trash/dizzy_cardboard_trash_02.mdl'.
+[06:06:23	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:06:24	]José Juan Carlos Bautista exited observer at their location.
+[06:06:29	]José Juan Carlos Bautista has spawned 'models/props_junk/cardboard_unfolded_04.mdl'.
+[06:06:32	]José Juan Carlos Bautista has spawned 'models/props/ar_dizzy/dizzy_trash/dizzy_cardboard_trash_02.mdl'.
+[06:06:34	]José Juan Carlos Bautista has spawned 'models/props/ar_dizzy/dizzy_trash/dizzy_cardboard_trash_03.mdl'.
+[06:06:37	]José Juan Carlos Bautista has spawned 'models/props/ar_dizzy/dizzy_trash/dizzy_cardboard_trash_03.mdl'.
+[06:06:41	]José Juan Carlos Bautista entered observer.
+[06:06:43	]José Juan Carlos Bautista exited observer at their location.
+[06:06:45	]José Juan Carlos Bautista has spawned 'models/props/ar_dizzy/dizzy_trash/dizzy_cardboard_trash_03.mdl'.
+[06:06:56	]José Juan Carlos Bautista has enabled persistence for 'models/props/ar_dizzy/dizzy_trash/dizzy_cardboard_trash_03.mdl'.
+[06:06:56	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:06:59	]José Juan Carlos Bautista has spawned 'models/props_junk/garbage_newspaper001a.mdl'.
+[06:07:03	]José Juan Carlos Bautista has fired a toolgun with the name: nocollideworld
+[06:07:05	]José Juan Carlos Bautista has disabled persistence for 'models/props/ar_dizzy/dizzy_trash/dizzy_cardboard_trash_03.mdl'.
+[06:07:05	]José Juan Carlos Bautista has used a context menu option with the name: persist_end
+[06:07:34	]José Juan Carlos Bautista has enabled persistence for 'models/props_junk/garbage_newspaper001a.mdl'.
+[06:07:34	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:07:48	]José Juan Carlos Bautista has spawned 'models/props/gg_vietnam/dirty_mattress01.mdl'.
+[06:07:59	]José Juan Carlos Bautista has used a context menu option with the name: collision_off
+[06:08:08	]José Juan Carlos Bautista has enabled persistence for 'models/props/gg_vietnam/dirty_mattress01.mdl'.
+[06:08:08	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:08:13	]José Juan Carlos Bautista has used a context menu option with the name: collision_on
+[06:08:18	]José Juan Carlos Bautista entered observer.
+[06:08:19	]José Juan Carlos Bautista has fired a toolgun with the name: nocollideworld
+[06:08:21	]José Juan Carlos Bautista has disabled persistence for 'models/props/gg_vietnam/dirty_mattress01.mdl'.
+[06:08:21	]José Juan Carlos Bautista has used a context menu option with the name: persist_end
+[06:08:33	]José Juan Carlos Bautista has enabled persistence for 'models/props/gg_vietnam/dirty_mattress01.mdl'.
+[06:08:33	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:08:34	]José Juan Carlos Bautista exited observer at their location.
+[06:08:51	]José Juan Carlos Bautista has spawned 'models/props/de_train/hr_t/barrel_b/barrel_b.mdl'.
+[06:09:22	]José Juan Carlos Bautista has spawned a 'Entity [133][acwatt_apex_nade_fire]'.
+[06:09:30	]José Juan Carlos Bautista has spawned a 'Entity [133][sent_vj_fireplace]'.
+[06:09:53	]José Juan Carlos Bautista used command '/ActSit 5'.
+[06:09:55	]José Juan Carlos Bautista used command '/ExitAct'.
+[06:10:04	]José Juan Carlos Bautista has spawned 'models/props/de_boathouse/pillow01.mdl'.
+[06:10:05	]José Juan Carlos Bautista has spawned 'models/props/de_boathouse/pillow02.mdl'.
+[06:10:06	]José Juan Carlos Bautista has spawned 'models/props/de_mirage/pillow_b.mdl'.
+[06:10:14	]José Juan Carlos Bautista used command '/ActSit 2'.
+[06:10:15	]José Juan Carlos Bautista used command '/ExitAct'.
+[06:10:17	]José Juan Carlos Bautista used command '/ActSit 2'.
+[06:10:20	]José Juan Carlos Bautista used command '/ExitAct'.
+[06:10:29	]José Juan Carlos Bautista has spawned 'models/props/de_mirage/pillow_c.mdl'.
+[06:10:34	]José Juan Carlos Bautista has spawned 'models/props_c17/FurnitureMattress001a.mdl'.
+[06:10:46	]José Juan Carlos Bautista has used a context menu option with the name: statue
+[06:10:48	]José Juan Carlos Bautista has used a context menu option with the name: skin
+[06:10:54	]José Juan Carlos Bautista has fired a toolgun with the name: nocollideworld
+[06:11:23	]José Juan Carlos Bautista has spawned 'models/props_junk/cardboard_unfolded_02.mdl'.
+[06:11:25	]José Juan Carlos Bautista has spawned 'models/props_junk/cardboard_unfolded_01.mdl'.
+[06:11:29	]José Juan Carlos Bautista has fired a toolgun with the name: nocollideworld
+[06:11:42	]José Juan Carlos Bautista entered observer.
+[06:11:57	]José Juan Carlos Bautista exited observer at their location.
+[06:11:59	]José Juan Carlos Bautista has spawned 'models/props_junk/cardboard_unfolded_02.mdl'.
+[06:12:04	]José Juan Carlos Bautista has fired a toolgun with the name: nocollideworld
+[06:12:20	]José Juan Carlos Bautista has spawned 'models/props_junk/cardboard_unfolded_02.mdl'.
+[06:12:23	]José Juan Carlos Bautista has fired a toolgun with the name: nocollideworld
+[06:12:50	]José Juan Carlos Bautista has enabled persistence for 'models/props_junk/cardboard_unfolded_02.mdl'.
+[06:12:50	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:12:58	]José Juan Carlos Bautista has spawned 'models/props_junk/garbage_carboard002a.mdl'.
+[06:13:03	]José Juan Carlos Bautista has enabled persistence for 'models/props_junk/garbage_carboard002a.mdl'.
+[06:13:03	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:13:05	]José Juan Carlos Bautista has used a context menu option with the name: collision_off
+[06:13:13	]José Juan Carlos Bautista has disabled persistence for 'models/props_junk/garbage_carboard002a.mdl'.
+[06:13:13	]José Juan Carlos Bautista has used a context menu option with the name: persist_end
+[06:13:16	]José Juan Carlos Bautista has enabled persistence for 'models/props_junk/garbage_carboard002a.mdl'.
+[06:13:16	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:13:19	]José Juan Carlos Bautista has spawned 'models/props_junk/garbage256_composite002b.mdl'.
+[06:13:24	]José Juan Carlos Bautista entered observer.
+[06:13:31	]José Juan Carlos Bautista has enabled persistence for 'models/props_junk/garbage256_composite002b.mdl'.
+[06:13:31	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:13:33	]José Juan Carlos Bautista has used a context menu option with the name: collision_off
+[06:13:34	]José Juan Carlos Bautista exited observer at their location.
+[06:13:39	]José Juan Carlos Bautista has spawned 'models/props_junk/garbage256_composite002a.mdl'.
+[06:13:43	]José Juan Carlos Bautista entered observer.
+[06:13:44	]José Juan Carlos Bautista exited observer at their location.
+[06:13:57	]José Juan Carlos Bautista has enabled persistence for 'models/props_junk/garbage256_composite002a.mdl'.
+[06:13:57	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:14:00	]José Juan Carlos Bautista has used a context menu option with the name: collision_off
+[06:14:03	]José Juan Carlos Bautista entered observer.
+[06:14:08	]José Juan Carlos Bautista exited observer at their location.
+[06:14:18	]José Juan Carlos Bautista has spawned 'models/props_junk/trashdumpster02.mdl'.
+[06:14:21	]José Juan Carlos Bautista entered observer.
+[06:14:46	]José Juan Carlos Bautista has enabled persistence for 'models/props_junk/trashdumpster02.mdl'.
+[06:14:46	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:14:52	]José Juan Carlos Bautista has spawned 'models/props_junk/trashcluster01a.mdl'.
+[06:14:54	]José Juan Carlos Bautista has spawned 'models/props_junk/trashcluster01a.mdl'.
+[06:14:56	]José Juan Carlos Bautista has used a context menu option with the name: skin
+[06:14:58	]José Juan Carlos Bautista has used a context menu option with the name: skin
+[06:15:00	]José Juan Carlos Bautista has used a context menu option with the name: skin
+[06:15:02	]José Juan Carlos Bautista has used a context menu option with the name: skin
+[06:15:06	]José Juan Carlos Bautista has spawned 'models/props/de_train/hr_t/trash_a/trash_a.mdl'.
+[06:15:11	]José Juan Carlos Bautista has spawned 'models/props_junk/trashcluster01a_corner.mdl'.
+[06:15:19	]José Juan Carlos Bautista has spawned 'models/props_downtown/bedding_pile_02.mdl'.
+[06:15:29	]José Juan Carlos Bautista has spawned 'models/props_debris/concrete_cornerpile01a.mdl'.
+[06:15:32	]José Juan Carlos Bautista has enabled persistence for 'models/props_debris/concrete_cornerpile01a.mdl'.
+[06:15:32	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:15:42	]José Juan Carlos Bautista has spawned 'models/props/cs_militia/logpile2.mdl'.
+[06:15:46	]José Juan Carlos Bautista has enabled persistence for 'models/props/cs_militia/logpile2.mdl'.
+[06:15:46	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:15:49	]José Juan Carlos Bautista has disabled persistence for 'models/props/cs_militia/logpile2.mdl'.
+[06:15:49	]José Juan Carlos Bautista has used a context menu option with the name: persist_end
+[06:15:52	]José Juan Carlos Bautista has fired a toolgun with the name: nocollideworld
+[06:16:01	]José Juan Carlos Bautista exited observer at their location.
+[06:16:04	]José Juan Carlos Bautista has enabled persistence for 'models/props/cs_militia/logpile2.mdl'.
+[06:16:04	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:16:07	]José Juan Carlos Bautista has spawned 'models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_mudbrick_pile_06.mdl'.
+[06:16:16	]José Juan Carlos Bautista has enabled persistence for 'models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_mudbrick_pile_06.mdl'.
+[06:16:16	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:16:22	]José Juan Carlos Bautista has spawned 'models/props_unique/airport/luggage_pile1.mdl'.
+[06:16:28	]José Juan Carlos Bautista entered observer.
+[06:16:46	]José Juan Carlos Bautista exited observer at their location.
+[06:16:50	]José Juan Carlos Bautista has spawned 'models/props_unique/airport/luggage_pile1.mdl'.
+[06:16:51	]José Juan Carlos Bautista entered observer.
+[06:16:52	]José Juan Carlos Bautista exited observer at their location.
+[06:16:53	]José Juan Carlos Bautista entered observer.
+[06:17:09	]José Juan Carlos Bautista has enabled persistence for 'models/props_unique/airport/luggage_pile1.mdl'.
+[06:17:09	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:17:13	]José Juan Carlos Bautista has spawned 'models/props/gg_handling/luggage_pile_switcher.mdl'.
+[06:17:24	]José Juan Carlos Bautista exited observer at their location.
+[06:17:31	]José Juan Carlos Bautista has spawned 'models/props/coop_autumn/tennis_ball_launcher/fraggrenade_pile.mdl'.
+[06:17:34	]José Juan Carlos Bautista has spawned 'models/props/de_venice/venice_shoe_shop/venice_shoe_pile_01.mdl'.
+[06:17:36	]José Juan Carlos Bautista has spawned 'models/props/coop_autumn/tennis_ball_launcher/smokegrenade_pile.mdl'.
+[06:17:38	]José Juan Carlos Bautista has spawned 'models/props/hr_massive/rock_pile_1/rock_pile_1.mdl'.
+[06:17:40	]José Juan Carlos Bautista has spawned 'models/props/de_venice/venice_shoe_shop/venice_shoe_pile_01.mdl'.
+[06:17:47	]José Juan Carlos Bautista entered observer.
+[06:18:01	]José Juan Carlos Bautista has spawned 'models/props_unique/airport/luggage_pile1.mdl'.
+[06:18:05	]José Juan Carlos Bautista exited observer at their location.
+[06:18:06	]José Juan Carlos Bautista entered observer.
+[06:18:07	]José Juan Carlos Bautista exited observer at their location.
+[06:19:59	]José Juan Carlos Bautista has enabled persistence for 'models/props_unique/airport/luggage_pile1.mdl'.
+[06:19:59	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:20:18	]José Juan Carlos Bautista has spawned 'models/props/gg_handling/luggage_pile_switcher.mdl'.
+[06:20:20	]José Juan Carlos Bautista has spawned 'models/props/gg_handling/bh_luggage_rack144_02.mdl'.
+[06:20:27	]José Juan Carlos Bautista has spawned 'models/props_unique/airport/luggage_pile1.mdl'.
+[06:20:28	]José Juan Carlos Bautista entered observer.
+[06:20:35	]José Juan Carlos Bautista has spawned 'models/props_unique/airport/luggage_pile1.mdl'.
+[06:20:42	]José Juan Carlos Bautista has enabled persistence for 'models/props_unique/airport/luggage_pile1.mdl'.
+[06:20:42	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:20:44	]José Juan Carlos Bautista has spawned 'models/props/gg_handling/luggage_stack_01.mdl'.
+[06:20:54	]José Juan Carlos Bautista has spawned 'models/props/gg_handling/bh_luggage_rack144_02.mdl'.
+[06:21:01	]José Juan Carlos Bautista has spawned 'models/props/gg_handling/bh_luggage_rack144_02.mdl'.
+[06:21:04	]José Juan Carlos Bautista has spawned 'models/props/gg_handling/luggage_stack_02.mdl'.
+[06:21:16	]José Juan Carlos Bautista has spawned 'models/props/cs_militia/rockpileramp01.mdl'.
+[06:21:19	]José Juan Carlos Bautista has spawned 'models/props/de_venice/venice_shoe_shop/venice_shoe_pile_01.mdl'.
+[06:21:27	]José Juan Carlos Bautista has spawned 'models/props/de_venice/venice_shoe_shop/venice_shoe_pile_01.mdl'.
+[06:21:30	]José Juan Carlos Bautista has spawned 'models/props/coop_autumn/tennis_ball_launcher/smokegrenade_pile.mdl'.
+[06:21:32	]José Juan Carlos Bautista has spawned 'models/props/hr_massive/rock_pile_1/rock_pile_1.mdl'.
+[06:21:36	]José Juan Carlos Bautista has spawned 'models/props_interiors/clothing_pile3.mdl'.
+[06:21:38	]José Juan Carlos Bautista has spawned 'models/props_interiors/clothing_pile1.mdl'.
+[06:21:42	]José Juan Carlos Bautista has fired a toolgun with the name: nocollideworld
+[06:21:44	]José Juan Carlos Bautista has fired a toolgun with the name: nocollideworld
+[06:21:45	]José Juan Carlos Bautista has fired a toolgun with the name: nocollideworld
+[06:21:46	]José Juan Carlos Bautista exited observer at their location.
+[06:21:57	]José Juan Carlos Bautista has enabled persistence for 'models/props/de_venice/venice_shoe_shop/venice_shoe_pile_01.mdl'.
+[06:21:57	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:22:12	]José Juan Carlos Bautista has enabled persistence for 'models/props_interiors/clothing_pile3.mdl'.
+[06:22:12	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:22:15	]José Juan Carlos Bautista has disabled persistence for 'models/props_unique/airport/luggage_pile1.mdl'.
+[06:22:15	]José Juan Carlos Bautista has used a context menu option with the name: persist_end
+[06:22:15	]José Juan Carlos Bautista has enabled persistence for 'models/props_unique/airport/luggage_pile1.mdl'.
+[06:22:15	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:22:17	]José Juan Carlos Bautista has enabled persistence for 'models/props/gg_handling/bh_luggage_rack144_02.mdl'.
+[06:22:17	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:22:26	]José Juan Carlos Bautista has enabled persistence for 'models/props_interiors/clothing_pile1.mdl'.
+[06:22:26	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:22:40	]José Juan Carlos Bautista has spawned 'models/props_interiors/clothing_pile5.mdl'.
+[06:22:44	]José Juan Carlos Bautista has enabled persistence for 'models/props_interiors/clothing_pile5.mdl'.
+[06:22:44	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:22:49	]José Juan Carlos Bautista has spawned 'models/props/gg_handling/luggage_stack_01.mdl'.
+[06:22:53	]José Juan Carlos Bautista has enabled persistence for 'models/props/gg_handling/luggage_stack_01.mdl'.
+[06:22:53	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:23:11	]José Juan Carlos Bautista has spawned 'models/props/cs_assault/billboard.mdl'.
+[06:23:13	]José Juan Carlos Bautista entered observer.
+[06:23:23	]José Juan Carlos Bautista has spawned 'models/props/cs_assault/billboard.mdl'.
+[06:23:49	]José Juan Carlos Bautista exited observer at their location.
+[06:23:54	]José Juan Carlos Bautista entered observer.
+[06:23:57	]José Juan Carlos Bautista has spawned 'models/props/de_dust/hr_dust/dust_awnings/dust_awning_rubble_pile_02.mdl'.
+[06:24:04	]José Juan Carlos Bautista has spawned 'models/props/de_aztec/hr_aztec/aztec_walls/aztec_wall_stone_01_rubble_med_right_128.mdl'.
+[06:24:12	]José Juan Carlos Bautista has enabled persistence for 'models/props/de_dust/hr_dust/dust_awnings/dust_awning_rubble_pile_02.mdl'.
+[06:24:12	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:24:19	]José Juan Carlos Bautista has spawned 'models/props_debris/floor_rubble1.mdl'.
+[06:24:27	]José Juan Carlos Bautista has spawned 'models/props_debris/corner_rubble1.mdl'.
+[06:24:31	]José Juan Carlos Bautista has enabled persistence for 'models/props_debris/corner_rubble1.mdl'.
+[06:24:31	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:24:34	]José Juan Carlos Bautista exited observer at their location.
+[06:24:34	]José Juan Carlos Bautista entered observer.
+[06:24:34	]José Juan Carlos Bautista exited observer at their location.
+[06:24:46	]José Juan Carlos Bautista has spawned 'models/c24/debris_plankfloor.mdl'.
+[06:24:50	]José Juan Carlos Bautista entered observer.
+[06:25:07	]José Juan Carlos Bautista exited observer at their location.
+[06:25:07	]José Juan Carlos Bautista entered observer.
+[06:25:09	]José Juan Carlos Bautista exited observer at their location.
+[06:25:12	]José Juan Carlos Bautista entered observer.
+[06:25:12	]José Juan Carlos Bautista exited observer at their location.
+[06:25:48	]José Juan Carlos Bautista has spawned 'models/props_furniture/dresser1.mdl'.
+[06:25:58	]José Juan Carlos Bautista has enabled persistence for 'models/props_furniture/dresser1.mdl'.
+[06:25:58	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:26:08	]José Juan Carlos Bautista has spawned 'models/props_interiors/furniture_lamp01a_static.mdl'.
+[06:26:11	]José Juan Carlos Bautista has enabled persistence for 'models/props_interiors/furniture_lamp01a_static.mdl'.
+[06:26:11	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:26:15	]José Juan Carlos Bautista entered observer.
+[06:26:16	]José Juan Carlos Bautista exited observer at their location.
+[06:26:17	]José Juan Carlos Bautista entered observer.
+[06:26:18	]José Juan Carlos Bautista exited observer at their location.
+[06:26:20	]José Juan Carlos Bautista entered observer.
+[06:26:47	]José Juan Carlos Bautista has fired a toolgun with the name: nocollideworld
+[06:27:00	]José Juan Carlos Bautista has enabled persistence for 'models/props/cs_assault/billboard.mdl'.
+[06:27:00	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:27:19	]José Juan Carlos Bautista exited observer at their location.
+[06:28:20	]José Juan Carlos Bautista used command '/PanelAdd https://i.imgur.com/wcbDc4a.png 3 55'.
+[06:28:25	]José Juan Carlos Bautista entered observer.
+[06:28:30	]José Juan Carlos Bautista exited observer at their location.
+[06:28:34	]José Juan Carlos Bautista entered observer.
+[06:28:44	]José Juan Carlos Bautista exited observer at their location.
+[06:29:11	]José Juan Carlos Bautista has spawned 'models/props_urban/fence_cover001_256.mdl'.
+[06:29:15	]José Juan Carlos Bautista has enabled persistence for 'models/props_urban/fence_cover001_256.mdl'.
+[06:29:15	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:29:37	]José Juan Carlos Bautista entered observer.
+[06:30:03	]José Juan Carlos Bautista has spawned 'models/props_urban/fence_cover001_256.mdl'.
+[06:30:17	]José Juan Carlos Bautista has spawned 'models/props/de_overpass/overpass_billboard.mdl'.
+[06:30:26	]José Juan Carlos Bautista exited observer at their location.
+[06:30:26	]José Juan Carlos Bautista entered observer.
+[06:30:29	]José Juan Carlos Bautista has spawned 'models/props/cs_assault/billboard.mdl'.
+[06:30:58	]José Juan Carlos Bautista exited observer at their location.
+[06:31:00	]José Juan Carlos Bautista entered observer.
+[06:31:19	]José Juan Carlos Bautista has used a context menu option with the name: bodygroups
+[06:31:21	]José Juan Carlos Bautista has used a context menu option with the name: remove
+[06:31:52	]José Juan Carlos Bautista used command '/PanelAdd https://i.imgur.com/wcbDc4a.png 3 55'.
+[06:31:56	]José Juan Carlos Bautista exited observer at their location.
+[06:32:00	]José Juan Carlos Bautista entered observer.
+[06:32:04	]José Juan Carlos Bautista exited observer at their location.
+[06:32:33	]José Juan Carlos Bautista entered observer.
+[06:32:39	]José Juan Carlos Bautista used command '/PanelRemove'.
+[06:32:46	]José Juan Carlos Bautista exited observer at their location.
+[06:32:58	]José Juan Carlos Bautista used command '/PanelAdd https://i.imgur.com/wcbDc4a.png 3 55'.
+[06:33:01	]José Juan Carlos Bautista entered observer.
+[06:33:02	]José Juan Carlos Bautista exited observer at their location.
+[06:33:02	]José Juan Carlos Bautista entered observer.
+[06:33:03	]José Juan Carlos Bautista exited observer at their location.
+[06:33:05	]José Juan Carlos Bautista entered observer.
+[06:33:07	]José Juan Carlos Bautista exited observer at their location.
+[06:33:09	]José Juan Carlos Bautista entered observer.
+[06:33:25	]José Juan Carlos Bautista exited observer at their location.
+[06:33:58	]José Juan Carlos Bautista entered observer.
+[06:33:59	]José Juan Carlos Bautista exited observer at their location.
+[06:34:04	]José Juan Carlos Bautista entered observer.
+[06:34:07	]José Juan Carlos Bautista exited observer at their location.
+[06:34:09	]José Juan Carlos Bautista entered observer.
+[06:34:09	]José Juan Carlos Bautista exited observer at their location.
+[06:34:45	]José Juan Carlos Bautista has spawned 'models/props/props_crates/wooden_crate_32x64.mdl'.
+[06:34:56	]José Juan Carlos Bautista has spawned 'models/props_debris/wood_board06a.mdl'.
+[06:35:06	]José Juan Carlos Bautista has enabled persistence for 'models/props_debris/wood_board06a.mdl'.
+[06:35:06	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:35:08	]José Juan Carlos Bautista has spawned 'models/props_debris/wood_board06a.mdl'.
+[06:35:28	]José Juan Carlos Bautista has enabled persistence for 'models/build1/build3.mdl'.
+[06:35:28	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:35:31	]José Juan Carlos Bautista has disabled persistence for 'models/props_debris/wood_board06a.mdl'.
+[06:35:31	]José Juan Carlos Bautista has used a context menu option with the name: persist_end
+[06:35:38	]José Juan Carlos Bautista has spawned 'models/props_debris/wood_board05a.mdl'.
+[06:35:40	]José Juan Carlos Bautista has spawned 'models/props_debris/wood_board07a.mdl'.
+[06:35:42	]José Juan Carlos Bautista has spawned 'models/props_debris/wood_board03a.mdl'.
+[06:35:44	]José Juan Carlos Bautista has spawned 'models/props_debris/wood_board01a.mdl'.
+[06:35:46	]José Juan Carlos Bautista has spawned 'models/props_debris/wood_board02a.mdl'.
+[06:35:59	]José Juan Carlos Bautista has spawned 'models/props_debris/wood_chunk04a.mdl'.
+[06:36:02	]José Juan Carlos Bautista has spawned 'models/props_debris/wood_chunk04a.mdl'.
+[06:37:01	]José Juan Carlos Bautista has enabled persistence for 'models/props_debris/wood_board02a.mdl'.
+[06:37:01	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:37:02	]José Juan Carlos Bautista has enabled persistence for 'models/props_debris/wood_board06a.mdl'.
+[06:37:02	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:37:03	]José Juan Carlos Bautista has enabled persistence for 'models/props_debris/wood_board06a.mdl'.
+[06:37:03	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:37:04	]José Juan Carlos Bautista entered observer.
+[06:37:04	]José Juan Carlos Bautista exited observer at their location.
+[06:37:20	]José Juan Carlos Bautista has spawned 'models/props_junk/trashdumpster01a.mdl'.
+[06:37:25	]José Juan Carlos Bautista has enabled persistence for 'models/props_junk/trashdumpster01a.mdl'.
+[06:37:25	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:37:26	]José Juan Carlos Bautista created a 'Dumpster' container.
+[06:37:26	]José Juan Carlos Bautista has used a context menu option with the name: wncontainer_create
+[06:37:27	]José Juan Carlos Bautista entered observer.
+[06:37:28	]José Juan Carlos Bautista exited observer at their location.
+[06:37:29	]José Juan Carlos Bautista entered observer.
+[06:37:29	]José Juan Carlos Bautista exited observer at their location.
+[06:37:33	]José Juan Carlos Bautista entered observer.
+[06:37:47	]José Juan Carlos Bautista exited observer at their location.
+[06:37:47	]José Juan Carlos Bautista entered observer.
+[06:37:48	]José Juan Carlos Bautista exited observer at their location.
+[06:38:37	]José Juan Carlos Bautista has spawned 'models/props_junk/garbage128_composite001d.mdl'.
+[06:38:41	]José Juan Carlos Bautista has enabled persistence for 'models/props_junk/garbage128_composite001d.mdl'.
+[06:38:41	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:38:43	]José Juan Carlos Bautista has spawned 'models/props_junk/garbage128_composite001c.mdl'.
+[06:38:46	]José Juan Carlos Bautista has enabled persistence for 'models/props_junk/garbage128_composite001c.mdl'.
+[06:38:46	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:38:49	]José Juan Carlos Bautista has spawned 'models/props_junk/garbage128_composite001b.mdl'.
+[06:38:53	]José Juan Carlos Bautista entered observer.
+[06:38:56	]José Juan Carlos Bautista has fired a toolgun with the name: nocollideworld
+[06:39:16	]José Juan Carlos Bautista has fired a toolgun with the name: nocollideworld
+[06:39:17	]José Juan Carlos Bautista has fired a toolgun with the name: nocollideworld
+[06:39:21	]José Juan Carlos Bautista has enabled persistence for 'models/props_junk/garbage128_composite001b.mdl'.
+[06:39:21	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:39:22	]José Juan Carlos Bautista exited observer at their location.
+[06:39:50	]José Juan Carlos Bautista entered observer.
+[06:40:56	]José Juan Carlos Bautista has spawned 'models/props_lab/workspace001.mdl'.
+[06:40:57	]José Juan Carlos Bautista has spawned 'models/props_lab/workspace002.mdl'.
+[06:40:59	]José Juan Carlos Bautista has spawned 'models/props_lab/workspace001.mdl'.
+[06:41:01	]José Juan Carlos Bautista has spawned 'models/props_lab/workspace004.mdl'.
+[06:41:14	]José Juan Carlos Bautista has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[06:41:44	]José Juan Carlos Bautista has enabled persistence for 'models/props_lab/workspace004.mdl'.
+[06:41:44	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:41:45	]José Juan Carlos Bautista has enabled persistence for 'models/props_wasteland/controlroom_desk001b.mdl'.
+[06:41:45	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:41:50	]José Juan Carlos Bautista exited observer at their location.
+[06:41:54	]José Juan Carlos Bautista entered observer.
+[06:42:59	]José Juan Carlos Bautista has spawned 'models/props_vehicles/truck002a_cab.mdl'.
+[06:43:09	]José Juan Carlos Bautista has enabled persistence for 'models/props_vehicles/truck002a_cab.mdl'.
+[06:43:09	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:43:10	]José Juan Carlos Bautista exited observer at their location.
+[06:43:14	]José Juan Carlos Bautista has disabled persistence for 'models/props_vehicles/truck002a_cab.mdl'.
+[06:43:14	]José Juan Carlos Bautista has used a context menu option with the name: persist_end
+[06:43:24	]José Juan Carlos Bautista entered observer.
+[06:43:41	]José Juan Carlos Bautista has fired a toolgun with the name: nocollideworld
+[06:43:49	]José Juan Carlos Bautista exited observer at their location.
+[06:43:52	]José Juan Carlos Bautista has enabled persistence for 'models/props_vehicles/truck002a_cab.mdl'.
+[06:43:52	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:44:02	]José Juan Carlos Bautista has spawned 'models/props_junk/trashcluster01a.mdl'.
+[06:44:09	]José Juan Carlos Bautista has used a context menu option with the name: skin
+[06:44:10	]José Juan Carlos Bautista has enabled persistence for 'models/props_junk/trashcluster01a.mdl'.
+[06:44:10	]José Juan Carlos Bautista has used a context menu option with the name: persist
+[06:44:15	]José Juan Carlos Bautista has spawned 'models/props_trainstation/trashcan_indoor001a.mdl'.
+[06:44:21	]José Juan Carlos Bautista has spawned 'models/props_trainstation/trashcan_indoor001b.mdl'.
+[06:44:31	]José Juan Carlos Bautista has spawned 'models/props/de_train/hr_t/trash_b/hr_food_pile.mdl'.
+[06:44:32	]José Juan Carlos Bautista has spawned 'models/props/de_train/hr_t/trash_b/hr_food_pile_02.mdl'.
+[06:44:36	]José Juan Carlos Bautista has spawned 'models/props/de_train/hr_t/trash_a/trash_a.mdl'.
+[06:44:39	]José Juan Carlos Bautista has spawned 'models/props/de_train/hr_t/trash_a/trash_a_cans.mdl'.
+[06:44:49	]José Juan Carlos Bautista entered observer.
+[06:45:13	]José Juan Carlos Bautista exited observer at their location.
+[06:45:16	]José Juan Carlos Bautista entered observer.
+[06:45:21	]José Juan Carlos Bautista exited observer at their location.
+[06:45:23	]José Juan Carlos Bautista entered observer.
+[06:45:25	]José Juan Carlos Bautista exited observer at their location.
+[06:45:26	]José Juan Carlos Bautista entered observer.
+[06:46:02	]José Juan Carlos Bautista used command '/PanelRemove'.
+[06:46:05	]José Juan Carlos Bautista has used a context menu option with the name: rb655_dissolve
+[06:46:28	]José Juan Carlos Bautista exited observer at their location.
+[06:46:29	]José Juan Carlos Bautista entered observer.
+[06:46:33	]José Juan Carlos Bautista exited observer at their location.
+[06:46:36	]ryebredd (STEAM_0:0:30307584) has disconnected.
+[19:44:56	]Imperator RAD-X has connected.
+[19:47:59	]Imperator RAD-X loaded the character 'ADV/F9-39/SH.40'
+[19:48:41	]ADV/F9-39/SH.40 entered observer.
+[19:48:43	]ADV/F9-39/SH.40 exited observer at their location.
+[19:48:45	]ADV/F9-39/SH.40 entered observer.
+[19:49:03	]ADV/F9-39/SH.40 exited observer at their location.
+[19:49:11	]ADV/F9-39/SH.40 entered observer.
+[19:49:34	]ADV/F9-39/SH.40 has used a context menu option with the name: remove
+[19:49:48	]ADV/F9-39/SH.40 has spawned 'models/props_combine/combine_booth_short01a.mdl'.
+[19:50:16	]ADV/F9-39/SH.40 exited observer at their location.
+[19:50:27	]ADV/F9-39/SH.40 has enabled persistence for 'models/props_combine/combine_booth_short01a.mdl'.
+[19:50:27	]ADV/F9-39/SH.40 has used a context menu option with the name: persist
+[19:50:27	]ADV/F9-39/SH.40 entered observer.
+[19:50:28	]ADV/F9-39/SH.40 exited observer at their location.
+[19:50:38	]ADV/F9-39/SH.40 has spawned 'models/props_combine/combine_light002a.mdl'.
+[19:50:46	]ADV/F9-39/SH.40 has spawned a usable entity class 'ix_lamp' with model 'models/props_combine/combine_light002a.mdl'.
+[19:50:46	]ADV/F9-39/SH.40 has used a context menu option with the name: ixusableentitycreate
+[19:51:00	]ADV/F9-39/SH.40 entered observer.
+[19:51:15	]ADV/F9-39/SH.40 exited observer at their location.
+[19:51:16	]ADV/F9-39/SH.40 entered observer.
+[19:51:23	]ADV/F9-39/SH.40 exited observer at their location.
+[19:51:26	]ADV/F9-39/SH.40 has spawned 'models/props_combine/combine_interface001.mdl'.
+[19:51:33	]ADV/F9-39/SH.40 entered observer.
+[19:51:35	]ADV/F9-39/SH.40 exited observer at their location.
+[19:51:39	]ADV/F9-39/SH.40 entered observer.
+[19:51:50	]ADV/F9-39/SH.40 has spawned a 'Entity [251][ix_forcefield]'.
+[19:51:57	]ADV/F9-39/SH.40 has spawned a 'Entity [251][ix_forcefield]'.
+[19:52:05	]ADV/F9-39/SH.40 has spawned a 'Entity [251][ix_forcefield]'.
+[19:52:17	]ADV/F9-39/SH.40 exited observer at their location.
+[19:52:32	]Imperator RAD-X loaded the character 'Manhack'
+[19:52:37	]Manhack is fully healed.
+[19:52:38	]Manhack entered observer.
+[19:52:41	]Manhack exited observer at their location.
+[19:52:47	]Manhack entered observer.
+[19:52:54	]Manhack has spawned a 'Entity [236][ix_forcefield]'.
+[19:52:55	]Manhack exited observer at their location.
+[19:53:10	]Manhack ran 'drop' on item 'CP Mask' (#1307930)
+[19:53:10	]Manhack has lost a 'CP Mask' #1307930.
+[19:53:12	]Manhack ran 'drop' on item 'CP Uniform' (#1307929)
+[19:53:12	]Manhack has lost a 'CP Uniform' #1307929.
+[19:53:15	]Manhack has used a context menu option with the name: remove
+[19:53:16	]Manhack has used a context menu option with the name: remove
+[19:53:30	]Manhack has given himself a uniform_ocs.
+[19:53:30	]Manhack has gained a 'Containment Uniform' #1583997.
+[19:53:31	]Manhack has given himself a mask_cp.
+[19:53:31	]Manhack has gained a 'CP Mask' #1583998.
+[19:53:59	]Manhack entered observer.
+[19:53:59	]Manhack exited observer at their location.
+[19:54:01	]Manhack entered observer.
+[19:54:06	]Manhack exited observer at their location.
+[19:54:08	]Manhack entered observer.
+[19:54:24	]Manhack has spawned 'models/props_combine/combine_booth_short01a.mdl'.
+[19:54:37	]Manhack has spawned 'models/props_combine/combine_barricade_med02b.mdl'.
+[19:54:45	]Manhack has fired a toolgun with the name: nocollideworld
+[19:54:55	]Manhack has enabled persistence for 'models/props_combine/combine_barricade_med02b.mdl'.
+[19:54:55	]Manhack has used a context menu option with the name: persist
+[19:55:01	]Manhack has spawned 'models/props_combine/combine_booth_short01a.mdl'.
+[19:55:12	]Manhack has spawned 'models/props_combine/combine_barricade_med02c.mdl'.
+[19:55:19	]Manhack has fired a toolgun with the name: nocollideworld
+[19:56:03	]Manhack exited observer at their location.
+[19:56:05	]Manhack entered observer.
+[19:56:21	]Manhack has spawned 'models/props_debris/concrete_debris256pile001a.mdl'.
+[19:56:25	]Manhack has fired a toolgun with the name: nocollideworld
+[19:56:36	]Manhack has enabled persistence for 'models/props_debris/concrete_debris256pile001a.mdl'.
+[19:56:36	]Manhack has used a context menu option with the name: persist
+[19:56:39	]Manhack exited observer at their location.
+[19:56:44	]Manhack entered observer.
+[19:58:01	]Manhack has enabled persistence for 'models/props_combine/combine_barricade_med02c.mdl'.
+[19:58:01	]Manhack has used a context menu option with the name: persist
+[19:58:13	]Manhack has spawned 'models/props_wasteland/exterior_fence001a.mdl'.
+[19:58:15	]Manhack has spawned 'models/props_wasteland/interior_fence002c.mdl'.
+[19:58:23	]Manhack has fired a toolgun with the name: nocollideworld
+[19:58:40	]Manhack has enabled persistence for 'models/props_wasteland/interior_fence002c.mdl'.
+[19:58:40	]Manhack has used a context menu option with the name: persist
+[19:59:03	]Manhack has fired a toolgun with the name: nocollideworld
+[19:59:05	]Manhack has disabled persistence for 'models/props_wasteland/interior_fence002c.mdl'.
+[19:59:05	]Manhack has used a context menu option with the name: persist_end
+[19:59:14	]Manhack has fired a toolgun with the name: nocollideworld
+[19:59:16	]Manhack has enabled persistence for 'models/props_wasteland/interior_fence002c.mdl'.
+[19:59:16	]Manhack has used a context menu option with the name: persist
+[19:59:18	]Manhack exited observer at their location.
+[19:59:20	]Manhack entered observer.
+[19:59:23	]Manhack exited observer at their location.
+[19:59:24	]Manhack entered observer.
+[19:59:29	]Manhack has fired a toolgun with the name: ladder
+[19:59:30	]Manhack has fired a toolgun with the name: ladder
+[19:59:33	]Manhack has fired a toolgun with the name: ladder
+[19:59:33	]Manhack has fired a toolgun with the name: ladder
+[19:59:33	]Manhack exited observer at their location.
+[19:59:44	]Manhack entered observer.
+[19:59:46	]Manhack exited observer at their location.
+[19:59:48	]Manhack entered observer.
+[19:59:52	]Manhack exited observer at their location.
+[20:00:02	]Manhack entered observer.
+[20:00:18	]Manhack has enabled persistence for 'models/props_combine/combine_interface001.mdl'.
+[20:00:18	]Manhack has used a context menu option with the name: persist
+[20:00:21	]Manhack exited observer at their location.
+[20:00:22	]Manhack entered observer.
+[20:00:36	]Manhack has spawned 'models/props_combine/combine_booth_short01a.mdl'.
+[20:01:03	]Manhack has spawned a 'Entity [255][ix_forcefield]'.
+[20:01:07	]Manhack has spawned a 'Entity [255][ix_forcefield]'.
+[20:01:10	]Manhack exited observer at their location.
+[20:01:14	]Manhack entered observer.
+[20:01:20	]Manhack exited observer at their location.
+[20:01:22	]Manhack has enabled persistence for 'models/props_combine/combine_booth_short01a.mdl'.
+[20:01:22	]Manhack has used a context menu option with the name: persist
+[20:01:22	]Manhack entered observer.
+[20:01:23	]Manhack exited observer at their location.
+[20:01:25	]Manhack entered observer.
+[20:01:55	]Manhack has spawned a 'Entity [265][ix_forcefield]'.
+[20:02:01	]Manhack has spawned a 'Entity [265][ix_forcefield]'.
+[20:02:03	]Manhack has spawned a 'Entity [269][ix_forcefield]'.
+[20:02:04	]Manhack has spawned a 'Entity [265][ix_forcefield]'.
+[20:02:05	]Manhack has spawned a 'Entity [269][ix_forcefield]'.
+[20:02:07	]Manhack exited observer at their location.
+[20:02:10	]Manhack entered observer.
+[20:02:19	]Manhack has spawned 'models/props_combine/combine_booth_short01a.mdl'.
+[20:02:32	]Manhack has enabled persistence for 'models/props_combine/combine_booth_short01a.mdl'.
+[20:02:32	]Manhack has used a context menu option with the name: persist
+[20:02:41	]Manhack has disabled persistence for 'models/props_vehicles/truck002a_cab.mdl'.
+[20:02:41	]Manhack has used a context menu option with the name: persist_end
+[20:02:53	]Manhack has spawned 'models/props_combine/combine_booth_short01a.mdl'.
+[20:03:06	]Manhack has enabled persistence for 'models/props_combine/combine_booth_short01a.mdl'.
+[20:03:06	]Manhack has used a context menu option with the name: persist
+[20:03:13	]Manhack has spawned a 'Entity [271][ix_forcefield]'.
+[20:03:14	]Manhack has spawned a 'Entity [273][ix_forcefield]'.
+[20:03:16	]Manhack exited observer at their location.
+[20:03:17	]Manhack entered observer.
+[20:03:26	]Manhack has spawned a 'Entity [264][ix_forcefield]'.
+[20:03:30	]Manhack has spawned a 'Entity [272][ix_forcefield]'.
+[20:03:31	]Manhack has spawned a 'Entity [264][ix_forcefield]'.
+[20:03:33	]Manhack has spawned a 'Entity [272][ix_forcefield]'.
+[20:03:35	]Manhack has spawned a 'Entity [264][ix_forcefield]'.
+[20:03:37	]Manhack has spawned a 'Entity [272][ix_forcefield]'.
+[20:03:38	]Manhack has spawned a 'Entity [264][ix_forcefield]'.
+[20:03:40	]Manhack has spawned a 'Entity [272][ix_forcefield]'.
+[20:03:42	]Manhack exited observer at their location.
+[20:03:46	]Manhack entered observer.
+[20:04:00	]Manhack has spawned 'models/props_combine/combine_interface003.mdl'.
+[20:04:02	]Manhack has enabled persistence for 'models/props_combine/combine_interface003.mdl'.
+[20:04:02	]Manhack has used a context menu option with the name: persist
+[20:04:06	]Manhack has spawned 'models/props_combine/combine_interface002.mdl'.
+[20:04:11	]Manhack has enabled persistence for 'models/props_combine/combine_interface002.mdl'.
+[20:04:11	]Manhack has used a context menu option with the name: persist
+[20:04:17	]Manhack has spawned 'models/props_combine/combine_interface001.mdl'.
+[20:04:20	]Manhack has enabled persistence for 'models/props_combine/combine_interface001.mdl'.
+[20:04:20	]Manhack has used a context menu option with the name: persist
+[20:04:42	]Manhack has spawned 'models/props_combine/railing_corner_outside.mdl'.
+[20:04:56	]Manhack has fired a toolgun with the name: nocollideworld
+[20:05:01	]Manhack has enabled persistence for 'models/props_combine/railing_corner_outside.mdl'.
+[20:05:01	]Manhack has used a context menu option with the name: persist
+[20:05:04	]Manhack has spawned 'models/props_combine/railing_corner_inside.mdl'.
+[20:05:06	]Manhack has spawned 'models/props_combine/railing_corner_outside.mdl'.
+[20:05:14	]Manhack has fired a toolgun with the name: nocollideworld
+[20:05:28	]Manhack exited observer at their location.
+[20:05:32	]Manhack entered observer.
+[20:05:34	]Manhack has disabled persistence for 'models/props_combine/railing_corner_outside.mdl'.
+[20:05:34	]Manhack has used a context menu option with the name: persist_end
+[20:05:40	]Manhack has enabled persistence for 'models/props_combine/railing_corner_outside.mdl'.
+[20:05:40	]Manhack has used a context menu option with the name: persist
+[20:05:42	]Manhack has enabled persistence for 'models/props_combine/railing_corner_outside.mdl'.
+[20:05:42	]Manhack has used a context menu option with the name: persist
+[20:05:50	]Manhack has spawned 'models/props_combine/railing_256.mdl'.
+[20:06:08	]Manhack has enabled persistence for 'models/props_combine/railing_256.mdl'.
+[20:06:08	]Manhack has used a context menu option with the name: persist
+[20:06:19	]Manhack has spawned 'models/props_combine/combine_light002a.mdl'.
+[20:06:22	]Manhack has spawned 'models/props_combine/combine_light002a.mdl'.
+[20:06:36	]Manhack has spawned a usable entity class 'ix_lamp' with model 'models/props_combine/combine_light002a.mdl'.
+[20:06:36	]Manhack has used a context menu option with the name: ixusableentitycreate
+[20:06:37	]Manhack exited observer at their location.
+[20:06:43	]Manhack entered observer.
+[20:07:06	]Manhack has spawned 'models/props_combine/railing_256.mdl'.
+[20:07:15	]Manhack has fired a toolgun with the name: nocollideworld
+[20:07:21	]Manhack has enabled persistence for 'models/props_combine/railing_256.mdl'.
+[20:07:21	]Manhack has used a context menu option with the name: persist
+[20:07:24	]Manhack has spawned 'models/props_combine/railing_256.mdl'.
+[20:07:35	]Manhack has fired a toolgun with the name: nocollideworld
+[20:07:48	]Manhack has enabled persistence for 'models/props_combine/railing_256.mdl'.
+[20:07:48	]Manhack has used a context menu option with the name: persist
+[20:07:53	]Manhack has disabled persistence for 'models/props_combine/railing_256.mdl'.
+[20:07:53	]Manhack has used a context menu option with the name: persist_end
+[20:07:59	]Manhack has enabled persistence for 'models/props_combine/railing_256.mdl'.
+[20:07:59	]Manhack has used a context menu option with the name: persist
+[20:08:04	]Manhack has disabled persistence for 'models/props_combine/railing_256.mdl'.
+[20:08:04	]Manhack has used a context menu option with the name: persist_end
+[20:08:07	]Manhack has enabled persistence for 'models/props_combine/railing_256.mdl'.
+[20:08:07	]Manhack has used a context menu option with the name: persist
+[20:08:18	]Manhack has spawned 'models/props_combine/combinethumper002.mdl'.
+[20:08:51	]Manhack exited observer at their location.
+[20:09:08	]Manhack used command '/PlaySound https://www.youtube.com/watch?v=GNYqvHRy4YM'.
+[20:09:12	]Manhack used command '/PlaySong https://www.youtube.com/watch?v=GNYqvHRy4YM'.
+[20:09:20	]Manhack entered observer.
+[20:10:00	]Manhack used command '/StopSong'.
+[20:10:03	]Manhack used command '/PlaySong https://www.youtube.com/watch?v=LmoOfVJUFHI'.
+[20:10:09	]Manhack exited observer at their location.
+[20:10:14	]Manhack entered observer.
+[20:10:15	]Manhack exited observer at their location.
+[20:10:16	]Manhack entered observer.
+[20:10:33	]Manhack exited observer at their location.
+[20:10:36	]Manhack entered observer.
+[20:10:41	]Manhack exited observer at their location.
+[20:10:45	]Manhack has spawned 'models/props_combine/combine_light002a.mdl'.
+[20:10:53	]Manhack has spawned a usable entity class 'ix_lamp' with model 'models/props_combine/combine_light002a.mdl'.
+[20:10:53	]Manhack has used a context menu option with the name: ixusableentitycreate
+[20:11:11	]Manhack set walkSpeed to '97'.
+[20:11:14	]Manhack set walkSpeed to '80'.
+[20:11:25	]Manhack set walkSpeed to '75'.
+[20:12:11	]Manhack set walkSpeed to '85'.
+[20:12:47	]Manhack entered observer.
+[20:12:53	]Manhack exited observer at their location.
+[20:12:57	]Manhack entered observer.
+[20:12:59	]Manhack exited observer at their location.
+[20:13:03	]Manhack entered observer.
+[20:13:26	]Manhack exited observer at their location.
+[20:13:27	]Manhack entered observer.
+[20:13:48	]Manhack has fired a toolgun with the name: prop_door
+[20:13:56	]Manhack exited observer at their location.
+[20:14:12	]Manhack entered observer.
+[20:14:21	]Manhack has fired a toolgun with the name: prop_door
+[20:14:44	]Manhack has fired a toolgun with the name: prop_door
+[20:14:51	]Manhack exited observer at their location.
+[20:14:52	]Manhack entered observer.
+[20:15:08	]Manhack exited observer at their location.
+[20:15:10	]Manhack entered observer.
+[20:15:18	]Manhack has spawned a 'Entity [292][stormfox_oil_lamp]'.
+[20:15:18	]Manhack exited observer at their location.
+[20:15:21	]Manhack has spawned a 'Entity [293][stormfox_cs_lantern2]'.
+[20:15:27	]Manhack entered observer.
+[20:15:28	]Manhack exited observer at their location.
+[20:15:31	]Manhack entered observer.
+[20:15:32	]Manhack exited observer at their location.
+[20:15:43	]Manhack entered observer.
+[20:15:47	]Manhack exited observer at their location.
+[20:15:51	]Manhack has spawned a 'Entity [291][stormfox_cs_lantern]'.
+[20:16:01	]Manhack entered observer.
+[20:16:03	]Manhack exited observer at their location.
+[20:16:03	]Jei has connected.
+[20:16:07	]Manhack has spawned a 'Entity [296][stormfox_oil_lamp]'.
+[20:16:41	]Manhack has spawned a 'Entity [298][stormfox_cs_candle_small]'.
+[20:16:51	]Manhack has spawned a 'Entity [295][stormfox_cs_candle]'.
+[20:16:57	]Manhack has spawned a 'Entity [295][stormfox_oil_lamp]'.
+[20:17:03	]Jei loaded the character 'Jinx'
+[20:17:08	]Jinx is fully healed.
+[20:17:17	]Jinx used command '/ToggleGM'.
+[20:17:19	]Jinx entered observer.
+[20:17:20	]Manhack entered observer.
+[20:17:21	]Jinx exited observer.
+[20:17:21	]Manhack exited observer at their location.
+[20:17:27	]Manhack has spawned a 'Entity [299][stormfox_oil_lamp]'.
+[20:17:44	]Manhack entered observer.
+[20:17:45	]Manhack exited observer at their location.
+[20:17:57	]Manhack set walkSpeed to '90'.
+[20:18:19	][OOC] Jinx: Boo
+[20:18:22	][OOC] Manhack: hi
+[20:18:27	][OOC] Manhack: like the setting?
+[20:18:28	]Manhack entered observer.
+[20:18:34	]Jinx entered observer.
+[20:18:43	]Manhack has enabled persistence for 'models/props_vehicles/truck002a_cab.mdl'.
+[20:18:43	]Manhack has used a context menu option with the name: persist
+[20:18:51	][OOC] Jinx: Reminds me of stalker maps
+[20:18:59	][OOC] Manhack: Did most of the propping here.
+[20:19:05	]Manhack exited observer at their location.
+[20:19:11	]Manhack has spawned 'models/props_combine/combine_light002a.mdl'.
+[20:19:13	]Jinx exited observer.
+[20:19:15	]Jinx entered observer.
+[20:19:17	]Manhack has spawned a usable entity class 'ix_lamp' with model 'models/props_combine/combine_light002a.mdl'.
+[20:19:17	]Manhack has used a context menu option with the name: ixusableentitycreate
+[20:19:27	]Manhack entered observer.
+[20:19:31	]Manhack exited observer at their location.
+[20:19:35	]Jinx exited observer at their location.
+[20:19:37	][OOC] Manhack: We're gonna nail the oppressive atmosphere.
+[20:19:41	]Jinx entered observer.
+[20:19:54	][OOC] Manhack: failure in that department means it's all for nothing.
+[20:20:09	][OOC] Jinx: Gotta get the CPs to be more opressive
+[20:20:15	][OOC] Manhack: That's the plan.
+[20:20:22	][OOC] Manhack: You're no longer allowed to talk outside.
+[20:20:25	][OOC] Jinx: Does Dispatch work in this district?
+[20:20:27	][OOC] Manhack: This map is perfect.
+[20:20:28	]Manhack entered observer.
+[20:20:30	][OOC] Manhack: Yes.
+[20:20:40	][OOC] Manhack: Also like the playsong music?
+[20:20:47	]Manhack exited observer at their location.
+[20:20:48	]Manhack entered observer.
+[20:20:49	]Manhack exited observer at their location.
+[20:20:49	]Manhack entered observer.
+[20:20:49	]Manhack exited observer at their location.
+[20:20:50	]Manhack entered observer.
+[20:21:09	][OOC] Jinx: I just joined. I only have the Ambience music
+[20:21:15	]Manhack used command '/PlaySong https://www.youtube.com/watch?v=LmoOfVJUFHI'.
+[20:21:25	][OOC] Manhack: It's beautiful tbh.
+[20:21:28	][OOC] Manhack: For this place.
+[20:21:38	][OOC] Jinx: Ohh, very interesting
+[20:21:42	]Jinx used command '/AreaEdit'.
+[20:21:47	]Manhack exited observer at their location.
+[20:21:55	][OOC] Manhack: This is what I wanted Willard to be.
+[20:22:00	][OOC] Manhack: Eery, dreery and damning.
+[20:22:02	]Manhack entered observer.
+[20:22:03	]Manhack has spawned 'models/props_combine/combinetower001.mdl'.
+[20:22:04	][OOC] Jinx: You know, if you set all the Areas down you can transfer this maps Datafile to main willard. Easy as pie.
+[20:22:10	][OOC] Manhack: Oh good.
+[20:22:16	]Manhack used command '/AreaEdit'.
+[20:22:20	][OOC] Jinx: Its what I did with Under Red Skies
+[20:22:52	][OOC] Jinx: YO Nexus boxing ring
+[20:23:06	]Manhack has added area "PEN-STATION AREA".
+[20:23:11	]Manhack exited observer at their location.
+[20:23:13	]Manhack entered observer.
+[20:23:15	]Manhack used command '/AreaEdit'.
+[20:23:20	][OOC] Manhack: This shall be the PEN-STATION AREA.
+[20:23:24	][OOC] Manhack: I will get custom dispatch sounds.
+[20:23:29	][OOC] Manhack: I will MAKE them.
+[20:23:36	][OOC] Manhack: And they WILL SAY PEN-STATION AREA.
+[20:23:46	]Jinx exited observer at their location.
+[20:23:48	]Jinx entered observer.
+[20:24:08	]Jinx exited observer at their location.
+[20:24:24	][OOC] Jinx: Can you set me to a higher rank
+[20:24:32	]Manhack has added area "Chestnut Cafe".
+[20:24:36	]Manhack exited observer at their location.
+[20:24:36	]Jinx entered observer.
+[20:24:52	]Manhack entered observer.
+[20:24:56	]Manhack used command '/AreaEdit'.
+[20:25:16	]Manhack ran SAM command 'menu' with arguments: ''
+[20:25:24	]Manhack ran SAM command 'setrank' with arguments: '#2' 'senior_admin' '0'
+[20:25:29	][OOC] Jinx: Danka
+[20:26:09	]Manhack has added area "The High-Horse".
+[20:26:12	]Manhack exited observer at their location.
+[20:26:17	]Manhack entered observer.
+[20:26:22	]Manhack used command '/AreaEdit'.
+[20:26:23	]Jinx exited observer at their location.
+[20:26:28	]Jinx entered observer.
+[20:26:38	]Manhack has removed area "The High-Horse".
+[20:26:41	]Jinx exited observer at their location.
+[20:26:46	]Jinx used command '/PrintStaffList'.
+[20:27:01	]Jinx ran SAM command 'menu' with arguments: ''
+[20:27:12	][OOC] Jinx: Senior Admins can't spawn stuff?
+[20:27:24	]Manhack has added area "Angel's Horse".
+[20:27:25	]Jinx has spawned a 'Entity [300][ix_rationdispenser]'.
+[20:27:32	]Manhack ran SAM command 'menu' with arguments: ''
+[20:27:36	]Manhack ran SAM command 'setrank' with arguments: '#2' 'community_manager' '0'
+[20:27:41	]Jinx has spawned a cit_computer.
+[20:27:42	]Manhack ran SAM command 'setrank' with arguments: '#2' 'community_manager' '720'
+[20:27:45	]Jinx has used a context menu option with the name: remove
+[20:27:47	]Manhack exited observer at their location.
+[20:27:48	]Manhack entered observer.
+[20:27:53	]Manhack exited observer at their location.
+[20:27:55	]Manhack entered observer.
+[20:27:56	]Manhack exited observer at their location.
+[20:28:03	][OOC] Jinx: 12 Hours? You know if I rejoin i loose my rank right?
+[20:28:18	][OOC] Jinx: Cause its connected to Xenforo and GExtension
+[20:28:26	]Manhack entered observer.
+[20:28:32	]Jinx has spawned a 'Entity [300][ix_cmbcontainer]'.
+[20:28:36	][OOC] Manhack: Ach, I'll be on the server all day.
+[20:28:40	][OOC] Manhack: I'll reset you.
+[20:28:46	]Manhack exited observer at their location.
+[20:28:49	]Manhack entered observer.
+[20:28:52	]Manhack used command '/AreaEdit'.
+[20:28:58	]Jinx set PlayersToLoot to '1'.
+[20:29:11	]Jinx has used a context menu option with the name: remove
+[20:29:19	]Manhack has added area "The Tree".
+[20:29:19	][OOC] Jinx: Yo I love this crate system
+[20:29:21	]Manhack exited observer at their location.
+[20:29:22	]Jinx has spawned a 'Entity [300][ix_infestationcontainer]'.
+[20:29:25	][OOC] Manhack: :d
+[20:29:26	][OOC] Manhack: :D
+[20:29:35	]Manhack entered observer.
+[20:29:36	]Manhack exited observer at their location.
+[20:29:37	]Manhack entered observer.
+[20:29:38	]Jinx has given himself a flashlight.
+[20:29:38	]Jinx has gained a 'Flashlight' #1584000.
+[20:29:43	]Jinx has used a context menu option with the name: remove
+[20:33:18	]Jinx has spawned a 'Entity [300][ix_advancedcontainer]'.
+[20:33:45	]Jinx has used a context menu option with the name: remove
+[20:33:46	]Jinx has used a context menu option with the name: remove
+[20:33:54	]Jinx has spawned a 'Entity [307][ix_cmbcontainer]'.
+[20:34:02	]Jinx has spawned a 'Entity [308][ix_cmbcontainer]'.
+[20:34:52	]Manhack used command '/AreaEdit'.
+[20:34:53	][OOC] Jinx: God this atmosphere is setting off my horror fight or flight
+[20:35:13	][OOC] Jinx: Catching myself second guessing opening doors lmao
+[20:35:56	]Manhack has added area "PEN-APARTMENT COMPLEX".
+[20:36:41	]Manhack has added area "PEN-APARTMENT BASEMENT".
+[20:36:52	]Manhack used command '/AreaEdit'.
+[20:36:57	][OOC] Manhack: xdd
+[20:37:03	][OOC] Manhack: Imagine that with the music.
+[20:37:21	][LOOC] Jinx: The tense music
+[20:37:25	][OOC] Jinx: The tense music
+[20:39:07	]Jinx entered observer.
+[20:39:21	]Jinx exited observer at their location.
+[20:39:27	]Manhack has added area "CLC Headquarters".
+[20:39:27	]Jinx entered observer.
+[20:39:31	][OOC] Manhack: Doing the areas.
+[20:39:33	]Jinx exited observer at their location.
+[20:39:36	][OOC] Jinx: Alright
+[20:39:46	][OOC] Jinx: Imma start on building up the nexus
+[20:40:40	]Jinx has spawned 'models/hunter/blocks/cube150x150x025.mdl'.
+[20:40:44	]Manhack has added area "PEN-STATION INDUSTRIAL BARRIER".
+[20:40:46	]Jinx has spawned 'models/hunter/blocks/cube1x2x1.mdl'.
+[20:40:48	]Jinx has spawned 'models/hunter/blocks/cube1x2x05.mdl'.
+[20:40:53	]Manhack exited observer at their location.
+[20:41:01	]Manhack entered observer.
+[20:41:03	]Jinx has fired a toolgun with the name: precision
+[20:41:16	]Jinx has fired a toolgun with the name: precision
+[20:41:41	]Jinx has fired a toolgun with the name: submaterial
+[20:41:46	]Jinx has fired a toolgun with the name: submaterial
+[20:42:31	]Jinx has spawned a 'Entity [300][ix_customvendingmachine]'.
+[20:42:34	]Jinx has used a context menu option with the name: rb655_dissolve
+[20:42:36	]Jinx has used a context menu option with the name: rb655_dissolve
+[20:42:36	]env_entity_dissolver destroyed a 'Vending Machine Key' #1584004.
+[20:42:37	]Jinx has used a context menu option with the name: rb655_dissolve
+[20:42:38	]env_entity_dissolver destroyed a 'Vending Machine Key' #1584002.
+[20:42:39	]env_entity_dissolver destroyed a 'Vending Machine Key' #1584003.
+[20:42:53	]Jinx has spawned a 'Entity [310][ix_rationdispenser]'.
+[20:42:56	]Jinx has spawned a 'Entity [310][ix_rationdispenser]'.
+[20:42:57	]Jinx has spawned a 'Entity [314][ix_rationdispenser]'.
+[20:42:59	]Jinx has spawned a 'Entity [310][ix_rationdispenser]'.
+[20:43:11	]Jinx has acquired his ration, gaining 10 credits, 0 wages and a ration ration.
+[20:43:24	][OOC] Manhack: Righty-o.
+[20:43:35	]Jinx has fired a toolgun with the name: stacker_improved
+[20:43:35	]Jinx has spawned 'models/hunter/blocks/cube1x2x05.mdl'.
+[20:43:42	]Jinx has fired a toolgun with the name: submaterial
+[20:43:48	]Jinx has fired a toolgun with the name: submaterial
+[20:43:53	]Jinx has enabled persistence for 'models/hunter/blocks/cube1x2x05.mdl'.
+[20:43:53	]Jinx has used a context menu option with the name: persist
+[20:43:55	]Jinx has enabled persistence for 'models/hunter/blocks/cube1x2x05.mdl'.
+[20:43:55	]Jinx has used a context menu option with the name: persist
+[20:45:01	]Jinx ran 'take' on item 'Ration' (#1584005)
+[20:45:01	]Jinx has gained a 'Ration' #1584005.
+[20:45:21	]Jinx has spawned a 'Entity [314][ix_pickupterminal]'.
+[20:45:24	]Jinx has spawned a 'Entity [317][ix_pickupterminal]'.
+[20:45:44	]Jinx has spawned a 'Entity [300][ix_rationdispenser]'.
+[20:45:53	]Jinx has spawned a 'Entity [300][ix_rationdispenser]'.
+[20:45:59	]Jinx has spawned a 'Entity [314][ix_rationdispenser]'.
+[20:46:06	]Jinx has spawned a 'Entity [314][ix_pickupterminal]'.
+[20:46:21	]Jinx has spawned a 'Entity [314][ix_pickupterminal]'.
+[20:50:17	]Jinx entered observer.
+[20:50:20	][OOC] Manhack: asdasddas
+[20:50:23	][OOC] Jinx: ?
+[20:50:24	]Manhack used command '/AreaEdit'.
+[20:50:26	]Jinx exited observer at their location.
+[20:50:31	][OOC] Manhack: just wanted to say asdasddas
+[20:50:32	]Jinx has spawned a 'Entity [300][ix_vendor]'.
+[20:50:38	][OOC] Jinx: FDgfdgdfgdg
+[20:50:43	][OOC] Manhack: death
+[20:51:56	]Jinx has used a context menu option with the name: vendor_edit
+[20:53:24	]Jinx has used a context menu option with the name: vendor_edit
+[20:54:20	]Manhack exited observer at their location.
+[20:54:27	]Manhack entered observer.
+[20:54:27	]Manhack exited observer at their location.
+[20:54:33	]Jinx entered observer.
+[20:54:34	]Jinx exited observer at their location.
+[20:54:37	]Jinx used the 'S10:\\CMD-VEND-504' vendor.
+[20:54:39	]Manhack entered observer.
+[20:54:44	]Manhack exited observer at their location.
+[20:54:48	]Manhack entered observer.
+[20:54:52	]Manhack used command '/AreaEdit'.
+[20:55:31	]Manhack has added area "CLC Administrative Function".
+[20:55:38	]Manhack exited observer at their location.
+[20:55:44	]Manhack entered observer.
+[20:55:47	]Manhack used command '/AreaEdit'.
+[20:56:21	][OOC] Jinx: Oh, does this district have power?
+[20:56:26	]Manhack has added area "CLC Administrative Function - Lower Level".
+[20:56:46	]Manhack used command '/AreaEdit'.
+[20:57:09	]Manhack has added area "CLC Administrative Function - Chamber".
+[20:57:35	]Manhack has added area "CLC Administrative Function - Offices".
+[20:57:44	]Manhack exited observer at their location.
+[20:57:58	]Manhack entered observer.
+[20:58:03	]Jinx entered observer.
+[20:58:05	]Manhack used command '/AreaEdit'.
+[20:58:30	]Jinx exited observer at their location.
+[20:58:31	]Manhack has added area "Ruined Overpass".
+[20:58:41	]Jinx entered observer.
+[20:58:59	]Jinx has used a context menu option with the name: rb655_breakable_break
+[20:59:01	]Jinx exited observer at their location.
+[20:59:04	]Jinx entered observer.
+[20:59:52	]Manhack has added area "The Auld Reekie".
+[20:59:56	]Manhack exited observer at their location.
+[21:00:01	]Manhack entered observer.
+[21:00:07	]Manhack used command '/AreaEdit'.
+[21:00:09	]Manhack has removed area "The Auld Reekie".
+[21:00:13	]Manhack used command '/AreaEdit'.
+[21:00:18	]Jinx has spawned a capda.
+[21:00:21	]Jinx ran 'take' on item 'Civil Administration PDA' (#1584006)
+[21:00:21	]Jinx has gained a 'Civil Administration PDA' #1584006.
+[21:00:23	]Jinx has given himself a pda.
+[21:00:23	]Jinx has gained a 'Combine PDA' #1584007.
+[21:00:25	]Jinx ran 'Equip' on item 'Civil Administration PDA' (#1584006)
+[21:00:29	]Jinx exited observer at their location.
+[21:00:34	]Jinx ran 'EquipUn' on item 'Civil Administration PDA' (#1584006)
+[21:00:35	]Jinx ran 'Equip' on item 'Combine PDA' (#1584007)
+[21:00:50	]Manhack has added area "The End-Road Bar".
+[21:00:53	]Manhack exited observer at their location.
+[21:01:00	]Manhack entered observer.
+[21:01:01	]Manhack exited observer at their location.
+[21:01:06	]Manhack has used a context menu option with the name: rb655_door_open
+[21:01:08	]Manhack entered observer.
+[21:01:09	]Manhack exited observer at their location.
+[21:01:12	]Manhack entered observer.
+[21:01:15	]Manhack has used a context menu option with the name: door_lockunlock
+[21:01:15	]Manhack exited observer at their location.
+[21:01:20	]Manhack has used a context menu option with the name: door_lockunlock
+[21:01:23	]Manhack entered observer.
+[21:01:25	]Manhack used command '/AreaEdit'.
+[21:01:56	]Manhack has added area "The Clinic".
+[21:01:59	]Manhack exited observer at their location.
+[21:02:01	]Jei (STEAM_0:1:108198228) deleted character 'C24/SCN-13'
+[21:02:04	]Jei (STEAM_0:1:108198228) deleted character 'Commander J.S. Legion'
+[21:02:06	]Manhack entered observer.
+[21:02:07	]Manhack used command '/AreaEdit'.
+[21:02:26	]Manhack exited observer at their location.
+[21:02:27	]Manhack entered observer.
+[21:02:35	]Manhack has spawned a 'Vehicle [320][prop_vehicle_jeep_old]'.
+[21:02:36	]Manhack exited observer at their location.
+[21:03:01	][OOC] Manhack: OK good
+[21:03:04	][OOC] Manhack: Vehicles can pass through the tunnel
+[21:03:07	][OOC] Manhack: And yes
+[21:03:14	][OOC] Manhack: It will have power, but it will be at generators.
+[21:03:14	]Manhack entered observer.
+[21:03:22	]Manhack exited observer at their location.
+[21:03:23	]Manhack entered observer.
+[21:03:24	]Manhack exited observer at their location.
+[21:03:24	]Manhack entered observer.
+[21:03:26	]Manhack exited observer at their location.
+[21:03:52	]Manhack entered observer.
+[21:03:53	]Manhack exited observer at their location.
+[21:04:14	][OOC] Manhack: This map is fully stormfox compatible.
+[21:04:17	][OOC] Manhack: excellent.
+[21:04:42	]Manhack entered observer.
+[21:04:45	]Manhack exited observer at their location.
+[21:04:46	]Manhack entered observer.
+[21:04:51	]Manhack exited observer at their location.
+[21:04:56	]Manhack entered observer.
+[21:06:10	][OOC] Manhack: Would be cool to scatter crates around the place.
+[21:06:13	][OOC] Manhack: hidden
+[21:06:31	]Manhack has used a context menu option with the name: remove
+[21:06:38	]Manhack has used a context menu option with the name: remove
+[21:06:40	]Manhack has fired a toolgun with the name: remover
+[21:06:40	]Manhack has fired a toolgun with the name: remover
+[21:06:58	]Manhack used command '/AreaEdit'.
+[21:07:03	]Jinx has gone afk.
+[21:07:13	]Jei created the character 'Lt. Adriana Dish'
+[21:07:13	]Jei loaded the character 'Lt. Adriana Dish'
+[21:07:13	]Lt. Adriana Dish is no longer afk. Total time spent AFK: 310
+[21:07:13	]Lt. Adriana Dish has gained a '#81294's Identity Card' #1584008.
+[21:07:13	]Lt. Adriana Dish has gained a 'Combine PDA' #1584009.
+[21:07:13	]Lt. Adriana Dish has gained a 'Black Shoes' #1584010.
+[21:07:13	]Lt. Adriana Dish has gained a 'CCA Black Suit Trousers' #1584011.
+[21:07:13	]Lt. Adriana Dish has gained a 'CCA Black Suit Jacket' #1584012.
+[21:07:19	]Lt. Adriana Dish entered observer.
+[21:07:33	]Manhack exited observer at their location.
+[21:07:42	]Lt. Adriana Dish exited observer at their location.
+[21:08:14	][IC] Lt. Adriana Dish: Sdfsdfsdfdsfdsgfdhg.
+[21:08:27	][OOC] Manhack: lmao
+[21:08:35	][IC] Lt. Adriana Dish: Too much fog.
+[21:08:46	]Manhack entered observer.
+[21:08:46	]Manhack exited observer at their location.
+[21:08:48	]Manhack entered observer.
+[21:08:49	]Manhack exited observer at their location.
+[21:08:52	]Lt. Adriana Dish entered observer.
+[21:09:05	]Lt. Adriana Dish exited observer at their location.
+[21:09:15	][OOC] Lt. Adriana Dish: I found the backrooms
+[21:09:23	]Lt. Adriana Dish entered observer.
+[21:09:34	]Lt. Adriana Dish exited observer at their location.
+[21:10:02	]Manhack used command '/PlaySong https://www.youtube.com/watch?v=J8Vzf6ZGtgU'.
+[21:10:05	]Manhack entered observer.
+[21:10:09	][OOC] Manhack: I SEE
+[21:10:10	]Manhack exited observer at their location.
+[21:10:13	]Manhack entered observer.
+[21:10:15	]Manhack exited observer at their location.
+[21:10:16	]Manhack entered observer.
+[21:10:16	]Manhack exited observer at their location.
+[21:10:17	]Manhack entered observer.
+[21:10:22	]Manhack exited observer at their location.
+[21:10:25	][OOC] Lt. Adriana Dish: FOUND THE JW
+[21:10:34	]Manhack entered observer.
+[21:10:35	]Manhack exited observer at their location.
+[21:10:41	]Manhack entered observer.
+[21:10:43	]Manhack exited observer at their location.
+[21:10:44	]Manhack has taken 7 damage from trigger_hurt.
+[21:10:44	]Manhack has taken 7 damage from trigger_hurt.
+[21:10:45	]Manhack entered observer.
+[21:10:54	]Manhack exited observer at their location.
+[21:11:02	]Manhack entered observer.
+[21:11:03	]Manhack exited observer at their location.
+[21:11:21	][OOC] Lt. Adriana Dish: If you want me too, I can go ahead and add more dispatch voicelines to the passive dispatch plugin
+[21:11:47	][OOC] Lt. Adriana Dish: Battery..?
+[21:11:54	]Manhack entered observer.
+[21:12:01	]Lt. Adriana Dish entered observer.
+[21:12:02	]Manhack exited observer at their location.
+[21:12:25	][OOC] Lt. Adriana Dish: VORT CAVE
+[21:12:26	][OOC] Lt. Adriana Dish: VORT CAVE
+[21:12:29	][OOC] Manhack: yes
+[21:12:32	]Manhack entered observer.
+[21:12:41	][OOC] Lt. Adriana Dish: I bet Denukes happy about that
+[21:12:44	]Lt. Adriana Dish exited observer at their location.
+[21:12:52	][OOC] Manhack: Damn I got some balling music
+[21:12:56	][OOC] Manhack: With that song
+[21:12:58	][OOC] Manhack: playsong*
+[21:13:10	]Lt. Adriana Dish entered observer.
+[21:13:20	][OOC] Manhack: idea
+[21:13:23	][OOC] Manhack: OH SHIT
+[21:13:32	][OOC] Manhack: IT TURNS IT TO SNOW VERY WELL TOO
+[21:13:40	][OOC] Manhack: COME
+[21:13:44	]Manhack exited observer at their location.
+[21:13:47	]Manhack entered observer.
+[21:14:11	]Manhack exited observer at their location.
+[21:14:11	]Manhack entered observer.
+[21:14:12	]Manhack exited observer at their location.
+[21:14:13	]Manhack entered observer.
+[21:14:19	]Manhack exited observer at their location.
+[21:14:21	]Manhack entered observer.
+[21:14:23	]Manhack exited observer at their location.
+[21:14:25	]Manhack entered observer.
+[21:14:32	]Manhack exited observer at their location.
+[21:14:33	]Manhack entered observer.
+[21:14:38	]Manhack has used a context menu option with the name: rb655_door_close
+[21:14:50	]Manhack exited observer at their location.
+[21:14:57	][OOC] Manhack: This is going to be so, /so/ fun.
+[21:15:03	]Manhack entered observer.
+[21:15:21	]Manhack used command '/AreaEdit'.
+[21:15:42	]Manhack exited observer at their location.
+[21:15:45	]Manhack entered observer.
+[21:15:45	]Lt. Adriana Dish exited observer at their location.
+[21:15:54	]Manhack used command '/AreaEdit'.
+[21:15:54	]Lt. Adriana Dish used command '/Staff'.
+[21:15:57	]Manhack used command '/Staff'.
+[21:15:57	]Lt. Adriana Dish used command '/PrintStaffList'.
+[21:15:59	]Lt. Adriana Dish entered observer.
+[21:16:06	]Lt. Adriana Dish used command '/Staff Im back to gm again'.
+[21:16:12	]Manhack ran SAM command 'menu' with arguments: ''
+[21:16:22	][OOC] Manhack: Did you disconnect???
+[21:16:31	][OOC] Lt. Adriana Dish: No, I just switched characters
+[21:16:33	]Manhack ran SAM command 'menu' with arguments: ''
+[21:16:36	]Manhack ran SAM command 'setrank' with arguments: '#2' 'community_manager' '720'
+[21:16:44	]Manhack used command '/AreaEdit'.
+[21:17:33	]Manhack has added area "Industrial Sector Two".
+[21:17:40	]Manhack has removed area "Industrial Sector Two".
+[21:18:00	]Manhack has added area "Industrial Funneling Zone".
+[21:18:04	]Manhack exited observer at their location.
+[21:18:09	]Manhack entered observer.
+[21:18:11	]Manhack used command '/AreaEdit'.
+[21:18:50	]Manhack has added area "Industrial Funnelling Zone - Street".
+[21:19:07	]Lt. Adriana Dish has given himself a capda.
+[21:19:07	]Lt. Adriana Dish has gained a 'Civil Administration PDA' #1584013.
+[21:19:08	]Lt. Adriana Dish ran 'Equip' on item 'Civil Administration PDA' (#1584013)
+[21:20:11	]Manhack has added area "Industrial Import Zone".
+[21:20:40	]Lt. Adriana Dish used command '/SetCombineDoor'.
+[21:20:52	]Lt. Adriana Dish used command '/SetCombineDoor'.
+[21:21:02	]Lt. Adriana Dish used command '/SetCombineDoor'.
+[21:21:17	]Manhack has added area "Nostalgia-Retro Cybercafe".
+[21:21:22	]Manhack exited observer at their location.
+[21:21:34	]Manhack entered observer.
+[21:21:38	]Manhack used command '/AreaEdit'.
+[21:22:19	]Manhack has added area "The Back (Remnant Checkpoint)".
+[21:22:25	]Manhack exited observer at their location.
+[21:22:37	]Manhack entered observer.
+[21:22:40	]Manhack exited observer at their location.
+[21:22:47	]Manhack entered observer.
+[21:22:49	]Manhack used command '/AreaEdit'.
+[21:22:58	][OOC] Manhack: Gonna not spam the areas.
+[21:23:04	][OOC] Manhack: Otherwise the playthrough is just
+[21:23:08	][OOC] Manhack: FILLED WITH THAT TEXT on your screen
+[21:23:10	]Manhack has removed area "PEN-STATION INDUSTRIAL BARRIER".
+[21:23:16	]Manhack has removed area "Industrial Funnelling Zone - Street".
+[21:23:54	][OOC] Lt. Adriana Dish: You can set it so it doesn't show
+[21:23:59	]Manhack has added area "The Ruins".
+[21:24:06	]Manhack exited observer at their location.
+[21:24:09	][OOC] Lt. Adriana Dish: In the area settings when you create one
+[21:24:12	][OOC] Manhack: yeah
+[21:24:13	]Manhack entered observer.
+[21:24:15	]Manhack used command '/AreaEdit'.
+[21:24:25	]Manhack has removed area "Chestnut Cafe".
+[21:24:34	]Manhack has removed area "The End-Road Bar".
+[21:24:40	][OOC] Lt. Adriana Dish: Combine tools need an area and so does admin tools otherwise it just says "Died at unknown location"
+[21:26:06	]Manhack has added area "The Barrier".
+[21:26:08	]Manhack exited observer at their location.
+[21:26:12	]Manhack entered observer.
+[21:26:18	]Manhack exited observer at their location.
+[21:26:32	]Manhack entered observer.
+[21:26:34	]Manhack exited observer at their location.
+[21:26:34	]Manhack entered observer.
+[21:26:35	]Manhack used command '/AreaEdit'.
+[21:27:29	]Manhack opened the 'Dumpster' #71542 container.
+[21:27:31	]Manhack closed the 'Dumpster' #71542 container.
+[21:27:44	]Manhack exited observer at their location.
+[21:27:47	]Manhack entered observer.
+[21:28:04	]Manhack exited observer at their location.
+[21:28:05	]Manhack entered observer.
+[21:28:06	]Manhack exited observer at their location.
+[21:28:08	]Manhack entered observer.
+[21:28:11	]Manhack used command '/AreaEdit'.
+[21:28:30	]Manhack exited observer at their location.
+[21:28:44	]Manhack entered observer.
+[21:28:44	]Manhack exited observer at their location.
+[21:28:46	]Manhack entered observer.
+[21:28:52	]Manhack used command '/AreaEdit'.
+[21:29:09	][OOC] Lt. Adriana Dish: Can you send me the link to this
+[21:29:17	][OOC] Manhack: the music?
+[21:29:24	][OOC] Lt. Adriana Dish: Yea
+[21:29:26	][OOC] Manhack: https://www.youtube.com/watch?v=J8Vzf6ZGtgU
+[21:29:36	][OOC] Manhack: I take it, for you, it really fits the atmosphere
+[21:29:43	][OOC] Manhack: And you're immersed.
+[21:29:45	]Manhack exited observer at their location.
+[21:29:46	][OOC] Lt. Adriana Dish: Im thinking about creating another SS Trailer.
+[21:29:47	]Manhack entered observer.
+[21:29:48	][OOC] Lt. Adriana Dish: Also yes
+[21:29:59	]Lt. Adriana Dish exited observer at their location.
+[21:30:06	][OOC] Manhack: I know why, the embeddment with the scientist talks in the background.
+[21:30:10	][OOC] Lt. Adriana Dish: I feel like I shouldn't be flying around when listening to it.
+[21:30:15	][OOC] Lt. Adriana Dish: Yea
+[21:30:23	][OOC] Manhack: And what sounds like a distress signal by the end.
+[21:30:25	][OOC] Manhack: Eery.
+[21:30:26	][OOC] Lt. Adriana Dish: One of the dudes wants to do a Black-Mesa event so it fits
+[21:30:36	][OOC] Manhack: I live to pleasurise, m8
+[21:31:00	][OOC] Manhack: In Quantum - Anno MMLXXIV
+[21:31:19	][OOC] Manhack: 17:00 minutes in
+[21:31:43	]Manhack used command '/AreaEdit'.
+[21:32:31	]Manhack has added area "CLC Checkpoint".
+[21:32:38	]Manhack has removed area "CLC Checkpoint".
+[21:32:57	]Manhack has added area "CLC Checkpoint".
+[21:33:09	][OOC] Manhack: We're going in the right direction.
+[21:33:18	]Lt. Adriana Dish entered observer.
+[21:33:20	][OOC] Manhack: Not doing so will be community suicide.
+[21:33:27	][OOC] Lt. Adriana Dish: I feel like we are.
+[21:33:34	][OOC] Lt. Adriana Dish: This music has convinced me
+[21:34:10	][OOC] Manhack: I have an idea.
+[21:34:17	][OOC] Manhack: The Overwatch Trauma Team being part of the CLC forces here.
+[21:34:20	][OOC] Manhack: Those models...
+[21:34:33	][OOC] Manhack: The yellow eyes staring death in your face.
+[21:34:54	]Manhack used command '/AreaEdit'.
+[21:35:09	][OOC] Lt. Adriana Dish: Oh yea, I should mention
+[21:35:16	][OOC] Lt. Adriana Dish: Actually, join a VC if you can
+[21:35:28	][OOC] Lt. Adriana Dish: Your room or somethin
+[21:36:36	]Manhack used command '/AreaEdit'.
+[21:37:42	]Manhack has added area "Formally District Seven...".
+[21:37:50	]Manhack exited observer at their location.
+[21:37:55	]Manhack entered observer.
+[21:38:07	]Manhack exited observer at their location.
+[21:38:08	]Manhack entered observer.
+[21:38:14	]Manhack used command '/AreaEdit'.
+[21:38:22	]Manhack exited observer at their location.
+[21:38:22	]Manhack entered observer.
+[21:38:23	]Manhack exited observer at their location.
+[21:38:24	]Manhack entered observer.
+[21:38:25	]Manhack exited observer at their location.
+[21:38:25	]Manhack entered observer.
+[21:38:26	]Manhack exited observer at their location.
+[21:38:26	]Manhack entered observer.
+[21:38:27	]Manhack exited observer at their location.
+[21:38:27	]Manhack entered observer.
+[21:38:28	]Manhack exited observer at their location.
+[21:38:29	]Manhack entered observer.
+[21:38:29	]Manhack exited observer at their location.
+[21:38:33	]Manhack entered observer.
+[21:38:35	]Manhack exited observer at their location.
+[21:38:36	]Manhack entered observer.
+[21:38:37	]Manhack exited observer at their location.
+[21:38:38	]Manhack entered observer.
+[21:38:40	]Manhack exited observer at their location.
+[21:38:41	]Manhack entered observer.
+[21:38:42	]Manhack exited observer at their location.
+[21:38:47	]Manhack entered observer.
+[21:39:14	]Manhack used command '/AreaEdit'.
+[21:39:30	]Manhack has removed area "Formally District Seven...".
+[21:40:05	]Manhack has added area "The Dead End".
+[21:40:11	]Lt. Adriana Dish used command '/AreaEdit'.
+[21:40:42	]Manhack has added area "Formally District Seven".
+[21:40:48	]Manhack exited observer at their location.
+[21:40:51	]Manhack entered observer.
+[21:41:02	]Lt. Adriana Dish exited observer at their location.
+[21:41:07	]Manhack used command '/AreaEdit'.
+[21:41:07	]Lt. Adriana Dish entered observer.
+[21:41:19	]Manhack exited observer at their location.
+[21:41:34	]Manhack entered observer.
+[21:41:40	]Manhack exited observer at their location.
+[21:41:41	]Manhack entered observer.
+[21:41:41	]Manhack exited observer at their location.
+[21:41:43	]Manhack entered observer.
+[21:41:44	]Manhack exited observer at their location.
+[21:41:46	]Manhack entered observer.
+[21:42:04	]Manhack used command '/AreaEdit'.
+[21:42:31	]Manhack has added area "The Warehouse".
+[21:42:35	]Manhack used command '/AreaEdit'.
+[21:43:23	]Manhack used command '/AreaEdit'.
+[21:43:47	]Manhack exited observer at their location.
+[21:43:48	]Manhack entered observer.
+[21:44:00	]Manhack exited observer at their location.
+[21:44:02	]Manhack entered observer.
+[21:44:06	]Manhack exited observer at their location.
+[21:44:07	]Manhack entered observer.
+[21:44:10	]Manhack exited observer at their location.
+[21:44:13	]Manhack entered observer.
+[21:45:33	]Manhack used command '/AreaEdit'.
+[21:46:50	]Manhack has added area "DX-509".
+[21:46:57	]Manhack exited observer at their location.
+[21:47:15	]Manhack entered observer.
+[21:47:17	]Manhack used command '/AreaEdit'.
+[21:48:25	]Manhack has added area "The Big Empty".
+[21:48:32	]Manhack exited observer at their location.
+[21:48:47	]Manhack entered observer.
+[21:49:17	]Manhack exited observer at their location.
+[21:49:17	]Manhack entered observer.
+[21:49:29	]Manhack exited observer at their location.
+[21:49:38	]Manhack entered observer.
+[21:49:47	]Lt. Adriana Dish exited observer at their location.
+[21:49:48	]Lt. Adriana Dish entered observer.
+[21:49:51	]Lt. Adriana Dish used command '/AreaEdit'.
+[21:49:54	]Manhack used command '/AreaEdit'.
+[21:49:59	]Lt. Adriana Dish exited observer at their location.
+[21:50:11	]Lt. Adriana Dish entered observer.
+[21:50:13	]Manhack has added area "The Lookout".
+[21:50:19	]Manhack exited observer at their location.
+[21:50:23	]Manhack entered observer.
+[21:50:25	]Manhack used command '/AreaEdit'.
+[21:50:57	]Manhack exited observer at their location.
+[21:50:59	]Manhack entered observer.
+[21:51:00	]ZeroPants has connected.
+[21:51:01	]Manhack exited observer at their location.
+[21:51:01	]Manhack used the 'S10:\\CMD-VEND-504' vendor.
+[21:51:02	]Manhack used the 'S10:\\CMD-VEND-504' vendor.
+[21:51:05	]Manhack ran SAM command 'menu' with arguments: ''
+[21:51:08	]Manhack ran SAM command 'setrank' with arguments: '#2' 'community_manager' '720'
+[21:51:13	]Manhack ran SAM command 'setrank' with arguments: '#3' 'community_manager' '720'
+[21:51:15	]Manhack entered observer.
+[21:51:30	]Lt. Adriana Dish exited observer at their location.
+[21:51:41	]Manhack used command '/AreaEdit'.
+[21:51:50	]Lt. Adriana Dish entered observer.
+[21:52:02	]ZeroPants loaded the character 'Ilya Zima'
+[21:52:07	]Ilya Zima is fully healed.
+[21:52:17	]Lt. Adriana Dish exited observer at their location.
+[21:52:17	]Ilya Zima used command '/ToggleGM'.
+[21:52:17	]Ilya Zima entered observer.
+[21:52:18	]Ilya Zima exited observer at their location.
+[21:52:20	][IC] Ilya Zima: Hi.
+[21:52:22	][IC] Lt. Adriana Dish: Hi.
+[21:52:24	][IC] Ilya Zima: Hi.
+[21:52:27	][IC] Lt. Adriana Dish: Hi.
+[21:52:28	][IC] Ilya Zima: Gi.
+[21:52:29	][IC] Lt. Adriana Dish: Combine!
+[21:52:31	][IC] Ilya Zima: Hi.
+[21:52:31	][IC] Ilya Zima: Hi.
+[21:52:32	][IC] Lt. Adriana Dish: Combine!
+[21:52:32	][IC] Ilya Zima: Hi.
+[21:52:33	][IC] Lt. Adriana Dish: Combine!
+[21:52:33	][IC] Lt. Adriana Dish: Combine!
+[21:52:33	][IC] Ilya Zima: Hi.
+[21:52:34	][IC] Ilya Zima: Hi.
+[21:52:34	][IC] Lt. Adriana Dish: Combine!
+[21:52:35	][IC] Ilya Zima: Ih.
+[21:52:35	][IC] Lt. Adriana Dish: Combine!
+[21:52:36	][IC] Lt. Adriana Dish: Combine!
+[21:52:37	][IC] Lt. Adriana Dish: Combine!
+[21:52:37	][IC] Lt. Adriana Dish: Combine!
+[21:52:39	][IC] Lt. Adriana Dish: Combine!
+[21:52:40	][IC] Lt. Adriana Dish: Combine!
+[21:52:41	][IC] Ilya Zima: Hi.
+[21:52:41	][IC] Ilya Zima: Hi.
+[21:52:43	][IC] Ilya Zima: Hi.
+[21:52:43	][IC] Lt. Adriana Dish: Combine!
+[21:52:50	][IC] Ilya Zima: When this is all over, I'm gonna mate.
+[21:52:50	][IC] Ilya Zima: When this is all over, I'm gonna mate.
+[21:52:51	][IC] Ilya Zima: When this is all over, I'm gonna mate.
+[21:52:52	][IC] Ilya Zima: When this is all over, I'm gonna mate.
+[21:52:52	][IC] Ilya Zima: When this is all over, I'm gonna mate.
+[21:52:53	][IC] Ilya Zima: When this is all over, I'm gonna mate.
+[21:52:55	][IC] Ilya Zima: When this is all over, I'm gonna mate.
+[21:53:06	]Lt. Adriana Dish used command '/Dispatch WORSE NOT BETTER'.
+[21:53:08	]Ilya Zima entered observer.
+[21:53:08	]Lt. Adriana Dish used command '/Dispatch WORSE NOT BETTER'.
+[21:53:11	]Ilya Zima exited observer at their location.
+[21:53:51	]Manhack has added area "The NEXUS".
+[21:54:05	]Lt. Adriana Dish entered observer.
+[21:54:09	]Ilya Zima entered observer.
+[21:54:10	]Manhack exited observer at their location.
+[21:54:13	]Lt. Adriana Dish exited observer at their location.
+[21:54:14	]Manhack entered observer.
+[21:54:15	]Manhack used command '/AreaEdit'.
+[21:54:16	]Ilya Zima exited observer at their location.
+[21:54:25	][OOC] Manhack: Hello zero
+[21:54:28	][OOC] Manhack: Come into VC
+[21:54:29	][OOC] Ilya Zima: hello!
+[21:55:10	]Manhack used command '/AreaEdit'.
+[21:55:15	][OOC] Ilya Zima: im in rads headquarters vc
+[21:56:01	]Ilya Zima entered observer.
+[21:56:05	]Lt. Adriana Dish entered observer.
+[21:56:21	]Manhack used command '/AreaEdit'.
+[21:56:46	][OOC] Manhack: All areas done.
+[21:56:47	]Manhack used command '/AreaEdit'.
+[21:57:04	]Manhack exited observer at their location.
+[21:57:07	]Manhack used command '/AreaEdit'.
+[21:57:07	]Manhack entered observer.
+[21:59:44	]Ilya Zima exited observer at their location.
+[21:59:46	]Ilya Zima entered observer.
+[22:00:20	]Manhack exited observer at their location.
+[22:00:21	]Manhack entered observer.
+[22:00:37	]Manhack used command '/AreaEdit'.
+[22:00:57	]Manhack exited observer at their location.
+[22:00:58	]Manhack entered observer.
+[22:00:59	]Manhack exited observer at their location.
+[22:01:02	]Manhack entered observer.
+[22:01:03	]Manhack exited observer at their location.
+[22:01:06	]Manhack entered observer.
+[22:01:07	]Ilya Zima exited observer at their location.
+[22:01:08	]Manhack used command '/AreaEdit'.
+[22:02:03	]Ilya Zima entered observer.
+[22:02:14	]Manhack has added area "The Accident".
+[22:02:29	]Manhack exited observer at their location.
+[22:02:30	]Manhack entered observer.
+[22:02:31	]Manhack exited observer at their location.
+[22:02:36	]Manhack entered observer.
+[22:02:37	]Ilya Zima exited observer at their location.
+[22:02:49	]Ilya Zima entered observer.
+[22:02:53	]Ilya Zima exited observer at their location.
+[22:02:54	]Ilya Zima entered observer.
+[22:02:54	]Ilya Zima exited observer at their location.
+[22:02:55	]Ilya Zima entered observer.
+[22:02:55	]Ilya Zima exited observer at their location.
+[22:03:03	]Ilya Zima entered observer.
+[22:03:04	]Ilya Zima exited observer at their location.
+[22:03:05	]Ilya Zima entered observer.
+[22:03:05	]Ilya Zima exited observer at their location.
+[22:03:06	]Ilya Zima entered observer.
+[22:03:06	]Ilya Zima exited observer at their location.
+[22:03:07	]Manhack exited observer at their location.
+[22:03:15	]Manhack entered observer.
+[22:03:16	]Manhack exited observer at their location.
+[22:03:17	]Manhack entered observer.
+[22:03:23	]Manhack used command '/AreaEdit'.
+[22:04:26	]Manhack has added area "The Abyss".
+[22:04:29	]Manhack used command '/AreaEdit'.
+[22:04:35	]Manhack exited observer at their location.
+[22:04:38	]Manhack entered observer.
+[22:04:43	]Manhack used command '/AreaEdit'.
+[22:05:13	]Ilya Zima entered observer.
+[22:05:34	]Manhack used command '/AreaEdit'.
+[22:05:55	]Manhack used command '/AreaEdit'.
+[22:06:56	]Manhack has added area "Formally District Eight".
+[22:07:11	]Manhack exited observer at their location.
+[22:07:20	]Manhack entered observer.
+[22:07:22	]Manhack used command '/AreaEdit'.
+[22:07:53	]Ilya Zima exited observer at their location.
+[22:08:14	]Ilya Zima entered observer.
+[22:08:18	]Ilya Zima exited observer at their location.
+[22:08:19	]Manhack exited observer at their location.
+[22:08:21	]Manhack entered observer.
+[22:08:26	]Ilya Zima entered observer.
+[22:08:27	]Manhack is fully healed.
+[22:08:29	]Ilya Zima exited observer at their location.
+[22:08:31	]Manhack exited observer at their location.
+[22:08:37	]Imperator RAD-X loaded the character 'Drakk'
+[22:08:44	]Drakk entered observer.
+[22:08:45	]Ilya Zima entered observer.
+[22:08:48	]Drakk exited observer at their location.
+[22:08:49	]Drakk entered observer.
+[22:08:54	]Drakk exited observer at their location.
+[22:08:54	]Drakk entered observer.
+[22:09:03	]Drakk exited observer at their location.
+[22:09:04	]Drakk entered observer.
+[22:09:08	]Drakk exited observer at their location.
+[22:09:10	]Ilya Zima exited observer at their location.
+[22:09:10	]Ilya Zima entered observer.
+[22:09:10	]Drakk entered observer.
+[22:09:10	]Ilya Zima exited observer at their location.
+[22:09:12	]Ilya Zima entered observer.
+[22:09:20	]Drakk exited observer at their location.
+[22:09:21	]Drakk entered observer.
+[22:09:22	]Drakk exited observer at their location.
+[22:09:23	]Drakk entered observer.
+[22:09:23	]Drakk exited observer at their location.
+[22:09:24	]Drakk entered observer.
+[22:09:25	]Ilya Zima has fired a toolgun with the name: smoke
+[22:09:29	]Drakk exited observer at their location.
+[22:09:30	]Drakk entered observer.
+[22:09:31	]Drakk exited observer at their location.
+[22:09:31	]Ilya Zima has fired a toolgun with the name: smoke
+[22:09:32	]Drakk entered observer.
+[22:09:32	]Ilya Zima exited observer at their location.
+[22:09:32	]Drakk exited observer at their location.
+[22:09:33	]Drakk entered observer.
+[22:09:33	]Drakk exited observer at their location.
+[22:09:34	]Drakk entered observer.
+[22:09:35	]Drakk exited observer at their location.
+[22:09:37	]Drakk entered observer.
+[22:09:37	]Drakk exited observer at their location.
+[22:09:38	]Ilya Zima has fired a toolgun with the name: smoke
+[22:09:39	]Drakk entered observer.
+[22:09:41	]Drakk exited observer at their location.
+[22:09:42	]Drakk entered observer.
+[22:09:42	]Ilya Zima has fired a toolgun with the name: smoke
+[22:09:43	]Drakk exited observer at their location.
+[22:09:45	]Drakk entered observer.
+[22:09:47	]Drakk used command '/AreaEdit'.
+[22:09:47	]Ilya Zima has fired a toolgun with the name: smoke
+[22:09:53	]Ilya Zima has fired a toolgun with the name: smoke
+[22:09:56	]Ilya Zima has fired a toolgun with the name: smoke
+[22:10:05	]Ilya Zima has fired a toolgun with the name: smoke
+[22:10:05	]Drakk used command '/AreaEdit'.
+[22:10:10	]Ilya Zima has fired a toolgun with the name: smoke
+[22:10:15	]Ilya Zima has fired a toolgun with the name: smoke
+[22:10:21	]Ilya Zima entered observer.
+[22:10:25	]Ilya Zima has fired a toolgun with the name: smoke
+[22:10:25	]Ilya Zima has fired a toolgun with the name: smoke
+[22:10:26	]Ilya Zima has fired a toolgun with the name: smoke
+[22:10:26	]Ilya Zima has fired a toolgun with the name: smoke
+[22:10:27	]Ilya Zima has fired a toolgun with the name: smoke
+[22:10:27	]Ilya Zima has fired a toolgun with the name: smoke
+[22:10:27	]Ilya Zima has fired a toolgun with the name: smoke
+[22:10:27	]Ilya Zima has fired a toolgun with the name: smoke
+[22:10:36	]Ilya Zima exited observer at their location.
+[22:10:39	]Ilya Zima entered observer.
+[22:14:08	]Ilya Zima exited observer at their location.
+[22:14:08	]Ilya Zima entered observer.
+[22:14:10	]Ilya Zima exited observer at their location.
+[22:14:10	]Ilya Zima entered observer.
+[22:15:37	]Drakk has gone afk.
+[22:17:42	]Ilya Zima exited observer at their location.
+[22:17:43	]Ilya Zima entered observer.
+[22:17:47	]Drakk is no longer afk. Total time spent AFK: 425
+[22:20:55	][OOC] Ilya Zima: https://steamcommunity.com/sharedfiles/filedetails/?id=1834065076&searchtext=beta+bus
+[22:21:02	][OOC] Ilya Zima: we need it
+[22:24:47	]Drakk has gone afk.
+[22:24:50	]Ilya Zima exited observer at their location.
+[22:24:52	]Ilya Zima entered observer.
+[22:24:52	]Drakk is no longer afk. Total time spent AFK: 300
+[22:24:52	]Ilya Zima exited observer at their location.
+[22:24:55	]Ilya Zima entered observer.
+[22:26:55	]Ilya Zima exited observer at their location.
+[22:26:55	]Ilya Zima entered observer.
+[22:26:55	]Ilya Zima exited observer at their location.
+[22:26:57	]Ilya Zima entered observer.
+[22:27:16	]Ilya Zima exited observer at their location.
+[22:27:17	]Ilya Zima entered observer.
+[22:27:34	]Ilya Zima exited observer at their location.
+[22:27:37	]Ilya Zima entered observer.
+[22:27:47	]Ilya Zima exited observer at their location.
+[22:27:47	]Ilya Zima entered observer.
+[22:28:38	]Ilya Zima exited observer at their location.
+[22:28:58	]Drakk has spawned 'models/props_combine/railing_512.mdl'.
+[22:29:06	]ZeroPants (STEAM_0:1:94990857) has disconnected.
+[22:29:13	]Drakk has enabled persistence for 'models/props_combine/railing_512.mdl'.
+[22:29:13	]Drakk has used a context menu option with the name: persist
+[22:29:18	]Drakk has spawned 'models/props_combine/railing_256.mdl'.
+[22:29:20	]Drakk has spawned 'models/props_combine/railing_512.mdl'.
+[22:29:43	]Drakk has spawned 'models/props_combine/railing_256.mdl'.
+[22:29:47	]Drakk has spawned 'models/props_combine/railing_256.mdl'.
+[22:30:00	]Drakk exited observer at their location.
+[22:30:01	]Drakk entered observer.
+[22:30:18	]Drakk has enabled persistence for 'models/props_combine/railing_256.mdl'.
+[22:30:18	]Drakk has used a context menu option with the name: persist
+[22:30:25	]Drakk exited observer at their location.
+[22:30:25	]Drakk entered observer.
+[22:30:42	]Drakk has spawned 'models/props_combine/cell_array_01.mdl'.
+[22:30:51	]Drakk has spawned 'models/props_combine/combineinnerwallcluster1024_002a.mdl'.
+[22:30:53	]Drakk has spawned 'models/props_combine/combineinnerwallcluster1024_001a.mdl'.
+[22:30:57	]Drakk has fired a toolgun with the name: nocollideworld
+[22:31:08	]Drakk has spawned 'models/props_combine/combineinnerwallcluster1024_003a.mdl'.
+[22:31:12	]Drakk has spawned 'models/props_combine/combineinnerwallcluster1024_003a.mdl'.
+[22:31:28	]Drakk has spawned 'models/props_combine/combineinnerwallcluster1024_002a.mdl'.
+[22:31:35	]Drakk exited observer at their location.
+[22:31:47	]Drakk entered observer.
+[22:31:51	]Drakk has fired a toolgun with the name: nocollideworld
+[22:32:20	]Drakk has enabled persistence for 'models/props_combine/combineinnerwallcluster1024_002a.mdl'.
+[22:32:20	]Drakk has used a context menu option with the name: persist
+[22:32:31	]Drakk has spawned 'models/props_combine/combineinnerwallcluster1024_003a.mdl'.
+[22:32:36	]Drakk has fired a toolgun with the name: nocollideworld
+[22:33:15	]Lt. Adriana Dish exited observer at their location.
+[22:33:15	]Lt. Adriana Dish entered observer.
+[22:33:45	]Drakk has spawned 'models/props_combine/combineinnerwallcluster1024_003a.mdl'.
+[22:33:48	]Drakk has fired a toolgun with the name: nocollideworld
+[22:34:06	]Drakk has spawned 'models/props_combine/combineinnerwallcluster1024_002a.mdl'.
+[22:34:10	]Drakk has fired a toolgun with the name: nocollideworld
+[22:34:16	]Atle has connected.
+[22:34:32	]Drakk has enabled persistence for 'models/props_combine/combineinnerwallcluster1024_003a.mdl'.
+[22:34:32	]Drakk has used a context menu option with the name: persist
+[22:34:42	]Drakk has enabled persistence for 'models/props_combine/combineinnerwallcluster1024_002a.mdl'.
+[22:34:42	]Drakk has used a context menu option with the name: persist
+[22:34:47	]Atle loaded the character 'Valenti Lombardo'
+[22:34:52	]Valenti Lombardo is fully healed.
+[22:34:54	]Valenti Lombardo entered observer.
+[22:34:58	]Drakk used command '/PlaySong https://www.youtube.com/watch?v=J8Vzf6ZGtgU'.
+[22:35:23	]Valenti Lombardo used command '/clothingcreator'.
+[22:35:27	]Drakk has spawned 'models/props_trainstation/train003.mdl'.
+[22:35:30	]Drakk has fired a toolgun with the name: nocollideworld
+[22:36:25	]Drakk has enabled persistence for 'models/props_trainstation/train003.mdl'.
+[22:36:25	]Drakk has used a context menu option with the name: persist
+[22:36:31	]Drakk exited observer at their location.
+[22:36:33	]Drakk entered observer.
+[22:36:44	][OOC] Drakk: Welcome, Atle.
+[22:37:02	]Drakk has spawned 'models/props_vehicles/truck001a.mdl'.
+[22:37:40	]Drakk has enabled persistence for 'models/props_vehicles/truck001a.mdl'.
+[22:37:40	]Drakk has used a context menu option with the name: persist
+[22:37:45	]Drakk has spawned 'models/props_vehicles/trailer001a.mdl'.
+[22:37:48	]Drakk has spawned 'models/props_vehicles/trailer001a.mdl'.
+[22:37:55	]Drakk has enabled persistence for 'models/props_vehicles/trailer001a.mdl'.
+[22:37:55	]Drakk has used a context menu option with the name: persist
+[22:38:12	][OOC] Valenti Lombardo: ima working on some clothing treolool
+[22:38:18	]Drakk has spawned a 'Entity [329][ix_forcefield]'.
+[22:38:20	]Drakk has spawned a 'Entity [339][ix_forcefield]'.
+[22:38:23	][OOC] Lt. Adriana Dish: :D
+[22:38:23	]Drakk exited observer at their location.
+[22:38:34	]Imperator RAD-X loaded the character 'Manhack'
+[22:38:45	][OOC] Manhack: I'm making sure the map looks lovely (;
+[22:38:45	]Manhack entered observer.
+[22:38:47	]Manhack exited observer at their location.
+[22:38:48	]Manhack entered observer.
+[22:38:49	]Manhack exited observer at their location.
+[22:38:49	]Manhack entered observer.
+[22:38:50	]Manhack exited observer at their location.
+[22:38:52	]Manhack entered observer.
+[22:38:53	]Manhack exited observer at their location.
+[22:39:01	]Manhack entered observer.
+[22:39:27	][OOC] Manhack: What you're listening to will be part of the music update.
+[22:39:36	][OOC] Manhack: I will extract some songs and replace current ones.
+[22:40:07	]Manhack has spawned 'models/props_combine/combine_barricade_med04b.mdl'.
+[22:40:13	]Manhack has spawned 'models/props_combine/combinecrane002.mdl'.
+[22:40:19	]Valenti Lombardo used command '/clothingcreator'.
+[22:40:55	]Manhack has spawned 'models/props_combine/combineinnerwall001a.mdl'.
+[22:40:58	]Manhack has fired a toolgun with the name: nocollideworld
+[22:41:16	]Manhack exited observer at their location.
+[22:41:20	]Manhack entered observer.
+[22:41:30	]Manhack has enabled persistence for 'models/props_combine/combineinnerwall001a.mdl'.
+[22:41:30	]Manhack has used a context menu option with the name: persist
+[22:41:33	]Manhack exited observer at their location.
+[22:41:37	]Manhack entered observer.
+[22:41:48	]Manhack has spawned 'models/props_debris/concrete_debris256pile001a.mdl'.
+[22:41:51	]Manhack has fired a toolgun with the name: nocollideworld
+[22:41:51	]Manhack has fired a toolgun with the name: nocollideworld
+[22:42:19	]Manhack has spawned 'models/props_debris/concrete_debris256pile001a.mdl'.
+[22:42:24	]Manhack has fired a toolgun with the name: nocollideworld
+[22:42:44	]Manhack has enabled persistence for 'models/props_debris/concrete_debris256pile001a.mdl'.
+[22:42:44	]Manhack has used a context menu option with the name: persist
+[22:42:45	]Manhack exited observer at their location.
+[22:42:47	]Manhack has enabled persistence for 'models/props_debris/concrete_debris256pile001a.mdl'.
+[22:42:47	]Manhack has used a context menu option with the name: persist
+[22:42:50	]Manhack entered observer.
+[22:42:51	]Manhack exited observer at their location.
+[22:42:53	]Manhack entered observer.
+[22:42:54	]Manhack exited observer at their location.
+[22:42:59	]Manhack entered observer.
+[22:43:04	]Manhack has spawned 'models/props_debris/concrete_debris128pile001b.mdl'.
+[22:43:06	]Manhack has spawned 'models/props_debris/concrete_debris256barricade001a.mdl'.
+[22:43:09	]Manhack has fired a toolgun with the name: nocollideworld
+[22:43:20	]Manhack exited observer at their location.
+[22:43:23	]Manhack has enabled persistence for 'models/props_debris/concrete_debris256barricade001a.mdl'.
+[22:43:23	]Manhack has used a context menu option with the name: persist
+[22:43:33	]Manhack entered observer.
+[22:43:52	]Manhack has spawned 'models/props_combine/combinecrane002.mdl'.
+[22:44:06	]Manhack has fired a toolgun with the name: nocollideworld
+[22:44:24	]Manhack has fired a toolgun with the name: ladder
+[22:44:24	]Manhack has fired a toolgun with the name: ladder
+[22:44:25	]Manhack exited observer at their location.
+[22:44:27	]Manhack has used a context menu option with the name: ladder_persist
+[22:44:32	]Manhack entered observer.
+[22:44:51	]Manhack exited observer at their location.
+[22:44:57	]Manhack entered observer.
+[22:45:00	]Manhack has fired a toolgun with the name: ladder
+[22:45:00	]Manhack has fired a toolgun with the name: ladder
+[22:45:01	]Manhack exited observer at their location.
+[22:45:03	]Manhack has used a context menu option with the name: ladder_persist
+[22:45:07	]Manhack entered observer.
+[22:45:11	]Manhack exited observer at their location.
+[22:45:13	]Manhack entered observer.
+[22:45:17	]Valenti Lombardo has gone afk.
+[22:45:21	]Manhack has spawned 'models/props_combine/combine_bridge.mdl'.
+[22:45:33	]Manhack has fired a toolgun with the name: nocollideworld
+[22:46:08	]Manhack has spawned 'models/props_combine/combine_bridge.mdl'.
+[22:46:15	]Manhack has fired a toolgun with the name: nocollideworld
+[22:47:24	]Manhack has spawned 'models/props_combine/combine_bridge_b.mdl'.
+[22:47:36	]Manhack has fired a toolgun with the name: nocollideworld
+[22:47:57	]Manhack has enabled persistence for 'models/props_combine/combine_bridge_b.mdl'.
+[22:47:57	]Manhack has used a context menu option with the name: persist
+[22:47:58	]Manhack has enabled persistence for 'models/props_combine/combine_bridge.mdl'.
+[22:47:58	]Manhack has used a context menu option with the name: persist
+[22:48:00	]Manhack has enabled persistence for 'models/props_combine/combine_bridge.mdl'.
+[22:48:00	]Manhack has used a context menu option with the name: persist
+[22:48:02	]Manhack exited observer at their location.
+[22:48:04	]Manhack entered observer.
+[22:48:04	]Manhack exited observer at their location.
+[22:48:12	]Manhack entered observer.
+[22:48:13	]Manhack exited observer at their location.
+[22:48:17	]Manhack entered observer.
+[22:48:24	]Manhack exited observer at their location.
+[22:48:37	]Manhack entered observer.
+[22:48:42	]Manhack exited observer at their location.
+[22:48:47	]Manhack entered observer.
+[22:48:47	]Manhack exited observer at their location.
+[22:48:49	]Manhack entered observer.
+[22:48:50	]Manhack exited observer at their location.
+[22:48:51	]Manhack entered observer.
+[22:48:52	]Manhack exited observer at their location.
+[22:48:53	]Manhack has taken 6 damage from worldspawn.
+[22:48:58	]Manhack entered observer.
+[22:48:59	]Manhack exited observer at their location.
+[22:49:01	]Manhack entered observer.
+[22:49:01	]Manhack exited observer at their location.
+[22:49:03	]Manhack entered observer.
+[22:49:07	]Manhack exited observer at their location.
+[22:49:07	]Manhack entered observer.
+[22:49:08	]Manhack exited observer at their location.
+[22:49:10	]Manhack entered observer.
+[22:49:13	]Manhack has used a context menu option with the name: remove
+[22:49:19	]Manhack has fired a toolgun with the name: ladder
+[22:49:20	]Manhack has fired a toolgun with the name: ladder
+[22:49:21	]Manhack exited observer at their location.
+[22:49:25	]Manhack entered observer.
+[22:49:27	]Manhack has enabled persistence for 'models/props_combine/combinecrane002.mdl'.
+[22:49:27	]Manhack has used a context menu option with the name: persist
+[22:49:30	]Manhack has fired a toolgun with the name: nocollideworld
+[22:49:32	]Manhack exited observer at their location.
+[22:49:40	]Manhack entered observer.
+[22:49:42	]Manhack exited observer at their location.
+[22:49:43	]Manhack entered observer.
+[22:49:45	]Manhack exited observer at their location.
+[22:49:46	]Manhack entered observer.
+[22:49:47	]Manhack exited observer at their location.
+[22:49:53	]Manhack entered observer.
+[22:49:59	]Manhack has used a context menu option with the name: ladder_persist
+[22:49:59	]Manhack exited observer at their location.
+[22:50:03	]Manhack entered observer.
+[22:50:04	]Manhack exited observer at their location.
+[22:50:10	]Manhack entered observer.
+[22:50:13	]Manhack has disabled persistence for 'models/props_combine/combinecrane002.mdl'.
+[22:50:13	]Manhack has used a context menu option with the name: persist_end
+[22:50:19	]Manhack has fired a toolgun with the name: remover
+[22:50:20	]Manhack has fired a toolgun with the name: remover
+[22:50:22	]Manhack has fired a toolgun with the name: remover
+[22:50:31	]Manhack exited observer at their location.
+[22:50:31	]Manhack entered observer.
+[22:50:32	]Manhack exited observer at their location.
+[22:50:33	]Manhack entered observer.
+[22:50:36	]Manhack has fired a toolgun with the name: ladder
+[22:50:36	]Manhack has fired a toolgun with the name: ladder
+[22:50:37	]Manhack exited observer at their location.
+[22:50:39	]Manhack has used a context menu option with the name: ladder_persist
+[22:50:44	]Manhack entered observer.
+[22:50:45	]Manhack exited observer at their location.
+[22:50:46	]Manhack entered observer.
+[22:50:47	]Manhack exited observer at their location.
+[22:50:55	]Manhack entered observer.
+[22:51:16	]Manhack has spawned 'models/props_combine/combine_booth_short01a.mdl'.
+[22:51:18	]Manhack has fired a toolgun with the name: nocollideworld
+[22:51:24	]Manhack exited observer at their location.
+[22:51:27	]Manhack entered observer.
+[22:51:43	]ryebredd has connected.
+[22:51:52	]Manhack exited observer at their location.
+[22:51:59	]Manhack entered observer.
+[22:52:00	]Manhack exited observer at their location.
+[22:52:01	]Manhack entered observer.
+[22:52:05	]Manhack has enabled persistence for 'models/props_combine/combine_booth_short01a.mdl'.
+[22:52:05	]Manhack has used a context menu option with the name: persist
+[22:52:24	]Manhack has spawned a 'NPC [359][npc_combine_camera]'.
+[22:52:28	]Manhack has spawned a 'NPC [359][npc_combine_camera]'.
+[22:52:32	]Manhack has spawned a 'NPC [367][npc_combine_camera]'.
+[22:52:41	]Manhack has used a context menu option with the name: persist
+[22:52:42	]Manhack has used a context menu option with the name: persist
+[22:52:43	]Manhack exited observer at their location.
+[22:52:46	]Manhack entered observer.
+[22:52:55	]Manhack has spawned 'models/props_combine/combinecamera001.mdl'.
+[22:53:02	]ryebredd loaded the character 'Frank Mazzarelli'
+[22:53:02	]Frank Mazzarelli their 'victory sq public stash' stash no longer exists, location reset.
+[22:53:02	]Manhack has spawned 'models/props_combine/combinebuttress.mdl'.
+[22:53:12	]Frank Mazzarelli used command '/ToggleGM'.
+[22:53:14	]Manhack has fired a toolgun with the name: nocollideworld
+[22:53:15	]Frank Mazzarelli entered observer.
+[22:53:52	][OOC] Frank Mazzarelli: hello gamers
+[22:53:56	][OOC] Manhack: WHALECUM
+[22:54:04	]Manhack exited observer at their location.
+[22:54:05	]Manhack entered observer.
+[22:54:25	]Frank Mazzarelli exited observer at their location.
+[22:54:26	]Manhack has used a context menu option with the name: remove
+[22:54:27	]Frank Mazzarelli entered observer.
+[22:54:27	]Manhack has used a context menu option with the name: remove
+[22:54:38	]Frank Mazzarelli exited observer at their location.
+[22:54:39	]Manhack exited observer at their location.
+[22:54:41	]Manhack entered observer.
+[22:54:45	]Frank Mazzarelli entered observer.
+[22:54:46	]Frank Mazzarelli exited observer at their location.
+[22:54:55	]Frank Mazzarelli has used a context menu option with the name: rb655_door_unlock
+[22:54:57	]Frank Mazzarelli entered observer.
+[22:55:01	]Frank Mazzarelli exited observer at their location.
+[22:55:02	]Frank Mazzarelli entered observer.
+[22:55:03	]Frank Mazzarelli exited observer at their location.
+[22:55:07	]Frank Mazzarelli has used a context menu option with the name: rb655_door_lock
+[22:55:08	]Frank Mazzarelli entered observer.
+[22:55:10	]Frank Mazzarelli exited observer at their location.
+[22:55:12	]Manhack used command '/AreaEdit'.
+[22:55:41	][OOC] Manhack: OK, I'm gonna let the FLs and whomever to prop their own regions.
+[22:55:52	][OOC] Manhack: The immediate zone is fixed up.
+[22:56:01	][OOC] Frank Mazzarelli: we are propping on this server yes?
+[22:56:05	][OOC] Manhack: yes.
+[22:56:08	]Frank Mazzarelli entered observer.
+[22:56:12	]Frank Mazzarelli exited observer at their location.
+[22:56:20	]Frank Mazzarelli entered observer.
+[22:56:22	]Frank Mazzarelli exited observer at their location.
+[22:56:26	]Frank Mazzarelli entered observer.
+[22:56:26	][OOC] Manhack: I will get simfphys and gredwitch for the event.
+[22:56:26	]Frank Mazzarelli exited observer at their location.
+[22:56:26	]Frank Mazzarelli entered observer.
+[22:56:38	]Frank Mazzarelli exited observer at their location.
+[22:56:38	][OOC] Manhack: Get people executed with anti-aircraft guns
+[22:56:39	][OOC] Manhack: XD
+[22:56:39	]Frank Mazzarelli entered observer.
+[22:56:41	]Frank Mazzarelli exited observer at their location.
+[22:56:41	]Frank Mazzarelli entered observer.
+[22:56:41	]Frank Mazzarelli exited observer at their location.
+[22:56:42	]Frank Mazzarelli entered observer.
+[22:56:43	]Frank Mazzarelli exited observer at their location.
+[22:56:44	]Frank Mazzarelli entered observer.
+[22:56:46	]Frank Mazzarelli exited observer at their location.
+[22:56:46	]Frank Mazzarelli has taken 13 damage from worldspawn.
+[22:56:48	]Frank Mazzarelli has taken 28 damage from worldspawn.
+[22:56:50	]Frank Mazzarelli entered observer.
+[22:56:52	]Frank Mazzarelli exited observer at their location.
+[22:56:53	]Frank Mazzarelli entered observer.
+[22:56:54	]Manhack exited observer at their location.
+[22:56:55	]Manhack entered observer.
+[22:56:56	]Frank Mazzarelli exited observer at their location.
+[22:56:59	]Frank Mazzarelli entered observer.
+[22:57:00	]Frank Mazzarelli exited observer at their location.
+[22:57:15	][OOC] Frank Mazzarelli: so many subtle locations
+[22:57:15	]Frank Mazzarelli entered observer.
+[22:57:17	]Frank Mazzarelli exited observer at their location.
+[22:57:26	]Manhack has spawned 'models/props_wasteland/exterior_fence002a.mdl'.
+[22:57:28	][OOC] Frank Mazzarelli: come to me rad-x
+[22:57:29	]Manhack has spawned 'models/props_wasteland/interior_fence002f.mdl'.
+[22:57:29	]Frank Mazzarelli entered observer.
+[22:57:31	]Frank Mazzarelli exited observer at their location.
+[22:57:31	]Frank Mazzarelli entered observer.
+[22:57:32	]Frank Mazzarelli exited observer at their location.
+[22:57:32	]Frank Mazzarelli entered observer.
+[22:57:33	]Manhack has spawned 'models/props_wasteland/exterior_fence003b.mdl'.
+[22:57:34	]Frank Mazzarelli exited observer at their location.
+[22:57:36	]Frank Mazzarelli entered observer.
+[22:57:36	]Frank Mazzarelli exited observer at their location.
+[22:57:37	]Manhack has spawned 'models/props_wasteland/interior_fence001g.mdl'.
+[22:57:41	]Frank Mazzarelli ran SAM command 'hp' with arguments: 'frank' '100'
+[22:57:42	]Frank Mazzarelli is fully healed.
+[22:57:43	]Frank Mazzarelli entered observer.
+[22:57:44	]Frank Mazzarelli exited observer at their location.
+[22:57:51	][LOOC] Frank Mazzarelli: thinking of escape routes out of the city
+[22:57:53	][OOC] Manhack: sec
+[22:57:57	]Manhack has spawned 'models/props_wasteland/interior_fence004a.mdl'.
+[22:57:59	]Frank Mazzarelli entered observer.
+[22:58:00	]Frank Mazzarelli exited observer at their location.
+[22:58:02	]Frank Mazzarelli entered observer.
+[22:58:03	]Frank Mazzarelli exited observer at their location.
+[22:58:07	]Manhack has spawned 'models/props_wasteland/interior_fence004a.mdl'.
+[22:58:09	]Frank Mazzarelli entered observer.
+[22:58:10	]Frank Mazzarelli exited observer at their location.
+[22:58:15	]Manhack has spawned 'models/props_wasteland/interior_fence003b.mdl'.
+[22:58:23	]Frank Mazzarelli entered observer.
+[22:58:29	]Frank Mazzarelli exited observer at their location.
+[22:58:29	]Frank Mazzarelli entered observer.
+[22:58:31	]Frank Mazzarelli exited observer at their location.
+[22:58:31	]Frank Mazzarelli entered observer.
+[22:58:32	]Frank Mazzarelli exited observer at their location.
+[22:58:45	]Manhack has spawned a 'Entity [364][ix_forcefield]'.
+[22:58:46	]Manhack has spawned a 'Entity [367][ix_forcefield]'.
+[22:58:51	]Manhack has spawned a 'Entity [364][ix_forcefield]'.
+[22:58:55	]Manhack has spawned a 'Entity [367][ix_forcefield]'.
+[22:58:59	]Manhack has spawned a 'Entity [364][ix_forcefield]'.
+[22:59:00	]Manhack has spawned a 'Entity [367][ix_forcefield]'.
+[22:59:01	]Manhack has spawned a 'Entity [364][ix_forcefield]'.
+[22:59:02	]Frank Mazzarelli entered observer.
+[22:59:03	]Manhack exited observer at their location.
+[22:59:08	]Manhack entered observer.
+[22:59:12	]Manhack has fired a toolgun with the name: remover
+[22:59:13	]Manhack has fired a toolgun with the name: remover
+[22:59:13	]Manhack has fired a toolgun with the name: remover
+[22:59:13	]Manhack has fired a toolgun with the name: remover
+[22:59:20	]Frank Mazzarelli used command '/PM manhack look at this flavor escape route out of the city for CT/BMD/events'.
+[22:59:20	]Frank Mazzarelli exited observer at their location.
+[22:59:25	]Manhack exited observer at their location.
+[22:59:25	]Manhack entered observer.
+[22:59:26	]Manhack exited observer at their location.
+[22:59:31	]Frank Mazzarelli entered observer.
+[22:59:31	]Manhack entered observer.
+[22:59:31	]Frank Mazzarelli exited observer at their location.
+[22:59:32	]Frank Mazzarelli entered observer.
+[22:59:32	]Frank Mazzarelli exited observer at their location.
+[22:59:33	][OOC] Manhack: it's EPIC
+[22:59:36	][OOC] Manhack: XD
+[22:59:38	][OOC] Frank Mazzarelli: crawl thru the wall
+[22:59:45	]Manhack exited observer at their location.
+[22:59:50	][OOC] Frank Mazzarelli: cant bring bags or something because of the gap maybe
+[22:59:54	]Manhack entered observer.
+[23:00:01	]Frank Mazzarelli has taken 59 damage from worldspawn.
+[23:00:04	]Manhack ran SAM command 'hp' with arguments: 'frank'
+[23:00:07	]Frank Mazzarelli is fully healed.
+[23:00:07	]Manhack ran SAM command 'hp' with arguments: 'frank' '10000'
+[23:00:13	][Y] Frank Mazzarelli: *Cheering!*.
+[23:00:34	]Frank Mazzarelli has spawned 'models/Humans/corpse1.mdl'.
+[23:00:36	]Manhack exited observer at their location.
+[23:00:37	]Manhack entered observer.
+[23:01:05	]Manhack exited observer at their location.
+[23:01:08	]Manhack entered observer.
+[23:01:13	][OOC] Manhack: Rye
+[23:01:15	][OOC] Manhack: The map is your oyster.
+[23:01:16	]Frank Mazzarelli has used a context menu option with the name: statue
+[23:01:17	][OOC] Manhack: Enjoy.
+[23:01:19	]Frank Mazzarelli has enabled persistence for 'models/humans/corpse1.mdl'.
+[23:01:19	]Frank Mazzarelli has used a context menu option with the name: persist
+[23:01:21	][OOC] Frank Mazzarelli: swag
+[23:01:25	]Frank Mazzarelli entered observer.
+[23:01:28	]Frank Mazzarelli exited observer at their location.
+[23:01:46	][OOC] Frank Mazzarelli: can i have a bar btw or is there a selection process going on
+[23:01:55	][OOC] Manhack: Take what ever you like.
+[23:02:08	][OOC] Manhack: We have a cybercafe as well
+[23:02:11	][OOC] Manhack: Multiple places.
+[23:02:16	][OOC] Frank Mazzarelli: what do you think about that 'alibi' sign
+[23:02:19	][OOC] Frank Mazzarelli: if you saw it
+[23:02:28	][OOC] Manhack: What's your alibi? ;)
+[23:02:31	]Frank Mazzarelli entered observer.
+[23:02:37	]Manhack exited observer at their location.
+[23:02:44	]Manhack entered observer.
+[23:02:49	]Manhack exited observer at their location.
+[23:02:52	]Manhack entered observer.
+[23:02:53	]Manhack exited observer at their location.
+[23:02:54	]Manhack entered observer.
+[23:02:55	]Manhack exited observer at their location.
+[23:02:59	]Manhack entered observer.
+[23:03:00	]Manhack exited observer at their location.
+[23:03:03	]Manhack entered observer.
+[23:03:04	]Manhack exited observer at their location.
+[23:03:11	]Frank Mazzarelli has spawned 'models/props/de_overpass/overpass_billboard.mdl'.
+[23:03:29	]Manhack entered observer.
+[23:03:30	]Manhack exited observer at their location.
+[23:03:32	]Manhack entered observer.
+[23:03:33	]Frank Mazzarelli has spawned 'models/props_rooftop/billboard01.mdl'.
+[23:03:35	]Manhack exited observer at their location.
+[23:03:36	]Manhack entered observer.
+[23:03:38	]Manhack exited observer at their location.
+[23:03:39	]Manhack entered observer.
+[23:03:41	]Frank Mazzarelli has spawned 'models/props_rooftop/billboard01.mdl'.
+[23:03:44	]Manhack exited observer at their location.
+[23:03:45	]Manhack entered observer.
+[23:03:46	]Manhack exited observer at their location.
+[23:03:49	]Manhack entered observer.
+[23:03:52	]Manhack exited observer at their location.
+[23:03:55	]Frank Mazzarelli has fired a toolgun with the name: nocollideworld
+[23:04:00	]Lt. Adriana Dish exited observer at their location.
+[23:04:01	]Frank Mazzarelli exited observer at their location.
+[23:04:04	][IC] Frank Mazzarelli: Oh shit!
+[23:04:05	]Manhack entered observer.
+[23:04:06	][Y] Frank Mazzarelli: Run for your life!
+[23:04:08	]Frank Mazzarelli entered observer.
+[23:04:12	]Manhack exited observer at their location.
+[23:04:12	]Lt. Adriana Dish entered observer.
+[23:04:19	]Frank Mazzarelli exited observer at their location.
+[23:04:21	]Frank Mazzarelli entered observer.
+[23:04:22	]Frank Mazzarelli exited observer at their location.
+[23:04:29	]Lt. Adriana Dish exited observer at their location.
+[23:04:38	]Lt. Adriana Dish entered observer.
+[23:04:38	]Manhack entered observer.
+[23:04:41	]Manhack exited observer at their location.
+[23:04:43	]Manhack entered observer.
+[23:04:46	]Manhack exited observer at their location.
+[23:04:46	]Manhack entered observer.
+[23:06:29	]Frank Mazzarelli entered observer.
+[23:06:44	]Manhack exited observer at their location.
+[23:06:46	]Manhack entered observer.
+[23:06:47	]Manhack exited observer at their location.
+[23:06:48	]Manhack entered observer.
+[23:06:49	]Frank Mazzarelli used command '/PanelAdd https://i.imgur.com/wcbDc4a.png 2.4 55'.
+[23:06:57	]Manhack used command '/StopSong'.
+[23:06:59	]Frank Mazzarelli used command '/PanelRemove'.
+[23:07:07	]Frank Mazzarelli used command '/PanelAdd https://i.imgur.com/wcbDc4a.png 2.4 55'.
+[23:07:25	]Manhack exited observer at their location.
+[23:07:25	]Dej has connected.
+[23:07:26	]Manhack entered observer.
+[23:07:26	]Frank Mazzarelli has spawned 'models/props_rooftop/billboard06.mdl'.
+[23:07:26	]Manhack exited observer at their location.
+[23:07:28	]Manhack entered observer.
+[23:07:28	]Frank Mazzarelli has spawned 'models/props_rooftop/billboard06.mdl'.
+[23:07:32	]Frank Mazzarelli has spawned 'models/props_rooftop/billboard01.mdl'.
+[23:07:38	]Frank Mazzarelli has fired a toolgun with the name: nocollideworld
+[23:07:38	]Manhack exited observer at their location.
+[23:07:42	]Manhack entered observer.
+[23:07:49	]Manhack exited observer at their location.
+[23:07:54	]Manhack entered observer.
+[23:08:05	]Manhack exited observer at their location.
+[23:08:07	]Frank Mazzarelli has spawned 'models/props/cs_assault/billboard.mdl'.
+[23:08:09	]Manhack entered observer.
+[23:08:10	]Frank Mazzarelli has fired a toolgun with the name: nocollideworld
+[23:08:31	]Manhack used command '/PlaySound music/passive/passivemusic_17.ogg'.
+[23:08:54	]Frank Mazzarelli exited observer at their location.
+[23:09:09	]Dej loaded the character 'S10/EOW.RAZOR-09'
+[23:09:14	]S10/EOW.RAZOR-09 is fully healed.
+[23:09:18	][OOC] Manhack: whaecum
+[23:09:20	]Manhack exited observer at their location.
+[23:09:21	]Manhack entered observer.
+[23:09:34	]Manhack exited observer at their location.
+[23:09:34	]Manhack entered observer.
+[23:09:38	]Manhack exited observer at their location.
+[23:09:43	]Manhack entered observer.
+[23:09:50	]Manhack exited observer at their location.
+[23:09:52	]Manhack entered observer.
+[23:09:55	]Frank Mazzarelli used command '/PM manhack how does this sign look'.
+[23:09:56	]Frank Mazzarelli entered observer.
+[23:09:58	]Manhack ran SAM command 'goto' with arguments: 'frank'
+[23:09:59	]Manhack ran SAM command 'menu' with arguments: ''
+[23:10:04	][LOOC] Frank Mazzarelli: i have to remove the top one
+[23:10:04	]Manhack ran SAM command 'setrank' with arguments: '#5' 'server_admin' '720'
+[23:10:10	]Manhack ran SAM command 'setrank' with arguments: '#5' 'gamemaster' '720'
+[23:10:14	]Manhack ran SAM command 'goto' with arguments: 'frank'
+[23:10:15	]Frank Mazzarelli exited observer at their location.
+[23:10:18	]Manhack exited observer at their location.
+[23:10:23	]Manhack entered observer.
+[23:10:24	]Manhack exited observer at their location.
+[23:10:26	]Frank Mazzarelli entered observer.
+[23:10:27	]S10/EOW.RAZOR-09 entered observer.
+[23:10:29	]Frank Mazzarelli used command '/PanelRemove'.
+[23:10:31	]Manhack entered observer.
+[23:10:32	]Frank Mazzarelli has used a context menu option with the name: rb655_dissolve
+[23:10:34	]Frank Mazzarelli exited observer at their location.
+[23:10:35	]Frank Mazzarelli entered observer.
+[23:10:36	]Frank Mazzarelli exited observer at their location.
+[23:10:38	]Manhack used command '/Staff Looks good tbh'.
+[23:10:39	]Manhack exited observer at their location.
+[23:10:44	]Manhack entered observer.
+[23:10:49	]Manhack exited observer at their location.
+[23:10:54	]Manhack entered observer.
+[23:10:54	]Manhack exited observer at their location.
+[23:10:55	]Manhack entered observer.
+[23:10:57	]Manhack exited observer at their location.
+[23:11:01	]Manhack used command '/GameMaster looks good'.
+[23:11:03	][LOOC] Frank Mazzarelli: could have someone rough it up with photoshop
+[23:11:07	][LOOC] Manhack: yeah
+[23:11:09	]Manhack entered observer.
+[23:11:09	]Manhack exited observer at their location.
+[23:11:10	]Manhack entered observer.
+[23:11:10	]Manhack exited observer at their location.
+[23:11:12	][LOOC] Frank Mazzarelli: idk how to do it myself
+[23:11:20	]Frank Mazzarelli has enabled persistence for 'models/props/cs_assault/billboard.mdl'.
+[23:11:20	]Frank Mazzarelli has used a context menu option with the name: persist
+[23:11:26	][IC] Frank Mazzarelli: One time, back in the city, I saw a guy take down a Hunter with his bare fists.
+[23:11:33	][Y] Manhack: <:: Shit. ::>
+[23:11:33	]Manhack used command '/CharFallOver 1'.
+[23:11:38	]S10/EOW.RAZOR-09 ran SAM command 'goto' with arguments: 'manhack'
+[23:11:41	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:11:48	][IC] Manhack: <:: Copy. ::>
+[23:11:50	][IC] S10/EOW.RAZOR-09: <:: Taking advantage. ::>
+[23:11:51	][IC] Manhack: <:: Copy. ::>
+[23:11:51	]S10/EOW.RAZOR-09 entered observer.
+[23:11:52	]Manhack entered observer.
+[23:11:53	]Manhack exited observer at their location.
+[23:11:55	]Frank Mazzarelli has spawned 'models/props_phx/carseat2.mdl'.
+[23:11:55	]Manhack entered observer.
+[23:11:56	]Manhack exited observer at their location.
+[23:11:56	]Manhack entered observer.
+[23:11:57	][IC] Frank Mazzarelli: No! Nooo!.
+[23:11:59	]Manhack exited observer at their location.
+[23:12:00	]Lt. Adriana Dish exited observer at their location.
+[23:12:01	][ME] Manhack: erp
+[23:12:04	][IC] Frank Mazzarelli: Aaaaaaagh!
+[23:12:04	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:12:06	][ME] Lt. Adriana Dish: erps
+[23:12:08	]Lt. Adriana Dish entered observer.
+[23:12:08	]Manhack entered observer.
+[23:12:08	]Lt. Adriana Dish exited observer at their location.
+[23:12:09	]Frank Mazzarelli has used a context menu option with the name: ixpropviewowner
+[23:12:13	]S10/EOW.RAZOR-09 used command '/Punch'.
+[23:12:14	]Lt. Adriana Dish was just knocked out due to: hit by punch command used by S10/EOW.RAZOR-09
+[23:12:15	]Frank Mazzarelli used command '/CharDesc'.
+[23:12:16	]Manhack exited observer at their location.
+[23:12:21	]Manhack entered observer.
+[23:12:22	]Frank Mazzarelli used command '/CharDesc'.
+[23:12:23	]Manhack exited observer at their location.
+[23:12:24	]Manhack entered observer.
+[23:12:26	]Lt. Adriana Dish has taken 50 damage from worldspawn.
+[23:12:27	]Lt. Adriana Dish was knocked unconscious and is bleeding out.
+[23:12:28	][IC] S10/EOW.RAZOR-09: <:: Spikes ineffective, target is unskilled. ::>
+[23:12:30	]Frank Mazzarelli has spawned 'models/nova/jeep_seat.mdl'.
+[23:12:31	]Lt. Adriana Dish was killed while bleeding out.
+[23:12:31	]worldspawn has killed Lt. Adriana Dish.
+[23:12:32	][IC] Frank Mazzarelli: I'm not even going to tell you to shut up!
+[23:12:33	]Manhack exited observer at their location.
+[23:12:37	][IC] S10/EOW.RAZOR-09: <:: Hostile is experiencing extreme panic. ::>
+[23:12:42	][IC] Frank Mazzarelli: Shut up.
+[23:12:42	][IC] Manhack: <:: WHAT A SHAME. ::>
+[23:12:45	]Frank Mazzarelli has spawned 'models/props_wasteland/controlroom_chair001a.mdl'.
+[23:12:46	][IC] S10/EOW.RAZOR-09: <:: Target is at low motivation, take advantage. ::>
+[23:12:51	]Lt. Adriana Dish entered observer.
+[23:12:52	][IC] Frank Mazzarelli: *Cheering!*.
+[23:12:54	]Manhack entered observer.
+[23:12:56	]Frank Mazzarelli has spawned 'models/nova/chair_wood01.mdl'.
+[23:12:57	]S10/EOW.RAZOR-09 entered observer.
+[23:12:59	]Frank Mazzarelli has spawned 'models/nova/chair_plastic01.mdl'.
+[23:12:59	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:13:04	]Frank Mazzarelli has spawned 'models/props_c17/chair02a.mdl'.
+[23:13:05	]Frank Mazzarelli has spawned 'models/props_c17/chair02a.mdl'.
+[23:13:05	]Manhack exited observer at their location.
+[23:13:05	][IC] S10/EOW.RAZOR-09: <:: Hostile is hesitating. ::>
+[23:13:05	]Frank Mazzarelli has spawned 'models/props_c17/chair02a.mdl'.
+[23:13:06	]Manhack entered observer.
+[23:13:08	]Manhack exited observer at their location.
+[23:13:10	]Manhack entered observer.
+[23:13:11	]Manhack exited observer at their location.
+[23:13:12	]Manhack entered observer.
+[23:13:13	][IC] Frank Mazzarelli: Hah, you and me both.
+[23:13:13	]Manhack exited observer at their location.
+[23:13:14	]Frank Mazzarelli has fired a toolgun with the name: nocollideworld
+[23:13:15	]Frank Mazzarelli has fired a toolgun with the name: nocollideworld
+[23:13:15	]Frank Mazzarelli has fired a toolgun with the name: nocollideworld
+[23:13:16	]S10/EOW.RAZOR-09 has used a context menu option with the name: ignite
+[23:13:16	]Manhack entered observer.
+[23:13:16	]Frank Mazzarelli has fired a toolgun with the name: nocollideworld
+[23:13:17	]Manhack exited observer at their location.
+[23:13:25	]Lt. Adriana Dish exited observer at their location.
+[23:13:27	][OOC] Frank Mazzarelli: screenshake while building noooooo
+[23:13:31	]Manhack entered observer.
+[23:13:31	]Manhack exited observer at their location.
+[23:13:32	]Lt. Adriana Dish entered observer.
+[23:13:33	][IC] Frank Mazzarelli: Help.
+[23:13:35	]Manhack entered observer.
+[23:13:36	][IC] Frank Mazzarelli: Help!
+[23:13:37	]Manhack exited observer at their location.
+[23:13:40	][IC] S10/EOW.RAZOR-09: <:: Haha. ::>
+[23:13:41	]Lt. Adriana Dish exited observer at their location.
+[23:13:41	]Manhack entered observer.
+[23:13:43	]Manhack exited observer at their location.
+[23:13:48	]Lt. Adriana Dish entered observer.
+[23:13:49	]Manhack entered observer.
+[23:13:55	]Manhack exited observer at their location.
+[23:14:05	]S10/EOW.RAZOR-09 entered observer.
+[23:14:05	]Frank Mazzarelli has spawned a usable entity class 'ix_chair' with model 'models/nova/chair_plastic01.mdl'.
+[23:14:05	]Frank Mazzarelli has used a context menu option with the name: ixusableentitycreate
+[23:14:06	]Frank Mazzarelli has spawned a usable entity class 'ix_chair' with model 'models/props_c17/chair02a.mdl'.
+[23:14:06	]Frank Mazzarelli has used a context menu option with the name: ixusableentitycreate
+[23:14:07	]S10/EOW.RAZOR-09 ran SAM command 'goto' with arguments: 'man'
+[23:14:07	]Manhack entered observer.
+[23:14:07	]Frank Mazzarelli has spawned a usable entity class 'ix_chair' with model 'models/props_c17/chair02a.mdl'.
+[23:14:07	]Frank Mazzarelli has used a context menu option with the name: ixusableentitycreate
+[23:14:08	]Frank Mazzarelli has spawned a usable entity class 'ix_chair' with model 'models/props_c17/chair02a.mdl'.
+[23:14:08	]Frank Mazzarelli has used a context menu option with the name: ixusableentitycreate
+[23:14:09	]Frank Mazzarelli used command '/ActSit 5'.
+[23:14:09	]Manhack is fully healed.
+[23:14:09	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:14:09	]Manhack exited observer at their location.
+[23:14:12	]Frank Mazzarelli used command '/ExitAct'.
+[23:14:13	]Frank Mazzarelli used command '/ActSit 5'.
+[23:14:14	]Lt. Adriana Dish exited observer at their location.
+[23:14:14	]Frank Mazzarelli used command '/ExitAct'.
+[23:14:15	]Frank Mazzarelli used command '/ActSit 4'.
+[23:14:16	]Frank Mazzarelli used command '/ExitAct'.
+[23:14:21	][OOC] Frank Mazzarelli: someone come sit next to me
+[23:14:23	]Frank Mazzarelli used command '/ActSit 4'.
+[23:14:25	]Lt. Adriana Dish entered observer.
+[23:14:36	]Lt. Adriana Dish exited observer at their location.
+[23:14:40	]Lt. Adriana Dish used command '/ActSit 1'.
+[23:14:42	]Lt. Adriana Dish used command '/ExitAct'.
+[23:14:45	]Lt. Adriana Dish used command '/ActSit 2'.
+[23:14:48	]Frank Mazzarelli used command '/ActSit 5'.
+[23:14:48	]Frank Mazzarelli used command '/ExitAct'.
+[23:14:49	]Frank Mazzarelli used command '/ActSit 4'.
+[23:14:50	]Frank Mazzarelli used command '/ActSit 4'.
+[23:14:52	]Frank Mazzarelli used command '/ActSit 4'.
+[23:14:55	]Frank Mazzarelli used command '/ActSit 5'.
+[23:14:56	]Frank Mazzarelli used command '/ExitAct'.
+[23:15:00	]Manhack entered observer.
+[23:15:02	]Frank Mazzarelli used command '/ActSit 5'.
+[23:15:04	][IC] Frank Mazzarelli: Hmm.
+[23:15:04	]Frank Mazzarelli used command '/ExitAct'.
+[23:15:04	]Manhack exited observer at their location.
+[23:15:06	]Frank Mazzarelli used command '/ActSit 5'.
+[23:15:07	]Frank Mazzarelli used command '/ExitAct'.
+[23:15:13	]Frank Mazzarelli used command '/ActSit 5'.
+[23:15:14	]Frank Mazzarelli used command '/ExitAct'.
+[23:15:17	][IC] Frank Mazzarelli: Alright.
+[23:15:17	]S10/EOW.RAZOR-09 entered observer.
+[23:15:18	]Manhack entered observer.
+[23:15:21	]Manhack exited observer at their location.
+[23:15:22	]Manhack entered observer.
+[23:15:23	]Frank Mazzarelli has fired a toolgun with the name: colour
+[23:15:24	]Frank Mazzarelli has fired a toolgun with the name: colour
+[23:15:24	]Frank Mazzarelli has fired a toolgun with the name: colour
+[23:15:26	]Frank Mazzarelli has fired a toolgun with the name: colour
+[23:15:30	][IC] Frank Mazzarelli: This'll do nicely!
+[23:15:36	]Frank Mazzarelli has used a context menu option with the name: rb655_dissolve
+[23:15:38	]Frank Mazzarelli has used a context menu option with the name: rb655_dissolve
+[23:15:39	]Frank Mazzarelli has used a context menu option with the name: rb655_dissolve
+[23:15:40	]Frank Mazzarelli has used a context menu option with the name: rb655_dissolve
+[23:15:42	]Frank Mazzarelli has used a context menu option with the name: rb655_dissolve
+[23:15:50	]Frank Mazzarelli has spawned 'models/props/cs_militia/barstool01.mdl'.
+[23:15:53	]Frank Mazzarelli has spawned 'models/props/cs_militia/barstool01.mdl'.
+[23:15:54	]Frank Mazzarelli has spawned 'models/props/cs_militia/barstool01.mdl'.
+[23:15:56	]Frank Mazzarelli has spawned 'models/props/cs_militia/barstool01.mdl'.
+[23:15:57	]Manhack exited observer at their location.
+[23:15:58	]Manhack entered observer.
+[23:15:59	]Frank Mazzarelli has spawned 'models/props/cs_militia/barstool01.mdl'.
+[23:15:59	]Manhack exited observer at their location.
+[23:16:00	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:16:00	]Manhack entered observer.
+[23:16:00	]Frank Mazzarelli has used a context menu option with the name: rb655_dissolve
+[23:16:02	]Frank Mazzarelli has spawned 'models/props/cs_militia/barstool01.mdl'.
+[23:16:03	]S10/EOW.RAZOR-09 entered observer.
+[23:16:04	]Frank Mazzarelli has spawned 'models/props/cs_militia/barstool01.mdl'.
+[23:16:05	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:16:08	]Lt. Adriana Dish used command '/ExitAct'.
+[23:16:14	]Frank Mazzarelli has spawned a usable entity class 'ix_chair' with model 'models/props/cs_militia/barstool01.mdl'.
+[23:16:14	]Frank Mazzarelli has used a context menu option with the name: ixusableentitycreate
+[23:16:14	]Frank Mazzarelli used command '/ActSit 4'.
+[23:16:14	]Manhack exited observer at their location.
+[23:16:15	]Manhack entered observer.
+[23:16:15	]Frank Mazzarelli used command '/ExitAct'.
+[23:16:16	]Manhack exited observer at their location.
+[23:16:17	]Manhack entered observer.
+[23:16:19	]S10/EOW.RAZOR-09 entered observer.
+[23:16:23	]Manhack exited observer at their location.
+[23:16:27	]Manhack entered observer.
+[23:16:32	]Lt. Adriana Dish entered observer.
+[23:16:39	]Manhack exited observer at their location.
+[23:16:41	]Manhack entered observer.
+[23:16:42	]Frank Mazzarelli has spawned a usable entity class 'ix_chair' with model 'models/props/cs_militia/barstool01.mdl'.
+[23:16:42	]Frank Mazzarelli has used a context menu option with the name: ixusableentitycreate
+[23:16:42	]Manhack exited observer at their location.
+[23:16:42	]Frank Mazzarelli used command '/ActSit 5'.
+[23:16:43	]Manhack entered observer.
+[23:16:43	]Manhack exited observer at their location.
+[23:16:44	]Manhack entered observer.
+[23:16:45	]Frank Mazzarelli used command '/ExitAct'.
+[23:16:46	]Manhack exited observer at their location.
+[23:16:47	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:16:54	]Lt. Adriana Dish exited observer at their location.
+[23:16:58	]Frank Mazzarelli has spawned a usable entity class 'ix_chair' with model 'models/props/cs_militia/barstool01.mdl'.
+[23:16:58	]Frank Mazzarelli has used a context menu option with the name: ixusableentitycreate
+[23:16:59	]Frank Mazzarelli has spawned a usable entity class 'ix_chair' with model 'models/props/cs_militia/barstool01.mdl'.
+[23:16:59	]Frank Mazzarelli has used a context menu option with the name: ixusableentitycreate
+[23:17:00	]S10/EOW.RAZOR-09 has spawned 'models/props_combine/combine_interface001.mdl'.
+[23:17:01	]Frank Mazzarelli has spawned a usable entity class 'ix_chair' with model 'models/props/cs_militia/barstool01.mdl'.
+[23:17:01	]Frank Mazzarelli has used a context menu option with the name: ixusableentitycreate
+[23:17:02	]Frank Mazzarelli has spawned a usable entity class 'ix_chair' with model 'models/props/cs_militia/barstool01.mdl'.
+[23:17:02	]Frank Mazzarelli has used a context menu option with the name: ixusableentitycreate
+[23:17:06	]Manhack entered observer.
+[23:17:07	]Manhack exited observer at their location.
+[23:17:09	]Manhack entered observer.
+[23:17:09	]Manhack exited observer at their location.
+[23:17:10	]Lt. Adriana Dish used command '/PlyWhitelist Dish ai'.
+[23:17:10	]S10/EOW.RAZOR-09 has spawned a 'Entity [403][ix_vendor]'.
+[23:17:11	]Manhack entered observer.
+[23:17:12	]Manhack exited observer at their location.
+[23:17:13	]S10/EOW.RAZOR-09 has used a context menu option with the name: vendor_edit
+[23:17:17	]Lt. Adriana Dish used command '/PlyWhitelist Dish scn'.
+[23:17:20	]Lt. Adriana Dish used command '/PlyWhitelist Dish overwatch'.
+[23:17:33	]Frank Mazzarelli used command '/ActSit 4'.
+[23:17:34	]Frank Mazzarelli used command '/ExitAct'.
+[23:17:35	]Frank Mazzarelli used command '/ActSit 4'.
+[23:17:36	]Lt. Adriana Dish used command '/PlyUnwhitelist dish entertain'.
+[23:17:36	]Frank Mazzarelli used command '/ExitAct'.
+[23:17:37	]Frank Mazzarelli used command '/ActSit 6'.
+[23:17:39	]Frank Mazzarelli used command '/ExitAct'.
+[23:17:40	]S10/EOW.RAZOR-09 entered observer.
+[23:17:41	]Frank Mazzarelli used command '/ActSit 5'.
+[23:17:41	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:17:43	]Frank Mazzarelli used command '/ExitAct'.
+[23:17:44	]Frank Mazzarelli used command '/ActSit 5'.
+[23:17:44	]Frank Mazzarelli used command '/ExitAct'.
+[23:17:46	]Frank Mazzarelli used command '/ActSit 5'.
+[23:17:47	]Frank Mazzarelli used command '/ExitAct'.
+[23:17:47	]S10/EOW.RAZOR-09 has used a context menu option with the name: vendor_edit
+[23:17:55	]Lt. Adriana Dish entered observer.
+[23:17:56	]Frank Mazzarelli has spawned 'models/props_wasteland/controlroom_filecabinet002a.mdl'.
+[23:17:57	]Manhack entered observer.
+[23:17:57	]Manhack exited observer at their location.
+[23:17:58	]Manhack entered observer.
+[23:18:05	]Frank Mazzarelli has fired a toolgun with the name: nocollideworld
+[23:18:08	]Lt. Adriana Dish exited observer at their location.
+[23:18:15	]Frank Mazzarelli created a 'Medium File Cabinet' container.
+[23:18:15	]Frank Mazzarelli has used a context menu option with the name: wncontainer_create
+[23:18:15	]Jei (STEAM_0:1:108198228) deleted character 'C24:i5.STICK-1'
+[23:18:21	]Manhack exited observer at their location.
+[23:18:24	]Manhack entered observer.
+[23:18:29	]Frank Mazzarelli has set the 'Medium File Cabinet' container (#71548) to private, owned by 'character[11547]'.
+[23:18:29	]Frank Mazzarelli has used a context menu option with the name: wncontainer_setprivate
+[23:18:30	]S10/EOW.RAZOR-09 used the 'Overwatch Armory' vendor.
+[23:18:33	]S10/EOW.RAZOR-09 has used a context menu option with the name: vendor_edit
+[23:18:51	]Frank Mazzarelli has set the password of the 'Medium File Cabinet' container (#71548).
+[23:18:51	]Frank Mazzarelli has used a context menu option with the name: wncontainer_setpassword
+[23:18:53	]Manhack used command '/AreaEdit'.
+[23:18:54	]Frank Mazzarelli opened the 'Medium File Cabinet' #71548 container.
+[23:18:55	]Jei created the character 'S10:SCN-8'
+[23:18:55	]Jei loaded the character 'S10:SCN-8'
+[23:18:56	]Frank Mazzarelli closed the 'Medium File Cabinet' #71548 container.
+[23:19:02	]Frank Mazzarelli used command '/ActSit 5'.
+[23:19:03	]Frank Mazzarelli used command '/ExitAct'.
+[23:19:22	]Frank Mazzarelli has fired a toolgun with the name: material
+[23:19:29	]S10:SCN-8 used command '/Dispatch ACCESS RESTRICTED'.
+[23:20:12	]Manhack exited observer at their location.
+[23:20:13	]Manhack entered observer.
+[23:20:14	]Manhack exited observer at their location.
+[23:20:15	]Manhack entered observer.
+[23:20:15	]Manhack exited observer at their location.
+[23:20:16	]Manhack entered observer.
+[23:20:23	]Manhack exited observer at their location.
+[23:20:24	]Manhack entered observer.
+[23:20:25	]Manhack exited observer at their location.
+[23:20:26	]Manhack entered observer.
+[23:20:27	]Manhack exited observer at their location.
+[23:20:28	]Manhack entered observer.
+[23:20:46	]Manhack exited observer at their location.
+[23:20:46	]Manhack entered observer.
+[23:20:47	]Manhack exited observer at their location.
+[23:20:47	]Manhack entered observer.
+[23:20:49	]Manhack exited observer at their location.
+[23:20:50	]Manhack entered observer.
+[23:20:53	]S10:SCN-8 used command '/I TREAT OUTBREAK'.
+[23:20:55	]Manhack exited observer at their location.
+[23:20:55	]Manhack entered observer.
+[23:20:56	]Manhack exited observer at their location.
+[23:20:57	]Manhack entered observer.
+[23:20:58	]Manhack exited observer at their location.
+[23:20:59	]Manhack entered observer.
+[23:21:44	]S10/EOW.RAZOR-09 used the 'Overwatch Armory' vendor.
+[23:21:47	]S10/EOW.RAZOR-09 has used a context menu option with the name: vendor_edit
+[23:22:13	]OCIN:AI used command '/CharSetName S10:SCN-8 OCIN:AI'.
+[23:22:17	]OCIN:AI has used a context menu option with the name: remove
+[23:22:19	]OCIN:AI entered observer.
+[23:22:48	]S10/EOW.RAZOR-09 used the 'Overwatch Armory' vendor.
+[23:22:52	]Manhack exited observer at their location.
+[23:22:52	]S10/EOW.RAZOR-09 has used a context menu option with the name: vendor_edit
+[23:22:54	]Manhack entered observer.
+[23:23:31	]S10/EOW.RAZOR-09 used the 'Overwatch Armory' vendor.
+[23:23:33	]S10/EOW.RAZOR-09 has used a context menu option with the name: vendor_edit
+[23:24:01	]OCIN:AI used command '/Dispatch RESTRICTED BLOCK DEPLOYMENT'.
+[23:24:55	]S10/EOW.RAZOR-09 used the 'Overwatch Armory' vendor.
+[23:24:58	]S10/EOW.RAZOR-09 has used a context menu option with the name: vendor_edit
+[23:25:00	]OCIN:AI used command '/PingVorts'.
+[23:25:02	]Frank Mazzarelli has gone afk.
+[23:26:08	]S10/EOW.RAZOR-09 has used a context menu option with the name: vendor_edit
+[23:26:27	]S10/EOW.RAZOR-09 has used a context menu option with the name: vendor_edit
+[23:26:33	]S10/EOW.RAZOR-09 has used a context menu option with the name: vendor_edit
+[23:27:06	]S10/EOW.RAZOR-09 has spawned 'models/props_combine/headcrabcannister01a.mdl'.
+[23:27:14	]S10/EOW.RAZOR-09 has fired a toolgun with the name: stacker_improved
+[23:27:14	]S10/EOW.RAZOR-09 has spawned 'models/props_combine/headcrabcannister01a.mdl'.
+[23:27:14	]S10/EOW.RAZOR-09 has spawned 'models/props_combine/headcrabcannister01a.mdl'.
+[23:27:24	]S10/EOW.RAZOR-09 has fired a toolgun with the name: stacker_improved
+[23:27:24	]S10/EOW.RAZOR-09 has spawned 'models/props_combine/headcrabcannister01a.mdl'.
+[23:27:27	]S10/EOW.RAZOR-09 has fired a toolgun with the name: stacker_improved
+[23:27:27	]S10/EOW.RAZOR-09 has spawned 'models/props_combine/headcrabcannister01a.mdl'.
+[23:27:29	]Manhack has spawned a 'NPC [441][npc_combine_camera]'.
+[23:27:31	]S10/EOW.RAZOR-09 has spawned 'models/props_combine/weaponstripper.mdl'.
+[23:27:35	]Manhack has spawned a 'NPC [444][npc_combine_camera]'.
+[23:27:43	]Manhack has spawned a 'NPC [441][npc_combine_camera]'.
+[23:27:46	]OCIN:AI exited observer at their location.
+[23:27:49	]Manhack has spawned a 'NPC [487][npc_combine_camera]'.
+[23:27:52	]Manhack has used a context menu option with the name: persist
+[23:27:53	]Manhack has used a context menu option with the name: persist
+[23:28:04	]Manhack has used a context menu option with the name: remove
+[23:28:08	]Manhack has spawned a 'NPC [487][npc_combine_camera]'.
+[23:28:08	]S10/EOW.RAZOR-09 has spawned 'models/props_combine/combine_intmonitor001.mdl'.
+[23:28:14	]OCIN:AI has spawned 'models/props_combine/soldier_bed.mdl'.
+[23:28:23	]Manhack has spawned a 'NPC [441][npc_combine_camera]'.
+[23:28:24	]Manhack has spawned a 'NPC [488][npc_combine_camera]'.
+[23:28:26	]S10/EOW.RAZOR-09 has spawned 'models/props_combine/health_charger001.mdl'.
+[23:28:31	]S10/EOW.RAZOR-09 has spawned 'models/props_combine/suit_charger001.mdl'.
+[23:28:44	]Manhack has spawned a 'NPC [443][npc_combine_camera]'.
+[23:28:47	]OCIN:AI has fired a toolgun with the name: stacker_improved
+[23:28:47	]OCIN:AI has spawned 'models/props_combine/soldier_bed.mdl'.
+[23:28:49	]OCIN:AI has fired a toolgun with the name: stacker_improved
+[23:28:49	]OCIN:AI has spawned 'models/props_combine/soldier_bed.mdl'.
+[23:28:50	]OCIN:AI has fired a toolgun with the name: stacker_improved
+[23:28:50	]OCIN:AI has spawned 'models/props_combine/soldier_bed.mdl'.
+[23:28:51	]OCIN:AI has fired a toolgun with the name: stacker_improved
+[23:28:51	]OCIN:AI has spawned 'models/props_combine/soldier_bed.mdl'.
+[23:28:52	]OCIN:AI has fired a toolgun with the name: stacker_improved
+[23:28:52	]OCIN:AI has spawned 'models/props_combine/soldier_bed.mdl'.
+[23:28:54	]OCIN:AI has fired a toolgun with the name: stacker_improved
+[23:28:54	]OCIN:AI has spawned 'models/props_combine/soldier_bed.mdl'.
+[23:28:55	]Manhack has spawned a 'NPC [580][npc_combine_camera]'.
+[23:28:56	]Manhack has spawned a 'NPC [596][npc_combine_camera]'.
+[23:28:57	]OCIN:AI has used a context menu option with the name: remove
+[23:28:59	]OCIN:AI has used a context menu option with the name: remove
+[23:29:00	]OCIN:AI has used a context menu option with the name: remove
+[23:29:07	]Manhack has spawned a 'NPC [417][npc_combine_camera]'.
+[23:29:20	]Manhack has used a context menu option with the name: persist
+[23:29:23	]Manhack has used a context menu option with the name: persist
+[23:29:25	]OCIN:AI has enabled persistence for 'models/props_combine/soldier_bed.mdl'.
+[23:29:25	]OCIN:AI has used a context menu option with the name: persist
+[23:29:25	]OCIN:AI has enabled persistence for 'models/props_combine/soldier_bed.mdl'.
+[23:29:25	]OCIN:AI has used a context menu option with the name: persist
+[23:29:26	]S10/EOW.RAZOR-09 has spawned 'models/props_combine/combine_smallmonitor001.mdl'.
+[23:29:26	]Manhack has used a context menu option with the name: persist
+[23:29:26	]OCIN:AI has enabled persistence for 'models/props_combine/soldier_bed.mdl'.
+[23:29:26	]OCIN:AI has used a context menu option with the name: persist
+[23:29:27	]OCIN:AI has enabled persistence for 'models/props_combine/soldier_bed.mdl'.
+[23:29:27	]OCIN:AI has used a context menu option with the name: persist
+[23:29:43	]S10/EOW.RAZOR-09 has spawned 'models/props_combine/breenconsole.mdl'.
+[23:29:48	]OCIN:AI entered observer.
+[23:29:50	]OCIN:AI exited observer at their location.
+[23:29:55	]S10/EOW.RAZOR-09 has spawned 'models/props_combine/combinebutton.mdl'.
+[23:30:02	]Manhack has spawned 'models/props_combine/combine_bridge_b.mdl'.
+[23:30:07	][IC] OCIN:AI: Complete sentencing at will.
+[23:30:09	]OCIN:AI entered observer.
+[23:30:11	]OCIN:AI used command '/I COMPLETE SENTENCING2'.
+[23:30:14	]Manhack has spawned 'models/props_combine/combine_bridge.mdl'.
+[23:30:19	]Manhack has fired a toolgun with the name: nocollideworld
+[23:30:29	]Manhack has enabled persistence for 'models/props_combine/combine_bridge.mdl'.
+[23:30:29	]Manhack has used a context menu option with the name: persist
+[23:30:35	]S10/EOW.RAZOR-09 has spawned 'models/props_combine/combine_intmonitor003.mdl'.
+[23:30:39	]Manhack has fired a toolgun with the name: ladder
+[23:30:40	]Manhack has fired a toolgun with the name: ladder
+[23:30:41	]S10/EOW.RAZOR-09 has spawned 'models/props_combine/combine_interface001.mdl'.
+[23:30:42	]Manhack has used a context menu option with the name: ladder_persist
+[23:30:42	]Manhack exited observer at their location.
+[23:30:45	]S10/EOW.RAZOR-09 has spawned 'models/props_combine/combine_interface002.mdl'.
+[23:30:49	]Manhack entered observer.
+[23:30:50	]Manhack exited observer at their location.
+[23:30:50	]Manhack entered observer.
+[23:30:51	]Manhack exited observer at their location.
+[23:30:56	]Manhack entered observer.
+[23:31:02	]Frank Mazzarelli is no longer afk. Total time spent AFK: 655
+[23:31:07	]Manhack has fired a toolgun with the name: ladder
+[23:31:08	]Manhack has fired a toolgun with the name: ladder
+[23:31:08	]Frank Mazzarelli entered observer.
+[23:31:09	]Manhack exited observer at their location.
+[23:31:09	]Frank Mazzarelli exited observer at their location.
+[23:31:10	]Manhack has used a context menu option with the name: ladder_persist
+[23:31:14	]Frank Mazzarelli entered observer.
+[23:31:14	]Manhack entered observer.
+[23:31:19	]OCIN:AI used command '/PlaySound npc/overwatch/radiovoice/completesentencingatwill.wav 300'.
+[23:31:21	]Frank Mazzarelli exited observer at their location.
+[23:31:25	]Manhack has spawned a 'NPC [605][npc_combine_camera]'.
+[23:31:26	]Manhack has spawned a 'NPC [615][npc_combine_camera]'.
+[23:31:30	]Manhack has used a context menu option with the name: persist
+[23:31:33	]S10/EOW.RAZOR-09 has enabled persistence for 'models/props_combine/combine_intmonitor001.mdl'.
+[23:31:33	]S10/EOW.RAZOR-09 has used a context menu option with the name: persist
+[23:31:34	]S10/EOW.RAZOR-09 has enabled persistence for 'models/props_combine/combine_smallmonitor001.mdl'.
+[23:31:34	]S10/EOW.RAZOR-09 has used a context menu option with the name: persist
+[23:31:35	]Frank Mazzarelli entered observer.
+[23:31:35	]Frank Mazzarelli exited observer at their location.
+[23:31:36	]Manhack has spawned a 'NPC [600][npc_combine_camera]'.
+[23:31:36	]S10/EOW.RAZOR-09 has enabled persistence for 'models/props_combine/breenconsole.mdl'.
+[23:31:36	]S10/EOW.RAZOR-09 has used a context menu option with the name: persist
+[23:31:37	]S10/EOW.RAZOR-09 has enabled persistence for 'models/props_combine/combinebutton.mdl'.
+[23:31:37	]S10/EOW.RAZOR-09 has used a context menu option with the name: persist
+[23:31:38	]S10/EOW.RAZOR-09 has enabled persistence for 'models/props_combine/combine_interface002.mdl'.
+[23:31:38	]S10/EOW.RAZOR-09 has used a context menu option with the name: persist
+[23:31:38	]Manhack has spawned a 'NPC [600][npc_combine_camera]'.
+[23:31:39	]S10/EOW.RAZOR-09 has enabled persistence for 'models/props_combine/combine_intmonitor003.mdl'.
+[23:31:39	]S10/EOW.RAZOR-09 has used a context menu option with the name: persist
+[23:31:41	]Manhack has used a context menu option with the name: persist
+[23:31:43	]S10/EOW.RAZOR-09 has enabled persistence for 'models/props_combine/health_charger001.mdl'.
+[23:31:43	]S10/EOW.RAZOR-09 has used a context menu option with the name: persist
+[23:31:44	]S10/EOW.RAZOR-09 has enabled persistence for 'models/props_combine/suit_charger001.mdl'.
+[23:31:44	]S10/EOW.RAZOR-09 has used a context menu option with the name: persist
+[23:31:50	]S10/EOW.RAZOR-09 has spawned 'models/Items/ammocrate_grenade.mdl'.
+[23:31:53	]S10/EOW.RAZOR-09 has spawned 'models/Items/ammocrate_smg1.mdl'.
+[23:31:55	]OCIN:AI exited observer at their location.
+[23:31:55	]S10/EOW.RAZOR-09 has spawned 'models/Items/ammoCrate_Rockets.mdl'.
+[23:31:58	]S10/EOW.RAZOR-09 has spawned 'models/Items/ammocrate_ar2.mdl'.
+[23:32:07	]Manhack exited observer at their location.
+[23:32:08	]Manhack entered observer.
+[23:32:12	]Frank Mazzarelli has used a context menu option with the name: remove
+[23:32:12	]Manhack exited observer at their location.
+[23:32:15	]Manhack entered observer.
+[23:32:16	]Frank Mazzarelli entered observer.
+[23:32:18	]Frank Mazzarelli exited observer at their location.
+[23:32:23	]OCIN:AI entered observer.
+[23:32:24	]S10/EOW.RAZOR-09 has spawned 'models/Items/item_item_crate.mdl'.
+[23:32:25	]Frank Mazzarelli has used a context menu option with the name: rb655_func_movelinear_open
+[23:32:27	]Manhack has spawned 'models/props_combine/combine_booth_med01a.mdl'.
+[23:32:31	]Frank Mazzarelli has used a context menu option with the name: rb655_func_movelinear_close
+[23:32:32	]Manhack has fired a toolgun with the name: nocollideworld
+[23:32:34	]S10/EOW.RAZOR-09 has enabled persistence for 'models/items/ammocrate_grenade.mdl'.
+[23:32:34	]S10/EOW.RAZOR-09 has used a context menu option with the name: persist
+[23:32:35	]S10/EOW.RAZOR-09 has enabled persistence for 'models/items/ammocrate_ar2.mdl'.
+[23:32:35	]S10/EOW.RAZOR-09 has used a context menu option with the name: persist
+[23:32:40	]Manhack exited observer at their location.
+[23:32:42	]Manhack entered observer.
+[23:32:43	]Frank Mazzarelli entered observer.
+[23:32:45	]Frank Mazzarelli exited observer at their location.
+[23:32:47	][OOC] Frank Mazzarelli: ahfuck
+[23:32:47	]Manhack has enabled persistence for 'models/props_combine/combine_booth_med01a.mdl'.
+[23:32:47	]Manhack has used a context menu option with the name: persist
+[23:32:53	]Manhack has fired a toolgun with the name: ladder
+[23:32:53	]OCIN:AI used command '/PlaySound npc/overwatch/radiovoice/attention.wav 300'.
+[23:32:53	]Manhack has fired a toolgun with the name: ladder
+[23:32:55	]OCIN:AI used command '/PlaySound npc/overwatch/radiovoice/attention.wav 300'.
+[23:32:56	]OCIN:AI used command '/PlaySound npc/overwatch/radiovoice/attention.wav 300'.
+[23:32:57	]OCIN:AI used command '/PlaySound npc/overwatch/radiovoice/attention.wav 300'.
+[23:32:57	]Manhack has fired a toolgun with the name: ladder
+[23:32:57	]OCIN:AI used command '/PlaySound npc/overwatch/radiovoice/attention.wav 300'.
+[23:32:57	]S10/EOW.RAZOR-09 has spawned 'models/props_combine/combine_intwallunit.mdl'.
+[23:32:58	]Manhack has fired a toolgun with the name: ladder
+[23:32:58	]OCIN:AI used command '/PlaySound npc/overwatch/radiovoice/attention.wav 300'.
+[23:32:59	]OCIN:AI used command '/PlaySound npc/overwatch/radiovoice/attention.wav 300'.
+[23:32:59	]OCIN:AI used command '/PlaySound npc/overwatch/radiovoice/attention.wav 300'.
+[23:33:00	]OCIN:AI used command '/PlaySound npc/overwatch/radiovoice/attention.wav 300'.
+[23:33:00	]Manhack has fired a toolgun with the name: ladder
+[23:33:01	]Manhack has fired a toolgun with the name: ladder
+[23:33:01	]OCIN:AI used command '/PlaySound npc/overwatch/radiovoice/attention.wav 300'.
+[23:33:01	]OCIN:AI used command '/PlaySound npc/overwatch/radiovoice/attention.wav 300'.
+[23:33:02	]Manhack exited observer at their location.
+[23:33:02	]OCIN:AI used command '/PlaySound npc/overwatch/radiovoice/attention.wav 300'.
+[23:33:02	]Manhack entered observer.
+[23:33:03	]Manhack exited observer at their location.
+[23:33:03	]Manhack entered observer.
+[23:33:04	]S10/EOW.RAZOR-09 has enabled persistence for 'models/props_combine/combine_intwallunit.mdl'.
+[23:33:04	]S10/EOW.RAZOR-09 has used a context menu option with the name: persist
+[23:33:08	]Manhack exited observer at their location.
+[23:33:11	]S10/EOW.RAZOR-09 has used a context menu option with the name: keepupright
+[23:33:13	]OCIN:AI used command '/PlaySound npc/overwatch/radiovoice/attentionyouhavebeenchargedwith.wav 300'.
+[23:33:14	]S10/EOW.RAZOR-09 has used a context menu option with the name: keepupright
+[23:33:15	]S10/EOW.RAZOR-09 has used a context menu option with the name: keepupright
+[23:33:15	]Manhack has used a context menu option with the name: ladder_persist
+[23:33:18	]Manhack entered observer.
+[23:33:23	]OCIN:AI used command '/PlaySound npc/overwatch/radiovoice/attemptedcrime27.wav 300'.
+[23:33:29	]Manhack has used a context menu option with the name: remove
+[23:33:34	]Manhack has fired a toolgun with the name: ladder
+[23:33:34	]Manhack has fired a toolgun with the name: ladder
+[23:33:37	]Manhack has fired a toolgun with the name: ladder
+[23:33:37	]Manhack has fired a toolgun with the name: ladder
+[23:33:39	][IC] OCIN:AI: Attention attention; you have been charged with 27; attempted crime.
+[23:33:39	]S10/EOW.RAZOR-09 entered observer.
+[23:33:39	]Manhack has fired a toolgun with the name: ladder
+[23:33:40	]Manhack has fired a toolgun with the name: ladder
+[23:33:42	]Manhack exited observer at their location.
+[23:33:44	]Manhack has used a context menu option with the name: ladder_persist
+[23:33:45	]S10/EOW.RAZOR-09 used the 'Overwatch Armory' vendor.
+[23:33:45	][OOC] Frank Mazzarelli: i deleted a prop that was actually a secret door, will it come back when map is reloaded?
+[23:33:46	]Manhack entered observer.
+[23:33:48	]Frank Mazzarelli entered observer.
+[23:33:49	]S10/EOW.RAZOR-09 ran SAM command 'goto' with arguments: 'man'
+[23:33:50	]Frank Mazzarelli exited observer at their location.
+[23:33:52	][IC] OCIN:AI: Attention; you have been charged with 27; attempted crime.
+[23:33:56	]Manhack exited observer at their location.
+[23:33:59	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:34:00	]S10/EOW.RAZOR-09 entered observer.
+[23:34:10	]Manhack entered observer.
+[23:34:11	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:34:13	]Frank Mazzarelli entered observer.
+[23:34:16	][IC] OCIN:AI: Attention; you have been charged with 243; assault on protection-team.
+[23:34:17	]Manhack has fired a toolgun with the name: remover
+[23:34:19	]Manhack has fired a toolgun with the name: remover
+[23:34:19	]Frank Mazzarelli exited observer at their location.
+[23:34:20	]Frank Mazzarelli entered observer.
+[23:34:21	]S10/EOW.RAZOR-09 entered observer.
+[23:34:24	]Frank Mazzarelli exited observer at their location.
+[23:34:24	]Manhack has disabled persistence for 'models/props_combine/combine_bridge.mdl'.
+[23:34:24	]Manhack has used a context menu option with the name: persist_end
+[23:34:31	]Manhack has fired a toolgun with the name: nocollideworld
+[23:34:31	]OCIN:AI exited observer at their location.
+[23:34:32	]Manhack has fired a toolgun with the name: nocollideworld
+[23:34:33	]Frank Mazzarelli has spawned 'models/props_wasteland/kitchen_fridge001a.mdl'.
+[23:34:34	]OCIN:AI entered observer.
+[23:34:37	]Frank Mazzarelli has fired a toolgun with the name: nocollideworld
+[23:34:48	]Manhack exited observer at their location.
+[23:34:51	]Manhack entered observer.
+[23:34:52	]Manhack exited observer at their location.
+[23:34:54	]Manhack entered observer.
+[23:34:58	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:35:00	]S10/EOW.RAZOR-09 entered observer.
+[23:35:02	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:35:04	]S10/EOW.RAZOR-09 has spawned 'models/props_combine/combine_barricade_short02a.mdl'.
+[23:35:04	]Manhack has used a context menu option with the name: remove
+[23:35:06	]Manhack has disabled persistence for 'models/props_combine/combine_booth_med01a.mdl'.
+[23:35:06	]Manhack has used a context menu option with the name: persist_end
+[23:35:08	]Manhack has enabled persistence for 'models/props_combine/combine_booth_med01a.mdl'.
+[23:35:08	]Manhack has used a context menu option with the name: persist
+[23:35:08	]Frank Mazzarelli has fired a toolgun with the name: nocollideworld
+[23:35:08	]Manhack exited observer at their location.
+[23:35:11	]S10/EOW.RAZOR-09 entered observer.
+[23:35:13	]Manhack entered observer.
+[23:35:14	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:35:14	]Manhack has fired a toolgun with the name: ladder
+[23:35:15	]Manhack has fired a toolgun with the name: ladder
+[23:35:16	]Manhack exited observer at their location.
+[23:35:18	]Manhack has used a context menu option with the name: ladder_persist
+[23:35:19	]S10/EOW.RAZOR-09 entered observer.
+[23:35:22	]Manhack entered observer.
+[23:35:25	]Manhack has fired a toolgun with the name: nocollideworld
+[23:35:26	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:35:27	]Manhack exited observer at their location.
+[23:35:28	]Manhack entered observer.
+[23:35:31	]S10/EOW.RAZOR-09 entered observer.
+[23:35:32	]Manhack exited observer at their location.
+[23:35:35	]Manhack entered observer.
+[23:35:36	]Frank Mazzarelli has spawned 'models/props_furniture/kitchen_countertop1.mdl'.
+[23:35:38	]Frank Mazzarelli has spawned 'models/props/cs_office/cabinet_kitchen01.mdl'.
+[23:35:39	]Manhack exited observer at their location.
+[23:35:40	]Manhack entered observer.
+[23:35:46	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:35:46	]Manhack has fired a toolgun with the name: ladder
+[23:35:47	]Manhack has fired a toolgun with the name: ladder
+[23:35:47	]S10/EOW.RAZOR-09 entered observer.
+[23:35:47	]Manhack exited observer at their location.
+[23:35:49	]Manhack has used a context menu option with the name: ladder_persist
+[23:35:57	]Frank Mazzarelli has spawned 'models/props_wasteland/kitchen_shelf001a.mdl'.
+[23:36:08	]Manhack entered observer.
+[23:36:09	]Manhack exited observer at their location.
+[23:36:09	]Frank Mazzarelli has spawned 'models/props_c17/furniturefridge001a.mdl'.
+[23:36:14	]Manhack entered observer.
+[23:36:15	]Manhack exited observer at their location.
+[23:36:16	]Frank Mazzarelli has enabled persistence for 'models/props_wasteland/kitchen_fridge001a.mdl'.
+[23:36:16	]Frank Mazzarelli has used a context menu option with the name: persist
+[23:36:18	]Frank Mazzarelli created a 'Refrigerator' container.
+[23:36:18	]Frank Mazzarelli has used a context menu option with the name: wncontainer_create
+[23:36:18	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:36:19	]Manhack entered observer.
+[23:36:19	]S10/EOW.RAZOR-09 entered observer.
+[23:36:20	]Manhack exited observer at their location.
+[23:36:21	]Frank Mazzarelli has set the 'Refrigerator' container (#71552) to private, owned by 'character[11547]'.
+[23:36:21	]Frank Mazzarelli has used a context menu option with the name: wncontainer_setprivate
+[23:36:22	]Manhack entered observer.
+[23:36:22	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:36:22	]Manhack exited observer at their location.
+[23:36:23	]Frank Mazzarelli has enabled persistence for 'models/props_wasteland/kitchen_shelf001a.mdl'.
+[23:36:23	]Frank Mazzarelli has used a context menu option with the name: persist
+[23:36:24	]S10/EOW.RAZOR-09 entered observer.
+[23:36:24	]Manhack entered observer.
+[23:36:25	]Manhack exited observer at their location.
+[23:36:25	]Manhack entered observer.
+[23:36:25	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:36:26	]S10/EOW.RAZOR-09 entered observer.
+[23:36:27	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:36:32	]Frank Mazzarelli has spawned 'models/props_furniture/kitchen_vent1.mdl'.
+[23:36:33	]Manhack exited observer at their location.
+[23:36:39	]Manhack entered observer.
+[23:36:41	]Manhack exited observer at their location.
+[23:36:46	]Manhack entered observer.
+[23:36:48	]Manhack exited observer at their location.
+[23:36:48	]Frank Mazzarelli has used a context menu option with the name: remove
+[23:36:51	]S10/EOW.RAZOR-09 entered observer.
+[23:36:54	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:37:06	]Manhack entered observer.
+[23:37:06	]Frank Mazzarelli has spawned 'models/props/gg_tibet/oven_small01.mdl'.
+[23:37:08	]Manhack exited observer at their location.
+[23:37:10	]Frank Mazzarelli has spawned 'models/willardnetworks/skills/oven_shit.mdl'.
+[23:37:23	]Frank Mazzarelli has spawned 'models/props_interiors/stove03_industrial.mdl'.
+[23:37:26	]Frank Mazzarelli has spawned 'models/props_wasteland/kitchen_stove001a.mdl'.
+[23:37:45	]Frank Mazzarelli has enabled persistence for 'models/props_furniture/kitchen_vent1.mdl'.
+[23:37:45	]Frank Mazzarelli has used a context menu option with the name: persist
+[23:37:47	]Manhack entered observer.
+[23:37:49	]Frank Mazzarelli has used a context menu option with the name: remove
+[23:38:01	]Manhack exited observer at their location.
+[23:38:01	]Manhack entered observer.
+[23:38:07	]Frank Mazzarelli entered observer.
+[23:38:09	]Frank Mazzarelli exited observer at their location.
+[23:38:09	]Frank Mazzarelli entered observer.
+[23:38:09	]Frank Mazzarelli exited observer at their location.
+[23:38:09	]S10/EOW.RAZOR-09 entered observer.
+[23:38:21	]Manhack exited observer at their location.
+[23:38:22	]Frank Mazzarelli used command '/ToggleGM'.
+[23:38:23	]Manhack entered observer.
+[23:38:23	]Manhack exited observer at their location.
+[23:38:24	]Manhack entered observer.
+[23:38:24	]Frank Mazzarelli used command '/ToggleGM'.
+[23:38:24	]S10:SCN-8 used command '/CharSetName OCIN:AI S10:SCN-8'.
+[23:38:26	]Manhack exited observer at their location.
+[23:38:27	]S10:SCN-8 exited observer at their location.
+[23:38:27	]Manhack entered observer.
+[23:38:30	]S10:SCN-8 ran SAM command 'slay' with arguments: '^'
+[23:38:31	]Jei (STEAM_0:1:108198228) has disconnected.
+[23:38:36	]Manhack exited observer at their location.
+[23:38:38	]Frank Mazzarelli has spawned 'models/props_wasteland/kitchen_stove001a.mdl'.
+[23:38:42	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:38:44	]Frank Mazzarelli has enabled persistence for 'models/props_wasteland/kitchen_stove001a.mdl'.
+[23:38:44	]Frank Mazzarelli has used a context menu option with the name: persist
+[23:38:44	]Frank Mazzarelli entered observer.
+[23:38:45	]S10/EOW.RAZOR-09 entered observer.
+[23:38:45	]Frank Mazzarelli exited observer at their location.
+[23:38:46	]Frank Mazzarelli entered observer.
+[23:38:47	]Frank Mazzarelli exited observer at their location.
+[23:38:47	]Frank Mazzarelli entered observer.
+[23:38:51	]Frank Mazzarelli exited observer at their location.
+[23:38:52	]Manhack entered observer.
+[23:39:00	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:39:05	]Frank Mazzarelli has spawned 'models/items/item_item_crate.mdl'.
+[23:39:06	]Manhack exited observer at their location.
+[23:39:06	]Manhack entered observer.
+[23:39:10	]Frank Mazzarelli has spawned 'models/items/item_item_crate.mdl'.
+[23:39:13	]S10/EOW.RAZOR-09 has spawned 'models/props_combine/combine_barricade_short02a.mdl'.
+[23:39:15	]Frank Mazzarelli created a 'Item Crate' container.
+[23:39:15	]Frank Mazzarelli has used a context menu option with the name: wncontainer_create
+[23:39:16	]Frank Mazzarelli created a 'Item Crate' container.
+[23:39:16	]Frank Mazzarelli has used a context menu option with the name: wncontainer_create
+[23:39:30	]Frank Mazzarelli entered observer.
+[23:39:32	]Frank Mazzarelli exited observer at their location.
+[23:39:42	]Frank Mazzarelli has spawned 'models/props_wasteland/kitchen_shelf001a.mdl'.
+[23:39:52	]Frank Mazzarelli has spawned 'models/props_wasteland/kitchen_shelf002a.mdl'.
+[23:40:27	]Jei has connected.
+[23:40:43	]Frank Mazzarelli entered observer.
+[23:40:44	]Frank Mazzarelli exited observer at their location.
+[23:40:51	]S10/EOW.RAZOR-09 entered observer.
+[23:40:52	]Frank Mazzarelli entered observer.
+[23:40:53	]Frank Mazzarelli exited observer at their location.
+[23:40:54	]Manhack exited observer at their location.
+[23:40:55	]Manhack entered observer.
+[23:40:57	]Manhack exited observer at their location.
+[23:40:58	]Manhack entered observer.
+[23:41:08	]Frank Mazzarelli has spawned 'models/props_c17/furnituretable001a_static.mdl'.
+[23:41:17	]Jei loaded the character 'S10:SCN-8'
+[23:41:19	]Manhack exited observer at their location.
+[23:41:23	]Frank Mazzarelli has spawned 'models/nova/chair_wood01.mdl'.
+[23:41:23	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:41:27	]Manhack entered observer.
+[23:41:31	]Frank Mazzarelli has spawned 'models/nova/chair_wood01.mdl'.
+[23:41:36	]S10/EOW.RAZOR-09 has enabled persistence for 'models/props_combine/combine_barricade_short02a.mdl'.
+[23:41:36	]S10/EOW.RAZOR-09 has used a context menu option with the name: persist
+[23:41:39	]S10/EOW.RAZOR-09 entered observer.
+[23:41:39	]Manhack exited observer at their location.
+[23:41:40	]Frank Mazzarelli has spawned a usable entity class 'ix_chair' with model 'models/nova/chair_wood01.mdl'.
+[23:41:40	]Frank Mazzarelli has used a context menu option with the name: ixusableentitycreate
+[23:41:41	]Frank Mazzarelli has enabled persistence for 'models/props_c17/furnituretable001a_static.mdl'.
+[23:41:41	]Frank Mazzarelli has used a context menu option with the name: persist
+[23:41:41	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:41:42	]Frank Mazzarelli has enabled persistence for 'models/nova/chair_wood01.mdl'.
+[23:41:42	]Frank Mazzarelli has used a context menu option with the name: persist
+[23:41:42	]Manhack entered observer.
+[23:41:43	]Manhack exited observer at their location.
+[23:41:44	]Manhack entered observer.
+[23:41:45	]Manhack exited observer at their location.
+[23:41:47	]Frank Mazzarelli has spawned 'models/props_junk/garbage_cerealbox01a.mdl'.
+[23:41:52	]S10:SCN-8 used command '/ToggleGM'.
+[23:41:52	]S10/EOW.RAZOR-09 entered observer.
+[23:41:57	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:42:01	]S10/EOW.RAZOR-09 entered observer.
+[23:42:01	]Frank Mazzarelli has enabled persistence for 'models/props_junk/garbage_cerealbox01a.mdl'.
+[23:42:01	]Frank Mazzarelli has used a context menu option with the name: persist
+[23:42:08	]Frank Mazzarelli has spawned 'models/props/de_dust/hr_dust/dust_garbage_container/dust_trash_bag_pile.mdl'.
+[23:42:11	]Frank Mazzarelli has enabled persistence for 'models/props/de_dust/hr_dust/dust_garbage_container/dust_trash_bag_pile.mdl'.
+[23:42:11	]Frank Mazzarelli has used a context menu option with the name: persist
+[23:42:17	]Manhack used command '/CharFallOver 1'.
+[23:42:17	]Manhack has taken 50 damage from worldspawn.
+[23:42:19	]Manhack used command '/CharGetUp'.
+[23:42:22	]Frank Mazzarelli has spawned 'models/props_street/trashbin01.mdl'.
+[23:42:30	]Manhack has taken 14 damage from worldspawn.
+[23:42:30	]S10:SCN-8 used command '/Dispatch CHARGED CAPITAL MALCOMPLIANCE'.
+[23:42:32	]Manhack entered observer.
+[23:42:32	]Frank Mazzarelli has spawned 'models/props/cs_office/trash_can.mdl'.
+[23:42:40	]Frank Mazzarelli has enabled persistence for 'models/props/cs_office/trash_can.mdl'.
+[23:42:40	]Frank Mazzarelli has used a context menu option with the name: persist
+[23:42:40	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:42:41	]Frank Mazzarelli created a 'Small Trash Bin' container.
+[23:42:41	]Frank Mazzarelli has used a context menu option with the name: wncontainer_create
+[23:42:42	]S10/EOW.RAZOR-09 entered observer.
+[23:42:52	]Frank Mazzarelli has spawned 'models/props_street/trashbin01.mdl'.
+[23:42:56	]Manhack exited observer at their location.
+[23:42:56	]Manhack was knocked unconscious and is bleeding out.
+[23:42:57	]Frank Mazzarelli created a 'Trash Bin' container.
+[23:42:57	]Frank Mazzarelli has used a context menu option with the name: wncontainer_create
+[23:43:06	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:43:07	][IC] S10/EOW.RAZOR-09: <:: Dead. ::>
+[23:43:08	]Manhack ran SAM command 'respawn' with arguments: 'manhack'
+[23:43:09	]Manhack is fully healed.
+[23:43:15	]Frank Mazzarelli has spawned 'models/props_junk/trashcluster01a.mdl'.
+[23:43:16	]Manhack used command '/DarwinAward manhack'.
+[23:43:22	]Imperator RAD-X (STEAM_0:0:13089494) has disconnected.
+[23:43:29	]Frank Mazzarelli entered observer.
+[23:43:31	]Frank Mazzarelli exited observer at their location.
+[23:43:33	][OOC] Frank Mazzarelli: hmm
+[23:43:41	]S10:SCN-8 used command '/Dispatch CONCURRENT DEPLOYMENT'.
+[23:43:49	]Frank Mazzarelli has used a context menu option with the name: skin
+[23:43:50	]Frank Mazzarelli has used a context menu option with the name: skin
+[23:43:51	]Frank Mazzarelli has enabled persistence for 'models/props_junk/trashcluster01a.mdl'.
+[23:43:51	]Frank Mazzarelli has used a context menu option with the name: persist
+[23:43:54	]Frank Mazzarelli has disabled persistence for 'models/props_junk/trashcluster01a.mdl'.
+[23:43:54	]Frank Mazzarelli has used a context menu option with the name: persist_end
+[23:43:54	]Frank Mazzarelli entered observer.
+[23:43:58	]Frank Mazzarelli has fired a toolgun with the name: nocollideworld
+[23:44:01	]S10/EOW.RAZOR-09 entered observer.
+[23:44:02	]Frank Mazzarelli has enabled persistence for 'models/props_junk/trashcluster01a.mdl'.
+[23:44:02	]Frank Mazzarelli has used a context menu option with the name: persist
+[23:44:04	]Frank Mazzarelli exited observer at their location.
+[23:44:10	]Frank Mazzarelli has fired a toolgun with the name: nocollideworld
+[23:44:10	]Frank Mazzarelli has fired a toolgun with the name: nocollideworld
+[23:44:49	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:44:50	]S10/EOW.RAZOR-09 entered observer.
+[23:44:54	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:44:55	]S10/EOW.RAZOR-09 entered observer.
+[23:45:12	]Frank Mazzarelli has spawned a 'Entity [233][ix_garbage]'.
+[23:45:19	]Frank Mazzarelli has spawned a 'Entity [234][ix_trashspawner]'.
+[23:45:35	]S10:SCN-8 entered observer.
+[23:45:36	]S10:SCN-8 entered observer.
+[23:45:36	]S10:SCN-8 entered observer.
+[23:45:37	]S10:SCN-8 entered observer.
+[23:45:39	]S10:SCN-8 entered observer.
+[23:45:40	]S10:SCN-8 entered observer.
+[23:45:41	]S10:SCN-8 entered observer.
+[23:45:48	]S10:SCN-8 entered observer.
+[23:45:49	]S10:SCN-8 entered observer.
+[23:45:49	]S10:SCN-8 entered observer.
+[23:45:49	]S10:SCN-8 entered observer.
+[23:45:49	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:45:51	]S10/EOW.RAZOR-09 entered observer.
+[23:45:52	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:45:53	]S10/EOW.RAZOR-09 entered observer.
+[23:45:55	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:45:55	]Frank Mazzarelli entered observer.
+[23:45:57	]S10/EOW.RAZOR-09 entered observer.
+[23:45:59	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:46:01	]S10/EOW.RAZOR-09 entered observer.
+[23:46:04	]Frank Mazzarelli exited observer at their location.
+[23:46:05	]Frank Mazzarelli entered observer.
+[23:46:13	]Imperator RAD-X has connected.
+[23:46:19	]Frank Mazzarelli exited observer at their location.
+[23:46:24	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:46:35	]S10/EOW.RAZOR-09 entered observer.
+[23:46:52	]Frank Mazzarelli has spawned 'models/props_vehicles/carparts_tire01a.mdl'.
+[23:46:55	]Frank Mazzarelli has spawned 'models/props_vehicles/tire001b_truck.mdl'.
+[23:47:09	]S10/EOW.RAZOR-09 has used a context menu option with the name: vendor_edit
+[23:47:18	]Frank Mazzarelli entered observer.
+[23:47:26	]Frank Mazzarelli has fired a toolgun with the name: rope
+[23:47:33	]Frank Mazzarelli has fired a toolgun with the name: rope
+[23:47:39	]Frank Mazzarelli has fired a toolgun with the name: rope
+[23:47:41	]Frank Mazzarelli has fired a toolgun with the name: rope
+[23:47:44	]Frank Mazzarelli has fired a toolgun with the name: rope
+[23:47:59	]Frank Mazzarelli has spawned 'models/hunter/blocks/cube025x025x025.mdl'.
+[23:48:18	]Frank Mazzarelli has fired a toolgun with the name: rope
+[23:48:20	]Frank Mazzarelli has fired a toolgun with the name: rope
+[23:48:28	]S10/EOW.RAZOR-09 has used a context menu option with the name: rb655_door_close
+[23:48:32	]Frank Mazzarelli has fired a toolgun with the name: rope
+[23:48:35	]Frank Mazzarelli has fired a toolgun with the name: rope
+[23:48:38	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:48:45	]Frank Mazzarelli exited observer at their location.
+[23:48:49	]Frank Mazzarelli has used a context menu option with the name: gravity
+[23:48:53	]Frank Mazzarelli has used a context menu option with the name: gravity
+[23:48:54	]S10/EOW.RAZOR-09 entered observer.
+[23:49:07	]S10:SCN-8 used command '/Dispatch POTENTIAL INFECTION'.
+[23:49:14	]Imperator RAD-X loaded the character 'Manhack'
+[23:49:18	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:49:18	]Frank Mazzarelli has spawned 'models/props_c17/chair_stool01a.mdl'.
+[23:49:20	]S10/EOW.RAZOR-09 entered observer.
+[23:49:24	]Frank Mazzarelli has spawned a usable entity class 'ix_chair' with model 'models/props_c17/chair_stool01a.mdl'.
+[23:49:24	]Frank Mazzarelli has used a context menu option with the name: ixusableentitycreate
+[23:49:30	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:49:31	]Frank Mazzarelli has fired a toolgun with the name: nocollideworld
+[23:49:39	]Jei loaded the character 'Lt. Adriana Dish'
+[23:49:40	]Frank Mazzarelli used command '/ActSit 5'.
+[23:49:42	]Frank Mazzarelli used command '/ExitAct'.
+[23:49:44	]Frank Mazzarelli used command '/ActSit 1'.
+[23:49:46	]Lt. Adriana Dish entered observer.
+[23:49:46	]Frank Mazzarelli used command '/ExitAct'.
+[23:49:55	]Lt. Adriana Dish exited observer at their location.
+[23:50:09	]Lt. Adriana Dish entered observer.
+[23:50:18	]Frank Mazzarelli used command '/ActSit 4'.
+[23:50:20	]Frank Mazzarelli used command '/ExitAct'.
+[23:50:21	]Lt. Adriana Dish exited observer at their location.
+[23:50:22	]Frank Mazzarelli used command '/ActSit 1'.
+[23:50:23	]Frank Mazzarelli used command '/ExitAct'.
+[23:50:25	]Frank Mazzarelli used command '/ActSit 4'.
+[23:50:26	]Frank Mazzarelli used command '/ExitAct'.
+[23:50:27	]Frank Mazzarelli used command '/ActSit 3'.
+[23:50:30	]Frank Mazzarelli used command '/ExitAct'.
+[23:50:31	]Frank Mazzarelli used command '/ActSit 5'.
+[23:50:34	]Manhack entered observer.
+[23:50:34	]Lt. Adriana Dish used command '/ToggleGM'.
+[23:50:34	]Frank Mazzarelli used command '/ExitAct'.
+[23:50:35	]Lt. Adriana Dish used command '/ToggleGM'.
+[23:50:35	]Manhack exited observer at their location.
+[23:50:38	]Frank Mazzarelli has fired a toolgun with the name: weld
+[23:50:39	]Manhack entered observer.
+[23:50:40	]Frank Mazzarelli has fired a toolgun with the name: weld
+[23:50:44	]Lt. Adriana Dish entered observer.
+[23:50:45	]Frank Mazzarelli has fired a toolgun with the name: colour
+[23:50:47	][OOC] Manhack: the tree
+[23:50:48	]Frank Mazzarelli used command '/ActSit 5'.
+[23:50:51	][OOC] Manhack: x)
+[23:50:53	]Frank Mazzarelli used command '/ExitAct'.
+[23:50:53	]Lt. Adriana Dish exited observer at their location.
+[23:50:57	]Frank Mazzarelli entered observer.
+[23:50:59	]Frank Mazzarelli exited observer at their location.
+[23:51:03	][OOC] Frank Mazzarelli: cant swing tho :(
+[23:51:03	]S10/EOW.RAZOR-09 entered observer.
+[23:51:10	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:51:14	]Frank Mazzarelli used command '/ActSit 4'.
+[23:51:15	]S10/EOW.RAZOR-09 entered observer.
+[23:51:17	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:51:20	]Manhack exited observer at their location.
+[23:51:23	][LOOC] Frank Mazzarelli: nope
+[23:51:28	][IC] Manhack: <:: Wait. ::>
+[23:51:31	][IC] Manhack: <:: Stand up. ::>
+[23:51:33	][LOOC] Frank Mazzarelli: i welded the chair and evereything
+[23:51:34	]Frank Mazzarelli used command '/ExitAct'.
+[23:51:37	]Manhack has spawned a 'Vehicle [463][prop_vehicle_prisoner_pod]'.
+[23:51:56	]Manhack has used a context menu option with the name: remove
+[23:52:00	]Manhack has fired a toolgun with the name: nocollideworld
+[23:52:01	]Frank Mazzarelli has fired a toolgun with the name: nocollideworld
+[23:52:10	]Frank Mazzarelli entered observer.
+[23:52:11	]Frank Mazzarelli exited observer at their location.
+[23:52:12	][IC] Manhack: <:: Get on it again. ::>
+[23:52:16	]Frank Mazzarelli has fired a toolgun with the name: weld
+[23:52:21	]Jei (STEAM_0:1:108198228) has disconnected.
+[23:52:24	]Manhack has fired a toolgun with the name: colour
+[23:52:25	]Frank Mazzarelli entered observer.
+[23:52:26	]Manhack has fired a toolgun with the name: nocollideworld
+[23:52:29	][LOOC] Frank Mazzarelli: weld too
+[23:52:29	]Manhack has fired a toolgun with the name: weld
+[23:52:30	]Manhack has fired a toolgun with the name: weld
+[23:52:34	]Frank Mazzarelli has used a context menu option with the name: rb655_vehicle_enter
+[23:52:35	]Frank Mazzarelli exited observer at their location.
+[23:52:37	][IC] Manhack: <:: XDDD. ::>
+[23:52:38	]Frank Mazzarelli entered observer.
+[23:52:39	]Frank Mazzarelli exited observer at their location.
+[23:52:40	][IC] Frank Mazzarelli: *Cheering!*.
+[23:52:43	]Frank Mazzarelli entered observer.
+[23:52:45	]Frank Mazzarelli exited observer at their location.
+[23:52:48	][IC] Manhack: <:: Help. ::>
+[23:52:50	][IC] Manhack: <:: HELLLP. ::>
+[23:53:02	][OOC] Manhack: I love ingenuity.
+[23:53:25	][IC] Manhack: <:: Nice. ::>
+[23:53:30	][IC] Manhack: <:: 0. ::>
+[23:53:38	]S10/EOW.RAZOR-09 has used a context menu option with the name: ignite
+[23:53:39	]Manhack has taken 0 damage from entityflame.
+[23:53:39	]Manhack has taken 0 damage from entityflame.
+[23:53:40	]Manhack has taken 0 damage from entityflame.
+[23:53:40	]Manhack has taken 0 damage from entityflame.
+[23:53:40	]Manhack has taken 0 damage from entityflame.
+[23:53:40	]Manhack has taken 0 damage from entityflame.
+[23:53:40	]Manhack has taken 0 damage from entityflame.
+[23:53:40	]Manhack has taken 0 damage from entityflame.
+[23:53:40	]Manhack has taken 0 damage from entityflame.
+[23:53:40	]Manhack has taken 0 damage from entityflame.
+[23:53:40	]Manhack has taken 0 damage from entityflame.
+[23:53:40	]Manhack has taken 0 damage from entityflame.
+[23:53:41	]Manhack has taken 0 damage from entityflame.
+[23:53:41	]Manhack has taken 0 damage from entityflame.
+[23:53:41	]Manhack has taken 0 damage from entityflame.
+[23:53:41	]Manhack has taken 0 damage from entityflame.
+[23:53:41	]Manhack has taken 0 damage from entityflame.
+[23:53:41	]Manhack has taken 0 damage from entityflame.
+[23:53:41	]Manhack has taken 0 damage from entityflame.
+[23:53:41	]Manhack has taken 0 damage from entityflame.
+[23:53:41	][IC] Manhack: <:: Alert one, alert one, shit. ::>
+[23:53:41	]Manhack has taken 0 damage from entityflame.
+[23:53:41	]Manhack has taken 0 damage from entityflame.
+[23:53:42	]Manhack has taken 0 damage from entityflame.
+[23:53:42	]Manhack has taken 0 damage from entityflame.
+[23:53:42	]Manhack has taken 0 damage from entityflame.
+[23:53:42	]Manhack has taken 0 damage from entityflame.
+[23:53:42	]Manhack has taken 0 damage from entityflame.
+[23:53:42	]Manhack has taken 0 damage from entityflame.
+[23:53:42	]Manhack has taken 0 damage from entityflame.
+[23:53:42	]Manhack has taken 0 damage from entityflame.
+[23:53:42	]Manhack has taken 0 damage from entityflame.
+[23:53:42	]Manhack has taken 0 damage from entityflame.
+[23:53:43	]Manhack has taken 0 damage from entityflame.
+[23:53:43	]Manhack has taken 0 damage from entityflame.
+[23:53:43	]Manhack has taken 0 damage from entityflame.
+[23:53:43	]Manhack has taken 0 damage from entityflame.
+[23:53:43	]Manhack has taken 0 damage from entityflame.
+[23:53:43	]Manhack has taken 0 damage from entityflame.
+[23:53:43	]Manhack has taken 0 damage from entityflame.
+[23:53:43	]Manhack has taken 0 damage from entityflame.
+[23:53:43	]Manhack has taken 0 damage from entityflame.
+[23:53:43	]Manhack has taken 0 damage from entityflame.
+[23:53:44	]Manhack has taken 0 damage from entityflame.
+[23:53:44	]Manhack has taken 0 damage from entityflame.
+[23:53:44	]Manhack has taken 0 damage from entityflame.
+[23:53:44	]Manhack has taken 0 damage from entityflame.
+[23:53:44	]Manhack has taken 0 damage from entityflame.
+[23:53:44	]Manhack has taken 0 damage from entityflame.
+[23:53:44	]Manhack has taken 0 damage from entityflame.
+[23:53:44	]Manhack has taken 0 damage from entityflame.
+[23:53:44	]Manhack has taken 0 damage from entityflame.
+[23:53:44	]Manhack has taken 0 damage from entityflame.
+[23:53:45	]Manhack has taken 0 damage from entityflame.
+[23:53:45	]Manhack has taken 0 damage from entityflame.
+[23:53:45	]Manhack has taken 0 damage from entityflame.
+[23:53:45	]Manhack has taken 0 damage from entityflame.
+[23:53:45	]Manhack has taken 0 damage from entityflame.
+[23:53:45	]Manhack has taken 0 damage from entityflame.
+[23:53:45	]S10/EOW.RAZOR-09 has used a context menu option with the name: rb655_dissolve
+[23:53:45	]Manhack has taken 0 damage from entityflame.
+[23:53:45	]Manhack has taken 0 damage from entityflame.
+[23:53:45	]Manhack has taken 0 damage from entityflame.
+[23:53:45	]Manhack has taken 0 damage from entityflame.
+[23:53:46	]Manhack has taken 0 damage from entityflame.
+[23:53:46	]Manhack has taken 0 damage from entityflame.
+[23:53:46	]Manhack has taken 0 damage from entityflame.
+[23:53:46	]Manhack has taken 0 damage from entityflame.
+[23:53:46	]Manhack has taken 0 damage from entityflame.
+[23:53:46	]Manhack has taken 0 damage from entityflame.
+[23:53:46	]Manhack has taken 0 damage from entityflame.
+[23:53:46	]Manhack has taken 0 damage from entityflame.
+[23:53:46	]Manhack has taken 0 damage from entityflame.
+[23:53:46	]Manhack has taken 0 damage from entityflame.
+[23:53:47	]Manhack has taken 0 damage from entityflame.
+[23:53:47	]Manhack has taken 0 damage from entityflame.
+[23:53:47	]Manhack has taken 0 damage from entityflame.
+[23:53:47	]Manhack has taken 0 damage from entityflame.
+[23:53:47	]Manhack has taken 0 damage from entityflame.
+[23:53:47	]Manhack has taken 0 damage from entityflame.
+[23:53:54	][OOC] Manhack: well i'm in the fucking void now
+[23:53:54	]S10/EOW.RAZOR-09 entered observer.
+[23:53:57	]Manhack entered observer.
+[23:53:58	][OOC] Frank Mazzarelli: i knew you were gonna break my swing
+[23:53:59	]Manhack ran SAM command 'goto' with arguments: 'valenti'
+[23:53:59	][OOC] Frank Mazzarelli: :'(
+[23:54:01	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:54:03	]Manhack exited observer at their location.
+[23:54:07	]Manhack ran SAM command 'hp' with arguments: 'manhack'
+[23:54:09	]Manhack is fully healed.
+[23:54:30	][ARA] S10/EOW.RAZOR-09: on my way to kamikaze the rebels
+[23:54:39	]Frank Mazzarelli has spawned 'models/props_vehicles/tire001c_car.mdl'.
+[23:54:41	]Frank Mazzarelli has spawned 'models/props_vehicles/carparts_tire01a.mdl'.
+[23:54:43	]Frank Mazzarelli has spawned 'models/props_vehicles/tire001a_tractor.mdl'.
+[23:54:45	]Frank Mazzarelli has spawned 'models/props_vehicles/tire001a_tractor.mdl'.
+[23:54:46	]Frank Mazzarelli has spawned 'models/props_vehicles/tire001b_truck.mdl'.
+[23:54:50	]Frank Mazzarelli has spawned 'models/props_urban/tire001.mdl'.
+[23:54:53	]Manhack used command '/CharFallOver 1'.
+[23:54:59	]Manhack used command '/CharFallOver 1'.
+[23:55:10	]Frank Mazzarelli has spawned 'models/props_vehicles/tire001b_truck.mdl'.
+[23:55:12	][Y] Manhack: <:: STAR. ::>
+[23:55:17	]S10/EOW.RAZOR-09 has spawned a 'Entity [377][sent_ball]'.
+[23:55:19	]Manhack used command '/CharFallOver 1'.
+[23:55:20	]Frank Mazzarelli entered observer.
+[23:55:21	]Frank Mazzarelli has fired a toolgun with the name: rope
+[23:55:22	]Manhack was knocked unconscious and is bleeding out.
+[23:55:24	]Frank Mazzarelli has fired a toolgun with the name: rope
+[23:55:28	]Frank Mazzarelli exited observer at their location.
+[23:55:30	]Manhack ran SAM command 'respawn' with arguments: 'manhack'
+[23:55:34	]Manhack is fully healed.
+[23:55:40	]S10/EOW.RAZOR-09 has spawned a 'Entity [377][gmt_instrument_piano]'.
+[23:55:43	]Manhack has spawned a 'Vehicle [465][prop_vehicle_prisoner_pod]'.
+[23:55:47	]Manhack entered observer.
+[23:55:50	]Manhack has fired a toolgun with the name: nocollideworld
+[23:55:59	]Manhack exited observer at their location.
+[23:55:59	]Manhack entered observer.
+[23:56:07	][LOOC] Frank Mazzarelli: tilt it forward slightly
+[23:56:08	]Manhack has fired a toolgun with the name: weld
+[23:56:09	]Manhack has fired a toolgun with the name: weld
+[23:56:13	]Manhack has fired a toolgun with the name: colour
+[23:56:17	]Manhack has enabled persistence for 'models/props_vehicles/tire001b_truck.mdl'.
+[23:56:17	]Manhack has used a context menu option with the name: persist
+[23:56:18	]Manhack exited observer at their location.
+[23:56:20	]Frank Mazzarelli entered observer.
+[23:56:21	]Frank Mazzarelli exited observer at their location.
+[23:56:32	][IC] Manhack: <:: EXCELLENT. ::>
+[23:56:39	][LOOC] Frank Mazzarelli: let me get a video of elite pushing him
+[23:56:49	]S10/EOW.RAZOR-09 entered observer.
+[23:56:52	]S10/EOW.RAZOR-09 exited observer at their location.
+[23:56:52	][LOOC] Frank Mazzarelli: with body
+[23:56:56	][IT] Manhack: Meanwhile, Overwatch is bor-
+[23:57:13	][LOOC] Frank Mazzarelli: nvm
+[23:57:14	]Manhack used command '/Event The fucking Overwatch Elite pushes the tire so powerfully, it enters another dim-'.
+[23:57:17	]Manhack used command '/Event Jesus fucking christ.'.
+[23:57:31	]Manhack used command '/Event HELICOPTER HELICOPTER'.
+[23:57:43	][LOOC] Frank Mazzarelli: ok dont break it again thx
+[23:57:44	]Frank Mazzarelli entered observer.
+[23:57:55	]Frank Mazzarelli exited observer at their location.
+[23:57:58	]Frank Mazzarelli entered observer.
+[23:58:00	]Frank Mazzarelli exited observer at their location.
+[23:58:06	]S10/EOW.RAZOR-09 has fired a toolgun with the name: thruster
+[23:58:07	]S10/EOW.RAZOR-09 has taken 5 damage from prop_physics.
+[23:58:31	]Frank Mazzarelli has used a context menu option with the name: ixpropviewowner
+[23:58:31	]S10/EOW.RAZOR-09 has taken 5 damage from prop_physics.
+[23:58:47	]Valenti Lombardo is no longer afk. Total time spent AFK: 4705
+[23:58:47	]Valenti Lombardo exited observer at their location.
+[23:58:49	]S10/EOW.RAZOR-09 has fired a toolgun with the name: thruster
+[23:58:49	]Atle (STEAM_0:0:21027108) has disconnected.
+[23:58:51	]S10/EOW.RAZOR-09 has fired a toolgun with the name: thruster
+[23:58:54	]Frank Mazzarelli entered observer.
+[23:58:55	]S10/EOW.RAZOR-09 has fired a toolgun with the name: thruster
+[23:58:59	]Frank Mazzarelli exited observer at their location.
+[23:59:16	]Frank Mazzarelli entered observer.
+[23:59:20	]Frank Mazzarelli exited observer at their location.
+[23:59:28	]S10/EOW.RAZOR-09 has taken 10 damage from prop_physics.
+[23:59:33	]S10/EOW.RAZOR-09 has taken 10 damage from prop_physics.
+[23:59:39	][Y] Manhack: <:: Contact confirmed, prosecuting! ::>
+[23:59:56	][Y] Manhack: <:: Overwatch, request SKYSHIELD. ::>

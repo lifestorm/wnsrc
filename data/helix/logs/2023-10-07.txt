@@ -1,0 +1,104 @@
+[14:49:40	]'Sevens' has connected.
+[14:51:58	]'Sevens' loaded the character 'CWU CHARACTER'
+[14:53:28	]CWU CHARACTER has used a context menu option with the name: ixpropviewowner
+[14:53:40	]CWU CHARACTER ran 'take' on item 'CWU Member Access Keycard' (#2055843)
+[14:53:40	]CWU CHARACTER has gained a 'CWU Member Access Keycard' #2055843.
+[14:54:12	]reece has connected.
+[14:54:52	]CWU CHARACTER ran 'drop' on item 'CWU Member Access Keycard' (#2050815)
+[14:54:52	]CWU CHARACTER has lost a 'CWU Member Access Keycard' #2050815.
+[14:54:57	]CWU CHARACTER ran 'drop' on item '#60487's Identity Card' (#2050563)
+[14:54:57	]CWU CHARACTER has lost a '#60487's Identity Card' #2050563.
+[14:55:17	]CWU CHARACTER ran 'take' on item 'CWU Member Access Keycard' (#2050815)
+[14:55:17	]CWU CHARACTER has gained a 'CWU Member Access Keycard' #2050815.
+[14:55:22	]CWU CHARACTER ran 'drop' on item 'CWU Member Access Keycard' (#2050935)
+[14:55:22	]CWU CHARACTER has lost a 'CWU Member Access Keycard' #2050935.
+[14:55:33	]CWU CHARACTER used command '/GetCWUFlags'.
+[14:55:42	]CWU CHARACTER ran 'take' on item '#60487's Identity Card' (#2050563)
+[14:55:42	]CWU CHARACTER has gained a '#60487's Identity Card' #2050563.
+[14:55:44	]CWU CHARACTER ran 'drop' on item '#60487's Identity Card' (#2050563)
+[14:55:44	]CWU CHARACTER has lost a '#60487's Identity Card' #2050563.
+[14:55:47	]reece loaded the character 'reece'
+[14:55:52	]reece is fully healed.
+[14:56:35	]reece entered observer.
+[14:56:48	]reece exited observer at their location.
+[14:57:04	]reece used command '/CharGiveFlag reece pet'.
+[14:57:08	]reece has fired a toolgun with the name: remover
+[14:57:08	]reece has fired a toolgun with the name: remover
+[14:57:09	]reece has fired a toolgun with the name: remover
+[14:57:09	]reece has fired a toolgun with the name: remover
+[14:57:09	]reece has fired a toolgun with the name: remover
+[14:57:10	]reece has fired a toolgun with the name: remover
+[14:57:10	]reece has fired a toolgun with the name: remover
+[14:57:11	]reece has fired a toolgun with the name: remover
+[14:57:11	]reece has fired a toolgun with the name: remover
+[14:57:11	]reece has fired a toolgun with the name: remover
+[14:57:11	]reece has fired a toolgun with the name: remover
+[14:57:12	]reece has fired a toolgun with the name: remover
+[14:57:22	][IC] CWU CHARACTER: I cant find it.
+[14:57:23	]reece has spawned a 'Entity [5335][ix_shopterminal]'.
+[14:57:33	]CWU CHARACTER ran 'Equip' on item 'Wrench' (#2055283)
+[14:58:17	][IC] reece: This is gonna be a pain.
+[14:58:21	][IC] reece: Ugh.
+[14:58:37	]reece used command '/Datafile reece'.
+[14:59:04	][IC] reece: Move.
+[14:59:18	]reece used command '/LinkShopTerminal Grotto'.
+[15:00:13	]reece has used a context menu option with the name: remove
+[15:00:15	]reece has spawned a 'Entity [5342][ix_shop_sign]'.
+[15:00:16	]reece has used a context menu option with the name: rb655_dissolve
+[15:00:17	]reece has spawned a 'Entity [5335][ix_shopterminal]'.
+[15:00:24	]reece used command '/SetShopTerminalCost 90'.
+[15:00:41	]reece used command '/LinkShopTerminal Grizzly Grotto'.
+[15:00:48	][IC] CWU CHARACTER: Broken.
+[15:00:53	][IC] reece: Yeah.
+[15:00:58	][IC] reece: It's either fucked or broke.
+[15:01:34	]reece has spawned a 'Entity [3497][ix_combinemonitor_tv]'.
+[15:01:54	]reece ran 'take' on item 'CWU Member Access Keycard' (#2050935)
+[15:01:54	]reece has gained a 'CWU Member Access Keycard' #2050935.
+[15:02:08	]reece has given himself a cwu_card.
+[15:02:08	]reece has gained a 'CWU Member Access Keycard' #2055886.
+[15:02:10	]reece ran 'drop' on item 'CWU Member Access Keycard' (#2055886)
+[15:02:10	]reece has lost a 'CWU Member Access Keycard' #2055886.
+[15:02:11	]reece ran 'drop' on item 'CWU Member Access Keycard' (#2050935)
+[15:02:11	]reece has lost a 'CWU Member Access Keycard' #2050935.
+[15:02:16	]reece has given himself a cwu_card.
+[15:02:16	]reece has gained a 'CWU Member Access Keycard' #2055887.
+[15:02:19	]reece used command '/CreateCid reece'.
+[15:02:19	]reece has gained a '#23545's Identity Card' #2055888.
+[15:02:21	]reece ran 'Bind' on item 'CWU Member Access Keycard' (#2055887)
+[15:02:27	]reece has spawned a 'Entity [5280][ix_terminal]'.
+[15:02:28	]reece has spawned a 'Entity [5293][ix_combinebarricade]'.
+[15:02:33	]reece has spawned a 'Entity [5361][ix_pickupterminal]'.
+[15:02:36	]reece has spawned a 'Entity [5221][ix_shopterminal]'.
+[15:02:38	]reece has spawned a 'Entity [5221][ix_workshiftterminal]'.
+[15:02:40	]reece has spawned a 'Entity [5221][ix_watercache]'.
+[15:02:43	]reece has spawned a 'Entity [5314][ix_rebelfield]'.
+[15:02:51	]reece has spawned a 'Entity [5319][ix_combinemonitor]'.
+[15:02:59	]reece has spawned a 'Entity [3497][ix_console]'.
+[15:03:17	]reece has spawned a 'Entity [2881][ix_combinebarricade]'.
+[15:03:19	]reece has spawned a 'Entity [5351][ix_terminal]'.
+[15:03:22	]reece has spawned a 'Entity [3944][ix_combinemonitor_small]'.
+[15:03:29	]reece has spawned a 'Entity [5156][ix_fabricator]'.
+[15:03:31	]reece has spawned a 'Entity [5325][ix_discscanner]'.
+[15:03:32	]reece has spawned a 'Entity [5339][ix_cwuterminal]'.
+[15:03:41	]reece ran 'drop' on item '#23545's Identity Card' (#2055888)
+[15:03:41	]reece has lost a '#23545's Identity Card' #2055888.
+[15:03:44	]reece ran 'drop' on item 'CWU Member Access Keycard' (#2055887)
+[15:03:44	]reece has lost a 'CWU Member Access Keycard' #2055887.
+[15:03:46	]reece entered observer.
+[15:03:47	]reece exited observer at their location.
+[15:05:40	]reece ran 'take' on item 'CWU Member Access Keycard' (#2055887)
+[15:05:40	]reece has gained a 'CWU Member Access Keycard' #2055887.
+[15:05:43	]reece ran 'take' on item '#23545's Identity Card' (#2055888)
+[15:05:43	]reece has gained a '#23545's Identity Card' #2055888.
+[15:05:45	]reece entered observer.
+[15:05:47	]reece exited observer at their location.
+[15:05:53	]reece has spawned a 'Entity [5221][ix_terminal]'.
+[15:06:06	][PICKUP DISPENSER] reece ( reece ) picked up an item from the pickup dispenser.
+[15:06:06	]reece has gained a '15 Credits Coupon' #2055889.
+[15:06:08	]reece ran 'Use' on item '15 Credits Coupon' (#2055889)
+[15:06:10	]reece ran 'Use' on item '15 Credits Coupon' (#2055889)
+[15:06:12	]reece ran 'Use' on item '15 Credits Coupon' (#2055889)
+[15:06:18	]reece ran 'Use' on item '15 Credits Coupon' (#2055889)
+[15:06:20	]reece has used a coupon at a ration dispenser, gaining 15 credits.
+[15:07:00	]reece (STEAM_0:1:158746618) has disconnected.
+[15:07:25	]'Sevens' (STEAM_0:0:25955) has disconnected.

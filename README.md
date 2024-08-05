@@ -1,23 +1,11 @@
-<p align="center">
-  <img src="https://i.imgur.com/2sBHXrS.png" height="200" width="auto">
-</p>
+# Willard Networks: Development Server
+This branch contains files related to the **Willard Networks: Development server**. They were retrieved on 2024/08/05 and are presented as is with minimal edits. This means that potential developers' bugs have been kept in their original form and it is up to you to resolve them. We do not and will not provide direct support (i.e. regular updates or patches). However, you can always create an issue, pointing out the problem.
 
-# Willard Networks: Community Edition
-**We provide these files as is**. While you shouldn't use them like this on a production server, it's a good start for your own Willard Networks branch server! We don't provide direct support, but you can create an issue in this repository.
+**The files provided contain:**
+* Half-Life 2 RPG framework by Willard Networks, used on development server as of 2024/08/05 in original English.
+* Settings (data/\*, settings/\*) used on the development server as of 2024/08/05.
+* Credentials from the development server database (including the master and SAM database).
+* Helix logs (data/helix/logs) from the development server as of 2024/08/05.
 
-### Navigation:
-* **Framework**\
-The databases are too big for github and are included in builds distributed through [The Twilight Zone](https://wnsrc.plymouth.thetwilightzone.ru/).\
-Helix logs are included in builds below (data/helix/logs).
-
-
-  * [Willard Networks: Development Server](https://github.com/lifestorm/wnsrc/tree/wn-dev)
-  * [Willard Networks: France (Echo One)](https://github.com/lifestorm/wnsrc/tree/wn-fr)
-  * [Willard Networks: Poland (Veles)](https://github.com/lifestorm/wnsrc/tree/wn-pl)
-  * [Willard Networks: Turkiye](https://github.com/lifestorm/wnsrc/tree/wn-tr)
-* **Forum**\
-Information about forum users obtained through the forum API.\
-It contains e-mail addresses. Does not contain authentication data.
-  * [Users data stack](https://github.com/lifestorm/wnsrc/tree/forum)
-
-**© 2024 Bluntsmoke, Inc.**
+**The files provided do not contain:**
+* Exported dump of databases (including the master and SAM database), since these files are overweight and cannot be uploaded to GitHub. Despite this, it is included in builds distributed via [The Twilight Zone](https://wnsrc.plymouth.thetwilightzone.ru/).

@@ -1,0 +1,455 @@
+[14:47:51	]thc has connected.
+[14:48:54	]thc (STEAM_0:1:709534478) deleted character 'TESTCWUCHARACTER'
+[14:50:32	]thc created the character 'Testing'
+[14:50:32	]thc loaded the character 'Testing'
+[14:50:33	]Testing has gained a '#56318's Identity Card' #1648414.
+[14:50:33	]Testing has gained a 'Combine PDA' #1648415.
+[14:50:49	]Testing ran 'Equip' on item 'Combine PDA' (#1648415)
+[14:52:29	]Testing used command '/CharSetModel tes models/willardnetworks/citizens/male03.mdl'.
+[14:52:54	]Testing used command '/CharSetBodygroup test 1 1'.
+[14:53:01	]Testing used command '/CharSetBodygroup test head 1'.
+[14:53:03	]Testing used command '/CharSetBodygroup test head 2'.
+[14:53:05	]Testing used command '/CharSetBodygroup test head 0'.
+[14:53:08	]Testing used command '/CharSetBodygroup test face 1'.
+[14:53:10	]Testing used command '/CharSetBodygroup test face 2'.
+[14:53:11	]Testing used command '/CharSetBodygroup test face 3'.
+[14:53:12	]Testing used command '/CharSetBodygroup test face 4'.
+[14:53:13	]Testing used command '/CharSetBodygroup test face 5'.
+[14:53:16	]Testing used command '/CharSetBodygroup test face 9'.
+[14:53:18	]Testing used command '/CharSetBodygroup test face 0'.
+[14:53:27	]Testing used command '/CharSetSkin test 2'.
+[14:53:29	]Testing used command '/CharSetSkin test 1'.
+[14:53:30	]Testing used command '/CharSetSkin test 2'.
+[14:53:32	]Testing used command '/CharSetSkin test 3'.
+[14:53:33	]Testing used command '/CharSetSkin test 4'.
+[14:53:34	]Testing used command '/CharSetSkin test 5'.
+[14:53:36	]Testing used command '/CharSetSkin test 7'.
+[14:53:42	]Testing used command '/CharSetSkin test 6'.
+[14:53:43	]Testing used command '/CharSetSkin test 7'.
+[14:53:49	]Testing used command '/CharSetSkin test 8'.
+[14:53:51	]Testing used command '/CharSetSkin test 9'.
+[14:53:52	]Testing used command '/CharSetSkin test 10'.
+[14:53:53	]Testing used command '/CharSetBodygroup test head 1'.
+[14:53:57	]Testing used command '/CharSetSkin test 11'.
+[14:53:59	]Testing used command '/CharSetSkin test 1'.
+[14:54:02	]Testing used command '/CharSetBodygroup test head 0'.
+[14:54:40	]Testing has given himself a torso_green_kevlar_t3.
+[14:54:40	]Testing has gained a 'Green Tier 3 Kevlar Uniform' #1648416.
+[14:54:42	]Testing has given himself a torso_green_kevlar_t2.
+[14:54:42	]Testing has gained a 'Green Tier 2 Kevlar Uniform' #1648417.
+[14:55:07	]Testing has given himself a torso_medical_kevlar.
+[14:55:07	]Testing has gained a 'Medical Kevlar Uniform' #1648418.
+[14:55:27	]Testing has given himself a aviators.
+[14:55:27	]Testing has gained a 'Aviator Glasses' #1648419.
+[14:55:28	]Testing has given himself a 70sglasses.
+[14:55:28	]Testing has gained a '70s Glasses' #1648420.
+[14:55:46	]Testing has given himself a collab_redhaven.
+[14:55:46	]Testing has gained a 'Red Haven' #1648421.
+[14:55:51	]Testing has given himself a collab_redhaven.
+[14:55:51	]Testing has gained a 'Red Haven' #1648422.
+[14:56:02	]Testing has given himself a collab_modnightred.
+[14:56:02	]Testing has gained a 'Midnight Red' #1648423.
+[14:56:07	]Testing has given himself a torso_black_suit_jacket.
+[14:56:08	]Testing has gained a 'Midnight Black' #1648424.
+[14:56:17	]Testing has given himself a legs_worn_green.
+[14:56:17	]Testing has gained a 'Worn Green Trousers' #1648425.
+[14:56:28	]Testing has given himself a zipper_black.
+[14:56:28	]Testing has gained a 'Black Zipper' #1648426.
+[14:56:47	]Testing has given himself a cca_burgundy.
+[14:56:47	]Testing has gained a 'Burgundy' #1648427.
+[14:57:02	]Testing has given himself a cca_legs_orwell.
+[14:57:02	]Testing has gained a 'Orwellian Trousers' #1648428.
+[14:57:07	]Testing ran 'drop' on item 'Orwellian Trousers' (#1648428)
+[14:57:07	]Testing has lost a 'Orwellian Trousers' #1648428.
+[14:57:11	]Testing has given himself a cca_lavender.
+[14:57:11	]Testing has gained a 'Lavender Galore' #1648429.
+[14:57:21	]Testing has given himself a cca_formal.
+[14:57:21	]Testing has gained a 'The Formal' #1648430.
+[14:58:00	]Testing has given himself a cca_vanilla.
+[14:58:00	]Testing has gained a 'Mr. Vanilla' #1648431.
+[14:58:05	]Testing has given himself a cca_authoritarian.
+[14:58:05	]Testing has gained a 'The Authoritarian' #1648432.
+[14:58:12	]Testing has given himself a cca_coat_authoritarian.
+[14:58:12	]Testing has gained a 'Authoritarian's Coat' #1648433.
+[14:58:21	]Testing has given himself a cca_mulligan.
+[14:58:21	]Testing has gained a 'The Mulligan Express' #1648434.
+[14:58:27	]Testing has given himself a cca_elephant.
+[14:58:27	]Testing has gained a 'Elephant Hunter' #1648435.
+[14:58:30	]Testing ran 'drop' on item 'Elephant Hunter' (#1648435)
+[14:58:30	]Testing has lost a 'Elephant Hunter' #1648435.
+[14:58:31	]Testing ran 'drop' on item 'The Authoritarian' (#1648432)
+[14:58:31	]Testing has lost a 'The Authoritarian' #1648432.
+[14:58:31	]Testing ran 'drop' on item 'Mr. Vanilla' (#1648431)
+[14:58:31	]Testing has lost a 'Mr. Vanilla' #1648431.
+[14:58:32	]Testing ran 'drop' on item 'The Formal' (#1648430)
+[14:58:32	]Testing has lost a 'The Formal' #1648430.
+[14:58:32	]Testing ran 'drop' on item 'The Mulligan Express' (#1648434)
+[14:58:32	]Testing has lost a 'The Mulligan Express' #1648434.
+[14:58:32	]Testing ran 'drop' on item 'Authoritarian's Coat' (#1648433)
+[14:58:32	]Testing has lost a 'Authoritarian's Coat' #1648433.
+[14:58:33	]Testing ran 'drop' on item 'Black Zipper' (#1648426)
+[14:58:33	]Testing has lost a 'Black Zipper' #1648426.
+[14:58:33	]Testing ran 'drop' on item 'Burgundy' (#1648427)
+[14:58:33	]Testing has lost a 'Burgundy' #1648427.
+[14:58:34	]Testing ran 'drop' on item 'Lavender Galore' (#1648429)
+[14:58:34	]Testing has lost a 'Lavender Galore' #1648429.
+[14:58:34	]Testing ran 'drop' on item 'Worn Green Trousers' (#1648425)
+[14:58:34	]Testing has lost a 'Worn Green Trousers' #1648425.
+[14:58:35	]Testing ran 'drop' on item 'Midnight Black' (#1648424)
+[14:58:35	]Testing has lost a 'Midnight Black' #1648424.
+[14:58:35	]Testing ran 'drop' on item 'Red Haven' (#1648421)
+[14:58:35	]Testing has lost a 'Red Haven' #1648421.
+[14:58:36	]Testing ran 'drop' on item 'Medical Kevlar Uniform' (#1648418)
+[14:58:36	]Testing has lost a 'Medical Kevlar Uniform' #1648418.
+[14:58:36	]Testing ran 'drop' on item 'Green Tier 3 Kevlar Uniform' (#1648416)
+[14:58:36	]Testing has lost a 'Green Tier 3 Kevlar Uniform' #1648416.
+[14:58:36	]Testing ran 'drop' on item 'Green Tier 2 Kevlar Uniform' (#1648417)
+[14:58:36	]Testing has lost a 'Green Tier 2 Kevlar Uniform' #1648417.
+[14:58:37	]Testing ran 'drop' on item 'Aviator Glasses' (#1648419)
+[14:58:37	]Testing has lost a 'Aviator Glasses' #1648419.
+[14:58:37	]Testing ran 'drop' on item '70s Glasses' (#1648420)
+[14:58:37	]Testing has lost a '70s Glasses' #1648420.
+[14:58:38	]Testing ran 'drop' on item 'Red Haven' (#1648422)
+[14:58:38	]Testing has lost a 'Red Haven' #1648422.
+[14:58:38	]Testing ran 'drop' on item 'Midnight Red' (#1648423)
+[14:58:38	]Testing has lost a 'Midnight Red' #1648423.
+[14:59:08	]Testing used command '/CharSetBodygroup test torso 2'.
+[14:59:13	]Testing used command '/CharSetBodygroup test torso 10'.
+[14:59:18	]Testing used command '/CharSetBodygroup test torso 11'.
+[14:59:26	]Testing used command '/CharSetBodygroup test torso 12'.
+[14:59:28	]Testing used command '/CharSetBodygroup test torso 13'.
+[14:59:29	]Testing used command '/CharSetBodygroup test torso 14'.
+[14:59:32	]Testing used command '/CharSetBodygroup test torso 14'.
+[14:59:47	]Testing used command '/CharSetBodygroup test torso 15'.
+[14:59:48	]Testing used command '/CharSetBodygroup test torso 17'.
+[14:59:50	]Testing used command '/CharSetBodygroup test torso 19'.
+[14:59:52	]Testing used command '/CharSetBodygroup test torso 20'.
+[14:59:53	]Testing used command '/CharSetBodygroup test torso 21'.
+[14:59:54	]Testing used command '/CharSetBodygroup test torso 22'.
+[14:59:55	]Testing used command '/CharSetBodygroup test torso 23'.
+[14:59:56	]Testing used command '/CharSetBodygroup test torso 24'.
+[14:59:57	]Testing used command '/CharSetBodygroup test torso 25'.
+[14:59:58	]Testing used command '/CharSetBodygroup test torso 26'.
+[14:59:59	]Testing used command '/CharSetBodygroup test torso 27'.
+[15:00:04	]Testing used command '/CharSetBodygroup test torso 28'.
+[15:00:07	]Testing used command '/CharSetBodygroup test torso 29'.
+[15:00:09	]Testing used command '/CharSetBodygroup test torso 30'.
+[15:00:10	]Testing used command '/CharSetBodygroup test torso 31'.
+[15:00:11	]Testing used command '/CharSetBodygroup test torso 32'.
+[15:00:12	]Testing used command '/CharSetBodygroup test torso 33'.
+[15:00:13	]Testing used command '/CharSetBodygroup test torso 34'.
+[15:00:14	]Testing used command '/CharSetBodygroup test torso 35'.
+[15:00:16	][IC] Testing: \w\.
+[15:00:19	]Testing used command '/CharSetBodygroup test torso 37'.
+[15:00:22	]Testing used command '/CharSetBodygroup test torso 38'.
+[15:00:23	]Testing used command '/CharSetBodygroup test torso 39'.
+[15:00:25	]Testing used command '/CharSetBodygroup test torso 38'.
+[15:00:35	]Testing used command '/CharSetBodygroup test torso 39'.
+[15:00:41	]Testing used command '/CharSetBodygroup test torso 40'.
+[15:00:43	]Testing used command '/CharSetBodygroup test torso 41'.
+[15:00:44	]Testing used command '/CharSetBodygroup test torso 42'.
+[15:00:45	]Testing used command '/CharSetBodygroup test torso 41'.
+[15:00:49	]Testing used command '/CharSetBodygroup test torso 43'.
+[15:00:51	]Testing used command '/CharSetBodygroup test torso 45'.
+[15:00:53	]Testing used command '/CharSetBodygroup test torso 44'.
+[15:00:55	]Testing used command '/CharSetBodygroup test torso 46'.
+[15:00:57	]Testing used command '/CharSetBodygroup test torso 100'.
+[15:01:00	]Testing used command '/CharSetBodygroup test torso 35'.
+[15:01:01	]Testing used command '/CharSetBodygroup test torso 3'.
+[15:01:03	]Testing used command '/CharSetBodygroup test torso 5'.
+[15:01:05	]Testing used command '/CharSetBodygroup test torso 2'.
+[15:01:06	]Testing used command '/CharSetBodygroup test torso 3'.
+[15:01:07	]Testing used command '/CharSetBodygroup test torso 4'.
+[15:01:08	]Testing used command '/CharSetBodygroup test torso'.
+[15:01:10	]Testing used command '/CharSetBodygroup test torso 6'.
+[15:01:12	]Testing used command '/CharSetBodygroup test torso 7'.
+[15:01:13	]Testing used command '/CharSetBodygroup test torso 8'.
+[15:01:16	]Testing used command '/CharSetBodygroup test torso 5'.
+[15:04:13	]BOSS used command '/CharSetName Testing BOSS'.
+[15:05:10	]BOSS used command '/ID'.
+[15:05:14	][IC] BOSS: 56318.
+[15:08:49	]BOSS used command '/CharAddRadioChannel boss 1'.
+[15:08:51	]BOSS used command '/CharAddRadioChannel boss 2'.
+[15:08:54	]BOSS used command '/CharAddRadioChannel boss tac'.
+[15:08:56	]BOSS used command '/CharAddRadioChannel boss tac-3'.
+[15:08:58	]BOSS used command '/CharAddRadioChannel boss tac-5'.
+[15:09:00	]BOSS used command '/CharAddRadioChannel boss tac-4'.
+[15:09:03	]BOSS used command '/CharAddRadioChannel boss tac-2'.
+[15:09:06	]BOSS used command '/CharAddRadioChannel boss tac-5'.
+[15:09:07	]BOSS used command '/CharAddRadioChannel boss tac-7'.
+[15:09:16	]BOSS used command '/CharAddRadioChannel boss CWU'.
+[15:09:19	]BOSS used command '/CharAddRadioChannel boss CMU'.
+[15:09:22	]BOSS used command '/CharAddRadioChannel boss BRI'.
+[15:09:29	]BOSS used command '/CharAddRadioChannel boss b'.
+[15:09:35	]BOSS used command '/CharAddRadioChannel boss MoE'.
+[15:09:39	]BOSS used command '/CharAddRadioChannel boss MOE'.
+[15:09:47	]BOSS used command '/CharAddRadioChannel boss CMU'.
+[15:09:54	]BOSS used command '/CharAddRadioChannel boss CP'.
+[15:09:56	]BOSS used command '/CharAddRadioChannel boss Civ'.
+[15:10:19	]BOSS used command '/CharKick boss'.
+[15:10:28	]thc loaded the character 'BOSS'
+[15:10:59	]BOSS used command '/CharSetModel boss models/willardnetworks/vortigaunt.mdl'.
+[15:11:15	][IC] BOSS: You made it!
+[15:12:53	]BOSS used command '/CharSetModel boss models/willardnetworks/vortigaunt.mdl'.
+[15:13:03	]BOSS used command '/CharSetModel boss models/willardn'.
+[15:13:08	]BOSS used command '/CharSetModel boss male01'.
+[15:13:22	]BOSS used command '/CharSetModel boss models/player/magnusson.mdl'.
+[15:13:38	]BOSS used command '/CharSetModel boss models/willardnetworks/vortigaunt.mdl'.
+[15:13:51	]BOSS used command '/CharSetModel boss models/player/Group03/male_03.mdl'.
+[15:14:46	]BOSS used command '/CharSetModel boss models/player/leet.mdl'.
+[15:15:24	]BOSS used command '/CharSetModel boss models/player/Group01/male_04.mdl'.
+[15:15:37	]BOSS used command '/CharSetModel boss models/player/police.mdl'.
+[15:16:18	]BOSS used command '/CharSetModel boss models/suitedindividual.mdl'.
+[15:16:38	]BOSS used command '/CharSetModel boss models/ma/offduty/male_09.mdl'.
+[15:16:56	]BOSS used command '/CharSetModel boss models/willardnetworks/combine/charger.mdl'.
+[15:17:04	][IC] BOSS: Ds.
+[15:21:38	]thc (STEAM_0:1:709534478) has disconnected.
+[20:19:59	]thc has connected.
+[20:22:54	]thc (STEAM_0:1:709534478) deleted character 'BOSS'
+[20:25:32	]thc created the character 'Tester'
+[20:25:32	]thc has gained 20 chips.
+[20:25:32	]thc loaded the character 'Tester'
+[20:25:32	]Tester has gained a 'Flashlight' #1648436.
+[20:25:32	]Tester has gained a '#91007's Identity Card' #1648437.
+[20:26:30	]Tester used command '/CharGiveFlag tester QLNJ'.
+[20:26:36	]Tester used command '/CharGiveFlag tester UI'.
+[20:26:39	]Tester used command '/CharGiveFlag tester i'.
+[20:27:02	]Tester used command '/CharTakeFlag tester N'.
+[20:27:49	]Tester used command '/CharSetModel tester models/player/Group03/male_09.mdl'.
+[20:28:29	]Tester used command '/AdminJoinGroup tester enlightment'.
+[20:28:53	]Tester used command '/AdminJoinGroup tester Bureau of Enlightenment'.
+[20:29:08	]Tester used command '/AdminJoinGroup tester Civil Workers Union'.
+[20:29:11	][IC] Tester: Wtf.
+[20:29:27	]Tester used command '/AdminJoinGroup tester Liberation Front Coalition'.
+[20:29:31	]Tester used command '/AdminJoinGroup tester lib'.
+[20:29:33	]Tester used command '/AdminJoinGroup tester lfc'.
+[20:29:40	]Tester used command '/AdminJoinGroup tester Liberation Front'.
+[20:30:17	]Tester used command '/AdminJoinGroup tester Bureau of Research and Innovation'.
+[20:31:12	]Tester used command '/AdminJoinGroup tester Medical Union'.
+[20:31:14	]Tester used command '/AdminJoinGroup tester Bureau of Research and Innovation'.
+[20:31:39	]Tester used command '/PlyWhitelist tester b'.
+[20:31:41	]Tester used command '/PlyWhitelist tester bri'.
+[20:31:44	]Tester used command '/PlyWhitelist tester bureau'.
+[20:31:51	]Tester used command '/PlyWhitelist tester bureauofresearch'.
+[20:31:55	]Tester used command '/PlyWhitelist tester bureauof'.
+[20:31:59	]Tester used command '/PlyWhitelist tester BRI'.
+[20:32:05	]Tester used command '/PlyWhitelist tester Bureau of Research'.
+[20:32:08	]Tester used command '/PlyWhitelist tester Bureau of Research and Innovation'.
+[20:32:26	]thc loaded the character 'S'Kur'viel'
+[20:32:36	]thc loaded the character 'Tester'
+[20:33:13	]thc loaded the character 'S'Kur'viel'
+[20:33:23	]thc loaded the character 'Tester'
+[20:34:50	]Tester used command '/AdminJoinGroup tester Jun's Army'.
+[20:35:00	]Tester used command '/AdminJoinGroup tester Jun's army'.
+[20:35:13	]Tester used command '/AdminJoinGroup tester Raven's Raiders'.
+[20:35:42	]Tester used command '/AdminJoinGroup tester Investigation Department'.
+[20:36:14	]Tester used command '/AdminJoinGroup tester Simone Family'.
+[20:36:58	]Tester used command '/AdminJoinGroup tester Department of Fuck-You-We-Lead-The-City'.
+[20:38:24	]Tester used command '/ForceGroupUpdate t'.
+[20:38:29	]Tester used command '/PlyWhitelist t c'.
+[20:39:45	]Tester used command '/AdminJoinGroup tester test'.
+[20:39:49	]Tester used command '/AdminJoinGroup tester test'.
+[20:39:52	]Tester used command '/AdminJoinGroup tester Test'.
+[20:39:55	]Tester used command '/AdminJoinGroup tester Testing'.
+[20:39:59	]Tester used command '/AdminJoinGroup tester cri'.
+[20:40:00	]Tester used command '/AdminJoinGroup tester as'.
+[20:40:03	]Tester used command '/AdminJoinGroup tester cwu'.
+[20:40:06	]Tester used command '/AdminJoinGroup tester cmu'.
+[20:40:09	]Tester used command '/AdminJoinGroup tester rad'.
+[20:40:10	]Tester used command '/AdminJoinGroup tester cca'.
+[20:40:13	]Tester used command '/AdminJoinGroup tester civil'.
+[20:40:14	]Tester used command '/AdminJoinGroup tester civils'.
+[20:40:17	]Tester used command '/AdminJoinGroup tester rebels'.
+[20:40:21	]Tester used command '/AdminJoinGroup tester liberation'.
+[20:40:26	]Tester used command '/AdminJoinGroup tester doctor'.
+[20:40:29	]Tester used command '/AdminJoinGroup tester cprd'.
+[20:40:33	]Tester used command '/AdminJoinGroup tester CPRD'.
+[20:40:37	]Tester used command '/AdminJoinGroup tester Lead'.
+[20:40:43	]Tester used command '/AdminJoinGroup tester ster'.
+[20:40:46	]Tester used command '/AdminJoinGroup tester big'.
+[20:40:51	]Tester used command '/AdminJoinGroup tester Willard'.
+[20:41:44	]Tester used command '/AdminJoinGroup tester sillygoofygroup'.
+[20:42:06	]Tester used command '/AdminJoinGroup tester OVERWATCH STANDARD FORCES 24TH'.
+[20:42:10	]Tester used command '/AdminJoinGroup tester OVERWATCH STANDARD FORCES 24TH'.
+[20:42:33	]Tester used command '/AdminJoinGroup tester OVERWATCH STANDARD FORCES 24TH 'May' DIVISION'.
+[20:42:38	]Tester used command '/AdminJoinGroup tester OVERWATCH STANDARD FORCES 24TH 'May' DIVISION'.
+[20:42:40	][IC] Tester: Wtf.
+[20:43:37	]Tester used command '/AdminJoinGroup tester Bottlestreet Gang'.
+[20:45:00	]Tester ran SAM command 'menu' with arguments: ''
+[20:47:02	]Tester ran SAM command 'menu' with arguments: ''
+[20:47:25	][IC] Tester: :O.
+[20:47:30	]Tester ran SAM command 'menu' with arguments: ''
+[20:47:45	]Tester ran SAM command 'respawn' with arguments: '#1'
+[20:47:48	]Tester ran SAM command 'strip' with arguments: '#1'
+[20:47:57	]Tester ran SAM command 'jail' with arguments: '#1' '1' 'test'
+[20:48:03	]Tester entered observer.
+[20:48:06	]Tester exited observer.
+[20:48:10	]Tester ran SAM command 'menu' with arguments: ''
+[20:48:13	]Tester ran SAM command 'unjail' with arguments: '#1'
+[20:48:20	]Tester ran SAM command 'menu' with arguments: ''
+[20:48:23	]Tester ran SAM command 'cloak' with arguments: '#1'
+[20:48:28	]Tester ran SAM command 'uncloak' with arguments: '#1'
+[20:48:30	]Tester ran SAM command 'freeze' with arguments: '#1'
+[20:48:34	]Tester ran SAM command 'menu' with arguments: ''
+[20:48:36	]Tester ran SAM command 'unfreeze' with arguments: '#1'
+[20:48:37	]Tester ran SAM command 'god' with arguments: '#1'
+[20:48:39	]Tester ran SAM command 'ungod' with arguments: '#1'
+[20:48:42	]Tester ran SAM command 'ignite' with arguments: '#1' '60'
+[20:48:42	]Tester has taken 1 damage from entityflame.
+[20:48:42	]Tester has taken 1 damage from entityflame.
+[20:48:42	]Tester has taken 1 damage from entityflame.
+[20:48:42	]Tester has taken 1 damage from entityflame.
+[20:48:42	]Tester has taken 1 damage from entityflame.
+[20:48:43	]Tester has taken 1 damage from entityflame.
+[20:48:43	]Tester has taken 1 damage from entityflame.
+[20:48:43	]Tester has taken 1 damage from entityflame.
+[20:48:43	]Tester has taken 1 damage from entityflame.
+[20:48:43	]Tester has taken 1 damage from entityflame.
+[20:48:44	]Tester has taken 1 damage from entityflame.
+[20:48:44	]Tester has taken 1 damage from entityflame.
+[20:48:44	]Tester has taken 1 damage from entityflame.
+[20:48:44	]Tester ran SAM command 'unignite' with arguments: '#1'
+[20:48:46	]Tester ran SAM command 'armor' with arguments: '#1' '100'
+[20:48:47	]Tester ran SAM command 'hp' with arguments: '#1' '100'
+[20:48:48	]Tester is fully healed.
+[20:48:50	]Tester ran SAM command 'slay' with arguments: '#1'
+[20:48:53	]Tester ran SAM command 'slap' with arguments: '#1' '0'
+[20:48:54	]Tester ran SAM command 'slap' with arguments: '#1' '0'
+[20:48:54	]Tester ran SAM command 'slap' with arguments: '#1' '0'
+[20:48:55	]Tester ran SAM command 'slap' with arguments: '#1' '0'
+[20:49:01	]Tester ran SAM command 'gag' with arguments: '#1' '1' '1'
+[20:49:03	]Tester ran SAM command 'ungag' with arguments: '#1'
+[20:49:08	]Tester ran SAM command 'asay' with arguments: '111'
+[20:53:28	]Tester entered observer.
+[20:54:09	]Tester has added static text: <:         TEST SCENE TEXT          :>
+[20:54:09	]Tester used command '/AdminSceneText <:         TEST SCENE TEXT          :>'.
+[20:54:23	]Tester used command '/Announce hello server'.
+[20:54:34	]Tester used command '/BecomeClass 1'.
+[20:54:35	]Tester used command '/BecomeClass 2'.
+[20:54:37	]Tester used command '/BecomeClass 3'.
+[20:54:38	]Tester used command '/BecomeClass 4'.
+[20:54:39	]Tester used command '/BecomeClass 5'.
+[20:54:41	]Tester used command '/BecomeClass 5'.
+[20:54:45	]Tester used command '/PlyTransfer tester c'.
+[20:54:47	]Tester used command '/BecomeClass 5'.
+[20:54:57	]Tester used command '/CharSetClass tester 5'.
+[20:55:00	]Tester used command '/CharSetClass tester over'.
+[20:55:03	]Tester used command '/CharSetClass tester he'.
+[20:55:42	]Tester used command '/BecomeClass 7'.
+[20:55:45	]Tester used command '/BecomeClass 7'.
+[20:55:46	]Tester used command '/BecomeClass 8'.
+[20:55:49	]Tester used command '/BecomeClass 7'.
+[20:58:21	]Tester used command '/SetDatafilePoints tester 200'.
+[20:58:24	]Tester used command '/SetDatafilePoints tester 201'.
+[20:58:37	]Tester used command '/SetDatafilePoints tester 200'.
+[20:58:52	]Tester has given himself a pda.
+[20:58:52	]Tester has gained a 'Combine PDA' #1648438.
+[20:58:54	]Tester has given himself a lockbreacher.
+[20:58:54	]Tester has gained a 'Combine Lock Breacher' #1648439.
+[20:59:04	]Tester ran 'Equip' on item 'Combine PDA' (#1648438)
+[21:01:03	]Tester used command '/BecomeClass 8'.
+[21:01:05	]Tester used command '/BecomeClass 9'.
+[21:01:07	]Tester used command '/BecomeClass 10'.
+[21:01:08	]Tester used command '/BecomeClass 11'.
+[21:01:10	]Tester used command '/BecomeClass 12'.
+[21:01:11	]Tester used command '/BecomeClass 13'.
+[21:01:13	]Tester used command '/BecomeClass 14'.
+[21:01:14	]Tester used command '/BecomeClass 15'.
+[21:01:15	]Tester used command '/BecomeClass 16'.
+[21:01:17	]Tester used command '/BecomeClass 17'.
+[21:01:18	]Tester used command '/BecomeClass 18'.
+[21:01:19	]Tester used command '/BecomeClass 19'.
+[21:01:22	]Tester used command '/BecomeClass bos'.
+[21:01:26	]Tester used command '/BecomeClass administrator'.
+[21:01:29	]Tester used command '/BecomeClass admin'.
+[21:01:33	]Tester used command '/BecomeClass 3'.
+[21:01:35	]Tester used command '/BecomeClass 4'.
+[21:01:36	]Tester used command '/BecomeClass 5'.
+[21:01:37	]Tester used command '/BecomeClass 6'.
+[21:01:38	]Tester used command '/BecomeClass 7'.
+[21:01:40	]Tester used command '/BecomeClass 8'.
+[21:01:42	]Tester used command '/BecomeClass 7'.
+[21:01:44	]Tester used command '/BecomeClass 9'.
+[21:01:46	]Tester used command '/BecomeClass 5'.
+[21:01:48	]Tester used command '/BecomeClass 6'.
+[21:01:50	]Tester used command '/BecomeClass 5'.
+[21:01:58	]Tester used command '/PlyTransfer test civil'.
+[21:02:00	]C17:RCT.YELLO-30 used command '/PlyTransfer test cp'.
+[21:02:08	][IC] C17:RCT.YELLO-30: S.
+[21:02:18	]C17:RCT.YELLO-30 used command '/BecomeClass 5'.
+[21:02:32	]C17:RCT.YELLO-30 used command '/CharSetClass c17 over'.
+[21:02:43	]C17:RCT.YELLO-30 used command '/PlyTransfer c17 c'.
+[21:02:45	][IC] C17:RCT.YELLO-30: Ss.
+[21:02:51	]C17:RCT.YELLO-30 used command '/ViewInfo c1'.
+[21:02:59	]TESTER used command '/CharSetName C17:RCT.YELLO-30 TESTER'.
+[21:03:38	][IC] TESTER: DD.
+[21:04:14	]TESTER used command '/CharGetPermits tes'.
+[21:04:30	]TESTER used command '/CharGetSkills tes'.
+[21:04:33	]TESTER used command '/CharGetSkills tes s'.
+[21:04:40	]TESTER used command '/CharGetSkills tes s'.
+[21:04:49	]TESTER used command '/CharGetHealing tes'.
+[21:05:11	]TESTER used command '/CharAddAttribute tester speed 20'.
+[21:05:27	]TESTER used command '/CharAddAttribute tester agility 30'.
+[21:05:44	]TESTER used command '/CharAddAttribute tester Perception 1'.
+[21:06:02	]TESTER used command '/CharAddAttribute tester strength 2'.
+[21:06:55	]TESTER has gained level 20 in the Speed skill.
+[21:06:55	]TESTER used command '/CharSkillAdd tester speed 20'.
+[21:07:05	]TESTER has gained level 20 in the Smuggling skill.
+[21:07:05	]TESTER used command '/CharSkillAdd tester smuggling 20'.
+[21:07:10	]TESTER has gained level 20 in the Guns skill.
+[21:07:10	]TESTER used command '/CharSkillAdd tester guns 20'.
+[21:07:17	]TESTER has gained level 20 in the Cooking skill.
+[21:07:17	]TESTER used command '/CharSkillAdd tester cooking 20'.
+[21:07:22	]TESTER has gained level 20 in the Medicine skill.
+[21:07:22	]TESTER used command '/CharSkillAdd tester medicine 20'.
+[21:07:29	]TESTER has gained level 20 in the Crafting skill.
+[21:07:29	]TESTER used command '/CharSkillAdd tester crafting 20'.
+[21:07:52	]TESTER used command '/CharSkillAdd tester melee 20'.
+[21:08:22	]TESTER used command '/clothingcreator'.
+[21:12:57	]TESTER has gone afk.
+[21:14:27	]TESTER is no longer afk. Total time spent AFK: 385
+[21:15:26	]TESTER used command '/Event HELLO'.
+[21:17:06	]TESTER used command '/ShowEdicts'.
+[21:17:31	]Tester (CID: 91007, item: 1648437) has send 1 credits to Tester (CID: 91007, item: 1648437) via terminal.
+[21:17:31	]TESTER used command '/WithdrawCredit test 1'.
+[21:17:34	]TESTER used command '/WithdrawCredit test 1000'.
+[21:17:36	]TESTER used command '/WithdrawCredit test 100'.
+[21:17:36	]Tester (CID: 91007, item: 1648437) has send 10 credits to Tester (CID: 91007, item: 1648437) via terminal.
+[21:17:36	]TESTER used command '/WithdrawCredit test 10'.
+[21:17:39	]Tester (CID: 91007, item: 1648437) has send 1 credits to Tester (CID: 91007, item: 1648437) via terminal.
+[21:17:39	]TESTER used command '/WithdrawCredit test 1'.
+[21:17:40	]Tester (CID: 91007, item: 1648437) has send 1 credits to Tester (CID: 91007, item: 1648437) via terminal.
+[21:17:40	]TESTER used command '/WithdrawCredit test 1'.
+[21:17:41	]Tester (CID: 91007, item: 1648437) has send 1 credits to Tester (CID: 91007, item: 1648437) via terminal.
+[21:17:41	]TESTER used command '/WithdrawCredit test 1'.
+[21:17:48	]Tester (CID: 91007, item: 1648437) has send 10 credits to Tester (CID: 91007, item: 1648437) via terminal.
+[21:17:48	]TESTER used command '/WithdrawCredit test 10'.
+[21:17:49	]Tester (CID: 91007, item: 1648437) has send 10 credits to Tester (CID: 91007, item: 1648437) via terminal.
+[21:17:49	]TESTER used command '/WithdrawCredit test 10'.
+[21:17:50	]Tester (CID: 91007, item: 1648437) has send 10 credits to Tester (CID: 91007, item: 1648437) via terminal.
+[21:17:50	]TESTER used command '/WithdrawCredit test 10'.
+[21:17:51	]Tester (CID: 91007, item: 1648437) has send 10 credits to Tester (CID: 91007, item: 1648437) via terminal.
+[21:17:51	]TESTER used command '/WithdrawCredit test 10'.
+[21:19:00	]TESTER used command '/GiveChips 100'.
+[21:20:08	]TESTER used command '/AdminJoinGroup test Legislative Assembly'.
+[21:20:27	]TESTER used command '/AdminJoinGroup test Art Department'.
+[21:21:53	]TESTER used command '/AdminJoinGroup test Socially Enlightened'.
+[21:22:40	]TESTER used command '/AdminJoinGroup test Kaji Industries'.
+[21:23:01	]TESTER used command '/AdminJoinGroup test Combinites'.
+[21:23:14	]TESTER used command '/AdminJoinGroup test Neophytes of Breen'.
+[21:23:23	]TESTER used command '/AdminJoinGroup test C51'.
+[21:23:52	]TESTER used command '/AdminJoinGroup test Cadre 22 - CPRD'.
+[21:24:01	]TESTER used command '/AdminJoinGroup test Cadre-22 - CPRD'.
+[21:24:06	]TESTER used command '/AdminJoinGroup test 'Cadre-22' - CPRD'.
+[21:24:11	]TESTER used command '/AdminJoinGroup test CADRE-22'.
+[21:25:18	]TESTER used command '/AdminJoinGroup test Little Italy'.
+[21:25:31	]TESTER used command '/AdminJoinGroup test Waltmart'.
+[21:25:39	]TESTER used command '/AdminJoinGroup test The Geneva Connection'.
+[21:25:53	]TESTER used command '/AdminJoinGroup test ARTERIA ARM - THE 103RD ANTLION BATTALION'.
+[21:26:15	]TESTER used command '/AdminJoinGroup test The Triumph'.
+[21:26:52	]TESTER used command '/AdminJoinGroup test PRF'.
+[21:26:56	]TESTER used command '/AdminJoinGroup test Raven'.
+[21:27:02	]TESTER used command '/AdminJoinGroup test The White Raven'.
+[21:27:11	]TESTER used command '/AdminJoinGroup test Mirai'.
+[21:27:33	]TESTER used command '/SetGroupLead Mirai tester'.
+[21:37:33	]thc (STEAM_0:1:709534478) has disconnected.

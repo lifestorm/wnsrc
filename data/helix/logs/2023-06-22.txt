@@ -1,0 +1,1271 @@
+[01:15:29	]Nesh has connected.
+[01:17:43	]Nesh loaded the character 'FA. Phelps'
+[01:17:48	]FA. Phelps is fully healed.
+[01:18:24	]FA. Phelps has lost a '30rnd MP-magazine' #1976157.
+[01:19:21	]FA. Phelps used the 'CCG Vendor' vendor.
+[01:19:26	]FA. Phelps has gained 0 chips.
+[01:19:26	]FA. Phelps has gained a 'CP Uniform' #2046336.
+[01:19:28	]FA. Phelps has gained 0 chips.
+[01:19:28	]FA. Phelps has gained a 'CP Mask' #2046337.
+[01:19:42	]FA. Phelps ran 'Consume' on item 'Soda Bob Brawn' (#2021058)
+[01:19:42	]FA. Phelps extended their level 1 long boost in Perception.
+[01:19:42	]FA. Phelps extended their level 2 long boost in Agility.
+[01:19:43	]FA. Phelps ran 'Consume' on item 'Metropolice Supplements' (#2021057)
+[01:19:43	]FA. Phelps extended their level 3 long boost in Strength.
+[01:19:49	]FA. Phelps ran 'drop' on item 'M40' (#1953482)
+[01:19:49	]FA. Phelps has lost a 'M40' #1953482.
+[01:19:50	]FA. Phelps ran 'drop' on item 'Combine Filter' (#1953484)
+[01:19:50	]FA. Phelps has lost a 'Combine Filter' #1953484.
+[01:19:54	]FA. Phelps has gained a '30rnd MP-magazine' #1976157.
+[01:19:54	]FA. Phelps has lost a '30rnd MP-magazine' #1976156.
+[01:20:00	]FA. Phelps destroyed a 'M40' #1953482.
+[01:20:07	]FA. Phelps destroyed a 'Combine Filter' #1953484.
+[01:20:08	]FA. Phelps has gained a '30rnd MP-magazine' #1976156.
+[01:20:08	]FA. Phelps has lost a '30rnd MP-magazine' #1976157.
+[01:20:18	]FA. Phelps ran 'Consume' on item 'Soda Bob Brawn' (#2034614)
+[01:20:18	]FA. Phelps extended their level 1 long boost in Perception.
+[01:20:18	]FA. Phelps extended their level 2 long boost in Agility.
+[01:20:19	]FA. Phelps ran 'Consume' on item 'Metropolice Supplements' (#2034613)
+[01:20:19	]FA. Phelps extended their level 3 long boost in Strength.
+[01:20:55	]FA. Phelps used command '/SetOwnName C24:EpU.SHIELD-14'.
+[01:21:48	]FA. Phelps has changed FA. Phelps's bodygroups.
+[01:23:04	]FA. Phelps ran 'combine' on item '30rnd MP-magazine' (#1976156)
+[01:23:17	]FA. Phelps ran 'take' on item 'Loyalist Ration' (#2018119)
+[01:23:17	]FA. Phelps has gained a 'Loyalist Ration' #2018119.
+[01:23:20	]FA. Phelps ran 'Open' on item 'Loyalist Ration' (#2018119)
+[01:23:20	]FA. Phelps has gained a 'Watermelon Slice' #2046338.
+[01:23:20	]FA. Phelps has gained a 'Apple' #2046339.
+[01:23:20	]FA. Phelps has gained a 'Sparkling Breen's Water' #2046340.
+[01:23:20	]FA. Phelps has gained a 'Medium Credits Coupon' #2046341.
+[01:23:26	]FA. Phelps ran 'Use' on item 'Medium Credits Coupon' (#2046341)
+[01:23:27	]FA. Phelps ran 'Consume' on item 'Watermelon Slice' (#2046338)
+[01:23:28	]FA. Phelps ran 'Consume' on item 'Apple' (#2046339)
+[01:23:28	]FA. Phelps has used a coupon at a ration dispenser, gaining 20 credits.
+[01:23:29	]FA. Phelps ran 'Consume' on item 'Sparkling Breen's Water' (#2046340)
+[01:23:29	]FA. Phelps has gained a 'Empty Breen's Water' #2046342.
+[01:23:31	]FA. Phelps ran 'drop' on item 'Empty Breen's Water' (#2046342)
+[01:23:31	]FA. Phelps has lost a 'Empty Breen's Water' #2046342.
+[01:23:50	]FA. Phelps has acquired his ration, gaining 0 credits, 0 wages and a civil_protection_ration ration.
+[01:24:03	]FA. Phelps ran 'take' on item 'Civil Protection Ration' (#2046343)
+[01:24:03	]FA. Phelps has gained a 'Civil Protection Ration' #2046343.
+[01:24:05	]FA. Phelps ran 'Open' on item 'Civil Protection Ration' (#2046343)
+[01:24:06	]FA. Phelps has gained a 'Metropolice Supplements' #2046344.
+[01:24:06	]FA. Phelps has gained a 'Soda Bob Brawn' #2046345.
+[01:24:06	]FA. Phelps has gained a 'Medium Credits Coupon' #2046346.
+[01:24:08	]FA. Phelps ran 'Use' on item 'Medium Credits Coupon' (#2046346)
+[01:24:09	]FA. Phelps ran 'Consume' on item 'Metropolice Supplements' (#2046344)
+[01:24:09	]FA. Phelps extended their level 3 long boost in Strength.
+[01:24:10	]FA. Phelps ran 'Consume' on item 'Soda Bob Brawn' (#2046345)
+[01:24:10	]FA. Phelps extended their level 1 long boost in Perception.
+[01:24:10	]FA. Phelps extended their level 2 long boost in Agility.
+[01:24:11	]FA. Phelps ran 'Use' on item 'Medium Credits Coupon' (#2046346)
+[01:24:13	]FA. Phelps has used a coupon at a ration dispenser, gaining 20 credits.
+[01:26:18	]FA. Phelps ran 'Equip' on item 'Combine Filter' (#1953483)
+[01:26:32	]FA. Phelps has gained a '30rnd MP-magazine' #1976157.
+[01:26:32	]FA. Phelps has lost a '30rnd MP-magazine' #1976156.
+[01:29:29	]FA. Phelps has gained a '30rnd MP-magazine' #1976156.
+[01:29:29	]FA. Phelps has lost a '30rnd MP-magazine' #1976157.
+[01:29:35	][IC] FA. Phelps: <:: Shit! ::>
+[01:29:41	][IC] FA. Phelps: <:: Yello;  infected;  shit! ::>
+[01:29:47	][IC] FA. Phelps: <:: Yelllow. ::>
+[01:29:50	][IC] FA. Phelps: <:: YELLOW. ::>
+[01:29:56	][IC] FA. Phelps: <:: Infected. ::>
+[01:29:58	][IC] FA. Phelps: <:: Infect. ::>
+[01:30:07	][IC] FA. Phelps: <:: Infection. ::>
+[01:30:16	][IC] FA. Phelps: <:: YELLOW. Infection. Shit! ::>
+[01:30:28	][IC] FA. Phelps: <:: 4 20. ::>
+[01:30:33	][IC] FA. Phelps: <:: 6 9. ::>
+[01:30:38	][IC] FA. Phelps: <:: 9 11. ::>
+[01:30:40	]FA. Phelps has gained a '30rnd MP-magazine' #1976157.
+[01:30:40	]FA. Phelps has lost a '30rnd MP-magazine' #1976155.
+[01:31:09	][IC] FA. Phelps: <:: VICE. ::>
+[01:31:15	][IC] FA. Phelps: <:: VICE. Vice. 80. ::>
+[01:34:00	]FA. Phelps has gained a '30rnd MP-magazine' #1976155.
+[01:34:00	]FA. Phelps has lost a '30rnd MP-magazine' #1976157.
+[01:34:30	]FA. Phelps has gained a 'EOTech 553 (RDS)' #2007990.
+[01:34:31	]FA. Phelps opened the 'CCG Person Lockers' stash.
+[01:34:34	]FA. Phelps ran 'EquipUn' on item 'MP5A3' (#1976154)
+[01:34:34	]FA. Phelps has gained a '30rnd MP-magazine' #1976157.
+[01:34:36	]FA. Phelps has lost a 'MP5A3' #1976154.
+[01:34:36	]FA. Phelps has transferred a 'MP5A3' #1976154 to a container with the name 'CCG Person Lockers' #94429.
+[01:34:37	]FA. Phelps closed the 'CCG Person Lockers' stash.
+[01:34:46	]FA. Phelps ran 'combine' on item '30rnd MP-magazine' (#1976156)
+[01:34:46	]FA. Phelps opened the 'CCG Person Lockers' stash.
+[01:34:49	]FA. Phelps has lost a '30rnd MP-magazine' #1976157.
+[01:34:49	]FA. Phelps has transferred a '30rnd MP-magazine' #1976157 to a container with the name 'CCG Person Lockers' #94429.
+[01:34:50	]FA. Phelps has lost a '30rnd MP-magazine' #1976156.
+[01:34:50	]FA. Phelps has transferred a '30rnd MP-magazine' #1976156 to a container with the name 'CCG Person Lockers' #94429.
+[01:34:52	]FA. Phelps has lost a '30rnd MP-magazine' #1976155.
+[01:34:52	]FA. Phelps has transferred a '30rnd MP-magazine' #1976155 to a container with the name 'CCG Person Lockers' #94429.
+[01:34:52	]FA. Phelps closed the 'CCG Person Lockers' stash.
+[01:34:55	]FA. Phelps opened the 'CCG Person Lockers' stash.
+[01:34:58	]FA. Phelps has lost a 'Sub-machinegun Bullets' #2021035.
+[01:34:58	]FA. Phelps has transferred a 'Sub-machinegun Bullets' #2021035 to a container with the name 'CCG Person Lockers' #94429.
+[01:34:59	]FA. Phelps has lost a 'Sub-machinegun Bullets' #2021034.
+[01:34:59	]FA. Phelps has transferred a 'Sub-machinegun Bullets' #2021034 to a container with the name 'CCG Person Lockers' #94429.
+[01:34:59	]FA. Phelps closed the 'CCG Person Lockers' stash.
+[01:35:05	]FA. Phelps used the 'CCG Vendor' vendor.
+[01:35:07	]FA. Phelps has gained 0 chips.
+[01:35:07	]FA. Phelps has gained a 'Model 870' #2046347.
+[01:35:12	]FA. Phelps has gained 0 chips.
+[01:35:13	]FA. Phelps has gained a 'Buckshot Shotgun Shells' #2046348.
+[01:35:13	]FA. Phelps has gained 0 chips.
+[01:35:13	]FA. Phelps has gained a 'Buckshot Shotgun Shells' #2046349.
+[01:35:14	]FA. Phelps has gained 0 chips.
+[01:35:14	]FA. Phelps has gained a 'Buckshot Shotgun Shells' #2046350.
+[01:35:15	]FA. Phelps has gained 0 chips.
+[01:35:15	]FA. Phelps has gained a 'Buckshot Shotgun Shells' #2046351.
+[01:35:19	]FA. Phelps has gained 0 chips.
+[01:35:19	]FA. Phelps has gained a '8rnd 870-magazine' #2046352.
+[01:35:20	]FA. Phelps has gained 0 chips.
+[01:35:20	]FA. Phelps has gained a '8rnd 870-magazine' #2046353.
+[01:35:21	]FA. Phelps has gained 0 chips.
+[01:35:21	]FA. Phelps has gained a '8rnd 870-magazine' #2046354.
+[01:35:22	]FA. Phelps has gained 0 chips.
+[01:35:22	]FA. Phelps has gained a '8rnd 870-magazine' #2046355.
+[01:35:25	]FA. Phelps has gained 0 chips.
+[01:35:25	]FA. Phelps has gained a '8-Round 870 Tube' #2046356.
+[01:35:28	]FA. Phelps has gained 0 chips.
+[01:35:28	]FA. Phelps has gained a 'Flash Grenade' #2046357.
+[01:35:28	]FA. Phelps has gained 0 chips.
+[01:35:30	]FA. Phelps has gained 0 chips.
+[01:35:30	]FA. Phelps has gained 0 chips.
+[01:35:32	]FA. Phelps has gained 0 chips.
+[01:35:33	]FA. Phelps has gained 0 chips.
+[01:35:38	]FA. Phelps ran 'drop' on item 'Padlock' (#1933016)
+[01:35:38	]FA. Phelps has lost a 'Padlock' #1933016.
+[01:35:41	]Console ran SAM command 'slap' with arguments: 'phelp' '0'
+[01:35:47	]Console ran SAM command 'slap' with arguments: 'phelp' '0'
+[01:35:49	]Console ran SAM command 'slap' with arguments: 'phelp' '0'
+[01:36:03	]Console ran SAM command 'freeze' with arguments: 'phelp'
+[01:36:14	]FA. Phelps ran 'drop' on item 'Goodfella Cigars' (#1976829)
+[01:36:14	]FA. Phelps has lost a 'Goodfella Cigars' #1976829.
+[01:36:14	]FA. Phelps has lost a 'Cigarette' #1976830.
+[01:36:14	]FA. Phelps has lost a 'Cigarette' #1976837.
+[01:36:14	]FA. Phelps has lost a 'Cigarette' #1976833.
+[01:36:14	]FA. Phelps has lost a 'Cigarette' #1976836.
+[01:36:14	]FA. Phelps has lost a 'Cigarette' #1976832.
+[01:36:14	]FA. Phelps has lost a 'Cigarette' #1976834.
+[01:36:14	]FA. Phelps has lost a 'Cigarette' #1976835.
+[01:36:14	]FA. Phelps has lost a 'Cigarette' #1976831.
+[01:36:27	]Console ran SAM command 'unfreeze' with arguments: 'phelp'
+[01:36:31	]FA. Phelps used command '/PrintStaffList'.
+[01:36:36	]FA. Phelps destroyed a 'Goodfella Cigars' #1976829.
+[01:36:37	]FA. Phelps used the 'CCG Vendor' vendor.
+[01:36:39	]FA. Phelps used the 'CCG Vendor' vendor.
+[01:36:44	]FA. Phelps destroyed a 'Health Vial' #2046362.
+[01:36:45	]FA. Phelps destroyed a 'Health Vial' #2046361.
+[01:36:50	]FA. Phelps has lost a '20rnd FiveSeven-magazine' #2005808.
+[01:36:51	]Console ran SAM command 'ignite' with arguments: 'phelp'
+[01:36:51	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:51	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:51	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:51	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:51	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:52	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:52	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:52	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:52	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:52	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:53	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:53	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:53	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:53	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:53	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:54	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:54	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:54	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:54	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:54	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:55	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:55	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:55	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:55	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:55	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:56	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:56	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:56	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:56	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:56	][IC] FA. Phelps: <:: Shit, shit! ::>
+[01:36:56	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:57	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:57	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:57	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:57	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:57	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:58	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:58	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:58	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:58	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:58	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:59	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:59	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:59	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:59	]FA. Phelps has taken 1 damage from entityflame.
+[01:36:59	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:00	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:00	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:00	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:00	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:00	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:01	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:01	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:01	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:01	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:01	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:02	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:02	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:02	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:02	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:02	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:03	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:03	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:03	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:03	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:03	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:04	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:04	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:04	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:04	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:04	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:05	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:05	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:05	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:05	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:05	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:06	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:06	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:06	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:06	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:06	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:07	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:07	][IC] FA. Phelps: <:: Shit! ::>
+[01:37:07	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:07	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:07	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:07	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:08	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:08	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:08	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:08	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:08	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:09	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:09	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:09	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:09	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:09	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:10	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:10	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:10	]FA. Phelps has taken 1 damage from entityflame.
+[01:37:10	]FA. Phelps has gained a '20rnd FiveSeven-magazine' #2005808.
+[01:37:10	]FA. Phelps was knocked unconscious and is bleeding out.
+[01:37:14	][IC] FA. Phelps: <:: Augh! ::>
+[01:37:16	][IC] FA. Phelps: <:: Shit! ::>
+[01:37:16	][IC] FA. Phelps: <:: Shit! ::>
+[01:37:17	][IC] FA. Phelps: <:: Shit! ::>
+[01:37:19	][IC] FA. Phelps: <:: Shit! ::>
+[01:37:20	][IC] FA. Phelps: <:: Shit! ::>
+[01:37:21	][IC] FA. Phelps: <:: Shit! ::>
+[01:37:21	]Console ran SAM command 'respawn' with arguments: 'phelp'
+[01:37:22	][IC] FA. Phelps: <:: Shit! ::>
+[01:37:23	]FA. Phelps is fully healed.
+[01:37:31	][IC] FA. Phelps: <:: Help! ::>
+[01:37:39	]FA. Phelps has lost a '20rnd FiveSeven-magazine' #2005807.
+[01:37:49	]FA. Phelps used the 'CCG Vendor' vendor.
+[01:38:04	]FA. Phelps has gained 0 chips.
+[01:38:04	]FA. Phelps has gained a 'Flash Grenade' #2046363.
+[01:38:08	]FA. Phelps ran 'Equip' on item 'Model 870' (#2046347)
+[01:38:13	]FA. Phelps has lost a 'EOTech 553 (RDS)' #2007990.
+[01:38:18	]FA. Phelps has lost a '8-Round 870 Tube' #2046356.
+[01:38:22	]FA. Phelps ran 'combine' on item '8rnd 870-magazine' (#2046355)
+[01:38:23	]FA. Phelps ran 'combine' on item '8rnd 870-magazine' (#2046352)
+[01:38:25	]FA. Phelps ran 'combine' on item '8rnd 870-magazine' (#2046354)
+[01:38:28	]FA. Phelps ran 'combine' on item '8rnd 870-magazine' (#2046353)
+[01:38:29	]FA. Phelps used the 'CCG Vendor' vendor.
+[01:38:31	]Console ran SAM command 'ignite' with arguments: 'phelp'
+[01:38:31	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:31	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:31	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:32	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:32	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:32	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:32	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:32	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:33	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:33	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:33	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:33	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:33	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:34	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:34	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:34	][IC] FA. Phelps: <:: Shit! ::>
+[01:38:34	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:34	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:34	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:35	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:35	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:35	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:35	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:35	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:36	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:36	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:36	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:36	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:36	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:37	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:37	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:37	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:37	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:37	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:38	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:38	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:38	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:38	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:38	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:39	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:39	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:39	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:39	]FA. Phelps has taken 1 damage from entityflame.
+[01:38:39	]Console ran SAM command 'extinguish' with arguments: 'phelp'
+[01:38:42	]FA. Phelps ran 'Equip' on item 'Flash Grenade' (#2046357)
+[01:38:48	][IC] FA. Phelps: <:: Grenade! ::>
+[01:38:54	][IC] FA. Phelps: <:: Augh! ::>
+[01:39:01	]FA. Phelps used the 'CCG Vendor' vendor.
+[01:39:30	]FA. Phelps has gained 0 chips.
+[01:39:30	]FA. Phelps has gained a 'Health Vial' #2046364.
+[01:39:33	]FA. Phelps ran 'use' on item 'Health Vial' (#2046364)
+[01:39:33	]FA. Phelps has performed the 'Use Health Vial' action, gaining 102 experience in medicine.
+[01:39:33	]FA. Phelps was disinfected by FA. Phelps for 379 seconds.
+[01:39:33	]FA. Phelps was bandaged by FA. Phelps for 62 HP.
+[01:39:35	]FA. Phelps used the 'CCG Vendor' vendor.
+[01:39:42	]FA. Phelps has gained 0 chips.
+[01:39:42	]FA. Phelps has gained a 'Flash Grenade' #2046365.
+[01:39:43	]FA. Phelps has gained 0 chips.
+[01:39:43	]FA. Phelps has gained a 'Flash Grenade' #2046366.
+[01:39:44	]FA. Phelps has gained 0 chips.
+[01:39:44	]FA. Phelps has gained a 'Flash Grenade' #2046367.
+[01:39:45	]FA. Phelps has gained 0 chips.
+[01:39:45	]FA. Phelps has gained a 'Flash Grenade' #2046368.
+[01:40:24	][IC] FA. Phelps: <:: Shit! ::>
+[01:40:50	]FA. Phelps has gained a '20rnd FiveSeven-magazine' #2005807.
+[01:40:50	]FA. Phelps has lost a '20rnd FiveSeven-magazine' #2005808.
+[01:40:51	]FA. Phelps has lost a '8rnd 870-magazine' #2046355.
+[01:41:09	]FA. Phelps has gained a '8rnd 870-magazine' #2046355.
+[01:41:09	]FA. Phelps has lost a '8rnd 870-magazine' #2046354.
+[01:41:22	]FA. Phelps ran 'Equip' on item 'Flash Grenade' (#2046365)
+[01:41:39	]FA. Phelps ran 'Equip' on item 'Flash Grenade' (#2046368)
+[01:41:55	]FA. Phelps ran 'Equip' on item 'Flash Grenade' (#2046366)
+[01:42:04	]FA. Phelps ran 'Equip' on item 'Flash Grenade' (#2046367)
+[01:42:12	]Rabithunter has connected.
+[01:42:20	]FA. Phelps ran 'Equip' on item 'Flash Grenade' (#2046363)
+[01:42:37	]FA. Phelps has gained a '8rnd 870-magazine' #2046354.
+[01:42:37	]FA. Phelps has lost a '8rnd 870-magazine' #2046353.
+[01:42:48	]FA. Phelps is fully healed.
+[01:43:26	]Rabithunter loaded the character 'Monika Némethová'
+[01:43:31	]Monika Némethová is fully healed.
+[01:43:41	][IC] FA. Phelps: <:: Shit! ::>
+[01:43:42	]FA. Phelps used command '/Radio shit'.
+[01:43:45	]FA. Phelps used command '/SC TAC'.
+[01:43:47	]Monika Némethová used command '/SC cca'.
+[01:43:47	]FA. Phelps used command '/Radio shit'.
+[01:43:55	]Monika Némethová used command '/Radio this is the devright?'.
+[01:43:57	]FA. Phelps used command '/Radio cp overrun'.
+[01:44:04	]Monika Némethová entered observer.
+[01:44:08	]FA. Phelps used command '/SC yeah'.
+[01:44:12	]FA. Phelps used command '/SC CCA'.
+[01:44:28	]FA. Phelps used command '/Radio yeah'.
+[01:44:35	]Monika Némethová used command '/ToggleRaise'.
+[01:44:44	]FA. Phelps has gained a '20rnd FiveSeven-magazine' #2005808.
+[01:44:44	]FA. Phelps has gained a '8rnd 870-magazine' #2046353.
+[01:44:44	]FA. Phelps was just knocked out due to: hit by stunstick owned by Monika Némethová
+[01:44:47	][IC] FA. Phelps: <:: Shit! ::>
+[01:44:50	][IC] FA. Phelps: <:: Agh! ::>
+[01:44:54	][IC] FA. Phelps: <:: Help! ::>
+[01:44:57	][IC] FA. Phelps: <:: 11-99; officer needs assistance! ::>
+[01:45:04	][IC] FA. Phelps: <:: Ugh! ::>
+[01:45:08	]FA. Phelps has taken 50 damage from worldspawn.
+[01:45:12	][IC] FA. Phelps: <:: Uagh! ::>
+[01:45:16	][IC] FA. Phelps: <:: Help! ::>
+[01:45:20	][IC] FA. Phelps: <:: Shit, shit! ::>
+[01:45:42	]Monika Némethová ran SAM command 'respawn' with arguments: 'phe'
+[01:45:43	]FA. Phelps is fully healed.
+[01:45:51	]Monika Némethová exited observer at their location.
+[01:45:54	][IC] FA. Phelps: <:: Yeah. ::>
+[01:45:58	][IC] Monika Némethová: Yeah!
+[01:46:00	]FA. Phelps has lost a '8rnd 870-magazine' #2046354.
+[01:46:01	]Monika Némethová entered observer.
+[01:46:04	][IC] FA. Phelps: <:: L. ::>
+[01:46:05	]FA. Phelps has gained a '8rnd 870-magazine' #2046354.
+[01:46:05	]FA. Phelps has lost a '8rnd 870-magazine' #2046353.
+[01:46:15	]FA. Phelps ran 'Equip' on item 'Smoke Grenade' (#1953597)
+[01:46:17	][IC] FA. Phelps: <:: Watch it! ::>
+[01:47:21	]FA. Phelps has gained a '8rnd 870-magazine' #2046353.
+[01:47:21	]FA. Phelps has lost a '8rnd 870-magazine' #2046354.
+[01:47:28	]FA. Phelps has gained a '8rnd 870-magazine' #2046354.
+[01:47:28	]FA. Phelps has lost a '8rnd 870-magazine' #2046353.
+[01:47:43	]FA. Phelps used command '/Radio report status'.
+[01:47:49	]Monika Némethová used command '/Radio fuck off'.
+[01:47:52	]FA. Phelps used command '/Radio no'.
+[01:48:06	]FA. Phelps used command '/Radio 11-99'.
+[01:48:12	]FA. Phelps has gained a '8rnd 870-magazine' #2046353.
+[01:48:12	]FA. Phelps has lost a '8rnd 870-magazine' #2046354.
+[01:48:36	]Monika Némethová used command '/PlaySound music/eventmusic/rabitsintrotheme.ogg'.
+[01:48:43	]FA. Phelps has gained a '8rnd 870-magazine' #2046354.
+[01:48:43	]FA. Phelps has lost a '8rnd 870-magazine' #2046353.
+[01:48:47	]Monika Némethová exited observer at their location.
+[01:48:53	]Rabithunter loaded the character 'Pathfinder'
+[01:48:58	]Pathfinder is fully healed.
+[01:49:02	]Pathfinder has lost a '30rnd AK-magazine' #2010657.
+[01:49:02	]Pathfinder has gained a '30rnd AK-magazine' #2010656.
+[01:49:03	]Pathfinder entered observer.
+[01:49:11	]Pathfinder exited observer at their location.
+[01:49:15	]Pathfinder used command '/ToggleRaise'.
+[01:49:27	]FA. Phelps has hit Pathfinder in the chest dealing 6 damage (CritChance was 0.29).
+[01:49:27	]Pathfinder has taken 6 damage from FA. Phelps.
+[01:49:27	]FA. Phelps has hit Pathfinder in the left leg dealing 3 damage (CritChance was 0.29).
+[01:49:27	]Pathfinder has taken 2 damage from FA. Phelps.
+[01:49:27	]FA. Phelps has gained level 43 in the Guns skill.
+[01:49:27	]FA. Phelps has hit Pathfinder in the left leg dealing 3 damage (CritChance was 0.29).
+[01:49:27	]Pathfinder has taken 2 damage from FA. Phelps.
+[01:49:27	]FA. Phelps has critically hit Pathfinder in the left arm dealing 0 damage (CritChance was 0.29).
+[01:49:27	]FA. Phelps has hit Pathfinder in the left arm dealing 3 damage (CritChance was 0.29).
+[01:49:27	]Pathfinder has taken 2 damage from FA. Phelps.
+[01:49:28	]Pathfinder is fully healed.
+[01:49:28	]Pathfinder has hit FA. Phelps in the left arm dealing 6 damage (CritChance was 0.28).
+[01:49:28	]FA. Phelps has taken 6 damage from Pathfinder.
+[01:49:28	]FA. Phelps has hit Pathfinder in the right arm dealing 3 damage (CritChance was 0.29).
+[01:49:28	]Pathfinder has taken 2 damage from FA. Phelps.
+[01:49:28	]FA. Phelps has critically hit Pathfinder in the right arm dealing 3 damage (CritChance was 0.29).
+[01:49:28	]Pathfinder has taken 2 damage from FA. Phelps.
+[01:49:28	]FA. Phelps has hit Pathfinder in the left arm dealing 3 damage (CritChance was 0.29).
+[01:49:28	]Pathfinder has taken 2 damage from FA. Phelps.
+[01:49:28	]Pathfinder has hit FA. Phelps in the stomach dealing 14 damage (CritChance was 0.28).
+[01:49:28	]FA. Phelps has taken 14 damage from Pathfinder.
+[01:49:28	]Pathfinder has hit FA. Phelps in the stomach dealing 14 damage (CritChance was 0.28).
+[01:49:28	]FA. Phelps has taken 14 damage from Pathfinder.
+[01:49:28	]Pathfinder has critically hit FA. Phelps in the chest dealing 0 damage (CritChance was 0.28).
+[01:49:28	]Pathfinder has critically hit FA. Phelps in the left arm dealing 6 damage (CritChance was 0.28).
+[01:49:28	]FA. Phelps has taken 6 damage from Pathfinder.
+[01:49:28	]Pathfinder has critically hit FA. Phelps in the chest dealing 22 damage (CritChance was 0.28).
+[01:49:28	]FA. Phelps has taken 22 damage from Pathfinder.
+[01:49:29	]Pathfinder has critically hit FA. Phelps in the left arm dealing 6 damage (CritChance was 0.80).
+[01:49:29	]FA. Phelps has taken 6 damage from Pathfinder.
+[01:49:29	]FA. Phelps has critically hit Pathfinder in the stomach dealing 10 damage (CritChance was 0.29).
+[01:49:29	]Pathfinder has taken 10 damage from FA. Phelps.
+[01:49:29	]FA. Phelps has critically hit Pathfinder in the left arm dealing 3 damage (CritChance was 0.29).
+[01:49:29	]Pathfinder has taken 2 damage from FA. Phelps.
+[01:49:29	]FA. Phelps has hit Pathfinder in the stomach dealing 6 damage (CritChance was 0.29).
+[01:49:29	]Pathfinder has taken 6 damage from FA. Phelps.
+[01:49:29	]FA. Phelps has critically hit Pathfinder in the left leg dealing 3 damage (CritChance was 0.84).
+[01:49:29	]Pathfinder has taken 2 damage from FA. Phelps.
+[01:49:29	]FA. Phelps has critically hit Pathfinder in the stomach dealing 10 damage (CritChance was 0.84).
+[01:49:29	]Pathfinder has taken 10 damage from FA. Phelps.
+[01:49:29	]FA. Phelps has critically hit Pathfinder in the right leg dealing 3 damage (CritChance was 0.84).
+[01:49:29	]Pathfinder has taken 2 damage from FA. Phelps.
+[01:49:29	]FA. Phelps has gained level 44 in the Guns skill.
+[01:49:29	]FA. Phelps has critically hit Pathfinder in the left arm dealing 3 damage (CritChance was 0.84).
+[01:49:29	]Pathfinder has taken 2 damage from FA. Phelps.
+[01:49:29	]FA. Phelps has hit Pathfinder in the left arm dealing 0 damage (CritChance was 0.84).
+[01:49:29	]FA. Phelps has critically hit Pathfinder in the left arm dealing 3 damage (CritChance was 0.84).
+[01:49:29	]Pathfinder has taken 2 damage from FA. Phelps.
+[01:49:29	]FA. Phelps has hit Pathfinder in the chest dealing 6 damage (CritChance was 0.84).
+[01:49:29	]Pathfinder has taken 6 damage from FA. Phelps.
+[01:49:30	]FA. Phelps has critically hit Pathfinder in the stomach dealing 10 damage (CritChance was 0.84).
+[01:49:30	]Pathfinder has taken 10 damage from FA. Phelps.
+[01:49:30	]FA. Phelps has critically hit Pathfinder in the stomach dealing 10 damage (CritChance was 0.84).
+[01:49:30	]Pathfinder has taken 10 damage from FA. Phelps.
+[01:49:34	]FA. Phelps has gained a '8rnd 870-magazine' #2046353.
+[01:49:34	]FA. Phelps has lost a '8rnd 870-magazine' #2046354.
+[01:50:08	]Pathfinder ran 'Repair' on item 'Medium Kevlar Uniform' (#1785221)
+[01:50:11	]Pathfinder ran 'use' on item 'First Aid Kit' (#1875993)
+[01:50:11	]Pathfinder has performed the 'Use First Aid Kit' action, gaining 85 experience in medicine.
+[01:50:11	]Pathfinder was disinfected by Pathfinder for 103 seconds.
+[01:50:11	]Pathfinder was bandaged by Pathfinder for 54 HP.
+[01:50:14	]Pathfinder ran 'use' on item 'First Aid Kit' (#1875993)
+[01:50:14	]Pathfinder has performed the 'Use First Aid Kit' action, gaining 23 experience in medicine.
+[01:50:14	]Pathfinder was disinfected by Pathfinder for 103 seconds.
+[01:50:14	]Pathfinder was bandaged by Pathfinder for 54 HP.
+[01:50:15	]Pathfinder ran 'split' on item 'Disinfected Bandage Roll' (#1834163)
+[01:50:15	]Pathfinder has gained a 'Disinfected Bandage Roll' #2046369.
+[01:50:16	]Pathfinder ran 'use' on item 'Disinfected Bandage Roll' (#2046369)
+[01:50:16	]Pathfinder tried to disinfect Pathfinder but the wound was already clean.
+[01:50:16	]Pathfinder was bandaged by Pathfinder for 16 HP.
+[01:50:25	]Pathfinder has gained a '30rnd AK-magazine' #2010657.
+[01:50:25	]Pathfinder has lost a '30rnd AK-magazine' #2010656.
+[01:50:38	]Pathfinder has critically hit FA. Phelps in the left arm dealing 6 damage (CritChance was 0.80).
+[01:50:38	]FA. Phelps has taken 6 damage from Pathfinder.
+[01:50:38	]Pathfinder has critically hit FA. Phelps in the chest dealing 0 damage (CritChance was 0.80).
+[01:50:38	]Pathfinder has critically hit FA. Phelps in the left arm dealing 6 damage (CritChance was 0.80).
+[01:50:38	]FA. Phelps has taken 6 damage from Pathfinder.
+[01:50:38	]Pathfinder has critically hit FA. Phelps in the right arm dealing 6 damage (CritChance was 0.80).
+[01:50:38	]FA. Phelps has taken 6 damage from Pathfinder.
+[01:50:39	]Pathfinder has critically hit FA. Phelps in the chest dealing 0 damage (CritChance was 0.80).
+[01:50:39	]Pathfinder has critically hit FA. Phelps in the left arm dealing 6 damage (CritChance was 0.80).
+[01:50:39	]FA. Phelps has taken 6 damage from Pathfinder.
+[01:50:39	]Pathfinder has critically hit FA. Phelps in the left arm dealing 6 damage (CritChance was 0.80).
+[01:50:39	]FA. Phelps has taken 6 damage from Pathfinder.
+[01:50:39	]Pathfinder has critically hit FA. Phelps in the right arm dealing 6 damage (CritChance was 0.80).
+[01:50:39	]FA. Phelps has taken 6 damage from Pathfinder.
+[01:50:39	]Pathfinder has hit FA. Phelps in the chest dealing 0 damage (CritChance was 0.80).
+[01:50:39	]Pathfinder has critically hit FA. Phelps in the left arm dealing 6 damage (CritChance was 0.80).
+[01:50:39	]FA. Phelps has taken 6 damage from Pathfinder.
+[01:50:39	]FA. Phelps has hit Pathfinder in the right leg dealing 3 damage (CritChance was 0.29).
+[01:50:39	]Pathfinder has taken 2 damage from FA. Phelps.
+[01:50:39	]FA. Phelps has hit Pathfinder in the stomach dealing 6 damage (CritChance was 0.29).
+[01:50:39	]Pathfinder has taken 6 damage from FA. Phelps.
+[01:50:39	]FA. Phelps has hit Pathfinder in the stomach dealing 6 damage (CritChance was 0.29).
+[01:50:39	]Pathfinder has taken 6 damage from FA. Phelps.
+[01:50:39	]FA. Phelps has hit Pathfinder in the stomach dealing 6 damage (CritChance was 0.29).
+[01:50:39	]Pathfinder has taken 6 damage from FA. Phelps.
+[01:50:39	]FA. Phelps has hit Pathfinder in the stomach dealing 6 damage (CritChance was 0.29).
+[01:50:39	]Pathfinder has taken 6 damage from FA. Phelps.
+[01:50:39	]FA. Phelps has hit Pathfinder in the stomach dealing 6 damage (CritChance was 0.29).
+[01:50:39	]Pathfinder has taken 6 damage from FA. Phelps.
+[01:50:40	]Pathfinder has critically hit FA. Phelps in the left arm dealing 6 damage (CritChance was 0.80).
+[01:50:40	]FA. Phelps has taken 6 damage from Pathfinder.
+[01:50:40	]Pathfinder has critically hit FA. Phelps in the chest dealing 22 damage (CritChance was 0.80).
+[01:50:40	]FA. Phelps has taken 22 damage from Pathfinder.
+[01:50:40	]Pathfinder has critically hit FA. Phelps in the chest dealing 22 damage (CritChance was 0.80).
+[01:50:40	]FA. Phelps has gained a '8rnd 870-magazine' #2046354.
+[01:50:40	]FA. Phelps was knocked unconscious and is bleeding out.
+[01:50:49	][IC] FA. Phelps: <:: Help! ::>
+[01:50:52	]Pathfinder ran SAM command 'respawn' with arguments: 'phel'
+[01:50:53	]FA. Phelps is fully healed.
+[01:50:54	]Pathfinder has gained a '30rnd AK-magazine' #2010656.
+[01:50:54	]Pathfinder has lost a '30rnd AK-magazine' #2010655.
+[01:50:56	]FA. Phelps used command '/Radio 10-99'.
+[01:51:01	]FA. Phelps has lost a '8rnd 870-magazine' #2046352.
+[01:51:59	]Pathfinder ran SAM command 'stopsound' with arguments: ''
+[01:52:26	]FA. Phelps has gained a '8rnd 870-magazine' #2046352.
+[01:52:26	]FA. Phelps has lost a '8rnd 870-magazine' #2046355.
+[01:52:30	][IC] FA. Phelps: <:: Citizen. ::>
+[01:52:32	][IC] FA. Phelps: <:: Move along! ::>
+[01:52:36	][IC] Pathfinder: Hmm.
+[01:52:40	][IC] Pathfinder: How about no?
+[01:52:45	][IC] FA. Phelps: <:: Move it! ::>
+[01:52:46	][IC] FA. Phelps: <:: Haha. ::>
+[01:52:52	][IC] Pathfinder: <:: HAHA!::>.
+[01:53:05	][IC] FA. Phelps: <:: Haha. ::>
+[01:53:06	][IC] Pathfinder: You're funny.
+[01:53:10	][IC] Pathfinder: Get down!
+[01:53:13	][IC] FA. Phelps: <:: Shit! ::>
+[01:53:16	][IC] FA. Phelps: <:: Move it! ::>
+[01:53:20	][IC] Pathfinder: No.
+[01:53:21	][IC] FA. Phelps: <:: YELLOW. Shit! ::>
+[01:53:41	][IC] FA. Phelps: <:: Gotta find the rebels. ::>
+[01:53:46	][IC] Pathfinder: Yeah!
+[01:53:49	]FA. Phelps has gained a '8rnd 870-magazine' #2046355.
+[01:53:49	]FA. Phelps has lost a '8rnd 870-magazine' #2046352.
+[01:53:53	]FA. Phelps has gained a '8rnd 870-magazine' #2046352.
+[01:53:53	]FA. Phelps has lost a '8rnd 870-magazine' #2046355.
+[01:53:59	]FA. Phelps has gained a '8rnd 870-magazine' #2046355.
+[01:53:59	]FA. Phelps has lost a '8rnd 870-magazine' #2046352.
+[01:54:13	][IC] FA. Phelps: <:: Yeah. ::>
+[01:54:22	][IC] Pathfinder: Must be here somewhere.
+[01:54:27	][IC] FA. Phelps: <:: Yeah. ::>
+[01:54:48	][IC] FA. Phelps: <:: One sec. ::>
+[01:55:52	][IC] FA. Phelps: <:: Sorry my dog was being an asshole. ::>
+[01:55:56	][IC] FA. Phelps: <:: By the way. ::>
+[01:56:00	][IC] FA. Phelps: <:: Change your desc. ::>
+[01:56:02	][IC] FA. Phelps: <:: To AK. ::>
+[01:56:04	][IC] FA. Phelps: <:: Not M4. ::>
+[01:56:44	][IC] Pathfinder: Aye will do on the main. Dev wont transfer over (I hope it wont).
+[01:56:49	][IC] Pathfinder: Afk for a bit.
+[01:56:53	][IC] FA. Phelps: <:: Yeah. ::>
+[01:56:54	]FA. Phelps has gained a '8rnd 870-magazine' #2046352.
+[01:56:54	]FA. Phelps has lost a '8rnd 870-magazine' #2046355.
+[01:57:07	]FA. Phelps has gained a '8rnd 870-magazine' #2046355.
+[01:57:07	]FA. Phelps has lost a '8rnd 870-magazine' #2046352.
+[01:57:28	]FA. Phelps has lost a '20rnd FiveSeven-magazine' #2005808.
+[01:57:37	]FA. Phelps has gained a '20rnd FiveSeven-magazine' #2005808.
+[01:57:37	]FA. Phelps has lost a '20rnd FiveSeven-magazine' #2005807.
+[01:57:45	]FA. Phelps ran 'combine' on item '20rnd FiveSeven-magazine' (#2005808)
+[01:57:46	]FA. Phelps has gained a '20rnd FiveSeven-magazine' #2005807.
+[01:57:46	]FA. Phelps has lost a '20rnd FiveSeven-magazine' #2005808.
+[01:57:50	]FA. Phelps ran 'combine' on item '20rnd FiveSeven-magazine' (#2005807)
+[01:57:50	]FA. Phelps ran 'combine' on item '20rnd FiveSeven-magazine' (#2005807)
+[01:58:00	]FA. Phelps ran 'combine' on item '8rnd 870-magazine' (#2046355)
+[01:58:02	]FA. Phelps ran 'combine' on item '8rnd 870-magazine' (#2046354)
+[01:58:03	]FA. Phelps ran 'combine' on item '8rnd 870-magazine' (#2046353)
+[01:58:05	]FA. Phelps ran 'combine' on item '8rnd 870-magazine' (#2046353)
+[01:59:13	]FA. Phelps has changed FA. Phelps's bodygroups.
+[01:59:25	]FA. Phelps ran 'give' on item 'Disinfected Bandage Roll' (#1953493)
+[01:59:25	]FA. Phelps has performed the 'Use Disinfected Bandage Roll' action, gaining 22 experience in medicine.
+[01:59:25	]Pathfinder was disinfected by FA. Phelps for 132 seconds.
+[01:59:25	]Pathfinder was bandaged by FA. Phelps for 18 HP.
+[02:00:16	]Pathfinder entered observer.
+[02:00:23	]Pathfinder exited observer at their location.
+[02:00:27	][IC] FA. Phelps: <:: Rabbit. ::>
+[02:00:35	][IC] FA. Phelps: <:: Can you do something for me. ::>
+[02:00:45	][IC] FA. Phelps: <:: Can you give me vort whitelist? ::>
+[02:00:48	][IC] FA. Phelps: <:: Wanna try something. ::>
+[02:01:05	]Pathfinder used command '/PlyWhitelist phelps vort'.
+[02:01:09	][IC] FA. Phelps: <:: Thanks. ::>
+[02:01:10	][IC] FA. Phelps: <:: One second. ::>
+[02:01:12	]Pathfinder entered observer.
+[02:01:12	]Pathfinder exited observer at their location.
+[02:01:58	]Pathfinder has given himself a cca_legs_authoritarian.
+[02:01:59	]Pathfinder has gained a 'The Authoritarian Trousers' #2046370.
+[02:02:02	]Pathfinder has given himself a cca_executive.
+[02:02:02	]Pathfinder has gained a 'The Executive' #2046371.
+[02:02:10	]Pathfinder has given himself a shoes_dress_shoes.
+[02:02:10	]Pathfinder has gained a 'Dress Shoes' #2046372.
+[02:02:59	]Nesh created the character 'Rah-Vur'nal'
+[02:03:00	]Nesh loaded the character 'Rah-Vur'nal'
+[02:03:34	][IC] Rah-Vur'nal: Yes.
+[02:03:35	][IC] Pathfinder: Hi.
+[02:03:44	][IC] Rah-Vur'nal: Can you give me the extract blunt?
+[02:03:55	]Pathfinder has spawned a ing_xen_extract.
+[02:04:00	]Rah-Vur'nal ran 'take' on item 'Antlion Extract' (#2046373)
+[02:04:00	]Rah-Vur'nal has gained a 'Antlion Extract' #2046373.
+[02:04:10	][IC] Rah-Vur'nal: Thanks.
+[02:04:11	]Pathfinder is admin-searching Rah-Vur'nal's inventory.
+[02:04:11	]Pathfinder has used a context menu option with the name: ixviewinventory
+[02:04:12	]Pathfinder has closed Rah-Vur'nal's inventory.
+[02:04:14	]Pathfinder is admin-searching Rah-Vur'nal's inventory.
+[02:04:14	]Pathfinder has used a context menu option with the name: ixviewinventory
+[02:04:20	][IC] Rah-Vur'nal: Does the pathfinder want to kill the NPC's?
+[02:04:22	]Pathfinder has closed Rah-Vur'nal's inventory.
+[02:04:28	][IC] Pathfinder: Yeah!
+[02:04:29	][IC] Pathfinder: No.
+[02:04:34	][IC] Rah-Vur'nal: :(.
+[02:04:40	]Pathfinder has taken 65 damage from Rah-Vur'nal.
+[02:04:40	][VORT] Rah-Vur'nal has damaged Pathfinder, dealing 65.4 with vortbeam
+[02:04:48	]Pathfinder used command '/ToggleRaise'.
+[02:04:53	]Pathfinder has critically hit Rah-Vur'nal dealing 21 damage (CritChance was 0.78).
+[02:04:53	]Rah-Vur'nal has taken 21 damage from Pathfinder.
+[02:04:53	]Pathfinder has critically hit Rah-Vur'nal dealing 22 damage (CritChance was 0.78).
+[02:04:53	]Rah-Vur'nal has taken 22 damage from Pathfinder.
+[02:04:53	]Pathfinder has critically hit Rah-Vur'nal dealing 22 damage (CritChance was 0.78).
+[02:04:53	]Rah-Vur'nal has taken 22 damage from Pathfinder.
+[02:04:53	]Pathfinder has gained a '30rnd AK-magazine' #2010655.
+[02:04:53	]Pathfinder was knocked unconscious and is bleeding out.
+[02:04:53	][VORT] Rah-Vur'nal has damaged Pathfinder, dealing 65.4 with vortbeam
+[02:04:57	][VORT] Rah-Vur'nal has damaged Pathfinder, dealing 65.4 with vortbeam
+[02:05:01	]Pathfinder ran SAM command 'respawn' with arguments: 'path'
+[02:05:06	][IC] Rah-Vur'nal: Gong...
+[02:05:10	][IC] Pathfinder: Whoops!
+[02:05:11	][IC] Rah-Vur'nal: Allow me.
+[02:05:21	]Pathfinder has taken 9 damage from Rah-Vur'nal.
+[02:05:21	]Rah-Vur'nal has damaged Pathfinder, dealing 9 with ix_hands
+[02:05:25	][IC] Rah-Vur'nal: Allow me.
+[02:05:32	][VORT] Rah-Vur'nal has healed Pathfinder
+[02:05:35	][IC] Pathfinder: Nice.
+[02:05:41	][IC] Rah-Vur'nal: Yes.
+[02:05:54	][IC] Rah-Vur'nal: Turr, lung gurr chalachurr gunn, gong lurr..
+[02:06:04	][IC] Rah-Vur'nal: Chur lung gong chella gurr...
+[02:06:11	][IC] Rah-Vur'nal: Churr! Galih churr alla gunn'!
+[02:06:16	][Y] Rah-Vur'nal: Shaa.
+[02:06:30	][Y] Rah-Vur'nal: Shaaaaa!
+[02:06:39	][IC] Pathfinder: Hiu.
+[02:06:40	][IC] Rah-Vur'nal: Greetings.
+[02:06:41	][IC] Pathfinder: Hi.
+[02:06:58	][IC] Rah-Vur'nal: Can you give me antlion armor.
+[02:07:06	][IC] Rah-Vur'nal: And a repair kit.
+[02:07:09	][IC] Rah-Vur'nal: I know its ass.
+[02:07:11	][IC] Rah-Vur'nal: But drip.
+[02:07:13	]Pathfinder has spawned a vortigaunt_torso_armor.
+[02:07:20	]Rah-Vur'nal ran 'take' on item 'Vortigaunt Antlion Guard Plate' (#2046374)
+[02:07:20	]Rah-Vur'nal has gained a 'Vortigaunt Antlion Guard Plate' #2046374.
+[02:07:41	][IC] Rah-Vur'nal: Yes.
+[02:07:54	][Y] Rah-Vur'nal: Dey'nach? *Unintelligible*.
+[02:08:01	][Y] Rah-Vur'nal: Dey'nahh?
+[02:08:07	][Y] Rah-Vur'nal: Shaa!
+[02:08:09	]Rabithunter (STEAM_0:1:22394854) has disconnected.
+[02:08:43	][VORT] Rah-Vur'nal has damaged npc_combine_camera, dealing 65.4 with vortbeam
+[02:09:08	]Nesh loaded the character 'FA. Phelps'
+[02:09:26	]Nesh loaded the character 'Rah-Vur'nal'
+[02:09:31	]Rah-Vur'nal is fully healed.
+[02:10:05	][VORT] Rah-Vur'nal has damaged npc_combine_camera, dealing 65.4 with vortbeam
+[02:10:08	][VORT] Rah-Vur'nal has damaged npc_combine_camera, dealing 65.4 with vortbeam
+[02:10:16	]Rah-Vur'nal has gained level 11 in the Vortessence skill.
+[02:10:29	][VORTSHOUT] Rah-Vur'nal: I hate the combine!
+[02:11:19	]Rah-Vur'nal used command '/EnterMeditation'.
+[02:11:27	]Rah-Vur'nal used command '/ActIdle'.
+[02:12:01	][IC] Rah-Vur'nal: Shaaaaa!
+[02:13:56	]Rah-Vur'nal used command '/ActIdle'.
+[02:13:59	]Rah-Vur'nal used command '/ExitAct'.
+[02:14:10	]Rah-Vur'nal used command '/ActKneel'.
+[02:14:31	]Rah-Vur'nal used command '/ActSit'.
+[02:14:32	]Rah-Vur'nal used command '/ExitAct'.
+[02:14:51	]Rah-Vur'nal used command '/EnterMeditation'.
+[02:17:14	][VORT] Rah-Vur'nal has damaged npc_combine_camera, dealing 66.3 with vortbeam
+[02:17:27	]Rah-Vur'nal used command '/EnterMeditation'.
+[02:17:31	]Rah-Vur'nal used command '/ActIdle'.
+[02:18:05	][Y] Rah-Vur'nal: Https://docs.google.com/document/d/1p_guU_vxrgunKZyWrmgRMx4NYXAjpcBlvTaSeGod2_Q/edit.
+[02:18:08	][Y] Rah-Vur'nal: Shaaaaa!
+[02:18:12	][Y] Rah-Vur'nal: Dey'nach? *Unintelligible*.
+[02:18:16	][Y] Rah-Vur'nal: Shaa!
+[02:18:25	][Y] Rah-Vur'nal: Chant.
+[02:18:35	][IC] Rah-Vur'nal: A human is needed!
+[02:18:47	][IC] Rah-Vur'nal: Certainly.
+[02:18:58	][IC] Rah-Vur'nal: We beg your awareness...
+[02:19:09	][IC] Rah-Vur'nal: Your bright face obscures your darker mask.
+[02:19:17	][IC] Rah-Vur'nal: I have a brain injury.
+[02:19:25	][IC] Rah-Vur'nal: My brain is injured.
+[02:19:32	][IC] Rah-Vur'nal: I have a brain injury.
+[02:19:37	][IC] Rah-Vur'nal: My brain is injured!
+[02:19:38	][IC] Rah-Vur'nal: Ow.
+[02:19:41	]Rah-Vur'nal used command '/ExitAct'.
+[02:19:45	]Rah-Vur'nal used command '/EnterMeditation'.
+[02:20:26	]Rah-Vur'nal has gained level 1 in the Speed skill.
+[02:21:56	]Nesh loaded the character 'FA. Phelps'
+[02:22:20	]FA. Phelps has gained a '8rnd 870-magazine' #2046352.
+[02:22:20	]FA. Phelps has lost a '8rnd 870-magazine' #2046355.
+[02:23:47	]Nesh loaded the character 'Rah-Vur'nal'
+[02:26:18	]Rah-Vur'nal used command '/EnterMeditation'.
+[02:26:24	]Rah-Vur'nal used command '/ActIdle'.
+[02:28:30	]dudeperson has connected.
+[02:29:27	]dudeperson (STEAM_0:0:10470765) deleted character 'Michael Copelin'
+[02:29:31	]dudeperson loaded the character 'Matthew Brewer'
+[02:29:36	]Matthew Brewer is fully healed.
+[02:30:12	]dudeperson loaded the character 'Mark Redfern'
+[02:30:17	]Mark Redfern is fully healed.
+[02:30:22	]Mark Redfern opened the 'Sewer Stash' stash.
+[02:30:32	]Mark Redfern closed the 'Sewer Stash' stash.
+[02:30:34	]Rah-Vur'nal used command '/ExitAct'.
+[02:30:40	]Rah-Vur'nal used command '/EnterMeditation'.
+[02:32:20	]Mark Redfern opened the 'Sewer Stash' stash.
+[02:32:20	]Mark Redfern closed the 'Sewer Stash' stash.
+[02:32:21	]Mark Redfern opened the 'Sewer Stash' stash.
+[02:32:21	]Mark Redfern closed the 'Sewer Stash' stash.
+[02:32:26	]Mark Redfern has taken 66 damage from Rah-Vur'nal.
+[02:32:26	][VORT] Rah-Vur'nal has damaged Mark Redfern, dealing 66.3 with vortbeam
+[02:32:30	][IC] Rah-Vur'nal: Whoops.
+[02:32:32	][IC] Rah-Vur'nal: Wrong one.
+[02:32:42	]Rah-Vur'nal used command '/EnterMeditation'.
+[02:32:47	]Rah-Vur'nal used command '/ActIdle'.
+[02:32:49	][IC] Mark Redfern: Minge.
+[02:32:51	]Mark Redfern opened the 'Sewer Stash' stash.
+[02:32:52	][IC] Rah-Vur'nal: Yes.
+[02:32:54	]Mark Redfern closed the 'Sewer Stash' stash.
+[02:32:57	]Mark Redfern used command '/CharDesc'.
+[02:33:00	][Y] Rah-Vur'nal: Shaa!
+[02:33:01	]Mark Redfern used command '/CharDesc'.
+[02:33:05	]Mark Redfern opened the 'Sewer Stash' stash.
+[02:33:05	]Mark Redfern closed the 'Sewer Stash' stash.
+[02:33:08	]Mark Redfern opened the 'Sewer Stash' stash.
+[02:33:15	]Mark Redfern closed the 'Sewer Stash' stash.
+[02:33:18	][IC] Mark Redfern: No abzats :(.
+[02:33:23	]Mark Redfern used command '/CharDesc'.
+[02:33:23	][IC] Rah-Vur'nal: Yes.
+[02:33:33	]Mark Redfern opened the 'Sewer Stash' stash.
+[02:33:33	]Mark Redfern closed the 'Sewer Stash' stash.
+[02:33:34	]Mark Redfern opened the 'Sewer Stash' stash.
+[02:33:38	][IC] Rah-Vur'nal: Certainly.
+[02:33:41	]Mark Redfern closed the 'Sewer Stash' stash.
+[02:33:42	]Rah-Vur'nal used command '/ExitAct'.
+[02:33:44	][IC] Mark Redfern: How are you vort.
+[02:33:46	]Rah-Vur'nal used command '/EnterMeditation'.
+[02:33:46	][IC] Mark Redfern: Wtf is going on.
+[02:33:51	][IC] Rah-Vur'nal: Allow me.
+[02:34:01	][IC] Rah-Vur'nal: The Aeric needs assistances.
+[02:34:07	][LOOC] Mark Redfern: mfw u kill me
+[02:34:09	][VORT] Rah-Vur'nal has healed Mark Redfern
+[02:34:17	]Rah-Vur'nal used command '/ActIdle'.
+[02:34:33	][IC] Mark Redfern: Why is the server empty bro i got on gmod thinking there'd be ppl but its just your ass.
+[02:34:36	][IC] Rah-Vur'nal: The Aeric needs some of the bitches.
+[02:34:39	]Mark Redfern opened the 'Sewer Stash' stash.
+[02:34:41	][IC] Rah-Vur'nal: There was.
+[02:34:46	]Mark Redfern closed the 'Sewer Stash' stash.
+[02:34:53	][IC] Rah-Vur'nal: You got on to late.
+[02:34:58	][IC] Rah-Vur'nal: Tell Vadim to get on.
+[02:35:10	][IC] Mark Redfern: Ur in the discord you ask him.
+[02:35:22	]Mark Redfern opened the 'Sewer Stash' stash.
+[02:35:24	]Rah-Vur'nal used command '/ExitAct'.
+[02:35:29	]Rah-Vur'nal opened the 'Sewer Stash' stash.
+[02:35:33	]Rah-Vur'nal closed the 'Sewer Stash' stash.
+[02:35:40	][IC] Rah-Vur'nal: I have the extract blunr.
+[02:35:43	]Mark Redfern closed the 'Sewer Stash' stash.
+[02:35:44	][IC] Rah-Vur'nal: Blunt*.
+[02:35:49	][IC] Mark Redfern: On god? Pass me that shit bruh.
+[02:35:50	]Mark Redfern opened the 'Sewer Stash' stash.
+[02:35:53	][IC] Rah-Vur'nal: I can find bluu's location.
+[02:35:55	]Mark Redfern closed the 'Sewer Stash' stash.
+[02:36:17	][IC] Mark Redfern: Cant interact with one of your own chars :skull:.
+[02:36:21	]Mark Redfern opened the 'Sewer Stash' stash.
+[02:36:25	][IC] Rah-Vur'nal: Yes I can.
+[02:36:26	][IC] Rah-Vur'nal: Watch me.
+[02:36:28	]Mark Redfern closed the 'Sewer Stash' stash.
+[02:36:30	][IC] Mark Redfern: Ok do it.
+[02:36:34	][IC] Mark Redfern: (on the dev server).
+[02:36:38	][IC] Rah-Vur'nal: *Coughing*.
+[02:36:46	][IT] Rah-Vur'nal: finds Bluu's location
+[02:36:56	][IC] Mark Redfern: Ok? Who's going to save bluu.... You?
+[02:36:57	][IC] Rah-Vur'nal: *Coughing*.
+[02:36:58	][IC] Rah-Vur'nal: *Coughing*.
+[02:37:02	][IC] Rah-Vur'nal: Yes.
+[02:37:05	][IC] Mark Redfern: Real.
+[02:37:08	][IC] Mark Redfern: Event char bluu.
+[02:37:08	][IC] Rah-Vur'nal: I got the extract blunt.
+[02:37:15	][IC] Rah-Vur'nal: *Coughing*.
+[02:37:15	][IC] Mark Redfern: Pass me it i want to smoke that shit.
+[02:37:16	][IC] Rah-Vur'nal: *Coughing*.
+[02:37:17	][IC] Rah-Vur'nal: *Coughing*.
+[02:37:25	][ME] Rah-Vur'nal: smokes the Extract Blunt
+[02:37:26	][IC] Rah-Vur'nal: *Coughing*.
+[02:37:27	][IC] Rah-Vur'nal: *Coughing*.
+[02:37:37	][ME] Rah-Vur'nal: passes the blunt
+[02:37:50	][LOOC] Rah-Vur'nal: I'm not dropping it
+[02:37:58	][IC] Mark Redfern: We're on the dev server :sob:.
+[02:38:02	][IC] Rah-Vur'nal: I know.
+[02:38:04	][IC] Rah-Vur'nal: But still.
+[02:38:10	][IC] Rah-Vur'nal: I'm gonna use it later.
+[02:38:13	][IC] Rah-Vur'nal: Allow me.
+[02:38:21	][IC] Mark Redfern: Im sure you will get addicted to the extract blunt.
+[02:38:21	][IC] Rah-Vur'nal: Certainly allow me.
+[02:38:30	][IC] Rah-Vur'nal: Certainly.
+[02:38:33	]Mark Redfern opened the 'Sewer Stash' stash.
+[02:38:42	][VORT] Rah-Vur'nal has healed Mark Redfern
+[02:38:50	]Rah-Vur'nal used command '/EnterMeditation'.
+[02:38:55	]Mark Redfern closed the 'Sewer Stash' stash.
+[02:38:59	][OOC] Rah-Vur'nal: actidle
+[02:39:04	]Rah-Vur'nal used command '/ActIdle'.
+[02:39:07	][IC] Mark Redfern: Ok.
+[02:39:11	][IC] Mark Redfern: My final message: change the world.
+[02:39:14	][IC] Rah-Vur'nal: Wanna pvp or something.
+[02:39:19	][IC] Mark Redfern: No.
+[02:39:20	]dudeperson (STEAM_0:0:10470765) has disconnected.
+[02:39:22	][IC] Rah-Vur'nal: Pussy.
+[02:39:37	][IC] Rah-Vur'nal: We need help!
+[02:39:45	][IC] Rah-Vur'nal: That is all for now.
+[02:39:52	][IC] Rah-Vur'nal: It is an honor.
+[02:39:58	][IC] Rah-Vur'nal: By our honor.
+[02:40:59	]Rah-Vur'nal used command '/ExitAct'.
+[02:41:06	]Rah-Vur'nal used command '/EnterMeditation'.
+[02:41:08	][IC] Rah-Vur'nal: Yes.
+[02:43:10	][IC] Rah-Vur'nal: Accept the charge.
+[02:43:16	][IC] Rah-Vur'nal: Accept energy.
+[02:43:26	][IC] Rah-Vur'nal: As you wish.
+[02:43:31	][IC] Rah-Vur'nal: Combine.
+[02:43:39	][IC] Rah-Vur'nal: The Combine have other of my kin.
+[02:44:02	][IC] Rah-Vur'nal: The Combine will pay in kind for their depravity.
+[02:44:36	][IC] Rah-Vur'nal: We have lost all dear to us.
+[02:44:48	][IC] Rah-Vur'nal: I am pleased to see at least you are unharmed.
+[02:44:56	][IC] Rah-Vur'nal: Allow us to recharge your cells.
+[02:45:04	][IC] Rah-Vur'nal: Almost vortal, this bound between you...
+[02:45:13	][IC] Rah-Vur'nal: Attend, now and learn to shepherd antlions with this so-called bug-bait.
+[02:45:25	][IC] Rah-Vur'nal: Attend, now and learn to shepherd antlions with this so-called bug-bait.
+[02:45:29	]Rah-Vur'nal used command '/ActIdle'.
+[02:45:37	][IC] Rah-Vur'nal: Antlion husbandry was once our ancestral practice.
+[02:45:47	][IC] Rah-Vur'nal: Now, attend well. Apply pressure to your pheropod, to signal the antlions in your command to follow you.
+[02:46:10	][IC] Rah-Vur'nal: That immense repellant device promises surcease from endless antlion attacks.
+[02:46:19	][IC] Rah-Vur'nal: Headcrabs have had their way with both parties.
+[02:46:25	][IC] Rah-Vur'nal: Communion of the vortessence, and that other: a deeper mystery. No deeper than the void itself.
+[02:46:41	][IC] Rah-Vur'nal: Weeeeeeeeeeeeeeeeeeeeah-uh *Coughing*.
+[02:46:56	]Rah-Vur'nal used command '/ExitAct'.
+[02:47:14	]Rah-Vur'nal used command '/ActIdle'.
+[02:47:56	][IC] Rah-Vur'nal: Calm Yourself.
+[02:48:06	][IC] Rah-Vur'nal: Chaa... Kurr? Par'ah..
+[02:48:22	][IC] Rah-Vur'nal: Churr! Galih churr alla gunn'!
+[02:48:30	][IC] Rah-Vur'nal: Turr, lung gurr chalachurr gunn, gong lurr..
+[02:48:56	][IC] Rah-Vur'nal: Chaa... Kurr? Par'ah..
+[02:49:10	][Y] Rah-Vur'nal: Shaaaaa!
+[02:49:14	][Y] Rah-Vur'nal: Dey'nahh?
+[02:49:20	][Y] Rah-Vur'nal: Dey'nach? *Unintelligible*.
+[02:49:26	][Y] Rah-Vur'nal: Shaa!
+[02:49:34	]Rah-Vur'nal used command '/ExitAct'.
+[02:50:13	]Rah-Vur'nal has gained level 2 in the Speed skill.
+[02:51:22	]Rah-Vur'nal used command '/EnterMeditation'.
+[02:51:58	]Nesh (STEAM_0:1:545569447) has disconnected.
+[03:18:41	]ISpilledMyRamen has connected.
+[03:19:54	]ISpilledMyRamen loaded the character 'Ulysses Nathius'
+[03:19:59	]Ulysses Nathius is fully healed.
+[03:20:10	]Ulysses Nathius ran 'Listen' on item 'Learn Japanese - Chapter 5 - An Audiobook' (#2021188)
+[03:20:14	][JAP] Ulysses Nathius: FUCK ME
+[03:21:18	]Ulysses Nathius ran 'Insert' on item 'Vending Machine Key' (#1997731)
+[03:21:24	]Ulysses Nathius ran 'Consume' on item 'Breen's Water' (#2034681)
+[03:21:24	]Ulysses Nathius has gained a 'Empty Breen's Water' #2046375.
+[03:21:25	]Ulysses Nathius ran 'Consume' on item 'Breen's Water' (#2035037)
+[03:21:25	]Ulysses Nathius has gained a 'Empty Breen's Water' #2046376.
+[03:21:25	]Ulysses Nathius ran 'Consume' on item 'Breen's Water' (#2035038)
+[03:21:25	]Ulysses Nathius has gained a 'Empty Breen's Water' #2046377.
+[03:21:26	]Ulysses Nathius ran 'Consume' on item 'Breen's Water' (#2035036)
+[03:21:26	]Ulysses Nathius has gained a 'Empty Breen's Water' #2046378.
+[03:21:27	]Ulysses Nathius ran 'Consume' on item 'Breen's Water' (#2034664)
+[03:21:27	]Ulysses Nathius has gained a 'Empty Breen's Water' #2046379.
+[03:21:27	]Ulysses Nathius ran 'Consume' on item 'Breen's Water' (#2034680)
+[03:21:27	]Ulysses Nathius has gained a 'Empty Breen's Water' #2046380.
+[03:21:28	]Ulysses Nathius ran 'Consume' on item 'Breen's Water' (#2045242)
+[03:21:28	]Ulysses Nathius has gained a 'Empty Breen's Water' #2046381.
+[03:21:28	]Ulysses Nathius ran 'Consume' on item 'Breen's Water' (#2045894)
+[03:21:28	]Ulysses Nathius has gained a 'Empty Breen's Water' #2046382.
+[03:21:29	]Ulysses Nathius ran 'drop' on item 'Empty Breen's Water' (#2031401)
+[03:21:30	]Ulysses Nathius ran 'Consume' on item 'Breen's Water' (#2034660)
+[03:21:30	]Ulysses Nathius has gained a 'Empty Breen's Water' #2046383.
+[03:21:31	]Ulysses Nathius ran 'Consume' on item 'Breen's Water' (#2033166)
+[03:21:31	]Ulysses Nathius has gained a 'Empty Breen's Water' #2046384.
+[03:21:32	]Ulysses Nathius ran 'Consume' on item 'Breen's Water' (#2035049)
+[03:21:32	]Ulysses Nathius has gained a 'Empty Breen's Water' #2046385.
+[03:21:32	]Ulysses Nathius ran 'Consume' on item 'Breen's Water' (#2032557)
+[03:21:32	]Ulysses Nathius has gained a 'Empty Breen's Water' #2046386.
+[03:21:33	]Ulysses Nathius ran 'Consume' on item 'Breen's Water' (#2032558)
+[03:21:33	]Ulysses Nathius has gained a 'Empty Breen's Water' #2046387.
+[03:21:33	]Ulysses Nathius ran 'Consume' on item 'Breen's Water' (#2032553)
+[03:21:33	]Ulysses Nathius has gained a 'Empty Breen's Water' #2046388.
+[03:21:37	]Ulysses Nathius ran 'take' on item 'Empty Breen's Water' (#2031401)
+[03:21:37	]Ulysses Nathius has gained a 'Empty Breen's Water' #2031401.
+[03:21:58	]ISpilledMyRamen (STEAM_0:0:426186854) has disconnected.
+[03:30:21	]Nesh has connected.
+[03:32:16	]Meme_Lord_Satan has connected.
+[03:33:22	]Nesh loaded the character 'Rah-Vur'nal'
+[03:33:54	]Rah-Vur'nal used command '/EnterMeditation'.
+[03:37:25	]Meme_Lord_Satan (STEAM_0:0:460104247) has disconnected (timed out).
+[03:41:13	]Meme_Lord_Satan has connected.
+[03:43:06	]Rah-Vur'nal used command '/EnterMeditation'.
+[03:46:27	]Meme_Lord_Satan created the character 'Juex'Lia'
+[03:46:28	]Meme_Lord_Satan loaded the character 'Juex'Lia'
+[03:47:54	][IC] Juex'Lia: Gong...
+[03:47:56	][IC] Rah-Vur'nal: Gong...
+[03:48:02	][IC] Rah-Vur'nal: Chaa... Kurr? Par'ah..
+[03:48:05	]Rah-Vur'nal used command '/ActIdle'.
+[03:48:08	][IC] Juex'Lia: Chaa... Kurr? Par'ah..
+[03:48:12	]Juex'Lia used command '/ActIdle'.
+[03:48:18	][IC] Juex'Lia: Churr! Galih churr alla gunn'!
+[03:48:19	][IC] Rah-Vur'nal: Chur lung gong chella gurr...
+[03:48:24	][IC] Juex'Lia: Turr, lung gurr chalachurr gunn, gong lurr..
+[03:48:32	][IC] Rah-Vur'nal: Ah ghurrrr...
+[03:48:40	][IC] Juex'Lia: Ahghurr.
+[03:48:49	][IC] Juex'Lia: Ah ghurrrr...
+[03:48:50	][IC] Rah-Vur'nal: . AGHGUR.
+[03:48:53	][IC] Rah-Vur'nal: Ah ghurrrr...
+[03:48:58	][IC] Rah-Vur'nal: Chaa... Kurr? Par'ah..
+[03:49:00	][IC] Juex'Lia: Shaaaaa!
+[03:49:02	]Juex'Lia used command '/ExitAct'.
+[03:49:05	][IC] Rah-Vur'nal: Shaa!
+[03:49:05	]Rah-Vur'nal used command '/ExitAct'.
+[03:49:14	][IC] Rah-Vur'nal: The Combine will pay in kind for their depravity.
+[03:49:20	]Juex'Lia used command '/EnterMeditation'.
+[03:49:23	]Juex'Lia used command '/ActIdle'.
+[03:49:28	][IC] Juex'Lia: Lurr...
+[03:49:29	]Rah-Vur'nal used command '/EnterMeditation'.
+[03:49:34	]Rah-Vur'nal used command '/ActIdle'.
+[03:49:35	][IC] Rah-Vur'nal: Gong...
+[03:49:42	][IC] Juex'Lia: Galla'lung...
+[03:49:45	][IC] Rah-Vur'nal: Chaa... Kurr? Par'ah..
+[03:50:04	][IC] Juex'Lia: Combine.
+[03:50:09	][IC] Rah-Vur'nal: Taaar...
+[03:50:13	][IC] Rah-Vur'nal: Lung.
+[03:50:14	][IC] Juex'Lia: The Combine have other of my kin.
+[03:50:19	]Rah-Vur'nal used command '/ExitAct'.
+[03:50:20	][IC] Juex'Lia: The Combine, yes!
+[03:50:27	][IC] Rah-Vur'nal: Cooking.
+[03:50:28	]Juex'Lia used command '/EnterMeditation'.
+[03:50:29	]Juex'Lia used command '/ExitAct'.
+[03:50:30	]Juex'Lia used command '/ExitAct'.
+[03:50:32	]Rah-Vur'nal used command '/EnterMeditation'.
+[03:50:43	][IC] Rah-Vur'nal: Follow.
+[03:50:52	][IC] Rah-Vur'nal: Allow me.
+[03:51:00	][IC] Juex'Lia: Yes...
+[03:51:31	][IC] Juex'Lia: Hm...
+[03:51:37	][IC] Rah-Vur'nal: Gong...
+[03:51:42	][IC] Rah-Vur'nal: Yes...
+[03:51:47	][IC] Juex'Lia: Excellent!
+[03:51:52	][IC] Rah-Vur'nal: Certainly.
+[03:52:07	][IC] Rah-Vur'nal: Hm...
+[03:52:24	][IC] Rah-Vur'nal: Yes.
+[03:52:28	][IC] Juex'Lia: Enter...
+[03:52:32	][IC] Rah-Vur'nal: Cooking.
+[03:52:35	][IC] Juex'Lia: Ah, yes!
+[03:52:47	][IC] Rah-Vur'nal: A human is needed!
+[03:52:52	][IC] Juex'Lia: Agreed.
+[03:53:03	][IC] Rah-Vur'nal: Oops.
+[03:53:07	][IC] Juex'Lia: Excellent shooting!
+[03:53:11	][IC] Rah-Vur'nal: Yes.
+[03:53:15	][IC] Rah-Vur'nal: Caution!
+[03:53:18	][IC] Juex'Lia: Where.
+[03:53:42	][IC] Rah-Vur'nal: Caution!
+[03:53:47	][Y] Rah-Vur'nal: Shaa!
+[03:53:54	][VORT] Juex'Lia has damaged npc_combine_camera, dealing 73.5 with vortbeam
+[03:53:57	][VORT] Juex'Lia has damaged npc_combine_camera, dealing 73.5 with vortbeam
+[03:54:03	][IC] Juex'Lia: They come.
+[03:54:08	][Y] Juex'Lia: For freedom!
+[03:54:12	][Y] Rah-Vur'nal: Shaaaaa!
+[03:54:15	][VORT] Juex'Lia has damaged npc_combine_camera, dealing 73.5 with vortbeam
+[03:54:17	][VORT] Rah-Vur'nal has damaged npc_combine_camera, dealing 66.3 with vortbeam
+[03:54:17	]Rah-Vur'nal has gained level 12 in the Vortessence skill.
+[03:54:24	][VORT] Rah-Vur'nal has damaged npc_combine_camera, dealing 67.2 with vortbeam
+[03:54:26	][VORT] Juex'Lia has damaged npc_combine_camera, dealing 73.5 with vortbeam
+[03:54:27	][VORT] Rah-Vur'nal has damaged npc_combine_camera, dealing 67.2 with vortbeam
+[03:54:33	][Y] Rah-Vur'nal: Dey'nach? *Unintelligible*.
+[03:55:10	][OOC] Rah-Vur'nal: let me get on my cp
+[03:55:15	][OOC] Juex'Lia: ok
+[03:55:17	]Nesh loaded the character 'FA. Phelps'
+[03:55:32	][IC] Juex'Lia: Onward!
+[03:55:43	]FA. Phelps ran 'EquipUn' on item 'Combine Filter' (#1953483)
+[03:55:46	]FA. Phelps ran 'drop' on item 'CP Mask' (#2046337)
+[03:55:46	]FA. Phelps has lost a 'CP Mask' #2046337.
+[03:55:48	]FA. Phelps ran 'take' on item 'CP Mask' (#2046337)
+[03:55:48	]FA. Phelps has gained a 'CP Mask' #2046337.
+[03:55:55	]FA. Phelps ran 'Equip' on item 'Combine Filter' (#1953483)
+[03:56:33	][IC] FA. Phelps: <:: Haha. ::>
+[03:56:46	][IC] Juex'Lia: Chaa... Kurr? Par'ah..
+[03:56:50	][IC] FA. Phelps: <:: Move it! ::>
+[03:57:03	][IC] FA. Phelps: <:: Watch it! ::>
+[03:57:14	][VORT] Juex'Lia has damaged npc_combine_camera, dealing 73.5 with vortbeam
+[03:57:14	]Juex'Lia has gained level 11 in the Vortessence skill.
+[03:57:17	][VORT] Juex'Lia has damaged npc_combine_camera, dealing 74.4 with vortbeam
+[03:57:18	][IC] FA. Phelps: <:: Augh! ::>
+[03:57:22	][IC] Juex'Lia: To the void with you!
+[03:58:01	][IC] FA. Phelps: <:: A phone. ::>
+[03:58:02	][IC] FA. Phelps: <:: Haha. ::>
+[03:58:18	][IC] FA. Phelps: <:: A radio. ::>
+[03:58:27	][IC] Juex'Lia: What they doing up here.
+[03:58:32	][IC] FA. Phelps: <:: Beats me. ::>
+[03:59:11	][IC] Juex'Lia: Turr, lung gurr chalachurr gunn, gong lurr..
+[03:59:27	][Y] Juex'Lia: Open!
+[03:59:32	][IC] Juex'Lia: Hm...
+[04:00:00	]FA. Phelps opened the 'Recieved Sector Updates' #95549 container.
+[04:05:30	]Nesh has connected.
+[04:08:08	]Nesh loaded the character 'Rah-Vur'nal'
+[04:08:13	]Rah-Vur'nal is fully healed.
+[04:08:38	][VORT] Rah-Vur'nal has damaged npc_combine_camera, dealing 67.2 with vortbeam
+[04:09:28	]Rah-Vur'nal opened the 'Refrigerator' #96998 container.
+[04:09:30	]Rah-Vur'nal closed the 'Refrigerator' #96998 container.
+[04:10:23	]Rah-Vur'nal ran 'Write' on item 'WORKSHIFT TERMINAL' (#1953052)
+[04:10:28	]Rah-Vur'nal ran 'Write' on item 'WORKSHIFT TERMINAL' (#1953052)
+[04:11:00	]Rah-Vur'nal opened the 'Large Metal Desk' #94391 container.
+[04:11:01	]Rah-Vur'nal closed the 'Large Metal Desk' #94391 container.
+[04:11:02	]Rah-Vur'nal opened the 'Small Metal Desk' #94392 container.
+[04:11:04	]Rah-Vur'nal closed the 'Small Metal Desk' #94392 container.
+[04:12:12	]Nesh (STEAM_0:1:545569447) has disconnected.
+[19:11:38	]Nesh has connected.
+[19:12:54	]Nesh loaded the character 'FA. Phelps'
+[19:12:59	]FA. Phelps is fully healed.
+[19:13:06	]FA. Phelps opened the 'Recieved Sector Updates' #95549 container.
+[19:13:09	]FA. Phelps ran 'Write' on item '[City 22] Retraction of Exports' (#1967108)
+[19:13:46	]FA. Phelps ran 'Write' on item '[Industrial 24] Manpower Falling' (#1967127)
+[19:14:08	]FA. Phelps ran 'Write' on item '[Sector Ten] Import Update' (#1967114)
+[19:14:15	]FA. Phelps closed the 'Recieved Sector Updates' #95549 container.
+[19:15:39	]FA. Phelps has lost a '8rnd 870-magazine' #2046354.
+[19:15:39	]FA. Phelps has gained a '8rnd 870-magazine' #2046355.
+[19:16:28	][IC] FA. Phelps: <:: Shit, shit. ::>
+[19:16:33	][IC] FA. Phelps: <:: Shit, shit! ::>
+[19:16:45	][IC] FA. Phelps: <:: Inject, yellow. Shit! ::>
+[19:17:31	]FA. Phelps has gained a '8rnd 870-magazine' #2046354.
+[19:17:31	]FA. Phelps has lost a '8rnd 870-magazine' #2046355.
+[19:17:43	]FA. Phelps has gained a '8rnd 870-magazine' #2046355.
+[19:17:43	]FA. Phelps has lost a '8rnd 870-magazine' #2046353.
+[19:17:45	][IC] FA. Phelps: <:: Agh! ::>
+[19:17:57	][IC] FA. Phelps: <:: Shit, shit! ::>
+[19:18:36	]FA. Phelps has gained a '8rnd 870-magazine' #2046353.
+[19:18:36	]FA. Phelps has lost a '8rnd 870-magazine' #2046352.
+[19:18:44	]Nesh loaded the character 'Rah-Vur'nal'
+[19:21:55	]Rah-Vur'nal has taken 7 damage from worldspawn.
+[19:22:00	][VORT] Rah-Vur'nal has damaged npc_combine_camera, dealing 67.2 with vortbeam
+[19:22:04	]Rah-Vur'nal has gained level 3 in the Speed skill.
+[19:22:16	][IC] Rah-Vur'nal: Chaa... Kurr? Par'ah..
+[19:22:25	][Y] Rah-Vur'nal: Shaaaaa!
+[19:22:31	]Rah-Vur'nal has taken 34 damage from worldspawn.
+[19:22:41	][IC] Rah-Vur'nal: Tar.
+[19:22:51	][IC] Rah-Vur'nal: I will make the journey to seek the extract deep within the nest, in the sacred nectarium.
+[19:22:59	][IC] Rah-Vur'nal: Yes.
+[19:23:09	][ME] Rah-Vur'nal: pulls out their weapon, aiming it at their target. They take a deep breath before squeezing the trigger, letting out a vol
+[19:23:14	][IC] Rah-Vur'nal: Our bonds are of nature, and require no gratitude.
+[19:23:31	][IC] Rah-Vur'nal: Ah ghurrrr...
+[19:23:33	][IC] Rah-Vur'nal: Ah, yes!
+[19:23:36	][IC] Rah-Vur'nal: Ah...
+[19:23:39	][IC] Rah-Vur'nal: Ah...
+[19:23:46	][IC] Rah-Vur'nal: Where.
+[19:23:52	][IC] Rah-Vur'nal: Attend, now and learn to shepherd antlions with this so-called bug-bait.
+[19:24:03	]Rah-Vur'nal has taken 41 damage from worldspawn.
+[19:24:42	][IC] Rah-Vur'nal: Caution!
+[19:24:44	][IC] Rah-Vur'nal: Where.
+[19:24:56	][IC] Rah-Vur'nal: Where. Antlions!
+[19:25:01	]Rah-Vur'nal has taken 48 damage from worldspawn.
+[19:25:20	]Rah-Vur'nal has taken 34 damage from worldspawn.
+[19:25:23	]Rah-Vur'nal has gained level 13 in the Vortessence skill.
+[19:25:59	]Rah-Vur'nal was knocked unconscious and is bleeding out.
+[19:26:15	]Rah-Vur'nal was just killed due to: accepting their death
+[19:27:09	]Rah-Vur'nal used command '/ActIdle'.
+[19:27:13	]Rah-Vur'nal used command '/EnterMeditation'.
+[19:39:24	]Rah-Vur'nal used command '/ExitAct'.
+[19:39:32	]Rah-Vur'nal used command '/EnterMeditation'.
+[19:39:36	][IC] Rah-Vur'nal: Where.
+[19:39:41	][IC] Rah-Vur'nal: Where.
+[19:39:45	]Nesh (STEAM_0:1:545569447) has disconnected.
+[21:43:02	]Nesh has connected.
+[21:45:23	]Nesh loaded the character 'FA. Phelps'
+[21:45:52	]FA. Phelps ran 'EquipUn' on item 'Combine Filter' (#1953483)
+[21:46:51	]FA. Phelps has changed FA. Phelps's bodygroups.
+[21:47:05	]FA. Phelps has gained a '8rnd 870-magazine' #2046352.
+[21:47:05	]FA. Phelps has lost a '8rnd 870-magazine' #2046355.
+[21:48:16	]FA. Phelps has gained a '8rnd 870-magazine' #2046355.
+[21:48:16	]FA. Phelps has lost a '8rnd 870-magazine' #2046352.
+[21:48:45	]FA. Phelps has gained a '8rnd 870-magazine' #2046352.
+[21:48:45	]FA. Phelps has lost a '8rnd 870-magazine' #2046355.
+[21:48:55	][IC] FA. Phelps: <:: Inject, yellow. Shit! ::>
+[21:49:05	]FA. Phelps ran 'combine' on item '8rnd 870-magazine' (#2046353)
+[21:49:08	]FA. Phelps ran 'combine' on item '8rnd 870-magazine' (#2046352)
+[21:49:10	]FA. Phelps ran 'combine' on item '8rnd 870-magazine' (#2046354)
+[21:49:12	]FA. Phelps ran 'combine' on item '8rnd 870-magazine' (#2046354)
+[21:50:24	]FA. Phelps has gained a '8rnd 870-magazine' #2046355.
+[21:50:24	]FA. Phelps has lost a '8rnd 870-magazine' #2046354.
+[21:50:29	]FA. Phelps ran 'combine' on item '8rnd 870-magazine' (#2046355)
+[21:52:45	]FA. Phelps has lost a '20rnd FiveSeven-magazine' #2005807.
+[21:52:45	]FA. Phelps has gained a '20rnd FiveSeven-magazine' #2005808.
+[21:53:02	]FA. Phelps used command '/Doorkick'.
+[21:53:14	]FA. Phelps used command '/Doorkick'.
+[21:53:35	]FA. Phelps has gained a '8rnd 870-magazine' #2046354.
+[21:53:35	]FA. Phelps has lost a '8rnd 870-magazine' #2046355.
+[21:53:45	]FA. Phelps used command '/Radio 11-99 I FOUND DON LORENZO!'.
+[21:53:54	]FA. Phelps has gained a '8rnd 870-magazine' #2046355.
+[21:53:54	]FA. Phelps has lost a '8rnd 870-magazine' #2046353.
+[21:53:59	]FA. Phelps used command '/SC TAC-3'.
+[21:54:10	]FA. Phelps has gained a '8rnd 870-magazine' #2046353.
+[21:54:10	]FA. Phelps has lost a '8rnd 870-magazine' #2046352.
+[21:56:31	][IC] FA. Phelps: <:: 11-99; officer needs assistance! ::>
+[21:56:38	][IC] FA. Phelps: <:: Move it! ::>
+[21:56:51	][IC] FA. Phelps: <:: Inject, yellow. Shit! ::>
+[21:57:22	]FA. Phelps has gained a '8rnd 870-magazine' #2046352.
+[21:57:22	]FA. Phelps has lost a '8rnd 870-magazine' #2046354.
+[21:58:03	]FA. Phelps has acquired his ration, gaining 0 credits, 0 wages and a civil_protection_ration ration.
+[21:58:16	]FA. Phelps ran 'take' on item 'Civil Protection Ration' (#2046389)
+[21:58:16	]FA. Phelps has gained a 'Civil Protection Ration' #2046389.
+[21:58:20	]FA. Phelps ran 'Open' on item 'Civil Protection Ration' (#2046389)
+[21:58:24	]FA. Phelps ran 'Open' on item 'Civil Protection Ration' (#2046389)
+[21:58:25	]FA. Phelps ran 'Open' on item 'Civil Protection Ration' (#2046389)
+[21:58:29	]FA. Phelps ran 'Open' on item 'Civil Protection Ration' (#2046389)
+[21:58:31	]FA. Phelps ran 'Open' on item 'Civil Protection Ration' (#2046389)
+[21:58:32	]FA. Phelps ran 'drop' on item 'Civil Protection Ration' (#2046389)
+[21:58:34	]FA. Phelps ran 'drop' on item 'Civil Protection Ration' (#2046389)
+[22:00:53	]FA. Phelps ran 'Write' on item 'XRAY, read.' (#1972249)
+[22:01:04	]FA. Phelps ran 'Write' on item 'XRAY, read.' (#1972249)
+[22:02:56	]FA. Phelps ran 'Open' on item 'Civil Protection Ration' (#2046389)
+[22:02:58	]FA. Phelps ran 'drop' on item 'Civil Protection Ration' (#2046389)
+[22:03:48	]FA. Phelps ran 'ViewAlt' on item 'Goodfella Cigars' (#1958026)
+[22:04:46	]FA. Phelps opened the 'Bookcase' #94397 container.
+[22:04:46	]FA. Phelps closed the 'Bookcase' #94397 container.
+[22:04:47	]FA. Phelps opened the 'Bookcase' #94397 container.
+[22:04:49	]FA. Phelps closed the 'Bookcase' #94397 container.
+[22:04:51	]FA. Phelps opened the 'Bookcase' #94398 container.
+[22:04:53	]FA. Phelps closed the 'Bookcase' #94398 container.
+[22:04:56	]FA. Phelps opened the 'Bookcase' #94400 container.
+[22:04:59	]FA. Phelps closed the 'Bookcase' #94400 container.
+[22:06:00	]FA. Phelps has gained a '8rnd 870-magazine' #2046354.
+[22:06:02	]FA. Phelps has gained a '8rnd 870-magazine' #2046352.
+[22:06:04	]FA. Phelps has gained a '8rnd 870-magazine' #2046352.
+[22:06:11	]FA. Phelps has gained a '8rnd 870-magazine' #2046354.
+[22:06:13	]FA. Phelps ran 'combine' on item '8rnd 870-magazine' (#2046352)
+[22:06:14	]FA. Phelps ran 'combine' on item '8rnd 870-magazine' (#2046355)
+[22:06:22	]Nesh loaded the character 'Rah-Vur'nal'
+[22:08:21	]Rah-Vur'nal opened the 'Refrigerator' #94359 container.
+[22:08:23	]Rah-Vur'nal closed the 'Refrigerator' #94359 container.
+[22:09:41	]Rah-Vur'nal opened the 'Large Metal Cabinet' #94496 container.
+[22:09:48	]Rah-Vur'nal closed the 'Large Metal Cabinet' #94496 container.
+[22:09:50	]Rah-Vur'nal opened the 'Large Metal Cabinet' #94496 container.
+[22:10:01	]Rah-Vur'nal closed the 'Large Metal Cabinet' #94496 container.
+[22:10:33	][VORT] Rah-Vur'nal has damaged npc_combine_camera, dealing 68.1 with vortbeam
+[22:10:36	][VORT] Rah-Vur'nal has damaged npc_combine_camera, dealing 68.1 with vortbeam
+[22:11:35	][IC] Rah-Vur'nal: Chaa... Kurr? Par'ah..
+[22:17:30	]Rah-Vur'nal has gained level 4 in the Speed skill.
+[22:17:42	]Rah-Vur'nal used command '/ActIdle'.
+[22:17:46	]Rah-Vur'nal used command '/EnterMeditation'.
+[22:20:06	][Y] Rah-Vur'nal: Shaaaaa!
+[22:20:11	][Y] Rah-Vur'nal: Dey'nahh?
+[22:20:15	][Y] Rah-Vur'nal: Dey'nach? *Unintelligible*.
+[22:20:20	][Y] Rah-Vur'nal: Shaa!
+[22:20:23	]Rah-Vur'nal used command '/ExitAct'.
+[22:20:30	]Rah-Vur'nal used command '/EnterMeditation'.
+[22:20:37	][Y] Rah-Vur'nal: Shaa!
+[22:21:44	][Y] Rah-Vur'nal: Shaaaaa!
+[22:22:10	][Y] Rah-Vur'nal: Shaa!
+[22:23:08	][Y] Rah-Vur'nal: Shaaaaa!
+[22:24:07	][IC] Rah-Vur'nal: Chaa... Kurr? Par'ah..
+[22:24:16	][IC] Rah-Vur'nal: Allow me.
+[22:25:01	][IC] Rah-Vur'nal: Certainly.
+[22:25:07	][IC] Rah-Vur'nal: Ah...
+[22:25:10	][IC] Rah-Vur'nal: Ah...
+[22:25:14	][IC] Rah-Vur'nal: Agreed.
+[22:25:15	][IC] Rah-Vur'nal: Agreed.
+[22:25:21	][IC] Rah-Vur'nal: Gladly we accompany.
+[22:25:32	][IC] Rah-Vur'nal: Now, attend well. Apply pressure to your pheropod, to signal the antlions in your command to follow you.
+[22:25:42	][IC] Rah-Vur'nal: Atend.
+[22:25:44	][IC] Rah-Vur'nal: Attend, now and learn to shepherd antlions with this so-called bug-bait.
+[22:25:52	]Rah-Vur'nal used the 'Heavy Smuggler' smuggler.
+[22:25:57	][IC] Rah-Vur'nal: Hm...
+[22:26:09	][IC] Rah-Vur'nal: Allow us to recharge your cells.
+[22:26:16	][IC] Rah-Vur'nal: All we have is yours.
+[22:26:31	][IC] Rah-Vur'nal: Communion of the vortessence, and that other: a deeper mystery. No deeper than the void itself.
+[22:26:40	][IC] Rah-Vur'nal: You bare some traits we thought inate to vortikind.
+[22:26:53	][IC] Rah-Vur'nal: Where.
+[22:26:55	][IC] Rah-Vur'nal: Assent.
+[22:27:03	][Y] Rah-Vur'nal: Shaa!
+[22:27:13	][ME] Rah-Vur'nal: pulls out their weapon, aiming it at their target. They take a deep breath before squeezing the trigger, letting out a vol
+[22:27:35	][IC] Rah-Vur'nal: Hmm.
+[22:27:37	][IC] Rah-Vur'nal: Hm...
+[22:27:43	][Y] Rah-Vur'nal: Dey'nach? *Unintelligible*.
+[22:27:52	][IC] Rah-Vur'nal: Chaa... Kurr? Par'ah..
+[22:28:01	]Rah-Vur'nal has damaged npc_combine_camera, dealing 9.0003 with ix_hands
+[22:28:02	]Rah-Vur'nal has damaged npc_combine_camera, dealing 9.0003 with ix_hands
+[22:28:03	]Rah-Vur'nal has damaged npc_combine_camera, dealing 9.0003 with ix_hands
+[22:28:04	]Rah-Vur'nal has damaged npc_combine_camera, dealing 9.0003 with ix_hands
+[22:28:04	]Rah-Vur'nal has damaged npc_combine_camera, dealing 9.0003 with ix_hands
+[22:28:05	]Rah-Vur'nal has damaged npc_combine_camera, dealing 9.0003 with ix_hands
+[22:28:06	]Rah-Vur'nal has damaged npc_combine_camera, dealing 9.0003 with ix_hands
+[22:28:07	]Rah-Vur'nal has damaged npc_combine_camera, dealing 9.0003 with ix_hands
+[22:28:08	]Rah-Vur'nal has damaged npc_combine_camera, dealing 9.0003 with ix_hands
+[22:28:09	]Rah-Vur'nal has damaged npc_combine_camera, dealing 9.0003 with ix_hands
+[22:28:13	][VORT] Rah-Vur'nal has damaged npc_combine_camera, dealing 68.1 with vortbeam
+[22:28:26	][IC] Rah-Vur'nal: Shaa!
+[22:28:30	][IC] Rah-Vur'nal: Dey'nach? *Unintelligible*.
+[22:28:46	][IC] Rah-Vur'nal: The Combine, yes!
+[22:28:59	][IC] Rah-Vur'nal: We believe the opposite.
+[22:30:24	]Rah-Vur'nal used command '/ToggleVortalVision'.
+[22:30:39	]Rah-Vur'nal used command '/ToggleVortalSensing'.
+[22:30:45	]Rah-Vur'nal used command '/ToggleVortalVision'.
+[22:33:10	][Y] Rah-Vur'nal: Chaa... Kurr? Par'ah..
+[22:33:24	][IC] Rah-Vur'nal: The guardian...
+[22:33:39	]Nesh loaded the character 'FA. Phelps'
+[22:35:16	]Nesh loaded the character 'Rah-Vur'nal'
+[22:36:49	]Rah-Vur'nal used command '/EnterMeditation'.
+[22:37:05	]Rah-Vur'nal used command '/ActIdle'.
+[22:39:58	]Rah-Vur'nal used command '/PrintStaffList'.
+[22:41:42	]Nesh (STEAM_0:1:545569447) has disconnected.
+[22:44:38	]Galungah has connected.
+[22:48:43	]Galungah loaded the character 'Elijah Grey'
+[22:49:13	]Elijah Grey is fully healed.
+[22:49:43	]Elijah Grey opened the 'Sewer Stash' stash.
+[22:49:49	]Elijah Grey closed the 'Sewer Stash' stash.
+[22:51:06	]Galungah has unloaded their "Elijah Grey" character.
+[22:51:18	]Galungah loaded the character 'Luis D'Macron'
+[22:51:32	]Galungah has unloaded their "Luis D'Macron" character.
+[22:51:44	]Galungah loaded the character 'Willard D'Marcus'
+[22:51:49	]Willard D'Marcus is fully healed.
+[22:53:56	]Willard D'Marcus opened the 'Metal Trash Can' #94491 container.
+[22:53:56	]Willard D'Marcus closed the 'Metal Trash Can' #94491 container.
+[22:53:58	]Willard D'Marcus opened the 'Metal Trash Can' #94491 container.
+[22:53:59	]Willard D'Marcus closed the 'Metal Trash Can' #94491 container.
+[22:54:04	]Willard D'Marcus opened the 'Metal Trash Can' #94490 container.
+[22:54:04	]Willard D'Marcus closed the 'Metal Trash Can' #94490 container.
+[22:54:05	]Willard D'Marcus opened the 'Metal Trash Can' #94490 container.
+[22:54:07	]Willard D'Marcus closed the 'Metal Trash Can' #94490 container.
+[22:55:17	]Willard D'Marcus used command '/ActSit 5'.
+[22:55:18	]Willard D'Marcus used command '/ExitAct'.
+[22:55:34	]Willard D'Marcus has gained level 17 in the Speed skill.
+[22:59:54	][IC] Willard D'Marcus: Yo.
+[22:59:58	][IC] Willard D'Marcus: Yo nig.
+[23:01:25	]Willard D'Marcus opened the 'Metal Trash Can' #98123 container.
+[23:01:27	]Willard D'Marcus closed the 'Metal Trash Can' #98123 container.
+[23:01:27	]Willard D'Marcus opened the 'Metal Trash Can' #98123 container.
+[23:01:29	]Willard D'Marcus closed the 'Metal Trash Can' #98123 container.
+[23:01:58	]Willard D'Marcus used command '/ActSit 5'.
+[23:02:00	]Willard D'Marcus used command '/ExitAct'.
+[23:02:01	]Willard D'Marcus used command '/ActSit 4'.
+[23:02:03	]Willard D'Marcus used command '/ExitAct'.
+[23:02:04	]Willard D'Marcus used command '/ActSit 6'.
+[23:02:06	]Willard D'Marcus used command '/ExitAct'.
+[23:02:08	]Willard D'Marcus used command '/ActSit 6'.
+[23:02:09	]Willard D'Marcus used command '/ExitAct'.
+[23:02:19	]Willard D'Marcus used command '/SetMood frustarted'.
+[23:02:23	]Willard D'Marcus used command '/SetMood frustrated'.
+[23:02:25	]Willard D'Marcus used command '/ActSit 6'.
+[23:02:26	]Willard D'Marcus used command '/ExitAct'.
+[23:02:28	]Willard D'Marcus used command '/ActSit 7'.
+[23:02:29	]Willard D'Marcus used command '/ExitAct'.
+[23:02:32	]Willard D'Marcus used command '/ActSit 6'.
+[23:02:39	]Willard D'Marcus used command '/ExitAct'.
+[23:03:11	]Willard D'Marcus used command '/ActSit 5'.
+[23:03:12	]Willard D'Marcus used command '/ExitAct'.
+[23:03:20	]Willard D'Marcus ran 'Write' on item 'The Station Grill' (#1956590)
+[23:03:48	]Galungah (STEAM_0:0:612819789) has disconnected.

@@ -1,0 +1,451 @@
+[00:29:15	]Furret No Furry Asimo has connected.
+[00:32:12	]Furret No Furry Asimo loaded the character 'Shotcop Sally'
+[00:32:17	]Shotcop Sally is fully healed.
+[00:32:20	]Shotcop Sally entered observer.
+[00:32:45	]Shotcop Sally exited observer at their location.
+[00:32:53	]Shotcop Sally has spawned a 'Entity [5411][ix_terminal]'.
+[00:32:58	]Shotcop Sally has spawned a 'Entity [5412][ix_terminal]'.
+[00:33:00	]Shotcop Sally has spawned a 'Entity [5411][ix_terminal]'.
+[00:33:08	]Shotcop Sally used command '/CreateCid ^'.
+[00:33:08	]Shotcop Sally has gained a '#40580's Identity Card' #3306783.
+[00:33:26	]Shotcop Sally has given himself a coupon_priority.
+[00:33:26	]Shotcop Sally has gained a '30 Credits Coupon' #3306784.
+[00:33:28	]Shotcop Sally ran 'Use' on item '30 Credits Coupon' (#3306784)
+[00:33:30	]Shotcop Sally has used a coupon at a ration dispenser, gaining 30 credits.
+[00:33:48	]Shotcop Sally used command '/CreateCid ^'.
+[00:33:48	]Shotcop Sally has gained a '#40580's Identity Card' #3306785.
+[00:34:02	]Shotcop Sally ran 'drop' on item '#40580's Identity Card' (#3306783)
+[00:34:02	]Shotcop Sally has lost a '#40580's Identity Card' #3306783.
+[00:34:12	]Shotcop Sally ran 'drop' on item '#40580's Identity Card' (#3306785)
+[00:34:12	]Shotcop Sally has lost a '#40580's Identity Card' #3306785.
+[00:34:14	]Shotcop Sally has used a context menu option with the name: remove
+[00:34:15	]Shotcop Sally has used a context menu option with the name: remove
+[00:34:16	]Shotcop Sally entered observer.
+[00:34:58	]Shotcop Sally exited observer at their location.
+[00:35:03	]Shotcop Sally has given himself a id_card_creator.
+[00:35:03	]Shotcop Sally has gained a 'Identity Card Creation Device' #3306786.
+[00:35:19	]Shotcop Sally used command '/CreateCid ^'.
+[00:35:19	]Shotcop Sally has gained a '#40580's Identity Card' #3306787.
+[00:35:54	]Shotcop Sally ran 'drop' on item 'Identity Card Creation Device' (#3306786)
+[00:35:54	]Shotcop Sally has lost a 'Identity Card Creation Device' #3306786.
+[00:35:56	]Shotcop Sally has used a context menu option with the name: remove
+[00:36:02	]Shotcop Sally has given himself a coupon_priority.
+[00:36:02	]Shotcop Sally has gained a '30 Credits Coupon' #3306788.
+[00:36:06	]Shotcop Sally ran 'Use' on item '30 Credits Coupon' (#3306788)
+[00:36:08	]Shotcop Sally has used a coupon at a ration dispenser, gaining 30 credits.
+[00:36:25	]Shotcop Sally used command '/CreateCid ^'.
+[00:36:25	]Shotcop Sally has gained a '#40580's Identity Card' #3306789.
+[00:36:27	]Shotcop Sally ran 'drop' on item '#40580's Identity Card' (#3306787)
+[00:36:27	]Shotcop Sally has lost a '#40580's Identity Card' #3306787.
+[00:36:37	]Shotcop Sally has used a context menu option with the name: remove
+[00:36:48	]Shotcop Sally ran 'drop' on item '#40580's Identity Card' (#3306789)
+[00:36:48	]Shotcop Sally has lost a '#40580's Identity Card' #3306789.
+[00:36:53	]Shotcop Sally has used a context menu option with the name: remove
+[00:36:54	]Shotcop Sally used command '/CreateCid ^'.
+[00:36:54	]Shotcop Sally has gained a '#40580's Identity Card' #3306790.
+[00:37:54	]Shotcop Sally entered observer.
+[00:42:32	]Furret No Furry Asimo (STEAM_0:0:58605803) has disconnected.
+[16:01:07	]The Hidden Stash container (#0) was removed due to inactivity.
+[16:04:19	]Atle has connected.
+[16:05:02	]Atle loaded the character 'Ken Livington'
+[16:05:29	]Ken Livington has given himself a junk_mug.
+[16:05:29	]Ken Livington has gained a 'Empty mug' #3306791.
+[16:05:30	]Ken Livington has given himself a junk_tincan.
+[16:05:30	]Ken Livington has gained a 'Tin Can' #3306792.
+[16:05:35	]Ken Livington has given himself a junk_empty_bottle.
+[16:05:35	]Ken Livington has gained a 'Empty Bottle' #3306793.
+[16:05:37	]Ken Livington has given himself a junk_turtle.
+[16:05:37	]Ken Livington has gained a 'Turtle Plushie' #3306794.
+[16:05:39	]Ken Livington has given himself a junk_keyboard.
+[16:05:39	]Ken Livington has gained a 'Trash Keyboard' #3306795.
+[16:05:41	]Ken Livington has given himself a junk_carton.
+[16:05:41	]Ken Livington has gained a 'Empty milk carton' #3306796.
+[16:05:54	]Ken Livington ran 'hold' on item 'Tin Can' (#3306792)
+[16:06:04	]Ken Livington ran 'hold' on item 'Empty mug' (#3306791)
+[16:06:28	]Ken Livington ran 'hold' on item 'Turtle Plushie' (#3306794)
+[16:06:50	]gb has connected.
+[16:06:59	]Atle (STEAM_0:0:21027108) has disconnected.
+[16:07:13	]gb loaded the character 'gb'
+[16:07:18	]gb is fully healed.
+[16:07:27	]gb has spawned a 'Entity [414][wn_crystal_blue]'.
+[16:07:29	]gb entered observer.
+[16:07:30	]gb exited observer at their location.
+[16:08:43	]gb ran 'Equip' on item 'Pickaxe' (#3218959)
+[16:08:52	]gb has hit gb dealing 16 damage (CritChance was -1.30).
+[16:08:52	]gb has taken 16 damage from gb.
+[16:08:53	]gb has hit gb dealing 16 damage (CritChance was -1.30).
+[16:08:53	]gb has taken 16 damage from gb.
+[16:08:55	]gb has hit gb dealing 16 damage (CritChance was -1.30).
+[16:08:55	]gb has taken 16 damage from gb.
+[16:08:56	]gb has hit gb dealing 16 damage (CritChance was -1.30).
+[16:08:56	]gb has taken 16 damage from gb.
+[16:08:58	]gb has hit gb dealing 16 damage (CritChance was -1.30).
+[16:08:58	]gb has taken 16 damage from gb.
+[16:08:58	]gb has gained a 'Blue Crystal Shard' #3306797.
+[16:08:59	]gb has hit gb dealing 16 damage (CritChance was -1.30).
+[16:08:59	]gb has taken 16 damage from gb.
+[16:09:00	]gb has hit gb dealing 16 damage (CritChance was -1.30).
+[16:09:00	]gb was knocked unconscious and is bleeding out.
+[16:09:11	]gb used command '/CharGetUp'.
+[16:09:12	]gb used command '/CharGetUp'.
+[16:09:13	]gb is no longer unconscious from critical wounds.
+[16:09:13	]gb is fully healed.
+[16:09:48	]gb used command '/CharStopBleedout gb'.
+[16:09:53	]gb has hit gb dealing 16 damage (CritChance was -1.30).
+[16:09:53	]gb has taken 16 damage from gb.
+[16:09:55	]gb has hit gb dealing 16 damage (CritChance was -1.30).
+[16:09:55	]gb has taken 16 damage from gb.
+[16:10:03	]gb is fully healed.
+[16:10:03	]gb has hit gb dealing 16 damage (CritChance was -1.30).
+[16:10:03	]gb has taken 16 damage from gb.
+[16:10:05	]gb has hit gb dealing 16 damage (CritChance was -1.30).
+[16:10:05	]gb has taken 16 damage from gb.
+[16:10:05	]gb has gained a 'Blue Crystal Shard' #3306798.
+[16:10:07	]gb has hit gb dealing 16 damage (CritChance was -1.30).
+[16:10:07	]gb has taken 16 damage from gb.
+[16:10:08	]gb is fully healed.
+[16:10:08	]gb has hit gb dealing 16 damage (CritChance was -1.30).
+[16:10:08	]gb has taken 16 damage from gb.
+[16:10:10	]gb has hit gb dealing 16 damage (CritChance was -1.30).
+[16:10:10	]gb has taken 16 damage from gb.
+[16:10:12	]gb has hit gb dealing 16 damage (CritChance was -1.30).
+[16:10:12	]gb has taken 16 damage from gb.
+[16:10:12	]gb has gained a 'Blue Crystal Shard' #3306799.
+[16:10:13	]gb is fully healed.
+[16:10:13	]gb has hit gb dealing 16 damage (CritChance was -1.30).
+[16:10:13	]gb has taken 16 damage from gb.
+[16:10:15	]gb has hit gb dealing 16 damage (CritChance was -1.30).
+[16:10:15	]gb has taken 16 damage from gb.
+[16:10:16	]gb has hit gb dealing 16 damage (CritChance was -1.30).
+[16:10:16	]gb has taken 16 damage from gb.
+[16:10:18	]gb is fully healed.
+[16:10:19	]gb has hit gb dealing 16 damage (CritChance was -1.30).
+[16:10:19	]gb has taken 16 damage from gb.
+[16:10:21	]gb has hit gb dealing 16 damage (CritChance was -1.30).
+[16:10:21	]gb has taken 16 damage from gb.
+[16:10:23	]gb is fully healed.
+[16:10:27	]gb entered observer.
+[16:10:32	]gb used command '/DestroyCrystal true'.
+[16:10:36	]gb exited observer at their location.
+[16:11:13	]gb entered observer.
+[16:12:01	]gb has used a context menu option with the name: remove
+[16:18:07	]gb has spawned a 'Entity [414][wn_crystal_blue]'.
+[16:18:10	]gb has spawned a 'Entity [416][wn_singularity_blue]'.
+[16:20:47	]gb exited observer at their location.
+[16:26:57	]gb (STEAM_0:1:82427134) has disconnected.
+[16:44:26	]apathy is death has connected.
+[16:55:09	]apathy is death (STEAM_0:1:210259346) has disconnected (timed out).
+[17:11:04	]apathy is death has connected.
+[17:22:10	]apathy is death loaded the character 'Joseph Star'
+[17:22:46	]Joseph Star has given himself a junk_turtle.
+[17:22:46	]Joseph Star has gained a 'Turtle Plushie' #3306800.
+[17:22:49	]Joseph Star ran 'hold' on item 'Turtle Plushie' (#3306800)
+[17:22:54	]Joseph Star ran 'hold' on item 'Turtle Plushie' (#3306800)
+[17:26:39	]apathy is death (STEAM_0:1:210259346) has disconnected (timed out).
+[18:12:56	]Atle has connected.
+[18:13:41	]Atle loaded the character 'Ken Livington'
+[18:19:11	]Ken Livington has gone afk.
+[18:22:46	]Ken Livington is no longer afk. Total time spent AFK: 510
+[18:22:55	]Ken Livington ran 'hold' on item 'Turtle Plushie' (#3306794)
+[18:23:03	]Ken Livington ran 'hputback' on item 'Turtle Plushie' (#3306794)
+[18:23:04	]Ken Livington ran 'hold' on item 'Empty mug' (#3306791)
+[18:23:09	]Ken Livington ran 'hputback' on item 'Empty mug' (#3306791)
+[18:23:14	]Ken Livington ran 'hold' on item 'Tin Can' (#3306792)
+[18:23:22	]Ken Livington ran 'hputback' on item 'Tin Can' (#3306792)
+[18:23:23	]Ken Livington ran 'hold' on item 'Trash Keyboard' (#3306795)
+[18:23:25	]Ken Livington ran 'hold' on item 'Trash Keyboard' (#3306795)
+[18:23:29	]Ken Livington ran 'hputback' on item 'Trash Keyboard' (#3306795)
+[18:23:30	]Ken Livington ran 'hold' on item 'Empty milk carton' (#3306796)
+[18:23:48	]Ken Livington has given himself a tool_toolkit.
+[18:23:48	]Ken Livington has gained a 'Toolkit' #3306801.
+[18:23:51	]Ken Livington ran 'hputback' on item 'Empty milk carton' (#3306796)
+[18:23:53	]Ken Livington ran 'hold' on item 'Toolkit' (#3306801)
+[18:24:49	]Ken Livington ran 'hputback' on item 'Toolkit' (#3306801)
+[18:24:51	]Ken Livington ran 'hold' on item 'Trash Keyboard' (#3306795)
+[18:25:06	]Atle (STEAM_0:0:21027108) has disconnected.
+[23:04:32	]Atle has connected.
+[23:04:58	]Atle loaded the character 'Ken Livington'
+[23:05:52	]Ken Livington ran 'hold' on item 'Toolkit' (#3306801)
+[23:06:07	]Atle (STEAM_0:0:21027108) has disconnected.
+[23:11:22	]Marco has connected.
+[23:18:38	]Marco loaded the character 'S10/OWS.GHOST-54'
+[23:18:53	]S10/OWS.GHOST-54 ran 'EquipUn' on item 'Overwatch Heavy Shotgun' (#3306759)
+[23:18:53	]S10/OWS.GHOST-54 ran 'Equip' on item 'Overwatch Heavy Shotgun' (#3306759)
+[23:18:55	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[23:19:04	]Marco (STEAM_0:0:39958603) has disconnected.
+[23:23:40	]Marco has connected.
+[23:24:11	]Marco loaded the character 'S10/OWS.GHOST-54'
+[23:24:23	]S10/OWS.GHOST-54 ran 'EquipUn' on item 'Overwatch Heavy Shotgun' (#3306759)
+[23:24:24	]S10/OWS.GHOST-54 ran 'Equip' on item 'Overwatch Heavy Shotgun' (#3306759)
+[23:24:31	]S10/OWS.GHOST-54 ran 'combine' on item '12rnd SG-1 Magazine' (#3306766)
+[23:24:32	]S10/OWS.GHOST-54 ran 'combine' on item '12rnd SG-1 Magazine' (#3306762)
+[23:24:33	]S10/OWS.GHOST-54 ran 'combine' on item '12rnd SG-1 Magazine' (#3306765)
+[23:24:46	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[23:24:48	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[23:24:56	]S10/OWS.GHOST-54 entered observer.
+[23:25:06	]S10/OWS.GHOST-54 is fully healed.
+[23:25:08	]S10/OWS.GHOST-54 exited observer.
+[23:25:09	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[23:25:09	]S10/OWS.GHOST-54 has lost a '12rnd SG-1 Magazine' #3306766.
+[23:25:09	]S10/OWS.GHOST-54 has gained a '12rnd SG-1 Magazine' #3306761.
+[23:25:14	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[23:25:20	]S10/OWS.GHOST-54 has fired a toolgun with the name: camera
+[23:25:22	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[23:25:28	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[23:25:39	]S10/OWS.GHOST-54 has spawned 'models/wn/wallhammer.mdl'.
+[23:25:42	]S10/OWS.GHOST-54 used command '/CharSetModel ^ models/wn/wallhammer.mdl'.
+[23:25:51	]S10/OWS.GHOST-54 used command '/CharSetModel ^ models/wn/ota_elite_summit.mdl'.
+[23:26:07	]S10/OWS.GHOST-54 used command '/CharSetModel ^ models/wn/ota_elite.mdl'.
+[23:26:24	]S10/OWS.GHOST-54 used command '/CharSetModel ^ models/wn/soldier.mdl'.
+[23:27:37	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[23:27:49	]S10/OWS.GHOST-54 entered observer.
+[23:28:16	]S10/OWS.GHOST-54 opened the 'Large Refrigerator' #137955 container.
+[23:28:19	]S10/OWS.GHOST-54 closed the 'Large Refrigerator' #137955 container.
+[23:28:45	]S10/OWS.GHOST-54 opened the 'Farming Equipment' #134971 container.
+[23:28:48	]S10/OWS.GHOST-54 closed the 'Farming Equipment' #134971 container.
+[23:29:07	]S10/OWS.GHOST-54 admin-searched the 'Large Refrigerator' #140557 container.
+[23:29:07	]S10/OWS.GHOST-54 has used a context menu option with the name: wncontainer_view
+[23:29:08	]S10/OWS.GHOST-54 admin-closed the 'Large Refrigerator' #140557 container.
+[23:29:09	]S10/OWS.GHOST-54 admin-searched the 'Large Refrigerator' #136386 container.
+[23:29:09	]S10/OWS.GHOST-54 has used a context menu option with the name: wncontainer_view
+[23:29:11	]S10/OWS.GHOST-54 admin-closed the 'Large Refrigerator' #136386 container.
+[23:29:20	]S10/OWS.GHOST-54 admin-searched the 'Large Refrigerator' #135057 container.
+[23:29:20	]S10/OWS.GHOST-54 has used a context menu option with the name: wncontainer_view
+[23:29:21	]S10/OWS.GHOST-54 admin-closed the 'Large Refrigerator' #135057 container.
+[23:29:29	]S10/OWS.GHOST-54 admin-searched the 'CMRU Drug Orders - #1' #136444 container.
+[23:29:29	]S10/OWS.GHOST-54 has used a context menu option with the name: wncontainer_view
+[23:29:30	]S10/OWS.GHOST-54 admin-closed the 'CMRU Drug Orders - #1' #136444 container.
+[23:29:52	]S10/OWS.GHOST-54 admin-searched the ''Hidden Stash'' #137124 container.
+[23:29:52	]S10/OWS.GHOST-54 has used a context menu option with the name: wncontainer_view
+[23:29:56	]S10/OWS.GHOST-54 admin-closed the ''Hidden Stash'' #137124 container.
+[23:29:57	]S10/OWS.GHOST-54 admin-searched the ''Hidden Stash'' #137125 container.
+[23:29:57	]S10/OWS.GHOST-54 has used a context menu option with the name: wncontainer_view
+[23:30:05	]S10/OWS.GHOST-54 admin-closed the ''Hidden Stash'' #137125 container.
+[23:30:09	]S10/OWS.GHOST-54 admin-searched the 'File Cabinet' #138500 container.
+[23:30:09	]S10/OWS.GHOST-54 has used a context menu option with the name: wncontainer_view
+[23:30:13	]S10/OWS.GHOST-54 admin-closed the 'File Cabinet' #138500 container.
+[23:30:21	]S10/OWS.GHOST-54 admin-searched the 'Crate' #141744 container.
+[23:30:21	]S10/OWS.GHOST-54 has used a context menu option with the name: wncontainer_view
+[23:30:22	]S10/OWS.GHOST-54 admin-closed the 'Crate' #141744 container.
+[23:30:27	]S10/OWS.GHOST-54 exited observer.
+[23:30:27	]S10/OWS.GHOST-54 has gained a '12rnd SG-1 Magazine' #3306766.
+[23:30:27	]S10/OWS.GHOST-54 was knocked unconscious and is bleeding out.
+[23:30:58	]S10/OWS.GHOST-54 exited observer.
+[23:31:07	]S10/OWS.GHOST-54 has taken 24 damage from worldspawn.
+[23:31:11	]S10/OWS.GHOST-54 is fully healed.
+[23:31:20	]S10/OWS.GHOST-54 has spawned a 'Entity [420][gmod_sent_vehicle_fphysics_base]'.
+[23:31:22	]S10/OWS.GHOST-54 has spawned a 'Entity [420][gmod_sent_vehicle_fphysics_base]'.
+[23:32:52	]S10/OWS.GHOST-54 has spawned a 'Entity [420][gmod_sent_vehicle_fphysics_base]'.
+[23:34:39	]S10/OWS.GHOST-54 has spawned a 'Entity [420][gmod_sent_vehicle_fphysics_base]'.
+[23:34:45	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:34:46	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:34:48	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:34:48	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:34:55	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:35:31	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:35:31	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:35:31	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:35:31	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:35:31	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:35:31	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:35:31	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:35:31	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:35:32	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:35:32	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:35:32	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:35:32	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:35:32	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:35:32	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:35:37	]S10/OWS.GHOST-54 has used a context menu option with the name: remove
+[23:36:45	][MEL] S10/OWS.GHOST-54: depresses the trigger of the plasma immolator, desperately wheezing through it's respirator against the growing flames.
+[23:40:18	]S10/OWS.GHOST-54 has spawned a 'Entity [420][gmod_sent_vehicle_fphysics_base]'.
+[23:40:18	]S10/OWS.GHOST-54 has spawned a 'Entity [442][gmod_sent_vehicle_fphysics_base]'.
+[23:40:20	]S10/OWS.GHOST-54 has spawned a 'Entity [459][gmod_sent_vehicle_fphysics_base]'.
+[23:42:32	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:32	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:32	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:32	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:33	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:33	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:33	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:33	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:33	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:33	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:33	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:33	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:33	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:33	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:34	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:34	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:34	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:34	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:34	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:34	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:34	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:39	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:40	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:40	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:40	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:40	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:40	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:40	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:40	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:40	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:40	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:40	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:41	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:41	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:41	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:41	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:41	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:41	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:41	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:47	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:47	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:47	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:47	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:47	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:47	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:47	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:48	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:48	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:48	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:48	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:48	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:48	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:48	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:48	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:48	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:48	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:49	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:49	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:49	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:49	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:49	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:49	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:49	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:49	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:49	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:50	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:50	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:50	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:50	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:50	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:50	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:50	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:50	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:50	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:50	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:51	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:51	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:51	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:51	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:51	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:51	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:51	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:51	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:51	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:52	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:52	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:52	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:52	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:52	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:42:52	]S10/OWS.GHOST-54 has fired a toolgun with the name: thruster
+[23:43:12	][ME] S10/OWS.GHOST-54: Would switch the safety off on his pistol, pulling the rack to load a cartridge then readying his firearm
+[23:44:11	]S10/OWS.GHOST-54 has spawned a 'NPC [435][npc_vj_hlr1_aflock]'.
+[23:44:13	]S10/OWS.GHOST-54 has spawned a 'NPC [435][npc_vj_hlr1a_scientist]'.
+[23:44:13	]S10/OWS.GHOST-54 has spawned a 'NPC [477][npc_vj_hlr1a_scientist]'.
+[23:44:13	]S10/OWS.GHOST-54 has spawned a 'NPC [478][npc_vj_hlr1a_scientist]'.
+[23:44:15	]S10/OWS.GHOST-54 has spawned a 'NPC [435][npc_vj_hlrof_assassin_apache]'.
+[23:44:15	]S10/OWS.GHOST-54 has spawned a 'NPC [479][npc_vj_hlrof_assassin_apache]'.
+[23:44:19	]S10/OWS.GHOST-54 has spawned a 'NPC [479][npc_vj_hlrof_assassin_male]'.
+[23:44:19	]S10/OWS.GHOST-54 has spawned a 'NPC [518][npc_vj_hlrof_assassin_male]'.
+[23:44:19	]S10/OWS.GHOST-54 has spawned a 'NPC [532][npc_vj_hlrof_assassin_male]'.
+[23:44:19	]S10/OWS.GHOST-54 has spawned a 'NPC [533][npc_vj_hlrof_assassin_male]'.
+[23:44:19	]S10/OWS.GHOST-54 has spawned a 'NPC [534][npc_vj_hlrof_assassin_male]'.
+[23:44:19	]S10/OWS.GHOST-54 has spawned a 'NPC [553][npc_vj_hlrof_assassin_male]'.
+[23:44:19	]S10/OWS.GHOST-54 has spawned a 'NPC [554][npc_vj_hlrof_assassin_male]'.
+[23:44:19	]S10/OWS.GHOST-54 has spawned a 'NPC [586][npc_vj_hlrof_assassin_male]'.
+[23:44:19	]S10/OWS.GHOST-54 has spawned a 'NPC [587][npc_vj_hlrof_assassin_male]'.
+[23:44:25	]S10/OWS.GHOST-54 has spawned a 'NPC [435][npc_vj_hlr1_chumtoad]'.
+[23:44:25	]S10/OWS.GHOST-54 has spawned a 'NPC [436][npc_vj_hlr1_chumtoad]'.
+[23:44:26	]S10/OWS.GHOST-54 has spawned a 'NPC [588][npc_vj_hlr1_chumtoad]'.
+[23:44:26	]S10/OWS.GHOST-54 has spawned a 'NPC [589][npc_vj_hlr1_chumtoad]'.
+[23:44:26	]S10/OWS.GHOST-54 has spawned a 'NPC [590][npc_vj_hlr1_chumtoad]'.
+[23:44:26	]S10/OWS.GHOST-54 has spawned a 'NPC [602][npc_vj_hlr1_chumtoad]'.
+[23:44:26	]S10/OWS.GHOST-54 has spawned a 'NPC [603][npc_vj_hlr1_chumtoad]'.
+[23:44:26	]S10/OWS.GHOST-54 has spawned a 'NPC [615][npc_vj_hlr1_chumtoad]'.
+[23:44:29	]S10/OWS.GHOST-54 has spawned a 'NPC [435][npc_vj_hlr1_garg]'.
+[23:44:29	]S10/OWS.GHOST-54 has spawned a 'NPC [642][npc_vj_hlr1_garg]'.
+[23:44:39	]S10/OWS.GHOST-54 has spawned a 'NPC [435][npc_vj_hlrsv_garg_baby]'.
+[23:44:42	]S10/OWS.GHOST-54 has spawned a 'NPC [435][npc_vj_hlrsv_garg_baby]'.
+[23:44:42	]S10/OWS.GHOST-54 has spawned a 'NPC [550][npc_vj_hlrsv_garg_baby]'.
+[23:44:49	]S10/OWS.GHOST-54 has spawned a 'NPC [435][npc_vj_hlrbs_rosenberg]'.
+[23:45:48	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:45:48	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:45:52	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:45:52	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:45:53	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:45:53	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:45:54	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:45:58	][ME] S10/OWS.GHOST-54: Would switch the safety off on his pistol, pulling the rack to load a cartridge then readying his firearm
+[23:46:19	][ME] S10/OWS.GHOST-54: Would switch the safety off on his pistol, pulling the rack to load a cartridge then readying his firearm
+[23:46:49	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:49	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:49	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:49	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:49	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:49	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:49	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:50	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:50	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:50	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:50	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:50	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:51	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:51	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:51	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:54	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:54	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:54	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:54	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:55	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:55	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:56	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:56	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:56	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:46:56	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:47:04	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:47:04	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:47:05	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:47:05	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:47:07	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:47:07	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:47:09	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:47:09	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:47:10	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:47:20	][ME] S10/OWS.GHOST-54: Would switch the safety off on his pistol, pulling the rack to load a cartridge then readying his firearm
+[23:48:41	][MEL] S10/OWS.GHOST-54: depresses the trigger of the plasma immolator, desperately wheezing through it's respirator against the growing flames.
+[23:48:56	]S10/OWS.GHOST-54 has spawned a 'NPC [420][npc_vj_hlr1_gonarch]'.
+[23:48:59	]S10/OWS.GHOST-54 has used a context menu option with the name: vj_pr_npc_control
+[23:49:22	]S10/OWS.GHOST-54 has fired a toolgun with the name: hoverball
+[23:49:30	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[23:49:31	]S10/OWS.GHOST-54 has taken 5 damage from Baby Headcrab.
+[23:49:31	]S10/OWS.GHOST-54 has taken 5 damage from Baby Headcrab.
+[23:49:31	]S10/OWS.GHOST-54 has taken 5 damage from Baby Headcrab.
+[23:49:32	]S10/OWS.GHOST-54 has hit npc_vj_hlr1_headcrab_baby in the head dealing 15 damage (CritChance was 0.00).
+[23:49:33	]S10/OWS.GHOST-54 has hit npc_vj_hlr1_headcrab_baby in the head dealing 15 damage (CritChance was 0.00).
+[23:49:33	]S10/OWS.GHOST-54 has hit npc_vj_hlr1_headcrab_baby in the head dealing 15 damage (CritChance was 0.00).
+[23:49:35	]S10/OWS.GHOST-54 has taken 5 damage from Baby Headcrab.
+[23:49:35	]S10/OWS.GHOST-54 has taken 5 damage from Baby Headcrab.
+[23:49:36	]S10/OWS.GHOST-54 has hit npc_vj_hlr1_headcrab_baby in the head dealing 15 damage (CritChance was 0.00).
+[23:49:37	]S10/OWS.GHOST-54 has hit npc_vj_hlr1_headcrab_baby in the head dealing 15 damage (CritChance was 0.00).
+[23:49:37	]S10/OWS.GHOST-54 has hit npc_vj_hlr1_headcrab_baby in the head dealing 15 damage (CritChance was 0.00).
+[23:49:37	]S10/OWS.GHOST-54 has hit npc_vj_hlr1_headcrab_baby in the head dealing 15 damage (CritChance was 0.00).
+[23:49:46	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[23:49:53	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[23:49:58	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[23:50:03	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[23:50:08	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[23:50:12	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[23:50:36	]Marco (STEAM_0:0:39958603) has disconnected.

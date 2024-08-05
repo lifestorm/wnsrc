@@ -1,0 +1,121 @@
+[11:33:01	].thc has connected.
+[11:33:48	].thc (STEAM_0:1:709534478) deleted character 'I LOVE OUR DEVELOPERS'
+[11:33:50	].thc (STEAM_0:1:709534478) deleted character 'Top Model'
+[11:33:53	].thc (STEAM_0:1:709534478) deleted character 'Kamil Malachovsky'
+[11:33:56	].thc (STEAM_0:1:709534478) deleted character 'S'Kur'viel'
+[11:35:45	].thc created the character 'test-cca-chaar'
+[11:35:45	].thc loaded the character 'test-cca-chaar'
+[11:35:45	]test-cca-chaar has gained a '#83189's Identity Card' #1649355.
+[11:35:45	]test-cca-chaar has gained a 'Combine PDA' #1649356.
+[11:36:03	]test-cca-chaar ran 'Equip' on item 'Combine PDA' (#1649356)
+[11:36:10	]test-cca-chaar used command '/PrintStaffList'.
+[11:36:18	]test-cca-chaar has given himself a capda.
+[11:36:18	]test-cca-chaar has gained a 'Civil Administration PDA' #1649357.
+[11:36:23	]test-cca-chaar ran 'Equip' on item 'Civil Administration PDA' (#1649357)
+[11:36:24	]test-cca-chaar ran 'EquipUn' on item 'Combine PDA' (#1649356)
+[11:36:25	]test-cca-chaar ran 'Equip' on item 'Civil Administration PDA' (#1649357)
+[11:36:52	]test-cca-chaar ran 'EquipUn' on item 'Civil Administration PDA' (#1649357)
+[11:36:53	]test-cca-chaar ran 'Equip' on item 'Combine PDA' (#1649356)
+[11:37:08	]test-cca-chaar used command '/CreateCustomItem'.
+[11:37:46	]test-cca-chaar has spawned a 'Entity [6503][ix_cmbcontainer]'.
+[11:37:51	]test-cca-chaar has spawned a 'Entity [6504][ix_basiccontainer]'.
+[11:38:00	]test-cca-chaar has spawned a 'Entity [6504][ix_militarycontainer]'.
+[11:38:05	]test-cca-chaar has spawned a 'Entity [6517][ix_supplycontainer]'.
+[11:38:15	]test-cca-chaar has spawned a 'Entity [6516][ix_advancedcontainer]'.
+[11:38:48	]test-cca-chaar has spawned a 'Entity [6510][ix_vortshield]'.
+[11:39:16	]test-cca-chaar used command '/PlyGiveAllFlags test'.
+[11:39:30	]test-cca-chaar has spawned a 'Entity [6510][ix_vortshield]'.
+[11:39:37	]test-cca-chaar has spawned a 'Entity [6510][ix_cigarette]'.
+[11:39:43	]test-cca-chaar has spawned a 'Entity [6511][item_rpg_round]'.
+[11:39:52	]test-cca-chaar has spawned a 'Entity [6511][gmt_instrument_piano]'.
+[11:39:57	]test-cca-chaar ran SAM command 'admin' with arguments: ''
+[11:40:01	]test-cca-chaar ran SAM command 'unadmin' with arguments: ''
+[11:40:15	]test-cca-chaar has used a context menu option with the name: remove
+[11:40:18	]test-cca-chaar has spawned a 'Entity [6511][sent_ball]'.
+[11:40:22	]test-cca-chaar has spawned a 'Entity [6511][sent_ball]'.
+[11:40:32	]test-cca-chaar has spawned a 'Entity [6511][arcade_pong]'.
+[11:40:42	]test-cca-chaar has spawned a 'Entity [6512][acwatt_apex_sight_7]'.
+[11:40:47	]test-cca-chaar has used a context menu option with the name: remove
+[11:40:55	]test-cca-chaar has spawned a 'Entity [6512][ix_campfire]'.
+[11:41:03	]test-cca-chaar has spawned a 'Entity [6521][hl2r_rpg]'.
+[11:41:05	]test-cca-chaar has spawned a 'Entity [6522][mmod_rpg]'.
+[11:41:06	]test-cca-chaar has spawned a 'Entity [6523][mmod_crossbowbolt]'.
+[11:41:09	]test-cca-chaar has spawned a 'Entity [6524][ix_trashspawner]'.
+[11:41:11	]test-cca-chaar has spawned a 'Entity [6525][tfa_csgo_thrownflash]'.
+[11:41:22	]test-cca-chaar has spawned a 'Entity [6526][tfa_csgo_throwndecoy]'.
+[11:41:28	]test-cca-chaar has spawned a 'Entity [6528][tfa_rustalpha_flare_thrown]'.
+[11:41:31	]test-cca-chaar has spawned a 'Entity [6529][hl2r_laserdot]'.
+[11:41:34	]test-cca-chaar has spawned a 'Entity [6530][musicnotes]'.
+[11:41:36	]test-cca-chaar has spawned a 'Entity [6531][wn_washing_factory]'.
+[11:41:49	]test-cca-chaar has spawned a 'Entity [6525][wn_scaffold]'.
+[11:41:54	]test-cca-chaar entered observer.
+[11:41:54	]test-cca-chaar exited observer.
+[11:41:59	]test-cca-chaar has spawned a 'Entity [6527][ladder_small]'.
+[11:42:09	]test-cca-chaar has spawned a 'Entity [6535][ix_workerk_electric]'.
+[11:42:15	]test-cca-chaar has spawned a 'Entity [6537][ix_workerk_gas]'.
+[11:42:19	]test-cca-chaar has spawned a 'Entity [6539][ix_workerk_water]'.
+[11:42:25	]test-cca-chaar has spawned a 'Entity [6541][ix_vendor]'.
+[11:42:27	]test-cca-chaar used the 'John Doe' vendor.
+[11:42:33	]test-cca-chaar used the 'John Doe' vendor.
+[11:43:54	]test-cca-chaar has fired a toolgun with the name: vjstool_bullseye
+[11:44:06	]test-cca-chaar has fired a toolgun with the name: vjstool_bullseye
+[11:44:08	]test-cca-chaar has fired a toolgun with the name: vjstool_bullseye
+[11:44:09	]test-cca-chaar entered observer.
+[11:44:11	]test-cca-chaar has fired a toolgun with the name: vjstool_bullseye
+[11:44:11	]test-cca-chaar has fired a toolgun with the name: vjstool_bullseye
+[11:44:15	]test-cca-chaar exited observer.
+[11:44:34	]test-cca-chaar has fired a toolgun with the name: vjstool_npcequipment
+[11:44:59	]test-cca-chaar has fired a toolgun with the name: sh_persist
+[11:45:01	]test-cca-chaar has fired a toolgun with the name: sh_persist
+[11:45:03	]test-cca-chaar has fired a toolgun with the name: sh_persist
+[11:45:03	]test-cca-chaar has enabled persistence for 'models/props_c17/metalladder001.mdl'.
+[11:45:33	][IC] test-cca-chaar: Arccw_go_nade_molotov.
+[11:45:37	]test-cca-chaar used command '/CreateCustomItem'.
+[11:47:32	]test-cca-chaar has gained a 'arccw_go_nade_molotov' #1649360.
+[11:47:36	]test-cca-chaar ran 'Equip' on item 'arccw_go_nade_molotov' (#1649360)
+[11:47:51	]test-cca-chaar ran 'EquipUn' on item 'arccw_go_nade_molotov' (#1649360)
+[11:47:52	]test-cca-chaar ran 'drop' on item 'arccw_go_nade_molotov' (#1649360)
+[11:47:52	]test-cca-chaar has lost a 'arccw_go_nade_molotov' #1649360.
+[11:47:54	]test-cca-chaar has used a context menu option with the name: remove
+[11:48:30	]test-cca-chaar has fired a toolgun with the name: creator
+[11:48:30	]test-cca-chaar has spawned a 'Weapon [6535][arccw_go_nade_molotov]'.
+[11:48:57	]test-cca-chaar has taken 0 damage from test-cca-chaar.
+[11:48:57	]test-cca-chaar has taken 1 damage from test-cca-chaar.
+[11:48:57	]test-cca-chaar has taken 0 damage from test-cca-chaar.
+[11:48:57	]test-cca-chaar has taken 1 damage from test-cca-chaar.
+[11:48:58	]test-cca-chaar has taken 1 damage from test-cca-chaar.
+[11:48:58	]test-cca-chaar has taken 2 damage from test-cca-chaar.
+[11:49:30	]test-cca-chaar used command '/clothingcreator'.
+[11:52:21	]test-cca-chaar used command '/CreateCustomItem'.
+[11:52:40	]test-cca-chaar is fully healed.
+[11:53:15	]test-cca-chaar used command '/CreateCustomItem'.
+[11:53:43	]test-cca-chaar has gained a 'weapon_smg1' #1649361.
+[11:53:44	]test-cca-chaar ran 'Equip' on item 'weapon_smg1' (#1649361)
+[11:54:40	]test-cca-chaar has spawned a Rabit_test.
+[11:54:40	]test-cca-chaar was knocked unconscious and is bleeding out.
+[11:54:45	]test-cca-chaar ran SAM command 'respawn' with arguments: ''
+[11:54:50	]test-cca-chaar is fully healed.
+[11:54:53	]test-cca-chaar has used a context menu option with the name: remove
+[11:54:57	]test-cca-chaar has spawned a Rabit_test.
+[11:55:22	]test-cca-chaar ran 'EquipUn' on item 'weapon_smg1' (#1649361)
+[11:55:26	]test-cca-chaar has used a context menu option with the name: remove
+[11:55:29	]test-cca-chaar has spawned a cleaningcart.
+[11:55:32	]test-cca-chaar ran 'take' on item 'Cleaning Cart' (#1649364)
+[11:55:32	]test-cca-chaar has gained a 'Cleaning Cart' #1649364.
+[11:55:36	]test-cca-chaar has spawned a custom_item.
+[11:55:37	]test-cca-chaar ran 'take' on item 'Cleaning Solution' (#1649365)
+[11:55:37	]test-cca-chaar has gained a 'Cleaning Solution' #1649365.
+[11:55:40	]test-cca-chaar ran 'drop' on item 'Cleaning Cart' (#1649364)
+[11:55:40	]test-cca-chaar has lost a 'Cleaning Cart' #1649364.
+[11:55:44	]test-cca-chaar has spawned a broom.
+[11:55:46	]test-cca-chaar ran 'take' on item 'Worn Broom' (#1649366)
+[11:55:46	]test-cca-chaar has gained a 'Worn Broom' #1649366.
+[11:55:47	]test-cca-chaar has spawned a propagandaworkdesk.
+[11:55:56	]test-cca-chaar has used a context menu option with the name: remove
+[11:55:59	]test-cca-chaar has spawned a xushi_the_meal.
+[11:56:01	]test-cca-chaar ran 'take' on item ''The Meal'' (#1649368)
+[11:56:01	]test-cca-chaar has gained a ''The Meal'' #1649368.
+[11:56:04	]test-cca-chaar has spawned a xushi_the_meal_improved.
+[11:56:05	]test-cca-chaar ran 'take' on item ''The Meal'' (#1649369)
+[11:56:05	]test-cca-chaar has gained a ''The Meal'' #1649369.
+[11:56:12	].thc (STEAM_0:1:709534478) has disconnected.

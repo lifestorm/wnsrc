@@ -1,0 +1,273 @@
+[00:37:05	]CreekMando has connected.
+[00:38:43	]CreekMando loaded the character 'C24:i4.ROLLER-4'
+[00:38:48	]C24:i4.ROLLER-4 is fully healed.
+[00:39:52	]C24:i4.ROLLER-4 used command '/ActThreat'.
+[00:40:28	]C24:i4.ROLLER-4 has changed C24:i4.ROLLER-4's bodygroups.
+[00:40:38	]C24:i4.ROLLER-4 has gained level 45 in the Speed skill.
+[00:41:18	]C24:i4.ROLLER-4 has spawned 'models/props_c17/FurnitureWashingmachine001a.mdl'.
+[00:41:57	]C24:i4.ROLLER-4 ran 'Equip' on item 'Combine PDA' (#560984)
+[00:42:34	]C24:i4.ROLLER-4 has spawned 'models/props_interiors/couch.mdl'.
+[00:43:48	]CreekMando loaded the character 'C17:RCT.YELLO-08'
+[00:44:02	]C17:RCT.YELLO-08 ran 'drop' on item 'applicatorItemName' (#1649870)
+[00:44:02	]C17:RCT.YELLO-08 has lost a 'applicatorItemName' #1649870.
+[00:44:04	]C17:RCT.YELLO-08 ran 'drop' on item 'White Hazmat Uniform' (#1649879)
+[00:44:04	]C17:RCT.YELLO-08 has lost a 'White Hazmat Uniform' #1649879.
+[00:45:03	]CreekMando loaded the character 'C24.CREMATOR:522'
+[00:45:08	]C24.CREMATOR:522 is fully healed.
+[00:45:14	]entityflame destroyed a 'applicatorItemName' #1649870.
+[00:45:14	]entityflame destroyed a 'White Hazmat Uniform' #1649879.
+[00:45:17	]C24.CREMATOR:522 has taken 0 damage from point_hurt.
+[00:45:17	]C24.CREMATOR:522 has taken 0 damage from point_hurt.
+[00:45:17	]C24.CREMATOR:522 has taken 0 damage from point_hurt.
+[00:45:17	]C24.CREMATOR:522 has taken 0 damage from point_hurt.
+[00:45:17	]C24.CREMATOR:522 has taken 0 damage from point_hurt.
+[00:45:18	]C24.CREMATOR:522 has taken 0 damage from point_hurt.
+[00:45:18	]C24.CREMATOR:522 has taken 0 damage from point_hurt.
+[00:45:18	]C24.CREMATOR:522 has taken 0 damage from point_hurt.
+[00:45:18	]C24.CREMATOR:522 has taken 0 damage from point_hurt.
+[00:45:18	]C24.CREMATOR:522 has taken 0 damage from point_hurt.
+[00:45:18	]C24.CREMATOR:522 has taken 0 damage from point_hurt.
+[00:45:19	]C24.CREMATOR:522 has taken 10 damage from env_fire.
+[00:45:25	]C24.CREMATOR:522 has taken 12 damage from env_fire.
+[00:45:25	]C24.CREMATOR:522 has taken 0 damage from point_hurt.
+[00:45:25	]C24.CREMATOR:522 has taken 9 damage from env_fire.
+[00:45:25	]C24.CREMATOR:522 has taken 8 damage from env_fire.
+[00:45:25	]C24.CREMATOR:522 has taken 9 damage from env_fire.
+[00:45:26	]C24.CREMATOR:522 has taken 12 damage from env_fire.
+[00:45:26	]C24.CREMATOR:522 has taken 0 damage from point_hurt.
+[00:45:26	]C24.CREMATOR:522 has taken 0 damage from point_hurt.
+[00:45:26	]C24.CREMATOR:522 has taken 0 damage from point_hurt.
+[00:45:26	]C24.CREMATOR:522 has taken 0 damage from point_hurt.
+[00:45:27	]C24.CREMATOR:522 has taken 7 damage from env_fire.
+[00:45:27	]C24.CREMATOR:522 has taken 12 damage from env_fire.
+[00:45:30	]C24.CREMATOR:522 has taken 12 damage from env_fire.
+[00:45:30	]C24.CREMATOR:522 has taken 10 damage from env_fire.
+[00:45:31	]C24.CREMATOR:522 has taken 8 damage from env_fire.
+[00:45:31	]C24.CREMATOR:522 has taken 12 damage from env_fire.
+[00:45:31	]C24.CREMATOR:522 has taken 10 damage from env_fire.
+[00:45:32	]C24.CREMATOR:522 has taken 6 damage from env_fire.
+[00:45:32	]C24.CREMATOR:522 has taken 6 damage from env_fire.
+[00:45:32	]C24.CREMATOR:522 has taken 6 damage from env_fire.
+[00:45:32	]C24.CREMATOR:522 has taken 9 damage from env_fire.
+[00:45:33	]C24.CREMATOR:522 has taken 7 damage from env_fire.
+[00:45:33	]C24.CREMATOR:522 has taken 8 damage from env_fire.
+[00:45:33	]C24.CREMATOR:522 has taken 9 damage from env_fire.
+[00:45:33	]C24.CREMATOR:522 has taken 7 damage from env_fire.
+[00:45:33	]C24.CREMATOR:522 has taken 6 damage from env_fire.
+[00:45:33	]C24.CREMATOR:522 has taken 6 damage from env_fire.
+[00:45:33	]C24.CREMATOR:522 has taken 9 damage from env_fire.
+[00:45:33	]C24.CREMATOR:522 has taken 9 damage from env_fire.
+[00:45:33	]C24.CREMATOR:522 has taken 8 damage from env_fire.
+[00:45:33	]C24.CREMATOR:522 has taken 7 damage from env_fire.
+[00:45:34	]C24.CREMATOR:522 has taken 7 damage from env_fire.
+[00:45:34	]C24.CREMATOR:522 has taken 8 damage from env_fire.
+[00:45:34	]C24.CREMATOR:522 has taken 9 damage from env_fire.
+[00:45:34	]C24.CREMATOR:522 has taken 7 damage from env_fire.
+[00:45:34	]C24.CREMATOR:522 has taken 6 damage from env_fire.
+[00:45:34	]C24.CREMATOR:522 has taken 6 damage from env_fire.
+[00:45:34	]C24.CREMATOR:522 was knocked unconscious and is bleeding out.
+[00:45:35	]C24.CREMATOR:522 was killed while bleeding out.
+[00:45:35	]env_fire has killed C24.CREMATOR:522 with env_fire.
+[00:45:45	]C24.CREMATOR:522 has taken 1 damage from point_hurt.
+[00:45:45	]C24.CREMATOR:522 has taken 1 damage from point_hurt.
+[00:45:45	]C24.CREMATOR:522 has taken 1 damage from point_hurt.
+[00:45:45	]C24.CREMATOR:522 has taken 1 damage from point_hurt.
+[00:45:45	]C24.CREMATOR:522 has taken 1 damage from point_hurt.
+[00:45:45	]C24.CREMATOR:522 has taken 1 damage from point_hurt.
+[00:45:45	]C24.CREMATOR:522 has taken 1 damage from point_hurt.
+[00:45:46	]C24.CREMATOR:522 has taken 1 damage from point_hurt.
+[00:45:46	]C24.CREMATOR:522 has taken 13 damage from env_fire.
+[00:45:46	]C24.CREMATOR:522 has taken 7 damage from env_fire.
+[00:45:46	]C24.CREMATOR:522 has taken 4 damage from env_fire.
+[00:45:47	]C24.CREMATOR:522 has taken 13 damage from env_fire.
+[00:46:05	]C24.CREMATOR:522 has taken 1 damage from point_hurt.
+[00:46:05	]C24.CREMATOR:522 has taken 1 damage from point_hurt.
+[00:46:05	]C24.CREMATOR:522 has taken 1 damage from point_hurt.
+[00:46:05	]C24.CREMATOR:522 has taken 1 damage from point_hurt.
+[00:46:05	]C24.CREMATOR:522 has taken 1 damage from point_hurt.
+[00:46:05	]C24.CREMATOR:522 has taken 1 damage from point_hurt.
+[00:46:06	]C24.CREMATOR:522 has taken 1 damage from point_hurt.
+[00:46:06	]C24.CREMATOR:522 has taken 10 damage from env_fire.
+[00:46:07	]C24.CREMATOR:522 has taken 10 damage from env_fire.
+[00:46:10	]C24.CREMATOR:522 has taken 12 damage from env_fire.
+[00:46:11	]C24.CREMATOR:522 has taken 12 damage from env_fire.
+[00:46:12	]C24.CREMATOR:522 has taken 12 damage from env_fire.
+[00:46:13	]C24.CREMATOR:522 has taken 10 damage from env_fire.
+[00:46:13	]C24.CREMATOR:522 has taken 12 damage from env_fire.
+[00:46:14	]C24.CREMATOR:522 has taken 10 damage from env_fire.
+[00:46:14	]C24.CREMATOR:522 has taken 12 damage from env_fire.
+[00:46:23	]C24.CREMATOR:522 has taken 0 damage from point_hurt.
+[00:46:23	]C24.CREMATOR:522 has taken 0 damage from point_hurt.
+[00:46:31	]C24.CREMATOR:522 has taken 0 damage from point_hurt.
+[00:46:31	]C24.CREMATOR:522 has taken 0 damage from point_hurt.
+[00:47:26	]C24.CREMATOR:522 has taken 13 damage from env_fire.
+[00:47:26	]C24.CREMATOR:522 has taken 10 damage from env_fire.
+[00:47:26	]C24.CREMATOR:522 has taken 11 damage from env_fire.
+[00:47:26	]C24.CREMATOR:522 has taken 13 damage from env_fire.
+[00:47:26	]C24.CREMATOR:522 has taken 11 damage from env_fire.
+[00:47:26	]C24.CREMATOR:522 has taken 10 damage from env_fire.
+[00:47:27	]C24.CREMATOR:522 has taken 9 damage from env_fire.
+[00:47:27	]C24.CREMATOR:522 has taken 11 damage from env_fire.
+[00:47:27	]C24.CREMATOR:522 has taken 9 damage from env_fire.
+[00:47:27	]C24.CREMATOR:522 has taken 12 damage from env_fire.
+[00:47:27	]C24.CREMATOR:522 has taken 8 damage from env_fire.
+[00:47:27	]C24.CREMATOR:522 was knocked unconscious and is bleeding out.
+[00:47:44	]C24.CREMATOR:522 was just killed due to: accepting their death
+[00:47:51	][ME] C24.CREMATOR:522: DIES
+[00:47:55	]CreekMando (STEAM_0:1:580525463) has disconnected.
+[05:42:35	]Purple Knight has connected.
+[05:43:46	]Purple Knight loaded the character 'S10/OWS.GHOST-53'
+[05:43:51	]S10/OWS.GHOST-53 is fully healed.
+[05:44:01	]S10/OWS.GHOST-53 used command '/ToggleMentor'.
+[05:44:33	]S10/OWS.GHOST-53 has lost a '30rnd Pulse-magazine' #1651745.
+[05:44:33	]S10/OWS.GHOST-53 has gained a '30rnd Pulse-magazine' #1651742.
+[05:45:41	]S10/OWS.GHOST-53 used command '/ToggleMentor'.
+[05:45:44	]S10/OWS.GHOST-53 used command '/ToggleMentor'.
+[05:53:16	]S10/OWS.GHOST-53 has gone afk.
+[05:57:26	]S10/OWS.GHOST-53 is no longer afk. Total time spent AFK: 545
+[06:02:26	]S10/OWS.GHOST-53 has gone afk.
+[06:07:16	]S10/OWS.GHOST-53 is no longer afk. Total time spent AFK: 585
+[06:07:20	]Purple Knight has unloaded their "S10/OWS.GHOST-53" character.
+[06:07:29	]Purple Knight loaded the character 'C17:RCT.YELLO-95'
+[06:07:34	]C17:RCT.YELLO-95 is fully healed.
+[06:07:44	]C17:RCT.YELLO-95 ran SAM command 'menu' with arguments: ''
+[06:07:51	]C17:RCT.YELLO-95 ran SAM command 'menu' with arguments: ''
+[06:07:56	]C17:RCT.YELLO-95 used command '/ToggleMentor'.
+[06:07:58	]C17:RCT.YELLO-95 ran SAM command 'menu' with arguments: ''
+[06:08:06	]C17:RCT.YELLO-95 has lost a '25rnd Ump-magazine' #1651514.
+[06:08:06	]C17:RCT.YELLO-95 has gained a '25rnd Ump-magazine' #1651515.
+[06:08:12	]C17:RCT.YELLO-95 has gained a '25rnd Ump-magazine' #1651514.
+[06:08:12	]C17:RCT.YELLO-95 has lost a '25rnd Ump-magazine' #1651515.
+[06:08:28	]Purple Knight (STEAM_0:1:63227876) has disconnected.
+[19:50:37	]Vadim has connected.
+[19:51:48	]Vadim (STEAM_0:1:555082508) deleted character 'wwwwwwwwwwwwwwwwww'
+[19:52:00	]Vadim loaded the character 'S10/OSL.SPEAR-78'
+[19:52:04	]S10/OSL.SPEAR-78 is fully healed.
+[19:53:43	]S10/OSL.SPEAR-78 used command '/LinkRemove'.
+[19:53:59	]S10/OSL.SPEAR-78 used command '/LinkAccount https://willard.network/forums/members/vadim.2059/'.
+[19:54:13	]S10/OSL.SPEAR-78 used command '/LinkComplete sq9T3nyXffzK'.
+[19:54:27	]Vadim loaded the character 'C24/SCN-09'
+[19:54:32	]C24/SCN-09 is fully healed.
+[19:55:39	]C24/SCN-09 used command '/VisorStatus unrest'.
+[19:55:48	]C24/SCN-09 used command '/VisorStatus jw'.
+[19:56:09	]C24/SCN-09 used command '/VisorStatus blue'.
+[19:56:25	]Rabithunter has connected.
+[19:56:38	]C24/SCN-09 used command '/VisorStatus orange glglblblglbgl'.
+[19:57:10	]Rabithunter loaded the character 'Jenifer Maesroe'
+[19:57:38	]Jenifer Maesroe ran SAM command 'hp' with arguments: 'maesroe'
+[19:57:40	]Jenifer Maesroe is fully healed.
+[19:57:45	][OOC] C24/SCN-09: insane
+[19:57:46	]Jenifer Maesroe has given himself a face_bandana.
+[19:57:46	]Jenifer Maesroe has gained a 'Bandana' #1656012.
+[19:58:16	][OOC] Jenifer Maesroe: Insane?
+[19:58:25	][OOC] C24/SCN-09: does the dev server not have a password to it
+[19:58:38	][OOC] Jenifer Maesroe: It has one yes
+[19:58:46	][OOC] C24/SCN-09: weird it let me in without it
+[19:58:57	][OOC] Jenifer Maesroe: have you been on this server before?
+[19:58:59	][OOC] C24/SCN-09: dev server is screwed up, I still have OTA WL on here and not my vort one
+[19:59:09	][OOC] C24/SCN-09: yeah
+[19:59:24	]C24/SCN-09 used command '/VisorStatus black'.
+[19:59:32	][OOC] Jenifer Maesroe: server may have recorded you joining before and saved your PW entry
+[19:59:41	][OOC] C24/SCN-09: didnt realize it does that
+[19:59:45	]Jenifer Maesroe entered observer.
+[20:00:05	]Jenifer Maesroe exited observer.
+[20:00:07	]Jenifer Maesroe entered observer.
+[20:00:08	][OOC] C24/SCN-09: will dev server be moved off of metro anytime soon
+[20:00:08	]Jenifer Maesroe exited observer.
+[20:00:19	][OOC] Jenifer Maesroe: Will be eventually yeah
+[20:00:39	][OOC] C24/SCN-09: on v3 they had vendors for each WL so you could get stuff, but not on this map
+[20:00:57	][OOC] Jenifer Maesroe: thats because it was an event map
+[20:01:06	][OOC] Jenifer Maesroe: nothing has been setup again
+[20:01:12	][OOC] C24/SCN-09: true
+[20:01:43	][OOC] C24/SCN-09: btw are you able to manually give me the vort WL on here, the account token doesnt work for me here
+[20:02:07	]Jenifer Maesroe used command '/PlyWhitelist scn vort'.
+[20:02:10	][OOC] C24/SCN-09: thanks
+[20:02:17	][OOC] Jenifer Maesroe: np
+[20:02:19	]C24/SCN-09 used command '/VisorStatus yellow'.
+[20:02:28	]Jenifer Maesroe entered observer.
+[20:02:41	]Jenifer Maesroe exited observer.
+[20:02:45	]Rabithunter (STEAM_0:1:22394854) has disconnected.
+[20:03:43	]Vadim created the character 'Mar'Eyoo'
+[20:03:43	]Vadim loaded the character 'Mar'Eyoo'
+[20:05:52	]Mar'Eyoo has taken 2 damage from trigger_hurt.
+[20:08:07	]Mar'Eyoo has taken 2 damage from trigger_hurt.
+[20:08:07	]Mar'Eyoo has taken 2 damage from trigger_hurt.
+[20:08:53	][IC] Mar'Eyoo: Lung... Gung... Gah'lung... Galla'lung... Turr, lung gurr challa'cher, gung, gong... Lurr... Chung... Corrrrl... Malae. Gerr... Turr... Lurr...
+[20:09:13	][IC] Mar'Eyoo: Gung.
+[20:09:16	][IC] Mar'Eyoo: Gah'lung.
+[20:09:27	][IC] Mar'Eyoo: Galla'lung...
+[20:09:33	][IC] Mar'Eyoo: Cooking.
+[20:09:42	][IC] Mar'Eyoo: Lung... Gung... Gah'lung... Galla'lung... Turr, lung gurr challa'cher, gung, gong... Lurr... Chung... Corrrrl... Malae. Cooking. Gerr... Turr... Lurr...
+[20:14:54	]Vadim (STEAM_0:1:555082508) has disconnected.
+[20:23:49	]Warcrime John has connected.
+[20:24:48	]Warcrime John loaded the character ''Fatty''
+[20:24:53	]'Fatty' is fully healed.
+[20:25:02	]Warcrime John (STEAM_0:1:37835658) has disconnected.
+[23:27:06	]Vadim has connected.
+[23:28:58	]Vadim loaded the character 'Mar'Eyoo'
+[23:29:03	]Mar'Eyoo is fully healed.
+[23:32:20	]Vadim loaded the character 'C24/SCN-09'
+[23:33:43	]Vadim has unloaded their "C24/SCN-09" character.
+[23:33:57	]Vadim loaded the character 'S10/OSL.SPEAR-78'
+[23:34:37	]S10/OSL.SPEAR-78 ran 'EquipUn' on item 'Combine Filter' (#1034977)
+[23:34:44	]S10/OSL.SPEAR-78 ran 'drop' on item 'OTA Mask' (#557035)
+[23:34:44	]S10/OSL.SPEAR-78 has lost a 'OTA Mask' #557035.
+[23:34:49	]S10/OSL.SPEAR-78 ran 'take' on item 'OTA Mask' (#557035)
+[23:34:49	]S10/OSL.SPEAR-78 has gained a 'OTA Mask' #557035.
+[23:34:54	]S10/OSL.SPEAR-78 ran 'Equip' on item 'Combine Filter' (#1034977)
+[23:36:06	]S10/OSL.SPEAR-78 ran 'Place' on item 'Combine Lock' (#395769)
+[23:36:55	]S10/OSL.SPEAR-78 used command '/Broadcast theh'.
+[23:37:05	]S10/OSL.SPEAR-78 used command '/Dispatch dispatch'.
+[23:37:06	]S10/OSL.SPEAR-78 used command '/Dispatch dispatch'.
+[23:37:08	]S10/OSL.SPEAR-78 used command '/Dispatch dispatch'.
+[23:37:09	]S10/OSL.SPEAR-78 used command '/Dispatch dispatch'.
+[23:37:13	]S10/OSL.SPEAR-78 used command '/Dispatch dispatch'.
+[23:38:22	]Vadim (STEAM_0:1:555082508) has disconnected.
+[23:49:29	]Kaffee has connected.
+[23:51:23	]Kaffee loaded the character 'Mister Promiscuous'
+[23:51:28	]Mister Promiscuous is fully healed.
+[23:51:46	]Mister Promiscuous entered observer.
+[23:51:53	]Mister Promiscuous exited observer at their location.
+[23:52:35	]Mister Promiscuous has spawned a 'Entity [98][arccw_ammo_smg1]'.
+[23:52:35	]Mister Promiscuous has spawned a 'Entity [99][arccw_ammo_smg1]'.
+[23:52:36	]Mister Promiscuous has spawned a 'Entity [98][arccw_ammo_smg1]'.
+[23:52:36	]Mister Promiscuous has spawned a 'Entity [99][arccw_ammo_smg1]'.
+[23:52:37	]Mister Promiscuous has spawned a 'Entity [100][arccw_ammo_smg1]'.
+[23:52:37	]Mister Promiscuous has spawned a 'Entity [101][arccw_ammo_smg1]'.
+[23:52:37	]Mister Promiscuous has spawned a 'Entity [121][arccw_ammo_smg1]'.
+[23:52:37	]Mister Promiscuous has spawned a 'Entity [122][arccw_ammo_smg1]'.
+[23:52:40	]Mister Promiscuous has spawned a 'Entity [98][arccw_ammo_ar2]'.
+[23:52:40	]Mister Promiscuous has spawned a 'Entity [99][arccw_ammo_ar2]'.
+[23:52:40	]Mister Promiscuous has spawned a 'Entity [100][arccw_ammo_ar2]'.
+[23:52:40	]Mister Promiscuous has spawned a 'Entity [101][arccw_ammo_ar2]'.
+[23:52:40	]Mister Promiscuous has spawned a 'Entity [121][arccw_ammo_ar2]'.
+[23:52:40	]Mister Promiscuous has spawned a 'Entity [122][arccw_ammo_ar2]'.
+[23:52:40	]Mister Promiscuous has spawned a 'Entity [123][arccw_ammo_ar2]'.
+[23:52:41	]Mister Promiscuous has spawned a 'Entity [98][arccw_ammo_ar2]'.
+[23:52:41	]Mister Promiscuous has spawned a 'Entity [124][arccw_ammo_ar2]'.
+[23:52:41	]Mister Promiscuous has spawned a 'Entity [99][arccw_ammo_ar2]'.
+[23:52:41	]Mister Promiscuous has spawned a 'Entity [100][arccw_ammo_ar2]'.
+[23:53:02	]Mister Promiscuous has spawned a 'Entity [98][acwatt_go_foregrip_stubby]'.
+[23:53:20	]Mister Promiscuous has given himself a go_foregrip_stubby.
+[23:53:20	]Mister Promiscuous has gained a 'Stubby Foregrip' #1656013.
+[23:54:02	]Mister Promiscuous has given himself a torso_color_kevlar.
+[23:54:02	]Mister Promiscuous has gained a 'Super Heavy Kevlar Uniform' #1656014.
+[23:56:19	]Vadim has connected.
+[23:57:02	]Mister Promiscuous has given himself a go_optic_pvs4.
+[23:57:02	]Mister Promiscuous has gained a 'PVS-4 (2xIR)' #1656015.
+[23:57:03	]Mister Promiscuous has lost a 'PVS-4 (2xIR)' #1656015.
+[23:57:15	]Mister Promiscuous has gained a 'PVS-4 (2xIR)' #1656015.
+[23:57:30	]Vadim loaded the character 'Mar'Eyoo'
+[23:57:41	]Mister Promiscuous entered observer.
+[23:57:43	][OOC] Mar'Eyoo: IM STUCK
+[23:57:48	]Mister Promiscuous ran SAM command 'respawn' with arguments: 'mar'
+[23:57:57	]Mister Promiscuous exited observer at their location.
+[23:58:01	][IC] Mar'Eyoo: Can u give me a flashlight.
+[23:58:09	]Mister Promiscuous has spawned a flashlight.
+[23:58:20	]Mar'Eyoo ran 'take' on item 'Flashlight' (#1656016)
+[23:58:20	]Mar'Eyoo has gained a 'Flashlight' #1656016.
+[23:58:29	][IC] Mar'Eyoo: Lung... Gung... Gah'lung... Galla'lung... Turr, lung gurr challa'cher, gung, gong... Lurr... Chung... Corrrrl... Malae. Gerr... Turr... Lurr...
+[23:58:44	][IC] Mar'Eyoo: Cooking.
+[23:58:54	]Mar'Eyoo used command '/EnterMeditation'.
+[23:59:02	][IC] Mar'Eyoo: Is meditation vortessence increased in dev sevrer.
+[23:59:33	]Mar'Eyoo used command '/CharDesc'.

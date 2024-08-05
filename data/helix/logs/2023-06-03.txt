@@ -1,0 +1,557 @@
+[04:25:13	]M!NT has connected.
+[04:25:41	]M!NT loaded the character 'Test char pls ignore'
+[04:31:16	]M!NT has connected.
+[04:31:45	]M!NT loaded the character 'Test char pls ignore'
+[04:37:15	]Test char pls ignore has gone afk.
+[05:03:22	]M!NT has connected.
+[05:07:24	]M!NT loaded the character 'Test char pls ignore'
+[05:07:42	]Test char pls ignore entered observer.
+[05:07:42	]Test char pls ignore exited observer at their location.
+[05:08:47	]reece has connected.
+[05:10:31	]reece loaded the character 'Kiyoko Yarrow'
+[05:10:43	]Kiyoko Yarrow entered observer.
+[05:10:47	]Kiyoko Yarrow exited observer at their location.
+[05:10:57	][IC] Kiyoko Yarrow: Ha.
+[05:11:02	]Kiyoko Yarrow ran SAM command 'scale' with arguments: 'Kiyoko' '1'
+[05:11:06	]Kiyoko Yarrow ran SAM command 'scale' with arguments: 'Kiyoko' '1.2'
+[05:11:09	]Kiyoko Yarrow ran SAM command 'scale' with arguments: 'Kiyoko' '1.1'
+[05:11:11	][IC] Kiyoko Yarrow: Hi.
+[05:11:32	]Kiyoko Yarrow used the 'John Doe' vendor.
+[05:11:36	]Kiyoko Yarrow used the 'Munition Lady' vendor.
+[05:11:41	]Kiyoko Yarrow has gained 0 chips.
+[05:11:41	]Kiyoko Yarrow has gained a 'Abzats Heavy Shotgun' #1659644.
+[05:11:45	]Kiyoko Yarrow ran 'drop' on item 'Abzats Heavy Shotgun' (#1659644)
+[05:11:45	]Kiyoko Yarrow has lost a 'Abzats Heavy Shotgun' #1659644.
+[05:11:47	]Kiyoko Yarrow has used a context menu option with the name: rb655_dissolve
+[05:11:49	]env_entity_dissolver destroyed a 'Abzats Heavy Shotgun' #1659644.
+[05:11:56	]Kiyoko Yarrow is fully healed.
+[05:12:14	]Kiyoko Yarrow entered observer.
+[05:12:14	]Kiyoko Yarrow exited observer at their location.
+[05:13:00	]M!NT loaded the character 'Anne Rayen'
+[05:13:05	]reece loaded the character 'Agatha Wolstenholme'
+[05:13:05	]Anne Rayen is fully healed.
+[05:13:07	]Anne Rayen entered observer.
+[05:13:09	]Anne Rayen exited observer at their location.
+[05:13:09	]Agatha Wolstenholme is fully healed.
+[05:13:23	]M!NT loaded the character 'Test char pls ignore'
+[05:13:29	]Test char pls ignore entered observer.
+[05:13:31	]Test char pls ignore exited observer at their location.
+[05:13:50	]Test char pls ignore set ModelScalingMax to '1.5'.
+[05:14:06	]Test char pls ignore set ModelScalingMin to '0.5'.
+[05:14:25	]Test char pls ignore set ModelScalingSexOffset to '2'.
+[05:14:50	]M!NT (STEAM_0:1:120751263) deleted character 'Test char pls ignore'
+[05:15:07	]M!NT created the character 'test char'
+[05:15:08	]M!NT loaded the character 'test char'
+[05:15:08	]test char has gained a 'Suitcase' #1659645.
+[05:15:08	]test char has gained a 'Flashlight' #1659646.
+[05:15:08	]test char has gained a '#43360's Identity Card' #1659647.
+[05:15:21	]Agatha Wolstenholme is admin-searching test char's inventory.
+[05:15:21	]Agatha Wolstenholme has used a context menu option with the name: ixviewinventory
+[05:15:23	]test char set ModelScalingSexOffset to '0.2'.
+[05:15:23	]Agatha Wolstenholme has closed test char's inventory.
+[05:15:34	]test char set ModelScalingMin to '0.9'.
+[05:15:39	]test char set ModelScalingMax to '1.25'.
+[05:16:00	]test char set ModelScalingSexOffset to '0.1'.
+[05:16:26	]Agatha Wolstenholme has spawned 'models/props_lab/blastdoor001a.mdl'.
+[05:16:46	]test char set ModelScalingMaxInches to '74'.
+[05:17:06	]test char has given himself a shoes_black_shoes.
+[05:17:06	]test char has gained a 'Black Shoes' #1659648.
+[05:17:31	]Agatha Wolstenholme ran 'combine' on item '17rnd Usp-magazine' (#1649723)
+[05:17:31	]Agatha Wolstenholme ran 'combine' on item '17rnd Usp-magazine' (#1649722)
+[05:17:32	]Agatha Wolstenholme ran 'combine' on item '17rnd Usp-magazine' (#1649724)
+[05:17:33	]Agatha Wolstenholme ran 'combine' on item '9mm Pistol Bullets' (#1649727)
+[05:17:38	]Agatha Wolstenholme has lost a '17rnd Usp-magazine' #1649724.
+[05:17:38	]Agatha Wolstenholme has gained a '17rnd Usp-magazine' #1649725.
+[05:18:06	]Agatha Wolstenholme ran 'Style' on item 'Hairdresser tools' (#1649748)
+[05:18:15	]Agatha Wolstenholme ran 'take' on item 'Heavy Pulse Rounds' (#1659433)
+[05:18:15	]Agatha Wolstenholme has gained a 'Heavy Pulse Rounds' #1659433.
+[05:18:21	]M!NT loaded the character 'C17:RCT.YELLO-96'
+[05:18:33	]M!NT (STEAM_0:1:120751263) deleted character 'C17:RCT.YELLO-96'
+[05:18:47	]M!NT created the character 'C17:RCT.YELLO-10'
+[05:18:47	]M!NT has gained level 5 in the Guns skill.
+[05:18:47	]M!NT has gained level 10 in the Speed skill.
+[05:18:47	]C17:RCT.YELLO-10 has gained a '#78443's Identity Card' #1659649.
+[05:18:47	]C17:RCT.YELLO-10 has gained a 'Combine PDA' #1659650.
+[05:18:47	]C17:RCT.YELLO-10 has gained a 'CP Uniform' #1659651.
+[05:18:47	]C17:RCT.YELLO-10 has gained a 'CP Mask' #1659652.
+[05:18:47	]M!NT loaded the character 'C17:RCT.YELLO-10'
+[05:18:47	]C17:RCT.YELLO-10 has gained a 'Handheld Radio' #1659653.
+[05:18:47	]C17:RCT.YELLO-10 has gained a 'Small Bag' #1659654.
+[05:18:47	]C17:RCT.YELLO-10 has gained a 'Large Bag' #1659655.
+[05:20:09	]Agatha Wolstenholme used command '/ActSit 4'.
+[05:20:13	]Agatha Wolstenholme used command '/ExitAct'.
+[05:20:52	]Agatha Wolstenholme used command '/ActSit 4'.
+[05:20:53	]Agatha Wolstenholme used command '/ExitAct'.
+[05:21:41	]Agatha Wolstenholme has gained a '17rnd Usp-magazine' #1649724.
+[05:21:41	]Agatha Wolstenholme has lost a '17rnd Usp-magazine' #1649725.
+[05:21:44	]Agatha Wolstenholme has gained a '17rnd Usp-magazine' #1649725.
+[05:21:44	]Agatha Wolstenholme has lost a '17rnd Usp-magazine' #1649724.
+[05:21:57	]C17:RCT.YELLO-10 has given himself a akm.
+[05:21:57	]C17:RCT.YELLO-10 has gained a 'AKM' #1659656.
+[05:22:00	]C17:RCT.YELLO-10 ran 'Equip' on item 'AKM' (#1659656)
+[05:22:05	]Agatha Wolstenholme entered observer.
+[05:22:06	]Agatha Wolstenholme exited observer at their location.
+[05:22:13	]Agatha Wolstenholme has gained a '17rnd Usp-magazine' #1649724.
+[05:22:13	]Agatha Wolstenholme has lost a '17rnd Usp-magazine' #1649725.
+[05:22:15	]Agatha Wolstenholme has gained a '17rnd Usp-magazine' #1649725.
+[05:22:15	]Agatha Wolstenholme has lost a '17rnd Usp-magazine' #1649724.
+[05:22:29	]Agatha Wolstenholme entered observer.
+[05:22:30	]Agatha Wolstenholme exited observer at their location.
+[05:22:31	]Agatha Wolstenholme entered observer.
+[05:22:33	]Agatha Wolstenholme exited observer at their location.
+[05:22:40	]Agatha Wolstenholme has gained a '17rnd Usp-magazine' #1649724.
+[05:22:40	]Agatha Wolstenholme has lost a '17rnd Usp-magazine' #1649725.
+[05:22:46	]Agatha Wolstenholme has gained a '17rnd Usp-magazine' #1649725.
+[05:22:46	]Agatha Wolstenholme has lost a '17rnd Usp-magazine' #1649724.
+[05:22:53	]Agatha Wolstenholme has gained a '17rnd Usp-magazine' #1649724.
+[05:22:53	]Agatha Wolstenholme has lost a '17rnd Usp-magazine' #1649723.
+[05:22:53	]C17:RCT.YELLO-10 has spawned a Rabit_test.
+[05:22:57	]Agatha Wolstenholme destroyed a 'Broken Biolock' #1659658.
+[05:22:58	]Agatha Wolstenholme has gained a '17rnd Usp-magazine' #1649723.
+[05:22:58	]Agatha Wolstenholme has lost a '17rnd Usp-magazine' #1649722.
+[05:23:02	]C17:RCT.YELLO-10 has taken 50 damage from ix_item.
+[05:23:02	]C17:RCT.YELLO-10 has taken 10 damage from ix_item.
+[05:23:02	]C17:RCT.YELLO-10 has taken 10 damage from ix_item.
+[05:23:06	]Agatha Wolstenholme has gained a '17rnd Usp-magazine' #1649722.
+[05:23:06	]Agatha Wolstenholme was knocked unconscious and is bleeding out.
+[05:23:18	]Agatha Wolstenholme ran SAM command 'hp' with arguments: 'agatha' '10000000000'
+[05:23:19	]C17:RCT.YELLO-10 has used a context menu option with the name: remove
+[05:23:19	]Agatha Wolstenholme is no longer unconscious from critical wounds.
+[05:23:19	]Agatha Wolstenholme is fully healed.
+[05:23:23	]Agatha Wolstenholme ran SAM command 'respawn' with arguments: 'agath'
+[05:23:24	]Agatha Wolstenholme entered observer.
+[05:23:25	]C17:RCT.YELLO-10 ran SAM command 'hp' with arguments: 'rct' '10000'
+[05:23:26	]Agatha Wolstenholme exited observer at their location.
+[05:23:27	]C17:RCT.YELLO-10 is fully healed.
+[05:23:41	]Agatha Wolstenholme ran 'drop' on item 'USP-45' (#1649718)
+[05:23:41	]Agatha Wolstenholme has lost a 'USP-45' #1649718.
+[05:23:41	]Agatha Wolstenholme ran 'drop' on item '17rnd Usp-magazine' (#1649723)
+[05:23:41	]Agatha Wolstenholme has lost a '17rnd Usp-magazine' #1649723.
+[05:23:42	]Agatha Wolstenholme ran 'drop' on item '17rnd Usp-magazine' (#1649722)
+[05:23:42	]Agatha Wolstenholme has lost a '17rnd Usp-magazine' #1649722.
+[05:23:42	]Agatha Wolstenholme ran 'drop' on item '17rnd Usp-magazine' (#1649725)
+[05:23:42	]Agatha Wolstenholme has lost a '17rnd Usp-magazine' #1649725.
+[05:23:42	]Agatha Wolstenholme ran 'drop' on item '17rnd Usp-magazine' (#1649724)
+[05:23:42	]Agatha Wolstenholme has lost a '17rnd Usp-magazine' #1649724.
+[05:23:43	]Agatha Wolstenholme ran 'drop' on item '9mm Pistol Bullets' (#1649726)
+[05:23:43	]Agatha Wolstenholme has lost a '9mm Pistol Bullets' #1649726.
+[05:23:43	]Agatha Wolstenholme ran 'drop' on item '9mm Pistol Bullets' (#1649727)
+[05:23:43	]Agatha Wolstenholme has lost a '9mm Pistol Bullets' #1649727.
+[05:23:43	]Agatha Wolstenholme ran 'drop' on item 'PBS-1 Suppressor' (#1649720)
+[05:23:43	]Agatha Wolstenholme has lost a 'PBS-1 Suppressor' #1649720.
+[05:23:44	]Agatha Wolstenholme ran 'drop' on item 'Rotor43 Suppressor' (#1649719)
+[05:23:44	]Agatha Wolstenholme has lost a 'Rotor43 Suppressor' #1649719.
+[05:23:45	]Agatha Wolstenholme ran 'drop' on item 'Heavy Pulse Rounds' (#1659433)
+[05:23:45	]Agatha Wolstenholme has lost a 'Heavy Pulse Rounds' #1659433.
+[05:23:45	]Agatha Wolstenholme ran 'drop' on item 'TGP-A Suppressor' (#1649710)
+[05:23:45	]Agatha Wolstenholme has lost a 'TGP-A Suppressor' #1649710.
+[05:23:46	]Agatha Wolstenholme ran 'drop' on item 'Hairdresser tools' (#1649748)
+[05:23:46	]Agatha Wolstenholme has lost a 'Hairdresser tools' #1649748.
+[05:23:54	]Agatha Wolstenholme has given himself a m4a1.
+[05:23:54	]Agatha Wolstenholme has gained a 'M4A1' #1659659.
+[05:24:01	]C17:RCT.YELLO-10 has given himself a magazine_ak_30rnd.
+[05:24:01	]C17:RCT.YELLO-10 has gained a '30rnd AK-magazine' #1659660.
+[05:24:02	]C17:RCT.YELLO-10 has given himself a magazine_ak_30rnd.
+[05:24:02	]C17:RCT.YELLO-10 has gained a '30rnd AK-magazine' #1659661.
+[05:24:03	]C17:RCT.YELLO-10 has given himself a magazine_ak_30rnd.
+[05:24:04	]C17:RCT.YELLO-10 has gained a '30rnd AK-magazine' #1659662.
+[05:24:06	]Agatha Wolstenholme has given himself a scarh.
+[05:24:06	]Agatha Wolstenholme has gained a 'SCAR-H' #1659663.
+[05:24:15	]C17:RCT.YELLO-10 has given himself a bullets_assaultrifle.
+[05:24:15	]C17:RCT.YELLO-10 has gained a 'Assault Rifle Bullets' #1659664.
+[05:24:16	]C17:RCT.YELLO-10 has given himself a bullets_assaultrifle.
+[05:24:16	]C17:RCT.YELLO-10 has gained a 'Assault Rifle Bullets' #1659665.
+[05:24:16	]C17:RCT.YELLO-10 has given himself a bullets_assaultrifle.
+[05:24:16	]C17:RCT.YELLO-10 has gained a 'Assault Rifle Bullets' #1659666.
+[05:24:19	]C17:RCT.YELLO-10 ran 'combine' on item '30rnd AK-magazine' (#1659660)
+[05:24:20	]C17:RCT.YELLO-10 ran 'combine' on item '30rnd AK-magazine' (#1659661)
+[05:24:21	]C17:RCT.YELLO-10 ran 'combine' on item '30rnd AK-magazine' (#1659662)
+[05:24:25	]Agatha Wolstenholme ran 'Equip' on item 'SCAR-H' (#1659663)
+[05:24:26	]C17:RCT.YELLO-10 has lost a '30rnd AK-magazine' #1659662.
+[05:24:30	]C17:RCT.YELLO-10 has critically hit Agatha Wolstenholme in the head dealing 0 damage (CritChance was 0.53).
+[05:24:30	]C17:RCT.YELLO-10 has critically hit Agatha Wolstenholme in the head dealing 19 damage (CritChance was 0.53).
+[05:24:30	]Agatha Wolstenholme has taken 19 damage from C17:RCT.YELLO-10.
+[05:24:30	]C17:RCT.YELLO-10 has hit Agatha Wolstenholme in the head dealing 0 damage (CritChance was 0.53).
+[05:24:30	]C17:RCT.YELLO-10 has hit Agatha Wolstenholme in the head dealing 9 damage (CritChance was 0.53).
+[05:24:30	]Agatha Wolstenholme has taken 9 damage from C17:RCT.YELLO-10.
+[05:24:32	]C17:RCT.YELLO-10 has hit Agatha Wolstenholme in the left arm dealing 0 damage (CritChance was 0.53).
+[05:24:32	]C17:RCT.YELLO-10 has critically hit Agatha Wolstenholme in the left arm dealing 5 damage (CritChance was 0.53).
+[05:24:32	]Agatha Wolstenholme has taken 4 damage from C17:RCT.YELLO-10.
+[05:24:32	]C17:RCT.YELLO-10 has critically hit Agatha Wolstenholme in the head dealing 0 damage (CritChance was 0.53).
+[05:24:32	]C17:RCT.YELLO-10 has hit Agatha Wolstenholme in the head dealing 9 damage (CritChance was 0.53).
+[05:24:32	]Agatha Wolstenholme has taken 9 damage from C17:RCT.YELLO-10.
+[05:24:32	]C17:RCT.YELLO-10 has critically hit Agatha Wolstenholme in the left arm dealing 0 damage (CritChance was 0.53).
+[05:24:32	]C17:RCT.YELLO-10 has hit Agatha Wolstenholme in the left arm dealing 5 damage (CritChance was 0.53).
+[05:24:32	]Agatha Wolstenholme has taken 4 damage from C17:RCT.YELLO-10.
+[05:24:33	]C17:RCT.YELLO-10 has hit Agatha Wolstenholme in the chest dealing 0 damage (CritChance was 0.53).
+[05:24:33	]C17:RCT.YELLO-10 has hit Agatha Wolstenholme in the chest dealing 11 damage (CritChance was 0.53).
+[05:24:33	]Agatha Wolstenholme has taken 11 damage from C17:RCT.YELLO-10.
+[05:24:33	]C17:RCT.YELLO-10 has critically hit Agatha Wolstenholme in the head dealing 0 damage (CritChance was 0.53).
+[05:24:33	]C17:RCT.YELLO-10 has critically hit Agatha Wolstenholme in the head dealing 19 damage (CritChance was 0.53).
+[05:24:33	]Agatha Wolstenholme has taken 19 damage from C17:RCT.YELLO-10.
+[05:24:33	]C17:RCT.YELLO-10 has hit Agatha Wolstenholme in the head dealing 0 damage (CritChance was 0.53).
+[05:24:33	]C17:RCT.YELLO-10 has critically hit Agatha Wolstenholme in the head dealing 19 damage (CritChance was 0.53).
+[05:24:33	]Agatha Wolstenholme has taken 19 damage from C17:RCT.YELLO-10.
+[05:24:34	]C17:RCT.YELLO-10 has hit Agatha Wolstenholme in the right arm dealing 0 damage (CritChance was 0.53).
+[05:24:34	]C17:RCT.YELLO-10 has hit Agatha Wolstenholme in the right arm dealing 5 damage (CritChance was 0.53).
+[05:24:34	]Agatha Wolstenholme was knocked unconscious and is bleeding out.
+[05:24:39	]C17:RCT.YELLO-10 has gained a '30rnd AK-magazine' #1659662.
+[05:24:39	]C17:RCT.YELLO-10 has lost a '30rnd AK-magazine' #1659661.
+[05:24:43	]Agatha Wolstenholme ran SAM command 'respawn' with arguments: 'Agatha'
+[05:24:44	]Agatha Wolstenholme is fully healed.
+[05:24:52	]Agatha Wolstenholme has given himself a magazine_dmr_20rnd.
+[05:24:52	]Agatha Wolstenholme has gained a '20rnd DMR-magazine' #1659667.
+[05:24:53	]Agatha Wolstenholme has given himself a magazine_dmr_20rnd.
+[05:24:53	]Agatha Wolstenholme has gained a '20rnd DMR-magazine' #1659668.
+[05:25:01	]Agatha Wolstenholme has given himself a bullets_assaultrifle.
+[05:25:01	]Agatha Wolstenholme has gained a 'Assault Rifle Bullets' #1659669.
+[05:25:02	]Agatha Wolstenholme has given himself a bullets_assaultrifle.
+[05:25:02	]Agatha Wolstenholme has gained a 'Assault Rifle Bullets' #1659670.
+[05:25:02	]Agatha Wolstenholme has given himself a bullets_assaultrifle.
+[05:25:02	]Agatha Wolstenholme has gained a 'Assault Rifle Bullets' #1659671.
+[05:25:06	]Agatha Wolstenholme ran 'EquipUn' on item 'SCAR-H' (#1659663)
+[05:25:10	]Agatha Wolstenholme ran 'drop' on item 'Assault Rifle Bullets' (#1659670)
+[05:25:10	]Agatha Wolstenholme has lost a 'Assault Rifle Bullets' #1659670.
+[05:25:11	]Agatha Wolstenholme ran 'drop' on item 'Assault Rifle Bullets' (#1659669)
+[05:25:11	]Agatha Wolstenholme has lost a 'Assault Rifle Bullets' #1659669.
+[05:25:11	]Agatha Wolstenholme ran 'drop' on item 'Assault Rifle Bullets' (#1659671)
+[05:25:11	]Agatha Wolstenholme has lost a 'Assault Rifle Bullets' #1659671.
+[05:25:15	]Agatha Wolstenholme has given himself a bullets_dmr.
+[05:25:15	]Agatha Wolstenholme has gained a 'Rifle Bullets' #1659672.
+[05:25:16	]Agatha Wolstenholme has given himself a bullets_dmr.
+[05:25:16	]Agatha Wolstenholme has gained a 'Rifle Bullets' #1659673.
+[05:25:17	]Agatha Wolstenholme ran 'combine' on item '20rnd DMR-magazine' (#1659668)
+[05:25:17	]Agatha Wolstenholme ran 'combine' on item '20rnd DMR-magazine' (#1659667)
+[05:25:19	]Agatha Wolstenholme ran 'Equip' on item 'SCAR-H' (#1659663)
+[05:25:20	]Agatha Wolstenholme has lost a '20rnd DMR-magazine' #1659668.
+[05:25:22	]C17:RCT.YELLO-10 has gained a '30rnd AK-magazine' #1659661.
+[05:25:22	]C17:RCT.YELLO-10 has lost a '30rnd AK-magazine' #1659660.
+[05:25:38	]Agatha Wolstenholme has gained level 50 in the Guns skill.
+[05:25:38	]Agatha Wolstenholme used command '/CharSkillAdd agatha guns 50'.
+[05:25:45	]Agatha Wolstenholme has hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.34).
+[05:25:45	]Agatha Wolstenholme has hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.34).
+[05:25:45	]Agatha Wolstenholme has hit C17:RCT.YELLO-10 in the stomach dealing 21 damage (CritChance was 0.34).
+[05:25:45	]C17:RCT.YELLO-10 has taken 21 damage from Agatha Wolstenholme.
+[05:25:46	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.34).
+[05:25:46	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 34 damage (CritChance was 0.34).
+[05:25:46	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:46	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:46	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:25:46	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:46	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:46	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:25:46	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:46	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:46	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:25:46	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:46	]Agatha Wolstenholme has hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:46	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:25:46	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:47	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:47	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:25:47	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:47	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:47	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:47	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:25:47	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:47	]C17:RCT.YELLO-10 is fully healed.
+[05:25:48	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:48	]Agatha Wolstenholme has hit C17:RCT.YELLO-10 in the stomach dealing 21 damage (CritChance was 0.96).
+[05:25:48	]C17:RCT.YELLO-10 has taken 21 damage from Agatha Wolstenholme.
+[05:25:48	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:48	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:48	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 34 damage (CritChance was 0.96).
+[05:25:48	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:48	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:48	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 34 damage (CritChance was 0.96).
+[05:25:48	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:51	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:51	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:51	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:51	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:25:51	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:51	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:51	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:51	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:51	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:25:51	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:51	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:51	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:25:51	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:51	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.96).
+[05:25:51	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.96).
+[05:25:51	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.96).
+[05:25:51	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 36 damage (CritChance was 0.96).
+[05:25:51	]C17:RCT.YELLO-10 has taken 36 damage from Agatha Wolstenholme.
+[05:25:52	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.96).
+[05:25:52	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.96).
+[05:25:52	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 36 damage (CritChance was 0.96).
+[05:25:52	]C17:RCT.YELLO-10 has taken 36 damage from Agatha Wolstenholme.
+[05:25:52	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.96).
+[05:25:52	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.96).
+[05:25:52	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 36 damage (CritChance was 0.96).
+[05:25:52	]C17:RCT.YELLO-10 has taken 36 damage from Agatha Wolstenholme.
+[05:25:52	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.96).
+[05:25:52	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.96).
+[05:25:52	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 36 damage (CritChance was 0.96).
+[05:25:52	]C17:RCT.YELLO-10 has taken 36 damage from Agatha Wolstenholme.
+[05:25:52	]C17:RCT.YELLO-10 is fully healed.
+[05:25:52	]Agatha Wolstenholme has gained a '20rnd DMR-magazine' #1659668.
+[05:25:52	]Agatha Wolstenholme has lost a '20rnd DMR-magazine' #1659667.
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 34 damage (CritChance was 0.96).
+[05:25:56	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 34 damage (CritChance was 0.96).
+[05:25:56	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:25:56	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the left arm dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the left arm dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the left arm dealing 9 damage (CritChance was 0.96).
+[05:25:56	]C17:RCT.YELLO-10 has taken 9 damage from Agatha Wolstenholme.
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:25:56	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:25:56	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:25:56	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:25:56	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:25:56	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:25:56	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:56	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 34 damage (CritChance was 0.96).
+[05:25:56	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 34 damage (CritChance was 0.96).
+[05:25:57	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 34 damage (CritChance was 0.96).
+[05:25:57	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 34 damage (CritChance was 0.96).
+[05:25:57	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.96).
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 34 damage (CritChance was 0.96).
+[05:25:57	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the left arm dealing 0 damage (CritChance was 0.96).
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the left arm dealing 9 damage (CritChance was 0.96).
+[05:25:57	]C17:RCT.YELLO-10 has taken 9 damage from Agatha Wolstenholme.
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the left arm dealing 0 damage (CritChance was 0.96).
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the left arm dealing 0 damage (CritChance was 0.96).
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the left arm dealing 0 damage (CritChance was 0.96).
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the left arm dealing 0 damage (CritChance was 0.96).
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the left arm dealing 9 damage (CritChance was 0.96).
+[05:25:57	]C17:RCT.YELLO-10 has taken 9 damage from Agatha Wolstenholme.
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:25:57	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:25:57	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:25:57	]C17:RCT.YELLO-10 is fully healed.
+[05:25:57	]Agatha Wolstenholme has hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:25:57	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:25:57	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:26:02	]Agatha Wolstenholme ran 'EquipUn' on item 'SCAR-H' (#1659663)
+[05:26:02	]Agatha Wolstenholme has gained a '20rnd DMR-magazine' #1659667.
+[05:26:02	]C17:RCT.YELLO-10 is fully healed.
+[05:26:05	]C17:RCT.YELLO-10 ran SAM command 'hp' with arguments: 'rct' '100'
+[05:26:05	]Agatha Wolstenholme has given himself a bullets_dmr.
+[05:26:05	]Agatha Wolstenholme has gained a 'Rifle Bullets' #1659674.
+[05:26:06	]Agatha Wolstenholme has given himself a bullets_dmr.
+[05:26:06	]Agatha Wolstenholme has gained a 'Rifle Bullets' #1659675.
+[05:26:07	]Agatha Wolstenholme ran 'combine' on item '20rnd DMR-magazine' (#1659667)
+[05:26:08	]Agatha Wolstenholme ran 'combine' on item '20rnd DMR-magazine' (#1659668)
+[05:26:10	]Agatha Wolstenholme ran 'Equip' on item 'SCAR-H' (#1659663)
+[05:26:10	]C17:RCT.YELLO-10 ran SAM command 'armor' with arguments: 'rct' '25'
+[05:26:10	]Agatha Wolstenholme has lost a '20rnd DMR-magazine' #1659668.
+[05:26:17	]C17:RCT.YELLO-10 ran SAM command 'armor' with arguments: 'rct' '50'
+[05:26:20	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.34).
+[05:26:20	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the stomach dealing 34 damage (CritChance was 0.34).
+[05:26:20	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:26:20	]Agatha Wolstenholme has hit C17:RCT.YELLO-10 in the stomach dealing 0 damage (CritChance was 0.34).
+[05:26:20	]Agatha Wolstenholme has hit C17:RCT.YELLO-10 in the stomach dealing 21 damage (CritChance was 0.34).
+[05:26:20	]C17:RCT.YELLO-10 has taken 21 damage from Agatha Wolstenholme.
+[05:26:20	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:26:20	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:26:20	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:26:21	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 0 damage (CritChance was 0.96).
+[05:26:21	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 34 damage (CritChance was 0.96).
+[05:26:21	]C17:RCT.YELLO-10 has taken 34 damage from Agatha Wolstenholme.
+[05:26:22	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.96).
+[05:26:22	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.96).
+[05:26:22	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 36 damage (CritChance was 0.96).
+[05:26:22	]C17:RCT.YELLO-10 has gained a '30rnd AK-magazine' #1659660.
+[05:26:22	]C17:RCT.YELLO-10 was knocked unconscious and is bleeding out.
+[05:26:28	]Agatha Wolstenholme ran 'drop' on item 'SCAR-H' (#1659663)
+[05:26:28	]Agatha Wolstenholme has lost a 'SCAR-H' #1659663.
+[05:26:29	]Agatha Wolstenholme ran 'drop' on item '20rnd DMR-magazine' (#1659667)
+[05:26:29	]Agatha Wolstenholme has lost a '20rnd DMR-magazine' #1659667.
+[05:26:34	]C17:RCT.YELLO-10 ran SAM command 'hp' with arguments: 'rct' '10000'
+[05:26:36	]C17:RCT.YELLO-10 ran SAM command 'armor' with arguments: 'rct' '50'
+[05:26:37	]C17:RCT.YELLO-10 is no longer unconscious from critical wounds.
+[05:26:37	]C17:RCT.YELLO-10 is fully healed.
+[05:26:42	]Agatha Wolstenholme ran 'Equip' on item 'M4A1' (#1659659)
+[05:26:43	]C17:RCT.YELLO-10 used command '/CharStopBleedout rct'.
+[05:26:45	]Agatha Wolstenholme ran 'drop' on item 'M4A1' (#1659659)
+[05:26:45	]Agatha Wolstenholme has lost a 'M4A1' #1659659.
+[05:26:51	]Agatha Wolstenholme has given himself a awp.
+[05:26:51	]Agatha Wolstenholme has gained a 'AWSM' #1659676.
+[05:26:53	]Agatha Wolstenholme ran 'Equip' on item 'AWSM' (#1659676)
+[05:27:06	]Agatha Wolstenholme has given himself a magazine_sniper_10rnd.
+[05:27:06	]Agatha Wolstenholme has gained a '10rnd Sniper-magazine' #1659677.
+[05:27:10	]Agatha Wolstenholme has given himself a sniperammo.
+[05:27:10	]Agatha Wolstenholme has gained a 'Sniper Ammo' #1659678.
+[05:27:15	]Agatha Wolstenholme has given himself a bullets_sniper.
+[05:27:15	]Agatha Wolstenholme has gained a 'Sniper Rifle Bullets' #1659679.
+[05:27:17	]Agatha Wolstenholme ran 'combine' on item '10rnd Sniper-magazine' (#1659677)
+[05:27:18	]Agatha Wolstenholme has lost a '10rnd Sniper-magazine' #1659677.
+[05:27:28	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.45).
+[05:27:28	]Agatha Wolstenholme has hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.45).
+[05:27:28	]Agatha Wolstenholme has hit C17:RCT.YELLO-10 in the head dealing 57 damage (CritChance was 0.45).
+[05:27:28	]C17:RCT.YELLO-10 has taken 57 damage from Agatha Wolstenholme.
+[05:27:32	]C17:RCT.YELLO-10 is fully healed.
+[05:27:34	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.89).
+[05:27:34	]Agatha Wolstenholme has hit C17:RCT.YELLO-10 in the head dealing 57 damage (CritChance was 0.89).
+[05:27:34	]C17:RCT.YELLO-10 has taken 57 damage from Agatha Wolstenholme.
+[05:27:36	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.89).
+[05:27:36	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.89).
+[05:27:36	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 115 damage (CritChance was 0.89).
+[05:27:36	]C17:RCT.YELLO-10 has taken 115 damage from Agatha Wolstenholme.
+[05:27:37	]Agatha Wolstenholme has hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.89).
+[05:27:37	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.89).
+[05:27:37	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 115 damage (CritChance was 0.89).
+[05:27:37	]C17:RCT.YELLO-10 has taken 115 damage from Agatha Wolstenholme.
+[05:27:37	]C17:RCT.YELLO-10 is fully healed.
+[05:27:39	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.89).
+[05:27:39	]Agatha Wolstenholme has hit C17:RCT.YELLO-10 in the head dealing 57 damage (CritChance was 0.89).
+[05:27:39	]C17:RCT.YELLO-10 has taken 57 damage from Agatha Wolstenholme.
+[05:27:41	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.89).
+[05:27:41	]Agatha Wolstenholme has hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.89).
+[05:27:41	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.89).
+[05:27:41	]Agatha Wolstenholme has hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.89).
+[05:27:41	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 115 damage (CritChance was 0.89).
+[05:27:41	]C17:RCT.YELLO-10 has taken 115 damage from Agatha Wolstenholme.
+[05:27:42	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.89).
+[05:27:42	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.89).
+[05:27:42	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 115 damage (CritChance was 0.89).
+[05:27:42	]C17:RCT.YELLO-10 has taken 115 damage from Agatha Wolstenholme.
+[05:27:42	]C17:RCT.YELLO-10 is fully healed.
+[05:27:44	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.89).
+[05:27:44	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.89).
+[05:27:44	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 115 damage (CritChance was 0.89).
+[05:27:44	]C17:RCT.YELLO-10 has taken 115 damage from Agatha Wolstenholme.
+[05:27:45	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.89).
+[05:27:45	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 0 damage (CritChance was 0.89).
+[05:27:45	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 115 damage (CritChance was 0.89).
+[05:27:45	]C17:RCT.YELLO-10 has taken 115 damage from Agatha Wolstenholme.
+[05:27:47	]C17:RCT.YELLO-10 is fully healed.
+[05:27:47	]Agatha Wolstenholme ran 'drop' on item 'AWSM' (#1659676)
+[05:27:47	]Agatha Wolstenholme has lost a 'AWSM' #1659676.
+[05:27:48	]Agatha Wolstenholme ran 'drop' on item 'Sniper Ammo' (#1659678)
+[05:27:48	]Agatha Wolstenholme has lost a 'Sniper Ammo' #1659678.
+[05:27:48	]Agatha Wolstenholme ran 'drop' on item 'Sniper Rifle Bullets' (#1659679)
+[05:27:48	]Agatha Wolstenholme has lost a 'Sniper Rifle Bullets' #1659679.
+[05:28:02	]Agatha Wolstenholme used command '/CharSkillAdd agatha melee 50'.
+[05:28:06	]Agatha Wolstenholme used command '/CharSkillAdd agatha melee 25'.
+[05:28:20	]Agatha Wolstenholme used command '/CharSkillAdd agatha gun 25'.
+[05:28:35	]Agatha Wolstenholme used command '/CharSkillSet agatha gun 0'.
+[05:28:38	]Agatha Wolstenholme used command '/CharSkillSet agatha melee 0'.
+[05:28:42	]Agatha Wolstenholme has gained level 50 in the Melee skill.
+[05:28:42	]Agatha Wolstenholme used command '/CharSkillSet agatha melee 50'.
+[05:28:55	]Agatha Wolstenholme has given himself a metropolicesupplements.
+[05:28:55	]Agatha Wolstenholme has gained a 'Metropolice Supplements' #1659680.
+[05:28:56	]Agatha Wolstenholme has given himself a drink_lemonade.
+[05:28:56	]Agatha Wolstenholme has gained a 'Lemonade' #1659681.
+[05:28:57	]Agatha Wolstenholme has given himself a drink_lemonade.
+[05:28:57	]Agatha Wolstenholme has gained a 'Lemonade' #1659682.
+[05:28:59	]Agatha Wolstenholme ran 'Consume' on item 'Lemonade' (#1659681)
+[05:29:00	]Agatha Wolstenholme ran 'Consume' on item 'Metropolice Supplements' (#1659680)
+[05:29:00	]Agatha Wolstenholme has gained a level 3 long boost in Strength.
+[05:29:00	]Agatha Wolstenholme ran 'Consume' on item 'Lemonade' (#1659682)
+[05:29:05	]Agatha Wolstenholme has given himself a sledgehammer.
+[05:29:05	]Agatha Wolstenholme has gained a 'Sledge Hammer' #1659683.
+[05:29:06	]Agatha Wolstenholme ran 'Equip' on item 'Sledge Hammer' (#1659683)
+[05:29:11	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the head dealing 105 damage (CritChance was 1.00).
+[05:29:11	]C17:RCT.YELLO-10 has taken 105 damage from Agatha Wolstenholme.
+[05:29:12	]C17:RCT.YELLO-10 is fully healed.
+[05:29:14	]Agatha Wolstenholme has critically hit C17:RCT.YELLO-10 in the chest dealing 105 damage (CritChance was 1.00).
+[05:29:14	]C17:RCT.YELLO-10 has taken 105 damage from Agatha Wolstenholme.
+[05:29:17	]C17:RCT.YELLO-10 is fully healed.
+[05:29:39	]Agatha Wolstenholme entered observer.
+[05:29:47	]Agatha Wolstenholme has used a context menu option with the name: remove
+[05:29:48	]Agatha Wolstenholme exited observer at their location.
+[05:29:50	]Agatha Wolstenholme entered observer.
+[05:30:27	]Agatha Wolstenholme exited observer at their location.
+[05:30:27	]Agatha Wolstenholme was knocked unconscious and is bleeding out.
+[05:30:32	]Agatha Wolstenholme ran SAM command 'respawn' with arguments: 'aga'
+[05:30:34	]Agatha Wolstenholme is fully healed.
+[05:30:59	]Agatha Wolstenholme ran 'drop' on item 'Sledge Hammer' (#1659683)
+[05:30:59	]Agatha Wolstenholme has lost a 'Sledge Hammer' #1659683.
+[05:31:08	]Agatha Wolstenholme has used a context menu option with the name: remove
+[05:31:18	]reece (STEAM_0:1:158746618) has disconnected.
+[05:36:08	]M!NT (STEAM_0:1:120751263) has disconnected.
+[23:11:34	]M!NT has connected.
+[23:12:10	]M!NT loaded the character 'test char'
+[23:12:18	]test char entered observer.
+[23:12:26	]test char exited observer at their location.
+[23:12:40	]test char has given himself a landline.
+[23:12:40	]test char has gained a 'Landline Phone' #1659684.
+[23:12:43	]test char has given himself a landline.
+[23:12:43	]test char has gained a 'Landline Phone' #1659685.
+[23:12:49	]test char ran 'Deploy' on item 'Landline Phone' (#1659684)
+[23:13:41	]test char entered observer.
+[23:13:43	]test char exited observer at their location.
+[23:13:46	]test char ran 'Deploy' on item 'Landline Phone' (#1659685)
+[23:14:04	]test char used command '/AddPBX 01'.
+[23:14:16	]test char used command '/EditLandline 01 1234 Tester McTest'.
+[23:14:28	]test char used command '/EditLandline 01 123 Tester McTest'.
+[23:14:36	]test char entered observer.
+[23:14:38	]test char exited observer at their location.
+[23:14:51	]test char used command '/EditLandline 01 222 Other McTest'.
+[23:15:09	]test char entered observer.
+[23:15:11	]test char exited observer at their location.
+[23:15:17	]test char entered observer.
+[23:17:43	]test char exited observer at their location.
+[23:17:43	]test char entered observer.
+[23:17:44	]test char exited observer at their location.
+[23:17:54	]test char entered observer.
+[23:17:55	]test char exited observer at their location.
+[23:18:02	]test char entered observer.
+[23:18:02	]test char exited observer at their location.
+[23:18:04	]test char entered observer.
+[23:18:06	]test char exited observer at their location.
+[23:18:09	]test char entered observer.
+[23:23:10	]test char has gone afk.
+[23:23:45	]test char is no longer afk. Total time spent AFK: 330
+[23:23:49	]M!NT (STEAM_0:1:120751263) has disconnected.
+[23:58:21	]Hiros | Error 410 has connected.

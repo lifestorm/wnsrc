@@ -1,0 +1,235 @@
+[09:12:57	]Mango has connected.
+[09:13:53	]Mango loaded the character 'sususu'
+[09:14:06	]sususu used command '/Datafile susu'.
+[09:14:10	][IC] sususu: A.
+[09:14:20	]sususu used command '/Datafile !62561'.
+[09:14:28	]sususu ran 'drop' on item 'Vortigaunt Collar (fake)' (#2055902)
+[09:14:28	]sususu has lost a 'Vortigaunt Collar (fake)' #2055902.
+[09:14:36	]sususu has given himself a vortigaunt_slave_collar_fake.
+[09:14:36	]sususu has gained a 'Vortigaunt Collar (fake)' #2055903.
+[09:15:01	]sususu used command '/Datafile !62327'.
+[09:15:11	]sususu used command '/Datafile !62327'.
+[09:17:57	]Mango has unloaded their "sususu" character.
+[09:18:06	]Mango loaded the character 'sususu'
+[09:18:27	]sususu used command '/Datafile !62327'.
+[09:23:09	]Mango (STEAM_0:0:544539350) has disconnected.
+[10:23:54	]Mango has connected.
+[10:25:41	]Mango loaded the character 'sususu'
+[10:25:52	]sususu ran 'drop' on item 'Vortigaunt Collar (fake)' (#2055903)
+[10:25:52	]sususu has lost a 'Vortigaunt Collar (fake)' #2055903.
+[10:25:59	]sususu has given himself a vortigaunt_slave_collar_fake.
+[10:25:59	]sususu has gained a 'Vortigaunt Collar (fake)' #2055904.
+[10:26:12	]sususu used command '/Datafile !61789'.
+[10:26:26	]sususu used command '/Datafile !61789'.
+[10:26:41	]sususu used command '/Datafile !61789'.
+[10:26:48	]sususu used command '/Datafile !61789'.
+[10:26:52	]sususu ran 'drop' on item 'Vortigaunt Collar (fake)' (#2055904)
+[10:26:52	]sususu has lost a 'Vortigaunt Collar (fake)' #2055904.
+[10:26:55	]sususu has given himself a vortigaunt_slave_collar_fake.
+[10:26:55	]sususu has gained a 'Vortigaunt Collar (fake)' #2055905.
+[10:27:03	]sususu used command '/Datafile !62004'.
+[10:27:19	]sususu used the 'John Doe' vendor.
+[10:28:02	]sususu has spawned 'models/props_c17/FurnitureSink001a.mdl'.
+[10:28:28	]sususu has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[10:28:51	]sususu used command '/entscale 0.5'.
+[10:33:28	]sususu entered observer.
+[10:33:29	]sususu exited observer at their location.
+[10:33:30	]sususu entered observer.
+[10:33:32	]sususu exited observer at their location.
+[10:33:32	]sususu entered observer.
+[10:34:08	]sususu exited observer at their location.
+[10:37:47	]sususu has spawned a 'NPC [5212][sent_vj_xen_crystal]'.
+[10:37:54	]sususu used command '/entscale 5'.
+[10:37:57	]sususu used command '/entscale 5'.
+[10:37:59	]sususu used command '/entscale 2'.
+[10:38:01	]sususu used command '/entscale 2'.
+[10:38:02	]sususu used command '/entscale 2'.
+[10:38:03	]sususu used command '/entscale 2'.
+[10:38:20	]sususu has spawned 'models/props_xen/crystals/xen_crystals_orange_3.mdl'.
+[10:38:32	]sususu has fired a toolgun with the name: nocollideworld
+[10:38:51	]sususu used command '/entscale 0.2'.
+[10:39:27	]BurgerWithOnion has connected.
+[10:40:15	]BurgerWithOnion (STEAM_0:1:92494979) deleted character 'Gavin Owens'
+[10:40:17	]BurgerWithOnion (STEAM_0:1:92494979) deleted character 'Marty Weber'
+[10:40:43	]sususu entered observer.
+[10:40:45	]sususu exited observer at their location.
+[10:41:21	]sususu has spawned 'models/props_xen/crystals/watercrystal02.mdl'.
+[10:41:28	]sususu has fired a toolgun with the name: nocollideworld
+[10:41:29	]BurgerWithOnion created the character 'Johnny Vort'
+[10:41:29	]Johnny Vort has gained a 'Vortigaunt Hooks' #2055906.
+[10:41:29	]Johnny Vort has gained a 'Vortigaunt Shackles' #2055907.
+[10:41:29	]BurgerWithOnion loaded the character 'Johnny Vort'
+[10:41:29	]Johnny Vort has gained a 'Vortigaunt Collar' #2055908.
+[10:41:42	]sususu used command '/entscale 0.2'.
+[10:41:43	]Johnny Vort entered observer.
+[10:41:52	]Johnny Vort exited observer at their location.
+[10:42:01	][IC] sususu: Come!
+[10:42:05	][IC] Johnny Vort: Yes.
+[10:42:08	]sususu used command '/EnterMeditation'.
+[10:42:12	]sususu used command '/ActIdle'.
+[10:42:15	]sususu used command '/EnterMeditation'.
+[10:42:17	]sususu used command '/ExitAct'.
+[10:42:25	][IC] Johnny Vort: Ok lemme fill my datafile with stuff.
+[10:42:25	]sususu has spawned 'models/willardnetworks/props/xenpotion3.mdl'.
+[10:42:30	][IC] Johnny Vort: Lean.
+[10:42:33	][IC] sususu: Look.
+[10:42:44	][IC] Johnny Vort: Wait.
+[10:42:52	]sususu used command '/entscale 10'.
+[10:43:07	][IC] Johnny Vort: I don't have any way to fill it.
+[10:43:14	][IC] Johnny Vort: Forgot I can't use terminals.
+[10:43:19	]sususu used command '/CharGiveFlag joh U'.
+[10:43:22	][IC] sususu: Now u can.
+[10:43:28	][LOOC] sususu: nooo silly
+[10:43:31	][LOOC] sususu: /datafile !collarid
+[10:43:36	][LOOC] Johnny Vort: OH that one
+[10:43:53	]Johnny Vort used command '/Datafile !06065'.
+[10:45:06	][IC] Johnny Vort: Ok.
+[10:45:14	][IC] Johnny Vort: My file has a bunch of stuff on it now.
+[10:45:21	][IC] sususu: Oke now like.
+[10:45:26	][IC] sususu: Assume youre getting freed.
+[10:45:32	]sususu used command '/UnlockShackles john'.
+[10:45:38	]Johnny Vort ran 'drop' on item 'Vortigaunt Collar' (#2055908)
+[10:45:38	]Johnny Vort has lost a 'Vortigaunt Collar' #2055908.
+[10:45:39	]Johnny Vort ran 'drop' on item 'Vortigaunt Shackles' (#2055907)
+[10:45:39	]Johnny Vort has lost a 'Vortigaunt Shackles' #2055907.
+[10:45:41	]Johnny Vort ran 'drop' on item 'Vortigaunt Hooks' (#2055906)
+[10:45:41	]Johnny Vort has lost a 'Vortigaunt Hooks' #2055906.
+[10:45:48	]sususu has spawned a vortigaunt_slave_collar_fake.
+[10:45:52	]Johnny Vort ran 'take' on item 'Vortigaunt Collar (fake)' (#2055909)
+[10:45:52	]Johnny Vort has gained a 'Vortigaunt Collar (fake)' #2055909.
+[10:45:59	][LOOC] Johnny Vort: put this on?
+[10:46:02	][IC] sususu: Yes.
+[10:47:19	]BurgerWithOnion (STEAM_0:1:92494979) has disconnected (timed out).
+[10:50:01	]BurgerWithOnion has connected.
+[10:50:45	]BurgerWithOnion loaded the character 'Johnny Vort'
+[10:50:54	][IC] Johnny Vort: Hi.
+[10:51:01	][IC] sususu: Omg its johnny.
+[10:51:07	][IC] Johnny Vort: Sup.
+[10:51:12	][IC] sususu: Tryu opening your datafile now.
+[10:51:12	]Johnny Vort used command '/Datafile !06511'.
+[10:51:21	][IC] Johnny Vort: Yeah, it's been reset.
+[10:51:30	][IC] sususu: Matches your collar id?
+[10:51:30	][IC] Johnny Vort: What if we swap collars?
+[10:51:34	][IC] Johnny Vort: Uh.
+[10:51:35	][IC] sususu: Gimme yours.
+[10:51:36	]Johnny Vort used command '/Datafile !06511'.
+[10:51:50	][IC] Johnny Vort: I think so.
+[10:51:52	]Johnny Vort ran 'drop' on item 'Vortigaunt Collar (fake)' (#2055909)
+[10:51:52	]Johnny Vort has lost a 'Vortigaunt Collar (fake)' #2055909.
+[10:51:55	]sususu ran 'drop' on item 'Vortigaunt Collar (fake)' (#2055905)
+[10:51:55	]sususu has lost a 'Vortigaunt Collar (fake)' #2055905.
+[10:51:57	]sususu ran 'take' on item 'Vortigaunt Collar (fake)' (#2055909)
+[10:51:57	]sususu has gained a 'Vortigaunt Collar (fake)' #2055909.
+[10:51:58	]Johnny Vort ran 'take' on item 'Vortigaunt Collar (fake)' (#2055905)
+[10:51:58	]Johnny Vort has gained a 'Vortigaunt Collar (fake)' #2055905.
+[10:52:27	][IC] Johnny Vort: Hm, it gave me an alert.
+[10:52:35	][IC] Johnny Vort: Said it's not mine.
+[10:52:37	][LOOC] sususu: but it still kidn lets you equip
+[10:52:38	][IC] Johnny Vort: Bad idea.
+[10:52:40	][LOOC] sususu: i gotta fix that
+[10:52:54	][LOOC] sususu: But yeah, we'll make it so vorts cant swap collars between different owners
+[10:53:01	][IC] sususu: As it doesn't make sense.
+[10:53:06	][IC] sususu: Given physical information and all.
+[10:53:12	][IC] sususu: And it would just fuck with the system.
+[10:53:16	][IC] Johnny Vort: Yeah.
+[10:53:18	]Johnny Vort ran 'drop' on item 'Vortigaunt Collar (fake)' (#2055905)
+[10:53:18	]Johnny Vort has lost a 'Vortigaunt Collar (fake)' #2055905.
+[10:53:30	][IC] sususu: Imbibe.
+[10:53:43	]Johnny Vort entered observer.
+[10:53:44	]Johnny Vort exited observer at their location.
+[10:53:53	]sususu used command '/entscale 0.5'.
+[10:54:01	]sususu has spawned 'models/jq/hlvr/props/xenpack/xen_pod_structure001.mdl'.
+[10:54:10	]sususu used command '/entscale 15'.
+[10:54:11	]Johnny Vort used command '/ViewInfo ^'.
+[10:54:12	]sususu entered observer.
+[10:54:17	]sususu exited observer at their location.
+[10:54:18	]sususu has spawned 'models/willardnetworks/food/xen_pie.mdl'.
+[10:54:21	]sususu used command '/entscale 15'.
+[10:54:23	]Johnny Vort entered observer.
+[10:54:24	]Johnny Vort exited observer at their location.
+[10:54:37	][IC] Johnny Vort: Pie.
+[10:54:42	][IC] Johnny Vort: Mmmm.
+[10:54:43	][IC] sususu: Big pie.
+[10:54:49	][IC] sususu: Thanks for helping me fren.
+[10:54:51	][IC] sususu: Also.
+[10:54:53	][IC] Johnny Vort: Np.
+[10:54:57	][IC] sususu: Do you think it should reset automatically the uhhh.
+[10:55:13	][IC] sususu: Datafile or we can make it so it doesn't let you equip it until an admin resets it.
+[10:55:41	][IC] Johnny Vort: It should be fine, the only issue I can see is if they craft another collar.
+[10:55:50	][IC] Johnny Vort: You can make fake collars.
+[10:56:07	][IC] sususu: Each vort will be allowed to only have one, because we have limitations.
+[10:56:26	][IC] sususu: Unless I can store all the data inside the item...
+[10:56:34	][IC] Johnny Vort: Hm...
+[10:56:42	][IC] sususu: But it just makes it all harder.
+[10:56:57	][IC] sususu: I'm building on a made system, so I need to modify too many things.
+[10:57:00	][IC] sususu: It'll have to suffice.
+[10:57:12	][IC] Johnny Vort: We could just remove the recipe to make fake collars, then we just give people collars manually.
+[10:57:21	][IC] sususu: Yeah, that'd be best.
+[10:57:34	][IC] sususu: Crafting collars is incredibly hard, with data inside them I mean.
+[10:57:48	][IC] Johnny Vort: I don't doubt it.
+[10:58:07	][IC] sususu: Lung... Turr...
+[10:58:08	][IC] Johnny Vort: This is cool though, this will completely sidestep all of the possible metagame.
+[10:58:16	][IC] sususu: Exactly the idea.
+[10:58:23	][IC] Johnny Vort: OTA leads don't like.
+[10:58:37	][IC] Johnny Vort: Gong...
+[10:58:39	][IC] sususu: Galanga.
+[10:58:41	][IC] Johnny Vort: Galanaga.
+[10:58:43	][IC] Johnny Vort: Damn.
+[10:58:46	][IC] sususu: Hahahaha.
+[10:58:50	][IC] sususu: Come, there, there!
+[10:58:55	][IC] Johnny Vort: No.
+[10:58:59	][IC] sususu: Yes...
+[10:59:02	][IC] Johnny Vort: The Combine hunters cause dramatic injury.
+[10:59:09	][IC] sususu: Yes, much injury.
+[10:59:10	]Johnny Vort has taken 51 damage from sususu.
+[10:59:10	][VORT] sususu has damaged Johnny Vort, dealing 51 with vortbeam
+[10:59:13	][IC] Johnny Vort: Ow.
+[10:59:21	][IC] sususu: Now I go eat mangoes.
+[10:59:29	]Johnny Vort has taken 40 damage from sususu.
+[10:59:29	][VORT] sususu has damaged Johnny Vort dealing 40 with vortslam
+[10:59:29	][IC] Johnny Vort: Wait, did they nerf the beam?
+[10:59:37	]Johnny Vort has taken 51 damage from sususu.
+[10:59:37	][VORT] sususu has damaged Johnny Vort, dealing 51 with vortbeam
+[10:59:39	][IC] Johnny Vort: That did very little dmg.
+[10:59:39	][IC] sususu: Idk.
+[11:00:03	][IC] Johnny Vort: I hope this is just the dev build, not real one.
+[11:00:08	][IC] Johnny Vort: That did like 50 dmg.
+[11:00:11	][IC] sususu: Yeah.
+[11:00:14	][IC] Johnny Vort: Oppose to the 99.
+[11:00:32	][IC] Johnny Vort: Hm, we see.
+[11:00:34	][IC] Johnny Vort: Bye!
+[11:00:40	][IC] sususu: We have hte vort beam additional damage set to 1.
+[11:00:40	][IC] sususu: Here.
+[11:00:53	][IC] Johnny Vort: Wdym?
+[11:00:55	]sususu set vortBeamAdditionalDamage to '151'.
+[11:01:04	][IC] Johnny Vort: What does that do.
+[11:01:05	][IC] sususu: Set your hp to 100.
+[11:01:09	][IC] sususu: It adds more damage to it.
+[11:01:13	]Johnny Vort ran SAM command 'hp' with arguments: '^' '100'
+[11:01:18	][IC] Johnny Vort: 100 only halfd.
+[11:01:20	][IC] sususu: 200.
+[11:01:24	]Johnny Vort ran SAM command 'hp' with arguments: '^' '200'
+[11:01:25	]Johnny Vort is fully healed.
+[11:01:27	]Johnny Vort was knocked unconscious and is bleeding out.
+[11:01:27	][VORT] sususu has damaged Johnny Vort, dealing 201 with vortbeam
+[11:01:35	][OOC] sususu: yeah its a config thing
+[11:01:35	]Johnny Vort used command '/CharStopBleedout ^'.
+[11:01:41	]Johnny Vort ran SAM command 'hp' with arguments: '^' '200'
+[11:01:45	]Johnny Vort is no longer unconscious from critical wounds.
+[11:01:45	]Johnny Vort is fully healed.
+[11:01:51	][IC] sususu: Should take a look at how much its set on the server.
+[11:01:54	][IC] sususu: Main one.
+[11:02:07	][IC] sususu: Anyway, thanks fren.
+[11:02:10	][IC] Johnny Vort: Ik they were saying they were going to nerf vorts somehow.
+[11:02:20	][IC] Johnny Vort: I just wish they would actually TELL ME.
+[11:02:23	][IC] Johnny Vort: But whatever.
+[11:02:26	][IC] Johnny Vort: Later.
+[11:02:27	][IC] sususu: They should.
+[11:02:30	][IC] sususu: Tell you.
+[11:02:35	][IC] Johnny Vort: Gong...
+[11:02:36	]BurgerWithOnion (STEAM_0:1:92494979) has disconnected.
+[11:02:39	]Mango (STEAM_0:0:544539350) has disconnected.
+[16:03:16	]Mango has connected.
+[16:44:40	]Mango loaded the character 'sususu'
+[16:50:10	]sususu has gone afk.
+[16:59:44	]Mango (STEAM_0:0:544539350) has disconnected.

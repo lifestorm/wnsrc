@@ -1,0 +1,416 @@
+[15:58:36	]Hiros has connected.
+[15:59:30	]Hiros (STEAM_0:1:54068821) deleted character 'Ipati Yakovlev'
+[15:59:35	]Hiros loaded the character 'Hiros'
+[15:59:52	]Hiros used command '/PlyWhitelist ^ vort'.
+[16:00:05	][IC] Hiros: Rfd.
+[16:00:08	]Hiros has unloaded their "Hiros" character.
+[16:00:22	]Hiros (STEAM_0:1:54068821) deleted character 'S10/SYN.MINE-36552'
+[16:00:32	]Hiros (STEAM_0:1:54068821) deleted character 'S10/ORD.PAYBACK-85'
+[16:00:38	]Hiros (STEAM_0:1:54068821) deleted character 'C24/Disp:AI-85'
+[16:00:42	]Hiros (STEAM_0:1:54068821) deleted character 'Hiros'
+[16:01:15	]Hiros created the character 'Sug'Ma'Ballz'
+[16:01:15	]Hiros loaded the character 'Sug'Ma'Ballz'
+[16:01:26	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[16:03:04	]Sug'Ma'Ballz used command '/SetVortalEnergy ^ 100'.
+[16:03:11	]Bot01 has connected.
+[16:03:11	]Bot01 loaded the character 'Bot01'
+[16:03:34	]Sug'Ma'Ballz used command '/PlyTransfer bot transhuman'.
+[16:03:42	]Sug'Ma'Ballz used command '/PlyWhitelist bot transhuman'.
+[16:03:52	]Sug'Ma'Ballz entered observer.
+[16:03:54	]Sug'Ma'Ballz exited observer.
+[16:04:21	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 36 damage (CritChance was 0.00).
+[16:04:21	]S10/OWS.GHOST-70 has taken 36 damage from Sug'Ma'Ballz.
+[16:04:21	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 41 with vortbeam
+[16:04:25	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 36 damage (CritChance was 0.00).
+[16:04:25	]S10/OWS.GHOST-70 has taken 36 damage from Sug'Ma'Ballz.
+[16:04:25	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 41 with vortbeam
+[16:04:27	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 36 damage (CritChance was 0.00).
+[16:04:27	]S10/OWS.GHOST-70 was knocked unconscious and is bleeding out.
+[16:04:27	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 41 with vortbeam
+[16:04:38	]Sug'Ma'Ballz entered observer.
+[16:04:40	]Sug'Ma'Ballz exited observer.
+[16:05:23	]Sug'Ma'Ballz used command '/CharStopBleedout ghost'.
+[16:05:33	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 36 damage (CritChance was 0.00).
+[16:05:33	]S10/OWS.GHOST-70 has taken 36 damage from Sug'Ma'Ballz.
+[16:05:33	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 41 with vortbeam
+[16:05:35	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 36 damage (CritChance was 0.00).
+[16:05:35	]S10/OWS.GHOST-70 has taken 36 damage from Sug'Ma'Ballz.
+[16:05:35	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 41 with vortbeam
+[16:05:36	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 36 damage (CritChance was 0.00).
+[16:05:36	]S10/OWS.GHOST-70 has taken 36 damage from Sug'Ma'Ballz.
+[16:05:36	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 41 with vortbeam
+[16:05:38	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 36 damage (CritChance was 0.00).
+[16:05:38	]S10/OWS.GHOST-70 was knocked unconscious and is bleeding out.
+[16:05:38	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 41 with vortbeam
+[16:06:19	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 36 damage (CritChance was 0.00).
+[16:06:19	]S10/OWS.GHOST-70 has taken 36 damage from Sug'Ma'Ballz.
+[16:06:19	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 41 with vortbeam
+[16:06:20	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 36 damage (CritChance was 0.00).
+[16:06:20	]S10/OWS.GHOST-70 has taken 36 damage from Sug'Ma'Ballz.
+[16:06:20	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 41 with vortbeam
+[16:06:22	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 36 damage (CritChance was 0.00).
+[16:06:22	]S10/OWS.GHOST-70 was knocked unconscious and is bleeding out.
+[16:06:22	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 41 with vortbeam
+[16:06:31	]Sug'Ma'Ballz entered observer.
+[16:06:36	]Sug'Ma'Ballz exited observer at their location.
+[16:06:42	]Sug'Ma'Ballz used command '/CharStopBleedout ghost'.
+[16:07:08	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 36 damage (CritChance was 0.00).
+[16:07:08	]S10/OWS.GHOST-70 has taken 36 damage from Sug'Ma'Ballz.
+[16:07:08	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 41 with vortbeam
+[16:07:09	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 36 damage (CritChance was 0.00).
+[16:07:09	]S10/OWS.GHOST-70 has taken 36 damage from Sug'Ma'Ballz.
+[16:07:09	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 41 with vortbeam
+[16:07:11	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 36 damage (CritChance was 0.00).
+[16:07:11	]S10/OWS.GHOST-70 was knocked unconscious and is bleeding out.
+[16:07:11	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 41 with vortbeam
+[16:07:40	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 36 damage (CritChance was 0.00).
+[16:07:40	]S10/OWS.GHOST-70 has taken 36 damage from Sug'Ma'Ballz.
+[16:07:40	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 41 with vortbeam
+[16:07:41	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 36 damage (CritChance was 0.00).
+[16:07:41	]S10/OWS.GHOST-70 has taken 36 damage from Sug'Ma'Ballz.
+[16:07:41	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 41 with vortbeam
+[16:07:43	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 36 damage (CritChance was 0.00).
+[16:07:43	]S10/OWS.GHOST-70 has taken 36 damage from Sug'Ma'Ballz.
+[16:07:43	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 41 with vortbeam
+[16:07:44	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 36 damage (CritChance was 0.00).
+[16:07:44	]S10/OWS.GHOST-70 was knocked unconscious and is bleeding out.
+[16:07:44	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 41 with vortbeam
+[16:07:46	]Sug'Ma'Ballz entered observer.
+[16:07:47	]Sug'Ma'Ballz exited observer at their location.
+[16:09:18	]Sug'Ma'Ballz used command '/SetVortalEnergy ^ 100'.
+[16:09:37	]Sug'Ma'Ballz used command '/CharSkillSet ^ vortesence 50'.
+[16:09:46	]Sug'Ma'Ballz has gained level 50 in the Vortessence skill.
+[16:09:46	]Sug'Ma'Ballz used command '/CharSkillSet ^ vortessence 50'.
+[16:09:58	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[16:10:00	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 7 damage (CritChance was 0.00).
+[16:10:00	]S10/OWS.GHOST-70 has taken 7 damage from Sug'Ma'Ballz.
+[16:10:00	]Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 8.5 with ix_hands
+[16:10:01	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 7 damage (CritChance was 0.00).
+[16:10:01	]S10/OWS.GHOST-70 has taken 7 damage from Sug'Ma'Ballz.
+[16:10:01	]Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 8.50051 with ix_hands
+[16:10:03	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 7 damage (CritChance was 0.00).
+[16:10:03	]S10/OWS.GHOST-70 has taken 7 damage from Sug'Ma'Ballz.
+[16:10:03	]Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 8.50102 with ix_hands
+[16:10:05	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 7 damage (CritChance was 0.00).
+[16:10:05	]S10/OWS.GHOST-70 has taken 7 damage from Sug'Ma'Ballz.
+[16:10:05	]Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 8.50153 with ix_hands
+[16:10:07	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 7 damage (CritChance was 0.00).
+[16:10:07	]S10/OWS.GHOST-70 has taken 7 damage from Sug'Ma'Ballz.
+[16:10:07	]Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 8.50204 with ix_hands
+[16:10:08	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 7 damage (CritChance was 0.00).
+[16:10:08	]S10/OWS.GHOST-70 has taken 7 damage from Sug'Ma'Ballz.
+[16:10:08	]Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 8.50255 with ix_hands
+[16:10:09	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 7 damage (CritChance was 0.00).
+[16:10:09	]S10/OWS.GHOST-70 has taken 7 damage from Sug'Ma'Ballz.
+[16:10:09	]Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 8.50306 with ix_hands
+[16:10:10	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 7 damage (CritChance was 0.00).
+[16:10:10	]S10/OWS.GHOST-70 has taken 7 damage from Sug'Ma'Ballz.
+[16:10:10	]Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 8.50357 with ix_hands
+[16:10:28	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 68 damage (CritChance was 0.00).
+[16:10:28	]S10/OWS.GHOST-70 has taken 68 damage from Sug'Ma'Ballz.
+[16:10:28	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 76 with vortbeam
+[16:10:33	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 68 damage (CritChance was 0.00).
+[16:10:33	]S10/OWS.GHOST-70 was knocked unconscious and is bleeding out.
+[16:10:33	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 76 with vortbeam
+[16:10:34	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 76 with vortbeam
+[16:11:10	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 68 damage (CritChance was 0.00).
+[16:11:10	]S10/OWS.GHOST-70 has taken 68 damage from Sug'Ma'Ballz.
+[16:11:10	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 76 with vortbeam
+[16:12:10	]Sug'Ma'Ballz used command '/CharSkillSet ^ strenght 50'.
+[16:12:16	]Sug'Ma'Ballz used command '/CharSkillSet ^ streghnt 50'.
+[16:12:24	]Sug'Ma'Ballz has gained level 50 in the Melee skill.
+[16:12:24	]Sug'Ma'Ballz used command '/CharSkillSet ^ melee 50'.
+[16:12:27	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[16:12:29	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 84 damage (CritChance was 0.00).
+[16:12:29	]S10/OWS.GHOST-70 has taken 84 damage from Sug'Ma'Ballz.
+[16:12:29	]Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 93.50408 with ix_hands
+[16:12:30	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 84 damage (CritChance was 0.00).
+[16:12:30	]S10/OWS.GHOST-70 was knocked unconscious and is bleeding out.
+[16:12:30	]Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 93.50459 with ix_hands
+[16:13:00	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[16:13:04	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 84 damage (CritChance was 0.00).
+[16:13:04	]S10/OWS.GHOST-70 has taken 84 damage from Sug'Ma'Ballz.
+[16:13:04	]Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 93.5051 with ix_hands
+[16:13:54	]Hiros has unloaded their "Sug'Ma'Ballz" character.
+[16:13:58	]Hiros loaded the character 'Klim Stasiuk'
+[16:14:17	]Klim Stasiuk has gained level 50 in the Melee skill.
+[16:14:17	]Klim Stasiuk used command '/CharSkillSet ^ melee 540'.
+[16:14:34	]Klim Stasiuk has given himself a civil_protection_ration.
+[16:14:35	]Klim Stasiuk has gained a 'Civil Protection Ration' #3111594.
+[16:14:37	]Klim Stasiuk ran 'Open' on item 'Civil Protection Ration' (#3111594)
+[16:14:37	]Klim Stasiuk has gained a 'Metropolice Supplements' #3111595.
+[16:14:37	]Klim Stasiuk has gained a 'Soda Bob Brawn' #3111596.
+[16:14:37	]Klim Stasiuk has gained a '20 Credits Coupon' #3111597.
+[16:14:38	]Klim Stasiuk ran 'Consume' on item 'Soda Bob Brawn' (#3111596)
+[16:14:38	]Klim Stasiuk has gained a level 1 long boost in Perception.
+[16:14:38	]Klim Stasiuk has gained a level 2 long boost in Agility.
+[16:14:39	]Klim Stasiuk ran 'Consume' on item 'Metropolice Supplements' (#3111595)
+[16:14:39	]Klim Stasiuk has gained a level 3 long boost in Strength.
+[16:15:07	]Klim Stasiuk has given himself a machete.
+[16:15:07	]Klim Stasiuk has gained a 'Machete' #3111598.
+[16:15:15	]Klim Stasiuk ran 'Equip' on item 'Machete' (#3111598)
+[16:15:16	]Klim Stasiuk used command '/ToggleRaise'.
+[16:15:19	]Klim Stasiuk has critically hit S10/OWS.GHOST-70 in the chest dealing 36 damage (CritChance was 1.00).
+[16:15:19	]S10/OWS.GHOST-70 has taken 36 damage from Klim Stasiuk.
+[16:16:07	]Klim Stasiuk used command '/ToggleRaise'.
+[16:16:10	]Klim Stasiuk has hit S10/OWS.GHOST-70 dealing 7 damage (CritChance was 0.00).
+[16:16:10	]S10/OWS.GHOST-70 has taken 7 damage from Klim Stasiuk.
+[16:16:10	]Klim Stasiuk has damaged S10/OWS.GHOST-70, dealing 8.5 with ix_hands
+[16:16:11	]Klim Stasiuk has hit S10/OWS.GHOST-70 dealing 7 damage (CritChance was 0.00).
+[16:16:11	]S10/OWS.GHOST-70 has taken 7 damage from Klim Stasiuk.
+[16:16:11	]Klim Stasiuk has damaged S10/OWS.GHOST-70, dealing 8.50051 with ix_hands
+[16:16:22	]Klim Stasiuk used command '/ToggleRaise'.
+[16:16:25	]Klim Stasiuk has critically hit S10/OWS.GHOST-70 in the chest dealing 36 damage (CritChance was 1.00).
+[16:16:25	]S10/OWS.GHOST-70 has taken 36 damage from Klim Stasiuk.
+[16:17:54	]Hiros has unloaded their "Klim Stasiuk" character.
+[16:17:57	]Hiros loaded the character 'Sug'Ma'Ballz'
+[16:18:07	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[16:18:12	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 84 damage (CritChance was 0.00).
+[16:18:12	]S10/OWS.GHOST-70 has taken 84 damage from Sug'Ma'Ballz.
+[16:18:12	]Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 93.50561 with ix_hands
+[16:18:33	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 78 damage (CritChance was 0.00).
+[16:18:33	]S10/OWS.GHOST-70 has taken 78 damage from Sug'Ma'Ballz.
+[16:18:55	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 78 damage (CritChance was 0.00).
+[16:18:55	]S10/OWS.GHOST-70 has taken 78 damage from Sug'Ma'Ballz.
+[16:18:58	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[16:19:13	]Sug'Ma'Ballz used command '/SetVortalEnergy ^ 100'.
+[16:19:15	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 68 damage (CritChance was 0.00).
+[16:19:15	]S10/OWS.GHOST-70 has taken 68 damage from Sug'Ma'Ballz.
+[16:19:15	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70 dealing 76 with vortadvancedbeam
+[16:19:28	]Sug'Ma'Ballz used command '/SetVortalEnergy ^ 100'.
+[16:19:49	]Sug'Ma'Ballz set advancedBeamDamage to '150'.
+[16:19:51	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 68 damage (CritChance was 0.00).
+[16:19:51	]S10/OWS.GHOST-70 was knocked unconscious and is bleeding out.
+[16:19:51	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70 dealing 76 with vortadvancedbeam
+[16:20:16	]Sug'Ma'Ballz used command '/SetVortalEnergy ^ 100'.
+[16:23:52	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[16:24:01	]Sug'Ma'Ballz entered observer.
+[16:24:02	]Sug'Ma'Ballz exited observer at their location.
+[16:24:15	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 84 damage (CritChance was 0.00).
+[16:24:15	]S10/OWS.GHOST-70 has taken 84 damage from Sug'Ma'Ballz.
+[16:24:15	]Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 93.50714 with ix_hands
+[16:24:16	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 84 damage (CritChance was 0.00).
+[16:24:16	]S10/OWS.GHOST-70 was knocked unconscious and is bleeding out.
+[16:24:16	]Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 93.50765 with ix_hands
+[16:24:26	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[16:25:06	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 202 damage (CritChance was 0.00).
+[16:25:06	]S10/OWS.GHOST-70 was knocked unconscious and is bleeding out.
+[16:25:06	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 225 with vortbeam
+[16:25:41	]Sug'Ma'Ballz entered observer.
+[16:25:42	]Sug'Ma'Ballz exited observer at their location.
+[16:27:18	]Sug'Ma'Ballz has hit S10/OWS.GHOST-70 dealing 202 damage (CritChance was 0.00).
+[16:27:18	]S10/OWS.GHOST-70 was knocked unconscious and is bleeding out.
+[16:27:18	][VORT] Sug'Ma'Ballz has damaged S10/OWS.GHOST-70, dealing 225 with vortbeam
+[16:32:29	]Hiros has connected.
+[16:33:03	]Hiros loaded the character 'Sug'Ma'Ballz'
+[16:34:37	]Bot01 has connected.
+[16:34:37	]Bot01 loaded the character 'Bot01'
+[16:34:45	]Sug'Ma'Ballz entered observer.
+[16:34:46	]Sug'Ma'Ballz exited observer at their location.
+[16:34:50	]Sug'Ma'Ballz used command '/PlyTransfer bot transh'.
+[16:34:55	]Sug'Ma'Ballz used command '/PlyWhitelist bot trans'.
+[16:35:20	]Sug'Ma'Ballz used command '/SetVortalEnergy ^ 100'.
+[16:39:57	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[16:40:47	]Sug'Ma'Ballz has spawned a 'NPC [490][npc_monk]'.
+[16:40:55	]Hiros (STEAM_0:1:54068821) has disconnected.
+[16:40:55	]Bot01 (BOT) has disconnected.
+[16:45:54	]Hiros has connected.
+[16:46:53	]Hiros loaded the character 'Sug'Ma'Ballz'
+[16:47:07	]Sug'Ma'Ballz used command '/SetVortalEnergy ^ 10'.
+[16:47:15	]Sug'Ma'Ballz used command '/SetVortalEnergy ^ 10'.
+[16:47:18	]Sug'Ma'Ballz has spawned a 'NPC [490][npc_monk]'.
+[16:47:44	]Sug'Ma'Ballz has spawned a 'NPC [490][npc_citizen]'.
+[16:47:51	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[16:47:53	]Sug'Ma'Ballz has hit npc_citizen dealing 84 damage (CritChance was 0.00).
+[16:47:53	]Sug'Ma'Ballz has damaged npc_citizen, dealing 93.50816 with ix_hands
+[16:47:56	]Sug'Ma'Ballz has spawned a 'NPC [490][npc_citizen]'.
+[16:47:57	]Sug'Ma'Ballz has hit npc_citizen dealing 84 damage (CritChance was 0.00).
+[16:47:57	]Sug'Ma'Ballz has damaged npc_citizen, dealing 93.50816 with ix_hands
+[16:48:00	]Sug'Ma'Ballz has spawned a 'NPC [492][npc_dog]'.
+[16:48:00	]Sug'Ma'Ballz has hit npc_dog dealing 84 damage (CritChance was 0.00).
+[16:48:00	]Sug'Ma'Ballz has damaged npc_dog, dealing 93.50816 with ix_hands
+[16:48:01	]Sug'Ma'Ballz has hit npc_dog dealing 84 damage (CritChance was 0.00).
+[16:48:01	]Sug'Ma'Ballz has damaged npc_dog, dealing 93.50816 with ix_hands
+[16:48:02	]Sug'Ma'Ballz has hit npc_dog dealing 84 damage (CritChance was 0.00).
+[16:48:02	]Sug'Ma'Ballz has damaged npc_dog, dealing 93.50816 with ix_hands
+[16:48:03	]Sug'Ma'Ballz has hit npc_dog dealing 84 damage (CritChance was 0.00).
+[16:48:03	]Sug'Ma'Ballz has damaged npc_dog, dealing 93.50816 with ix_hands
+[16:48:04	]Sug'Ma'Ballz has hit npc_dog dealing 84 damage (CritChance was 0.00).
+[16:48:04	]Sug'Ma'Ballz has damaged npc_dog, dealing 93.50816 with ix_hands
+[16:48:05	]Sug'Ma'Ballz has hit npc_dog dealing 84 damage (CritChance was 0.00).
+[16:48:05	]Sug'Ma'Ballz has damaged npc_dog, dealing 93.50816 with ix_hands
+[16:48:06	]Sug'Ma'Ballz has hit npc_dog dealing 84 damage (CritChance was 0.00).
+[16:48:06	]Sug'Ma'Ballz has damaged npc_dog, dealing 93.50816 with ix_hands
+[16:48:07	]Sug'Ma'Ballz has hit npc_dog dealing 84 damage (CritChance was 0.00).
+[16:48:07	]Sug'Ma'Ballz has damaged npc_dog, dealing 93.50816 with ix_hands
+[16:48:08	]Sug'Ma'Ballz has hit npc_dog dealing 84 damage (CritChance was 0.00).
+[16:48:08	]Sug'Ma'Ballz has damaged npc_dog, dealing 93.50816 with ix_hands
+[16:48:09	]Sug'Ma'Ballz has hit npc_dog dealing 84 damage (CritChance was 0.00).
+[16:48:09	]Sug'Ma'Ballz has damaged npc_dog, dealing 93.50816 with ix_hands
+[16:48:09	]Sug'Ma'Ballz has hit npc_dog dealing 84 damage (CritChance was 0.00).
+[16:48:09	]Sug'Ma'Ballz has damaged npc_dog, dealing 93.50816 with ix_hands
+[16:48:10	]Sug'Ma'Ballz has hit npc_dog dealing 84 damage (CritChance was 0.00).
+[16:48:10	]Sug'Ma'Ballz has damaged npc_dog, dealing 93.50816 with ix_hands
+[16:48:14	]Sug'Ma'Ballz has spawned a 'NPC [490][npc_citizen]'.
+[16:48:14	]Sug'Ma'Ballz has hit npc_citizen dealing 84 damage (CritChance was 0.00).
+[16:48:14	]Sug'Ma'Ballz has damaged npc_citizen, dealing 93.50816 with ix_hands
+[16:48:16	]Sug'Ma'Ballz has spawned a 'NPC [492][npc_citizen]'.
+[16:48:17	]Sug'Ma'Ballz has hit npc_citizen dealing 84 damage (CritChance was 0.00).
+[16:48:17	]Sug'Ma'Ballz has damaged npc_citizen, dealing 93.50816 with ix_hands
+[16:48:23	]Sug'Ma'Ballz has spawned a 'NPC [490][npc_citizen]'.
+[16:48:23	]Sug'Ma'Ballz has hit npc_citizen dealing 78 damage (CritChance was 0.00).
+[16:48:26	]Sug'Ma'Ballz has spawned a 'NPC [492][npc_citizen]'.
+[16:48:26	]Sug'Ma'Ballz has hit npc_citizen dealing 78 damage (CritChance was 0.00).
+[16:48:29	]Sug'Ma'Ballz has spawned a 'NPC [490][npc_citizen]'.
+[16:48:30	]Sug'Ma'Ballz has hit npc_citizen dealing 51 damage (CritChance was 0.00).
+[16:48:31	]Sug'Ma'Ballz has spawned a 'NPC [492][npc_citizen]'.
+[16:48:32	]Sug'Ma'Ballz has hit npc_citizen dealing 51 damage (CritChance was 0.00).
+[16:48:35	]Sug'Ma'Ballz has spawned a 'NPC [490][npc_dog]'.
+[16:48:37	]Sug'Ma'Ballz has spawned a 'NPC [492][npc_citizen]'.
+[16:48:37	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[16:48:39	]Sug'Ma'Ballz has hit npc_citizen dealing 84 damage (CritChance was 0.00).
+[16:48:39	]Sug'Ma'Ballz has damaged npc_citizen, dealing 93.50816 with ix_hands
+[16:57:38	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[16:57:53	]Sug'Ma'Ballz entered observer.
+[16:57:53	]Sug'Ma'Ballz exited observer at their location.
+[16:57:57	]Sug'Ma'Ballz entered observer.
+[16:58:00	]Sug'Ma'Ballz exited observer at their location.
+[16:58:00	]Sug'Ma'Ballz entered observer.
+[16:59:01	]Sug'Ma'Ballz exited observer at their location.
+[16:59:03	]Sug'Ma'Ballz entered observer.
+[16:59:03	]Sug'Ma'Ballz exited observer at their location.
+[16:59:49	]Sug'Ma'Ballz entered observer.
+[16:59:50	]Sug'Ma'Ballz exited observer at their location.
+[16:59:52	]Sug'Ma'Ballz entered observer.
+[16:59:52	]Sug'Ma'Ballz exited observer at their location.
+[17:00:26	]Sug'Ma'Ballz entered observer.
+[17:00:27	]Sug'Ma'Ballz exited observer at their location.
+[17:00:28	]Sug'Ma'Ballz entered observer.
+[17:01:29	]Sug'Ma'Ballz exited observer at their location.
+[17:01:32	]Sug'Ma'Ballz entered observer.
+[17:01:46	]Sug'Ma'Ballz exited observer at their location.
+[17:04:18	]Hiros has connected.
+[17:05:48	]Hiros loaded the character 'Sug'Ma'Ballz'
+[17:06:01	]Sug'Ma'Ballz used command '/SetVortalEnergy ^ 10'.
+[17:06:12	]Sug'Ma'Ballz used command '/SetVortalEnergy ^ 100'.
+[17:06:15	]Sug'Ma'Ballz has spawned a 'NPC [491][npc_monk]'.
+[17:06:16	][VORT] Sug'Ma'Ballz has damaged npc_monk, dealing 76 with vortbeam
+[17:06:18	][VORT] Sug'Ma'Ballz has damaged npc_monk, dealing 76 with vortbeam
+[17:06:20	][VORT] Sug'Ma'Ballz has damaged npc_monk, dealing 76 with vortbeam
+[17:06:37	]Sug'Ma'Ballz used command '/SetVortalEnergy ^ 100'.
+[17:07:07	][VORT] Sug'Ma'Ballz has damaged npc_monk, dealing 76 with vortbeam
+[17:07:16	]Sug'Ma'Ballz used command '/SetVortalEnergy ^ 100'.
+[17:07:18	]Sug'Ma'Ballz used command '/SetVortalEnergy ^ 10'.
+[17:07:19	][VORT] Sug'Ma'Ballz has damaged npc_monk, dealing 76 with vortbeam
+[17:07:22	]Sug'Ma'Ballz used command '/SetVortalEnergy ^ 100'.
+[17:07:55	][VORT] Sug'Ma'Ballz has damaged npc_monk, dealing 76 with vortbeam
+[17:08:07	][VORT] Sug'Ma'Ballz has damaged npc_monk, dealing 76 with vortbeam
+[17:08:16	]Sug'Ma'Ballz has spawned a 'NPC [491][npc_vj_hlr2_com_prospekt]'.
+[17:08:16	]Sug'Ma'Ballz has taken 10 damage from Overwatch Prison Guard.
+[17:08:17	]Sug'Ma'Ballz has taken 12 damage from Overwatch Prison Guard.
+[17:08:20	][VORT] Sug'Ma'Ballz has damaged npc_vj_hlr2_com_prospekt, dealing 76 with vortbeam
+[17:08:23	]Sug'Ma'Ballz has spawned a 'NPC [491][npc_vj_hlr2_com_prospekt_sg]'.
+[17:08:37	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[17:08:40	]Sug'Ma'Ballz has taken 28 damage from Overwatch Prison Shotgun Guard.
+[17:08:41	]Sug'Ma'Ballz has taken 10 damage from Overwatch Prison Shotgun Guard.
+[17:08:41	]Sug'Ma'Ballz has hit npc_vj_hlr2_com_prospekt_sg dealing 84 damage (CritChance was 0.00).
+[17:08:41	]Sug'Ma'Ballz has damaged npc_vj_hlr2_com_prospekt_sg, dealing 93.50816 with ix_hands
+[17:08:48	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[17:09:25	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[17:10:29	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[17:10:30	]Sug'Ma'Ballz has spawned a 'NPC [491][npc_vj_hlr2_citizen]'.
+[17:10:31	]Sug'Ma'Ballz has hit npc_vj_hlr2_citizen dealing 78 damage (CritChance was 0.00).
+[17:10:39	]Sug'Ma'Ballz has spawned a 'NPC [491][npc_vj_hlr2_com_civilp]'.
+[17:10:40	]Sug'Ma'Ballz has hit npc_vj_hlr2_com_civilp dealing 78 damage (CritChance was 0.00).
+[17:10:43	]Sug'Ma'Ballz has spawned a 'NPC [491][npc_vj_hlr2_com_civilp]'.
+[17:10:43	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[17:10:44	]Sug'Ma'Ballz has taken 10 damage from Civil Protection.
+[17:10:45	]Sug'Ma'Ballz has taken 10 damage from Civil Protection.
+[17:10:45	]Sug'Ma'Ballz has hit npc_vj_hlr2_com_civilp dealing 84 damage (CritChance was 0.00).
+[17:10:45	]Sug'Ma'Ballz has damaged npc_vj_hlr2_com_civilp, dealing 93.50816 with ix_hands
+[17:11:08	]Sug'Ma'Ballz has spawned a 'NPC [491][npc_vj_hlr2_com_civilp]'.
+[17:11:08	]Sug'Ma'Ballz has hit npc_vj_hlr2_com_civilp dealing 78 damage (CritChance was 0.00).
+[17:11:12	]Sug'Ma'Ballz has spawned a 'NPC [491][npc_vj_hlr2_com_civilp]'.
+[17:11:13	]Sug'Ma'Ballz has hit npc_vj_hlr2_com_civilp dealing 78 damage (CritChance was 0.00).
+[17:11:14	]Sug'Ma'Ballz has spawned a 'NPC [491][npc_vj_hlr2_com_civilp]'.
+[17:11:15	]Sug'Ma'Ballz has hit npc_vj_hlr2_com_civilp dealing 51 damage (CritChance was 0.00).
+[17:11:17	]Sug'Ma'Ballz has spawned a 'NPC [491][npc_vj_hlr2_com_civilp]'.
+[17:11:18	]Sug'Ma'Ballz has hit npc_vj_hlr2_com_civilp dealing 51 damage (CritChance was 0.00).
+[17:12:31	]Hiros (STEAM_0:1:54068821) has disconnected.
+[21:07:12	]Hiros has connected.
+[21:07:43	]Hiros loaded the character 'Sug'Ma'Ballz'
+[21:07:48	]Sug'Ma'Ballz is fully healed.
+[21:08:05	]Sug'Ma'Ballz used command '/SetVortalEnergy ^ 100'.
+[21:08:08	]Sug'Ma'Ballz has spawned a 'NPC [492][npc_monk]'.
+[21:08:11	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[21:08:13	]Sug'Ma'Ballz has hit npc_monk dealing 22 damage (CritChance was 0.00).
+[21:08:13	]Sug'Ma'Ballz has damaged npc_monk, dealing 25 with ix_hands
+[21:08:15	]Sug'Ma'Ballz has hit npc_monk dealing 22 damage (CritChance was 0.00).
+[21:08:15	]Sug'Ma'Ballz has damaged npc_monk, dealing 25 with ix_hands
+[21:08:16	]Sug'Ma'Ballz has hit npc_monk dealing 22 damage (CritChance was 0.00).
+[21:08:16	]Sug'Ma'Ballz has damaged npc_monk, dealing 25 with ix_hands
+[21:08:24	]Sug'Ma'Ballz has hit npc_monk dealing 78 damage (CritChance was 0.00).
+[21:09:15	][VORT] Sug'Ma'Ballz has damaged npc_monk, dealing 76 with vortbeam
+[21:09:18	][VORT] Sug'Ma'Ballz has damaged npc_monk, dealing 76 with vortbeam
+[21:09:21	][VORT] Sug'Ma'Ballz has damaged npc_monk, dealing 76 with vortbeam
+[21:09:24	][VORT] Sug'Ma'Ballz has damaged npc_monk, dealing 76 with vortbeam
+[21:09:27	][VORT] Sug'Ma'Ballz has damaged npc_monk, dealing 76 with vortbeam
+[21:09:30	][VORT] Sug'Ma'Ballz has damaged npc_monk, dealing 76 with vortbeam
+[21:09:33	][VORT] Sug'Ma'Ballz has damaged npc_monk, dealing 76 with vortbeam
+[21:09:35	][VORT] Sug'Ma'Ballz has damaged npc_monk, dealing 76 with vortbeam
+[21:09:38	][VORT] Sug'Ma'Ballz has damaged npc_monk, dealing 76 with vortbeam
+[21:09:47	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[21:09:49	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[21:10:01	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[21:10:14	]Sug'Ma'Ballz used command '/EnterMeditation'.
+[21:11:40	]Sug'Ma'Ballz used command '/EnterMeditation'.
+[21:12:00	]Sug'Ma'Ballz has spawned a 'NPC [493][npc_antlion]'.
+[21:12:01	]Sug'Ma'Ballz used command '/ToggleRaise'.
+[21:12:04	]Sug'Ma'Ballz has gained a 'Raw Antlion Meat' #3111599.
+[21:12:06	]Sug'Ma'Ballz has hit npc_monk dealing 22 damage (CritChance was 0.00).
+[21:12:06	]Sug'Ma'Ballz has damaged npc_monk, dealing 25 with ix_hands
+[21:12:07	]Sug'Ma'Ballz has hit npc_monk dealing 22 damage (CritChance was 0.00).
+[21:12:07	]Sug'Ma'Ballz has damaged npc_monk, dealing 25 with ix_hands
+[21:12:08	]Sug'Ma'Ballz has hit npc_monk dealing 22 damage (CritChance was 0.00).
+[21:12:08	]Sug'Ma'Ballz has damaged npc_monk, dealing 25 with ix_hands
+[21:12:08	]Sug'Ma'Ballz has hit npc_monk dealing 22 damage (CritChance was 0.00).
+[21:12:08	]Sug'Ma'Ballz has damaged npc_monk, dealing 25 with ix_hands
+[21:12:09	]Sug'Ma'Ballz has hit npc_monk dealing 22 damage (CritChance was 0.00).
+[21:12:09	]Sug'Ma'Ballz has damaged npc_monk, dealing 25 with ix_hands
+[21:12:10	]Sug'Ma'Ballz has hit npc_monk dealing 22 damage (CritChance was 0.00).
+[21:12:10	]Sug'Ma'Ballz has damaged npc_monk, dealing 25 with ix_hands
+[21:12:12	]Sug'Ma'Ballz has spawned a 'NPC [493][npc_antlion]'.
+[21:12:12	]Sug'Ma'Ballz has hit npc_antlion dealing 22 damage (CritChance was 0.00).
+[21:12:12	]Sug'Ma'Ballz has damaged npc_antlion, dealing 25 with ix_hands
+[21:12:13	]Sug'Ma'Ballz has taken 5 damage from npc_antlion.
+[21:12:13	]Sug'Ma'Ballz has hit npc_antlion dealing 22 damage (CritChance was 0.00).
+[21:12:13	]Sug'Ma'Ballz has damaged npc_antlion, dealing 25 with ix_hands
+[21:12:15	]Sug'Ma'Ballz has gained a 'Raw Antlion Meat' #3111600.
+[21:12:17	]Sug'Ma'Ballz has spawned a 'NPC [492][npc_antlion]'.
+[21:12:17	]Sug'Ma'Ballz has hit npc_antlion dealing 22 damage (CritChance was 0.00).
+[21:12:17	]Sug'Ma'Ballz has damaged npc_antlion, dealing 25 with ix_hands
+[21:12:19	]Sug'Ma'Ballz has hit npc_antlion dealing 22 damage (CritChance was 0.00).
+[21:12:19	]Sug'Ma'Ballz has damaged npc_antlion, dealing 25 with ix_hands
+[21:12:20	]Sug'Ma'Ballz has spawned a 'NPC [492][npc_antlion]'.
+[21:12:21	]Sug'Ma'Ballz has hit npc_antlion dealing 22 damage (CritChance was 0.00).
+[21:12:21	]Sug'Ma'Ballz has damaged npc_antlion, dealing 25 with ix_hands
+[21:12:21	]Sug'Ma'Ballz has hit npc_antlion dealing 22 damage (CritChance was 0.00).
+[21:12:21	]Sug'Ma'Ballz has damaged npc_antlion, dealing 25 with ix_hands
+[21:12:28	]Sug'Ma'Ballz has spawned a 'NPC [492][npc_headcrab]'.
+[21:12:29	]Sug'Ma'Ballz has taken 5 damage from npc_headcrab.
+[21:12:30	]Sug'Ma'Ballz has hit npc_headcrab dealing 22 damage (CritChance was 0.00).
+[21:12:30	]Sug'Ma'Ballz has damaged npc_headcrab, dealing 25 with ix_hands
+[21:12:37	]Sug'Ma'Ballz has spawned a 'NPC [492][npc_vj_ez2_glownome]'.
+[21:12:37	]Sug'Ma'Ballz has hit npc_vj_ez2_glownome dealing 22 damage (CritChance was 0.00).
+[21:12:37	]Sug'Ma'Ballz has damaged npc_vj_ez2_glownome, dealing 25 with ix_hands
+[21:12:42	]Sug'Ma'Ballz has taken 13 damage from obj_vj_gonome_spit.
+[21:12:46	]Sug'Ma'Ballz has spawned a 'NPC [492][npc_fastzombie]'.
+[21:12:47	]Sug'Ma'Ballz has taken 3 damage from npc_fastzombie.
+[21:12:47	]Sug'Ma'Ballz has hit npc_fastzombie dealing 22 damage (CritChance was 0.00).
+[21:12:47	]Sug'Ma'Ballz has damaged npc_fastzombie, dealing 25 with ix_hands
+[21:12:47	]Sug'Ma'Ballz has taken 3 damage from npc_fastzombie.
+[21:12:48	]Sug'Ma'Ballz has hit npc_fastzombie dealing 22 damage (CritChance was 0.00).
+[21:12:48	]Sug'Ma'Ballz has damaged npc_fastzombie, dealing 25 with ix_hands
+[21:12:49	]Sug'Ma'Ballz has hit npc_fastzombie dealing 22 damage (CritChance was 0.00).
+[21:12:49	]Sug'Ma'Ballz has damaged npc_fastzombie, dealing 25 with ix_hands
+[21:13:07	]Hiros (STEAM_0:1:54068821) has disconnected.

@@ -1,0 +1,1058 @@
+[01:07:26	]The A vent in the wall. container (#0) was removed due to inactivity.
+[01:07:27	]The WORK ORDER #2 container (#123781) was set to CLEANUP.
+[01:07:27	]The File Cabinet container (#127069) was inactive and has been soft-removed.
+[01:15:29	]Furret No Furry Asimo has connected.
+[01:26:14	]Furret No Furry Asimo loaded the character 'Sukk'Ma'Dicc'
+[01:26:19	]Sukk'Ma'Dicc is fully healed.
+[01:26:42	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_antlion]'.
+[01:26:46	]Sukk'Ma'Dicc has taken 5 damage from npc_antlion.
+[01:26:47	]Sukk'Ma'Dicc has taken 5 damage from npc_antlion.
+[01:26:50	]Sukk'Ma'Dicc has taken 5 damage from npc_antlion.
+[01:26:53	][VORT] Sukk'Ma'Dicc has damaged npc_antlion, dealing 586.5 with vortbeam
+[01:26:56	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_fastzombie]'.
+[01:26:58	][VORT] Sukk'Ma'Dicc has damaged npc_fastzombie, dealing 586.5 with vortbeam
+[01:26:59	]Sukk'Ma'Dicc is fully healed.
+[01:26:59	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_fastzombie]'.
+[01:27:00	][VORT] Sukk'Ma'Dicc has damaged npc_fastzombie, dealing 586.5 with vortbeam
+[01:27:03	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_antlion]'.
+[01:27:04	][VORT] Sukk'Ma'Dicc has damaged npc_antlion, dealing 586.5 with vortbeam
+[01:27:08	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_zombie]'.
+[01:27:09	][VORT] Sukk'Ma'Dicc has damaged npc_zombie, dealing 586.5 with vortbeam
+[01:27:14	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_antlion]'.
+[01:27:18	][VORT] Sukk'Ma'Dicc has damaged npc_antlion, dealing 586.5 with vortbeam
+[01:27:21	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_antlion]'.
+[01:27:23	][VORT] Sukk'Ma'Dicc has damaged npc_antlion, dealing 586.5 with vortbeam
+[01:27:27	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_antlion]'.
+[01:27:28	][VORT] Sukk'Ma'Dicc has damaged npc_antlion, dealing 586.5 with vortbeam
+[01:27:36	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_antlion]'.
+[01:27:37	][VORT] Sukk'Ma'Dicc has damaged npc_antlion, dealing 586.5 with vortbeam
+[01:27:41	]Sukk'Ma'Dicc entered observer.
+[01:28:04	]Sukk'Ma'Dicc exited observer at their location.
+[01:28:11	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_antlion]'.
+[01:28:12	][VORT] Sukk'Ma'Dicc has damaged npc_antlion, dealing 586.5 with vortbeam
+[01:28:19	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_poisonzombie]'.
+[01:28:21	][VORT] Sukk'Ma'Dicc has damaged npc_poisonzombie, dealing 586.5 with vortbeam
+[01:28:25	][VORT] Sukk'Ma'Dicc has damaged npc_headcrab_poison, dealing 586.5 with vortbeam
+[01:28:38	]Sukk'Ma'Dicc set advancedBeamDamage to '1'.
+[01:28:43	]Sukk'Ma'Dicc set vortBeamAdditionalDamage to '1'.
+[01:28:47	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_poisonzombie]'.
+[01:28:47	][VORT] Sukk'Ma'Dicc has damaged npc_poisonzombie, dealing 163.2 with vortbeam
+[01:28:52	][VORT] Sukk'Ma'Dicc has damaged npc_headcrab_poison, dealing 163.2 with vortbeam
+[01:28:54	][VORT] Sukk'Ma'Dicc has damaged npc_poisonzombie, dealing 163.2 with vortbeam
+[01:29:01	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_poisonzombie]'.
+[01:29:02	][VORT] Sukk'Ma'Dicc has damaged npc_poisonzombie, dealing 163.2 with vortbeam
+[01:29:03	][VORT] Sukk'Ma'Dicc has damaged npc_poisonzombie, dealing 163.2 with vortbeam
+[01:29:05	][VORT] Sukk'Ma'Dicc has damaged npc_headcrab_poison, dealing 163.2 with vortbeam
+[01:29:08	]Sukk'Ma'Dicc entered observer.
+[01:29:14	]Sukk'Ma'Dicc exited observer at their location.
+[01:29:15	]Sukk'Ma'Dicc entered observer.
+[01:29:15	]Sukk'Ma'Dicc exited observer at their location.
+[01:32:37	]Sukk'Ma'Dicc entered observer.
+[01:32:38	]Sukk'Ma'Dicc exited observer at their location.
+[01:32:38	]Sukk'Ma'Dicc entered observer.
+[01:32:39	]Sukk'Ma'Dicc exited observer at their location.
+[01:32:44	]Sukk'Ma'Dicc used command '/AddVortalEnergy ^ 100'.
+[01:32:44	]Sukk'Ma'Dicc entered observer.
+[01:32:48	]Sukk'Ma'Dicc exited observer at their location.
+[01:32:57	]Sukk'Ma'Dicc set VortbeamAngle to '15'.
+[01:33:03	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_antlion]'.
+[01:33:04	][VORT] Sukk'Ma'Dicc has damaged npc_antlion, dealing 163.2 with vortbeam
+[01:33:06	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_antlion]'.
+[01:33:07	][VORT] Sukk'Ma'Dicc has damaged npc_antlion, dealing 163.2 with vortbeam
+[01:33:14	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_antlion]'.
+[01:33:15	][VORT] Sukk'Ma'Dicc has damaged npc_antlion, dealing 163.2 with vortbeam
+[01:33:20	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_antlion]'.
+[01:33:22	][VORT] Sukk'Ma'Dicc has damaged npc_antlion, dealing 163.2 with vortbeam
+[01:33:26	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_antlion]'.
+[01:33:27	][VORT] Sukk'Ma'Dicc has damaged npc_antlion, dealing 163.2 with vortbeam
+[01:33:31	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_antlion]'.
+[01:33:31	]Sukk'Ma'Dicc has spawned a 'NPC [6397][npc_antlion]'.
+[01:33:32	]Sukk'Ma'Dicc has spawned a 'NPC [6398][npc_antlion]'.
+[01:33:32	]Sukk'Ma'Dicc has spawned a 'NPC [6399][npc_antlion]'.
+[01:33:33	][VORT] Sukk'Ma'Dicc has damaged npc_antlion, dealing 163.2 with vortbeam
+[01:33:35	][VORT] Sukk'Ma'Dicc has damaged npc_antlion, dealing 163.2 with vortbeam
+[01:33:36	][VORT] Sukk'Ma'Dicc has damaged npc_antlion, dealing 163.2 with vortbeam
+[01:33:38	][VORT] Sukk'Ma'Dicc has damaged npc_antlion, dealing 163.2 with vortbeam
+[01:33:46	]Sukk'Ma'Dicc has spawned a 'NPC [6398][npc_antlion]'.
+[01:33:56	]Sukk'Ma'Dicc has hit npc_antlion dealing 86 damage (CritChance was 0.00).
+[01:34:01	]Sukk'Ma'Dicc has spawned a 'NPC [6398][npc_antlion]'.
+[01:34:02	]Sukk'Ma'Dicc has taken 5 damage from npc_antlion.
+[01:34:03	]Sukk'Ma'Dicc has hit npc_antlion dealing 86 damage (CritChance was 0.00).
+[01:34:07	]Sukk'Ma'Dicc has spawned a 'NPC [6398][npc_antlion]'.
+[01:34:08	][VORT] Sukk'Ma'Dicc has damaged npc_antlion, dealing 163.2 with vortbeam
+[01:34:09	]Sukk'Ma'Dicc is fully healed.
+[01:34:10	]Sukk'Ma'Dicc has spawned a 'NPC [6398][npc_antlion]'.
+[01:34:11	][VORT] Sukk'Ma'Dicc has damaged npc_antlion, dealing 163.2 with vortbeam
+[01:34:12	]Sukk'Ma'Dicc has spawned a 'NPC [6398][npc_antlion]'.
+[01:34:15	][VORT] Sukk'Ma'Dicc has damaged npc_antlion, dealing 163.2 with vortbeam
+[01:34:24	]Sukk'Ma'Dicc has spawned a 'NPC [6398][npc_headcrab]'.
+[01:34:26	][VORT] Sukk'Ma'Dicc has damaged npc_headcrab, dealing 163.2 with vortbeam
+[01:34:32	]Sukk'Ma'Dicc has spawned a 'NPC [6398][npc_vj_combineguard_z]'.
+[01:34:33	][VORT] Sukk'Ma'Dicc has damaged npc_vj_combineguard_z, dealing 163.2 with vortbeam
+[01:34:36	][VORT] Sukk'Ma'Dicc has damaged npc_vj_combineguard_z, dealing 163.2 with vortbeam
+[01:34:37	][VORT] Sukk'Ma'Dicc has damaged npc_vj_combineguard_z, dealing 163.2 with vortbeam
+[01:34:39	][VORT] Sukk'Ma'Dicc has damaged npc_vj_combineguard_z, dealing 163.2 with vortbeam
+[01:34:46	]Sukk'Ma'Dicc has spawned a 'NPC [6398][npc_vj_synth_scanner_z]'.
+[01:34:48	][VORT] Sukk'Ma'Dicc has damaged npc_vj_synth_scanner_z, dealing 163.2 with vortbeam
+[01:34:49	]Sukk'Ma'Dicc has taken 15 damage from worldspawn.
+[01:35:00	]Sukk'Ma'Dicc has spawned a 'NPC [6398][npc_vj_mortar_synth_z]'.
+[01:35:01	][VORT] Sukk'Ma'Dicc has damaged npc_vj_mortar_synth_z, dealing 163.2 with vortbeam
+[01:35:04	]Sukk'Ma'Dicc is fully healed.
+[01:35:25	]Sukk'Ma'Dicc used command '/ToggleRaise'.
+[01:35:29	]Sukk'Ma'Dicc has gained a 'Raw Antlion Meat' #2693324.
+[01:35:30	]Sukk'Ma'Dicc has gained a 'Raw Antlion Meat' #2693325.
+[01:35:32	]Sukk'Ma'Dicc has gained a 'Raw Antlion Meat' #2693326.
+[01:35:33	]Sukk'Ma'Dicc has gained a 'Raw Antlion Meat' #2693327.
+[01:35:34	]Sukk'Ma'Dicc has gained a 'Raw Antlion Meat' #2693328.
+[01:35:36	]Sukk'Ma'Dicc has gained a 'Raw Antlion Meat' #2693329.
+[01:35:37	]Sukk'Ma'Dicc has gained a 'Raw Antlion Meat' #2693330.
+[01:35:37	]Sukk'Ma'Dicc has gained a 'Raw Antlion Meat' #2693331.
+[01:35:38	]Sukk'Ma'Dicc has gained a 'Raw Antlion Meat' #2693332.
+[01:35:40	]Sukk'Ma'Dicc has gained a 'Raw Antlion Meat' #2693333.
+[01:35:44	]Sukk'Ma'Dicc used command '/ToggleRaise'.
+[01:35:46	]Sukk'Ma'Dicc has gained a 'Raw Antlion Meat' #2693334.
+[01:35:48	]Sukk'Ma'Dicc has gained a 'Raw Antlion Meat' #2693335.
+[01:35:49	]Sukk'Ma'Dicc has gained a 'Raw Antlion Meat' #2693336.
+[01:35:56	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_vj_rollermine_explosive_z]'.
+[01:35:58	][VORT] Sukk'Ma'Dicc has damaged npc_vj_rollermine_explosive_z, dealing 163.2 with vortbeam
+[01:36:02	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_vj_stalker_z]'.
+[01:36:02	]Sukk'Ma'Dicc has taken 2 damage from Combine Stalker.
+[01:36:03	]Sukk'Ma'Dicc has taken 2 damage from Combine Stalker.
+[01:36:03	]Sukk'Ma'Dicc has taken 2 damage from Combine Stalker.
+[01:36:05	]Sukk'Ma'Dicc has taken 2 damage from Combine Stalker.
+[01:36:05	]Sukk'Ma'Dicc has taken 2 damage from Combine Stalker.
+[01:36:05	]Sukk'Ma'Dicc has taken 2 damage from Combine Stalker.
+[01:36:06	]Sukk'Ma'Dicc has taken 2 damage from Combine Stalker.
+[01:36:06	]Sukk'Ma'Dicc has taken 2 damage from Combine Stalker.
+[01:36:07	]Sukk'Ma'Dicc has taken 2 damage from Combine Stalker.
+[01:36:07	]Sukk'Ma'Dicc has taken 2 damage from Combine Stalker.
+[01:36:07	]Sukk'Ma'Dicc has taken 2 damage from Combine Stalker.
+[01:36:07	][VORT] Sukk'Ma'Dicc has damaged npc_vj_stalker_z, dealing 163.2 with vortbeam
+[01:36:13	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_vj_overwatch_sniper_z]'.
+[01:36:13	]Sukk'Ma'Dicc has taken 3 damage from Overwatch Sniper.
+[01:36:13	]Sukk'Ma'Dicc has taken 3 damage from Overwatch Sniper.
+[01:36:14	]Sukk'Ma'Dicc has taken 3 damage from Overwatch Sniper.
+[01:36:15	][VORT] Sukk'Ma'Dicc has damaged npc_vj_overwatch_sniper_z, dealing 163.2 with vortbeam
+[01:36:23	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_vj_overwatch_elite_z]'.
+[01:36:23	]Sukk'Ma'Dicc has taken 3 damage from Overwatch Elite.
+[01:36:24	][VORT] Sukk'Ma'Dicc has damaged npc_vj_overwatch_elite_z, dealing 163.2 with vortbeam
+[01:36:29	]Sukk'Ma'Dicc is fully healed.
+[01:36:32	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_vj_overwatch_assassin_z]'.
+[01:36:33	][VORT] Sukk'Ma'Dicc has damaged npc_vj_overwatch_assassin_z, dealing 163.2 with vortbeam
+[01:36:35	]Sukk'Ma'Dicc entered observer.
+[01:36:35	]Sukk'Ma'Dicc exited observer at their location.
+[01:36:36	]Sukk'Ma'Dicc entered observer.
+[01:36:36	]Sukk'Ma'Dicc exited observer at their location.
+[01:36:37	]Sukk'Ma'Dicc entered observer.
+[01:36:37	]Sukk'Ma'Dicc exited observer at their location.
+[01:36:37	]Sukk'Ma'Dicc entered observer.
+[01:36:38	]Sukk'Ma'Dicc exited observer at their location.
+[01:36:38	]Sukk'Ma'Dicc entered observer.
+[01:36:38	]Sukk'Ma'Dicc exited observer at their location.
+[01:36:39	]Sukk'Ma'Dicc entered observer.
+[01:36:39	]Sukk'Ma'Dicc exited observer at their location.
+[01:36:40	]Sukk'Ma'Dicc entered observer.
+[01:36:40	]Sukk'Ma'Dicc exited observer at their location.
+[01:36:40	]Sukk'Ma'Dicc entered observer.
+[01:36:41	]Sukk'Ma'Dicc exited observer at their location.
+[01:36:41	]Sukk'Ma'Dicc entered observer.
+[01:36:41	]Sukk'Ma'Dicc exited observer at their location.
+[01:36:42	]Sukk'Ma'Dicc entered observer.
+[01:36:42	]Sukk'Ma'Dicc exited observer at their location.
+[01:36:43	]Sukk'Ma'Dicc entered observer.
+[01:36:46	]Sukk'Ma'Dicc exited observer at their location.
+[01:36:47	]Sukk'Ma'Dicc entered observer.
+[01:36:47	]Sukk'Ma'Dicc exited observer at their location.
+[01:36:48	]Sukk'Ma'Dicc entered observer.
+[01:36:48	]Sukk'Ma'Dicc exited observer at their location.
+[01:36:48	]Sukk'Ma'Dicc entered observer.
+[01:36:49	]Sukk'Ma'Dicc exited observer at their location.
+[01:36:49	]Sukk'Ma'Dicc entered observer.
+[01:36:49	]Sukk'Ma'Dicc exited observer at their location.
+[01:36:50	]Sukk'Ma'Dicc entered observer.
+[01:36:50	]Sukk'Ma'Dicc exited observer at their location.
+[01:36:51	]Sukk'Ma'Dicc entered observer.
+[01:36:51	]Sukk'Ma'Dicc exited observer at their location.
+[01:36:51	]Sukk'Ma'Dicc entered observer.
+[01:36:52	]Sukk'Ma'Dicc exited observer at their location.
+[01:36:52	]Sukk'Ma'Dicc entered observer.
+[01:36:52	]Sukk'Ma'Dicc exited observer at their location.
+[01:36:53	]Sukk'Ma'Dicc entered observer.
+[01:36:53	]Sukk'Ma'Dicc exited observer at their location.
+[01:36:58	]Sukk'Ma'Dicc has spawned a 'NPC [6391][npc_vj_vortigaunt_synth_z]'.
+[01:36:58	][VORT] Sukk'Ma'Dicc has damaged npc_vj_vortigaunt_synth_z, dealing 163.2 with vortbeam
+[01:36:59	]Sukk'Ma'Dicc has taken 10 damage from Vort Synth.
+[01:36:59	]Sukk'Ma'Dicc has taken 10 damage from Vort Synth.
+[01:37:01	][VORT] Sukk'Ma'Dicc has damaged npc_vj_vortigaunt_synth_z, dealing 163.2 with vortbeam
+[01:37:14	]Sukk'Ma'Dicc is fully healed.
+[01:39:40	]MelonHeadzzz has connected.
+[01:40:22	]Sukk'Ma'Dicc entered observer.
+[01:40:22	]Sukk'Ma'Dicc exited observer at their location.
+[01:40:23	]Sukk'Ma'Dicc entered observer.
+[01:40:24	]Sukk'Ma'Dicc exited observer at their location.
+[01:40:26	]Sukk'Ma'Dicc used command '/AddVortalEnergy ^ 100'.
+[01:40:49	]MelonHeadzzz loaded the character 'High Elder Turr'Rai-Kut'
+[01:40:53	]Sukk'Ma'Dicc entered observer.
+[01:40:54	]Sukk'Ma'Dicc exited observer at their location.
+[01:40:54	]High Elder Turr'Rai-Kut is fully healed.
+[01:40:58	][Y] Sukk'Ma'Dicc: Shaaaaa!
+[01:41:02	][Y] High Elder Turr'Rai-Kut: Dey'nahh?
+[01:41:06	][IC] High Elder Turr'Rai-Kut: Gong...
+[01:41:06	][IC] Sukk'Ma'Dicc: Sup.
+[01:41:09	][IC] High Elder Turr'Rai-Kut: Hi.
+[01:41:13	][IC] High Elder Turr'Rai-Kut: Okay so let's test this.
+[01:41:15	][IC] High Elder Turr'Rai-Kut: I'll be my cop.
+[01:41:20	][IC] Sukk'Ma'Dicc: Yes.
+[01:41:22	]MelonHeadzzz loaded the character 'C24:i5.KING-06'
+[01:41:27	]C24:i5.KING-06 is fully healed.
+[01:41:30	]Tuki has connected.
+[01:41:30	]C24:i5.KING-06 entered observer.
+[01:41:34	]C24:i5.KING-06 exited observer at their location.
+[01:41:36	]Sukk'Ma'Dicc has spawned a 'NPC [6423][npc_vj_overwatch_soldier_z]'.
+[01:41:36	]Sukk'Ma'Dicc has hit npc_vj_overwatch_soldier_z dealing 86 damage (CritChance was 0.00).
+[01:41:40	][IC] Sukk'Ma'Dicc: Shaaaaa!
+[01:41:44	]Sukk'Ma'Dicc entered observer.
+[01:41:44	]Sukk'Ma'Dicc exited observer at their location.
+[01:41:46	][IC] C24:i5.KING-06: <:: Uagh! ::>
+[01:41:48	]Sukk'Ma'Dicc has hit C24:i5.KING-06 dealing 86 damage (CritChance was 0.00).
+[01:41:48	]C24:i5.KING-06 has taken 86 damage from Sukk'Ma'Dicc.
+[01:41:50	][IC] C24:i5.KING-06: <:: Augh! ::>
+[01:41:53	][IC] C24:i5.KING-06: <:: OH THIS IS GREAT. ::>
+[01:42:04	]Sukk'Ma'Dicc has hit C24:i5.KING-06 dealing 56 damage (CritChance was 0.00).
+[01:42:04	]C24:i5.KING-06 has taken 56 damage from Sukk'Ma'Dicc.
+[01:42:09	][IC] C24:i5.KING-06: <:: OW. ::>
+[01:42:12	]C24:i5.KING-06 is fully healed.
+[01:42:15	]Sukk'Ma'Dicc has hit C24:i5.KING-06 dealing 86 damage (CritChance was 0.00).
+[01:42:15	]C24:i5.KING-06 has taken 86 damage from Sukk'Ma'Dicc.
+[01:42:20	][Y] C24:i5.KING-06: <:: Agh! ::>
+[01:42:30	][LOOC] C24:i5.KING-06: broke my armor
+[01:42:31	][IC] Sukk'Ma'Dicc: Well seems to work as expected.
+[01:42:36	][LOOC] C24:i5.KING-06: and shot through it, now im almost dead
+[01:42:45	][IC] Sukk'Ma'Dicc: It does vortal dmage with shield down.
+[01:42:45	][IC] Sukk'Ma'Dicc: So.
+[01:42:46	][IC] Sukk'Ma'Dicc: Cope.
+[01:42:47	]C24:i5.KING-06 ran 'Repair' on item 'Light Functionary Uniform' (#2586553)
+[01:42:53	][IC] Sukk'Ma'Dicc: Same as the vortbeam.
+[01:42:59	][IC] C24:i5.KING-06: <:: Nice. ::>
+[01:43:01	]Sukk'Ma'Dicc has hit C24:i5.KING-06 dealing 97 damage (CritChance was 0.00).
+[01:43:01	]C24:i5.KING-06 has taken 97 damage from Sukk'Ma'Dicc.
+[01:43:01	][VORT] Sukk'Ma'Dicc has damaged C24:i5.KING-06, dealing 163.2 with vortbeam
+[01:43:03	][Y] C24:i5.KING-06: <:: Shit! ::>
+[01:43:20	]Tuki loaded the character 'Lih'Ih'Tahn'
+[01:43:25	]Lih'Ih'Tahn is fully healed.
+[01:43:27	]C24:i5.KING-06 is fully healed.
+[01:43:30	]Lih'Ih'Tahn entered observer.
+[01:43:35	]Lih'Ih'Tahn exited observer at their location.
+[01:43:43	][IC] Lih'Ih'Tahn: WOMP WOMP.
+[01:43:46	]Sukk'Ma'Dicc has hit Lih'Ih'Tahn dealing 86 damage (CritChance was 0.00).
+[01:43:46	]Lih'Ih'Tahn has taken 86 damage from Sukk'Ma'Dicc.
+[01:43:49	][IC] Lih'Ih'Tahn: OH SHIT.
+[01:43:51	][IC] Lih'Ih'Tahn: OKAY THATS COOL.
+[01:43:54	]Lih'Ih'Tahn has hit Sukk'Ma'Dicc dealing 86 damage (CritChance was 0.00).
+[01:43:54	]Sukk'Ma'Dicc has taken 86 damage from Lih'Ih'Tahn.
+[01:44:00	]Lih'Ih'Tahn has hit Sukk'Ma'Dicc dealing 56 damage (CritChance was 0.00).
+[01:44:00	]Sukk'Ma'Dicc has taken 56 damage from Lih'Ih'Tahn.
+[01:44:03	]Lih'Ih'Tahn has hit Sukk'Ma'Dicc dealing 56 damage (CritChance was 0.00).
+[01:44:03	]Sukk'Ma'Dicc has taken 56 damage from Lih'Ih'Tahn.
+[01:44:13	]Lih'Ih'Tahn has hit C24:i5.KING-06 dealing 56 damage (CritChance was 0.00).
+[01:44:13	]C24:i5.KING-06 has taken 56 damage from Lih'Ih'Tahn.
+[01:44:13	]Lih'Ih'Tahn has hit C24:i5.KING-06 dealing 56 damage (CritChance was 0.00).
+[01:44:13	]C24:i5.KING-06 was knocked unconscious and is bleeding out.
+[01:44:17	][Y] C24:i5.KING-06: <:: What about the vortbeam. ::>
+[01:44:18	][Y] C24:i5.KING-06: <:: Is that made. ::>
+[01:44:21	]Sukk'Ma'Dicc has hit Lih'Ih'Tahn dealing 86 damage (CritChance was 0.00).
+[01:44:21	]Lih'Ih'Tahn has taken 86 damage from Sukk'Ma'Dicc.
+[01:44:22	]Lih'Ih'Tahn entered observer.
+[01:44:28	][Y] Sukk'Ma'Dicc: Yes.
+[01:44:29	]Lih'Ih'Tahn exited observer at their location.
+[01:44:32	]C24:i5.KING-06 is fully healed.
+[01:44:35	][Y] C24:i5.KING-06: <:: New code and everything? ::>
+[01:44:39	][Y] Sukk'Ma'Dicc: Yes...
+[01:44:40	]Lih'Ih'Tahn is fully healed.
+[01:44:41	][Y] C24:i5.KING-06: <:: NICE. ::>
+[01:44:43	]Sukk'Ma'Dicc has spawned a 'NPC [6440][npc_zombie]'.
+[01:44:44	][VORT] Sukk'Ma'Dicc has damaged npc_zombie, dealing 163.2 with vortbeam
+[01:44:48	][IC] Lih'Ih'Tahn: Okay, wait.
+[01:44:49	]Sukk'Ma'Dicc has spawned a 'NPC [6442][npc_zombie]'.
+[01:44:49	][IC] Lih'Ih'Tahn: Asimo.
+[01:44:51	][IC] Lih'Ih'Tahn: What changed.
+[01:44:57	][IC] Lih'Ih'Tahn: How does it work now.
+[01:45:01	]MelonHeadzzz loaded the character 'High Elder Turr'Rai-Kut'
+[01:45:05	][IC] Sukk'Ma'Dicc: Just... Uses LOS instead of a hulltrace. So props no longer get in the way.
+[01:45:07	][IC] Sukk'Ma'Dicc: And it is acone.
+[01:45:11	][IC] Sukk'Ma'Dicc: Rn it is basically full aimbot mode.
+[01:45:12	][VORT] Lih'Ih'Tahn has damaged npc_zombie, dealing 163.2 with vortbeam
+[01:45:15	][IC] Lih'Ih'Tahn: HUH.
+[01:45:15	][IC] Sukk'Ma'Dicc: Try it.
+[01:45:16	][IC] Lih'Ih'Tahn: OH SHIT.
+[01:45:18	][IC] Sukk'Ma'Dicc: Aim somewhere else.
+[01:45:20	][IC] High Elder Turr'Rai-Kut: I'm gonna spawn a fence.
+[01:45:21	][IC] Sukk'Ma'Dicc: Near enough.
+[01:45:24	]Sukk'Ma'Dicc has spawned a 'NPC [6425][npc_zombie]'.
+[01:45:28	][VORT] Lih'Ih'Tahn has damaged npc_zombie, dealing 163.2 with vortbeam
+[01:45:29	]Sukk'Ma'Dicc is fully healed.
+[01:45:30	][IC] Lih'Ih'Tahn: WTF.
+[01:45:32	][IC] Lih'Ih'Tahn: YOOO.
+[01:45:33	]High Elder Turr'Rai-Kut has spawned 'models/props_c17/fence01a.mdl'.
+[01:45:34	][IC] Lih'Ih'Tahn: THATS BADASS.
+[01:45:36	]Sukk'Ma'Dicc has spawned a 'NPC [6431][npc_zombie]'.
+[01:45:41	][VORT] Lih'Ih'Tahn has damaged npc_zombie, dealing 163.2 with vortbeam
+[01:45:46	][IC] Lih'Ih'Tahn: WAIT SO.
+[01:45:48	][IC] Lih'Ih'Tahn: IT AUTODIRECTS.
+[01:45:50	]Sukk'Ma'Dicc has spawned a 'NPC [6432][npc_zombie]'.
+[01:45:50	][IC] Lih'Ih'Tahn: TO THE TARGET.
+[01:45:51	][IC] Lih'Ih'Tahn: WTFFF.
+[01:45:52	][IC] High Elder Turr'Rai-Kut: And.
+[01:45:53	][IC] Sukk'Ma'Dicc: Yes.
+[01:45:54	][IC] High Elder Turr'Rai-Kut: It goes through fences.
+[01:45:57	][VORT] Lih'Ih'Tahn has damaged npc_zombie, dealing 163.2 with vortbeam
+[01:45:57	][IC] Sukk'Ma'Dicc: And glass.
+[01:45:59	]Sukk'Ma'Dicc entered observer.
+[01:46:00	]Sukk'Ma'Dicc has spawned a 'NPC [6432][npc_zombie]'.
+[01:46:01	][IC] High Elder Turr'Rai-Kut: AND GLASS.
+[01:46:01	]Sukk'Ma'Dicc exited observer at their location.
+[01:46:04	][IC] Sukk'Ma'Dicc: Behold!
+[01:46:06	][IC] Lih'Ih'Tahn: I will suck this dude off just for this.
+[01:46:06	][VORT] Sukk'Ma'Dicc has damaged npc_zombie, dealing 163.2 with vortbeam
+[01:46:07	][IC] Lih'Ih'Tahn: OMg.
+[01:46:12	][IC] High Elder Turr'Rai-Kut: Yes...
+[01:46:17	][IC] Lih'Ih'Tahn: Thank fucking god we got you asimo.
+[01:46:20	][IC] High Elder Turr'Rai-Kut: :D.
+[01:46:24	][IC] Sukk'Ma'Dicc: Like...
+[01:46:33	][IC] Sukk'Ma'Dicc: So you either need to see the chest.
+[01:46:35	][IC] Sukk'Ma'Dicc: TOp of the head.
+[01:46:37	][IC] Sukk'Ma'Dicc: Or the feetsies.
+[01:46:47	][IC] Lih'Ih'Tahn: Melon.
+[01:46:48	]Sukk'Ma'Dicc has spawned a 'NPC [6445][npc_citizen]'.
+[01:46:49	]Sukk'Ma'Dicc has spawned a 'NPC [6452][npc_citizen]'.
+[01:46:50	][IC] High Elder Turr'Rai-Kut: Yes.
+[01:46:57	][IC] Lih'Ih'Tahn: Can we try and do a PVP? Vortbeam vs cop.
+[01:46:57	]Sukk'Ma'Dicc has spawned 'models/props_lab/blastdoor001a.mdl'.
+[01:47:02	][IC] High Elder Turr'Rai-Kut: Sure let me get setup.
+[01:47:06	][IC] Sukk'Ma'Dicc: Look.
+[01:47:06	][VORT] Lih'Ih'Tahn has damaged npc_citizen, dealing 163.2 with vortbeam
+[01:47:07	]MelonHeadzzz loaded the character 'C24:i5.KING-06'
+[01:47:13	]Sukk'Ma'Dicc has spawned a 'NPC [6444][npc_citizen]'.
+[01:47:16	][VORT] Sukk'Ma'Dicc has damaged npc_citizen, dealing 163.2 with vortbeam
+[01:47:23	][IC] Lih'Ih'Tahn: Ah ok.
+[01:47:25	][IC] Lih'Ih'Tahn: Doesnt target u.
+[01:47:32	][IC] Sukk'Ma'Dicc: It is an arc.
+[01:47:34	][IC] Sukk'Ma'Dicc: Starts small.
+[01:47:36	][IC] Sukk'Ma'Dicc: Goes big.
+[01:47:37	][IC] Lih'Ih'Tahn: Oh.
+[01:47:38	][IC] Lih'Ih'Tahn: Nice.
+[01:47:39	][IC] Sukk'Ma'Dicc: Kinda like.
+[01:47:47	]Lih'Ih'Tahn used command '/SetVortalEnergy lih 100'.
+[01:47:51	]Sukk'Ma'Dicc has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[01:47:55	]Lih'Ih'Tahn has spawned a xen_potion.
+[01:47:56	]Lih'Ih'Tahn ran 'Consume' on item 'Xen Potion' (#2693337)
+[01:47:58	]Sukk'Ma'Dicc has spawned 'models/hunter/blocks/cube025x3x025.mdl'.
+[01:48:01	][Y] C24:i5.KING-06: <:: Almost ready. ::>
+[01:48:03	]Lih'Ih'Tahn has spawned a artificial_cheese.
+[01:48:04	]Lih'Ih'Tahn ran 'Consume' on item 'Artificial Cheese Slice' (#2693338)
+[01:48:08	]Lih'Ih'Tahn has spawned a bird_potluck.
+[01:48:09	]Lih'Ih'Tahn ran 'Consume' on item 'Bird Potluck' (#2693339)
+[01:48:09	]Lih'Ih'Tahn has gained a level 2 long boost in Agility.
+[01:48:10	][Y] Sukk'Ma'Dicc: This is how you need to see it.
+[01:48:11	]C24:i5.KING-06 has given himself a cmb_hkusp.
+[01:48:11	]C24:i5.KING-06 has gained a 'HK USP .45' #2693340.
+[01:48:14	][IC] Lih'Ih'Tahn: OOOh.
+[01:48:18	]C24:i5.KING-06 ran 'Equip' on item 'HK USP .45' (#2693340)
+[01:48:20	]C24:i5.KING-06 ran 'EquipUn' on item 'CV-2000 Stun Baton' (#2586573)
+[01:48:20	]C24:i5.KING-06 ran 'Equip' on item 'HK USP .45' (#2693340)
+[01:48:21	]C24:i5.KING-06 ran 'Equip' on item 'CV-2000 Stun Baton' (#2586573)
+[01:48:22	]C24:i5.KING-06 ran 'EquipUn' on item 'CV-2000 Stun Baton' (#2586573)
+[01:48:23	]C24:i5.KING-06 ran 'EquipUn' on item 'Combine PDA' (#2586552)
+[01:48:24	]C24:i5.KING-06 ran 'Equip' on item 'CV-2000 Stun Baton' (#2586573)
+[01:48:24	]C24:i5.KING-06 ran 'Equip' on item 'HK USP .45' (#2693340)
+[01:48:25	]C24:i5.KING-06 ran 'Equip' on item 'Combine PDA' (#2586552)
+[01:48:27	]C24:i5.KING-06 ran 'EquipUn' on item 'CV-2000 Stun Baton' (#2586573)
+[01:48:28	]C24:i5.KING-06 ran 'EquipUn' on item 'Combine PDA' (#2586552)
+[01:48:30	][Y] Sukk'Ma'Dicc: I made the arc variable... Rn it is at 15 degrees each side, which is nuts.
+[01:48:32	]C24:i5.KING-06 ran 'Equip' on item 'HK USP .45' (#2693340)
+[01:48:36	]C24:i5.KING-06 ran 'Equip' on item 'CV-2000 Stun Baton' (#2586573)
+[01:48:39	]C24:i5.KING-06 ran 'Equip' on item 'Combine PDA' (#2586552)
+[01:48:41	][IC] Lih'Ih'Tahn: Is it gonna stay like that?
+[01:48:42	]Sukk'Ma'Dicc has spawned a 'NPC [6435][npc_citizen]'.
+[01:48:44	][VORT] Sukk'Ma'Dicc has damaged npc_citizen, dealing 163.2 with vortbeam
+[01:48:49	][Y] Sukk'Ma'Dicc: Could.
+[01:48:51	]C24:i5.KING-06 has given himself a magazine_usp.
+[01:48:51	]C24:i5.KING-06 has gained a '17rnd USP Magazine' #2693341.
+[01:48:52	][Y] Sukk'Ma'Dicc: Can also just.
+[01:48:52	]C24:i5.KING-06 has given himself a magazine_usp.
+[01:48:52	]C24:i5.KING-06 has gained a '17rnd USP Magazine' #2693342.
+[01:48:54	]C24:i5.KING-06 has given himself a magazine_usp.
+[01:48:54	]C24:i5.KING-06 has gained a '17rnd USP Magazine' #2693343.
+[01:48:56	]C24:i5.KING-06 has given himself a magazine_usp.
+[01:48:56	]C24:i5.KING-06 has gained a '17rnd USP Magazine' #2693344.
+[01:48:59	]Sukk'Ma'Dicc set VortbeamAngle to '5'.
+[01:49:01	]Sukk'Ma'Dicc has spawned a 'NPC [6435][npc_citizen]'.
+[01:49:04	][VORT] Sukk'Ma'Dicc has damaged npc_citizen, dealing 163.2 with vortbeam
+[01:49:08	]Sukk'Ma'Dicc has spawned a 'NPC [6435][npc_citizen]'.
+[01:49:09	]Lih'Ih'Tahn has spawned a 'NPC [6444][npc_monk]'.
+[01:49:10	][VORT] Sukk'Ma'Dicc has damaged npc_monk, dealing 163.2 with vortbeam
+[01:49:15	][VORT] Lih'Ih'Tahn has damaged npc_monk, dealing 163.2 with vortbeam
+[01:49:16	]C24:i5.KING-06 has given himself a magazine_mp.
+[01:49:16	]C24:i5.KING-06 has gained a '30rnd MP Magazine' #2693345.
+[01:49:16	][VORT] Lih'Ih'Tahn has damaged npc_monk, dealing 163.2 with vortbeam
+[01:49:17	]C24:i5.KING-06 has given himself a magazine_mp.
+[01:49:17	]C24:i5.KING-06 has gained a '30rnd MP Magazine' #2693346.
+[01:49:18	]C24:i5.KING-06 has given himself a magazine_mp.
+[01:49:18	]C24:i5.KING-06 has gained a '30rnd MP Magazine' #2693347.
+[01:49:18	][VORT] Lih'Ih'Tahn has damaged npc_monk, dealing 163.2 with vortbeam
+[01:49:18	]C24:i5.KING-06 has given himself a magazine_mp.
+[01:49:18	]C24:i5.KING-06 has gained a '30rnd MP Magazine' #2693348.
+[01:49:20	][VORT] Lih'Ih'Tahn has damaged npc_monk, dealing 163.2 with vortbeam
+[01:49:21	][Y] Sukk'Ma'Dicc: Anyways it prefers the target closest to your crosshair.
+[01:49:21	][VORT] Lih'Ih'Tahn has damaged npc_monk, dealing 163.2 with vortbeam
+[01:49:23	][VORT] Sukk'Ma'Dicc has damaged npc_monk, dealing 163.2 with vortbeam
+[01:49:25	][VORT] Sukk'Ma'Dicc has damaged npc_monk, dealing 163.2 with vortbeam
+[01:49:25	][IC] Lih'Ih'Tahn: Btw.
+[01:49:27	][IC] Lih'Ih'Tahn: Uh Asimo.
+[01:49:31	][IC] Lih'Ih'Tahn: I can spam beam after beam.
+[01:49:32	][IC] Lih'Ih'Tahn: Like.
+[01:49:33	]C24:i5.KING-06 ran 'combine' on item '17rnd USP Magazine' (#2693343)
+[01:49:34	]C24:i5.KING-06 ran 'combine' on item '17rnd USP Magazine' (#2693344)
+[01:49:34	][IC] Sukk'Ma'Dicc: Yes.
+[01:49:35	]C24:i5.KING-06 ran 'combine' on item '17rnd USP Magazine' (#2693341)
+[01:49:35	][IC] Lih'Ih'Tahn: Cooldown aint there.
+[01:49:36	]C24:i5.KING-06 ran 'combine' on item '17rnd USP Magazine' (#2693342)
+[01:49:36	]C24:i5.KING-06 ran 'drop' on item '9mm Pistol Bullets' (#2587442)
+[01:49:36	]C24:i5.KING-06 has lost a '9mm Pistol Bullets' #2587442.
+[01:49:37	]C24:i5.KING-06 ran 'drop' on item '9mm Pistol Bullets' (#2587435)
+[01:49:37	]C24:i5.KING-06 has lost a '9mm Pistol Bullets' #2587435.
+[01:49:37	]C24:i5.KING-06 ran 'drop' on item '9mm Pistol Bullets' (#2587443)
+[01:49:37	]C24:i5.KING-06 has lost a '9mm Pistol Bullets' #2587443.
+[01:49:37	][IC] Sukk'Ma'Dicc: It is.
+[01:49:37	]C24:i5.KING-06 ran 'drop' on item '9mm Pistol Bullets' (#2587444)
+[01:49:37	]C24:i5.KING-06 has lost a '9mm Pistol Bullets' #2587444.
+[01:49:38	][IC] Sukk'Ma'Dicc: Just.
+[01:49:41	][IC] Lih'Ih'Tahn: Is that intentional?
+[01:49:41	][IC] Sukk'Ma'Dicc: Not 3 seconds.
+[01:49:41	]C24:i5.KING-06 has used a context menu option with the name: remove
+[01:49:42	]C24:i5.KING-06 has used a context menu option with the name: remove
+[01:49:43	]C24:i5.KING-06 has used a context menu option with the name: rb655_dissolve
+[01:49:44	]C24:i5.KING-06 has used a context menu option with the name: rb655_dissolve
+[01:49:44	][IC] Sukk'Ma'Dicc: Yeah...
+[01:49:45	]env_entity_dissolver destroyed a '9mm Pistol Bullets' #2587444.
+[01:49:46	]env_entity_dissolver destroyed a '9mm Pistol Bullets' #2587443.
+[01:49:49	]Lih'Ih'Tahn used command '/SetVortalEnergy lih 100'.
+[01:49:51	][IC] Lih'Ih'Tahn: Shadow buff.
+[01:49:51	]Sukk'Ma'Dicc used command '/AddVortalEnergy ^ 100'.
+[01:49:54	]C24:i5.KING-06 used command '/CharGiveItem 06 bullets_smg1 4'.
+[01:49:54	]C24:i5.KING-06 has gained a 'Sub-machinegun Bullets' #2693349.
+[01:49:54	]C24:i5.KING-06 has gained a 'Sub-machinegun Bullets' #2693350.
+[01:49:54	]C24:i5.KING-06 has gained a 'Sub-machinegun Bullets' #2693351.
+[01:49:54	]C24:i5.KING-06 has gained a 'Sub-machinegun Bullets' #2693352.
+[01:49:57	]C24:i5.KING-06 ran 'combine' on item '30rnd MP Magazine' (#2693347)
+[01:49:58	]C24:i5.KING-06 ran 'combine' on item '30rnd MP Magazine' (#2693348)
+[01:49:59	]C24:i5.KING-06 ran 'combine' on item '30rnd MP Magazine' (#2693345)
+[01:50:00	]C24:i5.KING-06 ran 'combine' on item '30rnd MP Magazine' (#2693346)
+[01:50:01	]C24:i5.KING-06 ran 'combine' on item 'Sub-machinegun Bullets' (#2693351)
+[01:50:02	][Y] Sukk'Ma'Dicc: Cooldown went from 3 seconds to 1.5.
+[01:50:03	][VORT] Sukk'Ma'Dicc has damaged npc_monk, dealing 163.2 with vortbeam
+[01:50:05	][VORT] Sukk'Ma'Dicc has damaged npc_monk, dealing 163.2 with vortbeam
+[01:50:06	][IC] Lih'Ih'Tahn: Oooh.
+[01:50:06	][VORT] Sukk'Ma'Dicc has damaged npc_monk, dealing 163.2 with vortbeam
+[01:50:08	][VORT] Sukk'Ma'Dicc has damaged npc_monk, dealing 163.2 with vortbeam
+[01:50:09	][VORT] Sukk'Ma'Dicc has damaged npc_monk, dealing 163.2 with vortbeam
+[01:50:11	][VORT] Sukk'Ma'Dicc has damaged npc_monk, dealing 163.2 with vortbeam
+[01:50:12	]C24:i5.KING-06 has given himself a gen_mp7.
+[01:50:12	]C24:i5.KING-06 has gained a 'MP7A1' #2693353.
+[01:50:13	][VORT] Sukk'Ma'Dicc has damaged npc_citizen, dealing 163.2 with vortbeam
+[01:50:13	][IC] Lih'Ih'Tahn: BRO DOES NOT DIE.
+[01:50:14	][VORT] Sukk'Ma'Dicc has damaged npc_monk, dealing 163.2 with vortbeam
+[01:50:14	]C24:i5.KING-06 ran 'Equip' on item 'MP7A1' (#2693353)
+[01:50:16	][VORT] Sukk'Ma'Dicc has damaged npc_monk, dealing 163.2 with vortbeam
+[01:50:16	]Lih'Ih'Tahn has used a context menu option with the name: remove
+[01:50:17	]C24:i5.KING-06 has lost a '30rnd MP Magazine' #2693348.
+[01:50:19	]Lih'Ih'Tahn has spawned a 'NPC [6435][npc_pigeon]'.
+[01:50:20	]C24:i5.KING-06 used command '/ToggleRaise'.
+[01:50:20	][VORT] Lih'Ih'Tahn has damaged npc_pigeon, dealing 163.2 with vortbeam
+[01:50:22	]Sukk'Ma'Dicc has hit C24:i5.KING-06 dealing 97 damage (CritChance was 0.00).
+[01:50:22	]C24:i5.KING-06 has taken 97 damage from Sukk'Ma'Dicc.
+[01:50:22	][VORT] Sukk'Ma'Dicc has damaged C24:i5.KING-06, dealing 163.2 with vortbeam
+[01:50:23	]C24:i5.KING-06 has gained a '30rnd MP Magazine' #2693348.
+[01:50:23	]C24:i5.KING-06 has lost a '30rnd MP Magazine' #2693347.
+[01:50:26	]Lih'Ih'Tahn used command '/SetVortalEnergy lih 100'.
+[01:50:27	][IC] Lih'Ih'Tahn: Stahp.
+[01:50:29	][IC] Lih'Ih'Tahn: We gonna PVp.
+[01:50:29	][OOC] C24:i5.KING-06: HANG ON
+[01:50:33	]C24:i5.KING-06 ran 'EquipUn' on item 'MP7A1' (#2693353)
+[01:50:33	]C24:i5.KING-06 has gained a '30rnd MP Magazine' #2693347.
+[01:50:34	]Sukk'Ma'Dicc used command '/AddVortalEnergy ^ 100'.
+[01:50:38	]C24:i5.KING-06 ran 'Repair' on item 'Light Functionary Uniform' (#2586553)
+[01:50:42	][IC] Lih'Ih'Tahn: Shaaaaa!
+[01:50:43	][IC] Lih'Ih'Tahn: Shaaaaa!
+[01:50:44	][IC] Lih'Ih'Tahn: Shaaaaa!
+[01:50:45	][IC] Lih'Ih'Tahn: Shaaaaa!
+[01:50:46	][IC] Lih'Ih'Tahn: Shaaaaa!
+[01:50:51	]C24:i5.KING-06 ran 'Equip' on item 'MP7A1' (#2693353)
+[01:50:52	]C24:i5.KING-06 is fully healed.
+[01:50:53	][IC] Lih'Ih'Tahn: U ready?
+[01:50:53	][Y] Sukk'Ma'Dicc: Shaaaaa, shaaaaa, shaaaaa, shaaaaa, shaaaaa, shaaaaa,.
+[01:50:53	]C24:i5.KING-06 has lost a '30rnd MP Magazine' #2693347.
+[01:50:55	][IC] C24:i5.KING-06: <:: Alright. ::>
+[01:50:59	][IC] Lih'Ih'Tahn: Ok, cmere.
+[01:51:02	]C24:i5.KING-06 used command '/ToggleRaise'.
+[01:51:13	]Sukk'Ma'Dicc entered observer.
+[01:51:15	]Sukk'Ma'Dicc has spawned a 'NPC [6442][npc_citizen]'.
+[01:51:16	]Sukk'Ma'Dicc exited observer at their location.
+[01:51:18	][IC] Lih'Ih'Tahn: U go around here i'll go out of the slums.
+[01:51:22	][VORT] Lih'Ih'Tahn has damaged npc_headcrab_poison, dealing 163.2 with vortbeam
+[01:51:24	][VORT] Sukk'Ma'Dicc has damaged npc_citizen, dealing 163.2 with vortbeam
+[01:51:25	]Sukk'Ma'Dicc entered observer.
+[01:51:26	]Lih'Ih'Tahn used command '/SetVortalEnergy lih 100'.
+[01:51:26	][IC] C24:i5.KING-06: <:: Lol. ::>
+[01:51:29	][OOC] Sukk'Ma'Dicc: OH COOL
+[01:51:35	][OOC] Sukk'Ma'Dicc: IT ALSO WORKS THROUGH THE FORCEFIELDS
+[01:51:36	][OOC] Lih'Ih'Tahn: Asimo, say when
+[01:51:37	][OOC] Sukk'Ma'Dicc: NEAT
+[01:51:39	][OOC] Lih'Ih'Tahn: Asimo, say when
+[01:51:57	]Sukk'Ma'Dicc used command '/PlaySong https://www.youtube.com/watch?v=vpQMvSBhcyU 0 100000'.
+[01:52:01	][OOC] Sukk'Ma'Dicc: Go
+[01:52:09	]Lih'Ih'Tahn has hit C24:i5.KING-06 dealing 97 damage (CritChance was 0.00).
+[01:52:09	]C24:i5.KING-06 has taken 97 damage from Lih'Ih'Tahn.
+[01:52:09	][VORT] Lih'Ih'Tahn has damaged C24:i5.KING-06, dealing 163.2 with vortbeam
+[01:52:13	]C24:i5.KING-06 has critically hit Lih'Ih'Tahn dealing 8 damage (CritChance was 0.40).
+[01:52:13	]Lih'Ih'Tahn has taken 8 damage from C24:i5.KING-06.
+[01:52:13	]C24:i5.KING-06 has critically hit Lih'Ih'Tahn dealing 8 damage (CritChance was 0.40).
+[01:52:13	]Lih'Ih'Tahn has taken 8 damage from C24:i5.KING-06.
+[01:52:13	]C24:i5.KING-06 has hit Lih'Ih'Tahn dealing 6 damage (CritChance was 0.40).
+[01:52:13	]Lih'Ih'Tahn has taken 6 damage from C24:i5.KING-06.
+[01:52:14	]Lih'Ih'Tahn has hit C24:i5.KING-06 dealing 97 damage (CritChance was 0.00).
+[01:52:14	]C24:i5.KING-06 has gained a '30rnd MP Magazine' #2693347.
+[01:52:14	]C24:i5.KING-06 was knocked unconscious and is bleeding out.
+[01:52:14	][VORT] Lih'Ih'Tahn has damaged C24:i5.KING-06, dealing 163.2 with vortbeam
+[01:52:15	]Lih'Ih'Tahn is fully healed.
+[01:52:18	][OOC] Lih'Ih'Tahn: HOLY SHIT
+[01:52:21	][OOC] Lih'Ih'Tahn: This is so good
+[01:52:27	]C24:i5.KING-06 is fully healed.
+[01:52:29	]C24:i5.KING-06 used command '/ToggleRaise'.
+[01:52:30	]C24:i5.KING-06 has lost a '30rnd MP Magazine' #2693346.
+[01:52:34	][OOC] Lih'Ih'Tahn: Vorts are the new s2k gods
+[01:52:38	][OOC] C24:i5.KING-06: mmmhm
+[01:52:39	][OOC] Sukk'Ma'Dicc: Literal aimbot
+[01:52:41	][IC] Lih'Ih'Tahn: Did u see the effect of the vortmelee?
+[01:52:48	][IC] C24:i5.KING-06: <:: Yea but do it again i wanna see what it does when im shooting. ::>
+[01:52:52	]Lih'Ih'Tahn has hit C24:i5.KING-06 dealing 86 damage (CritChance was 0.00).
+[01:52:52	]C24:i5.KING-06 has taken 86 damage from Lih'Ih'Tahn.
+[01:52:56	]C24:i5.KING-06 has gained a '30rnd MP Magazine' #2693346.
+[01:52:56	]C24:i5.KING-06 has lost a '30rnd MP Magazine' #2693345.
+[01:53:00	][IC] Lih'Ih'Tahn: Its really fucking nice.
+[01:53:05	][OOC] C24:i5.KING-06: maybe the blur should be shorter or less intense
+[01:53:10	][OOC] Sukk'Ma'Dicc: nah
+[01:53:11	][OOC] C24:i5.KING-06: like 1.5 seconds rather than 3'
+[01:53:14	][OOC] Lih'Ih'Tahn: Its good like dis
+[01:53:20	]Lih'Ih'Tahn has hit C24:i5.KING-06 dealing 86 damage (CritChance was 0.00).
+[01:53:20	]C24:i5.KING-06 has gained a '30rnd MP Magazine' #2693345.
+[01:53:20	]C24:i5.KING-06 was knocked unconscious and is bleeding out.
+[01:53:24	][Y] C24:i5.KING-06: <:: Agh! ::>
+[01:53:27	]C24:i5.KING-06 is fully healed.
+[01:53:29	][OOC] C24:i5.KING-06: well of course you say that tuki you're a vort main
+[01:53:31	]Sukk'Ma'Dicc exited observer at their location.
+[01:53:34	][OOC] Lih'Ih'Tahn: :3
+[01:53:44	][OOC] C24:i5.KING-06: im saying that thinking of what cops'll think, we don't want you to cause vortigaunts to get nerfed *again*
+[01:53:47	][OOC] Lih'Ih'Tahn: Im like a kid on christmas eve bro
+[01:53:49	]C24:i5.KING-06 has lost a '30rnd MP Magazine' #2693348.
+[01:53:51	]Sukk'Ma'Dicc has hit C24:i5.KING-06 dealing 97 damage (CritChance was 0.00).
+[01:53:51	]C24:i5.KING-06 has taken 97 damage from Sukk'Ma'Dicc.
+[01:53:51	][VORT] Sukk'Ma'Dicc has damaged C24:i5.KING-06, dealing 163.2 with vortbeam
+[01:53:53	]C24:i5.KING-06 used command '/ToggleRaise'.
+[01:53:56	]C24:i5.KING-06 has hit Lih'Ih'Tahn dealing 6 damage (CritChance was 0.40).
+[01:53:56	]Lih'Ih'Tahn has taken 6 damage from C24:i5.KING-06.
+[01:53:56	]C24:i5.KING-06 has critically hit Lih'Ih'Tahn dealing 8 damage (CritChance was 0.40).
+[01:53:56	]Lih'Ih'Tahn has taken 8 damage from C24:i5.KING-06.
+[01:53:56	]C24:i5.KING-06 has critically hit Lih'Ih'Tahn dealing 8 damage (CritChance was 0.40).
+[01:53:56	]Lih'Ih'Tahn has taken 8 damage from C24:i5.KING-06.
+[01:53:56	]Sukk'Ma'Dicc has hit C24:i5.KING-06 dealing 97 damage (CritChance was 0.00).
+[01:53:56	]C24:i5.KING-06 has gained a '30rnd MP Magazine' #2693348.
+[01:53:56	]C24:i5.KING-06 was knocked unconscious and is bleeding out.
+[01:53:56	][VORT] Sukk'Ma'Dicc has damaged C24:i5.KING-06, dealing 163.2 with vortbeam
+[01:53:56	]Lih'Ih'Tahn has hit Sukk'Ma'Dicc dealing 97 damage (CritChance was 0.00).
+[01:53:56	]Sukk'Ma'Dicc has taken 97 damage from Lih'Ih'Tahn.
+[01:53:56	][VORT] Lih'Ih'Tahn has damaged Sukk'Ma'Dicc, dealing 163.2 with vortbeam
+[01:53:58	]Sukk'Ma'Dicc has hit Lih'Ih'Tahn dealing 97 damage (CritChance was 0.00).
+[01:53:58	]Lih'Ih'Tahn has taken 97 damage from Sukk'Ma'Dicc.
+[01:53:58	][VORT] Sukk'Ma'Dicc has damaged Lih'Ih'Tahn, dealing 163.2 with vortbeam
+[01:54:01	]Lih'Ih'Tahn has hit Sukk'Ma'Dicc dealing 97 damage (CritChance was 0.00).
+[01:54:01	]Sukk'Ma'Dicc has taken 97 damage from Lih'Ih'Tahn.
+[01:54:01	][VORT] Lih'Ih'Tahn has damaged Sukk'Ma'Dicc, dealing 163.2 with vortbeam
+[01:54:09	][OOC] C24:i5.KING-06: the only worry for vorts now is getting huge PT's
+[01:54:11	]Lih'Ih'Tahn has hit Sukk'Ma'Dicc dealing 97 damage (CritChance was 0.00).
+[01:54:11	]Sukk'Ma'Dicc has taken 97 damage from Lih'Ih'Tahn.
+[01:54:11	][VORT] Lih'Ih'Tahn has damaged Sukk'Ma'Dicc, dealing 163.2 with vortbeam
+[01:54:16	]Lih'Ih'Tahn has hit Sukk'Ma'Dicc dealing 97 damage (CritChance was 0.00).
+[01:54:16	]Sukk'Ma'Dicc has taken 97 damage from Lih'Ih'Tahn.
+[01:54:16	][VORT] Lih'Ih'Tahn has damaged Sukk'Ma'Dicc, dealing 163.2 with vortbeam
+[01:54:25	]Lih'Ih'Tahn has hit Sukk'Ma'Dicc dealing 56 damage (CritChance was 0.00).
+[01:54:25	]Sukk'Ma'Dicc has taken 56 damage from Lih'Ih'Tahn.
+[01:54:27	][OOC] C24:i5.KING-06: hit one, you get them but can still get hit when there's multiple cops to deal with
+[01:54:36	]Lih'Ih'Tahn has hit Sukk'Ma'Dicc dealing 56 damage (CritChance was 0.00).
+[01:54:36	]Sukk'Ma'Dicc has taken 56 damage from Lih'Ih'Tahn.
+[01:54:37	]C24:i5.KING-06 is fully healed.
+[01:54:38	]Sukk'Ma'Dicc has hit Lih'Ih'Tahn dealing 84 damage (CritChance was 0.00).
+[01:54:38	]Lih'Ih'Tahn has taken 84 damage from Sukk'Ma'Dicc.
+[01:54:41	]Sukk'Ma'Dicc has hit Lih'Ih'Tahn dealing 86 damage (CritChance was 0.00).
+[01:54:41	]Lih'Ih'Tahn has taken 86 damage from Sukk'Ma'Dicc.
+[01:54:42	]C24:i5.KING-06 used command '/ToggleRaise'.
+[01:54:42	]Sukk'Ma'Dicc has hit Lih'Ih'Tahn dealing 86 damage (CritChance was 0.00).
+[01:54:42	]Lih'Ih'Tahn was knocked unconscious and is bleeding out.
+[01:54:44	]C24:i5.KING-06 has lost a '30rnd MP Magazine' #2693345.
+[01:54:45	][IC] Lih'Ih'Tahn: NOOO.
+[01:54:49	][IC] Lih'Ih'Tahn: ITS SO HARD TO SEE.
+[01:54:54	]Sukk'Ma'Dicc entered observer.
+[01:54:55	]Lih'Ih'Tahn is fully healed.
+[01:54:58	][OOC] Sukk'Ma'Dicc: Vortal victory
+[01:54:58	]Lih'Ih'Tahn entered observer.
+[01:55:01	]Lih'Ih'Tahn exited observer at their location.
+[01:55:02	]Lih'Ih'Tahn entered observer.
+[01:55:07	][OOC] Lih'Ih'Tahn: So when is this getting pushed to main?
+[01:55:11	][OOC] C24:i5.KING-06: soon
+[01:55:13	][OOC] Sukk'Ma'Dicc: fuck if I know
+[01:55:15	]Lih'Ih'Tahn exited observer at their location.
+[01:55:17	]Lih'Ih'Tahn entered observer.
+[01:55:17	]Lih'Ih'Tahn exited observer at their location.
+[01:55:18	]Lih'Ih'Tahn entered observer.
+[01:55:21	]Lih'Ih'Tahn exited observer at their location.
+[01:55:24	]Lih'Ih'Tahn entered observer.
+[01:55:27	][OOC] Sukk'Ma'Dicc: Al I know is that vortbeam is finally no longer a crippled kid
+[01:55:27	][OOC] Lih'Ih'Tahn: ASimo
+[01:55:40	][OOC] Lih'Ih'Tahn: Can we go shotcopping once this is pushed on the new city map?
+[01:55:42	][OOC] Lih'Ih'Tahn: :3
+[01:55:46	][OOC] C24:i5.KING-06: No
+[01:55:47	]Lih'Ih'Tahn exited observer at their location.
+[01:55:48	][OOC] Sukk'Ma'Dicc: ah yes day 1 JW
+[01:55:52	]C24:i5.KING-06 has fired a toolgun with the name: creator
+[01:55:52	]C24:i5.KING-06 has spawned a 'NPC [6424][npc_zombie]'.
+[01:55:52	][OOC] Lih'Ih'Tahn: LOL
+[01:55:52	]C24:i5.KING-06 has fired a toolgun with the name: creator
+[01:55:52	]C24:i5.KING-06 has spawned a 'NPC [6429][npc_zombie]'.
+[01:55:52	]C24:i5.KING-06 has fired a toolgun with the name: creator
+[01:55:52	]C24:i5.KING-06 has spawned a 'NPC [6436][npc_zombie]'.
+[01:55:53	]C24:i5.KING-06 has fired a toolgun with the name: creator
+[01:55:53	]C24:i5.KING-06 has spawned a 'NPC [6458][npc_zombie]'.
+[01:55:54	]C24:i5.KING-06 has fired a toolgun with the name: creator
+[01:55:54	]C24:i5.KING-06 has spawned a 'NPC [6459][npc_zombie]'.
+[01:55:55	]C24:i5.KING-06 has fired a toolgun with the name: creator
+[01:55:55	]C24:i5.KING-06 has spawned a 'NPC [6459][npc_zombie]'.
+[01:55:58	][OOC] C24:i5.KING-06: Hey Tuki wanna know something cool
+[01:56:00	]C24:i5.KING-06 used command '/ToggleRaise'.
+[01:56:03	][OOC] Lih'Ih'Tahn: Wut
+[01:56:03	]C24:i5.KING-06 has critically hit npc_zombie in the chest dealing 10 damage (CritChance was 0.41).
+[01:56:03	]C24:i5.KING-06 has hit npc_zombie in the head dealing 10 damage (CritChance was 0.14).
+[01:56:03	]C24:i5.KING-06 has hit npc_zombie in the head dealing 10 damage (CritChance was 0.14).
+[01:56:03	]C24:i5.KING-06 has critically hit npc_zombie in the right arm dealing 7 damage (CritChance was 0.41).
+[01:56:04	]C24:i5.KING-06 has hit npc_zombie in the right arm dealing 4 damage (CritChance was 0.41).
+[01:56:04	]C24:i5.KING-06 has hit npc_zombie in the right arm dealing 4 damage (CritChance was 0.41).
+[01:56:04	]C24:i5.KING-06 has hit npc_zombie in the right arm dealing 4 damage (CritChance was 0.41).
+[01:56:04	]C24:i5.KING-06 has hit npc_zombie in the head dealing 10 damage (CritChance was 0.14).
+[01:56:04	]C24:i5.KING-06 has hit npc_zombie in the head dealing 10 damage (CritChance was 0.14).
+[01:56:04	]C24:i5.KING-06 has critically hit npc_zombie in the chest dealing 10 damage (CritChance was 0.41).
+[01:56:04	]C24:i5.KING-06 has critically hit npc_zombie in the chest dealing 10 damage (CritChance was 0.41).
+[01:56:05	]C24:i5.KING-06 has hit npc_zombie in the right arm dealing 4 damage (CritChance was 0.41).
+[01:56:05	]C24:i5.KING-06 has hit npc_zombie in the right arm dealing 4 damage (CritChance was 0.41).
+[01:56:05	]C24:i5.KING-06 has critically hit npc_zombie in the left arm dealing 7 damage (CritChance was 0.41).
+[01:56:05	]C24:i5.KING-06 has critically hit npc_zombie in the chest dealing 10 damage (CritChance was 0.41).
+[01:56:05	]C24:i5.KING-06 has critically hit npc_zombie in the chest dealing 10 damage (CritChance was 0.41).
+[01:56:06	]C24:i5.KING-06 has hit npc_zombie in the left arm dealing 4 damage (CritChance was 0.41).
+[01:56:08	]C24:i5.KING-06 has taken 5 damage from npc_headcrab.
+[01:56:08	]C24:i5.KING-06 has critically hit npc_headcrab dealing 8 damage (CritChance was 0.68).
+[01:56:08	]C24:i5.KING-06 has critically hit npc_headcrab dealing 8 damage (CritChance was 0.68).
+[01:56:08	]C24:i5.KING-06 has gained a '30rnd MP Magazine' #2693345.
+[01:56:08	]C24:i5.KING-06 has lost a '30rnd MP Magazine' #2693348.
+[01:56:12	]C24:i5.KING-06 is fully healed.
+[01:56:17	]Lih'Ih'Tahn has hit npc_zombie dealing 56 damage (CritChance was 0.00).
+[01:56:17	]Lih'Ih'Tahn has damaged npc_zombie, dealing 93.51734 with ix_hands
+[01:56:17	][OOC] C24:i5.KING-06: Botulism City and I are planning a Short-Story
+[01:56:18	]Sukk'Ma'Dicc exited observer at their location.
+[01:56:19	][VORT] Sukk'Ma'Dicc has damaged npc_headcrab, dealing 163.2 with vortbeam
+[01:56:22	][OOC] C24:i5.KING-06: Set in Africa
+[01:56:23	][OOC] Lih'Ih'Tahn: Ayo? fr?
+[01:56:29	][OOC] C24:i5.KING-06: Using Merlinsclaw's Central Africa Combine map
+[01:56:32	][OOC] C24:i5.KING-06: gm_lepointe
+[01:56:32	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the head dealing 22 damage (CritChance was 0.00).
+[01:56:32	]C24:i5.KING-06 has taken 22 damage from Lih'Ih'Tahn.
+[01:56:35	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the left arm dealing 1 damage (CritChance was 0.00).
+[01:56:35	]C24:i5.KING-06 has taken 1 damage from Lih'Ih'Tahn.
+[01:56:35	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the left arm dealing 1 damage (CritChance was 0.00).
+[01:56:35	]C24:i5.KING-06 has taken 1 damage from Lih'Ih'Tahn.
+[01:56:36	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the right arm dealing 1 damage (CritChance was 0.00).
+[01:56:36	]C24:i5.KING-06 has taken 1 damage from Lih'Ih'Tahn.
+[01:56:36	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the stomach dealing 7 damage (CritChance was 0.00).
+[01:56:36	]C24:i5.KING-06 has taken 7 damage from Lih'Ih'Tahn.
+[01:56:36	]C24:i5.KING-06 has critically hit Lih'Ih'Tahn dealing 8 damage (CritChance was 0.41).
+[01:56:36	]Lih'Ih'Tahn has taken 8 damage from C24:i5.KING-06.
+[01:56:36	]C24:i5.KING-06 has hit Lih'Ih'Tahn dealing 6 damage (CritChance was 0.41).
+[01:56:36	]Lih'Ih'Tahn has taken 6 damage from C24:i5.KING-06.
+[01:56:36	]C24:i5.KING-06 has hit Lih'Ih'Tahn dealing 6 damage (CritChance was 0.41).
+[01:56:36	]Lih'Ih'Tahn has taken 6 damage from C24:i5.KING-06.
+[01:56:36	]C24:i5.KING-06 has hit Lih'Ih'Tahn dealing 6 damage (CritChance was 0.41).
+[01:56:36	]Lih'Ih'Tahn has taken 6 damage from C24:i5.KING-06.
+[01:56:37	]C24:i5.KING-06 has critically hit Lih'Ih'Tahn dealing 8 damage (CritChance was 0.41).
+[01:56:37	]Lih'Ih'Tahn has taken 8 damage from C24:i5.KING-06.
+[01:56:37	]C24:i5.KING-06 has hit Lih'Ih'Tahn dealing 6 damage (CritChance was 0.41).
+[01:56:37	]Lih'Ih'Tahn has taken 6 damage from C24:i5.KING-06.
+[01:56:37	]C24:i5.KING-06 has hit Lih'Ih'Tahn dealing 6 damage (CritChance was 0.41).
+[01:56:37	]Lih'Ih'Tahn has taken 6 damage from C24:i5.KING-06.
+[01:56:37	]C24:i5.KING-06 has critically hit Lih'Ih'Tahn dealing 8 damage (CritChance was 0.41).
+[01:56:37	]Lih'Ih'Tahn has taken 8 damage from C24:i5.KING-06.
+[01:56:37	]C24:i5.KING-06 has critically hit Lih'Ih'Tahn dealing 8 damage (CritChance was 0.41).
+[01:56:37	]Lih'Ih'Tahn has taken 8 damage from C24:i5.KING-06.
+[01:56:37	]C24:i5.KING-06 is fully healed.
+[01:56:37	]C24:i5.KING-06 has hit Lih'Ih'Tahn dealing 6 damage (CritChance was 0.68).
+[01:56:37	]Lih'Ih'Tahn has taken 6 damage from C24:i5.KING-06.
+[01:56:37	]C24:i5.KING-06 has critically hit Lih'Ih'Tahn dealing 8 damage (CritChance was 0.68).
+[01:56:37	]Lih'Ih'Tahn has taken 8 damage from C24:i5.KING-06.
+[01:56:37	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the left leg dealing 1 damage (CritChance was 0.00).
+[01:56:37	]C24:i5.KING-06 has taken 1 damage from Lih'Ih'Tahn.
+[01:56:37	]C24:i5.KING-06 has hit Lih'Ih'Tahn dealing 6 damage (CritChance was 0.68).
+[01:56:37	]Lih'Ih'Tahn has taken 6 damage from C24:i5.KING-06.
+[01:56:37	]C24:i5.KING-06 has critically hit Lih'Ih'Tahn dealing 8 damage (CritChance was 0.68).
+[01:56:37	]Lih'Ih'Tahn has taken 8 damage from C24:i5.KING-06.
+[01:56:37	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the left arm dealing 1 damage (CritChance was 0.00).
+[01:56:37	]C24:i5.KING-06 has taken 1 damage from Lih'Ih'Tahn.
+[01:56:37	]C24:i5.KING-06 has hit Lih'Ih'Tahn dealing 6 damage (CritChance was 0.68).
+[01:56:37	]Lih'Ih'Tahn has taken 6 damage from C24:i5.KING-06.
+[01:56:37	]C24:i5.KING-06 has hit Lih'Ih'Tahn dealing 6 damage (CritChance was 0.68).
+[01:56:37	]Lih'Ih'Tahn has taken 6 damage from C24:i5.KING-06.
+[01:56:37	]C24:i5.KING-06 has hit Lih'Ih'Tahn dealing 6 damage (CritChance was 0.68).
+[01:56:37	]Lih'Ih'Tahn has taken 6 damage from C24:i5.KING-06.
+[01:56:37	]C24:i5.KING-06 has hit Lih'Ih'Tahn dealing 6 damage (CritChance was 0.68).
+[01:56:37	]Lih'Ih'Tahn has taken 6 damage from C24:i5.KING-06.
+[01:56:37	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the left arm dealing 1 damage (CritChance was 0.00).
+[01:56:37	]C24:i5.KING-06 has taken 1 damage from Lih'Ih'Tahn.
+[01:56:38	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the head dealing 22 damage (CritChance was 0.00).
+[01:56:38	]C24:i5.KING-06 has taken 22 damage from Lih'Ih'Tahn.
+[01:56:38	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the chest dealing 8 damage (CritChance was 0.00).
+[01:56:38	]C24:i5.KING-06 has taken 8 damage from Lih'Ih'Tahn.
+[01:56:38	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the left arm dealing 1 damage (CritChance was 0.00).
+[01:56:38	]C24:i5.KING-06 has taken 1 damage from Lih'Ih'Tahn.
+[01:56:38	]C24:i5.KING-06 has gained a '30rnd MP Magazine' #2693348.
+[01:56:38	]C24:i5.KING-06 has lost a '30rnd MP Magazine' #2693347.
+[01:56:38	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the head dealing 22 damage (CritChance was 0.00).
+[01:56:38	]C24:i5.KING-06 has taken 22 damage from Lih'Ih'Tahn.
+[01:56:42	]C24:i5.KING-06 is fully healed.
+[01:56:42	]Sukk'Ma'Dicc has hit Lih'Ih'Tahn dealing 97 damage (CritChance was 0.00).
+[01:56:42	]Lih'Ih'Tahn has taken 97 damage from Sukk'Ma'Dicc.
+[01:56:42	][VORT] Sukk'Ma'Dicc has damaged Lih'Ih'Tahn, dealing 163.2 with vortbeam
+[01:56:43	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the left arm dealing 1 damage (CritChance was 0.00).
+[01:56:43	]C24:i5.KING-06 has taken 1 damage from Lih'Ih'Tahn.
+[01:56:43	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the right leg dealing 1 damage (CritChance was 0.00).
+[01:56:43	]C24:i5.KING-06 has taken 1 damage from Lih'Ih'Tahn.
+[01:56:43	]C24:i5.KING-06 has critically hit Lih'Ih'Tahn dealing 8 damage (CritChance was 0.68).
+[01:56:43	]Lih'Ih'Tahn has taken 8 damage from C24:i5.KING-06.
+[01:56:43	]C24:i5.KING-06 has critically hit Lih'Ih'Tahn dealing 8 damage (CritChance was 0.68).
+[01:56:43	]Lih'Ih'Tahn has taken 8 damage from C24:i5.KING-06.
+[01:56:43	]C24:i5.KING-06 has hit Lih'Ih'Tahn dealing 6 damage (CritChance was 0.68).
+[01:56:43	]Lih'Ih'Tahn has taken 6 damage from C24:i5.KING-06.
+[01:56:43	]C24:i5.KING-06 has critically hit Lih'Ih'Tahn dealing 8 damage (CritChance was 0.68).
+[01:56:43	]Lih'Ih'Tahn has taken 8 damage from C24:i5.KING-06.
+[01:56:43	]C24:i5.KING-06 has critically hit Lih'Ih'Tahn dealing 8 damage (CritChance was 0.68).
+[01:56:43	]Lih'Ih'Tahn has taken 8 damage from C24:i5.KING-06.
+[01:56:43	]C24:i5.KING-06 has hit Lih'Ih'Tahn dealing 6 damage (CritChance was 0.68).
+[01:56:43	]Lih'Ih'Tahn has taken 6 damage from C24:i5.KING-06.
+[01:56:43	]C24:i5.KING-06 has hit Lih'Ih'Tahn dealing 6 damage (CritChance was 0.68).
+[01:56:43	]Lih'Ih'Tahn has taken 6 damage from C24:i5.KING-06.
+[01:56:43	]C24:i5.KING-06 has critically hit Lih'Ih'Tahn dealing 8 damage (CritChance was 0.68).
+[01:56:43	]Lih'Ih'Tahn has taken 8 damage from C24:i5.KING-06.
+[01:56:43	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the chest dealing 8 damage (CritChance was 0.00).
+[01:56:43	]C24:i5.KING-06 has taken 8 damage from Lih'Ih'Tahn.
+[01:56:43	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the chest dealing 8 damage (CritChance was 0.00).
+[01:56:43	]C24:i5.KING-06 has taken 8 damage from Lih'Ih'Tahn.
+[01:56:44	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the left arm dealing 1 damage (CritChance was 0.00).
+[01:56:44	]C24:i5.KING-06 has taken 1 damage from Lih'Ih'Tahn.
+[01:56:44	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the head dealing 22 damage (CritChance was 0.00).
+[01:56:44	]C24:i5.KING-06 has taken 22 damage from Lih'Ih'Tahn.
+[01:56:44	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the chest dealing 8 damage (CritChance was 0.00).
+[01:56:44	]C24:i5.KING-06 has taken 8 damage from Lih'Ih'Tahn.
+[01:56:44	]Lih'Ih'Tahn has hit Sukk'Ma'Dicc dealing 6 damage (CritChance was 0.00).
+[01:56:44	]Sukk'Ma'Dicc has taken 6 damage from Lih'Ih'Tahn.
+[01:56:44	]Lih'Ih'Tahn has hit Sukk'Ma'Dicc dealing 6 damage (CritChance was 0.00).
+[01:56:44	]Sukk'Ma'Dicc has taken 6 damage from Lih'Ih'Tahn.
+[01:56:44	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the left arm dealing 1 damage (CritChance was 0.00).
+[01:56:44	]C24:i5.KING-06 has taken 1 damage from Lih'Ih'Tahn.
+[01:56:45	]Sukk'Ma'Dicc has hit Lih'Ih'Tahn dealing 97 damage (CritChance was 0.00).
+[01:56:45	]Lih'Ih'Tahn has taken 97 damage from Sukk'Ma'Dicc.
+[01:56:45	][VORT] Sukk'Ma'Dicc has damaged Lih'Ih'Tahn, dealing 163.2 with vortbeam
+[01:56:51	]Sukk'Ma'Dicc has hit Lih'Ih'Tahn dealing 97 damage (CritChance was 0.00).
+[01:56:51	]Lih'Ih'Tahn has taken 97 damage from Sukk'Ma'Dicc.
+[01:56:51	][VORT] Sukk'Ma'Dicc has damaged Lih'Ih'Tahn, dealing 163.2 with vortbeam
+[01:56:55	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the left arm dealing 54 damage (CritChance was 0.00).
+[01:56:55	]C24:i5.KING-06 has taken 54 damage from Lih'Ih'Tahn.
+[01:56:55	][VORT] Lih'Ih'Tahn has damaged C24:i5.KING-06, dealing 137.19 with vortbeam
+[01:56:57	]C24:i5.KING-06 ran 'combine' on item '30rnd MP Magazine' (#2693348)
+[01:56:57	]C24:i5.KING-06 ran 'combine' on item '30rnd MP Magazine' (#2693345)
+[01:56:58	]C24:i5.KING-06 ran 'combine' on item '30rnd MP Magazine' (#2693346)
+[01:56:59	]Lih'Ih'Tahn has hit C24:i5.KING-06 in the left arm dealing 54 damage (CritChance was 0.00).
+[01:56:59	]C24:i5.KING-06 has gained a '30rnd MP Magazine' #2693347.
+[01:56:59	]C24:i5.KING-06 was knocked unconscious and is bleeding out.
+[01:56:59	][VORT] Lih'Ih'Tahn has damaged C24:i5.KING-06, dealing 137.19 with vortbeam
+[01:57:04	][OOC] C24:i5.KING-06: ran out of ammo mid-fight
+[01:57:18	]Lih'Ih'Tahn has hit Sukk'Ma'Dicc dealing 82 damage (CritChance was 0.00).
+[01:57:18	]Sukk'Ma'Dicc has taken 82 damage from Lih'Ih'Tahn.
+[01:57:18	][VORT] Lih'Ih'Tahn has damaged Sukk'Ma'Dicc, dealing 137.19 with vortbeam
+[01:57:20	]Sukk'Ma'Dicc used command '/AddVortalEnergy ^ 100'.
+[01:57:29	][OOC] C24:i5.KING-06: anyway yeah we're gonna make an Africa-themed event
+[01:57:29	]Sukk'Ma'Dicc has hit Lih'Ih'Tahn dealing 97 damage (CritChance was 0.00).
+[01:57:29	]Lih'Ih'Tahn was knocked unconscious and is bleeding out.
+[01:57:29	][VORT] Sukk'Ma'Dicc has damaged Lih'Ih'Tahn, dealing 163.2 with vortbeam
+[01:57:35	]Lih'Ih'Tahn is fully healed.
+[01:57:37	]Lih'Ih'Tahn has hit Sukk'Ma'Dicc dealing 86 damage (CritChance was 0.00).
+[01:57:37	]Sukk'Ma'Dicc has taken 86 damage from Lih'Ih'Tahn.
+[01:57:38	]Lih'Ih'Tahn has hit Sukk'Ma'Dicc dealing 56 damage (CritChance was 0.00).
+[01:57:38	]Sukk'Ma'Dicc has taken 56 damage from Lih'Ih'Tahn.
+[01:57:38	]Lih'Ih'Tahn has hit Sukk'Ma'Dicc dealing 56 damage (CritChance was 0.00).
+[01:57:38	]Sukk'Ma'Dicc has taken 56 damage from Lih'Ih'Tahn.
+[01:57:39	]Lih'Ih'Tahn has hit Sukk'Ma'Dicc dealing 56 damage (CritChance was 0.00).
+[01:57:39	]Sukk'Ma'Dicc has taken 56 damage from Lih'Ih'Tahn.
+[01:57:40	]Lih'Ih'Tahn has hit Sukk'Ma'Dicc dealing 56 damage (CritChance was 0.00).
+[01:57:40	]Sukk'Ma'Dicc has taken 56 damage from Lih'Ih'Tahn.
+[01:57:41	][OOC] C24:i5.KING-06: It's set in a labor outpost, not a whole city
+[01:57:47	]Sukk'Ma'Dicc has hit Lih'Ih'Tahn dealing 86 damage (CritChance was 0.00).
+[01:57:47	]Lih'Ih'Tahn has taken 86 damage from Sukk'Ma'Dicc.
+[01:57:48	]Lih'Ih'Tahn used command '/SetVortalEnergy lih 100'.
+[01:57:48	]C24:i5.KING-06 used command '/ToggleRaise'.
+[01:57:49	]Lih'Ih'Tahn entered observer.
+[01:57:52	]C24:i5.KING-06 is fully healed.
+[01:57:53	]C24:i5.KING-06 has lost a '30rnd MP Magazine' #2693348.
+[01:57:54	]Sukk'Ma'Dicc entered observer.
+[01:57:55	]Lih'Ih'Tahn is fully healed.
+[01:57:55	]Lih'Ih'Tahn exited observer at their location.
+[01:58:03	][OOC] C24:i5.KING-06: Have you seen rp_lepointe?
+[01:58:05	][OOC] C24:i5.KING-06: it's a good map
+[01:58:07	][OOC] Sukk'Ma'Dicc: How about you give your own faction some content...
+[01:58:09	][OOC] Lih'Ih'Tahn: I think, yeah
+[01:58:15	][OOC] C24:i5.KING-06: WHAT CAN I DO WHEN DENUKE ISNT AROUND
+[01:58:22	][OOC] Lih'Ih'Tahn: DO IT EITHER WAY BRO
+[01:58:24	]Sukk'Ma'Dicc exited observer at their location.
+[01:58:25	][OOC] Lih'Ih'Tahn: FUCK DENUKE
+[01:58:28	][OOC] Lih'Ih'Tahn: DAMN AUSSIE
+[01:58:31	]Lih'Ih'Tahn has hit Sukk'Ma'Dicc dealing 86 damage (CritChance was 0.00).
+[01:58:31	]Sukk'Ma'Dicc has taken 86 damage from Lih'Ih'Tahn.
+[01:58:32	]Sukk'Ma'Dicc used command '/VortSetConterminous ^ true'.
+[01:58:34	]Sukk'Ma'Dicc has set conterminous state for Sukk'Ma'Dicc to true
+[01:58:34	][OOC] C24:i5.KING-06: okay so all i have on my docket is the Xen stuff
+[01:58:42	][OOC] Sukk'Ma'Dicc: Lemme test smth
+[01:58:45	][OOC] C24:i5.KING-06: But aside from that like, Seekers don't do anything because no one wants to run an expo
+[01:58:46	][OOC] Lih'Ih'Tahn: Melon
+[01:58:49	][OOC] C24:i5.KING-06: For vorts, anyway
+[01:58:56	]Sukk'Ma'Dicc set ConterminusHealingIncrease to '10'.
+[01:59:02	][OOC] Lih'Ih'Tahn: Why dont u run an expo of us going to like, south america to find the Puppet
+[01:59:04	]Sukk'Ma'Dicc has given himself a disinfectant_bottle.
+[01:59:04	]Sukk'Ma'Dicc has gained a 'Bottle of Disinfectant' #2693354.
+[01:59:04	][OOC] C24:i5.KING-06: And Seekers don't have the numbers to, since DeNuke keeps making so many shit decisions ICly it's making every vort hate us
+[01:59:14	][OOC] Lih'Ih'Tahn: FR FR FR
+[01:59:20	]Sukk'Ma'Dicc ran 'use' on item 'Bottle of Disinfectant' (#2693354)
+[01:59:20	]Sukk'Ma'Dicc has performed the 'Use Bottle of Disinfectant' action, gaining 4 experience in medicine.
+[01:59:20	]Sukk'Ma'Dicc was disinfected by Sukk'Ma'Dicc for 49 seconds.
+[01:59:21	]Sukk'Ma'Dicc ran 'use' on item 'Bottle of Disinfectant' (#2693354)
+[01:59:21	]Sukk'Ma'Dicc was disinfected by Sukk'Ma'Dicc for 49 seconds.
+[01:59:22	]Sukk'Ma'Dicc ran 'use' on item 'Bottle of Disinfectant' (#2693354)
+[01:59:22	]Sukk'Ma'Dicc was disinfected by Sukk'Ma'Dicc for 49 seconds.
+[01:59:22	]Sukk'Ma'Dicc ran 'use' on item 'Bottle of Disinfectant' (#2693354)
+[01:59:22	]Sukk'Ma'Dicc was disinfected by Sukk'Ma'Dicc for 49 seconds.
+[01:59:22	]Sukk'Ma'Dicc ran 'use' on item 'Bottle of Disinfectant' (#2693354)
+[01:59:22	]Sukk'Ma'Dicc was disinfected by Sukk'Ma'Dicc for 49 seconds.
+[01:59:23	]Sukk'Ma'Dicc ran 'use' on item 'Bottle of Disinfectant' (#2693354)
+[01:59:23	]Sukk'Ma'Dicc was disinfected by Sukk'Ma'Dicc for 49 seconds.
+[01:59:23	]Sukk'Ma'Dicc has gained a 'Plastic garbage' #2693355.
+[01:59:33	][OOC] C24:i5.KING-06: TUKI HAVE YOU SEEN THE MAP WE'LL BE GOING TO
+[01:59:35	][OOC] C24:i5.KING-06: speaking of
+[01:59:39	][OOC] C24:i5.KING-06: Not Leviathan Valley, the other one
+[01:59:43	][OOC] Lih'Ih'Tahn: The transitionary map or the uh, city
+[01:59:47	][OOC] C24:i5.KING-06: the city
+[01:59:49	][OOC] Sukk'Ma'Dicc: if we're going to asia ICly btw we're visiting the death-site of Qha
+[01:59:51	][OOC] Lih'Ih'Tahn: no
+[01:59:58	][OOC] Lih'Ih'Tahn: OMG YES
+[02:00:01	][OOC] C24:i5.KING-06: im friends with you on steam right
+[02:00:02	][OOC] Lih'Ih'Tahn: MELON DO AN EXPO OF THAT
+[02:00:07	][OOC] Lih'Ih'Tahn: And yes, u are
+[02:00:08	][OOC] C24:i5.KING-06: THAT'S WHAT WE'LL DO
+[02:00:14	][OOC] Lih'Ih'Tahn: EXPO TO THE DEATH SITE OF QHA
+[02:00:16	][OOC] C24:i5.KING-06: WE HAVE TO GO TO THE COOL XENIAN SPOT IN WWEST CHINA
+[02:00:19	][OOC] Lih'Ih'Tahn: QHA IS OUR VORT DADDY
+[02:00:22	][OOC] C24:i5.KING-06: THE COOL XENIAN SPOT IN WEST CHINA
+[02:00:26	][OOC] Lih'Ih'Tahn: YESSS
+[02:00:31	][OOC] Lih'Ih'Tahn: But fr tho, melon
+[02:00:37	][OOC] Lih'Ih'Tahn: How can we bring Qha back to life
+[02:00:38	][OOC] C24:i5.KING-06: yes
+[02:00:39	]Sukk'Ma'Dicc used command '/CharGetHealing ^'.
+[02:00:51	]Sukk'Ma'Dicc has gained level 20 in the Medicine skill.
+[02:00:51	]Sukk'Ma'Dicc used command '/CharSkillSet ^ medicine 20'.
+[02:00:54	]Sukk'Ma'Dicc has given himself a disinfectant_bottle.
+[02:00:54	]Sukk'Ma'Dicc has gained a 'Bottle of Disinfectant' #2693356.
+[02:00:54	][OOC] C24:i5.KING-06: Idk, I don't know if it's possible unless you have a braindead vortigaunt body that isn't horribly mutilated
+[02:00:56	][OOC] Lih'Ih'Tahn: Can we like, suck Grendel's energy and spawn him again?
+[02:00:57	]Sukk'Ma'Dicc ran 'use' on item 'Bottle of Disinfectant' (#2693356)
+[02:00:57	]Sukk'Ma'Dicc has performed the 'Use Bottle of Disinfectant' action, gaining 4 experience in medicine.
+[02:00:57	]Sukk'Ma'Dicc was disinfected by Sukk'Ma'Dicc for 136 seconds.
+[02:00:57	]Sukk'Ma'Dicc ran 'use' on item 'Bottle of Disinfectant' (#2693356)
+[02:00:57	]Sukk'Ma'Dicc was disinfected by Sukk'Ma'Dicc for 136 seconds.
+[02:00:58	]Sukk'Ma'Dicc ran 'use' on item 'Bottle of Disinfectant' (#2693356)
+[02:00:58	]Sukk'Ma'Dicc was disinfected by Sukk'Ma'Dicc for 136 seconds.
+[02:00:58	][OOC] C24:i5.KING-06: If you find one?
+[02:00:59	]Sukk'Ma'Dicc ran 'use' on item 'Bottle of Disinfectant' (#2693356)
+[02:00:59	]Sukk'Ma'Dicc has performed the 'Use Bottle of Disinfectant' action, gaining 4 experience in medicine.
+[02:00:59	]Sukk'Ma'Dicc was disinfected by Sukk'Ma'Dicc for 136 seconds.
+[02:01:00	]Sukk'Ma'Dicc ran 'use' on item 'Bottle of Disinfectant' (#2693356)
+[02:01:00	]Sukk'Ma'Dicc was disinfected by Sukk'Ma'Dicc for 136 seconds.
+[02:01:01	]Sukk'Ma'Dicc ran 'use' on item 'Bottle of Disinfectant' (#2693356)
+[02:01:01	]Sukk'Ma'Dicc was disinfected by Sukk'Ma'Dicc for 136 seconds.
+[02:01:01	]Sukk'Ma'Dicc has gained a 'Plastic garbage' #2693357.
+[02:01:01	][OOC] C24:i5.KING-06: I'll play him
+[02:01:03	]Sukk'Ma'Dicc used command '/CharGetHealing ^'.
+[02:01:05	][OOC] Lih'Ih'Tahn: YAAAAAAY
+[02:01:07	]Sukk'Ma'Dicc used command '/CharGetHealing ^'.
+[02:01:08	]Sukk'Ma'Dicc used command '/CharGetHealing ^'.
+[02:01:09	]Sukk'Ma'Dicc used command '/CharGetHealing ^'.
+[02:01:10	][OOC] C24:i5.KING-06: Because I'm *tired* of playing Turr
+[02:01:20	][OOC] C24:i5.KING-06: I had this conclusion earlier with Tuki, Asimo, but Turr isn't a character. Straight up.
+[02:01:24	][OOC] Lih'Ih'Tahn: I'll be honest, i'm about to make grendel braindead and spawn him there
+[02:01:36	][OOC] C24:i5.KING-06: He's been remade so many times that he has no agency, or goals, or anything
+[02:01:40	][OOC] Lih'Ih'Tahn: Get on vc btw, rad's HQ
+[02:01:44	][OOC] Sukk'Ma'Dicc: Well if you peace out I'm going conterminous on Tohto
+[02:01:50	][OOC] Lih'Ih'Tahn: Get on vc btw, rad's HQ
+[02:01:50	][OOC] C24:i5.KING-06: yea that's fine
+[02:01:59	][OOC] C24:i5.KING-06: Idk what'll even happen - if you want you can try to brain-death Turr
+[02:01:59	][OOC] Lih'Ih'Tahn: NOOO DONT MAKE TOHTO A COTERMICUCK
+[02:02:01	][OOC] C24:i5.KING-06: It'll be funny
+[02:02:11	][LOOC] Lih'Ih'Tahn: Omg, ik what u can do
+[02:02:25	][OOC] Lih'Ih'Tahn: Say that Turr already did his deed and just allow us to braindead u
+[02:02:25	][OOC] C24:i5.KING-06: Tuki, the only reason you hate coterminous vorts is because DeNuke tried to force Stanford to become one and you all got defensive
+[02:02:31	][OOC] Lih'Ih'Tahn: Yeah
+[02:02:37	][OOC] C24:i5.KING-06: Don't even try, if it didn't happen you would want to be coterminous too
+[02:02:39	]C24:i5.KING-06 has critically hit Lih'Ih'Tahn dealing 8 damage (CritChance was 0.68).
+[02:02:39	]Lih'Ih'Tahn has taken 8 damage from C24:i5.KING-06.
+[02:02:42	]C24:i5.KING-06 used command '/ToggleRaise'.
+[02:02:44	][OOC] Lih'Ih'Tahn: Maybe
+[02:02:45	][OOC] Sukk'Ma'Dicc: Tuki, ICly, I know that if we want balance, and the Vortigaunt not to start looking at us as savages, we need to communicate with the vortal collective.
+[02:03:07	][OOC] Lih'Ih'Tahn: Asimo get on rad HQ
+[02:03:16	][OOC] Sukk'Ma'Dicc: Can't speak
+[02:03:17	][OOC] Sukk'Ma'Dicc: 2 am
+[02:03:28	][OOC] Sukk'Ma'Dicc: City 3
+[02:03:35	]MelonHeadzzz (STEAM_0:1:128800129) has disconnected.
+[02:03:40	]Tuki (STEAM_0:0:147382627) has disconnected.
+[02:03:55	][OOC] Sukk'Ma'Dicc: Basically
+[02:04:04	][OOC] Sukk'Ma'Dicc: Vortmelee is gonna go nuts
+[02:04:21	]Furret No Furry Asimo (STEAM_0:0:58605803) has disconnected.
+[13:25:50	]Stanford has connected.
+[13:27:18	]Stanford loaded the character 'Vas'Kradili'
+[13:27:23	]Vas'Kradili is fully healed.
+[13:27:34	]Vas'Kradili entered observer.
+[13:27:35	]Vas'Kradili exited observer at their location.
+[13:27:48	]Vas'Kradili has spawned a 'NPC [6418][npc_monk]'.
+[13:27:50	][VORT] Vas'Kradili has damaged npc_monk, dealing 163.2 with vortbeam
+[13:27:52	][VORT] Vas'Kradili has damaged npc_monk, dealing 163.2 with vortbeam
+[13:28:01	][VORT] Vas'Kradili has damaged npc_monk, dealing 163.2 with vortbeam
+[13:28:03	][VORT] Vas'Kradili has damaged npc_monk, dealing 163.2 with vortbeam
+[13:28:04	][VORT] Vas'Kradili has damaged npc_monk, dealing 163.2 with vortbeam
+[13:28:18	][VORT] Vas'Kradili has damaged npc_monk, dealing 163.2 with vortbeam
+[13:28:27	]Vas'Kradili used command '/SetVortalEnergy vas 100'.
+[13:28:32	]Vas'Kradili has spawned a 'NPC [6418][npc_vj_civil_protection_z]'.
+[13:28:34	][VORT] Vas'Kradili has damaged npc_vj_civil_protection_z, dealing 163.2 with vortbeam
+[13:28:36	][VORT] Vas'Kradili has damaged npc_manhack, dealing 163.2 with vortbeam
+[13:28:50	]Vas'Kradili has spawned a 'NPC [6419][npc_vj_rollermine_explosive_z]'.
+[13:28:51	]Vas'Kradili has taken 30 damage from Explosive Rollermine.
+[13:28:51	][VORT] Vas'Kradili has damaged npc_vj_rollermine_explosive_z, dealing 163.2 with vortbeam
+[13:28:55	]Vas'Kradili has spawned a 'NPC [6419][npc_vj_mini_strider_synth_z]'.
+[13:28:57	]Vas'Kradili has taken 6 damage from Mini Strider Synth.
+[13:28:57	]Vas'Kradili has taken 6 damage from Mini Strider Synth.
+[13:28:57	]Vas'Kradili has taken 6 damage from Mini Strider Synth.
+[13:28:57	]Vas'Kradili has taken 6 damage from Mini Strider Synth.
+[13:28:58	]Vas'Kradili has taken 6 damage from Mini Strider Synth.
+[13:28:58	]Vas'Kradili has taken 6 damage from Mini Strider Synth.
+[13:28:58	]Vas'Kradili has taken 6 damage from Mini Strider Synth.
+[13:28:58	]Vas'Kradili has taken 6 damage from Mini Strider Synth.
+[13:28:58	]Vas'Kradili has taken 6 damage from Mini Strider Synth.
+[13:28:58	]Vas'Kradili has taken 6 damage from Mini Strider Synth.
+[13:28:59	]Vas'Kradili has taken 6 damage from Mini Strider Synth.
+[13:29:02	][VORT] Vas'Kradili has damaged npc_vj_mini_strider_synth_z, dealing 163.2 with vortbeam
+[13:29:02	]Vas'Kradili has taken 6 damage from Mini Strider Synth.
+[13:29:02	]Vas'Kradili has taken 6 damage from Mini Strider Synth.
+[13:29:02	]Vas'Kradili has taken 6 damage from Mini Strider Synth.
+[13:29:03	]Vas'Kradili has taken 6 damage from Mini Strider Synth.
+[13:29:03	]Vas'Kradili has taken 6 damage from Mini Strider Synth.
+[13:29:03	]Vas'Kradili has taken 6 damage from Mini Strider Synth.
+[13:29:03	]Vas'Kradili has taken 6 damage from Mini Strider Synth.
+[13:29:03	]Vas'Kradili has taken 6 damage from Mini Strider Synth.
+[13:29:03	]Vas'Kradili has taken 6 damage from Mini Strider Synth.
+[13:29:11	]Vas'Kradili has spawned a 'NPC [6418][npc_vj_hunter2_z]'.
+[13:29:13	][VORT] Vas'Kradili has damaged npc_vj_hunter2_z, dealing 163.2 with vortbeam
+[13:29:13	]Vas'Kradili is fully healed.
+[13:29:17	][VORT] Vas'Kradili has damaged npc_vj_hunter2_z, dealing 163.2 with vortbeam
+[13:29:22	][VORT] Vas'Kradili has damaged npc_vj_hunter2_z, dealing 163.2 with vortbeam
+[13:29:28	]Vas'Kradili has spawned a 'NPC [6418][npc_vj_gunship2_z]'.
+[13:29:31	]Vas'Kradili has spawned a 'NPC [6418][npc_vj_stalker_z]'.
+[13:29:32	]Vas'Kradili has taken 2 damage from Combine Stalker.
+[13:29:32	]Vas'Kradili has taken 2 damage from Combine Stalker.
+[13:29:32	]Vas'Kradili has taken 2 damage from Combine Stalker.
+[13:29:32	]Vas'Kradili has taken 2 damage from Combine Stalker.
+[13:29:33	]Vas'Kradili has taken 2 damage from Combine Stalker.
+[13:29:33	]Vas'Kradili has taken 2 damage from Combine Stalker.
+[13:29:33	]Vas'Kradili has taken 2 damage from Combine Stalker.
+[13:29:34	]Vas'Kradili has taken 2 damage from Combine Stalker.
+[13:29:34	][VORT] Vas'Kradili has damaged npc_vj_stalker_z, dealing 163.2 with vortbeam
+[13:29:51	]Vas'Kradili ran 'Write' on item 'Paper' (#1544645)
+[13:30:07	]Stanford (STEAM_0:1:41852222) has disconnected.
+[23:30:01	]TRL has connected.
+[23:30:57	]TRL loaded the character 'Kirill Zapada'
+[23:30:57	]Kirill Zapada has hit Kirill Zapada dealing 1 damage (CritChance was 0.00).
+[23:30:57	]Kirill Zapada was knocked unconscious and is bleeding out.
+[23:31:11	]Kirill Zapada used command '/CharGetUp'.
+[23:31:12	]Kirill Zapada used command '/CharGetUp'.
+[23:31:13	]Kirill Zapada used command '/CharGetUp'.
+[23:31:13	]Kirill Zapada used command '/CharGetUp'.
+[23:31:14	]Kirill Zapada used command '/CharGetUp'.
+[23:31:18	]TRL has unloaded their "Kirill Zapada" character.
+[23:31:21	]TRL loaded the character 'Izia Castellanos'
+[23:31:47	]Izia Castellanos ran 'Write' on item 'Book' (#2520104)
+[23:33:26	]TRL has unloaded their "Izia Castellanos" character.
+[23:33:26	]TRL has unloaded their "TRL" character.
+[23:33:30	]TRL loaded the character 'Bob Good'
+[23:33:57	]Bob Good opened the 'Trash Bin' #118333 container.
+[23:33:57	]Bob Good closed the 'Trash Bin' #118333 container.
+[23:34:25	]Bob Good is fully healed.
+[23:35:16	]Divine has connected.
+[23:36:28	]Bob Good opened the 'Rusty Cabinet' #126299 container.
+[23:36:31	]Bob Good closed the 'Rusty Cabinet' #126299 container.
+[23:36:33	]Bob Good opened the 'Gray Cabinet' #125654 container.
+[23:36:37	]Bob Good ran 'EquipUn' on item 'AKSU' (#2690718)
+[23:36:38	]Bob Good has transferred a 'AKSU' #2690718 to a container with the name 'Gray Cabinet' #125654.
+[23:36:38	]Bob Good has transferred a 'M16A2' #2690315 to a container with the name 'Gray Cabinet' #125654.
+[23:36:39	]Bob Good closed the 'Gray Cabinet' #125654 container.
+[23:36:47	]Bob Good opened the 'Locked Armory' #129125 container.
+[23:36:50	]Bob Good closed the 'Locked Armory' #129125 container.
+[23:36:54	]Bob Good opened the 'Locked Armory' #123137 container.
+[23:36:57	]Bob Good closed the 'Locked Armory' #123137 container.
+[23:37:13	]Divine (STEAM_0:0:63629212) deleted character 'C17:RCT.YELLO-87'
+[23:37:34	]Bob Good ran 'take' on item 'Black Shoes' (#2693312)
+[23:37:34	]Bob Good has gained a 'Black Shoes' #2693312.
+[23:38:30	]Bob Good has gained level 30 in the Speed skill.
+[23:43:08	]Bob Good has acquired his ration, gaining 0 credits, 0 wages and a civil_protection_ration ration.
+[23:43:25	]Bob Good ran 'take' on item 'Civil Protection Ration' (#2693358)
+[23:43:25	]Bob Good has gained a 'Civil Protection Ration' #2693358.
+[23:43:28	]Bob Good ran 'Open' on item 'Civil Protection Ration' (#2693358)
+[23:43:28	]Bob Good has gained a 'Metropolice Supplements' #2693359.
+[23:43:28	]Bob Good has gained a 'Soda Bob Brawn' #2693360.
+[23:43:28	]Bob Good has gained a '20 Credits Coupon' #2693361.
+[23:44:23	]Bob Good ran 'Use' on item '20 Credits Coupon' (#2693361)
+[23:44:25	]Bob Good has used a coupon at a ration dispenser, gaining 20 credits.
+[23:44:25	]Bob Good ran 'Use' on item '15 Credits Coupon' (#2613349)
+[23:44:26	]Bob Good ran 'Use' on item '15 Credits Coupon' (#2613349)
+[23:44:29	]Bob Good ran 'Use' on item '15 Credits Coupon' (#2613349)
+[23:44:31	]Bob Good has used a coupon at a ration dispenser, gaining 15 credits.
+[23:45:08	]Bob Good has gained level 31 in the Speed skill.
+[23:45:33	]Divine created the character 'minge test character #​8921392'
+[23:45:33	]Divine loaded the character 'minge test character #​8921392'
+[23:46:13	][OOC] minge test character #​8921392: what the spruce
+[23:46:21	]minge test character #​8921392 used command '/ToggleRaise'.
+[23:46:59	]Bob Good ran 'combine' on item 'Box of Nails' (#2690507)
+[23:47:05	]Divine (STEAM_0:0:63629212) has disconnected.
+[23:50:07	]Bob Good has taken 21 damage from worldspawn.
+[23:50:52	]Bob Good has taken 14 damage from worldspawn.
+[23:50:54	]Bob Good has gained level 32 in the Speed skill.
+[23:51:24	]Bob Good opened the 'Dumpster' #102563 container.
+[23:51:30	]Bob Good closed the 'Dumpster' #102563 container.
+[23:51:36	]TRL has unloaded their "Bob Good" character.
+[23:51:39	]TRL loaded the character 'Izia Castellanos'

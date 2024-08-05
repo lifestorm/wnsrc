@@ -1,0 +1,20 @@
+{
+	"maps/gm_flatgrass/concrete/concretefloor028a_0_-31_-12736": "Concrete",
+	"tools/toolsskybox": "None",
+	"maps/gm_flatgrass/concrete/concretefloor028c_0_-1439_-12736": "Concrete",
+	"Initialized": 1.0,
+	"brick/brickwall003a_construct": "Concrete",
+	"concrete/concreteceiling003a": "None",
+	"brick/brickwall053d": "Concrete",
+	"tools/toolsskybox2d": "None",
+	"maps/gm_flatgrass/concrete/concretefloor028c_0_-991_-12736": "Concrete",
+	"maps/gm_flatgrass/concrete/concretefloor028a_0_96_-12032": "Concrete",
+	"maps/gm_flatgrass/concrete/concretefloor028c_0_96_-12032": "Concrete",
+	"maps/gm_flatgrass/concrete/concretefloor028c_0_1312_-12736": "Concrete",
+	"maps/gm_flatgrass/concrete/concretefloor028c_0_-543_-12736": "Concrete",
+	"gm_construct/citycard01": "None",
+	"gm_construct/flatgrass": "None",
+	"gm_construct/flatsign": "None",
+	"maps/gm_flatgrass/concrete/concretefloor028c_0_480_-12736": "Concrete",
+	"maps/gm_flatgrass/concrete/concretefloor028c_0_992_-12736": "Concrete"
+}

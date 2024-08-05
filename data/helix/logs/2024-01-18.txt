@@ -1,0 +1,1847 @@
+[20:55:20	]M!NT has connected.
+[20:56:15	]M!NT created the character 'test'
+[20:56:16	]test has gained a 'Suitcase' #2587.
+[20:56:16	]test has gained a 'Flashlight' #2588.
+[20:56:16	]test has gained a 'Light Grey Armband' #2589.
+[20:56:16	]test has gained a '#29813's Identity Card' #2590.
+[20:56:16	]M!NT loaded the character 'test'
+[20:56:42	]test has spawned a musicradio_reb.
+[20:56:47	]test entered observer.
+[20:56:47	]test exited observer at their location.
+[20:56:53	]test used command '/PlyGiveAllFlags test'.
+[20:56:58	]test ran 'Deploy' on item 'Rebel Radio' (#2591)
+[20:57:14	]test entered observer.
+[20:57:20	]Amazon BMD has connected.
+[20:57:42	]Rabithunter has connected.
+[20:58:16	]Rabithunter loaded the character 'asdasdas'
+[20:58:22	]test exited observer at their location.
+[20:58:30	]Amazon BMD created the character 'Teddy Bear'
+[20:58:30	]Amazon BMD loaded the character 'Teddy Bear'
+[20:58:30	]Teddy Bear has gained a 'Suitcase' #2592.
+[20:58:30	]Teddy Bear has gained a 'Flashlight' #2593.
+[20:58:30	]Teddy Bear has gained a 'Light Grey Armband' #2594.
+[20:58:30	]Teddy Bear has gained a '#30534's Identity Card' #2595.
+[20:58:37	][LOOC] Teddy Bear: Hi
+[20:59:03	]test used command '/ActCheer'.
+[20:59:35	]Teddy Bear used command '/PlyWhitelist Teddy workers'.
+[20:59:39	]Teddy Bear used command '/PlyWhitelist Teddy medical'.
+[20:59:46	]Teddy Bear used command '/PlyTransfer Teddy Workers'.
+[21:00:00	]Teddy Bear has given himself a request_device.
+[21:00:00	]Teddy Bear has gained a 'Request Device' #2596.
+[21:00:05	]Teddy Bear ran 'drop' on item 'Request Device' (#2596)
+[21:00:05	]Teddy Bear has lost a 'Request Device' #2596.
+[21:00:07	]asdasdas ran 'take' on item 'Request Device' (#2596)
+[21:00:07	]asdasdas has gained a 'Request Device' #2596.
+[21:00:15	]asdasdas ran 'drop' on item 'Biopaste' (#1072)
+[21:00:15	]asdasdas has lost a 'Biopaste' #1072.
+[21:00:16	]asdasdas ran 'drop' on item 'Biopaste' (#963)
+[21:00:16	]asdasdas has lost a 'Biopaste' #963.
+[21:00:22	]asdasdas used command '/CreateCid asd'.
+[21:00:22	]asdasdas has gained a '#22713's Identity Card' #2597.
+[21:00:25	]asdasdas ran 'Bind' on item 'Request Device' (#2596)
+[21:00:28	]asdasdas ran 'Bind' on item 'Request Device' (#2596)
+[21:00:33	]asdasdas ran 'Bind' on item 'Request Device' (#2596)
+[21:00:44	]asdasdas ran 'drop' on item 'Biopaste' (#1044)
+[21:00:44	]asdasdas has lost a 'Biopaste' #1044.
+[21:00:45	]Teddy Bear has given himself a request_device.
+[21:00:45	]Teddy Bear has gained a 'Request Device' #2598.
+[21:00:45	]asdasdas ran 'drop' on item 'Biopaste' (#959)
+[21:00:45	]asdasdas has lost a 'Biopaste' #959.
+[21:00:46	]asdasdas ran 'drop' on item 'Biopaste' (#999)
+[21:00:46	]asdasdas has lost a 'Biopaste' #999.
+[21:00:46	]Teddy Bear ran 'Bind' on item 'Request Device' (#2598)
+[21:00:48	]asdasdas ran 'Bind' on item 'Request Device' (#2596)
+[21:00:51	]Teddy Bear ran 'drop' on item 'Request Device' (#2598)
+[21:00:51	]Teddy Bear has lost a 'Request Device' #2598.
+[21:00:53	]Teddy Bear ran 'take' on item 'Request Device' (#2598)
+[21:00:53	]Teddy Bear has gained a 'Request Device' #2598.
+[21:01:03	]Teddy Bear ran 'Bind' on item 'Request Device' (#2598)
+[21:01:05	]Teddy Bear ran 'Bind' on item 'Request Device' (#2598)
+[21:01:06	]Teddy Bear ran 'Bind' on item 'Request Device' (#2598)
+[21:01:16	]asdasdas entered observer.
+[21:01:17	]asdasdas exited observer at their location.
+[21:01:33	]asdasdas used command '/DarwinAward teddy'.
+[21:02:21	]test entered observer.
+[21:02:22	]test exited observer at their location.
+[21:03:14	]test entered observer.
+[21:03:31	]test exited observer at their location.
+[21:03:32	]test entered observer.
+[21:03:47	]test exited observer at their location.
+[21:04:17	]test has used a context menu option with the name: remove
+[21:04:20	]test has spawned a musicradio_cmb.
+[21:04:21	]test ran 'Deploy' on item 'Benefactor Radio' (#2599)
+[21:06:11	]asdasdas used command '/MusicRadioChannelSeek Jazz'.
+[21:06:46	]asdasdas has used a context menu option with the name: collision_off
+[21:06:57	]test entered observer.
+[21:07:12	]test exited observer at their location.
+[21:07:19	]test entered observer.
+[21:07:23	]test exited observer at their location.
+[21:07:30	]Teddy Bear has gone afk.
+[21:08:00	]Teddy Bear is no longer afk. Total time spent AFK: 325
+[21:08:17	]asdasdas has taken 12 damage from Teddy Bear.
+[21:08:42	]asdasdas was knocked unconscious and is bleeding out.
+[21:08:49	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:08:49	]asdasdas has taken 18 damage from Teddy Bear.
+[21:08:54	]test has spawned a musicradio_cmb.
+[21:08:58	]test ran 'Deploy' on item 'Benefactor Radio' (#2600)
+[21:09:03	]test has spawned a tuner_reb.
+[21:09:11	]asdasdas ran 'take' on item 'Resistance Radio Tuner' (#2601)
+[21:09:11	]asdasdas has gained a 'Resistance Radio Tuner' #2601.
+[21:09:17	]asdasdas ran 'install' on item 'Resistance Radio Tuner' (#2601)
+[21:09:27	]test used command '/MusicRadioChannelSeek Classical'.
+[21:09:36	]test has spawned a tuner_reb.
+[21:09:39	]asdasdas ran 'take' on item 'Resistance Radio Tuner' (#2602)
+[21:09:39	]asdasdas has gained a 'Resistance Radio Tuner' #2602.
+[21:09:40	]test entered observer.
+[21:09:41	]test exited observer at their location.
+[21:09:54	]asdasdas has gained level 40 in the Crafting skill.
+[21:09:54	]test used command '/CharSkillAdd asd crafting 40'.
+[21:09:59	]asdasdas ran 'install' on item 'Resistance Radio Tuner' (#2602)
+[21:10:28	]test entered observer.
+[21:10:32	]test exited observer at their location.
+[21:10:50	]asdasdas used command '/ActStand 1'.
+[21:10:51	]asdasdas used command '/ExitAct'.
+[21:10:54	]asdasdas used command '/ActStand 2'.
+[21:10:59	]asdasdas used command '/ExitAct'.
+[21:11:02	]Teddy Bear has taken 27 damage from Teddy Bear.
+[21:11:02	]test was knocked unconscious and is bleeding out.
+[21:11:02	]asdasdas was knocked unconscious and is bleeding out.
+[21:11:02	]Teddy Bear destroyed a 'Biopaste' #1072.
+[21:11:03	]Teddy Bear has taken 50 damage from Teddy Bear.
+[21:11:03	]Teddy Bear has taken 14 damage from Teddy Bear.
+[21:11:05	]test used command '/CharGetUp'.
+[21:11:08	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:11:09	]test ran SAM command 'hp' with arguments: 'test' '100'
+[21:11:10	]asdasdas is fully healed.
+[21:11:11	]test is no longer unconscious from critical wounds.
+[21:11:11	]test is fully healed.
+[21:11:12	]test used command '/CharStopBleedout test'.
+[21:11:14	][IC] Teddy Bear: Hi.
+[21:11:16	]test has spawned a musicradio_cmb.
+[21:11:17	]asdasdas used command '/DarwinAward teddy'.
+[21:11:21	]test ran 'Deploy' on item 'Benefactor Radio' (#2603)
+[21:11:25	]asdasdas has taken 37 damage from Teddy Bear.
+[21:11:30	]asdasdas entered observer.
+[21:11:30	]test has gained a 'Rebel Radio' #2604.
+[21:11:30	]asdasdas exited observer at their location.
+[21:11:39	]test was knocked unconscious and is bleeding out.
+[21:11:44	]test ran SAM command 'slay' with arguments: 'test'
+[21:11:45	]asdasdas has spawned a 'Entity [260][gmod_sent_vehicle_fphysics_base]'.
+[21:11:47	]asdasdas has spawned a 'Entity [247][gmod_sent_vehicle_fphysics_base]'.
+[21:11:53	]test entered observer.
+[21:11:58	]test exited observer at their location.
+[21:12:08	]test has taken 30 damage from asdasdas.
+[21:12:08	]test has taken 30 damage from asdasdas.
+[21:12:09	]test has taken 30 damage from asdasdas.
+[21:12:09	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:12:09	]test was knocked unconscious and is bleeding out.
+[21:12:14	]test ran SAM command 'slay' with arguments: 'test'
+[21:12:25	]test ran 'drop' on item 'Rebel Radio' (#2604)
+[21:12:25	]test has lost a 'Rebel Radio' #2604.
+[21:12:25	]Teddy Bear was just killed due to: accepting their death
+[21:12:28	]asdasdas ran 'take' on item 'Rebel Radio' (#2604)
+[21:12:31	]asdasdas ran 'take' on item 'Rebel Radio' (#2604)
+[21:12:34	]Teddy Bear has spawned a 'Entity [250][lvs_vehicle_air_refil]'.
+[21:12:34	]asdasdas ran 'drop' on item 'Biopaste' (#1003)
+[21:12:34	]asdasdas has lost a 'Biopaste' #1003.
+[21:12:35	]asdasdas ran 'drop' on item 'Brown Jumpsuit' (#488)
+[21:12:35	]asdasdas has lost a 'Brown Jumpsuit' #488.
+[21:12:36	]asdasdas ran 'drop' on item 'Biopaste' (#983)
+[21:12:36	]asdasdas has lost a 'Biopaste' #983.
+[21:12:36	]asdasdas ran 'drop' on item 'Biopaste' (#971)
+[21:12:36	]asdasdas has lost a 'Biopaste' #971.
+[21:12:37	]asdasdas ran 'drop' on item 'Biopaste' (#967)
+[21:12:37	]asdasdas has lost a 'Biopaste' #967.
+[21:12:37	]asdasdas ran 'drop' on item 'Biopaste' (#955)
+[21:12:37	]asdasdas has lost a 'Biopaste' #955.
+[21:12:38	]asdasdas ran 'drop' on item 'Biopaste' (#943)
+[21:12:38	]asdasdas has lost a 'Biopaste' #943.
+[21:12:39	]asdasdas ran 'drop' on item 'Resin' (#2413)
+[21:12:39	]asdasdas has lost a 'Resin' #2413.
+[21:12:39	]asdasdas ran 'drop' on item 'Resin' (#2401)
+[21:12:39	]asdasdas has lost a 'Resin' #2401.
+[21:12:40	]asdasdas ran 'drop' on item 'Resin' (#2377)
+[21:12:40	]asdasdas has lost a 'Resin' #2377.
+[21:12:40	]asdasdas ran 'drop' on item 'Resin' (#2353)
+[21:12:40	]asdasdas has lost a 'Resin' #2353.
+[21:12:41	]asdasdas ran 'drop' on item 'Resin' (#2381)
+[21:12:41	]asdasdas has lost a 'Resin' #2381.
+[21:12:41	]asdasdas ran 'drop' on item 'Resin' (#2373)
+[21:12:41	]asdasdas has lost a 'Resin' #2373.
+[21:12:42	]asdasdas ran 'drop' on item 'Resin' (#2405)
+[21:12:42	]asdasdas has lost a 'Resin' #2405.
+[21:12:42	]asdasdas ran 'drop' on item 'Resin' (#2365)
+[21:12:42	]asdasdas has lost a 'Resin' #2365.
+[21:12:43	]asdasdas ran 'drop' on item 'Water Bucket' (#2532)
+[21:12:43	]asdasdas has lost a 'Water Bucket' #2532.
+[21:12:44	]asdasdas ran 'drop' on item 'CWU Management Access Keycard' (#2525)
+[21:12:44	]asdasdas has lost a 'CWU Management Access Keycard' #2525.
+[21:12:47	]asdasdas ran 'take' on item 'Rebel Radio' (#2604)
+[21:12:47	]asdasdas has gained a 'Rebel Radio' #2604.
+[21:12:54	]Teddy Bear has spawned a 'Entity [262][gmod_sent_vehicle_fphysics_base]'.
+[21:12:55	]asdasdas ran 'Deploy' on item 'Rebel Radio' (#2604)
+[21:12:56	]test has spawned a musicradio_cmb.
+[21:13:18	]asdasdas has fired a toolgun with the name: creator
+[21:13:18	]asdasdas has spawned a 'Weapon [289][weapon_rpg]'.
+[21:13:18	]asdasdas has fired a toolgun with the name: creator
+[21:13:18	]asdasdas has spawned a 'Weapon [330][weapon_rpg]'.
+[21:13:18	]asdasdas has fired a toolgun with the name: creator
+[21:13:18	]asdasdas has spawned a 'Weapon [331][weapon_rpg]'.
+[21:13:18	]asdasdas has fired a toolgun with the name: creator
+[21:13:18	]asdasdas has spawned a 'Weapon [332][weapon_rpg]'.
+[21:13:19	]asdasdas has fired a toolgun with the name: creator
+[21:13:19	]asdasdas has spawned a 'Weapon [333][weapon_rpg]'.
+[21:13:19	]asdasdas has fired a toolgun with the name: creator
+[21:13:19	]asdasdas has spawned a 'Weapon [334][weapon_rpg]'.
+[21:13:19	]asdasdas has fired a toolgun with the name: creator
+[21:13:19	]asdasdas has spawned a 'Weapon [335][weapon_rpg]'.
+[21:13:19	]asdasdas has fired a toolgun with the name: creator
+[21:13:19	]asdasdas has spawned a 'Weapon [336][weapon_rpg]'.
+[21:13:26	]asdasdas used command '/ToggleRaise'.
+[21:13:30	]asdasdas destroyed a 'Biopaste' #943.
+[21:13:30	]asdasdas destroyed a 'Biopaste' #955.
+[21:13:45	]test was knocked unconscious and is bleeding out.
+[21:13:45	]asdasdas destroyed a 'Biopaste' #967.
+[21:13:45	]asdasdas destroyed a 'Biopaste' #983.
+[21:13:45	]asdasdas destroyed a 'Resin' #2381.
+[21:13:45	]asdasdas destroyed a 'Resin' #2413.
+[21:13:45	]asdasdas destroyed a 'Resin' #2373.
+[21:13:48	]test ran SAM command 'slay' with arguments: 'test'
+[21:13:51	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:13:57	]Teddy Bear ran SAM command 'slay' with arguments: '^'
+[21:13:59	]Teddy Bear entered observer.
+[21:14:07	]test has spawned a musicradio_cmb.
+[21:14:11	]test ran 'Deploy' on item 'Benefactor Radio' (#2606)
+[21:14:13	]Teddy Bear has spawned a 'Entity [280][gmod_sent_vehicle_fphysics_base]'.
+[21:14:15	]Teddy Bear exited observer at their location.
+[21:15:19	]asdasdas used command '/ToggleRaise'.
+[21:15:22	]test entered observer.
+[21:15:27	]test exited observer at their location.
+[21:15:39	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:15:44	]Teddy Bear ran SAM command 'slay' with arguments: '^'
+[21:15:46	]Teddy Bear entered observer.
+[21:16:02	]asdasdas entered observer.
+[21:16:04	]asdasdas exited observer at their location.
+[21:16:08	]asdasdas entered observer.
+[21:16:09	]asdasdas exited observer at their location.
+[21:16:12	]asdasdas entered observer.
+[21:16:12	]asdasdas exited observer at their location.
+[21:16:19	]Teddy Bear has spawned a 'Entity [262][gmod_sent_vehicle_fphysics_base]'.
+[21:16:21	]Teddy Bear exited observer at their location.
+[21:16:22	]asdasdas has spawned a 'Entity [322][gmod_sent_vehicle_fphysics_base]'.
+[21:16:59	]asdasdas was knocked unconscious and is bleeding out.
+[21:17:04	]asdasdas used command '/CharGetUp'.
+[21:17:08	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:17:12	]asdasdas entered observer.
+[21:17:14	]asdasdas exited observer at their location.
+[21:17:17	]asdasdas has spawned a 'Entity [244][gmod_sent_vehicle_fphysics_base]'.
+[21:17:18	]asdasdas has spawned a 'Entity [282][gmod_sent_vehicle_fphysics_base]'.
+[21:17:34	]gmod_sent_vehicle_fphysics_base destroyed a 'Resin' #2405.
+[21:17:47	]asdasdas was knocked unconscious and is bleeding out.
+[21:17:50	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:17:52	]asdasdas entered observer.
+[21:17:58	]asdasdas exited observer at their location.
+[21:18:03	]asdasdas has spawned a 'Entity [245][gmod_sent_vehicle_fphysics_base]'.
+[21:18:31	]asdasdas was knocked unconscious and is bleeding out.
+[21:18:34	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:18:36	]asdasdas entered observer.
+[21:18:43	]asdasdas exited observer at their location.
+[21:18:45	]asdasdas has spawned a 'Entity [244][gmod_sent_vehicle_fphysics_base]'.
+[21:18:45	]test has spawned a 'Entity [347][lvs_vehicle_spammer]'.
+[21:18:54	]asdasdas was knocked unconscious and is bleeding out.
+[21:18:57	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:19:01	]asdasdas entered observer.
+[21:19:21	]test has spawned a 'Entity [245][gmod_sent_vehicle_fphysics_base]'.
+[21:19:29	]asdasdas has spawned a 'Entity [324][gmod_sent_vehicle_fphysics_base]'.
+[21:19:32	]asdasdas exited observer at their location.
+[21:19:33	]asdasdas entered observer.
+[21:19:33	]asdasdas exited observer at their location.
+[21:19:47	]asdasdas has spawned a 'Entity [324][gmod_sent_vehicle_fphysics_base]'.
+[21:19:51	]asdasdas has spawned a 'Entity [324][gmod_sent_vehicle_fphysics_base]'.
+[21:19:54	]asdasdas has spawned a 'Entity [324][gmod_sent_vehicle_fphysics_base]'.
+[21:20:05	]asdasdas has spawned a 'Entity [324][gmod_sent_vehicle_fphysics_base]'.
+[21:20:08	]asdasdas has spawned a 'Entity [324][gmod_sent_vehicle_fphysics_base]'.
+[21:20:12	]asdasdas has spawned a 'Entity [324][gmod_sent_vehicle_fphysics_base]'.
+[21:20:35	]test has spawned a 'Entity [353][gmod_sent_vehicle_fphysics_base]'.
+[21:20:52	]asdasdas was knocked unconscious and is bleeding out.
+[21:20:56	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:20:56	]asdasdas is no longer unconscious from critical wounds.
+[21:20:58	]asdasdas entered observer.
+[21:21:54	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:21:58	]test entered observer.
+[21:21:59	]Teddy Bear ran SAM command 'slay' with arguments: '^'
+[21:22:01	]Teddy Bear entered observer.
+[21:22:06	]test exited observer at their location.
+[21:22:09	]test has spawned a 'Entity [270][gmod_sent_vehicle_fphysics_base]'.
+[21:22:09	]test was knocked unconscious and is bleeding out.
+[21:22:12	]Teddy Bear has spawned a 'Entity [264][gmod_sent_vehicle_fphysics_base]'.
+[21:22:14	]test ran SAM command 'respawn' with arguments: 'test'
+[21:22:16	]test is fully healed.
+[21:22:16	]Teddy Bear has spawned a 'Entity [261][gmod_sent_vehicle_fphysics_base]'.
+[21:22:16	]test entered observer.
+[21:22:19	]Teddy Bear has spawned a 'Entity [270][gmod_sent_vehicle_fphysics_base]'.
+[21:22:20	]test exited observer at their location.
+[21:22:21	]Teddy Bear has spawned a 'Entity [424][gmod_sent_vehicle_fphysics_base]'.
+[21:22:23	]Teddy Bear has spawned a 'Entity [463][gmod_sent_vehicle_fphysics_base]'.
+[21:22:24	]Teddy Bear has spawned a 'Entity [502][gmod_sent_vehicle_fphysics_base]'.
+[21:22:27	]Teddy Bear has spawned a 'Entity [340][gmod_sent_vehicle_fphysics_base]'.
+[21:22:29	]Teddy Bear has spawned a 'Entity [575][gmod_sent_vehicle_fphysics_base]'.
+[21:22:31	]Teddy Bear exited observer at their location.
+[21:22:36	]Teddy Bear entered observer.
+[21:22:38	]Teddy Bear exited observer at their location.
+[21:22:41	]Teddy Bear has used a context menu option with the name: rb655_vehicle_enter
+[21:22:52	]Teddy Bear has spawned a 'Entity [261][gmod_sent_vehicle_fphysics_base]'.
+[21:23:15	]Teddy Bear entered observer.
+[21:23:25	]Teddy Bear has spawned a 'Entity [261][gmod_sent_vehicle_fphysics_base]'.
+[21:23:28	]Teddy Bear has spawned a 'Entity [316][gmod_sent_vehicle_fphysics_base]'.
+[21:23:34	]Teddy Bear has spawned a 'Entity [348][gmod_sent_vehicle_fphysics_base]'.
+[21:23:39	]Teddy Bear has spawned a 'Entity [348][gmod_sent_vehicle_fphysics_base]'.
+[21:24:01	]test entered observer.
+[21:24:03	]test exited observer at their location.
+[21:24:16	]Teddy Bear exited observer at their location.
+[21:24:21	]test entered observer.
+[21:24:24	]test exited observer at their location.
+[21:24:25	]test entered observer.
+[21:24:25	]test exited observer at their location.
+[21:24:26	]test entered observer.
+[21:24:27	]test exited observer at their location.
+[21:25:03	]Teddy Bear has spawned a musicradio_reb.
+[21:25:06	]Teddy Bear ran 'Deploy' on item 'Rebel Radio' (#2607)
+[21:25:24	]Teddy Bear entered observer.
+[21:25:25	]Teddy Bear exited observer at their location.
+[21:26:42	]Teddy Bear has used a context menu option with the name: remove
+[21:26:45	]Teddy Bear has spawned a musicradio_cmb.
+[21:26:48	]Teddy Bear ran 'Deploy' on item 'Benefactor Radio' (#2608)
+[21:27:15	]asdasdas has gone afk.
+[21:27:49	]ulterior has connected.
+[21:28:14	]ulterior loaded the character 'the one'
+[21:28:16	]the one has taken 146 damage from worldspawn.
+[21:28:19	]the one is fully healed.
+[21:28:20	]Teddy Bear has spawned a 'NPC [271][npc_vj_hlr1_apache]'.
+[21:28:21	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:28:24	]Teddy Bear ran SAM command 'slay' with arguments: '^'
+[21:28:26	]Teddy Bear entered observer.
+[21:28:28	][IC] test: Bitch.
+[21:28:30	][IC] test: Bitch.
+[21:28:32	]Teddy Bear has spawned a 'NPC [244][npc_vj_hlrof_assassin_osprey]'.
+[21:28:36	]test has taken 7 damage from Black Ops Male Assassin.
+[21:28:44	]Teddy Bear has spawned a 'NPC [244][npc_vj_hlr1_alienslave]'.
+[21:28:47	]Teddy Bear exited observer at their location.
+[21:28:48	]Teddy Bear entered observer.
+[21:28:49	]Teddy Bear exited observer at their location.
+[21:28:51	]Teddy Bear has taken 20 damage from Alien Slave.
+[21:28:53	]Teddy Bear entered observer.
+[21:28:57	]Teddy Bear has used a context menu option with the name: vj_pr_npc_gib
+[21:29:03	]Teddy Bear has spawned a 'NPC [244][npc_vj_hlr1a_scientist]'.
+[21:29:07	]Teddy Bear exited observer at their location.
+[21:29:19	]the one entered observer.
+[21:29:19	]the one exited observer at their location.
+[21:29:21	]the one entered observer.
+[21:29:21	][IC] test: Bitch.
+[21:29:27	]Teddy Bear has used a context menu option with the name: vj_pr_npc_gib
+[21:29:29	]asdasdas exited observer at their location.
+[21:29:30	]asdasdas is no longer afk. Total time spent AFK: 430
+[21:29:34	]the one used command '/PlyGiveAllFlags ^'.
+[21:29:42	]the one exited observer at their location.
+[21:29:46	]the one has fired a toolgun with the name: sh_textadd
+[21:29:47	]the one has removed their last 3D text.
+[21:29:53	]Teddy Bear has spawned a 'NPC [280][npc_vj_hlrdc_keller]'.
+[21:29:55	]asdasdas entered observer.
+[21:29:58	]asdasdas exited observer at their location.
+[21:29:58	]asdasdas entered observer.
+[21:29:59	]asdasdas exited observer at their location.
+[21:30:02	]Teddy Bear has used a context menu option with the name: vj_pr_npc_gib
+[21:30:03	]test has used a context menu option with the name: vj_pr_npc_gib
+[21:30:15	]asdasdas used command '/CreateCustomItem'.
+[21:30:18	]Teddy Bear entered observer.
+[21:30:18	]test has spawned 'models/props_c17/FurnitureCouch002a.mdl'.
+[21:30:20	]Teddy Bear has spawned a 'NPC [296][npc_vj_hlr1_m1a1abrams]'.
+[21:30:21	]Teddy Bear has spawned a 'NPC [332][npc_vj_hlr1_m1a1abrams]'.
+[21:30:21	]Teddy Bear has spawned a 'NPC [335][npc_vj_hlr1_m1a1abrams]'.
+[21:30:22	]Teddy Bear has spawned a 'NPC [337][npc_vj_hlr1_m1a1abrams]'.
+[21:30:22	]Teddy Bear has spawned a 'NPC [339][npc_vj_hlr1_m1a1abrams]'.
+[21:30:22	]Teddy Bear has spawned a 'NPC [293][npc_vj_hlr1_m1a1abrams]'.
+[21:30:22	]test has spawned 'models/props_c17/FurnitureDrawer001a.mdl'.
+[21:30:27	]test has spawned 'models/props_c17/FurnitureDrawer001a.mdl'.
+[21:30:27	]the one entered observer.
+[21:30:28	]the one exited observer at their location.
+[21:30:29	]asdasdas has taken 10 damage from test.
+[21:30:29	]asdasdas has taken 5 damage from test.
+[21:30:30	]the one entered observer.
+[21:30:30	]the one exited observer at their location.
+[21:30:30	]test has spawned 'models/props_c17/FurnitureDrawer001a.mdl'.
+[21:30:31	]asdasdas has taken 5 damage from test.
+[21:30:31	]asdasdas was knocked unconscious and is bleeding out.
+[21:30:42	]test has spawned 'models/props_c17/fence03a.mdl'.
+[21:30:44	]test has spawned 'models/props_c17/canister02a.mdl'.
+[21:30:45	]test entered observer.
+[21:30:47	]test exited observer at their location.
+[21:30:47	]Teddy Bear exited observer at their location.
+[21:30:51	]asdasdas has gained a 'PRANKED' #2609.
+[21:30:53	]test has taken 10 damage from Teddy Bear.
+[21:30:55	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:30:56	]asdasdas entered observer.
+[21:31:00	]asdasdas exited observer at their location.
+[21:31:03	]test has spawned 'models/props_lab/monitor01a.mdl'.
+[21:31:05	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:31:08	]Teddy Bear ran SAM command 'slay' with arguments: '^'
+[21:31:08	]asdasdas has given himself a Rabit_test.
+[21:31:09	]asdasdas has gained a 'A surprise Item' #2610.
+[21:31:12	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:31:14	]asdasdas was knocked unconscious and is bleeding out.
+[21:31:19	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:31:20	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:31:22	]asdasdas has spawned a 'Entity [307][ix_customvendingmachine]'.
+[21:31:25	]asdasdas ran 'take' on item 'Vending Machine Key' (#2612)
+[21:31:25	]asdasdas has gained a 'Vending Machine Key' #2612.
+[21:31:25	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:31:26	]asdasdas ran 'take' on item 'Vending Machine Key' (#2611)
+[21:31:26	]asdasdas has gained a 'Vending Machine Key' #2611.
+[21:31:27	]asdasdas ran 'take' on item 'Vending Machine Key' (#2613)
+[21:31:27	]asdasdas has gained a 'Vending Machine Key' #2613.
+[21:31:28	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:31:29	]the one has used a context menu option with the name: skin
+[21:31:30	]Teddy Bear ran SAM command 'slay' with arguments: '^'
+[21:31:30	]the one has used a context menu option with the name: skin
+[21:31:31	]asdasdas ran 'Insert' on item 'Vending Machine Key' (#2613)
+[21:31:32	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:31:38	]asdasdas has transferred a 'A surprise Item' #2610 to a container with the name 'Vending Machine' #190.
+[21:31:41	]asdasdas ran 'Insert' on item 'Vending Machine Key' (#2613)
+[21:31:46	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:31:47	]asdasdas ran 'Insert' on item 'Vending Machine Key' (#2612)
+[21:31:49	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:31:54	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:31:58	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:31:58	]asdasdas ran 'Insert' on item 'Vending Machine Key' (#2613)
+[21:32:03	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:32:07	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:32:11	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:32:15	]the one has given himself a musicradio_cmb.
+[21:32:16	]the one has given himself a musicradio_reb.
+[21:32:17	]asdasdas has spawned 'models/props_wasteland/cargo_container01b.mdl'.
+[21:32:17	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:32:19	]the one ran 'use' on item 'RPG Missile' (#588)
+[21:32:21	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:32:22	]the one ran 'SetCredits' on item '#25529's Identity Card' (#539)
+[21:32:25	]Teddy Bear has taken 10 damage from asdasdas.
+[21:32:25	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:32:29	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:32:29	]the one ran 'Equip' on item 'Suitcase' (#536)
+[21:32:30	]the one ran 'EquipUn' on item 'Suitcase' (#536)
+[21:32:32	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:32:32	]Teddy Bear ran SAM command 'slay' with arguments: '^'
+[21:32:34	]asdasdas was knocked unconscious and is bleeding out.
+[21:32:34	]Teddy Bear entered observer.
+[21:32:35	]the one ran 'drop' on item 'SG556' (#558)
+[21:32:35	]the one has lost a 'SG556' #558.
+[21:32:36	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:32:37	]asdasdas entered observer.
+[21:32:39	]the one has given himself a musicradio_reb.
+[21:32:39	]the one has gained a 'Rebel Radio' #2614.
+[21:32:39	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:32:40	]asdasdas exited observer at their location.
+[21:32:42	]Teddy Bear used command '/PlyGiveAllFlags teddy'.
+[21:32:42	]the one has given himself a tuner_reb.
+[21:32:42	]the one has gained a 'Resistance Radio Tuner' #2615.
+[21:32:43	]Teddy Bear exited observer at their location.
+[21:32:43	]asdasdas was knocked unconscious and is bleeding out.
+[21:32:43	]the one ran 'Deploy' on item 'Rebel Radio' (#2614)
+[21:32:44	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:32:45	]asdasdas entered observer.
+[21:32:47	]asdasdas exited observer at their location.
+[21:32:50	]test was knocked unconscious and is bleeding out.
+[21:32:52	]the one ran 'install' on item 'Resistance Radio Tuner' (#2615)
+[21:32:53	]Teddy Bear has spawned 'models/props_c17/consolebox01a.mdl'.
+[21:32:56	]Teddy Bear has spawned 'models/props_c17/consolebox01a.mdl'.
+[21:32:57	]test ran SAM command 'respawn' with arguments: 'test'
+[21:32:58	]Teddy Bear has spawned 'models/props_c17/consolebox01a.mdl'.
+[21:32:58	]test entered observer.
+[21:32:58	]test exited observer at their location.
+[21:32:59	]asdasdas has taken 50 damage from Teddy Bear.
+[21:32:59	]test entered observer.
+[21:32:59	]test exited observer at their location.
+[21:33:00	]Teddy Bear has spawned 'models/props_c17/consolebox01a.mdl'.
+[21:33:01	]asdasdas has taken 10 damage from Teddy Bear.
+[21:33:01	]asdasdas was knocked unconscious and is bleeding out.
+[21:33:03	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:33:07	]test has used a context menu option with the name: remove
+[21:33:07	]Teddy Bear has spawned 'models/props_interiors/VendingMachineSoda01a_door.mdl'.
+[21:33:10	]Teddy Bear has spawned 'models/props_interiors/VendingMachineSoda01a_door.mdl'.
+[21:33:13	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:33:14	]asdasdas entered observer.
+[21:33:15	]Teddy Bear has spawned 'models/props_interiors/VendingMachineSoda01a_door.mdl'.
+[21:33:16	]test was knocked unconscious and is bleeding out.
+[21:33:19	]asdasdas has fired a toolgun with the name: creator
+[21:33:19	]asdasdas has spawned a 'Weapon [334][weapon_physcannon]'.
+[21:33:20	]Teddy Bear has spawned 'models/props_interiors/VendingMachineSoda01a_door.mdl'.
+[21:33:21	]test ran SAM command 'respawn' with arguments: 'test'
+[21:33:23	]asdasdas exited observer at their location.
+[21:33:23	]test has spawned 'models/props_lab/bewaredog.mdl'.
+[21:33:24	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:33:25	]test was knocked unconscious and is bleeding out.
+[21:33:27	]test ran SAM command 'respawn' with arguments: 'test'
+[21:33:27	]Teddy Bear has spawned 'models/props_interiors/VendingMachineSoda01a_door.mdl'.
+[21:33:29	]asdasdas was knocked unconscious and is bleeding out.
+[21:33:33	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:33:36	]the one ran 'take' on item 'SG556' (#558)
+[21:33:36	]the one has gained a 'SG556' #558.
+[21:33:36	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:33:36	]Teddy Bear used command '/PlyGiveAllFlags teddy'.
+[21:33:38	]Teddy Bear ran SAM command 'slay' with arguments: '^'
+[21:33:46	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:33:47	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:33:48	]Teddy Bear ran SAM command 'slay' with arguments: '^'
+[21:33:50	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:33:50	]asdasdas entered observer.
+[21:33:52	]Teddy Bear entered observer.
+[21:33:56	]Teddy Bear exited observer at their location.
+[21:33:59	]asdasdas used command '/PlaySound event/battle-music/drivefaster.ogg'.
+[21:34:00	]test was knocked unconscious and is bleeding out.
+[21:34:02	]test ran SAM command 'respawn' with arguments: 'test'
+[21:34:03	]asdasdas exited observer at their location.
+[21:34:04	]the one entered observer.
+[21:34:04	]test entered observer.
+[21:34:05	]the one exited observer at their location.
+[21:34:06	]asdasdas used command '/ToggleRaise'.
+[21:34:07	]test exited observer at their location.
+[21:34:07	]the one entered observer.
+[21:34:07	]the one exited observer at their location.
+[21:34:08	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:34:11	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:34:12	]asdasdas has spawned 'models/props_junk/MetalBucket01a.mdl'.
+[21:34:13	]asdasdas was knocked unconscious and is bleeding out.
+[21:34:15	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:34:16	]asdasdas used command '/PlaySound event/battle-music/drivefaster.ogg'.
+[21:34:21	]Teddy Bear has spawned 'models/props_combine/combine_intmonitor001.mdl'.
+[21:34:22	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:34:23	]reece has connected.
+[21:34:24	]asdasdas ran SAM command 'stopsound' with arguments: ''
+[21:34:26	]Teddy Bear has spawned 'models/props_combine/combine_intmonitor001.mdl'.
+[21:34:29	]asdasdas used command '/PlaySound event/battle-music/drivefaster.ogg'.
+[21:34:30	]test has taken 20 damage from Teddy Bear.
+[21:34:31	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:34:32	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:34:33	]asdasdas entered observer.
+[21:34:33	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:34:35	]asdasdas exited observer at their location.
+[21:34:37	]asdasdas used command '/ToggleRaise'.
+[21:34:40	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:34:40	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:34:42	]test has taken 5 damage from Teddy Bear.
+[21:34:42	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:34:43	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:34:45	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:34:48	]Teddy Bear ran SAM command 'slay' with arguments: '^'
+[21:34:49	]Teddy Bear entered observer.
+[21:34:51	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:34:54	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:34:55	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:34:56	]Teddy Bear has spawned 'models/props_interiors/VendingMachineSoda01a_door.mdl'.
+[21:34:57	]Teddy Bear exited observer at their location.
+[21:34:59	]reece loaded the character 'fwafgawawf'
+[21:35:00	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:35:01	]Teddy Bear has spawned 'models/props_interiors/VendingMachineSoda01a_door.mdl'.
+[21:35:01	]fwafgawawf has taken 500 damage from asdasdas.
+[21:35:01	]fwafgawawf has taken 100 damage from asdasdas.
+[21:35:02	]fwafgawawf has taken 10 damage from Teddy Bear.
+[21:35:02	]fwafgawawf has taken 20 damage from Teddy Bear.
+[21:35:03	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:35:05	]Teddy Bear has spawned 'models/props_interiors/VendingMachineSoda01a_door.mdl'.
+[21:35:07	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:35:08	]test has spawned 'models/props_lab/harddrive01.mdl'.
+[21:35:10	]fwafgawawf has taken 100 damage from test.
+[21:35:10	]fwafgawawf has taken 10 damage from test.
+[21:35:11	]Teddy Bear has spawned 'models/props_interiors/VendingMachineSoda01a_door.mdl'.
+[21:35:13	]test was knocked unconscious and is bleeding out.
+[21:35:13	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:35:13	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:35:15	]fwafgawawf entered observer.
+[21:35:15	]test ran SAM command 'respawn' with arguments: 'test'
+[21:35:15	]Teddy Bear has taken 10 damage from asdasdas.
+[21:35:16	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:35:18	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:35:21	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:35:22	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:35:24	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:35:25	]Teddy Bear has taken 50 damage from test.
+[21:35:25	]Teddy Bear has taken 10 damage from test.
+[21:35:27	]test has spawned 'models/props_lab/chess.mdl'.
+[21:35:27	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:35:28	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:35:29	]the one used command '/PlaySound event/horror/bloodstarved.ogg 150'.
+[21:35:30	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:35:32	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:35:34	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:35:34	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:35:36	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:35:37	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:35:38	]the one entered observer.
+[21:35:38	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:35:39	]test was knocked unconscious and is bleeding out.
+[21:35:41	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:35:41	]test ran SAM command 'respawn' with arguments: 'test'
+[21:35:44	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:35:47	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:35:49	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:35:53	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:35:54	]fwafgawawf exited observer at their location.
+[21:35:54	]the one used command '/PlaySoundGlobal event/horror/thedevilhimself.ogg 1'.
+[21:35:55	]fwafgawawf has spawned a musicradio_reb.
+[21:35:56	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:35:59	]fwafgawawf ran 'Deploy' on item 'Rebel Radio' (#2616)
+[21:36:00	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:36:04	]asdasdas has taken 10 damage from Teddy Bear.
+[21:36:04	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:36:05	]the one used command '/StopSong'.
+[21:36:05	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:36:06	]asdasdas has taken 50 damage from test.
+[21:36:07	]Teddy Bear has spawned 'models/props_interiors/VendingMachineSoda01a_door.mdl'.
+[21:36:07	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:36:08	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:36:09	]asdasdas was knocked unconscious and is bleeding out.
+[21:36:11	]test has spawned 'models/props_lab/hevplate.mdl'.
+[21:36:12	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:36:14	]asdasdas used command '/ToggleRaise'.
+[21:36:14	]the one used command '/PlaySound event/faf/artofwar.ogg 1'.
+[21:36:15	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:36:18	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:36:19	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:36:21	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:36:22	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:36:24	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:36:26	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:36:26	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:36:27	]test has spawned 'models/props_junk/Wheebarrow01a.mdl'.
+[21:36:28	]Teddy Bear ran SAM command 'slay' with arguments: '^'
+[21:36:31	]test has spawned 'models/props_junk/watermelon01.mdl'.
+[21:36:32	]asdasdas has taken 10 damage from test.
+[21:36:34	]test has spawned 'models/props_junk/watermelon01.mdl'.
+[21:36:34	]Teddy Bear has spawned 'models/props_c17/Lockers001a.mdl'.
+[21:36:34	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:36:37	]test has spawned 'models/props_junk/watermelon01.mdl'.
+[21:36:39	]Teddy Bear has spawned 'models/props_c17/Lockers001a.mdl'.
+[21:36:42	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:36:44	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:36:46	]Teddy Bear has spawned 'models/props_c17/Lockers001a.mdl'.
+[21:36:47	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:36:48	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:36:48	]asdasdas was knocked unconscious and is bleeding out.
+[21:36:50	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:36:50	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:36:52	]asdasdas used command '/ToggleRaise'.
+[21:36:54	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:36:57	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:37:04	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:37:06	]test has taken 50 damage from asdasdas.
+[21:37:08	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:37:09	]asdasdas has taken 5 damage from test.
+[21:37:09	]test was knocked unconscious and is bleeding out.
+[21:37:11	]test ran SAM command 'respawn' with arguments: 'test'
+[21:37:13	]Teddy Bear has spawned 'models/props_junk/metalgascan.mdl'.
+[21:37:14	]test has spawned 'models/props_lab/plotter.mdl'.
+[21:37:16	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:37:20	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:37:22	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:37:25	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:37:25	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:37:28	]test has spawned 'models/props_lab/reciever01c.mdl'.
+[21:37:28	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:37:30	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:37:33	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:37:33	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:37:35	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:37:36	]asdasdas has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:37:38	]Teddy Bear ran SAM command 'slay' with arguments: '^'
+[21:37:38	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:37:41	]asdasdas has spawned 'models/props_junk/TrashDumpster02b.mdl'.
+[21:37:42	]test has spawned 'models/props_lab/workspace004.mdl'.
+[21:37:42	]test was knocked unconscious and is bleeding out.
+[21:37:44	]test ran SAM command 'respawn' with arguments: 'test'
+[21:37:49	]Teddy Bear has taken 20 damage from asdasdas.
+[21:37:51	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:37:51	]asdasdas has spawned 'models/props_junk/TrashDumpster02b.mdl'.
+[21:37:53	]asdasdas has taken 10 damage from test.
+[21:37:53	]asdasdas was knocked unconscious and is bleeding out.
+[21:37:55	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:37:55	]test entered observer.
+[21:37:56	]asdasdas entered observer.
+[21:37:57	]asdasdas exited observer at their location.
+[21:38:00	]asdasdas was knocked unconscious and is bleeding out.
+[21:38:01	]asdasdas ran SAM command 'stopsound' with arguments: ''
+[21:38:05	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:38:06	]asdasdas entered observer.
+[21:38:09	]fwafgawawf has used a context menu option with the name: skin
+[21:38:10	]fwafgawawf has used a context menu option with the name: skin
+[21:38:14	]Teddy Bear entered observer.
+[21:38:19	]the one used command '/PlaySound event/alarms/facilityalarm.ogg 1'.
+[21:38:21	]fwafgawawf has given himself a tuner_cmb.
+[21:38:21	]fwafgawawf has gained a 'Combine Approved Radio Tuner' #2617.
+[21:38:22	]fwafgawawf has given himself a tuner_reb.
+[21:38:22	]fwafgawawf has gained a 'Resistance Radio Tuner' #2618.
+[21:38:23	]test used command '/PlaySong https://www.youtube.com/watch?v=ZnHmskwqCCQ 0 999999'.
+[21:38:24	]test exited observer at their location.
+[21:38:25	]test entered observer.
+[21:38:25	]test exited observer at their location.
+[21:38:35	]fwafgawawf ran 'install' on item 'Combine Approved Radio Tuner' (#2617)
+[21:38:36	]the one used command '/PlaySound event/bad bob.ogg 1'.
+[21:38:37	]asdasdas has spawned 'models/hunter/blocks/cube8x8x025.mdl'.
+[21:38:39	]fwafgawawf used command '/ToggleRaise'.
+[21:38:39	]asdasdas has spawned 'models/hunter/plates/plate32x32.mdl'.
+[21:38:45	]ulterior (STEAM_0:0:137846702) has disconnected.
+[21:38:49	]asdasdas has fired a toolgun with the name: nocollideworld
+[21:38:52	]fwafgawawf used command '/ToggleRaise'.
+[21:38:55	]test entered observer.
+[21:38:57	]asdasdas has spawned 'models/hunter/plates/plate32x32.mdl'.
+[21:39:02	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:03	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:04	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:04	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:04	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:04	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:05	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:05	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:05	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:05	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:06	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:06	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:07	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:07	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:07	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:07	]asdasdas has fired a toolgun with the name: nocollideworld
+[21:39:07	]fwafgawawf used command '/ToggleRaise'.
+[21:39:08	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:08	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:08	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:08	]fwafgawawf used command '/ToggleRaise'.
+[21:39:09	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:09	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:09	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:09	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:10	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:10	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:10	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:11	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:11	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:11	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:12	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:15	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:17	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:18	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:19	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:21	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:23	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:23	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:25	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:29	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:29	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:29	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:30	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:30	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:31	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:32	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:32	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:33	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:33	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:34	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:34	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:34	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:34	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:35	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:35	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:35	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:36	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:37	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:41	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:41	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:42	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:42	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:42	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:42	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:42	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:43	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:43	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:43	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:43	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:44	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:44	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:44	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:45	]test has fired a toolgun with the name: remover
+[21:39:45	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:45	]test has fired a toolgun with the name: remover
+[21:39:45	]test has fired a toolgun with the name: remover
+[21:39:46	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:46	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:46	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:46	]asdasdas has spawned 'models/hunter/plates/plate32x32.mdl'.
+[21:39:46	]test has fired a toolgun with the name: remover
+[21:39:48	]test has fired a toolgun with the name: remover
+[21:39:51	]test has fired a toolgun with the name: remover
+[21:39:51	]asdasdas has spawned 'models/hunter/plates/plate32x32.mdl'.
+[21:39:51	]test has fired a toolgun with the name: remover
+[21:39:51	]test has fired a toolgun with the name: remover
+[21:39:52	]test has fired a toolgun with the name: remover
+[21:39:52	]test has fired a toolgun with the name: remover
+[21:39:53	]test has fired a toolgun with the name: remover
+[21:39:53	]test has fired a toolgun with the name: remover
+[21:39:54	]test has fired a toolgun with the name: remover
+[21:39:54	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:54	]test has fired a toolgun with the name: remover
+[21:39:54	]test has fired a toolgun with the name: remover
+[21:39:54	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:55	]test has fired a toolgun with the name: remover
+[21:39:55	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:56	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:57	]test has fired a toolgun with the name: remover
+[21:39:57	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:58	]Teddy Bear has fired a toolgun with the name: remover
+[21:39:59	]test has fired a toolgun with the name: remover
+[21:39:59	]test has fired a toolgun with the name: remover
+[21:40:00	]test has fired a toolgun with the name: remover
+[21:40:02	]asdasdas has fired a toolgun with the name: nocollideworld
+[21:40:02	]test has fired a toolgun with the name: remover
+[21:40:05	]test exited observer at their location.
+[21:40:09	]test entered observer.
+[21:40:15	]asdasdas has spawned 'models/hunter/plates/plate32x32.mdl'.
+[21:40:19	]test has fired a toolgun with the name: remover
+[21:40:20	]asdasdas has fired a toolgun with the name: nocollideworld
+[21:40:20	]test has fired a toolgun with the name: remover
+[21:40:21	]test has fired a toolgun with the name: remover
+[21:40:21	]test has fired a toolgun with the name: remover
+[21:40:22	]test has fired a toolgun with the name: remover
+[21:40:23	]test has fired a toolgun with the name: remover
+[21:40:25	]test has fired a toolgun with the name: remover
+[21:40:26	]test has fired a toolgun with the name: remover
+[21:40:26	]test has fired a toolgun with the name: remover
+[21:40:28	]test has fired a toolgun with the name: remover
+[21:40:28	]test has fired a toolgun with the name: remover
+[21:40:29	]test has fired a toolgun with the name: remover
+[21:40:31	]test has fired a toolgun with the name: remover
+[21:40:33	]test has fired a toolgun with the name: remover
+[21:40:34	]fwafgawawf is fully healed.
+[21:40:39	]test exited observer at their location.
+[21:40:42	]asdasdas has fired a toolgun with the name: nocollideworld
+[21:40:43	]asdasdas has fired a toolgun with the name: nocollideworld
+[21:40:44	]asdasdas has fired a toolgun with the name: nocollideworld
+[21:40:44	]asdasdas has fired a toolgun with the name: nocollideworld
+[21:40:44	]fwafgawawf entered observer.
+[21:40:55	]asdasdas exited observer at their location.
+[21:40:56	]test has spawned 'models/props_junk/TrashDumpster02.mdl'.
+[21:40:57	]asdasdas used command '/ToggleRaise'.
+[21:40:57	]Teddy Bear has spawned 'models/hunter/plates/plate32x32.mdl'.
+[21:40:57	]test entered observer.
+[21:40:58	]test exited observer at their location.
+[21:41:06	]fwafgawawf exited observer at their location.
+[21:41:07	]asdasdas has spawned 'models/props_wasteland/controlroom_filecabinet001a.mdl'.
+[21:41:07	]test has spawned 'models/props_junk/wood_crate001a.mdl'.
+[21:41:12	]asdasdas has spawned 'models/props_wasteland/controlroom_filecabinet001a.mdl'.
+[21:41:15	]Teddy Bear has spawned 'models/hunter/plates/plate8x32.mdl'.
+[21:41:15	]test has spawned 'models/props_c17/furnitureStove001a.mdl'.
+[21:41:20	]test has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[21:41:21	]fwafgawawf has used a context menu option with the name: remove
+[21:41:21	]fwafgawawf entered observer.
+[21:41:22	]fwafgawawf exited observer at their location.
+[21:41:24	]test has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[21:41:24	]asdasdas has spawned 'models/props_wasteland/controlroom_filecabinet001a.mdl'.
+[21:41:25	]fwafgawawf has spawned a musicradio_reb.
+[21:41:26	]fwafgawawf ran 'Deploy' on item 'Rebel Radio' (#2619)
+[21:41:27	]test has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[21:41:30	]Teddy Bear has spawned 'models/hunter/plates/plate8x32.mdl'.
+[21:41:31	]test has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[21:41:35	]test has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[21:41:42	]test has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[21:41:46	]Teddy Bear has spawned 'models/hunter/plates/plate8x32.mdl'.
+[21:41:48	]test has fired a toolgun with the name: remover
+[21:41:49	]test has fired a toolgun with the name: remover
+[21:41:49	]test has fired a toolgun with the name: remover
+[21:41:50	]test has fired a toolgun with the name: remover
+[21:41:50	]test has fired a toolgun with the name: remover
+[21:41:51	]test has fired a toolgun with the name: remover
+[21:41:51	]test has fired a toolgun with the name: remover
+[21:41:52	]test has fired a toolgun with the name: remover
+[21:41:52	]test has fired a toolgun with the name: remover
+[21:41:54	]test has fired a toolgun with the name: remover
+[21:41:57	]test has spawned 'models/props_junk/TrashDumpster02.mdl'.
+[21:42:00	]Teddy Bear has spawned 'models/hunter/plates/plate8x32.mdl'.
+[21:42:05	]test has spawned 'models/props_junk/TrashDumpster01a.mdl'.
+[21:42:08	]test has spawned 'models/props_wasteland/controlroom_storagecloset001b.mdl'.
+[21:42:08	]fwafgawawf has used a context menu option with the name: remove
+[21:42:12	]test has spawned 'models/props_wasteland/controlroom_storagecloset001b.mdl'.
+[21:42:16	]test has spawned 'models/props_wasteland/controlroom_storagecloset001b.mdl'.
+[21:42:18	]test has spawned 'models/props_wasteland/controlroom_storagecloset001b.mdl'.
+[21:42:21	]test has spawned 'models/props_wasteland/controlroom_storagecloset001b.mdl'.
+[21:42:25	]test has spawned 'models/props_wasteland/controlroom_storagecloset001b.mdl'.
+[21:42:25	]Teddy Bear has spawned 'models/props_c17/furnitureStove001a.mdl'.
+[21:42:26	]Teddy Bear has spawned 'models/props_c17/furnitureStove001a.mdl'.
+[21:42:28	]Teddy Bear has spawned 'models/props_c17/FurnitureWashingmachine001a.mdl'.
+[21:42:30	]Teddy Bear has spawned 'models/props_c17/FurnitureFridge001a.mdl'.
+[21:42:31	]Teddy Bear has spawned 'models/props_c17/FurnitureFridge001a.mdl'.
+[21:42:32	]Teddy Bear has spawned 'models/props_c17/FurnitureShelf001a.mdl'.
+[21:42:33	]test has spawned 'models/props_wasteland/controlroom_storagecloset001b.mdl'.
+[21:42:33	]Teddy Bear has spawned 'models/props_c17/FurnitureShelf001a.mdl'.
+[21:42:34	]test has spawned 'models/props_wasteland/controlroom_storagecloset001b.mdl'.
+[21:42:35	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:42:36	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:42:36	]test has spawned 'models/props_wasteland/controlroom_storagecloset001b.mdl'.
+[21:42:37	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:42:38	]test has spawned 'models/props_wasteland/controlroom_storagecloset001b.mdl'.
+[21:42:40	]test entered observer.
+[21:42:42	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:42:43	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:42:44	]test exited observer at their location.
+[21:42:45	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:42:46	]Teddy Bear has spawned 'models/props_c17/oildrum001.mdl'.
+[21:42:47	]Teddy Bear has spawned 'models/props_c17/oildrum001.mdl'.
+[21:42:48	]Teddy Bear has spawned 'models/props_c17/oildrum001.mdl'.
+[21:42:49	]Teddy Bear has spawned 'models/props_c17/oildrum001.mdl'.
+[21:42:51	]Teddy Bear has spawned 'models/props_c17/oildrum001.mdl'.
+[21:42:52	]Teddy Bear has spawned 'models/props_c17/oildrum001.mdl'.
+[21:42:53	]Teddy Bear has spawned 'models/props_c17/oildrum001.mdl'.
+[21:42:55	]Teddy Bear has spawned 'models/props_c17/gravestone004a.mdl'.
+[21:42:57	]Teddy Bear has spawned 'models/props_c17/gravestone004a.mdl'.
+[21:42:58	]Teddy Bear has spawned 'models/props_c17/gravestone_coffinpiece001a.mdl'.
+[21:43:00	]Teddy Bear has spawned 'models/props_c17/FurnitureFireplace001a.mdl'.
+[21:43:02	]Teddy Bear has spawned 'models/props_c17/FurnitureRadiator001a.mdl'.
+[21:43:03	]Teddy Bear has spawned 'models/props_c17/FurnitureRadiator001a.mdl'.
+[21:43:04	]Teddy Bear has spawned 'models/props_c17/FurnitureRadiator001a.mdl'.
+[21:43:06	]test entered observer.
+[21:43:07	]Teddy Bear has spawned 'models/props_c17/computer01_keyboard.mdl'.
+[21:43:08	]Teddy Bear has spawned 'models/props_c17/consolebox03a.mdl'.
+[21:43:09	]Teddy Bear has spawned 'models/props_c17/consolebox01a.mdl'.
+[21:43:10	]Teddy Bear has spawned 'models/props_c17/consolebox05a.mdl'.
+[21:43:12	]Teddy Bear has spawned 'models/props_c17/consolebox01a.mdl'.
+[21:43:13	]Teddy Bear has spawned 'models/props_interiors/Furniture_Couch01a.mdl'.
+[21:43:15	]Teddy Bear has spawned 'models/props_interiors/VendingMachineSoda01a_door.mdl'.
+[21:43:16	]fwafgawawf entered observer.
+[21:43:16	]Teddy Bear has spawned 'models/props_interiors/VendingMachineSoda01a_door.mdl'.
+[21:43:17	]fwafgawawf exited observer at their location.
+[21:43:18	]fwafgawawf entered observer.
+[21:43:21	]Teddy Bear has spawned 'models/props_interiors/SinkKitchen01a.mdl'.
+[21:43:22	]Teddy Bear has spawned 'models/props_interiors/refrigeratorDoor02a.mdl'.
+[21:43:23	]Teddy Bear has spawned 'models/props_interiors/refrigeratorDoor01a.mdl'.
+[21:43:25	]reece (STEAM_0:1:158746618) has disconnected.
+[21:43:25	]test exited observer at their location.
+[21:43:25	]Teddy Bear has spawned 'models/props_interiors/Radiator01a.mdl'.
+[21:43:28	]test entered observer.
+[21:43:28	]Teddy Bear has spawned 'models/props_combine/breenclock.mdl'.
+[21:43:31	]Teddy Bear has spawned 'models/Gibs/helicopter_brokenpiece_03.mdl'.
+[21:43:33	]Teddy Bear has spawned 'models/Gibs/helicopter_brokenpiece_05_tailfan.mdl'.
+[21:43:35	]Teddy Bear has spawned 'models/Gibs/helicopter_brokenpiece_04_cockpit.mdl'.
+[21:43:37	]Teddy Bear has spawned 'models/Gibs/helicopter_brokenpiece_01.mdl'.
+[21:43:38	]test ran SAM command 'hp' with arguments: 'test' '100'
+[21:43:38	]test exited observer at their location.
+[21:43:40	]Teddy Bear has spawned 'models/Gibs/HGIBS.mdl'.
+[21:43:41	]test is fully healed.
+[21:43:42	]Teddy Bear has spawned 'models/Gibs/HGIBS.mdl'.
+[21:43:45	]Teddy Bear has spawned 'models/props_lab/kennel_physics.mdl'.
+[21:43:47	]test entered observer.
+[21:43:48	]Teddy Bear has spawned 'models/props_junk/plasticbucket001a.mdl'.
+[21:43:49	]Teddy Bear has spawned 'models/props_lab/reciever01b.mdl'.
+[21:43:51	]Teddy Bear has spawned 'models/props_lab/reciever_cart.mdl'.
+[21:43:54	]Teddy Bear has spawned 'models/props_lab/partsbin01.mdl'.
+[21:43:56	]Teddy Bear has spawned 'models/props_lab/monitor01a.mdl'.
+[21:43:57	]Teddy Bear has spawned 'models/props_lab/monitor02.mdl'.
+[21:44:00	]Teddy Bear has spawned 'models/props_lab/monitor02.mdl'.
+[21:44:05	]Teddy Bear has spawned 'models/props_vehicles/carparts_door01a.mdl'.
+[21:44:06	]Teddy Bear has spawned 'models/props_vehicles/carparts_door01a.mdl'.
+[21:44:08	]Teddy Bear has spawned 'models/props_vehicles/carparts_axel01a.mdl'.
+[21:44:09	]Teddy Bear has spawned 'models/props_vehicles/carparts_axel01a.mdl'.
+[21:44:11	]Teddy Bear has spawned 'models/props_lab/monitor01b.mdl'.
+[21:44:15	]Teddy Bear has spawned 'models/props_c17/TrapPropeller_Engine.mdl'.
+[21:44:17	]Teddy Bear has spawned 'models/props_c17/TrapPropeller_Engine.mdl'.
+[21:44:21	]Teddy Bear has spawned 'models/props_c17/TrapPropeller_Blade.mdl'.
+[21:44:26	]test ran SAM command 'hp' with arguments: 'asd' '100'
+[21:44:28	]Teddy Bear has spawned 'models/props_doors/door03_slotted_left.mdl'.
+[21:44:30	]asdasdas is fully healed.
+[21:44:31	]Teddy Bear has spawned 'models/props_lab/filecabinet02.mdl'.
+[21:44:33	]Teddy Bear has spawned 'models/props_wasteland/controlroom_filecabinet002a.mdl'.
+[21:44:34	]test ran SAM command 'hp' with arguments: 'teddy' '100'
+[21:44:34	]asdasdas entered observer.
+[21:44:35	]Teddy Bear is fully healed.
+[21:44:35	]Teddy Bear has spawned 'models/props_wasteland/controlroom_filecabinet001a.mdl'.
+[21:44:38	]Teddy Bear has spawned 'models/props_lab/lockerdoorleft.mdl'.
+[21:44:38	]test exited observer at their location.
+[21:44:45	]test entered observer.
+[21:44:50	]asdasdas exited observer at their location.
+[21:44:51	]Teddy Bear exited observer at their location.
+[21:44:51	]asdasdas entered observer.
+[21:44:52	]asdasdas exited observer at their location.
+[21:44:59	]asdasdas used command '/ToggleRaise'.
+[21:45:00	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:02	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:04	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:05	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:06	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:08	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:09	]Teddy Bear has fired a toolgun with the name: material
+[21:45:09	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:11	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:11	]Teddy Bear has fired a toolgun with the name: material
+[21:45:12	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:13	]Teddy Bear has fired a toolgun with the name: material
+[21:45:14	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:14	]Teddy Bear has fired a toolgun with the name: material
+[21:45:15	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:16	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:16	]Teddy Bear has fired a toolgun with the name: material
+[21:45:17	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:18	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:18	]Teddy Bear has fired a toolgun with the name: material
+[21:45:19	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:21	]Teddy Bear has fired a toolgun with the name: material
+[21:45:21	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:22	]Teddy Bear has fired a toolgun with the name: material
+[21:45:22	]Teddy Bear has fired a toolgun with the name: material
+[21:45:23	]Teddy Bear has fired a toolgun with the name: material
+[21:45:23	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:23	]Teddy Bear has fired a toolgun with the name: material
+[21:45:23	]Teddy Bear has fired a toolgun with the name: material
+[21:45:24	]Teddy Bear has fired a toolgun with the name: material
+[21:45:25	]Teddy Bear has fired a toolgun with the name: material
+[21:45:25	]Teddy Bear has fired a toolgun with the name: material
+[21:45:27	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:29	]Teddy Bear has fired a toolgun with the name: material
+[21:45:29	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:30	]Teddy Bear has fired a toolgun with the name: material
+[21:45:31	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:32	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:33	]Teddy Bear has fired a toolgun with the name: material
+[21:45:33	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:34	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:34	]Teddy Bear has fired a toolgun with the name: material
+[21:45:35	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:36	]Teddy Bear has fired a toolgun with the name: material
+[21:45:36	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:37	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:45:40	]Teddy Bear has fired a toolgun with the name: material
+[21:45:43	]Teddy Bear has fired a toolgun with the name: material
+[21:45:44	]asdasdas has fired a toolgun with the name: nocollideworld
+[21:45:44	]Teddy Bear has fired a toolgun with the name: material
+[21:45:46	]Teddy Bear has fired a toolgun with the name: material
+[21:45:47	]Teddy Bear has fired a toolgun with the name: material
+[21:45:48	]Teddy Bear has fired a toolgun with the name: material
+[21:45:48	]Teddy Bear has fired a toolgun with the name: material
+[21:45:48	]Teddy Bear has fired a toolgun with the name: material
+[21:45:49	]Teddy Bear has fired a toolgun with the name: material
+[21:45:50	]Teddy Bear has fired a toolgun with the name: material
+[21:45:50	]Teddy Bear has fired a toolgun with the name: material
+[21:45:51	]Teddy Bear has fired a toolgun with the name: material
+[21:46:00	]Teddy Bear has fired a toolgun with the name: material
+[21:46:02	]asdasdas has fired a toolgun with the name: stacker_improved
+[21:46:02	]asdasdas has spawned 'models/hunter/plates/plate32x32.mdl'.
+[21:46:03	]Teddy Bear has fired a toolgun with the name: material
+[21:46:05	]test exited observer at their location.
+[21:46:06	]test entered observer.
+[21:46:06	]test exited observer at their location.
+[21:46:07	]test has taken 21 damage from worldspawn.
+[21:46:07	]test entered observer.
+[21:46:08	]Teddy Bear has fired a toolgun with the name: material
+[21:46:10	]Teddy Bear has fired a toolgun with the name: material
+[21:46:10	]test ran SAM command 'hp' with arguments: 'test' '100'
+[21:46:10	]Teddy Bear has fired a toolgun with the name: material
+[21:46:11	]test is fully healed.
+[21:46:12	]Teddy Bear has fired a toolgun with the name: material
+[21:46:12	]Teddy Bear has fired a toolgun with the name: material
+[21:46:12	]asdasdas has fired a toolgun with the name: stacker_improved
+[21:46:12	]asdasdas has spawned 'models/hunter/plates/plate32x32.mdl'.
+[21:46:13	]asdasdas has fired a toolgun with the name: stacker_improved
+[21:46:13	]asdasdas has spawned 'models/hunter/plates/plate32x32.mdl'.
+[21:46:13	]Teddy Bear has fired a toolgun with the name: material
+[21:46:13	]Teddy Bear has fired a toolgun with the name: material
+[21:46:15	]Teddy Bear has fired a toolgun with the name: material
+[21:46:20	]asdasdas used command '/ToggleRaise'.
+[21:46:30	]test exited observer at their location.
+[21:47:15	]test used command '/PlaySong https://www.youtube.com/watch?v=RgFaK6ZQifE 0 99999'.
+[21:47:24	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:47:33	]test has taken 45 damage from Teddy Bear.
+[21:47:37	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:47:41	]test has taken 5 damage from Teddy Bear.
+[21:47:41	]test was knocked unconscious and is bleeding out.
+[21:47:43	]asdasdas has taken 81 damage from Teddy Bear.
+[21:47:45	]test used command '/CharGetUp'.
+[21:47:48	]test ran SAM command 'respawn' with arguments: 'test'
+[21:47:49	]test entered observer.
+[21:47:51	]test is fully healed.
+[21:47:53	]test exited observer at their location.
+[21:47:54	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:47:57	]asdasdas was knocked unconscious and is bleeding out.
+[21:47:58	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:47:59	]Teddy Bear destroyed a 'Fire Axe' #2460.
+[21:47:59	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:48:01	]asdasdas has taken 20 damage from test.
+[21:48:01	]asdasdas was knocked unconscious and is bleeding out.
+[21:48:02	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:48:03	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:48:03	]test has taken 10 damage from prop_physics.
+[21:48:05	]asdasdas used command '/ToggleRaise'.
+[21:48:07	]asdasdas was knocked unconscious and is bleeding out.
+[21:48:07	]asdasdas entered observer.
+[21:48:08	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:48:09	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:48:10	]asdasdas entered observer.
+[21:48:15	]asdasdas used command '/ToggleRaise'.
+[21:48:17	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:48:19	]asdasdas exited observer at their location.
+[21:48:21	]Teddy Bear has taken 50 damage from test.
+[21:48:21	]Teddy Bear has taken 5 damage from test.
+[21:48:21	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:48:22	]test has taken 20 damage from Teddy Bear.
+[21:48:22	]test has taken 10 damage from Teddy Bear.
+[21:48:24	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:48:26	]test was knocked unconscious and is bleeding out.
+[21:48:28	]test ran SAM command 'respawn' with arguments: 'test'
+[21:48:28	]test entered observer.
+[21:48:31	]test is fully healed.
+[21:48:33	]test exited observer at their location.
+[21:48:34	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:48:36	]asdasdas was knocked unconscious and is bleeding out.
+[21:48:38	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:48:38	]asdasdas entered observer.
+[21:48:41	]asdasdas used command '/ToggleRaise'.
+[21:48:43	]asdasdas exited observer at their location.
+[21:48:50	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:48:56	]Teddy Bear ran SAM command 'respawn' with arguments: '^'
+[21:48:57	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:48:57	]Teddy Bear entered observer.
+[21:49:03	]asdasdas has taken 10 damage from test.
+[21:49:04	]Teddy Bear ran SAM command 'hp' with arguments: '^' '100'
+[21:49:05	]Teddy Bear is fully healed.
+[21:49:06	]test has taken 50 damage from asdasdas.
+[21:49:06	]test has taken 5 damage from asdasdas.
+[21:49:14	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:49:16	]test has taken 5 damage from asdasdas.
+[21:49:16	]test has taken 10 damage from asdasdas.
+[21:49:17	]Teddy Bear exited observer at their location.
+[21:49:19	]asdasdas was knocked unconscious and is bleeding out.
+[21:49:21	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:49:24	]asdasdas entered observer.
+[21:49:25	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:49:26	]asdasdas used command '/ToggleRaise'.
+[21:49:30	]asdasdas exited observer at their location.
+[21:49:32	]test was knocked unconscious and is bleeding out.
+[21:49:34	]test ran SAM command 'respawn' with arguments: 'test'
+[21:49:35	]test entered observer.
+[21:49:35	]test exited observer at their location.
+[21:49:36	]test entered observer.
+[21:49:36	]test is fully healed.
+[21:49:43	]test exited observer at their location.
+[21:49:43	]test has spawned 'models/props_junk/metalgascan.mdl'.
+[21:49:45	]test has taken 5 damage from prop_physics.
+[21:49:45	]test has taken 5 damage from prop_physics.
+[21:49:48	]test was knocked unconscious and is bleeding out.
+[21:49:50	]test ran SAM command 'respawn' with arguments: 'test'
+[21:49:51	]test is fully healed.
+[21:49:51	]test entered observer.
+[21:50:00	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:50:01	]test exited observer at their location.
+[21:50:01	]test has taken 20 damage from Teddy Bear.
+[21:50:01	]test has taken 5 damage from Teddy Bear.
+[21:50:01	]test has taken 10 damage from Teddy Bear.
+[21:50:01	]test has taken 5 damage from Teddy Bear.
+[21:50:04	]test was knocked unconscious and is bleeding out.
+[21:50:06	]test ran SAM command 'respawn' with arguments: 'test'
+[21:50:07	]test entered observer.
+[21:50:10	]test exited observer at their location.
+[21:50:11	]test is fully healed.
+[21:50:11	]test entered observer.
+[21:50:11	]test exited observer at their location.
+[21:50:13	]asdasdas was knocked unconscious and is bleeding out.
+[21:50:15	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:50:15	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:50:15	]asdasdas entered observer.
+[21:50:17	]asdasdas used command '/ToggleRaise'.
+[21:50:18	]Teddy Bear has taken 10 damage from test.
+[21:50:18	]Teddy Bear has taken 10 damage from test.
+[21:50:18	]Teddy Bear has taken 10 damage from test.
+[21:50:20	]asdasdas exited observer at their location.
+[21:50:20	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:50:23	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:50:32	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:50:35	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:50:36	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:50:39	]Teddy Bear ran SAM command 'slay' with arguments: '^'
+[21:50:40	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:50:41	]Teddy Bear entered observer.
+[21:50:46	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:50:49	]Teddy Bear exited observer at their location.
+[21:50:52	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:50:55	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:50:59	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:51:01	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:51:05	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:51:08	]test has spawned 'models/props_lab/reciever01c.mdl'.
+[21:51:11	]test has spawned 'models/props_lab/reciever01c.mdl'.
+[21:51:12	]test has taken 50 damage from Teddy Bear.
+[21:51:14	]test was knocked unconscious and is bleeding out.
+[21:51:15	]test ran SAM command 'respawn' with arguments: 'test'
+[21:51:16	]test is fully healed.
+[21:51:20	]asdasdas has taken 10 damage from Teddy Bear.
+[21:51:20	]asdasdas has taken 10 damage from Teddy Bear.
+[21:51:20	]asdasdas has taken 5 damage from Teddy Bear.
+[21:51:20	]test has taken 10 damage from Teddy Bear.
+[21:51:20	]test has taken 10 damage from prop_physics.
+[21:51:20	]test has taken 5 damage from Teddy Bear.
+[21:51:20	]test has taken 20 damage from asdasdas.
+[21:51:21	]test was knocked unconscious and is bleeding out.
+[21:51:23	]test ran SAM command 'respawn' with arguments: 'test'
+[21:51:24	]test has taken 50 damage from Teddy Bear.
+[21:51:29	]Teddy Bear has taken 50 damage from test.
+[21:51:39	]test was knocked unconscious and is bleeding out.
+[21:51:47	]test ran SAM command 'respawn' with arguments: 'test'
+[21:51:50	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:51:50	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:51:51	]test is fully healed.
+[21:51:55	]Teddy Bear ran SAM command 'slay' with arguments: '^'
+[21:51:56	]Teddy Bear entered observer.
+[21:52:01	]test destroyed a 'Blue Jumpsuit Trousers' #2513.
+[21:52:01	]Teddy Bear exited observer at their location.
+[21:52:02	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:52:04	]test has taken 3 damage from test.
+[21:52:04	]test destroyed a 'Water Valve' #610.
+[21:52:05	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:52:07	]asdasdas has taken 11 damage from test.
+[21:52:09	]asdasdas has taken 5 damage from Teddy Bear.
+[21:52:09	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:52:11	]asdasdas has taken 10 damage from Teddy Bear.
+[21:52:11	]asdasdas has taken 10 damage from Teddy Bear.
+[21:52:11	]asdasdas was knocked unconscious and is bleeding out.
+[21:52:13	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:52:13	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:52:14	]asdasdas entered observer.
+[21:52:17	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:52:17	]asdasdas used command '/ToggleRaise'.
+[21:52:18	]asdasdas exited observer at their location.
+[21:52:19	]Teddy Bear ran SAM command 'slay' with arguments: '^'
+[21:52:21	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:52:21	]Teddy Bear entered observer.
+[21:52:24	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:52:25	]Teddy Bear exited observer at their location.
+[21:52:26	]asdasdas has taken 21 damage from test.
+[21:52:27	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:52:28	]test has taken 5 damage from asdasdas.
+[21:52:29	]test has taken 5 damage from Teddy Bear.
+[21:52:30	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:52:33	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:52:34	]test has taken 68 damage from test.
+[21:52:34	]Teddy Bear has taken 33 damage from test.
+[21:52:35	]test has spawned 'models/props_c17/oildrum001.mdl'.
+[21:52:36	]test was knocked unconscious and is bleeding out.
+[21:52:38	]test ran SAM command 'respawn' with arguments: 'test'
+[21:52:39	]test entered observer.
+[21:52:41	]test is fully healed.
+[21:52:46	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:52:46	]test exited observer at their location.
+[21:52:46	]test has spawned 'models/props_c17/oildrum001.mdl'.
+[21:52:47	]Teddy Bear ran SAM command 'slay' with arguments: '^'
+[21:52:49	]Teddy Bear entered observer.
+[21:52:54	]Teddy Bear has fired a toolgun with the name: material
+[21:52:54	]test has spawned 'models/props_c17/oildrum001.mdl'.
+[21:52:55	]Teddy Bear has fired a toolgun with the name: material
+[21:52:55	]Teddy Bear has fired a toolgun with the name: material
+[21:52:56	]Teddy Bear has fired a toolgun with the name: material
+[21:52:56	]Teddy Bear has fired a toolgun with the name: material
+[21:52:56	]Teddy Bear has fired a toolgun with the name: material
+[21:52:57	]Teddy Bear has fired a toolgun with the name: material
+[21:52:57	]Teddy Bear has fired a toolgun with the name: material
+[21:52:58	]Teddy Bear has fired a toolgun with the name: material
+[21:52:59	]Teddy Bear has fired a toolgun with the name: material
+[21:52:59	]test has spawned 'models/props_c17/oildrum001.mdl'.
+[21:53:00	]test was knocked unconscious and is bleeding out.
+[21:53:02	]test ran SAM command 'respawn' with arguments: 'test'
+[21:53:06	]test is fully healed.
+[21:53:08	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:53:10	]test was knocked unconscious and is bleeding out.
+[21:53:10	]Teddy Bear exited observer at their location.
+[21:53:12	]test ran SAM command 'respawn' with arguments: 'test'
+[21:53:16	]Teddy Bear has taken 50 damage from asdasdas.
+[21:53:16	]test is fully healed.
+[21:53:23	]test entered observer.
+[21:53:24	]asdasdas was knocked unconscious and is bleeding out.
+[21:53:24	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:53:26	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:53:26	]test exited observer at their location.
+[21:53:26	]asdasdas entered observer.
+[21:53:27	]Teddy Bear ran SAM command 'slay' with arguments: '^'
+[21:53:29	]Teddy Bear entered observer.
+[21:53:29	]asdasdas used command '/ToggleRaise'.
+[21:53:33	]Teddy Bear exited observer at their location.
+[21:53:37	]asdasdas exited observer at their location.
+[21:53:42	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:53:44	]test was knocked unconscious and is bleeding out.
+[21:53:46	]test ran SAM command 'respawn' with arguments: 'test'
+[21:53:46	]test is no longer unconscious from critical wounds.
+[21:53:49	]Teddy Bear has taken 50 damage from asdasdas.
+[21:53:50	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:53:52	]asdasdas was knocked unconscious and is bleeding out.
+[21:53:53	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:53:54	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:53:55	]asdasdas entered observer.
+[21:53:56	]asdasdas used command '/ToggleRaise'.
+[21:53:57	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:53:58	]asdasdas exited observer at their location.
+[21:54:01	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:54:02	]test was knocked unconscious and is bleeding out.
+[21:54:04	]test ran SAM command 'respawn' with arguments: 'test'
+[21:54:05	]test was knocked unconscious and is bleeding out.
+[21:54:07	]test ran SAM command 'respawn' with arguments: 'test'
+[21:54:08	]test entered observer.
+[21:54:08	]asdasdas has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:54:11	]test is fully healed.
+[21:54:28	]test used command '/PlaySong https://www.youtube.com/watch?v=beoNy4MMHTc 0 99999'.
+[21:54:28	]test exited observer at their location.
+[21:54:29	]asdasdas has taken 5 damage from prop_physics.
+[21:54:30	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:54:32	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:54:38	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:54:39	]test has taken 5 damage from prop_physics.
+[21:54:44	]test has taken 50 damage from Teddy Bear.
+[21:54:44	]test was knocked unconscious and is bleeding out.
+[21:54:45	]test used command '/PlaySong https://www.youtube.com/watch?v=beoNy4MMHTc 0 99999'.
+[21:54:47	]test ran SAM command 'respawn' with arguments: 'test'
+[21:54:48	]test was knocked unconscious and is bleeding out.
+[21:54:50	]test ran SAM command 'respawn' with arguments: 'test'
+[21:54:50	]test entered observer.
+[21:54:51	]test is fully healed.
+[21:54:58	]test exited observer at their location.
+[21:55:01	]test was knocked unconscious and is bleeding out.
+[21:55:02	]test ran SAM command 'respawn' with arguments: 'test'
+[21:55:06	]test is fully healed.
+[21:55:06	]test has taken 50 damage from prop_physics.
+[21:55:06	]test has taken 5 damage from prop_physics.
+[21:55:06	]test has taken 5 damage from prop_physics.
+[21:55:06	]test has spawned 'models/props_lab/citizenradio.mdl'.
+[21:55:08	]test was knocked unconscious and is bleeding out.
+[21:55:09	]test ran SAM command 'respawn' with arguments: 'test'
+[21:55:11	]test is fully healed.
+[21:55:16	]asdasdas has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:55:19	]asdasdas has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:55:26	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:55:30	]asdasdas was knocked unconscious and is bleeding out.
+[21:55:32	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:55:33	]asdasdas entered observer.
+[21:55:34	]Teddy Bear has taken 10 damage from test.
+[21:55:35	]asdasdas used command '/ToggleRaise'.
+[21:55:37	]asdasdas exited observer at their location.
+[21:55:39	]test has taken 10 damage from Teddy Bear.
+[21:55:42	]test was knocked unconscious and is bleeding out.
+[21:55:43	]test ran SAM command 'respawn' with arguments: 'test'
+[21:55:46	]test is fully healed.
+[21:55:47	]test was knocked unconscious and is bleeding out.
+[21:55:49	]test ran SAM command 'respawn' with arguments: 'test'
+[21:55:57	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:55:57	]Teddy Bear used command '/CharGetUp'.
+[21:56:01	]Teddy Bear ran SAM command 'slay' with arguments: '^'
+[21:56:02	]asdasdas has taken 5 damage from test.
+[21:56:04	]Teddy Bear entered observer.
+[21:56:06	]test has taken 20 damage from asdasdas.
+[21:56:06	]test has taken 10 damage from asdasdas.
+[21:56:08	]test was knocked unconscious and is bleeding out.
+[21:56:09	]test ran SAM command 'respawn' with arguments: 'test'
+[21:56:11	]test is fully healed.
+[21:56:15	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:56:16	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:56:19	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:56:19	]test has taken 20 damage from asdasdas.
+[21:56:19	]test has taken 5 damage from asdasdas.
+[21:56:21	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:56:22	]asdasdas has taken 20 damage from test.
+[21:56:22	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:56:25	]Teddy Bear has fired a toolgun with the name: creator
+[21:56:25	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:56:25	]Teddy Bear has fired a toolgun with the name: creator
+[21:56:26	]Teddy Bear has fired a toolgun with the name: creator
+[21:56:26	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:56:27	]Teddy Bear has fired a toolgun with the name: creator
+[21:56:27	]Teddy Bear has fired a toolgun with the name: creator
+[21:56:27	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:56:29	]Teddy Bear has fired a toolgun with the name: creator
+[21:56:29	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:56:31	]Teddy Bear has fired a toolgun with the name: creator
+[21:56:31	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:56:33	]Teddy Bear has fired a toolgun with the name: creator
+[21:56:33	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:56:35	]asdasdas was knocked unconscious and is bleeding out.
+[21:56:36	]Teddy Bear has fired a toolgun with the name: creator
+[21:56:36	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:56:37	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:56:37	]Teddy Bear has fired a toolgun with the name: creator
+[21:56:37	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:56:38	]asdasdas entered observer.
+[21:56:38	]Teddy Bear has fired a toolgun with the name: creator
+[21:56:38	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:56:39	]Teddy Bear has fired a toolgun with the name: creator
+[21:56:39	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:56:40	]Teddy Bear has fired a toolgun with the name: creator
+[21:56:40	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:56:41	]Teddy Bear has fired a toolgun with the name: creator
+[21:56:41	]asdasdas used command '/ToggleRaise'.
+[21:56:41	]Teddy Bear has fired a toolgun with the name: creator
+[21:56:41	]Teddy Bear has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:56:42	]asdasdas exited observer at their location.
+[21:56:47	]test was knocked unconscious and is bleeding out.
+[21:56:48	]test ran SAM command 'respawn' with arguments: 'test'
+[21:56:50	]Teddy Bear exited observer at their location.
+[21:56:51	]test is fully healed.
+[21:56:52	]test was knocked unconscious and is bleeding out.
+[21:56:54	]test ran SAM command 'respawn' with arguments: 'test'
+[21:56:54	]test has taken 87 damage from asdasdas.
+[21:56:55	]test was knocked unconscious and is bleeding out.
+[21:56:56	]test ran SAM command 'respawn' with arguments: 'test'
+[21:56:57	]test entered observer.
+[21:57:01	]test is fully healed.
+[21:57:02	]asdasdas has taken 5 damage from Teddy Bear.
+[21:57:04	]asdasdas has taken 10 damage from Teddy Bear.
+[21:57:04	]asdasdas has taken 10 damage from Teddy Bear.
+[21:57:07	]test has fired a toolgun with the name: creator
+[21:57:07	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:08	]test has fired a toolgun with the name: creator
+[21:57:08	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:08	]asdasdas was knocked unconscious and is bleeding out.
+[21:57:10	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:57:11	]asdasdas entered observer.
+[21:57:12	]test has fired a toolgun with the name: creator
+[21:57:12	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:12	]test has fired a toolgun with the name: creator
+[21:57:12	]asdasdas used command '/ToggleRaise'.
+[21:57:13	]test has fired a toolgun with the name: creator
+[21:57:13	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:13	]test has fired a toolgun with the name: creator
+[21:57:14	]test has fired a toolgun with the name: creator
+[21:57:14	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:14	]test has fired a toolgun with the name: creator
+[21:57:14	]test has fired a toolgun with the name: creator
+[21:57:14	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:15	]test has fired a toolgun with the name: creator
+[21:57:16	]test has fired a toolgun with the name: creator
+[21:57:16	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:16	]asdasdas used command '/ToggleRaise'.
+[21:57:16	]test has fired a toolgun with the name: creator
+[21:57:16	]test has fired a toolgun with the name: creator
+[21:57:17	]test has fired a toolgun with the name: creator
+[21:57:17	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:17	]test has fired a toolgun with the name: creator
+[21:57:17	]asdasdas exited observer at their location.
+[21:57:17	]test has fired a toolgun with the name: creator
+[21:57:17	]test has fired a toolgun with the name: creator
+[21:57:17	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:18	]test has fired a toolgun with the name: creator
+[21:57:18	]test has fired a toolgun with the name: creator
+[21:57:18	]test has fired a toolgun with the name: creator
+[21:57:18	]test has fired a toolgun with the name: creator
+[21:57:18	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:19	]test has fired a toolgun with the name: creator
+[21:57:19	]test has fired a toolgun with the name: creator
+[21:57:19	]test has fired a toolgun with the name: creator
+[21:57:19	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:20	]test has fired a toolgun with the name: creator
+[21:57:20	]test has fired a toolgun with the name: creator
+[21:57:20	]test has fired a toolgun with the name: creator
+[21:57:20	]test has fired a toolgun with the name: creator
+[21:57:20	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:20	]test has fired a toolgun with the name: creator
+[21:57:21	]test has fired a toolgun with the name: creator
+[21:57:21	]test has fired a toolgun with the name: creator
+[21:57:21	]test has fired a toolgun with the name: creator
+[21:57:21	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:21	]test has fired a toolgun with the name: creator
+[21:57:21	]test has fired a toolgun with the name: creator
+[21:57:22	]test has fired a toolgun with the name: creator
+[21:57:22	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:22	]test has fired a toolgun with the name: creator
+[21:57:22	]Teddy Bear has taken 17 damage from asdasdas.
+[21:57:22	]test has fired a toolgun with the name: creator
+[21:57:23	]test has fired a toolgun with the name: creator
+[21:57:23	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:23	]test has fired a toolgun with the name: creator
+[21:57:23	]test has fired a toolgun with the name: creator
+[21:57:24	]test has fired a toolgun with the name: creator
+[21:57:24	]test has fired a toolgun with the name: creator
+[21:57:24	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:24	]test has fired a toolgun with the name: creator
+[21:57:24	]test has fired a toolgun with the name: creator
+[21:57:25	]test has fired a toolgun with the name: creator
+[21:57:25	]test has fired a toolgun with the name: creator
+[21:57:25	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:25	]test has fired a toolgun with the name: creator
+[21:57:25	]test has fired a toolgun with the name: creator
+[21:57:26	]test has fired a toolgun with the name: creator
+[21:57:26	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:26	]test has fired a toolgun with the name: creator
+[21:57:26	]test has fired a toolgun with the name: creator
+[21:57:26	]test has fired a toolgun with the name: creator
+[21:57:26	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:27	]test has fired a toolgun with the name: creator
+[21:57:27	]test has fired a toolgun with the name: creator
+[21:57:27	]test has fired a toolgun with the name: creator
+[21:57:27	]test has fired a toolgun with the name: creator
+[21:57:27	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:28	]test has fired a toolgun with the name: creator
+[21:57:28	]test has fired a toolgun with the name: creator
+[21:57:28	]test has fired a toolgun with the name: creator
+[21:57:28	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:28	]asdasdas has taken 16 damage from Teddy Bear.
+[21:57:29	]test has fired a toolgun with the name: creator
+[21:57:29	]test has fired a toolgun with the name: creator
+[21:57:29	]test has fired a toolgun with the name: creator
+[21:57:29	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:30	]test has fired a toolgun with the name: creator
+[21:57:30	]test has fired a toolgun with the name: creator
+[21:57:30	]test has fired a toolgun with the name: creator
+[21:57:30	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:30	]test has fired a toolgun with the name: creator
+[21:57:30	]test has fired a toolgun with the name: creator
+[21:57:31	]test has fired a toolgun with the name: creator
+[21:57:31	]test has fired a toolgun with the name: creator
+[21:57:31	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:31	]test has fired a toolgun with the name: creator
+[21:57:31	]test has fired a toolgun with the name: creator
+[21:57:31	]test has fired a toolgun with the name: creator
+[21:57:32	]test has fired a toolgun with the name: creator
+[21:57:32	]test has fired a toolgun with the name: creator
+[21:57:32	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:32	]test has fired a toolgun with the name: creator
+[21:57:32	]test has fired a toolgun with the name: creator
+[21:57:32	]test has fired a toolgun with the name: creator
+[21:57:33	]test has fired a toolgun with the name: creator
+[21:57:33	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:33	]test has fired a toolgun with the name: creator
+[21:57:33	]test has fired a toolgun with the name: creator
+[21:57:33	]test has fired a toolgun with the name: creator
+[21:57:34	]test has fired a toolgun with the name: creator
+[21:57:34	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:34	]test has fired a toolgun with the name: creator
+[21:57:34	]test has fired a toolgun with the name: creator
+[21:57:34	]test has fired a toolgun with the name: creator
+[21:57:34	]test has fired a toolgun with the name: creator
+[21:57:34	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:35	]test has fired a toolgun with the name: creator
+[21:57:35	]test has fired a toolgun with the name: creator
+[21:57:35	]test has fired a toolgun with the name: creator
+[21:57:35	]test has fired a toolgun with the name: creator
+[21:57:35	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:36	]test has fired a toolgun with the name: creator
+[21:57:36	]test has fired a toolgun with the name: creator
+[21:57:36	]test has fired a toolgun with the name: creator
+[21:57:36	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:36	]test has fired a toolgun with the name: creator
+[21:57:37	]test has fired a toolgun with the name: creator
+[21:57:37	]test has fired a toolgun with the name: creator
+[21:57:37	]test has fired a toolgun with the name: creator
+[21:57:37	]test has fired a toolgun with the name: creator
+[21:57:37	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:37	]test has fired a toolgun with the name: creator
+[21:57:38	]test has fired a toolgun with the name: creator
+[21:57:38	]test has fired a toolgun with the name: creator
+[21:57:38	]test has fired a toolgun with the name: creator
+[21:57:38	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:38	]test has fired a toolgun with the name: creator
+[21:57:39	]test has fired a toolgun with the name: creator
+[21:57:39	]test has fired a toolgun with the name: creator
+[21:57:39	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:39	]test has fired a toolgun with the name: creator
+[21:57:39	]test has fired a toolgun with the name: creator
+[21:57:40	]test has fired a toolgun with the name: creator
+[21:57:40	]test has fired a toolgun with the name: creator
+[21:57:40	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:40	]test has fired a toolgun with the name: creator
+[21:57:41	]test has fired a toolgun with the name: creator
+[21:57:41	]asdasdas was knocked unconscious and is bleeding out.
+[21:57:41	]test has fired a toolgun with the name: creator
+[21:57:41	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:41	]test has fired a toolgun with the name: creator
+[21:57:41	]test has fired a toolgun with the name: creator
+[21:57:41	]test has fired a toolgun with the name: creator
+[21:57:42	]test has fired a toolgun with the name: creator
+[21:57:42	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:42	]test has fired a toolgun with the name: creator
+[21:57:42	]test has fired a toolgun with the name: creator
+[21:57:42	]test has fired a toolgun with the name: creator
+[21:57:43	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:57:43	]test has fired a toolgun with the name: creator
+[21:57:43	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:43	]test has fired a toolgun with the name: creator
+[21:57:43	]asdasdas entered observer.
+[21:57:43	]test has fired a toolgun with the name: creator
+[21:57:43	]test has fired a toolgun with the name: creator
+[21:57:44	]test has fired a toolgun with the name: creator
+[21:57:44	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:44	]test has fired a toolgun with the name: creator
+[21:57:44	]test has fired a toolgun with the name: creator
+[21:57:44	]test has fired a toolgun with the name: creator
+[21:57:45	]test has fired a toolgun with the name: creator
+[21:57:45	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:45	]test has fired a toolgun with the name: creator
+[21:57:45	]test has fired a toolgun with the name: creator
+[21:57:45	]test has fired a toolgun with the name: creator
+[21:57:45	]test has fired a toolgun with the name: creator
+[21:57:45	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:46	]test has fired a toolgun with the name: creator
+[21:57:46	]test has fired a toolgun with the name: creator
+[21:57:46	]test has fired a toolgun with the name: creator
+[21:57:46	]asdasdas exited observer at their location.
+[21:57:46	]test has fired a toolgun with the name: creator
+[21:57:46	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:47	]test has fired a toolgun with the name: creator
+[21:57:47	]test has fired a toolgun with the name: creator
+[21:57:47	]test has fired a toolgun with the name: creator
+[21:57:47	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:48	]test has fired a toolgun with the name: creator
+[21:57:48	]test has fired a toolgun with the name: creator
+[21:57:48	]test has fired a toolgun with the name: creator
+[21:57:48	]test has fired a toolgun with the name: creator
+[21:57:48	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:48	]test has fired a toolgun with the name: creator
+[21:57:49	]test has fired a toolgun with the name: creator
+[21:57:49	]asdasdas used command '/ToggleRaise'.
+[21:57:49	]test has fired a toolgun with the name: creator
+[21:57:49	]test has fired a toolgun with the name: creator
+[21:57:49	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:49	]test has fired a toolgun with the name: creator
+[21:57:49	]test has fired a toolgun with the name: creator
+[21:57:50	]test has fired a toolgun with the name: creator
+[21:57:50	]test has fired a toolgun with the name: creator
+[21:57:50	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:50	]test has fired a toolgun with the name: creator
+[21:57:50	]test has fired a toolgun with the name: creator
+[21:57:50	]test has fired a toolgun with the name: creator
+[21:57:51	]test has fired a toolgun with the name: creator
+[21:57:51	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:52	]test has fired a toolgun with the name: creator
+[21:57:52	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:52	]test has fired a toolgun with the name: creator
+[21:57:52	]test has fired a toolgun with the name: creator
+[21:57:52	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:53	]asdasdas has taken 17 damage from Teddy Bear.
+[21:57:53	]asdasdas has taken 2 damage from entityflame.
+[21:57:54	]asdasdas has taken 0 damage from entityflame.
+[21:57:54	]asdasdas has taken 14 damage from Teddy Bear.
+[21:57:54	]test has fired a toolgun with the name: creator
+[21:57:54	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:54	]test has fired a toolgun with the name: creator
+[21:57:54	]test has fired a toolgun with the name: creator
+[21:57:55	]test has fired a toolgun with the name: creator
+[21:57:55	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:55	]test has fired a toolgun with the name: creator
+[21:57:55	]test has fired a toolgun with the name: creator
+[21:57:55	]test has fired a toolgun with the name: creator
+[21:57:56	]test has fired a toolgun with the name: creator
+[21:57:56	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:57	]test has fired a toolgun with the name: creator
+[21:57:57	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:57	]test has fired a toolgun with the name: creator
+[21:57:58	]test has fired a toolgun with the name: creator
+[21:57:58	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:58	]test has fired a toolgun with the name: creator
+[21:57:59	]test has fired a toolgun with the name: creator
+[21:57:59	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:57:59	]asdasdas was knocked unconscious and is bleeding out.
+[21:57:59	]test has fired a toolgun with the name: creator
+[21:57:59	]test has fired a toolgun with the name: creator
+[21:57:59	]test has fired a toolgun with the name: creator
+[21:57:59	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:00	]test has fired a toolgun with the name: creator
+[21:58:00	]test has fired a toolgun with the name: creator
+[21:58:00	]test has fired a toolgun with the name: creator
+[21:58:00	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:01	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:58:01	]asdasdas entered observer.
+[21:58:01	]test has fired a toolgun with the name: creator
+[21:58:01	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:02	]test has fired a toolgun with the name: creator
+[21:58:03	]test has fired a toolgun with the name: creator
+[21:58:03	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:03	]test has fired a toolgun with the name: creator
+[21:58:04	]Teddy Bear has taken 55 damage from Teddy Bear.
+[21:58:04	]test has fired a toolgun with the name: creator
+[21:58:04	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:04	]test has fired a toolgun with the name: creator
+[21:58:05	]test has fired a toolgun with the name: creator
+[21:58:05	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:06	]Teddy Bear was knocked unconscious and is bleeding out.
+[21:58:06	]test has fired a toolgun with the name: creator
+[21:58:07	]test has fired a toolgun with the name: creator
+[21:58:07	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:07	]test has fired a toolgun with the name: creator
+[21:58:07	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:08	]test has fired a toolgun with the name: creator
+[21:58:09	]Teddy Bear ran SAM command 'slay' with arguments: '^'
+[21:58:09	]test has fired a toolgun with the name: creator
+[21:58:09	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:10	]test has fired a toolgun with the name: creator
+[21:58:10	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:10	]Teddy Bear entered observer.
+[21:58:12	]test has fired a toolgun with the name: creator
+[21:58:12	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:13	]test has fired a toolgun with the name: creator
+[21:58:13	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:14	]test has fired a toolgun with the name: creator
+[21:58:14	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:14	]test has fired a toolgun with the name: creator
+[21:58:15	]test has fired a toolgun with the name: creator
+[21:58:15	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:16	]test has fired a toolgun with the name: creator
+[21:58:19	]test has fired a toolgun with the name: creator
+[21:58:19	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:20	]test has fired a toolgun with the name: creator
+[21:58:20	]test has fired a toolgun with the name: creator
+[21:58:20	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:21	]Teddy Bear has spawned a 'Entity [395][lvs_vehicle_spammer]'.
+[21:58:21	]test has fired a toolgun with the name: creator
+[21:58:21	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:22	]test has fired a toolgun with the name: creator
+[21:58:22	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:23	]test has fired a toolgun with the name: creator
+[21:58:23	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:23	]Teddy Bear has used a context menu option with the name: collision_on
+[21:58:24	]test has fired a toolgun with the name: creator
+[21:58:24	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:24	]Teddy Bear has used a context menu option with the name: collision_off
+[21:58:25	]test has fired a toolgun with the name: creator
+[21:58:25	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:26	]test has fired a toolgun with the name: creator
+[21:58:26	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:26	]test has fired a toolgun with the name: creator
+[21:58:27	]test has fired a toolgun with the name: creator
+[21:58:27	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:28	]test has fired a toolgun with the name: creator
+[21:58:29	]test has fired a toolgun with the name: creator
+[21:58:29	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:30	]test has fired a toolgun with the name: creator
+[21:58:30	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:31	]test has fired a toolgun with the name: creator
+[21:58:31	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:31	]test has fired a toolgun with the name: creator
+[21:58:32	]test has fired a toolgun with the name: creator
+[21:58:32	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:32	]test has fired a toolgun with the name: creator
+[21:58:33	]test has fired a toolgun with the name: creator
+[21:58:33	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:35	]test has fired a toolgun with the name: creator
+[21:58:35	]test has spawned 'models/props_c17/oildrum001_explosive.mdl'.
+[21:58:36	]test has fired a toolgun with the name: creator
+[21:58:43	]test exited observer at their location.
+[21:58:43	]test has taken 19 damage from worldspawn.
+[21:58:44	]asdasdas used command '/ToggleRaise'.
+[21:58:45	]Teddy Bear has spawned a 'Entity [411][gmod_sent_vehicle_fphysics_base]'.
+[21:58:49	]test has taken 1 damage from asdasdas.
+[21:58:52	]Teddy Bear exited observer at their location.
+[21:58:59	]test entered observer.
+[21:58:59	]test exited observer at their location.
+[21:59:00	]test has taken 9 damage from worldspawn.
+[21:59:15	]asdasdas exited observer at their location.
+[21:59:46	]asdasdas has taken 38 damage from gmod_sent_vehicle_fphysics_base.
+[21:59:50	]test has taken 16 damage from gmod_sent_vehicle_fphysics_base.
+[21:59:52	]asdasdas was knocked unconscious and is bleeding out.
+[21:59:54	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[21:59:55	]asdasdas used command '/ToggleRaise'.
+[22:00:00	]asdasdas was knocked unconscious and is bleeding out.
+[22:00:02	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[22:00:04	]asdasdas used command '/ToggleRaise'.
+[22:00:05	]test has taken 30 damage from Teddy Bear.
+[22:00:05	]test was knocked unconscious and is bleeding out.
+[22:00:07	]Teddy Bear entered observer.
+[22:00:08	]test ran SAM command 'respawn' with arguments: 'test'
+[22:00:11	]test is fully healed.
+[22:00:15	]asdasdas was knocked unconscious and is bleeding out.
+[22:00:16	]Teddy Bear exited observer at their location.
+[22:00:17	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[22:00:18	]asdasdas was knocked unconscious and is bleeding out.
+[22:00:20	]asdasdas ran SAM command 'respawn' with arguments: 'asd'
+[22:00:20	]asdasdas entered observer.
+[22:00:23	]asdasdas used command '/ToggleRaise'.
+[22:00:29	]test has taken 5 damage from Teddy Bear.
+[22:00:29	]test has taken 5 damage from Teddy Bear.
+[22:00:30	]Teddy Bear was knocked unconscious and is bleeding out.
+[22:00:35	]test entered observer.
+[22:00:38	]asdasdas exited observer at their location.
+[22:00:40	]Teddy Bear ran SAM command 'slay' with arguments: '^'
+[22:00:41	]Teddy Bear entered observer.
+[22:00:44	]M!NT (STEAM_0:1:120751263) has disconnected.
+[22:00:50	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:51	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:51	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:51	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:51	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:51	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:51	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:52	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:53	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:53	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:53	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:53	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:53	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:54	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:54	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:54	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:54	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:55	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:55	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:55	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:55	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:55	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:56	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:56	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:56	]Teddy Bear has fired a toolgun with the name: remover
+[22:00:56	]Teddy Bear has fired a toolgun with the name: remover
+[22:01:03	]Teddy Bear has spawned a 'Entity [174][gmod_sent_vehicle_fphysics_base]'.
+[22:01:03	]asdasdas entered observer.
+[22:01:30	]asdasdas has fired a toolgun with the name: remover
+[22:01:30	]asdasdas has fired a toolgun with the name: remover
+[22:01:31	]asdasdas has fired a toolgun with the name: remover
+[22:01:31	]asdasdas has fired a toolgun with the name: remover
+[22:01:32	]asdasdas has fired a toolgun with the name: remover
+[22:01:33	]asdasdas has fired a toolgun with the name: remover
+[22:01:34	]Teddy Bear exited observer at their location.
+[22:01:34	]asdasdas has fired a toolgun with the name: remover
+[22:01:35	]asdasdas has fired a toolgun with the name: remover
+[22:01:35	]asdasdas has fired a toolgun with the name: remover
+[22:01:36	]asdasdas has fired a toolgun with the name: remover
+[22:01:37	]asdasdas has fired a toolgun with the name: remover
+[22:01:37	]asdasdas has fired a toolgun with the name: remover
+[22:01:38	]asdasdas has fired a toolgun with the name: remover
+[22:01:38	]asdasdas has fired a toolgun with the name: remover
+[22:01:38	]Teddy Bear entered observer.
+[22:01:39	]asdasdas has fired a toolgun with the name: remover
+[22:01:40	]asdasdas has fired a toolgun with the name: remover
+[22:01:40	]asdasdas has fired a toolgun with the name: remover
+[22:01:41	]asdasdas has fired a toolgun with the name: remover
+[22:01:42	]asdasdas has fired a toolgun with the name: remover
+[22:01:43	]asdasdas has fired a toolgun with the name: remover
+[22:01:43	]Amazon BMD (STEAM_0:1:36030793) has disconnected.
+[22:01:45	]asdasdas has fired a toolgun with the name: remover
+[22:01:46	]asdasdas has fired a toolgun with the name: remover
+[22:01:47	]asdasdas has fired a toolgun with the name: remover
+[22:01:47	]asdasdas has fired a toolgun with the name: remover
+[22:01:47	]asdasdas has fired a toolgun with the name: remover
+[22:01:49	]asdasdas has fired a toolgun with the name: remover
+[22:01:50	]asdasdas has fired a toolgun with the name: remover
+[22:01:51	]asdasdas has fired a toolgun with the name: remover
+[22:01:53	]asdasdas has fired a toolgun with the name: remover
+[22:01:54	]asdasdas has fired a toolgun with the name: remover
+[22:01:54	]asdasdas has fired a toolgun with the name: remover
+[22:01:55	]asdasdas has fired a toolgun with the name: remover
+[22:01:56	]asdasdas has fired a toolgun with the name: remover
+[22:01:56	]asdasdas has fired a toolgun with the name: remover
+[22:01:57	]asdasdas has fired a toolgun with the name: remover
+[22:01:58	]asdasdas has fired a toolgun with the name: remover
+[22:01:59	]asdasdas has fired a toolgun with the name: remover
+[22:02:00	]asdasdas has fired a toolgun with the name: remover
+[22:02:01	]asdasdas has fired a toolgun with the name: remover
+[22:02:01	]asdasdas has fired a toolgun with the name: remover
+[22:02:02	]asdasdas has fired a toolgun with the name: remover
+[22:02:02	]asdasdas has fired a toolgun with the name: remover
+[22:02:03	]asdasdas has fired a toolgun with the name: remover
+[22:02:05	]asdasdas has fired a toolgun with the name: remover
+[22:02:05	]asdasdas has fired a toolgun with the name: remover
+[22:02:06	]asdasdas has fired a toolgun with the name: remover
+[22:02:07	]asdasdas has fired a toolgun with the name: remover
+[22:02:13	]asdasdas has fired a toolgun with the name: remover
+[22:02:13	]asdasdas has fired a toolgun with the name: remover
+[22:02:13	]asdasdas has fired a toolgun with the name: remover
+[22:02:14	]asdasdas has fired a toolgun with the name: remover
+[22:02:14	]asdasdas has fired a toolgun with the name: remover
+[22:02:14	]asdasdas has fired a toolgun with the name: remover
+[22:02:15	]asdasdas has fired a toolgun with the name: remover
+[22:02:15	]asdasdas has fired a toolgun with the name: remover
+[22:02:16	]asdasdas has fired a toolgun with the name: remover
+[22:02:16	]asdasdas has fired a toolgun with the name: remover
+[22:02:22	]Rabithunter (STEAM_0:1:22394854) has disconnected.

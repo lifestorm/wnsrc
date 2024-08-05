@@ -1,0 +1,121 @@
+[02:41:52	]ramen has connected.
+[02:43:04	]ramen loaded the character 'ramen'
+[02:43:09	]ramen is fully healed.
+[02:43:14	]ramen used command '/ToggleFlight'.
+[02:43:24	]ramen ran 'take' on item 'Surgical Kit' (#3307287)
+[02:43:24	]ramen has gained a 'Surgical Kit' #3307287.
+[02:43:33	]ramen (STEAM_0:0:426186854) has disconnected.
+[04:02:37	]The (HIDDEN) Floor Safe container (#0) was removed due to inactivity.
+[04:02:37	]The Large Metal Cabinet container (#0) was removed due to inactivity.
+[04:02:37	]The Large Metal Cabinet container (#0) was removed due to inactivity.
+[04:02:37	]The Large Crate container (#0) was removed due to inactivity.
+[21:48:47	]Astro has connected.
+[21:49:53	]Astro loaded the character 'Astro'
+[21:49:57	]Astro is fully healed.
+[21:50:03	]reece has connected.
+[21:50:10	]Astro entered observer.
+[21:51:17	]Astro exited observer at their location.
+[21:51:54	]Astro used command '/CharGiveFlag astro D'.
+[21:52:00	]Astro has given himself a rave.
+[21:52:00	]Astro has gained a 'RAVE' #3307317.
+[21:52:02	]Astro ran 'Consume' on item 'RAVE' (#3307317)
+[21:52:02	]Astro has gained a level 5 short boost in Strength.
+[21:52:16	]Astro used command '/RemoveDrugEffects astro'.
+[21:53:48	]reece loaded the character 'Reece'
+[21:54:03	]Reece used command '/ToggleRaise'.
+[21:54:04	]Reece used command '/ToggleRaise'.
+[21:54:11	]Reece used command '/ToggleRaise'.
+[21:58:21	]Reece used command '/ToggleRaise'.
+[21:58:26	]Reece used command '/ToggleRaise'.
+[21:58:28	]Reece used command '/ToggleRaise'.
+[21:58:33	][OOC] Reece: hello?
+[21:58:52	][IC] Reece: Give me perms damint.
+[21:59:08	][IC] Astro: I cant.
+[21:59:19	]Reece used command '/ToggleRaise'.
+[21:59:22	][IC] Reece: Why not?!
+[21:59:22	]Reece used command '/ToggleRaise'.
+[22:02:30	]Reece ran 'Open' on item 'True Loyalist Ration' (#3307034)
+[22:02:30	]Reece has gained a 'Union Choco' #3307318.
+[22:02:30	]Reece has gained a 'Salmon Steak' #3307319.
+[22:02:30	]Reece has gained a 'Premium Breen's Water' #3307320.
+[22:02:30	]Reece has gained a '20 Credits Coupon' #3307321.
+[22:02:33	]Reece ran 'Consume' on item 'Union Choco' (#3307318)
+[22:02:33	]Reece has gained a 'Plastic garbage' #3307322.
+[22:02:33	]Reece ran 'Consume' on item 'Salmon Steak' (#3307319)
+[22:02:33	]Reece has gained a level 5 long boost in Intelligence.
+[22:02:33	]Reece has gained a level 5 long boost in Perception.
+[22:02:35	]Reece ran 'Consume' on item 'Premium Breen's Water' (#3307320)
+[22:02:39	]Astro used command '/ViewInfo astro'.
+[22:02:55	][OOC] Reece: Come to me and spawn soemthing for me
+[22:03:44	][IC] Reece: Blue crysal.
+[22:03:47	][IC] Reece: Entity.
+[22:03:49	][IC] Reece: I wanna see it.
+[22:03:51	]Astro has spawned a 'Entity [423][wn_crystal_blue]'.
+[22:03:54	]Astro has taken 5 damage from wn_crystal_blue.
+[22:03:54	]Reece has taken 5 damage from wn_crystal_blue.
+[22:03:56	]Reece has taken 5 damage from wn_crystal_blue.
+[22:04:08	]Reece has taken 5 damage from wn_crystal_blue.
+[22:04:10	]Reece has taken 5 damage from wn_crystal_blue.
+[22:04:10	]Reece ran 'drop' on item 'Plastic garbage' (#3307322)
+[22:04:10	]Reece has lost a 'Plastic garbage' #3307322.
+[22:04:12	]Astro has taken 5 damage from wn_crystal_blue.
+[22:04:12	]Reece has taken 5 damage from wn_crystal_blue.
+[22:04:13	]env_entity_dissolver destroyed a 'Plastic garbage' #3307322.
+[22:04:14	]Reece has taken 5 damage from wn_crystal_blue.
+[22:04:16	]Reece has taken 5 damage from wn_crystal_blue.
+[22:04:18	]Reece was knocked unconscious and is bleeding out.
+[22:04:22	][IC] Reece: Agh.
+[22:04:28	][IC] Reece: Let me die to it.
+[22:04:36	]Astro has taken 5 damage from wn_crystal_blue.
+[22:04:38	]Astro has taken 5 damage from wn_crystal_blue.
+[22:04:39	]Astro used command '/CharStopBleedout reece'.
+[22:04:40	]Astro has taken 5 damage from wn_crystal_blue.
+[22:04:41	][IC] Reece: NOOO.
+[22:04:42	]Astro has taken 5 damage from wn_crystal_blue.
+[22:04:44	]Astro has taken 5 damage from wn_crystal_blue.
+[22:04:45	][IC] Reece: SLAY ME.
+[22:04:46	]Astro has taken 5 damage from wn_crystal_blue.
+[22:04:48	]Astro has taken 5 damage from wn_crystal_blue.
+[22:04:50	]Reece has taken 5 damage from wn_crystal_blue.
+[22:04:52	]Reece was knocked unconscious and is bleeding out.
+[22:04:58	]Astro has taken 5 damage from wn_crystal_blue.
+[22:05:00	]Astro has taken 5 damage from wn_crystal_blue.
+[22:05:02	]Astro has taken 5 damage from wn_crystal_blue.
+[22:05:03	][IC] Astro: Disintigration is broken.
+[22:05:04	]Astro has taken 5 damage from wn_crystal_blue.
+[22:05:06	]Astro has taken 5 damage from wn_crystal_blue.
+[22:05:06	][IC] Astro: For bleedout.
+[22:05:07	]Reece was just killed due to: accepting their death
+[22:05:07	]Astro has taken 5 damage from wn_crystal_blue.
+[22:05:08	]Astro entered observer.
+[22:05:14	]Astro exited observer at their location.
+[22:05:18	]Astro has spawned a 'Entity [423][wn_singularity_blue]'.
+[22:05:20	]Astro has taken 5 damage from wn_singularity_blue.
+[22:05:21	]Astro has taken 5 damage from wn_singularity_blue.
+[22:05:22	][OOC] Reece: No it's supposed to be like that, it's good.
+[22:05:23	]Reece has taken 5 damage from wn_singularity_blue.
+[22:05:24	]Reece has taken 5 damage from wn_singularity_blue.
+[22:05:27	]Reece has taken 5 damage from wn_singularity_blue.
+[22:05:28	]Reece has taken 5 damage from wn_singularity_blue.
+[22:05:29	]Reece has taken 5 damage from wn_singularity_blue.
+[22:05:30	]Reece has taken 5 damage from wn_singularity_blue.
+[22:05:31	]Reece has taken 5 damage from wn_singularity_blue.
+[22:05:32	]Reece has taken 5 damage from wn_singularity_blue.
+[22:05:38	]Astro has spawned a 'Entity [423][ix_vein_gold]'.
+[22:05:41	][IC] Reece: Okay time to lock in.
+[22:05:46	][Y] Reece: LOCKING IN DON'T BOTHER ME.
+[22:05:50	]Astro used command '/ToggleRaise'.
+[22:06:07	]Astro entered observer.
+[22:11:52	]Astro has gone afk.
+[22:18:47	]Astro is no longer afk. Total time spent AFK: 710
+[22:18:48	]Reece has gone afk.
+[22:22:43	]Reece is no longer afk. Total time spent AFK: 530
+[22:25:45	]Astro used command '/ToggleRaise'.
+[22:25:49	]Astro exited observer at their location.
+[22:25:52	]Astro used command '/ToggleRaise'.
+[22:25:54	]Astro has hit Reece in the head dealing 100 damage (CritChance was 0.00).
+[22:25:54	]Reece was knocked unconscious and is bleeding out.
+[22:26:04	]Astro (STEAM_0:1:86837969) has disconnected.
+[22:31:13	]Reece has gone afk.
+[22:37:03	]Reece is no longer afk. Total time spent AFK: 645
+[22:59:42	]Reece has gone afk.

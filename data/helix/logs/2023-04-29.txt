@@ -1,0 +1,179 @@
+[16:43:34	]Kranky has connected.
+[16:43:58	]Mango has connected.
+[16:44:38	]Mango (STEAM_0:0:544539350) deleted character 'Banana'
+[16:44:41	]Mango (STEAM_0:0:544539350) deleted character 'Gulanga'
+[16:45:08	]Mango created the character 'Wasabi'
+[16:45:09	]Wasabi has gained a 'Vortigaunt Hooks' #1656003.
+[16:45:09	]Wasabi has gained a 'Vortigaunt Shackles' #1656004.
+[16:45:09	]Wasabi has gained a 'Vortigaunt Collar' #1656005.
+[16:45:09	]Mango loaded the character 'Wasabi'
+[16:45:27	][IC] Wasabi: Yes.
+[16:45:33	]Wasabi entered observer.
+[16:45:35	]Wasabi exited observer at their location.
+[16:45:35	]Kranky loaded the character 'John Johnson'
+[16:45:56	][OOC] Wasabi: omg 
+[16:46:01	][OOC] John Johnson: hi
+[16:46:03	][OOC] Wasabi: hihi
+[16:46:14	]Wasabi entered observer.
+[16:46:18	]Wasabi exited observer at their location.
+[16:46:26	][OOC] John Johnson: I heard a fucking vortal "YESSS" and had to get on my char lmao
+[16:46:31	]John Johnson used command '/CharDesc'.
+[16:46:32	][IC] Wasabi: Yes...
+[16:46:39	]Wasabi ran SAM command 'scale' with arguments: 'wasabi' '0.9'
+[16:46:46	][LOOC] Wasabi: I'm testing datafiles for vorts
+[16:47:01	]Wasabi used command '/CharGiveFlag wasa U'.
+[16:47:04	]Wasabi used command '/Datafile wasab'.
+[16:47:15	][OOC] John Johnson: nice
+[16:47:20	][OOC] John Johnson: uhhh
+[16:47:29	][OOC] Wasabi: huge map
+[16:47:32	][OOC] John Johnson: yeah ik
+[16:47:38	][OOC] John Johnson: I checked it out on sandbox
+[16:47:57	]John Johnson has spawned 'models/jq/hlvr/props/infestation/p1/boomerplant_01.mdl'.
+[16:47:59	][OOC] Wasabi: gonna be good tho
+[16:48:05	][OOC] John Johnson: yeah
+[16:48:27	]Wasabi used command '/Datafile wa'.
+[16:49:03	]Wasabi used command '/Datafile wa'.
+[16:49:18	]Wasabi used command '/Datafile wa'.
+[16:49:40	][OOC] Wasabi: ugh doesn't let me look through cid 
+[16:49:41	]John Johnson ran 'drop' on item 'AR-2' (#1655957)
+[16:49:41	]John Johnson has lost a 'AR-2' #1655957.
+[16:49:43	]John Johnson ran 'take' on item 'AR-2' (#1655957)
+[16:49:43	]John Johnson has gained a 'AR-2' #1655957.
+[16:49:55	][OOC] John Johnson: Ah, I'm not sure how to check that stuff, I think I need a datapad. 
+[16:49:59	]Wasabi used command '/CreateCid wasa'.
+[16:49:59	]Wasabi has gained a '#33488's Identity Card' #1656006.
+[16:50:10	][OOC] John Johnson: never really was a CP or OTA, I'm just a funny guy with an OTA suit  from the admin NPC
+[16:50:10	]Wasabi used command '/Datafile 33488'.
+[16:50:21	][OOC] John Johnson: idk where the admin NPC is now tho
+[16:50:31	][IC] Wasabi: Cooking.
+[16:50:36	]Wasabi entered observer.
+[16:50:38	]Wasabi exited observer at their location.
+[16:50:42	][IC] Wasabi: There!
+[16:50:45	][IC] Wasabi: Here.
+[16:50:49	][IC] John Johnson: <:: Closing. ::>
+[16:50:50	][IC] Wasabi: Come in, come in!
+[16:50:57	][IC] Wasabi: Enter...
+[16:51:26	]John Johnson used command '/ActType'.
+[16:51:29	]John Johnson used command '/ExitAct'.
+[16:51:34	]Mango created the character 'Nihilanth'
+[16:51:34	]Mango loaded the character 'Nihilanth'
+[16:51:34	]Nihilanth has gained a '#68485's Identity Card' #1656007.
+[16:51:34	]Nihilanth has gained a 'Vortigaunt Brown Trousers' #1656008.
+[16:51:41	]John Johnson has gained level 1 in the Guns skill.
+[16:51:44	]John Johnson has gained level 4 in the Speed skill.
+[16:52:07	]John Johnson has changed John Johnson's bodygroups.
+[16:52:41	]Kranky has unloaded their "John Johnson" character.
+[16:52:47	]Nihilanth used command '/CharGiveFlag nihi U'.
+[16:52:50	]Nihilanth entered observer.
+[16:52:52	]Nihilanth exited observer at their location.
+[16:52:53	]Kranky loaded the character 'John Johnson'
+[16:52:54	]Nihilanth entered observer.
+[16:52:56	]Nihilanth exited observer at their location.
+[16:53:02	]Nihilanth used command '/Datafile 2'.
+[16:53:08	][OOC] John Johnson: accidentally unloaded my char
+[16:53:25	]Nihilanth used command '/Datafile 68485'.
+[16:53:53	]Nihilanth used command '/Datafile 68485'.
+[16:54:41	]John Johnson has spawned 'models/jq/hlvr/props/xenpack/xen_seed_cluster_stick_1.mdl'.
+[16:55:01	][IC] John Johnson: I got that Xen Kush or whatever it's called.
+[16:55:32	][IC] Nihilanth: Xen kush!?
+[16:55:42	][IC] Nihilanth: Success!
+[16:56:07	][ME] Nihilanth: smokes their Xen Kush
+[16:56:13	]John Johnson used command '/CharDesc'.
+[16:56:28	][IC] Nihilanth: Here. Come, cooking.
+[16:56:45	]Nihilanth used command '/CharGiveFlag nihi q'.
+[16:56:57	]John Johnson has spawned 'models/props_phx/construct/metal_dome360.mdl'.
+[16:56:59	]John Johnson has fired a toolgun with the name: material
+[16:57:02	][IC] Nihilanth: No.
+[16:57:04	][IC] Nihilanth: D:.
+[16:57:05	]John Johnson has fired a toolgun with the name: material
+[16:57:11	][IC] Nihilanth: Fake shield!
+[16:57:32	][IC] John Johnson: I am the one who galunga's.
+[16:57:39	][IC] Nihilanth: Kinsman.
+[16:57:54	]Nihilanth used command '/EnterMeditation'.
+[16:58:02	]Nihilanth used command '/ActIdle'.
+[16:58:07	]Nihilanth used command '/ExitAct'.
+[16:58:17	]John Johnson ran 'Equip' on item 'AR-2' (#1655957)
+[16:58:30	]Nihilanth used command '/ActIdle'.
+[16:58:31	]Nihilanth used command '/EnterMeditation'.
+[16:58:32	]John Johnson ran 'EquipUn' on item 'AR-2' (#1655957)
+[16:58:32	]Nihilanth used command '/ExitAct'.
+[16:58:40	]Nihilanth has given himself a vortigaunt_bandages.
+[16:58:40	]Nihilanth has gained a 'Vortigaunt Bandages' #1656009.
+[16:58:48	][IC] John Johnson: If only we had trains so we could replicater on a rail.
+[16:58:57	][IC] John Johnson: (The best half life chapter ever totally).
+[16:59:05	]John Johnson ran 'Equip' on item 'AR-2' (#1655957)
+[16:59:13	]John Johnson was knocked unconscious and is bleeding out.
+[16:59:22	][IC] Nihilanth: Success!
+[16:59:30	]Nihilanth ran SAM command 'respawn' with arguments: 'a'
+[16:59:33	][IC] John Johnson: Make the hold E for bleedout faster >:(.
+[16:59:36	]John Johnson was just killed due to: accepting their death
+[16:59:37	]Nihilanth ran SAM command 'respawn' with arguments: 'joh'
+[16:59:39	]Nihilanth entered observer.
+[16:59:40	]Nihilanth exited observer at their location.
+[17:00:05	][IC] Nihilanth: Okay, test unsuccessful partially I go back to coding.
+[17:00:11	][IC] John Johnson: Have funn.
+[17:00:15	][IC] Nihilanth: Yes, a lot.
+[17:00:16	][IC] John Johnson: Can we get an Admin NPC.
+[17:00:33	][IC] Nihilanth: Admin vendor?
+[17:00:35	][IC] John Johnson: Yea.
+[17:00:37	][IC] Nihilanth: I'd have to add one by one!!
+[17:00:56	][IC] John Johnson: Idk what that means but uhh.
+[17:00:59	][IC] John Johnson: :thumbsup:.
+[17:01:14	]Nihilanth has spawned a 'Entity [93][ix_workerk_water]'.
+[17:01:16	]Nihilanth has spawned a 'Entity [93][ix_vendor]'.
+[17:01:18	]Nihilanth used the 'John Doe' vendor.
+[17:01:19	]John Johnson used the 'John Doe' vendor.
+[17:01:28	]Nihilanth entered observer.
+[17:01:29	][IC] John Johnson: OH MY GOD ITS JOHN DOE?!??!
+[17:01:31	]John Johnson used the 'John Doe' vendor.
+[17:01:35	]Nihilanth exited observer at their location.
+[17:01:36	]Nihilanth used the 'John Doe' vendor.
+[17:01:40	]Nihilanth has used a context menu option with the name: vendor_edit
+[17:01:56	]John Johnson has spawned 'models/extras/info_speech.mdl'.
+[17:02:05	]Nihilanth has used a context menu option with the name: remove
+[17:02:11	][IC] Nihilanth: Uhhh I'm not going to add one by one.
+[17:02:13	][IC] Nihilanth: Too many items sry.
+[17:02:16	][IC] John Johnson: Damn.
+[17:02:18	][IC] John Johnson: Its alr.
+[17:02:27	][IC] Nihilanth: Tho back I go to coding! Stay safe.
+[17:02:32	][IC] John Johnson: Alright, have funnnn.
+[17:02:41	]Mango (STEAM_0:0:544539350) has disconnected.
+[17:02:54	]Kranky (STEAM_0:1:110380124) has disconnected.
+[18:18:53	]Mango has connected.
+[18:20:10	]Mango loaded the character 'Nihilanth'
+[18:20:23	]Mango loaded the character 'Wasabi'
+[18:20:33	][IC] Wasabi: A.
+[18:20:35	]Wasabi used command '/ViewInfo wasa'.
+[18:22:03	][IC] Wasabi: A.
+[18:22:06	]Wasabi used command '/Datafile wasabi'.
+[18:22:15	]Wasabi used command '/Datafile 33488'.
+[18:22:24	]Wasabi used command '/ViewInfo wasa'.
+[18:22:36	]Wasabi used command '/Datafile 33488'.
+[18:27:40	]Mango loaded the character 'Nihilanth'
+[18:27:49	][IC] Nihilanth: Yes3.
+[18:27:52	][IC] Nihilanth: Yess.
+[18:27:53	][IC] Nihilanth: Yesss.
+[18:27:54	][IC] Nihilanth: Yessss.
+[18:27:55	][IC] Nihilanth: Yesssss.
+[18:27:56	][IC] Nihilanth: Yessssss.
+[18:28:14	][IC] Nihilanth: Forward. Come!
+[18:28:16	][IC] Nihilanth: Enter...
+[18:28:17	][IC] Nihilanth: Come in, come in!
+[18:28:34	][IC] Nihilanth: A pleasure.
+[18:28:36	][IC] Nihilanth: It is a pleasure.
+[18:28:39	][IC] Nihilanth: Pleasure.
+[18:28:52	]Nihilanth entered observer.
+[18:32:05	]Nihilanth exited observer at their location.
+[18:32:07	]Nihilanth entered observer.
+[18:32:49	]Nihilanth exited observer at their location.
+[18:32:50	]Nihilanth entered observer.
+[18:32:52	]Nihilanth exited observer at their location.
+[18:32:59	]Nihilanth has used a context menu option with the name: rb655_door_open
+[18:33:10	]Nihilanth has used a context menu option with the name: rb655_door_close
+[18:33:26	]Mango (STEAM_0:0:544539350) has disconnected.
+[22:08:06	]Iqut has connected.
+[22:09:18	]Iqut loaded the character 'Homat homatch'
+[22:09:23	]Homat homatch is fully healed.
+[22:09:29	]Homat homatch ran 'Equip' on item 'M1014' (#1655968)
+[22:09:30	]Homat homatch has lost a '6rnd M1014 Rounds' #1655969.
+[22:09:44	]Iqut (STEAM_0:0:173208852) has disconnected.

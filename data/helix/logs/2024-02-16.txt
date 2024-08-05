@@ -1,0 +1,902 @@
+[09:05:00	]Mango has connected.
+[09:06:56	]Mango loaded the character 'Mango'
+[09:07:11	]Mango entered observer.
+[09:07:15	]Mango used command '/AreaEdit'.
+[09:07:20	]Mango used command '/NPCAreas'.
+[09:07:23	]Mango used command '/NPCAreas'.
+[09:07:31	]Mango used command '/NPCAreas'.
+[09:08:03	][Area-Based NPC Spawner] Mango has added area spawner test at New Area
+[09:08:17	]Mango used command '/NPCAreas'.
+[09:08:30	]Mango used command '/NPCAreas'.
+[09:08:32	][Area-Based NPC Spawner] Mango has edited area spawner test at New Area
+[09:08:54	]Mango exited observer.
+[09:09:09	]Mango entered observer.
+[09:09:18	]Mango exited observer.
+[09:09:25	]Mango has taken 30 damage from Gonome.
+[09:09:25	]Mango has taken 5 damage from obj_gonome_acid.
+[09:09:31	]Mango has taken 30 damage from Gonome.
+[09:14:27	]Mango has connected.
+[09:16:36	]Mango loaded the character 'C24:i5.ROLLER-34'
+[09:16:44	]C24:i5.ROLLER-34 entered observer.
+[09:16:50	]C24:i5.ROLLER-34 exited observer.
+[09:16:51	]C24:i5.ROLLER-34 entered observer.
+[09:17:05	]C24:i5.ROLLER-34 exited observer at their location.
+[09:17:07	]C24:i5.ROLLER-34 entered observer.
+[09:17:16	]C24:i5.ROLLER-34 used command '/NPCAreas'.
+[09:17:31	]C24:i5.ROLLER-34 used command '/removeAllNPCS'.
+[09:23:56	]C24:i5.ROLLER-34 exited observer at their location.
+[09:23:57	]C24:i5.ROLLER-34 entered observer.
+[09:24:39	]C24:i5.ROLLER-34 exited observer at their location.
+[09:24:42	]C24:i5.ROLLER-34 has taken 30 damage from Gonome.
+[09:24:46	]C24:i5.ROLLER-34 is fully healed.
+[09:24:47	]C24:i5.ROLLER-34 entered observer.
+[09:26:57	]Mango (STEAM_0:0:544539350) has disconnected.
+[16:05:45	]M!NT has connected.
+[16:06:22	]M!NT loaded the character 'Adalia Torres'
+[16:06:27	]Adalia Torres is fully healed.
+[16:06:46	]Adalia Torres ran 'drop' on item 'VSK-94' (#2688734)
+[16:06:46	]Adalia Torres has lost a 'VSK-94' #2688734.
+[16:06:55	]Adalia Torres has given himself a res_329pd.
+[16:06:55	]Adalia Torres has gained a 'Model 329PD' #2688899.
+[16:06:57	]Adalia Torres ran 'Equip' on item 'Model 329PD' (#2688899)
+[16:07:24	]Adalia Torres ran 'drop' on item 'Model 329PD' (#2688899)
+[16:07:24	]Adalia Torres has lost a 'Model 329PD' #2688899.
+[16:07:27	]Adalia Torres entered observer.
+[16:07:28	]Adalia Torres exited observer at their location.
+[16:07:31	]Adalia Torres has given himself a cmb_hkusp.
+[16:07:31	]Adalia Torres has gained a 'HK USP .45' #2688900.
+[16:07:32	]Adalia Torres ran 'Equip' on item 'HK USP .45' (#2688900)
+[16:07:50	]Adalia Torres ran 'drop' on item 'HK USP .45' (#2688900)
+[16:07:50	]Adalia Torres has lost a 'HK USP .45' #2688900.
+[16:07:53	]Adalia Torres has given himself a gen_m16.
+[16:07:54	]Adalia Torres has gained a 'M16A2' #2688901.
+[16:07:55	]Adalia Torres ran 'Equip' on item 'M16A2' (#2688901)
+[16:08:10	]Adalia Torres has spawned a 'NPC [6354][npc_zombie_torso]'.
+[16:08:11	]Adalia Torres has critically hit npc_zombie_torso in the chest dealing 15 damage (CritChance was 0.43).
+[16:08:11	]Adalia Torres has critically hit npc_zombie_torso in the chest dealing 15 damage (CritChance was 0.43).
+[16:08:11	]Adalia Torres has hit npc_zombie_torso in the head dealing 15 damage (CritChance was 0.14).
+[16:08:12	]Adalia Torres has hit npc_zombie_torso in the head dealing 15 damage (CritChance was 0.14).
+[16:08:20	]Adalia Torres has spawned a 'NPC [6354][npc_headcrab_black]'.
+[16:08:20	]Adalia Torres has critically hit npc_headcrab_black dealing 12 damage (CritChance was 0.72).
+[16:08:26	]Adalia Torres has critically hit npc_headcrab_black dealing 12 damage (CritChance was 0.72).
+[16:08:26	]Adalia Torres has critically hit npc_headcrab_black dealing 12 damage (CritChance was 0.72).
+[16:08:35	]Adalia Torres has spawned a 'NPC [6354][npc_poisonzombie]'.
+[16:08:36	]Adalia Torres has hit npc_poisonzombie in the head dealing 15 damage (CritChance was 0.14).
+[16:08:36	]Adalia Torres has critically hit npc_poisonzombie in the head dealing 18 damage (CritChance was 0.14).
+[16:08:36	]Adalia Torres has hit npc_poisonzombie in the head dealing 15 damage (CritChance was 0.14).
+[16:08:36	]Adalia Torres has hit npc_poisonzombie in the head dealing 15 damage (CritChance was 0.14).
+[16:08:36	]Adalia Torres has hit npc_poisonzombie in the head dealing 15 damage (CritChance was 0.14).
+[16:08:36	]Adalia Torres has critically hit npc_poisonzombie in the head dealing 18 damage (CritChance was 0.14).
+[16:08:41	]Adalia Torres has hit npc_headcrab_poison dealing 9 damage (CritChance was 0.72).
+[16:08:41	]Adalia Torres has hit npc_headcrab_poison dealing 9 damage (CritChance was 0.72).
+[16:08:44	]Adalia Torres has critically hit npc_headcrab_poison dealing 12 damage (CritChance was 0.72).
+[16:08:44	]Adalia Torres has critically hit npc_headcrab_poison dealing 12 damage (CritChance was 0.72).
+[16:08:49	]Adalia Torres has spawned a 'NPC [6354][npc_zombie]'.
+[16:08:51	]Adalia Torres has critically hit npc_zombie in the left arm dealing 10 damage (CritChance was 0.42).
+[16:08:51	]Adalia Torres has taken 10 damage from npc_zombie.
+[16:08:51	]Adalia Torres has hit npc_zombie in the head dealing 15 damage (CritChance was 0.14).
+[16:08:52	]Adalia Torres has hit npc_zombie in the head dealing 15 damage (CritChance was 0.14).
+[16:09:12	]M!NT loaded the character 'Vending Machine'
+[16:09:17	]Vending Machine is fully healed.
+[16:09:30	]M!NT loaded the character 'Andriy Andreeva'
+[16:09:35	]Andriy Andreeva is fully healed.
+[16:09:52	]M!NT loaded the character 'C24:i4.QUICK-97'
+[16:09:57	]C24:i4.QUICK-97 is fully healed.
+[16:10:03	]C24:i4.QUICK-97 entered observer.
+[16:10:15	]C24:i4.QUICK-97 exited observer at their location.
+[16:10:35	]C24:i4.QUICK-97 has given himself a cmb_hkusp.
+[16:10:35	]C24:i4.QUICK-97 has gained a 'HK USP .45' #2688902.
+[16:10:37	]C24:i4.QUICK-97 ran 'Equip' on item 'HK USP .45' (#2688902)
+[16:11:03	]C24:i4.QUICK-97 has spawned a 'NPC [6354][npc_zombie]'.
+[16:11:04	]C24:i4.QUICK-97 has taken 10 damage from npc_zombie.
+[16:11:06	]C24:i4.QUICK-97 has critically hit npc_zombie dealing 24 damage (CritChance was 1.00).
+[16:11:06	]C24:i4.QUICK-97 has critically hit npc_zombie dealing 24 damage (CritChance was 1.00).
+[16:11:06	]C24:i4.QUICK-97 has taken 10 damage from npc_zombie.
+[16:11:07	]C24:i4.QUICK-97 is fully healed.
+[16:11:09	]C24:i4.QUICK-97 has taken 10 damage from npc_zombie.
+[16:11:12	]C24:i4.QUICK-97 is fully healed.
+[16:11:15	]C24:i4.QUICK-97 has given himself a machete.
+[16:11:16	]C24:i4.QUICK-97 has given himself a machete.
+[16:11:20	]C24:i4.QUICK-97 has given himself a machete.
+[16:11:22	]C24:i4.QUICK-97 ran 'drop' on item 'HK USP .45' (#2688902)
+[16:11:22	]C24:i4.QUICK-97 has lost a 'HK USP .45' #2688902.
+[16:11:24	]C24:i4.QUICK-97 has given himself a machete.
+[16:11:24	]C24:i4.QUICK-97 has gained a 'Machete' #2688903.
+[16:11:26	]C24:i4.QUICK-97 ran 'Equip' on item 'Machete' (#2688903)
+[16:11:29	]C24:i4.QUICK-97 ran 'EquipUn' on item 'CV-2000 Stun Baton' (#2673911)
+[16:11:30	]C24:i4.QUICK-97 ran 'Equip' on item 'Machete' (#2688903)
+[16:11:37	]C24:i4.QUICK-97 has spawned a 'NPC [6355][npc_zombie]'.
+[16:11:39	]C24:i4.QUICK-97 has critically hit npc_zombie in the left arm dealing 36 damage (CritChance was 0.40).
+[16:11:39	]C24:i4.QUICK-97 has taken 10 damage from npc_zombie.
+[16:11:41	]C24:i4.QUICK-97 has critically hit npc_zombie dealing 36 damage (CritChance was 0.40).
+[16:11:42	]C24:i4.QUICK-97 has taken 10 damage from npc_zombie.
+[16:11:42	]C24:i4.QUICK-97 is fully healed.
+[16:11:43	]C24:i4.QUICK-97 has hit npc_zombie in the right arm dealing 18 damage (CritChance was 0.40).
+[16:11:46	]C24:i4.QUICK-97 has critically hit npc_zombie in the chest dealing 36 damage (CritChance was 0.40).
+[16:11:51	]C24:i4.QUICK-97 has spawned a 'NPC [6355][npc_fastzombie]'.
+[16:11:52	]C24:i4.QUICK-97 has taken 3 damage from npc_fastzombie.
+[16:11:52	]C24:i4.QUICK-97 has taken 3 damage from npc_fastzombie.
+[16:11:52	]C24:i4.QUICK-97 is fully healed.
+[16:11:52	]C24:i4.QUICK-97 has critically hit npc_fastzombie dealing 36 damage (CritChance was 0.40).
+[16:11:55	]C24:i4.QUICK-97 has taken 3 damage from npc_fastzombie.
+[16:11:55	]C24:i4.QUICK-97 has hit npc_fastzombie dealing 18 damage (CritChance was 0.40).
+[16:11:57	]C24:i4.QUICK-97 is fully healed.
+[16:12:00	]C24:i4.QUICK-97 has spawned a 'NPC [6355][npc_antlionguard]'.
+[16:12:01	]C24:i4.QUICK-97 has taken 10 damage from npc_antlionguard.
+[16:12:01	]C24:i4.QUICK-97 has taken 10 damage from npc_antlionguard.
+[16:12:02	]C24:i4.QUICK-97 is fully healed.
+[16:12:06	]C24:i4.QUICK-97 has spawned a 'NPC [6355][npc_antlion]'.
+[16:12:07	]C24:i4.QUICK-97 has taken 5 damage from npc_antlion.
+[16:12:08	]C24:i4.QUICK-97 has taken 5 damage from npc_antlion.
+[16:12:10	]C24:i4.QUICK-97 has taken 5 damage from npc_antlion.
+[16:12:11	]C24:i4.QUICK-97 has hit npc_antlion dealing 18 damage (CritChance was 0.40).
+[16:12:11	]C24:i4.QUICK-97 has taken 5 damage from npc_antlion.
+[16:12:12	]C24:i4.QUICK-97 has gained level 9 in the Melee skill.
+[16:12:12	]C24:i4.QUICK-97 has hit npc_antlion dealing 18 damage (CritChance was 0.40).
+[16:12:12	]C24:i4.QUICK-97 is fully healed.
+[16:12:28	]C24:i4.QUICK-97 has spawned a 'NPC [6355][npc_vj_hlr1_hgrunt_serg]'.
+[16:12:29	]C24:i4.QUICK-97 has taken 10 damage from Human Sergeant.
+[16:12:29	]C24:i4.QUICK-97 has critically hit npc_vj_hlr1_hgrunt_serg in the stomach dealing 36 damage (CritChance was 0.41).
+[16:12:29	]C24:i4.QUICK-97 has taken 10 damage from Human Sergeant.
+[16:12:32	]C24:i4.QUICK-97 has critically hit npc_vj_hlr1_hgrunt_serg dealing 36 damage (CritChance was 0.41).
+[16:12:32	]C24:i4.QUICK-97 is fully healed.
+[16:12:33	]C24:i4.QUICK-97 has taken 10 damage from Human Sergeant.
+[16:12:34	]C24:i4.QUICK-97 has taken 10 damage from Human Sergeant.
+[16:12:34	]C24:i4.QUICK-97 has critically hit npc_vj_hlr1_hgrunt_serg in the chest dealing 36 damage (CritChance was 0.41).
+[16:12:34	]C24:i4.QUICK-97 has taken 10 damage from Human Sergeant.
+[16:12:35	]C24:i4.QUICK-97 has taken 10 damage from Human Sergeant.
+[16:12:36	]C24:i4.QUICK-97 has taken 10 damage from Human Sergeant.
+[16:12:37	]C24:i4.QUICK-97 has taken 10 damage from Human Sergeant.
+[16:12:37	]C24:i4.QUICK-97 is fully healed.
+[16:12:37	]C24:i4.QUICK-97 has taken 10 damage from Human Sergeant.
+[16:12:38	]C24:i4.QUICK-97 has hit npc_vj_hlr1_hgrunt_serg in the stomach dealing 18 damage (CritChance was 0.41).
+[16:12:39	]C24:i4.QUICK-97 has taken 5 damage from Human Sergeant.
+[16:12:40	]C24:i4.QUICK-97 has taken 10 damage from Human Sergeant.
+[16:12:40	]C24:i4.QUICK-97 has taken 10 damage from Human Sergeant.
+[16:12:40	]C24:i4.QUICK-97 has taken 10 damage from Human Sergeant.
+[16:12:42	]C24:i4.QUICK-97 has taken 1 damage from Human Sergeant.
+[16:12:42	]C24:i4.QUICK-97 has taken 1 damage from Human Sergeant.
+[16:12:42	]C24:i4.QUICK-97 has taken 1 damage from Human Sergeant.
+[16:12:42	]C24:i4.QUICK-97 has taken 1 damage from Human Sergeant.
+[16:12:42	]C24:i4.QUICK-97 has taken 1 damage from Human Sergeant.
+[16:12:42	]C24:i4.QUICK-97 is fully healed.
+[16:12:42	]C24:i4.QUICK-97 has taken 10 damage from Human Sergeant.
+[16:12:42	]C24:i4.QUICK-97 has hit npc_vj_hlr1_hgrunt_serg in the chest dealing 18 damage (CritChance was 0.41).
+[16:12:43	]C24:i4.QUICK-97 has taken 10 damage from Human Sergeant.
+[16:12:43	]C24:i4.QUICK-97 has hit npc_vj_hlr1_hgrunt_serg in the chest dealing 18 damage (CritChance was 0.41).
+[16:12:43	]C24:i4.QUICK-97 has taken 10 damage from Human Sergeant.
+[16:12:44	]C24:i4.QUICK-97 has taken 10 damage from Human Sergeant.
+[16:12:47	]C24:i4.QUICK-97 is fully healed.
+[16:12:47	]C24:i4.QUICK-97 has spawned a 'NPC [6355][npc_vj_hlr1_houndeye]'.
+[16:12:48	]C24:i4.QUICK-97 has hit npc_vj_hlr1_houndeye dealing 18 damage (CritChance was 0.41).
+[16:12:49	]C24:i4.QUICK-97 has taken 7 damage from Houndeye.
+[16:12:50	]Houndeye destroyed a 'Your local plug' #2648107.
+[16:12:50	]Houndeye destroyed a 'HK USP .45' #2687185.
+[16:12:50	]Houndeye destroyed a 'Model 329PD' #2688899.
+[16:12:50	]C24:i4.QUICK-97 has hit npc_vj_hlr1_houndeye in the head dealing 18 damage (CritChance was 0.41).
+[16:12:51	]C24:i4.QUICK-97 has critically hit npc_vj_hlr1_houndeye dealing 36 damage (CritChance was 0.41).
+[16:12:56	]C24:i4.QUICK-97 has spawned a 'NPC [5658][npc_vj_hlr1_zombie]'.
+[16:12:56	]C24:i4.QUICK-97 has taken 25 damage from Zombie.
+[16:12:57	]C24:i4.QUICK-97 has critically hit npc_vj_hlr1_zombie in the head dealing 36 damage (CritChance was 0.41).
+[16:13:01	]C24:i4.QUICK-97 has spawned a 'NPC [5658][npc_vj_hlr1_zombie]'.
+[16:13:02	]C24:i4.QUICK-97 has critically hit npc_vj_hlr1_zombie in the head dealing 36 damage (CritChance was 0.41).
+[16:13:05	]C24:i4.QUICK-97 entered observer.
+[16:13:07	]C24:i4.QUICK-97 exited observer at their location.
+[16:13:08	]C24:i4.QUICK-97 entered observer.
+[16:13:09	]C24:i4.QUICK-97 exited observer at their location.
+[16:13:09	]C24:i4.QUICK-97 has taken 61 damage from worldspawn.
+[16:13:16	]C24:i4.QUICK-97 ran SAM command 'armor' with arguments: 'quick' '50'
+[16:13:19	]C24:i4.QUICK-97 ran SAM command 'hp' with arguments: 'quick' '100'
+[16:13:22	]C24:i4.QUICK-97 is fully healed.
+[16:13:23	]C24:i4.QUICK-97 has spawned a 'NPC [5658][npc_vj_hlr1_mrfriendly]'.
+[16:13:24	]C24:i4.QUICK-97 has taken 5 damage from Mr. Friendly.
+[16:13:24	]C24:i4.QUICK-97 has taken 5 damage from Mr. Friendly.
+[16:13:24	]C24:i4.QUICK-97 has taken 5 damage from Mr. Friendly.
+[16:13:24	]C24:i4.QUICK-97 has taken 5 damage from Mr. Friendly.
+[16:13:24	]C24:i4.QUICK-97 has taken 5 damage from Mr. Friendly.
+[16:13:24	]C24:i4.QUICK-97 has taken 5 damage from Mr. Friendly.
+[16:13:24	]C24:i4.QUICK-97 has taken 5 damage from Mr. Friendly.
+[16:13:24	]C24:i4.QUICK-97 has taken 5 damage from Mr. Friendly.
+[16:13:24	]C24:i4.QUICK-97 has taken 5 damage from Mr. Friendly.
+[16:13:25	]C24:i4.QUICK-97 has taken 5 damage from Mr. Friendly.
+[16:13:25	]C24:i4.QUICK-97 has taken 5 damage from Mr. Friendly.
+[16:13:31	]C24:i4.QUICK-97 has spawned a 'NPC [5658][npc_vj_hlr1_kingpin]'.
+[16:13:31	]C24:i4.QUICK-97 has taken 30 damage from Kingpin.
+[16:13:32	]C24:i4.QUICK-97 has taken 3 damage from Kingpin.
+[16:13:33	]C24:i4.QUICK-97 has taken 3 damage from Kingpin.
+[16:13:34	]C24:i4.QUICK-97 has taken 30 damage from Kingpin.
+[16:13:34	]C24:i4.QUICK-97 has taken 3 damage from Kingpin.
+[16:13:35	]C24:i4.QUICK-97 has taken 3 damage from Kingpin.
+[16:13:37	]C24:i4.QUICK-97 ran SAM command 'hp' with arguments: 'quick' '100'
+[16:13:40	]C24:i4.QUICK-97 has spawned a 'NPC [5658][npc_vj_hlr1_hgrunt_serg]'.
+[16:13:41	]C24:i4.QUICK-97 has taken 5 damage from Human Sergeant.
+[16:13:41	]C24:i4.QUICK-97 has taken 5 damage from Human Sergeant.
+[16:13:41	]C24:i4.QUICK-97 has taken 5 damage from Human Sergeant.
+[16:13:42	]C24:i4.QUICK-97 has taken 5 damage from Human Sergeant.
+[16:13:42	]C24:i4.QUICK-97 has taken 1 damage from Human Sergeant.
+[16:13:42	]C24:i4.QUICK-97 has taken 5 damage from Human Sergeant.
+[16:13:42	]C24:i4.QUICK-97 is fully healed.
+[16:13:42	]C24:i4.QUICK-97 has taken 5 damage from Human Sergeant.
+[16:13:42	]C24:i4.QUICK-97 has taken 5 damage from Human Sergeant.
+[16:13:42	]C24:i4.QUICK-97 has taken 5 damage from Human Sergeant.
+[16:13:42	]C24:i4.QUICK-97 has taken 1 damage from Human Sergeant.
+[16:13:42	]C24:i4.QUICK-97 has taken 5 damage from Human Sergeant.
+[16:13:42	]C24:i4.QUICK-97 has taken 5 damage from Human Sergeant.
+[16:13:43	]C24:i4.QUICK-97 has taken 1 damage from Human Sergeant.
+[16:13:43	]C24:i4.QUICK-97 has taken 5 damage from Human Sergeant.
+[16:13:43	]C24:i4.QUICK-97 has taken 5 damage from Human Sergeant.
+[16:13:43	]C24:i4.QUICK-97 has taken 5 damage from Human Sergeant.
+[16:13:43	]C24:i4.QUICK-97 has taken 5 damage from Human Sergeant.
+[16:13:43	]C24:i4.QUICK-97 has taken 1 damage from Human Sergeant.
+[16:13:43	]C24:i4.QUICK-97 has taken 1 damage from Human Sergeant.
+[16:13:43	]C24:i4.QUICK-97 has taken 5 damage from Human Sergeant.
+[16:13:44	]C24:i4.QUICK-97 has taken 5 damage from Human Sergeant.
+[16:13:44	]C24:i4.QUICK-97 has taken 1 damage from Human Sergeant.
+[16:13:44	]C24:i4.QUICK-97 has taken 5 damage from Human Sergeant.
+[16:13:44	]C24:i4.QUICK-97 has taken 1 damage from Human Sergeant.
+[16:13:44	]C24:i4.QUICK-97 has taken 1 damage from Human Sergeant.
+[16:13:44	]C24:i4.QUICK-97 has taken 5 damage from Human Sergeant.
+[16:13:44	]C24:i4.QUICK-97 has taken 1 damage from Human Sergeant.
+[16:13:44	]C24:i4.QUICK-97 has taken 1 damage from Human Sergeant.
+[16:13:44	]C24:i4.QUICK-97 has taken 1 damage from Human Sergeant.
+[16:13:45	]C24:i4.QUICK-97 has taken 1 damage from Human Sergeant.
+[16:13:45	]C24:i4.QUICK-97 has taken 5 damage from Human Sergeant.
+[16:13:47	]C24:i4.QUICK-97 is fully healed.
+[16:13:52	]C24:i4.QUICK-97 has spawned a 'NPC [5658][npc_vj_hlr2_rebel]'.
+[16:13:57	]C24:i4.QUICK-97 has spawned a 'NPC [5658][npc_combine_s]'.
+[16:14:00	]C24:i4.QUICK-97 has critically hit npc_combine_s in the chest dealing 36 damage (CritChance was 0.41).
+[16:14:03	]C24:i4.QUICK-97 has hit npc_combine_s in the head dealing 18 damage (CritChance was 0.41).
+[16:14:07	]C24:i4.QUICK-97 has spawned a 'NPC [5658][npc_metropolice]'.
+[16:14:09	]C24:i4.QUICK-97 has hit npc_metropolice in the left arm dealing 18 damage (CritChance was 0.41).
+[16:14:11	]C24:i4.QUICK-97 has gained level 10 in the Melee skill.
+[16:14:11	]C24:i4.QUICK-97 has critically hit npc_metropolice in the left arm dealing 90 damage (CritChance was 0.41).
+[16:14:13	]C24:i4.QUICK-97 has critically hit npc_metropolice in the left arm dealing 36 damage (CritChance was 0.43).
+[16:14:14	]C24:i4.QUICK-97 has hit npc_metropolice in the left arm dealing 18 damage (CritChance was 0.43).
+[16:14:18	]C24:i4.QUICK-97 has spawned a 'NPC [5658][npc_combine_s]'.
+[16:14:23	]C24:i4.QUICK-97 has spawned a 'NPC [5658][npc_vj_hlr2_com_civilp]'.
+[16:14:24	]C24:i4.QUICK-97 has taken 10 damage from Civil Protection.
+[16:14:25	]C24:i4.QUICK-97 has taken 10 damage from Civil Protection.
+[16:14:26	]C24:i4.QUICK-97 has taken 10 damage from Civil Protection.
+[16:14:27	]C24:i4.QUICK-97 is fully healed.
+[16:14:29	]C24:i4.QUICK-97 has spawned a 'NPC [5658][npc_vj_hlr2_com_prospekt]'.
+[16:14:31	]C24:i4.QUICK-97 has spawned a 'NPC [6359][npc_vj_hlr2_com_prospekt_sg]'.
+[16:14:34	]C24:i4.QUICK-97 has spawned a 'NPC [5658][npc_vj_hlr2b_merkava]'.
+[16:14:35	]C24:i4.QUICK-97 entered observer.
+[16:14:35	]C24:i4.QUICK-97 exited observer at their location.
+[16:14:41	]C24:i4.QUICK-97 has spawned a 'NPC [5658][npc_vj_hlr2b_com_civilp_elite]'.
+[16:14:43	]C24:i4.QUICK-97 has spawned a 'NPC [6359][npc_vj_hlr2_com_civilp]'.
+[16:14:47	]C24:i4.QUICK-97 has spawned a 'NPC [5658][npc_vj_zombiecrawl]'.
+[16:14:48	]C24:i4.QUICK-97 has taken 15 damage from Crawling Zombie.
+[16:14:50	]C24:i4.QUICK-97 has taken 15 damage from Crawling Zombie.
+[16:14:51	]C24:i4.QUICK-97 has taken 15 damage from Crawling Zombie.
+[16:14:52	]C24:i4.QUICK-97 is fully healed.
+[16:14:53	]C24:i4.QUICK-97 has taken 15 damage from Crawling Zombie.
+[16:14:54	]C24:i4.QUICK-97 has hit npc_vj_zombiecrawl in the head dealing 18 damage (CritChance was 0.43).
+[16:14:54	]C24:i4.QUICK-97 has taken 15 damage from Crawling Zombie.
+[16:14:55	]C24:i4.QUICK-97 has critically hit npc_vj_zombiecrawl in the head dealing 36 damage (CritChance was 0.43).
+[16:14:57	]C24:i4.QUICK-97 is fully healed.
+[16:15:00	]C24:i4.QUICK-97 entered observer.
+[16:15:01	]C24:i4.QUICK-97 exited observer at their location.
+[16:15:01	]C24:i4.QUICK-97 has taken 66 damage from worldspawn.
+[16:15:03	]C24:i4.QUICK-97 ran SAM command 'hp' with arguments: 'quick' '100'
+[16:15:05	]C24:i4.QUICK-97 entered observer.
+[16:15:06	]C24:i4.QUICK-97 exited observer at their location.
+[16:15:07	]C24:i4.QUICK-97 is fully healed.
+[16:15:07	]C24:i4.QUICK-97 entered observer.
+[16:15:09	]C24:i4.QUICK-97 exited observer at their location.
+[16:15:10	]C24:i4.QUICK-97 entered observer.
+[16:15:11	]C24:i4.QUICK-97 exited observer at their location.
+[16:15:13	]C24:i4.QUICK-97 entered observer.
+[16:15:15	]C24:i4.QUICK-97 exited observer at their location.
+[16:15:16	]C24:i4.QUICK-97 entered observer.
+[16:15:17	]C24:i4.QUICK-97 exited observer at their location.
+[16:15:18	]C24:i4.QUICK-97 entered observer.
+[16:15:18	]C24:i4.QUICK-97 exited observer at their location.
+[16:15:19	]C24:i4.QUICK-97 entered observer.
+[16:15:20	]C24:i4.QUICK-97 exited observer at their location.
+[16:15:21	]C24:i4.QUICK-97 entered observer.
+[16:15:22	]C24:i4.QUICK-97 exited observer at their location.
+[16:15:22	]C24:i4.QUICK-97 entered observer.
+[16:15:23	]C24:i4.QUICK-97 exited observer at their location.
+[16:15:23	]C24:i4.QUICK-97 entered observer.
+[16:15:23	]C24:i4.QUICK-97 exited observer at their location.
+[16:15:24	]C24:i4.QUICK-97 entered observer.
+[16:15:26	]C24:i4.QUICK-97 exited observer at their location.
+[16:15:26	]C24:i4.QUICK-97 entered observer.
+[16:15:26	]C24:i4.QUICK-97 exited observer at their location.
+[16:15:27	]C24:i4.QUICK-97 entered observer.
+[16:15:28	]C24:i4.QUICK-97 exited observer at their location.
+[16:15:29	]C24:i4.QUICK-97 entered observer.
+[16:15:29	]C24:i4.QUICK-97 exited observer at their location.
+[16:15:29	]C24:i4.QUICK-97 entered observer.
+[16:15:31	]C24:i4.QUICK-97 exited observer at their location.
+[16:15:31	]C24:i4.QUICK-97 entered observer.
+[16:15:33	]C24:i4.QUICK-97 exited observer at their location.
+[16:15:35	]C24:i4.QUICK-97 entered observer.
+[16:15:50	]C24:i4.QUICK-97 has spawned a 'Entity [5658][sent_vj_hlzombie_random_spawner]'.
+[16:15:53	]C24:i4.QUICK-97 exited observer at their location.
+[16:15:54	]C24:i4.QUICK-97 has spawned a 'Entity [5658][sent_vj_hlzombie_random_spawner]'.
+[16:15:55	]C24:i4.QUICK-97 has taken 9 damage from Alpha Zombie.
+[16:15:55	]C24:i4.QUICK-97 has taken 10 damage from Grenade Zombie.
+[16:15:57	]C24:i4.QUICK-97 is fully healed.
+[16:16:10	]C24:i4.QUICK-97 has hit npc_vj_zombiecop_original in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:10	]C24:i4.QUICK-97 has hit npc_vj_zombiemutant in the head dealing 20 damage (CritChance was 0.14).
+[16:16:10	]C24:i4.QUICK-97 has hit npc_vj_zombiecop_original in the head dealing 20 damage (CritChance was 0.14).
+[16:16:10	]C24:i4.QUICK-97 has critically hit npc_vj_zombiemutant in the chest dealing 20 damage (CritChance was 0.43).
+[16:16:10	]C24:i4.QUICK-97 has critically hit npc_vj_zombiecop_original in the chest dealing 20 damage (CritChance was 0.43).
+[16:16:10	]C24:i4.QUICK-97 has gained level 37 in the Guns skill.
+[16:16:10	]C24:i4.QUICK-97 has critically hit npc_vj_zombiemutant in the head dealing 24 damage (CritChance was 0.14).
+[16:16:10	]C24:i4.QUICK-97 has critically hit npc_vj_zombiecop_original in the left arm dealing 14 damage (CritChance was 0.43).
+[16:16:10	]C24:i4.QUICK-97 has hit npc_vj_zombiemutant in the head dealing 20 damage (CritChance was 0.14).
+[16:16:10	]C24:i4.QUICK-97 has hit npc_vj_zombiemutant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:10	]C24:i4.QUICK-97 has hit npc_vj_zombiemutant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:11	]C24:i4.QUICK-97 has hit npc_vj_zombiemutant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:11	]C24:i4.QUICK-97 has hit npc_vj_zombiemutant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:11	]C24:i4.QUICK-97 has critically hit npc_vj_zombiemutant in the chest dealing 20 damage (CritChance was 0.43).
+[16:16:11	]C24:i4.QUICK-97 has gained level 38 in the Guns skill.
+[16:16:11	]C24:i4.QUICK-97 has hit npc_vj_zombiemutant in the head dealing 20 damage (CritChance was 0.14).
+[16:16:11	]C24:i4.QUICK-97 has hit npc_vj_zombiemutant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:11	]C24:i4.QUICK-97 has critically hit npc_vj_zombiemutant in the chest dealing 20 damage (CritChance was 0.43).
+[16:16:11	]C24:i4.QUICK-97 has critically hit npc_vj_zombiemutant in the chest dealing 20 damage (CritChance was 0.43).
+[16:16:11	]C24:i4.QUICK-97 has hit npc_vj_zombiemutant in the head dealing 20 damage (CritChance was 0.14).
+[16:16:11	]C24:i4.QUICK-97 has hit npc_vj_zombiemutant in the head dealing 20 damage (CritChance was 0.14).
+[16:16:12	]C24:i4.QUICK-97 has hit npc_vj_zombiemutant in the head dealing 20 damage (CritChance was 0.14).
+[16:16:12	]C24:i4.QUICK-97 has hit npc_vj_zombiemutant in the left arm dealing 8 damage (CritChance was 0.43).
+[16:16:12	]C24:i4.QUICK-97 has hit npc_vj_zombiealpha in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:12	]C24:i4.QUICK-97 has hit npc_vj_zombiealpha in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:13	]C24:i4.QUICK-97 has gained level 39 in the Guns skill.
+[16:16:13	]C24:i4.QUICK-97 has critically hit npc_vj_zombiealpha in the left arm dealing 14 damage (CritChance was 0.43).
+[16:16:13	]C24:i4.QUICK-97 has hit npc_vj_zombiealpha in the head dealing 20 damage (CritChance was 0.14).
+[16:16:13	]C24:i4.QUICK-97 has hit npc_vj_toxiczombie in the left arm dealing 8 damage (CritChance was 0.43).
+[16:16:13	]C24:i4.QUICK-97 has hit npc_vj_zombieflame in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:13	]C24:i4.QUICK-97 has hit npc_vj_toxiczombie in the head dealing 20 damage (CritChance was 0.14).
+[16:16:13	]C24:i4.QUICK-97 has hit npc_vj_zombieflame in the head dealing 20 damage (CritChance was 0.14).
+[16:16:13	]C24:i4.QUICK-97 has hit npc_vj_toxiczombie in the head dealing 20 damage (CritChance was 0.14).
+[16:16:14	]Gutsy has connected.
+[16:16:23	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:23	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:23	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:24	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the head dealing 20 damage (CritChance was 0.14).
+[16:16:24	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the head dealing 20 damage (CritChance was 0.14).
+[16:16:24	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the head dealing 20 damage (CritChance was 0.14).
+[16:16:24	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:24	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:24	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:24	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:24	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:24	]C24:i4.QUICK-97 has gained level 40 in the Guns skill.
+[16:16:24	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the right arm dealing 8 damage (CritChance was 0.43).
+[16:16:24	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the right arm dealing 8 damage (CritChance was 0.43).
+[16:16:25	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the left arm dealing 8 damage (CritChance was 0.43).
+[16:16:25	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the left arm dealing 14 damage (CritChance was 0.43).
+[16:16:25	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the stomach dealing 18 damage (CritChance was 0.58).
+[16:16:25	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the stomach dealing 14 damage (CritChance was 0.58).
+[16:16:25	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the stomach dealing 14 damage (CritChance was 0.58).
+[16:16:25	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the stomach dealing 14 damage (CritChance was 0.58).
+[16:16:25	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the stomach dealing 18 damage (CritChance was 0.58).
+[16:16:25	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the stomach dealing 18 damage (CritChance was 0.58).
+[16:16:25	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the stomach dealing 18 damage (CritChance was 0.58).
+[16:16:25	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the stomach dealing 18 damage (CritChance was 0.58).
+[16:16:25	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the stomach dealing 18 damage (CritChance was 0.58).
+[16:16:25	]C24:i4.QUICK-97 has gained level 41 in the Guns skill.
+[16:16:25	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the stomach dealing 14 damage (CritChance was 0.58).
+[16:16:25	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the stomach dealing 18 damage (CritChance was 0.58).
+[16:16:25	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the right leg dealing 8 damage (CritChance was 0.43).
+[16:16:25	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the right leg dealing 8 damage (CritChance was 0.43).
+[16:16:25	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the right leg dealing 14 damage (CritChance was 0.43).
+[16:16:25	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the stomach dealing 14 damage (CritChance was 0.58).
+[16:16:26	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the stomach dealing 18 damage (CritChance was 0.58).
+[16:16:26	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the stomach dealing 14 damage (CritChance was 0.58).
+[16:16:26	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the stomach dealing 14 damage (CritChance was 0.58).
+[16:16:26	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the stomach dealing 18 damage (CritChance was 0.58).
+[16:16:26	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the stomach dealing 14 damage (CritChance was 0.58).
+[16:16:27	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the stomach dealing 18 damage (CritChance was 0.58).
+[16:16:27	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the stomach dealing 18 damage (CritChance was 0.58).
+[16:16:27	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the stomach dealing 14 damage (CritChance was 0.58).
+[16:16:27	]C24:i4.QUICK-97 has gained level 42 in the Guns skill.
+[16:16:27	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the stomach dealing 18 damage (CritChance was 0.58).
+[16:16:27	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the stomach dealing 18 damage (CritChance was 0.58).
+[16:16:27	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the stomach dealing 14 damage (CritChance was 0.58).
+[16:16:27	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the stomach dealing 18 damage (CritChance was 0.58).
+[16:16:27	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the stomach dealing 18 damage (CritChance was 0.58).
+[16:16:27	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the stomach dealing 14 damage (CritChance was 0.58).
+[16:16:27	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the stomach dealing 18 damage (CritChance was 0.58).
+[16:16:27	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:27	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:27	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the chest dealing 20 damage (CritChance was 0.43).
+[16:16:27	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:27	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the chest dealing 20 damage (CritChance was 0.43).
+[16:16:27	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:27	]C24:i4.QUICK-97 has gained level 43 in the Guns skill.
+[16:16:27	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the chest dealing 20 damage (CritChance was 0.43).
+[16:16:27	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the chest dealing 20 damage (CritChance was 0.43).
+[16:16:27	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:27	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:27	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:27	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:27	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:27	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the left arm dealing 14 damage (CritChance was 0.43).
+[16:16:27	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the left arm dealing 8 damage (CritChance was 0.43).
+[16:16:31	]C24:i4.QUICK-97 has hit npc_vj_zombiemultilated in the right arm dealing 8 damage (CritChance was 0.43).
+[16:16:31	]C24:i4.QUICK-97 has hit npc_vj_zombiecivilian in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:31	]C24:i4.QUICK-97 has critically hit npc_vj_zombiemultilated in the chest dealing 20 damage (CritChance was 0.43).
+[16:16:31	]C24:i4.QUICK-97 has critically hit npc_vj_zombiecivilian in the chest dealing 20 damage (CritChance was 0.43).
+[16:16:31	]C24:i4.QUICK-97 has hit npc_vj_zombiemultilated in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:31	]C24:i4.QUICK-97 has gained level 44 in the Guns skill.
+[16:16:31	]C24:i4.QUICK-97 has critically hit npc_vj_zombiecivilian in the chest dealing 20 damage (CritChance was 0.43).
+[16:16:31	]C24:i4.QUICK-97 has hit npc_vj_zombiemultilated in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:32	]C24:i4.QUICK-97 has critically hit npc_vj_zombiemultilated in the head dealing 24 damage (CritChance was 0.14).
+[16:16:32	]C24:i4.QUICK-97 has hit npc_vj_zombiearmor in the head dealing 20 damage (CritChance was 0.14).
+[16:16:33	]C24:i4.QUICK-97 has hit npc_vj_zombiearmor in the head dealing 20 damage (CritChance was 0.14).
+[16:16:33	]C24:i4.QUICK-97 has critically hit npc_vj_zombiearmor in the chest dealing 20 damage (CritChance was 0.43).
+[16:16:33	]C24:i4.QUICK-97 has critically hit npc_vj_zombiearmor in the head dealing 24 damage (CritChance was 0.14).
+[16:16:34	]C24:i4.QUICK-97 has hit npc_vj_toxiczombie in the right arm dealing 8 damage (CritChance was 0.43).
+[16:16:39	]C24:i4.QUICK-97 has critically hit npc_vj_toxiczombie in the chest dealing 20 damage (CritChance was 0.43).
+[16:16:39	]C24:i4.QUICK-97 has critically hit npc_vj_toxiczombie in the chest dealing 20 damage (CritChance was 0.43).
+[16:16:39	]C24:i4.QUICK-97 has hit npc_vj_toxiczombie in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:39	]C24:i4.QUICK-97 has critically hit npc_vj_toxiczombie in the chest dealing 20 damage (CritChance was 0.43).
+[16:16:39	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the right leg dealing 8 damage (CritChance was 0.43).
+[16:16:39	]C24:i4.QUICK-97 has gained level 45 in the Guns skill.
+[16:16:39	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the right leg dealing 14 damage (CritChance was 0.43).
+[16:16:39	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the right leg dealing 8 damage (CritChance was 0.43).
+[16:16:40	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the right arm dealing 14 damage (CritChance was 0.43).
+[16:16:40	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the right arm dealing 8 damage (CritChance was 0.43).
+[16:16:40	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the chest dealing 20 damage (CritChance was 0.43).
+[16:16:40	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the chest dealing 20 damage (CritChance was 0.43).
+[16:16:40	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the chest dealing 16 damage (CritChance was 0.43).
+[16:16:41	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the head dealing 20 damage (CritChance was 0.14).
+[16:16:41	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the head dealing 20 damage (CritChance was 0.14).
+[16:16:41	]C24:i4.QUICK-97 has critically hit npc_vj_zombiegiant in the head dealing 24 damage (CritChance was 0.14).
+[16:16:41	]C24:i4.QUICK-97 has hit npc_vj_zombiegiant in the head dealing 20 damage (CritChance was 0.14).
+[16:16:42	]C24:i4.QUICK-97 has taken 30 damage from Gonome.
+[16:16:42	]C24:i4.QUICK-97 has taken 5 damage from obj_gonome_acid.
+[16:16:46	]C24:i4.QUICK-97 has taken 8 damage from Baby Headcrab.
+[16:16:50	]C24:i4.QUICK-97 has taken 8 damage from Baby Headcrab.
+[16:16:54	]C24:i4.QUICK-97 has taken 8 damage from Baby Headcrab.
+[16:16:57	]C24:i4.QUICK-97 has taken 8 damage from Baby Headcrab.
+[16:16:58	]C24:i4.QUICK-97 has taken 30 damage from Gonome.
+[16:17:02	]C24:i4.QUICK-97 entered observer.
+[16:17:10	]Gutsy loaded the character 'Callum Curose'
+[16:17:10	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:10	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:11	]Callum Curose has taken 1 damage from env_fire.
+[16:17:11	]Callum Curose has taken 1 damage from env_fire.
+[16:17:11	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:11	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:12	]Callum Curose has taken 1 damage from env_fire.
+[16:17:12	]Callum Curose has taken 1 damage from env_fire.
+[16:17:12	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:12	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:13	]Callum Curose has taken 1 damage from env_fire.
+[16:17:13	]Callum Curose has taken 1 damage from env_fire.
+[16:17:13	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:13	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:14	]Callum Curose has taken 1 damage from env_fire.
+[16:17:14	]Callum Curose has taken 1 damage from env_fire.
+[16:17:14	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:14	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:15	]Callum Curose has taken 1 damage from env_fire.
+[16:17:15	]Callum Curose has taken 1 damage from env_fire.
+[16:17:15	]Callum Curose is fully healed.
+[16:17:15	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:15	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:16	]Callum Curose has taken 1 damage from env_fire.
+[16:17:16	]Callum Curose has taken 1 damage from env_fire.
+[16:17:16	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:16	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:17	]Callum Curose has taken 1 damage from env_fire.
+[16:17:17	]Callum Curose has taken 1 damage from env_fire.
+[16:17:17	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:17	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:18	]Callum Curose has taken 1 damage from env_fire.
+[16:17:18	]Callum Curose has taken 1 damage from env_fire.
+[16:17:18	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:18	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:19	]Callum Curose has taken 1 damage from env_fire.
+[16:17:19	]Callum Curose has taken 1 damage from env_fire.
+[16:17:19	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:19	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:20	]Callum Curose has taken 1 damage from env_fire.
+[16:17:20	]Callum Curose has taken 1 damage from env_fire.
+[16:17:20	]Callum Curose is fully healed.
+[16:17:20	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:20	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:21	]Callum Curose has taken 1 damage from env_fire.
+[16:17:21	]Callum Curose has taken 1 damage from env_fire.
+[16:17:21	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:21	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:22	]Callum Curose has taken 1 damage from env_fire.
+[16:17:22	]Callum Curose has taken 1 damage from env_fire.
+[16:17:22	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:22	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:23	]Callum Curose has taken 1 damage from env_fire.
+[16:17:23	]Callum Curose has taken 1 damage from env_fire.
+[16:17:23	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:23	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:24	]Callum Curose has taken 1 damage from env_fire.
+[16:17:24	]Callum Curose has taken 1 damage from env_fire.
+[16:17:24	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:24	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:25	]Callum Curose has taken 1 damage from env_fire.
+[16:17:25	]Callum Curose has taken 1 damage from env_fire.
+[16:17:25	]Callum Curose is fully healed.
+[16:17:25	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:25	][OOC] Callum Curose: I seem to require TP
+[16:17:25	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:26	]Callum Curose has taken 1 damage from env_fire.
+[16:17:26	]Callum Curose has taken 1 damage from env_fire.
+[16:17:26	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:26	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:26	]C24:i4.QUICK-97 ran 'drop' on item 'Machete' (#2688903)
+[16:17:26	]C24:i4.QUICK-97 has lost a 'Machete' #2688903.
+[16:17:27	]Callum Curose has taken 1 damage from env_fire.
+[16:17:27	]Callum Curose has taken 1 damage from env_fire.
+[16:17:27	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:27	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:28	]Callum Curose has taken 1 damage from env_fire.
+[16:17:28	]Callum Curose has taken 1 damage from env_fire.
+[16:17:28	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:28	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:29	]Callum Curose has taken 1 damage from env_fire.
+[16:17:29	]Callum Curose has taken 1 damage from env_fire.
+[16:17:29	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:29	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:30	]Callum Curose has taken 1 damage from env_fire.
+[16:17:30	]Callum Curose has taken 1 damage from env_fire.
+[16:17:30	]Callum Curose is fully healed.
+[16:17:30	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:30	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:31	]Callum Curose has taken 1 damage from env_fire.
+[16:17:31	]Callum Curose has taken 1 damage from env_fire.
+[16:17:31	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:31	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:32	]Callum Curose has taken 1 damage from env_fire.
+[16:17:32	]Callum Curose has taken 1 damage from env_fire.
+[16:17:32	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:32	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:33	]Callum Curose has taken 1 damage from env_fire.
+[16:17:33	]Callum Curose has taken 1 damage from env_fire.
+[16:17:33	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:33	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:34	]Callum Curose has taken 1 damage from env_fire.
+[16:17:34	]Callum Curose has taken 1 damage from env_fire.
+[16:17:34	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[16:17:34	]C24:i4.QUICK-97 ran SAM command 'bring' with arguments: 'curose'
+[16:17:35	]Callum Curose is fully healed.
+[16:17:42	]C24:i4.QUICK-97 exited observer at their location.
+[16:17:43	][LOOC] Callum Curose: What did you need from me brother
+[16:17:51	]Callum Curose used the 'John Doe' vendor.
+[16:17:52	]Callum Curose has taken 8 damage from Baby Headcrab.
+[16:17:55	]Callum Curose is fully healed.
+[16:18:00	]Callum Curose has taken 30 damage from Gonome.
+[16:18:00	]Callum Curose is fully healed.
+[16:18:01	]Callum Curose has gained 0 chips.
+[16:18:01	]Callum Curose has gained a 'HK USP .45' #2688904.
+[16:18:05	]Callum Curose ran 'Equip' on item 'HK USP .45' (#2688904)
+[16:18:07	]Callum Curose ran 'EquipUn' on item 'HK USP .45' (#2688904)
+[16:18:07	]C24:i4.QUICK-97 has spawned a 'Entity [6360][arccw_ammo_smg1_large]'.
+[16:18:07	]C24:i4.QUICK-97 has spawned a 'Entity [6364][arccw_ammo_smg1_large]'.
+[16:18:08	]C24:i4.QUICK-97 has spawned a 'Entity [6374][arccw_ammo_smg1_large]'.
+[16:18:08	]C24:i4.QUICK-97 has spawned a 'Entity [6375][arccw_ammo_smg1_large]'.
+[16:18:09	]Callum Curose ran 'Equip' on item 'HK USP .45' (#2688904)
+[16:18:10	]Callum Curose used command '/ToggleRaise'.
+[16:18:11	]C24:i4.QUICK-97 has spawned a 'Entity [6360][arccw_ammo_ar2_large]'.
+[16:18:11	]C24:i4.QUICK-97 has spawned a 'Entity [6364][arccw_ammo_ar2_large]'.
+[16:18:11	]C24:i4.QUICK-97 has spawned a 'Entity [6374][arccw_ammo_ar2_large]'.
+[16:18:12	]C24:i4.QUICK-97 has spawned a 'Entity [6375][arccw_ammo_ar2_large]'.
+[16:18:12	]C24:i4.QUICK-97 has spawned a 'Entity [6376][arccw_ammo_ar2_large]'.
+[16:18:12	]C24:i4.QUICK-97 has spawned a 'Entity [6377][arccw_ammo_ar2_large]'.
+[16:18:22	]C24:i4.QUICK-97 ran SAM command 'hp' with arguments: 'quick' '100'
+[16:18:27	]C24:i4.QUICK-97 is fully healed.
+[16:18:28	]C24:i4.QUICK-97 entered observer.
+[16:18:55	]C24:i4.QUICK-97 exited observer at their location.
+[16:18:56	]C24:i4.QUICK-97 entered observer.
+[16:18:57	]C24:i4.QUICK-97 exited observer at their location.
+[16:19:18	]C24:i4.QUICK-97 has given himself a gen_mp5.
+[16:19:22	]Callum Curose ran 'Repair' on item 'Medium Kevlar Uniform' (#2686557)
+[16:19:23	]C24:i4.QUICK-97 ran 'drop' on item 'Magazine Pouch' (#2673940)
+[16:19:23	]C24:i4.QUICK-97 has lost a 'Magazine Pouch' #2673940.
+[16:19:24	]C24:i4.QUICK-97 ran 'drop' on item 'Magazine Pouch' (#2673939)
+[16:19:24	]C24:i4.QUICK-97 has lost a 'Magazine Pouch' #2673939.
+[16:19:25	]C24:i4.QUICK-97 ran 'drop' on item 'Ammunition Pouch' (#2673912)
+[16:19:25	]C24:i4.QUICK-97 has lost a 'Ammunition Pouch' #2673912.
+[16:19:25	]C24:i4.QUICK-97 has lost a '9mm Pistol Bullets' #2673945.
+[16:19:25	]C24:i4.QUICK-97 has lost a '9mm Pistol Bullets' #2673919.
+[16:19:25	]C24:i4.QUICK-97 has lost a '9mm Pistol Bullets' #2673942.
+[16:19:25	]C24:i4.QUICK-97 has lost a '9mm Pistol Bullets' #2673917.
+[16:19:25	]C24:i4.QUICK-97 has lost a '9mm Pistol Bullets' #2673944.
+[16:19:25	]C24:i4.QUICK-97 has lost a '9mm Pistol Bullets' #2673918.
+[16:19:25	]C24:i4.QUICK-97 has lost a '9mm Pistol Bullets' #2673920.
+[16:19:25	]C24:i4.QUICK-97 has lost a '9mm Pistol Bullets' #2673921.
+[16:19:26	]C24:i4.QUICK-97 ran 'drop' on item 'CV-2000 Stun Baton' (#2673911)
+[16:19:26	]C24:i4.QUICK-97 has lost a 'CV-2000 Stun Baton' #2673911.
+[16:19:33	]C24:i4.QUICK-97 has given himself a gen_mp5.
+[16:19:33	]C24:i4.QUICK-97 has gained a 'MP5A3' #2688905.
+[16:19:35	]C24:i4.QUICK-97 ran 'Equip' on item 'MP5A3' (#2688905)
+[16:19:46	]M!NT loaded the character 'Adalia Torres'
+[16:19:51	]Callum Curose ran 'drop' on item 'Bastard Submachine Gun' (#2688812)
+[16:19:51	]Callum Curose has lost a 'Bastard Submachine Gun' #2688812.
+[16:19:54	]Adalia Torres entered observer.
+[16:19:56	]Callum Curose has used a context menu option with the name: remove
+[16:19:57	]Adalia Torres exited observer at their location.
+[16:20:00	]Callum Curose has used a context menu option with the name: remove
+[16:20:02	]Adalia Torres ran 'drop' on item 'M16A2' (#2688901)
+[16:20:02	]Adalia Torres has lost a 'M16A2' #2688901.
+[16:20:02	]Callum Curose used command '/ToggleRaise'.
+[16:20:06	]Adalia Torres has given himself a gen_mp5.
+[16:20:06	]Adalia Torres has gained a 'MP5A3' #2688906.
+[16:20:09	]Adalia Torres ran 'Equip' on item 'MP5A3' (#2688906)
+[16:20:24	]Callum Curose ran 'EquipUn' on item 'HK USP .45' (#2688904)
+[16:20:25	]Callum Curose ran 'EquipUn' on item 'MP5-SD' (#2688813)
+[16:20:27	]Callum Curose ran 'Equip' on item 'MP5-SD' (#2688813)
+[16:20:28	]Callum Curose ran 'EquipUn' on item 'MP5-SD' (#2688813)
+[16:20:30	]Callum Curose ran 'Equip' on item 'MP5-SD' (#2688813)
+[16:20:31	]Callum Curose used command '/ToggleRaise'.
+[16:20:40	]Adalia Torres has given himself a scope_eft_rmrlow.
+[16:20:40	]Adalia Torres has gained a 'Trijicon RMR' #2688907.
+[16:20:43	]Adalia Torres has lost a 'Trijicon RMR' #2688907.
+[16:21:02	]Adalia Torres has critically hit Callum Curose in the chest dealing 10 damage (CritChance was 0.24).
+[16:21:02	]Callum Curose has taken 10 damage from Adalia Torres.
+[16:21:05	]Callum Curose is fully healed.
+[16:21:08	]Adalia Torres has hit Callum Curose in the stomach dealing 7 damage (CritChance was 0.32).
+[16:21:08	]Callum Curose has taken 7 damage from Adalia Torres.
+[16:21:08	]Adalia Torres has hit Callum Curose in the left arm dealing 4 damage (CritChance was 0.24).
+[16:21:08	]Callum Curose has taken 4 damage from Adalia Torres.
+[16:21:08	]Adalia Torres has hit Callum Curose in the stomach dealing 7 damage (CritChance was 0.32).
+[16:21:08	]Callum Curose has taken 7 damage from Adalia Torres.
+[16:21:09	]Callum Curose has critically hit Adalia Torres in the stomach dealing 9 damage (CritChance was 0.58).
+[16:21:09	]Adalia Torres has taken 9 damage from Callum Curose.
+[16:21:09	]Callum Curose has critically hit Adalia Torres in the stomach dealing 9 damage (CritChance was 0.58).
+[16:21:09	]Adalia Torres has taken 9 damage from Callum Curose.
+[16:21:09	]Callum Curose has hit Adalia Torres in the right leg dealing 4 damage (CritChance was 0.43).
+[16:21:09	]Adalia Torres has taken 4 damage from Callum Curose.
+[16:21:10	]Callum Curose is fully healed.
+[16:21:16	]Adalia Torres ran SAM command 'armor' with arguments: 'adalia' '50'
+[16:21:24	]Adalia Torres ran SAM command 'armor' with arguments: '*' '50'
+[16:21:26	]Adalia Torres ran SAM command 'hp' with arguments: '*' '100'
+[16:21:30	]Adalia Torres entered observer.
+[16:21:31	]Adalia Torres is fully healed.
+[16:21:31	]Adalia Torres exited observer at their location.
+[16:21:35	]Adalia Torres has hit Callum Curose in the stomach dealing 7 damage (CritChance was 0.32).
+[16:21:35	]Callum Curose has taken 7 damage from Adalia Torres.
+[16:21:36	]Adalia Torres has critically hit Callum Curose in the stomach dealing 9 damage (CritChance was 0.32).
+[16:21:36	]Callum Curose has taken 9 damage from Adalia Torres.
+[16:21:36	]Adalia Torres has critically hit Callum Curose in the stomach dealing 9 damage (CritChance was 0.32).
+[16:21:36	]Callum Curose has taken 9 damage from Adalia Torres.
+[16:21:36	]Callum Curose has critically hit Adalia Torres in the left arm dealing 7 damage (CritChance was 0.24).
+[16:21:36	]Adalia Torres has taken 7 damage from Callum Curose.
+[16:21:36	]Callum Curose has hit Adalia Torres in the chest dealing 8 damage (CritChance was 0.24).
+[16:21:36	]Adalia Torres has taken 8 damage from Callum Curose.
+[16:21:36	]Adalia Torres has hit Callum Curose in the right arm dealing 4 damage (CritChance was 0.24).
+[16:21:36	]Callum Curose has taken 4 damage from Adalia Torres.
+[16:21:36	]Callum Curose has critically hit Adalia Torres in the right arm dealing 7 damage (CritChance was 0.24).
+[16:21:36	]Adalia Torres has taken 7 damage from Callum Curose.
+[16:21:36	]Callum Curose has hit Adalia Torres in the right arm dealing 4 damage (CritChance was 0.24).
+[16:21:36	]Adalia Torres has taken 4 damage from Callum Curose.
+[16:21:36	]Adalia Torres has hit Callum Curose in the right arm dealing 4 damage (CritChance was 0.24).
+[16:21:36	]Callum Curose has taken 4 damage from Adalia Torres.
+[16:21:36	]Callum Curose has hit Adalia Torres in the right arm dealing 4 damage (CritChance was 0.24).
+[16:21:36	]Adalia Torres has taken 4 damage from Callum Curose.
+[16:21:36	]Callum Curose has hit Adalia Torres in the right arm dealing 4 damage (CritChance was 0.24).
+[16:21:36	]Adalia Torres has taken 4 damage from Callum Curose.
+[16:21:36	]Adalia Torres has hit Callum Curose in the right arm dealing 4 damage (CritChance was 0.24).
+[16:21:36	]Callum Curose has taken 4 damage from Adalia Torres.
+[16:21:36	]Adalia Torres has hit Callum Curose in the right arm dealing 4 damage (CritChance was 0.24).
+[16:21:36	]Callum Curose has taken 4 damage from Adalia Torres.
+[16:21:36	]Callum Curose has hit Adalia Torres in the right arm dealing 4 damage (CritChance was 0.24).
+[16:21:36	]Adalia Torres has taken 4 damage from Callum Curose.
+[16:21:36	]Callum Curose has hit Adalia Torres in the right arm dealing 4 damage (CritChance was 0.24).
+[16:21:36	]Adalia Torres has taken 4 damage from Callum Curose.
+[16:21:36	]Adalia Torres has critically hit Callum Curose in the right arm dealing 7 damage (CritChance was 0.24).
+[16:21:36	]Callum Curose has taken 7 damage from Adalia Torres.
+[16:21:36	]Callum Curose has hit Adalia Torres in the right arm dealing 4 damage (CritChance was 0.24).
+[16:21:36	]Adalia Torres has taken 4 damage from Callum Curose.
+[16:21:36	]Callum Curose has critically hit Adalia Torres in the right arm dealing 7 damage (CritChance was 0.24).
+[16:21:36	]Adalia Torres has taken 7 damage from Callum Curose.
+[16:21:37	]Callum Curose has hit Adalia Torres in the right arm dealing 4 damage (CritChance was 0.24).
+[16:21:37	]Adalia Torres has taken 4 damage from Callum Curose.
+[16:21:37	]Callum Curose has hit Adalia Torres in the right arm dealing 4 damage (CritChance was 0.24).
+[16:21:37	]Adalia Torres has taken 4 damage from Callum Curose.
+[16:21:37	]Adalia Torres has hit Callum Curose in the chest dealing 8 damage (CritChance was 0.24).
+[16:21:37	]Callum Curose has taken 8 damage from Adalia Torres.
+[16:21:37	]Adalia Torres has hit Callum Curose in the left arm dealing 4 damage (CritChance was 0.24).
+[16:21:37	]Callum Curose has taken 4 damage from Adalia Torres.
+[16:21:37	]Adalia Torres has critically hit Callum Curose in the left arm dealing 7 damage (CritChance was 0.24).
+[16:21:37	]Callum Curose has taken 7 damage from Adalia Torres.
+[16:21:37	]Callum Curose has hit Adalia Torres in the left arm dealing 4 damage (CritChance was 0.24).
+[16:21:37	]Adalia Torres has taken 4 damage from Callum Curose.
+[16:21:37	]Callum Curose has hit Adalia Torres in the left arm dealing 4 damage (CritChance was 0.24).
+[16:21:37	]Adalia Torres has taken 4 damage from Callum Curose.
+[16:21:37	]Callum Curose has hit Adalia Torres in the left arm dealing 4 damage (CritChance was 0.24).
+[16:21:37	]Adalia Torres has taken 4 damage from Callum Curose.
+[16:21:37	]Adalia Torres has hit Callum Curose in the chest dealing 8 damage (CritChance was 0.24).
+[16:21:37	]Callum Curose has taken 8 damage from Adalia Torres.
+[16:21:37	]Callum Curose has hit Adalia Torres in the left arm dealing 4 damage (CritChance was 0.43).
+[16:21:37	]Adalia Torres has taken 4 damage from Callum Curose.
+[16:21:37	]Callum Curose has critically hit Adalia Torres in the left arm dealing 7 damage (CritChance was 0.43).
+[16:21:37	]Adalia Torres has taken 7 damage from Callum Curose.
+[16:21:37	]Adalia Torres has critically hit Callum Curose in the left arm dealing 7 damage (CritChance was 0.24).
+[16:21:37	]Callum Curose has taken 7 damage from Adalia Torres.
+[16:21:37	]Adalia Torres has hit Callum Curose in the left arm dealing 4 damage (CritChance was 0.43).
+[16:21:37	]Callum Curose has taken 4 damage from Adalia Torres.
+[16:21:37	]Callum Curose has hit Adalia Torres in the left arm dealing 4 damage (CritChance was 0.43).
+[16:21:37	]Adalia Torres has taken 4 damage from Callum Curose.
+[16:21:37	]Callum Curose has hit Adalia Torres in the left arm dealing 4 damage (CritChance was 0.43).
+[16:21:37	]Adalia Torres has taken 4 damage from Callum Curose.
+[16:21:37	]Adalia Torres has hit Callum Curose in the chest dealing 8 damage (CritChance was 0.43).
+[16:21:37	]Callum Curose has taken 8 damage from Adalia Torres.
+[16:21:37	]Adalia Torres has hit Callum Curose in the chest dealing 8 damage (CritChance was 0.43).
+[16:21:37	]Callum Curose has taken 8 damage from Adalia Torres.
+[16:21:37	]Callum Curose has critically hit Adalia Torres in the left arm dealing 7 damage (CritChance was 0.43).
+[16:21:37	]Adalia Torres has taken 7 damage from Callum Curose.
+[16:21:37	]Callum Curose has hit Adalia Torres in the left arm dealing 4 damage (CritChance was 0.43).
+[16:21:37	]Adalia Torres has taken 4 damage from Callum Curose.
+[16:21:37	]Adalia Torres has hit Callum Curose in the chest dealing 8 damage (CritChance was 0.43).
+[16:21:37	]Callum Curose has taken 8 damage from Adalia Torres.
+[16:21:37	]Adalia Torres has critically hit Callum Curose in the chest dealing 10 damage (CritChance was 0.43).
+[16:21:37	]Callum Curose has taken 10 damage from Adalia Torres.
+[16:21:37	]Callum Curose has hit Adalia Torres in the stomach dealing 7 damage (CritChance was 0.58).
+[16:21:37	]Adalia Torres has taken 7 damage from Callum Curose.
+[16:21:37	]Callum Curose has critically hit Adalia Torres in the left arm dealing 7 damage (CritChance was 0.43).
+[16:21:37	]Adalia Torres has taken 7 damage from Callum Curose.
+[16:21:37	]Adalia Torres has hit Callum Curose in the chest dealing 8 damage (CritChance was 0.43).
+[16:21:37	]Callum Curose has taken 8 damage from Adalia Torres.
+[16:21:37	]Callum Curose has critically hit Adalia Torres in the stomach dealing 9 damage (CritChance was 0.58).
+[16:21:37	]Adalia Torres has taken 9 damage from Callum Curose.
+[16:21:37	]Adalia Torres has critically hit Callum Curose in the chest dealing 10 damage (CritChance was 0.43).
+[16:21:37	]Callum Curose has taken 10 damage from Adalia Torres.
+[16:21:37	]Callum Curose has critically hit Adalia Torres in the stomach dealing 9 damage (CritChance was 0.56).
+[16:21:37	]Adalia Torres has taken 9 damage from Callum Curose.
+[16:21:37	]Callum Curose has critically hit Adalia Torres in the stomach dealing 9 damage (CritChance was 0.56).
+[16:21:37	]Adalia Torres has taken 9 damage from Callum Curose.
+[16:21:37	]Adalia Torres has hit Callum Curose in the chest dealing 8 damage (CritChance was 0.43).
+[16:21:37	]Callum Curose has taken 8 damage from Adalia Torres.
+[16:21:37	]Adalia Torres has critically hit Callum Curose in the chest dealing 10 damage (CritChance was 0.43).
+[16:21:37	]Callum Curose has taken 10 damage from Adalia Torres.
+[16:21:37	]Callum Curose has hit Adalia Torres in the stomach dealing 7 damage (CritChance was 0.53).
+[16:21:37	]Adalia Torres has taken 7 damage from Callum Curose.
+[16:21:38	]Callum Curose has hit Adalia Torres in the stomach dealing 7 damage (CritChance was 0.53).
+[16:21:38	]Adalia Torres has taken 7 damage from Callum Curose.
+[16:21:38	]Adalia Torres has hit Callum Curose in the head dealing 10 damage (CritChance was 0.14).
+[16:21:38	]Callum Curose has taken 10 damage from Adalia Torres.
+[16:21:38	]Callum Curose has hit Adalia Torres in the stomach dealing 7 damage (CritChance was 0.52).
+[16:21:38	]Adalia Torres has taken 7 damage from Callum Curose.
+[16:21:38	]Callum Curose has critically hit Adalia Torres in the stomach dealing 9 damage (CritChance was 0.52).
+[16:21:38	]Adalia Torres was knocked unconscious and is bleeding out.
+[16:21:51	]Adalia Torres ran SAM command 'respawn' with arguments: 'adalia'
+[16:22:01	]Adalia Torres entered observer.
+[16:22:02	]Adalia Torres exited observer at their location.
+[16:22:04	]Adalia Torres has critically hit Callum Curose in the chest dealing 10 damage (CritChance was 0.43).
+[16:22:04	]Callum Curose has taken 10 damage from Adalia Torres.
+[16:22:04	]Adalia Torres has critically hit Callum Curose in the stomach dealing 9 damage (CritChance was 0.58).
+[16:22:04	]Callum Curose was knocked unconscious and is bleeding out.
+[16:22:10	]Adalia Torres ran SAM command 'respawn' with arguments: 'callum'
+[16:22:12	]Adalia Torres entered observer.
+[16:22:18	]Adalia Torres ran SAM command 'hp' with arguments: '*' '100'
+[16:22:19	]Callum Curose used the 'John Doe' vendor.
+[16:22:20	]Callum Curose is fully healed.
+[16:22:21	]Adalia Torres is fully healed.
+[16:22:27	]Callum Curose ran 'drop' on item 'MP5-SD' (#2688813)
+[16:22:27	]Callum Curose has lost a 'MP5-SD' #2688813.
+[16:22:30	]Adalia Torres exited observer at their location.
+[16:22:31	]Callum Curose used the 'John Doe' vendor.
+[16:22:36	]Callum Curose has gained 0 chips.
+[16:22:36	]Callum Curose has gained a 'Overwatch Tactical Rifle' #2688908.
+[16:22:40	]Callum Curose ran 'drop' on item 'Overwatch Tactical Rifle' (#2688908)
+[16:22:40	]Callum Curose has lost a 'Overwatch Tactical Rifle' #2688908.
+[16:22:45	]Adalia Torres ran 'take' on item 'Overwatch Tactical Rifle' (#2688908)
+[16:22:45	]Adalia Torres has gained a 'Overwatch Tactical Rifle' #2688908.
+[16:23:10	]Adalia Torres ran 'drop' on item 'MP5A3' (#2688906)
+[16:23:10	]Adalia Torres has lost a 'MP5A3' #2688906.
+[16:23:11	]Adalia Torres ran 'drop' on item 'Overwatch Tactical Rifle' (#2688908)
+[16:23:11	]Adalia Torres has lost a 'Overwatch Tactical Rifle' #2688908.
+[16:23:13	]Adalia Torres entered observer.
+[16:23:19	][LOOC] Callum Curose: You see what I mean?
+[16:23:25	][LOOC] Callum Curose: I dont think they did a balance pass on that weapon
+[16:23:31	][LOOC] Adalia Torres: lol
+[16:23:45	][LOOC] Callum Curose: Would you mind doing that?
+[16:23:49	][LOOC] Callum Curose: Pretty please?
+[16:24:05	]Adalia Torres exited observer at their location.
+[16:24:06	]Adalia Torres entered observer.
+[16:24:06	][LOOC] Callum Curose: I mean it takes AR ammo too so its really expensive to run
+[16:24:07	]Adalia Torres exited observer at their location.
+[16:24:10	]Adalia Torres entered observer.
+[16:24:15	]Callum Curose ran 'take' on item 'Model 329PD' (#2688856)
+[16:24:15	]Callum Curose has gained a 'Model 329PD' #2688856.
+[16:24:18	]Callum Curose ran 'Equip' on item 'Model 329PD' (#2688856)
+[16:24:18	]Callum Curose used command '/ToggleRaise'.
+[16:25:15	]Callum Curose ran 'EquipUn' on item 'Model 329PD' (#2688856)
+[16:25:16	]Callum Curose ran 'drop' on item 'Model 329PD' (#2688856)
+[16:25:16	]Callum Curose has lost a 'Model 329PD' #2688856.
+[16:25:21	]Callum Curose ran 'take' on item 'Overwatch Pulse Submachine-gun' (#2688855)
+[16:25:21	]Callum Curose has gained a 'Overwatch Pulse Submachine-gun' #2688855.
+[16:25:24	]Callum Curose ran 'Equip' on item 'Overwatch Pulse Submachine-gun' (#2688855)
+[16:25:25	]Callum Curose used command '/ToggleRaise'.
+[16:25:53	]Callum Curose ran 'EquipUn' on item 'Overwatch Pulse Submachine-gun' (#2688855)
+[16:25:54	]Callum Curose ran 'Equip' on item 'Overwatch Pulse Submachine-gun' (#2688855)
+[16:25:56	]Callum Curose ran 'EquipUn' on item 'Overwatch Pulse Submachine-gun' (#2688855)
+[16:25:57	]Callum Curose ran 'Equip' on item 'Overwatch Pulse Submachine-gun' (#2688855)
+[16:26:00	]Callum Curose ran 'EquipUn' on item 'Overwatch Pulse Submachine-gun' (#2688855)
+[16:26:01	]Callum Curose ran 'Equip' on item 'Overwatch Pulse Submachine-gun' (#2688855)
+[16:26:02	]Callum Curose used command '/ToggleRaise'.
+[16:28:27	]Callum Curose ran 'drop' on item 'Overwatch Pulse Submachine-gun' (#2688855)
+[16:28:27	]Callum Curose has lost a 'Overwatch Pulse Submachine-gun' #2688855.
+[16:28:29	]Callum Curose ran 'take' on item 'Mini-14' (#2688865)
+[16:28:29	]Callum Curose has gained a 'Mini-14' #2688865.
+[16:28:31	]Callum Curose ran 'Equip' on item 'Mini-14' (#2688865)
+[16:28:32	]Callum Curose used command '/ToggleRaise'.
+[16:28:48	]Callum Curose ran 'drop' on item 'Mini-14' (#2688865)
+[16:28:48	]Callum Curose has lost a 'Mini-14' #2688865.
+[16:28:51	]Callum Curose ran 'take' on item 'Bastard Submachine Gun' (#2688812)
+[16:28:51	]Callum Curose has gained a 'Bastard Submachine Gun' #2688812.
+[16:28:53	]Callum Curose ran 'Equip' on item 'Bastard Submachine Gun' (#2688812)
+[16:28:54	]Callum Curose ran 'EquipUn' on item 'Bastard Submachine Gun' (#2688812)
+[16:28:56	]Callum Curose ran 'Equip' on item 'Bastard Submachine Gun' (#2688812)
+[16:28:56	]Callum Curose used command '/ToggleRaise'.
+[16:28:57	]M!NT (STEAM_0:1:120751263) has disconnected.
+[16:29:22	]Callum Curose ran 'drop' on item 'Bastard Submachine Gun' (#2688812)
+[16:29:22	]Callum Curose has lost a 'Bastard Submachine Gun' #2688812.
+[16:29:28	]Callum Curose ran 'take' on item 'Tikhar Ball Rifle' (#2688868)
+[16:29:28	]Callum Curose has gained a 'Tikhar Ball Rifle' #2688868.
+[16:29:32	]Callum Curose ran 'Equip' on item 'Tikhar Ball Rifle' (#2688868)
+[16:29:32	]Callum Curose used command '/ToggleRaise'.
+[16:30:08	]Callum Curose ran 'drop' on item 'Tikhar Ball Rifle' (#2688868)
+[16:30:08	]Callum Curose has lost a 'Tikhar Ball Rifle' #2688868.
+[16:30:13	]Callum Curose used the 'John Doe' vendor.
+[16:30:19	]Callum Curose has gained 0 chips.
+[16:30:19	]Callum Curose has gained a 'VSK-94' #2688909.
+[16:30:21	]Callum Curose ran 'Equip' on item 'VSK-94' (#2688909)
+[16:30:23	]Callum Curose ran 'EquipUn' on item 'VSK-94' (#2688909)
+[16:30:24	]Callum Curose ran 'Equip' on item 'VSK-94' (#2688909)
+[16:30:26	]Callum Curose ran 'EquipUn' on item 'VSK-94' (#2688909)
+[16:30:27	]Callum Curose ran 'Equip' on item 'VSK-94' (#2688909)
+[16:30:28	]Callum Curose used command '/ToggleRaise'.
+[16:31:37	]Callum Curose ran 'drop' on item 'VSK-94' (#2688909)
+[16:31:37	]Callum Curose has lost a 'VSK-94' #2688909.
+[16:31:39	]Callum Curose ran 'take' on item 'Overwatch Pulse Submachine-gun' (#2688855)
+[16:31:39	]Callum Curose has gained a 'Overwatch Pulse Submachine-gun' #2688855.
+[16:31:41	]Callum Curose ran 'Equip' on item 'Overwatch Pulse Submachine-gun' (#2688855)
+[16:31:41	]Callum Curose used command '/ToggleRaise'.
+[16:31:47	]Callum Curose ran 'drop' on item 'Overwatch Pulse Submachine-gun' (#2688855)
+[16:31:47	]Callum Curose has lost a 'Overwatch Pulse Submachine-gun' #2688855.
+[16:31:48	]Callum Curose used the 'John Doe' vendor.
+[16:31:49	]Callum Curose used the 'John Doe' vendor.
+[16:32:03	]Callum Curose has gained 0 chips.
+[16:32:03	]Callum Curose has gained a 'Overwatch Standard-Issue Carbine' #2688910.
+[16:32:11	]Callum Curose ran 'Equip' on item 'Overwatch Standard-Issue Carbine' (#2688910)
+[16:32:11	]Callum Curose used command '/ToggleRaise'.
+[16:33:22	]Callum Curose ran 'EquipUn' on item 'Overwatch Standard-Issue Carbine' (#2688910)
+[16:33:23	]Callum Curose ran 'Equip' on item 'Overwatch Standard-Issue Carbine' (#2688910)
+[16:33:25	]Callum Curose ran 'EquipUn' on item 'Overwatch Standard-Issue Carbine' (#2688910)
+[16:33:26	]Callum Curose ran 'Equip' on item 'Overwatch Standard-Issue Carbine' (#2688910)
+[16:33:28	]Callum Curose ran 'EquipUn' on item 'Overwatch Standard-Issue Carbine' (#2688910)
+[16:33:30	]Callum Curose ran 'Equip' on item 'Overwatch Standard-Issue Carbine' (#2688910)
+[16:33:31	]Callum Curose used command '/ToggleRaise'.
+[16:33:36	]Callum Curose opened the 'Large Metal Cabinet' #120763 container.
+[16:33:41	]Callum Curose closed the 'Large Metal Cabinet' #120763 container.
+[16:34:03	]Callum Curose ran 'drop' on item 'Overwatch Standard-Issue Carbine' (#2688910)
+[16:34:03	]Callum Curose has lost a 'Overwatch Standard-Issue Carbine' #2688910.
+[16:34:31	]Callum Curose used the 'John Doe' vendor.
+[16:34:38	]Callum Curose has gained 0 chips.
+[16:34:38	]Callum Curose has gained a 'OSPR2A-EXP' #2688911.
+[16:34:41	]Callum Curose ran 'Equip' on item 'OSPR2A-EXP' (#2688911)
+[16:34:42	]Callum Curose used command '/ToggleRaise'.
+[16:34:45	]Callum Curose ran 'EquipUn' on item 'OSPR2A-EXP' (#2688911)
+[16:34:48	]Callum Curose ran 'Equip' on item 'OSPR2A-EXP' (#2688911)
+[16:34:49	]Callum Curose used command '/ToggleRaise'.
+[16:35:16	]Callum Curose ran 'drop' on item 'OSPR2A-EXP' (#2688911)
+[16:35:16	]Callum Curose has lost a 'OSPR2A-EXP' #2688911.
+[16:35:17	]Callum Curose used the 'John Doe' vendor.
+[16:35:21	]Callum Curose has gained 0 chips.
+[16:35:21	]Callum Curose has gained a 'Suppressor Light Machinegun' #2688912.
+[16:35:25	]Callum Curose ran 'Equip' on item 'Suppressor Light Machinegun' (#2688912)
+[16:35:26	]Callum Curose used command '/ToggleRaise'.
+[16:35:58	]Callum Curose ran 'EquipUn' on item 'Suppressor Light Machinegun' (#2688912)
+[16:35:59	]Callum Curose used the 'John Doe' vendor.
+[16:36:02	]Callum Curose has gained 0 chips.
+[16:36:08	]Callum Curose has gained 0 chips.
+[16:36:08	]Callum Curose has gained a 'Spas-12' #2688913.
+[16:36:11	]Callum Curose ran 'Equip' on item 'Spas-12' (#2688913)
+[16:36:12	]Callum Curose used command '/ToggleRaise'.
+[16:36:16	]Callum Curose used command '/ToggleRaise'.
+[16:37:07	]Gutsy (STEAM_0:1:18485849) has disconnected.

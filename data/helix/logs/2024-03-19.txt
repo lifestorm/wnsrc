@@ -1,0 +1,1405 @@
+[00:00:01	][IC] C24:i3.UNION-41: <:: LOOK AT THIS SHIT. ::>
+[00:00:02	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 16 damage (CritChance was 0.30).
+[00:00:02	]C24:i5.KING-53 has taken 16 damage from C24:i3.UNION-41.
+[00:00:02	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 16 damage (CritChance was 0.30).
+[00:00:02	]C24:i5.KING-53 has taken 16 damage from C24:i3.UNION-41.
+[00:00:02	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 20 damage (CritChance was 0.10).
+[00:00:02	]C24:i5.KING-53 has taken 20 damage from C24:i3.UNION-41.
+[00:00:02	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 20 damage (CritChance was 0.10).
+[00:00:02	]C24:i5.KING-53 has taken 20 damage from C24:i3.UNION-41.
+[00:00:02	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 20 damage (CritChance was 0.10).
+[00:00:02	]C24:i5.KING-53 has taken 20 damage from C24:i3.UNION-41.
+[00:00:02	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 20 damage (CritChance was 0.14).
+[00:00:02	]C24:i5.KING-53 has taken 20 damage from C24:i3.UNION-41.
+[00:00:02	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 20 damage (CritChance was 0.14).
+[00:00:02	]C24:i5.KING-53 has taken 20 damage from C24:i3.UNION-41.
+[00:00:03	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the left arm dealing 8 damage (CritChance was 0.43).
+[00:00:03	]C24:i5.KING-53 has taken 8 damage from C24:i3.UNION-41.
+[00:00:03	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the left arm dealing 14 damage (CritChance was 0.43).
+[00:00:03	]C24:i5.KING-53 has taken 14 damage from C24:i3.UNION-41.
+[00:00:03	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the left arm dealing 14 damage (CritChance was 0.43).
+[00:00:03	]C24:i5.KING-53 has taken 14 damage from C24:i3.UNION-41.
+[00:00:03	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 16 damage (CritChance was 0.43).
+[00:00:03	]C24:i5.KING-53 has taken 16 damage from C24:i3.UNION-41.
+[00:00:03	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 16 damage (CritChance was 0.43).
+[00:00:03	]C24:i5.KING-53 was knocked unconscious and is bleeding out.
+[00:00:10	][IC] C24:i3.UNION-41: <:: DUDE THIS USED TO BE SHIT. ::>
+[00:00:13	][OOC] C24:i5.KING-53: im pretty sure that its just the dev server that has fucked dmg values
+[00:00:13	]C24:i5.KING-53 is fully healed.
+[00:00:14	][IC] Elena Rose: Brother.
+[00:00:14	]C24:i3.UNION-41 has hit Elena Rose in the head dealing 20 damage (CritChance was 0.14).
+[00:00:14	]Elena Rose has taken 20 damage from C24:i3.UNION-41.
+[00:00:14	]C24:i3.UNION-41 has hit Elena Rose in the head dealing 20 damage (CritChance was 0.14).
+[00:00:14	]Elena Rose has taken 20 damage from C24:i3.UNION-41.
+[00:00:14	]C24:i3.UNION-41 has hit Elena Rose in the head dealing 20 damage (CritChance was 0.14).
+[00:00:14	]Elena Rose has taken 20 damage from C24:i3.UNION-41.
+[00:00:15	]C24:i3.UNION-41 has hit Elena Rose in the head dealing 20 damage (CritChance was 0.14).
+[00:00:15	]Elena Rose has taken 20 damage from C24:i3.UNION-41.
+[00:00:15	]C24:i3.UNION-41 has hit Elena Rose in the head dealing 20 damage (CritChance was 0.14).
+[00:00:15	]Elena Rose has gained a '17rnd USP Magazine' #2691039.
+[00:00:15	]Elena Rose was knocked unconscious and is bleeding out.
+[00:00:15	][IC] Elena Rose: It's changed.
+[00:00:18	][IC] Elena Rose: I have an AR2.
+[00:00:21	][IC] Elena Rose: It doesnt shoot that way.
+[00:00:33	]Elena Rose is fully healed.
+[00:00:43	]C24:i3.UNION-41 has spawned a cmb_par2.
+[00:00:47	][IC] Elena Rose: The ar2 is slower and the only reason you have precision is simply because of the dev server bug.
+[00:00:53	]C24:i3.UNION-41 ran 'take' on item 'Overwatch Standard-Issue Pulse Rifle' (#2691050)
+[00:00:53	]C24:i3.UNION-41 has gained a 'Overwatch Standard-Issue Pulse Rifle' #2691050.
+[00:00:55	]C24:i3.UNION-41 ran 'Equip' on item 'Overwatch Standard-Issue Pulse Rifle' (#2691050)
+[00:00:55	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:01:08	][IC] Elena Rose: Try shooting it again?
+[00:01:09	]C24:i3.UNION-41 has spawned a bullets_pulse.
+[00:01:12	]Elena Rose used command '/ToggleRaise'.
+[00:01:18	]C24:i3.UNION-41 has spawned a magazine_pulse100.
+[00:01:38	][IC] Elena Rose: Supressor takes heavy pulse.
+[00:01:40	]C24:i3.UNION-41 has spawned a magazine_pulse30.
+[00:01:42	]C24:i3.UNION-41 ran 'take' on item '30rnd Pulse Magazine' (#2691053)
+[00:01:42	]C24:i3.UNION-41 has gained a '30rnd Pulse Magazine' #2691053.
+[00:01:44	]C24:i3.UNION-41 ran 'take' on item 'Pulse Rifle Bullets' (#2691051)
+[00:01:44	]C24:i3.UNION-41 has gained a 'Pulse Rifle Bullets' #2691051.
+[00:01:46	]C24:i3.UNION-41 ran 'combine' on item '30rnd Pulse Magazine' (#2691053)
+[00:01:47	]C24:i3.UNION-41 has lost a '30rnd Pulse Magazine' #2691053.
+[00:01:56	][IC] C24:i3.UNION-41: <:: I love it. ::>
+[00:01:58	][IC] Elena Rose: What is the name of the gun? That's not an ar2.
+[00:02:00	]Elena Rose used command '/ToggleRaise'.
+[00:02:08	][IC] Elena Rose: If it is, it's changed.
+[00:02:16	][IC] C24:i3.UNION-41: <:: IT IS. ::>
+[00:02:20	][IC] C24:i3.UNION-41: <:: It's the AR2. ::>
+[00:02:23	][IC] Elena Rose: As I said, it doesn't shoot like that on main.
+[00:02:26	][IC] Elena Rose: Tested it many times.
+[00:02:29	]C24:i3.UNION-41 ran 'EquipUn' on item 'Overwatch Standard-Issue Pulse Rifle' (#2691050)
+[00:02:29	]C24:i3.UNION-41 has gained a '30rnd Pulse Magazine' #2691053.
+[00:02:32	]C24:i3.UNION-41 ran 'drop' on item 'Overwatch Standard-Issue Pulse Rifle' (#2691050)
+[00:02:32	]C24:i3.UNION-41 has lost a 'Overwatch Standard-Issue Pulse Rifle' #2691050.
+[00:02:36	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:02:41	][IC] Elena Rose: Pulse smg is broken af.
+[00:02:44	][IC] C24:i3.UNION-41: <:: I always liked this. ::>
+[00:02:46	][IC] Elena Rose: Pulse smg is better than ar2.
+[00:02:46	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:02:52	][IC] C24:i3.UNION-41: <:: Fire rate. ::>
+[00:02:55	]C24:i3.UNION-41 has critically hit Elena Rose in the chest dealing 15 damage (CritChance was 0.43).
+[00:02:55	]Elena Rose has taken 15 damage from C24:i3.UNION-41.
+[00:02:55	]C24:i3.UNION-41 has critically hit Elena Rose in the chest dealing 15 damage (CritChance was 0.43).
+[00:02:55	]Elena Rose has taken 15 damage from C24:i3.UNION-41.
+[00:02:55	]C24:i3.UNION-41 has hit Elena Rose in the chest dealing 12 damage (CritChance was 0.43).
+[00:02:55	]Elena Rose has taken 12 damage from C24:i3.UNION-41.
+[00:02:55	]C24:i3.UNION-41 has critically hit Elena Rose in the chest dealing 15 damage (CritChance was 0.43).
+[00:02:55	]Elena Rose has taken 15 damage from C24:i3.UNION-41.
+[00:02:56	][IC] Elena Rose: Objectively better.
+[00:02:56	]C24:i3.UNION-41 has critically hit Elena Rose in the chest dealing 15 damage (CritChance was 0.43).
+[00:02:56	]Elena Rose has taken 15 damage from C24:i3.UNION-41.
+[00:02:56	]C24:i3.UNION-41 has hit Elena Rose in the chest dealing 12 damage (CritChance was 0.43).
+[00:02:56	]Elena Rose has taken 12 damage from C24:i3.UNION-41.
+[00:02:56	]C24:i3.UNION-41 has critically hit Elena Rose in the chest dealing 15 damage (CritChance was 0.43).
+[00:02:56	]Elena Rose was knocked unconscious and is bleeding out.
+[00:02:56	]Elena Rose used command '/ToggleRaise'.
+[00:02:58	][IC] C24:i3.UNION-41: <:: ... ::>
+[00:02:59	][IC] C24:i3.UNION-41: <:: Wtf. ::>
+[00:03:01	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.30).
+[00:03:01	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[00:03:01	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.30).
+[00:03:01	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[00:03:01	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.30).
+[00:03:01	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[00:03:01	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.30).
+[00:03:01	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[00:03:01	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.30).
+[00:03:01	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[00:03:01	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.30).
+[00:03:01	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[00:03:01	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.30).
+[00:03:01	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[00:03:01	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.43).
+[00:03:01	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[00:03:01	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.43).
+[00:03:01	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[00:03:01	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.43).
+[00:03:01	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[00:03:01	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.43).
+[00:03:01	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[00:03:01	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.43).
+[00:03:01	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[00:03:01	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.43).
+[00:03:01	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[00:03:01	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.43).
+[00:03:01	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[00:03:01	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.43).
+[00:03:01	]C24:i5.KING-53 was knocked unconscious and is bleeding out.
+[00:03:03	][IC] C24:i3.UNION-41: <:: BRUH. ::>
+[00:03:04	][IC] Elena Rose: I told you.
+[00:03:07	][IC] C24:i3.UNION-41: <:: WHAT THE FUFCK. ::>
+[00:03:10	][IC] Elena Rose: It is objectively better. I did tell you.
+[00:03:12	][IC] C24:i5.KING-53: <:: Ow. ::>
+[00:03:13	]Elena Rose is fully healed.
+[00:03:18	]C24:i3.UNION-41 has fired a toolgun with the name: creator
+[00:03:18	]C24:i3.UNION-41 has spawned a 'Weapon [5841][arrcw_psmg]'.
+[00:03:18	]C24:i3.UNION-41 has fired a toolgun with the name: creator
+[00:03:18	]C24:i3.UNION-41 has spawned a 'Weapon [5852][arrcw_psmg]'.
+[00:03:18	]C24:i5.KING-53 is fully healed.
+[00:03:20	][IC] C24:i3.UNION-41: <:: Test it. ::>
+[00:03:23	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:03:24	][IC] Elena Rose: I have tested it.
+[00:03:26	][IC] Elena Rose: It's annoyingly op.
+[00:03:27	]Elena Rose used command '/ToggleRaise'.
+[00:03:33	][IC] Elena Rose: Talia.
+[00:03:38	][IC] Elena Rose: Put yourself at 150 armor 150 hp.
+[00:03:48	][IC] Elena Rose: Do !hp !armor.
+[00:03:50	]C24:i3.UNION-41 is fully healed.
+[00:03:53	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:53	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:53	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:53	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:53	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:53	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:53	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:53	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:53	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:53	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:53	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:53	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:53	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:53	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:53	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:53	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has critically hit C24:i3.UNION-41 in the head dealing 18 damage (CritChance was 0.10).
+[00:03:54	]C24:i3.UNION-41 has taken 18 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.10).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.14).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.14).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.14).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.14).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.14).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:54	]Elena Rose has critically hit C24:i3.UNION-41 in the head dealing 18 damage (CritChance was 0.14).
+[00:03:54	]C24:i3.UNION-41 has taken 18 damage from Elena Rose.
+[00:03:54	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.14).
+[00:03:54	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:55	]Elena Rose has critically hit C24:i3.UNION-41 in the head dealing 18 damage (CritChance was 0.14).
+[00:03:55	]C24:i3.UNION-41 has taken 18 damage from Elena Rose.
+[00:03:55	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.14).
+[00:03:55	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:03:55	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 15 damage (CritChance was 0.14).
+[00:03:55	]C24:i3.UNION-41 was knocked unconscious and is bleeding out.
+[00:04:00	][IC] Elena Rose: I told you.
+[00:04:01	][IC] C24:i3.UNION-41: <:: Bruh...gtfo. ::>
+[00:04:01	][IC] Elena Rose: Broken.
+[00:04:07	][IC] C24:i3.UNION-41: <:: This is dumb. ::>
+[00:04:23	][IC] C24:i3.UNION-41: <:: Like the fact a G3 is slowed to kill than a Pulse SMG. ::>
+[00:04:23	]Elena Rose ran 'take' on item 'Overwatch Standard-Issue Pulse Rifle' (#2691050)
+[00:04:23	]Elena Rose has gained a 'Overwatch Standard-Issue Pulse Rifle' #2691050.
+[00:04:24	][ME] C24:i5.KING-53: shrugs.
+[00:04:28	]Elena Rose ran 'Equip' on item 'Overwatch Standard-Issue Pulse Rifle' (#2691050)
+[00:04:32	][IC] Elena Rose: Do the same and give me bullets.
+[00:04:36	][IC] Elena Rose: I'll show you how the ar2 is worse.
+[00:04:37	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:04:41	]C24:i3.UNION-41 has hit Elena Rose in the left arm dealing 7 damage (CritChance was 0.43).
+[00:04:41	]Elena Rose has taken 7 damage from C24:i3.UNION-41.
+[00:04:41	]C24:i3.UNION-41 has critically hit Elena Rose in the left arm dealing 12 damage (CritChance was 0.43).
+[00:04:41	]Elena Rose has taken 12 damage from C24:i3.UNION-41.
+[00:04:41	]C24:i3.UNION-41 has critically hit Elena Rose in the chest dealing 18 damage (CritChance was 0.43).
+[00:04:41	]Elena Rose has taken 18 damage from C24:i3.UNION-41.
+[00:04:41	]C24:i3.UNION-41 has critically hit Elena Rose in the chest dealing 18 damage (CritChance was 0.43).
+[00:04:41	]Elena Rose has taken 18 damage from C24:i3.UNION-41.
+[00:04:42	]C24:i3.UNION-41 has critically hit Elena Rose in the chest dealing 18 damage (CritChance was 0.43).
+[00:04:42	]Elena Rose has taken 18 damage from C24:i3.UNION-41.
+[00:04:42	]C24:i3.UNION-41 has hit Elena Rose in the chest dealing 14 damage (CritChance was 0.43).
+[00:04:42	]Elena Rose has taken 14 damage from C24:i3.UNION-41.
+[00:04:42	]C24:i3.UNION-41 has critically hit Elena Rose in the chest dealing 18 damage (CritChance was 0.43).
+[00:04:42	]Elena Rose was knocked unconscious and is bleeding out.
+[00:04:48	]Elena Rose is fully healed.
+[00:04:50	][IC] Elena Rose: Also g3 isn't good.
+[00:04:55	][IC] Elena Rose: It's just good cus I have no armor.
+[00:04:57	][IC] C24:i3.UNION-41: <:: Right well this is fucking dumb. ::>
+[00:05:04	]C24:i3.UNION-41 has fired a toolgun with the name: creator
+[00:05:04	]C24:i3.UNION-41 has spawned a 'Weapon [5843][arccw_ur_g3]'.
+[00:05:15	]C24:i3.UNION-41 is fully healed.
+[00:05:15	]C24:i3.UNION-41 has fired a toolgun with the name: creator
+[00:05:15	]C24:i3.UNION-41 has spawned a 'Weapon [5871][arccw_ur_g3]'.
+[00:05:15	]C24:i3.UNION-41 has fired a toolgun with the name: creator
+[00:05:15	]C24:i3.UNION-41 has spawned a 'Weapon [5874][arccw_ur_g3]'.
+[00:05:16	]C24:i3.UNION-41 has fired a toolgun with the name: creator
+[00:05:16	]C24:i3.UNION-41 has spawned a 'Weapon [5875][arccw_ur_g3]'.
+[00:05:17	][IC] Elena Rose: It's not good.
+[00:05:21	]C24:i5.KING-53 used command '/ToggleRaise'.
+[00:05:22	][IC] C24:i3.UNION-41: <:: Use it on me. ::>
+[00:05:24	][IC] Elena Rose: It's the dev server missconfig.
+[00:05:25	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 12 damage (CritChance was 0.26).
+[00:05:25	]C24:i3.UNION-41 has taken 12 damage from C24:i5.KING-53.
+[00:05:25	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 12 damage (CritChance was 0.26).
+[00:05:25	]C24:i3.UNION-41 has taken 12 damage from C24:i5.KING-53.
+[00:05:25	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 12 damage (CritChance was 0.26).
+[00:05:25	]C24:i3.UNION-41 has taken 12 damage from C24:i5.KING-53.
+[00:05:25	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the chest dealing 15 damage (CritChance was 0.26).
+[00:05:25	]C24:i3.UNION-41 has taken 15 damage from C24:i5.KING-53.
+[00:05:25	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 12 damage (CritChance was 0.26).
+[00:05:25	]C24:i3.UNION-41 has taken 12 damage from C24:i5.KING-53.
+[00:05:25	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 12 damage (CritChance was 0.26).
+[00:05:25	]C24:i3.UNION-41 has taken 12 damage from C24:i5.KING-53.
+[00:05:25	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 12 damage (CritChance was 0.26).
+[00:05:25	]C24:i3.UNION-41 has taken 12 damage from C24:i5.KING-53.
+[00:05:25	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the chest dealing 15 damage (CritChance was 0.26).
+[00:05:25	]C24:i3.UNION-41 has taken 15 damage from C24:i5.KING-53.
+[00:05:25	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the chest dealing 15 damage (CritChance was 0.26).
+[00:05:25	]C24:i3.UNION-41 has taken 15 damage from C24:i5.KING-53.
+[00:05:25	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 12 damage (CritChance was 0.26).
+[00:05:25	]C24:i3.UNION-41 has taken 12 damage from C24:i5.KING-53.
+[00:05:25	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 12 damage (CritChance was 0.26).
+[00:05:25	]C24:i3.UNION-41 has taken 12 damage from C24:i5.KING-53.
+[00:05:25	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 12 damage (CritChance was 0.26).
+[00:05:25	]C24:i3.UNION-41 has taken 12 damage from C24:i5.KING-53.
+[00:05:25	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 12 damage (CritChance was 0.26).
+[00:05:25	]C24:i3.UNION-41 has taken 12 damage from C24:i5.KING-53.
+[00:05:25	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the chest dealing 15 damage (CritChance was 0.26).
+[00:05:25	]C24:i3.UNION-41 has taken 15 damage from C24:i5.KING-53.
+[00:05:25	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the stomach dealing 10 damage (CritChance was 0.35).
+[00:05:25	]C24:i3.UNION-41 has taken 10 damage from C24:i5.KING-53.
+[00:05:25	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the stomach dealing 13 damage (CritChance was 0.35).
+[00:05:25	]C24:i3.UNION-41 has taken 13 damage from C24:i5.KING-53.
+[00:05:26	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the left leg dealing 6 damage (CritChance was 0.26).
+[00:05:26	]C24:i3.UNION-41 has taken 6 damage from C24:i5.KING-53.
+[00:05:26	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the left leg dealing 10 damage (CritChance was 0.26).
+[00:05:26	]C24:i3.UNION-41 has taken 10 damage from C24:i5.KING-53.
+[00:05:26	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 12 damage (CritChance was 0.26).
+[00:05:26	]C24:i3.UNION-41 has taken 12 damage from C24:i5.KING-53.
+[00:05:26	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the chest dealing 15 damage (CritChance was 0.26).
+[00:05:26	]C24:i3.UNION-41 has taken 15 damage from C24:i5.KING-53.
+[00:05:27	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 12 damage (CritChance was 0.26).
+[00:05:27	]C24:i3.UNION-41 has taken 12 damage from C24:i5.KING-53.
+[00:05:27	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 12 damage (CritChance was 0.26).
+[00:05:27	]C24:i3.UNION-41 has taken 12 damage from C24:i5.KING-53.
+[00:05:27	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the stomach dealing 10 damage (CritChance was 0.35).
+[00:05:27	]C24:i3.UNION-41 has taken 10 damage from C24:i5.KING-53.
+[00:05:27	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the stomach dealing 10 damage (CritChance was 0.35).
+[00:05:27	]C24:i3.UNION-41 has taken 10 damage from C24:i5.KING-53.
+[00:05:27	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the stomach dealing 10 damage (CritChance was 0.35).
+[00:05:27	]C24:i3.UNION-41 has taken 10 damage from C24:i5.KING-53.
+[00:05:27	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the stomach dealing 10 damage (CritChance was 0.35).
+[00:05:27	]C24:i3.UNION-41 has taken 10 damage from C24:i5.KING-53.
+[00:05:27	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the stomach dealing 13 damage (CritChance was 0.35).
+[00:05:27	]C24:i3.UNION-41 has taken 13 damage from C24:i5.KING-53.
+[00:05:27	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the stomach dealing 10 damage (CritChance was 0.35).
+[00:05:27	]C24:i3.UNION-41 has taken 10 damage from C24:i5.KING-53.
+[00:05:27	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the stomach dealing 10 damage (CritChance was 0.35).
+[00:05:27	]C24:i3.UNION-41 has taken 10 damage from C24:i5.KING-53.
+[00:05:27	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the stomach dealing 10 damage (CritChance was 0.35).
+[00:05:27	]C24:i3.UNION-41 has taken 10 damage from C24:i5.KING-53.
+[00:05:27	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the stomach dealing 13 damage (CritChance was 0.35).
+[00:05:27	]C24:i3.UNION-41 has taken 13 damage from C24:i5.KING-53.
+[00:05:27	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the stomach dealing 13 damage (CritChance was 0.50).
+[00:05:27	]C24:i3.UNION-41 has taken 13 damage from C24:i5.KING-53.
+[00:05:27	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the stomach dealing 10 damage (CritChance was 0.50).
+[00:05:27	]C24:i3.UNION-41 has taken 10 damage from C24:i5.KING-53.
+[00:05:27	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the stomach dealing 10 damage (CritChance was 0.50).
+[00:05:27	]C24:i3.UNION-41 has taken 10 damage from C24:i5.KING-53.
+[00:05:27	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the chest dealing 15 damage (CritChance was 0.37).
+[00:05:27	]C24:i3.UNION-41 has taken 15 damage from C24:i5.KING-53.
+[00:05:27	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 12 damage (CritChance was 0.37).
+[00:05:27	]C24:i3.UNION-41 has taken 12 damage from C24:i5.KING-53.
+[00:05:27	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the left arm dealing 6 damage (CritChance was 0.37).
+[00:05:27	]C24:i3.UNION-41 has taken 6 damage from C24:i5.KING-53.
+[00:05:27	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the left arm dealing 6 damage (CritChance was 0.37).
+[00:05:27	]C24:i3.UNION-41 has taken 6 damage from C24:i5.KING-53.
+[00:05:27	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the chest dealing 15 damage (CritChance was 0.37).
+[00:05:27	]C24:i3.UNION-41 has taken 15 damage from C24:i5.KING-53.
+[00:05:27	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the chest dealing 15 damage (CritChance was 0.37).
+[00:05:27	]C24:i3.UNION-41 has taken 15 damage from C24:i5.KING-53.
+[00:05:28	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the stomach dealing 10 damage (CritChance was 0.50).
+[00:05:28	]C24:i3.UNION-41 has taken 10 damage from C24:i5.KING-53.
+[00:05:28	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the stomach dealing 13 damage (CritChance was 0.50).
+[00:05:28	]C24:i3.UNION-41 has taken 13 damage from C24:i5.KING-53.
+[00:05:28	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 12 damage (CritChance was 0.37).
+[00:05:28	]C24:i3.UNION-41 has taken 12 damage from C24:i5.KING-53.
+[00:05:28	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the chest dealing 15 damage (CritChance was 0.37).
+[00:05:28	]C24:i3.UNION-41 was knocked unconscious and is bleeding out.
+[00:05:33	][IC] C24:i5.KING-53: <:: It took a full 20 rounds. ::>
+[00:05:36	][IC] Elena Rose: He was 150 150.
+[00:05:39	][IC] C24:i3.UNION-41: <:: One mag. ::>
+[00:05:45	]C24:i3.UNION-41 is fully healed.
+[00:05:46	][IC] C24:i3.UNION-41: <:: Now try the g3. ::>
+[00:05:52	][IC] Elena Rose: 20 rounds to kill someone with 150 armor 150 hp is not fucking bad.
+[00:05:54	][IC] Elena Rose: It's broken.
+[00:05:55	][IC] C24:i5.KING-53: <:: Cant pick it up. ::>
+[00:06:03	][IC] Elena Rose: Me neither.
+[00:06:13	]C24:i5.KING-53 used command '/ToggleRaise'.
+[00:06:13	][IC] Elena Rose: Bro.
+[00:06:15	][IC] Elena Rose: Stop stelaing.
+[00:06:17	]Elena Rose used command '/ToggleRaise'.
+[00:06:18	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the left arm dealing 12 damage (CritChance was 0.20).
+[00:06:18	]C24:i3.UNION-41 has taken 12 damage from C24:i5.KING-53.
+[00:06:18	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the left arm dealing 7 damage (CritChance was 0.20).
+[00:06:18	]C24:i3.UNION-41 has taken 7 damage from C24:i5.KING-53.
+[00:06:19	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.20).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from C24:i5.KING-53.
+[00:06:19	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.20).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from C24:i5.KING-53.
+[00:06:19	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.20).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from C24:i5.KING-53.
+[00:06:19	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the right leg dealing 7 damage (CritChance was 0.20).
+[00:06:19	]C24:i3.UNION-41 has taken 7 damage from C24:i5.KING-53.
+[00:06:19	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the right leg dealing 7 damage (CritChance was 0.20).
+[00:06:19	]C24:i3.UNION-41 has taken 7 damage from C24:i5.KING-53.
+[00:06:19	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.20).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from C24:i5.KING-53.
+[00:06:19	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.20).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from C24:i5.KING-53.
+[00:06:19	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.28).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[00:06:19	]Elena Rose has critically hit C24:i3.UNION-41 in the chest dealing 18 damage (CritChance was 0.28).
+[00:06:19	]C24:i3.UNION-41 has taken 18 damage from Elena Rose.
+[00:06:19	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.28).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[00:06:19	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.28).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[00:06:19	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.20).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from C24:i5.KING-53.
+[00:06:19	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.20).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from C24:i5.KING-53.
+[00:06:19	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.28).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[00:06:19	]Elena Rose has critically hit C24:i3.UNION-41 in the chest dealing 18 damage (CritChance was 0.28).
+[00:06:19	]C24:i3.UNION-41 has taken 18 damage from Elena Rose.
+[00:06:19	]Elena Rose has critically hit C24:i3.UNION-41 in the chest dealing 18 damage (CritChance was 0.28).
+[00:06:19	]C24:i3.UNION-41 has taken 18 damage from Elena Rose.
+[00:06:19	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the stomach dealing 12 damage (CritChance was 0.27).
+[00:06:19	]C24:i3.UNION-41 has taken 12 damage from C24:i5.KING-53.
+[00:06:19	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the stomach dealing 12 damage (CritChance was 0.27).
+[00:06:19	]C24:i3.UNION-41 has taken 12 damage from C24:i5.KING-53.
+[00:06:19	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.20).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from C24:i5.KING-53.
+[00:06:19	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.20).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from C24:i5.KING-53.
+[00:06:19	]Elena Rose has critically hit C24:i3.UNION-41 in the chest dealing 18 damage (CritChance was 0.28).
+[00:06:19	]C24:i3.UNION-41 has taken 18 damage from Elena Rose.
+[00:06:19	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.28).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[00:06:19	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.20).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from C24:i5.KING-53.
+[00:06:19	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.20).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from C24:i5.KING-53.
+[00:06:19	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.43).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[00:06:19	]Elena Rose has critically hit C24:i3.UNION-41 in the chest dealing 18 damage (CritChance was 0.43).
+[00:06:19	]C24:i3.UNION-41 has taken 18 damage from Elena Rose.
+[00:06:19	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.31).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from C24:i5.KING-53.
+[00:06:19	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.31).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from C24:i5.KING-53.
+[00:06:19	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.43).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[00:06:19	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.43).
+[00:06:19	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[00:06:20	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the chest dealing 18 damage (CritChance was 0.31).
+[00:06:20	]C24:i3.UNION-41 has taken 18 damage from C24:i5.KING-53.
+[00:06:20	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the chest dealing 18 damage (CritChance was 0.31).
+[00:06:20	]C24:i3.UNION-41 has taken 18 damage from C24:i5.KING-53.
+[00:06:20	]Elena Rose has critically hit C24:i3.UNION-41 in the chest dealing 18 damage (CritChance was 0.43).
+[00:06:20	]C24:i3.UNION-41 has taken 18 damage from Elena Rose.
+[00:06:20	]Elena Rose has critically hit C24:i3.UNION-41 in the chest dealing 18 damage (CritChance was 0.43).
+[00:06:20	]C24:i3.UNION-41 was knocked unconscious and is bleeding out.
+[00:06:22	][IC] C24:i3.UNION-41: <:: BRUH. ::>
+[00:06:23	]Elena Rose used command '/ToggleRaise'.
+[00:06:25	][IC] C24:i3.UNION-41: <:: HOW IS THIS POSSIBLE. ::>
+[00:06:30	][IC] Elena Rose: You can't base yourself on this Talia.
+[00:06:33	][IC] Elena Rose: The dev server is broken.
+[00:06:35	][IC] C24:i5.KING-53: <:: I'd say that thats okay. ::>
+[00:06:37	][IC] C24:i5.KING-53: <:: And yeah. ::>
+[00:06:37	][IC] C24:i3.UNION-41: <:: Also one thing. ::>
+[00:06:40	][IC] C24:i3.UNION-41: <:: Precision. ::>
+[00:06:42	]Elena Rose used command '/ToggleRaise'.
+[00:06:45	]C24:i5.KING-53 used command '/ToggleRaise'.
+[00:06:45	][IC] C24:i3.UNION-41: <:: I hate the fact there's spread. ::>
+[00:06:46	][IC] Elena Rose: Unprecise as fuck.
+[00:06:47	][IC] C24:i3.UNION-41: <:: Here. ::>
+[00:06:53	][IC] C24:i3.UNION-41: <:: Come back. ::>
+[00:06:57	]C24:i3.UNION-41 has fired a toolgun with the name: creator
+[00:06:57	]C24:i3.UNION-41 has spawned a 'Weapon [5753][arccw_ur_g3]'.
+[00:07:01	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[00:07:02	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.28).
+[00:07:02	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[00:07:02	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.28).
+[00:07:02	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[00:07:02	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[00:07:11	]C24:i3.UNION-41 has spawned 'models/props_interiors/refrigerator01a.mdl'.
+[00:07:15	]Elena Rose used command '/ToggleRaise'.
+[00:07:16	]C24:i3.UNION-41 has spawned 'models/props_junk/PopCan01a.mdl'.
+[00:07:17	][IC] C24:i5.KING-53: <:: I mean. ::>
+[00:07:20	][IC] C24:i5.KING-53: <:: Its not unexpected. ::>
+[00:07:28	]C24:i3.UNION-41 has spawned 'models/props_junk/PopCan01a.mdl'.
+[00:07:29	][IC] C24:i5.KING-53: <:: Battle Rifles aren't meant to be used on full auto. ::>
+[00:07:33	][IC] Elena Rose: You guys custom crosshair is better, honestly?
+[00:07:34	][IC] C24:i3.UNION-41: <:: Ok. ::>
+[00:07:36	]Elena Rose used command '/ToggleRaise'.
+[00:07:36	][IC] C24:i3.UNION-41: <:: Listen. ::>
+[00:07:38	][IC] C24:i3.UNION-41: <:: Come. ::>
+[00:07:50	]C24:i5.KING-53 used command '/ToggleRaise'.
+[00:07:50	][IC] Elena Rose: Talia.
+[00:07:51	][IC] C24:i3.UNION-41: <:: From here. ::>
+[00:07:54	][IC] Elena Rose: Give me the config of your crosshair.
+[00:08:01	][IC] C24:i3.UNION-41: <:: Shoot 3 bullets and try to hit the can. In single fire. ::>
+[00:08:09	][OOC] Elena Rose: talia gimme your crosshair config
+[00:08:10	]Elena Rose used command '/ToggleRaise'.
+[00:08:12	][OOC] C24:i3.UNION-41: come 
+[00:08:16	]Elena Rose used command '/ToggleRaise'.
+[00:08:18	][IC] C24:i3.UNION-41: <:: You missed the 3. ::>
+[00:08:18	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 18 damage (CritChance was 0.09).
+[00:08:18	]C24:i3.UNION-41 has taken 18 damage from Elena Rose.
+[00:08:18	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 18 damage (CritChance was 0.09).
+[00:08:18	]C24:i3.UNION-41 has taken 18 damage from Elena Rose.
+[00:08:18	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 18 damage (CritChance was 0.09).
+[00:08:18	]C24:i3.UNION-41 has taken 18 damage from Elena Rose.
+[00:08:19	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 18 damage (CritChance was 0.09).
+[00:08:19	]C24:i3.UNION-41 has taken 18 damage from Elena Rose.
+[00:08:19	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 18 damage (CritChance was 0.09).
+[00:08:19	]C24:i3.UNION-41 has taken 18 damage from Elena Rose.
+[00:08:21	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:08:23	][IC] C24:i5.KING-53: <:: Eh. ::>
+[00:08:25	]Elena Rose used command '/ToggleRaise'.
+[00:08:25	][IC] C24:i5.KING-53: <:: Its close enough. ::>
+[00:08:27	]Elena Rose has hit C24:i3.UNION-41 in the left arm dealing 0 damage (CritChance was 0.00).
+[00:08:27	]Elena Rose has hit C24:i3.UNION-41 in the left arm dealing 5 damage (CritChance was 0.00).
+[00:08:27	]C24:i3.UNION-41 has taken 5 damage from Elena Rose.
+[00:08:27	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 0 damage (CritChance was 0.00).
+[00:08:27	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 13 damage (CritChance was 0.00).
+[00:08:27	]C24:i3.UNION-41 has taken 13 damage from Elena Rose.
+[00:08:27	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 0 damage (CritChance was 0.00).
+[00:08:27	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 12 damage (CritChance was 0.00).
+[00:08:27	]C24:i3.UNION-41 has taken 12 damage from Elena Rose.
+[00:08:27	]Elena Rose has hit C24:i3.UNION-41 in the right arm dealing 0 damage (CritChance was 0.00).
+[00:08:27	]Elena Rose has hit C24:i3.UNION-41 in the right arm dealing 0 damage (CritChance was 0.00).
+[00:08:27	]Elena Rose has hit C24:i3.UNION-41 in the right arm dealing 5 damage (CritChance was 0.00).
+[00:08:27	]C24:i3.UNION-41 has taken 5 damage from Elena Rose.
+[00:08:27	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 0 damage (CritChance was 0.00).
+[00:08:27	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 0 damage (CritChance was 0.00).
+[00:08:27	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 13 damage (CritChance was 0.00).
+[00:08:27	]C24:i3.UNION-41 has taken 13 damage from Elena Rose.
+[00:08:27	]Elena Rose has hit C24:i3.UNION-41 in the right arm dealing 0 damage (CritChance was 0.00).
+[00:08:27	]Elena Rose has hit C24:i3.UNION-41 in the right arm dealing 0 damage (CritChance was 0.00).
+[00:08:27	]Elena Rose has hit C24:i3.UNION-41 in the right arm dealing 5 damage (CritChance was 0.00).
+[00:08:27	]C24:i3.UNION-41 has taken 5 damage from Elena Rose.
+[00:08:27	]Elena Rose has hit C24:i3.UNION-41 in the right arm dealing 0 damage (CritChance was 0.00).
+[00:08:27	]Elena Rose has hit C24:i3.UNION-41 in the right arm dealing 5 damage (CritChance was 0.00).
+[00:08:27	]C24:i3.UNION-41 has taken 5 damage from Elena Rose.
+[00:08:31	]C24:i5.KING-53 used command '/ToggleRaise'.
+[00:08:34	]C24:i5.KING-53 has hit Elena Rose in the stomach dealing 10 damage (CritChance was 0.50).
+[00:08:34	]Elena Rose has taken 10 damage from C24:i5.KING-53.
+[00:08:34	]C24:i5.KING-53 has hit Elena Rose in the stomach dealing 10 damage (CritChance was 0.50).
+[00:08:34	]Elena Rose has taken 10 damage from C24:i5.KING-53.
+[00:08:34	]C24:i5.KING-53 has critically hit Elena Rose in the stomach dealing 13 damage (CritChance was 0.50).
+[00:08:34	]Elena Rose has taken 13 damage from C24:i5.KING-53.
+[00:08:34	]C24:i5.KING-53 has hit Elena Rose in the stomach dealing 10 damage (CritChance was 0.50).
+[00:08:34	]Elena Rose has taken 10 damage from C24:i5.KING-53.
+[00:08:34	]C24:i5.KING-53 has hit Elena Rose in the left leg dealing 6 damage (CritChance was 0.37).
+[00:08:34	]Elena Rose has taken 6 damage from C24:i5.KING-53.
+[00:08:34	]C24:i5.KING-53 has critically hit Elena Rose in the left arm dealing 10 damage (CritChance was 0.37).
+[00:08:34	]Elena Rose has taken 10 damage from C24:i5.KING-53.
+[00:08:34	]C24:i5.KING-53 has critically hit Elena Rose in the left arm dealing 10 damage (CritChance was 0.37).
+[00:08:34	]Elena Rose has taken 10 damage from C24:i5.KING-53.
+[00:08:34	]C24:i5.KING-53 has hit Elena Rose in the left arm dealing 6 damage (CritChance was 0.37).
+[00:08:34	]Elena Rose has taken 6 damage from C24:i5.KING-53.
+[00:08:34	]C24:i5.KING-53 has hit Elena Rose in the left arm dealing 6 damage (CritChance was 0.37).
+[00:08:34	]Elena Rose has taken 6 damage from C24:i5.KING-53.
+[00:08:34	]C24:i5.KING-53 has critically hit Elena Rose in the stomach dealing 13 damage (CritChance was 0.50).
+[00:08:34	]Elena Rose has taken 13 damage from C24:i5.KING-53.
+[00:08:35	]C24:i5.KING-53 has critically hit Elena Rose in the stomach dealing 13 damage (CritChance was 0.50).
+[00:08:35	]Elena Rose was knocked unconscious and is bleeding out.
+[00:08:36	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:08:36	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 26 damage (CritChance was 0.00).
+[00:08:36	]C24:i5.KING-53 has taken 26 damage from C24:i3.UNION-41.
+[00:08:36	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:08:36	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 26 damage (CritChance was 0.00).
+[00:08:36	]C24:i5.KING-53 has taken 26 damage from C24:i3.UNION-41.
+[00:08:36	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:08:36	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 27 damage (CritChance was 0.00).
+[00:08:36	]C24:i5.KING-53 has taken 27 damage from C24:i3.UNION-41.
+[00:08:36	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:08:36	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:08:36	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 26 damage (CritChance was 0.00).
+[00:08:36	]C24:i5.KING-53 has taken 26 damage from C24:i3.UNION-41.
+[00:08:36	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:08:36	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:08:36	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:08:36	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 26 damage (CritChance was 0.00).
+[00:08:36	]C24:i5.KING-53 has taken 26 damage from C24:i3.UNION-41.
+[00:08:36	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:08:36	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:08:36	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 27 damage (CritChance was 0.00).
+[00:08:36	]C24:i5.KING-53 has taken 27 damage from C24:i3.UNION-41.
+[00:08:36	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:08:36	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the head dealing 26 damage (CritChance was 0.00).
+[00:08:36	]C24:i5.KING-53 was knocked unconscious and is bleeding out.
+[00:08:43	]C24:i5.KING-53 is fully healed.
+[00:08:48	][IC] C24:i5.KING-53: <:: Help! ::>
+[00:08:54	]C24:i5.KING-53 has spawned 'models/props_c17/FurnitureRadiator001a.mdl'.
+[00:08:56	][IC] C24:i3.UNION-41: <:: F3 me. ::>
+[00:08:58	]Elena Rose is fully healed.
+[00:09:04	][IC] Elena Rose: Yoooo.
+[00:09:07	][IC] Elena Rose: Gimme that crosshair.
+[00:09:09	]Elena Rose used command '/ToggleRaise'.
+[00:09:10	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:09:11	]Elena Rose has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:09:11	]Elena Rose has hit C24:i5.KING-53 in the head dealing 27 damage (CritChance was 0.00).
+[00:09:11	]C24:i5.KING-53 has taken 27 damage from Elena Rose.
+[00:09:11	]Elena Rose has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:09:11	]Elena Rose has hit C24:i5.KING-53 in the head dealing 27 damage (CritChance was 0.00).
+[00:09:11	]C24:i5.KING-53 has taken 27 damage from Elena Rose.
+[00:09:11	]Elena Rose has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:09:11	]Elena Rose has hit C24:i5.KING-53 in the head dealing 27 damage (CritChance was 0.00).
+[00:09:11	]C24:i5.KING-53 has taken 27 damage from Elena Rose.
+[00:09:11	]Elena Rose has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:09:11	]Elena Rose has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:09:11	]Elena Rose has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:09:11	]Elena Rose has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:09:11	]Elena Rose has hit C24:i5.KING-53 in the head dealing 27 damage (CritChance was 0.00).
+[00:09:11	]C24:i5.KING-53 has taken 27 damage from Elena Rose.
+[00:09:11	]Elena Rose has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:09:11	]Elena Rose has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:09:11	]Elena Rose has hit C24:i5.KING-53 in the head dealing 27 damage (CritChance was 0.00).
+[00:09:11	]C24:i5.KING-53 has taken 27 damage from Elena Rose.
+[00:09:11	]Elena Rose has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:09:11	]Elena Rose has hit C24:i5.KING-53 in the head dealing 27 damage (CritChance was 0.00).
+[00:09:11	]C24:i5.KING-53 has taken 27 damage from Elena Rose.
+[00:09:11	]Elena Rose has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:09:11	]Elena Rose has hit C24:i5.KING-53 in the head dealing 27 damage (CritChance was 0.00).
+[00:09:11	]C24:i5.KING-53 was knocked unconscious and is bleeding out.
+[00:09:14	]C24:i3.UNION-41 has critically hit Elena Rose in the head dealing 12 damage (CritChance was 0.12).
+[00:09:14	]Elena Rose has taken 12 damage from C24:i3.UNION-41.
+[00:09:14	]C24:i3.UNION-41 has hit Elena Rose in the chest dealing 8 damage (CritChance was 0.36).
+[00:09:14	]Elena Rose has taken 8 damage from C24:i3.UNION-41.
+[00:09:14	]C24:i3.UNION-41 has hit Elena Rose in the chest dealing 8 damage (CritChance was 0.36).
+[00:09:14	]Elena Rose has taken 8 damage from C24:i3.UNION-41.
+[00:09:14	]C24:i3.UNION-41 has critically hit Elena Rose in the chest dealing 10 damage (CritChance was 0.36).
+[00:09:14	]Elena Rose has taken 10 damage from C24:i3.UNION-41.
+[00:09:14	]C24:i3.UNION-41 has critically hit Elena Rose in the chest dealing 10 damage (CritChance was 0.36).
+[00:09:14	]Elena Rose has taken 10 damage from C24:i3.UNION-41.
+[00:09:14	]C24:i3.UNION-41 has hit Elena Rose in the head dealing 10 damage (CritChance was 0.12).
+[00:09:14	]Elena Rose has taken 10 damage from C24:i3.UNION-41.
+[00:09:14	]C24:i3.UNION-41 has hit Elena Rose in the chest dealing 8 damage (CritChance was 0.36).
+[00:09:14	]Elena Rose has taken 8 damage from C24:i3.UNION-41.
+[00:09:14	]C24:i3.UNION-41 has critically hit Elena Rose in the head dealing 12 damage (CritChance was 0.12).
+[00:09:14	]Elena Rose has taken 12 damage from C24:i3.UNION-41.
+[00:09:15	]Elena Rose used command '/ToggleRaise'.
+[00:09:16	]C24:i3.UNION-41 has hit Elena Rose in the chest dealing 8 damage (CritChance was 0.36).
+[00:09:16	]Elena Rose has taken 8 damage from C24:i3.UNION-41.
+[00:09:16	]C24:i3.UNION-41 has critically hit Elena Rose in the chest dealing 10 damage (CritChance was 0.36).
+[00:09:16	]Elena Rose has taken 10 damage from C24:i3.UNION-41.
+[00:09:16	]C24:i3.UNION-41 has hit Elena Rose in the chest dealing 8 damage (CritChance was 0.36).
+[00:09:16	]Elena Rose was knocked unconscious and is bleeding out.
+[00:09:22	]Elena Rose used command '/ToggleRaise'.
+[00:09:22	][IC] C24:i3.UNION-41: <:: Ok so. ::>
+[00:09:23	]Elena Rose is fully healed.
+[00:09:23	]C24:i5.KING-53 is fully healed.
+[00:09:25	][IC] C24:i3.UNION-41: <:: Try these. ::>
+[00:09:25	]C24:i5.KING-53 used command '/ToggleRaise'.
+[00:09:26	]Elena Rose used command '/ToggleRaise'.
+[00:09:31	]C24:i3.UNION-41 has fired a toolgun with the name: creator
+[00:09:31	]C24:i3.UNION-41 has spawned a 'Weapon [5835][arccw_eft_usp]'.
+[00:09:32	]C24:i3.UNION-41 has fired a toolgun with the name: creator
+[00:09:32	]C24:i3.UNION-41 has spawned a 'Weapon [5838][arccw_eft_usp]'.
+[00:09:36	][IC] C24:i3.UNION-41: <:: I will put the cans. ::>
+[00:09:39	][IC] C24:i3.UNION-41: <:: Take turns. ::>
+[00:09:39	]Elena Rose used command '/ToggleRaise'.
+[00:09:40	]C24:i5.KING-53 used command '/ToggleRaise'.
+[00:09:41	][IC] C24:i3.UNION-41: <:: 3 shots. ::>
+[00:09:43	][IC] C24:i3.UNION-41: <:: Go back. ::>
+[00:09:46	]Elena Rose has lost a '17rnd USP Magazine' #2691039.
+[00:09:50	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[00:09:50	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[00:09:51	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[00:09:54	]C24:i3.UNION-41 has spawned 'models/props_interiors/refrigerator01a.mdl'.
+[00:09:58	]C24:i3.UNION-41 has spawned 'models/props_junk/PopCan01a.mdl'.
+[00:10:00	]Elena Rose ran 'EquipUn' on item 'HK USP .45' (#2691033)
+[00:10:00	]Elena Rose has gained a '17rnd USP Magazine' #2691039.
+[00:10:01	]Elena Rose ran 'drop' on item 'HK USP .45' (#2691033)
+[00:10:01	]Elena Rose has lost a 'HK USP .45' #2691033.
+[00:10:04	][IC] Elena Rose: Give me another one.
+[00:10:06	][IC] Elena Rose: Give me another one.
+[00:10:07	][OOC] C24:i3.UNION-41: king first
+[00:10:07	][IC] Elena Rose: Give me another one.
+[00:10:11	][IC] C24:i3.UNION-41: <:: Wait jfc. ::>
+[00:10:15	]Elena Rose used command '/ToggleRaise'.
+[00:10:17	]Elena Rose used command '/ToggleRaise'.
+[00:10:18	][OOC] C24:i3.UNION-41: got further back
+[00:10:21	]Elena Rose used command '/ToggleRaise'.
+[00:10:28	]Elena Rose has hit C24:i5.KING-53 in the right arm dealing 0 damage (CritChance was 0.00).
+[00:10:28	]Elena Rose has hit C24:i5.KING-53 in the right arm dealing 0 damage (CritChance was 0.00).
+[00:10:28	]Elena Rose has hit C24:i5.KING-53 in the right arm dealing 4 damage (CritChance was 0.00).
+[00:10:28	]C24:i5.KING-53 has taken 4 damage from Elena Rose.
+[00:10:28	]Elena Rose has hit C24:i5.KING-53 in the right arm dealing 0 damage (CritChance was 0.00).
+[00:10:28	]Elena Rose has hit C24:i5.KING-53 in the right arm dealing 0 damage (CritChance was 0.00).
+[00:10:28	]Elena Rose has hit C24:i5.KING-53 in the right arm dealing 4 damage (CritChance was 0.00).
+[00:10:28	]C24:i5.KING-53 has taken 4 damage from Elena Rose.
+[00:10:28	]C24:i5.KING-53 is fully healed.
+[00:10:31	]C24:i5.KING-53 has hit Elena Rose in the left arm dealing 6 damage (CritChance was 0.39).
+[00:10:31	]Elena Rose has taken 6 damage from C24:i5.KING-53.
+[00:10:31	]C24:i5.KING-53 has hit Elena Rose in the left arm dealing 6 damage (CritChance was 0.39).
+[00:10:31	]Elena Rose has taken 6 damage from C24:i5.KING-53.
+[00:10:31	]C24:i5.KING-53 has hit Elena Rose in the left arm dealing 6 damage (CritChance was 0.39).
+[00:10:31	]Elena Rose has taken 6 damage from C24:i5.KING-53.
+[00:10:31	]C24:i5.KING-53 has hit Elena Rose in the left arm dealing 6 damage (CritChance was 0.39).
+[00:10:31	]Elena Rose has taken 6 damage from C24:i5.KING-53.
+[00:10:33	]Elena Rose has hit C24:i5.KING-53 in the left arm dealing 0 damage (CritChance was 0.00).
+[00:10:33	]Elena Rose has hit C24:i5.KING-53 in the left arm dealing 0 damage (CritChance was 0.00).
+[00:10:33	]Elena Rose has hit C24:i5.KING-53 in the left arm dealing 4 damage (CritChance was 0.00).
+[00:10:33	]C24:i5.KING-53 has taken 4 damage from Elena Rose.
+[00:10:33	]Elena Rose has hit C24:i5.KING-53 in the left arm dealing 0 damage (CritChance was 0.00).
+[00:10:33	]Elena Rose has hit C24:i5.KING-53 in the left arm dealing 0 damage (CritChance was 0.00).
+[00:10:33	]Elena Rose has hit C24:i5.KING-53 in the left arm dealing 4 damage (CritChance was 0.00).
+[00:10:33	]C24:i5.KING-53 has taken 4 damage from Elena Rose.
+[00:10:33	]Elena Rose has hit C24:i5.KING-53 in the left arm dealing 0 damage (CritChance was 0.00).
+[00:10:33	]Elena Rose has hit C24:i5.KING-53 in the left arm dealing 4 damage (CritChance was 0.00).
+[00:10:33	]C24:i5.KING-53 has taken 4 damage from Elena Rose.
+[00:10:33	]C24:i5.KING-53 is fully healed.
+[00:10:34	][IC] C24:i3.UNION-41: <:: Do you mind??? ::>
+[00:10:37	]C24:i5.KING-53 has critically hit Elena Rose in the chest dealing 15 damage (CritChance was 0.39).
+[00:10:37	]Elena Rose has taken 15 damage from C24:i5.KING-53.
+[00:10:37	]C24:i5.KING-53 has critically hit Elena Rose in the left leg dealing 10 damage (CritChance was 0.39).
+[00:10:37	]Elena Rose has taken 10 damage from C24:i5.KING-53.
+[00:10:38	][IC] Elena Rose: What?
+[00:10:38	]C24:i5.KING-53 has critically hit Elena Rose in the stomach dealing 13 damage (CritChance was 0.51).
+[00:10:38	]Elena Rose has taken 13 damage from C24:i5.KING-53.
+[00:10:39	]C24:i5.KING-53 has hit Elena Rose in the head dealing 15 damage (CritChance was 0.13).
+[00:10:39	]Elena Rose has taken 15 damage from C24:i5.KING-53.
+[00:10:40	]C24:i5.KING-53 has critically hit Elena Rose in the left arm dealing 10 damage (CritChance was 0.39).
+[00:10:40	]Elena Rose has taken 10 damage from C24:i5.KING-53.
+[00:10:40	]C24:i5.KING-53 has critically hit Elena Rose in the left arm dealing 10 damage (CritChance was 0.39).
+[00:10:40	]Elena Rose has taken 10 damage from C24:i5.KING-53.
+[00:10:40	]C24:i5.KING-53 has hit Elena Rose in the left arm dealing 6 damage (CritChance was 0.39).
+[00:10:40	]Elena Rose was knocked unconscious and is bleeding out.
+[00:10:53	][OOC] C24:i3.UNION-41: so basically there's a shit ton of spread from afar
+[00:10:58	]Elena Rose is fully healed.
+[00:11:03	]Elena Rose used command '/ToggleRaise'.
+[00:11:05	][IC] C24:i3.UNION-41: <:: Lookat the circle. ::>
+[00:11:07	][IC] C24:i3.UNION-41: <:: That's so dumb. ::>
+[00:11:17	][IC] C24:i3.UNION-41: <:: I hate that. ::>
+[00:11:24	][ME] C24:i5.KING-53: shrugs
+[00:11:28	][IC] C24:i3.UNION-41: <:: I'd prefer recoil over unprecision. ::>
+[00:11:34	][IC] Elena Rose: Giv.
+[00:11:38	][IC] Elena Rose: Crosshair.
+[00:11:46	]Elena Rose used command '/ToggleRaise'.
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right arm dealing 0 damage (CritChance was 0.00).
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right arm dealing 0 damage (CritChance was 0.00).
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right arm dealing 6 damage (CritChance was 0.00).
+[00:11:53	]C24:i3.UNION-41 has taken 6 damage from Elena Rose.
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right leg dealing 0 damage (CritChance was 0.00).
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right leg dealing 3 damage (CritChance was 0.00).
+[00:11:53	]C24:i3.UNION-41 has taken 3 damage from Elena Rose.
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right leg dealing 0 damage (CritChance was 0.00).
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right leg dealing 0 damage (CritChance was 0.00).
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right leg dealing 0 damage (CritChance was 0.00).
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right leg dealing 3 damage (CritChance was 0.00).
+[00:11:53	]C24:i3.UNION-41 has taken 3 damage from Elena Rose.
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right leg dealing 0 damage (CritChance was 0.00).
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right leg dealing 3 damage (CritChance was 0.00).
+[00:11:53	]C24:i3.UNION-41 has taken 3 damage from Elena Rose.
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right arm dealing 0 damage (CritChance was 0.00).
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right arm dealing 0 damage (CritChance was 0.00).
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right arm dealing 0 damage (CritChance was 0.00).
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right arm dealing 6 damage (CritChance was 0.00).
+[00:11:53	]C24:i3.UNION-41 has taken 6 damage from Elena Rose.
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right leg dealing 0 damage (CritChance was 0.00).
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right leg dealing 0 damage (CritChance was 0.00).
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right leg dealing 0 damage (CritChance was 0.00).
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right leg dealing 3 damage (CritChance was 0.00).
+[00:11:53	]C24:i3.UNION-41 has taken 3 damage from Elena Rose.
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right leg dealing 0 damage (CritChance was 0.00).
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right leg dealing 3 damage (CritChance was 0.00).
+[00:11:53	]C24:i3.UNION-41 has taken 3 damage from Elena Rose.
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right leg dealing 0 damage (CritChance was 0.00).
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right leg dealing 0 damage (CritChance was 0.00).
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right leg dealing 0 damage (CritChance was 0.00).
+[00:11:53	]Elena Rose has hit C24:i3.UNION-41 in the right leg dealing 3 damage (CritChance was 0.00).
+[00:11:53	]C24:i3.UNION-41 has taken 3 damage from Elena Rose.
+[00:11:57	]C24:i5.KING-53 used command '/ToggleRaise'.
+[00:12:02	]C24:i5.KING-53 has critically hit Elena Rose dealing 24 damage (CritChance was 0.89).
+[00:12:02	]Elena Rose has taken 24 damage from C24:i5.KING-53.
+[00:12:05	]C24:i5.KING-53 has critically hit Elena Rose dealing 24 damage (CritChance was 0.89).
+[00:12:05	]Elena Rose has taken 24 damage from C24:i5.KING-53.
+[00:12:05	]Elena Rose has hit C24:i5.KING-53 in the chest dealing 0 damage (CritChance was 0.00).
+[00:12:05	]Elena Rose has hit C24:i5.KING-53 in the chest dealing 14 damage (CritChance was 0.00).
+[00:12:05	]C24:i5.KING-53 has taken 14 damage from Elena Rose.
+[00:12:05	]Elena Rose has hit C24:i5.KING-53 in the chest dealing 0 damage (CritChance was 0.00).
+[00:12:05	]Elena Rose has hit C24:i5.KING-53 in the chest dealing 14 damage (CritChance was 0.00).
+[00:12:05	]C24:i5.KING-53 has taken 14 damage from Elena Rose.
+[00:12:05	]Elena Rose has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:12:05	]Elena Rose has hit C24:i5.KING-53 in the head dealing 27 damage (CritChance was 0.00).
+[00:12:05	]C24:i5.KING-53 has taken 27 damage from Elena Rose.
+[00:12:05	]Elena Rose has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:12:05	]Elena Rose has hit C24:i5.KING-53 in the head dealing 27 damage (CritChance was 0.00).
+[00:12:05	]C24:i5.KING-53 has taken 27 damage from Elena Rose.
+[00:12:05	]Elena Rose has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:12:05	]Elena Rose has hit C24:i5.KING-53 in the head dealing 27 damage (CritChance was 0.00).
+[00:12:05	]C24:i5.KING-53 has taken 27 damage from Elena Rose.
+[00:12:05	]Elena Rose has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:12:05	]Elena Rose has hit C24:i5.KING-53 in the head dealing 27 damage (CritChance was 0.00).
+[00:12:05	]C24:i5.KING-53 has taken 27 damage from Elena Rose.
+[00:12:05	]Elena Rose has hit C24:i5.KING-53 in the head dealing 0 damage (CritChance was 0.00).
+[00:12:05	]Elena Rose has hit C24:i5.KING-53 in the head dealing 27 damage (CritChance was 0.00).
+[00:12:05	]C24:i5.KING-53 was knocked unconscious and is bleeding out.
+[00:12:05	][IC] C24:i3.UNION-41: <:: !zombie elena. ::>
+[00:12:11	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 0 damage (CritChance was 0.00).
+[00:12:11	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 27 damage (CritChance was 0.00).
+[00:12:11	]C24:i3.UNION-41 has taken 27 damage from Elena Rose.
+[00:12:11	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 0 damage (CritChance was 0.00).
+[00:12:11	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 27 damage (CritChance was 0.00).
+[00:12:11	]C24:i3.UNION-41 has taken 27 damage from Elena Rose.
+[00:12:11	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 0 damage (CritChance was 0.00).
+[00:12:11	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 27 damage (CritChance was 0.00).
+[00:12:11	]C24:i3.UNION-41 has taken 27 damage from Elena Rose.
+[00:12:11	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 0 damage (CritChance was 0.00).
+[00:12:11	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.00).
+[00:12:11	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[00:12:11	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 0 damage (CritChance was 0.00).
+[00:12:11	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 27 damage (CritChance was 0.00).
+[00:12:11	]C24:i3.UNION-41 has taken 27 damage from Elena Rose.
+[00:12:11	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 0 damage (CritChance was 0.00).
+[00:12:11	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 27 damage (CritChance was 0.00).
+[00:12:11	]C24:i3.UNION-41 has taken 27 damage from Elena Rose.
+[00:12:11	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 0 damage (CritChance was 0.00).
+[00:12:11	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 27 damage (CritChance was 0.00).
+[00:12:11	]C24:i3.UNION-41 was knocked unconscious and is bleeding out.
+[00:12:15	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:12:21	]Elena Rose has hit C24:i3.UNION-41 in the left arm dealing 0 damage (CritChance was 0.00).
+[00:12:21	]Elena Rose has hit C24:i3.UNION-41 in the left arm dealing 0 damage (CritChance was 0.00).
+[00:12:21	]Elena Rose has hit C24:i3.UNION-41 in the left arm dealing 6 damage (CritChance was 0.00).
+[00:12:21	]C24:i3.UNION-41 has taken 6 damage from Elena Rose.
+[00:12:21	]Elena Rose has hit C24:i3.UNION-41 in the left arm dealing 0 damage (CritChance was 0.00).
+[00:12:21	]Elena Rose has hit C24:i3.UNION-41 in the left arm dealing 6 damage (CritChance was 0.00).
+[00:12:21	]C24:i3.UNION-41 has taken 6 damage from Elena Rose.
+[00:12:22	]Elena Rose has hit C24:i3.UNION-41 in the left leg dealing 0 damage (CritChance was 0.00).
+[00:12:22	]Elena Rose has hit C24:i3.UNION-41 in the left leg dealing 3 damage (CritChance was 0.00).
+[00:12:22	]C24:i3.UNION-41 has taken 3 damage from Elena Rose.
+[00:12:22	]Elena Rose has hit C24:i3.UNION-41 in the left leg dealing 0 damage (CritChance was 0.00).
+[00:12:22	]Elena Rose has hit C24:i3.UNION-41 in the left leg dealing 3 damage (CritChance was 0.00).
+[00:12:22	]C24:i3.UNION-41 has taken 3 damage from Elena Rose.
+[00:12:22	]Elena Rose has hit C24:i3.UNION-41 in the left leg dealing 0 damage (CritChance was 0.00).
+[00:12:22	]Elena Rose has hit C24:i3.UNION-41 in the left leg dealing 3 damage (CritChance was 0.00).
+[00:12:22	]C24:i3.UNION-41 has taken 3 damage from Elena Rose.
+[00:12:22	]Elena Rose has hit C24:i3.UNION-41 in the left leg dealing 0 damage (CritChance was 0.00).
+[00:12:22	]Elena Rose has hit C24:i3.UNION-41 in the left leg dealing 3 damage (CritChance was 0.00).
+[00:12:22	]C24:i3.UNION-41 has taken 3 damage from Elena Rose.
+[00:12:22	]Elena Rose has hit C24:i3.UNION-41 in the left leg dealing 0 damage (CritChance was 0.00).
+[00:12:22	]Elena Rose has hit C24:i3.UNION-41 in the left leg dealing 3 damage (CritChance was 0.00).
+[00:12:22	]C24:i3.UNION-41 has taken 3 damage from Elena Rose.
+[00:12:22	]Elena Rose has hit C24:i3.UNION-41 in the left leg dealing 0 damage (CritChance was 0.00).
+[00:12:22	]Elena Rose has hit C24:i3.UNION-41 in the left leg dealing 3 damage (CritChance was 0.00).
+[00:12:22	]C24:i3.UNION-41 has taken 3 damage from Elena Rose.
+[00:12:22	]Elena Rose has hit C24:i3.UNION-41 in the left leg dealing 0 damage (CritChance was 0.00).
+[00:12:22	]Elena Rose has hit C24:i3.UNION-41 in the left leg dealing 3 damage (CritChance was 0.00).
+[00:12:22	]C24:i3.UNION-41 has taken 3 damage from Elena Rose.
+[00:12:22	]Elena Rose has hit C24:i3.UNION-41 in the left leg dealing 0 damage (CritChance was 0.00).
+[00:12:22	]Elena Rose has hit C24:i3.UNION-41 in the left leg dealing 3 damage (CritChance was 0.00).
+[00:12:22	]C24:i3.UNION-41 has taken 3 damage from Elena Rose.
+[00:12:22	]C24:i3.UNION-41 has hit C24:i3.UNION-41 in the left leg dealing 34 damage (CritChance was 0.00).
+[00:12:22	]C24:i3.UNION-41 has taken 34 damage from C24:i3.UNION-41.
+[00:12:22	]C24:i3.UNION-41 has hit Elena Rose dealing 109 damage (CritChance was 0.00).
+[00:12:22	]Elena Rose was knocked unconscious and is bleeding out.
+[00:12:27	]C24:i3.UNION-41 has hit C24:i3.UNION-41 in the left leg dealing 79 damage (CritChance was 0.00).
+[00:12:27	]C24:i3.UNION-41 was knocked unconscious and is bleeding out.
+[00:12:38	]C24:i5.KING-53 is fully healed.
+[00:12:45	]Elena Rose used command '/PM union test'.
+[00:12:46	][IC] C24:i3.UNION-41: <:: Ok so I got a long ass fucking thing to writte... ::>
+[00:12:47	][IC] C24:i3.UNION-41: <:: Ugh. ::>
+[00:12:49	]Elena Rose used command '/PM union give crosshair'.
+[00:12:52	][IC] C24:i5.KING-53: <:: E. ::>
+[00:12:57	]C24:i5.KING-53 used command '/ToggleRaise'.
+[00:12:58	]C24:i3.UNION-41 used command '/PM elena it's in chat'.
+[00:13:02	]Elena Rose used command '/PM union where'.
+[00:13:10	]C24:i5.KING-53 used command '/ToggleRaise'.
+[00:13:12	]Elena Rose used command '/PM union ok'.
+[00:13:13	][IC] C24:i3.UNION-41: <:: Dej. ::>
+[00:13:16	][IC] C24:i5.KING-53: <:: Yeah. ::>
+[00:13:16	][IC] C24:i3.UNION-41: <:: Wana test a gun? ::>
+[00:13:19	][IC] C24:i5.KING-53: <:: Ok. ::>
+[00:13:23	][IC] C24:i3.UNION-41: <:: Wich? ::>
+[00:13:35	][IC] C24:i5.KING-53: <:: RPG. ::>
+[00:13:36	][IC] C24:i5.KING-53: <:: :bean:. ::>
+[00:13:42	]C24:i3.UNION-41 has spawned a rpg.
+[00:13:44	]C24:i3.UNION-41 has spawned a rpg.
+[00:13:44	]C24:i5.KING-53 ran 'take' on item 'RPG-7' (#2691054)
+[00:13:45	]C24:i3.UNION-41 ran 'take' on item 'RPG-7' (#2691055)
+[00:13:46	][IC] Elena Rose: What is the clump circle?
+[00:13:49	][IC] C24:i5.KING-53: <:: Jfc its big. ::>
+[00:13:49	]C24:i3.UNION-41 ran 'take' on item 'RPG-7' (#2691055)
+[00:13:49	]C24:i3.UNION-41 has gained a 'RPG-7' #2691055.
+[00:13:50	]C24:i3.UNION-41 ran 'Equip' on item 'RPG-7' (#2691055)
+[00:13:50	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:13:54	]C24:i5.KING-53 ran 'drop' on item 'Ammunition Pouch' (#2654322)
+[00:13:54	]C24:i5.KING-53 has lost a 'Ammunition Pouch' #2654322.
+[00:13:54	]C24:i5.KING-53 has lost a '9mm Pistol Bullets' #2654338.
+[00:13:54	]C24:i5.KING-53 has lost a '9mm Pistol Bullets' #2654339.
+[00:13:54	]C24:i5.KING-53 has lost a '9mm Pistol Bullets' #2654341.
+[00:13:54	]C24:i5.KING-53 has lost a '9mm Pistol Bullets' #2654335.
+[00:13:54	]C24:i5.KING-53 has lost a '9mm Pistol Bullets' #2654342.
+[00:13:54	]C24:i5.KING-53 has lost a '9mm Pistol Bullets' #2654337.
+[00:13:54	]C24:i5.KING-53 has lost a '9mm Pistol Bullets' #2654340.
+[00:13:54	]C24:i5.KING-53 has lost a '9mm Pistol Bullets' #2654336.
+[00:13:55	]C24:i5.KING-53 ran 'drop' on item 'Magazine Pouch' (#2654334)
+[00:13:55	]C24:i5.KING-53 has lost a 'Magazine Pouch' #2654334.
+[00:13:57	]C24:i5.KING-53 ran 'take' on item 'RPG-7' (#2691054)
+[00:13:57	]C24:i5.KING-53 has gained a 'RPG-7' #2691054.
+[00:13:59	]C24:i5.KING-53 ran 'Equip' on item 'RPG-7' (#2691054)
+[00:14:01	]C24:i5.KING-53 ran 'EquipUn' on item 'MP7A1' (#2691024)
+[00:14:01	]C24:i5.KING-53 ran 'Equip' on item 'RPG-7' (#2691054)
+[00:14:02	]C24:i5.KING-53 used command '/ToggleRaise'.
+[00:14:08	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:14:11	]C24:i3.UNION-41 has critically hit Elena Rose in the right arm dealing 52 damage (CritChance was 0.39).
+[00:14:11	]Elena Rose was knocked unconscious and is bleeding out.
+[00:14:16	][IC] C24:i5.KING-53: <:: Lol. ::>
+[00:14:18	]C24:i3.UNION-41 has critically hit Elena Rose in the right arm dealing 52 damage (CritChance was 0.39).
+[00:14:18	]Elena Rose was knocked unconscious and is bleeding out.
+[00:14:20	][OOC] Elena Rose: stop
+[00:14:22	]C24:i5.KING-53 used command '/ToggleRaise'.
+[00:14:22	][OOC] C24:i3.UNION-41: THATS A ONE TAP
+[00:14:23	]Elena Rose used command '/ToggleRaise'.
+[00:14:26	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 60 damage (CritChance was 0.27).
+[00:14:26	]C24:i5.KING-53 has taken 60 damage from C24:i3.UNION-41.
+[00:14:26	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 75 damage (CritChance was 0.27).
+[00:14:26	]C24:i5.KING-53 has taken 75 damage from C24:i3.UNION-41.
+[00:14:28	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the head dealing 90 damage (CritChance was 0.13).
+[00:14:28	]C24:i5.KING-53 was knocked unconscious and is bleeding out.
+[00:14:30	][IC] C24:i5.KING-53: <:: Damage in this server cannot be trusted. ::>
+[00:14:33	][IC] C24:i3.UNION-41: <:: 90 dmg. ::>
+[00:14:33	][IC] C24:i5.KING-53: <:: Once again. ::>
+[00:14:33	][IC] Elena Rose: That gun is not in teh game.
+[00:14:37	][IC] Elena Rose: And it can not be trusted.
+[00:14:38	][IC] C24:i3.UNION-41: <:: It is. ::>
+[00:14:42	]Elena Rose used command '/ToggleRaise'.
+[00:14:43	][IC] C24:i5.KING-53: <:: But again. ::>
+[00:14:44	][IC] C24:i3.UNION-41: <:: The conscripts today had it. ::>
+[00:14:45	][IC] C24:i3.UNION-41: <:: The conscripts today had it. ::>
+[00:14:47	][IC] C24:i5.KING-53: <:: The damage on the dev server is fucked. ::>
+[00:14:53	][IC] Elena Rose: *REALLY?*.
+[00:14:54	][IC] Elena Rose: They had that shiT?
+[00:14:55	][IC] C24:i3.UNION-41: <:: Yep. ::>
+[00:14:56	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:14:57	][IC] C24:i5.KING-53: <:: Yeah. ::>
+[00:15:04	][IC] C24:i3.UNION-41: <:: So if we had fought the french. ::>
+[00:15:06	][IC] C24:i3.UNION-41: <:: We'd lost. ::>
+[00:15:12	][IC] C24:i3.UNION-41: <:: Dude. ::>
+[00:15:15	][IC] C24:i3.UNION-41: <:: Okllisten. ::>
+[00:15:17	][IC] Elena Rose: Are they coming back?
+[00:15:19	][IC] C24:i3.UNION-41: <:: This is my based opinion. ::>
+[00:15:22	][IC] Elena Rose: I want to kill those idiots for their guns.
+[00:15:27	][IC] C24:i3.UNION-41: <:: No unprecision no sprea. ::>
+[00:15:29	][IC] C24:i3.UNION-41: <:: But. ::>
+[00:15:31	][IC] C24:i3.UNION-41: <:: Recoil. ::>
+[00:15:32	]Elena Rose used command '/ToggleRaise'.
+[00:15:33	]Elena Rose has hit C24:i5.KING-53 dealing 3 damage (CritChance was 0.00).
+[00:15:33	]C24:i5.KING-53 was knocked unconscious and is bleeding out.
+[00:15:33	]Elena Rose has damaged C24:i5.KING-53, dealing 5.0006 with ix_hands
+[00:15:34	]Elena Rose used command '/ToggleRaise'.
+[00:15:34	][IC] C24:i5.KING-53: <:: No metagaming allowed. ::>
+[00:15:37	]C24:i3.UNION-41 has hit Elena Rose in the head dealing 35 damage (CritChance was 0.00).
+[00:15:37	]Elena Rose has taken 35 damage from C24:i3.UNION-41.
+[00:15:40	]C24:i3.UNION-41 has hit Elena Rose in the stomach dealing 7 damage (CritChance was 0.00).
+[00:15:40	]Elena Rose has taken 7 damage from C24:i3.UNION-41.
+[00:15:43	]C24:i3.UNION-41 has hit Elena Rose in the chest dealing 9 damage (CritChance was 0.00).
+[00:15:43	]Elena Rose has taken 9 damage from C24:i3.UNION-41.
+[00:15:44	]C24:i3.UNION-41 has hit Elena Rose in the head dealing 35 damage (CritChance was 0.00).
+[00:15:44	]Elena Rose was knocked unconscious and is bleeding out.
+[00:15:45	][IC] Elena Rose: Metagaming is allowed if it's against the french.
+[00:15:48	][IC] Elena Rose: It's on the rules bud.
+[00:15:49	][IC] Elena Rose: Read them.
+[00:15:50	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:15:53	][IC] C24:i3.UNION-41: <:: I hate you both. ::>
+[00:15:59	][IC] C24:i3.UNION-41: <:: !rs kin. ::>
+[00:16:01	][IC] C24:i5.KING-53: <:: What did i do >:(. ::>
+[00:16:05	]Elena Rose used command '/ToggleRaise'.
+[00:16:06	][IC] C24:i3.UNION-41: <:: Mean to french. ::>
+[00:16:10	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 0 damage (CritChance was 0.00).
+[00:16:10	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 27 damage (CritChance was 0.00).
+[00:16:10	]C24:i3.UNION-41 has taken 27 damage from Elena Rose.
+[00:16:10	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 0 damage (CritChance was 0.00).
+[00:16:10	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.00).
+[00:16:10	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[00:16:10	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 0 damage (CritChance was 0.00).
+[00:16:10	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 0 damage (CritChance was 0.00).
+[00:16:10	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 27 damage (CritChance was 0.00).
+[00:16:10	]C24:i3.UNION-41 has taken 27 damage from Elena Rose.
+[00:16:10	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 0 damage (CritChance was 0.00).
+[00:16:10	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.00).
+[00:16:10	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[00:16:10	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 0 damage (CritChance was 0.00).
+[00:16:10	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 0 damage (CritChance was 0.00).
+[00:16:10	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.00).
+[00:16:10	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[00:16:10	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 0 damage (CritChance was 0.00).
+[00:16:10	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 27 damage (CritChance was 0.00).
+[00:16:10	]C24:i3.UNION-41 has taken 27 damage from Elena Rose.
+[00:16:10	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 0 damage (CritChance was 0.00).
+[00:16:10	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.00).
+[00:16:10	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[00:16:10	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 0 damage (CritChance was 0.00).
+[00:16:10	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 27 damage (CritChance was 0.00).
+[00:16:10	]C24:i3.UNION-41 has taken 27 damage from Elena Rose.
+[00:16:10	][IC] C24:i5.KING-53: <:: LOL. ::>
+[00:16:11	]Elena Rose has hit C24:i3.UNION-41 in the right arm dealing 0 damage (CritChance was 0.00).
+[00:16:11	]Elena Rose has hit C24:i3.UNION-41 in the right arm dealing 0 damage (CritChance was 0.00).
+[00:16:11	]Elena Rose has hit C24:i3.UNION-41 in the right arm dealing 6 damage (CritChance was 0.00).
+[00:16:11	]C24:i3.UNION-41 has taken 6 damage from Elena Rose.
+[00:16:11	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 0 damage (CritChance was 0.00).
+[00:16:11	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.00).
+[00:16:11	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[00:16:11	]Elena Rose has hit C24:i3.UNION-41 in the right arm dealing 0 damage (CritChance was 0.00).
+[00:16:11	]Elena Rose has hit C24:i3.UNION-41 in the right arm dealing 6 damage (CritChance was 0.00).
+[00:16:11	]C24:i3.UNION-41 has taken 6 damage from Elena Rose.
+[00:16:11	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 0 damage (CritChance was 0.00).
+[00:16:11	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 27 damage (CritChance was 0.00).
+[00:16:11	]C24:i3.UNION-41 has taken 27 damage from Elena Rose.
+[00:16:11	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 0 damage (CritChance was 0.00).
+[00:16:11	]Elena Rose has hit C24:i3.UNION-41 in the head dealing 27 damage (CritChance was 0.00).
+[00:16:11	]C24:i3.UNION-41 was knocked unconscious and is bleeding out.
+[00:16:15	][IC] C24:i3.UNION-41: <:: !resp un. ::>
+[00:16:16	][IC] Elena Rose: We hate u too.
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 0 damage (CritChance was 0.00).
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 0 damage (CritChance was 0.00).
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 12 damage (CritChance was 0.00).
+[00:16:19	]C24:i3.UNION-41 has taken 12 damage from Elena Rose.
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 0 damage (CritChance was 0.00).
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 0 damage (CritChance was 0.00).
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 12 damage (CritChance was 0.00).
+[00:16:19	]C24:i3.UNION-41 has taken 12 damage from Elena Rose.
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 0 damage (CritChance was 0.00).
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 0 damage (CritChance was 0.00).
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 12 damage (CritChance was 0.00).
+[00:16:19	]C24:i3.UNION-41 has taken 12 damage from Elena Rose.
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 0 damage (CritChance was 0.00).
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 0 damage (CritChance was 0.00).
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 12 damage (CritChance was 0.00).
+[00:16:19	]C24:i3.UNION-41 has taken 12 damage from Elena Rose.
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the left arm dealing 0 damage (CritChance was 0.00).
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the left arm dealing 0 damage (CritChance was 0.00).
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 0 damage (CritChance was 0.00).
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 12 damage (CritChance was 0.00).
+[00:16:19	]C24:i3.UNION-41 has taken 12 damage from Elena Rose.
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 0 damage (CritChance was 0.00).
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 12 damage (CritChance was 0.00).
+[00:16:19	]C24:i3.UNION-41 has taken 12 damage from Elena Rose.
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 0 damage (CritChance was 0.00).
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 0 damage (CritChance was 0.00).
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 12 damage (CritChance was 0.00).
+[00:16:19	]C24:i3.UNION-41 has taken 12 damage from Elena Rose.
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 0 damage (CritChance was 0.00).
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 0 damage (CritChance was 0.00).
+[00:16:19	]Elena Rose has hit C24:i3.UNION-41 in the stomach dealing 12 damage (CritChance was 0.00).
+[00:16:19	]C24:i3.UNION-41 has taken 12 damage from Elena Rose.
+[00:16:20	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:16:21	]C24:i3.UNION-41 has hit Elena Rose dealing 3 damage (CritChance was 0.00).
+[00:16:21	]Elena Rose has taken 3 damage from C24:i3.UNION-41.
+[00:16:21	]C24:i3.UNION-41 has damaged Elena Rose, dealing 5.3 with ix_hands
+[00:16:21	]Elena Rose used command '/ToggleRaise'.
+[00:16:23	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:16:24	]Elena Rose has hit C24:i3.UNION-41 dealing 3 damage (CritChance was 0.00).
+[00:16:24	]C24:i3.UNION-41 has taken 3 damage from Elena Rose.
+[00:16:24	]Elena Rose has damaged C24:i3.UNION-41, dealing 5.0009 with ix_hands
+[00:16:25	]Elena Rose has hit C24:i3.UNION-41 dealing 3 damage (CritChance was 0.00).
+[00:16:25	]C24:i3.UNION-41 has taken 3 damage from Elena Rose.
+[00:16:25	]Elena Rose has damaged C24:i3.UNION-41, dealing 5.0012 with ix_hands
+[00:16:26	]Elena Rose has hit C24:i3.UNION-41 dealing 3 damage (CritChance was 0.00).
+[00:16:26	]C24:i3.UNION-41 has taken 3 damage from Elena Rose.
+[00:16:26	]Elena Rose has damaged C24:i3.UNION-41, dealing 5.0015 with ix_hands
+[00:16:30	]C24:i3.UNION-41 has spawned a uc_tp_gang.
+[00:16:31	]C24:i3.UNION-41 ran 'take' on item 'Homeboy' (#2691056)
+[00:16:31	]C24:i3.UNION-41 has gained a 'Homeboy' #2691056.
+[00:16:32	]Elena Rose used command '/ToggleRaise'.
+[00:16:40	]C24:i3.UNION-41 has critically hit Elena Rose in the left arm dealing 6 damage (CritChance was 0.43).
+[00:16:40	]Elena Rose has taken 6 damage from C24:i3.UNION-41.
+[00:16:40	]C24:i3.UNION-41 has hit Elena Rose in the left arm dealing 3 damage (CritChance was 0.43).
+[00:16:40	]Elena Rose has taken 3 damage from C24:i3.UNION-41.
+[00:16:40	]C24:i3.UNION-41 has critically hit Elena Rose in the chest dealing 9 damage (CritChance was 0.43).
+[00:16:40	]Elena Rose has taken 9 damage from C24:i3.UNION-41.
+[00:16:40	]C24:i3.UNION-41 has critically hit Elena Rose in the stomach dealing 8 damage (CritChance was 0.58).
+[00:16:40	]Elena Rose has taken 8 damage from C24:i3.UNION-41.
+[00:16:40	]C24:i3.UNION-41 has hit Elena Rose in the chest dealing 7 damage (CritChance was 0.43).
+[00:16:40	]Elena Rose has taken 7 damage from C24:i3.UNION-41.
+[00:16:40	]Elena Rose used command '/ToggleRaise'.
+[00:16:40	]C24:i3.UNION-41 has hit Elena Rose in the chest dealing 7 damage (CritChance was 0.43).
+[00:16:40	]Elena Rose has taken 7 damage from C24:i3.UNION-41.
+[00:16:41	]C24:i3.UNION-41 has hit Elena Rose in the chest dealing 7 damage (CritChance was 0.43).
+[00:16:41	]Elena Rose has taken 7 damage from C24:i3.UNION-41.
+[00:16:41	]C24:i3.UNION-41 has hit Elena Rose in the chest dealing 7 damage (CritChance was 0.43).
+[00:16:41	]Elena Rose was knocked unconscious and is bleeding out.
+[00:16:52	][IC] C24:i3.UNION-41: <:: On cuh. ::>
+[00:16:55	]Elena Rose used command '/CharSearch'.
+[00:16:58	]Elena Rose used command '/CharSearch'.
+[00:17:02	][IC] C24:i3.UNION-41: <:: On hood on dead homies. ::>
+[00:17:02	]Elena Rose used command '/CharSearch'.
+[00:17:07	]C24:i5.KING-53 used command '/ToggleRaise'.
+[00:17:08	]Elena Rose used command '/ToggleRaise'.
+[00:17:12	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 12 damage (CritChance was 0.26).
+[00:17:12	]C24:i3.UNION-41 has taken 12 damage from C24:i5.KING-53.
+[00:17:12	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the chest dealing 12 damage (CritChance was 0.26).
+[00:17:12	]C24:i3.UNION-41 has taken 12 damage from C24:i5.KING-53.
+[00:17:12	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the chest dealing 15 damage (CritChance was 0.37).
+[00:17:12	]C24:i3.UNION-41 has taken 15 damage from C24:i5.KING-53.
+[00:17:12	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the chest dealing 15 damage (CritChance was 0.37).
+[00:17:12	]C24:i3.UNION-41 has taken 15 damage from C24:i5.KING-53.
+[00:17:12	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 in the right arm dealing 10 damage (CritChance was 0.37).
+[00:17:12	]C24:i3.UNION-41 has taken 10 damage from C24:i5.KING-53.
+[00:17:12	]C24:i5.KING-53 has hit C24:i3.UNION-41 in the right arm dealing 6 damage (CritChance was 0.37).
+[00:17:12	]C24:i3.UNION-41 has taken 6 damage from C24:i5.KING-53.
+[00:17:13	]Elena Rose used command '/ToggleRaise'.
+[00:17:15	]Elena Rose used command '/ToggleRaise'.
+[00:17:20	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 12 damage (CritChance was 0.43).
+[00:17:20	]C24:i3.UNION-41 has taken 12 damage from Elena Rose.
+[00:17:20	]Elena Rose has critically hit C24:i3.UNION-41 in the chest dealing 15 damage (CritChance was 0.43).
+[00:17:20	]C24:i3.UNION-41 has taken 15 damage from Elena Rose.
+[00:17:20	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 12 damage (CritChance was 0.43).
+[00:17:20	]C24:i3.UNION-41 has taken 12 damage from Elena Rose.
+[00:17:20	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 12 damage (CritChance was 0.43).
+[00:17:20	]C24:i3.UNION-41 was knocked unconscious and is bleeding out.
+[00:17:22	]Elena Rose used command '/CharSearch'.
+[00:17:26	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:17:29	]Elena Rose ran 'drop' on item 'RPG-7' (#2691055)
+[00:17:29	]C24:i3.UNION-41 has lost a 'RPG-7' #2691055.
+[00:17:30	]Elena Rose ran 'take' on item 'RPG-7' (#2691055)
+[00:17:30	]Elena Rose has gained a 'RPG-7' #2691055.
+[00:17:33	]Elena Rose ran 'EquipUn' on item 'Overwatch Standard-Issue Pulse Rifle' (#2691050)
+[00:17:33	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:17:33	]Elena Rose ran 'Equip' on item 'RPG-7' (#2691055)
+[00:17:34	]Elena Rose used command '/ToggleRaise'.
+[00:17:35	]C24:i5.KING-53 ran 'drop' on item 'RPG-7' (#2691054)
+[00:17:35	]C24:i5.KING-53 has lost a 'RPG-7' #2691054.
+[00:17:37	]Elena Rose has hit C24:i3.UNION-41 dealing 90 damage (CritChance was 0.00).
+[00:17:37	]C24:i3.UNION-41 has taken 90 damage from Elena Rose.
+[00:17:37	]Elena Rose has hit C24:i5.KING-53 dealing 30 damage (CritChance was 0.00).
+[00:17:37	]C24:i5.KING-53 was knocked unconscious and is bleeding out.
+[00:17:41	]Elena Rose ran 'EquipUn' on item 'RPG-7' (#2691055)
+[00:17:41	]Elena Rose ran 'Equip' on item 'RPG-7' (#2691055)
+[00:17:42	]Elena Rose used command '/ToggleRaise'.
+[00:17:47	]C24:i3.UNION-41 has spawned a perk_suppressorrage.
+[00:17:48	]C24:i3.UNION-41 ran 'take' on item 'Suppressor's Spirit' (#2691057)
+[00:17:48	]C24:i3.UNION-41 has gained a 'Suppressor's Spirit' #2691057.
+[00:17:52	]Elena Rose ran 'EquipUn' on item 'RPG-7' (#2691055)
+[00:17:52	]Elena Rose ran 'Equip' on item 'RPG-7' (#2691055)
+[00:17:55	]Elena Rose used command '/ToggleRaise'.
+[00:18:00	]C24:i3.UNION-41 has hit Elena Rose in the stomach dealing 14 damage (CritChance was 0.49).
+[00:18:00	]Elena Rose has taken 14 damage from C24:i3.UNION-41.
+[00:18:00	]Elena Rose has hit C24:i3.UNION-41 dealing 17 damage (CritChance was 0.00).
+[00:18:00	]C24:i3.UNION-41 was knocked unconscious and is bleeding out.
+[00:18:00	]Elena Rose has hit C24:i5.KING-53 dealing 12 damage (CritChance was 0.00).
+[00:18:00	]C24:i5.KING-53 was knocked unconscious and is bleeding out.
+[00:18:03	]Elena Rose ran 'EquipUn' on item 'RPG-7' (#2691055)
+[00:18:03	]Elena Rose ran 'Equip' on item 'RPG-7' (#2691055)
+[00:18:04	]Elena Rose used command '/ToggleRaise'.
+[00:18:06	]Elena Rose used command '/ToggleRaise'.
+[00:18:07	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:18:09	]Elena Rose has hit C24:i3.UNION-41 dealing 31 damage (CritChance was 0.00).
+[00:18:09	]C24:i3.UNION-41 has taken 31 damage from Elena Rose.
+[00:18:09	]Elena Rose has hit C24:i5.KING-53 dealing 53 damage (CritChance was 0.00).
+[00:18:09	]C24:i5.KING-53 was knocked unconscious and is bleeding out.
+[00:18:11	]Elena Rose used command '/ToggleRaise'.
+[00:18:12	]C24:i3.UNION-41 has hit Elena Rose in the chest dealing 16 damage (CritChance was 0.43).
+[00:18:12	]Elena Rose has taken 16 damage from C24:i3.UNION-41.
+[00:18:12	]C24:i3.UNION-41 has hit Elena Rose in the right arm dealing 8 damage (CritChance was 0.43).
+[00:18:12	]Elena Rose has taken 8 damage from C24:i3.UNION-41.
+[00:18:12	]C24:i3.UNION-41 has critically hit Elena Rose in the right arm dealing 14 damage (CritChance was 0.43).
+[00:18:12	]Elena Rose was knocked unconscious and is bleeding out.
+[00:18:25	][IC] C24:i3.UNION-41: <:: Ok so. ::>
+[00:18:29	][IC] C24:i3.UNION-41: <:: I guess this is just shit. ::>
+[00:18:35	][IC] C24:i3.UNION-41: <:: The guns suck as always. ::>
+[00:18:39	][IC] C24:i5.KING-53: <:: Meh. ::>
+[00:18:44	][IC] Elena Rose: Do !jail union.
+[00:18:45	][IC] C24:i3.UNION-41: <:: God dammit... ::>
+[00:18:53	][IC] Elena Rose: Recorded.
+[00:18:54	][IC] Elena Rose: U getting banned.
+[00:18:54	][IC] C24:i3.UNION-41: <:: !burn len. ::>
+[00:18:58	]Risvolto (STEAM_0:0:699895906) has disconnected.
+[00:19:01	][IC] C24:i3.UNION-41: <:: OH FUCK. ::>
+[00:19:04	][IC] C24:i3.UNION-41: <:: HAHAHA. ::>
+[00:19:04	][IC] C24:i5.KING-53: <:: LOL. ::>
+[00:19:14	][IC] C24:i3.UNION-41: <:: I gotta go get their steamid. ::>
+[00:19:15	][IC] C24:i5.KING-53: <:: Dumbaaaaaaaaaass. ::>
+[00:19:17	][IC] C24:i3.UNION-41: <:: 1s. ::>
+[00:19:22	][IC] C24:i3.UNION-41: <:: I got web. ::>
+[00:19:40	][IC] C24:i3.UNION-41: <:: Right. ::>
+[00:19:42	][IC] C24:i3.UNION-41: <:: So basically. ::>
+[00:19:45	][IC] C24:i3.UNION-41: <:: We can't test guns. ::>
+[00:19:48	][IC] C24:i5.KING-53: <:: Yeah. ::>
+[00:19:51	][IC] C24:i3.UNION-41: <:: But I can look at the stats right? ::>
+[00:19:55	][IC] C24:i5.KING-53: <:: Yep. ::>
+[00:19:57	][IC] C24:i3.UNION-41: <:: Like when the gun is in my inv? ::>
+[00:19:58	]C24:i3.UNION-41 has taken 10 damage from ix_item.
+[00:20:00	][IC] C24:i5.KING-53: <:: Yeah. ::>
+[00:20:05	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:20:10	]C24:i5.KING-53 was knocked unconscious and is bleeding out.
+[00:20:13	][IC] C24:i3.UNION-41: <:: =. ::>
+[00:20:14	][IC] C24:i3.UNION-41: <:: ? ::>
+[00:20:18	][IC] C24:i3.UNION-41: <:: I didnt-... ::>
+[00:20:20	][IC] C24:i5.KING-53: <:: Augh! ::>
+[00:20:23	][IC] C24:i3.UNION-41: <:: I didnt veen shoot you. ::>
+[00:20:29	][IC] C24:i5.KING-53: <:: I killed myself with the script. ::>
+[00:20:42	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:20:56	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:21:05	][IC] C24:i3.UNION-41: <:: Ok so. ::>
+[00:21:07	][IC] C24:i3.UNION-41: <:: Listen. ::>
+[00:21:14	][IC] C24:i3.UNION-41: <:: This is what im gonna ask in the suggest. ::>
+[00:21:17	][IC] C24:i5.KING-53: <:: Ok. ::>
+[00:21:24	][IC] C24:i3.UNION-41: <:: Remove spread from aimin down sights. ::>
+[00:21:30	][IC] C24:i3.UNION-41: <:: So whe nyou aim down sights precision is 100%. ::>
+[00:21:42	][IC] C24:i3.UNION-41: <:: INCREASE RECOIL on all rifles. ::>
+[00:21:45	][IC] C24:i3.UNION-41: <:: Vertically. ::>
+[00:21:55	][IC] C24:i3.UNION-41: <:: Forcing players to choose from single fire to full auto from afar. ::>
+[00:22:00	][IC] C24:i3.UNION-41: <:: And stop people from LAZERING. ::>
+[00:22:02	][IC] C24:i3.UNION-41: <:: Across the map. ::>
+[00:22:11	][IC] C24:i3.UNION-41: <:: As for SMGs. ::>
+[00:22:16	][IC] C24:i3.UNION-41: <:: Increase recoil HORIZONTALLY. ::>
+[00:22:25	][IC] C24:i5.KING-53: <:: CSGO recoil patterns. ::>
+[00:22:34	][IC] C24:i3.UNION-41: <:: Making bullets spread out a lot  when you're trying to shoot from afar. ::>
+[00:22:48	][IC] C24:i3.UNION-41: <:: And do have spread when shooting from the hip. ::>
+[00:23:10	][IC] C24:i3.UNION-41: <:: Ok. ::>
+[00:23:15	][IC] C24:i3.UNION-41: <:: Im gonna go writte the app. ::>
+[00:23:17	][IC] C24:i5.KING-53: <:: Ok. ::>
+[00:23:20	][IC] C24:i5.KING-53: <:: Gl. ::>
+[00:23:22	][IC] C24:i3.UNION-41: <:: Thanks for helping. ::>
+[00:23:24	][IC] C24:i5.KING-53: <:: Im going back to main. ::>
+[00:23:24	][IC] C24:i3.UNION-41: <:: <3. ::>
+[00:23:26	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:23:29	]C24:i5.KING-53 used command '/ToggleRaise'.
+[00:23:32	]C24:i5.KING-53 has critically hit C24:i3.UNION-41 dealing 24 damage (CritChance was 0.36).
+[00:23:32	]C24:i3.UNION-41 has taken 24 damage from C24:i5.KING-53.
+[00:23:34	][IC] C24:i3.UNION-41: <:: OW. ::>
+[00:23:35	]C24:i5.KING-53 has hit C24:i3.UNION-41 dealing 19 damage (CritChance was 0.36).
+[00:23:35	]C24:i3.UNION-41 has taken 19 damage from C24:i5.KING-53.
+[00:23:35	]C24:i3.UNION-41 was just knocked out due to: hit by stunstick owned by C24:i5.KING-53
+[00:23:38	][IC] C24:i5.KING-53: <:: Haha. ::>
+[00:23:38	][IC] C24:i3.UNION-41: <:: AHHHHHH. ::>
+[00:23:42	][IC] C24:i3.UNION-41: <:: EH NOOOOOOOOO. ::>
+[00:23:43	][IC] C24:i5.KING-53: <:: Off to brazil. ::>
+[00:23:53	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:23:55	]C24:i3.UNION-41 has hit C24:i5.KING-53 dealing 9 damage (CritChance was 0.00).
+[00:23:55	]C24:i5.KING-53 was knocked unconscious and is bleeding out.
+[00:23:55	][VORT] C24:i3.UNION-41 has damaged C24:i5.KING-53 dealing 15 with vortpyro
+[00:23:59	][IC] C24:i3.UNION-41: <:: Turr. ::>
+[00:23:59	][IC] C24:i5.KING-53: <:: Uagh! ::>
+[00:24:03	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:24:09	][IC] C24:i3.UNION-41: <:: Galanga. ::>
+[00:24:10	][IC] C24:i5.KING-53: <:: Ok i go back to main now. ::>
+[00:24:16	][IC] C24:i5.KING-53: <:: Hmph. ::>
+[00:24:21	][IC] C24:i5.KING-53: <:: Wait. ::>
+[00:24:24	][IC] C24:i3.UNION-41: <:: Hm? ::>
+[00:24:30	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:24:35	][IC] C24:i5.KING-53: <:: I'm feelin' pretty good about myself today. ::>
+[00:24:38	][IC] C24:i3.UNION-41: <:: LÇOL. ::>
+[00:24:41	]C24:i3.UNION-41 has spawned a 'NPC [5844][npc_stalker]'.
+[00:24:41	]C24:i3.UNION-41 has hit npc_stalker dealing 10 damage (CritChance was 0.00).
+[00:24:41	]C24:i3.UNION-41 has hit npc_stalker dealing 10 damage (CritChance was 0.00).
+[00:24:41	]C24:i3.UNION-41 has hit npc_stalker dealing 10 damage (CritChance was 0.00).
+[00:24:41	]C24:i3.UNION-41 has hit npc_stalker dealing 10 damage (CritChance was 0.00).
+[00:24:41	]C24:i3.UNION-41 has hit npc_stalker dealing 10 damage (CritChance was 0.00).
+[00:24:44	]C24:i3.UNION-41 has spawned a 'NPC [5846][npc_combine_s]'.
+[00:24:46	]C24:i3.UNION-41 has hit npc_combine_s in the head dealing 13 damage (CritChance was 0.00).
+[00:24:46	]C24:i3.UNION-41 has hit npc_combine_s in the right arm dealing 24 damage (CritChance was 0.00).
+[00:24:46	]C24:i3.UNION-41 has hit npc_combine_s in the head dealing 13 damage (CritChance was 0.00).
+[00:24:48	]C24:i3.UNION-41 has spawned a 'NPC [5844][npc_combine_s]'.
+[00:24:49	][IC] C24:i5.KING-53: <:: Ow. ::>
+[00:24:50	]C24:i3.UNION-41 has hit npc_combine_s in the head dealing 13 damage (CritChance was 0.00).
+[00:24:50	]C24:i3.UNION-41 has hit npc_combine_s in the head dealing 13 damage (CritChance was 0.00).
+[00:24:50	]C24:i3.UNION-41 has hit npc_combine_s in the head dealing 13 damage (CritChance was 0.00).
+[00:24:55	]C24:i3.UNION-41 has spawned a 'NPC [5844][npc_strider]'.
+[00:24:56	]C24:i3.UNION-41 has hit npc_strider in the chest dealing 0 damage (CritChance was 0.00).
+[00:24:56	]C24:i3.UNION-41 has hit npc_strider in the chest dealing 0 damage (CritChance was 0.00).
+[00:24:56	]C24:i3.UNION-41 has hit npc_strider in the head dealing 12 damage (CritChance was 0.00).
+[00:24:56	]C24:i3.UNION-41 has hit npc_strider in the head dealing 12 damage (CritChance was 0.00).
+[00:24:56	]C24:i3.UNION-41 has hit npc_strider in the chest dealing 0 damage (CritChance was 0.00).
+[00:24:56	]C24:i3.UNION-41 has hit npc_strider in the chest dealing 0 damage (CritChance was 0.00).
+[00:24:56	]C24:i3.UNION-41 has hit npc_strider in the head dealing 12 damage (CritChance was 0.00).
+[00:24:56	]C24:i3.UNION-41 has hit npc_strider in the chest dealing 0 damage (CritChance was 0.00).
+[00:24:56	]C24:i3.UNION-41 has hit npc_strider in the chest dealing 0 damage (CritChance was 0.00).
+[00:24:56	]C24:i3.UNION-41 has hit npc_strider in the chest dealing 0 damage (CritChance was 0.00).
+[00:24:56	]C24:i3.UNION-41 has hit npc_strider in the chest dealing 0 damage (CritChance was 0.00).
+[00:24:56	]C24:i3.UNION-41 has hit npc_strider in the chest dealing 0 damage (CritChance was 0.00).
+[00:24:56	]C24:i3.UNION-41 has hit npc_strider in the chest dealing 0 damage (CritChance was 0.00).
+[00:24:56	]C24:i3.UNION-41 has hit npc_strider in the head dealing 12 damage (CritChance was 0.00).
+[00:24:56	]C24:i3.UNION-41 has hit npc_strider in the head dealing 12 damage (CritChance was 0.00).
+[00:24:56	]C24:i3.UNION-41 has hit npc_strider in the chest dealing 0 damage (CritChance was 0.00).
+[00:24:56	]C24:i3.UNION-41 has hit npc_strider in the chest dealing 0 damage (CritChance was 0.00).
+[00:25:01	][IC] C24:i5.KING-53: <:: Hmmm. ::>
+[00:25:04	]C24:i3.UNION-41 has spawned a 'NPC [5844][npc_manhack]'.
+[00:25:05	]C24:i3.UNION-41 has taken 4 damage from npc_manhack.
+[00:25:10	][IC] C24:i5.KING-53: <:: Have u tried playing Squad 7.2 yet. ::>
+[00:25:14	]C24:i3.UNION-41 has hit npc_manhack dealing 10 damage (CritChance was 0.00).
+[00:25:18	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:25:20	]C24:i3.UNION-41 has hit npc_manhack dealing 5 damage (CritChance was 0.60).
+[00:25:20	]C24:i3.UNION-41 has critically hit npc_manhack dealing 7 damage (CritChance was 0.60).
+[00:25:20	]C24:i3.UNION-41 has critically hit npc_manhack dealing 7 damage (CritChance was 0.60).
+[00:25:24	][IC] C24:i5.KING-53: <:: Ow. ::>
+[00:25:30	][IC] C24:i5.KING-53: <:: Have u tried squad 7.2 yet. ::>
+[00:25:31	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:25:33	][IC] C24:i3.UNION-41: <:: Nope. ::>
+[00:25:36	]C24:i3.UNION-41 has spawned a 'NPC [5840][npc_combine_s]'.
+[00:25:37	]C24:i3.UNION-41 has hit npc_combine_s in the head dealing 45 damage (CritChance was 0.14).
+[00:25:42	][IC] C24:i5.KING-53: <:: They added quad bikes and a Stryker MGS to the US Army. ::>
+[00:25:47	][IC] C24:i5.KING-53: <:: Reduced the rifle sway as well. ::>
+[00:25:53	][IC] C24:i5.KING-53: <:: Map and faction voting interface. ::>
+[00:25:55	][IC] C24:i3.UNION-41: <:: Thank god. ::>
+[00:26:03	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:26:05	][IC] C24:i5.KING-53: <:: So u can vote for what kind of units u want. ::>
+[00:26:19	][IC] C24:i5.KING-53: <:: Can be things like an airborne unit that gets light vics and more helis but no armor. ::>
+[00:26:24	][IC] C24:i3.UNION-41: <:: Oh shit pog. ::>
+[00:26:25	][IC] C24:i5.KING-53: <:: Or an armored unit that gets more tanks and shit. ::>
+[00:26:36	][IC] C24:i3.UNION-41: <:: Dude... I'm gonna make the metal gear solid 1911. ::>
+[00:26:40	][IC] C24:i5.KING-53: <:: Oh no. ::>
+[00:26:57	]C24:i3.UNION-41 has spawned a ur_1911_slide_m45.
+[00:26:58	]C24:i3.UNION-41 ran 'take' on item 'M45 MEUSOC 5" Slide' (#2691058)
+[00:26:58	]C24:i3.UNION-41 has gained a 'M45 MEUSOC 5" Slide' #2691058.
+[00:27:00	]C24:i3.UNION-41 has spawned a ur_1911_slide_m45_custom.
+[00:27:01	]C24:i3.UNION-41 ran 'take' on item 'M45 MEUSOC 5" Slide w/ Custom Finish' (#2691059)
+[00:27:01	]C24:i3.UNION-41 has gained a 'M45 MEUSOC 5" Slide w/ Custom Finish' #2691059.
+[00:27:26	]C24:i3.UNION-41 has spawned a uc_muzzle_brake1.
+[00:27:27	]C24:i3.UNION-41 ran 'take' on item 'Hammerhead Muzzle Brake' (#2691060)
+[00:27:27	]C24:i3.UNION-41 has gained a 'Hammerhead Muzzle Brake' #2691060.
+[00:27:33	][IC] C24:i3.UNION-41: <:: Wana try? ::>
+[00:27:36	][IC] C24:i5.KING-53: <:: Ok. ::>
+[00:27:38	]C24:i3.UNION-41 has fired a toolgun with the name: creator
+[00:27:38	]C24:i3.UNION-41 has spawned a 'Weapon [5851][arccw_eft_1911]'.
+[00:28:00	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:28:02	]C24:i3.UNION-41 has fired a toolgun with the name: creator
+[00:28:02	]C24:i3.UNION-41 has spawned a 'Weapon [5852][arccw_eft_1911]'.
+[00:28:09	]C24:i5.KING-53 used command '/ToggleRaise'.
+[00:28:13	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:28:14	][IC] C24:i5.KING-53: <:: Mmm yes error. ::>
+[00:28:15	][IC] C24:i3.UNION-41: <:: Wrong one? ::>
+[00:28:22	]C24:i3.UNION-41 has fired a toolgun with the name: creator
+[00:28:22	]C24:i3.UNION-41 has spawned a 'Weapon [5858][arccw_ur_m1911]'.
+[00:28:26	][IC] C24:i3.UNION-41: <:: This one. ::>
+[00:28:33	]C24:i5.KING-53 used command '/ToggleRaise'.
+[00:28:37	]C24:i3.UNION-41 has spawned a uc_muzzle_brake1.
+[00:28:42	]C24:i3.UNION-41 has spawned a ur_1911_slide_m45_custom.
+[00:28:46	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:28:47	]C24:i5.KING-53 ran 'take' on item 'M45 MEUSOC 5" Slide w/ Custom Finish' (#2691062)
+[00:28:47	]C24:i5.KING-53 has gained a 'M45 MEUSOC 5" Slide w/ Custom Finish' #2691062.
+[00:28:48	]C24:i5.KING-53 ran 'take' on item 'Hammerhead Muzzle Brake' (#2691061)
+[00:28:48	]C24:i5.KING-53 has gained a 'Hammerhead Muzzle Brake' #2691061.
+[00:29:07	][IC] C24:i5.KING-53: <:: Nice. ::>
+[00:29:07	]C24:i3.UNION-41 has spawned a ur_1911_grip_snake.
+[00:29:09	]C24:i3.UNION-41 has spawned a ur_1911_grip_snake.
+[00:29:10	]C24:i3.UNION-41 ran 'take' on item 'M1911 Snake Grip' (#2691064)
+[00:29:10	]C24:i3.UNION-41 has gained a 'M1911 Snake Grip' #2691064.
+[00:29:14	]C24:i5.KING-53 ran 'take' on item 'M1911 Snake Grip' (#2691063)
+[00:29:14	]C24:i5.KING-53 has gained a 'M1911 Snake Grip' #2691063.
+[00:29:52	][IC] C24:i3.UNION-41: <:: Sokolov. ::>
+[00:30:31	]C24:i3.UNION-41 has spawned a stock_eft_mp153_pistol.
+[00:30:33	]C24:i3.UNION-41 ran 'take' on item 'Plastic pistol grip' (#2691065)
+[00:30:33	]C24:i3.UNION-41 has gained a 'Plastic pistol grip' #2691065.
+[00:30:34	]C24:i3.UNION-41 has spawned a pistolammo.
+[00:30:35	][IC] C24:i5.KING-53: <:: Ok now i fr go back to main. ::>
+[00:30:35	]C24:i3.UNION-41 has spawned a stock_eft_mp153_pistol.
+[00:30:43	][IC] C24:i5.KING-53: <:: We should *actually* play squad sometime. ::>
+[00:31:10	][IC] C24:i5.KING-53: <:: Ye? ::>
+[00:31:20	][IC] C24:i3.UNION-41: <:: Mhm! ::>
+[00:31:25	][IC] C24:i5.KING-53: <:: Ok bye. ::>
+[00:31:26	]C24:i3.UNION-41 has spawned a uc_stock_pistol.
+[00:31:27	]C24:i3.UNION-41 ran 'take' on item 'FAB Defense Collapsible Tactical Stock' (#2691068)
+[00:31:27	]C24:i3.UNION-41 has gained a 'FAB Defense Collapsible Tactical Stock' #2691068.
+[00:31:29	]Dej (STEAM_0:1:68827315) has disconnected.
+[00:31:51	][IC] C24:i3.UNION-41: <:: If we could mod our guns. ::>
+[00:32:15	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:32:27	]C24:i3.UNION-41 has spawned a barrel_usp_match.
+[00:32:28	]C24:i3.UNION-41 has spawned a mount_usp_match.
+[00:32:28	]C24:i3.UNION-41 has spawned a receiver_usp_match.
+[00:32:31	]C24:i3.UNION-41 has spawned a ins2_usp_chrome.
+[00:32:32	]C24:i3.UNION-41 ran 'take' on item 'USP Chrome Finish' (#2691072)
+[00:32:32	]C24:i3.UNION-41 has gained a 'USP Chrome Finish' #2691072.
+[00:32:32	]C24:i3.UNION-41 ran 'take' on item 'USP Match Compensator' (#2691070)
+[00:32:32	]C24:i3.UNION-41 has gained a 'USP Match Compensator' #2691070.
+[00:32:33	]C24:i3.UNION-41 ran 'take' on item 'USP Match Slide' (#2691071)
+[00:32:33	]C24:i3.UNION-41 has gained a 'USP Match Slide' #2691071.
+[00:32:34	]C24:i3.UNION-41 ran 'take' on item 'USP Match Barrel' (#2691069)
+[00:32:34	]C24:i3.UNION-41 has gained a 'USP Match Barrel' #2691069.
+[00:33:37	][IC] C24:i3.UNION-41: <:: I think I prefe revolver. ::>
+[00:33:38	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:34:01	]C24:i3.UNION-41 has spawned a ur_329_barrel_m29.
+[00:34:03	]C24:i3.UNION-41 ran 'take' on item '6" Model 29 Barrel' (#2691073)
+[00:34:03	]C24:i3.UNION-41 has gained a '6" Model 29 Barrel' #2691073.
+[00:34:16	]C24:i3.UNION-41 has spawned a ur_329_barrel_master.
+[00:34:17	]C24:i3.UNION-41 ran 'take' on item '7" Master Barrel' (#2691074)
+[00:34:17	]C24:i3.UNION-41 has gained a '7" Master Barrel' #2691074.
+[00:35:09	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:35:27	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[00:35:30	]C24:i3.UNION-41 ran 'drop' on item 'Urban Charm - Decay' (#2691049)
+[00:35:30	]C24:i3.UNION-41 has lost a 'Urban Charm - Decay' #2691049.
+[00:35:30	]C24:i3.UNION-41 ran 'drop' on item '7" Master Barrel' (#2691074)
+[00:35:30	]C24:i3.UNION-41 has lost a '7" Master Barrel' #2691074.
+[00:35:30	]C24:i3.UNION-41 ran 'drop' on item 'Folded Stock' (#2691044)
+[00:35:30	]C24:i3.UNION-41 has lost a 'Folded Stock' #2691044.
+[00:35:30	]C24:i3.UNION-41 ran 'drop' on item '6" Model 29 Barrel' (#2691073)
+[00:35:30	]C24:i3.UNION-41 has lost a '6" Model 29 Barrel' #2691073.
+[00:35:31	]C24:i3.UNION-41 ran 'drop' on item 'Folded Stock' (#2691045)
+[00:35:31	]C24:i3.UNION-41 has lost a 'Folded Stock' #2691045.
+[00:35:31	]C24:i3.UNION-41 ran 'drop' on item 'USP Match Barrel' (#2691069)
+[00:35:31	]C24:i3.UNION-41 has lost a 'USP Match Barrel' #2691069.
+[00:35:31	]C24:i3.UNION-41 ran 'drop' on item 'Homeboy' (#2691056)
+[00:35:31	]C24:i3.UNION-41 has lost a 'Homeboy' #2691056.
+[00:35:31	]C24:i3.UNION-41 ran 'drop' on item 'M1911 Snake Grip' (#2691064)
+[00:35:31	]C24:i3.UNION-41 has lost a 'M1911 Snake Grip' #2691064.
+[00:35:32	]C24:i3.UNION-41 ran 'drop' on item 'USP Match Slide' (#2691071)
+[00:35:32	]C24:i3.UNION-41 has lost a 'USP Match Slide' #2691071.
+[00:35:32	]C24:i3.UNION-41 ran 'drop' on item 'M45 MEUSOC 5" Slide w/ Custom Finish' (#2691059)
+[00:35:32	]C24:i3.UNION-41 has lost a 'M45 MEUSOC 5" Slide w/ Custom Finish' #2691059.
+[00:35:32	]C24:i3.UNION-41 ran 'drop' on item 'USP Chrome Finish' (#2691072)
+[00:35:32	]C24:i3.UNION-41 has lost a 'USP Chrome Finish' #2691072.
+[00:35:32	]C24:i3.UNION-41 ran 'drop' on item 'Folded Stock' (#2691043)
+[00:35:32	]C24:i3.UNION-41 has lost a 'Folded Stock' #2691043.
+[00:35:32	]C24:i3.UNION-41 ran 'drop' on item 'Trijicon RMR' (#2691029)
+[00:35:32	]C24:i3.UNION-41 has lost a 'Trijicon RMR' #2691029.
+[00:35:33	]C24:i3.UNION-41 ran 'drop' on item 'EOTech 553 (HOLO)' (#2691025)
+[00:35:33	]C24:i3.UNION-41 has lost a 'EOTech 553 (HOLO)' #2691025.
+[00:35:33	]C24:i3.UNION-41 ran 'drop' on item 'M45 MEUSOC 5" Slide' (#2691058)
+[00:35:33	]C24:i3.UNION-41 has lost a 'M45 MEUSOC 5" Slide' #2691058.
+[00:35:33	]C24:i3.UNION-41 ran 'drop' on item 'Plastic pistol grip' (#2691065)
+[00:35:33	]C24:i3.UNION-41 has lost a 'Plastic pistol grip' #2691065.
+[00:35:33	]C24:i3.UNION-41 ran 'drop' on item 'USP Match Compensator' (#2691070)
+[00:35:33	]C24:i3.UNION-41 has lost a 'USP Match Compensator' #2691070.
+[00:35:33	]C24:i3.UNION-41 ran 'drop' on item 'Hammerhead Muzzle Brake' (#2691060)
+[00:35:33	]C24:i3.UNION-41 has lost a 'Hammerhead Muzzle Brake' #2691060.
+[00:35:34	]C24:i3.UNION-41 ran 'drop' on item 'Suppressor's Spirit' (#2691057)
+[00:35:34	]C24:i3.UNION-41 has lost a 'Suppressor's Spirit' #2691057.
+[00:35:34	]C24:i3.UNION-41 ran 'drop' on item 'FAB Defense Collapsible Tactical Stock' (#2691068)
+[00:35:34	]C24:i3.UNION-41 has lost a 'FAB Defense Collapsible Tactical Stock' #2691068.
+[00:35:57	]C24:i3.UNION-41 has spawned a uc_optic_elcan.
+[00:35:58	]C24:i3.UNION-41 ran 'take' on item 'ELCAN C79 (2.5x)' (#2691075)
+[00:35:58	]C24:i3.UNION-41 has gained a 'ELCAN C79 (2.5x)' #2691075.
+[00:38:29	]C24:i3.UNION-41 has spawned a ud_m16_charm_ch.
+[00:38:30	]C24:i3.UNION-41 ran 'take' on item 'Modern Rail Mount' (#2691076)
+[00:38:30	]C24:i3.UNION-41 has gained a 'Modern Rail Mount' #2691076.
+[00:39:12	]C24:i3.UNION-41 has spawned a ud_m16_receiver_fpw.
+[00:39:13	]C24:i3.UNION-41 ran 'take' on item 'M231 FPW Receiver Package' (#2691077)
+[00:39:13	]C24:i3.UNION-41 has gained a 'M231 FPW Receiver Package' #2691077.
+[00:40:16	]Taliazure (STEAM_0:1:67985352) has disconnected.

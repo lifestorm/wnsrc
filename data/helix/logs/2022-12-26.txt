@@ -1,0 +1,310 @@
+[21:47:01	]Rabithunter has connected.
+[21:48:14	]Rabithunter loaded the character 'Pathfinder'
+[21:48:19	]Pathfinder is fully healed.
+[21:48:36	]Pathfinder entered observer.
+[21:48:48	]Pathfinder exited observer at their location.
+[21:49:18	]Pathfinder set walkSpeed to '100'.
+[21:49:38	]Pathfinder has used a context menu option with the name: rb655_dissolve
+[21:49:39	]Sync has connected.
+[21:51:02	]Pathfinder entered observer.
+[21:51:22	]Sync loaded the character 'Finn Fuchs'
+[21:51:27	]Finn Fuchs is fully healed.
+[21:51:30	]Pathfinder exited observer at their location.
+[21:51:55	]Finn Fuchs used command '/ToggleRaise'.
+[21:52:02	][FF:1671465999] Finn Fuchs set as active participant.
+[21:52:02	][FF:1671465999] Pathfinder set as active participant.
+[21:52:02	][FF] Firefight started between Finn Fuchs and Pathfinder. ID: 1671465999
+[21:52:02	]Pathfinder has taken 5 damage from Finn Fuchs.
+[21:52:12	][FF:1671465999] Round 1 begins.
+[21:52:12	][FF:1671465999] Turn for 'Finn Fuchs' started.
+[21:52:18	][FF:1671465999] Turn for 'Finn Fuchs' ended as it timed out.
+[21:52:18	][FF:1671465999] Turn for 'Pathfinder' started.
+[21:52:22	][FF:1671465999] Turn for 'Pathfinder' ended as player skipped the remainder of his turn.
+[21:52:22	][FF:1671465999] Too many people skipped their turn, ending the fight.
+[21:52:22	][FF:1671465999] Fight has ended, clearing participants and waitlist.
+[21:52:31	]Finn Fuchs ran 'take' on item 'Candyfloss' (#1648133)
+[21:52:31	]Finn Fuchs has gained a 'Candyfloss' #1648133.
+[21:52:41	]Finn Fuchs ran 'drop' on item 'Candyfloss' (#1648133)
+[21:52:41	]Finn Fuchs has lost a 'Candyfloss' #1648133.
+[21:53:18	]Finn Fuchs ran 'Equip' on item 'Bastard Submachine Gun' (#905126)
+[21:53:25	]Finn Fuchs ran 'EquipUn' on item 'Bastard Submachine Gun' (#905126)
+[21:53:35	]Sync loaded the character 'Finn Bowie'
+[21:53:40	]Finn Bowie is fully healed.
+[21:54:26	]Pathfinder entered observer.
+[21:54:32	]Pathfinder exited observer at their location.
+[21:54:37	]Pathfinder entered observer.
+[21:54:38	]Pathfinder exited observer at their location.
+[21:55:09	]Sync loaded the character 'C24:AUX.78377'
+[21:55:14	]C24:AUX.78377 is fully healed.
+[21:55:41	]Pathfinder used command '/PlyWhitelist path overwatch'.
+[21:55:56	]Rabithunter (STEAM_0:1:22394854) deleted character 'Jade Rebel'
+[21:56:05	]Rabithunter (STEAM_0:1:22394854) deleted character 'Overwatch'
+[21:56:15	]Rabithunter (STEAM_0:1:22394854) deleted character 'Monika Némethová'
+[21:56:17	]Rabithunter (STEAM_0:1:22394854) deleted character 'Kira Petrova'
+[21:56:41	]Pathfinder entered observer.
+[21:56:42	]Pathfinder exited observer at their location.
+[21:56:43	]Pathfinder entered observer.
+[21:56:44	]Pathfinder exited observer at their location.
+[21:56:49	]Pathfinder ran SAM command 'bring' with arguments: 'aux'
+[21:57:06	]Pathfinder was just knocked out due to: hit by stunstick owned by C24:AUX.78377
+[21:57:07	]Pathfinder has gained a '30rnd M4-magazine' #1589922.
+[21:57:24	]Pathfinder used command '/ForceCharFallover aux'.
+[21:57:25	]C24:AUX.78377 used command '/CharGetUp'.
+[21:57:26	]C24:AUX.78377 used command '/CharGetUp'.
+[21:57:28	]C24:AUX.78377 used command '/CharGetUp'.
+[21:57:29	]C24:AUX.78377 used command '/CharGetUp'.
+[21:57:29	]Pathfinder used command '/CharGetUp'.
+[21:57:29	]C24:AUX.78377 used command '/CharGetUp'.
+[21:57:38	]C24:AUX.78377 has spawned 'models/props_c17/lampShade001a.mdl'.
+[21:57:49	]C24:AUX.78377 ran 'take' on item 'Lavender Galore' (#1648132)
+[21:57:49	]C24:AUX.78377 has gained a 'Lavender Galore' #1648132.
+[21:57:58	]C24:AUX.78377 ran 'drop' on item 'Lavender Galore' (#1648132)
+[21:57:58	]C24:AUX.78377 has lost a 'Lavender Galore' #1648132.
+[21:58:03	]C24:AUX.78377 ran 'take' on item 'The German' (#1648134)
+[21:58:03	]C24:AUX.78377 has gained a 'The German' #1648134.
+[21:58:09	]C24:AUX.78377 ran 'drop' on item 'The German' (#1648134)
+[21:58:09	]C24:AUX.78377 has lost a 'The German' #1648134.
+[21:58:16	]C24:AUX.78377 ran 'take' on item 'The Diplomat' (#1648124)
+[21:58:16	]C24:AUX.78377 has gained a 'The Diplomat' #1648124.
+[21:58:21	]C24:AUX.78377 ran 'drop' on item 'The Diplomat' (#1648124)
+[21:58:21	]C24:AUX.78377 has lost a 'The Diplomat' #1648124.
+[21:59:00	]reece has connected.
+[21:59:05	]Pathfinder ran 'Equip' on item 'Stunstick' (#1377179)
+[21:59:08	]C24:AUX.78377 was just knocked out due to: hit by stunstick owned by Pathfinder
+[21:59:14	]Pathfinder ran 'EquipUn' on item 'Stunstick' (#1377179)
+[21:59:17	]C24:AUX.78377 used command '/CharGetUp'.
+[21:59:17	]C24:AUX.78377 used command '/CharGetUp'.
+[21:59:18	]C24:AUX.78377 used command '/CharGetUp'.
+[21:59:25	]C24:AUX.78377 used command '/CharGetUp'.
+[21:59:26	]C24:AUX.78377 used command '/CharGetUp'.
+[21:59:29	]C24:AUX.78377 has taken 50 damage from func_brush.
+[21:59:34	]Pathfinder entered observer.
+[21:59:35	]Pathfinder exited observer at their location.
+[21:59:35	]Pathfinder entered observer.
+[21:59:44	]C24:AUX.78377 used command '/CharGetUp'.
+[21:59:51	]C24:AUX.78377 used command '/CharGetUp'.
+[21:59:52	]C24:AUX.78377 used command '/CharGetUp'.
+[21:59:53	]C24:AUX.78377 used command '/CharGetUp'.
+[21:59:55	]C24:AUX.78377 was knocked unconscious and is bleeding out.
+[21:59:56	]C24:AUX.78377 was killed while bleeding out.
+[21:59:56	]worldspawn has killed C24:AUX.78377.
+[22:00:02	]C24:AUX.78377 used command '/CharGetUp'.
+[22:00:11	]Pathfinder exited observer at their location.
+[22:00:26	]Pathfinder used command '/RefundKill aux'.
+[22:00:33	]Pathfinder used command '/RefundSkills aux'.
+[22:00:35	]reece loaded the character 'S10/OWS.SAVAGE-37'
+[22:00:46	]Pathfinder ran SAM command 'respawn' with arguments: 'aux'
+[22:00:55	]S10/OWS.SAVAGE-37 ran 'drop' on item 'MP5A3' (#1593161)
+[22:00:55	]S10/OWS.SAVAGE-37 has lost a 'MP5A3' #1593161.
+[22:00:57	]Pathfinder entered observer.
+[22:00:59	]S10/OWS.SAVAGE-37 ran 'take' on item 'Overwatch Assault Shotgun' (#1648180)
+[22:01:00	]Pathfinder exited observer at their location.
+[22:01:01	]S10/OWS.SAVAGE-37 ran 'drop' on item '30rnd MP-magazine' (#1588858)
+[22:01:01	]S10/OWS.SAVAGE-37 has lost a '30rnd MP-magazine' #1588858.
+[22:01:01	]S10/OWS.SAVAGE-37 ran 'drop' on item '30rnd MP-magazine' (#1588859)
+[22:01:01	]S10/OWS.SAVAGE-37 has lost a '30rnd MP-magazine' #1588859.
+[22:01:02	]Pathfinder entered observer.
+[22:01:03	]S10/OWS.SAVAGE-37 ran 'take' on item 'Overwatch Assault Shotgun' (#1648180)
+[22:01:03	]S10/OWS.SAVAGE-37 has gained a 'Overwatch Assault Shotgun' #1648180.
+[22:01:04	]Pathfinder exited observer at their location.
+[22:01:05	]S10/OWS.SAVAGE-37 ran 'Equip' on item 'Overwatch Assault Shotgun' (#1648180)
+[22:01:10	]S10/OWS.SAVAGE-37 is fully healed.
+[22:01:16	]S10/OWS.SAVAGE-37 used the 'OTA Armory' vendor.
+[22:01:44	]S10/OWS.SAVAGE-37 used the 'OTA Armory' vendor.
+[22:01:48	]S10/OWS.SAVAGE-37 has gained 0 chips.
+[22:01:48	]S10/OWS.SAVAGE-37 has gained a 'Buckshot Shotgun Shells' #1648201.
+[22:01:49	]S10/OWS.SAVAGE-37 has gained 0 chips.
+[22:01:49	]S10/OWS.SAVAGE-37 has gained a 'Buckshot Shotgun Shells' #1648202.
+[22:01:49	]S10/OWS.SAVAGE-37 has gained 0 chips.
+[22:01:49	]S10/OWS.SAVAGE-37 has gained a 'Buckshot Shotgun Shells' #1648203.
+[22:01:57	]S10/OWS.SAVAGE-37 used the 'OTA Armory' vendor.
+[22:02:01	]S10/OWS.SAVAGE-37 has gained 0 chips.
+[22:02:01	]S10/OWS.SAVAGE-37 has gained a '12rnd OAIS-magazine' #1648204.
+[22:02:02	]S10/OWS.SAVAGE-37 has gained 0 chips.
+[22:02:02	]S10/OWS.SAVAGE-37 has gained a '12rnd OAIS-magazine' #1648205.
+[22:02:02	]S10/OWS.SAVAGE-37 has gained 0 chips.
+[22:02:02	]S10/OWS.SAVAGE-37 has gained a '12rnd OAIS-magazine' #1648206.
+[22:02:10	]S10/OWS.SAVAGE-37 ran 'combine' on item '12rnd OAIS-magazine' (#1648206)
+[22:02:11	]S10/OWS.SAVAGE-37 ran 'combine' on item '12rnd OAIS-magazine' (#1648205)
+[22:02:13	]S10/OWS.SAVAGE-37 ran 'combine' on item '12rnd OAIS-magazine' (#1648204)
+[22:02:13	]S10/OWS.SAVAGE-37 has lost a '12rnd OAIS-magazine' #1648206.
+[22:02:16	]S10/OWS.SAVAGE-37 used the 'OTA Armory' vendor.
+[22:02:17	]Pathfinder has lost a '30rnd M4-magazine' #1589921.
+[22:02:22	]S10/OWS.SAVAGE-37 used the 'OTA Armory' vendor.
+[22:02:26	]S10/OWS.SAVAGE-37 has gained a '12rnd OAIS-magazine' #1648206.
+[22:02:26	]S10/OWS.SAVAGE-37 has lost a '12rnd OAIS-magazine' #1648205.
+[22:02:29	]S10/OWS.SAVAGE-37 ran 'drop' on item 'OTA Mask' (#1588842)
+[22:02:29	]S10/OWS.SAVAGE-37 has lost a 'OTA Mask' #1588842.
+[22:02:29	]S10/OWS.SAVAGE-37 ran 'drop' on item 'Large Bag' (#1588835)
+[22:02:29	]S10/OWS.SAVAGE-37 has lost a 'Large Bag' #1588835.
+[22:02:29	]S10/OWS.SAVAGE-37 has lost a 'Combine PDA' #1588840.
+[22:02:29	]S10/OWS.SAVAGE-37 has lost a 'Flash Grenade' #1588881.
+[22:02:29	]S10/OWS.SAVAGE-37 has lost a 'Sub-machinegun Bullets' #1600703.
+[22:02:29	]S10/OWS.SAVAGE-37 has lost a 'Sub-machinegun Bullets' #1600702.
+[22:02:29	]S10/OWS.SAVAGE-37 has lost a 'Sub-machinegun Bullets' #1600701.
+[22:02:29	]S10/OWS.SAVAGE-37 has lost a 'Flash Grenade' #1588882.
+[22:02:29	]S10/OWS.SAVAGE-37 has lost a 'Sub-machinegun Bullets' #1600699.
+[22:02:29	]S10/OWS.SAVAGE-37 has lost a 'Sub-machinegun Bullets' #1588871.
+[22:02:29	]S10/OWS.SAVAGE-37 has lost a 'Sub-machinegun Bullets' #1588872.
+[22:02:29	]S10/OWS.SAVAGE-37 has lost a 'Sub-machinegun Bullets' #1588873.
+[22:02:31	]S10/OWS.SAVAGE-37 ran 'take' on item 'Large Bag' (#1588835)
+[22:02:31	]S10/OWS.SAVAGE-37 has gained a 'Large Bag' #1588835.
+[22:02:31	]S10/OWS.SAVAGE-37 has gained a 'Combine PDA' #1588840.
+[22:02:31	]S10/OWS.SAVAGE-37 has gained a 'Flash Grenade' #1588881.
+[22:02:31	]S10/OWS.SAVAGE-37 has gained a 'Sub-machinegun Bullets' #1600703.
+[22:02:31	]S10/OWS.SAVAGE-37 has gained a 'Sub-machinegun Bullets' #1600702.
+[22:02:31	]S10/OWS.SAVAGE-37 has gained a 'Sub-machinegun Bullets' #1600701.
+[22:02:31	]S10/OWS.SAVAGE-37 has gained a 'Flash Grenade' #1588882.
+[22:02:31	]S10/OWS.SAVAGE-37 has gained a 'Sub-machinegun Bullets' #1600699.
+[22:02:31	]S10/OWS.SAVAGE-37 has gained a 'Sub-machinegun Bullets' #1588871.
+[22:02:31	]S10/OWS.SAVAGE-37 has gained a 'Sub-machinegun Bullets' #1588872.
+[22:02:31	]S10/OWS.SAVAGE-37 has gained a 'Sub-machinegun Bullets' #1588873.
+[22:02:34	]S10/OWS.SAVAGE-37 ran 'drop' on item 'OTA Uniform' (#1588841)
+[22:02:34	]S10/OWS.SAVAGE-37 has lost a 'OTA Uniform' #1588841.
+[22:02:34	]S10/OWS.SAVAGE-37 used the 'OTA Armory' vendor.
+[22:02:40	]S10/OWS.SAVAGE-37 has gained 0 chips.
+[22:02:40	]S10/OWS.SAVAGE-37 has gained a 'OTA Elite Uniform' #1648207.
+[22:02:42	]Pathfinder has used a context menu option with the name: remove
+[22:02:45	]S10/OWS.SAVAGE-37 ran 'take' on item 'OTA Mask' (#1588842)
+[22:02:45	]S10/OWS.SAVAGE-37 has gained a 'OTA Mask' #1588842.
+[22:02:58	][IC] S10/OWS.SAVAGE-37: Haha.
+[22:03:10	]Pathfinder set runSpeed to '150'.
+[22:03:24	]Pathfinder set runSpeed to '250'.
+[22:03:31	][IC] S10/OWS.SAVAGE-37: <:: Full active. ::>
+[22:03:39	][IC] S10/OWS.SAVAGE-37: <:: We can help you, it is safe! ::>
+[22:03:57	][IC] S10/OWS.SAVAGE-37: <:: Cleaned. ::>
+[22:05:20	]reece loaded the character 'Kiyoko Yarrow'
+[22:05:54	]reece loaded the character 'C24:RCT.YELLO-77'
+[22:06:06	]Sync loaded the character 'C24:i5.XRAY-3'
+[22:06:07	]Pathfinder ran 'Equip' on item 'Flash Grenade' (#1584174)
+[22:06:15	]Pathfinder entered observer.
+[22:06:16	]Pathfinder exited observer at their location.
+[22:06:16	]Pathfinder entered observer.
+[22:06:22	]C24:i5.XRAY-3 has lost a '17rnd Usp-magazine' #1640785.
+[22:06:22	]C24:i5.XRAY-3 has gained a '17rnd Usp-magazine' #1644334.
+[22:06:29	]Pathfinder has gained a '30rnd M4-magazine' #1589921.
+[22:06:29	]Pathfinder has lost a '30rnd M4-magazine' #1589920.
+[22:06:30	]C24:i5.XRAY-3 has gained a '17rnd Usp-magazine' #1640785.
+[22:06:30	]C24:i5.XRAY-3 has lost a '17rnd Usp-magazine' #1644334.
+[22:06:37	]Pathfinder has hit C24:i5.XRAY-3 in the chest dealing 12 damage (CritChance was 0.40).
+[22:06:37	]C24:i5.XRAY-3 has taken 12 damage from Pathfinder.
+[22:06:43	]C24:RCT.YELLO-77 used the '<:: Standard Requisition ::>' vendor.
+[22:06:45	]Pathfinder has critically hit C24:i5.XRAY-3 in the left arm dealing 5 damage (CritChance was 0.34).
+[22:06:45	]C24:i5.XRAY-3 has taken 5 damage from Pathfinder.
+[22:06:48	]Pathfinder has gained a '30rnd M4-magazine' #1589920.
+[22:06:48	]Pathfinder has lost a '30rnd M4-magazine' #1589919.
+[22:06:48	]C24:RCT.YELLO-77 has gained a 'USP-45' #1648208.
+[22:06:50	]Pathfinder exited observer at their location.
+[22:06:53	]reece (STEAM_0:1:158746618) has disconnected.
+[22:06:56	]Sync loaded the character 'C24:AUX.78377'
+[22:07:31	]C24:AUX.78377 ran 'drop' on item 'Auxiliary CP Mask' (#1613920)
+[22:07:31	]C24:AUX.78377 has lost a 'Auxiliary CP Mask' #1613920.
+[22:07:34	]C24:AUX.78377 ran 'take' on item 'Auxiliary CP Mask' (#1613920)
+[22:07:34	]C24:AUX.78377 has gained a 'Auxiliary CP Mask' #1613920.
+[22:07:36	]C24:AUX.78377 ran 'drop' on item 'Auxiliary CP Mask' (#1613920)
+[22:07:36	]C24:AUX.78377 has lost a 'Auxiliary CP Mask' #1613920.
+[22:07:37	]C24:AUX.78377 ran 'take' on item 'Auxiliary CP Mask' (#1613920)
+[22:07:37	]C24:AUX.78377 has gained a 'Auxiliary CP Mask' #1613920.
+[22:07:43	]C24:AUX.78377 ran 'Equip' on item 'Stunstick' (#1613922)
+[22:07:49	]Pathfinder entered observer.
+[22:07:51	]Pathfinder exited observer at their location.
+[22:07:52	]Pathfinder entered observer.
+[22:08:05	]Pathfinder exited observer at their location.
+[22:08:06	]Pathfinder entered observer.
+[22:08:06	]Pathfinder exited observer at their location.
+[22:08:24	]Pathfinder has spawned a 'Entity [5256][ix_customvendingmachine]'.
+[22:08:29	]Pathfinder ran 'take' on item 'Vending Machine Key' (#1648210)
+[22:08:29	]Pathfinder has gained a 'Vending Machine Key' #1648210.
+[22:08:31	]Pathfinder ran 'take' on item 'Vending Machine Key' (#1648209)
+[22:08:31	]Pathfinder has gained a 'Vending Machine Key' #1648209.
+[22:08:34	]Pathfinder ran 'take' on item 'Vending Machine Key' (#1648211)
+[22:08:34	]Pathfinder has gained a 'Vending Machine Key' #1648211.
+[22:08:37	]Pathfinder ran 'Insert' on item 'Vending Machine Key' (#1648210)
+[22:08:39	]C24:AUX.78377 has spawned 'models/hunter/blocks/cube1x1x1.mdl'.
+[22:08:43	]C24:AUX.78377 has spawned 'models/hunter/blocks/cube1x1x1.mdl'.
+[22:08:50	]C24:AUX.78377 has spawned 'models/hunter/blocks/cube05x5x05.mdl'.
+[22:09:00	]Pathfinder has given himself a Rabit_test.
+[22:09:01	]Pathfinder has gained a 'A surprise Item' #1648212.
+[22:09:05	]Pathfinder has given himself a Rabit_test.
+[22:09:05	]Pathfinder has gained a 'A surprise Item' #1648213.
+[22:09:09	]Pathfinder ran 'Insert' on item 'Vending Machine Key' (#1648210)
+[22:09:13	]Pathfinder ran 'Insert' on item 'Vending Machine Key' (#1648210)
+[22:09:16	]C24:AUX.78377 has fired a toolgun with the name: colour
+[22:09:16	]Pathfinder has transferred a 'A surprise Item' #1648213 to a container with the name 'Vending Machine' #75841.
+[22:09:16	]C24:AUX.78377 has fired a toolgun with the name: colour
+[22:09:17	]C24:AUX.78377 has fired a toolgun with the name: colour
+[22:09:21	]Pathfinder ran 'Insert' on item 'Vending Machine Key' (#1648210)
+[22:09:22	]C24:AUX.78377 has fired a toolgun with the name: material
+[22:09:23	]C24:AUX.78377 has fired a toolgun with the name: material
+[22:09:25	]C24:AUX.78377 has fired a toolgun with the name: material
+[22:09:26	]C24:AUX.78377 has fired a toolgun with the name: material
+[22:09:27	]C24:AUX.78377 has fired a toolgun with the name: material
+[22:09:44	]C24:AUX.78377 has taken 10 damage from ix_item.
+[22:10:01	]Pathfinder ran 'take' on item 'A surprise Item' (#1648213)
+[22:10:01	]Pathfinder has gained a 'A surprise Item' #1648213.
+[22:10:06	]Pathfinder is admin-searching C24:AUX.78377's inventory.
+[22:10:06	]Pathfinder has used a context menu option with the name: ixviewinventory
+[22:10:08	]C24:AUX.78377 has gained a 'A surprise Item' #1648213.
+[22:10:08	]Pathfinder has transferred a 'A surprise Item' #1648213 to a container with the name 'C24:AUX.78377's inventory' #26265.
+[22:10:13	]C24:AUX.78377 ran 'drop' on item 'A surprise Item' (#1648213)
+[22:10:13	]C24:AUX.78377 has lost a 'A surprise Item' #1648213.
+[22:10:13	]Pathfinder has closed C24:AUX.78377's inventory.
+[22:10:14	]C24:AUX.78377 ran 'take' on item 'A surprise Item' (#1648213)
+[22:10:14	]C24:AUX.78377 has gained a 'A surprise Item' #1648213.
+[22:10:19	]Pathfinder is fully healed.
+[22:10:20	]C24:AUX.78377 ran 'drop' on item 'A surprise Item' (#1648213)
+[22:10:20	]C24:AUX.78377 has lost a 'A surprise Item' #1648213.
+[22:10:31	]Pathfinder has gained a '30rnd M4-magazine' #1589919.
+[22:10:31	]Pathfinder was knocked unconscious and is bleeding out.
+[22:10:32	]Pathfinder was killed while bleeding out.
+[22:10:32	]ix_item has killed Pathfinder with ix_item.
+[22:12:05	]Pathfinder has fired a toolgun with the name: dynamite
+[22:12:06	]Pathfinder has fired a toolgun with the name: dynamite
+[22:12:19	]Pathfinder has fired a toolgun with the name: dynamite
+[22:12:20	]Pathfinder has fired a toolgun with the name: dynamite
+[22:12:20	]Pathfinder has fired a toolgun with the name: dynamite
+[22:12:38	]Pathfinder has used a context menu option with the name: remove
+[22:12:51	]Pathfinder has fired a toolgun with the name: remover
+[22:13:27	]Pathfinder has used a context menu option with the name: remove
+[22:13:46	]Pathfinder has spawned a landline.
+[22:13:50	]Pathfinder ran 'Deploy' on item 'Landline Phone' (#1648214)
+[22:15:13	]Pathfinder used command '/AddPBX 2'.
+[22:15:39	]Pathfinder has spawned a landline.
+[22:15:40	]Pathfinder ran 'Deploy' on item 'Landline Phone' (#1648215)
+[22:22:23	]Pathfinder entered observer.
+[22:22:24	]Pathfinder exited observer at their location.
+[22:23:39	]Pathfinder has used a context menu option with the name: ignite
+[22:23:46	]C24:AUX.78377 has used a context menu option with the name: remove
+[22:24:55	]Pathfinder used command '/DarwinAward aux'.
+[22:25:49	]Pathfinder used command '/DarwinAward aux'.
+[22:27:18	]Pathfinder has spawned a shoes_worn_brown.
+[22:27:19	]Pathfinder ran 'take' on item 'Worn Brown Shoes' (#1648216)
+[22:27:19	]Pathfinder has gained a 'Worn Brown Shoes' #1648216.
+[22:27:32	]Pathfinder has spawned a shoes_leather_brown.
+[22:27:35	]Pathfinder ran 'drop' on item 'Dress Shoes' (#1266860)
+[22:27:35	]Pathfinder has lost a 'Dress Shoes' #1266860.
+[22:27:38	]Pathfinder ran 'take' on item 'Brown Leather Boots' (#1648217)
+[22:27:38	]Pathfinder has gained a 'Brown Leather Boots' #1648217.
+[22:27:39	]Pathfinder ran 'drop' on item 'Worn Brown Shoes' (#1648216)
+[22:27:39	]Pathfinder has lost a 'Worn Brown Shoes' #1648216.
+[22:27:46	]Pathfinder ran 'drop' on item 'Brown Leather Boots' (#1648217)
+[22:27:46	]Pathfinder has lost a 'Brown Leather Boots' #1648217.
+[22:27:50	]Pathfinder has given himself a shoes_worn_dark.
+[22:27:50	]Pathfinder has gained a 'Worn Dark Shoes' #1648218.
+[22:28:05	]Pathfinder has given himself a aviators.
+[22:28:05	]Pathfinder has gained a 'Aviator Glasses' #1648219.
+[22:28:17	]Pathfinder ran 'drop' on item 'Aviator Glasses' (#1648219)
+[22:28:17	]Pathfinder has lost a 'Aviator Glasses' #1648219.
+[22:28:41	]Pathfinder has fired a toolgun with the name: remover
+[22:28:42	]Pathfinder has fired a toolgun with the name: remover
+[22:28:43	]Pathfinder has fired a toolgun with the name: remover
+[22:29:01	]Pathfinder used command '/ShowEntsInRadius 100'.
+[22:29:15	]Pathfinder used command '/RemoveEntityByID 6569'.
+[22:29:25	]Sync (STEAM_0:0:120420347) has disconnected.
+[22:30:02	]Pathfinder entered observer.
+[22:30:09	]Pathfinder exited observer at their location.
+[22:30:38	]Pathfinder has used a context menu option with the name: remove
+[22:30:44	]Pathfinder has used a context menu option with the name: remove
+[22:30:45	]Pathfinder entered observer.
+[22:30:49	]Pathfinder exited observer at their location.
+[22:30:52	]Rabithunter (STEAM_0:1:22394854) has disconnected.

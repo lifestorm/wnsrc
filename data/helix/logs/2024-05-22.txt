@@ -1,0 +1,1118 @@
+[15:13:39	]Marco has connected.
+[15:37:38	]Marco created the character 'devserver char'
+[15:37:38	]Marco loaded the character 'devserver char'
+[15:37:58	]devserver char ran 'take' on item 'Large Bag' (#2716977)
+[15:37:58	]devserver char has gained a 'Large Bag' #2716977.
+[15:37:58	]devserver char has gained a 'Mixer' #3061033.
+[15:37:58	]devserver char has gained a 'Spoiled Watermelon' #3105478.
+[15:37:58	]devserver char has gained a 'Mixer' #2939241.
+[15:37:58	]devserver char has gained a 'Spoiled Watermelon' #3105479.
+[15:38:11	]devserver char ran 'take' on item 'Small Bag' (#2695217)
+[15:38:11	]devserver char has gained a 'Small Bag' #2695217.
+[15:38:11	]devserver char has gained a 'First Aid Kit' #3085389.
+[15:38:11	]devserver char has gained a 'First Aid Kit' #3085375.
+[15:38:11	]devserver char has gained a 'First Aid Kit' #3085376.
+[15:38:11	]devserver char has gained a 'First Aid Kit' #3085394.
+[15:38:11	]devserver char has gained a 'First Aid Kit' #3085457.
+[15:38:11	]devserver char has gained a 'First Aid Kit' #3085374.
+[15:38:11	]devserver char has gained a 'First Aid Kit' #3085381.
+[15:38:11	]devserver char has gained a 'Makeshift Bandage Roll' #3107941.
+[15:38:11	]devserver char has gained a 'Makeshift Bandage Roll' #3107940.
+[15:38:11	]devserver char has gained a 'First Aid Kit' #3085369.
+[15:38:11	]devserver char has gained a 'First Aid Kit' #3085456.
+[15:38:11	]devserver char has gained a 'Makeshift Bandage Roll' #3107942.
+[15:38:16	]devserver char ran 'Slice' on item 'Spoiled Watermelon' (#3105479)
+[15:38:28	]devserver char ran 'ViewAlt' on item 'Suitcase' (#2936206)
+[15:38:42	]devserver char ran 'drop' on item 'Medical Gloves' (#2164003)
+[15:38:43	]devserver char has gained a 'Medical Gloves' #2164003 from a container with the name 'Suitcase' #128204.
+[15:38:45	]devserver char has gained a 'Red Medic Shirt' #3085124 from a container with the name 'Suitcase' #128204.
+[15:38:47	]devserver char has gained a 'Visor Cap' #3085137 from a container with the name 'Suitcase' #128204.
+[15:38:53	]devserver char ran 'take' on item 'Realist Trousers' (#2876481)
+[15:38:53	]devserver char has gained a 'Realist Trousers' #2876481.
+[15:39:06	]devserver char ran 'take' on item 'Flashlight' (#2862567)
+[15:39:06	]devserver char has gained a 'Flashlight' #2862567.
+[15:39:10	]devserver char ran 'take' on item 'Surgical Mask' (#2501521)
+[15:39:10	]devserver char has gained a 'Surgical Mask' #2501521.
+[15:39:15	]devserver char ran 'take' on item 'Suitcase' (#2936206)
+[15:39:15	]devserver char has gained a 'Suitcase' #2936206.
+[15:39:15	]devserver char has gained a 'CMRU Level 5 Access Keycard' #2746140.
+[15:39:15	]devserver char has gained a 'White Hazmat Uniform' #3102992.
+[15:39:15	]devserver char has gained a 'Lab Coat' #2746135.
+[15:41:43	]devserver char ran 'take' on item '#04042's Identity Card' (#3107003)
+[15:41:43	]devserver char has gained a '#04042's Identity Card' #3107003.
+[15:47:41	]devserver char used command '/ToggleFlight'.
+[15:49:52	]devserver char entered observer.
+[15:50:00	]devserver char exited observer.
+[15:50:15	]devserver char entered observer.
+[15:50:22	]devserver char exited observer.
+[15:50:23	]devserver char entered observer.
+[15:50:25	]devserver char exited observer.
+[15:50:48	]devserver char ran 'Consume' on item 'Star Dust' (#3111236)
+[15:50:48	]devserver char has gained a level -3 short boost in Strength.
+[15:50:48	]devserver char has gained a level 6 short boost in Perception.
+[15:50:48	]devserver char has gained a level 5 short boost in Intelligence.
+[15:51:21	]devserver char exited observer.
+[15:51:24	]devserver char entered observer.
+[15:51:25	]devserver char exited observer.
+[15:51:47	]devserver char used command '/RemoveDrugEffects ^'.
+[15:52:03	]devserver char has spawned a planter_placer.
+[15:52:07	]devserver char ran 'take' on item 'Planter' (#3111314)
+[15:52:07	]devserver char has gained a 'Planter' #3111314.
+[15:52:12	]devserver char ran 'drop' on item 'Spoiled Watermelon' (#3105479)
+[15:52:13	]devserver char ran 'Consume' on item 'Spoiled Watermelon' (#3105478)
+[15:52:14	]devserver char ran 'Consume' on item 'Spoiled Watermelon' (#3105479)
+[15:52:15	]devserver char ran 'drop' on item 'Mixer' (#2939241)
+[15:52:16	]devserver char ran 'drop' on item 'Mixer' (#3061033)
+[15:52:17	]devserver char ran 'drop' on item 'Mixer' (#3061033)
+[15:52:18	]devserver char ran 'drop' on item 'Mixer' (#2939241)
+[15:52:20	]devserver char ran 'drop' on item 'Large Bag' (#2716977)
+[15:52:20	]devserver char has lost a 'Large Bag' #2716977.
+[15:52:20	]devserver char has lost a 'Mixer' #3061033.
+[15:52:20	]devserver char has lost a 'Mixer' #2939241.
+[15:52:21	]devserver char ran 'drop' on item 'Small Bag' (#2695217)
+[15:52:21	]devserver char has lost a 'Small Bag' #2695217.
+[15:52:21	]devserver char has lost a 'First Aid Kit' #3085389.
+[15:52:21	]devserver char has lost a 'First Aid Kit' #3085375.
+[15:52:21	]devserver char has lost a 'First Aid Kit' #3085376.
+[15:52:21	]devserver char has lost a 'First Aid Kit' #3085394.
+[15:52:21	]devserver char has lost a 'First Aid Kit' #3085457.
+[15:52:21	]devserver char has lost a 'First Aid Kit' #3085374.
+[15:52:21	]devserver char has lost a 'First Aid Kit' #3085381.
+[15:52:21	]devserver char has lost a 'Makeshift Bandage Roll' #3107941.
+[15:52:21	]devserver char has lost a 'Makeshift Bandage Roll' #3107940.
+[15:52:21	]devserver char has lost a 'First Aid Kit' #3085369.
+[15:52:21	]devserver char has lost a 'First Aid Kit' #3085456.
+[15:52:21	]devserver char has lost a 'Makeshift Bandage Roll' #3107942.
+[15:52:21	]devserver char used command '/ToggleRaise'.
+[15:52:23	]devserver char destroyed a 'Large Bag' #2716977.
+[15:52:23	]devserver char destroyed a 'Small Bag' #2695217.
+[15:52:24	]devserver char used command '/ToggleRaise'.
+[15:52:28	]devserver char has spawned a largebag.
+[15:52:29	]devserver char ran 'take' on item 'Large Bag' (#3111315)
+[15:52:29	]devserver char has gained a 'Large Bag' #3111315.
+[15:52:36	]devserver char has spawned a smallbag.
+[15:52:38	]devserver char ran 'take' on item 'Small Bag' (#3111316)
+[15:52:38	]devserver char has gained a 'Small Bag' #3111316.
+[15:52:54	]devserver char ran 'drop' on item 'Suitcase' (#2936206)
+[15:52:55	]devserver char ran 'drop' on item 'Suitcase' (#2936206)
+[15:52:57	]devserver char ran 'drop' on item 'Suitcase' (#2936206)
+[15:53:02	]devserver char ran 'drop' on item 'Suitcase' (#2936206)
+[15:53:04	]devserver char ran 'drop' on item 'Suitcase' (#2936206)
+[15:53:08	]devserver char ran 'Equip' on item 'Suitcase' (#2936206)
+[15:53:09	]devserver char ran 'drop' on item 'Suitcase' (#2936206)
+[15:53:11	]devserver char ran 'drop' on item 'Suitcase' (#2936206)
+[15:53:12	]devserver char ran 'EquipUn' on item 'Suitcase' (#2936206)
+[15:53:52	]devserver char has given himself a planter_placer.
+[15:53:52	]devserver char has gained a 'Planter' #3111317.
+[15:53:52	]devserver char has given himself a planter_placer.
+[15:53:52	]devserver char has gained a 'Planter' #3111318.
+[15:53:53	]devserver char has given himself a planter_placer.
+[15:53:53	]devserver char has gained a 'Planter' #3111319.
+[15:55:44	]devserver char has spawned a PRANKED!.
+[15:55:45	]devserver char was knocked unconscious and is bleeding out.
+[15:55:54	]devserver char used command '/CharStopBleedout ^'.
+[15:55:58	]devserver char is no longer unconscious from critical wounds.
+[15:55:58	]devserver char is fully healed.
+[15:56:19	]devserver char has used a context menu option with the name: remove
+[15:56:24	]devserver char has spawned a Rabit_test.
+[15:56:27	]devserver char ran 'take' on item 'A surprise Item' (#3111321)
+[15:56:27	]devserver char has gained a 'A surprise Item' #3111321.
+[15:56:29	]devserver char ran 'drop' on item 'A surprise Item' (#3111321)
+[15:56:31	]devserver char ran 'drop' on item 'A surprise Item' (#3111321)
+[15:56:32	]devserver char ran 'drop' on item 'A surprise Item' (#3111321)
+[15:56:32	]devserver char ran 'drop' on item 'A surprise Item' (#3111321)
+[15:56:33	]devserver char exited observer.
+[15:56:45	]devserver char ran 'place' on item 'Planter' (#3111314)
+[15:56:48	]devserver char ran 'place' on item 'Planter' (#3111317)
+[15:56:50	]devserver char ran 'place' on item 'Planter' (#3111318)
+[15:56:54	]devserver char ran 'place' on item 'Planter' (#3111319)
+[15:57:14	]devserver char used command '/CharGiveFlag ^ *'.
+[15:57:26	]devserver char used command '/CharGiveFlag ^ PET'.
+[15:57:35	]devserver char used command '/CharGiveFlag ^ pet'.
+[15:57:41	]devserver char used command '/CharGiveFlag ^ c'.
+[15:57:48	]devserver char used command '/CharGiveFlag ^ n'.
+[15:57:52	]devserver char used command '/CharGiveFlag ^ r'.
+[15:57:59	]devserver char used command '/CharGiveFlag ^ j'.
+[15:58:16	]devserver char used command '/CharGiveFlag ^ Q'.
+[15:58:23	]devserver char used command '/CharGiveFlag ^ J'.
+[15:58:30	]devserver char has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[15:58:40	]devserver char created a 'Large Metal Cabinet' container.
+[15:58:40	]devserver char has used a context menu option with the name: wncontainer_create
+[15:58:44	]devserver char has set the 'Large Metal Cabinet' container (#134222) to group/faction owned, owned by 'CMRU'.
+[15:58:44	]devserver char has used a context menu option with the name: wncontainer_setgroup
+[15:58:56	]devserver char has set the name of the 'Large Metal Cabinet' container (#134222) to 'cmrushit container'.
+[15:58:56	]devserver char has used a context menu option with the name: wncontainer_setname
+[15:59:00	]devserver char admin-searched the 'cmrushit container' #134222 container.
+[15:59:00	]devserver char has used a context menu option with the name: wncontainer_view
+[15:59:05	]devserver char admin-closed the 'cmrushit container' #134222 container.
+[15:59:07	]devserver char opened the 'cmrushit container' #134222 container.
+[15:59:09	]devserver char closed the 'cmrushit container' #134222 container.
+[15:59:09	]devserver char opened the 'cmrushit container' #134222 container.
+[15:59:10	]devserver char closed the 'cmrushit container' #134222 container.
+[15:59:15	]devserver char admin-searched the 'cmrushit container' #134222 container.
+[15:59:15	]devserver char has used a context menu option with the name: wncontainer_view
+[15:59:16	]devserver char admin-closed the 'cmrushit container' #134222 container.
+[15:59:21	]devserver char has set the 'cmrushit container' container (#134222) to private, owned by 'character[28082]'.
+[15:59:21	]devserver char has used a context menu option with the name: wncontainer_setprivate
+[15:59:22	]devserver char opened the 'cmrushit container' #134222 container.
+[15:59:23	]devserver char closed the 'cmrushit container' #134222 container.
+[15:59:32	]devserver char has set the 'cmrushit container' container (#134222) to premium.
+[15:59:32	]devserver char has used a context menu option with the name: wncontainer_togglepremium
+[15:59:33	]devserver char opened the 'cmrushit container' #134222 container.
+[15:59:34	]devserver char closed the 'cmrushit container' #134222 container.
+[15:59:36	]devserver char has set the 'cmrushit container' container (#134222) to not premium.
+[15:59:36	]devserver char has used a context menu option with the name: wncontainer_togglepremium
+[15:59:43	]devserver char has set the name of the 'cmrushit container' container (#134222) to 'cmruplant'.
+[15:59:43	]devserver char has used a context menu option with the name: wncontainer_setname
+[15:59:48	]devserver char has given himself a planter_placer.
+[15:59:49	]devserver char has gained a 'Planter' #3111322.
+[15:59:49	]devserver char has given himself a planter_placer.
+[15:59:49	]devserver char has gained a 'Planter' #3111323.
+[15:59:50	]devserver char has given himself a planter_placer.
+[15:59:50	]devserver char has gained a 'Planter' #3111324.
+[15:59:50	]devserver char has given himself a planter_placer.
+[15:59:50	]devserver char has gained a 'Planter' #3111325.
+[15:59:52	]devserver char ran 'place' on item 'Planter' (#3111322)
+[15:59:57	]devserver char ran 'place' on item 'Planter' (#3111323)
+[16:00:00	]devserver char ran 'place' on item 'Planter' (#3111324)
+[16:00:04	]devserver char ran 'place' on item 'Planter' (#3111325)
+[16:00:08	]devserver char has given himself a planter_placer.
+[16:00:08	]devserver char has gained a 'Planter' #3111326.
+[16:00:08	]devserver char has given himself a planter_placer.
+[16:00:08	]devserver char has gained a 'Planter' #3111327.
+[16:00:10	]devserver char ran 'place' on item 'Planter' (#3111326)
+[16:00:13	]devserver char ran 'place' on item 'Planter' (#3111327)
+[16:00:18	]devserver char has given himself a planter_placer.
+[16:00:18	]devserver char has gained a 'Planter' #3111328.
+[16:00:20	]devserver char has given himself a planter_placer.
+[16:00:20	]devserver char has gained a 'Planter' #3111329.
+[16:00:20	]devserver char has given himself a planter_placer.
+[16:00:21	]devserver char has gained a 'Planter' #3111330.
+[16:00:23	]devserver char has given himself a planter_placer.
+[16:00:23	]devserver char has gained a 'Planter' #3111331.
+[16:00:23	]devserver char has given himself a planter_placer.
+[16:00:24	]devserver char ran 'place' on item 'Planter' (#3111328)
+[16:00:28	]devserver char ran 'place' on item 'Planter' (#3111329)
+[16:00:30	]devserver char ran 'place' on item 'Planter' (#3111330)
+[16:00:34	]devserver char ran 'place' on item 'Planter' (#3111331)
+[16:00:37	]devserver char has given himself a planter_placer.
+[16:00:40	]devserver char has given himself a planter_placer.
+[16:00:42	]devserver char has spawned a planter_placer.
+[16:00:43	]devserver char has spawned a planter_placer.
+[16:00:43	]devserver char has spawned a planter_placer.
+[16:00:50	]devserver char has spawned a planter_placer.
+[16:00:59	]devserver char entered observer.
+[16:01:00	]devserver char has gained a 'Planter' #3111332.
+[16:01:00	]devserver char has gained a 'Planter' #3111333.
+[16:01:00	]devserver char exited observer.
+[16:01:00	]devserver char has taken 5 damage from ix_item.
+[16:01:00	]devserver char has taken 5 damage from ix_item.
+[16:01:03	]devserver char has used a context menu option with the name: remove
+[16:01:04	]devserver char has used a context menu option with the name: remove
+[16:01:05	]devserver char ran 'take' on item 'Planter' (#3111336)
+[16:01:05	]devserver char has gained a 'Planter' #3111336.
+[16:01:08	]devserver char has used a context menu option with the name: remove
+[16:01:11	]devserver char ran 'place' on item 'Planter' (#3111332)
+[16:01:15	]devserver char has given himself a planter_placer.
+[16:01:15	]devserver char has gained a 'Planter' #3111338.
+[16:01:16	]devserver char ran 'place' on item 'Planter' (#3111338)
+[16:01:20	]devserver char ran 'place' on item 'Planter' (#3111333)
+[16:01:24	]devserver char ran 'place' on item 'Planter' (#3111336)
+[16:01:49	]devserver char has spawned a seed_apple.
+[16:01:50	]devserver char has spawned a seed_apple.
+[16:01:51	]devserver char ran 'take' on item 'Apple Seeds' (#3111340)
+[16:01:51	]devserver char has gained a 'Apple Seeds' #3111340.
+[16:01:51	]devserver char ran 'take' on item 'Apple Seeds' (#3111339)
+[16:01:51	]devserver char has gained a 'Apple Seeds' #3111339.
+[16:01:53	]devserver char has spawned a seed_banana.
+[16:01:53	]devserver char has spawned a seed_banana.
+[16:01:55	]devserver char ran 'take' on item 'Banana Seeds' (#3111341)
+[16:01:55	]devserver char has gained a 'Banana Seeds' #3111341.
+[16:01:56	]devserver char ran 'take' on item 'Banana Seeds' (#3111342)
+[16:01:56	]devserver char has gained a 'Banana Seeds' #3111342.
+[16:01:57	]devserver char has spawned a seed_berries.
+[16:01:57	]devserver char has spawned a seed_berries.
+[16:01:59	]devserver char ran 'take' on item 'Berries Seeds' (#3111343)
+[16:01:59	]devserver char has gained a 'Berries Seeds' #3111343.
+[16:02:00	]devserver char ran 'take' on item 'Berries Seeds' (#3111344)
+[16:02:00	]devserver char has gained a 'Berries Seeds' #3111344.
+[16:02:01	]devserver char has spawned a seed_orange.
+[16:02:01	]devserver char has spawned a seed_orange.
+[16:02:02	]devserver char ran 'take' on item 'Orange seeds' (#3111346)
+[16:02:02	]devserver char has gained a 'Orange seeds' #3111346.
+[16:02:03	]devserver char ran 'take' on item 'Orange seeds' (#3111345)
+[16:02:03	]devserver char has gained a 'Orange seeds' #3111345.
+[16:02:04	]devserver char has spawned a seed_pineapple.
+[16:02:05	]devserver char ran 'take' on item 'Pineapple Seeds' (#3111347)
+[16:02:05	]devserver char has gained a 'Pineapple Seeds' #3111347.
+[16:02:06	]devserver char has spawned a seed_pineapple.
+[16:02:06	]devserver char ran 'take' on item 'Pineapple Seeds' (#3111348)
+[16:02:06	]devserver char has gained a 'Pineapple Seeds' #3111348.
+[16:02:07	]devserver char has spawned a seed_pear.
+[16:02:07	]devserver char has spawned a seed_pear.
+[16:02:08	]devserver char ran 'take' on item 'Pear Seeds' (#3111350)
+[16:02:08	]devserver char has gained a 'Pear Seeds' #3111350.
+[16:02:09	]devserver char ran 'take' on item 'Pear Seeds' (#3111349)
+[16:02:09	]devserver char has gained a 'Pear Seeds' #3111349.
+[16:02:11	]devserver char has spawned a seed_potato.
+[16:02:11	]devserver char ran 'take' on item 'Potato Seeds' (#3111351)
+[16:02:11	]devserver char has gained a 'Potato Seeds' #3111351.
+[16:02:12	]devserver char has spawned a seed_potato.
+[16:02:13	]devserver char ran 'take' on item 'Potato Seeds' (#3111352)
+[16:02:13	]devserver char has gained a 'Potato Seeds' #3111352.
+[16:02:15	]devserver char has spawned a seed_tomato.
+[16:02:15	]devserver char has spawned a seed_tomato.
+[16:02:17	]devserver char ran 'take' on item 'Tomato Seeds' (#3111353)
+[16:02:17	]devserver char has gained a 'Tomato Seeds' #3111353.
+[16:02:17	]devserver char ran 'take' on item 'Tomato Seeds' (#3111354)
+[16:02:17	]devserver char has gained a 'Tomato Seeds' #3111354.
+[16:02:18	]devserver char has spawned a seed_watermelon.
+[16:02:19	]devserver char has spawned a seed_watermelon.
+[16:02:19	]devserver char ran 'take' on item 'Watermelon Seeds' (#3111356)
+[16:02:19	]devserver char has gained a 'Watermelon Seeds' #3111356.
+[16:02:20	]devserver char ran 'take' on item 'Watermelon Seeds' (#3111355)
+[16:02:20	]devserver char has gained a 'Watermelon Seeds' #3111355.
+[16:02:21	]devserver char has spawned a seed_xen_berries.
+[16:02:21	]devserver char has spawned a seed_xen_berries.
+[16:02:22	]devserver char ran 'take' on item 'Xen Berries Seeds' (#3111358)
+[16:02:22	]devserver char has gained a 'Xen Berries Seeds' #3111358.
+[16:02:23	]devserver char ran 'take' on item 'Xen Berries Seeds' (#3111357)
+[16:02:23	]devserver char has gained a 'Xen Berries Seeds' #3111357.
+[16:02:24	]devserver char has spawned a seed_xen_herbs.
+[16:02:24	]devserver char has spawned a seed_xen_herbs.
+[16:02:25	]devserver char ran 'take' on item 'Xen Herbs Seeds' (#3111360)
+[16:02:25	]devserver char has gained a 'Xen Herbs Seeds' #3111360.
+[16:02:26	]devserver char ran 'take' on item 'Xen Herbs Seeds' (#3111359)
+[16:02:26	]devserver char has gained a 'Xen Herbs Seeds' #3111359.
+[16:03:51	]devserver char has spawned a advanced_fertilizer.
+[16:03:52	]devserver char ran 'take' on item 'Advanced Fertilizer' (#3111361)
+[16:03:52	]devserver char has gained a 'Advanced Fertilizer' #3111361.
+[16:03:52	]devserver char has spawned a advanced_fertilizer.
+[16:03:53	]devserver char ran 'take' on item 'Advanced Fertilizer' (#3111362)
+[16:03:53	]devserver char has gained a 'Advanced Fertilizer' #3111362.
+[16:03:54	]devserver char has spawned a advanced_fertilizer.
+[16:03:54	]devserver char ran 'take' on item 'Advanced Fertilizer' (#3111363)
+[16:03:54	]devserver char has gained a 'Advanced Fertilizer' #3111363.
+[16:03:55	]devserver char has spawned a advanced_fertilizer.
+[16:03:56	]devserver char ran 'take' on item 'Advanced Fertilizer' (#3111364)
+[16:03:56	]devserver char has gained a 'Advanced Fertilizer' #3111364.
+[16:03:56	]devserver char has spawned a advanced_fertilizer.
+[16:03:57	]devserver char ran 'take' on item 'Advanced Fertilizer' (#3111365)
+[16:03:57	]devserver char has gained a 'Advanced Fertilizer' #3111365.
+[16:03:57	]devserver char has spawned a advanced_fertilizer.
+[16:03:58	]devserver char ran 'take' on item 'Advanced Fertilizer' (#3111366)
+[16:03:58	]devserver char has gained a 'Advanced Fertilizer' #3111366.
+[16:03:59	]devserver char has spawned a advanced_fertilizer.
+[16:04:00	]devserver char ran 'take' on item 'Advanced Fertilizer' (#3111367)
+[16:04:00	]devserver char has gained a 'Advanced Fertilizer' #3111367.
+[16:04:00	]devserver char has spawned a advanced_fertilizer.
+[16:04:01	]devserver char ran 'take' on item 'Advanced Fertilizer' (#3111368)
+[16:04:01	]devserver char has gained a 'Advanced Fertilizer' #3111368.
+[16:04:01	]devserver char opened the 'cmruplant' #134222 container.
+[16:04:12	]devserver char closed the 'cmruplant' #134222 container.
+[16:04:14	]devserver char has spawned a advanced_fertilizer.
+[16:04:14	]devserver char has spawned a advanced_fertilizer.
+[16:04:14	]devserver char has spawned a advanced_fertilizer.
+[16:04:14	]devserver char has spawned a advanced_fertilizer.
+[16:04:15	]devserver char has spawned a advanced_fertilizer.
+[16:04:15	]devserver char has spawned a advanced_fertilizer.
+[16:04:16	]devserver char ran 'take' on item 'Advanced Fertilizer' (#3111374)
+[16:04:16	]devserver char has gained a 'Advanced Fertilizer' #3111374.
+[16:04:17	]devserver char ran 'take' on item 'Advanced Fertilizer' (#3111373)
+[16:04:17	]devserver char has gained a 'Advanced Fertilizer' #3111373.
+[16:04:18	]devserver char ran 'take' on item 'Advanced Fertilizer' (#3111372)
+[16:04:18	]devserver char has gained a 'Advanced Fertilizer' #3111372.
+[16:04:19	]devserver char ran 'take' on item 'Advanced Fertilizer' (#3111371)
+[16:04:19	]devserver char has gained a 'Advanced Fertilizer' #3111371.
+[16:04:20	]devserver char ran 'take' on item 'Advanced Fertilizer' (#3111369)
+[16:04:20	]devserver char has gained a 'Advanced Fertilizer' #3111369.
+[16:04:20	]devserver char ran 'take' on item 'Advanced Fertilizer' (#3111370)
+[16:04:20	]devserver char has gained a 'Advanced Fertilizer' #3111370.
+[16:04:30	]devserver char opened the 'cmruplant' #134222 container.
+[16:04:36	]devserver char closed the 'cmruplant' #134222 container.
+[16:04:36	]devserver char opened the 'cmruplant' #134222 container.
+[16:04:37	]devserver char closed the 'cmruplant' #134222 container.
+[16:04:39	]devserver char has used a context menu option with the name: remove
+[16:04:45	]devserver char has spawned 'models/props_junk/wood_crate001a.mdl'.
+[16:04:50	]devserver char opened the 'Crate' #134223 container.
+[16:04:52	]devserver char closed the 'Crate' #134223 container.
+[16:04:55	]devserver char has spawned a advanced_fertilizer.
+[16:04:55	]devserver char ran 'take' on item 'Advanced Fertilizer' (#3111375)
+[16:04:55	]devserver char has gained a 'Advanced Fertilizer' #3111375.
+[16:04:56	]devserver char opened the 'Crate' #134223 container.
+[16:05:02	]devserver char closed the 'Crate' #134223 container.
+[16:05:04	]devserver char has spawned a advanced_fertilizer.
+[16:05:06	]devserver char ran 'take' on item 'Advanced Fertilizer' (#3111376)
+[16:05:06	]devserver char has gained a 'Advanced Fertilizer' #3111376.
+[16:05:09	]devserver char has spawned a advanced_fertilizer.
+[16:05:10	]devserver char ran 'take' on item 'Advanced Fertilizer' (#3111377)
+[16:05:10	]devserver char has gained a 'Advanced Fertilizer' #3111377.
+[16:05:21	]devserver char has spawned a advanced_fertilizer.
+[16:05:21	]devserver char ran 'take' on item 'Advanced Fertilizer' (#3111378)
+[16:05:21	]devserver char has gained a 'Advanced Fertilizer' #3111378.
+[16:05:23	]devserver char opened the 'Crate' #134223 container.
+[16:05:24	]devserver char closed the 'Crate' #134223 container.
+[16:05:52	][IC] devserver char: !kill ^.
+[16:05:54	][IC] devserver char: Hm.
+[16:05:57	]devserver char entered observer.
+[16:06:00	]devserver char exited observer.
+[16:06:01	]devserver char exited observer.
+[16:06:02	]devserver char entered observer.
+[16:06:03	]devserver char exited observer.
+[16:06:14	]devserver char ran 'drop' on item 'Pear Seeds' (#3111349)
+[16:06:15	]devserver char ran 'drop' on item 'Pear Seeds' (#3111349)
+[16:06:33	]Marco has unloaded their "devserver char" character.
+[16:06:37	]Marco (STEAM_0:0:39958603) deleted character 'devserver char'
+[16:07:55	]Marco created the character 'marco the mentroll'
+[16:07:55	]Marco loaded the character 'marco the mentroll'
+[16:08:07	]marco the mentroll used command '/CharGiveFlag ^ pet'.
+[16:08:09	]marco the mentroll used command '/CharGiveFlag ^ n'.
+[16:08:18	]marco the mentroll used command '/CharGiveFlag ^ c'.
+[16:08:24	]marco the mentroll used command '/CharGiveFlag ^ r'.
+[16:08:31	]marco the mentroll used command '/CharGiveFlag ^ b'.
+[16:08:55	]marco the mentroll used command '/BecomeClass *'.
+[16:09:21	]marco the mentroll used command '/CharGiveFlag ^ B'.
+[16:10:16	]marco the mentroll used command '/CharTakeFlag ^ B'.
+[16:13:27	]marco the mentroll has spawned a seed_apple.
+[16:13:27	]marco the mentroll ran 'take' on item 'Apple Seeds' (#3111379)
+[16:13:27	]marco the mentroll has gained a 'Apple Seeds' #3111379.
+[16:13:28	]marco the mentroll opened the 'Crate' #134223 container.
+[16:13:30	]marco the mentroll closed the 'Crate' #134223 container.
+[16:13:30	]marco the mentroll opened the 'Crate' #134223 container.
+[16:13:32	]marco the mentroll closed the 'Crate' #134223 container.
+[16:13:34	]marco the mentroll has used a context menu option with the name: remove
+[16:13:37	]marco the mentroll has used a context menu option with the name: remove
+[16:13:48	]marco the mentroll has given himself a suitcase.
+[16:13:48	]marco the mentroll has gained a 'Suitcase' #3111380.
+[16:13:49	]marco the mentroll has given himself a suitcase.
+[16:13:49	]marco the mentroll has gained a 'Suitcase' #3111381.
+[16:13:51	]marco the mentroll has given himself a suitcase.
+[16:13:51	]marco the mentroll has gained a 'Suitcase' #3111382.
+[16:13:51	]marco the mentroll has given himself a suitcase.
+[16:13:51	]marco the mentroll has gained a 'Suitcase' #3111383.
+[16:13:54	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111380)
+[16:14:00	]marco the mentroll has given himself a suitcase.
+[16:14:00	]marco the mentroll has gained a 'Suitcase' #3111384.
+[16:14:01	]marco the mentroll has given himself a suitcase.
+[16:14:01	]marco the mentroll has gained a 'Suitcase' #3111385.
+[16:14:05	]marco the mentroll has given himself a suitcase.
+[16:14:05	]marco the mentroll has gained a 'Suitcase' #3111386.
+[16:14:13	]marco the mentroll has given himself a largebag.
+[16:14:13	]marco the mentroll has gained a 'Large Bag' #3111387.
+[16:14:14	]marco the mentroll has given himself a smallbag.
+[16:14:14	]marco the mentroll has gained a 'Small Bag' #3111388.
+[16:15:26	]marco the mentroll has given himself a cca_coat_devil_armored.
+[16:15:26	]marco the mentroll has gained a 'Devil's Advocates Coat - Armored' #3111389.
+[16:15:41	]marco the mentroll has given himself a cca_coat_overseer_armored.
+[16:15:41	]marco the mentroll has gained a 'The Overseer - Armored' #3111390.
+[16:15:50	]marco the mentroll has given himself a cca_legs_overseer.
+[16:15:50	]marco the mentroll has gained a 'Overseer Pants' #3111391.
+[16:15:53	]marco the mentroll ran 'drop' on item 'Devil's Advocates Coat - Armored' (#3111389)
+[16:15:57	]marco the mentroll ran 'drop' on item 'Devil's Advocates Coat - Armored' (#3111389)
+[16:16:27	]marco the mentroll has spawned a water_bucket.
+[16:16:34	]marco the mentroll ran 'take' on item 'Watering Can' (#3111392)
+[16:16:34	]marco the mentroll has gained a 'Watering Can' #3111392.
+[16:16:36	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111380)
+[16:16:39	]marco the mentroll has spawned a water_bucket.
+[16:16:40	]marco the mentroll ran 'take' on item 'Watering Can' (#3111393)
+[16:16:40	]marco the mentroll has gained a 'Watering Can' #3111393.
+[16:16:40	]marco the mentroll has spawned a water_bucket.
+[16:16:41	]marco the mentroll ran 'take' on item 'Watering Can' (#3111394)
+[16:16:41	]marco the mentroll has gained a 'Watering Can' #3111394.
+[16:16:41	]marco the mentroll has spawned a water_bucket.
+[16:16:42	]marco the mentroll ran 'take' on item 'Watering Can' (#3111395)
+[16:16:42	]marco the mentroll has gained a 'Watering Can' #3111395.
+[16:16:43	]marco the mentroll has spawned a water_bucket.
+[16:16:43	]marco the mentroll ran 'take' on item 'Watering Can' (#3111396)
+[16:16:43	]marco the mentroll has gained a 'Watering Can' #3111396.
+[16:16:44	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111380)
+[16:16:45	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111380)
+[16:16:47	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111380)
+[16:16:48	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111380)
+[16:16:49	]marco the mentroll has spawned a water_bucket.
+[16:16:50	]marco the mentroll has spawned a water_bucket.
+[16:16:50	]marco the mentroll has spawned a water_bucket.
+[16:16:51	]marco the mentroll ran 'take' on item 'Watering Can' (#3111398)
+[16:16:51	]marco the mentroll has gained a 'Watering Can' #3111398.
+[16:16:52	]marco the mentroll ran 'take' on item 'Watering Can' (#3111397)
+[16:16:52	]marco the mentroll has gained a 'Watering Can' #3111397.
+[16:16:53	]marco the mentroll ran 'take' on item 'Watering Can' (#3111399)
+[16:16:53	]marco the mentroll has gained a 'Watering Can' #3111399.
+[16:16:57	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111380)
+[16:16:58	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111380)
+[16:16:59	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111380)
+[16:17:04	]marco the mentroll has spawned a advanced_fertilizer.
+[16:17:04	]marco the mentroll has spawned a advanced_fertilizer.
+[16:17:05	]marco the mentroll has spawned a advanced_fertilizer.
+[16:17:06	]marco the mentroll has spawned a advanced_fertilizer.
+[16:17:06	]marco the mentroll has spawned a advanced_fertilizer.
+[16:17:07	]marco the mentroll has spawned a advanced_fertilizer.
+[16:17:07	]marco the mentroll has spawned a advanced_fertilizer.
+[16:17:08	]marco the mentroll has spawned a advanced_fertilizer.
+[16:17:10	]marco the mentroll ran 'take' on item 'Advanced Fertilizer' (#3111406)
+[16:17:10	]marco the mentroll has gained a 'Advanced Fertilizer' #3111406.
+[16:17:11	]marco the mentroll ran 'take' on item 'Advanced Fertilizer' (#3111407)
+[16:17:11	]marco the mentroll has gained a 'Advanced Fertilizer' #3111407.
+[16:17:12	]marco the mentroll ran 'take' on item 'Advanced Fertilizer' (#3111405)
+[16:17:12	]marco the mentroll has gained a 'Advanced Fertilizer' #3111405.
+[16:17:13	]marco the mentroll ran 'take' on item 'Advanced Fertilizer' (#3111404)
+[16:17:13	]marco the mentroll has gained a 'Advanced Fertilizer' #3111404.
+[16:17:14	]marco the mentroll ran 'take' on item 'Advanced Fertilizer' (#3111403)
+[16:17:14	]marco the mentroll has gained a 'Advanced Fertilizer' #3111403.
+[16:17:14	]marco the mentroll ran 'take' on item 'Advanced Fertilizer' (#3111401)
+[16:17:14	]marco the mentroll has gained a 'Advanced Fertilizer' #3111401.
+[16:17:15	]marco the mentroll ran 'take' on item 'Advanced Fertilizer' (#3111400)
+[16:17:15	]marco the mentroll has gained a 'Advanced Fertilizer' #3111400.
+[16:17:16	]marco the mentroll ran 'take' on item 'Advanced Fertilizer' (#3111402)
+[16:17:16	]marco the mentroll has gained a 'Advanced Fertilizer' #3111402.
+[16:17:18	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111381)
+[16:17:19	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111381)
+[16:17:20	]marco the mentroll ran 'drop' on item 'Advanced Fertilizer' (#3111403)
+[16:17:21	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111381)
+[16:17:21	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111381)
+[16:17:22	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111381)
+[16:17:23	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111381)
+[16:17:24	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111381)
+[16:17:25	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111381)
+[16:17:37	]marco the mentroll used command '/CharGiveItem ^ advanced_fertilizer 8'.
+[16:17:37	]marco the mentroll has gained a 'Advanced Fertilizer' #3111408.
+[16:17:37	]marco the mentroll has gained a 'Advanced Fertilizer' #3111409.
+[16:17:37	]marco the mentroll has gained a 'Advanced Fertilizer' #3111410.
+[16:17:38	]marco the mentroll has gained a 'Advanced Fertilizer' #3111411.
+[16:17:38	]marco the mentroll has gained a 'Advanced Fertilizer' #3111412.
+[16:17:38	]marco the mentroll has gained a 'Advanced Fertilizer' #3111413.
+[16:17:38	]marco the mentroll has gained a 'Advanced Fertilizer' #3111414.
+[16:17:38	]marco the mentroll has gained a 'Advanced Fertilizer' #3111415.
+[16:17:39	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111382)
+[16:17:40	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111382)
+[16:17:40	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111382)
+[16:17:41	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111382)
+[16:17:41	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111382)
+[16:17:42	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111382)
+[16:17:43	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111382)
+[16:17:43	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111382)
+[16:17:53	]marco the mentroll used command '/CharGiveItem ^ fertilizer 16'.
+[16:17:53	]marco the mentroll has gained a 'Fertilizer' #3111416.
+[16:17:53	]marco the mentroll has gained a 'Fertilizer' #3111417.
+[16:17:53	]marco the mentroll has gained a 'Fertilizer' #3111418.
+[16:17:53	]marco the mentroll has gained a 'Fertilizer' #3111419.
+[16:17:53	]marco the mentroll has gained a 'Fertilizer' #3111420.
+[16:17:53	]marco the mentroll has gained a 'Fertilizer' #3111421.
+[16:17:53	]marco the mentroll has gained a 'Fertilizer' #3111422.
+[16:17:53	]marco the mentroll has gained a 'Fertilizer' #3111423.
+[16:17:53	]marco the mentroll has gained a 'Fertilizer' #3111424.
+[16:17:53	]marco the mentroll has gained a 'Fertilizer' #3111425.
+[16:17:53	]marco the mentroll has gained a 'Fertilizer' #3111426.
+[16:17:53	]marco the mentroll has gained a 'Fertilizer' #3111427.
+[16:17:53	]marco the mentroll has gained a 'Fertilizer' #3111428.
+[16:17:53	]marco the mentroll has gained a 'Fertilizer' #3111429.
+[16:17:53	]marco the mentroll has gained a 'Fertilizer' #3111430.
+[16:17:53	]marco the mentroll has gained a 'Fertilizer' #3111431.
+[16:17:55	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111383)
+[16:17:55	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111383)
+[16:17:56	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111383)
+[16:17:57	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111383)
+[16:17:58	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111383)
+[16:17:59	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111385)
+[16:18:00	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111383)
+[16:18:01	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111383)
+[16:18:02	]marco the mentroll ran 'Equip' on item 'Suitcase' (#3111385)
+[16:18:04	]marco the mentroll ran 'EquipUn' on item 'Suitcase' (#3111385)
+[16:18:07	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111383)
+[16:18:07	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111385)
+[16:18:08	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111385)
+[16:18:09	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111385)
+[16:18:09	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111385)
+[16:18:10	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111385)
+[16:18:11	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111385)
+[16:18:12	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111385)
+[16:18:26	]marco the mentroll used command '/CharGiveItem ^ fertilizer 8'.
+[16:18:26	]marco the mentroll has gained a 'Fertilizer' #3111432.
+[16:18:26	]marco the mentroll has gained a 'Fertilizer' #3111433.
+[16:18:26	]marco the mentroll has gained a 'Fertilizer' #3111434.
+[16:18:26	]marco the mentroll has gained a 'Fertilizer' #3111435.
+[16:18:26	]marco the mentroll has gained a 'Fertilizer' #3111436.
+[16:18:26	]marco the mentroll has gained a 'Fertilizer' #3111437.
+[16:18:26	]marco the mentroll has gained a 'Fertilizer' #3111438.
+[16:18:26	]marco the mentroll has gained a 'Fertilizer' #3111439.
+[16:18:28	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111385)
+[16:18:37	]marco the mentroll ran 'drop' on item 'Suitcase' (#3111380)
+[16:18:39	]marco the mentroll ran 'Equip' on item 'Suitcase' (#3111382)
+[16:18:41	]marco the mentroll ran 'EquipUn' on item 'Suitcase' (#3111382)
+[16:18:57	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111385)
+[16:18:58	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111385)
+[16:18:59	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111383)
+[16:19:00	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111386)
+[16:19:01	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111386)
+[16:19:01	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111386)
+[16:19:02	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111386)
+[16:19:02	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111386)
+[16:19:03	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111386)
+[16:19:03	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111386)
+[16:19:04	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111386)
+[16:19:27	]marco the mentroll used command '/CharGiveItem ^ advanced_fertilizer 8'.
+[16:19:27	]marco the mentroll has gained a 'Advanced Fertilizer' #3111440.
+[16:19:27	]marco the mentroll has gained a 'Advanced Fertilizer' #3111441.
+[16:19:27	]marco the mentroll has gained a 'Advanced Fertilizer' #3111442.
+[16:19:27	]marco the mentroll has gained a 'Advanced Fertilizer' #3111443.
+[16:19:27	]marco the mentroll has gained a 'Advanced Fertilizer' #3111444.
+[16:19:27	]marco the mentroll has gained a 'Advanced Fertilizer' #3111445.
+[16:19:27	]marco the mentroll has gained a 'Advanced Fertilizer' #3111446.
+[16:19:27	]marco the mentroll has gained a 'Advanced Fertilizer' #3111447.
+[16:19:28	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111381)
+[16:19:29	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111384)
+[16:19:30	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111384)
+[16:19:30	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111384)
+[16:19:31	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111384)
+[16:19:32	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111384)
+[16:19:33	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111384)
+[16:19:33	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111384)
+[16:19:34	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111384)
+[16:19:38	]marco the mentroll has spawned a seed_berries.
+[16:19:41	]marco the mentroll ran 'take' on item 'Berries Seeds' (#3111448)
+[16:19:41	]marco the mentroll has gained a 'Berries Seeds' #3111448.
+[16:19:44	]marco the mentroll ran 'plant' on item 'Berries Seeds' (#3111448)
+[16:19:44	]marco the mentroll has performed the 'Plant a Seed' action, gaining 100 experience in cooking.
+[16:19:55	]marco the mentroll entered observer.
+[16:20:01	]marco the mentroll exited observer.
+[16:20:04	]marco the mentroll entered observer.
+[16:20:05	]marco the mentroll exited observer.
+[16:20:10	]marco the mentroll ran 'Water' on item 'Advanced Fertilizer' (#3111408)
+[16:20:13	]marco the mentroll ran 'Water' on item 'Advanced Fertilizer' (#3111408)
+[16:20:54	]marco the mentroll has spawned a 'Entity [153][ix_watercache]'.
+[16:20:59	]marco the mentroll has given himself a watervalve.
+[16:20:59	]marco the mentroll has gained a 'Water Valve' #3111449.
+[16:21:02	]marco the mentroll ran 'Place' on item 'Water Valve' (#3111449)
+[16:21:07	]marco the mentroll ran 'Place' on item 'Water Valve' (#3111449)
+[16:21:08	]marco the mentroll ran 'Place' on item 'Water Valve' (#3111449)
+[16:21:10	]marco the mentroll ran 'Place' on item 'Water Valve' (#3111449)
+[16:21:10	]marco the mentroll ran 'combine' on item 'Suitcase' (#3111380)
+[16:21:15	]marco the mentroll has used a context menu option with the name: remove
+[16:21:24	]marco the mentroll used command '/CharGiveItem ^ crafting_water 8'.
+[16:21:24	]marco the mentroll has gained a 'Crafting Water' #3111450.
+[16:21:24	]marco the mentroll has gained a 'Crafting Water' #3111451.
+[16:21:24	]marco the mentroll has gained a 'Crafting Water' #3111452.
+[16:21:24	]marco the mentroll has gained a 'Crafting Water' #3111453.
+[16:21:24	]marco the mentroll has gained a 'Crafting Water' #3111454.
+[16:21:24	]marco the mentroll has gained a 'Crafting Water' #3111455.
+[16:21:24	]marco the mentroll has gained a 'Crafting Water' #3111456.
+[16:21:24	]marco the mentroll has gained a 'Crafting Water' #3111457.
+[16:21:35	]marco the mentroll has performed the 'Craft Watering Can (Full)' action, gaining 15 experience in crafting.
+[16:21:37	]marco the mentroll has performed the 'Craft Watering Can (Full)' action, gaining 15 experience in crafting.
+[16:21:39	]marco the mentroll has performed the 'Craft Watering Can (Full)' action, gaining 15 experience in crafting.
+[16:21:42	]marco the mentroll has performed the 'Craft Watering Can (Full)' action, gaining 15 experience in crafting.
+[16:21:44	]marco the mentroll has performed the 'Craft Watering Can (Full)' action, gaining 15 experience in crafting.
+[16:21:46	]marco the mentroll has performed the 'Craft Watering Can (Full)' action, gaining 15 experience in crafting.
+[16:21:48	]marco the mentroll has performed the 'Craft Watering Can (Full)' action, gaining 15 experience in crafting.
+[16:21:51	]marco the mentroll has performed the 'Craft Watering Can (Full)' action, gaining 15 experience in crafting.
+[16:22:03	]marco the mentroll ran 'Water' on item 'Watering Can' (#3111399)
+[16:22:21	]marco the mentroll has spawned a 'NPC [153][npc_vj_cremator_synth_z]'.
+[16:22:22	]marco the mentroll has taken 4 damage from Cremator Synth.
+[16:22:23	]marco the mentroll has taken 4 damage from Cremator Synth.
+[16:22:23	]marco the mentroll has taken 4 damage from Cremator Synth.
+[16:22:23	]marco the mentroll has taken 4 damage from Cremator Synth.
+[16:22:23	]marco the mentroll has taken 4 damage from Cremator Synth.
+[16:22:23	]marco the mentroll has taken 4 damage from Cremator Synth.
+[16:22:23	]marco the mentroll has taken 4 damage from Cremator Synth.
+[16:22:23	]marco the mentroll has used a context menu option with the name: vj_pr_npc_control
+[16:23:07	]marco the mentroll has spawned a 'NPC [144][npc_vj_hlr2b_merkava]'.
+[16:23:07	]marco the mentroll has taken 8 damage from Merkava.
+[16:23:07	]marco the mentroll has taken 8 damage from Merkava.
+[16:23:08	]marco the mentroll was knocked unconscious and is bleeding out.
+[16:23:14	]marco the mentroll used command '/CharStopBleedout ^'.
+[16:23:18	][IC] marco the mentroll: !sethp^ 6000.
+[16:23:25	]marco the mentroll is no longer unconscious from critical wounds.
+[16:23:25	]marco the mentroll is fully healed.
+[16:23:27	]marco the mentroll has spawned a 'NPC [378][npc_vj_hlr2b_merkava]'.
+[16:23:29	]marco the mentroll has used a context menu option with the name: vj_pr_npc_control
+[16:23:53	]marco the mentroll has spawned a 'NPC [328][npc_vj_hlr2_com_elite]'.
+[16:23:54	]marco the mentroll has taken 12 damage from Overwatch Elite.
+[16:23:54	]marco the mentroll has taken 12 damage from Overwatch Elite.
+[16:23:54	]marco the mentroll has taken 12 damage from Overwatch Elite.
+[16:23:54	]marco the mentroll has taken 12 damage from Overwatch Elite.
+[16:23:54	]marco the mentroll has taken 12 damage from Overwatch Elite.
+[16:23:55	]marco the mentroll has taken 3 damage from Overwatch Elite.
+[16:23:55	]marco the mentroll has taken 3 damage from Overwatch Elite.
+[16:23:55	]marco the mentroll has taken 12 damage from Overwatch Elite.
+[16:23:55	]marco the mentroll has taken 3 damage from Overwatch Elite.
+[16:23:55	]marco the mentroll has taken 12 damage from Overwatch Elite.
+[16:23:55	]marco the mentroll has taken 12 damage from Overwatch Elite.
+[16:23:55	]marco the mentroll is fully healed.
+[16:23:56	]marco the mentroll has taken 3 damage from Overwatch Elite.
+[16:23:56	]marco the mentroll has taken 3 damage from Overwatch Elite.
+[16:23:56	]marco the mentroll has taken 12 damage from Overwatch Elite.
+[16:23:56	]marco the mentroll has taken 12 damage from Overwatch Elite.
+[16:23:56	]marco the mentroll has taken 12 damage from Overwatch Elite.
+[16:23:56	]marco the mentroll has taken 12 damage from Overwatch Elite.
+[16:23:56	]marco the mentroll has used a context menu option with the name: vj_pr_npc_control
+[16:24:00	]marco the mentroll is fully healed.
+[16:24:21	]marco the mentroll has spawned a 'NPC [144][npc_vj_hlr2_com_engineer]'.
+[16:24:23	]marco the mentroll has used a context menu option with the name: vj_pr_npc_control
+[16:24:43	]marco the mentroll has spawned a 'NPC [144][npc_vj_hlr2_father_grigori]'.
+[16:24:49	]marco the mentroll has spawned a 'NPC [144][npc_vj_hunter2_z]'.
+[16:24:51	]marco the mentroll has used a context menu option with the name: vj_pr_npc_control
+[16:25:20	]marco the mentroll has spawned a 'NPC [144][npc_vj_mini_strider_synth_z]'.
+[16:25:22	]marco the mentroll has taken 1 damage from Mini Strider Synth.
+[16:25:22	]marco the mentroll has taken 6 damage from Mini Strider Synth.
+[16:25:22	]marco the mentroll has used a context menu option with the name: vj_pr_npc_control
+[16:25:25	]marco the mentroll is fully healed.
+[16:25:32	]marco the mentroll has spawned a 'NPC [144][npc_vj_overwatch_elite_z]'.
+[16:25:34	]marco the mentroll has used a context menu option with the name: vj_pr_npc_control
+[16:25:52	]marco the mentroll has used a context menu option with the name: vj_pr_npc_gib
+[16:26:12	]marco the mentroll has spawned a 'Entity [144][ix_vein_coal]'.
+[16:26:20	]marco the mentroll has given himself a pickaxe.
+[16:26:20	]marco the mentroll has gained a 'Pickaxe' #3111458.
+[16:26:23	]marco the mentroll ran 'Equip' on item 'Pickaxe' (#3111458)
+[16:26:24	]marco the mentroll used command '/ToggleRaise'.
+[16:26:36	]marco the mentroll has gained a 'Coal Ore' #3111459.
+[16:26:46	]marco the mentroll ran 'drop' on item 'Pickaxe' (#3111458)
+[16:26:47	]marco the mentroll ran 'drop' on item 'Pickaxe' (#3111458)
+[16:26:55	]marco the mentroll has spawned a pickled_eggmush.
+[16:26:57	]marco the mentroll ran 'Consume' on item 'Pickled Eggmush' (#3111460)
+[16:26:57	]marco the mentroll has gained a level 2 long boost in Perception.
+[16:27:16	]marco the mentroll has hit marco the mentroll in the stomach dealing 50 damage (CritChance was 0.00).
+[16:27:16	]marco the mentroll has taken 50 damage from marco the mentroll.
+[16:27:24	]marco the mentroll has hit marco the mentroll in the stomach dealing 50 damage (CritChance was 0.00).
+[16:27:24	]marco the mentroll has taken 50 damage from marco the mentroll.
+[16:27:26	]marco the mentroll has hit marco the mentroll in the stomach dealing 50 damage (CritChance was 0.00).
+[16:27:26	]marco the mentroll has taken 50 damage from marco the mentroll.
+[16:27:35	]marco the mentroll is fully healed.
+[16:27:55	]marco the mentroll has taken 18 damage from worldspawn.
+[16:28:10	]marco the mentroll is fully healed.
+[16:28:23	]marco the mentroll has taken 19 damage from worldspawn.
+[16:28:30	]marco the mentroll is fully healed.
+[16:28:36	]marco the mentroll entered observer.
+[16:28:58	]marco the mentroll entered observer.
+[16:29:01	]marco the mentroll entered observer.
+[16:29:06	]marco the mentroll entered observer.
+[16:29:06	]marco the mentroll exited observer.
+[16:29:10	]marco the mentroll entered observer.
+[16:29:14	]marco the mentroll entered observer.
+[16:29:17	]marco the mentroll entered observer.
+[16:29:21	]marco the mentroll entered observer.
+[16:29:24	]marco the mentroll entered observer.
+[16:29:31	]marco the mentroll entered observer.
+[16:29:45	]marco the mentroll has spawned a 'Entity [144][gmod_sent_vehicle_fphysics_base]'.
+[16:29:47	]marco the mentroll has spawned a 'Entity [144][gmod_sent_vehicle_fphysics_base]'.
+[16:30:14	]marco the mentroll has spawned a 'Entity [144][gmod_sent_vehicle_fphysics_base]'.
+[16:31:34	]marco the mentroll used command '/ToggleRaise'.
+[16:31:42	]marco the mentroll used command '/ToggleRaise'.
+[16:31:59	]marco the mentroll used command '/ToggleRaise'.
+[16:32:08	]marco the mentroll used command '/ToggleRaise'.
+[16:32:22	]marco the mentroll used command '/ToggleRaise'.
+[16:32:36	]marco the mentroll used command '/ToggleRaise'.
+[16:32:43	]marco the mentroll used command '/ToggleRaise'.
+[16:32:49	]marco the mentroll used command '/ToggleRaise'.
+[16:33:12	]marco the mentroll used command '/ToggleRaise'.
+[16:38:25	]marco the mentroll has gone afk.
+[16:45:25	]marco the mentroll is no longer afk. Total time spent AFK: 715
+[16:45:35	]marco the mentroll entered observer.
+[16:45:37	]marco the mentroll exited observer.
+[16:45:44	]marco the mentroll entered observer.
+[16:45:47	]marco the mentroll exited observer.
+[16:46:01	]marco the mentroll has spawned a seed_watermelon.
+[16:46:02	]marco the mentroll ran 'take' on item 'Watermelon Seeds' (#3111461)
+[16:46:02	]marco the mentroll has gained a 'Watermelon Seeds' #3111461.
+[16:46:06	]marco the mentroll ran 'plant' on item 'Watermelon Seeds' (#3111461)
+[16:46:06	]marco the mentroll has performed the 'Plant a Seed' action, gaining 100 experience in cooking.
+[16:46:18	]marco the mentroll has spawned a seed_xen_berries.
+[16:46:19	]marco the mentroll ran 'take' on item 'Xen Berries Seeds' (#3111462)
+[16:46:19	]marco the mentroll has gained a 'Xen Berries Seeds' #3111462.
+[16:46:20	]marco the mentroll ran 'plant' on item 'Xen Berries Seeds' (#3111462)
+[16:46:25	]marco the mentroll ran 'plant' on item 'Xen Berries Seeds' (#3111462)
+[16:46:31	]marco the mentroll ran 'plant' on item 'Xen Berries Seeds' (#3111462)
+[16:46:42	]marco the mentroll has gained level 50 in the Medicine skill.
+[16:46:42	]marco the mentroll used command '/CharSkillAdd ^ medicine 50'.
+[16:46:48	]marco the mentroll ran 'plant' on item 'Xen Berries Seeds' (#3111462)
+[16:46:54	]marco the mentroll has gained level 50 in the Crafting skill.
+[16:46:54	]marco the mentroll used command '/CharSkillAdd ^ crafting 50'.
+[16:46:56	]marco the mentroll ran 'plant' on item 'Xen Berries Seeds' (#3111462)
+[16:47:12	]marco the mentroll has spawned a seed_xen_herbs.
+[16:47:13	]marco the mentroll ran 'take' on item 'Xen Herbs Seeds' (#3111463)
+[16:47:13	]marco the mentroll has gained a 'Xen Herbs Seeds' #3111463.
+[16:47:16	]marco the mentroll ran 'plant' on item 'Xen Herbs Seeds' (#3111463)
+[16:47:49	]marco the mentroll used command '/CharGiveFlag ^ B'.
+[16:47:53	]marco the mentroll used command '/CharGiveFlag ^ 1'.
+[16:50:11	]marco the mentroll has spawned a 'NPC [490][npc_monk]'.
+[16:50:42	]marco the mentroll has spawned a 'Entity [490][ix_smuggler]'.
+[16:50:48	]marco the mentroll has spawned a 'Entity [491][ix_computer]'.
+[16:50:52	]marco the mentroll has spawned a 'Entity [491][ix_console]'.
+[16:50:56	]marco the mentroll has spawned a 'Entity [491][ix_cwuterminal]'.
+[16:51:23	]marco the mentroll has spawned a 'Entity [491][wn_crop]'.
+[16:51:25	]marco the mentroll has spawned a 'Entity [493][wn_sunlamp]'.
+[16:51:27	]marco the mentroll has spawned a 'Entity [494][wn_sunlamp]'.
+[16:51:42	]marco the mentroll has spawned a seed_apple.
+[16:51:45	]marco the mentroll ran 'take' on item 'Apple Seeds' (#3111464)
+[16:51:45	]marco the mentroll has gained a 'Apple Seeds' #3111464.
+[16:51:46	]marco the mentroll ran 'plant' on item 'Xen Herbs Seeds' (#3111463)
+[16:51:46	]marco the mentroll ran 'plant' on item 'Apple Seeds' (#3111464)
+[16:51:46	]marco the mentroll has performed the 'Plant a Seed' action, gaining 100 experience in cooking.
+[16:51:56	]marco the mentroll ran 'Water' on item 'Advanced Fertilizer' (#3111408)
+[16:52:00	]marco the mentroll has used a context menu option with the name: remove
+[16:52:08	]marco the mentroll has fired a toolgun with the name: material
+[16:52:08	]marco the mentroll has fired a toolgun with the name: remover
+[16:52:08	]marco the mentroll has fired a toolgun with the name: remover
+[16:52:08	]marco the mentroll has fired a toolgun with the name: remover
+[16:52:11	]marco the mentroll has used a context menu option with the name: ignite
+[16:52:13	]marco the mentroll has used a context menu option with the name: remove
+[16:52:17	]marco the mentroll has spawned a 'Entity [412][wn_crop]'.
+[16:52:19	]marco the mentroll has spawned a 'Entity [492][wn_crop]'.
+[16:52:20	]marco the mentroll has spawned a 'Entity [494][wn_crop]'.
+[16:52:21	]marco the mentroll has spawned a 'Entity [496][wn_crop]'.
+[16:52:22	]marco the mentroll has spawned a 'Entity [498][wn_crop]'.
+[16:52:25	]marco the mentroll has spawned a seed_berries.
+[16:52:26	]marco the mentroll ran 'take' on item 'Berries Seeds' (#3111465)
+[16:52:26	]marco the mentroll has gained a 'Berries Seeds' #3111465.
+[16:52:27	]marco the mentroll has spawned a seed_berries.
+[16:52:28	]marco the mentroll ran 'take' on item 'Berries Seeds' (#3111466)
+[16:52:28	]marco the mentroll has gained a 'Berries Seeds' #3111466.
+[16:52:29	]marco the mentroll has spawned a seed_berries.
+[16:52:31	]marco the mentroll ran 'take' on item 'Berries Seeds' (#3111467)
+[16:52:31	]marco the mentroll has gained a 'Berries Seeds' #3111467.
+[16:52:32	]marco the mentroll has spawned a seed_berries.
+[16:52:33	]marco the mentroll ran 'take' on item 'Berries Seeds' (#3111468)
+[16:52:33	]marco the mentroll has gained a 'Berries Seeds' #3111468.
+[16:52:33	]marco the mentroll has spawned a seed_berries.
+[16:52:34	]marco the mentroll ran 'take' on item 'Berries Seeds' (#3111469)
+[16:52:34	]marco the mentroll has gained a 'Berries Seeds' #3111469.
+[16:52:34	]marco the mentroll has spawned a seed_berries.
+[16:52:36	]marco the mentroll ran 'take' on item 'Berries Seeds' (#3111470)
+[16:52:36	]marco the mentroll has gained a 'Berries Seeds' #3111470.
+[16:52:38	]marco the mentroll ran 'plant' on item 'Xen Berries Seeds' (#3111462)
+[16:52:40	]marco the mentroll ran 'plant' on item 'Berries Seeds' (#3111465)
+[16:52:40	]marco the mentroll has performed the 'Plant a Seed' action, gaining 100 experience in cooking.
+[16:52:46	]marco the mentroll ran 'plant' on item 'Berries Seeds' (#3111466)
+[16:52:49	]marco the mentroll ran 'plant' on item 'Berries Seeds' (#3111466)
+[16:52:49	]marco the mentroll has performed the 'Plant a Seed' action, gaining 100 experience in cooking.
+[16:52:52	]marco the mentroll ran 'plant' on item 'Berries Seeds' (#3111467)
+[16:52:56	]marco the mentroll ran 'plant' on item 'Berries Seeds' (#3111467)
+[16:52:56	]marco the mentroll has performed the 'Plant a Seed' action, gaining 100 experience in cooking.
+[16:53:00	]marco the mentroll ran 'plant' on item 'Berries Seeds' (#3111470)
+[16:53:00	]marco the mentroll has performed the 'Plant a Seed' action, gaining 100 experience in cooking.
+[16:53:02	]marco the mentroll ran 'plant' on item 'Berries Seeds' (#3111469)
+[16:53:02	]marco the mentroll has performed the 'Plant a Seed' action, gaining 100 experience in cooking.
+[16:53:17	]marco the mentroll ran 'plant' on item 'Xen Herbs Seeds' (#3111463)
+[16:53:31	]marco the mentroll used command '/PlyWhitelist ^ Vortigaunt'.
+[16:53:35	]marco the mentroll used command '/PlyTransfer ^ Vortigaunt'.
+[16:53:42	]marco the mentroll ran 'plant' on item 'Xen Berries Seeds' (#3111462)
+[16:53:42	]marco the mentroll has performed the 'Plant a Seed' action, gaining 100 experience in cooking.
+[16:53:55	]marco the mentroll ran 'plant' on item 'Xen Herbs Seeds' (#3111463)
+[16:53:55	]marco the mentroll has performed the 'Plant a Seed' action, gaining 100 experience in cooking.
+[16:54:36	]marco the mentroll ran 'Water' on item 'Watering Can' (#3111399)
+[16:54:42	]marco the mentroll ran 'Water' on item 'Watering Can' (#3111399)
+[16:54:43	]marco the mentroll ran 'Water' on item 'Watering Can' (#3111399)
+[16:54:43	]marco the mentroll ran 'Water' on item 'Watering Can' (#3111399)
+[16:54:45	]marco the mentroll ran 'Water' on item 'Advanced Fertilizer' (#3111409)
+[16:54:46	]marco the mentroll ran 'Water' on item 'Advanced Fertilizer' (#3111412)
+[16:54:47	]marco the mentroll ran 'Water' on item 'Advanced Fertilizer' (#3111413)
+[16:54:55	]marco the mentroll ran 'Water' on item 'Advanced Fertilizer' (#3111414)
+[16:55:21	]marco the mentroll ran 'Water' on item 'Advanced Fertilizer' (#3111411)
+[16:55:22	]marco the mentroll ran 'Water' on item 'Advanced Fertilizer' (#3111411)
+[16:55:22	]marco the mentroll entered observer.
+[16:56:43	]marco the mentroll has fired a toolgun with the name: sh_textadd
+[16:56:53	]marco the mentroll has fired a toolgun with the name: sh_textadd
+[16:57:05	]marco the mentroll has fired a toolgun with the name: sh_textadd
+[16:57:07	]marco the mentroll exited observer.
+[16:57:29	]marco the mentroll used command '/CharGiveFlag ^ U'.
+[16:57:55	]Marco (STEAM_0:0:39958603) has disconnected.
+[20:37:30	]Marco has connected.
+[20:39:29	]Marco loaded the character 'marco the mentroll'
+[20:40:07	]marco the mentroll has performed the 'Harvest Plant' action, gaining 250 experience in cooking.
+[20:40:07	]marco the mentroll has gained a 'Xen Berries' #3111471.
+[20:40:07	]marco the mentroll has gained a 'Xen Berries' #3111472.
+[20:40:07	]marco the mentroll has gained a 'Xen Berries' #3111473.
+[20:40:07	]marco the mentroll has gained a 'Xen Berries' #3111474.
+[20:40:07	]marco the mentroll has gained a 'Xen Berries Seeds' #3111475.
+[20:40:19	]marco the mentroll has performed the 'Harvest Plant' action, gaining 250 experience in cooking.
+[20:40:19	]marco the mentroll has gained a 'Xen Herb' #3111476.
+[20:40:19	]marco the mentroll has gained a 'Xen Herb' #3111477.
+[20:40:19	]marco the mentroll has gained a 'Xen Herb' #3111478.
+[20:40:19	]marco the mentroll has gained a 'Xen Herb' #3111479.
+[20:40:19	]marco the mentroll has gained a 'Xen Herb' #3111480.
+[20:40:19	]marco the mentroll has gained a 'Xen Herb' #3111481.
+[20:40:19	]marco the mentroll has gained a 'Xen Herbs Seeds' #3111482.
+[20:41:01	]marco the mentroll has fired a toolgun with the name: sh_textadd
+[20:41:24	]marco the mentroll has fired a toolgun with the name: sh_textadd
+[20:41:27	]marco the mentroll has removed their last 3D text.
+[20:41:34	]marco the mentroll has fired a toolgun with the name: sh_textadd
+[20:41:45	]marco the mentroll has fired a toolgun with the name: sh_textadd
+[20:42:20	]marco the mentroll ran 'Equip' on item 'Suitcase' (#3111382)
+[20:42:22	]marco the mentroll ran 'Water' on item 'Advanced Fertilizer' (#3111410)
+[20:42:27	]marco the mentroll ran 'EquipUn' on item 'Suitcase' (#3111382)
+[20:42:30	]marco the mentroll ran 'drop' on item 'Pickaxe' (#3111458)
+[20:42:44	]marco the mentroll ran 'drop' on item 'Xen Berries Seeds' (#3111475)
+[20:43:48	]marco the mentroll used command '/CharGiveItem ^ Vodka 1'.
+[20:43:48	]marco the mentroll has gained a 'Vodka' #3111483.
+[20:44:01	]marco the mentroll has spawned a tool_chembench.
+[20:44:02	]marco the mentroll ran 'Use' on item 'Chemistry Workbench' (#3111484)
+[20:44:07	]marco the mentroll has gained a 'Xen Potion' #3111485.
+[20:44:17	]marco the mentroll ran 'Consume' on item 'Xen Potion' (#3111485)
+[20:44:25	]marco the mentroll used command '/ToggleRaise'.
+[20:44:27	][IC] marco the mentroll: Galunga.
+[20:44:33	]marco the mentroll used command '/ToggleRaise'.
+[20:44:40	]marco the mentroll used command '/CharGiveFlag ^ q'.
+[20:44:57	]marco the mentroll has taken 4 damage from entityflame.
+[20:44:57	]marco the mentroll has taken 2 damage from point_hurt.
+[20:44:57	]marco the mentroll has taken 2 damage from point_hurt.
+[20:44:57	]marco the mentroll has taken 2 damage from point_hurt.
+[20:44:57	]marco the mentroll has taken 4 damage from entityflame.
+[20:44:57	]marco the mentroll has taken 1 damage from point_hurt.
+[20:44:57	]marco the mentroll has taken 2 damage from point_hurt.
+[20:44:57	]marco the mentroll has taken 1 damage from point_hurt.
+[20:44:57	]marco the mentroll has taken 4 damage from entityflame.
+[20:44:57	]marco the mentroll has taken 2 damage from point_hurt.
+[20:44:57	]marco the mentroll has taken 1 damage from point_hurt.
+[20:44:58	]marco the mentroll has taken 2 damage from point_hurt.
+[20:44:58	]marco the mentroll has taken 4 damage from entityflame.
+[20:44:58	]marco the mentroll has taken 0 damage from point_hurt.
+[20:44:58	]marco the mentroll has taken 2 damage from point_hurt.
+[20:44:58	]marco the mentroll has taken 1 damage from point_hurt.
+[20:44:58	]marco the mentroll has taken 0 damage from point_hurt.
+[20:44:58	]marco the mentroll has taken 2 damage from point_hurt.
+[20:44:58	]marco the mentroll has taken 1 damage from point_hurt.
+[20:44:58	]marco the mentroll has taken 4 damage from entityflame.
+[20:44:58	]marco the mentroll has taken 0 damage from point_hurt.
+[20:44:58	]marco the mentroll has taken 0 damage from point_hurt.
+[20:44:58	]marco the mentroll has taken 4 damage from entityflame.
+[20:44:58	]marco the mentroll has taken 0 damage from point_hurt.
+[20:44:58	]marco the mentroll has taken 4 damage from entityflame.
+[20:44:58	]marco the mentroll has taken 4 damage from entityflame.
+[20:44:59	]marco the mentroll has taken 4 damage from entityflame.
+[20:44:59	]marco the mentroll has taken 4 damage from entityflame.
+[20:44:59	]marco the mentroll has taken 4 damage from entityflame.
+[20:44:59	]marco the mentroll has taken 4 damage from entityflame.
+[20:44:59	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:00	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:00	]marco the mentroll has taken 2 damage from entityflame.
+[20:45:00	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:00	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:00	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:01	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:01	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:01	]marco the mentroll has taken 2 damage from entityflame.
+[20:45:01	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:01	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:02	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:02	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:02	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:02	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:02	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:03	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:05	]marco the mentroll has taken 0 damage from point_hurt.
+[20:45:07	]marco the mentroll has taken 0 damage from point_hurt.
+[20:45:07	]marco the mentroll has taken 0 damage from point_hurt.
+[20:45:07	]marco the mentroll has taken 1 damage from point_hurt.
+[20:45:08	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:08	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:08	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:08	]marco the mentroll has taken 0 damage from point_hurt.
+[20:45:08	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:08	]marco the mentroll has taken 0 damage from point_hurt.
+[20:45:08	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:08	]marco the mentroll has taken 1 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 1 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 1 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:09	]marco the mentroll has taken 2 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 2 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 2 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 3 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:09	]marco the mentroll has taken 2 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 3 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 1 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 2 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 3 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 1 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:09	]marco the mentroll has taken 2 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 2 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 1 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 2 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 2 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 1 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:09	]marco the mentroll has taken 2 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 2 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 1 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 2 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 2 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 0 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:09	]marco the mentroll has taken 2 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 2 damage from point_hurt.
+[20:45:09	]marco the mentroll has taken 0 damage from point_hurt.
+[20:45:10	]marco the mentroll has taken 2 damage from point_hurt.
+[20:45:10	]marco the mentroll has taken 3 damage from point_hurt.
+[20:45:10	]marco the mentroll has taken 1 damage from point_hurt.
+[20:45:10	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:10	]marco the mentroll has taken 3 damage from point_hurt.
+[20:45:10	]marco the mentroll has taken 3 damage from point_hurt.
+[20:45:10	]marco the mentroll has taken 1 damage from point_hurt.
+[20:45:10	]marco the mentroll has taken 3 damage from point_hurt.
+[20:45:10	]marco the mentroll has taken 3 damage from point_hurt.
+[20:45:10	]marco the mentroll has taken 1 damage from point_hurt.
+[20:45:10	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:10	]marco the mentroll has taken 2 damage from point_hurt.
+[20:45:10	]marco the mentroll has taken 3 damage from point_hurt.
+[20:45:10	]marco the mentroll has taken 1 damage from point_hurt.
+[20:45:10	]marco the mentroll has taken 2 damage from point_hurt.
+[20:45:10	]marco the mentroll has taken 3 damage from point_hurt.
+[20:45:10	]marco the mentroll has taken 1 damage from point_hurt.
+[20:45:10	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:10	]marco the mentroll has taken 2 damage from point_hurt.
+[20:45:10	]marco the mentroll has taken 1 damage from point_hurt.
+[20:45:10	]marco the mentroll has taken 0 damage from point_hurt.
+[20:45:10	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:10	]marco the mentroll has taken 3 damage from entityflame.
+[20:45:11	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:11	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:11	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:11	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:11	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:12	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:12	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:12	]marco the mentroll has taken 4 damage from entityflame.
+[20:45:12	]marco the mentroll was knocked unconscious and is bleeding out.
+[20:45:19	]marco the mentroll used command '/CharStopBleedout ^'.
+[20:45:24	]marco the mentroll is no longer unconscious from critical wounds.
+[20:45:33	]marco the mentroll used command '/ToggleRaise'.
+[20:45:46	]marco the mentroll used command '/ToggleRaise'.
+[20:45:50	]marco the mentroll used command '/ToggleRaise'.
+[20:45:53	]marco the mentroll used command '/ToggleRaise'.
+[20:45:54	]marco the mentroll used command '/ToggleRaise'.
+[20:46:09	]marco the mentroll used command '/ToggleRaise'.
+[20:46:26	]marco the mentroll used command '/ToggleRaise'.
+[20:46:36	]marco the mentroll used command '/ToggleRaise'.
+[20:46:40	]marco the mentroll used command '/ToggleRaise'.
+[20:47:00	]marco the mentroll used command '/EnterMeditation'.
+[20:52:29	]marco the mentroll has gone afk.
+[20:59:29	]marco the mentroll is no longer afk. Total time spent AFK: 715
+[21:04:59	]marco the mentroll has gone afk.
+[21:05:04	]marco the mentroll is no longer afk. Total time spent AFK: 300
+[21:05:06	]marco the mentroll used command '/EnterMeditation'.
+[21:11:34	]marco the mentroll has gone afk.
+[21:11:54	]marco the mentroll is no longer afk. Total time spent AFK: 315
+[21:16:54	]marco the mentroll has gone afk.
+[21:37:39	]marco the mentroll is no longer afk. Total time spent AFK: 1540
+[21:42:39	]marco the mentroll has gone afk.
+[22:19:02	]marco the mentroll has spawned a 'NPC [532][npc_vj_hlr1a_ivan]'.
+[22:19:04	]marco the mentroll is no longer afk. Total time spent AFK: 2480
+[22:19:10	]marco the mentroll used command '/ToggleRaise'.
+[22:19:18	]marco the mentroll has taken 4 damage from entityflame.
+[22:19:18	]marco the mentroll has taken 2 damage from point_hurt.
+[22:19:19	]marco the mentroll has taken 2 damage from point_hurt.
+[22:19:19	]marco the mentroll has taken 2 damage from point_hurt.
+[22:19:19	]marco the mentroll has taken 4 damage from entityflame.
+[22:19:19	]marco the mentroll has taken 0 damage from point_hurt.
+[22:19:19	]marco the mentroll has taken 0 damage from point_hurt.
+[22:19:19	]marco the mentroll has taken 4 damage from entityflame.
+[22:19:19	]marco the mentroll has taken 4 damage from entityflame.
+[22:19:19	]marco the mentroll has taken 4 damage from entityflame.
+[22:19:19	]marco the mentroll has taken 4 damage from entityflame.
+[22:19:20	]marco the mentroll has taken 4 damage from entityflame.
+[22:19:20	]marco the mentroll has taken 4 damage from entityflame.
+[22:19:20	]marco the mentroll has taken 4 damage from entityflame.
+[22:19:20	]marco the mentroll has taken 4 damage from entityflame.
+[22:19:20	]marco the mentroll has taken 4 damage from entityflame.
+[22:19:21	]marco the mentroll has taken 4 damage from entityflame.
+[22:19:21	]marco the mentroll has taken 4 damage from entityflame.
+[22:19:21	]marco the mentroll has taken 4 damage from entityflame.
+[22:19:21	]marco the mentroll has taken 2 damage from point_hurt.
+[22:19:21	]marco the mentroll has taken 2 damage from point_hurt.
+[22:19:21	]marco the mentroll has taken 4 damage from entityflame.
+[22:19:21	]marco the mentroll has taken 2 damage from point_hurt.
+[22:19:21	]marco the mentroll has taken 2 damage from point_hurt.
+[22:19:21	]marco the mentroll has taken 2 damage from point_hurt.
+[22:19:21	]marco the mentroll has taken 4 damage from entityflame.
+[22:19:22	]marco the mentroll has taken 1 damage from point_hurt.
+[22:19:22	]marco the mentroll has taken 2 damage from point_hurt.
+[22:19:22	]marco the mentroll has taken 1 damage from point_hurt.
+[22:19:22	]marco the mentroll has taken 4 damage from entityflame.
+[22:19:22	]marco the mentroll has taken 2 damage from point_hurt.
+[22:19:22	]marco the mentroll has taken 1 damage from point_hurt.
+[22:19:22	]marco the mentroll has taken 1 damage from point_hurt.
+[22:19:22	]marco the mentroll has taken 4 damage from entityflame.
+[22:19:22	]marco the mentroll has taken 1 damage from point_hurt.
+[22:19:22	]marco the mentroll has taken 2 damage from point_hurt.
+[22:19:22	]marco the mentroll has taken 2 damage from point_hurt.
+[22:19:22	]marco the mentroll has taken 1 damage from point_hurt.
+[22:19:22	]marco the mentroll has taken 1 damage from point_hurt.
+[22:19:47	]marco the mentroll has taken 0 damage from point_hurt.
+[22:19:47	]marco the mentroll has taken 10 damage from env_fire.
+[22:19:47	]marco the mentroll has taken 4 damage from env_fire.
+[22:20:02	]marco the mentroll has performed the 'Harvest Plant' action, gaining 250 experience in cooking.
+[22:20:02	]marco the mentroll has gained a 'Watermelon' #3111486.
+[22:20:02	]marco the mentroll has gained a 'Watermelon' #3111487.
+[22:20:02	]marco the mentroll has gained a 'Watermelon' #3111488.
+[22:20:02	]marco the mentroll has gained a 'Watermelon Seeds' #3111489.
+[22:20:37	]marco the mentroll has spawned a 'NPC [265][npc_vj_hlrof_shockroach]'.
+[22:20:38	]marco the mentroll has taken 10 damage from Shock Roach.
+[22:20:51	]marco the mentroll has taken 10 damage from Shock Roach.
+[22:20:57	]marco the mentroll has spawned a 'NPC [265][npc_vj_hlr1_kingpin]'.
+[22:21:02	]marco the mentroll has taken 30 damage from Kingpin.
+[22:21:09	]marco the mentroll has taken 30 damage from Kingpin.
+[22:21:15	]marco the mentroll has taken 30 damage from Kingpin.
+[22:25:02	]marco the mentroll has spawned a 'Entity [265][ix_fabricator]'.
+[22:25:11	]marco the mentroll has spawned a combinebattery.
+[22:25:28	]marco the mentroll has spawned a comp_resin.
+[22:25:28	]marco the mentroll ran 'take' on item 'Resin' (#3111491)
+[22:25:28	]marco the mentroll has gained a 'Resin' #3111491.
+[22:25:40	]marco the mentroll has spawned a 'Entity [532][ix_batterycharger]'.
+[22:25:47	]marco the mentroll ran 'drop' on item 'Resin' (#3111491)
+[22:25:50	]marco the mentroll has spawned a comp_resin.
+[22:26:00	]env_entity_dissolver destroyed a 'Resin' #3111492.
+[22:26:03	]marco the mentroll has spawned a comp_condensed_resin.
+[22:26:09	]env_entity_dissolver destroyed a 'Condensed Resin' #3111493.
+[22:26:30	]marco the mentroll has spawned a comp_resin.
+[22:26:31	]marco the mentroll has spawned a comp_resin.
+[22:26:40	]env_entity_dissolver destroyed a 'Resin' #3111495.
+[22:26:41	]marco the mentroll has spawned a comp_resin.
+[22:26:43	]env_entity_dissolver destroyed a 'Resin' #3111494.
+[22:26:44	]marco the mentroll has spawned a comp_resin.
+[22:26:46	]env_entity_dissolver destroyed a 'Resin' #3111496.
+[22:26:48	]marco the mentroll has spawned a comp_resin.
+[22:26:49	]env_entity_dissolver destroyed a 'Resin' #3111497.
+[22:26:52	]marco the mentroll has spawned a comp_resin.
+[22:26:52	]env_entity_dissolver destroyed a 'Resin' #3111498.
+[22:26:58	]env_entity_dissolver destroyed a 'Resin' #3111499.
+[22:26:59	]marco the mentroll ran 'take' on item 'Combine Battery' (#3111490)
+[22:26:59	]marco the mentroll has gained a 'Combine Battery' #3111490.
+[22:27:01	]marco the mentroll ran 'drop' on item 'Combine Battery' (#3111490)
+[22:27:02	]marco the mentroll ran 'SetFullCharge' on item 'Combine Battery' (#3111490)
+[22:27:04	]marco the mentroll ran 'drop' on item 'Combine Battery' (#3111490)
+[22:27:09	]marco the mentroll has spawned a combinebattery.
+[22:29:13	]marco the mentroll has used a context menu option with the name: remove
+[22:29:27	]marco the mentroll has used a context menu option with the name: remove
+[22:34:34	]marco the mentroll has gone afk.
+[22:35:24	]marco the mentroll is no longer afk. Total time spent AFK: 345
+[22:40:24	]marco the mentroll has gone afk.
+[23:16:19	]marco the mentroll is no longer afk. Total time spent AFK: 2450
+[23:21:19	]marco the mentroll has gone afk.
+[23:30:39	]marco the mentroll is no longer afk. Total time spent AFK: 855
+[23:30:49	]marco the mentroll is fully healed.
+[23:31:39	]marco the mentroll entered observer.
+[23:31:40	]marco the mentroll entered observer.
+[23:31:41	]marco the mentroll exited observer.
+[23:31:42	]marco the mentroll has taken 11 damage from worldspawn.
+[23:31:44	]marco the mentroll is fully healed.
+[23:31:54	]marco the mentroll has hit marco the mentroll dealing 90 damage (CritChance was 0.00).
+[23:31:54	]marco the mentroll has taken 90 damage from marco the mentroll.
+[23:31:57	]marco the mentroll has hit marco the mentroll dealing 40 damage (CritChance was 0.00).
+[23:31:57	]marco the mentroll has taken 40 damage from marco the mentroll.
+[23:31:58	]marco the mentroll has hit marco the mentroll dealing 28 damage (CritChance was 0.00).
+[23:31:58	]marco the mentroll has taken 28 damage from marco the mentroll.
+[23:31:59	]marco the mentroll has hit marco the mentroll dealing 68 damage (CritChance was 0.00).
+[23:31:59	]marco the mentroll has taken 68 damage from marco the mentroll.
+[23:31:59	]marco the mentroll has hit marco the mentroll dealing 85 damage (CritChance was 0.00).
+[23:31:59	]marco the mentroll has taken 85 damage from marco the mentroll.
+[23:31:59	]marco the mentroll has hit marco the mentroll dealing 77 damage (CritChance was 0.00).
+[23:31:59	]marco the mentroll has taken 77 damage from marco the mentroll.
+[23:32:03	]marco the mentroll has hit marco the mentroll dealing 67 damage (CritChance was 0.00).
+[23:32:03	]marco the mentroll has taken 67 damage from marco the mentroll.
+[23:32:04	]marco the mentroll has hit marco the mentroll dealing 53 damage (CritChance was 0.00).
+[23:32:04	]marco the mentroll has taken 53 damage from marco the mentroll.
+[23:32:05	]marco the mentroll entered observer.
+[23:32:09	]marco the mentroll is fully healed.
+[23:32:12	]marco the mentroll entered observer.
+[23:32:35	]Marco (STEAM_0:0:39958603) has disconnected.

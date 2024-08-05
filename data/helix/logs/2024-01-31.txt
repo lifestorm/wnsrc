@@ -1,0 +1,749 @@
+[04:01:14	]The Combine container (#117163) was set to CLEANUP.
+[17:17:44	]The Safe container (#117330) was set to CLEANUP.
+[17:17:44	]The Safe container (#117331) was set to CLEANUP.
+[17:17:44	]The Emergency Biopaste Storage container (#117332) was set to CLEANUP.
+[17:19:49	]M!NT has connected.
+[17:20:27	]M!NT loaded the character 'Adalia Torres'
+[17:20:32	]Adalia Torres is fully healed.
+[17:20:47	]Adalia Torres entered observer.
+[17:21:15	]Adalia Torres exited observer at their location.
+[17:21:31	]Adalia Torres entered observer.
+[17:21:37	]Adalia Torres exited observer at their location.
+[17:21:56	]Adalia Torres entered observer.
+[17:22:17	]ulterior has connected.
+[17:22:30	]Adalia Torres set shootSoundDSP to '0'.
+[17:22:43	]Adalia Torres set shootSoundDSP to '106'.
+[17:22:44	]Adalia Torres set shootSoundDSP to '112'.
+[17:22:45	]Adalia Torres set shootSoundDSP to '116'.
+[17:22:45	]Adalia Torres set shootSoundDSP to '121'.
+[17:22:59	]Adalia Torres exited observer at their location.
+[17:23:00	]ulterior loaded the character 'mini strider'
+[17:23:02	]mini strider was knocked unconscious and is bleeding out.
+[17:23:08	]mini strider ran SAM command 'respawn' with arguments: '^'
+[17:23:09	]mini strider entered observer.
+[17:23:10	]mini strider is fully healed.
+[17:23:14	]Adalia Torres entered observer.
+[17:23:16	]mini strider ran SAM command 'goto' with arguments: 'adalia'
+[17:23:21	]mini strider ran 'drop' on item 'CV-2000 Stun Baton' (#2606149)
+[17:23:21	]mini strider has lost a 'CV-2000 Stun Baton' #2606149.
+[17:23:24	]mini strider exited observer at their location.
+[17:23:26	]mini strider ran 'drop' on item 'Padlock' (#2605468)
+[17:23:26	]mini strider has lost a 'Padlock' #2605468.
+[17:23:26	]mini strider ran 'drop' on item 'Flashlight' (#2600993)
+[17:23:26	]mini strider has lost a 'Flashlight' #2600993.
+[17:23:26	]mini strider ran 'drop' on item 'Black Trousers' (#2601020)
+[17:23:26	]mini strider has lost a 'Black Trousers' #2601020.
+[17:23:26	]mini strider ran 'drop' on item '9mm Pistol Bullets' (#2606876)
+[17:23:26	]mini strider has lost a '9mm Pistol Bullets' #2606876.
+[17:23:26	]mini strider ran 'drop' on item 'Sub-machinegun Bullets' (#2606125)
+[17:23:26	]mini strider has lost a 'Sub-machinegun Bullets' #2606125.
+[17:23:27	]mini strider ran 'drop' on item '9mm Pistol Bullets' (#2606875)
+[17:23:27	]mini strider has lost a '9mm Pistol Bullets' #2606875.
+[17:23:27	]mini strider ran 'drop' on item '#85735's Identity Card' (#2656645)
+[17:23:27	]mini strider has lost a '#85735's Identity Card' #2656645.
+[17:23:27	]mini strider ran 'drop' on item 'POS Terminal' (#2656642)
+[17:23:27	]mini strider has lost a 'POS Terminal' #2656642.
+[17:23:27	]mini strider ran 'drop' on item 'Cigarette' (#2654079)
+[17:23:27	]mini strider has lost a 'Cigarette' #2654079.
+[17:23:27	]mini strider ran 'drop' on item 'Candyfloss' (#2601019)
+[17:23:27	]mini strider has lost a 'Candyfloss' #2601019.
+[17:23:28	]mini strider ran 'drop' on item 'Combine Battery' (#2653966)
+[17:23:28	]mini strider has lost a 'Combine Battery' #2653966.
+[17:23:32	]mini strider has fired a toolgun with the name: remover
+[17:23:32	]mini strider has fired a toolgun with the name: remover
+[17:23:32	]mini strider has fired a toolgun with the name: remover
+[17:23:32	]mini strider has fired a toolgun with the name: remover
+[17:23:32	]mini strider has fired a toolgun with the name: remover
+[17:23:33	]mini strider has fired a toolgun with the name: remover
+[17:23:33	]mini strider has fired a toolgun with the name: remover
+[17:23:33	]mini strider has fired a toolgun with the name: remover
+[17:23:33	]mini strider has fired a toolgun with the name: remover
+[17:23:33	]mini strider has fired a toolgun with the name: remover
+[17:23:33	]mini strider has fired a toolgun with the name: remover
+[17:23:33	]mini strider has fired a toolgun with the name: remover
+[17:23:34	]mini strider has fired a toolgun with the name: remover
+[17:23:34	]mini strider has fired a toolgun with the name: remover
+[17:23:34	]mini strider has fired a toolgun with the name: remover
+[17:23:34	]mini strider has fired a toolgun with the name: remover
+[17:23:34	]mini strider has fired a toolgun with the name: remover
+[17:23:34	]mini strider has fired a toolgun with the name: remover
+[17:23:34	]mini strider has fired a toolgun with the name: remover
+[17:23:34	]mini strider has fired a toolgun with the name: remover
+[17:23:35	]mini strider has fired a toolgun with the name: remover
+[17:23:35	]mini strider has fired a toolgun with the name: remover
+[17:23:35	]mini strider has fired a toolgun with the name: remover
+[17:23:42	]mini strider entered observer.
+[17:23:44	]mini strider has fired a toolgun with the name: dynamite
+[17:23:44	]mini strider has fired a toolgun with the name: dynamite
+[17:23:44	]mini strider has fired a toolgun with the name: dynamite
+[17:23:44	]mini strider has fired a toolgun with the name: dynamite
+[17:23:44	]mini strider has fired a toolgun with the name: dynamite
+[17:23:44	]mini strider has fired a toolgun with the name: dynamite
+[17:23:44	]mini strider has fired a toolgun with the name: dynamite
+[17:23:45	]mini strider has fired a toolgun with the name: dynamite
+[17:23:45	]mini strider has fired a toolgun with the name: dynamite
+[17:23:45	]mini strider has fired a toolgun with the name: dynamite
+[17:23:46	]mini strider destroyed a 'CV-2000 Stun Baton' #2606149.
+[17:23:46	]mini strider destroyed a 'Makeshift P90' #2686689.
+[17:23:46	]mini strider destroyed a 'MP-153' #2686743.
+[17:23:46	]mini strider destroyed a 'Popper' #2686695.
+[17:23:46	]mini strider destroyed a 'Model 870' #2686667.
+[17:23:46	]mini strider destroyed a 'M1911' #2686669.
+[17:23:46	]mini strider destroyed a 'Glock 17' #2686670.
+[17:23:46	]mini strider destroyed a 'Model 870' #2686698.
+[17:23:46	]mini strider destroyed a 'Priority Loyalist Ration' #2652054.
+[17:23:46	]mini strider destroyed a '100 Credits Coupon' #2652105.
+[17:23:46	]mini strider destroyed a 'Zippo Lighter' #2652098.
+[17:23:46	]mini strider destroyed a 'Benefactor Edition Cigarette Pack' #2652088.
+[17:23:46	]mini strider destroyed a 'Mini-14' #2686703.
+[17:23:50	]mini strider has fired a toolgun with the name: dynamite
+[17:23:51	]mini strider destroyed a 'Uzi' #2686708.
+[17:23:52	]mini strider has fired a toolgun with the name: dynamite
+[17:23:52	]mini strider has fired a toolgun with the name: dynamite
+[17:23:53	]mini strider destroyed a 'Makeshift AK' #2686681.
+[17:23:53	]mini strider destroyed a 'Loyalist Ration' #2581493.
+[17:23:53	]mini strider destroyed a 'Request Device' #2494849.
+[17:23:53	]mini strider destroyed a 'Light Red Plaid' #1545877.
+[17:23:54	]mini strider has fired a toolgun with the name: dynamite
+[17:23:55	]mini strider has fired a toolgun with the name: dynamite
+[17:23:57	]mini strider has fired a toolgun with the name: dynamite
+[17:23:57	]mini strider destroyed a 'Overwatch Heavy Shotgun' #2686729.
+[17:24:00	]mini strider has fired a toolgun with the name: dynamite
+[17:24:02	]mini strider has fired a toolgun with the name: dynamite
+[17:24:02	]mini strider destroyed a 'Duplet' #2686682.
+[17:24:05	]mini strider has fired a toolgun with the name: dynamite
+[17:24:05	]mini strider has taken 91 damage from mini strider.
+[17:24:05	]mini strider destroyed a 'Coffee Machine' #2383213.
+[17:24:05	]mini strider destroyed a 'First Aid Kit' #2556674.
+[17:24:05	]mini strider destroyed a 'Light Grey Armband' #2609840.
+[17:24:09	]mini strider ran SAM command 'hp' with arguments: '^' '149034'
+[17:24:10	]mini strider is fully healed.
+[17:24:12	]mini strider has fired a toolgun with the name: dynamite
+[17:24:12	]mini strider has fired a toolgun with the name: dynamite
+[17:24:13	]mini strider has fired a toolgun with the name: dynamite
+[17:24:13	]mini strider destroyed a 'Mini-14' #2686721.
+[17:24:13	]mini strider destroyed a 'OSITR' #2686723.
+[17:24:13	]mini strider destroyed a 'MP7A1' #2686722.
+[17:24:15	]mini strider has fired a toolgun with the name: dynamite
+[17:24:16	]mini strider destroyed a 'Trijicon Advanced Combat Optical Gunsight (4x)' #2686739.
+[17:24:16	]mini strider destroyed a 'Mini-14' #2686735.
+[17:24:16	]mini strider destroyed a 'Trijicon Tactical Advanced Riflescope (3-8x)' #2686738.
+[17:24:17	]mini strider has fired a toolgun with the name: dynamite
+[17:24:17	]mini strider destroyed a 'M16A2' #2686717.
+[17:24:20	]mini strider has fired a toolgun with the name: dynamite
+[17:24:25	]mini strider exited observer at their location.
+[17:24:30	]mini strider ran SAM command 'scale' with arguments: '^' '0.7'
+[17:24:36	]mini strider used command '/ToggleRaise'.
+[17:25:32	]mini strider used command '/ToggleRaise'.
+[17:25:33	]mini strider used command '/ToggleRaise'.
+[17:25:50	]mini strider entered observer.
+[17:26:40	]mini strider used command '/ToggleRaise'.
+[17:26:51	]mini strider used command '/ToggleRaise'.
+[17:27:22	]mini strider destroyed a 'M1911' #2686730.
+[17:27:27	]mini strider exited observer at their location.
+[17:27:31	]mini strider entered observer.
+[17:27:32	]mini strider exited observer at their location.
+[17:27:32	]mini strider entered observer.
+[17:27:33	]mini strider exited observer at their location.
+[17:27:40	]Adalia Torres has hit mini strider dealing 0 damage (CritChance was 0.65).
+[17:27:40	]Adalia Torres has critically hit mini strider dealing 0 damage (CritChance was 0.65).
+[17:27:40	]Adalia Torres has hit mini strider dealing 12 damage (CritChance was 0.65).
+[17:27:40	]mini strider has taken 12 damage from Adalia Torres.
+[17:27:43	]mini strider entered observer.
+[17:27:44	]mini strider exited observer at their location.
+[17:27:45	]mini strider is fully healed.
+[17:27:45	]mini strider entered observer.
+[17:27:48	]mini strider exited observer at their location.
+[17:27:49	]mini strider entered observer.
+[17:27:49	]mini strider exited observer at their location.
+[17:27:50	]mini strider entered observer.
+[17:27:50	]mini strider exited observer at their location.
+[17:27:51	]mini strider entered observer.
+[17:27:51	]mini strider exited observer at their location.
+[17:27:51	]mini strider entered observer.
+[17:27:52	]mini strider exited observer at their location.
+[17:28:04	]mini strider used command '/ToggleRaise'.
+[17:28:15	]ulterior has unloaded their "mini strider" character.
+[17:28:19	]ulterior loaded the character 'Esteban Torres'
+[17:28:24	]Esteban Torres is fully healed.
+[17:28:25	]Esteban Torres entered observer.
+[17:28:29	]Esteban Torres exited observer at their location.
+[17:28:41	]Esteban Torres used command '/ToggleRaise'.
+[17:29:42	]Esteban Torres used command '/ToggleRaise'.
+[17:29:49	]Esteban Torres entered observer.
+[17:30:18	]Esteban Torres used command '/ToggleRaise'.
+[17:30:29	]Esteban Torres exited observer at their location.
+[17:30:39	]Adalia Torres exited observer at their location.
+[17:30:47	]Esteban Torres entered observer.
+[17:30:49	]Esteban Torres exited observer at their location.
+[17:30:53	]Esteban Torres entered observer.
+[17:30:54	]Esteban Torres exited observer at their location.
+[17:31:04	]Esteban Torres has given himself a res_uzi.
+[17:31:04	]Esteban Torres has gained a 'Uzi' #2686745.
+[17:31:06	]Esteban Torres entered observer.
+[17:31:16	]Esteban Torres exited observer at their location.
+[17:31:26	]Adalia Torres has spawned a 'Entity [2984][arccw_ammo_ar2_large]'.
+[17:31:26	]Adalia Torres has spawned a 'Entity [4414][arccw_ammo_ar2_large]'.
+[17:31:30	]Adalia Torres has spawned a 'Entity [2984][arccw_ammo_ar2_large]'.
+[17:31:30	]Adalia Torres has spawned a 'Entity [4414][arccw_ammo_ar2_large]'.
+[17:31:30	]Adalia Torres has spawned a 'Entity [6287][arccw_ammo_ar2_large]'.
+[17:31:49	]Esteban Torres entered observer.
+[17:32:04	]Adalia Torres entered observer.
+[17:32:06	]Adalia Torres exited observer at their location.
+[17:32:06	]Esteban Torres exited observer at their location.
+[17:32:07	]Adalia Torres entered observer.
+[17:32:07	]Esteban Torres entered observer.
+[17:32:07	]Esteban Torres exited observer at their location.
+[17:32:08	]Esteban Torres entered observer.
+[17:32:08	]Esteban Torres exited observer at their location.
+[17:32:08	]Esteban Torres entered observer.
+[17:32:09	]Esteban Torres exited observer at their location.
+[17:32:10	]Adalia Torres exited observer at their location.
+[17:32:10	]Esteban Torres entered observer.
+[17:32:13	]Esteban Torres exited observer at their location.
+[17:32:22	]Adalia Torres entered observer.
+[17:32:26	]Esteban Torres entered observer.
+[17:32:32	]Esteban Torres has given himself a gen_mp7.
+[17:32:32	]Esteban Torres has gained a 'MP7A1' #2686746.
+[17:32:33	]Esteban Torres ran 'Equip' on item 'MP7A1' (#2686746)
+[17:32:34	]Esteban Torres used command '/ToggleRaise'.
+[17:32:36	]Esteban Torres exited observer at their location.
+[17:32:37	]Esteban Torres ran 'drop' on item 'Uzi' (#2686745)
+[17:32:37	]Esteban Torres has lost a 'Uzi' #2686745.
+[17:32:45	]Esteban Torres destroyed a 'Uzi' #2686745.
+[17:32:46	]Esteban Torres used command '/ToggleRaise'.
+[17:32:47	]Esteban Torres used command '/ToggleRaise'.
+[17:32:55	]Esteban Torres entered observer.
+[17:33:01	]Esteban Torres exited observer at their location.
+[17:33:05	]Esteban Torres has fired a toolgun with the name: camera
+[17:33:09	]Esteban Torres used command '/ToggleRaise'.
+[17:33:28	]M!NT (STEAM_0:1:120751263) has disconnected.
+[17:33:38	]Esteban Torres has spawned a cmb_pslmg.
+[17:33:40	]Esteban Torres ran 'drop' on item 'MP7A1' (#2686746)
+[17:33:40	]Esteban Torres has lost a 'MP7A1' #2686746.
+[17:33:41	]Esteban Torres ran 'drop' on item 'Sledge Hammer' (#2467364)
+[17:33:41	]Esteban Torres has lost a 'Sledge Hammer' #2467364.
+[17:33:42	]Esteban Torres ran 'drop' on item 'Large Bag' (#2128381)
+[17:33:42	]Esteban Torres has lost a 'Large Bag' #2128381.
+[17:33:42	]Esteban Torres has lost a 'Morphine' #2461352.
+[17:33:42	]Esteban Torres has lost a 'First Aid Kit' #2500100.
+[17:33:42	]Esteban Torres has lost a 'Water Bottle' #2497338.
+[17:33:42	]Esteban Torres has lost a 'Blood Bag' #2461348.
+[17:33:42	]Esteban Torres has lost a 'Whiskey' #2564856.
+[17:33:42	]Esteban Torres has lost a 'Repair Plating' #2461343.
+[17:33:42	]Esteban Torres has lost a 'Health Syringe' #2461344.
+[17:33:42	]Esteban Torres has lost a 'Handheld Radio' #2461323.
+[17:33:42	]Esteban Torres has lost a 'Flashlight' #2461354.
+[17:33:42	]Esteban Torres has lost a 'Water Bottle' #2461386.
+[17:33:42	]Esteban Torres has lost a 'Disinfected Bandage Roll' #2461359.
+[17:33:42	]Esteban Torres has lost a '#28279's Identity Card' #2461325.
+[17:33:44	]Esteban Torres ran 'take' on item 'Suppressor Light Machinegun' (#2686747)
+[17:33:44	]Esteban Torres has gained a 'Suppressor Light Machinegun' #2686747.
+[17:33:47	]Esteban Torres ran 'Equip' on item 'Suppressor Light Machinegun' (#2686747)
+[17:33:47	]Esteban Torres used command '/ToggleRaise'.
+[17:34:50	]Esteban Torres destroyed a 'Large Bag' #2128381.
+[17:35:12	]Esteban Torres used command '/ToggleRaise'.
+[17:35:21	]Esteban Torres has given himself a perk_suppressorrage.
+[17:35:21	]Esteban Torres has gained a 'Suppressor's Spirit' #2686748.
+[17:35:22	]Esteban Torres has lost a 'Suppressor's Spirit' #2686748.
+[17:35:37	]Esteban Torres used command '/ToggleRaise'.
+[17:35:40	]Esteban Torres destroyed a 'MP7A1' #2686746.
+[17:35:43	]Esteban Torres used command '/ToggleRaise'.
+[17:35:50	]Esteban Torres has gained a 'Suppressor's Spirit' #2686748.
+[17:35:54	]Esteban Torres has lost a 'Suppressor's Spirit' #2686748.
+[17:36:06	]Esteban Torres has gained a 'Suppressor's Spirit' #2686748.
+[17:36:08	]Esteban Torres has lost a 'Suppressor's Spirit' #2686748.
+[17:36:41	]Esteban Torres used command '/ToggleRaise'.
+[17:36:52	]Esteban Torres used command '/ToggleRaise'.
+[17:36:54	]Esteban Torres used command '/ToggleRaise'.
+[17:37:16	]Esteban Torres entered observer.
+[17:37:33	]Esteban Torres has fired a toolgun with the name: dynamite
+[17:37:40	]Esteban Torres has fired a toolgun with the name: dynamite
+[17:37:40	]Esteban Torres has fired a toolgun with the name: dynamite
+[17:37:40	]Esteban Torres has fired a toolgun with the name: dynamite
+[17:37:40	]Esteban Torres has fired a toolgun with the name: dynamite
+[17:37:40	]Esteban Torres has fired a toolgun with the name: dynamite
+[17:37:44	]Esteban Torres has fired a toolgun with the name: dynamite
+[17:37:44	]Esteban Torres has fired a toolgun with the name: dynamite
+[17:37:45	]Esteban Torres has fired a toolgun with the name: dynamite
+[17:37:45	]Esteban Torres destroyed a 'Sledge Hammer' #2467364.
+[17:37:49	]Esteban Torres has fired a toolgun with the name: dynamite
+[17:37:51	]Esteban Torres has fired a toolgun with the name: dynamite
+[17:37:51	]Esteban Torres has taken 7 damage from Esteban Torres.
+[17:37:51	]Esteban Torres destroyed a 'N-Vision HALO-LR Thermal Scope (1-6x)' #2686737.
+[17:37:54	]Esteban Torres used command '/ToggleRaise'.
+[17:37:55	]Esteban Torres exited observer at their location.
+[17:38:20	]Esteban Torres has given himself a uc_optic_nvis.
+[17:38:20	]Esteban Torres has gained a 'N-Vision HALO-LR Thermal Scope (1-6x)' #2686749.
+[17:38:24	]Esteban Torres entered observer.
+[17:38:37	]Esteban Torres used command '/ToggleRaise'.
+[17:38:45	]Esteban Torres has given himself a optic_gauss_scope.
+[17:38:45	]Esteban Torres has gained a 'M2014-S (FLIR)' #2686750.
+[17:38:56	]Esteban Torres has given himself a attn_acog.
+[17:38:56	]Esteban Torres has gained a 'ACOG' #2686751.
+[17:39:04	]Esteban Torres has given himself a uc_optic_eotech553.
+[17:39:04	]Esteban Torres has gained a 'EOTech 553 (HOLO)' #2686752.
+[17:39:19	]Esteban Torres exited observer at their location.
+[17:39:21	]Esteban Torres used the 'John Doe' vendor.
+[17:39:29	]Esteban Torres opened the 'Large Metal Cabinet' #120725 container.
+[17:39:32	]Esteban Torres closed the 'Large Metal Cabinet' #120725 container.
+[17:39:35	]Esteban Torres entered observer.
+[17:39:41	]Esteban Torres used command '/ToggleRaise'.
+[17:39:43	]Esteban Torres used command '/ToggleRaise'.
+[17:39:50	]Esteban Torres exited observer at their location.
+[17:39:51	]Esteban Torres has spawned a 'NPC [4416][npc_crow]'.
+[17:39:53	]Esteban Torres has spawned a 'NPC [6390][npc_monk]'.
+[17:39:58	]Esteban Torres has spawned a 'NPC [4416][npc_monk]'.
+[17:39:58	]Esteban Torres has spawned a 'NPC [6477][npc_monk]'.
+[17:39:58	]Esteban Torres has spawned a 'NPC [6480][npc_monk]'.
+[17:39:58	]Esteban Torres has spawned a 'NPC [6482][npc_monk]'.
+[17:39:58	]Esteban Torres has spawned a 'NPC [6484][npc_monk]'.
+[17:39:59	]Esteban Torres has spawned a 'NPC [6390][npc_monk]'.
+[17:40:14	]Esteban Torres has fired a toolgun with the name: creator
+[17:40:14	]Esteban Torres has spawned a 'Weapon [6489][arccw_ur_deagle]'.
+[17:40:14	]Esteban Torres has fired a toolgun with the name: creator
+[17:40:14	]Esteban Torres has spawned a 'Weapon [6490][arccw_ur_deagle]'.
+[17:40:14	]Esteban Torres has fired a toolgun with the name: creator
+[17:40:14	]Esteban Torres has spawned a 'Weapon [6491][arccw_ur_deagle]'.
+[17:40:15	]Esteban Torres has fired a toolgun with the name: creator
+[17:40:15	]Esteban Torres has spawned a 'Weapon [6492][arccw_ur_deagle]'.
+[17:40:18	]Esteban Torres used command '/ToggleRaise'.
+[17:40:45	]Esteban Torres entered observer.
+[17:40:46	]Esteban Torres exited observer at their location.
+[17:40:47	]Esteban Torres entered observer.
+[17:40:47	]Esteban Torres exited observer at their location.
+[17:40:57	]Esteban Torres used command '/ToggleRaise'.
+[17:40:59	]Esteban Torres has hit npc_monk in the chest dealing 5 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has hit npc_monk in the left arm dealing 1 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has hit npc_monk in the chest dealing 5 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has gained level 49 in the Guns skill.
+[17:40:59	]Esteban Torres has critically hit npc_monk in the chest dealing 0 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the left arm dealing 1 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has gained level 50 in the Guns skill.
+[17:40:59	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the left arm dealing 1 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has hit npc_monk in the head dealing 5 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the stomach dealing 8 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the left arm dealing 1 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the left arm dealing 4 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the stomach dealing 8 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the left arm dealing 0 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the left arm dealing 8 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the chest dealing 0 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the left arm dealing 8 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the left arm dealing 8 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the left arm dealing 8 damage (CritChance was 0.84).
+[17:40:59	]Esteban Torres has critically hit npc_monk in the left arm dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the left leg dealing 0 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the left arm dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the left leg dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the left arm dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the left leg dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the left leg dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the left leg dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the left leg dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the left leg dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the left leg dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the left leg dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the left leg dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the stomach dealing 1 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has hit npc_monk in the stomach dealing 5 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the right leg dealing 0 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the stomach dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the stomach dealing 2 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the stomach dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the left leg dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the stomach dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the right arm dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the right arm dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the stomach dealing 4 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has hit npc_monk in the stomach dealing 5 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the stomach dealing 3 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the stomach dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the stomach dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the stomach dealing 0 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the right arm dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the stomach dealing 8 damage (CritChance was 0.84).
+[17:41:00	]Esteban Torres has critically hit npc_monk in the right arm dealing 8 damage (CritChance was 0.84).
+[17:41:01	]Esteban Torres has critically hit npc_monk in the left leg dealing 8 damage (CritChance was 0.84).
+[17:41:01	]Esteban Torres has critically hit npc_monk in the left arm dealing 8 damage (CritChance was 0.84).
+[17:41:01	]Esteban Torres has critically hit npc_monk in the stomach dealing 8 damage (CritChance was 0.84).
+[17:41:01	]Esteban Torres has critically hit npc_monk in the left leg dealing 8 damage (CritChance was 0.84).
+[17:41:01	]Esteban Torres has critically hit npc_monk in the left leg dealing 3 damage (CritChance was 0.84).
+[17:41:01	]Esteban Torres has hit npc_monk in the right arm dealing 5 damage (CritChance was 0.84).
+[17:41:01	]Esteban Torres has critically hit npc_monk in the stomach dealing 8 damage (CritChance was 0.84).
+[17:41:01	]Esteban Torres has critically hit npc_monk in the left leg dealing 8 damage (CritChance was 0.84).
+[17:41:16	]Esteban Torres has given himself a ur_spas12_barrel_hl.
+[17:41:16	]Esteban Torres has gained a '21.5" Freeman Barrel' #2686753.
+[17:41:17	]Esteban Torres has critically hit npc_monk in the left leg dealing 8 damage (CritChance was 0.84).
+[17:41:17	]Esteban Torres has critically hit npc_monk in the left leg dealing 8 damage (CritChance was 0.84).
+[17:41:17	]Esteban Torres has critically hit npc_monk in the left leg dealing 8 damage (CritChance was 0.84).
+[17:41:17	]Esteban Torres has critically hit npc_monk in the left leg dealing 8 damage (CritChance was 0.84).
+[17:41:17	]Esteban Torres has critically hit npc_monk in the left leg dealing 8 damage (CritChance was 0.84).
+[17:41:17	]Esteban Torres has critically hit npc_monk in the left leg dealing 8 damage (CritChance was 0.84).
+[17:41:17	]Esteban Torres has critically hit npc_monk in the left leg dealing 8 damage (CritChance was 0.84).
+[17:41:18	]Esteban Torres has critically hit npc_monk in the stomach dealing 8 damage (CritChance was 0.84).
+[17:41:18	]Esteban Torres has critically hit npc_monk in the stomach dealing 8 damage (CritChance was 0.84).
+[17:41:18	]Esteban Torres has critically hit npc_monk in the stomach dealing 3 damage (CritChance was 0.84).
+[17:41:18	]Esteban Torres has critically hit npc_monk in the right arm dealing 8 damage (CritChance was 0.84).
+[17:41:18	]Esteban Torres has hit npc_monk in the stomach dealing 5 damage (CritChance was 0.84).
+[17:41:18	]Esteban Torres has critically hit npc_monk in the stomach dealing 3 damage (CritChance was 0.84).
+[17:41:18	]Esteban Torres has critically hit npc_monk in the right arm dealing 8 damage (CritChance was 0.84).
+[17:41:18	]Esteban Torres has critically hit npc_monk in the stomach dealing 8 damage (CritChance was 0.84).
+[17:41:18	]Esteban Torres has critically hit npc_monk in the stomach dealing 8 damage (CritChance was 0.84).
+[17:41:18	]Esteban Torres has hit npc_monk in the stomach dealing 5 damage (CritChance was 0.84).
+[17:41:19	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:19	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:19	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:19	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:19	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:19	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:19	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:19	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:20	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:20	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:20	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:20	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:20	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:20	]Esteban Torres has critically hit npc_monk in the left arm dealing 8 damage (CritChance was 0.84).
+[17:41:20	]Esteban Torres has hit npc_monk in the chest dealing 5 damage (CritChance was 0.84).
+[17:41:20	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:22	]Esteban Torres has critically hit npc_monk in the stomach dealing 8 damage (CritChance was 0.84).
+[17:41:22	]Esteban Torres has critically hit npc_monk in the stomach dealing 8 damage (CritChance was 0.84).
+[17:41:22	]Esteban Torres has critically hit npc_monk in the stomach dealing 8 damage (CritChance was 0.84).
+[17:41:22	]Esteban Torres has critically hit npc_monk in the right arm dealing 8 damage (CritChance was 0.84).
+[17:41:22	]Esteban Torres has hit npc_monk in the right arm dealing 5 damage (CritChance was 0.84).
+[17:41:22	]Esteban Torres has hit npc_monk in the stomach dealing 5 damage (CritChance was 0.84).
+[17:41:22	]Esteban Torres has hit npc_monk in the stomach dealing 5 damage (CritChance was 0.84).
+[17:41:22	]Esteban Torres has hit npc_monk in the right arm dealing 5 damage (CritChance was 0.84).
+[17:41:22	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:22	]Esteban Torres has critically hit npc_monk in the right arm dealing 8 damage (CritChance was 0.84).
+[17:41:22	]Esteban Torres has critically hit npc_monk in the stomach dealing 8 damage (CritChance was 0.84).
+[17:41:22	]Esteban Torres has hit npc_monk in the right arm dealing 5 damage (CritChance was 0.84).
+[17:41:23	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:23	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:23	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:41:23	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:41:23	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:23	]Esteban Torres has critically hit npc_monk in the right arm dealing 1 damage (CritChance was 0.84).
+[17:41:23	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:41:23	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:41:23	]Esteban Torres has critically hit npc_monk in the right arm dealing 8 damage (CritChance was 0.84).
+[17:41:23	]Esteban Torres has critically hit npc_monk in the right arm dealing 8 damage (CritChance was 0.84).
+[17:41:23	]Esteban Torres has critically hit npc_monk in the right arm dealing 8 damage (CritChance was 0.84).
+[17:41:23	]Esteban Torres has critically hit npc_monk in the right arm dealing 8 damage (CritChance was 0.84).
+[17:41:23	]Esteban Torres has critically hit npc_monk in the right arm dealing 8 damage (CritChance was 0.84).
+[17:41:23	]Esteban Torres has critically hit npc_monk in the right arm dealing 8 damage (CritChance was 0.84).
+[17:41:23	]Esteban Torres has critically hit npc_monk in the right arm dealing 8 damage (CritChance was 0.84).
+[17:41:23	]Esteban Torres has critically hit npc_monk in the right arm dealing 8 damage (CritChance was 0.84).
+[17:41:23	]Esteban Torres has hit npc_monk in the right arm dealing 5 damage (CritChance was 0.84).
+[17:41:32	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:32	]Esteban Torres has critically hit npc_monk in the left arm dealing 8 damage (CritChance was 0.84).
+[17:41:32	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:32	]Esteban Torres has critically hit npc_monk in the left arm dealing 8 damage (CritChance was 0.84).
+[17:41:32	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:32	]Esteban Torres has hit npc_monk in the left arm dealing 5 damage (CritChance was 0.84).
+[17:41:32	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:32	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:32	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:32	]Esteban Torres has critically hit npc_monk in the left arm dealing 8 damage (CritChance was 0.84).
+[17:41:32	]Esteban Torres has critically hit npc_monk in the left arm dealing 8 damage (CritChance was 0.84).
+[17:41:32	]Esteban Torres has hit npc_monk in the chest dealing 5 damage (CritChance was 0.84).
+[17:41:32	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:32	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:32	]Esteban Torres has critically hit npc_monk in the left arm dealing 8 damage (CritChance was 0.84).
+[17:41:32	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:33	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:33	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:33	]Esteban Torres has critically hit npc_monk in the chest dealing 8 damage (CritChance was 0.84).
+[17:41:35	]Esteban Torres entered observer.
+[17:41:36	]Esteban Torres exited observer at their location.
+[17:41:38	]Esteban Torres entered observer.
+[17:41:40	]Esteban Torres exited observer at their location.
+[17:41:46	]Esteban Torres ran 'Write' on item 'Your local plug' (#2648107)
+[17:41:48	]Esteban Torres entered observer.
+[17:41:58	]Esteban Torres exited observer at their location.
+[17:41:59	]Esteban Torres has given himself a cmb_par2.
+[17:41:59	]Esteban Torres has gained a 'Overwatch Standard-Issue Pulse Rifle' #2686754.
+[17:42:00	]Esteban Torres ran 'Equip' on item 'Overwatch Standard-Issue Pulse Rifle' (#2686754)
+[17:42:00	]Esteban Torres used command '/ToggleRaise'.
+[17:42:01	]Esteban Torres ran 'EquipUn' on item 'Suppressor Light Machinegun' (#2686747)
+[17:42:02	]Esteban Torres ran 'Equip' on item 'Overwatch Standard-Issue Pulse Rifle' (#2686754)
+[17:42:02	]Esteban Torres ran 'drop' on item 'Overwatch Standard-Issue Pulse Rifle' (#2686754)
+[17:42:02	]Esteban Torres has lost a 'Overwatch Standard-Issue Pulse Rifle' #2686754.
+[17:42:05	]Esteban Torres ran 'take' on item 'Overwatch Standard-Issue Pulse Rifle' (#2686754)
+[17:42:05	]Esteban Torres has gained a 'Overwatch Standard-Issue Pulse Rifle' #2686754.
+[17:42:06	]Esteban Torres ran 'Equip' on item 'Overwatch Standard-Issue Pulse Rifle' (#2686754)
+[17:42:07	]Esteban Torres used command '/ToggleRaise'.
+[17:42:30	]Esteban Torres entered observer.
+[17:42:41	]Esteban Torres exited observer at their location.
+[17:42:54	]Esteban Torres has given himself a tactical_eft_predator.
+[17:42:54	]Esteban Torres has gained a 'Predator Pro v3 XHP35 HI flashlight' #2686755.
+[17:42:59	]Esteban Torres has given himself a uc_optic_leupold_dppro.
+[17:42:59	]Esteban Torres has gained a 'Leupold DeltaPoint Pro Reflex Sight (LP)' #2686756.
+[17:43:00	]Esteban Torres has lost a 'Leupold DeltaPoint Pro Reflex Sight (LP)' #2686756.
+[17:43:04	]Esteban Torres has gained a 'Leupold DeltaPoint Pro Reflex Sight (LP)' #2686756.
+[17:43:06	]Esteban Torres has lost a 'Leupold DeltaPoint Pro Reflex Sight (LP)' #2686756.
+[17:43:16	]Esteban Torres entered observer.
+[17:43:18	]Esteban Torres exited observer at their location.
+[17:43:19	]Esteban Torres entered observer.
+[17:43:19	]Esteban Torres exited observer at their location.
+[17:43:21	]Esteban Torres has taken 26 damage from worldspawn.
+[17:43:43	]Esteban Torres entered observer.
+[17:43:49	]Esteban Torres destroyed a 'Spoiled Artificial Paste' #2662499.
+[17:44:01	]Esteban Torres destroyed a 'Construction Hat' #1313017.
+[17:45:02	]Esteban Torres exited observer at their location.
+[17:45:04	]Esteban Torres entered observer.
+[17:45:20	]Esteban Torres destroyed a 'Wooden Plank' #2686338.
+[17:45:27	]Esteban Torres destroyed a 'Cigarette' #2654079.
+[17:45:42	]Esteban Torres ran 'drop' on item 'Overwatch Standard-Issue Pulse Rifle' (#2686754)
+[17:45:42	]Esteban Torres has lost a 'Overwatch Standard-Issue Pulse Rifle' #2686754.
+[17:45:42	]Esteban Torres ran 'drop' on item 'Suppressor Light Machinegun' (#2686747)
+[17:45:42	]Esteban Torres has lost a 'Suppressor Light Machinegun' #2686747.
+[17:45:44	]Esteban Torres has given himself a cmb_psmg.
+[17:45:44	]Esteban Torres has gained a 'Overwatch Pulse Submachine-gun' #2686757.
+[17:45:46	]Esteban Torres ran 'Equip' on item 'Overwatch Pulse Submachine-gun' (#2686757)
+[17:45:46	]Esteban Torres used command '/ToggleRaise'.
+[17:45:47	]Esteban Torres exited observer at their location.
+[17:46:05	]Esteban Torres destroyed a 'Overwatch Standard-Issue Pulse Rifle' #2686754.
+[17:46:25	]Esteban Torres entered observer.
+[17:46:25	]Esteban Torres exited observer at their location.
+[17:46:26	]Esteban Torres entered observer.
+[17:46:26	]Esteban Torres exited observer at their location.
+[17:47:19	]Esteban Torres entered observer.
+[17:47:23	]Esteban Torres used command '/ToggleRaise'.
+[17:47:26	]Esteban Torres exited observer at their location.
+[17:47:27	]Esteban Torres entered observer.
+[17:47:27	]Esteban Torres exited observer at their location.
+[17:47:28	]Esteban Torres destroyed a 'Suppressor Light Machinegun' #2686747.
+[17:47:28	]Esteban Torres entered observer.
+[17:47:29	]Esteban Torres exited observer at their location.
+[17:47:30	]Esteban Torres entered observer.
+[17:47:30	]Esteban Torres exited observer at their location.
+[17:47:32	]Esteban Torres has given himself a cmb_spikewall.
+[17:47:32	]Esteban Torres has gained a 'Overwatch Heavy Shotgun' #2686758.
+[17:47:33	]Esteban Torres ran 'Equip' on item 'Overwatch Heavy Shotgun' (#2686758)
+[17:47:34	]Esteban Torres ran 'EquipUn' on item 'Overwatch Pulse Submachine-gun' (#2686757)
+[17:47:34	]Esteban Torres ran 'Equip' on item 'Overwatch Heavy Shotgun' (#2686758)
+[17:47:35	]Esteban Torres used command '/ToggleRaise'.
+[17:47:52	]Esteban Torres entered observer.
+[17:48:14	]Esteban Torres destroyed a 'Cooking pot' #2144949.
+[17:48:25	]Esteban Torres ran 'drop' on item 'Overwatch Heavy Shotgun' (#2686758)
+[17:48:25	]Esteban Torres has lost a 'Overwatch Heavy Shotgun' #2686758.
+[17:48:25	]Esteban Torres ran 'drop' on item 'Overwatch Pulse Submachine-gun' (#2686757)
+[17:48:25	]Esteban Torres has lost a 'Overwatch Pulse Submachine-gun' #2686757.
+[17:48:26	]Esteban Torres exited observer at their location.
+[17:48:27	]Esteban Torres entered observer.
+[17:48:27	]Esteban Torres exited observer at their location.
+[17:48:28	]Esteban Torres entered observer.
+[17:48:28	]Esteban Torres exited observer at their location.
+[17:48:29	]Esteban Torres entered observer.
+[17:48:29	]Esteban Torres exited observer at their location.
+[17:48:29	]Esteban Torres entered observer.
+[17:48:30	]Esteban Torres exited observer at their location.
+[17:48:30	]Esteban Torres entered observer.
+[17:48:30	]Esteban Torres has given himself a gen_m16.
+[17:48:31	]Esteban Torres has gained a 'M16A2' #2686759.
+[17:48:31	]Esteban Torres ran 'Equip' on item 'M16A2' (#2686759)
+[17:48:32	]Esteban Torres has lost a 'EOTech 553 (HOLO)' #2686752.
+[17:48:32	]Esteban Torres used command '/ToggleRaise'.
+[17:48:34	]Esteban Torres exited observer at their location.
+[17:48:38	]Esteban Torres has spawned a 'NPC [6413][npc_monk]'.
+[17:48:39	]Esteban Torres has critically hit npc_monk in the chest dealing 19 damage (CritChance was 1.01).
+[17:48:39	]Esteban Torres has critically hit npc_monk in the head dealing 19 damage (CritChance was 1.01).
+[17:48:39	]Esteban Torres has critically hit npc_monk in the chest dealing 19 damage (CritChance was 1.01).
+[17:48:39	]Esteban Torres has critically hit npc_monk in the chest dealing 19 damage (CritChance was 1.01).
+[17:48:39	]Esteban Torres has critically hit npc_monk in the chest dealing 19 damage (CritChance was 1.01).
+[17:48:39	]Esteban Torres has critically hit npc_monk in the head dealing 19 damage (CritChance was 1.01).
+[17:48:41	]Esteban Torres has spawned a 'NPC [6442][npc_monk]'.
+[17:48:41	]Esteban Torres has critically hit npc_monk in the chest dealing 19 damage (CritChance was 1.01).
+[17:48:41	]Esteban Torres has critically hit npc_monk in the head dealing 19 damage (CritChance was 1.01).
+[17:48:42	]Esteban Torres has critically hit npc_monk in the head dealing 19 damage (CritChance was 1.01).
+[17:48:42	]Esteban Torres has critically hit npc_monk in the head dealing 19 damage (CritChance was 1.01).
+[17:48:42	]Esteban Torres has critically hit npc_monk in the chest dealing 19 damage (CritChance was 1.01).
+[17:49:06	]Esteban Torres destroyed a 'Overwatch Heavy Shotgun' #2686758.
+[17:49:33	]Esteban Torres entered observer.
+[17:49:34	]Esteban Torres exited observer at their location.
+[17:49:36	]Esteban Torres has gained a 'EOTech 553 (HOLO)' #2686752.
+[17:49:37	]Esteban Torres entered observer.
+[17:49:39	]Esteban Torres exited observer at their location.
+[17:49:52	]Esteban Torres ran 'drop' on item 'M16A2' (#2686759)
+[17:49:52	]Esteban Torres has lost a 'M16A2' #2686759.
+[17:49:54	]Esteban Torres has given himself a res_ppsh.
+[17:49:54	]Esteban Torres has gained a 'PPSH-41' #2686760.
+[17:49:55	]Esteban Torres ran 'Equip' on item 'PPSH-41' (#2686760)
+[17:49:56	]Esteban Torres used command '/ToggleRaise'.
+[17:50:12	]Esteban Torres destroyed a 'M16A2' #2686759.
+[17:50:14	]Esteban Torres ran 'drop' on item 'PPSH-41' (#2686760)
+[17:50:14	]Esteban Torres has lost a 'PPSH-41' #2686760.
+[17:50:18	]Esteban Torres has used a context menu option with the name: remove
+[17:50:27	]Esteban Torres has given himself a res_155.
+[17:50:27	]Esteban Torres has gained a 'MP-155' #2686761.
+[17:50:28	]Esteban Torres ran 'Equip' on item 'MP-155' (#2686761)
+[17:50:28	]Esteban Torres used command '/ToggleRaise'.
+[17:50:37	]Esteban Torres has given himself a kit_eft_mp155_ultima.
+[17:50:37	]Esteban Torres has gained a 'Ultima bodykit' #2686762.
+[17:50:38	]Esteban Torres has given himself a tac_eft_mp155_ultima_camera.
+[17:50:38	]Esteban Torres has gained a 'MP-155 Ultima thermal camera' #2686763.
+[17:50:39	]Esteban Torres has given himself a stock_eft_mp155_ultima_l.
+[17:50:40	]Esteban Torres has gained a 'Ultima polymer stock (large recoil pad)' #2686764.
+[17:50:41	]Esteban Torres has lost a 'Ultima bodykit' #2686762.
+[17:50:45	]Esteban Torres has lost a 'Ultima polymer stock (large recoil pad)' #2686764.
+[17:50:47	]Esteban Torres has lost a 'MP-155 Ultima thermal camera' #2686763.
+[17:50:54	]Esteban Torres has spawned a 'NPC [6413][npc_monk]'.
+[17:51:21	]Esteban Torres has hit npc_monk in the head dealing 4 damage (CritChance was 0.84).
+[17:51:21	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:21	]Esteban Torres has critically hit npc_monk in the chest dealing 7 damage (CritChance was 0.84).
+[17:51:21	]Esteban Torres has hit npc_monk in the head dealing 4 damage (CritChance was 0.84).
+[17:51:21	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:21	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:21	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:22	]Esteban Torres has critically hit npc_monk in the left arm dealing 7 damage (CritChance was 0.84).
+[17:51:22	]Esteban Torres has hit npc_monk in the left arm dealing 4 damage (CritChance was 0.84).
+[17:51:22	]Esteban Torres has critically hit npc_monk in the chest dealing 7 damage (CritChance was 0.84).
+[17:51:22	]Esteban Torres has critically hit npc_monk in the chest dealing 7 damage (CritChance was 0.84).
+[17:51:22	]Esteban Torres has hit npc_monk in the left arm dealing 4 damage (CritChance was 0.84).
+[17:51:22	]Esteban Torres has critically hit npc_monk in the left arm dealing 7 damage (CritChance was 0.84).
+[17:51:22	]Esteban Torres has critically hit npc_monk in the left arm dealing 7 damage (CritChance was 0.84).
+[17:51:22	]Esteban Torres has critically hit npc_monk in the chest dealing 7 damage (CritChance was 0.84).
+[17:51:25	]Esteban Torres has spawned a 'NPC [6473][npc_monk]'.
+[17:51:25	]Esteban Torres has spawned a 'NPC [6413][npc_monk]'.
+[17:51:25	]Esteban Torres has spawned a 'NPC [6478][npc_monk]'.
+[17:51:25	]Esteban Torres has spawned a 'NPC [6481][npc_monk]'.
+[17:51:25	]Esteban Torres has spawned a 'NPC [6483][npc_monk]'.
+[17:51:25	]Esteban Torres has spawned a 'NPC [6485][npc_monk]'.
+[17:51:32	]Esteban Torres has critically hit npc_monk in the right arm dealing 3 damage (CritChance was 0.84).
+[17:51:32	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:32	]Esteban Torres has critically hit npc_monk in the right arm dealing 1 damage (CritChance was 0.84).
+[17:51:32	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:32	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:32	]Esteban Torres has critically hit npc_monk in the chest dealing 0 damage (CritChance was 0.84).
+[17:51:32	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:32	]Esteban Torres has critically hit npc_monk in the chest dealing 1 damage (CritChance was 0.84).
+[17:51:32	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:32	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:32	]Esteban Torres has critically hit npc_monk in the right arm dealing 4 damage (CritChance was 0.84).
+[17:51:32	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:32	]Esteban Torres has critically hit npc_monk in the right arm dealing 3 damage (CritChance was 0.84).
+[17:51:32	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:33	]Esteban Torres has critically hit npc_monk in the stomach dealing 4 damage (CritChance was 0.84).
+[17:51:33	]Esteban Torres has critically hit npc_monk in the chest dealing 7 damage (CritChance was 0.84).
+[17:51:33	]Esteban Torres has hit npc_monk in the chest dealing 4 damage (CritChance was 0.84).
+[17:51:33	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:33	]Esteban Torres has critically hit npc_monk in the chest dealing 4 damage (CritChance was 0.84).
+[17:51:33	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:33	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:33	]Esteban Torres has critically hit npc_monk in the chest dealing 5 damage (CritChance was 0.84).
+[17:51:33	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:33	]Esteban Torres has critically hit npc_monk in the stomach dealing 5 damage (CritChance was 0.84).
+[17:51:33	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:33	]Esteban Torres has critically hit npc_monk in the chest dealing 4 damage (CritChance was 0.84).
+[17:51:33	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:33	]Esteban Torres has critically hit npc_monk in the right arm dealing 5 damage (CritChance was 0.84).
+[17:51:33	]Esteban Torres has hit npc_monk in the chest dealing 4 damage (CritChance was 0.84).
+[17:51:36	]Esteban Torres has hit npc_monk in the chest dealing 4 damage (CritChance was 0.84).
+[17:51:36	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:36	]Esteban Torres has critically hit npc_monk in the right arm dealing 7 damage (CritChance was 0.84).
+[17:51:36	]Esteban Torres has critically hit npc_monk in the chest dealing 7 damage (CritChance was 0.84).
+[17:51:36	]Esteban Torres has critically hit npc_monk in the right arm dealing 7 damage (CritChance was 0.84).
+[17:51:36	]Esteban Torres has critically hit npc_monk in the chest dealing 0 damage (CritChance was 0.84).
+[17:51:36	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:36	]Esteban Torres has critically hit npc_monk in the right arm dealing 7 damage (CritChance was 0.84).
+[17:51:36	]Esteban Torres has critically hit npc_monk in the right arm dealing 7 damage (CritChance was 0.84).
+[17:51:44	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:44	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:44	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:44	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:44	]Esteban Torres has hit npc_monk in the head dealing 4 damage (CritChance was 0.84).
+[17:51:44	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:44	]Esteban Torres has hit npc_monk in the head dealing 4 damage (CritChance was 0.84).
+[17:51:44	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:44	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:44	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:51:51	]Esteban Torres has spawned a 'NPC [6473][npc_headcrab]'.
+[17:51:52	]Esteban Torres has critically hit npc_headcrab dealing 7 damage (CritChance was 0.84).
+[17:51:52	]Esteban Torres has critically hit npc_headcrab dealing 7 damage (CritChance was 0.84).
+[17:51:53	]Esteban Torres has spawned a 'NPC [6476][npc_headcrab]'.
+[17:51:54	]Esteban Torres has taken 5 damage from npc_headcrab.
+[17:51:54	]Esteban Torres has spawned a 'NPC [6478][npc_headcrab]'.
+[17:51:56	]Esteban Torres has critically hit npc_headcrab dealing 7 damage (CritChance was 0.84).
+[17:51:56	]Esteban Torres has critically hit npc_headcrab dealing 7 damage (CritChance was 0.84).
+[17:52:03	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:52:03	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:52:03	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:52:03	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:52:03	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:52:03	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:52:03	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:52:03	]Esteban Torres has critically hit npc_monk in the head dealing 7 damage (CritChance was 0.84).
+[17:52:06	]Esteban Torres has spawned a 'NPC [6473][npc_fastzombie]'.
+[17:52:06	]Esteban Torres has critically hit npc_fastzombie in the head dealing 7 damage (CritChance was 0.84).
+[17:52:06	]Esteban Torres has critically hit npc_fastzombie in the head dealing 7 damage (CritChance was 0.84).
+[17:52:06	]Esteban Torres has critically hit npc_fastzombie in the head dealing 7 damage (CritChance was 0.84).
+[17:52:06	]Esteban Torres has critically hit npc_fastzombie in the head dealing 7 damage (CritChance was 0.84).
+[17:52:09	]Esteban Torres has spawned a 'NPC [6413][npc_fastzombie]'.
+[17:52:10	]Esteban Torres has taken 3 damage from npc_fastzombie.
+[17:52:10	]Esteban Torres has taken 3 damage from npc_fastzombie.
+[17:52:10	]Esteban Torres has critically hit npc_fastzombie dealing 0 damage (CritChance was 0.84).
+[17:52:10	]Esteban Torres has critically hit npc_fastzombie in the head dealing 7 damage (CritChance was 0.84).
+[17:52:10	]Esteban Torres has critically hit npc_fastzombie dealing 0 damage (CritChance was 0.84).
+[17:52:10	]Esteban Torres has critically hit npc_fastzombie in the head dealing 7 damage (CritChance was 0.84).
+[17:52:10	]Esteban Torres has critically hit npc_fastzombie in the head dealing 7 damage (CritChance was 0.84).
+[17:52:10	]Esteban Torres has critically hit npc_fastzombie in the head dealing 7 damage (CritChance was 0.84).
+[17:52:24	]Esteban Torres has given himself a gen_mp5sd.
+[17:52:24	]Esteban Torres has gained a 'MP5-SD' #2686765.
+[17:52:24	]Esteban Torres ran 'drop' on item 'MP-155' (#2686761)
+[17:52:24	]Esteban Torres has lost a 'MP-155' #2686761.
+[17:52:26	]Esteban Torres ran 'Equip' on item 'MP5-SD' (#2686765)
+[17:52:26	]Esteban Torres used command '/ToggleRaise'.
+[17:52:28	]Esteban Torres entered observer.
+[17:52:46	]Esteban Torres destroyed a 'Spoiled Artificial Paste' #2630773.
+[17:53:00	]Esteban Torres destroyed a 'Handheld Radio' #2505365.
+[17:53:06	]Esteban Torres destroyed a 'MP-155' #2686761.
+[17:53:11	]Esteban Torres exited observer at their location.
+[17:53:12	]Esteban Torres ran 'drop' on item 'MP5-SD' (#2686765)
+[17:53:12	]Esteban Torres has lost a 'MP5-SD' #2686765.
+[17:53:16	]Esteban Torres has given himself a gen_awp.
+[17:53:16	]Esteban Torres has gained a 'AWP' #2686766.
+[17:53:17	]Esteban Torres ran 'Equip' on item 'AWP' (#2686766)
+[17:53:17	]Esteban Torres used command '/ToggleRaise'.
+[17:53:20	]Esteban Torres entered observer.
+[17:53:39	]Esteban Torres used command '/ToggleRaise'.
+[17:53:40	]Esteban Torres exited observer at their location.
+[17:53:41	]Esteban Torres used command '/ToggleRaise'.
+[17:53:50	]Esteban Torres has given himself a uc_muzzle_supp_giraffe.
+[17:53:50	]Esteban Torres has gained a 'ATA Giraffe Suppressor' #2686767.
+[17:53:51	]Esteban Torres has lost a 'ATA Giraffe Suppressor' #2686767.
+[17:53:55	]Esteban Torres entered observer.
+[17:54:04	]Esteban Torres exited observer at their location.
+[17:54:07	]Esteban Torres entered observer.
+[17:54:07	]Esteban Torres exited observer at their location.
+[17:54:09	]Esteban Torres used command '/ShowEdicts'.
+[17:54:10	]Esteban Torres entered observer.
+[17:54:10	]Esteban Torres exited observer at their location.
+[17:54:13	]Esteban Torres entered observer.
+[17:54:13	]Esteban Torres exited observer at their location.
+[17:54:16	]Esteban Torres entered observer.
+[17:54:21	]Esteban Torres destroyed a '15 Credits Coupon' #2686566.
+[17:54:35	]Esteban Torres used command '/ShowEdicts'.
+[17:54:45	]Esteban Torres destroyed a 'PROSPERITY FOR ALL' #2553908.
+[17:55:00	]Esteban Torres destroyed a 'Model 329PD' #2686691.
+[17:55:04	]ulterior (STEAM_0:0:137846702) has disconnected.
