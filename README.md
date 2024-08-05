@@ -16,8 +16,8 @@ Helix logs are included in builds below (data/helix/logs).
   * [Willard Networks: Poland (Veles)](https://github.com/lifestorm/wnsrc/tree/wn-pl)
   * [Willard Networks: Turkiye](https://github.com/lifestorm/wnsrc/tree/wn-tr)
 * **Forum**\
-Information about forum users obtained through the forum API.\
-It contains e-mail addresses. Does not contain authentication data.
-  * [Users data stack](https://github.com/lifestorm/wnsrc/tree/forum)
+Information about forum users obtained through the XenForo API.\
+Contains e-mail addresses. Does not contain any respected authentication data.
+  * [Forum users data stack](https://github.com/lifestorm/wnsrc/tree/forum)
 
 **© 2024 Bluntsmoke, Inc.**
