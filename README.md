@@ -1,3 +1,5 @@
+![RADIOBOB](https://i.imgur.com/2sBHXrS.png)
+
 # Willard Networks: Community Edition
 **We provide these files as is**. While you shouldn't use them like this on a production server, it's a good start for your own Willard Networks branch server! We don't provide direct support, but you can create an issue in this repository.
 
@@ -8,7 +10,7 @@ Helix logs are included in builds below (data/helix/logs).
 
 
   * [Willard Networks: Development Server](https://google.com)
-  * [Willard Networks: France (Echo One)](https://google.com)
+  * [Willard Networks: France (Echo One) )](https://google.com)
   * [Willard Networks: Poland (Veles)](https://google.com)
   * [Willard Networks: Turkey](https://google.com)
 * **Forum**\
