@@ -1,0 +1,115 @@
+[23:27:04	]Hayden has connected.
+[23:27:31	]Hayden loaded the character 'Hayden'
+[23:27:35	]Hayden entered observer.
+[23:28:47	]Hayden exited observer at their location.
+[23:29:38	]Hayden entered observer.
+[23:29:38	]Hayden exited observer at their location.
+[23:29:41	]Hayden entered observer.
+[23:29:42	]Hayden exited observer at their location.
+[23:29:44	]Hayden entered observer.
+[23:29:46	]Hayden exited observer at their location.
+[23:29:48	]Hayden entered observer.
+[23:29:49	]Hayden exited observer at their location.
+[23:29:52	]Hayden entered observer.
+[23:29:53	]Hayden exited observer at their location.
+[23:29:55	]Hayden entered observer.
+[23:29:56	]Hayden exited observer at their location.
+[23:29:59	]Hayden entered observer.
+[23:30:27	]Hayden exited observer at their location.
+[23:30:32	]Hayden (STEAM_0:1:22038366) has disconnected.
+[23:34:58	]Hayden has connected.
+[23:35:31	]Hayden loaded the character 'Hayden'
+[23:36:12	]Hayden has spawned a planter_placer.
+[23:37:42	]Hayden has used a context menu option with the name: remove
+[23:37:44	]Hayden has given himself a planter_placer.
+[23:37:44	]Hayden has gained a 'Planter' #602.
+[23:37:46	]Hayden ran 'place' on item 'Planter' (#602)
+[23:38:01	]Hayden has given himself a advanced_fertilizer.
+[23:38:01	]Hayden has gained a 'Advanced Fertilizer' #603.
+[23:38:03	]Hayden has given himself a seed_apple.
+[23:38:03	]Hayden has gained a 'Apple Seeds' #604.
+[23:38:04	]Hayden has given himself a water_bucket.
+[23:38:04	]Hayden has gained a 'Water Bucket' #605.
+[23:43:13	]reece has connected.
+[23:43:24	]Hayden used command '/PlyGiveAllFlags Hayden'.
+[23:44:44	]Hayden has given himself a seed_apple.
+[23:44:44	]Hayden has gained a 'Apple Seeds' #606.
+[23:44:45	]Hayden has given himself a seed_banana.
+[23:44:45	]Hayden has gained a 'Banana Seeds' #607.
+[23:44:46	]Hayden has given himself a seed_berries.
+[23:44:46	]Hayden has gained a 'Berries Seeds' #608.
+[23:44:48	]Hayden has given himself a fertilizer.
+[23:44:48	]Hayden has gained a 'Fertilizer' #609.
+[23:44:48	]Hayden entered observer.
+[23:44:52	]Hayden exited observer at their location.
+[23:45:32	]Hayden has spawned a 'Entity [190][ix_watercache]'.
+[23:45:45	]Hayden has given himself a watervalve.
+[23:45:45	]Hayden has gained a 'Water Valve' #610.
+[23:45:48	]Hayden ran 'Place' on item 'Water Valve' (#610)
+[23:45:48	]Hayden has lost a 'Water Valve' #610.
+[23:45:55	]Hayden ran 'fill' on item 'Water Bucket' (#605)
+[23:45:59	]Hayden ran 'fill' on item 'Water Bucket' (#404)
+[23:46:02	]Hayden ran 'take' on item 'Water Valve' (#610)
+[23:46:02	]Hayden has gained a 'Water Valve' #610.
+[23:46:08	]Hayden ran 'Place' on item 'Water Valve' (#610)
+[23:46:08	]Hayden has lost a 'Water Valve' #610.
+[23:46:13	]Hayden ran 'Water' on item 'Water Bucket' (#404)
+[23:46:14	]Hayden ran 'fill' on item 'Water Bucket' (#404)
+[23:46:16	]Hayden ran 'fill' on item 'Water Bucket' (#404)
+[23:46:16	]Hayden ran 'fill' on item 'Water Bucket' (#404)
+[23:46:17	]Hayden ran 'fill' on item 'Water Bucket' (#404)
+[23:46:20	]Hayden ran 'plant' on item 'Apple Seeds' (#606)
+[23:46:25	]Hayden ran 'Water' on item 'Fertilizer' (#609)
+[23:46:41	]Hayden has fired a toolgun with the name: dynamite
+[23:46:50	]Hayden ran 'plant' on item 'Apple Seeds' (#606)
+[23:46:53	]Hayden ran 'plant' on item 'Banana Seeds' (#607)
+[23:46:53	]Hayden ran 'plant' on item 'Berries Seeds' (#608)
+[23:47:21	]Hayden has spawned a 'Entity [193][wn_crop]'.
+[23:47:28	]Hayden ran 'plant' on item 'Apple Seeds' (#606)
+[23:47:30	]Hayden ran 'Water' on item 'Water Bucket' (#404)
+[23:47:32	]Hayden ran 'Water' on item 'Advanced Fertilizer' (#603)
+[23:47:33	]reece loaded the character 'fwafgawawf'
+[23:47:42	]fwafgawawf entered observer.
+[23:47:44	]fwafgawawf exited observer at their location.
+[23:47:49	]fwafgawawf ran 'use' on item 'Levothyroxine (thyroid)' (#200)
+[23:47:49	]fwafgawawf has performed the 'Use Levothyroxine (thyroid)' action, gaining 15 experience in medicine.
+[23:47:49	]fwafgawawf was disinfected by fwafgawawf for 40 seconds.
+[23:47:49	]fwafgawawf was bandaged by fwafgawawf for 5 HP.
+[23:47:49	]fwafgawawf extended their level 1 short boost in Intelligence.
+[23:47:53	]fwafgawawf used command '/PlaySound npc/stalker/go_alert2a.wav 500'.
+[23:47:57	][IC] Hayden: Hi.
+[23:47:59	][IC] fwafgawawf: Hi.
+[23:48:04	][IC] Hayden: Stuff is bugged rn.
+[23:48:05	][IC] fwafgawawf: I see you're doing the testing.
+[23:48:06	]fwafgawawf used command '/ToggleRaise'.
+[23:48:07	][IC] fwafgawawf: Oh.
+[23:48:08	]fwafgawawf used command '/ToggleRaise'.
+[23:48:15	][IC] Hayden: Can you try spawning something from WN content pack.
+[23:48:21	]Hayden used command '/PlyGiveFlag fwafga'.
+[23:48:24	][IC] fwafgawawf: Like an item?
+[23:48:25	]Hayden used command '/PlyGiveFlag fwafgawawf CFJLMNQTUacefnpqrt'.
+[23:48:29	][IC] Hayden: Prop.
+[23:48:44	][IC] fwafgawawf: Nope.
+[23:48:46	][IC] fwafgawawf: Doesn't spawn.
+[23:48:46	][IC] Hayden: Nice.
+[23:48:53	][IC] Hayden: Content is FUCKED it's joever.
+[23:48:53	]fwafgawawf used command '/CharGiveFlag Fwa pet'.
+[23:49:38	][IC] fwafgawawf: Okay!
+[23:49:48	][IC] fwafgawawf: I guess we can't do much other than blame GB right?
+[23:49:49	][IC] Hayden: I've told Votton he's confused too.
+[23:49:59	][IC] Hayden: Always blame the dev.
+[23:50:01	][IC] Hayden: Yes.
+[23:50:03	][IC] fwafgawawf: Yes.
+[23:50:12	][IC] Hayden: Jk it's prolly just content mismatch or smth.
+[23:50:18	][IC] Hayden: I'm gonna test it on main instead.
+[23:50:22	]Hayden entered observer.
+[23:50:23	][IC] fwafgawawf: Okay!
+[23:50:23	]Hayden exited observer at their location.
+[23:50:24	]Hayden was knocked unconscious and is bleeding out.
+[23:50:25	]fwafgawawf entered observer.
+[23:50:26	]fwafgawawf exited observer at their location.
+[23:50:27	]Hayden ran SAM command 'respawn' with arguments: ''
+[23:50:27	]fwafgawawf has taken 20 damage from worldspawn.
+[23:50:31	]Hayden is fully healed.
+[23:50:34	]reece (STEAM_0:1:158746618) has disconnected.
+[23:50:45	]Hayden (STEAM_0:1:22038366) has disconnected.

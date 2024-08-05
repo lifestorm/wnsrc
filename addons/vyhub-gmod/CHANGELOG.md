@@ -1,0 +1,1 @@
+- Add delay for player refresh after group change

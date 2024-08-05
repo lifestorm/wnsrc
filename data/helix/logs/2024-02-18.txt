@@ -1,0 +1,85 @@
+[13:05:52	]Mango has connected.
+[13:06:45	]Mango loaded the character 'Synthesis'
+[13:06:50	]Synthesis is fully healed.
+[13:07:01	]Synthesis entered observer.
+[13:07:12	]Synthesis used command '/NPCAreas'.
+[13:07:19	]Rabithunter has connected.
+[13:08:07	]Rabithunter loaded the character 'Administrator Markie-O'Vello'
+[13:08:08	]Administrator Markie-O'Vello has taken 30 damage from Gonome.
+[13:08:10	]Administrator Markie-O'Vello has taken 45 damage from Gonome.
+[13:08:10	]Administrator Markie-O'Vello has taken 4 damage from Zombie Scientist.
+[13:08:10	]Administrator Markie-O'Vello was knocked unconscious and is bleeding out.
+[13:08:17	][OOC] Synthesis: RABIT YOU SCARED ME
+[13:08:19	][OOC] Synthesis: SO MUCH
+[13:08:24	]Administrator Markie-O'Vello ran SAM command 'respawn' with arguments: 'vello'
+[13:08:24	]Administrator Markie-O'Vello has taken 5 damage from Zombie Scientist.
+[13:08:24	]Administrator Markie-O'Vello has taken 45 damage from Gonome.
+[13:08:24	]Administrator Markie-O'Vello has taken 45 damage from Gonome.
+[13:08:25	]Administrator Markie-O'Vello entered observer.
+[13:08:25	]Administrator Markie-O'Vello was knocked unconscious and is bleeding out.
+[13:08:25	]Administrator Markie-O'Vello used command '/CharGetUp'.
+[13:08:28	]Synthesis used command '/removeAllNPCS'.
+[13:08:29	]Administrator Markie-O'Vello ran SAM command 'respawn' with arguments: 'vello'
+[13:08:30	]Administrator Markie-O'Vello entered observer.
+[13:08:32	]Administrator Markie-O'Vello is fully healed.
+[13:08:35	][OOC] Administrator Markie-O'Vello: LOL
+[13:08:41	][OOC] Synthesis: Try to get on your char again
+[13:08:53	][OOC] Administrator Markie-O'Vello: sorry do what?
+[13:09:00	][OOC] Synthesis: like, unload and get on the character
+[13:09:01	][OOC] Administrator Markie-O'Vello: im all good lol
+[13:09:06	][OOC] Administrator Markie-O'Vello: oh right
+[13:09:09	]Administrator Markie-O'Vello exited observer at their location.
+[13:09:17	]Rabithunter loaded the character 'Frank Masters'
+[13:09:29	]Rabithunter loaded the character 'Administrator Markie-O'Vello'
+[13:09:35	]Administrator Markie-O'Vello entered observer.
+[13:09:41	][OOC] Administrator Markie-O'Vello: im on
+[13:09:43	][OOC] Synthesis: ooh okay I thought something of the code was wront
+[13:09:46	][OOC] Synthesis: wrong*
+[13:09:49	][OOC] Synthesis: how are youuuu
+[13:09:55	][OOC] Administrator Markie-O'Vello: nah was where I despawned lmao
+[13:10:02	]Synthesis has used a context menu option with the name: vj_pr_npc_slay
+[13:10:03	][OOC] Administrator Markie-O'Vello: I am gooooooooood! And you?
+[13:10:08	][OOC] Synthesis: i'm okiiiiiiiiiii
+[13:10:12	][OOC] Administrator Markie-O'Vello: Awesome!
+[13:10:15	]Synthesis has used a context menu option with the name: npc_smaller
+[13:10:17	]Synthesis has used a context menu option with the name: npc_smaller
+[13:10:20	]Synthesis has used a context menu option with the name: vj_pr_npc_slay
+[13:10:31	]Synthesis used command '/NPCAreas'.
+[13:10:33	][Area-Based NPC Spawner] Synthesis has removed area spawner: test at New Area
+[13:10:34	]Administrator Markie-O'Vello used command '/CityFundEditor'.
+[13:10:41	]Synthesis used command '/NPCAreas'.
+[13:11:36	]Synthesis exited observer at their location.
+[13:11:42	]Administrator Markie-O'Vello exited observer at their location.
+[13:12:32	][IC] Synthesis: I found an error.
+[13:12:38	][IC] Administrator Markie-O'Vello: Oh?
+[13:12:47	][IC] Synthesis: Nice hair.
+[13:13:08	][IC] Synthesis: Also did you need to test something? The branch is not develop rn.
+[13:13:31	]Synthesis has used a context menu option with the name: remove
+[13:13:32	]Synthesis has used a context menu option with the name: remove
+[13:13:35	][IC] Administrator Markie-O'Vello: Nah just came to check the city funds thing. I setup a fwe things to test them during the week.
+[13:13:43	][IC] Administrator Markie-O'Vello: Variables seem to be holding.
+[13:13:44	][IC] Synthesis: OH.
+[13:13:50	][IC] Synthesis: Yayy.
+[13:13:57	][IC] Synthesis: I'll go do some more testing on my server.
+[13:14:03	][IC] Synthesis: U take care and and.
+[13:14:06	][IC] Administrator Markie-O'Vello: On the NPCs?
+[13:14:06	][IC] Synthesis: Keep being awesome.
+[13:14:08	][IC] Synthesis: Yus.
+[13:14:15	][IC] Administrator Markie-O'Vello: You can test here lol.
+[13:14:20	][IC] Administrator Markie-O'Vello: I wont be doing much.
+[13:14:38	][IC] Synthesis: Yes but on my own server I can change branch quickly and make changes, it has barebones.
+[13:14:51	][IC] Synthesis: I got a dedicated dev server.
+[13:14:54	][IC] Administrator Markie-O'Vello: Aye faiur enough. Be goooooooooooood and stay EPIC!
+[13:15:00	][ME] Synthesis: highfives
+[13:15:06	][ME] Administrator Markie-O'Vello: returns the high five
+[13:15:09	][IC] Synthesis: Success!
+[13:15:13	][IC] Administrator Markie-O'Vello: Yeah!
+[13:15:14	]Mango (STEAM_0:0:544539350) has disconnected.
+[13:15:24	]Administrator Markie-O'Vello used command '/CityFundEditor'.
+[13:15:49	]Rabithunter (STEAM_0:1:22394854) has disconnected.
+[15:11:56	]Rabithunter has connected.
+[15:15:02	]Rabithunter loaded the character 'Administrator Markie-O'Vello'
+[15:16:31	]Rabithunter (STEAM_0:1:22394854) has disconnected.
+[15:19:00	]Rabithunter has connected.
+[15:19:55	]Rabithunter loaded the character 'Melissa Haroldson'
+[15:22:29	]Rabithunter (STEAM_0:1:22394854) has disconnected.

@@ -1,0 +1,1048 @@
+[11:37:44	]Furret No Furry Asimo has connected.
+[11:38:25	]Furret No Furry Asimo loaded the character 'C24:i69.AMPUTADO-420'
+[11:38:29	]C24:i69.AMPUTADO-420 is fully healed.
+[11:38:54	]C24:i69.AMPUTADO-420 has given himself a res_akm.
+[11:38:54	]C24:i69.AMPUTADO-420 has gained a 'AKM' #2688798.
+[11:38:55	]C24:i69.AMPUTADO-420 ran 'Equip' on item 'AKM' (#2688798)
+[11:38:55	]C24:i69.AMPUTADO-420 used command '/ToggleRaise'.
+[11:38:58	]C24:i69.AMPUTADO-420 used command '/ToggleRaise'.
+[11:39:13	]C24:i69.AMPUTADO-420 used command '/CharSkillSet ^ gun 0'.
+[11:39:18	]C24:i69.AMPUTADO-420 has gained level 50 in the Guns skill.
+[11:39:18	]C24:i69.AMPUTADO-420 used command '/CharSkillSet ^ gun 50'.
+[11:39:20	]C24:i69.AMPUTADO-420 used command '/CharSkillSet ^ gun 0'.
+[11:39:22	]C24:i69.AMPUTADO-420 has gained level 50 in the Guns skill.
+[11:39:22	]C24:i69.AMPUTADO-420 used command '/CharSkillSet ^ gun 50'.
+[11:39:23	]C24:i69.AMPUTADO-420 used command '/CharSkillSet ^ gun 0'.
+[11:39:32	]C24:i69.AMPUTADO-420 has spawned 'models/props_c17/door01_left.mdl'.
+[11:39:37	]C24:i69.AMPUTADO-420 has spawned 'models/props_c17/door01_left.mdl'.
+[11:39:41	]C24:i69.AMPUTADO-420 has spawned 'models/props_c17/door01_left.mdl'.
+[11:39:45	]C24:i69.AMPUTADO-420 used command '/ToggleRaise'.
+[11:40:16	]C24:i69.AMPUTADO-420 has gained level 25 in the Guns skill.
+[11:40:16	]C24:i69.AMPUTADO-420 used command '/CharSkillSet ^ gun 25'.
+[11:40:34	]C24:i69.AMPUTADO-420 has gained level 50 in the Guns skill.
+[11:40:34	]C24:i69.AMPUTADO-420 used command '/CharSkillSet ^ gun 50'.
+[11:41:21	]C24:i69.AMPUTADO-420 has spawned a 'Entity [6375][arccw_ammo_plinking_large]'.
+[11:41:21	]C24:i69.AMPUTADO-420 has spawned a 'Entity [6384][arccw_ammo_plinking_large]'.
+[11:41:21	]C24:i69.AMPUTADO-420 has spawned a 'Entity [6385][arccw_ammo_plinking_large]'.
+[11:41:22	]C24:i69.AMPUTADO-420 has spawned a 'Entity [6375][arccw_ammo_ar2_large]'.
+[11:41:22	]C24:i69.AMPUTADO-420 has spawned a 'Entity [6384][arccw_ammo_ar2_large]'.
+[11:41:32	]C24:i69.AMPUTADO-420 has spawned a 'NPC [6375][npc_zombie]'.
+[11:41:33	]C24:i69.AMPUTADO-420 has hit npc_zombie in the head dealing 14 damage (CritChance was 0.14).
+[11:41:34	]C24:i69.AMPUTADO-420 has critically hit npc_zombie in the chest dealing 21 damage (CritChance was 0.43).
+[11:41:34	]C24:i69.AMPUTADO-420 has hit npc_zombie in the head dealing 14 damage (CritChance was 0.14).
+[11:41:34	]C24:i69.AMPUTADO-420 has hit npc_zombie in the head dealing 14 damage (CritChance was 0.14).
+[11:41:34	]C24:i69.AMPUTADO-420 has hit npc_zombie in the head dealing 14 damage (CritChance was 0.14).
+[11:42:07	]C24:i69.AMPUTADO-420 entered observer.
+[11:42:07	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:42:08	]C24:i69.AMPUTADO-420 entered observer.
+[11:42:09	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:42:21	]C24:i69.AMPUTADO-420 has spawned a 'NPC [6375][npc_antlion]'.
+[11:42:21	]C24:i69.AMPUTADO-420 has critically hit npc_antlion dealing 16 damage (CritChance was 0.72).
+[11:42:22	]C24:i69.AMPUTADO-420 has taken 5 damage from npc_antlion.
+[11:42:22	]C24:i69.AMPUTADO-420 has critically hit npc_antlion dealing 16 damage (CritChance was 0.72).
+[11:42:30	]C24:i69.AMPUTADO-420 has spawned a 'NPC [6375][npc_vj_civil_protection_z]'.
+[11:42:32	]C24:i69.AMPUTADO-420 has hit npc_vj_civil_protection_z in the head dealing 14 damage (CritChance was 0.14).
+[11:42:35	]C24:i69.AMPUTADO-420 has hit npc_vj_civil_protection_z in the chest dealing 11 damage (CritChance was 0.43).
+[11:42:35	]C24:i69.AMPUTADO-420 has hit npc_vj_civil_protection_z in the head dealing 14 damage (CritChance was 0.14).
+[11:42:39	]C24:i69.AMPUTADO-420 has hit npc_manhack dealing 8 damage (CritChance was 0.72).
+[11:42:44	]C24:i69.AMPUTADO-420 is fully healed.
+[11:42:45	]C24:i69.AMPUTADO-420 has critically hit npc_manhack dealing 16 damage (CritChance was 0.72).
+[11:42:50	]C24:i69.AMPUTADO-420 has critically hit npc_manhack dealing 16 damage (CritChance was 0.72).
+[11:43:01	]C24:i69.AMPUTADO-420 has spawned a 'NPC [6375][npc_vj_civil_protection_z]'.
+[11:43:04	]C24:i69.AMPUTADO-420 has hit npc_vj_civil_protection_z in the head dealing 14 damage (CritChance was 0.14).
+[11:43:04	]C24:i69.AMPUTADO-420 has hit npc_vj_civil_protection_z in the head dealing 14 damage (CritChance was 0.14).
+[11:43:20	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:28	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:29	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:30	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:30	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:31	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:31	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:31	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:32	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:32	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:33	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:33	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:33	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:34	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:34	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:34	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:35	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:35	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:35	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:36	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:36	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:36	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:37	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:37	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:38	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:38	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:39	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:39	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:40	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:40	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:41	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:41	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:41	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:42	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:43	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:43	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:43	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:44	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:44	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:45	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:45	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:45	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:46	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:46	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:47	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:47	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:47	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:47	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:48	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:48	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:48	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:49	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:49	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:49	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:50	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:50	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:51	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:51	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:52	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:52	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:52	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:53	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:53	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:53	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:54	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:55	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:55	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:56	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:56	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:57	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:57	]C24:i69.AMPUTADO-420 entered observer.
+[11:44:59	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:44:59	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:02	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:02	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:05	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:05	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:06	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:06	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:07	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:07	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:07	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:08	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:10	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:10	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:12	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:13	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:13	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:14	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:15	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:15	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:16	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:16	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:16	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:17	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:17	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:18	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:19	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:20	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:21	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:21	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:22	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:22	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:22	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:23	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:23	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:23	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:24	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:25	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:25	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:26	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:26	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:26	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:27	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:27	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:28	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:29	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:29	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:30	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:30	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:30	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:31	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:32	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:32	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:32	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:33	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:33	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:33	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:34	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:34	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:34	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:35	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:35	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:35	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:36	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:36	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:37	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:37	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:37	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:38	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:38	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:48	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:48	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:49	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:49	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:49	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:50	]C24:i69.AMPUTADO-420 entered observer.
+[11:45:51	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:45:51	]C24:i69.AMPUTADO-420 entered observer.
+[11:46:48	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:46:48	]C24:i69.AMPUTADO-420 entered observer.
+[11:46:49	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:46:49	]C24:i69.AMPUTADO-420 entered observer.
+[11:46:49	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:46:50	]C24:i69.AMPUTADO-420 entered observer.
+[11:46:50	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:46:51	]C24:i69.AMPUTADO-420 entered observer.
+[11:46:51	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:46:52	]C24:i69.AMPUTADO-420 entered observer.
+[11:46:53	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:46:54	]C24:i69.AMPUTADO-420 entered observer.
+[11:46:54	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:46:55	]C24:i69.AMPUTADO-420 entered observer.
+[11:46:55	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:46:57	]C24:i69.AMPUTADO-420 entered observer.
+[11:46:57	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:46:59	]C24:i69.AMPUTADO-420 entered observer.
+[11:46:59	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:46:59	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:00	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:00	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:00	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:01	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:01	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:02	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:03	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:03	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:03	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:04	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:04	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:05	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:06	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:06	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:07	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:07	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:10	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:10	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:12	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:13	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:15	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:15	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:16	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:16	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:17	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:17	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:18	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:19	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:19	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:20	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:21	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:21	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:22	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:23	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:23	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:23	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:24	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:24	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:24	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:25	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:25	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:25	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:26	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:26	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:27	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:47:27	]C24:i69.AMPUTADO-420 entered observer.
+[11:47:53	]C24:i69.AMPUTADO-420 used command '/ToggleRaise'.
+[11:47:56	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:48:10	]C24:i69.AMPUTADO-420 has spawned a 'NPC [6375][npc_vj_civil_protection_z]'.
+[11:48:11	]C24:i69.AMPUTADO-420 has hit npc_vj_civil_protection_z in the head dealing 14 damage (CritChance was 0.14).
+[11:48:11	]C24:i69.AMPUTADO-420 has taken 25 damage from Civil Protection.
+[11:48:11	]C24:i69.AMPUTADO-420 has hit npc_vj_civil_protection_z in the head dealing 14 damage (CritChance was 0.14).
+[11:48:20	]C24:i69.AMPUTADO-420 has spawned a 'NPC [6375][npc_vj_civil_protection_z]'.
+[11:48:20	]C24:i69.AMPUTADO-420 has critically hit npc_vj_civil_protection_z in the left leg dealing 14 damage (CritChance was 0.43).
+[11:48:21	]C24:i69.AMPUTADO-420 has hit npc_vj_civil_protection_z in the stomach dealing 9 damage (CritChance was 0.58).
+[11:48:21	]C24:i69.AMPUTADO-420 has hit npc_vj_civil_protection_z in the chest dealing 11 damage (CritChance was 0.43).
+[11:48:21	]C24:i69.AMPUTADO-420 has critically hit npc_vj_civil_protection_z in the chest dealing 21 damage (CritChance was 0.43).
+[11:48:22	]C24:i69.AMPUTADO-420 has critically hit npc_vj_civil_protection_z in the chest dealing 21 damage (CritChance was 0.43).
+[11:49:24	]C24:i69.AMPUTADO-420 entered observer.
+[11:49:24	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:49:28	]C24:i69.AMPUTADO-420 entered observer.
+[11:49:28	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:49:32	]C24:i69.AMPUTADO-420 entered observer.
+[11:49:32	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:49:35	]C24:i69.AMPUTADO-420 entered observer.
+[11:49:35	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:49:38	]C24:i69.AMPUTADO-420 entered observer.
+[11:49:38	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:49:40	]C24:i69.AMPUTADO-420 entered observer.
+[11:49:40	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:49:42	]C24:i69.AMPUTADO-420 entered observer.
+[11:49:42	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:49:45	]C24:i69.AMPUTADO-420 entered observer.
+[11:49:46	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:49:46	]C24:i69.AMPUTADO-420 entered observer.
+[11:49:47	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:49:50	]C24:i69.AMPUTADO-420 was knocked unconscious and is bleeding out.
+[11:49:54	]C24:i69.AMPUTADO-420 ran SAM command 'respawn' with arguments: '^'
+[11:49:54	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:00	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:01	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:01	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:02	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:02	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:03	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:03	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:04	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:04	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:05	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:05	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:05	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:06	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:06	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:06	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:07	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:07	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:08	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:08	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:09	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:09	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:10	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:10	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:11	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:11	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:11	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:12	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:12	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:12	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:13	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:13	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:14	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:14	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:14	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:15	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:16	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:16	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:17	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:18	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:19	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:19	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:19	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:20	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:21	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:21	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:22	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:22	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:23	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:24	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:25	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:25	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:27	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:27	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:28	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:28	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:29	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:29	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:30	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:30	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:31	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:31	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:32	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:32	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:33	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:34	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:34	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:35	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:35	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:35	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:36	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:36	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:36	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:37	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:37	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:38	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:38	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:39	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:39	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:40	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:40	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:40	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:41	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:42	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:42	]C24:i69.AMPUTADO-420 entered observer.
+[11:51:43	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:51:43	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:35	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:36	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:36	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:37	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:37	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:38	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:38	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:39	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:40	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:40	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:41	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:41	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:42	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:42	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:42	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:43	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:43	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:44	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:44	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:45	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:45	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:46	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:46	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:48	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:48	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:49	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:50	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:50	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:51	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:51	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:51	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:52	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:52	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:53	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:54	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:54	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:54	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:55	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:55	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:57	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:57	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:58	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:58	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:58	]C24:i69.AMPUTADO-420 entered observer.
+[11:52:58	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:52:59	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:00	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:38	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:38	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:39	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:39	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:39	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:40	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:40	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:40	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:41	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:41	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:41	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:42	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:42	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:42	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:43	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:43	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:43	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:44	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:44	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:44	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:45	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:45	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:46	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:46	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:47	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:47	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:48	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:48	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:48	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:48	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:49	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:49	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:50	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:50	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:50	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:51	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:51	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:51	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:52	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:52	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:53	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:53	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:53	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:54	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:54	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:54	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:55	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:55	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:55	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:56	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:56	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:56	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:57	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:57	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:57	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:58	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:58	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:58	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:53:59	]C24:i69.AMPUTADO-420 entered observer.
+[11:53:59	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:00	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:00	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:00	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:01	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:01	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:01	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:02	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:02	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:03	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:03	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:03	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:05	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:06	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:06	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:06	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:07	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:10	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:10	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:11	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:11	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:17	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:17	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:18	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:18	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:19	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:19	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:20	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:20	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:21	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:21	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:22	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:22	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:23	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:23	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:23	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:24	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:24	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:25	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:25	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:29	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:29	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:30	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:30	]C24:i69.AMPUTADO-420 entered observer.
+[11:54:31	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:54:31	]C24:i69.AMPUTADO-420 entered observer.
+[11:55:34	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:55:37	]C24:i69.AMPUTADO-420 entered observer.
+[11:55:38	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:55:41	]C24:i69.AMPUTADO-420 entered observer.
+[11:55:41	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:55:44	]C24:i69.AMPUTADO-420 entered observer.
+[11:55:45	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:55:48	]C24:i69.AMPUTADO-420 entered observer.
+[11:55:48	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:55:49	]C24:i69.AMPUTADO-420 entered observer.
+[11:55:50	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:55:52	]C24:i69.AMPUTADO-420 entered observer.
+[11:55:52	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:55:53	]C24:i69.AMPUTADO-420 entered observer.
+[11:55:53	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:55:54	]C24:i69.AMPUTADO-420 entered observer.
+[11:55:54	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:55:55	]C24:i69.AMPUTADO-420 entered observer.
+[11:55:55	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:55:56	]C24:i69.AMPUTADO-420 entered observer.
+[11:55:56	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:55:56	]C24:i69.AMPUTADO-420 entered observer.
+[11:55:57	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:55:57	]C24:i69.AMPUTADO-420 entered observer.
+[11:55:57	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:55:58	]C24:i69.AMPUTADO-420 entered observer.
+[11:55:58	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:55:59	]C24:i69.AMPUTADO-420 entered observer.
+[11:55:59	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:00	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:01	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:03	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:03	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:04	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:04	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:05	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:05	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:06	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:06	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:06	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:06	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:07	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:07	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:08	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:08	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:09	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:09	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:10	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:10	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:11	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:12	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:13	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:13	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:14	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:14	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:14	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:15	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:16	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:16	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:17	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:17	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:18	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:18	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:19	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:19	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:19	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:20	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:20	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:20	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:21	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:21	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:22	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:22	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:22	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:23	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:24	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:24	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:24	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:25	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:25	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:25	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:26	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:27	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:28	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:28	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:28	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:28	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:29	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:29	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:30	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:30	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:30	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:31	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:31	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:32	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:32	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:32	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:33	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:33	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:34	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:34	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:34	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:35	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:35	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:35	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:36	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:36	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:37	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:37	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:37	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:37	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:38	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:39	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:39	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:40	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:40	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:40	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:41	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:41	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:42	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:42	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:42	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:43	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:43	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:43	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:44	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:44	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:45	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:45	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:46	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:46	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:46	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:47	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:47	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:48	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:48	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:49	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:49	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:50	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:50	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:51	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:51	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:51	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:52	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:53	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:53	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:54	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:54	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:55	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:55	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:56	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:56	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:56	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:56:57	]C24:i69.AMPUTADO-420 entered observer.
+[11:56:57	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:34	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:34	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:34	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:35	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:35	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:35	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:36	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:36	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:36	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:37	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:37	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:37	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:38	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:38	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:38	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:39	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:39	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:40	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:40	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:40	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:41	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:41	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:41	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:41	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:48	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:48	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:48	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:49	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:49	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:50	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:50	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:50	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:51	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:51	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:51	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:52	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:52	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:52	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:53	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:53	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:53	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:54	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:54	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:54	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:55	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:55	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:56	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:56	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:57	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:57	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:57	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:58	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:58	]C24:i69.AMPUTADO-420 entered observer.
+[11:58:58	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:58:59	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:00	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:00	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:00	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:01	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:01	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:01	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:02	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:02	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:02	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:03	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:03	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:04	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:04	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:04	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:05	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:05	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:05	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:06	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:06	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:06	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:06	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:07	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:07	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:08	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:08	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:08	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:08	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:09	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:09	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:09	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:10	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:10	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:10	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:11	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:11	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:11	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:12	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:12	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:23	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:24	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:33	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:34	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:34	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:34	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:35	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:35	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:36	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:36	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:37	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:37	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:37	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:38	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:38	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:39	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:39	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:40	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:40	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:40	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:41	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:42	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:42	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:42	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:43	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:43	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:43	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:44	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:44	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:45	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:45	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:46	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:46	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:47	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:49	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:49	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:49	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:50	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:51	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:51	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:51	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:52	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:52	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:53	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:53	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:54	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:54	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:55	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:55	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:56	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:56	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:56	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:57	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:57	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:57	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:58	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:58	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:58	]C24:i69.AMPUTADO-420 entered observer.
+[11:59:59	]C24:i69.AMPUTADO-420 exited observer at their location.
+[11:59:59	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:00	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:00	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:01	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:01	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:01	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:02	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:03	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:03	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:03	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:04	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:04	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:05	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:05	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:05	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:06	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:06	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:07	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:07	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:07	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:08	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:09	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:09	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:09	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:10	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:10	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:10	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:10	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:11	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:11	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:12	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:12	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:13	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:13	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:14	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:14	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:15	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:15	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:15	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:15	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:16	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:16	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:17	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:17	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:18	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:18	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:18	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:19	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:19	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:19	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:20	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:20	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:21	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:21	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:22	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:22	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:23	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:23	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:24	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:24	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:24	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:25	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:25	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:25	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:26	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:26	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:26	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:27	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:27	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:27	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:28	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:28	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:29	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:29	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:30	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:31	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:31	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:31	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:32	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:34	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:34	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:35	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:35	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:36	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:36	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:36	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:37	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:37	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:38	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:38	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:39	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:39	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:40	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:40	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:40	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:41	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:41	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:42	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:42	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:43	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:43	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:43	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:44	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:44	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:44	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:45	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:45	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:45	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:46	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:46	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:46	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:47	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:47	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:48	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:48	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:48	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:49	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:49	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:50	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:50	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:50	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:51	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:51	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:52	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:52	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:53	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:53	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:54	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:54	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:55	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:55	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:55	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:56	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:56	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:57	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:57	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:58	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:58	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:00:59	]C24:i69.AMPUTADO-420 entered observer.
+[12:00:59	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:00	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:00	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:01	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:01	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:02	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:02	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:03	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:03	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:03	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:04	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:04	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:05	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:05	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:05	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:06	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:06	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:07	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:07	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:08	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:08	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:09	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:09	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:10	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:10	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:11	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:11	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:11	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:12	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:12	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:13	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:13	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:14	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:14	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:14	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:15	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:15	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:16	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:16	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:16	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:17	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:17	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:17	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:18	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:18	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:19	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:19	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:19	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:20	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:20	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:20	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:21	]C24:i69.AMPUTADO-420 entered observer.
+[12:01:22	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:01:22	]C24:i69.AMPUTADO-420 entered observer.
+[12:02:18	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:02:18	]C24:i69.AMPUTADO-420 entered observer.
+[12:02:19	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:02:19	]C24:i69.AMPUTADO-420 entered observer.
+[12:02:19	]C24:i69.AMPUTADO-420 exited observer at their location.
+[12:02:20	]C24:i69.AMPUTADO-420 entered observer.
+[12:11:54	]C24:i69.AMPUTADO-420 has gone afk.
+[13:18:15	]C24:i69.AMPUTADO-420 is fully healed.
+[13:54:52	]Furret No Furry Asimo (STEAM_0:0:58605803) has disconnected (timed out).

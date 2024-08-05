@@ -1,0 +1,63 @@
+{
+    "ply": {
+        "no_permissions": "Du hast nicht die nötigen Berechtigungen dafür.",
+        "banned_self": "Du wurdest vom Server gebannt",
+        "group_changed": "Deine Gruppe wurde zu <green>%s</green> geändert.",
+        "error_get": "Spieler konnte nicht gefunden werden. Bitte probiere es später erneut.",
+        "banned": "Spieler <green>%s</green> wurde <red>%s gebannt</red>. Grund: <green>%s</green>",
+        "welcome": "Willkommen auf dem Server, <green>%s</green>"
+    },
+    "warning": {
+        "toggled": "Status der Verwarnung wurde geändert.",
+        "cmd_help": "<red>Ungültiger Spieler!</red> Verwendung: <green>!warn <nick> <reason></green>",
+        "create_error": "Fehler beim hinzufügen einer Verwarnung für <green>%s</green>: <red>%s</red>",
+        "deleted": "Verwarnung gelöscht.",
+        "received": "Du wurdest von <green>%s</green> verwarnt: <red>%s</red>",
+        "toggled_self": "Der Status einer deiner Verwarnungen wurde geändert. Du kannst deiner Verwarnungen unter !dashboard sehen.",
+        "user_warned": "<red>%s</red> wurde von <green>%s</green> verwarnt. Grund: <green>%s</green>",
+        "deleted_self": "Eine deiner Verwarnungen wurde gelöscht. Du kannst deiner Verwarnungen unter !dashboard sehen."
+    },
+    "ban": {
+        "status_changed": "Ban Status von %s erfolgreich auf %s gesetzt.",
+        "user_banned": "<red>%s</red> wurde von <green>%s</green> für <red>%s</red> vom Server gebannt. Grund: <green>%s</green>"
+    },
+    "rslots": {
+        "full": "Der Server ist voll",
+        "full_no_slot": "Der Server ist voll und du hast keinen Zugriff auf einen reservierten Slot",
+        "kick": "Ein Spieler mit einem reservierten Slot ist dem Server beigetreten und du wurdest gekickt um Platz zu schaffen"
+    },
+    "other": {
+        "id": "ID",
+        "reason": "Grund",
+        "dead": "TOT",
+        "ban_date": "Ban Datum",
+        "unban_date": "Ban Ende",
+        "admin": "Admin",
+        "unknown": "Unbekannt",
+        "minutes": "Minuten",
+        "x_minutes": "%i Minuten",
+        "permanently": "Permanent",
+        "unban_url": "Entbannungs URL",
+        "error_api": "Fehler bei der Kommunikation mit der API: %s",
+        "never": "Nie",
+        "active_global": "Aktiv (Global)",
+        "unban": "Entbannen",
+        "actions": "Aktionen",
+        "active": "Aktiv",
+        "inactive": "Inaktiv",
+        "disabled": "Deaktiviert",
+        "unbanned": "Entbannt",
+        "reban": "Bannen",
+        "warnings": "Verwarnungen",
+        "date": "Datum",
+        "warn": "Verwarnung",
+        "ban": "Bann",
+        "bans": "Banns",
+        "welcome": "Willkommen"
+    },
+    "dashboard": {
+        "select_user": "Bitte wähle einen Spieler aus.",
+        "action_ban": "Bannen",
+        "action_warn": "Verwarnen"
+    }
+}

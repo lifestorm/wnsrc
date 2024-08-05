@@ -1,0 +1,629 @@
+[00:00:08	]Hiros entered observer.
+[00:00:09	]Hiros exited observer at their location.
+[00:00:11	]Hiros entered observer.
+[00:00:12	]Hiros exited observer at their location.
+[00:00:19	]Hiros has taken 1 damage from worldspawn.
+[00:00:20	]Hiros is fully healed.
+[00:00:31	]Hiros used command '/TeleporterSetModel models/props_c17/FurnitureFridge001a.mdl'.
+[00:00:43	]Hiros entered observer.
+[00:00:43	]Hiros exited observer at their location.
+[00:01:27	]Hiros used command '/TeleporterSetModel models/props_borealis/borealis_door001a.mdl'.
+[00:01:28	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:02:00	]Hiros used command '/TeleporterSetModel models/props_wasteland/interior_fence001g.mdl'.
+[00:02:06	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:02:11	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[00:02:14	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:02:32	]Hiros used command '/TeleporterSetModel models/props_lab/blastdoor001a.mdl'.
+[00:02:35	]Hiros used command '/TeleporterSetModel models/props_lab/blastdoor001a.mdl'.
+[00:02:41	]Hiros used command '/TeleporterSetModel models/props_lab/blastdoor001a.mdl'.
+[00:02:43	]Hiros used command '/TeleporterSetModel models/props_lab/blastdoor001a.mdl'.
+[00:02:45	]Hiros used command '/TeleporterSetModel models/props_lab/blastdoor001a.mdl'.
+[00:02:47	]Hiros used command '/TeleporterSetModel models/props_lab/blastdoor001a.mdl'.
+[00:02:56	]Hiros has taken 5 damage from Hiros.
+[00:03:00	]Hiros is fully healed.
+[00:03:33	]Hiros used command '/TeleporterSetModel models/props_c17/door01_left.mdl'.
+[00:03:38	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:04:42	]Bot01 has connected.
+[00:04:42	]Bot01 loaded the character 'Bot01'
+[00:04:45	]Hiros entered observer.
+[00:04:52	]Hiros exited observer at their location.
+[00:04:55	]Hiros ran SAM command 'bring' with arguments: 'bot'
+[00:05:08	]Hiros has given himself a zip_tie.
+[00:05:08	]Hiros has gained a 'Zip Tie' #1650082.
+[00:05:09	]Hiros ran 'Use' on item 'Zip Tie' (#1650082)
+[00:05:14	]Hiros has given himself a zip_tie.
+[00:05:14	]Hiros has gained a 'Zip Tie' #1650083.
+[00:05:18	]Hiros ran 'Use' on item 'Zip Tie' (#1650082)
+[00:05:32	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:05:55	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[00:06:44	]Hiros ran 'Use' on item 'Zip Tie' (#1650082)
+[00:08:24	]Hiros used command '/CharSetModel bot models/willardnetworks/citizens/male_03.mdl'.
+[00:08:26	]Hiros entered observer.
+[00:08:27	]Hiros exited observer at their location.
+[00:08:54	]Hiros has given himself a zip_tie.
+[00:08:55	]Hiros has gained a 'Zip Tie' #1650084.
+[00:08:56	]Hiros ran 'Use' on item 'Zip Tie' (#1650084)
+[00:11:49	]Hiros has given himself a zip_tie.
+[00:11:49	]Hiros has gained a 'Zip Tie' #1650085.
+[00:11:54	]Hiros ran 'Use' on item 'Zip Tie' (#1650085)
+[00:19:08	]Hiros has given himself a zip_tie.
+[00:19:08	]Hiros has gained a 'Zip Tie' #1650086.
+[00:19:12	]Hiros ran 'Use' on item 'Zip Tie' (#1650086)
+[00:19:26	]Hiros entered observer.
+[00:19:53	]Bot01 has taken 41 damage from worldspawn.
+[00:19:56	]Hiros exited observer at their location.
+[00:20:00	]Hiros entered observer.
+[00:20:00	]Hiros exited observer at their location.
+[00:20:06	]Hiros entered observer.
+[00:20:06	]Hiros exited observer at their location.
+[00:20:07	]Hiros entered observer.
+[00:20:07	]Hiros exited observer at their location.
+[00:20:12	]Hiros entered observer.
+[00:20:12	]Hiros exited observer at their location.
+[00:20:17	]Hiros entered observer.
+[00:20:17	]Hiros exited observer at their location.
+[00:20:18	]Hiros entered observer.
+[00:20:19	]Hiros exited observer at their location.
+[00:20:19	]Hiros entered observer.
+[00:20:20	]Hiros exited observer at their location.
+[00:20:20	]Hiros entered observer.
+[00:20:21	]Hiros exited observer at their location.
+[00:20:21	]Hiros entered observer.
+[00:20:22	]Hiros exited observer at their location.
+[00:20:23	]Bot01 has taken 11 damage from worldspawn.
+[00:20:25	]Hiros entered observer.
+[00:20:28	]Hiros exited observer at their location.
+[00:20:39	]Hiros entered observer.
+[00:20:39	]Hiros exited observer at their location.
+[00:20:40	]Hiros entered observer.
+[00:20:44	]Hiros exited observer at their location.
+[00:20:44	]Hiros has taken 85 damage from worldspawn.
+[00:20:45	]Hiros entered observer.
+[00:20:45	]Hiros is fully healed.
+[00:20:47	]Hiros exited observer at their location.
+[00:20:56	]Bot01 has taken 34 damage from worldspawn.
+[00:21:02	]Hiros ran SAM command 'hp' with arguments: 'bot' '5000'
+[00:21:16	]Hiros entered observer.
+[00:21:17	]Hiros exited observer at their location.
+[00:21:18	]Hiros entered observer.
+[00:21:51	]Bot01 has taken 11 damage from worldspawn.
+[00:21:58	]Hiros exited observer at their location.
+[00:23:19	]Hiros has given himself a landline.
+[00:23:19	]Hiros has gained a 'Landline Phone' #1650087.
+[00:23:21	]Hiros ran 'Deploy' on item 'Landline Phone' (#1650087)
+[00:23:22	]Hiros entered observer.
+[00:23:22	]Hiros exited observer at their location.
+[00:23:37	]Hiros has spawned a landline.
+[00:23:38	]Hiros ran 'Deploy' on item 'Landline Phone' (#1650088)
+[00:24:55	]Hiros has used a context menu option with the name: remove
+[00:24:57	]Hiros has used a context menu option with the name: rb655_dissolve
+[00:25:22	]Hiros has spawned a 'Entity [446][ix_intercom]'.
+[00:25:29	]Hiros entered observer.
+[00:25:30	]Hiros has used a context menu option with the name: ixchangeintercomchannel
+[00:25:33	]Hiros exited observer at their location.
+[00:25:35	]Hiros has used a context menu option with the name: ixchangeintercomchannel
+[00:25:40	]Hiros has used a context menu option with the name: ixchangeintercomchannel
+[00:25:43	][IC] Hiros: E.
+[00:25:48	]Hiros has used a context menu option with the name: remove
+[00:26:06	]Hiros used command '/ToggleRaise'.
+[00:26:11	]Bot01 has taken 88 damage from Hiros.
+[00:26:47	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:27:14	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:27:17	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[00:27:59	]Hiros has warped from Default to Default.
+[00:28:00	]Hiros has taken 499 damage from trigger_hurt.
+[00:28:01	]Hiros has taken 48 damage from worldspawn.
+[00:28:04	]Hiros entered observer.
+[00:28:05	]Hiros is fully healed.
+[00:28:08	]Hiros exited observer at their location.
+[00:28:09	]Hiros entered observer.
+[00:28:09	]Hiros exited observer at their location.
+[00:28:12	]Hiros entered observer.
+[00:28:13	]Hiros exited observer at their location.
+[00:28:13	]Hiros entered observer.
+[00:28:14	]Hiros exited observer at their location.
+[00:28:15	]Hiros entered observer.
+[00:28:27	]Hiros exited observer at their location.
+[00:28:28	]Hiros entered observer.
+[00:28:30	]Hiros exited observer at their location.
+[00:28:31	]Hiros entered observer.
+[00:28:31	]Hiros exited observer at their location.
+[00:28:32	]Hiros has warped from Default to Default.
+[00:28:49	]Hiros used command '/ToggleRaise'.
+[00:28:52	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:29:03	]Hiros has warped from Default to Default.
+[00:29:06	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:29:10	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[00:29:14	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:29:23	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[00:29:38	]Hiros used command '/ToggleRaise'.
+[00:29:39	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:29:43	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[00:29:47	]Hiros has taken 0 damage from Hiros.
+[00:29:50	]Hiros is fully healed.
+[00:29:54	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:29:56	]Hiros has taken 26 damage from Hiros.
+[00:30:00	]Hiros is fully healed.
+[00:30:03	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[00:30:29	]Hiros used command '/ToggleRaise'.
+[00:30:33	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:30:44	]Hiros entered observer.
+[00:30:45	]Hiros exited observer at their location.
+[00:30:46	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[00:30:50	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:31:01	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[00:31:08	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[00:31:17	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[00:31:23	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:31:29	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[00:31:41	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[00:31:48	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[00:31:57	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[00:32:07	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[00:32:33	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[00:32:45	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:32:50	]Hiros entered observer.
+[00:33:18	]Hiros has warped from Default to Default.
+[00:33:23	]Hiros exited observer at their location.
+[00:33:23	]Hiros entered observer.
+[00:33:43	]Hiros has warped from Default to Default.
+[00:33:46	]Hiros exited observer at their location.
+[00:33:56	]Hiros used command '/PlaySound e 200'.
+[00:34:01	]Hiros used command '/PlaySound e 150'.
+[00:34:07	]Hiros used command '/PlaySound e 140'.
+[00:34:10	]Hiros used command '/PlaySound e 130'.
+[00:34:12	]Hiros used command '/PlaySound e 130'.
+[00:34:15	]Hiros used command '/PlaySound e 120'.
+[00:34:19	]Hiros used command '/PlaySound e 120'.
+[00:34:22	]Hiros used command '/PlaySound e 110'.
+[00:34:27	]Hiros used command '/PlaySound e 100'.
+[00:34:33	]Hiros used command '/PlaySound e 95'.
+[00:34:37	]Hiros used command '/PlaySound e 90'.
+[00:34:38	]Hiros used command '/PlaySound e 90'.
+[00:34:40	]Hiros used command '/PlaySound e 90'.
+[00:34:40	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:34:46	]Hiros used command '/PlaySound e 90'.
+[00:34:47	]Hiros used command '/PlaySound e 90'.
+[00:34:49	]Hiros used command '/PlaySound e 90'.
+[00:34:50	]Hiros used command '/PlaySound e 90'.
+[00:34:52	]Hiros used command '/PlaySound e 90'.
+[00:34:56	]Hiros used command '/PlaySound e 90'.
+[00:34:58	]Hiros used command '/PlaySound e 90'.
+[00:35:01	]Hiros used command '/PlaySound e 90'.
+[00:35:10	]Hiros used command '/PlaySound e 85'.
+[00:35:12	]Hiros used command '/PlaySound e 85'.
+[00:35:13	]Hiros used command '/PlaySound e 85'.
+[00:35:16	]Hiros used command '/PlaySound e 85'.
+[00:35:18	]Hiros used command '/PlaySound e 85'.
+[00:35:19	]Hiros used command '/PlaySound e 85'.
+[00:35:20	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[00:35:26	]Hiros used command '/PlaySound e 850'.
+[00:35:30	]Hiros used command '/PlaySound e 85'.
+[00:35:31	]Hiros used command '/PlaySound e 850'.
+[00:35:34	]Hiros used command '/PlaySound e 85'.
+[00:35:35	]Hiros used command '/PlaySound e 85'.
+[00:35:36	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:35:49	]Hiros used command '/PlaySound e 85'.
+[00:35:51	]Hiros used command '/PlaySound e 85'.
+[00:35:53	]Hiros used command '/PlaySound e 85'.
+[00:35:56	]Hiros used command '/PlaySound e 85'.
+[00:35:56	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[00:36:01	]Hiros used command '/PlaySound e 85'.
+[00:36:03	]Hiros used command '/PlaySound e 85'.
+[00:36:05	]Hiros used command '/PlaySound e 85'.
+[00:36:09	]Hiros used command '/PlaySound e'.
+[00:36:12	]Hiros used command '/PlaySound e 85'.
+[00:36:12	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:36:28	]Hiros used command '/PlaySound e 85'.
+[00:36:31	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:36:43	]Hiros used command '/PlaySound e 85'.
+[00:36:45	]Hiros used command '/PlaySound e 85'.
+[00:36:59	]Hiros has spawned 'models/hunter/blocks/cube025x025x025.mdl'.
+[00:37:03	]Hiros used command '/PlaySound e 85'.
+[00:37:05	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:37:11	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:37:20	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:37:31	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:37:49	]Hiros has enabled persistence for 'models/hunter/blocks/cube025x025x025.mdl'.
+[00:37:49	]Hiros has used a context menu option with the name: persist
+[00:37:50	]Hiros has used a context menu option with the name: skin
+[00:38:30	]Hiros entered observer.
+[00:38:33	]Hiros exited observer at their location.
+[00:38:49	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:39:04	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:39:52	]Hiros has spawned a 'Entity [446][ix_teleporter]'.
+[00:39:54	]Hiros entered observer.
+[00:40:14	]Hiros has spawned a 'Entity [446][ix_teleporter]'.
+[00:40:22	]Hiros exited observer at their location.
+[00:40:22	]Hiros has spawned a 'Entity [450][ix_teleporter]'.
+[00:40:24	]Hiros has warped from Default to Default.
+[00:40:28	]Hiros has warped from Default to Default.
+[00:40:32	]Hiros entered observer.
+[00:40:36	]Hiros exited observer at their location.
+[00:40:37	]Hiros has warped from Default to Default.
+[00:40:46	]Hiros entered observer.
+[00:40:52	]Hiros exited observer at their location.
+[00:40:52	]Hiros entered observer.
+[00:40:55	]Hiros exited observer at their location.
+[00:40:57	]Hiros has warped from Default to Default.
+[00:41:01	]Hiros entered observer.
+[00:41:02	]Hiros exited observer at their location.
+[00:41:05	]Hiros has warped from Default to Default.
+[00:41:08	]Hiros has warped from Default to Default.
+[00:41:24	]Hiros has warped from Default to Default.
+[00:41:27	]Hiros has warped from Default to Default.
+[00:41:36	]Hiros entered observer.
+[00:41:38	]Hiros exited observer at their location.
+[00:41:39	]Hiros has used a context menu option with the name: rb655_door_open
+[00:41:40	]Hiros has used a context menu option with the name: rb655_door_open
+[00:41:41	]Hiros entered observer.
+[00:41:42	]Hiros exited observer at their location.
+[00:41:44	]Hiros entered observer.
+[00:41:46	]Hiros exited observer at their location.
+[00:41:48	]Hiros has warped from Default to Default.
+[00:41:52	]Hiros has warped from Default to Default.
+[00:42:03	]Hiros entered observer.
+[00:42:04	]Hiros exited observer at their location.
+[00:42:06	]Hiros entered observer.
+[00:42:07	]Hiros exited observer at their location.
+[00:42:09	]Hiros entered observer.
+[00:42:12	]Hiros exited observer at their location.
+[00:42:30	]Hiros entered observer.
+[00:42:33	]Hiros exited observer at their location.
+[00:42:33	]Hiros has warped from Default to Default.
+[00:42:36	]Hiros has warped from Default to Default.
+[00:42:43	]Hiros entered observer.
+[00:42:45	]Hiros exited observer at their location.
+[00:42:52	]Hiros entered observer.
+[00:42:54	]Hiros exited observer at their location.
+[00:42:58	]Hiros entered observer.
+[00:43:01	]Hiros exited observer at their location.
+[00:43:06	]Hiros has spawned 'models/hunter/blocks/cube075x1x075.mdl'.
+[00:43:09	]Hiros has spawned 'models/hunter/blocks/cube6x8x2.mdl'.
+[00:43:15	]Hiros has spawned 'models/hunter/blocks/cube125x125x025.mdl'.
+[00:43:31	]Hiros has warped from Default to Default.
+[00:43:34	]Hiros entered observer.
+[00:43:34	]Hiros exited observer at their location.
+[00:43:37	]Hiros has spawned 'models/hunter/blocks/cube1x150x1.mdl'.
+[00:43:39	]Hiros entered observer.
+[00:43:39	]Hiros exited observer at their location.
+[00:43:40	]Hiros has spawned 'models/hunter/blocks/cube1x150x1.mdl'.
+[00:43:53	]Hiros has warped from Default to Default.
+[00:44:03	]Hiros has warped from Default to Default.
+[00:44:09	]Hiros has used a context menu option with the name: remove
+[00:44:11	]Hiros has used a context menu option with the name: remove
+[00:44:12	]Hiros entered observer.
+[00:44:13	]Hiros exited observer at their location.
+[00:44:13	]Hiros entered observer.
+[00:44:14	]Hiros exited observer at their location.
+[00:44:16	]Hiros has used a context menu option with the name: remove
+[00:44:16	]Hiros entered observer.
+[00:45:03	]Hiros has used a context menu option with the name: rb655_dissolve
+[00:45:04	]Hiros has used a context menu option with the name: rb655_dissolve
+[00:45:05	]Hiros exited observer at their location.
+[00:45:08	]Hiros has used a context menu option with the name: rb655_dissolve
+[00:45:10	]Hiros has used a context menu option with the name: rb655_dissolve
+[00:45:12	]Hiros has used a context menu option with the name: rb655_dissolve
+[00:45:20	]Hiros entered observer.
+[00:45:24	]Hiros exited observer at their location.
+[00:45:25	]Hiros has warped from Default to Default.
+[00:45:57	]Hiros has warped from Test Door 2, Distance to Test Door 1, Distance.
+[00:46:12	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:46:15	]Hiros entered observer.
+[00:46:18	]Hiros exited observer at their location.
+[00:46:23	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:46:28	]Hiros has spawned 'models/hunter/blocks/cube05x105x05.mdl'.
+[00:46:36	]Hiros entered observer.
+[00:46:37	]Hiros exited observer at their location.
+[00:46:38	]Hiros entered observer.
+[00:46:43	]Hiros exited observer at their location.
+[00:46:53	]Hiros entered observer.
+[00:46:55	]Hiros exited observer at their location.
+[00:47:14	]Hiros entered observer.
+[00:47:15	]Hiros exited observer at their location.
+[00:47:29	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:47:34	]Hiros has enabled persistence for 'models/hunter/blocks/cube05x105x05.mdl'.
+[00:47:34	]Hiros has used a context menu option with the name: persist
+[00:47:46	]Hiros has spawned 'models/props/de_inferno/goldfish.mdl'.
+[00:48:03	]Hiros has spawned 'models/props/de_inferno/goldfish.mdl'.
+[00:48:12	]Hiros has spawned 'models/props/de_inferno/goldfish.mdl'.
+[00:48:20	]Hiros has spawned 'models/props/de_inferno/goldfish.mdl'.
+[00:48:28	]Hiros has enabled persistence for 'models/props/de_inferno/goldfish.mdl'.
+[00:48:28	]Hiros has used a context menu option with the name: persist
+[00:48:28	]Hiros has enabled persistence for 'models/props/de_inferno/goldfish.mdl'.
+[00:48:28	]Hiros has used a context menu option with the name: persist
+[00:48:29	]Hiros has enabled persistence for 'models/props/de_inferno/goldfish.mdl'.
+[00:48:29	]Hiros has used a context menu option with the name: persist
+[00:48:29	]Hiros has enabled persistence for 'models/props/de_inferno/goldfish.mdl'.
+[00:48:29	]Hiros has used a context menu option with the name: persist
+[00:48:38	]Hiros entered observer.
+[00:48:39	]Hiros exited observer at their location.
+[00:48:52	]Hiros entered observer.
+[00:48:54	]Hiros exited observer at their location.
+[00:49:04	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:49:10	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:49:14	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:49:29	]Hiros entered observer.
+[00:49:31	]Hiros exited observer at their location.
+[00:50:33	]Hiros used command '/PropDescriptionAdd e e'.
+[00:50:52	]Hiros entered observer.
+[00:50:52	]Hiros exited observer at their location.
+[00:51:10	]Hiros has spawned 'models/willardnetworks/food/fishsteak.mdl'.
+[00:51:13	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:51:24	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:51:25	]Bot01 has taken 5 damage from prop_physics.
+[00:51:44	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:51:58	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:51:58	]Bot01 has taken 5 damage from prop_physics.
+[00:51:58	]Bot01 has taken 10 damage from prop_physics.
+[00:52:06	]Hiros has warped from Test Door 1, Distance to Test Door 2, Distance.
+[00:52:14	]Hiros entered observer.
+[00:52:15	]Hiros exited observer at their location.
+[00:52:19	]Hiros has used a context menu option with the name: remove
+[00:54:41	]Hiros | Error 410 (STEAM_0:1:54068821) has disconnected.
+[00:54:41	]Bot01 (BOT) has disconnected.
+[07:42:27	]Mango has connected.
+[07:43:13	]Mango loaded the character 'Mango Banana'
+[07:43:20	]Mango Banana entered observer.
+[07:43:57	]Mango Banana used command '/Teleporters'.
+[07:44:21	]Mango Banana has fired a toolgun with the name: remover
+[07:44:22	]Mango Banana has fired a toolgun with the name: remover
+[07:44:23	]Mango Banana has fired a toolgun with the name: remover
+[07:44:25	]Mango Banana has fired a toolgun with the name: remover
+[07:44:25	]Mango Banana has fired a toolgun with the name: remover
+[07:44:25	]Mango Banana has fired a toolgun with the name: remover
+[07:44:26	]Mango Banana has fired a toolgun with the name: remover
+[07:44:26	]Mango Banana has fired a toolgun with the name: remover
+[07:44:27	]Mango Banana has fired a toolgun with the name: remover
+[07:44:35	]Mango Banana has fired a toolgun with the name: remover
+[07:44:36	]Mango Banana has fired a toolgun with the name: remover
+[07:44:36	]Mango Banana has fired a toolgun with the name: remover
+[07:44:37	]Mango Banana has fired a toolgun with the name: remover
+[07:44:37	]Mango Banana has fired a toolgun with the name: remover
+[07:44:41	]Mango Banana has fired a toolgun with the name: remover
+[07:44:41	]Mango Banana has fired a toolgun with the name: remover
+[07:44:42	]Mango Banana has fired a toolgun with the name: remover
+[07:44:42	]Mango Banana has fired a toolgun with the name: remover
+[07:45:00	]Mango Banana used command '/TextRemove'.
+[07:45:08	]Mango Banana exited observer at their location.
+[07:45:14	]Mango has unloaded their "Mango Banana" character.
+[07:45:24	]Mango (STEAM_0:0:544539350) has disconnected.
+[07:48:48	]Mango has connected.
+[07:50:15	]Mango loaded the character 'Mango Banana'
+[07:50:30	]Mango Banana used command '/PlyWhitelist banan vortigaunt'.
+[07:50:34	]Mango has unloaded their "Mango Banana" character.
+[07:51:29	]Mango created the character 'Gulanga'
+[07:51:29	]Mango loaded the character 'Gulanga'
+[07:51:48	]Gulanga used command '/CharEditBodygroup gula'.
+[07:52:25	]Gulanga has changed Gulanga's bodygroups.
+[07:52:44	]Gulanga entered observer.
+[07:52:56	]Gulanga exited observer at their location.
+[07:53:07	]Gulanga has spawned a 'Entity [384][ix_teleporter]'.
+[07:53:10	]Gulanga entered observer.
+[07:53:27	]Gulanga used command '/Teleporters'.
+[07:53:58	]Gulanga has spawned a 'Entity [385][ix_teleporter]'.
+[07:54:16	]Gulanga exited observer at their location.
+[07:54:42	]Gulanga entered observer.
+[07:54:45	]Gulanga has warped from Default to Banana.
+[07:54:48	]Gulanga exited observer at their location.
+[07:54:50	]Gulanga has warped from Banana to Default.
+[07:55:29	]Gulanga used command '/Teleporters'.
+[07:55:39	]Gulanga has warped from Banana to Default.
+[07:55:44	]Gulanga has warped from Banana to Default.
+[07:55:57	]Gulanga used command '/TeleporterSetWarpSound doors/door_metal_gate_close1.wav'.
+[07:56:00	]Gulanga has warped from Banana to Default.
+[07:56:06	]Gulanga has warped from Default to Banana.
+[07:56:12	]Gulanga has warped from Banana to Default.
+[07:56:18	]Gulanga has warped from Default to Banana.
+[07:56:33	]Gulanga used command '/TeleporterSetWarpSound doors/door_metal_gate_close1.wav'.
+[07:56:35	]Gulanga has warped from Default to Banana.
+[08:01:59	]Gulanga has gone afk.
+[08:02:04	]Mango (STEAM_0:0:544539350) has disconnected.
+[15:38:00	]Mango has connected.
+[15:39:43	]Mango loaded the character 'Gulanga'
+[15:39:51	]Gulanga entered observer.
+[15:39:53	]Gulanga exited observer at their location.
+[15:39:54	]Gulanga entered observer.
+[15:40:04	]Gulanga used command '/Teleporters'.
+[15:40:13	]Gulanga exited observer at their location.
+[15:40:50	]Gulanga has warped from Default to Banana.
+[15:40:54	]Gulanga has warped from Banana to Default.
+[15:41:01	]Gulanga used command '/Teleporters'.
+[15:41:17	]Gulanga entered observer.
+[15:41:24	]Gulanga exited observer at their location.
+[15:41:25	]Gulanga entered observer.
+[15:41:33	]Gulanga used command '/TeleporterResetWarpSound'.
+[15:41:38	]Gulanga used command '/Teleporters'.
+[15:41:52	]Gulanga has used a context menu option with the name: remove
+[15:41:54	]Gulanga has used a context menu option with the name: remove
+[15:42:11	]Gulanga has spawned a 'Entity [381][ix_teleporter]'.
+[15:42:22	]Gulanga has spawned a 'Entity [382][ix_teleporter]'.
+[15:42:46	]Gulanga exited observer at their location.
+[15:43:07	]Gulanga has spawned a 'Entity [381][ix_teleporter]'.
+[15:43:08	]Gulanga has spawned a 'Entity [382][ix_teleporter]'.
+[15:43:40	]Gulanga has spawned a 'Entity [381][ix_teleporter]'.
+[15:43:53	]Gulanga used command '/TeleporterReset'.
+[15:44:11	]Gulanga used command '/Teleporters'.
+[15:45:07	]Gulanga entered observer.
+[15:47:05	]Gulanga has spawned a 'Entity [381][ix_teleporter]'.
+[15:47:06	]Gulanga exited observer at their location.
+[15:47:21	]Gulanga has taken 5 damage from ix_teleporter.
+[15:47:48	]Gulanga has spawned a 'Entity [381][ix_teleporter]'.
+[15:48:00	]Gulanga used command '/TeleporterSetModel models/props_building_details/Storefront_Template001a_Bars.mdl'.
+[15:48:20	]Mango (STEAM_0:0:544539350) has disconnected.
+[15:59:20	]Mango has connected.
+[16:00:37	]Mango loaded the character 'Gulanga'
+[16:00:42	]Gulanga is fully healed.
+[16:01:06	]Gulanga has used a context menu option with the name: remove
+[16:01:07	]Gulanga entered observer.
+[16:01:47	]Gulanga exited observer at their location.
+[16:01:52	]Gulanga entered observer.
+[16:02:11	]Gulanga has spawned a 'Entity [381][ix_teleporter]'.
+[16:02:37	]Gulanga has spawned a 'Entity [428][ix_teleporter]'.
+[16:05:46	]Gulanga has spawned a 'Entity [428][ix_teleporter]'.
+[16:11:07	]Gulanga has gone afk.
+[16:11:32	]Gulanga is no longer afk. Total time spent AFK: 320
+[16:16:32	]Gulanga has gone afk.
+[16:18:44	]Hiros | Error 410 has connected.
+[16:19:46	]Hiros | Error 410 loaded the character 'Hiros'
+[16:19:51	]Hiros is fully healed.
+[16:19:59	]Hiros entered observer.
+[16:20:33	]Hiros has fired a toolgun with the name: remover
+[16:20:35	]Hiros has fired a toolgun with the name: remover
+[16:20:39	]Hiros exited observer at their location.
+[16:20:42	]Gulanga is no longer afk. Total time spent AFK: 545
+[16:20:44	][IC] Gulanga: Omg.
+[16:20:45	]Hiros used command '/Teleporters'.
+[16:20:45	]Gulanga exited observer at their location.
+[16:20:49	][IC] Hiros: Omg.
+[16:20:50	][IC] Gulanga: Hi.
+[16:20:53	][IC] Hiros: Hi.
+[16:20:53	][IC] Gulanga: Greetings.
+[16:20:55	][IC] Gulanga: Ations.
+[16:20:58	][IC] Hiros: Did you read discord.
+[16:21:00	][IC] Hiros: Antion?
+[16:21:03	][IC] Hiros: ANTON.
+[16:21:05	][IC] Hiros: Omg.
+[16:21:07	][IC] Gulanga: Wtf.
+[16:21:12	][IC] Gulanga: I gotta rejooin.
+[16:21:16	][IC] Hiros: Why.
+[16:21:17	][IC] Gulanga: Oh nvm.
+[16:21:18	][IC] Gulanga: Aaaaaaaaa.
+[16:21:28	][IC] Gulanga: Little fish.
+[16:21:36	][IC] Hiros: Ikr.
+[16:21:40	][IC] Hiros: So can you VC for few?
+[16:21:46	][IC] Gulanga: Yesss.
+[16:21:49	][IC] Hiros: Lemme call.
+[16:22:14	]Hiros has spawned a 'Entity [381][ix_teleporter]'.
+[16:22:17	]Hiros has spawned a 'Entity [432][ix_teleporter]'.
+[16:22:23	]Hiros entered observer.
+[16:22:24	]Hiros exited observer at their location.
+[16:22:25	]Hiros entered observer.
+[16:22:25	]Hiros exited observer at their location.
+[16:22:31	]Gulanga entered observer.
+[16:22:42	]Hiros entered observer.
+[16:22:43	]Hiros exited observer at their location.
+[16:22:44	]Hiros entered observer.
+[16:22:49	]Hiros exited observer at their location.
+[16:22:50	]Hiros entered observer.
+[16:22:51	]Hiros exited observer at their location.
+[16:22:52	]Hiros entered observer.
+[16:22:53	]Hiros exited observer at their location.
+[16:22:54	]Hiros entered observer.
+[16:22:56	]Hiros exited observer at their location.
+[16:22:57	]Hiros entered observer.
+[16:22:57	]Hiros exited observer at their location.
+[16:22:58	]Hiros entered observer.
+[16:22:59	]Hiros exited observer at their location.
+[16:22:59	]Hiros entered observer.
+[16:23:00	]Hiros exited observer at their location.
+[16:23:01	]Hiros entered observer.
+[16:23:13	]Hiros exited observer at their location.
+[16:23:14	]Hiros entered observer.
+[16:23:16	]Hiros exited observer at their location.
+[16:23:30	]Hiros entered observer.
+[16:23:32	]Hiros exited observer at their location.
+[16:23:33	]Hiros entered observer.
+[16:23:34	]Hiros exited observer at their location.
+[16:23:35	]Hiros entered observer.
+[16:23:37	]Hiros exited observer at their location.
+[16:23:38	]Hiros entered observer.
+[16:23:40	]Hiros exited observer at their location.
+[16:23:42	]Hiros entered observer.
+[16:23:43	]Hiros exited observer at their location.
+[16:23:58	]Hiros entered observer.
+[16:23:59	]Hiros exited observer at their location.
+[16:24:00	]Hiros entered observer.
+[16:24:01	]Hiros exited observer at their location.
+[16:24:03	]Hiros entered observer.
+[16:24:04	]Hiros exited observer at their location.
+[16:24:05	]Hiros entered observer.
+[16:24:07	]Hiros exited observer at their location.
+[16:24:08	]Hiros entered observer.
+[16:24:09	]Hiros exited observer at their location.
+[16:24:24	]Hiros entered observer.
+[16:24:25	]Hiros exited observer at their location.
+[16:24:25	]Hiros entered observer.
+[16:24:26	]Hiros exited observer at their location.
+[16:24:26	]Hiros entered observer.
+[16:24:35	]Hiros has spawned a 'Entity [428][ix_teleporter]'.
+[16:24:38	]Hiros has used a context menu option with the name: remove
+[16:24:56	]Hiros has spawned a 'Entity [428][ix_teleporter]'.
+[16:25:08	]Gulanga ran SAM command 'goto' with arguments: 'hir'
+[16:25:15	]Gulanga exited observer at their location.
+[16:25:30	]Gulanga entered observer.
+[16:25:46	]Hiros has spawned a 'Entity [434][ix_teleporter]'.
+[16:26:32	]Gulanga exited observer at their location.
+[16:26:33	]Gulanga entered observer.
+[16:26:42	]Hiros exited observer at their location.
+[16:26:43	]Hiros entered observer.
+[16:27:19	]Hiros exited observer at their location.
+[16:27:20	]Hiros entered observer.
+[16:27:21	]Hiros exited observer at their location.
+[16:27:57	]Gulanga exited observer at their location.
+[16:28:00	]Hiros used command '/TeleporterSetWarpSound music/battle/a2_train_action1b.mp3'.
+[16:28:06	]Gulanga has used a context menu option with the name: remove
+[16:28:07	]Gulanga has used a context menu option with the name: remove
+[16:28:07	]Hiros used command '/TeleporterSetWarpSound music/battle/tension.mp3'.
+[16:28:08	]Hiros has warped from Default to Default.
+[16:28:11	]Hiros has warped from Default to Default.
+[16:28:17	]Hiros has warped from Default to Default.
+[16:28:20	]Hiros has warped from Default to Default.
+[16:29:43	]Hiros has warped from Default to Default.
+[16:30:07	]Hiros has warped from Default to Default.
+[16:30:41	]Hiros has warped from Default to Default.
+[16:33:46	]Gulanga entered observer.
+[16:33:48	]Gulanga exited observer at their location.
+[16:33:50	]Hiros has warped from Default to Default.
+[16:33:56	]Hiros entered observer.
+[16:33:56	]Hiros exited observer at their location.
+[16:34:11	]Hiros entered observer.
+[16:34:22	]Gulanga entered observer.
+[16:34:24	]Hiros exited observer at their location.
+[16:34:28	]Hiros entered observer.
+[16:34:35	]Hiros exited observer at their location.
+[16:34:35	]Hiros has warped from Default to Default.
+[16:34:42	]Gulanga exited observer at their location.
+[16:34:43	]Gulanga entered observer.
+[16:35:06	]Hiros entered observer.
+[16:35:27	]Hiros exited observer at their location.
+[16:40:09	]Gulanga exited observer at their location.
+[16:40:57	]Hiros entered observer.
+[16:41:10	]Hiros has spawned a 'Entity [433][ix_smuggler]'.
+[16:41:40	]Hiros exited observer at their location.
+[16:41:40	]Hiros entered observer.
+[16:41:40	]Hiros exited observer at their location.
+[16:41:41	]Hiros entered observer.
+[16:41:41	]Hiros exited observer at their location.
+[16:41:42	]Hiros entered observer.
+[16:41:44	]Hiros has spawned a 'Entity [434][ix_smuggler]'.
+[16:41:48	]Hiros has used a context menu option with the name: smuggler_edit
+[16:41:51	]Hiros has used a context menu option with the name: remove
+[16:41:54	]Hiros exited observer at their location.
+[16:41:55	]Hiros entered observer.
+[16:43:30	]Hiros exited observer at their location.
+[16:43:30	]Hiros entered observer.
+[16:43:31	]Hiros exited observer at their location.
+[16:43:33	]Hiros entered observer.
+[16:43:40	]Hiros exited observer at their location.
+[16:43:40	]Hiros entered observer.
+[16:43:42	]Hiros exited observer at their location.
+[16:43:42	]Hiros entered observer.
+[16:43:44	]Hiros exited observer at their location.
+[16:43:44	]Hiros entered observer.
+[16:44:13	]Hiros has spawned a 'Entity [434][ix_vendor]'.
+[16:44:17	]Hiros exited observer at their location.
+[16:44:17	]Hiros entered observer.
+[16:44:24	]Hiros has used a context menu option with the name: remove
+[16:45:12	]Gulanga has gone afk.
+[16:47:51	]Hiros exited observer at their location.
+[16:47:52	]Hiros entered observer.
+[16:47:54	]Hiros exited observer at their location.
+[16:47:54	]Hiros entered observer.
+[16:47:56	]Hiros exited observer at their location.
+[16:47:56	]Hiros entered observer.
+[16:47:57	]Hiros exited observer at their location.
+[16:47:58	]Hiros entered observer.
+[16:47:59	]Hiros exited observer at their location.
+[16:51:18	]Mango (STEAM_0:0:544539350) has disconnected.
+[16:51:29	]Hiros | Error 410 (STEAM_0:1:54068821) has disconnected.

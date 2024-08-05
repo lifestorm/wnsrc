@@ -1,0 +1,118 @@
+[02:47:17	]Atle has connected.
+[02:47:52	]Atle loaded the character 'testing char'
+[02:48:17	]testing char used command '/clothingcreator'.
+[02:53:22	]testing char has gone afk.
+[03:19:49	]Atle (STEAM_0:0:21027108) has disconnected.
+[11:45:53	]Atle has connected.
+[11:47:28	]Atle loaded the character 'testing char'
+[11:47:33	]testing char is fully healed.
+[11:47:39	]testing char used command '/clothingcreator'.
+[11:49:36	]THC has connected.
+[11:50:26	]THC loaded the character 'Test Guy'
+[11:51:00	]Test Guy used command '/PrintStaffList'.
+[11:51:42	]Test Guy ran SAM command 'asay' with arguments: 'there's no admin testing role rn?'
+[11:52:58	]testing char has gone afk.
+[11:53:43	]THC (STEAM_0:1:709534478) has disconnected (timed out).
+[11:57:27	]THC has connected.
+[11:59:29	]THC loaded the character 'Test Guy'
+[11:59:42	]Test Guy used command '/PrintStaffList'.
+[12:01:27	]Test Guy used command '/LinkRemove'.
+[12:01:39	]Test Guy used command '/LinkAccount thc'.
+[12:01:52	]Test Guy used command '/LinkComplete yJYkaY9bnRWR'.
+[12:02:29	][IC] Test Guy: Atle.
+[12:03:58	]testing char is no longer afk. Total time spent AFK: 955
+[12:04:55	]THC created the character 'John Tester'
+[12:04:55	]Test Guy has gained 20 chips.
+[12:04:55	]THC loaded the character 'John Tester'
+[12:04:55	]John Tester has gained a 'Flashlight' #350.
+[12:04:55	]John Tester has gained a '#31257's Identity Card' #351.
+[12:05:07	]THC (STEAM_0:1:709534478) deleted character 'Test Guy'
+[12:05:08	]THC (STEAM_0:1:709534478) deleted character 'Crabbie'
+[12:05:47	][IC] John Tester: !help.
+[12:08:36	]testing char used command '/clothingcreator'.
+[12:10:40	]THC (STEAM_0:1:709534478) has disconnected (timed out).
+[12:11:59	]testing char used command '/clothingcreator'.
+[12:12:12	]testing char used command '/clothingcreator'.
+[12:13:49	]testing char used command '/clothingcreator'.
+[12:15:30	]THC has connected.
+[12:15:47	]testing char used command '/clothingcreator'.
+[12:16:15	]THC loaded the character 'John Tester'
+[12:20:40	]testing char used command '/clothingcreator'.
+[12:22:58	]John Tester used command '/PM testing hello, could you give me an admin role or cp whitelist to test some things?'.
+[12:25:40	]testing char has gone afk.
+[12:37:05	]testing char is no longer afk. Total time spent AFK: 980
+[12:39:17	]testing char used command '/clothingcreator'.
+[12:43:27	]John Tester has gained level 1 in the Speed skill.
+[12:44:05	]testing char has gone afk.
+[12:44:30	]John Tester used command '/UnStuck'.
+[12:46:29	]John Tester has fired a toolgun with the name: sh_npcspawnedit
+[12:46:40	]THC (STEAM_0:1:709534478) has disconnected.
+[12:53:15	]testing char is no longer afk. Total time spent AFK: 845
+[12:58:57	]testing char used command '/clothingcreator'.
+[13:04:24	]testing char has gone afk.
+[13:12:59	]testing char is no longer afk. Total time spent AFK: 810
+[13:13:00	]Atle (STEAM_0:0:21027108) has disconnected.
+[15:06:33	]Atle has connected.
+[15:08:33	]Atle loaded the character 'testing char'
+[15:10:10	]testing char has fired a toolgun with the name: remover
+[15:10:11	]testing char has fired a toolgun with the name: remover
+[15:10:11	]testing char has fired a toolgun with the name: remover
+[15:10:23	]testing char used command '/clothingcreator'.
+[15:11:25	]testing char used command '/clothingcreator'.
+[15:13:21	]testing char used command '/clothingcreator'.
+[15:18:03	]testing char has gone afk.
+[16:46:58	]testing char is no longer afk. Total time spent AFK: 5630
+[16:47:02	]Atle (STEAM_0:0:21027108) has disconnected.
+[16:49:40	]Atle has connected.
+[16:50:10	]Atle loaded the character 'testing char'
+[16:50:14	]testing char used command '/clothingcreator'.
+[16:55:40	]testing char has gone afk.
+[18:02:58	]🗲🗲 Salvador 🗲🗲 has connected.
+[18:06:33	]🗲🗲 Salvador 🗲🗲 created the character 'John Woman'
+[18:06:33	]🗲🗲 Salvador 🗲🗲 loaded the character 'John Woman'
+[18:06:33	]John Woman has gained a 'Request Device' #352.
+[18:06:33	]John Woman has gained a '#31982's Identity Card' #353.
+[18:08:21	]John Woman used command '/CharFallOver'.
+[18:08:23	]John Woman used command '/CharGetUp'.
+[18:08:25	]John Woman used command '/CharGetUp'.
+[18:08:26	]John Woman used command '/CharGetUp'.
+[18:08:27	]John Woman used command '/CharGetUp'.
+[18:09:55	]testing char is no longer afk. Total time spent AFK: 4750
+[18:09:55	]testing char entered observer.
+[18:10:02	]testing char exited observer at their location.
+[18:10:04	]testing char ran SAM command 'bring' with arguments: 'john'
+[18:10:26	][IC] John Woman: Admin help me.
+[18:10:28	]testing char ran SAM command 'menu' with arguments: ''
+[18:10:31	]testing char ran SAM command 'menu' with arguments: ''
+[18:10:45	]testing char ran SAM command 'menu' with arguments: ''
+[18:10:57	][IC] John Woman: Admin stop t pose pls.
+[18:10:59	]testing char ran SAM command 'setrankid' with arguments: 'STEAM_0:1:103983481' 'senior_admin'
+[18:11:03	]John Woman entered observer.
+[18:11:04	]John Woman exited observer at their location.
+[18:11:09	]testing char used command '/clothingcreator'.
+[18:11:13	]John Woman used command '/clothingcreator'.
+[18:15:42	]John Woman used command '/clothingcreator'.
+[18:16:40	]THC has connected.
+[18:17:03	][AltChecker] THC joined without a cookie, but matched installation with existing cookie. Certainty 2/5
+[18:17:16	]THC loaded the character 'John Tester'
+[18:17:24	]John Tester used command '/PrintStaffList'.
+[18:19:30	]John Tester used command '/PrintStaffList'.
+[18:21:03	]John Woman has gone afk.
+[18:21:55	]testing char has gone afk.
+[18:23:00	]John Tester used command '/LinkRemove'.
+[18:23:04	]John Tester used command '/LinkAccount thc'.
+[18:23:22	]John Tester used command '/LinkComplete vscOsFeRZ82z'.
+[18:24:19	]THC (STEAM_0:1:709534478) has disconnected.
+[18:24:30	]testing char is no longer afk. Total time spent AFK: 450
+[18:29:30	]testing char has gone afk.
+[18:30:30	]testing char is no longer afk. Total time spent AFK: 355
+[18:30:53	]John Woman is no longer afk. Total time spent AFK: 885
+[18:35:30	]Atle (STEAM_0:0:21027108) has disconnected.
+[18:36:23	]John Woman has gone afk.
+[18:39:03	]John Woman is no longer afk. Total time spent AFK: 455
+[18:39:14	]🗲🗲 Salvador 🗲🗲 (STEAM_0:1:103983481) has disconnected.
+[20:19:41	]Atle has connected.
+[20:20:44	]Atle loaded the character 'testing char'
+[20:20:49	]testing char used command '/clothingcreator'.
+[20:26:14	]testing char has gone afk.
+[20:45:02	]Atle (STEAM_0:0:21027108) has disconnected.

@@ -1,0 +1,58 @@
+[16:07:27	]M!NT has connected.
+[16:07:53	]M!NT loaded the character 'Jacques Morrow'
+[16:07:58	]Jacques Morrow is fully healed.
+[16:08:50	]Jacques Morrow set music to '"willardnetworks/charactercreation/wn_phaneron.mp3"'.
+[16:08:56	]Jacques Morrow entered observer.
+[16:09:22	]Jacques Morrow exited observer at their location.
+[16:10:24	]M!NT (STEAM_0:1:120751263) deleted character 'Test Character Please Ignore'
+[16:10:38	]M!NT (STEAM_0:1:120751263) deleted character 'Maj. Livio Spengler'
+[16:10:44	]M!NT (STEAM_0:1:120751263) deleted character 'Vitus Kleinmann'
+[16:11:39	]M!NT loaded the character 'Adalia Torres'
+[16:11:52	]M!NT (STEAM_0:1:120751263) deleted character 'Jacques Morrow'
+[16:13:41	]Adalia Torres set maxCharacters to '41'.
+[16:16:15	]M!NT loaded the character 'Andriy Andreev'
+[16:16:20	]Andriy Andreev is fully healed.
+[16:16:54	]Andriy Andreev used command '/CharDesc'.
+[16:17:21	]Andriy Andreev ran 'Open' on item 'Loyalist Ration' (#2629245)
+[16:17:21	]Andriy Andreev has gained a 'Baked Mush' #3307374.
+[16:17:21	]Andriy Andreev has gained a 'Apple' #3307375.
+[16:17:21	]Andriy Andreev has gained a 'Sparkling Breen's Water' #3307376.
+[16:17:21	]Andriy Andreev has gained a '20 Credits Coupon' #3307377.
+[16:17:23	]Andriy Andreev ran 'Consume' on item 'Apple' (#3307375)
+[16:17:24	]Andriy Andreev ran 'Consume' on item 'Baked Mush' (#3307374)
+[16:17:24	]Andriy Andreev has gained a level -1 long boost in Strength.
+[16:17:24	]Andriy Andreev has gained a 'Empty Jar' #3307378.
+[16:18:11	]Andriy Andreev has gained level 1 in the Guns skill.
+[16:20:15	][IC] Andriy Andreev: Hello!
+[16:20:20	][ME] Andriy Andreev: crosses his arms.
+[16:21:09	]Andriy Andreev has given himself a overcoat_brown.
+[16:21:09	]Andriy Andreev has gained a 'Brown Overcoat' #3307379.
+[16:23:41	]Andriy Andreev has spawned a cit_computer.
+[16:23:49	]Andriy Andreev ran 'Place' on item 'Citizen Computer' (#3307380)
+[16:25:02	]Andriy Andreev has used a context menu option with the name: remove
+[16:25:12	]Andriy Andreev has used a context menu option with the name: remove
+[16:27:52	]Andriy Andreev has spawned a musicradio_reb.
+[16:27:55	]Andriy Andreev ran 'Deploy' on item 'Rebel Radio' (#3307381)
+[16:30:58	]Andriy Andreev has used a context menu option with the name: remove
+[16:31:01	]Andriy Andreev has spawned a musicradio_cmb.
+[16:31:02	]Andriy Andreev ran 'Deploy' on item 'Benefactor Radio' (#3307382)
+[16:33:01	]Andriy Andreev has used a context menu option with the name: remove
+[16:33:06	]Andriy Andreev has spawned a musicradio_reb.
+[16:33:07	]Andriy Andreev ran 'Deploy' on item 'Rebel Radio' (#3307383)
+[16:33:28	]Andriy Andreev used command '/MusicRadioChannelSeek Classic Rock'.
+[16:33:48	]Andriy Andreev used command '/MusicRadioChannelSeek Country'.
+[16:34:31	]Andriy Andreev used command '/MusicRadioChannelSeek Country'.
+[16:35:44	]Andriy Andreev used command '/MusicRadioChannelSeek Country'.
+[16:36:48	]Andriy Andreev used command '/MusicRadioChannelSeek Country'.
+[16:38:11	]Andriy Andreev used command '/MusicRadioChannelSeek Country'.
+[16:38:17	]Andriy Andreev used command '/MusicRadioChannelSeek Country'.
+[16:38:24	]Andriy Andreev used command '/MusicRadioChannelSeek Country'.
+[16:39:27	]Andriy Andreev used command '/MusicRadioChannelSeek Country'.
+[16:39:35	]Andriy Andreev used command '/MusicRadioChannelSeek Country'.
+[16:39:43	]Andriy Andreev used command '/MusicRadioChannelSeek Country'.
+[16:42:06	]Andriy Andreev used command '/MusicRadioChannelSeek Country'.
+[16:42:14	]Andriy Andreev used command '/MusicRadioChannelSeek Country'.
+[16:43:19	]Andriy Andreev used command '/MusicRadioChannelSeek Country'.
+[16:44:15	]Andriy Andreev used command '/PlaySoundOnRadioClass pirate willardnetworks/musicradio/rebel/bluegrass/musicradio_willienelson_hellowalls.mp3 200'.
+[16:45:00	]Andriy Andreev has used a context menu option with the name: remove
+[16:45:10	]M!NT (STEAM_0:1:120751263) has disconnected.

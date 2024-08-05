@@ -1,0 +1,243 @@
+[01:40:50	]Astro has connected.
+[01:41:59	]Astro created the character 'sfsdfdsf'
+[01:41:59	]sfsdfdsf has gained a 'Flashlight' #32.
+[01:41:59	]sfsdfdsf has gained a 'Black Armband' #33.
+[01:41:59	]sfsdfdsf has gained a '#07142's Identity Card' #34.
+[01:41:59	]sfsdfdsf has gained a 'Grey Jumpsuit' #35.
+[01:41:59	]sfsdfdsf has gained a 'Green Jumpsuit Trousers' #36.
+[01:41:59	]sfsdfdsf has gained a 'Worn Dark Shoes' #37.
+[01:41:59	]Astro loaded the character 'sfsdfdsf'
+[01:42:04	]sfsdfdsf entered observer.
+[01:42:05	]sfsdfdsf exited observer at their location.
+[01:42:07	]sfsdfdsf used command '/PrintStaffList'.
+[01:42:12	]sfsdfdsf entered observer.
+[01:42:13	]sfsdfdsf exited observer at their location.
+[01:42:14	]sfsdfdsf entered observer.
+[01:42:20	]sfsdfdsf exited observer at their location.
+[01:42:40	]sfsdfdsf used command '/CharGiveFlag fs pet'.
+[01:43:43	]sfsdfdsf has spawned a 'Entity [296][aw2_manhack]'.
+[01:44:07	]sfsdfdsf has spawned a 'Entity [292][hl2r_laserdot]'.
+[01:44:08	]sfsdfdsf has spawned a 'Entity [296][hl2r_laserdot]'.
+[01:44:09	]sfsdfdsf has spawned a 'Entity [297][tfa_csgo_thrownflash]'.
+[01:44:21	]sfsdfdsf has spawned a 'Entity [297][decal-editor]'.
+[01:44:25	]sfsdfdsf has spawned a 'Entity [297][ix_trashspawner]'.
+[01:44:30	]sfsdfdsf has spawned a 'Entity [297][mmod_crossbowbolt]'.
+[01:44:42	]sfsdfdsf has spawned a 'Entity [297][wn_scaffold]'.
+[01:44:43	]sfsdfdsf entered observer.
+[01:44:44	]sfsdfdsf exited observer at their location.
+[01:44:45	]sfsdfdsf has spawned a 'Entity [297][mmod_rpg]'.
+[01:45:49	]sfsdfdsf has spawned a microzide.
+[01:45:51	]sfsdfdsf ran 'take' on item 'Microzide (blood pressure/swelling)' (#38)
+[01:45:51	]sfsdfdsf has gained a 'Microzide (blood pressure/swelling)' #38.
+[01:45:56	]sfsdfdsf entered observer.
+[01:45:57	]sfsdfdsf exited observer at their location.
+[01:45:58	]sfsdfdsf has taken 4 damage from worldspawn.
+[01:46:00	]sfsdfdsf ran 'use' on item 'Microzide (blood pressure/swelling)' (#38)
+[01:46:00	]sfsdfdsf has performed the 'Use Microzide (blood pressure/swelling)' action, gaining 13 experience in medicine.
+[01:46:00	]sfsdfdsf was disinfected by sfsdfdsf for 24 seconds.
+[01:46:00	]sfsdfdsf was bandaged by sfsdfdsf for 8 HP.
+[01:46:19	]sfsdfdsf is fully healed.
+[01:46:33	]sfsdfdsf has spawned a paintcan.
+[01:46:35	]sfsdfdsf ran 'take' on item 'Paintcan' (#39)
+[01:46:35	]sfsdfdsf has gained a 'Paintcan' #39.
+[01:46:41	]sfsdfdsf ran 'drop' on item 'Paintcan' (#39)
+[01:46:41	]sfsdfdsf has lost a 'Paintcan' #39.
+[01:46:42	]sfsdfdsf has used a context menu option with the name: rb655_dissolve
+[01:46:44	]env_entity_dissolver destroyed a 'Paintcan' #39.
+[01:46:48	]sfsdfdsf has given himself a rolledposter.
+[01:46:48	]sfsdfdsf has gained a 'Rolled Poster' #40.
+[01:46:51	]sfsdfdsf ran 'drop' on item 'Rolled Poster' (#40)
+[01:46:51	]sfsdfdsf has lost a 'Rolled Poster' #40.
+[01:46:52	]sfsdfdsf has used a context menu option with the name: rb655_dissolve
+[01:46:54	]env_entity_dissolver destroyed a 'Rolled Poster' #40.
+[01:47:19	]sfsdfdsf used command '/ToggleRaise'.
+[01:47:28	]sfsdfdsf used command '/ToggleRaise'.
+[01:47:48	]sfsdfdsf used command '/ToggleRaise'.
+[01:47:55	]sfsdfdsf used command '/ToggleRaise'.
+[01:48:07	]sfsdfdsf used command '/ToggleRaise'.
+[01:48:25	]sfsdfdsf used command '/ToggleRaise'.
+[01:48:33	]sfsdfdsf used command '/ToggleRaise'.
+[01:48:40	]sfsdfdsf used command '/ToggleRaise'.
+[01:48:59	]sfsdfdsf used command '/ToggleRaise'.
+[01:49:07	]sfsdfdsf has spawned a 'NPC [305][npc_zombie]'.
+[01:49:18	]sfsdfdsf has spawned a 'NPC [305][npc_poisonzombie]'.
+[01:49:40	]sfsdfdsf used command '/ToggleRaise'.
+[01:49:50	]sfsdfdsf used command '/ToggleRaise'.
+[01:49:57	]sfsdfdsf used command '/ToggleRaise'.
+[01:50:07	]sfsdfdsf used command '/ToggleRaise'.
+[01:50:30	]sfsdfdsf used command '/ToggleRaise'.
+[01:50:39	]sfsdfdsf used command '/ToggleRaise'.
+[01:50:53	]sfsdfdsf entered observer.
+[01:50:55	]sfsdfdsf exited observer at their location.
+[01:51:04	]sfsdfdsf used command '/ToggleRaise'.
+[01:51:07	]sfsdfdsf has taken 0 damage from point_hurt.
+[01:51:07	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:07	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:07	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:07	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:07	]sfsdfdsf has taken 0 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 1 damage from env_fire.
+[01:51:08	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 0 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 0 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 0 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 0 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 0 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 0 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 1 damage from env_fire.
+[01:51:08	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 0 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 1 damage from env_fire.
+[01:51:08	]sfsdfdsf has taken 0 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 0 damage from point_hurt.
+[01:51:08	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 0 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 0 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 1 damage from env_fire.
+[01:51:09	]sfsdfdsf has taken 0 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 1 damage from env_fire.
+[01:51:09	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 0 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 1 damage from env_fire.
+[01:51:09	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 0 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 1 damage from env_fire.
+[01:51:09	]sfsdfdsf has taken 0 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 0 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 1 damage from env_fire.
+[01:51:09	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 1 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 0 damage from point_hurt.
+[01:51:09	]sfsdfdsf has taken 0 damage from point_hurt.
+[01:51:09	]sfsdfdsf was knocked unconscious and is bleeding out.
+[01:51:14	]sfsdfdsf ran SAM command 'respawn' with arguments: '^'
+[01:51:14	]sfsdfdsf is fully healed.
+[01:51:20	]sfsdfdsf used command '/ToggleRaise'.
+[01:51:36	]sfsdfdsf used command '/ToggleRaise'.
+[01:51:49	]sfsdfdsf used command '/ToggleRaise'.
+[01:52:03	]sfsdfdsf used command '/ToggleRaise'.
+[01:52:11	]sfsdfdsf used command '/ToggleRaise'.
+[01:52:25	]sfsdfdsf used command '/ToggleRaise'.
+[01:52:33	]sfsdfdsf used command '/ToggleRaise'.
+[01:52:44	]sfsdfdsf used command '/ToggleRaise'.
+[01:52:53	]sfsdfdsf used command '/ToggleRaise'.
+[01:52:56	]sfsdfdsf has spawned a 'NPC [325][npc_zombie]'.
+[01:53:08	]sfsdfdsf used command '/ToggleRaise'.
+[01:53:12	]sfsdfdsf used command '/ToggleRaise'.
+[01:53:25	]sfsdfdsf used command '/ToggleRaise'.
+[01:53:33	]sfsdfdsf used command '/ToggleRaise'.
+[01:53:42	]sfsdfdsf used command '/ToggleRaise'.
+[01:53:42	]sfsdfdsf entered observer.
+[01:53:43	]sfsdfdsf exited observer at their location.
+[01:53:46	]sfsdfdsf used command '/ToggleRaise'.
+[01:54:00	]sfsdfdsf used command '/ToggleRaise'.
+[01:54:12	]sfsdfdsf used command '/ToggleRaise'.
+[01:54:25	]sfsdfdsf used command '/ToggleRaise'.
+[01:54:43	]sfsdfdsf used command '/PlyWhitelist sfs ota'.
+[01:54:55	]Astro created the character 'S10/OWS.GHOST-11'
+[01:54:55	]sfsdfdsf has gained level 40 in the Guns skill.
+[01:54:55	]sfsdfdsf has gained level 40 in the Speed skill.
+[01:54:56	]S10/OWS.GHOST-11 has gained a 'Small Bag' #41.
+[01:54:56	]S10/OWS.GHOST-11 has gained a 'Large Bag' #42.
+[01:54:56	]S10/OWS.GHOST-11 has gained a 'Flashlight' #43.
+[01:54:56	]S10/OWS.GHOST-11 has gained a 'Combine PDA' #44.
+[01:54:56	]S10/OWS.GHOST-11 has gained a 'OTA Uniform' #45.
+[01:54:56	]S10/OWS.GHOST-11 has gained a 'OTA Mask' #46.
+[01:54:56	]Astro loaded the character 'S10/OWS.GHOST-11'
+[01:54:56	]S10/OWS.GHOST-11 has gained a 'Rappel Gear' #47.
+[01:54:56	]S10/OWS.GHOST-11 has gained a 'Magazine Pouch' #48.
+[01:54:56	]S10/OWS.GHOST-11 has gained a 'Ammunition Pouch' #49.
+[01:55:01	]S10/OWS.GHOST-11 used command '/ToggleRaise'.
+[01:55:25	]S10/OWS.GHOST-11 used command '/CharGiveFlag ghost pet'.
+[01:55:27	]S10/OWS.GHOST-11 has fired a toolgun with the name: camera
+[01:55:32	]S10/OWS.GHOST-11 used command '/ToggleRaise'.
+[01:55:49	]S10/OWS.GHOST-11 used command '/ToggleRaise'.
+[01:55:59	]S10/OWS.GHOST-11 has given himself a uniform_owg.
+[01:55:59	]S10/OWS.GHOST-11 has gained a 'OTA Shotgunner Uniform' #50.
+[01:56:45	]S10/OWS.GHOST-11 has spawned a 'NPC [298][npc_zombie]'.
+[01:56:51	]S10/OWS.GHOST-11 has spawned a 'NPC [298][npc_fastzombie]'.
+[01:56:52	]S10/OWS.GHOST-11 has taken 5 damage from npc_fastzombie.
+[01:56:56	]S10/OWS.GHOST-11 is fully healed.
+[01:57:05	]S10/OWS.GHOST-11 has spawned a 'Entity [298][ix_workerk_electric]'.
+[01:57:15	]S10/OWS.GHOST-11 has spawned a 'Entity [298][ix_scanner]'.
+[01:57:21	]S10/OWS.GHOST-11 is fully healed.
+[01:57:22	]S10/OWS.GHOST-11 has spawned a 'Entity [298][ix_smuggler]'.
+[01:57:25	]S10/OWS.GHOST-11 entered observer.
+[01:57:25	]S10/OWS.GHOST-11 exited observer at their location.
+[01:57:38	]S10/OWS.GHOST-11 entered observer.
+[01:57:39	]S10/OWS.GHOST-11 exited observer at their location.
+[01:57:42	]S10/OWS.GHOST-11 entered observer.
+[01:57:43	]S10/OWS.GHOST-11 exited observer at their location.
+[01:57:49	]S10/OWS.GHOST-11 has spawned a 'Entity [298][ix_workshiftterminal]'.
+[01:57:53	]S10/OWS.GHOST-11 has spawned a 'Entity [298][ix_intercom]'.
+[01:57:57	]S10/OWS.GHOST-11 has used a context menu option with the name: ixchangeintercomchannel
+[01:58:01	][IC] S10/OWS.GHOST-11: <:: Hi. ::>
+[01:58:03	]S10/OWS.GHOST-11 entered observer.
+[01:58:04	]S10/OWS.GHOST-11 exited observer at their location.
+[01:58:08	]S10/OWS.GHOST-11 has spawned a 'Entity [298][ix_combinemonitor_tv]'.
+[01:58:11	]S10/OWS.GHOST-11 has spawned a 'Entity [302][ix_combinemonitor_small]'.
+[01:58:15	]S10/OWS.GHOST-11 has spawned a 'Entity [298][ix_intercom]'.
+[01:58:19	]S10/OWS.GHOST-11 entered observer.
+[01:58:23	]S10/OWS.GHOST-11 exited observer at their location.
+[01:58:27	]S10/OWS.GHOST-11 entered observer.
+[01:58:28	]S10/OWS.GHOST-11 exited observer at their location.
+[01:58:33	]S10/OWS.GHOST-11 has spawned a 'Entity [292][grenade_helicopter]'.
+[01:58:33	]S10/OWS.GHOST-11 has spawned a 'Entity [294][grenade_helicopter]'.
+[01:58:34	]S10/OWS.GHOST-11 has taken 27 damage from grenade_helicopter.
+[01:58:34	]S10/OWS.GHOST-11 has spawned a 'Entity [298][grenade_helicopter]'.
+[01:58:38	]S10/OWS.GHOST-11 has taken 20 damage from grenade_helicopter.
+[01:58:39	]S10/OWS.GHOST-11 has taken 26 damage from grenade_helicopter.
+[01:58:43	]S10/OWS.GHOST-11 has fired a toolgun with the name: creator
+[01:58:43	]S10/OWS.GHOST-11 has spawned a 'Entity [292][grenade_helicopter]'.
+[01:58:43	]S10/OWS.GHOST-11 has fired a toolgun with the name: creator
+[01:58:43	]S10/OWS.GHOST-11 has spawned a 'Entity [294][grenade_helicopter]'.
+[01:58:43	]S10/OWS.GHOST-11 has fired a toolgun with the name: creator
+[01:58:43	]S10/OWS.GHOST-11 has spawned a 'Entity [296][grenade_helicopter]'.
+[01:58:43	]S10/OWS.GHOST-11 has fired a toolgun with the name: creator
+[01:58:43	]S10/OWS.GHOST-11 has spawned a 'Entity [298][grenade_helicopter]'.
+[01:58:44	]S10/OWS.GHOST-11 has fired a toolgun with the name: creator
+[01:58:44	]S10/OWS.GHOST-11 has spawned a 'Entity [302][grenade_helicopter]'.
+[01:58:44	]S10/OWS.GHOST-11 has fired a toolgun with the name: creator
+[01:58:44	]S10/OWS.GHOST-11 has spawned a 'Entity [304][grenade_helicopter]'.
+[01:58:45	]S10/OWS.GHOST-11 has fired a toolgun with the name: creator
+[01:58:45	]S10/OWS.GHOST-11 has spawned a 'Entity [305][grenade_helicopter]'.
+[01:58:45	]S10/OWS.GHOST-11 has fired a toolgun with the name: creator
+[01:58:45	]S10/OWS.GHOST-11 has spawned a 'Entity [306][grenade_helicopter]'.
+[01:58:45	]S10/OWS.GHOST-11 has fired a toolgun with the name: creator
+[01:58:45	]S10/OWS.GHOST-11 has spawned a 'Entity [308][grenade_helicopter]'.
+[01:58:48	]S10/OWS.GHOST-11 has taken 22 damage from grenade_helicopter.
+[01:58:48	]S10/OWS.GHOST-11 has taken 23 damage from grenade_helicopter.
+[01:58:48	]S10/OWS.GHOST-11 has taken 23 damage from grenade_helicopter.
+[01:58:48	]S10/OWS.GHOST-11 was knocked unconscious and is bleeding out.
+[01:58:53	]S10/OWS.GHOST-11 ran SAM command 'slay' with arguments: '^'
+[01:59:19	]S10/OWS.GHOST-11 has spawned a 'Entity [290][wn_washing_factory]'.
+[01:59:27	]S10/OWS.GHOST-11 has used a context menu option with the name: remove
+[01:59:37	]S10/OWS.GHOST-11 used command '/PlyWhitelist ghost vort'.
+[01:59:50	]Astro created the character 'dsfdsfdsfdsf'
+[01:59:51	]Astro loaded the character 'dsfdsfdsfdsf'
+[02:00:07	]dsfdsfdsfdsf has spawned a 'Entity [290][ix_campfire]'.
+[02:00:13	]Astro (STEAM_0:1:86837969) has disconnected.

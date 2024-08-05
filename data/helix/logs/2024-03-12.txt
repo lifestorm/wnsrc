@@ -1,0 +1,243 @@
+[04:01:18	]The Safe container (#107251) was inactive and has been soft-removed.
+[04:01:18	]The Safe container (#107252) was inactive and has been soft-removed.
+[04:01:18	]The File Cabinet container (#110948) was inactive and has been soft-removed.
+[17:53:30	]Mango has connected.
+[17:54:11	]Mango loaded the character 'Vahh'Brun-Nox'
+[17:54:16	]Vahh'Brun-Nox is fully healed.
+[17:54:43	][IC] Vahh'Brun-Nox: A.
+[17:55:18	]Vahh'Brun-Nox entered observer.
+[17:55:19	]Vahh'Brun-Nox exited observer at their location.
+[17:56:25	]Vahh'Brun-Nox used command '/VortUnlock vahh'.
+[17:56:30	]Vahh'Brun-Nox used command '/UnlockShackles vahh'.
+[17:56:33	]Vahh'Brun-Nox ran 'drop' on item 'Vortigaunt Collar' (#2239131)
+[17:56:33	]Vahh'Brun-Nox has lost a 'Vortigaunt Collar' #2239131.
+[17:56:34	]Vahh'Brun-Nox ran 'drop' on item 'Vortigaunt Shackles' (#2239130)
+[17:56:34	]Vahh'Brun-Nox has lost a 'Vortigaunt Shackles' #2239130.
+[17:56:39	]Vahh'Brun-Nox ran 'drop' on item 'Vortigaunt Hooks' (#2239129)
+[17:56:39	]Vahh'Brun-Nox has lost a 'Vortigaunt Hooks' #2239129.
+[17:56:43	][IC] Vahh'Brun-Nox: Test.
+[17:57:13	]Vahh'Brun-Nox entered observer.
+[17:57:14	]Vahh'Brun-Nox exited observer at their location.
+[17:59:51	]MelonHeadzzz has connected.
+[18:01:20	]MelonHeadzzz loaded the character 'High Elder Turr'Rai-Kut'
+[18:01:25	]High Elder Turr'Rai-Kut is fully healed.
+[18:01:31	][IC] High Elder Turr'Rai-Kut: Gong...
+[18:01:33	][IC] Vahh'Brun-Nox: Turr...
+[18:01:37	][IC] Vahh'Brun-Nox: Hello fren.
+[18:01:39	]High Elder Turr'Rai-Kut used command '/VortSetCoterminous Turr true'.
+[18:01:41	]High Elder Turr'Rai-Kut has set coterminous state for High Elder Turr'Rai-Kut to true
+[18:01:55	][IC] Vahh'Brun-Nox: Okay we gonna do the super coterminous testing.
+[18:01:56	]Vahh'Brun-Nox entered observer.
+[18:02:00	]Vahh'Brun-Nox exited observer at their location.
+[18:02:00	][LOOC] High Elder Turr'Rai-Kut: im already coterminous ye
+[18:02:04	]High Elder Turr'Rai-Kut entered observer.
+[18:02:09	]High Elder Turr'Rai-Kut exited observer at their location.
+[18:02:13	][LOOC] High Elder Turr'Rai-Kut: aight so im already coterminous
+[18:02:22	][LOOC] Vahh'Brun-Nox: you did the command?
+[18:02:25	][LOOC] High Elder Turr'Rai-Kut: yep!
+[18:02:31	][LOOC] Vahh'Brun-Nox: lemme reload character
+[18:02:32	][LOOC] High Elder Turr'Rai-Kut: Vahh you are TINY
+[18:02:38	][LOOC] Vahh'Brun-Nox: or you try to reload
+[18:02:45	]MelonHeadzzz has unloaded their "High Elder Turr'Rai-Kut" character.
+[18:02:52	]MelonHeadzzz loaded the character 'High Elder Turr'Rai-Kut'
+[18:03:00	][LOOC] Vahh'Brun-Nox: you're vortigaunt for me now
+[18:03:02	][LOOC] High Elder Turr'Rai-Kut: epic
+[18:03:07	][IC] Vahh'Brun-Nox: BUT.
+[18:03:08	][LOOC] High Elder Turr'Rai-Kut: what does my name say in the sensing thing
+[18:03:12	][IC] Vahh'Brun-Nox: I can still click E for description.
+[18:03:18	][LOOC] High Elder Turr'Rai-Kut: hm. is that the intention?
+[18:03:26	][LOOC] Vahh'Brun-Nox: not really, as description is removed
+[18:03:27	][IC] Vahh'Brun-Nox: .
+[18:03:31	][LOOC] High Elder Turr'Rai-Kut: then we may need to have coterminous vortigaunts just have the same description
+[18:03:37	][LOOC] High Elder Turr'Rai-Kut: i think that's a Helix thing, we can't really change that
+[18:03:46	][LOOC] Vahh'Brun-Nox: it's a plugin I think
+[18:03:49	][LOOC] High Elder Turr'Rai-Kut: hmmmm
+[18:03:51	][LOOC] Vahh'Brun-Nox: I'll look into it
+[18:03:55	][LOOC] Vahh'Brun-Nox: let me go cotertminous too
+[18:03:58	]Vahh'Brun-Nox used command '/VortSetCoterminous vahh true'.
+[18:03:59	]Vahh'Brun-Nox has set coterminous state for Vahh'Brun-Nox to true
+[18:04:01	]Mango has unloaded their "Vahh'Brun-Nox" character.
+[18:04:03	][IC] High Elder Turr'Rai-Kut: Gong...
+[18:04:04	][IC] High Elder Turr'Rai-Kut: Coterminous.
+[18:04:05	]Mango loaded the character 'Vahh'Brun-Nox'
+[18:04:07	][IC] High Elder Turr'Rai-Kut: We are... Coterminous.
+[18:04:14	][LOOC] High Elder Turr'Rai-Kut: it's vortigaunt but you dont look like us
+[18:04:17	][LOOC] High Elder Turr'Rai-Kut: it doesnt force your body
+[18:04:26	][LOOC] Vahh'Brun-Nox: oh yeah, it doesn't. nuke told me you'd set that manually
+[18:04:30	][LOOC] High Elder Turr'Rai-Kut: ah right
+[18:04:32	][LOOC] High Elder Turr'Rai-Kut: may i?
+[18:04:35	][LOOC] Vahh'Brun-Nox: I offered to change it
+[18:04:37	][LOOC] Vahh'Brun-Nox: sure
+[18:04:38	]High Elder Turr'Rai-Kut used command '/CharSetSkin Vahh 0'.
+[18:04:41	]High Elder Turr'Rai-Kut used command '/ViewInfo vahh'.
+[18:05:04	][IC] Vahh'Brun-Nox: Tell me if you see my chat from far.
+[18:05:06	][LOOC] High Elder Turr'Rai-Kut: i think you need to reload for your thing
+[18:05:12	][LOOC] High Elder Turr'Rai-Kut: like your height
+[18:05:16	][LOOC] High Elder Turr'Rai-Kut: but regardless
+[18:05:17	]Mango has unloaded their "Vahh'Brun-Nox" character.
+[18:05:20	]Mango loaded the character 'Vahh'Brun-Nox'
+[18:05:26	][VORT] High Elder Turr'Rai-Kut: Testing the distant conversation.
+[18:05:30	][IC] Vahh'Brun-Nox: Greetings.
+[18:05:33	][VORT] High Elder Turr'Rai-Kut: Greetingsss...
+[18:05:37	][VORT] High Elder Turr'Rai-Kut: The symbol is an error.
+[18:05:38	][OOC] Vahh'Brun-Nox: see it?
+[18:05:41	][OOC] High Elder Turr'Rai-Kut: yep!
+[18:05:44	][OOC] High Elder Turr'Rai-Kut: do you see mine?
+[18:05:51	][OOC] High Elder Turr'Rai-Kut: the symbol beside it is an error, do you have a graphic planned?
+[18:05:55	][OOC] Vahh'Brun-Nox: type something
+[18:05:57	][OOC] Vahh'Brun-Nox: oh yeah
+[18:05:58	][VORT] High Elder Turr'Rai-Kut: Gong
+[18:06:07	][VORT] High Elder Turr'Rai-Kut: Galanga
+[18:06:11	][OOC] High Elder Turr'Rai-Kut: im typing
+[18:06:13	][OOC] Vahh'Brun-Nox: i can't see anytihngh so far
+[18:06:19	][OOC] High Elder Turr'Rai-Kut: weird, bcuz i can
+[18:06:28	][OOC] High Elder Turr'Rai-Kut: oh wait unless youre using /rvort
+[18:06:31	]High Elder Turr'Rai-Kut used command '/rvort Checking.'.
+[18:06:36	][OOC] Vahh'Brun-Nox: i see now
+[18:06:42	][OOC] High Elder Turr'Rai-Kut: alright well that was me using /rvort, but not talking
+[18:06:50	][OOC] High Elder Turr'Rai-Kut: try talking again using your vortigese
+[18:06:55	][VORT] Vahh'Brun-Nox: hello
+[18:07:02	][OOC] High Elder Turr'Rai-Kut: again?
+[18:07:08	][VORT] Vahh'Brun-Nox: hi greetings
+[18:07:09	][VORT] High Elder Turr'Rai-Kut: rah
+[18:07:11	][OOC] Vahh'Brun-Nox: didn't work?
+[18:07:16	][OOC] Vahh'Brun-Nox: I have to fix that
+[18:07:19	][OOC] High Elder Turr'Rai-Kut: hang on let me check what youre doing
+[18:07:28	][OOC] High Elder Turr'Rai-Kut: ok i saw it
+[18:07:31	][VORT] High Elder Turr'Rai-Kut: Greetings
+[18:07:33	][OOC] High Elder Turr'Rai-Kut: tested again
+[18:07:38	][VORT] High Elder Turr'Rai-Kut: Greetings
+[18:07:38	][IC] Vahh'Brun-Nox: Hello.
+[18:07:42	][OOC] High Elder Turr'Rai-Kut: ok there we go
+[18:07:44	][VORT] Vahh'Brun-Nox: vortigese
+[18:07:48	][OOC] High Elder Turr'Rai-Kut: the range just has to be upped SIGNIFICANTLY i think
+[18:07:56	][LOOC] Vahh'Brun-Nox: try you typing normally
+[18:08:02	][IC] High Elder Turr'Rai-Kut: English time.
+[18:08:05	][IC] High Elder Turr'Rai-Kut: English time again.
+[18:08:08	][IC] High Elder Turr'Rai-Kut: English time again.
+[18:08:11	][IC] High Elder Turr'Rai-Kut: English time again.
+[18:08:13	][IC] High Elder Turr'Rai-Kut: English time again.
+[18:08:13	][OOC] Vahh'Brun-Nox: cant see wtf
+[18:08:18	]Vahh'Brun-Nox used command '/VortSetCoterminous vahh true'.
+[18:08:19	][OOC] High Elder Turr'Rai-Kut: weird, so just vortigese works?
+[18:08:19	]Vahh'Brun-Nox has set coterminous state for Vahh'Brun-Nox to true
+[18:08:26	][OOC] Vahh'Brun-Nox: nothing works on my side
+[18:08:32	][OOC] High Elder Turr'Rai-Kut: huh, you try
+[18:08:33	][IC] Vahh'Brun-Nox: Try now.
+[18:08:36	][IC] Vahh'Brun-Nox: Try now.
+[18:08:43	][OOC] High Elder Turr'Rai-Kut: nope, nothing english
+[18:08:45	][OOC] High Elder Turr'Rai-Kut: try vortigese again
+[18:08:50	][VORT] Vahh'Brun-Nox: hi nice 
+[18:08:56	][VORT] Vahh'Brun-Nox: hi nice 
+[18:08:57	][VORT] Vahh'Brun-Nox: hi nice 
+[18:09:02	][OOC] Vahh'Brun-Nox: okay gotta fix this
+[18:09:06	][OOC] High Elder Turr'Rai-Kut: huh, it seems to be only working sometimes
+[18:09:10	][OOC] Vahh'Brun-Nox: now the agenda
+[18:09:17	]High Elder Turr'Rai-Kut used command '/VortSetAgenda Kill all humans.'.
+[18:09:23	][OOC] High Elder Turr'Rai-Kut: SO FUCKING COOL
+[18:09:25	][LOOC] Vahh'Brun-Nox: pajsfafpasfjkp
+[18:09:27	][OOC] High Elder Turr'Rai-Kut: THATS ACTGUALLY SO COOL
+[18:09:36	]Vahh'Brun-Nox used command '/VortCheckAgenda'.
+[18:09:46	][LOOC] Vahh'Brun-Nox: for me the checkagenda shows something else
+[18:09:47	]High Elder Turr'Rai-Kut used command '/VortSetAgenda The Ultimate is a tumor, swelling within the Vortessence. It must not be allowed to live. It must end.'.
+[18:09:49	][LOOC] Vahh'Brun-Nox: I have to fix that
+[18:09:55	]High Elder Turr'Rai-Kut used command '/VortCheckAgenda'.
+[18:10:02	][LOOC] High Elder Turr'Rai-Kut: Checkagenda shows me nothing actually
+[18:10:04	]High Elder Turr'Rai-Kut used command '/VortCheckAgenda'.
+[18:10:05	][LOOC] Vahh'Brun-Nox: oh that actually also shows for me when you do it
+[18:10:07	][LOOC] High Elder Turr'Rai-Kut: Script error
+[18:10:08	][LOOC] Vahh'Brun-Nox: lmao
+[18:10:09	][LOOC] High Elder Turr'Rai-Kut: WHAT
+[18:10:11	][LOOC] High Elder Turr'Rai-Kut: HAHAHAH
+[18:10:39	][LOOC] Vahh'Brun-Nox: oki dokie
+[18:10:41	]High Elder Turr'Rai-Kut used command '/VortCheckAgenda'.
+[18:10:43	][LOOC] Vahh'Brun-Nox: we have stuff to fix
+[18:10:57	]Vahh'Brun-Nox has hit High Elder Turr'Rai-Kut dealing 34 damage (CritChance was 0.00).
+[18:10:57	]High Elder Turr'Rai-Kut has taken 34 damage from Vahh'Brun-Nox.
+[18:10:57	][VORT] Vahh'Brun-Nox has damaged High Elder Turr'Rai-Kut, dealing 57.3 with vortbeam
+[18:11:15	]Vahh'Brun-Nox has hit High Elder Turr'Rai-Kut dealing 34 damage (CritChance was 0.00).
+[18:11:15	]High Elder Turr'Rai-Kut has taken 34 damage from Vahh'Brun-Nox.
+[18:11:15	][VORT] Vahh'Brun-Nox has damaged High Elder Turr'Rai-Kut, dealing 57.3 with vortbeam
+[18:11:33	]High Elder Turr'Rai-Kut has hit Vahh'Brun-Nox dealing 57 damage (CritChance was 0.00).
+[18:11:33	]Vahh'Brun-Nox has taken 57 damage from High Elder Turr'Rai-Kut.
+[18:11:33	][VORT] High Elder Turr'Rai-Kut has damaged Vahh'Brun-Nox, dealing 96 with vortbeam
+[18:11:43	]Vahh'Brun-Nox has hit High Elder Turr'Rai-Kut dealing 34 damage (CritChance was 0.00).
+[18:11:43	]High Elder Turr'Rai-Kut has taken 34 damage from Vahh'Brun-Nox.
+[18:11:43	][VORT] Vahh'Brun-Nox has damaged High Elder Turr'Rai-Kut, dealing 57.3 with vortbeam
+[18:11:47	]Vahh'Brun-Nox has hit High Elder Turr'Rai-Kut dealing 34 damage (CritChance was 0.00).
+[18:11:47	]High Elder Turr'Rai-Kut has taken 34 damage from Vahh'Brun-Nox.
+[18:11:47	][VORT] Vahh'Brun-Nox has damaged High Elder Turr'Rai-Kut, dealing 57.3 with vortbeam
+[18:12:10	]High Elder Turr'Rai-Kut has hit Vahh'Brun-Nox dealing 52 damage (CritChance was 0.00).
+[18:12:10	]Vahh'Brun-Nox has taken 52 damage from High Elder Turr'Rai-Kut.
+[18:12:10	][VORT] High Elder Turr'Rai-Kut has damaged Vahh'Brun-Nox, dealing 87.36 with vortbeam
+[18:12:14	]Vahh'Brun-Nox has hit High Elder Turr'Rai-Kut dealing 34 damage (CritChance was 0.00).
+[18:12:14	]High Elder Turr'Rai-Kut has taken 34 damage from Vahh'Brun-Nox.
+[18:12:14	][VORT] Vahh'Brun-Nox has damaged High Elder Turr'Rai-Kut, dealing 57.3 with vortbeam
+[18:12:16	]High Elder Turr'Rai-Kut has hit Vahh'Brun-Nox dealing 50 damage (CritChance was 0.00).
+[18:12:16	]Vahh'Brun-Nox has taken 50 damage from High Elder Turr'Rai-Kut.
+[18:12:16	][VORT] High Elder Turr'Rai-Kut has damaged Vahh'Brun-Nox, dealing 84.3 with vortbeam
+[18:12:25	]High Elder Turr'Rai-Kut used command '/EnterMeditation'.
+[18:12:31	]Vahh'Brun-Nox has hit High Elder Turr'Rai-Kut dealing 14 damage (CritChance was 0.00).
+[18:12:31	]High Elder Turr'Rai-Kut has taken 14 damage from Vahh'Brun-Nox.
+[18:12:31	]Vahh'Brun-Nox has damaged High Elder Turr'Rai-Kut, dealing 24 with ix_hands
+[18:12:31	]Vahh'Brun-Nox has hit High Elder Turr'Rai-Kut dealing 14 damage (CritChance was 0.00).
+[18:12:31	]High Elder Turr'Rai-Kut has taken 14 damage from Vahh'Brun-Nox.
+[18:12:31	]Vahh'Brun-Nox has damaged High Elder Turr'Rai-Kut, dealing 24.0003 with ix_hands
+[18:12:32	]Vahh'Brun-Nox has hit High Elder Turr'Rai-Kut dealing 14 damage (CritChance was 0.00).
+[18:12:32	]High Elder Turr'Rai-Kut was knocked unconscious and is bleeding out.
+[18:12:32	]Vahh'Brun-Nox has damaged High Elder Turr'Rai-Kut, dealing 24.0006 with ix_hands
+[18:12:34	]High Elder Turr'Rai-Kut used command '/EnterMeditation'.
+[18:12:35	][IC] High Elder Turr'Rai-Kut: Ow.
+[18:12:37	][IC] Vahh'Brun-Nox: Ow.
+[18:12:41	][IC] Vahh'Brun-Nox: Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow. Ow.
+[18:12:42	]High Elder Turr'Rai-Kut used command '/CharStopBleedout Turr'.
+[18:12:48	]High Elder Turr'Rai-Kut used command '/CharGetUp'.
+[18:12:49	]High Elder Turr'Rai-Kut used command '/CharGetUp'.
+[18:12:50	]High Elder Turr'Rai-Kut used command '/CharGetUp'.
+[18:12:51	]High Elder Turr'Rai-Kut used command '/CharGetUp'.
+[18:12:52	]High Elder Turr'Rai-Kut used command '/CharGetUp'.
+[18:12:52	]High Elder Turr'Rai-Kut is no longer unconscious from critical wounds.
+[18:12:52	]High Elder Turr'Rai-Kut is fully healed.
+[18:12:52	][IC] Vahh'Brun-Nox: Come!
+[18:12:57	][IC] Vahh'Brun-Nox: Okay i have to.
+[18:12:57	][IC] Vahh'Brun-Nox: Fix.
+[18:13:04	][IC] Vahh'Brun-Nox: Ty for ghelping me test fren.
+[18:13:05	][LOOC] High Elder Turr'Rai-Kut: ye
+[18:13:09	]Vahh'Brun-Nox used command '/VortSetAgenda banana'.
+[18:13:30	][IC] Vahh'Brun-Nox: A.
+[18:13:36	][OOC] High Elder Turr'Rai-Kut: WAIT I SAW THAT
+[18:13:38	][IC] High Elder Turr'Rai-Kut: A.
+[18:13:40	][OOC] Vahh'Brun-Nox: I SEE IT
+[18:13:41	][OOC] Vahh'Brun-Nox: YES
+[18:13:43	][OOC] High Elder Turr'Rai-Kut: I SPOKE IN ENGLISH
+[18:13:44	][OOC] High Elder Turr'Rai-Kut: ONE SEC
+[18:13:47	][YVORT] High Elder Turr'Rai-Kut: Checking
+[18:13:50	][VORT] High Elder Turr'Rai-Kut: Checking
+[18:13:53	][OOC] High Elder Turr'Rai-Kut: OK I SEE WHAT THE PROBLEM IS
+[18:13:56	][OOC] High Elder Turr'Rai-Kut: ITS ONLY SET TO ENGLISH
+[18:14:03	][OOC] Vahh'Brun-Nox: the distance is just bad
+[18:14:06	][OOC] High Elder Turr'Rai-Kut: and also the range is screwed yeah
+[18:14:08	][OOC] Vahh'Brun-Nox: I have to do vortigese too
+[18:14:13	][IC] Vahh'Brun-Nox: Banana.
+[18:14:14	][OOC] High Elder Turr'Rai-Kut: ...and probably other languages?
+[18:14:16	][IC] High Elder Turr'Rai-Kut: Banana.
+[18:14:18	][VORT] Vahh'Brun-Nox: yes
+[18:14:20	][VORT] High Elder Turr'Rai-Kut: Yes.
+[18:14:23	][OOC] High Elder Turr'Rai-Kut: yeah ok i didnt see that
+[18:14:28	]High Elder Turr'Rai-Kut used command '/EnterMeditation'.
+[18:14:30	][OOC] Vahh'Brun-Nox: okay i'll get to do that
+[18:14:34	][OOC] Vahh'Brun-Nox: later tomorrow
+[18:14:52	][IC] High Elder Turr'Rai-Kut: Yes.
+[18:14:53	][IC] Vahh'Brun-Nox: Ow.
+[18:14:56	]High Elder Turr'Rai-Kut used command '/EnterMeditation'.
+[18:14:57	][IC] Vahh'Brun-Nox: Yes. Yes... Yesss.
+[18:15:00	]High Elder Turr'Rai-Kut used command '/SetVortalEnergy turr 100'.
+[18:15:07	]Mango (STEAM_0:0:544539350) has disconnected.
+[18:15:10	]High Elder Turr'Rai-Kut entered observer.
+[18:15:16	]High Elder Turr'Rai-Kut opened the 'OUTLANDS - REB AMBUSH > CMB' #120769 container.
+[18:15:17	]High Elder Turr'Rai-Kut closed the 'OUTLANDS - REB AMBUSH > CMB' #120769 container.
+[18:15:45	]High Elder Turr'Rai-Kut exited observer at their location.
+[18:15:47	]High Elder Turr'Rai-Kut ran 'ViewAlt' on item 'Small Bag' (#2608172)
+[18:15:49	]High Elder Turr'Rai-Kut ran 'ViewAlt' on item 'Large Bag' (#2608173)
+[18:15:52	]High Elder Turr'Rai-Kut ran 'Consume' on item 'Spoiled Bagel' (#2626075)
+[18:15:55	]MelonHeadzzz (STEAM_0:1:128800129) has disconnected.

@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"        "Chess"
+	"version"     "1.3.10"
+	"author_name" "my_hat_stinks"
+	"author_url"  ""
+	"info"        "Let's play Chess"
+	"override"    "0"
+}

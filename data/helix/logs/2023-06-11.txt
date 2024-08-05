@@ -1,0 +1,411 @@
+[06:09:22	]Fractures has connected.
+[06:10:11	]Fractures loaded the character 'Crash test dummy'
+[06:10:16	]Crash test dummy is fully healed.
+[06:10:32	]Crash test dummy ran 'take' on item 'Popper' (#1660146)
+[06:10:32	]Crash test dummy has gained a 'Popper' #1660146.
+[06:10:34	]Crash test dummy ran 'take' on item '6rnd Popper-magazine' (#1660148)
+[06:10:34	]Crash test dummy has gained a '6rnd Popper-magazine' #1660148.
+[06:10:36	]Crash test dummy ran 'take' on item '357 Rounds' (#1660151)
+[06:10:36	]Crash test dummy has gained a '357 Rounds' #1660151.
+[06:10:50	]Crash test dummy ran 'take' on item 'SR-1A' (#1660535)
+[06:10:55	]Crash test dummy ran 'drop' on item 'Ergonomic Stock' (#1652290)
+[06:10:55	]Crash test dummy has lost a 'Ergonomic Stock' #1652290.
+[06:10:56	]Crash test dummy ran 'drop' on item '640mm Whisper Barrel' (#1652289)
+[06:10:56	]Crash test dummy has lost a '640mm Whisper Barrel' #1652289.
+[06:10:56	]Crash test dummy ran 'drop' on item 'Repair Plating' (#1652292)
+[06:10:56	]Crash test dummy has lost a 'Repair Plating' #1652292.
+[06:10:58	]Crash test dummy ran 'Equip' on item 'Frag Grenade' (#1655755)
+[06:10:59	]Crash test dummy used command '/ToggleRaise'.
+[06:11:02	]Crash test dummy ran 'take' on item 'SR-1A' (#1660535)
+[06:11:02	]Crash test dummy has gained a 'SR-1A' #1660535.
+[06:11:04	]Crash test dummy ran 'take' on item '30rnd Pulse-magazine' (#1660540)
+[06:11:04	]Crash test dummy has gained a '30rnd Pulse-magazine' #1660540.
+[06:11:05	]Crash test dummy ran 'take' on item '30rnd Pulse-magazine' (#1660539)
+[06:11:05	]Crash test dummy has gained a '30rnd Pulse-magazine' #1660539.
+[06:11:07	]Crash test dummy ran 'take' on item 'Pulse Rifle Bullets' (#1660576)
+[06:11:07	]Crash test dummy has gained a 'Pulse Rifle Bullets' #1660576.
+[06:11:08	]Crash test dummy ran 'take' on item 'Pulse Rifle Bullets' (#1660572)
+[06:11:08	]Crash test dummy has gained a 'Pulse Rifle Bullets' #1660572.
+[06:11:09	]Crash test dummy ran 'take' on item 'Pulse Rifle Bullets' (#1660573)
+[06:11:09	]Crash test dummy has gained a 'Pulse Rifle Bullets' #1660573.
+[06:11:14	]Crash test dummy destroyed a 'Repair Plating' #1652292.
+[06:11:14	]Crash test dummy destroyed a '640mm Whisper Barrel' #1652289.
+[06:11:14	]Crash test dummy destroyed a 'Ergonomic Stock' #1652290.
+[06:11:14	]Crash test dummy destroyed a '24rnd Heavy-Pulse Magazine' #1660734.
+[06:11:17	]Crash test dummy ran 'Equip' on item 'SR-1A' (#1660535)
+[06:11:22	]Crash test dummy ran 'combine' on item '30rnd Pulse-magazine' (#1660540)
+[06:11:25	]Crash test dummy has lost a '30rnd Pulse-magazine' #1660540.
+[06:11:27	]Crash test dummy used command '/ToggleRaise'.
+[06:11:36	]Crash test dummy has gained a '30rnd Pulse-magazine' #1660540.
+[06:11:36	]Crash test dummy has lost a '30rnd Pulse-magazine' #1660539.
+[06:11:47	]Crash test dummy destroyed a 'Model 870' #1660114.
+[06:11:50	]Crash test dummy has critically hit npc_combine_camera dealing 25 damage (CritChance was 0.84).
+[06:11:50	]Crash test dummy has critically hit npc_combine_camera dealing 25 damage (CritChance was 0.84).
+[06:11:51	]Crash test dummy has critically hit npc_combine_camera dealing 25 damage (CritChance was 0.84).
+[06:11:51	]Crash test dummy has critically hit npc_combine_camera dealing 25 damage (CritChance was 0.84).
+[06:11:58	]Crash test dummy used the 'Munition Lady' vendor.
+[06:12:18	]Crash test dummy used command '/ToggleRaise'.
+[06:12:21	]Crash test dummy used the 'John Doe' vendor.
+[06:12:30	]Crash test dummy ran 'drop' on item 'Popper' (#1660146)
+[06:12:30	]Crash test dummy has lost a 'Popper' #1660146.
+[06:12:30	]Crash test dummy ran 'drop' on item '6rnd Popper-magazine' (#1660148)
+[06:12:30	]Crash test dummy has lost a '6rnd Popper-magazine' #1660148.
+[06:12:31	]Crash test dummy ran 'drop' on item '357 Rounds' (#1660151)
+[06:12:31	]Crash test dummy has lost a '357 Rounds' #1660151.
+[06:12:35	]Crash test dummy ran 'combine' on item '30rnd Pulse-magazine' (#1660540)
+[06:12:38	]Crash test dummy has gained a '30rnd Pulse-magazine' #1660539.
+[06:12:38	]Crash test dummy has lost a '30rnd Pulse-magazine' #1660540.
+[06:12:42	]Crash test dummy ran 'combine' on item '30rnd Pulse-magazine' (#1660539)
+[06:12:43	]Crash test dummy ran 'combine' on item '30rnd Pulse-magazine' (#1660539)
+[06:12:46	]Crash test dummy ran 'take' on item '30rnd Pulse-magazine' (#1660546)
+[06:12:46	]Crash test dummy has gained a '30rnd Pulse-magazine' #1660546.
+[06:12:47	]Crash test dummy ran 'take' on item '30rnd Pulse-magazine' (#1660544)
+[06:12:47	]Crash test dummy has gained a '30rnd Pulse-magazine' #1660544.
+[06:12:48	]Crash test dummy ran 'take' on item '30rnd Pulse-magazine' (#1660537)
+[06:12:48	]Crash test dummy has gained a '30rnd Pulse-magazine' #1660537.
+[06:12:49	]Crash test dummy ran 'take' on item '30rnd Pulse-magazine' (#1660538)
+[06:12:49	]Crash test dummy has gained a '30rnd Pulse-magazine' #1660538.
+[06:12:51	]Crash test dummy ran 'take' on item 'Pulse Rifle Bullets' (#1660562)
+[06:12:51	]Crash test dummy has gained a 'Pulse Rifle Bullets' #1660562.
+[06:12:52	]Crash test dummy ran 'take' on item '30rnd Pulse-magazine' (#1660541)
+[06:12:52	]Crash test dummy has gained a '30rnd Pulse-magazine' #1660541.
+[06:12:53	]Crash test dummy ran 'take' on item '30rnd Pulse-magazine' (#1660542)
+[06:12:53	]Crash test dummy has gained a '30rnd Pulse-magazine' #1660542.
+[06:13:01	]Crash test dummy ran 'unload' on item '30rnd Pulse-magazine' (#1660537)
+[06:13:01	]Crash test dummy has gained a 'Pulse Rifle Bullets' #1660758.
+[06:13:02	]Crash test dummy ran 'unload' on item '30rnd Pulse-magazine' (#1660538)
+[06:13:02	]Crash test dummy has gained a 'Pulse Rifle Bullets' #1660759.
+[06:13:05	]Crash test dummy ran 'unload' on item '30rnd Pulse-magazine' (#1660546)
+[06:13:05	]Crash test dummy has gained a 'Pulse Rifle Bullets' #1660760.
+[06:13:06	]Crash test dummy ran 'unload' on item '30rnd Pulse-magazine' (#1660544)
+[06:13:06	]Crash test dummy has gained a 'Pulse Rifle Bullets' #1660761.
+[06:13:09	]Crash test dummy ran 'unload' on item '30rnd Pulse-magazine' (#1660541)
+[06:13:09	]Crash test dummy has gained a 'Pulse Rifle Bullets' #1660762.
+[06:13:11	]Crash test dummy ran 'combine' on item 'Pulse Rifle Bullets' (#1660761)
+[06:13:12	]Crash test dummy ran 'combine' on item 'Pulse Rifle Bullets' (#1660761)
+[06:13:13	]Crash test dummy ran 'combine' on item 'Pulse Rifle Bullets' (#1660576)
+[06:13:17	]Crash test dummy ran 'drop' on item '30rnd Pulse-magazine' (#1660537)
+[06:13:17	]Crash test dummy has lost a '30rnd Pulse-magazine' #1660537.
+[06:13:18	]Crash test dummy ran 'drop' on item '30rnd Pulse-magazine' (#1660544)
+[06:13:18	]Crash test dummy has lost a '30rnd Pulse-magazine' #1660544.
+[06:13:18	]Crash test dummy ran 'drop' on item '30rnd Pulse-magazine' (#1660546)
+[06:13:18	]Crash test dummy has lost a '30rnd Pulse-magazine' #1660546.
+[06:13:18	]Crash test dummy ran 'drop' on item '30rnd Pulse-magazine' (#1660542)
+[06:13:18	]Crash test dummy has lost a '30rnd Pulse-magazine' #1660542.
+[06:13:21	]Crash test dummy ran 'removeMag' on item 'SR-1A' (#1660535)
+[06:13:21	]Crash test dummy has gained a '30rnd Pulse-magazine' #1660540.
+[06:13:23	]Crash test dummy ran 'combine' on item '30rnd Pulse-magazine' (#1660538)
+[06:13:24	]Crash test dummy ran 'combine' on item '30rnd Pulse-magazine' (#1660541)
+[06:13:29	]Crash test dummy has lost a '30rnd Pulse-magazine' #1660541.
+[06:13:35	]Crash test dummy used the 'Munition Lady' vendor.
+[06:13:57	]Crash test dummy has gained 0 chips.
+[06:13:57	]Crash test dummy has gained a 'AKM' #1660763.
+[06:14:06	]Crash test dummy ran 'EquipUn' on item 'SR-1A' (#1660535)
+[06:14:07	]Crash test dummy ran 'Equip' on item 'AKM' (#1660763)
+[06:14:12	]Crash test dummy ran 'drop' on item 'SR-1A' (#1660535)
+[06:14:12	]Crash test dummy has lost a 'SR-1A' #1660535.
+[06:14:22	]Crash test dummy ran 'drop' on item '30rnd Pulse-magazine' (#1660540)
+[06:14:22	]Crash test dummy has lost a '30rnd Pulse-magazine' #1660540.
+[06:14:23	]Crash test dummy ran 'drop' on item '30rnd Pulse-magazine' (#1660539)
+[06:14:23	]Crash test dummy has lost a '30rnd Pulse-magazine' #1660539.
+[06:14:23	]Crash test dummy ran 'drop' on item '30rnd Pulse-magazine' (#1660538)
+[06:14:23	]Crash test dummy has lost a '30rnd Pulse-magazine' #1660538.
+[06:14:27	]Crash test dummy ran 'drop' on item 'Pulse Rifle Bullets' (#1660759)
+[06:14:27	]Crash test dummy has lost a 'Pulse Rifle Bullets' #1660759.
+[06:14:28	]Crash test dummy ran 'drop' on item 'Pulse Rifle Bullets' (#1660576)
+[06:14:28	]Crash test dummy has lost a 'Pulse Rifle Bullets' #1660576.
+[06:14:28	]Crash test dummy ran 'drop' on item 'Pulse Rifle Bullets' (#1660761)
+[06:14:28	]Crash test dummy has lost a 'Pulse Rifle Bullets' #1660761.
+[06:14:41	]Crash test dummy used the 'Munition Lady' vendor.
+[06:14:45	]Crash test dummy has gained 0 chips.
+[06:14:45	]Crash test dummy has gained a 'Assault Rifle Bullets' #1660764.
+[06:14:46	]Crash test dummy has gained 0 chips.
+[06:14:46	]Crash test dummy has gained a 'Assault Rifle Bullets' #1660765.
+[06:14:47	]Crash test dummy has gained 0 chips.
+[06:14:47	]Crash test dummy has gained a 'Assault Rifle Bullets' #1660766.
+[06:14:51	]Crash test dummy has gained 0 chips.
+[06:14:51	]Crash test dummy has gained a '30rnd AK-magazine' #1660767.
+[06:14:52	]Crash test dummy has gained 0 chips.
+[06:14:52	]Crash test dummy has gained a '30rnd AK-magazine' #1660768.
+[06:14:52	]Crash test dummy has gained 0 chips.
+[06:14:53	]Crash test dummy has gained a '30rnd AK-magazine' #1660769.
+[06:14:55	]Crash test dummy ran 'combine' on item '30rnd AK-magazine' (#1660769)
+[06:14:56	]Crash test dummy ran 'combine' on item '30rnd AK-magazine' (#1660768)
+[06:14:57	]Crash test dummy ran 'combine' on item '30rnd AK-magazine' (#1660767)
+[06:14:58	]Crash test dummy used command '/ToggleRaise'.
+[06:14:59	]Crash test dummy has lost a '30rnd AK-magazine' #1660769.
+[06:15:08	]Crash test dummy has gained a '30rnd AK-magazine' #1660769.
+[06:15:08	]Crash test dummy has lost a '30rnd AK-magazine' #1660768.
+[06:15:19	]Crash test dummy ran 'drop' on item 'AKM' (#1660763)
+[06:15:19	]Crash test dummy has lost a 'AKM' #1660763.
+[06:15:20	]Crash test dummy ran 'drop' on item '30rnd AK-magazine' (#1660769)
+[06:15:20	]Crash test dummy has lost a '30rnd AK-magazine' #1660769.
+[06:15:21	]Crash test dummy ran 'drop' on item '30rnd AK-magazine' (#1660767)
+[06:15:21	]Crash test dummy has lost a '30rnd AK-magazine' #1660767.
+[06:15:34	]Crash test dummy used the 'Munition Lady' vendor.
+[06:15:42	]Crash test dummy has gained 0 chips.
+[06:15:42	]Crash test dummy has gained a 'SSG-08' #1660770.
+[06:15:47	]Crash test dummy ran 'Equip' on item 'SSG-08' (#1660770)
+[06:15:49	]Crash test dummy used command '/ToggleRaise'.
+[06:15:59	]Crash test dummy used command '/ToggleRaise'.
+[06:16:39	]Crash test dummy used command '/ToggleRaise'.
+[06:16:42	][IC] Crash test dummy: <:: Overwatch, sector overrun! Repeat, sector overrun! ::>
+[06:16:45	]Crash test dummy used command '/ToggleRaise'.
+[06:16:49	]Crash test dummy ran 'drop' on item 'SSG-08' (#1660770)
+[06:16:49	]Crash test dummy has lost a 'SSG-08' #1660770.
+[06:16:50	]Crash test dummy used the 'Munition Lady' vendor.
+[06:17:07	]Crash test dummy has gained 0 chips.
+[06:17:07	]Crash test dummy has gained a 'AR-2' #1660771.
+[06:17:17	]Crash test dummy has gained 0 chips.
+[06:17:17	]Crash test dummy has gained a 'Overwatch Assault Shotgun' #1660772.
+[06:17:28	]Crash test dummy ran 'Equip' on item 'Overwatch Assault Shotgun' (#1660772)
+[06:17:34	]Crash test dummy used command '/ToggleRaise'.
+[06:17:50	]Crash test dummy used the 'Munition Lady' vendor.
+[06:17:54	]Crash test dummy ran 'EquipUn' on item 'Overwatch Assault Shotgun' (#1660772)
+[06:17:56	]Crash test dummy ran 'Equip' on item 'AR-2' (#1660771)
+[06:17:57	]Crash test dummy used command '/ToggleRaise'.
+[06:18:11	]Crash test dummy ran 'take' on item '30rnd Pulse-magazine' (#1660539)
+[06:18:11	]Crash test dummy has gained a '30rnd Pulse-magazine' #1660539.
+[06:18:12	]Crash test dummy ran 'take' on item '30rnd Pulse-magazine' (#1660540)
+[06:18:12	]Crash test dummy has gained a '30rnd Pulse-magazine' #1660540.
+[06:18:13	]Crash test dummy ran 'take' on item '30rnd Pulse-magazine' (#1660538)
+[06:18:13	]Crash test dummy has gained a '30rnd Pulse-magazine' #1660538.
+[06:18:14	]Crash test dummy ran 'take' on item 'Pulse Rifle Bullets' (#1660761)
+[06:18:14	]Crash test dummy has gained a 'Pulse Rifle Bullets' #1660761.
+[06:18:15	]Crash test dummy ran 'take' on item 'Pulse Rifle Bullets' (#1660576)
+[06:18:15	]Crash test dummy has gained a 'Pulse Rifle Bullets' #1660576.
+[06:18:15	]Crash test dummy ran 'take' on item 'Pulse Rifle Bullets' (#1660759)
+[06:18:15	]Crash test dummy has gained a 'Pulse Rifle Bullets' #1660759.
+[06:18:16	]Crash test dummy has lost a '30rnd Pulse-magazine' #1660540.
+[06:18:28	]Crash test dummy has gained a '30rnd Pulse-magazine' #1660540.
+[06:18:28	]Crash test dummy has lost a '30rnd Pulse-magazine' #1660539.
+[06:18:35	]Crash test dummy has gained a '30rnd Pulse-magazine' #1660539.
+[06:18:35	]Crash test dummy has lost a '30rnd Pulse-magazine' #1660538.
+[06:19:15	]Crash test dummy ran 'drop' on item 'Overwatch Assault Shotgun' (#1660772)
+[06:19:15	]Crash test dummy has lost a 'Overwatch Assault Shotgun' #1660772.
+[06:19:15	]Crash test dummy ran 'drop' on item 'AR-2' (#1660771)
+[06:19:15	]Crash test dummy has lost a 'AR-2' #1660771.
+[06:19:16	]Crash test dummy ran 'drop' on item '30rnd Pulse-magazine' (#1660540)
+[06:19:16	]Crash test dummy has lost a '30rnd Pulse-magazine' #1660540.
+[06:19:17	]Crash test dummy ran 'drop' on item '30rnd Pulse-magazine' (#1660539)
+[06:19:17	]Crash test dummy has lost a '30rnd Pulse-magazine' #1660539.
+[06:19:17	]Crash test dummy ran 'drop' on item 'Pulse Rifle Bullets' (#1660761)
+[06:19:17	]Crash test dummy has lost a 'Pulse Rifle Bullets' #1660761.
+[06:19:18	]Crash test dummy ran 'drop' on item 'Pulse Rifle Bullets' (#1660576)
+[06:19:18	]Crash test dummy has lost a 'Pulse Rifle Bullets' #1660576.
+[06:19:18	]Crash test dummy ran 'drop' on item 'Pulse Rifle Bullets' (#1660759)
+[06:19:18	]Crash test dummy has lost a 'Pulse Rifle Bullets' #1660759.
+[06:19:20	]Crash test dummy used the 'Munition Lady' vendor.
+[06:19:26	]Crash test dummy has gained 0 chips.
+[06:19:26	]Crash test dummy has gained a 'OSITR' #1660773.
+[06:19:28	]Crash test dummy has gained 0 chips.
+[06:19:28	]Crash test dummy has gained a 'OSPR2A-EXP' #1660774.
+[06:19:35	]Crash test dummy ran 'Equip' on item 'OSITR' (#1660773)
+[06:19:36	]Crash test dummy used command '/ToggleRaise'.
+[06:19:40	]Crash test dummy used the 'Munition Lady' vendor.
+[06:19:43	]Crash test dummy has gained 0 chips.
+[06:19:43	]Crash test dummy has gained a 'Assault Rifle Bullets' #1660775.
+[06:19:43	]Crash test dummy has gained 0 chips.
+[06:19:43	]Crash test dummy has gained a 'Assault Rifle Bullets' #1660776.
+[06:19:44	]Crash test dummy has gained 0 chips.
+[06:19:44	]Crash test dummy has gained a 'Assault Rifle Bullets' #1660777.
+[06:19:47	]Crash test dummy has gained 0 chips.
+[06:19:47	]Crash test dummy has gained a '60rnd OTAR-magazine' #1660778.
+[06:19:48	]Crash test dummy has gained 0 chips.
+[06:19:48	]Crash test dummy has gained a '60rnd OTAR-magazine' #1660779.
+[06:19:50	]Crash test dummy ran 'combine' on item '60rnd OTAR-magazine' (#1660779)
+[06:19:51	]Crash test dummy ran 'combine' on item '60rnd OTAR-magazine' (#1660779)
+[06:19:52	]Crash test dummy ran 'combine' on item '60rnd OTAR-magazine' (#1660778)
+[06:19:52	]Crash test dummy has lost a '60rnd OTAR-magazine' #1660779.
+[06:20:30	]Crash test dummy has gained a '60rnd OTAR-magazine' #1660779.
+[06:20:30	]Crash test dummy has lost a '60rnd OTAR-magazine' #1660778.
+[06:20:42	]Crash test dummy used command '/ToggleRaise'.
+[06:21:07	]Crash test dummy used the 'Munition Lady' vendor.
+[06:21:09	]Crash test dummy has gained 0 chips.
+[06:21:09	]Crash test dummy has gained a 'Assault Rifle Bullets' #1660780.
+[06:21:10	]Crash test dummy has gained 0 chips.
+[06:21:10	]Crash test dummy has gained a 'Assault Rifle Bullets' #1660781.
+[06:21:11	]Crash test dummy ran 'combine' on item '60rnd OTAR-magazine' (#1660779)
+[06:21:12	]Crash test dummy ran 'combine' on item '60rnd OTAR-magazine' (#1660779)
+[06:21:13	]Crash test dummy used command '/ToggleRaise'.
+[06:21:13	]Crash test dummy has gained a '60rnd OTAR-magazine' #1660778.
+[06:21:13	]Crash test dummy has lost a '60rnd OTAR-magazine' #1660779.
+[06:21:15	]Crash test dummy used command '/ToggleRaise'.
+[06:21:19	]Crash test dummy ran 'drop' on item 'OSPR2A-EXP' (#1660774)
+[06:21:19	]Crash test dummy has lost a 'OSPR2A-EXP' #1660774.
+[06:21:21	]Crash test dummy destroyed a 'OSPR2A-EXP' #1660774.
+[06:21:22	]Crash test dummy destroyed a 'SSG-08' #1660770.
+[06:21:23	]Crash test dummy destroyed a '30rnd Pulse-magazine' #1660559.
+[06:21:23	]Crash test dummy destroyed a 'Pulse Rifle Bullets' #1660564.
+[06:21:23	]Crash test dummy destroyed a 'Pulse Rifle Bullets' #1660575.
+[06:21:25	]Crash test dummy destroyed a '30rnd Pulse-magazine' #1660543.
+[06:21:25	]Crash test dummy destroyed a '30rnd Pulse-magazine' #1660536.
+[06:21:25	]Crash test dummy destroyed a '30rnd Pulse-magazine' #1660544.
+[06:21:26	]Crash test dummy destroyed a '30rnd Pulse-magazine' #1660537.
+[06:21:26	]Crash test dummy destroyed a '30rnd Pulse-magazine' #1660546.
+[06:21:27	]Crash test dummy destroyed a '30rnd Pulse-magazine' #1660542.
+[06:21:27	]Crash test dummy destroyed a 'Pulse Rifle Bullets' #1660565.
+[06:21:28	]Crash test dummy destroyed a 'Pulse Rifle Bullets' #1660563.
+[06:21:29	]Crash test dummy destroyed a '30rnd Pulse-magazine' #1660545.
+[06:21:30	]Crash test dummy destroyed a '357 Rounds' #1660151.
+[06:21:30	]Crash test dummy destroyed a '6rnd Popper-magazine' #1660148.
+[06:21:33	]Crash test dummy destroyed a 'SR-1A' #1660535.
+[06:21:34	]Crash test dummy destroyed a 'AKM' #1660763.
+[06:21:35	]Crash test dummy destroyed a '30rnd AK-magazine' #1660767.
+[06:21:35	]Crash test dummy destroyed a '30rnd AK-magazine' #1660769.
+[06:21:36	]Crash test dummy destroyed a 'AR-2' #1660771.
+[06:21:37	]Crash test dummy destroyed a '30rnd Pulse-magazine' #1660539.
+[06:21:37	]Crash test dummy destroyed a 'Overwatch Assault Shotgun' #1660772.
+[06:21:37	]Crash test dummy destroyed a 'Pulse Rifle Bullets' #1660759.
+[06:21:39	]Crash test dummy destroyed a 'Pulse Rifle Bullets' #1660761.
+[06:21:39	]Crash test dummy destroyed a '30rnd Pulse-magazine' #1660540.
+[06:21:39	]Crash test dummy destroyed a 'Pulse Rifle Bullets' #1660576.
+[06:21:42	]Crash test dummy used command '/ToggleRaise'.
+[06:22:48	][IC] Crash test dummy: <:: Five, four, three, two, one, flash flash flash! ::>
+[06:22:51	]Crash test dummy used the 'Munition Lady' vendor.
+[06:23:00	]Crash test dummy has gained 0 chips.
+[06:23:00	]Crash test dummy has gained a 'MP7A1' #1660782.
+[06:23:05	]Crash test dummy ran 'EquipUn' on item 'OSITR' (#1660773)
+[06:23:05	]Crash test dummy has gained a '60rnd OTAR-magazine' #1660779.
+[06:23:06	]Crash test dummy ran 'Equip' on item 'MP7A1' (#1660782)
+[06:23:08	]Crash test dummy used the 'Munition Lady' vendor.
+[06:23:32	]Crash test dummy has gained 0 chips.
+[06:23:32	]Crash test dummy has gained a '30rnd MP-magazine' #1660783.
+[06:23:32	]Crash test dummy has gained 0 chips.
+[06:23:32	]Crash test dummy has gained a '30rnd MP-magazine' #1660784.
+[06:23:33	]Crash test dummy has gained 0 chips.
+[06:23:33	]Crash test dummy has gained a '30rnd MP-magazine' #1660785.
+[06:23:37	]Crash test dummy has gained 0 chips.
+[06:23:37	]Crash test dummy has gained a 'Sub-machinegun Bullets' #1660786.
+[06:23:37	]Crash test dummy has gained 0 chips.
+[06:23:38	]Crash test dummy has gained a 'Sub-machinegun Bullets' #1660787.
+[06:23:38	]Crash test dummy has gained 0 chips.
+[06:23:38	]Crash test dummy has gained a 'Sub-machinegun Bullets' #1660788.
+[06:23:39	]Crash test dummy has gained 0 chips.
+[06:23:42	]Crash test dummy ran 'combine' on item '30rnd MP-magazine' (#1660785)
+[06:23:43	]Crash test dummy ran 'combine' on item '30rnd MP-magazine' (#1660784)
+[06:23:43	]Crash test dummy ran 'combine' on item '30rnd MP-magazine' (#1660783)
+[06:23:44	]Crash test dummy has lost a '30rnd MP-magazine' #1660785.
+[06:23:45	]Crash test dummy used command '/ToggleRaise'.
+[06:23:55	]Crash test dummy has gained a '30rnd MP-magazine' #1660785.
+[06:23:55	]Crash test dummy has lost a '30rnd MP-magazine' #1660784.
+[06:24:01	]Crash test dummy has gained a '30rnd MP-magazine' #1660784.
+[06:24:01	]Crash test dummy has lost a '30rnd MP-magazine' #1660783.
+[06:25:24	]Crash test dummy ran 'take' on item 'Sub-machinegun Bullets' (#1660789)
+[06:25:24	]Crash test dummy has gained a 'Sub-machinegun Bullets' #1660789.
+[06:25:26	]Crash test dummy ran 'combine' on item '30rnd MP-magazine' (#1660784)
+[06:25:26	]Crash test dummy has gained a '30rnd MP-magazine' #1660783.
+[06:25:26	]Crash test dummy has lost a '30rnd MP-magazine' #1660784.
+[06:25:28	]Crash test dummy ran 'drop' on item '60rnd OTAR-magazine' (#1660778)
+[06:25:28	]Crash test dummy has lost a '60rnd OTAR-magazine' #1660778.
+[06:25:28	]Crash test dummy ran 'drop' on item '60rnd OTAR-magazine' (#1660779)
+[06:25:28	]Crash test dummy has lost a '60rnd OTAR-magazine' #1660779.
+[06:25:28	]Crash test dummy ran 'drop' on item 'OSITR' (#1660773)
+[06:25:28	]Crash test dummy has lost a 'OSITR' #1660773.
+[06:25:30	]Crash test dummy destroyed a 'OSITR' #1660773.
+[06:25:31	]Crash test dummy destroyed a '60rnd OTAR-magazine' #1660779.
+[06:25:31	]Crash test dummy destroyed a '60rnd OTAR-magazine' #1660778.
+[06:25:32	]Crash test dummy used the 'Munition Lady' vendor.
+[06:25:48	]Crash test dummy has gained 0 chips.
+[06:25:48	]Crash test dummy has gained a 'Sub-machinegun Bullets' #1660790.
+[06:25:48	]Crash test dummy has gained 0 chips.
+[06:25:48	]Crash test dummy has gained a 'Sub-machinegun Bullets' #1660791.
+[06:25:49	]Crash test dummy has gained 0 chips.
+[06:25:49	]Crash test dummy has gained a 'Sub-machinegun Bullets' #1660792.
+[06:25:49	]Crash test dummy has gained 0 chips.
+[06:25:49	]Crash test dummy has gained a 'Sub-machinegun Bullets' #1660793.
+[06:25:54	]Crash test dummy has gained 0 chips.
+[06:25:57	]Crash test dummy ran 'combine' on item '30rnd MP-magazine' (#1660783)
+[06:25:57	]Crash test dummy ran 'combine' on item '30rnd MP-magazine' (#1660785)
+[06:25:58	]Crash test dummy has gained a '30rnd MP-magazine' #1660784.
+[06:25:58	]Crash test dummy has lost a '30rnd MP-magazine' #1660785.
+[06:25:59	]Crash test dummy ran 'take' on item 'MP5A3' (#1660794)
+[06:26:02	]Crash test dummy ran 'take' on item 'MP5A3' (#1660794)
+[06:26:02	]Crash test dummy has gained a 'MP5A3' #1660794.
+[06:26:04	]Crash test dummy ran 'EquipUn' on item 'MP7A1' (#1660782)
+[06:26:04	]Crash test dummy has gained a '30rnd MP-magazine' #1660785.
+[06:26:05	]Crash test dummy ran 'Equip' on item 'MP5A3' (#1660794)
+[06:26:06	]Crash test dummy has lost a '30rnd MP-magazine' #1660785.
+[06:26:07	]Crash test dummy used command '/ToggleRaise'.
+[06:26:13	]Crash test dummy has gained a '30rnd MP-magazine' #1660785.
+[06:26:13	]Crash test dummy has lost a '30rnd MP-magazine' #1660783.
+[06:26:25	]Crash test dummy has gained a '30rnd MP-magazine' #1660783.
+[06:26:25	]Crash test dummy has lost a '30rnd MP-magazine' #1660784.
+[06:26:39	]Crash test dummy ran 'drop' on item 'MP7A1' (#1660782)
+[06:26:39	]Crash test dummy has lost a 'MP7A1' #1660782.
+[06:26:40	]Crash test dummy ran 'combine' on item '30rnd MP-magazine' (#1660783)
+[06:26:41	]Crash test dummy ran 'combine' on item '30rnd MP-magazine' (#1660785)
+[06:26:41	]Crash test dummy has gained a '30rnd MP-magazine' #1660784.
+[06:26:41	]Crash test dummy has lost a '30rnd MP-magazine' #1660785.
+[06:26:46	]Crash test dummy destroyed a 'MP7A1' #1660782.
+[06:28:24	]Crash test dummy used the 'Munition Lady' vendor.
+[06:28:53	]Fractures (STEAM_0:1:2921822) has disconnected.
+[13:06:46	]Hiros | Error 410 has connected.
+[13:07:36	]Hiros | Error 410 loaded the character 'EEEEEEEEEEEEEEEEEEEEEEEEEEEE'
+[13:07:48	]EEEEEEEEEEEEEEEEEEEEEEEEEEEE entered observer.
+[13:07:54	]EEEEEEEEEEEEEEEEEEEEEEEEEEEE exited observer at their location.
+[13:08:00	]EEEEEEEEEEEEEEEEEEEEEEEEEEEE has spawned a 'Entity [382][ix_terminal]'.
+[13:13:06	]EEEEEEEEEEEEEEEEEEEEEEEEEEEE has gone afk.
+[13:13:11	]EEEEEEEEEEEEEEEEEEEEEEEEEEEE is no longer afk. Total time spent AFK: 300
+[13:13:13	]Hiros | Error 410 (STEAM_0:1:54068821) has disconnected.
+[14:42:34	]M!NT has connected.
+[14:42:58	]M!NT loaded the character 'test char'
+[14:43:03	]test char is fully healed.
+[14:43:07	]test char entered observer.
+[14:43:09	]test char exited observer at their location.
+[14:43:31	]Atle has connected.
+[14:44:16	]Atle loaded the character 'shop employee'
+[14:44:46	]shop employee entered observer.
+[14:44:48	]shop employee exited observer at their location.
+[14:44:51	][IC] shop employee: Htrh.
+[14:44:58	]shop employee used command '/CharGiveItem employee flashlight'.
+[14:44:58	]shop employee has gained a 'Flashlight' #1660795.
+[14:45:25	][OOC] shop employee: amazing
+[14:45:35	][IC] shop employee: So good.
+[14:45:51	][IC] shop employee: Shall i test if the loop ringing is fixed.
+[14:45:56	][IC] shop employee: Whats this number.
+[14:46:02	]test char used command '/EditLandline 1 444 Test'.
+[14:46:09	]test char used command '/EditLandline 1 555 Test'.
+[14:46:15	][LOOC] test char: call me
+[14:46:18	][IC] test char: 155.
+[14:46:21	][IC] test char: 1555.
+[14:46:29	]shop employee used command '/phonesay herro'.
+[14:46:56	][OOC] shop employee: ok ill try call u and dont pick up
+[14:47:14	][OOC] shop employee: fixed !!
+[14:47:15	][IC] shop employee: Works.
+[14:47:20	][OOC] shop employee: it no longer loops!
+[14:47:28	]test char has lost a '30rnd AK-magazine' #1659790.
+[14:47:28	]test char has gained a '30rnd AK-magazine' #1659789.
+[14:47:30	]test char has hit shop employee in the chest dealing 14 damage (CritChance was 0.42).
+[14:47:30	]shop employee has taken 14 damage from test char.
+[14:47:30	]test char has critically hit shop employee in the chest dealing 22 damage (CritChance was 0.42).
+[14:47:30	]shop employee has taken 22 damage from test char.
+[14:47:31	]test char has hit shop employee in the stomach dealing 14 damage (CritChance was 0.42).
+[14:47:31	]shop employee has taken 14 damage from test char.
+[14:47:32	]test char has critically hit shop employee in the left arm dealing 6 damage (CritChance was 0.42).
+[14:47:32	]shop employee has taken 6 damage from test char.
+[14:47:32	]test char has hit shop employee in the chest dealing 14 damage (CritChance was 0.42).
+[14:47:32	]shop employee has taken 14 damage from test char.
+[14:47:34	]test char has critically hit shop employee in the chest dealing 22 damage (CritChance was 0.42).
+[14:47:34	]shop employee has taken 22 damage from test char.
+[14:47:34	]test char has critically hit shop employee in the stomach dealing 22 damage (CritChance was 0.42).
+[14:47:34	]shop employee was knocked unconscious and is bleeding out.
+[14:47:35	]test char has gained a '30rnd AK-magazine' #1659790.
+[14:47:35	]test char has lost a '30rnd AK-magazine' #1659789.
+[14:47:40	][OOC] shop employee: ask votton to push to MASTAAAAAAAAH
+[14:47:47	][OOC] test char: its broken
+[14:47:47	][OOC] shop employee: we need
+[14:47:49	][OOC] test char: the branches
+[14:47:54	][OOC] test char: smhh
+[14:48:00	][OOC] shop employee: the what now
+[14:48:07	][OOC] shop employee: its broken?
+[14:49:26	][OOC] shop employee: well i hope we can push it to master and do a restart
+[14:49:29	][OOC] shop employee: !!1
+[14:49:30	]Atle (STEAM_0:0:21027108) has disconnected.
+[14:55:28	]test char has gone afk.
+[14:55:43	]test char is no longer afk. Total time spent AFK: 310
+[15:00:22	]test char entered observer.
+[15:00:25	]test char exited observer at their location.
+[15:05:52	]test char has gone afk.
+[15:07:27	]test char is no longer afk. Total time spent AFK: 390
+[15:07:27	]M!NT (STEAM_0:1:120751263) has disconnected.

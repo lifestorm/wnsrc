@@ -1,0 +1,74 @@
+[06:43:44	]Rabithunter has connected.
+[06:45:14	]Rabithunter loaded the character 'Jenifer Maesroe'
+[06:45:19	]Jenifer Maesroe is fully healed.
+[06:48:15	]Jenifer Maesroe has spawned a 'Entity [344][ix_customvendingmachine]'.
+[06:48:17	]Jenifer Maesroe ran 'take' on item 'Vending Machine Key' (#1648442)
+[06:48:18	]Jenifer Maesroe has gained a 'Vending Machine Key' #1648442.
+[06:48:28	]Jenifer Maesroe entered observer.
+[06:48:32	]Jenifer Maesroe ran 'Insert' on item 'Vending Machine Key' (#1648442)
+[06:48:58	]Jenifer Maesroe has given himself a Rabit_test.
+[06:48:59	]Jenifer Maesroe has gained a 'A surprise Item' #1648443.
+[06:49:06	]Jenifer Maesroe has transferred a 'A surprise Item' #1648443 to a container with the name 'Vending Machine' #75897.
+[06:49:09	]Jenifer Maesroe ran 'Insert' on item 'Vending Machine Key' (#1648442)
+[06:49:31	]Jenifer Maesroe has used a context menu option with the name: remove
+[06:49:35	]Jenifer Maesroe has used a context menu option with the name: remove
+[06:49:40	]Jenifer Maesroe has fired a toolgun with the name: remover
+[06:49:40	]Jenifer Maesroe has fired a toolgun with the name: remover
+[06:49:43	]Jenifer Maesroe ran 'drop' on item 'Vending Machine Key' (#1648442)
+[06:49:43	]Jenifer Maesroe has lost a 'Vending Machine Key' #1648442.
+[06:49:43	]Jenifer Maesroe has fired a toolgun with the name: remover
+[06:50:03	]Jenifer Maesroe has used a context menu option with the name: ixforcefieldstartmalfunction
+[06:50:18	]Jenifer Maesroe has used a context menu option with the name: ixforcefieldstopmalfunction
+[06:52:32	]Jenifer Maesroe exited observer at their location.
+[06:53:08	]Jenifer Maesroe entered observer.
+[06:53:24	]Jenifer Maesroe used command '/PlyWhitelist maesroe protection'.
+[06:54:11	]Rabithunter created the character 'C17:RCT.YELLO-63'
+[06:54:11	]Jenifer Maesroe has gained level 30 in the Guns skill.
+[06:54:11	]Jenifer Maesroe has gained level 30 in the Speed skill.
+[06:54:11	]Rabithunter loaded the character 'C17:RCT.YELLO-63'
+[06:54:11	]C17:RCT.YELLO-63 has gained a '#25911's Identity Card' #1648444.
+[06:54:11	]C17:RCT.YELLO-63 has gained a 'Combine PDA' #1648445.
+[06:54:11	]C17:RCT.YELLO-63 has gained a 'CP Uniform' #1648446.
+[06:54:11	]C17:RCT.YELLO-63 has gained a 'CP Mask' #1648447.
+[06:54:11	]C17:RCT.YELLO-63 has gained a 'Handheld Radio' #1648448.
+[06:54:11	]C17:RCT.YELLO-63 has gained a 'Small Bag' #1648449.
+[06:54:11	]C17:RCT.YELLO-63 has gained a 'Large Bag' #1648450.
+[06:54:19	]C17:RCT.YELLO-63 entered observer.
+[06:55:29	]C17:RCT.YELLO-63 has spawned a 'Entity [347][ix_combinemonitor]'.
+[06:55:39	]C17:RCT.YELLO-63 has spawned a 'Entity [347][ix_computer]'.
+[06:55:43	]C17:RCT.YELLO-63 has spawned a 'Entity [347][ix_console]'.
+[06:55:44	]C17:RCT.YELLO-63 exited observer at their location.
+[06:55:55	]C17:RCT.YELLO-63 has used a context menu option with the name: skin
+[06:56:40	]C17:RCT.YELLO-63 entered observer.
+[06:57:45	]C17:RCT.YELLO-63 has given himself a handheld_radio.
+[06:57:45	]C17:RCT.YELLO-63 has gained a 'Handheld Radio' #1648451.
+[06:57:50	]C17:RCT.YELLO-63 ran 'channel' on item 'Handheld Radio' (#1648451)
+[06:57:53	]C17:RCT.YELLO-63 ran 'zone' on item 'Handheld Radio' (#1648451)
+[06:57:54	]C17:RCT.YELLO-63 ran 'qt' on item 'Handheld Radio' (#1648451)
+[06:57:59	]C17:RCT.YELLO-63 ran 'qt' on item 'Handheld Radio' (#1648451)
+[06:58:07	]C17:RCT.YELLO-63 ran 'ToggleOn' on item 'Handheld Radio' (#1648451)
+[06:58:10	]C17:RCT.YELLO-63 ran 'drop' on item 'Handheld Radio' (#1648451)
+[06:58:10	]C17:RCT.YELLO-63 has lost a 'Handheld Radio' #1648451.
+[06:58:14	]C17:RCT.YELLO-63 has used a context menu option with the name: remove
+[06:58:37	]C17:RCT.YELLO-63 used command '/CharAddRadioChannel rct tac-4'.
+[06:58:41	]C17:RCT.YELLO-63 used command '/CharAddRadioChannel rct tac-5'.
+[06:58:51	]C17:RCT.YELLO-63 used command '/SC tac-4'.
+[06:58:57	]C17:RCT.YELLO-63 used command '/Radio 10-4'.
+[06:59:28	]C17:RCT.YELLO-63 used command '/SC tac-5'.
+[06:59:31	]C17:RCT.YELLO-63 used command '/Radio Hello'.
+[06:59:36	]C17:RCT.YELLO-63 used command '/SC cmb'.
+[06:59:39	]C17:RCT.YELLO-63 used command '/Radio hewllo'.
+[07:00:02	]C17:RCT.YELLO-63 exited observer at their location.
+[07:00:04	]C17:RCT.YELLO-63 ran 'drop' on item 'CP Mask' (#1648447)
+[07:00:04	]C17:RCT.YELLO-63 has lost a 'CP Mask' #1648447.
+[07:00:05	]C17:RCT.YELLO-63 ran 'drop' on item 'CP Uniform' (#1648446)
+[07:00:05	]C17:RCT.YELLO-63 has lost a 'CP Uniform' #1648446.
+[07:00:13	]Rabithunter (STEAM_0:1:22394854) deleted character 'C17:RCT.YELLO-63'
+[07:00:17	]Rabithunter loaded the character 'Pathfinder'
+[07:00:22	]Pathfinder is fully healed.
+[07:00:35	]Pathfinder ran 'take' on item 'AKM' (#1648291)
+[07:00:35	]Pathfinder has gained a 'AKM' #1648291.
+[07:00:37	]Pathfinder ran 'Equip' on item 'AKM' (#1648291)
+[07:06:47	]Pathfinder has gone afk.
+[07:09:52	]Pathfinder is no longer afk. Total time spent AFK: 480
+[07:09:57	]Rabithunter (STEAM_0:1:22394854) has disconnected.

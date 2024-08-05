@@ -1,0 +1,57 @@
+[16:24:23	]Votton has connected.
+[16:25:38	]Votton loaded the character 'Joseph Heartwick'
+[16:25:56	]Joseph Heartwick used command '/CharGiveFlag Joseph U'.
+[16:26:05	]Joseph Heartwick has spawned a capda.
+[16:26:07	]Joseph Heartwick ran 'take' on item 'Civil Administration PDA' (#1649386)
+[16:26:07	]Joseph Heartwick has gained a 'Civil Administration PDA' #1649386.
+[16:26:16	]Joseph Heartwick ran 'EquipUn' on item 'Combine PDA' (#123972)
+[16:26:16	]Joseph Heartwick ran 'Equip' on item 'Civil Administration PDA' (#1649386)
+[16:26:51	]Joseph Heartwick entered observer.
+[16:26:52	]Joseph Heartwick exited observer.
+[16:28:04	]Joseph Heartwick entered observer.
+[16:28:06	]Joseph Heartwick exited observer.
+[16:29:53	]Joseph Heartwick entered observer.
+[16:30:18	]Joseph Heartwick has spawned a 'Entity [387][ix_rationdispenser]'.
+[16:30:21	]Joseph Heartwick has acquired his ration, gaining 0 credits, 15 wages and a loyalist_ration ration.
+[16:30:35	]Joseph Heartwick ran 'take' on item 'Loyalist Ration' (#1649387)
+[16:30:35	]Joseph Heartwick has gained a 'Loyalist Ration' #1649387.
+[16:30:40	]Joseph Heartwick ran 'Open' on item 'Loyalist Ration' (#1649387)
+[16:30:40	]Joseph Heartwick has gained a 'Nutrient Bar' #1649388.
+[16:30:40	]Joseph Heartwick has gained a 'Apple' #1649389.
+[16:32:02	]Joseph Heartwick exited observer.
+[16:32:24	]Joseph Heartwick entered observer.
+[16:33:00	]Joseph Heartwick used command '/PlyTransfer heartwick Admin'.
+[16:33:32	][CAPDA] Joseph Heartwick has set rationInterval to 1.
+[16:33:55	]Joseph Heartwick ran 'Consume' on item 'Nutrient Bar' (#1649388)
+[16:33:56	]Joseph Heartwick ran 'Consume' on item 'Spoiled Whole Bread' (#1599723)
+[16:34:00	]Joseph Heartwick ran 'Consume' on item 'Apple' (#1649389)
+[16:34:02	]Joseph Heartwick ran 'Consume' on item 'White Wine' (#1599717)
+[16:34:02	]Joseph Heartwick has updated their Agility long boost target to 1 (current : 5).
+[16:34:02	]Joseph Heartwick has wasted a level 4 long boost in Intelligence (current: 2; target: 5).
+[16:34:02	]Joseph Heartwick has gained a level 4 long boost in Perception.
+[16:34:02	]Joseph Heartwick has gained a 'Empty Wine Bottle' #1649392.
+[16:35:09	]Joseph Heartwick exited observer.
+[16:35:37	]Votton (STEAM_0:1:46230933) has disconnected.
+[18:48:10	]Atle has connected.
+[18:48:53	]Atle loaded the character 'shop owner'
+[18:49:17	]shop owner has spawned 'models/willardnetworks/posters/wn_poster_2.mdl'.
+[18:49:19	]shop owner has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[18:49:24	]shop owner has used a context menu option with the name: skin
+[18:49:26	]shop owner used command '/MapRestart 0'.
+[18:51:11	]Atle has connected.
+[18:51:47	]Atle loaded the character 'shop owner'
+[18:52:04	]shop owner has spawned 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[18:52:08	]shop owner has used a context menu option with the name: skin
+[18:52:11	]shop owner has enabled persistence for 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[18:52:11	]shop owner has used a context menu option with the name: persist
+[18:52:18	]shop owner has given himself a cca_coat_authoritarian.
+[18:52:18	]shop owner has gained a 'Authoritarian's Coat' #1649393.
+[18:52:29	]shop owner used command '/MapRestart 0'.
+[18:54:14	]Atle has connected.
+[18:54:49	]Atle loaded the character 'shop owner'
+[18:55:01	]shop owner has disabled persistence for 'models/willardnetworks/posters/wn_poster_3.mdl'.
+[18:55:01	]shop owner has used a context menu option with the name: persist_end
+[18:55:02	]shop owner has used a context menu option with the name: remove
+[18:57:41	]shop owner has given himself a cca_devil.
+[18:57:41	]shop owner has gained a 'Devil's Advocate' #1649394.
+[18:57:49	]Atle (STEAM_0:0:21027108) has disconnected.

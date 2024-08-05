@@ -1,0 +1,18 @@
+
+╦ average_time = 0.0012537556142655
+╠ total_called = 757
+╠ total_time   = 0.94909299999898
+╠ func         = function: 0xbefd9c7a	-- [lua/weapons/arccw_base/sh_think.lua]: 10-323
+╠ info:        
+║            ╦ lastlinedefined = 323
+║            ╠ linedefined     = 10
+║            ╠ namewhat        = ''
+║            ╠ short_src       = "lua/weapons/arccw_base/sh_think.lua"
+║            ╠ source          = "@lua/weapons/arccw_base/sh_think.lua"
+║            ╠ what            = "Lua"
+║            ╚ func            = function: 0xbefd9c7a	-- [lua/weapons/arccw_base/sh_think.lua]: 10-323
+╠ names:       
+║            ╦ 1:   
+║            ║    ╦ name     = ''
+║            ║    ╠ namewhat = ''
+║            ║    ╚ nparams  = 1

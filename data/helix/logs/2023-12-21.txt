@@ -1,0 +1,1020 @@
+[00:00:00	]C17:RCT.YELLO-09 ran 'take' on item 'USP-45' (#140)
+[00:00:00	]C17:RCT.YELLO-09 has gained a 'USP-45' #140.
+[00:00:02	]C17:RCT.YELLO-09 ran 'drop' on item 'USP-45' (#140)
+[00:00:02	]C17:RCT.YELLO-09 has lost a 'USP-45' #140.
+[00:00:11	]C17:RCT.YELLO-09 has spawned a datadisc.
+[00:00:13	]C17:RCT.YELLO-09 has spawned a datadisc.
+[00:00:22	]C17:RCT.YELLO-09 ran 'take' on item 'Data-Disc' (#174)
+[00:00:22	]C17:RCT.YELLO-09 has gained a 'Data-Disc' #174.
+[00:00:27	]C17:RCT.YELLO-09 ran 'drop' on item 'Data-Disc' (#174)
+[00:00:27	]C17:RCT.YELLO-09 has lost a 'Data-Disc' #174.
+[00:00:30	]C17:RCT.YELLO-09 ran 'take' on item 'Data-Disc' (#174)
+[00:00:30	]C17:RCT.YELLO-09 has gained a 'Data-Disc' #174.
+[00:00:35	]C17:RCT.YELLO-09 ran 'take' on item 'Data-Disc' (#175)
+[00:00:35	]C17:RCT.YELLO-09 has gained a 'Data-Disc' #175.
+[00:00:47	]C17:RCT.YELLO-09 has given himself a comp_resin.
+[00:00:47	]C17:RCT.YELLO-09 has gained a 'Resin' #176.
+[00:00:49	]C17:RCT.YELLO-09 ran 'combine' on item 'Resin' (#173)
+[00:01:01	]C17:RCT.YELLO-09 ran 'drop' on item 'Data-Disc' (#174)
+[00:01:01	]C17:RCT.YELLO-09 has lost a 'Data-Disc' #174.
+[00:01:30	]C17:RCT.YELLO-09 has spawned a stunstick.
+[00:01:52	]C17:RCT.YELLO-09 ran 'take' on item 'Data-Disc' (#174)
+[00:01:52	]C17:RCT.YELLO-09 has gained a 'Data-Disc' #174.
+[00:01:55	]C17:RCT.YELLO-09 ran 'drop' on item 'Data-Disc' (#137)
+[00:01:55	]C17:RCT.YELLO-09 has lost a 'Data-Disc' #137.
+[00:02:01	]C17:RCT.YELLO-09 ran 'take' on item 'Data-Disc' (#137)
+[00:02:01	]C17:RCT.YELLO-09 has gained a 'Data-Disc' #137.
+[00:02:02	]C17:RCT.YELLO-09 ran 'drop' on item 'Data-Disc' (#174)
+[00:02:02	]C17:RCT.YELLO-09 has lost a 'Data-Disc' #174.
+[00:02:04	]C17:RCT.YELLO-09 entered observer.
+[00:02:04	]C17:RCT.YELLO-09 exited observer at their location.
+[00:02:05	]C17:RCT.YELLO-09 entered observer.
+[00:02:05	]C17:RCT.YELLO-09 exited observer at their location.
+[00:02:23	]C17:RCT.YELLO-09 entered observer.
+[00:02:26	]C17:RCT.YELLO-09 exited observer at their location.
+[00:02:27	]C17:RCT.YELLO-09 ran 'drop' on item 'Resin' (#173)
+[00:02:27	]C17:RCT.YELLO-09 has lost a 'Resin' #173.
+[00:02:37	]C17:RCT.YELLO-09 ran 'take' on item 'Resin' (#173)
+[00:02:37	]C17:RCT.YELLO-09 has gained a 'Resin' #173.
+[00:02:52	]reece (STEAM_0:1:158746618) has disconnected.
+[01:25:21	]reece has connected.
+[01:26:22	]reece loaded the character 'C17:RCT.YELLO-09'
+[01:26:33	]C17:RCT.YELLO-09 entered observer.
+[01:26:33	]C17:RCT.YELLO-09 exited observer at their location.
+[01:26:37	]C17:RCT.YELLO-09 has spawned a 'Entity [328][wn_crop]'.
+[01:26:49	]C17:RCT.YELLO-09 has given himself a seed_berries.
+[01:26:49	]C17:RCT.YELLO-09 has gained a 'Berries Seeds' #178.
+[01:26:50	]C17:RCT.YELLO-09 has given himself a seed_greenherb.
+[01:26:50	]C17:RCT.YELLO-09 has gained a 'Green Herb Seeds' #179.
+[01:26:51	]C17:RCT.YELLO-09 has given himself a seed_redherb.
+[01:26:51	]C17:RCT.YELLO-09 has gained a 'Red Herb Seeds' #180.
+[01:26:52	]C17:RCT.YELLO-09 has given himself a seed_banana.
+[01:26:52	]C17:RCT.YELLO-09 has gained a 'Banana Seeds' #181.
+[01:26:52	]C17:RCT.YELLO-09 has given himself a seed_potato.
+[01:26:52	]C17:RCT.YELLO-09 has gained a 'Potato Seeds' #182.
+[01:26:53	]C17:RCT.YELLO-09 has given himself a seed_blueherb.
+[01:26:53	]C17:RCT.YELLO-09 has gained a 'Blue Herb Seeds' #183.
+[01:26:54	]C17:RCT.YELLO-09 has given himself a seed_xen_berries.
+[01:26:54	]C17:RCT.YELLO-09 has gained a 'Xen Berries Seeds' #184.
+[01:26:55	]C17:RCT.YELLO-09 has given himself a seed_pear.
+[01:26:55	]C17:RCT.YELLO-09 has gained a 'Pear Seeds' #185.
+[01:26:56	]C17:RCT.YELLO-09 has given himself a seed_orange.
+[01:26:56	]C17:RCT.YELLO-09 has gained a 'Orange seeds' #186.
+[01:26:56	]C17:RCT.YELLO-09 has given himself a seed_watermelon.
+[01:26:57	]C17:RCT.YELLO-09 has gained a 'Watermelon Seeds' #187.
+[01:26:57	]C17:RCT.YELLO-09 has given himself a seed_tomato.
+[01:26:57	]C17:RCT.YELLO-09 has gained a 'Tomato Seeds' #188.
+[01:26:58	]C17:RCT.YELLO-09 has given himself a seed_apple.
+[01:26:58	]C17:RCT.YELLO-09 has gained a 'Apple Seeds' #189.
+[01:26:59	]C17:RCT.YELLO-09 has given himself a seed_pineapple.
+[01:26:59	]C17:RCT.YELLO-09 has gained a 'Pineapple Seeds' #190.
+[01:27:02	]C17:RCT.YELLO-09 ran 'plant' on item 'Berries Seeds' (#178)
+[01:27:04	]C17:RCT.YELLO-09 ran 'plant' on item 'Green Herb Seeds' (#179)
+[01:27:06	]C17:RCT.YELLO-09 ran 'plant' on item 'Green Herb Seeds' (#179)
+[01:27:10	]C17:RCT.YELLO-09 ran 'plant' on item 'Xen Berries Seeds' (#184)
+[01:27:11	]C17:RCT.YELLO-09 ran 'plant' on item 'Pineapple Seeds' (#190)
+[01:27:13	]C17:RCT.YELLO-09 ran 'plant' on item 'Blue Herb Seeds' (#183)
+[01:27:16	]C17:RCT.YELLO-09 ran 'plant' on item 'Blue Herb Seeds' (#183)
+[01:27:35	]C17:RCT.YELLO-09 has spawned a planter_placer.
+[01:27:37	]C17:RCT.YELLO-09 ran 'take' on item 'Planter' (#191)
+[01:27:37	]C17:RCT.YELLO-09 has gained a 'Planter' #191.
+[01:27:38	]C17:RCT.YELLO-09 ran 'place' on item 'Planter' (#191)
+[01:27:53	]C17:RCT.YELLO-09 has given himself a sandbag_placer.
+[01:27:53	]C17:RCT.YELLO-09 has gained a 'Sandbag' #192.
+[01:27:55	]C17:RCT.YELLO-09 ran 'place' on item 'Sandbag' (#192)
+[01:28:10	]C17:RCT.YELLO-09 has given himself a machete.
+[01:28:10	]C17:RCT.YELLO-09 has gained a 'Machete' #193.
+[01:28:13	]C17:RCT.YELLO-09 ran 'Equip' on item 'Machete' (#193)
+[01:28:25	]C17:RCT.YELLO-09 ran 'drop' on item 'Blue Herb Seeds' (#183)
+[01:28:25	]C17:RCT.YELLO-09 has lost a 'Blue Herb Seeds' #183.
+[01:28:25	]C17:RCT.YELLO-09 ran 'drop' on item 'Apple Seeds' (#189)
+[01:28:25	]C17:RCT.YELLO-09 has lost a 'Apple Seeds' #189.
+[01:28:26	]C17:RCT.YELLO-09 ran 'drop' on item 'Tomato Seeds' (#188)
+[01:28:26	]C17:RCT.YELLO-09 has lost a 'Tomato Seeds' #188.
+[01:28:26	]C17:RCT.YELLO-09 ran 'drop' on item 'Potato Seeds' (#182)
+[01:28:26	]C17:RCT.YELLO-09 has lost a 'Potato Seeds' #182.
+[01:28:26	]C17:RCT.YELLO-09 ran 'drop' on item 'Watermelon Seeds' (#187)
+[01:28:26	]C17:RCT.YELLO-09 has lost a 'Watermelon Seeds' #187.
+[01:28:26	]C17:RCT.YELLO-09 ran 'drop' on item 'Banana Seeds' (#181)
+[01:28:26	]C17:RCT.YELLO-09 has lost a 'Banana Seeds' #181.
+[01:28:27	]C17:RCT.YELLO-09 ran 'drop' on item 'Orange seeds' (#186)
+[01:28:27	]C17:RCT.YELLO-09 has lost a 'Orange seeds' #186.
+[01:28:27	]C17:RCT.YELLO-09 ran 'drop' on item 'Resin' (#173)
+[01:28:27	]C17:RCT.YELLO-09 has lost a 'Resin' #173.
+[01:28:27	]C17:RCT.YELLO-09 ran 'drop' on item 'Pear Seeds' (#185)
+[01:28:27	]C17:RCT.YELLO-09 has lost a 'Pear Seeds' #185.
+[01:28:28	]C17:RCT.YELLO-09 ran 'drop' on item 'Red Herb Seeds' (#180)
+[01:28:28	]C17:RCT.YELLO-09 has lost a 'Red Herb Seeds' #180.
+[01:28:28	]C17:RCT.YELLO-09 ran 'drop' on item 'Machete' (#193)
+[01:28:28	]C17:RCT.YELLO-09 has lost a 'Machete' #193.
+[01:28:31	]C17:RCT.YELLO-09 has fired a toolgun with the name: remover
+[01:28:31	]C17:RCT.YELLO-09 has fired a toolgun with the name: remover
+[01:28:31	]C17:RCT.YELLO-09 has fired a toolgun with the name: remover
+[01:28:31	]C17:RCT.YELLO-09 has fired a toolgun with the name: remover
+[01:28:31	]C17:RCT.YELLO-09 has fired a toolgun with the name: remover
+[01:28:32	]C17:RCT.YELLO-09 has fired a toolgun with the name: remover
+[01:28:32	]C17:RCT.YELLO-09 has fired a toolgun with the name: remover
+[01:28:32	]C17:RCT.YELLO-09 has fired a toolgun with the name: remover
+[01:28:33	]C17:RCT.YELLO-09 has fired a toolgun with the name: remover
+[01:28:33	]C17:RCT.YELLO-09 has fired a toolgun with the name: remover
+[01:28:33	]C17:RCT.YELLO-09 has fired a toolgun with the name: remover
+[01:28:33	]C17:RCT.YELLO-09 has fired a toolgun with the name: remover
+[01:28:34	]C17:RCT.YELLO-09 has fired a toolgun with the name: remover
+[01:28:34	]C17:RCT.YELLO-09 has fired a toolgun with the name: remover
+[01:28:36	]C17:RCT.YELLO-09 has given himself a sb_crf_vol5.
+[01:28:36	]C17:RCT.YELLO-09 has gained a 'Tesla Science - Part 5' #194.
+[01:28:37	]C17:RCT.YELLO-09 has given himself a sb_crf_vol4.
+[01:28:37	]C17:RCT.YELLO-09 has gained a 'Tesla Science - Part 4' #195.
+[01:28:37	]C17:RCT.YELLO-09 has given himself a sb_crf_vol3.
+[01:28:38	]C17:RCT.YELLO-09 has gained a 'Tesla Science - Part 3' #196.
+[01:28:38	]C17:RCT.YELLO-09 has given himself a sb_crf_vol2.
+[01:28:38	]C17:RCT.YELLO-09 has gained a 'Tesla Science - Part 2' #197.
+[01:28:39	]C17:RCT.YELLO-09 has given himself a sb_crf_vol1.
+[01:28:39	]C17:RCT.YELLO-09 has gained a 'Tesla Science - Part 1' #198.
+[01:28:44	]C17:RCT.YELLO-09 ran 'Read' on item 'Tesla Science - Part 1' (#198)
+[01:29:29	]C17:RCT.YELLO-09 has gained level 5 in the Crafting skill.
+[01:30:30	]C17:RCT.YELLO-09 ran 'Read' on item 'Tesla Science - Part 2' (#197)
+[01:31:30	]C17:RCT.YELLO-09 has gained level 10 in the Crafting skill.
+[01:32:18	]C17:RCT.YELLO-09 has used a context menu option with the name: skin
+[01:32:28	]C17:RCT.YELLO-09 entered observer.
+[01:32:29	]C17:RCT.YELLO-09 exited observer at their location.
+[01:32:33	]reece loaded the character 'fwafgawawf'
+[01:32:37	]fwafgawawf entered observer.
+[01:32:37	]fwafgawawf exited observer at their location.
+[01:32:43	]fwafgawawf entered observer.
+[01:32:44	]fwafgawawf exited observer at their location.
+[01:32:44	]fwafgawawf entered observer.
+[01:32:45	]fwafgawawf exited observer at their location.
+[01:33:38	]fwafgawawf entered observer.
+[01:33:40	]fwafgawawf exited observer at their location.
+[01:33:43	]fwafgawawf entered observer.
+[01:33:46	]fwafgawawf exited observer at their location.
+[01:34:13	]fwafgawawf entered observer.
+[01:34:14	]fwafgawawf exited observer at their location.
+[01:34:18	]fwafgawawf entered observer.
+[01:34:19	]fwafgawawf exited observer at their location.
+[01:34:36	]fwafgawawf has given himself a lamotrigine.
+[01:34:36	]fwafgawawf has gained a 'Lamotrigine (epilepsy)' #199.
+[01:34:37	]fwafgawawf has given himself a levothyroxine.
+[01:34:37	]fwafgawawf has gained a 'Levothyroxine (thyroid)' #200.
+[01:34:37	]fwafgawawf has given himself a eyedrops.
+[01:34:37	]fwafgawawf has gained a 'Eye Drops' #201.
+[01:34:39	]fwafgawawf has given himself a prednisone.
+[01:34:39	]fwafgawawf has gained a 'Prednisone (inflammation)' #202.
+[01:34:39	]fwafgawawf has given himself a pantoprazole.
+[01:34:40	]fwafgawawf has gained a 'Pantoprazole (stomach)' #203.
+[01:34:46	]fwafgawawf ran 'use' on item 'Eye Drops' (#201)
+[01:34:46	]fwafgawawf was disinfected by fwafgawawf for 12 seconds.
+[01:34:46	]fwafgawawf was bandaged by fwafgawawf for 5 HP.
+[01:34:46	]fwafgawawf has gained a level 1 short boost in Perception.
+[01:34:48	]fwafgawawf is fully healed.
+[01:34:49	]fwafgawawf used command '/ToggleRaise'.
+[01:34:50	]fwafgawawf used command '/ToggleRaise'.
+[01:34:54	]fwafgawawf ran SAM command 'hp' with arguments: 'f' '5'
+[01:34:57	]fwafgawawf ran 'use' on item 'Lamotrigine (epilepsy)' (#199)
+[01:34:57	]fwafgawawf has performed the 'Use Lamotrigine (epilepsy)' action, gaining 15 experience in medicine.
+[01:34:57	]fwafgawawf was disinfected by fwafgawawf for 30 seconds.
+[01:34:57	]fwafgawawf was bandaged by fwafgawawf for 5 HP.
+[01:34:57	]fwafgawawf has gained a level 1 short boost in Intelligence.
+[01:35:16	]fwafgawawf ran 'use' on item 'Levothyroxine (thyroid)' (#200)
+[01:35:16	]fwafgawawf has performed the 'Use Levothyroxine (thyroid)' action, gaining 15 experience in medicine.
+[01:35:16	]fwafgawawf was disinfected by fwafgawawf for 40 seconds.
+[01:35:16	]fwafgawawf was bandaged by fwafgawawf for 5 HP.
+[01:35:16	]fwafgawawf extended their level 1 short boost in Intelligence.
+[01:35:21	]fwafgawawf ran 'use' on item 'Pantoprazole (stomach)' (#203)
+[01:35:21	]fwafgawawf has performed the 'Use Pantoprazole (stomach)' action, gaining 15 experience in medicine.
+[01:35:21	]fwafgawawf was disinfected by fwafgawawf for 40 seconds.
+[01:35:21	]fwafgawawf was bandaged by fwafgawawf for 5 HP.
+[01:35:21	]fwafgawawf has gained a level 1 short boost in Strength.
+[01:35:21	]fwafgawawf ran 'use' on item 'Prednisone (inflammation)' (#202)
+[01:35:21	]fwafgawawf has performed the 'Use Prednisone (inflammation)' action, gaining 16 experience in medicine.
+[01:35:21	]fwafgawawf was disinfected by fwafgawawf for 40 seconds.
+[01:35:21	]fwafgawawf was bandaged by fwafgawawf for 8 HP.
+[01:35:46	]fwafgawawf has given himself a Rabit_test.
+[01:35:46	]fwafgawawf has gained a 'A surprise Item' #204.
+[01:35:47	]fwafgawawf ran 'drop' on item 'A surprise Item' (#204)
+[01:35:47	]fwafgawawf has lost a 'A surprise Item' #204.
+[01:35:49	]fwafgawawf ran 'take' on item 'A surprise Item' (#204)
+[01:35:49	]fwafgawawf has gained a 'A surprise Item' #204.
+[01:35:51	]fwafgawawf ran 'drop' on item 'Pantoprazole (stomach)' (#203)
+[01:35:51	]fwafgawawf has lost a 'Pantoprazole (stomach)' #203.
+[01:35:51	]fwafgawawf ran 'drop' on item 'A surprise Item' (#204)
+[01:35:51	]fwafgawawf has lost a 'A surprise Item' #204.
+[01:35:53	]fwafgawawf has used a context menu option with the name: remove
+[01:35:54	]fwafgawawf has used a context menu option with the name: remove
+[01:37:10	]reece (STEAM_0:1:158746618) has disconnected.
+[14:41:12	]Hayden has connected.
+[14:42:02	]Hayden loaded the character 'Hayden'
+[14:42:09	]Hayden entered observer.
+[14:42:30	]Hayden ran SAM command 'respawn' with arguments: ''
+[14:42:31	]Hayden entered observer.
+[14:42:33	]Hayden exited observer at their location.
+[14:42:35	]Hayden entered observer.
+[14:42:50	]Hayden exited observer at their location.
+[14:42:51	]Hayden entered observer.
+[14:42:55	]Hayden exited observer at their location.
+[14:43:08	]Hayden has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[14:43:14	]Hayden entered observer.
+[14:43:14	]Hayden exited observer at their location.
+[14:43:17	]Hayden has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[14:43:22	]Hayden created a 'Large Metal Cabinet' container.
+[14:43:22	]Hayden has used a context menu option with the name: wncontainer_create
+[14:43:24	]Hayden created a 'Large Metal Cabinet' container.
+[14:43:24	]Hayden has used a context menu option with the name: wncontainer_create
+[14:43:39	]Hayden used command '/CharGiveItem Hayden planter_placer 8'.
+[14:43:39	]Hayden has gained a 'Planter' #205.
+[14:43:46	]Hayden has given himself a smallbag.
+[14:43:46	]Hayden has gained a 'Small Bag' #206.
+[14:43:47	]Hayden has given himself a largebag.
+[14:43:47	]Hayden has gained a 'Large Bag' #207.
+[14:44:12	]Hayden used command '/CharGiveItem Hayden planter_placer 8'.
+[14:44:12	]Hayden has gained a 'Planter' #208.
+[14:44:12	]Hayden has gained a 'Planter' #209.
+[14:44:15	]Hayden admin-searched the 'Large Metal Cabinet' #82 container.
+[14:44:15	]Hayden has used a context menu option with the name: wncontainer_view
+[14:44:17	]Hayden has transferred a 'Planter' #205 to a container with the name 'Large Metal Cabinet' #82.
+[14:44:21	]Hayden has transferred a 'Planter' #208 to a container with the name 'Large Metal Cabinet' #82.
+[14:44:24	]Hayden has transferred a 'Planter' #209 to a container with the name 'Large Metal Cabinet' #82.
+[14:44:26	]Hayden admin-closed the 'Large Metal Cabinet' #82 container.
+[14:44:27	]Hayden ran 'drop' on item 'Light Grey Armband' (#2)
+[14:44:27	]Hayden has lost a 'Light Grey Armband' #2.
+[14:44:28	]Hayden ran 'drop' on item '#03254's Identity Card' (#3)
+[14:44:28	]Hayden has lost a '#03254's Identity Card' #3.
+[14:44:29	]Hayden ran 'drop' on item 'Flashlight' (#1)
+[14:44:29	]Hayden has lost a 'Flashlight' #1.
+[14:44:32	]Hayden has fired a toolgun with the name: remover
+[14:44:32	]Hayden has fired a toolgun with the name: remover
+[14:44:33	]Hayden has fired a toolgun with the name: remover
+[14:44:33	]Hayden has fired a toolgun with the name: remover
+[14:44:33	]Hayden has fired a toolgun with the name: remover
+[14:44:33	]Hayden has fired a toolgun with the name: remover
+[14:44:33	]Hayden has fired a toolgun with the name: remover
+[14:44:34	]Hayden has fired a toolgun with the name: remover
+[14:44:34	]Hayden has fired a toolgun with the name: remover
+[14:44:34	]Hayden has fired a toolgun with the name: remover
+[14:44:34	]Hayden has fired a toolgun with the name: remover
+[14:44:34	]Hayden has fired a toolgun with the name: remover
+[14:44:35	]Hayden has fired a toolgun with the name: remover
+[14:44:35	]Hayden has fired a toolgun with the name: remover
+[14:44:35	]Hayden has fired a toolgun with the name: remover
+[14:44:36	]Mango has connected.
+[14:44:39	]Hayden used command '/CharGiveItem Hayden planter_placer 8'.
+[14:44:39	]Hayden has gained a 'Planter' #210.
+[14:44:39	]Hayden has gained a 'Planter' #211.
+[14:44:39	]Hayden has gained a 'Planter' #212.
+[14:44:39	]Hayden has gained a 'Planter' #213.
+[14:44:40	]Hayden admin-searched the 'Large Metal Cabinet' #82 container.
+[14:44:40	]Hayden has used a context menu option with the name: wncontainer_view
+[14:44:41	]Hayden has transferred a 'Planter' #210 to a container with the name 'Large Metal Cabinet' #82.
+[14:44:41	]Hayden has transferred a 'Planter' #211 to a container with the name 'Large Metal Cabinet' #82.
+[14:44:45	]Hayden has transferred a 'Planter' #212 to a container with the name 'Large Metal Cabinet' #82.
+[14:44:46	]Hayden has transferred a 'Planter' #213 to a container with the name 'Large Metal Cabinet' #82.
+[14:44:48	]Hayden admin-closed the 'Large Metal Cabinet' #82 container.
+[14:44:49	]Hayden used command '/CharGiveItem Hayden planter_placer 8'.
+[14:44:49	]Hayden has gained a 'Planter' #214.
+[14:44:49	]Hayden has gained a 'Planter' #215.
+[14:44:49	]Hayden has gained a 'Planter' #216.
+[14:44:49	]Hayden has gained a 'Planter' #217.
+[14:44:51	]Hayden admin-searched the 'Large Metal Cabinet' #82 container.
+[14:44:51	]Hayden has used a context menu option with the name: wncontainer_view
+[14:44:52	]Hayden has transferred a 'Planter' #214 to a container with the name 'Large Metal Cabinet' #82.
+[14:44:52	]Hayden admin-closed the 'Large Metal Cabinet' #82 container.
+[14:44:54	]Hayden has used a context menu option with the name: wncontainer_checkowner
+[14:44:55	]Hayden admin-searched the 'Large Metal Cabinet' #81 container.
+[14:44:55	]Hayden has used a context menu option with the name: wncontainer_view
+[14:44:55	]Hayden has transferred a 'Planter' #215 to a container with the name 'Large Metal Cabinet' #81.
+[14:44:56	][AltChecker] Mango joined for the first time, generating new cookie.
+[14:44:57	]Hayden has transferred a 'Planter' #216 to a container with the name 'Large Metal Cabinet' #81.
+[14:44:58	]Hayden has transferred a 'Planter' #217 to a container with the name 'Large Metal Cabinet' #81.
+[14:45:00	]Hayden admin-closed the 'Large Metal Cabinet' #81 container.
+[14:45:02	]Hayden used command '/CharGiveItem Hayden planter_placer 8'.
+[14:45:02	]Hayden has gained a 'Planter' #218.
+[14:45:02	]Hayden has gained a 'Planter' #219.
+[14:45:02	]Hayden has gained a 'Planter' #220.
+[14:45:02	]Hayden has gained a 'Planter' #221.
+[14:45:03	]Hayden admin-searched the 'Large Metal Cabinet' #81 container.
+[14:45:03	]Hayden has used a context menu option with the name: wncontainer_view
+[14:45:04	]Hayden has transferred a 'Planter' #218 to a container with the name 'Large Metal Cabinet' #81.
+[14:45:04	]Hayden has transferred a 'Planter' #219 to a container with the name 'Large Metal Cabinet' #81.
+[14:45:07	]Hayden has transferred a 'Planter' #220 to a container with the name 'Large Metal Cabinet' #81.
+[14:45:08	]Hayden has transferred a 'Planter' #221 to a container with the name 'Large Metal Cabinet' #81.
+[14:45:09	]Hayden admin-closed the 'Large Metal Cabinet' #81 container.
+[14:45:24	]Hayden has given himself a seed_blueherb.
+[14:45:24	]Hayden has gained a 'Blue Herb Seeds' #222.
+[14:45:25	]Mango created the character 'Mango'
+[14:45:26	]Mango loaded the character 'Mango'
+[14:45:26	]Mango has gained a 'Suitcase' #223.
+[14:45:26	]Mango has gained a 'Flashlight' #224.
+[14:45:26	]Mango has gained a 'Light Grey Armband' #225.
+[14:45:26	]Mango has gained a '#17177's Identity Card' #226.
+[14:45:33	]Hayden used command '/CharGiveItem Hayden seed_blueherb 4'.
+[14:45:33	]Hayden has gained a 'Blue Herb Seeds' #227.
+[14:45:33	]Hayden has gained a 'Blue Herb Seeds' #228.
+[14:45:33	]Hayden has gained a 'Blue Herb Seeds' #229.
+[14:45:33	]Hayden has gained a 'Blue Herb Seeds' #230.
+[14:45:42	][IC] Mango: Hi.
+[14:45:44	]Hayden used command '/CharGiveItem Hayden seed_blueherb 1'.
+[14:45:44	]Hayden has gained a 'Blue Herb Seeds' #231.
+[14:45:45	][IC] Hayden: Hi :3.
+[14:45:47	][IC] Mango: Hi. Hi.
+[14:45:53	][IC] Mango: Spafjmapfaspd.
+[14:45:53	][IC] Hayden: Want me to make a CP char?
+[14:45:56	][IC] Hayden: Hwbyahybdhyawnhn.
+[14:46:03	][IC] Mango: Lets try first with civvies.
+[14:46:08	][IC] Hayden: Sure.
+[14:46:12	]Hayden has fired a toolgun with the name: light
+[14:46:17	]Mango has spawned a uniform_cp.
+[14:46:18	]Mango has spawned a mask_cp.
+[14:46:22	]Mango ran 'take' on item 'CP Mask' (#233)
+[14:46:22	]Mango has gained a 'CP Mask' #233.
+[14:46:24	]Mango ran 'take' on item 'CP Uniform' (#232)
+[14:46:24	]Mango has gained a 'CP Uniform' #232.
+[14:46:42	][IC] Hayden: Works fine! Will send screenshot.
+[14:46:50	][IC] Mango: <:: 10-4. ::>
+[14:46:59	][IC] Mango: <:: Am I Civil Protection in chat? ::>
+[14:47:01	][ME] Mango: a
+[14:47:03	][IC] Hayden: Yup!
+[14:47:12	][IC] Mango: <:: Now you equip too. ::>
+[14:47:22	]Hayden has spawned a uniform_cp.
+[14:47:22	]Hayden has spawned a mask_cp.
+[14:47:24	]Hayden ran 'take' on item 'CP Mask' (#235)
+[14:47:24	]Hayden has gained a 'CP Mask' #235.
+[14:47:25	]Hayden ran 'take' on item 'CP Uniform' (#234)
+[14:47:25	]Hayden has gained a 'CP Uniform' #234.
+[14:47:37	][IC] Hayden: <:: Meow meow. ::>
+[14:47:38	][ME] Hayden: meows
+[14:47:39	][IC] Mango: <:: Mreow. ::>
+[14:47:45	][IC] Hayden: Mrow.
+[14:47:47	][ME] Hayden: mrow
+[14:47:49	][IC] Mango: <:: Mmmm the name goes wrooooooop tho. ::>
+[14:47:52	][IC] Mango: <:: The position I mean. ::>
+[14:47:54	][IC] Hayden: <:: Wroooop? ::>
+[14:47:58	][IC] Hayden: <:: Ah. ::>
+[14:48:09	][IC] Mango: <:: Try remove the helmet. ::>
+[14:48:14	][IC] Hayden: Boop.
+[14:48:30	][IC] Mango: <:: Mmm I still recognize. ::>
+[14:48:36	][IC] Hayden: Oh odd your name is now Mango.
+[14:48:40	][IC] Mango: <:: Yus. ::>
+[14:48:49	][IC] Mango: <:: I think it automtically recognizes one another. ::>
+[14:48:53	][IC] Mango: <:: I'll have to look at that. ::>
+[14:48:53	][IC] Hayden: Ahh.
+[14:49:07	][IC] Mango: <:: Now we can try with CP faction. ::>
+[14:49:09	][IC] Hayden: Gotcha.
+[14:49:17	]Hayden used command '/PlyWhitelist Hayden Protection'.
+[14:49:33	]Mango used command '/PlyWhitelist mango Civil Protection'.
+[14:49:37	]Hayden created the character 'C17:RCT.YELLO-72'
+[14:49:37	]Hayden has gained level 5 in the Guns skill.
+[14:49:37	]Hayden has gained level 10 in the Speed skill.
+[14:49:37	]Hayden loaded the character 'C17:RCT.YELLO-72'
+[14:49:37	]C17:RCT.YELLO-72 has gained a '#17862's Identity Card' #236.
+[14:49:37	]C17:RCT.YELLO-72 has gained a 'Combine PDA' #237.
+[14:49:37	]C17:RCT.YELLO-72 has gained a 'CP Uniform' #238.
+[14:49:37	]C17:RCT.YELLO-72 has gained a 'CP Mask' #239.
+[14:49:37	]C17:RCT.YELLO-72 has gained a 'Handheld Radio' #240.
+[14:49:37	]C17:RCT.YELLO-72 has gained a 'Small Bag' #241.
+[14:49:37	]C17:RCT.YELLO-72 has gained a 'Large Bag' #242.
+[14:49:39	]C17:RCT.YELLO-72 entered observer.
+[14:49:42	]C17:RCT.YELLO-72 exited observer at their location.
+[14:50:07	][IC] Mango: <:: Mmm I don't see your size. ::>
+[14:50:14	][IC] C17:RCT.YELLO-72: Huh.
+[14:50:27	][IC] Mango: <:: Strangeroni, I can fix that tho. ::>
+[14:50:32	][IC] C17:RCT.YELLO-72: <:: Good :D. ::>
+[14:50:48	][IC] Mango: <:: I guess it works! Lemme go on cp too. ::>
+[14:50:52	][IC] C17:RCT.YELLO-72: <:: Sure. ::>
+[14:51:09	]Mango created the character 'C17:RCT.YELLO-34'
+[14:51:09	]Mango has gained level 5 in the Guns skill.
+[14:51:09	]Mango has gained level 10 in the Speed skill.
+[14:51:09	]Mango loaded the character 'C17:RCT.YELLO-34'
+[14:51:09	]C17:RCT.YELLO-34 has gained a '#18549's Identity Card' #243.
+[14:51:09	]C17:RCT.YELLO-34 has gained a 'Combine PDA' #244.
+[14:51:09	]C17:RCT.YELLO-34 has gained a 'CP Uniform' #245.
+[14:51:09	]C17:RCT.YELLO-34 has gained a 'CP Mask' #246.
+[14:51:09	]C17:RCT.YELLO-34 has gained a 'Handheld Radio' #247.
+[14:51:09	]C17:RCT.YELLO-34 has gained a 'Small Bag' #248.
+[14:51:09	]C17:RCT.YELLO-34 has gained a 'Large Bag' #249.
+[14:51:41	][IC] C17:RCT.YELLO-34: <:: You see my height? ::>
+[14:51:44	][IC] C17:RCT.YELLO-72: Nyop.
+[14:51:54	][IC] C17:RCT.YELLO-34: <:: Oke so that and the  name recognizing. ::>
+[14:51:57	][IC] C17:RCT.YELLO-34: <:: Other than that it's goodie. ::>
+[14:52:07	][IC] C17:RCT.YELLO-72: Yeah, I think Clap will be happy.
+[14:52:10	][IC] C17:RCT.YELLO-34: <:: 10-4. 11-99; officer needs assistance! ::>
+[14:52:16	][IC] C17:RCT.YELLO-34: <:: Thanks fren. ::>
+[14:52:18	][IC] C17:RCT.YELLO-34: <:: U amazing. ::>
+[14:52:25	][IC] C17:RCT.YELLO-72: No problem :D Had to do stuff on here anyways.
+[14:52:28	][IC] C17:RCT.YELLO-72: Ty for all the work.
+[14:52:41	][IC] C17:RCT.YELLO-34: <:: Gladly, you have to do something on the serverr? ::>
+[14:52:48	][IC] C17:RCT.YELLO-34: <:: Need me to change the branch back or this is okay? ::>
+[14:52:57	][IC] C17:RCT.YELLO-72: Yeah I just need to spawn some of the farming stuff for rebel reps to take a look.
+[14:53:06	][IC] C17:RCT.YELLO-72: Oh nah this branch is fine.
+[14:53:11	][IC] C17:RCT.YELLO-34: <:: Oki. ::>
+[14:53:14	][IC] C17:RCT.YELLO-34: <:: <3. ::>
+[14:53:16	]C17:RCT.YELLO-34 opened the 'Large Metal Cabinet' #81 container.
+[14:53:19	][IC] C17:RCT.YELLO-72: :).
+[14:53:19	]C17:RCT.YELLO-34 closed the 'Large Metal Cabinet' #81 container.
+[14:53:23	]Hayden loaded the character 'Hayden'
+[14:53:29	]Hayden ran 'drop' on item 'CP Mask' (#235)
+[14:53:29	]Hayden has lost a 'CP Mask' #235.
+[14:53:31	]Hayden ran 'drop' on item 'CP Uniform' (#234)
+[14:53:31	]Hayden has lost a 'CP Uniform' #234.
+[14:53:34	]Hayden has fired a toolgun with the name: remover
+[14:53:34	]Hayden has fired a toolgun with the name: remover
+[14:53:40	]Hayden admin-searched the 'Large Metal Cabinet' #81 container.
+[14:53:40	]Hayden has used a context menu option with the name: wncontainer_view
+[14:53:42	]Hayden has transferred a 'Blue Herb Seeds' #222 to a container with the name 'Large Metal Cabinet' #81.
+[14:53:44	]Hayden has transferred a 'Blue Herb Seeds' #227 to a container with the name 'Large Metal Cabinet' #81.
+[14:53:45	]Hayden has transferred a 'Blue Herb Seeds' #228 to a container with the name 'Large Metal Cabinet' #81.
+[14:53:46	]Hayden has transferred a 'Blue Herb Seeds' #229 to a container with the name 'Large Metal Cabinet' #81.
+[14:53:47	]Hayden has transferred a 'Blue Herb Seeds' #231 to a container with the name 'Large Metal Cabinet' #81.
+[14:53:50	]Hayden has transferred a 'Blue Herb Seeds' #230 to a container with the name 'Large Metal Cabinet' #81.
+[14:53:52	]Hayden admin-closed the 'Large Metal Cabinet' #81 container.
+[14:53:57	]Hayden admin-searched the 'Large Metal Cabinet' #81 container.
+[14:53:57	]Hayden has used a context menu option with the name: wncontainer_view
+[14:54:01	]Hayden admin-closed the 'Large Metal Cabinet' #81 container.
+[14:54:19	]Hayden used command '/CharGiveItem Hayden seed_xen_berries 6'.
+[14:54:19	]Hayden has gained a 'Xen Berries Seeds' #250.
+[14:54:19	]Hayden has gained a 'Xen Berries Seeds' #251.
+[14:54:19	]Hayden has gained a 'Xen Berries Seeds' #252.
+[14:54:19	]Hayden has gained a 'Xen Berries Seeds' #253.
+[14:54:19	]Hayden has gained a 'Xen Berries Seeds' #254.
+[14:54:19	]Hayden has gained a 'Xen Berries Seeds' #255.
+[14:54:21	]Hayden admin-searched the 'Large Metal Cabinet' #81 container.
+[14:54:21	]Hayden has used a context menu option with the name: wncontainer_view
+[14:54:22	]Hayden has transferred a 'Xen Berries Seeds' #250 to a container with the name 'Large Metal Cabinet' #81.
+[14:54:22	]Hayden has transferred a 'Xen Berries Seeds' #251 to a container with the name 'Large Metal Cabinet' #81.
+[14:54:22	]Hayden has transferred a 'Xen Berries Seeds' #252 to a container with the name 'Large Metal Cabinet' #81.
+[14:54:23	]Hayden has transferred a 'Xen Berries Seeds' #253 to a container with the name 'Large Metal Cabinet' #81.
+[14:54:23	]Hayden has transferred a 'Xen Berries Seeds' #254 to a container with the name 'Large Metal Cabinet' #81.
+[14:54:26	]Hayden has transferred a 'Xen Berries Seeds' #255 to a container with the name 'Large Metal Cabinet' #81.
+[14:54:28	]Hayden admin-closed the 'Large Metal Cabinet' #81 container.
+[14:54:31	]Hayden admin-searched the 'Large Metal Cabinet' #81 container.
+[14:54:31	]Hayden has used a context menu option with the name: wncontainer_view
+[14:54:31	]Hayden has gained a 'Xen Berries Seeds' #250 from a container with the name 'Large Metal Cabinet' #81.
+[14:54:32	]Hayden has gained a 'Xen Berries Seeds' #251 from a container with the name 'Large Metal Cabinet' #81.
+[14:54:32	]Hayden has gained a 'Xen Berries Seeds' #252 from a container with the name 'Large Metal Cabinet' #81.
+[14:54:32	]Hayden has gained a 'Xen Berries Seeds' #253 from a container with the name 'Large Metal Cabinet' #81.
+[14:54:33	]Hayden has gained a 'Xen Berries Seeds' #254 from a container with the name 'Large Metal Cabinet' #81.
+[14:54:33	]Hayden has gained a 'Xen Berries Seeds' #255 from a container with the name 'Large Metal Cabinet' #81.
+[14:54:34	]Hayden has gained a 'Blue Herb Seeds' #222 from a container with the name 'Large Metal Cabinet' #81.
+[14:54:34	]Hayden has gained a 'Blue Herb Seeds' #227 from a container with the name 'Large Metal Cabinet' #81.
+[14:54:34	]Hayden has gained a 'Blue Herb Seeds' #228 from a container with the name 'Large Metal Cabinet' #81.
+[14:54:35	]Hayden has gained a 'Blue Herb Seeds' #229 from a container with the name 'Large Metal Cabinet' #81.
+[14:54:35	]Hayden has gained a 'Blue Herb Seeds' #231 from a container with the name 'Large Metal Cabinet' #81.
+[14:54:36	]Hayden has gained a 'Blue Herb Seeds' #230 from a container with the name 'Large Metal Cabinet' #81.
+[14:54:37	]Hayden admin-closed the 'Large Metal Cabinet' #81 container.
+[14:54:53	]Hayden has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[14:55:00	]Hayden has used a context menu option with the name: clientprop
+[14:55:07	]Hayden created a 'Large Metal Cabinet' container.
+[14:55:07	]Hayden has used a context menu option with the name: wncontainer_create
+[14:55:09	]Hayden admin-searched the 'Large Metal Cabinet' #99 container.
+[14:55:09	]Hayden has used a context menu option with the name: wncontainer_view
+[14:55:10	]Hayden has transferred a 'Xen Berries Seeds' #250 to a container with the name 'Large Metal Cabinet' #99.
+[14:55:10	]Hayden has transferred a 'Xen Berries Seeds' #251 to a container with the name 'Large Metal Cabinet' #99.
+[14:55:10	]Hayden has transferred a 'Xen Berries Seeds' #252 to a container with the name 'Large Metal Cabinet' #99.
+[14:55:10	]Hayden has transferred a 'Xen Berries Seeds' #253 to a container with the name 'Large Metal Cabinet' #99.
+[14:55:11	]Hayden has transferred a 'Xen Berries Seeds' #254 to a container with the name 'Large Metal Cabinet' #99.
+[14:55:11	]Hayden has transferred a 'Xen Berries Seeds' #255 to a container with the name 'Large Metal Cabinet' #99.
+[14:55:14	]Hayden admin-closed the 'Large Metal Cabinet' #99 container.
+[14:55:27	]Hayden used command '/CharGiveItem Hayden fertilizer 12'.
+[14:55:27	]Hayden has gained a 'Fertilizer' #256.
+[14:55:27	]Hayden has gained a 'Fertilizer' #257.
+[14:55:27	]Hayden has gained a 'Fertilizer' #258.
+[14:55:27	]Hayden has gained a 'Fertilizer' #259.
+[14:55:27	]Hayden has gained a 'Fertilizer' #260.
+[14:55:27	]Hayden has gained a 'Fertilizer' #261.
+[14:55:27	]Hayden has gained a 'Fertilizer' #262.
+[14:55:27	]Hayden has gained a 'Fertilizer' #263.
+[14:55:27	]Hayden has gained a 'Fertilizer' #264.
+[14:55:27	]Hayden has gained a 'Fertilizer' #265.
+[14:55:27	]Hayden has gained a 'Fertilizer' #266.
+[14:55:27	]Hayden has gained a 'Fertilizer' #267.
+[14:55:35	]Hayden used command '/CharGiveItem Hayden water_bucket 12'.
+[14:55:35	]Hayden has gained a 'Water Bucket' #268.
+[14:55:35	]Hayden has gained a 'Water Bucket' #269.
+[14:55:35	]Hayden has gained a 'Water Bucket' #270.
+[14:55:35	]Hayden has gained a 'Water Bucket' #271.
+[14:55:35	]Hayden has gained a 'Water Bucket' #272.
+[14:55:35	]Hayden has gained a 'Water Bucket' #273.
+[14:55:35	]Hayden has gained a 'Water Bucket' #274.
+[14:55:35	]Hayden has gained a 'Water Bucket' #275.
+[14:55:35	]Hayden has gained a 'Water Bucket' #276.
+[14:55:35	]Hayden has gained a 'Water Bucket' #277.
+[14:55:35	]Hayden has gained a 'Water Bucket' #278.
+[14:55:35	]Hayden has gained a 'Water Bucket' #279.
+[14:55:44	]Hayden used command '/CharGiveItem Hayden advanced_fertilizer 12'.
+[14:55:44	]Hayden has gained a 'Advanced Fertilizer' #280.
+[14:55:44	]Hayden has gained a 'Advanced Fertilizer' #281.
+[14:55:44	]Hayden has gained a 'Advanced Fertilizer' #282.
+[14:55:44	]Hayden has gained a 'Advanced Fertilizer' #283.
+[14:55:44	]Hayden has gained a 'Advanced Fertilizer' #284.
+[14:55:44	]Hayden has gained a 'Advanced Fertilizer' #285.
+[14:55:44	]Hayden has gained a 'Advanced Fertilizer' #286.
+[14:55:44	]Hayden has gained a 'Advanced Fertilizer' #287.
+[14:55:44	]Hayden has gained a 'Advanced Fertilizer' #288.
+[14:55:44	]Hayden has gained a 'Advanced Fertilizer' #289.
+[14:55:44	]Hayden has gained a 'Advanced Fertilizer' #290.
+[14:55:44	]Hayden has gained a 'Advanced Fertilizer' #291.
+[14:55:52	]Hayden ran 'fill' on item 'Water Bucket' (#272)
+[14:55:53	]Hayden entered observer.
+[14:55:56	]Hayden exited observer at their location.
+[14:56:00	]Hayden ran 'fill' on item 'Water Bucket' (#272)
+[14:56:02	]Hayden entered observer.
+[14:56:36	]Hayden exited observer at their location.
+[14:56:42	]Hayden entered observer.
+[14:56:52	]Hayden exited observer at their location.
+[14:56:56	]Hayden admin-searched the 'Large Metal Cabinet' #99 container.
+[14:56:56	]Hayden has used a context menu option with the name: wncontainer_view
+[14:57:00	]Hayden has transferred a 'Fertilizer' #256 to a container with the name 'Large Metal Cabinet' #99.
+[14:57:01	]Hayden has transferred a 'Fertilizer' #257 to a container with the name 'Large Metal Cabinet' #99.
+[14:57:01	]Hayden has transferred a 'Fertilizer' #258 to a container with the name 'Large Metal Cabinet' #99.
+[14:57:02	]Hayden has transferred a 'Blue Herb Seeds' #222 to a container with the name 'Large Metal Cabinet' #99.
+[14:57:02	]Hayden has transferred a 'Blue Herb Seeds' #228 to a container with the name 'Large Metal Cabinet' #99.
+[14:57:03	]Hayden has transferred a 'Blue Herb Seeds' #227 to a container with the name 'Large Metal Cabinet' #99.
+[14:57:03	]Hayden has transferred a 'Blue Herb Seeds' #229 to a container with the name 'Large Metal Cabinet' #99.
+[14:57:04	]Hayden has transferred a 'Blue Herb Seeds' #231 to a container with the name 'Large Metal Cabinet' #99.
+[14:57:04	]Hayden has transferred a 'Blue Herb Seeds' #230 to a container with the name 'Large Metal Cabinet' #99.
+[14:57:08	]Hayden has transferred a 'Fertilizer' #262 to a container with the name 'Large Metal Cabinet' #99.
+[14:57:09	]Hayden has transferred a 'Fertilizer' #263 to a container with the name 'Large Metal Cabinet' #99.
+[14:57:09	]Hayden has transferred a 'Fertilizer' #264 to a container with the name 'Large Metal Cabinet' #99.
+[14:57:10	]Hayden admin-closed the 'Large Metal Cabinet' #99 container.
+[14:57:25	]Hayden used command '/CharGiveItem Hayden seed_pear 6'.
+[14:57:25	]Hayden has gained a 'Pear Seeds' #292.
+[14:57:25	]Hayden has gained a 'Pear Seeds' #293.
+[14:57:25	]Hayden has gained a 'Pear Seeds' #294.
+[14:57:25	]Hayden has gained a 'Pear Seeds' #295.
+[14:57:25	]Hayden has gained a 'Pear Seeds' #296.
+[14:57:25	]Hayden has gained a 'Pear Seeds' #297.
+[14:57:26	]Hayden admin-searched the 'Large Metal Cabinet' #99 container.
+[14:57:26	]Hayden has used a context menu option with the name: wncontainer_view
+[14:57:27	]Hayden has transferred a 'Pear Seeds' #292 to a container with the name 'Large Metal Cabinet' #99.
+[14:57:28	]Hayden has transferred a 'Pear Seeds' #293 to a container with the name 'Large Metal Cabinet' #99.
+[14:57:28	]Hayden has transferred a 'Pear Seeds' #294 to a container with the name 'Large Metal Cabinet' #99.
+[14:57:28	]Hayden has transferred a 'Pear Seeds' #297 to a container with the name 'Large Metal Cabinet' #99.
+[14:57:29	]Hayden has transferred a 'Pear Seeds' #296 to a container with the name 'Large Metal Cabinet' #99.
+[14:57:29	]Hayden has transferred a 'Pear Seeds' #295 to a container with the name 'Large Metal Cabinet' #99.
+[14:57:31	]Hayden admin-closed the 'Large Metal Cabinet' #99 container.
+[14:58:16	]Hayden has used a context menu option with the name: wncontainer_checkowner
+[14:58:17	]Hayden admin-searched the 'Large Metal Cabinet' #99 container.
+[14:58:17	]Hayden has used a context menu option with the name: wncontainer_view
+[14:58:20	]Hayden has transferred a 'Fertilizer' #259 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:20	]Hayden has transferred a 'Fertilizer' #260 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:20	]Hayden has transferred a 'Fertilizer' #261 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:21	]Hayden admin-closed the 'Large Metal Cabinet' #99 container.
+[14:58:26	]Hayden used command '/CharGiveItem Hayden seed_orange 6'.
+[14:58:26	]Hayden has gained a 'Orange seeds' #298.
+[14:58:26	]Hayden has gained a 'Orange seeds' #299.
+[14:58:26	]Hayden has gained a 'Orange seeds' #300.
+[14:58:26	]Hayden has gained a 'Orange seeds' #301.
+[14:58:26	]Hayden has gained a 'Orange seeds' #302.
+[14:58:26	]Hayden has gained a 'Orange seeds' #303.
+[14:58:27	]Hayden admin-searched the 'Large Metal Cabinet' #99 container.
+[14:58:27	]Hayden has used a context menu option with the name: wncontainer_view
+[14:58:28	]Hayden has transferred a 'Orange seeds' #298 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:29	]Hayden has transferred a 'Orange seeds' #299 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:29	]Hayden has transferred a 'Orange seeds' #301 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:29	]Hayden has transferred a 'Orange seeds' #300 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:30	]Hayden has transferred a 'Orange seeds' #303 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:30	]Hayden has transferred a 'Orange seeds' #302 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:31	]Hayden has transferred a 'Fertilizer' #265 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:31	]Hayden has transferred a 'Fertilizer' #266 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:31	]Hayden has transferred a 'Fertilizer' #267 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:33	]Hayden admin-closed the 'Large Metal Cabinet' #99 container.
+[14:58:39	]Hayden used command '/CharGiveItem Hayden seed_watermelon 6'.
+[14:58:39	]Hayden has gained a 'Watermelon Seeds' #304.
+[14:58:39	]Hayden has gained a 'Watermelon Seeds' #305.
+[14:58:39	]Hayden has gained a 'Watermelon Seeds' #306.
+[14:58:39	]Hayden has gained a 'Watermelon Seeds' #307.
+[14:58:39	]Hayden has gained a 'Watermelon Seeds' #308.
+[14:58:39	]Hayden has gained a 'Watermelon Seeds' #309.
+[14:58:41	]Hayden admin-searched the 'Large Metal Cabinet' #99 container.
+[14:58:41	]Hayden has used a context menu option with the name: wncontainer_view
+[14:58:42	]Hayden has transferred a 'Watermelon Seeds' #304 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:42	]Hayden has transferred a 'Watermelon Seeds' #306 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:42	]Hayden has transferred a 'Watermelon Seeds' #305 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:43	]Hayden has transferred a 'Watermelon Seeds' #308 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:43	]Hayden has transferred a 'Watermelon Seeds' #307 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:44	]Hayden has transferred a 'Watermelon Seeds' #309 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:45	]Hayden has transferred a 'Water Bucket' #268 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:46	]Hayden has gained a 'Water Bucket' #268 from a container with the name 'Large Metal Cabinet' #99.
+[14:58:49	]Hayden admin-closed the 'Large Metal Cabinet' #99 container.
+[14:58:52	]Hayden used command '/CharGiveItem Hayden fertilizer 12'.
+[14:58:52	]Hayden has gained a 'Fertilizer' #310.
+[14:58:52	]Hayden has gained a 'Fertilizer' #311.
+[14:58:52	]Hayden has gained a 'Fertilizer' #312.
+[14:58:52	]Hayden has gained a 'Fertilizer' #313.
+[14:58:52	]Hayden has gained a 'Fertilizer' #314.
+[14:58:52	]Hayden has gained a 'Fertilizer' #315.
+[14:58:52	]Hayden has gained a 'Fertilizer' #316.
+[14:58:52	]Hayden has gained a 'Fertilizer' #317.
+[14:58:52	]Hayden has gained a 'Fertilizer' #318.
+[14:58:52	]Hayden has gained a 'Fertilizer' #319.
+[14:58:52	]Hayden has gained a 'Fertilizer' #320.
+[14:58:52	]Hayden has gained a 'Fertilizer' #321.
+[14:58:53	]Hayden admin-searched the 'Large Metal Cabinet' #99 container.
+[14:58:53	]Hayden has used a context menu option with the name: wncontainer_view
+[14:58:55	]Hayden has transferred a 'Fertilizer' #310 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:56	]Hayden has transferred a 'Fertilizer' #311 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:56	]Hayden has transferred a 'Fertilizer' #312 to a container with the name 'Large Metal Cabinet' #99.
+[14:58:57	]Hayden admin-closed the 'Large Metal Cabinet' #99 container.
+[14:58:59	]Hayden admin-searched the 'Large Metal Cabinet' #99 container.
+[14:58:59	]Hayden has used a context menu option with the name: wncontainer_view
+[14:59:01	]Hayden admin-closed the 'Large Metal Cabinet' #99 container.
+[14:59:06	]Hayden used command '/CharGiveItem Hayden seed_tomato 6'.
+[14:59:06	]Hayden has gained a 'Tomato Seeds' #322.
+[14:59:06	]Hayden has gained a 'Tomato Seeds' #323.
+[14:59:06	]Hayden has gained a 'Tomato Seeds' #324.
+[14:59:06	]Hayden has gained a 'Tomato Seeds' #325.
+[14:59:06	]Hayden has gained a 'Tomato Seeds' #326.
+[14:59:06	]Hayden has gained a 'Tomato Seeds' #327.
+[14:59:07	]Hayden admin-searched the 'Large Metal Cabinet' #99 container.
+[14:59:07	]Hayden has used a context menu option with the name: wncontainer_view
+[14:59:10	]Hayden has transferred a 'Tomato Seeds' #322 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:10	]Hayden has transferred a 'Tomato Seeds' #323 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:10	]Hayden has transferred a 'Tomato Seeds' #324 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:11	]Hayden has transferred a 'Tomato Seeds' #325 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:11	]Hayden has transferred a 'Tomato Seeds' #326 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:12	]Hayden has transferred a 'Tomato Seeds' #327 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:21	]Hayden has transferred a 'Fertilizer' #313 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:21	]Hayden has transferred a 'Fertilizer' #314 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:21	]Hayden has transferred a 'Fertilizer' #315 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:22	]Hayden admin-closed the 'Large Metal Cabinet' #99 container.
+[14:59:24	]Hayden admin-searched the 'Large Metal Cabinet' #99 container.
+[14:59:24	]Hayden has used a context menu option with the name: wncontainer_view
+[14:59:26	]Hayden admin-closed the 'Large Metal Cabinet' #99 container.
+[14:59:32	]Hayden used command '/CharGiveItem Hayden seed_apple 6'.
+[14:59:32	]Hayden has gained a 'Apple Seeds' #328.
+[14:59:32	]Hayden has gained a 'Apple Seeds' #329.
+[14:59:32	]Hayden has gained a 'Apple Seeds' #330.
+[14:59:32	]Hayden has gained a 'Apple Seeds' #331.
+[14:59:32	]Hayden has gained a 'Apple Seeds' #332.
+[14:59:32	]Hayden has gained a 'Apple Seeds' #333.
+[14:59:33	]Hayden admin-searched the 'Large Metal Cabinet' #99 container.
+[14:59:33	]Hayden has used a context menu option with the name: wncontainer_view
+[14:59:34	]Hayden has transferred a 'Apple Seeds' #328 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:35	]Hayden has transferred a 'Apple Seeds' #329 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:35	]Hayden has transferred a 'Apple Seeds' #330 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:35	]Hayden has transferred a 'Apple Seeds' #331 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:36	]Hayden has transferred a 'Apple Seeds' #332 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:36	]Hayden has transferred a 'Apple Seeds' #333 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:37	]Hayden has transferred a 'Fertilizer' #316 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:37	]Hayden has transferred a 'Fertilizer' #317 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:38	]Hayden has transferred a 'Fertilizer' #318 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:39	]Hayden admin-closed the 'Large Metal Cabinet' #99 container.
+[14:59:44	]Hayden admin-searched the 'Large Metal Cabinet' #99 container.
+[14:59:44	]Hayden has used a context menu option with the name: wncontainer_view
+[14:59:45	]Hayden admin-closed the 'Large Metal Cabinet' #99 container.
+[14:59:50	]Hayden used command '/CharGiveItem Hayden seed_pineapple 6'.
+[14:59:50	]Hayden has gained a 'Pineapple Seeds' #334.
+[14:59:50	]Hayden has gained a 'Pineapple Seeds' #335.
+[14:59:50	]Hayden has gained a 'Pineapple Seeds' #336.
+[14:59:50	]Hayden has gained a 'Pineapple Seeds' #337.
+[14:59:50	]Hayden has gained a 'Pineapple Seeds' #338.
+[14:59:50	]Hayden has gained a 'Pineapple Seeds' #339.
+[14:59:51	]Hayden admin-searched the 'Large Metal Cabinet' #99 container.
+[14:59:51	]Hayden has used a context menu option with the name: wncontainer_view
+[14:59:52	]Hayden has transferred a 'Pineapple Seeds' #334 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:52	]Hayden has transferred a 'Pineapple Seeds' #335 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:53	]Hayden has transferred a 'Pineapple Seeds' #337 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:53	]Hayden has transferred a 'Pineapple Seeds' #336 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:53	]Hayden has transferred a 'Pineapple Seeds' #338 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:53	]Hayden has transferred a 'Pineapple Seeds' #339 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:54	]Hayden has transferred a 'Fertilizer' #319 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:54	]Hayden has transferred a 'Fertilizer' #320 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:54	]Hayden has transferred a 'Fertilizer' #321 to a container with the name 'Large Metal Cabinet' #99.
+[14:59:55	]Hayden admin-closed the 'Large Metal Cabinet' #99 container.
+[14:59:58	]Hayden used command '/CharGiveItem Hayden fertilizer 12'.
+[14:59:58	]Hayden has gained a 'Fertilizer' #340.
+[14:59:58	]Hayden has gained a 'Fertilizer' #341.
+[14:59:58	]Hayden has gained a 'Fertilizer' #342.
+[14:59:58	]Hayden has gained a 'Fertilizer' #343.
+[14:59:58	]Hayden has gained a 'Fertilizer' #344.
+[14:59:58	]Hayden has gained a 'Fertilizer' #345.
+[14:59:58	]Hayden has gained a 'Fertilizer' #346.
+[14:59:58	]Hayden has gained a 'Fertilizer' #347.
+[14:59:58	]Hayden has gained a 'Fertilizer' #348.
+[14:59:58	]Hayden has gained a 'Fertilizer' #349.
+[14:59:58	]Hayden has gained a 'Fertilizer' #350.
+[14:59:58	]Hayden has gained a 'Fertilizer' #351.
+[15:00:10	]Hayden admin-searched the 'Large Metal Cabinet' #99 container.
+[15:00:10	]Hayden has used a context menu option with the name: wncontainer_view
+[15:00:21	]Hayden admin-closed the 'Large Metal Cabinet' #99 container.
+[15:00:26	]Hayden used command '/CharGiveItem Hayden seed_potato 6'.
+[15:00:26	]Hayden has gained a 'Potato Seeds' #352.
+[15:00:26	]Hayden has gained a 'Potato Seeds' #353.
+[15:00:26	]Hayden has gained a 'Potato Seeds' #354.
+[15:00:26	]Hayden has gained a 'Potato Seeds' #355.
+[15:00:26	]Hayden has gained a 'Potato Seeds' #356.
+[15:00:26	]Hayden has gained a 'Potato Seeds' #357.
+[15:00:28	]Hayden admin-searched the 'Large Metal Cabinet' #99 container.
+[15:00:28	]Hayden has used a context menu option with the name: wncontainer_view
+[15:00:30	]Hayden has transferred a 'Potato Seeds' #352 to a container with the name 'Large Metal Cabinet' #99.
+[15:00:30	]Hayden has transferred a 'Potato Seeds' #354 to a container with the name 'Large Metal Cabinet' #99.
+[15:00:31	]Hayden has transferred a 'Potato Seeds' #353 to a container with the name 'Large Metal Cabinet' #99.
+[15:00:31	]Hayden has transferred a 'Potato Seeds' #355 to a container with the name 'Large Metal Cabinet' #99.
+[15:00:31	]Hayden has transferred a 'Potato Seeds' #356 to a container with the name 'Large Metal Cabinet' #99.
+[15:00:31	]Hayden has transferred a 'Potato Seeds' #357 to a container with the name 'Large Metal Cabinet' #99.
+[15:00:32	]Hayden has transferred a 'Fertilizer' #340 to a container with the name 'Large Metal Cabinet' #99.
+[15:00:32	]Hayden has transferred a 'Fertilizer' #341 to a container with the name 'Large Metal Cabinet' #99.
+[15:00:33	]Hayden has transferred a 'Fertilizer' #342 to a container with the name 'Large Metal Cabinet' #99.
+[15:00:34	]Hayden admin-closed the 'Large Metal Cabinet' #99 container.
+[15:00:37	]Hayden admin-searched the 'Large Metal Cabinet' #99 container.
+[15:00:37	]Hayden has used a context menu option with the name: wncontainer_view
+[15:00:39	]Hayden admin-closed the 'Large Metal Cabinet' #99 container.
+[15:00:44	]Hayden has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[15:00:51	]Hayden created a 'Large Metal Cabinet' container.
+[15:00:51	]Hayden has used a context menu option with the name: wncontainer_create
+[15:01:05	]Hayden used command '/CharGiveItem hayden seed_banana 6'.
+[15:01:05	]Hayden has gained a 'Banana Seeds' #358.
+[15:01:05	]Hayden has gained a 'Banana Seeds' #359.
+[15:01:05	]Hayden has gained a 'Banana Seeds' #360.
+[15:01:05	]Hayden has gained a 'Banana Seeds' #361.
+[15:01:05	]Hayden has gained a 'Banana Seeds' #362.
+[15:01:05	]Hayden has gained a 'Banana Seeds' #363.
+[15:01:06	]Hayden admin-searched the 'Large Metal Cabinet' #100 container.
+[15:01:06	]Hayden has used a context menu option with the name: wncontainer_view
+[15:01:07	]Hayden has transferred a 'Banana Seeds' #358 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:07	]Hayden has transferred a 'Banana Seeds' #359 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:08	]Hayden has transferred a 'Banana Seeds' #360 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:08	]Hayden has transferred a 'Banana Seeds' #361 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:08	]Hayden has transferred a 'Banana Seeds' #362 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:09	]Hayden has transferred a 'Banana Seeds' #363 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:10	]Hayden has transferred a 'Fertilizer' #343 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:10	]Hayden has transferred a 'Fertilizer' #344 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:10	]Hayden has transferred a 'Fertilizer' #345 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:11	]Hayden admin-closed the 'Large Metal Cabinet' #100 container.
+[15:01:20	]Hayden used command '/CharGiveItem hayden seed_redherb 6'.
+[15:01:20	]Hayden has gained a 'Red Herb Seeds' #364.
+[15:01:20	]Hayden has gained a 'Red Herb Seeds' #365.
+[15:01:20	]Hayden has gained a 'Red Herb Seeds' #366.
+[15:01:20	]Hayden has gained a 'Red Herb Seeds' #367.
+[15:01:20	]Hayden has gained a 'Red Herb Seeds' #368.
+[15:01:20	]Hayden has gained a 'Red Herb Seeds' #369.
+[15:01:21	]Hayden admin-searched the 'Large Metal Cabinet' #100 container.
+[15:01:21	]Hayden has used a context menu option with the name: wncontainer_view
+[15:01:24	]Hayden has transferred a 'Red Herb Seeds' #364 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:24	]Hayden has transferred a 'Red Herb Seeds' #365 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:24	]Hayden has transferred a 'Red Herb Seeds' #366 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:25	]Hayden has transferred a 'Red Herb Seeds' #367 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:25	]Hayden has transferred a 'Red Herb Seeds' #368 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:25	]Hayden has transferred a 'Red Herb Seeds' #369 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:26	]Hayden has transferred a 'Fertilizer' #351 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:26	]Hayden has transferred a 'Fertilizer' #350 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:26	]Hayden has transferred a 'Fertilizer' #349 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:27	]Hayden admin-closed the 'Large Metal Cabinet' #100 container.
+[15:01:34	]Hayden used command '/CharGiveItem Hayden seed_greenherb 6'.
+[15:01:34	]Hayden has gained a 'Green Herb Seeds' #370.
+[15:01:34	]Hayden has gained a 'Green Herb Seeds' #371.
+[15:01:34	]Hayden has gained a 'Green Herb Seeds' #372.
+[15:01:34	]Hayden has gained a 'Green Herb Seeds' #373.
+[15:01:34	]Hayden has gained a 'Green Herb Seeds' #374.
+[15:01:34	]Hayden has gained a 'Green Herb Seeds' #375.
+[15:01:36	]Hayden admin-searched the 'Large Metal Cabinet' #100 container.
+[15:01:36	]Hayden has used a context menu option with the name: wncontainer_view
+[15:01:37	]Hayden has transferred a 'Green Herb Seeds' #370 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:37	]Hayden has transferred a 'Green Herb Seeds' #371 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:38	]Hayden has transferred a 'Green Herb Seeds' #373 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:38	]Hayden has transferred a 'Green Herb Seeds' #372 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:38	]Hayden has transferred a 'Green Herb Seeds' #374 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:39	]Hayden has transferred a 'Green Herb Seeds' #375 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:39	]Hayden has transferred a 'Fertilizer' #346 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:40	]Hayden has transferred a 'Fertilizer' #347 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:40	]Hayden has transferred a 'Fertilizer' #348 to a container with the name 'Large Metal Cabinet' #100.
+[15:01:41	]Hayden admin-closed the 'Large Metal Cabinet' #100 container.
+[15:01:43	]Hayden admin-searched the 'Large Metal Cabinet' #100 container.
+[15:01:43	]Hayden has used a context menu option with the name: wncontainer_view
+[15:01:44	]Mango (STEAM_0:0:544539350) has disconnected.
+[15:01:45	]Hayden admin-closed the 'Large Metal Cabinet' #100 container.
+[15:01:51	]Hayden used command '/CharGiveItem hayden seed_berries 6'.
+[15:01:51	]Hayden has gained a 'Berries Seeds' #376.
+[15:01:51	]Hayden has gained a 'Berries Seeds' #377.
+[15:01:51	]Hayden has gained a 'Berries Seeds' #378.
+[15:01:51	]Hayden has gained a 'Berries Seeds' #379.
+[15:01:51	]Hayden has gained a 'Berries Seeds' #380.
+[15:01:51	]Hayden has gained a 'Berries Seeds' #381.
+[15:01:57	]Hayden has given himself a fertilizer.
+[15:01:57	]Hayden has gained a 'Fertilizer' #382.
+[15:01:58	]Hayden has given himself a fertilizer.
+[15:01:58	]Hayden has gained a 'Fertilizer' #383.
+[15:01:58	]Hayden has given himself a fertilizer.
+[15:01:59	]Hayden has gained a 'Fertilizer' #384.
+[15:02:00	]Hayden admin-searched the 'Large Metal Cabinet' #100 container.
+[15:02:00	]Hayden has used a context menu option with the name: wncontainer_view
+[15:02:01	]Hayden has transferred a 'Berries Seeds' #376 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:01	]Hayden has transferred a 'Berries Seeds' #377 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:02	]Hayden has transferred a 'Berries Seeds' #378 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:02	]Hayden has transferred a 'Berries Seeds' #379 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:02	]Hayden has transferred a 'Berries Seeds' #380 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:03	]Hayden has transferred a 'Berries Seeds' #381 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:03	]Hayden has transferred a 'Fertilizer' #382 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:03	]Hayden has transferred a 'Fertilizer' #383 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:04	]Hayden has transferred a 'Fertilizer' #384 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:06	]Hayden ran 'drop' on item 'Water Bucket' (#270)
+[15:02:06	]Hayden has lost a 'Water Bucket' #270.
+[15:02:08	]Hayden admin-closed the 'Large Metal Cabinet' #100 container.
+[15:02:23	]Hayden has given himself a water_bucket.
+[15:02:23	]Hayden has gained a 'Water Bucket' #385.
+[15:02:28	]Hayden admin-searched the 'Large Metal Cabinet' #100 container.
+[15:02:28	]Hayden has used a context menu option with the name: wncontainer_view
+[15:02:30	]Hayden has transferred a 'Water Bucket' #268 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:30	]Hayden has transferred a 'Water Bucket' #385 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:31	]Hayden has transferred a 'Water Bucket' #269 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:31	]Hayden has transferred a 'Water Bucket' #271 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:32	]Hayden has transferred a 'Water Bucket' #272 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:32	]Hayden has transferred a 'Water Bucket' #273 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:35	]Hayden has transferred a 'Water Bucket' #274 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:36	]Hayden has transferred a 'Water Bucket' #276 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:37	]Hayden has transferred a 'Water Bucket' #275 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:38	]Hayden has transferred a 'Water Bucket' #279 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:40	]Hayden has transferred a 'Water Bucket' #277 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:41	]Hayden has transferred a 'Water Bucket' #278 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:42	]Hayden has transferred a 'Advanced Fertilizer' #280 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:43	]Hayden has transferred a 'Advanced Fertilizer' #281 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:44	]Hayden has transferred a 'Advanced Fertilizer' #282 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:46	]Hayden has transferred a 'Advanced Fertilizer' #284 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:47	]Hayden has transferred a 'Advanced Fertilizer' #285 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:48	]Hayden has transferred a 'Advanced Fertilizer' #283 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:51	]Hayden has transferred a 'Advanced Fertilizer' #286 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:52	]Hayden has transferred a 'Advanced Fertilizer' #287 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:53	]Hayden has transferred a 'Advanced Fertilizer' #288 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:54	]Hayden has transferred a 'Advanced Fertilizer' #289 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:55	]Hayden has transferred a 'Advanced Fertilizer' #290 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:56	]Hayden has transferred a 'Advanced Fertilizer' #291 to a container with the name 'Large Metal Cabinet' #100.
+[15:02:59	]Hayden admin-closed the 'Large Metal Cabinet' #100 container.
+[15:03:04	]Hayden entered observer.
+[15:03:23	]Hayden has spawned 'models/props/army/army_roadsign01a.mdl'.
+[15:03:48	]Hayden has spawned 'models/props/army/army_roadsign01a.mdl'.
+[15:03:52	]Hayden exited observer at their location.
+[15:04:00	]Hayden has fired a toolgun with the name: colour
+[15:04:01	]Hayden has fired a toolgun with the name: colour
+[15:04:06	]Hayden has fired a toolgun with the name: material
+[15:05:22	]Hayden admin-searched the 'Large Metal Cabinet' #100 container.
+[15:05:22	]Hayden has used a context menu option with the name: wncontainer_view
+[15:05:24	]Hayden admin-closed the 'Large Metal Cabinet' #100 container.
+[15:05:25	]Hayden admin-searched the 'Large Metal Cabinet' #99 container.
+[15:05:25	]Hayden has used a context menu option with the name: wncontainer_view
+[15:05:26	]Hayden admin-closed the 'Large Metal Cabinet' #99 container.
+[15:05:26	]Hayden admin-searched the 'Large Metal Cabinet' #81 container.
+[15:05:26	]Hayden has used a context menu option with the name: wncontainer_view
+[15:05:28	]Hayden admin-closed the 'Large Metal Cabinet' #81 container.
+[15:05:29	]Hayden admin-searched the 'Large Metal Cabinet' #82 container.
+[15:05:29	]Hayden has used a context menu option with the name: wncontainer_view
+[15:05:30	]Hayden admin-closed the 'Large Metal Cabinet' #82 container.
+[15:05:42	]Hayden has spawned a 'Entity [338][ix_vendor]'.
+[15:05:55	]Hayden has used a context menu option with the name: vendor_edit
+[15:06:20	]Hayden has used a context menu option with the name: vendor_edit
+[15:06:40	]Hayden has spawned 'models/lurondor/stall.mdl'.
+[15:07:31	]Hayden has spawned 'models/props_outland/trough_farm01.mdl'.
+[15:07:39	]Hayden has enabled persistence for 'models/lurondor/stall.mdl'.
+[15:07:39	]Hayden has used a context menu option with the name: persist
+[15:07:43	]Hayden has used a context menu option with the name: vendor_edit
+[15:09:11	]Hayden used the 'John Doe' vendor.
+[15:09:15	]Hayden has used a context menu option with the name: vendor_edit
+[15:10:07	]Hayden used the 'John Doe' vendor.
+[15:10:10	]Hayden has gained 0 chips.
+[15:10:10	]Hayden has gained a 'Planter' #386.
+[15:10:11	]Hayden has gained 0 chips.
+[15:10:11	]Hayden has gained a 'Planter' #387.
+[15:10:12	]Hayden has gained 0 chips.
+[15:10:13	]Hayden has gained a 'Apple Seeds' #388.
+[15:10:13	]Hayden has gained 0 chips.
+[15:10:13	]Hayden has gained a 'Apple Seeds' #389.
+[15:10:14	]Hayden has gained 0 chips.
+[15:10:14	]Hayden has gained a 'Apple Seeds' #390.
+[15:10:14	]Hayden has gained 0 chips.
+[15:10:14	]Hayden has gained a 'Apple Seeds' #391.
+[15:10:15	]Hayden has gained 0 chips.
+[15:10:15	]Hayden has gained a 'Apple Seeds' #392.
+[15:10:15	]Hayden has gained 0 chips.
+[15:10:15	]Hayden has gained a 'Apple Seeds' #393.
+[15:10:16	]Hayden has gained 0 chips.
+[15:10:16	]Hayden has gained a 'Apple Seeds' #394.
+[15:10:16	]Hayden has gained 0 chips.
+[15:10:16	]Hayden has gained a 'Apple Seeds' #395.
+[15:10:17	]Hayden has gained 0 chips.
+[15:10:17	]Hayden has gained a 'Apple Seeds' #396.
+[15:10:17	]Hayden has gained 0 chips.
+[15:10:17	]Hayden has gained a 'Apple Seeds' #397.
+[15:10:18	]Hayden has gained 0 chips.
+[15:10:18	]Hayden has gained a 'Apple Seeds' #398.
+[15:10:18	]Hayden has gained 0 chips.
+[15:10:18	]Hayden has gained a 'Apple Seeds' #399.
+[15:10:21	]Hayden has gained 0 chips.
+[15:10:21	]Hayden has gained 0 chips.
+[15:10:23	]Hayden has gained 0 chips.
+[15:10:24	]Hayden has gained 0 chips.
+[15:10:25	]Hayden has gained 0 chips.
+[15:10:25	]Hayden has gained 0 chips.
+[15:10:26	]Hayden has gained 0 chips.
+[15:10:26	]Hayden has gained 0 chips.
+[15:10:27	]Hayden has gained 0 chips.
+[15:10:27	]Hayden has gained 0 chips.
+[15:10:27	]Hayden has gained 0 chips.
+[15:10:28	]Hayden has gained 0 chips.
+[15:10:29	]Hayden has gained 0 chips.
+[15:10:29	]Hayden has gained 0 chips.
+[15:10:33	]Hayden has used a context menu option with the name: vendor_edit
+[15:10:59	]Hayden has used a context menu option with the name: vendor_edit
+[15:11:39	]Hayden entered observer.
+[15:12:03	]Hayden exited observer at their location.
+[15:12:04	]Hayden entered observer.
+[15:12:05	]Hayden exited observer at their location.
+[15:12:09	]Hayden has used a context menu option with the name: remove
+[15:12:34	]Hayden has spawned a 'Entity [343][ix_teleporter]'.
+[15:12:39	]Hayden entered observer.
+[15:12:43	]Hayden has spawned a 'Entity [344][ix_teleporter]'.
+[15:12:53	]Hayden exited observer at their location.
+[15:13:11	]Hayden entered observer.
+[15:13:17	]Hayden exited observer at their location.
+[15:13:19	]Hayden entered observer.
+[15:13:22	]Hayden exited observer at their location.
+[15:13:23	]Hayden has warped from Default to Default.
+[15:13:35	]Hayden has warped from Default to Default.
+[15:13:38	]Hayden has warped from Default to Default.
+[15:13:43	]Hayden entered observer.
+[15:13:51	]Hayden exited observer at their location.
+[15:13:54	]Hayden entered observer.
+[15:13:58	]Hayden exited observer at their location.
+[15:14:07	]Hayden entered observer.
+[15:14:10	]Hayden exited observer at their location.
+[15:14:10	]Hayden entered observer.
+[15:16:06	]Hayden has given himself a sandbag_placer.
+[15:16:06	]Hayden has gained a 'Sandbag' #400.
+[15:16:08	]Hayden ran 'place' on item 'Sandbag' (#400)
+[15:16:08	]Hayden exited observer at their location.
+[15:16:20	]Hayden entered observer.
+[15:16:52	]Hayden exited observer at their location.
+[15:17:13	]Hayden entered observer.
+[15:17:14	]Hayden has fired a toolgun with the name: precision
+[15:17:15	]Hayden has fired a toolgun with the name: precision
+[15:17:15	]Hayden has fired a toolgun with the name: precision
+[15:17:26	]Hayden exited observer at their location.
+[15:17:32	]Hayden has fired a toolgun with the name: precision
+[15:17:32	]Hayden has fired a toolgun with the name: precision
+[15:17:33	]Hayden has fired a toolgun with the name: precision
+[15:17:35	]Hayden entered observer.
+[15:17:44	]Hayden exited observer at their location.
+[15:18:51	]Hayden has used a context menu option with the name: remove
+[15:18:53	]Hayden entered observer.
+[15:19:07	]Hayden has given himself a planter_placer.
+[15:19:07	]Hayden has gained a 'Planter' #401.
+[15:19:10	]Hayden has given himself a seed_apple.
+[15:19:10	]Hayden has gained a 'Apple Seeds' #402.
+[15:19:11	]Hayden has given himself a advanced_fertilizer.
+[15:19:11	]Hayden has gained a 'Advanced Fertilizer' #403.
+[15:19:12	]Hayden has given himself a water_bucket.
+[15:19:12	]Hayden has gained a 'Water Bucket' #404.
+[15:19:13	]Hayden exited observer at their location.
+[15:19:19	]Hayden ran 'place' on item 'Planter' (#401)
+[15:19:29	]Hayden entered observer.
+[15:19:30	]Hayden exited observer at their location.
+[15:19:34	]Hayden has given himself a planter_placer.
+[15:19:34	]Hayden has gained a 'Planter' #405.
+[15:19:36	]Hayden ran 'place' on item 'Planter' (#405)
+[15:19:37	]Hayden has gained a 'Planter' #406.
+[15:19:39	]Hayden ran 'place' on item 'Planter' (#406)
+[15:19:40	]Hayden entered observer.
+[15:19:43	]Hayden exited observer at their location.
+[15:20:52	]Hayden has given himself a planter_placer.
+[15:20:52	]Hayden has gained a 'Planter' #407.
+[15:20:54	]Hayden ran 'place' on item 'Planter' (#407)
+[15:21:12	]Hayden entered observer.
+[15:21:16	]Hayden exited observer at their location.
+[15:21:22	]Hayden entered observer.
+[15:21:24	]Hayden exited observer at their location.
+[15:21:33	]Hayden has given himself a sandbag_placer.
+[15:21:33	]Hayden has gained a 'Sandbag' #408.
+[15:21:34	]Hayden ran 'place' on item 'Sandbag' (#408)
+[15:21:38	]Hayden has used a context menu option with the name: remove
+[15:22:04	]Hayden entered observer.
+[15:22:07	]Hayden exited observer at their location.
+[15:22:20	]Hayden ran 'plant' on item 'Apple Seeds' (#402)
+[15:22:24	]Hayden entered observer.
+[15:22:25	]Hayden exited observer at their location.
+[15:22:28	]Hayden ran 'fill' on item 'Water Bucket' (#404)
+[15:22:28	]Hayden ran 'fill' on item 'Water Bucket' (#404)
+[15:22:29	]Hayden ran 'fill' on item 'Water Bucket' (#404)
+[15:22:30	]Hayden ran 'fill' on item 'Water Bucket' (#404)
+[15:22:33	]Hayden ran 'fill' on item 'Water Bucket' (#404)
+[15:22:35	]Hayden ran 'fill' on item 'Water Bucket' (#404)
+[15:22:35	]Hayden ran 'fill' on item 'Water Bucket' (#404)
+[15:22:36	]Hayden ran 'fill' on item 'Water Bucket' (#404)
+[15:22:43	]Hayden ran 'Water' on item 'Water Bucket' (#404)
+[15:22:47	]Hayden ran 'Water' on item 'Water Bucket' (#404)
+[15:22:51	]Hayden ran 'Water' on item 'Water Bucket' (#404)
+[15:22:53	]Hayden ran 'Water' on item 'Advanced Fertilizer' (#403)
+[15:22:58	]Hayden ran 'Water' on item 'Water Bucket' (#404)
+[15:23:04	]Hayden has given himself a advanced_fertilizer.
+[15:23:04	]Hayden has gained a 'Advanced Fertilizer' #409.
+[15:23:05	]Hayden has given himself a advanced_fertilizer.
+[15:23:05	]Hayden has gained a 'Advanced Fertilizer' #410.
+[15:23:05	]Hayden has given himself a advanced_fertilizer.
+[15:23:05	]Hayden has gained a 'Advanced Fertilizer' #411.
+[15:23:07	]Hayden ran 'Water' on item 'Advanced Fertilizer' (#411)
+[15:23:09	]Hayden ran 'Water' on item 'Advanced Fertilizer' (#409)
+[15:23:10	]Hayden ran 'Water' on item 'Advanced Fertilizer' (#410)
+[15:23:12	]Hayden ran 'Water' on item 'Water Bucket' (#404)
+[15:24:45	]Hayden has given himself a sb_cog_vol1.
+[15:24:45	]Hayden has gained a 'Culinary and Cooking - Part 1' #412.
+[15:24:51	]Hayden ran 'Read' on item 'Culinary and Cooking - Part 1' (#412)
+[15:24:56	]Hayden ran 'UnRead' on item 'Culinary and Cooking - Part 1' (#412)
+[15:24:59	]Hayden has used a context menu option with the name: vendor_edit
+[15:29:25	]Hayden (STEAM_0:1:22038366) has disconnected.

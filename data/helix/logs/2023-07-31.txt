@@ -1,0 +1,252 @@
+[04:00:55	]The BMD CONTAINER #1 (IC KNOWLEDGE REQUIRED) container (#101286) was inactive and has been soft-removed.
+[04:00:55	]The BMD CONTAINER #2 (IC KNOWLEDGE REQUIRED) container (#101287) was inactive and has been soft-removed.
+[04:00:55	]The BMD CONTAINER #3 (IC KNOWLEDGE REQUIRED) container (#101288) was inactive and has been soft-removed.
+[04:00:55	]The BMD CONTAINER #4 (IC KNOWLEDGE REQUIRED) container (#101289) was inactive and has been soft-removed.
+[04:00:55	]The BMD CONTAINER #5 (IC KNOWLEDGE REQUIRED) container (#101290) was inactive and has been soft-removed.
+[17:17:25	]thc has connected.
+[17:18:03	]thc (STEAM_0:1:709534478) deleted character 'Willy Billy Skibidi Networks'
+[17:18:35	]thc created the character 'willy neet'
+[17:18:35	]thc loaded the character 'willy neet'
+[17:18:35	]willy neet has gained a 'Light Grey Armband' #2048379.
+[17:18:35	]willy neet has gained a '#12402's Identity Card' #2048380.
+[17:18:56	]willy neet entered observer.
+[17:19:31	]willy neet ran SAM command 'unadmin' with arguments: ''
+[17:19:32	]willy neet entered observer.
+[17:19:32	]willy neet exited observer.
+[17:19:43	]willy neet used command '/Datafile willy'.
+[17:20:05	]willy neet used command '/SetDatafilePoints willy 120'.
+[17:20:15	]willy neet has acquired his ration, gaining 0 credits, 0 wages and a ration ration.
+[17:20:33	]willy neet ran 'take' on item 'Ration' (#2048381)
+[17:20:33	]willy neet has gained a 'Ration' #2048381.
+[17:20:35	]willy neet ran 'Open' on item 'Ration' (#2048381)
+[17:20:36	]willy neet has gained a 'Artificial Paste' #2048382.
+[17:20:36	]willy neet has gained a 'Breen's Water' #2048383.
+[17:20:36	]willy neet has gained a '15 Credits Coupon' #2048384.
+[17:20:38	]willy neet ran 'Use' on item '15 Credits Coupon' (#2048384)
+[17:20:40	]willy neet has used a coupon at a ration dispenser, gaining 15 credits.
+[17:20:43	]thc (STEAM_0:1:709534478) deleted character 'willy neet'
+[17:21:03	]thc created the character 'willy neet junior test'
+[17:21:04	]willy neet junior test has gained a 'Light Grey Armband' #2048385.
+[17:21:04	]willy neet junior test has gained a '#56161's Identity Card' #2048386.
+[17:21:04	]thc loaded the character 'willy neet junior test'
+[17:21:15	]willy neet junior test ran SAM command 'admin' with arguments: ''
+[17:21:17	]willy neet junior test exited observer.
+[17:21:18	]willy neet junior test entered observer.
+[17:21:19	]willy neet junior test exited observer.
+[17:21:23	]willy neet junior test ran SAM command 'respawn' with arguments: 'wil'
+[17:21:56	]willy neet junior test has spawned 'models/props_vehicles/car005a_physics.mdl'.
+[17:22:29	]willy neet junior test has spawned 'models/combine_turrets/floor_turret_gib1.mdl'.
+[17:22:35	]willy neet junior test has spawned 'models/props_combine/combine_intmonitor001.mdl'.
+[17:22:51	]willy neet junior test has enabled persistence for 'models/props_combine/combine_intmonitor001.mdl'.
+[17:22:51	]willy neet junior test has used a context menu option with the name: persist
+[17:22:55	]willy neet junior test has spawned a 'Entity [4768][ix_terminal]'.
+[17:23:24	]willy neet junior test entered observer.
+[17:23:30	]willy neet junior test exited observer.
+[17:23:33	]willy neet junior test has spawned a 'Entity [4740][ix_terminal]'.
+[17:23:34	]willy neet junior test has spawned a 'Entity [4742][ix_pickupterminal]'.
+[17:23:39	]willy neet junior test has spawned a 'Entity [4762][ix_rationdispenser]'.
+[17:23:50	]willy neet junior test used command '/SetDatafilePoints will 170'.
+[17:24:04	]willy neet junior test has acquired his ration, gaining 0 credits, 0 wages and a improved_ration ration.
+[17:24:18	]willy neet junior test ran 'take' on item 'Improved Ration' (#2048387)
+[17:24:18	]willy neet junior test has gained a 'Improved Ration' #2048387.
+[17:24:22	]willy neet junior test ran 'Open' on item 'Improved Ration' (#2048387)
+[17:24:22	]willy neet junior test has gained a 'Apple' #2048388.
+[17:24:22	]willy neet junior test has gained a 'Watermelon Slice' #2048389.
+[17:24:22	]willy neet junior test has gained a 'Breen's Water' #2048390.
+[17:24:22	]willy neet junior test has gained a '15 Credits Coupon' #2048391.
+[17:24:27	]willy neet junior test ran 'Consume' on item 'Apple' (#2048388)
+[17:24:28	]willy neet junior test ran 'Consume' on item 'Watermelon Slice' (#2048389)
+[17:24:35	]willy neet junior test has given himself a underclass_ration.
+[17:24:35	]willy neet junior test has gained a 'Underclass Ration' #2048392.
+[17:24:37	]willy neet junior test ran 'Open' on item 'Underclass Ration' (#2048392)
+[17:24:37	]willy neet junior test has gained a 'Artificial Paste' #2048393.
+[17:24:37	]willy neet junior test has gained a 'Breen's Water' #2048394.
+[17:24:52	]willy neet junior test has given himself a priority_ration.
+[17:24:52	]willy neet junior test has gained a 'Priority Loyalist Ration' #2048395.
+[17:24:54	]willy neet junior test ran 'Open' on item 'Priority Loyalist Ration' (#2048395)
+[17:24:54	]willy neet junior test has gained a 'Union Choco' #2048396.
+[17:24:54	]willy neet junior test has gained a 'Salmon Steak' #2048397.
+[17:24:54	]willy neet junior test has gained a 'Sparkling Breen's Water' #2048398.
+[17:24:54	]willy neet junior test has gained a '30 Credits Coupon' #2048399.
+[17:24:59	]willy neet junior test ran 'Consume' on item 'Salmon Steak' (#2048397)
+[17:24:59	]willy neet junior test has gained a level 5 long boost in Intelligence.
+[17:24:59	]willy neet junior test has gained a level 5 long boost in Perception.
+[17:25:01	]willy neet junior test ran 'Consume' on item 'Sparkling Breen's Water' (#2048398)
+[17:25:01	]willy neet junior test has gained a 'Empty Breen's Water' #2048400.
+[17:25:06	]willy neet junior test has given himself a loyalist_ration.
+[17:25:06	]willy neet junior test has gained a 'Loyalist Ration' #2048401.
+[17:25:07	]willy neet junior test ran 'Open' on item 'Loyalist Ration' (#2048401)
+[17:25:07	]willy neet junior test has gained a 'Watermelon Slice' #2048402.
+[17:25:07	]willy neet junior test has gained a 'Apple' #2048403.
+[17:25:07	]willy neet junior test has gained a 'Sparkling Breen's Water' #2048404.
+[17:25:07	]willy neet junior test has gained a '20 Credits Coupon' #2048405.
+[17:25:11	]willy neet junior test has given himself a trueloyal_ration.
+[17:25:11	]willy neet junior test has gained a 'True Loyalist Ration' #2048406.
+[17:25:13	]willy neet junior test ran 'Open' on item 'True Loyalist Ration' (#2048406)
+[17:25:13	]willy neet junior test has gained a 'Union Choco' #2048407.
+[17:25:13	]willy neet junior test has gained a 'Salmon Steak' #2048408.
+[17:25:13	]willy neet junior test has gained a 'Sparkling Breen's Water' #2048409.
+[17:25:13	]willy neet junior test has gained a '20 Credits Coupon' #2048410.
+[17:25:21	]willy neet junior test ran 'Consume' on item 'Union Choco' (#2048407)
+[17:25:21	]willy neet junior test has gained a 'Plastic garbage' #2048411.
+[17:25:24	]willy neet junior test has given himself a civil_protection_ration.
+[17:25:24	]willy neet junior test has gained a 'Civil Protection Ration' #2048412.
+[17:25:25	]willy neet junior test ran 'Open' on item 'Civil Protection Ration' (#2048412)
+[17:25:25	]willy neet junior test has gained a 'Metropolice Supplements' #2048413.
+[17:25:25	]willy neet junior test has gained a 'Soda Bob Brawn' #2048414.
+[17:25:25	]willy neet junior test has gained a '20 Credits Coupon' #2048415.
+[17:25:30	]willy neet junior test ran 'drop' on item '20 Credits Coupon' (#2048405)
+[17:25:30	]willy neet junior test has lost a '20 Credits Coupon' #2048405.
+[17:25:32	]willy neet junior test has given himself a civil_protection_ration.
+[17:25:32	]willy neet junior test has gained a 'Civil Protection Ration' #2048416.
+[17:25:33	]willy neet junior test ran 'Open' on item 'Civil Protection Ration' (#2048416)
+[17:25:33	]willy neet junior test has gained a 'Metropolice Supplements' #2048417.
+[17:25:33	]willy neet junior test has gained a 'Soda Bob Brawn' #2048418.
+[17:25:33	]willy neet junior test has gained a '20 Credits Coupon' #2048419.
+[17:25:36	]willy neet junior test ran 'take' on item '20 Credits Coupon' (#2048405)
+[17:25:36	]willy neet junior test has gained a '20 Credits Coupon' #2048405.
+[17:25:40	]thc (STEAM_0:1:709534478) has disconnected.
+[18:57:11	]Kappatalist has connected.
+[18:57:59	]Kappatalist loaded the character 'Eric Bayer'
+[18:58:04	]Eric Bayer is fully healed.
+[18:58:07	]Eric Bayer entered observer.
+[18:59:08	]Eric Bayer exited observer at their location.
+[18:59:10	]Eric Bayer entered observer.
+[18:59:11	]Eric Bayer exited observer at their location.
+[18:59:11	]Eric Bayer entered observer.
+[18:59:11	]Eric Bayer exited observer at their location.
+[18:59:13	]Eric Bayer entered observer.
+[18:59:13	]Eric Bayer exited observer at their location.
+[18:59:28	]Eric Bayer has spawned a landline.
+[18:59:29	]Eric Bayer ran 'Deploy' on item 'Landline Phone' (#2048420)
+[18:59:39	]Eric Bayer has spawned a landline.
+[18:59:40	]Eric Bayer ran 'Deploy' on item 'Landline Phone' (#2048421)
+[19:00:24	]Eric Bayer has spawned a cream_bourbon.
+[19:00:27	]Eric Bayer ran 'Consume' on item 'Bourbon Ice Cream' (#2048422)
+[19:00:27	]Eric Bayer has gained a level 1 long boost in Strength.
+[19:00:27	]Eric Bayer has gained a level -1 long boost in Perception.
+[19:05:35	]Eric Bayer has spawned a cit_computer.
+[19:05:36	]Eric Bayer ran 'Place' on item 'Citizen Computer' (#2048423)
+[19:06:01	]Eric Bayer has used a context menu option with the name: skin
+[19:06:01	]Eric Bayer has used a context menu option with the name: remove
+[19:06:10	]Eric Bayer has spawned a wooden_desk.
+[19:06:12	]Eric Bayer ran 'take' on item 'Wooden Desk' (#2048424)
+[19:06:12	]Eric Bayer has gained a 'Wooden Desk' #2048424.
+[19:06:15	]Eric Bayer ran 'Place' on item 'Wooden Desk' (#2048424)
+[19:06:34	]Eric Bayer ran 'Place' on item 'Wooden Desk' (#2048424)
+[19:06:48	]Eric Bayer ran 'Place' on item 'Wooden Desk' (#2048424)
+[19:06:52	]Eric Bayer ran 'drop' on item 'Wooden Desk' (#2048424)
+[19:06:52	]Eric Bayer has lost a 'Wooden Desk' #2048424.
+[19:06:54	]Eric Bayer has used a context menu option with the name: remove
+[19:07:25	]Eric Bayer has spawned a lrr_mc.
+[19:07:26	]Eric Bayer ran 'setRadioOn' on item 'Multi-Channel Long-Range Radio' (#2048425)
+[19:07:28	]Eric Bayer ran 'take' on item 'Multi-Channel Long-Range Radio' (#2048425)
+[19:07:39	][IC] Eric Bayer: Test.
+[19:08:16	]Eric Bayer has spawned a lrr.
+[19:08:18	]Eric Bayer ran 'ToggleOn' on item 'Long-Range Radio' (#2048426)
+[19:08:19	]Eric Bayer ran 'VolumeUp' on item 'Long-Range Radio' (#2048426)
+[19:08:25	]Eric Bayer has used a context menu option with the name: remove
+[19:08:27	]Eric Bayer has used a context menu option with the name: remove
+[19:08:28	]Eric Bayer has used a context menu option with the name: remove
+[19:08:29	]Eric Bayer has used a context menu option with the name: remove
+[19:08:29	]Eric Bayer entered observer.
+[19:08:30	]Eric Bayer exited observer at their location.
+[19:08:30	]Eric Bayer entered observer.
+[19:08:31	]Eric Bayer exited observer at their location.
+[19:08:31	]Eric Bayer entered observer.
+[19:08:32	]Eric Bayer exited observer at their location.
+[19:08:33	]Eric Bayer entered observer.
+[19:08:34	]Eric Bayer exited observer at their location.
+[19:08:35	]Eric Bayer entered observer.
+[19:08:35	]Eric Bayer exited observer at their location.
+[19:08:36	]Eric Bayer entered observer.
+[19:08:36	]Eric Bayer exited observer at their location.
+[19:08:37	]Eric Bayer entered observer.
+[19:08:37	]Eric Bayer exited observer at their location.
+[19:08:49	]Eric Bayer has spawned a msballrifle.
+[19:08:51	]Eric Bayer ran 'take' on item 'Tikhar Ball Rifle' (#2048427)
+[19:08:51	]Eric Bayer has gained a 'Tikhar Ball Rifle' #2048427.
+[19:08:56	]Eric Bayer ran 'Equip' on item 'Tikhar Ball Rifle' (#2048427)
+[19:09:08	]Eric Bayer has spawned a magazine_makeshift_15rnd.
+[19:09:09	]Eric Bayer ran 'take' on item '15rnd Tikhar-magazine' (#2048428)
+[19:09:09	]Eric Bayer has gained a '15rnd Tikhar-magazine' #2048428.
+[19:09:16	]Eric Bayer has spawned a pistolammo.
+[19:09:18	]Eric Bayer ran 'take' on item '9mm Pistol Bullets' (#2048429)
+[19:09:18	]Eric Bayer has gained a '9mm Pistol Bullets' #2048429.
+[19:09:37	]Eric Bayer ran 'EquipUn' on item 'Tikhar Ball Rifle' (#2048427)
+[19:09:38	]Eric Bayer ran 'drop' on item '15rnd Tikhar-magazine' (#2048428)
+[19:09:38	]Eric Bayer has lost a '15rnd Tikhar-magazine' #2048428.
+[19:09:40	]Eric Bayer ran 'take' on item '15rnd Tikhar-magazine' (#2048428)
+[19:09:40	]Eric Bayer has gained a '15rnd Tikhar-magazine' #2048428.
+[19:09:46	]Eric Bayer ran 'Equip' on item 'Tikhar Ball Rifle' (#2048427)
+[19:11:54	]Eric Bayer ran 'drop' on item '15rnd Tikhar-magazine' (#2048428)
+[19:11:54	]Eric Bayer has lost a '15rnd Tikhar-magazine' #2048428.
+[19:12:05	]Eric Bayer has used a context menu option with the name: remove
+[19:12:07	]Eric Bayer ran 'drop' on item 'Tikhar Ball Rifle' (#2048427)
+[19:12:07	]Eric Bayer has lost a 'Tikhar Ball Rifle' #2048427.
+[19:12:08	]Eric Bayer ran 'drop' on item '9mm Pistol Bullets' (#2048429)
+[19:12:08	]Eric Bayer has lost a '9mm Pistol Bullets' #2048429.
+[19:12:12	]Eric Bayer has used a context menu option with the name: remove
+[19:12:14	]Eric Bayer has used a context menu option with the name: remove
+[19:12:24	]Eric Bayer has spawned a usp.
+[19:12:26	]Eric Bayer ran 'take' on item 'USP-45' (#2048430)
+[19:12:26	]Eric Bayer has gained a 'USP-45' #2048430.
+[19:12:27	]Eric Bayer ran 'Equip' on item 'USP-45' (#2048430)
+[19:12:41	]Eric Bayer has spawned a magazine_usp_15rnd.
+[19:12:43	]Eric Bayer ran 'take' on item '17rnd Usp-magazine' (#2048431)
+[19:12:43	]Eric Bayer has gained a '17rnd Usp-magazine' #2048431.
+[19:12:48	]Eric Bayer has spawned a pistolammo.
+[19:12:48	]Eric Bayer ran 'take' on item '9mm Pistol Bullets' (#2048432)
+[19:12:48	]Eric Bayer has gained a '9mm Pistol Bullets' #2048432.
+[19:14:25	]Eric Bayer entered observer.
+[19:14:25	]Eric Bayer exited observer at their location.
+[19:14:26	]Eric Bayer entered observer.
+[19:14:27	]Eric Bayer exited observer at their location.
+[19:14:55	]Eric Bayer entered observer.
+[19:14:55	]Eric Bayer exited observer at their location.
+[19:14:56	]Eric Bayer entered observer.
+[19:14:57	]Eric Bayer exited observer at their location.
+[19:14:58	]Eric Bayer entered observer.
+[19:14:58	]Eric Bayer exited observer at their location.
+[19:15:44	]Eric Bayer entered observer.
+[19:15:44	]Eric Bayer exited observer at their location.
+[19:15:45	]Eric Bayer entered observer.
+[19:15:46	]Eric Bayer exited observer at their location.
+[19:15:47	]Eric Bayer entered observer.
+[19:15:47	]Eric Bayer exited observer at their location.
+[19:15:47	]Eric Bayer entered observer.
+[19:15:48	]Eric Bayer exited observer at their location.
+[19:15:49	]Eric Bayer entered observer.
+[19:15:50	]Eric Bayer exited observer at their location.
+[19:15:51	]Eric Bayer entered observer.
+[19:15:51	]Eric Bayer exited observer at their location.
+[19:15:52	]Eric Bayer entered observer.
+[19:15:53	]Eric Bayer exited observer at their location.
+[19:15:54	]Eric Bayer entered observer.
+[19:15:54	]Eric Bayer exited observer at their location.
+[19:15:55	]Eric Bayer entered observer.
+[19:15:55	]Eric Bayer exited observer at their location.
+[19:16:14	]Eric Bayer ran 'EquipUn' on item 'USP-45' (#2048430)
+[19:16:21	]Kappatalist loaded the character 'Harald Sigurðsson'
+[19:16:31	]Harald Sigurðsson entered observer.
+[19:16:33	]Harald Sigurðsson exited observer at their location.
+[19:16:33	]Harald Sigurðsson entered observer.
+[19:16:33	]Harald Sigurðsson exited observer at their location.
+[19:16:35	]Harald Sigurðsson entered observer.
+[19:16:35	]Harald Sigurðsson exited observer at their location.
+[19:16:36	]Harald Sigurðsson entered observer.
+[19:16:36	]Harald Sigurðsson exited observer at their location.
+[19:16:37	]Harald Sigurðsson entered observer.
+[19:16:37	]Harald Sigurðsson exited observer at their location.
+[19:16:49	]Harald Sigurðsson has spawned a mp5a3.
+[19:16:50	]Harald Sigurðsson ran 'take' on item 'MP5A3' (#2048433)
+[19:16:50	]Harald Sigurðsson has gained a 'MP5A3' #2048433.
+[19:16:51	]Harald Sigurðsson ran 'Equip' on item 'MP5A3' (#2048433)
+[19:16:57	]Harald Sigurðsson has spawned a magazine_mp_30rnd.
+[19:16:59	]Harald Sigurðsson ran 'take' on item '30rnd MP-magazine' (#2048434)
+[19:16:59	]Harald Sigurðsson has gained a '30rnd MP-magazine' #2048434.
+[19:17:02	]Harald Sigurðsson has spawned a smg1ammo.
+[19:17:03	]Harald Sigurðsson ran 'take' on item 'SMG Bullets' (#2048435)
+[19:17:03	]Harald Sigurðsson has gained a 'SMG Bullets' #2048435.
+[19:17:13	]Harald Sigurðsson ran 'use' on item 'SMG Bullets' (#2048435)
+[19:17:24	]Kappatalist (STEAM_0:1:86900379) has disconnected.

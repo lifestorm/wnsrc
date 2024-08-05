@@ -1,0 +1,1248 @@
+[13:29:51	]TheDeNuke has connected.
+[13:30:46	]TheDeNuke loaded the character 'Grendel'
+[13:30:51	]Grendel is fully healed.
+[13:30:55	]Grendel entered observer.
+[13:31:05	]Grendel exited observer at their location.
+[13:31:47	]Grendel used command '/SetVortalEnergy gren 100'.
+[13:32:00	]Grendel has spawned a 'NPC [426][npc_breen]'.
+[13:32:41	]Grendel has spawned a 'NPC [426][npc_combine_s]'.
+[13:32:42	]Grendel has taken 3 damage from npc_combine_s.
+[13:32:42	]Grendel has taken 3 damage from npc_combine_s.
+[13:32:43	]Grendel has taken 3 damage from npc_combine_s.
+[13:32:49	]Grendel has spawned a 'NPC [426][npc_combine_s]'.
+[13:32:50	]Grendel has taken 3 damage from npc_combine_s.
+[13:38:13	]Grendel has given himself a ing_xen_extract.
+[13:38:13	]Grendel has gained a 'Antlion Extract' #1650236.
+[13:38:25	]Grendel has given himself a xen_concoction.
+[13:38:25	]Grendel has gained a 'Extract Concoction' #1650237.
+[13:38:39	]Grendel ran 'Consume' on item 'Extract Concoction' (#1650237)
+[13:38:39	]Grendel has gained a level 15 long boost in Strength.
+[13:38:39	]Grendel has gained a level 15 long boost in Agility.
+[13:38:39	]Grendel has gained a level 15 long boost in Intelligence.
+[13:38:39	]Grendel has gained a level 15 long boost in Perception.
+[13:38:41	]Grendel is fully healed.
+[13:39:18	]Grendel has spawned a 'NPC [426][npc_combine_s]'.
+[13:42:09	]Grendel set advancedBeamDamage to '500'.
+[13:46:47	]Grendel has given himself a ration.
+[13:46:47	]Grendel has gained a 'Ration' #1650238.
+[13:46:56	]Grendel ran 'Open' on item 'Ration' (#1650238)
+[13:46:56	]Grendel has gained a 'Artificial Paste' #1650239.
+[13:46:56	]Grendel has gained a 'Breen's Water' #1650240.
+[13:46:56	]Grendel has gained a 'Basic Credits Coupon' #1650241.
+[13:51:30	]TheDeNuke (STEAM_0:0:24415625) has disconnected.
+[16:45:06	]Furret No Furry Asimo has connected.
+[16:46:48	]Furret No Furry Asimo loaded the character 'LORD-STEVEN-X'
+[16:46:53	]LORD-STEVEN-X is fully healed.
+[16:46:59	]LORD-STEVEN-X used command '/PlyWhitelist ^ vort'.
+[16:47:58	]Furret No Furry Asimo created the character 'Galungae'
+[16:47:58	]Furret No Furry Asimo loaded the character 'Galungae'
+[16:48:16	]Galungae has gained level 50 in the Vortessence skill.
+[16:48:16	]Galungae used command '/CharSkillSet ^ vortessence 50'.
+[16:48:23	]Galungae entered observer.
+[16:48:29	]Galungae exited observer at their location.
+[16:48:43	]Galungae has spawned a 'NPC [426][npc_citizen]'.
+[16:49:08	]Galungae has spawned a 'NPC [426][npc_citizen]'.
+[16:52:13	]Galungae has spawned a 'NPC [426][npc_citizen]'.
+[16:55:30	]Galungae used command '/SetVortalEnergy ^ 100'.
+[16:55:35	]Furret No Furry Asimo loaded the character 'Billly Bo'
+[16:55:44	]Furret No Furry Asimo loaded the character 'Galungae'
+[16:55:56	]Galungae has spawned a 'NPC [426][npc_antlionguard]'.
+[16:56:15	]Galungae used command '/SetVortalEnergy ^ 100'.
+[16:56:30	]Galungae has spawned a 'NPC [426][npc_helicopter]'.
+[16:56:35	]Galungae used command '/SetVortalEnergy ^ 100'.
+[16:56:42	]Galungae used command '/SetVortalEnergy ^ 100'.
+[16:56:49	]Galungae used command '/SetVortalEnergy ^ 100'.
+[16:56:52	]Galungae has spawned a 'NPC [426][npc_strider]'.
+[16:56:55	]Galungae has taken 5 damage from npc_strider.
+[16:56:55	]Galungae has taken 5 damage from npc_strider.
+[16:56:55	]Galungae has taken 5 damage from npc_strider.
+[16:56:55	]Galungae has taken 5 damage from npc_strider.
+[16:56:56	]Galungae used command '/SetVortalEnergy ^ 100'.
+[16:56:59	]Galungae has taken 5 damage from npc_strider.
+[16:57:00	]Galungae has taken 5 damage from npc_strider.
+[16:57:08	]Galungae used command '/SetVortalEnergy ^ 100'.
+[16:57:12	]Galungae used command '/SetVortalEnergy ^ 100'.
+[16:57:16	]Galungae used command '/SetVortalEnergy ^ 100'.
+[16:57:18	]Galungae has taken 5 damage from npc_strider.
+[16:57:18	]Galungae has taken 5 damage from npc_strider.
+[16:57:19	]Galungae has taken 5 damage from npc_strider.
+[16:57:21	]Galungae has taken 5 damage from npc_strider.
+[16:57:21	]Galungae has taken 5 damage from npc_strider.
+[16:57:22	]Galungae used command '/SetVortalEnergy ^ 100'.
+[16:57:26	]Galungae has taken 5 damage from npc_strider.
+[16:57:27	]Galungae used command '/SetVortalEnergy ^ 100'.
+[16:57:47	]Galungae has spawned a 'NPC [426][npc_antlionguard]'.
+[16:57:54	]Galungae used command '/SetVortalEnergy ^ 100'.
+[16:58:01	]Galungae has spawned a 'NPC [426][npc_antlionguard]'.
+[16:59:45	]Galungae used command '/ToggleRaise'.
+[17:00:08	]Galungae has gained level 50 in the Melee skill.
+[17:00:08	]Galungae used command '/CharSkillSet ^ melee 50'.
+[17:00:10	]Galungae has spawned a 'NPC [426][npc_zombie]'.
+[17:00:14	]Galungae has spawned a 'NPC [426][npc_fastzombie]'.
+[17:00:18	]Galungae has spawned a 'NPC [426][npc_poisonzombie]'.
+[17:00:19	]Galungae has taken 10 damage from npc_poisonzombie.
+[17:00:26	]Galungae has spawned a 'NPC [426][npc_zombie]'.
+[17:02:08	]Galungae has spawned a 'NPC [426][npc_poisonzombie]'.
+[17:02:12	]Galungae has gained a 'Raw Headcrab Meat' #1650242.
+[17:02:12	]Galungae has gained a 'Raw Headcrab Meat' #1650243.
+[17:02:12	]Galungae has gained a 'Raw Headcrab Meat' #1650244.
+[17:02:12	]Galungae has gained a 'Raw Headcrab Meat' #1650245.
+[17:02:12	]Galungae has gained a 'Raw Headcrab Meat' #1650246.
+[17:02:38	]Galungae has spawned a 'NPC [426][npc_zombie]'.
+[17:03:12	]Galungae used command '/CharSkillSet ^ melee 0'.
+[17:03:20	]Galungae has spawned a 'NPC [426][npc_zombie]'.
+[17:03:24	]Galungae has taken 10 damage from npc_zombie.
+[17:03:53	]Galungae ran SAM command 'hp' with arguments: '^' '99999999'
+[17:03:54	]Galungae is fully healed.
+[17:03:58	]Galungae has spawned a 'NPC [426][npc_strider]'.
+[17:03:58	]Galungae entered observer.
+[17:04:00	]Galungae exited observer at their location.
+[17:04:02	]Galungae has taken 5 damage from npc_strider.
+[17:04:03	]Galungae has taken 5 damage from npc_strider.
+[17:04:03	]Galungae has taken 5 damage from npc_strider.
+[17:04:03	]Galungae has taken 5 damage from npc_strider.
+[17:04:04	]Galungae is fully healed.
+[17:04:06	]Galungae has taken 5 damage from npc_strider.
+[17:04:07	]Galungae has taken 5 damage from npc_strider.
+[17:04:07	]Galungae has taken 5 damage from npc_strider.
+[17:04:07	]Galungae has taken 5 damage from npc_strider.
+[17:04:07	]Galungae has taken 5 damage from npc_strider.
+[17:04:09	]Galungae is fully healed.
+[17:04:10	]Galungae has taken 5 damage from npc_strider.
+[17:04:11	]Galungae used command '/ToggleRaise'.
+[17:04:11	]Galungae has taken 5 damage from npc_strider.
+[17:04:11	]Galungae has taken 5 damage from npc_strider.
+[17:04:11	]Galungae has taken 5 damage from npc_strider.
+[17:04:11	]Galungae has taken 5 damage from npc_strider.
+[17:04:14	]Galungae is fully healed.
+[17:04:15	]Galungae has taken 5 damage from npc_strider.
+[17:04:19	]Galungae has taken 5 damage from npc_strider.
+[17:04:19	]Galungae has taken 5 damage from npc_strider.
+[17:04:19	]Galungae has taken 5 damage from npc_strider.
+[17:04:19	]Galungae is fully healed.
+[17:04:19	]Galungae has taken 5 damage from npc_strider.
+[17:04:19	]Galungae has taken 5 damage from npc_strider.
+[17:04:23	]Galungae has taken 5 damage from npc_strider.
+[17:04:23	]Galungae has taken 5 damage from npc_strider.
+[17:04:23	]Galungae has taken 5 damage from npc_strider.
+[17:04:23	]Galungae has taken 5 damage from npc_strider.
+[17:04:24	]Galungae has taken 5 damage from npc_strider.
+[17:04:24	]Galungae has taken 5 damage from npc_strider.
+[17:04:24	]Galungae is fully healed.
+[17:04:26	]Galungae entered observer.
+[17:04:27	]Galungae exited observer at their location.
+[17:06:42	]Galungae has spawned a 'NPC [426][npc_zombie]'.
+[17:06:44	]Galungae has spawned a 'NPC [428][npc_zombie]'.
+[17:06:44	]Galungae has spawned a 'NPC [429][npc_zombie]'.
+[17:06:44	]Galungae has spawned a 'NPC [430][npc_zombie]'.
+[17:06:44	]Galungae has spawned a 'NPC [431][npc_zombie]'.
+[17:06:45	]Galungae has spawned a 'NPC [432][npc_zombie]'.
+[17:06:45	]Galungae has spawned a 'NPC [433][npc_zombie]'.
+[17:06:45	]Galungae has spawned a 'NPC [435][npc_zombie]'.
+[17:06:45	]Galungae has spawned a 'NPC [436][npc_zombie]'.
+[17:06:45	]Galungae has spawned a 'NPC [437][npc_zombie]'.
+[17:06:45	]Galungae has spawned a 'NPC [438][npc_zombie]'.
+[17:06:46	]Galungae has spawned a 'NPC [439][npc_zombie]'.
+[17:07:09	]Galungae has spawned a 'NPC [428][npc_zombie]'.
+[17:07:35	]Galungae used command '/SetVortalEnergy ^ 0'.
+[17:08:42	]Galungae used command '/SetVortalEnergy ^ 100'.
+[17:09:12	]Galungae entered observer.
+[17:09:17	]Galungae exited observer at their location.
+[17:09:21	]Galungae has spawned a 'NPC [428][npc_zombie]'.
+[17:09:47	]Galungae has fired a toolgun with the name: creator
+[17:09:47	]Galungae has spawned a 'NPC [428][npc_citizen]'.
+[17:09:56	]Galungae has fired a toolgun with the name: creator
+[17:09:56	]Galungae has spawned a 'NPC [436][npc_citizen]'.
+[17:09:58	]Galungae has fired a toolgun with the name: creator
+[17:09:58	]Galungae has spawned a 'NPC [438][npc_citizen]'.
+[17:10:00	]Galungae has fired a toolgun with the name: creator
+[17:10:00	]Galungae has spawned a 'NPC [440][npc_citizen]'.
+[17:10:01	]Galungae has fired a toolgun with the name: creator
+[17:10:01	]Galungae has spawned a 'NPC [430][npc_citizen]'.
+[17:10:03	]Galungae has fired a toolgun with the name: creator
+[17:10:03	]Galungae has spawned a 'NPC [426][npc_citizen]'.
+[17:10:17	]Galungae has fired a toolgun with the name: rope
+[17:10:17	]Galungae has fired a toolgun with the name: rope
+[17:10:18	]Galungae has fired a toolgun with the name: rope
+[17:10:18	]Galungae has fired a toolgun with the name: rope
+[17:10:22	]Galungae has fired a toolgun with the name: rope
+[17:10:22	]Galungae has fired a toolgun with the name: rope
+[17:10:23	]Galungae has fired a toolgun with the name: rope
+[17:10:23	]Galungae has fired a toolgun with the name: rope
+[17:10:31	]Galungae has fired a toolgun with the name: rope
+[17:10:32	]Galungae has fired a toolgun with the name: rope
+[17:10:32	]Galungae has fired a toolgun with the name: rope
+[17:10:33	]Galungae has fired a toolgun with the name: rope
+[17:10:36	]Galungae has fired a toolgun with the name: rope
+[17:10:36	]Galungae has fired a toolgun with the name: rope
+[17:10:36	]Galungae has fired a toolgun with the name: rope
+[17:10:37	]Galungae has fired a toolgun with the name: rope
+[17:10:40	]Galungae has fired a toolgun with the name: rope
+[17:10:40	]Galungae has fired a toolgun with the name: rope
+[17:10:41	]Galungae has fired a toolgun with the name: rope
+[17:10:41	]Galungae has fired a toolgun with the name: rope
+[17:10:44	]Galungae has fired a toolgun with the name: rope
+[17:10:44	]Galungae has fired a toolgun with the name: rope
+[17:10:45	]Galungae has fired a toolgun with the name: rope
+[17:10:45	]Galungae has fired a toolgun with the name: rope
+[17:10:49	]Galungae entered observer.
+[17:10:59	]Galungae exited observer at their location.
+[17:11:25	]Galungae used command '/SetVortalEnergy ^ 100'.
+[17:11:49	]Galungae entered observer.
+[17:11:49	]Galungae exited observer at their location.
+[17:12:29	]Galungae has fired a toolgun with the name: rope
+[17:12:32	]Galungae has fired a toolgun with the name: rope
+[17:12:55	]Galungae has fired a toolgun with the name: rope
+[17:12:58	]Galungae has fired a toolgun with the name: rope
+[17:13:16	]Galungae has spawned a 'NPC [431][npc_citizen]'.
+[17:13:18	]Galungae has spawned a 'NPC [436][npc_citizen]'.
+[17:13:23	]Galungae has fired a toolgun with the name: rope
+[17:13:23	]Galungae has fired a toolgun with the name: rope
+[17:13:24	]Galungae has fired a toolgun with the name: rope
+[17:13:24	]Galungae has fired a toolgun with the name: rope
+[17:13:52	]Galungae has used a context menu option with the name: remove
+[17:13:53	]Galungae has used a context menu option with the name: remove
+[17:13:57	]Galungae has spawned a 'NPC [430][npc_citizen]'.
+[17:13:59	]Galungae has spawned a 'NPC [436][npc_citizen]'.
+[17:14:01	]Galungae has spawned a 'NPC [430][npc_citizen]'.
+[17:15:09	]Galungae entered observer.
+[17:15:20	]Galungae exited observer at their location.
+[17:15:40	]Galungae has spawned a 'NPC [430][npc_metropolice]'.
+[17:15:43	]Galungae entered observer.
+[17:15:47	]Galungae has spawned a 'NPC [430][npc_metropolice]'.
+[17:15:49	]Galungae has spawned a 'NPC [433][npc_metropolice]'.
+[17:15:57	]Galungae has spawned a 'NPC [431][npc_vortigaunt]'.
+[17:16:17	]Galungae exited observer at their location.
+[17:16:19	]Galungae entered observer.
+[17:17:39	]Galungae has spawned a 'NPC [433][npc_citizen]'.
+[17:17:41	]Galungae exited observer at their location.
+[17:17:42	]Galungae entered observer.
+[17:17:56	]Galungae has spawned a 'NPC [433][npc_vortigaunt]'.
+[17:18:05	]Galungae has spawned a 'NPC [436][npc_metropolice]'.
+[17:18:07	]Galungae has spawned a 'NPC [457][npc_metropolice]'.
+[17:18:09	]Galungae has spawned a 'NPC [463][npc_metropolice]'.
+[17:18:10	]Galungae has spawned a 'NPC [457][npc_metropolice]'.
+[17:18:11	]Galungae has spawned a 'NPC [463][npc_metropolice]'.
+[17:18:12	]Galungae has spawned a 'NPC [457][npc_metropolice]'.
+[17:18:13	]Galungae has spawned a 'NPC [463][npc_metropolice]'.
+[17:18:14	]Galungae has spawned a 'NPC [457][npc_metropolice]'.
+[17:18:15	]Galungae has spawned a 'NPC [463][npc_metropolice]'.
+[17:18:16	]Galungae has spawned a 'NPC [457][npc_metropolice]'.
+[17:18:17	]Galungae has spawned a 'NPC [463][npc_metropolice]'.
+[17:18:59	]Galungae exited observer at their location.
+[17:19:03	]Galungae entered observer.
+[17:20:51	]Galungae has spawned a 'NPC [437][npc_metropolice]'.
+[17:20:52	]Galungae exited observer at their location.
+[17:20:55	]Galungae entered observer.
+[17:21:19	]Galungae has fired a toolgun with the name: rope
+[17:21:19	]Galungae has fired a toolgun with the name: rope
+[17:21:20	]Galungae has fired a toolgun with the name: rope
+[17:21:20	]Galungae has fired a toolgun with the name: rope
+[17:23:28	]Galungae exited observer at their location.
+[17:23:41	]Galungae entered observer.
+[17:24:50	]Galungae exited observer at their location.
+[17:24:53	]Galungae entered observer.
+[17:25:02	]Galungae exited observer at their location.
+[17:25:04	]Galungae has spawned a 'NPC [426][npc_antlion]'.
+[17:25:11	]Galungae has spawned a 'NPC [426][npc_antlion]'.
+[17:25:11	]Galungae has spawned a 'NPC [429][npc_antlion]'.
+[17:25:13	]Galungae has taken 5 damage from npc_antlion.
+[17:25:14	]Galungae is fully healed.
+[17:25:29	]Galungae has spawned a 'NPC [429][npc_antlion]'.
+[17:25:29	]Galungae has spawned a 'NPC [432][npc_antlion]'.
+[17:25:30	]Galungae has spawned a 'NPC [433][npc_antlion]'.
+[17:25:47	]Galungae has spawned a 'NPC [429][npc_headcrab_fast]'.
+[17:25:49	]Galungae has spawned a 'NPC [436][npc_headcrab_fast]'.
+[17:25:49	]Galungae has taken 5 damage from npc_headcrab_fast.
+[17:25:54	]Galungae is fully healed.
+[17:25:55	]Galungae has taken 5 damage from npc_headcrab_fast.
+[17:25:59	]Galungae is fully healed.
+[17:26:00	]Galungae used command '/SetVortalEnergy ^ 100'.
+[17:28:34	]Galungae has taken 12 damage from worldspawn.
+[17:28:34	]Galungae is fully healed.
+[17:30:16	]Furret No Furry Asimo loaded the character 'Billly Bo'
+[17:30:51	]Billly Bo has given himself a p2000.
+[17:30:51	]Billly Bo has gained a 'H&K P2000' #1650247.
+[17:30:54	]Billly Bo ran 'Equip' on item 'H&K P2000' (#1650247)
+[17:31:00	]Billly Bo has given himself a magazine_p2000_13rnd.
+[17:31:00	]Billly Bo has gained a '13rnd P2000-magazine' #1650248.
+[17:31:03	]Billly Bo has given himself a bullets_pistol.
+[17:31:03	]Billly Bo has gained a '9mm Pistol Bullets' #1650249.
+[17:31:13	]Billly Bo entered observer.
+[17:31:14	]Billly Bo used command '/ToggleRaise'.
+[17:31:14	]Billly Bo exited observer at their location.
+[17:31:16	]Billly Bo ran 'combine' on item '13rnd P2000-magazine' (#1650248)
+[17:31:17	]Billly Bo has lost a '13rnd P2000-magazine' #1650248.
+[17:31:31	]Billly Bo ran 'removeMag' on item 'H&K P2000' (#1650247)
+[17:31:31	]Billly Bo has gained a '13rnd P2000-magazine' #1650248.
+[17:31:31	]Billly Bo ran 'combine' on item '13rnd P2000-magazine' (#1650248)
+[17:31:32	]Billly Bo has lost a '13rnd P2000-magazine' #1650248.
+[17:31:36	]Billly Bo has spawned a 'NPC [428][npc_zombie]'.
+[17:31:37	]Billly Bo has hit npc_zombie in the chest dealing 5 damage (CritChance was 0.84).
+[17:31:37	]Billly Bo has critically hit npc_zombie in the right arm dealing 7 damage (CritChance was 0.84).
+[17:31:37	]Billly Bo has critically hit npc_zombie in the right arm dealing 7 damage (CritChance was 0.84).
+[17:31:41	]Billly Bo has gained level 1 in the Guns skill.
+[17:31:43	]Billly Bo has hit npc_zombie in the chest dealing 5 damage (CritChance was 0.84).
+[17:31:44	]Billly Bo has critically hit npc_zombie in the chest dealing 8 damage (CritChance was 0.84).
+[17:31:44	]Billly Bo has gained level 2 in the Guns skill.
+[17:31:44	]Billly Bo has critically hit npc_zombie in the chest dealing 8 damage (CritChance was 0.84).
+[17:31:45	]Billly Bo has critically hit npc_zombie in the chest dealing 8 damage (CritChance was 0.85).
+[17:31:45	]Billly Bo has critically hit npc_zombie in the chest dealing 0 damage (CritChance was 0.85).
+[17:31:45	]Billly Bo has gained level 3 in the Guns skill.
+[17:31:45	]Billly Bo has critically hit npc_zombie in the chest dealing 8 damage (CritChance was 0.85).
+[17:31:45	]Billly Bo has critically hit npc_zombie in the chest dealing 8 damage (CritChance was 0.85).
+[17:31:46	]Billly Bo has critically hit npc_zombie in the chest dealing 8 damage (CritChance was 0.85).
+[17:31:46	]Billly Bo has gained level 4 in the Guns skill.
+[17:31:46	]Billly Bo has hit npc_zombie in the chest dealing 5 damage (CritChance was 0.85).
+[17:31:48	]Billly Bo has hit npc_zombie in the chest dealing 5 damage (CritChance was 0.86).
+[17:31:48	]Billly Bo has critically hit npc_zombie in the chest dealing 8 damage (CritChance was 0.86).
+[17:31:51	]Billly Bo ran 'removeMag' on item 'H&K P2000' (#1650247)
+[17:31:51	]Billly Bo has gained a '13rnd P2000-magazine' #1650248.
+[17:31:51	]Billly Bo ran 'combine' on item '13rnd P2000-magazine' (#1650248)
+[17:31:52	]Billly Bo has lost a '13rnd P2000-magazine' #1650248.
+[17:31:55	]Billly Bo has gained level 5 in the Guns skill.
+[17:31:55	]Billly Bo has critically hit npc_zombie in the chest dealing 8 damage (CritChance was 0.86).
+[17:31:55	]Billly Bo has critically hit npc_zombie in the chest dealing 8 damage (CritChance was 0.86).
+[17:31:56	]Billly Bo has critically hit npc_zombie in the chest dealing 8 damage (CritChance was 0.86).
+[17:32:18	]Billly Bo used command '/CharSkillReset ^ guns'.
+[17:32:21	]Billly Bo ran 'EquipUn' on item 'H&K P2000' (#1650247)
+[17:32:21	]Billly Bo has gained a '13rnd P2000-magazine' #1650248.
+[17:32:38	]Billly Bo has given himself a akm.
+[17:32:38	]Billly Bo has gained a 'AKM' #1650250.
+[17:32:44	]Billly Bo has given himself a magazine_ak_30rnd.
+[17:32:44	]Billly Bo has gained a '30rnd AK-magazine' #1650251.
+[17:32:45	]Billly Bo has given himself a magazine_ak_30rnd.
+[17:32:45	]Billly Bo has gained a '30rnd AK-magazine' #1650252.
+[17:32:49	]Billly Bo has given himself a bullets_assaultrifle.
+[17:32:49	]Billly Bo has gained a 'Assault Rifle Bullets' #1650253.
+[17:32:49	]Billly Bo has given himself a bullets_assaultrifle.
+[17:32:49	]Billly Bo has gained a 'Assault Rifle Bullets' #1650254.
+[17:32:51	]Billly Bo ran 'combine' on item '30rnd AK-magazine' (#1650251)
+[17:32:52	]Billly Bo ran 'combine' on item '30rnd AK-magazine' (#1650252)
+[17:32:53	]Billly Bo ran 'Equip' on item 'AKM' (#1650250)
+[17:32:54	]Billly Bo has lost a '30rnd AK-magazine' #1650252.
+[17:32:55	]Billly Bo used command '/ToggleRaise'.
+[17:33:00	]Billly Bo has spawned a 'NPC [429][npc_zombie]'.
+[17:33:02	]Billly Bo has gained level 1 in the Guns skill.
+[17:33:02	]Billly Bo has hit npc_zombie in the chest dealing 11 damage (CritChance was 0.42).
+[17:33:04	]Billly Bo has hit npc_zombie in the chest dealing 11 damage (CritChance was 0.44).
+[17:33:05	]Billly Bo has critically hit npc_zombie in the head dealing 19 damage (CritChance was 0.44).
+[17:33:06	]Billly Bo has gained level 2 in the Guns skill.
+[17:33:06	]Billly Bo has critically hit npc_zombie in the chest dealing 18 damage (CritChance was 0.44).
+[17:33:09	]Billly Bo has critically hit npc_headcrab dealing 18 damage (CritChance was 0.46).
+[17:33:13	]Billly Bo has spawned a 'NPC [432][npc_zombie]'.
+[17:33:14	]Billly Bo has hit npc_zombie in the chest dealing 11 damage (CritChance was 0.46).
+[17:33:15	]Billly Bo has gained level 3 in the Guns skill.
+[17:33:15	]Billly Bo has hit npc_zombie in the head dealing 0 damage (CritChance was 0.46).
+[17:33:15	]Billly Bo has hit npc_zombie in the head dealing 0 damage (CritChance was 0.48).
+[17:33:15	]Billly Bo has hit npc_zombie in the head dealing 9 damage (CritChance was 0.48).
+[17:33:16	]Billly Bo has critically hit npc_zombie in the head dealing 0 damage (CritChance was 0.48).
+[17:33:16	]Billly Bo has gained level 4 in the Guns skill.
+[17:33:16	]Billly Bo has critically hit npc_zombie in the head dealing 19 damage (CritChance was 0.48).
+[17:33:48	]Billly Bo has gained a '30rnd AK-magazine' #1650252.
+[17:33:48	]Billly Bo has lost a '30rnd AK-magazine' #1650251.
+[17:33:50	]Billly Bo has spawned a 'NPC [432][npc_zombie]'.
+[17:33:52	]Billly Bo has hit npc_zombie in the right arm dealing 7 damage (CritChance was 0.50).
+[17:33:55	]Billly Bo has critically hit npc_zombie in the chest dealing 18 damage (CritChance was 0.50).
+[17:33:56	]Billly Bo has gained level 5 in the Guns skill.
+[17:33:56	]Billly Bo has hit npc_zombie in the head dealing 0 damage (CritChance was 0.50).
+[17:33:56	]Billly Bo has critically hit npc_zombie in the head dealing 19 damage (CritChance was 0.53).
+[17:33:57	]Kaffee has connected.
+[17:33:58	]Billly Bo has hit npc_zombie in the right arm dealing 7 damage (CritChance was 0.53).
+[17:33:59	]Billly Bo has gained level 6 in the Guns skill.
+[17:33:59	]Billly Bo has critically hit npc_zombie in the head dealing 19 damage (CritChance was 0.53).
+[17:34:41	]Billly Bo has gained a '30rnd AK-magazine' #1650251.
+[17:34:41	]Billly Bo has lost a '30rnd AK-magazine' #1650252.
+[17:34:43	]Billly Bo used command '/ToggleRaise'.
+[17:37:04	]Kaffee loaded the character 'Sho'Tcop'
+[17:37:09	]Sho'Tcop is fully healed.
+[17:37:19	]Sho'Tcop entered observer.
+[17:37:23	]Sho'Tcop exited observer at their location.
+[17:37:58	]Billly Bo has gained a '30rnd AK-magazine' #1650252.
+[17:37:58	]Billly Bo was knocked unconscious and is bleeding out.
+[17:38:02	][IC] Billly Bo: Guh.
+[17:38:09	]Billly Bo ran SAM command 'hp' with arguments: '^' '100'
+[17:38:17	][IC] Billly Bo: How'd you one shot me.
+[17:38:26	][LOOC] Sho'Tcop: 50 vortessence
+[17:38:26	][IC] Billly Bo: Which beam did u use.
+[17:38:35	]Billly Bo has taken 96 damage from Sho'Tcop.
+[17:38:38	][IC] Billly Bo: Ah.
+[17:38:41	][IC] Billly Bo: 96 damage.
+[17:38:43	][IC] Billly Bo: All good.
+[17:38:50	]Sho'Tcop used command '/EnterMeditation'.
+[17:38:57	][IC] Billly Bo: So uh.
+[17:39:02	][IC] Billly Bo: They said that lasts 30 minutes.
+[17:39:09	][IC] Billly Bo: Can you move at all.
+[17:39:12	][IC] Billly Bo: Or cancel it.
+[17:39:13	][IC] Sho'Tcop: No.
+[17:39:16	][IC] Billly Bo: Ah.
+[17:39:16	][IC] Billly Bo: So.
+[17:39:18	][IC] Billly Bo: You do that.
+[17:39:19	][IC] Sho'Tcop: I can re enter the command.
+[17:39:23	]Sho'Tcop used command '/EnterMeditation'.
+[17:39:24	][IC] Billly Bo: Civvie comes.
+[17:39:27	][IC] Billly Bo: Ah good.
+[17:39:37	][IC] Billly Bo: Cause otherwise you enter it and a civvie comes, snitches and OTA just picks you up.
+[17:39:41	][IC] Billly Bo: WHile you;  re frozed.
+[17:39:43	][IC] Billly Bo: That'd be funny.
+[17:39:51	][LOOC] Sho'Tcop: have you tested time to kill with pyro
+[17:39:59	]Billly Bo ran SAM command 'hp' with arguments: '^' '100'
+[17:40:00	][IC] Billly Bo: Hit me.
+[17:40:08	]Sho'Tcop used command '/SetVortalEnergy sho 100'.
+[17:40:15	]Billly Bo has taken 15 damage from Sho'Tcop.
+[17:40:15	]Billly Bo has taken 1 damage from entityflame.
+[17:40:15	]Billly Bo has taken 1 damage from entityflame.
+[17:40:15	]Billly Bo has taken 1 damage from entityflame.
+[17:40:16	]Billly Bo has taken 1 damage from entityflame.
+[17:40:16	]Billly Bo has taken 1 damage from entityflame.
+[17:40:16	]Billly Bo has taken 1 damage from entityflame.
+[17:40:16	]Billly Bo has taken 1 damage from entityflame.
+[17:40:16	]Billly Bo has taken 1 damage from entityflame.
+[17:40:17	]Billly Bo has taken 1 damage from entityflame.
+[17:40:17	]Billly Bo has taken 1 damage from entityflame.
+[17:40:17	]Billly Bo has taken 1 damage from entityflame.
+[17:40:17	]Billly Bo has taken 1 damage from entityflame.
+[17:40:17	]Billly Bo has taken 1 damage from entityflame.
+[17:40:18	]Billly Bo has taken 1 damage from entityflame.
+[17:40:18	]Billly Bo has taken 1 damage from entityflame.
+[17:40:18	]Billly Bo has taken 1 damage from entityflame.
+[17:40:18	]Billly Bo has taken 1 damage from entityflame.
+[17:40:18	]Billly Bo has taken 1 damage from entityflame.
+[17:40:19	]Billly Bo has taken 1 damage from entityflame.
+[17:40:19	]Billly Bo has taken 1 damage from entityflame.
+[17:40:19	]Billly Bo has taken 1 damage from entityflame.
+[17:40:19	]Billly Bo has taken 1 damage from entityflame.
+[17:40:19	]Billly Bo has taken 1 damage from entityflame.
+[17:40:20	]Billly Bo has taken 1 damage from entityflame.
+[17:40:20	]Billly Bo has taken 1 damage from entityflame.
+[17:40:20	]Billly Bo has taken 1 damage from entityflame.
+[17:40:20	]Billly Bo has taken 1 damage from entityflame.
+[17:40:20	]Billly Bo has taken 1 damage from entityflame.
+[17:40:21	]Billly Bo has taken 1 damage from entityflame.
+[17:40:21	]Billly Bo has taken 1 damage from entityflame.
+[17:40:21	]Billly Bo has taken 1 damage from entityflame.
+[17:40:21	]Billly Bo has taken 1 damage from entityflame.
+[17:40:21	]Billly Bo has taken 1 damage from entityflame.
+[17:40:22	]Billly Bo has taken 1 damage from entityflame.
+[17:40:22	]Billly Bo has taken 1 damage from entityflame.
+[17:40:22	]Billly Bo has taken 1 damage from entityflame.
+[17:40:22	]Billly Bo has taken 1 damage from entityflame.
+[17:40:22	]Billly Bo has taken 1 damage from entityflame.
+[17:40:23	]Billly Bo has taken 1 damage from entityflame.
+[17:40:23	]Billly Bo has taken 1 damage from entityflame.
+[17:40:23	]Billly Bo has taken 1 damage from entityflame.
+[17:40:23	]Billly Bo has taken 1 damage from entityflame.
+[17:40:23	]Billly Bo has taken 1 damage from entityflame.
+[17:40:24	]Billly Bo has taken 1 damage from entityflame.
+[17:40:24	]Billly Bo has taken 1 damage from entityflame.
+[17:40:24	]Billly Bo has taken 1 damage from entityflame.
+[17:40:24	]Billly Bo has taken 1 damage from entityflame.
+[17:40:24	]Billly Bo has taken 1 damage from entityflame.
+[17:40:25	]Billly Bo has taken 1 damage from entityflame.
+[17:40:25	]Billly Bo has taken 1 damage from entityflame.
+[17:40:25	]Billly Bo has taken 1 damage from entityflame.
+[17:40:25	]Billly Bo has taken 1 damage from entityflame.
+[17:40:25	]Billly Bo has taken 1 damage from entityflame.
+[17:40:26	]Billly Bo has taken 1 damage from entityflame.
+[17:40:26	]Billly Bo has taken 1 damage from entityflame.
+[17:40:26	]Billly Bo has taken 1 damage from entityflame.
+[17:40:26	]Billly Bo has taken 1 damage from entityflame.
+[17:40:26	]Billly Bo has taken 1 damage from entityflame.
+[17:40:27	]Billly Bo has taken 1 damage from entityflame.
+[17:40:27	]Billly Bo has taken 1 damage from entityflame.
+[17:40:32	][IC] Billly Bo: 75 HP total.
+[17:40:35	][IC] Billly Bo: Damage.
+[17:40:41	][IC] Sho'Tcop: Glad it doesnt just kill you.
+[17:41:00	][IC] Billly Bo: Howmuch damage is groundpound?
+[17:41:02	]Billly Bo ran SAM command 'hp' with arguments: '^' '100'
+[17:41:09	]Billly Bo has taken 40 damage from Sho'Tcop.
+[17:41:14	][IC] Billly Bo: Only 40.
+[17:41:21	][IC] Sho'Tcop: Oh thats trashy.
+[17:41:29	]Billly Bo has taken 5 damage from Sho'Tcop.
+[17:41:36	][IC] Billly Bo: Set urself to 50 melee.
+[17:41:39	][IC] Billly Bo: That did 5.
+[17:41:43	][IC] Billly Bo: At 50 melee it does like 55.
+[17:41:48	]Billly Bo ran SAM command 'hp' with arguments: '^' '100'
+[17:41:50	]Sho'Tcop has gained level 50 in the Melee skill.
+[17:41:50	]Sho'Tcop used command '/CharSkillSet sho melee 50'.
+[17:41:54	]Billly Bo has taken 55 damage from Sho'Tcop.
+[17:41:57	]Billly Bo was knocked unconscious and is bleeding out.
+[17:41:58	][IC] Billly Bo: 56 ye.
+[17:42:00	][IC] Sho'Tcop: Wtf.
+[17:42:04	]Billly Bo ran SAM command 'hp' with arguments: '^' '100'
+[17:42:07	][IC] Sho'Tcop: Thats good for npcs then.
+[17:42:08	]Billly Bo used command '/CharStopBleedout ^'.
+[17:42:16	][IC] Billly Bo: Its a little uh.
+[17:42:21	][IC] Billly Bo: I mean it is very spammable.
+[17:42:27	]Billly Bo ran SAM command 'respawn' with arguments: '^'
+[17:42:34	]Billly Bo used command '/ToggleRaise'.
+[17:42:37	][IC] Billly Bo: But I can  do this.
+[17:42:39	]Billly Bo has hit Sho'Tcop dealing 11 damage (CritChance was 0.54).
+[17:42:39	]Sho'Tcop has taken 11 damage from Billly Bo.
+[17:42:42	]Billly Bo has critically hit Sho'Tcop dealing 18 damage (CritChance was 0.52).
+[17:42:42	]Sho'Tcop has taken 18 damage from Billly Bo.
+[17:42:43	]Billly Bo has taken 55 damage from Sho'Tcop.
+[17:42:51	][IC] Billly Bo: Fucking extended desc.
+[17:42:52	]Billly Bo has gained level 7 in the Guns skill.
+[17:42:52	]Billly Bo has critically hit Sho'Tcop dealing 18 damage (CritChance was 0.55).
+[17:42:52	]Sho'Tcop has taken 18 damage from Billly Bo.
+[17:42:53	]Billly Bo has hit Sho'Tcop dealing 11 damage (CritChance was 0.57).
+[17:42:53	]Sho'Tcop has taken 11 damage from Billly Bo.
+[17:42:54	]Billly Bo has critically hit Sho'Tcop dealing 18 damage (CritChance was 0.57).
+[17:42:54	]Sho'Tcop has taken 18 damage from Billly Bo.
+[17:42:54	]Billly Bo has gained level 8 in the Guns skill.
+[17:42:54	]Billly Bo has critically hit Sho'Tcop dealing 18 damage (CritChance was 0.57).
+[17:42:54	]Sho'Tcop has taken 18 damage from Billly Bo.
+[17:42:55	]Billly Bo has hit Sho'Tcop dealing 11 damage (CritChance was 0.59).
+[17:42:55	]Sho'Tcop has taken 11 damage from Billly Bo.
+[17:42:55	]Billly Bo has critically hit Sho'Tcop dealing 18 damage (CritChance was 0.59).
+[17:42:55	]Sho'Tcop has taken 18 damage from Billly Bo.
+[17:42:56	]Billly Bo has gained level 9 in the Guns skill.
+[17:42:56	]Billly Bo has hit Sho'Tcop dealing 11 damage (CritChance was 0.59).
+[17:42:56	]Sho'Tcop has taken 11 damage from Billly Bo.
+[17:42:57	]Billly Bo has critically hit Sho'Tcop dealing 18 damage (CritChance was 0.59).
+[17:42:57	]Sho'Tcop has taken 18 damage from Billly Bo.
+[17:42:57	]Billly Bo has critically hit Sho'Tcop dealing 18 damage (CritChance was 0.59).
+[17:42:57	]Sho'Tcop has taken 18 damage from Billly Bo.
+[17:42:58	]Billly Bo has gained level 10 in the Guns skill.
+[17:42:58	]Billly Bo has critically hit Sho'Tcop dealing 18 damage (CritChance was 0.59).
+[17:42:58	]Sho'Tcop has taken 18 damage from Billly Bo.
+[17:42:58	]Billly Bo has critically hit Sho'Tcop dealing 18 damage (CritChance was 0.61).
+[17:42:58	]Sho'Tcop was knocked unconscious and is bleeding out.
+[17:43:04	]Sho'Tcop ran SAM command 'hp' with arguments: '^' '100'
+[17:43:07	]Sho'Tcop ran SAM command 'hp' with arguments: '^' '200'
+[17:43:13	]Sho'Tcop used command '/CharStopBleedout sho'.
+[17:43:16	]Billly Bo ran 'EquipUn' on item 'AKM' (#1650250)
+[17:43:23	][IC] Billly Bo: Juicy melee.
+[17:43:35	]Sho'Tcop used command '/SetVortalEnergy sho 100'.
+[17:43:40	]Billly Bo has given himself a ing_xen_extract.
+[17:43:40	]Billly Bo has gained a 'Antlion Extract' #1650255.
+[17:43:41	]Billly Bo has given himself a xen_concoction.
+[17:43:41	]Billly Bo has gained a 'Extract Concoction' #1650256.
+[17:43:49	]Billly Bo ran 'Consume' on item 'Extract Concoction' (#1650256)
+[17:43:49	]Billly Bo has gained a level 15 long boost in Strength.
+[17:43:49	]Billly Bo has gained a level 15 long boost in Agility.
+[17:43:49	]Billly Bo has gained a level 15 long boost in Intelligence.
+[17:43:49	]Billly Bo has gained a level 15 long boost in Perception.
+[17:43:52	][IC] Billly Bo: Yum.
+[17:43:59	]Furret No Furry Asimo loaded the character 'Galungae'
+[17:44:00	]Sho'Tcop has given himself a xen_concoction.
+[17:44:01	]Sho'Tcop has gained a 'Extract Concoction' #1650257.
+[17:44:04	]Galungae entered observer.
+[17:44:07	]Galungae exited observer at their location.
+[17:44:07	]Sho'Tcop ran 'Consume' on item 'Extract Concoction' (#1650257)
+[17:44:07	]Sho'Tcop has gained a level 15 long boost in Strength.
+[17:44:07	]Sho'Tcop has gained a level 15 long boost in Agility.
+[17:44:07	]Sho'Tcop has gained a level 15 long boost in Intelligence.
+[17:44:07	]Sho'Tcop has gained a level 15 long boost in Perception.
+[17:44:10	]Galungae has given himself a ing_xen_extract.
+[17:44:10	]Galungae has gained a 'Antlion Extract' #1650258.
+[17:44:11	]Galungae has given himself a xen_concoction.
+[17:44:11	]Galungae has gained a 'Extract Concoction' #1650259.
+[17:44:14	][IC] Galungae: Wait.
+[17:44:18	][IC] Galungae: It is the concocktion.
+[17:44:21	][IC] Galungae: And not the extract.
+[17:44:22	][IC] Galungae: Guh?
+[17:44:24	][IC] Sho'Tcop: Yeah.
+[17:44:35	][IC] Galungae: Wait.
+[17:44:38	][IC] Galungae: Why do I have the effect.
+[17:44:46	][IC] Sho'Tcop: You were in the vicinity.
+[17:44:51	][IC] Galungae: Oh.
+[17:44:54	][IC] Galungae: So it DOES do that.
+[17:45:01	][IC] Galungae: Look.
+[17:45:05	]Galungae has spawned a 'NPC [426][npc_antlionguard]'.
+[17:45:31	]Sho'Tcop has gained a 'Raw Antlion Meat' #1650260.
+[17:45:34	]Galungae used command '/SetVortalEnergy ^ 100'.
+[17:45:36	]Sho'Tcop has gained a 'Raw Antlion Meat' #1650261.
+[17:45:37	]Sho'Tcop has gained a 'Raw Antlion Meat' #1650262.
+[17:45:38	]Sho'Tcop has gained a 'Raw Antlion Meat' #1650263.
+[17:45:39	]Galungae has spawned a 'NPC [426][npc_antlionguard]'.
+[17:45:39	]Sho'Tcop has gained a 'Raw Antlion Meat' #1650264.
+[17:45:40	]Sho'Tcop has gained a 'Raw Antlion Meat' #1650265.
+[17:45:41	]Sho'Tcop has gained a 'Raw Antlion Meat' #1650266.
+[17:45:45	]Galungae used command '/SetVortalEnergy ^ 100'.
+[17:45:55	][IC] Galungae: Use normal vortbeam.
+[17:45:56	][IC] Galungae: Let's go.
+[17:45:59	]Galungae has spawned a 'NPC [426][npc_antlionguard]'.
+[17:46:14	][IC] Galungae: Lmao.
+[17:46:16	][IC] Galungae: Like what.
+[17:46:18	][IC] Galungae: 5 hits?
+[17:46:28	][IC] Sho'Tcop: I wonder how many i can do.
+[17:46:31	]Sho'Tcop used command '/SetVortalEnergy sho 100'.
+[17:46:44	]Galungae used command '/ToggleVortalSensing'.
+[17:46:47	]Galungae used command '/ToggleVortalSensing'.
+[17:46:56	][IC] Galungae: I think it is 5 per beam?
+[17:46:58	][IC] Galungae: So 20?
+[17:47:07	]Galungae used command '/SetVortalEnergy ^ 10'.
+[17:47:12	][IC] Galungae: Ye.
+[17:47:15	][IC] Galungae: 5 per beem.
+[17:47:25	][IC] Galungae: Maybe I will apply vort galunga.
+[17:47:35	][IC] Sho'Tcop: We even had vadim apply.
+[17:47:37	][IC] Galungae: But tbh I will probably fuck up the lore hard.
+[17:47:44	][IC] Galungae: Considering I was a vort on neb recently.
+[17:47:51	][IC] Galungae: And read a bunch of lore from 2 other communities.
+[17:47:55	][IC] Galungae: So my vort lore is all over the place.
+[17:47:57	][IC] Sho'Tcop: Im currently vort on neb.
+[17:48:10	][IC] Galungae: Neb kinda burned me out.
+[17:48:12	]Sho'Tcop used command '/VortStun'.
+[17:48:14	][IC] Galungae: Like it was daily event.
+[17:48:17	]Sho'Tcop used command '/VortStun'.
+[17:48:17	][IC] Galungae: With 0 player input.
+[17:48:19	][IC] Galungae: Kinda gets boring.
+[17:48:22	][LOOC] Sho'Tcop: i cant vort stun another vort
+[17:48:22	][IC] Galungae: Just being dragged around.
+[17:48:29	]Galungae used command '/VortStun'.
+[17:48:29	]Sho'Tcop used command '/VortStun'.
+[17:48:36	]Galungae used command '/SetVortalEnergy ^ 10'.
+[17:48:38	]Galungae used command '/VortStun'.
+[17:48:40	]Galungae used command '/VortStun'.
+[17:48:41	][IC] Galungae: No.
+[17:48:47	]Galungae used command '/SetVortalEnergy ^ 100'.
+[17:48:50	][IC] Galungae: But I can do this.
+[17:48:53	]Sho'Tcop was knocked unconscious and is bleeding out.
+[17:48:57	][IC] Sho'Tcop: LOL.
+[17:49:05	]Sho'Tcop ran SAM command 'respawn' with arguments: '^'
+[17:49:17	]Galungae used command '/SetVortalEnergy ^ 100'.
+[17:49:31	][LOOC] Sho'Tcop: lets see how many it kills in close range with adv
+[17:49:32	]Sho'Tcop has fired a toolgun with the name: creator
+[17:49:32	]Sho'Tcop has spawned a 'NPC [426][npc_citizen]'.
+[17:49:33	]Sho'Tcop has fired a toolgun with the name: creator
+[17:49:33	]Sho'Tcop has spawned a 'NPC [432][npc_citizen]'.
+[17:49:34	]Sho'Tcop has fired a toolgun with the name: creator
+[17:49:34	]Sho'Tcop has spawned a 'NPC [449][npc_citizen]'.
+[17:49:35	]Sho'Tcop has fired a toolgun with the name: creator
+[17:49:35	]Sho'Tcop has spawned a 'NPC [451][npc_citizen]'.
+[17:49:35	]Sho'Tcop has fired a toolgun with the name: creator
+[17:49:35	]Sho'Tcop has spawned a 'NPC [453][npc_citizen]'.
+[17:49:36	]Sho'Tcop has fired a toolgun with the name: creator
+[17:49:36	]Sho'Tcop has spawned a 'NPC [455][npc_citizen]'.
+[17:49:37	]Sho'Tcop has fired a toolgun with the name: creator
+[17:49:37	]Sho'Tcop has spawned a 'NPC [458][npc_citizen]'.
+[17:49:38	]Sho'Tcop has fired a toolgun with the name: creator
+[17:49:38	]Sho'Tcop has spawned a 'NPC [477][npc_citizen]'.
+[17:49:45	]Sho'Tcop used command '/SetVortalEnergy sho 100'.
+[17:49:50	][IC] Galungae: AOE.
+[17:50:12	][IC] Sho'Tcop: So technically could wipe out an entire sweep if they're close together.
+[17:50:17	][IC] Galungae: Look.
+[17:50:19	]Galungae entered observer.
+[17:50:23	]Sho'Tcop entered observer.
+[17:50:26	]Galungae has spawned a 'NPC [426][npc_citizen]'.
+[17:50:28	]Sho'Tcop exited observer at their location.
+[17:50:30	]Sho'Tcop entered observer.
+[17:50:31	]Galungae exited observer at their location.
+[17:50:34	]Galungae entered observer.
+[17:50:38	][LOOC] Sho'Tcop: oh dear
+[17:50:41	][LOOC] Galungae: Yep
+[17:50:44	][IC] Galungae: Come!
+[17:50:53	]Galungae has spawned a 'NPC [426][npc_citizen]'.
+[17:50:55	]Galungae has spawned a 'NPC [432][npc_citizen]'.
+[17:50:56	]Sho'Tcop exited observer at their location.
+[17:51:00	]Galungae ran SAM command 'bring' with arguments: 'sho''
+[17:51:05	][IC] Galungae: So.
+[17:51:06	][IC] Galungae: Look.
+[17:51:07	]Galungae exited observer at their location.
+[17:51:19	]Galungae has spawned a 'NPC [448][npc_citizen]'.
+[17:51:34	][IC] Galungae: Ready to sweep CPs.
+[17:51:35	][IC] Galungae: Yes.
+[17:51:41	]Galungae has spawned a 'NPC [426][npc_citizen]'.
+[17:51:42	]Sho'Tcop used command '/SetVortalEnergy sho 100'.
+[17:51:43	]Galungae has spawned a 'NPC [432][npc_citizen]'.
+[17:51:46	]Galungae has used a context menu option with the name: rb655_door_close
+[17:51:59	][IC] Galungae: Works even with door closed.
+[17:52:06	][IC] Galungae: Just hit the door.
+[17:52:07	][IC] Galungae: Xd.
+[17:52:09	][IC] Sho'Tcop: Oh dear.
+[17:52:16	]Galungae has spawned a 'NPC [426][npc_citizen]'.
+[17:52:17	]Galungae has spawned a 'NPC [432][npc_citizen]'.
+[17:52:20	]Galungae has used a context menu option with the name: rb655_door_close
+[17:52:26	]Galungae entered observer.
+[17:52:28	]Sho'Tcop used command '/SetVortalEnergy sho 100'.
+[17:52:33	]Galungae exited observer at their location.
+[17:52:45	]Galungae has spawned a 'NPC [426][npc_citizen]'.
+[17:52:51	][IC] Galungae: Ez.
+[17:53:06	]Galungae has spawned a 'NPC [426][npc_citizen]'.
+[17:53:30	][IC] Galungae: Literally yeeting around mini grnades.
+[17:53:40	][IC] Galungae: PK on btw.
+[17:54:27	][IC] Sho'Tcop: If you use advanced beam however you're then a sitting duck.
+[17:55:17	][IC] Galungae: Ye but it works too with the uh.
+[17:55:19	][IC] Galungae: Regular beam.
+[17:55:23	][IC] Galungae: Which does 95 damage.
+[17:55:24	][IC] Galungae: To HP.
+[17:55:27	][IC] Galungae: Regardless of armor.
+[17:55:28	][IC] Galungae: Sooo.
+[17:55:34	][IC] Galungae: 10x you can kill someone with that.
+[17:55:44	][IC] Galungae: Before ur a shitting dock.
+[17:55:49	][IC] Galungae: Even OTA.
+[17:56:10	][IC] Galungae: I think it is time to remove the special damagetype from the vortbeam.
+[17:56:21	][IC] Galungae: And just have it behave like everything else.
+[17:56:24	][IC] Galungae: First armor then HP.
+[17:56:30	][IC] Sho'Tcop: Right yeah.
+[17:56:38	][IC] Galungae: Tho what is fair.
+[17:56:46	][IC] Galungae: ANything under 150 would make OTA 3 shots.
+[17:57:04	][LOOC] Sho'Tcop: how does logging work now with cs
+[17:57:07	][LOOC] Sho'Tcop: cps
+[17:57:11	][IC] Galungae: Logging?
+[17:57:12	]Kaffee loaded the character 'C24:i1.PATROL-1'
+[17:57:16	]Galungae entered observer.
+[17:57:17	]C24:i1.PATROL-1 is fully healed.
+[17:57:19	]Galungae exited observer at their location.
+[17:57:20	]Galungae entered observer.
+[17:57:20	]Galungae exited observer at their location.
+[17:57:24	][IC] Galungae: Oh.
+[17:57:26	][IC] Galungae: The new datafile.
+[17:57:29	]C24:i1.PATROL-1 is admin-searching Galungae's inventory.
+[17:57:29	]C24:i1.PATROL-1 has used a context menu option with the name: ixviewinventory
+[17:57:31	][IC] Galungae: I have no collar soz.
+[17:57:33	]C24:i1.PATROL-1 has closed Galungae's inventory.
+[17:57:33	][IC] Galungae: 1 sex.
+[17:58:05	]Furret No Furry Asimo created the character 'Captured gelangu'
+[17:58:05	]Furret No Furry Asimo loaded the character 'Captured gelangu'
+[17:58:05	]Captured gelangu has gained a 'Vortigaunt Hooks' #1650267.
+[17:58:05	]Captured gelangu has gained a 'Vortigaunt Shackles' #1650268.
+[17:58:05	]Captured gelangu has gained a 'Vortigaunt Collar' #1650269.
+[17:58:15	][IC] Captured gelangu: Ah...
+[17:58:19	]C24:i1.PATROL-1 is admin-searching Captured gelangu's equip inventory.
+[17:58:19	]C24:i1.PATROL-1 has used a context menu option with the name: ixviewequipinventory
+[17:58:21	]C24:i1.PATROL-1 has closed Captured gelangu's equip inventory.
+[17:58:21	][IC] Captured gelangu: It don't autoequip my shackles.
+[17:58:24	][IC] Captured gelangu: See you in the slums bitch.
+[17:58:34	]Captured gelangu ran 'drop' on item 'Vortigaunt Collar' (#1650269)
+[17:58:34	]Captured gelangu has lost a 'Vortigaunt Collar' #1650269.
+[17:58:37	][IC] Captured gelangu: Behold!
+[17:58:41	]C24:i1.PATROL-1 ran 'take' on item 'Vortigaunt Collar' (#1650269)
+[17:58:41	]C24:i1.PATROL-1 has gained a 'Vortigaunt Collar' #1650269.
+[17:58:52	][IC] C24:i1.PATROL-1: <:: Ok i see now. ::>
+[17:59:05	][IC] C24:i1.PATROL-1: <:: So it documents how many credits you have when hovering over it. ::>
+[17:59:10	]C24:i1.PATROL-1 ran 'drop' on item 'Vortigaunt Collar' (#1650269)
+[17:59:10	]C24:i1.PATROL-1 has lost a 'Vortigaunt Collar' #1650269.
+[17:59:13	]Captured gelangu ran 'take' on item 'Vortigaunt Collar' (#1650269)
+[17:59:13	]Captured gelangu has gained a 'Vortigaunt Collar' #1650269.
+[17:59:46	][IC] C24:i1.PATROL-1: <:: Sweet. ::>
+[17:59:49	][IC] Captured gelangu: 48472.
+[17:59:52	]Kaffee loaded the character 'Sho'Tcop'
+[17:59:53	][IC] Captured gelangu: Do I even still have a datafile.
+[17:59:57	]Sho'Tcop is fully healed.
+[18:00:06	]Captured gelangu used command '/CharGiveFlag ^ u'.
+[18:00:32	]Captured gelangu has given himself a pda.
+[18:00:32	]Captured gelangu has gained a 'Combine PDA' #1650270.
+[18:00:35	]Captured gelangu ran 'Equip' on item 'Combine PDA' (#1650270)
+[18:00:43	]Furret No Furry Asimo loaded the character 'LORD-STEVEN-X'
+[18:00:49	]LORD-STEVEN-X used command '/Datafile 48472'.
+[18:00:54	]LORD-STEVEN-X entered observer.
+[18:00:58	]LORD-STEVEN-X exited observer at their location.
+[18:01:03	][LOOC] LORD-STEVEN-X: Vorts no longer even have a datafile
+[18:01:06	][LOOC] LORD-STEVEN-X: To make notes on them
+[18:01:07	][LOOC] LORD-STEVEN-X: Lmao
+[18:01:15	][LOOC] Sho'Tcop: yeah just talking to clap
+[18:01:23	][IC] Sho'Tcop: Unsure how they'll document them.
+[18:01:41	][IC] LORD-STEVEN-X: I wonder if we're gonna get fake shackles with fake IDs.
+[18:01:53	][IC] LORD-STEVEN-X: Cause then vorts can just be untracable.
+[18:01:56	][IC] LORD-STEVEN-X: Which would be uber cringe.
+[18:02:10	][IC] LORD-STEVEN-X: Hell you cannot even BOL them anymore even if you have their EXACT description 1:1.
+[18:02:28	][IC] Sho'Tcop: The way it works is that vorts cant really be boled anyhow since they should look identical to others.
+[18:02:33	][IC] LORD-STEVEN-X: Tbh I don't like how fucking cuddled vorts are compared to humans in a gameplay style.
+[18:03:06	][IC] Sho'Tcop: Tbh if we're going to be heavily restricting freed vorts, it should be hard to detect one.
+[18:03:30	][IC] LORD-STEVEN-X: Like I find it a little insane that they can whip on fake collars. Walk into Victory, start vortblasting, run into vort housing and then caim "I'm not them" .//Stop metagaming you cannot discern vorts from one another.
+[18:03:53	][IC] LORD-STEVEN-X: Ontop of getting 2 extra attribute points.
+[18:03:55	][IC] LORD-STEVEN-X: Hidden weapons.
+[18:04:01	][IC] LORD-STEVEN-X: No gas.
+[18:04:11	][IC] LORD-STEVEN-X: Like I'd get the gas part, if they didn't have shackles.
+[18:04:19	][IC] LORD-STEVEN-X: Cause they'd only be able to go in the sewers.
+[18:04:22	][IC] LORD-STEVEN-X: But now they get both worlds.
+[18:04:33	][IC] LORD-STEVEN-X: Unlimited time in the sewers and free to enter the city whenever they want.
+[18:04:36	][IC] Sho'Tcop: I think the randomly assigned numbers are connected to an actual character.
+[18:04:45	]Sho'Tcop has given himself a vortigaunt_slave_collar_fake.
+[18:04:45	]Sho'Tcop has gained a 'Vortigaunt Collar (fake)' #1650271.
+[18:04:47	]Sho'Tcop has given himself a vortigaunt_slave_collar_fake.
+[18:04:47	]Sho'Tcop has gained a 'Vortigaunt Collar (fake)' #1650272.
+[18:04:52	][IC] LORD-STEVEN-X: Like it is all small stuff but everything together is just a little auifhgaisfaif.
+[18:04:58	]LORD-STEVEN-X has given himself a vortigaunt_slave_collar_fake.
+[18:04:58	]LORD-STEVEN-X has gained a 'Vortigaunt Collar (fake)' #1650273.
+[18:04:59	]LORD-STEVEN-X has given himself a vortigaunt_slave_collar.
+[18:04:59	]LORD-STEVEN-X has gained a 'Vortigaunt Collar' #1650274.
+[18:05:08	][IC] Sho'Tcop: Nvm.
+[18:05:10	]Sho'Tcop ran 'drop' on item 'Vortigaunt Collar (fake)' (#1650272)
+[18:05:10	]Sho'Tcop has lost a 'Vortigaunt Collar (fake)' #1650272.
+[18:05:10	]Sho'Tcop ran 'drop' on item 'Vortigaunt Collar (fake)' (#1650271)
+[18:05:10	]Sho'Tcop has lost a 'Vortigaunt Collar (fake)' #1650271.
+[18:05:30	][IC] LORD-STEVEN-X: Well, the ammo bar is pretty ok.
+[18:05:39	][IC] LORD-STEVEN-X: Vorts will be kinda fucked in an event where Gms spawn 100 antlions.
+[18:05:59	][IC] Sho'Tcop: Yeah LOL.
+[18:06:08	][IC] Sho'Tcop: Okay so.
+[18:06:29	][IC] Sho'Tcop: Maybe we should say inner city combat cannot happen with vorts unless they are forced to.
+[18:06:53	][IC] LORD-STEVEN-X: Tbh I think we should just hold free vorts to a HIGH standard.
+[18:07:05	][IC] LORD-STEVEN-X: 'Just because it is mechanically possible doesn't mean you should do it'.
+[18:07:08	][IC] LORD-STEVEN-X: Like abusing AOE.
+[18:07:13	][IC] LORD-STEVEN-X: That's just distasteful.
+[18:07:20	][IC] Sho'Tcop: I figured that out when we allowed DOG to be a freed vort.
+[18:07:29	][IC] LORD-STEVEN-X: I understand AOE from a perspective the aiming the beam is aids.
+[18:07:38	][IC] Sho'Tcop: I myself.
+[18:07:51	][IC] Sho'Tcop: Whenever i have been engaged in combat, i have never double tapped as a vort.
+[18:07:55	][IC] Sho'Tcop: It doesn;  t make sense.
+[18:08:01	][IC] LORD-STEVEN-X: I've seen some vorts.
+[18:08:03	][IC] LORD-STEVEN-X: And oh boy.
+[18:08:07	][IC] LORD-STEVEN-X: They are fucking animals.
+[18:08:19	][IC] Sho'Tcop: Imagine if flextern was still around with this update.
+[18:08:34	][IC] LORD-STEVEN-X: His fucking FAZE CLAN edits of shotcopping.
+[18:08:35	][IC] LORD-STEVEN-X: Guh.
+[18:09:00	][IC] LORD-STEVEN-X: Istg we hold OTA to a decently high standard aswell (They keep dissapointing us with their mentality tho).
+[18:09:08	][IC] LORD-STEVEN-X: If vorts become THIS powerful.
+[18:09:15	][IC] LORD-STEVEN-X: Then they too need to be god tier roleplayers.
+[18:09:37	][IC] LORD-STEVEN-X: I wish vorts had the standing of 'Strong respectful aliens'.
+[18:09:38	][IC] LORD-STEVEN-X: And not.
+[18:09:45	][IC] LORD-STEVEN-X: 'Elite shotcoppers'.
+[18:10:27	][IC] Sho'Tcop: We can definitely do that if denuke understands this.
+[18:10:34	][IC] Sho'Tcop: He can be very leniant.
+[18:10:54	][IC] LORD-STEVEN-X: Well.
+[18:11:01	][IC] LORD-STEVEN-X: Today I am going to fuck up some vortigaunts anyways.
+[18:11:02	][IC] LORD-STEVEN-X: So uh.
+[18:11:05	][IC] LORD-STEVEN-X: Let's see how they take it.
+[18:11:11	][IC] LORD-STEVEN-X: If it goes the way I predict it goes.
+[18:11:14	][IC] LORD-STEVEN-X: I'll forever hate vorts.
+[18:11:16	][IC] Sho'Tcop: I am going to metagame this and not log on to my vort.
+[18:11:18	][IC] LORD-STEVEN-X: And become OTA main again.
+[18:11:29	][IC] LORD-STEVEN-X: Nah it is quite tame.
+[18:11:32	][IC] LORD-STEVEN-X: Ur vort lead right.
+[18:11:34	][IC] Sho'Tcop: Yeah.
+[18:11:39	][IC] LORD-STEVEN-X: Ok so we have the 3 names ye.
+[18:11:58	][IC] LORD-STEVEN-X: Ta'DehakaSlaa'un TungakaXih’lach.
+[18:12:09	][IC] Sho'Tcop: As soon as slaaun or dog finished with his raid, i killed him icly and took the body to the bunker.
+[18:12:22	][IC] LORD-STEVEN-X: Nobody told me wardens know IC.
+[18:12:28	][IC] LORD-STEVEN-X: So for all we know at HQ, he's still running around.
+[18:12:50	][IC] Sho'Tcop: I literally gave the body to wallman and pathfinder lol.
+[18:12:59	][IC] LORD-STEVEN-X: Fucking Cengiz.
+[18:13:03	][IC] LORD-STEVEN-X: Pathfinder ain't a warden.
+[18:13:06	][IC] LORD-STEVEN-X: And wallman is a fucking meme.
+[18:13:34	][IC] Sho'Tcop: Literally about 30 mins after that bunker raid, me and a couple of other vorts killed him for being a savage, and took his body back as a peace offering.
+[18:13:35	][IC] LORD-STEVEN-X: Wekk, IC is IC. We'll figure it out that he's already dead when we get there.
+[18:13:41	][LOOC] LORD-STEVEN-X: I know I watched le streem
+[18:14:04	][IC] LORD-STEVEN-X: Anyways, we want those vorts as captives and get them to do some forced labour for us.
+[18:14:13	][IC] LORD-STEVEN-X: I was talked out of killing them.
+[18:14:24	][IC] LORD-STEVEN-X: Which we totally should've but admin faction vs players.
+[18:14:27	][IC] LORD-STEVEN-X: Regardless.
+[18:14:33	][IC] LORD-STEVEN-X: We're sending in a warden squad.
+[18:14:48	][IC] LORD-STEVEN-X: And basically going to 'ask' any vort about the location of those three.
+[18:14:52	][IC] LORD-STEVEN-X: If they co-operate, no issue.
+[18:15:00	][IC] LORD-STEVEN-X: If they don't we'll probably rough them up.
+[18:15:03	][IC] LORD-STEVEN-X: If they start shooting.
+[18:15:06	][IC] LORD-STEVEN-X: We start blasting aswelll.
+[18:15:08	][IC] LORD-STEVEN-X: Very simple.
+[18:15:18	][IC] Sho'Tcop: Tell me oocly if any of them just straight up snitch btw.
+[18:15:25	][IC] LORD-STEVEN-X: LOL.
+[18:15:35	][IC] LORD-STEVEN-X: Regardless.
+[18:15:45	][IC] LORD-STEVEN-X: Depending on the Vort player.
+[18:15:48	][IC] LORD-STEVEN-X: THis can go badly.
+[18:16:02	][IC] LORD-STEVEN-X: I'll make sure to tell the warden ppl to "not shoot unless vorts are CLEARLY" hostile.
+[18:16:20	][IC] Sho'Tcop: Well, lord beckett was pked, so thats one chance of catastrophy out the windowe.
+[18:16:25	][IC] LORD-STEVEN-X: Who the fuck was even the 3rd vort besides dog and alfie.
+[18:16:35	][IC] Sho'Tcop: Dog, alfie and burgerwithonion.
+[18:16:42	][IC] LORD-STEVEN-X: Ok I don't know the 3rd guy.
+[18:16:46	][IC] LORD-STEVEN-X: So that'll all go well.
+[18:16:49	][IC] LORD-STEVEN-X: Alfie is a uhhh.
+[18:17:06	][IC] Sho'Tcop: Third guy didn't even engage in any sort of fight, kinda sat in the corner.
+[18:17:10	][IC] LORD-STEVEN-X: I know.
+[18:17:11	][IC] Sho'Tcop: But still punishable.
+[18:17:14	][IC] LORD-STEVEN-X: But associated.
+[18:17:16	][IC] LORD-STEVEN-X: For all we know.
+[18:17:19	][IC] LORD-STEVEN-X: So he'll have to come.
+[18:17:21	][IC] LORD-STEVEN-X: It's a simple task.
+[18:17:25	][IC] LORD-STEVEN-X: Just help us kill some guard.
+[18:17:29	][IC] LORD-STEVEN-X: And harvest le bugbait.
+[18:17:32	][IC] LORD-STEVEN-X: For the coming arc.
+[18:17:37	][IC] Sho'Tcop: Based.
+[18:17:48	][IC] Sho'Tcop: Attend, now and learn to shepherd antlions with this so-called bug-bait.
+[18:18:11	][IC] LORD-STEVEN-X: I wonder if you could shove bugbait up your ass and command antlions with your fars.
+[18:18:13	][IC] LORD-STEVEN-X: Farts*.
+[18:18:14	][IC] Sho'Tcop: Alfie will probably try fight back btw.
+[18:18:23	][IC] Sho'Tcop: And then whine in a pk appeal.
+[18:18:45	][IC] LORD-STEVEN-X: Well I'll make sure we don't do shit till a vort goes hostile.
+[18:18:45	][IC] Sho'Tcop: Burgerwithonion will probably co operate, he's a good guy.
+[18:18:57	][IC] LORD-STEVEN-X: If we get ganged by multiple vorts we're retreating tho.
+[18:19:00	][IC] LORD-STEVEN-X: And start assassinating.
+[18:19:08	][IC] LORD-STEVEN-X: 2 scared to fight those fucking things in the open.
+[18:19:20	][IC] Sho'Tcop: Atm vorts are weak idc what people say.
+[18:19:32	][IC] LORD-STEVEN-X: In S2RP?
+[18:19:32	][IC] Sho'Tcop: Fighting them outside is your best chance of winning, just move around a lot.
+[18:19:38	][IC] Sho'Tcop: Oh right.
+[18:19:41	][IC] Sho'Tcop: S2rp theyre op.
+[18:19:44	][IC] LORD-STEVEN-X: S2K they'd be a joke.
+[18:19:50	][IC] LORD-STEVEN-X: But it is s2rp.
+[18:20:01	][IC] LORD-STEVEN-X: Gonna have to remind my peeps to "SPREAD THE FUCK OUT".
+[18:20:06	][IC] LORD-STEVEN-X: To avoid 1 vort stomping us all.
+[18:20:23	][IC] Sho'Tcop: Tbh we've seen how cps sweep.
+[18:20:29	][IC] Sho'Tcop: They're scared to spread out.
+[18:20:36	][IC] Sho'Tcop: They're going to get slammed.
+[18:20:48	][IC] LORD-STEVEN-X: I'd love to watch a vort sneak on a roof.
+[18:20:51	][IC] LORD-STEVEN-X: Sweep passes by.
+[18:20:55	][IC] LORD-STEVEN-X: And the vort does a WWE slam.
+[18:21:01	][IC] LORD-STEVEN-X: Right into the sweep.
+[18:21:15	]Sho'Tcop used command '/CharGiveFlag sho q'.
+[18:21:30	]Sho'Tcop used command '/CharTakeFlag sho q'.
+[18:21:31	]LORD-STEVEN-X ran 'Equip' on item 'Machete' (#1646019)
+[18:21:34	]Sho'Tcop used command '/CharGiveFlag sho q'.
+[18:21:35	]LORD-STEVEN-X used command '/ToggleRaise'.
+[18:21:51	]Sho'Tcop used command '/SetVortalEnergy sho 10000000000000000000000'.
+[18:21:56	][IC] LORD-STEVEN-X: Ah.
+[18:22:00	][IC] LORD-STEVEN-X: Let me see if they fixed it.
+[18:22:06	]LORD-STEVEN-X has hit Sho'Tcop dealing 18 damage (CritChance was 0.60).
+[18:22:06	]Sho'Tcop has taken 18 damage from LORD-STEVEN-X.
+[18:22:06	]LORD-STEVEN-X has critically hit Sho'Tcop dealing 36 damage (CritChance was 0.60).
+[18:22:06	]Sho'Tcop has taken 36 damage from LORD-STEVEN-X.
+[18:22:07	]LORD-STEVEN-X has critically hit Sho'Tcop dealing 36 damage (CritChance was 0.60).
+[18:22:07	]Sho'Tcop has taken 36 damage from LORD-STEVEN-X.
+[18:22:10	]LORD-STEVEN-X has hit Sho'Tcop dealing 18 damage (CritChance was 0.60).
+[18:22:10	]Sho'Tcop has taken 18 damage from LORD-STEVEN-X.
+[18:22:10	]LORD-STEVEN-X has critically hit Sho'Tcop dealing 36 damage (CritChance was 0.60).
+[18:22:10	]Sho'Tcop has taken 36 damage from LORD-STEVEN-X.
+[18:22:11	]LORD-STEVEN-X has critically hit Sho'Tcop dealing 36 damage (CritChance was 0.60).
+[18:22:11	]Sho'Tcop has taken 36 damage from LORD-STEVEN-X.
+[18:22:12	]LORD-STEVEN-X has hit Sho'Tcop dealing 18 damage (CritChance was 0.60).
+[18:22:12	]Sho'Tcop has taken 18 damage from LORD-STEVEN-X.
+[18:22:20	]LORD-STEVEN-X has taken 77 damage from Sho'Tcop.
+[18:22:23	]LORD-STEVEN-X is fully healed.
+[18:22:36	][IC] Sho'Tcop: Wtf i can shoot you and have a shield up.
+[18:22:40	]LORD-STEVEN-X has hit Sho'Tcop dealing 18 damage (CritChance was 0.60).
+[18:22:40	]Sho'Tcop was knocked unconscious and is bleeding out.
+[18:22:46	][IC] LORD-STEVEN-X: Only if I get close.
+[18:22:49	]Sho'Tcop ran SAM command 'respawn' with arguments: '^'
+[18:22:52	]Sho'Tcop is fully healed.
+[18:22:58	][IC] LORD-STEVEN-X: New OTA tactic.
+[18:23:06	][IC] LORD-STEVEN-X: Run up to shielded vorts and blast them from close up then run back.
+[18:23:10	][IC] Sho'Tcop: Counterpoint.
+[18:23:12	]LORD-STEVEN-X has taken 40 damage from Sho'Tcop.
+[18:23:13	]LORD-STEVEN-X is fully healed.
+[18:23:17	][IC] LORD-STEVEN-X: Wtf is that range.
+[18:23:21	]Sho'Tcop ran SAM command 'respawn' with arguments: '^'
+[18:23:21	]LORD-STEVEN-X ran SAM command 'hp' with arguments: '^' '100'
+[18:23:23	]LORD-STEVEN-X entered observer.
+[18:23:24	]Sho'Tcop ran SAM command 'goto' with arguments: 'ste'
+[18:23:26	]LORD-STEVEN-X exited observer at their location.
+[18:23:27	]Sho'Tcop entered observer.
+[18:23:28	]Sho'Tcop exited observer at their location.
+[18:23:33	][Y] LORD-STEVEN-X: Stomp.
+[18:23:35	]Sho'Tcop used command '/SetVortalEnergy sho 10000000000000000000000'.
+[18:23:39	]LORD-STEVEN-X has taken 40 damage from Sho'Tcop.
+[18:23:42	][Y] LORD-STEVEN-X: WHY.
+[18:23:47	][Y] LORD-STEVEN-X: WHY IS THE RANGE THAT LONG.
+[18:23:56	][LOOC] Sho'Tcop: pretty sure its a shockwave effect 
+[18:24:08	][IC] LORD-STEVEN-X: Yeah it don't go through walls luckily.
+[18:24:12	][IC] LORD-STEVEN-X: But still.
+[18:24:16	][IC] LORD-STEVEN-X: Across the room is meme.
+[18:24:47	]Furret No Furry Asimo loaded the character 'Galungae'
+[18:24:56	]Galungae used command '/CharGiveFlag ^ q'.
+[18:24:58	]Galungae entered observer.
+[18:24:59	]Sho'Tcop entered observer.
+[18:25:02	]Galungae exited observer at their location.
+[18:25:03	]Galungae entered observer.
+[18:25:03	]Sho'Tcop exited observer at their location.
+[18:25:06	]Galungae exited observer at their location.
+[18:25:08	][IC] Galungae: Behold!
+[18:25:15	]Sho'Tcop has fired a toolgun with the name: creator
+[18:25:15	]Sho'Tcop has spawned a 'NPC [432][npc_turret_floor]'.
+[18:25:17	]Galungae has taken 3 damage from npc_turret_floor.
+[18:25:17	]Galungae has taken 3 damage from npc_turret_floor.
+[18:25:17	]Galungae has taken 3 damage from npc_turret_floor.
+[18:25:17	]Galungae has taken 3 damage from npc_turret_floor.
+[18:25:17	]Galungae has taken 3 damage from npc_turret_floor.
+[18:25:23	]Sho'Tcop has taken 15 damage from Galungae.
+[18:25:23	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:23	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:24	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:24	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:24	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:24	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:24	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:25	]Sho'Tcop entered observer.
+[18:25:25	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:25	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:25	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:25	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:25	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:26	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:26	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:26	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:26	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:26	]Sho'Tcop exited observer at their location.
+[18:25:26	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:27	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:27	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:27	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:27	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:27	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:28	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:28	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:28	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:28	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:28	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:29	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:29	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:29	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:29	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:29	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:30	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:30	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:30	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:30	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:30	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:31	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:31	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:31	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:31	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:31	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:32	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:32	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:32	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:32	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:32	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:33	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:33	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:33	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:33	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:33	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:34	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:34	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:34	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:34	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:34	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:35	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:35	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:35	]Sho'Tcop has taken 1 damage from entityflame.
+[18:25:37	]Galungae has taken 96 damage from Sho'Tcop.
+[18:25:42	][Y] Galungae: Fucking AOE.
+[18:25:54	][IC] Galungae: But yeah.
+[18:25:56	][IC] Galungae: You could just.
+[18:25:58	][IC] Galungae: Put up the shield.
+[18:25:59	][IC] Galungae: Run up.
+[18:26:01	][IC] Galungae: Pyro.
+[18:26:05	]Galungae ran SAM command 'hp' with arguments: '^' '100'
+[18:26:09	][IC] Sho'Tcop: How much does the shielf take.
+[18:26:11	]Sho'Tcop used command '/SetVortalEnergy sho 10000000000000000000000'.
+[18:26:12	]Galungae used command '/AddVortalEnergy ^ 100'.
+[18:26:18	]Galungae ran SAM command 'hp' with arguments: '^' '200'
+[18:26:22	]Galungae is fully healed.
+[18:26:22	]Galungae has spawned a 'NPC [444][npc_metropolice]'.
+[18:26:25	]Galungae has spawned a 'NPC [446][npc_metropolice]'.
+[18:26:25	][IC] Sho'Tcop: You've still got about 15 shots with a shield.
+[18:26:30	]Galungae has spawned a 'NPC [444][npc_metropolice]'.
+[18:26:43	]Sho'Tcop has taken 15 damage from Galungae.
+[18:26:43	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:43	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:43	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:43	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:43	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:44	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:44	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:44	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:44	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:44	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:45	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:45	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:45	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:45	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:45	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:46	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:46	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:46	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:46	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:46	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:47	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:47	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:47	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:47	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:47	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:48	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:48	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:48	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:48	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:48	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:49	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:49	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:49	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:49	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:49	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:50	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:50	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:50	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:50	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:50	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:51	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:51	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:51	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:51	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:51	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:52	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:52	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:52	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:52	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:52	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:53	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:53	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:53	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:53	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:53	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:54	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:54	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:54	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:54	]Sho'Tcop has taken 1 damage from entityflame.
+[18:26:54	]Sho'Tcop has taken 1 damage from entityflame.
+[18:27:01	][IC] Galungae: Meme ability.
+[18:27:07	][IC] Galungae: Shield and then pyro.
+[18:27:22	][IC] Galungae: Though 1 pyro takes like 25 energy.
+[18:27:25	][IC] Sho'Tcop: When is the update being released anyway.
+[18:27:35	][IC] Galungae: When we have big tests on dev.
+[18:27:43	][IC] Galungae: Or when robert becomes impatient and just yeets it on main.
+[18:27:48	]Galungae used command '/AddVortalEnergy ^ 100'.
+[18:28:03	][IC] Sho'Tcop: We should do a playtest tonight, have an s2k fight with vort and ota.
+[18:28:06	][IC] Sho'Tcop: On here.
+[18:28:13	][IC] Galungae: Tonight I need to do the warden stuff.
+[18:28:13	][IC] Galungae: Soz.
+[18:28:19	][IC] Sho'Tcop: Galunga.
+[18:28:27	][IC] Galungae: Or wait.
+[18:28:38	]Sho'Tcop has spawned a 'NPC [433][npc_turret_floor]'.
+[18:28:38	]Galungae has gained level 50 in the Melee skill.
+[18:28:38	]Galungae used command '/CharSkillSet ^ melee 50'.
+[18:28:46	]Galungae entered observer.
+[18:28:50	]Galungae has fired a toolgun with the name: creator
+[18:28:50	]Galungae has spawned a 'NPC [432][npc_metropolice]'.
+[18:28:51	]Galungae has fired a toolgun with the name: creator
+[18:28:51	]Galungae has spawned a 'NPC [435][npc_metropolice]'.
+[18:28:51	]Galungae has fired a toolgun with the name: creator
+[18:28:51	]Galungae has spawned a 'NPC [437][npc_metropolice]'.
+[18:29:00	]Galungae has fired a toolgun with the name: creator
+[18:29:00	]Galungae has spawned a 'NPC [432][npc_metropolice]'.
+[18:29:01	]Galungae has fired a toolgun with the name: creator
+[18:29:01	]Galungae has spawned a 'NPC [435][npc_metropolice]'.
+[18:29:01	]Galungae has fired a toolgun with the name: creator
+[18:29:01	]Galungae has spawned a 'NPC [437][npc_metropolice]'.
+[18:29:01	]Galungae has fired a toolgun with the name: creator
+[18:29:01	]Galungae has spawned a 'NPC [439][npc_metropolice]'.
+[18:29:02	]Galungae has fired a toolgun with the name: creator
+[18:29:02	]Galungae has spawned a 'NPC [444][npc_metropolice]'.
+[18:29:02	]Galungae has fired a toolgun with the name: creator
+[18:29:02	]Galungae has spawned a 'NPC [446][npc_metropolice]'.
+[18:29:03	]Galungae has fired a toolgun with the name: creator
+[18:29:03	]Galungae has spawned a 'NPC [448][npc_metropolice]'.
+[18:29:03	]Galungae has fired a toolgun with the name: creator
+[18:29:03	]Galungae has spawned a 'NPC [454][npc_metropolice]'.
+[18:29:04	]Galungae has fired a toolgun with the name: creator
+[18:29:04	]Galungae has spawned a 'NPC [480][npc_metropolice]'.
+[18:29:07	]Galungae exited observer at their location.
+[18:29:10	]Galungae used command '/ToggleRaise'.
+[18:29:15	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:15	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:15	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:16	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:17	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:17	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:17	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:17	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:17	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:18	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:18	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:19	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:19	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:20	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:21	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:21	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:21	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:21	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:22	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:22	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:22	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:22	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:23	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:23	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:23	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:23	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:23	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:24	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:24	]Galungae has taken 3 damage from npc_metropolice.
+[18:29:39	][OOC] Galungae: Shield + melee for extra meme
+[18:29:42	]Galungae entered observer.
+[18:29:44	]Galungae exited observer at their location.
+[18:29:45	]Sho'Tcop has taken 55 damage from Galungae.
+[18:29:46	]Galungae entered observer.
+[18:29:47	]Galungae exited observer at their location.
+[18:29:57	]Sho'Tcop was knocked unconscious and is bleeding out.
+[18:30:17	][ME] Galungae: hits the sickest teabag
+[18:30:17	]Sho'Tcop ran SAM command 'respawn' with arguments: '^'
+[18:30:21	]Sho'Tcop has taken 40 damage from Galungae.
+[18:30:30	]Galungae used command '/AddVortalEnergy ^ 100'.
+[18:30:36	][Y] Galungae: NERF THIS.
+[18:30:37	]Sho'Tcop was knocked unconscious and is bleeding out.
+[18:30:46	]Sho'Tcop was killed while bleeding out.
+[18:30:46	]Galungae has killed Sho'Tcop with ix_vortslam.
+[18:30:50	]Galungae entered observer.
+[18:30:52	]Kaffee (STEAM_0:0:74662997) has disconnected.
+[18:36:17	]Galungae has gone afk.
+[18:37:40	]Galungae exited observer at their location.
+[18:37:42	]Galungae is no longer afk. Total time spent AFK: 380
+[18:37:51	]Galungae has spawned 'models/props_c17/FurnitureWashingmachine001a.mdl'.
+[18:37:54	]Galungae created a stash (models/props_c17/furniturewashingmachine001a.mdl).
+[18:37:54	]Galungae has used a context menu option with the name: ixcreatestash
+[18:38:02	]Galungae opened the 'Personal Stash 431' stash.
+[18:38:02	]Galungae closed the 'Personal Stash 431' stash.
+[18:38:04	]Galungae opened the 'Personal Stash 431' stash.
+[18:38:31	]Galungae closed the 'Personal Stash 431' stash.
+[18:39:22	]Galungae entered observer.
+[18:39:22	]Galungae exited observer at their location.
+[18:39:22	]Galungae entered observer.
+[18:39:23	]Galungae exited observer at their location.
+[18:39:23	]Galungae entered observer.
+[18:39:23	]Galungae exited observer at their location.
+[18:39:24	]Galungae entered observer.
+[18:39:24	]Galungae exited observer at their location.
+[18:39:25	]Galungae entered observer.
+[18:39:25	]Galungae exited observer at their location.
+[18:39:26	]Galungae entered observer.
+[18:39:26	]Galungae exited observer at their location.
+[18:39:26	]Galungae entered observer.
+[18:39:27	]Galungae exited observer at their location.
+[18:39:27	]Galungae entered observer.
+[18:39:27	]Galungae exited observer at their location.
+[18:39:28	]Galungae entered observer.
+[18:39:29	]Galungae exited observer at their location.
+[18:39:29	]Galungae entered observer.
+[18:39:29	]Galungae exited observer at their location.
+[18:39:30	]Galungae entered observer.
+[18:39:30	]Galungae exited observer at their location.
+[18:39:30	]Galungae entered observer.
+[18:39:31	]Galungae exited observer at their location.
+[18:39:32	]Galungae entered observer.
+[18:39:32	]Galungae exited observer at their location.
+[18:39:32	]Galungae entered observer.
+[18:39:33	]Galungae exited observer at their location.
+[18:39:33	]Galungae entered observer.
+[18:39:33	]Galungae exited observer at their location.
+[18:39:34	]Galungae entered observer.
+[18:39:34	]Galungae exited observer at their location.
+[18:39:34	]Galungae entered observer.
+[18:39:35	]Galungae exited observer at their location.
+[18:39:35	]Galungae entered observer.
+[18:39:36	]Galungae exited observer at their location.
+[18:39:36	]Galungae entered observer.
+[18:39:36	]Galungae exited observer at their location.
+[18:39:37	]Galungae entered observer.
+[18:39:37	]Galungae exited observer at their location.
+[18:39:38	]Galungae entered observer.
+[18:39:38	]Galungae exited observer at their location.
+[18:39:38	]Galungae entered observer.
+[18:39:38	]Galungae exited observer at their location.
+[18:39:39	]Galungae entered observer.
+[18:39:39	]Galungae exited observer at their location.
+[18:39:40	]Galungae entered observer.
+[18:39:40	]Galungae exited observer at their location.
+[18:40:24	]Galungae entered observer.
+[18:40:24	]Galungae exited observer at their location.
+[18:40:25	]Galungae entered observer.
+[18:40:29	]Galungae exited observer at their location.
+[18:40:29	]Galungae entered observer.
+[18:40:32	]Galungae exited observer at their location.
+[18:40:32	]Galungae entered observer.
+[18:40:32	]Galungae exited observer at their location.
+[18:40:33	]Galungae entered observer.
+[18:40:35	]Galungae exited observer at their location.
+[18:45:42	]Galungae has gone afk.
+[18:58:07	]Galungae is fully healed.
+[19:24:57	]Galungae is no longer afk. Total time spent AFK: 2650
+[19:24:58	]Furret No Furry Asimo (STEAM_0:0:58605803) has disconnected.

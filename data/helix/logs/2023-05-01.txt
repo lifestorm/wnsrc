@@ -1,0 +1,64 @@
+[08:17:26	]Mango has connected.
+[08:18:07	]Mango loaded the character 'Nihilanth'
+[08:18:20	]Nihilanth entered observer.
+[08:18:27	]Nihilanth exited observer at their location.
+[08:18:36	][IC] Nihilanth: !bot.
+[08:20:03	]Nihilanth has spawned a 'NPC [84][npc_metropolice]'.
+[08:22:12	]Nihilanth entered observer.
+[08:22:17	]Nihilanth exited observer at their location.
+[08:22:25	][IC] Nihilanth: Cooking.
+[08:23:04	][IC] Nihilanth: Cooking. Forward.
+[08:23:51	]Nihilanth has gained level 50 in the Speed skill.
+[08:23:51	]Nihilanth used command '/CharSkillAdd nihi speed 100'.
+[08:23:56	]Nihilanth used command '/CharSkillAdd nihi strength 100'.
+[08:24:01	]Nihilanth used command '/CharSkillAdd nihi strength 100'.
+[08:24:05	]Nihilanth used command '/CharSkillAdd nihi agility 100'.
+[08:24:09	]Nihilanth used command '/CharSkillAdd nihi dexterity 100'.
+[08:24:20	]Nihilanth used command '/CharSkillAdd nih speed 100'.
+[08:24:25	]Hayden has connected.
+[08:24:35	]Nihilanth ran SAM command 'respawn' with arguments: 'nih'
+[08:24:43	]Nihilanth entered observer.
+[08:24:50	]Nihilanth exited observer at their location.
+[08:25:03	]Nihilanth ran SAM command 'respawn' with arguments: 'nih'
+[08:25:05	][IC] Nihilanth: ~respawn.
+[08:25:26	]Hayden loaded the character 'Hayden'
+[08:25:30	][IC] Nihilanth: Cooking.
+[08:25:31	]Hayden is fully healed.
+[08:25:37	][IC] Hayden: Hii.
+[08:25:39	][IC] Hayden: Hi.
+[08:25:40	][IC] Nihilanth: Cooking. Rave.
+[08:25:44	][IC] Nihilanth: Hiiiiiiii.
+[08:25:49	][IC] Hayden: Vort pants.
+[08:25:59	][IC] Nihilanth: Yes, I am on top of the fashion chain. For I am a mango.
+[08:26:05	][IC] Hayden: Mango eyes.
+[08:26:07	][IC] Nihilanth: Okay so-.
+[08:26:10	][IC] Hayden: Shoot! :).
+[08:26:14	][IC] Nihilanth: If I hit you with a beam it should log.
+[08:26:18	]Hayden has taken 51 damage from Nihilanth.
+[08:26:18	][IC] Hayden: Go for it.
+[08:26:21	]Hayden is fully healed.
+[08:26:22	][IC] Hayden: It did!
+[08:26:29	][IC] Hayden: [SERVER] Hayden has taken 51 damage from Nihilanth.
+[08:26:39	][IC] Nihilanth: Butt that wasn't it :l strange.
+[08:26:44	][IC] Hayden: Oh?
+[08:26:48	][IC] Nihilanth: Maybe it didn't push the update to the server yet.
+[08:26:53	][IC] Hayden: Maybe.
+[08:26:58	][IC] Nihilanth: Aaaaaaaaaaaaaaaaaaaaaaaaaaa.
+[08:27:02	][IC] Nihilanth: I'll try to restart?
+[08:27:06	][IC] Hayden: Sure!
+[12:49:45	]Mango has connected.
+[13:01:20	]Mango loaded the character 'Nihilanth'
+[13:01:45	]Bot01 has connected.
+[13:01:45	]Bot01 loaded the character 'Bot01'
+[13:01:53	]Bot01 has taken 51 damage from Nihilanth.
+[13:01:53	][VORT] Nihilanth has damaged Bot01 for 51 with ix_vortbeam
+[13:05:12	]Mango (STEAM_0:0:544539350) has disconnected.
+[13:05:12	]Bot01 (BOT) has disconnected.
+[17:33:59	]Atle has connected.
+[17:34:44	]Atle loaded the character 'shop employee'
+[17:34:59	]shop employee entered observer.
+[17:35:06	]shop employee exited observer at their location.
+[17:35:12	]shop employee used command '/clothingcreator'.
+[17:40:14	]shop employee has gone afk.
+[17:58:14	]shop employee is no longer afk. Total time spent AFK: 1375
+[17:58:15	]Atle (STEAM_0:0:21027108) has disconnected.

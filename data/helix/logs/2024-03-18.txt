@@ -1,0 +1,1034 @@
+[23:05:28	]Taliazure has connected.
+[23:06:00	]Taliazure loaded the character 'C24:i3.UNION-41'
+[23:06:14	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:06:44	]C24:i3.UNION-41 ran 'Equip' on item 'MP7A1' (#2690983)
+[23:06:45	]C24:i3.UNION-41 ran 'combine' on item '30rnd MP Magazine' (#2690979)
+[23:06:46	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:06:47	]C24:i3.UNION-41 has lost a '30rnd MP Magazine' #2690979.
+[23:08:17	]C24:i3.UNION-41 ran 'take' on item '30rnd MP Magazine' (#2690981)
+[23:08:17	]C24:i3.UNION-41 has gained a '30rnd MP Magazine' #2690981.
+[23:08:29	]C24:i3.UNION-41 has spawned a crossbowammo.
+[23:08:32	]C24:i3.UNION-41 ran 'take' on item 'Crossbow Bolts' (#2690992)
+[23:08:32	]C24:i3.UNION-41 has gained a 'Crossbow Bolts' #2690992.
+[23:08:33	]C24:i3.UNION-41 ran 'drop' on item 'Crossbow Bolts' (#2690992)
+[23:08:33	]C24:i3.UNION-41 has lost a 'Crossbow Bolts' #2690992.
+[23:08:40	]C24:i3.UNION-41 ran 'EquipUn' on item 'MP7A1' (#2690983)
+[23:08:40	]C24:i3.UNION-41 has gained a '30rnd MP Magazine' #2690979.
+[23:08:41	]C24:i3.UNION-41 ran 'EquipUn' on item 'Glock 17' (#2690985)
+[23:08:41	]C24:i3.UNION-41 has gained a '20rnd Glock Magazine' #2690987.
+[23:08:45	]C24:i3.UNION-41 ran 'drop' on item '30rnd MP Magazine' (#2690979)
+[23:08:45	]C24:i3.UNION-41 has lost a '30rnd MP Magazine' #2690979.
+[23:08:46	]C24:i3.UNION-41 ran 'drop' on item 'MP7A1' (#2690983)
+[23:08:46	]C24:i3.UNION-41 has lost a 'MP7A1' #2690983.
+[23:08:46	]C24:i3.UNION-41 ran 'drop' on item '30rnd MP Magazine' (#2690981)
+[23:08:46	]C24:i3.UNION-41 has lost a '30rnd MP Magazine' #2690981.
+[23:08:46	]C24:i3.UNION-41 ran 'drop' on item '20rnd Glock Magazine' (#2690986)
+[23:08:46	]C24:i3.UNION-41 has lost a '20rnd Glock Magazine' #2690986.
+[23:08:46	]C24:i3.UNION-41 ran 'drop' on item '30rnd MP Magazine' (#2690980)
+[23:08:46	]C24:i3.UNION-41 has lost a '30rnd MP Magazine' #2690980.
+[23:09:01	]C24:i3.UNION-41 used command '/CharGiveFlag union-41 pet'.
+[23:09:06	]C24:i3.UNION-41 has fired a toolgun with the name: rope
+[23:09:06	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:09:06	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:09:06	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:09:07	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:09:07	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:09:07	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:09:07	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:09:08	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:09:08	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:09:09	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:09:13	]C24:i3.UNION-41 ran 'Equip' on item 'Glock 17' (#2690985)
+[23:09:14	][IC] C24:i3.UNION-41: <:: Dev. ::>
+[23:09:15	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:09:16	]C24:i3.UNION-41 has lost a '20rnd Glock Magazine' #2690987.
+[23:09:41	]C24:i3.UNION-41 has spawned a bullets_pistol.
+[23:09:42	]C24:i3.UNION-41 has spawned a bullets_pistol.
+[23:09:43	]C24:i3.UNION-41 has spawned a bullets_pistol.
+[23:10:04	]C24:i3.UNION-41 has spawned a magazine_glock.
+[23:10:07	]C24:i3.UNION-41 ran 'take' on item '20rnd Glock Magazine' (#2690996)
+[23:10:07	]C24:i3.UNION-41 has gained a '20rnd Glock Magazine' #2690996.
+[23:10:08	]C24:i3.UNION-41 ran 'take' on item '9mm Pistol Bullets' (#2690993)
+[23:10:08	]C24:i3.UNION-41 has gained a '9mm Pistol Bullets' #2690993.
+[23:10:09	]C24:i3.UNION-41 ran 'take' on item '9mm Pistol Bullets' (#2690995)
+[23:10:09	]C24:i3.UNION-41 has gained a '9mm Pistol Bullets' #2690995.
+[23:10:10	]C24:i3.UNION-41 ran 'take' on item '9mm Pistol Bullets' (#2690994)
+[23:10:10	]C24:i3.UNION-41 has gained a '9mm Pistol Bullets' #2690994.
+[23:10:11	]C24:i3.UNION-41 ran 'combine' on item '20rnd Glock Magazine' (#2690996)
+[23:10:12	]C24:i3.UNION-41 has gained a '20rnd Glock Magazine' #2690987.
+[23:10:12	]C24:i3.UNION-41 has lost a '20rnd Glock Magazine' #2690996.
+[23:10:13	]C24:i3.UNION-41 ran 'combine' on item '20rnd Glock Magazine' (#2690987)
+[23:10:29	]C24:i3.UNION-41 used command '/PlaySong https://www.youtube.com/watch?v=DQByGm2y50Y&ab_channel=stoopy'.
+[23:10:35	]C24:i3.UNION-41 has spawned a 'NPC [5832][npc_zombie]'.
+[23:10:36	]C24:i3.UNION-41 has hit npc_zombie in the head dealing 13 damage (CritChance was 0.13).
+[23:10:46	]C24:i3.UNION-41 has critically hit npc_zombie in the chest dealing 13 damage (CritChance was 0.40).
+[23:10:49	]C24:i3.UNION-41 has hit npc_zombie in the left arm dealing 5 damage (CritChance was 0.40).
+[23:10:56	][IC] C24:i3.UNION-41: <:: Why is this not accurate. ::>
+[23:11:02	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:11:06	]C24:i3.UNION-41 has hit npc_zombie in the chest dealing 10 damage (CritChance was 0.40).
+[23:11:07	]C24:i3.UNION-41 has critically hit npc_zombie in the chest dealing 13 damage (CritChance was 0.40).
+[23:11:10	]C24:i3.UNION-41 has gained a '20rnd Glock Magazine' #2690996.
+[23:11:10	]C24:i3.UNION-41 has lost a '20rnd Glock Magazine' #2690987.
+[23:11:17	]C24:i3.UNION-41 has hit npc_zombie in the right leg dealing 5 damage (CritChance was 0.30).
+[23:11:17	]C24:i3.UNION-41 has hit npc_zombie in the right leg dealing 5 damage (CritChance was 0.30).
+[23:11:27	]C24:i3.UNION-41 has hit npc_zombie in the chest dealing 10 damage (CritChance was 0.29).
+[23:11:30	]C24:i3.UNION-41 has critically hit npc_headcrab dealing 10 damage (CritChance was 0.49).
+[23:11:49	]C24:i3.UNION-41 has spawned 'models/props_interiors/refrigeratorDoor01a.mdl'.
+[23:11:57	]C24:i3.UNION-41 has spawned 'models/props_junk/PopCan01a.mdl'.
+[23:12:03	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:12:12	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:12:15	]C24:i3.UNION-41 has gained a '20rnd Glock Magazine' #2690987.
+[23:12:15	]C24:i3.UNION-41 has lost a '20rnd Glock Magazine' #2690996.
+[23:12:27	][IC] C24:i3.UNION-41: <:: EH?! ::>
+[23:12:30	][IC] C24:i3.UNION-41: <:: WHAT?! ::>
+[23:12:40	][IC] C24:i3.UNION-41: <:: WHAAAAT?! ::>
+[23:12:56	]C24:i3.UNION-41 has gained a '20rnd Glock Magazine' #2690996.
+[23:12:56	]C24:i3.UNION-41 has lost a '20rnd Glock Magazine' #2690987.
+[23:14:00	]C24:i3.UNION-41 ran 'combine' on item '20rnd Glock Magazine' (#2690996)
+[23:14:01	]C24:i3.UNION-41 ran 'combine' on item '20rnd Glock Magazine' (#2690996)
+[23:14:01	]C24:i3.UNION-41 has gained a '20rnd Glock Magazine' #2690987.
+[23:14:01	]C24:i3.UNION-41 has lost a '20rnd Glock Magazine' #2690996.
+[23:19:29	]C24:i3.UNION-41 ran 'EquipUn' on item 'Glock 17' (#2690985)
+[23:19:29	]C24:i3.UNION-41 has gained a '20rnd Glock Magazine' #2690996.
+[23:19:29	]C24:i3.UNION-41 ran 'drop' on item 'Glock 17' (#2690985)
+[23:19:29	]C24:i3.UNION-41 has lost a 'Glock 17' #2690985.
+[23:19:30	]C24:i3.UNION-41 ran 'drop' on item '20rnd Glock Magazine' (#2690987)
+[23:19:30	]C24:i3.UNION-41 has lost a '20rnd Glock Magazine' #2690987.
+[23:19:31	]C24:i3.UNION-41 ran 'drop' on item '20rnd Glock Magazine' (#2690996)
+[23:19:31	]C24:i3.UNION-41 has lost a '20rnd Glock Magazine' #2690996.
+[23:19:43	][IC] C24:i3.UNION-41: <:: Ferlk. ::>
+[23:20:05	]C24:i3.UNION-41 has spawned a 'NPC [5842][npc_metropolice]'.
+[23:20:05	]C24:i3.UNION-41 has taken 0 damage from npc_metropolice.
+[23:20:12	]C24:i3.UNION-41 has spawned a 'NPC [5842][npc_metropolice]'.
+[23:20:17	]C24:i3.UNION-41 ran 'take' on item 'Glock 17' (#2690985)
+[23:20:17	]C24:i3.UNION-41 has gained a 'Glock 17' #2690985.
+[23:20:18	]C24:i3.UNION-41 ran 'take' on item '20rnd Glock Magazine' (#2690996)
+[23:20:18	]C24:i3.UNION-41 has gained a '20rnd Glock Magazine' #2690996.
+[23:20:19	]C24:i3.UNION-41 ran 'take' on item '20rnd Glock Magazine' (#2690987)
+[23:20:19	]C24:i3.UNION-41 has gained a '20rnd Glock Magazine' #2690987.
+[23:20:27	][IC] C24:i3.UNION-41: <:: Wich NPC is more closer to a player? ::>
+[23:20:29	]C24:i3.UNION-41 ran 'combine' on item '20rnd Glock Magazine' (#2690996)
+[23:20:30	]C24:i3.UNION-41 ran 'combine' on item '20rnd Glock Magazine' (#2690987)
+[23:20:30	]C24:i3.UNION-41 ran 'Equip' on item 'Glock 17' (#2690985)
+[23:20:31	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:20:32	]C24:i3.UNION-41 has lost a '20rnd Glock Magazine' #2690996.
+[23:20:38	]C24:i3.UNION-41 has hit npc_metropolice in the chest dealing 10 damage (CritChance was 0.40).
+[23:20:38	]C24:i3.UNION-41 has hit npc_metropolice in the chest dealing 10 damage (CritChance was 0.40).
+[23:20:39	]C24:i3.UNION-41 has critically hit npc_metropolice in the chest dealing 13 damage (CritChance was 0.40).
+[23:20:39	]C24:i3.UNION-41 has critically hit npc_metropolice in the chest dealing 13 damage (CritChance was 0.40).
+[23:20:48	]C24:i3.UNION-41 has gained a '20rnd Glock Magazine' #2690996.
+[23:20:48	]C24:i3.UNION-41 has lost a '20rnd Glock Magazine' #2690987.
+[23:21:25	][IC] C24:i3.UNION-41: <:: Flerk. ::>
+[23:21:29	][IC] C24:i3.UNION-41: <:: Wana help me ? ::>
+[23:21:34	]C24:i3.UNION-41 ran 'EquipUn' on item 'Glock 17' (#2690985)
+[23:21:34	]C24:i3.UNION-41 has gained a '20rnd Glock Magazine' #2690987.
+[23:21:38	]C24:i3.UNION-41 has spawned a res_mini14.
+[23:21:39	]C24:i3.UNION-41 ran 'take' on item 'Mini-14' (#2690997)
+[23:21:39	]C24:i3.UNION-41 has gained a 'Mini-14' #2690997.
+[23:21:49	]C24:i3.UNION-41 has spawned a magazine_mini14.
+[23:21:53	]C24:i3.UNION-41 has spawned a bullets_assaultrifle.
+[23:21:53	]C24:i3.UNION-41 has spawned a bullets_assaultrifle.
+[23:21:54	]C24:i3.UNION-41 has spawned a bullets_assaultrifle.
+[23:21:56	]C24:i3.UNION-41 ran 'take' on item 'Assault Rifle Bullets' (#2691000)
+[23:21:56	]C24:i3.UNION-41 has gained a 'Assault Rifle Bullets' #2691000.
+[23:21:56	]C24:i3.UNION-41 ran 'take' on item 'Assault Rifle Bullets' (#2690999)
+[23:21:56	]C24:i3.UNION-41 has gained a 'Assault Rifle Bullets' #2690999.
+[23:21:57	]C24:i3.UNION-41 ran 'take' on item 'Assault Rifle Bullets' (#2691001)
+[23:21:57	]C24:i3.UNION-41 has gained a 'Assault Rifle Bullets' #2691001.
+[23:21:58	]C24:i3.UNION-41 ran 'take' on item '20rnd Mini-14 Magazine' (#2690998)
+[23:21:58	]C24:i3.UNION-41 has gained a '20rnd Mini-14 Magazine' #2690998.
+[23:21:59	]C24:i3.UNION-41 ran 'Equip' on item 'Mini-14' (#2690997)
+[23:22:17	]C24:i3.UNION-41 has spawned a magazine_mini14.
+[23:22:19	]C24:i3.UNION-41 ran 'take' on item '20rnd Mini-14 Magazine' (#2691002)
+[23:22:19	]C24:i3.UNION-41 has gained a '20rnd Mini-14 Magazine' #2691002.
+[23:22:19	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:22:21	]C24:i3.UNION-41 ran 'combine' on item '20rnd Mini-14 Magazine' (#2690998)
+[23:22:21	]C24:i3.UNION-41 ran 'combine' on item '20rnd Mini-14 Magazine' (#2691002)
+[23:22:22	]C24:i3.UNION-41 has lost a '20rnd Mini-14 Magazine' #2691002.
+[23:22:39	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:22:39	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:22:40	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:22:40	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:22:40	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:22:40	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:22:45	]C24:i3.UNION-41 has spawned 'models/props_interiors/refrigerator01a.mdl'.
+[23:22:54	]C24:i3.UNION-41 has spawned 'models/props_junk/PopCan01a.mdl'.
+[23:22:57	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:23:15	][IC] C24:i3.UNION-41: <:: I need someone to help me ch- yes. ::>
+[23:23:31	][IC] C24:i3.UNION-41: <:: I got it. ::>
+[23:23:32	][IC] C24:i3.UNION-41: <:: Already. ::>
+[23:23:33	]C24:i3.UNION-41 has gained a '20rnd Mini-14 Magazine' #2691002.
+[23:23:33	]C24:i3.UNION-41 has lost a '20rnd Mini-14 Magazine' #2690998.
+[23:23:46	][IC] C24:i3.UNION-41: <:: Omg I will get wet if I use the m16. ::>
+[23:23:48	]C24:i3.UNION-41 ran 'EquipUn' on item 'Mini-14' (#2690997)
+[23:23:48	]C24:i3.UNION-41 has gained a '20rnd Mini-14 Magazine' #2690998.
+[23:23:51	][IC] C24:i3.UNION-41: <:: I love that gun. ::>
+[23:24:06	]C24:i3.UNION-41 has spawned a gen_m16.
+[23:24:08	]C24:i3.UNION-41 ran 'take' on item 'M16A2' (#2691003)
+[23:24:08	]C24:i3.UNION-41 has gained a 'M16A2' #2691003.
+[23:24:09	]C24:i3.UNION-41 ran 'Equip' on item 'M16A2' (#2691003)
+[23:24:13	]C24:i3.UNION-41 has spawned a magazine_m16.
+[23:24:13	]C24:i3.UNION-41 has spawned a magazine_m16.
+[23:24:15	]C24:i3.UNION-41 ran 'take' on item '30rnd M16 Magazine' (#2691004)
+[23:24:15	]C24:i3.UNION-41 has gained a '30rnd M16 Magazine' #2691004.
+[23:24:16	]C24:i3.UNION-41 ran 'take' on item '30rnd M16 Magazine' (#2691005)
+[23:24:16	]C24:i3.UNION-41 has gained a '30rnd M16 Magazine' #2691005.
+[23:24:17	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:24:32	]C24:i3.UNION-41 ran 'combine' on item '30rnd M16 Magazine' (#2691005)
+[23:24:33	]C24:i3.UNION-41 ran 'combine' on item 'Assault Rifle Bullets' (#2691000)
+[23:24:34	]C24:i3.UNION-41 ran 'combine' on item '30rnd M16 Magazine' (#2691004)
+[23:24:35	]C24:i3.UNION-41 ran 'combine' on item '30rnd M16 Magazine' (#2691005)
+[23:24:35	]C24:i3.UNION-41 has lost a '30rnd M16 Magazine' #2691004.
+[23:25:10	][IC] C24:i3.UNION-41: <:: No one uses burst. ::>
+[23:25:18	]C24:i3.UNION-41 has gained a '30rnd M16 Magazine' #2691004.
+[23:25:18	]C24:i3.UNION-41 has lost a '30rnd M16 Magazine' #2691005.
+[23:25:33	][IC] C24:i3.UNION-41: <:: How do I free the attachments. ::>
+[23:25:35	]C24:i3.UNION-41 ran 'EquipUn' on item 'M16A2' (#2691003)
+[23:25:35	]C24:i3.UNION-41 has gained a '30rnd M16 Magazine' #2691005.
+[23:25:43	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:26:03	][IC] C24:i3.UNION-41: <:: Putain. ::>
+[23:26:17	]C24:i3.UNION-41 has spawned a scope_eft_acog4x32.
+[23:26:18	]C24:i3.UNION-41 ran 'take' on item 'ACOG TA01NSN' (#2691006)
+[23:26:18	]C24:i3.UNION-41 has gained a 'ACOG TA01NSN' #2691006.
+[23:26:32	]C24:i3.UNION-41 has spawned a attn_acog.
+[23:26:33	]C24:i3.UNION-41 ran 'take' on item 'ACOG' (#2691007)
+[23:26:33	]C24:i3.UNION-41 has gained a 'ACOG' #2691007.
+[23:26:49	]C24:i3.UNION-41 has spawned a attn_acog.
+[23:26:50	]C24:i3.UNION-41 ran 'take' on item 'ACOG' (#2691008)
+[23:26:50	]C24:i3.UNION-41 has gained a 'ACOG' #2691008.
+[23:27:21	]C24:i3.UNION-41 has spawned a uc_optic_elcan.
+[23:27:23	]C24:i3.UNION-41 ran 'take' on item 'ELCAN C79 (2.5x)' (#2691009)
+[23:27:23	]C24:i3.UNION-41 has gained a 'ELCAN C79 (2.5x)' #2691009.
+[23:28:48	]C24:i3.UNION-41 has spawned a uc_optic_acog.
+[23:28:49	]C24:i3.UNION-41 ran 'take' on item 'Trijicon Advanced Combat Optical Gunsight (4x)' (#2691010)
+[23:28:49	]C24:i3.UNION-41 has gained a 'Trijicon Advanced Combat Optical Gunsight (4x)' #2691010.
+[23:28:52	]C24:i3.UNION-41 has spawned a uc_optic_trijicon_tars.
+[23:28:53	]C24:i3.UNION-41 ran 'take' on item 'Trijicon Tactical Advanced Riflescope (3-8x)' (#2691011)
+[23:28:53	]C24:i3.UNION-41 has gained a 'Trijicon Tactical Advanced Riflescope (3-8x)' #2691011.
+[23:29:23	][IC] C24:i3.UNION-41: <:: This is burst. ::>
+[23:29:25	]Dej has connected.
+[23:29:30	][IC] C24:i3.UNION-41: <:: And this is my finger. ::>
+[23:29:37	][IC] C24:i3.UNION-41: <:: HAHAHAHAH. ::>
+[23:29:43	][IC] C24:i3.UNION-41: <:: GET SOME. ::>
+[23:29:50	][IC] C24:i3.UNION-41: <:: Vietnam. ::>
+[23:29:57	][IC] C24:i3.UNION-41: <:: I lvoe this gun SO MUCH. ::>
+[23:30:06	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:30:14	][IC] C24:i3.UNION-41: <:: My country's gun. ::>
+[23:30:38	]Dej loaded the character 'S10/ORD.MONARCH-10'
+[23:31:02	][OOC] S10/ORD.MONARCH-10: what in the fuk
+[23:31:06	]S10/ORD.MONARCH-10 used the '<:: Overwatch Requisition ::>' vendor.
+[23:31:13	]C24:i3.UNION-41 has spawned a ur_aw_stock_ru_rubber.
+[23:31:14	]C24:i3.UNION-41 ran 'take' on item 'Magpul UBR GEN2 Stock (Rubberized)' (#2691012)
+[23:31:14	]C24:i3.UNION-41 has gained a 'Magpul UBR GEN2 Stock (Rubberized)' #2691012.
+[23:31:18	]S10/ORD.MONARCH-10 is fully healed.
+[23:31:22	]C24:i3.UNION-41 has spawned a ar15_magpul_barrel.
+[23:31:23	]C24:i3.UNION-41 ran 'take' on item 'Magpul Handguard' (#2691013)
+[23:31:23	]C24:i3.UNION-41 has gained a 'Magpul Handguard' #2691013.
+[23:31:33	]C24:i3.UNION-41 has spawned a uc_grip_mafg2.
+[23:31:34	]C24:i3.UNION-41 ran 'take' on item 'MAGPUL AFG-2 Angled Fore Grip' (#2691014)
+[23:31:34	]C24:i3.UNION-41 has gained a 'MAGPUL AFG-2 Angled Fore Grip' #2691014.
+[23:32:19	]C24:i3.UNION-41 has spawned a uc_tp_gong.
+[23:32:20	]C24:i3.UNION-41 ran 'take' on item 'Action Hero' (#2691015)
+[23:32:20	]C24:i3.UNION-41 has gained a 'Action Hero' #2691015.
+[23:32:28	][IC] C24:i3.UNION-41: <:: One handed. ::>
+[23:32:42	][OOC] S10/ORD.MONARCH-10: talia where tf r u
+[23:32:48	][OOC] C24:i3.UNION-41: trainstation
+[23:32:54	]C24:i3.UNION-41 has spawned a uc_tp_gang.
+[23:32:55	]C24:i3.UNION-41 ran 'take' on item 'Homeboy' (#2691016)
+[23:32:55	]C24:i3.UNION-41 has gained a 'Homeboy' #2691016.
+[23:33:01	][IC] C24:i3.UNION-41: <:: Ain't no way vuh. ::>
+[23:33:03	][OOC] S10/ORD.MONARCH-10: why does the PPSH have an mp5 model
+[23:33:08	]S10/ORD.MONARCH-10 ran 'take' on item 'PPSH-41' (#2687416)
+[23:33:08	]S10/ORD.MONARCH-10 has gained a 'PPSH-41' #2687416.
+[23:33:09	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:33:09	]S10/ORD.MONARCH-10 ran 'Equip' on item 'PPSH-41' (#2687416)
+[23:33:10	]S10/ORD.MONARCH-10 used command '/ToggleRaise'.
+[23:33:13	]S10/ORD.MONARCH-10 used the 'John Doe' vendor.
+[23:33:19	]S10/ORD.MONARCH-10 ran 'drop' on item 'PPSH-41' (#2687416)
+[23:33:19	]S10/ORD.MONARCH-10 has lost a 'PPSH-41' #2687416.
+[23:33:24	][IC] C24:i3.UNION-41: <:: AINT NO WAY CUH. ::>
+[23:33:35	][IC] C24:i3.UNION-41: <:: SQUARE UP HOMIE. ::>
+[23:34:11	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:34:15	][OOC] S10/ORD.MONARCH-10: guh i need to find someone that can give me staff perms
+[23:34:51	][IC] C24:i3.UNION-41: <:: !tp dej me. ::>
+[23:34:55	][IC] C24:i3.UNION-41: <:: !tp dej. ::>
+[23:35:09	][IC] C24:i3.UNION-41: <:: Listen it's a long time Ihavent used ULX. ::>
+[23:35:26	][IC] S10/ORD.MONARCH-10: <:: E. ::>
+[23:35:46	][IC] C24:i3.UNION-41: <:: Alright- jesus you're huge. ::>
+[23:35:47	][IC] C24:i3.UNION-41: <:: Dadyd. ::>
+[23:35:51	][IC] S10/ORD.MONARCH-10: <:: :skull:. ::>
+[23:35:54	]C24:i3.UNION-41 has hit S10/ORD.MONARCH-10 dealing 27 damage (CritChance was 0.47).
+[23:35:54	]S10/ORD.MONARCH-10 has taken 27 damage from C24:i3.UNION-41.
+[23:35:54	]C24:i3.UNION-41 has hit S10/ORD.MONARCH-10 dealing 27 damage (CritChance was 0.47).
+[23:35:54	]S10/ORD.MONARCH-10 has taken 27 damage from C24:i3.UNION-41.
+[23:35:55	][IC] S10/ORD.MONARCH-10: <:: Whats that, the 329P? ::>
+[23:35:57	][IC] C24:i3.UNION-41: <:: ... ::>
+[23:35:58	]S10/ORD.MONARCH-10 is fully healed.
+[23:36:00	][IC] C24:i3.UNION-41: <:: 2 x 10 dmg. ::>
+[23:36:08	][IC] S10/ORD.MONARCH-10: <:: No penetration. ::>
+[23:36:08	]C24:i3.UNION-41 has hit S10/ORD.MONARCH-10 dealing 27 damage (CritChance was 0.47).
+[23:36:08	]S10/ORD.MONARCH-10 has taken 27 damage from C24:i3.UNION-41.
+[23:36:08	]C24:i3.UNION-41 has hit S10/ORD.MONARCH-10 dealing 27 damage (CritChance was 0.47).
+[23:36:08	]S10/ORD.MONARCH-10 has taken 27 damage from C24:i3.UNION-41.
+[23:36:11	]C24:i3.UNION-41 has hit S10/ORD.MONARCH-10 dealing 27 damage (CritChance was 0.47).
+[23:36:11	]S10/ORD.MONARCH-10 has taken 27 damage from C24:i3.UNION-41.
+[23:36:11	]C24:i3.UNION-41 has hit S10/ORD.MONARCH-10 dealing 27 damage (CritChance was 0.47).
+[23:36:11	]S10/ORD.MONARCH-10 has taken 27 damage from C24:i3.UNION-41.
+[23:36:11	]C24:i3.UNION-41 has hit S10/ORD.MONARCH-10 dealing 27 damage (CritChance was 0.47).
+[23:36:11	]S10/ORD.MONARCH-10 has taken 27 damage from C24:i3.UNION-41.
+[23:36:13	]S10/ORD.MONARCH-10 is fully healed.
+[23:36:14	]C24:i3.UNION-41 has hit S10/ORD.MONARCH-10 dealing 27 damage (CritChance was 0.47).
+[23:36:14	]S10/ORD.MONARCH-10 has taken 27 damage from C24:i3.UNION-41.
+[23:36:14	]C24:i3.UNION-41 has hit S10/ORD.MONARCH-10 dealing 27 damage (CritChance was 0.47).
+[23:36:14	]S10/ORD.MONARCH-10 has taken 27 damage from C24:i3.UNION-41.
+[23:36:15	]C24:i3.UNION-41 has critically hit S10/ORD.MONARCH-10 dealing 36 damage (CritChance was 0.47).
+[23:36:15	]S10/ORD.MONARCH-10 has taken 36 damage from C24:i3.UNION-41.
+[23:36:15	]C24:i3.UNION-41 has hit S10/ORD.MONARCH-10 dealing 27 damage (CritChance was 0.47).
+[23:36:15	]S10/ORD.MONARCH-10 has taken 27 damage from C24:i3.UNION-41.
+[23:36:16	]C24:i3.UNION-41 has hit S10/ORD.MONARCH-10 dealing 27 damage (CritChance was 0.72).
+[23:36:16	]S10/ORD.MONARCH-10 has taken 27 damage from C24:i3.UNION-41.
+[23:36:16	]C24:i3.UNION-41 has hit S10/ORD.MONARCH-10 dealing 27 damage (CritChance was 0.72).
+[23:36:16	]S10/ORD.MONARCH-10 has taken 27 damage from C24:i3.UNION-41.
+[23:36:19	]C24:i3.UNION-41 has hit S10/ORD.MONARCH-10 dealing 27 damage (CritChance was 0.72).
+[23:36:19	]S10/ORD.MONARCH-10 has taken 27 damage from C24:i3.UNION-41.
+[23:36:19	]C24:i3.UNION-41 has hit S10/ORD.MONARCH-10 dealing 27 damage (CritChance was 0.72).
+[23:36:19	]S10/ORD.MONARCH-10 has taken 27 damage from C24:i3.UNION-41.
+[23:36:27	][IC] C24:i3.UNION-41: <:: This is so dumb uugh. ::>
+[23:36:29	]C24:i3.UNION-41 has critically hit S10/ORD.MONARCH-10 dealing 36 damage (CritChance was 0.72).
+[23:36:29	]S10/ORD.MONARCH-10 was knocked unconscious and is bleeding out.
+[23:36:43	][IC] C24:i3.UNION-41: <:: Right. ::>
+[23:36:43	]S10/ORD.MONARCH-10 is fully healed.
+[23:36:45	][IC] C24:i3.UNION-41: <:: So Dej. ::>
+[23:36:45	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:36:51	][IC] C24:i3.UNION-41: <:: Let's start by the pistols. ::>
+[23:36:55	][IC] S10/ORD.MONARCH-10: <:: K. ::>
+[23:37:04	][IC] C24:i3.UNION-41: <:: I wana check how long it takes to kill a citizen then a rebel then a CP and a OTA. ::>
+[23:37:05	][IC] C24:i3.UNION-41: <:: Is that ok? ::>
+[23:37:07	]C24:i3.UNION-41 ran 'drop' on item 'Mini-14' (#2690997)
+[23:37:07	]C24:i3.UNION-41 has lost a 'Mini-14' #2690997.
+[23:37:08	]C24:i3.UNION-41 ran 'drop' on item 'M16A2' (#2691003)
+[23:37:08	]C24:i3.UNION-41 has lost a 'M16A2' #2691003.
+[23:37:08	]C24:i3.UNION-41 ran 'drop' on item '#75869's Identity Card' (#2322966)
+[23:37:08	]C24:i3.UNION-41 has lost a '#75869's Identity Card' #2322966.
+[23:37:08	]C24:i3.UNION-41 ran 'drop' on item '20rnd Mini-14 Magazine' (#2691002)
+[23:37:08	]C24:i3.UNION-41 has lost a '20rnd Mini-14 Magazine' #2691002.
+[23:37:09	]C24:i3.UNION-41 ran 'drop' on item 'Magpul UBR GEN2 Stock (Rubberized)' (#2691012)
+[23:37:09	]C24:i3.UNION-41 has lost a 'Magpul UBR GEN2 Stock (Rubberized)' #2691012.
+[23:37:09	]C24:i3.UNION-41 ran 'drop' on item '20rnd Glock Magazine' (#2690987)
+[23:37:09	]C24:i3.UNION-41 has lost a '20rnd Glock Magazine' #2690987.
+[23:37:09	]C24:i3.UNION-41 ran 'drop' on item '20rnd Glock Magazine' (#2690996)
+[23:37:09	]C24:i3.UNION-41 has lost a '20rnd Glock Magazine' #2690996.
+[23:37:09	]C24:i3.UNION-41 ran 'drop' on item 'Glock 17' (#2690985)
+[23:37:09	]C24:i3.UNION-41 has lost a 'Glock 17' #2690985.
+[23:37:10	]C24:i3.UNION-41 ran 'drop' on item 'ACOG' (#2691007)
+[23:37:10	]C24:i3.UNION-41 has lost a 'ACOG' #2691007.
+[23:37:10	]C24:i3.UNION-41 ran 'drop' on item 'Magpul Handguard' (#2691013)
+[23:37:10	]C24:i3.UNION-41 has lost a 'Magpul Handguard' #2691013.
+[23:37:10	]C24:i3.UNION-41 ran 'drop' on item '30rnd M16 Magazine' (#2691005)
+[23:37:10	]C24:i3.UNION-41 has lost a '30rnd M16 Magazine' #2691005.
+[23:37:11	]C24:i3.UNION-41 ran 'drop' on item 'ACOG' (#2691008)
+[23:37:11	]C24:i3.UNION-41 has lost a 'ACOG' #2691008.
+[23:37:11	]C24:i3.UNION-41 ran 'drop' on item 'Repair Plating' (#2292281)
+[23:37:11	]C24:i3.UNION-41 has lost a 'Repair Plating' #2292281.
+[23:37:11	][IC] S10/ORD.MONARCH-10: <:: Ok. ::>
+[23:37:11	]C24:i3.UNION-41 ran 'drop' on item 'ACOG TA01NSN' (#2691006)
+[23:37:11	]C24:i3.UNION-41 has lost a 'ACOG TA01NSN' #2691006.
+[23:37:11	]C24:i3.UNION-41 ran 'drop' on item 'Trijicon Tactical Advanced Riflescope (3-8x)' (#2691011)
+[23:37:11	]C24:i3.UNION-41 has lost a 'Trijicon Tactical Advanced Riflescope (3-8x)' #2691011.
+[23:37:12	]C24:i3.UNION-41 ran 'drop' on item '20rnd Mini-14 Magazine' (#2690998)
+[23:37:12	]C24:i3.UNION-41 has lost a '20rnd Mini-14 Magazine' #2690998.
+[23:37:12	]C24:i3.UNION-41 ran 'drop' on item 'Homeboy' (#2691016)
+[23:37:12	]C24:i3.UNION-41 has lost a 'Homeboy' #2691016.
+[23:37:12	]C24:i3.UNION-41 ran 'drop' on item 'MAGPUL AFG-2 Angled Fore Grip' (#2691014)
+[23:37:12	]C24:i3.UNION-41 has lost a 'MAGPUL AFG-2 Angled Fore Grip' #2691014.
+[23:37:12	]C24:i3.UNION-41 ran 'drop' on item '30rnd M16 Magazine' (#2691004)
+[23:37:12	]C24:i3.UNION-41 has lost a '30rnd M16 Magazine' #2691004.
+[23:37:12	]C24:i3.UNION-41 ran 'drop' on item 'ELCAN C79 (2.5x)' (#2691009)
+[23:37:12	]C24:i3.UNION-41 has lost a 'ELCAN C79 (2.5x)' #2691009.
+[23:37:13	]C24:i3.UNION-41 ran 'drop' on item 'Trijicon Advanced Combat Optical Gunsight (4x)' (#2691010)
+[23:37:13	]C24:i3.UNION-41 has lost a 'Trijicon Advanced Combat Optical Gunsight (4x)' #2691010.
+[23:37:13	]C24:i3.UNION-41 ran 'drop' on item 'Action Hero' (#2691015)
+[23:37:13	]C24:i3.UNION-41 has lost a 'Action Hero' #2691015.
+[23:37:17	][IC] S10/ORD.MONARCH-10: <:: My hp is at 125. ::>
+[23:37:17	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:17	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:18	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:18	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:18	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:18	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:18	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:19	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:19	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:19	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:19	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:19	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:20	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:20	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:20	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:20	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:20	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:20	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:21	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:21	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:21	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:21	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:23	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:23	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:23	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:23	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:24	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:24	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:24	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:24	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:24	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:24	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:25	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:25	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:25	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:25	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:25	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:25	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:26	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:26	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:26	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:26	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:26	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:26	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:27	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:27	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:27	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:27	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:27	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:28	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:28	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:28	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:37:31	][IC] C24:i3.UNION-41: <:: Right then. ::>
+[23:37:51	][IC] C24:i3.UNION-41: <:: You're at 100 hp right? ::>
+[23:37:57	][IC] S10/ORD.MONARCH-10: <:: Yeah. ::>
+[23:38:00	]C24:i3.UNION-41 has spawned a cmb_hkusp.
+[23:38:01	]C24:i3.UNION-41 ran 'take' on item 'HK USP .45' (#2691017)
+[23:38:01	]C24:i3.UNION-41 has gained a 'HK USP .45' #2691017.
+[23:38:04	]C24:i3.UNION-41 ran 'Equip' on item 'HK USP .45' (#2691017)
+[23:38:10	]C24:i3.UNION-41 has spawned a magazine_usp.
+[23:38:11	]C24:i3.UNION-41 ran 'take' on item '17rnd USP Magazine' (#2691018)
+[23:38:11	]C24:i3.UNION-41 has gained a '17rnd USP Magazine' #2691018.
+[23:38:17	]C24:i3.UNION-41 has spawned a bullets_pistol.
+[23:38:18	]C24:i3.UNION-41 ran 'take' on item '9mm Pistol Bullets' (#2691019)
+[23:38:18	]C24:i3.UNION-41 has gained a '9mm Pistol Bullets' #2691019.
+[23:38:18	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:38:20	]C24:i3.UNION-41 ran 'combine' on item '17rnd USP Magazine' (#2691018)
+[23:38:20	]C24:i3.UNION-41 has lost a '17rnd USP Magazine' #2691018.
+[23:38:42	]C24:i3.UNION-41 has critically hit S10/ORD.MONARCH-10 dealing 12 damage (CritChance was 0.40).
+[23:38:42	]S10/ORD.MONARCH-10 has taken 12 damage from C24:i3.UNION-41.
+[23:38:42	]C24:i3.UNION-41 has hit S10/ORD.MONARCH-10 dealing 9 damage (CritChance was 0.40).
+[23:38:42	]S10/ORD.MONARCH-10 has taken 9 damage from C24:i3.UNION-41.
+[23:38:42	]C24:i3.UNION-41 has critically hit S10/ORD.MONARCH-10 dealing 12 damage (CritChance was 0.40).
+[23:38:42	]S10/ORD.MONARCH-10 has taken 12 damage from C24:i3.UNION-41.
+[23:38:42	]C24:i3.UNION-41 has hit S10/ORD.MONARCH-10 dealing 9 damage (CritChance was 0.40).
+[23:38:42	]S10/ORD.MONARCH-10 has taken 9 damage from C24:i3.UNION-41.
+[23:38:43	]C24:i3.UNION-41 has hit S10/ORD.MONARCH-10 dealing 9 damage (CritChance was 0.40).
+[23:38:43	]S10/ORD.MONARCH-10 has taken 9 damage from C24:i3.UNION-41.
+[23:38:43	]C24:i3.UNION-41 has hit S10/ORD.MONARCH-10 dealing 9 damage (CritChance was 0.40).
+[23:38:43	]S10/ORD.MONARCH-10 has taken 9 damage from C24:i3.UNION-41.
+[23:38:43	]C24:i3.UNION-41 has critically hit S10/ORD.MONARCH-10 dealing 12 damage (CritChance was 0.40).
+[23:38:43	]S10/ORD.MONARCH-10 has taken 12 damage from C24:i3.UNION-41.
+[23:38:43	]C24:i3.UNION-41 has hit S10/ORD.MONARCH-10 dealing 9 damage (CritChance was 0.40).
+[23:38:43	]S10/ORD.MONARCH-10 has taken 9 damage from C24:i3.UNION-41.
+[23:38:43	]C24:i3.UNION-41 has critically hit S10/ORD.MONARCH-10 dealing 12 damage (CritChance was 0.40).
+[23:38:43	]S10/ORD.MONARCH-10 has taken 12 damage from C24:i3.UNION-41.
+[23:38:49	][IC] C24:i3.UNION-41: <:: Why does it say armor... ::>
+[23:38:58	][IC] S10/ORD.MONARCH-10: <:: Because its damaging my armor only. ::>
+[23:39:01	][IC] C24:i3.UNION-41: <:: Ah. ::>
+[23:39:07	][IC] C24:i3.UNION-41: <:: You're nto supposed to have armor on. ::>
+[23:39:13	][IC] C24:i3.UNION-41: <:: Supposed to be a citzien. ::>
+[23:39:16	][IC] C24:i3.UNION-41: <:: Can you hop on a citizen? ::>
+[23:39:19	]C24:i3.UNION-41 ran 'removeMag' on item 'HK USP .45' (#2691017)
+[23:39:19	]C24:i3.UNION-41 is removing a mag while reloading: Item ID: #(2691017) Ammo: 12
+[23:39:19	]C24:i3.UNION-41 has gained a '17rnd USP Magazine' #2691018.
+[23:39:20	]C24:i3.UNION-41 ran 'combine' on item '17rnd USP Magazine' (#2691018)
+[23:39:20	]C24:i3.UNION-41 has lost a '17rnd USP Magazine' #2691018.
+[23:39:34	]Dej loaded the character 'C24:i5.KING-53'
+[23:39:44	][IC] C24:i3.UNION-41: <:: Thank you so much. ::>
+[23:39:59	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.40).
+[23:39:59	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[23:39:59	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:39:59	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:39:59	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:39:59	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:39:59	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.40).
+[23:39:59	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[23:39:59	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.40).
+[23:39:59	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[23:40:00	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:40:00	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:40:00	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.40).
+[23:40:00	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[23:40:00	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.40).
+[23:40:00	]C24:i5.KING-53 was knocked unconscious and is bleeding out.
+[23:40:13	]C24:i5.KING-53 is fully healed.
+[23:40:16	][IC] C24:i3.UNION-41: <:: Is it doing double damage? ::>
+[23:40:17	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:40:17	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:40:17	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:40:17	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:40:23	][IC] C24:i5.KING-53: No idea.
+[23:40:24	][IC] C24:i3.UNION-41: <:: Can you check how much I just did? ::>
+[23:40:31	][IC] C24:i5.KING-53: Im at 76.
+[23:40:36	][IC] C24:i3.UNION-41: <:: It's doing x2. ::>
+[23:40:46	][IC] C24:i3.UNION-41: <:: Idk why. ::>
+[23:40:48	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the stomach dealing 13 damage (CritChance was 0.53).
+[23:40:48	]C24:i5.KING-53 has taken 13 damage from C24:i3.UNION-41.
+[23:40:48	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the stomach dealing 13 damage (CritChance was 0.53).
+[23:40:48	]C24:i5.KING-53 has taken 13 damage from C24:i3.UNION-41.
+[23:41:11	][IC] C24:i5.KING-53: Im at 50.
+[23:41:16	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:41:18	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:41:18	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:41:18	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.40).
+[23:41:18	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[23:41:23	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:41:23	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:41:23	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:41:23	]C24:i5.KING-53 was knocked unconscious and is bleeding out.
+[23:41:33	]C24:i5.KING-53 is fully healed.
+[23:41:40	][IC] C24:i3.UNION-41: <:: Right guess 1 shot is 2. ::>
+[23:41:42	][IC] C24:i3.UNION-41: <:: Let me see. ::>
+[23:41:44	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.40).
+[23:41:44	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[23:41:44	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:41:44	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:41:49	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.40).
+[23:41:49	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[23:41:49	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:41:49	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:41:49	][Y] C24:i5.KING-53: 73 hp.
+[23:41:51	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:41:51	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:41:51	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.40).
+[23:41:51	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[23:41:52	][Y] C24:i5.KING-53: 46.
+[23:41:55	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:41:55	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:41:55	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.40).
+[23:41:55	]C24:i5.KING-53 was knocked unconscious and is bleeding out.
+[23:41:55	][Y] C24:i5.KING-53: 19.
+[23:42:02	][IC] C24:i3.UNION-41: <:: 8 shots. ::>
+[23:42:08	][IC] C24:i3.UNION-41: <:: 8 fucking SHOTS to down a citizen. ::>
+[23:42:13	]C24:i5.KING-53 is fully healed.
+[23:42:15	][IC] C24:i3.UNION-41: <:: That's so dumb. ::>
+[23:42:20	][IC] C24:i5.KING-53: Eh.
+[23:42:23	][IC] C24:i5.KING-53: Its 45acp.
+[23:42:27	][IC] C24:i5.KING-53: 9mm*.
+[23:42:32	][IC] C24:i3.UNION-41: <:: No it's 45. ::>
+[23:42:39	][IC] C24:i3.UNION-41: <:: The attachment and the gun name is 45. ::>
+[23:42:44	][IC] C24:i3.UNION-41: <:: It should be like 6 shots or less. ::>
+[23:42:49	][IC] C24:i3.UNION-41: <:: I hate this. ::>
+[23:42:54	][IC] C24:i5.KING-53: Technically if its converted to a USP-Match then it should take 9mm.
+[23:42:55	][IC] C24:i3.UNION-41: <:: Grrr. ::>
+[23:43:11	][IC] C24:i3.UNION-41: <:: Right rebel armor. ::>
+[23:43:12	][IC] C24:i3.UNION-41: <:: Here. ::>
+[23:43:23	]C24:i3.UNION-41 has spawned a torso_medical_kevlar.
+[23:43:33	]C24:i3.UNION-41 ran 'take' on item 'Medical Light Kevlar Uniform' (#2691020)
+[23:43:33	]C24:i3.UNION-41 has gained a 'Medical Light Kevlar Uniform' #2691020.
+[23:43:37	]C24:i5.KING-53 has gained a 'Medical Light Kevlar Uniform' #2691020.
+[23:43:37	]C24:i3.UNION-41 has transferred a 'Medical Light Kevlar Uniform' #2691020 to a container with the name 'C24:i5.KING-53's equip inventory' #119759.
+[23:43:39	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:43:50	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.24).
+[23:43:50	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:43:50	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.24).
+[23:43:50	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:43:50	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.24).
+[23:43:50	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[23:43:53	]C24:i5.KING-53 is fully healed.
+[23:43:55	][IC] C24:i5.KING-53: 25 armor gone.
+[23:44:00	][IC] C24:i3.UNION-41: <:: It's doing3 times the damage wtf. ::>
+[23:44:05	]C24:i3.UNION-41 ran 'removeMag' on item 'HK USP .45' (#2691017)
+[23:44:05	]C24:i3.UNION-41 is removing a mag while reloading: Item ID: #(2691017) Ammo: 54
+[23:44:05	]C24:i3.UNION-41 has gained a '17rnd USP Magazine' #2691018.
+[23:44:06	]C24:i3.UNION-41 has lost a '17rnd USP Magazine' #2691018.
+[23:44:07	][IC] C24:i5.KING-53: Is it because of ur skill.
+[23:44:10	][IC] C24:i3.UNION-41: <:: Idk. ::>
+[23:44:13	][IC] C24:i5.KING-53: The gun skill.
+[23:44:14	][IC] C24:i5.KING-53: Check it.
+[23:44:15	]Taliazure loaded the character 'C17:RCT.YELLO-69'
+[23:44:17	][IC] C24:i5.KING-53: I rmb it had some modifiers.
+[23:44:31	]C17:RCT.YELLO-69 used command '/ToggleRaise'.
+[23:44:33	]C17:RCT.YELLO-69 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.29).
+[23:44:33	]C24:i5.KING-53 has taken 12 damage from C17:RCT.YELLO-69.
+[23:44:33	]C17:RCT.YELLO-69 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.29).
+[23:44:33	]C24:i5.KING-53 has taken 12 damage from C17:RCT.YELLO-69.
+[23:44:33	]C17:RCT.YELLO-69 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.29).
+[23:44:33	]C24:i5.KING-53 has taken 15 damage from C17:RCT.YELLO-69.
+[23:44:36	][IC] C17:RCT.YELLO-69: <:: Nope. ::>
+[23:44:39	][IC] C17:RCT.YELLO-69: <:: It's fucked. ::>
+[23:44:45	][IC] C24:i5.KING-53: Maybe its the dev server?
+[23:44:50	][IC] C17:RCT.YELLO-69: <:: Doesn't mather all I need is just the stats. ::>
+[23:44:51	]C17:RCT.YELLO-69 has hit C24:i5.KING-53 in the stomach dealing 10 damage (CritChance was 0.38).
+[23:44:51	]C24:i5.KING-53 has taken 10 damage from C17:RCT.YELLO-69.
+[23:44:51	]C17:RCT.YELLO-69 has critically hit C24:i5.KING-53 in the stomach dealing 13 damage (CritChance was 0.38).
+[23:44:51	]C24:i5.KING-53 has taken 13 damage from C17:RCT.YELLO-69.
+[23:44:54	]C17:RCT.YELLO-69 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.29).
+[23:44:54	]C24:i5.KING-53 has taken 12 damage from C17:RCT.YELLO-69.
+[23:44:54	]C17:RCT.YELLO-69 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.29).
+[23:44:54	]C24:i5.KING-53 has taken 12 damage from C17:RCT.YELLO-69.
+[23:44:54	]C17:RCT.YELLO-69 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.29).
+[23:44:54	]C24:i5.KING-53 has taken 12 damage from C17:RCT.YELLO-69.
+[23:44:59	]C17:RCT.YELLO-69 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.29).
+[23:44:59	]C24:i5.KING-53 was knocked unconscious and is bleeding out.
+[23:45:10	]Taliazure loaded the character 'C24:i3.UNION-41'
+[23:45:17	][IC] C24:i3.UNION-41: <:: Right. ::>
+[23:45:23	][IC] C24:i3.UNION-41: <:: Repair your armor pls. ::>
+[23:45:25	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:45:29	]C24:i5.KING-53 ran 'Repair' on item 'Medical Light Kevlar Uniform' (#2691020)
+[23:45:32	]C24:i5.KING-53 has transferred a 'Medical Light Kevlar Uniform' #2691020 to a container with the name 'C24:i5.KING-53's equip inventory' #119759.
+[23:45:36	][IC] C24:i5.KING-53: Im not at 100 hp.
+[23:45:38	]C24:i5.KING-53 is fully healed.
+[23:45:41	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.24).
+[23:45:41	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:45:41	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.24).
+[23:45:41	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:45:43	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.24).
+[23:45:43	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:45:43	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.24).
+[23:45:43	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:45:45	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.40).
+[23:45:45	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[23:45:45	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.40).
+[23:45:45	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[23:45:46	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:45:46	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:45:46	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.40).
+[23:45:46	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[23:45:46	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:45:46	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:45:49	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:45:49	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:45:49	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:45:49	]C24:i5.KING-53 was knocked unconscious and is bleeding out.
+[23:45:52	][IC] C24:i3.UNION-41: <:: So. ::>
+[23:46:01	][IC] C24:i3.UNION-41: <:: 8 shots too. ::>
+[23:46:06	][IC] C24:i3.UNION-41: <:: To down a armored target. ::>
+[23:46:09	][IC] C24:i3.UNION-41: <:: Idk the sense behind that. ::>
+[23:46:24	][LOOC] C24:i5.KING-53: :shrug:
+[23:46:24	][IC] C24:i3.UNION-41: <:: Cp armor. ::>
+[23:46:30	]C24:i5.KING-53 has transferred a 'Light Functionary Uniform' #2654309 to a container with the name 'C24:i5.KING-53's equip inventory' #119759.
+[23:46:33	]C24:i5.KING-53 is fully healed.
+[23:46:36	]C24:i5.KING-53 has transferred a 'PMG-5 (AUG) Gasmask' #2654310 to a container with the name 'C24:i5.KING-53's equip inventory' #119759.
+[23:46:37	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.24).
+[23:46:37	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:46:37	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.24).
+[23:46:37	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:46:38	]C24:i5.KING-53 is fully healed.
+[23:46:39	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.24).
+[23:46:39	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:46:39	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.24).
+[23:46:39	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:46:39	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.24).
+[23:46:39	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:46:41	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.24).
+[23:46:41	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:46:41	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.24).
+[23:46:41	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:46:42	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.40).
+[23:46:42	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[23:46:42	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.40).
+[23:46:42	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[23:46:44	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.40).
+[23:46:44	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[23:46:44	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.40).
+[23:46:44	]C24:i5.KING-53 has taken 15 damage from C24:i3.UNION-41.
+[23:46:44	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:46:44	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:46:46	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:46:46	]C24:i5.KING-53 has taken 12 damage from C24:i3.UNION-41.
+[23:46:46	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.40).
+[23:46:46	]C24:i5.KING-53 was knocked unconscious and is bleeding out.
+[23:46:58	][IC] C24:i3.UNION-41: <:: 13. ::>
+[23:47:00	][IC] C24:i3.UNION-41: <:: Shots. ::>
+[23:47:04	][IC] C24:i3.UNION-41: <:: Jfc. ::>
+[23:47:09	][IC] C24:i5.KING-53: <:: Eh. ::>
+[23:47:11	][IC] C24:i5.KING-53: <:: That seems okay. ::>
+[23:47:17	][IC] C24:i3.UNION-41: <:: I think it needs a buff. ::>
+[23:47:25	][IC] C24:i3.UNION-41: <:: To at least put a cop down in 10 shots. ::>
+[23:47:28	]C24:i3.UNION-41 ran 'EquipUn' on item 'HK USP .45' (#2691017)
+[23:47:28	]C24:i3.UNION-41 has gained a '17rnd USP Magazine' #2691018.
+[23:47:29	]C24:i3.UNION-41 ran 'Equip' on item 'HK USP .45' (#2691017)
+[23:47:29	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:47:31	]C24:i3.UNION-41 has lost a '17rnd USP Magazine' #2691018.
+[23:47:36	][IC] C24:i3.UNION-41: <:: It's a slow firing gun. ::>
+[23:47:44	]C24:i3.UNION-41 ran 'EquipUn' on item 'HK USP .45' (#2691017)
+[23:47:44	]C24:i3.UNION-41 has gained a '17rnd USP Magazine' #2691018.
+[23:47:44	]C24:i3.UNION-41 ran 'Equip' on item 'HK USP .45' (#2691017)
+[23:47:45	]C24:i3.UNION-41 ran 'EquipUn' on item 'HK USP .45' (#2691017)
+[23:47:46	]C24:i3.UNION-41 ran 'combine' on item '17rnd USP Magazine' (#2691018)
+[23:47:47	]C24:i3.UNION-41 ran 'Equip' on item 'HK USP .45' (#2691017)
+[23:47:47	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:47:49	]C24:i3.UNION-41 has lost a '17rnd USP Magazine' #2691018.
+[23:47:49	][IC] C24:i5.KING-53: <:: Fair. ::>
+[23:47:56	]C24:i3.UNION-41 ran 'EquipUn' on item 'HK USP .45' (#2691017)
+[23:47:56	]C24:i3.UNION-41 has gained a '17rnd USP Magazine' #2691018.
+[23:48:27	][IC] C24:i3.UNION-41: <:: Let's move onto another gun. ::>
+[23:48:31	][IC] C24:i5.KING-53: <:: K. ::>
+[23:48:34	][IC] C24:i5.KING-53: <:: Heal me pls. ::>
+[23:48:43	]C24:i5.KING-53 is fully healed.
+[23:48:51	]C24:i3.UNION-41 has spawned a gen_mp7.
+[23:48:52	]C24:i3.UNION-41 ran 'take' on item 'MP7A1' (#2691021)
+[23:48:52	]C24:i3.UNION-41 has gained a 'MP7A1' #2691021.
+[23:48:59	]C24:i3.UNION-41 has spawned a magazine_mp.
+[23:49:03	]C24:i3.UNION-41 has spawned a bullets_smg1.
+[23:49:05	]C24:i3.UNION-41 ran 'take' on item '30rnd MP Magazine' (#2691022)
+[23:49:05	]C24:i3.UNION-41 has gained a '30rnd MP Magazine' #2691022.
+[23:49:05	]C24:i3.UNION-41 ran 'take' on item 'Sub-machinegun Bullets' (#2691023)
+[23:49:05	]C24:i3.UNION-41 has gained a 'Sub-machinegun Bullets' #2691023.
+[23:49:07	]C24:i3.UNION-41 ran 'Equip' on item 'MP7A1' (#2691021)
+[23:49:08	]C24:i3.UNION-41 ran 'combine' on item '30rnd MP Magazine' (#2691022)
+[23:49:08	]C24:i3.UNION-41 has lost a '30rnd MP Magazine' #2691022.
+[23:49:09	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:49:19	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 8 damage (CritChance was 0.26).
+[23:49:19	]C24:i5.KING-53 has taken 8 damage from C24:i3.UNION-41.
+[23:49:19	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 10 damage (CritChance was 0.26).
+[23:49:19	]C24:i5.KING-53 has taken 10 damage from C24:i3.UNION-41.
+[23:49:21	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 10 damage (CritChance was 0.26).
+[23:49:21	]C24:i5.KING-53 has taken 10 damage from C24:i3.UNION-41.
+[23:49:21	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 10 damage (CritChance was 0.26).
+[23:49:21	]C24:i5.KING-53 has taken 10 damage from C24:i3.UNION-41.
+[23:49:21	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 8 damage (CritChance was 0.26).
+[23:49:21	]C24:i5.KING-53 has taken 8 damage from C24:i3.UNION-41.
+[23:49:21	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 8 damage (CritChance was 0.26).
+[23:49:21	]C24:i5.KING-53 has taken 8 damage from C24:i3.UNION-41.
+[23:49:22	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 10 damage (CritChance was 0.26).
+[23:49:22	]C24:i5.KING-53 has taken 10 damage from C24:i3.UNION-41.
+[23:49:22	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 8 damage (CritChance was 0.26).
+[23:49:22	]C24:i5.KING-53 has taken 8 damage from C24:i3.UNION-41.
+[23:49:23	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 8 damage (CritChance was 0.26).
+[23:49:23	]C24:i5.KING-53 has taken 8 damage from C24:i3.UNION-41.
+[23:49:23	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 8 damage (CritChance was 0.26).
+[23:49:23	]C24:i5.KING-53 has taken 8 damage from C24:i3.UNION-41.
+[23:49:23	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 10 damage (CritChance was 0.43).
+[23:49:23	]C24:i5.KING-53 has taken 10 damage from C24:i3.UNION-41.
+[23:49:24	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 10 damage (CritChance was 0.43).
+[23:49:24	]C24:i5.KING-53 has taken 10 damage from C24:i3.UNION-41.
+[23:49:24	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 8 damage (CritChance was 0.43).
+[23:49:24	]C24:i5.KING-53 has taken 8 damage from C24:i3.UNION-41.
+[23:49:24	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 8 damage (CritChance was 0.43).
+[23:49:24	]C24:i5.KING-53 has taken 8 damage from C24:i3.UNION-41.
+[23:49:24	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 10 damage (CritChance was 0.43).
+[23:49:24	]C24:i5.KING-53 has taken 10 damage from C24:i3.UNION-41.
+[23:49:25	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 8 damage (CritChance was 0.43).
+[23:49:25	]C24:i5.KING-53 has taken 8 damage from C24:i3.UNION-41.
+[23:49:25	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 10 damage (CritChance was 0.43).
+[23:49:25	]C24:i5.KING-53 has taken 10 damage from C24:i3.UNION-41.
+[23:49:26	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 8 damage (CritChance was 0.43).
+[23:49:26	]C24:i5.KING-53 has taken 8 damage from C24:i3.UNION-41.
+[23:49:26	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 10 damage (CritChance was 0.43).
+[23:49:26	]C24:i5.KING-53 has taken 10 damage from C24:i3.UNION-41.
+[23:49:27	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 10 damage (CritChance was 0.43).
+[23:49:27	]C24:i5.KING-53 has taken 10 damage from C24:i3.UNION-41.
+[23:49:27	]C24:i3.UNION-41 has critically hit C24:i5.KING-53 in the chest dealing 10 damage (CritChance was 0.43).
+[23:49:27	]C24:i5.KING-53 was knocked unconscious and is bleeding out.
+[23:49:40	][IC] C24:i3.UNION-41: <:: It took more shots. ::>
+[23:49:42	][IC] C24:i5.KING-53: <:: Gutsy said that the len_damage for the dev server wasnt set. ::>
+[23:49:48	][IC] C24:i3.UNION-41: <:: Len damage? ::>
+[23:49:52	][IC] C24:i5.KING-53: <:: So its the dev server thats fucked up. ::>
+[23:49:55	][IC] C24:i5.KING-53: <:: One of the config options. ::>
+[23:50:06	][IC] C24:i3.UNION-41: <:: Soooo our testing is just useless? ::>
+[23:50:08	][IC] C24:i5.KING-53: <:: Yeah. ::>
+[23:50:12	][IC] C24:i3.UNION-41: <:: Oh for fuck sake. ::>
+[23:50:14	][IC] C24:i5.KING-53: <:: Gutsy said it skewed the testing. ::>
+[23:50:15	][IC] C24:i5.KING-53: <:: LOL. ::>
+[23:50:28	][IC] C24:i3.UNION-41: <:: Well i'm still gonna write the suggestion. ::>
+[23:50:36	][IC] C24:i3.UNION-41: <:: And also. ::>
+[23:50:40	][IC] C24:i3.UNION-41: <:: Im gonna fix the mp7. ::>
+[23:50:41	][IC] C24:i3.UNION-41: <:: Here. ::>
+[23:50:45	]C24:i3.UNION-41 has spawned a gen_mp7.
+[23:50:46	]C24:i5.KING-53 ran 'take' on item 'MP7A1' (#2691024)
+[23:50:46	]C24:i5.KING-53 has gained a 'MP7A1' #2691024.
+[23:50:52	]C24:i5.KING-53 ran 'Equip' on item 'MP7A1' (#2691024)
+[23:50:58	]C24:i3.UNION-41 has spawned a uc_optic_eotech553.
+[23:50:59	]C24:i3.UNION-41 ran 'take' on item 'EOTech 553 (HOLO)' (#2691025)
+[23:50:59	]C24:i3.UNION-41 has gained a 'EOTech 553 (HOLO)' #2691025.
+[23:51:00	]C24:i3.UNION-41 has spawned a uc_optic_eotech553.
+[23:51:05	]C24:i3.UNION-41 has spawned a scope_eft_xps3.
+[23:51:08	]C24:i5.KING-53 ran 'take' on item 'EOTech 553 (HOLO)' (#2691026)
+[23:51:08	]C24:i5.KING-53 has gained a 'EOTech 553 (HOLO)' #2691026.
+[23:51:08	]Risvolto has connected.
+[23:51:09	]C24:i3.UNION-41 has spawned a scope_eft_xps3.
+[23:51:09	]C24:i5.KING-53 ran 'take' on item 'Eotech XPS3-0' (#2691027)
+[23:51:09	]C24:i5.KING-53 has gained a 'Eotech XPS3-0' #2691027.
+[23:51:10	]C24:i3.UNION-41 ran 'take' on item 'Eotech XPS3-0' (#2691028)
+[23:51:10	]C24:i3.UNION-41 has gained a 'Eotech XPS3-0' #2691028.
+[23:51:12	]C24:i3.UNION-41 has lost a 'Eotech XPS3-0' #2691028.
+[23:51:22	]C24:i5.KING-53 has lost a 'Eotech XPS3-0' #2691027.
+[23:51:27	]C24:i5.KING-53 used command '/ToggleRaise'.
+[23:51:31	]C24:i3.UNION-41 has spawned a scope_eft_rmrlow.
+[23:51:32	][IC] C24:i5.KING-53: <:: Looks nicer. ::>
+[23:51:32	]C24:i3.UNION-41 ran 'take' on item 'Trijicon RMR' (#2691029)
+[23:51:32	]C24:i3.UNION-41 has gained a 'Trijicon RMR' #2691029.
+[23:51:33	]C24:i3.UNION-41 has spawned a scope_eft_rmrlow.
+[23:51:35	]C24:i3.UNION-41 has gained a 'Eotech XPS3-0' #2691028.
+[23:51:35	]C24:i3.UNION-41 has lost a 'Trijicon RMR' #2691029.
+[23:51:36	]C24:i5.KING-53 ran 'drop' on item 'EOTech 553 (HOLO)' (#2691026)
+[23:51:36	]C24:i5.KING-53 has lost a 'EOTech 553 (HOLO)' #2691026.
+[23:51:39	][IC] C24:i3.UNION-41: <:: Wich do you prefer. ::>
+[23:51:44	][IC] C24:i3.UNION-41: <:: More closer to vanilla mp7? ::>
+[23:51:46	]C24:i5.KING-53 has gained a 'Eotech XPS3-0' #2691027.
+[23:51:48	]C24:i5.KING-53 ran 'drop' on item 'Eotech XPS3-0' (#2691027)
+[23:51:48	]C24:i5.KING-53 has lost a 'Eotech XPS3-0' #2691027.
+[23:51:49	]C24:i5.KING-53 ran 'take' on item 'EOTech 553 (HOLO)' (#2691026)
+[23:51:49	]C24:i5.KING-53 has gained a 'EOTech 553 (HOLO)' #2691026.
+[23:51:49	]C24:i3.UNION-41 ran 'removeMag' on item 'MP7A1' (#2691021)
+[23:51:49	]C24:i3.UNION-41 is removing a mag while reloading: Item ID: #(2691021) Ammo: 0
+[23:51:49	]C24:i3.UNION-41 has gained a '30rnd MP Magazine' #2691022.
+[23:51:54	]C24:i3.UNION-41 has spawned a bullets_smg1.
+[23:51:54	]C24:i3.UNION-41 has spawned a bullets_smg1.
+[23:51:57	]C24:i5.KING-53 ran 'drop' on item 'EOTech 553 (HOLO)' (#2691026)
+[23:51:57	]C24:i5.KING-53 has lost a 'EOTech 553 (HOLO)' #2691026.
+[23:51:57	]C24:i3.UNION-41 ran 'take' on item 'Sub-machinegun Bullets' (#2691031)
+[23:51:57	]C24:i3.UNION-41 has gained a 'Sub-machinegun Bullets' #2691031.
+[23:51:58	]C24:i3.UNION-41 ran 'take' on item 'Sub-machinegun Bullets' (#2691032)
+[23:51:58	]C24:i3.UNION-41 has gained a 'Sub-machinegun Bullets' #2691032.
+[23:51:59	]C24:i3.UNION-41 ran 'combine' on item '30rnd MP Magazine' (#2691022)
+[23:51:59	]C24:i3.UNION-41 has lost a '30rnd MP Magazine' #2691022.
+[23:52:00	]C24:i5.KING-53 ran 'take' on item 'Trijicon RMR' (#2691030)
+[23:52:00	]C24:i5.KING-53 has gained a 'Trijicon RMR' #2691030.
+[23:52:02	]C24:i5.KING-53 used command '/ToggleRaise'.
+[23:52:07	]C24:i5.KING-53 has lost a 'Trijicon RMR' #2691030.
+[23:52:08	]C24:i3.UNION-41 has gained a 'Trijicon RMR' #2691029.
+[23:52:08	]C24:i3.UNION-41 has lost a 'Eotech XPS3-0' #2691028.
+[23:52:08	]Risvolto loaded the character 'Elena Rose'
+[23:52:08	]Elena Rose their 'sewers - hex connector stash' stash no longer exists, location reset.
+[23:52:11	][IC] C24:i5.KING-53: <:: Holo. ::>
+[23:52:13	]Elena Rose is fully healed.
+[23:52:16	]C24:i5.KING-53 has gained a 'Trijicon RMR' #2691030.
+[23:52:17	]C24:i5.KING-53 ran 'drop' on item 'Trijicon RMR' (#2691030)
+[23:52:17	]C24:i5.KING-53 has lost a 'Trijicon RMR' #2691030.
+[23:52:20	][IC] Elena Rose: Give usp.
+[23:52:25	]C24:i3.UNION-41 has spawned a cmb_hkusp.
+[23:52:28	]C24:i3.UNION-41 ran 'removeMag' on item 'MP7A1' (#2691021)
+[23:52:28	]C24:i3.UNION-41 is removing a mag while reloading: Item ID: #(2691021) Ammo: 0
+[23:52:28	]C24:i3.UNION-41 has gained a '30rnd MP Magazine' #2691022.
+[23:52:28	]Elena Rose ran 'take' on item 'HK USP .45' (#2691033)
+[23:52:28	]Elena Rose has gained a 'HK USP .45' #2691033.
+[23:52:29	]C24:i3.UNION-41 ran 'combine' on item '30rnd MP Magazine' (#2691022)
+[23:52:30	]C24:i3.UNION-41 has lost a '30rnd MP Magazine' #2691022.
+[23:52:31	][IC] Elena Rose: Give bullet and mag.
+[23:52:33	]Elena Rose ran 'Equip' on item 'HK USP .45' (#2691033)
+[23:52:34	]Elena Rose used command '/ToggleRaise'.
+[23:52:35	]C24:i3.UNION-41 has spawned a bullets_pistol.
+[23:52:35	]C24:i3.UNION-41 has spawned a bullets_pistol.
+[23:52:36	]C24:i3.UNION-41 has spawned a bullets_pistol.
+[23:52:36	]C24:i3.UNION-41 has spawned a bullets_pistol.
+[23:52:36	]C24:i3.UNION-41 has spawned a bullets_pistol.
+[23:52:39	]Elena Rose ran 'take' on item '9mm Pistol Bullets' (#2691037)
+[23:52:39	]Elena Rose has gained a '9mm Pistol Bullets' #2691037.
+[23:52:39	]C24:i3.UNION-41 has spawned a magazine_usp.
+[23:52:39	]C24:i3.UNION-41 has spawned a magazine_usp.
+[23:52:39	]C24:i3.UNION-41 has spawned a magazine_usp.
+[23:52:39	]C24:i3.UNION-41 has spawned a magazine_usp.
+[23:52:39	]Elena Rose ran 'take' on item '9mm Pistol Bullets' (#2691035)
+[23:52:39	]Elena Rose has gained a '9mm Pistol Bullets' #2691035.
+[23:52:40	]Elena Rose ran 'take' on item '9mm Pistol Bullets' (#2691034)
+[23:52:40	]Elena Rose has gained a '9mm Pistol Bullets' #2691034.
+[23:52:41	]Elena Rose ran 'take' on item '9mm Pistol Bullets' (#2691038)
+[23:52:41	]Elena Rose has gained a '9mm Pistol Bullets' #2691038.
+[23:52:42	]Elena Rose ran 'take' on item '9mm Pistol Bullets' (#2691036)
+[23:52:42	]Elena Rose has gained a '9mm Pistol Bullets' #2691036.
+[23:52:43	]Elena Rose ran 'take' on item '17rnd USP Magazine' (#2691039)
+[23:52:43	]Elena Rose has gained a '17rnd USP Magazine' #2691039.
+[23:52:45	]Elena Rose ran 'combine' on item '17rnd USP Magazine' (#2691039)
+[23:52:45	]Elena Rose has lost a '17rnd USP Magazine' #2691039.
+[23:52:46	]C24:i5.KING-53 has transferred a 'Large Bag' #2654312 to a container with the name 'C24:i5.KING-53's equip inventory' #119759.
+[23:52:47	]C24:i5.KING-53 has transferred a 'Small Bag' #2654311 to a container with the name 'C24:i5.KING-53's equip inventory' #119759.
+[23:52:47	][IC] Elena Rose: Dej.
+[23:52:50	]C24:i5.KING-53 ran 'use' on item 'Bandage Roll' (#2654353)
+[23:52:50	]C24:i5.KING-53 has performed the 'Use Bandage Roll' action, gaining 15 experience in medicine.
+[23:52:50	]C24:i5.KING-53 was bandaged by C24:i5.KING-53 for 16 HP.
+[23:52:52	][IC] Elena Rose: Gonna shoot at you okay?
+[23:52:52	][IC] C24:i5.KING-53: <:: Yeah. ::>
+[23:52:55	][IC] C24:i3.UNION-41: <:: Ok so wich sight did you like? ::>
+[23:52:55	][IC] C24:i5.KING-53: <:: What. ::>
+[23:52:58	][IC] Elena Rose: Wanna test.
+[23:53:03	][IC] C24:i5.KING-53: <:: The fuck. ::>
+[23:53:05	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:53:05	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:53:05	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:53:06	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:53:06	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:53:06	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:53:07	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:53:07	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:53:08	][IC] C24:i5.KING-53: <:: Eotech holo is better. ::>
+[23:53:08	]C24:i3.UNION-41 has fired a toolgun with the name: remover
+[23:53:11	][IC] C24:i3.UNION-41: <:: Ok. ::>
+[23:53:12	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:53:13	][IC] Elena Rose: !hp 100 him.
+[23:53:14	][IC] C24:i3.UNION-41: <:: Now. ::>
+[23:53:19	][IC] C24:i5.KING-53: <:: Eotech XPS. ::>
+[23:53:22	]Elena Rose has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.24).
+[23:53:22	]C24:i5.KING-53 has taken 12 damage from Elena Rose.
+[23:53:22	]Elena Rose has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.24).
+[23:53:22	]C24:i5.KING-53 has taken 15 damage from Elena Rose.
+[23:53:23	]C24:i5.KING-53 is fully healed.
+[23:53:29	][IC] Elena Rose: Yes the server is fucked.
+[23:53:35	]C24:i3.UNION-41 has spawned a eft_aks74u_fold.
+[23:53:35	][IC] C24:i5.KING-53: <:: Yeah like i said. ::>
+[23:53:36	]C24:i3.UNION-41 ran 'take' on item 'Folded Stock' (#2691043)
+[23:53:36	]C24:i3.UNION-41 has gained a 'Folded Stock' #2691043.
+[23:53:36	][IC] Elena Rose: I'm dealing double damage too.
+[23:53:38	]C24:i3.UNION-41 has spawned a ud_uzi_stock_folded.
+[23:53:39	]C24:i3.UNION-41 ran 'take' on item 'Folded Stock' (#2691044)
+[23:53:39	]C24:i3.UNION-41 has gained a 'Folded Stock' #2691044.
+[23:53:41	]C24:i3.UNION-41 has spawned a ur_spas12_stock_in.
+[23:53:42	]C24:i3.UNION-41 ran 'take' on item 'Folded Stock' (#2691045)
+[23:53:42	]C24:i3.UNION-41 has gained a 'Folded Stock' #2691045.
+[23:53:45	]C24:i3.UNION-41 has spawned a eft_mp7_folded.
+[23:53:45	]C24:i3.UNION-41 ran 'take' on item 'Folded Stock' (#2691046)
+[23:53:45	]C24:i3.UNION-41 has gained a 'Folded Stock' #2691046.
+[23:53:46	][IC] C24:i5.KING-53: <:: Gutsy said they didnt set one of the config values for the dev server. ::>
+[23:53:46	]C24:i3.UNION-41 has lost a 'Folded Stock' #2691046.
+[23:53:52	]C24:i3.UNION-41 ran 'removeMag' on item 'MP7A1' (#2691021)
+[23:53:52	]C24:i3.UNION-41 is removing a mag while reloading: Item ID: #(2691021) Ammo: 0
+[23:53:52	]C24:i3.UNION-41 has gained a '30rnd MP Magazine' #2691022.
+[23:53:59	][IC] Elena Rose: Yo one question.
+[23:54:02	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:54:06	][IC] Elena Rose: What keybind do you guys use to toss shit to the floor from your inventory?
+[23:54:11	]C24:i3.UNION-41 has fired a toolgun with the name: creator
+[23:54:11	]C24:i3.UNION-41 has spawned a 'Weapon [5836][arccw_eft_mp7]'.
+[23:54:14	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:54:17	]Elena Rose used command '/ToggleRaise'.
+[23:54:18	][IC] C24:i5.KING-53: <:: Keybind? ::>
+[23:54:20	]C24:i3.UNION-41 ran 'EquipUn' on item 'MP7A1' (#2691021)
+[23:54:21	][IC] Elena Rose: Yeah what key.
+[23:54:21	]C24:i3.UNION-41 ran 'Equip' on item 'MP7A1' (#2691021)
+[23:54:22	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:54:27	][IC] C24:i5.KING-53: <:: The fuck. ::>
+[23:54:28	]C24:i3.UNION-41 has spawned a bullets_smg1.
+[23:54:29	]C24:i3.UNION-41 ran 'take' on item 'Sub-machinegun Bullets' (#2691047)
+[23:54:29	]C24:i3.UNION-41 has gained a 'Sub-machinegun Bullets' #2691047.
+[23:54:30	]C24:i3.UNION-41 ran 'combine' on item '30rnd MP Magazine' (#2691022)
+[23:54:30	]C24:i3.UNION-41 has lost a '30rnd MP Magazine' #2691022.
+[23:54:35	][IC] C24:i3.UNION-41: <:: Here. ::>
+[23:54:35	][IC] C24:i5.KING-53: <:: Who binds a key to throw shit from your inv onto the floor. ::>
+[23:54:37	]C24:i3.UNION-41 has spawned a eft_mp7_folded.
+[23:54:40	][IC] Elena Rose: Talia?
+[23:54:41	]C24:i5.KING-53 ran 'take' on item 'Folded Stock' (#2691048)
+[23:54:41	]C24:i5.KING-53 has gained a 'Folded Stock' #2691048.
+[23:54:44	]C24:i5.KING-53 used command '/ToggleRaise'.
+[23:54:44	][IC] C24:i3.UNION-41: <:: Huh? ::>
+[23:54:46	][IC] Elena Rose: What key.
+[23:54:47	]C24:i5.KING-53 has lost a 'Folded Stock' #2691048.
+[23:54:48	][IC] C24:i3.UNION-41: <:: Q. ::>
+[23:54:51	][IC] Elena Rose: To toss shit from your inventory.
+[23:54:54	]Elena Rose ran 'drop' on item '9mm Pistol Bullets' (#2691034)
+[23:54:54	]Elena Rose has lost a '9mm Pistol Bullets' #2691034.
+[23:54:56	][IC] Elena Rose: Ok.
+[23:54:56	][IC] C24:i3.UNION-41: <:: Now. ::>
+[23:55:01	][IC] C24:i3.UNION-41: <:: Looks good. ::>
+[23:55:05	][IC] C24:i3.UNION-41: <:: Now next fix. ::>
+[23:55:08	][IC] C24:i5.KING-53: <:: Jesse what the fuck are you talking about. ::>
+[23:55:22	][IC] C24:i3.UNION-41: <:: Oh they fucking removed the grips. ::>
+[23:55:27	][IC] C24:i3.UNION-41: <:: It coudl fix the anim. ::>
+[23:55:42	]Elena Rose ran 'removeMag' on item 'HK USP .45' (#2691033)
+[23:55:42	]Elena Rose is removing a mag while reloading: Item ID: #(2691033) Ammo: 0
+[23:55:42	]Elena Rose has gained a '17rnd USP Magazine' #2691039.
+[23:55:45	]Elena Rose ran 'combine' on item '17rnd USP Magazine' (#2691039)
+[23:55:45	]Elena Rose has lost a '17rnd USP Magazine' #2691039.
+[23:55:48	]C24:i3.UNION-41 ran 'EquipUn' on item 'MP7A1' (#2691021)
+[23:55:48	]C24:i3.UNION-41 has gained a '30rnd MP Magazine' #2691022.
+[23:56:02	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:56:12	]Elena Rose has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.24).
+[23:56:12	]C24:i5.KING-53 has taken 15 damage from Elena Rose.
+[23:56:12	]Elena Rose has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.24).
+[23:56:12	]C24:i5.KING-53 has taken 12 damage from Elena Rose.
+[23:56:12	]Elena Rose has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.24).
+[23:56:12	]C24:i5.KING-53 has taken 12 damage from Elena Rose.
+[23:56:13	]C24:i5.KING-53 is fully healed.
+[23:56:41	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:56:47	][IC] C24:i3.UNION-41: <:: WE HAVE ADB? ::>
+[23:56:50	][IC] C24:i5.KING-53: <:: Yeah. ::>
+[23:56:51	][IC] C24:i3.UNION-41: <:: AND ITS NOT IG? ::>
+[23:56:54	]Elena Rose has hit C24:i3.UNION-41 in the left arm dealing 6 damage (CritChance was 0.40).
+[23:56:54	]C24:i3.UNION-41 has taken 6 damage from Elena Rose.
+[23:56:55	]Elena Rose has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.24).
+[23:56:55	]C24:i5.KING-53 has taken 12 damage from Elena Rose.
+[23:56:55	]Elena Rose has critically hit C24:i5.KING-53 in the chest dealing 15 damage (CritChance was 0.40).
+[23:56:55	]C24:i5.KING-53 has taken 15 damage from Elena Rose.
+[23:56:55	]Elena Rose has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:56:55	]C24:i5.KING-53 has taken 12 damage from Elena Rose.
+[23:56:55	]Elena Rose has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:56:55	]C24:i5.KING-53 has taken 12 damage from Elena Rose.
+[23:56:55	]Elena Rose has hit C24:i5.KING-53 in the chest dealing 12 damage (CritChance was 0.40).
+[23:56:55	]C24:i5.KING-53 has taken 12 damage from Elena Rose.
+[23:56:59	][IC] Elena Rose: Wtf.
+[23:57:08	][IC] C24:i3.UNION-41: <:: WHY ARE WE USING A DUPLET. ::>
+[23:57:14	][IC] C24:i3.UNION-41: <:: WHEN WE HAVE A GOOD LOOKING DOUBLE BARREL?! ::>
+[23:57:21	][IC] C24:i5.KING-53: <:: Haha. ::>
+[23:57:53	]C24:i3.UNION-41 has spawned a uc_charm_urbancharm_decay.
+[23:57:54	]C24:i3.UNION-41 ran 'take' on item 'Urban Charm - Decay' (#2691049)
+[23:57:54	]C24:i3.UNION-41 has gained a 'Urban Charm - Decay' #2691049.
+[23:58:17	][IC] C24:i3.UNION-41: <:: It shoots both barrels... ::>
+[23:58:18	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 0 damage (CritChance was 0.00).
+[23:58:18	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 14 damage (CritChance was 0.00).
+[23:58:18	]C24:i5.KING-53 has taken 14 damage from C24:i3.UNION-41.
+[23:58:18	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 0 damage (CritChance was 0.00).
+[23:58:18	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 14 damage (CritChance was 0.00).
+[23:58:18	]C24:i5.KING-53 has taken 14 damage from C24:i3.UNION-41.
+[23:58:18	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 0 damage (CritChance was 0.00).
+[23:58:18	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 14 damage (CritChance was 0.00).
+[23:58:18	]C24:i5.KING-53 has taken 14 damage from C24:i3.UNION-41.
+[23:58:18	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 0 damage (CritChance was 0.00).
+[23:58:18	]C24:i3.UNION-41 has hit C24:i5.KING-53 in the chest dealing 14 damage (CritChance was 0.00).
+[23:58:18	]C24:i5.KING-53 was knocked unconscious and is bleeding out.
+[23:58:21	][IC] C24:i3.UNION-41: <:: JESUS. ::>
+[23:58:23	]C24:i5.KING-53 is fully healed.
+[23:58:24	][IC] C24:i5.KING-53: <:: Ow. ::>
+[23:58:30	][IC] Elena Rose: Now you know why it's not added.
+[23:58:32	]C24:i3.UNION-41 has fired a toolgun with the name: creator
+[23:58:32	]C24:i3.UNION-41 has spawned a 'Weapon [5838][arccw_ur_db]'.
+[23:58:32	]C24:i3.UNION-41 has fired a toolgun with the name: creator
+[23:58:32	]C24:i3.UNION-41 has spawned a 'Weapon [5852][arccw_ur_db]'.
+[23:58:37	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:58:47	]Elena Rose used command '/ToggleRaise'.
+[23:58:54	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 0 damage (CritChance was 0.00).
+[23:58:54	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.00).
+[23:58:54	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[23:58:54	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 0 damage (CritChance was 0.00).
+[23:58:54	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.00).
+[23:58:54	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[23:58:54	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 0 damage (CritChance was 0.00).
+[23:58:54	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.00).
+[23:58:54	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[23:58:54	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 0 damage (CritChance was 0.00).
+[23:58:54	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.00).
+[23:58:54	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[23:58:54	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 0 damage (CritChance was 0.00).
+[23:58:54	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.00).
+[23:58:54	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[23:58:54	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 0 damage (CritChance was 0.00).
+[23:58:54	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.00).
+[23:58:54	]C24:i3.UNION-41 has taken 14 damage from Elena Rose.
+[23:58:54	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 0 damage (CritChance was 0.00).
+[23:58:54	]Elena Rose has hit C24:i3.UNION-41 in the chest dealing 14 damage (CritChance was 0.00).
+[23:58:54	]C24:i3.UNION-41 was knocked unconscious and is bleeding out.
+[23:58:56	][IC] C24:i3.UNION-41: <:: OW. ::>
+[23:58:57	][IC] Elena Rose: BRUH.
+[23:58:58	][IC] Elena Rose: WHAT THE FUCK.
+[23:59:01	][IC] Elena Rose: 1 shot.
+[23:59:08	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:59:18	][IC] C24:i5.KING-53: <:: My ears. ::>
+[23:59:19	][IC] Elena Rose: Not as good as it looks btw.
+[23:59:19	][IC] C24:i3.UNION-41: <:: Ar-. ::>
+[23:59:21	][IC] C24:i3.UNION-41: <:: Sorry. ::>
+[23:59:24	][IC] Elena Rose: Pulse smg is better.
+[23:59:26	]C24:i3.UNION-41 used command '/ToggleRaise'.
+[23:59:27	][IC] Elena Rose: Also that gun goes through armor.
+[23:59:31	][IC] C24:i3.UNION-41: <:: OMG. ::>
+[23:59:34	][IC] C24:i3.UNION-41: <:: HOLY SHIT. ::>
+[23:59:36	][IC] C24:i3.UNION-41: <:: JESUS CHRIST. ::>
+[23:59:36	][IC] Elena Rose: What?
+[23:59:41	][IC] C24:i3.UNION-41: <:: THE AR2 IS INSANE. ::>
+[23:59:43	][IC] Elena Rose: Why?
+[23:59:47	][IC] C24:i3.UNION-41: <:: DAMNNNNNNNNNNNNNNNNNNNNNNNNNN. ::>
+[23:59:49	][IC] C24:i3.UNION-41: <:: WHAT THE FUk. ::>
+[23:59:52	][IC] Elena Rose: What?
+[23:59:56	][IC] C24:i3.UNION-41: <:: That precision and fire rate. ::>

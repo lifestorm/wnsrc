@@ -1,0 +1,273 @@
+[19:56:49	]Kaffee has connected.
+[20:00:25	]Kaffee created the character 'Kaffee'
+[20:00:25	]Kaffee has gained 20 chips.
+[20:00:25	]Kaffee loaded the character 'Kaffee'
+[20:00:25	]Kaffee has gained a 'Flashlight' #337.
+[20:00:25	]Kaffee has gained a '#28377's Identity Card' #338.
+[20:02:05	]Console ran SAM command 'adduser' with arguments: 'Kaffee' 'server_admin'
+[20:02:11	]Kaffee entered observer.
+[20:03:16	]Console ran SAM command 'adduser' with arguments: 'Kaffee' 'senior_admin'
+[20:03:57	]Console ran SAM command 'adduser' with arguments: 'Kaffee' 'community_manager'
+[20:04:04	]Kaffee used command '/CharGiveFlag kaff'.
+[20:04:06	]Kaffee used command '/CharGiveFlag Kaffee CJLNQUaceinprt'.
+[20:05:19	]Kaffee exited observer at their location.
+[20:05:34	]Kaffee used command '/PlyWhitelist kaff server'.
+[20:05:46	]Kaffee set whitelistForumLink to '[false]'.
+[20:05:51	]Kaffee used command '/PlyWhitelist kaff server'.
+[20:07:01	]Kaffee has spawned a 'NPC [422][npc_vj_zombiegrenade]'.
+[20:07:03	]Kaffee entered observer.
+[20:07:12	]Kaffee ran SAM command 'hp' with arguments: 'kaff' '1000000000000000000000000'
+[20:07:13	]Kaffee exited observer at their location.
+[20:07:17	]Kaffee has taken 10 damage from Grenade Zombie.
+[20:07:17	]Kaffee has taken 10 damage from Grenade Zombie.
+[20:07:20	]Kaffee is fully healed.
+[20:07:21	]Kaffee has taken 10 damage from Grenade Zombie.
+[20:07:23	]Kaffee has taken 10 damage from Grenade Zombie.
+[20:07:23	]Kaffee has taken 10 damage from Grenade Zombie.
+[20:07:25	]Kaffee is fully healed.
+[20:07:26	]Kaffee has taken 10 damage from Grenade Zombie.
+[20:07:30	]Kaffee is fully healed.
+[20:07:33	]Kaffee has taken 10 damage from Grenade Zombie.
+[20:07:34	]Kaffee has critically hit npc_vj_zombiegrenade in the head dealing 6 damage (CritChance was 0.42).
+[20:07:34	][FF:1667142246] Kaffee set as active participant.
+[20:07:34	][FF] Firefight started between Kaffee and npc_vj_zombiegrenade. ID: 1667142246
+[20:07:44	][FF:1667142246] Round 1 begins. Turn for NPCs started.
+[20:07:47	][FF:1667142246] Turn for NPCs ended as time ran out.
+[20:07:47	][FF:1667142246] Turn for 'Kaffee' started.
+[20:07:47	]Kaffee has taken 10 damage from Grenade Zombie.
+[20:07:48	]Kaffee has critically hit npc_vj_zombiegrenade in the head dealing 6 damage (CritChance was 0.42).
+[20:07:48	]Kaffee has taken 10 damage from Grenade Zombie.
+[20:07:48	]Kaffee has critically hit npc_vj_zombiegrenade in the head dealing 6 damage (CritChance was 0.42).
+[20:07:49	]Kaffee has hit npc_vj_zombiegrenade in the head dealing 6 damage (CritChance was 0.42).
+[20:07:53	]Kaffee is fully healed.
+[20:07:53	][FF:1667142246] Turn for 'Kaffee' ended as it timed out.
+[20:07:53	][FF:1667142246] Round 2 begins. Turn for NPCs started.
+[20:07:58	][FF:1667142246] Turn for NPCs ended as time ran out.
+[20:07:58	][FF:1667142246] Turn for 'Kaffee' started.
+[20:07:58	]Kaffee has taken 10 damage from Grenade Zombie.
+[20:08:00	]Kaffee has taken 10 damage from Grenade Zombie.
+[20:08:00	]Kaffee has taken 10 damage from Grenade Zombie.
+[20:08:04	]Kaffee is fully healed.
+[20:08:04	][FF:1667142246] Turn for 'Kaffee' ended as it timed out.
+[20:08:04	][FF:1667142246] Round 3 begins. Turn for NPCs started.
+[20:08:09	][FF:1667142246] Turn for NPCs ended as time ran out.
+[20:08:09	][FF:1667142246] Turn for 'Kaffee' started.
+[20:08:09	]Kaffee has taken 10 damage from Grenade Zombie.
+[20:08:10	]Kaffee has taken 10 damage from Grenade Zombie.
+[20:08:10	]Kaffee has hit npc_vj_zombiegrenade in the head dealing 6 damage (CritChance was 0.42).
+[20:08:10	]Kaffee has hit npc_vj_zombiegrenade in the head dealing 6 damage (CritChance was 0.42).
+[20:08:11	]Kaffee has hit npc_vj_zombiegrenade in the head dealing 6 damage (CritChance was 0.42).
+[20:08:13	]Kaffee is fully healed.
+[20:08:13	][FF:1667142246] Turn for 'Kaffee' ended early as all actions are exhausted.
+[20:08:13	][FF:1667142246] Round 4 begins.
+[20:08:13	][FF:1667142246] Fight has ended, clearing participants and waitlist.
+[20:08:32	]Kaffee has spawned a 'NPC [427][npc_vj_zomnarch]'.
+[20:08:44	]Kaffee has taken 30 damage from Zomnarch.
+[20:08:44	]Kaffee has taken 5 damage from obj_gonome_acid.
+[20:08:45	]Kaffee is fully healed.
+[20:08:46	]Kaffee has critically hit npc_vj_zomnarch in the right arm dealing 12 damage (CritChance was 0.42).
+[20:08:46	][FF:1667142247] Kaffee set as active participant.
+[20:08:46	][FF] Firefight started between Kaffee and npc_vj_zomnarch. ID: 1667142247
+[20:08:56	][FF:1667142247] Round 1 begins. Turn for NPCs started.
+[20:08:59	][FF:1667142247] Turn for NPCs ended as time ran out.
+[20:08:59	][FF:1667142247] Turn for 'Kaffee' started.
+[20:09:01	]Kaffee has critically hit npc_vj_zomnarch in the right leg dealing 12 damage (CritChance was 0.42).
+[20:09:02	]Kaffee has hit npc_vj_zomnarch in the chest dealing 12 damage (CritChance was 0.42).
+[20:09:02	]Kaffee has hit npc_vj_zomnarch in the chest dealing 12 damage (CritChance was 0.42).
+[20:09:02	]Kaffee has critically hit npc_vj_zomnarch in the chest dealing 12 damage (CritChance was 0.42).
+[20:09:04	][FF:1667142247] Turn for 'Kaffee' ended early as all actions are exhausted.
+[20:09:04	][FF:1667142247] Round 2 begins. Turn for NPCs started.
+[20:09:05	]Kaffee has taken 30 damage from Zomnarch.
+[20:09:05	]Kaffee has taken 5 damage from obj_gonome_acid.
+[20:09:09	][FF:1667142247] Turn for NPCs ended as time ran out.
+[20:09:09	][FF:1667142247] Turn for 'Kaffee' started.
+[20:09:11	]Kaffee has hit npc_vj_zomnarch in the chest dealing 12 damage (CritChance was 0.42).
+[20:09:11	]Kaffee has critically hit npc_vj_zomnarch in the chest dealing 12 damage (CritChance was 0.42).
+[20:09:12	]Kaffee has hit npc_vj_zomnarch in the chest dealing 0 damage (CritChance was 0.42).
+[20:09:12	]Kaffee has hit npc_vj_zomnarch in the chest dealing 12 damage (CritChance was 0.42).
+[20:09:12	]Kaffee has critically hit npc_vj_zomnarch in the left arm dealing 12 damage (CritChance was 0.42).
+[20:09:12	]Kaffee has critically hit npc_vj_zomnarch in the right leg dealing 12 damage (CritChance was 0.42).
+[20:09:12	]Kaffee has hit npc_vj_zomnarch in the left leg dealing 11 damage (CritChance was 0.42).
+[20:09:15	]Kaffee is fully healed.
+[20:09:15	][FF:1667142247] Turn for 'Kaffee' ended as it timed out.
+[20:09:15	][FF:1667142247] Round 3 begins. Turn for NPCs started.
+[20:09:19	]Kaffee has taken 30 damage from Zomnarch.
+[20:09:20	][FF:1667142247] Turn for NPCs ended as time ran out.
+[20:09:20	][FF:1667142247] Turn for 'Kaffee' started.
+[20:09:23	]Kaffee has hit npc_vj_zomnarch in the chest dealing 12 damage (CritChance was 0.42).
+[20:09:23	]Kaffee has hit npc_vj_zomnarch in the right arm dealing 8 damage (CritChance was 0.42).
+[20:09:23	]Kaffee has critically hit npc_vj_zomnarch in the chest dealing 12 damage (CritChance was 0.42).
+[20:09:23	]Kaffee has hit npc_vj_zomnarch in the chest dealing 12 damage (CritChance was 0.42).
+[20:09:23	]Kaffee has hit npc_vj_zomnarch in the chest dealing 12 damage (CritChance was 0.42).
+[20:09:23	]Kaffee has hit npc_vj_zomnarch in the left arm dealing 8 damage (CritChance was 0.42).
+[20:09:26	]Kaffee is fully healed.
+[20:09:26	][FF:1667142247] Turn for 'Kaffee' ended as it timed out.
+[20:09:26	][FF:1667142247] Round 4 begins. Turn for NPCs started.
+[20:09:31	][FF:1667142247] Turn for NPCs ended as time ran out.
+[20:09:31	][FF:1667142247] Turn for 'Kaffee' started.
+[20:09:33	]Kaffee has taken 30 damage from Zomnarch.
+[20:09:33	]Kaffee has taken 5 damage from obj_gonome_acid.
+[20:09:33	]Kaffee has critically hit npc_vj_zomnarch in the chest dealing 12 damage (CritChance was 0.42).
+[20:09:33	]Kaffee has critically hit npc_vj_zomnarch in the right arm dealing 12 damage (CritChance was 0.42).
+[20:09:33	]Kaffee has hit npc_vj_zomnarch in the chest dealing 12 damage (CritChance was 0.42).
+[20:09:33	]Kaffee has hit npc_vj_zomnarch in the chest dealing 12 damage (CritChance was 0.42).
+[20:09:33	]Kaffee has critically hit npc_vj_zomnarch in the chest dealing 12 damage (CritChance was 0.42).
+[20:09:33	]Kaffee has critically hit npc_vj_zomnarch in the chest dealing 12 damage (CritChance was 0.42).
+[20:09:37	]Kaffee is fully healed.
+[20:09:37	][FF:1667142247] Turn for 'Kaffee' ended as it timed out.
+[20:09:37	][FF:1667142247] Round 5 begins. Turn for NPCs started.
+[20:09:42	][FF:1667142247] Turn for NPCs ended as time ran out.
+[20:09:42	][FF:1667142247] Turn for 'Kaffee' started.
+[20:09:43	]Kaffee has hit npc_vj_zomnarch in the chest dealing 12 damage (CritChance was 0.42).
+[20:09:43	]Kaffee has critically hit npc_vj_zomnarch in the chest dealing 12 damage (CritChance was 0.42).
+[20:09:43	]Kaffee has hit npc_vj_zomnarch in the chest dealing 12 damage (CritChance was 0.42).
+[20:09:43	]Kaffee has critically hit npc_vj_zomnarch in the chest dealing 12 damage (CritChance was 0.42).
+[20:09:44	]Kaffee has critically hit npc_vj_zomnarch in the left arm dealing 12 damage (CritChance was 0.42).
+[20:09:48	][FF:1667142247] Turn for 'Kaffee' ended as it timed out.
+[20:09:48	][FF:1667142247] Round 6 begins. Turn for NPCs started.
+[20:09:53	]Kaffee has taken 30 damage from Zomnarch.
+[20:09:53	]Kaffee has taken 5 damage from obj_gonome_acid.
+[20:09:53	][FF:1667142247] Turn for NPCs ended as time ran out.
+[20:09:53	][FF:1667142247] Turn for 'Kaffee' started.
+[20:09:59	]Kaffee is fully healed.
+[20:09:59	][FF:1667142247] Turn for 'Kaffee' ended as it timed out.
+[20:09:59	][FF:1667142247] Round 7 begins. Turn for NPCs started.
+[20:10:04	][FF:1667142247] Turn for NPCs ended as time ran out.
+[20:10:04	][FF:1667142247] Turn for 'Kaffee' started.
+[20:10:10	][FF:1667142247] Turn for 'Kaffee' ended as it timed out.
+[20:10:10	][FF:1667142247] Round 8 begins. Turn for NPCs started.
+[20:10:15	][FF:1667142247] Turn for NPCs ended as time ran out.
+[20:10:15	][FF:1667142247] Turn for 'Kaffee' started.
+[20:10:16	]Kaffee has spawned a 'Entity [428][item_ammo_ar2]'.
+[20:10:17	]Kaffee has spawned a 'Entity [429][item_ammo_ar2]'.
+[20:10:17	]Kaffee has spawned a 'Entity [431][item_ammo_ar2]'.
+[20:10:17	]Kaffee has spawned a 'Entity [432][item_ammo_ar2]'.
+[20:10:17	]Kaffee has spawned a 'Entity [433][item_ammo_ar2]'.
+[20:10:17	]Kaffee has spawned a 'Entity [434][item_ammo_ar2]'.
+[20:10:17	]Kaffee has spawned a 'Entity [435][item_ammo_ar2]'.
+[20:10:18	]Kaffee has spawned a 'Entity [428][item_ammo_ar2]'.
+[20:10:19	][FF:1667142247] Turn for 'Kaffee' ended early as all actions are exhausted.
+[20:10:19	][FF:1667142247] Round 9 begins. Turn for NPCs started.
+[20:10:24	][FF:1667142247] Turn for NPCs ended as time ran out.
+[20:10:24	][FF:1667142247] Turn for 'Kaffee' started.
+[20:10:27	]Kaffee has hit npc_vj_zomnarch in the chest dealing 13 damage (CritChance was 0.42).
+[20:10:27	]Kaffee has hit npc_vj_zomnarch in the head dealing 11 damage (CritChance was 0.42).
+[20:10:27	]Kaffee has hit npc_vj_zomnarch in the head dealing 11 damage (CritChance was 0.42).
+[20:10:30	][FF:1667142247] Turn for 'Kaffee' ended early as all actions are exhausted.
+[20:10:30	][FF:1667142247] Round 10 begins. Turn for NPCs started.
+[20:10:35	][FF:1667142247] Turn for NPCs ended as time ran out.
+[20:10:35	][FF:1667142247] Turn for 'Kaffee' started.
+[20:10:38	]Kaffee has hit npc_vj_zomnarch in the chest dealing 13 damage (CritChance was 0.42).
+[20:10:38	]Kaffee has critically hit npc_vj_zomnarch in the right arm dealing 13 damage (CritChance was 0.42).
+[20:10:41	][FF:1667142247] Turn for 'Kaffee' ended as it timed out.
+[20:10:41	][FF:1667142247] Round 11 begins. Turn for NPCs started.
+[20:10:46	][FF:1667142247] Turn for NPCs ended as time ran out.
+[20:10:46	][FF:1667142247] Turn for 'Kaffee' started.
+[20:10:48	]Kaffee has hit npc_vj_zomnarch in the chest dealing 0 damage (CritChance was 0.42).
+[20:10:48	]Kaffee has critically hit npc_vj_zomnarch in the left leg dealing 13 damage (CritChance was 0.42).
+[20:10:48	]Kaffee has hit npc_vj_zomnarch in the left leg dealing 11 damage (CritChance was 0.42).
+[20:10:48	]Kaffee has critically hit npc_vj_zomnarch in the right leg dealing 13 damage (CritChance was 0.42).
+[20:10:52	][FF:1667142247] Turn for 'Kaffee' ended as it timed out.
+[20:10:52	][FF:1667142247] Round 12 begins. Turn for NPCs started.
+[20:10:57	][FF:1667142247] Turn for NPCs ended as time ran out.
+[20:10:57	][FF:1667142247] Turn for 'Kaffee' started.
+[20:11:03	][FF:1667142247] Turn for 'Kaffee' ended as it timed out.
+[20:11:03	][FF:1667142247] Round 13 begins. Turn for NPCs started.
+[20:11:08	][FF:1667142247] Turn for NPCs ended as time ran out.
+[20:11:08	][FF:1667142247] Turn for 'Kaffee' started.
+[20:11:10	][FF:1667142247] Turn for 'Kaffee' ended early as all actions are exhausted.
+[20:11:10	][FF:1667142247] Round 14 begins. Turn for NPCs started.
+[20:11:15	][FF:1667142247] Turn for NPCs ended as time ran out.
+[20:11:15	][FF:1667142247] Turn for 'Kaffee' started.
+[20:11:21	][FF:1667142247] Turn for 'Kaffee' ended as it timed out.
+[20:11:21	][FF:1667142247] Round 15 begins. Turn for NPCs started.
+[20:11:25	]Kaffee has taken 30 damage from Zomnarch.
+[20:11:25	]Kaffee has taken 5 damage from obj_gonome_acid.
+[20:11:26	][FF:1667142247] Turn for NPCs ended as time ran out.
+[20:11:26	][FF:1667142247] Turn for 'Kaffee' started.
+[20:11:32	]Kaffee is fully healed.
+[20:11:32	][FF:1667142247] Turn for 'Kaffee' ended as it timed out.
+[20:11:32	][FF:1667142247] Round 16 begins. Turn for NPCs started.
+[20:11:37	][FF:1667142247] Turn for NPCs ended as time ran out.
+[20:11:37	][FF:1667142247] Turn for 'Kaffee' started.
+[20:11:37	][FF:1667142247] Turn for 'Kaffee' ended player left the fight.
+[20:11:37	][FF:1667142247] Round 17 begins. Turn for NPCs started.
+[20:11:37	]Kaffee used command '/FirefightKick kaff'.
+[20:11:37	]Kaffee entered observer.
+[20:11:42	][FF:1667142247] Turn for NPCs ended as time ran out.
+[20:11:42	][FF:1667142247] Fight has ended, clearing participants and waitlist.
+[20:11:54	]Kaffee has used a context menu option with the name: vj_pr_npc_slay
+[20:16:55	]Kaffee has gone afk.
+[20:19:05	]Kaffee is no longer afk. Total time spent AFK: 425
+[20:19:19	]Kaffee has spawned a 'NPC [428][npc_vj_zombiecop_original]'.
+[20:24:35	]Kaffee has gone afk.
+[20:26:55	]Kaffee is no longer afk. Total time spent AFK: 435
+[20:26:58	]Kaffee has spawned a 'NPC [428][npc_vj_gonomeoriginal]'.
+[20:27:13	]Kaffee has spawned a 'NPC [428][npc_vj_zombiealpha]'.
+[20:27:28	]Kaffee used command '/CharEditBodygroup'.
+[20:30:56	]Kaffee has changed Kaffee's bodygroups.
+[20:32:17	]Kaffee exited observer at their location.
+[20:32:40	]Kaffee set walkSpeed to '500'.
+[20:33:11	]Kaffee set runSpeed to '500'.
+[20:33:27	]Kaffee set walkSpeed to '175'.
+[20:33:32	]Kaffee set walkSpeed to '87'.
+[20:33:41	]Kaffee set walkSpeed to '90'.
+[20:33:43	]Kaffee set walkSpeed to '97'.
+[20:33:44	]Kaffee set walkSpeed to '103'.
+[20:34:24	]Kaffee has spawned a 'NPC [428][npc_vj_hlr1a_hgrunt]'.
+[20:34:25	]Kaffee has taken 5 damage from Human Grunt.
+[20:34:25	]Kaffee is fully healed.
+[20:34:26	]Kaffee has taken 5 damage from Human Grunt.
+[20:34:26	]Kaffee has taken 5 damage from Human Grunt.
+[20:34:26	]Kaffee has critically hit npc_vj_hlr1a_hgrunt dealing 8 damage (CritChance was 0.59).
+[20:34:26	][FF:1667142248] Kaffee set as active participant.
+[20:34:26	][FF] Firefight started between Kaffee and npc_vj_hlr1a_hgrunt. ID: 1667142248
+[20:34:36	][FF:1667142248] Round 1 begins. Turn for NPCs started.
+[20:34:37	]Kaffee has taken 5 damage from Human Grunt.
+[20:34:38	]Kaffee has taken 5 damage from Human Grunt.
+[20:34:38	]Kaffee has taken 5 damage from Human Grunt.
+[20:34:39	][FF:1667142248] Turn for NPCs ended as time ran out.
+[20:34:39	][FF:1667142248] Turn for 'Kaffee' started.
+[20:34:39	]Kaffee has critically hit npc_vj_hlr1a_hgrunt in the head dealing 0 damage (CritChance was 0.59).
+[20:34:39	]Kaffee has critically hit npc_vj_hlr1a_hgrunt in the head dealing 9 damage (CritChance was 0.59).
+[20:34:39	]Kaffee has hit npc_vj_hlr1a_hgrunt in the head dealing 0 damage (CritChance was 0.59).
+[20:34:39	]Kaffee has critically hit npc_vj_hlr1a_hgrunt in the head dealing 9 damage (CritChance was 0.59).
+[20:34:40	]Kaffee has critically hit npc_vj_hlr1a_hgrunt in the head dealing 0 damage (CritChance was 0.59).
+[20:34:40	]Kaffee has hit npc_vj_hlr1a_hgrunt in the head dealing 0 damage (CritChance was 0.59).
+[20:34:40	]Kaffee has critically hit npc_vj_hlr1a_hgrunt in the head dealing 9 damage (CritChance was 0.59).
+[20:34:40	]Kaffee has hit npc_vj_hlr1a_hgrunt in the head dealing 0 damage (CritChance was 0.59).
+[20:34:40	]Kaffee has hit npc_vj_hlr1a_hgrunt in the head dealing 4 damage (CritChance was 0.59).
+[20:34:40	]Kaffee has hit npc_vj_hlr1a_hgrunt in the head dealing 0 damage (CritChance was 0.59).
+[20:34:40	]Kaffee has hit npc_vj_hlr1a_hgrunt in the head dealing 4 damage (CritChance was 0.59).
+[20:34:40	]Kaffee has hit npc_vj_hlr1a_hgrunt dealing 0 damage (CritChance was 0.59).
+[20:34:40	]Kaffee has critically hit npc_vj_hlr1a_hgrunt in the head dealing 9 damage (CritChance was 0.59).
+[20:34:40	]Kaffee has critically hit npc_vj_hlr1a_hgrunt in the head dealing 9 damage (CritChance was 0.59).
+[20:34:40	]Kaffee has hit npc_vj_hlr1a_hgrunt in the head dealing 4 damage (CritChance was 0.59).
+[20:34:40	]Kaffee has critically hit npc_vj_hlr1a_hgrunt in the head dealing 9 damage (CritChance was 0.59).
+[20:34:44	]Kaffee is fully healed.
+[20:34:44	][FF:1667142248] Turn for 'Kaffee' ended early as all actions are exhausted.
+[20:34:44	][FF:1667142248] Round 2 begins.
+[20:34:44	][FF:1667142248] Fight has ended, clearing participants and waitlist.
+[20:40:42	]Kaffee has gone afk.
+[20:57:17	]Kaffee is no longer afk. Total time spent AFK: 1290
+[21:02:17	]Kaffee has gone afk.
+[21:04:32	]Kaffee is no longer afk. Total time spent AFK: 430
+[21:04:58	]Kaffee entered observer.
+[21:05:00	]Kaffee exited observer at their location.
+[21:11:02	]Kaffee has gone afk.
+[21:13:47	]Kaffee is no longer afk. Total time spent AFK: 460
+[21:15:48	]Kaffee entered observer.
+[21:16:16	]Kaffee exited observer at their location.
+[21:16:24	]Kaffee entered observer.
+[21:16:40	]Kaffee has fired a toolgun with the name: camera
+[21:16:55	]Kaffee exited observer at their location.
+[21:17:02	]Kaffee has pressed the "upfront_camBtn" map button.
+[21:17:03	]Kaffee has pressed the "upfront_camBtn" map button.
+[21:17:04	]Kaffee has pressed the "upfront_camBtn" map button.
+[21:17:38	]Kaffee ran SAM command 'scale' with arguments: '^' '1.3'
+[21:17:40	]Kaffee ran SAM command 'scale' with arguments: '^' '1.2'
+[21:17:42	]Kaffee ran SAM command 'scale' with arguments: '^' '1.1'
+[21:17:44	]Kaffee ran SAM command 'scale' with arguments: '^' '1.2'
+[21:24:47	]Kaffee has gone afk.
+[21:54:52	]Kaffee is no longer afk. Total time spent AFK: 2100
+[21:54:57	]Kaffee (STEAM_0:0:74662997) has disconnected.

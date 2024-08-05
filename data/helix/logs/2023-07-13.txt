@@ -1,0 +1,1693 @@
+[01:44:24	]Garratz has connected.
+[01:47:13	]Garratz created the character 'Michael Hoxworth'
+[01:47:13	]Garratz loaded the character 'Michael Hoxworth'
+[01:47:13	]Michael Hoxworth has gained a '#86172's Identity Card' #2047360.
+[01:47:13	]Michael Hoxworth has gained a 'CWU PDA' #2047361.
+[01:47:13	]Michael Hoxworth has gained a 'CWU Member Access Keycard' #2047362.
+[01:47:13	]Michael Hoxworth has gained a 'Black Jumpsuit' #2047363.
+[01:47:13	]Michael Hoxworth has gained a 'Black Jumpsuit Trousers' #2047364.
+[01:47:13	]Michael Hoxworth has gained a 'Dark Leather Boots' #2047365.
+[01:47:13	]Michael Hoxworth has gained a 'Glasses' #2047366.
+[01:47:49	]Michael Hoxworth ran 'Open' on item 'CWU PDA' (#2047361)
+[01:49:18	]Michael Hoxworth has damaged npc_monk, dealing 5 with ix_hands
+[01:49:19	]Michael Hoxworth has damaged npc_monk, dealing 5 with ix_hands
+[01:49:20	]Michael Hoxworth has damaged npc_monk, dealing 5 with ix_hands
+[01:49:21	]Michael Hoxworth has damaged npc_monk, dealing 5 with ix_hands
+[01:49:22	]Michael Hoxworth has damaged npc_monk, dealing 5 with ix_hands
+[01:49:23	]Michael Hoxworth has damaged npc_monk, dealing 5 with ix_hands
+[01:49:24	]Michael Hoxworth has damaged npc_monk, dealing 5 with ix_hands
+[01:49:25	]Michael Hoxworth has damaged npc_monk, dealing 5 with ix_hands
+[01:49:26	]Michael Hoxworth has damaged npc_monk, dealing 5 with ix_hands
+[01:49:26	]Michael Hoxworth has damaged npc_monk, dealing 5 with ix_hands
+[01:49:27	]Michael Hoxworth has damaged npc_monk, dealing 5 with ix_hands
+[01:49:28	]Michael Hoxworth has damaged npc_monk, dealing 5 with ix_hands
+[01:49:39	]Michael Hoxworth ran 'Bind' on item 'CWU Member Access Keycard' (#2047362)
+[01:50:12	]Michael Hoxworth ran 'take' on item 'The Third Eye' (#2047214)
+[01:50:12	]Michael Hoxworth has gained a 'The Third Eye' #2047214.
+[01:52:29	]Console ran SAM command 'setrank' with arguments: 'hox' 'gamemaster'
+[01:52:44	]Michael Hoxworth has spawned a 357ammo.
+[01:52:49	]Michael Hoxworth ran 'take' on item '.357 Magnum Bullets' (#2047367)
+[01:52:49	]Michael Hoxworth has gained a '.357 Magnum Bullets' #2047367.
+[01:53:27	]Michael Hoxworth ran 'use' on item '.357 Magnum Bullets' (#2047367)
+[01:53:35	]Michael Hoxworth has spawned a cca_executive.
+[01:53:37	]Michael Hoxworth ran 'take' on item 'The Executive' (#2047368)
+[01:53:37	]Michael Hoxworth has gained a 'The Executive' #2047368.
+[01:53:40	]Michael Hoxworth has spawned a cca_legs_authoritarian.
+[01:53:40	]Michael Hoxworth ran 'take' on item 'The Authoritarian Trousers' (#2047369)
+[01:53:40	]Michael Hoxworth has gained a 'The Authoritarian Trousers' #2047369.
+[01:53:46	]Michael Hoxworth entered observer.
+[01:53:58	]Michael Hoxworth exited observer at their location.
+[01:54:02	]Michael Hoxworth entered observer.
+[01:54:15	]Michael Hoxworth exited observer at their location.
+[01:54:47	]Michael Hoxworth entered observer.
+[01:54:57	]Michael Hoxworth exited observer at their location.
+[01:55:11	]Michael Hoxworth entered observer.
+[01:55:11	]Michael Hoxworth exited observer at their location.
+[01:55:21	]Michael Hoxworth has spawned a aviators.
+[01:55:23	]Michael Hoxworth ran 'take' on item 'Aviator Glasses' (#2047370)
+[01:55:23	]Michael Hoxworth has gained a 'Aviator Glasses' #2047370.
+[01:55:43	]Michael Hoxworth entered observer.
+[01:55:43	]Michael Hoxworth exited observer at their location.
+[01:55:45	]Michael Hoxworth entered observer.
+[01:55:46	]Michael Hoxworth exited observer at their location.
+[01:55:53	]Michael Hoxworth has spawned a head_fedora.
+[01:55:55	]Michael Hoxworth ran 'take' on item 'Black Fedora' (#2047371)
+[01:55:55	]Michael Hoxworth has gained a 'Black Fedora' #2047371.
+[01:55:59	]Michael Hoxworth entered observer.
+[01:55:59	]Michael Hoxworth exited observer at their location.
+[01:56:03	]Michael Hoxworth has spawned a shoes_heels.
+[01:56:04	]Michael Hoxworth ran 'take' on item 'High Heel Shoes' (#2047372)
+[01:56:04	]Michael Hoxworth has gained a 'High Heel Shoes' #2047372.
+[01:56:13	]Michael Hoxworth entered observer.
+[01:56:14	]Michael Hoxworth exited observer at their location.
+[01:56:17	]Michael Hoxworth has spawned a shoes_dress_shoes.
+[01:56:18	]Michael Hoxworth ran 'take' on item 'Dress Shoes' (#2047373)
+[01:56:18	]Michael Hoxworth has gained a 'Dress Shoes' #2047373.
+[01:56:22	]Michael Hoxworth entered observer.
+[01:56:22	]Michael Hoxworth exited observer at their location.
+[01:56:43	]Michael Hoxworth has spawned a hands_gloves.
+[01:56:43	]Michael Hoxworth ran 'take' on item 'Gloves' (#2047374)
+[01:56:43	]Michael Hoxworth has gained a 'Gloves' #2047374.
+[01:56:50	]Michael Hoxworth has spawned a head_gasmask2.
+[01:56:50	]Michael Hoxworth ran 'take' on item 'M40' (#2047375)
+[01:56:50	]Michael Hoxworth has gained a 'M40' #2047375.
+[01:57:14	]Michael Hoxworth has spawned a stunstick.
+[01:57:17	]Michael Hoxworth ran 'take' on item 'Stunstick' (#2047376)
+[01:57:17	]Michael Hoxworth has gained a 'Stunstick' #2047376.
+[01:57:20	]Michael Hoxworth ran 'Equip' on item 'Stunstick' (#2047376)
+[01:57:33	]Michael Hoxworth has spawned a 870.
+[01:57:37	]Michael Hoxworth ran 'take' on item 'Model 870' (#2047377)
+[01:57:37	]Michael Hoxworth has gained a 'Model 870' #2047377.
+[01:57:39	]Michael Hoxworth ran 'drop' on item 'Black Jumpsuit' (#2047363)
+[01:57:39	]Michael Hoxworth has lost a 'Black Jumpsuit' #2047363.
+[01:57:40	]Michael Hoxworth ran 'drop' on item 'Glasses' (#2047366)
+[01:57:40	]Michael Hoxworth has lost a 'Glasses' #2047366.
+[01:57:40	]Michael Hoxworth ran 'drop' on item 'Black Jumpsuit Trousers' (#2047364)
+[01:57:40	]Michael Hoxworth has lost a 'Black Jumpsuit Trousers' #2047364.
+[01:57:41	]Michael Hoxworth ran 'drop' on item 'High Heel Shoes' (#2047372)
+[01:57:41	]Michael Hoxworth has lost a 'High Heel Shoes' #2047372.
+[01:57:41	]Michael Hoxworth ran 'drop' on item 'Dark Leather Boots' (#2047365)
+[01:57:41	]Michael Hoxworth has lost a 'Dark Leather Boots' #2047365.
+[01:57:44	]Michael Hoxworth destroyed a 'Dark Leather Boots' #2047365.
+[01:57:48	]Michael Hoxworth destroyed a 'High Heel Shoes' #2047372.
+[01:57:49	]Michael Hoxworth destroyed a 'Black Jumpsuit Trousers' #2047364.
+[01:57:50	]Michael Hoxworth destroyed a 'Black Jumpsuit' #2047363.
+[01:57:51	]Michael Hoxworth destroyed a 'Glasses' #2047366.
+[01:57:54	]Michael Hoxworth ran 'Equip' on item 'Model 870' (#2047377)
+[01:58:13	]Michael Hoxworth has spawned a shotgunammo.
+[01:58:14	]Michael Hoxworth ran 'take' on item 'Shotgun Shells' (#2047378)
+[01:58:14	]Michael Hoxworth has gained a 'Shotgun Shells' #2047378.
+[01:58:16	]Michael Hoxworth ran 'use' on item 'Shotgun Shells' (#2047378)
+[01:58:45	]Michael Hoxworth ran 'drop' on item 'Model 870' (#2047377)
+[01:58:45	]Michael Hoxworth has lost a 'Model 870' #2047377.
+[01:58:49	]Michael Hoxworth destroyed a 'Model 870' #2047377.
+[01:59:12	]Michael Hoxworth has spawned a riotshield.
+[01:59:13	]Michael Hoxworth ran 'take' on item 'Riot Shield' (#2047379)
+[01:59:13	]Michael Hoxworth has gained a 'Riot Shield' #2047379.
+[01:59:16	]Michael Hoxworth ran 'Equip' on item 'Riot Shield' (#2047379)
+[01:59:19	]Michael Hoxworth ran 'EquipUn' on item 'Stunstick' (#2047376)
+[01:59:20	]Michael Hoxworth ran 'Equip' on item 'Riot Shield' (#2047379)
+[01:59:22	]Michael Hoxworth ran 'Equip' on item 'Riot Shield' (#2047379)
+[01:59:35	]Michael Hoxworth ran 'drop' on item 'Riot Shield' (#2047379)
+[01:59:35	]Michael Hoxworth has lost a 'Riot Shield' #2047379.
+[01:59:40	]Michael Hoxworth ran 'Equip' on item 'Stunstick' (#2047376)
+[01:59:42	]Michael Hoxworth destroyed a 'Riot Shield' #2047379.
+[02:00:12	]Michael Hoxworth has spawned a sg556.
+[02:00:14	]Michael Hoxworth ran 'take' on item 'SG556' (#2047380)
+[02:00:14	]Michael Hoxworth has gained a 'SG556' #2047380.
+[02:00:15	]Michael Hoxworth ran 'Equip' on item 'SG556' (#2047380)
+[02:00:38	]Michael Hoxworth has spawned a ins2_br_heavy.
+[02:00:39	]Michael Hoxworth ran 'take' on item 'Heavy Barrel' (#2047381)
+[02:00:39	]Michael Hoxworth has gained a 'Heavy Barrel' #2047381.
+[02:00:50	]Michael Hoxworth ran 'drop' on item 'SG556' (#2047380)
+[02:00:50	]Michael Hoxworth has lost a 'SG556' #2047380.
+[02:00:50	]Michael Hoxworth ran 'drop' on item 'Heavy Barrel' (#2047381)
+[02:00:50	]Michael Hoxworth has lost a 'Heavy Barrel' #2047381.
+[02:00:54	]Michael Hoxworth destroyed a 'SG556' #2047380.
+[02:00:55	]Michael Hoxworth destroyed a 'Heavy Barrel' #2047381.
+[02:01:07	]Michael Hoxworth has spawned a oldrevolver.
+[02:01:10	]Michael Hoxworth ran 'take' on item 'Popper' (#2047382)
+[02:01:10	]Michael Hoxworth has gained a 'Popper' #2047382.
+[02:01:12	]Michael Hoxworth ran 'Equip' on item 'Popper' (#2047382)
+[02:02:22	]Michael Hoxworth has spawned a metro_vsvll.
+[02:02:25	]Michael Hoxworth ran 'take' on item 'Last light' (#2047383)
+[02:02:25	]Michael Hoxworth has gained a 'Last light' #2047383.
+[02:02:32	]Michael Hoxworth has spawned a metro_kalashll.
+[02:02:33	]Michael Hoxworth has spawned a metro_dupletll.
+[02:02:34	]Michael Hoxworth has spawned a metro_mr.
+[02:02:35	]Michael Hoxworth has spawned a metro_bastardll.
+[02:02:35	]Michael Hoxworth has spawned a metro_2012ll.
+[02:02:38	]Michael Hoxworth ran 'take' on item 'Last light' (#2047388)
+[02:02:38	]Michael Hoxworth has gained a 'Last light' #2047388.
+[02:02:39	]Michael Hoxworth ran 'take' on item 'Last light' (#2047387)
+[02:02:39	]Michael Hoxworth has gained a 'Last light' #2047387.
+[02:02:40	]Michael Hoxworth ran 'take' on item 'Last light' (#2047386)
+[02:02:40	]Michael Hoxworth has gained a 'Last light' #2047386.
+[02:02:41	]Michael Hoxworth ran 'take' on item 'Last light' (#2047385)
+[02:02:41	]Michael Hoxworth has gained a 'Last light' #2047385.
+[02:02:42	]Michael Hoxworth ran 'take' on item 'Last light' (#2047384)
+[02:02:42	]Michael Hoxworth has gained a 'Last light' #2047384.
+[02:02:54	]Michael Hoxworth ran 'drop' on item 'Last light' (#2047385)
+[02:02:54	]Michael Hoxworth has lost a 'Last light' #2047385.
+[02:02:55	]Michael Hoxworth ran 'drop' on item 'Last light' (#2047387)
+[02:02:55	]Michael Hoxworth has lost a 'Last light' #2047387.
+[02:02:55	]Michael Hoxworth ran 'drop' on item 'Last light' (#2047388)
+[02:02:55	]Michael Hoxworth has lost a 'Last light' #2047388.
+[02:02:56	]Michael Hoxworth ran 'drop' on item 'Last light' (#2047383)
+[02:02:56	]Michael Hoxworth has lost a 'Last light' #2047383.
+[02:02:57	]Michael Hoxworth ran 'drop' on item 'Last light' (#2047386)
+[02:02:57	]Michael Hoxworth has lost a 'Last light' #2047386.
+[02:02:58	]Michael Hoxworth ran 'drop' on item 'Last light' (#2047384)
+[02:02:58	]Michael Hoxworth has lost a 'Last light' #2047384.
+[02:03:02	]Michael Hoxworth destroyed a 'Last light' #2047388.
+[02:03:03	]Michael Hoxworth destroyed a 'Last light' #2047386.
+[02:03:04	]Michael Hoxworth destroyed a 'Last light' #2047385.
+[02:03:04	]Michael Hoxworth destroyed a 'Last light' #2047384.
+[02:03:05	]Michael Hoxworth destroyed a 'Last light' #2047383.
+[02:03:07	]Michael Hoxworth destroyed a 'Last light' #2047387.
+[02:03:36	]Michael Hoxworth has spawned a torso_green_kevlar_t3.
+[02:03:37	]Michael Hoxworth ran 'take' on item 'Heavy Kevlar Uniform' (#2047389)
+[02:03:37	]Michael Hoxworth has gained a 'Heavy Kevlar Uniform' #2047389.
+[02:03:47	]Michael Hoxworth has spawned a torso_green_kevlar_t2.
+[02:03:49	]Michael Hoxworth has spawned a torso_blue_kevlar.
+[02:03:50	]Michael Hoxworth ran 'take' on item 'Blue Light Kevlar Uniform' (#2047391)
+[02:03:50	]Michael Hoxworth has gained a 'Blue Light Kevlar Uniform' #2047391.
+[02:03:51	]Michael Hoxworth ran 'take' on item 'Medium Kevlar Uniform' (#2047390)
+[02:03:51	]Michael Hoxworth has gained a 'Medium Kevlar Uniform' #2047390.
+[02:04:01	]Michael Hoxworth ran 'drop' on item 'Blue Light Kevlar Uniform' (#2047391)
+[02:04:01	]Michael Hoxworth has lost a 'Blue Light Kevlar Uniform' #2047391.
+[02:04:01	]Michael Hoxworth ran 'drop' on item 'Heavy Kevlar Uniform' (#2047389)
+[02:04:01	]Michael Hoxworth has lost a 'Heavy Kevlar Uniform' #2047389.
+[02:04:02	]Michael Hoxworth ran 'drop' on item 'Medium Kevlar Uniform' (#2047390)
+[02:04:02	]Michael Hoxworth has lost a 'Medium Kevlar Uniform' #2047390.
+[02:04:06	]Michael Hoxworth destroyed a 'Medium Kevlar Uniform' #2047390.
+[02:04:07	]Michael Hoxworth destroyed a 'Heavy Kevlar Uniform' #2047389.
+[02:04:08	]Michael Hoxworth destroyed a 'Blue Light Kevlar Uniform' #2047391.
+[02:04:28	]Michael Hoxworth used command '/PlyWhitelist Michael Hoxworth CCA'.
+[02:04:36	]Michael Hoxworth used command '/PlyWhitelist Michael Hoxworth Combine Civil Administration'.
+[02:04:57	]Michael Hoxworth used command '/PlyTransfer Michael Hoxworth Combine Civil Administration'.
+[02:05:52	]Michael Hoxworth has spawned a cca_coat_overseer.
+[02:05:53	]Michael Hoxworth ran 'take' on item 'The Overseer' (#2047392)
+[02:05:53	]Michael Hoxworth has gained a 'The Overseer' #2047392.
+[02:05:59	]Michael Hoxworth has spawned a cca_legs_overseer.
+[02:06:00	]Michael Hoxworth ran 'take' on item 'Overseer Pants' (#2047393)
+[02:06:00	]Michael Hoxworth has gained a 'Overseer Pants' #2047393.
+[02:06:22	]Michael Hoxworth has spawned a cca_goose.
+[02:06:23	]Michael Hoxworth has spawned a cca_legs_goose.
+[02:06:24	]Michael Hoxworth ran 'take' on item 'Golden Goose' (#2047394)
+[02:06:24	]Michael Hoxworth has gained a 'Golden Goose' #2047394.
+[02:06:25	]Michael Hoxworth ran 'take' on item 'Golden Goose Trousers' (#2047395)
+[02:06:25	]Michael Hoxworth has gained a 'Golden Goose Trousers' #2047395.
+[02:06:46	]Michael Hoxworth has spawned a cca_devil.
+[02:06:47	]Michael Hoxworth has spawned a cca_legs_authoritarian.
+[02:06:48	]Michael Hoxworth ran 'take' on item 'Devil's Advocate' (#2047396)
+[02:06:48	]Michael Hoxworth has gained a 'Devil's Advocate' #2047396.
+[02:06:49	]Michael Hoxworth ran 'take' on item 'The Authoritarian Trousers' (#2047397)
+[02:06:49	]Michael Hoxworth has gained a 'The Authoritarian Trousers' #2047397.
+[02:07:02	]Michael Hoxworth ran 'drop' on item 'The Authoritarian Trousers' (#2047369)
+[02:07:02	]Michael Hoxworth has lost a 'The Authoritarian Trousers' #2047369.
+[02:07:02	]Michael Hoxworth ran 'drop' on item 'Devil's Advocate' (#2047396)
+[02:07:02	]Michael Hoxworth has lost a 'Devil's Advocate' #2047396.
+[02:07:03	]Michael Hoxworth ran 'drop' on item 'Golden Goose Trousers' (#2047395)
+[02:07:03	]Michael Hoxworth has lost a 'Golden Goose Trousers' #2047395.
+[02:07:03	]Michael Hoxworth ran 'drop' on item 'Golden Goose' (#2047394)
+[02:07:03	]Michael Hoxworth has lost a 'Golden Goose' #2047394.
+[02:07:04	]Michael Hoxworth ran 'drop' on item 'Overseer Pants' (#2047393)
+[02:07:04	]Michael Hoxworth has lost a 'Overseer Pants' #2047393.
+[02:07:05	]Michael Hoxworth ran 'drop' on item 'The Overseer' (#2047392)
+[02:07:05	]Michael Hoxworth has lost a 'The Overseer' #2047392.
+[02:07:10	]Michael Hoxworth destroyed a 'The Authoritarian Trousers' #2047369.
+[02:07:10	]Michael Hoxworth destroyed a 'Overseer Pants' #2047393.
+[02:07:11	]Michael Hoxworth destroyed a 'Devil's Advocate' #2047396.
+[02:07:12	]Michael Hoxworth destroyed a 'Golden Goose' #2047394.
+[02:07:13	]Michael Hoxworth destroyed a 'The Overseer' #2047392.
+[02:07:14	]Michael Hoxworth destroyed a 'Golden Goose Trousers' #2047395.
+[02:07:32	]Michael Hoxworth has spawned a magazine_popper_6rnd.
+[02:07:33	]Michael Hoxworth ran 'take' on item '6rnd Popper-magazine' (#2047398)
+[02:07:33	]Michael Hoxworth has gained a '6rnd Popper-magazine' #2047398.
+[02:07:38	]Michael Hoxworth has spawned a magazine_popper_6rnd.
+[02:07:39	]Michael Hoxworth ran 'take' on item '6rnd Popper-magazine' (#2047399)
+[02:07:39	]Michael Hoxworth has gained a '6rnd Popper-magazine' #2047399.
+[02:07:50	]Michael Hoxworth has spawned a 357ammo.
+[02:07:51	]Michael Hoxworth ran 'take' on item '.357 Magnum Bullets' (#2047400)
+[02:07:51	]Michael Hoxworth has gained a '.357 Magnum Bullets' #2047400.
+[02:07:52	]Michael Hoxworth has spawned a 357ammo.
+[02:07:52	]Michael Hoxworth ran 'take' on item '.357 Magnum Bullets' (#2047401)
+[02:07:52	]Michael Hoxworth has gained a '.357 Magnum Bullets' #2047401.
+[02:07:53	]Michael Hoxworth has spawned a 357ammo.
+[02:07:54	]Michael Hoxworth ran 'take' on item '.357 Magnum Bullets' (#2047402)
+[02:07:54	]Michael Hoxworth has gained a '.357 Magnum Bullets' #2047402.
+[02:07:57	]Michael Hoxworth ran 'use' on item '.357 Magnum Bullets' (#2047400)
+[02:08:15	]Michael Hoxworth ran 'use' on item '.357 Magnum Bullets' (#2047401)
+[02:08:18	]Michael Hoxworth ran 'drop' on item '6rnd Popper-magazine' (#2047399)
+[02:08:18	]Michael Hoxworth has lost a '6rnd Popper-magazine' #2047399.
+[02:08:21	]Michael Hoxworth ran 'take' on item '6rnd Popper-magazine' (#2047399)
+[02:08:21	]Michael Hoxworth has gained a '6rnd Popper-magazine' #2047399.
+[02:08:31	]Michael Hoxworth has spawned a pistolammo.
+[02:08:33	]Michael Hoxworth ran 'take' on item '9mm Pistol Bullets' (#2047403)
+[02:08:33	]Michael Hoxworth has gained a '9mm Pistol Bullets' #2047403.
+[02:08:40	]Michael Hoxworth has spawned a medal_bronze.
+[02:08:42	]Michael Hoxworth ran 'take' on item 'Bronze Star Medal' (#2047404)
+[02:08:42	]Michael Hoxworth has gained a 'Bronze Star Medal' #2047404.
+[02:08:47	]Michael Hoxworth ran 'drop' on item 'Bronze Star Medal' (#2047404)
+[02:08:47	]Michael Hoxworth has lost a 'Bronze Star Medal' #2047404.
+[02:08:52	]Michael Hoxworth destroyed a 'Bronze Star Medal' #2047404.
+[02:09:03	]Michael Hoxworth has spawned a lrr_mc.
+[02:09:06	]Michael Hoxworth ran 'take' on item 'Multi-Channel Long-Range Radio' (#2047405)
+[02:09:15	]Michael Hoxworth destroyed a 'Multi-Channel Long-Range Radio' #2047405.
+[02:09:45	]Michael Hoxworth has spawned a magazine_usp_15rnd.
+[02:09:49	]Michael Hoxworth ran 'take' on item '17rnd Usp-magazine' (#2047406)
+[02:09:49	]Michael Hoxworth has gained a '17rnd Usp-magazine' #2047406.
+[02:09:52	]Michael Hoxworth ran 'drop' on item '17rnd Usp-magazine' (#2047406)
+[02:09:52	]Michael Hoxworth has lost a '17rnd Usp-magazine' #2047406.
+[02:09:53	]Michael Hoxworth ran 'drop' on item '9mm Pistol Bullets' (#2047403)
+[02:09:53	]Michael Hoxworth has lost a '9mm Pistol Bullets' #2047403.
+[02:09:54	]Lucaa has connected.
+[02:10:06	]Michael Hoxworth destroyed a '9mm Pistol Bullets' #2047403.
+[02:10:17	]Michael Hoxworth destroyed a '17rnd Usp-magazine' #2047406.
+[02:10:20	]Michael Hoxworth ran 'drop' on item 'Popper' (#2047382)
+[02:10:20	]Michael Hoxworth has lost a 'Popper' #2047382.
+[02:10:21	]Michael Hoxworth ran 'drop' on item '6rnd Popper-magazine' (#2047399)
+[02:10:21	]Michael Hoxworth has lost a '6rnd Popper-magazine' #2047399.
+[02:10:21	]Michael Hoxworth ran 'drop' on item '.357 Magnum Bullets' (#2047402)
+[02:10:21	]Michael Hoxworth has lost a '.357 Magnum Bullets' #2047402.
+[02:10:22	]Michael Hoxworth ran 'drop' on item 'M40' (#2047375)
+[02:10:22	]Michael Hoxworth has lost a 'M40' #2047375.
+[02:10:23	]Michael Hoxworth ran 'drop' on item '6rnd Popper-magazine' (#2047398)
+[02:10:23	]Michael Hoxworth has lost a '6rnd Popper-magazine' #2047398.
+[02:10:24	]Michael Hoxworth ran 'drop' on item 'CWU Member Access Keycard' (#2047362)
+[02:10:24	]Michael Hoxworth has lost a 'CWU Member Access Keycard' #2047362.
+[02:10:26	]Michael Hoxworth destroyed a 'Popper' #2047382.
+[02:10:27	]Michael Hoxworth destroyed a '.357 Magnum Bullets' #2047402.
+[02:10:28	]Michael Hoxworth destroyed a '6rnd Popper-magazine' #2047398.
+[02:10:28	]Michael Hoxworth destroyed a 'CWU Member Access Keycard' #2047362.
+[02:10:29	]Michael Hoxworth destroyed a '6rnd Popper-magazine' #2047399.
+[02:10:34	]Michael Hoxworth destroyed a 'M40' #2047375.
+[02:10:45	]Michael Hoxworth has spawned a xushi_the_meal.
+[02:10:47	]Michael Hoxworth ran 'take' on item ''The Meal'' (#2047407)
+[02:10:47	]Michael Hoxworth has gained a ''The Meal'' #2047407.
+[02:10:51	]Michael Hoxworth ran 'drop' on item ''The Meal'' (#2047407)
+[02:10:51	]Michael Hoxworth has lost a ''The Meal'' #2047407.
+[02:10:52	]Michael Hoxworth destroyed a ''The Meal'' #2047407.
+[02:10:57	]Michael Hoxworth has spawned a Rabit_test.
+[02:11:04	]Michael Hoxworth destroyed a 'A surprise Item' #2047408.
+[02:11:07	]Michael Hoxworth has spawned a Rabit_test.
+[02:11:15	]Michael Hoxworth has used a context menu option with the name: rb655_dissolve
+[02:11:17	]env_entity_dissolver destroyed a 'A surprise Item' #2047409.
+[02:11:18	]Michael Hoxworth has spawned a Rabit_test.
+[02:11:23	]Michael Hoxworth has used a context menu option with the name: rb655_dissolve
+[02:11:25	]env_entity_dissolver destroyed a 'A surprise Item' #2047410.
+[02:11:30	]Michael Hoxworth has spawned a Rabit_test.
+[02:11:44	]Michael Hoxworth has used a context menu option with the name: skin
+[02:11:46	]Michael Hoxworth has used a context menu option with the name: remove
+[02:11:57	]Michael Hoxworth has spawned a mask_com.
+[02:12:02	]Michael Hoxworth ran 'take' on item 'Advanced CP Mask' (#2047412)
+[02:12:02	]Michael Hoxworth has gained a 'Advanced CP Mask' #2047412.
+[02:12:08	]Michael Hoxworth has spawned a uniform_s24.
+[02:12:09	]Michael Hoxworth ran 'take' on item 'Summit 24 Elite Uniform' (#2047413)
+[02:12:09	]Michael Hoxworth has gained a 'Summit 24 Elite Uniform' #2047413.
+[02:12:43	][IC] Michael Hoxworth: <:: Hello. ::>
+[02:12:46	][IC] Michael Hoxworth: <:: Fuck you. ::>
+[02:12:49	][IC] Michael Hoxworth: <:: I'm back. ::>
+[02:13:27	]Michael Hoxworth has spawned a uniform_ocs.
+[02:13:28	]Michael Hoxworth ran 'take' on item 'Containment Uniform' (#2047414)
+[02:13:28	]Michael Hoxworth has gained a 'Containment Uniform' #2047414.
+[02:13:43	][IC] Michael Hoxworth: <:: Hi. ::>
+[02:13:50	][IC] Michael Hoxworth: <:: 10. ::>
+[02:13:52	][IC] Michael Hoxworth: <:: 9. ::>
+[02:14:02	]Michael Hoxworth has spawned a uniform_valkyrie.
+[02:14:06	]Michael Hoxworth ran 'take' on item 'OTA Valkyrie Uniform' (#2047415)
+[02:14:10	]Michael Hoxworth ran 'take' on item 'OTA Valkyrie Uniform' (#2047415)
+[02:14:14	]Michael Hoxworth ran 'take' on item 'OTA Valkyrie Uniform' (#2047415)
+[02:14:14	]Michael Hoxworth has gained a 'OTA Valkyrie Uniform' #2047415.
+[02:14:25	][IC] Michael Hoxworth: <:: Move back. ::>
+[02:14:29	][IC] Michael Hoxworth: <:: 1. ::>
+[02:14:35	][IC] Michael Hoxworth: <:: Flatline. ::>
+[02:14:55	][IC] Michael Hoxworth: <:: Overwatch confirm, HVT contained. ::>
+[02:15:14	]Michael Hoxworth has spawned a combine_card.
+[02:15:16	]Michael Hoxworth ran 'take' on item 'Combine Card' (#2047416)
+[02:15:16	]Michael Hoxworth has gained a 'Combine Card' #2047416.
+[02:15:54	]Michael Hoxworth has spawned a bullets_357.
+[02:15:58	]Michael Hoxworth has used a context menu option with the name: remove
+[02:16:05	]Michael Hoxworth has spawned a uniform_suppressor.
+[02:16:06	]Michael Hoxworth ran 'take' on item 'OTA Suppressor Uniform' (#2047418)
+[02:16:13	]Michael Hoxworth ran 'take' on item 'OTA Suppressor Uniform' (#2047418)
+[02:16:13	]Michael Hoxworth has gained a 'OTA Suppressor Uniform' #2047418.
+[02:16:22	]Michael Hoxworth has spawned a mask_ota.
+[02:16:24	]Michael Hoxworth ran 'take' on item 'OTA Mask' (#2047419)
+[02:16:24	]Michael Hoxworth has gained a 'OTA Mask' #2047419.
+[02:16:42	][IC] Michael Hoxworth: <:: Five, four, three, two, one, flash flash flash! ::>
+[02:16:52	][IC] Michael Hoxworth: <:: Team is deployed and scanning. ::>
+[02:16:57	]Michael Hoxworth has spawned a uniform_ofc.
+[02:16:58	]Michael Hoxworth ran 'take' on item 'CP Captain Uniform' (#2047420)
+[02:17:03	]Michael Hoxworth ran 'drop' on item 'OTA Mask' (#2047419)
+[02:17:03	]Michael Hoxworth has lost a 'OTA Mask' #2047419.
+[02:17:04	]Michael Hoxworth ran 'drop' on item 'OTA Suppressor Uniform' (#2047418)
+[02:17:04	]Michael Hoxworth has lost a 'OTA Suppressor Uniform' #2047418.
+[02:17:07	]Michael Hoxworth ran 'take' on item 'CP Captain Uniform' (#2047420)
+[02:17:07	]Michael Hoxworth has gained a 'CP Captain Uniform' #2047420.
+[02:17:15	]Michael Hoxworth ran 'take' on item 'OTA Mask' (#2047419)
+[02:17:15	]Michael Hoxworth has gained a 'OTA Mask' #2047419.
+[02:17:16	]Michael Hoxworth ran 'take' on item 'OTA Suppressor Uniform' (#2047418)
+[02:17:16	]Michael Hoxworth has gained a 'OTA Suppressor Uniform' #2047418.
+[02:17:19	]Garratz has unloaded their "Michael Hoxworth" character.
+[02:17:28	]Garratz loaded the character 'Michael Hoxworth'
+[02:17:54	]Lucaa (STEAM_0:1:460171975) deleted character 'Elisa Amato'
+[02:17:58	]Lucaa (STEAM_0:1:460171975) deleted character 'Sir Pigeon IV'
+[02:18:00	]Lucaa (STEAM_0:1:460171975) deleted character 'Headcrab'
+[02:18:54	]Michael Hoxworth has changed Michael Hoxworth's bodygroups.
+[02:19:25	]Michael Hoxworth ran 'drop' on item 'Summit 24 Elite Uniform' (#2047413)
+[02:19:25	]Michael Hoxworth has lost a 'Summit 24 Elite Uniform' #2047413.
+[02:19:26	]Michael Hoxworth ran 'drop' on item 'Containment Uniform' (#2047414)
+[02:19:26	]Michael Hoxworth has lost a 'Containment Uniform' #2047414.
+[02:19:26	]Michael Hoxworth ran 'drop' on item 'OTA Suppressor Uniform' (#2047418)
+[02:19:26	]Michael Hoxworth has lost a 'OTA Suppressor Uniform' #2047418.
+[02:19:27	]Michael Hoxworth ran 'drop' on item 'Advanced CP Mask' (#2047412)
+[02:19:27	]Michael Hoxworth has lost a 'Advanced CP Mask' #2047412.
+[02:19:27	]Michael Hoxworth ran 'drop' on item 'OTA Valkyrie Uniform' (#2047415)
+[02:19:27	]Michael Hoxworth has lost a 'OTA Valkyrie Uniform' #2047415.
+[02:19:28	]Michael Hoxworth ran 'drop' on item 'OTA Mask' (#2047419)
+[02:19:28	]Michael Hoxworth has lost a 'OTA Mask' #2047419.
+[02:19:33	]Michael Hoxworth destroyed a 'Advanced CP Mask' #2047412.
+[02:19:34	]Michael Hoxworth destroyed a 'OTA Suppressor Uniform' #2047418.
+[02:19:35	]Michael Hoxworth destroyed a 'Containment Uniform' #2047414.
+[02:19:36	]Michael Hoxworth destroyed a 'Summit 24 Elite Uniform' #2047413.
+[02:19:37	]Michael Hoxworth destroyed a 'OTA Mask' #2047419.
+[02:19:37	]Michael Hoxworth destroyed a 'OTA Valkyrie Uniform' #2047415.
+[02:20:10	]Michael Hoxworth ran 'use' on item 'The Third Eye' (#2047214)
+[02:20:10	]Michael Hoxworth has gained a level -3 short boost in Strength.
+[02:20:10	]Michael Hoxworth has gained a level -3 short boost in Agility.
+[02:20:10	]Michael Hoxworth has gained a level 6 short boost in Intelligence.
+[02:20:10	]Michael Hoxworth has gained a level 6 short boost in Perception.
+[02:20:10	]Michael Hoxworth has gained a 'Syringe' #2047421.
+[02:20:17	]Lucaa created the character 'Lucia Amerto'
+[02:20:17	]Lucaa loaded the character 'Lucia Amerto'
+[02:20:17	]Lucia Amerto has gained a 'Flashlight' #2047422.
+[02:20:17	]Lucia Amerto has gained a 'Light Grey Armband' #2047423.
+[02:20:17	]Lucia Amerto has gained a '#30120's Identity Card' #2047424.
+[02:20:17	]Lucia Amerto has gained a 'Green Jumpsuit' #2047425.
+[02:20:17	]Lucia Amerto has gained a 'Brown Jumpsuit Trousers' #2047426.
+[02:20:28	]Console ran SAM command 'setrank' with arguments: 'hox' 'gamemaster'
+[02:20:31	]Michael Hoxworth entered observer.
+[02:20:32	]Michael Hoxworth exited observer at their location.
+[02:21:03	]Michael Hoxworth has spawned a pickaxe.
+[02:21:13	][OOC] Lucia Amerto: hi
+[02:21:14	]Michael Hoxworth has given himself a largebag.
+[02:21:14	]Michael Hoxworth has gained a 'Large Bag' #2047428.
+[02:21:15	]Michael Hoxworth has given himself a smallbag.
+[02:21:15	]Michael Hoxworth has gained a 'Small Bag' #2047429.
+[02:21:19	][OOC] Michael Hoxworth: Hello!
+[02:21:31	]Michael Hoxworth ran 'Use' on item 'Syringe' (#2047421)
+[02:21:31	]Michael Hoxworth has gained a 'Blood Syringe' #2047430.
+[02:21:33	][OOC] Lucia Amerto: Where you at? xx
+[02:21:36	][OOC] Michael Hoxworth: plaza
+[02:21:41	]Michael Hoxworth has spawned a mag_pouch.
+[02:21:42	]Michael Hoxworth ran 'take' on item 'Magazine Pouch' (#2047431)
+[02:21:42	]Michael Hoxworth has gained a 'Magazine Pouch' #2047431.
+[02:21:57	]Michael Hoxworth destroyed a 'Pickaxe' #2047427.
+[02:22:00	]Michael Hoxworth ran 'drop' on item 'Blood Syringe' (#2047430)
+[02:22:00	]Michael Hoxworth has lost a 'Blood Syringe' #2047430.
+[02:22:03	][OOC] Lucia Amerto: guuuh, I've never been to the outlands before
+[02:22:03	]Michael Hoxworth destroyed a 'Blood Syringe' #2047430.
+[02:22:11	][OOC] Michael Hoxworth: just go into observer
+[02:22:17	][OOC] Lucia Amerto: haven't got perms
+[02:22:29	][OOC] Lucia Amerto: AM RUNNING
+[02:22:36	]Michael Hoxworth has given himself a head_fedora.
+[02:22:36	]Michael Hoxworth has gained a 'Black Fedora' #2047432.
+[02:22:43	][OOC] Lucia Amerto: bring me
+[02:22:49	][OOC] Lucia Amerto: !bring 
+[02:22:58	][OOC] Lucia Amerto: then my steamID
+[02:23:05	]Console ran SAM command 'setrank' with arguments: 'luc' 'gamemaster'
+[02:23:07	]Lucia Amerto entered observer.
+[02:23:07	]Lucia Amerto exited observer.
+[02:23:14	]Lucia Amerto ran SAM command 'goto' with arguments: 'Michael' 'Hoxworth'
+[02:23:14	]Lucia Amerto entered observer.
+[02:23:31	]Lucia Amerto exited observer.
+[02:23:37	][IC] Lucia Amerto: Bro.
+[02:23:38	]Lucia Amerto was just knocked out due to: hit by stunstick owned by Michael Hoxworth
+[02:23:40	][IC] Michael Hoxworth: Fuck you.
+[02:23:42	][IC] Lucia Amerto: I love that uniform.
+[02:23:42	]Michael Hoxworth has critically hit Lucia Amerto in the left leg dealing 2 damage (CritChance was 0.83).
+[02:23:42	]Lucia Amerto has taken 2 damage from Michael Hoxworth.
+[02:23:43	]Michael Hoxworth has critically hit Lucia Amerto in the left leg dealing 2 damage (CritChance was 0.83).
+[02:23:43	]Lucia Amerto has taken 2 damage from Michael Hoxworth.
+[02:23:44	]Michael Hoxworth has critically hit Lucia Amerto in the left leg dealing 2 damage (CritChance was 0.83).
+[02:23:44	]Lucia Amerto has taken 2 damage from Michael Hoxworth.
+[02:23:44	]Michael Hoxworth has critically hit Lucia Amerto in the left leg dealing 2 damage (CritChance was 0.83).
+[02:23:44	]Lucia Amerto has taken 2 damage from Michael Hoxworth.
+[02:23:45	]Michael Hoxworth has critically hit Lucia Amerto in the left leg dealing 2 damage (CritChance was 0.83).
+[02:23:45	]Lucia Amerto has taken 2 damage from Michael Hoxworth.
+[02:23:46	]Michael Hoxworth has critically hit Lucia Amerto in the left leg dealing 2 damage (CritChance was 0.83).
+[02:23:46	]Lucia Amerto has taken 2 damage from Michael Hoxworth.
+[02:23:47	]Michael Hoxworth has hit Lucia Amerto in the left leg dealing 2 damage (CritChance was 0.83).
+[02:23:47	]Lucia Amerto has taken 2 damage from Michael Hoxworth.
+[02:23:48	][IC] Lucia Amerto: I wanna wear it on Luca.
+[02:23:48	]Michael Hoxworth has critically hit Lucia Amerto in the left leg dealing 2 damage (CritChance was 0.83).
+[02:23:48	]Lucia Amerto has taken 2 damage from Michael Hoxworth.
+[02:23:50	][IC] Lucia Amerto: Stooop.
+[02:23:51	]Lucia Amerto used command '/CharGetUp'.
+[02:23:53	][IC] Michael Hoxworth: No.
+[02:24:00	]Lucia Amerto used command '/CharGetUp'.
+[02:24:08	][IC] Michael Hoxworth: Okay, so let me check.
+[02:24:16	]Michael Hoxworth has spawned a oldrevolver.
+[02:24:19	]Console ran SAM command 'slap' with arguments: 'hox' '0'
+[02:24:19	]Michael Hoxworth ran 'take' on item 'Popper' (#2047433)
+[02:24:19	]Michael Hoxworth has gained a 'Popper' #2047433.
+[02:24:21	][IC] Michael Hoxworth: Popper.
+[02:24:24	]Michael Hoxworth has spawned a bullets_357.
+[02:24:26	]Michael Hoxworth ran 'take' on item '357 Rounds' (#2047434)
+[02:24:26	]Michael Hoxworth has gained a '357 Rounds' #2047434.
+[02:24:27	]Console ran SAM command 'slap' with arguments: 'hox' '0'
+[02:24:30	][IC] Michael Hoxworth: 357 ammo.
+[02:24:32	][IC] Michael Hoxworth: Shut up.
+[02:24:39	][IC] Michael Hoxworth: Wake up finally.
+[02:24:48	][IC] Lucia Amerto: Takes ages with the stun baton.
+[02:24:54	]Michael Hoxworth has taken 50 damage from worldspawn.
+[02:24:54	]Console ran SAM command 'slap' with arguments: 'hox' '50'
+[02:24:58	][IC] Michael Hoxworth: STOP IT.
+[02:25:02	][IC] Michael Hoxworth: Wait.
+[02:25:04	][IC] Michael Hoxworth: RABIT.
+[02:25:06	][IC] Michael Hoxworth: STOP.
+[02:25:11	][IC] Lucia Amerto: Why tf are you called Michael Hoxworth?
+[02:25:16	]Lucia Amerto has spawned a cca_executive.
+[02:25:16	][IC] Michael Hoxworth: My first char.
+[02:25:22	][IC] Lucia Amerto: THAT WAS YOU?
+[02:25:26	][IC] Michael Hoxworth: Yes.
+[02:25:26	]Lucia Amerto ran 'take' on item 'The Executive' (#2047435)
+[02:25:26	]Lucia Amerto has gained a 'The Executive' #2047435.
+[02:25:27	][IC] Michael Hoxworth: Also.
+[02:25:30	][IC] Michael Hoxworth: Big mosquito.
+[02:25:32	][IC] Michael Hoxworth: Gimme a sec.
+[02:25:33	][IC] Lucia Amerto: Director of CWU?
+[02:25:51	][IC] Michael Hoxworth: Vice.
+[02:25:51	][IC] Lucia Amerto: HOW DO YOU USE ADMIN CHAT.
+[02:25:54	][IC] Lucia Amerto: L.
+[02:25:57	]Lucia Amerto has spawned a cca_legs_authoritarian.
+[02:25:58	]Lucia Amerto ran 'take' on item 'The Authoritarian Trousers' (#2047436)
+[02:25:58	]Lucia Amerto has gained a 'The Authoritarian Trousers' #2047436.
+[02:26:06	][IC] Lucia Amerto: Based.
+[02:26:10	][IC] Michael Hoxworth: Yeah, he thinks he's funny.
+[02:26:15	]Lucia Amerto has spawned a shoes_heels.
+[02:26:18	]Lucia Amerto ran 'take' on item 'High Heel Shoes' (#2047437)
+[02:26:18	]Lucia Amerto has gained a 'High Heel Shoes' #2047437.
+[02:26:23	][IC] Michael Hoxworth: As soon as I get my hands on the god damn 6 rounder.
+[02:26:29	][IC] Lucia Amerto: Bro look how sexy I look.
+[02:26:31	][IC] Michael Hoxworth: I'm shooting up the god damn admin room.
+[02:26:34	][IC] Michael Hoxworth: No.
+[02:26:36	][IC] Lucia Amerto: Yeah!
+[02:26:40	][IC] Michael Hoxworth: That jacket's ugly on women.
+[02:26:44	][IC] Michael Hoxworth: Doesn't suit at all.
+[02:26:47	][IC] Lucia Amerto: Wait.
+[02:26:53	]Lucia Amerto has spawned a cca_emir.
+[02:26:55	]Lucia Amerto ran 'take' on item 'The Emir' (#2047438)
+[02:26:55	]Lucia Amerto has gained a 'The Emir' #2047438.
+[02:26:55	][IC] Michael Hoxworth: Sure.
+[02:27:02	][IC] Lucia Amerto: Ew.
+[02:27:02	]Michael Hoxworth has spawned a health_kit.
+[02:27:03	]Michael Hoxworth ran 'take' on item 'Health Kit' (#2047439)
+[02:27:03	]Michael Hoxworth has gained a 'Health Kit' #2047439.
+[02:27:05	][IC] Lucia Amerto: Why is it so..
+[02:27:06	]Michael Hoxworth ran 'use' on item 'Health Kit' (#2047439)
+[02:27:06	]Michael Hoxworth has performed the 'Use Health Kit' action, gaining 135 experience in medicine.
+[02:27:06	]Michael Hoxworth was disinfected by Michael Hoxworth for 701 seconds.
+[02:27:06	]Michael Hoxworth was bandaged by Michael Hoxworth for 94 HP.
+[02:27:07	][IC] Lucia Amerto: Tight.
+[02:27:09	]Michael Hoxworth ran 'use' on item 'Health Kit' (#2047439)
+[02:27:09	]Michael Hoxworth was disinfected by Michael Hoxworth for 701 seconds.
+[02:27:09	]Michael Hoxworth was bandaged by Michael Hoxworth for 94 HP.
+[02:27:25	]Michael Hoxworth has spawned a metro_vsvll.
+[02:27:25	]Michael Hoxworth has spawned a metro_kalashll.
+[02:27:26	]Michael Hoxworth has spawned a metro_dupletll.
+[02:27:26	]Michael Hoxworth has spawned a metro_mr.
+[02:27:27	]Michael Hoxworth has spawned a metro_bastardll.
+[02:27:27	]Michael Hoxworth has spawned a metro_2012ll.
+[02:27:29	]Michael Hoxworth ran 'take' on item 'Last light' (#2047442)
+[02:27:29	]Michael Hoxworth has gained a 'Last light' #2047442.
+[02:27:30	]Michael Hoxworth ran 'take' on item 'Last light' (#2047441)
+[02:27:30	]Michael Hoxworth has gained a 'Last light' #2047441.
+[02:27:31	]Michael Hoxworth ran 'take' on item 'Last light' (#2047443)
+[02:27:31	]Michael Hoxworth has gained a 'Last light' #2047443.
+[02:27:32	]Michael Hoxworth ran 'take' on item 'Last light' (#2047440)
+[02:27:32	]Michael Hoxworth has gained a 'Last light' #2047440.
+[02:27:33	]Michael Hoxworth ran 'take' on item 'Last light' (#2047444)
+[02:27:33	]Michael Hoxworth has gained a 'Last light' #2047444.
+[02:27:34	]Michael Hoxworth ran 'take' on item 'Last light' (#2047445)
+[02:27:34	]Michael Hoxworth has gained a 'Last light' #2047445.
+[02:27:36	]Michael Hoxworth ran 'Equip' on item 'Popper' (#2047433)
+[02:27:39	]Lucia Amerto used command '/PlyWhitelist Lucia Amerto Combine Civil Administration'.
+[02:27:42	]Michael Hoxworth ran 'drop' on item 'Last light' (#2047440)
+[02:27:42	]Michael Hoxworth has lost a 'Last light' #2047440.
+[02:27:43	]Michael Hoxworth ran 'drop' on item 'Last light' (#2047443)
+[02:27:43	]Michael Hoxworth has lost a 'Last light' #2047443.
+[02:27:43	]Michael Hoxworth ran 'drop' on item 'Last light' (#2047441)
+[02:27:43	]Michael Hoxworth has lost a 'Last light' #2047441.
+[02:27:44	]Michael Hoxworth ran 'drop' on item 'Last light' (#2047442)
+[02:27:44	]Michael Hoxworth has lost a 'Last light' #2047442.
+[02:27:44	]Michael Hoxworth ran 'drop' on item 'Last light' (#2047445)
+[02:27:44	]Michael Hoxworth has lost a 'Last light' #2047445.
+[02:27:45	]Michael Hoxworth ran 'drop' on item 'Last light' (#2047444)
+[02:27:45	]Michael Hoxworth has lost a 'Last light' #2047444.
+[02:27:49	]Michael Hoxworth destroyed a 'Last light' #2047444.
+[02:27:50	]Michael Hoxworth destroyed a 'Last light' #2047445.
+[02:27:51	]Michael Hoxworth destroyed a 'Last light' #2047442.
+[02:27:52	]Michael Hoxworth destroyed a 'Last light' #2047441.
+[02:27:53	]Michael Hoxworth destroyed a 'Last light' #2047443.
+[02:27:53	]Michael Hoxworth destroyed a 'Last light' #2047440.
+[02:28:08	]Lucia Amerto used command '/PlyWhitelist Lucia Combine Civil Administration'.
+[02:28:26	]Lucia Amerto used command '/Forum'.
+[02:28:29	]Michael Hoxworth has spawned a magazine_popper_6rnd.
+[02:28:32	]Michael Hoxworth ran 'take' on item '6rnd Popper-magazine' (#2047446)
+[02:28:32	]Michael Hoxworth has gained a '6rnd Popper-magazine' #2047446.
+[02:28:33	]Michael Hoxworth ran 'combine' on item '6rnd Popper-magazine' (#2047446)
+[02:28:36	]Michael Hoxworth has lost a '6rnd Popper-magazine' #2047446.
+[02:28:37	]Lucia Amerto has spawned a cca_legs_goose.
+[02:28:37	]Lucia Amerto has spawned a cca_goose.
+[02:28:38	][IC] Michael Hoxworth: Yep.
+[02:28:39	]Lucia Amerto ran 'take' on item 'Golden Goose' (#2047448)
+[02:28:39	]Lucia Amerto has gained a 'Golden Goose' #2047448.
+[02:28:40	]Lucia Amerto ran 'take' on item 'Golden Goose Trousers' (#2047447)
+[02:28:40	]Lucia Amerto has gained a 'Golden Goose Trousers' #2047447.
+[02:28:51	]Michael Hoxworth has spawned a magazine_popper_6rnd.
+[02:28:52	]Michael Hoxworth ran 'take' on item '6rnd Popper-magazine' (#2047449)
+[02:28:52	]Michael Hoxworth has gained a '6rnd Popper-magazine' #2047449.
+[02:28:53	]Michael Hoxworth has spawned a magazine_popper_6rnd.
+[02:28:54	][IC] Lucia Amerto: Bro is buggin.
+[02:28:54	]Michael Hoxworth ran 'take' on item '6rnd Popper-magazine' (#2047450)
+[02:28:54	]Michael Hoxworth has gained a '6rnd Popper-magazine' #2047450.
+[02:28:56	]Michael Hoxworth has spawned a magazine_popper_6rnd.
+[02:28:57	]Michael Hoxworth ran 'take' on item '6rnd Popper-magazine' (#2047451)
+[02:28:57	]Michael Hoxworth has gained a '6rnd Popper-magazine' #2047451.
+[02:28:58	]Michael Hoxworth has spawned a magazine_popper_6rnd.
+[02:28:59	]Michael Hoxworth ran 'take' on item '6rnd Popper-magazine' (#2047452)
+[02:28:59	]Michael Hoxworth has gained a '6rnd Popper-magazine' #2047452.
+[02:29:01	]Michael Hoxworth ran 'combine' on item '6rnd Popper-magazine' (#2047449)
+[02:29:01	]Michael Hoxworth ran 'combine' on item '6rnd Popper-magazine' (#2047450)
+[02:29:03	][IC] Lucia Amerto: Got that golden goose drip.
+[02:29:05	]Michael Hoxworth has spawned a bullets_357.
+[02:29:06	]Michael Hoxworth ran 'take' on item '357 Rounds' (#2047453)
+[02:29:06	]Michael Hoxworth has gained a '357 Rounds' #2047453.
+[02:29:07	]Michael Hoxworth has spawned a bullets_357.
+[02:29:07	]Michael Hoxworth ran 'take' on item '357 Rounds' (#2047454)
+[02:29:07	]Michael Hoxworth has gained a '357 Rounds' #2047454.
+[02:29:08	]Michael Hoxworth has spawned a bullets_357.
+[02:29:09	]Michael Hoxworth ran 'take' on item '357 Rounds' (#2047455)
+[02:29:09	]Michael Hoxworth has gained a '357 Rounds' #2047455.
+[02:29:09	]Michael Hoxworth has spawned a bullets_357.
+[02:29:10	]Michael Hoxworth ran 'take' on item '357 Rounds' (#2047456)
+[02:29:10	]Michael Hoxworth has gained a '357 Rounds' #2047456.
+[02:29:11	]Michael Hoxworth has spawned a bullets_357.
+[02:29:11	]Michael Hoxworth ran 'take' on item '357 Rounds' (#2047457)
+[02:29:11	]Michael Hoxworth has gained a '357 Rounds' #2047457.
+[02:29:12	]Michael Hoxworth has spawned a bullets_357.
+[02:29:13	]Michael Hoxworth ran 'take' on item '357 Rounds' (#2047458)
+[02:29:13	]Michael Hoxworth has gained a '357 Rounds' #2047458.
+[02:29:14	]Michael Hoxworth has gained a '6rnd Popper-magazine' #2047446.
+[02:29:14	]Michael Hoxworth has lost a '6rnd Popper-magazine' #2047450.
+[02:29:19	]Michael Hoxworth ran 'combine' on item '6rnd Popper-magazine' (#2047451)
+[02:29:20	]Michael Hoxworth ran 'combine' on item '6rnd Popper-magazine' (#2047452)
+[02:29:21	]Lucia Amerto has spawned a stunstick.
+[02:29:22	]Michael Hoxworth ran 'combine' on item '6rnd Popper-magazine' (#2047446)
+[02:29:25	]Lucia Amerto ran 'take' on item 'Stunstick' (#2047459)
+[02:29:25	]Lucia Amerto has gained a 'Stunstick' #2047459.
+[02:29:27	]Lucia Amerto ran 'Equip' on item 'Stunstick' (#2047459)
+[02:29:46	][IC] Lucia Amerto: Over here!
+[02:29:55	]Michael Hoxworth has spawned a 'NPC [4757][npc_monk]'.
+[02:29:56	][IC] Lucia Amerto: Nice.
+[02:29:57	]Michael Hoxworth has critically hit npc_monk in the head dealing 41 damage (CritChance was 0.94).
+[02:29:59	]Michael Hoxworth has critically hit npc_monk in the head dealing 41 damage (CritChance was 0.94).
+[02:30:00	]Michael Hoxworth has critically hit npc_monk in the head dealing 41 damage (CritChance was 0.94).
+[02:30:01	]Michael Hoxworth has critically hit npc_monk in the head dealing 41 damage (CritChance was 0.94).
+[02:30:02	]Michael Hoxworth has critically hit npc_monk in the head dealing 41 damage (CritChance was 0.94).
+[02:30:03	]Michael Hoxworth has critically hit npc_monk in the head dealing 21 damage (CritChance was 0.94).
+[02:30:04	]Michael Hoxworth has gained a '6rnd Popper-magazine' #2047450.
+[02:30:04	]Michael Hoxworth has lost a '6rnd Popper-magazine' #2047452.
+[02:30:07	]Michael Hoxworth has gained level 11 in the Guns skill.
+[02:30:13	]Michael Hoxworth has gained a '6rnd Popper-magazine' #2047452.
+[02:30:13	]Michael Hoxworth has lost a '6rnd Popper-magazine' #2047451.
+[02:30:21	]Lucia Amerto used command '/PlyWhitelist Lucia Civil Protection'.
+[02:30:25	][IC] Lucia Amerto: Coming back as a CP.
+[02:30:46	][IC] Michael Hoxworth: Dont change.
+[02:30:48	][IC] Michael Hoxworth: No.
+[02:30:50	][IC] Michael Hoxworth: No! Nooo!.
+[02:30:53	]Michael Hoxworth is fully healed.
+[02:31:02	]Michael Hoxworth has spawned a birdegg.
+[02:31:06	]Michael Hoxworth ran 'take' on item 'Bird Egg' (#2047460)
+[02:31:06	]Michael Hoxworth has gained a 'Bird Egg' #2047460.
+[02:31:09	]Michael Hoxworth ran 'drop' on item 'Bird Egg' (#2047460)
+[02:31:09	]Michael Hoxworth has lost a 'Bird Egg' #2047460.
+[02:31:10	]Michael Hoxworth has gained a '6rnd Popper-magazine' #2047451.
+[02:31:10	]Michael Hoxworth has lost a '6rnd Popper-magazine' #2047452.
+[02:31:13	]Michael Hoxworth destroyed a 'Bird Egg' #2047460.
+[02:31:13	]Michael Hoxworth has gained a '6rnd Popper-magazine' #2047452.
+[02:31:13	]Michael Hoxworth has lost a '6rnd Popper-magazine' #2047451.
+[02:31:17	]Michael Hoxworth ran 'combine' on item '6rnd Popper-magazine' (#2047450)
+[02:31:19	]Michael Hoxworth ran 'combine' on item '6rnd Popper-magazine' (#2047452)
+[02:31:26	]Lucaa created the character 'C17:RCT.YELLO-10'
+[02:31:26	]Lucia Amerto has gained level 5 in the Guns skill.
+[02:31:26	]Lucia Amerto has gained level 10 in the Speed skill.
+[02:31:26	]Lucaa loaded the character 'C17:RCT.YELLO-10'
+[02:31:26	]C17:RCT.YELLO-10 has gained a '#73857's Identity Card' #2047461.
+[02:31:26	]C17:RCT.YELLO-10 has gained a 'Combine PDA' #2047462.
+[02:31:26	]C17:RCT.YELLO-10 has gained a 'CP Uniform' #2047463.
+[02:31:26	]C17:RCT.YELLO-10 has gained a 'CP Mask' #2047464.
+[02:31:26	]C17:RCT.YELLO-10 has gained a 'Handheld Radio' #2047465.
+[02:31:26	]C17:RCT.YELLO-10 has gained a 'Small Bag' #2047466.
+[02:31:26	]C17:RCT.YELLO-10 has gained a 'Large Bag' #2047467.
+[02:31:54	]C17:RCT.YELLO-10 used the 'Civil Protection Quartermaster' vendor.
+[02:31:56	]Michael Hoxworth has gained a '6rnd Popper-magazine' #2047451.
+[02:31:56	]Michael Hoxworth has lost a '6rnd Popper-magazine' #2047452.
+[02:32:26	]C17:RCT.YELLO-10 used the 'Civil Protection Quartermaster' vendor.
+[02:32:29	][OOC] C17:RCT.YELLO-10: bro
+[02:32:34	][OOC] C17:RCT.YELLO-10: your perms go
+[02:32:40	][OOC] Michael Hoxworth: I TRIED TO WARN YOU
+[02:32:40	][OOC] C17:RCT.YELLO-10: if you switch character
+[02:32:41	][OOC] Michael Hoxworth: MORON
+[02:32:49	][OOC] C17:RCT.YELLO-10: rabit will be on soon
+[02:32:51	]C17:RCT.YELLO-10 used the 'Civil Protection Quartermaster' vendor.
+[02:32:57	]C17:RCT.YELLO-10 has gained a 'Combine PDA' #2047468.
+[02:32:57	]Michael Hoxworth has gained a '6rnd Popper-magazine' #2047452.
+[02:32:57	]Michael Hoxworth has lost a '6rnd Popper-magazine' #2047451.
+[02:33:01	]C17:RCT.YELLO-10 has gained a 'Stunstick' #2047469.
+[02:33:09	][OOC] Michael Hoxworth: what's the bind to lower and raise your weapon again?
+[02:33:15	][OOC] C17:RCT.YELLO-10: r
+[02:33:21	]C17:RCT.YELLO-10 used the 'Civil Protection Quartermaster' vendor.
+[02:33:23	][OOC] Michael Hoxworth: I know you can change it somehow
+[02:33:32	][OOC] C17:RCT.YELLO-10: hm.. not too sure
+[02:33:38	]C17:RCT.YELLO-10 ran 'Equip' on item 'Stunstick' (#2047469)
+[02:33:39	]C17:RCT.YELLO-10 used the 'Civil Protection Quartermaster' vendor.
+[02:33:44	]C17:RCT.YELLO-10 has gained a 'MP5A3' #2047470.
+[02:33:49	]C17:RCT.YELLO-10 has gained a '30rnd MP-magazine' #2047471.
+[02:33:49	]C17:RCT.YELLO-10 has gained a '30rnd MP-magazine' #2047472.
+[02:33:50	]C17:RCT.YELLO-10 has gained a '30rnd MP-magazine' #2047473.
+[02:33:56	]C17:RCT.YELLO-10 has gained a '30rnd MP-magazine' #2047474.
+[02:34:31	]Michael Hoxworth entered observer.
+[02:34:38	]Michael Hoxworth exited observer at their location.
+[02:34:41	][OOC] C17:RCT.YELLO-10: I'm coming to plaza
+[02:34:45	]Michael Hoxworth entered observer.
+[02:34:46	]Michael Hoxworth exited observer at their location.
+[02:34:52	]Michael Hoxworth entered observer.
+[02:34:53	]Michael Hoxworth exited observer at their location.
+[02:35:11	][OOC] C17:RCT.YELLO-10: where are you?
+[02:35:19	]C17:RCT.YELLO-10 ran 'Equip' on item 'MP5A3' (#2047470)
+[02:35:23	][OOC] Michael Hoxworth: broadcast room
+[02:35:29	][OOC] C17:RCT.YELLO-10: comin
+[02:35:55	]C17:RCT.YELLO-10 has turned a ration dispenser off.
+[02:36:18	]Michael Hoxworth has spawned a broadcasting_device.
+[02:36:19	]Michael Hoxworth ran 'take' on item 'Broadcasting Device' (#2047475)
+[02:36:19	]Michael Hoxworth has gained a 'Broadcasting Device' #2047475.
+[02:37:12	]Michael Hoxworth used command '/BroadcastIt All around the district, the intercom system comes to life, and a maniac that's back from the dead starts to speak'.
+[02:37:20	]Rabithunter has connected.
+[02:37:23	]Michael Hoxworth used command '/Broadcast InhaleI’ve come to make an announcement, Shadow the Hedgehog is a bitchass mother fucker. He pissed on my fucking wife. That’s right, he took his hedgehog little quilly dick out and he pissed on my fucking wife.'.
+[02:37:33	][OOC] C17:RCT.YELLO-10: "Inhalel"
+[02:37:38	][OOC] Michael Hoxworth: shut up
+[02:37:42	]Michael Hoxworth has spawned a capda.
+[02:37:44	]Michael Hoxworth ran 'take' on item 'Civil Administration PDA' (#2047476)
+[02:37:44	]Michael Hoxworth has gained a 'Civil Administration PDA' #2047476.
+[02:37:47	]Michael Hoxworth ran 'Equip' on item 'Civil Administration PDA' (#2047476)
+[02:37:57	][OOC] C17:RCT.YELLO-10: I'm lost
+[02:38:04	]Michael Hoxworth has spawned a civil_protection_ration.
+[02:38:05	]Michael Hoxworth ran 'take' on item 'Civil Protection Ration' (#2047477)
+[02:38:05	]Michael Hoxworth has gained a 'Civil Protection Ration' #2047477.
+[02:38:06	]Michael Hoxworth ran 'Open' on item 'Civil Protection Ration' (#2047477)
+[02:38:06	]Michael Hoxworth has gained a 'Metropolice Supplements' #2047478.
+[02:38:06	]Michael Hoxworth has gained a 'Soda Bob Brawn' #2047479.
+[02:38:06	]Michael Hoxworth has gained a 'Medium Credits Coupon' #2047480.
+[02:38:08	]Michael Hoxworth ran 'Consume' on item 'Soda Bob Brawn' (#2047479)
+[02:38:08	]Michael Hoxworth has gained a level 1 long boost in Perception.
+[02:38:08	]Michael Hoxworth has gained a level 2 long boost in Agility.
+[02:38:08	]Michael Hoxworth ran 'Consume' on item 'Metropolice Supplements' (#2047478)
+[02:38:08	]Michael Hoxworth has gained a level 3 long boost in Strength.
+[02:38:09	]Michael Hoxworth ran 'drop' on item 'Medium Credits Coupon' (#2047480)
+[02:38:09	]Michael Hoxworth has lost a 'Medium Credits Coupon' #2047480.
+[02:38:13	]Michael Hoxworth destroyed a 'Medium Credits Coupon' #2047480.
+[02:38:16	]Michael Hoxworth ran 'drop' on item 'Civil Administration PDA' (#2047476)
+[02:38:16	]Michael Hoxworth has lost a 'Civil Administration PDA' #2047476.
+[02:38:17	]Michael Hoxworth destroyed a 'Civil Administration PDA' #2047476.
+[02:38:18	]Rabithunter loaded the character 'Pathfinder'
+[02:38:23	]Pathfinder is fully healed.
+[02:38:28	]Pathfinder entered observer.
+[02:38:42	]Michael Hoxworth has spawned a assaultshotgun.
+[02:38:44	]Pathfinder exited observer at their location.
+[02:38:46	]Michael Hoxworth has used a context menu option with the name: rb655_dissolve
+[02:38:48	]env_entity_dissolver destroyed a 'Overwatch Assault Shotgun' #2047481.
+[02:38:57	]Michael Hoxworth has spawned a flashlight.
+[02:39:00	]Michael Hoxworth ran 'take' on item 'Flashlight' (#2047482)
+[02:39:00	]Michael Hoxworth has gained a 'Flashlight' #2047482.
+[02:39:07	][IC] Michael Hoxworth: Oh.
+[02:39:09	][IC] Pathfinder: Hi.
+[02:39:10	][IC] Michael Hoxworth: You're not Luca.
+[02:39:22	][IC] Michael Hoxworth: I'm back from the dead, bitch!
+[02:39:27	]Michael Hoxworth has gained a '6rnd Popper-magazine' #2047451.
+[02:39:27	]Michael Hoxworth has lost a '6rnd Popper-magazine' #2047452.
+[02:39:32	][IC] Pathfinder: I planned to kill you.
+[02:39:37	][IC] C17:RCT.YELLO-10: Hi.
+[02:39:38	][IC] Michael Hoxworth: I expected as much.
+[02:39:44	][IC] C17:RCT.YELLO-10: No! Nooo!.
+[02:39:46	][IC] Pathfinder: I legit did.
+[02:39:48	][Y] Michael Hoxworth: Scared ya, didn't I?!
+[02:39:51	]Michael Hoxworth has gained a '6rnd Popper-magazine' #2047452.
+[02:39:51	]Michael Hoxworth has lost a '6rnd Popper-magazine' #2047451.
+[02:39:56	][IC] C17:RCT.YELLO-10: <:: Citizen. ::>
+[02:40:02	][IC] Michael Hoxworth: Citizen?
+[02:40:04	][IC] Michael Hoxworth: CITIZEN?!
+[02:40:04	][IC] C17:RCT.YELLO-10: <:: Apply. ::>
+[02:40:13	][IC] Michael Hoxworth: I'M A MEMBER OF THE COMBINE CIVIL ADMINISTRATION!
+[02:40:15	]Michael Hoxworth has gained a '6rnd Popper-magazine' #2047451.
+[02:40:15	]Michael Hoxworth has lost a '6rnd Popper-magazine' #2047450.
+[02:40:18	][IC] C17:RCT.YELLO-10: <:: Citizen. Apply. ::>
+[02:40:20	][IC] Michael Hoxworth: DON'T YOU DARE TOUCH ME!
+[02:40:27	]Michael Hoxworth has gained level 12 in the Guns skill.
+[02:40:27	]Michael Hoxworth has critically hit C17:RCT.YELLO-10 in the left arm dealing 0 damage (CritChance was 0.33).
+[02:40:27	]Michael Hoxworth has critically hit C17:RCT.YELLO-10 in the left arm dealing 10 damage (CritChance was 0.33).
+[02:40:27	]C17:RCT.YELLO-10 has taken 10 damage from Michael Hoxworth.
+[02:40:30	]Pathfinder used command '/ToggleRaise'.
+[02:40:31	]C17:RCT.YELLO-10 is fully healed.
+[02:40:32	]Michael Hoxworth has gained a '6rnd Popper-magazine' #2047450.
+[02:40:32	]Michael Hoxworth was just knocked out due to: hit by stunstick owned by Pathfinder
+[02:40:33	][IC] Michael Hoxworth: Oh, wtf.
+[02:40:37	][IC] Michael Hoxworth: That dealt only 10 damage.
+[02:40:38	][IC] Pathfinder: Haha.
+[02:40:42	][IC] Michael Hoxworth: Also, rabit.
+[02:40:48	][OOC] C17:RCT.YELLO-10: rabit I switched characters and now I dont have perms :(
+[02:40:51	][IC] Michael Hoxworth: What's the command to raise and lower weapon again?
+[02:40:54	]Pathfinder used command '/ToggleRaise'.
+[02:40:56	]C17:RCT.YELLO-10 was just knocked out due to: hit by stunstick owned by Pathfinder
+[02:40:56	][IC] C17:RCT.YELLO-10: <:: Pathfinder. ::>
+[02:40:58	][IC] Michael Hoxworth: I know it's arc something.
+[02:40:59	]C17:RCT.YELLO-10 used command '/CharGetUp'.
+[02:41:00	][IC] Pathfinder: Yes.
+[02:41:03	][IC] Michael Hoxworth: But I wanna rebind it.
+[02:41:11	]C17:RCT.YELLO-10 used command '/CharGetUp'.
+[02:41:25	]Michael Hoxworth used command '/CharDesc'.
+[02:41:54	][IC] Michael Hoxworth: Ha!
+[02:41:57	]Michael Hoxworth has hit C17:RCT.YELLO-10 in the right leg dealing 10 damage (CritChance was 0.37).
+[02:41:57	]C17:RCT.YELLO-10 has taken 10 damage from Michael Hoxworth.
+[02:42:00	][IC] C17:RCT.YELLO-10: Woah.
+[02:42:01	]C17:RCT.YELLO-10 is fully healed.
+[02:42:02	][IC] C17:RCT.YELLO-10: Ugh... Agh-hgh.
+[02:42:06	][IC] Michael Hoxworth: Ugh!
+[02:42:08	][IC] C17:RCT.YELLO-10: Ugh... Agh.
+[02:42:08	][IC] Michael Hoxworth: Oghhh.
+[02:42:12	][IC] C17:RCT.YELLO-10: Ugh...
+[02:42:15	][IC] C17:RCT.YELLO-10: Bro.
+[02:42:16	]Michael Hoxworth has lost a '6rnd Popper-magazine' #2047451.
+[02:42:16	][IC] C17:RCT.YELLO-10: Wtf.
+[02:42:20	][IC] Michael Hoxworth: Cease.
+[02:42:21	]Michael Hoxworth has gained a '6rnd Popper-magazine' #2047451.
+[02:42:21	]Michael Hoxworth has lost a '6rnd Popper-magazine' #2047449.
+[02:42:25	][IC] C17:RCT.YELLO-10: I neeeeed perms again :(.
+[02:42:31	]Pathfinder entered observer.
+[02:42:33	][IC] Michael Hoxworth: Rabit, what's the rebind command-.
+[02:42:34	]Pathfinder exited observer at their location.
+[02:42:38	]Pathfinder ran SAM command 'menu' with arguments: ''
+[02:42:40	][IC] Michael Hoxworth: For the weapon raise.
+[02:42:42	][IC] C17:RCT.YELLO-10: Bind stp "".
+[02:42:43	][IC] C17:RCT.YELLO-10: Oh.
+[02:42:50	]Pathfinder ran SAM command 'setrank' with arguments: '#2' 'gamemaster' '0'
+[02:42:53	]Pathfinder entered observer.
+[02:42:53	]Pathfinder exited observer at their location.
+[02:42:56	]C17:RCT.YELLO-10 entered observer.
+[02:42:56	]C17:RCT.YELLO-10 exited observer.
+[02:43:01	]Michael Hoxworth has spawned a suppressionrifle.
+[02:43:03	]Michael Hoxworth ran 'take' on item 'OSPR2A-EXP' (#2047483)
+[02:43:03	]Michael Hoxworth has gained a 'OSPR2A-EXP' #2047483.
+[02:43:04	][IC] C17:RCT.YELLO-10: Woah.
+[02:43:05	]Michael Hoxworth ran 'Equip' on item 'OSPR2A-EXP' (#2047483)
+[02:43:08	][IC] C17:RCT.YELLO-10: Calm down there bucko.
+[02:43:12	][IC] Michael Hoxworth: No.
+[02:43:17	][IC] C17:RCT.YELLO-10: I am just your local femcop.
+[02:43:21	][IC] Michael Hoxworth: Even worse.
+[02:43:29	][IC] C17:RCT.YELLO-10: Have you seen the really cool Luca Carusso anywhere?
+[02:43:35	]Pathfinder used command '/PlaySound music/scary_tense/mining_alarm_1.ogg'.
+[02:43:45	][IC] C17:RCT.YELLO-10: Oh god!
+[02:43:48	][IC] Pathfinder: Oh no.
+[02:43:52	][IC] Pathfinder: Run!
+[02:43:59	][IC] Michael Hoxworth: You bitch!
+[02:43:59	][IC] C17:RCT.YELLO-10: <:: No. ::>
+[02:44:03	][IC] C17:RCT.YELLO-10: <:: Citizen. ::>
+[02:44:05	]Michael Hoxworth has given himself a magazine_ospr_24rnd.
+[02:44:05	]Michael Hoxworth has gained a '24rnd Heavy-Pulse Magazine' #2047484.
+[02:44:06	]Michael Hoxworth has given himself a magazine_ospr_24rnd.
+[02:44:06	]Michael Hoxworth has gained a '24rnd Heavy-Pulse Magazine' #2047485.
+[02:44:13	][IC] C17:RCT.YELLO-10: <:: Yep, this was definitely the best career choice I ever made. ::>
+[02:44:14	]Michael Hoxworth has given himself a bullets_heavypulse.
+[02:44:14	]Michael Hoxworth has gained a 'Heavy Pulse Rounds' #2047486.
+[02:44:15	]Michael Hoxworth has given himself a bullets_heavypulse.
+[02:44:16	]Michael Hoxworth has given himself a bullets_heavypulse.
+[02:44:20	]Michael Hoxworth ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047484)
+[02:44:22	]Michael Hoxworth has lost a '24rnd Heavy-Pulse Magazine' #2047484.
+[02:44:25	]C17:RCT.YELLO-10 has spawned a broken_cpuniform.
+[02:44:30	][IC] C17:RCT.YELLO-10: <:: Broken? ::>
+[02:44:36	]Pathfinder entered observer.
+[02:44:41	]Pathfinder exited observer at their location.
+[02:44:48	][IC] Michael Hoxworth: Probably for the rogue CPs.
+[02:44:56	][IC] C17:RCT.YELLO-10: Can't even pick it up.
+[02:45:03	]C17:RCT.YELLO-10 ran 'take' on item 'Broken CP Uniform' (#2047487)
+[02:45:03	]C17:RCT.YELLO-10 has gained a 'Broken CP Uniform' #2047487.
+[02:45:05	][IC] C17:RCT.YELLO-10: Yeah!
+[02:45:14	][IC] C17:RCT.YELLO-10: Oh.
+[02:45:16	][IC] C17:RCT.YELLO-10: You can't wear it.
+[02:45:19	]C17:RCT.YELLO-10 ran 'drop' on item 'Broken CP Uniform' (#2047487)
+[02:45:19	]C17:RCT.YELLO-10 has lost a 'Broken CP Uniform' #2047487.
+[02:45:21	]Michael Hoxworth has given himself a uniform_s24.
+[02:45:21	]Michael Hoxworth has gained a 'Summit 24 Elite Uniform' #2047488.
+[02:45:22	]Michael Hoxworth has given himself a mask_ota.
+[02:45:23	]Michael Hoxworth has gained a 'OTA Mask' #2047489.
+[02:45:28	][IC] Pathfinder: What are you trying to do?
+[02:45:29	][IC] C17:RCT.YELLO-10: Thought it would be like a rebel cp outfit.
+[02:45:34	][IC] C17:RCT.YELLO-10: This broken CP uniform.
+[02:45:38	]Pathfinder ran 'take' on item 'Broken CP Uniform' (#2047487)
+[02:45:38	]Pathfinder has gained a 'Broken CP Uniform' #2047487.
+[02:45:43	][IC] C17:RCT.YELLO-10: I thought there'd be a different model.
+[02:45:46	]Pathfinder ran 'drop' on item 'Broken CP Uniform' (#2047487)
+[02:45:46	]Pathfinder has lost a 'Broken CP Uniform' #2047487.
+[02:45:52	][IC] C17:RCT.YELLO-10: Apparently not.
+[02:45:54	]Michael Hoxworth ran 'drop' on item 'Magazine Pouch' (#2047431)
+[02:45:54	]Michael Hoxworth has lost a 'Magazine Pouch' #2047431.
+[02:45:56	]Pathfinder is admin-searching C17:RCT.YELLO-10's inventory.
+[02:45:56	]Pathfinder has used a context menu option with the name: ixviewinventory
+[02:45:58	]C17:RCT.YELLO-10 has spawned a uniform_cp_com.
+[02:45:58	]Pathfinder has closed C17:RCT.YELLO-10's inventory.
+[02:45:59	]C17:RCT.YELLO-10 ran 'take' on item 'CP Command Uniform' (#2047490)
+[02:45:59	]C17:RCT.YELLO-10 has gained a 'CP Command Uniform' #2047490.
+[02:46:01	]Michael Hoxworth has used a context menu option with the name: rb655_dissolve
+[02:46:03	]env_entity_dissolver destroyed a 'Magazine Pouch' #2047431.
+[02:46:09	][IC] C17:RCT.YELLO-10: Ota!
+[02:46:14	]C17:RCT.YELLO-10 has spawned a mask_com.
+[02:46:15	]C17:RCT.YELLO-10 has spawned a uniform_ofc.
+[02:46:16	][IC] Pathfinder: Nice.
+[02:46:16	]C17:RCT.YELLO-10 ran 'take' on item 'CP Captain Uniform' (#2047492)
+[02:46:16	]C17:RCT.YELLO-10 has gained a 'CP Captain Uniform' #2047492.
+[02:46:18	]C17:RCT.YELLO-10 ran 'take' on item 'Advanced CP Mask' (#2047491)
+[02:46:18	]C17:RCT.YELLO-10 has gained a 'Advanced CP Mask' #2047491.
+[02:46:19	][IC] C17:RCT.YELLO-10: No! Nooo!.
+[02:46:27	][IC] Michael Hoxworth: <:: Extractor is live! ::>
+[02:46:34	][IC] C17:RCT.YELLO-10: <:: Ew. ::>
+[02:46:36	][IC] Michael Hoxworth: <:: Where are the new OTA voice lines? ::>
+[02:46:38	][IC] C17:RCT.YELLO-10: <:: This mask is so ugly. ::>
+[02:46:48	][IC] Pathfinder: Try looking in the thingy.
+[02:46:55	][IC] Pathfinder: Information.
+[02:47:06	][IC] Michael Hoxworth: <:: Ready weapons hostiles inbound. ::>
+[02:47:09	][IC] C17:RCT.YELLO-10: <:: Your wife doesn't like me, does she? ::>
+[02:47:13	][IC] Michael Hoxworth: <:: Yeah. ::>
+[02:47:16	][IC] C17:RCT.YELLO-10: <:: What the-? ::>
+[02:47:18	][IC] Michael Hoxworth: <:: Nope, nothing. ::>
+[02:47:24	][IC] Michael Hoxworth: <:: Do I need to be in the OTA faction? ::>
+[02:47:27	][IC] Pathfinder: OTA have diff from CP.
+[02:47:31	][IC] Pathfinder: And yes.
+[02:47:32	][IC] Michael Hoxworth: <:: Yeah, let me try. ::>
+[02:47:40	]Pathfinder entered observer.
+[02:47:41	]Pathfinder exited observer at their location.
+[02:47:46	]Michael Hoxworth used command '/PlyWhitelist Michael Hoxworth Overwatch Transhuman Arm'.
+[02:47:51	]Michael Hoxworth used command '/PlyWhitelist Michael Hoxworth OTA'.
+[02:47:54	]Pathfinder used command '/PlyWhitelist hox overwatch'.
+[02:47:58	][IC] C17:RCT.YELLO-10: Oh hod.
+[02:48:03	][IC] C17:RCT.YELLO-10: Ai faction.
+[02:48:05	]Pathfinder used command '/PlyWhitelist hox transhuman'.
+[02:48:05	][IC] C17:RCT.YELLO-10: Please say..
+[02:48:09	][IC] C17:RCT.YELLO-10: Report please.
+[02:48:18	][IC] Michael Hoxworth: <:: Guh. ::>
+[02:48:19	]Pathfinder used command '/PlyTransfer hox transhuman'.
+[02:48:21	][IC] S10/OWS.GHOST-75: <:: Oh-. ::>
+[02:48:23	][IC] S10/OWS.GHOST-75: <:: There we go. ::>
+[02:48:31	]C17:RCT.YELLO-10 used command '/ActCheer'.
+[02:48:40	]C17:RCT.YELLO-10 used command '/ActCheer'.
+[02:48:56	][IC] S10/OWS.GHOST-75: <:: Hands up, don't move! ::>
+[02:49:03	]Pathfinder used command '/ToggleRaise'.
+[02:49:06	][IC] S10/OWS.GHOST-75: <:: Get back! ::>
+[02:49:11	][IC] S10/OWS.GHOST-75: <:: Get back! ::>
+[02:49:13	]S10/OWS.GHOST-75 has gained level 13 in the Guns skill.
+[02:49:13	]S10/OWS.GHOST-75 has critically hit Pathfinder in the head dealing 29 damage (CritChance was 0.84).
+[02:49:13	]Pathfinder has taken 29 damage from S10/OWS.GHOST-75.
+[02:49:14	]C17:RCT.YELLO-10 has hit S10/OWS.GHOST-75 dealing 8 damage (CritChance was 0.32).
+[02:49:14	]S10/OWS.GHOST-75 has taken 7 damage from C17:RCT.YELLO-10.
+[02:49:14	]S10/OWS.GHOST-75 has critically hit Pathfinder in the head dealing 29 damage (CritChance was 0.85).
+[02:49:14	]Pathfinder has taken 29 damage from S10/OWS.GHOST-75.
+[02:49:14	]S10/OWS.GHOST-75 has gained a '6rnd Popper-magazine' #2047449.
+[02:49:14	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047484.
+[02:49:14	]S10/OWS.GHOST-75 was just knocked out due to: hit by stunstick owned by Pathfinder
+[02:49:17	][IC] S10/OWS.GHOST-75: <:: HOLY. ::>
+[02:49:18	]S10/OWS.GHOST-75 is fully healed.
+[02:49:19	][IC] S10/OWS.GHOST-75: <:: THAT DEALS. ::>
+[02:49:25	][IC] S10/OWS.GHOST-75: <:: A lot less than I expected. ::>
+[02:49:29	][IC] Pathfinder: Gun skill.
+[02:49:34	][IC] S10/OWS.GHOST-75: <:: Oh yeah. ::>
+[02:49:36	][IC] Pathfinder: Less skill less dmg.
+[02:49:37	][IC] S10/OWS.GHOST-75: <:: Need to raise it I guess. ::>
+[02:49:40	][IC] C17:RCT.YELLO-10: <:: Ready to amputate. ::>
+[02:49:43	][IC] S10/OWS.GHOST-75: <:: No. ::>
+[02:49:44	]Pathfinder used command '/ToggleRaise'.
+[02:49:46	]C17:RCT.YELLO-10 was just knocked out due to: hit by stunstick owned by Pathfinder
+[02:49:50	][IC] C17:RCT.YELLO-10: <:: Shit! ::>
+[02:49:53	][IC] S10/OWS.GHOST-75: <:: Agh! N-no! No! No! Get it off me! ::>
+[02:49:58	][IC] C17:RCT.YELLO-10: <:: Damn. ::>
+[02:50:04	][IC] C17:RCT.YELLO-10: <:: Officer needs help! ::>
+[02:50:07	][IC] Pathfinder: Use !respawn.
+[02:50:11	]C17:RCT.YELLO-10 ran SAM command 'respawn' with arguments: ''
+[02:50:15	]C17:RCT.YELLO-10 used command '/CharGetUp'.
+[02:50:17	][IC] S10/OWS.GHOST-75: <:: We can help you, it is safe! ::>
+[02:50:23	][IC] Pathfinder: Aye alright.
+[02:50:26	][IC] S10/OWS.GHOST-75: <:: Haha. ::>
+[02:50:27	][IC] C17:RCT.YELLO-10: <:: I'm feelin' pretty good about myself today. ::>
+[02:50:37	][IC] C17:RCT.YELLO-10: <:: Haha. ::>
+[02:50:40	][IC] S10/OWS.GHOST-75: <:: Eugh, three parasitics inbound. ::>
+[02:50:51	]S10/OWS.GHOST-75 ran 'drop' on item 'Popper' (#2047433)
+[02:50:51	]S10/OWS.GHOST-75 has lost a 'Popper' #2047433.
+[02:50:51	]C17:RCT.YELLO-10 has spawned a rave.
+[02:50:52	]S10/OWS.GHOST-75 ran 'drop' on item '6rnd Popper-magazine' (#2047452)
+[02:50:52	]S10/OWS.GHOST-75 has lost a '6rnd Popper-magazine' #2047452.
+[02:50:52	]S10/OWS.GHOST-75 ran 'drop' on item '6rnd Popper-magazine' (#2047451)
+[02:50:52	]S10/OWS.GHOST-75 has lost a '6rnd Popper-magazine' #2047451.
+[02:50:53	]S10/OWS.GHOST-75 ran 'drop' on item '357 Rounds' (#2047454)
+[02:50:53	]S10/OWS.GHOST-75 has lost a '357 Rounds' #2047454.
+[02:50:53	]S10/OWS.GHOST-75 ran 'drop' on item '357 Rounds' (#2047455)
+[02:50:53	]S10/OWS.GHOST-75 has lost a '357 Rounds' #2047455.
+[02:50:53	]S10/OWS.GHOST-75 ran 'drop' on item '357 Rounds' (#2047457)
+[02:50:53	]S10/OWS.GHOST-75 has lost a '357 Rounds' #2047457.
+[02:50:54	]S10/OWS.GHOST-75 ran 'drop' on item '357 Rounds' (#2047458)
+[02:50:54	]S10/OWS.GHOST-75 has lost a '357 Rounds' #2047458.
+[02:50:54	]S10/OWS.GHOST-75 ran 'drop' on item '357 Rounds' (#2047453)
+[02:50:54	]S10/OWS.GHOST-75 has lost a '357 Rounds' #2047453.
+[02:50:55	]Pathfinder entered observer.
+[02:50:55	]S10/OWS.GHOST-75 ran 'drop' on item '6rnd Popper-magazine' (#2047450)
+[02:50:55	]S10/OWS.GHOST-75 has lost a '6rnd Popper-magazine' #2047450.
+[02:50:55	]Pathfinder exited observer at their location.
+[02:50:56	]S10/OWS.GHOST-75 ran 'drop' on item '6rnd Popper-magazine' (#2047446)
+[02:50:56	]S10/OWS.GHOST-75 has lost a '6rnd Popper-magazine' #2047446.
+[02:50:57	]S10/OWS.GHOST-75 ran 'drop' on item '6rnd Popper-magazine' (#2047449)
+[02:50:57	]S10/OWS.GHOST-75 has lost a '6rnd Popper-magazine' #2047449.
+[02:50:59	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:51:00	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:51:01	]env_entity_dissolver destroyed a '357 Rounds' #2047458.
+[02:51:01	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:51:02	]env_entity_dissolver destroyed a '6rnd Popper-magazine' #2047446.
+[02:51:03	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:51:03	]env_entity_dissolver destroyed a '357 Rounds' #2047455.
+[02:51:04	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:51:05	]env_entity_dissolver destroyed a '6rnd Popper-magazine' #2047450.
+[02:51:05	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:51:06	]env_entity_dissolver destroyed a '357 Rounds' #2047454.
+[02:51:06	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:51:07	]env_entity_dissolver destroyed a '357 Rounds' #2047457.
+[02:51:07	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:51:08	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:51:08	]env_entity_dissolver destroyed a '6rnd Popper-magazine' #2047449.
+[02:51:09	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:51:09	]env_entity_dissolver destroyed a '6rnd Popper-magazine' #2047451.
+[02:51:10	]env_entity_dissolver destroyed a '6rnd Popper-magazine' #2047452.
+[02:51:11	]env_entity_dissolver destroyed a '357 Rounds' #2047453.
+[02:51:16	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:51:18	]env_entity_dissolver destroyed a 'Popper' #2047433.
+[02:51:20	][IC] C17:RCT.YELLO-10: <:: I heard we aren't getting those new stunsticks this year. ::>
+[02:51:23	][IC] S10/OWS.GHOST-75: <:: No. ::>
+[02:51:29	]C17:RCT.YELLO-10 ran 'Consume' on item 'RAVE' (#2047493)
+[02:51:29	]C17:RCT.YELLO-10 has gained a level 5 short boost in Strength.
+[02:51:31	]S10/OWS.GHOST-75 ran 'drop' on item 'CP Captain Uniform' (#2047420)
+[02:51:31	]S10/OWS.GHOST-75 has lost a 'CP Captain Uniform' #2047420.
+[02:51:32	]S10/OWS.GHOST-75 ran 'drop' on item 'The Executive' (#2047368)
+[02:51:32	]S10/OWS.GHOST-75 has lost a 'The Executive' #2047368.
+[02:51:32	]S10/OWS.GHOST-75 ran 'drop' on item 'Gloves' (#2047374)
+[02:51:32	]S10/OWS.GHOST-75 has lost a 'Gloves' #2047374.
+[02:51:33	]S10/OWS.GHOST-75 ran 'drop' on item 'Aviator Glasses' (#2047370)
+[02:51:33	]S10/OWS.GHOST-75 has lost a 'Aviator Glasses' #2047370.
+[02:51:34	]S10/OWS.GHOST-75 ran 'drop' on item 'Black Fedora' (#2047432)
+[02:51:34	]S10/OWS.GHOST-75 has lost a 'Black Fedora' #2047432.
+[02:51:34	]S10/OWS.GHOST-75 ran 'drop' on item 'The Authoritarian Trousers' (#2047397)
+[02:51:34	]S10/OWS.GHOST-75 has lost a 'The Authoritarian Trousers' #2047397.
+[02:51:35	]S10/OWS.GHOST-75 ran 'drop' on item 'Dress Shoes' (#2047373)
+[02:51:35	]S10/OWS.GHOST-75 has lost a 'Dress Shoes' #2047373.
+[02:51:40	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:51:41	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:51:42	]env_entity_dissolver destroyed a 'Dress Shoes' #2047373.
+[02:51:44	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:51:45	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:51:46	]env_entity_dissolver destroyed a 'The Executive' #2047368.
+[02:51:47	]env_entity_dissolver destroyed a 'The Authoritarian Trousers' #2047397.
+[02:51:47	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:51:48	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:51:49	]env_entity_dissolver destroyed a 'Gloves' #2047374.
+[02:51:50	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:51:50	]env_entity_dissolver destroyed a 'CP Captain Uniform' #2047420.
+[02:51:51	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:51:52	]env_entity_dissolver destroyed a 'Black Fedora' #2047432.
+[02:51:53	]env_entity_dissolver destroyed a 'Aviator Glasses' #2047370.
+[02:51:58	][Y] S10/OWS.GHOST-75: <:: Stop. ::>
+[02:52:04	][Y] Pathfinder: What?
+[02:52:04	][Y] S10/OWS.GHOST-75: <:: Laggy as fuck. ::>
+[02:52:11	][Y] Pathfinder: NOT ME BRO!
+[02:52:17	][Y] C17:RCT.YELLO-10: Not me either.
+[02:52:29	][Y] C17:RCT.YELLO-10: They need to make a rave spotify playlist.
+[02:52:32	][Y] S10/OWS.GHOST-75: You're changing stormfox settings.
+[02:52:37	]S10/OWS.GHOST-75 has spawned a uniform_owc.
+[02:52:38	][Y] Pathfinder: Yeah!
+[02:52:39	]S10/OWS.GHOST-75 ran 'take' on item 'OTA Squad Leader Uniform' (#2047494)
+[02:52:39	]S10/OWS.GHOST-75 has gained a 'OTA Squad Leader Uniform' #2047494.
+[02:52:42	]Pathfinder entered observer.
+[02:52:48	][Y] C17:RCT.YELLO-10: Causes mad freezes.
+[02:52:53	]S10/OWS.GHOST-75 has spawned a uniform_eow.
+[02:52:53	]S10/OWS.GHOST-75 ran 'take' on item 'OTA Elite Uniform' (#2047495)
+[02:52:53	]S10/OWS.GHOST-75 has gained a 'OTA Elite Uniform' #2047495.
+[02:52:57	]C17:RCT.YELLO-10 used command '/ActCheer'.
+[02:53:00	]S10/OWS.GHOST-75 has given himself a uniform_charger.
+[02:53:00	]S10/OWS.GHOST-75 has gained a 'OTA Charger Uniform' #2047496.
+[02:53:28	]C17:RCT.YELLO-10 used command '/RemoveDrugEffects yello'.
+[02:53:31	][IC] C17:RCT.YELLO-10: Hi.
+[02:53:33	][IC] S10/OWS.GHOST-75: <:: Hello. ::>
+[02:53:39	]Pathfinder used command '/PlaySound ambience/speech/ca_vaannouncements.ogg'.
+[02:53:39	]S10/OWS.GHOST-75 entered observer.
+[02:53:40	]S10/OWS.GHOST-75 exited observer at their location.
+[02:53:42	]Pathfinder exited observer at their location.
+[02:53:44	][IC] C17:RCT.YELLO-10: Supressor is my fav one.
+[02:53:52	]C17:RCT.YELLO-10 used command '/ActCheer'.
+[02:53:55	]Pathfinder used command '/ActStand 2'.
+[02:53:56	]S10/OWS.GHOST-75 has given himself a uniform_ota.
+[02:53:56	]S10/OWS.GHOST-75 has gained a 'OTA Uniform' #2047497.
+[02:54:02	]C17:RCT.YELLO-10 used command '/ActStand 2'.
+[02:54:16	][IC] S10/OWS.GHOST-75: <:: Which uniform is used on the servers. ::>
+[02:54:19	][IC] S10/OWS.GHOST-75: <:: The typical grunt one? ::>
+[02:54:28	]S10/OWS.GHOST-75 has given himself a uniform_ocs.
+[02:54:28	]S10/OWS.GHOST-75 has gained a 'Containment Uniform' #2047498.
+[02:54:30	][IC] Pathfinder: Yours now is an OSL or ORD.
+[02:54:38	]C17:RCT.YELLO-10 used command '/ExitAct'.
+[02:54:39	]C17:RCT.YELLO-10 has spawned a civil_protection_ration.
+[02:54:40	][IC] Pathfinder: Thats a grunt.
+[02:54:41	][IC] S10/OWS.GHOST-75: <:: Ah. ::>
+[02:54:41	]C17:RCT.YELLO-10 ran 'Open' on item 'Civil Protection Ration' (#2047499)
+[02:54:41	]C17:RCT.YELLO-10 has gained a 'Metropolice Supplements' #2047500.
+[02:54:41	]C17:RCT.YELLO-10 has gained a 'Soda Bob Brawn' #2047501.
+[02:54:41	]C17:RCT.YELLO-10 has gained a 'Medium Credits Coupon' #2047502.
+[02:54:43	][IC] S10/OWS.GHOST-75: <:: Containment uniform. ::>
+[02:54:47	]S10/OWS.GHOST-75 ran 'drop' on item 'Summit 24 Elite Uniform' (#2047488)
+[02:54:47	]S10/OWS.GHOST-75 has lost a 'Summit 24 Elite Uniform' #2047488.
+[02:54:47	]S10/OWS.GHOST-75 ran 'drop' on item 'OTA Charger Uniform' (#2047496)
+[02:54:47	]S10/OWS.GHOST-75 has lost a 'OTA Charger Uniform' #2047496.
+[02:54:48	]S10/OWS.GHOST-75 ran 'drop' on item 'OTA Uniform' (#2047497)
+[02:54:48	]S10/OWS.GHOST-75 has lost a 'OTA Uniform' #2047497.
+[02:54:50	]Pathfinder used command '/ExitAct'.
+[02:54:51	]S10/OWS.GHOST-75 ran 'drop' on item 'OTA Elite Uniform' (#2047495)
+[02:54:51	]S10/OWS.GHOST-75 has lost a 'OTA Elite Uniform' #2047495.
+[02:54:51	]C17:RCT.YELLO-10 ran 'Consume' on item 'Metropolice Supplements' (#2047500)
+[02:54:51	]C17:RCT.YELLO-10 has gained a level 3 long boost in Strength.
+[02:54:52	]S10/OWS.GHOST-75 ran 'drop' on item 'OTA Squad Leader Uniform' (#2047494)
+[02:54:52	]S10/OWS.GHOST-75 has lost a 'OTA Squad Leader Uniform' #2047494.
+[02:54:53	]C17:RCT.YELLO-10 ran 'Consume' on item 'Soda Bob Brawn' (#2047501)
+[02:54:53	]C17:RCT.YELLO-10 has gained a level 1 long boost in Perception.
+[02:54:53	]C17:RCT.YELLO-10 has gained a level 2 long boost in Agility.
+[02:54:56	]Pathfinder ran SAM command 'hp' with arguments: 'path'
+[02:54:57	]C17:RCT.YELLO-10 rolled 12 out of 20 (+0 from Strength).
+[02:54:57	]C17:RCT.YELLO-10 used command '/Roll strength'.
+[02:54:58	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:54:58	]Pathfinder is fully healed.
+[02:54:59	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:55:00	]env_entity_dissolver destroyed a 'Summit 24 Elite Uniform' #2047488.
+[02:55:00	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:55:01	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:55:02	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:55:02	]env_entity_dissolver destroyed a 'OTA Uniform' #2047497.
+[02:55:03	]env_entity_dissolver destroyed a 'OTA Squad Leader Uniform' #2047494.
+[02:55:03	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[02:55:04	]env_entity_dissolver destroyed a 'OTA Elite Uniform' #2047495.
+[02:55:05	]env_entity_dissolver destroyed a 'OTA Charger Uniform' #2047496.
+[02:55:22	]Pathfinder has used a context menu option with the name: remove
+[02:55:23	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047484.
+[02:55:28	]Pathfinder entered observer.
+[02:55:34	]Pathfinder exited observer at their location.
+[02:55:34	]S10/OWS.GHOST-75 has given himself a magazine_ospr_24rnd.
+[02:55:34	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047503.
+[02:55:34	]Pathfinder entered observer.
+[02:55:35	]S10/OWS.GHOST-75 has given himself a magazine_ospr_24rnd.
+[02:55:35	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047504.
+[02:55:35	]Pathfinder exited observer at their location.
+[02:55:35	]S10/OWS.GHOST-75 has given himself a magazine_ospr_24rnd.
+[02:55:35	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047505.
+[02:55:37	]S10/OWS.GHOST-75 has given himself a magazine_ospr_24rnd.
+[02:55:37	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047506.
+[02:55:40	]C17:RCT.YELLO-10 has spawned a bullets_smg1.
+[02:55:41	]S10/OWS.GHOST-75 has given himself a bullets_heavypulse.
+[02:55:41	]S10/OWS.GHOST-75 has gained a 'Heavy Pulse Rounds' #2047508.
+[02:55:42	]S10/OWS.GHOST-75 has given himself a bullets_heavypulse.
+[02:55:42	]S10/OWS.GHOST-75 has gained a 'Heavy Pulse Rounds' #2047509.
+[02:55:42	]C17:RCT.YELLO-10 ran 'take' on item 'Sub-machinegun Bullets' (#2047507)
+[02:55:42	]C17:RCT.YELLO-10 has gained a 'Sub-machinegun Bullets' #2047507.
+[02:55:42	]S10/OWS.GHOST-75 has given himself a bullets_heavypulse.
+[02:55:42	]S10/OWS.GHOST-75 has gained a 'Heavy Pulse Rounds' #2047510.
+[02:55:43	]S10/OWS.GHOST-75 has given himself a bullets_heavypulse.
+[02:55:43	]S10/OWS.GHOST-75 has gained a 'Heavy Pulse Rounds' #2047511.
+[02:55:44	]S10/OWS.GHOST-75 has given himself a bullets_heavypulse.
+[02:55:44	]S10/OWS.GHOST-75 has gained a 'Heavy Pulse Rounds' #2047512.
+[02:55:44	]S10/OWS.GHOST-75 has given himself a bullets_heavypulse.
+[02:55:44	]S10/OWS.GHOST-75 has gained a 'Heavy Pulse Rounds' #2047513.
+[02:55:46	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047485)
+[02:55:48	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047506)
+[02:55:49	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047505)
+[02:55:50	]Pathfinder has used a context menu option with the name: remove
+[02:55:50	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047504)
+[02:55:50	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047503)
+[02:55:53	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047484.
+[02:55:53	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047506.
+[02:55:56	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047484)
+[02:55:57	]C17:RCT.YELLO-10 ran 'combine' on item '30rnd MP-magazine' (#2047474)
+[02:56:00	]S10/OWS.GHOST-75 has given himself a bullets_heavypulse.
+[02:56:00	]S10/OWS.GHOST-75 has gained a 'Heavy Pulse Rounds' #2047514.
+[02:56:00	]S10/OWS.GHOST-75 has given himself a bullets_heavypulse.
+[02:56:00	]S10/OWS.GHOST-75 has gained a 'Heavy Pulse Rounds' #2047515.
+[02:56:01	]S10/OWS.GHOST-75 has given himself a bullets_heavypulse.
+[02:56:01	]S10/OWS.GHOST-75 has gained a 'Heavy Pulse Rounds' #2047516.
+[02:56:01	]S10/OWS.GHOST-75 has given himself a bullets_heavypulse.
+[02:56:01	]S10/OWS.GHOST-75 has gained a 'Heavy Pulse Rounds' #2047517.
+[02:56:02	]S10/OWS.GHOST-75 has given himself a bullets_heavypulse.
+[02:56:02	]S10/OWS.GHOST-75 has gained a 'Heavy Pulse Rounds' #2047518.
+[02:56:06	]C17:RCT.YELLO-10 has lost a '30rnd MP-magazine' #2047474.
+[02:56:31	]S10/OWS.GHOST-75 has spawned a 'NPC [4728][npc_antlion]'.
+[02:56:31	]S10/OWS.GHOST-75 has critically hit npc_antlion dealing 27 damage (CritChance was 0.85).
+[02:56:32	]C17:RCT.YELLO-10 has taken 5 damage from npc_antlion.
+[02:56:32	]S10/OWS.GHOST-75 has hit npc_antlion dealing 17 damage (CritChance was 0.85).
+[02:56:35	][IC] C17:RCT.YELLO-10: Oh god!
+[02:56:36	]C17:RCT.YELLO-10 is fully healed.
+[02:56:44	][IC] C17:RCT.YELLO-10: Callum, Luca is gonna join the CPs.
+[02:56:51	][IC] S10/OWS.GHOST-75: <:: No. ::>
+[02:56:55	]C17:RCT.YELLO-10 used command '/ActCheer'.
+[02:56:56	][IC] S10/OWS.GHOST-75: <:: God, never again. ::>
+[02:57:02	][IC] C17:RCT.YELLO-10: You didn't like it?
+[02:57:02	][IC] S10/OWS.GHOST-75: <:: Too much hassle in CPs. ::>
+[02:57:12	][IC] S10/OWS.GHOST-75: <:: TOO much drama regarding rebels. ::>
+[02:57:16	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047506.
+[02:57:16	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047505.
+[02:57:22	]S10/OWS.GHOST-75 has spawned a 'NPC [4767][npc_poisonzombie]'.
+[02:57:23	]S10/OWS.GHOST-75 has gained level 14 in the Guns skill.
+[02:57:23	]S10/OWS.GHOST-75 has critically hit npc_poisonzombie dealing 0 damage (CritChance was 0.85).
+[02:57:23	]S10/OWS.GHOST-75 has critically hit npc_poisonzombie dealing 27 damage (CritChance was 0.86).
+[02:57:23	]S10/OWS.GHOST-75 has gained level 15 in the Guns skill.
+[02:57:23	]S10/OWS.GHOST-75 has critically hit npc_poisonzombie dealing 0 damage (CritChance was 0.86).
+[02:57:23	]S10/OWS.GHOST-75 has hit npc_poisonzombie dealing 17 damage (CritChance was 0.87).
+[02:57:23	]S10/OWS.GHOST-75 has critically hit npc_poisonzombie in the head dealing 0 damage (CritChance was 0.87).
+[02:57:23	]S10/OWS.GHOST-75 has critically hit npc_poisonzombie in the head dealing 0 damage (CritChance was 0.87).
+[02:57:23	]S10/OWS.GHOST-75 has gained level 16 in the Guns skill.
+[02:57:23	]S10/OWS.GHOST-75 has critically hit npc_poisonzombie in the head dealing 29 damage (CritChance was 0.87).
+[02:57:24	]S10/OWS.GHOST-75 has critically hit npc_poisonzombie in the head dealing 0 damage (CritChance was 0.87).
+[02:57:24	]S10/OWS.GHOST-75 has gained level 17 in the Guns skill.
+[02:57:24	]S10/OWS.GHOST-75 has critically hit npc_poisonzombie in the head dealing 29 damage (CritChance was 0.87).
+[02:57:24	]S10/OWS.GHOST-75 has critically hit npc_poisonzombie in the head dealing 0 damage (CritChance was 0.88).
+[02:57:24	]S10/OWS.GHOST-75 has critically hit npc_poisonzombie in the head dealing 29 damage (CritChance was 0.88).
+[02:57:24	]S10/OWS.GHOST-75 has gained level 18 in the Guns skill.
+[02:57:24	]S10/OWS.GHOST-75 has critically hit npc_headcrab_poison dealing 27 damage (CritChance was 0.88).
+[02:57:25	][IC] C17:RCT.YELLO-10: Having to write an essay on a rebels pk appeal?
+[02:57:25	]S10/OWS.GHOST-75 has hit npc_headcrab_poison dealing 17 damage (CritChance was 0.89).
+[02:57:31	][IC] S10/OWS.GHOST-75: <:: No. ::>
+[02:57:44	]Pathfinder used command '/ActStand 4'.
+[02:57:48	][IC] S10/OWS.GHOST-75: <:: Having to deal with the amount of bullshit. ::>
+[02:57:54	][IC] S10/OWS.GHOST-75: <:: I honestly prefer civ RP. ::>
+[02:57:55	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047505.
+[02:57:55	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047504.
+[02:57:55	]Rabithunter (STEAM_0:1:22394854) has disconnected (timed out).
+[02:58:05	][IC] S10/OWS.GHOST-75: <:: He took all the dirt he needed on me. ::>
+[02:58:06	][IC] S10/OWS.GHOST-75: <:: And left. ::>
+[02:58:07	][IC] S10/OWS.GHOST-75: <:: Wow. ::>
+[02:58:15	][IC] S10/OWS.GHOST-75: <:: Oh. ::>
+[02:58:17	][IC] S10/OWS.GHOST-75: <:: Cya. ::>
+[02:58:26	]S10/OWS.GHOST-75 has spawned a 'NPC [4686][npc_antlionguard]'.
+[02:58:26	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047504.
+[02:58:26	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047503.
+[02:58:28	]C17:RCT.YELLO-10 has taken 20 damage from npc_antlionguard.
+[02:58:31	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.89).
+[02:58:31	]S10/OWS.GHOST-75 has gained level 19 in the Guns skill.
+[02:58:31	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 27 damage (CritChance was 0.89).
+[02:58:31	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.90).
+[02:58:31	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.90).
+[02:58:31	]S10/OWS.GHOST-75 has gained level 20 in the Guns skill.
+[02:58:31	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 27 damage (CritChance was 0.90).
+[02:58:31	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.91).
+[02:58:31	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 27 damage (CritChance was 0.91).
+[02:58:31	]C17:RCT.YELLO-10 is fully healed.
+[02:58:31	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 27 damage (CritChance was 0.91).
+[02:58:31	]S10/OWS.GHOST-75 has gained level 21 in the Guns skill.
+[02:58:31	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.91).
+[02:58:31	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.92).
+[02:58:31	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 27 damage (CritChance was 0.92).
+[02:58:31	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 27 damage (CritChance was 0.92).
+[02:58:32	]C17:RCT.YELLO-10 has taken 20 damage from npc_antlionguard.
+[02:58:34	]S10/OWS.GHOST-75 has gained level 22 in the Guns skill.
+[02:58:34	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.92).
+[02:58:34	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.92).
+[02:58:34	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 27 damage (CritChance was 0.92).
+[02:58:34	]S10/OWS.GHOST-75 has hit npc_antlionguard dealing 17 damage (CritChance was 0.92).
+[02:58:34	]S10/OWS.GHOST-75 has gained level 23 in the Guns skill.
+[02:58:34	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 27 damage (CritChance was 0.92).
+[02:58:34	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.93).
+[02:58:34	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.93).
+[02:58:34	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 27 damage (CritChance was 0.93).
+[02:58:34	]S10/OWS.GHOST-75 has gained level 24 in the Guns skill.
+[02:58:34	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.93).
+[02:58:34	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 27 damage (CritChance was 0.94).
+[02:58:36	]C17:RCT.YELLO-10 is fully healed.
+[02:58:36	]S10/OWS.GHOST-75 has taken 10 damage from npc_antlionguard.
+[02:58:36	]S10/OWS.GHOST-75 has taken 10 damage from npc_antlionguard.
+[02:58:37	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 27 damage (CritChance was 0.94).
+[02:58:37	]Lucaa (STEAM_0:1:460171975) has disconnected (timed out).
+[02:58:37	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.94).
+[02:58:37	]S10/OWS.GHOST-75 has gained level 25 in the Guns skill.
+[02:58:37	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 27 damage (CritChance was 0.94).
+[02:58:37	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 27 damage (CritChance was 0.95).
+[02:58:38	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.95).
+[02:58:38	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.95).
+[02:58:38	]S10/OWS.GHOST-75 has gained level 26 in the Guns skill.
+[02:58:38	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 27 damage (CritChance was 0.95).
+[02:58:38	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 27 damage (CritChance was 0.96).
+[02:58:38	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 27 damage (CritChance was 0.96).
+[02:58:38	]S10/OWS.GHOST-75 is fully healed.
+[02:58:39	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047503.
+[02:58:39	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047504.
+[02:58:43	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 27 damage (CritChance was 0.96).
+[02:58:43	]S10/OWS.GHOST-75 has gained level 27 in the Guns skill.
+[02:58:43	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 1 damage (CritChance was 0.96).
+[02:58:43	]S10/OWS.GHOST-75 has critically hit npc_antlionguard dealing 27 damage (CritChance was 0.97).
+[02:58:59	]S10/OWS.GHOST-75 entered observer.
+[02:59:02	]S10/OWS.GHOST-75 exited observer at their location.
+[02:59:17	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047504.
+[02:59:17	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047485.
+[02:59:51	]S10/OWS.GHOST-75 has spawned a tool_repair.
+[02:59:52	]S10/OWS.GHOST-75 ran 'take' on item 'Repair Plating' (#2047519)
+[02:59:52	]S10/OWS.GHOST-75 has gained a 'Repair Plating' #2047519.
+[02:59:57	]S10/OWS.GHOST-75 ran 'SetMaxDurability' on item 'Repair Plating' (#2047519)
+[02:59:59	]S10/OWS.GHOST-75 ran 'SetDurability' on item 'Repair Plating' (#2047519)
+[03:00:06	]S10/OWS.GHOST-75 ran 'SetMaxDurability' on item 'Repair Plating' (#2047519)
+[03:00:09	]S10/OWS.GHOST-75 ran 'SetDurability' on item 'Repair Plating' (#2047519)
+[03:00:16	]S10/OWS.GHOST-75 ran 'Repair' on item 'Containment Uniform' (#2047498)
+[03:00:18	]S10/OWS.GHOST-75 ran 'drop' on item 'Containment Uniform' (#2047498)
+[03:00:18	]S10/OWS.GHOST-75 has lost a 'Containment Uniform' #2047498.
+[03:00:19	]S10/OWS.GHOST-75 ran 'take' on item 'Containment Uniform' (#2047498)
+[03:00:19	]S10/OWS.GHOST-75 has gained a 'Containment Uniform' #2047498.
+[03:00:28	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047503)
+[03:00:29	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047506)
+[03:00:46	]S10/OWS.GHOST-75 has given himself a health_kit.
+[03:00:46	]S10/OWS.GHOST-75 has gained a 'Health Kit' #2047520.
+[03:01:02	]S10/OWS.GHOST-75 has spawned a 'NPC [2937][npc_gman]'.
+[03:01:03	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047485.
+[03:01:03	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047506.
+[03:01:07	]S10/OWS.GHOST-75 has critically hit npc_gman in the head dealing 8 damage (CritChance was 0.97).
+[03:01:07	]S10/OWS.GHOST-75 has critically hit npc_gman in the head dealing 7 damage (CritChance was 0.97).
+[03:01:07	]S10/OWS.GHOST-75 has gained level 28 in the Guns skill.
+[03:01:07	]S10/OWS.GHOST-75 has critically hit npc_gman in the head dealing 6 damage (CritChance was 0.97).
+[03:01:07	]S10/OWS.GHOST-75 has critically hit npc_gman in the head dealing 5 damage (CritChance was 0.97).
+[03:01:07	]S10/OWS.GHOST-75 has critically hit npc_gman in the head dealing 5 damage (CritChance was 0.97).
+[03:01:07	]S10/OWS.GHOST-75 has critically hit npc_gman in the head dealing 4 damage (CritChance was 0.97).
+[03:01:08	]S10/OWS.GHOST-75 has gained level 29 in the Guns skill.
+[03:01:08	]S10/OWS.GHOST-75 has critically hit npc_gman in the head dealing 3 damage (CritChance was 0.97).
+[03:01:08	]S10/OWS.GHOST-75 has hit npc_gman in the head dealing 1 damage (CritChance was 0.98).
+[03:01:11	]S10/OWS.GHOST-75 has spawned a 'NPC [2937][npc_gman]'.
+[03:01:13	]S10/OWS.GHOST-75 has critically hit npc_gman in the head dealing 8 damage (CritChance was 0.98).
+[03:01:13	]S10/OWS.GHOST-75 has critically hit npc_gman in the head dealing 7 damage (CritChance was 0.98).
+[03:01:13	]S10/OWS.GHOST-75 has critically hit npc_gman in the head dealing 6 damage (CritChance was 0.98).
+[03:01:14	]S10/OWS.GHOST-75 has gained level 30 in the Guns skill.
+[03:01:14	]S10/OWS.GHOST-75 has critically hit npc_gman in the head dealing 5 damage (CritChance was 0.98).
+[03:01:14	]S10/OWS.GHOST-75 has critically hit npc_gman in the head dealing 7 damage (CritChance was 0.99).
+[03:01:15	]S10/OWS.GHOST-75 has critically hit npc_gman in the head dealing 8 damage (CritChance was 0.99).
+[03:01:15	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 0.99).
+[03:01:15	]S10/OWS.GHOST-75 has gained level 31 in the Guns skill.
+[03:01:15	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 0.99).
+[03:01:16	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 1.00).
+[03:01:16	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 1.00).
+[03:01:16	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 1.00).
+[03:01:16	]S10/OWS.GHOST-75 has gained level 32 in the Guns skill.
+[03:01:16	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 1.00).
+[03:01:16	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 1.01).
+[03:01:19	]S10/OWS.GHOST-75 has spawned a 'NPC [4768][npc_gman]'.
+[03:01:20	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047506.
+[03:01:20	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047503.
+[03:01:23	]S10/OWS.GHOST-75 has critically hit npc_gman in the head dealing 8 damage (CritChance was 1.01).
+[03:01:24	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 1.01).
+[03:01:24	]S10/OWS.GHOST-75 has gained level 33 in the Guns skill.
+[03:01:24	]S10/OWS.GHOST-75 has critically hit npc_gman in the stomach dealing 27 damage (CritChance was 1.01).
+[03:01:24	]S10/OWS.GHOST-75 has critically hit npc_gman in the right leg dealing 26 damage (CritChance was 1.01).
+[03:01:26	]S10/OWS.GHOST-75 has critically hit npc_gman in the right leg dealing 26 damage (CritChance was 1.01).
+[03:01:26	]S10/OWS.GHOST-75 has critically hit npc_gman in the left leg dealing 26 damage (CritChance was 1.01).
+[03:01:27	]S10/OWS.GHOST-75 has gained level 34 in the Guns skill.
+[03:01:27	]S10/OWS.GHOST-75 has critically hit npc_gman in the stomach dealing 27 damage (CritChance was 1.01).
+[03:01:27	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 1.01).
+[03:01:27	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 1.01).
+[03:01:28	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 1.01).
+[03:01:28	]S10/OWS.GHOST-75 has gained level 35 in the Guns skill.
+[03:01:28	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 1.01).
+[03:01:29	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 1.01).
+[03:01:29	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 1.01).
+[03:01:29	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 1.01).
+[03:01:29	]S10/OWS.GHOST-75 has gained level 36 in the Guns skill.
+[03:01:29	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 1.01).
+[03:01:29	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 1.01).
+[03:01:30	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 1.01).
+[03:01:30	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 1.01).
+[03:01:30	]S10/OWS.GHOST-75 has gained level 37 in the Guns skill.
+[03:01:30	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 1.01).
+[03:01:30	]S10/OWS.GHOST-75 has critically hit npc_gman in the chest dealing 27 damage (CritChance was 1.01).
+[03:01:31	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047503.
+[03:01:31	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047485.
+[03:01:34	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047503)
+[03:01:35	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047503)
+[03:01:36	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047506)
+[03:01:37	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047504)
+[03:01:39	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047505)
+[03:01:40	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047505)
+[03:01:41	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047485.
+[03:01:41	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047506.
+[03:02:00	][IC] S10/OWS.GHOST-75: <:: Antlion. ::>
+[03:02:02	][IC] S10/OWS.GHOST-75: <:: Antlion! ::>
+[03:02:05	][IC] S10/OWS.GHOST-75: <:: Target antlion! ::>
+[03:02:06	][IC] S10/OWS.GHOST-75: <:: Contact, antlion! ::>
+[03:02:08	][IC] S10/OWS.GHOST-75: <:: Antlion incoming! ::>
+[03:02:10	][IC] S10/OWS.GHOST-75: <:: Contact, antlion! ::>
+[03:02:12	][IC] S10/OWS.GHOST-75: <:: Viscon, antlion! ::>
+[03:02:14	][IC] S10/OWS.GHOST-75: <:: Antlion here! ::>
+[03:02:24	][IC] S10/OWS.GHOST-75: <:: Bouncer out! ::>
+[03:02:26	][IC] S10/OWS.GHOST-75: <:: Grenade out! ::>
+[03:02:27	][IC] S10/OWS.GHOST-75: <:: ...and extractor away! ::>
+[03:02:30	][IC] S10/OWS.GHOST-75: <:: Bouncer, bouncer! ::>
+[03:02:31	][IC] S10/OWS.GHOST-75: <:: Get down! ::>
+[03:02:40	][IC] S10/OWS.GHOST-75: <:: Null. ::>
+[03:02:41	][IC] S10/OWS.GHOST-75: <:: One. ::>
+[03:02:59	][IC] S10/OWS.GHOST-75: <:: Almost! ::>
+[03:03:02	][IC] S10/OWS.GHOST-75: <:: Almost over. ::>
+[03:03:29	][IC] S10/OWS.GHOST-75: <:: Biodat critical... Expiration on, four, three, two-. ::>
+[03:03:41	]S10/OWS.GHOST-75 used command '/Radio biodat critical'.
+[03:03:57	]S10/OWS.GHOST-75 used command '/Radio biodat critical2'.
+[03:04:11	][IC] S10/OWS.GHOST-75: <:: APF is engaged and firing. ::>
+[03:05:21	]S10/OWS.GHOST-75 has spawned a 'NPC [4771][npc_breen]'.
+[03:05:22	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047506.
+[03:05:22	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047505.
+[03:05:25	]S10/OWS.GHOST-75 has critically hit npc_breen in the head dealing 8 damage (CritChance was 1.01).
+[03:05:29	]S10/OWS.GHOST-75 has spawned a 'NPC [2937][npc_vortigaunt]'.
+[03:05:34	]S10/OWS.GHOST-75 has critically hit npc_vortigaunt dealing 27 damage (CritChance was 1.01).
+[03:05:34	]S10/OWS.GHOST-75 has gained level 38 in the Guns skill.
+[03:05:34	]S10/OWS.GHOST-75 has critically hit npc_vortigaunt dealing 0 damage (CritChance was 1.01).
+[03:05:34	]S10/OWS.GHOST-75 has critically hit npc_vortigaunt dealing 27 damage (CritChance was 1.01).
+[03:05:35	]S10/OWS.GHOST-75 has critically hit npc_vortigaunt dealing 27 damage (CritChance was 1.01).
+[03:05:36	]S10/OWS.GHOST-75 has critically hit npc_vortigaunt dealing 27 damage (CritChance was 1.01).
+[03:05:37	]S10/OWS.GHOST-75 has spawned a 'NPC [4805][npc_vortigaunt]'.
+[03:05:48	]S10/OWS.GHOST-75 has spawned a 'NPC [4778][npc_citizen]'.
+[03:05:50	]S10/OWS.GHOST-75 has spawned a 'NPC [4786][npc_citizen]'.
+[03:05:56	]S10/OWS.GHOST-75 has gained level 39 in the Guns skill.
+[03:05:56	]S10/OWS.GHOST-75 has critically hit npc_citizen in the head dealing 29 damage (CritChance was 1.01).
+[03:06:01	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047505.
+[03:06:01	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047506.
+[03:06:16	][IC] S10/OWS.GHOST-75: <:: ...damage... Seventy... Eighty percent... Nine... Total. ::>
+[03:06:25	][IC] S10/OWS.GHOST-75: <:: Hammer-wall. ::>
+[03:06:40	][IC] S10/OWS.GHOST-75: <:: Get off the street now. ::>
+[03:06:42	][IC] S10/OWS.GHOST-75: <:: Get off the street, now! ::>
+[03:06:45	][IC] S10/OWS.GHOST-75: <:: Get off the street3. ::>
+[03:06:55	][IC] S10/OWS.GHOST-75: <:: APF. ::>
+[03:06:59	][IC] S10/OWS.GHOST-75: <:: APF is engaged and firing. ::>
+[03:07:07	][IC] S10/OWS.GHOST-75: <:: Ordinal is engaged and firing. ::>
+[03:07:41	][IC] S10/OWS.GHOST-75: <:: One, fourteen, three, six, eleven, check. Annnd all clear on Echo-4, your turn, over. ::>
+[03:07:50	][IC] S10/OWS.GHOST-75: <:: Copy that. Sustaining viscon at sector kilo-three-dash-six. ::>
+[03:07:54	][IC] S10/OWS.GHOST-75: <:: Transmission clear, negative on condition quicksand. Uh... Wait, no. Radials clear, over. ::>
+[03:08:02	][IC] S10/OWS.GHOST-75: <:: Sector is tracking at original percent, stable. And... Still holding for transmission, over. ::>
+[03:08:11	][IMP] S10/OWS.GHOST-75: What even is that language?
+[03:08:19	][IC] S10/OWS.GHOST-75: <:: Overwatch is confirming sector lockdown. Anti-citizen One is... Uh, displaced and activated. Keep sightlines open and sound on. ::>
+[03:08:27	][IC] S10/OWS.GHOST-75: <:: Affirmative, outbreak status is code delta-seven. Team sundown is on contact overrun. Uhh... Copy that. ::>
+[03:08:33	][IC] S10/OWS.GHOST-75: <:: Negative, copy that. No sector containment. No confirmation on target one vector. Waiting for secondary parameter codes. ::>
+[03:08:58	]S10/OWS.GHOST-75 has fired a toolgun with the name: camera
+[03:09:22	][IC] S10/OWS.GHOST-75: <:: Roger that, sending viscerators at Apex-5. We have biotics at the perimeter. Uh... Waiting for contact, over. ::>
+[03:09:30	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047506.
+[03:09:30	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047504.
+[03:09:38	]Lucaa has connected.
+[03:09:40	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047504.
+[03:09:40	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047506.
+[03:10:06	][IC] S10/OWS.GHOST-75: <:: Sector lockdown. ::>
+[03:10:14	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047506.
+[03:10:14	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047503.
+[03:10:21	]S10/OWS.GHOST-75 has spawned a 'NPC [4713][npc_vj_hlr2b_merkava]'.
+[03:10:24	]S10/OWS.GHOST-75 has spawned a 'NPC [3066][npc_vj_hlr2b_merkava]'.
+[03:10:31	]S10/OWS.GHOST-75 has critically hit npc_vj_hlr2_rebel in the head dealing 29 damage (CritChance was 1.01).
+[03:10:45	]S10/OWS.GHOST-75 has spawned a 'NPC [4756][npc_vj_hlr2b_merkava]'.
+[03:10:57	]S10/OWS.GHOST-75 has spawned a 'NPC [4740][npc_vj_hlr2b_merkava]'.
+[03:11:01	]S10/OWS.GHOST-75 has spawned a 'NPC [4757][npc_vj_hlr2_com_elite]'.
+[03:11:14	]S10/OWS.GHOST-75 entered observer.
+[03:11:18	]S10/OWS.GHOST-75 has spawned a 'NPC [4772][npc_vj_hlr2_com_sniper]'.
+[03:11:22	]S10/OWS.GHOST-75 exited observer at their location.
+[03:11:41	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_npc_weapon
+[03:11:49	]S10/OWS.GHOST-75 has used a context menu option with the name: vj_pr_npc_allyme
+[03:12:03	]S10/OWS.GHOST-75 has spawned a 'NPC [3980][npc_vj_hlr2_rebel_engineer]'.
+[03:12:18	]S10/OWS.GHOST-75 has used a context menu option with the name: remove
+[03:12:20	]S10/OWS.GHOST-75 has used a context menu option with the name: ignite
+[03:12:24	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047503.
+[03:12:24	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047506.
+[03:12:27	]S10/OWS.GHOST-75 has critically hit npc_vj_hlr2_rebel_engineer in the head dealing 29 damage (CritChance was 1.01).
+[03:12:31	]S10/OWS.GHOST-75 entered observer.
+[03:12:34	]S10/OWS.GHOST-75 exited observer at their location.
+[03:12:41	][OOC] S10/OWS.GHOST-75: taking your sweet time, aren't you luca?
+[03:12:42	]S10/OWS.GHOST-75 entered observer.
+[03:12:43	]S10/OWS.GHOST-75 exited observer at their location.
+[03:12:57	]S10/OWS.GHOST-75 entered observer.
+[03:12:58	]S10/OWS.GHOST-75 exited observer at their location.
+[03:13:09	]S10/OWS.GHOST-75 has given himself a charm_punished.
+[03:13:09	]S10/OWS.GHOST-75 has gained a 'Punished' #2047521.
+[03:13:22	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047506.
+[03:13:22	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047485.
+[03:13:26	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047503)
+[03:13:27	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047506)
+[03:13:28	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047504)
+[03:13:29	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047505)
+[03:13:32	]S10/OWS.GHOST-75 ran 'drop' on item 'Punished' (#2047521)
+[03:13:32	]S10/OWS.GHOST-75 has lost a 'Punished' #2047521.
+[03:13:33	]S10/OWS.GHOST-75 destroyed a 'Punished' #2047521.
+[03:13:44	]S10/OWS.GHOST-75 has given himself a funnybugbait.
+[03:13:44	]S10/OWS.GHOST-75 has gained a 'Pheropod' #2047522.
+[03:13:47	]S10/OWS.GHOST-75 ran 'Equip' on item 'Pheropod' (#2047522)
+[03:14:02	]S10/OWS.GHOST-75 ran 'EquipUn' on item 'Pheropod' (#2047522)
+[03:14:03	]S10/OWS.GHOST-75 ran 'drop' on item 'Pheropod' (#2047522)
+[03:14:03	]S10/OWS.GHOST-75 has lost a 'Pheropod' #2047522.
+[03:14:05	]S10/OWS.GHOST-75 destroyed a 'Pheropod' #2047522.
+[03:14:20	]S10/OWS.GHOST-75 has spawned a underclass_ration.
+[03:14:22	]S10/OWS.GHOST-75 ran 'take' on item 'Underclass Ration' (#2047523)
+[03:14:22	]S10/OWS.GHOST-75 has gained a 'Underclass Ration' #2047523.
+[03:14:23	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047485.
+[03:14:23	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047506.
+[03:14:25	]S10/OWS.GHOST-75 ran 'Open' on item 'Underclass Ration' (#2047523)
+[03:14:26	]S10/OWS.GHOST-75 has gained a 'Artificial Paste' #2047524.
+[03:14:26	]S10/OWS.GHOST-75 has gained a 'Breen's Water' #2047525.
+[03:14:27	]S10/OWS.GHOST-75 ran 'Consume' on item 'Artificial Paste' (#2047524)
+[03:14:27	]S10/OWS.GHOST-75 has gained a 'Empty Jar' #2047526.
+[03:14:28	]S10/OWS.GHOST-75 ran 'Consume' on item 'Breen's Water' (#2047525)
+[03:14:28	]S10/OWS.GHOST-75 has gained a 'Empty Breen's Water' #2047527.
+[03:14:28	]S10/OWS.GHOST-75 ran 'drop' on item 'Empty Breen's Water' (#2047527)
+[03:14:28	]S10/OWS.GHOST-75 has lost a 'Empty Breen's Water' #2047527.
+[03:14:29	]S10/OWS.GHOST-75 ran 'drop' on item 'Empty Jar' (#2047526)
+[03:14:29	]S10/OWS.GHOST-75 has lost a 'Empty Jar' #2047526.
+[03:14:34	]S10/OWS.GHOST-75 has given himself a ration.
+[03:14:34	]S10/OWS.GHOST-75 has gained a 'Ration' #2047528.
+[03:14:36	]S10/OWS.GHOST-75 ran 'Open' on item 'Ration' (#2047528)
+[03:14:36	]S10/OWS.GHOST-75 has gained a 'Artificial Paste' #2047529.
+[03:14:36	]S10/OWS.GHOST-75 has gained a 'Breen's Water' #2047530.
+[03:14:36	]S10/OWS.GHOST-75 has gained a 'Basic Credits Coupon' #2047531.
+[03:14:38	]S10/OWS.GHOST-75 ran 'drop' on item 'Artificial Paste' (#2047529)
+[03:14:38	]S10/OWS.GHOST-75 has lost a 'Artificial Paste' #2047529.
+[03:14:39	]S10/OWS.GHOST-75 ran 'drop' on item 'Breen's Water' (#2047530)
+[03:14:39	]S10/OWS.GHOST-75 has lost a 'Breen's Water' #2047530.
+[03:14:40	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047506.
+[03:14:40	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047505.
+[03:14:43	]S10/OWS.GHOST-75 ran 'drop' on item 'Basic Credits Coupon' (#2047531)
+[03:14:43	]S10/OWS.GHOST-75 has lost a 'Basic Credits Coupon' #2047531.
+[03:14:44	]S10/OWS.GHOST-75 destroyed a 'Artificial Paste' #2047529.
+[03:14:45	]S10/OWS.GHOST-75 destroyed a 'Empty Jar' #2047526.
+[03:14:46	]S10/OWS.GHOST-75 destroyed a 'Empty Breen's Water' #2047527.
+[03:14:47	]S10/OWS.GHOST-75 destroyed a 'Breen's Water' #2047530.
+[03:14:47	]S10/OWS.GHOST-75 destroyed a 'Basic Credits Coupon' #2047531.
+[03:14:53	]S10/OWS.GHOST-75 has given himself a improved_ration.
+[03:14:53	]S10/OWS.GHOST-75 has gained a 'Improved Ration' #2047532.
+[03:14:55	]S10/OWS.GHOST-75 ran 'Open' on item 'Improved Ration' (#2047532)
+[03:14:55	]S10/OWS.GHOST-75 has gained a 'Apple' #2047533.
+[03:14:55	]S10/OWS.GHOST-75 has gained a 'Watermelon Slice' #2047534.
+[03:14:55	]S10/OWS.GHOST-75 has gained a 'Breen's Water' #2047535.
+[03:14:55	]S10/OWS.GHOST-75 has gained a 'Basic Credits Coupon' #2047536.
+[03:14:56	]S10/OWS.GHOST-75 ran 'Consume' on item 'Apple' (#2047533)
+[03:14:57	]S10/OWS.GHOST-75 ran 'Consume' on item 'Watermelon Slice' (#2047534)
+[03:14:58	]S10/OWS.GHOST-75 ran 'drop' on item 'Breen's Water' (#2047535)
+[03:14:58	]S10/OWS.GHOST-75 has lost a 'Breen's Water' #2047535.
+[03:14:58	]S10/OWS.GHOST-75 ran 'drop' on item 'Basic Credits Coupon' (#2047536)
+[03:14:58	]S10/OWS.GHOST-75 has lost a 'Basic Credits Coupon' #2047536.
+[03:14:59	]S10/OWS.GHOST-75 destroyed a 'Basic Credits Coupon' #2047536.
+[03:15:00	]S10/OWS.GHOST-75 destroyed a 'Breen's Water' #2047535.
+[03:15:05	]S10/OWS.GHOST-75 has given himself a priority_ration.
+[03:15:05	]S10/OWS.GHOST-75 has gained a 'Priority Loyalist Ration' #2047537.
+[03:15:06	]S10/OWS.GHOST-75 ran 'Open' on item 'Priority Loyalist Ration' (#2047537)
+[03:15:06	]S10/OWS.GHOST-75 has gained a 'Union Choco' #2047538.
+[03:15:06	]S10/OWS.GHOST-75 has gained a 'Salmon Steak' #2047539.
+[03:15:06	]S10/OWS.GHOST-75 has gained a 'Sparkling Breen's Water' #2047540.
+[03:15:06	]S10/OWS.GHOST-75 has gained a 'Priority Credits Coupon' #2047541.
+[03:15:10	]S10/OWS.GHOST-75 ran 'Consume' on item 'Salmon Steak' (#2047539)
+[03:15:10	]S10/OWS.GHOST-75 has gained a level 5 long boost in Intelligence.
+[03:15:10	]S10/OWS.GHOST-75 has gained a level 5 long boost in Perception.
+[03:15:10	]S10/OWS.GHOST-75 ran 'Consume' on item 'Union Choco' (#2047538)
+[03:15:10	]S10/OWS.GHOST-75 has gained a 'Plastic garbage' #2047542.
+[03:15:12	]S10/OWS.GHOST-75 ran 'Consume' on item 'Sparkling Breen's Water' (#2047540)
+[03:15:12	]S10/OWS.GHOST-75 has gained a 'Empty Breen's Water' #2047543.
+[03:15:13	]S10/OWS.GHOST-75 ran 'drop' on item 'Priority Credits Coupon' (#2047541)
+[03:15:13	]S10/OWS.GHOST-75 has lost a 'Priority Credits Coupon' #2047541.
+[03:15:13	]S10/OWS.GHOST-75 ran 'drop' on item 'Empty Breen's Water' (#2047543)
+[03:15:13	]S10/OWS.GHOST-75 has lost a 'Empty Breen's Water' #2047543.
+[03:15:13	]S10/OWS.GHOST-75 ran 'drop' on item 'Plastic garbage' (#2047542)
+[03:15:13	]S10/OWS.GHOST-75 has lost a 'Plastic garbage' #2047542.
+[03:15:14	]S10/OWS.GHOST-75 destroyed a 'Plastic garbage' #2047542.
+[03:15:15	]S10/OWS.GHOST-75 destroyed a 'Priority Credits Coupon' #2047541.
+[03:15:16	]S10/OWS.GHOST-75 destroyed a 'Empty Breen's Water' #2047543.
+[03:15:16	]Lucaa loaded the character 'C17:RCT.YELLO-10'
+[03:15:25	]S10/OWS.GHOST-75 has given himself a loyalist_ration.
+[03:15:25	]S10/OWS.GHOST-75 has gained a 'Loyalist Ration' #2047544.
+[03:15:26	]S10/OWS.GHOST-75 ran 'Open' on item 'Loyalist Ration' (#2047544)
+[03:15:26	]S10/OWS.GHOST-75 has gained a 'Watermelon Slice' #2047545.
+[03:15:26	]S10/OWS.GHOST-75 has gained a 'Apple' #2047546.
+[03:15:26	]S10/OWS.GHOST-75 has gained a 'Sparkling Breen's Water' #2047547.
+[03:15:26	]S10/OWS.GHOST-75 has gained a 'Medium Credits Coupon' #2047548.
+[03:15:27	]S10/OWS.GHOST-75 ran 'Consume' on item 'Watermelon Slice' (#2047545)
+[03:15:28	]S10/OWS.GHOST-75 ran 'Consume' on item 'Apple' (#2047546)
+[03:15:29	]S10/OWS.GHOST-75 ran 'drop' on item 'Sparkling Breen's Water' (#2047547)
+[03:15:29	]S10/OWS.GHOST-75 has lost a 'Sparkling Breen's Water' #2047547.
+[03:15:30	]S10/OWS.GHOST-75 destroyed a 'Sparkling Breen's Water' #2047547.
+[03:15:31	]S10/OWS.GHOST-75 ran 'drop' on item 'Medium Credits Coupon' (#2047548)
+[03:15:31	]S10/OWS.GHOST-75 has lost a 'Medium Credits Coupon' #2047548.
+[03:15:32	]S10/OWS.GHOST-75 destroyed a 'Medium Credits Coupon' #2047548.
+[03:15:47	]S10/OWS.GHOST-75 has given himself a breach.
+[03:15:47	]S10/OWS.GHOST-75 has gained a 'Breaching Charge' #2047549.
+[03:15:56	]S10/OWS.GHOST-75 ran 'Place' on item 'Breaching Charge' (#2047549)
+[03:16:30	][OOC] C17:RCT.YELLO-10: callum
+[03:16:30	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047505.
+[03:16:30	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047506.
+[03:16:33	][OOC] S10/OWS.GHOST-75: hi
+[03:16:35	][OOC] C17:RCT.YELLO-10: tp me
+[03:16:38	][OOC] S10/OWS.GHOST-75: lost perms again?
+[03:16:42	][OOC] C17:RCT.YELLO-10: yuuup..
+[03:16:45	][OOC] S10/OWS.GHOST-75: guh
+[03:16:56	]S10/OWS.GHOST-75 ran SAM command 'bring' with arguments: 'C17'
+[03:16:59	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047506.
+[03:16:59	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047504.
+[03:17:03	][IC] S10/OWS.GHOST-75: <:: There. ::>
+[03:17:20	][IC] S10/OWS.GHOST-75: <:: One, fourteen, three, six, eleven, check. Annnd all clear on Echo-4, your turn, over. ::>
+[03:18:14	]S10/OWS.GHOST-75 has spawned a dummy_biolock_sr1.
+[03:18:18	]S10/OWS.GHOST-75 ran 'take' on item 'Biolocked Ordinal Rifle' (#2047550)
+[03:18:18	]S10/OWS.GHOST-75 has gained a 'Biolocked Ordinal Rifle' #2047550.
+[03:18:22	]S10/OWS.GHOST-75 ran 'Unlock' on item 'Biolocked Ordinal Rifle' (#2047550)
+[03:18:24	]S10/OWS.GHOST-75 ran 'Unlock' on item 'Biolocked Ordinal Rifle' (#2047550)
+[03:18:27	]S10/OWS.GHOST-75 ran 'Unlock' on item 'Biolocked Ordinal Rifle' (#2047550)
+[03:18:31	]S10/OWS.GHOST-75 has given himself a dummy_emp.
+[03:18:31	]S10/OWS.GHOST-75 has gained a 'Improved EMP Device' #2047551.
+[03:18:40	]S10/OWS.GHOST-75 ran 'Unlock' on item 'Biolocked Ordinal Rifle' (#2047550)
+[03:18:47	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047505)
+[03:18:50	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047505)
+[03:18:51	]S10/OWS.GHOST-75 ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#2047485)
+[03:19:01	]S10/OWS.GHOST-75 ran 'Unlock' on item 'Biolocked Ordinal Rifle' (#2047550)
+[03:19:03	]S10/OWS.GHOST-75 ran 'drop' on item 'Biolocked Ordinal Rifle' (#2047550)
+[03:19:03	]S10/OWS.GHOST-75 has lost a 'Biolocked Ordinal Rifle' #2047550.
+[03:19:09	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[03:19:11	]env_entity_dissolver destroyed a 'Biolocked Ordinal Rifle' #2047550.
+[03:19:11	]S10/OWS.GHOST-75 ran 'drop' on item 'Improved EMP Device' (#2047551)
+[03:19:11	]S10/OWS.GHOST-75 has lost a 'Improved EMP Device' #2047551.
+[03:19:13	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[03:19:15	]env_entity_dissolver destroyed a 'Improved EMP Device' #2047551.
+[03:19:30	]S10/OWS.GHOST-75 has given himself a uniform_valkyrie.
+[03:19:30	]S10/OWS.GHOST-75 has gained a 'OTA Valkyrie Uniform' #2047552.
+[03:20:01	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047504.
+[03:20:01	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047506.
+[03:20:04	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047506.
+[03:20:04	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047505.
+[03:20:18	]Lucaa (STEAM_0:1:460171975) has disconnected (timed out).
+[03:20:32	]S10/OWS.GHOST-75 has given himself a lrr_mc.
+[03:20:39	]S10/OWS.GHOST-75 ran 'EquipUn' on item 'OSPR2A-EXP' (#2047483)
+[03:20:39	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047505.
+[03:20:47	]S10/OWS.GHOST-75 has given himself a lrr_mc.
+[03:20:51	]S10/OWS.GHOST-75 has spawned a lrr_mc.
+[03:20:54	]S10/OWS.GHOST-75 ran 'drop' on item 'Containment Uniform' (#2047498)
+[03:20:54	]S10/OWS.GHOST-75 has lost a 'Containment Uniform' #2047498.
+[03:20:57	]S10/OWS.GHOST-75 ran 'take' on item 'Multi-Channel Long-Range Radio' (#2047553)
+[03:20:57	]S10/OWS.GHOST-75 has gained a 'Multi-Channel Long-Range Radio' #2047553.
+[03:21:01	]S10/OWS.GHOST-75 ran 'setRadioOn' on item 'Multi-Channel Long-Range Radio' (#2047553)
+[03:21:11	]S10/OWS.GHOST-75 ran 'drop' on item 'Multi-Channel Long-Range Radio' (#2047553)
+[03:21:11	]S10/OWS.GHOST-75 has lost a 'Multi-Channel Long-Range Radio' #2047553.
+[03:21:17	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[03:21:18	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_make_animatable
+[03:21:19	]env_entity_dissolver destroyed a 'Containment Uniform' #2047498.
+[03:21:19	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[03:21:22	]S10/OWS.GHOST-75 ran 'Equip' on item 'OSPR2A-EXP' (#2047483)
+[03:21:31	]S10/OWS.GHOST-75 used command '/Broadcast You're all gay'.
+[03:21:39	]S10/OWS.GHOST-75 used command '/Broadcast end of announcement'.
+[03:21:49	]S10/OWS.GHOST-75 used command '/Broadcast haha'.
+[03:22:08	]S10/OWS.GHOST-75 has given himself a rappel_gear.
+[03:22:08	]S10/OWS.GHOST-75 has gained a 'Rappel Gear' #2047554.
+[03:22:11	]S10/OWS.GHOST-75 ran 'Equip' on item 'Rappel Gear' (#2047554)
+[03:22:14	]S10/OWS.GHOST-75 ran 'EquipUn' on item 'Stunstick' (#2047376)
+[03:22:14	]S10/OWS.GHOST-75 ran 'Equip' on item 'Rappel Gear' (#2047554)
+[03:22:16	]S10/OWS.GHOST-75 entered observer.
+[03:22:20	]S10/OWS.GHOST-75 exited observer at their location.
+[03:22:30	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[03:22:32	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[03:22:35	]S10/OWS.GHOST-75 has used a context menu option with the name: rb655_dissolve
+[03:23:01	]S10/OWS.GHOST-75 entered observer.
+[03:23:03	]S10/OWS.GHOST-75 exited observer at their location.
+[03:23:14	]S10/OWS.GHOST-75 entered observer.
+[03:23:21	]S10/OWS.GHOST-75 exited observer at their location.
+[03:23:22	]S10/OWS.GHOST-75 entered observer.
+[03:23:25	]S10/OWS.GHOST-75 exited observer at their location.
+[03:23:35	]S10/OWS.GHOST-75 entered observer.
+[03:23:50	]S10/OWS.GHOST-75 exited observer at their location.
+[03:23:51	]S10/OWS.GHOST-75 entered observer.
+[03:23:55	]S10/OWS.GHOST-75 exited observer at their location.
+[03:24:05	]S10/OWS.GHOST-75 entered observer.
+[03:24:09	]S10/OWS.GHOST-75 exited observer at their location.
+[03:24:35	]S10/OWS.GHOST-75 used command '/Datafile ghost-75'.
+[03:25:18	]Garratz created the character 'S10:SCN-9'
+[03:25:18	]Garratz loaded the character 'S10:SCN-9'
+[03:25:50	][IC] S10:SCN-9: Attention please. Access is not permitted. Anti-citizen scavenging will result in immediate capital prosecution.
+[03:26:09	]S10:SCN-9 used command '/Broadcast attention'.
+[03:26:18	]S10:SCN-9 used command '/Broadcast access restricted'.
+[03:26:34	]S10:SCN-9 used command '/Dispatch access restricted'.
+[03:27:14	]S10:SCN-9 used command '/Radio 1'.
+[03:27:24	]S10:SCN-9 used command '/Dispatch code void'.
+[03:27:39	]S10:SCN-9 used command '/Dispatch autonomous judgement'.
+[03:27:59	]S10:SCN-9 used command '/Dispatch autonomous judgment'.
+[03:29:17	]S10:SCN-9 used command '/Dispatch conspiracy'.
+[03:29:21	]S10:SCN-9 used command '/Dispatch Cringe'.
+[03:29:24	]S10:SCN-9 used command '/Dispatch Cringe'.
+[03:29:41	]S10:SCN-9 used command '/Dispatch mission failure2'.
+[03:29:44	]S10:SCN-9 used command '/Dispatch mission failure 2'.
+[03:30:07	]Garratz (STEAM_0:1:75592978) has disconnected.
+[03:31:36	]Lucaa has connected.
+[03:34:59	]Lucaa loaded the character 'C17:RCT.YELLO-10'
+[03:35:39	][OOC] C17:RCT.YELLO-10: gaaaaah
+[03:37:32	]C17:RCT.YELLO-10 has changed C17:RCT.YELLO-10's bodygroups.
+[03:37:47	]C17:RCT.YELLO-10 has changed C17:RCT.YELLO-10's bodygroups.
+[03:37:58	]C17:RCT.YELLO-10 has changed C17:RCT.YELLO-10's bodygroups.
+[03:38:49	]C17:RCT.YELLO-10 has changed C17:RCT.YELLO-10's bodygroups.
+[03:39:18	]Lucaa has unloaded their "C17:RCT.YELLO-10" character.
+[03:39:43	]Lucaa created the character 'Lucia Carusso'
+[03:39:44	]Lucaa loaded the character 'Lucia Carusso'
+[03:39:44	]Lucia Carusso has gained a '#61550's Identity Card' #2047555.
+[03:39:44	]Lucia Carusso has gained a 'Combine PDA' #2047556.
+[03:40:37	]Lucia Carusso ran 'Equip' on item 'Combine PDA' (#2047556)
+[03:41:55	]Lucia Carusso has turned a ration dispenser off.
+[03:42:08	]Lucia Carusso has acquired his ration, gaining 0 credits, 200 wages and a ration ration.
+[03:42:22	]Lucia Carusso ran 'take' on item 'Ration' (#2047557)
+[03:42:22	]Lucia Carusso has gained a 'Ration' #2047557.
+[03:42:24	]Lucia Carusso ran 'Open' on item 'Ration' (#2047557)
+[03:42:24	]Lucia Carusso has gained a 'Artificial Paste' #2047558.
+[03:42:24	]Lucia Carusso has gained a 'Breen's Water' #2047559.
+[03:42:24	]Lucia Carusso has gained a 'Basic Credits Coupon' #2047560.
+[03:43:46	]Lucaa loaded the character 'Lucia Amerto'
+[03:44:29	]Lucaa has unloaded their "Lucia Amerto" character.
+[03:44:32	]Lucaa has unloaded their "Lucaa" character.
+[03:44:39	]Lucaa loaded the character 'Lucia Amerto'
+[03:47:36	]Lucaa (STEAM_0:1:460171975) has disconnected.
+[18:16:30	]Chris has connected.
+[18:17:25	]Chris loaded the character 'Null Vort test'
+[18:17:30	]Null Vort test is fully healed.
+[18:19:01	]Chris loaded the character 'VORT STAT TEST 1'
+[18:19:06	]VORT STAT TEST 1 is fully healed.
+[18:27:31	]VORT STAT TEST 1 has gone afk.
+[19:21:01	]VORT STAT TEST 1 is no longer afk. Total time spent AFK: 3505
+[19:21:05	]Chris (STEAM_0:0:29180550) has disconnected.
+[23:52:17	]Garratz has connected.
+[23:54:26	]Garratz loaded the character 'S10/OWS.GHOST-75'
+[23:54:53	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047506.
+[23:55:21	]S10/OWS.GHOST-75 is fully healed.
+[23:57:14	]S10/OWS.GHOST-75 has gained level 1 in the Speed skill.
+[23:57:46	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047506.
+[23:57:46	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047505.
+[23:57:59	]S10/OWS.GHOST-75 has gained a '24rnd Heavy-Pulse Magazine' #2047505.
+[23:57:59	]S10/OWS.GHOST-75 has lost a '24rnd Heavy-Pulse Magazine' #2047506.

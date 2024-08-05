@@ -1,0 +1,1045 @@
+[17:06:41	]M!NT has connected.
+[17:07:05	]Rabithunter has connected.
+[17:07:07	]M!NT loaded the character 'test char'
+[17:07:12	]test char is fully healed.
+[17:07:14	]test char entered observer.
+[17:07:22	]test char exited observer at their location.
+[17:07:52	]Rabithunter loaded the character 'Jody Mayflower'
+[17:07:57	]Jody Mayflower is fully healed.
+[17:08:03	]Jody Mayflower entered observer.
+[17:08:08	]Jody Mayflower exited observer at their location.
+[17:08:10	]test char used command '/AddPBX 1'.
+[17:08:16	]test char used command '/EditLandline 1 222 Maesroe'.
+[17:08:23	]test char used command '/EditLandline 1 222 CMRU'.
+[17:08:32	]test char used command '/EditLandline 1 333 CWU'.
+[17:10:28	]test char entered observer.
+[17:10:30	]test char exited observer at their location.
+[17:10:58	]test char used command '/phonesay hi'.
+[17:11:05	]Jody Mayflower used command '/phonesay hello'.
+[17:11:08	]Jody Mayflower used command '/phonesay hello'.
+[17:11:25	]Jody Mayflower used command '/phonesay hello'.
+[17:11:31	]test char used command '/phonesay hi'.
+[17:11:36	]test char used command '/phonesay goodbye'.
+[17:13:24	]Jody Mayflower used the 'Munition Lady' vendor.
+[17:13:32	]Jody Mayflower has gained 0 chips.
+[17:13:32	]Jody Mayflower has gained a 'SR-1A' #1660005.
+[17:13:36	]Jody Mayflower ran 'Equip' on item 'SR-1A' (#1660005)
+[17:13:38	]Jody Mayflower used command '/ToggleRaise'.
+[17:13:40	]Jody Mayflower used the 'Munition Lady' vendor.
+[17:13:48	]Jody Mayflower used the 'Munition Lady' vendor.
+[17:13:52	]Jody Mayflower has gained 0 chips.
+[17:13:53	]Jody Mayflower has gained a '30rnd Pulse-magazine' #1660006.
+[17:13:53	]Jody Mayflower has gained 0 chips.
+[17:13:53	]Jody Mayflower has gained a '30rnd Pulse-magazine' #1660007.
+[17:13:53	]Jody Mayflower has gained 0 chips.
+[17:13:53	]Jody Mayflower has gained a '30rnd Pulse-magazine' #1660008.
+[17:13:58	]Jody Mayflower has gained 0 chips.
+[17:13:58	]Jody Mayflower has gained a 'Pulse Rifle Bullets' #1660009.
+[17:13:58	]Jody Mayflower has gained 0 chips.
+[17:13:58	]Jody Mayflower has gained a 'Pulse Rifle Bullets' #1660010.
+[17:13:59	]Jody Mayflower has gained 0 chips.
+[17:13:59	]Jody Mayflower has gained a 'Pulse Rifle Bullets' #1660011.
+[17:14:01	]Jody Mayflower ran 'combine' on item '30rnd Pulse-magazine' (#1660008)
+[17:14:03	]Jody Mayflower ran 'combine' on item '30rnd Pulse-magazine' (#1660007)
+[17:14:06	]Jody Mayflower ran 'combine' on item '30rnd Pulse-magazine' (#1660006)
+[17:14:07	]Jody Mayflower has lost a '30rnd Pulse-magazine' #1660008.
+[17:14:15	]Jody Mayflower has critically hit test char in the right arm dealing 7 damage (CritChance was 1.01).
+[17:14:15	]test char has taken 6 damage from Jody Mayflower.
+[17:14:17	]test char is fully healed.
+[17:14:18	]Jody Mayflower has critically hit test char in the chest dealing 25 damage (CritChance was 1.01).
+[17:14:18	]test char has taken 25 damage from Jody Mayflower.
+[17:14:22	]test char is fully healed.
+[17:14:30	]Jody Mayflower has gained a '30rnd Pulse-magazine' #1660008.
+[17:14:30	]Jody Mayflower has lost a '30rnd Pulse-magazine' #1660007.
+[17:14:38	]Jody Mayflower has critically hit test char in the right leg dealing 7 damage (CritChance was 1.01).
+[17:14:38	]test char has taken 6 damage from Jody Mayflower.
+[17:14:42	]test char is fully healed.
+[17:15:02	]Jody Mayflower has gained a '30rnd Pulse-magazine' #1660007.
+[17:15:02	]Jody Mayflower has lost a '30rnd Pulse-magazine' #1660006.
+[17:15:17	]Jody Mayflower has critically hit npc_combine_camera dealing 0 damage (CritChance was 1.01).
+[17:15:17	]Jody Mayflower has critically hit npc_combine_camera dealing 25 damage (CritChance was 1.01).
+[17:15:17	]Jody Mayflower has critically hit npc_combine_camera dealing 0 damage (CritChance was 1.01).
+[17:15:17	]Jody Mayflower has critically hit npc_combine_camera dealing 25 damage (CritChance was 1.01).
+[17:15:17	]Jody Mayflower has critically hit npc_combine_camera dealing 0 damage (CritChance was 1.01).
+[17:15:17	]Jody Mayflower has critically hit npc_combine_camera dealing 25 damage (CritChance was 1.01).
+[17:15:18	]Jody Mayflower has critically hit npc_combine_camera dealing 0 damage (CritChance was 1.01).
+[17:15:18	]Jody Mayflower has critically hit npc_combine_camera dealing 25 damage (CritChance was 1.01).
+[17:15:36	]Jody Mayflower used command '/ToggleRaise'.
+[17:15:49	]Jody Mayflower used the 'Munition Lady' vendor.
+[17:15:53	]Jody Mayflower has gained 0 chips.
+[17:15:53	]Jody Mayflower has gained a 'Pulse Rifle Bullets' #1660012.
+[17:15:53	]Jody Mayflower has gained 0 chips.
+[17:15:53	]Jody Mayflower has gained a 'Pulse Rifle Bullets' #1660013.
+[17:15:54	]Jody Mayflower has gained 0 chips.
+[17:15:54	]Jody Mayflower has gained a 'Pulse Rifle Bullets' #1660014.
+[17:15:54	]Jody Mayflower has gained 0 chips.
+[17:15:54	]Jody Mayflower has gained a 'Pulse Rifle Bullets' #1660015.
+[17:15:55	]Jody Mayflower has gained 0 chips.
+[17:15:55	]Jody Mayflower has gained a 'Pulse Rifle Bullets' #1660016.
+[17:15:55	]Jody Mayflower has gained 0 chips.
+[17:15:55	]Jody Mayflower has gained a 'Pulse Rifle Bullets' #1660017.
+[17:15:58	]Jody Mayflower ran 'combine' on item '30rnd Pulse-magazine' (#1660008)
+[17:16:00	]Jody Mayflower ran 'combine' on item '30rnd Pulse-magazine' (#1660007)
+[17:16:00	]Jody Mayflower has gained a '30rnd Pulse-magazine' #1660006.
+[17:16:00	]Jody Mayflower has lost a '30rnd Pulse-magazine' #1660008.
+[17:16:02	]Jody Mayflower ran 'combine' on item '30rnd Pulse-magazine' (#1660006)
+[17:16:08	]Jody Mayflower used command '/ToggleRaise'.
+[17:16:10	]Jody Mayflower destroyed a 'Buckshot Shotgun Shells' #1655606.
+[17:16:11	]Jody Mayflower destroyed a 'Assault Rifle Bullets' #1660001.
+[17:16:12	]Jody Mayflower destroyed a 'Buckshot Shotgun Shells' #1656643.
+[17:16:13	]Jody Mayflower destroyed a 'Buckshot Shotgun Shells' #1657164.
+[17:16:25	]Jody Mayflower has spawned a 'NPC [267][npc_antlionguard]'.
+[17:16:26	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:27	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:27	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:27	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:28	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:28	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:28	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:28	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:28	]Jody Mayflower has critically hit npc_antlionguard dealing 1 damage (CritChance was 1.01).
+[17:16:28	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:29	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:29	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:29	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:29	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:30	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:30	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:30	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:31	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:31	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:32	]Jody Mayflower has gained a '30rnd Pulse-magazine' #1660008.
+[17:16:32	]Jody Mayflower has lost a '30rnd Pulse-magazine' #1660007.
+[17:16:35	]Jody Mayflower has taken 10 damage from npc_antlionguard.
+[17:16:35	]Jody Mayflower has taken 10 damage from npc_antlionguard.
+[17:16:36	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:38	]test char has taken 10 damage from npc_antlionguard.
+[17:16:38	]test char has taken 10 damage from npc_antlionguard.
+[17:16:38	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:38	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:39	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:39	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:39	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:39	]Jody Mayflower has critically hit npc_antlionguard dealing 7 damage (CritChance was 1.01).
+[17:16:42	]test char is fully healed.
+[17:16:42	]Jody Mayflower entered observer.
+[17:16:43	]Jody Mayflower exited observer at their location.
+[17:17:04	]test char has spawned a rappel_gear.
+[17:17:07	]Jody Mayflower ran 'take' on item 'Rappel Gear' (#1660018)
+[17:17:07	]Jody Mayflower has gained a 'Rappel Gear' #1660018.
+[17:17:11	]test char entered observer.
+[17:17:12	]test char exited observer at their location.
+[17:17:13	]Jody Mayflower ran 'Equip' on item 'Rappel Gear' (#1660018)
+[17:17:13	]test char entered observer.
+[17:17:13	]test char exited observer at their location.
+[17:17:17	]Jody Mayflower entered observer.
+[17:17:18	]test char entered observer.
+[17:17:18	]test char exited observer at their location.
+[17:17:19	]Jody Mayflower exited observer at their location.
+[17:17:33	]test char entered observer.
+[17:17:36	]Jody Mayflower entered observer.
+[17:17:38	]test char exited observer at their location.
+[17:17:40	]Jody Mayflower exited observer at their location.
+[17:17:56	]test char entered observer.
+[17:17:57	]Jody Mayflower entered observer.
+[17:17:59	]test char exited observer at their location.
+[17:18:00	]Jody Mayflower exited observer at their location.
+[17:18:09	]Jody Mayflower has taken 1 damage from worldspawn.
+[17:18:43	]Jody Mayflower has given himself a mag_pouch.
+[17:18:43	]Jody Mayflower has gained a 'Magazine Pouch' #1660019.
+[17:18:49	]test char entered observer.
+[17:18:57	]Jody Mayflower has given himself a bullet_pouch.
+[17:18:57	]Jody Mayflower has gained a 'Ammunition Pouch' #1660020.
+[17:18:59	]test char exited observer at their location.
+[17:18:59	]test char entered observer.
+[17:19:16	]test char exited observer at their location.
+[17:19:20	]Jody Mayflower ran 'combine' on item 'Ammunition Pouch' (#1660020)
+[17:19:31	]test char ran 'combine' on item '30rnd AK-magazine' (#1659791)
+[17:19:32	]test char ran 'combine' on item '30rnd AK-magazine' (#1659790)
+[17:19:33	]test char ran 'combine' on item '30rnd AK-magazine' (#1659789)
+[17:19:33	]test char ran 'combine' on item '30rnd AK-magazine' (#1659788)
+[17:19:38	]test char has lost a '30rnd AK-magazine' #1659791.
+[17:19:47	]Jody Mayflower has gained a '30rnd Pulse-magazine' #1660007.
+[17:19:47	]Jody Mayflower has lost a '30rnd Pulse-magazine' #1660006.
+[17:19:54	]test char entered observer.
+[17:19:55	]Jody Mayflower ran 'combine' on item 'Magazine Pouch' (#1660019)
+[17:20:01	]Jody Mayflower ran 'combine' on item '30rnd Pulse-magazine' (#1660008)
+[17:20:03	]Jody Mayflower ran 'combine' on item '30rnd Pulse-magazine' (#1660007)
+[17:20:05	]Jody Mayflower has gained a '30rnd Pulse-magazine' #1660006.
+[17:20:05	]Jody Mayflower has lost a '30rnd Pulse-magazine' #1660008.
+[17:21:08	]test char exited observer at their location.
+[17:21:09	]test char entered observer.
+[17:21:16	]test char exited observer at their location.
+[17:21:19	]test char entered observer.
+[17:22:41	]test char has used a context menu option with the name: remove
+[17:22:53	]test char has used a context menu option with the name: remove
+[17:22:54	]test char has used a context menu option with the name: remove
+[17:22:56	]test char has used a context menu option with the name: remove
+[17:22:57	]test char has used a context menu option with the name: remove
+[17:22:58	]test char has used a context menu option with the name: remove
+[17:23:00	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:01	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:01	]test char has used a context menu option with the name: remove
+[17:23:03	]test char has used a context menu option with the name: remove
+[17:23:03	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:04	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:04	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:05	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:07	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:07	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:07	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:07	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:08	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:11	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:15	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:19	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:19	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:21	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:22	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:23	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:23	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:24	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:25	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:26	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:27	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:28	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:28	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:30	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:31	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:32	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:33	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:33	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:35	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:35	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:36	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:36	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:37	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:37	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:38	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:38	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:38	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:39	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:39	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:39	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:39	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:40	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:41	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:41	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:42	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:43	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:43	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:44	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:45	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:45	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:46	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:46	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:48	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:48	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:48	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:49	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:49	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:51	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:51	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:53	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:56	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:56	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:57	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:57	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:57	]Jody Mayflower has fired a toolgun with the name: remover
+[17:23:57	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:02	]test char exited observer at their location.
+[17:24:07	]test char entered observer.
+[17:24:09	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:10	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:10	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:10	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:10	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:11	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:11	]test char exited observer at their location.
+[17:24:14	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:14	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:18	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:18	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:18	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:18	]test char entered observer.
+[17:24:18	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:18	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:19	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:20	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:20	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:21	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:21	]test char exited observer at their location.
+[17:24:22	]test char entered observer.
+[17:24:22	]test char exited observer at their location.
+[17:24:24	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:24	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:25	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:26	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:26	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:26	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:26	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:26	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:28	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:29	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:29	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:29	]Jody Mayflower has fired a toolgun with the name: remover
+[17:24:30	]test char entered observer.
+[17:24:32	]test char exited observer at their location.
+[17:24:37	]test char entered observer.
+[17:24:38	]Jody Mayflower entered observer.
+[17:24:40	]Jody Mayflower exited observer at their location.
+[17:24:41	]Jody Mayflower entered observer.
+[17:24:42	]Jody Mayflower exited observer at their location.
+[17:24:48	]Jody Mayflower entered observer.
+[17:24:52	]test char has fired a toolgun with the name: remover
+[17:24:54	]test char has fired a toolgun with the name: remover
+[17:24:54	]test char has fired a toolgun with the name: remover
+[17:24:55	]test char has fired a toolgun with the name: remover
+[17:24:55	]test char has fired a toolgun with the name: remover
+[17:24:55	]test char has fired a toolgun with the name: remover
+[17:24:57	]test char has fired a toolgun with the name: remover
+[17:24:57	]test char has fired a toolgun with the name: remover
+[17:24:57	]test char has fired a toolgun with the name: remover
+[17:24:58	]test char has fired a toolgun with the name: remover
+[17:24:58	]test char has fired a toolgun with the name: remover
+[17:24:58	]test char has fired a toolgun with the name: remover
+[17:25:00	]test char has fired a toolgun with the name: remover
+[17:25:00	]Jody Mayflower has fired a toolgun with the name: remover
+[17:25:00	]test char has fired a toolgun with the name: remover
+[17:25:00	]Jody Mayflower has fired a toolgun with the name: remover
+[17:25:00	]test char has fired a toolgun with the name: remover
+[17:25:02	]Jody Mayflower exited observer at their location.
+[17:25:03	]test char exited observer at their location.
+[17:25:04	]test char entered observer.
+[17:25:05	]test char exited observer at their location.
+[17:25:10	]test char has gained a '30rnd AK-magazine' #1659791.
+[17:25:10	]test char has lost a '30rnd AK-magazine' #1659790.
+[17:25:16	]test char has hit Jody Mayflower in the left arm dealing 6 damage (CritChance was 0.42).
+[17:25:16	]Jody Mayflower has taken 6 damage from test char.
+[17:25:17	]test char has critically hit Jody Mayflower in the left arm dealing 6 damage (CritChance was 0.42).
+[17:25:17	]Jody Mayflower has taken 6 damage from test char.
+[17:25:17	]test char has hit Jody Mayflower in the left leg dealing 6 damage (CritChance was 0.42).
+[17:25:17	]Jody Mayflower has taken 6 damage from test char.
+[17:25:17	]test char has hit Jody Mayflower in the right arm dealing 0 damage (CritChance was 0.42).
+[17:25:17	]test char has critically hit Jody Mayflower in the left leg dealing 6 damage (CritChance was 0.42).
+[17:25:17	]Jody Mayflower has taken 6 damage from test char.
+[17:25:17	]test char has hit Jody Mayflower in the stomach dealing 14 damage (CritChance was 0.42).
+[17:25:17	]Jody Mayflower has taken 14 damage from test char.
+[17:25:35	]test char entered observer.
+[17:25:41	]Jody Mayflower entered observer.
+[17:25:45	]test char has fired a toolgun with the name: light
+[17:25:45	]Jody Mayflower exited observer at their location.
+[17:25:48	]test char has fired a toolgun with the name: light
+[17:25:50	]test char has fired a toolgun with the name: light
+[17:25:51	]test char has fired a toolgun with the name: light
+[17:25:52	]test char has fired a toolgun with the name: light
+[17:25:53	]test char has fired a toolgun with the name: light
+[17:25:53	]test char has fired a toolgun with the name: light
+[17:25:54	]test char has fired a toolgun with the name: light
+[17:25:55	]test char has fired a toolgun with the name: light
+[17:25:55	]test char has fired a toolgun with the name: light
+[17:25:56	]test char has fired a toolgun with the name: light
+[17:26:07	]Jody Mayflower entered observer.
+[17:26:11	]Jody Mayflower exited observer at their location.
+[17:26:14	]test char has fired a toolgun with the name: creator
+[17:26:14	]test char has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[17:26:18	]test char has fired a toolgun with the name: creator
+[17:26:18	]test char has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[17:26:19	]test char has fired a toolgun with the name: creator
+[17:26:19	]test char has fired a toolgun with the name: creator
+[17:26:19	]test char has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[17:26:19	]Jody Mayflower has gained a '30rnd Pulse-magazine' #1660008.
+[17:26:19	]Jody Mayflower was knocked unconscious and is bleeding out.
+[17:26:20	]test char has fired a toolgun with the name: creator
+[17:26:20	]test char has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[17:26:21	]test char has fired a toolgun with the name: creator
+[17:26:21	]test char has fired a toolgun with the name: creator
+[17:26:21	]test char has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[17:26:22	]test char has fired a toolgun with the name: creator
+[17:26:22	]test char has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[17:26:23	]test char has fired a toolgun with the name: creator
+[17:26:23	]test char has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[17:26:29	]Jody Mayflower ran SAM command 'respawn' with arguments: 'jod'
+[17:26:35	]Jody Mayflower entered observer.
+[17:26:38	]Jody Mayflower exited observer at their location.
+[17:26:43	]test char has fired a toolgun with the name: creator
+[17:26:43	]test char has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[17:26:44	]test char has fired a toolgun with the name: creator
+[17:26:44	]test char has fired a toolgun with the name: creator
+[17:26:44	]test char has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[17:26:45	]test char has fired a toolgun with the name: creator
+[17:26:46	]test char has fired a toolgun with the name: creator
+[17:26:46	]test char has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[17:26:46	]test char has fired a toolgun with the name: creator
+[17:26:47	]test char has fired a toolgun with the name: creator
+[17:26:47	]test char has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[17:26:47	]test char has fired a toolgun with the name: creator
+[17:26:47	]test char has fired a toolgun with the name: creator
+[17:26:47	]test char has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[17:26:48	]test char has fired a toolgun with the name: creator
+[17:26:48	]test char has fired a toolgun with the name: creator
+[17:26:48	]test char has fired a toolgun with the name: creator
+[17:26:48	]test char has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[17:26:49	]test char has fired a toolgun with the name: creator
+[17:26:49	]test char has fired a toolgun with the name: creator
+[17:26:49	]test char has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[17:26:50	]test char has fired a toolgun with the name: creator
+[17:26:50	]test char has fired a toolgun with the name: creator
+[17:26:50	]test char has fired a toolgun with the name: creator
+[17:26:50	]test char has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[17:26:51	]test char has fired a toolgun with the name: creator
+[17:26:51	]test char has fired a toolgun with the name: creator
+[17:26:51	]test char has fired a toolgun with the name: creator
+[17:26:51	]test char has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[17:26:52	]test char has fired a toolgun with the name: creator
+[17:26:52	]test char has fired a toolgun with the name: creator
+[17:26:52	]test char has fired a toolgun with the name: creator
+[17:26:52	]test char has fired a toolgun with the name: creator
+[17:26:52	]test char has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[17:26:52	]test char has fired a toolgun with the name: creator
+[17:26:53	]test char has fired a toolgun with the name: creator
+[17:26:53	]test char has fired a toolgun with the name: creator
+[17:26:53	]test char has fired a toolgun with the name: creator
+[17:26:53	]test char has fired a toolgun with the name: creator
+[17:26:53	]test char has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[17:26:54	]test char has fired a toolgun with the name: creator
+[17:26:54	]test char has fired a toolgun with the name: creator
+[17:26:54	]test char has fired a toolgun with the name: creator
+[17:26:54	]test char has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[17:26:55	]test char has fired a toolgun with the name: creator
+[17:26:55	]test char has fired a toolgun with the name: creator
+[17:26:55	]test char has fired a toolgun with the name: creator
+[17:26:55	]test char has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[17:26:55	]test char has fired a toolgun with the name: creator
+[17:27:08	]Jody Mayflower entered observer.
+[17:27:51	]Jody Mayflower exited observer at their location.
+[17:27:54	]Rabithunter (STEAM_0:1:22394854) has disconnected.
+[17:32:57	]test char exited observer at their location.
+[17:33:03	]test char entered observer.
+[17:33:05	]test char exited observer at their location.
+[17:33:07	]test char entered observer.
+[17:34:18	]test char exited observer at their location.
+[17:34:21	]test char entered observer.
+[17:36:59	]test char exited observer at their location.
+[17:37:01	]test char entered observer.
+[17:37:22	]test char exited observer at their location.
+[17:37:23	]test char entered observer.
+[17:37:27	]test char exited observer at their location.
+[17:37:28	]test char entered observer.
+[17:41:23	]M!NT has connected.
+[17:42:02	]M!NT loaded the character 'test char'
+[17:42:07	]test char is fully healed.
+[17:42:09	]test char entered observer.
+[17:42:12	]test char exited observer at their location.
+[17:47:32	]test char has gone afk.
+[17:53:37	]Mango has connected.
+[17:54:38	]Mango loaded the character 'C17:RCT.YELLO-97'
+[17:54:49	]C17:RCT.YELLO-97 entered observer.
+[17:54:49	]C17:RCT.YELLO-97 exited observer at their location.
+[17:54:54	]C17:RCT.YELLO-97 ran SAM command 'hp' with arguments: '^' '100'
+[17:54:58	]C17:RCT.YELLO-97 is fully healed.
+[17:55:01	][IC] C17:RCT.YELLO-97: <:: Yep. ::>
+[17:55:03	][IC] C17:RCT.YELLO-97: <:: Yep. Yep. Yep. ::>
+[17:55:13	]test char is no longer afk. Total time spent AFK: 755
+[17:55:13	][IC] test char: Hol up im reviewin ur code.
+[17:55:36	][IC] C17:RCT.YELLO-97: <:: I'll review you with the toolgun removal. ::>
+[17:55:47	]C17:RCT.YELLO-97 has fired a toolgun with the name: remover
+[17:55:58	][IC] C17:RCT.YELLO-97: <:: Remover. ::>
+[17:56:01	][IC] C17:RCT.YELLO-97: <:: Remove entities. ::>
+[17:56:04	][IC] C17:RCT.YELLO-97: <:: Remove selected object. ::>
+[17:56:12	][IC] C17:RCT.YELLO-97: <:: Remove selected object and all objects constrained to it. ::>
+[17:56:19	][IC] C17:RCT.YELLO-97: <:: Clear all constraints on selected object. ::>
+[17:57:36	][IC] C17:RCT.YELLO-97: <:: Lookin' for trouble. ::>
+[18:06:54	]test char has gone afk.
+[18:09:08	]C17:RCT.YELLO-97 has gone afk.
+[18:10:34	]test char is no longer afk. Total time spent AFK: 515
+[18:10:38	]C17:RCT.YELLO-97 is no longer afk. Total time spent AFK: 385
+[18:10:38	]C17:RCT.YELLO-97 has fired a toolgun with the name: remover
+[18:10:39	]C17:RCT.YELLO-97 has fired a toolgun with the name: remover
+[18:10:39	]C17:RCT.YELLO-97 has fired a toolgun with the name: remover
+[18:10:39	]C17:RCT.YELLO-97 has fired a toolgun with the name: remover
+[18:10:39	]C17:RCT.YELLO-97 has fired a toolgun with the name: remover
+[18:10:39	]C17:RCT.YELLO-97 has fired a toolgun with the name: remover
+[18:10:40	]C17:RCT.YELLO-97 has fired a toolgun with the name: remover
+[18:10:40	]C17:RCT.YELLO-97 has fired a toolgun with the name: remover
+[18:10:40	]C17:RCT.YELLO-97 has fired a toolgun with the name: remover
+[18:10:40	]C17:RCT.YELLO-97 has fired a toolgun with the name: remover
+[18:10:40	]C17:RCT.YELLO-97 has fired a toolgun with the name: remover
+[18:10:46	][IC] C17:RCT.YELLO-97: <:: Responding. ::>
+[18:11:04	]test char used command '/AddPBX 1'.
+[18:11:14	]test char used command '/EditLandline 1 222 Left'.
+[18:11:19	]test char used command '/EditLandline 1 222 Left'.
+[18:11:21	]test char used command '/AddPBX 1'.
+[18:11:22	]test char used command '/EditLandline 1 222 Left'.
+[18:11:35	]test char used command '/EditLandline 1 444 left'.
+[18:11:46	]test char used command '/EditLandline 1 555 right'.
+[18:11:52	][IC] C17:RCT.YELLO-97: Ceepee.
+[18:12:59	]test char used command '/phonesay so its still busted ;('.
+[18:19:34	]test char has gone afk.
+[18:22:08	]C17:RCT.YELLO-97 has gone afk.
+[18:44:59	]test char is no longer afk. Total time spent AFK: 1820
+[18:45:02	]test char entered observer.
+[18:45:03	]test char exited observer at their location.
+[18:45:04	]test char entered observer.
+[18:45:06	]test char exited observer at their location.
+[18:45:08	]test char entered observer.
+[18:45:10	]test char exited observer at their location.
+[18:45:11	]test char entered observer.
+[18:45:14	]test char exited observer at their location.
+[18:45:16	]test char entered observer.
+[18:45:19	]test char exited observer at their location.
+[18:45:20	]test char entered observer.
+[18:45:21	]test char exited observer at their location.
+[18:45:22	]test char entered observer.
+[18:45:24	]test char exited observer at their location.
+[18:45:27	]test char entered observer.
+[18:45:27	]test char exited observer at their location.
+[18:45:29	]test char entered observer.
+[18:45:31	]test char exited observer at their location.
+[18:45:32	]test char entered observer.
+[18:45:35	]test char exited observer at their location.
+[18:45:35	]test char entered observer.
+[18:45:37	]test char exited observer at their location.
+[18:45:39	]test char entered observer.
+[18:45:43	]test char exited observer at their location.
+[18:45:45	]test char entered observer.
+[18:45:48	]test char exited observer at their location.
+[18:45:50	]test char entered observer.
+[18:45:53	]test char exited observer at their location.
+[18:45:55	]test char entered observer.
+[18:45:57	]test char exited observer at their location.
+[18:45:58	]test char entered observer.
+[18:46:00	]test char exited observer at their location.
+[18:46:01	]test char entered observer.
+[18:46:03	]test char exited observer at their location.
+[18:46:04	]test char entered observer.
+[18:46:05	]test char exited observer at their location.
+[18:46:05	]test char entered observer.
+[18:46:06	]test char exited observer at their location.
+[18:46:06	]test char entered observer.
+[18:46:09	]test char exited observer at their location.
+[18:46:11	]test char entered observer.
+[18:46:38	]test char exited observer at their location.
+[18:46:40	]test char entered observer.
+[18:46:44	]test char exited observer at their location.
+[18:46:45	]test char entered observer.
+[18:46:47	]test char exited observer at their location.
+[18:46:48	]C17:RCT.YELLO-97 is no longer afk. Total time spent AFK: 1775
+[18:46:48	]test char entered observer.
+[18:46:53	]test char exited observer at their location.
+[18:46:56	]test char entered observer.
+[18:47:16	]test char exited observer at their location.
+[18:47:19	]test char entered observer.
+[18:47:35	]test char exited observer at their location.
+[18:47:38	]test char entered observer.
+[18:47:52	]test char exited observer at their location.
+[18:47:53	]test char entered observer.
+[18:47:55	]test char exited observer at their location.
+[18:47:56	]test char entered observer.
+[18:48:00	]test char exited observer at their location.
+[18:48:02	]test char entered observer.
+[18:48:03	]test char exited observer at their location.
+[18:48:04	]test char entered observer.
+[18:48:08	]test char exited observer at their location.
+[18:48:09	]test char entered observer.
+[18:48:21	]test char exited observer at their location.
+[18:48:22	]test char entered observer.
+[18:48:26	]test char exited observer at their location.
+[18:48:27	]test char entered observer.
+[18:48:36	]test char exited observer at their location.
+[18:48:37	]test char entered observer.
+[18:48:41	]test char exited observer at their location.
+[18:48:41	]test char entered observer.
+[18:48:43	]test char exited observer at their location.
+[18:48:43	]test char entered observer.
+[18:48:45	]test char exited observer at their location.
+[18:48:47	]test char entered observer.
+[18:48:49	]test char exited observer at their location.
+[18:48:51	]test char entered observer.
+[18:48:55	]test char exited observer at their location.
+[18:48:56	]test char entered observer.
+[18:49:01	]test char exited observer at their location.
+[18:49:02	]test char entered observer.
+[18:49:02	]test char exited observer at their location.
+[18:49:03	]test char entered observer.
+[18:49:04	]test char exited observer at their location.
+[18:49:05	]test char entered observer.
+[18:49:06	]test char exited observer at their location.
+[18:49:07	]test char entered observer.
+[18:49:08	]test char exited observer at their location.
+[18:49:10	]test char entered observer.
+[18:49:28	]test char exited observer at their location.
+[18:49:29	]test char entered observer.
+[18:49:31	]test char exited observer at their location.
+[18:49:33	]test char entered observer.
+[18:49:36	]test char exited observer at their location.
+[18:49:36	]test char entered observer.
+[18:49:39	]test char exited observer at their location.
+[18:49:40	]test char entered observer.
+[18:49:42	]test char exited observer at their location.
+[18:49:43	]test char entered observer.
+[18:49:45	]test char exited observer at their location.
+[18:49:45	]test char entered observer.
+[18:49:50	]test char exited observer at their location.
+[18:49:51	]test char entered observer.
+[18:49:56	]test char exited observer at their location.
+[18:49:56	]test char entered observer.
+[18:50:04	]test char exited observer at their location.
+[18:50:06	]test char entered observer.
+[18:50:10	]test char exited observer at their location.
+[18:50:10	]test char entered observer.
+[18:50:24	]test char exited observer at their location.
+[18:50:25	]test char entered observer.
+[18:50:30	]test char exited observer at their location.
+[18:50:32	]test char entered observer.
+[18:50:47	]test char exited observer at their location.
+[18:50:48	]test char entered observer.
+[18:50:50	]test char exited observer at their location.
+[18:50:51	]test char entered observer.
+[18:50:55	]test char exited observer at their location.
+[18:50:56	]test char entered observer.
+[18:51:00	]test char exited observer at their location.
+[18:51:01	]test char entered observer.
+[18:51:03	]test char exited observer at their location.
+[18:51:03	]test char entered observer.
+[18:51:11	]test char exited observer at their location.
+[18:51:14	]test char entered observer.
+[18:51:18	]test char exited observer at their location.
+[18:51:19	]test char entered observer.
+[18:51:22	]test char exited observer at their location.
+[18:51:23	]test char entered observer.
+[18:51:25	]test char exited observer at their location.
+[18:51:26	]test char entered observer.
+[18:51:27	]test char exited observer at their location.
+[18:51:29	]test char entered observer.
+[18:51:39	]test char exited observer at their location.
+[18:51:40	]test char entered observer.
+[18:51:43	]test char exited observer at their location.
+[18:51:45	]test char entered observer.
+[18:51:48	]C17:RCT.YELLO-97 has gone afk.
+[18:52:38	]test char exited observer at their location.
+[18:52:39	]test char entered observer.
+[18:52:46	]test char exited observer at their location.
+[18:52:47	]test char entered observer.
+[18:52:50	]test char exited observer at their location.
+[18:52:51	]test char entered observer.
+[18:52:53	]test char exited observer at their location.
+[18:52:53	]test char entered observer.
+[18:52:59	]test char exited observer at their location.
+[18:53:00	]test char entered observer.
+[18:53:02	]test char exited observer at their location.
+[18:53:04	]test char entered observer.
+[18:53:11	]test char exited observer at their location.
+[18:53:12	]test char entered observer.
+[18:53:15	]test char exited observer at their location.
+[18:53:16	]test char entered observer.
+[18:53:25	]test char exited observer at their location.
+[18:53:26	]test char entered observer.
+[18:53:28	]test char exited observer at their location.
+[18:53:30	]test char entered observer.
+[18:53:45	]test char exited observer at their location.
+[18:53:47	]test char entered observer.
+[18:54:15	]test char exited observer at their location.
+[18:54:16	]test char entered observer.
+[18:54:17	]test char exited observer at their location.
+[18:54:18	]test char entered observer.
+[18:54:20	]test char exited observer at their location.
+[18:54:21	]test char entered observer.
+[18:54:27	]test char exited observer at their location.
+[18:54:28	]test char entered observer.
+[18:54:38	]test char exited observer at their location.
+[18:54:39	]test char entered observer.
+[18:54:42	]test char exited observer at their location.
+[18:54:43	]test char entered observer.
+[18:54:50	]test char exited observer at their location.
+[18:54:51	]test char entered observer.
+[18:54:57	]test char exited observer at their location.
+[18:54:59	]test char entered observer.
+[18:55:10	]test char exited observer at their location.
+[18:55:10	]test char entered observer.
+[18:55:13	]test char exited observer at their location.
+[18:55:15	]test char entered observer.
+[18:55:21	]test char exited observer at their location.
+[18:55:22	]test char entered observer.
+[18:55:23	]test char exited observer at their location.
+[18:55:25	]test char entered observer.
+[18:55:27	]test char exited observer at their location.
+[18:55:29	]test char entered observer.
+[18:55:36	]test char exited observer at their location.
+[18:55:36	]test char entered observer.
+[18:55:37	]test char exited observer at their location.
+[18:55:37	]test char entered observer.
+[18:55:43	]test char exited observer at their location.
+[18:55:45	]test char entered observer.
+[18:55:48	]test char exited observer at their location.
+[18:55:51	]test char entered observer.
+[18:55:53	]test char exited observer at their location.
+[18:55:54	]test char entered observer.
+[18:55:57	]test char exited observer at their location.
+[18:56:00	]test char entered observer.
+[18:56:09	]test char exited observer at their location.
+[18:56:11	]test char entered observer.
+[18:56:19	]test char exited observer at their location.
+[18:56:20	]test char entered observer.
+[18:56:23	]test char exited observer at their location.
+[18:56:25	]test char entered observer.
+[18:56:27	]test char exited observer at their location.
+[18:56:28	]test char entered observer.
+[19:01:59	]test char has gone afk.
+[19:02:34	]test char is no longer afk. Total time spent AFK: 330
+[19:02:34	]test char exited observer at their location.
+[19:02:35	]test char entered observer.
+[19:09:34	]test char has gone afk.
+[19:16:54	]test char is no longer afk. Total time spent AFK: 735
+[19:22:24	]test char has gone afk.
+[19:58:18	]C17:RCT.YELLO-97 is no longer afk. Total time spent AFK: 4285
+[19:58:22	]C17:RCT.YELLO-97 entered observer.
+[19:58:36	]Mango (STEAM_0:0:544539350) has disconnected.
+[21:11:34	]test char is no longer afk. Total time spent AFK: 6845
+[21:16:48	]M!NT has connected.
+[21:16:52	]Furret No Furry Asimo has connected.
+[21:17:47	]Furret No Furry Asimo loaded the character 'Billly Bo'
+[21:17:51	]M!NT loaded the character 'test char'
+[21:17:53	]test char has taken 85 damage from worldspawn.
+[21:17:56	]test char is fully healed.
+[21:18:07	]test char entered observer.
+[21:18:09	]test char exited observer at their location.
+[21:18:10	]Billly Bo ran SAM command 'hp' with arguments: '^' '100'
+[21:18:11	]Billly Bo entered observer.
+[21:18:11	]Billly Bo is fully healed.
+[21:18:20	]Billly Bo exited observer at their location.
+[21:18:59	]test char used command '/phonesay shit'.
+[21:19:14	][IC] Billly Bo: Meow.
+[21:19:20	][IC] Billly Bo: E.
+[21:19:35	]test char entered observer.
+[21:19:39	]test char exited observer at their location.
+[21:19:39	]test char entered observer.
+[21:19:41	]test char exited observer at their location.
+[21:19:42	]test char entered observer.
+[21:19:43	]test char exited observer at their location.
+[21:19:44	]test char entered observer.
+[21:19:58	]Billly Bo has given himself a bullet_pouch.
+[21:19:58	]Billly Bo has gained a 'Ammunition Pouch' #1660021.
+[21:20:02	]test char exited observer at their location.
+[21:20:03	]test char entered observer.
+[21:20:04	]test char exited observer at their location.
+[21:20:05	]test char entered observer.
+[21:20:06	]test char exited observer at their location.
+[21:20:07	]test char entered observer.
+[21:20:07	]test char exited observer at their location.
+[21:20:07	]Billly Bo has given himself a mag_pouch.
+[21:20:07	]Billly Bo has gained a 'Magazine Pouch' #1660022.
+[21:20:10	]test char entered observer.
+[21:20:11	]test char exited observer at their location.
+[21:20:11	]Billly Bo has given himself a bullets_smg1.
+[21:20:11	]Billly Bo has gained a 'Sub-machinegun Bullets' #1660023.
+[21:20:11	]test char entered observer.
+[21:20:13	]test char exited observer at their location.
+[21:20:15	]test char entered observer.
+[21:20:16	]test char exited observer at their location.
+[21:20:17	]test char entered observer.
+[21:20:20	]Billly Bo ran 'split' on item 'Sub-machinegun Bullets' (#1660023)
+[21:20:20	]Billly Bo has gained a 'Sub-machinegun Bullets' #1660024.
+[21:20:22	]Billly Bo ran 'combine' on item 'Sub-machinegun Bullets' (#1660023)
+[21:20:29	]Billly Bo ran 'drop' on item 'PVS-4 (2xIR)' (#1659643)
+[21:20:29	]Billly Bo has lost a 'PVS-4 (2xIR)' #1659643.
+[21:20:30	]Billly Bo ran 'drop' on item 'Enhanced Burst' (#1659642)
+[21:20:30	]Billly Bo has lost a 'Enhanced Burst' #1659642.
+[21:20:30	]Billly Bo ran 'drop' on item 'Subsonic Rounds' (#1659087)
+[21:20:30	]Billly Bo has lost a 'Subsonic Rounds' #1659087.
+[21:20:31	]Billly Bo ran 'drop' on item '30-Round 7.62mm Poly' (#1659634)
+[21:20:31	]Billly Bo has lost a '30-Round 7.62mm Poly' #1659634.
+[21:20:31	]Billly Bo ran 'drop' on item 'Basilisk Stock' (#1659636)
+[21:20:31	]Billly Bo has lost a 'Basilisk Stock' #1659636.
+[21:20:32	]Billly Bo ran 'drop' on item '30-Round 5.45mm Poly' (#1659635)
+[21:20:32	]Billly Bo has lost a '30-Round 5.45mm Poly' #1659635.
+[21:20:32	]Billly Bo ran 'drop' on item 'Flash Hider' (#1659637)
+[21:20:32	]Billly Bo has lost a 'Flash Hider' #1659637.
+[21:20:32	]Billly Bo ran 'drop' on item 'Light Internals' (#1659639)
+[21:20:32	]Billly Bo has lost a 'Light Internals' #1659639.
+[21:20:33	]Billly Bo ran 'drop' on item '5mW Laser' (#1659638)
+[21:20:33	]Billly Bo has lost a '5mW Laser' #1659638.
+[21:20:39	]Billly Bo has given himself a bullets_smg1.
+[21:20:40	]Billly Bo has gained a 'Sub-machinegun Bullets' #1660025.
+[21:20:40	]Billly Bo has given himself a bullets_smg1.
+[21:20:40	]Billly Bo has gained a 'Sub-machinegun Bullets' #1660026.
+[21:20:41	]Billly Bo has given himself a bullets_smg1.
+[21:20:41	]Billly Bo has gained a 'Sub-machinegun Bullets' #1660027.
+[21:20:43	]Billly Bo has given himself a magazine_mp_30rnd.
+[21:20:43	]Billly Bo has gained a '30rnd MP-magazine' #1660028.
+[21:20:44	]Billly Bo has given himself a magazine_mp_30rnd.
+[21:20:44	]Billly Bo has gained a '30rnd MP-magazine' #1660029.
+[21:20:50	]Billly Bo ran 'combine' on item '30rnd MP-magazine' (#1660029)
+[21:20:56	]Billly Bo ran 'unload' on item '30rnd MP-magazine' (#1660029)
+[21:20:56	]Billly Bo has gained a 'Sub-machinegun Bullets' #1660030.
+[21:20:58	]Billly Bo ran 'combine' on item '30rnd MP-magazine' (#1660029)
+[21:21:01	]Billly Bo ran 'drop' on item 'Ammunition Pouch' (#1660021)
+[21:21:01	]Billly Bo has lost a 'Ammunition Pouch' #1660021.
+[21:21:01	]Billly Bo has lost a 'Sub-machinegun Bullets' #1660023.
+[21:21:01	]Billly Bo ran 'drop' on item 'Magazine Pouch' (#1660022)
+[21:21:01	]Billly Bo has lost a 'Magazine Pouch' #1660022.
+[21:21:03	]Billly Bo ran 'ViewAlt' on item 'Ammunition Pouch' (#1660021)
+[21:21:08	]Billly Bo has transferred a 'Sub-machinegun Bullets' #1660027 to a container with the name 'Ammunition Pouch' #76810.
+[21:21:13	]Billly Bo ran 'ViewAlt' on item 'Magazine Pouch' (#1660022)
+[21:21:14	]Billly Bo has transferred a '30rnd MP-magazine' #1660029 to a container with the name 'Magazine Pouch' #76811.
+[21:21:17	]Billly Bo has transferred a '30rnd MP-magazine' #1660029 to a container with the name 'Magazine Pouch' #76811.
+[21:21:18	]Billly Bo ran 'combine' on item '30rnd MP-magazine' (#1660028)
+[21:21:19	]Billly Bo has transferred a '30rnd MP-magazine' #1660028 to a container with the name 'Magazine Pouch' #76811.
+[21:21:20	]M!NT (STEAM_0:1:120751263) has disconnected.
+[21:21:20	]Billly Bo ran 'take' on item 'Magazine Pouch' (#1660022)
+[21:21:20	]Billly Bo has gained a 'Magazine Pouch' #1660022.
+[21:21:20	]Billly Bo has gained a '30rnd MP-magazine' #1660028.
+[21:21:20	]Billly Bo has gained a '30rnd MP-magazine' #1660029.
+[21:21:30	]Billly Bo has given himself a mp7a1.
+[21:21:30	]Billly Bo has gained a 'MP7A1' #1660031.
+[21:21:31	]Billly Bo ran 'Equip' on item 'MP7A1' (#1660031)
+[21:21:32	]Billly Bo has lost a 'Subsonic Rounds' #1659038.
+[21:21:32	]Billly Bo used command '/ToggleRaise'.
+[21:21:33	]Billly Bo has lost a '30rnd MP-magazine' #1660029.
+[21:21:33	]Atle has connected.
+[21:21:38	]Billly Bo has gained a '30rnd MP-magazine' #1660029.
+[21:21:38	]Billly Bo has lost a '30rnd MP-magazine' #1660028.
+[21:21:43	]Billly Bo ran 'ViewAlt' on item 'Ammunition Pouch' (#1660021)
+[21:21:45	]Billly Bo ran 'take' on item 'Ammunition Pouch' (#1660021)
+[21:21:45	]Billly Bo has gained a 'Ammunition Pouch' #1660021.
+[21:21:45	]Billly Bo has gained a 'Sub-machinegun Bullets' #1660023.
+[21:21:48	]Billly Bo ran 'combine' on item '30rnd MP-magazine' (#1660029)
+[21:21:51	]Billly Bo has gained a '30rnd MP-magazine' #1660028.
+[21:21:51	]Billly Bo has lost a '30rnd MP-magazine' #1660029.
+[21:21:54	]Billly Bo destroyed a '5mW Laser' #1659638.
+[21:21:54	]Billly Bo destroyed a 'Light Internals' #1659639.
+[21:21:54	]Billly Bo destroyed a '30-Round 7.62mm Poly' #1659634.
+[21:21:55	]Billly Bo destroyed a 'Flash Hider' #1659637.
+[21:21:55	]Billly Bo destroyed a '30-Round 5.45mm Poly' #1659635.
+[21:21:55	]Billly Bo destroyed a 'Subsonic Rounds' #1659087.
+[21:21:55	]Billly Bo destroyed a 'PVS-4 (2xIR)' #1659643.
+[21:21:55	]Billly Bo destroyed a 'Basilisk Stock' #1659636.
+[21:21:55	]Billly Bo destroyed a 'Enhanced Burst' #1659642.
+[21:21:56	]Billly Bo entered observer.
+[21:21:57	]Billly Bo exited observer at their location.
+[21:21:58	]Billly Bo entered observer.
+[21:21:58	]Billly Bo exited observer at their location.
+[21:22:00	]Billly Bo entered observer.
+[21:22:00	]Billly Bo exited observer at their location.
+[21:22:00	]Billly Bo entered observer.
+[21:22:01	]Billly Bo exited observer at their location.
+[21:22:01	]Billly Bo entered observer.
+[21:22:01	]Billly Bo exited observer at their location.
+[21:22:02	]Billly Bo entered observer.
+[21:22:04	]Billly Bo exited observer at their location.
+[21:22:04	]Billly Bo entered observer.
+[21:22:05	]Billly Bo exited observer at their location.
+[21:22:05	]Billly Bo entered observer.
+[21:22:06	]Billly Bo exited observer at their location.
+[21:22:06	]Billly Bo entered observer.
+[21:22:07	]Billly Bo exited observer at their location.
+[21:22:08	]Billly Bo entered observer.
+[21:22:08	]Billly Bo exited observer at their location.
+[21:22:08	]Billly Bo entered observer.
+[21:22:10	]Billly Bo exited observer at their location.
+[21:22:10	]Billly Bo entered observer.
+[21:22:11	]Billly Bo exited observer at their location.
+[21:22:11	]Billly Bo entered observer.
+[21:22:11	]Billly Bo exited observer at their location.
+[21:22:12	]Billly Bo entered observer.
+[21:22:12	]Billly Bo exited observer at their location.
+[21:22:12	]Billly Bo entered observer.
+[21:22:13	]Billly Bo exited observer at their location.
+[21:22:13	]Billly Bo entered observer.
+[21:22:13	]Billly Bo exited observer at their location.
+[21:22:14	]Billly Bo entered observer.
+[21:22:14	]Billly Bo exited observer at their location.
+[21:22:14	]Billly Bo entered observer.
+[21:22:15	]Billly Bo exited observer at their location.
+[21:22:15	]Billly Bo entered observer.
+[21:22:15	]Billly Bo exited observer at their location.
+[21:22:16	]Billly Bo entered observer.
+[21:22:21	]Billly Bo exited observer at their location.
+[21:22:25	]Billly Bo entered observer.
+[21:22:29	]Billly Bo exited observer at their location.
+[21:22:29	]Billly Bo entered observer.
+[21:22:31	]Billly Bo exited observer at their location.
+[21:22:31	]Billly Bo entered observer.
+[21:22:32	]Billly Bo exited observer at their location.
+[21:22:32	]Billly Bo entered observer.
+[21:22:36	]Billly Bo exited observer at their location.
+[21:22:37	]Billly Bo entered observer.
+[21:22:38	]Atle loaded the character 'galunga'
+[21:22:41	]Billly Bo exited observer at their location.
+[21:22:41	]Billly Bo entered observer.
+[21:22:41	]Billly Bo exited observer at their location.
+[21:22:42	]Billly Bo entered observer.
+[21:23:07	]Billly Bo exited observer at their location.
+[21:23:10	][IC] Billly Bo: You are.
+[21:23:10	][IC] Billly Bo: An.
+[21:23:12	][IC] Billly Bo: ATLE.
+[21:23:12	]Billly Bo entered observer.
+[21:24:21	]Billly Bo exited observer at their location.
+[21:24:22	]Billly Bo has taken 18 damage from worldspawn.
+[21:24:22	]Billly Bo entered observer.
+[21:24:23	]Billly Bo exited observer at their location.
+[21:24:25	]Furret No Furry Asimo (STEAM_0:0:58605803) has disconnected.
+[21:24:44	]M!NT has connected.
+[21:25:08	]M!NT loaded the character 'test char'
+[21:25:09	]test char has taken 24 damage from worldspawn.
+[21:25:13	]test char is fully healed.
+[21:25:14	]galunga has given himself a vortigaunt_head_fedora.
+[21:25:14	]galunga has gained a 'Vortigaunt Fedora' #1660032.
+[21:25:14	]test char entered observer.
+[21:25:20	]test char exited observer at their location.
+[21:25:23	]test char entered observer.
+[21:25:32	]test char exited observer at their location.
+[21:25:42	][IC] test char: When it starts ringin just look at it and press E okok.
+[21:26:01	]test char used command '/phonesay HI??'.
+[21:26:04	][IC] galunga: Herro.
+[21:26:05	][IC] galunga: Is it.
+[21:26:07	][OOC] galunga: how do i
+[21:26:10	][OOC] galunga: how do i talk to it
+[21:26:14	][OOC] test char: oh yes
+[21:26:18	][OOC] test char: /phonesay or /ps
+[21:26:21	]galunga used command '/phonesay herro'.
+[21:26:23	]galunga used command '/phonesay testing'.
+[21:26:23	][OOC] test char: phoneyell or py
+[21:26:25	][Y] test char: Hi.
+[21:26:28	]test char used command '/phoneyell HI'.
+[21:26:28	]galunga used command '/phonesay it isnt ringing for me in a loop'.
+[21:26:34	]galunga used command '/phonesay it has stopped ringing'.
+[21:26:38	]test char used command '/phoneyell nOT RINGING FOR YOU?'.
+[21:26:43	]galunga used command '/phonesay it aint ringing'.
+[21:26:46	]test char used command '/phonesay hmmm just me'.
+[21:26:51	]galunga used command '/phonesay uhh'.
+[21:26:54	]galunga used command '/phonesay how do i call your number'.
+[21:26:58	]test char used command '/phonesay so it was ringing and u picked it up and it stopped yes?'.
+[21:27:07	][OOC] test char: close menu
+[21:27:09	][OOC] test char: open menu
+[21:27:17	][OOC] galunga: ok
+[21:27:22	][OOC] test char: dial 1555
+[21:27:22	][OOC] galunga: what is number
+[21:27:24	][OOC] galunga: ok
+[21:27:25	][OOC] test char: click dial
+[21:27:32	]test char used command '/phonesay HI'.
+[21:27:38	]test char used command '/phonesay still ringing for you?'.
+[21:27:41	]galunga used command '/phonesay oh NOW its constantly ringing'.
+[21:27:46	]test char used command '/phonesay yes its on the sender'.
+[21:27:50	]galunga used command '/phonesay ok so it only loops it for the person calling'.
+[21:27:50	]test char used command '/phonesay but yea ill fix dat'.
+[21:27:56	]test char used command '/phonesay it'll also fix the status'.
+[21:27:56	]galunga used command '/phonesay ok ok'.
+[21:28:00	]galunga used command '/phonesay how do u know a phone number'.
+[21:28:05	]galunga used command '/phonesay or how do u set a number'.
+[21:28:07	]test char used command '/phonesay it'll say STATUS :> (phone name)'.
+[21:28:11	]test char used command '/phonesay /editlandline'.
+[21:28:29	][OOC] galunga: this one says STATUS: unknown
+[21:28:38	][OOC] test char: ye i know
+[21:28:41	][OOC] test char: i gotta le fix it
+[21:28:45	][OOC] galunga: ok
+[21:28:47	][OOC] test char: like i said.... buggy
+[21:28:47	][OOC] galunga: COOOOOOL
+[21:28:49	][OOC] test char: working on it...
+[21:28:56	][OOC] galunga: ths is very cool
+[21:28:59	][OOC] test char: it is!!
+[21:29:03	][OOC] galunga: oh oh
+[21:29:06	][OOC] galunga: will it work with
+[21:29:13	][OOC] galunga: the
+[21:29:18	][OOC] test char: and the reason the call is stopping is because it rings until it stops 
+[21:29:28	][OOC] galunga: will it support the classic
+[21:29:30	][OOC] test char: the code thinks its ringing and also thinks its picked up at the same time :skull:
+[21:29:31	][OOC] galunga: hl2 phone booth
+[21:29:39	][OOC] test char: maybe l8ter
+[21:29:44	][OOC] test char: would like to get this out first
+[21:29:46	][OOC] galunga: that'd be very cool
+[21:29:49	][OOC] galunga: ok
+[21:29:51	][OOC] test char: then wi can make a payphone version
+[21:29:56	][OOC] galunga: that'd be badass
+[21:30:07	][OOC] galunga: are there any plans in ze council to repalce all civilian radios with phones?
+[21:30:14	][OOC] galunga: or are u keeping all radios
+[21:30:16	][OOC] test char: not that i know of
+[21:30:28	][OOC] test char: i would say itd be best to stick with radios *at first* and try the phones out
+[21:30:32	][OOC] galunga: might be worth considering as an experiment!! will probably bring ppl together
+[21:30:39	][OOC] galunga: forcing them to interact as they cant talk over the map
+[21:30:49	][OOC] galunga: yeah try the phones out first
+[21:30:56	][OOC] test char: ye ye just want to try it as it is. like maybe all the ministers get them
+[21:30:57	][OOC] galunga: really cool
+[21:31:03	][OOC] galunga: omg
+[21:31:05	][OOC] test char: then the factions will try it
+[21:31:08	][OOC] galunga: im gonna call the CWU so much
+[21:31:10	][OOC] test char: then t4+ get one in their appartment 
+[21:31:16	][OOC] test char: have one in the cwu warehouse
+[21:31:19	][OOC] test char: ring ring!
+[21:31:21	][OOC] galunga: yes please
+[21:31:28	][OOC] galunga: ill test it out a lot if they got it
+[21:31:29	][OOC] test char: "YES hello???? CWU??????????????? i need ARMBANDS"
+[21:31:33	][OOC] galunga: im gonna ring them 24/7
+[21:31:38	][OOC] galunga: hilarious
+[21:31:40	][OOC] test char: how to make people hate phones
+[21:31:46	][OOC] galunga: yes
+[21:31:55	][OOC] galunga: this is really nice :D
+[21:31:56	][OOC] test char: try out phone yell
+[21:31:57	][OOC] test char: here
+[21:32:10	]galunga used command '/phoneyell HELLOOOO'.
+[21:32:11	]test char used command '/phonesay hi??'.
+[21:32:16	]test char used command '/phoneyell i hate you'.
+[21:32:17	]galunga used command '/phoneyell HELLOOOOoooooooooooooooooooyooOROKRHR TR TESTTSETETEST'.
+[21:32:25	]galunga used command '/phoneyell oh it distorts the text too'.
+[21:32:30	]galunga used command '/phonesay LOL'.
+[21:32:34	]galunga used command '/phonesay it distorts the text thats funny'.
+[21:32:35	]test char used command '/phonesay cool huh?'.
+[21:32:38	]galunga used command '/phoneyell teeeeeeeeest'.
+[21:32:46	]galunga used command '/phonesay very nice'.
+[21:32:49	][OOC] test char: it also forces the text into all caps
+[21:32:58	]galunga used command '/phonesay thats really nice'.
+[21:33:03	][OOC] galunga: thats really nice
+[21:33:10	][OOC] galunga: oh can you play a sound when it hangs up
+[21:33:15	][OOC] galunga: when it disconnects you
+[21:33:26	][OOC] test char: it does the hangup noise
+[21:33:31	][OOC] galunga: does it?
+[21:33:36	][OOC] galunga: can u try again
+[21:33:36	][OOC] test char: yes listen you can hear the clack
+[21:33:44	][OOC] test char: when you close out
+[21:33:57	][OOC] galunga: oh yes when i click close
+[21:34:04	][OOC] galunga: does it do it too when it disconnects the call?
+[21:34:05	][OOC] test char: or do /hangupphone
+[21:34:07	][OOC] galunga: i didnt notice
+[21:34:08	]test char used command '/HangupPhone'.
+[21:34:24	][OOC] test char: when the call disconnects nothing happens i need to fix that yeye
+[21:34:30	][OOC] galunga: ah ok neato
+[21:34:38	][OOC] test char: need to make the sound effect
+[21:34:38	][OOC] galunga: gonna be so funny when ppl hang up the phone
+[21:34:46	][OOC] test char: the beep-beep-beep-beep
+[21:34:50	][OOC] galunga: memes
+[21:34:58	][OOC] test char: yes here watch
+[21:34:59	][OOC] galunga: nice!!!!!!!!!!!!!!!!!!!!!!!!!!
+[21:35:02	][OOC] test char: also one last thing
+[21:35:06	][OOC] test char: for some reason atm
+[21:35:18	][OOC] test char: the hangup part of the code isnt working right so i need to make it hang up both sides
+[21:35:23	][OOC] test char: when you hang up the other person can still talk to u
+[21:35:28	][OOC] test char: but u cant talk back
+[21:35:28	][OOC] galunga: oh lol
+[21:35:43	][OOC] galunga: this has some great potential though
+[21:35:43	][OOC] test char: its all very complicated.... :skull:
+[21:35:49	][OOC] galunga: this could
+[21:35:59	][OOC] galunga: in theory completely remove the need for radios in civilian RP
+[21:36:03	][OOC] galunga: it has huge potential impact
+[21:36:06	][OOC] test char: would like to add speaker phone option too but again, complex
+[21:36:28	][OOC] test char: cuz then id have to add a bunch more listeners and things. the code is sorta set up to support it but.. it needs to be refactored anyways. UGH
+[21:36:38	][OOC] galunga: oh yes is it 1-1 atm
+[21:36:43	][OOC] galunga: so nobody else can hear
+[21:36:55	][OOC] test char: technically there is no way to do confrence calls or speakerphone
+[21:36:58	][OOC] test char: currently
+[21:37:10	][OOC] galunga: hmm ok then that might prove difficult to replace the radio if its only 1-1
+[21:37:15	][OOC] test char: thatd need more complex ui interactions and a lot more code to do but it *can* be done ofc
+[21:37:35	][OOC] galunga: well it has huge potential nonetheless
+[21:37:42	][OOC] galunga: secretary could be more important as a result
+[21:37:47	][OOC] test char: tyty. connector almost ready too
+[21:37:57	][OOC] test char: all part of the summer update <3
+[21:38:01	][OOC] galunga: :D
+[21:38:03	][OOC] test char: the M!NT update
+[21:38:10	][OOC] galunga: its aaaaall coming together
+[21:38:12	][OOC] test char: the "M!NT is laid off so he has nothing else to do right now" update
+[21:38:20	][OOC] galunga: whop-whoop!
+[21:38:26	][OOC] test char: ok byebbeyeee
+[21:38:29	][OOC] galunga: z3
+[21:38:29	]M!NT (STEAM_0:1:120751263) has disconnected.
+[21:38:30	][OOC] galunga: <3
+[21:38:32	][OOC] galunga: well done!
+[21:38:46	]Atle (STEAM_0:0:21027108) has disconnected.

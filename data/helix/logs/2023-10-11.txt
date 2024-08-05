@@ -1,0 +1,84 @@
+[19:40:37	]Mango has connected.
+[19:41:46	]Mango loaded the character 'Churrlung'
+[19:41:51	]Churrlung is fully healed.
+[19:42:42	]Churrlung entered observer.
+[19:42:53	]Churrlung exited observer at their location.
+[19:42:57	][IC] Churrlung: A.
+[19:43:00	]Churrlung used command '/Datafile churrlung'.
+[19:43:06	]Churrlung used command '/Datafile churrlung'.
+[19:43:49	]Mango created the character 'banana'
+[19:43:49	]Mango loaded the character 'banana'
+[19:43:49	]banana has gained a 'Vortigaunt Hooks' #2055890.
+[19:43:49	]banana has gained a 'Vortigaunt Shackles' #2055891.
+[19:43:49	]banana has gained a 'Vortigaunt Collar' #2055892.
+[19:44:14	][IC] banana: A.
+[19:44:16	]banana used command '/Datafile banana'.
+[19:44:24	]banana used command '/Datafile !19086'.
+[19:44:33	]banana used command '/Datafile !18096'.
+[19:45:03	]banana used command '/CreateCid banana'.
+[19:45:03	]banana has gained a '#18881's Identity Card' #2055893.
+[19:45:06	]banana used command '/CreateCid banana'.
+[19:45:06	]banana has gained a '#18881's Identity Card' #2055894.
+[19:45:10	]banana ran 'drop' on item '#18881's Identity Card' (#2055893)
+[19:45:10	]banana has lost a '#18881's Identity Card' #2055893.
+[19:45:15	]banana used command '/Datafile banana'.
+[19:45:38	]banana used command '/Datafile banana'.
+[19:46:04	]banana ran 'drop' on item 'Vortigaunt Collar' (#2055892)
+[19:46:09	]banana used command '/UnlockShackles banana'.
+[19:46:14	]banana ran 'drop' on item 'Vortigaunt Collar' (#2055892)
+[19:46:14	]banana has lost a 'Vortigaunt Collar' #2055892.
+[19:46:20	]banana used command '/Datafile banana'.
+[19:46:31	]banana has given himself a vortigaunt_slave_collar_fake.
+[19:46:31	]banana has gained a 'Vortigaunt Collar (fake)' #2055895.
+[19:46:41	]banana used command '/Datafile banana'.
+[19:48:21	]banana used command '/Datafile !18633'.
+[19:48:36	]banana ran 'drop' on item 'Vortigaunt Collar (fake)' (#2055895)
+[19:48:36	]banana has lost a 'Vortigaunt Collar (fake)' #2055895.
+[19:48:41	]banana used command '/ViewInfo banana'.
+[19:49:02	]banana has given himself a vortigaunt_slave_collar_fake.
+[19:49:02	]banana has gained a 'Vortigaunt Collar (fake)' #2055896.
+[19:49:11	]banana used command '/Datafile !18385'.
+[19:54:19	]banana has gone afk.
+[20:12:00	]Mango has connected.
+[20:15:33	]Mango loaded the character 'banana'
+[20:15:45	]banana used command '/Datafile banana'.
+[20:15:51	]banana ran 'drop' on item 'Vortigaunt Collar (fake)' (#2055896)
+[20:15:51	]banana has lost a 'Vortigaunt Collar (fake)' #2055896.
+[20:15:59	]banana has given himself a vortigaunt_slave_collar_fake.
+[20:16:00	]banana has gained a 'Vortigaunt Collar (fake)' #2055897.
+[20:16:08	]banana used command '/Datafile !17900'.
+[20:17:23	]banana used command '/Datafile !17900'.
+[20:22:33	]banana has gone afk.
+[20:59:13	]banana is no longer afk. Total time spent AFK: 2495
+[21:10:25	]Mango has connected.
+[21:12:37	]Mango loaded the character 'banana'
+[21:12:55	]banana used command '/Datafile !17900'.
+[21:13:17	]banana ran 'drop' on item 'Vortigaunt Collar (fake)' (#2055897)
+[21:13:17	]banana has lost a 'Vortigaunt Collar (fake)' #2055897.
+[21:13:19	]banana has used a context menu option with the name: remove
+[21:13:21	]banana has used a context menu option with the name: remove
+[21:13:22	]banana has used a context menu option with the name: remove
+[21:13:23	]banana has used a context menu option with the name: remove
+[21:13:29	]banana has given himself a vortigaunt_slave_collar_fake.
+[21:13:29	]banana has gained a 'Vortigaunt Collar (fake)' #2055898.
+[21:13:39	]banana used command '/Datafile !18851'.
+[21:13:43	]banana used command '/Datafile !18851'.
+[21:14:07	]banana used command '/Datafile banana'.
+[21:14:14	]Mango (STEAM_0:0:544539350) deleted character 'banana'
+[21:14:16	]Mango (STEAM_0:0:544539350) deleted character 'Churrlung'
+[21:14:41	]Mango created the character 'sususu'
+[21:14:41	]Mango loaded the character 'sususu'
+[21:14:41	]sususu has gained a 'Vortigaunt Hooks' #2055899.
+[21:14:41	]sususu has gained a 'Vortigaunt Shackles' #2055900.
+[21:14:41	]sususu has gained a 'Vortigaunt Collar' #2055901.
+[21:14:59	]sususu used command '/Datafile !62470'.
+[21:15:28	]sususu used command '/UnlockShackles su'.
+[21:15:31	]sususu ran 'drop' on item 'Vortigaunt Collar' (#2055901)
+[21:15:31	]sususu has lost a 'Vortigaunt Collar' #2055901.
+[21:15:35	]sususu has spawned a vortigaunt_slave_collar_fake.
+[21:15:37	]sususu ran 'take' on item 'Vortigaunt Collar (fake)' (#2055902)
+[21:15:37	]sususu has gained a 'Vortigaunt Collar (fake)' #2055902.
+[21:15:49	]sususu used command '/Datafile !62521'.
+[21:15:56	]sususu used command '/Datafile !62561'.
+[21:21:11	]sususu has gone afk.
+[21:25:52	]Mango (STEAM_0:0:544539350) has disconnected.

@@ -1,0 +1,1382 @@
+[13:10:48	]Rabithunter has connected.
+[13:12:08	]Rabithunter loaded the character 'Administrator Markie-O'Vello'
+[13:12:23	]Administrator Markie-O'Vello used command '/CityFundEditor'.
+[13:17:38	]Administrator Markie-O'Vello has gone afk.
+[13:17:42	]Administrator Markie-O'Vello is no longer afk. Total time spent AFK: 300
+[13:17:42	]Administrator Markie-O'Vello used command '/CityFundEditor'.
+[13:25:38	]Administrator Markie-O'Vello has gone afk.
+[13:30:31	]Administrator Markie-O'Vello set randItemDeletionAmountRangeMax to '100'.
+[13:30:32	]Administrator Markie-O'Vello set randItemDeletionAmountRangeMin to '9'.
+[13:30:44	]Administrator Markie-O'Vello set randItemDeletions to '50'.
+[13:31:12	]Administrator Markie-O'Vello entered observer.
+[13:31:13	]Administrator Markie-O'Vello is no longer afk. Total time spent AFK: 630
+[13:37:13	]Administrator Markie-O'Vello has gone afk.
+[13:45:13	]Administrator Markie-O'Vello exited observer at their location.
+[13:45:13	]Administrator Markie-O'Vello is no longer afk. Total time spent AFK: 775
+[13:45:14	]Administrator Markie-O'Vello entered observer.
+[13:45:18	]Administrator Markie-O'Vello exited observer at their location.
+[13:46:16	]Administrator Markie-O'Vello used command '/CityFundEditor'.
+[13:48:28	]Administrator Markie-O'Vello set loanPercent to '45'.
+[13:48:32	]Administrator Markie-O'Vello set loanPercent to '50'.
+[13:48:49	]Administrator Markie-O'Vello set mainCityNumber to '59'.
+[13:49:08	]Administrator Markie-O'Vello set minusCityCap to '5060'.
+[13:49:41	]Administrator Markie-O'Vello set randItemDeletions to '80'.
+[13:49:55	]Administrator Markie-O'Vello used command '/CityFundEditor'.
+[13:50:32	]Administrator Markie-O'Vello used command '/CityFundEditor'.
+[13:52:40	]Administrator Markie-O'Vello entered observer.
+[13:52:42	]Administrator Markie-O'Vello exited observer at their location.
+[13:52:55	]Administrator Markie-O'Vello has spawned a drink_proc_whiskey.
+[13:53:23	]Administrator Markie-O'Vello has spawned a drink_proc_whiskey.
+[13:54:13	]Administrator Markie-O'Vello has spawned a fruit_banana.
+[13:54:48	]Administrator Markie-O'Vello has spawned a water_bucket.
+[13:55:09	]Administrator Markie-O'Vello has spawned a planter_placer.
+[13:55:13	]Administrator Markie-O'Vello ran 'take' on item 'Planter' (#2688803)
+[13:55:13	]Administrator Markie-O'Vello has gained a 'Planter' #2688803.
+[13:55:16	]Administrator Markie-O'Vello ran 'place' on item 'Planter' (#2688803)
+[13:55:58	]Administrator Markie-O'Vello has used a context menu option with the name: remove
+[13:56:19	]Administrator Markie-O'Vello has spawned a 'NPC [6374][npc_antlionguard]'.
+[13:57:14	]Administrator Markie-O'Vello has fired a toolgun with the name: creator
+[13:57:14	]Administrator Markie-O'Vello has spawned a 'Weapon [6376][arccw_suppressorlmg]'.
+[13:57:15	]Administrator Markie-O'Vello has fired a toolgun with the name: creator
+[13:57:15	]Administrator Markie-O'Vello has spawned a 'Weapon [6377][arccw_suppressorlmg]'.
+[13:57:15	]Administrator Markie-O'Vello has fired a toolgun with the name: creator
+[13:57:15	]Administrator Markie-O'Vello has spawned a 'Weapon [6378][arccw_suppressorlmg]'.
+[13:57:15	]Administrator Markie-O'Vello has fired a toolgun with the name: creator
+[13:57:15	]Administrator Markie-O'Vello has spawned a 'Weapon [6379][arccw_suppressorlmg]'.
+[13:57:25	]Administrator Markie-O'Vello used command '/ToggleRaise'.
+[13:57:34	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:34	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:34	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:35	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:35	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:36	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:36	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:57:36	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:36	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:36	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:36	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:57:36	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:57:37	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:37	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:37	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:37	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:57:37	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:57:37	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:38	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:38	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:57:39	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:39	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:39	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:40	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:40	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:57:40	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:46	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:48	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:49	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:49	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:57:50	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:52	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:52	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:57:59	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:59	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:57:59	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:00	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:00	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:58:00	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:58:00	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:00	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:58:00	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:00	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:58:00	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:01	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:58:01	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:58:01	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:01	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:01	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:01	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:02	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:02	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:58:02	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:58:02	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:58:04	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:58:05	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:05	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:10	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:10	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:11	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:58:11	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:11	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:11	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:13	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:17	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:17	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:23	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:23	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:58:23	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:58:24	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:24	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:24	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:24	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:24	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:24	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:58:24	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:25	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:58:26	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:58:26	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:26	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:27	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:27	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.30).
+[13:58:27	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:27	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:29	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.30).
+[13:58:48	]Administrator Markie-O'Vello has gained level 50 in the Guns skill.
+[13:58:48	]Administrator Markie-O'Vello used command '/CharSkillSet vello guns 50'.
+[13:58:50	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.72).
+[13:58:51	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.72).
+[13:58:52	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.72).
+[13:58:52	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.72).
+[13:58:52	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.72).
+[13:58:52	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.72).
+[13:58:52	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.72).
+[13:58:52	]Administrator Markie-O'Vello has hit npc_antlionguard dealing 4 damage (CritChance was 0.72).
+[13:58:52	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.72).
+[13:58:53	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.72).
+[13:58:53	]Administrator Markie-O'Vello has critically hit npc_antlionguard dealing 9 damage (CritChance was 0.72).
+[13:59:10	]Administrator Markie-O'Vello used command '/CharSkillSet vello guns 0'.
+[13:59:22	]Administrator Markie-O'Vello has gained level 50 in the Guns skill.
+[13:59:22	]Administrator Markie-O'Vello used command '/CharSkillSet vello guns 50'.
+[13:59:34	]Administrator Markie-O'Vello has spawned a 'NPC [6374][npc_zombie]'.
+[13:59:35	]Administrator Markie-O'Vello has critically hit npc_zombie in the right leg dealing 8 damage (CritChance was 0.43).
+[13:59:35	]Administrator Markie-O'Vello has hit npc_zombie in the head dealing 8 damage (CritChance was 0.14).
+[13:59:35	]Administrator Markie-O'Vello has critically hit npc_zombie in the left leg dealing 8 damage (CritChance was 0.43).
+[13:59:35	]Administrator Markie-O'Vello has hit npc_zombie in the head dealing 8 damage (CritChance was 0.14).
+[13:59:36	]Administrator Markie-O'Vello has critically hit npc_zombie in the head dealing 16 damage (CritChance was 0.14).
+[13:59:41	]Administrator Markie-O'Vello has spawned a 'NPC [6374][npc_zombie]'.
+[13:59:43	]Administrator Markie-O'Vello used command '/CharSkillSet vello guns 0'.
+[13:59:45	]Administrator Markie-O'Vello has hit npc_zombie in the right arm dealing 3 damage (CritChance was 0.18).
+[13:59:45	]Administrator Markie-O'Vello has hit npc_zombie in the right arm dealing 3 damage (CritChance was 0.18).
+[13:59:45	]Administrator Markie-O'Vello has hit npc_zombie in the right arm dealing 3 damage (CritChance was 0.18).
+[13:59:46	]Administrator Markie-O'Vello has hit npc_zombie in the head dealing 8 damage (CritChance was 0.06).
+[13:59:46	]Administrator Markie-O'Vello has hit npc_zombie in the head dealing 8 damage (CritChance was 0.06).
+[13:59:47	]Administrator Markie-O'Vello has critically hit npc_zombie in the chest dealing 12 damage (CritChance was 0.18).
+[13:59:48	]Administrator Markie-O'Vello has hit npc_zombie in the chest dealing 6 damage (CritChance was 0.18).
+[14:00:22	]Administrator Markie-O'Vello has fired a toolgun with the name: creator
+[14:00:22	]Administrator Markie-O'Vello has spawned a 'Weapon [6374][wn_arccw_vsv]'.
+[14:00:22	]Administrator Markie-O'Vello has fired a toolgun with the name: creator
+[14:00:22	]Administrator Markie-O'Vello has spawned a 'Weapon [6383][wn_arccw_vsv]'.
+[14:00:22	]Administrator Markie-O'Vello has fired a toolgun with the name: creator
+[14:00:22	]Administrator Markie-O'Vello has spawned a 'Weapon [6384][wn_arccw_vsv]'.
+[14:00:33	]Administrator Markie-O'Vello used command '/ToggleRaise'.
+[14:01:41	]Administrator Markie-O'Vello has fired a toolgun with the name: creator
+[14:01:41	]Administrator Markie-O'Vello has spawned a 'Weapon [6374][arccw_ud_m16]'.
+[14:01:41	]Administrator Markie-O'Vello has fired a toolgun with the name: creator
+[14:01:41	]Administrator Markie-O'Vello has spawned a 'Weapon [6385][arccw_ud_m16]'.
+[14:01:42	]Administrator Markie-O'Vello has fired a toolgun with the name: creator
+[14:01:42	]Administrator Markie-O'Vello has spawned a 'Weapon [6386][arccw_ud_m16]'.
+[14:01:42	]Administrator Markie-O'Vello has fired a toolgun with the name: creator
+[14:01:42	]Administrator Markie-O'Vello has spawned a 'Weapon [6387][arccw_ud_m16]'.
+[14:01:42	]Administrator Markie-O'Vello has fired a toolgun with the name: creator
+[14:01:42	]Administrator Markie-O'Vello has spawned a 'Weapon [6388][arccw_ud_m16]'.
+[14:01:42	]Administrator Markie-O'Vello has fired a toolgun with the name: creator
+[14:01:42	]Administrator Markie-O'Vello has spawned a 'Weapon [6389][arccw_ud_m16]'.
+[14:04:27	]Gutsy has connected.
+[14:05:03	]Rabithunter (STEAM_0:1:22394854) has disconnected.
+[14:05:28	]Gutsy loaded the character 'Callum Curose'
+[14:05:32	]Callum Curose is fully healed.
+[14:06:01	]Callum Curose used the 'John Doe' vendor.
+[14:06:05	]Callum Curose has gained 0 chips.
+[14:06:08	]Callum Curose has gained 0 chips.
+[14:06:08	]Callum Curose has gained a 'Overwatch Pulse Submachine-gun' #2688804.
+[14:06:15	]Callum Curose ran 'Equip' on item 'Overwatch Pulse Submachine-gun' (#2688804)
+[14:06:16	]Callum Curose used command '/ToggleRaise'.
+[14:06:19	]Callum Curose used command '/ToggleRaise'.
+[14:06:43	]Callum Curose ran 'EquipUn' on item 'Overwatch Pulse Submachine-gun' (#2688804)
+[14:06:54	]Callum Curose ran 'drop' on item 'Overwatch Pulse Submachine-gun' (#2688804)
+[14:06:54	]Callum Curose has lost a 'Overwatch Pulse Submachine-gun' #2688804.
+[14:06:58	]Callum Curose has used a context menu option with the name: remove
+[14:07:04	]Callum Curose ran 'take' on item 'Overwatch Pulse Submachine-gun' (#2688804)
+[14:07:04	]Callum Curose has gained a 'Overwatch Pulse Submachine-gun' #2688804.
+[14:07:06	]Callum Curose used the 'John Doe' vendor.
+[14:07:08	]Callum Curose has gained 0 chips.
+[14:08:01	]Callum Curose used the 'John Doe' vendor.
+[14:08:12	]Callum Curose has gained 0 chips.
+[14:08:16	]Callum Curose has gained 0 chips.
+[14:08:16	]Callum Curose has gained a 'Overwatch Standard-Issue Carbine' #2688805.
+[14:08:19	]Callum Curose ran 'Equip' on item 'Overwatch Standard-Issue Carbine' (#2688805)
+[14:08:20	]Callum Curose used command '/ToggleRaise'.
+[14:08:46	]Callum Curose ran 'EquipUn' on item 'Overwatch Standard-Issue Carbine' (#2688805)
+[14:08:47	]Callum Curose used the 'John Doe' vendor.
+[14:08:49	]Callum Curose has gained 0 chips.
+[14:08:53	]Callum Curose has gained 0 chips.
+[14:08:53	]Callum Curose has gained a 'Suppressor Light Machinegun' #2688806.
+[14:08:56	]Callum Curose ran 'Equip' on item 'Suppressor Light Machinegun' (#2688806)
+[14:08:56	]Callum Curose used command '/ToggleRaise'.
+[14:09:13	]Callum Curose ran 'EquipUn' on item 'Suppressor Light Machinegun' (#2688806)
+[14:09:15	]Callum Curose used the 'John Doe' vendor.
+[14:09:18	]Callum Curose has gained 0 chips.
+[14:09:25	]Callum Curose has gained 0 chips.
+[14:09:25	]Callum Curose has gained a 'Makeshift AK' #2688807.
+[14:09:29	]Callum Curose ran 'Equip' on item 'Makeshift AK' (#2688807)
+[14:09:30	]Callum Curose used command '/ToggleRaise'.
+[14:09:55	]Callum Curose ran 'EquipUn' on item 'Makeshift AK' (#2688807)
+[14:09:56	]Callum Curose used the 'John Doe' vendor.
+[14:09:58	]Callum Curose has gained 0 chips.
+[14:10:04	]Callum Curose has gained 0 chips.
+[14:10:04	]Callum Curose has gained a 'AKSU' #2688808.
+[14:10:07	]Callum Curose ran 'Equip' on item 'AKSU' (#2688808)
+[14:10:12	]Callum Curose used command '/ToggleRaise'.
+[14:10:37	]Callum Curose ran 'EquipUn' on item 'AKSU' (#2688808)
+[14:10:38	]Callum Curose used the 'John Doe' vendor.
+[14:10:41	]Callum Curose has gained 0 chips.
+[14:10:49	]Callum Curose has gained 0 chips.
+[14:10:49	]Callum Curose has gained a 'MP-155' #2688809.
+[14:10:51	]Callum Curose ran 'Equip' on item 'MP-155' (#2688809)
+[14:10:52	]Callum Curose used command '/ToggleRaise'.
+[14:11:28	]Callum Curose used the 'John Doe' vendor.
+[14:11:31	]Callum Curose ran 'EquipUn' on item 'MP-155' (#2688809)
+[14:11:32	]Callum Curose used the 'John Doe' vendor.
+[14:11:35	]Callum Curose has gained 0 chips.
+[14:11:38	]Callum Curose has gained 0 chips.
+[14:11:38	]Callum Curose has gained a 'Overwatch Heavy Shotgun' #2688810.
+[14:11:41	]Callum Curose ran 'Equip' on item 'Overwatch Heavy Shotgun' (#2688810)
+[14:11:42	]Callum Curose used command '/ToggleRaise'.
+[14:12:14	]Callum Curose used the 'John Doe' vendor.
+[14:12:18	]Callum Curose ran 'EquipUn' on item 'Overwatch Heavy Shotgun' (#2688810)
+[14:12:19	]Callum Curose used the 'John Doe' vendor.
+[14:12:21	]Callum Curose has gained 0 chips.
+[14:12:29	]Callum Curose has gained 0 chips.
+[14:12:29	]Callum Curose has gained a 'PPSH-41' #2688811.
+[14:12:31	]Callum Curose ran 'Equip' on item 'PPSH-41' (#2688811)
+[14:12:32	]Callum Curose used command '/ToggleRaise'.
+[14:13:00	]Callum Curose opened the 'File Cabinet' #120861 container.
+[14:13:04	]Callum Curose closed the 'File Cabinet' #120861 container.
+[14:13:28	]Callum Curose opened the 'Trainstation Stash' stash.
+[14:13:31	]Callum Curose closed the 'Trainstation Stash' stash.
+[14:13:38	]Callum Curose opened the 'File Cabinet' #120861 container.
+[14:13:38	]Callum Curose closed the 'File Cabinet' #120861 container.
+[14:13:44	]Callum Curose opened the 'Trash Bin' #102734 container.
+[14:13:45	]Callum Curose closed the 'Trash Bin' #102734 container.
+[14:13:56	]Callum Curose ran 'EquipUn' on item 'PPSH-41' (#2688811)
+[14:13:59	]Callum Curose used the 'John Doe' vendor.
+[14:14:08	]Callum Curose has gained 0 chips.
+[14:14:08	]Callum Curose has gained a 'Bastard Submachine Gun' #2688812.
+[14:14:10	]Callum Curose has gained 0 chips.
+[14:14:11	]Callum Curose has gained 0 chips.
+[14:14:11	]Callum Curose has gained a 'MP5-SD' #2688813.
+[14:14:24	]Callum Curose ran 'Equip' on item 'Bastard Submachine Gun' (#2688812)
+[14:14:25	]Callum Curose used command '/ToggleRaise'.
+[14:14:39	]Callum Curose ran 'EquipUn' on item 'Bastard Submachine Gun' (#2688812)
+[14:14:40	]Callum Curose ran 'Equip' on item 'MP5-SD' (#2688813)
+[14:14:41	]Callum Curose used command '/ToggleRaise'.
+[14:14:43	]Callum Curose used command '/ToggleRaise'.
+[14:15:49	]Callum Curose ran 'Write' on item 'CHECKPOINT INSTRUCTIONS' (#2656222)
+[14:15:53	]Callum Curose ran 'Write' on item 'CHECKPOINT INSTRUCTIONS' (#2656222)
+[14:16:09	]Callum Curose opened the 'Large Metal Cabinet' #120763 container.
+[14:16:10	]Callum Curose closed the 'Large Metal Cabinet' #120763 container.
+[14:17:00	]Callum Curose has hit npc_combine_camera dealing 6 damage (CritChance was 0.65).
+[14:17:00	]Callum Curose has critically hit npc_combine_camera dealing 12 damage (CritChance was 0.65).
+[14:17:00	]Callum Curose has critically hit npc_combine_camera dealing 12 damage (CritChance was 0.65).
+[14:17:01	]Callum Curose has critically hit npc_combine_camera dealing 12 damage (CritChance was 0.65).
+[14:17:01	]Callum Curose has hit npc_combine_camera dealing 6 damage (CritChance was 0.65).
+[14:17:01	]Callum Curose has hit npc_combine_camera dealing 6 damage (CritChance was 0.65).
+[14:17:01	]Callum Curose has critically hit npc_combine_camera dealing 12 damage (CritChance was 0.65).
+[14:17:01	]Callum Curose has critically hit npc_combine_camera dealing 12 damage (CritChance was 0.65).
+[14:17:01	]Callum Curose has hit npc_combine_camera dealing 6 damage (CritChance was 0.65).
+[14:17:01	]Callum Curose has critically hit npc_combine_camera dealing 12 damage (CritChance was 0.65).
+[14:17:01	]Callum Curose has critically hit npc_combine_camera dealing 12 damage (CritChance was 0.65).
+[14:17:18	]Callum Curose has performed the 'Harvest Plant' action, gaining 250 experience in cooking.
+[14:17:18	]Callum Curose has gained a 'Orange' #2688814.
+[14:17:18	]Callum Curose has gained a 'Orange' #2688815.
+[14:17:18	]Callum Curose has gained a 'Orange' #2688816.
+[14:17:18	]Callum Curose has gained a 'Orange' #2688817.
+[14:17:18	]Callum Curose has gained a 'Orange' #2688818.
+[14:17:28	]Callum Curose ran 'Consume' on item 'Orange' (#2688814)
+[14:17:29	]Callum Curose ran 'Consume' on item 'Orange' (#2688817)
+[14:17:30	]Callum Curose ran 'Consume' on item 'Orange' (#2688818)
+[14:17:30	]Callum Curose ran 'Consume' on item 'Orange' (#2688816)
+[14:17:31	]Callum Curose has performed the 'Harvest Plant' action, gaining 250 experience in cooking.
+[14:17:31	]Callum Curose has gained a 'Orange' #2688819.
+[14:17:31	]Callum Curose has gained a 'Orange' #2688820.
+[14:17:31	]Callum Curose has gained a 'Orange' #2688821.
+[14:17:31	]Callum Curose has gained a 'Orange' #2688822.
+[14:17:31	]Callum Curose ran 'Consume' on item 'Orange' (#2688815)
+[14:17:40	]Callum Curose has performed the 'Harvest Plant' action, gaining 250 experience in cooking.
+[14:17:49	]Callum Curose has performed the 'Harvest Plant' action, gaining 250 experience in cooking.
+[14:17:55	]Callum Curose ran 'Consume' on item 'Orange' (#2688820)
+[14:17:55	]Callum Curose ran 'Consume' on item 'Orange' (#2688822)
+[14:17:56	]Callum Curose has performed the 'Harvest Plant' action, gaining 250 experience in cooking.
+[14:17:56	]Callum Curose ran 'Consume' on item 'Orange' (#2688821)
+[14:17:57	]Callum Curose ran 'Consume' on item 'Orange' (#2688819)
+[14:18:50	]Callum Curose has taken 1 damage from worldspawn.
+[14:18:52	]Callum Curose is fully healed.
+[14:19:21	]Callum Curose opened the 'Crate' #120167 container.
+[14:19:27	]Callum Curose closed the 'Crate' #120167 container.
+[14:19:27	]Callum Curose opened the 'Dumpster' #120396 container.
+[14:19:27	]Callum Curose closed the 'Dumpster' #120396 container.
+[14:19:29	]Callum Curose opened the 'Large Crate' #120102 container.
+[14:19:33	]Callum Curose closed the 'Large Crate' #120102 container.
+[14:19:43	]Callum Curose has taken 1 damage from env_fire.
+[14:19:43	]Callum Curose has taken 1 damage from env_fire.
+[14:19:44	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:44	]Callum Curose has taken 1 damage from env_fire.
+[14:19:44	]Callum Curose has taken 1 damage from env_fire.
+[14:19:45	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:45	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:46	]Callum Curose has taken 1 damage from env_fire.
+[14:19:46	]Callum Curose has taken 1 damage from env_fire.
+[14:19:46	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:46	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:46	]Callum Curose has taken 1 damage from env_fire.
+[14:19:47	]Callum Curose has taken 1 damage from env_fire.
+[14:19:47	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:47	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:47	]Callum Curose is fully healed.
+[14:19:47	]Callum Curose has taken 1 damage from env_fire.
+[14:19:48	]Callum Curose has taken 1 damage from env_fire.
+[14:19:48	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:49	]Callum Curose has taken 1 damage from env_fire.
+[14:19:49	]Callum Curose has taken 1 damage from env_fire.
+[14:19:49	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:49	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:49	]Callum Curose has taken 1 damage from env_fire.
+[14:19:50	]Callum Curose has taken 1 damage from env_fire.
+[14:19:50	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:50	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:50	]Callum Curose has taken 1 damage from env_fire.
+[14:19:51	]Callum Curose has taken 1 damage from env_fire.
+[14:19:51	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:51	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:51	]Callum Curose has taken 1 damage from env_fire.
+[14:19:51	]Callum Curose has taken 1 damage from env_fire.
+[14:19:52	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:52	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:52	]Callum Curose is fully healed.
+[14:19:52	]Callum Curose has taken 1 damage from env_fire.
+[14:19:52	]Callum Curose has taken 1 damage from env_fire.
+[14:19:53	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:53	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:53	]Callum Curose has taken 1 damage from env_fire.
+[14:19:54	]Callum Curose has taken 1 damage from env_fire.
+[14:19:54	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:54	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:54	]Callum Curose has taken 1 damage from env_fire.
+[14:19:54	]Callum Curose has taken 1 damage from env_fire.
+[14:19:55	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:55	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:55	]Callum Curose has taken 1 damage from env_fire.
+[14:19:55	]Callum Curose has taken 1 damage from env_fire.
+[14:19:56	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:56	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:56	]Callum Curose has taken 1 damage from env_fire.
+[14:19:56	]Callum Curose has taken 1 damage from env_fire.
+[14:19:57	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:57	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:57	]Callum Curose is fully healed.
+[14:19:57	]Callum Curose has taken 1 damage from env_fire.
+[14:19:58	]Callum Curose has taken 1 damage from env_fire.
+[14:19:58	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:58	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:58	]Callum Curose has taken 1 damage from env_fire.
+[14:19:58	]Callum Curose has taken 1 damage from env_fire.
+[14:19:59	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:59	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:19:59	]Callum Curose has taken 1 damage from env_fire.
+[14:20:00	]Callum Curose has taken 1 damage from env_fire.
+[14:20:00	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:00	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:00	]Callum Curose has taken 1 damage from env_fire.
+[14:20:01	]Callum Curose has taken 1 damage from env_fire.
+[14:20:01	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:01	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:01	]Callum Curose has taken 1 damage from env_fire.
+[14:20:02	]Callum Curose has taken 1 damage from env_fire.
+[14:20:02	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:02	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:02	]Callum Curose is fully healed.
+[14:20:02	]Callum Curose has taken 1 damage from env_fire.
+[14:20:03	]Callum Curose has taken 1 damage from env_fire.
+[14:20:03	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:03	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:03	]Callum Curose has taken 1 damage from env_fire.
+[14:20:03	]Callum Curose has taken 1 damage from env_fire.
+[14:20:04	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:04	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:04	]Callum Curose has taken 1 damage from env_fire.
+[14:20:04	]Callum Curose has taken 1 damage from env_fire.
+[14:20:05	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:05	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:05	]Callum Curose has taken 1 damage from env_fire.
+[14:20:05	]Callum Curose has taken 1 damage from env_fire.
+[14:20:06	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:06	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:06	]Callum Curose has taken 1 damage from env_fire.
+[14:20:06	]Callum Curose has taken 1 damage from env_fire.
+[14:20:07	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:07	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:07	]Callum Curose is fully healed.
+[14:20:07	]Callum Curose has taken 1 damage from env_fire.
+[14:20:07	]Callum Curose has taken 1 damage from env_fire.
+[14:20:08	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:08	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:08	]Callum Curose has taken 1 damage from env_fire.
+[14:20:08	]Callum Curose has taken 1 damage from env_fire.
+[14:20:09	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:09	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:09	]Callum Curose has taken 1 damage from env_fire.
+[14:20:10	]Callum Curose has taken 1 damage from env_fire.
+[14:20:10	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:10	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:10	]Callum Curose has taken 1 damage from env_fire.
+[14:20:10	]Callum Curose has taken 1 damage from env_fire.
+[14:20:11	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:11	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:11	]Callum Curose has taken 1 damage from env_fire.
+[14:20:12	]Callum Curose has taken 1 damage from env_fire.
+[14:20:12	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:12	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:12	]Callum Curose is fully healed.
+[14:20:12	]Callum Curose has taken 1 damage from env_fire.
+[14:20:13	]Callum Curose has taken 1 damage from env_fire.
+[14:20:13	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:13	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:13	]Callum Curose has taken 1 damage from env_fire.
+[14:20:14	]Callum Curose has taken 1 damage from env_fire.
+[14:20:14	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:14	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:14	]Callum Curose has taken 1 damage from env_fire.
+[14:20:15	]Callum Curose has taken 1 damage from env_fire.
+[14:20:15	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:15	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:15	]Callum Curose has taken 1 damage from env_fire.
+[14:20:15	]Callum Curose has taken 1 damage from env_fire.
+[14:20:16	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:16	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:16	]Callum Curose has taken 1 damage from env_fire.
+[14:20:16	]Callum Curose has taken 1 damage from env_fire.
+[14:20:17	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:17	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:17	]Callum Curose is fully healed.
+[14:20:17	]Callum Curose has taken 1 damage from env_fire.
+[14:20:17	]Callum Curose has taken 1 damage from env_fire.
+[14:20:18	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:18	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:18	]Callum Curose has taken 1 damage from env_fire.
+[14:20:18	]Callum Curose has taken 1 damage from env_fire.
+[14:20:19	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:19	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:19	]Callum Curose has taken 1 damage from env_fire.
+[14:20:19	]Callum Curose has taken 1 damage from env_fire.
+[14:20:20	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:20	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:20	]Callum Curose has taken 1 damage from env_fire.
+[14:20:20	]Callum Curose has taken 1 damage from env_fire.
+[14:20:21	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:21	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:21	]Callum Curose has taken 1 damage from env_fire.
+[14:20:21	]Callum Curose has taken 1 damage from env_fire.
+[14:20:22	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:22	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:22	]Callum Curose is fully healed.
+[14:20:22	]Callum Curose has taken 1 damage from env_fire.
+[14:20:22	]Callum Curose has taken 1 damage from env_fire.
+[14:20:23	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:23	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:23	]Callum Curose has taken 1 damage from env_fire.
+[14:20:24	]Callum Curose has taken 1 damage from env_fire.
+[14:20:24	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:24	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:24	]Callum Curose has taken 1 damage from env_fire.
+[14:20:24	]Callum Curose has taken 1 damage from env_fire.
+[14:20:25	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:25	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:25	]Callum Curose has taken 1 damage from env_fire.
+[14:20:25	]Callum Curose has taken 1 damage from env_fire.
+[14:20:26	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:26	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:26	]Callum Curose has taken 1 damage from env_fire.
+[14:20:26	]Callum Curose has taken 1 damage from env_fire.
+[14:20:27	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:27	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:27	]Callum Curose is fully healed.
+[14:20:27	]Callum Curose has taken 1 damage from env_fire.
+[14:20:27	]Callum Curose has taken 1 damage from env_fire.
+[14:20:28	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:28	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:28	]Callum Curose has taken 1 damage from env_fire.
+[14:20:29	]Callum Curose has taken 1 damage from env_fire.
+[14:20:29	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:29	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:29	]Callum Curose has taken 1 damage from env_fire.
+[14:20:29	]Callum Curose has taken 1 damage from env_fire.
+[14:20:30	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:30	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:30	]Callum Curose has taken 1 damage from env_fire.
+[14:20:30	]Callum Curose has taken 1 damage from env_fire.
+[14:20:31	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:31	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:31	]Callum Curose has taken 1 damage from env_fire.
+[14:20:31	]Callum Curose has taken 1 damage from env_fire.
+[14:20:32	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:32	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:32	]Callum Curose is fully healed.
+[14:20:32	]Callum Curose has taken 1 damage from env_fire.
+[14:20:32	]Callum Curose has taken 1 damage from env_fire.
+[14:20:33	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:33	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:33	]Callum Curose has taken 1 damage from env_fire.
+[14:20:33	]Callum Curose has taken 1 damage from env_fire.
+[14:20:34	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:34	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:34	]Callum Curose has taken 1 damage from env_fire.
+[14:20:34	]Callum Curose has taken 1 damage from env_fire.
+[14:20:35	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:35	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:35	]Callum Curose has taken 1 damage from env_fire.
+[14:20:35	]Callum Curose has taken 1 damage from env_fire.
+[14:20:36	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:36	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:36	]Callum Curose has taken 1 damage from env_fire.
+[14:20:36	]Callum Curose has taken 1 damage from env_fire.
+[14:20:37	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:37	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:37	]Callum Curose is fully healed.
+[14:20:37	]Callum Curose has taken 1 damage from env_fire.
+[14:20:38	]Callum Curose has taken 1 damage from env_fire.
+[14:20:38	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:38	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:38	]Callum Curose has taken 1 damage from env_fire.
+[14:20:38	]Callum Curose has taken 1 damage from env_fire.
+[14:20:39	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:39	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:39	]Callum Curose has taken 1 damage from env_fire.
+[14:20:40	]Callum Curose has taken 1 damage from env_fire.
+[14:20:40	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:40	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:40	]Callum Curose has taken 1 damage from env_fire.
+[14:20:40	]Callum Curose has taken 1 damage from env_fire.
+[14:20:41	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:41	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:42	]Callum Curose has taken 1 damage from env_fire.
+[14:20:42	]Callum Curose has taken 1 damage from env_fire.
+[14:20:42	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:42	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:42	]Callum Curose is fully healed.
+[14:20:42	]Callum Curose has taken 1 damage from env_fire.
+[14:20:43	]Callum Curose has taken 1 damage from env_fire.
+[14:20:43	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:43	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:43	]Callum Curose has taken 1 damage from env_fire.
+[14:20:43	]Callum Curose has taken 1 damage from env_fire.
+[14:20:44	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:44	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:44	]Callum Curose has taken 1 damage from env_fire.
+[14:20:44	]Callum Curose has taken 1 damage from env_fire.
+[14:20:45	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:45	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:45	]Callum Curose has taken 1 damage from env_fire.
+[14:20:46	]Callum Curose has taken 1 damage from env_fire.
+[14:20:46	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:46	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:46	]Callum Curose has taken 1 damage from env_fire.
+[14:20:46	]Callum Curose has taken 1 damage from env_fire.
+[14:20:47	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:47	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:47	]Callum Curose is fully healed.
+[14:20:47	]Callum Curose has taken 1 damage from env_fire.
+[14:20:47	]Callum Curose has taken 1 damage from env_fire.
+[14:20:48	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:48	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:48	]Callum Curose has taken 1 damage from env_fire.
+[14:20:48	]Callum Curose has taken 1 damage from env_fire.
+[14:20:49	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:49	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:49	]Callum Curose has taken 1 damage from env_fire.
+[14:20:50	]Callum Curose has taken 1 damage from env_fire.
+[14:20:50	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:50	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:50	]Callum Curose has taken 1 damage from env_fire.
+[14:20:50	]Callum Curose has taken 1 damage from env_fire.
+[14:20:51	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:51	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:52	]Callum Curose has taken 1 damage from env_fire.
+[14:20:52	]Callum Curose has taken 1 damage from env_fire.
+[14:20:52	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:52	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:52	]Callum Curose is fully healed.
+[14:20:52	]Callum Curose has taken 1 damage from env_fire.
+[14:20:53	]Callum Curose has taken 1 damage from env_fire.
+[14:20:53	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:53	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:54	]Callum Curose has taken 1 damage from env_fire.
+[14:20:54	]Callum Curose has taken 1 damage from env_fire.
+[14:20:54	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:54	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:54	]Callum Curose has taken 1 damage from env_fire.
+[14:20:55	]Callum Curose has taken 1 damage from env_fire.
+[14:20:55	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:55	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:55	]Callum Curose has taken 1 damage from env_fire.
+[14:20:55	]Callum Curose has taken 1 damage from env_fire.
+[14:20:56	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:56	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:56	]Callum Curose has taken 1 damage from env_fire.
+[14:20:56	]Callum Curose has taken 1 damage from env_fire.
+[14:20:57	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:57	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:57	]Callum Curose is fully healed.
+[14:20:57	]Callum Curose has taken 1 damage from env_fire.
+[14:20:57	]Callum Curose has taken 1 damage from env_fire.
+[14:20:58	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:58	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:58	]Callum Curose has taken 1 damage from env_fire.
+[14:20:58	]Callum Curose has taken 1 damage from env_fire.
+[14:20:59	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:59	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:20:59	]Callum Curose has taken 1 damage from env_fire.
+[14:20:59	]Callum Curose has taken 1 damage from env_fire.
+[14:21:00	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:00	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:00	]Callum Curose has taken 1 damage from env_fire.
+[14:21:00	]Callum Curose has taken 1 damage from env_fire.
+[14:21:01	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:01	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:01	]Callum Curose has taken 1 damage from env_fire.
+[14:21:01	]Callum Curose has taken 1 damage from env_fire.
+[14:21:02	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:02	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:02	]Callum Curose is fully healed.
+[14:21:02	]Callum Curose has taken 1 damage from env_fire.
+[14:21:03	]Callum Curose has taken 1 damage from env_fire.
+[14:21:03	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:03	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:03	]Callum Curose has taken 1 damage from env_fire.
+[14:21:04	]Callum Curose has taken 1 damage from env_fire.
+[14:21:04	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:04	]Callum Curose has taken 1 damage from env_fire.
+[14:21:04	]Callum Curose has taken 1 damage from env_fire.
+[14:21:05	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:05	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:05	]Callum Curose has taken 1 damage from env_fire.
+[14:21:05	]Callum Curose has taken 1 damage from env_fire.
+[14:21:06	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:06	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:07	]Callum Curose has taken 1 damage from env_fire.
+[14:21:07	]Callum Curose has taken 1 damage from env_fire.
+[14:21:07	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:07	]Callum Curose is fully healed.
+[14:21:07	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:08	]Callum Curose has taken 1 damage from env_fire.
+[14:21:08	]Callum Curose has taken 1 damage from env_fire.
+[14:21:08	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:08	]Callum Curose has taken 1 damage from env_fire.
+[14:21:08	]Callum Curose has taken 1 damage from env_fire.
+[14:21:09	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:09	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:09	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:10	]Callum Curose has taken 1 damage from env_fire.
+[14:21:10	]Callum Curose has taken 1 damage from env_fire.
+[14:21:10	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:10	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:10	]Callum Curose has taken 1 damage from env_fire.
+[14:21:10	]Callum Curose has taken 1 damage from env_fire.
+[14:21:11	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:11	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:11	]Callum Curose has taken 1 damage from env_fire.
+[14:21:12	]Callum Curose has taken 1 damage from env_fire.
+[14:21:12	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:12	]Callum Curose is fully healed.
+[14:21:12	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:12	]Callum Curose has taken 1 damage from env_fire.
+[14:21:13	]Callum Curose has taken 1 damage from env_fire.
+[14:21:13	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:13	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:14	]Callum Curose has taken 1 damage from env_fire.
+[14:21:14	]Callum Curose has taken 1 damage from env_fire.
+[14:21:14	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:14	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:15	]Callum Curose has taken 1 damage from env_fire.
+[14:21:15	]Callum Curose has taken 1 damage from env_fire.
+[14:21:15	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:15	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:16	]Callum Curose has taken 1 damage from env_fire.
+[14:21:16	]Callum Curose has taken 1 damage from env_fire.
+[14:21:16	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:16	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:17	]Callum Curose has taken 1 damage from env_fire.
+[14:21:17	]Callum Curose has taken 1 damage from env_fire.
+[14:21:17	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:17	]Callum Curose is fully healed.
+[14:21:17	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:18	]Callum Curose has taken 1 damage from env_fire.
+[14:21:18	]Callum Curose has taken 1 damage from env_fire.
+[14:21:18	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:18	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:19	]Callum Curose has taken 1 damage from env_fire.
+[14:21:19	]Callum Curose has taken 1 damage from env_fire.
+[14:21:19	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:19	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:20	]Callum Curose has taken 1 damage from env_fire.
+[14:21:20	]Callum Curose has taken 1 damage from env_fire.
+[14:21:20	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:20	]Callum Curose has taken 1 damage from env_fire.
+[14:21:21	]Callum Curose has taken 1 damage from env_fire.
+[14:21:21	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:21	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:21	]Callum Curose has taken 1 damage from env_fire.
+[14:21:21	]Callum Curose has taken 1 damage from env_fire.
+[14:21:22	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:22	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:22	]Callum Curose is fully healed.
+[14:21:22	]Callum Curose has taken 1 damage from env_fire.
+[14:21:22	]Callum Curose has taken 1 damage from env_fire.
+[14:21:23	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:23	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:23	]Callum Curose has taken 1 damage from env_fire.
+[14:21:24	]Callum Curose has taken 1 damage from env_fire.
+[14:21:24	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:24	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:24	]Callum Curose has taken 1 damage from env_fire.
+[14:21:24	]Callum Curose has taken 1 damage from env_fire.
+[14:21:25	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:25	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:25	]Callum Curose has taken 1 damage from env_fire.
+[14:21:25	]Callum Curose has taken 1 damage from env_fire.
+[14:21:26	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:26	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:26	]Callum Curose has taken 1 damage from env_fire.
+[14:21:26	]Callum Curose has taken 1 damage from env_fire.
+[14:21:27	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:27	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:27	]Callum Curose is fully healed.
+[14:21:27	]Callum Curose has taken 1 damage from env_fire.
+[14:21:28	]Callum Curose has taken 1 damage from env_fire.
+[14:21:28	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:28	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:28	]Callum Curose has taken 1 damage from env_fire.
+[14:21:28	]Callum Curose has taken 1 damage from env_fire.
+[14:21:29	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:29	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:29	]Callum Curose has taken 1 damage from env_fire.
+[14:21:30	]Callum Curose has taken 1 damage from env_fire.
+[14:21:30	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:30	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:30	]Callum Curose has taken 1 damage from env_fire.
+[14:21:30	]Callum Curose has taken 1 damage from env_fire.
+[14:21:31	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:31	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:31	]Callum Curose has taken 1 damage from env_fire.
+[14:21:32	]Callum Curose has taken 1 damage from env_fire.
+[14:21:32	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:32	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:32	]Callum Curose is fully healed.
+[14:21:32	]Callum Curose has taken 1 damage from env_fire.
+[14:21:33	]Callum Curose has taken 1 damage from env_fire.
+[14:21:33	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:33	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:34	]Callum Curose has taken 1 damage from env_fire.
+[14:21:34	]Callum Curose has taken 1 damage from env_fire.
+[14:21:34	]Callum Curose has taken 49999 damage from through the fire and flames feat cardi b.
+[14:21:34	]Gutsy (STEAM_0:1:18485849) has disconnected.
+[22:07:04	]M!NT has connected.
+[22:07:43	]M!NT loaded the character 'Adalia Torres'
+[22:07:48	]Adalia Torres is fully healed.
+[22:07:58	]Adalia Torres entered observer.
+[22:07:59	]Adalia Torres exited observer at their location.
+[22:08:00	]Adalia Torres entered observer.
+[22:08:02	]Adalia Torres exited observer at their location.
+[22:11:50	]M!NT (STEAM_0:1:120751263) has disconnected.
+[23:27:14	]NanCi-  なんしい has connected.
+[23:27:42	]Muho has connected.
+[23:28:18	]Muho loaded the character 'John Rebel'
+[23:28:31	]John Rebel ran 'Equip' on item 'AWP' (#2688762)
+[23:28:36	]NanCi-  なんしい loaded the character 'Hank J. Wimleton'
+[23:28:51	]John Rebel used the 'John Doe' vendor.
+[23:28:56	]John Rebel has gained 0 chips.
+[23:28:59	]Hank J. Wimleton ran 'Equip' on item 'Overwatch Standard-Issue Pulse Rifle' (#2688747)
+[23:29:02	]John Rebel ran 'EquipUn' on item 'AWP' (#2688762)
+[23:29:02	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:29:03	]John Rebel ran 'drop' on item 'AWP' (#2688762)
+[23:29:03	]John Rebel has lost a 'AWP' #2688762.
+[23:29:04	]John Rebel ran 'Equip' on item 'AKM' (#2688640)
+[23:29:04	]John Rebel ran 'EquipUn' on item 'AKM' (#2688640)
+[23:29:07	]John Rebel ran 'Equip' on item 'AKM' (#2688640)
+[23:29:16	]Hank J. Wimleton ran 'EquipUn' on item 'Overwatch Standard-Issue Pulse Rifle' (#2688747)
+[23:29:16	]Hank J. Wimleton ran 'drop' on item 'Overwatch Standard-Issue Pulse Rifle' (#2688747)
+[23:29:16	]Hank J. Wimleton has lost a 'Overwatch Standard-Issue Pulse Rifle' #2688747.
+[23:29:19	]Hank J. Wimleton destroyed a 'Overwatch Standard-Issue Pulse Rifle' #2688747.
+[23:29:21	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688482)
+[23:29:21	]Hank J. Wimleton has performed the 'Use Bandage Roll' action, gaining 15 experience in medicine.
+[23:29:21	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 16 HP.
+[23:29:24	]Muho has unloaded their "John Rebel" character.
+[23:29:25	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688482)
+[23:29:25	]Hank J. Wimleton has performed the 'Use Bandage Roll' action, gaining 15 experience in medicine.
+[23:29:25	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 16 HP.
+[23:29:28	]Muho loaded the character 'Orhan Karaca'
+[23:29:29	]Hank J. Wimleton destroyed a 'AWP' #2688823.
+[23:29:30	]Hank J. Wimleton destroyed a 'AWP' #2688762.
+[23:29:32	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688482)
+[23:29:32	]Hank J. Wimleton has performed the 'Use Bandage Roll' action, gaining 15 experience in medicine.
+[23:29:32	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 16 HP.
+[23:29:33	]Orhan Karaca is fully healed.
+[23:29:40	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688482)
+[23:29:40	]Hank J. Wimleton has performed the 'Use Bandage Roll' action, gaining 15 experience in medicine.
+[23:29:40	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 16 HP.
+[23:29:41	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688482)
+[23:29:41	]Hank J. Wimleton has performed the 'Use Bandage Roll' action, gaining 15 experience in medicine.
+[23:29:41	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 16 HP.
+[23:29:44	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:29:52	]Hank J. Wimleton has gained 0 chips.
+[23:29:52	]Hank J. Wimleton has gained a 'Bandage Roll' #2688824.
+[23:29:52	]Hank J. Wimleton has gained 0 chips.
+[23:29:52	]Hank J. Wimleton has gained a 'Bandage Roll' #2688825.
+[23:29:53	]Hank J. Wimleton has gained 0 chips.
+[23:29:53	]Hank J. Wimleton has gained a 'Bandage Roll' #2688826.
+[23:29:53	]Hank J. Wimleton has gained 0 chips.
+[23:29:53	]Hank J. Wimleton has gained a 'Bandage Roll' #2688827.
+[23:29:54	]Hank J. Wimleton has gained 0 chips.
+[23:29:54	]Hank J. Wimleton has gained a 'Bandage Roll' #2688828.
+[23:29:54	]Hank J. Wimleton has gained 0 chips.
+[23:29:54	]Hank J. Wimleton has gained a 'Bandage Roll' #2688829.
+[23:30:04	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:30:05	]Orhan Karaca ran 'EquipUn' on item 'Red collaborator armband' (#2112989)
+[23:30:09	]Hank J. Wimleton has gained 0 chips.
+[23:30:09	]Hank J. Wimleton has gained a 'MP5-SD' #2688830.
+[23:30:12	]Hank J. Wimleton ran 'Equip' on item 'MP5-SD' (#2688830)
+[23:30:13	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:30:38	]Hank J. Wimleton ran 'EquipUn' on item 'MP5-SD' (#2688830)
+[23:30:41	]Hank J. Wimleton ran 'drop' on item 'MP5-SD' (#2688830)
+[23:30:41	]Hank J. Wimleton has lost a 'MP5-SD' #2688830.
+[23:30:43	]Hank J. Wimleton destroyed a 'MP5-SD' #2688830.
+[23:30:45	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:30:49	]Hank J. Wimleton has gained 0 chips.
+[23:30:49	]Hank J. Wimleton has gained a 'G3A3' #2688831.
+[23:30:51	]Hank J. Wimleton ran 'Equip' on item 'G3A3' (#2688831)
+[23:30:53	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:31:35	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688825)
+[23:31:35	]Hank J. Wimleton has performed the 'Use Bandage Roll' action, gaining 12 experience in medicine.
+[23:31:35	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 16 HP.
+[23:31:36	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688825)
+[23:31:36	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 16 HP.
+[23:31:36	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688825)
+[23:31:36	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 16 HP.
+[23:31:37	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688825)
+[23:31:37	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 16 HP.
+[23:31:38	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688825)
+[23:31:38	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 16 HP.
+[23:31:38	]Hank J. Wimleton ran 'drop' on item 'Bandage Roll' (#2688825)
+[23:31:38	]Hank J. Wimleton has lost a 'Bandage Roll' #2688825.
+[23:31:39	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688824)
+[23:31:39	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 16 HP.
+[23:31:40	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688824)
+[23:31:40	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 16 HP.
+[23:31:41	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688824)
+[23:31:41	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 16 HP.
+[23:31:41	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688824)
+[23:31:41	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 16 HP.
+[23:31:42	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688824)
+[23:31:42	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 16 HP.
+[23:31:45	]Hank J. Wimleton ran 'take' on item 'Bandage Roll' (#2688825)
+[23:31:45	]Hank J. Wimleton has gained a 'Bandage Roll' #2688825.
+[23:32:31	]Hank J. Wimleton ran 'EquipUn' on item 'G3A3' (#2688831)
+[23:32:32	]Hank J. Wimleton ran 'drop' on item 'G3A3' (#2688831)
+[23:32:32	]Hank J. Wimleton has lost a 'G3A3' #2688831.
+[23:32:34	]Hank J. Wimleton destroyed a 'G3A3' #2688831.
+[23:32:55	]Orhan Karaca opened the 'Large Metal Cabinet' #120763 container.
+[23:32:58	]Orhan Karaca has gained a 'Magazine Pouch' #2434086 from a container with the name 'Large Metal Cabinet' #120763.
+[23:33:01	]Orhan Karaca has transferred a 'Magazine Pouch' #2434086 to a container with the name 'Large Metal Cabinet' #120763.
+[23:33:01	]Orhan Karaca closed the 'Large Metal Cabinet' #120763 container.
+[23:33:19	]Orhan Karaca used the 'John Doe' vendor.
+[23:33:33	]Orhan Karaca has gained 0 chips.
+[23:33:33	]Orhan Karaca has gained a 'Mini-14' #2688832.
+[23:33:36	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688825)
+[23:33:36	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 16 HP.
+[23:33:37	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688824)
+[23:33:37	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 16 HP.
+[23:33:37	]Orhan Karaca ran 'Equip' on item 'Mini-14' (#2688832)
+[23:33:41	]Orhan Karaca ran 'EquipUn' on item 'Mini-14' (#2688832)
+[23:33:41	]Orhan Karaca ran 'Equip' on item 'Mini-14' (#2688832)
+[23:33:48	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:33:52	]Hank J. Wimleton has gained 0 chips.
+[23:33:52	]Hank J. Wimleton has gained a 'Mini-14' #2688833.
+[23:33:55	]Hank J. Wimleton ran 'Equip' on item 'Mini-14' (#2688833)
+[23:33:57	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:34:34	]Hank J. Wimleton ran 'EquipUn' on item 'Mini-14' (#2688833)
+[23:34:34	]Hank J. Wimleton ran 'Equip' on item 'Mini-14' (#2688833)
+[23:34:35	]Orhan Karaca ran 'EquipUn' on item 'Mini-14' (#2688832)
+[23:34:36	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:34:36	]Orhan Karaca ran 'drop' on item 'Mini-14' (#2688832)
+[23:34:36	]Orhan Karaca has lost a 'Mini-14' #2688832.
+[23:34:38	]Orhan Karaca used the 'John Doe' vendor.
+[23:34:39	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:34:43	]Orhan Karaca has gained 0 chips.
+[23:34:43	]Orhan Karaca has gained a 'G3A3' #2688834.
+[23:34:46	]Orhan Karaca ran 'Equip' on item 'G3A3' (#2688834)
+[23:34:46	]Hank J. Wimleton ran 'EquipUn' on item 'Mini-14' (#2688833)
+[23:34:47	]Hank J. Wimleton ran 'drop' on item 'Mini-14' (#2688833)
+[23:34:47	]Hank J. Wimleton has lost a 'Mini-14' #2688833.
+[23:34:48	]Orhan Karaca ran 'EquipUn' on item 'G3A3' (#2688834)
+[23:34:49	]Hank J. Wimleton destroyed a 'Mini-14' #2688833.
+[23:34:50	]Orhan Karaca ran 'Equip' on item 'G3A3' (#2688834)
+[23:34:50	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:34:50	]Orhan Karaca ran 'EquipUn' on item 'G3A3' (#2688834)
+[23:34:51	]Orhan Karaca ran 'Equip' on item 'G3A3' (#2688834)
+[23:34:52	]Hank J. Wimleton has gained 0 chips.
+[23:34:52	]Hank J. Wimleton has gained a 'AKM' #2688835.
+[23:34:56	]Hank J. Wimleton ran 'Equip' on item 'AKM' (#2688835)
+[23:34:56	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:35:01	]Orhan Karaca ran 'EquipUn' on item 'G3A3' (#2688834)
+[23:35:06	]Orhan Karaca used the 'John Doe' vendor.
+[23:35:14	]Orhan Karaca has gained 0 chips.
+[23:35:14	]Orhan Karaca has gained a 'Deagle' #2688836.
+[23:35:18	]Orhan Karaca ran 'drop' on item 'G3A3' (#2688834)
+[23:35:18	]Orhan Karaca has lost a 'G3A3' #2688834.
+[23:35:19	]Orhan Karaca ran 'Equip' on item 'Deagle' (#2688836)
+[23:35:33	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688828)
+[23:35:33	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 17 HP.
+[23:35:33	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688826)
+[23:35:33	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 17 HP.
+[23:35:34	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688828)
+[23:35:34	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 17 HP.
+[23:35:35	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688826)
+[23:35:35	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 17 HP.
+[23:35:36	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688828)
+[23:35:36	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 17 HP.
+[23:35:37	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688826)
+[23:35:37	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 17 HP.
+[23:35:37	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688828)
+[23:35:37	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 17 HP.
+[23:35:38	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688826)
+[23:35:38	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 17 HP.
+[23:35:39	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688828)
+[23:35:39	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 17 HP.
+[23:35:40	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688826)
+[23:35:40	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 17 HP.
+[23:35:40	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688828)
+[23:35:40	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 17 HP.
+[23:35:41	]Hank J. Wimleton ran 'use' on item 'Bandage Roll' (#2688826)
+[23:35:41	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 17 HP.
+[23:35:46	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:35:51	]Hank J. Wimleton has gained 0 chips.
+[23:35:51	]Hank J. Wimleton has gained a 'Model 329PD' #2688837.
+[23:35:54	]Hank J. Wimleton ran 'EquipUn' on item 'AKM' (#2688835)
+[23:35:55	]Hank J. Wimleton ran 'drop' on item 'AKM' (#2688835)
+[23:35:55	]Hank J. Wimleton has lost a 'AKM' #2688835.
+[23:35:55	]Orhan Karaca ran 'EquipUn' on item 'Deagle' (#2688836)
+[23:35:56	]Orhan Karaca ran 'drop' on item 'Deagle' (#2688836)
+[23:35:56	]Orhan Karaca has lost a 'Deagle' #2688836.
+[23:35:57	]Hank J. Wimleton ran 'Equip' on item 'Model 329PD' (#2688837)
+[23:35:59	]Orhan Karaca used the 'John Doe' vendor.
+[23:35:59	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:36:07	]Orhan Karaca has gained 0 chips.
+[23:36:07	]Orhan Karaca has gained a 'Uzi' #2688838.
+[23:36:10	]Orhan Karaca ran 'Equip' on item 'Uzi' (#2688838)
+[23:36:17	]Orhan Karaca ran 'EquipUn' on item 'Uzi' (#2688838)
+[23:36:18	]Orhan Karaca ran 'drop' on item 'Uzi' (#2688838)
+[23:36:18	]Orhan Karaca has lost a 'Uzi' #2688838.
+[23:36:20	]Orhan Karaca used the 'John Doe' vendor.
+[23:36:22	]Hank J. Wimleton ran 'EquipUn' on item 'Model 329PD' (#2688837)
+[23:36:23	]Hank J. Wimleton ran 'clearChamber' on item 'Model 329PD' (#2688837)
+[23:36:23	]Hank J. Wimleton has gained a '357 Rounds' #2688839.
+[23:36:24	]Hank J. Wimleton ran 'Equip' on item 'Model 329PD' (#2688837)
+[23:36:25	]Hank J. Wimleton ran 'EquipUn' on item 'Model 329PD' (#2688837)
+[23:36:25	]Hank J. Wimleton ran 'Equip' on item 'Model 329PD' (#2688837)
+[23:36:26	]Hank J. Wimleton ran 'EquipUn' on item 'Model 329PD' (#2688837)
+[23:36:26	]Hank J. Wimleton ran 'Equip' on item 'Model 329PD' (#2688837)
+[23:36:26	]Orhan Karaca has gained 0 chips.
+[23:36:26	]Orhan Karaca has gained a 'HK USP .45' #2688840.
+[23:36:28	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:36:29	]Orhan Karaca ran 'Equip' on item 'HK USP .45' (#2688840)
+[23:36:33	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:36:51	]Hank J. Wimleton opened the 'Trainstation Stash' stash.
+[23:36:51	]Orhan Karaca ran 'EquipUn' on item 'HK USP .45' (#2688840)
+[23:36:52	]Hank J. Wimleton closed the 'Trainstation Stash' stash.
+[23:36:53	]Hank J. Wimleton opened the 'Trainstation Stash' stash.
+[23:36:53	]Orhan Karaca used the 'John Doe' vendor.
+[23:37:02	]Orhan Karaca has gained 0 chips.
+[23:37:02	]Orhan Karaca has gained a 'Popper' #2688841.
+[23:37:02	]Hank J. Wimleton ran 'use' on item 'Blood Bag' (#2128907)
+[23:37:02	]Hank J. Wimleton was disinfected by Hank J. Wimleton for 66 seconds.
+[23:37:02	]Hank J. Wimleton was bandaged by Hank J. Wimleton for 34 HP.
+[23:37:04	]Orhan Karaca ran 'Equip' on item 'Popper' (#2688841)
+[23:37:05	]Orhan Karaca ran 'drop' on item 'HK USP .45' (#2688840)
+[23:37:05	]Orhan Karaca has lost a 'HK USP .45' #2688840.
+[23:37:17	]Orhan Karaca ran 'drop' on item 'Popper' (#2688841)
+[23:37:17	]Orhan Karaca has lost a 'Popper' #2688841.
+[23:37:19	]Orhan Karaca used the 'John Doe' vendor.
+[23:37:25	]Hank J. Wimleton closed the 'Trainstation Stash' stash.
+[23:37:26	]Hank J. Wimleton ran 'Equip' on item 'Incendiary Grenade' (#2128903)
+[23:37:27	]Orhan Karaca has gained 0 chips.
+[23:37:27	]Orhan Karaca has gained a 'M16A2' #2688842.
+[23:37:28	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:37:29	]Orhan Karaca ran 'Equip' on item 'M16A2' (#2688842)
+[23:37:42	]Hank J. Wimleton opened the 'Trainstation Stash' stash.
+[23:37:53	]Orhan Karaca ran 'EquipUn' on item 'M16A2' (#2688842)
+[23:37:54	]Orhan Karaca ran 'drop' on item 'M16A2' (#2688842)
+[23:37:54	]Orhan Karaca has lost a 'M16A2' #2688842.
+[23:37:58	]Orhan Karaca ran 'take' on item 'AKM' (#2688835)
+[23:37:58	]Orhan Karaca has gained a 'AKM' #2688835.
+[23:38:01	]Orhan Karaca ran 'Equip' on item 'AKM' (#2688835)
+[23:38:03	]Hank J. Wimleton closed the 'Trainstation Stash' stash.
+[23:38:04	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:38:10	]Orhan Karaca ran 'EquipUn' on item 'AKM' (#2688835)
+[23:38:12	]Orhan Karaca ran 'Equip' on item 'AKM' (#2688835)
+[23:38:13	]Orhan Karaca ran 'EquipUn' on item 'AKM' (#2688835)
+[23:38:14	]Orhan Karaca ran 'drop' on item 'AKM' (#2688835)
+[23:38:14	]Orhan Karaca has lost a 'AKM' #2688835.
+[23:38:16	]Orhan Karaca used the 'John Doe' vendor.
+[23:38:19	]Orhan Karaca has gained 0 chips.
+[23:38:19	]Orhan Karaca has gained a 'Makeshift AK' #2688843.
+[23:38:23	]Orhan Karaca ran 'Equip' on item 'Makeshift AK' (#2688843)
+[23:38:36	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:38:46	]Hank J. Wimleton has gained 0 chips.
+[23:38:49	]Hank J. Wimleton ran 'EquipUn' on item 'Model 329PD' (#2688837)
+[23:38:49	]Orhan Karaca ran 'EquipUn' on item 'Makeshift AK' (#2688843)
+[23:38:49	]Orhan Karaca ran 'drop' on item 'Makeshift AK' (#2688843)
+[23:38:49	]Orhan Karaca has lost a 'Makeshift AK' #2688843.
+[23:38:50	]Hank J. Wimleton ran 'drop' on item 'Model 329PD' (#2688837)
+[23:38:50	]Hank J. Wimleton has lost a 'Model 329PD' #2688837.
+[23:38:52	]Hank J. Wimleton ran 'take' on item 'Bastard Submachine Gun' (#2688844)
+[23:38:52	]Hank J. Wimleton has gained a 'Bastard Submachine Gun' #2688844.
+[23:38:53	]Hank J. Wimleton ran 'Equip' on item 'Bastard Submachine Gun' (#2688844)
+[23:38:54	]Orhan Karaca used the 'John Doe' vendor.
+[23:38:55	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:39:00	]Orhan Karaca has gained 0 chips.
+[23:39:00	]Orhan Karaca has gained a 'MP7A1' #2688845.
+[23:39:04	]Orhan Karaca ran 'Equip' on item 'MP7A1' (#2688845)
+[23:39:26	]Orhan Karaca used command '/CharFallOver'.
+[23:39:27	]Orhan Karaca used command '/CharGetUp'.
+[23:39:28	]Orhan Karaca used command '/CharGetUp'.
+[23:39:29	]Orhan Karaca used command '/CharGetUp'.
+[23:39:29	]Orhan Karaca used command '/CharGetUp'.
+[23:39:30	]Orhan Karaca used command '/CharGetUp'.
+[23:39:31	]Orhan Karaca used command '/CharGetUp'.
+[23:39:34	]Orhan Karaca used command '/CharGetUp'.
+[23:39:35	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:39:39	]Hank J. Wimleton ran 'EquipUn' on item 'Bastard Submachine Gun' (#2688844)
+[23:39:40	]Hank J. Wimleton ran 'drop' on item 'Bastard Submachine Gun' (#2688844)
+[23:39:40	]Hank J. Wimleton has lost a 'Bastard Submachine Gun' #2688844.
+[23:39:40	]Orhan Karaca ran 'EquipUn' on item 'MP7A1' (#2688845)
+[23:39:41	]Orhan Karaca ran 'Equip' on item 'MP7A1' (#2688845)
+[23:39:41	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:39:47	]Hank J. Wimleton has gained 0 chips.
+[23:39:47	]Hank J. Wimleton has gained a 'M1911' #2688846.
+[23:39:49	]Hank J. Wimleton ran 'Equip' on item 'M1911' (#2688846)
+[23:39:50	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:40:00	]Orhan Karaca ran 'drop' on item 'MP7A1' (#2688845)
+[23:40:00	]Orhan Karaca has lost a 'MP7A1' #2688845.
+[23:40:03	]Orhan Karaca used the 'John Doe' vendor.
+[23:40:11	]Orhan Karaca has gained 0 chips.
+[23:40:11	]Orhan Karaca has gained a 'MP5A3' #2688847.
+[23:40:12	]Hank J. Wimleton ran 'use' on item 'Adrenaline' (#2596545)
+[23:40:12	]Hank J. Wimleton has performed the 'Use Adrenaline' action, gaining 32 experience in medicine.
+[23:40:12	]Hank J. Wimleton has gained a level 4 short boost in Agility.
+[23:40:14	]Orhan Karaca ran 'Equip' on item 'MP5A3' (#2688847)
+[23:40:17	]Hank J. Wimleton ran 'EquipUn' on item 'M1911' (#2688846)
+[23:40:18	]Hank J. Wimleton ran 'drop' on item 'M1911' (#2688846)
+[23:40:18	]Hank J. Wimleton has lost a 'M1911' #2688846.
+[23:40:18	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:40:21	]Hank J. Wimleton has gained 0 chips.
+[23:40:21	]Hank J. Wimleton has gained a 'MP5A3' #2688848.
+[23:40:23	]Hank J. Wimleton ran 'Equip' on item 'MP5A3' (#2688848)
+[23:40:24	]Orhan Karaca ran 'drop' on item 'MP5A3' (#2688847)
+[23:40:24	]Orhan Karaca has lost a 'MP5A3' #2688847.
+[23:40:24	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:40:26	]Orhan Karaca used the 'John Doe' vendor.
+[23:40:31	]Orhan Karaca has gained 0 chips.
+[23:40:31	]Orhan Karaca has gained a 'Bastard Submachine Gun' #2688849.
+[23:40:33	]Orhan Karaca ran 'Equip' on item 'Bastard Submachine Gun' (#2688849)
+[23:40:43	]Orhan Karaca ran 'drop' on item 'Bastard Submachine Gun' (#2688849)
+[23:40:43	]Orhan Karaca has lost a 'Bastard Submachine Gun' #2688849.
+[23:40:45	]Orhan Karaca used the 'John Doe' vendor.
+[23:40:46	]Hank J. Wimleton ran 'EquipUn' on item 'MP5A3' (#2688848)
+[23:40:47	]Hank J. Wimleton ran 'drop' on item 'MP5A3' (#2688848)
+[23:40:47	]Hank J. Wimleton has lost a 'MP5A3' #2688848.
+[23:40:49	]Hank J. Wimleton destroyed a 'MP5A3' #2688848.
+[23:40:54	]Hank J. Wimleton ran 'take' on item 'Bastard Submachine Gun' (#2688844)
+[23:40:54	]Hank J. Wimleton has gained a 'Bastard Submachine Gun' #2688844.
+[23:40:55	]Orhan Karaca has gained 0 chips.
+[23:40:55	]Orhan Karaca has gained a 'Tikhar Ball Rifle' #2688850.
+[23:40:57	]Hank J. Wimleton ran 'drop' on item 'Bastard Submachine Gun' (#2688844)
+[23:40:57	]Hank J. Wimleton has lost a 'Bastard Submachine Gun' #2688844.
+[23:40:57	]Orhan Karaca ran 'Equip' on item 'Tikhar Ball Rifle' (#2688850)
+[23:40:58	]Hank J. Wimleton destroyed a 'Bastard Submachine Gun' #2688844.
+[23:41:00	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:41:05	]Hank J. Wimleton has gained 0 chips.
+[23:41:05	]Hank J. Wimleton has gained a 'Overwatch Tactical Rifle' #2688851.
+[23:41:09	]Hank J. Wimleton ran 'drop' on item 'Overwatch Tactical Rifle' (#2688851)
+[23:41:09	]Hank J. Wimleton has lost a 'Overwatch Tactical Rifle' #2688851.
+[23:41:10	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:41:16	]Hank J. Wimleton has gained 0 chips.
+[23:41:16	]Hank J. Wimleton has gained a 'Tikhar Ball Rifle' #2688852.
+[23:41:21	]Hank J. Wimleton ran 'drop' on item 'Tikhar Ball Rifle' (#2688852)
+[23:41:21	]Hank J. Wimleton has lost a 'Tikhar Ball Rifle' #2688852.
+[23:41:22	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:41:26	]Hank J. Wimleton has gained 0 chips.
+[23:41:26	]Hank J. Wimleton has gained a 'Helsing Bolt Rifle' #2688853.
+[23:41:45	]Orhan Karaca ran 'drop' on item 'Tikhar Ball Rifle' (#2688850)
+[23:41:45	]Orhan Karaca has lost a 'Tikhar Ball Rifle' #2688850.
+[23:41:47	]Orhan Karaca used the 'John Doe' vendor.
+[23:41:49	]Hank J. Wimleton ran 'drop' on item 'Helsing Bolt Rifle' (#2688853)
+[23:41:49	]Hank J. Wimleton has lost a 'Helsing Bolt Rifle' #2688853.
+[23:41:52	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:41:52	]Orhan Karaca has gained 0 chips.
+[23:41:52	]Orhan Karaca has gained a 'VSK-94' #2688854.
+[23:41:55	]Orhan Karaca ran 'Equip' on item 'VSK-94' (#2688854)
+[23:41:56	]Hank J. Wimleton has gained 0 chips.
+[23:41:56	]Hank J. Wimleton has gained a 'Overwatch Pulse Submachine-gun' #2688855.
+[23:41:57	]Hank J. Wimleton ran 'Equip' on item 'Overwatch Pulse Submachine-gun' (#2688855)
+[23:41:58	]Hank J. Wimleton ran 'EquipUn' on item 'Overwatch Pulse Submachine-gun' (#2688855)
+[23:41:59	]Hank J. Wimleton ran 'Equip' on item 'Overwatch Pulse Submachine-gun' (#2688855)
+[23:42:00	]Hank J. Wimleton ran 'EquipUn' on item 'Overwatch Pulse Submachine-gun' (#2688855)
+[23:42:00	]Hank J. Wimleton ran 'Equip' on item 'Overwatch Pulse Submachine-gun' (#2688855)
+[23:42:02	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:42:22	]Orhan Karaca ran 'drop' on item 'VSK-94' (#2688854)
+[23:42:22	]Orhan Karaca has lost a 'VSK-94' #2688854.
+[23:42:23	]Orhan Karaca used the 'John Doe' vendor.
+[23:42:34	]Orhan Karaca has gained 0 chips.
+[23:42:34	]Orhan Karaca has gained a 'Model 329PD' #2688856.
+[23:42:37	]Orhan Karaca ran 'Equip' on item 'Model 329PD' (#2688856)
+[23:42:45	]Orhan Karaca ran 'drop' on item 'Model 329PD' (#2688856)
+[23:42:45	]Orhan Karaca has lost a 'Model 329PD' #2688856.
+[23:42:45	]Hank J. Wimleton ran 'EquipUn' on item 'Overwatch Pulse Submachine-gun' (#2688855)
+[23:42:46	]Orhan Karaca used the 'John Doe' vendor.
+[23:42:46	]Hank J. Wimleton ran 'drop' on item 'Overwatch Pulse Submachine-gun' (#2688855)
+[23:42:46	]Hank J. Wimleton has lost a 'Overwatch Pulse Submachine-gun' #2688855.
+[23:42:47	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:42:51	]Orhan Karaca has gained 0 chips.
+[23:42:51	]Orhan Karaca has gained a 'Glock 17' #2688857.
+[23:42:54	]Orhan Karaca ran 'Equip' on item 'Glock 17' (#2688857)
+[23:43:03	]Orhan Karaca ran 'drop' on item 'Glock 17' (#2688857)
+[23:43:03	]Orhan Karaca has lost a 'Glock 17' #2688857.
+[23:43:03	]Hank J. Wimleton has gained 0 chips.
+[23:43:03	]Hank J. Wimleton has gained a 'Makeshift P90' #2688858.
+[23:43:04	]Orhan Karaca used the 'John Doe' vendor.
+[23:43:05	]Hank J. Wimleton ran 'Equip' on item 'Makeshift P90' (#2688858)
+[23:43:06	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:43:10	]Orhan Karaca has gained 0 chips.
+[23:43:10	]Orhan Karaca has gained a 'PPSH-41' #2688859.
+[23:43:13	]Orhan Karaca ran 'Equip' on item 'PPSH-41' (#2688859)
+[23:43:18	]Hank J. Wimleton ran 'EquipUn' on item 'Makeshift P90' (#2688858)
+[23:43:19	]Hank J. Wimleton ran 'drop' on item 'Makeshift P90' (#2688858)
+[23:43:19	]Hank J. Wimleton has lost a 'Makeshift P90' #2688858.
+[23:43:20	]Orhan Karaca ran 'drop' on item 'PPSH-41' (#2688859)
+[23:43:20	]Orhan Karaca has lost a 'PPSH-41' #2688859.
+[23:43:20	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:43:22	]Orhan Karaca used the 'John Doe' vendor.
+[23:43:23	]Hank J. Wimleton has gained 0 chips.
+[23:43:23	]Hank J. Wimleton has gained a 'PPSH-41' #2688860.
+[23:43:25	]Hank J. Wimleton ran 'Equip' on item 'PPSH-41' (#2688860)
+[23:43:27	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:43:38	]Hank J. Wimleton ran 'EquipUn' on item 'PPSH-41' (#2688860)
+[23:43:38	]Hank J. Wimleton ran 'drop' on item 'PPSH-41' (#2688860)
+[23:43:38	]Hank J. Wimleton has lost a 'PPSH-41' #2688860.
+[23:43:39	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:44:03	]Hank J. Wimleton has gained 0 chips.
+[23:44:03	]Hank J. Wimleton has gained a 'VSK-94' #2688861.
+[23:44:11	]Hank J. Wimleton ran 'Equip' on item 'VSK-94' (#2688861)
+[23:44:13	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:44:22	]Hank J. Wimleton ran 'drop' on item 'VSK-94' (#2688861)
+[23:44:22	]Hank J. Wimleton has lost a 'VSK-94' #2688861.
+[23:44:24	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:44:33	]Hank J. Wimleton has gained 0 chips.
+[23:44:33	]Hank J. Wimleton has gained a 'Deagle' #2688862.
+[23:44:38	]Hank J. Wimleton ran 'Equip' on item 'Deagle' (#2688862)
+[23:44:39	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:44:50	]Hank J. Wimleton ran 'drop' on item 'Deagle' (#2688862)
+[23:44:50	]Hank J. Wimleton has lost a 'Deagle' #2688862.
+[23:44:51	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:44:52	]Orhan Karaca has gained 0 chips.
+[23:44:52	]Orhan Karaca has gained a 'Deagle' #2688863.
+[23:44:56	]Orhan Karaca ran 'Equip' on item 'Deagle' (#2688863)
+[23:44:57	]Hank J. Wimleton has gained 0 chips.
+[23:44:57	]Hank J. Wimleton has gained a 'Popper' #2688864.
+[23:44:59	]Hank J. Wimleton ran 'Equip' on item 'Popper' (#2688864)
+[23:45:00	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:45:08	]Orhan Karaca ran 'drop' on item 'Deagle' (#2688863)
+[23:45:08	]Orhan Karaca has lost a 'Deagle' #2688863.
+[23:45:08	]Hank J. Wimleton ran 'drop' on item 'Popper' (#2688864)
+[23:45:08	]Hank J. Wimleton has lost a 'Popper' #2688864.
+[23:45:09	]Orhan Karaca used the 'John Doe' vendor.
+[23:45:09	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:45:35	]Hank J. Wimleton has gained 0 chips.
+[23:45:35	]Hank J. Wimleton has gained a 'Mini-14' #2688865.
+[23:45:38	]Hank J. Wimleton ran 'Equip' on item 'Mini-14' (#2688865)
+[23:45:40	]Hank J. Wimleton ran 'EquipUn' on item 'Mini-14' (#2688865)
+[23:45:40	]Hank J. Wimleton ran 'Equip' on item 'Mini-14' (#2688865)
+[23:45:41	]Hank J. Wimleton ran 'EquipUn' on item 'Mini-14' (#2688865)
+[23:45:42	]Hank J. Wimleton ran 'Equip' on item 'Mini-14' (#2688865)
+[23:45:43	]Hank J. Wimleton ran 'EquipUn' on item 'Mini-14' (#2688865)
+[23:45:43	]Hank J. Wimleton ran 'Equip' on item 'Mini-14' (#2688865)
+[23:45:44	]Hank J. Wimleton ran 'EquipUn' on item 'Mini-14' (#2688865)
+[23:45:44	]Hank J. Wimleton ran 'Equip' on item 'Mini-14' (#2688865)
+[23:45:45	]Hank J. Wimleton ran 'EquipUn' on item 'Mini-14' (#2688865)
+[23:45:46	]Hank J. Wimleton ran 'Equip' on item 'Mini-14' (#2688865)
+[23:45:46	]Hank J. Wimleton ran 'EquipUn' on item 'Mini-14' (#2688865)
+[23:45:47	]Hank J. Wimleton ran 'Equip' on item 'Mini-14' (#2688865)
+[23:45:48	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:45:56	]Hank J. Wimleton is fully healed.
+[23:46:55	]Hank J. Wimleton used the 'John Doe' vendor.
+[23:47:10	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:47:24	]Hank J. Wimleton has hit Orhan Karaca in the chest dealing 16 damage (CritChance was 0.30).
+[23:47:24	]Orhan Karaca has taken 16 damage from Hank J. Wimleton.
+[23:47:28	]Orhan Karaca is fully healed.
+[23:47:38	][OOC] Hank J. Wimleton: You hit your target at 8 meters in the chest, dealing 11.2 damage to their armor.
+[23:47:41	]Hank J. Wimleton has hit Orhan Karaca in the left leg dealing 8 damage (CritChance was 0.30).
+[23:47:41	]Orhan Karaca has taken 8 damage from Hank J. Wimleton.
+[23:47:43	]Orhan Karaca is fully healed.
+[23:47:49	][OOC] Hank J. Wimleton: You hit your target at 8 meters in the left leg, dealing 5.6 damage to their armor.
+[23:47:53	]Hank J. Wimleton has hit Orhan Karaca in the head dealing 20 damage (CritChance was 0.10).
+[23:47:53	]Orhan Karaca has taken 20 damage from Hank J. Wimleton.
+[23:47:53	]Orhan Karaca is fully healed.
+[23:47:59	][OOC] Hank J. Wimleton: You hit your target at 8 meters in the head, dealing 14 damage to their armor.
+[23:48:12	]Hank J. Wimleton ran 'EquipUn' on item 'Mini-14' (#2688865)
+[23:48:13	]Hank J. Wimleton ran 'drop' on item 'Mini-14' (#2688865)
+[23:48:13	]Hank J. Wimleton has lost a 'Mini-14' #2688865.
+[23:48:15	]Hank J. Wimleton ran 'take' on item 'G3A3' (#2688834)
+[23:48:15	]Hank J. Wimleton has gained a 'G3A3' #2688834.
+[23:48:16	]Hank J. Wimleton ran 'Equip' on item 'G3A3' (#2688834)
+[23:48:17	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:48:19	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:48:25	]Hank J. Wimleton has hit Orhan Karaca in the chest dealing 14 damage (CritChance was 0.28).
+[23:48:25	]Orhan Karaca has taken 14 damage from Hank J. Wimleton.
+[23:48:28	]Orhan Karaca is fully healed.
+[23:48:29	][OOC] Hank J. Wimleton: You hit your target at 7 meters in the chest, dealing 9.1 damage to their armor.
+[23:48:33	]Hank J. Wimleton ran 'drop' on item 'G3A3' (#2688834)
+[23:48:33	]Hank J. Wimleton has lost a 'G3A3' #2688834.
+[23:48:36	]Hank J. Wimleton ran 'take' on item 'Mini-14' (#2688865)
+[23:48:36	]Hank J. Wimleton has gained a 'Mini-14' #2688865.
+[23:48:37	]Hank J. Wimleton ran 'Equip' on item 'Mini-14' (#2688865)
+[23:48:39	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:48:41	]Hank J. Wimleton ran 'drop' on item 'Mini-14' (#2688865)
+[23:48:41	]Hank J. Wimleton has lost a 'Mini-14' #2688865.
+[23:48:44	]Hank J. Wimleton ran 'take' on item 'Tikhar Ball Rifle' (#2688850)
+[23:48:44	]Hank J. Wimleton has gained a 'Tikhar Ball Rifle' #2688850.
+[23:48:45	]Hank J. Wimleton ran 'Equip' on item 'Tikhar Ball Rifle' (#2688850)
+[23:48:46	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:48:52	]Hank J. Wimleton ran 'drop' on item 'Repair Plating' (#2686933)
+[23:48:52	]Hank J. Wimleton has lost a 'Repair Plating' #2686933.
+[23:48:54	]Orhan Karaca ran 'take' on item 'Repair Plating' (#2686933)
+[23:48:54	]Orhan Karaca has gained a 'Repair Plating' #2686933.
+[23:48:58	]Orhan Karaca ran 'Repair' on item 'Heavy Kevlar Uniform' (#2102187)
+[23:49:04	]Hank J. Wimleton has hit Orhan Karaca in the chest dealing 20 damage (CritChance was 0.17).
+[23:49:04	]Orhan Karaca has taken 20 damage from Hank J. Wimleton.
+[23:49:08	]Orhan Karaca is fully healed.
+[23:49:12	][OOC] Hank J. Wimleton: You hit your target at 8 meters in the chest, dealing 8 damage to their armor.
+[23:49:20	]Hank J. Wimleton has critically hit Orhan Karaca in the left arm dealing 25 damage (CritChance was 0.17).
+[23:49:20	]Orhan Karaca has taken 25 damage from Hank J. Wimleton.
+[23:49:21	]Hank J. Wimleton has hit Orhan Karaca in the left arm dealing 10 damage (CritChance was 0.17).
+[23:49:21	]Orhan Karaca has taken 10 damage from Hank J. Wimleton.
+[23:49:23	]Orhan Karaca is fully healed.
+[23:49:44	]Hank J. Wimleton has hit Orhan Karaca in the head dealing 25 damage (CritChance was 0.06).
+[23:49:44	]Orhan Karaca has taken 25 damage from Hank J. Wimleton.
+[23:49:48	]Orhan Karaca is fully healed.
+[23:49:51	]Orhan Karaca ran 'Repair' on item 'Heavy Kevlar Uniform' (#2102187)
+[23:50:12	]Orhan Karaca destroyed a 'Uzi' #2688838.
+[23:50:14	]Orhan Karaca destroyed a 'Mini-14' #2688832.
+[23:50:16	]Orhan Karaca destroyed a 'MP5A3' #2688847.
+[23:50:16	]Hank J. Wimleton ran 'drop' on item 'Tikhar Ball Rifle' (#2688850)
+[23:50:16	]Hank J. Wimleton has lost a 'Tikhar Ball Rifle' #2688850.
+[23:50:18	]Orhan Karaca destroyed a 'Popper' #2688841.
+[23:50:19	]Hank J. Wimleton ran 'take' on item 'Glock 17' (#2688857)
+[23:50:19	]Hank J. Wimleton has gained a 'Glock 17' #2688857.
+[23:50:19	]Orhan Karaca destroyed a 'Bastard Submachine Gun' #2688849.
+[23:50:23	]Hank J. Wimleton ran 'drop' on item 'Glock 17' (#2688857)
+[23:50:23	]Hank J. Wimleton has lost a 'Glock 17' #2688857.
+[23:50:23	]Orhan Karaca destroyed a 'Tikhar Ball Rifle' #2688850.
+[23:50:27	]Orhan Karaca destroyed a 'VSK-94' #2688861.
+[23:50:29	]Orhan Karaca destroyed a 'Tikhar Ball Rifle' #2688852.
+[23:50:29	]Hank J. Wimleton ran 'take' on item 'Deagle' (#2688836)
+[23:50:29	]Hank J. Wimleton has gained a 'Deagle' #2688836.
+[23:50:30	]Orhan Karaca destroyed a 'Popper' #2688864.
+[23:50:30	]Hank J. Wimleton ran 'Equip' on item 'Deagle' (#2688836)
+[23:50:32	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:50:35	]Hank J. Wimleton has hit Orhan Karaca in the head dealing 44 damage (CritChance was 0.09).
+[23:50:35	]Orhan Karaca has taken 44 damage from Hank J. Wimleton.
+[23:50:38	]Orhan Karaca is fully healed.
+[23:50:48	]Hank J. Wimleton has hit Orhan Karaca in the chest dealing 35 damage (CritChance was 0.28).
+[23:50:48	]Orhan Karaca has taken 35 damage from Hank J. Wimleton.
+[23:50:48	]Orhan Karaca is fully healed.
+[23:50:49	]Hank J. Wimleton has critically hit Orhan Karaca in the left leg dealing 44 damage (CritChance was 0.28).
+[23:50:49	]Orhan Karaca has taken 44 damage from Hank J. Wimleton.
+[23:50:50	]Hank J. Wimleton has critically hit Orhan Karaca in the left arm dealing 44 damage (CritChance was 0.40).
+[23:50:50	]Orhan Karaca has taken 44 damage from Hank J. Wimleton.
+[23:50:53	]Orhan Karaca ran 'use' on item 'Bandage Roll' (#2120403)
+[23:50:53	]Orhan Karaca has performed the 'Use Bandage Roll' action, gaining 15 experience in medicine.
+[23:50:53	]Orhan Karaca was bandaged by Orhan Karaca for 18 HP.
+[23:50:57	]Orhan Karaca ran 'Repair' on item 'Heavy Kevlar Uniform' (#2102187)
+[23:51:03	][OOC] Hank J. Wimleton: You critically hit your target at 7 meters in the left arm, dealing 44 damage!
+[23:51:10	]Hank J. Wimleton has critically hit Orhan Karaca in the left leg dealing 44 damage (CritChance was 0.28).
+[23:51:10	]Orhan Karaca has taken 44 damage from Hank J. Wimleton.
+[23:51:16	]Hank J. Wimleton has critically hit Orhan Karaca in the chest dealing 66 damage (CritChance was 0.28).
+[23:51:16	]Orhan Karaca has taken 66 damage from Hank J. Wimleton.
+[23:51:17	]Hank J. Wimleton has hit Orhan Karaca in the head dealing 44 damage (CritChance was 0.13).
+[23:51:17	]Orhan Karaca was knocked unconscious and is bleeding out.
+[23:51:18	]Orhan Karaca used command '/CharGetUp'.
+[23:51:23	]Hank J. Wimleton ran 'give' on item 'Bandage Roll' (#2688827)
+[23:51:23	]Hank J. Wimleton has performed the 'Use Bandage Roll' action, gaining 15 experience in medicine.
+[23:51:23	]Orhan Karaca's bleeding was stopped by Hank J. Wimleton.
+[23:51:23	]Orhan Karaca was bandaged by Hank J. Wimleton for 18 HP.
+[23:51:23	]Hank J. Wimleton ran 'give' on item 'Bandage Roll' (#2688827)
+[23:51:23	]Hank J. Wimleton has performed the 'Use Bandage Roll' action, gaining 15 experience in medicine.
+[23:51:23	]Orhan Karaca was bandaged by Hank J. Wimleton for 18 HP.
+[23:51:24	]Hank J. Wimleton ran 'give' on item 'Bandage Roll' (#2688827)
+[23:51:24	]Hank J. Wimleton has performed the 'Use Bandage Roll' action, gaining 15 experience in medicine.
+[23:51:24	]Orhan Karaca was bandaged by Hank J. Wimleton for 18 HP.
+[23:51:27	]Hank J. Wimleton used command '/ToggleRaise'.
+[23:51:28	]Hank J. Wimleton has hit Orhan Karaca in the left leg dealing 17 damage (CritChance was 0.40).
+[23:51:28	]Orhan Karaca was knocked unconscious and is bleeding out.
+[23:51:44	]Orhan Karaca was just killed due to: accepting their death
+[23:51:53	]Orhan Karaca ran 'Repair' on item 'Heavy Kevlar Uniform' (#2102187)
+[23:52:08	]Orhan Karaca used the 'John Doe' vendor.
+[23:52:19	]Orhan Karaca has gained 0 chips.
+[23:52:19	]Orhan Karaca has gained a 'Deagle' #2688866.
+[23:52:21	]Orhan Karaca ran 'Equip' on item 'Deagle' (#2688866)
+[23:52:40	]Hank J. Wimleton has hit Orhan Karaca in the head dealing 44 damage (CritChance was 0.09).
+[23:52:40	]Orhan Karaca has taken 44 damage from Hank J. Wimleton.
+[23:52:43	]Orhan Karaca is fully healed.
+[23:52:45	]Orhan Karaca ran 'Repair' on item 'Heavy Kevlar Uniform' (#2102187)
+[23:52:53	]Orhan Karaca has critically hit Hank J. Wimleton in the left arm dealing 44 damage (CritChance was 0.28).
+[23:52:53	]Hank J. Wimleton has taken 44 damage from Orhan Karaca.
+[23:52:53	]Orhan Karaca has gained level 14 in the Guns skill.
+[23:52:53	]Orhan Karaca has hit Hank J. Wimleton in the left arm dealing 17 damage (CritChance was 0.28).
+[23:52:53	]Hank J. Wimleton has taken 17 damage from Orhan Karaca.
+[23:52:56	]Hank J. Wimleton is fully healed.
+[23:53:00	]Orhan Karaca ran 'drop' on item 'Repair Plating' (#2686933)
+[23:53:00	]Orhan Karaca has lost a 'Repair Plating' #2686933.
+[23:53:02	]Hank J. Wimleton ran 'take' on item 'Repair Plating' (#2686933)
+[23:53:02	]Hank J. Wimleton has gained a 'Repair Plating' #2686933.
+[23:53:04	]Hank J. Wimleton ran 'Repair' on item 'Medium Kevlar Uniform' (#2686932)
+[23:53:07	]Orhan Karaca ran 'drop' on item 'Heavy Kevlar Uniform' (#2102187)
+[23:53:07	]Orhan Karaca has lost a 'Heavy Kevlar Uniform' #2102187.
+[23:53:08	]Hank J. Wimleton ran 'drop' on item 'Medium Kevlar Uniform' (#2686932)
+[23:53:08	]Hank J. Wimleton has lost a 'Medium Kevlar Uniform' #2686932.
+[23:53:09	]Hank J. Wimleton ran 'take' on item 'Heavy Kevlar Uniform' (#2102187)
+[23:53:09	]Hank J. Wimleton has gained a 'Heavy Kevlar Uniform' #2102187.
+[23:53:11	]Orhan Karaca ran 'EquipUn' on item 'Deagle' (#2688866)
+[23:53:11	]Orhan Karaca ran 'Equip' on item 'Deagle' (#2688866)
+[23:53:12	]Orhan Karaca ran 'EquipUn' on item 'Deagle' (#2688866)
+[23:53:12	]Orhan Karaca ran 'Equip' on item 'Deagle' (#2688866)
+[23:53:17	]Orhan Karaca has critically hit Hank J. Wimleton in the chest dealing 66 damage (CritChance was 0.28).
+[23:53:17	]Hank J. Wimleton has taken 66 damage from Orhan Karaca.
+[23:53:18	]Orhan Karaca has hit Hank J. Wimleton in the stomach dealing 30 damage (CritChance was 0.37).
+[23:53:18	]Hank J. Wimleton has taken 30 damage from Orhan Karaca.
+[23:53:21	]Orhan Karaca has critically hit Hank J. Wimleton in the chest dealing 66 damage (CritChance was 0.28).
+[23:53:21	]Hank J. Wimleton has taken 66 damage from Orhan Karaca.
+[23:53:31	]Hank J. Wimleton ran 'Repair' on item 'Heavy Kevlar Uniform' (#2102187)
+[23:53:48	]NanCi-  なんしい (STEAM_0:1:148411743) has disconnected.
+[23:54:01	]Orhan Karaca ran 'take' on item 'Medium Kevlar Uniform' (#2686932)
+[23:54:01	]Orhan Karaca has gained a 'Medium Kevlar Uniform' #2686932.
+[23:54:18	]Orhan Karaca used the 'John Doe' vendor.
+[23:54:24	]Orhan Karaca has gained 0 chips.
+[23:54:24	]Orhan Karaca has gained a 'Tikhar Ball Rifle' #2688867.
+[23:54:26	]Orhan Karaca ran 'drop' on item 'Deagle' (#2688866)
+[23:54:26	]Orhan Karaca has lost a 'Deagle' #2688866.
+[23:54:28	]Orhan Karaca used the 'John Doe' vendor.
+[23:54:31	]Orhan Karaca has gained 0 chips.
+[23:54:31	]Orhan Karaca has gained a 'Tikhar Ball Rifle' #2688868.
+[23:54:33	]Orhan Karaca ran 'Equip' on item 'Tikhar Ball Rifle' (#2688868)
+[23:55:19	]Orhan Karaca ran 'drop' on item 'Tikhar Ball Rifle' (#2688868)
+[23:55:19	]Orhan Karaca has lost a 'Tikhar Ball Rifle' #2688868.
+[23:55:21	]Orhan Karaca used the 'John Doe' vendor.
+[23:55:54	]Orhan Karaca used the 'John Doe' vendor.
+[23:56:04	]Muho (STEAM_0:0:93977537) has disconnected.

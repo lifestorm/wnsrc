@@ -1,0 +1,561 @@
+[21:58:11	]Marco has connected.
+[22:05:01	]Marco loaded the character 'Marco Polo'
+[22:05:06	]Marco Polo is fully healed.
+[22:05:18	]Marco Polo ran 'hold' on item 'Surgical Kit' (#3307292)
+[22:05:26	]Marco Polo ran 'hputback' on item 'Surgical Kit' (#3307292)
+[22:08:32	]Marco Polo ran 'drop' on item 'Buckshot Shotgun Shells' (#3307308)
+[22:08:32	]Marco Polo has lost a 'Buckshot Shotgun Shells' #3307308.
+[22:08:33	]Marco Polo ran 'drop' on item 'Leupold Mark 4' (#3307313)
+[22:08:33	]Marco Polo has lost a 'Leupold Mark 4' #3307313.
+[22:08:33	]Marco Polo ran 'drop' on item 'M2014-S (FLIR)' (#3307312)
+[22:08:33	]Marco Polo has lost a 'M2014-S (FLIR)' #3307312.
+[22:08:34	]Marco Polo ran 'drop' on item '7.62x51mm M61' (#3307314)
+[22:08:34	]Marco Polo has lost a '7.62x51mm M61' #3307314.
+[22:08:36	]Marco Polo ran 'take' on item 'Buckshot Shotgun Shells' (#3307308)
+[22:08:36	]Marco Polo has gained a 'Buckshot Shotgun Shells' #3307308.
+[22:08:37	]Marco Polo used command '/ToggleRaise'.
+[22:08:38	]Marco Polo destroyed a '7.62x51mm M61' #3307314.
+[22:08:39	]Marco Polo destroyed a 'Leupold Mark 4' #3307313.
+[22:08:39	]Marco Polo destroyed a 'M2014-S (FLIR)' #3307312.
+[22:08:40	]Marco Polo used command '/ToggleRaise'.
+[22:08:43	]Marco Polo entered observer.
+[22:08:43	]Marco Polo exited observer.
+[22:09:00	]Marco Polo used command '/ToggleRaise'.
+[22:09:16	]Marco Polo used command '/CharSkillSet ^ guns 0'.
+[22:09:36	]Marco Polo has given himself a optic_gauss_scope.
+[22:09:36	]Marco Polo has gained a 'M2014-S (FLIR)' #3307328.
+[22:09:52	]Marco Polo has spawned a 'NPC [454][npc_vj_hla_zombiegunner]'.
+[22:09:56	]Marco Polo has hit npc_vj_hla_zombiegunner dealing 85 damage (CritChance was 0.00).
+[22:09:58	]Marco Polo has hit npc_vj_hla_zombiegunner dealing 85 damage (CritChance was 0.00).
+[22:10:00	]Marco Polo has taken 3 damage from Zombine Gunner.
+[22:10:01	]Marco Polo has hit npc_vj_hla_zombiegunner dealing 85 damage (CritChance was 0.00).
+[22:10:04	]Marco Polo has hit npc_vj_hla_zombiegunner dealing 85 damage (CritChance was 0.00).
+[22:10:06	]Marco Polo has taken 3 damage from Zombine Gunner.
+[22:10:17	]Marco Polo has hit npc_vj_hla_zombiegunner dealing 85 damage (CritChance was 0.00).
+[22:10:20	]Marco Polo has hit npc_vj_hla_zombiegunner dealing 85 damage (CritChance was 0.48).
+[22:10:24	]Marco Polo has critically hit npc_vj_hla_hcrab dealing 104 damage (CritChance was 0.48).
+[22:10:43	]Marco Polo ran 'Repair' on item 'Urban Autocrat - Armored' (#3307126)
+[22:11:00	]Marco Polo has spawned a 'Entity [453][npc_caveguard_burrowed]'.
+[22:11:16	]Marco Polo used command '/ToggleRaise'.
+[22:11:18	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.61).
+[22:11:18	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.61).
+[22:11:19	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.61).
+[22:11:19	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.61).
+[22:11:19	]Marco Polo has taken 20 damage from npc_antlionguard.
+[22:11:19	]Marco Polo has taken 85 damage from npc_antlionguard.
+[22:11:21	]Marco Polo has gained level 1 in the Guns skill.
+[22:11:21	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.61).
+[22:11:22	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.61).
+[22:11:22	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.61).
+[22:11:23	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.61).
+[22:11:30	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.61).
+[22:11:31	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.61).
+[22:11:31	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.61).
+[22:11:31	]Marco Polo has gained level 2 in the Guns skill.
+[22:11:31	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.61).
+[22:11:33	]Marco Polo has taken 20 damage from npc_antlionguard.
+[22:11:34	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.61).
+[22:11:34	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.61).
+[22:11:35	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.61).
+[22:11:35	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.61).
+[22:11:35	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.61).
+[22:11:35	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.61).
+[22:11:35	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.61).
+[22:11:35	]Marco Polo has gained level 3 in the Guns skill.
+[22:11:35	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.61).
+[22:11:35	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.62).
+[22:11:36	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.62).
+[22:11:40	]Marco Polo has taken 20 damage from npc_antlionguard.
+[22:11:42	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.62).
+[22:11:42	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.62).
+[22:11:43	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.62).
+[22:11:43	]Marco Polo has taken 20 damage from npc_antlionguard.
+[22:11:43	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.62).
+[22:11:43	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.62).
+[22:11:43	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.62).
+[22:11:44	]Marco Polo has gained level 4 in the Guns skill.
+[22:11:44	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.62).
+[22:11:45	]Marco Polo was knocked unconscious and is bleeding out.
+[22:11:51	]Marco Polo is no longer unconscious from critical wounds.
+[22:11:51	]Marco Polo is fully healed.
+[22:11:53	]Marco Polo used command '/CharStopBleedout ^'.
+[22:11:53	]Marco Polo entered observer.
+[22:11:55	]Marco Polo exited observer.
+[22:11:58	][IC] Marco Polo: !unadmni.
+[22:12:06	]Marco Polo has spawned a 'Entity [460][npc_antlionguard_burrowed]'.
+[22:12:09	]Marco Polo has spawned a 'Entity [465][npc_fastzombie_slump_a]'.
+[22:12:13	]Marco Polo used command '/ToggleRaise'.
+[22:12:19	]Marco Polo has fired a toolgun with the name: creator
+[22:12:19	]Marco Polo has spawned a 'Weapon [467][arccw_ur_g3]'.
+[22:12:20	]Marco Polo has fired a toolgun with the name: creator
+[22:12:20	]Marco Polo has spawned a 'Weapon [469][arccw_ur_g3]'.
+[22:12:20	]Marco Polo has fired a toolgun with the name: creator
+[22:12:20	]Marco Polo has spawned a 'Weapon [470][arccw_ur_g3]'.
+[22:12:22	]Marco Polo used command '/ToggleRaise'.
+[22:12:23	]Marco Polo has taken 5 damage from sleeping_zomb711.
+[22:12:24	]Marco Polo has critically hit npc_fastzombie dealing 19 damage (CritChance was 0.63).
+[22:12:25	]Marco Polo has critically hit npc_fastzombie in the head dealing 22 damage (CritChance was 0.12).
+[22:12:26	]Marco Polo is fully healed.
+[22:12:27	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.63).
+[22:12:27	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.63).
+[22:12:30	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.63).
+[22:12:30	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.63).
+[22:12:30	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.63).
+[22:12:30	]Marco Polo has gained level 5 in the Guns skill.
+[22:12:30	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.63).
+[22:12:30	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.64).
+[22:12:31	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.64).
+[22:12:31	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.64).
+[22:12:31	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.64).
+[22:12:31	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.64).
+[22:12:31	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.64).
+[22:12:31	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.64).
+[22:12:32	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.64).
+[22:12:32	]Marco Polo has gained level 6 in the Guns skill.
+[22:12:32	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.64).
+[22:12:32	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.64).
+[22:12:32	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.64).
+[22:12:37	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.64).
+[22:12:38	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.64).
+[22:12:38	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.64).
+[22:12:40	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.64).
+[22:12:40	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.64).
+[22:12:40	]Marco Polo has gained level 7 in the Guns skill.
+[22:12:40	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.64).
+[22:12:40	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.65).
+[22:12:40	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.65).
+[22:12:41	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.65).
+[22:12:41	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.65).
+[22:12:41	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.65).
+[22:12:41	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.65).
+[22:12:46	]Marco Polo has spawned a 'Entity [460][npc_caveguard_burrowed]'.
+[22:12:58	]Marco Polo used command '/ToggleRaise'.
+[22:13:04	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.65).
+[22:13:05	]Marco Polo has gained level 8 in the Guns skill.
+[22:13:05	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.65).
+[22:13:05	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.65).
+[22:13:05	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.65).
+[22:13:05	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.65).
+[22:13:05	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.65).
+[22:13:06	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.65).
+[22:13:06	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.65).
+[22:13:06	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.65).
+[22:13:06	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.65).
+[22:13:06	]Marco Polo has gained level 9 in the Guns skill.
+[22:13:06	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.65).
+[22:13:06	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.66).
+[22:13:07	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.66).
+[22:13:07	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.66).
+[22:13:07	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.66).
+[22:13:12	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.66).
+[22:13:12	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.66).
+[22:13:12	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.66).
+[22:13:13	]Marco Polo has gained level 10 in the Guns skill.
+[22:13:13	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.66).
+[22:13:13	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.67).
+[22:13:13	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.67).
+[22:13:13	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.67).
+[22:13:13	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.67).
+[22:13:13	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.67).
+[22:13:13	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.67).
+[22:13:13	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.67).
+[22:13:14	]Marco Polo has hit npc_antlionguard dealing 16 damage (CritChance was 0.67).
+[22:13:14	]Marco Polo has gained level 11 in the Guns skill.
+[22:13:14	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.67).
+[22:13:14	]Marco Polo has critically hit npc_antlionguard dealing 19 damage (CritChance was 0.67).
+[22:13:19	]Marco Polo has spawned a 'Entity [460][npc_zombine_slump_attack]'.
+[22:13:20	]Marco Polo has spawned a 'Entity [469][npc_zombine_slump_attack]'.
+[22:13:20	]Marco Polo has spawned a 'Entity [473][npc_zombine_slump_attack]'.
+[22:13:20	]Marco Polo has spawned a 'Entity [466][npc_zombine_slump_attack]'.
+[22:13:26	]Marco Polo has hit npc_zombine in the right leg dealing 12 damage (CritChance was 0.40).
+[22:13:26	]Marco Polo has hit npc_zombine in the left leg dealing 12 damage (CritChance was 0.40).
+[22:13:27	]Marco Polo has hit npc_zombine in the right leg dealing 12 damage (CritChance was 0.40).
+[22:13:27	]Marco Polo has hit npc_zombine in the right leg dealing 12 damage (CritChance was 0.40).
+[22:13:27	]Marco Polo has hit npc_zombine in the right leg dealing 12 damage (CritChance was 0.40).
+[22:13:27	]Marco Polo has hit npc_zombine in the right leg dealing 12 damage (CritChance was 0.40).
+[22:13:27	]Marco Polo has hit npc_zombine in the head dealing 18 damage (CritChance was 0.13).
+[22:13:28	]Marco Polo has hit npc_zombine in the chest dealing 18 damage (CritChance was 0.40).
+[22:13:28	]Marco Polo has critically hit npc_zombine in the left leg dealing 16 damage (CritChance was 0.40).
+[22:13:28	]Marco Polo has critically hit npc_zombine in the left leg dealing 16 damage (CritChance was 0.40).
+[22:13:28	]Marco Polo has hit npc_zombine in the left leg dealing 12 damage (CritChance was 0.40).
+[22:13:28	]Marco Polo has hit npc_zombine in the right arm dealing 12 damage (CritChance was 0.40).
+[22:13:28	]Marco Polo has hit npc_zombine in the right arm dealing 12 damage (CritChance was 0.40).
+[22:13:28	]Marco Polo has hit npc_zombine in the left leg dealing 12 damage (CritChance was 0.40).
+[22:13:28	]Marco Polo has hit npc_zombine in the chest dealing 18 damage (CritChance was 0.40).
+[22:13:28	]Marco Polo has hit npc_zombine in the chest dealing 18 damage (CritChance was 0.40).
+[22:13:28	]Marco Polo has hit npc_zombine in the left arm dealing 12 damage (CritChance was 0.40).
+[22:13:28	]Marco Polo has hit npc_zombine in the head dealing 18 damage (CritChance was 0.13).
+[22:13:28	]Marco Polo has gained level 12 in the Guns skill.
+[22:13:28	]Marco Polo has hit npc_zombine in the head dealing 18 damage (CritChance was 0.13).
+[22:13:35	]Marco Polo has spawned a 'Entity [458][npc_zombine_slump]'.
+[22:13:36	]Marco Polo has hit npc_zombine in the chest dealing 18 damage (CritChance was 0.39).
+[22:13:36	]Marco Polo has critically hit npc_zombine in the chest dealing 19 damage (CritChance was 0.39).
+[22:13:37	]Marco Polo has hit npc_zombine in the left leg dealing 12 damage (CritChance was 0.41).
+[22:13:37	]Marco Polo has critically hit npc_zombine in the left leg dealing 16 damage (CritChance was 0.41).
+[22:13:37	]Marco Polo has critically hit npc_zombine in the chest dealing 19 damage (CritChance was 0.41).
+[22:13:37	]Marco Polo has critically hit npc_zombine in the chest dealing 19 damage (CritChance was 0.41).
+[22:13:38	]Marco Polo has critically hit npc_zombine in the chest dealing 19 damage (CritChance was 0.41).
+[22:13:42	]Marco Polo has taken 62 damage from sleeping_zomb748.
+[22:13:42	]sleeping_zomb748 destroyed a 'Health Kit' #3307310.
+[22:13:46	]Marco Polo is fully healed.
+[22:13:47	]Marco Polo has spawned a 'Entity [447][npc_antlionworker_burrowed]'.
+[22:13:51	]Marco Polo has critically hit npc_antlion dealing 19 damage (CritChance was 0.68).
+[22:13:51	]Marco Polo has gained level 13 in the Guns skill.
+[22:13:51	]Marco Polo has critically hit npc_antlion dealing 19 damage (CritChance was 0.68).
+[22:13:51	]Marco Polo has critically hit npc_antlion dealing 19 damage (CritChance was 0.68).
+[22:13:51	]Marco Polo has critically hit npc_antlion dealing 19 damage (CritChance was 0.68).
+[22:14:00	]Marco Polo used command '/ToggleRaise'.
+[22:14:01	]Marco Polo used command '/ToggleRaise'.
+[22:14:03	]Marco Polo used command '/ToggleRaise'.
+[22:14:26	]Marco Polo used command '/ToggleRaise'.
+[22:14:28	]Marco Polo has spawned a 'Entity [464][npc_caveguard_burrowed]'.
+[22:14:33	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:33	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:33	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:34	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:34	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:34	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:34	]Marco Polo has gained level 14 in the Guns skill.
+[22:14:34	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:34	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:34	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:34	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:34	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:34	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:34	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:35	]Marco Polo has gained level 15 in the Guns skill.
+[22:14:35	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:35	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:35	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:35	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:35	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:35	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:36	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:36	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:36	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:36	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:36	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:36	]Marco Polo has gained level 16 in the Guns skill.
+[22:14:36	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:36	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:36	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:37	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:37	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:37	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:37	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:37	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:37	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:37	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:38	]Marco Polo has gained level 17 in the Guns skill.
+[22:14:38	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:38	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:38	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:38	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:38	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:38	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:38	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:38	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:38	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:38	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:38	]Marco Polo has gained level 18 in the Guns skill.
+[22:14:38	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:38	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:47	]Marco Polo has taken 20 damage from npc_antlionguard.
+[22:14:47	]Marco Polo has taken 88 damage from npc_antlionguard.
+[22:14:49	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:49	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:49	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:51	]Marco Polo has spawned a 'Entity [466][npc_antlionguard_burrowed]'.
+[22:14:52	]Marco Polo has spawned a 'Entity [464][npc_antlionguard_burrowed]'.
+[22:14:58	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:58	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:58	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:58	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:58	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:58	]Marco Polo has gained level 19 in the Guns skill.
+[22:14:58	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:58	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:58	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:58	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:58	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:58	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:58	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:14:58	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:14:58	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:00	]Marco Polo has gained level 20 in the Guns skill.
+[22:15:00	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:00	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:00	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:00	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:00	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:00	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:00	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:01	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:01	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:01	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:01	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:01	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:01	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:01	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:01	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:02	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:02	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:02	]Marco Polo has gained level 21 in the Guns skill.
+[22:15:02	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:02	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:02	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:02	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:02	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:02	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:02	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:02	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:02	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:02	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:02	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:02	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:02	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:03	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:03	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:03	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:03	]Marco Polo has gained level 22 in the Guns skill.
+[22:15:03	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:03	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:04	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:04	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:04	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:04	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:04	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:04	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:04	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:04	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:11	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:11	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:11	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:11	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:11	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:11	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:11	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:11	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:22	]Marco Polo has gained level 23 in the Guns skill.
+[22:15:22	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:22	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:22	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:22	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:22	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:22	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:22	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:23	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:24	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:24	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:24	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:24	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:26	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:26	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:26	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:26	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:26	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:26	]Marco Polo has gained level 24 in the Guns skill.
+[22:15:26	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:27	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:27	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:27	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:27	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:27	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:27	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:27	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:30	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:30	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:31	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:31	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:31	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:31	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:31	]Marco Polo has hit npc_antlionguard dealing 9 damage (CritChance was 0.60).
+[22:15:31	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:31	]Marco Polo has critically hit npc_antlionguard dealing 11 damage (CritChance was 0.60).
+[22:15:43	]Marco Polo used command '/ToggleRaise'.
+[22:15:46	]Marco Polo has gained a 'Bone' #3307329.
+[22:15:48	]Marco Polo has gained a 'Bone' #3307330.
+[22:15:50	]Marco Polo has gained a 'Raw Antlion Meat' #3307331.
+[22:15:51	]Marco Polo has gained a 'Raw Antlion Meat' #3307332.
+[22:15:53	]Marco Polo has gained a 'Raw Antlion Meat' #3307333.
+[22:15:54	]Marco Polo has gained a 'Bone' #3307334.
+[22:15:56	]Marco Polo has gained a 'Raw Antlion Meat' #3307335.
+[22:15:57	]Marco Polo has gained a 'Bone' #3307336.
+[22:15:59	]Marco Polo has gained a 'Bone' #3307337.
+[22:16:02	]Marco Polo has gained a 'Raw Antlion Meat' #3307338.
+[22:16:06	]Marco Polo ran 'drop' on item 'Raw Antlion Meat' (#3307331)
+[22:16:06	]Marco Polo has lost a 'Raw Antlion Meat' #3307331.
+[22:16:09	]Marco Polo ran 'drop' on item 'Bone' (#3307329)
+[22:16:09	]Marco Polo has lost a 'Bone' #3307329.
+[22:16:14	]Marco Polo destroyed a 'Bone' #3307329.
+[22:16:16	]Marco Polo destroyed a 'Raw Antlion Meat' #3307331.
+[22:16:16	]Marco Polo used command '/ToggleRaise'.
+[22:16:21	]Marco Polo used command '/ToggleRaise'.
+[22:16:23	]Marco Polo has spawned a 'Entity [467][npc_caveguard_burrowed]'.
+[22:16:24	]Marco Polo has spawned a 'Entity [472][npc_caveguard_burrowed]'.
+[22:16:25	]Marco Polo has spawned a 'Entity [476][npc_caveguard_burrowed]'.
+[22:16:31	]Marco Polo has hit npc_antlionguard dealing 44 damage (CritChance was 0.00).
+[22:16:31	]Marco Polo is fully healed.
+[22:16:34	]Marco Polo has gained level 25 in the Guns skill.
+[22:16:34	]Marco Polo has hit npc_antlionguard dealing 44 damage (CritChance was 0.00).
+[22:16:35	]Marco Polo has taken 20 damage from npc_antlionguard.
+[22:16:35	]Marco Polo has taken 88 damage from npc_antlionguard.
+[22:16:59	]Marco Polo has gained level 50 in the Guns skill.
+[22:16:59	]Marco Polo used command '/CharSkillSet ^ guns 50'.
+[22:17:07	]Marco Polo has hit npc_antlionguard dealing 44 damage (CritChance was 0.00).
+[22:17:09	]Marco Polo exited observer.
+[22:17:10	]Marco Polo has hit npc_antlionguard dealing 44 damage (CritChance was 0.00).
+[22:17:11	]Marco Polo has taken 20 damage from npc_antlionguard.
+[22:17:12	]Marco Polo entered observer.
+[22:17:15	]Marco Polo exited observer.
+[22:18:24	]Marco Polo has spawned a PRANKED!.
+[22:18:27	]Marco Polo has spawned a Rabit_test.
+[22:18:31	]Marco Polo destroyed a 'A surprise Item' #3307340.
+[22:18:33	]Marco Polo destroyed a 'PRANKED' #3307339.
+[22:18:36	]Marco Polo has spawned a propagandaworkdesk.
+[22:18:45	]Marco Polo has spawned a garbagebag.
+[22:18:48	]Marco Polo ran 'take' on item 'Garbage Bag' (#3307342)
+[22:18:48	]Marco Polo has gained a 'Garbage Bag' #3307342.
+[22:18:51	]Marco Polo ran 'drop' on item 'Garbage Bag' (#3307342)
+[22:18:51	]Marco Polo has lost a 'Garbage Bag' #3307342.
+[22:18:54	]Marco Polo has spawned a xushi_the_meal_improved.
+[22:18:59	]Marco Polo ran 'take' on item ''The Meal'' (#3307343)
+[22:18:59	]Marco Polo has gained a ''The Meal'' #3307343.
+[22:19:01	]Marco Polo ran 'drop' on item ''The Meal'' (#3307343)
+[22:19:01	]Marco Polo has lost a ''The Meal'' #3307343.
+[22:19:01	]Marco Polo destroyed a ''The Meal'' #3307343.
+[22:19:02	]Marco Polo has spawned a xushi_the_meal.
+[22:19:03	]Marco Polo destroyed a ''The Meal'' #3307344.
+[22:19:09	]Marco Polo has spawned a 'NPC [467][npc_vj_hla_antlion]'.
+[22:19:13	]Marco Polo has hit npc_vj_hla_antlion dealing 179 damage (CritChance was 0.00).
+[22:19:20	]Marco Polo has fired a toolgun with the name: creator
+[22:19:20	]Marco Polo has spawned a 'Weapon [468][arccw_gauss_rifle]'.
+[22:19:20	]Marco Polo has fired a toolgun with the name: creator
+[22:19:20	]Marco Polo has spawned a 'Weapon [469][arccw_gauss_rifle]'.
+[22:19:29	]Marco Polo used command '/ToggleRaise'.
+[22:19:36	]Marco Polo has taken 13 damage from Antlion.
+[22:19:45	]Marco Polo has hit npc_vj_hla_antlion dealing 179 damage (CritChance was 0.00).
+[22:19:49	]Marco Polo has fired a toolgun with the name: creator
+[22:19:49	]Marco Polo has spawned a 'Weapon [468][arccw_gauss_rifle]'.
+[22:19:49	]Marco Polo has fired a toolgun with the name: creator
+[22:19:49	]Marco Polo has spawned a 'Weapon [470][arccw_gauss_rifle]'.
+[22:19:59	]Marco Polo used command '/ToggleRaise'.
+[22:20:01	]Marco Polo used command '/ToggleRaise'.
+[22:20:03	]Marco Polo entered observer.
+[22:20:03	]Marco Polo exited observer.
+[22:20:05	]Marco Polo has taken 13 damage from Antlion.
+[22:20:16	]Marco Polo used command '/ToggleRaise'.
+[22:20:21	]Marco Polo has taken 13 damage from Antlion.
+[22:20:24	]Marco Polo has hit npc_vj_hla_antlion dealing 179 damage (CritChance was 0.00).
+[22:20:36	]Marco Polo was knocked unconscious and is bleeding out.
+[22:20:41	]Marco Polo is no longer unconscious from critical wounds.
+[22:20:41	]Marco Polo is fully healed.
+[22:20:46	]Marco Polo used command '/CharStopBleedout ^'.
+[22:20:49	]Marco Polo used command '/ToggleRaise'.
+[22:20:57	]Marco Polo has hit npc_vj_hla_antlion dealing 179 damage (CritChance was 0.00).
+[22:21:05	]Marco Polo has hit npc_vj_hla_antlion in the head dealing 199 damage (CritChance was 0.00).
+[22:21:13	]Marco Polo has spawned a 'NPC [467][npc_vj_hla_antlion]'.
+[22:21:21	]Marco Polo has taken 17 damage from Antlion.
+[22:21:21	]Marco Polo is fully healed.
+[22:21:22	]Marco Polo has taken 13 damage from Antlion.
+[22:21:25	]Marco Polo entered observer.
+[22:21:25	]Marco Polo exited observer.
+[22:21:26	]Marco Polo is fully healed.
+[22:21:28	]Marco Polo has hit npc_vj_hla_antlion in the head dealing 199 damage (CritChance was 0.00).
+[22:21:30	]Marco Polo has spawned a 'NPC [468][npc_vj_hla_antlion_spitter]'.
+[22:21:33	]Marco Polo has taken 17 damage from Antlion Spitter.
+[22:21:36	]Marco Polo is fully healed.
+[22:21:38	]Marco Polo has spawned a 'NPC [467][npc_vj_hla_antlion_spitter]'.
+[22:21:43	]Marco Polo has taken 13 damage from Antlion Spitter.
+[22:21:46	]Marco Polo is fully healed.
+[22:21:48	]Marco Polo has hit npc_vj_hla_antlion_spitter in the head dealing 199 damage (CritChance was 0.00).
+[22:21:51	]Marco Polo has spawned a 'NPC [467][npc_vj_hla_ocrab]'.
+[22:21:54	]Marco Polo has taken 20 damage from April 2020 Headcrab.
+[22:21:56	]Marco Polo is fully healed.
+[22:21:56	]Marco Polo has spawned a 'NPC [468][npc_vj_hla_ocrab]'.
+[22:22:00	]Marco Polo has taken 20 damage from April 2020 Headcrab.
+[22:22:05	]Marco Polo has taken 20 damage from April 2020 Headcrab.
+[22:22:08	]Marco Polo has hit npc_vj_hla_ocrab in the head dealing 199 damage (CritChance was 0.00).
+[22:22:10	]Marco Polo has spawned a 'NPC [467][npc_vj_hla_ahcrab]'.
+[22:22:25	]Marco Polo has taken 10 damage from Armored Headcrab.
+[22:22:33	]Marco Polo has hit npc_vj_hla_ahcrab in the stomach dealing 199 damage (CritChance was 0.00).
+[22:22:35	]Marco Polo has spawned a 'NPC [467][npc_vj_hla_hcrab]'.
+[22:22:43	]Marco Polo has hit npc_vj_hla_hcrab dealing 0 damage (CritChance was 0.00).
+[22:22:43	]Marco Polo has hit npc_vj_hla_hcrab dealing 179 damage (CritChance was 0.00).
+[22:22:55	]Marco Polo has spawned a 'NPC [467][npc_vj_hla_bcrab_hl2]'.
+[22:22:55	]Marco Polo has hit npc_vj_hla_bcrab_hl2 dealing 179 damage (CritChance was 0.00).
+[22:22:59	]Marco Polo has spawned a 'NPC [467][npc_vj_hla_zombieclassic_hl2]'.
+[22:23:00	]Marco Polo has taken 10 damage from HL2 Zombie.
+[22:23:13	]Marco Polo used command '/ToggleRaise'.
+[22:23:17	]Marco Polo has hit npc_vj_hla_zombieclassic_hl2 in the head dealing 45 damage (CritChance was 0.38).
+[22:23:20	]Marco Polo has gained a 'Raw Headcrab Meat' #3307345.
+[22:23:22	]Marco Polo has gained a 'Bone' #3307346.
+[22:23:30	]Marco Polo has spawned a 'NPC [467][npc_vj_hla_fcrab]'.
+[22:23:32	]Marco Polo has hit npc_vj_hla_fcrab dealing 45 damage (CritChance was 0.38).
+[22:23:35	]Marco Polo has spawned a 'NPC [467][npc_vj_hla_fcrab]'.
+[22:23:44	]Marco Polo has critically hit npc_vj_hla_fcrab dealing 36 damage (CritChance was 0.38).
+[22:29:25	]Marco Polo has used a context menu option with the name: statue
+[22:29:37	]Marco Polo has spawned a 'NPC [470][npc_vj_hla_xengp]'.
+[22:30:14	]Marco Polo used command '/ToggleRaise'.
+[22:30:31	]obj_vj_xen_grenade destroyed a 'Combine Propaganda' #3307341.
+[22:30:31	]obj_vj_xen_grenade destroyed a 'Garbage Bag' #3307342.
+[22:30:49	]Marco Polo has spawned a 'NPC [477][npc_vj_hla_zombie_torso_unused]'.
+[22:31:07	]Marco Polo has spawned a 'NPC [460][npc_vj_hla_rcrab]'.
+[22:31:19	]Marco Polo has spawned a 'NPC [460][npc_vj_hla_bcrab]'.
+[22:31:23	]Marco Polo was knocked unconscious and is bleeding out.
+[22:31:31	]Marco Polo used command '/CharStopBleedout ^'.
+[22:31:31	]Marco Polo is no longer unconscious from critical wounds.
+[22:31:31	]Marco Polo is fully healed.
+[22:32:06	]Marco Polo used command '/ToggleRaise'.
+[22:32:08	]Marco Polo has hit npc_vj_hla_hcrab dealing 7 damage (CritChance was 0.00).
+[22:32:08	]Marco Polo has damaged npc_vj_hla_hcrab, dealing 8.5 with ix_hands
+[22:32:08	]Marco Polo has hit npc_vj_hla_hcrab dealing 7 damage (CritChance was 0.00).
+[22:32:08	]Marco Polo has damaged npc_vj_hla_hcrab, dealing 8.5 with ix_hands
+[22:32:09	]Marco Polo has hit npc_vj_hla_hcrab dealing 7 damage (CritChance was 0.00).
+[22:32:09	]Marco Polo has damaged npc_vj_hla_hcrab, dealing 8.5 with ix_hands
+[22:32:12	]Marco Polo used command '/ToggleRaise'.
+[22:32:50	]Marco Polo has used a context menu option with the name: remove
+[22:32:51	]Marco Polo has spawned a dummy_largebomb.
+[22:32:55	]Marco Polo ran 'take' on item 'Large Bomb' (#3307347)
+[22:32:55	]Marco Polo has gained a 'Large Bomb' #3307347.
+[22:33:17	]Marco Polo has spawned a dummy_mediumbomb.
+[22:33:18	]Marco Polo has spawned a dummy_smallbomb.
+[22:33:19	]Marco Polo has spawned a dummy_littlebomb.
+[22:33:20	]Marco Polo ran 'take' on item 'Little Bomb' (#3307350)
+[22:33:20	]Marco Polo has gained a 'Little Bomb' #3307350.
+[22:33:29	]Marco Polo ran 'drop' on item 'Little Bomb' (#3307350)
+[22:33:29	]Marco Polo has lost a 'Little Bomb' #3307350.
+[22:33:30	]Marco Polo ran 'take' on item 'Small Bomb' (#3307349)
+[22:33:30	]Marco Polo has gained a 'Small Bomb' #3307349.
+[22:33:36	]Marco Polo ran 'drop' on item 'Small Bomb' (#3307349)
+[22:33:36	]Marco Polo has lost a 'Small Bomb' #3307349.
+[22:33:40	]Marco Polo ran 'take' on item 'Medium Bomb' (#3307348)
+[22:33:40	]Marco Polo has gained a 'Medium Bomb' #3307348.
+[22:34:16	]Marco Polo has spawned a comp_adhesive.
+[22:37:13	]Marco Polo used command '/ToggleRaise'.
+[22:37:14	]Marco Polo destroyed a 'Little Bomb' #3307350.
+[22:37:15	]Marco Polo destroyed a 'Small Bomb' #3307349.
+[22:37:16	]Marco Polo destroyed a 'Bottle of Strong Adhesive' #3307351.
+[22:37:16	]Marco Polo used command '/ToggleRaise'.
+[22:37:19	]Marco Polo has spawned a blue_crystal.
+[22:37:20	]Marco Polo ran 'take' on item 'Blue Crystal Shard' (#3307352)
+[22:37:20	]Marco Polo has gained a 'Blue Crystal Shard' #3307352.
+[22:37:26	]Marco Polo ran 'drop' on item 'Blue Crystal Shard' (#3307352)
+[22:37:26	]Marco Polo has lost a 'Blue Crystal Shard' #3307352.
+[22:37:31	]Marco Polo ran 'take' on item 'Blue Crystal Shard' (#3307352)
+[22:37:31	]Marco Polo has gained a 'Blue Crystal Shard' #3307352.
+[22:37:32	]Marco Polo has spawned a blue_crystal.
+[22:37:32	]Marco Polo has spawned a blue_crystal.
+[22:37:33	]Marco Polo ran 'take' on item 'Blue Crystal Shard' (#3307354)
+[22:37:33	]Marco Polo has gained a 'Blue Crystal Shard' #3307354.
+[22:37:34	]Marco Polo ran 'take' on item 'Blue Crystal Shard' (#3307353)
+[22:37:34	]Marco Polo has gained a 'Blue Crystal Shard' #3307353.
+[22:37:35	]Marco Polo has spawned a blue_crystal.
+[22:37:35	]Marco Polo ran 'take' on item 'Blue Crystal Shard' (#3307355)
+[22:37:35	]Marco Polo has gained a 'Blue Crystal Shard' #3307355.
+[22:37:45	]Marco Polo ran 'drop' on item 'Blue Crystal Shard' (#3307353)
+[22:37:45	]Marco Polo has lost a 'Blue Crystal Shard' #3307353.
+[22:37:47	]Marco Polo ran 'take' on item 'Blue Crystal Shard' (#3307353)
+[22:37:47	]Marco Polo has gained a 'Blue Crystal Shard' #3307353.
+[22:43:01	]Marco Polo has gone afk.
+[22:52:04	]Marco (STEAM_0:0:39958603) has disconnected.

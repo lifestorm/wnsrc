@@ -1,0 +1,859 @@
+[15:09:17	]Furret No Furry Asimo has connected.
+[15:10:50	]Jei has connected.
+[15:11:55	]Furret No Furry Asimo loaded the character 'Q'
+[15:11:59	]Jei loaded the character 'OVERWATCH'
+[15:12:04	]OVERWATCH is fully healed.
+[15:12:29	]Q has spawned 'models/willardnetworks/citizens/male08.mdl'.
+[15:12:39	]OVERWATCH used command '/ToggleGM'.
+[15:12:40	]Q used command '/CharSetModel ^ models/willardnetworks/citizens/male08.mdl'.
+[15:12:40	]OVERWATCH entered observer.
+[15:12:47	]Q entered observer.
+[15:12:57	]Q exited observer at their location.
+[15:13:04	]OVERWATCH exited observer at their location.
+[15:13:06	]Q ran SAM command 'hp' with arguments: '^' '100'
+[15:13:10	]Q is fully healed.
+[15:13:19	]OVERWATCH has critically hit Q in the chest dealing 86 damage (CritChance was 0.72).
+[15:13:19	]Q has taken 86 damage from OVERWATCH.
+[15:13:21	]Q ran SAM command 'hp' with arguments: '^' '100'
+[15:13:25	]Q is fully healed.
+[15:13:27	]OVERWATCH has critically hit Q in the head dealing 91 damage (CritChance was 0.92).
+[15:13:27	]Q has taken 91 damage from OVERWATCH.
+[15:13:29	]Q ran SAM command 'hp' with arguments: '^' '100'
+[15:13:30	]Q is fully healed.
+[15:13:59	]Q has critically hit OVERWATCH in the chest dealing 20 damage (CritChance was 1.01).
+[15:13:59	]OVERWATCH has taken 20 damage from Q.
+[15:13:59	]OVERWATCH is fully healed.
+[15:14:00	]Q has critically hit OVERWATCH in the head dealing 22 damage (CritChance was 1.01).
+[15:14:00	]OVERWATCH has taken 22 damage from Q.
+[15:14:04	]OVERWATCH is fully healed.
+[15:14:08	]OVERWATCH ran SAM command 'hp' with arguments: '^' '1000'
+[15:14:14	]Q has given himself a zip_tie.
+[15:14:14	]Q has gained a 'Zip Tie' #1648076.
+[15:14:16	]Q has given himself a wn_zip_tie.
+[15:14:16	]Q has gained a 'Zip Tie' #1648077.
+[15:14:25	]Q ran 'Use' on item 'Zip Tie' (#1648077)
+[15:15:38	]OVERWATCH has taken 39 damage from worldspawn.
+[15:15:39	]OVERWATCH is fully healed.
+[15:16:02	]Q ran 'Use' on item 'Zip Tie' (#1648076)
+[15:16:19	]Q has given himself a zip_tie.
+[15:16:19	]Q has gained a 'Zip Tie' #1648078.
+[15:16:20	]Q has given himself a wn_zip_tie.
+[15:16:20	]Q has gained a 'Zip Tie' #1648079.
+[15:16:41	]OVERWATCH has taken 70 damage from worldspawn.
+[15:16:44	]OVERWATCH is fully healed.
+[15:16:55	]Q entered observer.
+[15:17:03	]Q exited observer at their location.
+[15:17:08	]OVERWATCH entered observer.
+[15:17:11	]OVERWATCH exited observer at their location.
+[15:17:14	]Q entered observer.
+[15:17:15	]Q exited observer at their location.
+[15:17:22	]OVERWATCH entered observer.
+[15:17:24	]OVERWATCH exited observer at their location.
+[15:17:36	]Q entered observer.
+[15:17:38	]Q exited observer at their location.
+[15:17:46	]OVERWATCH entered observer.
+[15:17:51	]Q entered observer.
+[15:17:51	]OVERWATCH exited observer at their location.
+[15:17:51	]Q exited observer at their location.
+[15:17:52	]Q entered observer.
+[15:17:53	]Q exited observer at their location.
+[15:17:53	]Q entered observer.
+[15:17:54	]Q exited observer at their location.
+[15:17:54	]Q entered observer.
+[15:17:55	]Q exited observer at their location.
+[15:17:56	]Q entered observer.
+[15:17:57	]Q exited observer at their location.
+[15:18:18	]Q ran 'drop' on item 'Zip Tie' (#1648078)
+[15:18:18	]Q has lost a 'Zip Tie' #1648078.
+[15:18:22	]OVERWATCH ran 'take' on item 'Zip Tie' (#1648078)
+[15:18:22	]OVERWATCH has gained a 'Zip Tie' #1648078.
+[15:18:29	]OVERWATCH ran 'Use' on item 'Zip Tie' (#1648078)
+[15:18:57	]OVERWATCH has used a context menu option with the name: rb655_door_open
+[15:19:12	]OVERWATCH has used a context menu option with the name: rb655_door_open
+[15:20:55	]Q entered observer.
+[15:20:56	]Q exited observer at their location.
+[15:21:06	]OVERWATCH has hit Q in the chest dealing 54 damage (CritChance was 0.63).
+[15:21:06	]Q has taken 54 damage from OVERWATCH.
+[15:21:07	]OVERWATCH has critically hit Q in the chest dealing 0 damage (CritChance was 0.63).
+[15:21:07	]OVERWATCH has critically hit Q in the head dealing 91 damage (CritChance was 0.63).
+[15:21:07	]Q was knocked unconscious and is bleeding out.
+[15:21:10	]OVERWATCH has critically hit Q in the left leg dealing 0 damage (CritChance was 0.63).
+[15:21:10	]OVERWATCH has hit Q in the left leg dealing 45 damage (CritChance was 0.63).
+[15:21:10	]Q was killed while bleeding out.
+[15:21:10	]OVERWATCH has killed Q with player.
+[15:21:23	]Q entered observer.
+[15:21:24	]Q exited observer at their location.
+[15:21:24	]Q entered observer.
+[15:21:24	]Q exited observer at their location.
+[15:21:25	]Q entered observer.
+[15:21:25	]Q exited observer at their location.
+[15:21:25	]Q entered observer.
+[15:21:26	]Q exited observer at their location.
+[15:21:28	]Q entered observer.
+[15:21:28	]Q exited observer at their location.
+[15:21:29	]Q entered observer.
+[15:21:29	]Q exited observer at their location.
+[15:21:30	]Q entered observer.
+[15:21:30	]Q exited observer at their location.
+[15:21:33	]Q entered observer.
+[15:21:34	]Q exited observer at their location.
+[15:21:35	]Q entered observer.
+[15:21:35	]Q exited observer at their location.
+[15:21:35	]Q entered observer.
+[15:21:36	]Q exited observer at their location.
+[15:21:36	]Q entered observer.
+[15:21:37	]Q exited observer at their location.
+[15:21:37	]Q entered observer.
+[15:21:37	]Q exited observer at their location.
+[15:21:37	]Q entered observer.
+[15:21:38	]Q exited observer at their location.
+[15:21:38	]Q entered observer.
+[15:21:39	]Q exited observer at their location.
+[15:21:39	]Q entered observer.
+[15:21:39	]Q exited observer at their location.
+[15:21:40	]Q entered observer.
+[15:21:41	]Q exited observer at their location.
+[15:21:44	]Q has given himself a zip_tie.
+[15:21:44	]Q has gained a 'Zip Tie' #1648080.
+[15:21:55	]Q has spawned a cca_burgundy.
+[15:21:55	]OVERWATCH has spawned a 'Entity [6489][ix_console]'.
+[15:21:57	]Q ran 'take' on item 'Burgundy' (#1648081)
+[15:21:57	]Q has gained a 'Burgundy' #1648081.
+[15:22:06	]Q has given himself a cca_diplomat.
+[15:22:06	]Q has gained a 'The Diplomat' #1648082.
+[15:22:13	]OVERWATCH used command '/PlyWhitelist overwatch ota'.
+[15:22:17	]Q has given himself a casual_orange.
+[15:22:17	]Q has gained a 'Casual Orange' #1648083.
+[15:22:31	]Jei (STEAM_0:1:108198228) deleted character 'Okapi Aed'
+[15:22:41	]Jei (STEAM_0:1:108198228) deleted character 'Kassiro Julia'
+[15:22:53	]Q entered observer.
+[15:22:54	]Q exited observer at their location.
+[15:22:54	]Q entered observer.
+[15:22:54	]Q exited observer at their location.
+[15:22:55	]Q entered observer.
+[15:22:56	]Q exited observer at their location.
+[15:22:56	]Q entered observer.
+[15:22:59	]Q exited observer at their location.
+[15:23:00	]Q entered observer.
+[15:23:00	]Q exited observer at their location.
+[15:23:00	]Q entered observer.
+[15:23:01	]Q exited observer at their location.
+[15:23:01	]Q entered observer.
+[15:23:02	]Q exited observer at their location.
+[15:23:03	]Q entered observer.
+[15:23:05	]Q exited observer at their location.
+[15:23:05	]Q entered observer.
+[15:23:05	]Q exited observer at their location.
+[15:23:06	]Q entered observer.
+[15:23:06	]Q exited observer at their location.
+[15:23:07	]Q entered observer.
+[15:23:07	]Q exited observer at their location.
+[15:23:07	]Q entered observer.
+[15:23:08	]Q exited observer at their location.
+[15:23:09	]Q entered observer.
+[15:23:09	]Q exited observer at their location.
+[15:23:09	]Q entered observer.
+[15:23:09	]Q exited observer at their location.
+[15:23:10	]Q entered observer.
+[15:23:10	]Q exited observer at their location.
+[15:23:10	]Q entered observer.
+[15:23:11	]Q exited observer at their location.
+[15:23:11	]Q entered observer.
+[15:23:14	]Q exited observer at their location.
+[15:23:33	]Jei created the character 'S10/OWS.GHOST-59'
+[15:23:33	]OVERWATCH has gained level 40 in the Guns skill.
+[15:23:33	]OVERWATCH has gained level 40 in the Speed skill.
+[15:23:33	]Jei loaded the character 'S10/OWS.GHOST-59'
+[15:23:33	]S10/OWS.GHOST-59 has gained a 'Small Bag' #1648084.
+[15:23:33	]S10/OWS.GHOST-59 has gained a 'Large Bag' #1648085.
+[15:23:33	]S10/OWS.GHOST-59 has gained a 'Pulse-Rifle Energy' #1648086.
+[15:23:33	]S10/OWS.GHOST-59 has gained a 'Pulse-Rifle Energy' #1648087.
+[15:23:33	]S10/OWS.GHOST-59 has gained a 'Pulse-Rifle Energy' #1648088.
+[15:23:33	]S10/OWS.GHOST-59 has gained a 'Pulse-Rifle Energy' #1648089.
+[15:23:33	]S10/OWS.GHOST-59 has gained a 'Combine PDA' #1648090.
+[15:23:33	]S10/OWS.GHOST-59 has gained a 'OTA Uniform' #1648091.
+[15:23:33	]S10/OWS.GHOST-59 has gained a 'OTA Mask' #1648092.
+[15:23:39	]S10/OWS.GHOST-59 entered observer.
+[15:23:46	]S10/OWS.GHOST-59 exited observer at their location.
+[15:23:47	]S10/OWS.GHOST-59 entered observer.
+[15:23:54	]S10/OWS.GHOST-59 exited observer at their location.
+[15:24:39	]Q entered observer.
+[15:24:39	]Q exited observer at their location.
+[15:24:40	]Q entered observer.
+[15:24:40	]Q exited observer at their location.
+[15:24:41	]Q entered observer.
+[15:24:42	]Q exited observer at their location.
+[15:24:42	]Q entered observer.
+[15:24:42	]Q exited observer at their location.
+[15:24:43	]Q entered observer.
+[15:24:43	]Q exited observer at their location.
+[15:24:43	]Q entered observer.
+[15:24:44	]Q exited observer at their location.
+[15:24:44	]Q entered observer.
+[15:24:58	]S10/OWS.GHOST-59 has spawned a 'Entity [6491][ix_intercom]'.
+[15:25:00	]S10/OWS.GHOST-59 has spawned a 'Entity [6492][ix_intercom]'.
+[15:25:02	]Q has fired a toolgun with the name: dynamite
+[15:25:02	]S10/OWS.GHOST-59 was knocked unconscious and is bleeding out.
+[15:25:03	]S10/OWS.GHOST-59 has spawned a 'Entity [6492][ix_forcefield]'.
+[15:25:13	]S10/OWS.GHOST-59 used command '/CharStopBleedout s10'.
+[15:25:18	]S10/OWS.GHOST-59 ran SAM command 'hp' with arguments: 's10' '1000'
+[15:25:27	]S10/OWS.GHOST-59 has spawned a 'Entity [6503][ix_combinemonitor]'.
+[15:25:36	]S10/OWS.GHOST-59 has spawned a 'Entity [6510][ix_medical_computer]'.
+[15:25:39	]S10/OWS.GHOST-59 has spawned a 'Entity [6511][ix_newspaperprinter]'.
+[15:25:39	]Q has given himself a wn_zip_tie.
+[15:25:39	]Q has gained a 'Zip Tie' #1648093.
+[15:25:40	]Q has given himself a wn_zip_tie.
+[15:25:40	]Q has gained a 'Zip Tie' #1648094.
+[15:25:40	]S10/OWS.GHOST-59 has spawned a 'Entity [6513][ix_npcspawner]'.
+[15:25:42	]S10/OWS.GHOST-59 has spawned a 'Entity [6514][ix_pickupcache]'.
+[15:25:43	]Q has given himself a wn_zip_tie.
+[15:25:43	]Q has gained a 'Zip Tie' #1648095.
+[15:25:44	]Q has given himself a wn_zip_tie.
+[15:25:44	]Q has gained a 'Zip Tie' #1648096.
+[15:25:45	]S10/OWS.GHOST-59 has spawned a 'Entity [6515][ix_watercache]'.
+[15:25:47	]S10/OWS.GHOST-59 has spawned a 'Entity [6517][ix_customvendingmachine]'.
+[15:25:50	]S10/OWS.GHOST-59 has spawned a 'Entity [6521][ix_smuggler]'.
+[15:25:51	]S10/OWS.GHOST-59 has spawned a 'Entity [6522][ix_trashcollector]'.
+[15:25:53	]S10/OWS.GHOST-59 has spawned a 'Entity [6526][ix_scanner]'.
+[15:26:00	]S10/OWS.GHOST-59 entered observer.
+[15:26:18	]S10/OWS.GHOST-59 exited observer at their location.
+[15:26:21	]Q exited observer at their location.
+[15:26:27	]S10/OWS.GHOST-59 has spawned a 'Entity [6512][ix_scanner]'.
+[15:26:36	]Q has spawned a 'Entity [6500][ix_scanner]'.
+[15:26:57	]Q used command '/Dispatch SUCK MY NUTS'.
+[15:26:58	]Q used command '/Dispatch SUCK MY NUTS'.
+[15:27:00	]Q entered observer.
+[15:27:00	]Q entered observer.
+[15:27:00	]Q entered observer.
+[15:27:01	]Q entered observer.
+[15:27:01	]Q entered observer.
+[15:27:02	]Q entered observer.
+[15:27:03	]Q entered observer.
+[15:27:03	]Q entered observer.
+[15:27:08	]Q ran SAM command 'respawn' with arguments: '*'
+[15:27:09	]S10/OWS.GHOST-59 used command '/Dispatch shes clean'.
+[15:27:19	]S10/OWS.GHOST-59 entered observer.
+[15:27:24	]Q entered observer.
+[15:27:25	]Q exited observer at their location.
+[15:27:25	]Q entered observer.
+[15:27:26	]Q exited observer at their location.
+[15:27:26	]Q entered observer.
+[15:27:27	]Q exited observer at their location.
+[15:27:27	]Q entered observer.
+[15:27:27	]Q exited observer at their location.
+[15:27:28	]Q entered observer.
+[15:27:28	]Q exited observer at their location.
+[15:27:28	]Q entered observer.
+[15:27:29	]Q exited observer at their location.
+[15:27:31	]S10/OWS.GHOST-59 exited observer at their location.
+[15:28:04	]S10/OWS.GHOST-59 used command '/Dispatch Test'.
+[15:28:05	]S10/OWS.GHOST-59 used command '/Dispatch Test'.
+[15:28:13	]S10/OWS.GHOST-59 has spawned a 'Entity [6500][ix_infestation_tank]'.
+[15:28:43	]Q entered observer.
+[15:28:43	]Q exited observer at their location.
+[15:28:44	]Q entered observer.
+[15:28:45	]Q exited observer at their location.
+[15:28:45	]Q entered observer.
+[15:28:45	]Q exited observer at their location.
+[15:28:46	]Q entered observer.
+[15:28:51	]Q exited observer at their location.
+[15:28:51	]Q entered observer.
+[15:28:52	]Q exited observer at their location.
+[15:28:52	]Q entered observer.
+[15:28:53	]Q exited observer at their location.
+[15:28:53	]Q entered observer.
+[15:29:01	]Q exited observer at their location.
+[15:29:01	]Q entered observer.
+[15:29:02	]Q exited observer at their location.
+[15:29:02	]Q entered observer.
+[15:29:03	]Q exited observer at their location.
+[15:29:03	]Q entered observer.
+[15:29:03	]Q exited observer at their location.
+[15:29:04	]Q entered observer.
+[15:29:04	]Q exited observer at their location.
+[15:29:05	]Q entered observer.
+[15:29:06	]Q exited observer at their location.
+[15:29:07	]Q entered observer.
+[15:29:07	]Q exited observer at their location.
+[15:29:25	]S10/EOW.QUEEN-03 used command '/CharSetName S10/OWS.GHOST-59 S10/EOW.QUEEN-03'.
+[15:29:41	]S10/EOW.QUEEN-03 used command '/Dispatch Test'.
+[15:29:41	]S10/EOW.QUEEN-03 used command '/Dispatch Test'.
+[15:29:53	]S10/EOW.QUEEN-03 entered observer.
+[15:30:08	]S10/EOW.QUEEN-03 exited observer at their location.
+[15:31:20	]Q entered observer.
+[15:31:20	]Q exited observer at their location.
+[15:31:21	]Q entered observer.
+[15:31:21	]Q exited observer at their location.
+[15:31:22	]Q entered observer.
+[15:31:22	]Q exited observer at their location.
+[15:31:22	]Q entered observer.
+[15:31:22	]Q exited observer at their location.
+[15:31:23	]Q entered observer.
+[15:31:23	]Q exited observer at their location.
+[15:31:23	]Q entered observer.
+[15:31:24	]Q exited observer at their location.
+[15:31:24	]Q entered observer.
+[15:31:24	][IC] S10/EOW.QUEEN-03: <:: Is at code. Apex. ::>
+[15:31:24	]Q exited observer at their location.
+[15:31:26	]Q entered observer.
+[15:31:26	]S10/EOW.QUEEN-03 entered observer.
+[15:31:26	]Q exited observer at their location.
+[15:31:27	]Q entered observer.
+[15:31:27	]Q exited observer at their location.
+[15:31:27	]Q entered observer.
+[15:31:27	]Q exited observer at their location.
+[15:31:28	]S10/EOW.QUEEN-03 exited observer at their location.
+[15:31:28	]Q entered observer.
+[15:31:29	]Q exited observer at their location.
+[15:31:29	]Q entered observer.
+[15:31:30	]Q exited observer at their location.
+[15:31:31	]Q entered observer.
+[15:31:36	]Q exited observer at their location.
+[15:31:36	]Q entered observer.
+[15:31:36	]Q exited observer at their location.
+[15:31:37	]Q entered observer.
+[15:31:37	]Q exited observer at their location.
+[15:31:38	]Q entered observer.
+[15:31:38	]Q exited observer at their location.
+[15:31:38	]Q entered observer.
+[15:31:39	]Q exited observer at their location.
+[15:31:39	]Q entered observer.
+[15:31:39	]Q exited observer at their location.
+[15:31:40	]Q entered observer.
+[15:31:40	]Q exited observer at their location.
+[15:31:40	]Q entered observer.
+[15:31:41	]Q exited observer at their location.
+[15:31:41	]Q entered observer.
+[15:31:41	]Q exited observer at their location.
+[15:31:42	]Q entered observer.
+[15:31:42	]Q exited observer at their location.
+[15:31:43	]Q entered observer.
+[15:31:43	]Q exited observer at their location.
+[15:31:43	]Q entered observer.
+[15:31:43	]Q exited observer at their location.
+[15:31:44	]Q entered observer.
+[15:31:44	]Q exited observer at their location.
+[15:31:45	]Q entered observer.
+[15:31:48	]Q exited observer at their location.
+[15:31:48	]Q entered observer.
+[15:31:50	]Q exited observer at their location.
+[15:31:51	]Q entered observer.
+[15:31:51	]Q exited observer at their location.
+[15:31:52	]Q entered observer.
+[15:31:53	]Q exited observer at their location.
+[15:31:53	]Q entered observer.
+[15:31:54	]Q exited observer at their location.
+[15:31:55	]Q entered observer.
+[15:31:56	]Q exited observer at their location.
+[15:31:56	]Q entered observer.
+[15:32:02	]Q exited observer at their location.
+[15:32:03	]Q entered observer.
+[15:32:03	]Q exited observer at their location.
+[15:32:03	]Q entered observer.
+[15:32:04	]Q exited observer at their location.
+[15:32:04	]Q entered observer.
+[15:32:05	]Q exited observer at their location.
+[15:32:06	]Q entered observer.
+[15:32:06	]Q exited observer at their location.
+[15:32:08	]Q entered observer.
+[15:32:10	]Q exited observer at their location.
+[15:32:10	]Q entered observer.
+[15:32:19	]Q exited observer at their location.
+[15:32:19	]Q entered observer.
+[15:32:20	]Q exited observer at their location.
+[15:32:20	]Q entered observer.
+[15:32:20	]Q exited observer at their location.
+[15:32:21	]Q entered observer.
+[15:33:00	]S10/EOW.QUEEN-03 has given himself a suppressionrifle.
+[15:33:00	]S10/EOW.QUEEN-03 has gained a 'OSPR2A-EXP' #1648100.
+[15:33:02	]S10/EOW.QUEEN-03 ran 'Equip' on item 'OSPR2A-EXP' (#1648100)
+[15:33:04	]Q has given himself a pulse.
+[15:33:04	]Q has gained a 'AR-2' #1648101.
+[15:33:06	]Q ran 'Equip' on item 'AR-2' (#1648101)
+[15:33:09	]Q exited observer at their location.
+[15:33:14	]S10/EOW.QUEEN-03 has given himself a pulse.
+[15:33:14	]S10/EOW.QUEEN-03 has gained a 'AR-2' #1648102.
+[15:33:16	]S10/EOW.QUEEN-03 ran 'drop' on item 'OSPR2A-EXP' (#1648100)
+[15:33:16	]S10/EOW.QUEEN-03 has lost a 'OSPR2A-EXP' #1648100.
+[15:33:20	]S10/EOW.QUEEN-03 has given himself a pulse.
+[15:33:20	]S10/EOW.QUEEN-03 has gained a 'AR-2' #1648103.
+[15:33:21	]S10/EOW.QUEEN-03 ran 'Equip' on item 'AR-2' (#1648103)
+[15:33:27	]S10/EOW.QUEEN-03 has used a context menu option with the name: rb655_dissolve
+[15:33:29	]env_entity_dissolver destroyed a 'OSPR2A-EXP' #1648100.
+[15:33:31	]Q has given himself a magazine_pulse_30rnd.
+[15:33:31	]Q has gained a '30rnd Pulse-magazine' #1648104.
+[15:33:31	]Q has given himself a magazine_pulse_30rnd.
+[15:33:32	]Q has gained a '30rnd Pulse-magazine' #1648105.
+[15:33:32	]Q has given himself a bullets_pulse.
+[15:33:32	]Q has gained a 'Pulse Rifle Bullets' #1648106.
+[15:33:33	]Q has given himself a bullets_pulse.
+[15:33:33	]Q has gained a 'Pulse Rifle Bullets' #1648107.
+[15:33:35	]Q ran 'combine' on item '30rnd Pulse-magazine' (#1648104)
+[15:33:35	]Q ran 'combine' on item '30rnd Pulse-magazine' (#1648105)
+[15:33:36	]Q has lost a '30rnd Pulse-magazine' #1648105.
+[15:33:37	]S10/EOW.QUEEN-03 ran 'use' on item 'Pulse-Rifle Energy' (#1648086)
+[15:33:38	]S10/EOW.QUEEN-03 ran 'use' on item 'Pulse-Rifle Energy' (#1648087)
+[15:33:38	]S10/EOW.QUEEN-03 ran 'use' on item 'Pulse-Rifle Energy' (#1648088)
+[15:33:39	][FF:1669901409] Q set as active participant.
+[15:33:39	][FF:1669901409] S10/EOW.QUEEN-03 set as active participant.
+[15:33:39	][FF] Firefight started between Q and S10/EOW.QUEEN-03. ID: 1669901409
+[15:33:39	]Q has critically hit S10/EOW.QUEEN-03 in the head dealing 22 damage (CritChance was 0.66).
+[15:33:39	]S10/EOW.QUEEN-03 has taken 22 damage from Q.
+[15:33:49	][FF:1669901409] Round 1 begins.
+[15:33:49	][FF:1669901409] Turn for 'Q' started.
+[15:33:53	]Q has critically hit S10/EOW.QUEEN-03 in the chest dealing 14 damage (CritChance was 0.66).
+[15:33:53	]S10/EOW.QUEEN-03 has taken 13 damage from Q.
+[15:33:54	]Q has critically hit S10/EOW.QUEEN-03 in the head dealing 22 damage (CritChance was 0.66).
+[15:33:54	]S10/EOW.QUEEN-03 has taken 22 damage from Q.
+[15:33:54	]Q has critically hit S10/EOW.QUEEN-03 in the head dealing 22 damage (CritChance was 0.66).
+[15:33:54	]S10/EOW.QUEEN-03 has taken 22 damage from Q.
+[15:33:55	][FF:1669901409] Turn for 'Q' ended as it timed out.
+[15:33:55	][FF:1669901409] Turn for 'S10/EOW.QUEEN-03' started.
+[15:34:01	]S10/EOW.QUEEN-03 is fully healed.
+[15:34:01	][FF:1669901409] Turn for 'S10/EOW.QUEEN-03' ended as it timed out.
+[15:34:01	][FF:1669901409] Round 2 begins.
+[15:34:01	][FF:1669901409] Turn for 'Q' started.
+[15:34:02	]Q has hit S10/EOW.QUEEN-03 in the stomach dealing 13 damage (CritChance was 0.66).
+[15:34:02	]S10/EOW.QUEEN-03 has taken 13 damage from Q.
+[15:34:02	]Q has hit S10/EOW.QUEEN-03 in the stomach dealing 13 damage (CritChance was 0.66).
+[15:34:02	]S10/EOW.QUEEN-03 has taken 13 damage from Q.
+[15:34:02	]Q has critically hit S10/EOW.QUEEN-03 in the stomach dealing 13 damage (CritChance was 0.66).
+[15:34:02	]S10/EOW.QUEEN-03 has taken 13 damage from Q.
+[15:34:02	]Q has hit S10/EOW.QUEEN-03 in the stomach dealing 13 damage (CritChance was 0.66).
+[15:34:02	]S10/EOW.QUEEN-03 has taken 13 damage from Q.
+[15:34:02	]Q has critically hit S10/EOW.QUEEN-03 in the left arm dealing 0 damage (CritChance was 0.66).
+[15:34:02	]Q has critically hit S10/EOW.QUEEN-03 in the left arm dealing 3 damage (CritChance was 0.66).
+[15:34:02	]S10/EOW.QUEEN-03 has taken 3 damage from Q.
+[15:34:02	]Q has hit S10/EOW.QUEEN-03 in the stomach dealing 13 damage (CritChance was 0.66).
+[15:34:02	]S10/EOW.QUEEN-03 has taken 13 damage from Q.
+[15:34:07	][FF:1669901409] Turn for 'Q' ended as it timed out.
+[15:34:07	][FF:1669901409] Turn for 'S10/EOW.QUEEN-03' started.
+[15:34:13	]S10/EOW.QUEEN-03 is fully healed.
+[15:34:13	][FF:1669901409] Turn for 'S10/EOW.QUEEN-03' ended as it timed out.
+[15:34:13	][FF:1669901409] Round 3 begins.
+[15:34:13	][FF:1669901409] Turn for 'Q' started.
+[15:34:13	]Q has critically hit S10/EOW.QUEEN-03 in the chest dealing 13 damage (CritChance was 1.01).
+[15:34:13	]S10/EOW.QUEEN-03 has taken 13 damage from Q.
+[15:34:14	]Q has critically hit S10/EOW.QUEEN-03 in the chest dealing 13 damage (CritChance was 1.01).
+[15:34:14	]S10/EOW.QUEEN-03 has taken 13 damage from Q.
+[15:34:14	]Q has critically hit S10/EOW.QUEEN-03 in the right arm dealing 3 damage (CritChance was 1.01).
+[15:34:14	]S10/EOW.QUEEN-03 has taken 3 damage from Q.
+[15:34:14	]Q has critically hit S10/EOW.QUEEN-03 in the right arm dealing 3 damage (CritChance was 1.01).
+[15:34:14	]S10/EOW.QUEEN-03 has taken 3 damage from Q.
+[15:34:14	]Q has critically hit S10/EOW.QUEEN-03 in the right arm dealing 3 damage (CritChance was 1.01).
+[15:34:14	]S10/EOW.QUEEN-03 has taken 3 damage from Q.
+[15:34:19	][FF:1669901409] Turn for 'Q' ended as it timed out.
+[15:34:19	][FF:1669901409] Turn for 'S10/EOW.QUEEN-03' started.
+[15:34:25	][FF:1669901409] Turn for 'S10/EOW.QUEEN-03' ended as it timed out.
+[15:34:25	][FF:1669901409] Round 4 begins.
+[15:34:25	][FF:1669901409] Turn for 'Q' started.
+[15:34:26	]Q has critically hit S10/EOW.QUEEN-03 in the chest dealing 14 damage (CritChance was 1.01).
+[15:34:26	]S10/EOW.QUEEN-03 has taken 13 damage from Q.
+[15:34:26	]Q has critically hit S10/EOW.QUEEN-03 in the right arm dealing 3 damage (CritChance was 1.01).
+[15:34:26	]S10/EOW.QUEEN-03 has taken 3 damage from Q.
+[15:34:27	]Q has critically hit S10/EOW.QUEEN-03 in the chest dealing 14 damage (CritChance was 1.01).
+[15:34:27	]S10/EOW.QUEEN-03 has taken 13 damage from Q.
+[15:34:27	]Q has critically hit S10/EOW.QUEEN-03 in the right arm dealing 3 damage (CritChance was 1.01).
+[15:34:27	]S10/EOW.QUEEN-03 has taken 3 damage from Q.
+[15:34:28	]Q has critically hit S10/EOW.QUEEN-03 in the right arm dealing 3 damage (CritChance was 1.01).
+[15:34:28	]S10/EOW.QUEEN-03 has taken 3 damage from Q.
+[15:34:28	]Q has critically hit S10/EOW.QUEEN-03 in the right arm dealing 3 damage (CritChance was 1.01).
+[15:34:28	]S10/EOW.QUEEN-03 has taken 3 damage from Q.
+[15:34:31	][FF:1669901409] Turn for 'Q' ended as it timed out.
+[15:34:31	][FF:1669901409] Turn for 'S10/EOW.QUEEN-03' started.
+[15:34:33	]S10/EOW.QUEEN-03 ran 'use' on item 'Pulse-Rifle Energy' (#1648089)
+[15:34:35	][FF:1669901409] Turn for 'S10/EOW.QUEEN-03' ended early as all actions are exhausted.
+[15:34:35	][FF:1669901409] Round 5 begins.
+[15:34:35	][FF:1669901409] Turn for 'Q' started.
+[15:34:37	]Q has critically hit S10/EOW.QUEEN-03 in the head dealing 22 damage (CritChance was 0.80).
+[15:34:37	]S10/EOW.QUEEN-03 has taken 22 damage from Q.
+[15:34:37	]Q has critically hit S10/EOW.QUEEN-03 in the head dealing 22 damage (CritChance was 0.82).
+[15:34:37	]S10/EOW.QUEEN-03 has taken 22 damage from Q.
+[15:34:38	]Q has critically hit S10/EOW.QUEEN-03 in the head dealing 22 damage (CritChance was 0.84).
+[15:34:38	]S10/EOW.QUEEN-03 was knocked unconscious and is bleeding out.
+[15:34:39	]Q has critically hit S10/EOW.QUEEN-03 in the left leg dealing 0 damage (CritChance was 1.01).
+[15:34:39	]Q has critically hit S10/EOW.QUEEN-03 in the left leg dealing 15 damage (CritChance was 1.01).
+[15:34:39	]S10/EOW.QUEEN-03 was killed while bleeding out.
+[15:34:39	]Q has killed S10/EOW.QUEEN-03 with player.
+[15:34:41	][FF:1669901409] Turn for 'Q' ended as it timed out.
+[15:34:41	][FF:1669901409] Round 6 begins.
+[15:34:41	][FF:1669901409] Fight has ended, clearing participants and waitlist.
+[15:34:42	]S10/EOW.QUEEN-03 used command '/CharGetUp'.
+[15:34:45	]Q has gained a '30rnd Pulse-magazine' #1648105.
+[15:34:45	]Q has lost a '30rnd Pulse-magazine' #1648104.
+[15:34:46	]S10/EOW.QUEEN-03 entered observer.
+[15:34:48	]Q has given himself a bullets_pulse.
+[15:34:48	]Q has gained a 'Pulse Rifle Bullets' #1648108.
+[15:34:50	]Q ran 'combine' on item '30rnd Pulse-magazine' (#1648105)
+[15:34:59	]Q has gained a '30rnd Pulse-magazine' #1648104.
+[15:34:59	]Q has lost a '30rnd Pulse-magazine' #1648105.
+[15:35:08	]Q entered observer.
+[15:35:08	]Q exited observer at their location.
+[15:35:08	]S10/EOW.QUEEN-03 ran 'Equip' on item 'AR-2' (#1648103)
+[15:35:08	]Q entered observer.
+[15:35:09	]Q exited observer at their location.
+[15:35:09	]Q entered observer.
+[15:35:10	]Q exited observer at their location.
+[15:35:10	]S10/EOW.QUEEN-03 exited observer at their location.
+[15:35:10	]Q entered observer.
+[15:35:11	]Q exited observer at their location.
+[15:35:11	]Q entered observer.
+[15:35:12	]Q exited observer at their location.
+[15:35:12	]Q entered observer.
+[15:35:12	]Q exited observer at their location.
+[15:35:13	]Q entered observer.
+[15:35:14	]Q exited observer at their location.
+[15:35:14	]Q entered observer.
+[15:35:14	]Q exited observer at their location.
+[15:35:15	]Q entered observer.
+[15:35:15	]Q exited observer at their location.
+[15:35:16	]Q entered observer.
+[15:35:16	]Q exited observer at their location.
+[15:35:17	]Q entered observer.
+[15:35:17	]Q exited observer at their location.
+[15:35:44	]S10/EOW.QUEEN-03 has given himself a magazine_pulse_30rnd.
+[15:35:44	]S10/EOW.QUEEN-03 has gained a '30rnd Pulse-magazine' #1648109.
+[15:35:49	]S10/EOW.QUEEN-03 has given himself a ar2ammo.
+[15:35:50	]S10/EOW.QUEEN-03 has gained a 'Pulse-Rifle Energy' #1648110.
+[15:35:53	]S10/EOW.QUEEN-03 ran 'drop' on item 'Pulse-Rifle Energy' (#1648110)
+[15:35:53	]S10/EOW.QUEEN-03 has lost a 'Pulse-Rifle Energy' #1648110.
+[15:35:59	]S10/EOW.QUEEN-03 has given himself a bullets_pulse.
+[15:35:59	]S10/EOW.QUEEN-03 has gained a 'Pulse Rifle Bullets' #1648111.
+[15:36:00	]S10/EOW.QUEEN-03 ran 'combine' on item '30rnd Pulse-magazine' (#1648109)
+[15:36:01	]S10/EOW.QUEEN-03 has lost a '30rnd Pulse-magazine' #1648109.
+[15:36:09	]S10/EOW.QUEEN-03 has used a context menu option with the name: remove
+[15:36:18	]S10/EOW.QUEEN-03 has given himself a bullets_pulse.
+[15:36:18	]S10/EOW.QUEEN-03 has gained a 'Pulse Rifle Bullets' #1648112.
+[15:36:18	]S10/EOW.QUEEN-03 has given himself a bullets_pulse.
+[15:36:18	]S10/EOW.QUEEN-03 has gained a 'Pulse Rifle Bullets' #1648113.
+[15:36:21	]S10/EOW.QUEEN-03 has given himself a magazine_pulse_30rnd.
+[15:36:21	]S10/EOW.QUEEN-03 has gained a '30rnd Pulse-magazine' #1648114.
+[15:36:23	]S10/EOW.QUEEN-03 ran 'combine' on item '30rnd Pulse-magazine' (#1648114)
+[15:36:25	]S10/EOW.QUEEN-03 entered observer.
+[15:36:40	]S10/EOW.QUEEN-03 exited observer at their location.
+[15:38:44	]Q has fired a toolgun with the name: dynamite
+[15:38:44	][FF:1669901410] Q set as active participant.
+[15:38:44	][FF:1669901410] S10/EOW.QUEEN-03 set as active participant.
+[15:38:44	][FF] Firefight started between Q and S10/EOW.QUEEN-03. ID: 1669901410
+[15:38:44	]S10/EOW.QUEEN-03 has gained a '30rnd Pulse-magazine' #1648109.
+[15:38:44	]S10/EOW.QUEEN-03 was knocked unconscious and is bleeding out.
+[15:38:45	][FF:1669901410] Fight has ended, clearing participants and waitlist.
+[15:38:53	]S10/EOW.QUEEN-03 ran SAM command 'hp' with arguments: '^' '150'
+[15:38:58	]S10/EOW.QUEEN-03 used command '/CharStopBleedout s10'.
+[15:39:01	]S10/EOW.QUEEN-03 used command '/CharGetUp'.
+[15:39:16	]S10/EOW.QUEEN-03 ran SAM command 'hp' with arguments: '^' '200'
+[15:39:21	]S10/EOW.QUEEN-03 ran SAM command 'hp' with arguments: '^' '5'
+[15:39:25	]Q entered observer.
+[15:39:26	]S10/EOW.QUEEN-03 ran SAM command 'hp' with arguments: '^' '50'
+[15:39:29	]Q exited observer at their location.
+[15:39:29	]Q entered observer.
+[15:39:31	]S10/EOW.QUEEN-03 ran SAM command 'hp' with arguments: '^' '150'
+[15:39:32	]S10/EOW.QUEEN-03 used command '/CharGetUp'.
+[15:39:33	]Q exited observer at their location.
+[15:39:33	]S10/EOW.QUEEN-03 used command '/CharGetUp'.
+[15:39:35	]S10/EOW.QUEEN-03 used command '/CharGetUp'.
+[15:39:39	]S10/EOW.QUEEN-03 used command '/CharGetUp'.
+[15:39:40	]S10/EOW.QUEEN-03 used command '/CharGetUp'.
+[15:39:40	]S10/EOW.QUEEN-03 used command '/CharGetUp'.
+[15:39:41	]S10/EOW.QUEEN-03 used command '/CharGetUp'.
+[15:39:42	]S10/EOW.QUEEN-03 used command '/CharGetUp'.
+[15:39:42	]S10/EOW.QUEEN-03 used command '/CharGetUp'.
+[15:39:43	]S10/EOW.QUEEN-03 used command '/CharGetUp'.
+[15:39:45	]Q has fired a toolgun with the name: dynamite
+[15:39:46	]S10/EOW.QUEEN-03 ran SAM command 'respawn' with arguments: '^'
+[15:39:47	][FF:1669901411] Q set as active participant.
+[15:39:47	][FF:1669901411] S10/EOW.QUEEN-03 set as active participant.
+[15:39:47	][FF] Firefight started between Q and S10/EOW.QUEEN-03. ID: 1669901411
+[15:39:47	]S10/EOW.QUEEN-03 was knocked unconscious and is bleeding out.
+[15:39:48	][FF:1669901411] Fight has ended, clearing participants and waitlist.
+[15:39:50	]Q has fired a toolgun with the name: dynamite
+[15:39:51	]S10/EOW.QUEEN-03 was killed while bleeding out.
+[15:39:51	]Q has killed S10/EOW.QUEEN-03 with gmod_dynamite.
+[15:40:07	]S10/EOW.QUEEN-03 entered observer.
+[15:40:15	]S10/EOW.QUEEN-03 ran SAM command 'goto' with arguments: 'STEAM_0:0:58605803'
+[15:40:17	]S10/EOW.QUEEN-03 exited observer at their location.
+[15:40:21	]S10/EOW.QUEEN-03 ran 'Equip' on item 'AR-2' (#1648103)
+[15:40:22	]S10/EOW.QUEEN-03 has lost a '30rnd Pulse-magazine' #1648114.
+[15:40:25	][FF:1669901412] S10/EOW.QUEEN-03 set as active participant.
+[15:40:25	][FF:1669901412] Q set as active participant.
+[15:40:25	][FF] Firefight started between S10/EOW.QUEEN-03 and Q. ID: 1669901412
+[15:40:25	]S10/EOW.QUEEN-03 has critically hit Q in the head dealing 22 damage (CritChance was 1.01).
+[15:40:25	]Q has taken 22 damage from S10/EOW.QUEEN-03.
+[15:40:35	][FF:1669901412] Round 1 begins.
+[15:40:35	][FF:1669901412] Turn for 'S10/EOW.QUEEN-03' started.
+[15:40:37	]S10/EOW.QUEEN-03 has critically hit Q in the chest dealing 14 damage (CritChance was 1.01).
+[15:40:37	]Q has taken 14 damage from S10/EOW.QUEEN-03.
+[15:40:37	]S10/EOW.QUEEN-03 has critically hit Q in the chest dealing 14 damage (CritChance was 1.01).
+[15:40:37	]Q has taken 14 damage from S10/EOW.QUEEN-03.
+[15:40:37	]S10/EOW.QUEEN-03 has critically hit Q in the chest dealing 14 damage (CritChance was 1.01).
+[15:40:37	]Q has taken 14 damage from S10/EOW.QUEEN-03.
+[15:40:37	]S10/EOW.QUEEN-03 has critically hit Q in the chest dealing 14 damage (CritChance was 1.01).
+[15:40:37	]Q has taken 14 damage from S10/EOW.QUEEN-03.
+[15:40:37	]S10/EOW.QUEEN-03 has critically hit Q in the chest dealing 1 damage (CritChance was 1.01).
+[15:40:37	]Q has taken 0 damage from S10/EOW.QUEEN-03.
+[15:40:37	]S10/EOW.QUEEN-03 has critically hit Q in the chest dealing 0 damage (CritChance was 1.01).
+[15:40:41	][FF:1669901412] Turn for 'S10/EOW.QUEEN-03' ended as it timed out.
+[15:40:41	][FF:1669901412] Turn for 'Q' started.
+[15:40:47	][FF:1669901412] Turn for 'Q' ended as it timed out.
+[15:40:47	][FF:1669901412] Round 2 begins.
+[15:40:47	][FF:1669901412] Turn for 'S10/EOW.QUEEN-03' started.
+[15:40:48	]S10/EOW.QUEEN-03 has critically hit Q in the head dealing 22 damage (CritChance was 1.01).
+[15:40:48	]Q has gained a '30rnd Pulse-magazine' #1648105.
+[15:40:48	]Q was knocked unconscious and is bleeding out.
+[15:40:53	][FF:1669901412] Turn for 'S10/EOW.QUEEN-03' ended as it timed out.
+[15:40:53	][FF:1669901412] Round 3 begins.
+[15:40:53	][FF:1669901412] Fight has ended, clearing participants and waitlist.
+[15:40:54	]S10/EOW.QUEEN-03 has critically hit Q in the right leg dealing 0 damage (CritChance was 1.01).
+[15:40:54	]S10/EOW.QUEEN-03 has critically hit Q in the right leg dealing 15 damage (CritChance was 1.01).
+[15:40:54	]Q was killed while bleeding out.
+[15:40:54	]S10/EOW.QUEEN-03 has killed Q with player.
+[15:41:13	][IC] S10/EOW.QUEEN-03: <:: GHOST. Flatline. ::>
+[15:41:15	]S10/EOW.QUEEN-03 has gained a '30rnd Pulse-magazine' #1648114.
+[15:41:15	]S10/EOW.QUEEN-03 has lost a '30rnd Pulse-magazine' #1648109.
+[15:41:15	]Furret No Furry Asimo (STEAM_0:0:58605803) has disconnected.
+[15:44:24	]S10/EOW.QUEEN-03 used command '/Radio HOLDING AT CODE;apex'.
+[15:44:29	]S10/EOW.QUEEN-03 has gained a '30rnd Pulse-magazine' #1648109.
+[15:44:29	]S10/EOW.QUEEN-03 has lost a '30rnd Pulse-magazine' #1648114.
+[16:00:27	]Atle has connected.
+[16:06:13	]Atle loaded the character 'Valenti Lombardo'
+[16:06:18	]Valenti Lombardo is fully healed.
+[16:07:00	]Atle (STEAM_0:0:21027108) has disconnected.
+[16:58:55	]Atle has connected.
+[16:59:40	]Atle loaded the character 'Valenti Lombardo'
+[16:59:51	]Valenti Lombardo used command '/clothingcreator'.
+[17:06:17	]Valenti Lombardo has spawned a cca_goose.
+[17:06:41	]Valenti Lombardo has used a context menu option with the name: remove
+[17:08:58	]Valenti Lombardo used command '/clothingcreator'.
+[17:10:00	]Valenti Lombardo used command '/clothingcreator'.
+[17:10:51	]Valenti Lombardo used command '/clothingcreator'.
+[17:11:52	]kawasaniac has connected.
+[17:12:22	]Valenti Lombardo used command '/clothingcreator'.
+[17:13:26	]Valenti Lombardo used command '/clothingcreator'.
+[17:14:11	]Valenti Lombardo used command '/clothingcreator'.
+[17:15:53	]Valenti Lombardo used command '/clothingcreator'.
+[17:17:57	]Valenti Lombardo used command '/clothingcreator'.
+[17:18:15	]kawasaniac created the character 'Bilbo Baggins'
+[17:18:15	]kawasaniac loaded the character 'Bilbo Baggins'
+[17:18:15	]Bilbo Baggins has gained a 'Suitcase' #1648116.
+[17:18:15	]Bilbo Baggins has gained a '#26820's Identity Card' #1648117.
+[17:18:15	]Bilbo Baggins has gained a 'Worn Brown Shoes' #1648118.
+[17:18:15	]Bilbo Baggins has gained a 'Grey Jumpsuit Trousers' #1648119.
+[17:18:15	]Bilbo Baggins has gained a 'Brown Jumpsuit' #1648120.
+[17:18:28	][IC] Valenti Lombardo: Herro!!!
+[17:18:30	][IC] Bilbo Baggins: God damn, this is good.
+[17:18:31	][IC] Bilbo Baggins: Herro!!
+[17:18:51	][IC] Valenti Lombardo: Herro!!!
+[17:18:53	]Valenti Lombardo used command '/clothingcreator'.
+[17:19:13	][IC] Bilbo Baggins: Can you spawn something from cca category.
+[17:19:23	][OOC] Valenti Lombardo: i think u should have access
+[17:19:23	][IC] Valenti Lombardo: O.
+[17:19:26	][IC] Valenti Lombardo: If you.
+[17:19:28	][IC] Valenti Lombardo: Do.
+[17:19:35	][IC] Valenti Lombardo: Type /linkaccount your forum url.
+[17:19:41	][IC] Bilbo Baggins: Sec.
+[17:19:49	]Valenti Lombardo has spawned a cca_goose.
+[17:19:56	]Valenti Lombardo has spawned a cca_orwell.
+[17:20:00	]Valenti Lombardo has used a context menu option with the name: remove
+[17:20:26	][IC] Valenti Lombardo: Ok lets see so i see some wrong.
+[17:20:33	][IC] Valenti Lombardo: But it depnds do you see this as all yellow?
+[17:20:47	]Bilbo Baggins used command '/LinkAccount https://willard.network/forums/members/kawasaniac.2519/'.
+[17:20:48	][XENFORO-LINK] Send message error: {"errors":[{"params":{"names":"kawasaniac"},"code":"you_may_not_start_a_conversation_with_the_following_recipients_x","message":"You may not start a conversation with the following recipients: kawasaniac."}]}
+[17:21:00	]Bilbo Baggins used command '/LinkAccount 2519'.
+[17:21:05	]Valenti Lombardo has spawned a cca_coat_wolf.
+[17:21:06	][IC] Bilbo Baggins: It's black for me, lol.
+[17:21:08	][IC] Valenti Lombardo: This one is reversed.
+[17:21:15	][IC] Bilbo Baggins: And this is white.
+[17:21:21	][IC] Valenti Lombardo: This is white?
+[17:21:27	][IC] Valenti Lombardo: Have you put it in your addon folder.
+[17:21:34	][IC] Bilbo Baggins: Nope.
+[17:21:39	][IC] Bilbo Baggins: Oh.
+[17:21:43	][IC] Valenti Lombardo: Ah i think it might conflict then with current models.
+[17:21:43	][IC] Bilbo Baggins: Lmao.
+[17:21:46	][IC] Bilbo Baggins: Yeah.
+[17:21:47	][IC] Valenti Lombardo: If you put in addon then it will work.
+[17:21:57	][IC] Valenti Lombardo: But this one here is reversed, coat is white but should be black.
+[17:22:06	][IC] Valenti Lombardo: This one doesn't have shirt correct.
+[17:22:28	][IC] Valenti Lombardo: Try put in addon and rejoin mby it will work then.
+[17:22:30	]Bilbo Baggins used command '/LinkAccount kawasaniac.2519'.
+[17:22:34	][IC] Bilbo Baggins: Uuuh.
+[17:22:39	][IC] Bilbo Baggins: Where can I get forum id, btw.
+[17:22:42	][IC] Valenti Lombardo: O.
+[17:22:55	][IC] Valenti Lombardo: Ill send you on discord.
+[17:23:09	]Bilbo Baggins used command '/LinkAccount https://willard.network/forums/members/kawasaniac.2519/'.
+[17:23:09	][XENFORO-LINK] Send message error: {"errors":[{"params":{"names":"kawasaniac"},"code":"you_may_not_start_a_conversation_with_the_following_recipients_x","message":"You may not start a conversation with the following recipients: kawasaniac."}]}
+[17:23:15	]Bilbo Baggins used command '/LinkAccount https://willard.network/forums/members/kawasaniac.2519/'.
+[17:23:15	][XENFORO-LINK] Send message error: {"errors":[{"params":{"names":"kawasaniac"},"code":"you_may_not_start_a_conversation_with_the_following_recipients_x","message":"You may not start a conversation with the following recipients: kawasaniac."}]}
+[17:23:43	]Valenti Lombardo ran SAM command 'menu' with arguments: ''
+[17:23:56	]Bilbo Baggins used command '/LinkAccount https://willard.network/forums/members/kawasaniac.2519/'.
+[17:23:56	][XENFORO-LINK] Send message error: {"errors":[{"params":{"names":"kawasaniac"},"code":"you_may_not_start_a_conversation_with_the_following_recipients_x","message":"You may not start a conversation with the following recipients: kawasaniac."}]}
+[17:24:03	]Valenti Lombardo ran SAM command 'setrankid' with arguments: 'STEAM_0:1:219693994' 'developer'
+[17:24:06	]Bilbo Baggins has spawned a cca_diplomat.
+[17:24:08	][IC] Bilbo Baggins: Yup.
+[17:24:12	][IC] Bilbo Baggins: Thx, one second.
+[17:24:13	]kawasaniac (STEAM_0:1:219693994) has disconnected.
+[17:26:18	]Valenti Lombardo ran 'take' on item 'The Diplomat' (#1648124)
+[17:26:18	]Valenti Lombardo has gained a 'The Diplomat' #1648124.
+[17:26:46	]Valenti Lombardo ran 'drop' on item 'The Diplomat' (#1648124)
+[17:26:46	]Valenti Lombardo has lost a 'The Diplomat' #1648124.
+[17:27:51	]Valenti Lombardo ran 'drop' on item 'Paper' (#120984)
+[17:27:51	]Valenti Lombardo has lost a 'Paper' #120984.
+[17:27:52	]Valenti Lombardo ran 'drop' on item 'Apartment Key' (#96585)
+[17:27:52	]Valenti Lombardo has lost a 'Apartment Key' #96585.
+[17:27:52	]Valenti Lombardo ran 'drop' on item 'Frying pan' (#120983)
+[17:27:52	]Valenti Lombardo has lost a 'Frying pan' #120983.
+[17:27:53	]Valenti Lombardo ran 'drop' on item 'Spoiled Artificial Paste' (#1412497)
+[17:27:53	]Valenti Lombardo has lost a 'Spoiled Artificial Paste' #1412497.
+[17:27:53	]Valenti Lombardo ran 'drop' on item 'Spoiled Breen's Water' (#1412498)
+[17:27:53	]Valenti Lombardo has lost a 'Spoiled Breen's Water' #1412498.
+[17:27:54	]Valenti Lombardo ran 'drop' on item 'Pin' (#120985)
+[17:27:54	]Valenti Lombardo has lost a 'Pin' #120985.
+[17:27:59	]Valenti Lombardo ran 'drop' on item 'Grey Trousers' (#96520)
+[17:27:59	]Valenti Lombardo has lost a 'Grey Trousers' #96520.
+[17:27:59	]Valenti Lombardo ran 'drop' on item 'Glasses' (#96519)
+[17:27:59	]Valenti Lombardo has lost a 'Glasses' #96519.
+[17:28:00	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:00	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:07	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:07	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:07	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:08	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:08	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:08	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:08	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:08	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:08	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:09	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:09	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:09	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:09	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:09	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:10	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:10	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:11	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:11	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:11	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:12	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:12	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:12	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:12	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:15	]Valenti Lombardo has used a context menu option with the name: remove
+[17:28:16	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:17	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:17	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:17	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:17	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:17	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:18	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:18	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:18	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:18	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:18	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:19	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:19	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:19	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:28:28	]Valenti Lombardo has spawned a legs_blue_pants.
+[17:28:38	]Valenti Lombardo has spawned a legs_jumpsuit_orange.
+[17:28:40	]Valenti Lombardo has spawned a legs_jumpsuit.
+[17:28:42	]Valenti Lombardo has spawned a legs_civilian_green.
+[17:29:10	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:29:10	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:29:10	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:29:10	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:29:11	]Valenti Lombardo has fired a toolgun with the name: remover
+[17:29:13	]Valenti Lombardo has used a context menu option with the name: remove
+[17:29:14	]Valenti Lombardo has used a context menu option with the name: remove
+[17:29:15	]Valenti Lombardo has used a context menu option with the name: remove
+[17:29:15	]Valenti Lombardo has used a context menu option with the name: remove
+[17:29:43	]Valenti Lombardo has spawned a hardhat_blue.
+[17:29:46	]Valenti Lombardo has used a context menu option with the name: remove
+[17:30:05	]kawasaniac has connected.
+[17:30:24	]Valenti Lombardo entered observer.
+[17:30:28	]Valenti Lombardo used command '/PanelRemove'.
+[17:30:31	]Valenti Lombardo exited observer at their location.
+[17:30:47	]kawasaniac loaded the character 'Bilbo Baggins'
+[17:30:58	]Valenti Lombardo has spawned a cca_vanilla.
+[17:31:00	]Valenti Lombardo has spawned a cca_milan.
+[17:31:01	]Valenti Lombardo has spawned a cca_lavender.
+[17:31:03	]Valenti Lombardo has spawned a cca_candyfloss.
+[17:31:05	]Valenti Lombardo has spawned a cca_german.
+[17:31:08	]Valenti Lombardo has spawned a cca_realist.
+[17:31:16	][IC] Bilbo Baggins: Yeah.
+[17:31:29	][IC] Valenti Lombardo: Do you see them with white shirts?
+[17:32:07	]Bilbo Baggins used command '/LinkAccount https://willard.network/forums/members/kawasaniac.2519/'.
+[17:32:07	][XENFORO-LINK] Send message error: {"errors":[{"params":{"names":"kawasaniac"},"code":"you_may_not_start_a_conversation_with_the_following_recipients_x","message":"You may not start a conversation with the following recipients: kawasaniac."}]}
+[17:32:28	][IC] Bilbo Baggins: Can you give me a developer again.
+[17:32:32	][IC] Bilbo Baggins: Or ept flags.
+[17:32:32	][IC] Valenti Lombardo: O.
+[17:32:34	]Valenti Lombardo ran SAM command 'menu' with arguments: ''
+[17:32:41	]Valenti Lombardo ran SAM command 'setrankid' with arguments: 'STEAM_0:1:219693994' 'developer'
+[17:32:44	][IC] Bilbo Baggins: I need toolgun for submaterials to check items.
+[17:32:47	][IC] Bilbo Baggins: Thx.
+[17:32:58	]Bilbo Baggins used command '/CharGiveFlag ^ ept'.
+[17:32:58	]Valenti Lombardo entered observer.
+[17:32:59	]Valenti Lombardo exited observer at their location.
+[17:33:11	][IC] Bilbo Baggins: Yup, 3 materials.
+[17:33:24	][IC] Bilbo Baggins: I guess there is a mistake from my side.
+[17:33:30	][IC] Valenti Lombardo: Hmm.
+[17:33:35	][IC] Bilbo Baggins: So the studiomdl didn't compile the models properly or something.
+[17:33:38	][IC] Bilbo Baggins: Probably a quick fix.
+[17:33:40	][IC] Bilbo Baggins: Let me take a look.
+[17:33:42	][IC] Valenti Lombardo: Yeah!
+[17:34:35	][IC] Bilbo Baggins: Guess what.
+[17:34:46	][IC] Bilbo Baggins: Looks like that I forgot to compile new version of items.
+[17:34:48	][IC] Bilbo Baggins: Lmao.
+[17:34:51	][IC] Valenti Lombardo: XD.
+[17:34:53	][IC] Bilbo Baggins: Cca items*.
+[17:35:02	][IC] Valenti Lombardo: That explains it!
+[17:35:15	][IC] Bilbo Baggins: Yeah, because in blender everything is fine.
+[17:36:43	]Valenti Lombardo used command '/clothingcreator'.
+[17:36:44	]Bilbo Baggins has spawned a hardhat_blue.
+[17:36:56	][IC] Bilbo Baggins: Huh.
+[17:36:59	][IC] Valenti Lombardo: They wont be properly loaded to server.
+[17:37:10	][IC] Bilbo Baggins: Yeah!
+[17:37:11	][IC] Valenti Lombardo: Since they are not in any content.
+[17:37:15	]Bilbo Baggins has fired a toolgun with the name: remover
+[17:37:16	]Bilbo Baggins has fired a toolgun with the name: remover
+[17:37:17	]Bilbo Baggins has fired a toolgun with the name: remover
+[17:37:17	][IC] Valenti Lombardo: So probably why they move like that.
+[17:37:17	]Bilbo Baggins has fired a toolgun with the name: remover
+[17:37:22	][IC] Valenti Lombardo: Becaus server doesnt have it.
+[17:37:43	][IC] Bilbo Baggins: Ok, I recompiled the models.
+[17:37:45	][IC] Bilbo Baggins: Let's see...
+[17:37:47	]kawasaniac (STEAM_0:1:219693994) has disconnected.
+[17:37:47	][IC] Valenti Lombardo: Oki.
+[17:37:52	]Valenti Lombardo used command '/clothingcreator'.
+[17:43:05	]Valenti Lombardo has gone afk.
+[17:43:18	]kawasaniac has connected.
+[17:44:12	]kawasaniac loaded the character 'Bilbo Baggins'
+[17:45:00	]Valenti Lombardo is no longer afk. Total time spent AFK: 410
+[17:45:00	][IC] Valenti Lombardo: Does it work?
+[17:45:04	]Bilbo Baggins has fired a toolgun with the name: submaterial
+[17:45:10	][IC] Bilbo Baggins: Nope.
+[17:45:17	][IC] Valenti Lombardo: Oh.
+[17:45:23	][IC] Valenti Lombardo: Something else must be wrong then.
+[17:45:24	]Valenti Lombardo ran SAM command 'menu' with arguments: ''
+[17:45:30	]Valenti Lombardo ran SAM command 'setrankid' with arguments: 'STEAM_0:1:219693994' 'developer'
+[17:45:38	]Bilbo Baggins used command '/PlyGiveAllFlags ^'.
+[17:46:06	][IC] Bilbo Baggins: Hmm.
+[17:46:12	][IC] Bilbo Baggins: Let me check it in singleplayer.
+[17:46:15	][IC] Valenti Lombardo: Ok.
+[17:46:20	]kawasaniac (STEAM_0:1:219693994) has disconnected.
+[17:46:21	]Atle (STEAM_0:0:21027108) has disconnected.
+[17:53:33	]kawasaniac has connected.
+[17:54:43	]kawasaniac loaded the character 'Bilbo Baggins'
+[17:56:16	]Bilbo Baggins used command '/LinkAccount https://willard.network/forums/members/kawasaniac.2519/'.
+[17:56:17	][XENFORO-LINK] Send message error: {"errors":[{"params":{"names":"kawasaniac"},"code":"you_may_not_start_a_conversation_with_the_following_recipients_x","message":"You may not start a conversation with the following recipients: kawasaniac."}]}
+[17:58:14	]Bilbo Baggins ran 'Consume' on item 'Breen's Water' (#1643916)
+[17:58:14	]Bilbo Baggins has gained a 'Empty Breen's Water' #1648137.
+[17:58:21	]kawasaniac (STEAM_0:1:219693994) has disconnected.
+[18:26:58	]kawasaniac has connected.
+[18:28:08	]kawasaniac loaded the character 'Bilbo Baggins'
+[18:32:27	]Bilbo Baggins used command '/LinkAccount 123'.
+[18:32:36	]Bilbo Baggins used command '/LinkAccount https://willard.network/forums/members/kawasaniac.2519/'.
+[18:32:36	][XENFORO-LINK] Send message error: {"errors":[{"params":{"names":"kawasaniac"},"code":"you_may_not_start_a_conversation_with_the_following_recipients_x","message":"You may not start a conversation with the following recipients: kawasaniac."}]}
+[18:33:19	]Bilbo Baggins used command '/LinkAccount https://willard.network/forums/members/kawasaniac.2519/'.
+[18:33:19	][XENFORO-LINK] Send message error: {"errors":[{"params":{"names":"kawasaniac"},"code":"you_may_not_start_a_conversation_with_the_following_recipients_x","message":"You may not start a conversation with the following recipients: kawasaniac."}]}
+[18:33:26	]Bilbo Baggins used command '/LinkAccount https://willard.network/forums/members/kawasaniac.2519/'.
+[18:33:26	][XENFORO-LINK] Send message error: {"errors":[{"params":{"names":"kawasaniac"},"code":"you_may_not_start_a_conversation_with_the_following_recipients_x","message":"You may not start a conversation with the following recipients: kawasaniac."}]}
+[18:36:14	]Bilbo Baggins has taken 21 damage from worldspawn.
+[18:39:44	]kawasaniac (STEAM_0:1:219693994) has disconnected.

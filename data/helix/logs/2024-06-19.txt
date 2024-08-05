@@ -1,0 +1,2205 @@
+[12:04:37	]Mango has connected.
+[12:05:00	]Mango loaded the character 'Hel Nordby'
+[12:05:20	]Hel Nordby ran 'take' on item 'Frying pan' (#3306810)
+[12:05:20	]Hel Nordby has gained a 'Frying pan' #3306810.
+[12:05:22	]Hel Nordby ran 'hold' on item 'Frying pan' (#3306810)
+[12:05:37	]Hel Nordby ran 'hputback' on item 'Frying pan' (#3306810)
+[12:05:59	]Hel Nordby has spawned a 'Entity [432][ix_terminal]'.
+[12:06:06	]Hel Nordby has spawned a 'Entity [472][ix_cwuterminal]'.
+[12:06:13	]Hel Nordby has spawned a 'Entity [472][ix_workshiftterminal]'.
+[12:06:26	]Hel Nordby used command '/PlyGiveFlag nor pet'.
+[12:06:46	]Hel Nordby used command '/Dispatch a'.
+[12:06:59	]Hel Nordby has spawned a 'Entity [478][ix_pickupterminal]'.
+[12:07:14	]MazuzaM has connected.
+[12:07:26	]Hel Nordby has spawned a 'Entity [480][ix_rationdispenser]'.
+[12:07:40	]Hel Nordby has hit Hel Nordby dealing 1 damage (CritChance was 0.00).
+[12:07:40	]Hel Nordby has taken 1 damage from Hel Nordby.
+[12:08:03	]MazuzaM loaded the character 'Rolan Di Lorenzi'
+[12:08:08	]Rolan Di Lorenzi is fully healed.
+[12:08:24	][IC] Rolan Di Lorenzi: Combine!
+[12:08:26	][IC] Hel Nordby: Yes.
+[12:08:39	]Rolan Di Lorenzi ran 'EquipUn' on item 'AKM' (#3193285)
+[12:08:40	]Rolan Di Lorenzi used command '/ToggleRaise'.
+[12:08:45	]Rolan Di Lorenzi used command '/ToggleRaise'.
+[12:08:48	]Rolan Di Lorenzi used command '/ToggleRaise'.
+[12:08:58	]Rolan Di Lorenzi has hit Rolan Di Lorenzi dealing 1 damage (CritChance was 0.00).
+[12:08:58	]Rolan Di Lorenzi has taken 1 damage from Rolan Di Lorenzi.
+[12:09:02	]Rolan Di Lorenzi has hit Rolan Di Lorenzi dealing 1 damage (CritChance was 0.00).
+[12:09:02	]Rolan Di Lorenzi has taken 1 damage from Rolan Di Lorenzi.
+[12:09:03	]Rolan Di Lorenzi has hit Rolan Di Lorenzi dealing 1 damage (CritChance was 0.00).
+[12:09:03	]Rolan Di Lorenzi has taken 1 damage from Rolan Di Lorenzi.
+[12:09:08	]Rolan Di Lorenzi used command '/ToggleRaise'.
+[12:09:12	]Rolan Di Lorenzi ran 'Equip' on item 'AKM' (#3193285)
+[12:09:14	]Rolan Di Lorenzi used command '/ToggleRaise'.
+[12:09:18	]Rolan Di Lorenzi has broken a Citizen Terminal
+[12:09:33	]Rolan Di Lorenzi has spawned a tool_toolkit.
+[12:09:35	]Rolan Di Lorenzi ran 'take' on item 'Toolkit' (#3307079)
+[12:09:35	]Rolan Di Lorenzi has gained a 'Toolkit' #3307079.
+[12:09:38	]Rolan Di Lorenzi ran 'RepairObject' on item 'Toolkit' (#3307079)
+[12:09:58	]Rolan Di Lorenzi has fixed a Citizen Terminal
+[12:10:10	]Mango (STEAM_0:0:544539350) deleted character 'Hoalbah-Nach nuy'
+[12:10:10	]The Hidden Stash container (#136017) was set to PK HOLD.
+[12:10:16	]Mango (STEAM_0:0:544539350) deleted character 'C24.CREMATOR:850'
+[12:10:20	]Rolan Di Lorenzi ran 'drop' on item 'Green Beanie' (#3193266)
+[12:10:20	]Rolan Di Lorenzi has lost a 'Green Beanie' #3193266.
+[12:10:21	]Rolan Di Lorenzi ran 'drop' on item 'Green Padded Pants' (#3193269)
+[12:10:21	]Rolan Di Lorenzi has lost a 'Green Padded Pants' #3193269.
+[12:10:21	]Mango (STEAM_0:0:544539350) deleted character 'Hel Nordby'
+[12:10:22	]Rolan Di Lorenzi ran 'drop' on item 'M40' (#3193268)
+[12:10:22	]Rolan Di Lorenzi has lost a 'M40' #3193268.
+[12:10:23	]Rolan Di Lorenzi ran 'drop' on item 'Medium Kevlar Uniform' (#3193264)
+[12:10:23	]Rolan Di Lorenzi has lost a 'Medium Kevlar Uniform' #3193264.
+[12:10:23	]Mango (STEAM_0:0:544539350) deleted character 'Tahn'Bii'Vurr'
+[12:10:23	]The Teller of Tales container (#136009) was set to PK HOLD.
+[12:10:24	]Rolan Di Lorenzi ran 'drop' on item 'Gloves' (#3193270)
+[12:10:24	]Rolan Di Lorenzi has lost a 'Gloves' #3193270.
+[12:10:25	]Rolan Di Lorenzi ran 'drop' on item 'Small Bag' (#3193245)
+[12:10:25	]Rolan Di Lorenzi has lost a 'Small Bag' #3193245.
+[12:10:25	]Rolan Di Lorenzi has lost a 'Bandage Roll' #3193271.
+[12:10:25	]Rolan Di Lorenzi has lost a 'Bandage Roll' #3193272.
+[12:10:26	]Rolan Di Lorenzi ran 'drop' on item 'Large Bag' (#3193246)
+[12:10:26	]Rolan Di Lorenzi has lost a 'Large Bag' #3193246.
+[12:10:27	]Rolan Di Lorenzi used command '/ToggleRaise'.
+[12:10:28	]Rolan Di Lorenzi destroyed a 'Medium Kevlar Uniform' #3193264.
+[12:10:29	]Rolan Di Lorenzi destroyed a 'Green Padded Pants' #3193269.
+[12:10:30	]Mango (STEAM_0:0:544539350) deleted character 'Crabby'
+[12:10:31	]Rolan Di Lorenzi destroyed a 'Green Beanie' #3193266.
+[12:10:31	]Mango (STEAM_0:0:544539350) deleted character 'S7/EXP.SHOCK-22'
+[12:10:32	]Rolan Di Lorenzi destroyed a 'Large Bag' #3193246.
+[12:10:32	]Rolan Di Lorenzi destroyed a 'Small Bag' #3193245.
+[12:10:33	]Mango (STEAM_0:0:544539350) deleted character 'S7/OWS.STRIKER-11'
+[12:10:33	]Rolan Di Lorenzi destroyed a 'Gloves' #3193270.
+[12:10:34	]Rolan Di Lorenzi destroyed a 'M40' #3193268.
+[12:10:49	]Rolan Di Lorenzi has spawned a uniform_c8_cp.
+[12:10:51	]Rolan Di Lorenzi ran 'take' on item 'Lightweight Functionary Uniform (City 8)' (#3307080)
+[12:10:51	]Rolan Di Lorenzi has gained a 'Lightweight Functionary Uniform (City 8)' #3307080.
+[12:11:01	]Rolan Di Lorenzi has given himself a mask_com.
+[12:11:01	]Rolan Di Lorenzi has gained a 'Advanced PMG-5 (AUG) Gasmask' #3307081.
+[12:11:15	]Mango loaded the character 'Mango'
+[12:12:01	]Rolan Di Lorenzi has spawned a 'NPC [473][npc_breen]'.
+[12:12:37	]Rolan Di Lorenzi used command '/ActSearch'.
+[12:12:46	]Rolan Di Lorenzi used command '/ActThreat 2'.
+[12:12:54	]Mango has hit Mango dealing 1 damage (CritChance was 0.00).
+[12:12:54	]Mango has taken 1 damage from Mango.
+[12:12:58	]Rolan Di Lorenzi used command '/ToggleRaise'.
+[12:13:02	]Rolan Di Lorenzi has broken a Pickup Terminal
+[12:13:33	]Mango used command '/MalfunctionFix'.
+[12:13:34	]Rolan Di Lorenzi ran 'SetCredits' on item '#84444's Identity Card' (#3193243)
+[12:13:37	]MazuzaM has set card #3193243's credits to 80000000.
+[12:13:49	]Mango has broken a Ration Dispenser
+[12:14:04	][IC] Rolan Di Lorenzi: <:: Confirmed as ADW on that suspect, 10-0. ::>
+[12:14:32	]Rolan Di Lorenzi used command '/ToggleRaise'.
+[12:14:33	]Rolan Di Lorenzi has lost a '30rnd AKM Magazine' #3193286.
+[12:14:34	]Rolan Di Lorenzi has gained a '30rnd AKM Magazine' #3193288.
+[12:14:52	][IC] Rolan Di Lorenzi: <:: Officer needs help! ::>
+[12:14:54	][IC] Rolan Di Lorenzi: <:: Officer under fire; taking cover. ::>
+[12:15:12	][IC] Rolan Di Lorenzi: <:: 1 sec. ::>
+[12:16:35	]Mango is fully healed.
+[12:19:32	]MazuzaM (STEAM_0:0:520927466) has disconnected.
+[12:20:45	]Mango has gone afk.
+[12:28:33	]Mango has connected.
+[12:29:17	]Mango created the character 'Mango'
+[12:29:18	]Mango loaded the character 'Mango'
+[12:29:49	]Mango has spawned a 'Entity [472][ix_pickupterminal]'.
+[12:29:59	]Mango has hit Mango dealing 1 damage (CritChance was 0.00).
+[12:29:59	]Mango has taken 1 damage from Mango.
+[12:30:13	]Mango used command '/CheckCrime'.
+[12:30:34	]Mango has gained level 20 in the Melee skill.
+[12:30:34	]Mango used command '/CharSkillSet mango melee 20'.
+[12:30:42	]Mango has broken a Pickup Terminal
+[12:35:11	]Mango has connected.
+[12:35:24	]Mango loaded the character 'Mango'
+[12:35:58	]Bot01 has connected.
+[12:35:58	]Bot01 loaded the character 'Bot01'
+[12:35:59	]Bot02 has connected.
+[12:35:59	]Bot02 loaded the character 'Bot02'
+[12:36:00	]Bot03 has connected.
+[12:36:00	]Bot03 loaded the character 'Bot03'
+[12:36:01	]Bot04 has connected.
+[12:36:01	]Bot04 loaded the character 'Bot04'
+[12:36:10	]Mango used command '/PlyTransfer bot01 cp'.
+[12:36:11	]Bot03 has taken 41 damage from worldspawn.
+[12:36:12	]Bot01 has taken 41 damage from worldspawn.
+[12:37:34	]Mango is fully healed.
+[12:38:18	]Mango used command '/PlyWhitelist bot01 cp'.
+[12:38:38	]Bot01 (BOT) has disconnected.
+[12:43:15	]Mango has connected.
+[12:43:29	]Mango loaded the character 'Mango'
+[12:43:34	]Mango is fully healed.
+[13:25:07	]Mango has connected.
+[13:25:20	]Mango loaded the character 'Mango'
+[13:25:25	]Mango is fully healed.
+[13:25:59	]Mango loaded the character 'Mango'
+[13:26:04	]Mango is fully healed.
+[13:27:04	]Mango used command '/MalfunctionBreak'.
+[13:27:27	]Mango has given himself a tool_toolkit.
+[13:27:28	]Mango has gained a 'Toolkit' #3307082.
+[13:27:30	]Mango ran 'RepairObject' on item 'Toolkit' (#3307082)
+[13:27:50	]Mango has fixed a Pickup Terminal
+[13:28:10	]Mango created the character 'C17:RCT.YELLO-16'
+[13:28:10	]Mango has gained level 5 in the Guns skill.
+[13:28:10	]Mango has gained level 10 in the Speed skill.
+[13:28:10	]Mango loaded the character 'C17:RCT.YELLO-16'
+[13:28:10	]C17:RCT.YELLO-16 has gained a '#70371's Identity Card' #3307083.
+[13:28:10	]C17:RCT.YELLO-16 has gained a 'Combine PDA' #3307084.
+[13:28:10	]C17:RCT.YELLO-16 has gained a 'Lightweight Functionary Uniform (City 8)' #3307085.
+[13:28:10	]C17:RCT.YELLO-16 has gained a 'PMG-5 (AUG) Gasmask' #3307086.
+[13:28:10	]C17:RCT.YELLO-16 has gained a 'Small Bag' #3307087.
+[13:28:10	]C17:RCT.YELLO-16 has gained a 'Large Bag' #3307088.
+[13:29:00	]C17:RCT.YELLO-16 set CheckCrimeAmountNeeded to '1'.
+[13:29:04	]C17:RCT.YELLO-16 has broken a Pickup Terminal
+[13:29:44	]Mango loaded the character 'Mango'
+[13:31:37	]Mango (STEAM_0:0:544539350) has disconnected.
+[18:11:04	]Atle has connected.
+[18:11:23	]Atle loaded the character 'Ken Livington'
+[18:12:11	]Ken Livington has given himself a junk_fridgedoor.
+[18:12:11	]Ken Livington has gained a 'Refrigerator door' #3307089.
+[18:12:13	]Ken Livington ran 'hold' on item 'Refrigerator door' (#3307089)
+[18:12:21	]Atle loaded the character 'Beatrice Olmgurt Bulmer'
+[18:12:26	]Beatrice Olmgurt Bulmer is fully healed.
+[18:12:29	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Refrigerator door' (#3307076)
+[18:14:17	]Beatrice Olmgurt Bulmer has given himself a junk_sm_cardboard.
+[18:14:17	]Beatrice Olmgurt Bulmer has gained a 'Small Cardboard Box' #3307090.
+[18:14:19	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Refrigerator door' (#3307076)
+[18:14:19	]Beatrice Olmgurt Bulmer has lost a 'Refrigerator door' #3307076.
+[18:14:22	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Soda Bob Ultra Nuclear Mega Prime Energy' (#3307071)
+[18:14:22	]Beatrice Olmgurt Bulmer has lost a 'Soda Bob Ultra Nuclear Mega Prime Energy' #3307071.
+[18:14:24	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Baked Tomato' (#3307059)
+[18:14:24	]Beatrice Olmgurt Bulmer has lost a 'Baked Tomato' #3307059.
+[18:14:28	]Beatrice Olmgurt Bulmer ran 'take' on item 'Baked Tomato' (#3307059)
+[18:14:28	]Beatrice Olmgurt Bulmer has gained a 'Baked Tomato' #3307059.
+[18:14:31	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Baked Tomato' (#3307059)
+[18:14:38	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Baked Tomato' (#3307059)
+[18:14:39	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Flimsy Metal Pipe' (#3307077)
+[18:14:39	]Beatrice Olmgurt Bulmer has lost a 'Flimsy Metal Pipe' #3307077.
+[18:14:39	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Tin Can' (#3307074)
+[18:14:39	]Beatrice Olmgurt Bulmer has lost a 'Tin Can' #3307074.
+[18:14:41	]Beatrice Olmgurt Bulmer ran 'drop' on item 'True Loyalist Ration' (#3307036)
+[18:14:41	]Beatrice Olmgurt Bulmer has lost a 'True Loyalist Ration' #3307036.
+[18:14:41	]Beatrice Olmgurt Bulmer ran 'drop' on item 'Ration' (#3307033)
+[18:14:41	]Beatrice Olmgurt Bulmer has lost a 'Ration' #3307033.
+[18:15:30	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Baked Tomato' (#3307059)
+[18:15:43	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Baked Tomato' (#3307059)
+[18:15:44	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Baked Tomato' (#3307059)
+[18:15:54	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Baked Tomato' (#3307059)
+[18:15:55	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Baked Tomato' (#3307059)
+[18:16:07	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Baked Tomato' (#3307059)
+[18:16:08	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Baked Tomato' (#3307059)
+[18:16:17	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Baked Tomato' (#3307059)
+[18:16:18	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Baked Tomato' (#3307059)
+[18:16:27	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Baked Tomato' (#3307059)
+[18:16:28	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Baked Tomato' (#3307059)
+[18:16:43	]Beatrice Olmgurt Bulmer ran 'hputback' on item 'Baked Tomato' (#3307059)
+[18:16:44	]Beatrice Olmgurt Bulmer ran 'hold' on item 'Baked Tomato' (#3307059)
+[18:16:50	]Beatrice Olmgurt Bulmer ran 'Consume' on item 'Baked Tomato' (#3307059)
+[18:18:34	]Atle loaded the character 'Ken Livington'
+[18:18:47	]Ken Livington has given himself a baking_tomato.
+[18:18:47	]Ken Livington has gained a 'Baked Tomato' #3307091.
+[18:18:49	]Ken Livington ran 'hold' on item 'Baked Tomato' (#3307091)
+[18:18:53	]Ken Livington ran 'Consume' on item 'Baked Tomato' (#3307091)
+[18:18:54	]Ken Livington ran 'drop' on item 'Flimsy Metal Pipe' (#3307078)
+[18:18:54	]Ken Livington has lost a 'Flimsy Metal Pipe' #3307078.
+[18:18:54	]Ken Livington ran 'drop' on item 'Refrigerator door' (#3307089)
+[18:18:54	]Ken Livington has lost a 'Refrigerator door' #3307089.
+[18:19:19	]Ken Livington has given himself a baking_bread.
+[18:19:19	]Ken Livington has gained a 'Whole Bread' #3307092.
+[18:19:22	]Ken Livington ran 'drop' on item 'Whole Bread' (#3307092)
+[18:19:22	]Ken Livington has lost a 'Whole Bread' #3307092.
+[18:28:03	]Atle (STEAM_0:0:21027108) has disconnected.
+[20:21:05	]Marco has connected.
+[20:22:05	]Marco (STEAM_0:0:39958603) deleted character 'S10/OWS.GHOST-54'
+[20:25:44	]Marco created the character 'Marco Polo'
+[20:25:44	]Marco loaded the character 'Marco Polo'
+[20:25:44	]Marco Polo has gained a '#29995's Identity Card' #3307093.
+[20:25:44	]Marco Polo has gained a 'Combine PDA' #3307094.
+[20:25:44	]Marco Polo has gained a 'The Authoritarian' #3307095.
+[20:25:44	]Marco Polo has gained a 'The Authoritarian Trousers' #3307096.
+[20:25:44	]Marco Polo has gained a 'Glasses' #3307097.
+[20:27:20	]Marco Polo used command '/CharGiveFlag ^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456'.
+[20:27:27	]Marco Polo ran 'Equip' on item 'Combine PDA' (#3307094)
+[20:27:34	]Marco Polo has spawned a armband_purple.
+[20:27:35	]Marco Polo ran 'take' on item 'Purple CCA armband' (#3307098)
+[20:27:35	]Marco Polo has gained a 'Purple CCA armband' #3307098.
+[20:27:43	]Marco Polo has spawned a cca_authoritarian_armored.
+[20:27:44	]Marco Polo ran 'drop' on item 'The Authoritarian' (#3307095)
+[20:27:44	]Marco Polo has lost a 'The Authoritarian' #3307095.
+[20:27:44	]Marco Polo used command '/ToggleRaise'.
+[20:27:46	]Marco Polo destroyed a 'The Authoritarian' #3307095.
+[20:27:47	]Marco Polo used command '/ToggleRaise'.
+[20:27:47	]Marco Polo ran 'take' on item 'The Authoritarian - armored' (#3307099)
+[20:27:47	]Marco Polo has gained a 'The Authoritarian - armored' #3307099.
+[20:27:53	]Marco Polo ran 'Equip' on item 'Purple CCA armband' (#3307098)
+[20:27:54	]Marco Polo ran 'drop' on item 'Glasses' (#3307097)
+[20:27:54	]Marco Polo has lost a 'Glasses' #3307097.
+[20:27:55	]Marco Polo used command '/ToggleRaise'.
+[20:27:56	]Marco Polo destroyed a 'Glasses' #3307097.
+[20:27:56	]Marco Polo used command '/ToggleRaise'.
+[20:28:10	]Marco Polo used command '/CharDesc Luxurious silky garments cover this northern italian visage, lapis blue eyes impose the explorative domination demonstrated years ago. The pernicious traveller.'.
+[20:32:14	]Marco Polo ran 'Consume' on item 'Bourbon' (#3307011)
+[20:32:14	]Marco Polo has gained a level 3 short boost in Strength.
+[20:32:14	]Marco Polo has gained a level -3 short boost in Agility.
+[20:32:14	]Marco Polo has gained a level 1 short boost in Intelligence.
+[20:32:14	]Marco Polo has gained a level -2 short boost in Perception.
+[20:32:18	]Marco Polo used command '/SetInebriation ^ 0'.
+[20:32:24	]Marco Polo used command '/ToggleRaise'.
+[20:32:26	]Marco Polo used command '/ToggleRaise'.
+[20:32:26	]Marco Polo entered observer.
+[20:32:27	]Marco Polo exited observer.
+[20:32:35	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:35	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:35	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:35	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:35	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:35	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:35	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:35	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:36	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:36	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:36	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:36	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:36	]Marco Polo destroyed a 'Civil Protection Ration' #3307031.
+[20:32:36	]Marco Polo destroyed a 'True Loyalist Ration' #3307024.
+[20:32:36	]Marco Polo destroyed a 'Underclass Ration' #3307027.
+[20:32:36	]Marco Polo destroyed a 'Loyalist Ration' #3307028.
+[20:32:36	]Marco Polo destroyed a 'Priority Loyalist Ration' #3307026.
+[20:32:36	]Marco Polo destroyed a 'Pastry Dough' #3307029.
+[20:32:36	]Marco Polo destroyed a 'CV-2000 Stun Baton' #2581495.
+[20:32:36	]Marco Polo destroyed a 'Refrigerator door' #3307089.
+[20:32:36	]Marco Polo destroyed a 'Flimsy Metal Pipe' #3307078.
+[20:32:36	]Marco Polo destroyed a 'Kitchen Knife' #3306814.
+[20:32:36	]Marco Polo destroyed a 'DOB Member Access Keycard' #3307040.
+[20:32:36	]Marco Polo destroyed a 'Wrench' #3307002.
+[20:32:36	]Marco Polo destroyed a 'Bottle of Sparkling Champagne' #3307007.
+[20:32:36	]Marco Polo destroyed a 'Flashlight' #3306815.
+[20:32:36	]Marco Polo destroyed a 'Glass of Artificial Bourbon' #3306997.
+[20:32:36	]Marco Polo destroyed a 'Glass of Artificial Bourbon' #3306816.
+[20:32:36	]Marco Polo destroyed a 'Wrench' #3306811.
+[20:32:37	]Marco Polo destroyed a 'Kitchen Spoon' #3306813.
+[20:32:37	]Marco Polo destroyed a 'Kitchen Knife' #3307003.
+[20:32:37	]Marco Polo destroyed a 'Kitchen Spoon' #3307000.
+[20:32:37	]Marco Polo destroyed a 'Bottled Whiskey' #3307014.
+[20:32:37	]Marco Polo destroyed a 'POS Terminal' #3307039.
+[20:32:37	]Marco Polo destroyed a 'CMRU PDA' #3307038.
+[20:32:37	]Marco Polo destroyed a 'Glass of Artificial Bourbon' #3307037.
+[20:32:37	]Marco Polo destroyed a 'White Wine' #3307009.
+[20:32:37	]Marco Polo destroyed a 'Scissors' #3307005.
+[20:32:37	]Marco Polo destroyed a 'White Wine' #3307008.
+[20:32:37	]Marco Polo destroyed a 'Glass of Artificial Bourbon' #3306996.
+[20:32:37	]Marco Polo destroyed a 'Kettle' #3306998.
+[20:32:37	]Marco Polo destroyed a 'Frying pan' #3306999.
+[20:32:37	]Marco Polo destroyed a 'Raw Tomato' #3307064.
+[20:32:37	]Marco Polo destroyed a 'Toolkit' #3306801.
+[20:32:37	]Marco Polo destroyed a 'Bourbon' #3307012.
+[20:32:37	]Marco Polo destroyed a 'Ration' #3307032.
+[20:32:37	]Marco Polo destroyed a 'Scissors' #3307004.
+[20:32:37	]Marco Polo destroyed a 'Sweetened Pastry Dough' #3307030.
+[20:32:37	]Marco Polo destroyed a 'Spoiled Breen's Water' #3307072.
+[20:32:37	]Marco Polo destroyed a 'Raw Tomato' #3307065.
+[20:32:37	]Marco Polo destroyed a 'Ration' #3307033.
+[20:32:37	]Marco Polo destroyed a 'Flimsy Metal Pipe' #3307077.
+[20:32:37	]Marco Polo destroyed a 'True Loyalist Ration' #3307036.
+[20:32:37	]Marco Polo destroyed a 'Tin Can' #3307074.
+[20:32:37	]Marco Polo destroyed a 'Refrigerator door' #3307076.
+[20:32:42	]Marco Polo ran 'Consume' on item 'Whole Bread' (#3307092)
+[20:32:42	]Marco Polo has gained a level 3 long boost in Strength.
+[20:32:47	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:48	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:48	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:48	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:48	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:48	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:48	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:49	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:49	]Marco Polo has fired a toolgun with the name: dynamite
+[20:32:50	]Marco Polo destroyed a 'Soda Bob Ultra Nuclear Mega Prime Energy' #3307071.
+[20:32:53	]Marco Polo exited observer.
+[20:32:54	]Marco Polo entered observer.
+[20:32:55	]Marco Polo exited observer.
+[20:33:08	]Marco Polo has used a context menu option with the name: remove
+[20:33:21	]Marco Polo has spawned a largebag.
+[20:33:22	]Marco Polo has spawned a wn_bag.
+[20:33:24	]Marco Polo has used a context menu option with the name: remove
+[20:33:24	]Marco Polo has spawned a smallbag.
+[20:33:25	]Marco Polo ran 'take' on item 'Small Bag' (#3307102)
+[20:33:25	]Marco Polo has gained a 'Small Bag' #3307102.
+[20:33:27	]Marco Polo ran 'take' on item 'Large Bag' (#3307100)
+[20:33:27	]Marco Polo has gained a 'Large Bag' #3307100.
+[20:33:46	]Marco Polo used command '/CharEditBodygroup ^'.
+[20:34:22	]Marco Polo has changed Marco Polo's bodygroups.
+[20:34:37	]Marco Polo has changed Marco Polo's bodygroups.
+[20:34:50	]Marco Polo has changed Marco Polo's bodygroups.
+[20:35:00	]Marco Polo has given himself a bullet_pouch.
+[20:35:00	]Marco Polo has gained a 'Ammunition Pouch' #3307103.
+[20:35:01	]Marco Polo has given himself a mag_pouch.
+[20:35:02	]Marco Polo has gained a 'Magazine Pouch' #3307104.
+[20:35:02	]Marco Polo has given himself a mag_pouch.
+[20:35:02	]Marco Polo has gained a 'Magazine Pouch' #3307105.
+[20:35:04	]Marco Polo has given himself a mag_pouch.
+[20:35:04	]Marco Polo has gained a 'Magazine Pouch' #3307106.
+[20:35:04	]Marco Polo has given himself a bullet_pouch.
+[20:35:04	]Marco Polo has gained a 'Ammunition Pouch' #3307107.
+[20:35:07	]Marco Polo ran 'drop' on item 'Ammunition Pouch' (#3307107)
+[20:35:07	]Marco Polo has lost a 'Ammunition Pouch' #3307107.
+[20:35:11	]Marco Polo has used a context menu option with the name: remove
+[20:35:18	]Marco Polo has given himself a bullet_pouch.
+[20:35:18	]Marco Polo has gained a 'Ammunition Pouch' #3307108.
+[20:35:50	]Marco Polo ran 'drop' on item 'Purple CCA armband' (#3307098)
+[20:35:50	]Marco Polo has lost a 'Purple CCA armband' #3307098.
+[20:35:52	]Marco Polo ran 'take' on item 'Purple CCA armband' (#3307098)
+[20:35:52	]Marco Polo has gained a 'Purple CCA armband' #3307098.
+[20:35:54	]Marco Polo ran 'Equip' on item 'Purple CCA armband' (#3307098)
+[20:36:05	]Marco Polo used command '/SetInebriation ^ 0'.
+[20:36:07	]Marco Polo used command '/SetInebriation ^ 1'.
+[20:36:46	]Marco Polo has spawned a res_g3.
+[20:36:49	]Marco Polo ran 'take' on item 'G3A3' (#3307109)
+[20:36:49	]Marco Polo has gained a 'G3A3' #3307109.
+[20:37:04	]Marco Polo ran 'drop' on item 'G3A3' (#3307109)
+[20:37:04	]Marco Polo has lost a 'G3A3' #3307109.
+[20:37:06	]Marco Polo ran 'take' on item 'G3A3' (#3307109)
+[20:37:06	]Marco Polo has gained a 'G3A3' #3307109.
+[20:37:20	]Marco Polo ran 'drop' on item 'Magazine Pouch' (#3307106)
+[20:37:20	]Marco Polo has lost a 'Magazine Pouch' #3307106.
+[20:37:24	]Marco Polo has spawned a capda.
+[20:37:25	]Marco Polo ran 'take' on item 'Civil Administration PDA' (#3307110)
+[20:37:25	]Marco Polo has gained a 'Civil Administration PDA' #3307110.
+[20:37:28	]Marco Polo ran 'Equip' on item 'Civil Administration PDA' (#3307110)
+[20:37:29	]Marco Polo ran 'EquipUn' on item 'Combine PDA' (#3307094)
+[20:37:30	]Marco Polo ran 'Equip' on item 'Civil Administration PDA' (#3307110)
+[20:38:10	]Marco Polo ran 'drop' on item 'Civil Administration PDA' (#3307110)
+[20:38:10	]Marco Polo has lost a 'Civil Administration PDA' #3307110.
+[20:38:12	]Marco Polo used command '/ToggleRaise'.
+[20:38:13	]Marco Polo destroyed a 'Civil Administration PDA' #3307110.
+[20:38:13	]Marco Polo used command '/ToggleRaise'.
+[20:39:30	]Marco Polo has spawned a xen_pie.
+[20:39:32	]Marco Polo ran 'Consume' on item 'Xenian Pie' (#3307111)
+[20:39:32	]Marco Polo has gained a level 7 long boost in Strength.
+[20:39:32	]Marco Polo has gained a level 7 long boost in Agility.
+[20:39:32	]Marco Polo has gained a level 7 long boost in Intelligence.
+[20:39:32	]Marco Polo has gained a level 7 long boost in Perception.
+[20:39:34	]Marco Polo has spawned a xen_stew.
+[20:39:35	]Marco Polo ran 'take' on item 'Xenian Stew' (#3307112)
+[20:39:35	]Marco Polo has gained a 'Xenian Stew' #3307112.
+[20:39:37	]Marco Polo ran 'Consume' on item 'Xenian Stew' (#3307112)
+[20:39:37	]Marco Polo has wasted a level 7 long boost in Strength (current: 0; target: 7).
+[20:39:37	]Marco Polo has wasted a level 7 long boost in Agility (current: 0; target: 7).
+[20:39:37	]Marco Polo has wasted a level 7 long boost in Intelligence (current: 0; target: 7).
+[20:39:37	]Marco Polo has wasted a level 7 long boost in Perception (current: 0; target: 7).
+[20:41:00	]Marco Polo has used a context menu option with the name: remove
+[20:41:13	]Marco Polo has spawned a cca_executive_armored.
+[20:41:14	]Marco Polo ran 'take' on item 'The Executive - Armored' (#3307113)
+[20:41:14	]Marco Polo has gained a 'The Executive - Armored' #3307113.
+[20:42:25	]Marco Polo has given himself a mag_pouch.
+[20:42:25	]Marco Polo has gained a 'Magazine Pouch' #3307114.
+[20:42:26	]Marco Polo has given himself a mag_pouch.
+[20:42:26	]Marco Polo has gained a 'Magazine Pouch' #3307115.
+[20:42:29	]Marco Polo ran 'drop' on item 'G3A3' (#3307109)
+[20:42:29	]Marco Polo has lost a 'G3A3' #3307109.
+[20:42:31	]Marco Polo ran 'take' on item 'G3A3' (#3307109)
+[20:42:31	]Marco Polo has gained a 'G3A3' #3307109.
+[20:42:32	]Marco Polo ran 'Equip' on item 'G3A3' (#3307109)
+[20:42:49	]Marco Polo has spawned a res_deagle.
+[20:42:50	]Marco Polo ran 'take' on item 'Deagle' (#3307116)
+[20:42:50	]Marco Polo has gained a 'Deagle' #3307116.
+[20:42:56	]Marco Polo ran 'drop' on item 'Deagle' (#3307116)
+[20:42:56	]Marco Polo has lost a 'Deagle' #3307116.
+[20:42:57	]Marco Polo ran 'take' on item 'Deagle' (#3307116)
+[20:42:57	]Marco Polo has gained a 'Deagle' #3307116.
+[20:42:59	]Marco Polo ran 'drop' on item 'Deagle' (#3307116)
+[20:42:59	]Marco Polo has lost a 'Deagle' #3307116.
+[20:43:01	]Marco Polo ran 'take' on item 'Deagle' (#3307116)
+[20:43:01	]Marco Polo has gained a 'Deagle' #3307116.
+[20:43:03	]Marco Polo ran 'drop' on item 'Deagle' (#3307116)
+[20:43:03	]Marco Polo has lost a 'Deagle' #3307116.
+[20:43:04	]Marco Polo ran 'take' on item 'Deagle' (#3307116)
+[20:43:04	]Marco Polo has gained a 'Deagle' #3307116.
+[20:43:06	]Marco Polo ran 'Equip' on item 'Deagle' (#3307116)
+[20:43:08	]Marco Polo used command '/ToggleRaise'.
+[20:43:33	]Marco Polo has spawned a ur_deagle_skin_gold.
+[20:43:35	]Marco Polo ran 'take' on item 'Desert Eagle Titanium Gold Finish' (#3307117)
+[20:43:35	]Marco Polo has gained a 'Desert Eagle Titanium Gold Finish' #3307117.
+[20:43:36	]Marco Polo has lost a 'Desert Eagle Titanium Gold Finish' #3307117.
+[20:44:03	]Marco (STEAM_0:0:39958603) has disconnected.
+[20:49:52	]Marco has connected.
+[20:52:28	]Marco loaded the character 'Marco Polo'
+[20:52:54	]Marco Polo has spawned a cca_legs_executive.
+[20:52:55	]Marco Polo ran 'take' on item 'Executive Trousers' (#3307118)
+[20:52:55	]Marco Polo has gained a 'Executive Trousers' #3307118.
+[20:53:01	]Marco Polo ran 'drop' on item 'The Executive - Armored' (#3307113)
+[20:53:01	]Marco Polo has lost a 'The Executive - Armored' #3307113.
+[20:53:02	]Marco Polo ran 'drop' on item 'The Authoritarian Trousers' (#3307096)
+[20:53:02	]Marco Polo has lost a 'The Authoritarian Trousers' #3307096.
+[20:53:06	]Marco Polo ran 'take' on item 'The Authoritarian Trousers' (#3307096)
+[20:53:06	]Marco Polo has gained a 'The Authoritarian Trousers' #3307096.
+[20:53:12	]Marco Polo ran 'drop' on item 'Executive Trousers' (#3307118)
+[20:53:12	]Marco Polo has lost a 'Executive Trousers' #3307118.
+[20:53:12	]Marco Polo used command '/ToggleRaise'.
+[20:53:13	]Marco Polo destroyed a 'Executive Trousers' #3307118.
+[20:53:14	]Marco Polo destroyed a 'The Executive - Armored' #3307113.
+[20:53:15	]Marco Polo used command '/ToggleRaise'.
+[20:53:21	]Marco Polo has spawned a cca_authoritarian_armored.
+[20:53:22	]Marco Polo ran 'take' on item 'The Authoritarian - armored' (#3307119)
+[20:53:22	]Marco Polo has gained a 'The Authoritarian - armored' #3307119.
+[20:53:42	]Marco Polo has spawned a cca_emir_armored.
+[20:53:46	]Marco Polo has fired a toolgun with the name: dynamite
+[20:53:47	]Marco Polo has hit Marco Polo dealing 34 damage (CritChance was 0.00).
+[20:53:47	]Marco Polo has taken 34 damage from Marco Polo.
+[20:53:49	]Marco Polo destroyed a 'The Emir - Armored' #3307120.
+[20:53:58	]Marco Polo is fully healed.
+[20:54:10	]Marco Polo has spawned a tool_repair.
+[20:54:11	]Marco Polo ran 'take' on item 'Repair Plating' (#3307121)
+[20:54:11	]Marco Polo has gained a 'Repair Plating' #3307121.
+[20:54:25	]Marco Polo ran 'drop' on item 'The Authoritarian - armored' (#3307119)
+[20:54:25	]Marco Polo has lost a 'The Authoritarian - armored' #3307119.
+[20:54:26	]Marco Polo ran 'drop' on item 'The Authoritarian Trousers' (#3307096)
+[20:54:26	]Marco Polo has lost a 'The Authoritarian Trousers' #3307096.
+[20:54:26	]Marco Polo used command '/ToggleRaise'.
+[20:54:28	]Marco Polo destroyed a 'The Authoritarian - armored' #3307119.
+[20:54:28	]Marco Polo destroyed a 'The Authoritarian Trousers' #3307096.
+[20:54:29	]Marco Polo used command '/ToggleRaise'.
+[20:54:33	]Marco Polo has spawned a cca_investigator_armored.
+[20:54:38	]Marco Polo ran 'take' on item 'The Investigator - Armored' (#3307122)
+[20:54:38	]Marco Polo has gained a 'The Investigator - Armored' #3307122.
+[20:54:40	]Marco Polo ran 'drop' on item 'The Investigator - Armored' (#3307122)
+[20:54:40	]Marco Polo has lost a 'The Investigator - Armored' #3307122.
+[20:54:40	]Marco Polo used command '/ToggleRaise'.
+[20:54:41	]Marco Polo destroyed a 'The Investigator - Armored' #3307122.
+[20:54:42	]Marco Polo used command '/ToggleRaise'.
+[20:54:44	]Marco Polo has spawned a cca_bureaucratic_armored.
+[20:54:46	]Marco Polo ran 'take' on item 'Bureaucratic Devil - Armored' (#3307123)
+[20:54:46	]Marco Polo has gained a 'Bureaucratic Devil - Armored' #3307123.
+[20:54:51	]Marco Polo has spawned a cca_legs_bureaucratic.
+[20:54:52	]Marco Polo ran 'take' on item 'Bureaucratic Devil Trousers' (#3307124)
+[20:54:52	]Marco Polo has gained a 'Bureaucratic Devil Trousers' #3307124.
+[20:55:08	]Marco Polo has spawned a cca_legs_realist.
+[20:55:10	]Marco Polo ran 'take' on item 'Realist Trousers' (#3307125)
+[20:55:10	]Marco Polo has gained a 'Realist Trousers' #3307125.
+[20:55:15	]Marco Polo ran 'drop' on item 'Realist Trousers' (#3307125)
+[20:55:15	]Marco Polo has lost a 'Realist Trousers' #3307125.
+[20:55:15	]Marco Polo used command '/ToggleRaise'.
+[20:55:17	]Marco Polo destroyed a 'Realist Trousers' #3307125.
+[20:55:17	]Marco Polo used command '/ToggleRaise'.
+[20:55:25	]Marco Polo has spawned a cca_urban_armored.
+[20:55:25	]Marco Polo has spawned a cca_legs_urban.
+[20:55:28	]Marco Polo ran 'drop' on item 'Bureaucratic Devil - Armored' (#3307123)
+[20:55:28	]Marco Polo has lost a 'Bureaucratic Devil - Armored' #3307123.
+[20:55:28	]Marco Polo ran 'drop' on item 'Bureaucratic Devil Trousers' (#3307124)
+[20:55:28	]Marco Polo has lost a 'Bureaucratic Devil Trousers' #3307124.
+[20:55:29	]Marco Polo used command '/ToggleRaise'.
+[20:55:30	]Marco Polo destroyed a 'Bureaucratic Devil Trousers' #3307124.
+[20:55:31	]Marco Polo destroyed a 'Bureaucratic Devil - Armored' #3307123.
+[20:55:32	]Marco Polo used command '/ToggleRaise'.
+[20:55:32	]Marco Polo ran 'take' on item 'Urban Autocrat Trousers' (#3307127)
+[20:55:32	]Marco Polo has gained a 'Urban Autocrat Trousers' #3307127.
+[20:55:33	]Marco Polo ran 'take' on item 'Urban Autocrat - Armored' (#3307126)
+[20:55:33	]Marco Polo has gained a 'Urban Autocrat - Armored' #3307126.
+[20:55:39	]Marco Polo has spawned a shoes_dress_shoes.
+[20:55:40	]Marco Polo ran 'take' on item 'Dress Shoes' (#3307128)
+[20:55:40	]Marco Polo has gained a 'Dress Shoes' #3307128.
+[20:55:50	]Marco Polo used command '/CharEditBodygroup ^'.
+[20:55:55	]Marco Polo has changed Marco Polo's bodygroups.
+[20:56:04	]Marco Polo has changed Marco Polo's bodygroups.
+[20:56:23	]Marco Polo has changed Marco Polo's bodygroups.
+[20:56:34	]Marco Polo used command '/SetMood headstrong'.
+[20:56:37	]Marco Polo used command '/SetMood default'.
+[20:56:42	]Marco Polo used command '/SetMood headstrong'.
+[20:56:45	]Marco Polo used command '/SetMood relaxed'.
+[20:56:51	]Marco Polo used command '/SetMood frustrated'.
+[20:56:56	]Marco Polo used command '/SetMood default'.
+[20:57:04	]Marco Polo used command '/SetMood headstrong'.
+[20:57:15	]Marco Polo ran 'EquipUn' on item 'Deagle' (#3307116)
+[20:57:16	]Marco Polo ran 'EquipUn' on item 'G3A3' (#3307109)
+[20:57:25	]Marco Polo has spawned a magazine_deagle.
+[20:57:26	]Marco Polo has spawned a magazine_deagle.
+[20:57:26	]Marco Polo has spawned a magazine_deagle.
+[20:57:26	]Marco Polo has spawned a magazine_deagle.
+[20:57:29	]Marco Polo ran 'take' on item '7rnd Deagle Magazine' (#3307132)
+[20:57:29	]Marco Polo has gained a '7rnd Deagle Magazine' #3307132.
+[20:57:30	]Marco Polo ran 'take' on item '7rnd Deagle Magazine' (#3307131)
+[20:57:30	]Marco Polo has gained a '7rnd Deagle Magazine' #3307131.
+[20:57:32	]Marco Polo ran 'take' on item '7rnd Deagle Magazine' (#3307130)
+[20:57:32	]Marco Polo has gained a '7rnd Deagle Magazine' #3307130.
+[20:57:33	]Marco Polo ran 'take' on item '7rnd Deagle Magazine' (#3307129)
+[20:57:33	]Marco Polo has gained a '7rnd Deagle Magazine' #3307129.
+[20:57:37	]Marco Polo has spawned a bullets_357.
+[20:57:38	]Marco Polo has spawned a bullets_357.
+[20:57:39	]Marco Polo has spawned a bullets_357.
+[20:57:40	]Marco Polo ran 'take' on item '357 Rounds' (#3307135)
+[20:57:40	]Marco Polo has gained a '357 Rounds' #3307135.
+[20:57:41	]Marco Polo ran 'take' on item '357 Rounds' (#3307134)
+[20:57:41	]Marco Polo has gained a '357 Rounds' #3307134.
+[20:57:42	]Marco Polo ran 'take' on item '357 Rounds' (#3307133)
+[20:57:42	]Marco Polo has gained a '357 Rounds' #3307133.
+[20:57:43	]Marco Polo ran 'combine' on item '7rnd Deagle Magazine' (#3307129)
+[20:57:44	]Marco Polo ran 'combine' on item '7rnd Deagle Magazine' (#3307130)
+[20:57:46	]Marco Polo ran 'combine' on item '7rnd Deagle Magazine' (#3307131)
+[20:57:47	]Marco Polo ran 'combine' on item '7rnd Deagle Magazine' (#3307132)
+[20:57:49	]Marco Polo ran 'combine' on item '7rnd Deagle Magazine' (#3307132)
+[20:57:51	]Marco Polo ran 'drop' on item '357 Rounds' (#3307134)
+[20:57:51	]Marco Polo has lost a '357 Rounds' #3307134.
+[20:57:51	]Marco Polo used command '/ToggleRaise'.
+[20:57:52	]Marco Polo destroyed a '357 Rounds' #3307134.
+[20:57:53	]Marco Polo used command '/ToggleRaise'.
+[20:57:54	]Marco Polo has spawned a bullets_357.
+[20:57:55	]Marco Polo has spawned a bullets_357.
+[20:57:55	]Marco Polo ran 'take' on item '357 Rounds' (#3307137)
+[20:57:55	]Marco Polo has gained a '357 Rounds' #3307137.
+[20:57:56	]Marco Polo ran 'take' on item '357 Rounds' (#3307136)
+[20:57:56	]Marco Polo has gained a '357 Rounds' #3307136.
+[20:57:57	]Marco Polo ran 'combine' on item 'Ammunition Pouch' (#3307103)
+[20:57:58	]Marco Polo ran 'combine' on item 'Ammunition Pouch' (#3307103)
+[20:57:59	]Marco Polo ran 'combine' on item 'Ammunition Pouch' (#3307103)
+[20:58:00	]Marco Polo has spawned a bullets_357.
+[20:58:01	]Marco Polo ran 'take' on item '357 Rounds' (#3307138)
+[20:58:01	]Marco Polo has gained a '357 Rounds' #3307138.
+[20:58:02	]Marco Polo ran 'combine' on item 'Ammunition Pouch' (#3307103)
+[20:58:04	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307104)
+[20:58:04	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307104)
+[20:58:05	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307104)
+[20:58:06	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307104)
+[20:58:29	]Marco Polo has spawned a magazine_g3.
+[20:58:29	]Marco Polo has spawned a magazine_g3.
+[20:58:29	]Marco Polo has spawned a magazine_g3.
+[20:58:30	]Marco Polo has spawned a magazine_g3.
+[20:58:30	]Marco Polo has spawned a magazine_g3.
+[20:58:31	]Marco Polo has spawned a magazine_g3.
+[20:58:31	]Marco Polo has spawned a magazine_g3.
+[20:58:32	]Marco Polo has spawned a magazine_g3.
+[20:58:49	]Marco Polo has spawned a bullets_assaultrifle.
+[20:58:49	]Marco Polo has spawned a bullets_assaultrifle.
+[20:58:50	]Marco Polo has spawned a bullets_assaultrifle.
+[20:58:51	]Marco Polo ran 'take' on item 'Assault Rifle Bullets' (#3307149)
+[20:58:51	]Marco Polo has gained a 'Assault Rifle Bullets' #3307149.
+[20:58:51	]Marco Polo ran 'take' on item 'Assault Rifle Bullets' (#3307148)
+[20:58:51	]Marco Polo has gained a 'Assault Rifle Bullets' #3307148.
+[20:58:52	]Marco Polo ran 'take' on item 'Assault Rifle Bullets' (#3307147)
+[20:58:52	]Marco Polo has gained a 'Assault Rifle Bullets' #3307147.
+[20:58:54	]Marco Polo has spawned a bullets_assaultrifle.
+[20:58:54	]Marco Polo has spawned a bullets_assaultrifle.
+[20:58:55	]Marco Polo ran 'take' on item 'Assault Rifle Bullets' (#3307150)
+[20:58:55	]Marco Polo has gained a 'Assault Rifle Bullets' #3307150.
+[20:58:56	]Marco Polo ran 'take' on item 'Assault Rifle Bullets' (#3307151)
+[20:58:56	]Marco Polo has gained a 'Assault Rifle Bullets' #3307151.
+[20:59:10	]Marco Polo has fired a toolgun with the name: dynamite
+[20:59:11	]Marco Polo destroyed a '20rnd G3 Magazine' #3307146.
+[20:59:11	]Marco Polo destroyed a '20rnd G3 Magazine' #3307145.
+[20:59:11	]Marco Polo destroyed a '20rnd G3 Magazine' #3307144.
+[20:59:11	]Marco Polo destroyed a '20rnd G3 Magazine' #3307143.
+[20:59:11	]Marco Polo destroyed a '20rnd G3 Magazine' #3307142.
+[20:59:11	]Marco Polo destroyed a '20rnd G3 Magazine' #3307141.
+[20:59:11	]Marco Polo destroyed a '20rnd G3 Magazine' #3307139.
+[20:59:11	]Marco Polo destroyed a '20rnd G3 Magazine' #3307140.
+[20:59:16	]Marco Polo has given himself a magazine_g3.
+[20:59:16	]Marco Polo has gained a '20rnd G3 Magazine' #3307152.
+[20:59:17	]Marco Polo has given himself a magazine_g3.
+[20:59:17	]Marco Polo has gained a '20rnd G3 Magazine' #3307153.
+[20:59:17	]Marco Polo has given himself a magazine_g3.
+[20:59:17	]Marco Polo has gained a '20rnd G3 Magazine' #3307154.
+[20:59:18	]Marco Polo has given himself a magazine_g3.
+[20:59:18	]Marco Polo has gained a '20rnd G3 Magazine' #3307155.
+[20:59:19	]Marco Polo has given himself a magazine_g3.
+[20:59:19	]Marco Polo has gained a '20rnd G3 Magazine' #3307156.
+[20:59:20	]Marco Polo has given himself a magazine_g3.
+[20:59:20	]Marco Polo has gained a '20rnd G3 Magazine' #3307157.
+[20:59:20	]Marco Polo has given himself a magazine_g3.
+[20:59:20	]Marco Polo has gained a '20rnd G3 Magazine' #3307158.
+[20:59:22	]Marco Polo ran 'combine' on item '20rnd G3 Magazine' (#3307152)
+[20:59:22	]Marco Polo ran 'combine' on item '20rnd G3 Magazine' (#3307158)
+[20:59:23	]Marco Polo ran 'combine' on item '20rnd G3 Magazine' (#3307157)
+[20:59:23	]Marco Polo ran 'combine' on item '20rnd G3 Magazine' (#3307156)
+[20:59:24	]Marco Polo ran 'combine' on item '20rnd G3 Magazine' (#3307155)
+[20:59:25	]Marco Polo ran 'combine' on item '20rnd G3 Magazine' (#3307154)
+[20:59:25	]Marco Polo ran 'combine' on item '20rnd G3 Magazine' (#3307153)
+[20:59:27	]Marco Polo has given himself a magazine_g3.
+[20:59:27	]Marco Polo has gained a '20rnd G3 Magazine' #3307159.
+[20:59:28	]Marco Polo ran 'combine' on item '20rnd G3 Magazine' (#3307159)
+[20:59:29	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307104)
+[20:59:29	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307105)
+[20:59:30	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307105)
+[20:59:31	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307105)
+[20:59:31	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307105)
+[20:59:32	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307105)
+[20:59:36	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307114)
+[20:59:37	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307114)
+[20:59:38	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307114)
+[20:59:39	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307114)
+[20:59:40	]Marco Polo has given himself a magazine_g3.
+[20:59:40	]Marco Polo has gained a '20rnd G3 Magazine' #3307160.
+[20:59:41	]Marco Polo has given himself a magazine_g3.
+[20:59:41	]Marco Polo has gained a '20rnd G3 Magazine' #3307161.
+[20:59:42	]Marco Polo has given himself a magazine_g3.
+[20:59:42	]Marco Polo has gained a '20rnd G3 Magazine' #3307162.
+[20:59:43	]Marco Polo has given himself a magazine_g3.
+[20:59:43	]Marco Polo has gained a '20rnd G3 Magazine' #3307163.
+[20:59:44	]Marco Polo ran 'combine' on item '20rnd G3 Magazine' (#3307160)
+[20:59:44	]Marco Polo ran 'combine' on item '20rnd G3 Magazine' (#3307161)
+[20:59:45	]Marco Polo ran 'combine' on item '20rnd G3 Magazine' (#3307163)
+[20:59:46	]Marco Polo ran 'combine' on item '20rnd G3 Magazine' (#3307162)
+[20:59:46	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307115)
+[20:59:47	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307115)
+[20:59:47	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307115)
+[20:59:48	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307115)
+[20:59:50	]Marco Polo ran 'combine' on item 'Ammunition Pouch' (#3307103)
+[20:59:51	]Marco Polo ran 'combine' on item 'Ammunition Pouch' (#3307103)
+[20:59:51	]Marco Polo ran 'combine' on item 'Ammunition Pouch' (#3307103)
+[20:59:56	]Marco Polo has spawned a bullets_assaultrifle.
+[20:59:56	]Marco Polo has spawned a bullets_assaultrifle.
+[20:59:56	]Marco Polo has spawned a bullets_assaultrifle.
+[20:59:56	]Marco Polo has spawned a bullets_assaultrifle.
+[20:59:57	]Marco Polo has spawned a bullets_assaultrifle.
+[20:59:57	]Marco Polo has spawned a bullets_assaultrifle.
+[20:59:58	]Marco Polo ran 'take' on item 'Assault Rifle Bullets' (#3307169)
+[20:59:58	]Marco Polo has gained a 'Assault Rifle Bullets' #3307169.
+[20:59:58	]Marco Polo ran 'take' on item 'Assault Rifle Bullets' (#3307168)
+[20:59:58	]Marco Polo has gained a 'Assault Rifle Bullets' #3307168.
+[21:00:00	]Marco Polo ran 'take' on item 'Assault Rifle Bullets' (#3307167)
+[21:00:00	]Marco Polo has gained a 'Assault Rifle Bullets' #3307167.
+[21:00:00	]Marco Polo ran 'take' on item 'Assault Rifle Bullets' (#3307166)
+[21:00:00	]Marco Polo has gained a 'Assault Rifle Bullets' #3307166.
+[21:00:01	]Marco Polo ran 'take' on item 'Assault Rifle Bullets' (#3307165)
+[21:00:01	]Marco Polo has gained a 'Assault Rifle Bullets' #3307165.
+[21:00:03	]Marco Polo ran 'take' on item 'Assault Rifle Bullets' (#3307164)
+[21:00:03	]Marco Polo has gained a 'Assault Rifle Bullets' #3307164.
+[21:00:04	]Marco Polo ran 'combine' on item 'Ammunition Pouch' (#3307103)
+[21:00:04	]Marco Polo ran 'combine' on item 'Ammunition Pouch' (#3307103)
+[21:00:05	]Marco Polo ran 'combine' on item 'Ammunition Pouch' (#3307103)
+[21:00:05	]Marco Polo ran 'combine' on item 'Ammunition Pouch' (#3307108)
+[21:00:06	]Marco Polo ran 'combine' on item 'Ammunition Pouch' (#3307108)
+[21:00:06	]Marco Polo ran 'combine' on item 'Ammunition Pouch' (#3307108)
+[21:00:07	]Marco Polo ran 'combine' on item 'Ammunition Pouch' (#3307108)
+[21:00:07	]Marco Polo ran 'combine' on item 'Ammunition Pouch' (#3307108)
+[21:00:08	]Marco Polo has spawned a bullets_assaultrifle.
+[21:00:09	]Marco Polo has spawned a bullets_assaultrifle.
+[21:00:09	]Marco Polo ran 'take' on item 'Assault Rifle Bullets' (#3307171)
+[21:00:09	]Marco Polo has gained a 'Assault Rifle Bullets' #3307171.
+[21:00:10	]Marco Polo ran 'take' on item 'Assault Rifle Bullets' (#3307170)
+[21:00:10	]Marco Polo has gained a 'Assault Rifle Bullets' #3307170.
+[21:00:11	]Marco Polo ran 'combine' on item 'Ammunition Pouch' (#3307108)
+[21:00:12	]Marco Polo ran 'combine' on item 'Ammunition Pouch' (#3307108)
+[21:00:14	]Marco Polo has spawned a bullets_assaultrifle.
+[21:00:15	]Marco Polo ran 'take' on item 'Assault Rifle Bullets' (#3307172)
+[21:00:15	]Marco Polo has gained a 'Assault Rifle Bullets' #3307172.
+[21:00:16	]Marco Polo ran 'combine' on item 'Ammunition Pouch' (#3307108)
+[21:00:23	]Marco Polo ran 'Equip' on item 'G3A3' (#3307109)
+[21:00:24	]Marco Polo ran 'Equip' on item 'Deagle' (#3307116)
+[21:00:26	]Marco Polo ran 'Equip' on item 'Combine PDA' (#3307094)
+[21:00:58	]Marco Polo has spawned a lrr_mc.
+[21:00:59	]Marco Polo has spawned a lrr_mc.
+[21:01:00	]Marco Polo has spawned a lrr.
+[21:01:01	]Marco Polo has spawned a old_radio.
+[21:01:04	]Marco Polo has used a context menu option with the name: remove
+[21:01:11	]Marco Polo has used a context menu option with the name: remove
+[21:01:12	]Marco Polo has used a context menu option with the name: remove
+[21:01:14	]Marco Polo has used a context menu option with the name: remove
+[21:01:19	]Marco Polo has spawned a tool_toolkit.
+[21:01:20	]Marco Polo ran 'take' on item 'Toolkit' (#3307177)
+[21:01:20	]Marco Polo has gained a 'Toolkit' #3307177.
+[21:01:36	]Marco Polo ran 'EquipUn' on item 'Combine PDA' (#3307094)
+[21:02:02	]Marco Polo has spawned a hatchet.
+[21:02:04	]Marco Polo ran 'take' on item 'Hatchet' (#3307178)
+[21:02:04	]Marco Polo has gained a 'Hatchet' #3307178.
+[21:02:07	]Marco Polo ran 'Equip' on item 'Hatchet' (#3307178)
+[21:02:13	]Marco Polo ran 'EquipUn' on item 'Hatchet' (#3307178)
+[21:02:13	]Marco Polo ran 'drop' on item 'Hatchet' (#3307178)
+[21:02:13	]Marco Polo has lost a 'Hatchet' #3307178.
+[21:02:14	]Marco Polo used command '/ToggleRaise'.
+[21:02:15	]Marco Polo destroyed a 'Hatchet' #3307178.
+[21:02:16	]Marco Polo used command '/ToggleRaise'.
+[21:02:17	]Marco Polo has spawned a kitknife.
+[21:02:18	]Marco Polo ran 'take' on item 'Kitchen Knife' (#3307179)
+[21:02:18	]Marco Polo has gained a 'Kitchen Knife' #3307179.
+[21:02:21	]Marco Polo ran 'Equip' on item 'Kitchen Knife' (#3307179)
+[21:02:26	]Marco Polo used command '/ToggleRaise'.
+[21:02:31	]Marco Polo ran 'hold' on item 'Toolkit' (#3307177)
+[21:02:35	]Marco Polo ran 'hold' on item 'Toolkit' (#3307177)
+[21:02:38	]Marco Polo ran 'hputback' on item 'Toolkit' (#3307177)
+[21:02:56	]Marco Polo has lost a '7rnd Deagle Magazine' #3307132.
+[21:02:58	]Marco Polo used command '/ToggleRaise'.
+[21:03:41	]Marco Polo has spawned a uc_fg_deeprifling.
+[21:03:43	]Marco Polo ran 'take' on item 'Deep Rifling' (#3307180)
+[21:03:43	]Marco Polo has gained a 'Deep Rifling' #3307180.
+[21:03:45	]Marco Polo has lost a 'Deep Rifling' #3307180.
+[21:04:23	]Marco Polo has spawned a ur_deagle_barrel_marksman.
+[21:04:24	]Marco Polo ran 'take' on item '10" Desert Eagle Marksman Barrel' (#3307181)
+[21:04:24	]Marco Polo has gained a '10" Desert Eagle Marksman Barrel' #3307181.
+[21:04:26	]Marco Polo has lost a '10" Desert Eagle Marksman Barrel' #3307181.
+[21:04:32	]Marco Polo has gained a '10" Desert Eagle Marksman Barrel' #3307181.
+[21:04:33	]Marco Polo ran 'drop' on item '10" Desert Eagle Marksman Barrel' (#3307181)
+[21:04:33	]Marco Polo has lost a '10" Desert Eagle Marksman Barrel' #3307181.
+[21:04:41	]Marco Polo has spawned a ur_deagle_barrel_annihilator.
+[21:04:42	]Marco Polo ran 'take' on item '6.75" Desert Eagle Annihilator Barrel' (#3307182)
+[21:04:42	]Marco Polo has gained a '6.75" Desert Eagle Annihilator Barrel' #3307182.
+[21:04:43	]Marco Polo has lost a '6.75" Desert Eagle Annihilator Barrel' #3307182.
+[21:05:05	]Marco Polo has spawned a ur_deagle_barrel_ext.
+[21:05:07	]Marco Polo ran 'take' on item '7" Desert Eagle Extended Barrel' (#3307183)
+[21:05:07	]Marco Polo has gained a '7" Desert Eagle Extended Barrel' #3307183.
+[21:05:20	]Marco Polo has gained a '6.75" Desert Eagle Annihilator Barrel' #3307182.
+[21:05:20	]Marco Polo has lost a '7" Desert Eagle Extended Barrel' #3307183.
+[21:05:21	]Marco Polo used command '/ToggleRaise'.
+[21:05:25	]Marco Polo ran 'drop' on item '6.75" Desert Eagle Annihilator Barrel' (#3307182)
+[21:05:25	]Marco Polo has lost a '6.75" Desert Eagle Annihilator Barrel' #3307182.
+[21:05:26	]Marco Polo used command '/ToggleRaise'.
+[21:05:27	]Marco Polo destroyed a '6.75" Desert Eagle Annihilator Barrel' #3307182.
+[21:05:28	]Marco Polo destroyed a '10" Desert Eagle Marksman Barrel' #3307181.
+[21:05:28	]Marco Polo used command '/ToggleRaise'.
+[21:05:32	]Marco Polo used command '/ToggleRaise'.
+[21:05:47	]Marco Polo ran 'drop' on item 'Deagle' (#3307116)
+[21:05:47	]Marco Polo has lost a 'Deagle' #3307116.
+[21:05:49	]Marco Polo ran 'take' on item 'Deagle' (#3307116)
+[21:05:49	]Marco Polo has gained a 'Deagle' #3307116.
+[21:05:50	]Marco Polo ran 'Equip' on item 'Deagle' (#3307116)
+[21:05:52	]Marco Polo used command '/ToggleRaise'.
+[21:07:04	]Marco Polo has spawned a uc_ammo_ap.
+[21:07:05	]Marco Polo ran 'take' on item '"AP" Armor-piercing Rounds' (#3307184)
+[21:07:05	]Marco Polo has gained a '"AP" Armor-piercing Rounds' #3307184.
+[21:07:07	]Marco Polo has lost a '"AP" Armor-piercing Rounds' #3307184.
+[21:07:08	]Marco Polo has gained a '7rnd Deagle Magazine' #3307132.
+[21:07:08	]Marco Polo has lost a '7rnd Deagle Magazine' #3307131.
+[21:07:14	]Marco Polo has gained a '7rnd Deagle Magazine' #3307131.
+[21:07:14	]Marco Polo has lost a '7rnd Deagle Magazine' #3307132.
+[21:08:28	]Marco Polo has lost a '20rnd G3 Magazine' #3307163.
+[21:08:29	]Marco Polo used command '/ToggleRaise'.
+[21:09:04	]Marco Polo has spawned a ur_g3_stock_psg.
+[21:09:05	]Marco Polo ran 'take' on item 'PSG-1 Sniper Stock' (#3307185)
+[21:09:05	]Marco Polo has gained a 'PSG-1 Sniper Stock' #3307185.
+[21:09:07	]Marco Polo has lost a 'PSG-1 Sniper Stock' #3307185.
+[21:09:23	]Marco Polo has spawned a ur_g3_rec_psg.
+[21:09:24	]Marco Polo ran 'take' on item 'PSG-1 Receiver' (#3307186)
+[21:09:24	]Marco Polo has gained a 'PSG-1 Receiver' #3307186.
+[21:09:29	]Marco Polo ran 'drop' on item 'PSG-1 Receiver' (#3307186)
+[21:09:29	]Marco Polo has lost a 'PSG-1 Receiver' #3307186.
+[21:09:31	]Marco Polo used command '/ToggleRaise'.
+[21:09:32	]Marco Polo destroyed a 'PSG-1 Receiver' #3307186.
+[21:09:32	]Marco Polo used command '/ToggleRaise'.
+[21:10:02	]Marco Polo has spawned a ur_g3_hg_pica.
+[21:10:03	]Marco Polo ran 'take' on item 'RIS Handguard' (#3307187)
+[21:10:03	]Marco Polo has gained a 'RIS Handguard' #3307187.
+[21:10:05	]Marco Polo has lost a 'RIS Handguard' #3307187.
+[21:10:24	]Marco Polo has spawned a uc_muzzle_compensator.
+[21:10:25	]Marco Polo ran 'take' on item 'Basilisk Heavy Compensator' (#3307188)
+[21:10:25	]Marco Polo has gained a 'Basilisk Heavy Compensator' #3307188.
+[21:10:26	]Marco Polo has lost a 'Basilisk Heavy Compensator' #3307188.
+[21:10:50	]Marco Polo has spawned a uc_fg_deeprifling.
+[21:10:56	]Marco Polo has spawned a uc_ammo_ap.
+[21:10:57	]Marco Polo ran 'take' on item '"AP" Armor-piercing Rounds' (#3307190)
+[21:10:57	]Marco Polo has gained a '"AP" Armor-piercing Rounds' #3307190.
+[21:10:58	]Marco Polo ran 'take' on item 'Deep Rifling' (#3307189)
+[21:10:58	]Marco Polo has gained a 'Deep Rifling' #3307189.
+[21:10:59	]Marco Polo has lost a 'Deep Rifling' #3307189.
+[21:11:02	]Marco Polo has lost a '"AP" Armor-piercing Rounds' #3307190.
+[21:12:06	]Marco Polo has spawned a uc_optic_eotech552.
+[21:12:08	]Marco Polo ran 'take' on item 'EOTech 552 (HOLO)' (#3307191)
+[21:12:08	]Marco Polo has gained a 'EOTech 552 (HOLO)' #3307191.
+[21:12:09	]Marco Polo has lost a 'EOTech 552 (HOLO)' #3307191.
+[21:12:36	]Marco Polo has gained level 50 in the Guns skill.
+[21:12:36	]Marco Polo used command '/CharSkillSet ^ guns 50'.
+[21:12:39	]Marco Polo has gained level 50 in the Speed skill.
+[21:12:39	]Marco Polo used command '/CharSkillSet ^ speed 50'.
+[21:12:48	]Marco Polo used command '/CharSkillSet ^ guns 30'.
+[21:12:59	]Marco Polo used command '/CharSkillSet ^ speed 40'.
+[21:13:21	]Marco Polo has gained a '20rnd G3 Magazine' #3307163.
+[21:13:21	]Marco Polo has gained a '7rnd Deagle Magazine' #3307132.
+[21:13:21	]Marco Polo used command '/CharFallOver 1'.
+[21:13:52	]Marco Polo has fired a toolgun with the name: creator
+[21:13:52	]Marco Polo has spawned a 'NPC [421][npc_antlion_schizo_fireant]'.
+[21:13:53	]Marco Polo has fired a toolgun with the name: creator
+[21:13:53	]Marco Polo has spawned a 'NPC [424][npc_antlion_schizo_fireant]'.
+[21:13:53	]Marco Polo has fired a toolgun with the name: creator
+[21:13:53	]Marco Polo has spawned a 'NPC [431][npc_antlion_schizo_fireant]'.
+[21:13:54	]Marco Polo has fired a toolgun with the name: creator
+[21:13:54	]Marco Polo has spawned a 'NPC [432][npc_antlion_schizo_fireant]'.
+[21:13:54	]Marco Polo has fired a toolgun with the name: creator
+[21:13:54	]Marco Polo has spawned a 'NPC [434][npc_antlion_schizo_fireant]'.
+[21:13:55	]Marco Polo has fired a toolgun with the name: creator
+[21:13:55	]Marco Polo has spawned a 'NPC [435][npc_antlion_schizo_fireant]'.
+[21:13:55	]Marco Polo has fired a toolgun with the name: creator
+[21:13:55	]Marco Polo has spawned a 'NPC [436][npc_antlion_schizo_fireant]'.
+[21:13:56	]Marco Polo has fired a toolgun with the name: creator
+[21:13:56	]Marco Polo has spawned a 'NPC [438][npc_antlion_schizo_fireant]'.
+[21:13:57	]Marco Polo has fired a toolgun with the name: creator
+[21:13:57	]Marco Polo has spawned a 'NPC [442][npc_antlion_schizo_fireant]'.
+[21:13:57	]Marco Polo has fired a toolgun with the name: creator
+[21:13:57	]Marco Polo has spawned a 'NPC [443][npc_antlion_schizo_fireant]'.
+[21:13:58	]Marco Polo has fired a toolgun with the name: creator
+[21:13:58	]Marco Polo has spawned a 'NPC [444][npc_antlion_schizo_fireant]'.
+[21:13:58	]Marco Polo has fired a toolgun with the name: creator
+[21:13:58	]Marco Polo has spawned a 'NPC [445][npc_antlion_schizo_fireant]'.
+[21:13:58	]Marco Polo has fired a toolgun with the name: creator
+[21:13:58	]Marco Polo has spawned a 'NPC [446][npc_antlion_schizo_fireant]'.
+[21:13:58	]Marco Polo has fired a toolgun with the name: creator
+[21:13:58	]Marco Polo has spawned a 'NPC [447][npc_antlion_schizo_fireant]'.
+[21:13:59	]Marco Polo has fired a toolgun with the name: creator
+[21:13:59	]Marco Polo has spawned a 'NPC [449][npc_antlion_schizo_fireant]'.
+[21:13:59	]Marco Polo has fired a toolgun with the name: creator
+[21:13:59	]Marco Polo has spawned a 'NPC [450][npc_antlion_schizo_fireant]'.
+[21:13:59	]Marco Polo has fired a toolgun with the name: creator
+[21:13:59	]Marco Polo has spawned a 'NPC [452][npc_antlion_schizo_fireant]'.
+[21:14:00	]Marco Polo has fired a toolgun with the name: creator
+[21:14:00	]Marco Polo has spawned a 'NPC [453][npc_antlion_schizo_fireant]'.
+[21:14:01	]Marco Polo has fired a toolgun with the name: creator
+[21:14:01	]Marco Polo has spawned a 'NPC [454][npc_antlion_schizo_fireant]'.
+[21:14:01	]Marco Polo has fired a toolgun with the name: creator
+[21:14:01	]Marco Polo has spawned a 'NPC [455][npc_antlion_schizo_fireant]'.
+[21:14:02	]Marco Polo has fired a toolgun with the name: creator
+[21:14:02	]Marco Polo has spawned a 'NPC [456][npc_antlion_schizo_fireant]'.
+[21:14:02	]Marco Polo has fired a toolgun with the name: creator
+[21:14:02	]Marco Polo has spawned a 'NPC [457][npc_antlion_schizo_fireant]'.
+[21:14:03	]Marco Polo has fired a toolgun with the name: creator
+[21:14:03	]Marco Polo has spawned a 'NPC [458][npc_antlion_schizo_fireant]'.
+[21:14:03	]Marco Polo has fired a toolgun with the name: creator
+[21:14:03	]Marco Polo has spawned a 'NPC [459][npc_antlion_schizo_fireant]'.
+[21:14:18	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:19	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:21	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:22	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:23	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:24	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:25	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:26	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:27	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:28	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:28	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:29	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:30	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:30	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:31	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:32	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:32	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:33	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:34	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:34	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:35	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:36	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:37	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:37	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:38	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:38	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:39	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:40	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:41	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:41	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:14:42	]Marco Polo has fired a toolgun with the name: vjstool_npcmover
+[21:15:08	]Marco Polo exited observer.
+[21:15:08	]Marco Polo entered observer.
+[21:15:09	]Marco Polo exited observer.
+[21:15:21	]Marco Polo entered observer.
+[21:15:24	]Marco Polo exited observer.
+[21:15:40	]Marco Polo has fired a toolgun with the name: creator
+[21:15:40	]Marco Polo has spawned a 'NPC [421][npc_vj_hla_antlion]'.
+[21:15:42	]Marco Polo has fired a toolgun with the name: creator
+[21:15:42	]Marco Polo has spawned a 'NPC [424][npc_vj_hla_antlion]'.
+[21:15:42	]Marco Polo has fired a toolgun with the name: creator
+[21:15:42	]Marco Polo has spawned a 'NPC [431][npc_vj_hla_antlion]'.
+[21:15:43	]Marco Polo has fired a toolgun with the name: creator
+[21:15:43	]Marco Polo has spawned a 'NPC [432][npc_vj_hla_antlion]'.
+[21:15:44	]Marco Polo has fired a toolgun with the name: creator
+[21:15:44	]Marco Polo has spawned a 'NPC [434][npc_vj_hla_antlion]'.
+[21:15:44	]Marco Polo has fired a toolgun with the name: creator
+[21:15:44	]Marco Polo has spawned a 'NPC [435][npc_vj_hla_antlion]'.
+[21:15:45	]Marco Polo has fired a toolgun with the name: creator
+[21:15:45	]Marco Polo has spawned a 'NPC [436][npc_vj_hla_antlion]'.
+[21:15:46	]Marco Polo has fired a toolgun with the name: creator
+[21:15:46	]Marco Polo has spawned a 'NPC [438][npc_vj_hla_antlion]'.
+[21:15:52	]Marco Polo used command '/ToggleRaise'.
+[21:16:01	]Marco Polo has hit npc_vj_hla_antlion in the head dealing 18 damage (CritChance was 0.14).
+[21:16:03	]Marco Polo has lost a '20rnd G3 Magazine' #3307162.
+[21:16:07	]Marco Polo has hit npc_vj_hla_antlion in the right leg dealing 12 damage (CritChance was 0.43).
+[21:16:08	]Marco Polo has hit npc_vj_hla_antlion in the right leg dealing 12 damage (CritChance was 0.43).
+[21:16:08	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:16:08	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:16:08	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:16:08	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:16:08	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:16:08	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:16:08	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:16:08	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:16:08	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:16:08	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:16:09	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:16:09	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:16:09	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:16:10	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:16:10	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:16:10	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:16:11	]Marco Polo has critically hit npc_vj_hla_antlion in the right leg dealing 16 damage (CritChance was 0.43).
+[21:16:12	]Marco Polo has taken 13 damage from Antlion.
+[21:16:13	]Marco Polo is fully healed.
+[21:16:14	]Marco Polo used command '/ToggleRaise'.
+[21:16:16	]Marco Polo has lost a '7rnd Deagle Magazine' #3307132.
+[21:16:20	]Marco Polo has hit npc_vj_hla_antlion in the head dealing 44 damage (CritChance was 0.13).
+[21:16:24	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:16:24	]Marco Polo has taken 17 damage from Antlion.
+[21:16:26	]Marco Polo has hit npc_vj_hla_antlion in the left leg dealing 30 damage (CritChance was 0.40).
+[21:16:27	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:16:28	]Marco Polo is fully healed.
+[21:16:31	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:16:32	]Marco Polo has gained a '7rnd Deagle Magazine' #3307132.
+[21:16:32	]Marco Polo has lost a '7rnd Deagle Magazine' #3307131.
+[21:16:36	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:16:37	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:16:37	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:16:38	]Marco Polo has taken 13 damage from Antlion.
+[21:16:38	]Marco Polo is fully healed.
+[21:16:39	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:16:40	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:16:40	]Marco Polo has gained a '7rnd Deagle Magazine' #3307131.
+[21:16:40	]Marco Polo has lost a '7rnd Deagle Magazine' #3307130.
+[21:16:43	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:16:45	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:16:46	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:16:47	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:16:49	]Marco Polo has critically hit npc_vj_hla_antlion in the left leg dealing 39 damage (CritChance was 0.40).
+[21:16:51	]Marco Polo has gained a '7rnd Deagle Magazine' #3307130.
+[21:16:51	]Marco Polo has lost a '7rnd Deagle Magazine' #3307129.
+[21:16:54	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:16:54	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:16:54	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:16:55	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:16:56	]Marco Polo has hit npc_vj_hla_antlion in the left leg dealing 30 damage (CritChance was 0.40).
+[21:16:56	]Marco Polo has taken 13 damage from Antlion.
+[21:16:56	]Marco Polo has hit npc_vj_hla_antlion in the left leg dealing 30 damage (CritChance was 0.40).
+[21:16:58	]Marco Polo is fully healed.
+[21:17:01	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:17:03	]Marco Polo has gained a '20rnd G3 Magazine' #3307162.
+[21:17:03	]Marco Polo has lost a '20rnd G3 Magazine' #3307161.
+[21:17:05	]Marco Polo used command '/ToggleRaise'.
+[21:17:07	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:07	]Marco Polo has hit npc_vj_hla_antlion in the left leg dealing 12 damage (CritChance was 0.43).
+[21:17:08	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:09	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:11	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:11	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:11	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:11	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:13	]Marco Polo has gained a '20rnd G3 Magazine' #3307161.
+[21:17:13	]Marco Polo has lost a '20rnd G3 Magazine' #3307160.
+[21:17:17	][IC] Marco Polo: Shit!
+[21:17:20	]Marco Polo has critically hit npc_vj_hla_antlion in the right leg dealing 16 damage (CritChance was 0.43).
+[21:17:20	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:20	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:20	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:20	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:24	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:24	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:24	]Marco Polo has taken 13 damage from Antlion.
+[21:17:28	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:28	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:28	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:28	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:28	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:28	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:28	]Marco Polo is fully healed.
+[21:17:30	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:30	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:31	]Marco Polo has gained a '20rnd G3 Magazine' #3307160.
+[21:17:31	]Marco Polo has lost a '20rnd G3 Magazine' #3307159.
+[21:17:33	][IC] Marco Polo: Help!
+[21:17:38	][IC] Marco Polo: Shit!
+[21:17:40	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:40	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:40	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:40	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:40	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:40	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:40	]Marco Polo has hit npc_vj_hla_antlion in the left leg dealing 12 damage (CritChance was 0.43).
+[21:17:40	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:40	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:40	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:40	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:41	]Marco Polo has hit npc_vj_hla_antlion in the right leg dealing 12 damage (CritChance was 0.43).
+[21:17:41	]Marco Polo has taken 13 damage from Antlion.
+[21:17:43	]Marco Polo is fully healed.
+[21:17:44	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:44	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:44	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:44	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:44	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:44	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:45	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:45	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:45	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:45	]Marco Polo has taken 13 damage from Antlion.
+[21:17:49	]Marco Polo has critically hit npc_vj_hla_antlion in the left leg dealing 16 damage (CritChance was 0.43).
+[21:17:49	]Marco Polo has critically hit npc_vj_hla_antlion in the left leg dealing 16 damage (CritChance was 0.43).
+[21:17:50	]Marco Polo has gained a '20rnd G3 Magazine' #3307159.
+[21:17:50	]Marco Polo has lost a '20rnd G3 Magazine' #3307158.
+[21:17:55	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:55	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:55	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:55	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:56	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:56	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:57	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:57	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:57	]Marco Polo has hit npc_vj_hla_antlion in the head dealing 18 damage (CritChance was 0.14).
+[21:17:57	]Marco Polo has hit npc_vj_hla_antlion in the head dealing 18 damage (CritChance was 0.14).
+[21:17:58	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:58	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:17:58	]Marco Polo has gained a '20rnd G3 Magazine' #3307158.
+[21:17:58	]Marco Polo has lost a '20rnd G3 Magazine' #3307157.
+[21:18:02	]Marco Polo has critically hit npc_vj_hla_antlion in the right leg dealing 16 damage (CritChance was 0.43).
+[21:18:02	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:02	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:02	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:03	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:03	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:03	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:03	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:03	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:03	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:03	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:03	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:03	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:04	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:04	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:04	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:04	]Marco Polo has critically hit npc_vj_hla_antlion in the right leg dealing 16 damage (CritChance was 0.43).
+[21:18:04	]Marco Polo has hit npc_vj_hla_antlion in the right leg dealing 12 damage (CritChance was 0.43).
+[21:18:07	]Marco Polo has taken 17 damage from Antlion.
+[21:18:08	]Marco Polo has taken 13 damage from Antlion.
+[21:18:09	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:09	]Marco Polo has critically hit npc_vj_hla_antlion in the right leg dealing 16 damage (CritChance was 0.43).
+[21:18:10	]Marco Polo has gained a '20rnd G3 Magazine' #3307157.
+[21:18:10	]Marco Polo has lost a '20rnd G3 Magazine' #3307156.
+[21:18:13	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:14	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:14	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:14	]Marco Polo has hit npc_vj_hla_antlion in the right leg dealing 12 damage (CritChance was 0.43).
+[21:18:14	]Marco Polo has hit npc_vj_hla_antlion in the right leg dealing 12 damage (CritChance was 0.43).
+[21:18:14	]Marco Polo has hit npc_vj_hla_antlion in the right leg dealing 12 damage (CritChance was 0.43).
+[21:18:14	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:15	]Marco Polo has taken 17 damage from Antlion.
+[21:18:17	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:18	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:18	]Marco Polo has hit npc_vj_hla_antlion in the left leg dealing 12 damage (CritChance was 0.43).
+[21:18:18	]Marco Polo has hit npc_vj_hla_antlion in the left leg dealing 12 damage (CritChance was 0.43).
+[21:18:18	]Marco Polo has critically hit npc_vj_hla_antlion in the left leg dealing 16 damage (CritChance was 0.43).
+[21:18:19	]Marco Polo has taken 17 damage from Antlion.
+[21:18:20	]Marco Polo has gained a '20rnd G3 Magazine' #3307156.
+[21:18:20	]Marco Polo has lost a '20rnd G3 Magazine' #3307155.
+[21:18:21	][IC] Marco Polo: Shit!
+[21:18:29	]Marco Polo has taken 13 damage from Antlion.
+[21:18:32	]Marco Polo has taken 13 damage from Antlion.
+[21:18:38	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:38	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:39	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:39	]Marco Polo has hit npc_vj_hla_antlion in the left leg dealing 12 damage (CritChance was 0.40).
+[21:18:39	]Marco Polo has hit npc_vj_hla_antlion in the head dealing 18 damage (CritChance was 0.13).
+[21:18:39	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:49	]Marco Polo has hit npc_vj_hla_antlion in the right leg dealing 12 damage (CritChance was 0.40).
+[21:18:50	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:50	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:50	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:50	]Marco Polo has hit npc_vj_hla_antlion in the head dealing 18 damage (CritChance was 0.13).
+[21:18:50	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:50	]Marco Polo has hit npc_vj_hla_antlion in the head dealing 18 damage (CritChance was 0.13).
+[21:18:50	]Marco Polo has hit npc_vj_hla_antlion in the head dealing 18 damage (CritChance was 0.13).
+[21:18:50	]Marco Polo has hit npc_vj_hla_antlion in the head dealing 18 damage (CritChance was 0.13).
+[21:18:50	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:50	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:18:52	]Marco Polo has gained a '20rnd G3 Magazine' #3307155.
+[21:18:52	]Marco Polo has lost a '20rnd G3 Magazine' #3307154.
+[21:18:57	]Marco Polo used command '/ToggleRaise'.
+[21:19:00	]Marco Polo used command '/ToggleRaise'.
+[21:19:02	]Marco Polo used command '/ToggleRaise'.
+[21:19:05	]Marco Polo ran 'Repair' on item 'Urban Autocrat - Armored' (#3307126)
+[21:19:10	]Marco Polo has gained a '20rnd G3 Magazine' #3307154.
+[21:19:10	]Marco Polo has gained a '7rnd Deagle Magazine' #3307129.
+[21:19:10	]Marco Polo was knocked unconscious and is bleeding out.
+[21:19:18	]Marco Polo is no longer unconscious from critical wounds.
+[21:19:18	]Marco Polo is fully healed.
+[21:19:19	]Marco Polo used command '/CharStopBleedout ^'.
+[21:19:22	]Marco Polo used command '/ToggleRaise'.
+[21:19:25	]Marco Polo used command '/ToggleRaise'.
+[21:19:30	]Marco Polo ran 'combine' on item '7rnd Deagle Magazine' (#3307129)
+[21:19:31	]Marco Polo ran 'combine' on item '7rnd Deagle Magazine' (#3307130)
+[21:19:32	]Marco Polo ran 'combine' on item '7rnd Deagle Magazine' (#3307131)
+[21:19:33	]Marco Polo ran 'combine' on item '7rnd Deagle Magazine' (#3307132)
+[21:19:33	]Marco Polo has lost a '7rnd Deagle Magazine' #3307132.
+[21:19:36	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:19:38	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:19:39	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:19:40	]Marco Polo has critically hit npc_vj_hla_antlion in the left leg dealing 39 damage (CritChance was 0.40).
+[21:19:41	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:19:43	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:19:43	]Marco Polo has gained a '7rnd Deagle Magazine' #3307132.
+[21:19:43	]Marco Polo has lost a '7rnd Deagle Magazine' #3307131.
+[21:19:45	]Marco Polo has taken 17 damage from Antlion.
+[21:19:46	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:19:47	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:19:47	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:19:48	]Marco Polo has critically hit npc_vj_hla_antlion in the left leg dealing 39 damage (CritChance was 0.40).
+[21:19:50	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:19:50	]Marco Polo has gained a '7rnd Deagle Magazine' #3307131.
+[21:19:50	]Marco Polo has lost a '7rnd Deagle Magazine' #3307130.
+[21:19:53	]Marco Polo ran 'combine' on item '7rnd Deagle Magazine' (#3307132)
+[21:19:54	]Marco Polo ran 'combine' on item '7rnd Deagle Magazine' (#3307131)
+[21:19:55	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:19:56	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:19:56	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:19:57	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:19:57	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:19:57	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:19:58	]Marco Polo has hit npc_vj_hla_antlion in the head dealing 44 damage (CritChance was 0.13).
+[21:19:58	]Marco Polo has gained a '7rnd Deagle Magazine' #3307130.
+[21:19:58	]Marco Polo has lost a '7rnd Deagle Magazine' #3307132.
+[21:20:03	]Marco Polo has taken 13 damage from Antlion.
+[21:20:04	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:20:04	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:20:04	]Marco Polo has critically hit npc_vj_hla_antlion in the right leg dealing 39 damage (CritChance was 0.40).
+[21:20:08	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:20:08	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:20:08	]Marco Polo has hit npc_vj_hla_antlion dealing 39 damage (CritChance was 0.00).
+[21:20:17	]Marco Polo has lost a '20rnd G3 Magazine' #3307153.
+[21:20:20	]Marco Polo used command '/ToggleRaise'.
+[21:20:26	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:27	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:27	]Marco Polo has hit npc_vj_hla_antlion in the head dealing 18 damage (CritChance was 0.14).
+[21:20:27	]Marco Polo has hit npc_vj_hla_antlion in the head dealing 18 damage (CritChance was 0.14).
+[21:20:27	]Marco Polo has hit npc_vj_hla_antlion in the head dealing 18 damage (CritChance was 0.14).
+[21:20:27	]Marco Polo has hit npc_vj_hla_antlion in the head dealing 18 damage (CritChance was 0.14).
+[21:20:28	]Marco Polo has hit npc_vj_hla_antlion in the head dealing 18 damage (CritChance was 0.14).
+[21:20:28	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:29	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:29	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:29	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:29	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:30	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:31	]Marco Polo has gained a '20rnd G3 Magazine' #3307153.
+[21:20:31	]Marco Polo has lost a '20rnd G3 Magazine' #3307152.
+[21:20:35	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:35	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:37	]Marco Polo has taken 17 damage from Antlion.
+[21:20:38	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:39	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:39	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:39	]Marco Polo has critically hit npc_vj_hla_antlion in the right leg dealing 16 damage (CritChance was 0.43).
+[21:20:39	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:39	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:39	]Marco Polo has critically hit npc_vj_hla_antlion in the right leg dealing 16 damage (CritChance was 0.43).
+[21:20:39	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:39	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:39	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:40	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:40	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:40	]Marco Polo has hit npc_vj_hla_antlion in the left leg dealing 12 damage (CritChance was 0.43).
+[21:20:42	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:42	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:42	]Marco Polo has hit npc_vj_hla_antlion in the head dealing 18 damage (CritChance was 0.14).
+[21:20:42	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:42	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:43	]Marco Polo has gained a '20rnd G3 Magazine' #3307152.
+[21:20:43	]Marco Polo has lost a '20rnd G3 Magazine' #3307163.
+[21:20:44	]Marco Polo has taken 13 damage from Antlion.
+[21:20:46	]Marco Polo has taken 17 damage from Antlion.
+[21:20:46	][IC] Marco Polo: Shit!
+[21:20:48	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:48	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:48	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:48	]Marco Polo has hit npc_vj_hla_antlion in the head dealing 18 damage (CritChance was 0.14).
+[21:20:48	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:49	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:49	]Marco Polo has critically hit npc_vj_hla_antlion in the right leg dealing 16 damage (CritChance was 0.41).
+[21:20:51	]Marco Polo has hit npc_vj_hla_antlion in the left leg dealing 12 damage (CritChance was 0.41).
+[21:20:51	]Marco Polo has critically hit npc_vj_hla_antlion in the head dealing 22 damage (CritChance was 0.14).
+[21:20:51	]Marco Polo has hit npc_vj_hla_antlion in the head dealing 18 damage (CritChance was 0.14).
+[21:20:52	]Marco Polo has hit npc_vj_hla_antlion dealing 16 damage (CritChance was 0.00).
+[21:20:56	]Marco Polo used command '/ToggleRaise'.
+[21:20:59	]Marco Polo has critically hit npc_vj_hla_antlion dealing 17 damage (CritChance was 0.92).
+[21:21:01	]Marco Polo has taken 13 damage from Antlion.
+[21:21:02	]Marco Polo has gained a '20rnd G3 Magazine' #3307163.
+[21:21:02	]Marco Polo has gained a '7rnd Deagle Magazine' #3307132.
+[21:21:02	]Marco Polo was knocked unconscious and is bleeding out.
+[21:21:08	]Marco Polo is no longer unconscious from critical wounds.
+[21:21:08	]Marco Polo is fully healed.
+[21:21:12	]Marco Polo used command '/CharStopBleedout ^'.
+[21:21:14	]Marco Polo used command '/ToggleRaise'.
+[21:21:17	]Marco Polo has critically hit npc_vj_hla_antlion dealing 17 damage (CritChance was 0.92).
+[21:21:21	]Marco Polo has critically hit npc_vj_hla_antlion dealing 17 damage (CritChance was 0.92).
+[21:21:22	]Marco Polo has critically hit npc_vj_hla_antlion dealing 17 damage (CritChance was 0.92).
+[21:21:25	]Marco Polo has critically hit npc_vj_hla_antlion dealing 42 damage (CritChance was 0.92).
+[21:21:41	]Marco Polo has critically hit npc_vj_hla_antlion dealing 42 damage (CritChance was 0.92).
+[21:21:44	]Marco Polo has critically hit npc_vj_hla_antlion in the head dealing 42 damage (CritChance was 0.92).
+[21:21:46	]Marco Polo has critically hit npc_vj_hla_antlion in the head dealing 42 damage (CritChance was 0.92).
+[21:21:48	]Marco Polo has critically hit npc_vj_hla_antlion dealing 42 damage (CritChance was 0.92).
+[21:21:54	]Marco Polo has taken 13 damage from Antlion.
+[21:21:58	]Marco Polo is fully healed.
+[21:22:00	]Marco Polo has critically hit npc_vj_hla_antlion dealing 42 damage (CritChance was 0.92).
+[21:22:01	]Marco Polo has taken 13 damage from Antlion.
+[21:22:03	]Marco Polo is fully healed.
+[21:22:04	]Marco Polo has critically hit npc_vj_hla_antlion dealing 17 damage (CritChance was 0.92).
+[21:22:07	]Marco Polo has critically hit npc_vj_hla_antlion dealing 42 damage (CritChance was 0.92).
+[21:22:08	]Marco Polo has taken 17 damage from Antlion.
+[21:22:08	]Marco Polo is fully healed.
+[21:22:09	]Marco Polo has critically hit npc_vj_hla_antlion dealing 42 damage (CritChance was 0.92).
+[21:22:09	]Marco Polo has taken 13 damage from Antlion.
+[21:22:12	]Marco Polo has taken 13 damage from Antlion.
+[21:22:13	]Marco Polo is fully healed.
+[21:22:17	]Marco Polo has taken 13 damage from Antlion.
+[21:22:18	]Marco Polo has critically hit npc_vj_hla_antlion dealing 42 damage (CritChance was 0.92).
+[21:22:18	]Marco Polo is fully healed.
+[21:22:19	]Marco Polo has taken 13 damage from Antlion.
+[21:22:20	]Marco Polo has critically hit npc_vj_hla_antlion dealing 17 damage (CritChance was 0.92).
+[21:22:22	]Marco Polo has hit npc_vj_hla_antlion dealing 13 damage (CritChance was 0.92).
+[21:22:23	]Marco Polo has critically hit npc_vj_hla_antlion dealing 17 damage (CritChance was 0.92).
+[21:22:28	][IC] Marco Polo: *Cheering!*.
+[21:22:42	]Marco Polo ran 'EquipUn' on item 'G3A3' (#3307109)
+[21:22:43	]Marco Polo ran 'drop' on item 'G3A3' (#3307109)
+[21:22:43	]Marco Polo has lost a 'G3A3' #3307109.
+[21:22:45	]Marco Polo ran 'drop' on item '20rnd G3 Magazine' (#3307160)
+[21:22:45	]Marco Polo has lost a '20rnd G3 Magazine' #3307160.
+[21:22:45	]Marco Polo ran 'drop' on item '20rnd G3 Magazine' (#3307161)
+[21:22:45	]Marco Polo has lost a '20rnd G3 Magazine' #3307161.
+[21:22:45	]Marco Polo ran 'drop' on item '20rnd G3 Magazine' (#3307163)
+[21:22:45	]Marco Polo has lost a '20rnd G3 Magazine' #3307163.
+[21:22:46	]Marco Polo ran 'drop' on item '20rnd G3 Magazine' (#3307162)
+[21:22:46	]Marco Polo has lost a '20rnd G3 Magazine' #3307162.
+[21:22:47	]Marco Polo ran 'drop' on item '20rnd G3 Magazine' (#3307159)
+[21:22:47	]Marco Polo has lost a '20rnd G3 Magazine' #3307159.
+[21:22:48	]Marco Polo ran 'drop' on item '20rnd G3 Magazine' (#3307152)
+[21:22:48	]Marco Polo has lost a '20rnd G3 Magazine' #3307152.
+[21:22:48	]Marco Polo ran 'drop' on item '20rnd G3 Magazine' (#3307158)
+[21:22:48	]Marco Polo has lost a '20rnd G3 Magazine' #3307158.
+[21:22:48	]Marco Polo ran 'drop' on item '20rnd G3 Magazine' (#3307157)
+[21:22:48	]Marco Polo has lost a '20rnd G3 Magazine' #3307157.
+[21:22:50	]Marco Polo ran 'drop' on item '20rnd G3 Magazine' (#3307156)
+[21:22:50	]Marco Polo has lost a '20rnd G3 Magazine' #3307156.
+[21:22:50	]Marco Polo ran 'drop' on item '20rnd G3 Magazine' (#3307155)
+[21:22:50	]Marco Polo has lost a '20rnd G3 Magazine' #3307155.
+[21:22:50	]Marco Polo ran 'drop' on item '20rnd G3 Magazine' (#3307154)
+[21:22:50	]Marco Polo has lost a '20rnd G3 Magazine' #3307154.
+[21:22:51	]Marco Polo ran 'drop' on item '20rnd G3 Magazine' (#3307153)
+[21:22:51	]Marco Polo has lost a '20rnd G3 Magazine' #3307153.
+[21:23:03	]Marco Polo ran 'combine' on item '7rnd Deagle Magazine' (#3307130)
+[21:23:04	]Marco Polo ran 'combine' on item '7rnd Deagle Magazine' (#3307130)
+[21:23:05	]Marco Polo ran 'combine' on item '7rnd Deagle Magazine' (#3307132)
+[21:23:07	]Marco Polo ran 'combine' on item '7rnd Deagle Magazine' (#3307132)
+[21:23:08	]Marco Polo ran 'combine' on item '357 Rounds' (#3307138)
+[21:25:10	]Marco Polo has fired a toolgun with the name: dynamite
+[21:25:10	]Marco Polo destroyed a '20rnd G3 Magazine' #3307161.
+[21:25:10	]Marco Polo destroyed a '20rnd G3 Magazine' #3307162.
+[21:25:10	]Marco Polo destroyed a '20rnd G3 Magazine' #3307159.
+[21:25:10	]Marco Polo destroyed a 'G3A3' #3307109.
+[21:25:10	]Marco Polo destroyed a '20rnd G3 Magazine' #3307163.
+[21:25:10	]Marco Polo destroyed a '20rnd G3 Magazine' #3307153.
+[21:25:10	]Marco Polo destroyed a '20rnd G3 Magazine' #3307155.
+[21:25:10	]Marco Polo destroyed a '20rnd G3 Magazine' #3307156.
+[21:25:10	]Marco Polo destroyed a '20rnd G3 Magazine' #3307152.
+[21:25:10	]Marco Polo destroyed a '20rnd G3 Magazine' #3307158.
+[21:25:10	]Marco Polo destroyed a '20rnd G3 Magazine' #3307160.
+[21:25:10	]Marco Polo destroyed a '20rnd G3 Magazine' #3307157.
+[21:25:10	]Marco Polo destroyed a '20rnd G3 Magazine' #3307154.
+[21:25:14	]Marco Polo has spawned a 'NPC [422][npc_vj_hla_rcrab]'.
+[21:25:17	]Marco Polo used command '/ToggleRaise'.
+[21:25:18	]Marco Polo has lost a '7rnd Deagle Magazine' #3307132.
+[21:25:21	]Marco Polo has critically hit npc_vj_hla_rcrab dealing 48 damage (CritChance was 0.66).
+[21:25:22	]Marco Polo has critically hit npc_vj_hla_rcrab dealing 48 damage (CritChance was 0.66).
+[21:25:25	]Marco Polo has spawned a 'NPC [422][npc_vj_hla_fcrab]'.
+[21:25:25	]Marco Polo has critically hit npc_vj_hla_fcrab dealing 48 damage (CritChance was 0.66).
+[21:25:27	]Marco Polo has spawned a 'NPC [422][npc_vj_hla_fcrab]'.
+[21:25:28	]Marco Polo has spawned a 'NPC [424][npc_vj_hla_hcrab]'.
+[21:25:28	]Marco Polo has spawned a 'NPC [431][npc_vj_hla_hcrab]'.
+[21:25:28	]Marco Polo has spawned a 'NPC [434][npc_vj_hla_hcrab]'.
+[21:25:28	]Marco Polo has spawned a 'NPC [435][npc_vj_hla_hcrab]'.
+[21:25:29	]Marco Polo has spawned a 'NPC [436][npc_vj_hla_hcrab]'.
+[21:25:29	]Marco Polo has spawned a 'NPC [438][npc_vj_hla_hcrab]'.
+[21:25:29	]Marco Polo has spawned a 'NPC [442][npc_vj_hla_hcrab]'.
+[21:25:29	]Marco Polo has spawned a 'NPC [443][npc_vj_hla_ocrab]'.
+[21:25:29	]Marco Polo has spawned a 'NPC [444][npc_vj_hla_ocrab]'.
+[21:25:29	]Marco Polo has spawned a 'NPC [445][npc_vj_hla_ocrab]'.
+[21:25:29	]Marco Polo has spawned a 'NPC [446][npc_vj_hla_zombiearmored]'.
+[21:25:31	]Marco Polo has hit npc_vj_hla_ocrab in the head dealing 44 damage (CritChance was 0.13).
+[21:25:31	]Marco Polo has hit npc_vj_hla_ocrab dealing 39 damage (CritChance was 0.66).
+[21:25:32	]Marco Polo has critically hit npc_vj_hla_ocrab in the head dealing 55 damage (CritChance was 0.13).
+[21:25:33	]Marco Polo has gained a '7rnd Deagle Magazine' #3307132.
+[21:25:33	]Marco Polo has lost a '7rnd Deagle Magazine' #3307131.
+[21:25:36	]Marco Polo has critically hit npc_vj_hla_hcrab dealing 48 damage (CritChance was 0.66).
+[21:25:37	]Marco Polo has hit npc_vj_hla_fcrab dealing 39 damage (CritChance was 0.66).
+[21:25:38	]Marco Polo has critically hit npc_vj_hla_hcrab dealing 48 damage (CritChance was 0.66).
+[21:25:39	]Marco Polo has critically hit npc_vj_hla_hcrab dealing 48 damage (CritChance was 0.66).
+[21:25:40	]Marco Polo has critically hit npc_vj_hla_hcrab dealing 48 damage (CritChance was 0.66).
+[21:25:41	]Marco Polo has hit npc_vj_hla_hcrab dealing 39 damage (CritChance was 0.66).
+[21:25:41	]Marco Polo has gained a '7rnd Deagle Magazine' #3307131.
+[21:25:41	]Marco Polo has lost a '7rnd Deagle Magazine' #3307130.
+[21:25:44	]Marco Polo has hit npc_vj_hla_hcrab dealing 39 damage (CritChance was 0.66).
+[21:25:45	]Marco Polo has critically hit npc_vj_hla_hcrab dealing 48 damage (CritChance was 0.66).
+[21:25:47	]Marco Polo has hit npc_vj_hla_zombiearmored dealing 39 damage (CritChance was 0.00).
+[21:25:48	]Marco Polo has hit npc_vj_hla_zombiearmored dealing 39 damage (CritChance was 0.00).
+[21:25:48	]Marco Polo has hit npc_vj_hla_zombiearmored dealing 39 damage (CritChance was 0.00).
+[21:25:49	]Marco Polo has hit npc_vj_hla_zombiearmored dealing 39 damage (CritChance was 0.00).
+[21:25:49	]Marco Polo has hit npc_vj_hla_zombiearmored dealing 39 damage (CritChance was 0.00).
+[21:25:49	]Marco Polo has hit npc_vj_hla_ahcrab in the head dealing 44 damage (CritChance was 0.13).
+[21:25:50	]Marco Polo has gained a '7rnd Deagle Magazine' #3307130.
+[21:25:50	]Marco Polo has lost a '7rnd Deagle Magazine' #3307129.
+[21:25:52	]Marco Polo has critically hit npc_vj_hla_ahcrab dealing 48 damage (CritChance was 0.66).
+[21:25:52	]Marco Polo has critically hit npc_vj_hla_ahcrab dealing 48 damage (CritChance was 0.66).
+[21:26:03	]Marco Polo is fully healed.
+[21:26:09	]Marco Polo ran 'combine' on item '7rnd Deagle Magazine' (#3307130)
+[21:26:10	]Marco Polo ran 'combine' on item '7rnd Deagle Magazine' (#3307131)
+[21:26:15	]Marco Polo has spawned a bullets_357.
+[21:26:16	]Marco Polo has spawned a bullets_357.
+[21:26:16	]Marco Polo has spawned a bullets_357.
+[21:26:17	]Marco Polo ran 'take' on item '357 Rounds' (#3307194)
+[21:26:17	]Marco Polo has gained a '357 Rounds' #3307194.
+[21:26:18	]Marco Polo ran 'take' on item '357 Rounds' (#3307193)
+[21:26:18	]Marco Polo has gained a '357 Rounds' #3307193.
+[21:26:19	]Marco Polo ran 'take' on item '357 Rounds' (#3307192)
+[21:26:19	]Marco Polo has gained a '357 Rounds' #3307192.
+[21:26:19	]Marco Polo has gained a '7rnd Deagle Magazine' #3307129.
+[21:26:19	]Marco Polo has lost a '7rnd Deagle Magazine' #3307131.
+[21:26:24	]Marco Polo ran 'combine' on item '7rnd Deagle Magazine' (#3307129)
+[21:26:26	]Marco Polo ran 'combine' on item '7rnd Deagle Magazine' (#3307132)
+[21:26:28	]Marco Polo ran 'combine' on item '357 Rounds' (#3307193)
+[21:26:29	]Marco Polo has spawned a bullets_357.
+[21:26:30	]Marco Polo ran 'take' on item '357 Rounds' (#3307195)
+[21:26:30	]Marco Polo has gained a '357 Rounds' #3307195.
+[21:26:32	]Marco Polo ran 'combine' on item 'Ammunition Pouch' (#3307103)
+[21:27:35	]Marco Polo has spawned a gen_m16.
+[21:27:41	]Marco Polo ran 'take' on item 'M16A2' (#3307196)
+[21:27:41	]Marco Polo has gained a 'M16A2' #3307196.
+[21:27:48	]Marco Polo ran 'drop' on item 'M16A2' (#3307196)
+[21:27:48	]Marco Polo has lost a 'M16A2' #3307196.
+[21:27:51	]Marco Polo has gained a '7rnd Deagle Magazine' #3307131.
+[21:27:51	]Marco Polo has lost a '7rnd Deagle Magazine' #3307132.
+[21:27:51	]Marco Polo used command '/ToggleRaise'.
+[21:27:52	]Marco Polo used command '/ToggleRaise'.
+[21:27:54	]Marco Polo used command '/ToggleRaise'.
+[21:27:56	]Marco Polo destroyed a 'M16A2' #3307196.
+[21:27:56	]Marco Polo used command '/ToggleRaise'.
+[21:28:36	]Marco Polo has spawned a res_akm.
+[21:28:40	]Marco Polo ran 'take' on item 'AKM' (#3307197)
+[21:28:40	]Marco Polo has gained a 'AKM' #3307197.
+[21:28:42	]Marco Polo ran 'drop' on item 'AKM' (#3307197)
+[21:28:42	]Marco Polo has lost a 'AKM' #3307197.
+[21:28:42	]Marco Polo used command '/ToggleRaise'.
+[21:28:43	]Marco Polo destroyed a 'AKM' #3307197.
+[21:28:44	]Marco Polo used command '/ToggleRaise'.
+[21:28:44	]Marco Polo has spawned a res_aksu.
+[21:28:46	]Marco Polo ran 'take' on item 'AKSU' (#3307198)
+[21:28:46	]Marco Polo has gained a 'AKSU' #3307198.
+[21:28:48	]Marco Polo ran 'drop' on item 'AKSU' (#3307198)
+[21:28:48	]Marco Polo has lost a 'AKSU' #3307198.
+[21:28:48	]Marco Polo used command '/ToggleRaise'.
+[21:28:50	]Marco Polo destroyed a 'AKSU' #3307198.
+[21:28:50	]Marco Polo used command '/ToggleRaise'.
+[21:28:52	]Marco Polo has spawned a gen_m16.
+[21:28:54	]Marco Polo ran 'take' on item 'M16A2' (#3307199)
+[21:28:54	]Marco Polo has gained a 'M16A2' #3307199.
+[21:29:03	]Marco Polo has spawned a magazine_m16.
+[21:29:03	]Marco Polo has spawned a magazine_m16.
+[21:29:03	]Marco Polo has spawned a magazine_m16.
+[21:29:03	]Marco Polo has spawned a magazine_m16.
+[21:29:03	]Marco Polo has spawned a magazine_m16.
+[21:29:03	]Marco Polo has spawned a magazine_m16.
+[21:29:03	]Marco Polo has spawned a magazine_m16.
+[21:29:04	]Marco Polo has spawned a magazine_m16.
+[21:29:04	]Marco Polo has spawned a magazine_m16.
+[21:29:04	]Marco Polo has spawned a magazine_m16.
+[21:29:06	]Marco Polo ran 'take' on item '30rnd M16 Magazine' (#3307209)
+[21:29:06	]Marco Polo has gained a '30rnd M16 Magazine' #3307209.
+[21:29:07	]Marco Polo ran 'take' on item '30rnd M16 Magazine' (#3307208)
+[21:29:07	]Marco Polo has gained a '30rnd M16 Magazine' #3307208.
+[21:29:08	]Marco Polo ran 'take' on item '30rnd M16 Magazine' (#3307207)
+[21:29:08	]Marco Polo has gained a '30rnd M16 Magazine' #3307207.
+[21:29:10	]Marco Polo ran 'take' on item '30rnd M16 Magazine' (#3307206)
+[21:29:10	]Marco Polo has gained a '30rnd M16 Magazine' #3307206.
+[21:29:11	]Marco Polo ran 'take' on item '30rnd M16 Magazine' (#3307205)
+[21:29:11	]Marco Polo has gained a '30rnd M16 Magazine' #3307205.
+[21:29:13	]Marco Polo ran 'take' on item '30rnd M16 Magazine' (#3307204)
+[21:29:13	]Marco Polo has gained a '30rnd M16 Magazine' #3307204.
+[21:29:14	]Marco Polo ran 'take' on item '30rnd M16 Magazine' (#3307203)
+[21:29:14	]Marco Polo has gained a '30rnd M16 Magazine' #3307203.
+[21:29:15	]Marco Polo ran 'take' on item '30rnd M16 Magazine' (#3307202)
+[21:29:15	]Marco Polo has gained a '30rnd M16 Magazine' #3307202.
+[21:29:16	]Marco Polo ran 'take' on item '30rnd M16 Magazine' (#3307201)
+[21:29:16	]Marco Polo has gained a '30rnd M16 Magazine' #3307201.
+[21:29:17	]Marco Polo ran 'take' on item '30rnd M16 Magazine' (#3307200)
+[21:29:17	]Marco Polo has gained a '30rnd M16 Magazine' #3307200.
+[21:29:23	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307209)
+[21:29:23	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307208)
+[21:29:24	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307207)
+[21:29:24	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307206)
+[21:29:25	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307205)
+[21:29:26	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307204)
+[21:29:27	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307203)
+[21:29:27	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307202)
+[21:29:28	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307201)
+[21:29:28	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307200)
+[21:29:29	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307104)
+[21:29:30	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307104)
+[21:29:33	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307105)
+[21:29:34	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307105)
+[21:29:34	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307105)
+[21:29:35	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307105)
+[21:29:36	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307114)
+[21:29:37	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307114)
+[21:29:37	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307114)
+[21:29:38	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307114)
+[21:29:38	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307115)
+[21:29:41	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307115)
+[21:29:42	]Marco Polo has spawned a magazine_m16.
+[21:29:42	]Marco Polo has spawned a magazine_m16.
+[21:29:44	]Marco Polo ran 'take' on item '30rnd M16 Magazine' (#3307211)
+[21:29:44	]Marco Polo has gained a '30rnd M16 Magazine' #3307211.
+[21:29:45	]Marco Polo ran 'take' on item '30rnd M16 Magazine' (#3307210)
+[21:29:45	]Marco Polo has gained a '30rnd M16 Magazine' #3307210.
+[21:29:47	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307210)
+[21:29:48	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307211)
+[21:30:00	]Marco Polo has used a context menu option with the name: remove
+[21:30:02	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307115)
+[21:30:03	]Marco Polo ran 'combine' on item 'Magazine Pouch' (#3307115)
+[21:30:06	]Marco Polo ran 'Equip' on item 'M16A2' (#3307199)
+[21:30:18	]Marco Polo has lost a '30rnd M16 Magazine' #3307211.
+[21:30:19	]Marco Polo used command '/ToggleRaise'.
+[21:33:15	]Marco Polo has gained a '30rnd M16 Magazine' #3307211.
+[21:33:15	]Marco Polo has lost a '30rnd M16 Magazine' #3307210.
+[21:33:17	]Marco Polo used command '/ToggleRaise'.
+[21:33:17	]Marco Polo has gained a '30rnd M16 Magazine' #3307210.
+[21:33:17	]Marco Polo has lost a '30rnd M16 Magazine' #3307209.
+[21:33:37	]Marco Polo has gained a '30rnd M16 Magazine' #3307209.
+[21:33:37	]Marco Polo has lost a '30rnd M16 Magazine' #3307210.
+[21:33:58	]Marco Polo has gained a '30rnd M16 Magazine' #3307210.
+[21:33:58	]Marco Polo has lost a '30rnd M16 Magazine' #3307208.
+[21:34:05	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307209)
+[21:36:04	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307211)
+[21:37:19	]Marco Polo has gained a '30rnd M16 Magazine' #3307208.
+[21:37:19	]Marco Polo has lost a '30rnd M16 Magazine' #3307211.
+[21:37:24	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307210)
+[21:37:29	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307208)
+[21:37:36	]Marco Polo has spawned a 'NPC [438][npc_vj_hla_zombiegunner]'.
+[21:37:36	]Marco Polo has spawned a 'NPC [446][npc_vj_hla_zombiegunner]'.
+[21:37:37	]Marco Polo has taken 3 damage from Zombine Gunner.
+[21:37:37	]Marco Polo has critically hit npc_vj_hla_zombiegunner dealing 16 damage (CritChance was 0.72).
+[21:37:37	]Marco Polo has taken 3 damage from Zombine Gunner.
+[21:37:37	]Marco Polo has taken 3 damage from Zombine Gunner.
+[21:37:37	]Marco Polo has hit npc_vj_hla_zombiegunner dealing 13 damage (CritChance was 0.00).
+[21:37:37	]Marco Polo has taken 3 damage from Zombine Gunner.
+[21:37:37	]Marco Polo has hit npc_vj_hla_zombiegunner dealing 13 damage (CritChance was 0.72).
+[21:37:38	]Marco Polo has taken 3 damage from Zombine Gunner.
+[21:37:38	]Marco Polo has taken 3 damage from Zombine Gunner.
+[21:37:38	]Marco Polo has hit npc_vj_hla_zombiegunner dealing 13 damage (CritChance was 0.00).
+[21:37:38	]Marco Polo has taken 3 damage from Zombine Gunner.
+[21:37:38	]Marco Polo has hit npc_vj_hla_zombiegunner dealing 13 damage (CritChance was 0.72).
+[21:37:38	]Marco Polo has taken 12 damage from Zombine Gunner.
+[21:37:38	]Marco Polo has hit npc_vj_hla_zombiegunner dealing 13 damage (CritChance was 0.00).
+[21:37:38	]Marco Polo has critically hit npc_vj_hla_zombiegunner dealing 16 damage (CritChance was 0.72).
+[21:37:39	]Marco Polo has taken 12 damage from Zombine Gunner.
+[21:37:39	]Marco Polo has hit npc_vj_hla_zombiegunner dealing 13 damage (CritChance was 0.00).
+[21:37:39	]Marco Polo has hit npc_vj_hla_zombiegunner dealing 13 damage (CritChance was 0.00).
+[21:37:39	]Marco Polo has taken 12 damage from Zombine Gunner.
+[21:37:39	]Marco Polo has hit npc_vj_hla_zombiegunner dealing 13 damage (CritChance was 0.00).
+[21:37:39	]Marco Polo has taken 3 damage from Zombine Gunner.
+[21:37:39	]Marco Polo has taken 12 damage from Zombine Gunner.
+[21:37:39	]Marco Polo has critically hit npc_vj_hla_zombiegunner dealing 16 damage (CritChance was 0.69).
+[21:37:39	]Marco Polo has taken 3 damage from Zombine Gunner.
+[21:37:39	]Marco Polo has taken 3 damage from Zombine Gunner.
+[21:37:40	]Marco Polo has critically hit npc_vj_hla_zombiegunner dealing 16 damage (CritChance was 0.68).
+[21:37:41	]Marco Polo has taken 12 damage from Zombine Gunner.
+[21:37:41	]Marco Polo has hit npc_vj_hla_zombiegunner dealing 13 damage (CritChance was 0.00).
+[21:37:41	]Marco Polo has taken 3 damage from Zombine Gunner.
+[21:37:41	]Marco Polo has hit npc_vj_hla_zombiegunner dealing 13 damage (CritChance was 0.65).
+[21:37:41	]Marco Polo has taken 3 damage from Zombine Gunner.
+[21:37:42	]Marco Polo has hit npc_vj_hla_zombiegunner dealing 13 damage (CritChance was 0.00).
+[21:37:42	]Marco Polo has critically hit npc_vj_hla_zombiegunner dealing 16 damage (CritChance was 0.65).
+[21:37:43	]Marco Polo has gained a '30rnd M16 Magazine' #3307211.
+[21:37:43	]Marco Polo has lost a '30rnd M16 Magazine' #3307210.
+[21:37:44	]Marco Polo has gained a '30rnd M16 Magazine' #3307210.
+[21:37:44	]Marco Polo has gained a '7rnd Deagle Magazine' #3307132.
+[21:37:44	]Marco Polo was knocked unconscious and is bleeding out.
+[21:37:48	]Marco Polo is no longer unconscious from critical wounds.
+[21:37:48	]Marco Polo is fully healed.
+[21:37:53	]Marco Polo used command '/ToggleRaise'.
+[21:37:54	]Marco Polo has lost a '30rnd M16 Magazine' #3307210.
+[21:37:57	]Marco Polo has hit npc_vj_hla_zombiegunner dealing 13 damage (CritChance was 0.00).
+[21:37:58	]Marco Polo has critically hit npc_vj_hla_zombiegunner dealing 16 damage (CritChance was 0.72).
+[21:37:59	]Marco Polo has hit npc_vj_hla_zombiegunner dealing 13 damage (CritChance was 0.72).
+[21:38:12	]Marco Polo used command '/CharStopBleedout ^'.
+[21:38:31	]Marco Polo has spawned a ud_m16_receiver_auto.
+[21:38:33	]Marco Polo ran 'take' on item 'M16A3 Automatic Receiver' (#3307212)
+[21:38:33	]Marco Polo has gained a 'M16A3 Automatic Receiver' #3307212.
+[21:38:34	]Marco Polo has lost a 'M16A3 Automatic Receiver' #3307212.
+[21:38:41	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307211)
+[21:38:44	]Marco Polo has gained a '30rnd M16 Magazine' #3307210.
+[21:38:44	]Marco Polo has lost a '30rnd M16 Magazine' #3307211.
+[21:38:47	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307210)
+[21:39:07	]Marco Polo has spawned a 'NPC [421][npc_vj_civil_protection_elite_z]'.
+[21:39:07	]Marco Polo has spawned a 'NPC [447][npc_vj_civil_protection_elite_z]'.
+[21:39:09	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:09	]Marco Polo has spawned a 'NPC [492][npc_vj_civil_protection_elite_z]'.
+[21:39:09	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:09	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:09	]Marco Polo has taken 1 damage from Civil Protection Elite.
+[21:39:09	]Marco Polo has taken 1 damage from Civil Protection Elite.
+[21:39:10	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:10	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:10	]Marco Polo has taken 1 damage from Civil Protection Elite.
+[21:39:10	]Marco Polo has taken 1 damage from Civil Protection Elite.
+[21:39:10	]Marco Polo has taken 1 damage from Civil Protection Elite.
+[21:39:18	]Marco Polo is fully healed.
+[21:39:20	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:20	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:20	]Marco Polo has hit npc_vj_civil_protection_elite_z in the left arm dealing 10 damage (CritChance was 0.43).
+[21:39:20	]Marco Polo has taken 1 damage from Civil Protection Elite.
+[21:39:20	]Marco Polo has hit npc_vj_civil_protection_elite_z in the left arm dealing 10 damage (CritChance was 0.43).
+[21:39:20	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:20	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:21	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:21	]Marco Polo has hit npc_vj_civil_protection_elite_z in the left arm dealing 10 damage (CritChance was 0.43).
+[21:39:21	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:21	]Marco Polo has critically hit npc_vj_civil_protection_elite_z in the left arm dealing 13 damage (CritChance was 0.43).
+[21:39:21	]Marco Polo has critically hit npc_vj_civil_protection_elite_z in the left arm dealing 13 damage (CritChance was 0.43).
+[21:39:21	]Marco Polo has critically hit npc_vj_civil_protection_elite_z in the chest dealing 16 damage (CritChance was 0.43).
+[21:39:21	]Marco Polo has critically hit npc_vj_civil_protection_elite_z in the chest dealing 16 damage (CritChance was 0.43).
+[21:39:21	]Marco Polo has critically hit npc_vj_civil_protection_elite_z in the chest dealing 16 damage (CritChance was 0.43).
+[21:39:21	]Marco Polo has critically hit npc_vj_civil_protection_elite_z in the chest dealing 16 damage (CritChance was 0.43).
+[21:39:22	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:22	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:23	]Marco Polo has taken 1 damage from Civil Protection Elite.
+[21:39:23	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:23	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:23	]Marco Polo has hit npc_vj_civil_protection_elite_z in the head dealing 15 damage (CritChance was 0.14).
+[21:39:23	]Marco Polo has hit npc_vj_civil_protection_elite_z in the head dealing 15 damage (CritChance was 0.14).
+[21:39:23	]Marco Polo has hit npc_vj_civil_protection_elite_z in the head dealing 15 damage (CritChance was 0.14).
+[21:39:23	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:23	]Marco Polo is fully healed.
+[21:39:24	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:24	]Marco Polo has gained a '30rnd M16 Magazine' #3307211.
+[21:39:24	]Marco Polo has lost a '30rnd M16 Magazine' #3307209.
+[21:39:27	]Marco Polo has taken 1 damage from Civil Protection Elite.
+[21:39:27	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:28	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:28	]Marco Polo has hit npc_vj_civil_protection_elite_z in the right arm dealing 10 damage (CritChance was 0.43).
+[21:39:28	]Marco Polo is fully healed.
+[21:39:29	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:30	]Marco Polo has taken 1 damage from Civil Protection Elite.
+[21:39:31	]Marco Polo has critically hit npc_vj_civil_protection_elite_z in the chest dealing 16 damage (CritChance was 0.43).
+[21:39:32	]Marco Polo has gained a '30rnd M16 Magazine' #3307209.
+[21:39:32	]Marco Polo has lost a '30rnd M16 Magazine' #3307208.
+[21:39:33	]Marco Polo is fully healed.
+[21:39:37	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:37	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:38	]Marco Polo has taken 1 damage from Civil Protection Elite.
+[21:39:38	]Marco Polo has taken 1 damage from Civil Protection Elite.
+[21:39:39	]Marco Polo has taken 1 damage from Civil Protection Elite.
+[21:39:39	]Marco Polo has hit npc_vj_civil_protection_elite_z in the left arm dealing 10 damage (CritChance was 0.43).
+[21:39:39	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:39	]Marco Polo has hit npc_vj_civil_protection_elite_z in the left arm dealing 10 damage (CritChance was 0.43).
+[21:39:40	]Marco Polo has hit npc_vj_civil_protection_elite_z in the head dealing 15 damage (CritChance was 0.14).
+[21:39:40	]Marco Polo has critically hit npc_vj_civil_protection_elite_z in the left arm dealing 13 damage (CritChance was 0.43).
+[21:39:41	]Marco Polo has taken 1 damage from Civil Protection Elite.
+[21:39:41	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:42	]Marco Polo has hit npc_vj_civil_protection_elite_z in the right arm dealing 10 damage (CritChance was 0.43).
+[21:39:42	]Marco Polo has hit npc_vj_civil_protection_elite_z in the right arm dealing 10 damage (CritChance was 0.43).
+[21:39:42	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:39:42	]Marco Polo has critically hit npc_vj_civil_protection_elite_z in the right arm dealing 13 damage (CritChance was 0.43).
+[21:39:42	]Marco Polo has critically hit npc_vj_civil_protection_elite_z in the right arm dealing 13 damage (CritChance was 0.43).
+[21:39:50	]Marco Polo used command '/ToggleRaise'.
+[21:39:50	]Marco Polo has lost a '7rnd Deagle Magazine' #3307132.
+[21:39:55	]Marco Polo used command '/ToggleRaise'.
+[21:39:58	]Marco Polo has critically hit npc_manhack dealing 48 damage (CritChance was 0.66).
+[21:40:02	]Marco Polo has critically hit npc_manhack dealing 48 damage (CritChance was 0.66).
+[21:40:05	]Marco Polo has critically hit npc_manhack dealing 48 damage (CritChance was 0.66).
+[21:40:07	]Marco Polo has gained a '7rnd Deagle Magazine' #3307132.
+[21:40:07	]Marco Polo has lost a '7rnd Deagle Magazine' #3307131.
+[21:40:13	]Marco Polo is fully healed.
+[21:40:16	]Marco Polo has spawned a 'NPC [458][npc_vj_civil_protection_z]'.
+[21:40:17	]Marco Polo has hit npc_vj_civil_protection_z in the left arm dealing 30 damage (CritChance was 0.40).
+[21:40:20	]Marco Polo has taken 2 damage from Civil Protection.
+[21:40:21	]Marco Polo has taken 2 damage from Civil Protection.
+[21:40:23	]Marco Polo is fully healed.
+[21:40:25	]Marco Polo has taken 2 damage from Civil Protection.
+[21:40:25	]Marco Polo has taken 8 damage from Civil Protection.
+[21:40:26	]Marco Polo has taken 8 damage from Civil Protection.
+[21:40:26	]Marco Polo has taken 8 damage from Civil Protection.
+[21:40:27	]Marco Polo has taken 8 damage from Civil Protection.
+[21:40:27	]Marco Polo has hit npc_vj_civil_protection_z in the right arm dealing 30 damage (CritChance was 0.40).
+[21:40:27	]Marco Polo has taken 8 damage from Civil Protection.
+[21:40:28	]Marco Polo has taken 2 damage from Civil Protection.
+[21:40:28	]Marco Polo is fully healed.
+[21:40:29	]Marco Polo has taken 2 damage from Civil Protection.
+[21:40:30	]Marco Polo used command '/ToggleRaise'.
+[21:40:30	]Marco Polo has taken 2 damage from Civil Protection.
+[21:40:33	]Marco Polo has gained a '30rnd M16 Magazine' #3307208.
+[21:40:33	]Marco Polo has lost a '30rnd M16 Magazine' #3307207.
+[21:40:33	]Marco Polo is fully healed.
+[21:40:36	]Marco Polo has taken 8 damage from Civil Protection.
+[21:40:36	]Marco Polo has taken 8 damage from Civil Protection.
+[21:40:37	]Marco Polo has taken 2 damage from Civil Protection.
+[21:40:37	]Marco Polo has taken 8 damage from Civil Protection.
+[21:40:38	]Marco Polo has taken 8 damage from Civil Protection.
+[21:40:38	]Marco Polo has taken 8 damage from Civil Protection.
+[21:40:38	]Marco Polo has critically hit npc_vj_civil_protection_z in the right arm dealing 13 damage (CritChance was 0.43).
+[21:40:38	]Marco Polo has hit npc_vj_civil_protection_z in the right arm dealing 10 damage (CritChance was 0.43).
+[21:40:38	]Marco Polo has hit npc_vj_civil_protection_z in the chest dealing 15 damage (CritChance was 0.43).
+[21:40:38	]Marco Polo is fully healed.
+[21:40:38	]Marco Polo has hit npc_vj_civil_protection_z in the stomach dealing 15 damage (CritChance was 0.58).
+[21:40:42	]Marco Polo has gained a '30rnd M16 Magazine' #3307207.
+[21:40:42	]Marco Polo has lost a '30rnd M16 Magazine' #3307206.
+[21:40:44	]Marco Polo has spawned a 'NPC [421][npc_vj_civil_protection_z]'.
+[21:40:45	]Marco Polo has critically hit npc_vj_civil_protection_z in the head dealing 18 damage (CritChance was 0.14).
+[21:40:45	]Marco Polo has hit npc_vj_civil_protection_z in the chest dealing 15 damage (CritChance was 0.43).
+[21:40:47	]Marco Polo has spawned a 'NPC [421][npc_vj_civil_protection_z]'.
+[21:40:47	]Marco Polo has critically hit npc_vj_civil_protection_z in the stomach dealing 16 damage (CritChance was 0.58).
+[21:40:47	]Marco Polo has hit npc_vj_civil_protection_z in the head dealing 15 damage (CritChance was 0.14).
+[21:40:47	]Marco Polo has taken 5 damage from Civil Protection.
+[21:40:48	]Marco Polo has critically hit npc_vj_civil_protection_z in the right arm dealing 13 damage (CritChance was 0.43).
+[21:40:48	]Marco Polo is fully healed.
+[21:40:50	]Marco Polo has spawned a 'NPC [421][npc_vj_civil_protection_z]'.
+[21:40:50	]Marco Polo has hit npc_vj_civil_protection_z in the left leg dealing 10 damage (CritChance was 0.43).
+[21:40:50	]Marco Polo has critically hit npc_vj_civil_protection_z in the left arm dealing 13 damage (CritChance was 0.43).
+[21:40:50	]Marco Polo has hit npc_vj_civil_protection_z in the chest dealing 15 damage (CritChance was 0.43).
+[21:40:50	]Marco Polo has hit npc_vj_civil_protection_z in the chest dealing 15 damage (CritChance was 0.43).
+[21:40:50	]Marco Polo has hit npc_vj_civil_protection_z in the chest dealing 15 damage (CritChance was 0.43).
+[21:40:52	]Marco Polo has gained a '30rnd M16 Magazine' #3307206.
+[21:40:52	]Marco Polo has lost a '30rnd M16 Magazine' #3307205.
+[21:40:53	]Marco Polo has spawned a 'NPC [421][npc_vj_civil_protection_elite_z]'.
+[21:40:55	]Marco Polo has taken 1 damage from Civil Protection Elite.
+[21:40:55	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:40:55	]Marco Polo has hit npc_vj_civil_protection_elite_z in the chest dealing 15 damage (CritChance was 0.43).
+[21:40:55	]Marco Polo has taken 1 damage from Civil Protection Elite.
+[21:40:55	]Marco Polo has critically hit npc_vj_civil_protection_elite_z in the chest dealing 16 damage (CritChance was 0.43).
+[21:40:55	]Marco Polo has hit npc_vj_civil_protection_elite_z in the head dealing 15 damage (CritChance was 0.14).
+[21:40:55	]Marco Polo has taken 6 damage from Civil Protection Elite.
+[21:40:55	]Marco Polo has hit npc_vj_civil_protection_elite_z in the head dealing 15 damage (CritChance was 0.14).
+[21:40:57	]Marco Polo has critically hit npc_manhack dealing 16 damage (CritChance was 0.72).
+[21:40:57	]Marco Polo has hit npc_manhack dealing 13 damage (CritChance was 0.72).
+[21:40:58	]Marco Polo is fully healed.
+[21:40:59	]Marco Polo has critically hit npc_manhack dealing 16 damage (CritChance was 0.72).
+[21:40:59	]Marco Polo has hit npc_manhack dealing 13 damage (CritChance was 0.72).
+[21:41:00	]Marco Polo has gained a '30rnd M16 Magazine' #3307205.
+[21:41:00	]Marco Polo has lost a '30rnd M16 Magazine' #3307204.
+[21:41:02	]Marco Polo has spawned a 'NPC [421][npc_vj_cremator_synth_z]'.
+[21:41:03	]Marco Polo has taken 4 damage from Cremator Synth.
+[21:41:03	]Marco Polo has taken 4 damage from Cremator Synth.
+[21:41:03	]Marco Polo has taken 4 damage from Cremator Synth.
+[21:41:04	]Marco Polo has taken 4 damage from Cremator Synth.
+[21:41:04	]Marco Polo has taken 4 damage from Cremator Synth.
+[21:41:08	]Marco Polo has hit npc_vj_cremator_synth_z dealing 13 damage (CritChance was 0.72).
+[21:41:09	]Marco Polo has hit npc_vj_cremator_synth_z dealing 13 damage (CritChance was 0.72).
+[21:41:09	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:09	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:09	]Marco Polo has hit npc_vj_cremator_synth_z dealing 13 damage (CritChance was 0.72).
+[21:41:09	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:09	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:09	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:09	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:09	]Marco Polo has hit npc_vj_cremator_synth_z dealing 13 damage (CritChance was 0.72).
+[21:41:13	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:13	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:13	]Marco Polo has hit npc_vj_cremator_synth_z dealing 13 damage (CritChance was 0.72).
+[21:41:13	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:13	]Marco Polo has hit npc_vj_cremator_synth_z dealing 13 damage (CritChance was 0.72).
+[21:41:13	]Marco Polo has hit npc_vj_cremator_synth_z dealing 13 damage (CritChance was 0.72).
+[21:41:13	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:13	]Marco Polo has hit npc_vj_cremator_synth_z dealing 13 damage (CritChance was 0.72).
+[21:41:13	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:14	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:14	]Marco Polo has hit npc_vj_cremator_synth_z dealing 13 damage (CritChance was 0.72).
+[21:41:14	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:14	]Marco Polo has hit npc_vj_cremator_synth_z dealing 13 damage (CritChance was 0.72).
+[21:41:14	]Marco Polo has taken 4 damage from Cremator Synth.
+[21:41:14	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:14	]Marco Polo has taken 4 damage from Cremator Synth.
+[21:41:14	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:14	]Marco Polo has taken 4 damage from Cremator Synth.
+[21:41:14	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:15	]Marco Polo has gained a '30rnd M16 Magazine' #3307204.
+[21:41:15	]Marco Polo has lost a '30rnd M16 Magazine' #3307203.
+[21:41:18	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307211)
+[21:41:20	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:20	]Marco Polo has hit npc_vj_cremator_synth_z dealing 13 damage (CritChance was 0.72).
+[21:41:20	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:20	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:20	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:20	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:20	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:20	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:21	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:21	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:21	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:21	]Marco Polo has critically hit npc_vj_cremator_synth_z dealing 16 damage (CritChance was 0.72).
+[21:41:24	]Marco Polo has spawned a 'NPC [421][npc_vj_combineguard_z]'.
+[21:41:24	]Marco Polo has hit npc_vj_combineguard_z dealing 13 damage (CritChance was 0.72).
+[21:41:24	]Marco Polo has hit npc_vj_combineguard_z dealing 13 damage (CritChance was 0.72).
+[21:41:25	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.72).
+[21:41:25	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.72).
+[21:41:25	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.72).
+[21:41:25	]Marco Polo has hit npc_vj_combineguard_z dealing 13 damage (CritChance was 0.72).
+[21:41:25	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.72).
+[21:41:25	]Marco Polo has hit npc_vj_combineguard_z dealing 13 damage (CritChance was 0.72).
+[21:41:25	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.72).
+[21:41:25	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.72).
+[21:41:25	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.72).
+[21:41:25	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.72).
+[21:41:25	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.72).
+[21:41:26	]Marco Polo has gained a '30rnd M16 Magazine' #3307203.
+[21:41:26	]Marco Polo has lost a '30rnd M16 Magazine' #3307211.
+[21:41:26	]Marco Polo has taken 60 damage from Combine Guard.
+[21:41:31	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:31	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:31	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:31	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:35	]Marco Polo has hit npc_vj_combineguard_z dealing 13 damage (CritChance was 0.65).
+[21:41:35	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:35	]Marco Polo has hit npc_vj_combineguard_z dealing 13 damage (CritChance was 0.65).
+[21:41:36	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:36	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:36	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:36	]Marco Polo has hit npc_vj_combineguard_z dealing 13 damage (CritChance was 0.65).
+[21:41:36	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:36	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:36	]Marco Polo has hit npc_vj_combineguard_z dealing 13 damage (CritChance was 0.65).
+[21:41:36	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:36	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:36	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:37	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:37	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:37	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:37	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:37	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:37	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:37	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:39	]Marco Polo has gained a '30rnd M16 Magazine' #3307211.
+[21:41:39	]Marco Polo has lost a '30rnd M16 Magazine' #3307202.
+[21:41:41	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:42	]Marco Polo has hit npc_vj_combineguard_z dealing 13 damage (CritChance was 0.65).
+[21:41:44	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:44	]Marco Polo has hit npc_vj_combineguard_z dealing 13 damage (CritChance was 0.65).
+[21:41:44	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:44	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:44	]Marco Polo has hit npc_vj_combineguard_z dealing 13 damage (CritChance was 0.65).
+[21:41:44	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:45	]Marco Polo has hit npc_vj_combineguard_z dealing 13 damage (CritChance was 0.65).
+[21:41:45	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:45	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:45	]Marco Polo has critically hit npc_vj_combineguard_z dealing 16 damage (CritChance was 0.65).
+[21:41:48	]Marco Polo has gained a '30rnd M16 Magazine' #3307202.
+[21:41:48	]Marco Polo has lost a '30rnd M16 Magazine' #3307201.
+[21:41:48	]Marco Polo has spawned a 'NPC [421][npc_vj_rollermine_explosive_z]'.
+[21:41:50	]Marco Polo has hit npc_vj_rollermine_explosive_z dealing 13 damage (CritChance was 0.65).
+[21:41:51	]Marco Polo has critically hit npc_vj_rollermine_explosive_z dealing 16 damage (CritChance was 0.65).
+[21:41:51	]Marco Polo has critically hit npc_vj_rollermine_explosive_z dealing 16 damage (CritChance was 0.65).
+[21:41:51	]Marco Polo has hit npc_vj_rollermine_explosive_z dealing 13 damage (CritChance was 0.65).
+[21:41:51	]Marco Polo has hit npc_vj_rollermine_explosive_z dealing 13 damage (CritChance was 0.65).
+[21:41:51	]Marco Polo has critically hit npc_vj_rollermine_explosive_z dealing 16 damage (CritChance was 0.65).
+[21:41:51	]Marco Polo has critically hit npc_vj_rollermine_explosive_z dealing 16 damage (CritChance was 0.65).
+[21:41:52	]Marco Polo has critically hit npc_vj_rollermine_explosive_z dealing 16 damage (CritChance was 0.65).
+[21:41:52	]Marco Polo has gained a '7rnd Deagle Magazine' #3307131.
+[21:41:52	]Marco Polo has gained a '30rnd M16 Magazine' #3307201.
+[21:41:52	]Marco Polo was knocked unconscious and is bleeding out.
+[21:41:58	]Marco Polo used command '/CharStopBleedout ^'.
+[21:41:58	]Marco Polo is no longer unconscious from critical wounds.
+[21:41:58	]Marco Polo is fully healed.
+[21:42:00	]Marco Polo has lost a '30rnd M16 Magazine' #3307200.
+[21:42:06	]Marco Polo used command '/ToggleRaise'.
+[21:42:08	]Marco Polo has spawned a 'NPC [421][npc_vj_strider_synth_z]'.
+[21:42:10	]Marco Polo has spawned a 'NPC [495][npc_vj_vortigaunt_synth_z]'.
+[21:42:12	]Marco Polo has spawned a 'NPC [446][npc_vj_vortigaunt_synth_z]'.
+[21:42:14	]Marco Polo has critically hit npc_vj_vortigaunt_synth_z dealing 16 damage (CritChance was 0.72).
+[21:42:14	]Marco Polo has critically hit npc_vj_vortigaunt_synth_z dealing 16 damage (CritChance was 0.72).
+[21:42:15	]Marco Polo has critically hit npc_vj_vortigaunt_synth_z dealing 16 damage (CritChance was 0.72).
+[21:42:15	]Marco Polo has critically hit npc_vj_vortigaunt_synth_z dealing 16 damage (CritChance was 0.72).
+[21:42:15	]Marco Polo has critically hit npc_vj_vortigaunt_synth_z dealing 16 damage (CritChance was 0.72).
+[21:42:15	]Marco Polo has critically hit npc_vj_vortigaunt_synth_z dealing 16 damage (CritChance was 0.72).
+[21:42:15	]Marco Polo has hit npc_vj_vortigaunt_synth_z dealing 13 damage (CritChance was 0.72).
+[21:42:15	]Marco Polo has hit npc_vj_vortigaunt_synth_z dealing 13 damage (CritChance was 0.72).
+[21:42:15	]Marco Polo has hit npc_vj_vortigaunt_synth_z dealing 13 damage (CritChance was 0.72).
+[21:42:15	]Marco Polo has hit npc_vj_vortigaunt_synth_z dealing 13 damage (CritChance was 0.72).
+[21:42:15	]Marco Polo has critically hit npc_vj_vortigaunt_synth_z dealing 16 damage (CritChance was 0.72).
+[21:42:16	]Marco Polo has hit npc_vj_vortigaunt_synth_z dealing 13 damage (CritChance was 0.72).
+[21:42:16	]Marco Polo has hit npc_vj_vortigaunt_synth_z dealing 13 damage (CritChance was 0.72).
+[21:42:16	]Marco Polo has critically hit npc_vj_vortigaunt_synth_z dealing 16 damage (CritChance was 0.72).
+[21:42:16	]Marco Polo has critically hit npc_vj_vortigaunt_synth_z dealing 16 damage (CritChance was 0.72).
+[21:42:16	]Marco Polo has hit npc_vj_vortigaunt_synth_z dealing 13 damage (CritChance was 0.72).
+[21:42:18	]Marco Polo has gained a '30rnd M16 Magazine' #3307200.
+[21:42:18	]Marco Polo has lost a '30rnd M16 Magazine' #3307210.
+[21:42:21	]Marco Polo has spawned a 'NPC [421][npc_vj_crabsynth2_z]'.
+[21:42:31	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:42:31	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:42:31	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:42:31	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:42:31	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:42:31	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:42:31	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:42:31	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:42:32	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:42:32	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:42:32	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:42:32	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:42:32	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:42:32	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:42:32	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:42:32	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:42:32	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:42:32	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:42:33	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:42:33	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:42:33	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:42:33	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:42:33	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:42:33	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:42:33	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:42:33	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:42:33	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:42:33	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:42:34	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:42:35	]Marco Polo has gained a '30rnd M16 Magazine' #3307210.
+[21:42:35	]Marco Polo has lost a '30rnd M16 Magazine' #3307201.
+[21:42:38	]Marco Polo has gained a '30rnd M16 Magazine' #3307201.
+[21:42:38	]Marco Polo has lost a '30rnd M16 Magazine' #3307200.
+[21:42:41	]Marco Polo has gained a '30rnd M16 Magazine' #3307200.
+[21:42:41	]Marco Polo has lost a '30rnd M16 Magazine' #3307201.
+[21:42:55	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307206)
+[21:42:56	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307207)
+[21:42:57	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307208)
+[21:42:58	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307209)
+[21:43:00	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307210)
+[21:43:01	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307211)
+[21:43:02	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307200)
+[21:43:03	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307202)
+[21:43:05	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307203)
+[21:43:06	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307204)
+[21:43:07	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307205)
+[21:43:16	]Marco Polo has gained a '30rnd M16 Magazine' #3307201.
+[21:43:16	]Marco Polo has lost a '30rnd M16 Magazine' #3307211.
+[21:43:26	]Marco Polo ran 'combine' on item '30rnd M16 Magazine' (#3307201)
+[21:43:29	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:29	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:29	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:29	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:30	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:30	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:30	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:30	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:30	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:30	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:30	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:30	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:30	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:30	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:31	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:31	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:31	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:31	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:31	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:31	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:31	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:31	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:31	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:31	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:32	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:32	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:32	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:32	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:32	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:32	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:32	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:34	]Marco Polo has gained a '30rnd M16 Magazine' #3307211.
+[21:43:34	]Marco Polo has lost a '30rnd M16 Magazine' #3307210.
+[21:43:37	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:37	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:37	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:37	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:37	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:38	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:38	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:38	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:38	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:38	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:38	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:38	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:38	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:38	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:39	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:39	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:39	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:39	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:39	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:39	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:39	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:39	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:39	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:40	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:40	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:40	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:40	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:40	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:40	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:40	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:40	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:41	]Marco Polo has gained a '30rnd M16 Magazine' #3307210.
+[21:43:41	]Marco Polo has lost a '30rnd M16 Magazine' #3307209.
+[21:43:44	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:44	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:44	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:44	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:44	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:44	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:45	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:45	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:45	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:45	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:45	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:45	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:45	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:45	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:45	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:45	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:46	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:46	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:46	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:46	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:46	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:46	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:46	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:46	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:46	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:46	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:47	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:47	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:47	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:47	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:47	]Marco Polo has gained a '30rnd M16 Magazine' #3307209.
+[21:43:47	]Marco Polo has lost a '30rnd M16 Magazine' #3307208.
+[21:43:50	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:50	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:51	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:51	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:51	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:51	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:51	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:51	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:51	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:51	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:51	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:51	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:52	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:52	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:52	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:52	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:52	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:52	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:52	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:52	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:52	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:52	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:53	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:53	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:53	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:53	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:53	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:53	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:43:53	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:53	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:53	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:43:54	]Marco Polo has gained a '30rnd M16 Magazine' #3307208.
+[21:43:54	]Marco Polo has lost a '30rnd M16 Magazine' #3307207.
+[21:43:56	]Marco Polo has spawned a 'NPC [529][npc_vj_overwatch_elite_z]'.
+[21:43:57	]Marco Polo has taken 3 damage from Overwatch Elite.
+[21:43:57	]Marco Polo has hit npc_vj_overwatch_elite_z dealing 13 damage (CritChance was 0.72).
+[21:43:57	]Marco Polo has taken 3 damage from Overwatch Elite.
+[21:43:57	]Marco Polo has taken 12 damage from Overwatch Elite.
+[21:43:57	]Marco Polo has critically hit npc_vj_overwatch_elite_z dealing 16 damage (CritChance was 0.72).
+[21:43:57	]Marco Polo has taken 3 damage from Overwatch Elite.
+[21:43:57	]Marco Polo has hit npc_vj_overwatch_elite_z in the left leg dealing 10 damage (CritChance was 0.43).
+[21:43:58	]Marco Polo has critically hit npc_vj_overwatch_elite_z in the left arm dealing 13 damage (CritChance was 0.43).
+[21:43:58	]Marco Polo has critically hit npc_vj_overwatch_elite_z in the left leg dealing 13 damage (CritChance was 0.43).
+[21:43:58	]Marco Polo is fully healed.
+[21:43:58	]Marco Polo has taken 3 damage from Overwatch Elite.
+[21:43:58	]Marco Polo has hit npc_vj_overwatch_elite_z in the right leg dealing 10 damage (CritChance was 0.43).
+[21:43:59	]Marco Polo has taken 3 damage from Overwatch Elite.
+[21:43:59	]Marco Polo has hit npc_vj_overwatch_elite_z in the left leg dealing 10 damage (CritChance was 0.43).
+[21:43:59	]Marco Polo has taken 12 damage from Overwatch Elite.
+[21:43:59	]Marco Polo has critically hit npc_vj_overwatch_elite_z dealing 16 damage (CritChance was 0.72).
+[21:43:59	]Marco Polo has hit npc_vj_overwatch_elite_z in the chest dealing 15 damage (CritChance was 0.43).
+[21:43:59	]Marco Polo has hit npc_vj_overwatch_elite_z in the left arm dealing 10 damage (CritChance was 0.43).
+[21:43:59	]Marco Polo has hit npc_vj_overwatch_elite_z in the left arm dealing 10 damage (CritChance was 0.43).
+[21:43:59	]Marco Polo has critically hit npc_vj_overwatch_elite_z dealing 16 damage (CritChance was 0.72).
+[21:44:00	]Marco Polo has critically hit npc_vj_overwatch_elite_z dealing 16 damage (CritChance was 0.72).
+[21:44:00	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:44:00	]Marco Polo has gained a '30rnd M16 Magazine' #3307207.
+[21:44:00	]Marco Polo has lost a '30rnd M16 Magazine' #3307206.
+[21:44:03	]Marco Polo is fully healed.
+[21:44:04	]Marco Polo has spawned a 'NPC [529][npc_vj_overwatch_soldier_z]'.
+[21:44:05	]Marco Polo has critically hit npc_vj_overwatch_soldier_z in the right arm dealing 13 damage (CritChance was 0.43).
+[21:44:05	]Marco Polo has hit npc_vj_overwatch_soldier_z in the left arm dealing 10 damage (CritChance was 0.43).
+[21:44:05	]Marco Polo has hit npc_vj_overwatch_soldier_z in the left arm dealing 10 damage (CritChance was 0.43).
+[21:44:05	]Marco Polo has hit npc_vj_overwatch_soldier_z in the head dealing 15 damage (CritChance was 0.14).
+[21:44:05	]Marco Polo has hit npc_vj_overwatch_soldier_z in the head dealing 15 damage (CritChance was 0.14).
+[21:44:08	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:44:09	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:44:09	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:44:09	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:44:09	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:44:09	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:44:09	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:44:09	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:44:09	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:44:09	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.72).
+[21:44:10	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:44:10	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:44:10	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:44:10	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:44:10	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:44:10	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:44:10	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:44:10	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.72).
+[21:44:12	]Marco Polo used command '/ToggleRaise'.
+[21:44:13	]Marco Polo has lost a '7rnd Deagle Magazine' #3307130.
+[21:44:16	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 48 damage (CritChance was 0.66).
+[21:44:17	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 48 damage (CritChance was 0.66).
+[21:44:18	]Marco Polo has hit npc_vj_crabsynth2_z dealing 39 damage (CritChance was 0.66).
+[21:44:18	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 48 damage (CritChance was 0.66).
+[21:44:19	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 48 damage (CritChance was 0.66).
+[21:44:20	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 48 damage (CritChance was 0.66).
+[21:44:21	]Marco Polo has gained a '7rnd Deagle Magazine' #3307130.
+[21:44:21	]Marco Polo has lost a '7rnd Deagle Magazine' #3307129.
+[21:44:24	]Marco Polo has spawned a 'NPC [555][npc_vj_mini_strider_synth_z]'.
+[21:44:25	]Marco Polo has hit npc_vj_mini_strider_synth_z dealing 39 damage (CritChance was 0.66).
+[21:44:25	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 48 damage (CritChance was 0.66).
+[21:44:26	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 48 damage (CritChance was 0.66).
+[21:44:26	]Marco Polo has taken 6 damage from Mini Strider Synth.
+[21:44:26	]Marco Polo has taken 6 damage from Mini Strider Synth.
+[21:44:26	]Marco Polo has taken 6 damage from Mini Strider Synth.
+[21:44:26	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 48 damage (CritChance was 0.66).
+[21:44:26	]Marco Polo has taken 6 damage from Mini Strider Synth.
+[21:44:26	]Marco Polo has taken 6 damage from Mini Strider Synth.
+[21:44:26	]Marco Polo has taken 6 damage from Mini Strider Synth.
+[21:44:26	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 48 damage (CritChance was 0.66).
+[21:44:26	]Marco Polo has taken 6 damage from Mini Strider Synth.
+[21:44:27	]Marco Polo has taken 6 damage from Mini Strider Synth.
+[21:44:27	]Marco Polo has taken 1 damage from Mini Strider Synth.
+[21:44:27	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 48 damage (CritChance was 0.66).
+[21:44:27	]Marco Polo has taken 1 damage from Mini Strider Synth.
+[21:44:27	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 48 damage (CritChance was 0.66).
+[21:44:27	]Marco Polo has taken 1 damage from Mini Strider Synth.
+[21:44:27	]Marco Polo has taken 1 damage from Mini Strider Synth.
+[21:44:27	]Marco Polo has taken 6 damage from Mini Strider Synth.
+[21:44:27	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 48 damage (CritChance was 0.66).
+[21:44:27	]Marco Polo has taken 6 damage from Mini Strider Synth.
+[21:44:27	]Marco Polo has taken 6 damage from Mini Strider Synth.
+[21:44:28	]Marco Polo has taken 6 damage from Mini Strider Synth.
+[21:44:28	]Marco Polo has taken 6 damage from Mini Strider Synth.
+[21:44:28	]Marco Polo has taken 6 damage from Mini Strider Synth.
+[21:44:29	]Marco Polo has gained a '7rnd Deagle Magazine' #3307129.
+[21:44:29	]Marco Polo has lost a '7rnd Deagle Magazine' #3307132.
+[21:44:32	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 48 damage (CritChance was 0.66).
+[21:44:38	]Marco Polo used command '/ToggleRaise'.
+[21:44:38	]Marco Polo has gained a '30rnd M16 Magazine' #3307206.
+[21:44:38	]Marco Polo has lost a '30rnd M16 Magazine' #3307205.
+[21:44:40	]Marco Polo used command '/ToggleRaise'.
+[21:44:44	]Marco Polo has taken 6 damage from Mini Strider Synth.
+[21:44:45	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:45	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:45	]Marco Polo has taken 6 damage from Mini Strider Synth.
+[21:44:45	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:45	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:45	]Marco Polo has hit npc_vj_mini_strider_synth_z dealing 13 damage (CritChance was 0.72).
+[21:44:45	]Marco Polo has hit npc_vj_mini_strider_synth_z dealing 13 damage (CritChance was 0.72).
+[21:44:45	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:46	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:46	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:46	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:46	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:46	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:46	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:46	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:46	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:46	]Marco Polo has hit npc_vj_mini_strider_synth_z dealing 13 damage (CritChance was 0.72).
+[21:44:46	]Marco Polo has hit npc_vj_mini_strider_synth_z dealing 13 damage (CritChance was 0.72).
+[21:44:47	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:47	]Marco Polo has hit npc_vj_mini_strider_synth_z dealing 13 damage (CritChance was 0.72).
+[21:44:47	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:47	]Marco Polo has hit npc_vj_mini_strider_synth_z dealing 13 damage (CritChance was 0.72).
+[21:44:47	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:47	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:47	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:47	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:47	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:47	]Marco Polo has hit npc_vj_mini_strider_synth_z dealing 13 damage (CritChance was 0.72).
+[21:44:48	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:48	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:49	]Marco Polo has gained a '30rnd M16 Magazine' #3307205.
+[21:44:49	]Marco Polo has lost a '30rnd M16 Magazine' #3307204.
+[21:44:53	]Marco Polo has hit npc_vj_mini_strider_synth_z dealing 13 damage (CritChance was 0.72).
+[21:44:53	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:53	]Marco Polo has hit npc_vj_mini_strider_synth_z dealing 13 damage (CritChance was 0.72).
+[21:44:53	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:53	]Marco Polo has hit npc_vj_mini_strider_synth_z dealing 13 damage (CritChance was 0.72).
+[21:44:53	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:53	]Marco Polo has hit npc_vj_mini_strider_synth_z dealing 13 damage (CritChance was 0.72).
+[21:44:53	]Marco Polo has taken 6 damage from Mini Strider Synth.
+[21:44:54	]Marco Polo has taken 6 damage from Mini Strider Synth.
+[21:44:57	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:57	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:57	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:44:57	]Marco Polo has critically hit npc_vj_mini_strider_synth_z dealing 16 damage (CritChance was 0.72).
+[21:45:02	]Marco Polo has taken 3 damage from Crab Synth.
+[21:45:02	]Marco Polo has taken 3 damage from Crab Synth.
+[21:45:03	]Marco Polo has taken 3 damage from Crab Synth.
+[21:45:03	]Marco Polo has taken 3 damage from Crab Synth.
+[21:45:03	]Marco Polo has taken 3 damage from Crab Synth.
+[21:45:03	]Marco Polo has taken 0 damage from Crab Synth.
+[21:45:03	]Marco Polo has taken 3 damage from Crab Synth.
+[21:45:03	]Marco Polo has taken 0 damage from Crab Synth.
+[21:45:05	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.69).
+[21:45:05	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.69).
+[21:45:05	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.69).
+[21:45:05	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.69).
+[21:45:06	]Marco Polo has taken 3 damage from Crab Synth.
+[21:45:06	]Marco Polo has taken 0 damage from Crab Synth.
+[21:45:06	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.68).
+[21:45:06	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.68).
+[21:45:06	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.68).
+[21:45:06	]Marco Polo has taken 3 damage from Crab Synth.
+[21:45:06	]Marco Polo has taken 0 damage from Crab Synth.
+[21:45:06	]Marco Polo has taken 3 damage from Crab Synth.
+[21:45:06	]Marco Polo has taken 0 damage from Crab Synth.
+[21:45:06	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.67).
+[21:45:06	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.67).
+[21:45:06	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.67).
+[21:45:07	]Marco Polo has gained a '30rnd M16 Magazine' #3307204.
+[21:45:07	]Marco Polo has lost a '30rnd M16 Magazine' #3307203.
+[21:45:10	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.67).
+[21:45:10	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.67).
+[21:45:10	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.67).
+[21:45:10	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.67).
+[21:45:10	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.67).
+[21:45:11	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.67).
+[21:45:11	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.67).
+[21:45:11	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.67).
+[21:45:11	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.67).
+[21:45:11	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.67).
+[21:45:11	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.67).
+[21:45:11	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.67).
+[21:45:11	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.67).
+[21:45:11	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.67).
+[21:45:11	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.67).
+[21:45:12	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.67).
+[21:45:12	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.67).
+[21:45:12	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.67).
+[21:45:12	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.67).
+[21:45:12	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.67).
+[21:45:12	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.67).
+[21:45:12	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.67).
+[21:45:12	]Marco Polo has critically hit npc_vj_crabsynth2_z dealing 16 damage (CritChance was 0.67).
+[21:45:12	]Marco Polo has hit npc_vj_crabsynth2_z dealing 13 damage (CritChance was 0.67).
+[21:45:19	]Marco Polo has gained a '30rnd M16 Magazine' #3307203.
+[21:45:19	]Marco Polo has lost a '30rnd M16 Magazine' #3307202.
+[21:45:27	]Marco Polo has spawned a 'NPC [421][npc_vj_stalker_z]'.
+[21:45:28	]Marco Polo has hit npc_vj_stalker_z dealing 13 damage (CritChance was 0.67).
+[21:45:28	]Marco Polo has taken 2 damage from Combine Stalker.
+[21:45:28	]Marco Polo has critically hit npc_vj_stalker_z dealing 16 damage (CritChance was 0.67).
+[21:45:28	]Marco Polo has taken 2 damage from Combine Stalker.
+[21:45:28	]Marco Polo has hit npc_vj_stalker_z dealing 13 damage (CritChance was 0.66).
+[21:45:28	]Marco Polo has taken 2 damage from Combine Stalker.
+[21:45:28	]Marco Polo has gained a '7rnd Deagle Magazine' #3307132.
+[21:45:28	]Marco Polo has gained a '30rnd M16 Magazine' #3307202.
+[21:45:28	]Marco Polo was knocked unconscious and is bleeding out.
+[21:45:33	]Marco Polo used command '/CharStopBleedout ^'.
+[21:45:33	]Marco Polo is no longer unconscious from critical wounds.
+[21:45:33	]Marco Polo is fully healed.
+[21:46:48	]Marco Polo ran 'RepairObject' on item 'Toolkit' (#3307177)
+[21:51:58	]Marco Polo has gone afk.
+[22:23:58	]Marco Polo is no longer afk. Total time spent AFK: 2215
+[22:29:58	]Marco Polo has gone afk.
+[23:24:15	]Marco (STEAM_0:0:39958603) has disconnected.

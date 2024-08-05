@@ -1,0 +1,48 @@
+[03:13:26	]The Large Refrigerator container (#0) was removed due to inactivity.
+[03:13:27	]The Large Metal Cabinet container (#0) was removed due to inactivity.
+[03:13:27	]The Gunk Locker container (#0) was removed due to inactivity.
+[17:29:02	]TheGamingPlumber has connected.
+[17:30:30	]TheGamingPlumber loaded the character 'Varos Atkins'
+[17:30:49	]Varos Atkins entered observer.
+[17:31:39	]Varos Atkins used command '/CharGiveFlag varos PETRNCCvVUuaAbBCc'.
+[17:31:42	]Varos Atkins exited observer at their location.
+[17:31:55	]Varos Atkins used command '/PlyGetInfo varos'.
+[17:32:13	]Varos Atkins used command '/GetCWUFlags'.
+[17:33:10	]Varos Atkins has spawned a uniform_cp.
+[17:33:11	]Varos Atkins has spawned a mask_com.
+[17:33:14	]Varos Atkins ran 'take' on item 'Advanced PMG-5 (AUG) Gasmask' (#2693275)
+[17:33:14	]Varos Atkins has gained a 'Advanced PMG-5 (AUG) Gasmask' #2693275.
+[17:33:15	]Varos Atkins ran 'take' on item 'Light Functionary Uniform' (#2693274)
+[17:33:15	]Varos Atkins has gained a 'Light Functionary Uniform' #2693274.
+[17:33:39	]Varos Atkins has spawned a 'Entity [6438][ix_workshiftterminal]'.
+[17:33:41	]Varos Atkins has spawned a 'Entity [6438][ix_cwuterminal]'.
+[17:33:58	]Varos Atkins has spawned a fake_id_card_creator.
+[17:34:05	]Varos Atkins has spawned a id_card_blank.
+[17:34:07	]Varos Atkins ran 'take' on item 'Blank CID card' (#2693277)
+[17:34:07	]Varos Atkins has gained a 'Blank CID card' #2693277.
+[17:34:08	]Varos Atkins ran 'take' on item 'Counterfeit Identity Card Creation Device' (#2693276)
+[17:34:08	]Varos Atkins has gained a 'Counterfeit Identity Card Creation Device' #2693276.
+[17:34:15	]Varos Atkins has spawned a cwu_card.
+[17:34:16	]Varos Atkins ran 'take' on item 'CWU Member Access Keycard' (#2693278)
+[17:34:16	]Varos Atkins has gained a 'CWU Member Access Keycard' #2693278.
+[17:34:33	]Varos Atkins ran 'CreateID' on item 'Counterfeit Identity Card Creation Device' (#2693276)
+[17:34:48	]Varos Atkins has gained a '#67219's Identity Card' #2693279.
+[17:34:57	]Varos Atkins ran 'drop' on item '#82912's Identity Card' (#2605671)
+[17:34:57	]Varos Atkins has lost a '#82912's Identity Card' #2605671.
+[17:35:20	]Varos Atkins ran 'take' on item '#82912's Identity Card' (#2605671)
+[17:35:20	]Varos Atkins has gained a '#82912's Identity Card' #2605671.
+[17:35:27	]Varos Atkins ran 'insert' on item '#82912's Identity Card' (#2605671)
+[17:35:27	]Varos Atkins has lost a '#82912's Identity Card' #2605671.
+[17:35:29	]Varos Atkins ran 'insert' on item 'CWU Management Access Keycard' (#2605673)
+[17:35:29	]Varos Atkins has lost a 'CWU Management Access Keycard' #2605673.
+[17:35:37	]Varos Atkins ran 'take' on item '#82912's Identity Card' (#2605671)
+[17:35:37	]Varos Atkins has gained a '#82912's Identity Card' #2605671.
+[17:35:43	]Varos Atkins ran 'drop' on item '#67219's Identity Card' (#2693279)
+[17:35:43	]Varos Atkins has lost a '#67219's Identity Card' #2693279.
+[17:35:47	]Varos Atkins entered observer.
+[17:35:48	]Varos Atkins exited observer at their location.
+[17:38:43	]Varos Atkins ran 'take' on item '#67219's Identity Card' (#2693279)
+[17:38:43	]Varos Atkins has gained a '#67219's Identity Card' #2693279.
+[17:38:45	]Varos Atkins ran 'take' on item 'CWU Management Access Keycard' (#2605673)
+[17:38:45	]Varos Atkins has gained a 'CWU Management Access Keycard' #2605673.
+[17:38:54	]TheGamingPlumber (STEAM_0:0:49210697) has disconnected.

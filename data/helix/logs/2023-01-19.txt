@@ -1,0 +1,605 @@
+[03:55:49	]Tony The Tiger has connected.
+[03:57:33	]Tony The Tiger created the character 'C17:RCT.YELLO-51'
+[03:57:33	]Tony The Tiger has gained level 30 in the Guns skill.
+[03:57:33	]Tony The Tiger has gained level 30 in the Speed skill.
+[03:57:33	]Tony The Tiger loaded the character 'C17:RCT.YELLO-51'
+[03:57:33	]C17:RCT.YELLO-51 has gained a '#47581's Identity Card' #1648719.
+[03:57:33	]C17:RCT.YELLO-51 has gained a 'Combine PDA' #1648720.
+[03:57:33	]C17:RCT.YELLO-51 has gained a 'CP Uniform' #1648721.
+[03:57:33	]C17:RCT.YELLO-51 has gained a 'CP Mask' #1648722.
+[03:57:33	]C17:RCT.YELLO-51 has gained a 'Handheld Radio' #1648723.
+[03:57:33	]C17:RCT.YELLO-51 has gained a 'Small Bag' #1648724.
+[03:57:33	]C17:RCT.YELLO-51 has gained a 'Large Bag' #1648725.
+[03:58:01	]C17:RCT.YELLO-51 ran 'ToggleOn' on item 'Handheld Radio' (#1648723)
+[03:58:02	]C17:RCT.YELLO-51 ran 'Equip' on item 'Combine PDA' (#1648720)
+[03:58:07	]C17:RCT.YELLO-51 has acquired his ration, gaining 14 credits, 0 wages and a civil_protection_ration ration.
+[03:58:22	]C17:RCT.YELLO-51 ran 'take' on item 'Civil Protection Ration' (#1648726)
+[03:58:22	]C17:RCT.YELLO-51 has gained a 'Civil Protection Ration' #1648726.
+[03:59:21	]C17:RCT.YELLO-51 opened the 'Civil Protection Lockers' stash.
+[03:59:23	]C17:RCT.YELLO-51 closed the 'Civil Protection Lockers' stash.
+[03:59:25	]C17:RCT.YELLO-51 used the '<:: Standard Requisition ::>' vendor.
+[03:59:32	]C17:RCT.YELLO-51 has gained a 'Stunstick' #1648727.
+[03:59:41	]C17:RCT.YELLO-51 has gained a 'Flashlight' #1648728.
+[03:59:47	]C17:RCT.YELLO-51 ran 'Equip' on item 'Stunstick' (#1648727)
+[03:59:49	]C17:RCT.YELLO-51 ran 'drop' on item 'Civil Protection Ration' (#1648726)
+[03:59:49	]C17:RCT.YELLO-51 has lost a 'Civil Protection Ration' #1648726.
+[03:59:51	]C17:RCT.YELLO-51 ran 'take' on item 'Civil Protection Ration' (#1648726)
+[03:59:51	]C17:RCT.YELLO-51 has gained a 'Civil Protection Ration' #1648726.
+[04:00:53	]C17:RCT.YELLO-51 used command '/Doorkick'.
+[04:00:56	]C17:RCT.YELLO-51 used the '<:: Auxiliary Requisitions ::>' vendor.
+[04:01:11	]C17:RCT.YELLO-51 used command '/Doorkick'.
+[04:01:15	]C17:RCT.YELLO-51 opened the 'Auxiliary Lockers' stash.
+[04:01:17	]C17:RCT.YELLO-51 closed the 'Auxiliary Lockers' stash.
+[04:01:21	]C17:RCT.YELLO-51 opened the 'Auxiliary Lockers' stash.
+[04:01:22	]C17:RCT.YELLO-51 closed the 'Auxiliary Lockers' stash.
+[04:01:47	]C17:RCT.YELLO-51 used command '/ActStand'.
+[04:01:49	]C17:RCT.YELLO-51 used command '/ExitAct'.
+[04:01:55	]C17:RCT.YELLO-51 used command '/ActLean'.
+[04:02:02	]C17:RCT.YELLO-51 used command '/ExitAct'.
+[04:03:53	]C17:RCT.YELLO-51 has changed C17:RCT.YELLO-51's bodygroups.
+[04:05:01	]C17:RCT.YELLO-51 used the 'CWU Management Dispenser' vendor.
+[04:07:28	]C17:RCT.YELLO-51 ran 'take' on item 'Vending Machine Key' (#1648098)
+[04:07:28	]C17:RCT.YELLO-51 has gained a 'Vending Machine Key' #1648098.
+[04:07:32	]C17:RCT.YELLO-51 opened the 'Trash Bin' #71652 container.
+[04:07:33	]C17:RCT.YELLO-51 closed the 'Trash Bin' #71652 container.
+[04:08:03	]C17:RCT.YELLO-51 used command '/Datafile 75803'.
+[04:08:16	]C17:RCT.YELLO-51 ran 'drop' on item 'Vending Machine Key' (#1648098)
+[04:08:16	]C17:RCT.YELLO-51 has lost a 'Vending Machine Key' #1648098.
+[04:08:18	]C17:RCT.YELLO-51 ran 'take' on item 'Vending Machine Key' (#1648098)
+[04:08:18	]C17:RCT.YELLO-51 has gained a 'Vending Machine Key' #1648098.
+[04:08:22	]C17:RCT.YELLO-51 ran 'Insert' on item 'Vending Machine Key' (#1648098)
+[04:08:30	]C17:RCT.YELLO-51 ran 'drop' on item 'Vending Machine Key' (#1648098)
+[04:08:30	]C17:RCT.YELLO-51 has lost a 'Vending Machine Key' #1648098.
+[04:14:50	]Rabithunter has connected.
+[04:15:04	]C17:RCT.YELLO-51 opened the 'Medium File Cabinet' #71580 container.
+[04:15:06	]C17:RCT.YELLO-51 closed the 'Medium File Cabinet' #71580 container.
+[04:15:50	]Tony The Tiger created the character 'S10/OWS.GHOST-61'
+[04:15:50	]C17:RCT.YELLO-51 has gained level 40 in the Guns skill.
+[04:15:50	]C17:RCT.YELLO-51 has gained level 40 in the Speed skill.
+[04:15:50	]Tony The Tiger loaded the character 'S10/OWS.GHOST-61'
+[04:15:50	]S10/OWS.GHOST-61 has gained a 'Small Bag' #1648729.
+[04:15:50	]S10/OWS.GHOST-61 has gained a 'Large Bag' #1648730.
+[04:15:50	]S10/OWS.GHOST-61 has gained a 'Pulse-Rifle Energy' #1648731.
+[04:15:50	]S10/OWS.GHOST-61 has gained a 'Pulse-Rifle Energy' #1648732.
+[04:15:50	]S10/OWS.GHOST-61 has gained a 'Pulse-Rifle Energy' #1648733.
+[04:15:50	]S10/OWS.GHOST-61 has gained a 'Pulse-Rifle Energy' #1648734.
+[04:15:50	]S10/OWS.GHOST-61 has gained a 'Combine PDA' #1648735.
+[04:15:50	]S10/OWS.GHOST-61 has gained a 'OTA Uniform' #1648736.
+[04:15:50	]S10/OWS.GHOST-61 has gained a 'OTA Mask' #1648737.
+[04:16:05	]Rabithunter loaded the character 'blah blah'
+[04:16:10	]blah blah is fully healed.
+[04:16:22	]blah blah entered observer.
+[04:16:58	]S10/OWS.GHOST-61 ran 'Equip' on item 'Combine PDA' (#1648735)
+[04:17:26	][OOC] S10/OWS.GHOST-61: greetings
+[04:17:33	][OOC] blah blah: Eyup!
+[04:17:43	]blah blah has spawned a 'NPC [6490][npc_antlionguard]'.
+[04:17:44	][OOC] S10/OWS.GHOST-61: !!!!
+[04:18:16	][OOC] S10/OWS.GHOST-61: how have you been?
+[04:18:26	][OOC] blah blah: aye good you?
+[04:18:31	][OOC] S10/OWS.GHOST-61: same old i suppose
+[04:18:37	]S10/OWS.GHOST-61 has taken 20 damage from npc_antlionguard.
+[04:18:40	]S10/OWS.GHOST-61 is fully healed.
+[04:18:47	][OOC] S10/OWS.GHOST-61: I got no weapon !!!
+[04:18:52	][OOC] blah blah: ROFL!
+[04:19:02	][IC] S10/OWS.GHOST-61: <:: Outbreak, outbreak, outbreak! ::>
+[04:19:08	]blah blah has spawned a 'NPC [6490][npc_antlionguard]'.
+[04:19:35	][OOC] S10/OWS.GHOST-61: i am exited for relaunch
+[04:20:16	]S10/OWS.GHOST-61 used the 'OTA Armory' vendor.
+[04:20:17	]blah blah has spawned a 'NPC [6493][npc_antlionguard]'.
+[04:20:24	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:20:24	]S10/OWS.GHOST-61 has gained a 'AR-2' #1648738.
+[04:20:32	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:20:32	]S10/OWS.GHOST-61 has gained a 'Frag Grenade' #1648739.
+[04:20:33	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:20:33	]S10/OWS.GHOST-61 has gained a 'Frag Grenade' #1648740.
+[04:20:37	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:20:37	]S10/OWS.GHOST-61 has gained a 'Health Vial' #1648741.
+[04:20:37	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:20:37	]S10/OWS.GHOST-61 has gained a 'Health Vial' #1648742.
+[04:20:41	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:20:41	]S10/OWS.GHOST-61 has gained a 'Health Syringe' #1648743.
+[04:20:42	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:20:42	]S10/OWS.GHOST-61 has gained a 'Handheld Radio' #1648744.
+[04:20:45	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:20:45	]S10/OWS.GHOST-61 has gained a 'Flashlight' #1648745.
+[04:20:47	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:20:47	]S10/OWS.GHOST-61 has gained a 'Combine Filter' #1648746.
+[04:20:47	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:20:47	]S10/OWS.GHOST-61 has gained a 'Combine Filter' #1648747.
+[04:20:49	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:20:49	]S10/OWS.GHOST-61 has gained a 'Pulse Rifle Bullets' #1648748.
+[04:20:50	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:20:50	]S10/OWS.GHOST-61 has gained a 'Pulse Rifle Bullets' #1648749.
+[04:20:50	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:20:51	]S10/OWS.GHOST-61 has gained a 'Pulse Rifle Bullets' #1648750.
+[04:20:51	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:20:51	]S10/OWS.GHOST-61 has gained a 'Pulse Rifle Bullets' #1648751.
+[04:20:55	]S10/OWS.GHOST-61 ran 'Equip' on item 'AR-2' (#1648738)
+[04:21:21	]S10/OWS.GHOST-61 ran 'drop' on item 'Pulse-Rifle Energy' (#1648731)
+[04:21:21	]S10/OWS.GHOST-61 has lost a 'Pulse-Rifle Energy' #1648731.
+[04:21:22	]S10/OWS.GHOST-61 ran 'drop' on item 'Pulse-Rifle Energy' (#1648732)
+[04:21:22	]S10/OWS.GHOST-61 has lost a 'Pulse-Rifle Energy' #1648732.
+[04:21:23	]S10/OWS.GHOST-61 ran 'drop' on item 'Pulse-Rifle Energy' (#1648733)
+[04:21:23	]S10/OWS.GHOST-61 has lost a 'Pulse-Rifle Energy' #1648733.
+[04:21:24	]S10/OWS.GHOST-61 ran 'drop' on item 'Pulse-Rifle Energy' (#1648734)
+[04:21:24	]S10/OWS.GHOST-61 has lost a 'Pulse-Rifle Energy' #1648734.
+[04:21:25	]S10/OWS.GHOST-61 ran 'take' on item 'Pulse-Rifle Energy' (#1648732)
+[04:21:25	]S10/OWS.GHOST-61 has gained a 'Pulse-Rifle Energy' #1648732.
+[04:21:27	]S10/OWS.GHOST-61 ran 'take' on item 'Pulse-Rifle Energy' (#1648734)
+[04:21:27	]S10/OWS.GHOST-61 has gained a 'Pulse-Rifle Energy' #1648734.
+[04:21:29	]S10/OWS.GHOST-61 ran 'take' on item 'Pulse-Rifle Energy' (#1648731)
+[04:21:29	]S10/OWS.GHOST-61 has gained a 'Pulse-Rifle Energy' #1648731.
+[04:21:31	]S10/OWS.GHOST-61 ran 'use' on item 'Pulse-Rifle Energy' (#1648733)
+[04:21:39	][OOC] blah blah: aye me too.
+[04:21:52	][OOC] S10/OWS.GHOST-61: agh its not loading
+[04:21:57	][OOC] blah blah: LOL!
+[04:21:59	]S10/OWS.GHOST-61 ran 'EquipUn' on item 'AR-2' (#1648738)
+[04:22:02	]S10/OWS.GHOST-61 ran 'EquipUn' on item 'Combine PDA' (#1648735)
+[04:22:08	]S10/OWS.GHOST-61 ran 'Equip' on item 'AR-2' (#1648738)
+[04:22:12	]S10/OWS.GHOST-61 used the 'OTA Armory' vendor.
+[04:22:16	]S10/OWS.GHOST-61 ran 'EquipUn' on item 'AR-2' (#1648738)
+[04:22:17	]S10/OWS.GHOST-61 ran 'drop' on item 'AR-2' (#1648738)
+[04:22:17	]S10/OWS.GHOST-61 has lost a 'AR-2' #1648738.
+[04:22:21	]S10/OWS.GHOST-61 ran 'take' on item 'AR-2' (#1648738)
+[04:22:21	]S10/OWS.GHOST-61 has gained a 'AR-2' #1648738.
+[04:22:26	]S10/OWS.GHOST-61 ran 'Equip' on item 'AR-2' (#1648738)
+[04:22:42	][ME] S10/OWS.GHOST-61: Stands at Attention.
+[04:22:43	]S10/OWS.GHOST-61 used command '/ToggleRaise'.
+[04:22:45	]S10/OWS.GHOST-61 used command '/ToggleRaise'.
+[04:22:52	]S10/OWS.GHOST-61 used the 'OTA Armory' vendor.
+[04:22:58	]S10/OWS.GHOST-61 ran 'drop' on item 'AR-2' (#1648738)
+[04:22:58	]S10/OWS.GHOST-61 has lost a 'AR-2' #1648738.
+[04:22:59	]S10/OWS.GHOST-61 ran 'drop' on item 'Pulse-Rifle Energy' (#1648732)
+[04:22:59	]S10/OWS.GHOST-61 has lost a 'Pulse-Rifle Energy' #1648732.
+[04:23:00	]S10/OWS.GHOST-61 ran 'drop' on item 'Pulse-Rifle Energy' (#1648734)
+[04:23:00	]S10/OWS.GHOST-61 has lost a 'Pulse-Rifle Energy' #1648734.
+[04:23:00	]S10/OWS.GHOST-61 ran 'drop' on item 'Pulse-Rifle Energy' (#1648731)
+[04:23:00	]S10/OWS.GHOST-61 has lost a 'Pulse-Rifle Energy' #1648731.
+[04:23:01	]S10/OWS.GHOST-61 used the 'OTA Armory' vendor.
+[04:23:28	]S10/OWS.GHOST-61 ran 'take' on item 'OSITR' (#1648182)
+[04:23:28	]S10/OWS.GHOST-61 has gained a 'OSITR' #1648182.
+[04:23:30	][OOC] blah blah: cya later :D
+[04:23:30	]S10/OWS.GHOST-61 used the 'OTA Armory' vendor.
+[04:23:34	][OOC] S10/OWS.GHOST-61: cya :)
+[04:23:34	]S10/OWS.GHOST-61 used the 'OTA Armory' vendor.
+[04:23:35	]Rabithunter (STEAM_0:1:22394854) has disconnected.
+[04:23:38	]S10/OWS.GHOST-61 ran 'Equip' on item 'OSITR' (#1648182)
+[04:23:41	]S10/OWS.GHOST-61 ran 'drop' on item 'Pulse Rifle Bullets' (#1648748)
+[04:23:41	]S10/OWS.GHOST-61 has lost a 'Pulse Rifle Bullets' #1648748.
+[04:23:41	]S10/OWS.GHOST-61 ran 'drop' on item 'Pulse Rifle Bullets' (#1648749)
+[04:23:41	]S10/OWS.GHOST-61 has lost a 'Pulse Rifle Bullets' #1648749.
+[04:23:43	]S10/OWS.GHOST-61 ran 'drop' on item 'Pulse Rifle Bullets' (#1648751)
+[04:23:43	]S10/OWS.GHOST-61 has lost a 'Pulse Rifle Bullets' #1648751.
+[04:23:44	]S10/OWS.GHOST-61 ran 'drop' on item 'Pulse Rifle Bullets' (#1648750)
+[04:23:44	]S10/OWS.GHOST-61 has lost a 'Pulse Rifle Bullets' #1648750.
+[04:23:45	]S10/OWS.GHOST-61 used the 'OTA Armory' vendor.
+[04:23:58	]S10/OWS.GHOST-61 used the 'OTA Armory' vendor.
+[04:24:02	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:24:02	]S10/OWS.GHOST-61 has gained a 'Assault Rifle Bullets' #1648752.
+[04:24:03	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:24:03	]S10/OWS.GHOST-61 has gained a 'Assault Rifle Bullets' #1648753.
+[04:24:03	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:24:03	]S10/OWS.GHOST-61 has gained a 'Assault Rifle Bullets' #1648754.
+[04:24:04	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:24:04	]S10/OWS.GHOST-61 has gained a 'Assault Rifle Bullets' #1648755.
+[04:24:09	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:24:09	]S10/OWS.GHOST-61 has gained a '60rnd OTAR-magazine' #1648756.
+[04:24:10	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:24:10	]S10/OWS.GHOST-61 has gained a '60rnd OTAR-magazine' #1648757.
+[04:24:11	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:24:11	]S10/OWS.GHOST-61 has gained a '60rnd OTAR-magazine' #1648758.
+[04:24:12	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:24:12	]S10/OWS.GHOST-61 has gained a '60rnd OTAR-magazine' #1648759.
+[04:24:15	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:24:15	]S10/OWS.GHOST-61 has gained a 'Assault Rifle Bullets' #1648760.
+[04:24:18	]S10/OWS.GHOST-61 ran 'combine' on item '60rnd OTAR-magazine' (#1648759)
+[04:24:19	]S10/OWS.GHOST-61 ran 'combine' on item '60rnd OTAR-magazine' (#1648759)
+[04:24:19	]S10/OWS.GHOST-61 ran 'combine' on item '60rnd OTAR-magazine' (#1648758)
+[04:24:20	]S10/OWS.GHOST-61 ran 'combine' on item '60rnd OTAR-magazine' (#1648757)
+[04:24:22	]S10/OWS.GHOST-61 has lost a '60rnd OTAR-magazine' #1648759.
+[04:24:49	]S10/OWS.GHOST-61 has gained a '60rnd OTAR-magazine' #1648759.
+[04:24:49	]S10/OWS.GHOST-61 has lost a '60rnd OTAR-magazine' #1648758.
+[04:25:17	]S10/OWS.GHOST-61 used command '/Datafile 82304'.
+[04:26:14	][IC] S10/OWS.GHOST-61: <:: Prosecuting sector. ::>
+[04:26:18	]S10/OWS.GHOST-61 used the 'OTA Armory' vendor.
+[04:26:25	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:26:25	]S10/OWS.GHOST-61 has gained a 'Containment Uniform' #1648761.
+[04:26:26	]S10/OWS.GHOST-61 has gained 0 chips.
+[04:26:26	]S10/OWS.GHOST-61 has gained a 'OTA Shotgunner Uniform' #1648762.
+[04:26:36	]S10/OWS.GHOST-61 ran 'drop' on item 'OTA Uniform' (#1648736)
+[04:26:42	]S10/OWS.GHOST-61 ran 'drop' on item 'OTA Mask' (#1648737)
+[04:26:42	]S10/OWS.GHOST-61 has lost a 'OTA Mask' #1648737.
+[04:26:43	]S10/OWS.GHOST-61 ran 'drop' on item 'Small Bag' (#1648729)
+[04:26:43	]S10/OWS.GHOST-61 has lost a 'Small Bag' #1648729.
+[04:26:45	]S10/OWS.GHOST-61 ran 'drop' on item 'Large Bag' (#1648730)
+[04:26:45	]S10/OWS.GHOST-61 has lost a 'Large Bag' #1648730.
+[04:26:45	]S10/OWS.GHOST-61 has lost a 'Combine PDA' #1648735.
+[04:26:45	]S10/OWS.GHOST-61 has lost a 'Frag Grenade' #1648739.
+[04:26:45	]S10/OWS.GHOST-61 has lost a 'Frag Grenade' #1648740.
+[04:26:45	]S10/OWS.GHOST-61 has lost a 'Health Vial' #1648742.
+[04:26:46	]S10/OWS.GHOST-61 ran 'drop' on item 'OTA Uniform' (#1648736)
+[04:26:46	]S10/OWS.GHOST-61 has lost a 'OTA Uniform' #1648736.
+[04:26:49	]S10/OWS.GHOST-61 ran 'take' on item 'OTA Uniform' (#1648736)
+[04:26:49	]S10/OWS.GHOST-61 has gained a 'OTA Uniform' #1648736.
+[04:26:51	]S10/OWS.GHOST-61 ran 'take' on item 'OTA Mask' (#1648737)
+[04:26:51	]S10/OWS.GHOST-61 has gained a 'OTA Mask' #1648737.
+[04:26:53	]S10/OWS.GHOST-61 ran 'take' on item 'Large Bag' (#1648730)
+[04:26:53	]S10/OWS.GHOST-61 has gained a 'Large Bag' #1648730.
+[04:26:53	]S10/OWS.GHOST-61 has gained a 'Combine PDA' #1648735.
+[04:26:53	]S10/OWS.GHOST-61 has gained a 'Frag Grenade' #1648739.
+[04:26:53	]S10/OWS.GHOST-61 has gained a 'Frag Grenade' #1648740.
+[04:26:53	]S10/OWS.GHOST-61 has gained a 'Health Vial' #1648742.
+[04:26:54	]S10/OWS.GHOST-61 ran 'take' on item 'Small Bag' (#1648729)
+[04:26:54	]S10/OWS.GHOST-61 has gained a 'Small Bag' #1648729.
+[04:27:06	]S10/OWS.GHOST-61 has gained a '60rnd OTAR-magazine' #1648758.
+[04:27:06	]S10/OWS.GHOST-61 has lost a '60rnd OTAR-magazine' #1648757.
+[04:27:11	]S10/OWS.GHOST-61 ran 'drop' on item 'Containment Uniform' (#1648761)
+[04:27:11	]S10/OWS.GHOST-61 has lost a 'Containment Uniform' #1648761.
+[04:27:18	]S10/OWS.GHOST-61 ran 'drop' on item 'OTA Shotgunner Uniform' (#1648762)
+[04:27:18	]S10/OWS.GHOST-61 has lost a 'OTA Shotgunner Uniform' #1648762.
+[04:27:23	]S10/OWS.GHOST-61 has gained a '60rnd OTAR-magazine' #1648757.
+[04:27:23	]S10/OWS.GHOST-61 has lost a '60rnd OTAR-magazine' #1648758.
+[04:27:56	]Tony The Tiger (STEAM_0:0:49210697) deleted character 'C17:RCT.YELLO-51'
+[04:28:28	]Tony The Tiger created the character 'S10:SCN-4'
+[04:28:28	]Tony The Tiger loaded the character 'S10:SCN-4'
+[04:29:36	][IC] S10:SCN-4: 0.
+[04:30:09	][IC] S10:SCN-4: All units at residental;  1 amputate.
+[04:30:34	][IC] S10:SCN-4: All units at residential block 1 begin witness sterilization.
+[04:30:46	][IC] S10:SCN-4: All units at residential block 1 begin witness sterilization.
+[04:30:52	][IC] S10:SCN-4: Begin witness sterilization.
+[04:31:15	][IC] S10:SCN-4: Attention all units at residential block 1.
+[04:31:20	][IC] S10:SCN-4: All units, begin witness sterilization.
+[04:31:43	]S10:SCN-4 used command '/SC intel'.
+[04:31:55	]S10:SCN-4 used command '/SC int'.
+[04:32:00	]S10:SCN-4 used command '/SC tac-5'.
+[04:32:03	]S10:SCN-4 used command '/Radio test'.
+[04:32:08	]S10:SCN-4 used command '/SC tac-4'.
+[04:32:10	]S10:SCN-4 used command '/Radio test'.
+[04:32:13	]S10:SCN-4 used command '/SC tac-3'.
+[04:32:14	]S10:SCN-4 used command '/Radio test'.
+[04:32:33	]S10:SCN-4 used command '/Dispatch RESTRICTORS DISENGAGED'.
+[04:32:47	]S10:SCN-4 used command '/Dispatch RESTRICTORS DISENGAGED'.
+[04:33:41	]S10:SCN-4 used command '/WaypointAdd 63 Attempted crime in Progress 10 red'.
+[04:33:50	]S10:SCN-4 used command '/WaypointAdd 63 Attempted crime in Progress 10 red'.
+[04:34:43	]S10:SCN-4 used command '/Dispatch yo'.
+[04:34:45	]S10:SCN-4 used command '/Dispatch yo'.
+[04:35:23	][IC] S10:SCN-4: Citizen.
+[04:36:06	][IC] S10:SCN-4: Notice protection-teams.
+[04:36:19	][IC] S10:SCN-4: Fifty percent reproduction-credits.
+[04:36:53	]S10:SCN-4 used command '/Dispatch ACCESS RESTRICTED'.
+[04:37:00	]S10:SCN-4 used command '/Dispatch ACCESS RESTRICTED'.
+[04:37:30	]S10:SCN-4 used command '/Dispatch OVERWATCH ACKNOWLEDGES'.
+[04:37:47	]S10:SCN-4 used command '/Radio REPORT STATUS'.
+[04:38:20	]S10:SCN-4 used command '/Dispatch code void'.
+[04:38:41	][IC] S10:SCN-4: 10-0; begin scanning.
+[04:40:14	]S10:SCN-4 used command '/Dispatch CONSPIRACY 2'.
+[04:40:31	]S10:SCN-4 used command '/VisorStatus orange'.
+[04:40:42	]S10:SCN-4 used command '/VisorStatus totalr'.
+[04:41:05	]S10:SCN-4 used command '/VisorStatus grey'.
+[04:41:28	]S10:SCN-4 used command '/VisorStatus totalr OCIN Relay Offline'.
+[04:41:41	]S10:SCN-4 used command '/VisorStatus jw'.
+[04:41:47	]S10:SCN-4 used command '/VisorStatus blue'.
+[04:42:13	]S10:SCN-4 used command '/Datafile 80832'.
+[04:43:37	]Tony The Tiger (STEAM_0:0:49210697) has disconnected.
+[04:46:35	]reece has connected.
+[04:48:24	]reece loaded the character 'S10/OWS.SAVAGE-37'
+[04:55:53	]reece has connected.
+[04:58:01	]reece loaded the character 'S10/OWS.SAVAGE-37'
+[04:58:36	]S10/OWS.SAVAGE-37 is fully healed.
+[04:58:38	]S10/OWS.SAVAGE-37 ran 'drop' on item 'OTA Elite Uniform' (#1648207)
+[04:58:40	]S10/OWS.SAVAGE-37 ran 'drop' on item 'OTA Elite Uniform' (#1648207)
+[04:58:41	]S10/OWS.SAVAGE-37 ran 'drop' on item 'OTA Elite Uniform' (#1648207)
+[04:58:41	]S10/OWS.SAVAGE-37 ran 'drop' on item 'OTA Elite Uniform' (#1648207)
+[04:59:53	]S10/OWS.SAVAGE-37 ran 'drop' on item 'OTA Elite Uniform' (#1648207)
+[04:59:55	]S10/OWS.SAVAGE-37 ran 'drop' on item 'OTA Elite Uniform' (#1648207)
+[04:59:55	]S10/OWS.SAVAGE-37 has lost a 'OTA Elite Uniform' #1648207.
+[05:00:01	]S10/OWS.SAVAGE-37 used the 'OTA Armory' vendor.
+[05:00:08	]S10/OWS.SAVAGE-37 has gained 0 chips.
+[05:00:08	]S10/OWS.SAVAGE-37 has gained a 'OTA Uniform' #1648763.
+[05:03:34	]S10/OWS.SAVAGE-37 ran 'drop' on item 'Overwatch Assault Shotgun' (#1648180)
+[05:03:34	]S10/OWS.SAVAGE-37 has lost a 'Overwatch Assault Shotgun' #1648180.
+[05:03:34	]S10/OWS.SAVAGE-37 ran 'drop' on item '12rnd OAIS-magazine' (#1648206)
+[05:03:34	]S10/OWS.SAVAGE-37 has lost a '12rnd OAIS-magazine' #1648206.
+[05:03:35	]S10/OWS.SAVAGE-37 ran 'drop' on item 'Buckshot Shotgun Shells' (#1648202)
+[05:03:35	]S10/OWS.SAVAGE-37 has lost a 'Buckshot Shotgun Shells' #1648202.
+[05:03:35	]S10/OWS.SAVAGE-37 ran 'drop' on item 'Buckshot Shotgun Shells' (#1648201)
+[05:03:35	]S10/OWS.SAVAGE-37 has lost a 'Buckshot Shotgun Shells' #1648201.
+[05:03:36	]S10/OWS.SAVAGE-37 used the 'OTA Armory' vendor.
+[05:03:42	]S10/OWS.SAVAGE-37 has gained 0 chips.
+[05:03:42	]S10/OWS.SAVAGE-37 has gained a 'AR-2' #1648764.
+[05:04:04	]S10/OWS.SAVAGE-37 has gained 0 chips.
+[05:04:05	]S10/OWS.SAVAGE-37 has gained a '30rnd Pulse-magazine' #1648765.
+[05:04:05	]S10/OWS.SAVAGE-37 has gained 0 chips.
+[05:04:05	]S10/OWS.SAVAGE-37 has gained a '30rnd Pulse-magazine' #1648766.
+[05:04:09	]S10/OWS.SAVAGE-37 has gained 0 chips.
+[05:04:09	]S10/OWS.SAVAGE-37 has gained a 'Pulse Rifle Bullets' #1648767.
+[05:04:09	]S10/OWS.SAVAGE-37 has gained 0 chips.
+[05:04:09	]S10/OWS.SAVAGE-37 has gained a 'Pulse Rifle Bullets' #1648768.
+[05:04:09	]S10/OWS.SAVAGE-37 has gained 0 chips.
+[05:04:09	]S10/OWS.SAVAGE-37 has gained a 'Pulse Rifle Bullets' #1648769.
+[05:04:10	]S10/OWS.SAVAGE-37 has gained 0 chips.
+[05:04:10	]S10/OWS.SAVAGE-37 has gained a 'Pulse Rifle Bullets' #1648770.
+[05:04:10	]S10/OWS.SAVAGE-37 has gained 0 chips.
+[05:04:10	]S10/OWS.SAVAGE-37 has gained a 'Pulse Rifle Bullets' #1648771.
+[05:04:13	]S10/OWS.SAVAGE-37 ran 'combine' on item '30rnd Pulse-magazine' (#1648766)
+[05:04:15	]S10/OWS.SAVAGE-37 ran 'combine' on item '30rnd Pulse-magazine' (#1648765)
+[05:04:16	]S10/OWS.SAVAGE-37 ran 'Equip' on item 'AR-2' (#1648764)
+[05:04:17	]S10/OWS.SAVAGE-37 has lost a '30rnd Pulse-magazine' #1648766.
+[05:04:19	]S10/OWS.SAVAGE-37 used the 'OTA Armory' vendor.
+[05:04:25	]S10/OWS.SAVAGE-37 has gained 0 chips.
+[05:04:25	]S10/OWS.SAVAGE-37 has gained a 'No Scope' #1648772.
+[05:04:48	]reece (STEAM_0:1:158746618) has disconnected.
+[06:17:06	]Furret No Furry Asimo has connected.
+[06:19:50	]Furret No Furry Asimo loaded the character 'Q'
+[06:19:55	]Q is fully healed.
+[06:20:01	]Q ran 'drop' on item 'Lavender Galore' (#1648588)
+[06:20:01	]Q has lost a 'Lavender Galore' #1648588.
+[06:20:01	]Q ran 'drop' on item 'Aviator Glasses' (#1648530)
+[06:20:01	]Q has lost a 'Aviator Glasses' #1648530.
+[06:20:02	]Q ran 'drop' on item 'Rubber Boots' (#1648591)
+[06:20:02	]Q has lost a 'Rubber Boots' #1648591.
+[06:20:03	]Q ran 'drop' on item 'Golden Goose Trousers' (#1648589)
+[06:20:03	]Q has lost a 'Golden Goose Trousers' #1648589.
+[06:20:03	]Q ran 'drop' on item 'Razor' (#1648555)
+[06:20:03	]Q has lost a 'Razor' #1648555.
+[06:20:04	]Q ran 'drop' on item 'Flat Cap' (#1648590)
+[06:20:04	]Q has lost a 'Flat Cap' #1648590.
+[06:20:05	]Q ran 'drop' on item 'Scissors' (#1648550)
+[06:20:05	]Q has lost a 'Scissors' #1648550.
+[06:20:06	]Q ran 'drop' on item 'Suitcase' (#1646863)
+[06:20:06	]Q has lost a 'Suitcase' #1646863.
+[06:20:35	]Q ran 'take' on item 'Razor' (#1648555)
+[06:20:35	]Q has gained a 'Razor' #1648555.
+[06:20:37	]Q ran 'Style' on item 'Razor' (#1648555)
+[06:21:07	]Furret No Furry Asimo (STEAM_0:0:58605803) deleted character 'Q'
+[06:23:01	]Furret No Furry Asimo created the character 'Billly Bo'
+[06:23:01	]Furret No Furry Asimo loaded the character 'Billly Bo'
+[06:23:01	]Billly Bo has gained a 'Suitcase' #1648773.
+[06:23:01	]Billly Bo has gained a '#51969's Identity Card' #1648774.
+[06:23:01	]Billly Bo has gained a 'Grey Jumpsuit' #1648775.
+[06:23:01	]Billly Bo has gained a 'Grey Jumpsuit Trousers' #1648776.
+[06:23:01	]Billly Bo has gained a 'Dark Leather Boots' #1648777.
+[06:23:08	]Billly Bo entered observer.
+[06:23:17	]Billly Bo exited observer at their location.
+[06:23:35	]Billly Bo has given himself a khaki_black.
+[06:23:35	]Billly Bo has gained a 'Black Khaki' #1648778.
+[06:23:52	]Billly Bo has given himself a wool_purple.
+[06:23:52	]Billly Bo has gained a 'Purple Wool' #1648779.
+[06:24:17	]Billly Bo has given himself a collab_bluedelight.
+[06:24:17	]Billly Bo has gained a 'Blue Delight' #1648780.
+[06:24:20	]Billly Bo has given himself a collab_modnightred.
+[06:24:20	]Billly Bo has gained a 'Midnight Red' #1648781.
+[06:24:22	]Billly Bo has given himself a collab_redhaven.
+[06:24:22	]Billly Bo has gained a 'Red Haven' #1648782.
+[06:24:23	]Billly Bo has given himself a collab_afternoon.
+[06:24:23	]Billly Bo has gained a 'Afternoon' #1648783.
+[06:24:38	]Billly Bo has given himself a legs_dark_grey_pants.
+[06:24:38	]Billly Bo has gained a 'Black Trousers' #1648784.
+[06:25:08	]Billly Bo ran 'drop' on item 'Blue Delight' (#1648780)
+[06:25:08	]Billly Bo has lost a 'Blue Delight' #1648780.
+[06:25:15	]Billly Bo ran 'take' on item 'Blue Delight' (#1648780)
+[06:25:15	]Billly Bo has gained a 'Blue Delight' #1648780.
+[06:25:19	]Billly Bo has given himself a legs_blue_pants.
+[06:25:19	]Billly Bo has gained a 'Blue Trousers' #1648785.
+[06:26:08	]Billly Bo has given himself a cca_legs_savoy.
+[06:26:08	]Billly Bo has gained a 'Savoy Trousers' #1648786.
+[06:26:24	]Billly Bo has given himself a legs_light_grey_pants.
+[06:26:24	]Billly Bo has gained a 'Grey Trousers' #1648787.
+[06:26:36	]Billly Bo has given himself a aviators.
+[06:26:37	]Billly Bo has gained a 'Aviator Glasses' #1648788.
+[06:26:52	]Billly Bo has given himself a fedora_white.
+[06:26:52	]Billly Bo has gained a 'White Fedora' #1648789.
+[06:27:05	]Billly Bo has given himself a torso_green_kevlar_t3.
+[06:27:05	]Billly Bo has gained a 'Green Tier 3 Kevlar Uniform' #1648790.
+[06:27:31	]Billly Bo has given himself a cca_savoy.
+[06:27:31	]Billly Bo has gained a 'The Blue Savoy' #1648791.
+[06:27:46	]Billly Bo has given himself a shoes_dress_shoes.
+[06:27:46	]Billly Bo has gained a 'Dress Shoes' #1648792.
+[06:28:10	]Billly Bo used command '/ActWindow'.
+[06:28:14	]Billly Bo used command '/ExitAct'.
+[06:28:20	]Billly Bo used command '/ActCheck'.
+[06:28:27	]Billly Bo used command '/ActDown'.
+[06:28:48	]Billly Bo used command '/ActPant'.
+[06:28:53	]Billly Bo used command '/ExitAct'.
+[06:28:58	]Billly Bo has taken 6 damage from worldspawn.
+[06:29:00	]Billly Bo entered observer.
+[06:29:10	]Billly Bo has disabled persistence for 'models/props_combine/combine_booth_short01a.mdl'.
+[06:29:10	]Billly Bo has used a context menu option with the name: persist_end
+[06:29:16	]Billly Bo has disabled persistence for 'models/props_wasteland/exterior_fence002e.mdl'.
+[06:29:16	]Billly Bo has used a context menu option with the name: persist_end
+[06:29:20	]Billly Bo has used a context menu option with the name: remove
+[06:29:43	]Billly Bo exited observer at their location.
+[06:29:48	]Billly Bo has given himself a mp5a3.
+[06:29:48	]Billly Bo has gained a 'MP5A3' #1648793.
+[06:29:53	]Billly Bo has given himself a mp5a3.
+[06:29:53	]Billly Bo has gained a 'MP5A3' #1648794.
+[06:29:54	]Billly Bo ran 'Equip' on item 'MP5A3' (#1648794)
+[06:30:11	]Billly Bo entered observer.
+[06:30:13	]Billly Bo exited observer at their location.
+[06:30:13	]Billly Bo entered observer.
+[06:30:14	]Billly Bo exited observer at their location.
+[06:30:14	]Billly Bo entered observer.
+[06:30:14	]Billly Bo exited observer at their location.
+[06:30:16	]Billly Bo entered observer.
+[06:30:22	]Billly Bo exited observer at their location.
+[06:30:23	]Billly Bo entered observer.
+[06:30:23	]Billly Bo exited observer at their location.
+[06:30:25	]Billly Bo has taken 13 damage from worldspawn.
+[06:30:25	]Billly Bo entered observer.
+[06:30:25	]Billly Bo exited observer at their location.
+[06:30:26	]Billly Bo entered observer.
+[06:30:28	]Billly Bo exited observer at their location.
+[06:35:31	]Billly Bo has gone afk.
+[07:44:41	]Billly Bo is fully healed.
+[08:31:06	]Billly Bo is no longer afk. Total time spent AFK: 7230
+[08:31:06	]Furret No Furry Asimo (STEAM_0:0:58605803) has disconnected.
+[19:08:54	]Furret No Furry Asimo has connected.
+[19:09:58	]Furret No Furry Asimo loaded the character 'Billly Bo'
+[19:10:03	]Billly Bo is fully healed.
+[19:10:09	]Billly Bo entered observer.
+[19:10:10	]Billly Bo exited observer at their location.
+[19:10:10	]Billly Bo entered observer.
+[19:10:13	]Billly Bo exited observer at their location.
+[19:10:14	]Billly Bo entered observer.
+[19:10:21	]Billly Bo exited observer at their location.
+[19:10:22	]Billly Bo entered observer.
+[19:10:22	]Billly Bo exited observer at their location.
+[19:10:23	]Billly Bo entered observer.
+[19:10:23	]Billly Bo exited observer at their location.
+[19:10:23	]Billly Bo entered observer.
+[19:10:32	]Billly Bo exited observer at their location.
+[19:10:32	]Billly Bo entered observer.
+[19:10:33	]Billly Bo exited observer at their location.
+[19:10:33	]Billly Bo entered observer.
+[19:10:37	]Billly Bo exited observer at their location.
+[19:10:37	]Billly Bo entered observer.
+[19:10:38	]Billly Bo exited observer at their location.
+[19:10:39	]Billly Bo entered observer.
+[19:10:39	]Billly Bo exited observer at their location.
+[19:10:40	]Billly Bo entered observer.
+[19:10:47	]Billly Bo exited observer at their location.
+[19:10:47	]Billly Bo entered observer.
+[19:10:48	]Billly Bo exited observer at their location.
+[19:10:49	]Billly Bo entered observer.
+[19:10:54	]Billly Bo exited observer at their location.
+[19:10:55	]Billly Bo entered observer.
+[19:10:57	]Billly Bo exited observer at their location.
+[19:10:57	]Billly Bo entered observer.
+[19:10:57	]Billly Bo exited observer at their location.
+[19:10:58	]Billly Bo entered observer.
+[19:10:59	]Billly Bo exited observer at their location.
+[19:10:59	]Billly Bo entered observer.
+[19:10:59	]Billly Bo exited observer at their location.
+[19:11:00	]Billly Bo entered observer.
+[19:11:00	]Billly Bo exited observer at their location.
+[19:11:01	]Billly Bo entered observer.
+[19:11:01	]Billly Bo exited observer at their location.
+[19:11:01	]Billly Bo entered observer.
+[19:11:02	]Billly Bo exited observer at their location.
+[19:11:02	]Billly Bo entered observer.
+[19:11:02	]Billly Bo exited observer at their location.
+[19:11:03	]Billly Bo entered observer.
+[19:11:03	]Billly Bo exited observer at their location.
+[19:11:03	]Billly Bo entered observer.
+[19:11:04	]Billly Bo exited observer at their location.
+[19:11:04	]Billly Bo entered observer.
+[19:11:08	]Billly Bo exited observer at their location.
+[19:11:08	]Billly Bo entered observer.
+[19:11:10	]Billly Bo exited observer at their location.
+[19:11:10	]Billly Bo entered observer.
+[19:11:11	]Billly Bo exited observer at their location.
+[19:11:11	]Billly Bo entered observer.
+[19:11:15	]Billly Bo exited observer at their location.
+[19:11:15	]Billly Bo entered observer.
+[19:11:20	]Billly Bo exited observer at their location.
+[19:11:20	]Billly Bo entered observer.
+[19:11:21	]Billly Bo exited observer at their location.
+[19:11:21	]Billly Bo entered observer.
+[19:11:22	]Billly Bo exited observer at their location.
+[19:11:22	]Billly Bo entered observer.
+[19:11:22	]Billly Bo exited observer at their location.
+[19:11:22	]Billly Bo entered observer.
+[19:11:23	]Billly Bo exited observer at their location.
+[19:11:23	]Billly Bo entered observer.
+[19:11:23	]Billly Bo exited observer at their location.
+[19:11:24	]Billly Bo entered observer.
+[19:11:27	]Billly Bo exited observer at their location.
+[19:11:27	]Billly Bo entered observer.
+[19:11:28	]Billly Bo exited observer at their location.
+[19:11:28	]Billly Bo entered observer.
+[19:11:28	]Billly Bo exited observer at their location.
+[19:11:30	]Billly Bo entered observer.
+[19:11:30	]Billly Bo exited observer at their location.
+[19:11:31	]Billly Bo entered observer.
+[19:11:31	]Billly Bo exited observer at their location.
+[19:11:32	]Billly Bo entered observer.
+[19:15:49	]Billly Bo exited observer at their location.
+[19:15:53	]Billly Bo used command '/CharSetModel ^ models/willardnetworks/citizens/female_04.mdl'.
+[19:16:06	]Billly Bo entered observer.
+[19:16:07	]Billly Bo exited observer at their location.
+[19:16:08	]Billly Bo entered observer.
+[19:16:08	]Billly Bo exited observer at their location.
+[19:16:08	]Billly Bo was knocked unconscious and is bleeding out.
+[19:16:24	]Billly Bo was just killed due to: accepting their death
+[19:16:45	]Billly Bo used command '/CharSetModel ^ models/willardnetworks/citizens/female_05.mdl'.
+[19:17:09	]Billly Bo used command '/CharSetModel ^ models/willardnetworks/citizens/male_04.mdl'.
+[19:17:19	]Billly Bo used command '/CharSetModel ^ models/willardnetworks/citizens/male_03.mdl'.
+[19:17:30	]Billly Bo used command '/CharSetModel ^ models/willardnetworks/citizens/female_02.mdl'.
+[19:17:50	]Rabithunter has connected.
+[19:18:55	]Rabithunter loaded the character 'blah blah'
+[19:19:00	]blah blah is fully healed.
+[19:19:03	]Billly Bo has spawned 'models/willardnetworks/clothingitems/torso_alyxcoat9.mdl'.
+[19:19:08	]Billly Bo has spawned 'models/willardnetworks/clothingitems/torso_ca_suit_coat.mdl'.
+[19:19:23	]Billly Bo entered observer.
+[19:19:27	]Billly Bo exited observer at their location.
+[19:19:44	]Billly Bo used command '/CharSetModel ^ models/willardnetworks/citizens/female_01.mdl'.
+[19:20:34	]Billly Bo used command '/CharSetModel ^ models/willardnetworks/citizens/female_03.mdl'.
+[19:20:39	]Billly Bo used command '/CharSetModel ^ models/willardnetworks/citizens/female_04.mdl'.
+[19:20:41	]Billly Bo used command '/CharSetModel ^ models/willardnetworks/citizens/female_05.mdl'.
+[19:20:43	]Billly Bo used command '/CharSetModel ^ models/willardnetworks/citizens/female_06.mdl'.
+[19:20:52	]Billly Bo used command '/CharSetModel ^ models/willardnetworks/citizens/female_01.mdl'.
+[19:21:09	]blah blah has spawned 'models/willardnetworks/citizens/female_01.mdl'.
+[19:21:17	]blah blah has spawned 'models/willardnetworks/citizens/male02.mdl'.
+[19:21:20	]blah blah has spawned 'models/willardnetworks/citizens/female_02.mdl'.
+[19:21:29	]blah blah has spawned 'models/willardnetworks/citizens/female_01.mdl'.
+[19:21:33	]Billly Bo has spawned 'models/willardnetworks/citizens/female_01.mdl'.
+[19:21:34	]Billly Bo has spawned 'models/willardnetworks/citizens/female_02.mdl'.
+[19:21:35	]Billly Bo has spawned 'models/willardnetworks/citizens/female_04.mdl'.
+[19:21:36	]Billly Bo has spawned 'models/willardnetworks/citizens/male_01.mdl'.
+[19:21:39	]blah blah has used a context menu option with the name: rb655_make_animatable
+[19:21:42	]Billly Bo has spawned 'models/willardnetworks/citizens/male_09.mdl'.
+[19:21:43	]Billly Bo has spawned 'models/willardnetworks/citizens/male_08.mdl'.
+[19:21:45	]Billly Bo has spawned 'models/willardnetworks/citizens/male_07.mdl'.
+[19:21:49	]blah blah has used a context menu option with the name: rb655_make_ragdoll
+[19:21:55	]blah blah has used a context menu option with the name: rb655_make_animatable
+[19:22:00	]Billly Bo has given himself a beard_razor.
+[19:22:00	]Billly Bo has gained a 'Razor' #1648795.
+[19:22:02	]Billly Bo ran 'Style' on item 'Razor' (#1648795)
+[19:22:48	]Billly Bo ran 'Style' on item 'Razor' (#1648795)
+[19:22:51	]blah blah has used a context menu option with the name: remove
+[19:22:53	]blah blah has used a context menu option with the name: remove
+[19:23:32	]Billly Bo entered observer.
+[19:24:02	]blah blah has used a context menu option with the name: remove
+[19:25:02	]blah blah has disabled persistence for 'models/props_wasteland/exterior_fence002e.mdl'.
+[19:25:02	]blah blah has used a context menu option with the name: persist_end
+[19:25:04	]blah blah has enabled persistence for 'models/props_wasteland/exterior_fence002e.mdl'.
+[19:25:04	]blah blah has used a context menu option with the name: persist
+[19:25:11	]blah blah entered observer.
+[19:25:12	]blah blah exited observer at their location.
+[19:25:13	]blah blah entered observer.
+[19:25:14	]blah blah exited observer at their location.
+[19:26:07	]blah blah has acquired his ration, gaining 10 credits, 0 wages and a ration ration.
+[19:26:21	]blah blah ran 'take' on item 'Ration' (#1648796)
+[19:26:21	]blah blah has gained a 'Ration' #1648796.
+[19:32:55	]blah blah has gone afk.
+[19:34:35	]blah blah entered observer.
+[19:34:35	]blah blah is no longer afk. Total time spent AFK: 395
+[19:34:44	]blah blah has used a context menu option with the name: remove
+[19:40:28	]blah blah has used a context menu option with the name: rb655_breakable_break
+[19:40:34	]blah blah has used a context menu option with the name: rb655_breakable_break
+[19:40:39	]blah blah has used a context menu option with the name: rb655_breakable_break
+[19:44:35	]Billly Bo has spawned a expo_engine_parts.
+[19:44:40	]Billly Bo has used a context menu option with the name: remove
+[19:48:25	]Billly Bo has given himself a crafting_water.
+[19:48:25	]Billly Bo has gained a 'Crafting Water' #1648798.
+[19:48:29	]Billly Bo ran 'Convert' on item 'Crafting Water' (#1648798)
+[19:48:36	]Billly Bo has given himself a crafting_water.
+[19:48:36	]Billly Bo has gained a 'Crafting Water' #1648799.
+[19:49:36	]Rabithunter loaded the character 'Jody Mayflower'
+[19:51:13	]Billly Bo has given himself a drink_breen_water.
+[19:51:13	]Billly Bo has gained a 'Breen's Water' #1648800.
+[19:51:15	]Billly Bo ran 'Convert' on item 'Crafting Water' (#1648799)
+[19:51:18	]Billly Bo ran 'Convert' on item 'Breen's Water' (#1648800)
+[19:51:18	]Billly Bo has gained a 'Crafting Water' #1648801.
+[19:51:37	]Jody Mayflower used command '/CharSetModel jody models/willardnetworks/citizens/male09.mdl'.
+[19:52:21	]Jody Mayflower used command '/CharSetModel jody models/willardnetworks/citizens/female_01.mdl'.
+[19:53:24	]Billly Bo ran 'Convert' on item 'Crafting Water' (#1648801)
+[19:53:24	]Billly Bo has gained a 'Breen's Water' #1648802.
+[19:53:25	]Jody Mayflower has used a context menu option with the name: ignite
+[19:53:26	]Billly Bo ran 'Consume' on item 'Breen's Water' (#1648802)
+[19:53:26	]Billly Bo has gained a 'Empty Breen's Water' #1648803.
+[19:53:37	]Jody Mayflower entered observer.
+[19:53:57	]Jody Mayflower exited observer at their location.
+[19:54:18	]Jody Mayflower entered observer.
+[19:54:32	]Furret No Furry Asimo (STEAM_0:0:58605803) has disconnected.
+[19:54:44	]Rabithunter (STEAM_0:1:22394854) has disconnected.

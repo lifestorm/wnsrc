@@ -1,0 +1,285 @@
+[08:12:30	]Mango has connected.
+[08:13:34	]Mango loaded the character 'C17:RCT.YELLO-34'
+[08:13:44	][IC] C17:RCT.YELLO-34: <:: A. ::>
+[08:14:01	]Bot01 has connected.
+[08:14:01	]Bot01 loaded the character 'Bot01'
+[08:14:22	]C17:RCT.YELLO-34 used command '/PlyWhitelist bot CP'.
+[08:14:28	]C17:RCT.YELLO-34 used command '/PlyTransfer bot CP'.
+[08:14:34	]C17:RCT.YELLO-34 used command '/PlyTransfer bot Civil Protection'.
+[08:17:55	]C17:RCT.YELLO-34 entered observer.
+[08:17:56	]C17:RCT.YELLO-34 exited observer at their location.
+[08:18:22	]Bot02 has connected.
+[08:18:22	]Bot02 loaded the character 'Bot02'
+[08:18:23	]Bot03 has connected.
+[08:18:23	]Bot03 loaded the character 'Bot03'
+[08:18:23	]Bot04 has connected.
+[08:18:23	]Bot04 loaded the character 'Bot04'
+[08:18:24	]Bot05 has connected.
+[08:18:24	]Bot05 loaded the character 'Bot05'
+[08:18:42	]Bot01 (BOT) has disconnected.
+[08:18:44	]Bot02 (BOT) has disconnected.
+[08:18:45	]Bot03 (BOT) has disconnected.
+[08:18:46	]Bot04 (BOT) has disconnected.
+[08:18:47	]Bot05 (BOT) has disconnected.
+[08:18:56	]Bot06 has connected.
+[08:18:56	]Bot06 loaded the character 'Bot06'
+[08:18:57	]Bot07 has connected.
+[08:18:57	]Bot07 loaded the character 'Bot07'
+[08:18:57	]Bot08 has connected.
+[08:18:57	]Bot08 loaded the character 'Bot08'
+[08:19:09	]Bot09 has connected.
+[08:19:09	]Bot09 loaded the character 'Bot09'
+[08:19:10	]Bot10 has connected.
+[08:19:10	]Bot10 loaded the character 'Bot10'
+[08:19:10	]Bot11 has connected.
+[08:19:10	]Bot11 loaded the character 'Bot11'
+[08:19:22	][IC] C17:RCT.YELLO-34: <:: !kickall. ::>
+[08:19:33	]C17:RCT.YELLO-34 ran SAM command 'kick' with arguments: 'bot07'
+[08:19:33	]Bot07 (BOT) has disconnected.
+[08:19:50	]C17:RCT.YELLO-34 ran SAM command 'kick' with arguments: 'bot08'
+[08:19:50	]Bot08 (BOT) has disconnected.
+[08:19:52	]C17:RCT.YELLO-34 ran SAM command 'kick' with arguments: 'bot09'
+[08:19:52	]Bot09 (BOT) has disconnected.
+[08:19:55	]C17:RCT.YELLO-34 ran SAM command 'kick' with arguments: 'bot10'
+[08:19:55	]Bot10 (BOT) has disconnected.
+[08:19:56	]C17:RCT.YELLO-34 ran SAM command 'kick' with arguments: 'bot11'
+[08:19:56	]Bot11 (BOT) has disconnected.
+[08:21:02	]C17:RCT.YELLO-34 ran SAM command 'kick' with arguments: 'Bot06'
+[08:21:02	]Bot06 (BOT) has disconnected.
+[08:30:16	][IC] C17:RCT.YELLO-34: <:: Unit is on-duty; 10-8. ::>
+[08:30:18	]reece has connected.
+[08:30:28	][IC] C17:RCT.YELLO-34: <:: Is 10-108. ::>
+[08:30:37	][IC] C17:RCT.YELLO-34: <:: Unit is on-duty, 10-8. ::>
+[08:30:57	][IC] C17:RCT.YELLO-34: <:: Unit is on-duty; 10-8. ::>
+[08:31:07	]reece loaded the character 'C17:RCT.YELLO-09'
+[08:31:32	][IC] C17:RCT.YELLO-09: <:: Worked some what? ::>
+[08:31:38	][IC] C17:RCT.YELLO-34: <:: Okay wait I'll go to citizen. ::>
+[08:31:41	]Mango has unloaded their "C17:RCT.YELLO-34" character.
+[08:31:47	]Mango loaded the character 'wawawa'
+[08:32:03	][IC] wawawa: Is your mask equipped?
+[08:32:19	][IC] C17:RCT.YELLO-09: <:: Yeah. ::>
+[08:32:30	][IC] C17:RCT.YELLO-09: <:: So...? ::>
+[08:32:47	]C17:RCT.YELLO-09 admin-searched the 'Large Metal Cabinet' #164 container.
+[08:32:47	]C17:RCT.YELLO-09 has used a context menu option with the name: wncontainer_view
+[08:32:48	]C17:RCT.YELLO-09 admin-closed the 'Large Metal Cabinet' #164 container.
+[08:33:18	]C17:RCT.YELLO-09 has spawned a musicradio4.
+[08:33:19	]C17:RCT.YELLO-09 ran 'Deploy' on item 'Synth Radio' (#2620)
+[08:33:21	][IC] wawawa: Doesn't seem to work.
+[08:33:22	]C17:RCT.YELLO-09 has used a context menu option with the name: remove
+[08:33:27	][IC] C17:RCT.YELLO-09: <:: What now? ::>
+[08:33:27	][IC] wawawa: Uhh wait.
+[08:33:29	][IC] C17:RCT.YELLO-09: <:: Okay. ::>
+[08:33:43	]Mango created the character 'testa'
+[08:33:43	]Mango loaded the character 'testa'
+[08:33:43	]testa has gained a 'Suitcase' #2621.
+[08:33:43	]testa has gained a 'Flashlight' #2622.
+[08:33:43	]testa has gained a 'Light Grey Armband' #2623.
+[08:33:43	]testa has gained a '#31257's Identity Card' #2624.
+[08:33:54	][IC] testa: Sayu something in chat.
+[08:34:04	][IC] C17:RCT.YELLO-09: <:: Hello. ::>
+[08:34:09	][IC] C17:RCT.YELLO-09: <:: My name is Reece. ::>
+[08:34:10	][IC] testa: Okay I'll have to fix this.
+[08:34:19	][IC] testa: Doesn't work rn.
+[08:34:27	][IC] testa: Thanks for the help tho.
+[08:34:31	][IC] C17:RCT.YELLO-09: <:: No worries. ::>
+[08:34:35	][IC] C17:RCT.YELLO-09: <:: Bye bye. ::>
+[08:34:38	][IC] testa: Bye fren.
+[08:34:39	]reece (STEAM_0:1:158746618) has disconnected.
+[08:39:43	]testa has gone afk.
+[08:42:24	]Mango has connected.
+[08:42:40	]Mango (STEAM_0:0:544539350) deleted character 'wawawa'
+[08:42:43	]Mango (STEAM_0:0:544539350) deleted character 'C17:RCT.YELLO-34'
+[08:42:44	]Mango (STEAM_0:0:544539350) deleted character 'Mango'
+[08:42:47	]Mango loaded the character 'testa'
+[08:43:02	][IC] testa: A.
+[08:47:26	]ClapTrap has connected.
+[08:48:17	]ClapTrap created the character 'ClapTrap'
+[08:48:17	]ClapTrap has gained a 'Suitcase' #2625.
+[08:48:17	]ClapTrap loaded the character 'ClapTrap'
+[08:48:17	]ClapTrap has gained a 'Flashlight' #2626.
+[08:48:17	]ClapTrap has gained a 'Light Grey Armband' #2627.
+[08:48:17	]ClapTrap has gained a '#31982's Identity Card' #2628.
+[08:48:25	][IC] testa: Weee.
+[08:48:27	][IC] testa: Helloooo.
+[08:48:34	][IC] testa: Let me get on cp and you tell me how you see it.
+[08:48:38	][IC] ClapTrap: Ight.
+[08:48:50	]Mango created the character 'C17:RCT.YELLO-44'
+[08:48:50	]testa has gained level 5 in the Guns skill.
+[08:48:50	]testa has gained level 10 in the Speed skill.
+[08:48:50	]C17:RCT.YELLO-44 has gained a '#32709's Identity Card' #2629.
+[08:48:50	]C17:RCT.YELLO-44 has gained a 'Combine PDA' #2630.
+[08:48:50	]C17:RCT.YELLO-44 has gained a 'CP Uniform' #2631.
+[08:48:50	]C17:RCT.YELLO-44 has gained a 'CP Mask' #2632.
+[08:48:50	]C17:RCT.YELLO-44 has gained a 'Handheld Radio' #2633.
+[08:48:50	]C17:RCT.YELLO-44 has gained a 'Small Bag' #2634.
+[08:48:50	]C17:RCT.YELLO-44 has gained a 'Large Bag' #2635.
+[08:48:51	]Mango loaded the character 'C17:RCT.YELLO-44'
+[08:49:00	][IC] C17:RCT.YELLO-44: How is it rn?
+[08:49:02	][IC] ClapTrap: Unknown.
+[08:49:12	][IC] C17:RCT.YELLO-44: You see description?
+[08:49:17	][IC] ClapTrap: I don't.
+[08:49:20	][IC] C17:RCT.YELLO-44: Mmmmmm.
+[08:49:32	][IC] C17:RCT.YELLO-44: <:: Now. ::>
+[08:49:34	][IC] C17:RCT.YELLO-44: <:: Now?*. ::>
+[08:49:35	][IC] ClapTrap: Still no.
+[08:49:48	][IC] ClapTrap: I'd prefer if it said 'Civil Protection Unit' or something like that instead of 'Unknown'.
+[08:49:52	][IC] ClapTrap: I dunno if that's possible.
+[08:50:06	][IC] C17:RCT.YELLO-44: <:: It should say Civil Protection Unit, guess it's not working rn. ::>
+[08:50:14	][IC] ClapTrap: Nah just says Unknown.
+[08:50:20	][IC] C17:RCT.YELLO-44: <:: Yeah it's not working. ::>
+[08:50:35	][IC] C17:RCT.YELLO-44: <:: I'd honestly let another dev do this rn, I can't think too much because of my meds. ::>
+[08:50:42	][IC] C17:RCT.YELLO-44: <:: I don't know if it'll be deployed today. ::>
+[08:51:15	][IC] ClapTrap: Dang.......
+[08:51:22	][IC] C17:RCT.YELLO-44: <:: Yeah my brain is super fried. ::>
+[08:51:35	][IC] C17:RCT.YELLO-44: <:: Sry tho. ::>
+[08:51:44	][IC] ClapTrap: It's ok. I just hope it's possibl.
+[08:51:55	][IC] C17:RCT.YELLO-44: <:: It's possible, just not sure if it'll be for today. ::>
+[08:52:01	][IC] C17:RCT.YELLO-44: <:: Anyway thanks for helping me test. ::>
+[08:52:14	][IC] ClapTrap: No prob. Are you gonna ask one of the other devs to work on it?
+[08:52:19	][IC] C17:RCT.YELLO-44: <:: Yes. ::>
+[08:52:25	][IC] ClapTrap: Aight. Thanks again.
+[08:52:30	][IC] C17:RCT.YELLO-44: <:: Happily. ::>
+[08:52:34	]ClapTrap (STEAM_0:0:51034660) has disconnected.
+[13:17:03	]Mango has connected.
+[13:17:18	]Mango loaded the character 'C17:RCT.YELLO-44'
+[13:19:50	]C17:RCT.YELLO-44 used command '/Radio test'.
+[13:19:53	]C17:RCT.YELLO-44 used command '/Radio copy'.
+[13:20:42	]Rabithunter has connected.
+[13:22:08	][OOC] C17:RCT.YELLO-44: *crossing fingers*
+[13:23:52	]Rabithunter loaded the character 'asdasdas'
+[13:24:02	][IC] C17:RCT.YELLO-44: <:: 10-4. ::>
+[13:24:05	][IC] asdasdas: Hi.
+[13:24:07	][IC] C17:RCT.YELLO-44: <:: Pjasfp. ::>
+[13:24:09	][IC] asdasdas: No desc.
+[13:24:13	][IC] asdasdas: :D.
+[13:24:15	][IC] C17:RCT.YELLO-44: <:: What about physical? ::>
+[13:24:19	][IC] C17:RCT.YELLO-44: <:: And what name do you see? ::>
+[13:24:22	][IC] asdasdas: 6' tall.
+[13:24:32	][IC] asdasdas: I see Civil protection unit.
+[13:24:35	][IC] C17:RCT.YELLO-44: <:: Okay and now. ::>
+[13:24:45	][IC] asdasdas: I see aaaaaaaaaaaaaaaaa.
+[13:24:48	][IC] C17:RCT.YELLO-44: PJFSDPAASJ.
+[13:24:50	][IC] C17:RCT.YELLO-44: And genetic?
+[13:24:55	][IC] asdasdas: Nothing.
+[13:24:59	][IC] asdasdas: Just 6' tall.
+[13:25:01	][IC] C17:RCT.YELLO-44: Oh mmm.
+[13:25:13	][IC] C17:RCT.YELLO-44: I have to change that so it shows all the genetic when you're without mask.
+[13:25:17	][IC] C17:RCT.YELLO-44: Name is unknown now?
+[13:25:22	][IC] asdasdas: Aye unknown.
+[13:25:24	][IC] C17:RCT.YELLO-44: Alrighty.
+[13:25:27	][IC] C17:RCT.YELLO-44: IT WORKS.
+[13:25:33	][IC] C17:RCT.YELLO-44: Thanks you fren.
+[13:25:37	][IC] asdasdas: Np np!
+[13:25:40	][IC] asdasdas: Happy to help.
+[13:25:49	]asdasdas has taken 41 damage from worldspawn.
+[13:25:49	]asdasdas entered observer.
+[13:25:49	]Mango (STEAM_0:0:544539350) has disconnected.
+[13:25:54	]Rabithunter (STEAM_0:1:22394854) has disconnected.
+[17:50:20	]M!NT has connected.
+[17:50:34	]M!NT loaded the character 'test'
+[17:50:53	]test entered observer.
+[17:50:55	]test exited observer at their location.
+[17:50:55	]test entered observer.
+[17:51:05	]test exited observer at their location.
+[17:52:00	]test has given himself a fiveseven.
+[17:52:00	]test has gained a 'FiveSeven' #2636.
+[17:52:07	]test has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[17:52:10	]test has spawned a usable entity class 'ix_couch' with model 'models/props_c17/furniturecouch001a.mdl'.
+[17:52:10	]test has used a context menu option with the name: ixusableentitycreate
+[17:52:19	]test has spawned a musicradio_reb.
+[17:52:23	]test has used a context menu option with the name: remove
+[17:52:25	]test has spawned a musicradio_cmb.
+[17:52:30	]test ran 'Deploy' on item 'Benefactor Radio' (#2638)
+[17:52:46	]test used command '/MusicRadioChannelSeek Classical'.
+[17:52:51	]test used command '/MusicRadioChannelSeek Classical'.
+[17:53:04	]test used command '/MusicRadioChannelSeek Classical'.
+[17:53:10	]test used command '/MusicRadioChannelSeek Classical'.
+[17:53:16	]test used command '/MusicRadioChannelSeek Classical'.
+[17:53:21	]test used command '/MusicRadioChannelSeek Classical'.
+[17:53:30	]test used command '/MusicRadioChannelSeek Classical'.
+[17:53:36	]test used command '/MusicRadioChannelSeek Classical'.
+[17:53:47	]test used command '/MusicRadioChannelSeek Classical'.
+[17:53:54	]test used command '/MusicRadioChannelSeek Classical'.
+[17:54:03	]test used command '/MusicRadioChannelSeek Classical'.
+[17:54:23	]test used command '/MusicRadioChannelSeek Classical'.
+[17:54:29	]test used command '/MusicRadioChannelSeek Classical'.
+[17:54:37	]test used command '/MusicRadioChannelSeek Classical'.
+[17:54:49	]test used command '/MusicRadioChannelSeek Classical'.
+[17:54:53	]test used command '/MusicRadioChannelSeek Classical'.
+[17:55:05	]test has used a context menu option with the name: remove
+[17:55:24	]test has spawned a 'Entity [227][ix_discscanner]'.
+[17:55:36	]test has given himself a datadisc.
+[17:55:36	]test has gained a 'Data-Disc' #2639.
+[17:55:41	]test has given himself a tool_scissors.
+[17:55:41	]test has gained a 'Scissors' #2640.
+[17:56:02	]test ran 'drop' on item 'Data-Disc' (#2639)
+[17:56:02	]test has lost a 'Data-Disc' #2639.
+[17:56:10	]test has given himself a combinebattery.
+[17:56:10	]test has gained a 'Combine Battery' #2641.
+[17:56:14	]test ran 'SetFullCharge' on item 'Combine Battery' (#2641)
+[17:56:15	]test ran 'drop' on item 'Combine Battery' (#2641)
+[17:56:15	]test has lost a 'Combine Battery' #2641.
+[17:56:34	]test ran 'drop' on item 'Scissors' (#2640)
+[17:56:34	]test has lost a 'Scissors' #2640.
+[17:57:16	]test ran 'take' on item 'Data-Disc' (#2639)
+[17:57:16	]test has gained a 'Data-Disc' #2639.
+[17:57:26	]test entered observer.
+[17:57:35	]test exited observer at their location.
+[17:58:43	]test set energy level of test to 0.
+[17:58:43	]test used command '/CharSetEnergy test 0'.
+[17:59:11	]test has gained level 1 in the Speed skill.
+[17:59:52	]test has given himself a magazine_fiveseven_20rnd.
+[17:59:52	]test has gained a '20rnd FiveSeven-magazine' #2642.
+[17:59:55	]test has given himself a bullets_pistol.
+[17:59:55	]test has gained a '9mm Pistol Bullets' #2643.
+[17:59:58	]test ran 'combine' on item '20rnd FiveSeven-magazine' (#2642)
+[18:00:02	]test ran 'Equip' on item 'FiveSeven' (#2636)
+[18:00:03	]test has lost a '20rnd FiveSeven-magazine' #2642.
+[18:00:11	]test set energy level of test to 100.
+[18:00:11	]test used command '/CharSetEnergy test 100'.
+[18:04:48	]M!NT has connected.
+[18:05:06	]M!NT loaded the character 'test'
+[18:05:17	]test ran 'drop' on item 'Data-Disc' (#2639)
+[18:05:17	]test has lost a 'Data-Disc' #2639.
+[18:05:28	]test has given himself a combinebattery.
+[18:05:28	]test has gained a 'Combine Battery' #2644.
+[18:05:33	]test has given himself a tool_scissors.
+[18:05:33	]test has gained a 'Scissors' #2645.
+[18:05:36	]test ran 'drop' on item 'Scissors' (#2645)
+[18:05:36	]test has lost a 'Scissors' #2645.
+[18:05:50	]test ran 'SetFullCharge' on item 'Combine Battery' (#2644)
+[18:05:51	]test ran 'drop' on item 'Combine Battery' (#2644)
+[18:05:51	]test has lost a 'Combine Battery' #2644.
+[18:06:27	]test ran 'take' on item 'Data-Disc' (#2639)
+[18:06:27	]test has gained a 'Data-Disc' #2639.
+[18:06:29	]test ran 'drop' on item 'Data-Disc' (#2639)
+[18:06:29	]test has lost a 'Data-Disc' #2639.
+[18:06:35	]test has given himself a datadisc.
+[18:06:35	]test has gained a 'Data-Disc' #2646.
+[18:06:38	]test ran 'drop' on item 'Data-Disc' (#2646)
+[18:06:38	]test has lost a 'Data-Disc' #2646.
+[18:07:00	]test ran 'take' on item 'Data-Disc' (#2646)
+[18:07:00	]test has gained a 'Data-Disc' #2646.
+[18:07:08	]test entered observer.
+[18:07:09	]test exited observer at their location.
+[18:07:10	]test entered observer.
+[18:07:23	]test has spawned a musicradio_reb.
+[18:07:30	]test exited observer at their location.
+[18:07:35	]test ran 'Deploy' on item 'Rebel Radio' (#2647)
+[18:07:57	]test entered observer.
+[18:08:00	]test exited observer at their location.
+[18:08:05	]test used command '/MusicRadioChannelSeek Hiphop'.
+[18:08:13	]test used command '/MusicRadioChannelSeek Hiphop'.
+[18:08:20	]test used command '/MusicRadioChannelSeek Hiphop'.
+[18:08:29	]test used command '/MusicRadioChannelSeek Hiphop'.
+[18:08:35	]test used command '/MusicRadioChannelSeek Hiphop'.
+[18:08:40	]test used command '/MusicRadioChannelSeek Hiphop'.
+[18:08:46	]test used command '/MusicRadioChannelSeek Hiphop'.
+[18:08:52	]test used command '/MusicRadioChannelSeek Hiphop'.
+[18:08:58	]test used command '/MusicRadioChannelSeek Hiphop'.
+[18:09:06	]test used command '/MusicRadioChannelSeek Hiphop'.
+[18:09:13	]test has used a context menu option with the name: remove
+[18:09:16	]test entered observer.
+[18:09:19	]test exited observer at their location.
+[18:14:36	]test has gone afk.
+[18:30:01	]test is fully healed.

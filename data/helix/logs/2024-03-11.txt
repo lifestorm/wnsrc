@@ -1,0 +1,84 @@
+[09:46:32	]M!NT has connected.
+[09:47:32	]M!NT loaded the character 'Adalia Torres'
+[09:47:41	]Adalia Torres entered observer.
+[09:47:45	]Adalia Torres exited observer at their location.
+[09:47:47	]Adalia Torres entered observer.
+[09:47:47	]Adalia Torres exited observer at their location.
+[09:47:56	]Adalia Torres used command '/NPCAreas'.
+[09:48:01	]Adalia Torres entered observer.
+[09:48:09	]Adalia Torres used command '/AreaEdit'.
+[09:48:25	]Adalia Torres has added area "Plaza".
+[09:48:27	]Adalia Torres exited observer at their location.
+[09:48:32	]Adalia Torres entered observer.
+[09:48:35	]Adalia Torres used command '/AreaEdit'.
+[09:48:44	]Adalia Torres used command '/AreaEdit'.
+[09:48:49	]Adalia Torres used command '/NPCAreas'.
+[09:51:27	]Adalia Torres set areaMaxNPCs to '20'.
+[09:51:30	]Adalia Torres used command '/NPCAreas'.
+[09:52:49	]Adalia Torres used command '/NPCAreas'.
+[09:53:40	][Area-Based NPC Spawner] Adalia Torres has added area spawner Test at Plaza
+[09:53:54	]Adalia Torres used command '/SpawnAreaNPCS test'.
+[09:53:58	]Adalia Torres used command '/SpawnAreaNPCS Test'.
+[09:54:12	]Adalia Torres exited observer at their location.
+[09:54:13	]Adalia Torres entered observer.
+[09:54:14	]Adalia Torres exited observer at their location.
+[09:54:15	]Adalia Torres entered observer.
+[09:54:17	]Adalia Torres exited observer at their location.
+[09:54:18	]Adalia Torres entered observer.
+[09:54:21	]Adalia Torres used command '/SpawnAreaNPCS Test'.
+[09:54:25	]Adalia Torres used command '/NPCAreas'.
+[09:55:06	]Adalia Torres used command '/NPCAreas'.
+[09:55:28	][Area-Based NPC Spawner] Adalia Torres has edited area spawner Test at Plaza
+[09:55:37	]Adalia Torres used command '/SpawnAreaNPCS Test'.
+[09:55:50	]Adalia Torres used command '/SpawnAreaNPCS Test'.
+[09:59:15	]M!NT (STEAM_0:1:120751263) has disconnected.
+[10:56:15	]Mango has connected.
+[10:56:47	]Mango loaded the character 'Vahh'Brun-Nox'
+[10:56:52	]Vahh'Brun-Nox is fully healed.
+[10:57:00	]Vahh'Brun-Nox used command '/ToggleVortalVision'.
+[10:57:14	]Vahh'Brun-Nox entered observer.
+[10:57:15	]Vahh'Brun-Nox exited observer at their location.
+[10:57:15	]Vahh'Brun-Nox entered observer.
+[10:57:22	]Vahh'Brun-Nox exited observer at their location.
+[10:57:26	]Vahh'Brun-Nox entered observer.
+[10:57:27	]Vahh'Brun-Nox exited observer at their location.
+[10:57:31	]Vahh'Brun-Nox entered observer.
+[10:57:40	]Vahh'Brun-Nox exited observer at their location.
+[11:03:48	]Mango has connected.
+[11:04:23	]Mango loaded the character 'Vahh'Brun-Nox'
+[11:04:28	]Vahh'Brun-Nox is fully healed.
+[11:04:33	]Vahh'Brun-Nox used command '/ToggleVortalVision'.
+[11:04:46	]Vahh'Brun-Nox entered observer.
+[11:04:54	]Vahh'Brun-Nox exited observer at their location.
+[11:06:23	]Vahh'Brun-Nox used command '/ToggleVortalVision'.
+[11:06:27	]Vahh'Brun-Nox used command '/ToggleVortalVision'.
+[11:06:41	]Vahh'Brun-Nox used command '/ToggleVortalVision'.
+[11:10:20	]Vahh'Brun-Nox used command '/ToggleVortalVision'.
+[11:11:46	]Mango (STEAM_0:0:544539350) has disconnected.
+[12:27:50	]Mango has connected.
+[12:28:26	]Mango loaded the character 'Vahh'Brun-Nox'
+[12:28:31	]Vahh'Brun-Nox is fully healed.
+[12:28:36	]Vahh'Brun-Nox used command '/ToggleVortalVision'.
+[12:34:36	]Mango has connected.
+[12:35:10	]Mango loaded the character 'Vahh'Brun-Nox'
+[12:35:15	]Vahh'Brun-Nox is fully healed.
+[12:35:18	]Vahh'Brun-Nox used command '/ToggleVortalVision'.
+[12:35:33	]Vahh'Brun-Nox entered observer.
+[12:35:41	]Vahh'Brun-Nox exited observer at their location.
+[12:35:50	]Vahh'Brun-Nox has spawned a 'NPC [5788][npc_monk]'.
+[12:36:08	]Mango (STEAM_0:0:544539350) has disconnected.
+[12:42:04	]Mango has connected.
+[12:42:36	]Mango loaded the character 'Vahh'Brun-Nox'
+[12:42:41	]Vahh'Brun-Nox is fully healed.
+[12:42:46	]Vahh'Brun-Nox entered observer.
+[12:42:55	]Vahh'Brun-Nox exited observer at their location.
+[12:42:58	]Vahh'Brun-Nox used command '/ToggleVortalVision'.
+[12:45:06	]Mango (STEAM_0:0:544539350) has disconnected.
+[13:03:14	]Mango has connected.
+[13:04:06	]Mango loaded the character 'Vahh'Brun-Nox'
+[13:04:11	]Vahh'Brun-Nox is fully healed.
+[13:04:16	]Vahh'Brun-Nox entered observer.
+[13:04:57	]Vahh'Brun-Nox exited observer at their location.
+[13:04:59	]Vahh'Brun-Nox used command '/ToggleVortalVision'.
+[13:05:11	]Vahh'Brun-Nox used command '/ToggleVortalVision'.
+[13:05:17	]Mango (STEAM_0:0:544539350) has disconnected.

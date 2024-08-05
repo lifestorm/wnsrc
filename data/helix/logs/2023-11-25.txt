@@ -1,0 +1,120 @@
+[03:31:54	]Kranky has connected.
+[03:41:52	]Kranky created the character 'Shitter'
+[03:41:53	]Shitter has gained a 'Light Grey Armband' #13.
+[03:41:53	]Shitter has gained a '#05189's Identity Card' #14.
+[03:41:53	]Shitter has gained a 'Black Jumpsuit' #15.
+[03:41:53	]Shitter has gained a 'Black Jumpsuit Trousers' #16.
+[03:41:53	]Kranky loaded the character 'Shitter'
+[03:41:57	]Shitter entered observer.
+[03:42:03	]Shitter exited observer at their location.
+[03:42:26	][IC] Shitter: I don't think this is shitty twenty four.
+[03:42:51	]Shitter entered observer.
+[03:43:09	]Shitter has spawned a 'Entity [182][ix_workshiftterminal]'.
+[03:43:14	]Shitter has spawned a 'Entity [182][ix_containerlock]'.
+[03:44:07	][IC] Shitter: Aaaaaaagh!
+[03:44:07	]Shitter exited observer at their location.
+[03:44:10	]Shitter entered observer.
+[03:44:30	]Shitter exited observer at their location.
+[03:44:31	]Shitter entered observer.
+[03:44:32	]Shitter exited observer at their location.
+[03:44:35	][IC] Shitter: Help.
+[03:44:36	]Shitter entered observer.
+[03:44:37	]Shitter exited observer at their location.
+[03:44:41	]Shitter entered observer.
+[03:44:41	]Shitter exited observer at their location.
+[03:44:42	]Shitter entered observer.
+[03:44:42	]Shitter exited observer at their location.
+[03:44:44	]Shitter entered observer.
+[03:44:45	]Shitter exited observer at their location.
+[03:44:46	]Shitter has taken 21 damage from worldspawn.
+[03:44:50	]Shitter has spawned a footlocker.
+[03:44:52	]Shitter ran 'take' on item 'Footlocker' (#17)
+[03:44:52	]Shitter has gained a 'Footlocker' #17.
+[03:44:56	]Shitter ran 'Place' on item 'Footlocker' (#17)
+[03:44:59	]Shitter created a 'Footlocker' container.
+[03:45:07	]Shitter has given himself a large_metal_cabinet.
+[03:45:14	]Shitter has given himself a large_metal_cabinet.
+[03:45:14	]Shitter has gained a 'Large Metal Cabinet' #18.
+[03:45:16	]Shitter ran 'Place' on item 'Large Metal Cabinet' (#18)
+[03:45:53	]Shitter ran 'drop' on item 'Large Metal Cabinet' (#18)
+[03:45:53	]Shitter has lost a 'Large Metal Cabinet' #18.
+[03:45:55	]Shitter ran 'take' on item 'Large Metal Cabinet' (#18)
+[03:45:55	]Shitter has gained a 'Large Metal Cabinet' #18.
+[03:45:56	]Shitter ran 'drop' on item 'Large Metal Cabinet' (#18)
+[03:45:56	]Shitter has lost a 'Large Metal Cabinet' #18.
+[03:45:58	]Shitter ran 'take' on item 'Large Metal Cabinet' (#18)
+[03:45:58	]Shitter has gained a 'Large Metal Cabinet' #18.
+[03:45:58	]Shitter ran 'drop' on item 'Large Metal Cabinet' (#18)
+[03:45:58	]Shitter has lost a 'Large Metal Cabinet' #18.
+[03:46:00	]Shitter ran 'take' on item 'Large Metal Cabinet' (#18)
+[03:46:00	]Shitter has gained a 'Large Metal Cabinet' #18.
+[03:46:01	]Kranky (STEAM_0:1:110380124) has disconnected.
+[03:48:19	]Kranky has connected.
+[03:49:39	]Kranky loaded the character 'Shitter'
+[03:49:44	]Shitter ran 'Place' on item 'Large Metal Cabinet' (#18)
+[03:49:55	]Shitter created a 'Large Metal Cabinet' container.
+[03:50:04	]Shitter used command '/CharGiveFlag shitter pet'.
+[03:50:09	]Shitter entered observer.
+[03:50:09	]Shitter exited observer at their location.
+[03:50:26	]Shitter has given himself a safe.
+[03:50:26	]Shitter has gained a 'Safe' #19.
+[03:50:31	]Shitter ran 'Place' on item 'Safe' (#19)
+[03:50:51	]Shitter ran 'Place' on item 'Safe' (#19)
+[03:51:06	]Shitter entered observer.
+[03:51:12	]Shitter exited observer at their location.
+[03:51:19	]Shitter entered observer.
+[03:51:28	]Shitter exited observer at their location.
+[03:51:28	]Shitter entered observer.
+[03:51:29	]Shitter exited observer at their location.
+[03:51:31	]Shitter ran 'drop' on item 'Safe' (#19)
+[03:51:31	]Shitter has lost a 'Safe' #19.
+[03:51:35	]Shitter has used a context menu option with the name: rb655_dissolve
+[03:51:36	]Shitter has spawned a refrigerator.
+[03:51:37	]env_entity_dissolver destroyed a 'Safe' #19.
+[03:51:42	]Shitter ran 'take' on item 'Refrigerator' (#20)
+[03:51:42	]Shitter has gained a 'Refrigerator' #20.
+[03:51:46	]Shitter ran 'Place' on item 'Refrigerator' (#20)
+[03:51:52	]Shitter created a 'Refrigerator' container.
+[03:52:06	]Shitter has given himself a wooden_desk.
+[03:52:06	]Shitter has gained a 'Wooden Desk' #21.
+[03:52:09	]Shitter ran 'Place' on item 'Wooden Desk' (#21)
+[03:52:16	]Shitter has given himself a footlocker.
+[03:52:16	]Shitter has gained a 'Footlocker' #22.
+[03:52:18	]Shitter ran 'Place' on item 'Footlocker' (#22)
+[03:52:33	]Shitter ran 'Place' on item 'Footlocker' (#22)
+[03:52:35	]Shitter created a 'Footlocker' container.
+[03:52:56	]Shitter has given himself a dummy_biolock_ar2.
+[03:52:56	]Shitter has gained a 'Biolocked Pulse-Rifle' #23.
+[03:52:58	]Shitter ran 'Unlock' on item 'Biolocked Pulse-Rifle' (#23)
+[03:53:00	]Shitter ran 'Unlock' on item 'Biolocked Pulse-Rifle' (#23)
+[03:53:02	]Shitter ran 'drop' on item 'Biolocked Pulse-Rifle' (#23)
+[03:53:02	]Shitter has lost a 'Biolocked Pulse-Rifle' #23.
+[03:53:03	]Shitter ran 'take' on item 'Biolocked Pulse-Rifle' (#23)
+[03:53:03	]Shitter has gained a 'Biolocked Pulse-Rifle' #23.
+[03:53:09	]Shitter entered observer.
+[03:53:17	]Shitter used command '/PlyWhitelist SHITTER vort'.
+[03:53:18	]Shitter exited observer at their location.
+[03:53:20	]Kranky has unloaded their "Shitter" character.
+[03:53:36	]Kranky created the character 'froggy'
+[03:53:36	]Kranky loaded the character 'froggy'
+[03:53:38	]froggy entered observer.
+[03:53:42	]froggy exited observer at their location.
+[03:53:44	]froggy has given himself a dummy_biolock_ar2.
+[03:53:44	]froggy has gained a 'Biolocked Pulse-Rifle' #24.
+[03:53:46	]froggy ran 'Unlock' on item 'Biolocked Pulse-Rifle' (#24)
+[03:53:46	]froggy has gained a 'AR-2' #25.
+[03:53:52	]froggy ran 'Equip' on item 'AR-2' (#25)
+[03:53:55	][IC] froggy: Gong...
+[03:53:59	]froggy used command '/ToggleRaise'.
+[03:54:08	]froggy ran 'EquipUn' on item 'AR-2' (#25)
+[03:54:10	]froggy ran 'drop' on item 'AR-2' (#25)
+[03:54:10	]froggy has lost a 'AR-2' #25.
+[03:54:12	]froggy has used a context menu option with the name: rb655_dissolve
+[03:54:14	]env_entity_dissolver destroyed a 'AR-2' #25.
+[03:54:21	]froggy entered observer.
+[03:54:23	]froggy exited observer at their location.
+[03:54:23	]froggy entered observer.
+[03:54:23	]froggy exited observer at their location.
+[03:54:31	]froggy entered observer.
+[03:54:40	]froggy exited observer at their location.
+[03:54:43	]Kranky (STEAM_0:1:110380124) has disconnected.

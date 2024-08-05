@@ -1,0 +1,403 @@
+[00:00:37	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650024.
+[00:00:37	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650046.
+[00:00:53	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:01:22	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650046.
+[00:01:22	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650024.
+[00:01:25	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Pulse-magazine' (#1650046)
+[00:01:26	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650024.
+[00:01:26	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650046.
+[00:01:27	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Pulse-magazine' (#1650024)
+[00:01:40	]C24:i1.JUDGE-2 has spawned a 'NPC [401][npc_metropolice]'.
+[00:01:42	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:01:43	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650046.
+[00:01:43	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650024.
+[00:01:44	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:01:46	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 17 damage (CritChance was 1.01).
+[00:01:46	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 0 damage (CritChance was 1.01).
+[00:01:46	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 20 damage (CritChance was 1.01).
+[00:01:47	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 20 damage (CritChance was 1.01).
+[00:01:52	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650024.
+[00:01:52	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650046.
+[00:01:54	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Pulse-magazine' (#1650024)
+[00:01:55	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:02:05	]C24:i1.JUDGE-2 has spawned a 'NPC [401][npc_metropolice]'.
+[00:02:07	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 20 damage (CritChance was 1.01).
+[00:02:08	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 20 damage (CritChance was 1.01).
+[00:02:21	]C24:i1.JUDGE-2 has spawned a 'NPC [401][npc_metropolice]'.
+[00:02:22	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 20 damage (CritChance was 1.01).
+[00:02:23	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 20 damage (CritChance was 1.01).
+[00:02:24	]C24:i1.JUDGE-2 has gained a 'Lasser Pulse' #1650041.
+[00:02:25	]C24:i1.JUDGE-2 has spawned a 'NPC [448][npc_metropolice]'.
+[00:02:29	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650046.
+[00:02:29	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650024.
+[00:02:30	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:02:34	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 22 damage (CritChance was 1.01).
+[00:02:39	]C24:i1.JUDGE-2 has spawned a 'NPC [448][npc_metropolice]'.
+[00:02:49	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650024.
+[00:02:49	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650046.
+[00:02:52	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Pulse-magazine' (#1650024)
+[00:02:52	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:04:04	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650046.
+[00:04:04	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650024.
+[00:04:05	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:04:06	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'SR-1A' (#1650035)
+[00:04:06	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650024.
+[00:04:09	]C24:i1.JUDGE-2 ran 'drop' on item 'SR-1A' (#1650035)
+[00:04:09	]C24:i1.JUDGE-2 has lost a 'SR-1A' #1650035.
+[00:04:10	]C24:i1.JUDGE-2 ran 'Equip' on item 'P90' (#1649958)
+[00:04:11	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:04:11	]C24:i1.JUDGE-2 has lost a '50rnd P90-magazine' #1649961.
+[00:04:15	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:04:17	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 7 damage (CritChance was 1.01).
+[00:04:17	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 7 damage (CritChance was 1.01).
+[00:04:21	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 2 damage (CritChance was 1.01).
+[00:04:22	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 0 damage (CritChance was 1.01).
+[00:04:22	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 1 damage (CritChance was 1.01).
+[00:04:22	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 0 damage (CritChance was 1.01).
+[00:04:22	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 1 damage (CritChance was 1.01).
+[00:04:26	]C24:i1.JUDGE-2 has gained a '50rnd P90-magazine' #1649961.
+[00:04:26	]C24:i1.JUDGE-2 has lost a '50rnd P90-magazine' #1649962.
+[00:04:27	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:04:37	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'P90' (#1649958)
+[00:04:37	]C24:i1.JUDGE-2 has gained a '50rnd P90-magazine' #1649962.
+[00:04:40	]C24:i1.JUDGE-2 ran 'take' on item 'SR-1A' (#1650035)
+[00:04:40	]C24:i1.JUDGE-2 has gained a 'SR-1A' #1650035.
+[00:04:42	]C24:i1.JUDGE-2 ran 'Equip' on item 'SR-1A' (#1650035)
+[00:04:42	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:04:43	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650024.
+[00:04:47	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:05:05	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:05:08	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 17 damage (CritChance was 1.01).
+[00:05:09	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 17 damage (CritChance was 1.01).
+[00:05:17	]C24:i1.JUDGE-2 has spawned a 'NPC [455][npc_metropolice]'.
+[00:05:22	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'SR-1A' (#1650035)
+[00:05:22	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650024.
+[00:05:28	]C24:i1.JUDGE-2 ran 'Equip' on item 'P90' (#1649958)
+[00:05:29	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:05:33	]C24:i1.JUDGE-2 ran 'combine' on item '50rnd P90-magazine' (#1649961)
+[00:05:34	]C24:i1.JUDGE-2 has lost a '50rnd P90-magazine' #1649961.
+[00:05:35	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:05:36	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:05:38	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 3 damage (CritChance was 1.01).
+[00:05:38	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 2 damage (CritChance was 1.01).
+[00:05:38	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 0 damage (CritChance was 1.01).
+[00:05:38	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 3 damage (CritChance was 1.01).
+[00:05:38	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 3 damage (CritChance was 1.01).
+[00:05:38	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 3 damage (CritChance was 1.01).
+[00:05:39	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 4 damage (CritChance was 1.01).
+[00:05:39	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 3 damage (CritChance was 1.01).
+[00:05:39	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 3 damage (CritChance was 1.01).
+[00:05:39	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 2 damage (CritChance was 1.01).
+[00:05:39	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 2 damage (CritChance was 1.01).
+[00:05:39	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 2 damage (CritChance was 1.01).
+[00:05:40	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 4 damage (CritChance was 1.01).
+[00:05:40	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 2 damage (CritChance was 1.01).
+[00:05:40	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 3 damage (CritChance was 1.01).
+[00:05:40	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 2 damage (CritChance was 1.01).
+[00:05:42	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 9 damage (CritChance was 1.01).
+[00:05:45	]C24:i1.JUDGE-2 has spawned a 'NPC [458][npc_metropolice]'.
+[00:05:46	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[00:05:46	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[00:05:46	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[00:05:46	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 8 damage (CritChance was 1.01).
+[00:05:47	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 8 damage (CritChance was 1.01).
+[00:05:52	]C24:i1.JUDGE-2 has spawned a 'NPC [453][npc_metropolice]'.
+[00:05:55	]C24:i1.JUDGE-2 ran 'EquipUn' on item 'P90' (#1649958)
+[00:05:55	]C24:i1.JUDGE-2 has gained a '50rnd P90-magazine' #1649961.
+[00:06:40	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:06:54	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:06:56	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 1 damage (CritChance was 1.01).
+[00:06:57	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 2 damage (CritChance was 1.01).
+[00:06:57	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 3 damage (CritChance was 1.01).
+[00:06:58	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 1 damage (CritChance was 1.01).
+[00:06:58	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 2 damage (CritChance was 1.01).
+[00:07:04	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:07:15	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:07:17	]C24:i1.JUDGE-2 has hit npc_metropolice in the stomach dealing 7 damage (CritChance was 0.85).
+[00:07:38	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:07:48	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:08:12	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:08:40	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:09:47	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:09:54	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:09:56	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:10:05	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:10:26	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:10:47	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:11:09	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:11:19	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:11:41	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:11:53	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:12:03	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:12:16	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:12:25	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:12:29	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:12:34	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:12:53	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:12:59	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:13:13	]C24:i1.JUDGE-2 has spawned a 'NPC [478][npc_metropolice]'.
+[00:13:14	]C24:i1.JUDGE-2 has spawned a 'NPC [479][npc_metropolice]'.
+[00:13:14	]C24:i1.JUDGE-2 has spawned a 'NPC [480][npc_metropolice]'.
+[00:13:15	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:13:27	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:13:38	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:13:50	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:13:57	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:14:02	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:14:09	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:14:21	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:14:29	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:14:39	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:15:13	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:15:29	]C24:i1.JUDGE-2 has taken 9 damage from C24:i1.JUDGE-2.
+[00:15:29	]C24:i1.JUDGE-2 has taken 9 damage from C24:i1.JUDGE-2.
+[00:15:29	]C24:i1.JUDGE-2 has taken 9 damage from C24:i1.JUDGE-2.
+[00:15:29	]C24:i1.JUDGE-2 has taken 8 damage from C24:i1.JUDGE-2.
+[00:15:29	]C24:i1.JUDGE-2 has taken 9 damage from C24:i1.JUDGE-2.
+[00:15:29	]C24:i1.JUDGE-2 has taken 9 damage from C24:i1.JUDGE-2.
+[00:15:29	]C24:i1.JUDGE-2 has taken 9 damage from C24:i1.JUDGE-2.
+[00:15:29	]C24:i1.JUDGE-2 has taken 9 damage from C24:i1.JUDGE-2.
+[00:15:29	]C24:i1.JUDGE-2 has taken 9 damage from C24:i1.JUDGE-2.
+[00:15:29	]C24:i1.JUDGE-2 was knocked unconscious and is bleeding out.
+[00:15:30	]C24:i1.JUDGE-2 was killed while bleeding out.
+[00:15:30	]C24:i1.JUDGE-2 has killed C24:i1.JUDGE-2 with arccw_go_fire.
+[00:15:42	]C24:i1.JUDGE-2 ran 'Equip' on item 'SR-1A' (#1650035)
+[00:15:45	]C24:i1.JUDGE-2 has spawned a ar2ammo.
+[00:15:45	]C24:i1.JUDGE-2 has spawned a ar2ammo.
+[00:15:45	]C24:i1.JUDGE-2 has spawned a ar2ammo.
+[00:15:47	]C24:i1.JUDGE-2 ran 'take' on item 'Pulse-Rifle Energy' (#1650049)
+[00:15:47	]C24:i1.JUDGE-2 has gained a 'Pulse-Rifle Energy' #1650049.
+[00:15:48	]C24:i1.JUDGE-2 ran 'take' on item 'Pulse-Rifle Energy' (#1650048)
+[00:15:48	]C24:i1.JUDGE-2 has gained a 'Pulse-Rifle Energy' #1650048.
+[00:15:49	]C24:i1.JUDGE-2 ran 'use' on item 'Pulse-Rifle Energy' (#1650047)
+[00:15:57	]C24:i1.JUDGE-2 ran 'use' on item 'Pulse-Rifle Energy' (#1650048)
+[00:15:57	]C24:i1.JUDGE-2 ran 'use' on item 'Pulse-Rifle Energy' (#1650049)
+[00:16:00	]C24:i1.JUDGE-2 has spawned a bullets_heavypulse.
+[00:16:00	]C24:i1.JUDGE-2 has spawned a bullets_heavypulse.
+[00:16:00	]C24:i1.JUDGE-2 has spawned a bullets_heavypulse.
+[00:16:02	]C24:i1.JUDGE-2 ran 'take' on item 'Heavy Pulse Rounds' (#1650052)
+[00:16:02	]C24:i1.JUDGE-2 has gained a 'Heavy Pulse Rounds' #1650052.
+[00:16:03	]C24:i1.JUDGE-2 ran 'take' on item 'Heavy Pulse Rounds' (#1650050)
+[00:16:03	]C24:i1.JUDGE-2 has gained a 'Heavy Pulse Rounds' #1650050.
+[00:16:04	]C24:i1.JUDGE-2 ran 'take' on item 'Heavy Pulse Rounds' (#1650051)
+[00:16:04	]C24:i1.JUDGE-2 has gained a 'Heavy Pulse Rounds' #1650051.
+[00:16:06	]C24:i1.JUDGE-2 ran 'drop' on item 'Heavy Pulse Rounds' (#1650051)
+[00:16:06	]C24:i1.JUDGE-2 has lost a 'Heavy Pulse Rounds' #1650051.
+[00:16:07	]C24:i1.JUDGE-2 ran 'drop' on item 'Heavy Pulse Rounds' (#1650050)
+[00:16:07	]C24:i1.JUDGE-2 has lost a 'Heavy Pulse Rounds' #1650050.
+[00:16:07	]C24:i1.JUDGE-2 ran 'drop' on item 'Heavy Pulse Rounds' (#1650052)
+[00:16:07	]C24:i1.JUDGE-2 has lost a 'Heavy Pulse Rounds' #1650052.
+[00:16:10	]C24:i1.JUDGE-2 has given himself a bullets_pulse.
+[00:16:10	]C24:i1.JUDGE-2 has gained a 'Pulse Rifle Bullets' #1650053.
+[00:16:11	]C24:i1.JUDGE-2 has given himself a bullets_pulse.
+[00:16:11	]C24:i1.JUDGE-2 has gained a 'Pulse Rifle Bullets' #1650054.
+[00:16:12	]C24:i1.JUDGE-2 has given himself a bullets_pulse.
+[00:16:12	]C24:i1.JUDGE-2 has gained a 'Pulse Rifle Bullets' #1650055.
+[00:16:13	]C24:i1.JUDGE-2 has given himself a bullets_pulse.
+[00:16:13	]C24:i1.JUDGE-2 has gained a 'Pulse Rifle Bullets' #1650056.
+[00:16:14	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Pulse-magazine' (#1650024)
+[00:16:15	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Pulse-magazine' (#1650046)
+[00:16:15	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:16:18	]C24:i1.JUDGE-2 used command '/Radio I NEED 10-78'.
+[00:16:25	]C24:i1.JUDGE-2 has lost a 'Lasser Pulse' #1650041.
+[00:16:26	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650046.
+[00:16:27	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:16:29	]C24:i1.JUDGE-2 destroyed a 'Heavy Pulse Rounds' #1650051.
+[00:16:29	]C24:i1.JUDGE-2 destroyed a 'Heavy Pulse Rounds' #1650050.
+[00:16:29	]C24:i1.JUDGE-2 destroyed a 'Heavy Pulse Rounds' #1650052.
+[00:16:34	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650046.
+[00:16:34	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650024.
+[00:16:38	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:16:41	]C24:i1.JUDGE-2 has spawned a 'NPC [453][npc_metropolice]'.
+[00:16:42	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 20 damage (CritChance was 1.01).
+[00:16:43	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 20 damage (CritChance was 1.01).
+[00:16:46	]C24:i1.JUDGE-2 has spawned a 'NPC [459][npc_metropolice]'.
+[00:16:47	]C24:i1.JUDGE-2 has spawned a 'NPC [453][npc_metropolice]'.
+[00:16:47	]C24:i1.JUDGE-2 has spawned a 'NPC [460][npc_metropolice]'.
+[00:16:49	]C24:i1.JUDGE-2 has gained a 'Lasser Pulse' #1650041.
+[00:16:49	]C24:i1.JUDGE-2 has lost a 'Incendary Pulse' #1650037.
+[00:16:52	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 15 damage (CritChance was 1.01).
+[00:16:53	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 15 damage (CritChance was 1.01).
+[00:16:54	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 15 damage (CritChance was 1.01).
+[00:16:56	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 15 damage (CritChance was 1.01).
+[00:16:56	]C24:i1.JUDGE-2 has taken 0 damage from entityflame.
+[00:16:56	]C24:i1.JUDGE-2 has taken 0 damage from entityflame.
+[00:16:56	]C24:i1.JUDGE-2 has taken 0 damage from entityflame.
+[00:16:56	]C24:i1.JUDGE-2 has taken 0 damage from entityflame.
+[00:16:56	]C24:i1.JUDGE-2 has taken 0 damage from entityflame.
+[00:16:58	]C24:i1.JUDGE-2 has spawned a 'NPC [462][npc_metropolice]'.
+[00:16:58	]C24:i1.JUDGE-2 has spawned a 'NPC [453][npc_metropolice]'.
+[00:16:59	]C24:i1.JUDGE-2 has spawned a 'NPC [465][npc_metropolice]'.
+[00:17:00	]C24:i1.JUDGE-2 has gained a 'Incendary Pulse' #1650037.
+[00:17:00	]C24:i1.JUDGE-2 has lost a 'Homemade Pulse' #1650040.
+[00:17:22	]C24:i1.JUDGE-2 has spawned a 'Entity [459][item_battery]'.
+[00:17:23	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650024.
+[00:17:23	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650046.
+[00:17:24	]C24:i1.JUDGE-2 has spawned a 'Entity [459][item_battery]'.
+[00:17:24	]C24:i1.JUDGE-2 has spawned a 'Entity [466][item_battery]'.
+[00:17:24	]C24:i1.JUDGE-2 has spawned a 'Entity [467][item_battery]'.
+[00:17:24	]C24:i1.JUDGE-2 has spawned a 'Entity [468][item_battery]'.
+[00:17:25	]C24:i1.JUDGE-2 has spawned a 'Entity [469][item_battery]'.
+[00:17:25	]C24:i1.JUDGE-2 has spawned a 'Entity [470][item_battery]'.
+[00:17:25	]C24:i1.JUDGE-2 has spawned a 'Entity [471][item_battery]'.
+[00:17:25	]C24:i1.JUDGE-2 has spawned a 'Entity [472][item_battery]'.
+[00:17:25	]C24:i1.JUDGE-2 has spawned a 'Entity [466][item_battery]'.
+[00:17:25	]C24:i1.JUDGE-2 has spawned a 'Entity [467][item_battery]'.
+[00:17:26	]C24:i1.JUDGE-2 has spawned a 'Entity [468][item_battery]'.
+[00:17:26	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:17:29	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 15 damage (CritChance was 1.01).
+[00:17:29	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 15 damage (CritChance was 1.01).
+[00:17:29	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 15 damage (CritChance was 1.01).
+[00:17:29	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 15 damage (CritChance was 1.01).
+[00:17:30	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 15 damage (CritChance was 1.01).
+[00:17:30	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 15 damage (CritChance was 1.01).
+[00:17:31	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 15 damage (CritChance was 1.01).
+[00:17:31	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 15 damage (CritChance was 1.01).
+[00:17:31	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 15 damage (CritChance was 1.01).
+[00:17:32	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 15 damage (CritChance was 1.01).
+[00:17:32	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 15 damage (CritChance was 1.01).
+[00:17:32	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 15 damage (CritChance was 1.01).
+[00:17:32	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 18 damage (CritChance was 1.01).
+[00:17:34	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650046.
+[00:17:34	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650024.
+[00:17:35	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:17:39	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650024.
+[00:17:39	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650046.
+[00:17:40	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:17:43	]C24:i1.JUDGE-2 is fully healed.
+[00:17:47	]C24:i1.JUDGE-2 has gained a 'Homemade Pulse' #1650040.
+[00:17:47	]C24:i1.JUDGE-2 has lost a 'Effecient Pulse' #1650038.
+[00:17:50	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650046.
+[00:17:50	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650024.
+[00:17:51	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:17:54	]C24:i1.JUDGE-2 has gained a 'Effecient Pulse' #1650038.
+[00:17:57	]C24:i1.JUDGE-2 has spawned a 'NPC [453][npc_metropolice]'.
+[00:18:02	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650024.
+[00:18:02	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650046.
+[00:18:03	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:18:06	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 20 damage (CritChance was 1.01).
+[00:18:08	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 20 damage (CritChance was 1.01).
+[00:18:10	]C24:i1.JUDGE-2 has spawned a 'NPC [465][npc_metropolice]'.
+[00:18:10	]C24:i1.JUDGE-2 has spawned a 'NPC [471][npc_metropolice]'.
+[00:18:11	]C24:i1.JUDGE-2 has spawned a 'NPC [473][npc_metropolice]'.
+[00:18:20	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:18:22	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Pulse-magazine' (#1650024)
+[00:18:23	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650046.
+[00:18:23	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650024.
+[00:18:24	]C24:i1.JUDGE-2 ran 'combine' on item '30rnd Pulse-magazine' (#1650046)
+[00:18:25	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:18:31	]C24:i1.JUDGE-2 has gained a '30rnd Pulse-magazine' #1650024.
+[00:18:31	]C24:i1.JUDGE-2 has lost a '30rnd Pulse-magazine' #1650046.
+[00:18:32	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:18:43	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:18:47	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 51 damage (CritChance was 0.92).
+[00:18:48	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 55 damage (CritChance was 0.92).
+[00:18:53	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 54 damage (CritChance was 0.92).
+[00:18:57	]C24:i1.JUDGE-2 has spawned a 'NPC [471][npc_metropolice]'.
+[00:18:57	]C24:i1.JUDGE-2 has spawned a 'NPC [473][npc_metropolice]'.
+[00:18:57	]C24:i1.JUDGE-2 has spawned a 'NPC [476][npc_metropolice]'.
+[00:18:57	]C24:i1.JUDGE-2 has spawned a 'NPC [477][npc_metropolice]'.
+[00:18:57	]C24:i1.JUDGE-2 has spawned a 'NPC [478][npc_metropolice]'.
+[00:18:57	]C24:i1.JUDGE-2 has spawned a 'NPC [479][npc_metropolice]'.
+[00:18:58	]C24:i1.JUDGE-2 has spawned a 'NPC [483][npc_metropolice]'.
+[00:18:58	]C24:i1.JUDGE-2 has spawned a 'NPC [484][npc_metropolice]'.
+[00:18:58	]C24:i1.JUDGE-2 has spawned a 'NPC [485][npc_metropolice]'.
+[00:18:58	]C24:i1.JUDGE-2 has spawned a 'NPC [486][npc_metropolice]'.
+[00:18:59	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 49 damage (CritChance was 0.92).
+[00:19:01	]C24:i1.JUDGE-2 has hit npc_metropolice in the left leg dealing 45 damage (CritChance was 0.92).
+[00:19:02	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 44 damage (CritChance was 0.92).
+[00:19:02	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 47 damage (CritChance was 0.92).
+[00:19:13	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:19:15	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 35 damage (CritChance was 0.92).
+[00:19:16	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 39 damage (CritChance was 0.92).
+[00:19:20	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 37 damage (CritChance was 0.92).
+[00:19:21	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 41 damage (CritChance was 0.92).
+[00:19:26	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:19:27	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 18 damage (CritChance was 1.01).
+[00:19:28	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 17 damage (CritChance was 1.01).
+[00:19:28	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left leg dealing 21 damage (CritChance was 1.01).
+[00:19:28	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 17 damage (CritChance was 1.01).
+[00:19:29	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 21 damage (CritChance was 1.01).
+[00:19:29	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 16 damage (CritChance was 1.01).
+[00:19:30	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 18 damage (CritChance was 1.01).
+[00:19:32	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 20 damage (CritChance was 1.01).
+[00:19:32	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 17 damage (CritChance was 1.01).
+[00:19:32	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 19 damage (CritChance was 1.01).
+[00:19:32	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 15 damage (CritChance was 1.01).
+[00:19:32	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 17 damage (CritChance was 1.01).
+[00:19:32	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the head dealing 27 damage (CritChance was 1.01).
+[00:19:32	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 18 damage (CritChance was 1.01).
+[00:19:32	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 22 damage (CritChance was 1.01).
+[00:19:32	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 18 damage (CritChance was 1.01).
+[00:19:37	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:19:45	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:19:47	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 2 damage (CritChance was 1.01).
+[00:19:47	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 2 damage (CritChance was 1.01).
+[00:19:47	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 1 damage (CritChance was 1.01).
+[00:19:47	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 3 damage (CritChance was 1.01).
+[00:19:47	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 2 damage (CritChance was 1.01).
+[00:19:51	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:19:54	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the left arm dealing 3 damage (CritChance was 1.01).
+[00:19:55	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 1 damage (CritChance was 1.01).
+[00:19:56	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 2 damage (CritChance was 1.01).
+[00:19:56	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the right arm dealing 6 damage (CritChance was 1.01).
+[00:19:56	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the stomach dealing 6 damage (CritChance was 1.01).
+[00:19:56	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 6 damage (CritChance was 1.01).
+[00:19:56	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 7 damage (CritChance was 1.01).
+[00:19:57	]C24:i1.JUDGE-2 has critically hit npc_metropolice in the chest dealing 6 damage (CritChance was 1.01).
+[00:20:01	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:20:05	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:21:29	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:21:37	]C24:i1.JUDGE-2 has taken 74 damage from C24:i1.JUDGE-2.
+[00:21:49	]C24:i1.JUDGE-2 ran SAM command 'respawn' with arguments: 'JUDGE'
+[00:21:52	]C24:i1.JUDGE-2 has taken 74 damage from C24:i1.JUDGE-2.
+[00:21:54	]C24:i1.JUDGE-2 ran SAM command 'respawn' with arguments: 'JUDGE'
+[00:21:58	]C24:i1.JUDGE-2 is fully healed.
+[00:22:01	]C24:i1.JUDGE-2 has taken 0 damage from npc_grenade_frag.
+[00:22:01	]C24:i1.JUDGE-2 has taken 0 damage from npc_grenade_frag.
+[00:22:02	]C24:i1.JUDGE-2 has taken 0 damage from npc_grenade_frag.
+[00:22:03	]C24:i1.JUDGE-2 has taken 0 damage from npc_grenade_frag.
+[00:22:04	]C24:i1.JUDGE-2 has taken 0 damage from npc_grenade_frag.
+[00:22:04	]C24:i1.JUDGE-2 has taken 0 damage from npc_grenade_frag.
+[00:22:05	]C24:i1.JUDGE-2 has taken 74 damage from npc_grenade_frag.
+[00:22:07	]C24:i1.JUDGE-2 ran SAM command 'respawn' with arguments: 'JUDGE'
+[00:22:26	]C24:i1.JUDGE-2 has taken 274 damage from C24:i1.JUDGE-2.
+[00:22:43	]C24:i1.JUDGE-2 is fully healed.
+[00:22:53	]C24:i1.JUDGE-2 has taken 276 damage from C24:i1.JUDGE-2.
+[00:23:00	]C24:i1.JUDGE-2 has taken 400 damage from C24:i1.JUDGE-2.
+[00:23:03	]C24:i1.JUDGE-2 was knocked unconscious and is bleeding out.
+[00:23:04	]C24:i1.JUDGE-2 ran SAM command 'respawn' with arguments: 'JUDGE'
+[00:23:07	]C24:i1.JUDGE-2 ran SAM command 'respawn' with arguments: 'JUDGE'
+[00:23:08	]C24:i1.JUDGE-2 is fully healed.
+[00:23:15	]C24:i1.JUDGE-2 ran SAM command 'respawn' with arguments: 'JUDGE'
+[00:23:28	]C24:i1.JUDGE-2 ran SAM command 'respawn' with arguments: 'JUDGE'
+[00:23:33	]C24:i1.JUDGE-2 ran SAM command 'respawn' with arguments: 'JUDGE'
+[00:24:08	]C24:i1.JUDGE-2 is fully healed.
+[00:24:18	]C24:i1.JUDGE-2 has taken 85 damage from worldspawn.
+[00:24:23	]C24:i1.JUDGE-2 is fully healed.
+[00:24:33	]C24:i1.JUDGE-2 ran SAM command 'respawn' with arguments: 'JUDGE'
+[00:25:08	]C24:i1.JUDGE-2 is fully healed.
+[00:25:08	]C24:i1.JUDGE-2 has taken 38 damage from worldspawn.
+[00:25:18	]C24:i1.JUDGE-2 is fully healed.
+[00:26:33	]C24:i1.JUDGE-2 is fully healed.
+[00:27:17	]C24:i1.JUDGE-2 has taken 40 damage from C24:i1.JUDGE-2.
+[00:27:17	]C24:i1.JUDGE-2 has taken 40 damage from C24:i1.JUDGE-2.
+[00:27:18	]C24:i1.JUDGE-2 is fully healed.
+[00:27:58	]C24:i1.JUDGE-2 is fully healed.
+[00:28:23	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:28:27	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:28:32	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:28:47	]C24:i1.JUDGE-2 used command '/ToggleRaise'.
+[00:29:33	]C24:i1.JUDGE-2 has spawned a 'NPC [404][npc_vj_hlr2_com_elite]'.
+[00:29:36	]C24:i1.JUDGE-2 has spawned a 'NPC [405][npc_vj_hlr2_com_elite]'.
+[00:29:59	]Taliazure (STEAM_0:1:67985352) has disconnected.
+[19:30:10	]Tony The Tiger has connected.
+[19:31:08	]Tony The Tiger loaded the character 'S10:SCN-1'
+[19:31:13	]S10:SCN-1 is fully healed.
+[19:32:09	][IC] S10:SCN-1: Engaging protection-team is noncohesive reinforcement teams, code three.
+[19:32:22	][IC] S10:SCN-1: Protection-team, lock down your location; sacrifice code.
+[19:33:13	]Tony The Tiger (STEAM_0:0:49210697) has disconnected.
+[22:53:23	]Mikey has connected.
+[22:54:03	]Mikey loaded the character 'C24:i5.XRAY-4'
+[22:54:08	]C24:i5.XRAY-4 is fully healed.
+[22:57:01	]Mikey (STEAM_0:1:112147538) has disconnected.

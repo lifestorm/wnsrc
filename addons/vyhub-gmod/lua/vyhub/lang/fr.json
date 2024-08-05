@@ -1,0 +1,63 @@
+{
+    "ply": {
+        "banned": "Le joueur <green>%s</green> a été <red>banni pendant %s</red>. Raison : <green>%s</green>",
+        "no_permissions": "Vous ne disposez pas de toutes les permissions requises.",
+        "banned_self": "Vous êtes banni de ce serveur",
+        "error_get": "Pourrait trouver un joueur. Veuillez réessayer.",
+        "group_changed": "Votre groupe a été changé par <green>%s</green>.",
+        "welcome": "Bienvenue sur le serveur, <green>%s</green>"
+    },
+    "warning": {
+        "user_warned": "<red>%s</red> a été averti par <green>%s</green>. Raison : <green>%s</green>",
+        "toggled_self": "L'état de l'un de vos avertissements a été modifié. Vérifiez vos avertissements avec !dashboard.",
+        "create_error": "Erreur lors de l'ajout d'un avertissement pour le joueur <green>%s</green> : <red>%s</red>",
+        "deleted": "Avertissement supprimé.",
+        "deleted_self": "L'un de vos avertissements a été supprimé. Vérifiez vos avertissements avec !dashboard.",
+        "toggled": "L'état d'avertissement a changé.",
+        "cmd_help": "<red>Joueur invalide !</red> Utilisation : <green>!warn <joueur> <raison></green>",
+        "received": "Vous avez reçu un avertissement de <green>%s</green> : <red>%s</red>"
+    },
+    "ban": {
+        "status_changed": "Le statut de bannissement de %s a été défini avec succès sur %s.",
+        "user_banned": "<red>%s</red> a été banni par <green>%s</green> pour <red>%s</red>. Raison : <green>%s</green>"
+    },
+    "rslots": {
+        "full": "Le serveur est plein",
+        "full_no_slot": "Le serveur est plein et vous n'avez pas accès à un créneau réservé",
+        "kick": "Un joueur avec un emplacement réservé connecté au serveur et vous avez été expulsé pour libérer de l'espace"
+    },
+    "dashboard": {
+        "select_user": "Veuillez sélectionner un utilisateur.",
+        "action_warn": "Avertir",
+        "action_ban": "Bannir"
+    },
+    "other": {
+        "active": "Actif",
+        "active_global": "Actif (Global)",
+        "inactive": "Inactif",
+        "disabled": "Désactivé",
+        "unbanned": "Débannir",
+        "id": "ID",
+        "reason": "Raison",
+        "dead": "Mort",
+        "ban_date": "Date de bannissement",
+        "unban": "Débannir",
+        "unban_date": "Date de débannissement",
+        "reban": "Rebannir",
+        "admin": "Administrateur",
+        "actions": "Actions",
+        "never": "Jamais",
+        "warnings": "Avertissements",
+        "date": "Date",
+        "ban": "Bannir",
+        "warn": "Avertir",
+        "bans": "Bannissements",
+        "minutes": "Minutes",
+        "unknown": "Inconnu",
+        "x_minutes": "%i Minutes",
+        "unban_url": "URL de débannissement",
+        "permanently": "Permanent",
+        "error_api": "Erreur lors de la communication avec l'API : %s",
+        "welcome": "Bienvenue"
+    }
+}

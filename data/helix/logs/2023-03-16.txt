@@ -1,0 +1,90 @@
+[12:20:34	]LegAz has connected.
+[12:21:07	]LegAz loaded the character 'C17:RCT.YELLO-27'
+[12:21:46	]C17:RCT.YELLO-27 used command '/PlyWhitelist C17 Admi'.
+[12:22:01	]LegAz created the character 'John Grob J,'
+[12:22:01	]LegAz loaded the character 'John Grob J,'
+[12:22:01	]John Grob J, has gained a '#54981's Identity Card' #1649918.
+[12:22:01	]John Grob J, has gained a 'Combine PDA' #1649919.
+[12:22:10	]John Grob J, ran 'Equip' on item 'Combine PDA' (#1649919)
+[12:22:59	]LegAz (STEAM_0:1:60026194) has disconnected.
+[12:30:53	]Atle has connected.
+[12:31:34	]Atle loaded the character 'Beatrice Olmgurt Bulmer'
+[12:31:39	]Beatrice Olmgurt Bulmer is fully healed.
+[12:32:31	]Atle (STEAM_0:0:21027108) has disconnected.
+[18:32:09	]Votton has connected.
+[18:33:42	]Votton loaded the character 'Votton'
+[18:33:47	]Votton is fully healed.
+[18:34:16	]Votton used command '/CreateCustomItem'.
+[18:34:34	]Votton has gained a 'Test item, delete this' #1649920.
+[18:35:17	]Votton has spawned a custom_test_item_delete_this.
+[18:35:23	]Votton has given himself a custom_test_item_delete_this.
+[18:35:23	]Votton has gained a 'Test item, delete this' #1649922.
+[18:35:23	]Votton has spawned a custom_test_item_delete_this.
+[18:35:24	]Votton ran 'take' on item 'Test item, delete this' (#1649923)
+[18:35:24	]Votton has gained a 'Test item, delete this' #1649923.
+[18:35:30	]Votton ran 'take' on item 'Test item, delete this' (#1649921)
+[18:35:30	]Votton has gained a 'Test item, delete this' #1649921.
+[18:35:31	]Votton has spawned a custom_test_item_delete_this.
+[18:39:57	]Votton used command '/CreateCustomItem'.
+[18:40:25	]Votton used command '/CreateCustomItem'.
+[18:40:36	]Votton has gained a 'An Item' #1649925.
+[18:40:44	]Votton has spawned a custom_item_221312.
+[18:40:46	]Votton ran 'take' on item 'An Item' (#1649926)
+[18:40:46	]Votton has gained a 'An Item' #1649926.
+[18:43:06	]Votton used command '/MapRestart 1'.
+[19:06:49	]Votton has connected.
+[19:08:15	]Votton loaded the character 'Votton'
+[19:08:20	]Votton is fully healed.
+[19:09:29	]Votton has spawned a custom_item_221312.
+[19:09:30	]Votton has spawned a custom_item_221312.
+[19:14:21	]Votton has connected.
+[19:15:46	]Votton loaded the character 'Votton'
+[19:15:51	]Votton is fully healed.
+[19:16:02	]Votton (STEAM_0:1:46230933) has disconnected.
+[19:21:21	]Votton has connected.
+[19:22:42	]Votton loaded the character 'Votton'
+[19:22:47	]Votton is fully healed.
+[19:23:00	]Votton has added static text: Teassa
+[19:23:00	]Votton used command '/SceneText Teassa'.
+[19:23:02	]Votton used command '/SceneText Teassa'.
+[19:23:03	]Votton used command '/SceneText Teassa'.
+[19:23:08	]Votton has added static text: Teassa
+[19:23:08	]Votton used command '/SceneText Teassa'.
+[19:23:13	]Votton has added static text: Teassa
+[19:23:13	]Votton used command '/SceneText Teassa'.
+[19:23:17	]Votton used command '/SceneText Teassa'.
+[19:23:19	]Votton has added static text: Teassa
+[19:23:19	]Votton used command '/SceneText Teassa'.
+[19:23:23	]Votton used command '/SceneText Teassa'.
+[19:23:24	]Votton used command '/SceneText Teassa'.
+[19:23:26	]Votton has added static text: Teassa
+[19:23:26	]Votton used command '/SceneText Teassa'.
+[19:23:37	]Votton has added static text: Teassa
+[19:23:37	]Votton used command '/SceneText Teassa'.
+[19:23:50	]Votton has added static text: Teassa
+[19:23:50	]Votton used command '/SceneText Teassa'.
+[19:23:53	]Votton used command '/SceneText Teassa'.
+[19:23:56	]Votton has added static text: Teassa
+[19:23:56	]Votton used command '/SceneText Teassa'.
+[19:24:09	]Votton has added static text: Teassa
+[19:24:09	]Votton used command '/SceneText Teassa'.
+[19:24:13	]Votton used command '/SceneText Teassa'.
+[19:24:16	]Votton has added static text: Teassa
+[19:24:16	]Votton used command '/SceneText Teassa'.
+[19:24:17	]Votton ran SAM command 'menu' with arguments: ''
+[19:24:49	]Votton ran SAM command 'map' with arguments: 'gm_construct' ''
+[19:27:24	]Votton has connected.
+[19:28:11	]Votton loaded the character 'Votton'
+[19:28:16	]Votton is fully healed.
+[19:28:22	]Votton has added static text: dsaasdda
+[19:28:22	]Votton used command '/SceneText dsaasdda'.
+[19:28:25	]Votton used command '/SceneText dsaasdda'.
+[19:28:26	]Votton used command '/SceneText dsaasdda'.
+[19:28:28	]Votton has added static text: dsaasdda
+[19:28:28	]Votton used command '/SceneText dsaasdda'.
+[19:28:34	]Votton has added static text: dsaasdda
+[19:28:34	]Votton used command '/SceneText dsaasdda'.
+[19:29:02	]Votton has added static text: dsaasdda
+[19:29:02	]Votton used command '/SceneText dsaasdda'.
+[19:29:06	]Votton (STEAM_0:1:46230933) has disconnected.
+[22:25:25	][HOUSING] 52946 did not make an automatic payment, checking non-auto-payments before removing from housing ID: 8.

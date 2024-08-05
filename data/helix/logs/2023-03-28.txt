@@ -1,0 +1,89 @@
+[13:48:56	]Rabithunter has connected.
+[13:49:54	]Rabithunter loaded the character 'Jody Mayflower'
+[13:50:30	]Jody Mayflower used command '/Staff tie me up!'.
+[13:50:35	]Jody Mayflower used command '/Staff WHOOP WHOOP!'.
+[13:52:29	]Jody Mayflower used command '/ShowEdicts'.
+[14:00:09	]Votton has connected.
+[14:00:25	]Jody Mayflower has spawned a 'Vehicle [436][prop_vehicle_airboat]'.
+[14:00:49	]Jody Mayflower is fully healed.
+[14:00:57	]Jody Mayflower has spawned a 'Vehicle [436][prop_vehicle_jeep_old]'.
+[14:01:18	]Jody Mayflower has taken 10 damage from Jody Mayflower.
+[14:01:24	]Jody Mayflower has taken 10 damage from Jody Mayflower.
+[14:01:30	]Votton loaded the character 'Votton'
+[14:01:35	]Votton is fully healed.
+[14:01:41	]Votton entered observer.
+[14:01:45	][IC] Votton: To Jody.
+[14:01:47	]Jody Mayflower has taken 5 damage from Jody Mayflower.
+[14:01:48	]Votton ran SAM command 'goto' with arguments: 'Jody'
+[14:01:50	]Votton exited observer.
+[14:01:51	]Votton entered observer.
+[14:01:51	]Votton exited observer.
+[14:01:52	]Jody Mayflower has taken 10 damage from Jody Mayflower.
+[14:02:02	]Votton ran SAM command 'goto' with arguments: 'Jody'
+[14:02:05	]Jody Mayflower used command '/Staff lmao'.
+[14:02:11	]Votton has spawned a wn_zip_tie.
+[14:02:13	]Votton ran 'take' on item 'Zip Tie' (#1650061)
+[14:02:13	]Votton has gained a 'Zip Tie' #1650061.
+[14:02:22	]Votton ran 'Use' on item 'Zip Tie' (#1650061)
+[14:02:32	][LOOC] Votton: Walk a bit 
+[14:02:37	][LOOC] Votton: Looks like tying up still works
+[14:02:44	][IC] Jody Mayflower: Aye its very slow though.
+[14:02:49	][LOOC] Votton: now need to try disconnecting and joining back
+[14:02:53	][LOOC] Votton: While still being tied
+[14:02:56	]Rabithunter (STEAM_0:1:22394854) has disconnected.
+[14:05:36	]Rabithunter has connected.
+[14:06:28	]Rabithunter loaded the character 'Jody Mayflower'
+[14:06:31	]Votton entered observer.
+[14:06:31	]Votton exited observer at their location.
+[14:06:45	][LOOC] Votton: Interesting
+[14:06:49	][LOOC] Jody Mayflower: I am restrained with a phys and tool gun
+[14:07:06	][LOOC] Votton: Do you remember if it was like that before?
+[14:07:12	][LOOC] Votton: Or you ever tested
+[14:07:14	][IC] Jody Mayflower: I dont believe it was.
+[14:07:23	][IC] Jody Mayflower: Not certain on that though.
+[14:07:37	]Jody Mayflower used command '/PrintStaffList'.
+[14:07:44	][LOOC] Votton: Let me look at this code quick
+[14:07:49	][LOOC] Jody Mayflower: np
+[14:10:02	][LOOC] Votton: Let me untie you
+[14:10:13	][LOOC] Votton: How was that done lmao
+[14:10:22	][LOOC] Votton: Ah there we go
+[14:10:39	][LOOC] Votton: your speed probably gets fucked though
+[14:10:50	][LOOC] Votton: Yeah that is a worry for later I suppose
+[14:10:58	][IC] Jody Mayflower: Aye its an issue.
+[14:11:02	][LOOC] Votton: I suppose we'll just get this fix in anyways and try look at the speed next
+[14:11:04	][IC] Jody Mayflower: As it breaks the character.
+[14:11:15	][IC] Jody Mayflower: If I reload now I will be tied again.
+[14:11:16	][LOOC] Votton: Players do not disconnect typically either way when ziptied
+[14:11:25	][IC] Jody Mayflower: Cannot help a crash though.
+[14:11:27	][LOOC] Votton: Oh?
+[14:11:36	][IC] Jody Mayflower: Lemme reload this char.
+[14:11:42	]Rabithunter loaded the character 'Pathfinder'
+[14:11:46	]Pathfinder is fully healed.
+[14:11:53	]Rabithunter loaded the character 'Jody Mayflower'
+[14:12:04	][LOOC] Votton: Might be fine?
+[14:12:08	][IC] Jody Mayflower: Ok thats a fix fixed.
+[14:12:15	][LOOC] Votton: So two fixes on one go then
+[14:12:20	][IC] Jody Mayflower: Walking normal again too.
+[14:12:30	][LOOC] Votton: I'll look at the speed problem next but at least you don't break now
+[14:12:34	][LOOC] Votton: Also no LUA errors
+[14:12:39	][IC] Jody Mayflower: Epic!
+[14:12:44	][IC] Jody Mayflower: All good then.
+[14:12:54	][IC] Jody Mayflower: Whilst you're here....
+[14:13:03	][IC] Jody Mayflower: I noticed you are working on the scenetext issue.
+[14:13:09	][IC] Jody Mayflower: Any luck with it?
+[14:13:37	][IC] Votton: It should be fixed now I think?
+[14:13:45	][IC] Votton: I added a extra map check when you add a new scenetext.
+[14:13:52	][IC] Jody Mayflower: Ahh ok.
+[14:14:00	][IC] Jody Mayflower: I'll get the player to try it when I see them next.
+[14:14:04	][IC] Votton: Sounds good.
+[14:14:11	][IC] Votton: I couldn't reproduce the same problem after fixing it at least.
+[14:14:16	][IC] Votton: So should hopefully work now as intended.
+[14:14:21	][IC] Jody Mayflower: Epic.
+[14:14:26	][IC] Jody Mayflower: Need me for anything more?
+[14:14:30	][IC] Votton: That's it for now.
+[14:14:33	][IC] Votton: Appreciate you helping out.
+[14:14:39	][IC] Jody Mayflower: Aye you're welcome.
+[14:14:48	][IC] Jody Mayflower: Chow for now!
+[14:14:51	][IC] Votton: See ya.
+[14:14:53	]Rabithunter (STEAM_0:1:22394854) has disconnected.
+[14:14:54	]Votton (STEAM_0:1:46230933) has disconnected.

@@ -1,0 +1,11 @@
+
+$lod 4
+{
+	replacemodel "ar2_grenade_reference.smd" "ar2_grenade_reference_lod1.smd"
+	nofacial
+}
+$shadowlod
+{
+	replacemodel "ar2_grenade_reference.smd" "ar2_grenade_reference_lod2.smd"
+	nofacial
+}

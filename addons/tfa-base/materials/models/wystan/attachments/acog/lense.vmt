@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	$baseTexture  "models\wystan\attachment2\acog\lense"
+	// $additive  "1"
+}

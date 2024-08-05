@@ -1,0 +1,82 @@
+[00:48:08	]Tony The Tiger has connected.
+[00:49:18	]Tony The Tiger loaded the character 'S10:SCN-1'
+[00:53:34	][IC] S10:SCN-1: Attention, please: All citizens in local residential block, assume your inspection-positions.
+[00:53:56	][IC] S10:SCN-1: Individual, you are convicted of multi-anti-civil violations. Implicit citizenship revoked. Status, MALIGNANT.
+[00:54:10	]S10:SCN-1 used command '/D NONSTANDARD EXOGEN'.
+[00:54:14	]S10:SCN-1 used command '/Dispatch NONSTANDARD EXOGEN'.
+[00:54:30	]S10:SCN-1 used command '/I Test'.
+[00:54:35	][ARA] S10:SCN-1: test
+[00:54:41	][IMP] S10:SCN-1: agh
+[00:54:59	][XEN] S10:SCN-1: aaa
+[00:55:21	]S10:SCN-1 used command '/Radio NONSTANDARD EXOGEN'.
+[00:55:50	]S10:SCN-1 used command '/SC tac-3'.
+[00:55:52	]S10:SCN-1 used command '/Radio ACCOMPLICES'.
+[00:55:58	]S10:SCN-1 used command '/I ACCOMPLICES'.
+[00:56:22	]S10:SCN-1 used command '/I MARGINAL'.
+[00:56:48	]S10:SCN-1 used command '/SetOwnName'.
+[00:57:25	][INC] S10:SCN-1: test
+[00:58:18	]S10:SCN-1 used command '/VisorStatus unrest'.
+[00:58:27	]S10:SCN-1 used command '/VisorStatus totalr'.
+[00:58:36	]S10:SCN-1 used command '/VisorStatus blue'.
+[00:58:39	]S10:SCN-1 used command '/VisorStatus yellow'.
+[00:58:41	]S10:SCN-1 used command '/VisorStatus red'.
+[00:58:44	]S10:SCN-1 used command '/VisorStatus black'.
+[00:58:51	]S10:SCN-1 used command '/VisorStatus red'.
+[00:59:04	]S10:SCN-1 used command '/Dispatch JUDGMENT WAIVER'.
+[00:59:45	]S10:SCN-1 used command '/VisorStatus unrest'.
+[00:59:49	]S10:SCN-1 used command '/Dispatch UNREST STRUCTURE'.
+[01:00:02	]S10:SCN-1 used command '/Dispatch UNREST PROCEDURE'.
+[01:00:40	][IC] S10:SCN-1: Attention; you have been charged with 69; possession of resources.
+[01:00:54	][IC] S10:SCN-1: Attention; you have been charged with 69; possession of resources you are judged guilty by civil-protection teams.
+[01:01:09	][IC] S10:SCN-1: Verdict.
+[01:01:11	][IC] S10:SCN-1: Verdict code.
+[01:01:13	][IC] S10:SCN-1: Immediate amputation.
+[01:01:26	][IC] S10:SCN-1: All units; verdict-code is immediate amputation.
+[01:01:40	][IC] S10:SCN-1: Verdict-code on suspect; immediate amputation.
+[01:01:47	][IC] S10:SCN-1: Verdict-code on suspect;.
+[01:02:15	][IC] S10:SCN-1: Attention 404; riot inprogress;.
+[01:02:19	][IC] S10:SCN-1: Attention 404; riot in-progress.
+[01:02:41	][IC] S10:SCN-1: Attention 404; riot inprogress;  in;  condemned zone 3.
+[01:02:51	][IC] S10:SCN-1: Attention 404; riot inprogress;  in;  CONDEMNED. 3.
+[01:03:08	]S10:SCN-1 used command '/PingVorts'.
+[01:03:25	]S10:SCN-1 used command '/PingVorts'.
+[01:03:55	]S10:SCN-1 used command '/PingVorts'.
+[01:04:18	]S10:SCN-1 used command '/Radio LOST BIOSIGNAL; judge; 3'.
+[01:04:33	]S10:SCN-1 used command '/Radio LOST BIOSIGNAL; jury; 61'.
+[01:04:40	]S10:SCN-1 used command '/Radio LOST BIOSIGNAL; jury; 6; 1'.
+[01:05:02	]S10:SCN-1 used command '/I LOST BIOSIGNAL; Jury; 6; 1; REMAINING CONTAIN'.
+[01:05:37	]S10:SCN-1 used command '/I DESERVICED; at ; Controlsection; 3'.
+[01:05:54	]S10:SCN-1 used command '/PingVorts'.
+[01:06:51	][IC] S10:SCN-1: Suspend.
+[01:07:14	][IC] S10:SCN-1: Report into command-point.
+[01:07:24	][IC] S10:SCN-1: All units, switch comm to TAC-3.
+[01:07:29	][IC] S10:SCN-1: All units, switch comm to TAC-5 and report into command-point.
+[01:07:47	]S10:SCN-1 used command '/PingVorts'.
+[01:07:58	][IC] S10:SCN-1: Stand by.
+[01:08:10	][IC] S10:SCN-1: Stand by.
+[01:08:12	][IC] S10:SCN-1: Stand by.
+[01:08:13	][IC] S10:SCN-1: Stand by.
+[01:08:15	][IC] S10:SCN-1: Stand by.
+[01:08:24	][IC] S10:SCN-1: Stand by.
+[01:08:32	][IC] S10:SCN-1: Stand by.
+[01:12:13	][IC] S10:SCN-1: Protection-teams, failure to identify local outbreak will force teams.
+[01:12:25	][IC] S10:SCN-1: Stabilization-team; failure to treat identified local outbreak will forsee recall and recycle.
+[01:12:42	][IC] S10:SCN-1: We are receiving conflicting data.
+[01:13:01	][IC] S10:SCN-1: Attention.
+[01:13:06	][IC] S10:SCN-1: Attention stabilization-team.
+[01:13:19	][IC] S10:SCN-1: Attention protection-team.
+[01:13:32	][IC] S10:SCN-1: Attention protection-team 1 rewarded;  5 sterilized credits.
+[01:13:39	][IC] S10:SCN-1: Sterilized credits.
+[01:13:46	][IC] S10:SCN-1: Protection-team.
+[01:13:55	]S10:SCN-1 used command '/PingVorts'.
+[01:14:01	]Tony The Tiger (STEAM_0:0:49210697) has disconnected.
+[16:13:03	]Atle has connected.
+[16:13:50	]Atle loaded the character 'Valenti Lombardo'
+[16:13:55	]Valenti Lombardo is fully healed.
+[16:16:33	]Atle (STEAM_0:0:21027108) has disconnected.
+[18:04:33	]Atle has connected.
+[18:05:20	]Atle loaded the character 'Valenti Lombardo'
+[18:05:25	]Valenti Lombardo is fully healed.
+[18:07:29	]Valenti Lombardo has given himself a wool_onyx.
+[18:07:29	]Valenti Lombardo has gained a 'Onyx Wool' #1649347.
+[18:07:37	]Atle (STEAM_0:0:21027108) has disconnected.

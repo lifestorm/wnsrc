@@ -1,0 +1,397 @@
+[22:15:33	]Robert has connected.
+[22:16:02	]Rabithunter has connected.
+[22:17:04	]Rabithunter loaded the character 'Jenifer Maesroe'
+[22:17:09	]Jenifer Maesroe is fully healed.
+[22:17:18	]Jenifer Maesroe entered observer.
+[22:17:28	]Jenifer Maesroe exited observer at their location.
+[22:17:39	]Jenifer Maesroe has spawned a cmrulock.
+[22:17:41	]Jenifer Maesroe ran 'take' on item 'CMRU Lock' (#1649561)
+[22:17:41	]Jenifer Maesroe has gained a 'CMRU Lock' #1649561.
+[22:17:43	]Jenifer Maesroe ran 'Place' on item 'CMRU Lock' (#1649561)
+[22:17:46	]Robert (STEAM_0:1:36030793) deleted character 'I am Data'
+[22:17:48	]Robert (STEAM_0:1:36030793) deleted character 'Eliso Abraham'
+[22:17:50	]Robert loaded the character 'C24:i1.TEST-51'
+[22:17:57	]C24:i1.TEST-51 entered observer.
+[22:17:59	]Jenifer Maesroe has given himself a cmru_card.
+[22:17:59	]Jenifer Maesroe has gained a 'CMRU Level 1 Access Keycard' #1649562.
+[22:18:00	]C24:i1.TEST-51 exited observer at their location.
+[22:18:01	]Jenifer Maesroe ran 'Bind' on item 'CMRU Level 1 Access Keycard' (#1649562)
+[22:18:05	][IC] C24:i1.TEST-51: <:: Bitch. ::>
+[22:18:09	][IC] Jenifer Maesroe: Asshole.
+[22:18:16	]C24:i1.TEST-51 has given himself a cmru_card.
+[22:18:16	]C24:i1.TEST-51 has gained a 'CMRU Level 1 Access Keycard' #1649563.
+[22:18:25	][IC] Jenifer Maesroe: I cannot change my cards level :'(.
+[22:18:29	][IC] C24:i1.TEST-51: <:: Good. ::>
+[22:18:30	]Jenifer Maesroe ran 'drop' on item 'CMRU Level 1 Access Keycard' (#1649562)
+[22:18:30	]Jenifer Maesroe has lost a 'CMRU Level 1 Access Keycard' #1649562.
+[22:18:32	]C24:i1.TEST-51 ran 'drop' on item 'CMRU Level 1 Access Keycard' (#1649563)
+[22:18:32	]C24:i1.TEST-51 has lost a 'CMRU Level 1 Access Keycard' #1649563.
+[22:18:34	][IC] C24:i1.TEST-51: <:: Test. ::>
+[22:18:37	]Jenifer Maesroe ran 'take' on item 'CMRU Level 1 Access Keycard' (#1649563)
+[22:18:37	]Jenifer Maesroe has gained a 'CMRU Level 1 Access Keycard' #1649563.
+[22:18:37	]C24:i1.TEST-51 ran 'take' on item 'CMRU Level 1 Access Keycard' (#1649562)
+[22:18:37	]C24:i1.TEST-51 has gained a 'CMRU Level 1 Access Keycard' #1649562.
+[22:18:39	]C24:i1.TEST-51 ran 'SetAccessLevel' on item 'CMRU Level 1 Access Keycard' (#1649562)
+[22:18:42	]Jenifer Maesroe ran 'Bind' on item 'CMRU Level 1 Access Keycard' (#1649563)
+[22:18:45	]Jenifer Maesroe ran 'drop' on item 'CMRU Level 1 Access Keycard' (#1649563)
+[22:18:45	]Jenifer Maesroe has lost a 'CMRU Level 1 Access Keycard' #1649563.
+[22:18:50	]C24:i1.TEST-51 ran 'drop' on item 'CMRU Level 2 Access Keycard' (#1649562)
+[22:18:50	]C24:i1.TEST-51 has lost a 'CMRU Level 2 Access Keycard' #1649562.
+[22:18:52	]C24:i1.TEST-51 has taken 5 damage from ix_item.
+[22:18:56	]Jenifer Maesroe ran 'take' on item 'CMRU Level 2 Access Keycard' (#1649562)
+[22:18:56	]Jenifer Maesroe has gained a 'CMRU Level 2 Access Keycard' #1649562.
+[22:18:59	]C24:i1.TEST-51 ran 'take' on item 'CMRU Level 1 Access Keycard' (#1649563)
+[22:18:59	]C24:i1.TEST-51 has gained a 'CMRU Level 1 Access Keycard' #1649563.
+[22:19:04	][IC] C24:i1.TEST-51: <:: Hmm. ::>
+[22:19:12	][IC] C24:i1.TEST-51: <:: Level 2 card opens level 3? ::>
+[22:19:15	][IC] C24:i1.TEST-51: <:: Guh. ::>
+[22:19:22	][IC] Jenifer Maesroe: And 4.
+[22:19:25	][IC] Jenifer Maesroe: Lol.
+[22:19:34	][IC] C24:i1.TEST-51: <:: Shit! ::>
+[22:19:38	][IC] Jenifer Maesroe: Oh no.
+[22:19:42	][IC] Jenifer Maesroe: Uh oh!
+[22:19:55	][IC] Jenifer Maesroe: Behind you!
+[22:20:03	][LOOC] C24:i1.TEST-51: Will check as to why-
+[22:20:10	][IC] Jenifer Maesroe: You lead the way!
+[22:20:10	]C24:i1.TEST-51 entered observer.
+[22:20:10	]C24:i1.TEST-51 exited observer at their location.
+[22:20:22	]Jenifer Maesroe has used a context menu option with the name: rb655_door_open
+[22:20:25	]Jenifer Maesroe has pressed the "RDC_RationAnnouncement" map button.
+[22:20:30	]Robert created the character 'Shitizen'
+[22:20:31	]Robert loaded the character 'Shitizen'
+[22:20:31	]Shitizen has gained a 'Suitcase' #1649564.
+[22:20:31	]Shitizen has gained a '#62052's Identity Card' #1649565.
+[22:20:34	]Jenifer Maesroe has acquired his ration, gaining 0 credits, 35 wages and a loyalist_ration ration.
+[22:20:37	]Shitizen entered observer.
+[22:20:38	][IC] Jenifer Maesroe: Cheer.
+[22:20:41	][IC] Jenifer Maesroe: *Cheering!*.
+[22:20:43	]Shitizen exited observer at their location.
+[22:20:47	]Jenifer Maesroe ran 'take' on item 'Loyalist Ration' (#1649566)
+[22:20:47	]Jenifer Maesroe has gained a 'Loyalist Ration' #1649566.
+[22:20:51	][IC] Shitizen: This is bullshit!
+[22:20:58	]Shitizen has given himself a cmru_card.
+[22:20:58	]Shitizen has gained a 'CMRU Level 1 Access Keycard' #1649567.
+[22:21:00	]Shitizen ran 'Bind' on item 'CMRU Level 1 Access Keycard' (#1649567)
+[22:21:10	][LOOC] Shitizen: Access card 1 works
+[22:21:17	][IC] Jenifer Maesroe: Two doesnt.
+[22:21:27	]Jenifer Maesroe has spawned a pda.
+[22:21:29	]Jenifer Maesroe ran 'take' on item 'Combine PDA' (#1649568)
+[22:21:29	]Jenifer Maesroe has gained a 'Combine PDA' #1649568.
+[22:21:30	][IC] Shitizen: Give 2.
+[22:21:36	]Jenifer Maesroe ran 'drop' on item 'CMRU Level 2 Access Keycard' (#1649562)
+[22:21:36	]Jenifer Maesroe has lost a 'CMRU Level 2 Access Keycard' #1649562.
+[22:21:37	]Shitizen ran 'drop' on item 'CMRU Level 1 Access Keycard' (#1649567)
+[22:21:37	]Shitizen has lost a 'CMRU Level 1 Access Keycard' #1649567.
+[22:21:40	]Shitizen has used a context menu option with the name: rb655_dissolve
+[22:21:42	]env_entity_dissolver destroyed a 'CMRU Level 1 Access Keycard' #1649567.
+[22:21:42	]Shitizen ran 'take' on item 'CMRU Level 2 Access Keycard' (#1649562)
+[22:21:42	]Shitizen has gained a 'CMRU Level 2 Access Keycard' #1649562.
+[22:21:49	][IC] Jenifer Maesroe: Not my ID card.
+[22:21:54	]Shitizen ran 'drop' on item 'CMRU Level 2 Access Keycard' (#1649562)
+[22:21:54	]Shitizen has lost a 'CMRU Level 2 Access Keycard' #1649562.
+[22:21:56	][LOOC] Shitizen: Ah.
+[22:22:00	][IC] Jenifer Maesroe: Oh wait.
+[22:22:01	][LOOC] Shitizen: Need a new cp
+[22:22:07	][IC] Jenifer Maesroe: I have a combine card DUH.
+[22:22:12	]Jenifer Maesroe ran 'drop' on item 'Combine Card' (#1433559)
+[22:22:12	]Jenifer Maesroe has lost a 'Combine Card' #1433559.
+[22:22:15	]Jenifer Maesroe ran 'take' on item 'CMRU Level 2 Access Keycard' (#1649562)
+[22:22:15	]Jenifer Maesroe has gained a 'CMRU Level 2 Access Keycard' #1649562.
+[22:22:23	][IC] Jenifer Maesroe: Its working fine.
+[22:22:30	][LOOC] Shitizen: Lock set to 2
+[22:22:35	][IC] Jenifer Maesroe: Nope.
+[22:22:39	][IC] Shitizen: This is bullshit!
+[22:22:46	][IC] Jenifer Maesroe: Nor one.
+[22:23:07	][IC] Shitizen: GUh.
+[22:23:15	]Robert loaded the character 'C24:i1.TEST-51'
+[22:23:20	]Jenifer Maesroe used command '/PlaySound ambience/speech/ca_vaannouncements.ogg'.
+[22:23:24	][IC] C24:i1.TEST-51: <:: Give. ::>
+[22:23:27	]Jenifer Maesroe ran 'drop' on item 'CMRU Level 2 Access Keycard' (#1649562)
+[22:23:27	]Jenifer Maesroe has lost a 'CMRU Level 2 Access Keycard' #1649562.
+[22:23:30	]C24:i1.TEST-51 ran 'take' on item 'CMRU Level 2 Access Keycard' (#1649562)
+[22:23:30	]C24:i1.TEST-51 has gained a 'CMRU Level 2 Access Keycard' #1649562.
+[22:23:33	]C24:i1.TEST-51 ran 'SetAccessLevel' on item 'CMRU Level 2 Access Keycard' (#1649562)
+[22:23:34	]C24:i1.TEST-51 ran 'drop' on item 'CMRU Level 3 Access Keycard' (#1649562)
+[22:23:34	]C24:i1.TEST-51 has lost a 'CMRU Level 3 Access Keycard' #1649562.
+[22:23:38	]Jenifer Maesroe ran 'take' on item 'CMRU Level 3 Access Keycard' (#1649562)
+[22:23:38	]Jenifer Maesroe has gained a 'CMRU Level 3 Access Keycard' #1649562.
+[22:23:56	][LOOC] C24:i1.TEST-51: Wtf
+[22:23:59	][IC] Jenifer Maesroe: Nothing.
+[22:24:04	][IC] C24:i1.TEST-51: <:: Give again. ::>
+[22:24:07	]Jenifer Maesroe ran 'drop' on item 'CMRU Level 3 Access Keycard' (#1649562)
+[22:24:07	]Jenifer Maesroe has lost a 'CMRU Level 3 Access Keycard' #1649562.
+[22:24:09	]C24:i1.TEST-51 ran 'take' on item 'CMRU Level 3 Access Keycard' (#1649562)
+[22:24:09	]C24:i1.TEST-51 has gained a 'CMRU Level 3 Access Keycard' #1649562.
+[22:24:12	]C24:i1.TEST-51 ran 'SetAccessLevel' on item 'CMRU Level 3 Access Keycard' (#1649562)
+[22:24:13	]C24:i1.TEST-51 ran 'drop' on item 'CMRU Level 4 Access Keycard' (#1649562)
+[22:24:13	]C24:i1.TEST-51 has lost a 'CMRU Level 4 Access Keycard' #1649562.
+[22:24:16	]Jenifer Maesroe ran 'take' on item 'CMRU Level 4 Access Keycard' (#1649562)
+[22:24:16	]Jenifer Maesroe has gained a 'CMRU Level 4 Access Keycard' #1649562.
+[22:24:20	][LOOC] C24:i1.TEST-51: Hopefully L4 works at least
+[22:24:22	][LOOC] C24:i1.TEST-51: Or not
+[22:24:31	][LOOC] C24:i1.TEST-51: die
+[22:24:32	][IC] Jenifer Maesroe: Nada.
+[22:24:35	]Jenifer Maesroe ran 'drop' on item 'CMRU Level 4 Access Keycard' (#1649562)
+[22:24:35	]Jenifer Maesroe has lost a 'CMRU Level 4 Access Keycard' #1649562.
+[22:24:50	]Jenifer Maesroe ran 'take' on item 'Combine Card' (#1433559)
+[22:24:50	]Jenifer Maesroe has gained a 'Combine Card' #1433559.
+[22:25:32	]Jenifer Maesroe used command '/PlaySound ambience/speech/city_anthemshort_intro.ogg'.
+[22:26:20	][IC] C24:i1.TEST-51: <:: Well can disconnect and I can edit code until new fix found. ::>
+[22:26:22	][ME] C24:i1.TEST-51: dies
+[22:26:26	]C24:i1.TEST-51 used command '/CharFallOver 1'.
+[22:26:29	]C24:i1.TEST-51 used command '/CharFallOver 1'.
+[22:26:29	][IC] Jenifer Maesroe: Welp...
+[22:26:30	]C24:i1.TEST-51 used command '/CharFallOver 10'.
+[22:26:32	]C24:i1.TEST-51 used command '/CharGetUp'.
+[22:26:37	][IC] Jenifer Maesroe: I gonna do some shenanigins.
+[22:26:46	]Robert (STEAM_0:1:36030793) has disconnected.
+[22:26:46	]Jenifer Maesroe entered observer.
+[22:26:54	]Jenifer Maesroe exited observer at their location.
+[22:27:05	]Jenifer Maesroe has used a context menu option with the name: rb655_door_open
+[22:27:34	]Rabithunter loaded the character 'C17:RCT.YELLO-34'
+[22:27:50	][IC] C17:RCT.YELLO-34: <:: Haha. ::>
+[22:28:21	][IC] C17:RCT.YELLO-34: <:: Copy. ::>
+[22:28:43	][IC] C17:RCT.YELLO-34: <:: Hold it right there! ::>
+[22:29:08	]C17:RCT.YELLO-34 entered observer.
+[22:29:13	]C17:RCT.YELLO-34 exited observer at their location.
+[22:29:37	]C17:RCT.YELLO-34 entered observer.
+[22:30:27	]C17:RCT.YELLO-34 exited observer at their location.
+[22:30:53	][IC] C17:RCT.YELLO-34: <:: Nope. ::>
+[22:31:38	]C17:RCT.YELLO-34 entered observer.
+[22:31:53	]C17:RCT.YELLO-34 exited observer at their location.
+[22:31:56	]C17:RCT.YELLO-34 used command '/ActStand 4'.
+[22:32:30	]Rabithunter (STEAM_0:1:22394854) has disconnected.
+[22:56:26	]Robert has connected.
+[22:58:13	]Robert loaded the character 'C24:i1.TEST-51'
+[22:58:21	]C24:i1.TEST-51 entered observer.
+[22:58:23	]C24:i1.TEST-51 exited observer at their location.
+[22:58:31	]C24:i1.TEST-51 ran 'SetAccessLevel' on item 'CMRU Level 1 Access Keycard' (#1649563)
+[22:58:32	]C24:i1.TEST-51 ran 'SetAccessLevel' on item 'CMRU Level 2 Access Keycard' (#1649563)
+[22:58:33	]C24:i1.TEST-51 ran 'SetAccessLevel' on item 'CMRU Level 3 Access Keycard' (#1649563)
+[22:58:34	]C24:i1.TEST-51 ran 'SetAccessLevel' on item 'CMRU Level 4 Access Keycard' (#1649563)
+[22:58:38	]C24:i1.TEST-51 ran 'SetAccessLevel' on item 'CMRU Level 1 Access Keycard' (#1649563)
+[22:58:39	]C24:i1.TEST-51 ran 'SetAccessLevel' on item 'CMRU Level 2 Access Keycard' (#1649563)
+[22:58:40	]C24:i1.TEST-51 ran 'SetAccessLevel' on item 'CMRU Level 3 Access Keycard' (#1649563)
+[22:58:41	]C24:i1.TEST-51 ran 'SetAccessLevel' on item 'CMRU Level 4 Access Keycard' (#1649563)
+[22:58:57	]C24:i1.TEST-51 has spawned a 'NPC [393][npc_vj_hlr1_aliengrunt]'.
+[22:58:58	]C24:i1.TEST-51 has spawned a 'NPC [393][npc_vj_hlr1_alienslave]'.
+[22:59:01	]C24:i1.TEST-51 has spawned a 'NPC [393][npc_vj_hlr1a_aliengrunt]'.
+[22:59:03	]C24:i1.TEST-51 has spawned a 'NPC [393][npc_vj_hlr1a_aliengrunt]'.
+[22:59:06	]C24:i1.TEST-51 has spawned a 'NPC [393][npc_vj_hlr1a_aliengrunt]'.
+[22:59:10	]C24:i1.TEST-51 has taken 5 damage from Alpha Alien Grunt.
+[22:59:10	]C24:i1.TEST-51 has taken 5 damage from Alpha Alien Grunt.
+[22:59:10	]C24:i1.TEST-51 has taken 5 damage from Alpha Alien Grunt.
+[22:59:11	]C24:i1.TEST-51 has taken 5 damage from Alpha Alien Grunt.
+[22:59:18	]C24:i1.TEST-51 has taken 5 damage from obj_vj_hlr1_hornet.
+[22:59:18	]C24:i1.TEST-51 has taken 5 damage from obj_vj_hlr1_hornet.
+[22:59:19	]C24:i1.TEST-51 has taken 5 damage from obj_vj_hlr1_hornet.
+[22:59:21	]C24:i1.TEST-51 has taken 5 damage from obj_vj_hlr1_hornet.
+[22:59:24	]C24:i1.TEST-51 has spawned a 'NPC [393][npc_vj_hlr1_aliengrunt]'.
+[22:59:27	]C24:i1.TEST-51 has taken 5 damage from obj_vj_hlr1_hornet.
+[22:59:27	]C24:i1.TEST-51 has taken 5 damage from obj_vj_hlr1_hornet.
+[22:59:27	]C24:i1.TEST-51 has taken 5 damage from obj_vj_hlr1_hornet.
+[22:59:33	]C24:i1.TEST-51 has spawned a 'NPC [393][npc_vj_hlr1a_hgrunt_serg]'.
+[22:59:36	]C24:i1.TEST-51 has taken 5 damage from Alpha Human Sergeant.
+[22:59:37	]C24:i1.TEST-51 has taken 1 damage from Alpha Human Sergeant.
+[22:59:38	]C24:i1.TEST-51 has taken 5 damage from Alpha Human Sergeant.
+[22:59:38	]C24:i1.TEST-51 has taken 1 damage from Alpha Human Sergeant.
+[22:59:41	]C24:i1.TEST-51 has taken 5 damage from Alpha Human Sergeant.
+[22:59:42	]C24:i1.TEST-51 has taken 1 damage from Alpha Human Sergeant.
+[22:59:42	]C24:i1.TEST-51 has taken 5 damage from Alpha Human Sergeant.
+[22:59:42	]C24:i1.TEST-51 has taken 1 damage from Alpha Human Sergeant.
+[22:59:42	]C24:i1.TEST-51 has taken 1 damage from Alpha Human Sergeant.
+[22:59:43	]C24:i1.TEST-51 has taken 5 damage from Alpha Human Sergeant.
+[22:59:43	]C24:i1.TEST-51 has taken 5 damage from Alpha Human Sergeant.
+[22:59:44	]C24:i1.TEST-51 has taken 1 damage from Alpha Human Sergeant.
+[22:59:44	]C24:i1.TEST-51 has taken 1 damage from Alpha Human Sergeant.
+[22:59:44	]C24:i1.TEST-51 has taken 1 damage from Alpha Human Sergeant.
+[22:59:44	]C24:i1.TEST-51 has taken 5 damage from Alpha Human Sergeant.
+[22:59:45	]C24:i1.TEST-51 has taken 1 damage from Alpha Human Sergeant.
+[22:59:45	]C24:i1.TEST-51 has taken 5 damage from Alpha Human Sergeant.
+[22:59:46	]C24:i1.TEST-51 has taken 1 damage from Alpha Human Sergeant.
+[22:59:48	]C24:i1.TEST-51 has taken 1 damage from Alpha Human Sergeant.
+[22:59:49	]C24:i1.TEST-51 has taken 1 damage from Alpha Human Sergeant.
+[22:59:50	]C24:i1.TEST-51 has taken 1 damage from Alpha Human Sergeant.
+[22:59:57	]C24:i1.TEST-51 has taken 1 damage from Alpha Human Sergeant.
+[23:00:07	]C24:i1.TEST-51 has spawned a 'Entity [393][item_healthkit]'.
+[23:00:08	]C24:i1.TEST-51 has spawned a 'Entity [394][item_healthkit]'.
+[23:00:08	]C24:i1.TEST-51 has spawned a 'Entity [393][item_healthkit]'.
+[23:00:10	]C24:i1.TEST-51 has spawned a 'Entity [393][item_healthvial]'.
+[23:00:13	]C24:i1.TEST-51 has spawned a 'Entity [393][item_battery]'.
+[23:00:13	]C24:i1.TEST-51 is fully healed.
+[23:00:14	]C24:i1.TEST-51 has spawned a 'Entity [394][item_battery]'.
+[23:00:14	]C24:i1.TEST-51 has spawned a 'Entity [393][item_battery]'.
+[23:00:16	]C24:i1.TEST-51 has spawned a 'Entity [393][item_battery]'.
+[23:00:16	]C24:i1.TEST-51 has spawned a 'Entity [394][item_battery]'.
+[23:00:17	]C24:i1.TEST-51 has spawned a 'Entity [393][item_battery]'.
+[23:00:18	]C24:i1.TEST-51 has spawned a 'Entity [394][item_battery]'.
+[23:00:18	]C24:i1.TEST-51 has spawned a 'Entity [393][item_battery]'.
+[23:00:25	]C24:i1.TEST-51 has spawned 'models/props_c17/FurnitureCupboard001a.mdl'.
+[23:00:30	]C24:i1.TEST-51 has spawned 'models/props_c17/FurnitureCupboard001a.mdl'.
+[23:00:31	]C24:i1.TEST-51 has spawned 'models/props_c17/FurnitureCupboard001a.mdl'.
+[23:00:34	]C24:i1.TEST-51 has spawned 'models/props_c17/FurnitureDrawer001a.mdl'.
+[23:00:37	]C24:i1.TEST-51 has spawned 'models/props_c17/FurnitureDrawer001a.mdl'.
+[23:01:22	]Rabithunter has connected.
+[23:02:16	]Rabithunter loaded the character 'Jenifer Maesroe'
+[23:02:21	]Jenifer Maesroe is fully healed.
+[23:02:26	]Jenifer Maesroe entered observer.
+[23:02:38	]Jenifer Maesroe exited observer at their location.
+[23:02:47	]Jenifer Maesroe ran 'drop' on item 'Combine Card' (#1433559)
+[23:02:47	]Jenifer Maesroe has lost a 'Combine Card' #1433559.
+[23:02:58	][IC] Jenifer Maesroe: Hi.
+[23:03:02	][IC] Jenifer Maesroe: *Cheering!*.
+[23:03:03	][IC] C24:i1.TEST-51: <:: Guh. ::>
+[23:03:08	][IC] C24:i1.TEST-51: <:: Test lock. ::>
+[23:03:09	]Jenifer Maesroe ran 'take' on item 'CMRU Level 4 Access Keycard' (#1649562)
+[23:03:09	]Jenifer Maesroe has gained a 'CMRU Level 4 Access Keycard' #1649562.
+[23:03:17	][IC] C24:i1.TEST-51: <:: That level 4 card yes. ::>
+[23:03:22	]Jenifer Maesroe ran 'drop' on item 'CMRU Level 4 Access Keycard' (#1649562)
+[23:03:22	]Jenifer Maesroe has lost a 'CMRU Level 4 Access Keycard' #1649562.
+[23:03:26	]C24:i1.TEST-51 ran 'take' on item 'CMRU Level 4 Access Keycard' (#1649562)
+[23:03:26	]C24:i1.TEST-51 has gained a 'CMRU Level 4 Access Keycard' #1649562.
+[23:03:29	]C24:i1.TEST-51 ran 'SetAccessLevel' on item 'CMRU Level 4 Access Keycard' (#1649562)
+[23:03:31	]C24:i1.TEST-51 ran 'drop' on item 'CMRU Level 1 Access Keycard' (#1649562)
+[23:03:31	]C24:i1.TEST-51 has lost a 'CMRU Level 1 Access Keycard' #1649562.
+[23:03:34	]Jenifer Maesroe ran 'take' on item 'CMRU Level 1 Access Keycard' (#1649562)
+[23:03:34	]Jenifer Maesroe has gained a 'CMRU Level 1 Access Keycard' #1649562.
+[23:03:48	][IC] Jenifer Maesroe: Working!
+[23:03:57	][IC] C24:i1.TEST-51: <:: Yes, now level 2. ::>
+[23:04:00	]Jenifer Maesroe ran 'drop' on item 'CMRU Level 1 Access Keycard' (#1649562)
+[23:04:00	]Jenifer Maesroe has lost a 'CMRU Level 1 Access Keycard' #1649562.
+[23:04:02	]C24:i1.TEST-51 ran 'take' on item 'CMRU Level 1 Access Keycard' (#1649562)
+[23:04:02	]C24:i1.TEST-51 has gained a 'CMRU Level 1 Access Keycard' #1649562.
+[23:04:08	]C24:i1.TEST-51 ran 'SetAccessLevel' on item 'CMRU Level 1 Access Keycard' (#1649562)
+[23:04:08	]C24:i1.TEST-51 ran 'drop' on item 'CMRU Level 2 Access Keycard' (#1649562)
+[23:04:08	]C24:i1.TEST-51 has lost a 'CMRU Level 2 Access Keycard' #1649562.
+[23:04:11	]Jenifer Maesroe ran 'take' on item 'CMRU Level 2 Access Keycard' (#1649562)
+[23:04:11	]Jenifer Maesroe has gained a 'CMRU Level 2 Access Keycard' #1649562.
+[23:04:24	][IC] Jenifer Maesroe: I can change level 3.
+[23:04:28	][IC] C24:i1.TEST-51: <:: Guh. ::>
+[23:04:30	][ME] C24:i1.TEST-51: dies
+[23:04:33	][IC] Jenifer Maesroe: And 4.
+[23:04:36	]Jenifer Maesroe ran 'drop' on item 'CMRU Level 2 Access Keycard' (#1649562)
+[23:04:36	]Jenifer Maesroe has lost a 'CMRU Level 2 Access Keycard' #1649562.
+[23:04:48	][IC] C24:i1.TEST-51: <:: Ah, I forgot to add a check for card level to lock level. ::>
+[23:04:51	]C24:i1.TEST-51 ran 'take' on item 'CMRU Level 2 Access Keycard' (#1649562)
+[23:04:51	]C24:i1.TEST-51 has gained a 'CMRU Level 2 Access Keycard' #1649562.
+[23:04:59	]C24:i1.TEST-51 ran 'drop' on item 'CMRU Level 1 Access Keycard' (#1649563)
+[23:04:59	]C24:i1.TEST-51 has lost a 'CMRU Level 1 Access Keycard' #1649563.
+[23:05:02	]C24:i1.TEST-51 has used a context menu option with the name: rb655_dissolve
+[23:05:02	]Jenifer Maesroe ran 'take' on item 'CMRU Level 1 Access Keycard' (#1649563)
+[23:05:02	]Jenifer Maesroe has gained a 'CMRU Level 1 Access Keycard' #1649563.
+[23:05:18	]Jenifer Maesroe ran 'drop' on item 'CMRU Level 1 Access Keycard' (#1649563)
+[23:05:18	]Jenifer Maesroe has lost a 'CMRU Level 1 Access Keycard' #1649563.
+[23:05:23	]C24:i1.TEST-51 ran 'take' on item 'CMRU Level 1 Access Keycard' (#1649563)
+[23:05:23	]C24:i1.TEST-51 has gained a 'CMRU Level 1 Access Keycard' #1649563.
+[23:05:27	]C24:i1.TEST-51 ran 'SetAccessLevel' on item 'CMRU Level 2 Access Keycard' (#1649562)
+[23:05:28	]C24:i1.TEST-51 ran 'drop' on item 'CMRU Level 3 Access Keycard' (#1649562)
+[23:05:28	]C24:i1.TEST-51 has lost a 'CMRU Level 3 Access Keycard' #1649562.
+[23:05:32	]Jenifer Maesroe ran 'take' on item 'CMRU Level 3 Access Keycard' (#1649562)
+[23:05:32	]Jenifer Maesroe has gained a 'CMRU Level 3 Access Keycard' #1649562.
+[23:05:39	]Jenifer Maesroe ran 'drop' on item 'CMRU Level 3 Access Keycard' (#1649562)
+[23:05:39	]Jenifer Maesroe has lost a 'CMRU Level 3 Access Keycard' #1649562.
+[23:06:06	]Jenifer Maesroe has spawned a cca_devil.
+[23:06:08	]Jenifer Maesroe ran 'take' on item 'Devil's Advocate' (#1649569)
+[23:06:08	]Jenifer Maesroe has gained a 'Devil's Advocate' #1649569.
+[23:06:41	]C24:i1.TEST-51 ran 'drop' on item 'CMRU Level 1 Access Keycard' (#1649563)
+[23:06:41	]C24:i1.TEST-51 has lost a 'CMRU Level 1 Access Keycard' #1649563.
+[23:06:44	]C24:i1.TEST-51 has fired a toolgun with the name: remover
+[23:06:45	]C24:i1.TEST-51 has fired a toolgun with the name: remover
+[23:07:09	]C24:i1.TEST-51 used command '/clothingcreator'.
+[23:08:49	]Jenifer Maesroe has given himself a cca_presenter.
+[23:08:49	]Jenifer Maesroe has gained a 'Presenters Joy' #1649570.
+[23:09:28	]Jenifer Maesroe set ModelScalingOffset to '70'.
+[23:09:54	]Jenifer Maesroe set ModelScalingOffset to '35'.
+[23:09:59	]C24:i1.TEST-51 used command '/clothingcreator'.
+[23:10:05	]Jenifer Maesroe set ModelScalingOffset to '30'.
+[23:10:07	]Jenifer Maesroe set ModelScalingOffset to '54'.
+[23:10:09	]Jenifer Maesroe set ModelScalingOffset to '30'.
+[23:10:10	]Jenifer Maesroe set ModelScalingOffset to '68'.
+[23:10:11	]Jenifer Maesroe set ModelScalingOffset to '70'.
+[23:10:13	]Jenifer Maesroe set ModelScalingOffset to '61'.
+[23:10:13	]Jenifer Maesroe set ModelScalingOffset to '61'.
+[23:10:14	]Jenifer Maesroe set ModelScalingOffset to '59'.
+[23:10:15	]Jenifer Maesroe set ModelScalingOffset to '59'.
+[23:10:15	]Jenifer Maesroe set ModelScalingOffset to '59'.
+[23:10:16	]Jenifer Maesroe set ModelScalingOffset to '59'.
+[23:10:16	]Jenifer Maesroe set ModelScalingOffset to '58'.
+[23:10:29	]Jenifer Maesroe ran 'drop' on item 'Presenters Joy' (#1649570)
+[23:10:29	]Jenifer Maesroe has lost a 'Presenters Joy' #1649570.
+[23:10:32	]Jenifer Maesroe has used a context menu option with the name: rb655_dissolve
+[23:10:34	]env_entity_dissolver destroyed a 'Presenters Joy' #1649570.
+[23:10:54	]C24:i1.TEST-51 used command '/clothingcreator'.
+[23:10:56	]Jenifer Maesroe has given himself a cca_legs_authoritarian.
+[23:10:56	]Jenifer Maesroe has gained a 'The Authoritarian Trousers' #1649571.
+[23:11:13	]C24:i1.TEST-51 has spawned a cca_coat_heartwick.
+[23:11:15	]Jenifer Maesroe has spawned a cca_coat_authoritarian.
+[23:11:19	]C24:i1.TEST-51 has used a context menu option with the name: rb655_dissolve
+[23:11:21	]env_entity_dissolver destroyed a 'Heartwick's Trenchcoat' #1649572.
+[23:11:24	]Jenifer Maesroe ran 'take' on item 'Authoritarian's Coat' (#1649573)
+[23:11:24	]Jenifer Maesroe has gained a 'Authoritarian's Coat' #1649573.
+[23:11:33	]C24:i1.TEST-51 used command '/clothingcreator'.
+[23:12:12	]Jenifer Maesroe has given himself a cca_emir.
+[23:12:12	]Jenifer Maesroe has gained a 'The Emir' #1649574.
+[23:12:13	]Jenifer Maesroe has given himself a cca_executive.
+[23:12:13	]Jenifer Maesroe has gained a 'The Executive' #1649575.
+[23:16:14	]Jenifer Maesroe set runSpeed to '482'.
+[23:16:50	]Jenifer Maesroe set runSpeed to '500'.
+[23:17:19	][IC] Jenifer Maesroe: Hi.
+[23:17:56	]Jenifer Maesroe used command '/ActSit'.
+[23:18:28	]Jenifer Maesroe used command '/ExitAct'.
+[23:20:52	]Jenifer Maesroe ran 'take' on item 'Combine Card' (#1433559)
+[23:20:52	]Jenifer Maesroe has gained a 'Combine Card' #1433559.
+[23:21:07	]C24:i1.TEST-51 has gone afk.
+[23:21:15	]Jenifer Maesroe used command '/PlyTransfer jeni administration'.
+[23:21:18	]Jenifer Maesroe ran 'drop' on item 'Combine Card' (#1433559)
+[23:21:18	]Jenifer Maesroe has lost a 'Combine Card' #1433559.
+[23:21:34	]Jenifer Maesroe used command '/PlyTransfer jeni citizen'.
+[23:21:40	]Jenifer Maesroe ran 'take' on item 'Combine Card' (#1433559)
+[23:21:40	]Jenifer Maesroe has gained a 'Combine Card' #1433559.
+[23:21:47	]C24:i1.TEST-51 is no longer afk. Total time spent AFK: 335
+[23:21:58	]Jenifer Maesroe used command '/ActLean 2'.
+[23:22:45	]Jenifer Maesroe used command '/PlaySong https://www.youtube.com/watch?v=9DgFOsEs-kE 0'.
+[23:23:19	]Jenifer Maesroe used command '/ExitAct'.
+[23:23:30	]Jenifer Maesroe used command '/ActStand 4'.
+[23:30:17	]C24:i1.TEST-51 has gone afk.
+[23:40:37	]Rabithunter has connected.
+[23:41:42	]Rabithunter loaded the character 'Jenifer Maesroe'
+[23:41:43	]Robert has connected.
+[23:41:47	]Jenifer Maesroe is fully healed.
+[23:42:12	]Robert loaded the character 'C24:i1.TEST-51'
+[23:42:17	]C24:i1.TEST-51 is fully healed.
+[23:42:26	][IC] C24:i1.TEST-51: <:: Your suit was denied. ::>
+[23:42:30	][IC] Jenifer Maesroe: Fuck off.
+[23:42:30	][IC] C24:i1.TEST-51: <:: Rejected. ::>
+[23:42:33	][IC] C24:i1.TEST-51: <:: Bitch. ::>
+[23:42:33	][IC] Jenifer Maesroe: EUGH.
+[23:42:34	][IC] C24:i1.TEST-51: <:: Shit! ::>
+[23:42:36	][IC] Jenifer Maesroe: No.
+[23:42:39	][IC] Jenifer Maesroe: NooooO!
+[23:42:45	]Jenifer Maesroe ran 'drop' on item 'Combine Card' (#1433559)
+[23:42:45	]Jenifer Maesroe has lost a 'Combine Card' #1433559.
+[23:42:53	]Jenifer Maesroe ran 'drop' on item 'Devil's Advocate' (#1649569)
+[23:42:53	]Jenifer Maesroe has lost a 'Devil's Advocate' #1649569.
+[23:42:54	]Jenifer Maesroe ran 'drop' on item 'The Executive' (#1649575)
+[23:42:54	]Jenifer Maesroe has lost a 'The Executive' #1649575.
+[23:42:55	]Jenifer Maesroe ran 'drop' on item 'The Emir' (#1649574)
+[23:42:55	]Jenifer Maesroe has lost a 'The Emir' #1649574.
+[23:42:56	]Jenifer Maesroe ran 'drop' on item 'Authoritarian's Coat' (#1649573)
+[23:42:56	]Jenifer Maesroe has lost a 'Authoritarian's Coat' #1649573.
+[23:42:56	]Jenifer Maesroe ran 'drop' on item 'The Authoritarian Trousers' (#1649571)
+[23:42:56	]Jenifer Maesroe has lost a 'The Authoritarian Trousers' #1649571.
+[23:42:57	]C24:i1.TEST-51 has given himself a cmru_card.
+[23:42:57	]C24:i1.TEST-51 has gained a 'CMRU Level 1 Access Keycard' #1649576.
+[23:42:58	]Jenifer Maesroe has fired a toolgun with the name: remover
+[23:42:59	]Jenifer Maesroe has fired a toolgun with the name: remover
+[23:42:59	]Jenifer Maesroe has fired a toolgun with the name: remover
+[23:42:59	]Jenifer Maesroe has fired a toolgun with the name: remover
+[23:43:00	]Jenifer Maesroe has fired a toolgun with the name: remover
+[23:43:00	]Jenifer Maesroe has fired a toolgun with the name: remover
+[23:43:02	]C24:i1.TEST-51 ran 'drop' on item 'CMRU Level 1 Access Keycard' (#1649576)
+[23:43:02	]C24:i1.TEST-51 has lost a 'CMRU Level 1 Access Keycard' #1649576.
+[23:43:05	]Jenifer Maesroe ran 'take' on item 'CMRU Level 1 Access Keycard' (#1649576)
+[23:43:05	]Jenifer Maesroe has gained a 'CMRU Level 1 Access Keycard' #1649576.
+[23:43:31	]Jenifer Maesroe ran 'drop' on item 'CMRU Level 1 Access Keycard' (#1649576)
+[23:43:31	]Jenifer Maesroe has lost a 'CMRU Level 1 Access Keycard' #1649576.
+[23:43:56	]Robert (STEAM_0:1:36030793) has disconnected.
+[23:48:42	]Jenifer Maesroe has gone afk.

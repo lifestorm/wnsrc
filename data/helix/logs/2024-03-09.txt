@@ -1,0 +1,383 @@
+[00:01:57	]C24:OTAGUY.OTA-37 used command '/ExitAct'.
+[00:02:01	]C24:OTAGUY.OTA-37 is no longer afk. Total time spent AFK: 460
+[00:02:07	]Divine (STEAM_0:0:63629212) has disconnected.
+[13:42:19	]flerk has connected.
+[13:43:01	]flerk loaded the character 'Shlomo Peretz'
+[13:43:06	]Shlomo Peretz is fully healed.
+[13:43:10	]Shlomo Peretz entered observer.
+[13:43:11	]Shlomo Peretz exited observer at their location.
+[13:43:21	]Shlomo Peretz has spawned a rave.
+[13:43:25	]Shlomo Peretz ran 'take' on item 'RAVE' (#2690719)
+[13:43:25	]Shlomo Peretz has gained a 'RAVE' #2690719.
+[13:43:47	]Shlomo Peretz ran 'Consume' on item 'RAVE' (#2690719)
+[13:43:47	]Shlomo Peretz has gained a level 5 short boost in Strength.
+[13:45:02	]Shlomo Peretz used command '/ToggleRaise'.
+[13:45:52	]Shlomo Peretz entered observer.
+[13:46:14	]Shlomo Peretz exited observer at their location.
+[13:47:16	]Shlomo Peretz used command '/RemoveDrugEffects peretz'.
+[13:47:26	]Shlomo Peretz has spawned a drug_transhumano.
+[13:47:30	]Shlomo Peretz ran 'take' on item 'Transhumano' (#2690720)
+[13:47:30	]Shlomo Peretz has gained a 'Transhumano' #2690720.
+[13:47:46	]Shlomo Peretz ran 'use' on item 'Transhumano' (#2690720)
+[13:47:46	]Shlomo Peretz has gained a level 7 short boost in Strength.
+[13:47:46	]Shlomo Peretz has gained a level 7 short boost in Perception.
+[13:47:46	]Shlomo Peretz has gained a 'Plastic garbage' #2690721.
+[13:48:21	]Shlomo Peretz rolled 6 out of 20 (+4 from Strength).
+[13:48:21	]Shlomo Peretz used command '/Roll strength'.
+[13:48:22	]Shlomo Peretz rolled 5 out of 20 (+4 from Strength).
+[13:48:22	]Shlomo Peretz used command '/Roll strength'.
+[13:48:23	]Shlomo Peretz rolled 4 out of 20 (+4 from Strength).
+[13:48:23	]Shlomo Peretz used command '/Roll strength'.
+[13:48:25	]Shlomo Peretz rolled 13 out of 20 (+4 from Strength).
+[13:48:25	]Shlomo Peretz used command '/Roll strength'.
+[13:48:26	]Shlomo Peretz rolled 18 out of 20 (+4 from Strength).
+[13:48:26	]Shlomo Peretz used command '/Roll strength'.
+[13:48:28	]Shlomo Peretz rolled 5 out of 20 (+4 from Strength).
+[13:48:28	]Shlomo Peretz used command '/Roll strength'.
+[13:48:29	]Shlomo Peretz rolled 4 out of 20 (+4 from Strength).
+[13:48:29	]Shlomo Peretz used command '/Roll strength'.
+[13:48:30	]Shlomo Peretz rolled 18 out of 20 (+4 from Strength).
+[13:48:30	]Shlomo Peretz used command '/Roll strength'.
+[13:48:31	]Shlomo Peretz rolled 3 out of 20 (+4 from Strength).
+[13:48:31	]Shlomo Peretz used command '/Roll strength'.
+[13:48:32	]Shlomo Peretz rolled 17 out of 20 (+4 from Strength).
+[13:48:32	]Shlomo Peretz used command '/Roll strength'.
+[13:48:33	]Shlomo Peretz rolled 13 out of 20 (+4 from Strength).
+[13:48:33	]Shlomo Peretz used command '/Roll strength'.
+[13:48:34	]Shlomo Peretz rolled 8 out of 20 (+4 from Strength).
+[13:48:34	]Shlomo Peretz used command '/Roll strength'.
+[13:48:35	]Shlomo Peretz rolled 4 out of 20 (+4 from Strength).
+[13:48:35	]Shlomo Peretz used command '/Roll strength'.
+[13:48:36	]Shlomo Peretz rolled 19 out of 20 (+4 from Strength).
+[13:48:36	]Shlomo Peretz used command '/Roll strength'.
+[13:48:46	]Shlomo Peretz used command '/RemoveDrugEffects peretz'.
+[13:48:49	]Shlomo Peretz has spawned a drug_xp.
+[13:48:50	]Shlomo Peretz ran 'take' on item 'XP' (#2690722)
+[13:48:50	]Shlomo Peretz has gained a 'XP' #2690722.
+[13:48:58	]Shlomo Peretz ran 'use' on item 'XP' (#2690722)
+[13:48:58	]Shlomo Peretz has updated their Strength short boost target to 6 (current : 7).
+[13:48:58	]Shlomo Peretz has gained a level 6 short boost in Agility.
+[13:48:58	]Shlomo Peretz has gained a level 6 short boost in Intelligence.
+[13:48:58	]Shlomo Peretz has updated their Perception short boost target to 6 (current : 7).
+[13:48:58	]Shlomo Peretz has gained a 'Empty Brown Bottle' #2690723.
+[13:49:04	]Shlomo Peretz ran 'drop' on item 'Empty Brown Bottle' (#2690723)
+[13:49:04	]Shlomo Peretz has lost a 'Empty Brown Bottle' #2690723.
+[13:49:04	]Shlomo Peretz ran 'drop' on item 'Plastic garbage' (#2690721)
+[13:49:04	]Shlomo Peretz has lost a 'Plastic garbage' #2690721.
+[13:49:22	]Shlomo Peretz used command '/RemoveDrugEffects peretz'.
+[13:49:24	]Shlomo Peretz has spawned a drug_artificialfun.
+[13:49:26	]Shlomo Peretz ran 'use' on item 'Artificial Fun' (#2690724)
+[13:49:26	]Shlomo Peretz has wasted a level 5 short boost in Strength (current: 7; target: 6).
+[13:49:26	]Shlomo Peretz has wasted a level -3 short boost in Intelligence (current: 2; target: 6).
+[13:49:26	]Shlomo Peretz has wasted a level -3 short boost in Perception (current: 7; target: 6).
+[13:49:26	]Shlomo Peretz has gained a 'Empty Jar' #2690725.
+[13:49:36	]Shlomo Peretz used command '/RemoveDrugEffects peretz'.
+[13:49:37	]Shlomo Peretz has spawned a drug_artificialfun.
+[13:49:39	]Shlomo Peretz ran 'take' on item 'Artificial Fun' (#2690726)
+[13:49:39	]Shlomo Peretz has gained a 'Artificial Fun' #2690726.
+[13:49:52	]Shlomo Peretz ran 'drop' on item 'Artificial Fun' (#2690726)
+[13:49:52	]Shlomo Peretz has lost a 'Artificial Fun' #2690726.
+[13:49:58	]Shlomo Peretz has spawned a drug_thirdeye.
+[13:50:00	]Shlomo Peretz ran 'take' on item 'The Third Eye' (#2690727)
+[13:50:00	]Shlomo Peretz has gained a 'The Third Eye' #2690727.
+[13:50:09	]Shlomo Peretz ran 'use' on item 'The Third Eye' (#2690727)
+[13:50:09	]Shlomo Peretz has wasted a level -3 short boost in Strength (current: 7; target: 6).
+[13:50:09	]Shlomo Peretz has updated their Agility short boost target to -3 (current : 6).
+[13:50:09	]Shlomo Peretz extended their level 6 short boost in Intelligence.
+[13:50:09	]Shlomo Peretz has updated their Perception short boost target to 6 (current : 7).
+[13:50:09	]Shlomo Peretz has gained a 'Syringe' #2690728.
+[13:50:27	]Shlomo Peretz rolled 7 out of 20 (+4 from Strength).
+[13:50:27	]Shlomo Peretz used command '/Roll strength'.
+[13:50:29	]Shlomo Peretz rolled 5 out of 20 (+4 from Strength).
+[13:50:29	]Shlomo Peretz used command '/Roll strength'.
+[13:50:30	]Shlomo Peretz rolled 18 out of 20 (+4 from Strength).
+[13:50:30	]Shlomo Peretz used command '/Roll strength'.
+[13:50:35	]Shlomo Peretz rolled 20 out of 20 (+4 from Strength).
+[13:50:35	]Shlomo Peretz used command '/Roll strength'.
+[13:50:40	]Shlomo Peretz used command '/RemoveDrugEffects peretz'.
+[13:50:44	]Shlomo Peretz has spawned a drug_sunshinevodka.
+[13:50:46	]Shlomo Peretz ran 'take' on item 'Sunshine Vodka' (#2690729)
+[13:50:46	]Shlomo Peretz has gained a 'Sunshine Vodka' #2690729.
+[13:50:51	]Shlomo Peretz ran 'Consume' on item 'Sunshine Vodka' (#2690729)
+[13:50:51	]Shlomo Peretz has gained a level 3 long boost in Strength.
+[13:50:51	]Shlomo Peretz has gained a level 3 long boost in Agility.
+[13:50:51	]Shlomo Peretz has gained a level -3 long boost in Intelligence.
+[13:50:51	]Shlomo Peretz has gained a 'Empty Vodka Bottle' #2690730.
+[13:50:59	]Shlomo Peretz used command '/RemoveDrugEffects peretz'.
+[13:51:02	]Shlomo Peretz has spawned a drug_milkyway.
+[13:51:03	]Shlomo Peretz ran 'take' on item 'The Milky Way' (#2690731)
+[13:51:03	]Shlomo Peretz has gained a 'The Milky Way' #2690731.
+[13:51:10	]Shlomo Peretz ran 'Consume' on item 'The Milky Way' (#2690731)
+[13:51:10	]Shlomo Peretz has wasted a level -3 long boost in Strength (current: 0; target: 3).
+[13:51:10	]Shlomo Peretz has wasted a level -3 long boost in Agility (current: 0; target: 3).
+[13:51:10	]Shlomo Peretz has gained a level 4 long boost in Intelligence.
+[13:51:10	]Shlomo Peretz has gained a level 4 long boost in Perception.
+[13:51:10	]Shlomo Peretz has gained a 'Empty milk carton' #2690732.
+[13:51:17	]Shlomo Peretz used command '/RemoveDrugEffects peretz'.
+[13:52:06	]Shlomo Peretz has spawned a drug_spikedcoffee.
+[13:52:08	]Shlomo Peretz ran 'take' on item 'Spiked Cup of Coffee' (#2690733)
+[13:52:08	]Shlomo Peretz has gained a 'Spiked Cup of Coffee' #2690733.
+[13:52:12	]Shlomo Peretz ran 'Consume' on item 'Spiked Cup of Coffee' (#2690733)
+[13:52:12	]Shlomo Peretz has wasted a level 3 long boost in Agility (current: 0; target: 3).
+[13:52:12	]Shlomo Peretz has gained a 'Empty Coffee Cup' #2690734.
+[13:52:16	]Shlomo Peretz used command '/RemoveDrugEffects peretz'.
+[13:52:20	]Shlomo Peretz has spawned a drug_darkshot.
+[13:52:23	]Shlomo Peretz ran 'use' on item 'Dark Shot' (#2690735)
+[13:52:23	]Shlomo Peretz has updated their Strength short boost target to 6 (current : 7).
+[13:52:23	]Shlomo Peretz extended their level 6 short boost in Agility.
+[13:52:23	]Shlomo Peretz has wasted a level -5 short boost in Perception (current: 7; target: 6).
+[13:52:23	]Shlomo Peretz has gained a 'Empty Jar' #2690736.
+[13:52:27	]Shlomo Peretz used command '/RemoveDrugEffects peretz'.
+[13:52:30	]Shlomo Peretz has spawned a drug_happypie.
+[13:52:32	]Shlomo Peretz ran 'Consume' on item 'Happy Pie' (#2690737)
+[13:52:32	]Shlomo Peretz has gained a level 5 long boost in Strength.
+[13:52:32	]Shlomo Peretz has gained a level 5 long boost in Agility.
+[13:52:37	]Shlomo Peretz used command '/RemoveDrugEffects peretz'.
+[13:52:41	]Shlomo Peretz has spawned a drug_bobmix.
+[13:52:43	]Shlomo Peretz ran 'take' on item 'Bob's Trail Mix' (#2690738)
+[13:52:43	]Shlomo Peretz has gained a 'Bob's Trail Mix' #2690738.
+[13:52:48	]Shlomo Peretz ran 'use' on item 'Bob's Trail Mix' (#2690738)
+[13:52:48	]Shlomo Peretz has wasted a level 3 short boost in Strength (current: 7; target: 6).
+[13:52:48	]Shlomo Peretz has updated their Agility short boost target to 5 (current : 6).
+[13:52:48	]Shlomo Peretz has updated their Intelligence short boost target to -5 (current : 6).
+[13:52:48	]Shlomo Peretz has wasted a level 5 short boost in Perception (current: 7; target: 6).
+[13:52:48	]Shlomo Peretz has gained a 'Empty Bob Water' #2690739.
+[13:52:53	]Shlomo Peretz used command '/RemoveDrugEffects peretz'.
+[13:52:56	]Shlomo Peretz has spawned a drug_demon.
+[13:52:59	]Shlomo Peretz ran 'use' on item 'Demon's Bees' (#2690740)
+[13:52:59	]Shlomo Peretz has wasted a level 4 short boost in Strength (current: 7; target: 6).
+[13:52:59	]Shlomo Peretz has wasted a level 4 short boost in Agility (current: 6; target: 5).
+[13:52:59	]Shlomo Peretz has wasted a level -7 short boost in Intelligence (current: 6; target: -5).
+[13:52:59	]Shlomo Peretz has updated their Perception short boost target to 6 (current : 7).
+[13:52:59	]Shlomo Peretz has gained a 'Syringe' #2690741.
+[13:53:06	]Shlomo Peretz used command '/RemoveDrugEffects peretz'.
+[13:53:08	]Shlomo Peretz has spawned a drug_ozz.
+[13:53:09	]Shlomo Peretz ran 'use' on item 'Ozz's Potion' (#2690742)
+[13:53:09	]Shlomo Peretz has wasted a level -3 short boost in Strength (current: 7; target: 6).
+[13:53:09	]Shlomo Peretz has wasted a level -3 short boost in Agility (current: 6; target: 5).
+[13:53:09	]Shlomo Peretz has updated their Intelligence short boost target to 5 (current : 6).
+[13:53:09	]Shlomo Peretz has wasted a level 5 short boost in Perception (current: 7; target: 6).
+[13:53:09	]Shlomo Peretz has gained a 'Empty Brown Bottle' #2690743.
+[13:53:15	]Shlomo Peretz has given himself a drug_ozz.
+[13:53:15	]Shlomo Peretz has gained a 'Ozz's Potion' #2690744.
+[13:53:20	]Shlomo Peretz ran 'drop' on item 'Ozz's Potion' (#2690744)
+[13:53:20	]Shlomo Peretz has lost a 'Ozz's Potion' #2690744.
+[13:53:22	]Shlomo Peretz used command '/RemoveDrugEffects peretz'.
+[13:53:28	]Shlomo Peretz has spawned a drug_amph_a.
+[13:53:29	]Shlomo Peretz ran 'Consume' on item 'CLASS A Amphetamine' (#2690745)
+[13:53:29	]Shlomo Peretz has gained a level 6 long boost in Strength.
+[13:53:29	]Shlomo Peretz has wasted a level 4 long boost in Agility (current: 0; target: 5).
+[13:53:29	]Shlomo Peretz has wasted a level -4 long boost in Intelligence (current: 0; target: 4).
+[13:53:29	]Shlomo Peretz has gained a level 5 long boost in Perception.
+[13:53:29	]Shlomo Peretz has gained a 'Syringe' #2690746.
+[13:53:33	]Shlomo Peretz used command '/RemoveDrugEffects peretz'.
+[13:53:34	]Shlomo Peretz has given himself a drug_amph_a.
+[13:53:34	]Shlomo Peretz has gained a 'CLASS A Amphetamine' #2690747.
+[13:53:35	]Shlomo Peretz has given himself a drug_amph_b.
+[13:53:35	]Shlomo Peretz has gained a 'CLASS B Amphetamine' #2690748.
+[13:54:03	]Shlomo Peretz has spawned a dark_pill.
+[13:54:06	]Shlomo Peretz ran 'take' on item 'Dark Pills' (#2690749)
+[13:54:06	]Shlomo Peretz has gained a 'Dark Pills' #2690749.
+[13:54:20	]Shlomo Peretz ran 'split' on item 'Dark Pills' (#2690749)
+[13:54:20	]Shlomo Peretz has gained a 'Dark Pills' #2690750.
+[13:54:22	]Shlomo Peretz ran 'use' on item 'Dark Pills' (#2690749)
+[13:54:22	]Shlomo Peretz extended their level 7 short boost in Strength.
+[13:54:22	]Shlomo Peretz has gained a level 7 short boost in Agility.
+[13:54:22	]Shlomo Peretz has gained a level 7 short boost in Intelligence.
+[13:54:22	]Shlomo Peretz extended their level 7 short boost in Perception.
+[13:54:31	]Shlomo Peretz used command '/ToggleRaise'.
+[13:55:12	]Shlomo Peretz used command '/ToggleRaise'.
+[13:55:35	]Shlomo Peretz used command '/ToggleRaise'.
+[13:55:44	]Shlomo Peretz used command '/ToggleRaise'.
+[13:55:59	]Shlomo Peretz used command '/ToggleRaise'.
+[13:56:13	]Shlomo Peretz has spawned a 'NPC [5822][npc_citizen]'.
+[13:56:14	]Shlomo Peretz has hit npc_citizen in the head dealing 95 damage (CritChance was 0.11).
+[13:56:18	]Shlomo Peretz has spawned a 'NPC [5822][npc_citizen]'.
+[13:56:20	]Shlomo Peretz has hit npc_citizen in the stomach dealing 66 damage (CritChance was 0.45).
+[13:56:25	]Shlomo Peretz has spawned a 'NPC [5822][npc_gman]'.
+[13:56:28	]Shlomo Peretz has hit npc_gman in the head dealing 95 damage (CritChance was 0.09).
+[13:56:39	]Shlomo Peretz used command '/ToggleRaise'.
+[13:56:42	]Shlomo Peretz has critically hit npc_gman in the head dealing 12 damage (CritChance was 0.12).
+[13:56:42	]Shlomo Peretz has hit npc_gman in the head dealing 10 damage (CritChance was 0.12).
+[13:56:42	]Shlomo Peretz has critically hit npc_gman in the head dealing 12 damage (CritChance was 0.12).
+[13:56:42	]Shlomo Peretz has critically hit npc_gman in the head dealing 12 damage (CritChance was 0.12).
+[13:56:50	]Shlomo Peretz used command '/ToggleRaise'.
+[13:57:09	]Shlomo Peretz used command '/ToggleRaise'.
+[13:57:19	]Shlomo Peretz has spawned a 'NPC [5826][npc_citizen]'.
+[13:57:20	]Shlomo Peretz has hit npc_citizen in the head dealing 9 damage (CritChance was 0.12).
+[13:57:20	]Shlomo Peretz has hit npc_citizen in the head dealing 9 damage (CritChance was 0.12).
+[13:57:20	]Shlomo Peretz has critically hit npc_citizen in the head dealing 10 damage (CritChance was 0.12).
+[13:57:23	]Shlomo Peretz has spawned a 'NPC [5826][npc_citizen]'.
+[13:57:24	]Shlomo Peretz has critically hit npc_citizen in the chest dealing 9 damage (CritChance was 0.36).
+[13:57:24	]Shlomo Peretz has hit npc_citizen in the chest dealing 7 damage (CritChance was 0.36).
+[13:57:24	]Shlomo Peretz has hit npc_citizen in the chest dealing 7 damage (CritChance was 0.36).
+[13:57:24	]Shlomo Peretz has hit npc_citizen in the chest dealing 7 damage (CritChance was 0.36).
+[13:57:24	]Shlomo Peretz has hit npc_citizen in the chest dealing 7 damage (CritChance was 0.36).
+[13:57:24	]Shlomo Peretz has hit npc_citizen in the chest dealing 7 damage (CritChance was 0.36).
+[13:57:55	]Shlomo Peretz used command '/ToggleRaise'.
+[13:58:09	]Shlomo Peretz used command '/ToggleRaise'.
+[13:58:22	]Shlomo Peretz has spawned a 'NPC [5828][npc_citizen]'.
+[13:58:30	]Shlomo Peretz has hit npc_citizen in the head dealing 20 damage (CritChance was 0.13).
+[13:58:51	]Shlomo Peretz used command '/ToggleRaise'.
+[13:59:15	]Shlomo Peretz used command '/ToggleRaise'.
+[13:59:19	]Shlomo Peretz used command '/ToggleRaise'.
+[13:59:26	]Shlomo Peretz used command '/ToggleRaise'.
+[13:59:36	]Shlomo Peretz has spawned a 'NPC [5832][npc_citizen]'.
+[13:59:37	]Shlomo Peretz has hit npc_citizen in the head dealing 13 damage (CritChance was 0.13).
+[13:59:37	]Shlomo Peretz has hit npc_citizen in the head dealing 13 damage (CritChance was 0.13).
+[13:59:39	]Shlomo Peretz has spawned a 'NPC [5833][npc_citizen]'.
+[13:59:39	]Shlomo Peretz has critically hit npc_citizen in the chest dealing 13 damage (CritChance was 0.39).
+[13:59:40	]Shlomo Peretz has hit npc_citizen in the left arm dealing 5 damage (CritChance was 0.39).
+[13:59:40	]Shlomo Peretz has hit npc_citizen in the stomach dealing 9 damage (CritChance was 0.51).
+[13:59:40	]Shlomo Peretz has critically hit npc_citizen in the stomach dealing 11 damage (CritChance was 0.51).
+[13:59:40	]Shlomo Peretz has hit npc_citizen in the left arm dealing 5 damage (CritChance was 0.39).
+[13:59:40	]Shlomo Peretz has hit npc_citizen in the chest dealing 10 damage (CritChance was 0.39).
+[13:59:54	]Shlomo Peretz used command '/ToggleRaise'.
+[14:00:01	]Shlomo Peretz has spawned a 'NPC [5833][npc_breen]'.
+[14:00:01	]Shlomo Peretz has critically hit npc_breen in the chest dealing 8 damage (CritChance was 0.42).
+[14:00:05	]Shlomo Peretz has spawned a 'NPC [5833][npc_vortigaunt]'.
+[14:00:06	]Shlomo Peretz has critically hit npc_vortigaunt dealing 6 damage (CritChance was 0.70).
+[14:00:06	]Shlomo Peretz has critically hit npc_vortigaunt dealing 6 damage (CritChance was 0.70).
+[14:00:06	]Shlomo Peretz has critically hit npc_vortigaunt dealing 6 damage (CritChance was 0.70).
+[14:00:06	]Shlomo Peretz has critically hit npc_vortigaunt dealing 6 damage (CritChance was 0.70).
+[14:00:06	]Shlomo Peretz has critically hit npc_vortigaunt dealing 6 damage (CritChance was 0.70).
+[14:00:06	]Shlomo Peretz has critically hit npc_vortigaunt dealing 6 damage (CritChance was 0.70).
+[14:00:06	]Shlomo Peretz has critically hit npc_vortigaunt dealing 6 damage (CritChance was 0.70).
+[14:00:06	]Shlomo Peretz has hit npc_vortigaunt dealing 4 damage (CritChance was 0.70).
+[14:00:06	]Shlomo Peretz has critically hit npc_vortigaunt dealing 6 damage (CritChance was 0.70).
+[14:00:06	]Shlomo Peretz has hit npc_vortigaunt dealing 4 damage (CritChance was 0.70).
+[14:00:06	]Shlomo Peretz has critically hit npc_vortigaunt dealing 6 damage (CritChance was 0.70).
+[14:00:06	]Shlomo Peretz has hit npc_vortigaunt dealing 4 damage (CritChance was 0.70).
+[14:00:06	]Shlomo Peretz has critically hit npc_vortigaunt dealing 6 damage (CritChance was 0.70).
+[14:00:06	]Shlomo Peretz has critically hit npc_vortigaunt dealing 6 damage (CritChance was 0.70).
+[14:00:06	]Shlomo Peretz has critically hit npc_vortigaunt dealing 6 damage (CritChance was 0.70).
+[14:00:06	]Shlomo Peretz has critically hit npc_vortigaunt dealing 6 damage (CritChance was 0.70).
+[14:00:06	]Shlomo Peretz has hit npc_vortigaunt dealing 4 damage (CritChance was 0.70).
+[14:00:07	]Shlomo Peretz has critically hit npc_vortigaunt dealing 6 damage (CritChance was 0.70).
+[14:00:13	]Shlomo Peretz used command '/ToggleRaise'.
+[14:00:19	]Shlomo Peretz has spawned a 'NPC [5834][npc_combine_s]'.
+[14:00:20	]Shlomo Peretz has taken 0 damage from npc_combine_s.
+[14:00:20	]Shlomo Peretz has taken 3 damage from npc_combine_s.
+[14:00:20	]Shlomo Peretz has taken 3 damage from npc_combine_s.
+[14:00:21	]Shlomo Peretz has taken 3 damage from npc_combine_s.
+[14:00:21	]Shlomo Peretz has taken 0 damage from npc_combine_s.
+[14:00:21	]Shlomo Peretz has critically hit npc_combine_s dealing 23 damage (CritChance was 0.64).
+[14:00:21	]Shlomo Peretz has critically hit npc_combine_s in the right arm dealing 20 damage (CritChance was 0.39).
+[14:00:21	]Shlomo Peretz has hit npc_combine_s in the right arm dealing 11 damage (CritChance was 0.39).
+[14:00:23	]Shlomo Peretz has taken 0 damage from npc_combine_s.
+[14:00:23	]Shlomo Peretz has hit npc_combine_s in the head dealing 29 damage (CritChance was 0.13).
+[14:00:30	]Shlomo Peretz has spawned a 'NPC [5834][npc_combine_s]'.
+[14:00:32	]Shlomo Peretz has taken 0 damage from npc_combine_s.
+[14:00:34	]Shlomo Peretz has critically hit npc_combine_s in the head dealing 34 damage (CritChance was 0.13).
+[14:00:46	]Shlomo Peretz has spawned a 'NPC [5836][npc_combine_s]'.
+[14:00:49	]Shlomo Peretz has hit npc_combine_s in the head dealing 29 damage (CritChance was 0.13).
+[14:00:54	]Shlomo Peretz has spawned a 'NPC [5834][npc_combine_s]'.
+[14:00:56	]Shlomo Peretz has critically hit npc_combine_s in the left arm dealing 20 damage (CritChance was 0.39).
+[14:00:56	]Shlomo Peretz has critically hit npc_combine_s in the left arm dealing 20 damage (CritChance was 0.39).
+[14:00:56	]Shlomo Peretz has critically hit npc_combine_s in the left arm dealing 20 damage (CritChance was 0.39).
+[14:00:57	]Shlomo Peretz has taken 0 damage from npc_combine_s.
+[14:00:58	]Shlomo Peretz has taken 3 damage from npc_combine_s.
+[14:01:05	]Shlomo Peretz has taken 3 damage from npc_combine_s.
+[14:01:05	]Shlomo Peretz has hit npc_combine_s in the right arm dealing 11 damage (CritChance was 0.39).
+[14:01:06	]Shlomo Peretz has hit npc_combine_s dealing 17 damage (CritChance was 0.64).
+[14:01:07	]Shlomo Peretz has hit npc_combine_s in the left arm dealing 11 damage (CritChance was 0.39).
+[14:01:08	]Shlomo Peretz has hit npc_combine_s in the left arm dealing 11 damage (CritChance was 0.39).
+[14:01:09	]Shlomo Peretz has taken 3 damage from npc_combine_s.
+[14:01:09	]Shlomo Peretz has taken 6 damage from npc_combine_s.
+[14:01:09	]Shlomo Peretz has hit npc_combine_s in the left arm dealing 11 damage (CritChance was 0.39).
+[14:01:10	]Shlomo Peretz has taken 6 damage from npc_combine_s.
+[14:01:10	]Shlomo Peretz has taken 0 damage from npc_combine_s.
+[14:01:10	]Shlomo Peretz has taken 0 damage from npc_combine_s.
+[14:01:11	]Shlomo Peretz has taken 3 damage from npc_combine_s.
+[14:01:11	]Shlomo Peretz has taken 0 damage from npc_combine_s.
+[14:01:11	]Shlomo Peretz has taken 0 damage from npc_combine_s.
+[14:01:12	]Shlomo Peretz has taken 3 damage from npc_combine_s.
+[14:01:12	]Shlomo Peretz has taken 3 damage from npc_combine_s.
+[14:01:12	]Shlomo Peretz has taken 3 damage from npc_combine_s.
+[14:01:13	]Shlomo Peretz has taken 3 damage from npc_combine_s.
+[14:01:15	]Shlomo Peretz has taken 3 damage from npc_combine_s.
+[14:01:15	]Shlomo Peretz has taken 0 damage from npc_combine_s.
+[14:01:15	]Shlomo Peretz has critically hit npc_combine_s in the head dealing 34 damage (CritChance was 0.13).
+[14:01:22	]Shlomo Peretz used command '/ToggleRaise'.
+[14:01:25	]Shlomo Peretz has spawned a 'NPC [5835][npc_metropolice]'.
+[14:01:27	]Shlomo Peretz has hit npc_metropolice in the chest dealing 7 damage (CritChance was 0.42).
+[14:01:28	]Shlomo Peretz has hit npc_metropolice in the left arm dealing 3 damage (CritChance was 0.42).
+[14:01:28	]Shlomo Peretz has hit npc_metropolice in the right leg dealing 3 damage (CritChance was 0.42).
+[14:01:29	]Shlomo Peretz has hit npc_metropolice in the right arm dealing 3 damage (CritChance was 0.42).
+[14:01:30	]Shlomo Peretz has critically hit npc_metropolice in the chest dealing 9 damage (CritChance was 0.42).
+[14:01:30	]Shlomo Peretz has hit npc_metropolice in the left arm dealing 3 damage (CritChance was 0.42).
+[14:01:30	]Shlomo Peretz has hit npc_metropolice in the chest dealing 7 damage (CritChance was 0.42).
+[14:01:30	]Shlomo Peretz has hit npc_metropolice in the chest dealing 7 damage (CritChance was 0.42).
+[14:01:30	]Shlomo Peretz has critically hit npc_metropolice in the head dealing 10 damage (CritChance was 0.14).
+[14:01:42	]Shlomo Peretz used command '/ToggleRaise'.
+[14:01:46	]Shlomo Peretz has spawned a 'NPC [5837][npc_combine_s]'.
+[14:01:48	]Shlomo Peretz has hit npc_combine_s in the head dealing 32 damage (CritChance was 0.14).
+[14:01:51	]Shlomo Peretz has spawned a 'NPC [5838][npc_combine_s]'.
+[14:01:53	]Shlomo Peretz has hit npc_combine_s in the head dealing 32 damage (CritChance was 0.14).
+[14:01:55	]Shlomo Peretz has spawned a 'NPC [5837][npc_combine_s]'.
+[14:01:59	]Shlomo Peretz has hit npc_combine_s in the chest dealing 25 damage (CritChance was 0.42).
+[14:02:00	]Shlomo Peretz has hit npc_combine_s in the head dealing 32 damage (CritChance was 0.14).
+[14:02:04	]Shlomo Peretz has spawned a 'NPC [5837][npc_combine_s]'.
+[14:02:06	]Shlomo Peretz has taken 0 damage from npc_combine_s.
+[14:02:06	]Shlomo Peretz has hit npc_combine_s in the head dealing 32 damage (CritChance was 0.14).
+[14:02:10	]Shlomo Peretz has spawned a 'NPC [5837][npc_combine_s]'.
+[14:02:12	]Shlomo Peretz has critically hit npc_combine_s dealing 25 damage (CritChance was 0.71).
+[14:02:23	]Shlomo Peretz has hit npc_combine_s in the head dealing 32 damage (CritChance was 0.14).
+[14:02:32	]Shlomo Peretz used command '/ToggleRaise'.
+[14:02:41	]Shlomo Peretz has spawned a 'NPC [5839][npc_vj_hlr2_citizen]'.
+[14:02:49	]Shlomo Peretz has hit npc_vj_hlr2_citizen in the chest dealing 20 damage (CritChance was 0.39).
+[14:02:50	]Shlomo Peretz has hit npc_vj_hlr2_citizen in the head dealing 25 damage (CritChance was 0.13).
+[14:03:09	]Shlomo Peretz has spawned a 'NPC [5839][npc_vj_gonome]'.
+[14:03:10	]Shlomo Peretz has taken 30 damage from Gonome.
+[14:03:14	]Shlomo Peretz has hit npc_vj_gonome dealing 22 damage (CritChance was 0.00).
+[14:03:14	]Shlomo Peretz has hit npc_vj_gonome dealing 22 damage (CritChance was 0.00).
+[14:03:14	]Shlomo Peretz has hit npc_vj_gonome dealing 22 damage (CritChance was 0.00).
+[14:03:14	]Shlomo Peretz has hit npc_vj_gonome dealing 22 damage (CritChance was 0.00).
+[14:03:15	]Shlomo Peretz has hit npc_vj_gonome dealing 22 damage (CritChance was 0.00).
+[14:03:15	]Shlomo Peretz has hit npc_vj_gonome dealing 22 damage (CritChance was 0.00).
+[14:03:16	]Shlomo Peretz has hit npc_vj_gonome dealing 22 damage (CritChance was 0.00).
+[14:03:16	]Shlomo Peretz has hit npc_vj_gonome dealing 22 damage (CritChance was 0.00).
+[14:03:16	]Shlomo Peretz has hit npc_vj_gonome dealing 22 damage (CritChance was 0.00).
+[14:03:17	]Shlomo Peretz has hit npc_vj_gonome dealing 22 damage (CritChance was 0.00).
+[14:03:17	]Shlomo Peretz has hit npc_vj_gonome dealing 22 damage (CritChance was 0.00).
+[14:03:23	]Shlomo Peretz has hit npc_vj_gonome dealing 22 damage (CritChance was 0.00).
+[14:03:23	]Shlomo Peretz has hit npc_vj_gonome dealing 22 damage (CritChance was 0.00).
+[14:03:24	]Shlomo Peretz has hit npc_vj_gonome dealing 22 damage (CritChance was 0.00).
+[14:03:42	]Shlomo Peretz ran 'Write' on item 'INDUSTRIAL 24 PUBLIC CSTN REGISTRY' (#2605426)
+[14:04:06	]Shlomo Peretz has spawned a 'NPC [5845][npc_vj_headcrab]'.
+[14:04:07	]Shlomo Peretz has critically hit npc_vj_headcrab dealing 20 damage (CritChance was 0.64).
+[14:04:18	]Shlomo Peretz used command '/ToggleRaise'.
+[14:04:46	]Shlomo Peretz used command '/ToggleRaise'.
+[14:04:54	]Shlomo Peretz has spawned a 'NPC [5848][npc_vj_zombiesci_original]'.
+[14:04:55	]Shlomo Peretz has hit npc_vj_zombiesci_original in the head dealing 7 damage (CritChance was 0.12).
+[14:04:55	]Shlomo Peretz has hit npc_vj_zombiesci_original in the head dealing 7 damage (CritChance was 0.12).
+[14:04:55	]Shlomo Peretz has critically hit npc_vj_zombiesci_original in the head dealing 8 damage (CritChance was 0.12).
+[14:04:55	]Shlomo Peretz has hit npc_vj_zombiesci_original in the head dealing 7 damage (CritChance was 0.12).
+[14:04:55	]Shlomo Peretz has hit npc_vj_zombiesci_original in the head dealing 7 damage (CritChance was 0.12).
+[14:04:55	]Shlomo Peretz has hit npc_vj_zombiesci_original in the head dealing 7 damage (CritChance was 0.12).
+[14:04:55	]Shlomo Peretz has hit npc_vj_zombiesci_original in the head dealing 7 damage (CritChance was 0.12).
+[14:05:00	]Shlomo Peretz has critically hit npc_vj_zombiesci_original in the chest dealing 7 damage (CritChance was 0.36).
+[14:05:00	]Shlomo Peretz has critically hit npc_vj_zombiesci_original in the chest dealing 7 damage (CritChance was 0.36).
+[14:05:00	]Shlomo Peretz has hit npc_vj_zombiesci_original in the head dealing 7 damage (CritChance was 0.12).
+[14:05:00	]Shlomo Peretz has hit npc_vj_zombiesci_original in the chest dealing 5 damage (CritChance was 0.36).
+[14:05:00	]Shlomo Peretz has hit npc_vj_zombiesci_original in the head dealing 7 damage (CritChance was 0.12).
+[14:05:00	]Shlomo Peretz has hit npc_vj_zombiesci_original in the head dealing 7 damage (CritChance was 0.12).
+[14:05:00	]Shlomo Peretz has critically hit npc_vj_zombiesci_original in the head dealing 8 damage (CritChance was 0.12).
+[14:05:00	]Shlomo Peretz has hit npc_vj_zombiesci_original in the head dealing 7 damage (CritChance was 0.12).
+[14:05:11	]Shlomo Peretz used command '/ToggleRaise'.
+[14:05:12	]Shlomo Peretz used command '/ToggleRaise'.
+[14:05:14	]Shlomo Peretz used command '/ToggleRaise'.
+[14:05:14	]Shlomo Peretz entered observer.
+[14:05:27	]Shlomo Peretz has spawned a uc_muzzle_supp_ssq.
+[14:05:29	]Shlomo Peretz exited observer at their location.
+[14:05:30	]Shlomo Peretz ran 'take' on item 'US G.I. 45 Suppressor' (#2690751)
+[14:05:30	]Shlomo Peretz has gained a 'US G.I. 45 Suppressor' #2690751.
+[14:05:47	]Shlomo Peretz entered observer.
+[14:05:52	]Shlomo Peretz exited observer at their location.
+[14:06:05	]Shlomo Peretz has used a context menu option with the name: remove
+[14:06:20	]flerk loaded the character 'C17:RCT.YELLO-28'
+[14:06:27	]C17:RCT.YELLO-28 entered observer.
+[14:06:32	]flerk loaded the character 'S10:SCN-9'
+[14:06:46	]S10:SCN-9 used command '/Dispatch judgment waiver'.
+[14:07:19	]S10:SCN-9 used command '/Dispatch anti-civil evidence'.
+[14:08:08	]flerk (STEAM_0:0:96474996) has disconnected.

@@ -1,0 +1,114 @@
+[08:48:04	]Commissar_Krieger has connected.
+[08:49:09	]Commissar_Krieger loaded the character 'Krieger 2nd'
+[08:49:17	]Krieger 2nd entered observer.
+[08:49:19	]Krieger 2nd exited observer at their location.
+[08:55:31	]Krieger 2nd has spawned a 'Entity [6391][ix_workshiftterminal]'.
+[08:55:56	]Krieger 2nd has spawned a 'Entity [6393][ix_cwuterminal]'.
+[08:56:06	]Krieger 2nd has spawned a 'Entity [6394][ix_crackedprinter]'.
+[08:56:08	]Krieger 2nd has spawned a 'Entity [6394][ix_console]'.
+[08:56:10	]Krieger 2nd has spawned a 'Entity [6394][ix_computer]'.
+[08:56:13	]Krieger 2nd has spawned a 'Entity [6394][ix_combinemonitor_tv]'.
+[08:56:28	]Krieger 2nd has spawned a 'Entity [6394][ix_batterycharger]'.
+[08:57:11	]Krieger 2nd has spawned a cwu_card.
+[08:57:12	]Krieger 2nd ran 'take' on item 'CWU Member Access Keycard' (#2688914)
+[08:57:12	]Krieger 2nd has gained a 'CWU Member Access Keycard' #2688914.
+[08:57:15	]Krieger 2nd ran 'Bind' on item 'CWU Member Access Keycard' (#2688914)
+[08:57:30	]Krieger 2nd ran 'drop' on item 'CWU Member Access Keycard' (#2688914)
+[08:57:30	]Krieger 2nd has lost a 'CWU Member Access Keycard' #2688914.
+[08:57:37	]Krieger 2nd ran 'drop' on item '#84473's Identity Card' (#2605996)
+[08:57:37	]Krieger 2nd has lost a '#84473's Identity Card' #2605996.
+[08:58:22	]Krieger 2nd ran 'take' on item 'CWU Member Access Keycard' (#2688914)
+[08:58:22	]Krieger 2nd has gained a 'CWU Member Access Keycard' #2688914.
+[08:58:26	]Krieger 2nd ran 'take' on item '#84473's Identity Card' (#2605996)
+[08:58:26	]Krieger 2nd has gained a '#84473's Identity Card' #2605996.
+[08:58:29	]Commissar_Krieger (STEAM_0:1:221347812) has disconnected.
+[15:22:27	]Mango has connected.
+[15:24:10	]Mango loaded the character 'Synthesis'
+[15:24:15	]Synthesis is fully healed.
+[15:24:19	]Synthesis entered observer.
+[15:24:31	]Synthesis used command '/NPCAreas'.
+[15:24:44	][Area-Based NPC Spawner] Synthesis has added area spawner test at New Area
+[15:29:58	]Mango has connected.
+[15:31:41	]Mango loaded the character 'C24:i5.ROLLER-34'
+[15:31:49	]C24:i5.ROLLER-34 entered observer.
+[15:31:54	]C24:i5.ROLLER-34 used command '/NPCAreas'.
+[15:31:58	][Area-Based NPC Spawner] C24:i5.ROLLER-34 has edited area spawner test at New Area
+[15:32:40	]C24:i5.ROLLER-34 used command '/NPCAreas'.
+[15:32:57	][Area-Based NPC Spawner] C24:i5.ROLLER-34 has edited area spawner test at New Area
+[15:32:59	]C24:i5.ROLLER-34 used command '/removeAllNPCS'.
+[15:33:40	]C24:i5.ROLLER-34 used command '/removeAllNPCS'.
+[15:33:42	]C24:i5.ROLLER-34 used command '/NPCAreas'.
+[15:39:42	]Mango has connected.
+[15:41:20	]Mango loaded the character 'C24:i5.ROLLER-34'
+[15:41:28	]C24:i5.ROLLER-34 entered observer.
+[15:41:32	]C24:i5.ROLLER-34 used command '/NPCAreas'.
+[15:41:38	][Area-Based NPC Spawner] C24:i5.ROLLER-34 has edited area spawner test at New Area
+[15:42:04	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:42:04	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:42:05	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:42:05	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:42:05	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:42:05	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:42:05	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:42:06	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:42:06	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:42:06	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:48:08	]Mango has connected.
+[15:49:45	]Mango loaded the character 'C24:i5.ROLLER-34'
+[15:49:54	]C24:i5.ROLLER-34 entered observer.
+[15:49:57	]C24:i5.ROLLER-34 used command '/NPCAreas'.
+[15:49:59	][Area-Based NPC Spawner] C24:i5.ROLLER-34 has edited area spawner test at New Area
+[15:50:25	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:26	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:26	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:27	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:27	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:27	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:47	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:48	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:48	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:48	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:48	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:48	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:49	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:49	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:49	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:50	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:50	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:50	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:50	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:51	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:51	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:51	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:51	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:52	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:52	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:52	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:52	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:52	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:53	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:53	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:53	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:53	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:54	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:54	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:54	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:54	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:54	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:55	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:55	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:56	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:56	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:56	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:56	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:57	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:57	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:57	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:57	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:58	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:58	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:59	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:50:59	]C24:i5.ROLLER-34 has fired a toolgun with the name: remover
+[15:51:12	]C24:i5.ROLLER-34 used command '/AreaEdit'.
+[15:51:18	]C24:i5.ROLLER-34 has removed area "New Area".
+[15:51:19	][Area-Based NPC Spawner] SERVER has automatically removed invalid area spawner: test at New Area

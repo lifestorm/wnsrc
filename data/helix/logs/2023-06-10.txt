@@ -1,0 +1,95 @@
+[08:31:25	]Mango has connected.
+[08:40:52	]Mango loaded the character 'Lungsas'
+[08:41:01	]Lungsas entered observer.
+[08:41:02	]Lungsas exited observer at their location.
+[08:41:04	]Lungsas entered observer.
+[08:41:04	]Lungsas exited observer at their location.
+[08:41:14	]Lungsas used command '/Datafile 29722'.
+[08:43:37	]Mango (STEAM_0:0:544539350) has disconnected.
+[13:21:02	]Mango has connected.
+[13:21:40	]Mango loaded the character 'Lungsas'
+[13:29:30	]Lungsas has used a context menu option with the name: remove
+[13:29:42	]Lungsas has spawned a 'Entity [397][ix_rationdispenser]'.
+[13:32:53	][IC] Lungsas: A.
+[13:32:55	]Lungsas used command '/CreateCid lung'.
+[13:32:55	]Lungsas has gained a '#30235's Identity Card' #1660751.
+[13:36:59	]Mango (STEAM_0:0:544539350) has disconnected.
+[14:09:19	]Mango has connected.
+[14:09:57	]Mango loaded the character 'Lungsas'
+[14:10:36	]Lungsas has spawned a 'Entity [404][ix_rationdispenser]'.
+[14:10:39	]Lungsas has acquired his ration, gaining 0 credits, 0 wages and a ration ration.
+[14:15:57	]Lungsas has gone afk.
+[14:24:57	]Lungsas is no longer afk. Total time spent AFK: 835
+[14:25:03	]Lungsas has used a context menu option with the name: remove
+[14:25:10	]Lungsas has spawned a 'Entity [394][ix_terminal]'.
+[14:30:27	]Lungsas has gone afk.
+[14:37:41	]Mango (STEAM_0:0:544539350) has disconnected.
+[19:49:55	]thc has connected.
+[19:50:34	]thc created the character '1231312312321312'
+[19:50:34	]thc loaded the character '1231312312321312'
+[19:50:34	]1231312312321312 has gained a '#82014's Identity Card' #1660752.
+[19:50:34	]1231312312321312 has gained a 'Combine PDA' #1660753.
+[19:50:57	]1231312312321312 has given himself a capda.
+[19:50:57	]1231312312321312 has gained a 'Civil Administration PDA' #1660754.
+[19:50:59	]1231312312321312 ran 'Equip' on item 'Civil Administration PDA' (#1660754)
+[19:51:43	]1231312312321312 entered observer.
+[19:51:44	]1231312312321312 exited observer.
+[19:51:46	]1231312312321312 ran SAM command 'admin' with arguments: ''
+[19:51:52	]1231312312321312 ran SAM command 'unadmin' with arguments: ''
+[19:52:06	]1231312312321312 used command '/BecomeClass 1'.
+[19:52:08	]1231312312321312 used command '/BecomeClass 2'.
+[19:52:09	]1231312312321312 used command '/BecomeClass 3'.
+[19:52:11	]1231312312321312 used command '/BecomeClass 5'.
+[19:52:12	]1231312312321312 used command '/BecomeClass 7'.
+[19:52:14	]1231312312321312 used command '/BecomeClass 9'.
+[19:52:16	]1231312312321312 used command '/BecomeClass 10'.
+[19:52:17	]1231312312321312 used command '/BecomeClass 11'.
+[19:52:19	]1231312312321312 used command '/BecomeClass 13'.
+[19:52:20	]1231312312321312 used command '/BecomeClass 14'.
+[19:52:21	]1231312312321312 used command '/BecomeClass 15'.
+[19:52:23	]1231312312321312 used command '/BecomeClass 17'.
+[19:52:25	]1231312312321312 used command '/BecomeClass 18'.
+[19:52:26	]1231312312321312 used command '/BecomeClass 19'.
+[19:52:29	]1231312312321312 used command '/BecomeClass 4'.
+[19:52:30	]1231312312321312 used command '/BecomeClass 6'.
+[19:52:32	]1231312312321312 used command '/BecomeClass 7'.
+[19:52:34	]1231312312321312 used command '/BecomeClass 8'.
+[19:52:35	]1231312312321312 used command '/BecomeClass 9'.
+[19:52:37	]1231312312321312 used command '/BecomeClass 10'.
+[19:52:39	]1231312312321312 used command '/BecomeClass 11'.
+[19:52:40	]1231312312321312 used command '/BecomeClass 12'.
+[19:52:41	]1231312312321312 used command '/BecomeClass 13'.
+[19:52:42	]1231312312321312 used command '/BecomeClass 14'.
+[19:52:44	]1231312312321312 used command '/BecomeClass 15'.
+[19:52:45	]1231312312321312 used command '/BecomeClass 16'.
+[19:52:46	]1231312312321312 used command '/BecomeClass 17'.
+[19:52:48	]1231312312321312 used command '/BecomeClass 18'.
+[19:52:50	]1231312312321312 used command '/BecomeClass 2'.
+[19:52:51	]1231312312321312 used command '/BecomeClass 3'.
+[19:52:52	]1231312312321312 used command '/BecomeClass 4'.
+[19:52:54	]1231312312321312 used command '/BecomeClass 4'.
+[19:52:55	]1231312312321312 used command '/BecomeClass 5'.
+[19:52:56	]1231312312321312 used command '/BecomeClass 5'.
+[19:52:57	]1231312312321312 used command '/BecomeClass 6'.
+[19:53:06	]1231312312321312 used command '/CharSetClass 123 5'.
+[19:53:09	]1231312312321312 used command '/CharSetClass 123 over'.
+[19:53:14	]1231312312321312 used command '/CharSetClass 123 admin'.
+[19:53:29	]1231312312321312 used command '/PlyGiveAllFlags 123'.
+[19:54:01	]1231312312321312 used command '/CharGiveFlag 123 admin'.
+[19:54:07	]1231312312321312 used command '/CharGiveFlag 123 c'.
+[19:54:11	]1231312312321312 used command '/CharGiveFlag 123 CombineDoor'.
+[19:55:34	]1231312312321312 used command '/PlyTransfer 123 direct'.
+[19:55:43	]1231312312321312 used command '/PlyTransfer 123 minis'.
+[19:55:47	]1231312312321312 used command '/PlyTransfer 123 enter'.
+[19:56:08	]1231312312321312 used command '/PlyTransfer 123 civil'.
+[19:56:12	]C17:RCT.YELLO-28 used command '/PlyTransfer 123 prot'.
+[19:56:23	]thc (STEAM_0:1:709534478) deleted character 'C17:RCT.YELLO-28'
+[19:56:25	]thc (STEAM_0:1:709534478) deleted character 'testchar123123123'
+[19:57:18	]thc created the character 'Jan Testowsky'
+[19:57:19	]thc loaded the character 'Jan Testowsky'
+[19:57:19	]Jan Testowsky has gained a '#17352's Identity Card' #1660755.
+[19:57:19	]Jan Testowsky has gained a 'Combine PDA' #1660756.
+[19:57:36	]Jan Testowsky has given himself a capda.
+[19:57:36	]Jan Testowsky has gained a 'Civil Administration PDA' #1660757.
+[19:57:39	]Jan Testowsky ran 'Equip' on item 'Civil Administration PDA' (#1660757)
+[19:57:45	]thc (STEAM_0:1:709534478) has disconnected.

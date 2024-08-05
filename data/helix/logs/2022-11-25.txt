@@ -1,0 +1,18 @@
+[00:00:06	]ConcernedCitizen has enabled persistence for 'models/jq/hlvr/props/xenpack/xen_a2_sewer001.mdl'.
+[00:00:06	]ConcernedCitizen has used a context menu option with the name: persist
+[00:00:06	]ConcernedCitizen entered observer.
+[00:00:09	]ConcernedCitizen exited observer at their location.
+[00:00:14	]ConcernedCitizen entered observer.
+[00:00:15	]ConcernedCitizen exited observer at their location.
+[00:00:22	]ConcernedCitizen has fired a toolgun with the name: duplicator
+[00:00:22	]ConcernedCitizen has spawned 'models/jq/hlvr/props/xenpack/xen_blob001.mdl'.
+[00:00:25	]ConcernedCitizen has fired a toolgun with the name: nocollideworld
+[00:01:32	]ConcernedCitizen has enabled persistence for 'models/jq/hlvr/props/xenpack/xen_blob001.mdl'.
+[00:01:32	]ConcernedCitizen has used a context menu option with the name: persist
+[00:01:47	]ConcernedCitizen has fired a toolgun with the name: nocollideworld
+[00:01:49	]ConcernedCitizen has disabled persistence for 'models/jq/hlvr/props/xenpack/xen_floor_ceiling001_wide.mdl'.
+[00:01:49	]ConcernedCitizen has used a context menu option with the name: persist_end
+[00:01:58	]ConcernedCitizen has enabled persistence for 'models/jq/hlvr/props/xenpack/xen_floor_ceiling001_wide.mdl'.
+[00:01:58	]ConcernedCitizen has used a context menu option with the name: persist
+[00:02:12	]ConcernedCitizen entered observer.
+[00:02:23	]ConcernedCitizen has used a context menu option with the name: rb655_door_close

@@ -1,0 +1,832 @@
+[11:28:21	]Mango has connected.
+[11:47:14	]Mango loaded the character 'C17:RCT.YELLO-97'
+[11:47:19	]C17:RCT.YELLO-97 is fully healed.
+[11:47:26	]C17:RCT.YELLO-97 used command '/Datafile banana'.
+[11:47:40	]C17:RCT.YELLO-97 used command '/Datafile Lungsas'.
+[11:48:01	]Mango (STEAM_0:0:544539350) deleted character 'Lungsas'
+[11:48:15	]Mango created the character 'Gulangis'
+[11:48:15	]Gulangis has gained a 'Vortigaunt Hooks' #1660800.
+[11:48:15	]Gulangis has gained a 'Vortigaunt Shackles' #1660801.
+[11:48:15	]Gulangis has gained a 'Vortigaunt Collar' #1660802.
+[11:48:15	]Mango loaded the character 'Gulangis'
+[11:48:23	]Gulangis entered observer.
+[11:48:24	]Gulangis exited observer at their location.
+[11:48:44	]Gulangis has acquired his ration, gaining 0 credits, 0 wages and a ration ration.
+[11:48:57	]Gulangis ran 'Open' on item 'Ration' (#1660803)
+[11:48:57	]Gulangis has gained a 'Artificial Paste' #1660804.
+[11:48:57	]Gulangis has gained a 'Breen's Water' #1660805.
+[11:48:57	]Gulangis has gained a 'Basic Credits Coupon' #1660806.
+[11:49:01	]Gulangis ran 'Use' on item 'Basic Credits Coupon' (#1660806)
+[11:49:08	]Gulangis used command '/CreateCid gu'.
+[11:49:08	]Gulangis has gained a '#52479's Identity Card' #1660807.
+[11:49:14	]Gulangis ran 'Use' on item 'Basic Credits Coupon' (#1660806)
+[11:49:16	]Gulangis has used a coupon at a ration dispenser, gaining 15 credits.
+[11:49:44	][IC] Gulangis: 52162 collar.
+[11:49:51	][IC] Gulangis: 52479 cid.
+[11:49:58	]Mango loaded the character 'C17:RCT.YELLO-97'
+[11:50:06	]C17:RCT.YELLO-97 used command '/Datafile banana'.
+[11:50:14	]C17:RCT.YELLO-97 used command '/Datafile gulangis'.
+[11:50:36	]C17:RCT.YELLO-97 used command '/Datafile !banana'.
+[11:52:29	]C17:RCT.YELLO-97 used command '/Datafile !banana'.
+[11:57:28	]C17:RCT.YELLO-97 has gone afk.
+[11:59:58	]C17:RCT.YELLO-97 is no longer afk. Total time spent AFK: 445
+[12:09:20	]Mango has connected.
+[12:09:56	]Mango loaded the character 'C17:RCT.YELLO-97'
+[12:10:01	]C17:RCT.YELLO-97 is fully healed.
+[12:10:09	]C17:RCT.YELLO-97 used command '/Datafile !banana'.
+[12:11:28	]Mango (STEAM_0:0:544539350) has disconnected.
+[13:05:52	]thc has connected.
+[13:06:56	]thc (STEAM_0:1:709534478) deleted character 'Jan Testowsky'
+[13:07:04	]thc (STEAM_0:1:709534478) deleted character 'Larry Bird'
+[13:09:14	]thc created the character 'Maciej Rzymski'
+[13:09:14	]thc loaded the character 'Maciej Rzymski'
+[13:09:14	]Maciej Rzymski has gained a '#87608's Identity Card' #1660808.
+[13:09:14	]Maciej Rzymski has gained a 'Combine PDA' #1660809.
+[13:09:46	]Maciej Rzymski used the 'Munition Lady' vendor.
+[13:09:57	]Maciej Rzymski used command '/ViewInfo maciej'.
+[13:10:21	]Maciej Rzymski used command '/ViewInfo maciej'.
+[13:10:51	]Maciej Rzymski used command '/ViewInfo maciej'.
+[13:11:18	]Maciej Rzymski ran 'drop' on item '#87608's Identity Card' (#1660808)
+[13:11:18	]Maciej Rzymski has lost a '#87608's Identity Card' #1660808.
+[13:11:20	]Maciej Rzymski has used a context menu option with the name: remove
+[13:11:24	]Maciej Rzymski used command '/CreateCid maciej'.
+[13:11:24	]Maciej Rzymski has gained a '#87608's Identity Card' #1660810.
+[13:11:32	]Maciej Rzymski ran 'SetCredits' on item '#87608's Identity Card' (#1660810)
+[13:11:38	]thc has set card #1660810's credits to 30000.
+[13:11:39	]Maciej Rzymski ran 'Equip' on item 'Combine PDA' (#1660809)
+[13:13:16	]Maciej Rzymski used command '/SetDatafilePoints maciej 200'.
+[13:14:50	]Maciej Rzymski has gained level 50 in the Crafting skill.
+[13:14:50	]Maciej Rzymski used command '/CharSkillSet maciej crafting 50'.
+[13:15:13	]Maciej Rzymski used command '/CharSkillSet maciej crafting 0'.
+[13:15:18	]Maciej Rzymski has gained level 20 in the Crafting skill.
+[13:15:18	]Maciej Rzymski used command '/CharSkillSet maciej crafting 20'.
+[13:15:23	]Maciej Rzymski has gained level 20 in the Smuggling skill.
+[13:15:23	]Maciej Rzymski used command '/CharSkillSet maciej smug 20'.
+[13:15:30	]Maciej Rzymski has gained level 20 in the Medicine skill.
+[13:15:30	]Maciej Rzymski used command '/CharSkillSet maciej med 20'.
+[13:15:33	]Maciej Rzymski has gained level 20 in the Speed skill.
+[13:15:33	]Maciej Rzymski used command '/CharSkillSet maciej spee 20'.
+[13:15:38	]Maciej Rzymski has gained level 20 in the Cooking skill.
+[13:15:38	]Maciej Rzymski used command '/CharSkillSet maciej cook 20'.
+[13:15:43	]Maciej Rzymski has gained level 20 in the Guns skill.
+[13:15:43	]Maciej Rzymski used command '/CharSkillSet maciej guns 20'.
+[13:15:50	]Maciej Rzymski used command '/CharSkillSet maciej craft 10'.
+[13:15:55	]Maciej Rzymski has gained level 20 in the Crafting skill.
+[13:15:55	]Maciej Rzymski used command '/CharSkillSet maciej craft 20'.
+[13:16:00	]Maciej Rzymski used command '/CharSkillSet maciej guns 0'.
+[13:16:04	]Maciej Rzymski used command '/CharSkillSet maciej mel 0'.
+[13:16:08	]Maciej Rzymski has gained level 20 in the Melee skill.
+[13:16:08	]Maciej Rzymski used command '/CharSkillSet maciej mel 20'.
+[13:16:37	]Maciej Rzymski used command '/PlyGiveAllFlags macie'.
+[13:16:46	]Maciej Rzymski has given himself a capda.
+[13:16:46	]Maciej Rzymski has gained a 'Civil Administration PDA' #1660811.
+[13:16:55	]Maciej Rzymski ran 'EquipUn' on item 'Combine PDA' (#1660809)
+[13:16:56	]Maciej Rzymski ran 'Equip' on item 'Civil Administration PDA' (#1660811)
+[13:17:19	]Maciej Rzymski ran 'EquipUn' on item 'Civil Administration PDA' (#1660811)
+[13:17:26	]Maciej Rzymski has given himself a flashlight.
+[13:17:26	]Maciej Rzymski has gained a 'Flashlight' #1660812.
+[13:17:33	]Maciej Rzymski has given himself a sg556.
+[13:17:33	]Maciej Rzymski has gained a 'SG556' #1660813.
+[13:17:36	]Maciej Rzymski ran 'Equip' on item 'SG556' (#1660813)
+[13:17:40	]Maciej Rzymski ran 'EquipUn' on item 'SG556' (#1660813)
+[13:17:42	]Maciej Rzymski ran 'drop' on item 'SG556' (#1660813)
+[13:17:42	]Maciej Rzymski has lost a 'SG556' #1660813.
+[13:17:44	]Maciej Rzymski has used a context menu option with the name: remove
+[13:17:51	]Maciej Rzymski has given himself a largebag.
+[13:17:51	]Maciej Rzymski has gained a 'Large Bag' #1660814.
+[13:18:05	]Maciej Rzymski has given himself a suppressionrifle.
+[13:18:05	]Maciej Rzymski has gained a 'OSPR2A-EXP' #1660815.
+[13:18:14	]Maciej Rzymski has given himself a magazine_ospr_24rnd.
+[13:18:15	]Maciej Rzymski has gained a '24rnd Heavy-Pulse Magazine' #1660816.
+[13:18:20	]Maciej Rzymski has given himself a magazine_ospr_24rnd.
+[13:18:20	]Maciej Rzymski has gained a '24rnd Heavy-Pulse Magazine' #1660817.
+[13:18:21	]Maciej Rzymski has given himself a magazine_ospr_24rnd.
+[13:18:21	]Maciej Rzymski has gained a '24rnd Heavy-Pulse Magazine' #1660818.
+[13:18:28	]Maciej Rzymski has given himself a bullets_heavypulse.
+[13:18:28	]Maciej Rzymski has gained a 'Heavy Pulse Rounds' #1660819.
+[13:18:29	]Maciej Rzymski has given himself a bullets_heavypulse.
+[13:18:29	]Maciej Rzymski has gained a 'Heavy Pulse Rounds' #1660820.
+[13:18:30	]Maciej Rzymski has given himself a bullets_heavypulse.
+[13:18:30	]Maciej Rzymski has gained a 'Heavy Pulse Rounds' #1660821.
+[13:18:31	]Maciej Rzymski has given himself a bullets_heavypulse.
+[13:18:31	]Maciej Rzymski has gained a 'Heavy Pulse Rounds' #1660822.
+[13:18:31	]Maciej Rzymski has given himself a bullets_heavypulse.
+[13:18:31	]Maciej Rzymski has gained a 'Heavy Pulse Rounds' #1660823.
+[13:18:32	]Maciej Rzymski has given himself a bullets_heavypulse.
+[13:18:32	]Maciej Rzymski has gained a 'Heavy Pulse Rounds' #1660824.
+[13:18:34	]Maciej Rzymski ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#1660816)
+[13:18:35	]Maciej Rzymski ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#1660817)
+[13:18:36	]Maciej Rzymski ran 'combine' on item '24rnd Heavy-Pulse Magazine' (#1660818)
+[13:18:43	]Maciej Rzymski has given himself a bullets_heavypulse.
+[13:18:43	]Maciej Rzymski has gained a 'Heavy Pulse Rounds' #1660825.
+[13:18:44	]Maciej Rzymski has given himself a bullets_heavypulse.
+[13:18:44	]Maciej Rzymski has gained a 'Heavy Pulse Rounds' #1660826.
+[13:18:45	]Maciej Rzymski has given himself a bullets_heavypulse.
+[13:18:45	]Maciej Rzymski has gained a 'Heavy Pulse Rounds' #1660827.
+[13:18:48	]Maciej Rzymski has given himself a bullets_heavypulse.
+[13:18:48	]Maciej Rzymski has gained a 'Heavy Pulse Rounds' #1660828.
+[13:19:02	]Maciej Rzymski has given himself a drug_thirdeye.
+[13:19:02	]Maciej Rzymski has gained a 'The Third Eye' #1660829.
+[13:19:09	]Maciej Rzymski ran 'Equip' on item 'OSPR2A-EXP' (#1660815)
+[13:19:10	]Maciej Rzymski has lost a '24rnd Heavy-Pulse Magazine' #1660818.
+[13:19:17	]Maciej Rzymski has gained a '24rnd Heavy-Pulse Magazine' #1660818.
+[13:19:17	]Maciej Rzymski has lost a '24rnd Heavy-Pulse Magazine' #1660817.
+[13:19:20	]Maciej Rzymski has gained a '24rnd Heavy-Pulse Magazine' #1660817.
+[13:19:20	]Maciej Rzymski has lost a '24rnd Heavy-Pulse Magazine' #1660816.
+[13:19:24	]Maciej Rzymski ran 'EquipUn' on item 'OSPR2A-EXP' (#1660815)
+[13:19:24	]Maciej Rzymski has gained a '24rnd Heavy-Pulse Magazine' #1660816.
+[13:19:38	]Maciej Rzymski ran SAM command 'admin' with arguments: ''
+[13:19:44	]Maciej Rzymski ran SAM command 'unadmin' with arguments: ''
+[13:19:49	]Maciej Rzymski ran SAM command 'admin' with arguments: ''
+[13:19:52	]Maciej Rzymski ran SAM command 'unadmin' with arguments: ''
+[13:19:54	]Maciej Rzymski has taken 49 damage from worldspawn.
+[13:19:58	]Maciej Rzymski ran SAM command 'hp' with arguments: 'mac' '100'
+[13:19:59	]Maciej Rzymski is fully healed.
+[13:20:03	]Maciej Rzymski ran SAM command 'hp' with arguments: 'mac' '200'
+[13:20:05	]Maciej Rzymski ran SAM command 'armor' with arguments: 'mac' '200'
+[13:20:17	]Maciej Rzymski has given himself a uniform_s24.
+[13:20:17	]Maciej Rzymski has gained a 'Summit 24 Elite Uniform' #1660830.
+[13:20:22	]Maciej Rzymski ran 'drop' on item 'Large Bag' (#1660814)
+[13:20:22	]Maciej Rzymski has lost a 'Large Bag' #1660814.
+[13:20:25	]Maciej Rzymski ran 'take' on item 'Large Bag' (#1660814)
+[13:20:25	]Maciej Rzymski has gained a 'Large Bag' #1660814.
+[13:20:49	]Maciej Rzymski used command '/PlyTransfer mac citi'.
+[13:20:54	][IC] Maciej Rzymski: S.
+[13:21:40	]thc created the character 'C17:RCT.YELLO-58'
+[13:21:40	]Maciej Rzymski has gained level 5 in the Guns skill.
+[13:21:40	]Maciej Rzymski has gained level 10 in the Speed skill.
+[13:21:40	]thc loaded the character 'C17:RCT.YELLO-58'
+[13:21:40	]C17:RCT.YELLO-58 has gained a '#22952's Identity Card' #1660831.
+[13:21:40	]C17:RCT.YELLO-58 has gained a 'Combine PDA' #1660832.
+[13:21:40	]C17:RCT.YELLO-58 has gained a 'CP Uniform' #1660833.
+[13:21:40	]C17:RCT.YELLO-58 has gained a 'CP Mask' #1660834.
+[13:21:40	]C17:RCT.YELLO-58 has gained a 'Handheld Radio' #1660835.
+[13:21:40	]C17:RCT.YELLO-58 has gained a 'Small Bag' #1660836.
+[13:21:40	]C17:RCT.YELLO-58 has gained a 'Large Bag' #1660837.
+[13:22:04	]C17:RCT.YELLO-58 ran SAM command 'admin' with arguments: ''
+[13:22:06	]C17:RCT.YELLO-58 ran SAM command 'unadmin' with arguments: ''
+[13:22:16	]thc (STEAM_0:1:709534478) deleted character 'C17:RCT.YELLO-58'
+[13:22:25	]thc created the character 'C24.CREMATOR:388'
+[13:22:25	]thc loaded the character 'C24.CREMATOR:388'
+[13:23:05	]env_fire destroyed a '357 Rounds' #1660152.
+[13:23:05	]entityflame destroyed a '6rnd Popper-magazine' #1660149.
+[13:23:15	]C24.CREMATOR:388 entered observer.
+[13:23:17	]C24.CREMATOR:388 has taken 0 damage from point_hurt.
+[13:23:18	]C24.CREMATOR:388 has taken 0 damage from point_hurt.
+[13:23:18	]C24.CREMATOR:388 has taken 0 damage from point_hurt.
+[13:23:18	]C24.CREMATOR:388 has taken 0 damage from point_hurt.
+[13:23:18	]C24.CREMATOR:388 has taken 0 damage from point_hurt.
+[13:23:18	]C24.CREMATOR:388 has taken 0 damage from point_hurt.
+[13:23:18	]C24.CREMATOR:388 has taken 1 damage from env_fire.
+[13:23:18	]C24.CREMATOR:388 has taken 3 damage from point_hurt.
+[13:23:18	]C24.CREMATOR:388 has taken 0 damage from point_hurt.
+[13:23:25	]C24.CREMATOR:388 has taken 1 damage from env_fire.
+[13:23:27	]C24.CREMATOR:388 has taken 0 damage from point_hurt.
+[13:23:27	]C24.CREMATOR:388 has taken 0 damage from point_hurt.
+[13:23:27	]C24.CREMATOR:388 has taken 0 damage from point_hurt.
+[13:23:27	]C24.CREMATOR:388 has taken 0 damage from point_hurt.
+[13:23:27	]C24.CREMATOR:388 has taken 0 damage from point_hurt.
+[13:23:27	]C24.CREMATOR:388 has taken 0 damage from point_hurt.
+[13:23:28	]C24.CREMATOR:388 has taken 0 damage from point_hurt.
+[13:23:28	]point_hurt destroyed a '60rnd OTAR-magazine' #1660271.
+[13:23:28	]point_hurt destroyed a '60rnd OTAR-magazine' #1660272.
+[13:23:28	]point_hurt destroyed a '60rnd OTAR-magazine' #1660274.
+[13:23:28	]C24.CREMATOR:388 has taken 2 damage from point_hurt.
+[13:23:28	]C24.CREMATOR:388 has taken 1 damage from point_hurt.
+[13:23:28	]C24.CREMATOR:388 has taken 0 damage from point_hurt.
+[13:23:28	]C24.CREMATOR:388 has taken 0 damage from point_hurt.
+[13:23:28	]C24.CREMATOR:388 has taken 0 damage from point_hurt.
+[13:23:28	]entityflame destroyed a 'Popper' #1660168.
+[13:23:30	]C24.CREMATOR:388 has taken 0 damage from point_hurt.
+[13:23:30	]C24.CREMATOR:388 has taken 0 damage from point_hurt.
+[13:23:50	]thc (STEAM_0:1:709534478) deleted character 'C24.CREMATOR:388'
+[13:24:02	]thc created the character '123123123123123123'
+[13:24:02	]thc loaded the character '123123123123123123'
+[13:24:02	]123123123123123123 has gained a '#93220's Identity Card' #1660838.
+[13:24:02	]123123123123123123 has gained a 'Combine PDA' #1660839.
+[13:24:15	]thc (STEAM_0:1:709534478) deleted character '123123123123123123'
+[13:24:30	]thc created the character 'S10/OWS.GHOST-42'
+[13:24:30	]thc has gained level 40 in the Guns skill.
+[13:24:30	]thc has gained level 40 in the Speed skill.
+[13:24:30	]thc loaded the character 'S10/OWS.GHOST-42'
+[13:24:30	]S10/OWS.GHOST-42 has gained a 'Small Bag' #1660840.
+[13:24:30	]S10/OWS.GHOST-42 has gained a 'Large Bag' #1660841.
+[13:24:30	]S10/OWS.GHOST-42 has gained a 'Flashlight' #1660842.
+[13:24:30	]S10/OWS.GHOST-42 has gained a 'Combine PDA' #1660843.
+[13:24:30	]S10/OWS.GHOST-42 has gained a 'OTA Uniform' #1660844.
+[13:24:30	]S10/OWS.GHOST-42 has gained a 'OTA Mask' #1660845.
+[13:24:30	]S10/OWS.GHOST-42 has gained a 'Rappel Gear' #1660846.
+[13:24:30	]S10/OWS.GHOST-42 has gained a 'Magazine Pouch' #1660847.
+[13:24:30	]S10/OWS.GHOST-42 has gained a 'Ammunition Pouch' #1660848.
+[13:33:56	]Mango has connected.
+[13:34:47	]Mango loaded the character 'C17:RCT.YELLO-97'
+[13:34:52	]C17:RCT.YELLO-97 is fully healed.
+[13:34:58	]C17:RCT.YELLO-97 used command '/Datafile banana'.
+[13:35:30	]Mango loaded the character 'Gulangis'
+[13:35:42	]Mango (STEAM_0:0:544539350) deleted character 'Gulangis'
+[13:35:54	]Mango created the character 'Churrlung'
+[13:35:54	]Mango loaded the character 'Churrlung'
+[13:35:54	]Churrlung has gained a 'Vortigaunt Hooks' #1660849.
+[13:35:54	]Churrlung has gained a 'Vortigaunt Shackles' #1660850.
+[13:35:54	]Churrlung has gained a 'Vortigaunt Collar' #1660851.
+[13:36:20	]Mango loaded the character 'C17:RCT.YELLO-97'
+[13:36:29	]C17:RCT.YELLO-97 used command '/Datafile 62832'.
+[13:36:39	]C17:RCT.YELLO-97 used command '/Datafile 6283'.
+[13:39:08	]Mango loaded the character 'Churrlung'
+[13:39:27	][IC] Churrlung: A.
+[13:39:29	]Churrlung used command '/CreateCid churr'.
+[13:39:30	]Churrlung has gained a '#63709's Identity Card' #1660852.
+[13:39:33	]Churrlung has acquired his ration, gaining 0 credits, 0 wages and a ration ration.
+[13:39:46	]Churrlung ran 'Open' on item 'Ration' (#1660853)
+[13:39:46	]Churrlung has gained a 'Artificial Paste' #1660854.
+[13:39:46	]Churrlung has gained a 'Breen's Water' #1660855.
+[13:39:46	]Churrlung has gained a 'Basic Credits Coupon' #1660856.
+[13:40:01	]Churrlung ran 'Use' on item 'Basic Credits Coupon' (#1660856)
+[13:40:04	]Churrlung has used a coupon at a ration dispenser, gaining 15 credits.
+[13:40:19	]Churrlung used command '/Datafile Churr'.
+[13:45:38	]Churrlung has gone afk.
+[13:46:13	]Churrlung is no longer afk. Total time spent AFK: 330
+[13:51:43	]Churrlung has gone afk.
+[13:54:28	]Churrlung is no longer afk. Total time spent AFK: 460
+[13:54:33	]Mango (STEAM_0:0:544539350) has disconnected.
+[14:18:59	]thc has connected.
+[14:21:21	]thc (STEAM_0:1:709534478) deleted character 'S10/OWS.GHOST-42'
+[14:21:23	]thc loaded the character 'Maciej Rzymski'
+[14:21:42	]Maciej Rzymski used command '/PlyWhitelist maciej guard'.
+[14:22:09	]thc created the character '12312312312321313'
+[14:22:09	]Maciej Rzymski has gained level 35 in the Guns skill.
+[14:22:09	]Maciej Rzymski has gained level 30 in the Speed skill.
+[14:22:10	]thc loaded the character '12312312312321313'
+[14:22:10	]12312312312321313 has gained a '#98850's Identity Card' #1660857.
+[14:22:10	]12312312312321313 has gained a 'Flashlight' #1660858.
+[14:22:10	]12312312312321313 has gained a 'Small Bag' #1660859.
+[14:22:10	]12312312312321313 has gained a 'Large Bag' #1660860.
+[14:22:10	]12312312312321313 has gained a 'Handheld Radio' #1660861.
+[14:22:10	]12312312312321313 has gained a 'Light Blue CCG badge' #1660862.
+[14:22:20	]12312312312321313 ran 'Equip' on item 'Light Blue CCG badge' (#1660862)
+[14:22:35	]12312312312321313 ran 'ToggleOn' on item 'Handheld Radio' (#1660861)
+[14:22:45	]12312312312321313 used command '/SC secn'.
+[14:22:47	]12312312312321313 used command '/Radio ss'.
+[14:22:53	]thc (STEAM_0:1:709534478) has disconnected.
+[15:41:40	]Mango has connected.
+[16:15:06	]Mango has connected.
+[16:15:45	]Mango loaded the character 'Churrlung'
+[16:16:11	]Churrlung ran 'Consume' on item 'Breen's Water' (#1660855)
+[16:16:11	]Churrlung has gained a 'Empty Breen's Water' #1660863.
+[16:16:12	]Churrlung ran 'Consume' on item 'Artificial Paste' (#1660854)
+[16:16:12	]Churrlung has gained a 'Empty Jar' #1660864.
+[16:16:26	]Churrlung used command '/Datafile churr'.
+[16:17:59	]Churrlung used command '/Datafile !churr'.
+[16:23:21	][IC] Churrlung: For freedom!
+[16:23:24	][IC] Churrlung: For freedom!
+[16:23:30	][IC] Churrlung: For freedom, come!
+[16:25:22	]Churrlung has gained level 50 in the Speed skill.
+[16:25:22	]Churrlung used command '/CharSkillSet churr speed 200'.
+[16:25:27	]Churrlung ran SAM command 'respawn' with arguments: ''
+[16:27:44	]Shimac's Stew has connected.
+[16:28:33	]Churrlung used command '/CharDesc I'm a mango vortigaunt'.
+[16:28:42	]Churrlung used command '/CharDesc I'm a mango vortigaunt, look at me i'm so cute'.
+[16:31:48	]Shimac's Stew loaded the character 'This Stew'
+[16:32:05	]This Stew ran 'use' on item 'Disinfected Bandage Roll' (#1657972)
+[16:32:05	]This Stew has performed the 'Use Disinfected Bandage Roll' action, gaining 22 experience in medicine.
+[16:32:05	]This Stew was disinfected by This Stew for 64 seconds.
+[16:32:05	]This Stew was bandaged by This Stew for 15 HP.
+[16:32:13	]This Stew ran SAM command 'asay' with arguments: 'Helpp'
+[16:32:21	][IC] Churrlung: Greetings.
+[16:32:26	][IC] Churrlung: Yes.
+[16:32:27	][IC] Churrlung: Yes...
+[16:32:27	][IC] This Stew: Fantastic.
+[16:32:30	][IC] Churrlung: Wawawiwa.
+[16:32:31	][IC] This Stew: NOOO.
+[16:32:35	][IC] This Stew: MY VOICELINES.
+[16:32:38	][IC] Churrlung: Amspfo;  asdjmasp;  dmj.
+[16:32:43	]This Stew used the 'John Doe' vendor.
+[16:32:50	][IC] Churrlung: Are you ready to do the most difficult testing of all times!?
+[16:32:56	][IC] Churrlung: Ever to exist.
+[16:32:57	][IC] This Stew: Do I get a prize?!
+[16:32:57	][IC] Churrlung: Ever.
+[16:33:03	][IC] Churrlung: Yes, you get a mango.
+[16:33:07	][IC] This Stew: I want it ripe.
+[16:33:11	][IC] Churrlung: You got it.
+[16:33:17	][IC] This Stew: Then it is agreed.
+[16:33:19	][IC] This Stew: :3.
+[16:33:29	][IC] Churrlung: Uhhh, what do you need to access the terminal thingy.
+[16:33:37	][IC] This Stew: Okay, okay.
+[16:33:38	]Churrlung has spawned a 'Entity [394][ix_workshiftterminal]'.
+[16:33:41	][IC] This Stew: I'm not in the CWU faction tho.
+[16:33:57	]Churrlung used command '/PlyWhitelist stew civil worker'.
+[16:34:07	]This Stew ran 'Repair' on item 'Heavy Kevlar Uniform' (#1658020)
+[16:34:15	][IC] Churrlung: I whitelisted you.
+[16:34:18	][IC] This Stew: Transfer me to the faction.
+[16:34:21	][IC] Churrlung: Oh.
+[16:34:22	][IC] This Stew: I don't have staff powers here.
+[16:34:27	]Churrlung used command '/PlyTransfer stew civil worker'.
+[16:34:48	][IC] This Stew: Oh, I lost my CID.
+[16:34:53	]Churrlung used command '/CreateCid stew'.
+[16:34:53	]This Stew has gained a '#59718's Identity Card' #1660865.
+[16:34:58	][IC] This Stew: Nice.
+[16:35:02	][IC] This Stew: Try it.
+[16:35:03	][IC] Churrlung: Galunga.
+[16:35:12	][IC] Churrlung: Success!
+[16:35:17	][IC] This Stew: Nope.
+[16:35:19	][IC] Churrlung: Bish.
+[16:35:20	][IC] This Stew: You're still not in.
+[16:35:29	]This Stew was knocked unconscious and is bleeding out.
+[16:35:35	]Churrlung ran SAM command 'respawn' with arguments: 'stew'
+[16:35:35	]This Stew used command '/CharGetUp'.
+[16:35:47	][IC] Churrlung: Oh I got an error, thats good.
+[16:35:57	][IC] This Stew: Well, we can't give out SC.
+[16:36:01	][IC] This Stew: But we can give our the coupons.
+[16:36:06	][IC] This Stew: For biotics, that is.
+[16:36:16	][IC] Churrlung: You'll also be able to give cohesion points.
+[16:36:16	][IC] This Stew: CP's have to manually set the SC for the Biotics.
+[16:36:24	][IC] Churrlung: The same way, I mean.
+[16:36:29	][IC] This Stew: Oooh.
+[16:36:35	]This Stew ran 'use' on item 'Disinfected Bandage Roll' (#1657972)
+[16:36:35	]This Stew has performed the 'Use Disinfected Bandage Roll' action, gaining 22 experience in medicine.
+[16:36:35	]This Stew was disinfected by This Stew for 64 seconds.
+[16:36:35	]This Stew was bandaged by This Stew for 15 HP.
+[16:36:39	]This Stew used the 'Munition Lady' vendor.
+[16:36:57	][IC] Churrlung: I'll update in 30 mins on this server, so for now test is over but I'll fix that error and then it should work.
+[16:37:06	]This Stew has gained 0 chips.
+[16:37:06	]This Stew has gained a 'Overwatch Assault Shotgun' #1660866.
+[16:37:15	][IC] Churrlung: It'll update*.
+[16:37:24	]This Stew ran 'Equip' on item 'Overwatch Assault Shotgun' (#1660866)
+[16:37:28	][IC] This Stew: Got it.
+[16:37:31	]This Stew used the 'Munition Lady' vendor.
+[16:37:35	][IC] Churrlung: Thanks for the help my fren.
+[16:37:37	]This Stew has gained 0 chips.
+[16:37:38	]This Stew has gained a '12rnd OAIS-magazine' #1660867.
+[16:37:38	]This Stew has gained 0 chips.
+[16:37:38	]This Stew has gained a '12rnd OAIS-magazine' #1660868.
+[16:37:44	][IC] This Stew: No problemo.
+[16:37:52	][IC] This Stew: Need me to stay longer while you update it?
+[16:37:56	][IC] This Stew: I can just AFK for a bit here :3.
+[16:37:59	]This Stew ran 'combine' on item '12rnd OAIS-magazine' (#1660868)
+[16:38:00	]This Stew ran 'combine' on item '12rnd OAIS-magazine' (#1660867)
+[16:38:01	]This Stew ran 'combine' on item '12rnd OAIS-magazine' (#1660868)
+[16:38:02	]This Stew has lost a '12rnd OAIS-magazine' #1660868.
+[16:38:03	]This Stew used the 'Munition Lady' vendor.
+[16:38:05	]This Stew has gained 0 chips.
+[16:38:05	]This Stew has gained a 'Buckshot Shotgun Shells' #1660869.
+[16:38:06	]This Stew has gained 0 chips.
+[16:38:06	]This Stew has gained a 'Buckshot Shotgun Shells' #1660870.
+[16:38:10	]This Stew has gained 0 chips.
+[16:38:10	]This Stew has gained a '12rnd OAIS-magazine' #1660871.
+[16:38:15	]This Stew ran 'combine' on item '12rnd OAIS-magazine' (#1660871)
+[16:38:16	]This Stew ran 'combine' on item '12rnd OAIS-magazine' (#1660871)
+[16:38:20	]This Stew has gained a '12rnd OAIS-magazine' #1660868.
+[16:38:20	]This Stew has lost a '12rnd OAIS-magazine' #1660871.
+[16:38:21	]This Stew used command '/ToggleRaise'.
+[16:38:31	]This Stew has gained a '12rnd OAIS-magazine' #1660871.
+[16:38:31	]This Stew has lost a '12rnd OAIS-magazine' #1660868.
+[16:38:33	]This Stew ran 'combine' on item '12rnd OAIS-magazine' (#1660871)
+[16:38:38	][IC] Churrlung: It'll update in like 20 mins.
+[16:38:44	]This Stew has critically hit npc_combine_camera dealing 9 damage (CritChance was 0.84).
+[16:38:44	]This Stew has hit npc_combine_camera dealing 6 damage (CritChance was 0.84).
+[16:38:44	]This Stew has critically hit npc_combine_camera dealing 0 damage (CritChance was 0.84).
+[16:38:44	]This Stew has critically hit npc_combine_camera dealing 9 damage (CritChance was 0.84).
+[16:38:44	]This Stew has hit npc_combine_camera dealing 6 damage (CritChance was 0.84).
+[16:38:44	]This Stew has critically hit npc_combine_camera dealing 9 damage (CritChance was 0.84).
+[16:38:44	]This Stew has critically hit npc_combine_camera dealing 9 damage (CritChance was 0.84).
+[16:38:44	]This Stew has critically hit npc_combine_camera dealing 9 damage (CritChance was 0.84).
+[16:38:44	]This Stew has critically hit npc_combine_camera dealing 0 damage (CritChance was 0.84).
+[16:38:44	]This Stew has critically hit npc_combine_camera dealing 9 damage (CritChance was 0.84).
+[16:38:44	][IC] Churrlung: If you can, I'd appreciate it.
+[16:38:47	]This Stew has critically hit npc_combine_camera dealing 9 damage (CritChance was 0.84).
+[16:38:47	]This Stew has critically hit npc_combine_camera dealing 9 damage (CritChance was 0.84).
+[16:38:47	]This Stew has critically hit npc_combine_camera dealing 9 damage (CritChance was 0.84).
+[16:38:48	]This Stew has critically hit npc_combine_camera dealing 9 damage (CritChance was 0.84).
+[16:38:54	][IC] This Stew: Aighty.
+[16:38:54	][IC] Churrlung: While you obliterate the world.
+[16:39:05	][IC] This Stew: Coolio - I'ma just stand still like a statue.
+[16:39:05	]This Stew has gained a '12rnd OAIS-magazine' #1660868.
+[16:39:05	]This Stew has lost a '12rnd OAIS-magazine' #1660871.
+[16:39:07	]This Stew ran 'combine' on item '12rnd OAIS-magazine' (#1660868)
+[16:39:08	]This Stew ran 'combine' on item '12rnd OAIS-magazine' (#1660868)
+[16:39:11	][IC] Churrlung: V.
+[16:39:11	]This Stew used command '/ActStand 4'.
+[16:39:12	][IC] Churrlung: Gah'lung...
+[16:39:13	]This Stew used command '/ExitAct'.
+[16:39:18	]Churrlung ran SAM command 'scale' with arguments: 'churr' '2'
+[16:39:18	]This Stew used command '/ToggleRaise'.
+[16:39:31	][IC] Churrlung: Time to eat human.
+[16:39:34	]This Stew has gained a '12rnd OAIS-magazine' #1660871.
+[16:39:34	]This Stew has lost a '12rnd OAIS-magazine' #1660868.
+[16:39:37	][IC] This Stew: OH NO.
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:38	]Churrlung has taken 9 damage from This Stew.
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:38	]Churrlung has taken 9 damage from This Stew.
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:38	]Churrlung has taken 9 damage from This Stew.
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:38	]Churrlung has taken 9 damage from This Stew.
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:38	]Churrlung has taken 9 damage from This Stew.
+[16:39:38	]This Stew has hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has hit Churrlung dealing 6 damage (CritChance was 0.84).
+[16:39:38	]Churrlung has taken 6 damage from This Stew.
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:38	]Churrlung has taken 9 damage from This Stew.
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:38	]Churrlung has taken 9 damage from This Stew.
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:38	]Churrlung has taken 9 damage from This Stew.
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:38	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:38	]Churrlung has taken 9 damage from This Stew.
+[16:39:44	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:44	]Churrlung has taken 9 damage from This Stew.
+[16:39:44	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:44	]Churrlung has taken 9 damage from This Stew.
+[16:39:44	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:44	]Churrlung has taken 9 damage from This Stew.
+[16:39:44	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:44	]Churrlung has taken 9 damage from This Stew.
+[16:39:44	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:44	]Churrlung has taken 9 damage from This Stew.
+[16:39:44	]This Stew has hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:44	]Churrlung has taken 9 damage from This Stew.
+[16:39:44	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:44	]Churrlung has taken 9 damage from This Stew.
+[16:39:44	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:44	]Churrlung has taken 9 damage from This Stew.
+[16:39:44	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:44	]Churrlung has taken 9 damage from This Stew.
+[16:39:44	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:44	]This Stew has hit Churrlung dealing 6 damage (CritChance was 0.84).
+[16:39:44	]Churrlung has taken 6 damage from This Stew.
+[16:39:45	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:45	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:45	]Churrlung has taken 9 damage from This Stew.
+[16:39:45	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:45	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:45	]Churrlung has taken 9 damage from This Stew.
+[16:39:45	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:45	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:45	]Churrlung was knocked unconscious and is bleeding out.
+[16:39:48	][IC] This Stew: LMAO.
+[16:39:50	][IC] Churrlung: Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.
+[16:39:52	]This Stew used command '/ToggleRaise'.
+[16:39:54	][IC] This Stew: DIE.
+[16:39:55	]Churrlung ran SAM command 'respawn' with arguments: ''
+[16:39:55	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:55	]This Stew has hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:55	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:55	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:55	]Churrlung has taken 8 damage from This Stew.
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:58	]Churrlung has taken 9 damage from This Stew.
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has hit Churrlung dealing 6 damage (CritChance was 0.84).
+[16:39:58	]Churrlung has taken 6 damage from This Stew.
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:58	]Churrlung has taken 9 damage from This Stew.
+[16:39:58	]This Stew has hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:58	]Churrlung has taken 9 damage from This Stew.
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:58	]Churrlung has taken 9 damage from This Stew.
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:58	]Churrlung has taken 9 damage from This Stew.
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:58	]Churrlung has taken 9 damage from This Stew.
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:58	]Churrlung has taken 9 damage from This Stew.
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:58	]Churrlung has taken 9 damage from This Stew.
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:58	]Churrlung has taken 9 damage from This Stew.
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has hit Churrlung dealing 6 damage (CritChance was 0.84).
+[16:39:58	]Churrlung has taken 6 damage from This Stew.
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:58	]Churrlung has taken 9 damage from This Stew.
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:58	]Churrlung has taken 9 damage from This Stew.
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:58	]Churrlung has taken 9 damage from This Stew.
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has hit Churrlung dealing 6 damage (CritChance was 0.84).
+[16:39:58	]Churrlung has taken 6 damage from This Stew.
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:58	]Churrlung has taken 9 damage from This Stew.
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:58	]Churrlung has taken 9 damage from This Stew.
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:58	]Churrlung has taken 9 damage from This Stew.
+[16:39:58	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has hit Churrlung dealing 6 damage (CritChance was 0.84).
+[16:39:58	]Churrlung has taken 6 damage from This Stew.
+[16:39:58	]This Stew has hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:58	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:58	]Churrlung has taken 9 damage from This Stew.
+[16:39:59	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:59	]Churrlung has taken 9 damage from This Stew.
+[16:39:59	]This Stew has hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:59	]This Stew has hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:59	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:59	]This Stew has critically hit Churrlung dealing 9 damage (CritChance was 0.84).
+[16:39:59	]Churrlung has taken 9 damage from This Stew.
+[16:39:59	]This Stew has critically hit Churrlung dealing 0 damage (CritChance was 0.84).
+[16:39:59	]This Stew has hit Churrlung dealing 6 damage (CritChance was 0.84).
+[16:39:59	]Churrlung was knocked unconscious and is bleeding out.
+[16:40:00	]This Stew has gained a '12rnd OAIS-magazine' #1660868.
+[16:40:00	]This Stew has lost a '12rnd OAIS-magazine' #1660867.
+[16:40:02	][IC] This Stew: XD.
+[16:40:06	]This Stew ran 'combine' on item '12rnd OAIS-magazine' (#1660871)
+[16:40:07	]This Stew ran 'combine' on item '12rnd OAIS-magazine' (#1660868)
+[16:40:10	][IC] This Stew: Shotgun too op.
+[16:40:16	]This Stew used command '/ToggleRaise'.
+[16:40:28	]This Stew has gained a '12rnd OAIS-magazine' #1660867.
+[16:40:28	]This Stew has lost a '12rnd OAIS-magazine' #1660871.
+[16:41:05	]This Stew has gained a '12rnd OAIS-magazine' #1660871.
+[16:41:05	]This Stew has lost a '12rnd OAIS-magazine' #1660868.
+[16:41:06	]This Stew ran 'combine' on item '12rnd OAIS-magazine' (#1660867)
+[16:41:07	]This Stew ran 'combine' on item '12rnd OAIS-magazine' (#1660871)
+[16:41:18	]This Stew has gained a '12rnd OAIS-magazine' #1660868.
+[16:41:18	]This Stew has lost a '12rnd OAIS-magazine' #1660867.
+[16:41:28	]This Stew used the 'Munition Lady' vendor.
+[16:41:30	]This Stew has gained 0 chips.
+[16:41:31	]This Stew has gained 0 chips.
+[16:41:34	]This Stew has gained 0 chips.
+[16:41:34	]This Stew has gained a 'Buckshot Shotgun Shells' #1660872.
+[16:41:34	]This Stew has gained 0 chips.
+[16:41:34	]This Stew has gained a 'Buckshot Shotgun Shells' #1660873.
+[16:41:35	]This Stew has gained 0 chips.
+[16:41:35	]This Stew has gained a 'Buckshot Shotgun Shells' #1660874.
+[16:41:39	]This Stew ran 'EquipUn' on item 'Overwatch Assault Shotgun' (#1660866)
+[16:41:39	]This Stew has gained a '12rnd OAIS-magazine' #1660867.
+[16:41:39	]This Stew used the 'Munition Lady' vendor.
+[16:41:41	]This Stew has gained 0 chips.
+[16:41:43	]This Stew has gained 0 chips.
+[16:41:45	]This Stew has gained 0 chips.
+[16:41:45	]This Stew has gained a 'Model 870' #1660875.
+[16:41:47	]This Stew has gained 0 chips.
+[16:41:48	]This Stew has gained a '8rnd 870-magazine' #1660876.
+[16:41:48	]This Stew has gained 0 chips.
+[16:41:48	]This Stew has gained a '8rnd 870-magazine' #1660877.
+[16:41:49	]This Stew has gained 0 chips.
+[16:41:49	]This Stew has gained a '8rnd 870-magazine' #1660878.
+[16:41:52	]This Stew ran 'Equip' on item 'Model 870' (#1660875)
+[16:41:54	]This Stew ran 'combine' on item '8rnd 870-magazine' (#1660876)
+[16:41:55	]This Stew ran 'combine' on item '8rnd 870-magazine' (#1660876)
+[16:41:57	]This Stew ran 'combine' on item '8rnd 870-magazine' (#1660878)
+[16:41:57	]This Stew ran 'combine' on item '8rnd 870-magazine' (#1660877)
+[16:41:58	]This Stew has lost a '8rnd 870-magazine' #1660878.
+[16:41:59	]This Stew used command '/ToggleRaise'.
+[16:42:07	]This Stew ran 'take' on item 'Buckshot Shotgun Shells' (#1655974)
+[16:42:07	]This Stew has gained a 'Buckshot Shotgun Shells' #1655974.
+[16:42:24	]This Stew has gained a '8rnd 870-magazine' #1660878.
+[16:42:24	]This Stew has lost a '8rnd 870-magazine' #1660877.
+[16:42:35	]This Stew has gained a '8rnd 870-magazine' #1660877.
+[16:42:35	]This Stew has lost a '8rnd 870-magazine' #1660876.
+[16:42:39	]This Stew ran 'combine' on item '8rnd 870-magazine' (#1660878)
+[16:43:02	]This Stew has gained a '8rnd 870-magazine' #1660876.
+[16:43:02	]This Stew has lost a '8rnd 870-magazine' #1660878.
+[16:43:15	]This Stew has gained a '8rnd 870-magazine' #1660878.
+[16:43:15	]This Stew has lost a '8rnd 870-magazine' #1660877.
+[16:43:17	]This Stew ran 'combine' on item '8rnd 870-magazine' (#1660876)
+[16:43:18	]This Stew ran 'combine' on item '8rnd 870-magazine' (#1660876)
+[16:43:29	]This Stew has gained a '8rnd 870-magazine' #1660877.
+[16:43:29	]This Stew has lost a '8rnd 870-magazine' #1660876.
+[16:43:32	]This Stew ran 'use' on item 'Disinfected Bandage Roll' (#1657978)
+[16:43:32	]This Stew has performed the 'Use Disinfected Bandage Roll' action, gaining 22 experience in medicine.
+[16:43:32	]This Stew was disinfected by This Stew for 64 seconds.
+[16:43:32	]This Stew was bandaged by This Stew for 15 HP.
+[16:43:38	]This Stew destroyed a '357 Rounds' #1660193.
+[16:43:48	]This Stew has gained a '8rnd 870-magazine' #1660876.
+[16:43:48	]This Stew has lost a '8rnd 870-magazine' #1660878.
+[16:43:50	]This Stew ran 'combine' on item '8rnd 870-magazine' (#1660876)
+[16:43:51	]This Stew ran 'combine' on item '8rnd 870-magazine' (#1660877)
+[16:43:56	]This Stew has gained a '8rnd 870-magazine' #1660878.
+[16:43:56	]This Stew has lost a '8rnd 870-magazine' #1660877.
+[16:44:00	]This Stew ran 'combine' on item '8rnd 870-magazine' (#1660878)
+[16:44:01	]This Stew ran 'combine' on item '8rnd 870-magazine' (#1660878)
+[16:44:08	]This Stew has gained a '8rnd 870-magazine' #1660877.
+[16:44:08	]This Stew has lost a '8rnd 870-magazine' #1660878.
+[16:44:10	]This Stew ran 'combine' on item '8rnd 870-magazine' (#1660877)
+[16:44:22	]This Stew has gained a '8rnd 870-magazine' #1660878.
+[16:44:22	]This Stew has lost a '8rnd 870-magazine' #1660877.
+[16:44:24	]This Stew ran 'combine' on item '8rnd 870-magazine' (#1660878)
+[16:44:31	]This Stew has gained a '8rnd 870-magazine' #1660877.
+[16:44:31	]This Stew has lost a '8rnd 870-magazine' #1660878.
+[16:44:33	]This Stew ran 'combine' on item '8rnd 870-magazine' (#1660877)
+[16:44:44	]This Stew has gained a '8rnd 870-magazine' #1660878.
+[16:44:44	]This Stew has lost a '8rnd 870-magazine' #1660877.
+[16:44:46	]This Stew ran 'combine' on item '8rnd 870-magazine' (#1660878)
+[16:45:10	]This Stew has gained a '8rnd 870-magazine' #1660877.
+[16:45:10	]This Stew has lost a '8rnd 870-magazine' #1660878.
+[16:45:15	]Churrlung has gone afk.
+[16:45:17	]This Stew used command '/ToggleRaise'.
+[16:49:55	]Churrlung bled out.
+[16:50:00	]Churrlung is no longer afk. Total time spent AFK: 580
+[16:50:48	]This Stew has gone afk.
+[16:54:40	]Mango (STEAM_0:0:544539350) has disconnected.
+[16:59:06	]Hiros | Error 410 has connected.
+[17:05:04	]Hiros | Error 410 has connected.
+[17:05:51	]Hiros | Error 410 loaded the character 'C24:CpT.TAP-777'
+[17:05:56	]C24:CpT.TAP-777 is fully healed.
+[17:06:00	]C24:CpT.TAP-777 entered observer.
+[17:06:01	]C24:CpT.TAP-777 exited observer at their location.
+[17:06:42	]Hiros | Error 410 created the character 'EEEEEEEEEEEE'
+[17:06:42	]Hiros | Error 410 loaded the character 'EEEEEEEEEEEE'
+[17:06:42	]EEEEEEEEEEEE has gained a '#34206's Identity Card' #1660879.
+[17:06:42	]EEEEEEEEEEEE has gained a 'Vortigaunt Brown Trousers' #1660880.
+[17:06:48	]EEEEEEEEEEEE entered observer.
+[17:06:51	]EEEEEEEEEEEE exited observer at their location.
+[17:06:53	]EEEEEEEEEEEE entered observer.
+[17:06:54	]EEEEEEEEEEEE exited observer at their location.
+[17:06:54	]EEEEEEEEEEEE entered observer.
+[17:06:55	]EEEEEEEEEEEE exited observer at their location.
+[17:07:00	]EEEEEEEEEEEE entered observer.
+[17:07:01	]EEEEEEEEEEEE exited observer at their location.
+[17:07:13	]Hiros | Error 410 loaded the character 'C24:CpT.TAP-777'
+[17:07:49	]C24:CpT.TAP-777 ran 'drop' on item '#50632's Identity Card' (#447827)
+[17:07:49	]C24:CpT.TAP-777 has lost a '#50632's Identity Card' #447827.
+[17:07:53	]C24:CpT.TAP-777 used command '/CreateCid ^'.
+[17:07:53	]C24:CpT.TAP-777 has gained a '#50632's Identity Card' #1660881.
+[17:08:11	]Mango has connected.
+[17:08:19	]C24:CpT.TAP-777 ran 'SetCredits' on item '#50632's Identity Card' (#1660881)
+[17:08:21	]Hiros | Error 410 has set card #1660881's credits to 503.
+[17:08:26	]C24:CpT.TAP-777 used command '/Datafile tap'.
+[17:08:41	]C24:CpT.TAP-777 used command '/Datafile 700'.
+[17:09:10	]C24:CpT.TAP-777 has used a context menu option with the name: remove
+[17:10:00	]Hiros | Error 410 loaded the character 'EEEEEEEEEEEE'
+[17:10:27	]Hiros | Error 410 loaded the character 'C24:CpT.TAP-777'
+[17:10:44	]Hiros | Error 410 loaded the character 'EEEEEEEEEEEEEEEEEEEEEEEEEEEE'
+[17:10:54	]EEEEEEEEEEEEEEEEEEEEEEEEEEEE entered observer.
+[17:10:55	]EEEEEEEEEEEEEEEEEEEEEEEEEEEE exited observer at their location.
+[17:11:07	]Hiros | Error 410 loaded the character 'C24:CpT.TAP-777'
+[17:18:37	]C24:CpT.TAP-777 has gone afk.
+[17:26:22	]C24:CpT.TAP-777 is no longer afk. Total time spent AFK: 760
+[17:31:41	]Hiros | Error 410 (STEAM_0:1:54068821) has disconnected.
+[18:00:33	]Mango loaded the character 'Churrlung'
+[18:00:38	]Churrlung is fully healed.
+[18:02:35	]Hiros | Error 410 has connected.
+[18:03:26	]Hiros | Error 410 loaded the character 'C24:CpT.TAP-777'
+[18:04:30	]C24:CpT.TAP-777 ran SAM command 'maprestart' with arguments: ''
+[18:06:32	]Hiros | Error 410 has connected.
+[18:07:12	]Hiros | Error 410 loaded the character 'C24:CpT.TAP-777'
+[18:07:17	]C24:CpT.TAP-777 is fully healed.
+[18:07:29	]Hiros | Error 410 loaded the character 'Golongo'
+[18:07:34	]Golongo is fully healed.
+[18:07:35	]Golongo entered observer.
+[18:07:39	]Golongo exited observer at their location.
+[18:07:46	]Golongo used command '/CreateCid ^'.
+[18:07:46	]Golongo has gained a '#73817's Identity Card' #1660882.
+[18:07:56	]Hiros | Error 410 loaded the character 'C24:CpT.TAP-777'
+[18:08:16	]Hiros | Error 410 (STEAM_0:1:54068821) deleted character 'EEEEEEEEEEEE'
+[18:08:18	]Hiros | Error 410 loaded the character 'Golongo'
+[18:08:34	]Hiros | Error 410 loaded the character 'C24:CpT.TAP-777'
+[18:08:42	]C24:CpT.TAP-777 used command '/Datafile golongo'.
+[18:08:56	]C24:CpT.TAP-777 used command '/Datafile golongo'.
+[18:09:08	]Hiros | Error 410 loaded the character 'Golongo'
+[18:09:21	]Golongo ran 'drop' on item '#73817's Identity Card' (#1660882)
+[18:09:21	]Golongo has lost a '#73817's Identity Card' #1660882.
+[18:09:47	]Golongo has given himself a vortigaunt_slave_hooks_fake.
+[18:09:47	]Golongo has gained a 'Vortigaunt Hooks (fake)' #1660883.
+[18:09:51	]Golongo has given himself a vortigaunt_slave_collar_fake.
+[18:09:51	]Golongo has gained a 'Vortigaunt Collar (fake)' #1660884.
+[18:10:02	]Hiros | Error 410 loaded the character 'C24:CpT.TAP-777'
+[18:10:10	]C24:CpT.TAP-777 used command '/Datafile golongo'.
+[18:10:24	]Mango has connected.
+[18:10:36	]Hiros | Error 410 loaded the character 'Golongo'
+[18:10:53	]Golongo used command '/CharGiveFlag ^ U'.
+[18:10:57	]Golongo used command '/Datafile golongo'.
+[18:11:15	]Golongo used command '/Datafile 73716'.
+[18:11:25	]Golongo ran 'drop' on item 'Vortigaunt Hooks (fake)' (#1660883)
+[18:11:25	]Golongo has lost a 'Vortigaunt Hooks (fake)' #1660883.
+[18:11:28	]Golongo has used a context menu option with the name: remove
+[18:11:36	]Golongo used command '/CreateCid ^'.
+[18:11:36	]Golongo has gained a '#73817's Identity Card' #1660885.
+[18:11:40	]Golongo used command '/Datafile 73716'.
+[18:11:52	]Hiros | Error 410 loaded the character 'C24:CpT.TAP-777'
+[18:11:56	]Mango loaded the character 'Churrlung'
+[18:12:01	]Churrlung is fully healed.
+[18:12:09	][IC] Churrlung: V.
+[18:12:10	][IC] Churrlung: Lurr...
+[18:12:13	][IC] C24:CpT.TAP-777: <:: No. ::>
+[18:12:21	][IC] Churrlung: YES master.
+[18:12:29	]C24:CpT.TAP-777 used command '/Datafile 63709'.
+[18:12:39	]C24:CpT.TAP-777 is admin-searching Churrlung's inventory.
+[18:12:39	]C24:CpT.TAP-777 has used a context menu option with the name: ixviewinventory
+[18:12:41	]C24:CpT.TAP-777 has closed Churrlung's inventory.
+[18:13:00	]C24:CpT.TAP-777 used command '/ToggleRaise'.
+[18:13:15	]C24:CpT.TAP-777 used command '/Datafile 63709'.
+[18:14:38	]C24:CpT.TAP-777 is admin-searching Churrlung's inventory.
+[18:14:38	]C24:CpT.TAP-777 has used a context menu option with the name: ixviewinventory
+[18:14:40	]C24:CpT.TAP-777 has closed Churrlung's inventory.
+[18:18:26	]Churrlung has gone afk.
+[18:19:06	]Churrlung is no longer afk. Total time spent AFK: 335
+[18:20:22	]C24:CpT.TAP-777 has gone afk.
+[18:23:53	]Hiros | Error 410 has connected.
+[18:24:36	]Hiros | Error 410 (STEAM_0:1:54068821) deleted character 'S10/OWS.GHOST-76'
+[18:24:39	]Hiros | Error 410 loaded the character 'C24:CpT.TAP-777'
+[18:24:44	]C24:CpT.TAP-777 is fully healed.
+[18:24:53	]Hiros | Error 410 loaded the character 'Golongo'
+[18:24:58	]Golongo is fully healed.
+[18:25:07	]Hiros | Error 410 loaded the character 'C24:CpT.TAP-777'
+[18:25:17	]C24:CpT.TAP-777 used command '/Datafile golongo'.
+[18:25:30	]C24:CpT.TAP-777 used command '/Datafile golongo'.
+[18:25:51	]Hiros | Error 410 loaded the character 'Golongo'
+[18:26:00	]Golongo used command '/Datafile ^'.
+[18:26:09	]Golongo used command '/Datafile golongo'.
+[18:26:29	]Hiros | Error 410 loaded the character 'C24:CpT.TAP-777'
+[18:26:37	]C24:CpT.TAP-777 used command '/Datafile golongo'.
+[18:26:53	]C24:CpT.TAP-777 used command '/Datafile golongo'.
+[18:27:11	]C24:CpT.TAP-777 used command '/Datafile golongo'.
+[18:27:16	]Mango has connected.
+[18:27:25	]C24:CpT.TAP-777 used the 'John Doe' vendor.
+[18:27:36	]C24:CpT.TAP-777 entered observer.
+[18:27:37	]C24:CpT.TAP-777 exited observer at their location.
+[18:27:38	]C24:CpT.TAP-777 entered observer.
+[18:27:39	]C24:CpT.TAP-777 exited observer at their location.
+[18:27:42	]C24:CpT.TAP-777 used command '/ToggleRaise'.
+[18:27:49	]Mango loaded the character 'Churrlung'
+[18:27:53	]C24:CpT.TAP-777 entered observer.
+[18:27:54	]Churrlung is fully healed.
+[18:27:54	]C24:CpT.TAP-777 exited observer at their location.
+[18:27:55	]C24:CpT.TAP-777 entered observer.
+[18:27:55	]C24:CpT.TAP-777 exited observer at their location.
+[18:27:57	][IC] Churrlung: Turr...
+[18:28:16	][IC] Churrlung: Churrlung.
+[18:28:17	]C24:CpT.TAP-777 used command '/Datafile churr'.
+[18:29:02	]C24:CpT.TAP-777 has used a context menu option with the name: rb655_breakable_break
+[18:29:12	]C24:CpT.TAP-777 used command '/Datafile churr'.
+[18:29:29	]C24:CpT.TAP-777 entered observer.
+[18:29:31	]C24:CpT.TAP-777 exited observer at their location.
+[18:29:39	]Hiros | Error 410 (STEAM_0:1:54068821) deleted character 'EEEEEEEEEEEEEEEEEEEEEEEEEEEE'
+[18:29:41	]Hiros | Error 410 (STEAM_0:1:54068821) deleted character 'C24/Disp:AI-58'
+[18:29:45	]Hiros | Error 410 (STEAM_0:1:54068821) deleted character 'S10/OCS.LEADER-00'
+[18:29:47	]Hiros | Error 410 (STEAM_0:1:54068821) deleted character 'Klim Stasiuk'
+[18:30:11	]C24:CpT.TAP-777 entered observer.
+[18:30:14	]C24:CpT.TAP-777 exited observer at their location.
+[18:33:18	]Hiros | Error 410 (STEAM_0:1:54068821) has disconnected.
+[18:34:49	]Churrlung has gone afk.
+[19:03:44	]Churrlung is no longer afk. Total time spent AFK: 2030
+[19:04:32	]Mango (STEAM_0:0:544539350) has disconnected.

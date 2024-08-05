@@ -1,0 +1,1442 @@
+[00:02:29	]Connor Andrews is fully healed.
+[00:04:00	]Hayden (STEAM_0:1:22038366) has disconnected.
+[18:11:37	]Marco has connected.
+[18:22:42	]Marco loaded the character 'C8:i3.UNION-49'
+[18:22:46	]C8:i3.UNION-49 is fully healed.
+[18:23:07	]Marco has unloaded their "C8:i3.UNION-49" character.
+[18:23:20	]Marco loaded the character 'Jacquiel Kortan'
+[18:23:20	]Jacquiel Kortan their 'abandoned hotel stash' stash no longer exists, location reset.
+[18:23:24	]Jacquiel Kortan is fully healed.
+[18:23:27	][IC] Jacquiel Kortan: Yeah!
+[18:26:24	]Jacquiel Kortan has spawned a comp_chemcomp.
+[18:26:26	]Jacquiel Kortan ran 'take' on item 'Strong Chemical Compound' (#3306676)
+[18:26:26	]Jacquiel Kortan has gained a 'Strong Chemical Compound' #3306676.
+[18:26:34	]Jacquiel Kortan ran 'drop' on item 'Strong Chemical Compound' (#3306676)
+[18:26:34	]Jacquiel Kortan has lost a 'Strong Chemical Compound' #3306676.
+[18:26:36	]Jacquiel Kortan used command '/ToggleRaise'.
+[18:26:37	]Jacquiel Kortan destroyed a 'Strong Chemical Compound' #3306676.
+[18:26:38	]Jacquiel Kortan used command '/ToggleRaise'.
+[18:26:45	]Jacquiel Kortan has spawned a mask_com_rebel.
+[18:26:45	]Jacquiel Kortan has spawned a mask_com_rebel.
+[18:26:49	]Jacquiel Kortan has used a context menu option with the name: rb655_dissolve
+[18:26:51	]env_entity_dissolver destroyed a 'Advanced PMG-5 (AUG) Gasmask (R)' #3306677.
+[18:26:51	]Jacquiel Kortan has spawned a mask_cp_rebel.
+[18:26:55	]Jacquiel Kortan has used a context menu option with the name: rb655_dissolve
+[18:26:57	]env_entity_dissolver destroyed a 'PMG-5 (AUG) Gasmask (R)' #3306679.
+[18:26:57	]Jacquiel Kortan ran 'take' on item 'Advanced PMG-5 (AUG) Gasmask (R)' (#3306678)
+[18:26:57	]Jacquiel Kortan has gained a 'Advanced PMG-5 (AUG) Gasmask (R)' #3306678.
+[18:27:32	]Jacquiel Kortan ran 'Convert' on item 'Crafting Water' (#2752584)
+[18:27:32	]Jacquiel Kortan has gained a 'Spoiled Breen's Water' #3306680.
+[18:27:35	]Jacquiel Kortan ran 'Convert' on item 'Spoiled Breen's Water' (#3306680)
+[18:27:35	]Jacquiel Kortan has gained a 'Crafting Water' #3306681.
+[18:27:49	]Jacquiel Kortan ran 'Equip' on item 'Helsing Bolt Rifle' (#2797410)
+[18:27:50	]Jacquiel Kortan ran 'drop' on item 'Helsing Bolt Rifle' (#2797410)
+[18:27:50	]Jacquiel Kortan has lost a 'Helsing Bolt Rifle' #2797410.
+[18:27:52	]Jacquiel Kortan ran 'take' on item 'Helsing Bolt Rifle' (#2797410)
+[18:27:52	]Jacquiel Kortan has gained a 'Helsing Bolt Rifle' #2797410.
+[18:27:53	]Jacquiel Kortan ran 'Equip' on item 'Helsing Bolt Rifle' (#2797410)
+[18:27:54	]Jacquiel Kortan used command '/ToggleRaise'.
+[18:27:55	]Jacquiel Kortan has lost a '8rnd Helsing Magazine' #2797416.
+[18:28:01	]Jacquiel Kortan used command '/ToggleRaise'.
+[18:28:09	]Jacquiel Kortan has spawned a 'NPC [5413][npc_vj_hlr1_aliengrunt]'.
+[18:28:10	]Jacquiel Kortan has hit npc_vj_hlr1_aliengrunt in the chest dealing 29 damage (CritChance was 0.40).
+[18:28:10	]Jacquiel Kortan has hit npc_vj_hlr1_aliengrunt in the chest dealing 29 damage (CritChance was 0.40).
+[18:28:10	]Jacquiel Kortan has hit npc_vj_hlr1_aliengrunt in the chest dealing 29 damage (CritChance was 0.40).
+[18:28:11	]Jacquiel Kortan has hit npc_vj_hlr1_aliengrunt in the head dealing 29 damage (CritChance was 0.13).
+[18:28:12	]Jacquiel Kortan has gained a '8rnd Helsing Magazine' #2797416.
+[18:28:12	]Jacquiel Kortan has lost a '8rnd Helsing Magazine' #2797415.
+[18:28:16	]Jacquiel Kortan ran 'combine' on item '8rnd Helsing Magazine' (#2797416)
+[18:29:18	]Jacquiel Kortan has spawned a 'NPC [5413][npc_vj_hlr1_cturret]'.
+[18:29:21	]Jacquiel Kortan has taken 7 damage from Black Mesa Ceiling Turret.
+[18:29:21	]Jacquiel Kortan has taken 7 damage from Black Mesa Ceiling Turret.
+[18:29:25	]Jacquiel Kortan has taken 7 damage from Black Mesa Ceiling Turret.
+[18:29:25	]Jacquiel Kortan has taken 7 damage from Black Mesa Ceiling Turret.
+[18:29:25	]Jacquiel Kortan has taken 7 damage from Black Mesa Ceiling Turret.
+[18:29:25	]Jacquiel Kortan has taken 1 damage from Black Mesa Ceiling Turret.
+[18:29:25	]Jacquiel Kortan has taken 7 damage from Black Mesa Ceiling Turret.
+[18:29:26	]Jacquiel Kortan has taken 7 damage from Black Mesa Ceiling Turret.
+[18:29:26	]Jacquiel Kortan has taken 1 damage from Black Mesa Ceiling Turret.
+[18:29:26	]Jacquiel Kortan has taken 7 damage from Black Mesa Ceiling Turret.
+[18:29:26	]Jacquiel Kortan has taken 7 damage from Black Mesa Ceiling Turret.
+[18:29:26	]Jacquiel Kortan has taken 7 damage from Black Mesa Ceiling Turret.
+[18:29:27	]Jacquiel Kortan has taken 7 damage from Black Mesa Ceiling Turret.
+[18:29:27	]Jacquiel Kortan has taken 7 damage from Black Mesa Ceiling Turret.
+[18:29:27	]Jacquiel Kortan has taken 7 damage from Black Mesa Ceiling Turret.
+[18:29:27	]Jacquiel Kortan has gained a '8rnd Helsing Magazine' #2797415.
+[18:29:27	]Jacquiel Kortan was knocked unconscious and is bleeding out.
+[18:29:32	]Jacquiel Kortan used command '/ToggleRaise'.
+[18:29:34	]Jacquiel Kortan is fully healed.
+[18:29:36	]Jacquiel Kortan has lost a '8rnd Helsing Magazine' #2797416.
+[18:29:39	]Jacquiel Kortan has spawned a 'NPC [5412][npc_vj_hlr1_alienslave]'.
+[18:29:43	]Jacquiel Kortan has critically hit npc_vj_hlr1_alienslave in the right arm dealing 26 damage (CritChance was 0.40).
+[18:29:43	]Jacquiel Kortan has critically hit npc_vj_hlr1_alienslave in the stomach dealing 31 damage (CritChance was 0.54).
+[18:29:44	]Jacquiel Kortan has hit npc_vj_hlr1_alienslave in the head dealing 29 damage (CritChance was 0.13).
+[18:29:55	]Jacquiel Kortan has gained a '8rnd Helsing Magazine' #2797416.
+[18:29:55	]Jacquiel Kortan has lost a '8rnd Helsing Magazine' #2797415.
+[18:30:06	]Jacquiel Kortan has spawned a uniform_cp_riot_rebel.
+[18:30:07	]Jacquiel Kortan ran 'take' on item 'Rebel Riot CP Uniform' (#3306682)
+[18:30:07	]Jacquiel Kortan has gained a 'Rebel Riot CP Uniform' #3306682.
+[18:30:39	]Jacquiel Kortan ran 'drop' on item 'Advanced PMG-5 (AUG) Gasmask (R)' (#3306678)
+[18:30:39	]Jacquiel Kortan has lost a 'Advanced PMG-5 (AUG) Gasmask (R)' #3306678.
+[18:30:40	]Jacquiel Kortan has spawned a mask_ota_rebel.
+[18:30:41	]Jacquiel Kortan ran 'take' on item 'OTA Mask (R)' (#3306683)
+[18:30:41	]Jacquiel Kortan has gained a 'OTA Mask (R)' #3306683.
+[18:30:51	]Jacquiel Kortan has used a context menu option with the name: rb655_dissolve
+[18:30:53	]env_entity_dissolver destroyed a 'Advanced PMG-5 (AUG) Gasmask (R)' #3306678.
+[18:31:00	]Jacquiel Kortan ran 'drop' on item 'Hatchet' (#1904273)
+[18:31:00	]Jacquiel Kortan has lost a 'Hatchet' #1904273.
+[18:31:01	]Jacquiel Kortan ran 'drop' on item 'Helsing Bolt Rifle' (#2797410)
+[18:31:01	]Jacquiel Kortan has lost a 'Helsing Bolt Rifle' #2797410.
+[18:31:04	]Jacquiel Kortan used command '/ToggleRaise'.
+[18:31:05	]Jacquiel Kortan destroyed a 'Helsing Bolt Rifle' #2797410.
+[18:31:08	]Jacquiel Kortan destroyed a 'Hatchet' #1904273.
+[18:31:13	]Jacquiel Kortan ran 'drop' on item 'Combat Helmet' (#1950443)
+[18:31:13	]Jacquiel Kortan has lost a 'Combat Helmet' #1950443.
+[18:31:17	]Jacquiel Kortan ran 'drop' on item 'Bandana' (#1899437)
+[18:31:17	]Jacquiel Kortan has lost a 'Bandana' #1899437.
+[18:31:17	]Jacquiel Kortan ran 'drop' on item 'Suitcase' (#1924596)
+[18:31:17	]Jacquiel Kortan has lost a 'Suitcase' #1924596.
+[18:31:17	]Jacquiel Kortan has lost a 'Cloth Rags' #2752588.
+[18:31:17	]Jacquiel Kortan has lost a 'Improved Yellow Pill' #1950492.
+[18:31:17	]Jacquiel Kortan has lost a 'First Aid Kit' #1950493.
+[18:31:17	]Jacquiel Kortan has lost a '9mm Pistol Bullets' #1950425.
+[18:31:18	]Jacquiel Kortan ran 'drop' on item 'Bottle of Strong Adhesive' (#1904234)
+[18:31:18	]Jacquiel Kortan has lost a 'Bottle of Strong Adhesive' #1904234.
+[18:31:19	]Jacquiel Kortan ran 'take' on item 'Suitcase' (#1924596)
+[18:31:19	]Jacquiel Kortan has gained a 'Suitcase' #1924596.
+[18:31:19	]Jacquiel Kortan has gained a 'Cloth Rags' #2752588.
+[18:31:19	]Jacquiel Kortan has gained a 'Improved Yellow Pill' #1950492.
+[18:31:19	]Jacquiel Kortan has gained a 'First Aid Kit' #1950493.
+[18:31:19	]Jacquiel Kortan has gained a '9mm Pistol Bullets' #1950425.
+[18:31:21	]Jacquiel Kortan ran 'drop' on item '8rnd Helsing Magazine' (#2797416)
+[18:31:21	]Jacquiel Kortan has lost a '8rnd Helsing Magazine' #2797416.
+[18:31:22	]Jacquiel Kortan ran 'drop' on item '8rnd Helsing Magazine' (#2797414)
+[18:31:22	]Jacquiel Kortan has lost a '8rnd Helsing Magazine' #2797414.
+[18:31:22	]Jacquiel Kortan ran 'drop' on item 'Red Jumpsuit Trousers' (#1898746)
+[18:31:22	]Jacquiel Kortan has lost a 'Red Jumpsuit Trousers' #1898746.
+[18:31:23	]Jacquiel Kortan ran 'drop' on item 'Crafting Water' (#3306681)
+[18:31:23	]Jacquiel Kortan has lost a 'Crafting Water' #3306681.
+[18:31:30	]Jacquiel Kortan ran 'drop' on item 'Scissors' (#1899370)
+[18:31:30	]Jacquiel Kortan has lost a 'Scissors' #1899370.
+[18:31:30	]Jacquiel Kortan ran 'drop' on item 'Raw Leech Carcass' (#2752582)
+[18:31:30	]Jacquiel Kortan has lost a 'Raw Leech Carcass' #2752582.
+[18:31:31	]Jacquiel Kortan ran 'drop' on item 'Red Jumpsuit' (#1898745)
+[18:31:31	]Jacquiel Kortan has lost a 'Red Jumpsuit' #1898745.
+[18:31:32	]Jacquiel Kortan destroyed a 'Red Jumpsuit Trousers' #1898746.
+[18:31:33	]Jacquiel Kortan destroyed a 'Scissors' #1899370.
+[18:32:05	]Jacquiel Kortan used command '/CharGiveFlag ^ petqabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'.
+[18:32:21	]Jacquiel Kortan used command '/ToggleRaise'.
+[18:32:27	]Jacquiel Kortan used command '/CharGiveFlag ^ 12345'.
+[18:32:31	]Jacquiel Kortan used command '/CharGiveFlag ^ 6'.
+[18:32:53	]Jacquiel Kortan used command '/CharSkillAdd ^ guns 50'.
+[18:32:56	]Jacquiel Kortan has gained level 22 in the Guns skill.
+[18:33:06	]Jacquiel Kortan used command '/CharSkillAdd ^ guns 50'.
+[18:33:13	]Jacquiel Kortan used command '/CharSkillSet ^ guns 50'.
+[18:33:35	]Jacquiel Kortan used command '/CharSkillSet ^ guns 50'.
+[18:33:37	]Jacquiel Kortan has gained level 30 in the Guns skill.
+[18:33:37	]Jacquiel Kortan used command '/CharSkillSet ^ guns 30'.
+[18:33:39	]Jacquiel Kortan has gained level 40 in the Guns skill.
+[18:33:39	]Jacquiel Kortan used command '/CharSkillSet ^ guns 40'.
+[18:33:43	]Jacquiel Kortan has gained level 48 in the Guns skill.
+[18:33:43	]Jacquiel Kortan used command '/CharSkillSet ^ guns 48'.
+[18:33:56	]Jacquiel Kortan used command '/CharSkillSet ^ melee 0'.
+[18:34:06	]Jacquiel Kortan has gained level 20 in the Crafting skill.
+[18:34:06	]Jacquiel Kortan used command '/CharSkillSet ^ crafting 20'.
+[18:34:12	]Jacquiel Kortan used command '/CharSkillSet ^ guns 50'.
+[18:34:25	]Jacquiel Kortan has gained level 49 in the Guns skill.
+[18:34:25	]Jacquiel Kortan used command '/CharSkillSet ^ guns 49'.
+[18:34:35	]Jacquiel Kortan used command '/CharSkillSet ^ crafting 19'.
+[18:34:39	]Jacquiel Kortan has gained level 50 in the Guns skill.
+[18:34:39	]Jacquiel Kortan used command '/CharSkillSet ^ guns 50'.
+[18:34:44	]Jacquiel Kortan used command '/CharSkillSet ^ crafting 20'.
+[18:34:55	]Jacquiel Kortan used command '/ToggleRaise'.
+[18:34:57	]Jacquiel Kortan has fired a toolgun with the name: dynamite
+[18:34:59	]Jacquiel Kortan has hit Jacquiel Kortan dealing 0 damage (CritChance was 0.00).
+[18:34:59	]Jacquiel Kortan destroyed a 'Red Jumpsuit' #1898745.
+[18:34:59	]Jacquiel Kortan destroyed a 'Raw Leech Carcass' #2752582.
+[18:34:59	]Jacquiel Kortan destroyed a 'Crafting Water' #3306681.
+[18:34:59	]Jacquiel Kortan destroyed a '8rnd Helsing Magazine' #2797414.
+[18:34:59	]Jacquiel Kortan destroyed a 'Bottle of Strong Adhesive' #1904234.
+[18:34:59	]Jacquiel Kortan destroyed a 'Bandana' #1899437.
+[18:34:59	]Jacquiel Kortan destroyed a 'Combat Helmet' #1950443.
+[18:35:00	]Jacquiel Kortan has hit Jacquiel Kortan dealing 0 damage (CritChance was 0.00).
+[18:35:00	]Jacquiel Kortan has hit Jacquiel Kortan dealing 0 damage (CritChance was 0.00).
+[18:35:00	]Jacquiel Kortan has hit Jacquiel Kortan dealing 0 damage (CritChance was 0.00).
+[18:35:03	]Jacquiel Kortan used command '/ToggleRaise'.
+[18:35:05	]Jacquiel Kortan destroyed a '8rnd Helsing Magazine' #2797416.
+[18:35:05	]Jacquiel Kortan used command '/ToggleRaise'.
+[18:35:41	]Jacquiel Kortan has spawned a largebag.
+[18:35:42	]Jacquiel Kortan ran 'take' on item 'Large Bag' (#3306684)
+[18:35:42	]Jacquiel Kortan has gained a 'Large Bag' #3306684.
+[18:36:06	]Jacquiel Kortan has spawned a 'Entity [5412][acwatt_kit_eft_mp155_ultima]'.
+[18:36:23	]Jacquiel Kortan entered observer.
+[18:36:25	]Jacquiel Kortan exited observer.
+[18:36:35	]Jacquiel Kortan used command '/PlyWhitelist ^ OTA'.
+[18:36:37	]Jacquiel Kortan used command '/PlyWhitelist ^ AI'.
+[18:36:46	]Jacquiel Kortan used command '/PlyWhitelist ^ cp'.
+[18:36:51	]Jacquiel Kortan used command '/PlyWhitelist ^ transh'.
+[18:36:53	]Jacquiel Kortan used command '/PlyWhitelist ^ cca'.
+[18:36:55	]Jacquiel Kortan used command '/PlyWhitelist ^ combine'.
+[18:37:02	]Jacquiel Kortan used command '/PlyTransfer ^ combine'.
+[18:37:13	]C17:RCT.YELLO-14 used command '/PlyTransfer ^ cp'.
+[18:37:31	]C17:RCT.YELLO-14 has changed C17:RCT.YELLO-14's bodygroups.
+[18:37:38	]C17:RCT.YELLO-14 has changed C17:RCT.YELLO-14's bodygroups.
+[18:37:54	]C17:RCT.YELLO-14 has changed C17:RCT.YELLO-14's bodygroups.
+[18:38:07	]C17:RCT.YELLO-14 has changed C17:RCT.YELLO-14's bodygroups.
+[18:38:31	]C17:RCT.YELLO-14 has spawned a rpg.
+[18:38:33	]C17:RCT.YELLO-14 ran 'take' on item 'RPG-7' (#3306685)
+[18:38:33	]C17:RCT.YELLO-14 has gained a 'RPG-7' #3306685.
+[18:38:37	]C17:RCT.YELLO-14 ran 'Equip' on item 'RPG-7' (#3306685)
+[18:38:43	]C17:RCT.YELLO-14 has spawned a rocketammo.
+[18:38:43	]C17:RCT.YELLO-14 has spawned a rocketammo.
+[18:38:45	]C17:RCT.YELLO-14 ran 'take' on item 'RPG Missile' (#3306687)
+[18:38:45	]C17:RCT.YELLO-14 has gained a 'RPG Missile' #3306687.
+[18:38:46	]C17:RCT.YELLO-14 ran 'take' on item 'RPG Missile' (#3306686)
+[18:38:46	]C17:RCT.YELLO-14 has gained a 'RPG Missile' #3306686.
+[18:38:47	]C17:RCT.YELLO-14 ran 'use' on item 'RPG Missile' (#3306687)
+[18:38:48	]C17:RCT.YELLO-14 ran 'use' on item 'RPG Missile' (#3306686)
+[18:38:49	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:39:03	]C17:RCT.YELLO-14 ran 'drop' on item 'RPG-7' (#3306685)
+[18:39:03	]C17:RCT.YELLO-14 has lost a 'RPG-7' #3306685.
+[18:39:06	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:39:10	]C17:RCT.YELLO-14 destroyed a 'RPG-7' #3306685.
+[18:39:11	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:39:19	]C17:RCT.YELLO-14 has spawned a res_155.
+[18:39:21	]C17:RCT.YELLO-14 ran 'take' on item 'MP-155' (#3306688)
+[18:39:21	]C17:RCT.YELLO-14 has gained a 'MP-155' #3306688.
+[18:39:30	]C17:RCT.YELLO-14 ran 'Equip' on item 'MP-155' (#3306688)
+[18:39:34	]C17:RCT.YELLO-14 has spawned a magazine_shotgun5.
+[18:39:34	]C17:RCT.YELLO-14 has spawned a magazine_shotgun5.
+[18:39:35	]C17:RCT.YELLO-14 has spawned a magazine_shotgun5.
+[18:39:35	]C17:RCT.YELLO-14 has spawned a magazine_shotgun5.
+[18:39:36	]C17:RCT.YELLO-14 ran 'take' on item '5rnd Shotgun Magazine' (#3306692)
+[18:39:36	]C17:RCT.YELLO-14 has gained a '5rnd Shotgun Magazine' #3306692.
+[18:39:37	]C17:RCT.YELLO-14 ran 'take' on item '5rnd Shotgun Magazine' (#3306691)
+[18:39:37	]C17:RCT.YELLO-14 has gained a '5rnd Shotgun Magazine' #3306691.
+[18:39:38	]C17:RCT.YELLO-14 ran 'take' on item '5rnd Shotgun Magazine' (#3306690)
+[18:39:38	]C17:RCT.YELLO-14 has gained a '5rnd Shotgun Magazine' #3306690.
+[18:39:39	]C17:RCT.YELLO-14 ran 'take' on item '5rnd Shotgun Magazine' (#3306689)
+[18:39:39	]C17:RCT.YELLO-14 has gained a '5rnd Shotgun Magazine' #3306689.
+[18:39:43	]C17:RCT.YELLO-14 has spawned a bullets_buckshot.
+[18:39:44	]C17:RCT.YELLO-14 has spawned a bullets_buckshot.
+[18:39:44	]C17:RCT.YELLO-14 ran 'take' on item 'Buckshot Shotgun Shells' (#3306694)
+[18:39:44	]C17:RCT.YELLO-14 has gained a 'Buckshot Shotgun Shells' #3306694.
+[18:39:45	]C17:RCT.YELLO-14 ran 'take' on item 'Buckshot Shotgun Shells' (#3306693)
+[18:39:45	]C17:RCT.YELLO-14 has gained a 'Buckshot Shotgun Shells' #3306693.
+[18:39:46	]C17:RCT.YELLO-14 ran 'combine' on item '5rnd Shotgun Magazine' (#3306690)
+[18:39:47	]C17:RCT.YELLO-14 ran 'combine' on item '5rnd Shotgun Magazine' (#3306691)
+[18:39:48	]C17:RCT.YELLO-14 ran 'combine' on item '5rnd Shotgun Magazine' (#3306689)
+[18:39:48	]C17:RCT.YELLO-14 ran 'combine' on item '5rnd Shotgun Magazine' (#3306692)
+[18:39:49	]C17:RCT.YELLO-14 has lost a '5rnd Shotgun Magazine' #3306692.
+[18:39:49	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:39:56	]C17:RCT.YELLO-14 has gained a '5rnd Shotgun Magazine' #3306692.
+[18:39:56	]C17:RCT.YELLO-14 has lost a '5rnd Shotgun Magazine' #3306691.
+[18:40:02	]C17:RCT.YELLO-14 ran 'combine' on item '5rnd Shotgun Magazine' (#3306692)
+[18:40:04	]C17:RCT.YELLO-14 has gained a '5rnd Shotgun Magazine' #3306691.
+[18:40:04	]C17:RCT.YELLO-14 has lost a '5rnd Shotgun Magazine' #3306692.
+[18:40:11	]C17:RCT.YELLO-14 ran 'combine' on item 'Buckshot Shotgun Shells' (#3306693)
+[18:40:15	]C17:RCT.YELLO-14 has gained a '5rnd Shotgun Magazine' #3306692.
+[18:40:15	]C17:RCT.YELLO-14 has lost a '5rnd Shotgun Magazine' #3306691.
+[18:40:22	]C17:RCT.YELLO-14 has gained a '5rnd Shotgun Magazine' #3306691.
+[18:40:22	]C17:RCT.YELLO-14 has lost a '5rnd Shotgun Magazine' #3306690.
+[18:40:27	]C17:RCT.YELLO-14 ran 'combine' on item '5rnd Shotgun Magazine' (#3306692)
+[18:40:29	]C17:RCT.YELLO-14 ran 'combine' on item '5rnd Shotgun Magazine' (#3306692)
+[18:40:29	]C17:RCT.YELLO-14 ran 'combine' on item '5rnd Shotgun Magazine' (#3306691)
+[18:40:34	]C17:RCT.YELLO-14 has gained a '5rnd Shotgun Magazine' #3306690.
+[18:40:34	]C17:RCT.YELLO-14 has lost a '5rnd Shotgun Magazine' #3306692.
+[18:40:35	]C17:RCT.YELLO-14 entered observer.
+[18:40:39	]C17:RCT.YELLO-14 exited observer.
+[18:40:45	]C17:RCT.YELLO-14 ran 'drop' on item 'MP-155' (#3306688)
+[18:40:45	]C17:RCT.YELLO-14 has lost a 'MP-155' #3306688.
+[18:40:45	]C17:RCT.YELLO-14 ran 'drop' on item 'Buckshot Shotgun Shells' (#3306693)
+[18:40:45	]C17:RCT.YELLO-14 has lost a 'Buckshot Shotgun Shells' #3306693.
+[18:40:46	]C17:RCT.YELLO-14 ran 'drop' on item '5rnd Shotgun Magazine' (#3306689)
+[18:40:46	]C17:RCT.YELLO-14 has lost a '5rnd Shotgun Magazine' #3306689.
+[18:40:46	]C17:RCT.YELLO-14 ran 'drop' on item '5rnd Shotgun Magazine' (#3306690)
+[18:40:46	]C17:RCT.YELLO-14 has lost a '5rnd Shotgun Magazine' #3306690.
+[18:40:49	]C17:RCT.YELLO-14 ran 'drop' on item '5rnd Shotgun Magazine' (#3306691)
+[18:40:49	]C17:RCT.YELLO-14 has lost a '5rnd Shotgun Magazine' #3306691.
+[18:40:49	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:40:51	]C17:RCT.YELLO-14 has fired a toolgun with the name: dynamite
+[18:40:52	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:52	]C17:RCT.YELLO-14 destroyed a 'Glasses' #3298343.
+[18:40:52	]C17:RCT.YELLO-14 destroyed a '5rnd Shotgun Magazine' #3306691.
+[18:40:52	]C17:RCT.YELLO-14 destroyed a '5rnd Shotgun Magazine' #3306690.
+[18:40:52	]C17:RCT.YELLO-14 destroyed a '5rnd Shotgun Magazine' #3306689.
+[18:40:52	]C17:RCT.YELLO-14 destroyed a 'Buckshot Shotgun Shells' #3306693.
+[18:40:52	]C17:RCT.YELLO-14 destroyed a 'MP-155' #3306688.
+[18:40:53	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:53	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:53	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:53	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:54	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:54	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:54	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:54	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:55	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:55	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:55	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:55	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:56	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:56	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:56	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:56	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:56	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:56	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:57	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:57	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:57	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:57	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:58	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:58	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:58	]C17:RCT.YELLO-14 has hit C17:RCT.YELLO-14 dealing 0 damage (CritChance was 0.00).
+[18:40:59	]C17:RCT.YELLO-14 has fired a toolgun with the name: dynamite
+[18:41:04	]C17:RCT.YELLO-14 has fired a toolgun with the name: dynamite
+[18:41:06	]C17:RCT.YELLO-14 destroyed a 'Broken Biolock' #3306695.
+[18:41:09	]C17:RCT.YELLO-14 has fired a toolgun with the name: dynamite
+[18:42:25	]C17:RCT.YELLO-14 has spawned a res_uzi.
+[18:42:41	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:42:46	]C17:RCT.YELLO-14 destroyed a 'Uzi' #3306696.
+[18:42:47	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:42:58	]C17:RCT.YELLO-14 has spawned a gen_awp.
+[18:43:02	]C17:RCT.YELLO-14 ran 'take' on item 'AWP' (#3306697)
+[18:43:02	]C17:RCT.YELLO-14 has gained a 'AWP' #3306697.
+[18:43:06	]C17:RCT.YELLO-14 ran 'Equip' on item 'AWP' (#3306697)
+[18:43:07	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:43:09	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:44:23	]C17:RCT.YELLO-14 ran 'drop' on item 'AWP' (#3306697)
+[18:44:23	]C17:RCT.YELLO-14 has lost a 'AWP' #3306697.
+[18:44:25	]C17:RCT.YELLO-14 has fired a toolgun with the name: dynamite
+[18:44:29	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:44:31	]C17:RCT.YELLO-14 destroyed a 'AWP' #3306697.
+[18:44:31	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:44:43	]C17:RCT.YELLO-14 has spawned a cmb_psmg.
+[18:44:44	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:44:46	]C17:RCT.YELLO-14 destroyed a 'Overwatch Pulse Submachine-gun' #3306698.
+[18:44:48	]C17:RCT.YELLO-14 has spawned a gen_mp5sd.
+[18:44:48	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:44:50	]C17:RCT.YELLO-14 ran 'take' on item 'MP5-SD' (#3306699)
+[18:44:50	]C17:RCT.YELLO-14 has gained a 'MP5-SD' #3306699.
+[18:44:55	]C17:RCT.YELLO-14 ran 'drop' on item 'MP5-SD' (#3306699)
+[18:44:55	]C17:RCT.YELLO-14 has lost a 'MP5-SD' #3306699.
+[18:44:55	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:44:56	]C17:RCT.YELLO-14 destroyed a 'MP5-SD' #3306699.
+[18:44:57	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:45:13	]C17:RCT.YELLO-14 has spawned a cmb_par2.
+[18:45:16	]C17:RCT.YELLO-14 ran 'take' on item 'Overwatch Standard-Issue Pulse Rifle' (#3306700)
+[18:45:16	]C17:RCT.YELLO-14 has gained a 'Overwatch Standard-Issue Pulse Rifle' #3306700.
+[18:45:19	]C17:RCT.YELLO-14 ran 'drop' on item 'Overwatch Standard-Issue Pulse Rifle' (#3306700)
+[18:45:19	]C17:RCT.YELLO-14 has lost a 'Overwatch Standard-Issue Pulse Rifle' #3306700.
+[18:45:19	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:45:20	]C17:RCT.YELLO-14 destroyed a 'Overwatch Standard-Issue Pulse Rifle' #3306700.
+[18:45:21	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:45:23	]C17:RCT.YELLO-14 has spawned a cmb_hammerrifle.
+[18:45:24	]C17:RCT.YELLO-14 ran 'take' on item 'OSPR2A-EXP' (#3306701)
+[18:45:24	]C17:RCT.YELLO-14 has gained a 'OSPR2A-EXP' #3306701.
+[18:45:31	]C17:RCT.YELLO-14 ran 'Equip' on item 'OSPR2A-EXP' (#3306701)
+[18:45:34	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:46:15	]C17:RCT.YELLO-14 has spawned a cmb_tacticalrifle.
+[18:46:17	]C17:RCT.YELLO-14 ran 'take' on item 'Overwatch Tactical Rifle' (#3306702)
+[18:46:17	]C17:RCT.YELLO-14 has gained a 'Overwatch Tactical Rifle' #3306702.
+[18:46:32	]C17:RCT.YELLO-14 ran 'drop' on item 'Overwatch Tactical Rifle' (#3306702)
+[18:46:32	]C17:RCT.YELLO-14 has lost a 'Overwatch Tactical Rifle' #3306702.
+[18:46:32	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:46:33	]C17:RCT.YELLO-14 destroyed a 'Overwatch Tactical Rifle' #3306702.
+[18:46:34	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:46:36	]C17:RCT.YELLO-14 has spawned a cmb_pcarbine.
+[18:46:38	]C17:RCT.YELLO-14 ran 'take' on item 'Overwatch Standard-Issue Carbine' (#3306703)
+[18:46:38	]C17:RCT.YELLO-14 has gained a 'Overwatch Standard-Issue Carbine' #3306703.
+[18:46:47	]C17:RCT.YELLO-14 ran 'drop' on item 'Overwatch Standard-Issue Carbine' (#3306703)
+[18:46:47	]C17:RCT.YELLO-14 has lost a 'Overwatch Standard-Issue Carbine' #3306703.
+[18:46:48	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:46:50	]C17:RCT.YELLO-14 destroyed a 'Overwatch Standard-Issue Carbine' #3306703.
+[18:46:50	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:47:06	]C17:RCT.YELLO-14 has spawned a magazine_heavypulse.
+[18:47:07	]C17:RCT.YELLO-14 has spawned a magazine_heavypulse.
+[18:47:07	]C17:RCT.YELLO-14 has spawned a magazine_heavypulse.
+[18:47:07	]C17:RCT.YELLO-14 has spawned a magazine_heavypulse.
+[18:47:08	]C17:RCT.YELLO-14 has spawned a magazine_heavypulse.
+[18:47:09	]C17:RCT.YELLO-14 ran 'take' on item '24rnd Hammer Magazine' (#3306708)
+[18:47:09	]C17:RCT.YELLO-14 has gained a '24rnd Hammer Magazine' #3306708.
+[18:47:10	]C17:RCT.YELLO-14 ran 'take' on item '24rnd Hammer Magazine' (#3306707)
+[18:47:10	]C17:RCT.YELLO-14 has gained a '24rnd Hammer Magazine' #3306707.
+[18:47:11	]C17:RCT.YELLO-14 ran 'take' on item '24rnd Hammer Magazine' (#3306706)
+[18:47:11	]C17:RCT.YELLO-14 has gained a '24rnd Hammer Magazine' #3306706.
+[18:47:12	]C17:RCT.YELLO-14 ran 'take' on item '24rnd Hammer Magazine' (#3306705)
+[18:47:12	]C17:RCT.YELLO-14 has gained a '24rnd Hammer Magazine' #3306705.
+[18:47:13	]C17:RCT.YELLO-14 ran 'take' on item '24rnd Hammer Magazine' (#3306704)
+[18:47:13	]C17:RCT.YELLO-14 has gained a '24rnd Hammer Magazine' #3306704.
+[18:47:23	]C17:RCT.YELLO-14 has spawned a bullets_heavypulse.
+[18:47:24	]C17:RCT.YELLO-14 has spawned a bullets_heavypulse.
+[18:47:24	]C17:RCT.YELLO-14 has spawned a bullets_heavypulse.
+[18:47:25	]C17:RCT.YELLO-14 ran 'take' on item 'Heavy Pulse Rounds' (#3306711)
+[18:47:25	]C17:RCT.YELLO-14 has gained a 'Heavy Pulse Rounds' #3306711.
+[18:47:26	]C17:RCT.YELLO-14 ran 'take' on item 'Heavy Pulse Rounds' (#3306710)
+[18:47:26	]C17:RCT.YELLO-14 has gained a 'Heavy Pulse Rounds' #3306710.
+[18:47:27	]C17:RCT.YELLO-14 ran 'take' on item 'Heavy Pulse Rounds' (#3306709)
+[18:47:27	]C17:RCT.YELLO-14 has gained a 'Heavy Pulse Rounds' #3306709.
+[18:47:29	]C17:RCT.YELLO-14 ran 'combine' on item '24rnd Hammer Magazine' (#3306704)
+[18:47:29	]C17:RCT.YELLO-14 ran 'combine' on item '24rnd Hammer Magazine' (#3306705)
+[18:47:31	]C17:RCT.YELLO-14 ran 'combine' on item '24rnd Hammer Magazine' (#3306706)
+[18:47:33	]C17:RCT.YELLO-14 has spawned a bullets_heavypulse.
+[18:47:33	]C17:RCT.YELLO-14 has spawned a bullets_heavypulse.
+[18:47:33	]C17:RCT.YELLO-14 has spawned a bullets_heavypulse.
+[18:47:33	]C17:RCT.YELLO-14 has spawned a bullets_heavypulse.
+[18:47:34	]C17:RCT.YELLO-14 has spawned a bullets_heavypulse.
+[18:47:34	]C17:RCT.YELLO-14 has spawned a bullets_heavypulse.
+[18:47:34	]C17:RCT.YELLO-14 has spawned a bullets_heavypulse.
+[18:47:35	]C17:RCT.YELLO-14 ran 'take' on item 'Heavy Pulse Rounds' (#3306717)
+[18:47:35	]C17:RCT.YELLO-14 has gained a 'Heavy Pulse Rounds' #3306717.
+[18:47:36	]C17:RCT.YELLO-14 ran 'take' on item 'Heavy Pulse Rounds' (#3306718)
+[18:47:36	]C17:RCT.YELLO-14 has gained a 'Heavy Pulse Rounds' #3306718.
+[18:47:37	]C17:RCT.YELLO-14 ran 'take' on item 'Heavy Pulse Rounds' (#3306716)
+[18:47:37	]C17:RCT.YELLO-14 has gained a 'Heavy Pulse Rounds' #3306716.
+[18:47:38	]C17:RCT.YELLO-14 ran 'combine' on item '24rnd Hammer Magazine' (#3306708)
+[18:47:39	]C17:RCT.YELLO-14 ran 'combine' on item '24rnd Hammer Magazine' (#3306707)
+[18:47:44	]C17:RCT.YELLO-14 ran 'take' on item 'Heavy Pulse Rounds' (#3306715)
+[18:47:44	]C17:RCT.YELLO-14 has gained a 'Heavy Pulse Rounds' #3306715.
+[18:47:51	]C17:RCT.YELLO-14 has spawned a bullet_pouch.
+[18:47:52	]C17:RCT.YELLO-14 ran 'take' on item 'Ammunition Pouch' (#3306719)
+[18:47:52	]C17:RCT.YELLO-14 has gained a 'Ammunition Pouch' #3306719.
+[18:47:57	]C17:RCT.YELLO-14 has spawned a mag_pouch.
+[18:47:58	]C17:RCT.YELLO-14 has spawned a mag_pouch.
+[18:47:59	]C17:RCT.YELLO-14 ran 'take' on item 'Magazine Pouch' (#3306721)
+[18:47:59	]C17:RCT.YELLO-14 has gained a 'Magazine Pouch' #3306721.
+[18:48:02	]C17:RCT.YELLO-14 has used a context menu option with the name: remove
+[18:48:03	]C17:RCT.YELLO-14 ran 'combine' on item 'Magazine Pouch' (#3306721)
+[18:48:04	]C17:RCT.YELLO-14 ran 'combine' on item 'Magazine Pouch' (#3306721)
+[18:48:04	]C17:RCT.YELLO-14 ran 'combine' on item 'Magazine Pouch' (#3306721)
+[18:48:05	]C17:RCT.YELLO-14 ran 'combine' on item 'Magazine Pouch' (#3306721)
+[18:48:07	]C17:RCT.YELLO-14 ran 'combine' on item 'Ammunition Pouch' (#3306719)
+[18:48:08	]C17:RCT.YELLO-14 ran 'combine' on item 'Ammunition Pouch' (#3306719)
+[18:48:13	]C17:RCT.YELLO-14 has spawned a bullets_heavypulse.
+[18:48:13	]C17:RCT.YELLO-14 has spawned a bullets_heavypulse.
+[18:48:13	]C17:RCT.YELLO-14 has spawned a bullets_heavypulse.
+[18:48:13	]C17:RCT.YELLO-14 has spawned a bullets_heavypulse.
+[18:48:14	]C17:RCT.YELLO-14 ran 'take' on item 'Heavy Pulse Rounds' (#3306725)
+[18:48:14	]C17:RCT.YELLO-14 has gained a 'Heavy Pulse Rounds' #3306725.
+[18:48:16	]C17:RCT.YELLO-14 ran 'take' on item 'Heavy Pulse Rounds' (#3306724)
+[18:48:16	]C17:RCT.YELLO-14 has gained a 'Heavy Pulse Rounds' #3306724.
+[18:48:16	]C17:RCT.YELLO-14 ran 'take' on item 'Heavy Pulse Rounds' (#3306723)
+[18:48:16	]C17:RCT.YELLO-14 has gained a 'Heavy Pulse Rounds' #3306723.
+[18:48:18	]C17:RCT.YELLO-14 ran 'take' on item 'Heavy Pulse Rounds' (#3306722)
+[18:48:18	]C17:RCT.YELLO-14 has gained a 'Heavy Pulse Rounds' #3306722.
+[18:48:19	]C17:RCT.YELLO-14 ran 'combine' on item 'Ammunition Pouch' (#3306719)
+[18:48:19	]C17:RCT.YELLO-14 ran 'combine' on item 'Ammunition Pouch' (#3306719)
+[18:48:20	]C17:RCT.YELLO-14 ran 'combine' on item 'Ammunition Pouch' (#3306719)
+[18:48:20	]C17:RCT.YELLO-14 ran 'combine' on item 'Ammunition Pouch' (#3306719)
+[18:48:21	]C17:RCT.YELLO-14 ran 'take' on item 'Heavy Pulse Rounds' (#3306714)
+[18:48:21	]C17:RCT.YELLO-14 has gained a 'Heavy Pulse Rounds' #3306714.
+[18:48:22	]C17:RCT.YELLO-14 ran 'take' on item 'Heavy Pulse Rounds' (#3306713)
+[18:48:22	]C17:RCT.YELLO-14 has gained a 'Heavy Pulse Rounds' #3306713.
+[18:48:23	]C17:RCT.YELLO-14 ran 'take' on item 'Heavy Pulse Rounds' (#3306712)
+[18:48:23	]C17:RCT.YELLO-14 has gained a 'Heavy Pulse Rounds' #3306712.
+[18:48:24	]C17:RCT.YELLO-14 ran 'combine' on item 'Ammunition Pouch' (#3306719)
+[18:48:24	]C17:RCT.YELLO-14 ran 'combine' on item 'Ammunition Pouch' (#3306719)
+[18:48:24	]C17:RCT.YELLO-14 ran 'combine' on item 'Ammunition Pouch' (#3306719)
+[18:48:28	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:48:29	]C17:RCT.YELLO-14 has lost a '24rnd Hammer Magazine' #3306708.
+[18:48:31	]C17:RCT.YELLO-14 ran 'combine' on item 'Magazine Pouch' (#3306721)
+[18:48:31	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:48:49	]C17:RCT.YELLO-14 has gained a '24rnd Hammer Magazine' #3306708.
+[18:48:49	]C17:RCT.YELLO-14 has lost a '24rnd Hammer Magazine' #3306707.
+[18:48:51	]C17:RCT.YELLO-14 ran 'combine' on item '24rnd Hammer Magazine' (#3306708)
+[18:48:53	]C17:RCT.YELLO-14 ran 'combine' on item 'Magazine Pouch' (#3306721)
+[18:52:11	]C17:RCT.YELLO-14 entered observer.
+[18:52:14	]C17:RCT.YELLO-14 has spawned a Rabit_test.
+[18:52:17	]C17:RCT.YELLO-14 destroyed a 'A surprise Item' #3306726.
+[18:52:19	]C17:RCT.YELLO-14 exited observer.
+[18:52:21	]C17:RCT.YELLO-14 has spawned a cleaningcart.
+[18:52:22	]C17:RCT.YELLO-14 destroyed a 'Cleaning Cart' #3306727.
+[18:52:24	]C17:RCT.YELLO-14 entered observer.
+[18:52:27	]C17:RCT.YELLO-14 has spawned a broom.
+[18:52:33	]C17:RCT.YELLO-14 has fired a toolgun with the name: dynamite
+[18:52:37	]C17:RCT.YELLO-14 exited observer.
+[18:52:40	]C17:RCT.YELLO-14 entered observer.
+[18:52:40	]C17:RCT.YELLO-14 has spawned a PRANKED!.
+[18:52:43	]C17:RCT.YELLO-14 has fired a toolgun with the name: dynamite
+[18:52:46	]C17:RCT.YELLO-14 has fired a toolgun with the name: remover
+[18:52:47	]C17:RCT.YELLO-14 has fired a toolgun with the name: remover
+[18:52:48	]C17:RCT.YELLO-14 exited observer.
+[18:52:51	]C17:RCT.YELLO-14 entered observer.
+[18:52:52	]C17:RCT.YELLO-14 exited observer.
+[18:53:12	]C17:RCT.YELLO-14 has spawned a sapphire_dust.
+[18:53:14	]C17:RCT.YELLO-14 ran 'Consume' on item 'Star Dust' (#3306730)
+[18:53:14	]C17:RCT.YELLO-14 has gained a level -3 short boost in Strength.
+[18:53:14	]C17:RCT.YELLO-14 has gained a level 6 short boost in Perception.
+[18:53:14	]C17:RCT.YELLO-14 has gained a level 5 short boost in Intelligence.
+[18:53:19	]C17:RCT.YELLO-14 used command '/RemoveDrugEffects ^'.
+[18:53:37	]C17:RCT.YELLO-14 has spawned a shoes_dress_shoes.
+[18:53:37	]C17:RCT.YELLO-14 has spawned a shoes_dress_shoes.
+[18:53:40	]C17:RCT.YELLO-14 has used a context menu option with the name: remove
+[18:53:41	]C17:RCT.YELLO-14 ran 'take' on item 'Dress Shoes' (#3306731)
+[18:53:41	]C17:RCT.YELLO-14 has gained a 'Dress Shoes' #3306731.
+[18:53:43	]C17:RCT.YELLO-14 ran 'drop' on item 'Dress Shoes' (#3306731)
+[18:53:43	]C17:RCT.YELLO-14 has lost a 'Dress Shoes' #3306731.
+[18:53:43	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:53:45	]C17:RCT.YELLO-14 destroyed a 'Dress Shoes' #3306731.
+[18:53:45	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:55:41	]C17:RCT.YELLO-14 has spawned a ic_thanarok_embryo.
+[18:55:47	]C17:RCT.YELLO-14 has used a context menu option with the name: remove
+[18:55:48	]C17:RCT.YELLO-14 has spawned a ic_thanatos_embryo.
+[18:55:52	]C17:RCT.YELLO-14 ran 'take' on item 'thanatosItemName' (#3306734)
+[18:55:52	]C17:RCT.YELLO-14 has gained a 'thanatosItemName' #3306734.
+[18:55:54	]C17:RCT.YELLO-14 ran 'drop' on item 'thanatosItemName' (#3306734)
+[18:55:54	]C17:RCT.YELLO-14 has lost a 'thanatosItemName' #3306734.
+[18:55:54	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:55:57	]C17:RCT.YELLO-14 destroyed a 'thanatosItemName' #3306734.
+[18:55:57	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:56:00	]C17:RCT.YELLO-14 has spawned a ic_anti_xenian_viviral.
+[18:56:12	]C17:RCT.YELLO-14 has used a context menu option with the name: remove
+[18:56:18	]C17:RCT.YELLO-14 has spawned a ic_cluster_hive.
+[18:56:21	]C17:RCT.YELLO-14 has used a context menu option with the name: remove
+[18:56:32	]C17:RCT.YELLO-14 has spawned a drug_transhumano.
+[18:56:32	]C17:RCT.YELLO-14 ran 'use' on item 'Transhumano' (#3306737)
+[18:56:32	]C17:RCT.YELLO-14 has gained a level 7 short boost in Strength.
+[18:56:32	]C17:RCT.YELLO-14 has gained a level 7 short boost in Perception.
+[18:56:32	]C17:RCT.YELLO-14 has gained a 'Plastic garbage' #3306738.
+[18:57:46	]C17:RCT.YELLO-14 has spawned a drug_darkshot.
+[18:57:46	]C17:RCT.YELLO-14 ran 'take' on item 'Dark Shot' (#3306739)
+[18:57:46	]C17:RCT.YELLO-14 has gained a 'Dark Shot' #3306739.
+[18:57:50	]C17:RCT.YELLO-14 ran 'use' on item 'Dark Shot' (#3306739)
+[18:57:50	]C17:RCT.YELLO-14 has wasted a level 6 short boost in Strength (current: -3; target: 7).
+[18:57:50	]C17:RCT.YELLO-14 has gained a level 6 short boost in Agility.
+[18:57:50	]C17:RCT.YELLO-14 has updated their Perception short boost target to -5 (current : 7).
+[18:57:50	]C17:RCT.YELLO-14 has gained a 'Empty Jar' #3306740.
+[18:58:19	]C17:RCT.YELLO-14 has spawned a xen_pie.
+[18:58:20	]C17:RCT.YELLO-14 ran 'take' on item 'Xenian Pie' (#3306741)
+[18:58:20	]C17:RCT.YELLO-14 has gained a 'Xenian Pie' #3306741.
+[18:58:23	]C17:RCT.YELLO-14 ran 'Consume' on item 'Xenian Pie' (#3306741)
+[18:58:23	]C17:RCT.YELLO-14 has gained a level 7 long boost in Strength.
+[18:58:23	]C17:RCT.YELLO-14 has gained a level 7 long boost in Agility.
+[18:58:23	]C17:RCT.YELLO-14 has gained a level 7 long boost in Intelligence.
+[18:58:23	]C17:RCT.YELLO-14 has gained a level 7 long boost in Perception.
+[18:58:44	]C17:RCT.YELLO-14 rolled 15 out of 20 (+5 from Strength).
+[18:58:44	]C17:RCT.YELLO-14 used command '/Roll strength'.
+[18:58:49	]C17:RCT.YELLO-14 rolled 16 out of 20.
+[18:58:49	]C17:RCT.YELLO-14 used command '/Roll'.
+[18:58:51	]C17:RCT.YELLO-14 rolled 14 out of 20 (+0 from Intelligence).
+[18:58:51	]C17:RCT.YELLO-14 used command '/Roll intelligence'.
+[18:58:57	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:58:59	]C17:RCT.YELLO-14 used command '/ToggleRaise'.
+[18:59:21	]S10/OWS.GHOST-20 used command '/PlyTransfer ^ ota'.
+[18:59:44	]S10/OWS.GHOST-20 used command '/CharSetClass ^ wall'.
+[18:59:46	]S10/OWS.GHOST-20 used command '/CharSetClass ^ hammer'.
+[18:59:49	]S10/OWS.GHOST-20 used command '/CharSetClass ^ special'.
+[18:59:52	]S10/OWS.GHOST-20 used command '/CharSetClass ^'.
+[18:59:56	]S10/OWS.GHOST-20 used command '/CharSetClass ^ OWH'.
+[18:59:58	]S10/OWS.GHOST-20 used command '/CharSetClass ^ H'.
+[19:00:03	]S10/OWS.GHOST-20 used command '/CharSetClass ^ sup'.
+[19:00:07	]S10/OWS.GHOST-20 used command '/CharSetClass ^ soldier'.
+[19:00:10	]S10/OWS.GHOST-20 used command '/CharSetClass ^ type'.
+[19:00:12	]S10/OWS.GHOST-20 used command '/CharSetClass ^ q'.
+[19:00:14	]S10/OWS.GHOST-20 used command '/CharSetClass ^ w'.
+[19:00:16	]S10/OWS.GHOST-20 used command '/CharSetClass ^ e'.
+[19:00:17	]S10/OWS.GHOST-20 used command '/CharSetClass ^ r'.
+[19:00:22	]S10/OWS.GHOST-20 used command '/CharSetClass ^ y'.
+[19:00:24	]S10/OWS.GHOST-20 used command '/CharSetClass ^ u'.
+[19:00:25	]S10/OWS.GHOST-20 used command '/CharSetClass ^ i'.
+[19:00:27	]S10/OWS.GHOST-20 used command '/CharSetClass ^ o'.
+[19:00:29	]S10/OWS.GHOST-20 used command '/CharSetClass ^ p'.
+[19:00:30	]S10/OWS.GHOST-20 used command '/CharSetClass ^ a'.
+[19:00:31	]S10/OWS.GHOST-20 used command '/CharSetClass ^ s'.
+[19:00:32	]S10/OWS.GHOST-20 used command '/CharSetClass ^ d'.
+[19:00:35	]S10/OWS.GHOST-20 used command '/CharSetClass ^ f'.
+[19:00:36	]S10/OWS.GHOST-20 used command '/CharSetClass ^ g'.
+[19:00:40	]S10/OWS.GHOST-20 used command '/CharSetClass ^ h'.
+[19:00:42	]S10/OWS.GHOST-20 used command '/CharSetClass ^ j'.
+[19:00:43	]S10/OWS.GHOST-20 used command '/CharSetClass ^ k'.
+[19:00:45	]S10/OWS.GHOST-20 used command '/CharSetClass ^ l'.
+[19:00:46	]S10/OWS.GHOST-20 used command '/CharSetClass ^ z'.
+[19:00:48	]S10/OWS.GHOST-20 used command '/CharSetClass ^ x'.
+[19:00:49	]S10/OWS.GHOST-20 used command '/CharSetClass ^ c'.
+[19:00:50	]S10/OWS.GHOST-20 used command '/CharSetClass ^ v'.
+[19:00:53	]S10/OWS.GHOST-20 used command '/CharSetClass ^ b'.
+[19:00:55	]S10/OWS.GHOST-20 used command '/CharSetClass ^ n'.
+[19:00:56	]S10/OWS.GHOST-20 used command '/CharSetClass ^ m'.
+[19:01:05	]S10/OWS.GHOST-20 used command '/CharSetClass ^ q'.
+[19:01:07	]S10/OWS.GHOST-20 used command '/CharSetClass ^ qa'.
+[19:01:09	]S10/OWS.GHOST-20 used command '/CharSetClass ^ wa'.
+[19:01:10	]S10/OWS.GHOST-20 used command '/CharSetClass ^ ea'.
+[19:01:12	]S10/OWS.GHOST-20 used command '/CharSetClass ^ ta'.
+[19:01:13	]S10/OWS.GHOST-20 used command '/CharSetClass ^ ya'.
+[19:01:15	]S10/OWS.GHOST-20 used command '/CharSetClass ^ ua'.
+[19:01:16	]S10/OWS.GHOST-20 used command '/CharSetClass ^ ia'.
+[19:01:17	]S10/OWS.GHOST-20 used command '/CharSetClass ^ oa'.
+[19:01:19	]S10/OWS.GHOST-20 used command '/CharSetClass ^ pa'.
+[19:01:22	]S10/OWS.GHOST-20 used command '/CharSetClass ^ aa'.
+[19:01:24	]S10/OWS.GHOST-20 used command '/CharSetClass ^ sa'.
+[19:01:25	]S10/OWS.GHOST-20 used command '/CharSetClass ^ da'.
+[19:01:26	]S10/OWS.GHOST-20 used command '/CharSetClass ^ fa'.
+[19:01:28	]S10/OWS.GHOST-20 used command '/CharSetClass ^ ga'.
+[19:01:29	]S10/OWS.GHOST-20 used command '/CharSetClass ^ ha'.
+[19:01:35	]S10/OWS.GHOST-20 used command '/CharSetClass ^ charger'.
+[19:01:45	]S10/OWS.GHOST-20 used command '/CharSetClass ^ OWH'.
+[19:01:59	]S10/OWS.GHOST-20 has spawned a uniform_charger.
+[19:02:01	]S10/OWS.GHOST-20 ran 'take' on item 'OTA Charger Uniform' (#3306742)
+[19:02:01	]S10/OWS.GHOST-20 has gained a 'OTA Charger Uniform' #3306742.
+[19:02:05	]S10/OWS.GHOST-20 ran 'drop' on item 'OTA Mask (R)' (#3306683)
+[19:02:05	]S10/OWS.GHOST-20 has lost a 'OTA Mask (R)' #3306683.
+[19:02:05	]S10/OWS.GHOST-20 ran 'drop' on item 'Dark Leather Boots' (#1898747)
+[19:02:05	]S10/OWS.GHOST-20 has lost a 'Dark Leather Boots' #1898747.
+[19:02:06	]S10/OWS.GHOST-20 ran 'drop' on item 'Small Bag' (#1899552)
+[19:02:06	]S10/OWS.GHOST-20 has lost a 'Small Bag' #1899552.
+[19:02:06	]S10/OWS.GHOST-20 has lost a 'Water Bottle' #1904297.
+[19:02:06	]S10/OWS.GHOST-20 has lost a 'Water Bottle' #1904298.
+[19:02:06	]S10/OWS.GHOST-20 has lost a 'Water Bottle' #1904300.
+[19:02:06	]S10/OWS.GHOST-20 has lost a 'Water Valve' #1904284.
+[19:02:06	]S10/OWS.GHOST-20 has lost a '#64003's Identity Card' #1898744.
+[19:02:06	]S10/OWS.GHOST-20 has lost a 'Fabric' #1950309.
+[19:02:08	]S10/OWS.GHOST-20 ran 'take' on item 'Small Bag' (#1899552)
+[19:02:08	]S10/OWS.GHOST-20 has gained a 'Small Bag' #1899552.
+[19:02:08	]S10/OWS.GHOST-20 has gained a 'Water Bottle' #1904297.
+[19:02:08	]S10/OWS.GHOST-20 has gained a 'Water Bottle' #1904298.
+[19:02:08	]S10/OWS.GHOST-20 has gained a 'Water Bottle' #1904300.
+[19:02:08	]S10/OWS.GHOST-20 has gained a 'Water Valve' #1904284.
+[19:02:08	]S10/OWS.GHOST-20 has gained a '#64003's Identity Card' #1898744.
+[19:02:08	]S10/OWS.GHOST-20 has gained a 'Fabric' #1950309.
+[19:02:10	]S10/OWS.GHOST-20 ran 'drop' on item 'Small Bag' (#1899552)
+[19:02:10	]S10/OWS.GHOST-20 has lost a 'Small Bag' #1899552.
+[19:02:10	]S10/OWS.GHOST-20 has lost a 'Water Bottle' #1904297.
+[19:02:10	]S10/OWS.GHOST-20 has lost a 'Water Bottle' #1904298.
+[19:02:10	]S10/OWS.GHOST-20 has lost a 'Water Bottle' #1904300.
+[19:02:10	]S10/OWS.GHOST-20 has lost a 'Water Valve' #1904284.
+[19:02:10	]S10/OWS.GHOST-20 has lost a '#64003's Identity Card' #1898744.
+[19:02:10	]S10/OWS.GHOST-20 has lost a 'Fabric' #1950309.
+[19:02:11	]S10/OWS.GHOST-20 ran 'take' on item 'Small Bag' (#1899552)
+[19:02:11	]S10/OWS.GHOST-20 has gained a 'Small Bag' #1899552.
+[19:02:11	]S10/OWS.GHOST-20 has gained a 'Water Bottle' #1904297.
+[19:02:11	]S10/OWS.GHOST-20 has gained a 'Water Bottle' #1904298.
+[19:02:11	]S10/OWS.GHOST-20 has gained a 'Water Bottle' #1904300.
+[19:02:11	]S10/OWS.GHOST-20 has gained a 'Water Valve' #1904284.
+[19:02:11	]S10/OWS.GHOST-20 has gained a '#64003's Identity Card' #1898744.
+[19:02:11	]S10/OWS.GHOST-20 has gained a 'Fabric' #1950309.
+[19:02:13	]S10/OWS.GHOST-20 ran 'combine' on item 'Large Bag' (#3306684)
+[19:02:17	]S10/OWS.GHOST-20 ran 'drop' on item 'Rebel Riot CP Uniform' (#3306682)
+[19:02:17	]S10/OWS.GHOST-20 has lost a 'Rebel Riot CP Uniform' #3306682.
+[19:02:22	]S10/OWS.GHOST-20 has fired a toolgun with the name: dynamite
+[19:02:23	]S10/OWS.GHOST-20 has hit S10/OWS.GHOST-20 dealing 7 damage (CritChance was 0.00).
+[19:02:23	]S10/OWS.GHOST-20 has taken 7 damage from S10/OWS.GHOST-20.
+[19:02:23	]S10/OWS.GHOST-20 destroyed a 'Rebel Riot CP Uniform' #3306682.
+[19:02:23	]S10/OWS.GHOST-20 destroyed a 'Dark Leather Boots' #1898747.
+[19:02:23	]S10/OWS.GHOST-20 destroyed a 'OTA Mask (R)' #3306683.
+[19:02:34	]S10/OWS.GHOST-20 is fully healed.
+[19:02:39	]S10/OWS.GHOST-20 used command '/CharSetClass ^ charger'.
+[19:03:14	]S10/OWS.GHOST-20 used command '/ToggleRaise'.
+[19:03:16	]S10/OWS.GHOST-20 has gained a '24rnd Hammer Magazine' #3306707.
+[19:03:16	]S10/OWS.GHOST-20 has lost a '24rnd Hammer Magazine' #3306708.
+[19:03:21	]S10/OWS.GHOST-20 used command '/RemoveDrugEffects ^'.
+[19:03:34	]S10/OWS.GHOST-20 has gained a '24rnd Hammer Magazine' #3306708.
+[19:03:34	]S10/OWS.GHOST-20 has lost a '24rnd Hammer Magazine' #3306707.
+[19:03:48	]S10/OWS.GHOST-20 has spawned a 'NPC [134][npc_vj_hla_antlion]'.
+[19:03:50	]S10/OWS.GHOST-20 has spawned a 'NPC [5415][npc_vj_hla_fcrab]'.
+[19:03:53	]S10/OWS.GHOST-20 has spawned a 'NPC [5418][npc_vj_hla_hcrab]'.
+[19:03:54	]S10/OWS.GHOST-20 has spawned a 'NPC [5423][npc_vj_hla_fcrab]'.
+[19:03:55	]S10/OWS.GHOST-20 has spawned a 'NPC [5415][npc_vj_hla_zombiereviver_hl2]'.
+[19:03:58	]S10/OWS.GHOST-20 has hit npc_vj_hla_antlion dealing 20 damage (CritChance was 0.00).
+[19:03:58	]S10/OWS.GHOST-20 has hit npc_vj_hla_antlion dealing 20 damage (CritChance was 0.00).
+[19:03:58	]S10/OWS.GHOST-20 has hit npc_vj_hla_antlion in the right leg dealing 16 damage (CritChance was 0.43).
+[19:03:58	]S10/OWS.GHOST-20 has taken 13 damage from Antlion.
+[19:03:58	]S10/OWS.GHOST-20 has hit npc_vj_hla_antlion dealing 20 damage (CritChance was 0.00).
+[19:03:58	]S10/OWS.GHOST-20 has hit npc_vj_hla_antlion dealing 20 damage (CritChance was 0.00).
+[19:03:59	]S10/OWS.GHOST-20 has hit npc_vj_hla_antlion dealing 20 damage (CritChance was 0.00).
+[19:03:59	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_antlion in the left leg dealing 20 damage (CritChance was 0.43).
+[19:03:59	]S10/OWS.GHOST-20 is fully healed.
+[19:03:59	]S10/OWS.GHOST-20 has hit npc_vj_hla_antlion dealing 20 damage (CritChance was 0.00).
+[19:04:00	]S10/OWS.GHOST-20 has hit npc_vj_hla_antlion dealing 20 damage (CritChance was 0.00).
+[19:04:00	]S10/OWS.GHOST-20 has hit npc_vj_hla_antlion in the left leg dealing 16 damage (CritChance was 0.43).
+[19:04:00	]S10/OWS.GHOST-20 has taken 13 damage from Antlion.
+[19:04:01	]S10/OWS.GHOST-20 has gained a '24rnd Hammer Magazine' #3306707.
+[19:04:01	]S10/OWS.GHOST-20 has lost a '24rnd Hammer Magazine' #3306706.
+[19:04:04	]S10/OWS.GHOST-20 has hit npc_vj_hla_antlion in the left leg dealing 16 damage (CritChance was 0.43).
+[19:04:04	]S10/OWS.GHOST-20 is fully healed.
+[19:04:04	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_antlion in the head dealing 28 damage (CritChance was 0.14).
+[19:04:05	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_antlion in the head dealing 28 damage (CritChance was 0.14).
+[19:04:05	]S10/OWS.GHOST-20 has hit npc_vj_hla_antlion in the head dealing 23 damage (CritChance was 0.14).
+[19:04:07	]S10/OWS.GHOST-20 has hit npc_vj_hla_fcrab dealing 20 damage (CritChance was 0.72).
+[19:04:09	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_hcrab dealing 25 damage (CritChance was 0.72).
+[19:04:12	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.72).
+[19:04:12	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.72).
+[19:04:12	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_zombiereviver_hl2 dealing 25 damage (CritChance was 0.72).
+[19:04:13	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_zombiereviver_hl2 dealing 25 damage (CritChance was 0.72).
+[19:04:13	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.00).
+[19:04:14	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.00).
+[19:04:14	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.72).
+[19:04:14	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.72).
+[19:04:15	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.00).
+[19:04:15	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.00).
+[19:04:15	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.72).
+[19:04:16	]S10/OWS.GHOST-20 has gained a '24rnd Hammer Magazine' #3306706.
+[19:04:16	]S10/OWS.GHOST-20 has lost a '24rnd Hammer Magazine' #3306705.
+[19:04:22	]S10/OWS.GHOST-20 ran 'combine' on item '24rnd Hammer Magazine' (#3306706)
+[19:04:23	]S10/OWS.GHOST-20 ran 'combine' on item '24rnd Hammer Magazine' (#3306708)
+[19:04:24	]S10/OWS.GHOST-20 ran 'combine' on item '24rnd Hammer Magazine' (#3306707)
+[19:04:25	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.00).
+[19:04:25	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.00).
+[19:04:25	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.00).
+[19:04:25	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_zombiereviver_hl2 dealing 25 damage (CritChance was 0.72).
+[19:04:26	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_zombiereviver_hl2 dealing 25 damage (CritChance was 0.72).
+[19:04:26	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_zombiereviver_hl2 dealing 25 damage (CritChance was 0.72).
+[19:04:26	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_zombiereviver_hl2 dealing 25 damage (CritChance was 0.72).
+[19:04:26	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.72).
+[19:04:26	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_zombiereviver_hl2 dealing 25 damage (CritChance was 0.72).
+[19:04:26	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_zombiereviver_hl2 dealing 25 damage (CritChance was 0.72).
+[19:04:26	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.00).
+[19:04:26	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.00).
+[19:04:26	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.72).
+[19:04:27	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_zombiereviver_hl2 dealing 25 damage (CritChance was 0.72).
+[19:04:27	]S10/OWS.GHOST-20 has gained a '24rnd Hammer Magazine' #3306705.
+[19:04:27	]S10/OWS.GHOST-20 has lost a '24rnd Hammer Magazine' #3306708.
+[19:04:36	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_zombiereviver_hl2 dealing 25 damage (CritChance was 0.67).
+[19:04:43	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.00).
+[19:04:43	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.00).
+[19:04:44	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.00).
+[19:04:44	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.00).
+[19:04:44	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.00).
+[19:04:44	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.00).
+[19:05:02	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_zombiereviver_hl2 dealing 25 damage (CritChance was 0.72).
+[19:05:02	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.00).
+[19:05:02	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.00).
+[19:05:03	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_zombiereviver_hl2 dealing 25 damage (CritChance was 0.72).
+[19:05:03	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.00).
+[19:05:03	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.72).
+[19:05:03	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.72).
+[19:05:03	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.00).
+[19:05:03	]S10/OWS.GHOST-20 has hit npc_vj_hla_zombiereviver_hl2 dealing 20 damage (CritChance was 0.00).
+[19:05:07	]S10/OWS.GHOST-20 has spawned a 'NPC [134][npc_vj_hla_rcrab]'.
+[19:05:08	]S10/OWS.GHOST-20 has gained a '24rnd Hammer Magazine' #3306708.
+[19:05:08	]S10/OWS.GHOST-20 has lost a '24rnd Hammer Magazine' #3306707.
+[19:05:10	]S10/OWS.GHOST-20 has hit npc_vj_hla_rcrab dealing 20 damage (CritChance was 0.72).
+[19:05:11	]S10/OWS.GHOST-20 has hit npc_vj_hla_rcrab dealing 20 damage (CritChance was 0.72).
+[19:05:11	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_rcrab dealing 25 damage (CritChance was 0.72).
+[19:05:11	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_rcrab dealing 25 damage (CritChance was 0.72).
+[19:05:11	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_rcrab dealing 25 damage (CritChance was 0.72).
+[19:05:11	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_rcrab dealing 25 damage (CritChance was 0.72).
+[19:05:11	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_rcrab dealing 25 damage (CritChance was 0.72).
+[19:05:12	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_rcrab dealing 25 damage (CritChance was 0.72).
+[19:05:12	]S10/OWS.GHOST-20 has critically hit npc_vj_hla_rcrab dealing 25 damage (CritChance was 0.72).
+[19:05:18	]S10/OWS.GHOST-20 entered observer.
+[19:05:18	]S10/OWS.GHOST-20 has fired a toolgun with the name: creator
+[19:05:19	]S10/OWS.GHOST-20 has spawned a 'NPC [134][npc_antlion_schizo_fireant]'.
+[19:05:19	]S10/OWS.GHOST-20 has fired a toolgun with the name: creator
+[19:05:19	]S10/OWS.GHOST-20 has spawned a 'NPC [5415][npc_antlion_schizo_fireant]'.
+[19:05:19	]S10/OWS.GHOST-20 has fired a toolgun with the name: creator
+[19:05:19	]S10/OWS.GHOST-20 has spawned a 'NPC [5416][npc_antlion_schizo_fireant]'.
+[19:05:19	]S10/OWS.GHOST-20 has fired a toolgun with the name: creator
+[19:05:19	]S10/OWS.GHOST-20 has spawned a 'NPC [5427][npc_antlion_schizo_fireant]'.
+[19:05:19	]S10/OWS.GHOST-20 has fired a toolgun with the name: creator
+[19:05:19	]S10/OWS.GHOST-20 has spawned a 'NPC [5428][npc_antlion_schizo_fireant]'.
+[19:05:20	]S10/OWS.GHOST-20 has fired a toolgun with the name: creator
+[19:05:20	]S10/OWS.GHOST-20 has spawned a 'NPC [5429][npc_antlion_schizo_fireant]'.
+[19:05:20	]S10/OWS.GHOST-20 has fired a toolgun with the name: creator
+[19:05:20	]S10/OWS.GHOST-20 has spawned a 'NPC [5430][npc_antlion_schizo_fireant]'.
+[19:05:20	]S10/OWS.GHOST-20 has fired a toolgun with the name: creator
+[19:05:20	]S10/OWS.GHOST-20 has spawned a 'NPC [5431][npc_antlion_schizo_fireant]'.
+[19:05:20	]S10/OWS.GHOST-20 has fired a toolgun with the name: creator
+[19:05:20	]S10/OWS.GHOST-20 has spawned a 'NPC [5432][npc_antlion_schizo_fireant]'.
+[19:05:20	]S10/OWS.GHOST-20 has fired a toolgun with the name: creator
+[19:05:20	]S10/OWS.GHOST-20 has spawned a 'NPC [5433][npc_antlion_schizo_fireant]'.
+[19:05:21	]S10/OWS.GHOST-20 has fired a toolgun with the name: creator
+[19:05:21	]S10/OWS.GHOST-20 has spawned a 'NPC [5434][npc_antlion_schizo_fireant]'.
+[19:05:21	]S10/OWS.GHOST-20 has fired a toolgun with the name: creator
+[19:05:21	]S10/OWS.GHOST-20 has spawned a 'NPC [5435][npc_antlion_schizo_fireant]'.
+[19:05:21	]S10/OWS.GHOST-20 has fired a toolgun with the name: creator
+[19:05:21	]S10/OWS.GHOST-20 has spawned a 'NPC [5436][npc_antlion_schizo_fireant]'.
+[19:05:26	]S10/OWS.GHOST-20 exited observer.
+[19:05:27	]S10/OWS.GHOST-20 used command '/ToggleRaise'.
+[19:05:28	]S10/OWS.GHOST-20 has taken 5 damage from Antlion Fireant.
+[19:05:29	]S10/OWS.GHOST-20 has taken 35 damage from Antlion Fireant.
+[19:05:29	]S10/OWS.GHOST-20 has taken 40 damage from Antlion Fireant.
+[19:05:29	]S10/OWS.GHOST-20 is fully healed.
+[19:05:30	]S10/OWS.GHOST-20 has taken 10 damage from Antlion Fireant.
+[19:05:30	]S10/OWS.GHOST-20 has taken 40 damage from Antlion Fireant.
+[19:05:30	]S10/OWS.GHOST-20 has taken 40 damage from Antlion Fireant.
+[19:05:31	]S10/OWS.GHOST-20 has critically hit npc_antlion_schizo_fireant dealing 25 damage (CritChance was 0.72).
+[19:05:31	]S10/OWS.GHOST-20 has taken 30 damage from Antlion Fireant.
+[19:05:31	]S10/OWS.GHOST-20 has critically hit npc_antlion_schizo_fireant dealing 25 damage (CritChance was 0.72).
+[19:05:31	]S10/OWS.GHOST-20 has critically hit npc_antlion_schizo_fireant dealing 25 damage (CritChance was 0.72).
+[19:05:32	]S10/OWS.GHOST-20 has critically hit npc_antlion_schizo_fireant dealing 25 damage (CritChance was 0.72).
+[19:05:32	]S10/OWS.GHOST-20 has critically hit npc_antlion_schizo_fireant dealing 25 damage (CritChance was 0.72).
+[19:05:34	]S10/OWS.GHOST-20 has gained a '24rnd Hammer Magazine' #3306707.
+[19:05:34	]S10/OWS.GHOST-20 has lost a '24rnd Hammer Magazine' #3306706.
+[19:05:34	]S10/OWS.GHOST-20 is fully healed.
+[19:05:36	]S10/OWS.GHOST-20 has taken 35 damage from Antlion Fireant.
+[19:05:37	]S10/OWS.GHOST-20 has taken 40 damage from Antlion Fireant.
+[19:05:38	]S10/OWS.GHOST-20 has taken 10 damage from Antlion Fireant.
+[19:05:38	]S10/OWS.GHOST-20 has taken 35 damage from Antlion Fireant.
+[19:05:39	]S10/OWS.GHOST-20 has critically hit npc_antlion_schizo_fireant dealing 25 damage (CritChance was 0.72).
+[19:05:40	]S10/OWS.GHOST-20 has critically hit npc_antlion_schizo_fireant dealing 25 damage (CritChance was 0.72).
+[19:05:41	]S10/OWS.GHOST-20 has hit npc_antlion_schizo_fireant dealing 20 damage (CritChance was 0.72).
+[19:05:43	]S10/OWS.GHOST-20 has critically hit npc_antlion_schizo_fireant dealing 25 damage (CritChance was 0.72).
+[19:05:46	]S10/OWS.GHOST-20 has gained a '24rnd Hammer Magazine' #3306706.
+[19:05:46	]S10/OWS.GHOST-20 has lost a '24rnd Hammer Magazine' #3306704.
+[19:05:56	][IC] S10/OWS.GHOST-20: Scream2.
+[19:05:58	][IC] S10/OWS.GHOST-20: Hold.
+[19:06:02	]Marco has unloaded their "S10/OWS.GHOST-20" character.
+[19:06:08	]Marco (STEAM_0:0:39958603) deleted character 'S10/OWS.GHOST-20'
+[19:06:54	]Marco created the character 'S10/OWS.GHOST-54'
+[19:06:54	]Marco has gained level 40 in the Guns skill.
+[19:06:54	]Marco has gained level 40 in the Speed skill.
+[19:06:54	]Marco loaded the character 'S10/OWS.GHOST-54'
+[19:06:55	]S10/OWS.GHOST-54 has gained a 'Small Bag' #3306743.
+[19:06:55	]S10/OWS.GHOST-54 has gained a 'Large Bag' #3306744.
+[19:06:55	]S10/OWS.GHOST-54 has gained a 'Flashlight' #3306745.
+[19:06:55	]S10/OWS.GHOST-54 has gained a 'Combine PDA' #3306746.
+[19:06:55	]S10/OWS.GHOST-54 has gained a 'OTA Uniform' #3306747.
+[19:06:55	]S10/OWS.GHOST-54 has gained a 'OTA Mask' #3306748.
+[19:06:55	]S10/OWS.GHOST-54 has gained a 'Rappel Gear' #3306749.
+[19:06:55	]S10/OWS.GHOST-54 has gained a 'Magazine Pouch' #3306750.
+[19:06:55	]S10/OWS.GHOST-54 has gained a 'Ammunition Pouch' #3306751.
+[19:07:19	]S10/OWS.GHOST-54 exited observer.
+[19:07:20	]S10/OWS.GHOST-54 entered observer.
+[19:07:20	]S10/OWS.GHOST-54 has taken 40 damage from Antlion Fireant.
+[19:07:22	]S10/OWS.GHOST-54 exited observer.
+[19:07:23	][IC] S10/OWS.GHOST-54: 1admin.
+[19:09:54	]S10/OWS.GHOST-54 used the 'ORDINAL' vendor.
+[19:10:00	]S10/OWS.GHOST-54 used the 'OTA Vendor' vendor.
+[19:10:03	]S10/OWS.GHOST-54 used the 'OTA Vendor' vendor.
+[19:10:14	]S10/OWS.GHOST-54 used the 'WALLHAMMER' vendor.
+[19:10:33	]S10/OWS.GHOST-54 used command '/CharSetClass ^ CHARGER'.
+[19:10:37	]S10/OWS.GHOST-54 used command '/CharSetClass ^ WALLHAMMER'.
+[19:10:40	]S10/OWS.GHOST-54 used command '/CharSetClass ^ OVERWATCH'.
+[19:10:43	]S10/OWS.GHOST-54 used command '/CharSetClass ^ CHARGER'.
+[19:10:48	]S10/OWS.GHOST-54 used command '/CharSetClass ^ GRUNT'.
+[19:10:52	]S10/OWS.GHOST-54 used command '/CharSetClass ^'.
+[19:10:55	]S10/OWS.GHOST-54 used command '/CharSetClass ^ SOLDIER'.
+[19:11:00	]S10/OWS.GHOST-54 used command '/CharSetClass ^ OVERWATCH SOLDIER'.
+[19:11:06	]S10/OWS.GHOST-54 used command '/CharSetClass ^ ORDINAL'.
+[19:11:48	]S10/OWS.GHOST-54 used command '/CharGiveFlag ^ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456'.
+[19:12:47	]S10/OWS.GHOST-54 used the 'GRUNTS' vendor.
+[19:12:59	]S10/OWS.GHOST-54 is fully healed.
+[19:13:01	]S10/OWS.GHOST-54 ran 'drop' on item 'OTA Uniform' (#3306747)
+[19:13:01	]S10/OWS.GHOST-54 has lost a 'OTA Uniform' #3306747.
+[19:13:08	]S10/OWS.GHOST-54 ran 'Equip' on item 'Combine PDA' (#3306746)
+[19:13:15	]S10/OWS.GHOST-54 ran 'Equip' on item 'Rappel Gear' (#3306749)
+[19:13:16	]S10/OWS.GHOST-54 ran 'Equip' on item 'Rappel Gear' (#3306749)
+[19:13:17	]S10/OWS.GHOST-54 ran 'EquipUn' on item 'Combine PDA' (#3306746)
+[19:13:18	]S10/OWS.GHOST-54 ran 'Equip' on item 'Rappel Gear' (#3306749)
+[19:13:27	]S10/OWS.GHOST-54 ran 'take' on item 'OTA Uniform' (#3306747)
+[19:13:27	]S10/OWS.GHOST-54 has gained a 'OTA Uniform' #3306747.
+[19:13:35	]S10/OWS.GHOST-54 ran 'drop' on item 'OTA Uniform' (#3306747)
+[19:13:35	]S10/OWS.GHOST-54 has lost a 'OTA Uniform' #3306747.
+[19:13:36	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[19:13:38	]S10/OWS.GHOST-54 destroyed a 'OTA Uniform' #3306747.
+[19:13:38	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[19:13:42	]S10/OWS.GHOST-54 used the 'WALLHAMMER' vendor.
+[19:13:59	]S10/OWS.GHOST-54 used command '/CharSetClass ^ spikewall'.
+[19:14:01	]S10/OWS.GHOST-54 used command '/CharSetClass ^ spik'.
+[19:14:03	]S10/OWS.GHOST-54 used command '/CharSetClass ^ wall'.
+[19:14:05	]S10/OWS.GHOST-54 used the 'WALLHAMMER' vendor.
+[19:14:09	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:14:09	]S10/OWS.GHOST-54 has gained a 'OTA Charger Uniform' #3306752.
+[19:14:10	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:14:10	]S10/OWS.GHOST-54 has gained a 'Zip Tie' #3306753.
+[19:14:10	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:14:10	]S10/OWS.GHOST-54 has gained a 'Zip Tie' #3306754.
+[19:14:13	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:14:14	]S10/OWS.GHOST-54 has gained a 'Morphine' #3306755.
+[19:14:14	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:14:14	]S10/OWS.GHOST-54 has gained a 'Morphine' #3306756.
+[19:14:16	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:14:16	]S10/OWS.GHOST-54 has gained a 'Health Vial' #3306757.
+[19:14:16	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:14:16	]S10/OWS.GHOST-54 has gained a 'Health Vial' #3306758.
+[19:14:19	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:14:41	][IC] S10/OWS.GHOST-54: <:: Shit. ::>
+[19:14:46	][IC] S10/OWS.GHOST-54: <:: One. ::>
+[19:14:47	][IC] S10/OWS.GHOST-54: <:: Two. ::>
+[19:14:48	][IC] S10/OWS.GHOST-54: <:: Three. ::>
+[19:14:51	][IC] S10/OWS.GHOST-54: <:: Scream2. ::>
+[19:14:53	][IC] S10/OWS.GHOST-54: <:: Screaming1. ::>
+[19:14:54	][IC] S10/OWS.GHOST-54: <:: Screaming. ::>
+[19:15:04	][IC] S10/OWS.GHOST-54: <:: Engaging. ::>
+[19:15:06	][IC] S10/OWS.GHOST-54: <:: Taking advantage. ::>
+[19:15:07	][IC] S10/OWS.GHOST-54: <:: Attacking8. ::>
+[19:15:10	][IC] S10/OWS.GHOST-54: <:: Primary target, ordinal engaged. ::>
+[19:15:22	][IC] S10/OWS.GHOST-54: <:: Wallhammer, is engaged and firing. ::>
+[19:15:27	]S10/OWS.GHOST-54 used the 'WALLHAMMER' vendor.
+[19:15:36	]S10/OWS.GHOST-54 ran 'take' on item 'Overwatch Heavy Shotgun' (#3306759)
+[19:15:48	]S10/OWS.GHOST-54 ran 'take' on item 'Overwatch Heavy Shotgun' (#3306759)
+[19:15:48	]S10/OWS.GHOST-54 has gained a 'Overwatch Heavy Shotgun' #3306759.
+[19:15:50	]S10/OWS.GHOST-54 ran 'Equip' on item 'Overwatch Heavy Shotgun' (#3306759)
+[19:15:52	]S10/OWS.GHOST-54 ran 'EquipUn' on item 'Rappel Gear' (#3306749)
+[19:15:53	]S10/OWS.GHOST-54 ran 'Equip' on item 'Overwatch Heavy Shotgun' (#3306759)
+[19:15:53	]S10/OWS.GHOST-54 ran 'Equip' on item 'Rappel Gear' (#3306749)
+[19:15:57	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[19:16:16	]S10/OWS.GHOST-54 used the 'WALLHAMMER' vendor.
+[19:16:18	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:16:18	]S10/OWS.GHOST-54 has gained a 'Combine Filter' #3306760.
+[19:16:24	]S10/OWS.GHOST-54 ran 'Equip' on item 'Combine PDA' (#3306746)
+[19:16:29	]S10/OWS.GHOST-54 used the 'WALLHAMMER' vendor.
+[19:16:41	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:16:41	]S10/OWS.GHOST-54 has gained a '12rnd SG-1 Magazine' #3306761.
+[19:16:41	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:16:41	]S10/OWS.GHOST-54 has gained a '12rnd SG-1 Magazine' #3306762.
+[19:16:42	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:16:42	]S10/OWS.GHOST-54 has gained a '12rnd SG-1 Magazine' #3306763.
+[19:16:42	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:16:42	]S10/OWS.GHOST-54 has gained a '12rnd SG-1 Magazine' #3306764.
+[19:16:43	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:16:43	]S10/OWS.GHOST-54 has gained a '12rnd SG-1 Magazine' #3306765.
+[19:16:43	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:16:43	]S10/OWS.GHOST-54 has gained a '12rnd SG-1 Magazine' #3306766.
+[19:16:45	]S10/OWS.GHOST-54 ran 'combine' on item 'Magazine Pouch' (#3306750)
+[19:16:46	]S10/OWS.GHOST-54 ran 'combine' on item 'Magazine Pouch' (#3306750)
+[19:16:47	]S10/OWS.GHOST-54 ran 'combine' on item 'Magazine Pouch' (#3306750)
+[19:16:48	]S10/OWS.GHOST-54 ran 'combine' on item 'Magazine Pouch' (#3306750)
+[19:16:51	]S10/OWS.GHOST-54 used the 'WALLHAMMER' vendor.
+[19:16:53	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:16:53	]S10/OWS.GHOST-54 has gained a 'Buckshot Shotgun Shells' #3306767.
+[19:16:53	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:16:53	]S10/OWS.GHOST-54 has gained a 'Buckshot Shotgun Shells' #3306768.
+[19:16:53	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:16:54	]S10/OWS.GHOST-54 has gained a 'Buckshot Shotgun Shells' #3306769.
+[19:16:54	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:16:54	]S10/OWS.GHOST-54 has gained a 'Buckshot Shotgun Shells' #3306770.
+[19:16:54	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:16:54	]S10/OWS.GHOST-54 has gained a 'Buckshot Shotgun Shells' #3306771.
+[19:16:55	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:16:55	]S10/OWS.GHOST-54 has gained a 'Buckshot Shotgun Shells' #3306772.
+[19:16:56	]S10/OWS.GHOST-54 ran 'combine' on item '12rnd SG-1 Magazine' (#3306766)
+[19:16:57	]S10/OWS.GHOST-54 ran 'combine' on item '12rnd SG-1 Magazine' (#3306765)
+[19:17:00	]S10/OWS.GHOST-54 ran 'combine' on item '12rnd SG-1 Magazine' (#3306763)
+[19:17:01	]S10/OWS.GHOST-54 ran 'combine' on item '12rnd SG-1 Magazine' (#3306764)
+[19:17:02	]S10/OWS.GHOST-54 ran 'combine' on item '12rnd SG-1 Magazine' (#3306761)
+[19:17:03	]S10/OWS.GHOST-54 ran 'combine' on item '12rnd SG-1 Magazine' (#3306762)
+[19:17:04	]S10/OWS.GHOST-54 ran 'combine' on item 'Ammunition Pouch' (#3306751)
+[19:17:05	]S10/OWS.GHOST-54 ran 'combine' on item 'Ammunition Pouch' (#3306751)
+[19:17:05	]S10/OWS.GHOST-54 ran 'combine' on item 'Ammunition Pouch' (#3306751)
+[19:17:05	]S10/OWS.GHOST-54 has lost a '12rnd SG-1 Magazine' #3306766.
+[19:17:06	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[19:17:18	]S10/OWS.GHOST-54 has gained a '12rnd SG-1 Magazine' #3306766.
+[19:17:18	]S10/OWS.GHOST-54 has lost a '12rnd SG-1 Magazine' #3306765.
+[19:17:19	]S10/OWS.GHOST-54 used the 'WALLHAMMER' vendor.
+[19:17:26	]S10/OWS.GHOST-54 ran 'combine' on item '12rnd SG-1 Magazine' (#3306766)
+[19:17:26	]S10/OWS.GHOST-54 used the 'WALLHAMMER' vendor.
+[19:17:28	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:17:28	]S10/OWS.GHOST-54 has gained a 'Buckshot Shotgun Shells' #3306773.
+[19:17:28	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:17:28	]S10/OWS.GHOST-54 has gained a 'Buckshot Shotgun Shells' #3306774.
+[19:17:30	]S10/OWS.GHOST-54 ran 'combine' on item 'Ammunition Pouch' (#3306751)
+[19:17:31	]S10/OWS.GHOST-54 ran 'combine' on item 'Ammunition Pouch' (#3306751)
+[19:17:31	]S10/OWS.GHOST-54 used the 'WALLHAMMER' vendor.
+[19:17:41	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:17:41	]S10/OWS.GHOST-54 has gained a 'Zip Tie' #3306775.
+[19:17:41	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:17:41	]S10/OWS.GHOST-54 has gained a 'Zip Tie' #3306776.
+[19:17:44	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:17:44	]S10/OWS.GHOST-54 has gained a 'Medical Pouch' #3306777.
+[19:17:47	]S10/OWS.GHOST-54 ran 'combine' on item 'Medical Pouch' (#3306777)
+[19:17:48	]S10/OWS.GHOST-54 ran 'combine' on item 'Medical Pouch' (#3306777)
+[19:17:49	]S10/OWS.GHOST-54 ran 'combine' on item 'Medical Pouch' (#3306777)
+[19:17:49	]S10/OWS.GHOST-54 ran 'combine' on item 'Medical Pouch' (#3306777)
+[19:17:50	]S10/OWS.GHOST-54 used the 'WALLHAMMER' vendor.
+[19:17:52	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:17:52	]S10/OWS.GHOST-54 has gained a 'Health Vial' #3306778.
+[19:17:52	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:17:52	]S10/OWS.GHOST-54 has gained a 'Health Vial' #3306779.
+[19:17:54	]S10/OWS.GHOST-54 ran 'combine' on item 'Medical Pouch' (#3306777)
+[19:17:56	]S10/OWS.GHOST-54 ran 'combine' on item 'Medical Pouch' (#3306777)
+[19:17:57	]S10/OWS.GHOST-54 used the 'WALLHAMMER' vendor.
+[19:17:59	]S10/OWS.GHOST-54 used the 'WALLHAMMER' vendor.
+[19:18:02	]S10/OWS.GHOST-54 used the 'SUPPRESSOR' vendor.
+[19:18:06	]S10/OWS.GHOST-54 used the 'GRUNTS' vendor.
+[19:18:11	]S10/OWS.GHOST-54 used the 'ORDINAL' vendor.
+[19:18:18	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:18:18	]S10/OWS.GHOST-54 has gained a 'Health Kit' #3306780.
+[19:18:20	]S10/OWS.GHOST-54 ran 'combine' on item 'Medical Pouch' (#3306777)
+[19:18:33	]S10/OWS.GHOST-54 used the 'OTA Vendor' vendor.
+[19:18:40	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:18:40	]S10/OWS.GHOST-54 has gained a 'Manhack' #3306781.
+[19:18:42	]S10/OWS.GHOST-54 ran 'Deploy' on item 'Manhack' (#3306781)
+[19:18:42	]S10/OWS.GHOST-54 has taken 4 damage from npc_manhack.
+[19:18:44	]S10/OWS.GHOST-54 is fully healed.
+[19:18:46	]S10/OWS.GHOST-54 has critically hit npc_manhack dealing 12 damage (CritChance was 0.60).
+[19:18:46	]S10/OWS.GHOST-54 has hit npc_manhack dealing 9 damage (CritChance was 0.60).
+[19:18:46	]S10/OWS.GHOST-54 has hit npc_manhack dealing 9 damage (CritChance was 0.60).
+[19:18:49	]S10/OWS.GHOST-54 used the 'OTA Vendor' vendor.
+[19:18:52	]S10/OWS.GHOST-54 has gained 0 chips.
+[19:18:52	]S10/OWS.GHOST-54 has gained a 'Manhack' #3306782.
+[19:19:07	]S10/OWS.GHOST-54 has gained a '12rnd SG-1 Magazine' #3306765.
+[19:19:07	]S10/OWS.GHOST-54 has lost a '12rnd SG-1 Magazine' #3306766.
+[19:19:13	]S10/OWS.GHOST-54 ran 'combine' on item '12rnd SG-1 Magazine' (#3306765)
+[19:19:46	]S10/OWS.GHOST-54 has fired a toolgun with the name: creator
+[19:19:46	]S10/OWS.GHOST-54 has spawned a 'NPC [5419][npc_vj_ez2_gonome]'.
+[19:19:58	]S10/OWS.GHOST-54 has fired a toolgun with the name: creator
+[19:19:58	]S10/OWS.GHOST-54 has spawned a 'NPC [5419][npc_vj_ez2_gonome]'.
+[19:20:04	]S10/OWS.GHOST-54 has spawned a 'NPC [5419][npc_vj_ez2_gonome_classic_fem]'.
+[19:20:06	]S10/OWS.GHOST-54 has fired a toolgun with the name: creator
+[19:20:06	]S10/OWS.GHOST-54 has spawned a 'NPC [5430][npc_vj_ez2_gonome]'.
+[19:20:10	]S10/OWS.GHOST-54 has spawned a 'NPC [5419][npc_vj_hale_life_gonome_overcharged]'.
+[19:20:14	]S10/OWS.GHOST-54 has spawned a 'NPC [5419][npc_vj_ez2_gonome]'.
+[19:20:22	]S10/OWS.GHOST-54 has spawned a 'NPC [5430][npc_vj_crabsynth2_z]'.
+[19:20:57	]S10/OWS.GHOST-54 has used a context menu option with the name: vj_pr_npc_control
+[19:21:00	]S10/OWS.GHOST-54 entered observer.
+[19:21:07	]S10/OWS.GHOST-54 has used a context menu option with the name: vj_pr_npc_gib
+[19:21:13	]S10/OWS.GHOST-54 has spawned a 'NPC [5419][npc_vj_ez2_gonome]'.
+[19:21:15	]S10/OWS.GHOST-54 exited observer.
+[19:21:16	]S10/OWS.GHOST-54 entered observer.
+[19:21:20	]S10/OWS.GHOST-54 exited observer.
+[19:21:32	][IC] S10/OWS.GHOST-54: <:: Deploying and scanning. ::>
+[19:21:38	][IC] S10/OWS.GHOST-54: <:: **Screaming**. ::>
+[19:21:46	][IC] S10/OWS.GHOST-54: <:: Ugh! Red leak on bodypack... Assist... Assist, gah, ugh! ::>
+[19:21:46	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[19:21:47	]S10/OWS.GHOST-54 has gained a '12rnd SG-1 Magazine' #3306766.
+[19:21:47	]S10/OWS.GHOST-54 has lost a '12rnd SG-1 Magazine' #3306765.
+[19:21:54	][IC] S10/OWS.GHOST-54: <:: Assist, assist, assist! ::>
+[19:21:55	][IC] S10/OWS.GHOST-54: <:: Screaming. ::>
+[19:21:57	][IC] S10/OWS.GHOST-54: <:: Screaming1. ::>
+[19:21:59	][IC] S10/OWS.GHOST-54: <:: **Screaming**. ::>
+[19:22:01	][IC] S10/OWS.GHOST-54: <:: SCREAM£. ::>
+[19:22:04	][IC] S10/OWS.GHOST-54: <:: **Screaming**. ::>
+[19:22:06	][IC] S10/OWS.GHOST-54: <:: **Screaming**. ::>
+[19:22:09	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the stomach dealing 11 damage (CritChance was 0.48).
+[19:22:09	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the stomach dealing 12 damage (CritChance was 0.48).
+[19:22:09	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left leg dealing 7 damage (CritChance was 0.36).
+[19:22:09	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the stomach dealing 11 damage (CritChance was 0.48).
+[19:22:10	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left leg dealing 7 damage (CritChance was 0.36).
+[19:22:10	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the stomach dealing 11 damage (CritChance was 0.48).
+[19:22:10	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:10	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:22:10	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:22:10	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the right leg dealing 7 damage (CritChance was 0.36).
+[19:22:11	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:11	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:22:11	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:11	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the left arm dealing 9 damage (CritChance was 0.36).
+[19:22:11	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the stomach dealing 11 damage (CritChance was 0.48).
+[19:22:12	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:22:12	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:12	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:22:12	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:14	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:14	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:15	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the left leg dealing 9 damage (CritChance was 0.36).
+[19:22:15	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the right arm dealing 7 damage (CritChance was 0.36).
+[19:22:15	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:15	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left leg dealing 7 damage (CritChance was 0.36).
+[19:22:16	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the head dealing 13 damage (CritChance was 0.12).
+[19:22:16	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the left arm dealing 9 damage (CritChance was 0.36).
+[19:22:16	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:16	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:22:16	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:17	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:17	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:17	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:17	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:17	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:18	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the stomach dealing 12 damage (CritChance was 0.48).
+[19:22:18	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:18	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:18	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:18	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:22:18	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:18	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:18	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:22:19	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:19	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the stomach dealing 12 damage (CritChance was 0.48).
+[19:22:19	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:19	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the stomach dealing 12 damage (CritChance was 0.48).
+[19:22:19	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:19	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the left arm dealing 9 damage (CritChance was 0.36).
+[19:22:19	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:20	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:20	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:20	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:20	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:20	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:20	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:20	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the stomach dealing 12 damage (CritChance was 0.48).
+[19:22:21	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:21	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:21	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:21	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:21	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:21	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:21	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:22	]S10/OWS.GHOST-54 has gained a '12rnd SG-1 Magazine' #3306765.
+[19:22:22	]S10/OWS.GHOST-54 has lost a '12rnd SG-1 Magazine' #3306766.
+[19:22:32	]S10/OWS.GHOST-54 has spawned a 'NPC [5419][npc_vj_ez2_gonome]'.
+[19:22:33	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:22:33	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:33	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left leg dealing 7 damage (CritChance was 0.36).
+[19:22:33	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the left arm dealing 9 damage (CritChance was 0.36).
+[19:22:33	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:33	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the left arm dealing 9 damage (CritChance was 0.36).
+[19:22:34	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:22:34	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:34	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:34	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the left arm dealing 9 damage (CritChance was 0.36).
+[19:22:36	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:36	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the stomach dealing 11 damage (CritChance was 0.48).
+[19:22:36	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the stomach dealing 12 damage (CritChance was 0.48).
+[19:22:36	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the stomach dealing 12 damage (CritChance was 0.48).
+[19:22:36	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:37	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:22:37	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the left arm dealing 9 damage (CritChance was 0.36).
+[19:22:37	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:22:37	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the left arm dealing 9 damage (CritChance was 0.36).
+[19:22:37	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the left arm dealing 9 damage (CritChance was 0.36).
+[19:22:38	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:38	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the left arm dealing 9 damage (CritChance was 0.36).
+[19:22:38	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the right arm dealing 9 damage (CritChance was 0.36).
+[19:22:38	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:38	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:38	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:38	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:41	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:41	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:42	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:42	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:42	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:42	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:42	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:42	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:42	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:42	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:42	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:42	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:42	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the stomach dealing 12 damage (CritChance was 0.48).
+[19:22:42	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:42	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:42	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the right arm dealing 9 damage (CritChance was 0.36).
+[19:22:42	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:42	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:42	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:42	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:42	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:43	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:43	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:43	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:22:43	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the stomach dealing 11 damage (CritChance was 0.48).
+[19:22:43	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:22:44	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:44	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:44	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:44	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:44	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:22:46	]S10/OWS.GHOST-54 has spawned a 'NPC [5419][npc_vj_ez2_glownome_fem]'.
+[19:22:46	]S10/OWS.GHOST-54 has gained a '12rnd SG-1 Magazine' #3306766.
+[19:22:46	]S10/OWS.GHOST-54 has lost a '12rnd SG-1 Magazine' #3306764.
+[19:22:49	]S10/OWS.GHOST-54 has taken 10 damage from obj_vj_gonome_spit.
+[19:22:50	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the right arm dealing 7 damage (CritChance was 0.36).
+[19:22:50	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:50	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:50	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_glownome_fem in the right leg dealing 9 damage (CritChance was 0.36).
+[19:22:50	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_glownome_fem in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:50	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_glownome_fem in the right arm dealing 9 damage (CritChance was 0.36).
+[19:22:50	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the right arm dealing 7 damage (CritChance was 0.36).
+[19:22:53	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the left arm dealing 7 damage (CritChance was 0.36).
+[19:22:53	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_glownome_fem in the head dealing 13 damage (CritChance was 0.12).
+[19:22:53	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the right arm dealing 7 damage (CritChance was 0.36).
+[19:22:53	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the right arm dealing 7 damage (CritChance was 0.36).
+[19:22:53	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the right arm dealing 7 damage (CritChance was 0.36).
+[19:22:53	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_glownome_fem in the stomach dealing 12 damage (CritChance was 0.48).
+[19:22:54	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:54	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the head dealing 11 damage (CritChance was 0.12).
+[19:22:54	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the left arm dealing 7 damage (CritChance was 0.36).
+[19:22:54	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the head dealing 11 damage (CritChance was 0.12).
+[19:22:54	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:54	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the head dealing 11 damage (CritChance was 0.12).
+[19:22:54	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the head dealing 11 damage (CritChance was 0.12).
+[19:22:55	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the head dealing 11 damage (CritChance was 0.12).
+[19:22:56	]S10/OWS.GHOST-54 has taken 10 damage from obj_vj_gonome_spit.
+[19:22:56	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the head dealing 11 damage (CritChance was 0.12).
+[19:22:56	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_glownome_fem in the right arm dealing 9 damage (CritChance was 0.36).
+[19:22:56	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the right arm dealing 7 damage (CritChance was 0.36).
+[19:22:56	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_glownome_fem in the right arm dealing 9 damage (CritChance was 0.36).
+[19:22:57	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_glownome_fem in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:57	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the head dealing 11 damage (CritChance was 0.12).
+[19:22:57	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_glownome_fem in the head dealing 13 damage (CritChance was 0.12).
+[19:22:57	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_glownome_fem in the left arm dealing 9 damage (CritChance was 0.36).
+[19:22:57	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the head dealing 11 damage (CritChance was 0.12).
+[19:22:57	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the left arm dealing 7 damage (CritChance was 0.36).
+[19:22:57	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the head dealing 11 damage (CritChance was 0.12).
+[19:22:57	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the left arm dealing 7 damage (CritChance was 0.36).
+[19:22:57	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the head dealing 11 damage (CritChance was 0.12).
+[19:22:58	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_glownome_fem in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:58	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:58	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:58	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_glownome_fem in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:58	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:58	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:58	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:58	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_glownome_fem in the chest dealing 12 damage (CritChance was 0.36).
+[19:22:59	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_glownome_fem in the left arm dealing 9 damage (CritChance was 0.36).
+[19:22:59	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the head dealing 11 damage (CritChance was 0.12).
+[19:22:59	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the head dealing 11 damage (CritChance was 0.12).
+[19:22:59	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the left arm dealing 7 damage (CritChance was 0.36).
+[19:22:59	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the chest dealing 11 damage (CritChance was 0.36).
+[19:22:59	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_glownome_fem in the head dealing 13 damage (CritChance was 0.12).
+[19:22:59	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the head dealing 11 damage (CritChance was 0.12).
+[19:22:59	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the head dealing 11 damage (CritChance was 0.12).
+[19:23:00	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_glownome_fem in the head dealing 13 damage (CritChance was 0.12).
+[19:23:00	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the head dealing 11 damage (CritChance was 0.12).
+[19:23:00	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the head dealing 11 damage (CritChance was 0.12).
+[19:23:00	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the head dealing 11 damage (CritChance was 0.12).
+[19:23:00	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_glownome_fem in the head dealing 13 damage (CritChance was 0.12).
+[19:23:00	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the head dealing 11 damage (CritChance was 0.12).
+[19:23:00	]S10/OWS.GHOST-54 has hit npc_vj_ez2_glownome_fem in the head dealing 11 damage (CritChance was 0.12).
+[19:23:02	]S10/OWS.GHOST-54 has spawned a 'NPC [5419][npc_vj_ez2_gonome]'.
+[19:23:04	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the right arm dealing 9 damage (CritChance was 0.36).
+[19:23:04	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:23:04	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:23:04	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the right arm dealing 7 damage (CritChance was 0.36).
+[19:23:04	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:23:04	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:23:04	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:23:04	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:23:05	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:23:05	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:23:05	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:23:05	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:23:05	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:23:05	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:23:05	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:23:05	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:23:05	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:23:06	]S10/OWS.GHOST-54 has gained a '12rnd SG-1 Magazine' #3306764.
+[19:23:06	]S10/OWS.GHOST-54 has lost a '12rnd SG-1 Magazine' #3306763.
+[19:23:19	]S10/OWS.GHOST-54 entered observer.
+[19:23:23	]S10/OWS.GHOST-54 exited observer.
+[19:23:24	]S10/OWS.GHOST-54 has taken 4 damage from Entropy Zero 2 Gonome.
+[19:23:28	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the right leg dealing 7 damage (CritChance was 0.36).
+[19:23:28	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the stomach dealing 12 damage (CritChance was 0.48).
+[19:23:28	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:23:28	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the stomach dealing 12 damage (CritChance was 0.48).
+[19:23:28	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:23:28	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:23:31	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:23:31	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:23:31	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:23:31	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:23:34	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:23:34	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:23:34	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:23:34	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:23:34	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the left arm dealing 9 damage (CritChance was 0.36).
+[19:23:34	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:23:34	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:23:34	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the right arm dealing 7 damage (CritChance was 0.36).
+[19:23:34	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the right arm dealing 9 damage (CritChance was 0.36).
+[19:23:34	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the right arm dealing 9 damage (CritChance was 0.36).
+[19:23:34	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the right arm dealing 7 damage (CritChance was 0.36).
+[19:23:34	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the right arm dealing 7 damage (CritChance was 0.36).
+[19:23:35	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the right arm dealing 9 damage (CritChance was 0.36).
+[19:23:35	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the right arm dealing 7 damage (CritChance was 0.36).
+[19:23:35	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the right arm dealing 9 damage (CritChance was 0.36).
+[19:23:36	]S10/OWS.GHOST-54 has taken 14 damage from Entropy Zero 2 Gonome.
+[19:23:36	]S10/OWS.GHOST-54 has taken 35 damage from Entropy Zero 2 Gonome.
+[19:23:41	]S10/OWS.GHOST-54 used command '/ToggleRaise'.
+[19:23:43	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the left arm dealing 9 damage (CritChance was 0.36).
+[19:23:43	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:23:43	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:23:43	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:23:43	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:23:43	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:23:43	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:23:44	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the left arm dealing 9 damage (CritChance was 0.36).
+[19:23:44	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:23:44	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:23:44	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:23:44	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the chest dealing 11 damage (CritChance was 0.36).
+[19:23:44	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:23:44	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the left arm dealing 9 damage (CritChance was 0.36).
+[19:23:44	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the left arm dealing 7 damage (CritChance was 0.36).
+[19:23:45	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the chest dealing 12 damage (CritChance was 0.36).
+[19:23:45	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the right arm dealing 9 damage (CritChance was 0.36).
+[19:23:45	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the right arm dealing 7 damage (CritChance was 0.36).
+[19:23:45	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the right arm dealing 9 damage (CritChance was 0.36).
+[19:23:45	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the right arm dealing 9 damage (CritChance was 0.36).
+[19:23:45	]S10/OWS.GHOST-54 has critically hit npc_vj_ez2_gonome in the right arm dealing 9 damage (CritChance was 0.36).
+[19:23:45	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the right arm dealing 7 damage (CritChance was 0.36).
+[19:23:45	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the right arm dealing 7 damage (CritChance was 0.36).
+[19:23:46	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:23:46	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:23:46	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:23:46	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:23:46	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:23:46	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:23:46	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:23:46	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:23:47	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:23:47	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:23:47	]S10/OWS.GHOST-54 has hit npc_vj_ez2_gonome in the head dealing 11 damage (CritChance was 0.12).
+[19:23:49	]S10/OWS.GHOST-54 has gained a '12rnd SG-1 Magazine' #3306763.
+[19:23:49	]S10/OWS.GHOST-54 has lost a '12rnd SG-1 Magazine' #3306762.
+[19:24:01	][IC] S10/OWS.GHOST-54: <:: Holy shi-! ::>
+[19:24:12	][IC] S10/OWS.GHOST-54: <:: You can come out now! ::>
+[19:24:17	][IC] S10/OWS.GHOST-54: <:: We can help you, it is safe! ::>
+[19:24:28	][IC] S10/OWS.GHOST-54: <:: Don't resist. ::>
+[19:24:44	][IC] S10/OWS.GHOST-54: <:: Copy, accepted. Updating cognitive suppression biodats. Update complete in T-Minus three seconds. Dissonance resolved. ::>
+[19:25:00	][IC] S10/OWS.GHOST-54: <:: Copy, do not shoot. Compliance confirmed. ::>
+[19:25:05	]S10/OWS.GHOST-54 has spawned a 'NPC [5419][npc_vj_hale_life_gonome_smod]'.
+[19:25:06	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:06	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the head dealing 11 damage (CritChance was 0.12).
+[19:25:06	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:06	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:06	]S10/OWS.GHOST-54 has critically hit npc_vj_hale_life_gonome_smod in the chest dealing 12 damage (CritChance was 0.36).
+[19:25:06	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:06	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:06	]S10/OWS.GHOST-54 has critically hit npc_vj_hale_life_gonome_smod in the right arm dealing 9 damage (CritChance was 0.36).
+[19:25:06	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:06	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:06	]S10/OWS.GHOST-54 has critically hit npc_vj_hale_life_gonome_smod in the chest dealing 12 damage (CritChance was 0.36).
+[19:25:06	]S10/OWS.GHOST-54 has critically hit npc_vj_hale_life_gonome_smod in the chest dealing 12 damage (CritChance was 0.36).
+[19:25:06	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the head dealing 11 damage (CritChance was 0.12).
+[19:25:06	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:06	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:06	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:07	]S10/OWS.GHOST-54 has critically hit npc_vj_hale_life_gonome_smod in the chest dealing 12 damage (CritChance was 0.36).
+[19:25:07	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the head dealing 11 damage (CritChance was 0.12).
+[19:25:07	]S10/OWS.GHOST-54 has critically hit npc_vj_hale_life_gonome_smod in the head dealing 13 damage (CritChance was 0.12).
+[19:25:07	]S10/OWS.GHOST-54 has critically hit npc_vj_hale_life_gonome_smod in the chest dealing 12 damage (CritChance was 0.36).
+[19:25:07	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:07	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the head dealing 11 damage (CritChance was 0.12).
+[19:25:07	]S10/OWS.GHOST-54 has critically hit npc_vj_hale_life_gonome_smod in the chest dealing 12 damage (CritChance was 0.36).
+[19:25:07	]S10/OWS.GHOST-54 has critically hit npc_vj_hale_life_gonome_smod in the chest dealing 12 damage (CritChance was 0.36).
+[19:25:08	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:08	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:08	]S10/OWS.GHOST-54 has critically hit npc_vj_hale_life_gonome_smod in the chest dealing 12 damage (CritChance was 0.36).
+[19:25:08	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:08	]S10/OWS.GHOST-54 has critically hit npc_vj_hale_life_gonome_smod in the chest dealing 12 damage (CritChance was 0.36).
+[19:25:08	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:08	]S10/OWS.GHOST-54 has critically hit npc_vj_hale_life_gonome_smod in the chest dealing 12 damage (CritChance was 0.36).
+[19:25:08	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:08	]S10/OWS.GHOST-54 has taken 25 damage from Smod Gonome.
+[19:25:09	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the head dealing 11 damage (CritChance was 0.12).
+[19:25:09	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:09	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the head dealing 11 damage (CritChance was 0.12).
+[19:25:09	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the head dealing 11 damage (CritChance was 0.12).
+[19:25:09	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the head dealing 11 damage (CritChance was 0.12).
+[19:25:09	]S10/OWS.GHOST-54 has critically hit npc_vj_hale_life_gonome_smod in the chest dealing 12 damage (CritChance was 0.36).
+[19:25:09	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:09	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:09	]S10/OWS.GHOST-54 has hit npc_vj_hale_life_gonome_smod in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:11	]S10/OWS.GHOST-54 has gained a '12rnd SG-1 Magazine' #3306762.
+[19:25:11	]S10/OWS.GHOST-54 has lost a '12rnd SG-1 Magazine' #3306761.
+[19:25:13	][IC] S10/OWS.GHOST-54: <:: Screaming. ::>
+[19:25:14	][IC] S10/OWS.GHOST-54: <:: **Screaming**. ::>
+[19:25:16	][IC] S10/OWS.GHOST-54: <:: **Screaming**. ::>
+[19:25:17	][IC] S10/OWS.GHOST-54: <:: **Screaming**. ::>
+[19:25:18	][IC] S10/OWS.GHOST-54: <:: Scream5. ::>
+[19:25:19	][IC] S10/OWS.GHOST-54: <:: Assist, assist, assist! ::>
+[19:25:20	][IC] S10/OWS.GHOST-54: <:: Assist, assist, assist! ::>
+[19:25:21	][IC] S10/OWS.GHOST-54: <:: Scream5. ::>
+[19:25:23	][IC] S10/OWS.GHOST-54: <:: **Screaming**. ::>
+[19:25:24	][IC] S10/OWS.GHOST-54: <:: **Screaming**. ::>
+[19:25:25	][IC] S10/OWS.GHOST-54: <:: Scraem2. ::>
+[19:25:31	][IC] S10/OWS.GHOST-54: <:: **Screaming** scream1;  **screaming** **screaming** scream5. ::>
+[19:25:39	][IC] S10/OWS.GHOST-54: <:: **Screaming** **screaming** **screaming** **screaming**. ::>
+[19:25:46	]S10/OWS.GHOST-54 has spawned a 'NPC [5419][npc_vj_civil_protection_elite_z]'.
+[19:25:48	]S10/OWS.GHOST-54 has taken 6 damage from Civil Protection Elite.
+[19:25:48	]S10/OWS.GHOST-54 has taken 6 damage from Civil Protection Elite.
+[19:25:49	]S10/OWS.GHOST-54 has taken 6 damage from Civil Protection Elite.
+[19:25:49	]S10/OWS.GHOST-54 has taken 6 damage from Civil Protection Elite.
+[19:25:49	]S10/OWS.GHOST-54 has hit npc_vj_civil_protection_elite_z in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:49	]S10/OWS.GHOST-54 has hit npc_vj_civil_protection_elite_z in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:49	]S10/OWS.GHOST-54 has hit npc_vj_civil_protection_elite_z in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:49	]S10/OWS.GHOST-54 has hit npc_vj_civil_protection_elite_z in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:49	]S10/OWS.GHOST-54 has hit npc_vj_civil_protection_elite_z in the left arm dealing 7 damage (CritChance was 0.36).
+[19:25:49	]S10/OWS.GHOST-54 has critically hit npc_vj_civil_protection_elite_z in the left arm dealing 9 damage (CritChance was 0.36).
+[19:25:49	]S10/OWS.GHOST-54 has hit npc_vj_civil_protection_elite_z in the chest dealing 11 damage (CritChance was 0.36).
+[19:25:50	]S10/OWS.GHOST-54 has critically hit npc_vj_civil_protection_elite_z in the chest dealing 12 damage (CritChance was 0.36).
+[19:25:51	]S10/OWS.GHOST-54 has hit npc_manhack dealing 9 damage (CritChance was 0.60).
+[19:25:51	]S10/OWS.GHOST-54 has critically hit npc_manhack dealing 12 damage (CritChance was 0.60).
+[19:25:51	]S10/OWS.GHOST-54 has hit npc_manhack dealing 9 damage (CritChance was 0.60).
+[19:25:53	]S10/OWS.GHOST-54 has spawned a 'NPC [5419][npc_vj_cremator_synth_z]'.
+[19:25:54	]S10/OWS.GHOST-54 has critically hit npc_vj_cremator_synth_z dealing 12 damage (CritChance was 0.60).
+[19:25:54	]S10/OWS.GHOST-54 has critically hit npc_vj_cremator_synth_z dealing 12 damage (CritChance was 0.60).
+[19:25:54	]S10/OWS.GHOST-54 has critically hit npc_vj_cremator_synth_z dealing 12 damage (CritChance was 0.60).
+[19:25:54	]S10/OWS.GHOST-54 has critically hit npc_vj_cremator_synth_z dealing 12 damage (CritChance was 0.60).
+[19:25:54	]S10/OWS.GHOST-54 has hit npc_vj_cremator_synth_z dealing 9 damage (CritChance was 0.60).
+[19:25:54	]S10/OWS.GHOST-54 has critically hit npc_vj_cremator_synth_z dealing 12 damage (CritChance was 0.60).
+[19:25:54	]S10/OWS.GHOST-54 has critically hit npc_vj_cremator_synth_z dealing 12 damage (CritChance was 0.60).
+[19:25:54	]S10/OWS.GHOST-54 has hit npc_vj_cremator_synth_z dealing 9 damage (CritChance was 0.60).
+[19:25:55	]S10/OWS.GHOST-54 has taken 4 damage from Cremator Synth.
+[19:25:55	]S10/OWS.GHOST-54 has critically hit npc_vj_cremator_synth_z dealing 12 damage (CritChance was 0.60).
+[19:25:55	]S10/OWS.GHOST-54 has hit npc_vj_cremator_synth_z dealing 9 damage (CritChance was 0.60).
+[19:25:55	]S10/OWS.GHOST-54 has critically hit npc_vj_cremator_synth_z dealing 12 damage (CritChance was 0.60).
+[19:25:55	]S10/OWS.GHOST-54 has critically hit npc_vj_cremator_synth_z dealing 12 damage (CritChance was 0.60).
+[19:25:55	]S10/OWS.GHOST-54 has critically hit npc_vj_cremator_synth_z dealing 12 damage (CritChance was 0.60).
+[19:25:55	]S10/OWS.GHOST-54 has hit npc_vj_cremator_synth_z dealing 9 damage (CritChance was 0.60).
+[19:25:55	]S10/OWS.GHOST-54 has critically hit npc_vj_cremator_synth_z dealing 12 damage (CritChance was 0.60).
+[19:25:55	]S10/OWS.GHOST-54 has critically hit npc_vj_cremator_synth_z dealing 12 damage (CritChance was 0.60).
+[19:25:55	]S10/OWS.GHOST-54 has taken 4 damage from Cremator Synth.
+[19:25:55	]S10/OWS.GHOST-54 has taken 4 damage from Cremator Synth.
+[19:25:55	]S10/OWS.GHOST-54 has taken 4 damage from Cremator Synth.
+[19:25:55	]S10/OWS.GHOST-54 has taken 4 damage from Cremator Synth.
+[19:25:55	]S10/OWS.GHOST-54 has taken 4 damage from Cremator Synth.
+[19:25:55	]S10/OWS.GHOST-54 has taken 4 damage from Cremator Synth.
+[19:25:55	]S10/OWS.GHOST-54 has critically hit npc_vj_cremator_synth_z dealing 12 damage (CritChance was 0.60).
+[19:25:55	]S10/OWS.GHOST-54 has hit npc_vj_cremator_synth_z dealing 9 damage (CritChance was 0.60).
+[19:25:55	]S10/OWS.GHOST-54 has hit npc_vj_cremator_synth_z dealing 9 damage (CritChance was 0.60).
+[19:25:55	]S10/OWS.GHOST-54 has critically hit npc_vj_cremator_synth_z dealing 12 damage (CritChance was 0.60).
+[19:25:55	]S10/OWS.GHOST-54 has hit npc_vj_cremator_synth_z dealing 9 damage (CritChance was 0.60).
+[19:25:55	]S10/OWS.GHOST-54 has hit npc_vj_cremator_synth_z dealing 9 damage (CritChance was 0.60).
+[19:25:55	]S10/OWS.GHOST-54 has hit npc_vj_cremator_synth_z dealing 9 damage (CritChance was 0.60).
+[19:25:55	]S10/OWS.GHOST-54 has hit npc_vj_cremator_synth_z dealing 9 damage (CritChance was 0.60).
+[19:25:55	]S10/OWS.GHOST-54 has taken 4 damage from Cremator Synth.
+[19:25:56	]S10/OWS.GHOST-54 has taken 4 damage from Cremator Synth.
+[19:25:56	]S10/OWS.GHOST-54 has taken 4 damage from Cremator Synth.
+[19:25:56	]S10/OWS.GHOST-54 has taken 4 damage from Cremator Synth.
+[19:25:56	]S10/OWS.GHOST-54 has taken 4 damage from Cremator Synth.
+[19:25:56	]S10/OWS.GHOST-54 has critically hit npc_vj_cremator_synth_z dealing 12 damage (CritChance was 0.60).
+[19:25:56	]S10/OWS.GHOST-54 has critically hit npc_vj_cremator_synth_z dealing 12 damage (CritChance was 0.60).
+[19:25:56	]S10/OWS.GHOST-54 has critically hit npc_vj_cremator_synth_z dealing 12 damage (CritChance was 0.60).
+[19:25:56	]S10/OWS.GHOST-54 has critically hit npc_vj_cremator_synth_z dealing 12 damage (CritChance was 0.60).
+[19:25:56	]S10/OWS.GHOST-54 has hit npc_vj_cremator_synth_z dealing 9 damage (CritChance was 0.60).
+[19:25:56	]S10/OWS.GHOST-54 has critically hit npc_vj_cremator_synth_z dealing 12 damage (CritChance was 0.60).
+[19:25:56	]S10/OWS.GHOST-54 has hit npc_vj_cremator_synth_z dealing 9 damage (CritChance was 0.60).
+[19:25:56	]S10/OWS.GHOST-54 has critically hit npc_vj_cremator_synth_z dealing 12 damage (CritChance was 0.60).
+[19:25:56	]S10/OWS.GHOST-54 has taken 4 damage from Cremator Synth.
+[19:25:56	]S10/OWS.GHOST-54 has taken 1 damage from entityflame.
+[19:25:56	]S10/OWS.GHOST-54 has taken 4 damage from Cremator Synth.
+[19:25:56	]S10/OWS.GHOST-54 has taken 4 damage from Cremator Synth.
+[19:25:56	]S10/OWS.GHOST-54 has taken 1 damage from entityflame.
+[19:25:56	]S10/OWS.GHOST-54 has taken 4 damage from Cremator Synth.
+[19:25:57	]S10/OWS.GHOST-54 has taken 4 damage from Cremator Synth.
+[19:25:57	]S10/OWS.GHOST-54 has taken 1 damage from entityflame.
+[19:25:57	]S10/OWS.GHOST-54 has taken 1 damage from entityflame.
+[19:25:57	]S10/OWS.GHOST-54 has taken 1 damage from entityflame.
+[19:25:57	]S10/OWS.GHOST-54 has taken 1 damage from entityflame.
+[19:25:57	]S10/OWS.GHOST-54 has taken 1 damage from entityflame.
+[19:25:58	]S10/OWS.GHOST-54 has taken 1 damage from entityflame.
+[19:25:58	]S10/OWS.GHOST-54 has taken 1 damage from entityflame.
+[19:25:58	]S10/OWS.GHOST-54 has taken 1 damage from entityflame.
+[19:26:03	]S10/OWS.GHOST-54 has gained a '12rnd SG-1 Magazine' #3306761.
+[19:26:03	]S10/OWS.GHOST-54 has lost a '12rnd SG-1 Magazine' #3306762.
+[19:26:06	]S10/OWS.GHOST-54 ran 'Deploy' on item 'Manhack' (#3306782)
+[19:26:08	]S10/OWS.GHOST-54 has critically hit npc_manhack dealing 12 damage (CritChance was 0.60).
+[19:26:08	]S10/OWS.GHOST-54 has hit npc_manhack dealing 9 damage (CritChance was 0.60).
+[19:26:08	]S10/OWS.GHOST-54 has hit npc_manhack dealing 9 damage (CritChance was 0.60).
+[19:26:08	]S10/OWS.GHOST-54 has critically hit npc_manhack dealing 12 damage (CritChance was 0.60).
+[19:26:11	]S10/OWS.GHOST-54 has spawned a 'NPC [5419][npc_vj_overwatch_assassin_z]'.
+[19:26:13	]S10/OWS.GHOST-54 has taken 5 damage from Overwatch Assassin.
+[19:26:13	]S10/OWS.GHOST-54 has taken 5 damage from Overwatch Assassin.
+[19:26:13	]S10/OWS.GHOST-54 has hit npc_vj_overwatch_assassin_z dealing 9 damage (CritChance was 0.00).
+[19:26:13	]S10/OWS.GHOST-54 has hit npc_vj_overwatch_assassin_z dealing 9 damage (CritChance was 0.00).
+[19:26:13	]S10/OWS.GHOST-54 has hit npc_vj_overwatch_assassin_z dealing 9 damage (CritChance was 0.00).
+[19:26:13	]S10/OWS.GHOST-54 has hit npc_vj_overwatch_assassin_z dealing 9 damage (CritChance was 0.00).
+[19:26:13	]S10/OWS.GHOST-54 has taken 20 damage from Overwatch Assassin.
+[19:26:14	]S10/OWS.GHOST-54 has taken 20 damage from Overwatch Assassin.
+[19:26:15	]S10/OWS.GHOST-54 has taken 20 damage from Overwatch Assassin.
+[19:26:15	]S10/OWS.GHOST-54 has gained a '12rnd SG-1 Magazine' #3306762.
+[19:26:15	]S10/OWS.GHOST-54 has lost a '12rnd SG-1 Magazine' #3306761.
+[19:26:16	]S10/OWS.GHOST-54 has taken 5 damage from Overwatch Assassin.
+[19:26:17	]S10/OWS.GHOST-54 has taken 5 damage from Overwatch Assassin.
+[19:26:17	]S10/OWS.GHOST-54 has taken 5 damage from Overwatch Assassin.
+[19:26:17	]S10/OWS.GHOST-54 has taken 5 damage from Overwatch Assassin.
+[19:26:17	]S10/OWS.GHOST-54 has taken 5 damage from Overwatch Assassin.
+[19:26:17	]S10/OWS.GHOST-54 has taken 5 damage from Overwatch Assassin.
+[19:26:18	]S10/OWS.GHOST-54 has taken 5 damage from Overwatch Assassin.
+[19:26:18	]S10/OWS.GHOST-54 has taken 5 damage from Overwatch Assassin.
+[19:26:18	]S10/OWS.GHOST-54 has taken 5 damage from Overwatch Assassin.
+[19:26:18	]S10/OWS.GHOST-54 has taken 5 damage from Overwatch Assassin.
+[19:26:18	]S10/OWS.GHOST-54 has taken 5 damage from Overwatch Assassin.
+[19:26:19	]S10/OWS.GHOST-54 has taken 5 damage from Overwatch Assassin.
+[19:26:19	]S10/OWS.GHOST-54 has taken 5 damage from Overwatch Assassin.
+[19:26:19	]S10/OWS.GHOST-54 has hit npc_vj_overwatch_assassin_z dealing 9 damage (CritChance was 0.00).
+[19:26:19	]S10/OWS.GHOST-54 has hit npc_vj_overwatch_assassin_z dealing 9 damage (CritChance was 0.00).
+[19:26:19	]S10/OWS.GHOST-54 has taken 5 damage from Overwatch Assassin.
+[19:26:27	]Marco (STEAM_0:0:39958603) has disconnected.

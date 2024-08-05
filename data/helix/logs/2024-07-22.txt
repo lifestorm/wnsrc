@@ -1,0 +1,1188 @@
+[17:21:55	]Marco has connected.
+[17:35:35	]Marco loaded the character 'Marco Polo'
+[17:35:40	]Marco Polo is fully healed.
+[17:36:48	]Marco Polo ran 'drop' on item 'Blue Crystal Shard' (#3307354)
+[17:36:48	]Marco Polo has lost a 'Blue Crystal Shard' #3307354.
+[17:36:54	]Marco Polo ran 'drop' on item 'Blue Crystal Shard' (#3307352)
+[17:36:54	]Marco Polo has lost a 'Blue Crystal Shard' #3307352.
+[17:36:55	]Marco Polo ran 'take' on item 'Blue Crystal Shard' (#3307354)
+[17:36:55	]Marco Polo has gained a 'Blue Crystal Shard' #3307354.
+[17:36:57	]Marco Polo used command '/ToggleRaise'.
+[17:36:59	]Marco Polo destroyed a 'Blue Crystal Shard' #3307352.
+[17:37:00	]Marco Polo ran 'drop' on item 'Blue Crystal Shard' (#3307354)
+[17:37:00	]Marco Polo has lost a 'Blue Crystal Shard' #3307354.
+[17:37:01	]Marco Polo ran 'drop' on item 'Large Bomb' (#3307347)
+[17:37:01	]Marco Polo has lost a 'Large Bomb' #3307347.
+[17:37:03	]Marco Polo ran 'take' on item 'Large Bomb' (#3307347)
+[17:37:03	]Marco Polo has gained a 'Large Bomb' #3307347.
+[17:37:14	]Marco Polo ran 'drop' on item 'Large Bomb' (#3307347)
+[17:37:14	]Marco Polo has lost a 'Large Bomb' #3307347.
+[17:37:15	]Marco Polo ran 'drop' on item 'Medium Bomb' (#3307348)
+[17:37:15	]Marco Polo has lost a 'Medium Bomb' #3307348.
+[17:37:17	]Marco Polo destroyed a 'Large Bomb' #3307347.
+[17:37:19	]Marco Polo destroyed a 'Medium Bomb' #3307348.
+[17:37:20	]Marco Polo destroyed a 'Blue Crystal Shard' #3307354.
+[17:37:21	]Marco Polo ran 'drop' on item 'Blue Crystal Shard' (#3307353)
+[17:37:21	]Marco Polo has lost a 'Blue Crystal Shard' #3307353.
+[17:37:22	]Marco Polo ran 'drop' on item 'Blue Crystal Shard' (#3307355)
+[17:37:22	]Marco Polo has lost a 'Blue Crystal Shard' #3307355.
+[17:37:22	]Marco Polo destroyed a 'Blue Crystal Shard' #3307355.
+[17:37:23	]Marco Polo destroyed a 'Blue Crystal Shard' #3307353.
+[17:37:31	]Marco Polo ran 'Repair' on item 'Urban Autocrat - Armored' (#3307126)
+[17:37:38	]Marco Polo ran 'drop' on item 'M2014-S (FLIR)' (#3307328)
+[17:37:38	]Marco Polo has lost a 'M2014-S (FLIR)' #3307328.
+[17:38:02	]Marco Polo destroyed a 'M2014-S (FLIR)' #3307328.
+[17:38:03	]Marco Polo used command '/ToggleRaise'.
+[17:38:08	]Marco Polo used command '/ToggleRaise'.
+[17:38:26	]Marco Polo used command '/ToggleRaise'.
+[17:38:42	]Marco Polo has spawned a incendiary_grenade.
+[17:38:45	]Marco Polo ran 'take' on item 'Incendiary Grenade' (#3307357)
+[17:38:45	]Marco Polo has gained a 'Incendiary Grenade' #3307357.
+[17:38:47	]Marco Polo ran 'Equip' on item 'Incendiary Grenade' (#3307357)
+[17:38:48	]Marco Polo used command '/ToggleRaise'.
+[17:39:03	]Marco Polo has given himself a incendiary_grenade.
+[17:39:03	]Marco Polo has gained a 'Incendiary Grenade' #3307358.
+[17:39:09	]Marco Polo ran 'drop' on item 'Incendiary Grenade' (#3307358)
+[17:39:09	]Marco Polo has lost a 'Incendiary Grenade' #3307358.
+[17:39:10	]Marco Polo used command '/ToggleRaise'.
+[17:39:16	]Marco Polo destroyed a 'Incendiary Grenade' #3307358.
+[17:39:17	]Marco Polo used command '/ToggleRaise'.
+[17:40:11	]Marco Polo has spawned a rpg.
+[17:40:17	]Marco Polo has used a context menu option with the name: remove
+[17:45:35	]Marco Polo has gone afk.
+[17:45:40	]Marco Polo is no longer afk. Total time spent AFK: 300
+[17:50:40	]Marco Polo has gone afk.
+[17:51:55	]Marco Polo is no longer afk. Total time spent AFK: 370
+[17:52:10	]Marco Polo used command '/ToggleRaise'.
+[17:52:21	]Marco Polo destroyed a 'Artificial Whiskey' #3307013.
+[17:52:24	]Marco Polo used command '/ToggleRaise'.
+[17:52:37	]Marco Polo ran 'Repair' on item 'Urban Autocrat - Armored' (#3307126)
+[17:52:54	]Marco Polo used command '/ToggleRaise'.
+[17:53:02	]Marco Polo used command '/ToggleRaise'.
+[17:53:16	]Marco Polo used command '/ToggleRaise'.
+[17:53:29	]Marco Polo used command '/ToggleRaise'.
+[17:53:45	]Marco Polo used command '/ToggleRaise'.
+[17:54:00	]Marco Polo used command '/ToggleRaise'.
+[17:54:17	]Marco has unloaded their "Marco Polo" character.
+[17:54:21	]Marco loaded the character 'C8:i3.UNION-49'
+[17:54:21	]C8:i3.UNION-49 their 'civil protection stash' stash no longer exists, location reset.
+[17:54:26	]C8:i3.UNION-49 is fully healed.
+[17:55:49	]C8:i3.UNION-49 used command '/CharGiveFlag ^ PET'.
+[17:55:53	]C8:i3.UNION-49 used command '/CharGiveFlag ^ pet'.
+[17:55:57	]C8:i3.UNION-49 has spawned 'models/props_interiors/VendingMachineSoda01a.mdl'.
+[17:56:00	]C8:i3.UNION-49 created a stash (models/props_interiors/vendingmachinesoda01a.mdl).
+[17:56:00	]C8:i3.UNION-49 has used a context menu option with the name: ixcreatestash
+[17:56:02	]C8:i3.UNION-49 opened the 'Personal Stash 474' stash.
+[17:56:28	]C8:i3.UNION-49 closed the 'Personal Stash 474' stash.
+[17:58:57	]C8:i3.UNION-49 opened the 'Personal Stash 474' stash.
+[17:59:02	]C8:i3.UNION-49 closed the 'Personal Stash 474' stash.
+[18:00:24	]C8:i3.UNION-49 opened the 'Personal Stash 474' stash.
+[18:00:59	]C8:i3.UNION-49 closed the 'Personal Stash 474' stash.
+[18:01:35	]C8:i3.UNION-49 has spawned a civil_protection_ration.
+[18:01:36	]C8:i3.UNION-49 ran 'Open' on item 'Civil Protection Ration' (#3307360)
+[18:01:36	]C8:i3.UNION-49 has gained a 'Metropolice Supplements' #3307361.
+[18:01:36	]C8:i3.UNION-49 has gained a 'Soda Bob Brawn' #3307362.
+[18:01:36	]C8:i3.UNION-49 has gained a '20 Credits Coupon' #3307363.
+[18:01:37	]C8:i3.UNION-49 ran 'Consume' on item 'Soda Bob Brawn' (#3307362)
+[18:01:37	]C8:i3.UNION-49 extended their level 1 long boost in Perception.
+[18:01:37	]C8:i3.UNION-49 extended their level 2 long boost in Agility.
+[18:01:38	]C8:i3.UNION-49 ran 'Consume' on item 'Metropolice Supplements' (#3307361)
+[18:01:38	]C8:i3.UNION-49 extended their level 3 long boost in Strength.
+[18:01:38	]C8:i3.UNION-49 ran 'drop' on item '20 Credits Coupon' (#3307363)
+[18:01:38	]C8:i3.UNION-49 has lost a '20 Credits Coupon' #3307363.
+[18:01:39	]C8:i3.UNION-49 used command '/ToggleRaise'.
+[18:01:40	]C8:i3.UNION-49 destroyed a '20 Credits Coupon' #3307363.
+[18:01:40	]C8:i3.UNION-49 used command '/ToggleRaise'.
+[18:07:19	]C8:i3.UNION-49 has fired a toolgun with the name: duplicator
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x8.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x3.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x4.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel2x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x8.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel2x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x1.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x4.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x3.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x4.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x7.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x1.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x7.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x8.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x4.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x3.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate8x8.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x3.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x8.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x7.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x3.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x1.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x7.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x4.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x1.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x8.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x1.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel2x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x4.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x1.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel2x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x8.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x3.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x8.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x1.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x4.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x4.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x1.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x4.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x4.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x8.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate8x8.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x8.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate8x8.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x3.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x3.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:07:19	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:07:31	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:32	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:33	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:33	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:34	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:34	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:35	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:37	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:38	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:40	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:41	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:44	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:44	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:49	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:51	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:52	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:52	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:53	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:55	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:56	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:58	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:58	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:58	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:07:59	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:08:00	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:08:04	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:08:05	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:08:28	]C8:i3.UNION-49 exited observer.
+[18:08:28	]C8:i3.UNION-49 entered observer.
+[18:08:29	]C8:i3.UNION-49 exited observer.
+[18:08:34	]C8:i3.UNION-49 entered observer.
+[18:08:37	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:08:37	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:08:38	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:08:39	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:08:40	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:08:42	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:08:43	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:08:43	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:08:44	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:08:45	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:08:49	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:08:49	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:08:49	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:08:49	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:08:53	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:09:04	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:10:00	]C8:i3.UNION-49 has spawned a 'NPC [472][npc_vj_hlr2_rebel]'.
+[18:10:00	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:10:00	]C8:i3.UNION-49 has spawned a 'NPC [486][npc_vj_hlr2_rebel]'.
+[18:10:01	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:10:02	]C8:i3.UNION-49 has spawned a 'NPC [493][npc_vj_hlr2_rebel]'.
+[18:10:06	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:10:06	]C8:i3.UNION-49 has spawned a 'NPC [472][npc_vj_hlr2_rebel]'.
+[18:10:08	]C8:i3.UNION-49 has spawned a 'NPC [472][npc_vj_hlr2_rebel_engineer]'.
+[18:10:11	]C8:i3.UNION-49 has spawned a 'NPC [472][npc_vj_hlr2_refugee]'.
+[18:10:12	]C8:i3.UNION-49 has spawned a 'NPC [476][npc_vj_hlr2_refugee]'.
+[18:10:20	]C8:i3.UNION-49 has spawned a 'NPC [472][npc_vj_hlr2_rebel]'.
+[18:10:44	]C8:i3.UNION-49 has spawned a 'NPC [472][npc_vj_hlr2_com_sniper]'.
+[18:10:51	]C8:i3.UNION-49 has spawned a 'NPC [472][npc_citizen]'.
+[18:10:52	]C8:i3.UNION-49 has spawned a 'NPC [490][npc_citizen]'.
+[18:10:53	]C8:i3.UNION-49 has spawned a 'NPC [495][npc_citizen]'.
+[18:10:55	]C8:i3.UNION-49 has spawned a 'NPC [499][npc_citizen]'.
+[18:11:00	]C8:i3.UNION-49 has spawned a 'NPC [472][npc_citizen]'.
+[18:11:00	]C8:i3.UNION-49 has spawned a 'NPC [489][npc_citizen]'.
+[18:11:03	]C8:i3.UNION-49 has spawned a 'NPC [472][npc_citizen]'.
+[18:11:04	]C8:i3.UNION-49 has spawned a 'NPC [490][npc_citizen]'.
+[18:11:13	]C8:i3.UNION-49 has spawned a 'NPC [472][npc_vj_hlr2_com_engineer]'.
+[18:11:14	]C8:i3.UNION-49 has spawned a 'NPC [490][npc_vj_hlr2_com_engineer]'.
+[18:11:26	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:11:26	]C8:i3.UNION-49 has spawned a 'NPC [472][npc_citizen]'.
+[18:11:31	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:11:31	]C8:i3.UNION-49 has spawned a 'NPC [490][npc_citizen]'.
+[18:11:33	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:11:33	]C8:i3.UNION-49 has spawned a 'NPC [495][npc_citizen]'.
+[18:11:34	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:11:34	]C8:i3.UNION-49 has spawned a 'NPC [499][npc_citizen]'.
+[18:11:36	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:11:36	]C8:i3.UNION-49 has spawned a 'NPC [502][npc_citizen]'.
+[18:11:37	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:11:37	]C8:i3.UNION-49 has spawned a 'NPC [507][npc_citizen]'.
+[18:11:40	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:11:40	]C8:i3.UNION-49 has spawned a 'NPC [515][npc_citizen]'.
+[18:11:44	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:11:44	]C8:i3.UNION-49 has spawned a 'NPC [489][npc_citizen]'.
+[18:11:45	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:11:45	]C8:i3.UNION-49 has spawned a 'NPC [526][npc_citizen]'.
+[18:11:47	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:11:47	]C8:i3.UNION-49 has spawned a 'NPC [535][npc_citizen]'.
+[18:11:48	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:11:48	]C8:i3.UNION-49 has spawned a 'NPC [541][npc_citizen]'.
+[18:11:50	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:11:50	]C8:i3.UNION-49 has spawned a 'NPC [546][npc_citizen]'.
+[18:11:51	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:11:51	]C8:i3.UNION-49 has spawned a 'NPC [506][npc_citizen]'.
+[18:11:52	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:11:52	]C8:i3.UNION-49 has spawned a 'NPC [550][npc_citizen]'.
+[18:11:55	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:11:55	]C8:i3.UNION-49 has spawned a 'NPC [510][npc_citizen]'.
+[18:11:57	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:11:57	]C8:i3.UNION-49 has spawned a 'NPC [562][npc_citizen]'.
+[18:12:07	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:12:07	]C8:i3.UNION-49 has spawned a 'NPC [554][npc_citizen]'.
+[18:12:09	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:12:09	]C8:i3.UNION-49 has spawned a 'NPC [554][npc_citizen]'.
+[18:12:10	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:12:10	]C8:i3.UNION-49 has spawned a 'NPC [559][npc_citizen]'.
+[18:12:12	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:12:12	]C8:i3.UNION-49 has spawned a 'NPC [565][npc_citizen]'.
+[18:12:13	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:12:13	]C8:i3.UNION-49 has spawned a 'NPC [566][npc_citizen]'.
+[18:12:14	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:12:14	]C8:i3.UNION-49 has spawned a 'NPC [591][npc_citizen]'.
+[18:12:15	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:12:15	]C8:i3.UNION-49 has spawned a 'NPC [523][npc_citizen]'.
+[18:12:17	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:12:17	]C8:i3.UNION-49 has spawned a 'NPC [524][npc_citizen]'.
+[18:12:19	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:12:19	]C8:i3.UNION-49 has spawned a 'NPC [533][npc_citizen]'.
+[18:12:22	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:12:22	]C8:i3.UNION-49 has spawned a 'NPC [543][npc_citizen]'.
+[18:12:24	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:12:24	]C8:i3.UNION-49 has spawned a 'NPC [569][npc_citizen]'.
+[18:12:28	]C8:i3.UNION-49 has spawned a 'NPC [568][npc_citizen]'.
+[18:12:33	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:12:33	]C8:i3.UNION-49 has spawned a 'NPC [590][npc_citizen]'.
+[18:12:36	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:12:36	]C8:i3.UNION-49 has spawned a 'NPC [568][npc_citizen]'.
+[18:12:37	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:12:37	]C8:i3.UNION-49 has spawned a 'NPC [602][npc_citizen]'.
+[18:12:39	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:12:39	]C8:i3.UNION-49 has spawned a 'NPC [589][npc_citizen]'.
+[18:12:41	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:12:41	]C8:i3.UNION-49 has spawned a 'NPC [543][npc_citizen]'.
+[18:12:41	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:12:41	]C8:i3.UNION-49 has spawned a 'NPC [589][npc_citizen]'.
+[18:12:43	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:12:43	]C8:i3.UNION-49 has spawned a 'NPC [543][npc_citizen]'.
+[18:12:44	]C8:i3.UNION-49 has spawned a 'NPC [588][npc_citizen]'.
+[18:12:46	]C8:i3.UNION-49 has spawned a 'NPC [594][npc_citizen]'.
+[18:12:54	]C8:i3.UNION-49 has spawned a 'NPC [509][npc_citizen]'.
+[18:12:55	]C8:i3.UNION-49 has spawned a 'NPC [627][npc_citizen]'.
+[18:12:59	]C8:i3.UNION-49 has spawned a 'NPC [587][npc_citizen]'.
+[18:13:03	]C8:i3.UNION-49 has spawned a 'NPC [549][npc_citizen]'.
+[18:13:06	]C8:i3.UNION-49 has spawned a 'NPC [632][npc_citizen]'.
+[18:13:07	]C8:i3.UNION-49 has spawned a 'NPC [590][npc_citizen]'.
+[18:13:09	]C8:i3.UNION-49 has spawned a 'NPC [609][npc_citizen]'.
+[18:13:10	]C8:i3.UNION-49 has spawned a 'NPC [579][npc_citizen]'.
+[18:13:21	]C8:i3.UNION-49 has spawned a 'NPC [538][npc_citizen]'.
+[18:13:24	]C8:i3.UNION-49 has spawned a 'NPC [606][npc_citizen]'.
+[18:13:32	]C8:i3.UNION-49 has spawned a 'NPC [660][npc_citizen]'.
+[18:13:39	]C8:i3.UNION-49 exited observer.
+[18:13:58	]C8:i3.UNION-49 has fired a toolgun with the name: vjstool_npcrelationship
+[18:14:03	]C8:i3.UNION-49 has fired a toolgun with the name: vjstool_npcrelationship
+[18:14:06	]C8:i3.UNION-49 entered observer.
+[18:14:08	]C8:i3.UNION-49 has fired a toolgun with the name: vjstool_npcrelationship
+[18:14:09	]C8:i3.UNION-49 exited observer.
+[18:14:16	]C8:i3.UNION-49 has spawned a 'NPC [621][npc_combine_s]'.
+[18:14:17	]C8:i3.UNION-49 has fired a toolgun with the name: vjstool_npcrelationship
+[18:14:20	]C8:i3.UNION-49 has fired a toolgun with the name: vjstool_npcrelationship
+[18:14:33	]C8:i3.UNION-49 has used a context menu option with the name: rb655_make_hostile
+[18:14:38	]C8:i3.UNION-49 has used a context menu option with the name: rb655_make_friendly
+[18:14:40	]C8:i3.UNION-49 entered observer.
+[18:15:12	]C8:i3.UNION-49 has fired a toolgun with the name: vjstool_notarget
+[18:15:27	]C8:i3.UNION-49 exited observer.
+[18:15:34	]C8:i3.UNION-49 entered observer.
+[18:15:37	]C8:i3.UNION-49 has used a context menu option with the name: rb655_make_hostile
+[18:15:46	]C8:i3.UNION-49 has used a context menu option with the name: rb655_make_hostile
+[18:16:12	]C8:i3.UNION-49 has spawned a 'NPC [472][npc_combine_s]'.
+[18:16:18	]C8:i3.UNION-49 has spawned a 'NPC [472][npc_metropolice]'.
+[18:16:19	]C8:i3.UNION-49 has spawned a 'NPC [476][npc_metropolice]'.
+[18:16:23	]C8:i3.UNION-49 has spawned a 'NPC [493][npc_combine_s]'.
+[18:16:29	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:16:29	]C8:i3.UNION-49 has spawned a 'NPC [472][npc_combine_s]'.
+[18:16:30	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:16:30	]C8:i3.UNION-49 has spawned a 'NPC [489][npc_combine_s]'.
+[18:16:33	]C8:i3.UNION-49 has spawned a 'NPC [489][npc_combine_s]'.
+[18:16:35	]C8:i3.UNION-49 has spawned a 'NPC [493][npc_combine_s]'.
+[18:16:37	]C8:i3.UNION-49 has spawned a 'NPC [495][npc_combine_s]'.
+[18:16:38	]C8:i3.UNION-49 has spawned a 'NPC [498][npc_combine_s]'.
+[18:16:40	]C8:i3.UNION-49 has spawned a 'NPC [500][npc_combine_s]'.
+[18:16:41	]C8:i3.UNION-49 has spawned a 'NPC [498][npc_combine_s]'.
+[18:16:42	]C8:i3.UNION-49 has spawned a 'NPC [502][npc_combine_s]'.
+[18:16:44	]C8:i3.UNION-49 has spawned a 'NPC [506][npc_combine_s]'.
+[18:16:50	]C8:i3.UNION-49 has spawned a 'NPC [508][npc_combine_s]'.
+[18:16:53	]C8:i3.UNION-49 has spawned a 'NPC [510][npc_combine_s]'.
+[18:16:56	]C8:i3.UNION-49 has spawned a 'NPC [516][npc_metropolice]'.
+[18:16:57	]C8:i3.UNION-49 has spawned a 'NPC [519][npc_combine_s]'.
+[18:16:59	]C8:i3.UNION-49 has spawned a 'NPC [516][npc_combine_s]'.
+[18:17:01	]C8:i3.UNION-49 has spawned a 'NPC [516][npc_combine_s]'.
+[18:17:02	]C8:i3.UNION-49 has spawned a 'NPC [524][npc_combine_s]'.
+[18:17:04	]C8:i3.UNION-49 has spawned a 'NPC [530][npc_combine_s]'.
+[18:17:05	]C8:i3.UNION-49 has spawned a 'NPC [535][npc_combine_s]'.
+[18:17:06	]C8:i3.UNION-49 has spawned a 'NPC [530][npc_combine_s]'.
+[18:17:07	]C8:i3.UNION-49 has spawned a 'NPC [538][npc_combine_s]'.
+[18:17:09	]C8:i3.UNION-49 has spawned a 'NPC [542][npc_combine_s]'.
+[18:17:10	]C8:i3.UNION-49 has spawned a 'NPC [546][npc_combine_s]'.
+[18:17:11	]C8:i3.UNION-49 has spawned a 'NPC [549][npc_combine_s]'.
+[18:17:13	]C8:i3.UNION-49 has spawned a 'NPC [553][npc_combine_s]'.
+[18:17:13	]C8:i3.UNION-49 has spawned a 'NPC [558][npc_combine_s]'.
+[18:17:17	]C8:i3.UNION-49 has spawned a 'NPC [564][npc_combine_s]'.
+[18:17:19	]C8:i3.UNION-49 has spawned a 'NPC [566][npc_combine_s]'.
+[18:17:21	]C8:i3.UNION-49 has spawned a 'NPC [568][npc_combine_s]'.
+[18:17:25	]C8:i3.UNION-49 has spawned a 'NPC [570][npc_combine_s]'.
+[18:17:32	]C8:i3.UNION-49 has spawned a 'NPC [579][npc_combine_s]'.
+[18:17:40	]C8:i3.UNION-49 has spawned a 'NPC [583][npc_combine_s]'.
+[18:17:42	]C8:i3.UNION-49 has spawned a 'NPC [588][npc_combine_s]'.
+[18:17:45	]C8:i3.UNION-49 has spawned a 'NPC [590][npc_combine_s]'.
+[18:17:49	]C8:i3.UNION-49 exited observer.
+[18:17:57	]C8:i3.UNION-49 ran 'EquipUn' on item 'Model 870' (#3270320)
+[18:17:57	]C8:i3.UNION-49 has gained a '8rnd Shotgun Magazine' #3270397.
+[18:17:58	]C8:i3.UNION-49 ran 'Equip' on item 'Model 870' (#3270320)
+[18:17:59	]C8:i3.UNION-49 used command '/ToggleRaise'.
+[18:18:01	]C8:i3.UNION-49 has lost a '8rnd Shotgun Magazine' #3305766.
+[18:18:11	]C8:i3.UNION-49 has hit npc_combine_s dealing 8 damage (CritChance was 0.60).
+[18:18:11	]C8:i3.UNION-49 has hit npc_combine_s dealing 8 damage (CritChance was 0.60).
+[18:18:11	]C8:i3.UNION-49 has hit npc_combine_s in the head dealing 9 damage (CritChance was 0.12).
+[18:18:11	]C8:i3.UNION-49 has critically hit npc_combine_s dealing 9 damage (CritChance was 0.60).
+[18:18:11	]C8:i3.UNION-49 has hit npc_combine_s dealing 8 damage (CritChance was 0.60).
+[18:18:25	]C8:i3.UNION-49 entered observer.
+[18:18:27	]C8:i3.UNION-49 has used a context menu option with the name: rb655_make_hostile
+[18:18:30	]C8:i3.UNION-49 exited observer.
+[18:18:36	]C8:i3.UNION-49 has used a context menu option with the name: rb655_make_hostile
+[18:18:51	]C8:i3.UNION-49 entered observer.
+[18:18:53	]C8:i3.UNION-49 exited observer.
+[18:18:57	]C8:i3.UNION-49 has fired a toolgun with the name: vjstool_notarget
+[18:18:58	]C8:i3.UNION-49 has fired a toolgun with the name: vjstool_notarget
+[18:19:02	]C8:i3.UNION-49 has used a context menu option with the name: rb655_make_friendly
+[18:19:07	]C8:i3.UNION-49 has taken 5 damage from npc_combine_s.
+[18:19:11	]C8:i3.UNION-49 has used a context menu option with the name: rb655_make_hostile
+[18:19:12	]C8:i3.UNION-49 has used a context menu option with the name: rb655_make_friendly
+[18:19:14	]C8:i3.UNION-49 has used a context menu option with the name: rb655_make_hostile
+[18:19:17	]C8:i3.UNION-49 has taken 22 damage from npc_combine_s.
+[18:19:40	]C8:i3.UNION-49 has fired a toolgun with the name: vjstool_npcrelationship
+[18:19:40	]C8:i3.UNION-49 has fired a toolgun with the name: vjstool_npcrelationship
+[18:19:47	]C8:i3.UNION-49 entered observer.
+[18:19:58	]C8:i3.UNION-49 has spawned a 'NPC [472][npc_vj_hla_antlion]'.
+[18:20:01	]C8:i3.UNION-49 exited observer.
+[18:20:05	]C8:i3.UNION-49 used command '/ToggleRaise'.
+[18:20:12	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:12	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:12	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:12	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:12	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:12	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:12	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:12	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:12	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:12	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:12	]C8:i3.UNION-49 has hit npc_vj_hla_antlion in the head dealing 9 damage (CritChance was 0.12).
+[18:20:14	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:14	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:14	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:14	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:14	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:14	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:14	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:14	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:14	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:14	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:14	]C8:i3.UNION-49 has taken 13 damage from Antlion.
+[18:20:16	]C8:i3.UNION-49 has hit npc_vj_hla_antlion in the left leg dealing 6 damage (CritChance was 0.36).
+[18:20:16	]C8:i3.UNION-49 has hit npc_vj_hla_antlion in the left leg dealing 6 damage (CritChance was 0.36).
+[18:20:16	]C8:i3.UNION-49 has hit npc_vj_hla_antlion in the left leg dealing 6 damage (CritChance was 0.36).
+[18:20:16	]C8:i3.UNION-49 has critically hit npc_vj_hla_antlion in the left leg dealing 8 damage (CritChance was 0.36).
+[18:20:16	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:17	]C8:i3.UNION-49 has taken 13 damage from Antlion.
+[18:20:18	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:18	]C8:i3.UNION-49 has hit npc_vj_hla_antlion in the head dealing 9 damage (CritChance was 0.12).
+[18:20:18	]C8:i3.UNION-49 has hit npc_vj_hla_antlion in the head dealing 9 damage (CritChance was 0.12).
+[18:20:18	]C8:i3.UNION-49 has hit npc_vj_hla_antlion in the head dealing 9 damage (CritChance was 0.12).
+[18:20:18	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:18	]C8:i3.UNION-49 has hit npc_vj_hla_antlion in the head dealing 9 damage (CritChance was 0.12).
+[18:20:18	]C8:i3.UNION-49 has critically hit npc_vj_hla_antlion in the head dealing 11 damage (CritChance was 0.12).
+[18:20:18	]C8:i3.UNION-49 has hit npc_vj_hla_antlion in the head dealing 9 damage (CritChance was 0.12).
+[18:20:18	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:18	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:18	]C8:i3.UNION-49 has hit npc_vj_hla_antlion in the right leg dealing 6 damage (CritChance was 0.36).
+[18:20:18	]C8:i3.UNION-49 has hit npc_vj_hla_antlion in the right leg dealing 6 damage (CritChance was 0.36).
+[18:20:18	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:18	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:18	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:18	]C8:i3.UNION-49 has hit npc_vj_hla_antlion dealing 8 damage (CritChance was 0.00).
+[18:20:18	]C8:i3.UNION-49 has hit npc_vj_hla_antlion in the right leg dealing 6 damage (CritChance was 0.36).
+[18:20:20	]C8:i3.UNION-49 has gained a '8rnd Shotgun Magazine' #3305766.
+[18:20:20	]C8:i3.UNION-49 has lost a '8rnd Shotgun Magazine' #3305765.
+[18:20:26	]C8:i3.UNION-49 is fully healed.
+[18:20:37	]C8:i3.UNION-49 has spawned a 'NPC [472][npc_vj_hlr2_com_elite]'.
+[18:20:38	]C8:i3.UNION-49 has taken 3 damage from Overwatch Elite.
+[18:20:38	]C8:i3.UNION-49 has taken 12 damage from Overwatch Elite.
+[18:20:38	]C8:i3.UNION-49 has taken 12 damage from Overwatch Elite.
+[18:20:38	]C8:i3.UNION-49 has taken 3 damage from Overwatch Elite.
+[18:20:38	]C8:i3.UNION-49 has taken 3 damage from Overwatch Elite.
+[18:20:38	]C8:i3.UNION-49 has taken 3 damage from Overwatch Elite.
+[18:20:39	]C8:i3.UNION-49 has taken 3 damage from Overwatch Elite.
+[18:20:41	]C8:i3.UNION-49 is fully healed.
+[18:20:50	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:20:50	]C8:i3.UNION-49 has spawned a 'NPC [472][npc_vj_hlr2_com_elite]'.
+[18:20:51	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:20:51	]C8:i3.UNION-49 has spawned a 'NPC [483][npc_vj_hlr2_com_elite]'.
+[18:20:51	]C8:i3.UNION-49 has taken 3 damage from Overwatch Elite.
+[18:20:51	]C8:i3.UNION-49 has taken 3 damage from Overwatch Elite.
+[18:20:51	]C8:i3.UNION-49 has taken 3 damage from Overwatch Elite.
+[18:20:51	]C8:i3.UNION-49 has taken 3 damage from Overwatch Elite.
+[18:20:52	]C8:i3.UNION-49 has taken 3 damage from Overwatch Elite.
+[18:20:52	]C8:i3.UNION-49 has taken 3 damage from Overwatch Elite.
+[18:20:52	]C8:i3.UNION-49 has taken 3 damage from Overwatch Elite.
+[18:20:52	]C8:i3.UNION-49 has taken 24 damage from Overwatch Elite.
+[18:20:52	]C8:i3.UNION-49 has taken 12 damage from Overwatch Elite.
+[18:20:52	]C8:i3.UNION-49 has taken 3 damage from Overwatch Elite.
+[18:20:52	]C8:i3.UNION-49 has taken 24 damage from Overwatch Elite.
+[18:20:53	]C8:i3.UNION-49 has taken 3 damage from Overwatch Elite.
+[18:20:53	]C8:i3.UNION-49 has taken 3 damage from Overwatch Elite.
+[18:20:53	]C8:i3.UNION-49 has taken 24 damage from Overwatch Elite.
+[18:20:53	]C8:i3.UNION-49 has taken 12 damage from Overwatch Elite.
+[18:20:53	]C8:i3.UNION-49 has taken 3 damage from Overwatch Elite.
+[18:20:53	]C8:i3.UNION-49 has taken 12 damage from Overwatch Elite.
+[18:20:53	]C8:i3.UNION-49 has taken 24 damage from Overwatch Elite.
+[18:20:53	]C8:i3.UNION-49 has taken 12 damage from Overwatch Elite.
+[18:20:53	]C8:i3.UNION-49 has taken 3 damage from Overwatch Elite.
+[18:20:54	]C8:i3.UNION-49 has taken 3 damage from Overwatch Elite.
+[18:20:54	]C8:i3.UNION-49 has taken 3 damage from Overwatch Elite.
+[18:20:54	]C8:i3.UNION-49 has gained a '8rnd Shotgun Magazine' #3305765.
+[18:20:54	]C8:i3.UNION-49 was knocked unconscious and is bleeding out.
+[18:20:54	]C8:i3.UNION-49 has gained a '17rnd USP Magazine' #3200148.
+[18:21:01	]C8:i3.UNION-49 is no longer unconscious from critical wounds.
+[18:21:01	]C8:i3.UNION-49 is fully healed.
+[18:21:01	]C8:i3.UNION-49 used command '/CharStopBleedout ^'.
+[18:21:06	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:21:06	]C8:i3.UNION-49 has spawned a 'NPC [481][npc_vj_hlr2_com_elite]'.
+[18:21:12	]C8:i3.UNION-49 entered observer.
+[18:21:12	]C8:i3.UNION-49 exited observer.
+[18:21:15	]C8:i3.UNION-49 has fired a toolgun with the name: creator
+[18:21:15	]C8:i3.UNION-49 has spawned a 'NPC [480][npc_vj_hlr2_com_elite]'.
+[18:21:20	]C8:i3.UNION-49 has spawned a 'NPC [480][npc_fastzombie_torso]'.
+[18:21:27	]C8:i3.UNION-49 has spawned a 'NPC [480][npc_helicopter]'.
+[18:21:31	]C8:i3.UNION-49 has spawned a 'NPC [480][npc_combine_s]'.
+[18:21:36	]C8:i3.UNION-49 has spawned a 'NPC [480][npc_kleiner]'.
+[18:21:37	]C8:i3.UNION-49 has spawned a 'NPC [481][npc_citizen]'.
+[18:21:41	]C8:i3.UNION-49 has used a context menu option with the name: rb655_citizen_panic
+[18:21:47	]C8:i3.UNION-49 has spawned a 'NPC [480][npc_citizen]'.
+[18:21:49	]C8:i3.UNION-49 entered observer.
+[18:21:56	]C8:i3.UNION-49 has fired a toolgun with the name: duplicator
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x8.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x3.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x4.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel2x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x8.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel2x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x1.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x4.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x3.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x4.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x7.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x1.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x7.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x8.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x4.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x3.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate8x8.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x3.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x8.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x7.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x3.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x1.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x7.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x4.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x1.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x8.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x1.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel2x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x4.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x1.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel2x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x8.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x3.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x8.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x1.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x4.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x4.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x1.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x4.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x4.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x8.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate8x8.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x8.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate8x8.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x3.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x1.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x3.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_combine/breenbust.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/props_phx/construct/wood/wood_panel1x2.mdl'.
+[18:21:56	]C8:i3.UNION-49 has spawned 'models/hunter/plates/plate2x2.mdl'.
+[18:22:09	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:22:10	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:22:10	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:22:10	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:22:11	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:22:11	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:22:12	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:22:12	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:22:14	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:22:25	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:22:27	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:22:28	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:22:33	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:22:33	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:22:34	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:22:34	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:22:34	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:22:35	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:22:35	]C8:i3.UNION-49 has fired a toolgun with the name: dynamite
+[18:22:49	]C8:i3.UNION-49 has fired a toolgun with the name: vjstool_notarget
+[18:22:54	]C8:i3.UNION-49 has fired a toolgun with the name: vjstool_notarget
+[18:23:07	]C8:i3.UNION-49 has spawned a 'NPC [481][npc_vj_overwatch_soldier_z]'.
+[18:23:08	]C8:i3.UNION-49 has spawned a 'NPC [483][npc_vj_overwatch_soldier_z]'.
+[18:23:11	]C8:i3.UNION-49 has spawned a 'NPC [481][npc_vj_overwatch_soldier_z]'.
+[18:23:13	]C8:i3.UNION-49 has spawned a 'NPC [490][npc_vj_overwatch_soldier_z]'.
+[18:23:15	]C8:i3.UNION-49 has spawned a 'NPC [494][npc_vj_overwatch_soldier_z]'.
+[18:23:18	]C8:i3.UNION-49 has spawned a 'NPC [498][npc_vj_overwatch_soldier_z]'.
+[18:23:21	]C8:i3.UNION-49 has spawned a 'NPC [500][npc_vj_overwatch_soldier_z]'.
+[18:23:23	]C8:i3.UNION-49 has spawned a 'NPC [502][npc_vj_overwatch_soldier_z]'.
+[18:23:29	]C8:i3.UNION-49 has spawned a 'NPC [506][npc_vj_overwatch_soldier_z]'.
+[18:23:30	]C8:i3.UNION-49 has spawned a 'NPC [508][npc_vj_overwatch_soldier_z]'.
+[18:23:31	]C8:i3.UNION-49 has spawned a 'NPC [511][npc_vj_overwatch_soldier_z]'.
+[18:23:31	]C8:i3.UNION-49 has spawned a 'NPC [517][npc_vj_overwatch_soldier_z]'.
+[18:23:32	]C8:i3.UNION-49 has spawned a 'NPC [520][npc_vj_overwatch_soldier_z]'.
+[18:23:33	]C8:i3.UNION-49 has spawned a 'NPC [525][npc_vj_overwatch_soldier_z]'.
+[18:23:34	]C8:i3.UNION-49 has spawned a 'NPC [534][npc_vj_overwatch_soldier_z]'.
+[18:23:35	]C8:i3.UNION-49 has spawned a 'NPC [538][npc_vj_overwatch_soldier_z]'.
+[18:23:36	]C8:i3.UNION-49 has spawned a 'NPC [542][npc_vj_overwatch_soldier_z]'.
+[18:23:37	]C8:i3.UNION-49 has spawned a 'NPC [547][npc_vj_overwatch_soldier_z]'.
+[18:23:37	]C8:i3.UNION-49 has spawned a 'NPC [550][npc_vj_overwatch_soldier_z]'.
+[18:23:39	]C8:i3.UNION-49 has spawned a 'NPC [554][npc_vj_overwatch_soldier_z]'.
+[18:23:41	]C8:i3.UNION-49 has spawned a 'NPC [560][npc_vj_overwatch_soldier_z]'.
+[18:23:48	]C8:i3.UNION-49 entered observer.
+[18:23:49	]C8:i3.UNION-49 exited observer.
+[18:23:51	]C8:i3.UNION-49 used command '/ToggleRaise'.
+[18:23:52	]C8:i3.UNION-49 has lost a '8rnd Shotgun Magazine' #3305765.
+[18:23:53	]C8:i3.UNION-49 has gained a '8rnd Shotgun Magazine' #3305765.
+[18:23:53	]C8:i3.UNION-49 has lost a '8rnd Shotgun Magazine' #3305764.
+[18:23:53	]C8:i3.UNION-49 has gained a '8rnd Shotgun Magazine' #3305764.
+[18:23:53	]C8:i3.UNION-49 has lost a '8rnd Shotgun Magazine' #3305765.
+[18:23:54	]C8:i3.UNION-49 used command '/ToggleRaise'.
+[18:24:01	]C8:i3.UNION-49 has taken 1 damage from Combine Turret.
+[18:24:01	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z dealing 9 damage (CritChance was 0.60).
+[18:24:01	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z dealing 9 damage (CritChance was 0.60).
+[18:24:01	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z dealing 9 damage (CritChance was 0.60).
+[18:24:01	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z dealing 8 damage (CritChance was 0.60).
+[18:24:01	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z dealing 9 damage (CritChance was 0.60).
+[18:24:01	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z dealing 9 damage (CritChance was 0.60).
+[18:24:01	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z dealing 8 damage (CritChance was 0.60).
+[18:24:02	]C8:i3.UNION-49 has taken 1 damage from Combine Turret.
+[18:24:03	]C8:i3.UNION-49 has taken 4 damage from Combine Turret.
+[18:24:03	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:24:03	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:24:03	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:24:03	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:24:03	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:24:04	]C8:i3.UNION-49 has taken 1 damage from Combine Turret.
+[18:24:04	]C8:i3.UNION-49 has taken 1 damage from Combine Turret.
+[18:24:06	]C8:i3.UNION-49 has taken 1 damage from Combine Turret.
+[18:24:06	]C8:i3.UNION-49 is fully healed.
+[18:24:06	]C8:i3.UNION-49 has taken 25 damage from Overwatch Soldier.
+[18:24:07	]C8:i3.UNION-49 has taken 1 damage from Combine Turret.
+[18:24:07	]C8:i3.UNION-49 has taken 1 damage from Combine Turret.
+[18:24:07	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:24:07	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:24:07	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:24:07	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:24:07	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:24:07	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:24:07	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:24:07	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:24:08	]C8:i3.UNION-49 has taken 1 damage from Combine Turret.
+[18:24:08	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:24:08	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:24:08	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:24:08	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:24:08	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the left leg dealing 6 damage (CritChance was 0.36).
+[18:24:08	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z in the chest dealing 9 damage (CritChance was 0.36).
+[18:24:08	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:24:08	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:24:09	]C8:i3.UNION-49 has taken 1 damage from Combine Turret.
+[18:24:10	]C8:i3.UNION-49 has taken 3 damage from Overwatch Soldier.
+[18:24:10	]C8:i3.UNION-49 has taken 3 damage from Overwatch Soldier.
+[18:24:10	]C8:i3.UNION-49 has taken 1 damage from Combine Turret.
+[18:24:11	]C8:i3.UNION-49 has taken 8 damage from Combine Turret.
+[18:24:12	]C8:i3.UNION-49 has taken 3 damage from Overwatch Soldier.
+[18:24:12	]C8:i3.UNION-49 has taken 3 damage from Overwatch Soldier.
+[18:24:12	]C8:i3.UNION-49 has taken 34 damage from Overwatch Soldier.
+[18:24:12	]C8:i3.UNION-49 has taken 12 damage from Overwatch Soldier.
+[18:24:12	]C8:i3.UNION-49 has taken 3 damage from Overwatch Soldier.
+[18:24:13	]C8:i3.UNION-49 has taken 3 damage from Overwatch Soldier.
+[18:24:13	]C8:i3.UNION-49 has taken 3 damage from Overwatch Soldier.
+[18:24:13	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the left arm dealing 6 damage (CritChance was 0.36).
+[18:24:13	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z in the left arm dealing 8 damage (CritChance was 0.36).
+[18:24:13	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the head dealing 9 damage (CritChance was 0.12).
+[18:24:13	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z in the right leg dealing 8 damage (CritChance was 0.36).
+[18:24:13	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the head dealing 9 damage (CritChance was 0.12).
+[18:24:13	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z dealing 9 damage (CritChance was 0.60).
+[18:24:14	]C8:i3.UNION-49 has gained a '8rnd Shotgun Magazine' #3305765.
+[18:24:14	]C8:i3.UNION-49 has lost a '8rnd Shotgun Magazine' #3305764.
+[18:24:18	]C8:i3.UNION-49 ran 'use' on item 'Disinfected Bandage Roll' (#3231741)
+[18:24:18	]C8:i3.UNION-49 has performed the 'Use Disinfected Bandage Roll' action, gaining 22 experience in medicine.
+[18:24:18	]C8:i3.UNION-49 was disinfected by C8:i3.UNION-49 for 79 seconds.
+[18:24:18	]C8:i3.UNION-49 was bandaged by C8:i3.UNION-49 for 16 HP.
+[18:24:19	]C8:i3.UNION-49 ran 'use' on item 'Disinfected Bandage Roll' (#3231741)
+[18:24:19	]C8:i3.UNION-49 has performed the 'Use Disinfected Bandage Roll' action, gaining 15 experience in medicine.
+[18:24:19	]C8:i3.UNION-49 was disinfected by C8:i3.UNION-49 for 79 seconds.
+[18:24:19	]C8:i3.UNION-49 was bandaged by C8:i3.UNION-49 for 16 HP.
+[18:24:24	]C8:i3.UNION-49 ran 'use' on item 'Disinfected Bandage Roll' (#3231741)
+[18:24:24	]C8:i3.UNION-49 has performed the 'Use Disinfected Bandage Roll' action, gaining 18 experience in medicine.
+[18:24:24	]C8:i3.UNION-49 was disinfected by C8:i3.UNION-49 for 79 seconds.
+[18:24:24	]C8:i3.UNION-49 was bandaged by C8:i3.UNION-49 for 16 HP.
+[18:24:30	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the left leg dealing 6 damage (CritChance was 0.36).
+[18:24:31	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z dealing 32 damage (CritChance was 0.00).
+[18:24:35	]C8:i3.UNION-49 has gained a '8rnd Shotgun Magazine' #3305764.
+[18:24:35	]C8:i3.UNION-49 was knocked unconscious and is bleeding out.
+[18:24:40	]C8:i3.UNION-49 used command '/CharStopBleedout ^'.
+[18:24:46	]C8:i3.UNION-49 is no longer unconscious from critical wounds.
+[18:24:46	]C8:i3.UNION-49 is fully healed.
+[18:24:47	]C8:i3.UNION-49 used command '/ToggleRaise'.
+[18:24:49	]C8:i3.UNION-49 has lost a '8rnd Shotgun Magazine' #3270398.
+[18:24:55	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the chest dealing 9 damage (CritChance was 0.36).
+[18:24:57	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the left leg dealing 6 damage (CritChance was 0.36).
+[18:24:57	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z in the left leg dealing 8 damage (CritChance was 0.36).
+[18:24:57	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z in the right leg dealing 8 damage (CritChance was 0.36).
+[18:24:57	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z in the right arm dealing 8 damage (CritChance was 0.36).
+[18:24:57	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z dealing 9 damage (CritChance was 0.60).
+[18:24:58	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the left arm dealing 6 damage (CritChance was 0.36).
+[18:24:58	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z in the left arm dealing 8 damage (CritChance was 0.36).
+[18:24:58	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the left arm dealing 6 damage (CritChance was 0.36).
+[18:24:58	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z dealing 8 damage (CritChance was 0.60).
+[18:24:58	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z dealing 9 damage (CritChance was 0.60).
+[18:24:59	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z in the right leg dealing 8 damage (CritChance was 0.36).
+[18:24:59	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z in the left leg dealing 8 damage (CritChance was 0.36).
+[18:24:59	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the right arm dealing 6 damage (CritChance was 0.36).
+[18:25:03	]C8:i3.UNION-49 used command '/ToggleRaise'.
+[18:25:04	]C8:i3.UNION-49 has lost a '17rnd USP Magazine' #3200148.
+[18:25:13	]C8:i3.UNION-49 has taken 1 damage from Overwatch Soldier.
+[18:25:14	]C8:i3.UNION-49 has taken 80 damage from Overwatch Soldier.
+[18:25:14	]C8:i3.UNION-49 has taken 5 damage from Overwatch Soldier.
+[18:25:14	]C8:i3.UNION-49 has taken 5 damage from Overwatch Soldier.
+[18:25:15	]C8:i3.UNION-49 has taken 5 damage from Overwatch Soldier.
+[18:25:15	]C8:i3.UNION-49 has taken 5 damage from Overwatch Soldier.
+[18:25:15	]C8:i3.UNION-49 has taken 5 damage from Overwatch Soldier.
+[18:25:15	]C8:i3.UNION-49 has taken 1 damage from Overwatch Soldier.
+[18:25:16	]C8:i3.UNION-49 has taken 1 damage from Overwatch Soldier.
+[18:25:16	]C8:i3.UNION-49 has gained a '17rnd USP Magazine' #3200148.
+[18:25:16	]C8:i3.UNION-49 has lost a '17rnd USP Magazine' #3136463.
+[18:25:20	]C8:i3.UNION-49 has taken 38 damage from Overwatch Soldier.
+[18:25:22	]C8:i3.UNION-49 has taken 5 damage from Overwatch Soldier.
+[18:25:23	]C8:i3.UNION-49 has taken 10 damage from Overwatch Soldier.
+[18:25:23	]C8:i3.UNION-49 has taken 1 damage from Overwatch Soldier.
+[18:25:23	]C8:i3.UNION-49 used command '/ToggleRaise'.
+[18:25:25	]C8:i3.UNION-49 has gained a '17rnd USP Magazine' #3136463.
+[18:25:25	]C8:i3.UNION-49 has gained a '8rnd Shotgun Magazine' #3270398.
+[18:25:25	]C8:i3.UNION-49 was knocked unconscious and is bleeding out.
+[18:25:29	]C8:i3.UNION-49 used command '/CharStopBleedout ^'.
+[18:25:31	]C8:i3.UNION-49 is no longer unconscious from critical wounds.
+[18:25:31	]C8:i3.UNION-49 is fully healed.
+[18:25:33	]C8:i3.UNION-49 used command '/ToggleRaise'.
+[18:25:34	]C8:i3.UNION-49 has lost a '8rnd Shotgun Magazine' #3270397.
+[18:25:43	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the left arm dealing 6 damage (CritChance was 0.36).
+[18:25:43	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the right arm dealing 6 damage (CritChance was 0.36).
+[18:25:48	]C8:i3.UNION-49 has gained a '8rnd Shotgun Magazine' #3270397.
+[18:25:48	]C8:i3.UNION-49 has lost a '8rnd Shotgun Magazine' #3270392.
+[18:25:53	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the head dealing 9 damage (CritChance was 0.12).
+[18:25:53	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the left arm dealing 6 damage (CritChance was 0.36).
+[18:25:53	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z in the right arm dealing 8 damage (CritChance was 0.36).
+[18:25:53	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z in the right arm dealing 8 damage (CritChance was 0.36).
+[18:25:53	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the head dealing 9 damage (CritChance was 0.12).
+[18:25:53	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z in the left arm dealing 8 damage (CritChance was 0.36).
+[18:25:53	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the left arm dealing 6 damage (CritChance was 0.36).
+[18:25:53	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the left arm dealing 6 damage (CritChance was 0.36).
+[18:25:53	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z in the right arm dealing 8 damage (CritChance was 0.36).
+[18:25:54	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the left leg dealing 6 damage (CritChance was 0.36).
+[18:25:54	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z dealing 8 damage (CritChance was 0.60).
+[18:25:55	]C8:i3.UNION-49 has taken 1 damage from Combine Turret.
+[18:25:55	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:25:55	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:25:55	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:25:55	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:25:55	]C8:i3.UNION-49 has taken 8 damage from Combine Turret.
+[18:25:55	]C8:i3.UNION-49 has taken 29 damage from Overwatch Soldier.
+[18:25:55	]C8:i3.UNION-49 has taken 4 damage from Combine Turret.
+[18:25:56	]C8:i3.UNION-49 has taken 4 damage from Combine Turret.
+[18:25:56	]C8:i3.UNION-49 has taken 1 damage from Combine Turret.
+[18:25:56	]C8:i3.UNION-49 has taken 1 damage from Combine Turret.
+[18:25:56	]C8:i3.UNION-49 has taken 1 damage from Combine Turret.
+[18:25:56	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:25:56	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:25:56	]C8:i3.UNION-49 has taken 1 damage from Combine Turret.
+[18:25:57	]C8:i3.UNION-49 has taken 1 damage from Combine Turret.
+[18:25:57	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:25:57	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:25:57	]C8:i3.UNION-49 has taken 1 damage from Combine Turret.
+[18:25:57	]C8:i3.UNION-49 has taken 4 damage from Combine Turret.
+[18:25:57	]C8:i3.UNION-49 has taken 1 damage from Combine Turret.
+[18:25:57	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:25:57	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:25:57	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:25:59	]C8:i3.UNION-49 has gained a '8rnd Shotgun Magazine' #3270392.
+[18:25:59	]C8:i3.UNION-49 has lost a '8rnd Shotgun Magazine' #3305764.
+[18:26:02	]C8:i3.UNION-49 has taken 39 damage from Overwatch Soldier.
+[18:26:07	]C8:i3.UNION-49 has taken 10 damage from Overwatch Soldier.
+[18:26:07	]C8:i3.UNION-49 has taken 10 damage from Overwatch Soldier.
+[18:26:08	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the right leg dealing 6 damage (CritChance was 0.36).
+[18:26:08	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the right leg dealing 6 damage (CritChance was 0.36).
+[18:26:08	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the right leg dealing 6 damage (CritChance was 0.36).
+[18:26:08	]C8:i3.UNION-49 has taken 10 damage from Overwatch Soldier.
+[18:26:08	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z dealing 8 damage (CritChance was 0.60).
+[18:26:08	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the left leg dealing 6 damage (CritChance was 0.36).
+[18:26:08	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z dealing 8 damage (CritChance was 0.60).
+[18:26:08	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z dealing 9 damage (CritChance was 0.60).
+[18:26:08	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z in the left leg dealing 8 damage (CritChance was 0.36).
+[18:26:08	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z in the left leg dealing 8 damage (CritChance was 0.36).
+[18:26:08	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the left leg dealing 6 damage (CritChance was 0.36).
+[18:26:08	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the left leg dealing 6 damage (CritChance was 0.36).
+[18:26:09	]C8:i3.UNION-49 has hit npc_vj_overwatch_soldier_z in the chest dealing 9 damage (CritChance was 0.36).
+[18:26:09	]C8:i3.UNION-49 has critically hit npc_vj_overwatch_soldier_z in the left arm dealing 8 damage (CritChance was 0.36).
+[18:26:10	]C8:i3.UNION-49 has gained a '8rnd Shotgun Magazine' #3305764.
+[18:26:10	]C8:i3.UNION-49 was knocked unconscious and is bleeding out.
+[18:26:21	]C8:i3.UNION-49 is no longer unconscious from critical wounds.
+[18:26:21	]C8:i3.UNION-49 is fully healed.
+[18:26:27	]C8:i3.UNION-49 used command '/ToggleRaise'.
+[18:26:28	]C8:i3.UNION-49 has lost a '8rnd Shotgun Magazine' #3305764.
+[18:26:32	]C8:i3.UNION-49 used command '/CharStopBleedout ^'.
+[18:26:35	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:35	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:35	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:35	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:26:35	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:35	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:35	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:35	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:36	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:36	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:36	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:26:36	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:36	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:26:36	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:36	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:26:36	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:37	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:37	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:26:37	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:26:37	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:26:37	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:37	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:37	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:26:37	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:38	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:26:38	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:38	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:38	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:38	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:38	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:38	]C8:i3.UNION-49 has gained a '8rnd Shotgun Magazine' #3305764.
+[18:26:38	]C8:i3.UNION-49 has lost a '8rnd Shotgun Magazine' #3305766.
+[18:26:42	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:26:42	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:42	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:42	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:42	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:26:42	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:42	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:26:42	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:47	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:47	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:26:47	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:26:47	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:26:47	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:47	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 9 damage (CritChance was 0.60).
+[18:26:47	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:26:47	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 8 damage (CritChance was 0.60).
+[18:26:52	]C8:i3.UNION-49 used command '/ToggleRaise'.
+[18:26:52	]C8:i3.UNION-49 has lost a '17rnd USP Magazine' #3136463.
+[18:26:54	]C8:i3.UNION-49 has taken 4 damage from Combine Turret.
+[18:26:54	]C8:i3.UNION-49 has taken 1 damage from Combine Turret.
+[18:26:54	]C8:i3.UNION-49 has taken 1 damage from Combine Turret.
+[18:26:55	]C8:i3.UNION-49 used command '/ToggleRaise'.
+[18:26:56	]C8:i3.UNION-49 is fully healed.
+[18:26:57	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 13 damage (CritChance was 0.66).
+[18:26:58	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 16 damage (CritChance was 0.66).
+[18:26:58	]C8:i3.UNION-49 has hit npc_vj_combine_turret_z dealing 13 damage (CritChance was 0.66).
+[18:26:58	]C8:i3.UNION-49 has critically hit npc_vj_combine_turret_z dealing 16 damage (CritChance was 0.66).
+[18:27:12	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:12	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:13	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:14	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:22	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:22	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:22	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:23	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:23	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:24	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:24	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:25	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:25	]C8:i3.UNION-49 entered observer.
+[18:27:26	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:26	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:26	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:27	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:27	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:27	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:27	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:27	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:27	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:27	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:28	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:28	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:28	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:28	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:28	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:29	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:29	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:29	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:29	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:29	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:29	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:29	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:29	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:29	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:30	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:30	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:30	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:30	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:30	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:30	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:30	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:30	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:30	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:30	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:31	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:31	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:31	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:31	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:31	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:31	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:32	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:32	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:32	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:32	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:32	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:32	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:32	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:32	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:32	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:33	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:33	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:33	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:33	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:33	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:33	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:33	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:33	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:33	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:33	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:34	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:38	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:38	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:38	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:38	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:38	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:38	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:38	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:38	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:38	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:39	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:39	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:39	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:39	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:39	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:39	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:39	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:39	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:39	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:39	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:40	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:40	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:40	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:40	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:40	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:40	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:40	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:40	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:40	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:41	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:41	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:41	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:41	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:41	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:41	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:41	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:41	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:41	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:41	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:42	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:42	]C8:i3.UNION-49 exited observer.
+[18:27:44	]C8:i3.UNION-49 entered observer.
+[18:27:44	]C8:i3.UNION-49 exited observer.
+[18:27:51	]C8:i3.UNION-49 has fired a toolgun with the name: remover
+[18:27:51	]C8:i3.UNION-49 has taken 56 damage from worldspawn.
+[18:27:57	]Marco (STEAM_0:0:39958603) has disconnected.

@@ -1,0 +1,229 @@
+[23:25:50	]Kranky has connected.
+[23:27:35	]Kranky loaded the character 'Kranky'
+[23:27:39	]Kranky is fully healed.
+[23:27:45	]Kranky entered observer.
+[23:28:15	]Kranky exited observer at their location.
+[23:28:17	]Kranky has unloaded their "Kranky" character.
+[23:28:48	]Kranky created the character 'Kranky'
+[23:28:48	]Kranky has gained a 'Suitcase' #2056238.
+[23:28:48	]Kranky has gained a 'Flashlight' #2056239.
+[23:28:48	]Kranky has gained a 'Light Grey Armband' #2056240.
+[23:28:48	]Kranky has gained a '#70816's Identity Card' #2056241.
+[23:28:48	]Kranky loaded the character 'Kranky'
+[23:28:59	]Kranky entered observer.
+[23:29:32	]Kranky used command '/CharGiveFlag Kranky PeT'.
+[23:29:43	]Kranky used command '/CharGiveFlag Kranky p'.
+[23:29:49	]Kranky used command '/CharGiveFlag Kranky t'.
+[23:31:38	]Kranky used command '/PlaySound https://youtu.be/Khm2Hvjib14?si=cn5q3KTm5ScW-c3l 100'.
+[23:31:59	]Kranky exited observer at their location.
+[23:32:01	]Kranky used command '/PlaySound https://youtu.be/Khm2Hvjib14?si=cn5q3KTm5ScW-c3l 45'.
+[23:32:18	]Kranky used command '/PlaySound https://youtu.be/Khm2Hvjib14?si=sgoHLNXmnKzral3b 20'.
+[23:32:19	]Kranky entered observer.
+[23:32:30	]Kranky used command '/PlaySound https://youtu.be/Khm2Hvjib14?si=sgoHLNXmnKzral3b 10'.
+[23:32:39	]Kranky used command '/PlaySound https://youtu.be/Khm2Hvjib14?si=sgoHLNXmnKzral3b 100'.
+[23:33:12	]Kranky has spawned 'models/weapons/arccw/fml/c_volked_pkp.mdl'.
+[23:33:32	]Kranky exited observer at their location.
+[23:33:37	]Kranky entered observer.
+[23:33:40	]Kranky has spawned a 'Entity [741][aw2_dropship2]'.
+[23:33:42	]Kranky has spawned a 'Entity [750][aw2_dropship]'.
+[23:33:47	]Kranky exited observer at their location.
+[23:33:48	]Kranky was knocked unconscious and is bleeding out.
+[23:33:54	]Kranky used command '/CharStopBleedout kranky'.
+[23:34:02	]Kranky ran SAM command 'sethp' with arguments: '^' '100'
+[23:34:03	]Kranky entered observer.
+[23:34:03	]Kranky is no longer unconscious from critical wounds.
+[23:34:03	]Kranky is fully healed.
+[23:34:08	]Kranky entered observer.
+[23:34:09	]Kranky exited observer at their location.
+[23:34:10	]Kranky entered observer.
+[23:34:13	]Kranky exited observer at their location.
+[23:34:14	]Kranky has fired a toolgun with the name: camera
+[23:34:14	]Kranky entered observer.
+[23:34:17	]Kranky exited observer at their location.
+[23:34:43	]Kranky entered observer.
+[23:34:43	]Kranky exited observer at their location.
+[23:35:02	]Kranky entered observer.
+[23:35:32	]Kranky exited observer at their location.
+[23:35:42	]Kranky has spawned 'models/willardnetworks/skills/circuit.mdl'.
+[23:35:43	]Kranky has spawned 'models/willardnetworks/skills/chemical_flask_big_1.mdl'.
+[23:35:46	]Kranky has spawned 'models/willardnetworks/skills/chemical_flask4.mdl'.
+[23:35:48	]Kranky has spawned 'models/willardnetworks/skills/chemical_flask2.mdl'.
+[23:35:50	]Kranky has spawned 'models/willardnetworks/skills/chemical_flask_big_1.mdl'.
+[23:35:52	]Kranky has used a context menu option with the name: skin
+[23:35:55	]Kranky entered observer.
+[23:35:56	]Kranky exited observer at their location.
+[23:36:01	]Kranky used command '/PlaySound https://youtu.be/Khm2Hvjib14?si=sgoHLNXmnKzral3b 250'.
+[23:36:11	]Kranky entered observer.
+[23:36:12	]Kranky exited observer at their location.
+[23:36:49	]Kranky entered observer.
+[23:37:05	]Kranky exited observer at their location.
+[23:37:12	]Kranky entered observer.
+[23:37:23	]Kranky has fired a toolgun with the name: creator
+[23:37:23	]Kranky has spawned a 'Entity [741][ix_forcefield]'.
+[23:37:25	]Kranky exited observer at their location.
+[23:37:28	]Kranky has fired a toolgun with the name: creator
+[23:37:28	]Kranky has spawned a 'Entity [741][ix_forcefield]'.
+[23:37:29	]Kranky has fired a toolgun with the name: creator
+[23:37:29	]Kranky has spawned a 'Entity [747][ix_forcefield]'.
+[23:37:37	]Kranky has fired a toolgun with the name: creator
+[23:37:37	]Kranky has spawned a 'Entity [741][ix_forcefield]'.
+[23:37:42	]Kranky has fired a toolgun with the name: creator
+[23:37:42	]Kranky has spawned a 'Entity [741][ix_forcefield]'.
+[23:37:44	]Kranky has fired a toolgun with the name: creator
+[23:37:44	]Kranky has spawned a 'Entity [747][ix_forcefield]'.
+[23:37:48	]Kranky has fired a toolgun with the name: creator
+[23:37:48	]Kranky has spawned a 'Entity [741][ix_forcefield]'.
+[23:37:50	]Kranky has fired a toolgun with the name: creator
+[23:37:50	]Kranky has spawned a 'Entity [747][ix_forcefield]'.
+[23:37:54	]Kranky has fired a toolgun with the name: creator
+[23:37:54	]Kranky has spawned a 'Entity [741][ix_forcefield]'.
+[23:37:55	]Kranky has fired a toolgun with the name: creator
+[23:37:55	]Kranky has spawned a 'Entity [747][ix_forcefield]'.
+[23:37:56	]Kranky has fired a toolgun with the name: creator
+[23:37:56	]Kranky has spawned a 'Entity [741][ix_forcefield]'.
+[23:38:01	]Kranky has fired a toolgun with the name: creator
+[23:38:01	]Kranky has spawned a 'Entity [741][ix_forcefield]'.
+[23:38:04	]Kranky has fired a toolgun with the name: creator
+[23:38:04	]Kranky has spawned a 'Entity [741][ix_forcefield]'.
+[23:38:09	]Kranky has fired a toolgun with the name: creator
+[23:38:09	]Kranky has spawned a 'Entity [741][ix_forcefield]'.
+[23:38:11	]Kranky has fired a toolgun with the name: creator
+[23:38:11	]Kranky has spawned a 'Entity [747][ix_forcefield]'.
+[23:38:16	]Kranky has used a context menu option with the name: ixforcefieldstartmalfunction
+[23:38:54	]Kranky has used a context menu option with the name: ixforcefieldstopmalfunction
+[23:39:00	]Kranky has used a context menu option with the name: ixforcefieldstartmalfunction
+[23:39:58	]Kranky has spawned 'models/props_junk/wood_crate002a.mdl'.
+[23:40:02	]Kranky has enabled persistence for 'models/willardnetworks/props/forcefield_right.mdl'.
+[23:40:02	]Kranky has used a context menu option with the name: persist
+[23:40:12	]Kranky has enabled persistence for 'models/props_junk/wood_crate002a.mdl'.
+[23:40:12	]Kranky has used a context menu option with the name: persist
+[23:40:14	]Kranky has spawned 'models/props_junk/wood_crate001a_damaged.mdl'.
+[23:40:19	]Kranky has enabled persistence for 'models/props_junk/wood_crate001a_damaged.mdl'.
+[23:40:19	]Kranky has used a context menu option with the name: persist
+[23:40:26	]Kranky has added static text: An old broken down forcefield lays here, partially powered. It seems to be in rough condition, being partially repaired shoddily by the crates nearby. Perhaps you may be able to repair it correctly with the materials provided.
+[23:40:26	]Kranky used command '/AdminSceneText An old broken down forcefield lays here, partially powered. It seems to be in rough condition, being partially repaired shoddily by the crates nearby. Perhaps you may be able to repair it correctly with the materials provided.'.
+[23:40:48	]Kranky entered observer.
+[23:41:07	]Kranky exited observer at their location.
+[23:41:08	]Kranky entered observer.
+[23:41:12	]Kranky exited observer at their location.
+[23:41:14	]Kranky entered observer.
+[23:41:26	]Kranky has fired a toolgun with the name: creator
+[23:41:26	]Kranky has spawned a 'Entity [741][ix_forcefield]'.
+[23:41:28	]Kranky has fired a toolgun with the name: creator
+[23:41:28	]Kranky has spawned a 'Entity [741][ix_forcefield]'.
+[23:41:36	]Kranky has enabled persistence for 'models/willardnetworks/props/forcefield_right.mdl'.
+[23:41:36	]Kranky has used a context menu option with the name: persist
+[23:41:45	]Kranky exited observer at their location.
+[23:41:50	]Kranky entered observer.
+[23:41:57	]Kranky has fired a toolgun with the name: creator
+[23:41:57	]Kranky has spawned a 'Entity [741][ix_forcefield]'.
+[23:41:58	]Kranky has fired a toolgun with the name: creator
+[23:41:58	]Kranky has spawned a 'Entity [747][ix_forcefield]'.
+[23:42:02	]Kranky has fired a toolgun with the name: creator
+[23:42:02	]Kranky has spawned a 'Entity [741][ix_forcefield]'.
+[23:42:03	]Kranky has fired a toolgun with the name: creator
+[23:42:03	]Kranky has spawned a 'Entity [747][ix_forcefield]'.
+[23:42:09	]Kranky has fired a toolgun with the name: creator
+[23:42:09	]Kranky has spawned a 'Entity [741][ix_forcefield]'.
+[23:42:10	]Kranky has fired a toolgun with the name: creator
+[23:42:10	]Kranky has spawned a 'Entity [747][ix_forcefield]'.
+[23:42:11	]Kranky has fired a toolgun with the name: creator
+[23:42:11	]Kranky has spawned a 'Entity [741][ix_forcefield]'.
+[23:42:12	]Kranky has fired a toolgun with the name: creator
+[23:42:12	]Kranky has spawned a 'Entity [747][ix_forcefield]'.
+[23:42:16	]Kranky exited observer at their location.
+[23:42:18	]Kranky has used a context menu option with the name: ixforcefieldstartmalfunction
+[23:42:30	]Kranky entered observer.
+[23:43:50	]Kranky has fired a toolgun with the name: prop_door
+[23:43:56	]Kranky has fired a toolgun with the name: prop_door
+[23:43:58	]Kranky exited observer at their location.
+[23:43:59	]Kranky entered observer.
+[23:44:10	]Kranky exited observer at their location.
+[23:44:12	]Kranky has fired a toolgun with the name: prop_door
+[23:44:13	]Kranky entered observer.
+[23:44:19	]Kranky exited observer at their location.
+[23:44:21	]Kranky entered observer.
+[23:44:28	]Kranky has fired a toolgun with the name: prop_door
+[23:44:29	]Kranky exited observer at their location.
+[23:44:30	]Kranky has fired a toolgun with the name: prop_door
+[23:44:33	]Kranky has fired a toolgun with the name: prop_door
+[23:44:34	]Kranky has fired a toolgun with the name: prop_door
+[23:44:35	]Kranky entered observer.
+[23:44:39	]Kranky exited observer at their location.
+[23:44:40	]Kranky entered observer.
+[23:44:40	]Kranky exited observer at their location.
+[23:44:44	]Kranky entered observer.
+[23:48:58	]Kranky exited observer at their location.
+[23:49:48	]Kranky entered observer.
+[23:49:55	]Kranky has spawned a 'Entity [746][ix_console]'.
+[23:49:56	]Kranky exited observer at their location.
+[23:49:59	]Kranky entered observer.
+[23:50:02	]Kranky has spawned a 'Entity [746][ix_combinemonitor_small]'.
+[23:50:30	]Kranky has spawned 'models/props/crates/military_cargo_case.mdl'.
+[23:50:32	]Kranky exited observer at their location.
+[23:50:37	]Kranky has spawned 'models/props/coop_cementplant/coop_military_crate/coop_military_crate.mdl'.
+[23:50:41	]Kranky has spawned 'models/props/coop_cementplant/coop_military_crate/coop_military_crate.mdl'.
+[23:50:43	]Kranky has spawned 'models/props/coop_cementplant/coop_military_crate/coop_military_crate.mdl'.
+[23:50:54	]Kranky entered observer.
+[23:51:04	]Kranky has spawned 'models/props/crates/weapon_crate_a.mdl'.
+[23:51:16	][IC] Kranky: !warp.
+[23:51:28	]Kranky exited observer at their location.
+[23:51:36	]Kranky entered observer.
+[23:51:54	]Kranky exited observer at their location.
+[23:51:56	]Kranky has spawned 'models/props/de_dust/dust_aid_crate_74.mdl'.
+[23:54:07	]Kranky entered observer.
+[23:54:33	]Kranky has used a context menu option with the name: rb655_door_open
+[23:54:35	]Kranky has used a context menu option with the name: rb655_door_unlock
+[23:54:36	]Kranky has used a context menu option with the name: rb655_door_open
+[23:54:50	]Kranky exited observer at their location.
+[23:54:57	]Kranky entered observer.
+[23:55:05	]Kranky exited observer at their location.
+[23:55:07	]Kranky entered observer.
+[23:55:21	]Kranky exited observer at their location.
+[23:55:22	]Kranky entered observer.
+[23:55:36	]Kranky exited observer at their location.
+[23:55:42	]Kranky entered observer.
+[23:56:24	]Kranky exited observer at their location.
+[23:56:30	]Kranky entered observer.
+[23:56:42	]Kranky exited observer at their location.
+[23:56:44	]Kranky has spawned 'models/props/de_nuke/hr_nuke/metal_crate_001/metal_crate_003_48_low_e.mdl'.
+[23:56:45	]Kranky has spawned 'models/props/de_nuke/hr_nuke/metal_crate_001/metal_crate_004_32x64_b.mdl'.
+[23:56:58	]Kranky entered observer.
+[23:56:58	]Kranky has spawned 'models/props_debris/walldestroyed09a.mdl'.
+[23:57:06	]Kranky has spawned 'models/props_debris/concrete_debris128pile001a.mdl'.
+[23:57:07	]Kranky has spawned 'models/props_debris/concrete_debris256pile001a.mdl'.
+[23:57:12	]Kranky has fired a toolgun with the name: nocollideworld
+[23:57:13	]Kranky has fired a toolgun with the name: nocollideworld
+[23:57:20	]Kranky has spawned 'models/props_debris/concrete_debris256pile001a.mdl'.
+[23:57:26	]Kranky has fired a toolgun with the name: nocollideworld
+[23:57:31	]Kranky has spawned 'models/props_debris/concrete_debris256pile001a.mdl'.
+[23:57:34	]Kranky has fired a toolgun with the name: nocollideworld
+[23:57:40	]Kranky has spawned 'models/props_debris/concrete_debris256pile001a.mdl'.
+[23:57:45	]Kranky has fired a toolgun with the name: nocollideworld
+[23:57:53	]Kranky has spawned 'models/props_debris/concrete_debris256pile001a.mdl'.
+[23:57:57	]Kranky has fired a toolgun with the name: nocollideworld
+[23:58:10	]Kranky exited observer at their location.
+[23:58:12	]Kranky entered observer.
+[23:58:15	]Kranky has spawned 'models/props_debris/concrete_debris128pile001b.mdl'.
+[23:58:19	]Kranky exited observer at their location.
+[23:58:40	]Kranky has spawned 'models/props_debris/concrete_spawnchunk001h.mdl'.
+[23:58:43	]Kranky has spawned 'models/props_debris/concrete_spawnchunk001i.mdl'.
+[23:58:45	]Kranky entered observer.
+[23:58:47	]Kranky exited observer at their location.
+[23:58:48	]Kranky entered observer.
+[23:58:48	]Kranky exited observer at their location.
+[23:58:57	]Kranky entered observer.
+[23:59:08	]Kranky exited observer at their location.
+[23:59:08	]Kranky entered observer.
+[23:59:13	]Kranky has spawned 'models/props_debris/concrete_debris256pile001a.mdl'.
+[23:59:15	]Kranky has fired a toolgun with the name: nocollideworld
+[23:59:17	]Kranky has fired a toolgun with the name: nocollideworld
+[23:59:22	]Kranky has spawned 'models/props_debris/concrete_debris256pile001a.mdl'.
+[23:59:25	]Kranky has fired a toolgun with the name: nocollideworld
+[23:59:31	]Kranky has spawned 'models/props_debris/concrete_debris256pile001a.mdl'.
+[23:59:33	]Kranky has fired a toolgun with the name: nocollideworld
+[23:59:41	]Kranky has spawned 'models/props_debris/concrete_debris256pile001a.mdl'.
+[23:59:44	]Kranky has fired a toolgun with the name: nocollideworld
+[23:59:53	]Kranky has spawned 'models/props_debris/concrete_debris128pile001b.mdl'.
+[23:59:55	]Kranky has spawned 'models/props_debris/concrete_spawnchunk001b.mdl'.
+[23:59:56	]Kranky has spawned 'models/props_debris/concrete_debris128pile001a.mdl'.

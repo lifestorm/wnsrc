@@ -1,0 +1,1478 @@
+[21:27:05	]Tony The Tiger has connected.
+[21:28:07	]Tony The Tiger loaded the character 'Varos Atkins'
+[21:28:12	]Varos Atkins is fully healed.
+[21:28:24	]Varos Atkins entered observer.
+[21:28:58	]Varos Atkins exited observer at their location.
+[21:29:00	]Varos Atkins entered observer.
+[21:29:18	]Varos Atkins exited observer at their location.
+[21:29:26	]Varos Atkins has spawned a 'Entity [4902][ix_batterycharger]'.
+[21:29:28	]Varos Atkins has spawned a 'Entity [4941][ix_batterycharger]'.
+[21:29:28	]Varos Atkins has spawned a 'Entity [4917][ix_batterycharger]'.
+[21:29:29	]Varos Atkins has spawned a 'Entity [4920][ix_batterycharger]'.
+[21:29:34	]Varos Atkins has spawned a 'Entity [4892][ix_cwuterminal]'.
+[21:29:43	]Varos Atkins has spawned a 'Entity [4905][ix_discscanner]'.
+[21:29:44	]Varos Atkins has spawned a 'Entity [4913][ix_discscanner]'.
+[21:29:45	]Varos Atkins has spawned a 'Entity [4945][ix_discscanner]'.
+[21:29:46	]Varos Atkins has spawned a 'Entity [4953][ix_fabricator]'.
+[21:29:48	]Varos Atkins has spawned a 'Entity [4960][ix_fabricator]'.
+[21:29:49	]Varos Atkins has spawned a 'Entity [4898][ix_fabricator]'.
+[21:29:51	]Varos Atkins has spawned a 'Entity [131][ix_fabricator]'.
+[21:30:03	]Varos Atkins entered observer.
+[21:30:05	]Varos Atkins exited observer at their location.
+[21:30:13	]Varos Atkins used command '/CharGiveFlag varos petrnccvVnAbc'.
+[21:30:34	]Varos Atkins used command '/CharGiveFlag varos FfIiTtQqMm'.
+[21:30:45	]Varos Atkins used command '/CharGiveFlag varos CJL'.
+[21:31:34	]Varos Atkins entered observer.
+[21:31:42	]Varos Atkins exited observer at their location.
+[21:31:50	]Varos Atkins entered observer.
+[21:32:03	]Varos Atkins has spawned a 'Entity [4916][ix_fabricator]'.
+[21:32:07	]Varos Atkins exited observer at their location.
+[21:32:13	]Varos Atkins has spawned a 'Entity [4933][ix_fabricator]'.
+[21:32:18	]Varos Atkins entered observer.
+[21:33:02	]Varos Atkins exited observer at their location.
+[21:33:03	]Varos Atkins entered observer.
+[21:33:35	]Varos Atkins exited observer at their location.
+[21:34:13	]Varos Atkins has gained level 6 in the Speed skill.
+[21:34:13	]Varos Atkins entered observer.
+[21:34:15	]Varos Atkins exited observer at their location.
+[21:34:23	]Varos Atkins entered observer.
+[21:34:31	]Varos Atkins exited observer at their location.
+[21:34:47	]Varos Atkins entered observer.
+[21:34:52	]Varos Atkins exited observer at their location.
+[21:34:55	]Varos Atkins entered observer.
+[21:35:00	]Varos Atkins has used a context menu option with the name: rb655_dissolve
+[21:35:07	]Varos Atkins exited observer at their location.
+[21:35:28	]Varos Atkins ran 'insert' on item 'CWU Management Access Keycard' (#1855714)
+[21:35:28	]Varos Atkins has lost a 'CWU Management Access Keycard' #1855714.
+[21:35:29	]Varos Atkins ran 'insert' on item '#97982's Identity Card' (#1855712)
+[21:35:29	]Varos Atkins has lost a '#97982's Identity Card' #1855712.
+[21:35:34	]Varos Atkins ran 'take' on item '#97982's Identity Card' (#1855712)
+[21:35:34	]Varos Atkins has gained a '#97982's Identity Card' #1855712.
+[21:35:35	]Varos Atkins ran 'take' on item 'CWU Management Access Keycard' (#1855714)
+[21:35:35	]Varos Atkins has gained a 'CWU Management Access Keycard' #1855714.
+[21:35:39	]Varos Atkins ran 'insert' on item 'CWU Management Access Keycard' (#1855714)
+[21:35:39	]Varos Atkins has lost a 'CWU Management Access Keycard' #1855714.
+[21:35:40	]Varos Atkins ran 'insert' on item '#97982's Identity Card' (#1855712)
+[21:35:40	]Varos Atkins has lost a '#97982's Identity Card' #1855712.
+[21:35:49	]Varos Atkins entered observer.
+[21:35:49	]Varos Atkins exited observer at their location.
+[21:36:36	]Varos Atkins has spawned a 'Entity [2955][ix_rationdispenser]'.
+[21:36:42	]Varos Atkins has spawned a 'Entity [3980][ix_pickupcache]'.
+[21:36:44	]Varos Atkins has spawned a 'Entity [3980][ix_pickupterminal]'.
+[21:36:45	]Varos Atkins has spawned a 'Entity [4910][ix_pickupterminal]'.
+[21:36:46	]Varos Atkins has spawned a 'Entity [4937][ix_pickupterminal]'.
+[21:36:55	]Varos Atkins has spawned a 'Entity [4884][ix_cwuterminal]'.
+[21:36:57	]Varos Atkins has spawned a 'Entity [4884][acwatt_gauss_rifle_bullet_rifle]'.
+[21:36:59	]Varos Atkins has spawned a 'Entity [4949][ix_pickupterminal]'.
+[21:37:01	]Varos Atkins has spawned a 'Entity [4927][ix_shopterminal]'.
+[21:37:04	]Varos Atkins has spawned a 'Entity [4878][ix_workshiftterminal]'.
+[21:37:06	]Varos Atkins has spawned a 'Entity [2955][ix_terminal]'.
+[21:37:08	]Varos Atkins entered observer.
+[21:37:09	]Varos Atkins exited observer at their location.
+[21:37:18	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[21:37:20	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001a.mdl'.
+[21:37:31	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001a.mdl'.
+[21:37:42	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001a.mdl'.
+[21:37:44	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001a.mdl'.
+[21:37:51	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001a.mdl'.
+[21:38:25	]Varos Atkins has spawned a datadisc.
+[21:38:28	]Varos Atkins ran 'take' on item 'Data-Disc' (#2054846)
+[21:38:28	]Varos Atkins has gained a 'Data-Disc' #2054846.
+[21:38:29	]Varos Atkins has spawned a datadisc.
+[21:38:37	]Varos Atkins has spawned a combinebattery.
+[21:38:41	]Varos Atkins ran 'take' on item 'Combine Battery' (#2054848)
+[21:38:41	]Varos Atkins has gained a 'Combine Battery' #2054848.
+[21:38:43	]Varos Atkins ran 'SetFullCharge' on item 'Combine Battery' (#2054848)
+[21:38:45	]Varos Atkins ran 'drop' on item 'Combine Battery' (#2054848)
+[21:38:45	]Varos Atkins has lost a 'Combine Battery' #2054848.
+[21:38:55	]Varos Atkins ran 'take' on item 'Data-Disc' (#2054847)
+[21:38:55	]Varos Atkins has gained a 'Data-Disc' #2054847.
+[21:39:13	]Varos Atkins ran 'drop' on item 'Data-Disc' (#2054847)
+[21:39:13	]Varos Atkins has lost a 'Data-Disc' #2054847.
+[21:39:17	]Varos Atkins ran 'drop' on item 'Data-Disc' (#2054846)
+[21:39:17	]Varos Atkins has lost a 'Data-Disc' #2054846.
+[21:39:37	]Varos Atkins ran 'take' on item 'Data-Disc' (#2054846)
+[21:39:37	]Varos Atkins has gained a 'Data-Disc' #2054846.
+[21:39:41	]Varos Atkins entered observer.
+[21:39:42	]Varos Atkins exited observer at their location.
+[21:40:17	]Varos Atkins has fired a toolgun with the name: remover
+[21:40:18	]Varos Atkins has fired a toolgun with the name: remover
+[21:40:18	]Varos Atkins has fired a toolgun with the name: remover
+[21:40:18	]Varos Atkins has fired a toolgun with the name: remover
+[21:40:50	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[21:41:00	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[21:41:39	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[21:41:52	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[21:42:42	]Varos Atkins entered observer.
+[21:42:43	]Varos Atkins exited observer at their location.
+[21:42:46	]Varos Atkins ran 'take' on item '#97982's Identity Card' (#1855712)
+[21:42:46	]Varos Atkins has gained a '#97982's Identity Card' #1855712.
+[21:42:47	]Varos Atkins ran 'take' on item 'CWU Management Access Keycard' (#1855714)
+[21:42:47	]Varos Atkins has gained a 'CWU Management Access Keycard' #1855714.
+[21:42:48	]Varos Atkins entered observer.
+[21:42:48	]Varos Atkins exited observer at their location.
+[21:42:56	]Varos Atkins ran 'SetAccessLevel' on item 'CWU Management Access Keycard' (#1855714)
+[21:42:58	]Varos Atkins ran 'SetAccessLevel' on item 'CWU Member Access Keycard' (#1855714)
+[21:43:02	]Varos Atkins ran 'SetFaction' on item 'CWU Management Access Keycard' (#1855714)
+[21:43:09	]Varos Atkins entered observer.
+[21:43:12	]Varos Atkins exited observer at their location.
+[21:43:18	]Varos Atkins entered observer.
+[21:43:29	]Varos Atkins ran 'take' on item 'Data-Disc' (#2054847)
+[21:43:29	]Varos Atkins has gained a 'Data-Disc' #2054847.
+[21:43:45	]Varos Atkins exited observer at their location.
+[21:43:47	]Varos Atkins ran 'SetFullCharge' on item 'Combine Battery' (#2054848)
+[21:44:02	]Varos Atkins ran 'SetFullCharge' on item 'Combine Battery' (#2054848)
+[21:44:09	]Varos Atkins has spawned a combinebattery.
+[21:44:27	]Varos Atkins ran 'SetFullCharge' on item 'Combine Battery' (#2054849)
+[21:44:29	]Varos Atkins ran 'SetFullCharge' on item 'Combine Battery' (#2054849)
+[21:45:06	]Varos Atkins has spawned a combinebattery.
+[21:45:16	]Varos Atkins ran 'take' on item 'Combine Battery' (#2054850)
+[21:45:16	]Varos Atkins has gained a 'Combine Battery' #2054850.
+[21:45:44	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[21:46:03	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[21:46:26	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[21:46:38	]Varos Atkins entered observer.
+[21:46:41	]Varos Atkins exited observer at their location.
+[21:46:54	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[21:46:59	]Varos Atkins entered observer.
+[21:47:00	]Varos Atkins exited observer at their location.
+[21:47:14	]Varos Atkins entered observer.
+[21:47:16	]Varos Atkins exited observer at their location.
+[21:47:33	]Varos Atkins entered observer.
+[21:47:35	]Varos Atkins exited observer at their location.
+[21:50:10	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001c.mdl'.
+[21:50:25	]Varos Atkins has spawned 'models/props_wasteland/exterior_fence002b.mdl'.
+[21:50:27	]Varos Atkins has spawned 'models/props_wasteland/exterior_fence001a.mdl'.
+[21:50:32	]Varos Atkins has spawned 'models/props_wasteland/exterior_fence_notbarbed002b.mdl'.
+[21:50:58	]Varos Atkins entered observer.
+[21:51:15	]Varos Atkins exited observer at their location.
+[21:51:16	]Varos Atkins entered observer.
+[21:51:18	]Varos Atkins exited observer at their location.
+[21:51:19	]Varos Atkins entered observer.
+[21:51:19	]Varos Atkins exited observer at their location.
+[21:51:25	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001e.mdl'.
+[21:51:38	]Varos Atkins entered observer.
+[21:51:49	]Varos Atkins exited observer at their location.
+[21:51:58	]Varos Atkins has spawned 'models/props_wasteland/interior_fence002f.mdl'.
+[21:52:08	]Varos Atkins entered observer.
+[21:52:09	]Varos Atkins exited observer at their location.
+[21:52:10	]Varos Atkins entered observer.
+[21:52:10	]Varos Atkins exited observer at their location.
+[21:52:14	]Varos Atkins entered observer.
+[21:52:17	]Varos Atkins exited observer at their location.
+[21:54:25	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001b.mdl'.
+[21:55:18	]Varos Atkins entered observer.
+[21:56:02	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[21:56:02	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001b.mdl'.
+[21:56:19	]Varos Atkins has fired a toolgun with the name: nocollideworld
+[21:56:49	]Varos Atkins exited observer at their location.
+[21:56:55	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001g.mdl'.
+[21:57:02	]Varos Atkins entered observer.
+[21:57:03	]Varos Atkins exited observer at their location.
+[21:57:18	]Varos Atkins has fired a toolgun with the name: nocollideworld
+[21:57:21	]Varos Atkins has fired a toolgun with the name: weld
+[21:57:21	]Varos Atkins has fired a toolgun with the name: weld
+[21:57:22	]Varos Atkins has fired a toolgun with the name: weld
+[21:57:23	]Varos Atkins has fired a toolgun with the name: weld
+[21:57:23	]Varos Atkins has fired a toolgun with the name: weld
+[21:57:23	]Varos Atkins entered observer.
+[21:57:24	]Varos Atkins has fired a toolgun with the name: weld
+[21:57:25	]Varos Atkins exited observer at their location.
+[21:57:28	]Varos Atkins entered observer.
+[21:57:29	]Varos Atkins has fired a toolgun with the name: weld
+[21:57:29	]Varos Atkins has fired a toolgun with the name: weld
+[21:57:30	]Varos Atkins has fired a toolgun with the name: weld
+[21:57:31	]Varos Atkins has fired a toolgun with the name: weld
+[21:57:31	]Varos Atkins has fired a toolgun with the name: weld
+[21:57:32	]Varos Atkins has fired a toolgun with the name: weld
+[21:57:33	]Varos Atkins has fired a toolgun with the name: weld
+[21:57:34	]Varos Atkins has fired a toolgun with the name: weld
+[21:57:36	]Varos Atkins exited observer at their location.
+[21:57:42	]Varos Atkins entered observer.
+[21:57:52	]Varos Atkins exited observer at their location.
+[21:58:12	]Varos Atkins entered observer.
+[21:58:14	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[21:58:14	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001c.mdl'.
+[21:58:15	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[21:58:15	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001c.mdl'.
+[21:58:18	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[21:58:18	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001b.mdl'.
+[21:58:24	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[21:58:24	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001b.mdl'.
+[21:58:46	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[21:58:46	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001b.mdl'.
+[21:58:50	]Varos Atkins has used a context menu option with the name: remove
+[21:59:01	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[21:59:01	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001b.mdl'.
+[21:59:08	]Varos Atkins has used a context menu option with the name: remove
+[21:59:12	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[21:59:12	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001b.mdl'.
+[21:59:13	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[21:59:13	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001b.mdl'.
+[21:59:16	]Varos Atkins has used a context menu option with the name: remove
+[21:59:17	]Varos Atkins has used a context menu option with the name: remove
+[21:59:20	]Varos Atkins has used a context menu option with the name: remove
+[21:59:22	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[21:59:22	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001c.mdl'.
+[21:59:27	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[21:59:27	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001e.mdl'.
+[21:59:29	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[21:59:29	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001e.mdl'.
+[21:59:44	]Varos Atkins has fired a toolgun with the name: remover
+[21:59:45	]Varos Atkins has fired a toolgun with the name: remover
+[21:59:46	]Varos Atkins has fired a toolgun with the name: remover
+[21:59:47	]Varos Atkins exited observer at their location.
+[22:00:00	]Varos Atkins has spawned a 'Entity [4958][ix_cwuterminal]'.
+[22:00:02	]Varos Atkins has spawned a 'Entity [4882][ix_workshiftterminal]'.
+[22:00:40	]Varos Atkins has spawned a 'Entity [4928][ix_workshiftterminal]'.
+[22:00:51	]Varos Atkins entered observer.
+[22:00:55	]Varos Atkins exited observer at their location.
+[22:01:21	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[22:01:22	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[22:01:27	]Varos Atkins has spawned a 'Entity [4934][ix_pickupterminal]'.
+[22:01:28	]Varos Atkins has spawned a 'Entity [4950][ix_shopterminal]'.
+[22:01:32	]Varos Atkins has spawned a 'Entity [4967][ix_workshiftterminal]'.
+[22:01:46	]Varos Atkins has spawned a 'Entity [4944][ix_workshiftterminal]'.
+[22:02:37	]Varos Atkins has spawned 'models/props_trainstation/traincar_seats001.mdl'.
+[22:02:51	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001g.mdl'.
+[22:02:53	]Varos Atkins entered observer.
+[22:02:54	]Varos Atkins exited observer at their location.
+[22:03:00	]Varos Atkins entered observer.
+[22:03:01	]Varos Atkins exited observer at their location.
+[22:03:07	]Varos Atkins entered observer.
+[22:03:09	]Varos Atkins exited observer at their location.
+[22:03:13	]Varos Atkins has fired a toolgun with the name: nocollideworld
+[22:03:15	]Varos Atkins entered observer.
+[22:03:16	]Varos Atkins has fired a toolgun with the name: weld
+[22:03:17	]Varos Atkins has fired a toolgun with the name: weld
+[22:03:17	]Varos Atkins has fired a toolgun with the name: weld
+[22:03:18	]Varos Atkins has fired a toolgun with the name: weld
+[22:03:19	]Varos Atkins has fired a toolgun with the name: weld
+[22:03:19	]Varos Atkins has fired a toolgun with the name: weld
+[22:03:21	]Varos Atkins has fired a toolgun with the name: weld
+[22:03:21	]Varos Atkins has fired a toolgun with the name: weld
+[22:03:28	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[22:03:28	]Varos Atkins has spawned 'models/props_wasteland/exterior_fence_notbarbed002b.mdl'.
+[22:03:29	]Varos Atkins has fired a toolgun with the name: weld
+[22:03:30	]Varos Atkins has fired a toolgun with the name: weld
+[22:03:30	]Varos Atkins has fired a toolgun with the name: weld
+[22:03:30	]Varos Atkins has fired a toolgun with the name: weld
+[22:03:31	]Varos Atkins has fired a toolgun with the name: weld
+[22:03:31	]Varos Atkins has fired a toolgun with the name: weld
+[22:03:32	]Varos Atkins exited observer at their location.
+[22:03:40	]Varos Atkins has used a context menu option with the name: rb655_dissolve
+[22:03:44	]Varos Atkins has used a context menu option with the name: rb655_dissolve
+[22:03:51	]Varos Atkins entered observer.
+[22:04:38	][CG] Delta has connected.
+[22:04:44	]Varos Atkins exited observer at their location.
+[22:05:43	][CG] Delta loaded the character 'Harvey Dalloway'
+[22:05:48	]Harvey Dalloway is fully healed.
+[22:06:17	]Harvey Dalloway used command '/PM varos where's the mockup then'.
+[22:06:25	]Varos Atkins ran SAM command 'bring' with arguments: 'harvey'
+[22:06:30	][IC] Varos Atkins: Still wip.
+[22:06:34	]Varos Atkins has fired a toolgun with the name: light
+[22:06:35	]Varos Atkins has fired a toolgun with the name: light
+[22:06:36	]Varos Atkins has fired a toolgun with the name: light
+[22:06:37	]Varos Atkins has fired a toolgun with the name: light
+[22:06:38	][IC] Harvey Dalloway: I can tell.
+[22:06:38	]Varos Atkins has fired a toolgun with the name: light
+[22:06:39	]Varos Atkins has fired a toolgun with the name: light
+[22:06:40	]Varos Atkins has fired a toolgun with the name: light
+[22:06:48	][Y] Varos Atkins: Come here.
+[22:06:54	][IC] Varos Atkins: Sign in area.
+[22:07:03	][IC] Harvey Dalloway: Yeah, basically all of these get turned on at once.
+[22:07:07	][IC] Varos Atkins: Yeah!
+[22:07:12	][IC] Varos Atkins: So no more multiple shifts.
+[22:07:15	][IC] Varos Atkins: Ok so.
+[22:07:17	]Varos Atkins entered observer.
+[22:07:18	]Varos Atkins exited observer at their location.
+[22:07:26	][IC] Varos Atkins: Pick the battery up.
+[22:07:34	][IC] Varos Atkins: Grab it.
+[22:07:39	][IC] Varos Atkins: ARe you able to.
+[22:07:43	][IC] Harvey Dalloway: No.
+[22:07:59	][IC] Varos Atkins: Thats a bug.
+[22:08:02	]Varos Atkins has spawned a combinebattery.
+[22:08:09	][LOOC] Harvey Dalloway: I know, me and osi found it
+[22:08:25	][OOC] Varos Atkins: should the fabricators be here?
+[22:08:27	][IC] Harvey Dalloway: Same goes for if it's on here.
+[22:08:29	]Varos Atkins has used a context menu option with the name: remove
+[22:08:34	]Varos Atkins has spawned a combinebattery.
+[22:08:56	][IC] Harvey Dalloway: That's slightly different but basically the same deal.
+[22:08:59	]Varos Atkins ran 'SetFullCharge' on item 'Combine Battery' (#2054852)
+[22:09:02	][IC] Varos Atkins: Ok.
+[22:09:04	][IC] Varos Atkins: Another bug.
+[22:09:07	][IC] Varos Atkins: How does this look tho.
+[22:09:09	][IC] Varos Atkins: Or should i move it.
+[22:09:11	]Varos Atkins entered observer.
+[22:09:12	]Varos Atkins exited observer at their location.
+[22:09:23	]Varos Atkins entered observer.
+[22:09:23	]Varos Atkins exited observer at their location.
+[22:09:32	][IC] Harvey Dalloway: Having stuff up here is good, it'll actually make it so up here is usefull.
+[22:10:17	][IC] Varos Atkins: Yeah but.
+[22:10:21	][IC] Varos Atkins: The fabricators.
+[22:10:27	][IC] Harvey Dalloway: Yeah they're good.
+[22:10:28	][IC] Varos Atkins: Should i move them to another spot in this room.
+[22:10:32	][IC] Varos Atkins: We need more tho..
+[22:10:41	]Varos Atkins entered observer.
+[22:10:45	][IC] Harvey Dalloway: Maybe get rid of all this extra shit.
+[22:11:01	]Varos Atkins has fired a toolgun with the name: weld
+[22:11:02	]Varos Atkins has fired a toolgun with the name: weld
+[22:11:11	]Varos Atkins exited observer at their location.
+[22:11:19	]Varos Atkins entered observer.
+[22:11:20	]Harvey Dalloway ran 'Use' on item '20 Credits Coupon' (#2053207)
+[22:11:23	]Varos Atkins exited observer at their location.
+[22:11:23	]Harvey Dalloway ran 'Use' on item '20 Credits Coupon' (#2053207)
+[22:11:23	]Varos Atkins entered observer.
+[22:11:24	]Varos Atkins exited observer at their location.
+[22:11:26	]Varos Atkins entered observer.
+[22:11:29	]Harvey Dalloway ran 'Use' on item '20 Credits Coupon' (#2053207)
+[22:11:36	]Varos Atkins has fired a toolgun with the name: weld
+[22:11:36	]Varos Atkins has fired a toolgun with the name: weld
+[22:11:43	]Varos Atkins exited observer at their location.
+[22:11:57	][IC] Harvey Dalloway: Is it just me or does the civil terminals and litterally anything else just like... Not work on here?
+[22:12:07	][IC] Varos Atkins: Work for me.
+[22:12:12	][IC] Harvey Dalloway: No like with coupons.
+[22:12:15	]Harvey Dalloway ran 'Use' on item '20 Credits Coupon' (#2053207)
+[22:12:31	][IC] Harvey Dalloway: See?
+[22:12:33	][IC] Varos Atkins: Interesting.
+[22:12:37	][IC] Varos Atkins: Will repor it.
+[22:12:47	][IC] Harvey Dalloway: RDT terminal also doesn't work.
+[22:12:50	]Varos Atkins entered observer.
+[22:12:55	]Varos Atkins exited observer at their location.
+[22:12:56	]Varos Atkins entered observer.
+[22:13:00	][IC] Harvey Dalloway: Like it never dispenses.
+[22:13:17	]Varos Atkins exited observer at their location.
+[22:13:18	]Varos Atkins entered observer.
+[22:13:18	]Varos Atkins exited observer at their location.
+[22:13:25	]Varos Atkins has fired a toolgun with the name: nocollideworld
+[22:14:05	][OOC] Varos Atkins: uhoh
+[22:14:24	][IC] Harvey Dalloway: Don't forget, these things have melons as hitboxes.
+[22:14:31	]Varos Atkins has used a context menu option with the name: rb655_dissolve
+[22:14:36	]Varos Atkins has fired a toolgun with the name: remover
+[22:14:37	]Varos Atkins has fired a toolgun with the name: remover
+[22:14:37	]Varos Atkins has fired a toolgun with the name: remover
+[22:14:37	]Varos Atkins has fired a toolgun with the name: remover
+[22:14:38	]Varos Atkins has fired a toolgun with the name: remover
+[22:14:38	]Varos Atkins has fired a toolgun with the name: remover
+[22:14:39	]Varos Atkins has fired a toolgun with the name: remover
+[22:14:40	]Varos Atkins has fired a toolgun with the name: remover
+[22:14:41	]Varos Atkins has fired a toolgun with the name: remover
+[22:14:41	]Varos Atkins has fired a toolgun with the name: remover
+[22:14:41	]Varos Atkins has fired a toolgun with the name: remover
+[22:14:42	]Varos Atkins has fired a toolgun with the name: remover
+[22:14:42	]Varos Atkins has fired a toolgun with the name: remover
+[22:14:43	]Varos Atkins has fired a toolgun with the name: remover
+[22:14:43	]Varos Atkins has fired a toolgun with the name: remover
+[22:14:44	]Varos Atkins has fired a toolgun with the name: remover
+[22:14:44	]Varos Atkins has fired a toolgun with the name: remover
+[22:14:44	]Varos Atkins has fired a toolgun with the name: remover
+[22:14:56	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[22:15:17	]Varos Atkins has spawned a 'Entity [4982][ix_fabricator]'.
+[22:15:33	][OOC] Varos Atkins: we need to utilize some space
+[22:15:44	][OOC] Varos Atkins: we can have like a "Foremans Office or some shit
+[22:16:00	]Varos Atkins entered observer.
+[22:16:01	]Varos Atkins exited observer at their location.
+[22:16:06	]Varos Atkins entered observer.
+[22:16:07	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:07	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:07	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:07	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:08	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:08	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:08	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:09	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:09	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:09	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:10	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:11	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:11	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:12	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:12	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:13	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:13	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:13	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:14	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:15	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:15	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:16	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:16	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:17	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:18	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:26	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:27	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:42	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:43	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:45	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:45	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:46	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:46	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:47	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:47	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:48	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:49	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:49	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:50	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:50	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:51	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:51	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:52	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:52	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:53	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:53	]Varos Atkins has fired a toolgun with the name: weld
+[22:16:54	]Varos Atkins has fired a toolgun with the name: weld
+[22:17:00	]Varos Atkins exited observer at their location.
+[22:17:30	][IC] Varos Atkins: Where should we put the chargers.
+[22:17:33	]MelonHeadzzz has connected.
+[22:17:36	][IC] Harvey Dalloway: I guess, we losing the one in warehouse 3 or something?
+[22:17:39	][IC] Varos Atkins: No.
+[22:17:44	][IC] Varos Atkins: Where r we putting the chargers.
+[22:18:26	][IC] Harvey Dalloway: We put a little room over here to fill the space, put the chargers along the outer wall of it.
+[22:18:32	]Varos Atkins used command '/CharGiveFlag harvey pet'.
+[22:18:37	]Varos Atkins has used a context menu option with the name: remove
+[22:18:39	][IC] Harvey Dalloway: I already had them.
+[22:18:41	][IC] Varos Atkins: You wanna prop that?
+[22:18:46	][IC] Harvey Dalloway: I'll give it a go.
+[22:18:54	]Varos Atkins has used a context menu option with the name: remove
+[22:18:55	]Varos Atkins has used a context menu option with the name: remove
+[22:18:55	]MelonHeadzzz loaded the character 'Tahh'Koh-Jurr'
+[22:18:55	]Tahh'Koh-Jurr their 'sewer stash' stash no longer exists, location reset.
+[22:18:56	]Varos Atkins has used a context menu option with the name: remove
+[22:18:59	]Harvey Dalloway has spawned 'models/hunter/plates/plate4x7.mdl'.
+[22:19:00	]Tahh'Koh-Jurr is fully healed.
+[22:19:04	][OOC] Varos Atkins: nothing crazy
+[22:19:06	]Harvey Dalloway has spawned 'models/hunter/plates/plate2x7.mdl'.
+[22:19:08	][OOC] Tahh'Koh-Jurr: AH
+[22:19:09	]Harvey Dalloway has spawned 'models/hunter/plates/plate1x3.mdl'.
+[22:19:10	][OOC] Tahh'Koh-Jurr: AAAAH
+[22:19:10	]Tahh'Koh-Jurr entered observer.
+[22:19:11	]Harvey Dalloway has spawned 'models/hunter/plates/plate1x4.mdl'.
+[22:19:12	]Harvey Dalloway has spawned 'models/hunter/plates/plate1x6.mdl'.
+[22:19:16	][OOC] Harvey Dalloway: what
+[22:19:21	][OOC] Tahh'Koh-Jurr: AAAAAAAAAAAAAAH
+[22:19:22	][OOC] Tahh'Koh-Jurr: PEOPLE
+[22:19:23	]Varos Atkins entered observer.
+[22:19:25	]Varos Atkins exited observer at their location.
+[22:19:30	]Tahh'Koh-Jurr exited observer.
+[22:19:34	]Tahh'Koh-Jurr ran SAM command 'goto' with arguments: 'harvey'
+[22:19:35	][IC] Tahh'Koh-Jurr: Gong...
+[22:19:36	]Harvey Dalloway has fired a toolgun with the name: material
+[22:19:42	]Harvey Dalloway has fired a toolgun with the name: material
+[22:19:45	]Harvey Dalloway has fired a toolgun with the name: material
+[22:19:50	][OOC] Varos Atkins: replicate the same texture
+[22:19:51	]Harvey Dalloway has fired a toolgun with the name: material
+[22:19:53	]Tahh'Koh-Jurr has given himself a ing_vegetable_pack.
+[22:19:53	]Tahh'Koh-Jurr has gained a 'Vegetable Package' #2054853.
+[22:19:54	]Tahh'Koh-Jurr has given himself a comfort_soup.
+[22:19:54	]Tahh'Koh-Jurr has gained a 'Vegetable Soup' #2054854.
+[22:19:58	]Tahh'Koh-Jurr ran 'drop' on item 'Vegetable Package' (#2054853)
+[22:19:58	]Tahh'Koh-Jurr has lost a 'Vegetable Package' #2054853.
+[22:20:03	][OOC] Harvey Dalloway: close enough?
+[22:20:13	][OOC] Varos Atkins: let me see if i can find it in sub material
+[22:20:21	]Tahh'Koh-Jurr ran 'take' on item 'Vegetable Package' (#2054853)
+[22:20:21	]Tahh'Koh-Jurr has gained a 'Vegetable Package' #2054853.
+[22:20:22	]Varos Atkins has spawned 'models/pg_props/pg_hospital/pg_optable.mdl'.
+[22:20:24	]Tahh'Koh-Jurr ran 'drop' on item 'Vegetable Package' (#2054853)
+[22:20:24	]Tahh'Koh-Jurr has lost a 'Vegetable Package' #2054853.
+[22:20:43	]Tahh'Koh-Jurr has used a context menu option with the name: remove
+[22:20:54	][IC] Tahh'Koh-Jurr: Aight whats going on here.
+[22:20:54	]Harvey Dalloway has spawned 'models/hunter/plates/plate3x3.mdl'.
+[22:20:57	]Harvey Dalloway has spawned 'models/hunter/plates/plate2x5.mdl'.
+[22:20:57	]Varos Atkins has taken 10 damage from prop_physics.
+[22:20:58	][IC] Varos Atkins: I am doing a mockup.
+[22:21:00	]Harvey Dalloway has spawned 'models/hunter/plates/plate2x2.mdl'.
+[22:21:06	]Harvey Dalloway has spawned 'models/hunter/plates/plate2x3.mdl'.
+[22:21:08	][OOC] Varos Atkins: doing a mockup to see what we can use this floor
+[22:21:11	][OOC] Varos Atkins: best way possible
+[22:21:21	][OOC] Tahh'Koh-Jurr: the model changed for gears of industry
+[22:21:22	]Harvey Dalloway has fired a toolgun with the name: material
+[22:21:28	][OOC] Tahh'Koh-Jurr: the fabricator has a different button no
+[22:21:51	]Harvey Dalloway has spawned 'models/hunter/plates/plate2x4.mdl'.
+[22:21:56	]Harvey Dalloway has fired a toolgun with the name: material
+[22:21:59	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[22:22:01	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001a.mdl'.
+[22:22:03	]Harvey Dalloway has spawned 'models/hunter/plates/plate1x6.mdl'.
+[22:22:06	]Harvey Dalloway has spawned 'models/hunter/plates/plate4x4.mdl'.
+[22:22:09	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[22:22:09	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001a.mdl'.
+[22:22:10	]Harvey Dalloway has spawned 'models/hunter/plates/plate1x4.mdl'.
+[22:22:11	]Harvey Dalloway has fired a toolgun with the name: material
+[22:22:17	]Tahh'Koh-Jurr has spawned a ing_vegetable_pack.
+[22:22:20	][LOOC] Harvey Dalloway: I wish we could rotate materials
+[22:22:27	]Varos Atkins entered observer.
+[22:22:30	]Varos Atkins exited observer at their location.
+[22:22:31	]Harvey Dalloway has spawned 'models/hunter/plates/plate2x5.mdl'.
+[22:22:34	]Harvey Dalloway has spawned 'models/hunter/plates/plate075x075.mdl'.
+[22:22:35	]Tahh'Koh-Jurr ran 'take' on item 'Resin' (#2054856)
+[22:22:35	]Tahh'Koh-Jurr has gained a 'Resin' #2054856.
+[22:22:38	]Varos Atkins has spawned a 'Entity [4951][ix_batterycharger]'.
+[22:22:38	]Varos Atkins entered observer.
+[22:22:39	]Harvey Dalloway has fired a toolgun with the name: submaterial
+[22:22:41	]Harvey Dalloway has fired a toolgun with the name: submaterial
+[22:22:43	]Varos Atkins exited observer at their location.
+[22:22:47	]Harvey Dalloway has fired a toolgun with the name: submaterial
+[22:22:52	]Varos Atkins has spawned a 'Entity [4894][ix_batterycharger]'.
+[22:22:59	]Tahh'Koh-Jurr has spawned a baking_bagel.
+[22:23:01	][OOC] Varos Atkins: i figured out how we make money for our district
+[22:23:11	][OOC] Varos Atkins: basically each city has a set of items they want to buy
+[22:23:12	][OOC] Tahh'Koh-Jurr: how
+[22:23:14	][OOC] Varos Atkins: for example
+[22:23:16	][LOOC] Harvey Dalloway: it is the same material it's just the lighting's a bit wonky with it
+[22:23:17	]Tahh'Koh-Jurr ran 'take' on item 'Biopaste' (#2054858)
+[22:23:17	]Tahh'Koh-Jurr has gained a 'Biopaste' #2054858.
+[22:23:20	]Harvey Dalloway has spawned 'models/hunter/plates/plate075x105.mdl'.
+[22:23:22	]Harvey Dalloway has spawned 'models/hunter/plates/plate1x4.mdl'.
+[22:23:22	][OOC] Varos Atkins: city 2 wants to buy adredaline or however u spell it
+[22:23:23	]Varos Atkins entered observer.
+[22:23:24	]Varos Atkins exited observer at their location.
+[22:23:27	]Harvey Dalloway has spawned 'models/hunter/plates/plate3x3.mdl'.
+[22:23:29	]Harvey Dalloway has spawned 'models/hunter/plates/plate2x3.mdl'.
+[22:23:30	][OOC] Varos Atkins: so we can make them and sell it
+[22:23:32	]Harvey Dalloway has fired a toolgun with the name: submaterial
+[22:23:53	]Harvey Dalloway has spawned 'models/hunter/plates/plate1x1.mdl'.
+[22:23:54	][Y] Varos Atkins: Harvey.
+[22:23:56	]Harvey Dalloway has spawned 'models/hunter/plates/plate2x2.mdl'.
+[22:24:00	]Harvey Dalloway has fired a toolgun with the name: submaterial
+[22:24:03	]Varos Atkins has spawned a 'Entity [4978][ix_combinemonitor_tv]'.
+[22:24:04	]Varos Atkins has spawned a 'Entity [5021][ix_combinemonitor_small]'.
+[22:24:04	]MelonHeadzzz loaded the character 'Ernest Descombes'
+[22:24:08	]Varos Atkins has spawned a 'Entity [5000][ix_combinemonitor]'.
+[22:24:09	]Ernest Descombes is fully healed.
+[22:24:11	]Varos Atkins has spawned a 'Entity [4908][ix_combinemonitor_small]'.
+[22:24:12	][IC] Harvey Dalloway: Christ.
+[22:24:15	]Ernest Descombes entered observer.
+[22:24:22	]Ernest Descombes exited observer.
+[22:24:23	]Varos Atkins entered observer.
+[22:24:23	]Ernest Descombes entered observer.
+[22:24:24	]Ernest Descombes exited observer.
+[22:24:25	]Varos Atkins exited observer at their location.
+[22:24:27	]Varos Atkins has used a context menu option with the name: remove
+[22:24:28	]Harvey Dalloway has spawned 'models/hunter/plates/plate1.mdl'.
+[22:24:32	]Harvey Dalloway has fired a toolgun with the name: submaterial
+[22:24:33	]Harvey Dalloway has fired a toolgun with the name: submaterial
+[22:24:37	]Ernest Descombes ran SAM command 'goto' with arguments: 'varos'
+[22:24:46	]Varos Atkins entered observer.
+[22:24:46	]Varos Atkins exited observer at their location.
+[22:24:52	]Ernest Descombes ran 'SetFullCharge' on item 'Combine Battery' (#2054852)
+[22:24:59	]Varos Atkins has spawned a 'Entity [4979][ix_batterycharger]'.
+[22:25:22	]Harvey Dalloway has spawned 'models/hunter/plates/plate075x2.mdl'.
+[22:25:24	]Harvey Dalloway has spawned 'models/hunter/plates/plate2x16.mdl'.
+[22:25:26	]Harvey Dalloway has spawned 'models/hunter/plates/plate1x5.mdl'.
+[22:25:30	]Ernest Descombes ran 'combine' on item 'Resin' (#2051465)
+[22:25:33	]Varos Atkins has spawned a 'Entity [4995][ix_batterycharger]'.
+[22:25:50	]Varos Atkins has spawned a 'Entity [4976][item_battery]'.
+[22:25:51	]Varos Atkins has spawned a 'Entity [4910][item_battery]'.
+[22:25:51	]Varos Atkins has spawned a 'Entity [4917][item_battery]'.
+[22:25:52	]Varos Atkins has spawned a 'Entity [4921][item_battery]'.
+[22:25:52	]Varos Atkins has spawned a 'Entity [4931][item_battery]'.
+[22:25:53	]Varos Atkins has spawned a 'Entity [4949][item_battery]'.
+[22:25:53	]Varos Atkins has spawned a 'Entity [5013][item_battery]'.
+[22:25:53	]Varos Atkins has spawned a 'Entity [4999][item_battery]'.
+[22:25:53	]Varos Atkins has spawned a 'Entity [5012][item_battery]'.
+[22:25:53	]Varos Atkins has spawned a 'Entity [5016][item_battery]'.
+[22:26:03	]Harvey Dalloway has fired a toolgun with the name: weld
+[22:26:03	]Harvey Dalloway has fired a toolgun with the name: weld
+[22:26:08	][OOC] Varos Atkins: yes you got the idea
+[22:26:09	]Varos Atkins entered observer.
+[22:26:10	]Varos Atkins exited observer at their location.
+[22:26:15	]Harvey Dalloway has spawned 'models/hunter/plates/plate075x075.mdl'.
+[22:26:17	]Harvey Dalloway has spawned 'models/hunter/plates/plate1x1.mdl'.
+[22:26:17	]Ernest Descombes has given himself a datadisc.
+[22:26:17	]Ernest Descombes has gained a 'Data-Disc' #2054859.
+[22:26:18	]Ernest Descombes has given himself a combinebattery.
+[22:26:18	]Ernest Descombes has gained a 'Combine Battery' #2054860.
+[22:26:20	]Ernest Descombes ran 'SetFullCharge' on item 'Combine Battery' (#2054860)
+[22:26:27	]Ernest Descombes ran 'drop' on item 'Combine Battery' (#2054860)
+[22:26:27	]Ernest Descombes has lost a 'Combine Battery' #2054860.
+[22:26:40	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[22:26:40	]Varos Atkins has spawned 'models/hunter/plates/plate2x2.mdl'.
+[22:26:40	]Harvey Dalloway has fired a toolgun with the name: material
+[22:26:42	]Varos Atkins entered observer.
+[22:26:42	]Harvey Dalloway has fired a toolgun with the name: material
+[22:26:43	]Ernest Descombes has spawned a combinebattery.
+[22:26:44	]Ernest Descombes ran 'SetFullCharge' on item 'Combine Battery' (#2054861)
+[22:26:49	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[22:26:49	]Varos Atkins has spawned 'models/hunter/plates/plate1x5.mdl'.
+[22:26:50	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[22:26:50	]Varos Atkins has spawned 'models/hunter/plates/plate1x1.mdl'.
+[22:26:51	]Ernest Descombes has spawned a combinebattery.
+[22:26:51	]Harvey Dalloway has spawned 'models/props_phx/construct/glass/glass_plate1x2.mdl'.
+[22:26:52	]Ernest Descombes has spawned a combinebattery.
+[22:26:53	]Ernest Descombes ran 'SetFullCharge' on item 'Combine Battery' (#2054863)
+[22:26:53	]Varos Atkins exited observer at their location.
+[22:26:54	]Ernest Descombes ran 'SetFullCharge' on item 'Combine Battery' (#2054862)
+[22:26:57	][IC] Varos Atkins: Wait a minute.
+[22:27:01	][IC] Varos Atkins: We can put no widnwo.
+[22:27:04	][IC] Varos Atkins: People can put trash.
+[22:27:06	][IC] Varos Atkins: On the tables.
+[22:27:14	]Harvey Dalloway has fired a toolgun with the name: stacker_improved
+[22:27:14	]Harvey Dalloway has spawned 'models/hunter/plates/plate1x5.mdl'.
+[22:27:16	]Harvey Dalloway has fired a toolgun with the name: stacker_improved
+[22:27:16	]Harvey Dalloway has spawned 'models/hunter/plates/plate1x1.mdl'.
+[22:27:20	]Harvey Dalloway has fired a toolgun with the name: submaterial
+[22:27:21	]Harvey Dalloway has fired a toolgun with the name: submaterial
+[22:27:21	][OOC] Varos Atkins: wrong way
+[22:27:26	]Harvey Dalloway has fired a toolgun with the name: submaterial
+[22:27:27	][OOC] Varos Atkins: we dont need a window
+[22:27:39	][IC] Varos Atkins: Harvey.
+[22:27:47	][IC] Varos Atkins: No window cause people can throw trash.
+[22:27:49	][IC] Varos Atkins: To the other side?
+[22:27:50	]Ernest Descombes entered observer.
+[22:27:52	][IC] Harvey Dalloway: Right.
+[22:27:53	]Ernest Descombes exited observer.
+[22:28:05	]Varos Atkins has fired a toolgun with the name: weld
+[22:28:06	]Varos Atkins has fired a toolgun with the name: weld
+[22:28:06	]Varos Atkins has fired a toolgun with the name: weld
+[22:28:06	]Varos Atkins has fired a toolgun with the name: weld
+[22:28:06	]Varos Atkins has fired a toolgun with the name: weld
+[22:28:07	]Varos Atkins has fired a toolgun with the name: weld
+[22:28:07	]Varos Atkins has fired a toolgun with the name: weld
+[22:28:08	]Varos Atkins has fired a toolgun with the name: weld
+[22:28:10	]Varos Atkins has fired a toolgun with the name: weld
+[22:28:10	]Varos Atkins has fired a toolgun with the name: weld
+[22:28:11	]Varos Atkins has fired a toolgun with the name: weld
+[22:28:11	]Varos Atkins has fired a toolgun with the name: weld
+[22:28:12	]Varos Atkins entered observer.
+[22:28:12	]Harvey Dalloway has fired a toolgun with the name: weld
+[22:28:13	]Varos Atkins has fired a toolgun with the name: weld
+[22:28:13	]Harvey Dalloway has fired a toolgun with the name: weld
+[22:28:13	]Varos Atkins has fired a toolgun with the name: weld
+[22:28:13	]Varos Atkins has fired a toolgun with the name: weld
+[22:28:13	]Harvey Dalloway has fired a toolgun with the name: weld
+[22:28:14	]Harvey Dalloway has fired a toolgun with the name: weld
+[22:28:14	]Varos Atkins has fired a toolgun with the name: weld
+[22:28:14	]Harvey Dalloway has fired a toolgun with the name: weld
+[22:28:15	]Harvey Dalloway has fired a toolgun with the name: weld
+[22:28:16	]Harvey Dalloway has fired a toolgun with the name: weld
+[22:28:17	]Varos Atkins exited observer at their location.
+[22:28:17	]Harvey Dalloway has fired a toolgun with the name: weld
+[22:28:19	]Harvey Dalloway has fired a toolgun with the name: weld
+[22:28:19	]Harvey Dalloway has fired a toolgun with the name: weld
+[22:28:39	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[22:28:39	]Varos Atkins has spawned 'models/hunter/plates/plate1.mdl'.
+[22:28:41	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[22:28:41	]Varos Atkins has spawned 'models/hunter/plates/plate1.mdl'.
+[22:28:46	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[22:28:46	]Varos Atkins has spawned 'models/hunter/plates/plate1.mdl'.
+[22:28:49	][IC] Harvey Dalloway: If we could adjust the scale the material is applied with it would match up pretty well.
+[22:28:51	]Varos Atkins has used a context menu option with the name: remove
+[22:28:53	]Varos Atkins has used a context menu option with the name: remove
+[22:29:03	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[22:29:03	]Varos Atkins has spawned 'models/hunter/plates/plate1.mdl'.
+[22:29:05	]Varos Atkins has used a context menu option with the name: remove
+[22:29:19	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[22:29:19	]Varos Atkins has spawned 'models/hunter/plates/plate1.mdl'.
+[22:29:22	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[22:29:31	]Varos Atkins has fired a toolgun with the name: stacker_improved
+[22:29:31	]Varos Atkins has spawned 'models/hunter/plates/plate1.mdl'.
+[22:29:32	]Ernest Descombes has given himself a biopaste.
+[22:29:32	]Ernest Descombes has gained a 'Biopaste' #2054864.
+[22:29:36	]Varos Atkins has fired a toolgun with the name: weld
+[22:29:36	]Varos Atkins has fired a toolgun with the name: weld
+[22:29:37	]Varos Atkins has fired a toolgun with the name: weld
+[22:29:38	]Varos Atkins has fired a toolgun with the name: weld
+[22:29:39	]Varos Atkins has fired a toolgun with the name: weld
+[22:29:39	]Varos Atkins has fired a toolgun with the name: weld
+[22:29:43	]Harvey Dalloway has spawned 'models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_office_desk_monitor.mdl'.
+[22:29:46	]Varos Atkins entered observer.
+[22:30:00	]Ernest Descombes ran 'take' on item 'Apple' (#2054865)
+[22:30:00	]Ernest Descombes has gained a 'Apple' #2054865.
+[22:30:02	]Varos Atkins exited observer at their location.
+[22:30:08	]Harvey Dalloway has spawned 'models/props/cs_office/computer_monitor.mdl'.
+[22:30:17	]Varos Atkins entered observer.
+[22:30:18	]Harvey Dalloway has fired a toolgun with the name: submaterial
+[22:30:19	]Varos Atkins exited observer at their location.
+[22:30:34	]Varos Atkins has spawned a 'Entity [4952][ix_discscanner]'.
+[22:30:40	][IC] Harvey Dalloway: I discovered this during the Carbon fiber shifts, cool stuff.
+[22:30:44	]Varos Atkins has spawned a 'Entity [4996][ix_customvendingmachine]'.
+[22:30:45	][LOOC] Harvey Dalloway: fuck
+[22:30:47	]Varos Atkins has used a context menu option with the name: rb655_dissolve
+[22:30:48	]Varos Atkins has used a context menu option with the name: rb655_dissolve
+[22:30:49	][IC] Ernest Descombes: Fuck.
+[22:30:49	]Varos Atkins has used a context menu option with the name: rb655_dissolve
+[22:30:50	]Varos Atkins has used a context menu option with the name: rb655_dissolve
+[22:30:50	]env_entity_dissolver destroyed a 'Vending Machine Key' #2054866.
+[22:30:51	]env_entity_dissolver destroyed a 'Vending Machine Key' #2054867.
+[22:30:52	]env_entity_dissolver destroyed a 'Vending Machine Key' #2054868.
+[22:30:54	]Varos Atkins has spawned a 'Entity [4937][ix_discscanner]'.
+[22:30:58	]Harvey Dalloway has spawned 'models/props/cs_office/tv_plasma.mdl'.
+[22:31:02	]Varos Atkins has spawned a 'Entity [5010][ix_discscanner]'.
+[22:31:02	]Harvey Dalloway has fired a toolgun with the name: submaterial
+[22:31:04	]Varos Atkins entered observer.
+[22:31:06	]Varos Atkins exited observer at their location.
+[22:31:07	]Varos Atkins entered observer.
+[22:31:08	]Varos Atkins exited observer at their location.
+[22:31:09	]Harvey Dalloway has spawned 'models/props/cs_office/computer.mdl'.
+[22:31:11	]Harvey Dalloway has fired a toolgun with the name: submaterial
+[22:31:14	]Varos Atkins has spawned 'models/props_wasteland/laundry_cart001.mdl'.
+[22:31:16	][LOOC] Ernest Descombes: oh that's neat
+[22:31:20	]Varos Atkins ran SAM command 'cleardecals' with arguments: ''
+[22:31:21	][IC] Harvey Dalloway: Mhm.
+[22:31:31	][IC] Harvey Dalloway: Screensaver.
+[22:31:40	][IC] Harvey Dalloway: It's just because rendertarget is replaced.
+[22:31:50	]Varos Atkins has spawned a 'Entity [5032][ix_workshiftterminal]'.
+[22:31:55	]Varos Atkins has spawned a 'Entity [4956][ix_cwuterminal]'.
+[22:32:10	]Varos Atkins has spawned 'models/props_wasteland/kitchen_counter001d.mdl'.
+[22:32:14	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[22:32:34	]Ernest Descombes has spawned a combinebattery.
+[22:32:35	]Ernest Descombes has spawned a combinebattery.
+[22:32:35	]Ernest Descombes has spawned a combinebattery.
+[22:32:37	]Ernest Descombes ran 'SetFullCharge' on item 'Combine Battery' (#2054870)
+[22:32:37	]Ernest Descombes ran 'SetFullCharge' on item 'Combine Battery' (#2054871)
+[22:32:39	]Ernest Descombes ran 'SetFullCharge' on item 'Combine Battery' (#2054869)
+[22:32:52	]Varos Atkins has spawned 'models/props_wasteland/controlroom_chair001a.mdl'.
+[22:32:57	][IC] Harvey Dalloway: I guess we just take our card out after announcing the shift then?
+[22:33:08	][IC] Varos Atkins: Yeah you can insert them through inventory.
+[22:33:13	]Varos Atkins has fired a toolgun with the name: weld
+[22:33:13	]Varos Atkins has fired a toolgun with the name: weld
+[22:33:14	]Varos Atkins has fired a toolgun with the name: weld
+[22:33:15	]Varos Atkins has fired a toolgun with the name: weld
+[22:33:15	]Varos Atkins has fired a toolgun with the name: weld
+[22:33:15	]Varos Atkins has fired a toolgun with the name: weld
+[22:33:16	]Varos Atkins has fired a toolgun with the name: weld
+[22:33:17	]Varos Atkins has fired a toolgun with the name: weld
+[22:33:17	]Harvey Dalloway ran 'insert' on item '#64767's Identity Card' (#1342769)
+[22:33:17	]Harvey Dalloway has lost a '#64767's Identity Card' #1342769.
+[22:33:18	]Harvey Dalloway ran 'insert' on item 'CWU Management Access Keycard' (#1372715)
+[22:33:18	]Harvey Dalloway has lost a 'CWU Management Access Keycard' #1372715.
+[22:33:18	]Varos Atkins has fired a toolgun with the name: weld
+[22:33:18	]Varos Atkins has fired a toolgun with the name: weld
+[22:33:19	]Varos Atkins has fired a toolgun with the name: weld
+[22:33:20	]Varos Atkins has fired a toolgun with the name: weld
+[22:33:20	]Varos Atkins entered observer.
+[22:33:23	]Varos Atkins has fired a toolgun with the name: weld
+[22:33:24	]Varos Atkins has fired a toolgun with the name: weld
+[22:33:47	]Varos Atkins exited observer at their location.
+[22:33:48	][IC] Harvey Dalloway: Fucking Hell.
+[22:33:49	]Varos Atkins entered observer.
+[22:33:50	]Varos Atkins exited observer at their location.
+[22:33:51	][IC] Ernest Descombes: HAH.
+[22:34:00	]Harvey Dalloway ran 'take' on item 'CWU Management Access Keycard' (#1372715)
+[22:34:00	]Harvey Dalloway has gained a 'CWU Management Access Keycard' #1372715.
+[22:34:07	]Varos Atkins has spawned 'models/props_wasteland/interior_fence003e.mdl'.
+[22:34:10	]Harvey Dalloway ran 'take' on item '#64767's Identity Card' (#1342769)
+[22:34:10	]Harvey Dalloway has gained a '#64767's Identity Card' #1342769.
+[22:34:11	]Varos Atkins has spawned 'models/props_wasteland/interior_fence003e.mdl'.
+[22:34:16	]Varos Atkins has spawned 'models/props_wasteland/interior_fence002f.mdl'.
+[22:34:28	][IC] Harvey Dalloway: It's tempermental with the CID, you gotta crouch or jump on top to get it.
+[22:34:37	][IC] Varos Atkins: Get what.
+[22:34:39	][IC] Varos Atkins: You can just hit e.
+[22:34:40	][IC] Varos Atkins: Move.
+[22:34:42	]Varos Atkins has spawned a usable entity class 'ix_chair' with model 'models/props_wasteland/controlroom_chair001a.mdl'.
+[22:34:42	]Varos Atkins has used a context menu option with the name: ixusableentitycreate
+[22:34:47	]Harvey Dalloway ran 'insert' on item '#64767's Identity Card' (#1342769)
+[22:34:47	]Harvey Dalloway has lost a '#64767's Identity Card' #1342769.
+[22:34:52	]Varos Atkins has spawned 'models/props_wasteland/interior_fence003e.mdl'.
+[22:34:56	][IC] Harvey Dalloway: Hit reg is all funny.
+[22:35:01	]Harvey Dalloway ran 'take' on item '#64767's Identity Card' (#1342769)
+[22:35:01	]Harvey Dalloway has gained a '#64767's Identity Card' #1342769.
+[22:35:18	]Varos Atkins has spawned 'models/props_wasteland/interior_fence003a.mdl'.
+[22:35:23	][IC] Harvey Dalloway: Man, I'm going to have to get a new claw hammer on main.
+[22:35:24	]Varos Atkins has spawned 'models/props_wasteland/interior_fence003d.mdl'.
+[22:35:37	]Varos Atkins has spawned 'models/props_wasteland/interior_fence003d.mdl'.
+[22:35:37	]Varos Atkins entered observer.
+[22:35:48	]Ernest Descombes used command '/ToggleRaise'.
+[22:35:51	]Varos Atkins has fired a toolgun with the name: nocollideworld
+[22:35:51	]Ernest Descombes used command '/ToggleRaise'.
+[22:35:55	]Ernest Descombes used command '/ToggleRaise'.
+[22:35:58	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:35:58	]Ernest Descombes has damaged Harvey Dalloway, dealing 5 with ix_hands
+[22:35:58	]Harvey Dalloway is fully healed.
+[22:36:06	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:36:06	]Ernest Descombes has damaged Harvey Dalloway, dealing 5.0003 with ix_hands
+[22:36:07	]Harvey Dalloway has hit Ernest Descombes dealing 48 damage (CritChance was 0.40).
+[22:36:07	]Ernest Descombes has taken 48 damage from Harvey Dalloway.
+[22:36:08	]Harvey Dalloway is fully healed.
+[22:36:09	]Ernest Descombes is fully healed.
+[22:36:10	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:36:10	]Ernest Descombes has damaged Harvey Dalloway, dealing 5.0006 with ix_hands
+[22:36:11	]Harvey Dalloway has critically hit Ernest Descombes dealing 60 damage (CritChance was 1.00).
+[22:36:11	]Ernest Descombes has taken 60 damage from Harvey Dalloway.
+[22:36:13	]Harvey Dalloway is fully healed.
+[22:36:14	]Harvey Dalloway has critically hit Ernest Descombes in the head dealing 60 damage (CritChance was 1.00).
+[22:36:14	]Ernest Descombes has taken 60 damage from Harvey Dalloway.
+[22:36:14	]Ernest Descombes is fully healed.
+[22:36:18	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:36:18	]Ernest Descombes has damaged Harvey Dalloway, dealing 5.0009 with ix_hands
+[22:36:18	]Harvey Dalloway is fully healed.
+[22:36:19	]Varos Atkins exited observer at their location.
+[22:36:19	]Varos Atkins entered observer.
+[22:36:20	]Harvey Dalloway has critically hit Ernest Descombes dealing 24 damage (CritChance was 1.00).
+[22:36:20	]Ernest Descombes has taken 24 damage from Harvey Dalloway.
+[22:36:20	]Varos Atkins exited observer at their location.
+[22:36:21	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:36:21	]Ernest Descombes has damaged Harvey Dalloway, dealing 5.0012 with ix_hands
+[22:36:21	]Harvey Dalloway has critically hit Ernest Descombes in the head dealing 24 damage (CritChance was 1.00).
+[22:36:21	]Ernest Descombes has taken 24 damage from Harvey Dalloway.
+[22:36:22	]Harvey Dalloway has critically hit Ernest Descombes dealing 24 damage (CritChance was 1.00).
+[22:36:22	]Ernest Descombes has taken 24 damage from Harvey Dalloway.
+[22:36:23	]Harvey Dalloway is fully healed.
+[22:36:23	]Harvey Dalloway has critically hit Ernest Descombes in the head dealing 24 damage (CritChance was 1.00).
+[22:36:23	]Ernest Descombes has taken 24 damage from Harvey Dalloway.
+[22:36:23	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:36:23	]Ernest Descombes has damaged Harvey Dalloway, dealing 5.0015 with ix_hands
+[22:36:24	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:36:24	]Ernest Descombes has damaged Harvey Dalloway, dealing 5.0018 with ix_hands
+[22:36:24	]Harvey Dalloway has critically hit Ernest Descombes dealing 24 damage (CritChance was 1.00).
+[22:36:24	]Ernest Descombes has taken 24 damage from Harvey Dalloway.
+[22:36:24	]Ernest Descombes is fully healed.
+[22:36:25	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:36:25	]Ernest Descombes has damaged Harvey Dalloway, dealing 5.0021 with ix_hands
+[22:36:25	]Harvey Dalloway has critically hit Ernest Descombes in the head dealing 24 damage (CritChance was 1.00).
+[22:36:25	]Ernest Descombes has taken 24 damage from Harvey Dalloway.
+[22:36:26	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:36:26	]Ernest Descombes has damaged Harvey Dalloway, dealing 5.0024 with ix_hands
+[22:36:26	]Varos Atkins has spawned 'models/props_wasteland/exterior_fence002e.mdl'.
+[22:36:26	]Harvey Dalloway has critically hit Ernest Descombes dealing 24 damage (CritChance was 1.00).
+[22:36:26	]Ernest Descombes has taken 24 damage from Harvey Dalloway.
+[22:36:26	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:36:26	]Ernest Descombes has damaged Harvey Dalloway, dealing 5.0027 with ix_hands
+[22:36:27	]Harvey Dalloway has critically hit Ernest Descombes in the head dealing 24 damage (CritChance was 1.00).
+[22:36:27	]Ernest Descombes has taken 24 damage from Harvey Dalloway.
+[22:36:28	]Harvey Dalloway is fully healed.
+[22:36:28	]Harvey Dalloway has critically hit Ernest Descombes in the left arm dealing 15 damage (CritChance was 1.00).
+[22:36:28	]Ernest Descombes has taken 15 damage from Harvey Dalloway.
+[22:36:28	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:36:28	]Ernest Descombes has damaged Harvey Dalloway, dealing 5.003 with ix_hands
+[22:36:29	]Ernest Descombes used command '/ToggleRaise'.
+[22:36:29	]Ernest Descombes is fully healed.
+[22:36:31	]Varos Atkins entered observer.
+[22:36:34	][IC] Harvey Dalloway: How much health do we have bruh.
+[22:36:34	]Varos Atkins exited observer at their location.
+[22:36:35	]Varos Atkins entered observer.
+[22:36:36	]Varos Atkins exited observer at their location.
+[22:36:36	]Ernest Descombes used command '/ForceCharFallover dalloway 1'.
+[22:36:37	]Ernest Descombes used command '/ToggleRaise'.
+[22:36:39	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:36:39	]Ernest Descombes has damaged Harvey Dalloway, dealing 5.0033 with ix_hands
+[22:36:40	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:36:40	]Ernest Descombes has damaged Harvey Dalloway, dealing 5.0036 with ix_hands
+[22:36:43	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:36:43	]Ernest Descombes has damaged Harvey Dalloway, dealing 5.0039 with ix_hands
+[22:36:44	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:36:44	]Ernest Descombes has damaged Harvey Dalloway, dealing 5.0042 with ix_hands
+[22:36:44	]Varos Atkins entered observer.
+[22:36:45	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:36:45	]Ernest Descombes has damaged Harvey Dalloway, dealing 5.0045 with ix_hands
+[22:36:45	]Harvey Dalloway has critically hit Ernest Descombes in the chest dealing 60 damage (CritChance was 1.00).
+[22:36:45	]Ernest Descombes has taken 60 damage from Harvey Dalloway.
+[22:36:46	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:36:46	]Ernest Descombes has damaged Harvey Dalloway, dealing 5.0048 with ix_hands
+[22:36:47	]Harvey Dalloway has critically hit Ernest Descombes dealing 24 damage (CritChance was 1.00).
+[22:36:47	]Ernest Descombes has taken 24 damage from Harvey Dalloway.
+[22:36:48	]Harvey Dalloway has critically hit Ernest Descombes dealing 24 damage (CritChance was 1.00).
+[22:36:48	]Ernest Descombes has taken 24 damage from Harvey Dalloway.
+[22:36:49	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:36:49	]Ernest Descombes has damaged Harvey Dalloway, dealing 5.0051 with ix_hands
+[22:36:49	]Harvey Dalloway has critically hit Ernest Descombes in the chest dealing 24 damage (CritChance was 1.00).
+[22:36:49	]Ernest Descombes has taken 24 damage from Harvey Dalloway.
+[22:36:49	]Ernest Descombes is fully healed.
+[22:36:50	]Harvey Dalloway has critically hit Ernest Descombes dealing 24 damage (CritChance was 1.00).
+[22:36:50	]Ernest Descombes has taken 24 damage from Harvey Dalloway.
+[22:36:51	]Harvey Dalloway has critically hit Ernest Descombes dealing 24 damage (CritChance was 1.00).
+[22:36:51	]Ernest Descombes has taken 24 damage from Harvey Dalloway.
+[22:36:51	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:36:51	]Ernest Descombes has damaged Harvey Dalloway, dealing 5.0054 with ix_hands
+[22:36:52	]Harvey Dalloway has critically hit Ernest Descombes dealing 24 damage (CritChance was 1.00).
+[22:36:52	]Ernest Descombes has taken 24 damage from Harvey Dalloway.
+[22:36:53	]Harvey Dalloway has critically hit Ernest Descombes dealing 24 damage (CritChance was 1.00).
+[22:36:53	]Ernest Descombes has taken 24 damage from Harvey Dalloway.
+[22:36:53	]Harvey Dalloway has critically hit Ernest Descombes dealing 24 damage (CritChance was 1.00).
+[22:36:53	]Ernest Descombes has taken 24 damage from Harvey Dalloway.
+[22:36:54	]Ernest Descombes is fully healed.
+[22:36:55	]Varos Atkins exited observer at their location.
+[22:36:56	]Ernest Descombes used command '/ForceCharFallover dalloway 1'.
+[22:36:58	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:37:02	]Ernest Descombes used command '/ForceCharFallover dalloway 10'.
+[22:37:05	][IC] Harvey Dalloway: Headcrab rp.
+[22:37:07	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:37:07	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:37:08	]Varos Atkins has fired a toolgun with the name: weld
+[22:37:08	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:37:09	]Varos Atkins has fired a toolgun with the name: weld
+[22:37:09	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:37:10	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:37:11	]Harvey Dalloway has taken 5 damage from Ernest Descombes.
+[22:37:11	]Harvey Dalloway was knocked unconscious and is bleeding out.
+[22:37:12	]Varos Atkins has fired a toolgun with the name: weld
+[22:37:13	]Varos Atkins has fired a toolgun with the name: weld
+[22:37:17	]Varos Atkins has fired a toolgun with the name: weld
+[22:37:18	]Varos Atkins has fired a toolgun with the name: weld
+[22:37:20	][IC] Ernest Descombes: *Cheering!*.
+[22:37:21	]Ernest Descombes used command '/ToggleRaise'.
+[22:37:22	]Varos Atkins has fired a toolgun with the name: weld
+[22:37:22	]Varos Atkins has fired a toolgun with the name: weld
+[22:37:26	]Ernest Descombes ran SAM command 'respawn' with arguments: 'dalloway'
+[22:37:28	]Harvey Dalloway is fully healed.
+[22:37:31	]Ernest Descombes entered observer.
+[22:37:32	]Ernest Descombes exited observer.
+[22:37:37	]Ernest Descombes entered observer.
+[22:37:39	]Varos Atkins has spawned a 'Entity [131][ix_pickupterminal]'.
+[22:37:48	]Varos Atkins has spawned a 'Entity [4905][ix_pickupterminal]'.
+[22:37:54	]Varos Atkins has spawned a 'Entity [4948][ix_pickupterminal]'.
+[22:38:04	]Ernest Descombes has fired a toolgun with the name: submaterial
+[22:38:11	]Ernest Descombes has fired a toolgun with the name: submaterial
+[22:38:16	]Ernest Descombes has fired a toolgun with the name: submaterial
+[22:38:17	]Varos Atkins entered observer.
+[22:38:17	]Ernest Descombes exited observer.
+[22:38:18	]Varos Atkins exited observer at their location.
+[22:38:26	]Harvey Dalloway used command '/PM varos foreman gets signed in on shift start btw'.
+[22:38:35	]Harvey Dalloway used command '/PM varos as in automatically'.
+[22:38:40	]Varos Atkins has spawned a 'Entity [4873][ix_pickupterminal]'.
+[22:38:43	]Ernest Descombes used command '/ToggleRaise'.
+[22:38:44	]Ernest Descombes used command '/ToggleRaise'.
+[22:38:48	]Harvey Dalloway ran 'insert' on item '#64767's Identity Card' (#1342769)
+[22:38:48	]Harvey Dalloway has lost a '#64767's Identity Card' #1342769.
+[22:38:49	]Harvey Dalloway ran 'insert' on item 'CWU Management Access Keycard' (#1372715)
+[22:38:49	]Harvey Dalloway has lost a 'CWU Management Access Keycard' #1372715.
+[22:39:04	]Varos Atkins entered observer.
+[22:39:07	]Varos Atkins exited observer at their location.
+[22:39:15	]Varos Atkins entered observer.
+[22:39:16	]Varos Atkins exited observer at their location.
+[22:39:18	]Harvey Dalloway ran 'take' on item '#64767's Identity Card' (#1342769)
+[22:39:18	]Harvey Dalloway has gained a '#64767's Identity Card' #1342769.
+[22:39:20	]Harvey Dalloway ran 'take' on item 'CWU Management Access Keycard' (#1372715)
+[22:39:20	]Harvey Dalloway has gained a 'CWU Management Access Keycard' #1372715.
+[22:39:34	]Harvey Dalloway ran 'Use' on item '20 Credits Coupon' (#2053207)
+[22:39:40	]Varos Atkins entered observer.
+[22:39:51	]Ernest Descombes has given himself a drug_injectedapple.
+[22:39:51	]Ernest Descombes has gained a 'Injected Apple' #2054872.
+[22:39:54	]Ernest Descombes ran 'Consume' on item 'Injected Apple' (#2054872)
+[22:39:54	]Ernest Descombes has updated their Strength long boost target to -2 (current : 3).
+[22:39:54	]Ernest Descombes has gained a level 2 long boost in Agility.
+[22:39:54	]Ernest Descombes has gained a level 3 long boost in Perception.
+[22:39:56	]Varos Atkins has fired a toolgun with the name: advdupe2
+[22:39:56	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001c.mdl'.
+[22:39:56	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001a.mdl'.
+[22:39:56	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[22:39:56	]Varos Atkins has spawned 'models/hunter/plates/plate1.mdl'.
+[22:39:56	]Varos Atkins has spawned 'models/props_wasteland/interior_fence002f.mdl'.
+[22:39:56	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[22:39:56	]Varos Atkins has spawned 'models/hunter/plates/plate1.mdl'.
+[22:39:56	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[22:39:56	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[22:39:56	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[22:39:56	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001a.mdl'.
+[22:39:56	]Varos Atkins has spawned 'models/props_wasteland/interior_fence003e.mdl'.
+[22:39:56	]Varos Atkins has spawned 'models/props_wasteland/interior_fence003d.mdl'.
+[22:39:57	]Varos Atkins has spawned 'models/hunter/plates/plate1.mdl'.
+[22:39:57	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001b.mdl'.
+[22:39:57	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001b.mdl'.
+[22:39:57	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001e.mdl'.
+[22:39:57	]Varos Atkins has spawned 'models/props_wasteland/exterior_fence_notbarbed002b.mdl'.
+[22:39:57	]Varos Atkins has spawned 'models/hunter/plates/plate1.mdl'.
+[22:39:57	]Varos Atkins has spawned 'models/hunter/plates/plate1x1.mdl'.
+[22:39:57	]Varos Atkins has spawned 'models/props_wasteland/exterior_fence_notbarbed002b.mdl'.
+[22:39:57	]Varos Atkins has spawned 'models/hunter/plates/plate2x2.mdl'.
+[22:39:57	]Varos Atkins has spawned 'models/hunter/plates/plate1x5.mdl'.
+[22:39:57	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001c.mdl'.
+[22:39:57	]Varos Atkins has spawned 'models/props_wasteland/interior_fence001g.mdl'.
+[22:39:57	]Varos Atkins has spawned 'models/hunter/plates/plate2x2.mdl'.
+[22:39:57	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[22:39:57	]Varos Atkins has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[22:39:57	]Varos Atkins has spawned 'models/props_wasteland/laundry_cart001.mdl'.
+[22:39:57	]Varos Atkins has spawned 'models/hunter/plates/plate1x1.mdl'.
+[22:39:57	]Varos Atkins has spawned 'models/hunter/plates/plate1x5.mdl'.
+[22:39:57	]Varos Atkins has spawned 'models/hunter/plates/plate1x6.mdl'.
+[22:40:12	]Harvey Dalloway used command '/ScreenShake 2 10 2 2'.
+[22:40:24	]Harvey Dalloway ran 'Use' on item '20 Credits Coupon' (#2053207)
+[22:40:29	]Varos Atkins ran SAM command 'goto' with arguments: 'harvey'
+[22:40:49	]Ernest Descombes entered observer.
+[22:40:51	]Ernest Descombes exited observer.
+[22:40:51	]Ernest Descombes entered observer.
+[22:40:54	]Harvey Dalloway ran 'Use' on item '20 Credits Coupon' (#2053207)
+[22:41:28	]Harvey Dalloway has gained level 31 in the Speed skill.
+[22:41:50	]Ernest Descombes has enabled persistence for '*337'.
+[22:41:50	]Ernest Descombes has used a context menu option with the name: persist
+[22:41:51	]Ernest Descombes has disabled persistence for '*337'.
+[22:41:51	]Ernest Descombes has used a context menu option with the name: persist_end
+[22:41:52	]Ernest Descombes has used a context menu option with the name: persist_end
+[22:41:53	]Ernest Descombes has used a context menu option with the name: remove
+[22:41:56	]Ernest Descombes exited observer at their location.
+[22:42:00	]MelonHeadzzz loaded the character 'S10/ORD.SWEEPER-12'
+[22:42:35	]Varos Atkins exited observer at their location.
+[22:42:49	]Varos Atkins entered observer.
+[22:42:51	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:42:51	]Varos Atkins has enabled persistence for 'models/props_wasteland/exterior_fence_notbarbed002b.mdl'.
+[22:42:51	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:42:51	]Varos Atkins has enabled persistence for 'models/props_wasteland/interior_fence001c.mdl'.
+[22:42:51	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:42:51	]Varos Atkins has enabled persistence for 'models/props_wasteland/interior_fence001c.mdl'.
+[22:42:52	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:42:52	]Varos Atkins has enabled persistence for 'models/props_wasteland/exterior_fence_notbarbed002b.mdl'.
+[22:42:53	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:42:53	]Varos Atkins has enabled persistence for 'models/props_wasteland/interior_fence001e.mdl'.
+[22:42:53	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:42:53	]Varos Atkins has enabled persistence for 'models/props_wasteland/interior_fence001b.mdl'.
+[22:42:54	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:42:54	]Varos Atkins has disabled persistence for 'models/props_wasteland/interior_fence001b.mdl'.
+[22:42:56	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:42:56	]Varos Atkins has enabled persistence for 'models/props_wasteland/interior_fence001g.mdl'.
+[22:42:57	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:42:57	]Varos Atkins has disabled persistence for 'models/props_wasteland/interior_fence001e.mdl'.
+[22:42:59	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:42:59	]Varos Atkins has enabled persistence for 'models/props_wasteland/interior_fence001e.mdl'.
+[22:43:00	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:00	]Varos Atkins has enabled persistence for 'models/props_wasteland/interior_fence001b.mdl'.
+[22:43:02	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:02	]Varos Atkins has enabled persistence for 'models/props_wasteland/interior_fence001b.mdl'.
+[22:43:03	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:03	]Varos Atkins has enabled persistence for 'models/props_wasteland/interior_fence002f.mdl'.
+[22:43:04	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:04	]Varos Atkins has enabled persistence for 'models/props_wasteland/interior_fence003d.mdl'.
+[22:43:05	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:05	]Varos Atkins has enabled persistence for 'models/props_wasteland/interior_fence003e.mdl'.
+[22:43:06	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:06	]Varos Atkins has enabled persistence for 'models/hunter/plates/plate2x2.mdl'.
+[22:43:07	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:07	]Varos Atkins has enabled persistence for 'models/hunter/plates/plate2x2.mdl'.
+[22:43:08	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:08	]Varos Atkins has enabled persistence for 'models/hunter/plates/plate1x5.mdl'.
+[22:43:08	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:08	]Varos Atkins has enabled persistence for 'models/hunter/plates/plate1x5.mdl'.
+[22:43:09	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:09	]Varos Atkins has enabled persistence for 'models/hunter/plates/plate1x1.mdl'.
+[22:43:10	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:10	]Varos Atkins has enabled persistence for 'models/hunter/plates/plate1x1.mdl'.
+[22:43:11	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:11	]Varos Atkins has enabled persistence for 'models/props_wasteland/laundry_cart001.mdl'.
+[22:43:12	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:12	]Varos Atkins has enabled persistence for 'models/hunter/plates/plate1x6.mdl'.
+[22:43:13	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:13	]Varos Atkins has enabled persistence for 'models/hunter/plates/plate1.mdl'.
+[22:43:14	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:14	]Varos Atkins has enabled persistence for 'models/hunter/plates/plate1.mdl'.
+[22:43:16	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:16	]Varos Atkins has enabled persistence for 'models/hunter/plates/plate1.mdl'.
+[22:43:17	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:17	]Varos Atkins has enabled persistence for 'models/hunter/plates/plate1.mdl'.
+[22:43:18	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:18	]Varos Atkins has enabled persistence for 'models/props_wasteland/controlroom_desk001a.mdl'.
+[22:43:19	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:19	]Varos Atkins has enabled persistence for 'models/props_wasteland/controlroom_desk001a.mdl'.
+[22:43:20	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:20	]Varos Atkins has enabled persistence for 'models/props_wasteland/controlroom_desk001b.mdl'.
+[22:43:21	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:21	]Varos Atkins has enabled persistence for 'models/props_wasteland/controlroom_desk001b.mdl'.
+[22:43:21	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:21	]Varos Atkins has enabled persistence for 'models/props_wasteland/controlroom_desk001b.mdl'.
+[22:43:22	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:22	]Varos Atkins has enabled persistence for 'models/props_wasteland/controlroom_desk001b.mdl'.
+[22:43:23	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:23	]Varos Atkins has enabled persistence for 'models/props_wasteland/controlroom_desk001b.mdl'.
+[22:43:23	]Varos Atkins has fired a toolgun with the name: sh_persist
+[22:43:23	]Varos Atkins has enabled persistence for 'models/props_wasteland/controlroom_desk001b.mdl'.
+[22:43:26	]Varos Atkins exited observer at their location.
+[22:44:29	]Varos Atkins entered observer.
+[22:44:30	]Varos Atkins exited observer at their location.
+[22:44:32	]Varos Atkins has spawned a combinebattery.
+[22:44:36	]Varos Atkins ran 'take' on item 'Combine Battery' (#2054873)
+[22:44:36	]Varos Atkins has gained a 'Combine Battery' #2054873.
+[22:44:58	]Varos Atkins entered observer.
+[22:44:59	]Varos Atkins exited observer at their location.
+[22:45:00	]Varos Atkins entered observer.
+[22:45:03	]Varos Atkins exited observer at their location.
+[22:45:03	]Varos Atkins entered observer.
+[22:45:04	]Varos Atkins exited observer at their location.
+[22:45:04	]Varos Atkins entered observer.
+[22:45:05	]Varos Atkins exited observer at their location.
+[22:45:05	]Varos Atkins entered observer.
+[22:45:06	]Varos Atkins exited observer at their location.
+[22:45:07	]Varos Atkins entered observer.
+[22:45:07	]Varos Atkins exited observer at their location.
+[22:45:21	]Harvey Dalloway has spawned 'models/props_junk/cardboard_box003b.mdl'.
+[22:46:03	]Varos Atkins entered observer.
+[22:46:04	]Varos Atkins exited observer at their location.
+[22:46:18	]Varos Atkins entered observer.
+[22:46:22	]Varos Atkins exited observer at their location.
+[22:46:30	]Varos Atkins entered observer.
+[22:46:38	][OOC] Harvey Dalloway: what did you do in here why is there so much blood
+[22:46:41	]Varos Atkins exited observer at their location.
+[22:46:47	]Varos Atkins used command '/ToggleRaise'.
+[22:46:51	]Harvey Dalloway has taken 5 damage from arccw_thr_go_molotov.
+[22:46:51	]Harvey Dalloway has taken 8 damage from Varos Atkins.
+[22:46:51	]Harvey Dalloway has taken 8 damage from Varos Atkins.
+[22:46:51	]Harvey Dalloway has taken 8 damage from Varos Atkins.
+[22:46:51	]Harvey Dalloway has taken 8 damage from Varos Atkins.
+[22:46:51	]Harvey Dalloway has taken 8 damage from Varos Atkins.
+[22:46:51	]Harvey Dalloway has taken 8 damage from Varos Atkins.
+[22:46:51	]Harvey Dalloway has taken 8 damage from Varos Atkins.
+[22:46:51	]Harvey Dalloway has taken 7 damage from Varos Atkins.
+[22:46:51	]Harvey Dalloway has taken 7 damage from Varos Atkins.
+[22:46:51	]Harvey Dalloway has taken 7 damage from Varos Atkins.
+[22:46:51	]Varos Atkins destroyed a 'Combine Battery' #2054852.
+[22:46:51	]Varos Atkins destroyed a 'Combine Battery' #2054871.
+[22:46:51	]Harvey Dalloway has taken 5 damage from Varos Atkins.
+[22:46:51	]Harvey Dalloway has taken 4 damage from Varos Atkins.
+[22:46:51	]Harvey Dalloway has taken 9 damage from Varos Atkins.
+[22:46:51	]Harvey Dalloway has taken 5 damage from Varos Atkins.
+[22:46:51	]Harvey Dalloway has taken 8 damage from Varos Atkins.
+[22:46:51	]Harvey Dalloway has taken 7 damage from Varos Atkins.
+[22:46:51	]Harvey Dalloway has taken 8 damage from Varos Atkins.
+[22:46:51	]Harvey Dalloway has taken 7 damage from Varos Atkins.
+[22:46:51	]Harvey Dalloway was knocked unconscious and is bleeding out.
+[22:46:51	]Varos Atkins destroyed a 'Combine Battery' #2054861.
+[22:46:51	]Varos Atkins destroyed a 'Combine Battery' #2054862.
+[22:46:51	]Varos Atkins destroyed a 'Combine Battery' #2054869.
+[22:46:51	]Varos Atkins destroyed a 'Combine Battery' #2054870.
+[22:46:52	]Varos Atkins has taken 0 damage from Varos Atkins.
+[22:46:52	]Varos Atkins has taken 2 damage from Varos Atkins.
+[22:46:53	]Varos Atkins has taken 1 damage from Varos Atkins.
+[22:46:53	]Varos Atkins has taken 0 damage from Varos Atkins.
+[22:46:54	]Varos Atkins has taken 0 damage from Varos Atkins.
+[22:46:54	]Varos Atkins entered observer.
+[22:46:55	]Varos Atkins has taken 0 damage from Varos Atkins.
+[22:46:55	]Varos Atkins has taken 1 damage from Varos Atkins.
+[22:46:55	]Varos Atkins has taken 0 damage from Varos Atkins.
+[22:46:55	]Varos Atkins has taken 1 damage from Varos Atkins.
+[22:46:56	]Varos Atkins has taken 0 damage from Varos Atkins.
+[22:46:56	]Varos Atkins has taken 1 damage from Varos Atkins.
+[22:46:56	]Varos Atkins has taken 0 damage from Varos Atkins.
+[22:46:56	]Varos Atkins has taken 1 damage from Varos Atkins.
+[22:46:56	]Varos Atkins has taken 0 damage from Varos Atkins.
+[22:46:56	]Varos Atkins has taken 1 damage from Varos Atkins.
+[22:46:56	]Varos Atkins has taken 0 damage from Varos Atkins.
+[22:46:56	]Varos Atkins has taken 1 damage from Varos Atkins.
+[22:46:57	]Varos Atkins has taken 0 damage from Varos Atkins.
+[22:46:57	]Varos Atkins has taken 1 damage from Varos Atkins.
+[22:46:57	]Varos Atkins has taken 0 damage from Varos Atkins.
+[22:46:57	]Varos Atkins has taken 1 damage from Varos Atkins.
+[22:46:57	]Varos Atkins has taken 0 damage from Varos Atkins.
+[22:46:57	]Varos Atkins has taken 1 damage from Varos Atkins.
+[22:46:57	]Varos Atkins has taken 0 damage from Varos Atkins.
+[22:46:57	]Varos Atkins has taken 1 damage from Varos Atkins.
+[22:46:57	]Varos Atkins has taken 0 damage from Varos Atkins.
+[22:46:57	]Varos Atkins has taken 1 damage from Varos Atkins.
+[22:46:57	]Varos Atkins has taken 0 damage from Varos Atkins.
+[22:46:57	]Varos Atkins has taken 1 damage from Varos Atkins.
+[22:46:59	]Varos Atkins has taken 1 damage from Varos Atkins.
+[22:46:59	]Varos Atkins has taken 0 damage from Varos Atkins.
+[22:47:00	][OOC] Harvey Dalloway: AAAGHHHH
+[22:47:04	]Varos Atkins ran SAM command 'respawn' with arguments: 'harvey'
+[22:47:04	]Harvey Dalloway has taken 6 damage from Varos Atkins.
+[22:47:04	]Harvey Dalloway has taken 5 damage from Varos Atkins.
+[22:47:04	]Harvey Dalloway has taken 6 damage from Varos Atkins.
+[22:47:04	]Harvey Dalloway has taken 4 damage from Varos Atkins.
+[22:47:04	]Harvey Dalloway has taken 3 damage from Varos Atkins.
+[22:47:04	]Harvey Dalloway has taken 1 damage from Varos Atkins.
+[22:47:04	]Harvey Dalloway has taken 2 damage from Varos Atkins.
+[22:47:04	]Harvey Dalloway has taken 9 damage from Varos Atkins.
+[22:47:04	]Harvey Dalloway has taken 6 damage from Varos Atkins.
+[22:47:04	]Harvey Dalloway has taken 6 damage from Varos Atkins.
+[22:47:04	]Harvey Dalloway has taken 5 damage from Varos Atkins.
+[22:47:04	]Harvey Dalloway has taken 6 damage from Varos Atkins.
+[22:47:04	]Harvey Dalloway has taken 4 damage from Varos Atkins.
+[22:47:04	]Harvey Dalloway has taken 3 damage from Varos Atkins.
+[22:47:04	]Harvey Dalloway has taken 1 damage from Varos Atkins.
+[22:47:04	]Harvey Dalloway has taken 2 damage from Varos Atkins.
+[22:47:04	]Harvey Dalloway has taken 9 damage from Varos Atkins.
+[22:47:04	]Harvey Dalloway has taken 6 damage from Varos Atkins.
+[22:47:05	]Harvey Dalloway has taken 6 damage from Varos Atkins.
+[22:47:05	]Harvey Dalloway has taken 5 damage from Varos Atkins.
+[22:47:05	]Harvey Dalloway has taken 6 damage from Varos Atkins.
+[22:47:05	]Harvey Dalloway has taken 4 damage from Varos Atkins.
+[22:47:05	]Harvey Dalloway has taken 3 damage from Varos Atkins.
+[22:47:05	]Harvey Dalloway has taken 1 damage from Varos Atkins.
+[22:47:05	]Harvey Dalloway has taken 2 damage from Varos Atkins.
+[22:47:05	]Harvey Dalloway has taken 9 damage from Varos Atkins.
+[22:47:05	]Harvey Dalloway has taken 6 damage from Varos Atkins.
+[22:47:05	]Harvey Dalloway was knocked unconscious and is bleeding out.
+[22:47:07	]Varos Atkins ran SAM command 'respawn' with arguments: 'harvey'
+[22:47:08	]Harvey Dalloway is fully healed.
+[22:47:11	]Varos Atkins used command '/CharStopBleedout harvey'.
+[22:47:18	][OOC] Harvey Dalloway: call me Harvey Eastgate
+[22:47:20	]Varos Atkins exited observer at their location.
+[22:47:33	]S10/ORD.SWEEPER-12 has lost a '30rnd Pulse-magazine' #2052860.
+[22:47:33	]S10/ORD.SWEEPER-12 has gained a '30rnd Pulse-magazine' #2052861.
+[22:47:34	]S10/ORD.SWEEPER-12 used command '/ToggleRaise'.
+[22:47:36	]S10/ORD.SWEEPER-12 used command '/ToggleRaise'.
+[22:47:38	]S10/ORD.SWEEPER-12 used command '/ToggleRaise'.
+[22:47:39	]S10/ORD.SWEEPER-12 used command '/ToggleRaise'.
+[22:47:42	]S10/ORD.SWEEPER-12 entered observer.
+[22:47:47	]S10/ORD.SWEEPER-12 exited observer at their location.
+[22:47:50	][IC] S10/ORD.SWEEPER-12: <:: Toilet. ::>
+[22:47:58	]Varos Atkins used command '/ToggleRaise'.
+[22:47:59	]Harvey Dalloway has hit S10/ORD.SWEEPER-12 dealing 48 damage (CritChance was 0.40).
+[22:47:59	]S10/ORD.SWEEPER-12 has taken 48 damage from Harvey Dalloway.
+[22:48:00	]S10/ORD.SWEEPER-12 used command '/ToggleRaise'.
+[22:48:01	]S10/ORD.SWEEPER-12 has critically hit Harvey Dalloway in the left arm dealing 7 damage (CritChance was 1.01).
+[22:48:01	]Harvey Dalloway has taken 6 damage from S10/ORD.SWEEPER-12.
+[22:48:02	]S10/ORD.SWEEPER-12 has critically hit Harvey Dalloway in the chest dealing 25 damage (CritChance was 1.01).
+[22:48:02	]Harvey Dalloway has taken 25 damage from S10/ORD.SWEEPER-12.
+[22:48:02	]S10/ORD.SWEEPER-12 has critically hit Harvey Dalloway in the head dealing 27 damage (CritChance was 1.00).
+[22:48:02	]Harvey Dalloway has taken 27 damage from S10/ORD.SWEEPER-12.
+[22:48:02	]S10/ORD.SWEEPER-12 has critically hit Harvey Dalloway in the chest dealing 25 damage (CritChance was 0.96).
+[22:48:02	]Harvey Dalloway has taken 25 damage from S10/ORD.SWEEPER-12.
+[22:48:02	]S10/ORD.SWEEPER-12 has critically hit Harvey Dalloway in the head dealing 27 damage (CritChance was 0.99).
+[22:48:02	]Harvey Dalloway has taken 27 damage from S10/ORD.SWEEPER-12.
+[22:48:02	]S10/ORD.SWEEPER-12 has critically hit Harvey Dalloway in the chest dealing 25 damage (CritChance was 1.01).
+[22:48:02	]Harvey Dalloway has taken 25 damage from S10/ORD.SWEEPER-12.
+[22:48:02	]S10/ORD.SWEEPER-12 has critically hit Harvey Dalloway in the chest dealing 25 damage (CritChance was 1.01).
+[22:48:02	]Harvey Dalloway was knocked unconscious and is bleeding out.
+[22:48:03	]Varos Atkins used command '/ToggleRaise'.
+[22:48:04	]S10/ORD.SWEEPER-12 used command '/ToggleRaise'.
+[22:48:06	][IC] S10/ORD.SWEEPER-12: <:: Dead. ::>
+[22:48:08	][IC] Harvey Dalloway: Fucking Hell.
+[22:48:10	]Varos Atkins used command '/ToggleRaise'.
+[22:48:12	]S10/ORD.SWEEPER-12 ran SAM command 'respawn' with arguments: 'dallo' '100'
+[22:48:13	]Harvey Dalloway is fully healed.
+[22:48:14	]S10/ORD.SWEEPER-12 has gained a '30rnd Pulse-magazine' #2052860.
+[22:48:14	]S10/ORD.SWEEPER-12 was knocked unconscious and is bleeding out.
+[22:48:22	][IC] Harvey Dalloway: I should have kept my guns.
+[22:48:22	]S10/ORD.SWEEPER-12 ran SAM command 'respawn' with arguments: 'sweeper'
+[22:48:23	][OOC] Varos Atkins: this should be the ota sniper weapon
+[22:48:27	]S10/ORD.SWEEPER-12 ran SAM command 'hp' with arguments: 'sweeper' '10000000000000000000000000000000000'
+[22:48:29	][IC] S10/ORD.SWEEPER-12: <:: Haha. ::>
+[22:48:30	]S10/ORD.SWEEPER-12 is fully healed.
+[22:48:31	][IC] S10/ORD.SWEEPER-12: <:: Haha. ::>
+[22:48:35	]Harvey Dalloway was knocked unconscious and is bleeding out.
+[22:48:35	]S10/ORD.SWEEPER-12 has lost a '30rnd Pulse-magazine' #2052861.
+[22:48:38	][IC] S10/ORD.SWEEPER-12: <:: Haha. ::>
+[22:48:43	]S10/ORD.SWEEPER-12 used command '/ToggleRaise'.
+[22:48:45	]Varos Atkins used command '/ToggleRaise'.
+[22:48:49	]S10/ORD.SWEEPER-12 has hit Varos Atkins in the head dealing 13 damage (CritChance was 0.45).
+[22:48:49	]Varos Atkins has taken 13 damage from S10/ORD.SWEEPER-12.
+[22:48:49	]S10/ORD.SWEEPER-12 has critically hit Varos Atkins in the head dealing 27 damage (CritChance was 0.45).
+[22:48:49	]Varos Atkins has taken 27 damage from S10/ORD.SWEEPER-12.
+[22:48:49	]S10/ORD.SWEEPER-12 has hit Varos Atkins in the head dealing 13 damage (CritChance was 0.45).
+[22:48:49	]Varos Atkins has taken 13 damage from S10/ORD.SWEEPER-12.
+[22:48:49	]S10/ORD.SWEEPER-12 has hit Varos Atkins in the head dealing 13 damage (CritChance was 0.45).
+[22:48:49	]Varos Atkins has taken 13 damage from S10/ORD.SWEEPER-12.
+[22:48:49	]S10/ORD.SWEEPER-12 has critically hit Varos Atkins in the head dealing 27 damage (CritChance was 0.45).
+[22:48:49	]Varos Atkins has taken 27 damage from S10/ORD.SWEEPER-12.
+[22:48:49	]S10/ORD.SWEEPER-12 has critically hit Varos Atkins in the head dealing 27 damage (CritChance was 0.45).
+[22:48:49	]Varos Atkins has taken 27 damage from S10/ORD.SWEEPER-12.
+[22:48:49	]S10/ORD.SWEEPER-12 has critically hit Varos Atkins in the head dealing 27 damage (CritChance was 1.01).
+[22:48:49	]Varos Atkins has taken 27 damage from S10/ORD.SWEEPER-12.
+[22:48:54	]S10/ORD.SWEEPER-12 has critically hit Varos Atkins in the head dealing 25 damage (CritChance was 0.96).
+[22:48:54	]Varos Atkins was knocked unconscious and is bleeding out.
+[22:48:58	][IC] S10/ORD.SWEEPER-12: <:: Dead. ::>
+[22:49:03	]Varos Atkins ran SAM command 'respawn' with arguments: 'harv'
+[22:49:03	]Harvey Dalloway is fully healed.
+[22:49:04	]S10/ORD.SWEEPER-12 ran SAM command 'respawn' with arguments: 'atkins'
+[22:49:05	]Varos Atkins ran SAM command 'respawn' with arguments: 'var'
+[22:49:06	]Varos Atkins entered observer.
+[22:49:08	]S10/ORD.SWEEPER-12 ran 'removeMag' on item 'SR-1A' (#2052846)
+[22:49:08	]S10/ORD.SWEEPER-12 has gained a '30rnd Pulse-magazine' #2052861.
+[22:49:09	]Varos Atkins ran SAM command 'goto' with arguments: 'sweep'
+[22:49:11	]Varos Atkins exited observer at their location.
+[22:49:16	]S10/ORD.SWEEPER-12 ran 'combine' on item '30rnd Pulse-magazine' (#2052862)
+[22:49:17	]S10/ORD.SWEEPER-12 ran 'combine' on item '30rnd Pulse-magazine' (#2052860)
+[22:49:17	]Varos Atkins used command '/ToggleRaise'.
+[22:49:18	]S10/ORD.SWEEPER-12 ran 'combine' on item '30rnd Pulse-magazine' (#2052861)
+[22:49:20	]S10/ORD.SWEEPER-12 has taken 50 damage from Varos Atkins.
+[22:49:20	]S10/ORD.SWEEPER-12 has taken 50 damage from Varos Atkins.
+[22:49:20	]S10/ORD.SWEEPER-12 has taken 50 damage from Varos Atkins.
+[22:49:20	]S10/ORD.SWEEPER-12 is fully healed.
+[22:49:21	]S10/ORD.SWEEPER-12 has taken 50 damage from Varos Atkins.
+[22:49:21	]S10/ORD.SWEEPER-12 has taken 50 damage from Varos Atkins.
+[22:49:21	]S10/ORD.SWEEPER-12 has taken 50 damage from Varos Atkins.
+[22:49:21	]S10/ORD.SWEEPER-12 has lost a '30rnd Pulse-magazine' #2052862.
+[22:49:24	]S10/ORD.SWEEPER-12 has taken 50 damage from Varos Atkins.
+[22:49:24	]S10/ORD.SWEEPER-12 has taken 50 damage from Varos Atkins.
+[22:49:24	]S10/ORD.SWEEPER-12 has taken 50 damage from Varos Atkins.
+[22:49:24	]S10/ORD.SWEEPER-12 has taken 50 damage from Varos Atkins.
+[22:49:25	]S10/ORD.SWEEPER-12 is fully healed.
+[22:49:25	]S10/ORD.SWEEPER-12 has critically hit Harvey Dalloway in the chest dealing 25 damage (CritChance was 0.97).
+[22:49:25	]Harvey Dalloway has taken 25 damage from S10/ORD.SWEEPER-12.
+[22:49:27	]Harvey Dalloway has critically hit S10/ORD.SWEEPER-12 dealing 24 damage (CritChance was 1.00).
+[22:49:27	]S10/ORD.SWEEPER-12 has taken 24 damage from Harvey Dalloway.
+[22:49:28	]Harvey Dalloway is fully healed.
+[22:49:30	]S10/ORD.SWEEPER-12 is fully healed.
+[22:49:30	]S10/ORD.SWEEPER-12 has critically hit Harvey Dalloway in the chest dealing 25 damage (CritChance was 1.01).
+[22:49:30	]Harvey Dalloway has taken 25 damage from S10/ORD.SWEEPER-12.
+[22:49:31	]S10/ORD.SWEEPER-12 has critically hit Harvey Dalloway in the chest dealing 25 damage (CritChance was 1.01).
+[22:49:31	]Harvey Dalloway has taken 25 damage from S10/ORD.SWEEPER-12.
+[22:49:32	]Varos Atkins used command '/ToggleRaise'.
+[22:49:36	]Harvey Dalloway has critically hit S10/ORD.SWEEPER-12 dealing 24 damage (CritChance was 1.00).
+[22:49:36	]S10/ORD.SWEEPER-12 has taken 24 damage from Harvey Dalloway.
+[22:49:37	]Harvey Dalloway has critically hit S10/ORD.SWEEPER-12 dealing 24 damage (CritChance was 1.00).
+[22:49:37	]S10/ORD.SWEEPER-12 has taken 24 damage from Harvey Dalloway.
+[22:49:38	]S10/ORD.SWEEPER-12 has critically hit Varos Atkins in the left arm dealing 7 damage (CritChance was 1.01).
+[22:49:38	]Varos Atkins has taken 6 damage from S10/ORD.SWEEPER-12.
+[22:49:38	]S10/ORD.SWEEPER-12 has critically hit Varos Atkins in the left arm dealing 7 damage (CritChance was 1.01).
+[22:49:38	]Varos Atkins has taken 6 damage from S10/ORD.SWEEPER-12.
+[22:49:39	]S10/ORD.SWEEPER-12 has critically hit Varos Atkins in the right arm dealing 7 damage (CritChance was 1.01).
+[22:49:39	]Varos Atkins has taken 6 damage from S10/ORD.SWEEPER-12.
+[22:49:39	]S10/ORD.SWEEPER-12 has critically hit Varos Atkins in the right arm dealing 7 damage (CritChance was 1.01).
+[22:49:39	]Varos Atkins has taken 6 damage from S10/ORD.SWEEPER-12.
+[22:49:39	]S10/ORD.SWEEPER-12 has critically hit Varos Atkins in the left arm dealing 7 damage (CritChance was 1.01).
+[22:49:39	]Varos Atkins has taken 6 damage from S10/ORD.SWEEPER-12.
+[22:49:39	]S10/ORD.SWEEPER-12 has critically hit Varos Atkins in the left arm dealing 7 damage (CritChance was 1.01).
+[22:49:39	]Varos Atkins has taken 6 damage from S10/ORD.SWEEPER-12.
+[22:49:39	]Varos Atkins has hit S10/ORD.SWEEPER-12 dealing 42 damage (CritChance was -0.25).
+[22:49:39	]S10/ORD.SWEEPER-12 has taken 42 damage from Varos Atkins.
+[22:49:40	]Harvey Dalloway has critically hit Varos Atkins dealing 60 damage (CritChance was 1.00).
+[22:49:40	]Varos Atkins was knocked unconscious and is bleeding out.
+[22:49:40	]S10/ORD.SWEEPER-12 has critically hit Harvey Dalloway in the chest dealing 25 damage (CritChance was 1.01).
+[22:49:40	]Harvey Dalloway has taken 25 damage from S10/ORD.SWEEPER-12.
+[22:49:40	]S10/ORD.SWEEPER-12 has critically hit Harvey Dalloway in the head dealing 27 damage (CritChance was 1.01).
+[22:49:40	]Harvey Dalloway has taken 27 damage from S10/ORD.SWEEPER-12.
+[22:49:40	]S10/ORD.SWEEPER-12 is fully healed.
+[22:49:42	]Harvey Dalloway has critically hit S10/ORD.SWEEPER-12 dealing 60 damage (CritChance was 1.00).
+[22:49:42	]S10/ORD.SWEEPER-12 has taken 60 damage from Harvey Dalloway.
+[22:49:43	]S10/ORD.SWEEPER-12 has critically hit Harvey Dalloway in the left arm dealing 7 damage (CritChance was 1.01).
+[22:49:43	]Harvey Dalloway has taken 6 damage from S10/ORD.SWEEPER-12.
+[22:49:45	]Harvey Dalloway has critically hit S10/ORD.SWEEPER-12 dealing 24 damage (CritChance was 1.00).
+[22:49:45	]S10/ORD.SWEEPER-12 has taken 24 damage from Harvey Dalloway.
+[22:49:45	]S10/ORD.SWEEPER-12 has gained a '30rnd Pulse-magazine' #2052862.
+[22:49:45	]S10/ORD.SWEEPER-12 has lost a '30rnd Pulse-magazine' #2052861.
+[22:49:45	]S10/ORD.SWEEPER-12 is fully healed.
+[22:49:48	]S10/ORD.SWEEPER-12 has critically hit Harvey Dalloway in the chest dealing 25 damage (CritChance was 1.01).
+[22:49:48	]Harvey Dalloway was knocked unconscious and is bleeding out.
+[22:49:48	][IC] Varos Atkins: !resapwn var.
+[22:49:50	][IC] Harvey Dalloway: Fucking Hell.
+[22:49:52	][IC] S10/ORD.SWEEPER-12: <:: Haha. ::>
+[22:49:56	][OOC] Varos Atkins: ok enough tom foolery for me today
+[22:49:58	]S10/ORD.SWEEPER-12 ran 'combine' on item '30rnd Pulse-magazine' (#2052508)
+[22:49:59	]Varos Atkins ran SAM command 'respawn' with arguments: '*'
+[22:50:02	]S10/ORD.SWEEPER-12 ran 'removeMag' on item 'SR-1A' (#2052846)
+[22:50:02	]S10/ORD.SWEEPER-12 has gained a '30rnd Pulse-magazine' #2052861.
+[22:50:03	]Harvey Dalloway is fully healed.
+[22:50:06	]S10/ORD.SWEEPER-12 ran 'combine' on item '30rnd Pulse-magazine' (#2052862)
+[22:50:07	]S10/ORD.SWEEPER-12 ran 'combine' on item '30rnd Pulse-magazine' (#2052862)
+[22:50:08	]S10/ORD.SWEEPER-12 ran 'combine' on item '30rnd Pulse-magazine' (#2052861)
+[22:50:11	][OOC] Varos Atkins: see ya
+[22:50:12	]Tony The Tiger (STEAM_0:0:49210697) has disconnected.
+[22:50:12	][OOC] Harvey Dalloway: I had enough dosed up on rave
+[22:50:13	]S10/ORD.SWEEPER-12 has lost a '30rnd Pulse-magazine' #2052862.
+[22:50:16	][CG] Delta (STEAM_0:1:114447691) has disconnected.
+[22:50:17	]S10/ORD.SWEEPER-12 used command '/ToggleRaise'.
+[22:50:50	]S10/ORD.SWEEPER-12 ran 'Equip' on item 'Frag Grenade' (#2052450)
+[22:50:52	]S10/ORD.SWEEPER-12 used command '/ToggleRaise'.
+[22:50:57	]S10/ORD.SWEEPER-12 ran 'Equip' on item 'Frag Grenade' (#2052449)
+[22:50:58	]S10/ORD.SWEEPER-12 used command '/ToggleRaise'.
+[22:51:04	]S10/ORD.SWEEPER-12 destroyed a 'Combine PDA' #2054342.
+[22:51:04	]S10/ORD.SWEEPER-12 destroyed a 'Heavy Pulse Rounds' #2054781.
+[22:51:04	]S10/ORD.SWEEPER-12 destroyed a 'OTA Uniform' #2054324.
+[22:51:04	]S10/ORD.SWEEPER-12 destroyed a '24rnd Heavy-Pulse Magazine' #2054647.
+[22:51:04	]S10/ORD.SWEEPER-12 destroyed a '30rnd Pulse-magazine' #2054747.
+[22:51:04	]S10/ORD.SWEEPER-12 destroyed a '30rnd Pulse-magazine' #2054746.
+[22:51:04	]S10/ORD.SWEEPER-12 destroyed a '30rnd Pulse-magazine' #2054744.
+[22:51:04	]S10/ORD.SWEEPER-12 destroyed a 'Pulse Rifle Bullets' #2054742.
+[22:51:04	]S10/ORD.SWEEPER-12 destroyed a 'Large Bag' #2054340.
+[22:51:04	]S10/ORD.SWEEPER-12 destroyed a 'Small Bag' #2054339.
+[22:51:04	]S10/ORD.SWEEPER-12 destroyed a 'OSPR2A-EXP' #2054492.
+[22:51:08	]S10/ORD.SWEEPER-12 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[22:51:19	]S10/ORD.SWEEPER-12 has gained 0 chips.
+[22:51:19	]S10/ORD.SWEEPER-12 has gained a 'Frag Grenade' #2054874.
+[22:51:19	]S10/ORD.SWEEPER-12 has gained 0 chips.
+[22:51:19	]S10/ORD.SWEEPER-12 has gained a 'Frag Grenade' #2054875.
+[22:51:23	]S10/ORD.SWEEPER-12 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[22:51:25	]S10/ORD.SWEEPER-12 has gained 0 chips.
+[22:51:25	]S10/ORD.SWEEPER-12 has gained a 'Frag Grenade' #2054876.
+[22:51:27	]S10/ORD.SWEEPER-12 ran 'Equip' on item 'Frag Grenade' (#2054876)
+[22:51:28	]S10/ORD.SWEEPER-12 used command '/ToggleRaise'.
+[22:51:34	]S10/ORD.SWEEPER-12 destroyed a 'Repair Plating' #2051633.
+[22:51:34	]S10/ORD.SWEEPER-12 destroyed a 'Pulse Rifle Bullets' #2054740.
+[22:51:46	]S10/ORD.SWEEPER-12 ran 'removeMag' on item 'SR-1A' (#2052846)
+[22:51:46	]S10/ORD.SWEEPER-12 has gained a '30rnd Pulse-magazine' #2052862.
+[22:51:51	]S10/ORD.SWEEPER-12 has lost a '30rnd Pulse-magazine' #2052861.
+[22:52:00	]S10/ORD.SWEEPER-12 ran 'Deploy' on item 'Manhack' (#2052865)
+[22:52:06	]S10/ORD.SWEEPER-12 ran 'Deploy' on item 'Manhack' (#2052866)
+[22:52:16	]S10/ORD.SWEEPER-12 used command '/Radio MANHACK'.
+[22:52:31	]S10/ORD.SWEEPER-12 used the '<:: Overwatch Requisitions Terminal ::>' vendor.
+[22:52:52	]S10/ORD.SWEEPER-12 has given himself a manhack.
+[22:52:53	]S10/ORD.SWEEPER-12 has given himself a manhack.
+[22:52:59	]S10/ORD.SWEEPER-12 has spawned a manhack.
+[22:52:59	]S10/ORD.SWEEPER-12 has spawned a manhack.
+[22:53:01	]S10/ORD.SWEEPER-12 ran 'take' on item 'Manhack' (#2054878)
+[22:53:11	]S10/ORD.SWEEPER-12 ran 'take' on item 'Manhack' (#2054878)
+[22:53:11	]S10/ORD.SWEEPER-12 has gained a 'Manhack' #2054878.
+[22:53:13	]S10/ORD.SWEEPER-12 ran 'take' on item 'Manhack' (#2054877)
+[22:53:13	]S10/ORD.SWEEPER-12 has gained a 'Manhack' #2054877.
+[22:53:24	]S10/ORD.SWEEPER-12 opened the 'Personal Stash 4841' stash.
+[22:53:26	]S10/ORD.SWEEPER-12 closed the 'Personal Stash 4841' stash.
+[22:53:28	]S10/ORD.SWEEPER-12 used command '/ToggleRaise'.
+[22:53:40	]S10/ORD.SWEEPER-12 is fully healed.
+[22:53:56	]S10/ORD.SWEEPER-12 entered observer.
+[22:54:04	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4931][npc_zombie]'.
+[22:54:14	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[22:54:14	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4892][npc_zombie]'.
+[22:55:00	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4945][npc_headcrab]'.
+[22:55:23	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4882][npc_vj_hla_antlion]'.
+[22:55:50	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4852][npc_antlion_schizo_drone]'.
+[22:56:18	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4980][npc_antlion]'.
+[22:56:24	]S10/ORD.SWEEPER-12 has spawned a 'NPC [3781][npc_zombie]'.
+[22:57:02	]S10/ORD.SWEEPER-12 used command '/Play3DSound ambient/alarms/manhack_alert_pass1.wav 500'.
+[22:57:10	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[22:57:10	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4939][npc_manhack]'.
+[22:57:10	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[22:57:10	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4946][npc_manhack]'.
+[22:57:11	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[22:57:11	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4958][npc_manhack]'.
+[22:57:11	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[22:57:11	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4882][npc_manhack]'.
+[22:57:17	]S10/ORD.SWEEPER-12 has used a context menu option with the name: remove
+[22:57:19	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[22:57:19	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4858][npc_manhack]'.
+[22:57:25	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: vjstool_npcmover
+[22:57:26	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: vjstool_npcmover
+[22:57:27	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: vjstool_npcmover
+[22:57:28	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: vjstool_npcmover
+[22:57:28	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: vjstool_npcmover
+[22:57:29	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: vjstool_npcmover
+[22:57:30	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: vjstool_npcmover
+[22:57:31	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: vjstool_npcmover
+[22:57:32	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: vjstool_npcmover
+[22:57:33	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: vjstool_npcmover
+[22:57:50	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4933][npc_headcrab]'.
+[22:58:06	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4913][npc_zombie]'.
+[22:58:06	]S10/ORD.SWEEPER-12 has taken 8 damage from Antlion Drone.
+[22:58:08	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4938][npc_zombie]'.
+[22:58:10	]S10/ORD.SWEEPER-12 is fully healed.
+[22:58:14	]S10/ORD.SWEEPER-12 has taken 7 damage from Antlion Drone.
+[22:58:15	]S10/ORD.SWEEPER-12 has taken 9 damage from Antlion Drone.
+[22:58:15	]S10/ORD.SWEEPER-12 is fully healed.
+[22:58:28	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[22:58:28	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4939][npc_manhack]'.
+[22:58:28	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[22:58:28	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4981][npc_manhack]'.
+[22:58:28	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[22:58:28	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4913][npc_manhack]'.
+[22:58:28	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[22:58:28	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4987][npc_manhack]'.
+[22:58:29	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[22:58:29	]S10/ORD.SWEEPER-12 has spawned a 'NPC [5007][npc_manhack]'.
+[22:58:29	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[22:58:29	]S10/ORD.SWEEPER-12 has spawned a 'NPC [5017][npc_manhack]'.
+[22:58:54	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[22:58:54	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4890][npc_zombie]'.
+[22:58:55	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[22:58:55	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4892][npc_zombie]'.
+[22:58:55	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[22:58:55	]S10/ORD.SWEEPER-12 has spawned a 'NPC [3252][npc_zombie]'.
+[22:58:56	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[22:58:56	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4933][npc_zombie]'.
+[23:00:32	]S10/ORD.SWEEPER-12 used command '/Play3DSound ambient/alarms/manhack_alert_pass1.wav 500'.
+[23:00:33	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[23:00:33	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4851][npc_rollermine]'.
+[23:01:03	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[23:01:03	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4857][npc_manhack]'.
+[23:01:03	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[23:01:03	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4933][npc_manhack]'.
+[23:01:03	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[23:01:03	]S10/ORD.SWEEPER-12 has spawned a 'NPC [5006][npc_manhack]'.
+[23:01:03	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[23:01:03	]S10/ORD.SWEEPER-12 has spawned a 'NPC [5016][npc_manhack]'.
+[23:01:04	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[23:01:04	]S10/ORD.SWEEPER-12 has spawned a 'NPC [5022][npc_manhack]'.
+[23:01:38	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4857][npc_combinedropship]'.
+[23:01:41	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4853][npc_combinedropship]'.
+[23:01:47	]S10/ORD.SWEEPER-12 has used a context menu option with the name: bodygroups
+[23:01:49	]S10/ORD.SWEEPER-12 has used a context menu option with the name: bodygroups
+[23:01:58	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[23:01:58	]S10/ORD.SWEEPER-12 has spawned a 'NPC [2883][npc_combinedropship]'.
+[23:02:01	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[23:02:01	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4958][npc_combinedropship]'.
+[23:02:15	]S10/ORD.SWEEPER-12 has used a context menu option with the name: rb655_dissolve
+[23:02:26	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4855][npc_combinedropship]'.
+[23:02:31	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4855][npc_combinegunship]'.
+[23:02:48	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4978][npc_headcrab_fast]'.
+[23:02:49	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4911][npc_headcrab_fast]'.
+[23:02:55	]S10/ORD.SWEEPER-12 has spawned a 'NPC [4949][npc_zombie]'.
+[23:03:06	]S10/ORD.SWEEPER-12 exited observer at their location.
+[23:03:15	]S10/ORD.SWEEPER-12 entered observer.
+[23:03:16	]S10/ORD.SWEEPER-12 has fired a toolgun with the name: creator
+[23:03:16	]S10/ORD.SWEEPER-12 has spawned a 'Entity [4852][aw2_hunterchopper]'.
+[23:03:18	]S10/ORD.SWEEPER-12 exited observer at their location.
+[23:08:04	]MelonHeadzzz (STEAM_0:1:128800129) has disconnected.
