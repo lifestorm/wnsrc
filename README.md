@@ -14,7 +14,7 @@ Helix logs are included in builds below (data/helix/logs).
   * [Willard Networks: Development Server](https://google.com)
   * [Willard Networks: France (Echo One) )](https://google.com)
   * [Willard Networks: Poland (Veles)](https://google.com)
-  * [Willard Networks: Turkey](https://google.com)
+  * [Willard Networks: Turkiye](https://google.com)
 * **Forum**\
 Information about forum users obtained through the forum API.\
 It contains e-mail addresses. Does not contain authentication data.
