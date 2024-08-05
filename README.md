@@ -18,4 +18,4 @@ Helix logs are included in builds below (data/helix/logs).
 * **Forum**\
 Information about forum users obtained through the XenForo API.\
 Contains e-mail addresses. Does not contain any respected authentication data.
-  * [Forum users data stack](https://github.com/lifestorm/wnsrc/tree/forum)
+  * [Forum users data stack](https://github.com/lifestorm/wnsrc/blob/main/users.json)
