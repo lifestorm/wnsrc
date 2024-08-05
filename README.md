@@ -1,4 +1,6 @@
-![RADIOBOB](https://i.imgur.com/2sBHXrS.png)
+<p align="center">
+  <img src="https://i.imgur.com/2sBHXrS.png" height="200" width="auto">
+</p>
 
 # Willard Networks: Community Edition
 **We provide these files as is**. While you shouldn't use them like this on a production server, it's a good start for your own Willard Networks branch server! We don't provide direct support, but you can create an issue in this repository.
@@ -18,4 +20,4 @@ Information about forum users obtained through the forum API.\
 It contains e-mail addresses. Does not contain authentication data.
   * [Users data stack](https://google.com/)
 
-Bluntsmoke, Inc. © 2024
+**Bluntsmoke, Inc. © 2024**
