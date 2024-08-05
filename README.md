@@ -20,4 +20,4 @@ Information about forum users obtained through the forum API.\
 It contains e-mail addresses. Does not contain authentication data.
   * [Users data stack](https://google.com/)
 
-**Bluntsmoke, Inc. © 2024**
+**© 2024 Bluntsmoke, Inc.**
