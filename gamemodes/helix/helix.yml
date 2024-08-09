@@ -1,7 +1,0 @@
-database:
-  adapter: "mysqloo"
-  hostname: "1.4.8.8"
-  username: "This data has been removed due to a third-party claim sent through GitHub support. It cannot be hosted on this particular resource. The mirrors are shiny!"
-  password: "This data has been removed due to a third-party claim sent through GitHub support. It cannot be hosted on this particular resource. The mirrors are shiny!"
-  database: "This data has been removed due to a third-party claim sent through GitHub support. It cannot be hosted on this particular resource. The mirrors are shiny!"
-  port: 3306
